@@ -35,7 +35,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule : Criw5zhE0bI-HD.jpg 
+!!!warning Second OP Post - Tag schedule : Criw5zhE0bI-HD.jpg - Note from the main baker for any intern-kuns regarding this very specific schedule: grab the thumbnail from the [Schedule room](https://www.youtube.com/watch?v=Criw5zhE0bI) in her channel with [Thumbnail Downloader](https://youtube-thumbnail-grabber.com/).
 \>Basic introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M

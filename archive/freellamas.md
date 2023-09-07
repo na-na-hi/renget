@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** ~~**Stheno-l2-q4 scaled to 8k**~~
+**Model:** **Stheno-l2-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://pubmed-place-shaw-operator.trycloudflare.com```
 
 ***
 **System prompt:**
@@ -85,4 +85,4 @@ https://rentry.org/free70bllama2
 https://proxy.chub-archive.evulid.cc/api
 
 ##### Contact
-Sacrifice your village's virgin to me at sandwich4093@proton.me
+sandwich4093@proton.me

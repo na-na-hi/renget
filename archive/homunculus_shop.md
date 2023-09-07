@@ -1,5 +1,5 @@
-!!! info News & Possible Hiatus
-    I am currently testing out various AI models to run my cards, plus also working on the cards themselves. It's highly likely I go on another hiatus, but you can probably expect a significant increase in the quality of my cards soon, writing wise!
+!!! info I'm Not Dead!!!
+    I've been getting back into Pokémon recently because of the new Teal Mask DLC just around the corner. No excuses or actually valid reasons as to why I'm not currently making bots, I'm just goofing around on Miraidon's back.
 
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 

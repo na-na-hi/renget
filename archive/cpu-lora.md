@@ -1,12 +1,13 @@
 # Finetune LoRA on CPU using llama.cpp
 
-**Note: This feature isn't merged into the master branch YET, but it's [very close](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1705652970). I will update the guide once it's merged.**
+!!! danger This feature is working, but it isn't [merged into the master branch YET](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1705652970). I will update the guide with the correct paths once it's merged.
 
 Think of a LoRA finetune as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
 
 For more information, please see the [LLM Training Guide rentry](https://rentry.org/llm-training). They have more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide focused on the llama.cpp implementation.
 
-**Important Note:** Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You mostly just need tons of RAM (not VRAM, this doesn't use your GPU at all). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
+!!! warning Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training.
+    You need tons of RAM (not VRAM, this doesn't currently use your GPU at all). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
 
 To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below. If you use a different path, just make sure to adjust the commands.
 
@@ -43,9 +44,12 @@ Once llama.cpp has been compiled, you don't need to repeat any of these steps (u
 3. Open a command prompt and move to the working folder: `cd C:\lora`
 4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14`
 
-Obviously you need to adjust that last step a little bit. Specifically, change the model name to match your model name, change the file name of the training data to match your training data, and change the number of threads to match the number of physical processors in your system. **See [Appendix B](#appendix-b-stheno-training-example) below for a full example of how to train Stheno using training data, or a chat log from SillyTavern.**
+Obviously you will need to adjust step 4 to specify your actual base model name, training data name, and the number of threads (physical processors) in your system.
 
-Additionally, the above command uses the default values for a ton of settings (which is mostly fine), but you probably want to go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
+!!! warning The above command uses the default values for a ton of settings.
+    Go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
+
+!!! info See [Appendix B](#appendix-b-stheno-training-example) for a full training example using Stheno and training data/chat logs from SillyTavern.
 
 ### Models with Known Issues
 
@@ -65,7 +69,7 @@ If you use llama.cpp's main.exe, [see the documentation for finetune.](https://g
 
 ## Appendix A - Hardware Requirements
 
-**This section is a work-in-progress. It takes a while to try things, so updating this is slow-going. I'm setting up a script to automate this, so please be patient.**
+!!! danger This section is a work-in-progress. It takes a while to try things, so updating this is slow-going. I'm setting up a script to automate this, so please be patient.
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
 
@@ -94,7 +98,7 @@ Extra tests (compare against the first row):
 - Using `--no-checkpointing` (instead of the default `--use-checkpointing`), increased to RAM to 16.7 GB, but decreased the time to 45 minutes.
 - Increasing the Rank (`--lora-r 16` & matching all other ranks) increases the RAM to 9.1 GB
 
-TODO: I need to figure out a better format for the above table & extra tests so it can accommodate more inputs. There are many options that affect RAM, and execution time, and if I try to add them all to that table, it's going to become very wide. I am also currently automating this data collection.
+**TODO:** I need to figure out a better format for the above table & extra tests so it can accommodate more inputs. There are many options that affect RAM, and execution time, and if I try to add them all to that table, it's going to become very wide.
 
 I was unable to load any 34B and 70B models, but I think it's due to the model formatting. They require more RAM than I have anyway.
 
@@ -102,7 +106,7 @@ Context size (`ctx`/`--ctx`) greatly affects RAM usage and training time. Adam i
 
 ## Appendix B - Stheno Training Example
 
-**Note: I am not an expert on training data formatting. If I have misunderstood the expected format, PLEASE let me know so I can put the data in a more optimal format.**
+!!! warning I am not an expert on training data formatting. If I have misunderstood the expected format, PLEASE let me know so I can put the data in a more optimal format.
 
 The first thing you'll want to do is prepare your training data. Generally it's best to match the format the original model was trained with. Since Stheno uses the Alpaca format, the examples here will match that as well. Start by creating a text file named `C:\lora\training-data.txt`, and copy this template into it:
 
@@ -164,15 +168,19 @@ Amy: *You've never seen her so excited before. She grabs your wrist, dragging yo
 
 Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting).
 
-**Each block inside of a `<s>`/`</s>` pair denotes one training sample. You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.** While you can definitely use your own prompts for some of it, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
+!!! info Each block inside of a `<s>`/`</s>` pair denotes one training sample.
+    You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.
+
+While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
 
 One last thing to note: Make sure the text file uses \*nix style line endings (`\n`), not Windows style (`\r\n`). Most text editors have an option to switch the formatting.
 
 Next, just follow the "Create your LoRA" instructions above, and use this command: `llama.cpp/finetune.exe --model-base stheno-l2-13b.Q5_K_M.gguf --train-data training-data.txt`
 
-Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
+!!! info Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
 
-**Important Note:** If you use a different model, run a dummy text file through `finetune.exe` it before you format your training data. When it loads, look for `BOS token = 1 '<s>'`, `EOS token = 2 '</s>'`, and '`LF token = 13 '<0x0A>'`. If any of these don't match, you need to change the above formatting to match them.
+!!! warning If you use a different model, the beginning, ending, and line feed tokens can be different.
+    Run a small text file of training data through `finetune.exe` **before** you format your training data. When it loads, confirm these settings `BOS token = 1 '<s>'`, `EOS token = 2 '</s>'`, and '`LF token = 13 '<0x0A>'`. **If any of these don't match, you need to change the above formatting to match them.**
 
 ## Appendix C - finetune.exe Usage
 
@@ -210,7 +218,7 @@ These parameters just help organize files/control file naming.
 
 ### Performance
 
-These only affect system performance: `--threads`, `--use-checkpointing`/`--no-checkpointing`
+These only affect system performance.
 
 - `-t N`, `--threads N`: Number of threads (default 6)
   - Set this to the number of physical CPU cores in your system. In the Windows Task Manager, go to the "Performance" tab, click on "CPU", and look for the number of "Cores" (NOT the number of logical processors). Some people recommend using number of cores + 1.
@@ -222,17 +230,18 @@ These only affect system performance: `--threads`, `--use-checkpointing`/`--no-c
 
 ### Input Model Parameters
 
-These just vary based on the input model's information.
+These vary based on the input model's information.
 
 - `--rope-freq-base F`: Frequency base for ROPE (default 10000.000000)
-  - This number should match the rope freq. base used on the input model. **Usually the default is correct, but for code llama models use `1000000`.**
+  - This number should match the rope freq. base used on the input model. **Usually the default is correct, but for code llama models you should use `1000000`.**
   - Example: `--rope-freq-base 1000000`
 
 ### LoRA Quality
 
 These directly impact the quality of your LoRA. You should definitely read these and intentionally set them to specific values. This is probably the most confusing and unintuitive part of training.
 
-If you just want settings like [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2), you can use these: `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065` (**Note:** Set `--adam-iter` to 2x the number of samples in your data. They had 1550 samples. Also, `--lora-dropout` [isn't implemented yet](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781) in llama.cpp.)
+!!! info If you just want settings like [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2), you can use these: `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065`
+    Set `--adam-iter` to 2x the number of samples in your data. They had 1550 samples. Also, `--lora-dropout` [isn't implemented yet](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781) in llama.cpp.)
 
 These first two control the context size:
 
@@ -244,6 +253,8 @@ These first two control the context size:
 
 These three control how much data is processed and are based on the number of training samples you have:
 
+!!! warning If you are experienced at training LoRA's, please let me know if this section is correct/incorrect!
+
 - `-b N`, `--batch N`: Parallel batch size (default 8)
   - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this as large as your hardware can support. I've seen a few different data sets that just use a size of 1.
   - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't an integer multiple, some batches just won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1, which keeps it simple.
@@ -251,13 +262,15 @@ These three control how much data is processed and are based on the number of tr
 - `--grad-acc N`: Number of gradient accumulation steps (simulates larger batch size of batch*gradacc) (default 1)
   - This is an artificial multiplier for the batch size. Using gradient accumulation basically runs more batches in series (instead of in parallel), which provides the same quality benefit as increasing the batch size. This process is slower, but uses much less RAM.
 - `--adam-iter N`: Maximum number of Adam optimization iterations for each batch (default 256)
-  - This is the number of iterations the training will run for. **If you are experienced at training LoRA's, please let me know if this section is correct!**
-  - Each iteration runs one `--batch` of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
+  - This is the number of iterations the training will run for. Each iteration runs one `--batch` of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
   -  Other programs use ["epochs"](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/), which are calculated based on the number of training samples, the batch size, and the number of iterations.
     - If you want to convert epoch's to iterations, do: `(training samples / batch size) * epochs`
   - Example: `--adam-iter 30`
-  - Note 1: After all of the training data has been seen once (1 epoch), finetune will reshuffle your training examples, which results in batches with different samples.
-  - Note 2: Currently, if you stop training part-way through and resume from a checkpoint you will end up with a different end result because [certain randomized information isn't stored across runs](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1708761811). So if it's important to you to be able to perfectly reproduce your LoRA, make sure you don't stop and restart the training.
+
+!!! info After all of the training data has been seen once (1 epoch), finetune will reshuffle your training examples, which results in batches with different samples.
+
+!!! warning Currently, if you stop training part-way through and resume from a checkpoint you will end up with a different end result because [certain randomized information isn't stored across runs](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1708761811).
+    So if it's important to you to be able to perfectly reproduce your LoRA, make sure you don't stop and restart the training.
 
 These three control how well the model learns:
 
@@ -296,7 +309,7 @@ I'm still learning the effects of changing these, but by default they all use th
 
 ### Miscellaneous
 
-These are things you probably don't want to use, or just don't care about
+These are things you probably don't want to use, or just won't care about.
 
 - `-h`, `--help`: Show the help message and exits
 - `-s SEED`, `--seed SEED`: RNG seed (default: -1, use random seed for -1)
@@ -308,13 +321,13 @@ These are things you probably don't want to use, or just don't care about
 - `--use-adam`: Use Adam optimizer (default)
   - The Adam optimizer is probably what you want. You don't need to set this as it is the default.
 - `--use-lbfgs`: Use LBFGS optimizer instead of default Adam
-  - If memory isn't a concern (it almost always is), LBFGS is more accurate and effective than Adam. However, during testing 
-  - You probably want to use the Adam optimizer. See `--use-adam`.
+  - If memory isn't a concern (it almost always is), LBFGS is more accurate and effective than Adam. However, during testing some people have noted that the LBFGS results weren't as good as Adam.
+  - **You almost definitely want to use the Adam optimizer.** See `--use-adam`.
 - `--lbfgs-iter N`: Maximum number of LBFGS optimization iterations for each batch (default 256)
 
 ### Unknown
 
-I haven't figured out exactly what these parameters do. If you do know, please share the information and I'll be happy to add it here!
+!!! danger I haven't figured out exactly what these parameters do. If you know, please share the information and I'll be happy to add it here!
 
 - `--norm-rms-eps F`: RMS-Norm epsilon value (default 0.000010)
 - `--samples-after-nl`: Training samples start after newlines. (default off)
@@ -350,10 +363,10 @@ I'm just using this section to compile all the questions I've seen and there ans
 **A:** Not that I'm aware of at this time. I don't think there's a way to undo the conversion to GGML/GGUF, but it might happen one day.
 
 **Q:** Does this mean that I could use Star Trek episode scripts to fine tune a model for a more accurate Spock with access to his dialogue from said scripts?
-**A:** Yes and no. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and not stored verbatim. However, if you repeat the same information multiple times (rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
+**A:** Yes and no. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and training data is not stored verbatim. However, if you repeat the same information multiple times (preferably rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
 
 **Q:** Which base model should I use?/Why Stheno and not Mythomax?
-**A:** Assuming you're trying to fine-tune for ERP, pick the smartest model with the nicest prose. It's a lot easier to teach it to be lewd than it is to teach it to be smart.
+**A:** You generally want to start with the smartest model, or a model that's already close to what you want, and fine-tune in specific behavior.
 
 **Q:** How do I know it's running?/It looks stuck, is this normal?
 **A:** If the last line looks like the text below, it's running. It will just take a while. The "eta" gets more accurate after iteration 2 or 3.
@@ -368,5 +381,5 @@ It can also get stuck on `main: tokenize training data` for quite a while if you
 - 2023-09-06
   - Updated for changes in llama.cpp, up to commit xaedes:0c2c9c7.
   - Added llama.cpp update instructions.
-  - Added a section for problematic models
-  -
+  - Added a section for problematic models.
+  - Tons of fixes, cleanup, and formatting.

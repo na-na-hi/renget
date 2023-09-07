@@ -169,6 +169,7 @@
 **Water-Transparent pen ver. 2 (透けない水性ペンver.2)** | [1738551](https://assets.clip-studio.com/en-us/detail?id=1738551) | [DL](https://pixeldrain.com/u/VVrxXLzM) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/51/85/1738551/thumbnail?1552552663)
 **Line drawing pen for yourself (自分用線画ペン)** | [2020521](https://assets.clip-studio.com/en-us/detail?id=2020521) | [DL](https://files.catbox.moe/s6fdhp.sut) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/05/2020521/thumbnail?1690812213)
 **✤ CHERU HAIR HIGHLIGHT BRUSHES ✤** | [2027493](https://assets.clip-studio.com/en-us/detail?id=2027493) | [DL](https://pixeldrain.com/u/yJkA2Hgd) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/93/74/2027493/thumbnail?1693231856)
+**線画も塗りもいける めか筆圧ペンセット** | [2029375](https://assets.clip-studio.com/ja-jp/detail?id=2029375) | [DL](https://files.catbox.moe/s6wp91.rar) | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/93/2029375/thumbnail?1693987054)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()

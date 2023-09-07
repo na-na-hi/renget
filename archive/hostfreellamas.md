@@ -34,7 +34,7 @@ Params | 7B | 13B | 33B |34B| 70B
  **VRAM required** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.5k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
 
 b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
-- ggml/gguf also works. Oobabooga already supports llama.cpp loader. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
+- ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
 - Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.
 - This guy quantizes: https://huggingface.co/TheBloke
 - If you only serve yourself, run at least q5_k_m ggml for the optimal quality tradeoff, if you can afford it. The quality bump from q4 is more than the perplexity difference suggests.
@@ -83,7 +83,7 @@ Follow the steps in this link, but at the Image Selection step, click Edit and a
 ![vast.ai params](https://files.catbox.moe/v05qh5.png)
 Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
-For 48GB VRAM dual-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama.
+For 48GB VRAM dual-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama. More GPUs is always slower.
 
 f. Inference is always faster on Linux, about 10% to 30% improvement depending on what you run.
 

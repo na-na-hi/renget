@@ -4,11 +4,12 @@
 ### Indiana Koi
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
+Ruri | 07/09/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/ruri-0a4ae9cc/main) | ![](https://files.catbox.moe/j0ff9m.png)
 Mackenzie | 18/07/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/649638ea-052b-4bd7-8f46-98b2d4254449/main) | ![](https://files.catbox.moe/735adt.png)
 Kaori | (01/7/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Kaori) | ![](https://files.catbox.moe/rzgzdt.png)
-Maki | (21/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Maki) | ![](https://files.catbox.moe/l4cyqi.png)
-Suzume | (10/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Suzume) | ![](https://files.catbox.moe/x86rgz.png)
-Suzume's chat | (10/6/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/suzumes-livestream-chat) | https://files.catbox.moe/s4zwuj.png
+Maki | (21/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Maki) | ![](https://files.catbox.moe/l4cyqi.png)
+Suzume | (10/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Suzume) | ![](https://files.catbox.moe/x86rgz.png)
+Suzume's chat | (10/06/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/suzumes-livestream-chat) | https://files.catbox.moe/s4zwuj.png
 Nina | (5/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/3c62eg.png)
  
 ###Osaka Phoenixes
@@ -834,12 +835,13 @@ Perspiration: This is the current perspiration level of {{char}}. This statistic
 
 ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
 
--> **Mail me with the subject "Found" for the token: pitanon02@proton.me [0/2]** <-
+-> **Mail me with the subject "Found" for the token: pitanon02@proton.me [1/2]** <-
 -> ![](https://files.catbox.moe/z3opoe.png) <-
 
 ###Card Art
 | Character | Images
 |---|---|
+Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip
 Nina | https://files.catbox.moe/8i50m3.zip
 Suzume | https://files.catbox.moe/kyttbm.zip https://files.catbox.moe/7yb8ms.zip https://files.catbox.moe/apg4jf.zip
 Mimi | https://files.catbox.moe/wrkp64.zip https://files.catbox.moe/u4st5i.zip

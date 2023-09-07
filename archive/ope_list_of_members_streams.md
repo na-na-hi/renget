@@ -37,4 +37,4 @@ As far as streaming content goes, ASMR was the first thing cited as the possible
 
 |Date|Nature|Link & Thumbnail|Notes|Duration|
 | ------ | ------ | ------ | ------ | ------ |
-|In 2 Weeks | Possibly ASMR | ------ | ------ | ------ |
+|[Next Week](https://youtu.be/1Pf0NecT6yI?t=4291) | ASMR (long-time debated) or Zatsudan (speculation) | ------ | ------ | ------ |

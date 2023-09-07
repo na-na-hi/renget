@@ -96,7 +96,7 @@
 06/2023|[Improving Open Language Models by Learning from Organic Interactions (BlenderBot 3x)](https://arxiv.org/abs/2306.04707)
 06/2023|[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 06/2023|[Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://arxiv.org/abs/2306.15687)
-07/2023|[Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3leon)](https://archive.ph/pGJls)
+07/2023|[Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3leon)](https://arxiv.org/abs/2309.02591)
 07/2023|[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://archive.ph/nHQ15)
 08/2023|[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://archive.ph/J8xMD)
 08/2023|[D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://arxiv.org/abs/2308.12284)
@@ -184,6 +184,7 @@
 08/2023|[Separate Anything You Describe](https://arxiv.org/abs/2308.05037)
 08/2023|[StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data](https://arxiv.org/abs/2308.10253)
 09/2023|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://arxiv.org/abs/2309.01950)
+09/2023|[Matcha-TTS: A fast TTS architecture with conditional flow matching](https://arxiv.org/abs/2309.03199)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -344,6 +345,8 @@
 09/2023|[Making Large Language Models Better Reasoners with Alignment](https://arxiv.org/abs/2309.02144)
 09/2023|[Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
 09/2023|[Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices](https://arxiv.org/abs/2309.02411)
+09/2023|[SLiMe: Segment Like Me](https://arxiv.org/abs/2309.03179)
+09/2023|[Norm Tweaking: High-performance Low-bit Quantization of Large Language Models](https://arxiv.org/abs/2309.02784)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

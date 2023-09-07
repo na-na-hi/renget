@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Ruri](https://files.catbox.moe/j0ff9m.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Leonidas](https://files.catbox.moe/nz5x9u.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucy](https://files.catbox.moe/g7xb3i.png), [Forte](https://files.catbox.moe/716tgp.png), [Angel](https://files.catbox.moe/rxcwvx.png), [Cass](https://files.catbox.moe/vw3wpl.png), [Nicole](https://files.catbox.moe/3uay4n.png), [Hailey](https://files.catbox.moe/rhzdlm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Natsuko](https://files.catbox.moe/anpft4.png)|
@@ -44,15 +45,15 @@ Botmaker | Category | New Bots | Updated Bots
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Narua](https://files.catbox.moe/2yvilz.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Evelina](https://files.catbox.moe/sufjho.png)|[Kurisu Makise](https://files.catbox.moe/2nwt32.png), [Evelina](https://files.catbox.moe/sufjho.png) [MV]
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katherine](https://files.catbox.moe/dpqj51.png)|
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Proffesor Vitanis](https://files.catbox.moe/ljlccb.png)|
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||[Tadashi](https://files.catbox.moe/7vru9g.png)
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||[Yvolt](https://files.catbox.moe/laa9w0.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
@@ -65,7 +66,6 @@ Botmaker | Category | New Bots | Updated Bots
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Arkane](https://rentry.org/arkanebots) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Anonaugus](https://rentry.org/anonaugusproductions) | Misc ||
 [Creamsan](https://rentry.org/oqhyw) | Misc ||
 [Deleterious](https://rentry.org/deleterious) | Misc ||

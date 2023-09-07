@@ -1,4 +1,25 @@
 ▶NEW CLIPS
+>Russian sabotage and scout groups working in the Ukranian border area (kino, semi uncomfy)
+https://files.catbox.moe/ej4ovq.mp4
+>M113 hits mine and hohols abandon the crew
+https://files.catbox.moe/sqjvnp.mp4
+>More dorito strikes at port Reni, Odessa oblast
+https://files.catbox.moe/vdaui5.mp4
+>Konstantinovka missile strike
+https://files.catbox.moe/kc9994.MP4 (birthday edit)
+https://files.catbox.moe/1wa6z0.mp4 (aftermath)
+https://files.catbox.moe/t2gjku.mp4
+>FPV drone bullseyes
+https://files.catbox.moe/wor64p.mp4
+https://files.catbox.moe/t3n7u7.mp4
+>Destroyed Challenger tank
+https://files.catbox.moe/xppybu.mp4 (different view)
+https://files.catbox.moe/hls3m2.mp4
+https://files.catbox.moe/0s018e.webm (translated)
+>TOTAL HOHOLINA DRAFT
+https://files.catbox.moe/t4tcba.mp4
+>Dorito onslaught against the port in Kiliya, Odessa
+https://files.catbox.moe/jr035a.mp4
 >Hohols BOBR'ed
 https://files.catbox.moe/swn4r8.mp4
 again https://files.catbox.moe/dauce8.mp4
