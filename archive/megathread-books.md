@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🔗 [Course Drive](https://coursedrive.org)
 - Video lessons from Udemy, Lynda, Packetpub, Pluralsight + more are available for free download. 
@@ -112,6 +112,10 @@
 - Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 - [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
 
+### 🔗 [Sheet-Music](https://sheet-music.xyz/)
+- Large selection of piano sheet music that is available for free download.
+- [URL Safety Results](https://www.urlvoid.com/scan/sheet-music.xyz/)
+
 ### 🔗 [TutsNode](https://tutsnode.net/)
 - Free educational tutorials in software, design, and academics, among other fields.
 - [URL Safety Results](https://www.urlvoid.com/scan/tutsnode.net/)
@@ -138,7 +142,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Browser Reading
+# 📑 ➜ Browser Reading
 
 ### 📒 [Comic Extra](https://comicextra.net/)
 - Large database of Marvel, DC, and Dark Horse comics is available online for free reading.
@@ -166,7 +170,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Desktop Apps
+# 📑 ➜ Desktop Apps
 
 ### 🔗 [HakuNeko](https://hakuneko.download/)
 - Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
@@ -178,7 +182,7 @@
 
 &nbsp;
 
-# 📑 4 ➜ Manga
+# 📑 ➜ Manga
 
 ### 🌸 [Chibi Manga](https://www.cmreader.info/)
 - Website that is precise about the series it offers and focuses on certain genres, such harem, school life, and one-shots.
@@ -250,7 +254,7 @@
 
 &nbsp;
 
-# 📑 5 ➜ Search Engines
+# 📑 ➜ Search Engines
 
 ### 🐐 [Anna's Archive](https://annas-archive.org/)
 - Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
@@ -274,7 +278,7 @@
 
 &nbsp;
 
-# 📑 6 ➜ Streaming
+# 📑 ➜ Streaming
 
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/)
 - Easy to use design that makes it simple to locate the audiobook you want to listen to.
@@ -354,7 +358,7 @@
 
 &nbsp;
 
-# 📑 7 ➜ Torrents
+# 📑 ➜ Torrents
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 - Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.

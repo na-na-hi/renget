@@ -184,5 +184,6 @@
 |06/09/2023|160 & 161|Lover of Idols Pages|Addition of Bijou's POV for the Advent Minecraft Collab of 06/09/2023.|
 |06/09/2023|162|Lover of Idols II - OHC & Mentions|Addition of a timestamp from a Understanding segment from  FWMC Morning #16.|
 |06/09/2023|163 & 164|Lover of Idols Pages|Addition of Nerissa's POV for the Advent Minecraft Collab of 06/09/2023.|
+|06/09/2023|165|Lover of Idols I - Collabs on Nerissa's channel|Addition of Nerissa's POV for the upcoming collab on Minecraft with Kiara.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -11,10 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Current stream
-https://www.youtube.com/watch?v=DoGK5jSrLaE
 Past streams
-https://www.youtube.com/watch?v=1t215gusXA4
+https://youtu.be/1Pf0NecT6yI
+https://www.youtube.com/watch?v=DoGK5jSrLaE
 
 \>Songs
 Cover of Kalafina - Magia

@@ -40,11 +40,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D 
-https://rentry.org/2ngq2
-New Build:
-Luccione:
->>90146415
+MHA is storing up energy.
+
+>Maru 101
+>>90160675
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -792,6 +791,42 @@ https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
 https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
 >Isha's war cry
 https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
+```
+
+#Accidental Magical Girl
+***
+Page 1
+***
+```
+"Rules"
+>Play as is
+>You can choose either point buy or rolling 12d20
+>That's it
+This is AMGC which is slightly different from the original AMGCYOA. You can port your characters pretty easily to this version.
+
+Build List:
+>Misao Furijo*
+>>90125163
+>>90168244 (Misao's Puchuu.)
+
+>Jesterbelle
+>>90137242
+> Tsukishiro Arika
+>>90138764
+>Chie Mitarai
+>>90139598
+>Magdelene
+>>90147959
+>Ester Marian
+>>90148022
+>Tsukuda Haruki
+>>90148156
+>Solomon Talbot
+>>90154169
+
+Writefags:
+>Lesson 1: Diligence(Misao)
+https://rentry.org/dm26u
 ```
 #JRPG (Reboot)
 ***
