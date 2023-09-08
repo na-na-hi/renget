@@ -129,6 +129,7 @@
 07/2023|[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 08/2023|[Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference](https://arxiv.org/abs/2308.12066)
 09/2023|[Efficient RLHF: Reducing the Memory Usage of PPO](https://arxiv.org/abs/2309.00754)
+09/2023|[DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)

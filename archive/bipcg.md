@@ -1,9 +1,16 @@
 ▶NEW CLIPS
->Russian sabotage and scout groups working in the Ukranian border area (kino, semi uncomfy)
-https://files.catbox.moe/ej4ovq.mp4
+>Stoltenberg is a Redditor
+https://files.catbox.moe/t5wf2d.mp4
+>Russian sabotage and scout groups working in the Ukranian border area (semi uncomfy)
+https://files.catbox.moe/ej4ovq.mp4 (kino)
+https://files.catbox.moe/36dean.mp4 (dead glowie monument)
+https://files.catbox.moe/ntfnq0.mp4 (dead glowies)
+>Hohols in charge of launching a rocket
+https://files.catbox.moe/qkemhn.mp4
 >M113 hits mine and hohols abandon the crew
 https://files.catbox.moe/sqjvnp.mp4
 >More dorito strikes at port Reni, Odessa oblast
+https://files.catbox.moe/kumlzr.mp4
 https://files.catbox.moe/vdaui5.mp4
 >Konstantinovka missile strike
 https://files.catbox.moe/kc9994.MP4 (birthday edit)

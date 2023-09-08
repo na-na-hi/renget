@@ -561,6 +561,8 @@ Sandy and Mio casualwear: https://desuarchive.org/tg/thread/89851223/#89859158
 Marumaru character sheet: https://desuarchive.org/tg/thread/90030958/#90032228
 Chibi Sandatsu Stamp: https://desuarchive.org/tg/post/90104227/
 Inigo's Phone: https://desuarchive.org/tg/post/90102567/
+Maru 101: https://desuarchive.org/tg/post/90160675/
+Kids on my hero: https://desuarchive.org/tg/thread/90171418/#90175866
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -839,6 +841,8 @@ The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawai
 Date Gossip: https://rentry.org/f78w2
 Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako): https://rentry.org/6p6na
 The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D - https://rentry.org/2ngq2
+The Investigation Continues (Mirror Devil, Last Rite, Noctiluca): https://rentry.org/fuisbz
+Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

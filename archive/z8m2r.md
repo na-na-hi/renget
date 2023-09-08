@@ -121,7 +121,7 @@ Fem Dommy Tomboy - Bounty Hunter trying to blow off some steam, buy her a drink 
 	`There was a "Pandora's Forest" RPG here. It's gone now, somewhat reused for Very Tired Succubus.`
 ![](TODO) 1844 Tokens (1230 Permanent)
 
->I've decided to replace the RPG; with either a Anthro Pokémon MILF harem thing. Arceus needs (You) to fix a problem for them, but never bothered telling you what it was. The local Pokémon are a bit odd, but friendly enough. Alt. Greeting/s for a less friendly group of Mons. Uses SillyTavern's {{random}} for which Mon you meet initially.
+>I've decided to replace the Pandora's Forest RPG; with a Anthro Pokémon MILF harem thing. Arceus needs (You) to fix a problem for them, but never bothered telling you what it was. The local Pokémon are a bit odd, but friendly enough. Alt. Greeting for a less friendly group of Mons. Uses SillyTavern's {{random}} for which Mon you meet initially.
 >>Using this [Pokédex Lorebook](https://www.chub.ai/lorebooks/drcubone12/pokedex) is probably not needed, but I would just in case. Turbo knows the ones I tested, but gets confused pretty often; the world info helps somewhat.
 ***
 
@@ -177,7 +177,7 @@ Dullahan
 Fem Gobbo Tribe
 - [X] Char. Defs
 - [X] SD Art Gen. (Mostly happy with it.)
-- [ ] Optimize
+- [X] Optimize
 - [ ] Test & Update
 
 Very Tired Succubus
@@ -194,7 +194,7 @@ Anthro 1
 
 Anthro 2
 - [x] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [X] Optimize
 - [ ] - Holy fucking shit do another round. 2k permanent tokens is *not* okay, even with new Turbo.
 - [ ] Test & Update
@@ -233,7 +233,7 @@ Togruta
 ***
 PokéMILF Gang
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
@@ -247,24 +247,24 @@ CYOA
 
 Bonus: Bimbo Kui-Tan
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen.
 - [ ] Optimize
 - [ ] Test & Update
 
 Bonus: Seraphim
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
 Bonus: Princess Rescue Quest
 - [X] Char. Defs (Mostly written.)
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
 Shitpost: Racist Femboy
 - [X] Char. Defs (Mostly written.)
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update

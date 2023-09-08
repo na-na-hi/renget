@@ -1,8 +1,12 @@
+Sep 8 2023
+-> **Check out** <-
+# [Based Mods](https://basedmods.eth.link/)
+It's like this page except much better, and the admin seems cool. I probably won't put in much more work on this page. Thanks for all the support.
+
+
 !!! info -> Non-Newtonian Mods and mods hated by the Newtonian fandom <-
 -> ![Image description](https://files.catbox.moe/n6fl4d.png) <-
 ->==**Want to contribute? Add nnm2022 to your post so I can find you in the archive.**==<-
-Aug 27
-Hi friends. I'm not dead, just very busy. I'll clean this page up asap.
 
 [TOC]
 ##**Hogwarts Legacy**

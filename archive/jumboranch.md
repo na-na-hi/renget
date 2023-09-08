@@ -3,7 +3,7 @@
 
 ->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/kusaze.png)<-
 ***
-**Working on a fork card, Ehzi lore, Raccoon and maybe something new**
+**Working on a fork card, Ehzi lore, Raccoon girl, and probably a younger brother for 'Ellie' the Meowscarada.**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
 
 ***(WIP)***
@@ -77,8 +77,9 @@ I do make expressions for my bots I use a lot (Nyxie, Aila, Arissa, Sunny, few m
 Decent quality touched up SD, but the styles don't always match, which is why I don't put them up by default.
 ###Bots In Progress:
 Ehzi the 'Armadillo' Kobold - 75% - Lorebook, CharBook, probably expression.
+Floragato little brother for Ellie (Meowscarada) - 10% - Writing Character Defs.
 Bear Girl bully - maybe.
-Fem Fizz(LoL) - Yes
+Fem Fizz(League of Legends)(genderflip) - Yes
 Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
