@@ -34,7 +34,7 @@ Threat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.p
 Clementine | (21/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/clementine-372e314f/main) | ![](https://files.catbox.moe/gs9cte.png)
 Albedo | (19/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/albedo-5140c31b/main) | ![](https://files.catbox.moe/t4i23e.png)
 Hatsune Miku | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/miku-d1b931c6/main) | ![](https://files.catbox.moe/kxxtsu.png) | ![](https://files.catbox.moe/7lj1vp.png)
-Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png https://files.catbox.moe/xzr64x.png
+Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png
 
 #Re:Zero
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
@@ -834,9 +834,6 @@ Put this at the end of the character's description
 Perspiration: This is the current perspiration level of {{char}}. This statistic will provide a short description of any sweat on {{char}} body as well as their smell.
 
 ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
-
--> **Mail me with the subject "Found" for the token: pitanon02@proton.me [1/2]** <-
--> ![](https://files.catbox.moe/z3opoe.png) <-
 
 ###Card Art
 | Character | Images

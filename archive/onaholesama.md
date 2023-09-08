@@ -43,6 +43,7 @@ Image| Name | Description | Link
 mostly femdom. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![psyop](https://files.catbox.moe/9izzte.png) | Bianca | works for the FBI and is trying to psyop you, but you know better than that right anon? | [CHUB link](https://www.chub.ai/characters/onaholesama/bianca-750485dd)
 ![V1X3N](https://files.catbox.moe/62j8s5.png) | Siren | android waifur that wants to empty your wallet. the example chats arent necessary in this card- feel free to delete them to save on tokens | [CHUB link](https://www.chub.ai/characters/onaholesama/siren-eaf8b6bb)
 ![Oh no..](https://files.catbox.moe/ragcah.png) | **ΔΤΔ** | (You) just moved into your college dorm.. not knowing it was a sororiety house | [CHUB link](https://www.chub.ai/characters/onaholesama/delta-tau-delta-120b2c59/main)
 ![dont leave me..](https://files.catbox.moe/zqeml2.png) | Mal0 | SCP-1471, card is focused on the texting aspect | [CHUB link](https://www.chub.ai/characters/onaholesama/mal0-feb8ed97)

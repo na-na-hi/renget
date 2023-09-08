@@ -416,7 +416,7 @@ Multi-Hit Moves, similar to Room-Hitters, do **not** accept Offensive Stats dire
 
 Depending on external factors, the damage of these Moves, like all Moves, may be increased or decreased. Here is how such cases are handled.
  - **Type Effectiveness** affects the final damage number as normal.
- - **Attack** and **Special Attack** increases and decreases affect the final damage number as normal.
+ - **Attack** and **Special Attack** increases and decreases (such as Swords Dance) affect the final damage number as normal.
  - **Defense** and **Special Defense** affect the final damage number as normal.
  - **STAB** affects the final damage number as normal.
  - **Critical Hits** *cannot occur naturally* without the use of Laser Focus or Items which guarantee a Crit.

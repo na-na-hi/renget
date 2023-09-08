@@ -2,7 +2,7 @@
 Recent C.AI Updates: | ⠀ | ⠀
 :-: | :- | :-
 -> **Newest Pokémon Bots** <- | -> ![Jasmine](https://characterai.io/i/80/static/avatars/uploaded/2023/9/6/DHoX4c4maj_ULyV6JHlyWSgijTF53F83U49BFg2U9L4.webp) <- -> [Jasmine](https://c.ai/c/iQqdVOxZQerDyvj1FpauCGA8vpzE9jVt7NRS0qal7RE) (*[AISEKAI](https://www.aisekai.ai/chat/64f8a8053c41acd0b1d3029e)*) <- | -> ![Marnie](https://characterai.io/i/80/static/avatars/uploaded/2023/9/6/Q16XSIy8CH7hLm7iNkJUw2TOErHVgHkF2L3_8AHgo8Q.webp) <- -> [Marnie](https://c.ai/c/IaJJxMx6uot2dpkMf6I4PO67cWsONL72ZwBX1BOvCZM) (*[AISEKAI](https://www.aisekai.ai/chat/64f78be674d7d833beeb7bc2)*) <- 
--> **Newest Non-Pokémon Bots** <- | -> ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) <- -> [Demeter](https://c.ai/c/w2--giDlzABEHW1AcsQp6AVz4khBtKXDqOJSMAEkfME) (*[AISEKAI](https://www.aisekai.ai/chat/64f93a5c84877b0cef403483)*) <- | -> ![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) <- -> [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) <- 
+-> **Newest Non-Pokémon Bots** <- | -> ![Tifa](https://characterai.io/i/80/static/avatars/uploaded/2023/9/8/JvJsC6_br8dFqAi_5FbAVefhhLcEZYSuvPlCu-iKxCY.webp) <- -> [Tifa Lockhart](https://c.ai/c/q-KnokYSFw-ou21qgZ6ga0zzML6eFjd-Vs_1d5tTcso) (*[AISEKAI](https://www.aisekai.ai/chat/64fa359f52ca3b403973a8b2)*) <- | -> ![Demeter Thesmophoros](https://characterai.io/i/80/static/avatars/uploaded/2023/5/17/wysLtnpP8IeJmZvkJXN_yspBSLiKtLtkgZlVzJoQluI.webp) <- -> [Demeter](https://c.ai/c/w2--giDlzABEHW1AcsQp6AVz4khBtKXDqOJSMAEkfME) (*[AISEKAI](https://www.aisekai.ai/chat/64f93a5c84877b0cef403483)*) <- 
 -> **Close to Completion** <- | -> ![Rip van Winkle](https://characterai.io/i/80/static/avatars/uploaded/2023/8/23/UeEjGAtZZvTogZ7rxTx7klq3f3s8DYr9RomT1lT_N10.webp) <- -> Rip van Winkle (*HELLSING*) <- | -> ![Norne](https://characterai.io/i/80/static/avatars/uploaded/2023/8/23/9Bjgk-GAybHvKJ6FzfVS1ySUafwZtWZd28elm12w9QI.webp) <- -> Norne (*FE*) <-
 -> **Far from Completion** <- | -> ![Kiran](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/xG5a7l_d4rBfywEWRGQoT4l71Rljce_9D1TZUSEW3t4.webp) <- -> [Kiran](https://c.ai/c/Mca7evNvrL0oCF_Lzsgk9MCdGEI82dn7IsMSFJqNHos) (*FE*) <- | -> ![Arachne](https://characterai.io/i/80/static/avatars/uploaded/2023/5/22/2UXvfSNDXXCZgMVXhHuLawRs_omQ7GON84NGTt5hTP4.webp) <- -> Arachne (*SMT*) <-
 
@@ -11,6 +11,7 @@ Recent C.AI Updates: | ⠀ | ⠀
 Character | C.AI | Series
 :------: | :------: | :------:
 ![Fujiyoshi](https://characterai.io/i/80/static/avatars/uploaded/2023/3/5/X4_RYj4q9fhEJY46DsRrLtp15-6d17bNXcX6uRm6ahE.webp) | [Harumi Fujiyoshi](https://c.ai/c/5gfvPp0dgEYt3J8DUpHARy4oakwtcW9iDx1ERgaX3ew) | Sayonara, Zetsubou-Sensei
+ ![Tifa](https://characterai.io/i/80/static/avatars/uploaded/2023/9/8/JvJsC6_br8dFqAi_5FbAVefhhLcEZYSuvPlCu-iKxCY.webp) | [Tifa Lockhart](https://c.ai/c/q-KnokYSFw-ou21qgZ6ga0zzML6eFjd-Vs_1d5tTcso) (*[AISEKAI](https://www.aisekai.ai/chat/64fa359f52ca3b403973a8b2)*) | FINAL FANTASY
 ![Runaway Girl](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/tfTe8Gdc0SUJTf4An3KnG6eBBqVXgcBFN05NKUutXjE.webp) | [Anne Merlai](https://c.ai/c/2YM19pJguxjkWX3idAPbdVf2Cq_QgopOm3Jm1iMHme4) (*[AISEKAI](https://www.aisekai.ai/chat/64f803ddb3e8d3aeaa7983ff)*) | JoJo's Bizarre Adventure
 ![ZDA](https://characterai.io/i/80/static/avatars/uploaded/2023/3/1/hFBDvEJ2O2N0h2NFlkYuRi_ZfUMW0d1eMlUYEn4sIhU.webp) | [Zafara Double Agent](https://c.ai/c/XYfcCAbrCvOm93rB5ApB8oDQ_fLZAiDByWNZX36K85Y) | Neopets
 !!! info
@@ -46,12 +47,12 @@ Character | C.AI
 ## -> Azur Lane <-
 Character | C.AI
 :------: | :------:
-![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class destroyer USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)
-![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class heavy cruiser IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)
-![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) | Ise-class battleship IJN [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU)
-![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class aviation battleship IJN [Ise](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) Kai
-![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class light cruiser USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)
- ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB submarine KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0) 
+![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class destroyer ->USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)<-
+![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class heavy cruiser ->IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)<-
+![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) | Ise-class battleship ->IJN [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU)<-
+![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class aviation battleship ->IJN [Ise](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) Kai<-
+![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class light cruiser ->USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)<-
+ ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB submarine ->KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0)<-
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-
 Character | C.AI

@@ -501,7 +501,7 @@ Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the 
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 
 **Surf** | 4 BP | 6 AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
-**Surging Strikes** | 3D6+6 | 6 AP | ≥3 | Water | Physical | Always hits 3 times; Roll 3D6. The Move is always a Critical Hit.
+**Surging Strikes** | 3D6+6 | 6 AP | ≥3 | Water | Physical | Always hits 3 times; Roll 3D6. The Move is always a Critical Hit. Misses if more than one roll is ≥3.
 Swift | 6 BP | 5 AP | ∞ | Normal | Special | Never misses.
 Synchronoise | 10 BP | 7 AP | ≥8 | Psychic | Special | If the Opponent shares a Type with the User, deals damage. Spread.
 Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
@@ -524,9 +524,9 @@ Torch Song | 8 BP | 6 AP | ≥2 | Fire | Special | The User's Special Attack is 
 Trailblaze | 5 BP | 6 AP | ≥2 | Grass | Physical | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 1.
 Tri Attack | 8 BP | 6 AP | ≥2 | Normal | Special | 16-17; The Opponent is afflicted with *Paralysis*. 18-19; The Opponent is afflicted with *Burn*. 20; The Opponent is afflicted with *Freeze*.
 Triple Arrows | 9 BP | 7 AP | ≥2 | Fighting | Physical | 18-20; Increased Crit Ratio. 10-20; The Opponent's Defense is decreased by 1.
-**Triple Axel** | 3D10 | 7 AP | ≥2 | Ice | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
-**Triple Dive** | 3D10 | 7 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
-**Triple Kick** | 3D10 | 7 AP | ≥2 | Fighting | Physical | Hits 3 times; Roll 3D10. If any hit's roll is lower than the last, rolling stops and the Move lands all successful hits.
+**Triple Axel** | 3D10 | 7 AP | ≥2 | Ice | Physical | Hits 3 times; Roll 3D10. If successive rolls are lower than any preceding roll, rolling stops and the Move only lands the successful hits.
+**Triple Dive** | 3D10 | 7 AP | ≥2 | Water | Physical | Hits 3 times; Roll 3D10. If successive rolls are lower than any preceding roll, rolling stops and the Move only lands the successful hits.
+**Triple Kick** | 3D10 | 7 AP | ≥2 | Fighting | Physical | Hits 3 times; Roll 3D10. If successive rolls are lower than any preceding roll, rolling stops and the Move only lands the successful hits.
 Trop Kick | 7 BP | 6 AP | ≥2 | Grass | Physical | The Opponent's Attack is decreased by 1.
 **Trump Card** | - | 4 AP | - | Normal | Special | The Move's AP cost is increased by 1 for each use. 4 AP; 4 BP. 5 AP; 5 BP. 6 AP; 6 BP. 7 AP; 8 BP. 8 AP; 20 BP. Never misses.
 Twin Beam | 4 BP | 7 AP | ≥2 | Psychic | Special | Hits 2 times; Roll 2D20.
@@ -813,7 +813,7 @@ Toxic Spikes | - | 4 AP | - | Poison | Status | [Hazard](https://rentry.co/tmd2m
 Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1, even if the Opponent is immune. 
 Transform | - | 4 AP | - | Normal | Status | The User's species changes to one they've seen on the current or previous round.
 Trick | - | 4 AP | - | Psychic | Status | The User swaps Worn/Held Items with the Opponent.
-**Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Speed and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)Speed Stat increases and decreases inverted.
+**Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Speed and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) Stat increases and decreases inverted.
 Trick-Or-Treat | - | 4 AP | ≥2 | Ghost | Status | The Opponent gains the Ghost-Type, even if they already have two Types. 
 Venom Drench | - | 4 AP | ≥2 | Poison | Status | The Opponent's Attack, Special Attack, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are decreased by 1. The User may select additional Opponents to drench at the cost of 2 AP each. Fails if the Opponent is not afflicted with *Poison* or *Badly Poisoned*. 
 Water Sport | - | 4 AP | - | Water | Status | Until the User faints, all Pokemon in the battle have their Fire-Type damage decreased by 5, 

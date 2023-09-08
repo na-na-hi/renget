@@ -1,5 +1,8 @@
 #Eternal Return: Black Survival Coupon Codes
 
+**Available until 9/10/2023**
+*THANKS30000* 30000 A-Coin and 300 Event NP (7 Days)
+
 **Available until 9/7/2023**
 *ABIGAIL1* 5000 A-Coin
 *ABIGAIL2* Research Center Data Box Set

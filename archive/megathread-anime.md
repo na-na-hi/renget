@@ -181,6 +181,10 @@
 - You've come to the right place if you're searching for something fresh and intriguing.
 - [URL Safety Results](https://www.urlvoid.com/scan/anihdplay.com/)
 
+### ▶️ [WcoFun](https://wcofun.org/)
+- Watch a variety of cartoons and anime for free on the site in awesome HD.
+- [URL Safety Results](https://www.urlvoid.com/scan/wcofun.org/)
+
 ### ▶️ [YugenAnime](https://yugenanime.tv/)
 - Track, find, share, and watch high-quality anime, and if you're seeking for a reliable and secure service, you've found it.
 - [URL Safety Results](https://www.urlvoid.com/scan/yugenanime.tv/)
