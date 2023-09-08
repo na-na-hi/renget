@@ -1,4 +1,4 @@
-![REPLACE](https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0813/Inspired.png) 
+![REPLACE](https://files.catbox.moe/h86o93.png) 
 
 ### Ishmael ♂
 You know what to call me!

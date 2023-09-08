@@ -1,4 +1,4 @@
-![Spike](https://archives.bulbagarden.net/media/upload/2/2c/570Zorua_Hisui_Dream.png) 
+![Spike](https://cdn.discordapp.com/attachments/773347678650105876/1149597220547604500/great_reset_char-spi.png) 
 
 ### Spike ♂
 Subdued and secretive, Spike doesn't care much to speak about himself, but rather to catch a good deal and deal good to others.

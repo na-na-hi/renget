@@ -69,6 +69,7 @@
 05/2023|[Block-State Transformer](https://arxiv.org/abs/2306.09539)
 05/2023|[Randomized Positional Encodings Boost Length Generalization of Transformers](https://arxiv.org/abs/2305.16843)
 08/2023|[From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951)
+09/2023|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -149,6 +150,7 @@
 03/2023|[CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X](https://arxiv.org/abs/2303.17568)
 04/2023|[DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097)
 06/2023|[WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/abs/2306.07906)
+09/2023|[GPT Can Solve Mathematical Problems Without a Calculator (MathGLM)](https://arxiv.org/abs/2309.03241)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)

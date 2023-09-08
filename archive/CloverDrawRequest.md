@@ -3,6 +3,7 @@
 [TOC]
 
 #Pending Requests
+1. Cassie forces Kiyo to wear a maid dress
 
 1. A Wooper version of "[Just screaming](https://files.catbox.moe/xwghve.png)"
 
@@ -30,8 +31,6 @@
 
 1. Guild sleepover at Team Cozy's Room or another place (maybe as a drawboard?)
 
-1. The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)
-
 1. The infamous Pewdiepie "Bridge Scene" but with Chespin in the facecam
 
 1. Kris curled up asleep, with Booker sleeping on the fluff on his head
@@ -39,10 +38,6 @@
 1. Chespin riding atop Skiddo, using Wooper to shoot at an enemy Ice-Type, drive-by style.
 
 1. Booker, Chespin, and Minun's gardening Youtube channel (based on https://cloverguild.com/booru/post/414)
-
-1. Gus eating toast. Angrily.
-
-1. Bill and Gill dressed as Mario and Luigi
 
 1. Nick, Macom, and Booker studying Porygon 
 
@@ -53,8 +48,6 @@
 1. A bunch of Macom jumping over a fence
 
 1. Toge and Dewott as [this](https://files.catbox.moe/07tvv0.png)
-
-1. Toge doing the Travis Touchdown "Moe~" moment but saying "Cozy~" and with a poster of Team Cozy instead
 
 1. Team Marsh feeding an outlaw a handful of Doom Seeds
 
@@ -86,8 +79,6 @@
 
 1. Gill singing in Capim Town square 
 
-1. Debby "legalize nuclear bombs"
-
 1. Totodile and Cyndaquil getting kicked out of a bar
 
 1. Phanpy throwing Torchic (rope tied) off the roof 
@@ -95,8 +86,6 @@
 1. Cyndaquil attemping to romance ??? Guildmon
 
 1. Pikachu about to walk into one of Elm's pranks
-
-1. Kaiji and Kris working a gacha stand.
 
 1. Guildmon themed 2010 rage comic
 
@@ -153,8 +142,6 @@
 1. Debby walking away from an explosion
 
 1. Hell's Kitchen, with Beast as Gordon Ramsey and guild mons as contestants 
-
-1. cyndaquil has trapped booker in a jar 
 
 1. ross sleepwalking
 
@@ -240,7 +227,21 @@
 
 #Finished Requests (Some links pending gallery uploads)
 
-Cynda wearing the Chris-Chan "Want Woman!" shirt/bra, but with "Want Partner!"
+[cyndaquil has trapped booker in a jar](https://cloverguild.com/booru/post/602)
+
+[Kaiji and Kris working a gacha stand.](https://cloverguild.com/booru/post/743)
+
+[Debby "legalize nuclear bombs"](https://cloverguild.com/booru/post/690)
+
+[Toge doing the Travis Touchdown "Moe~" moment but saying "Cozy~" and with a poster of Team Cozy instead](https://cloverguild.com/booru/post/743)
+
+[The "pov youre just a little hater" meme with ross (tall) flicking off kiyo (small) (also flicking off)](https://cloverguild.com/booru/post/690)
+
+[Bill and Gill dressed as Mario and Luigi](https://cloverguild.com/booru/post/690)
+
+[Gus eating toast. Angrily.](https://cloverguild.com/booru/post/743)
+
+[Cynda wearing the Chris-Chan "Want Woman!" shirt/bra, but with "Want Partner!"](https://cloverguild.com/booru/post/690)
 
 ["Ah, eto... bleh!"](https://cloverguild.com/booru/post/411)
 

@@ -18,13 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Chefseru](https://rentry.org/chefseru) | Misc |[Scarlett](https://files.catbox.moe/67ipaw.png), [Stardust](https://files.catbox.moe/axuo8h.png), [Brooke](https://files.catbox.moe/84u3l6.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Bianca](https://files.catbox.moe/9izzte.png), [Siren](https://files.catbox.moe/62j8s5.png)|[Siren](https://files.catbox.moe/62j8s5.png) [MV], [Katia Managan](https://files.catbox.moe/osvod8.png)
-[Chefseru](https://rentry.org/chefseru) | Misc |[Stardust](https://files.catbox.moe/axuo8h.png), [Brooke](https://files.catbox.moe/84u3l6.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Tabitha](https://files.catbox.moe/uzgx4a.png), [Narua](https://files.catbox.moe/2yvilz.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Hero](https://files.catbox.moe/5w43pf.png), [Wizard](https://files.catbox.moe/viwusr.png), [Beastmaster](https://files.catbox.moe/5ynvxo.png), [Priest](https://files.catbox.moe/ymxp8e.png), [Dark Knight](https://files.catbox.moe/a14qum.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Ruri](https://files.catbox.moe/j0ff9m.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Leonidas](https://files.catbox.moe/nz5x9u.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Lucy](https://files.catbox.moe/g7xb3i.png), [Forte](https://files.catbox.moe/716tgp.png), [Angel](https://files.catbox.moe/rxcwvx.png), [Cass](https://files.catbox.moe/vw3wpl.png), [Nicole](https://files.catbox.moe/3uay4n.png), [Hailey](https://files.catbox.moe/rhzdlm.png)|
+[Luneose](https://rentry.org/luneose) | Misc |[Lucy](https://files.catbox.moe/g7xb3i.png), [Forte](https://files.catbox.moe/716tgp.png), [Angel](https://files.catbox.moe/rxcwvx.png), [Cass](https://files.catbox.moe/vw3wpl.png), [Nicole](https://files.catbox.moe/3uay4n.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Natsuko](https://files.catbox.moe/anpft4.png)|
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc |[Kikuri Hiroi](https://files.catbox.moe/11e1xw.png), [Carol Olston](https://files.catbox.moe/tth8ul.png)|[Yoyoko Ohtsuki](https://files.catbox.moe/sjnnmz.png)
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yamamomo](https://files.catbox.moe/jyzc21.png)|
@@ -48,7 +48,7 @@ Botmaker | Category | New Bots | Updated Bots
 [123123232](https://rentry.org/g2u47) | Sizeplay ||[Tadashi](https://files.catbox.moe/7vru9g.png)
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||[Yvolt](https://files.catbox.moe/laa9w0.png)
-[Genoo](https://rentry.org/295se) | Sizeplay ||[Kurisu Makise](https://files.catbox.moe/2nwt32.png), [Evelina](https://files.catbox.moe/sufjho.png)
+[Genoo](https://rentry.org/295se) | Sizeplay ||[Kurisu Makise](https://files.catbox.moe/2nwt32.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||

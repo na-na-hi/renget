@@ -178,7 +178,7 @@
 
  -> ![Cine Concept]() <-
 
- -> ![Cine Face]() <-
+ -> ![Cine Face](https://files.catbox.moe/3w82oj.jpg) <-
 
  -> **Atlas** <-
  -> = *At-Las* <-
@@ -271,6 +271,23 @@
  -> ![Classic Model](https://files.catbox.moe/lkzk7s.jpg) <-
 
  -> ![Promo](https://files.catbox.moe/hfr67o.jpg) <-
+
+ -> **Martichoras** <-
+ -> = *Mar-Ti-K(h)ore-Ass* <-
+ -> *{Not Mar-Teee-K(h)or-Ass, it's "Ti" as in Tick. Breathe into the K to inflect the silent h.}* <-
+
+ -> *{Contrary to ~~retards on leddit~~ uninformed outsiders, this one is indeed a singular mythological (named and attested) entity, who is more 'confused' rather than 'obscure'. Much like Lamia, Martichoras / the Manticore was never originally given as a 'species' type of monster, simply a powerful Man-Eater (literal translation) far within Inner Asia (anywhere further-East than Afghanistan) that was relayed to them by trading Persians. The word Martichoras is a loan-word from the Persians, because rather than translating it into the Greek term for the same meaning (Androphagi), it was treated as a different creature entirely, due to the fact Androphagi already had an understood depiction (a humanoid tribe of cannibals that lived to the North-East, just North of modern-day Crimea), which clashed greatly with the animalistic description of Martichoras. From there, by simple grammatical standards, it was assumed to be one creature - a single, colossal, ferocious Manticore that prowled Inner Asia and terrorized the populace, much like how the Sphinx once did the same to Thebes or the Calydonian Boar did to Aetolia}* <-
+ -> *{Overall, likely the Greek understanding of a Tiger, later hybridised with various other creatures unique to South Asia, that was thought to be different aspects of the same beast}* <-
+
+ -> ![Splash]() <-
+
+ -> ![Concept]() <-
+
+ -> ![Cine Concept](https://files.catbox.moe/nb76v7.jpg) <-
+
+ -> ![Cine Face](https://files.catbox.moe/qjghfv.jpg) <-
+
+ -> ![Cine Model]() <-
 
  -> **Achilles** <-
  -> = *Ah-Kill-Eez* <-

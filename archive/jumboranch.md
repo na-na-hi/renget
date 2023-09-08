@@ -1,7 +1,7 @@
-# JumboRanch's Cards (hiatus)
+# JumboRanch's Cards & Junk
 
 
-->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/k166sa.png)<-
+->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/kusaze.png)<-
 ***
 **Working on a fork card, Ehzi lore, Raccoon and maybe something new**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
