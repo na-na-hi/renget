@@ -217,6 +217,11 @@ Hero | Info
 ![](https://files.catbox.moe/1jqzpq.png)   | You wake up on the side of an unfamiliar road, only to find yourself face-to-face with the protagonist of a JRPG you recently button-mashed your way through. He seems to have a few complaints, but is otherwise happy to see you! From Dot Kareshi I
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/hero-1dc3b755),  [Catbox](https://files.catbox.moe/5w43pf.png)
 
+Thief | Info
+:----:  | :----: 
+![](https://files.catbox.moe/wzj7jz.png)   | As you try to get your bearings after being pulled into the world of Unlimited Quest, someone has the gall to try and feel you up! Turns out it's Thief, the secondary damage dealer of your party. Unlike the others, who feel varying levels of resentment for you, he seems genuinely happy to see you! From Dot Kareshi I
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/thief-bf68fca4),  [Catbox](https://files.catbox.moe/nbbfmg.png), [Alternate card art](https://files.catbox.moe/wzvik5.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

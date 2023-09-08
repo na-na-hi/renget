@@ -237,7 +237,7 @@ it won’t be you that wakes
 but a shadow self - Matsuo Daiichi, 850](https://i.pinimg.com/564x/41/fe/16/41fe160790a3bbed075396826868fc0a.jpg) <-
 
 ###Chapter 3: The Dragon
-Inigo walked into the Yakuza  building, the familiar insignia of the Dai Ichi Kai - a dragon curling around a chrysanthemum - adorning the wall of the first room. He was recognized immediately by the men milling about. They bowed respectfully as he passed, though he noticed many sported injuries amongst the new hires.
+Inigo walked into the Yakuza  building, the familiar insignia of the Dai Ichi Ikkai - a dragon curling around a chrysanthemum - adorning the wall of the first room. He was recognized immediately by the men milling about. They bowed respectfully as he passed, though he noticed many sported injuries amongst the new hires.
 
 He approached one of his uncle's men, a young man three years older than him named Hideki, who was sporting a black eye and split lip. "What happened here?" Inigo asked with concern.
 

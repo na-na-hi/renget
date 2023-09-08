@@ -18,10 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Thief](https://files.catbox.moe/nbbfmg.png), [Hero](https://files.catbox.moe/5w43pf.png), [Wizard](https://files.catbox.moe/viwusr.png), [Beastmaster](https://files.catbox.moe/5ynvxo.png), [Priest](https://files.catbox.moe/ymxp8e.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Scarlett](https://files.catbox.moe/67ipaw.png), [Stardust](https://files.catbox.moe/axuo8h.png), [Brooke](https://files.catbox.moe/84u3l6.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Bianca](https://files.catbox.moe/9izzte.png), [Siren](https://files.catbox.moe/62j8s5.png)|[Siren](https://files.catbox.moe/62j8s5.png) [MV], [Katia Managan](https://files.catbox.moe/osvod8.png)
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Tabitha](https://files.catbox.moe/uzgx4a.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Hero](https://files.catbox.moe/5w43pf.png), [Wizard](https://files.catbox.moe/viwusr.png), [Beastmaster](https://files.catbox.moe/5ynvxo.png), [Priest](https://files.catbox.moe/ymxp8e.png), [Dark Knight](https://files.catbox.moe/a14qum.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Ruri](https://files.catbox.moe/j0ff9m.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Leonidas](https://files.catbox.moe/nz5x9u.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucy](https://files.catbox.moe/g7xb3i.png), [Forte](https://files.catbox.moe/716tgp.png), [Angel](https://files.catbox.moe/rxcwvx.png), [Cass](https://files.catbox.moe/vw3wpl.png), [Nicole](https://files.catbox.moe/3uay4n.png)|
@@ -88,8 +88,8 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hochimama](https://rentry.co/hochimamabots) | Misc ||
 [SisyphusJanus](https://rentry.org/SisyphusJanus) | Misc ||
-[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
+[Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Johncock](https://rentry.org/Johncock) | Misc ||

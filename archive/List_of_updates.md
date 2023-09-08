@@ -187,5 +187,7 @@
 |06/09/2023|165|Lover of Idols I - Collabs on Nerissa's channel|Addition of Nerissa's POV for the upcoming collab on Minecraft with Kiara.|
 |07/09/2023|166 & 167|Lover of Idols Pages|Addition of Kiara's POV for the Advent Minecraft Collab of 07/09/2023.|
 |07/09/2023|168|Lover of Idols II - OHC & Mentions|Addition of the link for the FUWAMOCO's Japenese Lesson with Advent collab of 08/09/2023.|
+|08/09/2023|169|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps from Kaela's Minecraft stream of 07/09/2023.|
+|08/09/2023|170|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps from Kiara's 4th solo BG3 stream of 08/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

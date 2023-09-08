@@ -1,5 +1,8 @@
 ## Ayumi's LLM Role Play & ERP Ranking - Filter Userscript
 
+!!! danger WARNING!
+    Hello, as of september 8, 2023 the current version of the script is **OUTDATED** and doesn't work with the current version of the ranking webpage. I'll update it when possible, thanks for understanding.
+
 !!! info Welcome
     Hello and welcome to the information page for Filter Userscript for Ayumi's LLM Role Play & ERP Ranking by mr.devolver.
     

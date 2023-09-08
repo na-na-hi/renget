@@ -40,6 +40,7 @@
 |03/09/2023|[Timestamp #1](https://youtu.be/vMmk20VfWgE?t=12860) [Timestamp #2](https://www.youtube.com/watch?v=vMmk20VfWgE&t=13325s)| **Streamer-chat interactions** - These interaction were made during the closing parts of Kiara's Miami Hotline 2 third stream. The first timestamp is about the findings made by Kiara during her latest solo BG3 stream and sharing it with Nerissa being in chat. The second timestamp is questioning the possibility of an offcollab with Nerissa coming to Austria due to visa changes. |
 |05/09/2023|[Timestamp #1](https://youtu.be/fzPURNCxQvM?t=12990) [Timestamp #2](https://youtu.be/fzPURNCxQvM?t=16249)| **Mentions** - During that GTA DLC stream, Kiara mentioned the Wedding collab with Ollie and the future Minecraft 1-on-1 collab. |
 |07/09/2023|[Link](https://www.youtube.com/watch?v=Rc8O5lB31_w)| **Collab** - Collab in Minecraft. |
+|08/09/2023|[Timestamp for the main interaction](https://youtu.be/MdwAAbtTASo?t=5400) [Minor Event #1 - Greetings](https://youtu.be/MdwAAbtTASo?t=2662) [Minor Event #2 - Reaction to the Loviatar reference](https://youtu.be/MdwAAbtTASo?t=2904) [Minor Event #3 - Dead Ravens scene](https://youtu.be/MdwAAbtTASo?t=5080) [Minor Event #4 - Small reference to the MC collab](https://youtu.be/MdwAAbtTASo?t=8836)| **Streamer-chat interactions & mentions** - Nerissa gave instructions to Kiara in orfer for her to advance for the main interaction  The rest are non-impactful references, reactions or mundane stuff like greetings|
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -179,6 +180,7 @@
 |---|---|---|
 |12/08/2023|[Timestamp #1](https://youtu.be/DMABvQgtXuE?t=1338) [Timestamp #2](https://youtu.be/DMABvQgtXuE?t=1480) [Timestamp #3](https://youtu.be/DMABvQgtXuE?t=1576) [Timestamp #4](https://www.youtube.com/watch?v=DMABvQgtXuE&t=1795) [Timestamp #5](https://youtu.be/DMABvQgtXuE?t=2400) [Timestamp #6](https://www.youtube.com/watch?v=DMABvQgtXuE&t=2692)|**Mentions** - During a Minecraft stream, Kaela mentions that Nerissa send her DMs for playing League of Legends with her and the group comprised of Fauna & Kobo. Some of the timestamps are also related to Kaela wanting a new Minecraft friend. That new Minecraft friend being Nerissa.|
 |30/08/2023|[Timestamp](https://youtu.be/oU95EftWt1M?t=1002)|**Appearance** - Small video of Nerissa singing 'Happy Birthday' during Kaela's final stream of her 24 'burstday' Marathon. Also an invitation to play Terraria and Minecraft with her.|
+|07/09/2023|[Timestamp #1](https://youtu.be/spVuFwKJnBA?t=16800) [Timestamp #2](https://youtu.be/spVuFwKJnBA?t=19890)|**In-chat Appearance & Reactions** - Reactions on when Nerissa entered the Minecraft server and when she and Kiara got killed by the Enderman during the first encounter with one of them.|
 
 ###### ☔ Kobo
 |Date|Link|Nature & Notes|

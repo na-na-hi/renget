@@ -411,4 +411,5 @@ https://arch.b4k.co/vp/thread/54396776/ 22 pondering the orbs
 https://arch.b4k.co/vp/thread/54402426/ 23 more time travel, furfaggotry, and more suffering
 https://arch.b4k.co/vp/thread/54409585/ 24 total cain death
 https://arch.b4k.co/vp/thread/54414988/ 25 someone pls throw rocks at cal for me kthx
-https://arch.b4k.co/vp/thread/54421868/ 26
+https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
+https://arch.b4k.co/vp/thread/54432176/ 27

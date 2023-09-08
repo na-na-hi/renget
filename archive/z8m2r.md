@@ -55,15 +55,6 @@ Fem Succubus - Very tired Succubus reluctantly manages a farm; help her relieve 
 >See above.
 ***
 
-###### Anubisian (todo: rename)
-Male Anthro Jackal.
-    `I checked back in on "Powerless" by Scolexxx a little while ago, the scenes with the Anubis lads in that are pretty good; hence this.`
-![](TODO) 1707 Tokens (1709 Permanent)
-
->Snobby anthro bloke belittles (You)?
->>Still WIP.
-***
-
 ###### Cillamuna
 Futa Equine - *Big* girl with **big peepee**. Feminization or Bimboification, Size Difference. 
 
@@ -99,15 +90,6 @@ Futa Dragon Monster Girl - Sneak into a old fort looking for plunder, try to not
 >>Optimize, Turbo is **a bastard**.
 ***
 
-###### Twi'Lek
-Futa Twi'Lek Slave - Flirty and ~~Humble~~ Bold; loves (You) for being a good master.
-   `Smaller token count than usual, since I can just tell the AI to use it's own knowledge on the existing IP rather than telling it what to do for one.`
-![](TODO) 1315 Tokens (1318 Permanent)
-
->A friend of mine was trying to get me into that old Star Wars MMO recently, Vette a qt 3.14.
->>Mostly done, I think.
-***
-
 ###### Togruta
 Fem Dommy Tomboy - Bounty Hunter trying to blow off some steam, buy her a drink and try your luck?
    `See above - may create a location World Info for the two to both use, since I was lazy and set them both on SWTORs Dromond Kaas.`
@@ -117,6 +99,23 @@ Fem Dommy Tomboy - Bounty Hunter trying to blow off some steam, buy her a drink 
 >>Mostly done, I think.
 ***
 
+###### Twi'Lek
+Futa Twi'Lek Slave - Flirty and ~~Humble~~ Bold; loves (You) for being a good master.
+   `Smaller token count than usual, since I can just tell the AI to use it's own knowledge on the existing IP rather than telling it what to do for one.`
+![](TODO) 1315 Tokens (1318 Permanent)
+
+>A friend of mine was trying to get me into that old Star Wars MMO recently, Vette a qt 3.14.
+>>Mostly done, I think.
+***
+
+###### Anubisian (todo: rename)
+Male Anthro Jackal.
+    `I checked back in on "Powerless" by Scolexxx a little while ago, the scenes with the Anubis lads in that are pretty good; hence this.`
+![](TODO) 1707 Tokens (1709 Permanent)
+
+>Snobby anthro bloke belittles (You)?
+>>Still WIP.
+***
 ###### PokéMILF Gang (temp name).
 	`There was a "Pandora's Forest" RPG here. It's gone now, somewhat reused for Very Tired Succubus.`
 ![](TODO) 1844 Tokens (1230 Permanent)

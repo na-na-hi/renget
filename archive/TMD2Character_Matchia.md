@@ -1,7 +1,8 @@
-![JOJOREFERENCE](https://cdn.discordapp.com/attachments/730507595244372063/1143865498992398376/JoJOREFERENCE_-_Copy_50.png)
+-> ![WAS THAT THE JOJO REFERENCE OF 23!?](https://cdn.discordapp.com/attachments/730507595244372063/1149559104948420688/TheJojos.png) <-
 
 ### Matchia ♀
 An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
+"Good grief."
 
 · | ->· ->
 ---- | ----

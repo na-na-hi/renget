@@ -1,6 +1,6 @@
 ## /ag/ - Ass General
 
-Ass WebM collection (At 1973 WebMs): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
+Ass WebM collection (At 2100 WebMs, or just over 10 hours of content.): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
 
 ## /tg/ Tits General
 
@@ -21,9 +21,12 @@ Tools I use:
 [WebM Converter - Convert other video file types into WebMs.](https://github.com/WebMBro/WebMConverter)
 [LosslessCut - Edit WebMs.](https://github.com/mifi/lossless-cut)
 [GChan - Scrape 4chan boards for archiving purposes.](https://github.com/Issung/GChan)
+[MP3Tag - Edit WebM metadata.](https://www.mp3tag.de/en/)
+[Handbrake - Encoding nonsense, I don't mess with this often.](https://handbrake.fr/)
 
 Fancy tools:
 [Flowframe - If you have a good GPU, you can use this to increase the FPS of your WebMs.](https://nmkd.itch.io/flowframes)
+[Topaz Video AI - AI upscaling for videos.](https://filecr.com/windows/topaz-video-enhance-ai/?id=064142456300)
 
 ### Batch command to rename files in sequential order:
 

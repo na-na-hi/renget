@@ -6,31 +6,31 @@ __________________________
 
 *An irritatingly high-pitched sound blared out to the tune of a [cheesy melody](https://www.youtube.com/watch?v=_m0bI82Rz_k).*
 
-*"Heh... Gill, you ever gonna get tired of being such an annoying little spic?", a similar-looking child answered to the noise.*
+*"Heh... Gill, you ever gonna get tired of being such an annoying little spic?" a similar-looking child answered to the noise.*
 
 *September's gentle overcast weather was yet to deny its pale light on a nearby scrapyard after schooltime. One amongst countless quaint towns littering the landscape of America, their neighborhood was modest but far from an uncomfortable place to live for a pair of kids their age. The usual boring grassy expanses rustled from the gray autumn winds, heralding the end of a summer that had finished all-too-soon.*
 
-*"Last I checked we had the same mom, moron. Ni que te atrevieras a joderla así también en casa, o no?", the longer-haired boy replied cheekily after taking the silver kazoo off his mouth. The speed at which the youth uttered those last words would've rendered the already-slurred sentence completely unintelligible to the average English speaker.*
+*"Last I checked we had the same mom, moron. Ni que te atrevieras a joderla así también en casa, o no?" the longer-haired boy replied cheekily after taking the silver kazoo off his mouth. The speed at which the youth uttered those last words would've rendered the already-slurred sentence completely unintelligible to the average English speaker.*
 
-*Perhaps not all was well for the fraternal twins. Though fair-skinned, rural America was harsh on kids who could barely keep their accent from resurfacing in a mostly-white public school. It wasn't a huge issue, though—Bill made sure of it after getting in trouble for being a tad too rowdy with another boy at lunchtime. No one but him had the privilege of getting away with disrespecting his younger sibling, after all. Gill would likely protest to being called 'the younger one', but he couldn't find it in his heart to care in the slightest.*
+*Perhaps not all was well for the fraternal twins. Though fair-skinned, rural America was harsh on kids who could barely keep their hispanic accent from resurfacing in a mostly-white public school. It wasn't a huge issue, though—Bill made sure of it after getting in trouble for being a tad too rowdy with another boy at lunchtime. No one but him had the privilege of getting away with disrespecting his younger sibling, after all. Gill would likely protest to being called 'the younger one', but he couldn't find it in his heart to care in the slightest.*
 
-*"You're asking for it, you know that? I can't cover for you if you keep acting like a spic-"*
+*"You're asking for it, you know that? I can't cover for you if you keep acting like a spic—"*
 
 *The loud silver instrument proceeded to interrupt the sibling with its tooting, having no proper retort. As Gill played it, he sprinted towards the improvised playground at a brisk pace.*
 
-*"Stop with your meme song already!", the other boy complained as he chased after him.*
+*"Stop with your meme song already!" the other boy complained as he chased after him.*
 
 *Life couldn't be easier for the siblings who wasted their days away on sports and pirated videogames. Not even the looming expectations of middle school got in the way of it, that's for sure.*
 
 *The "scrapyard" near the school was as humble as could be: an old carcass, several parts of an abandoned chassis strewn about and many tires were among the things the local crowd of kids used to play around with, usually the younger ones. Most children tended to outgrow the place quite quickly, however, and the small playground was deserted most of the time. That day was no different: only the faint rumbling of cars in the distance was the one thing keeping the siblings company. Why Gill decided to bring him here was still a mystery, Bill wondered.*
 
-*"Aight! Now that we're here...", Gill announces, turning around and reaching for something in his pocket. Once he found what he was looking for, he made sure to make a show of it in his hand.*
+*"Aight! Now that we're here..." Gill announces, turning around and reaching for something in his pocket. Once he found what he was looking for, he made sure to make a show of it in his hand.*
 
 *Good thing their mother was nowhere to be seen. Or any adult, for that matter.*
 
-"Firecrackers! Where'd he get those?!"*, thought Bill as he observed the multiple strings bearing an array of small red explosives. "You didn't..."*
+"Firecrackers! Where'd he get those?!"* Bill thought as he observed the multiple strings bearing an array of small red explosives. "You didn't..."*
 
-*"I did! 'Borrowed' them from Dylan, he saw that one coming for messing with us", the boy explained with a smug smirk. "We can use some of these for New Year's..."*
+*"I did! 'Borrowed' them from Dylan, he saw that one coming for messing with us," the boy explained with a smug smirk. "We can use some of these for New Year's..."*
 
 *Bill let out a chuckle, closing in with intrigue. "Lemme see, lemme see! You also got his lighter, didn't you? I'll set one of them off-"*
 
@@ -38,7 +38,7 @@ __________________________
 
 *"You're always the one trying to have all the fun. You've lit those kinda fireworks by yourself before, I wanna have some fun too!"*
 
-*"You don't know how to tie your shoes without Mom doing it for you, I'm not gonna let you lit stuff up", Bill argued. At any second, he'd be ready to wrestle the explosives out of his brother's grasp.*
+*"You don't know how to tie your shoes without Mom doing it for you, I'm not gonna let you lit stuff up," Bill argued. At any second, he'd be ready to wrestle the explosives out of his brother's grasp.*
 
 *"That was until last month! And besides, why do you always have to act all cocky just because you're five seconds older than me?"*
 
@@ -52,13 +52,13 @@ __________________________
 
 *In a rare act of mutual empathy, Gill's mocking expression faded slightly as he noticed his brother's concern. Bill then felt a pat on his shoulder.*
 
-*"Tow-doe. Esturruh. Bee-en, Bill", the younger sibling assured in a carefree manner, mimicking the American accent of his older, hapless classmates in Spanish 101. "You're not the only one who knows how to use a lighter."*
+*"Tow-doe. Esturruh. Bee-en, Bill," the younger sibling assured in a carefree manner, mimicking the American accent of his older, hapless classmates in Spanish 101. "You're not the only one who knows how to use a lighter."*
 
 *Bill looked aside to the ground for a second before speaking again.*
 
 *"Okay, fine... I'm just worried about you."*
 
-*"Awww, aren't you a cutie, Billy", the twin replied, changing back to his annoying demeanor on a whim.*
+*"Awww... aren't you a cutie, Billy," the twin replied, changing back to his annoying demeanor on a whim.*
 
 *"Shut it, homo."*
 
@@ -76,7 +76,7 @@ __________________________
 
 *...who was too busy performing a cartoonish pantomime of someone falling over instead of running away to safety. Luckily, he ended up doing so anyway.*
 
-*"Hahaha! Fell for it!"*
+*"Hahaha! Fell for it!" Gill snickered as he moved out of the way.*
 
 ***BANG! BANG-BANG-BANG! BANG!***
 
@@ -84,7 +84,7 @@ __________________________
 
 *With the ear-ringing noise and short-lived sparks came the familiar smell of burnt gunpowder that the brothers had become accustomed to in many a holiday. There was nothing left on the tire but several empty red casings, their wispy smoke trailing away on the wind.*
 
-*"You fricking douchebag, don't scare me like that!", the elder twin exclaimed.*
+*"You fricking douchebag, don't scare me like that!" the elder twin exclaimed.*
 
 *"At least I know my big brother truly loves me~"*
 
@@ -96,7 +96,7 @@ __________________________
 
 *"W-WOAH!"*
 
-*"STOP MESSING AROUND, GILL!", the older brother yelled furiously.*
+*"STOP MESSING AROUND, GILL!" the older brother yelled furiously.*
 
 *"Hahaha! I was just—"*
 
@@ -126,15 +126,9 @@ __________________________
 
 ...
 
-...
-
 *The usual boring grassy expanses rustled from the gray autumn winds, heralding the end of a summer that had finished all-too-soon.*
 
 ______________________
-
-...
-
-...
 
 ...
 
@@ -142,7 +136,7 @@ A ten-year-old memory resonates deep within the heart of a slumbering Bill. And 
 
 Ever since Bill's departure from their home state, he rarely bothered to check up on what had become of his brother’s life. Hopefully his phone number still worked and he hadn't been mugged a second time. If so, they could find time to schedule yet another one of those one-sided, meandering video calls that Gill somehow seemed to enjoy having.
 
-*"Maybe I'll stop being such a dickhead to him for once"*, Bill thinks silently.
+*"Maybe I'll stop being such a dickhead to him for once,"* Bill thinks silently.
 
 Not that he didn't *try* to open up to him whenever the situation called for it. But time had clearly been none too kind for both—in a tale as old as time, even a bond between siblings suffered from paths in life diverging and shared interests waning. Or at least that's what Bill told himself whenever an awkward silence reared its head during their conversations.
 
@@ -172,7 +166,7 @@ Just like the cream yellow muzzle and black nose beneath his eyes.
 
 *"WHAT THE HELL?!"*
 
-In a twitchy series of impulsive motions, all too reminiscent for comfort of his late dog's, he manages to lift himself off the sand he was resting on.
+In a twitchy series of impulsive motions, all too reminiscent for comfort of his late dog's, he manages to lift himself off the sand he's resting on.
 
 Bill's racing mind barely pays any attention to the extensive gulf beach he's in.
 
@@ -212,7 +206,7 @@ Not unlike that of a human.
 
 It appears to have… said something?
 
-"...w-what?", a trembling Bill mutters for the first time, getting a better feel of his new tongue and fangs. 
+"...w-what?" a trembling Bill mutters for the first time, getting a better feel of his new tongue and fangs. 
 
 "...mierda."
 
@@ -224,7 +218,7 @@ The animal can *speak*. And despite Bill not having spoken it in several years, 
 
 *"...and it's in fucking Spanish of all things?"*
 
-"...tú... hablas...?", the English speaker slowly relays in an accent that would've shamed his Hispanic mother.
+"...tú... hablas...?" the English speaker slowly relays in an accent that would've shamed his Hispanic mother.
 
 "U-Uh... don't worry about me... I-I know my English just fine..."
 
@@ -232,7 +226,7 @@ Indeed, there's barely a hint of an accent in its speech, even while stuttering.
 
 Bill chastises himself inwardly for not coming to the obvious conclusion about the creature first.
 
-"Yes... I-I think so...", Bill informs as he raises one of his... hands and inspects it. He inspects it as though looking at it any harder would make his fingers feel any less alien.
+"Yes... I-I think so..." Bill informs as he raises one of his... hands and inspects it. He inspects it as though looking at it any harder would make his fingers feel any less alien.
 
 The former humans leave each other to their own devices to realize their bizarre fate. For what feels like an eternity, no one utters a single word. 
 
@@ -240,11 +234,9 @@ A long, heavy silence falls upon them. The ocean's calm roar echoes in the dista
 
 "Heh..."
 
-The transformed stranger was quietly chuckling. Bill can hardly blame him—he himself is on the verge of breaking down at any second due to the sheer absurdity of the situation. However... the chuckles don't sound like laughter born from anxiety or even fear. Not completely, at least. There is a resignated, even sorrowful quality beneath it all. 
+The transformed stranger quietly chuckles. Bill can hardly blame him—he himself is on the verge of breaking down at any second due to the sheer absurdity of the situation. However... the chuckles don't sound like laughter born from anxiety or even fear. Not completely, at least. There is a resignated, even sorrowful quality beneath it all. 
 
-Though Bill chooses not to comment on it, the empathy is palpable in his words:
-
-"...what's your name?"
+Though Bill chooses not to comment on it, the empathy is palpable in his words: "...what's your name?"
 
 The long-haired quadruped's covered gaze is yet to resume eye-contact. He directs a wistful smile to no one in particular.
 
@@ -270,7 +262,7 @@ Gill's eyes dart below all over as he gives out another chuckle, trying to shift
 
 "The fuck are you on about?!"
 
-No sane human could ever countenance the thought. But to someone actually experiencing this, the reality was sinking in faster every second. Owing to some sort of cosmic joke, this was actually happening.
+No sane human could ever countenance the thought. But to someone actually experiencing this, the reality was sinking in faster every second. Owing to some sort of cosmic joke, this is actually happening.
 
 "Y-You know what... ", the orange growlithe resumes, shifting his paws nervously on the sand. "For my sake, I'm going to assume that this is all bullshit somehow. You hear me, Gill? This is all bullshit."
 
@@ -282,7 +274,7 @@ The twins start laughing more openly.
 
 Slowly but surely, they can't help themselves.
 
-Seeing a dog laugh out loud sounded as weird as it was refreshing.
+Seeing a dog laugh out loud somehow sounded as weird as it was refreshing.
 
 (...)
 
@@ -296,7 +288,7 @@ Seeing a dog laugh out loud sounded as weird as it was refreshing.
 
 "I-I missed you too, I guess."
 
-The elder brother quickly puzzles out the (admittedly easy-to-figure) way to walk on four legs as he sits down beside his sibling. Having no clue how to make the situation any less awkward than it already was, he clumsily surrounds his brother's back with his paw. There is a strange comfort in the way he smelled, different as though it may be now.
+The elder brother quickly puzzles out the (admittedly easy-to-figure) way to walk on four legs as he sits down beside his sibling. Having no clue how to make the situation any less awkward than it already is, he clumsily surrounds his brother's back with his paw. There is a strange comfort in the way he smelled, different as though he may be now.
 
 "We'll figure this out... we have to", Bill declares, trying to further calm their nerves. Well, his, in any case.
 
