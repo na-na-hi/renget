@@ -23,7 +23,7 @@ Inigo chewed his lip. *Bad things are coming and I need to get stronger to prote
 
 “I want to help my friends,” he said bluntly.
 
-How could he explain his tangled motivations? He thought back to the start. Ever since manifesting Gigan, his worldview had been irrevocably shaped by the construct's presence. Its senses and instincts blended seamlessly with his own, especially now their bond was stronger. But that innate connection made it hard to distinguish where Inigo ended and Gigan began. Who was he without the dragon's moral compass steering him? Did he have any untainted memories at all? He needed to know.
+How could he explain his tangled motivations? He thought back to the start. Ever since manifesting Gigan, his worldview had been irrevocably shaped by the construct's presence. Its senses and instincts blended seamlessly with his own, especially now that their bond was stronger. But that innate connection made it hard to distinguish where Inigo ended and Gigan began. Who was he without the dragon's moral compass steering him? Did he have any untainted memories at all? He needed to know.
 
 "I guess..." he continued slowly. "Having Gigan with me all the time, I've never gotten the chance to just be myself. There's always this other entity influencing me, even if it's benevolent."
 
@@ -35,7 +35,7 @@ Gigan let out a mournful squeak but bobbed in understanding. Inigo gave it a gra
 
 Like that awful night with his brothers when Gigan's scales became crimson. Inigo pictured again the manor slick with blood. But even now the visceral horror he expected to resurface was muddled, softened by the buffer of Gigan's presence.
 
-Hijack leaned back, steepling his fingers contemplatively. "Your reasoning seems sound. However, I must warn you - facing reality unchecked can be an intense experience, especially for one accustomed to a filter. It’s not well documented but studies have shown that quirk users with constructs and companions have them as part of their brain or personality. It would be like cutting off a part of your own brain."
+Hijack leaned back, steepling his fingers contemplatively. "Your reasoning seems sound. However, I must warn you - facing reality unchecked can be an intense experience, especially for one accustomed to a filter. It’s not well documented but studies have shown that quirk users with constructs and companions have them as part of their brain or personality. It would be like cutting off a part of your own mind."
 
 Inigo nodded. "I know, but it's a risk I have to take. I need to do this."
 
@@ -917,7 +917,7 @@ Hoge just shrugged, a bemused smile on her lips. She turned towards Ashleigh wit
 
 Ashleigh looked unsure, "Oh, umm...okay." 
 
-The two girls went their own way as Inigo and Imai made their way towards the music store.
+The two girls went their own way as Inigo and Imai strolled towards the music store.
 
 Inigo grinned, "Bro! I got a bunch of ideas.. Picture this: you do a killer piano solo! We go into the bridge and then we hit them with this key change,  Bam! It'll catch them off guard, but in a good way."
 
@@ -929,4 +929,4 @@ Imai rubbed his chin, "Hmm. I was thinking we slow things down a bit, maybe stri
 
 "I'm glad you asked!"
 
-The two boys fell into relaxed conversation as the Dastardly Duo walked the sun setting behind them. Though there were still challenges ahead, bonds had been strengthened and connections reforged. For now, the future seemed bright for the two young hero students.
+The two boys fell into relaxed conversation. As the Dastardly Duo walked, the sun set behind them slowly. Though there were still challenges ahead, bonds had been strengthened and connections reforged. For now, the future seemed bright for the two young hero students.

@@ -23,7 +23,7 @@ Protosynthesis | The User's highest Stat is increased by 2 while in Harsh Sunlig
 
 ->Gold Rank<-
 ->*1400/5500 points to Platinum Rank*<-
-->![Gold Rank](https://archives.bulbagarden.net/media/upload/2/28/Gold_Rank_RTDX.png)<-
+->![An old Keepsake.](https://archives.bulbagarden.net/media/upload/2/28/Gold_Rank_RTDX.png)<-
 
 Important Info | Description
 ---- | ----

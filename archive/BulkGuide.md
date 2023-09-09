@@ -14,6 +14,8 @@ Makuhita is a slow, yet sturdy brawler, usually goading his opponents to attack 
 
 He also struggles against speedy opponents, [Hitmontop](https://rentry.org/GreatBulk2) being a good example of this.
 
+He is currently attempting to learn how to sense Aura, although his overly active mind is a great detriment to it. He only managed the feat once, and even then, its range was only an arm's length away from himself.
+
 Moveset:
 Arm Thrust
 Tackle
@@ -21,11 +23,12 @@ Tackle
 Asana (Meditite):
 Sex: Female
 Ability: Pure Power
+Held Item: Power Band (worn around the neck)
 A harsh and haughty, yet competitive and driven Meditite who is an Aura Sensor. She has a remarkable sensing range for someone as inexperienced and unskilled as herself, but she has trouble discerning the subtleties of aura, such as colors beyond a Pokemon's primary one, and the movement of it through their bodies. She had a desire to focus on her aura mastery and skill in fighting full-time, but due to needing to pay her bills, she was shackled with caravan guard duty, a job she hated. She only quit and moved to the bounty hunting business at Makuhita's urging, and is taking quickly to it.
 
 Her relationship with Makuhita started as being tense, bordering on outright antagonistic, due to how their personalities conflicted. She saw him as a boorish, oafish dolt who almost ate her out of house and home and regarded his attempts at concealing his origin with suspicion, but she is slowly warming up to him. Even if he still annoys her sometimes, she considers him the first friend she's ever had, and is unsure why he puts up with her behavior.
 
-Due to being a Sensor at birth, she grew up with a sense of pride and superiority to others around her. However, due to the realities of adult life, she had to take caravan work to make ends meet, and there, her pride morphed into arrogance. It's only due to Makuhita that it's slowly beginning to melt away, but a part of her doesn't want to leave it behind - her arrogance was her shield against the world around her, and without it, she'd feel defenseless.
+Due to being a Sensor at birth, she grew up with a sense of pride and superiority to others around her. However, due to the realities of adult life, she had to take caravan work to make ends meet, and there, her pride morphed into arrogance. It's only due to Makuhita that it's slowly beginning to melt away, but a part of her doesn't want to leave it behind - her arrogance was her shield against the world around her, and without it, she'd feel defenseless. However, thanks to her time in Redkiln, she's slowly learning to lower her guard around others, and even made a couple of friends there.
 
 Her fighting style is a skilled mixture of both psychic and physical combat. She can dish out tons of damage, but she can't take it in return.
 
@@ -35,7 +38,7 @@ Confusion
 Detect
 
 Aura Abilities:
-Basic Long-Ranged Sensing (Can sense for quite a long distance, but cannot read the more intricate details of auras)
+Long-Ranged Sensing (Can sense for quite a long distance. She started out being unable to sense the more intricate details of Auras, but has overcome this issue as of Part 3.)
 
 Crude Expression (Can aura-boost limbs and moves, although the latter tires her out greatly)
 
@@ -58,14 +61,14 @@ Sucker Punch
 Needle Arm
 
 Lombre:
-Bounty: ~~3,500~~ 5,000 Poke
-Rank: ~~B~~ A
+Bounty: ~~3,500~~ ~~5,000~~ 7,000 Poke
+Rank: ~~B~~ ~~A~~ S
 Wanted for: Murder, Caravan Robbery, Assault, Fraud
 Sex: Male
 Ability: ???
-Distinctive Features: Wears a worn, brown poncho. Speaks in a slow, tired voice, and has a distinctive scar running down most of his left arm.
+Distinctive Features: Wears a worn, brown poncho. Speaks in a slow, tired voice, and has a distinctive scar running down most of his left arm. He's also lankier and a bit taller than most of his species, giving him a distinct, reedy-looking appearance.
 
-Getting his start as a conman, this Pokemon has only partnered up with Cacturne in the past year, and has quickly become a danger in of himself. He usually hangs back and fires Water-type attacks from afar, providing support to his partner in crime. His accuracy is exceptional, and he has bailed Cacturne out of trouble out numerous times.
+Getting his start as a conman, this Pokemon has only partnered up with Cacturne in the past year, and has quickly become a danger in of himself. He started out as a support, sniping troublesome targets from the rear, although reports indicate that he's recently become a lot more active and aggressive in battling. 
 
 Moveset:
 Water Gun
@@ -103,7 +106,18 @@ This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunn
 Moveset:
 Irrelevant.
 
-#####Independents:
+~~Thievul the Shadow~~:
+Bounty: 8,000 Poke
+Wanted For: Breaking and Entering, Theft
+Rank: A
+Sex: Male
+Ability: Run Away
+Distinctive Features: None
+Held Item: ~~Sneak Scarf~~ Ripped off by Asana.
+Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden, even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
+
+He was only captured through the efforts of Asana and her skill at sensing Aura - what she saw was a slightly timid thief who, in spite of his poor battling skills, was unpredictable in a fight, owing to a bag of items and tricks. 
+
 ~~Hitmontop~~:
 Bounty: 3,500 Poke:
 Rank: A
@@ -121,11 +135,43 @@ Triple Kick
 Double Team
 
 ##The Others:
+
+#####Team Watchers:
+Espathra:
+Sex: Female
+Ability: Speed Boost
+She's a blind Sensor, and the team's leader. Her role was primarily to find hidden passages and details others would miss, via using her ability to detect changes in the environment. Her philosophy behind Aura is different compared to others due to her not being a fighter, focusing more on finding hidden meanings and revealing that which is concealed. She's quite old, being 87 years of age as of Part 3.
+
+Indeedee:
+Sex: Male
+Ability: Psychic Surge
+Espathra's husband. His role was in reading and navigation, since his wife is blind, alongside boosting the damage of Hatterene's moves. He's very concerned with etiquette, and is implied to get violent with those who breach it. He can also be quite scary, when he wants to be.
+
+Hatterene:
+Sex: Female
+Ability: ???
+The third member of Team Watchers, who never retired in spite of her advanced age. She was mentioned as being introverted, although very kindly to those she opened up to. She was the team's main battler.
+
+#####Independents and Civilians:
 Jolteon:
 Sex: Female
 Ability: Volt Absorb
 A novice caravan guard with a bit of a cowardly streak who works with her best friend, Mawile. She's a bit of an airhead, and after witnessing Makuhita's victory over Iron Wing, she fawned over him for a while. She took him on a date to The Saloon, a pub in Sahra Town, but her bubble was burst when she found out that he didn't even know it was one, and that she wasn't his type.
 
+Polteageist:
+Sex: N/A
+Ability: Cursed Body
+He's a potter from Redkiln who was, at one point, a perfectionist. The pot he lives in is noticably shoddier than others of his kind - he was tricked by a green, lanky stranger into buying a counterfeit to evolve into, 20 years before the events of Part 3. He also describes himself as one of the few Pokemon on the Sand Continent who can make good porcelain.
+
+Sonora, aka "Merry" (Maractus):
+Sex: Female
+Ability: Water Absorb
+An ex-outlaw living in Redkiln wearing a worn poncho, with numerous scars across her body. She ran with her ex-husband for a long time, leaving both him and the criminal business behind due to her aversion to bloodshed. She's a naturally cheery Pokemon, although she's weighed down by her past actions, and the regret that she could never convince her ex to change his ways with her. She's still very attached to him, keeping a Gold Ribbon he gave her as an unofficial signifier of their marriage.
+
+Mienfoo, aka the Sourdough Supremacist:
+Sex: Male
+Ability: Reckless
+A baker from Redkiln known for his constantly shifting mood, passion for his work, and insistence that sourdough is the superior form of bread. His family has been baking for generations, and the sourdough starter he nutures is old as, if not older than Redkiln itself. He views baker's yeast as "soulless" and has a particular disdain for bread leavened with the assistance of Fidough breath, hating it for being, in his eyes, unsanitary.
 
 
 ##Geography:
@@ -133,7 +179,10 @@ A novice caravan guard with a bit of a cowardly streak who works with her best f
 #####The Midlands:
 The Midlands are, as the name implies, the region comprising the middle of the Sand Continent. The conditions are far more hospitable here then in the North and South, and thus, much crops and produce is grown here, to be exported to the more extreme regions.
 ######Oasis:
-A town near the Mystery Dungeon Holey Meadow. They're one of the agricultural towns in the Midlands that export their goods to the rest of the Sand Continent.
+A town west of the Mystery Dungeon Holey Meadow. They're one of the agricultural towns in the Midlands that export their goods to the rest of the Sand Continent.
+
+######Redkiln:
+Another town near Holey Meadow, located to its Northeast. It's known in particular for its ceramics, pottery in particular.
 
 #####The North:
 The North is, like much of the Sand Continent, rather mountainous, and is marked by the Thirsty Desert and its corresponding Mystery Dungeon, with the same name, at its southern border. The Thirsty Desert is the most inhospitable spot on the whole continent, its only permanent residents being hardy tribespeople and survivalists. Nonetheless, travellers and traders alike must pass through it in order to it to get to and from the region.

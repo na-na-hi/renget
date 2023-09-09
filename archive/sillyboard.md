@@ -9,7 +9,7 @@
 > **music** 
 >> **GHOST** [heis](https://rentry.org/heis),  [popia](https://rentry.org/popia), [secondo](https://rentry.org/secondo), [seethelight](https://rentry.org/seethelight), [imcrucified](https://rentry.co/imcrucified), [*mountainghoul*](https://rentry.org/mountainghoul), [*maryonacross*](https://rentry.org/maryonacross),   [**emeritusiv**](https://rentry.org/emeritusiv)
 
->> **STARSET** [transmissions](https://rentry.org/transmissions), [mydemons](https://rentry.org/mydemons), [antigravity](https://rentry.org/antigravity), [unbecoming](https://rentry.org/unbecoming), [*earthrise*](https://rentry.org/earthrise), [tunnelvision](https://rentry.org/tunnelvision), [*dustinbates*](https://rentry.org/dustinbates), [downplay](https://rentry.org/downplay), [mnqn](https://rentry.org/mnqn)
+>> **STARSET** [transmissions](https://rentry.org/transmissions), [mydemons](https://rentry.org/mydemons), [antigravity](https://rentry.org/antigravity), [unbecoming](https://rentry.org/unbecoming), [*earthrise*](https://rentry.org/earthrise), [*dustinbates*](https://rentry.org/dustinbates), [downplay](https://rentry.org/downplay), [mnqn](https://rentry.org/mnqn)
 
 >> **GRANDSON** [**grandson**](https://rentry.org/grandson), [wedidit](https://rentry.org/wedidit), [deathofanoptimist](https://rentry.org/deathofanoptimist), [kissbang](https://rentry.org/kissbang), [bills](https://rentry.org/bills), [bloodwater](https://rentry.org/bloodwater) 
 
@@ -21,7 +21,7 @@
 > **fandom**
 >> **OVERWATCH** [**blackwatchreyes**](https://rentry.org/blackwatchreyes), [omniccrisis](https://rentry.org/omniccrisis), [**codeofviolence**](https://rentry.org/codeofviolence), [reapfield](https://rentry.org/reapfield), [**2476**](https://rentry.org/2476), [amaterasukiriko](https://rentry.org/amaterasukiriko), [captivesun](https://rentry.org/captivesun)
 
->> **ETC.** [nygmas](https://rentry.org/nygmas), [waynetower](https://rentry.org/waynetower), [imvengeance](https://rentry.org/imvengeance) [palismen](https://rentry.org/palismen), [elixirs](https://rentry.org/elixirs), [**mrvn**](https://rentry.org/mrvn), [forartur](https://rentry.org/forartur) [alternatetype3](https://rentry.org/alternatetype3), [lotteyanson](https://rentry.org/lotteyanson) [chappie](https://rentry.org/chappie) [yotsubox](https://rentry.org/yotsubox) [redguys](https://rentry.org/redguys)
+>> **ETC.** [imvengeance](https://rentry.org/imvengeance) [palismen](https://rentry.org/palismen), [elixirs](https://rentry.org/elixirs), [**mrvn**](https://rentry.org/mrvn), [forartur](https://rentry.org/forartur) [alternatetype3](https://rentry.org/alternatetype3), [lotteyanson](https://rentry.org/lotteyanson) [chappie](https://rentry.org/chappie) [yotsubox](https://rentry.org/yotsubox) [redguys](https://rentry.org/redguys)
 
 ***
 

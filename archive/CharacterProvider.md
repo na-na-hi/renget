@@ -12,10 +12,14 @@ Main page|
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-
 # 
 
-!!! note
-	This section is in progress. I will add more **PISIC**s, features and issues, to make versions easier for you to choose. It requires a bit more testing...
+If you don't see images - catbox is down.
+
+!!! Warning
+	**I don't have access to Claude or any other proxy RN. Helping email message would be appreciated.**
 
 ######CHOOSE PREFERED VERSION:
+!!! note
+	This section is in progress. I will add more **PISIC**s, features and issues, to make versions easier for you to choose. It requires a bit more testing...
 Date | Update | Description | PISIC_Reg* | PISIC_Ero* | PISIC Score Reg(Ero)*
  |  |  |  |  | 
 02.09.2023 |  [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions. | ![](https://files.catbox.moe/nedvj4.png) | ![](https://files.catbox.moe/dq3cou.png) | 13(11)
@@ -230,6 +234,7 @@ Find regex:
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/dvcq32.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/dvcq32.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
@@ -250,6 +255,7 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/1j1fwz.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/1j1fwz.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
@@ -270,6 +276,7 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/m2itn3.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
@@ -290,6 +297,7 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/3bxfjw.zip)
 #
 !!! **How do I use this?**
 	1. Download settings

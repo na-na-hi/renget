@@ -1,4 +1,4 @@
-![ligma balls](https://archives.bulbagarden.net/media/upload/3/3a/Spr_7s_495.png) 
+![He's just a little guy, doin' snakey things](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/mcwvpQuxmsoPpKvkAekwnVLe)
 
 ### Evan Greene ♂
 "This isn't what I had in mind..."

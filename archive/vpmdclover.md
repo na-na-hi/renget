@@ -316,9 +316,11 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
+	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3) *Not on Table*
 * Maxi the Trubbish*
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) *Not on Table*
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7) *Not on Table*
+	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -544,6 +546,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
 * {||} [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3)
 * {||} [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
+* {||} [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
+* {||} [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

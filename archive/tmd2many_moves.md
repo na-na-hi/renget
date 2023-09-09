@@ -391,7 +391,7 @@ Psyshield Bash | 7 BP | 6 AP | ≥3 | Psychic | Physical | The User's Defense is
 Psyshock | 8 BP | 6 AP | ≥2 | Psychic | Special | The Opponent's Defense is calculated in place of Special Defense.
 Psystrike | 10 BP | 8 AP | ≥2 | Psychic | Special | The Opponent's Defense is calculated in place of Special Defense.
 **Psywave** | - | 6 AP | ≥2 | Psychic | Special | Roll 1D20. 2-3; 3 BP. 4-6; 4 BP. 7-9; 5 BP. 10-12; 6 BP. 13-14; 7 BP. 15-16; 8 BP 17-18; 9 BP. 19-20; 10 BP.
-**Punishment** | 3 BP | 8 AP | ≥2 | Dark | Physical | For each of the Opponent's Stat increases, damage is increased by 1.
+**Punishment** | 3 BP | 8 AP | ≥2 | Dark | Physical | For each of the Opponent's Stat increases, damage is increased by 2.
 **Pursuit** | 4 BP | 6 AP | ≥2 | Dark | Physical | The Opponent is afflicted with *Pursued*. 
 Pyro Ball | 10 BP | 8 AP | ≥3 | Fire | Physical | 19-20; The Opponent is Burned. Thaws User.
 Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.

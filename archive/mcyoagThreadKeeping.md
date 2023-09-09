@@ -40,10 +40,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is storing up energy.
-
->Maru 101
->>90160675
+>The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
+https://rentry.org/fuisbz
+>Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) 
+https://rentry.org/5cxcb3
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -541,10 +541,14 @@ https://rentry.org/e3gx4a
 https://rentry.org/r4nhp
 >Date Gossip
 https://rentry.org/f78w2
->Do Not be Afraid(Last Rite, Rosethorn, Maru(Maru), Orochi, Yako)
+>Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako)
 https://rentry.org/6p6na
 >The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D 
 https://rentry.org/2ngq2
+>The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
+https://rentry.org/fuisbz
+>Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
+
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -614,7 +618,7 @@ Settlement Survivors:
 >Ultra Magnus (Barbarian Settlement)
 >>89400766
 >Lockley Aimes
->>89389161
+>>89389161 (+https://rentry.org/kadwt)
 >Heli Matharom
 https://rentry.org/HeliMatharom
 >Nick
@@ -768,6 +772,7 @@ https://docs.google.com/document/d/1S-maMQoCz5bqHj8iycBk72w-HseBUWFGzS2lH-W5xxU/
 + Alt Link: https://controlc.com/ffde1c52
 >Mi Casa, Su Casa(Kara, Isha, Lance Lots of small cameos)
 https://rentry.org/tnvc29
+
 ```
 ****
 Page 4
@@ -779,6 +784,8 @@ https://rentry.org/3avwm
 >Dr. Neighman Starts Again (featuring Dr. Neighman):
 https://docs.google.com/document/d/1QtUCl2VBMGos3kiuek4HvAzvojPlUgRGHbAqzACx7Go/edit?usp=sharing
 +Alt Link: https://controlc.com/29887abc
+>St. Heli's Fire (Heli Matharom, Ultra Magnus)
+https://rentry.org/HFWT-st-helis-fire
 
 Artfags:
 >ANT KING and ants
@@ -827,6 +834,8 @@ Build List:
 Writefags:
 >Lesson 1: Diligence(Misao)
 https://rentry.org/dm26u
+>Jesterbelle Writefag
+https://pastebin.com/4CFMctzq
 ```
 #JRPG (Reboot)
 ***

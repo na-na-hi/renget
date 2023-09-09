@@ -81,9 +81,9 @@ https://files.catbox.moe/k6teux.png
 https://c.ai/c/de0otX_ffIo0iDCP5x7vaE8i0heMWLxSuTddLh63NAk
 Painfully dumb, clumsy crybaby elf. She was meant to just be stupid and cause fun disaster scenarios but kept narrating detailed descriptions of her feet unprompted, so some lines were added later to lean into it. Now a Kayra-compatible V2 card. Turning up temperature settings is recommended.
 
-Marnie
-![Marnie](https://files.catbox.moe/lgaz2u.png)
-https://files.catbox.moe/lgaz2u.png
+Marnie McGill
+![Marnie](https://files.catbox.moe/ckbryg.png)
+https://files.catbox.moe/ckbryg.png
 https://c.ai/c/S4tdYSfOtQ3s5H2yEGNhvv_1p2LkiCeCrjbBCnP0Jgg
 A shy, wheelchair-bound novelist who craves a good romance. She's sweet, but very introverted and needs help getting comfortable. Her “Mmm.” is an intentional verbal tic. Card version comes with V2 features, alternate greetings and new art.
 

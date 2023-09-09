@@ -23,7 +23,7 @@
 
 &nbsp;
 
-# 📑 1 ➜ Direct Downloads
+# 📑 ➜ Direct Downloads
 
 ### 🔗 [3ost](https://3ost.ru/) • Sign Up • Russian UI
 - Excellent lossless and lossy (*FLAC and MP3 320kbps*) soundtracks from games, movies, and cartoons are included in this collection.
@@ -49,17 +49,9 @@
 - Fantastic place to download Japanese music in both lossy and lossless quality, including vocaloids, pop, anime, and gaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/hikarinoakari.com/)
 
-### 🔗 [JPOPMIX](https://jpopmix.com/)
-- Download albums, eps, and singles of the newest anime soundtracks and Japanese pop music with ease.
-- [URL Safety Results](https://www.urlvoid.com/scan/jpopmix.com/)
-
 ### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
 - Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloads.khinsider.com/)
-
-### 🔗 [KpopTap](https://kpoptap.com/)
-- Quickly download the newest Korean pop music, including albums, eps, singles, and soundtracks for TV shows and dramas.
-- [URL Safety Results](https://www.urlvoid.com/scan/kpoptap.com/)
 
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 - Superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available on leading file hosts.
@@ -79,7 +71,7 @@
 
 &nbsp;
 
-# 📑 2 ➜ Browser Apps
+# 📑 ➜ Browser Apps
 
 ### 🌐 [BestMP3Converter](https://www.bestmp3converter.com/)
 - Enables you to obtain audio files from YouTube videos without charge in 320kbps quality.
@@ -111,7 +103,7 @@
 
 &nbsp;
 
-# 📑 3 ➜ Desktop Apps
+# 📑 ➜ Desktop Apps
 
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 - A graphical client for Soulseek that is often updated with additional functionality but still adhering to the Soulseek protocol.
@@ -140,10 +132,6 @@
 ### 🖥️ [spotDL](https://spotdl.readthedocs.io/en/latest/)
 - Identifies songs from Spotify playlists on YouTube, downloads them, and adds album cover, lyrics, and metadata.
 - [URL Safety Results](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
-
-### 🐐 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
-- No-ad multi-platform music downloader requires no generation of or tinkering with the API keys in order to function.
-- [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Stacher](https://stacher.io/)
 - You may modify the stunning, contemporary GUI to utilize any fork of YT-DLP, which is immediately installed upon launch.
