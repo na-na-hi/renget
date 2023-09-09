@@ -341,7 +341,7 @@ He wants to spill everything. Yet he does not know how. Bill’s heart is not ab
 
 “I wouldn’t do anything less.”
 
-Aside from occasionally peering each other from time to time, both had remained on their side, their backs facing the same direction.
+Aside from occasionally peering each other from time to time, both had remained on their side, their backs facing the opposite direction.
 
 For a while, it stays that way.
 

@@ -39,7 +39,7 @@ Once llama.cpp has been compiled, you don't need to repeat any of these steps (u
 
 ## Create your LoRA
 
-1. Download the exact gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q5_K_M.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
+1. Download a gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q8_0.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
 2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
 4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14`
@@ -50,6 +50,8 @@ Obviously you will need to adjust step 4 to specify your actual base model name,
     Go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
 
 !!! info See [Appendix B](#appendix-b-stheno-training-example) for a full training example using Stheno and training data/chat logs from SillyTavern.
+
+!!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
 
 ### Models with Known Issues
 
@@ -178,6 +180,8 @@ One last thing to note: Make sure the text file uses \*nix style line endings (`
 Next, just follow the "Create your LoRA" instructions above, and use this command: `llama.cpp/finetune.exe --model-base stheno-l2-13b.Q5_K_M.gguf --train-data training-data.txt`
 
 !!! info Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
+
+!!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
 
 !!! warning If you use a different model, the beginning, ending, and line feed tokens can be different.
     Run a small text file of training data through `finetune.exe` **before** you format your training data. When it loads, confirm these settings `BOS token = 1 '<s>'`, `EOS token = 2 '</s>'`, and '`LF token = 13 '<0x0A>'`. **If any of these don't match, you need to change the above formatting to match them.**
@@ -376,8 +380,42 @@ opt_callback: iter=     1 sched=0.010000 loss=3.457290 dt=00:24:17 eta=11:44:33 
 ```
 It can also get stuck on `main: tokenize training data` for quite a while if you have a large data set (>50 MB)
 
+## Appendix E - Converting Models for llama.cpp
+
+While [TheBloke](https://huggingface.co/TheBloke) offers all the quantized versions you should ever need, there are still a few reasons why you might want to convert models yourself. For example, you may want to use the `fp32` format for the highest quality, to quantize yourself later on, or there may not be quantized versions of your base model available.
+
+1. Install the [Required Tools](#required-tools) mentioned above.
+2. Install [Python](https://www.python.org/) (3.10 or newer, use the 64-bit installer)
+3. Open a command prompt and move to our working folder: `cd C:\lora`
+4. Download your model using git, for example: `git clone https://huggingface.co/Sao10K/Stheno-L2-13B`
+5. Create a python virtual environment: `python -m venv .env`
+6. Activate the environment: `.env\Scripts\activate.bat` (or use  `.env\Scripts\Activate.ps1` if you used PowerShell)
+7. Install the required python modules to the environment: `pip install -r llama.cpp\requirements.txt`
+8. Convert your model to a FP32 GGUF: `python llama.cpp\convert.py Stheno-L2-13B --outtype F32 --outfile Stheno-L2-13B.FP32.gguf`
+
+Some steps above only need to be done once. If you run need to run this again later on, you can skip steps 1, 2, 5, and 7.  Now, you can directly use that file to train a LoRA, but you can also quantize it into more efficient formats:
+
+1. Open a command prompt and move to our working folder: `cd C:\lora`
+2. If you don't already have llama.cpp, follow step 2 of the [llama.cpp Setup](#llamacpp-setup).
+3. Run the compiler tools again: `w64devkit\w64devkit.exe`
+4. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
+5. Get rid of any existing compiled files: `make clean`
+6. Compile the quantize executable with a special flag (see note below): `make quantize -j LLAMA_QKK_64=1`
+7. Rename the quantize executable: `mv quantize.exe quantize-qkk-64.exe`
+8. Get rid of intermediate files again: `make clean`
+9. Compile everything again: `make all -j`
+10. Once it's done compiling, close the compiler tools: `exit`
+
+!!! warning Ideally, we want to quantize our models with `quantize.exe`, which provides a more efficient format. However, some models don't work with the default settings, so we need to use the special `quantize-qkk-64.exe` version of it to quantize our model instead. If you get an error when quantizing a model, try using `quantize-qkk-64.exe` instead.
+
+Finally, quantize the model: `llama.cpp\quantize.exe Stheno-L2-13B.FP32.gguf Stheno-L2-13B.Q8_0.gguf Q8_0`
+
+Replace the model name with the name of the model you converted above. Replace `Q8_0` with the quantization type you would like to use. Make sure you replace it in both the file name and the format specifier at the end.
+
 ## Changelog
 
+- 2023-09-09
+  - Added Appendix E
 - 2023-09-06
   - Updated for changes in llama.cpp, up to commit xaedes:0c2c9c7.
   - Added llama.cpp update instructions.

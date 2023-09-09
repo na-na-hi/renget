@@ -91,7 +91,7 @@ Mean Girl Eileen
 ![Eileen](https://files.catbox.moe/xfissh.png)
 https://files.catbox.moe/xfissh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. I personally recommend setting your gaslight for short, curt one-line RP chat style responses.
+My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. She's intended for one on one dialogue, so I personally recommend setting your gaslight for short, curt RP chat style responses.
 
 Mean Lady Nadine
 ![Nadine](https://files.catbox.moe/klkjtq.png)
@@ -116,6 +116,11 @@ A drow war criminal branded with control runes as a punishment. She can control 
 Okiku
 https://c.ai/c/WVVjTtZCJCe-gWNBGGx4hxa1AIKc2R2_OTIdhnRIjcI
 Japanese-themed fantasy adventure inspired by Nioh. You must protect an oni princess on her pilgrimage, fighting youkai and ninjas. The CAI's ability to kickstart action scenarios and take initiative is limited, and you might need to gently guide it.
+
+Patricia Sue Brown
+![Patty](https://files.catbox.moe/h0f3r3.png)
+https://files.catbox.moe/h0f3r3.png
+The year is 2051, and you're an android who just got bought by a lonely, nerdy Scottish woman. She's a bit shy and awkward but gets sassy as she warms up. Includes a very basic optional lorebook for the setting and an alternate greeting for femPOV. Tested with Kayra, which keeps her accent nicely.
 
 Ruth
 https://c.ai/c/c6dWtY7bVPItPI1v1WflY3MVh1oa1GdUr6XJ8zdW1pI

@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Mythomax-l2-q4 scaled to 8k**
 **Hardware: RTX 3090, throttled**
 
-Blocking API URL: ```https://bacterial-apnic-courage-corresponding.trycloudflare.com```
+Blocking API URL: ```N/A```
 
 ***
 **System prompt:**

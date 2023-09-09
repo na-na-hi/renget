@@ -15,6 +15,15 @@ if it all works you should eventually see this
 you see that link right at the bottom of the screenshot?
 that's the blocking API url
 follow the instructions at https://rentry.org/freellamas
-if you want to turn on logs (why would you ever do that), add --verbose here
+if you want to turn on/off logs, add/remove --verbose here
 ![verbose](https://files.catbox.moe/um0pbm.png)
 that's it. share the trycloudflare link with the thread if you want to be nice
+
+#### more models
+##### Stheno
+some people prefer Stheno over MythoMax, it's free to try out so why not?
+Stheno-L2-13B-GPTQ
+Place that in the huggingface_repo text box instead of MythoMax-L2-13B-GPTQ
+##### MLewd
+"Mlewd seems built for ERP. As in compared to Mythomax, you will receive much more emotional responses with MLewd."
+change org name to Kotokin and the repo to MLewd-L2-13B-v2-1-GPTQ

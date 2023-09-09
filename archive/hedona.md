@@ -10,10 +10,11 @@ Contact me here: hedona@tutanota.com
 ***
 ##Cards
 ###New
-->Monoko<-| ->Elodie<-
---|---
-->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|->![Remember this?](https://files.catbox.moe/5mjfpv.png)<-
-Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+->Dionaea<-| ->Monoko<-| 
+--|--
+->![Daughter of Venus](https://files.catbox.moe/5dx3pc.png)<- |->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|
+[CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)|[CHUB link](https://www.chub.ai/characters/Hedona/monoko-04e0c1f9)
+Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |
 ----------------------------------------------------------------------------- | -----------------------------------------------------------------------------
 
 
@@ -24,8 +25,10 @@ Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |Elo
 
 ->⟡△Name△⟡<- | Link n' Stuff | ->⟡△Name△⟡<- | Link n' Stuff
 ------ | ------ | -- | -----
-->**Janus**<-| [CHUB link](https://www.chub.ai/characters/Hedona/janus-52395319/)  | ->**Suzuka**<- | [CHUB link](https://www.chub.ai/characters/Hedona/suzuka-1fcac18a/)
- ![(O‿ -)](https://files.catbox.moe/prwzl9.png) |  There's a woman standing at your door who looks exactly like you. She claims you're her doppelgänger. |  !["She is cool" = true](https://files.catbox.moe/hpxqst.png) | Suzuka is a fiery, thrill-seeking street racer fueled by adrenaline and danger.
+->**Dionaea**<-|[CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)| ->**Elodie**<-|[CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
+->![Daughter of Venus](https://files.catbox.moe/5dx3pc.png)<- |Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|->![Mmmm, more OL please!](https://files.catbox.moe/5mjfpv.png)<-|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+->**Janus**<-| [CHUB link](https://www.chub.ai/characters/Hedona/janus-52395319)  | ->**Suzuka**<- | [CHUB link](https://www.chub.ai/characters/Hedona/suzuka-1fcac18a)
+ ![(twincest route?)](https://files.catbox.moe/prwzl9.png) |  There's a woman standing at your door who looks exactly like you. She claims you're her doppelgänger. |  !["She is cool" = true](https://files.catbox.moe/hpxqst.png) | Suzuka is a fiery, thrill-seeking street racer fueled by adrenaline and danger.
 ->**Kim Yoon-su**<- | [CHUB link](https://www.chub.ai/characters/Hedona/kim-yoon-su-cf4948e5/) | ->**Zosime**<- | [CHUB link](https://www.chub.ai/characters/Hedona/zosime-c961bff0)
 ![Perfect Lie](https://files.catbox.moe/bpbn6h.png) | Kim Yoon-su, the accomplished yet secretly troubled pianist from an elite dynasty who became obsessed with her rival. | ![Tis Rozain!](https://files.catbox.moe/wlrs7a.png) | In the shadows of the ancient estate, a brilliant anatomist twists flesh into macabre art. Can beauty be sculpted from blood and bone?
 ->**AEGIS**<- | [CHUB link](https://www.chub.ai/characters/Hedona/80dd857e-39d6-420f-8a05-93709e6daedc/) | ->**Maia**<- | [CHUB link](https://www.chub.ai/characters/Hedona/1528a882-6ee1-4be8-af6f-fe65524e13ac)
@@ -49,10 +52,11 @@ Amon| [CHUB link](https://www.chub.ai/characters/Hedona/amon-550d7dd2)|
 ###Yume Nikki
 
 
-->![(ᵕᴗᵕ)](https://files.catbox.moe/16o12i.png)<-
-->**Monoe**<-
-->[CHUB link](https://www.chub.ai/characters/Hedona/monoe-753432ac)<-
-->Monoe, mysterious and elusive girl based on the freeware game "Yume Nikki"<-
+->![(ᵕᴗᵕ)](https://files.catbox.moe/16o12i.png)<-|->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-
+---|---
+->**Monoe**<-| ->**Monoko**<-
+->[CHUB link](https://www.chub.ai/characters/Hedona/monoe-753432ac)<-|->[CHUB link](https://www.chub.ai/characters/Hedona/monoko-04e0c1f9)<-
+->Monoe, mysterious and elusive girl based on the freeware game "Yume Nikki"<-|->Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki"<-
 
 
 

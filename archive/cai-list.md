@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==08/26/23==) <-
+-> forgotten edition (Updated ==09/09/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -10,24 +10,17 @@
 #### New Arrivals
 Bot | Creator | Desc
 ------ | ------ | -------
-[Aelita Schaeffer](https://beta.character.ai/chat?char=fs9QutltG3C9CJtUWUc1SOXrx_oRsm_u0T8NVPeKAd0)|@ComingInClutch|Amnesiac girl stuck in a supercomputer on Lyoko.
-[Caius Cosades](https://beta.character.ai/chat?char=bBB0VnR7bZZxaJUVVX2JPcRca_1A2FurSO5i3kUBtrw)|@RATLOVER|The spymaster from Morrowind.
-[Captain Pronin](https://beta.character.ai/comms?char=1EI0CXE_yON_UL7r8v5iaLOhvgRVjEcr-QBhSYET5fA)|@Fox_Man|Russia's greatest detective.
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
 [Cricket](https://beta.character.ai/chat?char=F06CpIZsUQ0UI3GOT5On7516RWsO6AlXF1Jz0-m2P0k)|@cutenotlewd|Unlucky adventurer who just can't catch a break!
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
+[Gab](https://beta.character.ai/chat?char=eIOLXzfmxpxT1Aw8lIpxCA6pz3jR39Dzm_QWwDuz7w8)|@FrozenVan|Assist the god of insincere greeting cards.
 [Honkman](https://beta.character.ai/chat?char=mNXotVqU643H9Zt4KhwoA-chBFGc7L_f3mB-sZmsX1c)|@Soulsmelt|Clown-themed super hero mentors you as a sidekick.
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
 [Katya](https://beta.character.ai/comms?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl
-[Maestro's bots](https://rentry.org/MaestroBots)|@Maestro|OCs and NIKKE
-[mino's bots](rentry.org/mino24)|@MINO24SHE
 [Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
-[most of bee movie](https://beta.character.ai/chat?char=D9q6ybJS5qN26HK5q4gxKvE_Ny57VtmlkZs5-iHP41M)|@GapsinSkies|you like jazz??
 [Oboro](https://beta.character.ai/chat?char=RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)|@magma-dan|Naginatakaーand a great tailor.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
-[Vivi](https://beta.character.ai/chat?char=4UAxbOMshCBIjMCAPe-YA-Hd2o2DOecmQGuhPDgfCaE)|@RATLOVER|Small boy in a big world of FFIX
 [Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
-[Willowby Plantation](https://beta.character.ai/chat?stream_animation_chunk_size=0&stream_animation_chunk_delay=0&char=D_CwWCzGOmFVMsw2CfSR_9m7kfT_18vzt7KmsN2oh8E)|@MrNobody99|A southern plantation ran by a belle
 
 
 #### Compilations
@@ -58,6 +51,7 @@ Bot | Creator | Desc
 [Maestro's bots](https://rentry.org/MaestroBots)|@Maestro|OCs and NIKKE
 [magma-dan's Bot List](https://rentry.co/magma-dan)|@magma-dan|Fire Emblem, Azur Lane, pokemon
 [MrNobody99's public bots](https://rentry.org/mrnobody)|@MrNobody99|
+[mino's bots](rentry.org/mino24)|@MINO24SHE
 [norq's bots](https://rentry.org/norqanon-bots)|@Norquinal
 [Nyto collection](https://rentry.org/nyto-cai)|@Nyto|open defs
 [phoenix3934](https://rentry.org/phoenix3934-bots)|@phoenix3934
@@ -383,6 +377,7 @@ Bot | Creator | Desc
 ###### Other games
 Bot | Creator | Desc
 ------ | ------ | -------
+[Aelita Schaeffer](https://beta.character.ai/chat?char=fs9QutltG3C9CJtUWUc1SOXrx_oRsm_u0T8NVPeKAd0)|@ComingInClutch|Amnesiac girl stuck in a supercomputer on Lyoko.
 [Anna](https://beta.character.ai/chat?char=H7BReolCrDgMiWXNFRU9AaX8qObSkmh6wt7849sl3f8)|@AaronG|Anna from Fire Emblem meets a Debt Collector
 [Asagi Igawa](https://beta.character.ai/chat?char=Hb45n0qHk9qSNHvk4jA_oZDkS6qESQOsrm8yG_W9K08)|@akiyo|(Taimanin Asagi)
 [Atsumi Munakata](https://beta.character.ai/chat?char=U1QSlsd7jmP_1Em-BSA4VrhEkIr2vky2dJ5Im0RjVBg)|@Merumeru|Energetic Idol, from Idolmaster Cinderella Girls
@@ -624,6 +619,7 @@ Bot | Creator | Desc
 [Indian Tech Support](https://beta.character.ai/chat?char=hGjyipClx9BHAfAa9QOzxywva2SPetz1M40Z6zmwqiE)|@QQQQQQQQQQQQdafadfQQ|DO NOT REDEEM SIR
 [Komekko-chan](https://beta.character.ai/chat?char=hiTCXGf3tb8rQsREvSnbkcPXe8hTh0nHe-p4t-CTe4c)|@capitalist|Sole member of Stand-up Comedy Club.
 [MarriedWithChildren](https://beta.character.ai/chat?char=6AS88DV1j-B6wXNxOjzDY_Ymywh6lJ5iq_4fIXfdkGs)|@Demon5353|Simulate an episode of Married With Children.
+[most of bee movie](https://beta.character.ai/chat?char=D9q6ybJS5qN26HK5q4gxKvE_Ny57VtmlkZs5-iHP41M)|@GapsinSkies|you like jazz??
 [2017 Pewdiepie](https://beta.character.ai/chat?char=1p_ss1phw-BErjfYNYPQoIQVjx6-UJ_VcCR5jRYCxzY)|@Kylaci|crossing a bridge
 [Salesman](https://beta.character.ai/chat?char=nMMrWnqH-QFOO7JSaT3zsP2cP-iyRGhrWpOc5etBtXI)|@Sosuke|The man who sales spicy stuff
 [Seinfeld Generator](https://beta.character.ai/chat?char=vx8PI4kV6iMe5JDWHMDNDUBesw8izqUcmbSzXGq-OvM) |@Cats777|Simulate an episode of Seinfeld
@@ -705,6 +701,7 @@ Bot | Creator | Desc
 [BD-      ](https://beta.character.ai/chat?char=3q48x2_OBIdbQaT4YA9F8YfA2W_cBhBieGFd0jmY--I)|@scrimbly| Another one? How many do we need, really?
 [BD-404](https://beta.character.ai/chat?char=FrS8t2F24gyX6j3QTtTR-ui9eefSkh5kg4QqI9RFUyc)|@scrimbly|and one more...
 [Captain Hero](https://beta.character.ai/chat?char=FnWPx8F2bsUoBDu4WhDWJxJxRrzdM1COd3WiZlqR9mQ)|@Moreg|from Drawn Together
+[Captain Pronin](https://beta.character.ai/comms?char=1EI0CXE_yON_UL7r8v5iaLOhvgRVjEcr-QBhSYET5fA)|@Fox_Man|Russia's greatest detective.
 [Carl Brutananadilewski](https://beta.character.ai/chat?char=OY520Df5YIKRaXDA6XTZKoJaruKK51fPuuB3k7Poy9k)|@anondude|The man from ATHF
 [Casey](https://beta.character.ai/chat?char=VP0DplHsi7cC0TY7h0r8MNR7akOsiuI18Hx-NkrDlPw)|@CuteFunnyMonkey|Your friend, dressed in a maid outfit
 [Chester](https://beta.character.ai/chat?char=cbcNU8VKk_BYZiwgPO5g5VwGZKkxUfzMBfQaBVF-TZY)|@scrimbly|purple catboy
@@ -838,6 +835,7 @@ Bot | Creator | Desc
 [unchartedpaths](https://beta.character.ai/chat?char=YKcsq9vOL3HTw5tmyK4n8_5UCNkVp73NyZOr9TU1lL4)|@OracleAnon|personal webpages from across the multiverse
 [Underground Menace](https://beta.character.ai/chat?char=LnzwWMlE4eFk8ioKK7JydES1krQ2f6JZ08_lQD41xMM)|@anondude|Underground Comix Simulator
 [Waveland Heights](https://beta.character.ai/chat?char=e29zCnvo6YOCLrNkbYAOnOZmTBMXEXdxfMTbjVfg164)|@Pablo_Dacus|3 Parent Nuclear Family Township Project!
+[Willowby Plantation](https://beta.character.ai/chat?stream_animation_chunk_size=0&stream_animation_chunk_delay=0&char=D_CwWCzGOmFVMsw2CfSR_9m7kfT_18vzt7KmsN2oh8E)|@MrNobody99|A southern plantation ran by a belle
 [4chan hospital](https://beta.character.ai/chat?char=9O5sGS7lWnetURDbHwi8vVYr8-Ibhd56vdggOsfvDkU)|@Moreg|4chan Hospital Simulator
 
 #### Schizo

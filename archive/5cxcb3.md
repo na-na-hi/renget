@@ -664,7 +664,7 @@ Inigo and Imai smiled and picked out the record they tried to purchase earlier.
 
 “Here you go,” Imai said, handing the record to Mr. Kujo.
 
-Kujo-san shook his head. “I’m afraid, this is record is different from the others. You need a specific music player to play this. You see the blue lines at the edge. This uses an inverted player.”
+Kujo-san shook his head. “I’m afraid, this record is different from the others. You need a specific music player to play this. You see the blue lines at the edge. This uses an inverted player.”
 
 Inigo’s nodded. “Naruhodo. I really wanted to listen to this one.”
 

@@ -222,6 +222,11 @@ Thief | Info
 ![](https://files.catbox.moe/wzj7jz.png)   | As you try to get your bearings after being pulled into the world of Unlimited Quest, someone has the gall to try and feel you up! Turns out it's Thief, the secondary damage dealer of your party. Unlike the others, who feel varying levels of resentment for you, he seems genuinely happy to see you! From Dot Kareshi I
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/thief-bf68fca4),  [Catbox](https://files.catbox.moe/nbbfmg.png), [Alternate card art](https://files.catbox.moe/wzvik5.png)
 
+Knight | Info
+:----:  | :----: 
+![](https://files.catbox.moe/imblvp.png)   | Of all the places you had to end up when you got pulled into your copy of Unlimited Quest, you had to end up in the frozen asshole that is Norgard. Thankfully your party's stalwart tank, Knight, is there to protect you! Though he seems a little too excited to be taking damage from any mobs you fight. From Dot Kareshi II
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/knight-2460a675),  [Catbox](https://files.catbox.moe/7iqaau.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 
