@@ -614,7 +614,7 @@ Sunlight Man: https://archive.4plebs.org/tg/post/89300955
 Yako: https://archive.4plebs.org/tg/post/89324798  
 Aspara: https://archive.4plebs.org/tg/post/89401642 
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
-Minerva Kim: https://desuarchive.org/tg/thread/90010470/#90018257
+Spark: https://desuarchive.org/tg/thread/90010470/#90018257
 
 ***
 
@@ -843,6 +843,7 @@ Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako): https://rentr
 The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D - https://rentry.org/2ngq2
 The Investigation Continues (Mirror Devil, Last Rite, Noctiluca): https://rentry.org/fuisbz
 Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
+Alone On A Friday Night? God, you're pathetic. (Maru(Maru)): https://rentry.org/y4cam
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

@@ -19,6 +19,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Updates:
+	09.09.23: Added new card 'Chae-won'
 	06.09.23: Updated 'Cluckette' to v1.1 and moved to Bots
     05.09.23: Added new card 'Cluckette' under Unreleased Cards
 
@@ -28,6 +29,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ####Bots
 |  |  | 
 | ------ | ------ |
+| **Chae-won** | https://www.chub.ai/characters/Nuggest/chae-won-b11d3ceb |
+| ![Chae-won](https://files.catbox.moe/284puf.png) | **Based on a true story. Chae-won (fictional name) is a homeless and emancipated North Korean woman living in the South Pyongyang Province. At the brink of death, she collapses on a cornfield. You are a Western foreigner who finds her by mere chance. You know what to do...** [v1.0, Claude 2, 09.09.23] *You might want to remove the example dialogue to add more randomness. Original story: https://youtu.be/Xh4CtTGAzKw?si=1LHYR0rzE98QJf0M* |
 | **Cluckette** | https://www.chub.ai/characters/Nuggest/cluckette-ce956c53 |
 | ![Cluckette](https://files.catbox.moe/0g3eqg.png) | **A caged chicken-girl fated to become an Orc's dinner. Basic saviorfagging card.** [v1.1, Claude 2, 06.09.23] |
 | **Aegis** | https://www.chub.ai/characters/Nuggest/aegis-shield-of-the-forgotten |

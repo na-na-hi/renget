@@ -55,14 +55,6 @@ There were **X** stories posted last thread.
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)
 
-## Rolodex Anchor 
-
-**(image: https://files.catbox.moe/11j5xd.jpg)**
-
-Need a beta reader? Want some advice? Check the /wg/ Rolodex and contact one of your writing colleagues. Alternatively, reply to this post with your burner email and any works you’ve written if you’d like to be added to the list.
-
-https://docs.google.com/document/d/e/2PACX-1vTkOKmppoWTortR1oGdYAmQlML--2QMvi5GN5BunO9hBm-oSQp4mls6zdpr3t5leaP0kczs6744qK11/pub
-
 ## /wg/ OP (Contest Version) 
 
 **The contest is over! (for now) See you next time!**

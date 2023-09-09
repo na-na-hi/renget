@@ -1,5 +1,5 @@
 # CRIKEY'S COOMBOT CORNER
-->![Melusine best girl. I should bot her...](https://files.catbox.moe/yw3oyb.png)<-
+->![show us ur bot](https://files.catbox.moe/kio2aj.gif)<-
 ***
 Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but decided to explore the weird and wacky world of chatbots for a bit. I'm rather enjoying my stay, so I figured I might as well share my own bots.
 

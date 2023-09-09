@@ -345,6 +345,8 @@ Aside from occasionally peering each other from time to time, both had remained 
 
 For a while, it stays that way.
 
+Until...
+
 “Gill?”
 
 “Yeah?”
@@ -367,18 +369,18 @@ Unbeknownst to Bill, his brother is smiling again.
 
 “You started it!”
 
-Bill feels something strike and scratch his lower back. He turns his head around to see the Hisuian growlithe facing at him, laying on his side with a smug look. It was definitely his younger brother’s hindpaw that hit him.
+Bill feels something strike and scratch his lower back. He turns his head around to see the Hisuian growlithe facing at him, laying on his side with a smug grin. It was definitely his younger brother’s hindpaw that hit him.
 
 “Gill…”
 
 Gill proceeds to kick him again.
 
-“Gill, we’re naked, this is weird.”
+“Gill, we’re naked, this feels weird.”
 
 Now *two* hindlegs kick him.
 
 “You fucker—”
 
-Bill turns around, now scoring a couple of kicks himself on the little bastard. Followed by Gill clawing at him some more. One of them even attempted to bite the other one’s legs.
+Bill turns around, now scoring a couple of kicks himself on the little bastard. Followed by Gill clawing at him some more. One of them even attempted to bite the other one’s leg. In no time at all, they're exchanging several kicks and swipes between the two.
 
 Once again, everything is alright.

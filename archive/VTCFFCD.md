@@ -56,6 +56,10 @@ Just post it and attach it to the story anchor; I (the person running the archiv
 
 If you see a ^ following the tags, it's because the story listed is a sequel to the one above it! Required reading!
 
+***I'm worried my story is shit!***
+
+Everyone has this fear at some point; it's natural. If you're looking for advice, feedback, a spell-checker or anything else, consider contacting an author who has given their email to be a beta reader. These authors have contributed something to the thread previously and may be willing to help you out by giving your story a once over to look for errors or provide input you're seeking. Of course, however, be courteous; they're doing *you* a favor, not the other way around. The list of author-provided emails can be found [here.](https://docs.google.com/document/d/e/2PACX-1vTkOKmppoWTortR1oGdYAmQlML--2QMvi5GN5BunO9hBm-oSQp4mls6zdpr3t5leaP0kczs6744qK11/pub)
+
 > **For the best use experience, middle click a link to open it in a new tab - it will open over this page, otherwise.**
 
 There is a separate, Google Drive based archive that has open edit permissions and features stories tagged by individual chuubas. If you would be so kind as to keep it up to date for even easier ease of use, please do so. Everyone can edit it, Anonymously.
