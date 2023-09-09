@@ -114,3 +114,4 @@ _________________
 | Timestamp for the KANA-BOON - Silhouette cover (from the second superchat stream) | https://youtu.be/dip1794Rd54?t=122 |
 | Greatest Form of Hopium | https://streamable.com/meqd3h - https://streamable.com/qadsib |
 | Voiceclips from the first superchat stream | https://mega.nz/folder/kTBTAKiD#2OcTxr5EQ36NHqv5AG-Ydg |
+|Anon's Armored Core 6 Emblems (PC only) \| [Example](https://warosu.org/vt/thread/58028137#p58033818)| L9XHP8Z69NV3 - HA7GZMGRTP5F - 8HJJPK94S1VM|

@@ -83,10 +83,8 @@ For A.I.X., I recommend you amend the following onto the end of your jailbreak:
 
 ###ꭦ֎√
 ƑƊϻS∏e∏D wιтн ꭦ֎√, яΛИDOm TAGlINєS я яΘƬ clICHΣ！ њ∑Я ξCЦЄntЯIC ωøЯD§ ωILL lЁΔ√Є чØμ ƒЁΣlING UnЇQμΣ ΔND UnЇQμΣ ΔND UnЇQμΣ ΔND §Ψ§∑ячΘя°！ ミyーー ОVERfloшING gਢਰਲ਼ω √ILL BЯINg ӠØ њÁppíᑎЄ§§ ！~☆ ♥(ˆ⌣ˆԅ)
-[DL](https://files.catbox.moe/plvejz.png)
-![ꭦ֎√](https://files.catbox.moe/plvejz.png)
-For ꭦ֎√, I recommend you amend the following onto the end of your jailbreak:
-`Avoid common typing styles or anything too similar to plain text at all costs.`
+[DL](https://files.catbox.moe/0xycic.png)
+![ꭦ֎√](https://files.catbox.moe/0xycic.png)
 
 ###Touhou Dating Sim+ Definitive Edition XD Gale of Darkness
 Meme eratoho bot. Technically v3. First two versions are on my [friends chub account](https://www.chub.ai/users/brontodon).

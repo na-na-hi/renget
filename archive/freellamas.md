@@ -5,9 +5,9 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model:** **Stheno-l2-q4 scaled to 8k**
+**Model:** **Mythalion-l2-q4 scaled to 8k**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://bacterial-apnic-courage-corresponding.trycloudflare.com```
 
 ***
 **System prompt:**
@@ -29,8 +29,8 @@ Unlock context size (in ST)
 Context: 8192
 New Tokens: 320 - optimal for 13b llamas, use "Continue" button if the reply gets cut off
 Temperature: 0.7 - 1
-Rep. pen: 1.1 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
-Rep. pen range: 2048 - how many previous tokens to scan for repetition
+Rep. pen: 1.05 - 1.1 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
+Rep. pen range: 1444 - how many previous tokens to scan for repetition
 Top_p: 0.9 - top percentage of best tokens to select from
 Top_k: 30 - top number of best tokens to select from
 Do_sample: On

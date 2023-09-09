@@ -1,0 +1,5 @@
+-> ![divi](https://64.media.tumblr.com/8d5a72ba9ce0ac68335ce681b25bf031/26ee7fe98dd00e33-17/s640x960/cf7785c8c9eaf276c525ca26b4cb1f5246618d12.pnj) <-
+-> ୨   　 𝓛 𝒊𝒏𝒌 𝓓𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒚   　 ୧ <-
+-> ![](https://64.media.tumblr.com/1570622dde68480069a8bb15cad3a48a/641ed8c6a7e2b89c-7e/s2048x3072/751aee5703cb31458dc1fd669241b09e5b269b36.pnj) <-
+![pix](https://media.discordapp.net/attachments/903364339464044575/1086446543185391636/76CF1858-546C-4AE5-843C-7DE690DC919C.gif)   　────  　 [**M**](https://rentry.co/pink)ain ｡ [**E**](https://rentry.co/xxxx7)xtended ｡ [**N**](https://rentry.co/xxxx1)ames ｡ [**P**](https://rentry.co/xxxx4)ronouns ｡ [**T**](https://rentry.co/xxxx8)itles ｡ [**E**](https://rentry.co/xxxx9)xistence 𓏧
+-> ![divi](https://64.media.tumblr.com/dd9fdb53b35d53c35faaa9a203ee2736/26ee7fe98dd00e33-a4/s640x960/9f137902fa3a7080e75e4690f67151485248c442.pnj) <-

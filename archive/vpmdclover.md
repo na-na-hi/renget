@@ -286,6 +286,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
+	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6) *Not on Table*
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -548,6 +549,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 * {||} [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 * {||} [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
+* {||} [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

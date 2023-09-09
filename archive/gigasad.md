@@ -91,7 +91,7 @@ Mean Girl Eileen
 ![Eileen](https://files.catbox.moe/xfissh.png)
 https://files.catbox.moe/xfissh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
-My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. If using with OpenAI or Anthropic Claude, remove the *** in the sample dialogues section and it should work as normal.
+My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. I personally recommend setting your gaslight for short, curt one-line RP chat style responses.
 
 Mean Lady Nadine
 ![Nadine](https://files.catbox.moe/klkjtq.png)

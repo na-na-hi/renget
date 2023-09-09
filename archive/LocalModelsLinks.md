@@ -28,6 +28,7 @@
 |
 **Info**|
 [Models Table](https://lifearchitect.ai/models-table)|Google Sheet of models/major AI labs/other LLM information by Alan Thompson
+[Parameter Setting Guide](https://darkstardestinations.com/parametersTab)|Should be applicable to any local frontend  
 [DL GPU Buying Guide](https://archive.ph/SY2h6)|Tim Dettmer's continually updated blogpost
 [ML Glossary](https://archive.ph/iPHWI)|From Google 
 [Kaiokendev's Blog](https://kaiokendev.github.io)|Goes over superHOT development as well as his new scaling context breakthrough 

@@ -214,7 +214,7 @@ Rain Dish | The User heals 2 HP each turn while in Rain.
 Receiver | The User copies an Ally's Ability after they faint, replacing Receiver.
 Reckless | The User's Recoil Moves have their damage increased by 1.
 Refrigerate | The User's Normal-Type Moves become Ice-Type and have their damage increased by 3.
-Regenerate | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
+Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 **Ripen** | The User may Ripen a Berry once per battle, doubling its effect.
 Rivalry | The User's Moves used against the opposite gender have their damage increased by 2. Moves used against the same gender have their damage decreased by 2.
 ~~RKS System~~ **(Mutagen)** | The User's form shifts and adapts in-tandem with the specific Type Gem held, changing Type to match.

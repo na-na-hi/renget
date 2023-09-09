@@ -55,7 +55,17 @@ There were **X** stories posted last thread.
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)
 
-## /wg/ OP (Contest Version) - The contest is over! (for now) See you next time!
+## Rolodex Anchor 
+
+**(image: https://files.catbox.moe/11j5xd.jpg)**
+
+Need a beta reader? Want some advice? Check the /wg/ Rolodex and contact one of your writing colleagues. Alternatively, reply to this post with your burner email and any works you’ve written if you’d like to be added to the list.
+
+https://docs.google.com/document/d/e/2PACX-1vTkOKmppoWTortR1oGdYAmQlML--2QMvi5GN5BunO9hBm-oSQp4mls6zdpr3t5leaP0kczs6744qK11/pub
+
+## /wg/ OP (Contest Version) 
+
+**The contest is over! (for now) See you next time!**
 
 **Subject field:** 
 /wg/ - Writing General - Contest Edition
@@ -72,13 +82,17 @@ Yes.
 Previous thread: **(link to previous thread, then a brief summary of that thread)**
 /wg/ rentry: https://rentry.org/wgrentry/
 
-## /wg/ Writing Rumble Voting Form (voting for this year's contest has concluded!)
+## /wg/ Writing Rumble Voting Form 
+
+**(voting for this year's contest has concluded!)**
 
 The voting form for /wg/'s Writing Rumble is already up! Check it out (it has a nice picture of Subaru at the bottom): https://docs.google.com/forms/d/e/1FAIpQLSdlEP3lOlGJI42lNOAcrM1Lr0rGcxZAGhdF7sl371xLhYsbTg/viewform?usp=sf_link
 
 Voting closes on the 4th of September, 11:59PM UTC -12 to give you guys some extra time to read.
 
-## /wg/ Writing Rumble Story Anchor (only use when there's a contest happening; I guess we don't need it anymore since submissions are closed?)
+## /wg/ Writing Rumble Story Anchor 
+
+**(only use when there's a contest happening; I guess we don't need it anymore since submissions are closed?)**
 
 /VT/ WRITING RUMBLE STORY ANCHOR
 Reply to this post with your contest submissions.

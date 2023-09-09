@@ -13,14 +13,18 @@
 
 Thread Number | Short Description
 ------ | ------
-/qst/ Thread #1: [No Stranger to Disaster](https://boards.4channel.org/qst/thread/5743269) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
+/qst/ Thread #0: [No Stranger to Disaster](https://boards.4channel.org/qst/thread/5743269) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
+/qst/ Thread #1: [Abrupt Awakenings](https://boards.4channel.org/qst/thread/5755695) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
 
 ## Timeline
 Date of Event | Time Elapsed | Quest or Event | Short Description
 :----: | :----: | :----: | :----: 
 0/1/1 | ??? | #00 No Stranger to Disaster | A voice calls out, wondering if anyone will answer its plea.
-1/1/1 | ??? | #01 The Ever-Distant Odyssey | (placeholder) he said it, he said the thing
+1/1/1 | ??? | #EV01 Abrupt Awakenings | The call has been answered! But... where are you?
 
 ## Narrative Summarization
-!!! note (8/22/23) - #00 No Stranger to Disaster 
+!!! note (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #00 No Stranger to Disaster 
 This world is full of peril and danger greater than what the natives can handle on their own. In these times of need, looking beyond becomes a necessity to ensure the survival of all that we know. So... something reaches out and pulls in the willing heroes. You've answered the call, whether consciously or by accident. You're here now, in a world full of only Pokémon, as a Pokémon.
+
+!!! note (9/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV01 Abrupt Awakening
+You wake up in a strange place, with even stranger company. Whatever and wherever you are, this definitely isn't Kansas or Kalos anymore. Structures older than you've ever seen before tower over you, exploring the ruins with others who are all supposedly share the same predicament as your own.

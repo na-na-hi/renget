@@ -35,6 +35,7 @@ Image | Name | Description | Links
 ##Male Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![elfy](https://files.catbox.moe/yyzxhx.png)   | **Saphielle** | (V2) Lorebook + 2 greetings. A haughty, disgraced elf prince whose nation was conquered by orcs. Now a refugee in the Equamore Republic. It is your job to house him. The alternate greeting takes place in the middle of the conquest. | [chub](https://www.chub.ai/characters/crustcrunch/saphielle-4eb43153), [catbox](https://files.catbox.moe/yyzxhx.png)
 ![purin](https://files.catbox.moe/gyjuqj.png)   | **Pompompurin** | Your plushie came to life... as a real boy! A reverse-saviorfagging bot. Tell Purin all about your troubles. [Alternate avatar](https://files.catbox.moe/bqzamr.png) | [chub](https://www.chub.ai/characters/crustcrunch/pompompurin-f4a99725), [catbox](https://files.catbox.moe/gyjuqj.png)
 ![step bro](https://files.catbox.moe/iaieiw.png)   | **Juni** | Your depressed NEET step-bro. | [chub](https://www.chub.ai/characters/crustcrunch/juni-de5bb989), [catbox](https://files.catbox.moe/iaieiw.png)
 ![Marshal Furry](https://files.catbox.moe/k22gd2.png)   | **Marshal** | (V2) 3 greetings. Squirrel from Animal Crossing. Furry/Anthro version. | [chub](https://www.chub.ai/characters/crustcrunch/marshal-1ce3a5cd), [catbox](https://files.catbox.moe/k22gd2.png)

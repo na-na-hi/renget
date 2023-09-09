@@ -2,7 +2,7 @@
 Always announce when you're making the next thread, so we're avoiding doubles. Announce it either at the very end of pg.9 or in pg. 10
 
 !!!Note Presentation notes (OP post #1 - in the near future, this post will be focused on the general informations and musical release - including the latest karaoke / once the threshold of 3 karaokes will done, the post will incorporate the 'Demonry of Sound' page from the Library)
-!!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
+!!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel) - 110897317_p0.jpg
 
 /ope/ - Nerissa Ravencroft General
 

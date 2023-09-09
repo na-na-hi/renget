@@ -806,11 +806,15 @@ Imai slammed the piano keys furiously. "You have no idea the tightrope I have to
 
 "..."
 
-They glared bitterly at each others with tearful eyes still continuing to play.
+They glared bitterly at each others with tearful eyes, still continuing to play.
 
 Imai spoke out first, "Then you’re wrong… cause I’ve seen what you do… the way you help others. You deserve to be in the hero course."
 
-"So do you... and at your full potential, Imai. You don't have to hide. Your mom's not the only one you have. Ashleigh, Chris, Hoge, me! Everyone in 1-D has your back bro. You can try counting on us, but you can't sit back and keep us out... I'm dragging you along whether you want to or not."
+"So do you... and at your full potential, Imai. You don't have to hide." 
+
+Inigo slowed down his tempo, and Imai did the same.
+
+"Your mom's not the only one you have. Ashleigh, Chris, Hoge, me! Everyone in 1-D has your back bro. You can try counting on us. You can't just sit back and keep us out... I'm dragging you along whether you want it or not."
 
 Their eyes slowly met in understanding as they played. There was still much left unsaid between them. But the bridge of music had been crossed, bringing their divergent souls a bit closer.
 
@@ -929,4 +933,4 @@ Imai rubbed his chin, "Hmm. I was thinking we slow things down a bit, maybe stri
 
 "I'm glad you asked!"
 
-The two boys fell into relaxed conversation. As the Dastardly Duo walked, the sun set behind them slowly. Though there were still challenges ahead, bonds had been strengthened and connections reforged. For now, the future seemed bright for the two young hero students.
+As the Dastardly Duo walked, the sun set behind them slowly. Though there were still challenges ahead, bonds had been strengthened and connections reforged. For now, the future seemed brighter for the two young hero students.
