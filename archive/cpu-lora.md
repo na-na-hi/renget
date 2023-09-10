@@ -6,8 +6,8 @@ Think of a LoRA finetune as a patch to a full model. The LoRA training makes adj
 
 For more information, please see the [LLM Training Guide rentry](https://rentry.org/llm-training). They have more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide focused on the llama.cpp implementation.
 
-!!! warning Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training.
-    You need tons of RAM (not VRAM, this doesn't currently use your GPU at all). If you're just looking for a TL;DR: you can **probably** train a 7B with 32GB of RAM and 13B with 64 GB of RAM.
+!!! warning Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You need tons of RAM (not VRAM, this doesn't currently use your GPU at all).
+    TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 64 GB). The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
 To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below. If you use a different path, just make sure to adjust the commands.
 
@@ -42,7 +42,7 @@ Once llama.cpp has been compiled, you don't need to repeat any of these steps (u
 1. Download a gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q8_0.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
 2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
-4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14`
+4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --samples-after-nl`
 
 Obviously you will need to adjust step 4 to specify your actual base model name, training data name, and the number of threads (physical processors) in your system.
 
@@ -52,10 +52,6 @@ Obviously you will need to adjust step 4 to specify your actual base model name,
 !!! info See [Appendix B](#appendix-b-stheno-training-example) for a full training example using Stheno and training data/chat logs from SillyTavern.
 
 !!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
-
-### Models with Known Issues
-
-Any model with "grouped-query-attention" will not work. This includes the TheBloke's CodeLlama 34B GGUFs. See the [Pull Request](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1709207792) for details.
 
 ## Use your LoRA
 
@@ -71,7 +67,7 @@ If you use llama.cpp's main.exe, [see the documentation for finetune.](https://g
 
 ## Appendix A - Hardware Requirements
 
-!!! danger This section is a work-in-progress. It takes a while to try things, so updating this is slow-going. I'm setting up a script to automate this, so please be patient.
+!!! danger This section is a work-in-progress AND THE RAM USAGES ARE VERY INCORRECT. I'm setting up a script to automate this, so please be patient.
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
 
@@ -107,6 +103,8 @@ I was unable to load any 34B and 70B models, but I think it's due to the model f
 Context size (`ctx`/`--ctx`) greatly affects RAM usage and training time. Adam iterations (`iter`/`--adam-iter`) only affects training time, and scales linearly. Data size seems to mostly just affect RAM usage. It's worth noting that during tokenization, the RAM usage spikes by quite a bit, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
 
 ## Appendix B - Stheno Training Example
+
+!!! danger This section is currently wrong. Currently, the only sample separator option is `--samples-after-nl`, so we are stuck using that until another method is implemented.
 
 !!! warning I am not an expert on training data formatting. If I have misunderstood the expected format, PLEASE let me know so I can put the data in a more optimal format.
 
@@ -259,6 +257,8 @@ These three control how much data is processed and are based on the number of tr
 
 !!! warning If you are experienced at training LoRA's, please let me know if this section is correct/incorrect!
 
+- `--samples-after-nl`: Training samples start after newlines. (default off)
+  - Currently, this MUST be set or each individual token is treated as its own sample, which is probably not what you want.
 - `-b N`, `--batch N`: Parallel batch size (default 8)
   - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this as large as your hardware can support. I've seen a few different data sets that just use a size of 1.
   - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't an integer multiple, some batches just won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1, which keeps it simple.
@@ -334,7 +334,6 @@ These are things you probably don't want to use, or just won't care about.
 !!! danger I haven't figured out exactly what these parameters do. If you know, please share the information and I'll be happy to add it here!
 
 - `--norm-rms-eps F`: RMS-Norm epsilon value (default 0.000010)
-- `--samples-after-nl`: Training samples start after newlines. (default off)
 - `--no-flash`: Don't use flash attention
 - `--use-flash`: Use flash attention (default)
 - `--no-alloc`: Don't use allocator

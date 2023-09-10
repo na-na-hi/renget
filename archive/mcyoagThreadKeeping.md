@@ -40,10 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
-https://rentry.org/fuisbz
->Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) 
-https://rentry.org/5cxcb3
+>Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
+https://rentry.org/y4cam
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -548,7 +546,8 @@ https://rentry.org/2ngq2
 >The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
 https://rentry.org/fuisbz
 >Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
-
+>Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
+https://rentry.org/y4cam
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

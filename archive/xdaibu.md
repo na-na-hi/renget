@@ -24,6 +24,8 @@
 
 
 ##Modding info will come soon
+- Local mods folder 
+	- https://mega.nz/folder/W1QTRRTT#fgXCAoDPokYXIzhGgVsA1g
 
 
 ##DATAMINED FILES ARCHIVE

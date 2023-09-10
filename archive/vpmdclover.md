@@ -23,7 +23,7 @@ N/A | M | Togetic | Dewott (M, Human, Former Partner) | Clover Guild "Secret" Qu
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | A-Vulpix | Sandshrew (Cassie, F, Native) & Fletchling (Bean, M, Human) | Clover Guild Native Member/Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skourpi | Furret (F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
-Gill | M | H-Growlithe | Growlithe (Bill, M, Human) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#gillbill)
+Bill | M | Growlithe | Hisuian Growlithe (Gill, M, Human) | Clover Guild Counselor | [???](https://rentry.org/vpmdcloverpb#gillbill)
 N/A | F | Pikachu | Ampharos (M, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Bounty Hunter |[Docile](https://rentry.org/vpmdcloverpb#clarasmoke)
 Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fynn)
@@ -279,7 +279,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Branching Out](https://rentry.org/branching)
 	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
 	* [An Overelming Week](https://rentry.org/overelming)
-* Gill the Hisuian Growlithe
+* Bill the Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
 	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)

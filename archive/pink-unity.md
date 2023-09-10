@@ -99,11 +99,24 @@ Some examples include but are not limited to:
 *Tensyoin Himeno* (JP): https://www.youtube.com/@TensyoinHimeno
 *Babu* (JP): https://www.youtube.com/@babuch.7133
 *Miria Sakuragi* (JP): https://www.youtube.com/@Miria_Sakuragi
+*Na Sera* (JP): https://www.youtube.com/@NaSera
+*Aimi Hada* (ES): https://www.youtube.com/@AimiHadaSedai
+*Marika Matsurika* (EN): https://www.youtube.com/@MarikaMatsurika
+*Amase Io* (EN): https://www.youtube.com/@amase_io
+*Shio Mitsuki* (EN): https://www.youtube.com/@ShioMitsuki
+*Futaba Megu* (JP): https://www.youtube.com/@futabamegu
+*Himekuma Ribon* (JP): https://www.youtube.com/@himekumaribon
+*Kuon* (JP): https://www.youtube.com/@kuonch.
+*Imonyan* (JP): https://www.youtube.com/@imonyan
+*Yuhi Riri* (JP): https://www.youtube.com/@YuhiRiri
+*Grape Chann* (EN): https://www.twitch.tv/grapechann
+*Ai Umeka* (EN): https://www.twitch.tv/aiyumeka
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
 *Nekomiya Hinata* (JP): https://www.youtube.com/@NekomiyaHinata
 *Shishido Akari* (JP): https://www.youtube.com/@ShishidoAkari
+*Ichijou Ririka* (JP): https://www.youtube.com/@IchijouRirika
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
@@ -120,7 +133,9 @@ To be *only* discussed within the context and as relating to their transient pin
 *Pink Shylily* (EN): https://www.twitch.tv/shylily
 *Uruha Rushia* (JP): https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ
 *Filian* (EN): https://www.twitch.tv/filian
-"Miori Celesta* (EN): https://www.youtube.com/@MioriCelesta
+*Miori Celesta* (EN): https://www.youtube.com/@MioriCelesta
+*Lyra Calyptra* (EN): https://www.twitch.tv/LYRA
+*Snuffy* (EN): https://www.twitch.tv/snuffy
 
 ###Pink Halflings:
 Defined as vtubers whose hair is around half *solid* pink (Not highlights or underlayer), usually vertically divided.

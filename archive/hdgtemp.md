@@ -7,8 +7,6 @@ Nvidia: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and
 AMD: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 Cloud: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services
 Optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
-Extensions: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Extensions
-Custom Scripts: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts
 
 >RESOURCES
 Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
@@ -18,7 +16,7 @@ Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https:/
 
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups
 ControlNet: https://rentry.org/dummycontrolnet
-LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
+LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://lama-cleaner-docs.vercel.app/install/pip
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 

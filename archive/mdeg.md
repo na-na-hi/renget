@@ -1,7 +1,7 @@
+-> **DISCLAIMER: I AM NOT, NOR HAVE I EVER CLAIMED TO BE, AN EXPERT ON QUANTUM PHYSICS OR METAPHYSICS**<-
 https://boards.4channel.org/x/mdeg
 An explanation by Professor Turo (4chan tripcode: !!1ulnC0Yj8gx)
 [TOC]
-
 # What is MDEG?
 MDEG stands for Mass Divergence Effect/Event General. It is a thread on /x/ for discussion of the Mass Divergence Effect and the impending Mass Divergence Event. 
 ## What is the Mass Divergence Effect?
