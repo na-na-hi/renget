@@ -163,6 +163,12 @@
 |---|---|---|
 |27/07/2023|[Start of the segment](https://youtu.be/8ssW4JqdpcU?t=6553) - [Timestamp for introductions](https://youtu.be/8ssW4JqdpcU?t=6572) - [Timestamp for the question](https://youtu.be/8ssW4JqdpcU?t=6631) - [Timestamp  for the answer](https://youtu.be/8ssW4JqdpcU?t=6711) - [Timestamp  for the confirmation](https://youtu.be/8ssW4JqdpcU?t=6798) | **On-screen appearance** - Question asked by all the Advent members to the holomems present to the pre-concert gameshow of the HoloSummer Splash Party concerning 'Who's the member of Advent not wearing panties all the time?'|
 
+
+###### ReGloss Main Channel
+|Date|Link|Nature & Notes|
+|---|---|---|
+|10/09/2023|[Timestamp](https://youtu.be/oBl_xvydhmk?t=1492)|**Reaction** - During ReGloss first fullgen collab, the girls were reacting to the predictions cards done by the other holomems. Advent was the first group where cards were read (Shiori then Bijou then Nerissa and finally FWMC). The timestamp starts as soon as Nerissa's card is read.|
+
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels)->
 
 ---

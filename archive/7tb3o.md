@@ -8,7 +8,7 @@
 
 
 
-[Go back to the Main Page](https://rentry.org/ei9vd)
+[Go back to the Main Page](https://rentry.org/46mci)
 
 
 ####Members streams
@@ -56,6 +56,10 @@
 | 2023-04-24 | Drawing | 【MEMBERS ONLY】Drawing n Stuff [![【MEMBERS ONLY】Drawing n Stuff](https://files.catbox.moe/x10w19.jpg)](https://www.youtube.com/watch?v=KiatpUsrTnw)[Thumbnail Source](https://www.pixiv.net/en/artworks/102957313) | Should have been a comfy drawing stream but didn't go too well due to health and got privated. | 00:40h
 | 2023-04-25 | Karaoke | 【MEMBERS ONLY】Practicing New JP Songs !! [![【MEMBERS ONLY】Practicing New JP Songs !! ](https://img.youtube.com/vi/Wj2B3n8XjV0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wj2B3n8XjV0)[Thumbnail Source](https://www.pixiv.net/en/artworks/107480773) | Archived Karaoke, still a few Kyuns but overall a good voice day. | ~01:00h
 | 2023-05-22 | Mute Drawing | 【MEMBERS ONLY】Drawing in Silence ! :D [![【MEMBERS ONLY】Drawing in Silence ! :D](https://img.youtube.com/vi/teU_PoMO6Gc/maxresdefault.jpg)](https://www.youtube.com/watch?v=teU_PoMO6Gc)[Thumbnail Source](https://twitter.com/iro_aotake/status/1645954895038787585) | Stream took place just before her vocal-rest. If you thought Mumei needs to be able to talk to be ever so slightly ~~cute~~ unhinged? Think again :D | 01:40h
-| 2023-06-25 | Mockumentary Watch-Along | 【MEMBERS ONLY】ANCIENT ALIENS Watch-Along [![【MEMBERS ONLY】ANCIENT ALIENS Watch-Along](https://img.youtube.com/vi/FUz9XN_JiyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUz9XN_JiyQ)[Thumbnail Source](https://twitter.com/pendingname7777/status/1672656014255198208) | Upcoming Stream | :D
+| 2023-06-25 | Mockumentary Watch-Along | 【MEMBERS ONLY】ANCIENT ALIENS Watch-Along [![【MEMBERS ONLY】ANCIENT ALIENS Watch-Along](https://img.youtube.com/vi/FUz9XN_JiyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=FUz9XN_JiyQ)[Thumbnail Source](https://twitter.com/pendingname7777/status/1672656014255198208) | Mentally prepare to get probed by Owliens. Half the watchalong was Mumei trying to get her head around the jumps and leaps of the show the other half was more ripping into all those leaps in logic the show had to offer.   | ~4:00h
+| 2023-06-25 | Mockumentary Watch-Along | 【MEMBERS ONLY】MORE ANCIENT ALIENS Watch-Along [![【MEMBERS ONLY】MORE ANCIENT ALIENS Watch-Along](https://img.youtube.com/vi/Vra5lyXKeGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vra5lyXKeGw)[Thumbnail Source](https://www.pixiv.net/en/artworks/105955997) | More Aliens, more insanity, more Moombrainmelting down. She was a little more prepared for it this time but plenty funsie were still had. | ~2:50h
+| 2023-06-25 | ASMR | 【MEMBERS ONLY】ASMR for Owl Pals !! + New Asset ... !!!! [![【MEMBERS ONLY】ASMR for Owl Pals !! + New Asset ... !!!!](https://img.youtube.com/vi/OlCDQXhGfEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=OlCDQXhGfEM)[Art Source](https://twitter.com/xdeyuix) | No verbal abuse ASMR today but a dangerously cute caffeinated ranty ASMR Zatsu(forma de Mumei). After showing off the new Asset and trying out a few new things we quickly strayed into zatsu territory. Only wanted to go for about an hour but stayed for almost two and a half. She was working on the negative affirmation script before deciding to just do a zatsu though, so there is still hope..(It will happen, just beriebu!)  | ~2:20h
 
-[Go back to the Main Page](https://rentry.org/ei9vd)
+
+
+[Go back to the Main Page](https://rentry.org/46mci)

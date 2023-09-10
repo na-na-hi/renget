@@ -190,5 +190,7 @@
 |08/09/2023|169|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps from Kaela's Minecraft stream of 07/09/2023.|
 |08/09/2023|170|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps from Kiara's 4th solo BG3 stream of 08/09/2023.|
 |09/09/2023|171|Lover of Idols II - OHC & Mentions|Addition of 6 timestamps from Shiori's SOS: A Wonderful Life stream of 09/09/2023.|
+|10/09/2023|172|Lover of Idols II - OHC & Mentions|Addition of a timestamp from ReGloss first fullgen collab with the reaction of Nerissa's prediction card.|
+|10/09/2023|173|Recommendation|Addition of the fourth Terraria stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

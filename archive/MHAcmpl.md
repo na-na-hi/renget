@@ -844,6 +844,7 @@ The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke,
 The Investigation Continues (Mirror Devil, Last Rite, Noctiluca): https://rentry.org/fuisbz
 Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
 Alone On A Friday Night? God, you're pathetic. (Maru(Maru)): https://rentry.org/y4cam
+Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222/#90198760
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

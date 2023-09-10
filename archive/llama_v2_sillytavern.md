@@ -134,3 +134,10 @@ Things I might add later:
 
 Original Google Docs guide:
 https://docs.google.com/document/d/1_g-hwrzJ-DPBW2Mxx0HDC610M0B_pIIJexst0zKAjRA/
+
+——————————————————————————————————————————————————————————————————
+
+**Don't have at least 6GB of VRAM? You'll probably get worse speeds compared to a free Google Colab instance.**
+If you decide to take this route, skip to Step 3 of this guide (the part that shows you how to install SillyTavern) and then visit this page:
+
+https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb

@@ -865,6 +865,14 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/pj785p.rar
 
+# Solterv/Solturb (Artist)
+
+	https://files.catbox.moe/s7d1uh.safetensors
+
+# Substitute (Pokemon)
+
+	https://files.catbox.moe/azuqh3.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

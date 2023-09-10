@@ -27,3 +27,8 @@ Place that in the huggingface_repo text box instead of MythoMax-L2-13B-GPTQ
 ##### MLewd
 "Mlewd seems built for ERP. As in compared to Mythomax, you will receive much more emotional responses with MLewd."
 change org name to Kotokin and the repo to MLewd-L2-13B-v2-1-GPTQ
+
+#### koboldcpp on colab
+run local GGML/GGUF models (potentially better quantization/quality than GPTQ)
+https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb
+https://rentry.org/koboldcpp_colab_guide
