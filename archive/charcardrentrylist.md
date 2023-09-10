@@ -23,10 +23,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Nono](https://rentry.org/NonoRoom) | Misc |[Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png), [Nova](https://files.catbox.moe/yehzby.png), [Nomura](https://files.catbox.moe/2tcqoo.png), [Apolco](https://files.catbox.moe/9kmc7o.png)|[Reiko-chan](https://files.catbox.moe/w27p53.png) [MV], [Teresa](https://files.catbox.moe/imm4oc.png), [Nova](https://files.catbox.moe/yehzby.png) [MV]
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Akira](https://files.catbox.moe/j6lgi6.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Knight](https://files.catbox.moe/7iqaau.png), [Thief](https://files.catbox.moe/nbbfmg.png), [Hero](https://files.catbox.moe/5w43pf.png), [Wizard](https://files.catbox.moe/viwusr.png), [Beastmaster](https://files.catbox.moe/5ynvxo.png)|
-[Hedona](https://rentry.org/hedona) | Misc |[Dionaea](https://files.catbox.moe/5dx3pc.png)|[Monoe](https://files.catbox.moe/16o12i.png)
+[Hedona](https://rentry.org/hedona) | Misc |[Dionaea](https://files.catbox.moe/5dx3pc.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ishtar](https://files.catbox.moe/19ixso.png), [Caenis (Rider)](https://files.catbox.moe/cq8tda.png), [Ereshkigal](https://files.catbox.moe/fm6yk3.png), [Tsunade](https://files.catbox.moe/ta8t06.png)|[Ishtar](https://files.catbox.moe/19ixso.png) [MV], [Caenis (Rider)](https://files.catbox.moe/cq8tda.png) [MV], [Ereshkigal](https://files.catbox.moe/fm6yk3.png) [MV]
-[GGR89](https://rentry.org/ggr89) | Misc |[Sakura](https://files.catbox.moe/xpuemq.png), [Akagi](https://files.catbox.moe/lq4m27.png)|
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Klischée](https://files.catbox.moe/vh7c1b.png), [Bianca](https://files.catbox.moe/9izzte.png), [Siren](https://files.catbox.moe/62j8s5.png)|[Siren](https://files.catbox.moe/62j8s5.png) [MV], [Katia Managan](https://files.catbox.moe/osvod8.png)
+[GGR89](https://rentry.org/ggr89) | Misc |[Sakura](https://files.catbox.moe/xpuemq.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Klischée](https://files.catbox.moe/vh7c1b.png), [Bianca](https://files.catbox.moe/9izzte.png)|[Siren](https://files.catbox.moe/62j8s5.png)
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Saphielle](https://files.catbox.moe/yyzxhx.png), [Natsuko](https://files.catbox.moe/anpft4.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Scarlett](https://files.catbox.moe/67ipaw.png), [Stardust](https://files.catbox.moe/axuo8h.png), [Brooke](https://files.catbox.moe/84u3l6.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Tabitha](https://files.catbox.moe/uzgx4a.png)|
@@ -41,7 +41,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Zhongli](https://files.catbox.moe/6lurqh.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Dina](https://files.catbox.moe/ezw8ok.png)|[Dina](https://files.catbox.moe/ezw8ok.png) [MV]
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Isabella](https://files.catbox.moe/pwtj8a.png)|
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[HUX-A7-13](https://files.catbox.moe/1xxuaj.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||[ꭦ֎√](https://files.catbox.moe/0xycic.png), [Yvolt](https://files.catbox.moe/laa9w0.png)
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
@@ -50,7 +50,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||[Tadashi](https://files.catbox.moe/7vru9g.png)
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
+[Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [LobotomyAnon](https://rentry.org/LobotomyAnon) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||

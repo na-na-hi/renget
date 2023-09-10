@@ -189,5 +189,6 @@
 |07/09/2023|168|Lover of Idols II - OHC & Mentions|Addition of the link for the FUWAMOCO's Japenese Lesson with Advent collab of 08/09/2023.|
 |08/09/2023|169|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps from Kaela's Minecraft stream of 07/09/2023.|
 |08/09/2023|170|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps from Kiara's 4th solo BG3 stream of 08/09/2023.|
+|09/09/2023|171|Lover of Idols II - OHC & Mentions|Addition of 6 timestamps from Shiori's SOS: A Wonderful Life stream of 09/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -55,6 +55,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
+[[Booth]](https://witchcraft130.booth.pm/items/5084228) : Touhou - Hakurei Reimu -Limited-
 [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01032944.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1859938) : Kantai Collection - Luigi Torelli (UIT-25 / I-504)
 [[DLSite]](https://www.dlsite.com/home/work/=/product_id/RJ01015129.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1816379) : Kantai Collection - USS B45 Colorado
 [[DLSite]](https://www.dlsite.com/home/work/=/product_id/RJ417037.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1629294) : Shadow House - Barbara & Barbie
@@ -96,6 +97,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **Kynokoru (キノコル)** <-
 -> [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44045.html) [[Iwara]](https://ecchi.iwara.tv/users/kynokoru) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99014900) [[Pixiv]](https://www.pixiv.net/en/users/542190) [[Twitter]](https://twitter.com/kynokoru) <-
+
+[[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01097524.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=2091714) : Blue Archive - Momoi & Midori -Maid-
 ***
 -> **lovecelebi** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/29825475) [[Booth]](https://lovecelebi.booth.pm/) [[Twitter]](https://twitter.com/lovecelebi) <-

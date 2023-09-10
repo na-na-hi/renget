@@ -243,7 +243,7 @@ Just like a dog would.
 
 (...)
 
-It took them a bit of experimentation for them to find a comfortable sleeping position that both accounted for their new body shapes *and* didn’t make the other one uncomfortable in the bed they were dealt with. It wasn’t actually too hard—eventually, both settled into sleeping with their backs turned on each other after realizing that the blanket felt redundant for both of them. With the way their skeletons worked now, laying down on the mat without a pillow felt more comfortable than it would have been otherwise. Their tails involuntarily grazing was about the minor only issue they encountered.
+It took them a bit of experimentation for them to find a comfortable sleeping position that both accounted for their new body shapes *and* didn’t make the other one uncomfortable in the bed they were dealt with. It wasn’t too hard, actually—both eventually settled into laying sideways with their backs turned on each other after realizing that the blanket felt redundant for both of them. With the way their skeletons worked now, laying down on the mat without a pillow felt more comfortable than it would have been otherwise. Their tails involuntarily grazing was about the only minor issue they encountered.
 
 “Yeah, Uxie does sound like a smart plan”, Gill continues their conversation as they lay in the cotton surface. “He’s far away from here, if I remember correctly.”
 

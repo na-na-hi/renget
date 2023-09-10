@@ -29,7 +29,8 @@ https://majinai.art
 https://huggingface.co
 
 >>> Other <<<
-OP: https://rentry.org/dpasta
+Archive: https://archived.moe/b/search/subject/DEGENerated%20/
+OP Pasta: https://rentry.org/dpasta
 
 >>> Related boards (their OPs may have resources & walkthroughs not included here) <<<
 >>>/h/hdg
