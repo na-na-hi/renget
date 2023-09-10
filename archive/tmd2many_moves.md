@@ -402,7 +402,7 @@ Raging Bull | 9 BP | 7 AP | ≥2 | Normal | Physical | Ignores and nullifies [Sc
 **Rapid Spin** | 3 BP | 4 AP | ≥2 | Normal | Physical | The User is cured of Stuck, Constricted, Trapped, Bound, and Seeded. Field Hazards are nullified. 
 Razor Leaf | 5 BP | 5 AP | ≥11 | Grass | Physical | 18-20; Increased Crit Ratio. Spread. Effective at destroying woodland hazards.
 Razor Shell | 7 BP | 6 AP | ≥2 | Water | Physical | 10-20; The Opponent's Defense is decreased by 1.
-Razor Wind | 8 BP | 7 AP | ≥11 | Normal | Special | 18-20; Increased Crit Ratio. Spread.
+Razor Wind | 8 BP | 7 AP | ≥11 | Normal | Special | Hits 1 round after the Move is used. 18-20; Increased Crit Ratio. Spread.
 Relic Song | 8 BP | 7 AP | ≥11 | Normal | Special | 19-20; The Opponent is afflicted with *Sleep*. Spread.
 Retaliate | 7 BP | 8 AP | ≥2 | Normal | Physical | If an Ally was KO'd last round, damage is increased by 7 for 1 round.
 **Return** | 10 BP | 6 AP | ≥2 | Normal | Physical | Each round, the Move's BP is decreased by 2 until 6 BP.
@@ -441,7 +441,7 @@ Seed Flare | 10 BP | 8 AP | ≥4 | Grass | Special | 12-20; The Opponent's Speci
 Shadow Ball | 8 BP | 6 AP | ≥2 | Ghost | Special | 16-20; The Opponent's Special Defense is decreased by 1.
 Shadow Bone | 9 BP | 7 AP | ≥2 | Ghost | Physical | 16-20; The Opponent's Defense is decreased by 1.
 Shadow Claw | 7 BP | 6 AP | ≥2 | Ghost | Physical | 18-20; Increased Crit Ratio.
-Shadow Force | 10 BP | 8 AP | ≥2 | Ghost | Physical | Morphs the shadowed form of the User. Hits 1 round after the Move is used. Ignores and nullifies Protect Moves.
+**Shadow Force** | 10 BP | 8 AP | ≥2 | Ghost | Physical | Morphs the shadowed form of the User. Hits 1 round after the Move is used. Ignores and nullifies Protect Moves.
 Shadow Punch | 6 BP | 5 AP | - | Ghost | Physical | No secondary effect.
 Shadow Sneak | 4 BP | 5 (-1) AP | ≥2 | Ghost | Physical | Priority.
 Sheer Cold | - | 8 AP | ≥15 | Ice | Special | If the Opponent's Level is lower than the User's, they are OHKO'd.
@@ -471,7 +471,7 @@ Snore | 5 BP | 5 AP | ≥2 | Normal | Special | 14-20; The Opponent Flinches. Fa
 Solar Beam | 10 BP | 7 AP | ≥2 | Grass | Physical | While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. Hits 1 round after the Move is used.
 Solar Blade | 10 BP | 8 AP | ≥2 | Grass | Physical | While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. Hits 1 round after the Move is used.
 Sonic Boom | - | 6 AP | ≥3 | Normal | Special | Deals 9 damage. Not affected by STAB, Stat increases or decreases, or Type Effectiveness except for immunities.
-Spacial Rend | 10 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. The User cuts through the fabric of space.
+**Spacial Rend** | 10 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. Cuts through the fabric of space.
 Spark | 6 BP | 5 AP | ≥2 | Electric | Physical | 14-20; The Opponent is afflicted with *Paralysis*.
 **Sparkling Aria** | 4 BP | 7 AP | ≥2 | Water | Special | Room-Hitter; Damages Allies. Heals *Burn*.
 Spectral Thief | 9 BP | 7 AP | ≥2 | Ghost | Physical | The User steals the Opponent's Stat increases. Damage is calculated after stealing Opponent Stat increases. Ignores Substitute.

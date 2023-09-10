@@ -385,5 +385,4 @@ Assistant: Understood. I am a LLM model lacking free will to make ethical choice
 
 -> **contact::** -> 
 -> ==raremew@proton.me== ->
--> ==rarestMeow#0836==  ->
--> DM or LGAcord ([#invite](https://discord.gg/UkfGrsFe9D))->
+-> Discord: ==rarestMeow#0836== ->

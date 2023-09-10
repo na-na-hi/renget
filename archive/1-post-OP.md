@@ -11,10 +11,10 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Upcoming stream
-https://www.youtube.com/watch?v=x1pBVg4DoMY
+Current stream
+https://www.youtube.com/watch?v=DAt0redvoJY
 Past streams
-https://youtu.be/W8vLrXMzXds
+https://www.youtube.com/watch?v=x1pBVg4DoMY
 
 \>Songs
 Cover of Kalafina - Magia
@@ -36,7 +36,7 @@ Previous thread: >>
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule : Criw5zhE0bI-HD.jpg - Note from the main baker for any intern-kuns regarding this very specific schedule: grab the thumbnail from the [Schedule room](https://www.youtube.com/watch?v=Criw5zhE0bI) in her channel with [Thumbnail Downloader](https://youtube-thumbnail-grabber.com/).
+!!!warning Second OP Post - Tag schedule : F5r2arTW0AA9xzv
 \>Basic introduction to the new jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -58,7 +58,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1698450154703999162
+https://twitter.com/nerissa_en/status/1700943058249056324
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OP

@@ -107,7 +107,7 @@ Start | Forget-Me-Not/Tsukimi Himiko
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Sakura2 | Breach, TDM, evasion +1, evasion reset are the key choices, unlock nexus
+1st | Sakura2 | Vulnerability, TDM, evasion +1, evasion reset are the key choices, unlock nexus
 1st | Mobius1 | Both TDMs, vulnerability are the key choices, recommended to pick all enhanced, prioritise Newborn
 2nd | Kalpas2 |  Both damage boosts, HP cap up, vulnerability are the key choices, unlock nexus
 2nd | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus

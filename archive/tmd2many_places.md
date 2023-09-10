@@ -7,8 +7,22 @@
 [TOC2]
 
 ***
+## Secondary List of NPCs
+Listed below are all the non-player characters not significant enough to have a character sheet created for them, either due to their role as a background character or simply because you couldn't be bothered and found no need to. They may be prominent enough to be reoccurring and can "graduate" from this list. You can even include larger teams here, as well.
+
+Group/Name | Pokémon | Description
+:----: | :----: | ---- 
+Team Rangers | Mudkip and Pikachu | A strange duo hailing from the Air Continent, they are an independent rescue team operating near the area of Pokémon Square.
+
+***
 ## Important Locations
 Below are all the reoccurring locations that players may be expected to travel back to or visit on multiple occasions. More will be added depending on the stage and progression of the story
+
+### ->Baram Town<-
+->**Location: Air Continent**<-
+
+### ->Pokémon Square<-
+->**Location: Air Continent**<-
 
 ### ->Post Town<-
 ->**Location: Mist Continent**<-
@@ -20,6 +34,13 @@ A quiet, sleepy place out in the depths of the Mist Continent. A prime example o
 ***
 
 ## Shops and Services
+
+**Lilac's Wares**
+Location: N/A
+*Basic Adventure Supplies, Local Specialties & Odd Jobs*
+- The most eye-catching advertisement you will see for Lilac's Wares is the proprietor of the shop himself. A shiny Delibird with a huge backpack, always open for business regardless the time of day despite what the grumpy salesmon might say.
+- Always sells the very basics an adventurer might need, along with goods found in the current region, but the price and payment methods may vary depending on need. The ex-traveling merchant turned supplier still has plenty of contacts, and some contracts, to keep the merchandise flowing despite where he finds himself in the world.
+- Lilac is always on the lookout for certain items and artifacts. When he hears rumors on the wind on where to acquire them, special contracts become available for sale. These contracts will send adventurers on a mission that will unlock new and more powerful items for sale, albeit in limited quantities.
 
 **Sneasel's Shop**
 Location: Anywhere

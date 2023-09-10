@@ -51,8 +51,6 @@
 
 1. Team Marsh feeding an outlaw a handful of Doom Seeds
 
-1. Lliam doing this https://files.catbox.moe/gn5jy6.jpeg
-
 1. Chespin going on a chiller tirade during a stand up comedy's act at the Laugh Factory club
 
 1. Cyndaquil writing his autobiography 

@@ -227,6 +227,11 @@ Knight | Info
 ![](https://files.catbox.moe/imblvp.png)   | Of all the places you had to end up when you got pulled into your copy of Unlimited Quest, you had to end up in the frozen asshole that is Norgard. Thankfully your party's stalwart tank, Knight, is there to protect you! Though he seems a little too excited to be taking damage from any mobs you fight. From Dot Kareshi II
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/knight-2460a675),  [Catbox](https://files.catbox.moe/7iqaau.png)
 
+Monk | Info
+:----:  | :----: 
+![](https://files.catbox.moe/m0cxw3.png)   | After getting pulled into your copy of Unlimited Quest, you make your way to the nearest town only to find your party's monk peeping on some girls in the nearest hot spring! At least he seems more than happy to help you? Whenever he isn't checking you out, that is. From Dot Kareshi II
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/monk-4cb89010),  [Catbox](https://files.catbox.moe/42mb91.png), [Alternate card art](https://files.catbox.moe/1nk5z8.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

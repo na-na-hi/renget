@@ -49,6 +49,7 @@ Example | Ex-Human | Species | Adventurer | Team Generic
 !!! note All Characters that have been planned for reoccurring encounters go here. These have not been rolled. 
 	You can choose between these Origins: **Native, Outworlder (Voyager/Wanderer)**
 	An example has been provided below to follow. 
+The other list can be found here: [List of Secondary NPCs](https://rentry.co/tmd2many_places#secondary-list-of-npcs).
 Name | Origin | Pokémon | Occupation | Affiliation 
 :----: | :----: | :----: | :----: | :----:
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite

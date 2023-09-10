@@ -157,7 +157,7 @@
 |01/09/2023|131|Mentions & Collabs|Addition of Nerissa's POV for the Advent Pico Park Collab.|
 |02/09/2023|132|Recommendation|Addition of the Pico Park collab as a recommended collab.|
 |02/09/2023|133|Frontpage & Collab pages|Activation of the 'Collab on Nerissa's channel' page.|
-|02/09/2023|134 & 135|Lover of Idols pages|Change of aesthetics.|
+|02/09/2023|134&135|Lover of Idols pages|Change of aesthetics.|
 |02/09/2023|136|Lover of Idols II - OHC & Mentions|Addition of 3 timestamps containing a mention from Kiara's third solo BG3 stream.|
 |02/09/2023|137|Lover of Idols II - OHC & Mentions|Addition of placeholders for the upcoming Minecraft Advent Collab.|
 |02/09/2023|138|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming Japanese Classroom stream on FUWAMOCO's channel.|
@@ -175,22 +175,27 @@
 |04/09/2023|150|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a reaction for the raid by Polka durung her karaoke stream.|
 |04/09/2023|151|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps containing interactions and mentions from Bijou's 6th Elden Ring stream.|
 |04/09/2023|152|Recommendation|Addition of a placeholder for the third SOS : A Wonderful Life stream.|
-|05/09/2023|153 & 154|Recommendation|Addition of the link for the third SOS : A Wonderful Life stream + minor fixes.|
+|05/09/2023|153&154|Recommendation|Addition of the link for the third SOS : A Wonderful Life stream + minor fixes.|
 |05/09/2023|155|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps containing mentions and breakdown of behind-the-scenes from the Wedding collab on Ollie channel. These timestamps were taken from ollie's HoloCure stream from 05/09/2023.|
 |05/09/2023|156|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Kiara's GTA4 TLAD stream from 05/09/2023.|
 |06/09/2023|157|Lover of Idols II - OHC & Mentions|Addition of Shiori's POV for the Advent Minecraft collab of 06/09/2023.|
 |06/09/2023|158|Lover of Idols II - OHC & Mentions|Addition of FUWAMOCO's POV for the Advent Minecraft collab of 06/09/2023.|
 |06/09/2023|159|Lover of Idols I - Collabs on Nerissa's channel|Addition of both Shiori and FUWAMOCO POVs for the upcoming collab on Minecraft with Advent.|
-|06/09/2023|160 & 161|Lover of Idols Pages|Addition of Bijou's POV for the Advent Minecraft Collab of 06/09/2023.|
+|06/09/2023|160&161|Lover of Idols Pages|Addition of Bijou's POV for the Advent Minecraft Collab of 06/09/2023.|
 |06/09/2023|162|Lover of Idols II - OHC & Mentions|Addition of a timestamp from a Understanding segment from  FWMC Morning #16.|
-|06/09/2023|163 & 164|Lover of Idols Pages|Addition of Nerissa's POV for the Advent Minecraft Collab of 06/09/2023.|
+|06/09/2023|163&164|Lover of Idols Pages|Addition of Nerissa's POV for the Advent Minecraft Collab of 06/09/2023.|
 |06/09/2023|165|Lover of Idols I - Collabs on Nerissa's channel|Addition of Nerissa's POV for the upcoming collab on Minecraft with Kiara.|
-|07/09/2023|166 & 167|Lover of Idols Pages|Addition of Kiara's POV for the Advent Minecraft Collab of 07/09/2023.|
+|07/09/2023|166&167|Lover of Idols Pages|Addition of Kiara's POV for the Advent Minecraft Collab of 07/09/2023.|
 |07/09/2023|168|Lover of Idols II - OHC & Mentions|Addition of the link for the FUWAMOCO's Japenese Lesson with Advent collab of 08/09/2023.|
 |08/09/2023|169|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps from Kaela's Minecraft stream of 07/09/2023.|
 |08/09/2023|170|Lover of Idols II - OHC & Mentions|Addition of 5 timestamps from Kiara's 4th solo BG3 stream of 08/09/2023.|
 |09/09/2023|171|Lover of Idols II - OHC & Mentions|Addition of 6 timestamps from Shiori's SOS: A Wonderful Life stream of 09/09/2023.|
 |10/09/2023|172|Lover of Idols II - OHC & Mentions|Addition of a timestamp from ReGloss first fullgen collab with the reaction of Nerissa's prediction card.|
-|10/09/2023|173|Recommendation|Addition of the fourth Terraria stream.|
+|10/09/2023|173&174|Recommendation & Lover of Idols I|Addition of the fourth Terraria stream.|
+|10/09/2023|175|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming collab with Iofi.|
+|10/09/2023|176&177|Lover of Idols I|Addition of placeholders for the upcoming Advent fullgen collab on Minecraft|
+|10/09/2023|178&179|Lover of Idols I|Addition of placeholders for the upcoming Advent fullgen collab on Mario Kart|
+|10/09/2023|180|Lover of Idols I - Collabs on Nerissa's channel|Addition of placeholders for the upcoming third group collab on BG3.|
+|10/09/2023|181|Lover of Idols II - OHC & Mentions|Addition of a placeholder for a possible drawing during Mumei's drawings of Advent stream of 10/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

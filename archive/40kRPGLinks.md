@@ -22,3 +22,8 @@ xcrfela2xodfgfq/bncs+rpywfu+-+rud+wlke+ge+qzzwqunze+(qmb).rpk/ugmw
 # #=Wrath & Glory= #=WANG
 Wrath & Glory (Cubicle 7) - Replacement link, not sure if this is everything that was in the old 0bin page:
 https://mega.nz/file/R50AkKrS#EP_M1YmbuYe-eXY3jSUelBJ7QeLbIMCWxkQ4oDSk3R4
+
+# #=Imperium Maledictum= #=IM
+Imperium Maledictum Core
+mxbdx://wfsq.ir/
+mbim/0n9goeme#w4syhe250d3hddj3eizn15joydeugg_s57_g1dm_bbh

@@ -1,5 +1,5 @@
 #Unions
--> ![average nikg poster](https://imgur.com/QSlDQER.png) <-
+-> ![jannies](https://imgur.com/ZaC1Aj5.png) <-
 -> ![don't be this asshole](https://imgur.com/igDmMP7.png) <-
     
 !!! info
@@ -36,7 +36,7 @@ Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | B
 
 Level | Name | ID | Join Status | Leader | Capacity | Made it to the top 50? | VAT? | Recruiting? | Requirements
 :----: | ------ | ------ | ------  | ------ | ------ | ------ | ------ | ------ | ------         
-**5** | NIKG | ==**4893**== |PERMISSION | DEXTRA | ??/32 |Y | Y |Y | 4chan (duh bwo), being able to read chat and communicate 261+ or a bit lower
+**5** | NIKG | ==**4893**== |PERMISSION | DEXTRA | ??/32 |Y | Y |Y | 4chan (duh Diego), being able to read chat and communicate 261+ or a bit lower
 **5** | PREFECT | ==**6554**== |PERMISSION | THIL | ?/32 | N | Y | Y | Log in every 3rd day/miss day1 hits 
 **5** | NOPAN | ==**6698**== |PERMISSION | ACE |???/32 | N | Y | Y| 200 sync
 **5** | VGNIKKE3 | ==**9547**== |PERMISSION | ANON | 32/32 | N | Y | N| 400 sync

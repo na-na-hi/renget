@@ -312,16 +312,8 @@ https://arch.b4k.co/vp/thread/53375847/ 3 got bored/filtered, it's over
 https://arch.b4k.co/vp/thread/53705156/ 1 woot wednesday
 https://arch.b4k.co/vp/thread/53737743/ 2 total legendary death
 at this point it's basically just offscreen stuff at this point
-currently stuck on jeeve stobs (6th gym) because of level cap & coverage shenanigans
-
-##Pokemon Ocandia
-!!! danger Status: Dropped (got bored and ran out of spite to bother continuing)
-    Basically a hijacked shill thread for You Just Know: the fangame, that ended up becoming what could count as a proper LP, where I played a shitty shilled fangame to prove that it's nowhere near as good as the shill claims it is, so you guys don't have to.
-    Not a LP of one of its sequels, "Pokemon Ocandia: Blood on the Ice", which is a very shittily made visual novel with about fuck-all to do with Pokemon.
-
-https://arch.b4k.co/vp/thread/53769244/ 1 least obvious shilling attempt
-https://arch.b4k.co/vp/thread/53781242/ 2 on 4chan, there's barely a line between trolling and retardation
-https://arch.b4k.co/vp/thread/53791184/ 3 wow, it's fucking nothing
+currently stuck on jeeve stobs (6th gym) because of level cap issues & enemy coverage shenanigans (on a no guard user so evasion hax isn't possible)
+if anyone thinks they can salvage this, check the mega folder's wack save backup sub-folder
 
 ##Rejuvenation: Kaizoshit Edition
 !!! note Status: Completed (thank fucking god this is over)
@@ -412,4 +404,5 @@ https://arch.b4k.co/vp/thread/54402426/ 23 more time travel, furfaggotry, and mo
 https://arch.b4k.co/vp/thread/54409585/ 24 total cain death
 https://arch.b4k.co/vp/thread/54414988/ 25 someone pls throw rocks at cal for me kthx
 https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
-https://arch.b4k.co/vp/thread/54432176/ 27
+https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
+https://arch.b4k.co/vp/thread/54441795/ 28

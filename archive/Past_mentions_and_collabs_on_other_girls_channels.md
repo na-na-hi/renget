@@ -65,6 +65,7 @@
 |---|---|---|
 |13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
 |30/08/2023| [Timestamp #1](https://youtu.be/y_L2geW9jOs?t=751) [Timestamp #2](https://youtu.be/y_L2geW9jOs?t=3085)|**Mentions** - Mumei had a nightmare involving Nerissa and was watching her membership opening stream. The second timestamp is an invitation to watch the 'Cats the Musical' movie|
+|10/09/2023| Possible Drawing Placeholder|**Drawing** - Placeholder|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 
@@ -114,6 +115,8 @@
 |01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
 |06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
+|11/09/2023|Placeholder Minecraft|---| **Collab** - Advent Fullgen Collab on Minecraft|
+|15/09/2023|Placeholder Mario Kart|---| **Collab** - Advent Fullgen Collab on Mario Kart.|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
@@ -174,6 +177,11 @@
 ---
 
 ### ![Image description](https://files.catbox.moe/f9inkg.png) ID
+
+###### 🎨 Iofi
+|Date|Link|Nature & Notes|
+|---|---|---|
+|12/09/2023|Placeholder collab|---|
 
 ###### 🧟‍ Ollie
 |Date|Link|Nature & Notes|

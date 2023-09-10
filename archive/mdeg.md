@@ -5,7 +5,7 @@ An explanation by Professor Turo (4chan tripcode: !!1ulnC0Yj8gx)
 # What is MDEG?
 MDEG stands for Mass Divergence Effect/Event General. It is a thread on /x/ for discussion of the Mass Divergence Effect and the impending Mass Divergence Event. 
 ## What is the Mass Divergence Effect?
-The Mass Divergence Effect, also known as the "Mandela Effect," occurs when aspects of two universes merge. ("Mandela Effect" is an inaccurate name for it because the belief that Nelson Mandela died in the 1990s is an actual false memory). Individual instances of this are known as "Divergence Anomalies." Currently, due to the Law of Causality, this is only happening to minor, inconsequential things such as logos and character designs, but that may change in the near future, and will definitely change when the Mass Divergence Event happens. 
+The Mass Divergence Effect, also known as the "Mandela Effect," occurs when aspects of two universes merge. (Although, due to the Law of Causality, it is unlikely that the death of Nelson Mandela changed between universes, so this is likely an actual false memory. It is still possible, though). Individual instances of this are known as "Divergence Anomalies." Currently, due to the Law of Causality, this is only happening to minor, inconsequential things such as logos and character designs, but that may change in the near future, and will definitely change when the Mass Divergence Event happens. 
 Example:
 ![](https://imgs.search.brave.com/OQJT-9jJq0HSMzcvIdMSGn5Y0Iwd3A1tbDhPPjyk9qE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbm5v/dGVjaHRvZGF5LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOC9tYW5kZWxh/X2VmZmVjdF8xNjAw/LmpwZw)
 ## What is the Mass Divergence Event?
@@ -43,3 +43,7 @@ Here's an oversimplified and primitive representation of how it works:
 ![A poorly-drawn diagram representing what "time travel" actually is](https://i.imgur.com/picMwfm.png)
 And to reiterate: **Nothing you would do in that universe's 1985 would affect our universe in any way.**
 In pop culture terms, time travel is more like *Avengers: Endgame* than *Back to the Future*. (Though *Endgame* is not entirely accurate either).
+# Sources
+/X/ - Paranormal » Thread #30021683 - Archive.4plebs.Org, archive.4plebs.org/x/thread/30021683/.
+Everett, Hugh. “‘Relative State’ Formulation of Quantum Mechanics.” Princeton University, 1 Mar. 1957. 
+A Guest. “Files GH-230 / GH-235 Transcripts.” Pastebin, 5 June 2019, pastebin.com/YZz8u3wB.
