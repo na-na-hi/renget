@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[My My Big BROWN MESS!](https://archiveofourown.org/works/50009902)* | Haato, Calli | choco, ringo, milk |
 | *[Akshually, It's Not She-Dorky Nerd-Vella](https://archiveofourown.org/works/49731943)* | Shiori, Fauna | ringo, choco |
 | *[Milky Way](https://docs.google.com/document/d/e/2PACX-1vTvablsZGbgFZLWNXsUTYC8WOvT8aNd2vZkH0k2lu0PhEeSWp3SBUB_IaX-kppKzofUwCzXYX7-vfZy/pub)* | Suisei, Noel | milk |
 | *[Hag Inspection Report 2](https://rentry.org/94pno)* | Various | milk |
@@ -241,6 +242,8 @@
 | [>>57182945](https://rentry.org/ringotext2#57182945) | Shiori | choco |
 | [>>57238017](https://rentry.org/ringotext2#57238017) | Various | brap |
 | [>>57723742](https://rentry.org/ringotext2#57723742) | Gura | choco |
+| [>>57952089](https://rentry.org/ringotext2#57952089) | Kobo, Ollie | ringo |
+| [>>58169501](https://rentry.org/ringotext2#58169501) | Various | milk |
 
 ## >>249165
 

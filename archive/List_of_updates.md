@@ -198,5 +198,11 @@
 |10/09/2023|180|Lover of Idols I - Collabs on Nerissa's channel|Addition of placeholders for the upcoming third group collab on BG3.|
 |10/09/2023|181|Lover of Idols II - OHC & Mentions|Addition of a placeholder for a possible drawing during Mumei's drawings of Advent stream of 10/09/2023.|
 |10/09/2023|182|Lover of Idols II - OHC & Mentions|Addition of the link for Mumei's drawings of Advent stream of 10/09/2023.|
+|10/09/2023|183&184|Lover of Idols I|Addition of Nerissa's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|185|Lover of Idols II - OHC & Mentions|Addition of the link for Iofi's IoSalon of 11/09/2023.|
+|11/09/2023|186&187|Lover of Idols I|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|188|Lover of Idols II - OHC & Mentions|Addition of 2 additional timestamps for Mumei's drawings of Advent stream of 10/09/2023.|
+|11/09/2023|189|Lover of Idols II - OHC & Mentions|Addition of a timestamps from Ina's Minecraft stream of 08/09/2023.|
+
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

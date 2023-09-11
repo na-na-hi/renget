@@ -649,3 +649,58 @@ Left to the imagination of the reader
 Quite large and hard, so it stretches her hole a lot. That's why there's a pile of piss tshirts next to her toilet. She takes her shirts off to shit, cos the ordeal makes her sweat a lot. The shit starts off hard like rabbit poop bunched together in a large brick, but once gravity takes over and pulls it out of her anus, a long stream of softer, fresher, soft serve poop starts flowing out. This is the moment you want to stick your dick in her anus and push back. Don't mind the smell as your glans sinks into her shit, she want's you to fill her chocolate eclairs with cream. Could push her face into the bowl while you do it. Make her bob for apples.
 
 -> * * * <-
+
+## >>57952089
+
+Kobo stood over Ollie's sleeping form as she lie in bed. Earlier in the week she'd tried rousing Ollie but the zombie was such a deep sleeper she couldn't get through. Slept like the dead, so to speak. A smile crossed her lips, her breath hot in the cool night air as she looked upon Ollie's dainty face. She was so cute when she was asleep, so unlike the screaming banshee when she was awake. "You're mine, Ollie," Kobo whispered into the night "I'm keeping you." Squatting over the zombie girl's tummy Kobo released her bladder, her piss soaking the sleeping girls skin. Ollie didn't even stir. Kobo bit her lip and began sucking her fingers, watching Ollie's facial expressions shift as whatever dreams she was having begin to fill with warmth or rain or whatnot. It took only a few minutes, but to Kobo it was a lifetime. When she was done she took a bit of Ollie's covers and cleaned herself off, then gently stepped down off the bed and let herself out, the marking of Ollie done.
+
+-> * * * <-
+
+## >>58169501
+
+ALL EN GIRLS MILK:
+
+>Gura
+Watery, not unpleasant but mostly flavorless, also runs out in one suck
+
+>Ame
+Super-creamy and sweet, almost unrealistically so, fantastic taste but strangely provides your body with no nutrition at all, as if it was a dessert/junk food
+
+>Mori
+Outright sour, not "rotten" tasting per-se but leaves a strong sour sensation in your mouth afterwards, seems to have a group that swears by it
+
+>Kiara
+Thicker than normal, somewhat chaulky, unpleasant at first but an acquired taste after awhile that somehow becomes quite nice to those that have it a few times
+
+>Ina
+Doesn't taste like milk at all, in fact it's orange? Tastes good regardless, like a fruity syrup, but you feel very uncomfortable afterwards after drinking it, and lose consciousness
+
+>IRyS
+The most "normal" of all the milk choices, warm, comforting, not bad at all.
+
+>Kronii
+Quantity over quality, slightly watery and plain, but gushes out a mouthful instantly, probably need a tool/bucket to help you, more than enough milk to feed a family
+
+>Fauna
+Very oaty/nutty, unsure if what you're drinking is actually milk that should come from a mammal, but still tastes good in a weird way
+
+>Mumei
+Very good flavor, creamy, but runs out very fast, unfortunately never fully satisfying you, quality over quantity
+
+>Bae
+Flavor is very dull/bland, but the big twist is the shockingly high nutrition. Grants your body with incredible amounts of vitamins, calcium, and protein.
+
+>Bijou
+Unfortunately a rock cannot lactate. That being said, she seems to really enjoy being "milked" more than anyone, will something happen if you keep trying...?
+
+>Shiori
+The milk is... cold? Especially strange since Shiori's body is plenty warm, yet the milk is cold, which does make it taste great, but you are certainly confused, even more confusing since she has absolutely no reaction to being milked, she just keeps talking
+
+>Fuwawa
+Absolutely incredible, warm, creamy, comforting, the issue is the more you drink the more jealous Mococo gets, so your time is very limited
+
+>Mococo
+Absolutely forgettable. Watery, plain, lackluster, yet she's constantly asking if you like it, and if you dare say anything bad about it Fuwawa will never let you drink again
+
+>Nerissa
+It tastes exactly like Yakult, which a human certainly shouldn't be able to produce, despite it tasting pretty good. You can't help but wonder how she's producing it...

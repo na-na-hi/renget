@@ -7,7 +7,7 @@ Think of a LoRA finetune as a patch to a full model. The LoRA training makes adj
 For more information, please see the [LLM Training Guide rentry](https://rentry.org/llm-training). They have more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide focused on the llama.cpp implementation.
 
 !!! warning Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You need tons of RAM (not VRAM, this doesn't currently use your GPU at all).
-    TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 64 GB). The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
+    TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B). The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
 To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below. If you use a different path, just make sure to adjust the commands.
 
@@ -67,38 +67,116 @@ If you use llama.cpp's main.exe, [see the documentation for finetune.](https://g
 
 ## Appendix A - Hardware Requirements
 
-!!! danger This section is a work-in-progress AND THE RAM USAGES ARE VERY INCORRECT. I'm setting up a script to automate this, so please be patient.
+!!! warning This section is a work-in-progress, I am adding more metrics periodically.
+
+!!! info TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B).
+    The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
 
-Estimating training time and RAM varies based on multiple parameters, like the size of the model, the context size, the training data size, the rank, and many other factors. Rather than trying to create some equation, I'm just going to summarize my results, and you can infer what you think your system can handle.
+Estimating training time and RAM varies based on multiple parameters, like the size of the model, the context size, the training data size, the rank, and many other factors. Rather than trying to create some equation, I'm just going to summarize my findings below, and you can infer from it what you'd like to.
 
-| Model Size & Quant.      | `ctx`    | `iter`  | Data Size  | RAM Usage | Training Time |
-|--------------------------|----------|---------|------------|-----------|---------------|
-| 3B (1.78 GB), Q4_0       | 64       | 30      | 93 kB      | 8.8 GB    | 50 minutes    |
-| 3B (1.78 GB), Q4_0       | 64       | **5**   | 93 kB      | 8.8 GB    | 6 minutes     |
-| 3B (1.78 GB), Q4_0       | 64       | **100** | 93 kB      | 8.8 GB    | 3 hours       |
-| 3B (1.78 GB), Q4_0       | 64       | **256** | 93 kB      | 8.8 GB    | 7.5 hours     |
-| 3B (1.78 GB), Q4_0       | **32**   | 30      | 93 kB      | 8.5 GB    | 30 minutes    |
-| 3B (1.78 GB), Q4_0       | 64       | 30      | **186 MB** | 9.8 GB    | 55 minutes    |
-| 3B (1.78 GB), Q4_0       | **128**  | 30      | 93 kB      | 9.4 GB    | 100 minutes   |
-| 3B (1.78 GB), Q4_0       | **256**  | 30      | 93 kB      | 10.7 GB   | 3.5 hours     |
-| 3B (1.78 GB), Q4_0       | **256**  | 30      | **186 MB** | 11.6 GB   | 3.5 hours     |
-| 3B (1.78 GB), Q4_0       | **512**  | 30      | 93 kB      | 13.6 GB   | 7 hours       |
-| 3B (1.78 GB), Q4_0       | **1024** | 30      | 93 kB      | 26.8 GB   | 15 hours      |
-| 3B (1.78 GB), Q4_0       | **2048** | 30      | 93 kB      | 50.5 GB   |               |
-| **7B (3.59 GB), Q4_K_S** | 64       | 30      | 93 kB      | 17 GB     | 2 hours       |
-| **13B (12.8 GB), Q8_0**  | 64       | 30      | 93 kB      | 33 GB     | 4 hours       |
-| **13B (12.8 GB), Q8_0**  | **512**  | **256** | 93 kB      | 41.3 GB   | 12 **days**   |
+I used the following command as my baseline standard:
 
-Extra tests (compare against the first row):
+```
+llama.cpp/finetune.exe
+  --model-base open_llama_3b_v2.Q8_0.gguf
+  --train-data shakespeare.txt
+  --use-checkpointing
+  --use-flash
+  --samples-after-nl
+  --threads 16
+  --rope-freq-base 10000
+  --rope-freq-scale 1.0
+  --batch 1
+  --grad-acc 1
+  --adam-iter 256
+  --adam-alpha 4
+  --lora-r 4
+  --lora-alpha 4
+```
 
-- Using `--no-checkpointing` (instead of the default `--use-checkpointing`), increased to RAM to 16.7 GB, but decreased the time to 45 minutes.
-- Increasing the Rank (`--lora-r 16` & matching all other ranks) increases the RAM to 9.1 GB
+Links to files:
 
-**TODO:** I need to figure out a better format for the above table & extra tests so it can accommodate more inputs. There are many options that affect RAM, and execution time, and if I try to add them all to that table, it's going to become very wide.
+- [shakespeare.txt](https://raw.githubusercontent.com/brunoklein99/deep-learning-notes/master/shakespeare.txt)
+- [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2)
+  - Converted and quantized it myself using the instructions in Appendix E to save bandwidth
 
-I was unable to load any 34B and 70B models, but I think it's due to the model formatting. They require more RAM than I have anyway.
+Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days".
+
+### 3B Metrics
+
+| Command Deviation                     | RAM Usage | Estimated Time | Notes
+|---------------------------------------|-----------|----------------|------
+| Base command                          | 3.02 GB   | 04:33          |
+| `--threads 1`                         | 3.02 GB   | 22:12          |
+| `--threads 2`                         | 3.02 GB   | 11:56          |
+| `--threads 4`                         | 3.02 GB   | 06:32          |
+| `--threads 8`                         | 3.02 GB   | 05:30          | 14 threads used in base command
+| `--threads 15`                        | 3.02 GB   | 04:29          | Using more than # of cores results in unstable measurement times, so while it is faster in these examples, it isn't always the case
+| `--threads 16`                        | 3.02 GB   | 04:19          | In some runs this was the fastest
+| `--threads 17`                        | 3.02 GB   | 04:13          |
+| `--threads 18`                        | 3.02 GB   | 04:09          | In my best run this was the fastest
+| `--threads 20`                        | 3.02 GB   | 04:39          |
+| `--ctx 16`                            | 1.18 GB   | 01:11          |
+| `--ctx 32`                            | 1.23 GB   | 01:23          |
+| `--ctx 64`                            | 1.55 GB   | 01:49          |
+| `--ctx 128`                           | 2.06 GB   | 02:44          | 256 context used in base command
+| `--ctx 512`                           | 5.20 GB   | 08:38          |
+| `--ctx 1024`                          | 9.18 GB   | 17:15          |
+| `--ctx 2048`                          | 11.0 GB   | 1d 15:18       |
+| `--ctx 4096`                          | 13.9 GB   | 5d 01:28       |
+| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
+| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
+| `--adam-iter 8`                       | 3.02 GB   | 00:06          |
+| `--adam-iter 16`                      | 3.02 GB   | 00:15          |
+| `--adam-iter 32`                      | 3.02 GB   | 00:32          |
+| `--adam-iter 64`                      | 3.02 GB   | 01:07          |
+| `--adam-iter 128`                     | 3.02 GB   | 02:18          | 256 iterations used in base command
+| `--adam-iter 512`                     | 3.02 GB   | 09:19          |
+| `--adam-iter 1024`                    | 3.02 GB   | 19:04          |
+| `--adam-iter 2048`                    | 3.02 GB   | 1d 14:34       |
+| `--adam-iter 4096`                    | 3.02 GB   | 3d 05:50       |
+| `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
+| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47          | Rank times are all within margin of error, rank doesn't seem to affect time. Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 3.39 GB   | 04:50          |
+| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54          | Within margin of error, alpha is basically no-impact 
+| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:47          |
+| `--lora-r 64 --lora-alpha 64`         | 4.88 GB   | 05:03          |
+| `--batch 2`                           | 5.20 GB   | 08:27          | Batch 1 used in base command.
+| `--batch 4`                           | 9.18 GB   | 15:57          |
+| `--batch 8`                           | 11.0 GB   | 1d 08:20       |
+| `--batch 16`                          | 13.6 GB   | 2d 17:30       |
+| `--grad-acc 2`                        | 3.02 GB   | 09:33          | These are a non-memory hungry version of batch, they just take slightly longer. Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 3.02 GB   | 18:57          |
+| `--grad-acc 8`                        | 3.02 GB   | 1d 13:58       |
+| `--grad-acc 16`                       | 3.02 GB   | 3d 03:37       |
+| `--adam-alpha 0.01`                   | 3.02 GB   | 04:52          | These times are very close to margin of error, so this may be no impact. 0.001 used in base command.
+| `--adam-alpha 0.0003`                 | 3.02 GB   | 04:39          |
+| `--adam-alpha 0.000065`               | 3.02 GB   | 04:41          |
+| `--adam-alpha 0.000001`               | 3.02 GB   | 04:34          |
+| `--no-flash`                          | 3.09 GB   | 04:40          | Someone said using this flag improved memory usage. It doesn't (at least not for 3B's)
+| LimaRP-v2-like Settings               |           |                | Work-in-progress
+
+Additional notes:
+
+- Margin of error on times can be quite large. If the numbers are all hovering around a value, you can assume it's basically "no change".
+- Model quantization have no effect on time and memory usage, at all. Presumably, the file is cached in RAM and the OS isn't counting it towards the private memory total. It does show up in the "Working Set" memory is larger by about the same size as the model.
+  - **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
+- I am working on a better data set than the sample text file provided. The data size itself doesn't seem to make a large difference in training time (93 kB vs. ~200 MB), however increasing the total number of samples means you need to increase `--adam-iter`, so use that as your metric. For reference, LimaRP v2 uses ~2x #samples (2 epochs) for their iteration count.
+- open_llama_3b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+
+### 7B, 13B, 34B, 70B
+
+!!! danger I am running these tests now, and I hope to have some updates for 7B and 13B by tomorrow (or 9/12), and more results by the end of the week. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
+    The data below is old and out of date. Please wait for updated numbers.
+
+| Model Size & Quant.  | `ctx` | `iter` | RAM Usage | Training Time |
+|----------------------|-------|--------|-----------|---------------|
+| 7B (3.59 GB), Q4_K_S | 64    | 30     | 17 GB     | 2 hours       |
+| 13B (12.8 GB), Q8_0  | 64    | 30     | 33 GB     | 4 hours       |
+| 13B (12.8 GB), Q8_0  | 512   | 256    | 41.3 GB   | 12 days       |
 
 Context size (`ctx`/`--ctx`) greatly affects RAM usage and training time. Adam iterations (`iter`/`--adam-iter`) only affects training time, and scales linearly. Data size seems to mostly just affect RAM usage. It's worth noting that during tokenization, the RAM usage spikes by quite a bit, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
 
@@ -223,8 +301,8 @@ These parameters just help organize files/control file naming.
 These only affect system performance.
 
 - `-t N`, `--threads N`: Number of threads (default 6)
-  - Set this to the number of physical CPU cores in your system. In the Windows Task Manager, go to the "Performance" tab, click on "CPU", and look for the number of "Cores" (NOT the number of logical processors). Some people recommend using number of cores + 1.
-  - Example: `-t 14`
+  - The ideal number of threads seems to be the number of physical cores in your system plus 1 or 2. In the Windows Task Manager, go to the "Performance" tab, click on "CPU", and look for the number of "Cores" (NOT the number of logical processors).
+  - Example: `-t 16`
 - `--no-checkpointing`: Don't use gradient checkpointing
   - This is the opposite of the default `--use-checkpointing` below. Checkpointing dramatically decreases the RAM usage at the expense of processing time. If you can fit the fine-tuning in RAM without checkpointing, then you should disable it.
 - `--use-checkpointing`: Use gradient checkpointing (default)
@@ -413,6 +491,8 @@ Replace the model name with the name of the model you converted above. Replace `
 
 ## Changelog
 
+- 2023-09-10
+  - Updated Appendix A performance metrics for 3B models.
 - 2023-09-09
   - Added Appendix E
 - 2023-09-06

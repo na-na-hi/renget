@@ -1,24 +1,19 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live)
--> ![]()  <-
+-> ![](https://i.redd.it/cjg4sg7ev3jb1.png)  <-
 
 ##Changelog:
-==2022-8-1==
+==2023-8-1==
 - Added nijitabi Osaka Leg link
 
-==2022-6-11==
+==2023-6-11==
 - added new Liella Seiyuu
 
-==2022-4-27==
+==2023-4-27==
 - improved filters
 
-==2022-4-26==
+==2023-4-26==
 - filters, thread template, and disclaimer added
 - Applied the new format for the Nijigasaki seiyuu list
-
-==2022-4-25==
-- Ideal links updated
-- Added Nijigasaki Fanmeet concert link
-- new seiyuu info format rework is now a go 
 ***
 ##Table of Contents
 [TOC]
@@ -630,10 +625,14 @@ Yokohama -  https://nyaa.si/view/1502627
 Nagoya -  https://nyaa.si/view/1511014
 Osaka - https://nyaa.si/view/1538442
 
-Love Live! Superstar!! Liella! 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
+Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
 Miyagi - https://nyaa.si/view/1610539
 Tokyo - https://nyaa.si/view/1632065
 Saitama - https://nyaa.si/view/1645740
+
+Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
+KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) [720p](https://nyaa.si/view/1707506)
+Catchu! ver : [1080p](https://nyaa.si/view/1709468) [720p](https://nyaa.si/view/1709926)
 
 ####EVENTS/PERFORMANCES/MISC
 ==(ENGSUB)==Liella! Season 1 Opening and Ending Online Release Event - https://nyaa.si/view/1611104
@@ -652,25 +651,21 @@ Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~
 https://nyaa.si/view/1547572
 
 Liella no Doko Iku? 
-Part 1
-576p - https://nyaa.si/view/1465161
-720p - https://nyaa.si/view/1465162
-1080p - https://nyaa.si/view/1467287
-
-Part 2
-576p - https://nyaa.si/view/1529414
-720p - https://nyaa.si/view/1529415
-1080p - https://nyaa.si/view/1529416
-
-Part 3
-576p - https://nyaa.si/view/1529418
-720p - https://nyaa.si/view/1529419
-1080p - https://nyaa.si/view/1529420
+Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465162) | [1080p](https://nyaa.si/view/1467287)
+Part 2 : [576p](https://nyaa.si/view/1529414) | [720p](https://nyaa.si/view/1529415) | [1080p](https://nyaa.si/view/1529416)
+Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529419) | [1080p](https://nyaa.si/view/1529420)
 
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
 
 ###Hasunosora
+OPENING LIVE EVENT～Bloom the Dream～ 
+[1080p](https://nyaa.si/view/1702233)
+
+SUMMER STATION 音楽LIVE
+[1080p](https://nyaa.si/view/1702234)
+
+
 Official YT Channel: https://www.youtube.com/@lovelive_hasu
 
 

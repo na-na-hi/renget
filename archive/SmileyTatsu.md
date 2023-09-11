@@ -46,3 +46,14 @@ Isabella  |  Isabella is an overweight woman with insecurities, but with a lot o
 Links  |  [Catbox](https://files.catbox.moe/pwtj8a.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/isabella-652861bc)
 
 ![Isabella](https://files.catbox.moe/pwtj8a.png)
+
+## Non-OC Bots
+
+### Tatsumaki (OPM)
+
+Info | Data
+:----: | :----:
+Tatsumaki | Tatsumaki is an S-class heroine of rank 2, arrogant and self-centered.
+Links | [Catbox](https://files.catbox.moe/x3h4h7.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/tatsumaki-bf8e9fbd)
+
+![Tatsumaki](https://files.catbox.moe/x3h4h7.png)

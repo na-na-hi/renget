@@ -24,9 +24,19 @@ that's it. share the trycloudflare link with the thread if you want to be nice
 some people prefer Stheno over MythoMax, it's free to try out so why not?
 Stheno-L2-13B-GPTQ
 Place that in the huggingface_repo text box instead of MythoMax-L2-13B-GPTQ
-##### MLewd
+##### MLewd (personal favorite)
 "Mlewd seems built for ERP. As in compared to Mythomax, you will receive much more emotional responses with MLewd."
 change org name to Kotokin and the repo to MLewd-L2-13B-v2-1-GPTQ
+
+##### ReMMv2
+Re:MythoMax v2 (ReMM v2) is a recreation trial of the original MythoMax-L2-B13 with updated models.
+https://huggingface.co/Undi95/ReMM-v2-L2-13B-GGUF
+it's a GGUF so you'll have to use the koboldcpp colab below
+
+##### tsukasa
+"similar to MLewd but made by an anon here which is nice"
+https://rentry.org/tsukasa13b
+
 
 #### koboldcpp on colab
 run local GGML/GGUF models (potentially better quantization/quality than GPTQ)

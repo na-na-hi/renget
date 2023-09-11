@@ -3,7 +3,7 @@
 [TOC]
 
 #Pending Requests
-1. Cassie forces Kiyo to wear a maid dress
+1. Chespin/Wooper/Gus walking with a large blanket wrapped around the three
 
 1. A Wooper version of "[Just screaming](https://files.catbox.moe/xwghve.png)"
 
@@ -224,6 +224,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #Finished Requests (Some links pending gallery uploads)
+
+Cassie forces Kiyo to wear a maid dress
 
 [cyndaquil has trapped booker in a jar](https://cloverguild.com/booru/post/602)
 

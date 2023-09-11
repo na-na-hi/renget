@@ -1,4 +1,4 @@
-vA thread dedicated to our very cute Secret Agent of Hololive Indonesia,
+A thread dedicated to our very cute Secret Agent of Hololive Indonesia,
 Vestia Zeta! [spoiler]she's not sus btw[/spoiler]
 
 [insert edition here] edition

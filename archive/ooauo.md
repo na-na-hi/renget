@@ -2,9 +2,11 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->>forgor = 32,176 Total 
+>>forgor = 32,291 Total 
 Date/Name | Number
 ------ | ------
+『2023-09-10』 - 【MUMEI DRAWS HOLOLIVE】Advent's Turn !!! ~ [iaZ-tmSleko]  |  0098
+『2023-09-08』 - 【MEMBERS ONLY】ASMR for Owl Pals !! + New Asset ... !!!! [OlCDQXhGfEM]  |  0017
 『2023-09-04』 - 【PORTAL 2 CO-OP】:D with BIJOU [Z6KzayFYieI]   |    0038
 『2023-09-03』 - 【DON DON!!】 Japan Trip Zatsu + Superchat Reading ! [idTwgcaiwvk]   |    0035
 『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]   |    0063

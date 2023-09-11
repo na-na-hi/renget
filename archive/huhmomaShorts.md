@@ -264,6 +264,67 @@ Imma fuck you good tonight boy
 ---
 Anon, Dog, & Cheeta by anonymous
 
-![](https://i.4cdn.org/trash/1693929346724567.png)
+![](https://desu-usergeneratedcontent.xyz/trash/image/1693/92/1693929346724.png)
+
+---
+Wolf & Fox by anonymous
+
+>"Ops, sorry captain. I thought it's my cabin."
+>"It's your cabin."
+
+Wolf O'Connell getting drunkenly flirty and grab-assy with the new human recruited to Star Wolf.
+
+>ywn be fawned over by Fox and Wolf
+
+>Fox and Wolf competing over you
+>They play it off by saying they just want a pilot of your skill on their side
+>Though they also wouldn't mind a pilot of your skill in their bed
+
+Why not go for both? Surely they can share, right?
+
+>keep getting video communication from both
+>Fox keeps checking up on you and worrying about you
+>Wolf keeps flirting with you and making innuendos 
+Get so distracted by this you nearly crash into an enemy pilot you're trying to take down
+
+>Fox keeps sending you tasteful, if a bit risqué pics of himself shirtless
+>Wolf goes all out and sends you nudes with captions like “better than Fox, right?”
+
+---
+"My Genetically Enhanced Super Soldier has Separation Anxiety" or "My Mutant Killing Machine Cant be this Cute!" by anonymous
+
+![](https://desu-usergeneratedcontent.xyz/trash/image/1694/27/1694278491311.png)
+Let's get silly
+
+Genetically enhanced anthro bf
+
+never.
+ending.
+sex.
+drive.
+
+I know I shouldn’t question this but how could he possibly keep something that long in his mouth?
+
+The same way all anthros can fit any dick inside them, no matter the size. Magic.
+
+I'm going to make something up and say that there's a cavity right next to the esophagus when the tongue is based and it gets compacted into there.
+
+So the spot where the Adam’s apple would be.
+>lump in neck when retracted 
+>smooth neck when let out
+Seems legit.
+
+>save bio experiment anthro from some secret science facility
+>he won't stop clinging to you
+>gets upset when you leave him alone for too long
+
+That’s not surprising. Being used day in and day out in all sorts of experiments would wear anyone down mentally. Even if said thing was literally made for it.
+
+>textbook evil Corp/government mooks build weapon
+>he's physically perfect, mentally a failure his complete lack of any drive to kill or even really harm humans
+>they have his stock, just liquidate him
+>they try, several times
+>he escapes
+>you're the first person he runs into that actively tries to help him and offers him any kind of shelter and kindness.
 
 ---

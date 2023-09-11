@@ -10,6 +10,10 @@ Tits WebM collection (At 800 WebMs): https://mega.nz/folder/xEwwxKaD#csYF6cbdr3N
 
 Fellatio WebM Collection (At 62 WebMs): https://mega.nz/folder/VZ4WER6b#5bMUs2dPUKLPc5JqpZeeeQ
 
+## HELP WANTED
+
+Need help with setting up a torrent version of the collection, if anyone from /t/ can lend a hand that'd be cool. I'm not technically illiterate but torrent related stuff isn't an area of expertise for me. Drop by the discord and let me know what I need to do. Seeders will also probably be needed too.
+
 ## Miscellaneous
 
 Thread Archive: https://mega.nz/folder/ozElyDxB#Ed0JYq3Ibjb75G8d-rQ4MQ

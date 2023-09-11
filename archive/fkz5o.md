@@ -2,9 +2,11 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->>Mumeism = 	4,866 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
+>>Mumeism = 	4,867 Total / M u m e i s m = 37 Total [**I didn't include usernames in total**]
 Date/Name | Number | Comments
 ------ | ------ | ------
+『2023-09-10』 - 【MUMEI DRAWS HOLOLIVE】Advent's Turn !!! ~ [iaZ-tmSleko]  | 000   |   
+『2023-09-08』 - 【MEMBERS ONLY】ASMR for Owl Pals !! + New Asset ... !!!! [OlCDQXhGfEM]   | 001   |   
 『2023-09-04』 - 【PORTAL 2 CO-OP】:D with BIJOU [Z6KzayFYieI]   |  004    |   
 『2023-09-03』 - 【DON DON!!】 Japan Trip Zatsu + Superchat Reading ! [idTwgcaiwvk]   |   001   |   
 『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]   |   005   | 

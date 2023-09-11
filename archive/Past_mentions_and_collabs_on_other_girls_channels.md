@@ -46,6 +46,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |02/08/2023|[Link](https://www.youtube.com/watch?v=6C_0UAeqrWg) | **Drawing** - Drawing of Nerissa by Ina in the same vein as what she did for Council 2 years ago https://twitter.com/ninomaeinanis/status/1686903752211791878|
+|08/09/2023|[Timestamp](https://youtu.be/RqlDLQoOLnk?t=1733) | **Mention** - During this Minecraft stream, Kiara was in Ina's chat and while Ina was using the PPP. Ina mentions [the repairs they did with the musical device](https://youtu.be/W8vLrXMzXds?t=5260) during the collab.|
 
 ###### 🔎 Ame
 |Date|Link|Nature & Notes|
@@ -65,7 +66,7 @@
 |---|---|---|
 |13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
 |30/08/2023| [Timestamp #1](https://youtu.be/y_L2geW9jOs?t=751) [Timestamp #2](https://youtu.be/y_L2geW9jOs?t=3085)|**Mentions** - Mumei had a nightmare involving Nerissa and was watching her membership opening stream. The second timestamp is an invitation to watch the 'Cats the Musical' movie|
-|10/09/2023| [Link](https://www.youtube.com/watch?v=iaZ-tmSleko)|**Drawing & VC** - Open VC collab with Advent and drawing them|
+|10/09/2023| [Link](https://www.youtube.com/watch?v=iaZ-tmSleko) [Timestamp #1 - Idea of whatever the drawing should be](https://youtu.be/iaZ-tmSleko?t=3180) [Timestamp #2 - Nerissa coming back from her meeting](https://youtu.be/iaZ-tmSleko?t=6972)|**VC** - Open VC collab with Advent and drawing them. Multiple parts since Nerissa had a meeting with the managers midway through.|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 
@@ -115,8 +116,8 @@
 |01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
 |06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
-|11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)|---| **Collab** - Advent Fullgen Collab on Minecraft|
-|15/09/2023|Placeholder Mario Kart|---| **Collab** - Advent Fullgen Collab on Mario Kart.|
+|11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with Shiori, Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
+|15/09/2023|Placeholder Mario Kart| **Collab** - Advent Fullgen Collab on Mario Kart.|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
@@ -181,6 +182,7 @@
 ###### 🎨 Iofi
 |Date|Link|Nature & Notes|
 |---|---|---|
+|11/09/2023|[Link](https://www.youtube.com/watch?v=cGBbWdQCgao)|**Drawing / redesign** - IoSalon involving Nerissa (IoSalon is a redesign stream by Iofi for holomem haircuts).|
 |12/09/2023|Placeholder collab|---|
 
 ###### 🧟‍ Ollie

@@ -138,6 +138,9 @@ These are berries that are used to the colder temperatures experienced in the co
 Berries here are very hardy and have managed to survive without much need for water.
 - Liechi, Ganlon, Salac, Petaya, Apicot, Lansat, Passho, Shuca, Charti
 
+**Meat Berries**
+Strange fruits from an even stranger tree. Identified by the sharp, metallic perfume-pollen, bone-yellow bark, and reddish leaves, these trees are found exclusively in the depths of Mystery Dungeons. Adding further onto their mystery, unlike normal trees, these Meat Trees have been known to migrate from dungeon to dungeon. Forced to scour and brave the dangers of the poorly understood dungeons, these prospective "hunters" risk life and limb to find this coveted delicacy. 
+
 ### Major Organizations
 Despite the many continents separating everyone, there are some groups who have set foot on every single one.
 - The *Guild League* oversees the Guilds across the continents and provides them legitimacy, functioning badges, and job requests. They also make sure they're held to a high standard. They do not have any actual teams attached to them, often times commissioning already active teams to work in their name.

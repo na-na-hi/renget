@@ -160,8 +160,8 @@ You're a bit bigger than the average Shinx, by the look of it--2'00" instead of 
 **Nick**
 *\[If Amelia's first question was answered\]* Amelia's sharing embarassing stories about you! Are you going to take this sitting down? What's an embarrassing/silly mistake *she's* made?
 >{Pending - on writing this one.}
-Do you get along with the other Vuplix at the guild? You probably share some things in common, right?
->{Pending - can't actually answer this one yet, as it requires information I don't currently have access to.}
+Do you get along with the other Vulpix at the guild? You probably share some things in common, right?
+> I mean, we haven't really interacted much - just one time. He seems nice enough, though.
 So you never heard of the PMD series before meeting the other humons, huh? What did you think when you leanred about that game series?
 >It's ontologically confusing. What came first? Did someone make a video game about a world, or are we in a world created from the ideas of a video game? Are they even connected at all?
 >I find it weird that the series even exists. And it's not like I was just living under a rock this whole time: I feel like I would've known if the spinoff existed in the first place. Besides, Chunsoft...didn't those guys go bankrupt in the early 2000s? Well...I suppose it's not entirely surprising that some of these guys apparently come from different worlds. No more than any of the other surprises I've had to deal with in the past few months.
