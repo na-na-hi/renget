@@ -405,4 +405,5 @@ https://arch.b4k.co/vp/thread/54409585/ 24 total cain death
 https://arch.b4k.co/vp/thread/54414988/ 25 someone pls throw rocks at cal for me kthx
 https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
 https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
-https://arch.b4k.co/vp/thread/54441795/ 28
+https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
+https://arch.b4k.co/vp/thread/54447344/ 29

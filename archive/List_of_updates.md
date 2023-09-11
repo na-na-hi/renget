@@ -197,5 +197,6 @@
 |10/09/2023|178&179|Lover of Idols I|Addition of placeholders for the upcoming Advent fullgen collab on Mario Kart|
 |10/09/2023|180|Lover of Idols I - Collabs on Nerissa's channel|Addition of placeholders for the upcoming third group collab on BG3.|
 |10/09/2023|181|Lover of Idols II - OHC & Mentions|Addition of a placeholder for a possible drawing during Mumei's drawings of Advent stream of 10/09/2023.|
+|10/09/2023|182|Lover of Idols II - OHC & Mentions|Addition of the link for Mumei's drawings of Advent stream of 10/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

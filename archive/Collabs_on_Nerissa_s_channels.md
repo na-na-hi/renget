@@ -39,7 +39,7 @@
 |01/09/2023|[![ 【Pico Park】Can we work together? 🎼 ](https://files.catbox.moe/xcwhmu.jpg)](https://youtu.be/AAD3QCumnrw)|[Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and [FUWAMOCO](https://www.youtube.com/watch?v=yGmu-OXpqxs)|~2h39|Advent Fullgen Collab|
 |06/09/2023|[![Entering the Hololive Minecraft server with Advent! 🎼 ](https://files.catbox.moe/ye91oo.jpg)](https://youtu.be/1Pf0NecT6yI)|[Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [FUWAMOCO](https://www.youtube.com/watch?v=mn2yVMiDAGs)|~1h15|Advent Fullgen Collab - shortened due to Bijou's ISP issues and basically became a zatsudan with in-game interactions|
 |07/09/2023|[![Kiara-senpai showing me around the EN Minecraft server!🎼 ](https://files.catbox.moe/lpe52u.jpg)](https://youtu.be/W8vLrXMzXds)|[Kiara](https://www.youtube.com/watch?v=Rc8O5lB31_w)|~2h32|1-on-1 Collab|
-|10/09/2023|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY)|Shiori|TBD| Impromptu collab & VC|
+|10/09/2023|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY)|Shiori, Bijou|TBD| Impromptu collab & VC|
 |11/09/2023|Placeholder Minecraft|Shiori, Bijou & FUWAMOCO|---|Advent Fullgen Collab|
 |15/09/2023|Placeholder Mario Kart|Shiori, Bijou & FUWAMOCO|---|Advent Fullgen Collab|
 |17/09/2023|Placeholder BG3 #3|Mori, Kiara & Bijou|---|Group Collab|

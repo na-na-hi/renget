@@ -845,6 +845,7 @@ The Investigation Continues (Mirror Devil, Last Rite, Noctiluca): https://rentry
 Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
 Alone On A Friday Night? God, you're pathetic. (Maru(Maru)): https://rentry.org/y4cam
 Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222/#90198760
+Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): https://rentry.org/k2f3c
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

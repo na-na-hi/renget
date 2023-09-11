@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
+Upcoming VC collab with Mumei
+https://www.youtube.com/watch?v=iaZ-tmSleko
 Current stream
 https://www.youtube.com/watch?v=DAt0redvoJY
 Past streams

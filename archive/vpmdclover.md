@@ -225,16 +225,16 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone) *Not on Table*
 * Bullet the Noivern
-	* [Team Variable 1: Treasure](https://pastebin.com/5jeqWKYh)
+	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
-	* [Cold Awakening (part 1/2)](https://rentry.org/5znx3)
+	* [Cold Awakening (part 1/2) (ft. Bullet)](https://rentry.org/5znx3)
 * Carrot the Dusk Lycanroc
 	* [Carrot and Hazel Archive](https://rentry.org/carrot-hazel-archive)
 * Casey the Raboot
-	* [Raboot's Introduction](https://arch.b4k.co/vp/thread/53384286/#q53388874)
+	* [Raboot's Introduction (ft. Casey)](https://arch.b4k.co/vp/thread/53384286/#q53388874)
 * Charm the Charmander
-	* [The Adventures of Team Oracle, Issue #0](https://rentry.org/oracle0)
-	* [The Adventures of Team Oracle, Issue #1](https://rentry.org/oracle1)
+	* [The Adventures of Team Oracle, Issue #0 (ft. Charm)](https://rentry.org/oracle0)
+	* [The Adventures of Team Oracle, Issue #1 (ft. Charm)](https://rentry.org/oracle1)
 * Chespin
 	* [Chespin's Introduction](https://rentry.org/q6gf5)
 	* [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) 
@@ -276,9 +276,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Grandma's Cookies (ft. Margaret the Lilligant)](https://rentry.org/o4cme)
 	* [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3) *Not on Table*
 * Elm the Duskull
-	* [Branching Out](https://rentry.org/branching)
-	* [Intro to the Clover Guild](https://rentry.org/cloverintro)
-	* [An Overelming Week](https://rentry.org/overelming)
+	* [Branching Out (ft. Elm)](https://rentry.org/branching)
+	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
+	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
 * Bill the Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
@@ -298,14 +298,15 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Currently Unnamed McNumel Story (ft. Kaiji)](https://rentry.org/7pagq)
 	* [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
 * KFC the Combusken
-	* [Path to Aura (WIP)](https://rentry.org/Path_to_Aura)
-	* [A Detailed Guide to Aura](https://rentry.org/PMD_Aura)
+	* [Path to Aura (WIP) (ft. KFC)](https://rentry.org/Path_to_Aura)
+	* [A Detailed Guide to Aura (ft. KFC)](https://rentry.org/PMD_Aura)
 	* [An Expedition Report (ft. KFC)](https://rentry.org/gcr6h)
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdu)
 	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a)
 	* [KFC Gets a Win!](https://rentry.org/49yqh)
 * Kiyo the Alolan Vulpix
-    * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
+    * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
+	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1) *Not on Table*
 * Linoone
 	* [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Macom the Mareep
@@ -325,7 +326,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
-	* [Team Moxie Introduction](https://rentry.org/fehwy)
+	* [Team Moxie Introduction (ft. Nida)](https://rentry.org/fehwy)
 	* [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg)
 * Percival the Corviknight
 	* [Percival's Grand Entrance](https://rentry.org/5ne4g)
@@ -550,6 +551,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 * {||} [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 * {||} [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
+* {||} [Three Strangers Sweep the Grounds](https://rentry.org/kcb-1)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

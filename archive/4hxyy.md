@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 322 - Elite Babygirl Edition: https://desuarchive.org/trash/thread/59463318/
 Thread 321 - Elite ASS Edition: https://desuarchive.org/trash/thread/59401625/
 Thread 320 - Shazam Edition: https://desuarchive.org/trash/thread/59227856/
 Thread 319 - Purah 2.0 Edition: https://desuarchive.org/trash/thread/59113310/

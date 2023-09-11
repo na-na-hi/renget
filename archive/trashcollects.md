@@ -1083,6 +1083,10 @@ Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 
 
 	https://files.catbox.moe/hi3crm.pdf
 
+EasyFluff V11 Artist Comparison
+
+	https://mega.nz/folder/kigBCaYZ#2x3Wy44-3h05fVodrYlBcQ
+
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
 
