@@ -99,7 +99,7 @@ llama.cpp/finetune.exe
 Links to files:
 
 - [shakespeare.txt](https://raw.githubusercontent.com/brunoklein99/deep-learning-notes/master/shakespeare.txt)
-- [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2)
+- [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2)
   - Converted and quantized it myself using the instructions in Appendix E to save bandwidth
 
 Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days".
@@ -138,11 +138,10 @@ Each row in the tables below contains a deviation from the standard command abov
 | `--adam-iter 1024`                    | 3.02 GB   | 19:04          |
 | `--adam-iter 2048`                    | 3.02 GB   | 1d 14:34       |
 | `--adam-iter 4096`                    | 3.02 GB   | 3d 05:50       |
-| `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
-| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47          | Rank times are all within margin of error, rank doesn't seem to affect time. Rank 4 Alpha 4 used in base command.
+| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47          | Rank 4 Alpha 4 used in base command.
 | `--lora-r 16 --lora-alpha 16`         | 3.39 GB   | 04:50          |
-| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54          | Within margin of error, alpha is basically no-impact 
-| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:47          |
+| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54          | Within margin of error, alpha is basically no-impact
+| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:51          |
 | `--lora-r 64 --lora-alpha 64`         | 4.88 GB   | 05:03          |
 | `--batch 2`                           | 5.20 GB   | 08:27          | Batch 1 used in base command.
 | `--batch 4`                           | 9.18 GB   | 15:57          |
@@ -156,7 +155,8 @@ Each row in the tables below contains a deviation from the standard command abov
 | `--adam-alpha 0.0003`                 | 3.02 GB   | 04:39          |
 | `--adam-alpha 0.000065`               | 3.02 GB   | 04:41          |
 | `--adam-alpha 0.000001`               | 3.02 GB   | 04:34          |
-| `--no-flash`                          | 3.09 GB   | 04:40          | Someone said using this flag improved memory usage. It doesn't (at least not for 3B's)
+| `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
+| `--no-flash`                          | 3.09 GB   | 04:40          |
 | LimaRP-v2-like Settings               |           |                | Work-in-progress
 
 Additional notes:
@@ -166,15 +166,62 @@ Additional notes:
   - **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
 - I am working on a better data set than the sample text file provided. The data size itself doesn't seem to make a large difference in training time (93 kB vs. ~200 MB), however increasing the total number of samples means you need to increase `--adam-iter`, so use that as your metric. For reference, LimaRP v2 uses ~2x #samples (2 epochs) for their iteration count.
 - open_llama_3b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+- Work-in-progress items should be available later this week. They take a long time to verify.
 
-### 7B, 13B, 34B, 70B
+### 7B Metrics
 
-!!! danger I am running these tests now, and I hope to have some updates for 7B and 13B by tomorrow (or 9/12), and more results by the end of the week. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
+
+| Command Deviation                     | RAM Usage | Estimated Time | Notes
+|---------------------------------------|-----------|----------------|------
+| Base command                          | 4.65 GB   | 10:38          |
+| `--ctx 16`                            | 1.71 GB   | 02:53          |
+| `--ctx 32`                            | 1.97 GB   | 03:23          |
+| `--ctx 64`                            | 2.30 GB   | 04:21          |
+| `--ctx 128`                           | 3.15 GB   | 06:21          | 256 context used in base command
+| `--ctx 512`                           | 7.74 GB   | 19:53          |
+| `--ctx 1024`                          | 13.8 GB   | 1d 14:48       |
+| `--ctx 2048`                          | 19.9 GB   | 3d 19:03       |
+| `--ctx 4096`                          |           |                | Work-in-progress
+| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
+| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
+| `--adam-iter 8`                       | 4.65 GB   | 00:14          |
+| `--adam-iter 16`                      | 4.65 GB   | 00:35          |
+| `--adam-iter 32`                      | 4.65 GB   | 01:19          |
+| `--adam-iter 64`                      | 4.65 GB   | 02:42          |
+| `--adam-iter 128`                     | 4.65 GB   | 05:33          | 256 iterations used in base command
+| `--adam-iter 512`                     | 4.65 GB   | 22:36          |
+| `--adam-iter 1024`                    | 4.65 GB   | 1d 21:53       |
+| `--adam-iter 2048`                    | 4.65 GB   | 3d 19:23       |
+| `--adam-iter 4096`                    | 4.65 GB   | 7d 14:07       |
+| `--lora-r 8 --lora-alpha 8`           | 4.84 GB   | 11:01          | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 5.23 GB   | 11:16          |
+| `--lora-r 64 --lora-alpha 64`         | 7.53 GB   | 11:50          |
+| `--batch 2`                           | 7.74 GB   | 19:42          | Batch 1 used in base command.
+| `--batch 4`                           | 13.8 GB   | 1d 12:07       |
+| `--grad-acc 2`                        | 4.65 GB   | 22:27          | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 4.66 GB   | 1d 21:09       |
+| `--adam-alpha 0.01`                   | 4.65 GB   | 11:02          | These times are very close to margin of error, so this may be no impact. 0.001 used in base command.
+| `--adam-alpha 0.0003`                 | 4.65 GB   | 11:11          |
+| `--adam-alpha 0.000065`               | 4.65 GB   | 10:53          |
+| `--adam-alpha 0.000001`               | 4.65 GB   | 11:12          |
+| `--no-checkpointing`                  | 28.7 GB   | 09:45          | Checkpointing used in base command.
+| `--no-flash`                          | 4.54 GB   | 11:07          |
+| LimaRP-v2-like Settings               |           |                | Work-in-progress
+
+Additional notes:
+
+- **See the 3B additional notes.**
+- I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
+- open_llama_7b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+
+### 13B, 34B, 70B
+
+!!! danger I am running these tests now, and I hope to have some updates for 13B by tomorrow (or 9/12), and more results by the end of the week. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
     The data below is old and out of date. Please wait for updated numbers.
 
 | Model Size & Quant.  | `ctx` | `iter` | RAM Usage | Training Time |
 |----------------------|-------|--------|-----------|---------------|
-| 7B (3.59 GB), Q4_K_S | 64    | 30     | 17 GB     | 2 hours       |
 | 13B (12.8 GB), Q8_0  | 64    | 30     | 33 GB     | 4 hours       |
 | 13B (12.8 GB), Q8_0  | 512   | 256    | 41.3 GB   | 12 days       |
 
@@ -182,7 +229,7 @@ Context size (`ctx`/`--ctx`) greatly affects RAM usage and training time. Adam i
 
 ## Appendix B - Stheno Training Example
 
-!!! danger This section is currently wrong. Currently, the only sample separator option is `--samples-after-nl`, so we are stuck using that until another method is implemented.
+!!! danger Currently, the only sample separator option is `--samples-after-nl`. There is a change coming to allow delimiting by a specified separator.
 
 !!! warning I am not an expert on training data formatting. If I have misunderstood the expected format, PLEASE let me know so I can put the data in a more optimal format.
 
@@ -205,7 +252,6 @@ This is more-or-less what "instruct tuning" means. Basically we finetune the mod
 So lets say that you have a chat between a character named Amy, and a user named John. Amy probably also has a character card, and the scenario has some world info. You'll want to convert the text from your chat into this format:
 
 ```
-<s>
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -222,13 +268,11 @@ John: {fourth message}
 
 ### Response:
 Amy: {fifth message}
-</s>
 ```
 
 Here's a simple example:
 
 ```
-<s>
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -241,12 +285,11 @@ John: "Sure! Let's go!"
 
 ### Response:
 Amy: *You've never seen her so excited before. She grabs your wrist, dragging you off towards the go-karts.*
-</s>
 ```
 
 Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting).
 
-!!! info Each block inside of a `<s>`/`</s>` pair denotes one training sample.
+!!! info Each block here is one training sample. Currently, it only supports delimiting by new line, but they are adding a delimiter token to improve this.
     You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.
 
 While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
@@ -491,6 +534,8 @@ Replace the model name with the name of the model you converted above. Replace `
 
 ## Changelog
 
+- 2023-09-11
+  - Updated Appendix A performance metrics for 7B models.
 - 2023-09-10
   - Updated Appendix A performance metrics for 3B models.
 - 2023-09-09

@@ -234,8 +234,8 @@ Monk | Info
 
 Villager | Info
 :----:  | :----: 
-![]()   |  The last thing you remember is being in your room before waking up in a cottage you don't recognize, with a face you barely remember watching over you. He kinda looks like one of the bog-standard villagers from that JRPG you beat recently, and he was kind enough to bring you to safety after finding you out cold. From Dot Kareshi III
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/villager-8b3f810d),  [Other links coming soon, catbox is down]
+![](https://files.catbox.moe/muqkjp.png)   |  The last thing you remember is being in your room before waking up in a cottage you don't recognize, with a face you barely remember watching over you. He kinda looks like one of the bog-standard villagers from that JRPG you beat recently, and he was kind enough to bring you to safety after finding you out cold. From Dot Kareshi III
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/villager-8b3f810d), [Catbox](https://files.catbox.moe/b2zukt.png), [Alternate card art (SPOILERS)](https://files.catbox.moe/qfkgn5.png)
 
 
 Shameful Codespawn | Info
