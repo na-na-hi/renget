@@ -4,7 +4,7 @@ Ass WebM collection (At 2100 WebMs, or just over 10 hours of content.): https://
 
 ## /tg/ Tits General
 
-Tits WebM collection (At 800 WebMs): https://mega.nz/folder/xEwwxKaD#csYF6cbdr3NId2xAbilZug
+Tits WebM collection (At 1000 WebMs): https://mega.nz/folder/xEwwxKaD#csYF6cbdr3NId2xAbilZug
 
 ## /fg/ - Fellatio General
 

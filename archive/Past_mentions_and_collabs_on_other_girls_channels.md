@@ -116,7 +116,7 @@
 |01/09/2023|[Nerissa's POV](https://youtu.be/AAD3QCumnrw)| **Collab** - Sixth HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=yGmu-OXpqxs) on Pico Park|
 |06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
-|11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with Shiori, Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
+|11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
 |15/09/2023|Placeholder Mario Kart| **Collab** - Advent Fullgen Collab on Mario Kart.|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
@@ -182,7 +182,7 @@
 ###### 🎨 Iofi
 |Date|Link|Nature & Notes|
 |---|---|---|
-|11/09/2023|[Link](https://www.youtube.com/watch?v=cGBbWdQCgao)|**Drawing / redesign** - IoSalon involving Nerissa (IoSalon is a redesign stream by Iofi for holomem haircuts).|
+|11/09/2023|[Link](https://www.youtube.com/watch?v=cGBbWdQCgao)|**Drawing / redesign** - IoSalon involving Nerissa (IoSalon is a redesign stream by Iofi for holomem haircuts). The stream starts with Nerissa's redesign.|
 |12/09/2023|Placeholder collab|---|
 
 ###### 🧟‍ Ollie

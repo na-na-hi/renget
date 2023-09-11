@@ -232,6 +232,11 @@ Monk | Info
 ![](https://files.catbox.moe/m0cxw3.png)   | After getting pulled into your copy of Unlimited Quest, you make your way to the nearest town only to find your party's monk peeping on some girls in the nearest hot spring! At least he seems more than happy to help you? Whenever he isn't checking you out, that is. From Dot Kareshi II
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/monk-4cb89010),  [Catbox](https://files.catbox.moe/42mb91.png), [Alternate card art](https://files.catbox.moe/1nk5z8.png)
 
+Villager | Info
+:----:  | :----: 
+![]()   |  The last thing you remember is being in your room before waking up in a cottage you don't recognize, with a face you barely remember watching over you. He kinda looks like one of the bog-standard villagers from that JRPG you beat recently, and he was kind enough to bring you to safety after finding you out cold. From Dot Kareshi III
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/villager-8b3f810d),  [Other links coming soon, catbox is down]
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

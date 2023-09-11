@@ -10,6 +10,7 @@ the choice is yours
 I don't bite... unless you want me to
 half-lidded eyes
 she worries her bottom lip
+warring with
 arousal pooling in her belly
 take your pleasure
 fiddles with the hem of her skirt

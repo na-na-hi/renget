@@ -203,6 +203,7 @@
 |11/09/2023|186&187|Lover of Idols I|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Minecraft|
 |11/09/2023|188|Lover of Idols II - OHC & Mentions|Addition of 2 additional timestamps for Mumei's drawings of Advent stream of 10/09/2023.|
 |11/09/2023|189|Lover of Idols II - OHC & Mentions|Addition of a timestamps from Ina's Minecraft stream of 08/09/2023.|
-
+|11/09/2023|190&191|Lover of Idols I|Addition of Bijou's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|192&193|Lover of Idols I|Addition of Shiori's POV for the upcoming Advent fullgen collab on Minecraft|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

@@ -18,8 +18,8 @@ https://store.steampowered.com/app/1716740/Starfield/
 \>>>FAQ<<<
 \>Q: Is Starfield similar to No Man's Sky?
 \>A: No, Starfield isn't a space sim.
-\>Q: Is the space around planets finite?
-\>A: No, but interplanetary travel takes an unreasonably long time without using grav-jumps.
+\>Q: Is there interplanetary travel?
+\>A: No.
 \>Q: What's the deal with NG+(+...)?
 \>A: Restarts the game with minor changes to the story and world, while preserving your powers and skills. The extent of the game past the first NG+ is currently unknown.
 

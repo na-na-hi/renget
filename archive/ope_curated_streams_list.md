@@ -46,7 +46,7 @@ Playlist: https://www.youtube.com/playlist?list=PLSJG6WXf5JvGaaP5lsi4xGj4UcgC-ZH
 |13/08/2023|【Terraria】I must dig. (Open VC and world) 🎼|[![](https://files.catbox.moe/6o2oyq.jpg)](https://www.youtube.com/watch?v=A6sX1yjQq_k)|~4h15|  Must Watch  |
 |22/08/2023| 【Terraria】Digging with the Doggies @FUWAMOCOch (Open VC and world) 🎼  |[![](https://files.catbox.moe/c2br5u.jpg)](https://www.youtube.com/watch?v=XGuQDiwqbeU) |~2h25| - |
 |29/08/2023| 【Terraria】Onto the next part of our adventure! (Open VC and world) 🎼  | [![](https://files.catbox.moe/u8z38b.jpg)](https://youtu.be/A58r2hB_RuU) |~2h17| - |
-|10/09/2023| 【Terraria】Going to hell frfr (Open VC and world) 🎼  | [![](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY) |-| - |
+|10/09/2023| 【Terraria】Going to hell frfr (Open VC and world) 🎼  | [![](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY) |~2h35| - |
 
 ######HoloCure
 | Date | Title | Link & Thumbnails | Duration | Status |
