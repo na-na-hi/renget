@@ -215,4 +215,4 @@ The guildmaster hums, and strokes his chin, "I suppose you're all set then.  In 
 
 All three of them blink, and glance at each other, entirely confused.  
 
-"...Humans?"
+["...Humans?"](https://rentry.org/kcb-1)

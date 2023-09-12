@@ -77,9 +77,11 @@
 |
 **Local Related Gits**|
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
+[exllama2](https://github.com/turboderp/exllamav2)|Faster kernels and cleaner codebase with new quantization style (70B llama 2 on 24GB VRAM)
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
 [ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo for various foundational models
+[Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
 [GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements
 [QuIP](https://arxiv.org/abs/2307.13304)|2bit via incoherent weight and Hessian matrices optimization (OPT code only currently)
 [SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM)|3/4bit weight quantization SOTA results dense and sparse outlier handling

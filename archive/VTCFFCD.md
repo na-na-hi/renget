@@ -2,18 +2,16 @@
 
 ->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 09/05/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 09/12/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [Balsa Chapter 21: Voracity](https://docs.google.com/document/d/e/2PACX-1vR_u1me2lmIiig7owrU6n2xELjic8HJUM5v-baOaEv-Lc1kGibBoBLVzZNzFKFX8cUgydDlIwmRetWX/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
-(***Series Entry!***) [Balsa Chapter 22: The Best Within Ourselves](https://docs.google.com/document/d/e/2PACX-1vTMysB4Lyr6xSI7XxdzqXa8NzQLX3iJhIhscbP4jHwJpeMSmvjjdfcZtjKSVFU81HeHWv_5Axjxz7eT/pub)
-[Black Narcissus](https://docs.google.com/document/d/e/2PACX-1vQRFQ07fd4QBGKaRTf0qgew5jF7haqRzms1o0QDaKKiiVdapumZmywGhNtnAbICGd9jRqxHDsDtlc1f/pub) (Fubuki, NSFW, Corruption)
-[An Incredible Bitch](https://docs.google.com/document/d/e/2PACX-1vRgagALpUns2Wb5KXFi426-GbNW7zFhDw57j0FjmbUdxWKI6l4Qp_pKm2Iee0lYnjYCIApR_ThZwIW7/pub) (Suisei, NSFW, Hate Sex)
-['A Promotion'](https://docs.google.com/document/d/e/2PACX-1vRAZL78sR3QDJ-y2SGqiJTmGOSZT-8YSSTZNpDaPFnlMw5jVnEGQypQnL0dVWa2bm92s6ZJRUmykOnQ/pub) (Koyori, Laplus, SFW, Fluff)
-[What if Shiori lost her voice?](https://rentry.org/dst8c6) (Shiori, SFW, Depressing/Tragedy)
-[Anon's Shiori GT Dump](https://rentry.co/iib2nz) (Shiori, SFW, Multiple Stories within, Fluff, Tragedy)
-[The Tower of Tattle pt. 5](https://docs.google.com/document/d/e/2PACX-1vQpFNQcufhoQEvtBBFA8imIrVW-h5cZXXPz19bjijhxaWRJ1fXqWwqInKkTmVDOrJLmGoeVrJOu-oAn/pub) (Shiori, SFW, Mystery, Drama, Adventure, Comedy)
-<-
+->(***Series Entry!***) [Balsa Chapter 23: Reconciliation](https://docs.google.com/document/d/e/2PACX-1vTdU2O7n2VxY1tK9n2-abRzHYJsD7WX11lQU0eyqR3KdxxpWq0iR7_jkCKMp6FupiduDtDdzIcv9MQN/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
+[Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
+[An Incredible Bitch: The First Year's Meeting](https://docs.google.com/document/d/e/2PACX-1vRLo2kNu-obpv3YWIL4pBdpqpNgrq0puzkMb99QasFHfrD8HXHfyjTvGQ7R6wulY_YX8cZr47gB7iSQ/pub) (Suisei, SFW, Short, Enemies to Lovers)
+[An Incredible Bitch: The First Year's Test](https://docs.google.com/document/d/e/2PACX-1vSHgnYSAnwBck5ZsOJkNdqtmFGtApXYE5ULvaIiejWEH8McUI5P4d8Dy3vpkLWqMw7tYbk9BDmeMIGV/pub) (Suisei, Miko, SFW, Short, Enemies To Lovers)
+[A Small Amount of Tomfoolery](https://docs.google.com/document/d/e/2PACX-1vQ1h5m24N2VhpngjgNzQPer8c5roNI-wel73i8aBPhf9C4tV0EjKKSWB3Qooa6z6m9FeS9hPbMHvBim/pub) (Baelz, NSFW, Size Difference)
+[The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
+[Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1279,6 +1277,12 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [The Tower of Tattle pt. 5](https://docs.google.com/document/d/e/2PACX-1vQpFNQcufhoQEvtBBFA8imIrVW-h5cZXXPz19bjijhxaWRJ1fXqWwqInKkTmVDOrJLmGoeVrJOu-oAn/pub) (Shiori, SFW, Mystery, Drama, Adventure, Comedy) ^
 [Black Narcissus](https://docs.google.com/document/d/e/2PACX-1vQRFQ07fd4QBGKaRTf0qgew5jF7haqRzms1o0QDaKKiiVdapumZmywGhNtnAbICGd9jRqxHDsDtlc1f/pub) (Fubuki, NSFW, Corruption)
 [An Incredible Bitch](https://docs.google.com/document/d/e/2PACX-1vRgagALpUns2Wb5KXFi426-GbNW7zFhDw57j0FjmbUdxWKI6l4Qp_pKm2Iee0lYnjYCIApR_ThZwIW7/pub) (Suisei, NSFW, Hate Sex)
+[An Incredible Bitch: The First Year's Meeting](https://docs.google.com/document/d/e/2PACX-1vRLo2kNu-obpv3YWIL4pBdpqpNgrq0puzkMb99QasFHfrD8HXHfyjTvGQ7R6wulY_YX8cZr47gB7iSQ/pub) (Suisei, SFW, Short, Enemies to Lovers) ^
+[An Incredible Bitch: The First Year's Test](https://docs.google.com/document/d/e/2PACX-1vSHgnYSAnwBck5ZsOJkNdqtmFGtApXYE5ULvaIiejWEH8McUI5P4d8Dy3vpkLWqMw7tYbk9BDmeMIGV/pub) (Suisei, Miko, SFW, Short, Enemies To Lovers) ^
 ['A Promotion'](https://docs.google.com/document/d/e/2PACX-1vRAZL78sR3QDJ-y2SGqiJTmGOSZT-8YSSTZNpDaPFnlMw5jVnEGQypQnL0dVWa2bm92s6ZJRUmykOnQ/pub) (Koyori, Laplus, SFW, Fluff)
 [What if Shiori lost her voice?](https://rentry.org/dst8c6) (Shiori, SFW, Depressing/Tragedy)
 [Anon's Shiori GT Dump](https://rentry.co/iib2nz) (Shiori, SFW, Multiple Stories within, Fluff, Tragedy)
+[A Small Amount of Tomfoolery](https://docs.google.com/document/d/e/2PACX-1vQ1h5m24N2VhpngjgNzQPer8c5roNI-wel73i8aBPhf9C4tV0EjKKSWB3Qooa6z6m9FeS9hPbMHvBim/pub) (Baelz, NSFW, Size Difference)
+[The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
+[Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)
+[Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)

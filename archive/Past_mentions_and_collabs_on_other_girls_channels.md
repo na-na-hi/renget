@@ -41,6 +41,7 @@
 |05/09/2023|[Timestamp #1](https://youtu.be/fzPURNCxQvM?t=12990) [Timestamp #2](https://youtu.be/fzPURNCxQvM?t=16249)| **Mentions** - During that GTA DLC stream, Kiara mentioned the Wedding collab with Ollie and the future Minecraft 1-on-1 collab. |
 |07/09/2023|[Link](https://www.youtube.com/watch?v=Rc8O5lB31_w)| **Collab** - Collab in Minecraft. |
 |08/09/2023|[Timestamp for the main interaction](https://youtu.be/MdwAAbtTASo?t=5400) [Minor Event #1 - Greetings](https://youtu.be/MdwAAbtTASo?t=2662) [Minor Event #2 - Reaction to the Loviatar reference](https://youtu.be/MdwAAbtTASo?t=2904) [Minor Event #3 - Dead Ravens scene](https://youtu.be/MdwAAbtTASo?t=5080) [Minor Event #4 - Small reference to the MC collab](https://youtu.be/MdwAAbtTASo?t=8836)| **Streamer-chat interactions & mentions** - Nerissa gave instructions to Kiara in orfer for her to advance for the main interaction  The rest are non-impactful references, reactions or mundane stuff like greetings|
+|11/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=mTwRuoJf1EM&t=870s) [Timestamp #2](https://youtu.be/mTwRuoJf1EM?t=10050s)| **Mentions** - During that Hotline Miami 2 stream, Kiara ade 2 small mentions with Nerissa DMing her about her silent stream start and was talking about the possibility of doing musical for future events with Myth by concluding that Neriisa loves musicals. |
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -91,6 +92,7 @@
 |25/08/2023|[Timestamp](https://youtu.be/aN0meN5v6rw?t=4300) |**Mention** - During her fourth HoloCure stream, Bijou talks about Nerissa sharing videos about who's the flattest Holomem.|
 |25/08/2023|[Timestamp #1](https://youtu.be/LnAf5icLn-c?t=2218) [Timestamp #2](https://youtu.be/LnAf5icLn-c?t=2340)|**Mentions** - Talks about Nerissa's Magia cover and proceeds to talk about who in Advent would be who in the Madoka universe.|
 |04/08/2023|[Entire first segment - Start](https://youtu.be/u3Bprxyl1HQ?t=5380) [S1 - Starts DM'ing about Pillow Princess](https://youtu.be/u3Bprxyl1HQ?t=5470) [S1 - Answer](https://youtu.be/u3Bprxyl1HQ?t=5530) [S1 - 2nd batch of DMs](https://youtu.be/u3Bprxyl1HQ?t=5582) [2nd mention](https://youtu.be/u3Bprxyl1HQ?t=6341)|**DM Interaction & Mention** - Bijou calls a boss 'Pillow Princess' (which she didn't knew that was a yabe term) so she decided to DM Nerissa (after that her chat suggested to her) about the term and got her answer. A second mention happened about Bijou's mom who's also watching Nerissa|
+|12/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=uxTyLDflggM&t=5425s) [Timestamp #2](https://www.youtube.com/watch?v=uxTyLDflggM&t=5585s)|**Mentions** - During her fifth Armored Core 6 stream, Bijou talks about Nerissa whatever she would like to play AC6 and her particularity about sitting on chairs naked.|
 
 ###### 🐾 FUWAMOCO
 |Date|Link|Nature & Notes|
@@ -103,6 +105,9 @@
 |27/08/2023|[Link](https://youtu.be/oSqxygM9V4g) |**Watchalong** - Watchalong of Splash Party! Sunshine! with Advent".|
 |28/08/2023|[Timestamp](https://youtu.be/wz04zoH_THU?t=699)|**Segment** -Segment about the Magia cover during Fuwamoco Morning #12.|
 |30/08/2023|[Timestamp](https://www.youtube.com/watch?v=rD_ZE3DrWlY&t=597s)|**Segment** -Another Misunderstanding segment during Fuwamoco Morning #13. Concerning rice this time.|
+|06/09/2023|[Timestamp](https://youtu.be/Z3C4pzDIeEo?t=551)|**Segment** - Another misunderstanding corner segment during FWMC Morning #16 about Nerissa being 'a dirty woman' accoring to Mococo who also wanting to 'cleanse her for all her sins'.|
+|12/09/2023|[Timestamp](https://youtu.be/_scYvetrFEo?t=1980)|**Mention** - During FWMC Morning #18, Mococo promises some sort of revenge for the second Minecraft Advent collab.|
+|12/09/2023|[Timestamp](https://youtu.be/Cljwt3qv1Ds?t=9840)|**Mention** - Aftermath of the revenge arc for the second Minecraft collab stream - separated from the rest of the stream because it's easily forgettable.|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|

@@ -70,6 +70,7 @@
 05/2023|[Randomized Positional Encodings Boost Length Generalization of Transformers](https://arxiv.org/abs/2305.16843)
 08/2023|[From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951)
 09/2023|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
+09/2023|[MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (MT Model)](https://arxiv.org/abs/2309.04662)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -130,6 +131,7 @@
 08/2023|[Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference](https://arxiv.org/abs/2308.12066)
 09/2023|[Efficient RLHF: Reducing the Memory Usage of PPO](https://arxiv.org/abs/2309.00754)
 09/2023|[DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
+09/2023|[Textbooks Are All You Need II (phi-1.5)](https://arxiv.org/abs/2309.05463)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
@@ -350,6 +352,7 @@
 09/2023|[Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices](https://arxiv.org/abs/2309.02411)
 09/2023|[SLiMe: Segment Like Me](https://arxiv.org/abs/2309.03179)
 09/2023|[Norm Tweaking: High-performance Low-bit Quantization of Large Language Models](https://arxiv.org/abs/2309.02784)
+09/2023|[When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale](https://arxiv.org/abs/2309.04564)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
@@ -364,3 +367,4 @@
 06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.ph/Rsoai)
 07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities)
 07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.ph/hfbHH)
+09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.ph/keLl0)

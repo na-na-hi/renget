@@ -206,5 +206,10 @@
 |11/09/2023|190&191|Lover of Idols I|Addition of Bijou's POV for the upcoming Advent fullgen collab on Minecraft|
 |11/09/2023|192&193|Lover of Idols I|Addition of Shiori's POV for the upcoming Advent fullgen collab on Minecraft|
 |12/09/2023|194|Lover of Idols II - OHC & Mentions|Addition of the stream link for the upcoming drawing collab with Iofi.|
+|12/09/2023|195|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Kiara's second Hotline Miami 2 stream from 11/09/2023.|
+|12/09/2023|196|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Bijou's sixth Armored Core 6 stream from 11/09/2023.|
+|12/09/2023|197|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a mention from FUWAMOCO Morning #16.|
+|12/09/2023|198|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a mention from FUWAMOCO Morning #18.|
+|12/09/2023|199|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a mention from FUWAMOCO during the closing parts of their streamed POV of the Advent Minecraft collab of 12/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

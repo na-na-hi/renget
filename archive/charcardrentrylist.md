@@ -18,8 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Ankha](https://files.catbox.moe/nw63cd.png)|[Ankha](https://files.catbox.moe/nw63cd.png) [MV]
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Syuriy](https://files.catbox.moe/p4oeq8.png)|[ꭦ֎√](https://files.catbox.moe/0xycic.png)
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)|[Tatsumaki ](https://files.catbox.moe/a8hfrb.png) [MV]
-[Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/k0sdwl.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Audrey II](https://files.catbox.moe/15aarh.png), [Saphielle](https://files.catbox.moe/yyzxhx.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Mina](https://files.catbox.moe/gllnqu.png), [Cosma](https://files.catbox.moe/rb97ti.png), [Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png)|
@@ -33,11 +35,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Klischée](https://files.catbox.moe/vh7c1b.png), [Bianca](https://files.catbox.moe/9izzte.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Scarlett](https://files.catbox.moe/67ipaw.png), [Stardust](https://files.catbox.moe/axuo8h.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Tabitha](https://files.catbox.moe/uzgx4a.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Ruri](https://files.catbox.moe/j0ff9m.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
-[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||[ꭦ֎√](https://files.catbox.moe/0xycic.png)
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
@@ -49,7 +50,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [LobotomyAnon](https://rentry.org/LobotomyAnon) | Misc ||
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||

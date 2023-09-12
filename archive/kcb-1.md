@@ -2,7 +2,7 @@
 
 
 
-Lliam nods, saying, "Yes, humans!  I'm sure you've heard the rumors."
+[Lliam nods, saying, "Yes, humans!  I'm sure you've heard the rumors."](https://rentry.org/kcb-0)
 
 Cassie squints at Kiyo contemptuously, "Why, of course we did.  We all did.  Didn't we, Kiyo?"
 

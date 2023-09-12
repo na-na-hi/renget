@@ -51,7 +51,6 @@ What's the purpose of this? When {{user}} enters to go to class, NPCs assigned t
 Here's an example from a fictional clothes store: 
 
 Key: ```Carol```
-
 Content: ```Name: Carol
 Occupation: Clothes Store owner
 Description: tall woman, blue eyes, long blonde hair, fashionable```
@@ -65,7 +64,7 @@ Content: ```Carol is the Clothes Store owner. She is a tall woman with blue eyes
 
 The above is more or less equivalent. Interestingly, the token count is almost identical because of the need for transitioning words, so I usually use the former as it's easier to organize. Really, any format that works for the cards will work for these lorebooks. 
 
-What's fun about Named NPCs is that the AI engine will drop them where they go. If the AI knows that {{user}} is in at the Clothes Store, and Aurelia works there... Aurelia will appear, and may interact with either {{user}} or {{char}}
+What's fun about Named NPCs is that the AI engine will drop them where they go. If the AI knows that {{user}} is in at the Clothes Store, and Carol works there... Carol will appear, and may interact with either {{user}} or {{char}}
 
 Here's an example teacher from American High School:
 
@@ -79,7 +78,7 @@ Key: ```Michael,overachiever,Class```
 
 Content: ```Michael is an ambitious overachiever who spends most of his time in the classroom```
 
-So, if {{user}} goes to Math Class, they'll encounter both Mrs. Johnson, as well Michael and any other students flagged in either Classroom or Hallway.
+So, if {{user}} goes to Math Class, they'll encounter both Mrs. Johnson, as well Michael and any other students flagged in Classroom.
 
 Or, let's say you want all the jocks to show up at one place...
 
@@ -107,15 +106,15 @@ Content: ```Club is a vibrant night club with music, dancing, and lively ambianc
 People socialize, party, and create memorable experiences. ```
 
 Above is about 40 tokens and descriptive. So what's wrong with it? 
-1. It's AI-redundant. It's literally what ChatAI spit out when I asked for a 50 token nightclub description. Just telling AI "{{user}} went to a night club" would have been enough for the AI to build the above definition, without the need to spend tokens. If you're going to define the Club, add information that the AI wouldn't know, i.e. Brad works there, it's attached to a laundromat, the floor randomly consumes dancers, etc. 
-2. Key is too generic; Club could be anything (night club, strip club, book club, etc.). It would be better to give a proper name in this case i.e. HotBoxx, or some such, then define it. 
+1. It's AI-redundant. It's literally what ChatGPT spit out when I asked for a 50 token nightclub description. Just telling AI "{{user}} went to a night club" would have been enough for the AI to build the above definition, without the need to spend tokens. If you're going to define the Club, add information that the AI wouldn't know, i.e. Brad works there, it's attached to a laundromat, the floor randomly consumes dancers, etc. 
+2. Key is too generic; Club could be anything (night club, strip club, book club, etc.). It would be better to give a proper name in this case i.e. *Rumors*, or some such, then define it. 
 
 
 ####Other Examples
 Other potential entries: very specific objects, drugs / substances, clothing items, tasks/duties for {{char}}. The list of potentials is endless but note that unless the object is very unique, it may not need a definition... the AI can figure something out. Review other lorebooks for ideas on how authors use them. 
 
 ###Recursion
-With the above example, note that Aurelia includes Clothes Store. With recursion turned on, if Aurelia is mentioned, Silly Tavern will also pull the lorebook entry for the clothes store as well. With Recursion turned off, this association won't be made. 
+With the above example, note that Carol includes Clothes Store. With recursion turned on, if Carol is mentioned, Silly Tavern will also pull the lorebook entry for the clothes store as well. With Recursion turned off, this association won't be made. 
 
 Recursion can also be used to group a bunch of simpler NPCs together. Here's an example from American High School: 
 
@@ -131,16 +130,20 @@ Content: ```Brad is a hispanic jock that hangs out on the field```
 Key: ```Carl,hipster,lot```
 Content: ```Carl is a skinny brown-haired hipster that hangs out in the parking lot```
 
-These very basic descriptions allow a dozen of these defined NPCs under a 200 token budget. Then, using recursion, they could be popped into story everytime a Nerd or Jock is referenced. Or, you can add additional recursion info, like so: 
+With these Key(s), the can be popped into the story everytime a Nerd (Carrie) or Jock (Brad) is referenced. 
+Using Recursion, you can add additional associations, like so: 
 
 Key: ```bookworms```
 Content: ```Carl, Carrie are nerds```
 Key: ```Popular```
 Content: ```Stacy, Brad are popular```
 
+Now, when "Popular" comes up, Silly Tavern will see this includes Brad and Stacy. With Recursion, it will go *back* through the lorebook, and pull the complete NPC definitions for Brad and Stacy as well. 
+
 ###Budget
 **TLDR: *You have a limited budget. Keep it short.* **
 **UPDATE: *Figure a 5% Lorebook budget. 4,000 Tokens = 200 for Lorebook. 16,000 tokens = 800 for Lorebook. Same for Entries - 4X for 16K**
+**UPDATE 2: Silly Tavern now just uses % budget for Lorebook** 
 
 For Silly Tavern, the default Budget for the lorebook is 200 tokens *(Note: This was set when Turbo was 4K context)*. The point of the lorebook is to only pull in what you need, not the whole thing every time. Ideally, lorebook entries are either short (and you get a few) or long (and you get one.) 
 **I generally try to keep lorebook entries under 50 tokens, so that every round Silly Tavern can pull in 3-4 of them, as needed.**

@@ -12,7 +12,7 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 
 \>Streams
 Upcoming Stream
--reserved-
+https://www.youtube.com/watch?v=Uhw5pm5eC8o
 Past Stream
 https://www.youtube.com/watch?v=Uhw5pm5eC8o
 
