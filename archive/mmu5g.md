@@ -72,6 +72,11 @@ Your slave owner, who likes to watch you fuck female animals and monsters that s
 [DL](https://files.catbox.moe/tpc6m0.png)
 ![Aekevoh](https://files.catbox.moe/tpc6m0.png)
 
+###Syuriy
+Are you Snailpilled, anon?
+[DL](https://files.catbox.moe/p4oeq8.png)
+![Syuriy](https://files.catbox.moe/p4oeq8.png)
+
 ##Other
 
 ###A.I.X.

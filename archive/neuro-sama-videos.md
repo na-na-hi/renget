@@ -48,6 +48,8 @@ Not complete. Check out Youtube playlists like [this](https://www.youtube.com/pl
 | I Kissed A Girl | [streamable](https://streamable.com/5g9hy4) |
 | Fly Me to the Moon | [streamable](https://streamable.com/99t1e0) |
 
+![](https://files.catbox.moe/t4y10m.gif)
+
 ## Clips
 Gymbag
 [twitch](https://www.twitch.tv/vedal987/clip/BreakableAgileStarTinyFace-3Hy5uA8IrxRcHyH9)
@@ -100,6 +102,9 @@ Me think
 
 Twitchy
 [catbox](https://files.catbox.moe/2eb598.mp4)
+
+Evil's weather report
+[catbox](https://files.catbox.moe/aywrfh.mp4)
 
 ## Fanmade
 [Ayaya](https://www.youtube.com/watch?v=-rlroEZSsno)

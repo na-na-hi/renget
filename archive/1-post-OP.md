@@ -6,17 +6,15 @@ Always announce when you're making the next thread, so we're avoiding doubles. A
 
 /ope/ - Nerissa Ravencroft General
 
-For the 102nd time, what is Ope?!
+For the 103rd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Upcoming VC collab with Mumei
-https://www.youtube.com/watch?v=iaZ-tmSleko
-Current stream
-https://www.youtube.com/watch?v=DAt0redvoJY
-Past streams
-https://www.youtube.com/watch?v=x1pBVg4DoMY
+Upcoming Stream
+-reserved-
+Past Stream
+https://www.youtube.com/watch?v=Uhw5pm5eC8o
 
 \>Songs
 Cover of Kalafina - Magia
@@ -33,7 +31,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art Tags: #RavenCrafts on Twitter (Lewds : #depravencrafts on Twitter), RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch
-Previous thread: >>58263608
+Previous thread: >>58347772
 
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 

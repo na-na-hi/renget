@@ -502,9 +502,9 @@ I nod in understanding.
 
 Though Inigo recounts this brightly, I detect the melancholy underlying his words. “I get it. I had the same experience. I saved up for my first music player when I was five. There is a timeless quality to those old jazz legends. ”
 
-"That's cool. Oh man, we gotta listen to this one!" Inigo suddenly declares, brandishing a John Coltrane album. I open my mouth to protest, but Inigo is already dragging me into the shop's listening booth, his grip surprisingly strong.
+"That's cool. Oh man, we gotta listen to this one!" Inigo suddenly declares, brandishing a Ella Fitzgerald album. I open my mouth to protest, but Inigo is already dragging me into the shop's listening booth, his grip surprisingly strong.
 
->Recommended music: https://youtu.be/R_f_mMJAezM?si=d7NUMFsOylWdXMZg
+>Recommended music: https://youtu.be/gDzi8N3BYMw?si=14J8IsFzCaVI9LSL&t=32
 
 As the velvety saxophone notes swirl around us, I feel my body involuntarily relaxing. I close my eyes, absorbing the sensuous harmonies and angular rhythms. Beside me, Inigo bobs his head enthusiastically in time with the pulsating drums.
 

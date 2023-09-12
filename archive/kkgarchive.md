@@ -1,8 +1,7 @@
 ## /kkg/ Thread Archive
-[Last Updated: 12.09.2023 03:30 UTC]
+[Last Updated: 12.09.2023 09:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7567749/](https://boards.4chan.org/h/thread/7567749/)
-Trash - [boards.4chan.org/trash/thread/59435522/](https://boards.4chan.org/trash/thread/59435522/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 

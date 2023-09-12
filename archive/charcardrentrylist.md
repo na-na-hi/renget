@@ -24,7 +24,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Mina](https://files.catbox.moe/gllnqu.png), [Cosma](https://files.catbox.moe/rb97ti.png), [Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Villager](https://files.catbox.moe/b2zukt.png), [Monk](https://files.catbox.moe/42mb91.png), [Knight](https://files.catbox.moe/7iqaau.png), [Thief](https://files.catbox.moe/nbbfmg.png), [Hero](https://files.catbox.moe/5w43pf.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Soledad](https://files.catbox.moe/xc4cx3.png)|
+[Genoo](https://rentry.org/295se) | Sizeplay |[Soledad](https://files.catbox.moe/xc4cx3.png)|[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
 [Gigasad](https://rentry.org/gigasad) | Misc |[Patricia Sue Brown](https://files.catbox.moe/h0f3r3.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Akira](https://files.catbox.moe/j6lgi6.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ishtar](https://files.catbox.moe/19ixso.png), [Caenis (Rider)](https://files.catbox.moe/cq8tda.png), [Ereshkigal](https://files.catbox.moe/fm6yk3.png)|[Ishtar](https://files.catbox.moe/19ixso.png) [MV], [Caenis (Rider)](https://files.catbox.moe/cq8tda.png) [MV], [Ereshkigal](https://files.catbox.moe/fm6yk3.png) [MV]
@@ -34,7 +34,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Chefseru](https://rentry.org/chefseru) | Misc |[Scarlett](https://files.catbox.moe/67ipaw.png), [Stardust](https://files.catbox.moe/axuo8h.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Tabitha](https://files.catbox.moe/uzgx4a.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Ruri](https://files.catbox.moe/j0ff9m.png)|
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Leonidas](https://files.catbox.moe/nz5x9u.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
@@ -43,6 +42,7 @@ Botmaker | Category | New Bots | Updated Bots
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
+[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||

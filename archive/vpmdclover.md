@@ -235,6 +235,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Charm the Charmander
 	* [The Adventures of Team Oracle, Issue #0 (ft. Charm)](https://rentry.org/oracle0)
 	* [The Adventures of Team Oracle, Issue #1 (ft. Charm)](https://rentry.org/oracle1)
+* Cheesecake the Wooper
+	* [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1) *Not on Table*
 * Chespin
 	* [Chespin's Introduction](https://rentry.org/q6gf5)
 	* [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) 
@@ -552,6 +554,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 * {||} [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * {||} [Three Strangers Sweep the Grounds](https://rentry.org/kcb-1)
+* {||} [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -1,6 +1,5 @@
 # Nanashi Mumei merchandise
-**Birthday Merch Yr 2** (Order period ends 11th September 1800 JST)
- https://shop.hololivepro.com/en/products/nanashimumei_bd2023
+!!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them) and memberships are the best ways to supporting them. 
 
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
@@ -18,15 +17,15 @@ https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
 >**HoloSummer**
 - - -
-Splash Party Online Concert (26 & 27th August, 2000 JST)
+Splash Party Online Concert 
 **Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
-https://www.zan-live.com/en/live/detail/10292
+free archive on [youtube](https://www.youtube.com/watch?v=GBxt2fq_Zek) avalible until 27th Sept. JST
 **Merch**
 Acrylic Stands (Yukata) 
 https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 Keychains and assorted goods
 https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
-**Order period ended**
+\>**Order period ended**
 Acrylic diorama 
 https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
 Acrylic Stand (Swimsuit)
@@ -100,3 +99,6 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en
 
 **CouncilRyS Beegsmols plushies** (Order period ends 14th August 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
+
+**Birthday Merch Yr 2** (Order period ends 11th September 1800 JST)
+ https://shop.hololivepro.com/en/products/nanashimumei_bd2023

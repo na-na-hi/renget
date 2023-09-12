@@ -21,9 +21,6 @@ https://civitai.com
 https://majinai.art
 https://huggingface.co
 
->>> Low VRam? Radeon card? Genning on the go? Use the google colab <<<
-https://rentry.org/sdg-link#colab
-
 >>> Faded colors/purple stains/low quality/blurry/aliased? Get a VAE <<<
 https://rentry.org/sdvae
 
