@@ -117,9 +117,9 @@
 - Online streaming of Asian dramas with English subtitles is available for free from China, Korea, Hong Kong, Taiwan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramacool.cy/)
 
-### 🐐 [FMovies](https://fmovies.name/)
+### 🐐 [FMovies](https://fmoviesz.to/)
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
-- [URL Safety Results](https://www.urlvoid.com/scan/fmovies.name/)
+- [URL Safety Results](https://www.urlvoid.com/scan/fmoviesz.to/)
 
 ### 🐐 [FlixHQ](https://flixhq.click/)
 - Safest free movie site in 2023 to instantly view movies and television shows online.

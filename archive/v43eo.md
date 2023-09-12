@@ -1,10 +1,10 @@
 # tsukasa
 
-new paste https://rentry.org/tsukasa13b
+!!! danger no longer updating this paste as of 9/11/2023, new one is https://rentry.org/tsukasa13b
 
 https://huggingface.co/ludis/tsukasa-13b-qlora-limarp
 https://huggingface.co/ludis/tsukasa-13b-qlora-limarp-gptq
-more gptq quants and gguf soon™️
+https://huggingface.co/ludis/tsukasa-13b-qlora-limarp-gguf
 
 if u wanna host it urself on collab put `ludis` for the org `tsukasa-13b-qlora-limarp-gptq` for the repo and `main` for the branch, normal llamabro notebook is slightly bugged since my repo name has the gptq in lowercase use the notebook posted below if you have issues
 https://0x0.st/HfVJ.ipynb
@@ -72,5 +72,8 @@ tail-free sampling:
 `temperature=0.75, Repetition penalty=~1.18, top-p=1, top-k=0, Tail Free Sampling=0.85, Repetition penalty range=0, Microstat Tau=0, Microstat LR (ETA)=1`
 
 i find temp, tfs, and rep pen has greatest impact on output quality
-
 this is just what i found works nice, if you find better gen settings lmk at no1namialuvr@proton.me logs also welcome at same email
+
+## limarp
+
+since the last dataset the model was tuned on (limarp) includes persona's for both characters, you might get better results if you include a persona for the character (you) are roleplaying as not just the bot, also limarp data doesn't use asteriks for actions and has dialogue in quotes.

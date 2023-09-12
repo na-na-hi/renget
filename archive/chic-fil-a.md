@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #30 (Thursday, 7 September 2023, 19:00 UTC)<-
+->Last updated on thread #31 (Monday, 11 September 2023, 23:15 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -315,6 +315,14 @@ its alright, better than the main competition like kfc and popeyes for sure, but
 id put it in between burger king and chickfila, being closer to burger king on the scale. but its way overpriced for what it is
 [![Culver's spicy chicken sandwich: 20230819_144945.jpg / 1692472067106.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1692/47/1692472067106.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1692/47/1692472067106.jpg)
 
+###Hormel Foods
+####59416987 Anonymous: Chicken Alfredo
+`Hormel's Compleats Chicken Alfredo Review:`
+
+Unemployment might taste like a bitch but Hormel's has got you covered. At two bucks a pop this shit will fill ya up better than any fast food will, and this shit's fast, taking only 60 seconds vented in the microwave to cook, with no neet to wait for it to cool down because it's ready to eat. Speaking of meals that are ready to eat, I was thinking of enlisting but I'm still trying to decide if getting blown up is preferable to just kicking the chair. Speaking of kicking, Hormel's Chicken Alfredo kicks the ass of even non-competitors. This shit is savory, and will leave that sour taste in your mouth temporarily masked with a fine flavor. I just want to watch everyone get ripped apart and sewn together again for the rest of eternity. God I hate everyone. The pasta is creamy but not overcooked, and the chicken is juicy, and there's plenty of it too, about a 50/50 ratio of pasta to chicken. I know I could cook better but nobody wants a man who can cook, they just want the money that I can't fucking make. A complete supper for a family of one. Compleats has you covered! If McDick's was Italian this is what it would taste like. This shit is comparable to Domino's Chicken Alfredo except it isn't as thick or creamy. It's still cheesy, at least that's what some people say, like everything about me is a fucking gimmick. Hopefully the microwave didn't give me radiation poisoning or else I might actually do it this time. Every time I pussy out at everything. Hormel's Chicken Alfredo is better than eating pussy. Fuck women. Fuck men. There's little that satisfies me besides this microwavable shit and furry pornography, and neither of them are fucking cutting it. God bless my soul and pull me together before it's too late, even the stupid internet fox isn't getting me hard I just stare and look and wish that was me and feel only heartache and loneliness for what I never had.
+
+Overall, it's an 8/10 meal that's tasty and fills you up.
+[![Hormel's Compleats Chicken Alfredo Review: IMG_1694228960085.jpg / 1694229995715.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/22/1694229995715.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/22/1694229995715.jpg)
 
 ###KFC
 ####58943018 Anonymous: Chicken Nuggets
@@ -327,6 +335,12 @@ After running some errands this afternoon, I stopped at a KFC on the way home. I
 The sandwich was bigger than I expected, with what looked like an entire split boneless chicken breast. It is, of course, battered and fried, on a kaiser-ish sort of roll. This particular sandwich comes with dill pickles and a secret spicy dressing that looks and tastes like ranch dressing with hot sauce mixed in.
 Not amazing, not horrible. It was sufficiently filling that I don't think I'll eat anything else this evening. The fries were the usual seasoned fries, very much like you'd find in any other fast food place. I think it was okay, and the combo came to $8.79 with local sales tax. Nothing about this was amazing, but I don't feel ripped off.
 [![KFC Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
+
+###Lay's
+####59439903 Anonymous: Lay's Salt and Vinegar
+`Lay's salt and vinegar review:`
+This chip tastes like a Canadian McDonald's. If you've ever ordered the World Famous Fries from a Canadian McJiggers, you'll know this chip whips your taste buds like they're a bunch of niggers. This chip is the opposite cousin of Saskatchewan, hard to draw but easy to spell, and you can draw your comparisons straight up. Salty like piss and savory like gravy, with a hint of vinegar to remind you that the floor needs a mopping. A little bit like something your polish mail carrier's cousin used to make, eh? Nothing like needless calories that convince you not to attempt suicide via a diebetic comatose. Rinse the bag with a little bit of Nestlé Pure Life Bottled Water and sip the contents, it's the closest you'll get to commercially sold orphan tears! Frito Lay's will leave your mouth both dry and watering for more, and if you're dead, who can judge! Just grab a bag, run it through, and do it again like a discord mod at two in the morning on a Tuesday! If you're looking for a snack that'll leave you smiling back, Lay's has your back unlike everyone else! Call this chip a selfish, salty cunt and he'll say you're correct, it's part of his marketing campaign to psyop all his friends into killing him for him, and he will only make you admit you want him in your mouth. Crispy, tangy, and garuenteed fresh while in date, these chips will run you through, and if you're going to space, well there's your air source. HATE air? Die then. Lays, 8/10.
+[![Lay's Salt and Vinegar: IMG_1694305634330.jpg / 1694308038959.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694308038959.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694308038959.jpg)
 
 ###McDonald's
 ####59239035 Anonymous: Spicy Deluxe Chicken
@@ -369,6 +383,11 @@ it was pretty alright, it filled me up pretty good considering i didnt have brea
 [![Wawa's Chicken Parm Hoagie: 20230823_123426.jpg / 1693191673048.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)
 
 ###Wendy's
+####59428877 Anonymous: Wendy's Classic Asiago Club
+`Wendy's classic asiago club`
+this was not the sandwich i ordered but i ate it anyways bc i wasnt going back to the wendys to sort it out. it looks like a BLT of sorts but with chicken. it had bacon, tomato, lettuce, and some ranch type sauce. i got rid of the tomato bc i dont eat tomato and i dont really like ranch all that much. i could barely taste the chicken, it was quite bland and tasteless. the bacon and the ranch really carried the sandwich and its the only thing you taste, with the lettuce, it was more of a salad sandwich than a chicken sandwich. i do like that it was wrapped instead of put into a bag, which kept the buns from getting squished. the receipt says it was $6.89 for just the sandwich which is absolutely ridiculous and indefensible. i guess it was filling, meaning that i felt it for the rest of the day. it didnt make me sluggish but i was constantly reminded that i ate it and it wasnt entirely pleasant. i was supposed to get a regular chicken sandwich but now im unsure ill be looking forward to it. i would not buy this sandwich again.
+[![Wendy's Classic Asiago Club: 20230906_123310.jpg / 1694279446232.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/27/1694279446232.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/27/1694279446232.jpg)
+
 ####59103608 Anonymous: Maple Bacon Chicken Croissant Sandwich
 `Maple Bacon Chicken Croissant Sandwich`
 The sandwich itself was about $4.
@@ -381,6 +400,15 @@ Overall, I recommend giving it a try.
 [![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
+####59441831 Anonymous: Ring Pop Sour Cherry
+`Ring Pop Sours Sour Cherry review:`
+This pop sucks! The only engagement ring I could afford. She said no, no wonder! This pop is SOUR, but not in taste. Sweet, it is, the marketing was a lie, and it's unergonomic as fuck. Don't eat this one in public, or you'll look like a fucking retard. It melts in your hand, but not in your mouth! This sucker will leave you with flat feet, fallen arches, baggy knees and a broken frame. Meningitis, peritonitis, dt's and a washed-up brain. If you want clogged arteries, this one's for you. Featuring a ludicrous amount of sugar, you won't survive to attain the included prize: a gemless, tight, and ugly ring. Don't wear this one in public, because this one is a misbehavor. Light on the taste and heavy on the calories, this one's bound to send you to the hospital, and not in a good way. Don't buy this one, just go to your local children's hospital and take a couple for free. Free food's free food, am I right? Would a fox enjoy it? Take your chances, that's what I was told. Maybe you could start a relationship somewhere, and the trees are calling. Dig a hole, sleep all day, kill chickens and eat em raw. Perhaps this is the life I was meant for, minus the sleep without air conditioning part, I already sleep in a hovel of my own. But if this shit sells, anything will. This candy doubles as an emetic poison, because you will throw up after this one. Perhaps that's why it was in that jar at the front desk of St. Judes. Your donations at work, kiddo, this is the USA! Would you like a free crack pipe with that one, sir? 2/10.
+
+####59438661 Anonymous: Cake
+`Cake Review:`
+I wasn't invited. Tasted like eggnog, eggcream, eggplant, you name it. It's a Costco cake. 10/10.
+[![Cake: IMG_1694303764420.jpg / 1694304972984.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694304972984.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694304972984.jpg)
+
 ####58919026 Anonymous: Rotisserie Chicken
 `Rotisserie Chicken`
 Walmart rotisserie chicken is shockingly good, when you consider that Walmart is mainly known for selling cheap sneakers, cheap socks and underwear, and cheap hand tools made in China. In the Midwest there is a supermarket/department store mashup chain called Meijer that also has surprisingly good rotisserie chicken, for a place that's essentially the ghetto local competitor to Walmart.
@@ -398,7 +426,12 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
     ##/Chic-Fil-A/ Drink Reviews
 !!! warning /druk/ discouraged
 ---
-#####59249984 Anonymous: Peroni Nastro Azzurro
+####59439016 Anonymous: Dr. Pepper
+`Dr. Prepper review:`
+°д°
+[![Dr. Pepper: drinky sip sip mm thank u very much.jpg / 1694305819183.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694305819183.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694305819183.jpg)
+
+####59249984 Anonymous: Peroni Nastro Azzurro
 `Peroni Nastro Azzurro`
 Peroni Nastro Azzurro Review:
 
@@ -465,7 +498,7 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
     ##/Chic-Fil-A/ Bible Study
 ---
 #####59286414 Anonymous: Deuteronomy 27:21
-Deuteronomy 27:21
+`Deuteronomy 27:21`
 “‘Cursed be anyone who lies with any kind of animal.’ And all the people shall say, ‘Amen.’
 
 Guys?!?!
@@ -484,8 +517,8 @@ Hey guys, its Bible Study time.
 Open your Bibles to Genesis 1.
 >"In the beninging. In the benin...In the beningi...In the benignig..."
 Just kidding.
-Open your Bibles to the New Testament, Matthew 25:14.
-I will now read to you all the Parable of the Talents.
+Open your Bibles to the `New Testament, Matthew 25:14.`
+I will now read to you all the `Parable of the Talents.`
 
 >For it will be as when a man going on a journey called his servants and entrusted to them his property;
 >to one he gave five talents, to another two, to another one, to each according to his ability. Then he went away.
@@ -530,29 +563,29 @@ Adam & Eve, when they ate the fruit, brought the curse of death on the whole Wor
 However, Jesus Christ - The Sinless Man, the curse of death should (by law) have never touched him. The death of Christ dammed Satan (because he committed murder), and bought freedom for mankind.
 
 >44 Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
-John 8:44
+`John 8:44`
 
 >31 Now is the judgment of this world: now shall the prince of this world be cast out. 32 And I, if I be lifted up from the earth, will draw all men unto me.
-John 12:31-32
+`John 12:31-32`
 
 >26 Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot. 27 And when Judas had taken the morsel, Satan entered into him. Then Jesus said to Judas, “What you are about to do, do quickly.”
-John 13:26-27
+`John 13:26-27`
 
 >I will no longer talk much with you, for the ruler of this world is coming. He has no claim on me,
-John 14:30
+`John 14:30`
 
 >11 Of judgment, because the prince of this world is judged.
-John 16:11
+`John 16:11`
 
 >16 By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.
-Ezekiel 28:16
+`Ezekiel 28:16`
 
 >10 And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
-Revelation 12:10
+`Revelation 12:10`
 
 #####54330649 Anonymous: Matthew 8:20
 "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head." -
-Matthew 8:20
+`Matthew 8:20`
 
 #####54328733 Anonymous: Judges 15:3-5
 Where was Averi during the book of revelations?
@@ -561,7 +594,7 @@ Where was Averi during the book of revelations?
 ######54328976 Anonymous
 \>>54328733
 Not revalations but next best thing
-Judges 15:3-5
+`Judges 15:3-5`
 Samson then said to them, “This time I shall be blameless in regard to the Philistines when I do them harm.” Samson went and caught three hundred foxes, and took torches, and turned the foxes tail to tail and put one torch in the middle between two tails. When he had set fire to the torches, he released the foxes into the standing grain of the Philistines, thus burning up both the shocks and the standing grain, along with the vineyards and groves.
 
 ---

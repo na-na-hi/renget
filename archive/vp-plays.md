@@ -229,7 +229,7 @@ https://arch.b4k.co/vp/thread/52482468/ 12 the very definitely final dungeon
 https://arch.b4k.co/vp/thread/52514761/ discussion thread
 
 ##Pokemon Violet
-!!! warning Status: missing namefag
+!!! warning Status: missing namefag (probably dead now)
     Probably the first LP of a first party Pokemon game in recent memory, this was a short playthrough that ended about 3 threads in because the namefag running this playthrough disappeared after 3 threads.
 	Because the official games are generally considered too easy, the namefag doing this playthrough set a few self imposed challenges, notably:
 	>Only 1 move per pokemon at a time

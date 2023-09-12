@@ -8,7 +8,7 @@ Her most recent memory lends to her having a knack for rescuing, so she plays to
 She can be abrasive at times but seems to truly care where it matters. Sometimes even she has trouble reconciling this.
 “That’s private and crossing the line! If you know so much about me, why don’t you fill in my lost memories?!”
 Like she said, she’ll figure something out.
-
+![°△°](https://media.discordapp.net/attachments/396824776762720266/1150956552224784404/Wallis_Debut_Avatar_.png)
 
 · | ->· ->
 ---- | ----

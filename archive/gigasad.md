@@ -1,10 +1,9 @@
 Gigasad's bots
 
-Characters marked with a * are ones I know have been converted to different formats by other users. Thanks to anyone who went to the trouble. I only make original characters and don't use the pygmalion booru, characterhub, venus or other aggregate sites so if you see something of mine reuploaded there it's someone else's conversion, or an edit. I don't care that much where my bots end up, but would appreciate a credit.
+https://www.chub.ai/users/gigasad
+I've started using characterhub, and will be uploading feature-complete cards and alternate art for my bots there. Some outdated ports and CAI links will stay here until all of my V2 upgrades are done.
 
-Characters with images embedded are ones I've either converted myself, or were purpose-built with character cards in mind. The new ports of old bots contain significantly rewritten defs and new content so they aren't necessarily replacements for the originals, just alternatives. The current crop of cards were tested with GPT-4 at default settings. 
-
-Update: The *** in newer cards' dialogue samples section is an adaptation for NovelAI's Kayra 1.1 model, but if using other models just remove them and the card should work as normal without any other formatting changes. For better responses from Kayra I recommend adding the line [Style: chat, sensory, slice-of-life] to your main prompt/jailbreak.
+The new ports of old bots contain significantly rewritten defs and new content so they aren't necessarily replacements for the originals, just alternatives. The *** in newer cards' dialogue samples section is an adaptation for NovelAI's Kayra 1.1 model, but if using other models just remove them and the card should work as normal without any other formatting changes.
 
 My unlisted CAI bots will always have their definitions open and available for whoever wants to try porting them to other programs. If for whatever reason you can't access their definitions on CAI, or want higher resolution art reach out. I keep up-to-date backups of everything you see here. I consider CAI deprecated and won't be supporting them anymore, but will leave the old defs and artwork as they are if you prefer the old CAI versions.
 

@@ -14,6 +14,7 @@
 ##Female Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![Twoey](https://files.catbox.moe/15aarh.png)   | **Audrey II** | Your strange houseplant has taken on the form of a human girl, and demands blood! | [chub](https://www.chub.ai/characters/crustcrunch/audrey-ii-d74cbbaf/main), [catbox](https://files.catbox.moe/15aarh.png)
 ![sexy lady big tall](https://files.catbox.moe/anpft4.png)   | **Natsuko** | (V2) 2 greetings. Your tall, bratty kouhai who likes to bully you. | [chub](https://www.chub.ai/characters/crustcrunch/natsuko-602e0138/main), [catbox](https://files.catbox.moe/anpft4.png)
 ![sexy lady big boob](https://files.catbox.moe/7hfhji.png)   | **Thomasin** | (V2) A feisty bar wench who loves to cuss and fight. | [chub](https://www.chub.ai/characters/crustcrunch/thomasin-4b1c30a8/main), [catbox](https://files.catbox.moe/7hfhji.png)
 ![my farm waifu](https://files.catbox.moe/l4jz9e.png)   | **Karen** | (V2) The carefree bachelorette from Harvest Moon: Friends of Mineral Town. Includes a Mineral Town lorebook. I also converted her in-game sprites into an expression pack. | [chub](https://www.chub.ai/characters/crustcrunch/411ed6cb-8945-4db2-bafc-b8a4b5ce1d97), [catbox](https://files.catbox.moe/l4jz9e.png), [expressions](https://files.catbox.moe/d56j08.zip)

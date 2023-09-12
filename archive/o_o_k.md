@@ -74,6 +74,13 @@ hyaku (GAY!!!)
 MarquessBronze
 ![](https://pbs.twimg.com/media/FOG8L0mXwAM9AyR?format=jpg&name=small) ![](https://pbs.twimg.com/media/FwtB96jWwAA1BCO?format=jpg&name=small)
 
+#MonkAI Bots
+>SillyTavern Zira AI bot
+https://www.chub.ai/characters/adhganon84821/Zira/main
+
+>Lacy (Carol) AI bot
+https://www.chub.ai/characters/adhganon84821/lacy-0b15bb5d
+
 
 #Monke Hentai
 >Snow Monkey/Yeti Futa Comic by Alek ErectSociety

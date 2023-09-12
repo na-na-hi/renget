@@ -1,7 +1,7 @@
 # GGR89's Card Repository
 ->![We do a little fighting.](https://cdn.donmai.us/original/cc/6d/__kaga_kantai_collection_drawn_by_tsukamoto_minori__cc6dffdd457feebb28fd1977d8f0b800.jpg)<-
 ***
-This is the rentry where I'll be listing my bots out in case Chub gets its shit whacked again. 
+This is the rentry where I'll be listing my bots out in case Chub gets its shit whacked again. Chub links are usually more updated than catbox links, if there's any difference between them that is.
 
 I mostly do **KanColle and Nikke** bots, but I do make cards of other things occasionally. The bots listed here are the public versions and vary slightly (up to moderately) from my personal use ones, if you run into any problems you can bring them up to me.
 

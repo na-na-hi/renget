@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
-https://rentry.org/y4cam
+>Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): 
+https://rentry.org/k2f3c
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -548,6 +548,8 @@ https://rentry.org/fuisbz
 >Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
 >Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
 https://rentry.org/y4cam
+>Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): 
+https://rentry.org/k2f3c
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -678,6 +680,8 @@ Mutants:
 >>89681858
 >Bad Mama Dahmer (A.K.A. Jaqualine Dahmer)
 >>89776605
+>THE BLENDER
+>>90210979
 
 Robots:
 >H0P3
@@ -833,7 +837,7 @@ Build List:
 Writefags:
 >Lesson 1: Diligence(Misao)
 https://rentry.org/dm26u
->Jesterbelle Writefag
+>Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
 https://pastebin.com/4CFMctzq
 ```
 #JRPG (Reboot)
