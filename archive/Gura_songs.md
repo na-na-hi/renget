@@ -3,6 +3,7 @@
 ### Songs
 ->Members<- | ->Date<- | ->Youtube<-
 ---- | ---- | ----
+->🔱-> | ->2023-09-11<- | [![cover](https://files.catbox.moe/1u7f7e.jpg)  Kyoufuu All Back (強風オールバック)](https://www.youtube.com/watch?v=qMQ4P-vI3JI)
 ->🔱🐙⚓️🏴‍☠️🎣-> | ->2023-08-13<- | [![cover](https://files.catbox.moe/sd6zvi.jpg)  おーしゃんうぇーぶ・Party☆らぃ](https://www.youtube.com/watch?v=2v_BFL-kuWs)
 ->🔱-> | ->2023-07-20<- | [![cover](https://files.catbox.moe/7s2pg6.jpg)  blue horizon!!](https://www.youtube.com/watch?v=W7q8cHY91Ew)
 ->🔱🍙-> | ->2023-07-06<- | [![cover](https://files.catbox.moe/v38in0.jpg)  真生活](https://www.youtube.com/watch?v=beFiVQcwVY8)

@@ -292,6 +292,7 @@ discord.gg/stablediffusion
 ##Community Civitai Profiles
 https://civitai.com/user/PWAnon
 https://civitai.com/user/stunningFlesh
+https://civitai.com/user/TouchFluffyTails
 !!! info
 	---------------------------
 ##Bakery

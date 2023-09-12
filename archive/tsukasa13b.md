@@ -1,5 +1,7 @@
 # tsukasa
 
+!!! note now with a log paste! https://rentry.org/tsukasa13blogs
+
 ![fox](https://feen.us/u125a2.gif)
 
 https://huggingface.co/ludis/tsukasa-13b-qlora-limarp
@@ -68,12 +70,10 @@ add `<|user|>`, `<|system|>`, and `<|model|>` to custom stopping strings
 ![agnai](https://feen.us/04f3ph.png)
 ![st](https://feen.us/8lma2q.png)
 
-tail-free sampling:
 `temperature=0.75, Repetition penalty=~1.18, top-p=1, top-k=0, Tail Free Sampling=0.85, Repetition penalty range=0, Microstat Tau=0, Microstat LR (ETA)=1`
 
+^ this is a good starting point works pretty well, there is probably something better and it differs per card, if you find good gen settings pls email me
 i find temp, tfs, and rep pen has greatest impact on output quality
-
-this is just what i found works nice, if you find better gen settings lmk at no1namialuvr@proton.me logs also welcome at same email
 
 ## limarp
 
@@ -82,3 +82,8 @@ since the last dataset the model was tuned on (limarp) includes persona's for bo
 ## the model
 
 trained on unfiltered instruct data then trained on pygma balls data, then on gpt4 rp data from whocars proxy logs, then on limarp. all in metharme format (but completion in axolotl)
+
+## contact
+
+no1namialuvr@proton.me
+logs and gen settings welcome here :)

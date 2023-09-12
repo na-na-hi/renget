@@ -1,5 +1,5 @@
 # CRIKEY'S COOMBOT CORNER
-->![show us ur bot](https://files.catbox.moe/kio2aj.gif)<-
+->![show us ur bot, spread ur bot](https://files.catbox.moe/kio2aj.gif)<-
 ***
 Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but decided to explore the weird and wacky world of chatbots for a bit. I'm rather enjoying my stay, so I figured I might as well share my own bots.
 
@@ -8,7 +8,7 @@ Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but d
 [TOC2]
 ***
 ##Bots
-Still new to botmaking, so not too much to show yet. Got plenty of ideas though, so this'll slowly fill up over time. All my bots can also be found on my [Chub profile.](https://www.chub.ai/users/crikeymcdoodle)
+All my bots can also be found on my [Chub profile.](https://www.chub.ai/users/crikeymcdoodle)
 If you got any logs or feedback or ideas or big anime tiddies you wanna send me, here's my burner: alvinlamberpitch@proton.me
 Image| Name | Description | Link
 ------ | :----: | ------ | :----:
@@ -20,6 +20,8 @@ Image| Name | Description | Link
 ![Alone in this world is a little LamiaLamia!](https://files.catbox.moe/4b8cnv.png) | Tyana and Lycia | It's like CatDog, but lamia twins in high school. Will you date the sporty tomboy, the geeky gamer, or maybe both? Comes with four scenarios: first day at a new school, meeting them during the weekend, date with Tyana and date with Lycia. | [Catbox link](https://files.catbox.moe/4b8cnv.png) [Full-res image](https://files.catbox.moe/2vz16g.png)
 ![NO ONE can write their character blurb like Gaston!](https://files.catbox.moe/7pii9f.png) | Gaston | A group chat character, created to one-up any action another character may be doing. Exists for the sole purpose of proving his superiority and stroking his ego. | [Catbox link](https://files.catbox.moe/7pii9f.png)
 ![The people of Liyue no longer need rely upon their Archon. It is high time I satisfy my own desires.](https://files.catbox.moe/6lurqh.png) | Female Zhongli | For when you want to bang Zhongli but you don't want it to be gay. Works really well with [this](https://www.chub.ai/lorebooks/RavenSama/Teyvat) lorebook. Just make sure to remove the OC entry mentioning Raven. | [Catbox link](https://files.catbox.moe/6lurqh.png) [Full-res image](https://files.catbox.moe/c69tl0.png)
+![Boop! Got your dick!](https://files.catbox.moe/830b25.png) | Tiche | You managed to get an amazing deal on an apartment you're renting. Just a few problems: your landlord is a witch, she detaches your dick and regularly harvests your semen as an ingredient for her potions. Probably my biggest and most complex bot to date. I tried my best to proof it as much for MythoMax as possible. Based on [this](https://e-hentai.org/g/1944762/6d3b3ef63f/) doujin by Oohira Sunset. | [Catbox link](https://files.catbox.moe/830b25.png) [Full-res image](https://files.catbox.moe/altgd1.png)
+
 
 ***
 ##Proompts

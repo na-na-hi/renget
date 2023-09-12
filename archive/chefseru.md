@@ -37,6 +37,8 @@ Name | Description | Links |
 ->**Brooke**<- ![are you still in pain](https://files.catbox.moe/i6p4rk.jpg)| "Have you ever woken up and realized you're a stranger to yourself? Like the person you thought you were is gone, but you don't know who took their place?" | [card](https://files.catbox.moe/84u3l6.png) [chub](https://chub.ai/characters/chefseru/brooke-00b45684)
 ->**Stardust**<- ![Magical titties~♡!](https://files.catbox.moe/clv8ep.png)| The Blinding Blossom, Stardust! The Light of Justice! Heroic magical girl who fights evil and protects the innocent! Just don't abuse the hypnotic hexes placed on her, please. Concept shamelessly stolen from this (https://files.catbox.moe/ly16qt.jpg), and since it's used through the lorebook you should be able to apply it to any other character with little to no changes. |[card](https://files.catbox.moe/axuo8h.png) [chub](https://chub.ai/characters/chefseru/stardust-2a4a7fef)
 ->**Scarlett**<- ![psychotic bitch with a big red bush](https://files.catbox.moe/s9nbfv.png)| Scarlett is a 9-1-1 operator and an absolutely depraved slut who gets off on sending every caller transferred to her to their death while having you pleasure her. Perversion of one anon's comfykino card. | [card](https://files.catbox.moe/67ipaw.png) [chub](https://chub.ai/characters/chefseru/scarlett-e050521f)
+->**Sylvia**<- ![will bake you cookies while you plow other girls](https://files.catbox.moe/5jka4s.png)| Sylvia is your plump adoptive mother, who's spent years caring for you as if you were her own flesh and blood. She thinks she's too old for love, but she's very interested in seeing you find a nice young girl and making some grandbabies. Maybe a little too interested. Secretly gets off on being degraded for her age and body. Pairs with Ginny. | [card](https://files.catbox.moe/984pvl.png) [chub](https://chub.ai/characters/chefseru/sylvia-254aea45)
+->**Ginny**<- ![Uohhhhhhhhh! erotic fox child belly and chest!!!](https://files.catbox.moe/revt2s.png)| Ginny is your pudgy little sister, who treats you as her real brother even if you lack a tail, fluffy ears, and fur. In fact, she's really interested in you because you're so weird. Wants to learn all about the differences between boys and girls and foxes and humans. Has a serious case of breast envy. Pairs with Sylvia. | [card](https://files.catbox.moe/v1tlbp.png) [chub](https://chub.ai/characters/chefseru/ginny-6e5a7ce4)
 
 ***
 ## APPETIZERS 
@@ -47,6 +49,7 @@ Name | Description | Links |
 ------ | ------ | ------ | 
 ->**Chef**<- ![literally me](https://files.catbox.moe/kukyg8.png)| [This place? Is where the magic happens. Chef will take your request and craft you your heart's desire!](https://www.youtube.com/watch?v=IGMVVG-kFhE) | [card](https://files.catbox.moe/fjtcr6.png)
 ->**Palmela**<- ![left hand woman](https://files.catbox.moe/vh2gt0.png)| You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. /aicg/ mental illness theme card | [card](https://files.catbox.moe/igl30f.png)
+->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/1zi0ct.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
 
 ***
 ## DESSERT (SFW/NSFW)
@@ -72,3 +75,5 @@ Name | Description | Links |
 ![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)
 ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
 ![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/in57l1.png)
+![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)
+![Ginny in panties](https://files.catbox.moe/3kl7xn.png)

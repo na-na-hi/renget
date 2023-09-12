@@ -7,7 +7,7 @@
 ##->https://www.chub.ai/users/Nuggest<-
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
-I usually set up my cards like novel intros. There's a much higher chance that my bots will go shizo than others. Example dialogue will usually mitigated that problem. Or simply put something like [Do not write dialogue or actions for me] into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. Some of my cards may not work properly with weaker models → use at your own discretion.
+I usually set up my cards like novel intros. ==There's a much higher chance that my bots will go shizo than others.== Example dialogue will usually mitigated that problem. Or simply put something like **[You are forbidden from controlling {{user}} and writing his dialogue.]** into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. Some of my cards may not work properly with weaker models → use at your own discretion.
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, and male/futa cards.

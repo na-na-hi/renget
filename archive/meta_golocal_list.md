@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-09-01)==<-
+->==(Updated 2023-09-03)==<-
 ***
 [TOC2]
 ***
@@ -17,6 +17,8 @@ https://rentry.org/colabfreellamas
 - guide on how to set up a local model either for yourself or for others - `free` on colab (paid available but overpriced: vast\.ai, paperspace or runpod suggested instead)
 (~~see https://desuarchive.org/g/thread/95578945#95579604 for the updated colab script until anon updates the rentry~~ updated)
 
+***
+#####More guides
 https://vast.ai/docs/guides/oobabooga
 - guide on how to set up a local model either for yourself or for others - `paid` (anon was shilling this, no idea how much it costs)
 
@@ -29,12 +31,15 @@ https://rentry.org/llama_v2_sillytavern
 https://rentry.org/better-llama-roleplay
 - stolen from /lmg/, listed there under "LLaMA RP Proxy"
 
+https://rentry.org/stheno-guide
+- from /lmg/, model-specific guide for Stheno-L2-13B with SimpleProxy after making it work using aforementioned guides
+
 ***
 #####Ayumi's LLM Role Play & ERP Ranking
 https://rentry.org/ayumi_erp_rating
 - stolen from /lmg/, just grab the model currently listed as best here, accounting for available computing power or desired speed (7B, 13B, more)
 ![pic 23.08.2023, also thanks, Weird Constructor](https://files.catbox.moe/o6cmri.png)
-->pic is old<-
+->`pic is very old!`<-
 
 
 

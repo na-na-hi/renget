@@ -96,6 +96,9 @@ https://avakson.github.io/character-editor
 https://nolialsea.github.io/Wpp/
 - ancient obsolete W++ formatting helper
 
+https://www.notion.so/
+- markdown wiki website with great UX, great to organize project ideas, has live editing and section-commenting so can be used for collaboration
+
 ***
 
 !!! info

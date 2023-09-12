@@ -7,6 +7,7 @@
 [Tuning Guide](https://rentry.org/llm-training)|For finetuning/lora and general LLM basics
 [Anon's QLoRA Runpod Trainer](https://hub.docker.com/r/reilgun/runpod-qlora-trainer)|This container lets you easily train a LLM QLoRA on runpod.io
 [Anon's LLaMa roleplay guide](https://rentry.org/better-llama-roleplay)|For longer outputs more conducive to roleplay in TavernAI
+[Local LLM Settings Guide](https://rentry.org/llm-settings)|For LLaMa 1/2 and various finetunes
 |
 **Models**|
 [Huggingface](https://huggingface.co/models?other=llama)|Generally the best place to find models (link for LLaMA models) 

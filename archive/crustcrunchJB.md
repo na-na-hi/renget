@@ -24,7 +24,8 @@ This document is subject to change / expand as I experiment with more jailbreaks
     When copy/pasting the prefill, make sure there is **one space** after the colon.
 
 !!! danger UPDATE:
-	The pozzed key method outlined here is out of date and may no longer work. Further testing is needed, I will try to update it when I find time.
+	The pozzed key method outlined here is out of date and may no longer work. Further testing is needed.
+	Update 9/11/23: No Claude access at the moment, so I can't test new methods. This method may or may not work.
 ***
 
 ## Basic Claude 2 Jailbreak

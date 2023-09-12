@@ -23,6 +23,16 @@
     ->Others <-
 -> ![Deutsche Bahn AZX](https://imgur.com/Xc6UQAm.png) ![nyoooo](https://imgur.com/sFOjWsD.png) <-
      
+## -> Book covers <-
+->![the final solution to the cunny question](https://i.imgur.com/aFDtY1l.png) <-
+
+->![classical cunny tale](https://i.imgur.com/XRQAQcN.png) <-
+
+->![the secret cunny society](https://i.imgur.com/hChcjIJ.png) <-
+
+->![rough BDSM](https://i.imgur.com/WHEVBPp.png) <-
+
+->![Breeding Bridposter](https://i.imgur.com/sClSciH.png) <-
 
 ## -> Art Exhibit  <-
 -> ![pe](https://imgur.com/mcs4Ao0.jpg) 

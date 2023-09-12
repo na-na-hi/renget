@@ -61,13 +61,11 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 ***
 *Hall of Fame*
 • Aful Performer5 (bassy neutral) - $220
-• Moondrop x Crinacle Blessing2:Dusk (Harman) - $330
+• Kiwi Ears Quintet (Harman) - $220
 • Xenns Mangird Tea2 (bassy neutral) - $350
 • Yanyin Canon (V-shape) - $350
-• Aful Performer8 (neutral) - $370
 
 *Honorable Mentions*
-• Kiwi Ears Quintet (Harman) - $220
 • Hisenior Mega5P Ultra (bassy neutral) - $240
 • JQ 4U Pro (bassy neutral) - $240
 • Kiwi Ears Orchestra Lite (neutral) - $250
@@ -75,6 +73,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Thieaudio Hype 2 (bassy neutral) - $300
 • Moondrop Blessing3 (bright neutral) - $320
 • SeeAudio Bravery RB (mild V) - $320
+• Aful Performer8 (neutral) - $370
 • Yanyin Canon II (V-shape) - $380
 
 ##Audiofool IEMs ($450 - $1000)
@@ -101,7 +100,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tanchjim Zero (bright neutral) - $15
 • Final E500 (dark neutral) - $25 
 • Tanchjim Tanya DSP (bassy Harman) - $25 
-• Tanchjim One DSP (neutral) - $30
+• Tanchjim One DSP (mild V) - $30
 • Etymotic ER2XR (bassy neutral) - $100
 
 *Honorable Mentions*

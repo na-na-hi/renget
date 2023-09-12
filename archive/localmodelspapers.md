@@ -353,6 +353,7 @@
 09/2023|[SLiMe: Segment Like Me](https://arxiv.org/abs/2309.03179)
 09/2023|[Norm Tweaking: High-performance Low-bit Quantization of Large Language Models](https://arxiv.org/abs/2309.02784)
 09/2023|[When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale](https://arxiv.org/abs/2309.04564)
+09/2023|[Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs](https://arxiv.org/abs/2309.05516)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

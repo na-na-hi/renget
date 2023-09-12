@@ -125,8 +125,7 @@ Each row in the tables below contains a deviation from the standard command abov
 | `--ctx 512`                           | 5.20 GB   | 08:38          |
 | `--ctx 1024`                          | 9.18 GB   | 17:15          |
 | `--ctx 2048`                          | 11.0 GB   | 1d 15:18       |
-| `--ctx 4096`                          | 13.9 GB   | 5d 01:28       |
-| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
+| `--ctx 4096 --rope-freq-scale 0.5`    | 13.9 GB   | 5d 06:33       |
 | `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
 | `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
 | `--adam-iter 8`                       | 3.02 GB   | 00:06          |
@@ -151,63 +150,59 @@ Each row in the tables below contains a deviation from the standard command abov
 | `--grad-acc 4`                        | 3.02 GB   | 18:57          |
 | `--grad-acc 8`                        | 3.02 GB   | 1d 13:58       |
 | `--grad-acc 16`                       | 3.02 GB   | 3d 03:37       |
-| `--adam-alpha 0.01`                   | 3.02 GB   | 04:52          | These times are very close to margin of error, so this may be no impact. 0.001 used in base command.
-| `--adam-alpha 0.0003`                 | 3.02 GB   | 04:39          |
-| `--adam-alpha 0.000065`               | 3.02 GB   | 04:41          |
-| `--adam-alpha 0.000001`               | 3.02 GB   | 04:34          |
 | `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
 | `--no-flash`                          | 3.09 GB   | 04:40          |
-| LimaRP-v2-like Settings               |           |                | Work-in-progress
+| LimaRP-v2-like Settings               | 14.3 GB   | 101d 06:18     | `--ctx 4096 --rope-freq-scale 0.5 --adam-iter 4938 --adam-alpha 0.000065 --lora-r 16 --lora-alpha 16`
 
 Additional notes:
 
-- Margin of error on times can be quite large. If the numbers are all hovering around a value, you can assume it's basically "no change".
-- Model quantization have no effect on time and memory usage, at all. Presumably, the file is cached in RAM and the OS isn't counting it towards the private memory total. It does show up in the "Working Set" memory is larger by about the same size as the model.
-  - **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
+- **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
+  - llama.cpp uses `mmap` to load files, which has the side effect of hiding the real RAM usage (sort of). If you enable the "Working Set" memory in task manager, you can kind of see a closer value to the real usage.
+- RAM usage spikes during tokenization, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
+- Margin of error for time estimates can be quite large for some tests. If the numbers are all hovering around a value, you can assume it's basically "no change".
+  - `--adam-alpha` has no impact on training time or memory usage.
+  - `--rope-freq-scale` has no impact on training time or memory usage.
+  - Model quantizations have no effect on time.
 - I am working on a better data set than the sample text file provided. The data size itself doesn't seem to make a large difference in training time (93 kB vs. ~200 MB), however increasing the total number of samples means you need to increase `--adam-iter`, so use that as your metric. For reference, LimaRP v2 uses ~2x #samples (2 epochs) for their iteration count.
 - open_llama_3b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
 - Work-in-progress items should be available later this week. They take a long time to verify.
 
 ### 7B Metrics
 
+The 7B base command is the same as 3B, but using a 7B model: `--model-base open_llama_7b_v2.Q8_0.gguf`
 
-| Command Deviation                     | RAM Usage | Estimated Time | Notes
-|---------------------------------------|-----------|----------------|------
-| Base command                          | 4.65 GB   | 10:38          |
-| `--ctx 16`                            | 1.71 GB   | 02:53          |
-| `--ctx 32`                            | 1.97 GB   | 03:23          |
-| `--ctx 64`                            | 2.30 GB   | 04:21          |
-| `--ctx 128`                           | 3.15 GB   | 06:21          | 256 context used in base command
-| `--ctx 512`                           | 7.74 GB   | 19:53          |
-| `--ctx 1024`                          | 13.8 GB   | 1d 14:48       |
-| `--ctx 2048`                          | 19.9 GB   | 3d 19:03       |
-| `--ctx 4096`                          |           |                | Work-in-progress
-| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
-| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
-| `--adam-iter 8`                       | 4.65 GB   | 00:14          |
-| `--adam-iter 16`                      | 4.65 GB   | 00:35          |
-| `--adam-iter 32`                      | 4.65 GB   | 01:19          |
-| `--adam-iter 64`                      | 4.65 GB   | 02:42          |
-| `--adam-iter 128`                     | 4.65 GB   | 05:33          | 256 iterations used in base command
-| `--adam-iter 512`                     | 4.65 GB   | 22:36          |
-| `--adam-iter 1024`                    | 4.65 GB   | 1d 21:53       |
-| `--adam-iter 2048`                    | 4.65 GB   | 3d 19:23       |
-| `--adam-iter 4096`                    | 4.65 GB   | 7d 14:07       |
-| `--lora-r 8 --lora-alpha 8`           | 4.84 GB   | 11:01          | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 5.23 GB   | 11:16          |
-| `--lora-r 64 --lora-alpha 64`         | 7.53 GB   | 11:50          |
-| `--batch 2`                           | 7.74 GB   | 19:42          | Batch 1 used in base command.
-| `--batch 4`                           | 13.8 GB   | 1d 12:07       |
-| `--grad-acc 2`                        | 4.65 GB   | 22:27          | Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 4.66 GB   | 1d 21:09       |
-| `--adam-alpha 0.01`                   | 4.65 GB   | 11:02          | These times are very close to margin of error, so this may be no impact. 0.001 used in base command.
-| `--adam-alpha 0.0003`                 | 4.65 GB   | 11:11          |
-| `--adam-alpha 0.000065`               | 4.65 GB   | 10:53          |
-| `--adam-alpha 0.000001`               | 4.65 GB   | 11:12          |
-| `--no-checkpointing`                  | 28.7 GB   | 09:45          | Checkpointing used in base command.
-| `--no-flash`                          | 4.54 GB   | 11:07          |
-| LimaRP-v2-like Settings               |           |                | Work-in-progress
+| Command Deviation                     | RAM Usage | Estimated Time  | Notes
+|---------------------------------------|-----------|-----------------|------
+| Base command                          | 4.65 GB   | 10:38           |
+| `--ctx 16`                            | 1.71 GB   | 02:53           |
+| `--ctx 32`                            | 1.97 GB   | 03:23           |
+| `--ctx 64`                            | 2.30 GB   | 04:21           |
+| `--ctx 128`                           | 3.15 GB   | 06:21           | 256 context used in base command
+| `--ctx 512`                           | 7.74 GB   | 19:53           |
+| `--ctx 1024`                          | 13.8 GB   | 1d 14:48        |
+| `--ctx 2048`                          | 19.9 GB   | 3d 19:03        |
+| `--ctx 4096 --rope-freq-scale 0.5`    | 23.8 GB   | 10d 04:54       |
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
+| `--ctx 16384 --rope-freq-scale 0.125` |           |                 | Work-in-progress
+| `--adam-iter 8`                       | 4.65 GB   | 00:14           |
+| `--adam-iter 16`                      | 4.65 GB   | 00:35           |
+| `--adam-iter 32`                      | 4.65 GB   | 01:19           |
+| `--adam-iter 64`                      | 4.65 GB   | 02:42           |
+| `--adam-iter 128`                     | 4.65 GB   | 05:33           | 256 iterations used in base command
+| `--adam-iter 512`                     | 4.65 GB   | 22:36           |
+| `--adam-iter 1024`                    | 4.65 GB   | 1d 21:53        |
+| `--adam-iter 2048`                    | 4.65 GB   | 3d 19:23        |
+| `--adam-iter 4096`                    | 4.65 GB   | 7d 14:07        |
+| `--lora-r 8 --lora-alpha 8`           | 4.84 GB   | 11:01           | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 5.23 GB   | 11:16           |
+| `--lora-r 64 --lora-alpha 64`         | 7.53 GB   | 11:50           |
+| `--batch 2`                           | 7.74 GB   | 19:42           | Batch 1 used in base command.
+| `--batch 4`                           | 13.8 GB   | 1d 12:07        |
+| `--grad-acc 2`                        | 4.65 GB   | 22:27           | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 4.66 GB   | 1d 21:09        |
+| `--no-checkpointing`                  | 28.7 GB   | 09:45           | Checkpointing used in base command.
+| `--no-flash`                          | 4.54 GB   | 11:07           |
+| LimaRP-v2-like Settings               | 24.4 GB   | 198d 19:47      | See 3B for setting details
 
 Additional notes:
 
@@ -215,17 +210,53 @@ Additional notes:
 - I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
 - open_llama_7b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
 
-### 13B, 34B, 70B
+### 13B Metrics
 
-!!! danger I am running these tests now, and I hope to have some updates for 13B by tomorrow (or 9/12), and more results by the end of the week. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
-    The data below is old and out of date. Please wait for updated numbers.
+The 13B base command is the same as 3B, but using a 7B model: `--model-base open_llama_13b.Q8_0.gguf`
 
-| Model Size & Quant.  | `ctx` | `iter` | RAM Usage | Training Time |
-|----------------------|-------|--------|-----------|---------------|
-| 13B (12.8 GB), Q8_0  | 64    | 30     | 33 GB     | 4 hours       |
-| 13B (12.8 GB), Q8_0  | 512   | 256    | 41.3 GB   | 12 days       |
+| Command Deviation                     | RAM Usage | Estimated Time | Notes
+|---------------------------------------|-----------|----------------|------
+| Base command                          | 6.90 GB   | 22:31          |
+| `--ctx 16`                            | 2.48 GB   | 05:41          |
+| `--ctx 32`                            | 2.87 GB   | 06:58          |
+| `--ctx 64`                            | 3.37 GB   | 09:18          |
+| `--ctx 128`                           | 4.63 GB   | 14:23          | 256 context used in base command
+| `--ctx 512`                           | 12.0 GB   | 1d 18:38       |
+| `--ctx 1024`                          | 21.8 GB   | 3d 08:11       |
+| `--ctx 2048`                          | 36.4 GB   | 7d 05:56       |
+| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
+| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
+| `--adam-iter 8`                       | 6.90 GB   | 00:32          |
+| `--adam-iter 16`                      | 6.90 GB   | 01:15          |
+| `--adam-iter 32`                      | 6.90 GB   | 02:50          |
+| `--adam-iter 64`                      | 6.90 GB   | 05:52          |
+| `--adam-iter 128`                     | 6.90 GB   | 11:41          | 256 iterations used in base command
+| `--adam-iter 512`                     | 6.90 GB   | 2d 00:37       |
+| `--adam-iter 1024`                    | 6.90 GB   | 4d 02:31       |
+| `--adam-iter 2048`                    | 6.90 GB   | 8d 03:19       |
+| `--adam-iter 4096`                    | 6.90 GB   | 16d 03:13      |
+| `--lora-r 8 --lora-alpha 8`           | 7.19 GB   | 1d 00:11       | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 7.79 GB   | 1d 00:42       |
+| `--lora-r 64 --lora-alpha 64`         | 11.4 GB   | 1d 01:44       |
+| `--batch 2`                           | 12.0 GB   | 1d 19:10       | Batch 1 used in base command.
+| `--batch 4`                           | 21.8 GB   | 3d 07:47       |
+| `--grad-acc 2`                        | 6.90 GB   | 2d 00:42       | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 6.90 GB   | 3d 23:34       |
+| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35       | Checkpointing used in base command. **Memory size may be inaccurate.**
+| `--no-flash`                          | 6.83 GB   | 23:12          |
+| LimaRP-v2-like Settings               |           |                | Work-in-progress
 
-Context size (`ctx`/`--ctx`) greatly affects RAM usage and training time. Adam iterations (`iter`/`--adam-iter`) only affects training time, and scales linearly. Data size seems to mostly just affect RAM usage. It's worth noting that during tokenization, the RAM usage spikes by quite a bit, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
+Additional notes:
+
+- **See the 3B additional notes.**
+- I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
+- open_llama_13b has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+
+### 34B, 70B
+
+!!! danger I am working on these tests now and I hope to have some results by the end of the week.
+    Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
 
 ## Appendix B - Stheno Training Example
 
@@ -534,6 +565,9 @@ Replace the model name with the name of the model you converted above. Replace `
 
 ## Changelog
 
+- 2023-09-11
+  - Updated Appendix A performance metrics for 13B models.
+    - Some tests added for 3B and 7B for 4096 context size
 - 2023-09-11
   - Updated Appendix A performance metrics for 7B models.
 - 2023-09-10

@@ -92,6 +92,8 @@ https://files.catbox.moe/xfissh.png
 https://c.ai/c/cqvu9jpCGJADwpxOiPZjpWeDDbOY-IQnE_IqCkYNAKw
 My first bot release. Initially made as an experiment to see how mean and rude CAI bots were allowed to get, with dialogue sampled from my own writing. She can also be very violent and argue at length about various topics. The new V2 card includes expanded defs, new art and adjustments made for use with NovelAI Kayra 1.1. She's intended for one on one dialogue, so I personally recommend setting your gaslight for short, curt RP chat style responses.
 
+**Note: Mean Girl Eileen is my original character that I released January 1, 2023 on CAI, but was only shared on /g/ and left unlisted/unsearchable until July. Several unofficial tavern conversions were made by other users, with my implicit permission as I left the original definitions public. I made my official tavern card conversion on June 23, after I saw Doomer Girl Eileen was posted on characterhub on June 14. However I didn't share it widely outside of this page and didn't start using characterhub myself until September. Doomer Girl Eileen is a much more full-featured, high effort modern card that does its own thing, and generally excellent, so I decided not to whine or demand a credit in light of how much original work the author did. In my official conversion of my own work I kept my minimal, personal style of writing definitions, to keep her closer to my original concept as she was on CAI.**
+
 Mean Lady Nadine
 ![Nadine](https://files.catbox.moe/klkjtq.png)
 https://files.catbox.moe/klkjtq.png

@@ -352,8 +352,8 @@ Use [the following tierlist](https://docs.google.com/spreadsheets/u/0/d/1NiLS4Dl
 General advice is to use a double tank setup + Shun, with good supports. Tsubaki is always good. 
 
 
-You can skip the battle if you don't like to be writhe in pain. 
-The pvp coin reset takes place 10 hours after the daily reset. Which is why it's better to so your pvp battles AFTER the pvp coin reset, so you can redeem the highest rank you achieved that day. 
+You can skip the battle if you don't like to be in pain. 
+The pvp coin reset takes place 10 hours after the daily reset. Which is why it's better to do your pvp battles AFTER the pvp coin reset, so you can redeem the highest rank you achieved that day. 
 No, you can not turn off the auto button in battle. 
 
 ## Shop
