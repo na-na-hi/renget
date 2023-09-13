@@ -83,6 +83,8 @@ since the last dataset the model was tuned on (limarp) includes persona's for bo
 
 trained on unfiltered instruct data then trained on pygma balls data, then on gpt4 rp data from whocars proxy logs, then on limarp. all in metharme format (but completion in axolotl)
 
+cards with natural language for their personas as opposed to something like W++ will give you much better outputs
+
 ## contact
 
 no1namialuvr@proton.me

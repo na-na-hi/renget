@@ -117,6 +117,7 @@
 [BLoRa](https://github.com/sabetAI/BLoRA)|Maximize GPU util by routing inference through multiple LoRAs in the same batch
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
+[Madlad400 MT Models](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [HIPIE](https://github.com/berkeley-hipie/HIPIE)|HIerarchical, oPen-vocabulary and unIvErsal image segmentation and detection model using SAM
 [TART](https://github.com/HazyResearch/TART)|Task-agnostic reasoning modules to improve in-context learning performance for classification tasks
 [Shell GPT](https://github.com/TheR1D/shell_gpt)|Command-line productivity tool works though OpenAI API (local with Basaran) 

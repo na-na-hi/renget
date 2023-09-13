@@ -37,4 +37,4 @@ As far as streaming content goes, ASMR was the first thing cited as the possible
 
 |Date|Nature|Link & Thumbnail|Notes|Duration|
 | ------ | ------ | ------ | ------ | ------ |
-|13/09/2023 | Content planification / likely Zatsudan | 【Members Only~】Let's get to know each other a little better, okay? 🎼[![](https://img.youtube.com/vi/SCvkxYeO2cE/maxresdefault.jpg)](https://www.youtube.com/watch?v=SCvkxYeO2cE) [Thumbnail Source](https://twitter.com/_se_t_/status/1696180839464263858)  | ------ | ------ |
+|13/09/2023 | Future content planning / Zatsudan | 【Members Only~】Let's get to know each other a little better, okay? 🎼[![](https://img.youtube.com/vi/SCvkxYeO2cE/maxresdefault.jpg)](https://www.youtube.com/watch?v=SCvkxYeO2cE) [Thumbnail Source](https://twitter.com/_se_t_/status/1696180839464263858)  | ------ | ------ |

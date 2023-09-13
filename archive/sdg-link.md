@@ -293,7 +293,8 @@ discord.gg/stablediffusion
 https://civitai.com/user/PWAnon
 https://civitai.com/user/stunningFlesh
 https://civitai.com/user/TouchFluffyTails
+https://civitai.com/user/realisticElves
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 5th - https://pastebin.com/tWRqeGmf
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 13th - https://pastebin.com/TjqXn4Vt

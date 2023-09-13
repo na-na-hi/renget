@@ -11,6 +11,8 @@ This is the still relatively fresh library of /ope/, the Nerissa Ravencroft Gene
 https://www.youtube.com/@NerissaRavencroft
 >Nerissa's Twitter
 https://twitter.com/nerissa_en
+>Filter to access /ope/
+https://boards.4channel.org/vt/catalog#s=/ope/
 >Debut Stream (on 30/31.07.2023) & Crunchyroll interviews.
 [![](https://files.catbox.moe/8oyixc.jpg)](https://www.youtube.com/watch?v=gg3SrFzHn9M)
 https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview

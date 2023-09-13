@@ -189,7 +189,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |11/09/2023|[Link](https://www.youtube.com/watch?v=cGBbWdQCgao)|**Drawing / redesign** - IoSalon involving Nerissa (IoSalon is a redesign stream by Iofi for holomem haircuts). The stream starts with Nerissa's redesign.|
-|12/09/2023|[Link](https://youtu.be/euy-trPyDvU)|**Collab** - Drwing collab where Iofi should teach Nerissa how to draw with a mouse|
+|12/09/2023|[Link](https://youtu.be/euy-trPyDvU)|**Collab** - Doodling & chatting collab with Iofi. The stream gimmick was that both Nerissa and Iofi would draw with their mouse.|
 
 ###### 🧟‍ Ollie
 |Date|Link|Nature & Notes|

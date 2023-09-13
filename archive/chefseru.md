@@ -76,4 +76,4 @@ Name | Description | Links |
 ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
 ![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/in57l1.png)
 ![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)
-![Ginny in panties](https://files.catbox.moe/3kl7xn.png)
+![Ginny in panties](https://files.catbox.moe/eagl4q.png)

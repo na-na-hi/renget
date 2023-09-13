@@ -6,7 +6,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 #### Currently serving:
 
 **Model: Mythomax-l2-q4 scaled to 8k**
-**Hardware: RTX 3090, throttled**
+**Hardware: RTX 3090**
 
 Blocking API URL: ```N/A```
 
@@ -29,7 +29,7 @@ Streaming: Off
 Unlock context size (in ST)
 Context: 8192
 New Tokens: 320 - optimal for 13b llamas, use "Continue" button if the reply gets cut off
-Temperature: 0.7 - 1
+Temperature: 0.7 - 1 - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
 Rep. pen: 1.05 - 1.1 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: 1444 - how many previous tokens to scan for repetition
 Top_p: 0.9 - top percentage of best tokens to select from

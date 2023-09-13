@@ -1,5 +1,5 @@
-[← Main page](https://rentry.co/CharacterProvider) / Guide to Botmaking | -> [Show my settings](https://rentry.co/CharacterProvider/#settings) ->
- |
+-> [🐤 Main page](https://rentry.co/CharacterProvider) <- | -> [💾 Versions](https://rentry.co/CharacterProvider#choose-prefered-version) <- | -> [My characters](https://rentry.co/CharacterProvider#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [Explanation](https://rentry.co/CharacterProvider-Explanation) <- |  -> [Other rentries](https://rentry.co/CharacterProvider#interesting-rentries) <- |  -> [💀 Pozzed key fix](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key) <-
+ | | | | | | 
 
 # 
 -> ![](https://files.catbox.moe/tj0apm.png)  <-

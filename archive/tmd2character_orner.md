@@ -5,7 +5,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 
 · | ->· ->
 ---- | ----
-**Origin:** Native | **Guild Role/Occupation:** ==???==
+**Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** ==Council of Clans==
 **Level:** 6 | **Experience to Next Level:** 0/60
 **Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
@@ -22,7 +22,7 @@ Shed Skin | The User has a ⅓ chance of curing their Status Conditions each tur
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 2 | Species Bonus | +1 Physical Damage 
+Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -90,5 +90,5 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 **OLD MOVES (∞ slots)**
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Wrap | The Opponent is afflicted with Wrapped.
 Eᴍᴘᴛʏ | Description
