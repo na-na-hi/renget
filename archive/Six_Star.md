@@ -773,14 +773,16 @@ New player Unit priority: Low
 
 
 ## -> Makoto <- (JP Release Date: Year 6, September)
-TBD
-- UB+: TBD
-- CB: TBD
-- Arena: TBD
-- PvE: TBD
-- TBD
+Similar to Rei's unique buff, her UB gives her a timed mark that improves her S1+ & S2. Definitely worth keeping your eyes on. because she's a shred specialist.
+- UB+: Damaged increased by a large amount, shred increased by a large amount. New Mark system ads a mark to Makoto after UB for 18s, that enhances her S1+ & S2:
+		S1+: If Makoto has a mark, damage is doubled and her P.Atk buff is increased by base x 8.
+		S2: If Makoto has a mark, shred values is increased by 25%
+- CB: Most likely going to see some usage, but also is positioned far forward enough that she will need some support as a pos 1 unit or needs a tank like X.Jun or Muimi to eat hits for her. However, the amount of shredding and damage she does is more or less unmatched as a full package against a single target. If defenses go up for bosses, Makoto may start to work her way into a staple position. With increased stats from 6 star, she may no longer suffer from her 
+- Arena: Could do decently into tanky teams that don't do a lot of damage, but most definitely an extremely niche character for any sort of Arena usage.
+- PvE: Similar to CB, she will get used as boss defenses go up.
+- Overall, Makoto's role highly depends on how much shred is required in fights, with balancing damage and survivability. We may see her start out as an OF/CO unit due to the high amount of shred she has on UB alone, but there is certainly an opportunity for her to return to th heights she used to reach in the past.
 
-Bond story priority: TBD (Relevant units: None)
-Max level Unit priority: TBD
-New player Unit priority: TBD
+Bond story priority: Low (Relevant units: Cin.Makoto)
+Max level Unit priority: High
+New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)

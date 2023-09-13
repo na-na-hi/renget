@@ -32,9 +32,10 @@ Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
 Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
 Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
-Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member(?) | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
+Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
+Maxi | M | Trubbish | Maddi (F, Joltik, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -114,7 +115,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 23 | [Introducing Capim Town (ft. Phanpy)](https://rentry.org/ry2ek) | | [Team Moxie Introduction](https://rentry.org/fehwy) | | |
 24 | [The Staredown](https://arch.b4k.co/vp/thread/53583300/#53587775) | | [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro) | | |
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
-26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | | | |
+26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | | | |
 28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | | | |
 29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
@@ -177,15 +178,15 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 86 | [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2) | | | | |
 87 | [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od) | | | | |
 88 | [The Taste of Freedom (ft. Nida)](https://rentry.org/s4umg) | | | | |
-89 | | | | | |
-90 | | | | | |
-91 | | | | | |
-92 | | | | | |
-93 | | | | | |
-94 | | | | | |
-95 | | | | | |
-96 | | | | | |
-97 | | | | | |
+89 | [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk) | | | | |
+90 | [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7) | | | | |
+91 | [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3) | | | | |
+92 | [Gone (ft. Booker)](https://rentry.org/RibombeeGone) | | | | |
+93 | [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb) | | | | |
+94 | [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3) | | | | |
+95 | [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6) | | | | |
+96 | [Three Strangers Sweep the Grounds](https://rentry.org/kcb-1) | | | | |
+97 | [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1) | | | | |
 98 | | | | | |
 99 | | | | | |
 100 | | | | | |
@@ -209,7 +210,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
 	* [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
-	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk) *Not on Table*
+	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
 * Booker the Ribombee
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -223,7 +224,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.1 (ft. Booker)](https://rentry.org/RibombeeBuckler1)
 	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
-	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone) *Not on Table*
+	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -236,7 +237,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Adventures of Team Oracle, Issue #0 (ft. Charm)](https://rentry.org/oracle0)
 	* [The Adventures of Team Oracle, Issue #1 (ft. Charm)](https://rentry.org/oracle1)
 * Cheesecake the Wooper
-	* [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1) *Not on Table*
+	* [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
 * Chespin
 	* [Chespin's Introduction](https://rentry.org/q6gf5)
 	* [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) 
@@ -276,7 +277,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Debby's Diary](https://rentry.org/DebbysDiary)
 	* [The Basics of Flight (ft. Debby)](https://rentry.org/tamadachi)
     * [Grandma's Cookies (ft. Margaret the Lilligant)](https://rentry.org/o4cme)
-	* [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3) *Not on Table*
+	* [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3)
 * Elm the Duskull
 	* [Branching Out (ft. Elm)](https://rentry.org/branching)
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
@@ -288,7 +289,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
-	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6) *Not on Table*
+	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -308,7 +309,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [KFC Gets a Win!](https://rentry.org/49yqh)
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
-	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1) *Not on Table*
+	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
 * Linoone
 	* [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Macom the Mareep
@@ -320,11 +321,11 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
 	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
-	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3) *Not on Table*
+	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 * Maxi the Trubbish*
-	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) *Not on Table*
-	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7) *Not on Table*
-	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb) *Not on Table*
+	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
+	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
+	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina

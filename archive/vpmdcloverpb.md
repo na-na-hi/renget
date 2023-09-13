@@ -445,6 +445,9 @@ Biography generated!
 
 >Luka "BIG MEATY PAWS" is the Persian. He's unusually large for his species. A gruff, intimidating exterior can make it hard to see his heart of gold. Luka favours heavy, close-range physical attacks, and so it's no surprise that he managed to crack his gem so young. There is nothing Ninetales won't tease him over.
 
+###Maxi/Maddi
+{Pending}
+
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
 TL;DR greentext below

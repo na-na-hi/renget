@@ -7,9 +7,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** ==???==
 **Species:** Seviper | **Affiliation:** ==Council of Clans==
-**Level:** 5 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 0/60
 **Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 630₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -32,7 +32,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Wrap | 1BP | 6AP | ≥3 | Normal | Physical | The Opponent is afflicted with *Wrapped*.
+Lick | 3BP | 5AP | ≥2 | Ghost | Physical | 16-20; The Opponent is afflicted with Paralysis.
 Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -70,8 +70,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Oran Berry* | Heals 10HP when health falls under 50%
 *Equipped Item: N/A | Vacant hand slot.
-1. Oran Berry | Heals the user for 10HP.
-2. Oran Berry | Heals the user for 10HP.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

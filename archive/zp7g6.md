@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated September 7 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated September 13 2023*
 
 [TOC]
 
@@ -336,6 +336,15 @@ digitan \(porforever\), loli, fang, wristwatch, dress shirt, collared shirt, pin
 
 ```
 gawr gura, shark tail, blue hoodie, shark hood, hood down, bike shorts, shark hair ornament, sharp teeth, two side up, short hair, streaked hair, white hair, blue eyes
+```
+
+### T
+[Trente (Brown Succubus-chan - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nNkgjBwK) | Brown Succubus-chan
+:------:|:------:
+![](https://i.imgur.com/MR9xz6S.png) | ![](https://i.imgur.com/EUIzm4i.png)
+
+```
+brown succubus-chan \(trente\), loli, open mouth, smile, fang, blush, dark skin, maid bikini, frilled bikini, detached collar, maid headdress, highleg bikini, demon wings, demon tail, head wings, ear piercing, pointy ears, twintails, black hair, yellow eyes
 ```
 
 ### Z

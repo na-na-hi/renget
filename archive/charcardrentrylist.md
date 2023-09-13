@@ -18,9 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Alexandre](https://files.catbox.moe/en41s7.png)|
+[Nono](https://rentry.org/NonoRoom) | Misc |[Cosma](https://litter.catbox.moe/q6evbq.png), [Sammy](https://files.catbox.moe/8e1vxf.png), [Mina](https://files.catbox.moe/gllnqu.png), [Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png)|[Cosma](https://litter.catbox.moe/q6evbq.png) [MV]
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Josephine](https://files.catbox.moe/clqwy7.png), [Alexandre](https://files.catbox.moe/en41s7.png)|
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Queen of Sheba](https://files.catbox.moe/24nkxa.png), [Ishtar](https://files.catbox.moe/19ixso.png), [Caenis (Rider)](https://files.catbox.moe/cq8tda.png), [Ereshkigal](https://files.catbox.moe/fm6yk3.png)|[Ishtar](https://files.catbox.moe/19ixso.png) [MV], [Caenis (Rider)](https://files.catbox.moe/cq8tda.png) [MV], [Ereshkigal](https://files.catbox.moe/fm6yk3.png) [MV]
 [Chefseru](https://rentry.org/chefseru) | Misc |[Sylvia and Ginny](https://files.catbox.moe/9s35ry.png), [Ginny](https://files.catbox.moe/kmj976.png), [Sylvia](https://files.catbox.moe/qs237j.png)|[Sylvia and Ginny](https://files.catbox.moe/9s35ry.png) [MV], [Ginny](https://files.catbox.moe/kmj976.png) [MV], [Sylvia](https://files.catbox.moe/qs237j.png) [MV]
-[Nono](https://rentry.org/NonoRoom) | Misc |[Sammy](https://files.catbox.moe/8e1vxf.png), [Cosma](https://files.catbox.moe/5oe2tx.png), [Mina](https://files.catbox.moe/gllnqu.png), [Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png)|[Cosma](https://files.catbox.moe/5oe2tx.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png), [Ankha](https://files.catbox.moe/nw63cd.png)|[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png) [MV], [Ankha](https://files.catbox.moe/nw63cd.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
@@ -32,7 +33,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Genoo](https://rentry.org/295se) | Sizeplay |[Soledad](https://files.catbox.moe/xc4cx3.png)|[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
 [Gigasad](https://rentry.org/gigasad) | Misc |[Patricia Sue Brown](https://files.catbox.moe/h0f3r3.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Akira](https://files.catbox.moe/j6lgi6.png)|
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Ishtar](https://files.catbox.moe/19ixso.png), [Caenis (Rider)](https://files.catbox.moe/cq8tda.png), [Ereshkigal](https://files.catbox.moe/fm6yk3.png)|[Ishtar](https://files.catbox.moe/19ixso.png) [MV], [Caenis (Rider)](https://files.catbox.moe/cq8tda.png) [MV], [Ereshkigal](https://files.catbox.moe/fm6yk3.png) [MV]
 [Hedona](https://rentry.org/hedona) | Misc |[Dionaea](https://files.catbox.moe/5dx3pc.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Sakura](https://files.catbox.moe/xpuemq.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Klischée](https://files.catbox.moe/vh7c1b.png)|

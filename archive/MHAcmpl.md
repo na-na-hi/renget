@@ -563,6 +563,7 @@ Chibi Sandatsu Stamp: https://desuarchive.org/tg/post/90104227/
 Inigo's Phone: https://desuarchive.org/tg/post/90102567/
 Maru 101: https://desuarchive.org/tg/post/90160675/
 Kids on my hero: https://desuarchive.org/tg/thread/90171418/#90175866
+The Princess Diaries starring Inigo myoga and Drekus: https://desuarchive.org/tg/thread/90231458/#90234741
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

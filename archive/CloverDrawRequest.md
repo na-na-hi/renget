@@ -77,8 +77,6 @@
 
 1. Percival giving Team Misfits a ride 
 
-1. Gill singing in Capim Town square 
-
 1. Totodile and Cyndaquil getting kicked out of a bar
 
 1. Phanpy throwing Torchic (rope tied) off the roof 
@@ -155,8 +153,6 @@
 
 1. Booker and Sneasel sleeping on hay beds in Wigglytuff's Guild dorm
 
-1. Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm
-
 1. Debby and Kaz (Solid Linoone) on a date
 
 1. Sonichu Issue #0 Cover but with Guildmembers
@@ -227,7 +223,11 @@
 
 #Finished Requests (Some links pending gallery uploads)
 
-Cassie forces Kiyo to wear a maid dress
+[Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm](https://cloverguild.com/booru/post/800)
+
+[Gill singing in Capim Town square(https://cloverguild.com/booru/post/652)
+
+[Cassie forces Kiyo to wear a maid dress](https://cloverguild.com/booru/post/798)
 
 [cyndaquil has trapped booker in a jar](https://cloverguild.com/booru/post/602)
 

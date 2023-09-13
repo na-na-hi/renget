@@ -130,6 +130,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *SM64DS 09.11.03* (C-N64)|[(link)](https://rentry.org/091103)
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
 *Metallic Frenzy* (Karrie) (WIP)|[(link)](https://rentry.org/metallicfrenzy)
+*SPEEDY HOG 7* (Hog)|[(link)](https://rentry.org/spho7hedge)
 
 ##Restored/archived/translated by /exeg/
 Title|Link
