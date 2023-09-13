@@ -1,6 +1,6 @@
 -> ![](https://media.tenor.com/odDQQs7kCFEAAAAC/star-rail-pom-pom.gif) <-
 
-#[TRAVEL TO MAINPAGE](https://rentry.co/CharacterProvider)
+#[TRAVEL TO MAINPAGE, NO FUN ALLOWED HERE](https://rentry.co/CharacterProvider)
 #####-> Version history has been merged with the main branch! <-
 
 -> Thanks for your feedback! <-

@@ -49,7 +49,7 @@ Name | Description | Links |
 ------ | ------ | ------ | 
 ->**Chef**<- ![literally me](https://files.catbox.moe/kukyg8.png)| [This place? Is where the magic happens. Chef will take your request and craft you your heart's desire!](https://www.youtube.com/watch?v=IGMVVG-kFhE) | [card](https://files.catbox.moe/fjtcr6.png)
 ->**Palmela**<- ![left hand woman](https://files.catbox.moe/vh2gt0.png)| You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. /aicg/ mental illness theme card | [card](https://files.catbox.moe/igl30f.png)
-->**Sylvia and Ginny**<- ![Oyakodon]https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
+->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
 
 ***
 ## DESSERT (SFW/NSFW)

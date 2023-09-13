@@ -179,7 +179,9 @@ to do all four steps and then run the program, printing the same result. For our
 	
 ### CMake
 
-In order to make the build process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. A cool thing about makefiles is that you can break a project up so that only the files that are altered have to be recompiled.  I won't go through creating makefiles from scratch, but we will use CMake to create makefiles for us.  If you want an idea of how a makefile works, you can look at an example with C++ [here](https://youtu.be/_r7i5X0rXJk). For an in depth look, I refer you to the official [GNU Make documentation](https://www.gnu.org/software/make/manual/).
+In order to make the build process easier for large projects, makefiles can be used to specify build details. The reason why you would want one is not obvious yet, because so far this program compiles easily in one line. A cool thing about makefiles is that you can break a project up so that only the files that are altered have to be recompiled. 
+
+I won't go through creating makefiles from scratch, but we will use CMake to create makefiles for us.  If you want a general idea of how a makefile works, you can look at an example with C++ [here](https://youtu.be/_r7i5X0rXJk). GNU Make is seriously awesome software, and I do highly recommend that you learn it, but I think there are better sources for that. So as a result, this tutorial will be concerned with CMake. That being said, any time we create a makefile with CMake, you can always investigate it to get a better idea about how it works. For an in depth look, I refer you to the official [GNU Make documentation](https://www.gnu.org/software/make/manual/). 
 
 CMake involves the use of high-level 'targets' that represent libraries and binaries as well as our own custom targets. To get our feet wet, we should try using CMake for the most basic of examples. First lets clean up what we built with gcc.
 

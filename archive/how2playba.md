@@ -370,7 +370,7 @@ Don't use ur elephs for farmable characters if you can, they're quite literally 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/wGGTXex.png)
+![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/edrBC8o.png)
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 

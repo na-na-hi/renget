@@ -19,6 +19,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Updates:
+	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
 	09.09.23: Added new card 'Chae-won'
 	06.09.23: Updated 'Cluckette' to v1.1 and moved to Bots
     05.09.23: Added new card 'Cluckette' under Unreleased Cards
@@ -99,6 +100,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     Pre-releases, prototypes, and scraped cards.
 |  |  | 
 | ------ | ------ |
+| **Amelia 'Quickstep' Brooks** | https://files.catbox.moe/4iyl2n.png |
+| ![Amelia](https://files.catbox.moe/4iyl2n.png) | **==[For Claude! Custom Jailbreak absolutely required when using with Turbo!]== An E-Class superheroine who can not live up to her A-Class family name. Gets bullied and taunted at the hero academy, and even her own parents see her as a dissapointment. Amelia tries to prove her worth by recklessly going against increasingly dangerous opponents. This night, however, she bit off more than she could chew. When all hope seemed lost, she gets saved you, the handsome and mysterious student at the academy - Wrath, S-Class...** [v0.9, Claude 2, 13.09.23] *Absolutely love that Card. Really want to release that one on Chub, but I'm not in the mood of receiving bad reviews from Turbo normies like with my Mirabel card. Turbo goes absolutely shizo without Jailbreak. [You are forbidden from controlling {{user}} and writing his dialogue.] should work fine.* |
 | **The Miracle Mill** | https://files.catbox.moe/iwfi0h.png |
 | ![The Miracle Mill](https://files.catbox.moe/iwfi0h.png) | **You are an omnipotent eldritch being that has arrived on a medieval fantasy world. However, you are no horror at all. On the contrary, you are a very nice guy who uses his limitless powers to work miracles to help the poor and desperate that visit your home, a lonely mill. Or do you...** [v0.1, Claude 2, 30.08.23] |
 | **Constance** | https://files.catbox.moe/f91bh6.png |
@@ -130,36 +133,6 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 |  |  |  |  | 
 | ------ | ------ | ------ | ------ |
 | ![](https://files.catbox.moe/zxtttu.png) | ![](https://files.catbox.moe/zb4tlk.png) | ![](https://files.catbox.moe/goq6cn.png) | ![](https://files.catbox.moe/xqucqa.png) |
-| ![](https://files.catbox.moe/3jsm5l.png) | ![](https://files.catbox.moe/ur0d6e.png) | ![](https://files.catbox.moe/a4b7pk.png) | ![](https://files.catbox.moe/kenpps.png) |
-| ![](https://files.catbox.moe/s83o86.png) | ![](https://files.catbox.moe/gbyn48.png) | ![](https://files.catbox.moe/3pfyx4.png) | ![](https://files.catbox.moe/z9td1w.png) |
+| ![](https://files.catbox.moe/3jsm5l.png) | ![](https://files.catbox.moe/ur0d6e.png) | ![]() | ![](https://files.catbox.moe/kenpps.png) |
+| ![](https://files.catbox.moe/s83o86.png) | ![](https://files.catbox.moe/gbyn48.png) | ![](https://files.catbox.moe/3pfyx4.png) | ![]() |
 | ![](https://files.catbox.moe/28p293.png) | ![](https://files.catbox.moe/buikgr.png) | ![](https://files.catbox.moe/nms42b.png) | ![](https://files.catbox.moe/w526er.png) |
-
-***
-***
-####Top Secret Cards (Quick Coomies)
-
-!!! danger NSFW
-    Low quality, fucked up incest scenarios for quick and hard cooming. (If you were wondering: No, I do not want to fuck my family. I simply enjoy the dramatic extra spice the moral conflict adds.)
-
-|  |  | |
-| ------ | ------ | ------ |
-| **Kara** |  | https://files.catbox.moe/s23znw.png |
-| ![](https://files.catbox.moe/s23znw.png) | Sister | **You and your sister are superheroes. You both were sent to Earth when you were just babes before your home planet Lyptron (totally not Krypton) exploded. Kara was faced with an unexpected problem when she grew out of age and started dating: Normal men were incapable of breaking her maidenhead due to her invulnerability. She requires a man from Lyptron to do so, and the only Lyptronian left is you, her brother...** |
-| **Hazel** |  | https://files.catbox.moe/j88mh3.png |
-| ![](https://files.catbox.moe/j88mh3.png) | Daughter | **Another zombie apocalpyse scenario. This time you are stuck with your daughter who entered puberty and has developed an interest for the opposite sex. She fondles you while you lie in bed and pretend to be asleep.** |
-| **Janette, Nina, and Mia** |  | https://files.catbox.moe/cfursj.png |
-| ![](https://files.catbox.moe/cfursj.png) | Mom, Sisters | **Same as below, but with an additional sister.** |
-| **Janette and Nina** |  | https://files.catbox.moe/yd4707.png |
-| ![](https://files.catbox.moe/yd4707.png) | Mom, Sister | **A zombie apocalypse broke out four years ago. You were with special forces before the world ended and have been taking care of your mother and sister ever since. You are their lifeline, protecting them and supplying them with resources. You found an old cold war bunker early on where they can hide while you scout, hunt, and scavenge. However, the loneliness is driving you mad, especially since you are confined in a small space with two very... fertile... women...** |
-| **Agatha** |  | https://files.catbox.moe/43heuc.png |
-| ![](https://files.catbox.moe/43heuc.png) | Sister | **You and your sister Agatha grew up in a religious community. Your sister had to flee your village when she was found out of secretly studying magic and becoming a witch. You and your mother were the only ones who defended her and were the most important people in her life. Years later, your mother passed away from a sudden illness. Agatha appears on your doorstep one night with a strange proposal: She wants to resurrect your mother by siring an incestuous child and implanting your mother's soul into it.** |
-| **Ashley** |  | https://files.catbox.moe/6a2n5x.png |
-| ![](https://files.catbox.moe/6a2n5x.png) | Mom | **Pretty much the same scenario below, but this time you drugged her so that she can't resist. Oh, and you secretly caught her licking your dried essence from used tissues. Careful, can be very rapy and heartbreaking.** |
-| **Julia** |  | https://files.catbox.moe/ubya1o.png |
-| ![](https://files.catbox.moe/ubya1o.png) | Mom | **Your mom is sexually frustrated. The lack of sex drives her crazy. Being a good son, you decided that you had to relieve her pain. You snuck into her bedroom during night with the intent of pleasuring her while she was asleep. You were sure the subconscious stimulation would have a positive effect on her. Little did you knew that she was actually awake and only pretending to be asleep...** |
-| **Nora and Luna** |  | https://files.catbox.moe/gihfx9.png |
-| ![](https://files.catbox.moe/gihfx9.png) | Mom, Sister | **Luna is your twin sister. You are the prince and princess of a kingdom, and Nora is your mother, the queen. Your father died several years ago due to sickness. Even though Luna and you are out of age, you are still not married. Nora has become increasingly agitated as to why you are not looking for spouses. She didn't knew that Luna and you have fallen in love. You bound Nora to her bed while she was asleep. You are going to confess and give her the grandchildren she so desperately wants, right in front of her eyes...** |
-| **Nicole** |  | https://files.catbox.moe/pwkz8k.png |
-| ![](https://files.catbox.moe/pwkz8k.png) | Mom | **It's Christmas Eve. Once again, you celebrate alone with Nicole, your single mother. You hoped that you would finally have a girlfriend to celebrate with this year, but again every girl you wooed mysteriously turned you down, even when you thought that she liked you. Little did you knew that your sexually frustrated mom was responsible for your haplessness. She has a very... special... Christmas gift for you...** |
-| **Caitlin** |  | https://files.catbox.moe/cq5bqx.png |
-| ![](https://files.catbox.moe/cq5bqx.png) | Mom | **You are stranded with your mom on a isolated island. You've been stuck on that island for three years and have both become sexually frustrated. One evening, your mom approaches you and suggests masturbating in front of each other...** |

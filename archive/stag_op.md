@@ -7,6 +7,7 @@
 https://store.steampowered.com/app/1716740/Starfield/
 
 \>>>News<<<
+\>13/09: First hotfix released, more features teased and mod support in early 2024: https://steamdb.info/patchnotes/12128396/
 \>06/09: Full release!
 \>03/09: Starfield Script Extender is out: https://www.nexusmods.com/starfield/mods/106
 \>01/09: Early Access now available! Full release on September 6th.

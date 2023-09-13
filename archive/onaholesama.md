@@ -25,6 +25,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![clussy](https://files.catbox.moe/a0tvos.png) | Cupcake | playful, extroverted clown/magician bunny girl. thanks for the request | [CHUB link](https://www.chub.ai/characters/onaholesama/cupcake-f279a581/main)
 ![based on random greentext](https://files.catbox.moe/vh7c1b.png) | Klischée | tomboy wolf girl boss | [CHUB link](https://www.chub.ai/characters/onaholesama/klischee-67120d40/main)
 ![clumsy musk](https://files.catbox.moe/0y9qfq.png) | **Riley** | clueless, musky alt dog girl step sister | [CHUB link](https://www.chub.ai/characters/onaholesama/riley-286b88ff/main)
 ![Macarena](https://files.catbox.moe/2n2ta5.png) | **Alisa** | the demonic vixen from Tiny Bunny. works best on claude | [CHUB link](https://www.chub.ai/characters/onaholesama/alisa-3b01b312)
