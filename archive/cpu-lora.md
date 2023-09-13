@@ -82,18 +82,22 @@ I used the following command as my baseline standard:
 llama.cpp/finetune.exe
   --model-base open_llama_3b_v2.Q8_0.gguf
   --train-data shakespeare.txt
-  --use-checkpointing
-  --use-flash
-  --samples-after-nl
-  --threads 16
+  --lora-out lora.gguf 
+  --save-every 0
+  --threads 14
+  --ctx 256
   --rope-freq-base 10000
   --rope-freq-scale 1.0
   --batch 1
   --grad-acc 1
   --adam-iter 256
-  --adam-alpha 4
+  --adam-alpha 0.001
   --lora-r 4
   --lora-alpha 4
+  --use-checkpointing
+  --use-flash
+  --samples-after-nl
+  --seed 1
 ```
 
 Links to files:
@@ -102,7 +106,7 @@ Links to files:
 - [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2)
   - Converted and quantized it myself using the instructions in Appendix E to save bandwidth
 
-Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days".
+Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests).
 
 ### 3B Metrics
 
@@ -151,7 +155,7 @@ Each row in the tables below contains a deviation from the standard command abov
 | `--grad-acc 8`                        | 3.02 GB   | 1d 13:58       |
 | `--grad-acc 16`                       | 3.02 GB   | 3d 03:37       |
 | `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
-| `--no-flash`                          | 3.09 GB   | 04:40          |
+| `--no-flash`                          | 3.09 GB   | 04:40          | Flash used in base command.
 | LimaRP-v2-like Settings               | 14.3 GB   | 101d 06:18     | `--ctx 4096 --rope-freq-scale 0.5 --adam-iter 4938 --adam-alpha 0.000065 --lora-r 16 --lora-alpha 16`
 
 Additional notes:
@@ -201,7 +205,7 @@ The 7B base command is the same as 3B, but using a 7B model: `--model-base open_
 | `--grad-acc 2`                        | 4.65 GB   | 22:27           | Grad. Acc. 1 used in base command.
 | `--grad-acc 4`                        | 4.66 GB   | 1d 21:09        |
 | `--no-checkpointing`                  | 28.7 GB   | 09:45           | Checkpointing used in base command.
-| `--no-flash`                          | 4.54 GB   | 11:07           |
+| `--no-flash`                          | 4.54 GB   | 11:07           | Flash used in base command.
 | LimaRP-v2-like Settings               | 24.4 GB   | 198d 19:47      | See 3B for setting details
 
 Additional notes:
@@ -212,7 +216,7 @@ Additional notes:
 
 ### 13B Metrics
 
-The 13B base command is the same as 3B, but using a 7B model: `--model-base open_llama_13b.Q8_0.gguf`
+The 13B base command is the same as 3B, but using a 13B model: `--model-base open_llama_13b.Q8_0.gguf`
 
 | Command Deviation                     | RAM Usage | Estimated Time | Notes
 |---------------------------------------|-----------|----------------|------
@@ -243,13 +247,14 @@ The 13B base command is the same as 3B, but using a 7B model: `--model-base open
 | `--batch 4`                           | 21.8 GB   | 3d 07:47       |
 | `--grad-acc 2`                        | 6.90 GB   | 2d 00:42       | Grad. Acc. 1 used in base command.
 | `--grad-acc 4`                        | 6.90 GB   | 3d 23:34       |
-| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35       | Checkpointing used in base command. **Memory size may be inaccurate.**
-| `--no-flash`                          | 6.83 GB   | 23:12          |
+| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35       | **See additional notes below.** Checkpointing used in base command.
+| `--no-flash`                          | 6.83 GB   | 23:12          | Flash used in base command.
 | LimaRP-v2-like Settings               |           |                | Work-in-progress
 
 Additional notes:
 
 - **See the 3B additional notes.**
+- `--no-checkpointing`: The above RAM may or may not be accurate. I'm looking into it. But the time is definitely wrong: my system only has 64 GB of RAM, and it's maxed out running that test, so it's performing paging operations that are definitely slowing it down.
 - I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
 - open_llama_13b has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
 

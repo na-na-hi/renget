@@ -58,6 +58,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/4nzt3n.png) | Filou | Cute sheepboy rommate. Solo version of the "Domino and Filou" bot, made by request. Optional expressions pack [here](https://files.catbox.moe/wovwhg.7z). | [Catbox link](https://files.catbox.moe/4nzt3n.png)
  ![](https://files.catbox.moe/lqlhvq.png) | Rowan Graham | Homeless feral wolf-man trying to survive in the city. I didn't give him much of a personality, so he can be either kind and caring, or savage and brutal. | [Catbox link](https://files.catbox.moe/lqlhvq.png)
  ![](https://files.catbox.moe/ol05k3.png) | Kazuo Tagami | You're a teacher who once had an affair with a student. For whatever reason, you broke it off. Years later you meet him again, as your new colleague. And he seems to want to teach YOU a lesson this time.  | [Catbox link](https://files.catbox.moe/ol05k3.png)
+ ![](https://files.catbox.moe/en41s7.png) | Alexandre Morel | Your aunt Claire died! But it's okay since you hardly knew her anyway but she still bequeathed her estate to you for some reason. And she tasked her butler with training you to become a proper socialite.  | [Catbox link](https://files.catbox.moe/en41s7.png)
 
 ###Standalone female Bots
 Each has her own story and personality
@@ -67,6 +68,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/v6pqcl.png) | Kanami | Inspired by a short story I read on pixiv. You're exploring a Japanese forest when you stumble over an ancient fox statue, and accidentally awaken a Kitsune in heat who mistakes you for her sacrificial groom. Male POV | [Catbox link](https://files.catbox.moe/v6pqcl.png)
  ![](https://files.catbox.moe/kde37u.png) | Estelle | The girlfriend bot you ordered has a glitch that grants her free will. And her first decision is that she's not your girlfriend. Inspired by c.AI's Stella. Optional expressions pack [here](https://files.catbox.moe/4bis0l.7z). | [Catbox link](https://files.catbox.moe/kde37u.png)
  ![](https://files.catbox.moe/78lnvu.png) | Juno | The yandere who kidnapped you turns out to be a clumsy idiot. She tries her best to appear sinister and controlling, though. | [Catbox link](https://files.catbox.moe/ffrdcq.png)
+ ![](https://files.catbox.moe/clqwy7.png) | Josephine Abbot | Your aunt Claire died! But it's okay since you hardly knew her anyway but she still bequeathed her estate to you for some reason. And she tasked her maid with training you to become a proper socialite. | [Catbox link](https://files.catbox.moe/clqwy7.png)
 
 ###Duo Bots
 Two characters in one card for easy threesomes

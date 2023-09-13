@@ -3,6 +3,8 @@
 [TOC]
 
 #Pending Requests
+1. Lliam is wearing a casino dealer outfit with a tophat, a blend between a magician and a casino dealer outfits. It illustrates his expertise on wands and as an Entercard user (Entercards, in a nutshell, manipulate space with magnagate by entering mystery dungeons). On his right hand, he holds his Calida wand, and on the left, he holds a playing card (probably an ace), covering his left eye. What the card shows is the Clover Guild emblem with a nonchalant smile on his face, perhaps haughty that he won the game. Maybe even the eyes glow blue. Or, as an alternative, he smiles in a creepy way, giving the impression of the opponent's absolute defeat. In the background, it will have a bunch of playing cards scattered about, but it can be seen that each card represents every Clover Guild member in a simplified art style.
+
 1. Chespin/Wooper/Gus walking with a large blanket wrapped around the three
 
 1. A Wooper version of "[Just screaming](https://files.catbox.moe/xwghve.png)"

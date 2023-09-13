@@ -376,7 +376,7 @@ https://arch.b4k.co/vp/thread/54252144/ 16 nigga moments
 https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 
 ##Reborn Multi-LP
-!!! info Status: Completed
+!!! note Status: Completed
     It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
@@ -407,3 +407,9 @@ https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
 https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
 https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
+
+##Empire Multi-LP
+!!! info Status: Ongoing
+we're playing pretentious political """satire""" & societal criticism: the fangame again
+expect literally everything to be changed for no reason, and half of the pokemon to basically just become fakemon wearing the skin of mons they used to be
+https://arch.b4k.co/vp/thread/54459801/ 1 it's beginning

@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 12.09.2023 21:45 UTC]
+[Last Updated: 13.09.2023 04:00 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7567749/](https://boards.4chan.org/h/thread/7567749/)
+Current thread - [boards.4chan.org/h/thread/7572124/](https://boards.4chan.org/h/thread/7572124/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 632&nbsp;&nbsp;[archiveofsins.com/h/thread/7572124/](https://archiveofsins.com/h/thread/7572124/)&nbsp;&nbsp;&nbsp;&nbsp;(12.09.2023 23:21)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Duc Edition
 - 631&nbsp;&nbsp;[archiveofsins.com/h/thread/7567749/](https://archiveofsins.com/h/thread/7567749/)&nbsp;&nbsp;&nbsp;&nbsp;(10.09.2023 01:20)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Dunked On Edition
 - 630&nbsp;&nbsp;[archiveofsins.com/h/thread/7564590/](https://archiveofsins.com/h/thread/7564590/)&nbsp;&nbsp;&nbsp;&nbsp;(07.09.2023 23:20)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Friendly Findings Edition
 - 629&nbsp;&nbsp;[archiveofsins.com/h/thread/7560742/](https://archiveofsins.com/h/thread/7560742/)&nbsp;&nbsp;&nbsp;&nbsp;(05.09.2023 10:39)&nbsp;&nbsp;[1216]&nbsp;#&nbsp;You are stuck with us Edition!
 - 628&nbsp;&nbsp;[archiveofsins.com/h/thread/7557087/](https://archiveofsins.com/h/thread/7557087/)&nbsp;&nbsp;&nbsp;&nbsp;(03.09.2023 02:56)&nbsp;&nbsp;[1276]&nbsp;#&nbsp;I'm going to post this in every thread until you like it Edition
-- 627&nbsp;&nbsp;[archiveofsins.com/h/thread/7553056/](https://archiveofsins.com/h/thread/7553056/)&nbsp;&nbsp;&nbsp;&nbsp;(31.08.2023 16:36)&nbsp;&nbsp;[1168]&nbsp;#&nbsp;Lean on Me Edition
 ---
 Archive:
 
+- 627&nbsp;&nbsp;[archiveofsins.com/h/thread/7553056/](https://archiveofsins.com/h/thread/7553056/)&nbsp;&nbsp;&nbsp;&nbsp;(31.08.2023 16:36)&nbsp;&nbsp;[1168]&nbsp;#&nbsp;Lean on Me Edition
 - 626&nbsp;&nbsp;[archiveofsins.com/h/thread/7548868/](https://archiveofsins.com/h/thread/7548868/)&nbsp;&nbsp;&nbsp;&nbsp;(28.08.2023 15:33)&nbsp;&nbsp;[1378]&nbsp;#&nbsp;Chika beside the pool edition
 - 625&nbsp;&nbsp;[archiveofsins.com/h/thread/7545435/](https://archiveofsins.com/h/thread/7545435/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 00:27)&nbsp;&nbsp;[1245]&nbsp;#&nbsp;Holy Chikarin edition
 - 624&nbsp;&nbsp;[archiveofsins.com/h/thread/7541845/](https://archiveofsins.com/h/thread/7541845/)&nbsp;&nbsp;&nbsp;&nbsp;(23.08.2023 03:35)&nbsp;&nbsp;[1248]&nbsp;#&nbsp;Mecha For No Reason In Particular edition

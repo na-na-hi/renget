@@ -19,6 +19,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
+|12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Mori's 3rd Year Anniversary|
 
 ###### 🐔 Kiara
 |Date|Link|Nature & Notes|

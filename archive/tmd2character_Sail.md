@@ -79,7 +79,7 @@ Item Name | Description
 1. Oran Berry | Heals the user for 10HP.
 2. Blast Seed | Explodes on contact for 10 true damage.
 3. Heal Seed | 	Cures all status conditions.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Mystic Scarf	| Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

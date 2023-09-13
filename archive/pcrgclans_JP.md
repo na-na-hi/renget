@@ -10,7 +10,7 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 687 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
+Wide Hips (29/30)| Delicious child-bearing hips are what the world needs. | Casual | 687 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
 つるぺったん (23/30) | A bit more serious clan. Coordination is done through  [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide). | Aiming for Top 300 | 1005 (A) |  -
 Ayumisters (28/30) | For homeless misters and armpit enthusiasts | Casual | 1608 (A) | -
 Plaplets (24/30) | ORAORA GET PREGNANT | Casual | 2443 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.

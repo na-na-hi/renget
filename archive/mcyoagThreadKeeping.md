@@ -40,8 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): 
-https://rentry.org/k2f3c
+MHA is building up energy!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
