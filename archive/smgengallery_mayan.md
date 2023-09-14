@@ -26,7 +26,7 @@
 
  -> ![Splash](https://files.catbox.moe/5slx4l.jpg) <-
 
- -> ![Concept](https://files.catbox.moe/du9u6m.jpg) <-
+ -> ![Concept](https://files.catbox.moe/5zcvfr.jpg) <-
 
  -> ![Cine Concept](https://files.catbox.moe/hv7u7n.jpg) <-
 

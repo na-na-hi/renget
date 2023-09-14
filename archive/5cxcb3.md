@@ -332,7 +332,7 @@ He kept moving, not waiting for a reply to his order. Too long had he believed h
 ###Chapter 4: Hope
 Inigo grabbed one of his stowed skateboard and burst out of the building, desperate to get away. The image of the corpse and Gorou's broken body haunted him as he sped through the streets. His hands trembled. Damn it. Did he go overboard? He let the anger get to him. And now he has to find out who's letting drug shipments through, on top of the two-page essay he needs to write. He picked the wrong week to quit Gigan. 
 
-Taking a deep breath he put on his earbuds and to calm himself down with his mixtape. Talk of the Town by the Pretenders rang in his ears as he skated through the backstreets of Kyoto. Inigo kicked off, his skateboard rumbling beneath him as he carved through the urban jungle. He popped an ollie over a fire hydrant, ran through a busy street full of cars, then nosegrinded along a stair railing, sparks flying from his board. He bumped past an Oyster-headed man who was holding a birthday cake and several balloons. "Sorry bout that!" Inigo yelled through his music as the cake went splat on the sidewalk and the balloons flew up in the air. Inigo reveled in the feel of the wind whipping through his hair as he zipped and zigzagged down the busy sidewalk.
+Taking a deep breath he put on his earbuds and to calm himself down with his mixtape. Talk of the Town by the Pretenders rang in his ears as he skated through the backstreets of Kyoto. Inigo kicked off, his skateboard rumbling beneath him as he carved through the urban jungle. He popped an ollie over a fire hydrant, ran through a busy street full of cars, then nosegrinded along a stair railing, sparks flying from his board. He bumped past an Oyster-headed man holding a birthday cake and several balloons. "Sorry bout that!" Inigo yelled through his music as the cake went splat on the sidewalk and the balloons flew up in the air. Inigo reveled in the feel of the wind whipping through his hair as he zipped and zigzagged down the busy sidewalk.
 
 Spotting a parked cookie truck up ahead, Inigo crouched low and built up speed. At the last second, he grabbed the truck's side mirror and allowed himself to get pulled along, cruising effortlessly as if waterskiing behind a boat. Letting go, Inigo used a lamppost to slingshot himself into an alleyway. He kickflipped over a pile of boxes, scratching the nose of his board on the landing. With a final ollie off a stoop, Inigo soared over three trash cans stacked precariously. He landed clean and coasted the last stretch to his destination.
 
@@ -762,13 +762,13 @@ Imai glowered, his playing turning discordant and harsh. "I don't want to talk a
 
 "How come you're not part of any music club? When it's clear you love music!"
 
-"I'm too busy."
+"I'm too busy. Why aren't you in any music club?"
 
-"I don't buy it. This whole thing with Ash. Is it about Mio and her quirk?" Inigo picked up tempo on the drums.
+"Cuz they kicked me out! We're not the same. This whole thing with Ash. It's about Mio and her quirk." Inigo picked up tempo on the drums.
 
 "...." 
 
-"I did a background check and I read the letter Chris gave to Gigan. I know about Mindbreaker. Why do you hide it?"
+"I did a background check and I read the letter Chris gave to Gigan. I know about Mindbreaker. "
 
 "It's hard... living with a quirk like mine, especially once people know what I could do," Imai called out as he played, picking up his tempo as if they were racing.
 

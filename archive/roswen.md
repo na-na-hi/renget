@@ -4,7 +4,7 @@
 · | ->· ->
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Noble
-**Species:** Walrein | **Affiliation:** Clan Council
+**Species:** Walrein | **Affiliation:** Clan Council (Clan Cerussite)
 **Level:** 50 | **Experience to Next Level:** 0/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars

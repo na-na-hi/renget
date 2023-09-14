@@ -213,6 +213,7 @@
 |12/09/2023|199|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing a mention from FUWAMOCO during the closing parts of their streamed POV of the Advent Minecraft collab of 12/09/2023.|
 |12/09/2023|200|Lover of Idols II - OHC & Mentions|Addition of a timestamp containing the totsu call-in during Mori's 3rd Anniversary stream.|
 |13/09/2023|201|Membership|Addition of the link and the thumbnail or the first members only stream.|
-|13/09/2023|143|Changelog| J/ope/C Week 6 backup .zip file uploaded|
+|13/09/2023|202|Changelog| J/ope/C Week 6 backup .zip file uploaded|
+|13/09/2023|203|Membership|Addition of a provisory note for the first members only stream.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

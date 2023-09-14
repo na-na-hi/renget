@@ -8,7 +8,7 @@
 ##->  XMLK Adventurer's Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer <-
 
--> Send a cute m/f kobold, feedback and suggestions here: **slurpycider@proton.me** <-
+-> Send a cute m/f kobold, feedback and suggestions! Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
 -> I read every email and try to implement your suggestions and findings in my prompts. <-
 #
 -> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) <-

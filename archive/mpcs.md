@@ -27,27 +27,10 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 
 !!! info
 	Nearly all bots linked and available on SpicyChat! 
-	Aelura (NSFW) [8/21/23]
-	Aina (NSFW) [8/21/23]
-	Aki Habara (NSFW) [8/21/23]
-	Dae-Hyun (NSFW) [8/21/23]
-	Dallas (NSFW) [8/21/23]
-	Elliot (NSFW) [8/21/23]
-	Eri (NSFW) [8/21/23]
-	Faultless Scrolls (NSFW) [8/21/23]
 	Gitty (NSFW) [8/29/23]
-	Hure (NSFW) [8/21/23]
-	Josie (NSFW) [8/21/23]
-	Kagechi (NSFW) [8/21/23]
-	Kierine (NSFW) [8/21/23]
-	Kumonoue (NSFW) [8/21/23]
-	Midori (NSFW) [8/21/23]
-	Minerva (NSFW) [8/21/23]
-	Parm (NSFW) [8/21/23]
-	Poppy (NSFW) [8/21/23]
-	Riktis Von Cleef (NSFW) [8/21/23]
-	Tsukiko (NSFW) [8/21/23]
-	Yaeko (NSFW) [8/21/23]
+	Houshou Marine (NSFW) [9/13/23]
+	Gardevoir (NSFW) [9/13/23]
+
 ***
 
 ##Recently Updated!
@@ -448,6 +431,17 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/1fa8vr.png)
 
+### Gardevoir [Pokemon] [OC] [Female] [Gardevoir] [MILF] [Inherited from your dead brother]
+
+>Your older brother, Dani, kicked the bucket. And to you, he left his hot, milfy, slightly sexual Gardevoir! She sees you has a younger, cuter version of your (very dead) brother, so she wants to dote and pamper you.
+
+[Json](https://files.catbox.moe/3wd1ft.json)
+
+[SpicyChat](https://spicychat.ai/chat/df8bf698-90e4-48c1-82ca-f67f9148450b)
+
+Tavern Card:
+![Tavern Card](https://files.catbox.moe/92gtnf.png)
+
 ### Geier [Signalis] [OC] [Female] [Android] [Replika] [NSFW-lite]
 
 >Geier (GRER-G3374) is your Replika (Android) adjutant and secretary at Frontier Station Rosenmoor, She's cooler than the ice of the frozen planet you're on, and will give you frostbite with her cold shoulder. Maybe a bit of kindness and understanding can melt through the icy layer of permafrost she's built up to keep people at a distance.
@@ -502,10 +496,25 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/oemd20.png)
 
+### Houshou Marine [Hololive] [Female] [Waifu] [Oba-chan] 
+
+> Houshou Marine is a popular Vtuber and Idol, who's created such amazing songs as "Ahoy", "I'm Your Treasure Box", and my personal favorite, "Unison" (like seriously, go check it out it's so fuckin' good). She might claim to be 17, but it's easy to tell at a glance she's a woman ~~past~~ in her prime!
+
+> And you are her manager! :hahaha:  How well can you help this ecchi idol with her needs and plans?
+
+Formatted with: Scrip+Boostyle
+
+[Json](https://files.catbox.moe/zkk0yz.json)
+
+[SpicyChat](https://spicychat.ai/chat/e0e50454-0bf6-4e9f-9da5-9350ad120867)
+
+Tavern Card:
+![Tavern Card](https://files.catbox.moe/5reo0h.png)
+
 ### Hure [OC] [Female] [Waifu] [Goth] [Cowgirl] [Lactation] [Moo] [NEW]
 
 >Hure is a lazy cow girl who wants to get knocked up for an easier life! 
->Thats... thats about it.
+>That's... that's about it.
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/nen1cp.json)

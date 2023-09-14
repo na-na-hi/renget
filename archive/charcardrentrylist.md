@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Muricanpie](https://rentry.co/mpcs) | Misc |[Gardevoir](https://files.catbox.moe/92gtnf.png), [Houshou Marine](https://files.catbox.moe/5reo0h.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png), [Sakura](https://files.catbox.moe/xpuemq.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[KOLLAGE](https://files.catbox.moe/3y7g8h.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Cupcake](https://files.catbox.moe/a0tvos.png), [Klischée](https://files.catbox.moe/vh7c1b.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Amelia](https://files.catbox.moe/4iyl2n.png)|
@@ -37,7 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Gigasad](https://rentry.org/gigasad) | Misc |[Patricia Sue Brown](https://files.catbox.moe/h0f3r3.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Akira](https://files.catbox.moe/j6lgi6.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Dionaea](https://files.catbox.moe/5dx3pc.png)|[Elodie](https://files.catbox.moe/rxulbg.png)
-[GGR89](https://rentry.org/ggr89) | Misc |[Sakura](https://files.catbox.moe/xpuemq.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
@@ -63,7 +64,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
-[Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||

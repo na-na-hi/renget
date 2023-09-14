@@ -82,10 +82,13 @@
  -> **Athena** <-
  -> = *A-th-(a)E(e)n-A* <-
  -> *~~{muffled lorefag screaming}~~* <-
- -> *{Not A-Theee-Na, the (a) is completely silent to the point I shouldn't really even include it if it weren't for the fact it wouldn't be correct without it.... which kinda makes sense. Because it's fucking annoying to explain}* <-
+
+ -> *{Not A-Theee-Na, the inflected (a) is completely silent to the point I shouldn't really even include it if it weren't for the fact it wouldn't be correct without it.... which kinda makes sense. Because it's fucking annoying to explain}* <-
  -> *~~{fuck it, lets' just do this longform}~~* <-
- -> *{Aθῆνά = A-θ-ῆ-ν-ά = Ah-th-e-n-a, with the ῆ character begin the fucking headache because there isn't even a word in any modern language I can use to compare for you, the closest phonetic being between the slight 'e' sound you hear in the middle of the word 'mace' after the 'a', or something close to the 'ee' in 'Greece' - being neither and both, at the same time... if that makes sense (which I understand it doesn't, because it doesn't). Try to say it how I've put it above and.... you.... 'should' (?) get it right. ~~i hate eta ηiggers so fucking much bros, and it's so, so much worse with the diacritic / liῆe above it~~}* <-
- -> *{tl;dr a-thenna, but with an inflected 'a' before the 'e'}* <-
+ -> *{Aθῆνά = A-θ-ῆ-ν-ά = Ah-th-'e'-n-aa, with the ῆ character begin the fucking headache because there isn't even a word in any modern language I can use to compare for you, the closest phonetic being between the slight 'e' sound you hear in the middle of the word 'mace' after the 'a', or something close to the 'ee' in 'Greece' - being neither and both, at the same time... if that makes sense (which I understand it doesn't, because it doesn't). Try to say it how I've put it above and.... you.... 'should' (?) get it right. ~~i hate eta ηiggers so fucking much bros, and it's so, so much worse with the diacritic / liῆe above it~~}* <-
+
+ -> *{tl;dr A-Thenna, but with an inflected 'a' before the 'e'}* <-
+
  -> *{More accurately given as Ath-(a)E(e)n-ne / Athene, but less colloquially used nowadays}* <-
 
  -> ![Splash](https://files.catbox.moe/zk20gk.jpg) <-
@@ -169,14 +172,18 @@
 
  -> **Charon** <-
  -> = *Kh-air-On* <-
- -> *{Not Char-Grilled Char-on. Not Car-Driving Kaa-Ron.}* <-
+ -> *{Not Char-Grilled Char-on. Not Car-Driving Kaa-Ron. It's Air-breathing Charon}* <-
  -> *{The lack of a syllable (air) is this time the English language's fault, in it's refusal to use accentation. The 'ideal' way to spell it would be Kháron, his name in of itself an etymological reference to his (accurately depicted) piercing, glowing blue-grey eyes}* <-
 
  -> ![Splash](https://files.catbox.moe/bnev38.jpg) <-
 
- -> ![Concept]() <-
+ -> ![Concept](https://files.catbox.moe/o341b1.jpg) <-
 
- -> ![Cine Concept]() <-
+ -> ![Boat Concept](https://files.catbox.moe/6b3m82.jpg) <-
+
+ -> ![Sketch Process](https://files.catbox.moe/9511se.jpg) <-
+
+ -> ![Cine Concept](https://files.catbox.moe/1i7jew.jpg) <-
 
  -> ![Cine Face](https://files.catbox.moe/3w82oj.jpg) <-
 
@@ -184,7 +191,7 @@
  -> = *At-Las* <-
  -> *{At las!}* <-
 
- -> ![Splash](https://files.catbox.moe/tx8kfh.jpg) <-
+ -> ![Splash](https://files.catbox.moe/sgpu2t.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/9blevg.jpg) <-
 
@@ -206,7 +213,7 @@
 
  -> **Cerberus** <-
  -> = *Ker-ber-uss* <-
- -> *{Not Sir-Bur-Russ; it's a greek dog, not a gentleman ~~at least, not until he gets one of the gentlemen skins~~}* <-
+ -> *{Not Sir-Bur-Russ; it's a Greek Guard-Dog, not a Gentleman}* <-
 
  -> ![Splash](https://files.catbox.moe/35s4hd.jpg) <-
 
@@ -226,7 +233,7 @@
 
  -> ![Under the Mask](https://files.catbox.moe/0mdqs0.png) <-
 
- -> ![First Appearence](https://a.pomf.cat/vxhryy.jpg) <-
+ -> ![First Appearence](https://files.catbox.moe/xxs9vh.jpg) <-
 
  -> **Scylla** <-
  -> = *Sill-Ah* <-
@@ -274,20 +281,31 @@
 
  -> **Martichoras** <-
  -> = *Mar-Ti-K(h)ore-Ass* <-
- -> *{Not Mar-Teee-K(h)or-Ass, it's "Ti" as in Tick. Breathe into the K to inflect the silent h.}* <-
+ -> *{"Ti" as in Tick. Breathe into the K to inflect the silent h}* <-
+ -> *{Not Mar-Teee-K(h)or-Ass}* <-
 
- -> *{Contrary to ~~retards on leddit~~ uninformed outsiders, this one is indeed a singular mythological (named and attested) entity, who is more 'confused' rather than 'obscure'. Much like Lamia, Martichoras / the Manticore was never originally given as a 'species' type of monster, simply a powerful Man-Eater (literal translation) far within Inner Asia (anywhere further-East than Afghanistan) that was relayed to them by trading Persians. The word Martichoras is a loan-word from the Persians, because rather than translating it into the Greek term for the same meaning (Androphagi), it was treated as a different creature entirely, due to the fact Androphagi already had an understood depiction (a humanoid tribe of cannibals that lived to the North-East, just North of modern-day Crimea), which clashed greatly with the animalistic description of Martichoras. From there, by simple grammatical standards, it was assumed to be one creature - a single, colossal, ferocious Manticore that prowled Inner Asia and terrorized the populace, much like how the Sphinx once did the same to Thebes or the Calydonian Boar did to Aetolia}* <-
- -> *{Overall, likely the Greek understanding of a Tiger, later hybridised with various other creatures unique to South Asia, that was thought to be different aspects of the same beast}* <-
+ -> *{Contrary to ~~retards on leddit~~ uninformed outsiders, this one is indeed a singular mythological (named and attested) entity, who is more 'confused' rather than 'obscure'. Much like Lamia, Martichoras / the Manticore was never originally given as a 'species' type of monster, simply a powerful Man-Eater (literal translation) far within Inner Asia (anywhere further-East than Afghanistan) that was relayed to the Greeks by trading Persians}* <-
+ -> *{The Marticoras is not a Persian monster, rather, the word Martichoras is a loan-word from the Persians, because instead of translating it into the Greek term for the same meaning (Androphagi / Man-Eater), it was treated as a different creature entirely. This was due to the fact Androphagi already had an understood depiction (a humanoid tribe of cannibals that lived to the North-East, just North of modern-day Crimea), which clashed greatly with the animalistic description of the Martichoras. From there, by simple grammatical standards, it was assumed to be one creature by the Greeks and later Europeans (a single, colossal, ferocious Manticore that prowled Inner Asia and terrorized the populace, much like how the Sphinx once did the same to Thebes or the Calydonian Boar did to Aetolia), and was hybridised with various other creatures unique to South Asia (that was thought to be different aspects of the same beast); resulting in the Persian Martiya and the Greek Martichoras / European Manticore distinctly separate creatures}* <-
 
- -> ![Splash]() <-
+ -> *{Overall, likely the Greek understanding of a Tiger}* <-
 
- -> ![Concept]() <-
+ -> ![Splash](https://files.catbox.moe/ajm4ce.jpg) <-
+
+ -> ![Concept](https://files.catbox.moe/ewxnbq.jpg) <-
+
+ -> ![Pre-Concept](https://files.catbox.moe/kvvmzm.jpg) <-
+
+ -> ![Sketches](https://files.catbox.moe/0lrzd6.jpg) <-
 
  -> ![Cine Concept](https://files.catbox.moe/nb76v7.jpg) <-
 
  -> ![Cine Face](https://files.catbox.moe/qjghfv.jpg) <-
 
- -> ![Cine Model]() <-
+ -> ![Cine Model](https://files.catbox.moe/xwgakg.jpg) <-
+
+ -> ![Classic Model A](https://files.catbox.moe/du3k01.png) <-
+
+ -> ![Classic Model B](https://files.catbox.moe/mv1meb.jpg) <-
 
  -> **Achilles** <-
  -> = *Ah-Kill-Eez* <-

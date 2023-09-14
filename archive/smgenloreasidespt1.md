@@ -278,8 +278,6 @@ There's been more Arena maps since then - but that's moving into the lore-relate
 
  ~~*Link:* https://youtu.be/8VIW9rVd5sc ~~
 
-   -> ![Manticore Splash](https://files.catbox.moe/cw2nrl.jpg) <-
-
    -> ![Manticore Model A](https://files.catbox.moe/du3k01.png) <-
 
    -> ![Manticore Model B](https://files.catbox.moe/mv1meb.jpg) <-

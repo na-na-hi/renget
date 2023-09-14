@@ -1,5 +1,6 @@
-#->Elysian Realm recommended builds 6.8<- 
+#->Elysian Realm recommended builds 6.9<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
+Added 'Remarks' for brief description of some precautions
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [**Old builds can be found here on HoYoLAB**](https://www.hoyolab.com/accountCenter/collectionList?id=7866431)
@@ -8,6 +9,12 @@ dm medbae on discord for any mistakes/feedback or typos in translation
 translated from 月光中心
 
 click image to jump to valk
+
+!!! info 6.9 Phase 1
+[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
+
+[Miracle ☆ Magical Girl basic](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)
+[Miracle ☆ Magical Girl charged](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
 
 !!! info 6.8 Phase 2
 [![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![hohulti1](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)[![ssulti1](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)[![jkvalk1](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm#jade-knight_1)[![sivalk1](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression_1)[![dwflag1](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag_1)[![vqvalk1](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)[![frvalk1](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hotrwep1](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)[![rcvalk1](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)[![promvalk1](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017_1)[![hoficom1](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo_1)[![skvalk1](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight_1)
@@ -73,6 +80,92 @@ click image to jump to valk
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
 
+#->Miracle ☆ Magical Girl basic<-
+->![sirinbas](https://i.imgur.com/oXoiCb0.png)<-
+->https://www.miyoushe.com/bh3/article/42843349<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Dream Cutter: Polar Star | Little Joys set
+
+Cost | Effect
+------ | ------
+0 | Dominator of Wolves
+15 | Weapon type breach
+15 | Ignite vulnerability 
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+BKE | VKE | Utility
+BR | AE / RC | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Gold Goblet / Dreamful Gold
+1st Shop | Forget-Me-Not / Tsukimi Himiko
+16F | Key to the Deep / Falling in Past Light 
+
+##->Ego Signets<-
+Dreamstitch 梦纫 | Tailor 幻裁 | Stellar Breach 星隙 | Resplendence 焕烁  | Inner Blaze 心焰
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | No | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Eden1 | Both damage boosts, starting SP, SP recovery are the key choices, unlock nexus 
+2nd | Sakura1 | Vulnerability, TDM, evasion+1 are the key choices, unlock nexus 
+2nd | Griseo1 |  Red Black White are the key choices, unlock nexus 
+2nd | Kalpas2 | Both damage boosts, vulnerability, HP cap up are the key choices, unlock nexus 
+Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can also pick Vill-V 2 3 as reinforcement 
+
+!!! info Unlock all recommended nexus signets; recommended to try this only with signature gear, otherwise pick the charged ATK route instead
+
+#->Miracle ☆ Magical Girl charged<-
+->![sirincha](https://i.imgur.com/gNwXJnY.png)<-
+->https://www.pixiv.net/en/artworks/111587809<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Dream Cutter: Polar Star | Little Joys set
+
+Cost | Effect
+------ | ------
+0 | Dominator of Wolves
+15 | Weapon type breach
+15 | Ignite vulnerability 
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+AE | VKE | Utility
+BR | AE / RC | Damage
+
+Time | Emblem 
+------ | ------ 
+Start | Mad King's Mask / An Old Pal's Legacy 
+1st Shop | Pseudo Miracle / An Old Pal's Legacy 
+16F | Key to the Deep / Dreamful Gold
+
+##->Ego Signets<-
+Resplendence 焕烁  | Inner Blaze 心焰 | Stellar Breach 星隙  | Tailor 幻裁 |  Dreamstitch 梦纫
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas2 | Both damage boosts, HP cap up are the key choices, can pick vulnerability; must pick at least breach from enhanced, can pick adaptive DMG
+2nd | Vill-V1 |  2 3 5 are the key choices, unlock nexus 
+2nd | Sakura1 |  Vulnerability, TDM, evasion+1 are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus
+Optional | Eden1 | Both damage boosts, starting SP are the key choices, individual is fine, unlocking nexus is better; can also pick Griseo Red Black as reinforcement
+
+!!! info Recommended to swap sigils at 6F after getting Kalpas on 7F to pick up breach
+
 #->Herrscher of Rebirth Decay<-
 ->![horbde1](https://i.imgur.com/UcYNSai.png)<-
 
@@ -112,7 +205,6 @@ Priority | Signet | Details
 2nd | Kalpas2 |  Both damage boosts, HP cap up, vulnerability are the key choices, unlock nexus
 2nd | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus
 Optional | Kosma1 | Shieldbreak damage, evasion, ultimate are the key choices, unlock nexus; can also pick Griseo Red as reinforcement 
-
 
 
 #->Herrscher of Rebirth Soul Shaper<-

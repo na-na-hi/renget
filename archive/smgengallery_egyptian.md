@@ -34,7 +34,9 @@
  -> = *(d)je-hu-t(i)hh* <-
  -> *{Don't Ask}* <-
  -> *{Thoth and Tahuti actually describes the same phonetic chain in a different way, despite their wildly different spellings... even if Dhuwti / Djehuti is the best way to spell it in English / Anglacise the Egyptian word. Did I not just say, not to ask? Well I'm saying it again, don't ask}* <-
- -> *{If you want to say it by the Greek convention that everybody knows him by nowadays, it's T-(H)oth, noth Thh-othh. A clear 'T' at the start, instead of a 'Thhh'}* <-
+
+ -> *{If you want to say it by the Greek convention that everybody knows him by nowadays, it's 0w0 ~~what's this?!~~ / Thh-ohh-Thh, not Th-o-Th}* <-
+ -> *~~{Not even kidding you, Theta -\> Omega (with stress) -\> Theta = θώθ}~~* <-
 
  -> ![Splash](https://files.catbox.moe/zfg0cs.jpg) <-
 
@@ -90,6 +92,10 @@
  -> ![Splash](https://files.catbox.moe/6nfc12.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/m1z5bh.jpg) <-
+
+ -> ![Cine Concept](https://files.catbox.moe/pnjtui.jpg) <-
+
+ -> ![Cine Face](https://files.catbox.moe/ccc9i8.jpg) <-
 
  -> ![Classic Splash](https://files.catbox.moe/ial78l.jpg) <-
 

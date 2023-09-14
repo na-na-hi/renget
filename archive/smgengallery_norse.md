@@ -111,11 +111,13 @@
 
  -> ![Weapon Concept](https://files.catbox.moe/12xo09.jpg) <-
 
- -> ![Cinematic Concept]() <-
+ -> ![Cinematic Concept](https://files.catbox.moe/s99pzi.jpg) <-
 
- -> ![Cinematic Face](https://files.catbox.moe/aqsust.png) <-
+ -> ![Cinematic Face](https://files.catbox.moe/ddmf10.jpg) <-
 
- -> ![Cinematic Face FG ](https://files.catbox.moe/je225e.png) <-
+ -> ![Cinematic Face FG](https://files.catbox.moe/e3l1f2.jpg) <-
+
+ -> ![Cinematic Weapon](https://files.catbox.moe/yvvqvj.jpg) <-
 
 -> ![Fire Giant S5-9](https://files.catbox.moe/cuq8vt.png) <-
 
@@ -185,7 +187,7 @@
  -> *{I can't believe he won one!}* <-
  -> *{More seriously, Ratatoskr is supposed to be a literal Sabre-Toothed Squirrel (a Red Squirrel, not the filthy grey rats from burgerland), which sounds fucking awesome.... until I tell you that a squirrel's sabre-teeth usually come from the lower jaw like a boar, over the Sabre-Toothed Tiger's megafangs you were thinking of. The suffix -toskr being an old way to say Tusk / Emphasised Teeth (which is where we get that word from today ~~there's some bickering in the field as to if the chicken or the egg / tusk or teeth came first, but it's the same endresult for the implication in Ratatoskr's name~~) and is phonetically indistinguishable from -t-Oscar.}* <-
 
- -> ![Splash](https://files.catbox.moe/s71pcb.jpg) <-
+ -> ![Splash](https://files.catbox.moe/2w9cg0.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/meg4pg.jpg) <-
 

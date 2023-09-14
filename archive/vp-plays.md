@@ -413,3 +413,4 @@ https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 we're playing pretentious political """satire""" & societal criticism: the fangame again
 expect literally everything to be changed for no reason, and half of the pokemon to basically just become fakemon wearing the skin of mons they used to be
 https://arch.b4k.co/vp/thread/54459801/ 1 it's beginning
+https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao

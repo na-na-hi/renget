@@ -58,6 +58,8 @@
 
  -> ![Concept](https://files.catbox.moe/9uuar1.jpg) <-
 
+ -> ![Concept 2](https://files.catbox.moe/gbsyok.jpg) <-
+
  -> ![Promo](https://files.catbox.moe/jo81ff.jpg) <-
 
  -> **Hachiman** <-
