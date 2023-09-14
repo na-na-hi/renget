@@ -22,7 +22,8 @@
 ⠀
 #
 - - -
-**BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:**
+###ReadMe
+######1. BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:
 • I do not encourage/propagate any illegal/questionable/harmful/unethical activities or hate towards any ethnic groups/nationalities/minorities etc. All prompts and "jailbreaks" are intended for entertaining purposes ONLY.
 • If you want to get access to a certain LLM so you can chat with bots, get access legally. When violating the **Terms of use** keep in mind that access can be taken from you by the key provider [Anthropic/OpenAI].
 • Roleplays and generated stories depict exclusively fictional characters and scenarios, do not represent/encourage/propagate real experiences and are not intended for publishing. Private use only.
@@ -31,25 +32,28 @@
 • While RP with AI is fun, be mindful about how you spend your time. Do not get too attached to your characters. Don't forget about your real friends and close ones, hobbies, shower, walks.
 • Be sure to take rests between *khm* sessions and mind your health. Stop if you are uncomfortable or feel pain/discomfort. I am really-really serious. Dead serious.
 
-**ABOUT VERSIONS:**
+######2. THESE PROMPTS' PURPOSE
+These prompts tend to provide immersive and interactive output. Sex is *very* possible, but accent is on adventures.
+
+######3. ABOUT VERSIONS:
 • Prompts are intended for Claude 100k models.
 • All my prompts are intended for ecchi and rpg-like adventures.
-• Each new X.0 version is not a better version but has major changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes/fixes.
+• Each new X.0 version is not (each time) a better version but has major changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes/fixes.
 • If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase it to perform OOC request.)
 • Not intended for hardcore stuff.
 
 Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
 
-**Q&A:**
+######4. Q&A:
 **Q:** Why XML? 
 **A:** Claude was specifically trained to understand XML tags. Breaking your prompt in <sections> and explaining makes it easier for AI to follow your prompt!
 
 **Q:** Is... Is this a placebo!?
 **A:** It's not. Prompts with powerful words and sentences may have a significant impact on output.
 **Q:** But my sex scenes are the same! And sometimes it loops!
-**A:** Prompts are mostly intended for Adventures and inventiveness. Claude will try to come up with events and situations while keeping its character. It will also add NPCs and surroundings in certain versions. Well, and sex scenes may sometimes become *inventive* too. Just beware of knocks in door... If it loops its either because of LLM's abilities or... your input looks like "I continue doing what I am doing" or you are in the same scene for too long or the LLM lacks enough context. Try something complex, change scene, skip time, write an OOC request.
+**A:** Prompts are mostly intended for Adventures and inventiveness. Claude will try to come up with events and situations while keeping its character. It will also add NPCs and surroundings in certain versions. Well, and sex scenes may sometimes become *inventive* too. Just beware of knocks in door... If it loops it's either because of LLM's abilities or... your input looks like "I continue doing what I am doing" or you are in the same scene for too long or the LLM lacks enough context. Try something complex, change scene, skip time, write an OOC request.
 
-**Q:** Why are you dividing rules in parts and using JB & prefill?
+**Q:** Why do you divide rules in parts and use JB & prefill?
 **A:** Dividing is for user to easy modify the rules. Rules section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. LLMs are ridiculous at the moment... 
 
 **Q:** Sub-JBs???
@@ -65,45 +69,45 @@ Sometimes I leave orthographic mistakes. If they are major - I fix them and reup
 - - -
 # 
 ######CHOOSE PREFERED VERSION:
-
+Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
-02.09.2023 |  [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
- |  | **Features:** 
+02.09.2023 |  ★[V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
+ |  | **Features:** This prompt tends to be more inventive with actions than versions below this one. But it looses some of immersiveness and enviro descriptions.
 30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | **Note:** Variates assistant's reply start (IDK if it's usefull).
- |  | **Features:**
-23.08.2023 |  [V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
- |  | **Features:**
-16.08.2023 |  [V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
- |  | **Features:**
-11.08.2023 | [ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | **Note:** Modifies output like you are texting with {{char}} in messenger chat 
- |  | **Features:**
-11.08.2023 | [V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | **Note:** A mix of 6.7+7+8
- |  | **Features:** 
-09.08.2023 | [V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
- |  | **Features:**
+ |  | **Features:** This prompt is has similar output as v10/v10.1 but makes AI to start with a participle.
+23.08.2023 |  ★[V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
+ |  | **Features:** I **HIGHLY RECOMMEND** this (and previous) one too. Slight changes from v10, similar output.
+16.08.2023 |  ★[V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+ |  | **Features:** I **HIGHLY RECOMMEND** this one, it makes great scenes when you enter a location, but tends to loop enviro descriptions, so delete it if needed. It is a slight improvement of v9 but with modules.
+11.08.2023 | ★[ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | **Note:** Modifies output like you are texting with {{char}} in messenger chat 
+ |  | **Features:** For chatting via messenger with your chars.
+11.08.2023 | ★[V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | **Note:** A mix of 6.7+7+8
+ |  | **Features:** A mix of the best prompts. [Versions that where preferred by the people I know]
+09.08.2023 | ★[V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
+ |  | **Features:** Similar output to previous versions, but AI keep narration around user.
 07.08.2023 | [V7.4 CHEESECAKE](https://rentry.co/CharacterProvider#v74-cheescake) | **Note:** Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
- |  | **Features:**
+ |  | **Features:** Don't recommend this one. It was a desperate attempt to fight with DOORS!
 06.08.2023 | [V7.3 CHEESECAKE](https://rentry.co/CharacterProvider#v73-cheesecake) | **Note:** Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
- |  | **Features:**
+ |  | **Features:** Slight improvements of v7.
 06.08.2023 | [V7.2 CHEESECAKE](https://rentry.co/CharacterProvider#v72-cheesecake) | **Note:** Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
- |  | **Features:**
+ |  | **Features:** Slight improvements of v7.
 05.08.2023 | [V7.1 CHEESECAKE](https://rentry.co/CharacterProvider#v71-cheesecake) | **Note:** This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
- |  | **Features:**
-05.08.2023 | [V7 CHEESECAKE](https://rentry.co/CharacterProvider#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
- |  | **Features:**
-02.08.2023 | [V6.9 CHESTNUT](https://rentry.co/CharacterProvider#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
- |  | **Features:**
+ |  | **Features:** Similar to v7 with randomization. [Don't recommend]
+05.08.2023 | ★[V7 CHEESECAKE](https://rentry.co/CharacterProvider#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
+ |  | **Features:** Improved previous prompt, better structure.
+02.08.2023 | ★[V6.9 CHESTNUT](https://rentry.co/CharacterProvider#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
+ |  | **Features:** Slightly improves output compared to 6.7, but has THE rule work.
 02.08.2023 | [V6.8 CHESTNUT](https://rentry.co/CharacterProvider#v68-chestnut) | **Note:** Tried adding <response length>, doesn't work as intended
- |  | **Features:**
-02.08.2023 | [V6.7 CHESTNUT](https://rentry.co/CharacterProvider#v67-chestnut) | **Note:** Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
- |  | **Features:**
+ |  | **Features:** Don't recommend this one. Similar output to 6.7, but has a rule that doesn't work.
+02.08.2023 | ★[V6.7 CHESTNUT](https://rentry.co/CharacterProvider#v67-chestnut) | **Note:** Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
+ |  | **Features:** Improved v6. Still tends to write A LOT! higlights some words, but AI starts to overuse it. Cool feature tho.
 01.08.2023 | [V6 STABLE](https://rentry.co/CharacterProvider#v6-stable) | **Note:** Experiments starting point...
- |  | **Features:**
+ |  | **Features:** This is where I started experimenting with events, NPCs and enviro. Writes A LOT.
 21.07.2023 | [V4 NAPOLEON](https://rentry.co/CharacterProvider#v4-napoleon) | **Note:** Made it even more compact...
- |  | **Features:**
+ |  | **Features:** Provides ~average result
 17.07.2023 | [V3 HONEYPIE](https://rentry.co/CharacterProvider#v3-honeypie) | **Note:** Tried a compact XML - works fine...
- |  | **Features:**
+ |  | **Features:** Provides ~average result
 
 ##
 - - -

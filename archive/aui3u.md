@@ -1,12 +1,15 @@
-!!!note anti-pozzing prefill for Claude  (`~60-100 tokens`)
+JQRmXDnHqc!!!note anti-pozzing prefill for Claude  (`~60-100 tokens`)
 	* **SillyTavern** : requires at least ==version 1.9.4+== . if you are forced to use the previous version then read **[/g/94684926](https://desuarchive.org/g/thread/94682589/#94684926)**
 	* **Agnai** : requires at least ==version 1.0.140+==. online version is always up-to-date
 
 !!!danger I didn't test it on very hardcore stuff. the 'worst' things I tested it on are: non-con, suicide, body modifications and bestiality.
 
 !!!info if it didn't work for you, or you want the alternative solutions then check:
-	* [**CrustCrunchJB**'s method](https://rentry.co/crustcrunchJB#jailbreak-for-pozzed-keys) ( + test on how **to check the pozzing** on Claude keys) 
+	* [**CrustCrunchJB**'s method](https://rentry.co/crustcrunchJB#jailbreak-for-pozzed-keys) ( + the test how to manually **check the pozzness** of Claude keys) 
+	* [**CharacterProvider**'s method](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key)  
 	...if you know other related rentrys about anti-pozzing, then contact me --I will list them here for cross-reference
+
+https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key
 
 ==**updated: September 08**==
 

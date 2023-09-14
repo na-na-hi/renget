@@ -46,6 +46,7 @@
 
 > 3T Looping Teams for Future Lottos:
 - [Summer 6 90+ Treasure Chests node](https://arch.b4k.co/vg/search/text/Summer%206%2090%2B%20Treasure%20Chests%20node/)
+- [Tunguska Sanctuary Beast IV Raid Cherishment node](https://arch.b4k.co/vg/search/text/Tunguska%20Sanctuary%20Beast%20IV%20Raid%20Cherishment%20node/)
 - [Christmas 7 90+](https://arch.b4k.co/vg/search/text/Christmas%207%2090%2B%20node/)
 - [Space Odysseus Teslafest](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%20/)
 - [Faerie Knights Cup festival](https://arch.b4k.co/vg/search/text/Faerie%20Knights%20Cup%20festival/)

@@ -36,7 +36,6 @@ The music corner where you can find all the links for the music releases and the
 A stream curated list based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendation and based on the future stream.
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams)
 A page dedicated to the membership content - will contain general informations and a list of the mengens with a short description.
-!!! warning The list of stream proper is still in a state of a skeleton - the page will just contain the general informations until the first mengen frame pops up.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **The Lover of Idols (collab pages)**  ![Image description](https://files.catbox.moe/f9inkg.png) <-

@@ -161,6 +161,8 @@ https://www.sdcompendium.com
 https://codeberg.org/tekakutli/neuralnomicon
 ###Animation
 https://rentry.org/AnimAnon
+###Animate-Diff
+https://rentry.org/AnimAnon-AnimDiff
 ###Deforum
 https://rentry.org/AnimAnon-Deforum
 ###Loopback Wave

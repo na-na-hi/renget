@@ -80,10 +80,9 @@ There is an exception as some field work with prose, but it's mostly list like a
 	Now your attributes lorebooks will have separator between them! Which are quite critical.
     (The setting won't apply to already existing lore, make sure you click Update All Entries, (scroll down in Category page.))
 
-Tho, you could do more if you *want*. There are usually two factor:
-\- Depends on how many characters you want loaded at once. Multiple big lores shouldn't be *too* good, but single lore should be fine.
-
 ###Example
+
+([Click here to download a .story that can help you write an entry from blank!](https://cdn.discordapp.com/attachments/340132496949772289/1151947532948226098/Attributes_Generator_2023-09-14T18_27_50.207Z.story)
 
 > **John**
 > Attributes: short, black hair, green eyes, student, wears long trench coat
@@ -93,7 +92,7 @@ Tho, you could do more if you *want*. There are usually two factor:
 > Attributes: my friend, black fur, long tail, big paws
 
 >**Merow**
->attributes: tall, handsome, excellent swordsman, lives atop the hill.
+> Attributes: tall, handsome, excellent swordsman, lives atop the hill.
 
 > **Greenbriar**
 > Type: Town

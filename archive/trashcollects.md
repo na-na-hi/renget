@@ -540,8 +540,8 @@ v5b:
 	https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
 
 # Feral Horses (from /vt/ of all places?)
-READDME
-anonfiles.com/F2V0P7i8z2/horse_safetensors
+
+	https://pixeldrain.com/u/6rZMY2AT
 
 # Roll (Mega-Man)
 ``

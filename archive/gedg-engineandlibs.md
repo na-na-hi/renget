@@ -33,7 +33,7 @@ Tools for those that don't want to reinvent the wheel.
 * [PhysX](https://developer.nvidia.com/physx-sdk):  A powerful C++ physics library.
 * [pygame](https://www.pygame.org/): Python library for game dev.
 * [Ren'Py](https://www.renpy.org/): Engine for making ~~porn~~  visual novels.
-* [raylib](https://www.raylib.com/index.html): Simple to use C game engine. The raylib website provides [examples](https://www.raylib.com/examples.html) and [simple games](https://www.raylib.com/games.html).
+* [raylib](https://www.raylib.com/index.html): Simple to use C library. The raylib website provides [examples](https://www.raylib.com/examples.html) and [simple games](https://www.raylib.com/games.html).
 * [SDL](https://www.libsdl.org/):  C/C++ library that provides access to graphics, audio, and hardware.
 * [spdlog](https://github.com/gabime/spdlog): Speedy C++ logging library.
 * [sokol](https://github.com/floooh/sokol): Header-only C library that provides a large number of abstractions and utilities. This includes a wrapper for OpenGL + Metal + D3D11. There are also some handy [samples](https://floooh.github.io/sokol-html5/) to look at.
@@ -47,5 +47,5 @@ The term "closed" also includes "pay to view" code.
 
 * [Havok](https://www.havok.com/): Physics engine, also has an AI module (pathfinding, navigation meshes, etc.).
 * [RPG Maker](https://www.rpgmakerweb.com/): Tool to easily make Niponese text and number simulators. But more likely you will use it to make a porn/fetish game. Allows for customization if you know Javascript.
-* [Unity ](https://unity.com/):  Widely known, uses C#.
+* [Unity ](https://unity.com/):  ~~Widely known, uses C#.~~  OH NO NO NOOOOOOOOO
 * [Unreal](https://www.unrealengine.com/): AAA game engine, uses C++.

@@ -28,7 +28,7 @@ Zentreya Vod Channel| [Link](https://www.youtube.com/@zentreyatwitchvods8870/vid
 Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)| Twitch: https://www.twitch.tv/apricot
 Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
 Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
-
+Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
 
 
 ---
@@ -70,11 +70,13 @@ Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/wat
 ##[Meiya](https://www.twitch.tv/meiya)
 Content|Link|Description 
 -------|-------|------- 
+Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
 Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)
 Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YsVs0iFMz4AkAv9RTvZ12)
 Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)
+
 
 ##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
 Content|Link|Description 

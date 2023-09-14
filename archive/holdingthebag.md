@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 4th September. All dates dd/mm.
+!!! Note Last updated: 14th September. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -108,6 +108,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
+11162 | VaniVitamins | Open as of 13/09
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -129,7 +130,6 @@ Club ID | Club Name | Club Status
 8192 | Mesugaki | Full as of 21/08
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | Rats | Full as of 04/09
 11830 | TummyArchive | Full as of 29/08
 12395 | 中出しの幸せ (cumshot happiness) | Full as of 30/08
 
@@ -139,13 +139,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+477 | BunnyChasers | Open as of 13/09
 6289 | FlatIsJustice | Open as of 29/08
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
-477 | BunnyChasers | Full as of 22/07
 623 | Mesugaki | Full as of 07/06
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07

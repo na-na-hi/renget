@@ -76,7 +76,7 @@ https://web.archive.org/web/20230712205352/https://rentry.org/HochiTurboTips#pro
 https://rentry.org/jinxbreaks
 
 ##Colours
-![https://files.catbox.moe/oxf5wa.png](https://files.catbox.moe/ywuysa.png)
+![https://pikamansu.neocities.org/cards/MaidXOR.png](https://files.catbox.moe/ywuysa.png)
 
 First, navigate to the regex settings within the SillyTavern program. Here, you can input your desired find and replace values:
 

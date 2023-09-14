@@ -71,7 +71,7 @@ vLLM is also an alternative, there's a fork that supports GPTQ quantized models:
 
 b. text-generation-inference command line that worked for me, it's slower than exllama for single-inference, but scales up better:
 ```
-docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8191 --max-total-tokens 8192 --max-batch-prefill-tokens 8191 --rope-factor 2.6 --rope-scaling dynamic
+docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8184 --max-total-tokens 8192 --max-batch-prefill-tokens 8184 --rope-factor 2.6 --rope-scaling dynamic --quantize gptq
 ```
 
 c. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
