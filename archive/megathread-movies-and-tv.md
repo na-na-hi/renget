@@ -101,9 +101,9 @@
 - Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/bingewatch.to/)
 
-### ▶️ [Cataz](https://cataz.net/)
+### ▶️ [Cataz](https://cataz.to/)
 - One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
-- [URL Safety Results](https://www.urlvoid.com/scan/cataz.net)
+- [URL Safety Results](https://www.urlvoid.com/scan/cataz.to)
 
 ### ▶️ [Cineb](https://cineb.net/)
 - Watch movies from different categories HD quality on your TV, PC, or mobile device without having to register or sign up.

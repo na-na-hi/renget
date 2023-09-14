@@ -32,6 +32,8 @@
 
  -> ![Cine Face](https://files.catbox.moe/fjxznn.jpg) <-
 
+ -> ![First Appearence - Hand of the Gods](https://files.catbox.moe/hmgtzi.jpg) <-
+
  -> **Xbalanque** <-
  -> = *Sh-Buh-ala-NG-ke* <-
  -> *{Ideally would be spelt as ShB'alaNG'ke, but the English langu-.... actually yeah that just looks fucking retarded}* <-

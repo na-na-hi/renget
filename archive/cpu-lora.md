@@ -1,6 +1,6 @@
 # Finetune LoRA on CPU using llama.cpp
 
-!!! danger This feature is working, but it isn't [merged into the master branch YET](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1705652970). I will update the guide with the correct paths once it's merged.
+!!! danger This feature is working, but it isn't [merged into the master branch YET](https://github.com/ggerganov/llama.cpp/pull/2632). I will update the guide with the correct paths once it's merged.
 
 Think of a LoRA finetune as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
 
@@ -40,16 +40,16 @@ Once llama.cpp has been compiled, you don't need to repeat any of these steps (u
 ## Create your LoRA
 
 1. Download a gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q8_0.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
-2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used.
+2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used. Ideally, provide a common string to separate each example that isn't found in your training data, e.g., `<s>`.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
-4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --samples-after-nl`
+4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --sample-start "<s>"`
 
-Obviously you will need to adjust step 4 to specify your actual base model name, training data name, and the number of threads (physical processors) in your system.
+Obviously you will need to adjust step 4 to specify your actual base model name, training data name, sample start string, and the number of threads (physical processors) in your system.
 
 !!! warning The above command uses the default values for a ton of settings.
     Go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
 
-!!! info See [Appendix B](#appendix-b-stheno-training-example) for a full training example using Stheno and training data/chat logs from SillyTavern.
+!!! info See [Appendix B](#appendix-b-training-example) for a full training example using training data/chat logs from SillyTavern.
 
 !!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
 
@@ -67,9 +67,7 @@ If you use llama.cpp's main.exe, [see the documentation for finetune.](https://g
 
 ## Appendix A - Hardware Requirements
 
-!!! warning This section is a work-in-progress, I am adding more metrics periodically.
-
-!!! info TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B).
+!!! info TL;DR: If you limit your context size to 2048, and only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B).
     The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
@@ -82,7 +80,7 @@ I used the following command as my baseline standard:
 llama.cpp/finetune.exe
   --model-base open_llama_3b_v2.Q8_0.gguf
   --train-data shakespeare.txt
-  --lora-out lora.gguf 
+  --lora-out lora.gguf
   --save-every 0
   --threads 14
   --ctx 256
@@ -96,72 +94,76 @@ llama.cpp/finetune.exe
   --lora-alpha 4
   --use-checkpointing
   --use-flash
-  --samples-after-nl
+  --sample-start "\n"
+  --escape
+  --include-sample-start
   --seed 1
 ```
 
 Links to files:
 
 - [shakespeare.txt](https://raw.githubusercontent.com/brunoklein99/deep-learning-notes/master/shakespeare.txt)
-- [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2)
+- [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2), [open_llama_13b](https://huggingface.co/openlm-research/open_llama_13b)
   - Converted and quantized it myself using the instructions in Appendix E to save bandwidth
 
-Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests).
+Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests). Commit [`1cef459`](https://github.com/ggerganov/llama.cpp/commit/1cef45953b404b215f80ec6cceced73da8109abc) was used for testing. I will only retest if a new commit seems like it will have some impact.
 
 ### 3B Metrics
 
-| Command Deviation                     | RAM Usage | Estimated Time | Notes
-|---------------------------------------|-----------|----------------|------
-| Base command                          | 3.02 GB   | 04:33          |
-| `--threads 1`                         | 3.02 GB   | 22:12          |
-| `--threads 2`                         | 3.02 GB   | 11:56          |
-| `--threads 4`                         | 3.02 GB   | 06:32          |
-| `--threads 8`                         | 3.02 GB   | 05:30          | 14 threads used in base command
-| `--threads 15`                        | 3.02 GB   | 04:29          | Using more than # of cores results in unstable measurement times, so while it is faster in these examples, it isn't always the case
-| `--threads 16`                        | 3.02 GB   | 04:19          | In some runs this was the fastest
-| `--threads 17`                        | 3.02 GB   | 04:13          |
-| `--threads 18`                        | 3.02 GB   | 04:09          | In my best run this was the fastest
-| `--threads 20`                        | 3.02 GB   | 04:39          |
-| `--ctx 16`                            | 1.18 GB   | 01:11          |
-| `--ctx 32`                            | 1.23 GB   | 01:23          |
-| `--ctx 64`                            | 1.55 GB   | 01:49          |
-| `--ctx 128`                           | 2.06 GB   | 02:44          | 256 context used in base command
-| `--ctx 512`                           | 5.20 GB   | 08:38          |
-| `--ctx 1024`                          | 9.18 GB   | 17:15          |
-| `--ctx 2048`                          | 11.0 GB   | 1d 15:18       |
-| `--ctx 4096 --rope-freq-scale 0.5`    | 13.9 GB   | 5d 06:33       |
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
-| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
-| `--adam-iter 8`                       | 3.02 GB   | 00:06          |
-| `--adam-iter 16`                      | 3.02 GB   | 00:15          |
-| `--adam-iter 32`                      | 3.02 GB   | 00:32          |
-| `--adam-iter 64`                      | 3.02 GB   | 01:07          |
-| `--adam-iter 128`                     | 3.02 GB   | 02:18          | 256 iterations used in base command
-| `--adam-iter 512`                     | 3.02 GB   | 09:19          |
-| `--adam-iter 1024`                    | 3.02 GB   | 19:04          |
-| `--adam-iter 2048`                    | 3.02 GB   | 1d 14:34       |
-| `--adam-iter 4096`                    | 3.02 GB   | 3d 05:50       |
-| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47          | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 3.39 GB   | 04:50          |
-| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54          | Within margin of error, alpha is basically no-impact
-| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:51          |
-| `--lora-r 64 --lora-alpha 64`         | 4.88 GB   | 05:03          |
-| `--batch 2`                           | 5.20 GB   | 08:27          | Batch 1 used in base command.
-| `--batch 4`                           | 9.18 GB   | 15:57          |
-| `--batch 8`                           | 11.0 GB   | 1d 08:20       |
-| `--batch 16`                          | 13.6 GB   | 2d 17:30       |
-| `--grad-acc 2`                        | 3.02 GB   | 09:33          | These are a non-memory hungry version of batch, they just take slightly longer. Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 3.02 GB   | 18:57          |
-| `--grad-acc 8`                        | 3.02 GB   | 1d 13:58       |
-| `--grad-acc 16`                       | 3.02 GB   | 3d 03:37       |
-| `--no-checkpointing`                  | 15.1 GB   | 04:03          | Checkpointing used in base command.
-| `--no-flash`                          | 3.09 GB   | 04:40          | Flash used in base command.
-| LimaRP-v2-like Settings               | 14.3 GB   | 101d 06:18     | `--ctx 4096 --rope-freq-scale 0.5 --adam-iter 4938 --adam-alpha 0.000065 --lora-r 16 --lora-alpha 16`
+| Command Deviation                     | RAM Usage | Estimated Time  | Notes
+|---------------------------------------|-----------|-----------------|------
+| Base command                          | 3.02 GB   | 04:33           | See the information about my hardware configuration. Thread metrics are heavily tied to your hardware.
+| Realistic Settings                    | 14.3 GB   | 101d 06:18      | **Rerunning this test.** `--ctx 4096 --rope-freq-scale 0.5 --adam-iter 4938 --lora-r 16 --lora-alpha 16`
+| `--threads 1`                         | 3.02 GB   | 22:12           |
+| `--threads 2`                         | 3.02 GB   | 11:56           |
+| `--threads 4`                         | 3.02 GB   | 06:32           |
+| `--threads 8`                         | 3.02 GB   | 05:30           | 14 threads used in base command
+| `--threads 15`                        | 3.02 GB   | 04:29           | Using more than # of cores results in unstable measurement times, so while it is faster in these examples, it isn't always the case
+| `--threads 16`                        | 3.02 GB   | 04:19           | In some runs this was the fastest
+| `--threads 17`                        | 3.02 GB   | 04:13           |
+| `--threads 18`                        | 3.02 GB   | 04:09           | In my best run this was the fastest
+| `--threads 20`                        | 3.02 GB   | 04:39           |
+| `--ctx 16`                            | 1.18 GB   | 01:11           |
+| `--ctx 32`                            | 1.23 GB   | 01:23           |
+| `--ctx 64`                            | 1.55 GB   | 01:49           |
+| `--ctx 128`                           | 2.06 GB   | 02:44           | 256 context used in base command
+| `--ctx 512`                           | 5.20 GB   | 08:38           |
+| `--ctx 1024`                          | 9.18 GB   | 17:15           |
+| `--ctx 2048`                          | 11.0 GB   | 1d 15:18        |
+| `--ctx 4096 --rope-freq-scale 0.5`    | 13.9 GB   | 5d 06:33        |
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
+| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
+| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
+| `--adam-iter 8`                       | 3.02 GB   | 00:06           |
+| `--adam-iter 16`                      | 3.02 GB   | 00:15           |
+| `--adam-iter 32`                      | 3.02 GB   | 00:32           |
+| `--adam-iter 64`                      | 3.02 GB   | 01:07           |
+| `--adam-iter 128`                     | 3.02 GB   | 02:18           | 256 iterations used in base command
+| `--adam-iter 512`                     | 3.02 GB   | 09:19           |
+| `--adam-iter 1024`                    | 3.02 GB   | 19:04           |
+| `--adam-iter 2048`                    | 3.02 GB   | 1d 14:34        |
+| `--adam-iter 4096`                    | 3.02 GB   | 3d 05:50        |
+| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47           | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 3.39 GB   | 04:50           |
+| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54           | Within margin of error, alpha is basically no-impact
+| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:51           |
+| `--lora-r 64 --lora-alpha 64`         | 4.88 GB   | 05:03           |
+| `--batch 2`                           | 5.20 GB   | 08:27           | Batch 1 used in base command.
+| `--batch 4`                           | 9.18 GB   | 15:57           |
+| `--batch 8`                           | 11.0 GB   | 1d 08:20        |
+| `--batch 16`                          | 13.6 GB   | 2d 17:30        |
+| `--grad-acc 2`                        | 3.02 GB   | 09:33           | These are a non-memory hungry version of batch, they just take slightly longer. Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 3.02 GB   | 18:57           |
+| `--grad-acc 8`                        | 3.02 GB   | 1d 13:58        |
+| `--grad-acc 16`                       | 3.02 GB   | 3d 03:37        |
+| `--no-checkpointing`                  | 15.1 GB   | 04:03           | Checkpointing used in base command.
+| `--no-flash`                          | 3.09 GB   | 04:40           | Flash used in base command.
 
 Additional notes:
 
 - **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
   - llama.cpp uses `mmap` to load files, which has the side effect of hiding the real RAM usage (sort of). If you enable the "Working Set" memory in task manager, you can kind of see a closer value to the real usage.
+  - If you think showing the "Working Set" memory metrics in the table above would be better, please let me know.
 - RAM usage spikes during tokenization, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
 - Margin of error for time estimates can be quite large for some tests. If the numbers are all hovering around a value, you can assume it's basically "no change".
   - `--adam-alpha` has no impact on training time or memory usage.
@@ -178,6 +180,7 @@ The 7B base command is the same as 3B, but using a 7B model: `--model-base open_
 | Command Deviation                     | RAM Usage | Estimated Time  | Notes
 |---------------------------------------|-----------|-----------------|------
 | Base command                          | 4.65 GB   | 10:38           |
+| Realistic Settings                    | 24.4 GB   | 198d 19:47      | **Rerunning this test.** See 3B for setting details
 | `--ctx 16`                            | 1.71 GB   | 02:53           |
 | `--ctx 32`                            | 1.97 GB   | 03:23           |
 | `--ctx 64`                            | 2.30 GB   | 04:21           |
@@ -188,6 +191,8 @@ The 7B base command is the same as 3B, but using a 7B model: `--model-base open_
 | `--ctx 4096 --rope-freq-scale 0.5`    | 23.8 GB   | 10d 04:54       |
 | `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
 | `--ctx 16384 --rope-freq-scale 0.125` |           |                 | Work-in-progress
+| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
+| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
 | `--adam-iter 8`                       | 4.65 GB   | 00:14           |
 | `--adam-iter 16`                      | 4.65 GB   | 00:35           |
 | `--adam-iter 32`                      | 4.65 GB   | 01:19           |
@@ -206,7 +211,6 @@ The 7B base command is the same as 3B, but using a 7B model: `--model-base open_
 | `--grad-acc 4`                        | 4.66 GB   | 1d 21:09        |
 | `--no-checkpointing`                  | 28.7 GB   | 09:45           | Checkpointing used in base command.
 | `--no-flash`                          | 4.54 GB   | 11:07           | Flash used in base command.
-| LimaRP-v2-like Settings               | 24.4 GB   | 198d 19:47      | See 3B for setting details
 
 Additional notes:
 
@@ -218,38 +222,39 @@ Additional notes:
 
 The 13B base command is the same as 3B, but using a 13B model: `--model-base open_llama_13b.Q8_0.gguf`
 
-| Command Deviation                     | RAM Usage | Estimated Time | Notes
-|---------------------------------------|-----------|----------------|------
-| Base command                          | 6.90 GB   | 22:31          |
-| `--ctx 16`                            | 2.48 GB   | 05:41          |
-| `--ctx 32`                            | 2.87 GB   | 06:58          |
-| `--ctx 64`                            | 3.37 GB   | 09:18          |
-| `--ctx 128`                           | 4.63 GB   | 14:23          | 256 context used in base command
-| `--ctx 512`                           | 12.0 GB   | 1d 18:38       |
-| `--ctx 1024`                          | 21.8 GB   | 3d 08:11       |
-| `--ctx 2048`                          | 36.4 GB   | 7d 05:56       |
-| `--ctx 4096 --rope-freq-scale 0.5`    |           |                | Work-in-progress
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                | Work-in-progress
-| `--ctx 16384 --rope-freq-scale 0.125` |           |                | Work-in-progress
-| `--adam-iter 8`                       | 6.90 GB   | 00:32          |
-| `--adam-iter 16`                      | 6.90 GB   | 01:15          |
-| `--adam-iter 32`                      | 6.90 GB   | 02:50          |
-| `--adam-iter 64`                      | 6.90 GB   | 05:52          |
-| `--adam-iter 128`                     | 6.90 GB   | 11:41          | 256 iterations used in base command
-| `--adam-iter 512`                     | 6.90 GB   | 2d 00:37       |
-| `--adam-iter 1024`                    | 6.90 GB   | 4d 02:31       |
-| `--adam-iter 2048`                    | 6.90 GB   | 8d 03:19       |
-| `--adam-iter 4096`                    | 6.90 GB   | 16d 03:13      |
-| `--lora-r 8 --lora-alpha 8`           | 7.19 GB   | 1d 00:11       | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 7.79 GB   | 1d 00:42       |
-| `--lora-r 64 --lora-alpha 64`         | 11.4 GB   | 1d 01:44       |
-| `--batch 2`                           | 12.0 GB   | 1d 19:10       | Batch 1 used in base command.
-| `--batch 4`                           | 21.8 GB   | 3d 07:47       |
-| `--grad-acc 2`                        | 6.90 GB   | 2d 00:42       | Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 6.90 GB   | 3d 23:34       |
-| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35       | **See additional notes below.** Checkpointing used in base command.
-| `--no-flash`                          | 6.83 GB   | 23:12          | Flash used in base command.
-| LimaRP-v2-like Settings               |           |                | Work-in-progress
+| Command Deviation                     | RAM Usage | Estimated Time  | Notes
+|---------------------------------------|-----------|-----------------|------
+| Base command                          | 6.90 GB   | 22:31           |
+| Realistic Settings                    |           |                 | Work-in-progress
+| `--ctx 16`                            | 2.48 GB   | 05:41           |
+| `--ctx 32`                            | 2.87 GB   | 06:58           |
+| `--ctx 64`                            | 3.37 GB   | 09:18           |
+| `--ctx 128`                           | 4.63 GB   | 14:23           | 256 context used in base command
+| `--ctx 512`                           | 12.0 GB   | 1d 18:38        |
+| `--ctx 1024`                          | 21.8 GB   | 3d 08:11        |
+| `--ctx 2048`                          | 36.4 GB   | 7d 05:56        |
+| `--ctx 4096 --rope-freq-scale 0.5`    |           |                 | Work-in-progress
+| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
+| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
+| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
+| `--adam-iter 8`                       | 6.90 GB   | 00:32           |
+| `--adam-iter 16`                      | 6.90 GB   | 01:15           |
+| `--adam-iter 32`                      | 6.90 GB   | 02:50           |
+| `--adam-iter 64`                      | 6.90 GB   | 05:52           |
+| `--adam-iter 128`                     | 6.90 GB   | 11:41           | 256 iterations used in base command
+| `--adam-iter 512`                     | 6.90 GB   | 2d 00:37        |
+| `--adam-iter 1024`                    | 6.90 GB   | 4d 02:31        |
+| `--adam-iter 2048`                    | 6.90 GB   | 8d 03:19        |
+| `--adam-iter 4096`                    | 6.90 GB   | 16d 03:13       |
+| `--lora-r 8 --lora-alpha 8`           | 7.19 GB   | 1d 00:11        | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         | 7.79 GB   | 1d 00:42        |
+| `--lora-r 64 --lora-alpha 64`         | 11.4 GB   | 1d 01:44        |
+| `--batch 2`                           | 12.0 GB   | 1d 19:10        | Batch 1 used in base command.
+| `--batch 4`                           | 21.8 GB   | 3d 07:47        |
+| `--grad-acc 2`                        | 6.90 GB   | 2d 00:42        | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        | 6.90 GB   | 3d 23:34        |
+| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35        | **See additional notes below.** Checkpointing used in base command.
+| `--no-flash`                          | 6.83 GB   | 23:12           | Flash used in base command.
 
 Additional notes:
 
@@ -263,32 +268,29 @@ Additional notes:
 !!! danger I am working on these tests now and I hope to have some results by the end of the week.
     Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
 
-## Appendix B - Stheno Training Example
+## Appendix B - Training Example
 
-!!! danger Currently, the only sample separator option is `--samples-after-nl`. There is a change coming to allow delimiting by a specified separator.
-
-!!! warning I am not an expert on training data formatting. If I have misunderstood the expected format, PLEASE let me know so I can put the data in a more optimal format.
-
-The first thing you'll want to do is prepare your training data. Generally it's best to match the format the original model was trained with. Since Stheno uses the Alpaca format, the examples here will match that as well. Start by creating a text file named `C:\lora\training-data.txt`, and copy this template into it:
+First, let's talk about formatting our training data. It's best to match the format the original model was trained with. I'm going to use Stheno as an example, and since it uses the Alpaca format, the examples here will match that as well. Start by creating a text file named `C:\lora\training-data.txt`, and copy this template into it:
 
 ```
-<s>
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<s>Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
 {prompt}
 
 ### Response:
 {response}
-</s>
 ```
 
-This is more-or-less what "instruct tuning" means. Basically we finetune the model in a format designed to be provided as an instruction. Some models are meant for story telling, and down follow any particular format. If you're using one of those models, you can pretty much format the text however you want (obviously, pick a consistent format).
+This is format is more-or-less matches what "instruct tuning" does, it helps train the model to respond to a users prompt with a response. Some data sets use "Instruction", "Input", "Response", which is also a good format. You don't NEED to follow this formatting, you're welcome to format your data however you'd like. For example, if you're trying to train it to continue writing a novel from where a user left off, you would just format your data set like a novel, maybe using `<s>` to separate out different writing samples. Regardless of formatting, it's recommended that you vary your examples as much as possible (e.g., randomize the first line from a set of examples so the model doesn't just learn to ignore it).
 
-So lets say that you have a chat between a character named Amy, and a user named John. Amy probably also has a character card, and the scenario has some world info. You'll want to convert the text from your chat into this format:
+!!! info The `<s>` in these examples is just an arbitrary string that separates each example from the next. See `--sample-start`.
+    You can use any value you want, but whatever you choose CANNOT appear anywhere in your training data, and it MUST be consistent. If you have XML/HTML data in your examples, you may want to choose a different sequence.
+
+Lets say that you have a chat between a character named Amy, and a user named John. Amy probably also has a character card, and the scenario has some world info. You'll want to convert the text from your chat into this format:
 
 ```
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<s>Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
 {world information}
@@ -309,7 +311,7 @@ Amy: {fifth message}
 Here's a simple example:
 
 ```
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
+<s>Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
 ### Instruction:
 Amy is an 5' 2" tall, 120 lb, 18-year-old girl from Michigan with shoulder-length bright red hair, and freckles. She likes go-karts.
@@ -323,27 +325,23 @@ John: "Sure! Let's go!"
 Amy: *You've never seen her so excited before. She grabs your wrist, dragging you off towards the go-karts.*
 ```
 
-Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting).
+Make sure to include examples from both characters so that "impersonate" prompts works correctly (ideally, try to exactly match the SillyTavern prompt formatting). Use different character names for each example so the model doesn't only work with the names you provide. Alternatively, replace all names with "USER" and "ASSISTANT" (or "BOT", or "CHARACTER", or whatever other names you'd like to use). If you want to give examples with multiple characters you can probably do something like "USER", "CHAR1", "CHAR2", etc., the key being to make sure each character has a unique name.
 
-!!! info Each block here is one training sample. Currently, it only supports delimiting by new line, but they are adding a delimiter token to improve this.
-    You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.
+!!! info Each block here is one training sample. You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.
 
-While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format. If anyone knows of some scripts to do this, I'd like to include it in this guide.
+While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format.
 
 One last thing to note: Make sure the text file uses \*nix style line endings (`\n`), not Windows style (`\r\n`). Most text editors have an option to switch the formatting.
 
-Next, just follow the "Create your LoRA" instructions above, and use this command: `llama.cpp/finetune.exe --model-base stheno-l2-13b.Q5_K_M.gguf --train-data training-data.txt`
+Next, just follow the "Create your LoRA" instructions above, and use this command: `llama.cpp/finetune.exe --model-base stheno-l2-13b.Q5_K_M.gguf --train-data training-data.txt --sample-start "<s>"`
 
 !!! info Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
-
-!!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
-
-!!! warning If you use a different model, the beginning, ending, and line feed tokens can be different.
-    Run a small text file of training data through `finetune.exe` **before** you format your training data. When it loads, confirm these settings `BOS token = 1 '<s>'`, `EOS token = 2 '</s>'`, and '`LF token = 13 '<0x0A>'`. **If any of these don't match, you need to change the above formatting to match them.**
 
 ## Appendix C - finetune.exe Usage
 
 The command line help is good, but I still had a few questions about the meaning of some parameters, so I'm trying to compile what I learn here. Some parameters are self-explanatory. If any of these are wrong, or you can clarify them better, please let me know! I have tried to categorize them, and order them to make it easier to get started.
+
+Arguments are based on commit `7898652`.
 
 ### File Management
 
@@ -353,7 +351,7 @@ These parameters just help organize files/control file naming.
   - Example: `--model-base stheno-l2-13b.Q5_K_M.gguf`
 - `--train-data FNAME`: Path from which to load training data (default 'shakespeare.txt')
   - Example: `--train-data roleplay-logs.txt`
-  - See [Appendix B](#appendix-b-stheno-training-example) for training data examples.
+  - See [Appendix B](#appendix-b-training-example) for training data examples.
 - `--checkpoint-in FNAME`: Path from which to load training checkpoint (default 'checkpoint.gguf')
   - If your training stops prematurely, you can resume from the last checkpoint. This just specifies the filename of the checkpoint to resume from. If the file doesn't exist, it will silently start from scratch, so make sure it matches the 'checkpoint-out' setting!
   - Example: `--checkpoint-in chk-lora-stheno-l2-13b-q5_k_m-LATEST.gguf`
@@ -375,6 +373,32 @@ These parameters just help organize files/control file naming.
   - Example: `--save-every 1`
   - If each iteration is taking a very long time, it may be worth it to set this to '1'
 
+### Data Formatting
+
+These values should align with the format of your training data.
+
+- `--sample-start STR`: Sets the starting point for samples after the specified pattern. If empty use every token position as sample start. (default '')
+  - If you're following along with the examples provided above, you'll want to use `<s>`, but really any string you want to use here is fine.
+  - Some patterns need to be escaped to use (e.g., new lines), see `--escape`.
+  - Example: `--sample-start "<s>"`
+- `--escape`: Process sample start escapes sequences (`\n`, `\r`, `\t`, `\'`, `\"`, `\\`)
+  - If you want to use new lines, tabs, quotes, or backslashes in your `--sample-start`, you need to escape them first, then using `--escape` will un-escape them later.
+  - Example: `--sample-start "\n" --escape`
+- `--include-sample-start`: Include the sample start in the samples. (default off)
+  - You usually don't want to use this, but if you do something like setting `\n` as your only delimiter, it may make sense to use it so that new lines still show up in your outputs.
+  - Example: `--sample-start "\n" --escape --include-sample-start `
+- `--overlapping-samples`: Samples may overlap, will include sample-start of second and following samples. When off, samples will end at begin of next sample. (default off)
+  - Basically, setting this will cause it to continue into the next example after your entire example has been processed.
+  - TODO: Investigate this more. See if this results in better/worse outputs. It may be undesirable for it to learn to continue after a sample completes.
+- `--fill-with-next-samples`: Samples shorter than context length will be followed by the next (shuffled) samples. (default off)
+  - If you're providing a ton of samples smaller than your context size, this may be a good thing to set.
+- `--separate-with-eos`: When `fill-with-next-samples`, insert end-of-sequence token between samples.
+- `--separate-with-bos`: When `fill-with-next-samples`, insert begin-of-sequence token between samples. (default)
+- `--no-separate-with-eos`: When `fill-with-next-samples`, don't insert end-of-sequence token between samples. (default)
+- `--no-separate-with-bos`: When `fill-with-next-samples`, don't insert begin-of-sequence token between samples.
+- `--force-reshuffle`: Force a reshuffling of data at program start, otherwise the shuffling of loaded checkpoint is resumed.
+  - Each time all the samples has been processed once (1 epoch), it randomly shuffles the order of the samples. When using checkpoints, the sample shuffle is preserved between checkpoints, allowing it resume the current shuffle if the program were to crash. Using this overrides that behavior and causes it to reshuffle everything instead of loading it from the checkpoint. I'm not sure why you'd want to use this.
+
 ### Performance
 
 These only affect system performance.
@@ -387,35 +411,35 @@ These only affect system performance.
 - `--use-checkpointing`: Use gradient checkpointing (default)
   - See `--no-checkpointing` above.
 
-### Input Model Parameters
-
-These vary based on the input model's information.
-
-- `--rope-freq-base F`: Frequency base for ROPE (default 10000.000000)
-  - This number should match the rope freq. base used on the input model. **Usually the default is correct, but for code llama models you should use `1000000`.**
-  - Example: `--rope-freq-base 1000000`
-
 ### LoRA Quality
 
 These directly impact the quality of your LoRA. You should definitely read these and intentionally set them to specific values. This is probably the most confusing and unintuitive part of training.
 
 !!! info If you just want settings like [LimaRP v2](https://huggingface.co/lemonilia/limarp-llama2-v2), you can use these: `--ctx 8192 --batch 1 --grad-acc 1 --lora-alpha 16 --lora-r 16 --adam-iter 3100 --adam-alpha 0.000065`
-    Set `--adam-iter` to 2x the number of samples in your data. They had 1550 samples. Also, `--lora-dropout` [isn't implemented yet](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781) in llama.cpp.)
+    Set `--adam-iter` to 2x the number of samples in your data. They had 1550 samples. Also, `--lora-dropout` [isn't implemented yet](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1693516781) in llama.cpp.
 
-These first two control the context size:
+These first three control the context size:
 
 - `-c N`, `--ctx N`: Context size used during training (default 128)
-  - The context size used during training is similar to the context size you use during text generation. Larger sizes greatly increase memory usage and training time, so beware. Using a context size smaller than the base model *shouldn't* affect the base model too much, but **each of your training data examples *should* be under this context size**.
+  - The context size used during training is similar to the context size you use during text generation. Larger sizes greatly increase memory usage and training time, so beware.
+    - Using a context size smaller than the base model *shouldn't* affect the base model too much, but **each of your training data sections *should* be under this context size**, or they will be cut off at the context size.
+      - Consider spliting large training data sections into multiple smaller sections.
   - Example: `-c 2048`
+- `--rope-freq-base F`: Frequency base for ROPE (default 10000.000000)
+  - Usually you set this number to match the rope frequency base used on the input model.
+    - Most llama models use `10000`, Code Llama models use `1000000` (1e6).
+    - If you use a context size larger than the base model, you should adjust either `--rope-freq-base` or `--rope-freq-scale`. Increasing `--rope-freq-base` performs better than decreasing `--rope-freq-scale`.
+    - For 2x scaling use `32000`, or for 4x scaling use `82000`. If it's for a Code Llama model (which has a base of `1000000`), use `3200000` or `8200000`.
+      - AFAIK, these numbers were found by trying different values and looking for the lowest perplexity.
+  - Example: `--rope-freq-base 1000000`
 - `--rope-freq-scale F`: Frequency scale for ROPE (default 1.000000)
-  - I need to look into this more, but it seems like you can use RoPE to scale up your context size for models with a low context size on the base model, just like during text generation. So if you wanted to train some 16k data, but your context size is only 4k, you could use a value of 4 to make up the difference.
+  - See `--rope-freq-base` above. For 2x scaling use `0.5`, or of 4x scaling use `0.25`.
+  - Example: `--rope-freq-scale 0.5`
 
 These three control how much data is processed and are based on the number of training samples you have:
 
 !!! warning If you are experienced at training LoRA's, please let me know if this section is correct/incorrect!
 
-- `--samples-after-nl`: Training samples start after newlines. (default off)
-  - Currently, this MUST be set or each individual token is treated as its own sample, which is probably not what you want.
 - `-b N`, `--batch N`: Parallel batch size (default 8)
   - Larger batch sizes lead to better quality training at the expense of more RAM. Some recommendations say to set this as large as your hardware can support. I've seen a few different data sets that just use a size of 1.
   - Ideally your batch size should be an integer multiple of your number of training samples. E.g., if you have 512 training samples, you would want to use 1, 2, 4, 8, 16 32, 64, 128, 256, or 512. If it isn't an integer multiple, some batches just won't contain an ideal number of samples, which is just less efficient. Some people add/remove items from their training set to get a nicer batch size. Other people just use a batch size of 1, which keeps it simple.
@@ -429,9 +453,6 @@ These three control how much data is processed and are based on the number of tr
   - Example: `--adam-iter 30`
 
 !!! info After all of the training data has been seen once (1 epoch), finetune will reshuffle your training examples, which results in batches with different samples.
-
-!!! warning Currently, if you stop training part-way through and resume from a checkpoint you will end up with a different end result because [certain randomized information isn't stored across runs](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1708761811).
-    So if it's important to you to be able to perfectly reproduce your LoRA, make sure you don't stop and restart the training.
 
 These three control how well the model learns:
 
@@ -493,8 +514,6 @@ These are things you probably don't want to use, or just won't care about.
 - `--norm-rms-eps F`: RMS-Norm epsilon value (default 0.000010)
 - `--no-flash`: Don't use flash attention
 - `--use-flash`: Use flash attention (default)
-- `--no-alloc`: Don't use allocator
-- `--use-alloc`: Use allocator (default)
 - `--warmup N`: Only for Adam optimizer. Number of warmup steps (default 100)
 - `--cos-decay-steps N`: Only for Adam optimizer. Number of cosine decay steps (default 1000)
 - `--cos-decay-restart N`: Only for Adam optimizer. Increase of cosine decay steps after restart (default 1.100000)
@@ -525,8 +544,8 @@ I'm just using this section to compile all the questions I've seen and there ans
 **Q:** Does this mean that I could use Star Trek episode scripts to fine tune a model for a more accurate Spock with access to his dialogue from said scripts?
 **A:** Yes and no. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and training data is not stored verbatim. However, if you repeat the same information multiple times (preferably rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
 
-**Q:** Which base model should I use?/Why Stheno and not Mythomax?
-**A:** You generally want to start with the smartest model, or a model that's already close to what you want, and fine-tune in specific behavior.
+**Q:** Which base model should I use?
+**A:** You generally want to start with the smartest model, or a model that's already close to what you want, and fine-tune in specific behavior. The latest llama models are also a good choice.
 
 **Q:** How do I know it's running?/It looks stuck, is this normal?
 **A:** If the last line looks like the text below, it's running. It will just take a while. The "eta" gets more accurate after iteration 2 or 3.
@@ -535,6 +554,9 @@ opt_callback: iter=     0 sched=0.000000 loss=0.000000 dt=1.0ms eta=30.0ms |->
 opt_callback: iter=     1 sched=0.010000 loss=3.457290 dt=00:24:17 eta=11:44:33 |->
 ```
 It can also get stuck on `main: tokenize training data` for quite a while if you have a large data set (>50 MB)
+
+**Q:** Some of RAM sizes you reported are smaller than the size of the model itself. Is that wrong? How is it so memory efficient?
+**A:** See [this post](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1714366066). It explains it well, and is a good read.
 
 ## Appendix E - Converting Models for llama.cpp
 
@@ -570,6 +592,8 @@ Replace the model name with the name of the model you converted above. Replace `
 
 ## Changelog
 
+- 2023-09-13
+  - Updated for changes in llama.cpp, up to commit xaedes:f627e2f.
 - 2023-09-11
   - Updated Appendix A performance metrics for 13B models.
     - Some tests added for 3B and 7B for 4096 context size

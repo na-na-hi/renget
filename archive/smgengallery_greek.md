@@ -177,7 +177,9 @@
 
  -> ![Splash](https://files.catbox.moe/bnev38.jpg) <-
 
- -> ![Concept](https://files.catbox.moe/o341b1.jpg) <-
+ -> ![Concept A](https://files.catbox.moe/kszgmj.jpg) <-
+
+ -> ![Concept B](https://files.catbox.moe/h3fqgx.jpg) <-
 
  -> ![Boat Concept](https://files.catbox.moe/6b3m82.jpg) <-
 
@@ -186,6 +188,8 @@
  -> ![Cine Concept](https://files.catbox.moe/1i7jew.jpg) <-
 
  -> ![Cine Face](https://files.catbox.moe/3w82oj.jpg) <-
+
+ -> ![First Appearence - Cerberus Recolor Splash](https://files.catbox.moe/wesnvv.jpg) <-
 
  -> **Atlas** <-
  -> = *At-Las* <-
@@ -219,7 +223,7 @@
 
  -> ![Concept](https://files.catbox.moe/ewvlg4.jpg) <-
 
- -> ![First Appearence](https://files.catbox.moe/w46vxd.jpg) <-
+ -> ![First Appearence - Statue](https://files.catbox.moe/w46vxd.jpg) <-
 
  -> **Medusa** <-
  -> = *Meh-Dew-Sa* <-
@@ -233,7 +237,7 @@
 
  -> ![Under the Mask](https://files.catbox.moe/0mdqs0.png) <-
 
- -> ![First Appearence](https://files.catbox.moe/xxs9vh.jpg) <-
+ -> ![First Appearence - Statue](https://files.catbox.moe/xxs9vh.jpg) <-
 
  -> **Scylla** <-
  -> = *Sill-Ah* <-
@@ -285,9 +289,9 @@
  -> *{Not Mar-Teee-K(h)or-Ass}* <-
 
  -> *{Contrary to ~~retards on leddit~~ uninformed outsiders, this one is indeed a singular mythological (named and attested) entity, who is more 'confused' rather than 'obscure'. Much like Lamia, Martichoras / the Manticore was never originally given as a 'species' type of monster, simply a powerful Man-Eater (literal translation) far within Inner Asia (anywhere further-East than Afghanistan) that was relayed to the Greeks by trading Persians}* <-
- -> *{The Marticoras is not a Persian monster, rather, the word Martichoras is a loan-word from the Persians, because instead of translating it into the Greek term for the same meaning (Androphagi / Man-Eater), it was treated as a different creature entirely. This was due to the fact Androphagi already had an understood depiction (a humanoid tribe of cannibals that lived to the North-East, just North of modern-day Crimea), which clashed greatly with the animalistic description of the Martichoras. From there, by simple grammatical standards, it was assumed to be one creature by the Greeks and later Europeans (a single, colossal, ferocious Manticore that prowled Inner Asia and terrorized the populace, much like how the Sphinx once did the same to Thebes or the Calydonian Boar did to Aetolia), and was hybridised with various other creatures unique to South Asia (that was thought to be different aspects of the same beast); resulting in the Persian Martiya and the Greek Martichoras / European Manticore distinctly separate creatures}* <-
+ -> *{The Marticoras is not a Persian monster however. Rather, the word Martichoras is a loan-word from the Persians - because instead of translating it into the Greek term for the same meaning (Androphagi / Man-Eater), it was thought to be a different creature entirely. This was due to the fact Androphagi already had an understood depiction (a barely-humanoid tribe of cannibal-creatures that lived to the North-East, just North of modern-day Crimea ~~in Ukraine~~), which clashed greatly with the animalistic description of the Martichoras. From there, by simple grammatical standards, it was assumed to be one creature by the Greeks and later Europeans (a single, colossal, ferocious Manticore that prowled Inner Asia and terrorized the populace, much like how the Sphinx once did the same to Thebes or the Calydonian Boar did to Aetolia), and was hybridised with various other creatures unique to South Asia (that was thought to be different aspects of the same beast); resulting in the Persian Martiya and the Greek Martichoras / European Manticore becoming distinctly separate creatures}* <-
 
- -> *{Overall, likely the Greek understanding of a Tiger}* <-
+ -> *{Overall, probably the Greek understanding of a Tiger}* <-
 
  -> ![Splash](https://files.catbox.moe/ajm4ce.jpg) <-
 

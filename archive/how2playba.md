@@ -6,7 +6,7 @@ How to play the game for the completely retarded. Not just a reroll guide. Scrol
 ##Top Tips 
 - Match colours (e.g. red enemy = use red units) 
 - Read the story (it's fun) 
-- Rush through normal missions to unlock cafe upgrades and game modes 
+- Rush through normal missions to unlock cafe upgrades and game modes. Don't worry about 3*'ing too much. 
 - Splurge ur AP. 1 AP = 1 Account XP, so dump stamina to level up. 
 - Take advantage of the school bonuses and use CC in Bounty 
 - [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 

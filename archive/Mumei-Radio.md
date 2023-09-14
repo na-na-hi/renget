@@ -316,10 +316,147 @@
 74. [If I Die Young - The Band Perry](https://files.catbox.moe/vr50ll.mp4)
 ~~[Little Talks - Of Monsters and Men](https://files.catbox.moe/pwow48.mp4)~~
 ~~[A New Start - Nanashi Mumei](https://files.catbox.moe/im5h01.mp4)~~
+
 ***
+
+####->『2023-09-14』 - 【UNARCHIVED】Endurance Karaoke REBROADCAST ~ [3Oi6T213yLY]<-
+>[Go back to the top](https://rentry.org/Mumei-Radio)
+***
+001. Mamma Mia - ABBA  | [Catbox](https://files.catbox.moe/sakrct.mp4) |   [Cloudup](https://cldup.com/6euk3nTkJO.mp4) | 
+002. Thnks fr th Mmrs - Fall Out Boy   | [Catbox](https://files.catbox.moe/su42sv.mp4) |  [Cloudup](https://cldup.com/E-1DTY-CZF.mp4) | 
+003. Gives You Hell - The All-American Rejects   | [Catbox](https://files.catbox.moe/ido090.mp4) |  [Cloudup](https://cldup.com/Be3Qq2pzgd.mp4) | 
+004. Stand by Me - Ben E. King    | [Catbox](https://files.catbox.moe/0x23d2.mp4) | [Cloudup](https://cldup.com/CMeg1foytj.mp4) | 
+005. Irreplaceable - Beyonce   | [Catbox](https://files.catbox.moe/imu8st.mp4) |  [Cloudup](https://cldup.com/GDG-t2bQlb.mp4) | 
+006. Wonderwall - Oasis   | [Catbox](https://files.catbox.moe/r09br7.mp4) |  [Cloudup](https://cldup.com/yCT1v94Ya5.mp4) | 
+007. The Lazy Song - Bruno Mars   | [Catbox](https://files.catbox.moe/lshs6n.mp4) |  [Cloudup](https://cldup.com/EgXFOx4ZTU.mp4) | 
+008. Payphone - Maroon 5   | [Catbox](https://files.catbox.moe/dvuj8d.mp4) |  [Cloudup](https://cldup.com/6FecliZJFE.mp4) | 
+009. Sunflower - Post Malone, Swae Lee   | [Catbox](https://files.catbox.moe/ndk95f.mp4) |  [Cloudup](https://cldup.com/gbEOhM6XeM.mp4) | 
+010. Mr. Brightside - The Killers   | [Catbox](https://files.catbox.moe/1ge5fv.mp4) |  [Cloudup](https://cldup.com/fQIrwVffQZ.mp4) | 
+- Break #1
+- Afk
+- Back
+011. You Belong With Me - Taylor Swift   | [Catbox](https://files.catbox.moe/bshvxo.mp4) |  [Cloudup](https://cldup.com/yOz7Zuj5Yq.mp4) | 
+012. Fireflies - Owl City   | [Catbox](https://files.catbox.moe/v6kpcr.mp4) |  [Cloudup](https://cldup.com/daq4UaAbZt.mp4) | 
+013. Dreams - Fleetwood Mac   | [Catbox](https://files.catbox.moe/8e2c3a.mp4) |  [Cloudup](https://cldup.com/G7d--Gls8a.mp4) | 
+014. Sugar, We're Goin Down - Fall Out Boy   | [Catbox](https://files.catbox.moe/4pti8d.mp4) |  [Cloudup](https://cldup.com/fNd15g9uRv.mp4) | 
+015. Jack Sparrow - The Lonely Island Ft. Michael Bolton    | [Catbox](https://files.catbox.moe/uekroz.mp4) | [Cloudup](https://cldup.com/Dap_bDyLZn.mp4) | 
+016. Take Me Home, Country Roads - John Denver    | [Catbox](https://files.catbox.moe/s0y5m0.mp4) | [Cloudup](https://cldup.com/AVDnM4qd04.mp4) | 
+017. Hey, Soul Sister - Train    | [Catbox](https://files.catbox.moe/48xvqy.mp4) | [Cloudup](https://cldup.com/NZfBBzbrY1.mp4) | 
+018. Somebody That I Used to Know - Gotye   | [Catbox](https://files.catbox.moe/intk5l.mp4) |  [Cloudup](https://cldup.com/Nr80J4P76S.mp4) | 
+019. Landslide - The Chicks    | [Catbox](https://files.catbox.moe/5nyauv.mp4) | [Cloudup](https://cldup.com/v29TkNI373.mp4) | 
+020. Burn - Hamilton   | [Catbox](https://files.catbox.moe/we1roa.mp4) |  [Cloudup](https://cldup.com/tpBs9FXkUO.mp4) | 
+021. Man in the Mirror - Michael Jackson   | [Catbox](https://files.catbox.moe/xejd1k.mp4) |  [Cloudup](https://cldup.com/UAlmTKX8Fr.mp4) | 
+022. Stay - The Kid Laro & Justin Bieber   | [Catbox](https://files.catbox.moe/hgxzpl.mp4) |  [Cloudup](https://cldup.com/ujd3K-kZIV.mp4) | 
+023. I Miss You - Blink-182   | [Catbox](https://files.catbox.moe/vguux9.mp4) |  [Cloudup](https://cldup.com/VgOnL1tCDo.mp4) | 
+- Break #2
+024. The Best Day Ever - The SpongeBob SquarePants Movie    | [Catbox](https://files.catbox.moe/uha9xj.mp4) | [Cloudup](https://cldup.com/qIu7tXkxZd.mp4) | 
+025. Ocean Man - Ween   | [Catbox](https://files.catbox.moe/cm6vos.mp4) |  [Cloudup](https://cldup.com/Oz_Y_LljsI.mp4) | 
+026. Good Riddance - Green Day    | [Catbox](https://files.catbox.moe/ipfaf6.mp4) | [Cloudup](https://cldup.com/ci1sKZnPUu.mp4) | 
+027. Mountain Dew - The Stanley Brothers   | [Catbox](https://files.catbox.moe/oy2fvr.mp4) |  [Cloudup](https://cldup.com/LSCTVDPFwI.mp4) | 
+028. Jolene - Dolly Parton    | [Catbox](https://files.catbox.moe/8gwm5c.mp4) | [Cloudup](https://cldup.com/98Z5mUUvdg.mp4) | 
+029. We Will Rock You - Queen    | [Catbox](https://files.catbox.moe/cedgj9.mp4) | [Cloudup](https://cldup.com/xAvUjImGUr.mp4) | 
+030. Edelweiss - The Sound of Music   | [Catbox](https://files.catbox.moe/ftk50v.mp4) |  [Cloudup](https://cldup.com/YV-LAjVJAQ.mp4) | 
+031. My Favorite Things - The Sound of Music   | [Catbox](https://files.catbox.moe/vxp161.mp4) |  [Cloudup](https://cldup.com/UaLHEP1qcv.mp4) | 
+032. Ho hey - The Lumineers  | [Catbox](https://files.catbox.moe/8uxfzm.mp4) |   [Cloudup](https://cldup.com/qpWcOCNBWD.mp4) | 
+033. Ring of Fire - Johnny Cash   | [Catbox](https://files.catbox.moe/72xvun.mp4) |  [Cloudup](https://cldup.com/9N1G9R7y_z.mp4) | 
+034. You Are My Sunshine - Gene Autry   | [Catbox](https://files.catbox.moe/x4zjyq.mp4) |  [Cloudup](https://cldup.com/-rhshJvD-O.mp4) | 
+035. Leave It All to Me - Miranda Cosgrove   | [Catbox](https://files.catbox.moe/6jmbzm.mp4) |  [Cloudup](https://cldup.com/_CwsSRhCls.mp4) | 
+036. All the Small Things - Blink-182    | [Catbox](https://files.catbox.moe/mbid4t.mp4) | [Cloudup](https://cldup.com/r4weRhsenh.mp4) | 
+037. The Middle - Jimmy Eat World   | [Catbox](https://files.catbox.moe/hyrbx3.mp4) |  [Cloudup](https://cldup.com/tfzTLQ3s6I.mp4) | 
+038. Empty Chairs at Empty Tables - Les Miserables   | [Catbox](https://files.catbox.moe/ae5xv1.mp4) |  [Cloudup](https://cldup.com/jdx-iuqb6C.mp4) | 
+039. The Lion Sleeps Tonight - The Tokens   | [Catbox](https://files.catbox.moe/3trkwh.mp4) |  [Cloudup](https://cldup.com/qf1uYjfJ1Z.mp4) | 
+040. Bring Him Home - Les Miserables   | [Catbox](https://files.catbox.moe/g8292u.mp4) |  [Cloudup](https://cldup.com/IkXLw-Keqb.mp4) | 
+041. Burning Love - Elvis Presley   | [Catbox](https://files.catbox.moe/b59zvm.mp4) |  [Cloudup](https://cldup.com/cUoHcdjqEZ.mp4) | 
+042. Until I Found You - Stephen Sanchez    | [Catbox](https://files.catbox.moe/vz8vmf.mp4) | [Cloudup](https://cldup.com/rZvFLhOnRL.mp4) | 
+043. Cancer - My Chemical Romance   | [Catbox](https://files.catbox.moe/4avw2q.mp4) |  [Cloudup](https://cldup.com/ptE1PkRECO.mp4) | 
+044. I'm Made of Wax Larry, What Are You Made Of? - A Day to Remember | [Catbox](https://files.catbox.moe/vwo30n.mp4) |  [Cloudup](https://cldup.com/ck0jjjJN2l.mp4) | 
+045. Tomorrow - Annie   | [Catbox](https://files.catbox.moe/mjr8i9.mp4) |  [Cloudup](https://cldup.com/MSkfTWCqoC.mp4) | 
+046. Airplanes - B.o.B  | [Catbox](https://files.catbox.moe/gu8gqf.mp4) |   [Cloudup](https://cldup.com/22V6YZtXN8.mp4) | 
+047. Love The Way You Lie - Eminem ft. Rihanna   | [Catbox](https://files.catbox.moe/fcgise.mp4) |  [Cloudup](https://cldup.com/b144kf46d1.mp4) | 
+048. Candy Store - Heathers Musical   | [Catbox](https://files.catbox.moe/7blbw9.mp4) |  [Cloudup](https://cldup.com/3zFhIXkP87.mp4) | 
+049. That Would Be Enough - Hamilton   | [Catbox](https://files.catbox.moe/voofdo.mp4) |  [Cloudup](https://cldup.com/pF9Kl2EdXO.mp4) | 
+050. Stacy's Mom - Fountains of Wayne   | [Catbox](https://files.catbox.moe/lziu4v.mp4) |  [Cloudup](https://cldup.com/aKrf7exiYz.mp4) | 
+051. We Are Never Ever Getting Back Together - Taylor Swift   | [Catbox](https://files.catbox.moe/a3aunr.mp4) |  [Cloudup](https://cldup.com/soIqg2dWCZ.mp4) | 
+052. Wait For It - Hamilton   | [Catbox](https://files.catbox.moe/bxhu7v.mp4) |  [Cloudup](https://cldup.com/v_TQU6QIm6.mp4) | 
+053. Satisfied - Hamilton   | [Catbox](https://files.catbox.moe/7zpeok.mp4) |  [Cloudup](https://cldup.com/SYCukKQqLT.mp4) | 
+054. Defying Gravity - Wicked   | [Catbox](https://files.catbox.moe/4ydv9n.mp4) |  [Cloudup](https://cldup.com/P9Z8WMGSFU.mp4) | 
+- Break #3
+- Afk #1
+- Back #1
+- Afk #2
+- Back #2
+- Afk #3
+- Back #3
+055. Baby - Justin Bieber   | [Catbox](https://files.catbox.moe/imzowe.mp4) |  [Cloudup](https://cldup.com/IWUF1DjpEr.mp4) | 
+056. A Home on the Range   | [Catbox](https://files.catbox.moe/4prwbx.mp4) |  [Cloudup](https://cldup.com/9jefTkZfhm.mp4) | 
+057. This Love - Maroon 5    | [Catbox](https://files.catbox.moe/qtmeoq.mp4) | [Cloudup](https://cldup.com/bFTIHBO3qg.mp4) | 
+058. Never Gonna Give You Up - Rick Astley  | [Catbox](https://files.catbox.moe/b7o4zj.mp4) |   [Cloudup](https://cldup.com/OuPwRxKq05.mp4) | 
+059. Bohemian Rhapsody - Queen   | [Catbox](https://files.catbox.moe/dxzqq0.mp4) |  [Cloudup](https://cldup.com/FY-LXzNRFr.mp4) | 
+- Idol Meeting #1
+- Back
+060. Pompeii - Bastille (Cursive)  | [Catbox](https://files.catbox.moe/7ngxmp.mp4) |   [Cloudup](https://cldup.com/hcvUzRO8eA.mp4) | 
+061. Hips Don't Lie - Shakira   | [Catbox](https://files.catbox.moe/nxj242.mp4) |  [Cloudup](https://cldup.com/_oVP82-SRG.mp4) | 
+062. Eye of the Tiger - Survivor   | [Catbox](https://files.catbox.moe/gsf5ii.mp4) |  [Cloudup](https://cldup.com/mFX5tTj3kf.mp4) | 
+063. Stars - Les Miserables  | [Catbox](https://files.catbox.moe/8kd0f8.mp4) |   [Cloudup](https://cldup.com/S_H4_ss9ma.mp4) | 
+064. Angel - Sarah McLachlan   | [Catbox](https://files.catbox.moe/lxn9up.mp4) |  [Cloudup](https://cldup.com/QKcXG2aWO5.mp4) | 
+065. Helpless - Hamilton   | [Catbox](https://files.catbox.moe/uihwnq.mp4) |  [Cloudup](https://cldup.com/8gRsYU8Yt0.mp4) | 
+066. Forget You - Ceelo Green   | [Catbox](https://files.catbox.moe/z8jq6i.mp4) | [Cloudup](https://cldup.com/DIapRoqBHP.mp4) | 
+- Idol Meeting #2
+- Back
+067. What's New, Scooby-Doo?   | [Catbox](https://files.catbox.moe/aj3kpb.mp4) |  [Cloudup](https://cldup.com/j4Hjpd4WTc.mp4) | 
+068. Time in a Bottle - Jim Croce   | [Catbox](https://files.catbox.moe/skb45s.mp4) |  [Cloudup](https://cldup.com/I9NIQttWQl.mp4) | 
+069. Bubbly - Colbie Caillat   | [Catbox](https://files.catbox.moe/o961i1.mp4) |  [Cloudup](https://cldup.com/B-ZTBHWRDr.mp4) | 
+070. ABC - The Jackson 5   | [Catbox](https://files.catbox.moe/pwvewq.mp4) |  [Cloudup](https://cldup.com/SD6TQ79Ccs.mp4) | 
+071. Skinny Love - Bon Iver    | [Catbox](https://files.catbox.moe/rhx3j0.mp4) | [Cloudup](https://cldup.com/sBmHzGXC_O.mp4) | 
+072. A Part Of Me - Neck Deep Ft. Laura Whiteside   | [Catbox](https://files.catbox.moe/3zpgu2.mp4) |  [Cloudup](https://cldup.com/-ABmMiE-nz.mp4) | 
+073. Annie's Song - John Denver    | [Catbox](https://files.catbox.moe/bxi281.mp4) | [Cloudup](https://cldup.com/SwlVaZN1CN.mp4) | 
+074. Daylily - Movements   | [Catbox](https://files.catbox.moe/dqmfqq.mp4) |  [Cloudup](https://cldup.com/HmChGQ9c05.mp4) | 
+075. Untitled - Knuckle Puck  | [Catbox](https://files.catbox.moe/ef6gyc.mp4) |   [Cloudup](https://cldup.com/TWjcp-L47h.mp4) | 
+- Break #4
+- Afk
+- Back
+076. Mama, I'm a Big Girl Now - Hairspray   | [Catbox](https://files.catbox.moe/d7irum.mp4) |  [Cloudup](https://cldup.com/evUX0y_gjJ.mp4) | 
+077. Livin' La Vida Loca - Ricky Martin (Shrek 2)    | [Catbox](https://files.catbox.moe/fa5jpn.mp4) | [Cloudup](https://cldup.com/_1k7TDfEWf.mp4) | 
+078. What Makes You Beautiful - One Direction (You're insecure)  | [Catbox](https://files.catbox.moe/w305xc.mp4) |  [Cloudup](https://cldup.com/UH94dg071x.mp4) | 
+079. Wagon Wheel - Darius Rucker   | [Catbox](https://files.catbox.moe/ulwctn.mp4) |  [Cloudup](https://cldup.com/w8OMDW3xVt.mp4) | 
+080. 1985 - Bowling for Soup   | [Catbox](https://files.catbox.moe/ulwctn.mp4) |  [Cloudup](https://cldup.com/Ej23CvTOv1.mp4) | 
+081. Come As You Are - Nirvana  | [Catbox](https://files.catbox.moe/4p38ei.mp4) |   [Cloudup](https://cldup.com/BLTHZ1UxSN.mp4) | 
+082. On My Own - Les Miserables    | [Catbox](https://files.catbox.moe/mlg1nq.mp4) | [Cloudup](https://cldup.com/z4Hn6PTTaZ.mp4) | 
+083. September - Earth, Wind & Fire   | [Catbox](https://files.catbox.moe/3my8l3.mp4) |  [Cloudup](https://cldup.com/kKkOrfKbYe.mp4) | 
+084. Riptide - Vance Joy   | [Catbox](https://files.catbox.moe/e0d41g.mp4) |  [Cloudup](https://cldup.com/JGbK1tjjAR.mp4) | 
+085. Over The Rainbow - Judy Garland    | [Catbox](https://files.catbox.moe/3h4fzi.mp4) | [Cloudup](https://cldup.com/uQ-Gu41SCE.mp4) | 
+086. Do-Re-Mi - The Sound of Music   | [Catbox](https://files.catbox.moe/ef84ju.mp4) |  [Cloudup](https://cldup.com/O5V7_KOH-1.mp4) | 
+- FUWAMOCO in chat
+- Who Let the Dogs Out - Baha Men
+- Was muted
+087. Dead Mom - Beetlejuice The Musical   | [Catbox](https://files.catbox.moe/rp9mb1.mp4) |  [Cloudup](https://cldup.com/c2uA5OHQ7m.mp4) | 
+088. Feel Good Inc - Gorillaz   | [Catbox](https://files.catbox.moe/d0cvp5.mp4) |  [Cloudup](https://cldup.com/zAaH5FZ2IC.mp4) | 
+089. Don't Stop Me Now - Queen   | [Catbox](https://files.catbox.moe/uvx6ub.mp4) |  [Cloudup](https://cldup.com/8yRkRnW-sb.mp4) | 
+090. If I Die Young - The Band Perry   | [Catbox](https://files.catbox.moe/5ssye1.mp4) |  [Cloudup](https://cldup.com/zTw7xOioXr.mp4) | 
+- Idol Meeting #3
+- Back
+091. The Circle Game - Joni Mitchell  | [Catbox](https://files.catbox.moe/9f715m.mp4) |   [Cloudup](https://cldup.com/cZsQ6AdQhg.mp4) | 
+092. A Thousand Years - Christina Perri   | [Catbox](https://files.catbox.moe/53k69f.mp4) |  [Cloudup](https://cldup.com/QqdAPNHcqo.mp4) | 
+093. She Used To Be Mine - Sara Bareilles    | [Catbox](https://files.catbox.moe/gyknwz.mp4) | [Cloudup](https://cldup.com/YV_FTF-KZR.mp4) | 
+- Prologue (Little Shop of Horrors) (Accapella)
+- Suddenly, Seymour - Little Shop of Horrors (Accapella)
+094. You're The One That I Want - Grease   | [Catbox](https://files.catbox.moe/fc5o5j.mp4) |  [Cloudup](https://cldup.com/niqmK4XDzX.mp4) | 
+- Hopelessly Devoted To You - Olivia Newton-John (Accapella)
+095. Welcome to My Life - Simple Plan   | [Catbox](https://files.catbox.moe/fc5o5j.mp4) |  [Cloudup](https://cldup.com/9NDv9pErQV.mp4) | 
+- Confessions, Pt. II - Usher
+096. Yeah! - Usher  | [Catbox](https://files.catbox.moe/dw1zat.mp4) |   [Cloudup](https://cldup.com/TBqD54_al4.mp4) | 
+097. Drown - Bring Me The Horizon   | [Catbox](https://files.catbox.moe/bjyxbl.mp4) |  [Cloudup](https://cldup.com/nfQR4qeDLF.mp4) | 
+098. Check Yes, Juliet - We The Kings  | [Catbox](https://files.catbox.moe/208p10.mp4) |   [Cloudup](https://cldup.com/h9VxkglAQi.mp4) | 
+099. Baby One More Time - Britney Spears   | [Catbox](https://files.catbox.moe/0tjzqy.mp4) |  [Cloudup](https://cldup.com/Bd8rCWW-Ts.mp4) | 
+100. The Star-Spangled Banner   | [Catbox](https://files.catbox.moe/d29uu4.mp4) |  [Cloudup](https://cldup.com/hiEfxM26wA.mp4) | 
+101. Beat It - Michael Jackson  | [Catbox](https://files.catbox.moe/0nh2d8.mp4) |   [Cloudup](https://cldup.com/7nqhb7yBT5.mp4) | 
+
+***
+
 
 >####->Mumei Radio Stats<-
 >[Go back to the top](https://rentry.org/Mumei-Radio)
+***
 ***
 >\#1 
 ***
@@ -340,16 +477,26 @@
 	- 04 hours, 56 minutes, 55 seconds.
 - She cut
 	- 11 hours, 57 minutes, 59 seconds.
-
+***
+***
+>\#3 - I won't include it in the total below, since she didn't edit the vod
+***
+- The total length
+	- 08 hours, 31 minutes, 30 seconds.
+- She cut
+	- 00 hours, 00 minutes, 00 seconds.
+ - If I did include it in the total below it would be this
+	- 36 hours. 37 minutes. 5 seconds.
 ***
 ***
 >Total
 ***
 - The total length for all 11 vods used
-	- 28 hours. 5 minutes. 35 seconds.
+	- 28 hours. 05 minutes. 35 seconds.
 - The length of the Mumei edit 
 	- 09 hours. 39 minutes. 41 seconds.
 - She cut
 	- 18 hours. 25 minutes. 54 seconds.
+***
 ***
 [Go back to the top](https://rentry.org/Mumei-Radio)

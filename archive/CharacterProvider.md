@@ -55,6 +55,9 @@ Sometimes I leave orthographic mistakes. If they are major - I fix them and reup
 **Q:** Sub-JBs???
 **A:** Additional directions... Maybe? I AM TESTING.
 
+**Q:** Do I need to use Author's note with versions above v10?
+**A:** No, you'd send the rules twice by using it with my previous author's notes. I recommend you read the prompts when you download them.
+
 **КЬЮ:** Товарищ, тебя на дваче не видно!
 **ЭЙ:** Я устал и ушел. Общаюсь только в диске и по почте.
 **КЬЮ:** Пидр.

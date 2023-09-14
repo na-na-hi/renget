@@ -97,7 +97,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ***
 ####Unreleased Cards
 !!! info
-    Pre-releases, prototypes, and scraped cards.
+    Stuff not found on Chub. Pre-releases, prototypes, scraped cards, etc.
 |  |  | 
 | ------ | ------ |
 | **Amelia 'Quickstep' Brooks** | https://files.catbox.moe/4iyl2n.png |

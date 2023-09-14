@@ -21,7 +21,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gardevoir](https://files.catbox.moe/92gtnf.png), [Houshou Marine](https://files.catbox.moe/5reo0h.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png), [Sakura](https://files.catbox.moe/xpuemq.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[KOLLAGE](https://files.catbox.moe/3y7g8h.png)|
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Cupcake](https://files.catbox.moe/a0tvos.png), [Klischée](https://files.catbox.moe/vh7c1b.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Cupcake](https://files.catbox.moe/a0tvos.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Amelia](https://files.catbox.moe/4iyl2n.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Cosma](https://files.catbox.moe/9b7jzl.png), [Sammy](https://files.catbox.moe/8e1vxf.png), [Mina](https://files.catbox.moe/gllnqu.png), [Fujii](https://files.catbox.moe/5dou1y.png), [Silent Hill](https://files.catbox.moe/2y6mpb.png)|[Cosma](https://files.catbox.moe/9b7jzl.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Queen of Sheba](https://files.catbox.moe/24nkxa.png), [Ishtar](https://files.catbox.moe/19ixso.png), [Caenis (Rider)](https://files.catbox.moe/cq8tda.png), [Ereshkigal](https://files.catbox.moe/fm6yk3.png)|[Ishtar](https://files.catbox.moe/19ixso.png) [MV], [Caenis (Rider)](https://files.catbox.moe/cq8tda.png) [MV], [Ereshkigal](https://files.catbox.moe/fm6yk3.png) [MV]
@@ -30,9 +30,9 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png), [Ankha](https://files.catbox.moe/nw63cd.png)|[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png) [MV], [Ankha](https://files.catbox.moe/nw63cd.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
-[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Syuriy](https://files.catbox.moe/p4oeq8.png)|[ꭦ֎√](https://files.catbox.moe/0xycic.png)
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Syuriy](https://files.catbox.moe/p4oeq8.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)|[Tatsumaki ](https://files.catbox.moe/a8hfrb.png) [MV]
-[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Audrey II](https://files.catbox.moe/15aarh.png), [Saphielle](https://files.catbox.moe/yyzxhx.png)|
+[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Audrey II](https://files.catbox.moe/15aarh.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Villager](https://files.catbox.moe/b2zukt.png), [Monk](https://files.catbox.moe/42mb91.png), [Knight](https://files.catbox.moe/7iqaau.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Soledad](https://files.catbox.moe/xc4cx3.png)|[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)

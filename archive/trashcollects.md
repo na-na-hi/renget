@@ -540,6 +540,7 @@ v5b:
 	https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
 
 # Feral Horses (from /vt/ of all places?)
+READDME
 anonfiles.com/F2V0P7i8z2/horse_safetensors
 
 # Roll (Mega-Man)
@@ -657,8 +658,9 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
 
 # suitonb
+~~https://anonfiles.com/A6jfr1x4z0/suitonb_safetensors
 
-	 https://anonfiles.com/A6jfr1x4z0/suitonb_safetensors
+	https://pixeldrain.com/u/eotc2W6C
 
 # Feraligatr
 
@@ -724,9 +726,9 @@ Rocky Rickaby (Lackadaisy)
 >Activation token is "xenomorph", other tokens like "black body, sharp teeth, long tail" make it more accurate. I also like "glistening body, wet, saliva". I use 0.7-1.0 weight.
 
 # Captain Gantu (Lilo and Stitch)
+~~https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
 
-	https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
-
+	https://pixeldrain.com/u/s7DfbDJG
 # Minerva Campbell (Adventure Time)
 
 	https://files.catbox.moe/l4fnta.safetensors
@@ -753,31 +755,35 @@ Rocky Rickaby (Lackadaisy)
 
 Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
 Activation token is "cryptid".
+~~https://anonfiles.com/R1i8p210z1/cryptid1024d1024c2834rf_safetensors
 
-	https://anonfiles.com/R1i8p210z1/cryptid1024d1024c2834rf_safetensors
-
+	https://pixeldrain.com/u/SF5iRffS
 # Catti (Deltarune)
 
 	https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
 
 # Terriermon (Digimon)
 Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+~~https://anonfiles.com/Rezer63cze/terriermon_rar
 
-	https://anonfiles.com/Rezer63cze/terriermon_rar
-
+	https://pixeldrain.com/u/SmH7bgTs
 # Zorak (Space Ghost)
 
 	https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
 
 # Swampert (Pokémon)
 
-	https://anonfiles.com/E5v3r64az9/swampert_rar
+~~https://anonfiles.com/E5v3r64az9/swampert_rar~~
+Has been taken down, reupload by >59516011, thanks anon
+	
+	https://files.catbox.moe/hcft0y.safetensors
 
 # Kicks (Animal Crossing)
-
-	https://anonfiles.com/e2u8p644zf/kicks_rar
+~~https://anonfiles.com/e2u8p644zf/kicks_rar
 	https://anonfiles.com/V3u2q74fz0/kicks2_rar
 
+	V1: https://pixeldrain.com/u/7G1Mpthg
+	V2: https://pixeldrain.com/u/Bkp6UD5p
 # Kha'Zix (League of Legends)
 >also make sure to use all of these tags so you can get his anatomy more accurately:
 >khazix, insect, purple exoskeleton, antennae, spikes, green eyes, insect wings, red skin, red body, claws, sharp teeth, brown fur
@@ -872,6 +878,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 # Substitute (Pokemon)
 
 	https://files.catbox.moe/azuqh3.safetensors
+
+# Mating Press V2 (Concept, Reupload)
+
+	https://files.catbox.moe/iozmy8.safetensors
 
 ## LORAs from the Discord
 
