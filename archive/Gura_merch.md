@@ -9,18 +9,8 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
-####Gawr Gura Birthday Celebration 2023
-https://shop.hololivepro.com/en/products/gawrgura_bd2023
-
-####hololive AIRLINE
-https://anibox-japan.com/categories/hololive/products
-
-#### hololive English 1st Concert -Connect the World- Digital Message Board
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143267036 (text)
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143594716 (image)
-
-#### hololive English 1st Concert -Connect the World- Concert Merchandise
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert
+####hololive English -Myth- 3rd Anniversary Celebration
+https://shop.hololivepro.com/en/products/hololiveen_myth_an3rd?variant=44062160257244
 
 #### Omocat × Hololive English
 _[Restocking 2022-03-28 and 2022-04-25](https://twitter.com/_omocat/status/1500999771242176514)_
@@ -31,9 +21,6 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en
 Calendar, clear file, can badges, smartphone stand, B2 tapestry, temporary tattoos:
 https://otakumode.com/shop/pickup/hololive_AX2021
 
-#### 1:7 scale figure
-Hololive English -Myth- Gawr Gura 1/7 Complete Figure(Pre-order)
-https://www.amiami.com/eng/detail?gcode=FIGURE-150839
 
 ---
 
@@ -66,6 +53,25 @@ https://www.ahoworks.com/patches?Collection=Hololive
 ---
 
 ### Sold out
+
+
+####Gawr Gura Birthday Celebration 2023
+https://shop.hololivepro.com/en/products/gawrgura_bd2023
+
+
+#### hololive English 1st Concert -Connect the World- Concert Merchandise
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert
+
+#### hololive English 1st Concert -Connect the World- Digital Message Board
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143267036 (text)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_digitalmessageboard?variant=43902143594716 (image)
+
+####hololive AIRLINE
+https://anibox-japan.com/categories/hololive/products
+
+#### 1:7 scale figure
+Hololive English -Myth- Gawr Gura 1/7 Complete Figure(Pre-order)
+https://www.amiami.com/eng/detail?gcode=FIGURE-150839
 
 #### hololive English -Myth- 3D Debut Celebration (Gura shoulder bag)
 https://shop.hololivepro.com/en/products/hololiveen_myth_3d2023?variant=43819078746332

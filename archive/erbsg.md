@@ -1,5 +1,8 @@
 #Eternal Return: Black Survival Coupon Codes
 
+**Available until 9/21/2023**
+*NNWORKMORE* 300 Event NP (Permanent)
+
 **Available until 9/30/2023**
 *LUCKYSEVEN01* (9/7) 2000 A-Coin
 *LUCKYSEVEN02* (9/8) Research Center Data Box Set

@@ -294,6 +294,8 @@ https://civitai.com/user/PWAnon
 https://civitai.com/user/stunningFlesh
 https://civitai.com/user/TouchFluffyTails
 https://civitai.com/user/realisticElves
+https://civitai.com/user/EyeAI_
+
 !!! info
 	---------------------------
 ##Bakery

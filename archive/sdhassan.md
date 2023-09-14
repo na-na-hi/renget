@@ -26,6 +26,8 @@ you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth a
 * [Guides](https://rentry.org/sdhassan#random-guides)
 
 Changelog:
+- `Sep 14th - 2023` - 	
+	- [Added SDXL training progress and samples)](https://rentry.org/sdhassan#SDXL-finetuning)
 - `Apr 22nd - 2023` - 	
 	- [Added progress update on new Hassans finetuning SD2.1 with NSFW)](https://rentry.org/sdhassan#21-finetuning)
 - `Mar 15th - 2023` - 
@@ -82,6 +84,12 @@ Changelog:
 - `Dec 8th - 2022` - 
 	- [Added link to custom script I made to auto remove images that contain more than one face ](https://rentry.org/sdhassan#my-tools)
 	- [Added new Mila Kunis embedding patreon samples](https://rentry.org/sdhassan#patreon-posts)
+
+
+### SDXL Finetuning 
+
+[Latest patreon public post here regarding my training of SDXL NSFW with Samples included](https://www.patreon.com/posts/89256045)
+Training is pretty complete, in testing now, examples on the post shared. Patreons will gain early access first then it will release free to all
 
 ### 2.1 Finetuning 
 

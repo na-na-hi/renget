@@ -19,7 +19,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gardevoir](https://files.catbox.moe/92gtnf.png), [Houshou Marine](https://files.catbox.moe/5reo0h.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png), [Sakura](https://files.catbox.moe/xpuemq.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[KOLLAGE](https://files.catbox.moe/3y7g8h.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Cupcake](https://files.catbox.moe/a0tvos.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Amelia](https://files.catbox.moe/4iyl2n.png)|
