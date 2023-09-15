@@ -326,6 +326,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
 	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
+	* [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -556,6 +557,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * {||} [Three Strangers Sweep the Grounds](https://rentry.org/kcb-1)
 * {||} [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
+* {||} [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

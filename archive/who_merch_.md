@@ -15,6 +15,11 @@ https://bushiroad-music.com/musics/hoxb-10013
 **Council 2nd Anniversary Merch (Bangles)** (Order period ends 25th September 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
+**Hologra Amazon t-shirt**
+US: https://www.amazon.com/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVQS7Z5
+JP: https://www.amazon.co.jp/dp/B0CHVPZNWW 
+UK: https://www.amazon.co.uk/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVPVWZB
+
 >**HoloSummer**
 Splash Party Online Concert 
 **Streaming ticket** \*Mumei is only on Day 1 (Sunshine)

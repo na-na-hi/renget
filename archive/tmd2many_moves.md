@@ -650,7 +650,7 @@ Geomancy | - | 4 AP | - | Fairy | Status | Does nothing on round 1. On turn 2, t
 Glare | - | 4 AP | ≥2 | Normal | Status | The Opponent is afflicted with [*Paralysis*](https://rentry.org/tmd2many_rules#status-effects). Affects Ghost-Types.
 Grass Whistle | - | 4 AP | ≥8 | Grass | Status | The Opponent is afflicted with [*Sleep*](https://rentry.org/tmd2many_rules#status-effects).
 Grassy Terrain | - | 4 AP | - | Grass | Status | The Terrain is changed to Grassy Terrain.
-Gravity | - | 4 AP | - | Psychic | Status | All Pokémon in the battle are affected with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
+Gravity | - | 4 AP | - | Psychic | Status | All Pokémon in the battle are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
 **Growl** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 
 Growth | - | 4 AP | - | Normal | Status | The User's Attack and Special Attack are increased by 1. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), The User's Attack and Special Attack are increased by 2.
 Grudge | - | 4 AP | - | Ghost | Status | Does nothing on round 1. On round 2, if the User is KO'd by an Attacking Move, the Opponent is afflicted with [*Grudge*](https://rentry.org/tmd2many_rules#status-effects).

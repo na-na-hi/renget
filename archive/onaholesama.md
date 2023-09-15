@@ -45,6 +45,7 @@ Image| Name | Description | Link
 lot of femdom and scenario shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![PIZZA!!!!!! PIZZA!!!!!!!!!!!!!!!!!!!!!](https://files.catbox.moe/gfjgt3.png) | **Shiiorina** | arctic fox grill that likes skiing a little to much | [CHUB link](https://www.chub.ai/characters/onaholesama/shiiorina-47bc7e03)
 ![get a job hippie](https://files.catbox.moe/uizque.png) | Judy | hippie border collie waifur | [CHUB link](https://www.chub.ai/characters/onaholesama/judy-305224f8) 
 ![psyop](https://files.catbox.moe/9izzte.png) | Bianca | works for the FBI and is trying to psyop you, but you know better than that right anon? | [CHUB link](https://www.chub.ai/characters/onaholesama/bianca-750485dd)
 ![V1X3N](https://files.catbox.moe/62j8s5.png) | Siren | android waifur that wants to empty your wallet. the example chats arent necessary in this card- feel free to delete them to save on tokens | [CHUB link](https://www.chub.ai/characters/onaholesama/siren-eaf8b6bb)
@@ -145,5 +146,5 @@ Image| Name
 ![](https://files.catbox.moe/ap3fng.jpg)
 
 ###burner
-dont be weird
+fuck off
 onaholesama@proton.me

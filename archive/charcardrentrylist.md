@@ -18,11 +18,11 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Shiiorina](https://files.catbox.moe/gfjgt3.png), [Cupcake](https://files.catbox.moe/a0tvos.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[Frigga](https://files.catbox.moe/vvvze5.png), [JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[BD-2829](https://files.catbox.moe/ts4tw5.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gardevoir](https://files.catbox.moe/92gtnf.png), [Houshou Marine](https://files.catbox.moe/5reo0h.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[KOLLAGE](https://files.catbox.moe/3y7g8h.png)|
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Cupcake](https://files.catbox.moe/a0tvos.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Amelia](https://files.catbox.moe/4iyl2n.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Cosma](https://files.catbox.moe/9b7jzl.png), [Sammy](https://files.catbox.moe/8e1vxf.png), [Mina](https://files.catbox.moe/gllnqu.png)|[Cosma](https://files.catbox.moe/9b7jzl.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Queen of Sheba](https://files.catbox.moe/24nkxa.png)|

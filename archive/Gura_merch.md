@@ -9,6 +9,11 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
+
+####Gawr Gura 3rd Anniversary Celebration
+https://shop.hololivepro.com/en/products/gawrgura_an3rd
+https://shop.geekjack.net/collections/gawr-gura
+
 ####hololive English -Myth- 3rd Anniversary Celebration
 https://shop.hololivepro.com/en/products/hololiveen_myth_an3rd?variant=44062160257244
 
@@ -20,7 +25,6 @@ https://www.omocat-shop.com/collections/omocat-x-hololive-en
 #### Anime Expo
 Calendar, clear file, can badges, smartphone stand, B2 tapestry, temporary tattoos:
 https://otakumode.com/shop/pickup/hololive_AX2021
-
 
 ---
 

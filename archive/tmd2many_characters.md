@@ -52,6 +52,7 @@ Example | Ex-Human | Species | Adventurer | Team Generic
 The other list can be found here: [List of Secondary NPCs](https://rentry.co/tmd2many_places#secondary-list-of-npcs).
 Name | Origin | Pokémon | Occupation | Affiliation 
 :----: | :----: | :----: | :----: | :----:
+[Coiling Appetence, Scour Devour](https://rentry.co/tmd2character_scour) | Native | Ekans | Clan Elder | Clan Morion
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
 [Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini

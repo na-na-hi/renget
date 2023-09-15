@@ -301,4 +301,4 @@ https://civitai.com/user/EyeAI_
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 13th - https://pastebin.com/TjqXn4Vt
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 15th - https://pastebin.com/RLx2UY0V

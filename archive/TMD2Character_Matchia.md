@@ -10,7 +10,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 **Species:** Mienfoo | **Affiliation:** Herself
 **Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 180 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

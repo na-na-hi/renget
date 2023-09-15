@@ -123,7 +123,7 @@
 |06/09/2023|[Nerissa's POV](https://youtu.be/1Pf0NecT6yI)| **Collab** - Seventh HoloAdvent Group collab with [Shiori](https://www.youtube.com/watch?v=58wzCxvLUuI), [Bijou](https://www.youtube.com/watch?v=9EMGW5n91CU) and [the FUWAMOCO Twins](https://www.youtube.com/watch?v=mn2yVMiDAGs) on Minecraft|
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 |11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
-|15/09/2023|[Nerissa's POV](https://youtu.be/Srb5k7icrJY)| **Collab** - Advent Fullgen Collab on Mario Kart.|
+|15/09/2023|[Nerissa's POV](https://youtu.be/Srb5k7icrJY)| **Collab** - Tenth Advent Fullgen Collab on Mario Kart with Shiro, [Bijou](https://www.youtube.com/watch?v=wldcO2gtjpU) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=GwCBlhmnwjQ).|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|

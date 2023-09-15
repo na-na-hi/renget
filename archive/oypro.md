@@ -1,4 +1,4 @@
-![Brook](https://i.ibb.co/dpWmTKW/zorua-pok-mon-go-furret-xerneas-png-favpng-t1d-Lwg-NVLWYh9-Bitu-ZU7wztbv-removebg-preview.png)
+![Brook](https://files.catbox.moe/0vfuwn.png)
 
 ### Brook ♂
  Seemingly not much of a talker, this zorua was found floating in the sea with no other vessel or pokemon in sight. Rescued by a boat belonging to the Ava-Lu empire, and his amnesia assumed a result of his near drowning he's dropped off at his own request in the nearest town with no information other than the knowledge that he's in a body that's not his own, a body that's not human. 

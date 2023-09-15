@@ -80,8 +80,8 @@ A planet inhabited solely by Pokémon. That's how the story goes each time it's 
 		- Clan Batholith
 		- Clan Gneiss
 		- Clan Marl
-		- Clan Almandine
-		- Clan Morion
+		- Clan Almandine, elder:
+		- Clan Morion, elder:
 		- Clan Galena
 	- There are several villages within the influence of a single clan. Their size and amount of villages can vary, especially depending on the habits of the clan itself.
 

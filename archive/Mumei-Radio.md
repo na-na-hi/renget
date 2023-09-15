@@ -474,9 +474,9 @@
 - The total length for all 5 vods used
 	- 16 hours, 54 minutes, 54 seconds.
 - The length of the Mumei edit 
-	- 04 hours, 56 minutes, 55 seconds.
+	- 04 hours, 56 minutes, 54 seconds.
 - She cut
-	- 11 hours, 57 minutes, 59 seconds.
+	- 11 hours, 58 minutes, 00 seconds.
 ***
 ***
 >\#3 - I won't include it in the total below, since she didn't edit the vod
@@ -486,7 +486,7 @@
 - She cut
 	- 00 hours, 00 minutes, 00 seconds.
  - If I did include it in the total below it would be this
-	- 36 hours. 37 minutes. 5 seconds.
+	- 36 hours. 37 minutes. 05 seconds.
 ***
 ***
 >Total
@@ -496,7 +496,7 @@
 - The length of the Mumei edit 
 	- 09 hours. 39 minutes. 41 seconds.
 - She cut
-	- 18 hours. 25 minutes. 54 seconds.
+	- 18 hours. 25 minutes. 55 seconds.
 ***
 ***
 [Go back to the top](https://rentry.org/Mumei-Radio)
