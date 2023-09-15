@@ -53,6 +53,7 @@ Eᴍᴘᴛʏ | Description
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯
+10 IQ points (To be distributed)
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Remembrance | User's IP is increased by 2. Granted from Fragmented or Anamnesis | 0

@@ -7,29 +7,27 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Super Mario Brothers movie has officially released
-
 Future Release Dates:
-「!」 Mario Kart 8 Deluxe - Booster Course Pass 6 releases in late 2023
 「!」 Super Mario Bros WONDER releases on October 20th, 2023
 「!」 WarioWare Move It releases on November 3rd, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
+「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
-「!」Super Mario Bros. Wonder Direct (8.31.2023)
-https://www.youtube.com/watch?v=G0m_uNaSres
-「!」Charles Martinet Retires from Mario's voice, becomes "Mario Ambassador"
-https://twitter.com/nintendoamerica/status/1693624002982314108
-「!」Mario + Rabbids Sparks of Hope DLC 3: Rayman in the Phantom Show
-https://www.youtube.com/watch?v=ghD4yq9kL-0
-「!」WarioWare Move It! Revealed
-https://www.youtube.com/watch?v=z4kkqicAeG0
-「!」Luigi's Mansion Dark Moon for Switch Revealed
-https://www.youtube.com/watch?v=wRhmJD8oRV0
-「!」A New Princess Peach Game Revealed
-https://www.youtube.com/watch?v=PexAdb7oCLc
-「!」Super Mario RPG Remake Revealed
-https://www.youtube.com/watch?v=0r5PJx7rlds
+「!」Paper Mario: The Thousand-Year Door Revealed
+https://www.youtube.com/watch?v=8Ume5pSIcKE
+「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 (Diddy Kong, Funky, Pauline, Peachette)
+https://www.youtube.com/watch?v=BiJ7IoeuhXE
+「!」WarioWare: Move It! 2nd Trailer
+https://www.youtube.com/watch?v=cZEa9VXurTE
+「!」Luigi’s Mansion 2 HD 2nd Trailer
+https://www.youtube.com/watch?v=KIP2_LJdi0I
+「!」Princess Peach: Showtime! 2nd Trailer
+https://www.youtube.com/watch?v=qfj6ZEpf78g
+「!」Super Mario RPG 2nd Trailer
+https://www.youtube.com/watch?v=e_kuPoLw9Wc
+「!」Mario vs. Donkey Kong (Remake) Revealed
+https://www.youtube.com/watch?v=5sPwqplxHXc
 
 ----
 

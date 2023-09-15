@@ -59,7 +59,7 @@ Behemoth Blade | 10 BP | 8 AP | ≥2 | Steel | Physical | [Big sword.](https://y
 Belch | 10 BP | 8 AP | ≥3 | Poison | Special | If the User has eaten a Berry, the Move can be used.
 Bite | 6 BP | 5 AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
 Bitter Blade | 9 BP | 7 AP | ≥2 | Fire | Physical | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
-Bitter Malice | 8 BP | 6 AP | ≥2 | Ghost | Special | 14-20; The Opponent is Frozen.
+Bitter Malice | 8 BP | 6 AP | ≥2 | Ghost | Special | 17-20; The Opponent is Frozen.
 Blast Burn | 10 BP | 8 AP | ≥3 | Fire | Special | The User is afflicted with *Recharging*.
 Blaze Kick | 8 BP | 6 AP | ≥3 | Fire | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with *Burn*.
 Blazing Torque | 8 BP | 6 AP | ≥2 | Fire | Physical | 14-20; The Opponent is afflicted with *Burn*.

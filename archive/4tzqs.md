@@ -27,6 +27,9 @@ https://booth.pm/en/items/2278448
 
  #####--- [AVATAR GUIDES] --- 
 
+Avatar Hypertutorial:
+https://vrwiki.nexisonline.net/wiki/Avatar_Hypertutorial
+
 Sippbox Avatar tutorials:
 https://www.youtube.com/watch?v=bSwMz4WcajQ
 https://www.youtube.com/@SippsAvatarBox

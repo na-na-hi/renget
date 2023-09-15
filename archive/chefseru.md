@@ -56,24 +56,16 @@ Name | Description | Links |
 ***
 !!! info
 	SDslop I make for my cards that are too risque for /aicg/ shilling or that I didn't end up using but still liked
-![auntie 1](https://files.catbox.moe/2mk6i7.png)
-![auntie 2](https://files.catbox.moe/r29ls3.png)
-![kim 1](https://files.catbox.moe/aoxze9.png)
-![kim 2](https://files.catbox.moe/0jh9ns.png)
-![nessa](https://files.catbox.moe/t9wkav.png)
-![lupa](https://files.catbox.moe/rb60we.png)
-![sparks](https://files.catbox.moe/591kpi.png)
-![winifred, almost empty](https://files.catbox.moe/szmb2x.png)
-![winifred, almost full](https://files.catbox.moe/2m61io.png)
-![dakota on her first day, before she plumped up](https://files.catbox.moe/7dxm8i.png)
-![dakota exactly 14 seconds after you drop off your haul](https://files.catbox.moe/ccdjb6.png)
-![lux before her wings came in](https://files.catbox.moe/sfvlwp.png)
-![Noelle if she was slut](https://files.catbox.moe/h4p9ho.png)
-![akahime swimwear](https://files.catbox.moe/b3qqa4.png)
-![SQUEEZE ZONE](https://files.catbox.moe/4btif5.png)
-![POV: You just asked for a brojob](https://files.catbox.moe/3c1w9q.png)
-![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)
-![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
-![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/in57l1.png)
-![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)
-![Ginny in panties](https://files.catbox.moe/eagl4q.png)
+. | . |
+------ | ------ |
+![auntie 1](https://files.catbox.moe/2mk6i7.png)| ![auntie 2](https://files.catbox.moe/r29ls3.png)
+![kim 1](https://files.catbox.moe/aoxze9.png)| ![kim 2](https://files.catbox.moe/0jh9ns.png)
+![nessa](https://files.catbox.moe/t9wkav.png)| ![lupa](https://files.catbox.moe/rb60we.png)
+![sparks](https://files.catbox.moe/591kpi.png)| ![sparks just to make it even so it looks nice](https://files.catbox.moe/uq77ud.png)
+![winifred, almost empty](https://files.catbox.moe/szmb2x.png)| ![winifred, almost full](https://files.catbox.moe/2m61io.png)|
+![dakota on her first day, before she plumped up](https://files.catbox.moe/7dxm8i.png)| ![dakota exactly 14 seconds after you drop off your haul](https://files.catbox.moe/ccdjb6.png)
+![lux before her wings came in](https://files.catbox.moe/sfvlwp.png)| ![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/in57l1.png)
+![POV: You just asked for a brojob](https://files.catbox.moe/3c1w9q.png)| ![Noelle if she was slut](https://files.catbox.moe/h4p9ho.png)
+![SQUEEZE ZONE](https://files.catbox.moe/4btif5.png)| ![akahime swimwear](https://files.catbox.moe/b3qqa4.png)
+![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)| ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
+![Ginny in panties](https://files.catbox.moe/eagl4q.png)| ![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)

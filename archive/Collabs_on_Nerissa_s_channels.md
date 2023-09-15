@@ -41,7 +41,7 @@
 |07/09/2023|[![Kiara-senpai showing me around the EN Minecraft server!🎼 ](https://files.catbox.moe/lpe52u.jpg)](https://youtu.be/W8vLrXMzXds)|[Kiara](https://www.youtube.com/watch?v=Rc8O5lB31_w)|~2h32|1-on-1 Collab|
 |10/09/2023|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY)|Shiori, Bijou|~2h35| Impromptu collab & VC|
 |11/09/2023|[![Entering the Hololive Minecraft server with Advent FOR REAL THIS TIME! 🎼 ](https://images2.imgbox.com/3d/67/exxibRan_o.jpg)](https://www.youtube.com/watch?v=ySPwXaEo7v0)|[Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) & [FUWAMOCO](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|~2h26|Advent Fullgen Collab|
-|15/09/2023|Placeholder Mario Kart|Shiori, Bijou & FUWAMOCO|---|Advent Fullgen Collab|
+|15/09/2023|[![【Mario Kart 8】Driving leisurely with Advent~ 🎼 ](https://files.catbox.moe/g2tj3f.jpg)](https://youtu.be/Srb5k7icrJY)|Shiori, Bijou & FUWAMOCO|---|Advent Fullgen Collab|
 |17/09/2023|Placeholder BG3 #3|Mori, Kiara & Bijou|---|Group Collab|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels)->

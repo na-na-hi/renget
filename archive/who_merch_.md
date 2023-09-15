@@ -16,7 +16,6 @@ https://bushiroad-music.com/musics/hoxb-10013
 https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
 >**HoloSummer**
-- - -
 Splash Party Online Concert 
 **Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
 free archive on [youtube](https://www.youtube.com/watch?v=GBxt2fq_Zek) avalible until 27th Sept. JST
@@ -56,7 +55,6 @@ https://shop.tsukumo.co.jp/features/hololive_english/
 https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
 
 >**Holo Fes related merch** 
-- - -
 **Gacha**
 **holo\*27 button badges**
 https://shop.hololivepro.com/en/products/hololive_superexpo2023_holo27?variant=43818745528540
@@ -83,7 +81,6 @@ https://shop.hololivepro.com/en/products/nanashimumei_nc2023
 https://shop.hololivepro.com/en/products/nanashimumei_77-4thou
 
 >**HoloEN Connect the World Concert (July 2nd, PDT)**
-- - -
 **Streaming ticket**
 https://virtual.spwn.jp/_events/23070302-engholoen1stconcert
 

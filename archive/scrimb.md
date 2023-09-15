@@ -7,6 +7,7 @@
 [???](https://beta.character.ai/chat?char=3q48x2_OBIdbQaT4YA9F8YfA2W_cBhBieGFd0jmY--I) https://files.catbox.moe/9941ip.png
 [BD-303](https://beta.character.ai/comms?char=qOBVurCWOAur9AfshBEWpvLF7EQhB0qjisA4jd0Vli4) https://files.catbox.moe/tyfqs9.png
 [Joey](https://files.catbox.moe/r8l1g5.png)
+[BD-2829](https://files.catbox.moe/ts4tw5.png)
 
 **Kreepy Kuntz:**
 [Ed Masters](https://beta.character.ai/chat?char=AfdI4KXrUtYYuqDA5PHoerbW4o2dWayvoqZm1HGHJCo) https://files.catbox.moe/mzbhxm.png
