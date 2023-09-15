@@ -193,18 +193,18 @@
 |10/09/2023|172|Lover of Idols II - OHC & Mentions|Addition of a timestamp from ReGloss first fullgen collab with the reaction of Nerissa's prediction card.|
 |10/09/2023|173&174|Recommendation & Lover of Idols I|Addition of the fourth Terraria stream.|
 |10/09/2023|175|Lover of Idols II - OHC & Mentions|Addition of a placeholder for the upcoming collab with Iofi.|
-|10/09/2023|176&177|Lover of Idols I|Addition of placeholders for the upcoming Advent fullgen collab on Minecraft|
-|10/09/2023|178&179|Lover of Idols I|Addition of placeholders for the upcoming Advent fullgen collab on Mario Kart|
+|10/09/2023|176&177|Lover of Idols Pages|Addition of placeholders for the upcoming Advent fullgen collab on Minecraft|
+|10/09/2023|178&179|Lover of Idols Pages|Addition of placeholders for the upcoming Advent fullgen collab on Mario Kart|
 |10/09/2023|180|Lover of Idols I - Collabs on Nerissa's channel|Addition of placeholders for the upcoming third group collab on BG3.|
 |10/09/2023|181|Lover of Idols II - OHC & Mentions|Addition of a placeholder for a possible drawing during Mumei's drawings of Advent stream of 10/09/2023.|
 |10/09/2023|182|Lover of Idols II - OHC & Mentions|Addition of the link for Mumei's drawings of Advent stream of 10/09/2023.|
-|10/09/2023|183&184|Lover of Idols I|Addition of Nerissa's POV for the upcoming Advent fullgen collab on Minecraft|
+|10/09/2023|183&184|Lover of Idols Pages|Addition of Nerissa's POV for the upcoming Advent fullgen collab on Minecraft|
 |11/09/2023|185|Lover of Idols II - OHC & Mentions|Addition of the link for Iofi's IoSalon of 11/09/2023.|
-|11/09/2023|186&187|Lover of Idols I|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|186&187|Lover of Idols Pages|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Minecraft|
 |11/09/2023|188|Lover of Idols II - OHC & Mentions|Addition of 2 additional timestamps for Mumei's drawings of Advent stream of 10/09/2023.|
 |11/09/2023|189|Lover of Idols II - OHC & Mentions|Addition of a timestamps from Ina's Minecraft stream of 08/09/2023.|
-|11/09/2023|190&191|Lover of Idols I|Addition of Bijou's POV for the upcoming Advent fullgen collab on Minecraft|
-|11/09/2023|192&193|Lover of Idols I|Addition of Shiori's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|190&191|Lover of Idols Pages|Addition of Bijou's POV for the upcoming Advent fullgen collab on Minecraft|
+|11/09/2023|192&193|Lover of Idols Pages|Addition of Shiori's POV for the upcoming Advent fullgen collab on Minecraft|
 |12/09/2023|194|Lover of Idols II - OHC & Mentions|Addition of the stream link for the upcoming drawing collab with Iofi.|
 |12/09/2023|195|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Kiara's second Hotline Miami 2 stream from 11/09/2023.|
 |12/09/2023|196|Lover of Idols II - OHC & Mentions|Addition of 2 timestamps containing mentions from Bijou's sixth Armored Core 6 stream from 11/09/2023.|

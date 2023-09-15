@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: Daibu offline at 2UTC (Parsec)** possibly saturday isntead
 **FRI: Golden SUN at 2UTC (Telemelt)**
-**SAT: - at 2UTC ()**
+**SAT: Daibu offline at 2UTC (Parsec)**
 **SUN: Boktai 2 at 18:00UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes

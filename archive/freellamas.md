@@ -82,7 +82,6 @@ On your own machine/rented VM: https://rentry.org/hostfreellamas
 On Google Colab for free: https://rentry.org/colabfreellamas
 
 ##### Other llama proxies
-https://rentry.org/free70bllama2
 https://proxy.chub-archive.evulid.cc/api
 
 ##### Contact

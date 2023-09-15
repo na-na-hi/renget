@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Shiiorina](https://files.catbox.moe/gfjgt3.png), [Cupcake](https://files.catbox.moe/a0tvos.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Frigga](https://files.catbox.moe/vvvze5.png), [JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[BD-2829](https://files.catbox.moe/ts4tw5.png)|
@@ -60,7 +61,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
-[CptPants](https://rentry.org/CptPants) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
