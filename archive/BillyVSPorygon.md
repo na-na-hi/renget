@@ -16,9 +16,9 @@ From the sidelines, many observe raptly as the dust clears… revealing a pantin
 
 Bill is a complete and utter mess. Large portions of his fur are mussed and disheveled. His dirty orange is slightly darker in some areas, leaving little room to the imagination as to what kind of wounds are hiding beneath. His teeth gnash as he tries to ignore the cripplingly unbearable aftermath of having several bursts of electricity course through his body as the path of least resistance.
 
-And on the other side is a hovering, bobbing Porygon. The blue Conversion 2 coating his flatly colored body blinks constantly between several states, as though his being finds it hard to keep existing. Despite needing no oxygen, it almost looks as if the living low-poly model is panting as well—perhaps a remnant of the human residing within the vessel. A glowing Link Box floats above him, imitating his pitiful motions.
+And on the other side is a hovering, bobbing Porygon. The red Conversion 2 coating his flatly colored body blinks constantly between several states, as though his being finds it hard to keep existing. Despite needing no oxygen, it almost looks as if the living low-poly model is panting as well—perhaps an obstinate remnant of the human residing within the vessel. A glowing Link Box floats above him, imitating his pitiful motions.
 
-Porygon was NOT a foe to be undermined. Human stubbornness had somehow led him to this moment as he had realized the potential of his newfound abilities upon reaching this world. He had amassed experience at an alarming rate, surely impressing any bystander witnessing his might...
+Porygon was NOT a foe to be undermined. Human stubbornness had somehow led him to this moment, having realized the potential of his newfound abilities upon reaching this world. He had amassed experience at an alarming rate, surely impressing any bystander witnessing his might...
 
 And yet, it plops to the ground with a noiseless fall. With its colors dulled, it lies inert.
 
@@ -54,7 +54,7 @@ He is about to *win*.
 
 Porygon's eyes glow an ominous white.
 
-Bill's eyes widen as several meshes of light manifest from the ether, expanding and covering Porygon's surroundings as if scouting the nearby environment. A mechanical thrumming rings out as the Link Box above the living 3D model begins to spin.
+Bill's own eyes widen as several meshes of light manifest from the ether, expanding and covering Porygon's surroundings as if scouting the nearby environment. A mechanical thrumming rings out as the Link Box above the living 3D model begins to spin.
 
 Electricity *crackles* from the renewed body. Sinister whooshing sounds are accompanied by the glowing meshes shifting in front of Porygon, locking in place like a weapon cocking.
 
@@ -84,7 +84,7 @@ The Link Box's surface spiderwebs with a crack.
 
 “*No… I CAN’T CAVE IN! I NEED TO SURVIVE!”*
 
-From within, the pained growlithe’s body rises its temperature up to an unbearable degree. He can even feel his four paws letting out excess energy and heating the ground below. His spent, burnt muzzle starts to concentrate every ounce of his inner fountain of power. The tongue in his mouth almost sizzles…
+From within, the pained growlithe’s body rises its temperature up to an unbearable degree. He can even feel his four paws letting out excess energy and heating the ground below. The spent, burnt muzzle starts to concentrate every ounce of his inner fountain of power as the tongue in his mouth sizzles…
 
 Porygon’s ethereal cannon glows brightly and resoundingly.
 
@@ -104,11 +104,11 @@ At that very instant, Bill blasts out the *biggest pillar of fire he has ever co
 
 Beams **collide**.
 
-Somehow, the fire *bends* the death ray by a precious half-second. The scythe of light, big enough to consume half a man cuts along the field with a menacing shriek into one of the walls of the guild, leaving destruction in its wake.
+Somehow, the fire *bends* the death ray by a precious half-second. The endless scythe of light, wide enough to consume half a man cuts along the field with a menacing shriek into one of the walls of the guild, leaving destruction in its wake.
 
 And it's all for naught.
 
-It was foolish to think that a mere growlithe's fire would deter such an attack for long.
+It was foolish to think that a mere growlithe's fire could deter such an attack for long.
 
 The fire dies.
 
@@ -120,11 +120,11 @@ Light engulfs Bill.
 
 Porygon's cannon unravels. As its ghostly components vanish, the 3D duck model falls down to the ground like a lifeless puppet once again.
 
-Bill's smoking body lies several feet away. Even from this distance, anyone can tell that he's not conscious anymore.
+Bill's blackened, smoking body lies several feet away. Even from this distance, anyone can tell that he's not conscious anymore.
 
 No one is there to help pick up everyone's jaws from the ground.
 
-Even inside the guild, beyond the vertical wooden hole that used to be a wall, there's a paralyzed munchlax holding an empty sizzling pan in his hand. The beam had narrowly avoided him.
+Even inside the guild, beyond the vertical wooden hole that used to be a wall, a paralyzed munchlax holding an empty sizzling pan in his hand remains fixed in place like a statue. The beam had narrowly avoided him.
 
 Gill is the first to break out of the trance and run with an audino in tow.
 

@@ -116,3 +116,8 @@ Consensual snuff fairy(it's ok, she'll regenerate :D)
 [DL](https://files.catbox.moe/laa9w0.png)
 [Alt Image](https://files.catbox.moe/6xvx5p.png)
 ![Yvolt](https://files.catbox.moe/laa9w0.png)
+
+###Nadiya
+Happy tiger girl with multiple openings.
+[DL](https://files.catbox.moe/qsfpy3.png)
+![Nadiya](https://files.catbox.moe/qsfpy3.png)

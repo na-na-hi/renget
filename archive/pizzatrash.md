@@ -1,7 +1,7 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/59308033
-Latest Aggie: https://aggie.io/l5w3rddctl
+Latest thread: https://boards.4chan.org/trash/thread/59563068
+Latest Aggie: https://aggie.io/v20xb5_kev
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -68,6 +68,8 @@ https://desuarchive.org/trash/thread/58690168 /pizzatrash/ 48
 https://desuarchive.org/trash/thread/58986615 /pizzatrash/ 50
 https://desuarchive.org/trash/thread/59146934 /pizzatrash/ 51
 https://desuarchive.org/trash/thread/59308033 /pizzatrash/ 52
+https://desuarchive.org/trash/thread/59421494 /pizzatrash/ 53
+https://desuarchive.org/trash/thread/59563068 /pizzatrash/ 54
 
 #####Aggie
 
@@ -112,3 +114,4 @@ https://aggie.io/veul_fpsgp /pizzatrash/ Aggie #28: Neapolitan Edition
 https://aggie.io/icrltc0ro1 /pizzatrash/ Aggie #29: Sicilian Edition
 https://aggie.io/kimv_nzopz /pizzatrash/ Aggie #30: Deep Dish Edition
 https://aggie.io/l5w3rddctl /pizzatrash/ Aggie #31: New York-Style Edition
+https://aggie.io/v20xb5_kev /pizzatrash/ Aggie #32: Hawaiian Edition

@@ -218,5 +218,6 @@
 |14/09/2023|204&205|Lover of Idols Pages|Addition of Nerissa's POV for the upcoming Advent fullgen collab on Mario Kart 8|
 |14/09/2023|206&207|Lover of Idols Pages|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Mario Kart 8|
 |14/09/2023|208&209|Lover of Idols Pages|Addition of Bijou's POV for the upcoming Advent fullgen collab on Mario Kart 8|
+|14/09/2023|210&211|Lover of Idols Pages|Addition of Shiori's POV for the upcoming Advent fullgen collab on Mario Kart 8|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

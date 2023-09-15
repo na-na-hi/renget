@@ -48,8 +48,14 @@ Shroomers
 https://archiveofourown.org/works/47292694
 Even More Unprofessional Conduct with an Insectile Coworker
 https://archiveofourown.org/works/48184114
+###Taken from /GMAD/ stories
+Mothballs
+https://rentry.co/a9aan
+It's Hip To Fuck Bees
+https://rentry.co/sc2ik
 
 ##Reccommended Media/Outside Stories (Accepting Recomendations)
+###Outside Stories
 After The Hunt
 https://rdt.trom.tf/r/HFY/comments/ppnrr8/after_the_hunt/
 Melonians (Unfinished)
@@ -59,5 +65,12 @@ https://www.reddit.com/r/HFY/comments/88ija5/seed_melonians_iii/
 https://www.reddit.com/r/HFY/comments/wqqeb5/skyward_melonians_iv/
 The Princess and the Human
 https://teddit.pussthecat.org/r/HFY/comments/rmacpo/the_princess_and_the_human_ch_1/
-
+###Games
+Bug Fables
+https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/
+Webbed
+https://store.steampowered.com/app/1390350/Webbed/
+Creepy Castle
+https://store.steampowered.com/app/450440/Creepy_Castle/
+###Books
 Nor Crystal Tears By Alan Dean Foster

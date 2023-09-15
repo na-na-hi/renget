@@ -64,7 +64,7 @@ Name | Description | Links |
 ![sparks](https://files.catbox.moe/591kpi.png)| ![sparks just to make it even so it looks nice](https://files.catbox.moe/uq77ud.png)
 ![winifred, almost empty](https://files.catbox.moe/szmb2x.png)| ![winifred, almost full](https://files.catbox.moe/2m61io.png)|
 ![dakota on her first day, before she plumped up](https://files.catbox.moe/7dxm8i.png)| ![dakota exactly 14 seconds after you drop off your haul](https://files.catbox.moe/ccdjb6.png)
-![lux before her wings came in](https://files.catbox.moe/sfvlwp.png)| ![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/in57l1.png)
+![lux before her wings came in](https://files.catbox.moe/sfvlwp.png)| ![anon if you're reading this I'll make your comfykino 9-1-1 operator waifu soon](https://files.catbox.moe/q9zxpe.png)
 ![POV: You just asked for a brojob](https://files.catbox.moe/3c1w9q.png)| ![Noelle if she was slut](https://files.catbox.moe/h4p9ho.png)
 ![SQUEEZE ZONE](https://files.catbox.moe/4btif5.png)| ![akahime swimwear](https://files.catbox.moe/b3qqa4.png)
 ![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)| ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)

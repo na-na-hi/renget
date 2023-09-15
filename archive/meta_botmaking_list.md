@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-08-28)==<-
+->==(Updated 2023-09-15)==<-
 ***
 [TOC2]
 ***
@@ -55,8 +55,8 @@ Edit: -
 https://rentry.org/SillyT_Lorebook
 
 Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
-Edit: 05 Aug 2023 11:38 UTC
-- 2078 words, 12 minutes read
+Edit: 12 Sep 2023 11:33 UTC
+- 2103 words, 12 minutes read
 
 *"A how-to on Lorebooks. What they are, how to use them, with examples."*
 ***
@@ -66,14 +66,14 @@ Edit: 05 Aug 2023 11:38 UTC
 https://rentry.org/NG_CharCard
 
 Pub: [12 Jul 2023 No.94641345](https://desuarchive.org/g/thread/94640653/#94641345)
-Edit: 08 Aug 2023 13:48 UTC
-- 3752 words, 21 minutes read
+Edit: 24 Aug 2023 11:23 UTC
+- 3906 words, 22 minutes read
 
 *"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***
 ## Some rentries containing tips for roleplaying, but not about botmaking overall
 
-1. myclaudecantbethiscute
+1. fluffy AI
 https://rentry.org/myclaudecantbethiscute
 [19 May 2023 No.93515988](https://desuarchive.org/g/thread/93515903/#93515988)
 *"how to make claude work for CGDCT style moeblob characters"*
@@ -93,6 +93,11 @@ https://rentry.org/turbo_ft
 https://rentry.org/lobstersgpt
 [27 Aug 2023 No.95637004](https://desuarchive.org/g/thread/95636430/#95637004)
 *"a few tips and tricks I gathered from my experience with GPT4"*
+
+5. How to swiftly and easily create world books
+https://rentry.org/ClaudeWorldbooks
+[07 Sep 2023 No.95850671](https://desuarchive.org/g/thread/95849071/#95850671)
+*"Method for quickly creating world books via Claude.ai or the API"*
 ***
 ***
 ***

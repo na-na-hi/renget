@@ -21,8 +21,14 @@ Below are all the reoccurring locations that players may be expected to travel b
 ### ->Baram Town<-
 ->**Location: Air Continent**<-
 
+->![please hold experiencing difficult](https://cdn.imgchest.com/files/84apclmojj4.png)<-
+
+A thriving coastal town in the Air Continent, it's known for being exceptionally windy, with a constant cool breeze flowing over the region. The responsibility for this area falls to Clan Beryl. The wind is harnessed for the processing of berries and the town has a prominent bakery. 
+
 ### ->Pokémon Square<-
 ->**Location: Air Continent**<-
+
+->![please hold experiencing difficult](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/lIITxHMzokzuTtmVHHWkvyuA)<-
 
 ### ->Post Town<-
 ->**Location: Mist Continent**<-

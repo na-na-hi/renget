@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png), [Syuriy](https://files.catbox.moe/p4oeq8.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Shiiorina](https://files.catbox.moe/gfjgt3.png), [Cupcake](https://files.catbox.moe/a0tvos.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Frigga](https://files.catbox.moe/vvvze5.png), [JK EXORCIST CLUB](https://files.catbox.moe/m9xxb1.png)|
@@ -32,14 +33,13 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png), [Ankha](https://files.catbox.moe/nw63cd.png)|[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png) [MV], [Ankha](https://files.catbox.moe/nw63cd.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
-[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Syuriy](https://files.catbox.moe/p4oeq8.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)|[Tatsumaki ](https://files.catbox.moe/a8hfrb.png) [MV]
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Audrey II](https://files.catbox.moe/15aarh.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Villager](https://files.catbox.moe/b2zukt.png), [Monk](https://files.catbox.moe/42mb91.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Villager](https://files.catbox.moe/b2zukt.png)|
+[Gigasad](https://rentry.org/gigasad) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||[Elodie](https://files.catbox.moe/rxulbg.png)
 [Genoo](https://rentry.org/295se) | Sizeplay ||[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
-[Gigasad](https://rentry.org/gigasad) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
