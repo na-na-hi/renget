@@ -2,7 +2,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-Sep. 15 | [Duplica](https://www.aisekai.ai/chat/650484501a95140b1b6e2af6)
+Sep. 15 | [Duplica](https://www.aisekai.ai/chat/650484501a95140b1b6e2af6) \| [Miriam](https://www.aisekai.ai/chat/6504dbcf1a95140b1be4f60a)
 Sep. 13 | [Carmine](https://www.aisekai.ai/chat/65028af917efb1845aa1cd5a)
 Sep. 09 | [Lillie](https://www.aisekai.ai/chat/64fc8dbbc8a2694a69941338)
 Sep. 07 | [Idol Grace](https://www.aisekai.ai/chat/64fa12d6f1b6e2b6d23e3429)

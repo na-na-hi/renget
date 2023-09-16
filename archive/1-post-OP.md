@@ -12,11 +12,12 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 
 \>Streams
 Upcoming stream
+
+Current appearance on Mumei's Drawing Advent Stream
+https://www.youtube.com/watch?v=Dh0RJtL4Xu4
+Past stream
 https://youtu.be/Srb5k7icrJY
-Past Stream
-https://www.youtube.com/watch?v=Uhw5pm5eC8o
-First members-only Stream
-https://www.youtube.com/watch?v=SCvkxYeO2cE
+
 
 \>Songs
 Cover of Kalafina - Magia

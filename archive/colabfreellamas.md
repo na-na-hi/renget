@@ -21,8 +21,9 @@ that's it. share the trycloudflare link with the thread if you want to be nice
 
 #### more models
 (to return to MythoMax, set the org name to TheBloke and huggingface_repo to MythoMax-L2-13B-GPTQ or just reimport the colab above)
+
 ##### Stheno
-some people prefer Stheno over MythoMax, it's free to try out so why not?
+some people prefer Stheno over MythoMax, try it out and see for yourself
 change org name to TheBloke and the repo to Stheno-L2-13B-GPTQ
 or use this colab if you're retarded https://files.catbox.moe/q0yxam.ipynb
 https://rentry.org/stheno-guide
@@ -30,10 +31,23 @@ https://rentry.org/stheno-guide
 "Mlewd seems built for ERP. As in compared to Mythomax, you will receive much more emotional responses with MLewd."
 change org name to Kotokin and the repo to MLewd-L2-13B-v2-1-GPTQ
 or use this colab if you're retarded https://files.catbox.moe/8onqh5.ipynb
-##### ReMMv2
-Re:MythoMax v2 (ReMM v2) is a recreation trial of the original MythoMax-L2-B13 with updated models.
+
+##### ReMM/ReMM-SLERP
+Re:MythoMax is a recreation trial of the original MythoMax-L2-B13 with updated models.
+
+"ReMM v1 is shit, ReMM v1 SLERP is the same than v1 but merged with SLERP method, it's better and have airoboros 2.1.
+ReMM v2 is the more spicy, because it have Spicyboros 2.2 in it.
+ReMM v2.1 returned to airoboros but updated (2.2).
+Use SLERP v1, v2 or v2.1, ditch basic v1 completely, everyone have his favorite flavor"
+
+change org name to TheBloke and the repo to ReMM-v2-L2-13B-GPTQ
+
+change org name to TheBloke and the repo to ReMM-SLERP-L2-13B-GPTQ
+
+GGUFs (for use with koboldcpp below)
+https://huggingface.co/Undi95/ReMM-v2.1-L2-13B-GGUF
 https://huggingface.co/Undi95/ReMM-v2-L2-13B-GGUF
-it's a GGUF so you'll have to use the koboldcpp colab below
+https://huggingface.co/Undi95/ReMM-SLERP-L2-13B-GGUF
 
 ##### tsukasa
 "similar to MLewd but made by an anon here which is nice"

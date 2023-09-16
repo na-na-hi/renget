@@ -47,7 +47,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    *This map features these corrupted-tree monsters in the new Jungle camps (not any named entities within Chinese mythology, just tree-monster corrupted by le jade that permeates the setting ~~that looked like evil cacti~~), as well as the aforementioned Terracotta Soldiers as the Chaos-side minions.*
 	*Design-wise, this is the longest and largest Joust map in SMITE, both longer than S3's Chinese Joust and wider than S1's Classic (Arthurian) Joust; and was an attempt to make it more akin to Conquest in complexity, while retaining a more streamlined feel, on top of having numerous thin walls to jump if shit ever hit the fan. It also featured many more camps to farm around the map, with a new Harpy camp and a Yellow buff camp on each team's side, surrounding the central lane.*
-   *Gameplay-wise, this map allowed Assassins to be viable and an optional Jungler 'role' to be taken up (unlike the other two maps, which require all 3 players to act as a constant deathball), yet generally favoured Tanky, Objective-focused compositions over more Aggro / PvP comps, as the increased amount of jungle camps allowed them to maintain level-pace, and then just use Bull Demon King to take Structures for free. Unlike the S1 Joust map however, Phoenixes was not enclosed, and thus game times were still relatively quick without devolving into Phoenix staring competitions. If it's not in the default queue, you can check it out in custom matches.*
+   *Gameplay-wise, this map allowed Assassins to be viable and an optional Jungler 'role' to be taken up (unlike the other two maps, which require all 3 players to act as a constant deathball), yet generally favoured Tanky, Objective-focused compositions over more Aggro / PvP comps, as the increased amount of jungle camps allowed them to maintain level-pace while playing less aggressively, and then just use Bull Demon King to take Structures for free, outlasting with increased sustain. Unlike the S1 Joust map however, Phoenixes was not enclosed, and thus game times were still relatively quick without devolving into Phoenix staring competitions. If it's not in the default queue, you can check it out in custom matches.*
 
 -> ![Corr Joust Chaos](https://files.catbox.moe/ccuzee.jpg) <-
 
@@ -59,11 +59,11 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    She smashes a few more Terracotta Soldiers up, by going for heavy, blunt blows *with all the force of a great typhoon* to their head/torso - going for shatters, and noting that it's the only way to 'kill' them (with one picking itself back up with a spear lodged in it's abdomen to make that clear).
    Her peasant militia runs in after her, and starts helping smash up the Terracotta Soldiers. Mulan goes on to explain they were from the surrounding area, and she quickly trained them *with all the strength of a raging fire* (in that basic strategy and teamwork was all that was really needed to beat the Terracotta Soldiers). She then goes on to explain that her posse is the only one of it's kind in the region, and that while she wasn't happy about it, she didn't really expect the Gods to intervene too much. 
-	inally, she notes that her peasant-army are looking up to her a bit too much for comfort...
+	Finally, she notes that her peasant-army are looking up to her a bit too much for comfort...
 
-   The shard-remains of the Terracotta Soldiers that still have Corrupted Jade in them creepily watch and shuffle after her, and jade-infested carrion birds circle the town. She notes that they're growing in number, so she thinks she might be getting closer to the scourge source.
-   Further in the village, the Terracotta Soldiers start using bows and basic strategy against her (they're starting to think?!); so she tells her main force to stay back, as she guns for the temple that the Terracotta Soldiers are trying to break into *(in this context, the prominent structure behind the Order side of the map)*. As in, the Terracotta Soldiers are literally breaking into the place - they're ripping away at the walls / beams like a zombie movie.
-   She unknowingly leads a charge, smashes the Terracotta soldiers up, saves the temple .... but begins glowing - *mysterious as the dark side of the moon*! The peasants, now prostrating before her in gratitude.
+   The shard-remains of the Terracotta Soldiers that still have Corrupted Jade in them creepily watch and shuffle around after her, and jade-infected carrion birds circle the town. She notes that they're growing in number, so she thinks she might be getting closer to the scourge source.
+   Further in the village, the Terracotta Soldiers start using bows and basic strategy against her (they're starting to think?!); so she tells her main force to stay back, as she guns for the temple that the Terracotta Soldiers are trying to break into *(in this context, the prominent structure behind the Order side of the map)*. As in, the Terracotta Soldiers are literally breaking into the place - they're ripping away at the walls / beams like in a zombie movie.
+   Despite telling the peasants to stay back, she unknowingly leads a charge, smashes the Terracotta soldiers up, saves the temple .... but begins glowing - *mysterious as the dark side of the moon*! The peasants, now prostrating before her in gratitude.
 
 -> *Oh shit, she's a God now.* <-
 -> *...* <-
@@ -78,6 +78,8 @@ Without further ado, *since you're probably in the middle of reading all at once
 -> *...* <-
 -> *...* <-
 
+-> *...* <-
+-> *Ok?* <-
 -> *Oops?...* <-
 
 -> ![Corr Joust Order](https://files.catbox.moe/agkkwv.jpg) <-
@@ -85,8 +87,8 @@ Without further ado, *since you're probably in the middle of reading all at once
 -> *~~The narrative takes a shock twist, as the Chinese Communist Party begins to mass produce Gods (your favourites, like Zoose, Berrona and Fhor!) and export them to undermine the Western God economies!!!~~* <-
 -> *~~China WILL grow larger!~~* <-
 
-   Mulan is sat by a fire, now on night watch, learning how to get her new Worshippower factor under control. Stereotypical wise old Chinese man hobbles over, calls him her sister. She fucks him off, he pulls le chinese old man master-in-disguise trick, and goes to strike her neck with his polearm. She deflects, then he reveals himself to be none other than GUAN YU?!!!!?!?! *(hmm yresh, no mewe mortaw could hav shtopped my brade....)*
-   She stands to attention, he says she can relax. Guan explains that her peasant army made a God out of her, then after she asks him what the fuck the Gods have been doing this entire time. Guan explains that shit's been busy ~~since the last timeskip~~ and that *there is great imbalance in the force* across the world. In China the typically healing Jade has gone corrupt, in Greece the oracles and prophets have HOLY FUCKING SHIT RIPPED AND CLAWED THEIR EYES OUT and in Scandinavia all the animals have gone completely feral and hostile to life.
+   Mulan is sat by a fire, now on night watch, learning how to get her new Worshippower factor under control. Stereotypical wise old Chinese man hobbles over, calls him her sister. She tells him to fucks off, he pulls le chinese old man master-in-disguise trick, and goes to strike her neck with his polearm. She deflects, then he reveals himself to be none other than GUAN YU?!!!!?!?! *(hmm yresh, no mewe mortaw could hav shtopped my brade....)*
+   She stands to attention, he says she can relax. Guan explains that her peasant army made a God out of her, then after she asks him what the fuck the Gods have been doing this entire time. Guan explains that shit's been busy ~~since the last timeskip~~ and that *there is great imbalance in the force* across the world. In China the typically healing Jade has gone corrupt, in Greece the oracles and prophets have HOLY FUCKING SHIT RIPPED AND CLAWED THEIR EYES OUT and in Scandinavia all the animals have gone completely feral and hostile to human life.
    Guan pulls the ol' "chaotic visions of the future in the fire" shtick, then asks her to help him out with an incident at Yggdrasil.
 
 -> ![Guan Fire](https://files.catbox.moe/qlyl7s.jpeg) <-
@@ -94,14 +96,14 @@ Without further ado, *since you're probably in the middle of reading all at once
  ***
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/vj1u66.mp3) <-
 
-   In Valhalla, Ratatoskr (in tune with / LARPing as his inner squirrel) is doing his usual scurrying around, before Odin calls him into his chamber for a situation report. Ratatoskr says that at the surface everything's looks fine with Yggdrasil - but both know something happened to it in some way to cause all the current shit happening. Even Odin's runes are acting up, they start speaking in foreign tongues that neither of them know of before ~~*lmfao*~~ killing themselves.
+   In Valhalla, Ratatoskr (in tune with / LARPing as his inner squirrel) is doing his usual scurrying around, before Odin calls him into his chamber for a situation report. Ratatoskr says that at the surface everything's looks fine with Yggdrasil - but both of them know something has happened to it in some way to cause all the current shit happening. Even Odin's runes are acting up, they start speaking in foreign tongues that neither of them know of before ~~*lmfao*~~ killing themselves.
    Ratatoskr backtracks a bit and says maybe something's up with Yggdrasil, a very tired Odin says that something's definitely fucking with le divine realm, so they both go off to fix it.
 
 ***
 
-   Now to Baba Yaga. She's alone in the woods doing her thing / speaking to herself *(probably a schizo)*, and knows exactly what's happening, but her only divine 'rule' means she isn't allowed to help or hinder anyone unless they ask. 'Somethings' getting restless though.
-   She talks to the shadows that her prized line of skulls cast *(definitely a schizo)*, observing they're nice and obedient *for now* (implying at some point they weren't before) and tells us that she put what she found of a mindbroken Persephone back on her feet then sent her East, a bit humbler than when she arrived, post-commune with Yggdrasil and 'delicate' banishment via Heimdallr. Lucky for Persephone, she evidently got sent to Sea-of-Mists Niflheim and not to instadeath Sea-of-Flames Muspelheim.
-   Baba then tells her chicken-house to take herself East, towards Mulan, in hopes she might ask the right questions and listen to the right answers *(since 'new' Gods are apparently ususally less headstrong than established Gods)*.
+   Now to Baba Yaga. She's alone in the woods doing her thing / speaking to herself *(probably a schizo)*, and knows exactly what's happening, but her only divine 'rule' means she isn't allowed to help or hinder anyone unless they ask her. 'Somethings' getting restless though.
+   She talks to the shadows that her prized lines of skulls cast *(definitely a schizo)*, observing they're nice and obedient *for now (implying at some point they weren't before)*. Baba indirectly tells us that she found the mindbroken husk of Persephone *(post-commune with Yggdrasil and 'delicate' banishment via Heimdallr)*, put her back on her feet and with a jolly pat on the back, sent her to the Far East for a favor *(a bit more humble than when she arrived)*. Lucky for Persephone, Persephone evidently got sent to chilly Sea-of-Mists Niflheim and not to instadeath Sea-of-Flames Muspelheim.
+   Baba then tells her chicken-house to take herself East, towards Mulan, in hopes she might ask the right questions and listen to the right answers *(since 'new' Gods are apparently usually less headstrong than established Gods)*.
 
    *Baba got a fancy rendered cinematic! The first from the new animation studio too! ~~Sure, it's irrelevant to the lore and does nothing... but hey, it looks pretty!~~*
 
@@ -114,7 +116,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 ***
 
    *Back in-game, it's at this point that Conquest received a skybox change (and I think the Fog of War was also made more dense), to mirror the foreboding fuckery going on with Yggdrasil.*
-   *The first real attempt at an 'evolution' of the Conquest map over time, Yggdrasil was added to be visible from Duo lane side of the skybox, and over the weeks that the lore event ran for, would slowly wither away to mirror the 'decay' Yggdrasil was undergoing in-lore. Otherwise the sky just got more grey with some EXTRA ominous clouds and the Jungle Fog-of-War was increased in density for increased mystery / paranoia - but this is still the point where the Conquest map 'starts' to be used more in connection to the lore and capitalised on appropriately ...given it's still been in Stardust Crus-Hades mode all the way up until this point. In alowing for lore-related evolutions, it also gave HiRez / Titanforge an excuse to artfully test out new mechanics and gimmicks in-engine (expanded upon later, when it became a staple come S8).*
+   *The first real attempt at an 'evolution' of the Conquest map over time, Yggdrasil was added to be visible from Duo lane side of the skybox, and over the weeks that the lore event ran for, would slowly wither away to mirror the 'decay' Yggdrasil was undergoing in-lore. Otherwise the sky just got more grey with some EXTRA ominous clouds, and the Jungle Fog-of-War was increased in density for increased mystery / paranoia - but this is still the point where the Conquest map 'starts' to be used more in connection to the lore and capitalised on appropriately ...given it's still been in Stardust Crus-Hades mode all the way up until this point. In allowing for lore-related evolutions, it also gave HiRez / Titanforge an excuse to artfully test out new mechanics and gimmicks in-engine (expanded upon later, when it became a staple come S8).*
 
    -> ![Ygg](https://files.catbox.moe/faxh5e.jpg) <-
 
@@ -122,13 +124,15 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
 
-   Mulan is now overseeing the rebuild of the Corrupted Joust village - but is conflicted with following Guan's advice to go to Yggdrasil, as she'd be abandoning her peasants. She thinks on it while doing a few combat exercises and via Worshippower-empathy/telepathy realises her followers are scared of shit that's forebodingly about to go down.
-   ENTER a very shellshocked / mindraped Persephone in a steroetypical 'mysterious cloak'. Mulan 'recognises' her, but at the same time has never met her before and can't even see her face, Guan Yu approaches the two and explains that even if they're not in the same Pantheon, just by sensing Worshippower, the Gods can understand who else is divine and who isn't (which is how Mulan 'knows' about Persephone, even if she never heard of her *and presumably how they actually understand each other's language*). PTSDsephone shakily directs them to see Baba Yaga instead of Yggdrasil, Guan chokes on his breath in the mere shock of hearing the name of Babushka, and as fast as Persephone arrived, they're all reluctantly off.
+   Mulan is now overseeing the rebuild of the Corrupted Joust village - but is conflicted with following Guan's advice to go to Yggdrasil, as she'd be abandoning her peasants. She thinks on it while doing a few combat exercises, and via Worshippower-empathy/telepathy realises her followers are scared shitless about the foreboding stuff that's about to go down.
+   ENTER a very shellshocked / mindraped Persephone in a stereotypical 'mysterious cloak'. Mulan 'recognises' her, but at the same time has never met her before and can't even see her face, Guan Yu approaches the two and explains that even if they're not in the same Pantheon, just by sensing Worshippower, the Gods can understand who else is divine and who isn't (which is how Mulan 'knows' about Persephone, even if she never heard of her *and presumably how they actually understand each other's language*). PTSDsephone shakily directs them to see Baba Yaga instead of Yggdrasil, Guan chokes on his breath in the mere shock of hearing the name of Babushka - and as fast as Persephone arrived, they're all reluctantly off.
+
+***
 
    Baba gets a bit giddy, then is reminded by her skull-shadows that that fabric of reality is getting weak *(again, implying it's happened before)*, before a small explanation that (her) older / more chaotic wild magic = stronger than conventional but focused and consistant magic *(generally the same concept applied to the Gods / Pantheons)*.
-   Persephone pops up out of the ground outside Baba's chickenhut with Mulan and Guan Yu after taking a personal underground plant-bullet-train. PTSDsephone desparately looks for approval from the two Chinese and is promptly walled. Guan explains to Mulan that *~~with the feint smell of cheap vodka in the air, and Cheeki Breeki Hardbass Anthem playing in the distance,~~* they must be in the Slavic territory now.
+   Persephone pops up out of the ground outside Baba's chickenhut, along with Mulan and Guan Yu, after taking a personal underground plant-bullet-train. PTSDsephone desperately looks for approval from the two Chinese acquaintances and is promptly stonewalled. Guan explains to Mulan that *~~with the feint smell of cheap vodka in the air, and Cheeki Breeki Hardbass Anthem playing in the distance,~~* they must be in the Slavic territory now.
 
-   Baba greets them, laughs Persephone's 'debt' to her off, basically tells Guan Yu to fuck off and pulls 'le crone putting her arm around le young girl' trope with Mulan. Persephone demands ~~*Baba Yaga's strongest potions*~~ the apparent information on how to fix Yggdrasil as part of her deal, Baba retorts that ~~*her strongest potions would kill a God, let alone a beast, that Yggdrasil can't handle Baba's strongest potions*~~ she only ever implied Persephone might hear the answer on what to do, not that she'd be given a tutorial.
+   Baba greets them, laughs Persephone's 'debt' off, basically tells Guan Yu to fuck off and pulls 'le crone putting her arm around le young girl' trope with Mulan. Persephone demands ~~*Baba Yaga's strongest potions*~~ the apparent information on how to fix Yggdrasil as part of her deal, Baba retorts that ~~*her strongest potions would kill a God, let alone a beast, that Yggdrasil can't handle Baba's strongest potions*~~ she only ever implied Persephone might hear the answer on what to do, not that she'd be given a tutorial.
 	Mulan does the one thing you don't ever do with Baba, asks for Baba to name a damn price for the info already, then quickly gets pulled to the side for le deal.
 
 -> ![Grim Omen House](https://files.catbox.moe/idivzd.jpg) <-
@@ -136,9 +140,9 @@ Without further ado, *since you're probably in the middle of reading all at once
    Baba shows off her skull collection *(\*very\* proud)* and Baba wants a new skull from a nearby heroes skellington as obliged payment *(deliberately EZPZ, but for some reason Baba can't do it herself)*.
 
    Mulan agrees and gets teleported by Baba's cauldron-smoke into a dark clearing.
-   Cue the bodies of all the peasants Mulan couldn't save lurching at her, Mulan gets pulled down into the ground before Persephone pulls her out *(but can't control these skellingtons for some reason)*. Guan Yu uses his Ult to get in on the fight and clears a wave of skellingtons for Mulan, PTSDsephone also has to confront the consequences of her actions and all the innocent people her fuckup ended up killing (worse, considering she's very pro-mortal). Swordfight of Mulan vs hero skellington, she breaks Mr Bones's old sword and decapitates the fucker, picking up the payment for Baba.
+   Cue the bodies of all the peasants Mulan couldn't save lurching at her, Mulan gets pulled into the ground, before Persephone pulls her back out *(but she can't control these skellingtons for some reason)*. Guan Yu uses his Ult to get in on the fight and clears a wave of skellingtons for Mulan, PTSDsephone also has to confront the consequences of her actions and all the innocent people her fuckup ended up killing *(worse, considering she's very pro-mortal)*. Swordfight of Mulan vs hero skellington, she breaks Mr Bones's old sword and decapitates the fucker, picking up the payment for Baba.
 
-   Back in the hut, Baba's a bit let down Mulan got help for what was supposed to be a one-man-task, on top of the worn & torn condition of the skull, whines a little bit (PTSDsephone begins to recover, and laughs at her for a change) then Baba nonchalantly throws the skull over her shoulder. Baba coos Mulan over and gives her a ~le great prophecy!!!~ *~~~that I've corrected the grammar and punctuation for, for your reading pleasure\~~~*.
+   Back in the hut, Baba's a bit let down Mulan got help for what was supposed to be a one-man-task, on top of the worn & torn condition of the skull, whines a little bit *(PTSDsephone begins to recover, and laughs at her for a change)* then Baba nonchalantly throws the skull over her shoulder. Baba coos Mulan over and gives her a **le great prophecy!!!** *~~that I've corrected the grammar and punctuation for, for your reading pleasure~  ~~*
    Chaotic smoke billows from her cauldron....!
 
 -> \!!! *READ CAREFULLY?!* !!! <-
@@ -148,7 +152,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 -> *The Dark Sea rises, drowning the World.* <-
 -> *Without the Tree, the Sea will consume All...* <-
 
-   Persephone tries to cut to the chase, and asks what part of that has anything to do with what's currently going on. Baba shrugs as to what that was supposed to mean either, and then tells the group she has absolutely now idea how to fix Yggdrasil, and just wanted to meet Mulan as she begins shooing them all out of her hut *(lole)*.
+   Persephone tries to cut to the chase, and asks what part of that has anything to do with what's currently going on. Baba shrugs as to what that was supposed to mean either, and then tells the group she has absolutely now idea how to fix Yggdrasil, and just wanted to meet Mulan, as she begins shooing them all out of her hut *(lole)*.
    Before Mulan leaves last however, Baba tells her that she might want to get to... "the root of the problem”... 
 
 ***
@@ -157,26 +161,26 @@ Without further ado, *since you're probably in the middle of reading all at once
 
    Now at the underground tunnels surrounding Yggdrasil's roots, we've enter on Ratatoskr scurrying around, only to find that Nidhoggr has abandoned his post and that other unsettling things are going on...
 
-   ***Nidhogg & The Beasts of Yggdrasil aside***:  *https://rentry.org/smgenloreasidespt2#nidhoggr-the-ecosystem-of-yggdrasil*
+   ***Nidhoggr & The Beasts of Yggdrasil aside***:  *https://rentry.org/smgenloreasidespt2#nidhoggr-the-ecosystem-of-yggdrasil*
 
-   Ratatoskr's beginning to have a squirrel-panic-attack as he swears he see *something else* in the mists around him. Major tremors reverberate through the tree and Ratatoskr is almost thrown down into the lake Nidhoggr should be in, but Heimdallr grabs him just before he falls and playfully ragdolls him around a bit, shaking the sense back into him.
+   Ratatoskr's beginning to have a squirrel-panic-attack as he swears he see *something else* in the mists around him. Major tremors reverberate through the tree and Ratatoskr is almost thrown down into the lake which Nidhoggr should be in, but Heimdallr grabs him just before he falls and playfully ragdolls him around a bit, shaking the sense back into him.
 
    Introductions in on our new gang of Heimdallr, Hera (Argus), Olorun ... and none other than ya main man Zeus after a few weeks of a timeskip since being freed from the Persephone incident.
-   Zeus is pretty damn happy that Ratatoskr seems to actually remember who he is and give him the respect he deserves - unlike 'others' present. Ratatoskr explains he's Odins replacement-representative on Yggdrasil-related matters while Odin is looking into other things, Zeus chuckles at the absurdity of it all *(character biopic time; Zeus seems like a genuinely great guy but is easy to anger - and is absolutely seething right now, and is grinning in absolute rage as of now)*. Ratatoskr interrupts to points out that Nidhoggr is just... gone.... *~~Pretty sure the implication here is that Nidhoggr has been HOLY FUCKING SHIT'd by something. He's not 'gone', he's dead.~~*
-   Zeus gets into a spat with Olorun, Olorun says *'well i'm king of olympus now you can't have it back nuh-uh'*, Zeus internally seethes more that Hera is backing him up *~~because she fucked him behind Zeus's back, when only Zeus is allowed to do that in this relationship~~* because of 'peace efforts' after the Ragnarok incident. Zeus wants to just focus on taking his anger out on Persephone for now, or he'll fucking lose it, but gets into yet another argument with Hera. Olorun internally notes that he's been getting weaker as of late, and instead of being a **BLACK GOD**, he's only a **BLACK God** now, and is cautious of losing more capital letters. As the group agree that they're starting to see things too, Persephone arrives via plant with her gang.
+   Zeus is pretty damn happy that Ratatoskr seems to actually remember who he is, treats him with the respect he deserves - unlike some 'others' present. Ratatoskr explains he's Odins replacement-representative on Yggdrasil-related matters while Odin is looking into other things, Zeus chuckles at the absurdity of it all *(character biopic time; Zeus seems like a genuinely great guy, but is easy to anger - and is absolutely seething / grimacing in purely repressed rage as of now)*. Ratatoskr interrupts to points out that Nidhoggr is just... gone.... *~~Pretty sure the implication here is that Nidhoggr has been HOLY FUCKING SHIT'd by something. He's not 'gone', he's dead.~~*
+   Zeus gets into a spat with Olorun, Olorun says *'well i'm kang of limpus now and you can't have it back nuh-uh'*, Zeus internally seethes more that Hera is backing him up *~~because she dated him behind Zeus's back, when only Zeus is allowed to do that in this relationship~~* because of 'peace efforts' after the Ragnarok incident. Zeus wants to just focus on taking his anger out on Persephone for now, or he'll fucking lose it, but gets into yet another argument with Hera. Olorun internally notes that he's been getting weaker as of late, and instead of being a **BLACK GOD**, he's only a **BLACK God** now, and is cautious of losing more capital letters. As the group agree that they're starting to see things too, Persephone arrives via plant with her gang.
 
    Mulan is mentally overwhelmed by the presence of the **BLACK God**, Heim and Zeus both instinctively go to kill Persephone, Olorun pauses time with his  **BLACK God** powers.
-   Mulan instinctively submits ~~her body~~ to him and catches Olorun up with her side of the story so far. Olorun has apparently heard of Baba Yaga too; then un-freezes time, showing he couldn't stop it entirely, only restrain the Gods about to kill each other (so everyone has now heard everything and is all caught up with each other). They go on to realise that the whispers they're hearing are prayers for somebody who ain't one of /theirs/, *(what could it be?!)*.
+   Mulan instinctively submits ~~her body~~ to him and catches Olorun up with her side of the story so far. Olorun has apparently heard of Baba Yaga too; then un-freezes time, showing he couldn't stop it entirely, only restrain the Gods that were about to kill each other (so at least everyone has now heard everything, and is all caught up with each other). They go on to realise that the whispers they're hearing are prayers for somebody who ain't one of /theirs/, *(what could it be?!)*.
    Cue another major groaning tremor above the lake and throughout the tree.
 
-   -> Snippet of the Oracle of Delphi screaming over a vision, under a jade-green sky... <-
+   -> Snippet of the Oracle of Delphi screaming over a vision, under a jade-green sky..... <-
 
-   The Gods are starting to get uneasy as the nu-followers are speaking foreign languages and are drowning out the Worshippower connection to their own followers. Zeus notes it's like back before Kronos got the boot, and said he was hearing shit like this during his coma. Word is that Poseidon was apparently talking about how his oceans were getting especially fucked around with, shortly before they arrives *(who could it be?!)*, Ratatoskr says that they're at the source of all the oceans and that ominous whispers wouldn't be enough for Nidhogg to 'flee'.
-   They ask Persephone what she actually did to the fucking tree, she goes on that she only realised how out of her depth she was when she spoke to Yggdrasil proper, and in doing so left a vulnerability that 'something' else was now exploiting *(what could it be?!)*.
+   The Gods start to get uneasy as the nu-followers speak in some kind of foreign language, and the whispers drown out the Worshippower connection they have to their own followers. Zeus notes it's like back before Kronos got the boot, and said he was hearing shit like this during his coma. Word is that Poseidon was talking about how his oceans were getting especially fucked around with, shortly before they arrived *(who could it be?!)*, Ratatoskr says that they're at the source of all the oceans, and that ominous whispers alone wouldn't be enough for Nidhoggr to 'flee'.
+   They ask Persephone what she actually did to the damn fuckin tree, so she goes on that she only realised how out of her depth she was once she spoke to Yggdrasil proper, and in doing so left a vulnerability that 'something' else was now exploiting *(what could it be?!)*.
 
    -> Snippet of Egil shouting at an old man as they try to decipher runes, only for the old man to go blind and cry blood. <-
 
-   *Egil could be a few Norse figures, but most likely the semi-famous Norse hero who married then chased after a Valkyrie who herself searched for battle. Was most famous for the 'shooting the arrow off the top of a chieftain sons head, and saving the second arrow in case he failed' story.*
+   *Egil could be a few Norse figures, but most likely the semi-famous Norse hero who married then chased after a Valkyrie who herself searched for battle. Was most famous for the 'shooting the arrow off the top of a chieftain sons head, and saving the second arrow for the cheiftan in case he failed' story.*
    *imo I think they only named him because his wife was called Olrun, and she would have been much more famous / popped up more when they were looking for miscellaneous shit to dig up for ol' literal-fucking-who Olorun.*
 
    Olorun considers leaving Yggdrasil to speak to Odin about what he's looking into, before even more violent tremors shake the tree as 'something' is clearly trying to break free *(what could it be?!)*. Yggdrasil itself starts physically convulsing, the roots gaining sentience and trying to move themselves away from the Lake of Hvergelmir. Guan catches Mulan before she falls in, Zeus saves Hera and gets her under Argus; everybody lodges themselves onto the tree with what they can.
@@ -184,8 +188,8 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
 
--> Poseidon interruption! <-
--> *t's been long enough in lore, but finally, the third major Olympian brother FINALLY GETS HIS TIME TO SHINE BABY!!!* <-
+-> **Poseidon interruption!** <-
+-> ***It's been long enough in lore, but finally, the third major Olympian brother FINALLY GETS HIS TIME TO SHINE BABY!!!*** <-
    Poseidon's been on the search for what's been going disrupting the aquatic wildlife *(shoals of deepwater fish have been trying to escape the surface itself, loads of whales have beached themselves, and populations of coastal fishing villages have been entirely wandering into the depths - 'presumably' drowning themselves)*. Along with new, foreign and jagged coral reefs rising, he can only assume that a new city is physically rising from the depths. Oh, and unlike the other Gods, CHADsideon isn't scared or unnerved one bit - but he is fucking livid that he can't do anything about it for now.
 -> *~~that's it. sorry poseidonfags, just another snippet. least relevant brother lol btfo~~* <-
 
@@ -198,7 +202,7 @@ Without further ado, *since you're probably in the middle of reading all at once
  -> **THE- THE IMPOSSIBLE HAPPENS.....** <-
 
    ***Olorun*** **KNEELS** as his eyes go jade green, clutching his head and hearing the stars scream *(not the Transformer, ~~that bit comes later~~)*.
-   Hera pushes away Zeus to go help Olorun, Zeus tells her to fucking leave the bastard to just die off already, as what is an obviously a larger threat begins to surface. Zeus physically flexes ~~on Olorun~~ and does other miscellaneous warm-up stretches and calisthenics unphased, to get warmed up for a fight wih what's rising as the others tremble in shock.
+   Hera pushes Zeus away to go help Olorun, Zeus tells her to fucking leave the bastard to just die off already, as what is an obviously a larger threat begins to surface from the Lake of Hvergelmir. Zeus physically flexes ~~on Olorun~~ and does other miscellaneous warm-up stretches and calisthenics unphased, to get warmed up for a fight with what's rising, as the others tremble in shock.
 
    Mulan's way too young for this shit, sees *something?! (what could it be?!)* pitch-black now break the surface of the water, with Yggdrasil's roots thrashing around and heavily recoiling from it in absolute repulsion. All the other Gods ~~hide behind~~ stand behind Zeus, weapons trembling~~, shitting themselves~~ as Zeus casually cricks his neck and stretches some more with a grin on his face. Hera leaves Olorun to be proteced by Argus, and runs to Zeus's side, but is still freaking out. HOLY FUCKING SHIT, ZEUS IS STILL COMPLETELY UNPHASED WHATSOEVER AND IS FUCKING DARING IT TO COME AT HIM, BRO. AN UNDERGROUND THUNDERSTORM VS THE THING FROM THE DEEP - FIGHT!
 
@@ -213,7 +217,7 @@ Without further ado, *since you're probably in the middle of reading all at once
 
 ***
 
-   Finishing up, we're now back at Baba's place. She gets her pet inanimate skulls back under control *(too much rattling bones, 2spooky4u)*, and sighs because of saltwater rain and gangrenous skies indicate that 'it' really had woken up because of Persephone's fuckup. What a shame.
+   Finishing up, we're now back at Baba's place. She gets her pet inanimate skulls back under control *(too much rattling bones, 2spooky4u)*, and sighs because the saltwater rain and gangrenous skies indicate that 'it' really had woken up because of Persephone's fuckup. What a shame.
    She decides to go full innawoods *(in divine terms at least)* and decides head into the far North to bunker it all out somewhere that's apparently being kept safe. As Baba and her house begin to pack up, she gives a bit of exposition while she works on a few new spells / potions, that she'd been around before this 'loop' and that all the Gods and the like were nothing more than in a peaceful period while *it* slept and had a nice dream. And now it'd just got loose again.
 
    What is '*it*?!' you say? ~~As if you didn't already know.~~

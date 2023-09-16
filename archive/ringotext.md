@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10715754 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10761046 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 

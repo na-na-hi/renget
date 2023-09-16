@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Item Specialist
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
-**Level:** 5 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 0/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 180₽ | **Glorious Gold:** 0 Bars
 
@@ -75,8 +75,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Joy Shaving | The User gains 25 XP upon consumption.
-2. Big Mushroom | An item that can possibly be sold.
+1. Big Mushroom | An item that can possibly be sold.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

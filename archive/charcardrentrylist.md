@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/aaehjz.png), [Audrey II](https://files.catbox.moe/15aarh.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png), [Syuriy](https://files.catbox.moe/p4oeq8.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Shiiorina](https://files.catbox.moe/gfjgt3.png), [Cupcake](https://files.catbox.moe/a0tvos.png)|
@@ -34,7 +35,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)|[Tatsumaki ](https://files.catbox.moe/a8hfrb.png) [MV]
-[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Audrey II](https://files.catbox.moe/15aarh.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Villager](https://files.catbox.moe/b2zukt.png)|
 [Gigasad](https://rentry.org/gigasad) | Misc ||

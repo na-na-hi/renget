@@ -14,7 +14,7 @@ Who knows what could’ve happened if the likes of Lliam or, God forbid, KFC had
 
 From the sidelines, many observe raptly as the dust clears… revealing a panting growlithe and a flickering, twitchy porygon. They lock their glares from several feet away.
 
-Bill is a complete and utter mess. Large portions of his fur are mussed and disheveled. His dirty orange is slightly darker in some areas, leaving little room to the imagination as to what kind of wounds are hiding beneath. His teeth gnash as he tries to ignore the cripplingly unbearable aftermath of having several bursts of electricity course through his body as the path of least resistance.
+Bill is a complete and utter mess. Large portions of his fur are mussed and disheveled. His dirty orange is slightly darker in some areas, leaving little room to the imagination as to what kind of wounds are hiding underneath. His teeth gnash as he tries to ignore the cripplingly unbearable aftermath of having several bursts of electricity course through his body as the path of least resistance.
 
 And on the other side is a hovering, bobbing Porygon. The red Conversion 2 coating his flatly colored body blinks constantly between several states, as though his being finds it hard to keep existing. Despite needing no oxygen, it almost looks as if the living low-poly model is panting as well—perhaps an obstinate remnant of the human residing within the vessel. A glowing Link Box floats above him, imitating his pitiful motions.
 

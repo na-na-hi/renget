@@ -219,5 +219,7 @@
 |14/09/2023|206&207|Lover of Idols Pages|Addition of FUWAMOCO's POV for the upcoming Advent fullgen collab on Mario Kart 8|
 |14/09/2023|208&209|Lover of Idols Pages|Addition of Bijou's POV for the upcoming Advent fullgen collab on Mario Kart 8|
 |14/09/2023|210&211|Lover of Idols Pages|Addition of Shiori's POV for the upcoming Advent fullgen collab on Mario Kart 8|
+|14/09/2023|212|Lover of Idols I - Collabs on Nerissa's channel|Addition of placeholder for an upcoming collab with Bijou..|
+|14/09/2023|213|Lover of Idols II - OHC & Mentions|Addition of a placeholder for a possible JP Learning Class collab with Lui on 20/09/2023.|
 
 ->[Go back to the TOC](https://rentry.org/List_of_updates)->

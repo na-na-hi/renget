@@ -105,4 +105,4 @@ ELYSIAN REALM
 - Adjusted Lunar Vow signets
 - HoSENTI: Added special effects when equipped with Brick of Taixuan
 - Burst Mode duration is extended to 20s. When Burst Mode atk hits an enemy, it will deal additional 600% ATK Physical DMG. CD: 1s
-- When you have (some Ego signets), Herrscher form attacks will trigger its effect.
+- When you have Victory or Ego signet, Herrscher form attacks will trigger its effect.

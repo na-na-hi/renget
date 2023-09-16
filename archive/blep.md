@@ -5,4 +5,4 @@ hii im vivian but i also go by zuka or boom(box) ^_^ i use shi/hir and hy/hym, b
 im disabled with npd, bpd, cfs, autism, + a Lot. more. i dont list all my illnesses for personal reasons >_> im an introject of a few characters found [here](fictroj) aswell!!
 
 my do not interact criteria and before you follow is [here](kyuorby)
-my interests are listed [here](byehi)
+my interests are listed [here](cashdummy)

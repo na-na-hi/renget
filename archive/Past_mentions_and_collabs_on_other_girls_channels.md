@@ -160,6 +160,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |26/08/2023|[Timestamp](https://youtu.be/6m2nKFtgrTc?t=5590)| **Mention & invitation** - Possible invitation for a JP learning stream during A Minecraft stream|
+|20/09/2023|Placeholder| **Collab** - Possible JP learning stream|
 
 ###### 🧪 Koyori
 |Date|Link|Nature & Notes|
