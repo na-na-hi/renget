@@ -24,7 +24,10 @@ These pages are meant to be read alongside the lore - ideally as optional / addi
 -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/42qndh.mp3) <-  
 
    Yggdrasil and to a lesser extent Nidhoggr is a relatively central entity and concept within the Norse Panthon, and one I'll dedicate a bit of time to, given how the entirety of Yggdrasil was unceremoniously boiled down to a plot device within the lore.
-   Yggdrasil itself, *(while not a really talkative type ~~being a fuckin' Ash Tree~~)* was delightfully said to be in constant, unrelenting agony whenever communicated with; and either solemnly and nobly performing it's duty of 'just existing' *(choosing to live with the pain)* OR yearning for the sweet release of death. Being eaten alive by dragons / heavenly deer above, below and on all sides, rotting from the outside and having some old bitches rub sand in the wounds does that to a tree.
+
+-> ![Trees](https://files.catbox.moe/yq38qx.jpg) <-  
+
+   Yggdrasil itself, *(while not a really talkative type ~~being a fuckin' Tree~~)* was delightfully said to be in constant, unrelenting agony whenever communicated with; and either solemnly and nobly performing it's duty of 'just existing' *(choosing to live with the pain)* OR yearning for the sweet release of death. Being eaten alive by dragons / heavenly deer above, below and on all sides, rotting from the outside and having some old bitches rub sand in the wounds does that to a tree.
 
    In-lore, we're at the Lake of Hvergelmir, however the roots of Yggdrasil branched mainly into 3 areas *(don't forget, interdimensional mega-tree here - Ratatoskr puts ultramarathon-runners to shame for some gossip)*; the aforementioned 3rd root-cluster headed to Hvergelmir Lake within Helheim, but also the 1st root-cluster into Urdarbrunner Lake within Asgard and the 2nd cluster into Mimisbrunner Lake within Jotunheim - the three lakes being the source of Creation, Knowledge and Wisdom in that respective order.
 
@@ -36,6 +39,7 @@ These pages are meant to be read alongside the lore - ideally as optional / addi
    Nidhogg's specific allocation was to chew, strike (bite) and torment the absolute worst souls in the Norse afterlife, primarily the crimes of traitors and oathbreakers - but on the side, also dealing with extreme examples of murderers and rapists; such as serial killers or mass-rapists who would target virgin women *(don't forget, this was back in the day, pre-feminism bullshit, when no-hymen-no-diamond wasn't 'a' media-shunned standard, but 'the' prerequisite for most hypermonogamous marriages)*. Such untrustworthy / evil types of living people were known as Nid [TL: 'consumed-by-darkness' or 'malice-filled'], like how prisoners will call similar types 'snitches' or 'rats' today. To fill the etymology out, -hoggr was a suffix of 'to snake-strike' [TL: a verb for the action of a striking snake, but also a concept of 'chewing / consuming in the first bite'] - hence 'Nidhoggr' translates as anything from 'Chewer of Mailce' or 'Striker in the Dark'. Layers of definition, lots of interpretation. *~~Also if you remove some letters you get Niggr, lol, even if the -r is semi-silent~~*
    On the other hand, Nidhoggr had an equally important role for the dead, this time at the end of the time / Ragnarok - namely to ferry the souls of the survivors and greatest examples of humanity to the hidden, golden paradise of Gimle - a place enigmatically thought to be outside of the 9 Realms itself. While this is less known of today, Nidhoggr was definitely a notable figure for the Norse - he was both the greatest punishment and the pathway to the greatest reward any one person could attain as a result of their actions in life.
 
+ -> ![Nidhoggr Jormungandr](https://files.catbox.moe/vv9cle.jpg) <-
 
  On the other hand, there are many more named beings surrounding Yggdrasil. Aside from the main 3 (4) animals of Yggdrasil;
 

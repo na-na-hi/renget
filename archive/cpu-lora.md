@@ -13,36 +13,89 @@ To keep things simple, I recommend creating a single folder somewhere on your sy
 
 ## Required Tools
 
-You need to be able to compile llama.cpp. You can use [any method under their build instructions](https://github.com/ggerganov/llama.cpp#build), but I'm going to keep it simple and recommend using the [latest w64devkit release](https://github.com/skeeto/w64devkit/releases/latest).
+I highly recommend installing [git](https://git-scm.com/) so you can download and update llama.cpp easily.
 
-1. Install [`git`](https://git-scm.com/) if you don't already have it installed
-2. Download [`w64devkit-fortran-x.xx.x.zip`](https://github.com/skeeto/w64devkit/releases/download/v1.20.0/w64devkit-fortran-1.20.0.zip)
-3. Unzip it, move the files to `C:\lora\w64devkit`
+Next we need to be able to compile llama.cpp, and the tools you need depend on which GPU you have (if any). You don't NEED to have a GPU, but it speeds up the process by ~20-30%, so if you have one, you'll want to use it (even if it's not a very good one).
+
+### NVIDIA GPU Tools
+
+You'll want to use [cuBLAS](https://github.com/ggerganov/llama.cpp#cublas), which requires installing the CUDA dev kit.
+
+1. Install [CMake](https://cmake.org/)
+2. Install [Visual Studio, Community 2022](https://visualstudio.microsoft.com/vs/) (because it makes the CUDA dev kit happy)
+3. During install, under "Desktop & Mobile", select "Desktop development with C++", and click install. You don't need to run it after the install completes.
+4. Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+
+### Other GPU Tools
+
+For AMD and Intel GPUs, you'll want to use [CLBlast](https://github.com/ggerganov/llama.cpp#clblast). AMD GPU users may eventually want to use [hipBLAS](https://github.com/ggerganov/llama.cpp#hipblas), once Windows is supported.
+
+1. Install [CMake](https://cmake.org/)
+2. Install [Visual Studio, Community 2022](https://visualstudio.microsoft.com/vs/)
+3. During install, under "Desktop & Mobile", select "Desktop development with C++", and click install. You don't need to run it after the install completes.
+4. Install [7-zip](https://www.7-zip.org/)
+5. Download the latest [OpenCL SDK](https://github.com/KhronosGroup/OpenCL-SDK/releases) (you want the zip file named `OpenCL-SDK-vxxxx.xx.xx-Win-x64.zip`)
+6. Unzip it, move the inner folders to `C:\vcpkg\packages\opencl_x64-windows` (it NEEDS to be at exactly this path for some reason)
+7. Download the latest [CLBlast binary](https://github.com/CNugteren/CLBlast/releases) (you want the file named `CLBlast-x.x.x-windows-x64.zip`)
+8. Unzip it, use 7-zip to unzip the inner `.7z` file, move the inner folders to `C:\lora\CLBlast`
+
+### No GPU Tools
+
+1. Download the latest [w64devkit](https://github.com/skeeto/w64devkit/releases) (you want the file named `w64devkit-fortran-x.xx.x.zip`)
+2. Unzip it, move the files to `C:\lora\w64devkit`
+3. Download the latest [OpenBLAS](https://github.com/xianyi/OpenBLAS/releases) (you want the file named `OpenBLAS-x.x.xx-x64.zip`)
+4. Unzip it, move the inner folders to `C:\lora\w64devkit\x86_64-w64-mingw32` (folders with the same names will already exist, this should merge them)
 
 ## llama.cpp Setup
 
+!!! info Once llama.cpp has been compiled, you don't need to repeat any of these steps unless you update to a newer version of llama.cpp.
+    If you are updating, skip these first 2 steps.
+
 1. Open a command prompt and move to our working folder: `cd C:\lora`
 2. Download the latest `finetune-lora` branch from xaedes' repo (NOT the main llama.cpp repo) using git: `git clone -b finetune-lora https://github.com/xaedes/llama.cpp.git`
-3. Run the compiler tools: `w64devkit\w64devkit.exe`
-4. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
-5. Compile everything: `make all -j`
-6. Once it's done compiling, close the compiler tools: `exit`
 
-Once llama.cpp has been compiled, you don't need to repeat any of these steps (unless you update to a newer version of llama.cpp).
+This part of the guide branches slightly based on your GPU as well.
+
+### NVIDIA GPU Compile
+
+1. Create a build directory: `mkdir .\llama.cpp\build`
+2. Move into the build directory: `cd .\llama.cpp\build`
+3. Generate project files: `cmake .. -G "Visual Studio 17 2022" -A x64 -DLLAMA_CUBLAS=ON`
+4. Build the project: `cmake --build . --config Release`
+5. Move back to our root folder: `cd ..\..`
+6. Copy the exe's for convenience: `copy .\llama.cpp\bin\Release\*.exe .\llama.cpp`
+
+### Other GPU Compile
+
+1. Create a build directory: `mkdir .\llama.cpp\build`
+2. Move into the build directory: `cd .\llama.cpp\build`
+3. Generate project files: `cmake .. -G "Visual Studio 17 2022" -A x64 -DBUILD_SHARED_LIBS=OFF -DLLAMA_CLBLAST=ON -DCMAKE_PREFIX_PATH="C:\lora\CLBlast"`
+4. Build the project: `cmake --build . --config Release`
+5. Move back to our root folder: `cd ..\..`
+6. Copy the exe's for convenience: `copy .\llama.cpp\bin\Release\*.exe .\llama.cpp`
+7. Copy the dll for CLBlast: `copy .\CLBlast\lib\clblast.dll .\llama.cpp`
+
+### No GPU Compile
+
+1. Run the compiler tools: `w64devkit\w64devkit.exe`
+2. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
+3. Compile everything: `make all -j LLAMA_OPENBLAS=1`
+4. Once it's done compiling, close the compiler tools: `exit`
+5. Copy the dll for OpenBLAS: `copy .\w64devkit\x86_64-w64-mingw32\bin\libopenblas.dll .\llama.cpp`
 
 ### Updating llama.cpp
 
 1. Open a command prompt and move to our llama.cpp folder: `cd C:\lora\llama.cpp`
 2. Download the updates: `git pull`
 3. Move up one directory: `cd ..`
-4. Follow steps 3-6 from "llama.cpp Setup" above.
+4. Re-run the setup instructions above based on your GPU. Skip the first 2 steps related to downloading llama.cpp.
 
 ## Create your LoRA
 
 1. Download a gguf file you would like to use as a base (E.g., [`stheno-l2-13b.Q8_0.gguf`](https://huggingface.co/TheBloke/Stheno-L2-13B-GGUF/tree/main)), and place it in `C:\lora`.
 2. Download or create some training data. Store it in plain text format. Following the same prompt format used for the base model is recommended. But really, any text file can be used. Ideally, provide a common string to separate each example that isn't found in your training data, e.g., `<s>`.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
-4. Run the finetune utility: `llama.cpp/finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --sample-start "<s>"`
+4. Run the finetune utility: `llama.cpp\finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --sample-start "<s>"`
 
 Obviously you will need to adjust step 4 to specify your actual base model name, training data name, sample start string, and the number of threads (physical processors) in your system.
 
@@ -55,7 +108,9 @@ Obviously you will need to adjust step 4 to specify your actual base model name,
 
 ## Use your LoRA
 
-Obviously, you can just use llama.cpp's `main.exe` to run your LoRA. The command to do that would look something like `llama.cpp/main.exe --model the-model-you-downloaded.gguf --lora ggml-lora-LATEST-f32.gguf --prompt "The text you would like it to complete."`
+Obviously, you can just use llama.cpp's `main.exe` to run your LoRA. The command to do that would look something like:
+
+`llama.cpp\main.exe --model the-model-you-downloaded.gguf --lora ggml-lora-LATEST-f32.gguf --prompt "The text you would like it to complete."`
 
 If you're using something like [`koboldcpp`](https://github.com/LostRuins/koboldcpp), **in addition to specifying the base model you used for training**, you also need to pass it the output `ggml-lora-LATEST-f32.gguf` file in the UI under Lora, or using the command line `--lora ggml-lora-LATEST-f32.gguf`. Make sure you specify both the original model AND the LoRA. The LoRA will not work on its own.
 
@@ -70,7 +125,9 @@ If you use llama.cpp's main.exe, [see the documentation for finetune.](https://g
 !!! info TL;DR: If you limit your context size to 2048, and only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B).
     The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
-My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM.
+!!! warning These numbers are now out-of-date. The latest commit is ~27% faster and using CUDA drivers provides another ~26% boost, for a combined ~59% speed improvement. I'll try to re-measure this weekend, but no promises.
+
+My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM, NVIDIA GeForce 3060 - 6 GB VRAM.
 
 Estimating training time and RAM varies based on multiple parameters, like the size of the model, the context size, the training data size, the rank, and many other factors. Rather than trying to create some equation, I'm just going to summarize my findings below, and you can infer from it what you'd like to.
 
@@ -536,24 +593,26 @@ These are things you probably don't want to use, or just won't care about.
 I'm just using this section to compile all the questions I've seen and there answers. If you have a better answer, please let me know and I'll update!
 
 **Q:** Can llama.cpp LoRA weights be merged into the base model?
-**A:** Not that I'm aware of. There's no technical reason for this, I just don't know how. If I had to guess, it's possible you could load the model and the LoRA into llama.cpp, `--export` it, then re-quantize it.
+**A:** Not currently. They're working on it.
 
-**Q:** Can you somehow convert it to gptq?
-**A:** Not that I'm aware of at this time. I don't think there's a way to undo the conversion to GGML/GGUF, but it might happen one day.
+**Q:** Can you somehow convert it to GPTQ?
+**A:** No, mostly because of the above reason.
 
 **Q:** Does this mean that I could use Star Trek episode scripts to fine tune a model for a more accurate Spock with access to his dialogue from said scripts?
-**A:** Yes and no. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and training data is not stored verbatim. However, if you repeat the same information multiple times (preferably rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
+**A:** Kind of. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and training data is not stored verbatim. However, if you repeat the same information multiple times (preferably rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
 
 **Q:** Which base model should I use?
 **A:** You generally want to start with the smartest model, or a model that's already close to what you want, and fine-tune in specific behavior. The latest llama models are also a good choice.
 
 **Q:** How do I know it's running?/It looks stuck, is this normal?
 **A:** If the last line looks like the text below, it's running. It will just take a while. The "eta" gets more accurate after iteration 2 or 3.
+
 ```
 opt_callback: iter=     0 sched=0.000000 loss=0.000000 dt=1.0ms eta=30.0ms |->
 opt_callback: iter=     1 sched=0.010000 loss=3.457290 dt=00:24:17 eta=11:44:33 |->
 ```
-It can also get stuck on `main: tokenize training data` for quite a while if you have a large data set (>50 MB)
+
+It can also get stuck on `main: tokenize training data` for quite a while if you have a large data set (>50 MB).
 
 **Q:** Some of RAM sizes you reported are smaller than the size of the model itself. Is that wrong? How is it so memory efficient?
 **A:** See [this post](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1714366066). It explains it well, and is a good read.
@@ -562,7 +621,7 @@ It can also get stuck on `main: tokenize training data` for quite a while if you
 
 While [TheBloke](https://huggingface.co/TheBloke) offers all the quantized versions you should ever need, there are still a few reasons why you might want to convert models yourself. For example, you may want to use the `fp32` format for the highest quality, to quantize yourself later on, or there may not be quantized versions of your base model available.
 
-1. Install the [Required Tools](#required-tools) mentioned above.
+1. Install the [Required Tools](#required-tools) mentioned above, also install the tools for "No GPU", even if you have a GPU.
 2. Install [Python](https://www.python.org/) (3.10 or newer, use the 64-bit installer)
 3. Open a command prompt and move to our working folder: `cd C:\lora`
 4. Download your model using git, for example: `git clone https://huggingface.co/Sao10K/Stheno-L2-13B`
@@ -575,7 +634,7 @@ Some steps above only need to be done once. If you run need to run this again la
 
 1. Open a command prompt and move to our working folder: `cd C:\lora`
 2. If you don't already have llama.cpp, follow step 2 of the [llama.cpp Setup](#llamacpp-setup).
-3. Run the compiler tools again: `w64devkit\w64devkit.exe`
+3. Run the compiler tools: `w64devkit\w64devkit.exe`
 4. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
 5. Get rid of any existing compiled files: `make clean`
 6. Compile the quantize executable with a special flag (see note below): `make quantize -j LLAMA_QKK_64=1`
@@ -592,6 +651,8 @@ Replace the model name with the name of the model you converted above. Replace `
 
 ## Changelog
 
+- 2023-09-16
+  - Updated instructions for compiling with GPU acceleration.
 - 2023-09-13
   - Updated for changes in llama.cpp, up to commit xaedes:f627e2f.
 - 2023-09-11

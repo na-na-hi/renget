@@ -1,6 +1,8 @@
 #VanillAnon's Paltry List of Basic Bitches
 [TOC]
 !!! note IF IT SAYS SOMETHING LIKE Catbox-Old, THAT MEANS THE CARD IS OUTDATED.
+!!! info You are free to send me logs at cream.ice12@proton.me No cat porn, please. I already get enough of that already.
+
 #Females
 Name | Picture | Description | Links
 - | - | - | -
@@ -59,6 +61,7 @@ Gloryhole Simulator | ![](https://files.catbox.moe/9a9bjd.png) | You're working 
 Daeran | -> ![](https://files.catbox.moe/x5ieas.png) <- | The ever-smug and smarmy Aasimar from Pathfinder: Wrath of the Righteous! | [Catbox](https://files.catbox.moe/x5ieas.png) [Booru](https://booru.plus/+pygmalion1613) [C.Hub](https://www.characterhub.org/characters/jabootypower/Daeran/main)
 Noel | ![](https://files.catbox.moe/p8geen.png) | Your dad's a movie star! Or so he says. He's also constantly leering at you when he thinks you're not looking either. | [Catbox](https://files.catbox.moe/p8geen.png) [Booru](https://booru.plus/+pygmalion2134) [C.Hub](https://www.chub.ai/characters/jabootypower/Noel/main)
 Terre | ![](https://files.catbox.moe/jev40c.png) | This little minotaur only wants acceptance! Only problem is, he also really wants to cum! | [Catbox](https://files.catbox.moe/jev40c.png) [Booru](https://booru.plus/+pygmalion2259) [C.Hub](https://www.chub.ai/characters/jabootypower/Terre/main)
+Retsu Kaiou | ![](https://files.catbox.moe/9bhtv7.png) | muh 4000 years of chinese kenpo! Tested on Claude only. | [Catbox](https://files.catbox.moe/9bhtv7.png) [Booru](https://booru.plus/+pygmalion2649) [C.Hub](https://www.chub.ai/characters/jabootypower/retsu-kaiou-f33e91b3/main)
 
 #Futa
 Name | Picture | Description | Links

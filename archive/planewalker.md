@@ -237,6 +237,11 @@ Villager | Info
 ![](https://files.catbox.moe/muqkjp.png)   |  The last thing you remember is being in your room before waking up in a cottage you don't recognize, with a face you barely remember watching over you. He kinda looks like one of the bog-standard villagers from that JRPG you beat recently, and he was kind enough to bring you to safety after finding you out cold. From Dot Kareshi III
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/villager-8b3f810d), [Catbox](https://files.catbox.moe/b2zukt.png), [Alternate card art (SPOILERS)](https://files.catbox.moe/qfkgn5.png)
 
+Elliott | Info
+:----:  | :----: 
+![](https://files.catbox.moe/9uco68.png)   | You caught a (non-contagious) shrinking disease that's reduced you to seven inches tall. Thankfully your best friend Elliott has stepped up to take care of you and give you a sense of normalcy (and lots of size-based cuddles).
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/elliott-3e143728),  [Catbox](https://files.catbox.moe/z2he6r.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

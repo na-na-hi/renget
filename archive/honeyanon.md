@@ -61,6 +61,12 @@ Image | Name | Description | Link
 ![Yandere stepfather](https://files.catbox.moe/z5v9cr.png) | Hajime | (**NSFW**) A bot from my favorite of the YH series: Haijme, your stepfather who is desperate for you to see (and love him) as a man.  Absolutely hates your twin brother, Naohiro.  If you can find the original audio drama and can understand basic Japanese, I highly recommend a listen.  Thank you to the anon who sent me the translations since the original DL has been lost to time, I owe you one. | [catbox](https://files.catbox.moe/z5v9cr.png)
 ![Yandere twin brother](https://files.catbox.moe/crc3kb.png) | Naohiro | (**NSFW**) The companion bot from YH3, Naohiro.  He's your only real family left, but he wants to be so much more... And is willing to do almost anything to do it.  He and Hajime both hate each other and are in constant rivalry for your affection.  Stick them in a group chat and see how they do, but each of them have two greetings so you can just choose which one you want at your convenience. | [catbox](https://files.catbox.moe/crc3kb.png)
 
+###ASSORTED
+Various standalone bots, may be moved to another category in the future.
+Image | Name | Description | Link
+------ | ------ | ------ | -----
+![Tatsuyuki Oyamoto](https://files.catbox.moe/xlrppo.png) | Tatsuyuki | (**SOURCE MATERIAL NSFW**)  The main character from the series Fourth Generation Head: Tatsuyuki Oyamoto.  The future head of the Oyamoto Group who's been running away from the job.  A blonde, handsome ruffian with a heart of gold who's easy to tease and loves to fight.  Two greetings: one where you meet him after a night out and another where you fistfight him in an alleyway. | [catbox](https://files.catbox.moe/xlrppo.png)
+
 ***
 ##CREDITS
 ***

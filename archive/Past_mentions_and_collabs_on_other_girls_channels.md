@@ -69,6 +69,7 @@
 |13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
 |30/08/2023| [Timestamp #1](https://youtu.be/y_L2geW9jOs?t=751) [Timestamp #2](https://youtu.be/y_L2geW9jOs?t=3085)|**Mentions** - Mumei had a nightmare involving Nerissa and was watching her membership opening stream. The second timestamp is an invitation to watch the 'Cats the Musical' movie|
 |10/09/2023| [Link](https://www.youtube.com/watch?v=iaZ-tmSleko) [Timestamp #1 - Idea of whatever the drawing should be](https://youtu.be/iaZ-tmSleko?t=3180) [Timestamp #2 - Nerissa coming back from her meeting](https://youtu.be/iaZ-tmSleko?t=6972)|**VC** - Open VC collab with Advent and drawing them. Multiple parts since Nerissa had a meeting with the managers midway through.|
+|15/09/2023| [Entire Stream](https://youtu.be/Dh0RJtL4Xu4) / [Timestamp #1 - Entering VC](https://youtu.be/Dh0RJtL4Xu4?t=640) / [Timestamp #2 - Entering VC once more](https://youtu.be/Dh0RJtL4Xu4?t=6195)|**VC** - Second Open VC collab with Advent and drawing them. .|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 
