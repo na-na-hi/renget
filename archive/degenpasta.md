@@ -25,7 +25,7 @@ https://huggingface.co
 https://rentry.org/sdvae
 
 >>> Other links <<<
-Archive: https://archived.moe/b/search/subject/DEGENerated%20/
+Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 OP Pasta: https://rentry.org/degenpasta
 
 >>> Related boards (their OP may have guides/resources/walkthroughs not included here) <<<

@@ -127,6 +127,11 @@
 [ [catbox](https://files.catbox.moe/rbtzqm.MP4) ]
 >"animal, come here [...]"
 
+[ [catbox](https://files.catbox.moe/u758ty.MP4) ]
+>"Just sit"
+>"What do you want?"
+>"Help!"
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign

@@ -297,6 +297,8 @@ https://civitai.com/user/stunningFlesh
 https://civitai.com/user/TouchFluffyTails
 https://civitai.com/user/realisticElves
 https://civitai.com/user/EyeAI_
+https://civitai.com/user/SpacewolfeCZ
+https://civitai.com/user/obinna7713
 
 !!! info
 	---------------------------

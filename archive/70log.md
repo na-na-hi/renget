@@ -72,7 +72,7 @@ v2: Wielder Combo ATK gain Total DMG +20%. Lunar Vow equip bonus: The Combo ATK 
 
 BRICK OF TAI XUAN
 - Removed 'During Burst Mode, Crit DMG +15%.'
-- Added new effect:  Shield: I'm Untouchable and the Crit DMG bonus from the shield is permanent for HoS during battle (Crit DMG +24% (S0) / 30% (S3))
+- Added new effect:  The Crit DMG bonus from the skill Shield: I'm Untouchable (Crit DMG +24% (S0) / 30% (S3)) is permanent for the wielder during the entire battle
 - If the enemy already has impair effect from another valk, HoS impair effect is changed to vulnerability effect: Enemies take 25% > 20% more Physical DMG from HoS. 
 
 ---

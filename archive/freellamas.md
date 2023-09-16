@@ -5,10 +5,10 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Mythomax-l2-q4 scaled to 8k**
+**Model: Mythomax-l2-q8 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```N/A```
+Blocking API URL: ```https://spanking-changes-occurring-superior.trycloudflare.com```
 
 ***
 **System prompt:**
@@ -82,6 +82,3 @@ On Google Colab for free: https://rentry.org/colabfreellamas
 
 ##### Other llama proxies
 https://proxy.chub-archive.evulid.cc/api
-
-##### Contact
-sandwich4093@proton.me

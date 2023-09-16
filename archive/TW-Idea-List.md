@@ -1,5 +1,8 @@
 # Suggestions for EraToho TheWorld
 Development suggestions for TW include:
+## Bridal Carrying
+Self-explanatory.
+- *Oh yeah? As the boss of /egg/, here’s MY demand: Bridal carrying. Functionally identical to using Lead Around, but it’s cuter. Because only being able to carry 2hus around in stopped time is dumb.*
 ## “Can I Sleep With You?”
 An event where characters can ask to sleep in your room.
 - *Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.
@@ -12,6 +15,8 @@ To be determined.
 ## Clothes Menu Expansion
 Self-explanatory.
 - *The clothing system can mostly stay the same since there are already many slots for clothing (found in Equip.csv). Strip poker can handle undressing on its own without having to meddle with the overall system. As a starter, the clothing menu can be expanded using SQN's clothing action as a reference just to unlock its full potential. All of this isn't a priority right now though.*
+## Dancing
+To be determined.
 ## Female MC Pregnancy
 To be determined.
 ## Free Use Content

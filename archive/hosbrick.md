@@ -1,4 +1,4 @@
-###HERRSCHER OF SENTIENCE V7.0 DK AND STIGMA TRANSLATION V1
+###HERRSCHER OF SENTIENCE V7.0 DK AND STIGMA TRANSLATION V2
 Translation by Marisa and Aki
 
 Luna Pledge Translation: https://rentry.co/luna70
@@ -21,15 +21,15 @@ ATK 436 CRT 23
 **ACTIVE**
 [SP: O, CD: 15s] Slam the brick at the enemy, deal 300% ATK Physical DMG in an area. 
 
-Herscher of Sentience equip bonus: When weapon active hits, recover 20 sp, and apply coma for 0.5s and charge 6 stun trauma.
+Herscher of Sentience equip bonus: When weapon active hits, recover 20 sp, and apply coma for ~~0.5s~~ 0.1s and charge 6 stun trauma.
 
 During Burst Mode, you get these special effects:
-- Normal attack: HoS combines all weapon sequence up to 12 strikes, dealing a total of 4480% ATK Physical DMG, but cannot use Combo ATK by holding down ATK button.
+- Normal attack: HoS combines all weapon sequence up to ~~12~~ 10 strikes, dealing a total of 4480% ATK Physical DMG, but cannot use Combo ATK by holding down ATK button.
 - Special attack: Tap Ult for special attack, deal 350% + 700% ATK Physical DMG and apply coma for 0.5s and 6 stun trauma, CD: 8s. Leave a crack at the location, lasts until Burst Mode ends. Enemies in the crack cannot be pushed away.
 - Finishing move: Press weapon button for the final attack - BRICK DOMINEERING. Deal 1300% + 100% ATK Physical DMG. Counts as Ult damage. Stops time. Burst Mode and Ult enters 6s CD.
 ---
 **PASSIVE 1**
-During Burst Mode, Crit DMG +15%. Self Physical DMG +15%. Herrscher of Sentience equip borus: If the enemy already has impair effect from another valk, HoS impair effect is changed to vulnerability effect: Enemies take 25% more Physical DMG from HoS. If the enemy does not have any impair, then HoS impair effect remains unchanged. [Best of Both World] (HoS dmg passive) duration is extended to 16s every time it is triggered, and [Against All Authority] is activated throughout the entire Burst Mode.
+During Burst Mode, ~~Crit DMG +15% and~~ Physical DMG +15%. Herrscher of Sentience equip borus: If the enemy already has impair effect from another valk, HoS impair effect is changed to vulnerability effect: Enemies take **25%(v1) > 20%(v2)** more Physical DMG from HoS. If the enemy does not have any impair, then HoS impair effect remains unchanged. [Best of Both World] duration is extended to 16s every time it is triggered, and [Against All Authority] is activated throughout the entire Burst Mode. **The Crit DMG bonus from the skill Shield: I'm Untouchable (Crit DMG +24% (S0) / 30% (S3)) is permanent for the wielder during the entire battle. (v2)**
 
 For reference: 
 - Best of Both Worlds: Upon entry or exit, Valkyrie deals 30.0% bonus Total DMG for 15s

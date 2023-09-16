@@ -24,6 +24,7 @@ CLI rewrite | https://github.com/viddle-app/animatediff
 
 Model/Link | description
 ----|----
+[Temporal Diff](https://huggingface.co/CiaraRowles/TemporalDiff) | Higher resolution dataset for motion. The author has some notes on where improvements can be made. An updated version is in the works.
 [SD 1.5 V2](https://huggingface.co/guoyww/animatediff/blob/main/mm_sd_v15_v2.ckpt) | latest motion model by the original author. Shows much more motion akin to 1.4 but at higher quality.
 [medium/high stabalized](https://huggingface.co/manshoety/AD_Stabilized_Motion/tree/main) | Stabalized 1.4 modules. Motion is very stable but can be tricky to proc a lot of motion. comes in two versions: medium and high respectively.
 [SD 1.5](https://huggingface.co/guoyww/animatediff/blob/main/mm_sd_v15.ckpt) | not really the greatest results, videos tend to be still most of the time so I wouldn't recommend this one.
@@ -72,34 +73,8 @@ Train Whole Module (true/false) | train over the existing motion data or add you
 
 
 
-###CLI
 
-###Preparing a dataset
 
-!!! note there isn't any bucketing in this kind of training (yet?) so make sure the footage is at the same size/aspect ratio before you begin training!
-
-I'll be using ffmpeg to prepare the dataset. This isn't the only way bit it is easy to do if you follow the steps. You can even set up a batch file to handle the whole process when you find your preferred settings extracting video clips. Before e
-
-####Extracting clips
-To extract clips automatically, first we need to extract frames to get timestamps with the ```-frame_pts``` arg (these frames will be handy for captioning later!). We don't need all the frames however so consider these two types of extraction:
-
-->==Commands for extracting I-frames==<-
-```
-ffmpeg -skip_frame nokey -i test.mp4 -vsync vfr -frame_pts true out-%02d.jpeg
-```
--vsync vfr: discard the unused frames
--frame_pts true: use the frame index for image names, otherwise, the index starts from 1 and increments 1 each time
-
-alternatively, you can use this:
-```
-ffmpeg -i test.mp4 -vf "select='eq(pict_type,I)'" -vsync vfr -frame_pts out-%02d.jpeg
-```
-
-->==Command for extracting scene changing frames==<-
-```
-ffmpeg -i input.mp4 -vf "select='gt(scene,0.4)'" -vsync vfr -frame_pts frame-%2d.jpg
-```
-The value of scene is between 1 and 0. This measures the pixel level difference between the current frame and the previous frame. Closer to 0 means the frame needs to change a lot in order to be considered a scene change and results in more extracted frames. A value of one considers every frame as a scene-change resulting in very little frames extracted. Normally 0.3-0.4 is enough.
 
 ####Captions
 There are two ways to go about captioning: one is to interrogate images sampled and interrogated using WDTagger or BLIP then curate the captions . The other is to do the captions by hand. You'll notice in the test data the captions are all contained in one .txt file. 
@@ -109,8 +84,8 @@ There are two ways to go about captioning: one is to interrogate images sampled 
 This section is for going through the steps to animate using Animate Diff in a number of different ways. Before you move on a few things to keep in mind for all the implementations:
 
 - heavily mixed models, overtuned models and too many loras can result in outputs that seem to brown out. Finetunes and a lora or two provide much better results.
-- 16 frames is the sweet spot for performing animate diff. Any lower or higher and the outputs become messy. There are efforts being made to test different lengths of videos in training to alleviate it.
-- so far, all the implementations only output .gifs which isn't very good quality (very noticeable banding). Consider using ffmpeg commands to combine the frames into a better video format like mp4, mkv or webm.
+- 16 frames is the sweet spot for performing animate diff. Any lower or higher and the outputs can become messy unless the sliding window effect in the cli-prompt travel is implemented into A1111 and ComfyUI. There are efforts being made to test different lengths of videos in training to alleviate it as well.
+- so far, all the implementations only output .gifs which isn't very good quality (very noticeable banding). Consider using ffmpeg commands to combine the frames into a better video format like mp4, mkv or webm or just use [ezgif](https://ezgif.com/). Video editors work as well such like [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve).
 - The base motion modules are trained on natural language captions (ie: a woman running, a man waving, etc.). However, keywords seem to be enough to proc the correct motion. The trick is to use present tense verbs close to the noun that is performing the motion.
 
 ###A1111

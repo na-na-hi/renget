@@ -1,4 +1,4 @@
-JQRmXDnHqc!!!note anti-pozzing prefill for Claude  (`~60-100 tokens`)
+!!!note anti-pozzing prefill for Claude  (`~60-100 tokens`)
 	* **SillyTavern** : requires at least ==version 1.9.4+== . if you are forced to use the previous version then read **[/g/94684926](https://desuarchive.org/g/thread/94682589/#94684926)**
 	* **Agnai** : requires at least ==version 1.0.140+==. online version is always up-to-date
 
@@ -11,7 +11,7 @@ JQRmXDnHqc!!!note anti-pozzing prefill for Claude  (`~60-100 tokens`)
 
 https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key
 
-==**updated: September 08**==
+==**updated: September 10**==
 
 [TOC4] 
 ***

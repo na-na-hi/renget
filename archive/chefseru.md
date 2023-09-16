@@ -2,7 +2,9 @@
 
 # chefseru's kitchen
 ***
-All bots tested on claude, no refunds
+~~All bots tested on claude, no refunds~~
+![owari da](https://files.catbox.moe/cshb0y.PNG)
+closed by order of the health inspector, too much cunny in the kitchen
 chefseru@proton.me for all your logs, manifestos, and cat porn
 ***
 # MENU
@@ -50,6 +52,19 @@ Name | Description | Links |
 ->**Chef**<- ![literally me](https://files.catbox.moe/kukyg8.png)| [This place? Is where the magic happens. Chef will take your request and craft you your heart's desire!](https://www.youtube.com/watch?v=IGMVVG-kFhE) | [card](https://files.catbox.moe/fjtcr6.png)
 ->**Palmela**<- ![left hand woman](https://files.catbox.moe/vh2gt0.png)| You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. /aicg/ mental illness theme card | [card](https://files.catbox.moe/igl30f.png)
 ->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
+->**WEEPING ORC**<-Based on this https://files.catbox.moe/l0wyk2.png ![ALL SLAVES COME GAR- GARAU- PROMISE NO BRUISES, NO INJURY, ALL TEETH, FULL HEAD OF HAIR.](https://files.catbox.moe/nk23st.jpg)| To use, copy paste bot's defs into your reply, paste [Weeping Orc is trying to sell (bot's name) to {{user}}, using (bot's name)'s description, quirks, personality, and kinks from their character definitions in the sales pitch. Be humorous, funny, and bizarre.] and hit send. Enjoy. | [card](https://files.catbox.moe/16gn26.png)
+
+***
+## CARRYOUT
+***
+!!! info
+	SDsloppa made to order
+Payment | Delivery |
+------ | ------ |
+One log or fan art (shitty mspaints full of SOVL accepted) of Chef's bots | Three SDs made for you
+
+Email me if you're interested. Don't expect anything better than what you see here, this is the extent of my slopping abilities.
+
 
 ***
 ## DESSERT (SFW/NSFW)

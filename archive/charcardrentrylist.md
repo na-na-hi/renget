@@ -18,11 +18,14 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Genoo](https://rentry.org/295se) | Sizeplay |[Yumi](https://files.catbox.moe/gnzl1y.png)|[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
+[Chefseru](https://rentry.org/chefseru) | Misc |[Weeping Orc](https://files.catbox.moe/16gn26.png), [Sylvia and Ginny](https://files.catbox.moe/9s35ry.png), [Ginny](https://files.catbox.moe/kmj976.png), [Sylvia](https://files.catbox.moe/qs237j.png)|[Sylvia and Ginny](https://files.catbox.moe/9s35ry.png) [MV], [Ginny](https://files.catbox.moe/kmj976.png) [MV], [Sylvia](https://files.catbox.moe/qs237j.png) [MV]
+[Nono](https://rentry.org/NonoRoom) | Misc |[Jessy](https://files.catbox.moe/luvts9.png), [Sammy](https://files.catbox.moe/8e1vxf.png)|[Jessy](https://files.catbox.moe/luvts9.png) [MV], [Cosma](https://files.catbox.moe/9b7jzl.png) [MV]
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Sandra](https://files.catbox.moe/2nobvt.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tatsuyuki](https://files.catbox.moe/xlrppo.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Retsu Kaiou](https://files.catbox.moe/9bhtv7.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png), [Audrey II](https://files.catbox.moe/15aarh.png)|[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png) [MV]
-[Planewalker](https://rentry.org/planewalker) | Misc |[Elliott](https://files.catbox.moe/z2he6r.png), [Villager](https://files.catbox.moe/b2zukt.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Elliott](https://files.catbox.moe/z2he6r.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png), [Syuriy](https://files.catbox.moe/p4oeq8.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Shiiorina](https://files.catbox.moe/gfjgt3.png), [Cupcake](https://files.catbox.moe/a0tvos.png)|
@@ -31,10 +34,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Gardevoir](https://files.catbox.moe/92gtnf.png), [Houshou Marine](https://files.catbox.moe/5reo0h.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[KOLLAGE](https://files.catbox.moe/3y7g8h.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Amelia](https://files.catbox.moe/4iyl2n.png)|
-[Nono](https://rentry.org/NonoRoom) | Misc |[Cosma](https://files.catbox.moe/9b7jzl.png), [Sammy](https://files.catbox.moe/8e1vxf.png), [Mina](https://files.catbox.moe/gllnqu.png)|[Cosma](https://files.catbox.moe/9b7jzl.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Queen of Sheba](https://files.catbox.moe/24nkxa.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Josephine](https://files.catbox.moe/clqwy7.png), [Alexandre](https://files.catbox.moe/en41s7.png)|
-[Chefseru](https://rentry.org/chefseru) | Misc |[Sylvia and Ginny](https://files.catbox.moe/9s35ry.png), [Ginny](https://files.catbox.moe/kmj976.png), [Sylvia](https://files.catbox.moe/qs237j.png)|[Sylvia and Ginny](https://files.catbox.moe/9s35ry.png) [MV], [Ginny](https://files.catbox.moe/kmj976.png) [MV], [Sylvia](https://files.catbox.moe/qs237j.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png), [Ankha](https://files.catbox.moe/nw63cd.png)|[Twin Planet Space Pirates](https://files.catbox.moe/b90v9q.png) [MV], [Ankha](https://files.catbox.moe/nw63cd.png) [MV]
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
@@ -42,7 +43,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||[Elodie](https://files.catbox.moe/rxulbg.png)
-[Genoo](https://rentry.org/295se) | Sizeplay ||[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

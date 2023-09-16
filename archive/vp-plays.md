@@ -415,4 +415,6 @@ expect literally everything to be changed for no reason, cancerous pacing issues
 https://arch.b4k.co/vp/thread/54459801/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
 https://arch.b4k.co/vp/thread/54471901/ 3 nice op, retard
-https://arch.b4k.co/vp/thread/54478434/ 4
+https://arch.b4k.co/vp/thread/54478434/ 4 a huge and desolate map
+https://arch.b4k.co/vp/thread/54485576/ 5 THE MAD BULL IS COMING
+https://arch.b4k.co/vp/thread/54489115/ 6
