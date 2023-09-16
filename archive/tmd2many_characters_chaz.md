@@ -1,7 +1,6 @@
 ![Kubfu](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/EBKBPjasaxiTEkuIulTLiHps) 
 
 ### Kaz ♂
-==REPLACE WITH PARAGRAPH BIO OR DESCRIPTION OF CHARACTER REPLACE==
 Kaz is a country bumpkin from some red-neck area of the US of A.
 Off racing with his BMX friends preparing for the next big competition, of which he is an avid racer, he remembers he has to pick up his little sister from day care!
 On his rush back to civilization, he loses control on a suspicious mud puddle...
@@ -51,9 +50,9 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯
-10 IQ points (To be distributed)
+    You have 10 points to spend.
+    10/12 IP | ▯▯▯▯▯▯▯▯▯▯
+
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Remembrance | User's IP is increased by 2. Granted from Fragmented or Anamnesis | 0

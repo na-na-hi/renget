@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Sandra](https://files.catbox.moe/2nobvt.png)|
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tatsuyuki](https://files.catbox.moe/xlrppo.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Retsu Kaiou](https://files.catbox.moe/9bhtv7.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png), [Audrey II](https://files.catbox.moe/15aarh.png)|[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png) [MV]
@@ -38,11 +39,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Tiche](https://files.catbox.moe/830b25.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucia](https://files.catbox.moe/5fs2n4.png)|[Lucia](https://files.catbox.moe/5fs2n4.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Maybelle](https://files.catbox.moe/j40nip.png), [Boom Mama](https://files.catbox.moe/fhkazl.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||[Elodie](https://files.catbox.moe/rxulbg.png)
 [Genoo](https://rentry.org/295se) | Sizeplay ||[Hitori Gotoh](https://files.catbox.moe/03yw2t.png)
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||[Tatsumaki ](https://files.catbox.moe/a8hfrb.png)
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
@@ -51,7 +52,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||
 [Nevtelen](https://rentry.org/Nevtelen) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||

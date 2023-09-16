@@ -1,5 +1,8 @@
 # Nanashi Mumei merchandise
 !!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them) and memberships are the best ways to supporting them. 
+	If you are in Japan these are good xeeter account/websites to track goods being sold physically:
+	https://twitter.com/hololive_goods 
+	https://merch-matome.com/
 
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1

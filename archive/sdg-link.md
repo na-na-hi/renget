@@ -15,7 +15,7 @@ https://github.com/anapnoe/stable-diffusion-webui-ux
 https://github.com/vladmandic/automatic
 ###AMD GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
-https://github.com/nod-ai/SHARK/blob/main/shark/examples/shark_inference/stable_diffusion/stable_diffusion_amd.md
+https://github.com/nod-ai/SHARK
 https://rentry.org/sd-nativeisekaitoo
 https://rentry.org/sdamd
 https://rentry.org/ubuntuamdsd

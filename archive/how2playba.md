@@ -521,7 +521,7 @@ For every level below the recommended level you'll start doing 2% less damage wh
 Very important to keep in mind is that you can ignore the recommended level. Until you actually can't get further, ignore it. Otherwise you block urself mentally, instead of the game stopping you. 
 
 One-time per battle skills can happen once in every battle.
-E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times .
+E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times. 
 
 >Daily and weekly missions
 Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is decent, although I don't do it personally. 
@@ -553,6 +553,11 @@ If you want to splurge ur gifts on 1 specific girl:
 - Craft gift selectors using yellow tailor stones
 It's more efficient to reroll normal gifts into a girl's favourite ones. 
 Don't use liked gifts for gift selectors. 
+
+>Stacking (de)buffs
+You can stack several (de)buffs with the same descriptor/effect, but only if they're in different skill slots. 
+E.g. I can stack Akane's EX skill DEF down with Maki's basic skill, and sAzusa's sub skill. I can't stack Akane's DEF down with Noa's, Hiyori's, or Mine's DEF down as they are on the same skill slot. 
+There is some nuance here: sHoshino's ATK buff EX stacks with Himari/Kotama's ATK buff EX for example, but generally (de)buffs in the same skill slot don't stack. 
 
 # FAQ
 > I'm AP capped! What do I spend it on?

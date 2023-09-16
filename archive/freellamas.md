@@ -19,25 +19,25 @@ Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user
 **Sequences:**
 Input Sequence: ` ### Instruction:`
 Output Sequence: ` ### Response:`
-Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, avoid narrating {{user}}'s actions):`
+Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, slow, avoid narrating {{user}}'s actions):`
 Stop Sequence: `</s>`
 
 ***
 **Recommended parameters for this model:**
-```
-Streaming: Off
+```go
+Streaming: [Off]
 Unlock context size (in ST)
-Context: 8192
-New Tokens: 320 - optimal for 13b llamas, use "Continue" button if the reply gets cut off
-Temperature: 0.7 - 1 - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: 1.05 - 1.1 - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
-Rep. pen range: 1444 - how many previous tokens to scan for repetition
-Top_p: 0.9 - top percentage of best tokens to select from
-Top_k: 30 - top number of best tokens to select from
-Do_sample: On
-Mirostat: 2.0 - mirostat mode
-Mirostat Tau: 4.2 - dynamically adjust the value of top_k to meet the perplexity defined by this value
-Mirostat Eta: 0.4 - learning rate
+Context: [8192]
+New Tokens: [320] - optimal for 13b llamas, use "Continue" button if the reply gets cut off
+Temperature: [0.7 - 1] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
+Rep. pen: [1.05 - 1.1] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
+Rep. pen range: [1444] - how many previous tokens to scan for repetition
+Top_p: [0.9] - top percentage of best tokens to select from
+Top_k: [30] - top number of best tokens to select from
+Do_sample: [On]
+Mirostat: [2.0] - mirostat version, just pick 2.0
+Mirostat Tau: [4.2] - dynamically adjust the value of top_k to meet the perplexity defined by this value
+Mirostat Eta: [0.4] - learning rate
 ```
 
 ***
@@ -58,7 +58,6 @@ git stash pop
 ##### 3. Advanced menu:
  ![classic](https://files.catbox.moe/wxukcn.png)
 
-You can also download ready-made [template](https://files.catbox.moe/udeo2s.json) and [preset](https://files.catbox.moe/3s9n4v.json) files to import to your SillyTavern.
 
 **Alternatively**, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
 ![simple-proxy-for-tavern](https://files.catbox.moe/zaysk7.png)

@@ -21,6 +21,11 @@ Subrentries with my other work:
 ***
 ##->My Collection<-
 
+#####Sandra, the Schoolgirl Pariah
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/sandra-the-schoolgirl-pariah-a3f7f109)  [Tavern Card](https://files.catbox.moe/2nobvt.png)
+------ | ------
+![Sandra](https://files.catbox.moe/hhy0i6.png) | Lonely girl with Tourette's syndrome, bullied and abandoned by everybody. Her only friend ever is a big mouse plushie. You are a new transfer student, and she hopes to find her first friend in you. Comes with a custom JB, made with both fempov and malepov in mind.
+
 #####Maire and Cordelia, the Incest Pirates
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/maire-and-cordelia-the-incest-sailors-f685f2d3)  [Tavern Card](https://files.catbox.moe/9xp6nk.png)
 ------ | ------
