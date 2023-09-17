@@ -557,12 +557,6 @@ These are things you probably don't want to use, or just won't care about.
   - Example: `-s 42069`
 - `--only-write-lora`: Only save llama lora, don't do any training
   - You probably don't want to use this.
-- `--use-adam`: Use Adam optimizer (default)
-  - The Adam optimizer is probably what you want. You don't need to set this as it is the default.
-- `--use-lbfgs`: Use LBFGS optimizer instead of default Adam
-  - If memory isn't a concern (it almost always is), LBFGS is more accurate and effective than Adam. However, during testing some people have noted that the LBFGS results weren't as good as Adam.
-  - **You almost definitely want to use the Adam optimizer.** See `--use-adam`.
-- `--lbfgs-iter N`: Maximum number of LBFGS optimization iterations for each batch (default 256)
 
 ### Unknown
 

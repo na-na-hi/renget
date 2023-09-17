@@ -9,7 +9,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Species:** Goomy | **Affiliation:** Unaffiliation
 **Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 630₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

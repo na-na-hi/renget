@@ -9,7 +9,7 @@
 **Species:** Larvitar | **Affiliation:** N/A
 **Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 180₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

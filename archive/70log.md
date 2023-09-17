@@ -42,7 +42,7 @@ Added new eddect: When a teammate has type counter on an enemy, the enemy takes 
 
 - Passive: Weapon dmg counts as Bleed DMG > QTE, Weapon DMG and Ult DMG counts as Bleed DMG (Bleed DMG does not count as melee or ranged DMG)
 
-- Passive new effect: Within 3s of using Blood Feast, if you use evasion or Combo, the attack gain Total DMG +100%.
+- Passive new effect: Within 3s of getting full meter, using evasion or using Combo ATK - Blood Feast gain Total DMG +100%
 
 - Blood Feast: 40%x6 > 30%x6 ATK Lightning DMG
 

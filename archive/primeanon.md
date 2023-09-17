@@ -315,8 +315,7 @@ bias|probs|%
 0.15|28.23|30.51
 
 # Lorebook
--> Work in Process <-
-[Download link](https://files.catbox.moe/9kx7ew.lorebook)
+[Download link](https://files.catbox.moe/5z6rsr.lorebook)
 
 ==To use it, just import the lorebook to your story.==
 
@@ -327,6 +326,8 @@ The "Glue Control" entry is off by default. Basileus recommends to use turn it o
 Thanks anon for suggestion of bias again '."', ',"', and '..."' for longer dialog.
 
 I also add bias groups from adverbs, filler words, and weasel words as well. Note that these words aren't bad in themselves, it's perfectly normal to have them in dialogues because that's how people talk - with filler words in their speech. Unfortunately, we can't choose to apply bias to only prose. This is why the bias of -0.02 for these groups *may be* too strong. Still need more experiments to find the right balance, but -0.02 is working great for me by far.
+
+The adverbs bias comes in 2 groups, the single token one (with bias -0.02) and the multitoken one (with bias -0.01). The reason for this separation is due to how tokenizer works. Some words, ex. madly, is tokenized as "mad" and "ly". When we bias "madly", we actually bias against both "mad" and "ly". This can cause problem when token "mad" (not the word "madly") is the next suitable token. Separating the words into 2 groups like this gives us finer control over the final result.
 
 Resource from the list of words:
 [Adverbs](https://github.com/duereg/adverb-where/blob/master/adverbs.js)

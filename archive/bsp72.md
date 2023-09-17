@@ -1,6 +1,8 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
-[New][Blaziken] https://archiveofourown.org/works/48433849
+[WIP][Mew] https://desuarchive.org/trash/thread/59056192/#59187504
+[Deoxys] https://archiveofourown.org/works/49012456
+[Blaziken] https://archiveofourown.org/works/48433849
 [A-Ninetales] https://rentry.org/fkz4wk
 [Trubbish] https://rentry.org/y9ed2
 [Hypno][Remastered] https://archiveofourown.org/works/46530355

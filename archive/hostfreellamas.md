@@ -37,7 +37,7 @@ b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suff
 - ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
 - Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.
 - This guy quantizes: https://huggingface.co/TheBloke
-- If you only serve yourself, run at least q5_k_m ggml for the optimal quality tradeoff, if you can afford it. The quality bump from q4 is more than the perplexity difference suggests.
+- Run at least q5_k_m for the optimal quality tradeoff, if you can afford it. The quality bump from q4 is more than the perplexity difference suggests. Exllama2 now supports dynamic precision quants so this applies too.
 
 c. Go to oobabooga web UI - http://127.0.0.1:7860/ or the provided public management URL if you used --share. Go to "Models" tab.
 
@@ -66,8 +66,8 @@ When you use Tavern to call APIs, the "Parameters" tab in oobabooba UI does noth
 ***
 
 ###### 6. Resources to go further
-a. Currently oobabooga doesn't support batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
-vLLM is also an alternative, there's a fork that supports GPTQ quantized models: https://github.com/chu-tianxiang/vllm-gptq, it's even faster than TGI.
+a. Currently oobabooga doesn't support batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga, and supports fewer samplers. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
+vLLM is also an alternative, there's a fork that supports GPTQ quantized models: https://github.com/chu-tianxiang/vllm-gptq, it's even faster than TGI, it's a library, also supports fewer samplers than ooba.
 
 b. text-generation-inference command line that worked for me, it's slower than exllama for single-inference, but scales up better:
 ```

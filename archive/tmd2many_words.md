@@ -77,11 +77,13 @@ A planet inhabited solely by Pokémon. That's how the story goes each time it's 
 		- Clan Skarn, elder: Druddigon (name: Elder Two Spirals, Claws Bared)
 		- Clan Malachite, elder: Dubwool (name: Elder Soft Meadows, Five Fruits)
 		- Clan Beryl, elder: Breloom (name: Elder Seven Leaves, Spontaneous Motion)
+		- Clan Almandine, elder: Haxorus (name: Elm Chopper, Fiftyfold Fatherer)
+		- Clan Morion, elder: Ekans (name: Elder Coiling Appetence, Scour Devour)
+		- Clan Hematite, elder: Bisharp (name: General Razor, Blade Breaker)
+		- Clan Cerussite, elder: Walrein (name: Roswen Flame Eater)
 		- Clan Batholith
 		- Clan Gneiss
 		- Clan Marl
-		- Clan Almandine, elder:
-		- Clan Morion, elder:
 		- Clan Galena
 	- There are several villages within the influence of a single clan. Their size and amount of villages can vary, especially depending on the habits of the clan itself.
 

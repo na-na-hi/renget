@@ -1131,3 +1131,240 @@
 >plus you had to mutter to his ear, the shark thing was still kind of hot
 >you decided to lay on the cheese and ask if he'd heard of sirens
 >when he remarked no, you grabbed at his pecs and said you'd getting him fitted for seashells
+
+>Alex balked at the bra suggestion 
+>"I have no breasts," was his objection to the remark
+>the comparison to mermaids was lost on him
+>but Alex was was still Alex to you
+>his initial jubilation, for Alex at least, had given way to the fear of what he'd done
+>in short, he was feeling guilty and self conscious now
+>remorse had set in
+>so you decided to show off another shark fact you remembered from him
+>his bare shoulder was vulnerable 
+>while your heights initially made it difficult you managed to gently bite down on the exposed blue scales
+>the skin had barely any give and you found it tough to actually bite
+>you didn't want to actually pierce the skin but it felt it would be a challenge to do so
+>so he definitely was as tough as a shark now
+>his clawed hand gripped at your hair 
+>"you… I taught you that."
+>you hoped Alex appreciated that fact
+>his legs shuddered and you held him up from collapsing 
+>in the wild, female sharks are riddled with bites from a mating
+>while he's definitely not female, the whole marking instinct must have gotten him worked up
+>you didn't push too hard though
+>last thing you wanted for him was him hyperventilating without clean water for him to breath in
+>a few more love bites across his bare shoulder left him speechless
+>you pulled back and asked if his new body was that bad now?
+>"that was not fair."
+>oh he loved it
+>judging by the bulge in the swimsuit
+>you hated to bluebell him but you didn't want him choking
+>that chlorine pool water probably wouldn't be good
+>you weren't the level of biologist Doctor Thompson here was, but you bet no one should be breathing chlorine of any kind
+>so you relented and held him close
+>you liked him for him
+>so you decided to console him another way
+>you promised when you two solved the whole thing with Gensyn, solved all of it and found a perfect quiet moment
+>you asked if he'd mind taking your last name
+>at least that distraction would give him something to mull over besides the navel gazing that had him down earlier
+>he pushed away gently
+>"you do not mean that…"
+>of course you meant it
+>easier said than done but hell you did like him
+>everything else would just fall into place
+>you were being optimistic but a marriage would be the least of your worries
+>plus you hoped the promised worked 
+>you snatched him back into your embrace and kissed the bite marks you'd left
+>he melted against your attention and he ceased protesting
+>"you are stubborn"
+>of course
+>hell, you wouldn't have gotten far with Alex if you weren't stubborn
+>"this old genetic scrambled mess and you want to marry it"
+>he wasn't a mess or an it
+>you ended up bringing up whether he'd want to wear a tuxedo or deck him out in lace
+>"tuxedo with lace underneath."
+>he blurted that out like immediately and you had to laugh
+>work he broke away you didn't snatch him up again
+>you knew time was a luxury you all couldn't afford 
+>at least you both got this little moment before he needed to worry again
+>"thank you for the outfit, I want you to stay close. whoever decided to lock you in might try more extreme measures."
+>so stay close to the boyfriend 
+>you could do that
+>you'd had enough of exploring after that ventilation trip
+>that did make you remember something 
+>as if on cue a loud smash from down the hall made your suggestion moot
+>that last blast from the device might have hit those guards
+>and since they weren't as shielded you bet there were a bunch of beast men out there
+>he'd done a controlled burst last time and only caught the lab
+>you bet the radius of the last blast hit a lot more random targets
+>the initial confusion worked in the scientists favor, however what happened with hostile forces after was a crap shoot
+>if those scientists grumbled about being beast men, you could imagine these guards were none too happy
+>the commotion was a bit worrying
+>Alex put himself in front of you
+>logically he'd be better suited to fight whatever was coming down the hall
+>but you weren't about to let logic dictate shit right now
+>he'd had time to throw on his lab coat and you grabbed his things from his pockets for safe keeping
+>not like he had a spot for his wallet
+>fat lot of good that ID would be now
+>thankfully it sounded like some of the science team had noticed the ruckus and were coming back
+>that gave you both a little courage to come out and rush the hallway yourselves 
+>sure enough they'd battered the door
+>and bashed the walls
+>they'd have a chance of breaking out
+>better than you did at least
+>you were dumb enough to try and bolster the door despite Alex yelling at you
+>your troubles got you thrown back against the wall by the steel door
+>you were hazy on what happened next
+>you weren't knocked out cold but goddamn did that impact have you seeing stars
+>hurt like hell too
+>when you finally pulled yourself together you shoved the door off and were shocked to see Alex had ripped a guard's shoulder off with his teeth
+>he'd spit it out onto the floor after getting swatted away by some elephant guard
+>some of the burlier scientists tackled that one 
+>you handed the door off to that rhino one who used it as a blunt weapon
+>you were about to run over to attend to Alex when he sprung back onto his feet
+>he looked to you and his eyes lightened up just the faintest bit before a glare had you back against the wall
+>maybe he had a point about you being a little outgunned here
+>he wasn't much better though
+>he was a stick
+>a very bitey stick apparently but a stick nonetheless 
+>the fight had spilled out into the hall and you really couldn't intervene 
+>not without getting crushed underfoot
+>Alex ran in despite your own protests and held back that elephant's swinging fist long enough for that door to smash a couple times over his skull
+>what he lacked in strength he made up for it scampering over to another guard in lightning speed
+>within minutes the deed was done
+>the violence had died down and Alex was bloody but victorious
+>most of it wasn't his blood
+>he was like a different person out there just now and you remembered 
+>the whole feeding frenzy thing that Alex had gone over once or twice
+>so no sticking any limbs near his face
+>the crazed look in his eyes slowly faded as you took his hand in yours
+>so, things had gotten more complicated 
+>but you were sticking by him like he said
+>the whole fight had been a clumsy blur
+>Alex was sort of running on instinct that whole thing
+>at least that's what it looked like
+>no weird Matrix shit
+>he wasn't one for confrontation so it made sense
+>the whole time he'd just been biting and scratching
+>it worked but you worried maybe it wouldn't if there was a next time
+>sure he could so some damage to a regular person
+>but his skinny ass was trying to climb and fight multiple giant beast men
+>the enthusiasm outweighed the capability 
+>you didn't want him fighting again
+>granted, you'd been just as reckless charging the door
+>your intervention and possible harm might have been what set off Alex into that crowd 
+>so you decided you'd try to keep the both of you out of trouble if you could help it
+>he'd come down from that weird crazed look after some comfort from you
+>you attempted to clean him off a little 
+>staying away from his jaws in the process 
+>you didn't know if you could accept a blowjob from him for a while
+>the lean shark tried to shoo away your efforts but you wanted to make sure he was OK
+>he fussed like a kid being tended to 
+>he was more concerned about you but all your organs were where they were supposed to be
+>at the very least the distraction seemed to shut up the disgruntled faction of scientists
+>taking action and getting violent seemed to have been easier said than done 
+>you were sure at least one of the guards was dead, some sort of gator 
+>but he could be out cold 
+>you decided to check for yourself despite the objections
+>there had been enough death for a day though
+>turns out gator man got himself a hostage
+>fucker had been playing possum
+>possibly hoping for a sneak attack or something
+>but you'd given him the perfect opportunity 
+>Alex once more got angry 
+>it was strange seeing him furious
+>even before the transformation it may come off as annoyance
+>here, there was no doubt he would have killed this guard if you weren't in between them
+>an ultimatum was thrown down
+>the weapon
+>or you
+>the massive scaled hand squeezed the back of your head and you felt like he'd squish it like a melon with the faintest move
+>you saw Alex's teeth bared
+>the others didn't seem as bothered, something the shark didn't notice
+>you figured it out quickly enough
+>you were the only thing keeping the gator alive but only because of Alex
+>the rest if the scientists, people you'd known before all this, they were ready to throw you under the bus
+>all for the greater good and all that
+>it was a far far colder version of Alex's perspective 
+>without you to ground him he might have thought that too
+>instead he seemed to be the only one concerned about you
+>something the gator noticed as well
+>it was starting to dawn on him his choice of hostage might have been a bad idea
+>Alex was a small man on the totem pole here and he'd been out voted before he realized a vote had come up
+>you thought they were finally getting along but the divisions were still there
+>were you Alex's weak link?
+>maybe 
+>but you also had prevented him from turning into some asshole like these other eggheads
+>fuck the greater good
+>you were living
+>you whispered fuck you to the rhino in case this didn't work
+>Alex was a little confused 
+>you had learned from Alex personally about the equipment downstairs on beast men is strange but it's still a man's usual equipment 
+>you slammed your foot back in an act of blind faith that it would strike something something 
+>gator might have been able to pop your head if he wanted but you'd smashed your heel right into his beanbag
+>it was enough to loosen the grip on you and allow you to jump away
+>Alex nearly forgot himself and tried running in to gut the guard personally when you held him back by the collar
+>there was more you two needed to discuss in private later
+>the gator was actually out cold this time by the time they were done
+>they were dragging the unconscious ones out towards whatever commotion had happened earlier
+>despite Alex being sort of a ringleader here you had the feeling the situation was slipping through his webbed fingers
+>the whole vibe of the place was getting more and more hostile and you didn't think that was entirely Gensyn's fault
+>but you couldn't do much but stick by Alex
+>you were both in danger here
+>it would be best to talk it out with Alex about how to handle this going forward
+>you didn't like the fact that a room full of people, sans your boyfriend, was cool with you getting turned into salsa
+>the device getting into the wrong hands was bad
+>but good God that was frightening 
+>you hesitated to be around the other scientists after that hostage thing
+>but you also didn't want to leave Alex alone with this
+>he was in danger and felt obligated to stay
+>you were less concerned with this device 
+>you knew it would be bad in the wrong hands
+>but you obligation was to Alex first and foremost
+>you just wondered how you'd have your shark cake and eat it too
+>this was a dilemma 
+>you'd have to trust Alex and he'd have to trust you
+>so you decided after all the commotion you'd need to take him aside in private
+>would it be possible to take the device and run with him?
+>Gensyn would be after you
+>but you were hunted anyways
+>it was possible though
+>the obvious answer would be to smash the device and essentially cut the knot altogether 
+>that was a possibility 
+>scheming behind the other scientists back was a necessary evil
+>you'd break up the band but you thought they'd been cool five minutes before and they were just OK with your death
+>so maybe just smashing the shit was a good idea
+>no one would have it
+>but the notes and the scientists were still around
+>Gensyn would make another one
+>damn if this wasn't a rock and a hard place
+>you were fucking Alex until he can't walk after all this trouble
+>you felt you were owed that much by life
+>you'd calmed down and nudged Alex away from the crowd 
+>hopefully later he'd brainstorm with you
+>the shark boy seemed puzzled but you didn't want to spell out what just happened in that room with that audience 
+>they'd just as likely turn on him too
+>hell, they might still
+>so he nodded and you agreed on a time in whispers
+>hopefully you could kill two birds with one stone and work out some stress relief too
+>fuck knows you needed it
+>that and the shark twink was still looking good all things considered 
+>if he couldn't turn back you'd make the best of it and show him he was still hot
+>repeatedly 
+>over whatever constituted as the boss's desk around here
+>but first
+>first and foremost
+>yes
+>you had to formulate an escape plan
+>the rest of the day you decided to essentially stick near him and say nothing
+>none of the scientists realized you figured out where they'd stashed the guard guns
+>not that you were trained or convinced they'd do much
+>I was a security blanket at best
+>regardless, you were armed
+>just needed an actual plan
+>maybe, leave these dicks and run with Alex over your shoulder
+>your day dreams grew more elaborate 
+>but you weren't some suave secret agent and Alex wasn't a Bond girl in a little black dress
+>whatever escape you'd put together would be hasty
+>maybe you'd get lucky and Gensyn would cut their losses 
+>that did make you think to bring up something important to Alex

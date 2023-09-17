@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 5 | **Experience to Next Level:** 25/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 145₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -82,7 +82,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Orange Gummi | Increases IQ for Fighting type Pokémon.
+1. Rawst Berry | Soothes the user. Heals Burn.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

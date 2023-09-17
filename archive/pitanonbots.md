@@ -11,6 +11,7 @@ Maki | (21/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www
 Suzume | (10/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Suzume) | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/06/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/suzumes-livestream-chat) | https://files.catbox.moe/s4zwuj.png
 Nina | (5/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/3c62eg.png)
+Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/nina-muku/main) | ![](https://files.catbox.moe/0870pb.png) 
  
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB Link | Card |
