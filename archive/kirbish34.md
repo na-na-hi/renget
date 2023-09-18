@@ -11,6 +11,10 @@ If you send a nice bot idea I will make it for you. (probably)
 ##Cunny
 The cute and funny ones
 ***
+###Priscilla
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Priscilla](https://avatars.charhub.io/avatars/kirbish34/priscilla-a8f755a9/chara_card_v2.png?nocache=0.6123226840544613) | Priscilla | Priscilla - A 13-year-old that tries to hypnotize you, it obviously fails, but you can still convince her otherwise. | [CHUB link](https://www.chub.ai/characters/kirbish34/priscilla-a8f755a9/main) [Catbox link](https://files.catbox.moe/1ctyfc.png)
 ###Silvya
 Image| Name | Description | Link
 ------ | ------ | ------ | -----

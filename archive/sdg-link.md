@@ -299,8 +299,9 @@ https://civitai.com/user/realisticElves
 https://civitai.com/user/EyeAI_
 https://civitai.com/user/SpacewolfeCZ
 https://civitai.com/user/obinna7713
+https://civitai.com/user/AI_Art_Factory
 
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 15th - https://pastebin.com/RLx2UY0V
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 18th - https://pastebin.com/UJc2XSYG

@@ -182,7 +182,7 @@ He stared at the paper blankly, unable to comprehend the shapes laid in front of
 
 "Oh, Anon... do you..."
 
-Something changed inside of Fubuki, as if someone had flipped a switch that caused her empathy to go on overdrive.
+Something changed inside of Fubuki. Before, she had told herself she couldn't be trusted around a kid, and now, he seemed so lonely, so infinitely fragile that she knew she'd never forgive herself if she didn't hold his hand. 
 
 "Do you not know how to read?" She asked.
 

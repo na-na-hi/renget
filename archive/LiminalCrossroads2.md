@@ -199,7 +199,7 @@ The orange growlithe violently turns around to face his sibling, his breathing t
 
 There is nothing out there that he can see.
 
-Try as he might, he can't find it anywhere. The figure hadn’t just disappeared—it looked like it was never really there to begin with. As if its appearance had been nothing but a mundane trick of the eye coming from the endless blue corrugations.
+Try as he might, he can't find it anywhere. The figure hadn’t just disappeared—it looks like it was never really there to begin with. As if its appearance had been nothing but a mundane trick of the eye coming from the endless blue corrugations.
 
 "What was that all about?", Gill nervously asks. Some of Bill's energy appears to have bled on over to him: he's anxiously observing the blue horizon all around, trying to catch sight of what his brother saw.
 

@@ -83,7 +83,7 @@ These pages are meant to be read alongside the lore - ideally as optional / addi
 -> *~~not the amaterasu skin you moron, the two thieves in the foreground~~* <-  
 -> *- small, furry, and non-canon* <-  
 
--> ![Ama](https://files.catbox.moe/zlc484.jpg) <-  
+-> ![Ama](https://files.catbox.moe/f5n1r8.jpg) <-  
 
    To take this from the top - what the fuck even is a Tanuki, and where does Danzaburou come into the equation?
    Tanuki, much like Kitsune, are the Japanese understanding of the animal of the same name. The word 'Kitsune' is simply the Japanese translation for a fox, because to a historical Japanese understanding, all foxes were inherantly magical. Likewise, Tanuki are simply raccoon dogs, because to the historical Japanense understanding, all raccoon dogs are inherantly magical. And no, raccoon-dogs are not raccoons, raccoon-dogs are different to coons and genetically closest to small dogs (as the name implies), while raccoons are closer to Coatis and other Ringtails. In reference to the pic below, they may have similar markings and build, but Racoons have much more dextrous hands and feet, while raccoon-dogs simply have paws *(on top of other distinct differences, such as their skull shape, ears, size and walking pattern - raccoon-dogs again being much closer to dogs than racoons)*.
@@ -725,7 +725,7 @@ For how far back each Pantheon dates back to:
    -> *For below, the lighter areas are the regions each was said to lurk, and the more shaded areas were their canon / mythological 'main stomping ground'.* <-
    -> *You can also see Mt Etna (both Typhon's Volcanic Prison and Vulcan's {Hephaestus's} Personal Forge) as the large, white snow-capped spot below the Strait, as well as the urban sprawl of modern-day Rome, further up the coast of Italy.* <-
 
-   -> ![Map](https://files.catbox.moe/q782jl.jpg) <-
+   -> ![Map](https://files.catbox.moe/4rwn7w.jpg) <-
  
    So, as for the two lolis of the game; we'll start with Charybdis, because she's the more straightforward of the two, despite less generally written or known of her. She's rarely even given depiction, and in the Renaissance was many times just assumed to be the name of the whirlpool that is paired with Scylla, over being recognised as the actual entity she is.
 

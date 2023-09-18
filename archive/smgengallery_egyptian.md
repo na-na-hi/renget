@@ -1,7 +1,9 @@
 ## ->Egyptian Gallery<-
 
  -> *{Heads up on some of these pronunciations, because.... man...}* <-
- -> *{I'm just going to say right now - pronunciations are just as much of a clusterfuck as the creation myth. There's basically no consensus, and usually given as complicated phonetics for what we understand how hieroglyphs were pronounced (with similar issues for Babylonian Cuneiforms and Mayan Hieroglyphs), crutching on Greek-Latin (sometimes Arabic) when we have no clue. All of them are just as likely to be wrong as right, and if there's any actual Egyptologists reading this ~~fuck you you're all awkward cunts to work with, I want to blast a bullet through my skull when I deal with you pieces of shit~~ you should agree that there's always quite a bit of dispute within the field to begin with ~~and then you're going to shut the fuck up and not spend 10 minutes elaborating the point nobody to asked you to elaborate while we're in the middle of a fucking desert and you're hogging the shade. I hate having to listen to you bastards drone on with yourselves, I just want to slit your throats like the arabs we were surrounded with, but for different definitions of faggot. You're an embarrassment to higher education, and the only religious death rites you'll get from me as the 43rd Judge of the Duat is when I spit on your corpse fuck you all I've never worked with a 'good' egyptologist because they don't exist~~}* <-
+ -> *{I'm just going to say right now - pronunciations are just as much of a clusterfuck as the creation myth. There's basically no consensus, and usually given as complicated phonetics for what we understand how hieroglyphs were pronounced (with similar issues for Babylonian Cuneiforms and Mayan Hieroglyphs), crutching on Greek-Latin (sometimes Arabic) when we have no clue. The majority of the names you 'think' you know, are the Greek translations of the original Egyptian names}* <-
+
+ -> *{All of them are just as likely to be wrong as right, and if there's any actual Egyptologists reading this ~~fuck you you're all awkward cunts to work with, I want to blast a bullet through my skull when I deal with you pieces of shit~~ you should agree that there's always quite a bit of dispute within the field to begin with ~~and then you're going to shut the fuck up and not spend 10 minutes elaborating the point nobody to asked you to elaborate while we're in the middle of a fucking desert and you're hogging the shade. I hate having to listen to you bastards drone on with yourselves, I just want to slit your throats like the arabs we were surrounded with, but for different definitions of faggot. You're an embarrassment to higher education, and the only religious death rites you'll get from me as the 43rd Judge of the Duat is when I spit on your corpse fuck you all I've never worked with a 'good' egyptologist because they don't exist~~}* <-
  -> *{I'm just going to give the best we seem to have for each name, to avoid drama}* <-
 
  -> **Ra** <-
@@ -69,7 +71,7 @@
  -> **Horus** <-
  -> = *H[ao]u-Ru(s)* <-
  -> *{Semi-silent S at the end. Take your pick of dynasty. Earlier ones called him Hauru; later ones called him Horus - honestly, it's the same pronunciation}* <-
- -> *{Not Horr-us}* <-
+ -> *{Not Horr-us. Closer to Howl than Whore}* <-
 
  -> ![Splash](https://files.catbox.moe/y7ldcn.jpg) <-
 
@@ -86,7 +88,7 @@
  -> **Anubis** <-
  -> = *Ain(u)-P(ws)* <-
  -> *{Not An-oo-Biss}* <-
- -> *{Yes, that's right. Anubis is not prnounced An-oo-Biss}* <-
+ -> *{Yes, that's right. Anubis is not pronounced An-oo-Biss; it's closer to Anups / Anupus}* <-
  -> *{The first part is pronounced quite quickly; the entire name sounds more like Anups. Say the word 'Imps', then walk it back into the word Anubis and you'll be on the right track. Don't ask}* <-
 
  -> ![Splash](https://files.catbox.moe/6nfc12.jpg) <-
@@ -109,7 +111,7 @@
  -> **Bastet** <-
  -> = *(ou)Bast-(i)(eh)(t)* <-
  -> *{Yes, there's a silent 'u' sound / an inflected 'ob' at the start of Bastet's name. We just don't spell it with one because...... (Don't ask). Also, the 't' at the end is barely inflected if at all, it's more like pressing your tongue at the the top of your mouth mid-syllable to cancel what you're saying}* <-
- -> *{ooobastieh}* <-
+ -> *{oooBastyeah}* <-
 
  -> ![Splash](https://files.catbox.moe/opdy0j.jpg) <-
 

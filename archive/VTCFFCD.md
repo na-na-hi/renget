@@ -2,16 +2,14 @@
 
 ->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 09/12/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 09/18/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [Balsa Chapter 23: Reconciliation](https://docs.google.com/document/d/e/2PACX-1vTdU2O7n2VxY1tK9n2-abRzHYJsD7WX11lQU0eyqR3KdxxpWq0iR7_jkCKMp6FupiduDtDdzIcv9MQN/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
-[Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
-[An Incredible Bitch: The First Year's Meeting](https://docs.google.com/document/d/e/2PACX-1vRLo2kNu-obpv3YWIL4pBdpqpNgrq0puzkMb99QasFHfrD8HXHfyjTvGQ7R6wulY_YX8cZr47gB7iSQ/pub) (Suisei, SFW, Short, Enemies to Lovers)
-[An Incredible Bitch: The First Year's Test](https://docs.google.com/document/d/e/2PACX-1vSHgnYSAnwBck5ZsOJkNdqtmFGtApXYE5ULvaIiejWEH8McUI5P4d8Dy3vpkLWqMw7tYbk9BDmeMIGV/pub) (Suisei, Miko, SFW, Short, Enemies To Lovers)
-[A Small Amount of Tomfoolery](https://docs.google.com/document/d/e/2PACX-1vQ1h5m24N2VhpngjgNzQPer8c5roNI-wel73i8aBPhf9C4tV0EjKKSWB3Qooa6z6m9FeS9hPbMHvBim/pub) (Baelz, NSFW, Size Difference)
-[The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
-[Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)<-
+->(***Series Entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 38: A Symphony of Gunpowder, Pomu, and Resonance](https://docs.google.com/document/d/e/2PACX-1vRUMtceK0-jborPd5Xi6LpiMhOdpI2U8SOMJPjEMsiSipytmsOc9I98kMj_4317vb5qmUEkC5mxJj-s/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+(***Series Entry!***) [Balsa Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)
+[Carmelina - Part 1: Milk](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub) (Lamy, Marine, NSFW, Lactation)
+[Wellness Check](https://docs.google.com/document/d/e/2PACX-1vSMoGl_xTOF9sBxN4aN_G9DbbPH_mgtAaGm8PtvbcBNLmrjJ3nx20fBolQ9q6ph44V3W5A6u8dj_zP4/pub) (Fubuki, Miko, Botan, Chloe, Action, alternative setting)
+[Heated Negotiations](https://rentry.org/9f38p) (Amelia, NSFW, Sweat Fetish, Smell Fetish, Armpit Fucking, Paizuri)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1286,3 +1284,6 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
 [Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)
 [Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
+[Carmelina - Part 1: Milk](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub) (Lamy, Marine, NSFW, Lactation)
+[Wellness Check](https://docs.google.com/document/d/e/2PACX-1vSMoGl_xTOF9sBxN4aN_G9DbbPH_mgtAaGm8PtvbcBNLmrjJ3nx20fBolQ9q6ph44V3W5A6u8dj_zP4/pub) (Fubuki, Miko, Botan, Chloe, Action, alternative setting)
+[Heated Negotiations](https://rentry.org/9f38p) (Amelia, NSFW, Sweat Fetish, Smell Fetish, Armpit Fucking, Paizuri)

@@ -859,4 +859,12 @@ Set list (stream starts at 2:44):
 
 [archive](https://archive.palanq.win/vt/thread/56985000/#56985898)
 
+#### September 2023
+
+##### 【3D SHOWCASE】 Gaming idol kirin in 3D! #3DKirin 🌿
+[2023-09-16](https://www.youtube.com/watch?v=d4CLpVz7m4Q) - Copyright strike
+Video unavailable since it contains content from SME 
+[mega](https://mega.nz/folder/GRogzC6R#z7RXd_uqVgb4jbVwjU93cw)
+[warosu](https://warosu.org/vt/thread/58665114#p58701778)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

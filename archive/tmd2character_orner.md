@@ -8,8 +8,8 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** ==Council of Clans==
 **Level:** 6 | **Experience to Next Level:** 0/60
-**Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 630₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
+**Pokécoin:** 555₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -68,8 +68,8 @@ Stat: N/A
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Oran Berry* | Heals 10HP when health falls under 50%
-*Equipped Item: N/A | Vacant hand slot.
+*Worn/Held Item: N/A | Vacant held item slot.
+*Equipped Item: Warp Seed | Random teleport seed.
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.

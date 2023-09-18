@@ -11,10 +11,12 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.9 Phase 1
-[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
+[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)
 
 [Miracle ☆ Magical Girl basic](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)
 [Miracle ☆ Magical Girl charged](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
+[Dreamweaver Flag](https://rentry.org/ElysianRealm#dreamweaver-flag)
+[Valkyrie Quicksand weapon](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)
 
 !!! info 6.8 Phase 2
 [![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![hohulti1](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)[![ssulti1](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)[![jkvalk1](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm#jade-knight_1)[![sivalk1](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression_1)[![dwflag1](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag_1)[![vqvalk1](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)[![frvalk1](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hotrwep1](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)[![rcvalk1](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)[![promvalk1](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017_1)[![hoficom1](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo_1)[![skvalk1](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight_1)
@@ -40,7 +42,7 @@ click image to jump to valk
 
 !!! info 6.8 Phase 1
 2.5
-[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))
+[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))
 2.25
 [![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
 1.75
@@ -50,7 +52,6 @@ click image to jump to valk
 2.5
 [Herrscher of Rebirth Soul Shaper](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)
 [Herrscher of Rebirth Life Binder](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
-[Dreamweaver Flag](https://rentry.org/ElysianRealm#dreamweaver-flag)
 [Starry Impression](https://rentry.org/ElysianRealm/#starry-impression)
 [Herrscher of Human: Ego fast ulti](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)
 [Jade Knight](https://rentry.org/ElysianRealm/#jade-knight)
@@ -59,7 +60,6 @@ click image to jump to valk
 [Sugary Starburst ulti](https://rentry.org/ElysianRealm#sugary-starburst-ulti)
 [Herrscher of the Void snaps](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)
 [Herrscher of Finality ulti](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)
-[Valkyrie Quicksand weapon](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)
 [Reverist Calico](https://rentry.org/ElysianRealm/#reverist-calico)
 2.25
 [Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
@@ -667,9 +667,9 @@ Prophetic Dreams: Self-Fulfilling | Alexandra set
 
 Cost | Effect
 ------ | ------
-0 | RPC
+5 | Summons TDM bonus
+10 | Support type DMG bonus
 15 | Weapon type breach
-15 | Summons TDM bonus 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -678,23 +678,25 @@ VC | SS | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Forbidden Seed / Out of Reach
-1st Shop | Pseudo Miracle /Out of Reach
-16F | Faraway Ship/Out of Reach
+Start | Pseudo Miracle / Falling in Past Light 
+1st Shop | Rainbow of Absence / Falling in Past Light 
+16F | Faraway Ship/ Dreamful Gold 
 
 ##->Ego Signets<-
- Thousand Thoughts 千念 | Forms 型相 | Oneiromancy 示梦 | Absoluteness 绝续 | Legacy 余绪
+ Thousand Thoughts 千念 | Oneiromancy 示梦 | Forms 型相 | Absoluteness 绝续 | Legacy 余绪
 :-: | :-: | :-: | :-: | :-: 
-**Start** | 2nd | 2nd | No | No 
+**Start** | **Start** | Optional | No | No 
 
 ##-> Signets<- 
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Mobius2 | Both TDMs, vulnerability are the key choices; recommended to pick all enhanced
-2nd | Vill-V1 | 2 3 5 are the key choices, unlock nexus
+1st | Vill-V1 | 2 3 5 are the key choices; must pick at least breach from enhanced, can pick phys DMG
+2nd | Griseo1 | Red Yellow Black are the key choices, nexus optional, better to unlock
 2nd | Pardofelis1 | Both silver generation, both damage boosts are the key choices, unlock nexus
-2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
-Optional | Kosma1 | Ultimate, evasion, shieldbreak damage are the key choices , don't need nexus;  can also pick Eden both damage boosts as reinforcement
+2nd | Mobius2 | Both TDMs, vulnerability are the key choices, unlock nexus; can pick phys DMG, vulnerability from enhanced
+Optional | Eden1 | Both damage boosts are the key choices, nexus optional, better to unlock; can also pick Kevin both damage boosts as reinforcement
+
+!!! info Recommended to swap sigils on 6F, roll Vill-V on 7F to get breach from enhanced
 
 #->Dreamweaver flag<-
 ->![dwflag1](https://i.imgur.com/hxQFPr3.png)<-
@@ -792,9 +794,9 @@ Twirling Glaze: Lustrous Bloom | Aladdin set
 
 Cost | Effect
 ------ | ------
-0 | RPC
 5 | SP+30
-5 | Weapon active vulnerability
+10 | Combo ATK vulnerability
+15 | Weapon type breach
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -803,23 +805,25 @@ SS | BR/SA | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Pseudo Miracle /Falling in Past Light 
-1st Shop | Fragile Friend/Out of Reach
-16F | Faraway Ship/Out of Reach 
+Start | Gold Goblet / Dreamful Gold 
+1st Shop | Pseudo Miracle / Falling in Past Light 
+16F | Faraway Ship/ Dreamful Gold 
 
 ##->Ego Signets<-
 Dappled Shade 娑影 | Luster 辉彩 | Rarities 财珍 | Whimsy 奇思 | Tambourine 铃舞
 :-: | :-: | :-: | :-: | :-: 
-**Start** | 2nd | Optional | No | No 
+**Start** | **Start** | Optional | No | No 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Vill-V1 | 3 5 2 6 are the key choices; recommended to pick all enhanced, must pick at least breach
-2nd | Kosmos1 | Ultimate, basic ATK, evasion, shieldbreak damage, time extnesion are the key choices ; recommended to pick all enhanced, must pick at least breach
-2nd | Eden1 | Both damage boosts, starting SP are the key choices , unlock nexus 
-2nd | Griseo1 | Red(buy from shop) Black are the key choices, don't need nexus
-Optional | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+1st | Eden1 | Both damage boosts, starting SP are the key choices , unlock nexus 
+2nd | Vill-V1 | 3 1 2 6 are the key choices; must pick at least breach from enhanced, can pick phys DMG
+2nd | Kosmos1 | Ultimate, basic ATK, evasion, shieldbreak damage, are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+Optional | Griseo1 | Red(buy from shop) Black are the key choices, don't need nexus; can also pick Kalpas vulnerability as reinforcement 
+
+!!! info Recommended to swap sigils on 5F, try to buy 1 Vill-V signet, unlock Vill-V nexus on 7F then grab enhanced 
 
 #->Valkyrie Quicksand weapon<-
 ->![vqvalk1](https://i.imgur.com/GChXfup.png)<-

@@ -6,6 +6,8 @@
 ![owari da](https://files.catbox.moe/cshb0y.PNG)
 closed by order of the health inspector, too much cunny in the kitchen
 chefseru@proton.me for all your logs, manifestos, and cat porn
+!!! info
+	putting a notice here so as not to shit up the /aicg/ thread, but access to any stable turbo/claude/gpt4 would be useful since I'm shit out of ingredients to cook with, don't want to hoard so I'll take this off once I get a crumb
 ***
 # MENU
 [TOC2]
@@ -61,9 +63,18 @@ Name | Description | Links |
 	SDsloppa made to order
 Payment | Delivery |
 ------ | ------ |
-One log or fan art (shitty mspaints full of SOVL accepted) of Chef's bots | Three SDs made for you
+One log or fan art (shitty mspaints full of SOVL accepted) of Chef's bots | Three SD gens made for you
 
 Email me if you're interested. Don't expect anything better than what you see here, this is the extent of my slopping abilities.
+
+***
+## BOT POT
+***
+!!!	info
+	Current Dish I'm working on
+Name | Description | Links |
+------ | ------ | ------ | 
+->**Venefica**<- ![chocolate bunny milkers](https://files.catbox.moe/9bsfaa.png)| From Monster Girl Dreams, demon beast bunny girl with sexy magic candy. |[card] [chub]
 
 
 ***

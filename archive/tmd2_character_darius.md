@@ -1,7 +1,7 @@
 ![(image url](https://rotomlabs.net/_next/image?url=https%3A%2F%2Fstatic.rotomlabs.net%2Fimages%2Fofficial-artwork%2F0246-larvitar.webp&w=750&q=75) 
 
 ### Darius ♂
-"Who am I? Who cares, this is awesome!"
+"Maybe I can't remember anything, but that won't stop me!"
 
 · | ->· ->
 ---- | ----

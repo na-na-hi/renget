@@ -133,7 +133,7 @@ But regardless, let us begin;
 
    -> ![To Hell and Back](https://files.catbox.moe/jfuthn.jpg) <- 
 
-   -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/hpz819.mp3) <-
+   -> [♪ ♪ ♪ ♪ ♪](https://files.catbox.moe/czdto3.mp3) <-
 
    *My inner schizo is speaking to me though, and they're saying that it's possible that they removed it because of the bands name... Slaves - don't forget that current-year LoRez are the same retards that banned 1/3rd of the population of one of their biggest games because of gamer words, and To Hell and Back was made back when LoRez was mostly white guys and tech-asians / still based; pre-pozz. They never released any statement on the matter, so my pet schizolorefag alter-ego's theory is for you to decide.*
 

@@ -48,7 +48,3 @@ Did you guys get nuked for real or just secret hour
 >only generals
 >only 2 threads that aren't generals are "hmm.. is it me or the eldar are kinda like space elves?" and "Are homebrew and house rules hubris?"
 >mfw he wasn't lying
-
-It's all so tiresome... 
-
-Yeah, I don't think I'm coming back ever again.

@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 16th September. All dates dd/mm.
+!!! Note Last updated: 17th September. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -140,6 +140,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 477 | BunnyChasers | Open as of 13/09
+6098 | Comfy | Open as of 16/09
 6289 | FlatIsJustice | Open as of 29/08
 
 ##### Full

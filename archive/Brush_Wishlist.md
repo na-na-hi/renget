@@ -90,8 +90,9 @@
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
+**Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
+**Mamiya Roughness Pressure Pen 2 (間宮ざらつき筆圧ペン 2)** | [1571708](https://assets.clip-studio.com/en-us/detail?id=1571708) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/17/1571708/thumbnail?1579496205)
 
 
 
@@ -112,8 +113,7 @@
 **Hand-painted knit tone + brush Set (手描きニットトーン＋ブラシセット)** | [1731171](https://assets.clip-studio.com/en-us/detail?id=1731171) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/11/1731171/thumbnail?1545473885)
 **Ruffle Brush 2 (フリルブラシ２)** | [1821376](https://assets.clip-studio.com/en-us/detail?id=1821376) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/13/1821376/thumbnail?1617762856)
 **Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
-
-
+**Primp Pen & Brush Set (めかすれペン＆筆セット) ** | [1897230](https://assets.clip-studio.com/en-us/detail?id=1897230) | **==300 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/30/72/1897230/thumbnail?1644199023)
 
 
 
@@ -128,6 +128,7 @@
 **Dirty Piece Wire Set (汚しカケ線セット)** | [1731899](https://assets.clip-studio.com/en-us/detail?id=1731899) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
 **Smoke Flow Set (煙流れセット)** | [1718809](https://assets.clip-studio.com/en-us/detail?id=1718809) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/88/1718809/thumbnail?1562117923)
 **Sea Brush Set (海ブラシセット)** | [1717978](https://assets.clip-studio.com/en-us/detail?id=1717978) | **2,500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/79/1717978/thumbnail?1531902708)
+ 
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -174,6 +175,7 @@
 **Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
 **Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
 **Dirty and Shadow lines! Building description Material Set (汚しや影線！建物描写素材セット)** | [1731713](https://assets.clip-studio.com/en-us/detail?id=1731713) | 280 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/17/1731713/thumbnail?1547225066)
+**Brushes for hoarse cartoon type (かすれ系漫画用ブラシ９種)** | [1790788](https://assets.clip-studio.com/en-us/detail?id=1790788) | **==300 GOLD==** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/07/1790788/thumbnail?1601694600)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
@@ -186,6 +188,7 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Mandarin Crayon & Pencil**|[1781568](https://assets.clip-studio.com/en-us/detail?id=1781568)|  |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/15/1781568/thumbnail)
+**かしかし鉛筆**|[1694462](https://assets.clip-studio.com/en-us/detail?id=1694462)|  |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/62/44/1694462/thumbnail?1493718715)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

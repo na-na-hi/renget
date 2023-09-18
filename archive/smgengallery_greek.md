@@ -83,11 +83,11 @@
  -> = *A-th-(a)E(e)n-A* <-
  -> *~~{muffled lorefag screaming}~~* <-
 
- -> *{Not A-Theee-Na, the inflected (a) is completely silent to the point I shouldn't really even include it if it weren't for the fact it wouldn't be correct without it.... which kinda makes sense. Because it's fucking annoying to explain}* <-
+ -> *{Not A-Theee-Na, the inflected (a) is completely silent, to the point I shouldn't really even include it if it weren't for the fact it wouldn't be correct without it.... which kinda makes sense. Because it's fucking annoying to explain}* <-
  -> *~~{fuck it, lets' just do this longform}~~* <-
- -> *{Aθῆνά = A-θ-ῆ-ν-ά = Ah-th-'e'-n-aa, with the ῆ character begin the fucking headache because there isn't even a word in any modern language I can use to compare for you, the closest phonetic being between the slight 'e' sound you hear in the middle of the word 'mace' after the 'a', or something close to the 'ee' in 'Greece' - being neither and both, at the same time... if that makes sense (which I understand it doesn't, because it doesn't). Try to say it how I've put it above and.... you.... 'should' (?) get it right. ~~i hate eta ηiggers so fucking much bros, and it's so, so much worse with the diacritic / liῆe above it~~}* <-
+ -> *{Aθῆνά = A-θ-ῆ-ν-ά = Ah-th-'e'-n-aa, with the ῆ character / circumflexed Eta being the headache, because there isn't even a word in any modern language I can use to compare for you, the closest phonetic being between the slight 'e' sound you hear in the middle of the word 'mace' after the 'a', or something close to the 'ee' in 'Greece' - being neither and both, at the same time... if that makes sense (which I understand it doesn't, because it doesn't). Try to say it how I've put it above and.... you.... 'should' (?) get it right. ~~i hate eta ηiggers so fucking much bros, and it's so, so much worse with the diacritic / liῆe above it~~}* <-
 
- -> *{tl;dr A-Thenna, but with an inflected 'a' before the 'e'}* <-
+ -> *{tl;dr A-Thaena}* <-
 
  -> *{More accurately given as Ath-(a)E(e)n-ne / Athene, but less colloquially used nowadays}* <-
 
@@ -109,9 +109,17 @@
  -> *{Since we're in the Greek Pantheon, we'll be (correctly) using the Greek version, which includes an -n at the end. Otherwise, the Roman / Latin version is pronounced Ap-Oll-Owe as you'd expect. ~~Not A-Polo as I've heard one retard say~~}* <-
  -> *{While seemingly minor, it's still ultimately like placing Vulcan in the Greek Pantheon or Hera in the Roman Pantheon under their alternate names. Pretty amateur desu, they really ought to at least get the names right}* <-
 
- -> ![Splash](https://files.catbox.moe/4toxk0.jpg) <-
+ -> *{Also, to note on his... 'odd' initial design, Apollo was intended to be to switch between various stims, the two shown being Poison / Plague arrows and Slowing / Frost arrows; as was his iconic mythologocal brand of vengeance, by causing disease outbreaks by shooting plague-tipped arrows / causing ill-health and colds by shooting weakening arrows at mortal populations that pissed him off in [various ways]. The idea was dropped, and later became the basis of Cernunnos's design}* <-
+
+ -> ![Splash](https://files.catbox.moe/gutqml.jpg) <-
+
+ -> ![Concept](https://files.catbox.moe/xenokq.jpg) <-
+
+ -> ![Chariot Concept](https://files.catbox.moe/eczm1c.jpg) <-
 
  -> ![Classic Splash](https://files.catbox.moe/5tl01r.jpg) <-
+
+ -> ![Classic Concept](https://files.catbox.moe/uhztou.jpg) <-
 
  -> **Artemis** <-
  -> = *Ar-Tem-Iss* <-
@@ -231,7 +239,7 @@
 
  -> ![Splash](https://files.catbox.moe/za9404.png) <-
 
- -> ![Concept](https://files.catbox.moe/pvp47u.jpg) <-
+ -> ![Concept](https://files.catbox.moe/kl6w1s.jpg) <-
 
  -> ![Promo](https://files.catbox.moe/rrxtcl.jpg) <-
 

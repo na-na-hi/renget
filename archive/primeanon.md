@@ -315,7 +315,9 @@ bias|probs|%
 0.15|28.23|30.51
 
 # Lorebook
-[Download link](https://files.catbox.moe/5z6rsr.lorebook)
+!!! note Update 2023-09-18: remove multitoken biases in Weasel Words group
+
+[Download link](https://files.catbox.moe/8lp96i.lorebook)
 
 ==To use it, just import the lorebook to your story.==
 

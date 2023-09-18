@@ -568,10 +568,3 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264)
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
-
-Notes/List to do
--If the one responsible has time, conduct a survey on Guild affinity chart, Story timeline, and Minor characters (notable at least) that appears on the stories to everyone (in thread) and update based on the results and do it periodically maybe once a month or every 2 months?  (PS. Is the Aura Bow Personalities necessary to be put there?) (pending)
--Possibly remake the whole writing section table as some fields are more used than others. (pending)
--Maybe put the writing section in a different page and make it multiple pages; i.e, page 1: Pre gathering to Pre Enter the Federation, page 2: Post Enter the Federation to next collab writing (pending)
--This is optional and only if the authors are cool about it, would it possible to combine the **completed** multi-part stories into one entry in order to reduce cluttering. i.e The Teams Team Up pt.1, pt. 2, pt. 3 to The Teams Team Up (all combined in one rentry). Then again, it's a bit of a gray area since there's also sequels which are not the same thing and... (pending)
--Rentry page archive needs update. (pending)

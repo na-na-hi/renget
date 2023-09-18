@@ -332,10 +332,9 @@ Put embeddings in \stable-diffusion-webui\embeddings, and use the filenames as a
 ### EasyFluff
 
 Description: ![EasyFluff V9](https://files.catbox.moe/nbsllc.png)
-A Vpred model, you need both of these files. See here for more info: https://rentry.org/trashfaq#how-do-i-use-vpred-models
+A Vpred model, you need both a safetensor and an accompanying yaml file. See here for more info: https://rentry.org/trashfaq#how-do-i-use-vpred-models
 
-	Checkpoint: https://civitai.com/api/download/models/147548?type=Model&format=SafeTensor&size=pruned&fp=fp16
-	Yaml: https://civitai.com/api/download/models/147548?type=Config&format=Other
+	https://huggingface.co/zatochu/EasyFluff/tree/main
 
 
 ## Galleries
@@ -882,6 +881,14 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 # Mating Press V2 (Concept, Reupload)
 
 	https://files.catbox.moe/iozmy8.safetensors
+
+# The Conductor (A Hat in Time)
+
+	https://files.catbox.moe/5gjbry.safetensors
+
+# Rasha (Pokemon OC)
+
+	https://drive.google.com/drive/folders/1WvQjUsVja2MRL-12lubJm2zzFfJgNH1w
 
 ## LORAs from the Discord
 

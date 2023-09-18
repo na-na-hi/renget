@@ -14,7 +14,7 @@ __________________________
 
 *Perhaps not all was well for the fraternal twins. Though fair-skinned, rural America was harsh on kids who could barely keep their hispanic accent from resurfacing in a mostly-white public school. It wasn't a huge issue, though—Bill made sure of it after getting in trouble for being a tad too rowdy with another boy at lunchtime. No one but him had the privilege of getting away with disrespecting his younger sibling, after all. Gill would likely protest to being called 'the younger one', but he couldn't find it in his heart to care in the slightest.*
 
-*"You're asking for it, you know that? I can't cover for you if you keep acting like a spic—"*
+*"You're asking for it, you know that?" Bill answered. "I can't cover for you if you keep acting like a spic—"*
 
 *The loud silver instrument proceeded to interrupt the sibling with its tooting, having no proper retort. As Gill played it, he sprinted towards the improvised playground at a brisk pace.*
 
@@ -92,7 +92,7 @@ __________________________
 
 *"You're on your own if Mr. Miller's homework is too much for you!"*
 
-*"Like I needed your help with that anyway", Gill snaps back. Dylan's lighter made yet another fuse spark—*
+*"Like I needed your help with that anyway", Gill snapped back. Dylan's lighter made yet another fuse spark—*
 
 *"W-WOAH!"*
 
@@ -216,7 +216,7 @@ Only now does Bill realize that his involuntary stance may look too threatening 
 
 The animal can *speak*. And despite Bill not having spoken it in several years, he can tell the foreign words apart. *It* has a language.
 
-*"...and it's in fucking Spanish of all things?"*
+*"...and it's fucking Spanish of all things?"*
 
 "...tú... hablas...?" the English speaker slowly relays in an accent that would've shamed his Hispanic mother.
 

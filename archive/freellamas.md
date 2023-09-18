@@ -5,10 +5,10 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Mythomax-l2-q8 scaled to 8k**
+**Model: Mythomax-q8.13-MAX-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://spanking-changes-occurring-superior.trycloudflare.com```
+Blocking API URL: ```Offline```
 
 ***
 **System prompt:**
@@ -16,7 +16,7 @@ Blocking API URL: ```https://spanking-changes-occurring-superior.trycloudflare.c
 Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
 ```
 
-**Sequences:**
+**Sequences (it will also work if you choose to ignore this, but you will get more retarded output):**
 Input Sequence: ` ### Instruction:`
 Output Sequence: ` ### Response:`
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, slow, avoid narrating {{user}}'s actions):`
@@ -35,7 +35,7 @@ Rep. pen range: [1444] - how many previous tokens to scan for repetition
 Top_p: [0.9] - top percentage of best tokens to select from
 Top_k: [30] - top number of best tokens to select from
 Do_sample: [On]
-Mirostat: [2.0] - mirostat version, just pick 2.0
+Mirostat: [2.0] - mirostat version, just pick 2.0, this fixes llama2-13b's repetition issue
 Mirostat Tau: [4.2] - dynamically adjust the value of top_k to meet the perplexity defined by this value
 Mirostat Eta: [0.4] - learning rate
 ```
@@ -72,6 +72,7 @@ Here's an ideal card that will generate medium responses: https://files.catbox.m
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.
 - Asterisks in replies are fucked? Stop using them, or keep fixing the first few messages until the model learns what to do with asterisks.
+- Model keeps narrating your actions? Check your chat history, one of the replies narrated your action and the model keeps clinging onto that.
 - If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again. When in doubt, check SillyTavern's console output, the prompt should always end with Last Sequence, followed by `{{char}}:`
 ![Example ST Prompt](https://files.catbox.moe/1eo7vr.png)
 

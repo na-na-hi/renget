@@ -87,7 +87,7 @@
 
  -> ![Prev Classic Splash](https://files.catbox.moe/hxqsuv.jpg) <-
 
- -> ![Classic Promo](https://files.catbox.moe/1z432l.jpg) <-
+ -> ![Classic Promo](https://files.catbox.moe/3yzqbj.jpg) <-
 
  -> **Discordia** <-
  -> = *Diss-Kor-Dee-Ah* <-

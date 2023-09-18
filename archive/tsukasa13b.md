@@ -85,6 +85,8 @@ trained on unfiltered instruct data then trained on pygma balls data, then on gp
 
 cards with natural language for their personas as opposed to something like W++ will give you much better outputs
 
+since the 2nd to last tune was on gpt4 rp data, taking system prompts from common gpt4 jailbreaks seams to make the model perform better, just tell it what you want it to do with natural language
+
 ## contact
 
 no1namialuvr@proton.me

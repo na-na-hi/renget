@@ -5,14 +5,18 @@ Patch Note: https://rentry.co/70log
 Luna Pledge Translation: https://rentry.co/luna70
 Luna Gear Translation: https://rentry.co/lunagear
 HoS Brick and Pericles stigma: https://rentry.co/hosbrick 
+Elysian Realm: https://rentry.co/er70
 
 !!! info
-    v2b
+    v2b-d
 
 - Fixed an issue where Luna is off-field, dealing bleed dmg but doesn't gain sp.
 - Lead skill: Eenemies take 10% > 17% more Lightning DMG from Lunar Vow
 - Adjusted SSS Heimdal mechanic
 - Fixed an issue where 'enemies take increased Bleed DMG' affecting non-Bleed DMG of some valks, weapons and stigmas. (rip Judah)
+
+v2c: Luna off-field sp recovery 2 > 2.5 sp
+v2d: ER changed from Bodhi +2 to Infinity +2
 
 !!! info
     v2

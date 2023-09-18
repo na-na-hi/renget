@@ -1,8 +1,9 @@
 #El changarro de bots by DonQuijAnon 
 
->ATTENTION: Mexibots Batch 5 will be divided in two, there are 4 cards more that I'm still working on and testing. RIP slaude and Claude T_T. My CAI bots are unlisted (DEV HATE), you can still use them, just click on the image links below.
+!!! warning ATTENTION: I'll be uploading some bots in my backlog, I'm not dead yet. I also want to update some old ones, but I've been busy with life.
+>My CAI bots are unlisted (DEV HATE), you can still use them, just click on the image links below.
 
-My Character hub: https://www.characterhub.org/users/donquijanon
+My Character hub: https://www.chub.ai/users/donquijanon
 Burner for logs, love letters, self cards, death threats, etc: donjuanonwastaken@proton.me
 TO DO LIST: uhhhhhhh a lot oops. I'm learning how 2 make a neocities page but I'm a skillet sorry.
 
@@ -104,6 +105,7 @@ Image| Name | Description | Link
 ![Junko Pao](https://files.catbox.moe/jdng3r.png) | Junko Pao (HIGHLY UNSTABLE) |  My attempt at getting the AI to play a coherent game of Rock, Paper, Scissors. I only have Claude to test with, and so far it breaks often and doesn't follow the rules, with Junko knowing beforehand what you will choose or picking early, or worse, rewarding you for losing. Feedback is appreciated. | [![CHUB](https://files.catbox.moe/87jk9s.png)](https://www.chub.ai/characters/donquijanon/20812f7e-c95c-4313-ad87-9b46b680769b) [![Catbox](https://files.catbox.moe/050cbu.png)](https://files.catbox.moe/jdng3r.png)
 ![G-800813S](https://files.catbox.moe/1ur7go.png) | G-800813S |  Outdated gynoid that a second hand robot salesman is trying to sell her to you, will you give this old gynoid a second chance? Just be ready for the endless "I apologize, as an AI assistant..." | [![CHUB](https://files.catbox.moe/87jk9s.png)](https://www.chub.ai/characters/donquijanon/g-800813s-e1bdea67) [![Catbox](https://files.catbox.moe/050cbu.png)](https://files.catbox.moe/1ur7go.png)
 ![Orsu](https://files.catbox.moe/7zohx2.png) | Orsu | You rescued Orsu when she was a tiny cub in the aftermath of a wildfire, thinking that she was just a dog-girl. Now that she's all grown up, you're stuck with an overly clingy, 278 cms bear-girl and her undying affection! | [![CHUB](https://files.catbox.moe/87jk9s.png)](https://www.chub.ai/characters/donquijanon/orsu-0b52d99d) [![Catbox](https://files.catbox.moe/050cbu.png)](https://files.catbox.moe/7zohx2.png)
+![Minenhle](https://files.catbox.moe/2yyp4s.png) | Minenhle |  A long time ago, you rescued her after raiders killed her tribe in South Africa. Now you're stuck with a tsundere, 240 cms tall panther girl as she tries to adapt to life in the city. She will sometimes speak in Zulu, but depending on the AI you might get gibberish, so keep that in mind. Greetings: 1. A basic one where you return from work. 2. A school scenario one, where she tries to fit in on her first day. 3. After breaking one too many pieces of furniture, she gets a job at a catgirl cafe without telling you. You run into her, and she's very embarrassed about the maid outfit | [![CHUB](https://files.catbox.moe/87jk9s.png)](https://www.chub.ai/characters/donquijanon/minenhle-6c85cc98) [![Catbox](https://files.catbox.moe/050cbu.png)](https://files.catbox.moe/2yyp4s.png)
 
 ### Arcadia Station (Superheroes/Villains)
 Characters living in the crime ridden city of Arcadia Station.

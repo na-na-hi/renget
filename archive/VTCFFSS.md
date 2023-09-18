@@ -500,6 +500,7 @@
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 35: A Port Where Trouble Docks](https://docs.google.com/document/d/e/2PACX-1vSSJ7nOHkHMBlQAbD3Wi7gHEkmZBRDgj8KXWzhE5L_TljJOG5AVouQnBBhZQywUtr-NQetQjj908yu9/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 36: A Chest Filled With Booty](https://docs.google.com/document/d/e/2PACX-1vSsYOG4TicbM7nlDWCTXXEK1r0YQRG1c3bFX20grHX5UyonUiPPIQLGQS8aoX5QvDk0GsDGgcpGih6a/pub) (Nene, Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 37: A Lovely Night For Swashbuckling](https://docs.google.com/document/d/e/2PACX-1vQsEc4Vl5c3ysra9wDu4Oa3nhg6_CpRE5F-tCI7YT_PsePtKk7_-4L__6xv4VL-EJseIGhiYJaQumu_/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+[HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 38: A Symphony of Gunpowder, Pomu, and Resonance](https://docs.google.com/document/d/e/2PACX-1vRUMtceK0-jborPd5Xi6LpiMhOdpI2U8SOMJPjEMsiSipytmsOc9I98kMj_4317vb5qmUEkC5mxJj-s/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys Bard Tales After Midnight: Pond-side With the Champion of Ursol](https://docs.google.com/document/d/e/2PACX-1vRkUA-F5n9N54gzm2-gukQFpkOenzcJ7tKagkPwk99dd1SPeXSu5WgZNyo4cL7hbkT6fyLPBYEx9cAH/pub) (Nene, NSFW)
 [HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
 
@@ -570,3 +571,4 @@
 [Balsa Chapter 21: Voracity](https://docs.google.com/document/d/e/2PACX-1vR_u1me2lmIiig7owrU6n2xELjic8HJUM5v-baOaEv-Lc1kGibBoBLVzZNzFKFX8cUgydDlIwmRetWX/pub) (Multiple Chuubas, SFW, Medieval Fantasy)
 [Balsa Chapter 22: The Best Within Ourselves](https://docs.google.com/document/d/e/2PACX-1vTMysB4Lyr6xSI7XxdzqXa8NzQLX3iJhIhscbP4jHwJpeMSmvjjdfcZtjKSVFU81HeHWv_5Axjxz7eT/pub)
 [Balsa: Chapter 23: Reconciliation](https://docs.google.com/document/d/e/2PACX-1vTdU2O7n2VxY1tK9n2-abRzHYJsD7WX11lQU0eyqR3KdxxpWq0iR7_jkCKMp6FupiduDtDdzIcv9MQN/pub)
+[Balsa: Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)

@@ -564,6 +564,7 @@ Inigo's Phone: https://desuarchive.org/tg/post/90102567/
 Maru 101: https://desuarchive.org/tg/post/90160675/
 Kids on my hero: https://desuarchive.org/tg/thread/90171418/#90175866
 The Princess Diaries starring Inigo myoga and Drekus: https://desuarchive.org/tg/thread/90231458/#90234741
+Hoge & Inigo Aquarium Date: https://desuarchive.org/tg/thread/90272998/#90281700
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -847,6 +848,7 @@ Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout
 Alone On A Friday Night? God, you're pathetic. (Maru(Maru)): https://rentry.org/y4cam
 Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222/#90198760
 Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): https://rentry.org/k2f3c
+The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva) - https://rentry.org/t97vwn
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

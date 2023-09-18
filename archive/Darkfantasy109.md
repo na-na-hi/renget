@@ -14,8 +14,8 @@ Almost all my bots use images I've taken from the internet. The ones whose sourc
 ***
 
 !!! warning CURRENT STATUS
-	->**ACTIVE**<-
-    ->Sup, still around for now.<-
+	->**SEMI-HIATUS**<-
+    ->Bleh<-
 
 **Table of Contents**
 [TOC2]

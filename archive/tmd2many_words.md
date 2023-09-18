@@ -163,6 +163,7 @@ Restricted either by the construction or location of their homes, some Pokémon 
 - Bathhouses & Hot Springs: Services that are generally open all-year round for cleaning and relaxation. Might also be a great place to hear about community news or gossip.
 - Iceboxes: Places for Pokémon who really need negative temperatures to cool off. They are built lower underground and can be very cold. Iceboxes double as places to store food for long periods of time.
 - Greenhouses: For Grass-Types in the colder months where sunlight and warmth become increasingly important. During other seasonal weathers, generally are left empty. However, some Grass-Types with specialty needs might visit these frequently, regardless of current conditions.
+- Smokehouses: Typically frequented by Fire-Types of all kinds, Smokehouses are stout constructions on the outskirts of a town. Built to trap as much smoke and heat, it is a place for Fire-Types to socialize. Patrons are expected to burn and enjoy the smoke from various woods offered by the house. Doing so changes the smell of their flames (adding hints from the woods they have burnt) and helps them to burn stronger and brighter. Some might even become Wood Connoisseurs, befriending Grass-Types to find the best woods they can try.
 
 #### Guilds
 Together, we're even stronger! Pokémon form Guilds to get benefits from having a large group of adventurers who are always willing to help one another out. Almost like a big family. Guilds construct their bases next to towns and usually have some form of specialty: Rescue, Exploration, Expedition, or even Justice... there's a lot a Guild can do.
@@ -328,19 +329,19 @@ Most inhabitants don't bother with clothing or serious accessorizing. However, s
 ## Smaller Details
 Written ideas that help form the finer things in conversations and descriptions in writing. Daily activities, limitations, interactions, landscape, quality of life...
 
-**Technical Machines**
-Found where Porygon make their homes, these crystalline wafers form from the electrically charged solid state stones, growing as impressive square crystal bunches. Carefully mined from the base, these flat squares are taken back to a master gemcutter, who shaves the wafer to the appropriate size before etching the spaces required to imbue the knowledge and experience of a move into the awaiting vessel. Each crafted Technical Machine resonates with a general move, and after it is imbued, cannot be etched with any other move but the one originally written on it. 
-Once used, the crystals break down from the lack of charge and crumble. However, they can be taken to those who specialize in Recycling and promptly repaired. Each consecutive "Recycle" becomes harder to perform.
-
 **Tinkatink Line and Steel-Types**
 Known to require large amounts of steel to forge their impressive bludgeoning devices, the Tinkatink line has formed an interesting relationship with the Steel-Types that consist of the precious resource they seek. While they might decide to live on the outskirts of a Steel-Type village, Tinkatons often can be spotted wandering the village looking for shedding or scraps to add to their perfect hammer. Sometimes, they might even directly approach a Steel-Type and ask to barter for something that hasn't even fallen off yet! Metal feathers are heavily prized since those are the easiest to work with.
 However, if there are no Steel-Types nearby, they might also exclusively work in mines, often creating a pickaxe to mine the iron themselves for their hammers. Sometimes there is a bit of both, with whole families of Tinkatons working alongside Excadrills in the underground mines near villages.
 
+**Casting Illusions**
+Particular Pokémon might have the ability to cast illusions, things some might call less than "real." Specifically, Zoroark and its regional counterpart are the only two capable of creating physical (in the sense that they have a physical presence in the world) illusions. With some minor manipulation of aura, Zoroark can create light-based illusions. As for everything else, they might deal with manipulating the mind and senses of the target to accomplish the same idea. However, they all have their limitations. Nothing as crazy as making whole forests as an illusion. Try to be reasonable with them!
+
+**Technical Machines**
+Found where Porygon make their homes, these crystalline wafers form from the electrically charged solid state stones, growing as impressive square crystal bunches. Carefully mined from the base, these flat squares are taken back to a master gemcutter, who shaves the wafer to the appropriate size before etching the spaces required to imbue the knowledge and experience of a move into the awaiting vessel. Each crafted Technical Machine resonates with a general move, and after it is imbued, cannot be etched with any other move but the one originally written on it. 
+Once used, the crystals break down from the lack of charge and crumble. However, they can be taken to those who specialize in Recycling and promptly repaired. Each consecutive "Recycle" becomes harder to perform.
+
 **Smithing and Tools**
 Most creation of tools require very little knowledge of an actual smithing and smelting process, as demonstrated by the Tinkatons, they simply hammer steel together until it binds. Or they use appropriately-sized scraps from Steel-Types. This results in tools that are all unique and gnarly in their appearance, giving off a very crude manufacturing style.
-
-**Fire-Types and Smokehouses**
-An establishment regularly frequented by Fire-Types of all kinds, Smokehouses are stout constructions on the outskirts of a town. Built to trap as much smoke and heat as safely as possible, they represent an opportunity for Fire-Types to socialize with others of their kind. They do not serve refreshments or food here, but rather, chunks or cuts of wood! Patrons are expected to burn and enjoy the smoke from the various woods. Doing so changes the smell of their flames (adding hints from the woods they have burnt) and helps them to burn stronger and brighter. Some might even become Wood Connoisseurs, befriending Grass-Types to find the best woods they can try.
 
 **Evolution Traditions**
 Some Pokémon lines, families, or even entire villages might have special rituals or traditions to perform whenever evolution is to occur.  They might be as simple as a celebration for things to come, or they might be tasked with an adventure or trial to prove their worthiness for evolution.  Gathering items, materials, or even searching for the very item that may allow their evolution to succeed. While this may not be the case everywhere, evolution can be depicted as something special to a Pokémon.

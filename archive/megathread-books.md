@@ -292,17 +292,17 @@
 - Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody. 
 - [URL Safety Results](https://www.urlvoid.com/scan/audioaz.com/)
 
-### ▶️ [Audiobooks For Soul](https://audiobooks4soul.com/home/)
-- All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
-- [URL Safety Results](https://www.urlvoid.com/scan/audiobooks4soul.com/)
+### ▶️ [AudioBookable](https://audiobookable.com/)
+- Enjoy listening to books while working, driving, or cleaning the house. It's got you covered.
+- [URL Safety Results](https://www.urlvoid.com/scan/audiobookable.com/)
 
 ### ▶️ [AudioBookLabs](https://audiobooklabs.com/)
 - Popular books and novels may be found in audiobook format without cost.
 - [URL Safety Results](https://www.urlvoid.com/scan/audiobooklabs.com/)
 
-### ▶️ [AudioBookss](https://audiobookss.com/)
-- Enjoy listening to books while working, driving, or cleaning the house. It's got you covered.
-- [URL Safety Results](https://www.urlvoid.com/scan/audiobookss.com/)
+### ▶️ [Audiobooks For Soul](https://audiobooks4soul.com/home/)
+- All of the audiobooks on the website are of the greatest caliber, with flawless narration and crystal clear sound.
+- [URL Safety Results](https://www.urlvoid.com/scan/audiobooks4soul.com/)
 
 ### ▶️ [Book Audiobooks](https://bookaudiobooks.com/)
 - Instantly browse and listen to the best audiobooks from a wide range of available selections.

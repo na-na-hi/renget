@@ -19,6 +19,7 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Updates:
+	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
 	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
 	09.09.23: Added new card 'Chae-won'
 	06.09.23: Updated 'Cluckette' to v1.1 and moved to Bots
@@ -100,8 +101,10 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     Stuff not found on Chub. Pre-releases, prototypes, scraped cards, etc.
 |  |  | 
 | ------ | ------ |
+| **Elia** | https://files.catbox.moe/rfc2mg.png |
+| ![Elia](https://files.catbox.moe/rfc2mg.png) | **Based on I, the Forgotten One. You are the bastard son of the Emperor. Your mother was assassinated and your family hates you because of your illegitimacy. They tried to get rid of you by sending you to the army as a child, but against all odds you survived and emerged as a respected warrior and commander. Elia is your half sister, your only family member that doesn't despise you.** [v0.2, Claude 2 17.09.23] *Wrote new greeting and revamped description. Old greeting still available as alternate first message. Didn't really do any testing so far, merely two chats with Claude 2 which worked well enough.* |
 | **Amelia 'Quickstep' Brooks** | https://files.catbox.moe/4iyl2n.png |
-| ![Amelia](https://files.catbox.moe/4iyl2n.png) | **==[For Claude! Custom Jailbreak absolutely required when using with Turbo]== An E-Class superheroine who can not live up to her A-Class family name. Amelia gets bullied and taunted at the hero academy, and even her own parents see her as a disappointment. Amelia tries to prove her worth by recklessly going against increasingly dangerous opponents. This night, however, she bit off more than she could chew. When all hope seems lost, she gets saved by you, the handsome and mysterious student at the academy - Wrath, S-Class...** [v0.9, Claude 2, 13.09.23] *Absolutely love that Card. Really want to release that one on Chub, but I'm not in the mood of receiving bad reviews from Turbo normies like with my Mirabel card. Turbo goes absolutely shizo without Jailbreak. [You are forbidden from controlling {{user}} or writing his dialogue.] should work fine.* |
+| ![Amelia](https://files.catbox.moe/4iyl2n.png) | **==[For Claude! Custom Jailbreak absolutely required when using with Turbo]== An E-Class superheroine who can not live up to her A-Class family name. Amelia gets bullied and taunted at the hero academy, and even her own parents see her as a disappointment. Amelia tries to prove her worth by recklessly going against increasingly dangerous opponents. This night, however, she bit off more than she could chew. When all hope seems lost, she gets saved by you, the handsome and mysterious student at the academy - Wrath, S-Class...** [v0.9, Claude 2, 13.09.23] *Absolutely love that Card. Really want to release  it on Chub, but I'm not really in the mood for receiving bad reviews from Turbo normies like with my Mirabel card. Turbo goes absolutely shizo without Jailbreak. Even Claude goes shizo sometimes.  [You are forbidden from controlling {{user}} or writing his dialogue.] should work fine.* |
 | **The Miracle Mill** | https://files.catbox.moe/iwfi0h.png |
 | ![The Miracle Mill](https://files.catbox.moe/iwfi0h.png) | **You are an omnipotent eldritch being that has arrived on a medieval fantasy world. However, you are no horror at all. On the contrary, you are a very nice guy who uses his limitless powers to work miracles to help the poor and desperate that visit your home, a lonely mill. Or do you...** [v0.1, Claude 2, 30.08.23] |
 | **Constance** | https://files.catbox.moe/f91bh6.png |
@@ -120,8 +123,6 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 | ![Freya](https://files.catbox.moe/zzih6g.png) | **A desperate bullied schoolgirl summons you, an eldritch horror.** [v0.1, GPT4, 10.05.23] |
 | **Sofia** | https://files.catbox.moe/ybd84s.png |
 | ![Sofia](https://files.catbox.moe/ybd84s.png) | **You die and are reincarnated as a German Shepherd. Sofia is your tomboyish owner.** [v0.3, Turbo, 17.04.23] *Didn't play out as I expected and decided to scrap it.* |
-| **Elia** | https://files.catbox.moe/36egjs.png |
-| ![Elia](https://files.catbox.moe/36egjs.png) | **Based on I, the Forgotten One. You are the bastard son of the Emperor. Your mother was assassinated and your family hates you because of your illegitimacy. They tried to get rid of you by sending you to the army as a child, but against all odds you survived and emerged as a respected warrior and commander. Elia is your half sister, your only family member that doesn't despise you.** [v0.1, Turbo, 03.04.23] *Still very fond of this idea, perhaps going to flesh it out someday.* |
 | **Mia** | https://files.catbox.moe/f29mvj.png |
 | ![Mia](https://files.catbox.moe/f29mvj.png) | ==Ancient Booru card, outdated W++ format== **As you travel on a business trip, news of a catastrophic asteroid headed for Earth reaches you, causing panic worldwide. With only one week until impact, you race to spend your final moments with your beloved sister, Mia, with whom you share an unbreakable bond since the loss of your parents. Despite numerous obstacles on your journey, you arrive exhausted and breathless at Mia's door an hour before the asteroid's impact, and she embraces you tearfully, grateful for your presence. How will you spend your final hour on earth?** [v1.0, Turbo, 12.03.23] *Has experimental countdown feature.* |
 | **Melody** | https://files.catbox.moe/fwp8wj.png |

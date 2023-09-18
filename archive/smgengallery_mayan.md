@@ -53,7 +53,7 @@
  -> = *Aa-wi-Lishh* <-
  -> *{Ideally would be spelt as Äwi¦Lish, but the English language can't be bothered}* <-
 
- -> *{Not A-Will-Icks, not A-Wheel-Ish. Don't over-pronounce the 'Wi' - it's a short syllable closer to the first half of Will. There's no 'eee' sound}* <-
+ -> *{Not A-Will-Icks, not A-Wheel-Ish, not, Auh-Veel-Ish. Don't over-pronounce the 'Wi' - it's a short syllable closer to the first half of Will. There's no 'eee' sound}* <-
  -> *{Sounds kinda like 'Owlish'}* <-
 
  -> ![Splash](https://files.catbox.moe/i054b8.jpg) <-
@@ -110,7 +110,7 @@
  -> = *Kabp-Ra-Kahn* <-
  -> *{Ideally would be spelt as ka'B¦Raqän, but the English language can't be bothered}* <-
 
- -> *{Not Ca-Brack-an. The K is there because you're supposed to pronounce it from the back of your throat (and is distinct from the first C), which 'K' in English achieves better than the 'more accurate' Q. The B ( Ɓ ) is an odd one, as it's Implosive (breathe in for it) - which as a side note, created some neat poetic relation to his brother, who has Ejectives in his name; Zipacna raising mountains, Cabrakan destroying them}* <-
+ -> *{Not Ca-Brack-an. The K is there because you're supposed to pronounce it from the back of your throat (and is distinct from the first C), which 'K' in English achieves better than the 'more accurate' Q. The B ( Ɓ ) is an odd one, as it's Implosive (breathe in for it) - which as a side note, created some neat poetic relation to his brother, who had opposite Ejectives in his name; Zipacna raising mountains (blowing them up from the ground), Cabrakan destroying them (crushing them back down)}* <-
  -> *{Overall, sounds closer to Capricorn than Bracken}* <-
 
  -> ![Splash](https://files.catbox.moe/0qdj3u.jpg) <-

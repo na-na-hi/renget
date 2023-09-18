@@ -5,60 +5,28 @@
 
 >General:
 >He is often on the neutral side of things, such as guild members behaving in quite a disruptive manner or messing up their jobs. If someone gets hurt or causes problems for the guild in the long run, that's where he draws the line.
->He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. Nobody wants to cause pointless damage and have to pay for it!
->He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it. 
->Although he may act tough, he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
->His favorite food was lava cake and pudding; now it's gold gummis; not like he has a choice anyway! But ever since he found out about the ingredients of his favorite foods is in the Pokémon world, he dreams of making them again, at least once.
 
 >Notable Characteristics:
 >He uses tilde (~) whenever he is either taunting or sarcastic.
->He sometimes laugh/chuckle with "Kyukyukyu" for whatever reason.
 >He often uses Telekinesis for somewhat mundane tasks, like when he can multitask by writing in multiple papers or grabbing far away objects, though, he does use it during combat where he has multiple wands in standby right behind him.
->He has a principle that he shouldn't abuse his Psychic powers, like he can just use telepathy on another person if he wanted to know if they did something wrong or they're lying, but he decides against using it and just handle the situation in traditional means as he believes people have reasons to not tell and he respects their privacy. ...Unless, it's something really dire then, he has no choice.
->He seemed to always act happy and friendly, but that's all just a facade.
 
 >Outfit and Possessions:
->He wears a black cloak with a capelet of the same color. Inside the cloak are multiple pockets where he stocks items such as wands, orbs, seeds, TMs and elixirs for his disposal.
->He wears a Friend Bow on his left chest, something like a boutonnière, in order to keep the dungeon Pokèmon from getting too aggressive, but that has long been replaced with the Clover Guild badge.
->For food and other essentials for exploring, he uses his trusty treasure bag with some slight modifications, like instead of the Explorers Emblem at the front flap, it uses a certain Flower-like Emblem, and it's not even a clover that the rest of the guild uses.
->There's a Golden Ring that's strapped behind the bag. From what is known, Lliam uses it to teleport across the field, but it appears that it uses so much energy that he only resorts to using it in emergencies.
->Lliam has a special wand named Calida with which he could cast Fire-type moves. The wand is a tree branch and the flame burns eternally at the tip of the branch when it is used, and it doesn't spread anywhere else of that branch. There's a bow (Friend Bow) wrapped in the middle of it, with a teal bangle strapped at the center. But for whatever reason, he prefers to use traditional wands instead of this one.
+>He wears a black cloak with a capelet of the same color.
+>He wears a Clover Guild badge. on his left chest.
+>For food and other essentials for exploring, he uses his trusty treasure bag.
 
 >Secrets:
->At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just teleport inside with his Golden Ring if he feels like it. The left wing's secret room is his bedroom, which has no windows because his wardrobe would block them, so he got rid of it while the right wing's secret room is his personal laboratory, it has windows with blinders to prevent any Pokémon from eavesdropping.
+>At the guild office, there are one secret room on the right side. To open it, he has to do some sequences on the hidden switches around the room. It's his bedroom, which has no windows because his wardrobe would block them, so he got rid of it.
 >What's beyond the locked lower basement is an underground pond, and surrounding it is a network of cave systems that leads to various locations in the Grass Continent. It remains sealed because some of the pathways lead to an underground, undiscovered mystery dungeon, which the feral Pokémons there are way too strong for the guild members to handle as of now.
->Someone is living in the guild in one of the secret rooms that nobody is aware of except for Lliam and perhaps others that can sense her aura.
->He writes letters to someone and has her familiar Noctowl, named "The Nuntius", fly to the guild's outdoor area at a certain time of the night in certain days.
->He has his own house at the north east of Capim Town and only Skiddo knows where it is.
->He has a Zorua partner named, "Larkspur", but he is no longer in this world, and Lliam still thinks of him from time to time, especially when he sees other guild members with their partners.
->Along with Zorua, Delphox is also no longer in this world; they're both her students and she's called, "Marigold", which Lliam respects deeply.
-
->Interactions:
->When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally: "Hello!", "Thank you so much!", "I apologize, I'll do better!"
->When he talks to friends and to the guild (that are native to the Pokémon world), he is more lax on the formality with a pinch of snarky response: "Thanks!", "You're... an idiot! You step on the trap!!", "Then... I'll grab this broom and whack you with it, how 'bout that~?"
->He also acts similarly to the anon-mons but depending on who it is, he may be crude with his 4chan/internet manner of speech at times: "You guys acted like retards last mission but did good this time, and I'm proud of y'all!", "Oh, you're approaching me? *Insert posing awkwardly*", "Be careful now; you might break that client's item. You know who you are... No dinner for you if that happens, okay~? *proceeds to smile at the terrified members' faces*"
->When confronting enemies, he uses taunting tactics or an aggressive tone depending on the enemy; the stronger the enemy, the more serious he gets: "Hmhm~ not bad! But can you eat this!" (low threat level enemy), "Tch... you're crafty as well, I give you that." (somewhere in between), "Hey... scram you scum!!!" (high threat level).
 
 >Abilities:
->Keen Eye & Prankster
+>Keen Eye
 
->Support Form Moves:
->Reflect
->Light Screen
->Helping Hand
->Quick Guard
->Misty Terrain 
->Psychic Terrain
-
->Combat Form Moves:
+>Moves:
 >Shadow Ball
 >Thunderbolt
 >Psybeam
->Psychic
 >Expanding Force
-
->Often times, Lliam acts as a supporter when he goes with other people; if alone, he will use his Mage Form. It's when Lliam uses support moves on himself and primarily uses Wands. He usually uses Blast Wands, but he also uses Petrify Wands, Pounce Wands, Slow Wands, and Warp Wands depending on the situation. Support moves such as Reflect and Light Screen are used to perform trick shots from his wands, allowing him to hit enemies from tight spots.
->If he and/or others are in peril, Lliam will reluctantly use his Combat Form, but he has to be very careful as using too much results in him fainting, an unusual case for a Meowstic, and thus, he actively avoids on using this form.
 
 ###Nick/Amelia
 >Nick, Vulpix (M), Calm
@@ -422,18 +390,22 @@ Biography generated!
 > The glue and heart of Team Gumbo, Cheesecake is a happy-go-lucky little guy who is always up for some fun. He may be a little naive at times, but he's as sweet as his namesake and always willing to help.
 >Despite growing up pretty much an outcast in his family due to his odd coloring, he never let that bring him down and struck out on his own as soon as he was able.
 > - Loves sweet treats.
+> - **Moveset:** Water Gun, Mud Bomb, Slam, Earth Power
 > - **Held Item:** Lucky Ribbon (worn as a scarf)
 > - **Special Identifier:** Skin is a patchy combination of normal and shiny Wooper coloration.
 
 >Apple, Politoed (F), Timid
 > Apple is a nervous gal with a Southern accent who often worries over her smaller teammate. Though she is soft-spoken, she is protective of Cheesecake and almost sees him as a little brother. This is the original reason she decided to form Team Gumbo with him, to keep him safe.
 > Apparently lost her memory, but she doesn't seem to think she's a human. Remembers living in an area made of swamps and overgrown forests, and being raised in a culture equivalent to cajuns in the human world, but not much else.
-> - Holds the team's item bag
-> - **Held Item:** Pecha Scarf
+> - Plays the accordion.
+> - **Moveset:** Bubblebeam, Hypnosis, Double Slap, Rain Dance
+> - **Held Item:** Pecha Scarf; holds the team's item bag.
 > - **Special Identifier:** Has freckles across her face (cheeks, nose, under eyes) and on her knees and elbows.
 
 >Etouffee, Corphish (M), Hasty/Rash
-> A former outlaw assigned to Team Gumbo for "rehabilitation", the grumpy crawfish has a soft spot for Cheesecake and they share the sort of friendship said to have once been seen between an outlaw Armaldo and a young Igglybuff. However, he is quick to anger and a bit selfish, often butting heads with Apple. The two personalities clashing is the reason for his nickname; during a tiff between Etouffee and Apple, the frog Pokemon made a vague threat to make an etouffee out of the crustacean, and since then Cheesecake obliviously started calling him "Etouffee." No one knows Etouffee's real name, if he has one.
+> A former outlaw assigned to Team Gumbo for "rehabilitation", the grumpy crawfish has a soft spot for Cheesecake and they share the sort of friendship said to have once been seen between an outlaw Armaldo and a young Igglybuff. However, he can be quick to anger and a bit selfish, often butting heads with Apple. The two personalities clashing is the reason for his nickname; during a tiff between Etouffee and Apple, the frog Pokemon made a vague threat to make an etouffee out of the crustacean, and since then Cheesecake obliviously started calling him "Etouffee." No one knows Etouffee's real name, if he has one.
+> - Likes to mess with Apple. A bit snarky.
+> - **Moveset:** Vicegrip, Night Slash, Crabhammer, Dragon Dance
 > - **Held Item:** Fierce Bandanna (tied on his arm, between his claw and body)
 > - **Special Identifier:** Has a broken middle horn, a scar on his right "cheek", and another scar across his left eye. Has various smaller scratches in various places.
 
@@ -446,7 +418,26 @@ Biography generated!
 >Luka "BIG MEATY PAWS" is the Persian. He's unusually large for his species. A gruff, intimidating exterior can make it hard to see his heart of gold. Luka favours heavy, close-range physical attacks, and so it's no surprise that he managed to crack his gem so young. There is nothing Ninetales won't tease him over.
 
 ###Maxi/Maddi
-{Pending}
+>Maximillian "Elvis" Presley The Trubbish
+>Gender: M
+>Nature: Sassy
+>Job: Clover Guild Janitor
+>Likes: Relaxing at home, Coffee, Otaku Culture (Mostly anime & vidya, he really loves mecha anime!)
+>Dislikes: Assholes, The Sun, Dogs
+>A former human who was an Otaku Shut-In because, doesn't really give a crap about hygrine, might get pissed if you complain about it.
+>He's slightly depressed and has doesn't have that much self esteem, the only reason he gets up in the morning is because of Maddi.
+>He tends to eat grime, but can joy actual food as well.
+
+
+>Maddi aka Joy Jensent The Joltik
+>Gender: F
+>Nature: Timid
+>Job: Clover Guild Assistant Janitor
+>Likes: Her Parents, Acessories, Gourmet Snacks (Her Fav is Flavored Popcorn!)
+>Dislikes: Ghosts, Violence, Alcohol
+>The mon' who found Maxi, incredibly rich, and took the job with Maxi because she wants to experience the working world.
+>Incredibly shy and skittish, but can also be snarky and even a little agressive when she wants to be, ironic considering she hates violence.
+>She tends to wear a different accessory every day.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy

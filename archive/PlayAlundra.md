@@ -3,6 +3,7 @@
 ->![Please play Alundra it is a cool 2D "Zelda-like" even when that term does Alundra disservice. It focuses more on puzzles and story than Zelda but not in PS4-PS5 way. You can jump in it as well! It's a cool adventure! Do give it a shot on emulator with a legal .iso file you got from making back-ups from your own disc you bought from a retailer back when PS1 games were sold. Or buy it on some Playstation I dunno. Or just Yarr Harr or something.](https://files.catbox.moe/8xtfya.jpg)<-
 
 ->Yo<- 
+->We are so back<-
 I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
 All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude and GPT-4 on Silly Tavern
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.

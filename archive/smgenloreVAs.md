@@ -121,6 +121,7 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	- Irina Jelavic (Assassination Class)
 	- Officer Jenny (Pokemon Anime, later roles)
 	- Daidouji *~~aka huge titted delinquent~~* (Senran Kagura)
+	- *Also done quite a few American TV ads. [Exhibit A](https://ispot.tv/a/oOC0) [Others](https://www.ispot.tv/topic/actor-actress/LYU/martha-harms)*
  - Apollo 			  = Phil Parsons
 	- *{Classic has the same VA}*
 	- Chiron
@@ -362,6 +363,10 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	- Dr. Zed Blanco (Borderlands)
 	- Narrator (Age of Empires II)
 	- Gordon Quick / Max Chen (Deus Ex)
+ - Charon 			  = Earl Fisher
+	- Pretty Boy (Borderlands 3 DLC: Moxxi's Heist of the Handsome Jackpot)
+	- Big Bear (Fatal Fury)
+	- Pasqually (Chuck-E-Cheese)
  - Charybdis 			  = Xanthe Huynh
 	- Willo (Paladins)
 	- Haru Okumura (Persona 5)
@@ -705,7 +710,7 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	- Gonzo Tarukane (Yu Yu Hakusho)
 	- *{Genuinely though it was Adam from Mythbusters at first, but no, he's just a lookalike VA}*
  - Ishtar 			  = Dalia Ramahi
-	- *{Another actress trained in traditional theatre, this time around a Arabic-first language girl. Trying to make headway into the wider industry, currently a primary school teacher and had been taking internal corporate advertisment odd-jobs before this}*
+	- *{Another actress trained in traditional theatre, this time a Arabic-first language girl. Trying to make headway into the wider industry, currently a primary school teacher and had been taking internal corporate advertisment odd-jobs before this}*
  - Isis 			  = Caitlin Glass
 	- *{Classic has the same VA}*
 	- Lian (Paladins)
@@ -719,6 +724,8 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	- Maya Ibuki (Evangelion)
 	- Lilian Weinberg (Dr. Stone)
 	- Thorn (Battleborn)
+ - Ix Chel			  = Pilar Uribe
+	- *{Established bilingual actress, who primarily does work the the Spanish language rather than English. Seemingly lots of adwork}*
  - Izanami 			  = Lisa Ortiz
 	- **Amy Rose** (Sonic the Hedgehog)
 	- Lina Inverse (Slayers)
@@ -812,6 +819,8 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	-  *{Mostly a TV actor, side characters and indie movies}*
  - Classic Loki 			  = Ashley Wood
 	-  *{Mostly a TV actor, lots of smaller scale stuff + a few political ads}*
+ - Martichoras 			  = Tim Bick 
+	-  *{Established British Radio Jockey, pivoting into Voice Acting. Lots of minor adwork, apparently big into museum audioguides over there}*
  - Maui 			  = Brent Mukai
 	- Sho Minamimoto (The World Ends With You Anime)
 	- Dragon's Dream Stand (JoJo's Bizarre Adventure Part 6: Stone Ocean)
@@ -1106,6 +1115,13 @@ Alphabetically in order of cross-roles within LoRez, then subjectively in what I
 	- Amidamaru / Rio (Shaman King)
 	- Scar *aka the MC* (Wulin Warriors: Legend of the Pleiades) *~~(The Precursor series to 'Absolute Puppetkino' aka Thunderbolt Fantasy)~~*
 	- A huge chunk of the Thumbs in the Thumb Wrestling Federation
+ - Surtr 			  = Marc Graue
+	- ***~~HOLY FUCKING SHIT HE'S~~* Mario, Luigi & Bowser** [(Hotel](https://youtu.be/-Dv_DXqdC9k) [ Mario)](https://youtu.be/BYXVhTUIQGc) *{Youtube Poop Legend}*
+	- Super Mutants (Fallout New Vegas) *[One of 3 Voice Actors for all of them]*
+	- Fenix (Starcraft II)
+	- Cpt. John Licorice (Codename Kids Next Door)
+	- Xin Fu (Avatar: The Last Airbender)
+	- Mr. Zurkon (Ratchet & Clank)
  - Susano 			  = Jim Foronda
 	- **Claptrap** (Borderlands, later roles)
 	- Dr. Mindbender (G. I. Joe)

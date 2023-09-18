@@ -17,7 +17,7 @@ Neiomi Cielo|[Youtube](https://www.youtube.com/@neiomicielo) [Twitter](https://t
 Roza Coatl|[Youtube](https://www.youtube.com/@GiniMercury) [Twitter](https://www.youtube.com/@GiniMercury)|Shapeshifter theme. Former Lucid streamer turned Indie. Nyana's Friend.
 Kerimara|[Youtube](https://www.youtube.com/@kerimaravt) [Twitter](https://twitter.com/kerimaravt)|Flamingo. One of Sena's many wives.
 S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twitter.com/isaboatvtuber)|Singer. Boat theme. One of Sena's many wives.
-Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and has privated all her stuff. Sena's Friend.
+Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and privated all her stuff but has come back from the pipkin. Sena's Friend.
 
 ---
 

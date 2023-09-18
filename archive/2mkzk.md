@@ -5,18 +5,18 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/09/14-23/09/17 (yy/mm/dd)
+##23/09/21-23/09/24 (yy/mm/dd)
 
 ##Melts
 
-**THU: Daibu offline at 2UTC (Parsec)** possibly saturday isntead
-**FRI: Golden SUN at 2UTC (Telemelt)**
+**THU: - at 2UTC ()** 
+**FRI: - at 2UTC ()**
 **SAT: Daibu offline at 2UTC (Parsec)**
-**SUN: Boktai 2 at 18:00UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
+**SUN: Minemelt at 17:30UTC* (Minecraft)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes
 
-**SAT: Rockman.exe Stream at 16UTC** Episodes 40-44/45
+**SAT: Rockman.exe Stream at 16UTC** Episodes 45-51 (end)
 **SUN: - at 15UTC** 
 >-
 nothing

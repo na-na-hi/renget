@@ -85,7 +85,7 @@
 
  -> ![Classic Splash](https://files.catbox.moe/0e33c4.jpg) <-
 
- -> ![Classic Concept Obsc.](https://files.catbox.moe/4x8t46.jpg) <-
+ -> ![Classic Concept](https://files.catbox.moe/wl2w07.jpg) <-
 
  -> ![Classic Model](https://files.catbox.moe/yizl54.jpg) <-
 
@@ -93,7 +93,7 @@
  -> **He Bo** <-
  -> = *Rwhuaa Bua* <-
  -> *{Don't ask}* <-
- -> *{He Bo is in of itself another title, not a name - guy's real name is Fengyi / Bingyi (no direct relation to Hou Yi, but he is Chang'E's brother, and did get into fights with Hou Yi in the form of a Dragon, as you can see referenced with his hands)}* <-
+ -> *{He Bo is in of itself another title, not a name - guy's real name is Fengyi / Bingyi (no direct relation to Hou Yi, but he is Chang'E's brother, and did get into fights with Hou Yi in the form of a Dragon, as you can see referenced with his dragon-hands)}* <-
  -> *{He = Great River (usually in reference to the Yellow River, but applies to other region's great-rivers such as the Nile or the Amazon), Bo = Honorary title, rougly on the level of Lord / Earl; signifying He Bo's place in the Heavenly Court}* <-
 
  -> ![Splash](https://files.catbox.moe/e09k9n.jpg) <-
@@ -153,6 +153,7 @@
  -> **Xing Tian** <-
  -> = *Shing (t)Chi-Ann* <-
  -> *{Don't ask. The name is onomatopoeic for clashing blades}* <-
+ -> *{SHING!..... TCHIANN!....}* <-
 
  -> ![Splash](https://files.catbox.moe/75vd16.jpg) <-
 

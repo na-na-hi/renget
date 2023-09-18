@@ -72,6 +72,7 @@
 08/2023|[From Sparse to Soft Mixtures of Experts](https://arxiv.org/abs/2308.00951)
 09/2023|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 09/2023|[MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (MT Model)](https://arxiv.org/abs/2309.04662)
+09/2023|[Scaling Laws for Sparsely-Connected Foundation Models](https://arxiv.org/abs/2309.08520)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)

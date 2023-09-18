@@ -20,7 +20,8 @@ Thread Number | Short Description
 Date of Event | Time Elapsed | Quest or Event | Short Description
 :----: | :----: | :----: | :----: 
 0/1/1 | ??? | #00 No Stranger to Disaster | A voice calls out, wondering if anyone will answer its plea.
-1/1/1 | ??? | #EV01 Abrupt Awakenings | The call has been answered! But... where are you?
+1/1/1 | 4 days | #EV01 Abrupt Awakenings | The call has been answered! But... where are you?
+1/5/1 | ??? | #EV02 Town Called Baram | Out of the bonfire and into the coast.
 
 ## Narrative Summarization
 !!! note (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #00 No Stranger to Disaster 
@@ -30,3 +31,5 @@ This world is full of peril and danger greater than what the natives can handle 
 You wake up in a strange place, with even stranger company. Whatever and wherever you are, this definitely isn't Kansas or Kalos anymore. Structures older than you've ever seen before tower over you, exploring the ruins with others who are all supposedly share the same predicament as your own. Eventually encountering mysterious gates leading to far-flung places, you're encouraged by an eccentric Orbeetle, Turning Trails, to escape through them. The supposed stranded 'mon is a seeker of glory, a treasure hunter! But that's just his word...
 
 Arriving on the plains of the Air Continent, almost immediately do you find yourself beset by a challenge from nature. A stormful of ash clouds the sky, threatening to choke you out or leave you as a burnt crisp. Scrambling together under the pretense of survival, the group manages to assemble a shelter in time to survive the disaster and ride it through the night. Raining embers... what an odd sight.
+
+!!! note (9/16/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV02 Town Called Baram

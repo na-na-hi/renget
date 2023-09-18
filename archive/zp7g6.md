@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated September 13 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated September 18 2023*
 
 [TOC]
 
@@ -479,6 +479,16 @@ kaai yuki
 kaai yuki, loli, blush stickers, school uniform, red dress, pinafore dress, red ascot, backpack, randoseru, bag charm, socks, white socks, brown footwear, mary janes, hair bobbles, bangs, twintails, short hair, black hair, brown eyes
 ```
 
+[Kamiko Kana (Shrine Fox ver.) - VTuber](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ic1SAaBR) | Character Prompt | Longer Prompt
+:------:|:------:|:------:
+![](https://i.imgur.com/qmhRvEP.png) | ![](https://i.imgur.com/GJb3waU.png) | ![](https://i.imgur.com/x2be7iq.png)
+
+```
+kamiko kana
+```
+```
+kamiko kana, loli, fox girl, animal ear fluff, fox tail, japanese clothes, black kimono, off shoulder, spaghetti strap, corset, belt, obi, back bow, white skirt, black thighhighs, ankle ribbon, platform footwear, neck bell, collar, mask on head, hair bell, hair ribbon, jingle bell, red ribbon, hairclip, x hair ornament, thick eyebrows, hair flaps, ahoge, two side up, long hair, streaked hair, white hair, yellow eyes
+```
 
 [Klee - Genshin Impact](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WBMEjbxJ) | Character Prompt | Longer Prompt
 :------:|:------:|:------:

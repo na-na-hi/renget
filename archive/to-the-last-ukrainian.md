@@ -132,6 +132,19 @@
 >"What do you want?"
 >"Help!"
 
+[ [catbox](https://files.catbox.moe/92qkxp.MP4) ]
+>"This is how in Lviv [they] pack up [people]"
+>"Guy was standing on a bus stop, [they] beat [him]..., [they] pack..."
+>[distant voice] "The fuck are you doing?"
+>"Then call the police why are you touching him?"
+>"Hey, fuckers! Why the fuck are you hitting him?"
+>"Let him go, you are worse than katzaps"
+>[incomprehensible response]
+>"Cut your bullshit, we saw everything, I am filming"
+>"You look at yourself hear, kurva"
+>"Drive the fuck out of here"
+>"Yeah, go go [obscene]"
+
 **No sound:**
 
 [ [catbox](https://files.catbox.moe/tn9ge3.mp4) | [ipfs](https://ipfs.io/ipfs/QmX3XfLsyMz13H4gkFF7V5zt2LdA5Wj2tLBFWRMMDVdw6V) ] - Desperately latching onto the traffic sign

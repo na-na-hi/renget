@@ -417,4 +417,6 @@ https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
 https://arch.b4k.co/vp/thread/54471901/ 3 nice op, retard
 https://arch.b4k.co/vp/thread/54478434/ 4 a huge and desolate map
 https://arch.b4k.co/vp/thread/54485576/ 5 THE MAD BULL IS COMING
-https://arch.b4k.co/vp/thread/54489115/ 6
+https://arch.b4k.co/vp/thread/54489115/ 6 the writer's barely disguised fetish
+https://arch.b4k.co/vp/thread/54497333/ 7 checked
+https://arch.b4k.co/vp/thread/54506876/ 8

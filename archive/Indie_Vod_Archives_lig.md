@@ -72,7 +72,7 @@ Content|Link|Description
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
 Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)
-Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YsVs0iFMz4AkAv9RTvZ12)
+Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)
 Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)
