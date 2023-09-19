@@ -44,7 +44,7 @@ You can try and train a test model using the dataset provided in data/default to
 
 Below is a breakdown of the training args
 
--> ![Evo-Tuner ui](https://imgur.com/MoBXcMy) <-
+-> ![Evo-Tuner ui](https://imgur.com/MoBXcMy.jpg) <-
 
 
 
@@ -85,6 +85,21 @@ This section is for going through the steps to animate using Animate Diff in a n
 - 16 frames is the sweet spot for performing animate diff. Any lower or higher and the outputs can become messy unless the sliding window effect in the cli-prompt travel is implemented into A1111 and ComfyUI. There are efforts being made to test different lengths of videos in training to alleviate it as well.
 - so far, all the implementations only output .gifs which isn't very good quality (very noticeable banding). Consider using ffmpeg commands to combine the frames into a better video format like mp4, mkv or webm or just use [ezgif](https://ezgif.com/). Video editors work as well such like [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve).
 - The base motion modules are trained on natural language captions (ie: a woman running, a man waving, etc.). However, keywords seem to be enough to proc the correct motion. The trick is to use present tense verbs close to the noun that is performing the motion.
+
+ CFG has a noticeable effect on the quality of the output. Below is two grids comparing values. The prompt for the first one is the example found in this [repo](https://github.com/BlenderNeko/ComfyUI_TiledKSampler). These grids were made by an anonymous user.
+
+
+->*The image below contains the ComfyUI workflow*<-
+
+-> ![comfy workflow](https://imgur.com/SseI6w9.png) <-
+
+Example A | Example B
+----- | -----
+[Grid A](https://files.catbox.moe/dja8ge.webm) | [Grid B](https://files.catbox.moe/qc2m0x.webm)
+
+Post processes done to the video include: 
+>using the [output tab of the deforum extension](https://rentry.org/AnimAnon-Deforum#video-output), video set to 24fps, using the FILM engine, with settings interp 6 slo-mo 3.
+
 
 ###A1111
 !!! note PLEASE REMEMBER TO DO STEP THREE IN THE INSTALL GUIDE:

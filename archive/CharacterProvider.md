@@ -78,6 +78,8 @@ Sometimes I leave orthographic mistakes. If they are major - I fix them and reup
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
+19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended.
+ |  | **Features:** Gives similar outputs to Claude v2 with v10.1. May loop on surrounding descriptions and write as user too with certain cards.
 16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Tryng to make GPT more active in RP and a bit pervy for Ecchi adventures.
  |  | **Features:** Still testing. AI tries to respond in *reaction* -> *action* structure.
 
@@ -268,6 +270,27 @@ Here is a visualization:
 - - -
 # 
 ## ![](https://files.catbox.moe/5eij7u.png) GPT PROMPTS
+# 
+- - -
+- - -
+- - -
+# 
+###GPT-AP-2
+#
+
+**Preset and Prompts**
+Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+#
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/ppetej.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/ppetej.zip)
+#
+!!! **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
 # 
 - - -
 - - -
