@@ -6,8 +6,7 @@
 ![owari da](https://files.catbox.moe/cshb0y.PNG)
 closed by order of the health inspector, too much cunny in the kitchen
 chefseru@proton.me for all your logs, manifestos, and cat porn
-!!! info
-	putting a notice here so as not to shit up the /aicg/ thread, but access to any stable turbo/claude/gpt4 would be useful since I'm shit out of ingredients to cook with, don't want to hoard so I'll take this off once I get a crumb
+
 ***
 # MENU
 [TOC2]

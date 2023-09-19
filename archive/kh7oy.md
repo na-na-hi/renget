@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=KIP2_LJdi0I
 https://www.youtube.com/watch?v=qfj6ZEpf78g
 「!」Super Mario RPG 2nd Trailer
 https://www.youtube.com/watch?v=e_kuPoLw9Wc
-「!」Mario vs. Donkey Kong (Remake) Revealed
+「!」Mario vs. Donkey Kong Remake Revealed
 https://www.youtube.com/watch?v=5sPwqplxHXc
 
 ----

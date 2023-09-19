@@ -71,10 +71,8 @@ Training Steps | iterations of updated weights and biases.
 Validate Steps | WIP
 Train Whole Module (true/false) | train over the existing motion data or add yours on top on the dataset.
 
-
-
-
-
+###CLI Finetune
+another anon put together a configuration and findings using the CLI finetuning. you can find it [here](https://rentry.org/vpu8uh).
 
 ####Captions
 There are two ways to go about captioning: one is to interrogate images sampled and interrogated using WDTagger or BLIP then curate the captions . The other is to do the captions by hand. You'll notice in the test data the captions are all contained in one .txt file. 
@@ -89,7 +87,8 @@ This section is for going through the steps to animate using Animate Diff in a n
 - The base motion modules are trained on natural language captions (ie: a woman running, a man waving, etc.). However, keywords seem to be enough to proc the correct motion. The trick is to use present tense verbs close to the noun that is performing the motion.
 
 ###A1111
-!!! note the ddim fix for latest is a PR in the repo, pull that if you plan on using the latest version of webui.
+!!! note PLEASE REMEMBER TO DO STEP THREE IN THE INSTALL GUIDE:
+	Enable Pad prompt/negative prompt to be same length and Batch cond/uncond and click Apply settings in Settings. You must do this to prevent 			generating two separate unrelated GIFs.
 
 If you want prompt travel functionality, you'll need to use this [fork](https://github.com/DavideAlidosi/sd-webui-controlnet-animatediff) with the controlnet changes.
 

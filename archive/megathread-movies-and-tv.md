@@ -129,6 +129,10 @@
 - Best place for movie enthusiasts to watch streaming movies with our regularly updated database.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixtor.id)
 
+### ▶️ [FlixWave](https://flixwave.to/)
+- Modern website for watching tens of thousands of HD movies and TV episodes, free of charge.
+- [URL Safety Results](https://www.urlvoid.com/scan/flixwave.to)
+
 ### ▶️ [GOKU](https://goku.sx/)
 - Awesome place for free HD streaming without registration at all, including subtitles in several languages with a single click as well.
 - [URL Safety Results](https://www.urlvoid.com/scan/goku.sx)

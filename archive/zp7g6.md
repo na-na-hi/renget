@@ -189,8 +189,10 @@ More info about the comparison table and preview images can be found in the **[A
 ![](https://i.imgur.com/YLpOCbK.png) | ![](https://i.imgur.com/XHTg374.png)
 [Sirfy](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WY9ywK7Q) | [So-taro](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OR12jSyS)
 ![](https://i.imgur.com/UjpVl9L.png) | ![](https://i.imgur.com/El2XTjI.png)
-[SSBU Character Render (Super Smash Bros. Ultimate)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vVdE0BqA) | [Sy4](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bBkkBBzS)
-![](https://i.imgur.com/N6FCd5R.png) | ![](https://i.imgur.com/rX92Xgp.png)
+[Spaga](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMsQTSDC) | [SSBU Character Render (Super Smash Bros. Ultimate)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vVdE0BqA)
+![](https://i.imgur.com/R4IhNRn.png) | ![](https://i.imgur.com/N6FCd5R.png)
+[Sy4](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bBkkBBzS) | []()
+![](https://i.imgur.com/rX92Xgp.png) | ![]()
 
 ### T
 [Tamanoi Peromekuri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WUt12DZR) | [Tamaya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bFllFYQK)

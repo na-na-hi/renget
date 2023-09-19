@@ -251,9 +251,17 @@ Inigo, Hoge, and Eri entered the sea otter exhibit, instantly melting as the pla
 
 Next, they moved through displays of odd deep sea creatures, surrounded on all sides by the eerie glowing tanks. Spindly spider crabs crept along the seabed while anglerfish dangled their bioluminescent lures. Hoge pointed out viperfish with their long needle-like teeth. Eri stared wide-eyed for a moment before scurrying to hide nervously behind Hoge. Inigo joined them and rubbed Eri's back comfortingly until they got to the end of the tunnel.
 ***
--> !["I bet these fish throw the wildest underwater parties. Where's my invite?" - Inigo](https://i.imgur.com/cjyLlkh.png) <-
+-> !["I bet these fish throw the wildest underwater parties. Where's my invite?" - Inigo](https://i.imgur.com/CVeRweV.png) <-
 ***
 The tropical ocean tunnel instantly lifted Eri's spirits again! She flitted eagerly from tank to tank, utterly enchanted by the bright colors and chaotic motion of the reef. "They're so pretty!" she exclaimed as a parrot fish swam past in a blur of rainbow scales. Inigo had to stifle a laugh when they passed the blobfish, miming being trapped in an invisible box. Hoge struggled not to smile as she pointed out that blobfish don't look silly in their normal habitat.
+
+"Hey Eri! Look! Does my face match it?"
+
+"I want to try!" 
+
+Gigan mewed and joined along. Soon, the dragon, Inigo, and Eri were stretching their faces doing their best to imitate the blobfish in front of Hoge. 
+
+"Coru-chan! Pick! Who's the best match?" Hoge placed her hands over her mouth and for a moment Inigo thought she was gonna get mad, but then she started to burst out laughing. It was music to his ears, Inigo and Eri shared a look and he grinned. "She laughed so that means we all win!" Eri cheered.
 
 -> !["Y'know sometimes I wished we waited before having a kid-ow! I'm kidding!" ](https://i.imgur.com/13ew8dk.png) <-
 Inigo's dramatic dismay at the lobsters and oysters in the shellfish hall nearly got them kicked out. Only Hoge's quick lecture on crustacean anatomy placated the disgruntled staff and saved them. Afterwards, she banned any further anti-oyster rants. Inigo grumbled but gave in when she stroked his wrist apologetically. Forgiveness came quickly when Hoge was involved. They found some time for each other while Eri joined a group of children to listen to a guide.
@@ -270,7 +278,7 @@ Eri's eyes went huge at the towering confection. "This is the biggest ice cream 
 
 Inigo grinned and nudged Hoge. "Told ya the fish bowl sundae would blow her mind." Hoge just shook her head with an indulgent smile, eyes soft behind her glasses. Eri looked utterly content picking away at the icecream abomination.
 ***
--> !["Neh-chan! How do jellyfish know where they're going if they don't have eyes?" -Eri ](https://i.imgur.com/ouFr9qh.png) <-
+-> !["Neh-chan! How do jellyfish know where they're going if they don't have eyes?" -Eri ](https://i.imgur.com/tfjQobX.png) <-
 ***
 After two hours, Inigo, Hoge, and Eri wandered out of the Aquarium gift store and into the jellyfish exhibit, with Eri clutching a pair of shark and dolphin plushies. They each stood mesmerized by the otherworldly creatures pulsing in the darkness. "It's like they're ghosts," Eri breathed out, eyes going wide as she stared up. "Look at them floating!"
 
@@ -807,10 +815,10 @@ Inigo's brain short-circuited at the intimate contact. His eyes went wide as und
 
 "O-oh!" he stammered out eloquently, face heating up. "Did you want me to pick...you?"
 
-Hoge pulled back just enough to nod, her own cheeks adorably pink. "Okay, I pick you," Inigo's eyes softened as he gazed at Hoge, her cheeks still flushed pink. Slowly, gently, he leaned in, bringing his hand up to cup her face. Hoge's eyes fluttered closed as their lips met in a  kiss. Inigo rested his forehead against hers, his thumb tracing small circles on her cheek as they both fell back on the bed.
+Hoge pulled back just enough to nod, her own cheeks adorably pink. "Okay, I pick you," Inigo's eyes softened as he gazed at Hoge, her cheeks still flushed pink. Slowly, gently, he leaned in, bringing his hand up to cup her face. Hoge's eyes fluttered closed as their lips met in a  kiss. Inigo rested his forehead against hers, his thumb tracing small circles on her cheek as they both fell back on the bed, wrapped around each other.
 
 ***
-Inigo ends up not taking any of the plushies home that night.
+"So, can I stay the night?"
 
 ***
 -> ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div2](https://media.discordapp.net/attachments/903364339464044575/1101868624907608135/B98E28C4-16E2-4B9D-9D36-116B0CEFBA61.gif)  ![dv1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) <-

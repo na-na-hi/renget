@@ -1,18 +1,24 @@
+# Ass-Man's Rentry Page
+
 ## /ag/ - Ass General
 
-Ass WebM collection (At 2100 WebMs, or just over 10 hours of content.): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
+Ass WebM collection (At 2300 WebMs, almost 11 hours of content.): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
 
-## /tg/ Tits General
+## /tg/ - Tits General
 
 Tits WebM collection (At 1000 WebMs): https://mega.nz/folder/xEwwxKaD#csYF6cbdr3NId2xAbilZug
+
+Unsorted WebMs (2735 files left to sort through): https://mega.nz/folder/BZg0SYgB#OksCtTLJr_EwDrMnWqm7qA
 
 ## /fg/ - Fellatio General
 
 Fellatio WebM Collection (At 170 WebMs): https://mega.nz/folder/VZ4WER6b#5bMUs2dPUKLPc5JqpZeeeQ
 
-## HELP WANTED
+## Other collections
 
-Need help with setting up a torrent version of the collection, if anyone from /t/ can lend a hand that'd be cool. I'm not technically illiterate but torrent related stuff isn't an area of expertise for me. Drop by the discord and let me know what I need to do. Seeders will also probably be needed too.
+Titjob collection (Mostly unsorted): https://mega.nz/folder/hQ5FHTqK#8TTPAk0qkSS3nxywyo_IiQ
+
+Ebony Chick collection: https://mega.nz/folder/ld5wyCwB#FGgpk5MMjXdrfmw0XpLrXw
 
 ## Miscellaneous
 
@@ -27,6 +33,7 @@ Tools I use:
 [GChan - Scrape 4chan boards for archiving purposes.](https://github.com/Issung/GChan)
 [MP3Tag - Edit WebM metadata.](https://www.mp3tag.de/en/)
 [Handbrake - Encoding nonsense, I don't mess with this often.](https://handbrake.fr/)
+[Mega Desktop App - A lot of good tools for maintaining a collection, and a free 5 GB added to your account.](https://mega.io/)
 
 Fancy tools:
 [Flowframe - If you have a good GPU, you can use this to increase the FPS of your WebMs.](https://nmkd.itch.io/flowframes)
@@ -48,3 +55,7 @@ for %%A in (*) do (
 )
 
 endlocal
+
+##Special Thanks to...
+
+Ziplineattack from the discord for sharing his collection. If it weren't for him, the collection would be a lot smaller. Rock on dude.

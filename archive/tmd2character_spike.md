@@ -21,12 +21,12 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 5 (20 HP) | 20 HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -34,8 +34,8 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Leer | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Torment | - | 4 AP | ≥2 | Dark | Status | The Opponent is unable to use the same move in several times in succession.
 Scratch | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
-Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+==REPLACE== | 0 BP | 0 AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Basic Attack | 4 BP | 4 AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.

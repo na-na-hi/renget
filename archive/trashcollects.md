@@ -336,6 +336,9 @@ A Vpred model, you need both a safetensor and an accompanying yaml file. See her
 
 	https://huggingface.co/zatochu/EasyFluff/tree/main
 
+What are Fun/Funner Editions?
+
+![Explanation](https://files.catbox.moe/8m87z9.png)
 
 ## Galleries
 

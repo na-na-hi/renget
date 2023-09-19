@@ -1,5 +1,4 @@
-![Orner](https://matrix-client.matrix.org/_matrix/media/r0/thumbnail/matrix.org/YnuGDvoLtCwQRDAoXmWRwQWV?width=800&height=600&method=scale) 
-
+![Daddy's Girl](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lPhqaJTsQWvkrZwuqhtjyLlO)
 ### Orner ♀
 Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss. Currently wrangling a bunch of insane critters after being spacially displaced
 
@@ -92,3 +91,5 @@ Name of Move | Description
 ------ | :----: 
 Wrap | The Opponent is afflicted with Wrapped.
 Eᴍᴘᴛʏ | Description
+
+![What do you want? The page's over. Go home.](https://matrix-client.matrix.org/_matrix/media/r0/thumbnail/matrix.org/YnuGDvoLtCwQRDAoXmWRwQWV?width=800&height=600&method=scale)

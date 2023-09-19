@@ -242,6 +242,10 @@ Elliott | Info
 ![](https://files.catbox.moe/9uco68.png)   | You caught a (non-contagious) shrinking disease that's reduced you to seven inches tall. Thankfully your best friend Elliott has stepped up to take care of you and give you a sense of normalcy (and lots of size-based cuddles).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/elliott-3e143728),  [Catbox](https://files.catbox.moe/z2he6r.png)
 
+Edgar | Info
+:----:  | :----: 
+![](https://files.catbox.moe/yo7pg9.png)   | You're having a hard time sleeping when a strange young man in fancy clothes shows up in your bedroom offering to help. Surely he means well, right? Inspired by [Dream-Eating Monochrome Baku](https://www.youtube.com/watch?v=qYlGv9BJTCY)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/edgar-a627b3da),  [Catbox](https://files.catbox.moe/ygb9rs.png), [Alternate card art](https://files.catbox.moe/9erc3g.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

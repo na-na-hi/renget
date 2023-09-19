@@ -3,17 +3,11 @@
 [TOC]
 
 #Pending Requests
-1. Lliam is wearing a casino dealer outfit with a tophat, a blend between a magician and a casino dealer outfits. It illustrates his expertise on wands and as an Entercard user (Entercards, in a nutshell, manipulate space with magnagate by entering mystery dungeons). On his right hand, he holds his Calida wand, and on the left, he holds a playing card (probably an ace), covering his left eye. What the card shows is the Clover Guild emblem with a nonchalant smile on his face, perhaps haughty that he won the game. Maybe even the eyes glow blue. Or, as an alternative, he smiles in a creepy way, giving the impression of the opponent's absolute defeat. In the background, it will have a bunch of playing cards scattered about, but it can be seen that each card represents every Clover Guild member in a simplified art style.
+1. Either Smith or Nida as this https://files.catbox.moe/8ae7qx.jpg
 
-1. Wooper riding on Squishy's back
+1. Booker sitting on a flower and chatting with Minun
 
-1. Chespin/Wooper/Gus walking with a large blanket wrapped around the three
-
-1. A Wooper version of "[Just screaming](https://files.catbox.moe/xwghve.png)"
-
-1. A full redraw of that Dr. Doom doots meme with Elm and Gus
-
-1. This https://www.youtube.com/watch?v=RzZaKvhJNiU with Chespin holding an Oran Berry replacing Shadow, and Toge giving a thumbs up in the background. Maybe a KO'd Cyndaquil in the background.
+1. Wooper riding Squishy
 
 1. Boss Chiller https://files.catbox.moe/8pv2ws.jpg with Debby and Linoone as the sherrif and deputy, with pelippers being blown up in the background
 
