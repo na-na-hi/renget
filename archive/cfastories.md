@@ -1,12 +1,13 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #31 (Monday, 11 September 2023, 23:15 UTC)<-
+->Last updated on thread #32 (Tuesday, 19 September 2023, 20:00 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
+- [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D skull model - red fox drawing reference.)
 
 == **TABLE OF CONTENTS**
 [TOC2]

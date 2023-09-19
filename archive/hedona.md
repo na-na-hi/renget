@@ -12,7 +12,7 @@ Contact me here: hedona@tutanota.com
 ###New
 ->Dionaea<-| ->Monoko<-| 
 --|--
-->![Daughter of Venus](https://files.catbox.moe/5dx3pc.png)<- |->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|
+->![Venussy](https://files.catbox.moe/5dx3pc.png)<- |->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|
 [CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)|[CHUB link](https://www.chub.ai/characters/Hedona/monoko-04e0c1f9)
 Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |
 ----------------------------------------------------------------------------- | -----------------------------------------------------------------------------
@@ -26,7 +26,7 @@ Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an 
 ->⟡△Name△⟡<- | Link n' Stuff | ->⟡△Name△⟡<- | Link n' Stuff
 ------ | ------ | -- | -----
 ->**Dionaea**<-|[CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)| ->**Elodie**<-|[CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
-->![Daughter of Venus](https://files.catbox.moe/5dx3pc.png)<- |Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|->![Now comes with pantyhose!](https://files.catbox.moe/rxulbg.png)<-|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
+->![Venussy](https://files.catbox.moe/5dx3pc.png)<- |Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|->![Now comes with pantyhose!](https://files.catbox.moe/rxulbg.png)<-|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
 ->**Janus**<-| [CHUB link](https://www.chub.ai/characters/Hedona/janus-52395319)  | ->**Suzuka**<- | [CHUB link](https://www.chub.ai/characters/Hedona/suzuka-1fcac18a)
  ![(twincest route?)](https://files.catbox.moe/prwzl9.png) |  There's a woman standing at your door who looks exactly like you. She claims you're her doppelgänger. |  !["She is cool" = true](https://files.catbox.moe/hpxqst.png) | Suzuka is a fiery, thrill-seeking street racer fueled by adrenaline and danger.
 ->**Kim Yoon-su**<- | [CHUB link](https://www.chub.ai/characters/Hedona/kim-yoon-su-cf4948e5/) | ->**Zosime**<- | [CHUB link](https://www.chub.ai/characters/Hedona/zosime-c961bff0)

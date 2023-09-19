@@ -8,10 +8,11 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2653* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2680* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
+/(?=.\*Armain)(?=.\*(one|1) drawfag)/ims;boards:trash;op:no
 /go back where you came form/i;boards:trash;op:no;file:no
 /you fat, stinking and you ugly/i;boards:trash;op:no
 /favelanigger/i;boards:trash;op:no

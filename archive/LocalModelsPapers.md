@@ -105,6 +105,7 @@
 08/2023|[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://archive.ph/J8xMD)
 08/2023|[D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://arxiv.org/abs/2308.12284)
 08/2023|[Code Llama: Open Foundation Models for Code](https://archive.ph/O690K)
+09/2023|[Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -357,6 +358,7 @@
 09/2023|[When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale](https://arxiv.org/abs/2309.04564)
 09/2023|[Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs](https://arxiv.org/abs/2309.05516)
 09/2023|[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
+09/2023|[Cure the headache of Transformers via Collinear Constrained Attention](https://arxiv.org/abs/2309.08646)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

@@ -57,6 +57,7 @@ Name | Origin | Pokémon | Occupation | Affiliation
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
 [Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini
+[Lilac](https://rentry.co/tmd2character_lilac) | Native | Delibird | Merchant | Unaffiliated
 [Roaring, Burning Darkness](https://rentry.co/tmd2character_RoaringBurningDarkness) | Native | Roaring Moon | Bishop | Ho'oha Priest
 [Roswen Flame Eater](https://rentry.co/roswen) | Native | Walrein | Clan Elder | Clan Cerussite
 [Light](https://rentry.co/tmd2many_characters_light) (Example) | Native | Raboot | Wannabe-Peacekeeper | "Justice" 

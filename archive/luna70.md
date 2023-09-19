@@ -1,9 +1,11 @@
 ###Honkai v7.0 Theresa Lunar Vow skill translation v2
 Translation by Aki. Updates by Marisa.
 
-Luna Pledge Translation: https://rentry.co/luna70
+Patch Note: https://rentry.co/70log
+Lunar Vow Translation: https://rentry.co/luna70
 Luna Gear Translation: https://rentry.co/lunagear
 HoS Brick and Pericles stigma: https://rentry.co/hosbrick 
+Elysian Realm: https://rentry.co/er70
 
 ---
 !!! info
@@ -50,7 +52,7 @@ After casting I'LL PROTECT YOU, the next Ultimate Finisher additionally deal 200
 
 **PASSIVE 3**
 ~~v1: Upon entering [Madness] mode, gain 18% Elemental Breach, last for 15s (can be refreshed).~~ 
-**v2: Teammates with paralyze or bleed tag grant a charge when using Ultimate. After using Blood Feast, gain 10% Elemental Breach. If a charge is available, consume the charge to gain additional 8% Elemental Breach, last for 15s (can be refreshed).**
+**v2: Teammates with paralyze or bleed tag grant a charge when using Ultimate. After using Blood Feast, gain 10% Elemental Breach, if a charge is available, consume the charge to gain additional 8% Elemental Breach, last for 15s (can be refreshed).**
 
 ---
 
@@ -117,7 +119,7 @@ Luna Pledge breaks her dual-chainsaw into two, rushes at the enemy to slash them
 Upon casting Ultimate, all Lightning teammates gain Elemental Breach state: Elemental Breach +11% (S0) / 14% (S1) / 17% (SS), last for 16s, can be refreshed.
 
 **ULTIMATE 3**
-When enemies take Bleed DMG, they will receive **+10%(v1) > 15%(v2)** more Lightning DMG. Enemies also take 50% more bleed dmg from Lunar Vow, last for 12s (can be refreshed).
+When enemies take Bleed DMG, they receive **+10%(v1) > 15%(v2)** more Lightning DMG, they also receive 50% more bleed dmg from Lunar Vow, last for 12s (can be refreshed).
 
 ---
 

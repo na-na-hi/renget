@@ -1,5 +1,4 @@
 # koikoikoi's cards
-## Burner: koikoikoiburner@proton.me
 ![Huyen](https://files.catbox.moe/07g43c.png)
 *Huyen! Your cute Vietnamese childhood friend! Updated with one more alternate greeting!*
 https://files.catbox.moe/ak1bhv.png
@@ -60,3 +59,8 @@ https://files.catbox.moe/dtrpa7.png
 *Katherine, the egotistic, overachieving, genius musician. Features three different greetings!*
 *Music for the vibe: https://www.youtube.com/watch?v=FLRgldD8nkc&pp=ygUhZGV2aWwgaW4gYSBuZXcgZHJlc3MgaW5zdHJ1bWVudGFs*
 https://files.catbox.moe/dpqj51.png
+
+![Just putting this out here...](https://files.catbox.moe/m1m99r.png)
+*Sarah, professional and ever helpful. Features four different greetings.*
+Slaude-friendly version (~200 tokens): https://files.catbox.moe/xp5cdp.png
+Heavy, ~1k token version. Highly recommended if you have anything better than Slaude! Works rather well with local, too, from what I have seen: https://files.catbox.moe/bureqn.png

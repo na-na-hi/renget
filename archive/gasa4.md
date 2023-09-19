@@ -4,5 +4,5 @@
 ❝ [*v*](https://pronouns.cc/tdu)ivian 𓂃 shi */* hym 𓈒　₊ ![transfem](https://media.discordapp.net/attachments/1041941203425427549/1147332717814493205/Untitled1787_20230901205025.png)¹ ![lesbian](https://media.discordapp.net/attachments/1041941203425427549/1147332717558628423/Untitled1787_20230901205021.png)² ![aroace](https://media.discordapp.net/attachments/1041941203425427549/1147332718045171802/Untitled1787_20230901205029.png)³
 ***15***yo ˚﹒ white [introject](fictroj)　~~ᴗᴗᴗᴗᴗᴗ~~ 
 ︵︵᧔  [dis](sysoomf)abled ~~&&~~ intrsx  ◞ < [sel](seluleanra) 3
-[*easy* to read](blep). ── [dni](kyuorby) + [byf](kyuorby) 𓈒  [ints](cashdummy) 
+[*e2r*](blep). [*sentry*](https://sntry.cc/ddlc). ── [dni](kyuorby) + [byf](kyuorby) 𓈒  [ints](cashdummy) 
 ![edge](https://cdn.discordapp.com/attachments/1064597015503315054/1108079448856727632/Untitled2220_20230516181150.png )<-

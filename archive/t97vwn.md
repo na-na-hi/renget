@@ -278,7 +278,7 @@ Eri's eyes went huge at the towering confection. "This is the biggest ice cream 
 
 Inigo grinned and nudged Hoge. "Told ya the fish bowl sundae would blow her mind." Hoge just shook her head with an indulgent smile, eyes soft behind her glasses. Eri looked utterly content picking away at the icecream abomination.
 ***
--> !["Neh-chan! How do jellyfish know where they're going if they don't have eyes?" -Eri ](https://i.imgur.com/tfjQobX.png) <-
+-> !["Neh-chan! How do jellyfish know where they're going if they don't have eyes?" -Eri ](https://i.imgur.com/MVv2LWF.png) <-
 ***
 After two hours, Inigo, Hoge, and Eri wandered out of the Aquarium gift store and into the jellyfish exhibit, with Eri clutching a pair of shark and dolphin plushies. They each stood mesmerized by the otherworldly creatures pulsing in the darkness. "It's like they're ghosts," Eri breathed out, eyes going wide as she stared up. "Look at them floating!"
 

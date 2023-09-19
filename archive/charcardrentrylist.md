@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[GGR89](https://rentry.org/ggr89) | Misc |[Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png), [Frigga](https://files.catbox.moe/vvvze5.png)|
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Sarah](https://files.catbox.moe/bureqn.png)|[Sarah](https://files.catbox.moe/bureqn.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[President Juno](https://files.catbox.moe/jx2pjt.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Edgar](https://files.catbox.moe/ygb9rs.png), [Elliott](https://files.catbox.moe/z2he6r.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Priscilla](https://files.catbox.moe/1ctyfc.png)|
@@ -34,14 +36,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png)|[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png) [MV]
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png)|
 [CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
-[GGR89](https://rentry.org/ggr89) | Misc |[Frigga](https://files.catbox.moe/vvvze5.png)|
+[Hedona](https://rentry.org/hedona) | Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||[Mommy Yukari](https://files.catbox.moe/afwzh4.png)
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)
 [Gigasad](https://rentry.org/gigasad) | Misc ||
-[Hedona](https://rentry.org/hedona) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
@@ -62,7 +63,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||

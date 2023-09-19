@@ -45,7 +45,7 @@ If you experience crashes while playing the game, you should fiddle around in th
 - Lower in-game framerate and quality 
 - Switch between software and hardware decoding 
 
-Disclaimer: I use Bluestacks 5. See [this for common fixes for Bluestacks](https://support.bluestacks.com/hc/en-us/articles/4413392952461-Recommended-settings-for-Blue-Archive-on-BlueStacks-5).
+Disclaimer: I used to use Bluestacks5, but now I'm using LDPlayer9.
 You can always switch emulators if nothing works.
 
 >I'm getting "Server failed to process request. Returning to title screen.", what do I do?
@@ -140,7 +140,7 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 **Normal** does 100% damage.
 **Resist** does 50% damage.
 
-[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) visually shows you how to build, just go to the 'Teambuilding' sheet (or click on the imgur). 
+[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what students to prioritise, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers, buffers, and tanks you can ignore the environment mood and attack type. 
@@ -172,10 +172,10 @@ That's it.
 ## Leveling ur roster
 This is the bonsai part. 
 **Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. You use each team for **all content related to their colour**.
-For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten and Hieronymus).
+For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten, Hieronymus, and Greg).
 Once you have more resources you can branch out to a wider roster.
 
-**You only need 2 healers and tanks at the start**. Because you need to use at most 2 teams in the missions, limit urself to just 2. Because their attack types don't matter you only need to swap around the DPS 
+**You only need 2 healers and tanks at the start**. Because you need to use at most 2 teams in the missions, limit urself to just 2. Because their attack types don't matter you only need to swap around the DPS.
 
 A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
 
@@ -184,7 +184,7 @@ A good start to every account is upgrading ur Serina to 2\*, she's your best fri
 The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
 
 ![how to use excel](https://i.imgur.com/QHrepqU.png)
-(for the 2nd guide) 
+(for the 2nd guide/raid tierlist) 
 Make sure to read the extra notes on the right as well. 
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
@@ -234,6 +234,9 @@ Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g.
 >Should I swipe my stages?
 Yes.
 There is no benefit to manually doing them.
+
+>What equipments do I prioritise when I farm?
+T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest  
 
 !!! info
 	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. 
@@ -635,7 +638,7 @@ District of Utnapishtim.
 At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess it to be anywhere between 7-9 months.
 
 # Resources 
-In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/baggguides)
+In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/bagguides)
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 

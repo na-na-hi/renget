@@ -277,12 +277,12 @@ Here is a visualization:
 # 
 ###GPT-AP-2
 #
-
+!!! note There's a new link. Prompts should work fine now.
 **Preset and Prompts**
 Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
-[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/ppetej.zip)
-[DOWNLOAD FILES](https://files.catbox.moe/ppetej.zip)
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/o5x0xn.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/o5x0xn.zip)
 #
 !!! **How do I use this?**
 	1. Download settings

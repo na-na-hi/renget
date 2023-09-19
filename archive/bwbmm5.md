@@ -1,4 +1,5 @@
 /fifth force/i;boards:trash;op:no;file:no
+/(?=.*Armain)(?=.*(one|1) drawfag)/ims;boards:trash;op:no
 /go back where you came form/i;boards:trash;op:no;file:no
 /you fat, stinking and you ugly/i;boards:trash;op:no
 /favelanigger/i;boards:trash;op:no

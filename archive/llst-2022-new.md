@@ -68,10 +68,10 @@ https://discord.gg/TZwԁqbStej
 Previous: >>694201488 (# of previous thread)
 
 ***
-##Thread QoL (Quality of Life) Filter
+##QoL regex filters
 **Improved** non-intrusive filter for 4chanx that massively improves thread readability. ==Last updated: 04/27/2023==
 !!! warning Warning
-	These filters are only tested, and are only recommended to work on 4chanx
+	These filters are only tested, and are only recommended to work on 4chanx 
 **Comment field**
 ``` javascript
 #/jp/ QoL Troll spammer filter

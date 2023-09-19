@@ -60,3 +60,6 @@ https://rentry.org/26926
 
 >Can't Have Sh*t in Detroit
 https://rentry.org/avkuo
+
+>Macro Cheetah story (CW: Feral)
+https://rentry.org/nw366

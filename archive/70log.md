@@ -2,7 +2,7 @@
 Translation by Marisa Honkai 
 
 Patch Note: https://rentry.co/70log
-Luna Pledge Translation: https://rentry.co/luna70
+Lunar Vow Translation: https://rentry.co/luna70
 Luna Gear Translation: https://rentry.co/lunagear
 HoS Brick and Pericles stigma: https://rentry.co/hosbrick 
 Elysian Realm: https://rentry.co/er70
