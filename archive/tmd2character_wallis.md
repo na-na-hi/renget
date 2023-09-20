@@ -40,7 +40,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Surf | 4BP | 6AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
 Mud Shot | 5BP | 6AP | ≥2 | Ground | Special | The next round, the Opponent's Speed is decreased by 1.
-Rock Smash | 4BP | 6AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+Rock Smash | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 Wide Guard | - | 4AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 

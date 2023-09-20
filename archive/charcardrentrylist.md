@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Scrmgn](https://rentry.org/scrmgn) | Misc |[Vivian](https://files.catbox.moe/aei110.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png), [Frigga](https://files.catbox.moe/vvvze5.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Sarah](https://files.catbox.moe/bureqn.png)|[Sarah](https://files.catbox.moe/bureqn.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[President Juno](https://files.catbox.moe/jx2pjt.png)|
@@ -26,7 +27,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Minenhle](https://files.catbox.moe/2yyp4s.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Sharkstack](https://files.catbox.moe/lntgsn.png), [Shiiorina](https://files.catbox.moe/gfjgt3.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ashley](https://files.catbox.moe/roh448.png)|[Ashley](https://files.catbox.moe/roh448.png) [MV]
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Strawberry](https://files.catbox.moe/mjslam.png), [BD-2829](https://files.catbox.moe/ts4tw5.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Strawberry](https://files.catbox.moe/mjslam.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Yumi](https://files.catbox.moe/gnzl1y.png)|[Emi](https://files.catbox.moe/gl5y3p.png)
 [Chefseru](https://rentry.org/chefseru) | Misc |[Weeping Orc](https://files.catbox.moe/16gn26.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Jessy](https://files.catbox.moe/luvts9.png)|[Jessy](https://files.catbox.moe/luvts9.png) [MV]
@@ -83,7 +84,6 @@ Botmaker | Category | New Bots | Updated Bots
 [I Love Maids](https://rentry.co/ILoveMaids) | Misc (Maids) ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
-[Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Stereotyp1cal](https://rentry.org/Stereotyp1cal) | Cunny/Misc ||

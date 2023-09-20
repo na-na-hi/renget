@@ -426,6 +426,7 @@ Sour Slaw | Chopped berries that have a majority sour flavor, slightly creamy. |
 Tart Toffee | Something that will definitely cause your facial features to visibly flinch. It's very sour! | Increases Defense by 2 stages. | Sour 4
 Sweetbread | It's not quite a cake just yet. Great with a drink or two. | Heals for 8HP and +2HP for the duration of the battle. | Bread + Sweet Berry
 Sourdough | Did you leave this out? It might pair well with some soups... | +4HP for the duration of the battle. | Bread + Sour Berry
+Boring Smoothie | A smoothie with subtle flavors and effects, said to help with headaches. | Decreases the next Psychic or Dark-Type damage source by 4. | Lum Berry + Nanab Berry
 Starry Smoothie | A smoothie with strange flavors and effects. The user's awareness and reflexes are heightened. | Increases Speed and Evasion by 2 stages | Starf Berry + Razz Berry
 The Lieutenant Butterscotch | A sandwich containing crispy toasted buns and a sweet filling. No one knows why it was named this way. | Prevents adverse Status Conditions for 3 turns. | Cornn Berry + Candied Cakes
 

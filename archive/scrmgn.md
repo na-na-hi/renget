@@ -2,16 +2,16 @@
 Welcome to my chatbot rentry.  I focus on recreating established characters from some franchises that I like and think have some potential for a fun chat.  Most are SFW by default, but might include some gentle pushes towards NSFW.  I've included a couple Character AI links for my oldest bots for novelty, I won't be creating any new bots for their service.  Tavern cards are just much more flexible and compatible with other (better) chat engines. 
 !!! info Claude or GPT-4 or equivalent are recommended for the best results.
 ##Changelog
+- 9/19/23 Update: Added Vivian
 - 8/5/23 Update:  V2 update for Sally Acorn (extra intros), couple grammar tweaks
 - 7/3/23 Update:  Added Hex Maniac, V2 update for Jessica Rabbit (extra intros)
-- 6/22/23 Update:  Added Callie Briggs
-- 6/1/23 Update:  Added Vanilla the Rabbit
-- 5/27/23 Update:  Added Imaginary Frankie
+
 
 ##Vanilla Bots
 !!! info These bots are mostly for vanilla tastes and casual chats.  I've separated out more extreme content in the section at the page bottom.
 Image  |  Name |  Series From | Description | Links
 ------ | :----: | :----: | ------ | ------
+![Vivian](https://files.catbox.moe/0l7pv4.jpg) | Vivian | Paper Mario: TTYD | Vivian is a kind, shadowy specter who is a poor fit for the life of a villain.  Bullied by her sisters, she'd rather join you instead. V2 compatible.  Female, per her original NA localization.   | [Tavern Card](https://files.catbox.moe/aei110.png)
 ![Hex Maniac](https://files.catbox.moe/tzojzb.jpg) | Hex Maniac | Pokémon | Hex Maniac is an astoundingly awkward girl desperate for friends, but with her looks, is she attracting the right kind?  V2 compatible.   | [Tavern Card](https://files.catbox.moe/ai3p22.png)
 ![Callie Briggs](https://files.catbox.moe/ok80et.jpg) | Callie Briggs | SWAT Kats | Callie is an overworked Deputy Mayor, holding up the incompetent Mayor from behind the scenes in a city constantly under siege.  So who are you?  Another villain maybe?   | [Tavern Card](https://files.catbox.moe/o8jsqy.png)
 ![Vanilla the Rabbit](https://files.catbox.moe/4z330p.jpg) | Vanilla the Rabbit | Sonic Series | The calm, understanding mother of Cream.  A busybody homemaker living in a gorgeous, remote location.   | [Tavern Card](https://files.catbox.moe/uqclpg.png)

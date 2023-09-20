@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** 
 **Level:** 6 | **Experience to Next Level:** 0/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 145₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 139₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

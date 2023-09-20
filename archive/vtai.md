@@ -9,6 +9,17 @@
 #[Proompts](https://rentry.org/vtaiprompts)
 #[Archive](https://rentry.org/vtaiarchive)
 #[LoRAs](https://rentry.org/vtaiLoRAs)
+
+!!! to make your archive reps slightly easier mr. LoRanon, regards, grug
+    >>58869858
+    >Klaius lora https://files.catbox.moe/8ueyf9.safetensors
+    >>58813417
+    >>>58807811
+    > Kamiko Kana lora https://rentry.org/zp7g6#k_2
+    > Direct Mega link https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ic1SAaBR
+
+I may come back and do some manual tagging for this one but it gets her outfit mostly right so I'm happy
+
 #[vtai Google Colab](https://colab.research.google.com/drive/1STL60qfoY-iSlhRb9zFETRLTqhNbznRf)
 #OP Links
 >NAI Leak Speedrun
