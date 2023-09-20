@@ -37,11 +37,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tatsuyuki](https://files.catbox.moe/xlrppo.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Retsu Kaiou](https://files.catbox.moe/9bhtv7.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png)|[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png) [MV]
-[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png)|
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||

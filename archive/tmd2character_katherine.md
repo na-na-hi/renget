@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 5 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*75/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-N/A  | Tier **N/A** | 0/3 | ▯▯▯
+They see me rollin'  | Tier 1 | 0/6 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

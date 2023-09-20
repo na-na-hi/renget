@@ -13,7 +13,7 @@ Nearby, a street musician played a cheerful melody on his shamisen, the traditio
 
 Inigo paused his pacing and smiled as he watched young children in tiny hakama robes laughing and playing with sparklers, likely on their way to visit a shrine with their families. Despite his anxiousness, Inigo felt a wave of fondness for this town. Even after all his travels, Kyoto in autumn remained one of his favorite places to be. Inigo brushed his forest green "Save the Boars" t-shirt and dark blue jeans, he had ultimately opted for casual clothes over his signature suit and tie to help them avoid standing out. 
 
-"Glad you'll be with me," Inigo said. "Don't let me psyche myself out, okay buddy?" Gigan squeaked in confirmation and Inigo scratched the dragon's ear.  Gigan mewed happily in response. Inigo checked the time on his phone again. Still, 10 minutes until Hoge was set to arrive. He tried not to obsess over the idea of getting stood up, focusing instead on watching the trains glide smoothly in and out of the station. He turned to his phone again.
+"Glad you'll be with me," Inigo said. "Don't let me psyche myself out, okay buddy?" Gigan squeaked in confirmation and Inigo scratched the dragon's ear.  Gigan mewed happily in response. Inigo checked the time on his phone again. 10 minutes until Hoge was set to arrive. He tried not to obsess over the idea of getting stood up, focusing instead on watching the trains glide smoothly in and out of the station. He turned to his phone again.
 ***
 ==***IniGOAT*** *has created the chat* ***Council of Bros***==
 ==***ImaSoujyuuro** has entered the chat*==

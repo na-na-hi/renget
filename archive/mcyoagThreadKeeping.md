@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva)
-https://rentry.org/t97vwn
+>Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
+https://rentry.org/rkhpv
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -553,6 +553,9 @@ https://rentry.org/y4cam
 https://rentry.org/k2f3c
 >The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva)
 https://rentry.org/t97vwn
+>Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
+https://rentry.org/rkhpv
+
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
@@ -844,6 +847,115 @@ https://rentry.org/dm26u
 >Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
 https://pastebin.com/4CFMctzq
 ```
+
+#Worm (Second Reboot)
+
+***
+Page 1
+***
+```
+>Golden Age Scenario
+>No Drop-In. You are part of this world.
+>The Endbringers haven't appeared yet, so Endbringer target can not be chosen as a drawback
+>The Slaughterhouse 9 do not exist in this AU, however the relevant drawback can still be chosen. It simply attracts the attention of the most deadly villain group in the AU instead.
+>No Gifts
+>No 25 pt powers. However, 20 pt powers via the Conspirator path are allowed.
+>No Second Trigger Unlimited Shard Works
+>Characters with Worst Day Ever x 3 + Humble Beginnings do not survive the first day
+>Characters with Worst Day Ever x 2 + Humble Beginnings can survive the first day if they take a superpowered Follower or Budding Shard.
+```
+
+***
+Page 2
+***
+```
+>Protectorate
+John Cox/The Rooster
+>>90240420
+Bethany Zellenin/Nemian
+>>90243978
+Nikkita Arete/Triumph
+>>90242425
+Matt H. Hathaway/The Undertaker
+>>90252460
+Undertow
+>>90248493
+
+>Wards
+Jennifer King/Blastrix
+>>90238520
+Jed Steele(Follower)
+>>90240442
+
+>Independent Heroes
+Victor Myers/Uroboros
+>>90252341
+Carla Jackson/Pyrrha (Follower)
+>>90252349
+
+>Dread Conglomerate
+The Big Cheese
+>>90248037
+Charles Carter/Dr Hurtsteal
+>>90239286
+Troublemaker
+>>90244076
+Ashley Blaketon/Maw
+>>90241797
+
+>Independent villains
+Freya Ward/Hindsight
+>>90238643
+Murder Bee
+>>90237455
+Koreans
+>>90263918
+Morningstar
+>>90270536
+
+>Vigilantes
+Alexi Liddel
+>>90245795
+Kassandra Lettice
+>>90241983
+Alby McCullough/Villainconvenience
+>>90242918
+Alexis Miller/Shinobi
+>>90248604
+Caspian Cook/Roachbait
+>>90248639
+Alexi Liddel/Vorpal
+>>90252572
+Rance Rayford/Hyper Storm
+>>90250847
+Martin Gigant/Arsenal King
+>>90262393
+Katie Ingqvist/Fury
+>>90276552
+
+>Rogues
+The Homemaker
+>>90239727
+
+>Writefags
+Just Get Therapy Bro(Alexi):
+https://rentry.org/zxbcw
+The Bee’s Knees (Murder Bee, Villainconvenience)
+https://rentry.org/tq2tg
+Girls Just Want To Have Fun (Assorted Koreans)
+https://rentry.org/x266p
+Dinner With The Family
+https://rentry.org/DInnerWithTheFamily
+Sépulture Inachevée (Undertaker)
+https://rentry.org/r4i3t
+Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
+https://rentry.org/RoosterTeambuilding
+Undertaker Protectorate/Ward Relationship Chart
+https://rentry.org/c6veb2
+Rayford's Relationship chart:
+https://rentry.org/wv22y
+```
+
 #JRPG (Reboot)
 ***
 Page 1

@@ -92,7 +92,6 @@
  ----: | :----: | :----: | :----:
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
 **Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
-**Mamiya Roughness Pressure Pen 2 (間宮ざらつき筆圧ペン 2)** | [1571708](https://assets.clip-studio.com/en-us/detail?id=1571708) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/08/17/1571708/thumbnail?1579496205)
 
 
 
@@ -175,7 +174,6 @@
 **Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
 **Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
 **Dirty and Shadow lines! Building description Material Set (汚しや影線！建物描写素材セット)** | [1731713](https://assets.clip-studio.com/en-us/detail?id=1731713) | 280 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/17/1731713/thumbnail?1547225066)
-**Brushes for hoarse cartoon type (かすれ系漫画用ブラシ９種)** | [1790788](https://assets.clip-studio.com/en-us/detail?id=1790788) | **==300 GOLD==** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/88/07/1790788/thumbnail?1601694600)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

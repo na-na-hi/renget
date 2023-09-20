@@ -8,16 +8,16 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Herself
-**Level:** 5 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 35/60
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 180 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 110 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*75/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -61,14 +61,14 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Attribute: None  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Attribute: None  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
+Battle Attribute: None  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Battle Attribute: None  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
+Training for Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Battle Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Training for Move: None | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 1/9 | ▮▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

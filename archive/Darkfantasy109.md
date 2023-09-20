@@ -234,6 +234,7 @@ Am I a "good" enough botmaker to offer a guide on how to make cards? I don't thi
 ##Contact & Other links
 Wanna contact me with suggestions or anything else? Here's my burner: Darkfantasy109@proton.me
 I also appreciate all logs and feedback!
+**I am not on Discord or any other social media.**
 
 Wanna check out other /aicg/ botmakers? Here's a handy link!
 https://rentry.org/charcardrentrylist

@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Unaffiliated
-**Level:** 5 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
 
@@ -22,7 +22,7 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 6 (20HP) | 20HP
 Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
@@ -68,7 +68,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 1/9 | ▮▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

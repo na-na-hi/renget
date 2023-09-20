@@ -437,7 +437,7 @@ if __name__ == '__main__':
 ```
 
 ##Soundpost FIlename Cleaner
-Last Updated: 05/20/23 (mm/dd/yy)
+Last Updated: 09/20/23 (mm/dd/yy)
 
 Removes `http://` and `https://` and fixes `_2F` to `%2F` in the folder it is ran in.
 Reason:
@@ -455,8 +455,12 @@ if __name__ == '__main__':
 		if file_ext in ['webm','png','jpg','gif','jpeg','jfif']:
 			fs = file.split(r'sound=')
 			if len(fs) > 1:
-				if fs[1].startswith(r'http') or len(fs[1].split(r'_')) > 1:
-					clean_file = fs[0] + r'sound=' + re.sub(r'https?%3A%2F%2F',r'',fs[1].replace(r'_',r'%').replace(r'%2E',r'.'))
+				cleanedURL = []
+				for segment in fs[1:]:
+					if segment.startswith(r'http') or len(segment.split(r'_')) > 1:
+						cleanedURL.append(re.sub(r'https?%3A%2F%2F',r'',segment.replace(r'_',r'%').replace(r'%2E',r'.')))
+				if len(cleanedURL) > 1:
+					clean_file = fs[0] + r'sound=' + 'sound='.join(cleanedURL)
 					os.replace(file,clean_file)
 					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file))
 ```

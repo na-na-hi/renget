@@ -304,4 +304,4 @@ https://civitai.com/user/AI_Art_Factory
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 18th - https://pastebin.com/UJc2XSYG
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 20th - https://pastebin.com/VCkpe8nj
