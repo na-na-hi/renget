@@ -73,6 +73,7 @@
 09/2023|[Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 09/2023|[MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (MT Model)](https://arxiv.org/abs/2309.04662)
 09/2023|[Scaling Laws for Sparsely-Connected Foundation Models](https://arxiv.org/abs/2309.08520)
+09/2023|[Language Modeling Is Compression](https://arxiv.org/abs/2309.10668)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -359,6 +360,7 @@
 09/2023|[Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs](https://arxiv.org/abs/2309.05516)
 09/2023|[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 09/2023|[Cure the headache of Transformers via Collinear Constrained Attention](https://arxiv.org/abs/2309.08646)
+09/2023|[Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

@@ -3,6 +3,12 @@
 **Available until 9/21/2023**
 *NNWORKMORE* 300 Event NP (Permanent)
 
+**Available until 9/28/2023**
+*TGSWITHER1* (9/21) 5000 A-Coin
+*TGSWITHER2* (9/22) Research Center Data Box Set
+*TGSWITHER3* (9/23) 200 Event NP (3 Days)
+*TGSWITHER4* (9/24) Skin Data Box Set
+
 **Available until 9/30/2023**
 *LUCKYSEVEN01* (9/7) 2000 A-Coin
 *LUCKYSEVEN02* (9/8) Research Center Data Box Set

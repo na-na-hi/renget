@@ -4,7 +4,7 @@ https://web.archive.org/web/20220118154141/https://rentry.co/kinolinks
 - Youtube 
 Yes, there are a lot of movies you'll only find on Youtube.
 - Torrenting
-     - 1337x.tw
+     - 1337x.st
      - proxyrarbg.org
      - bt4g.org
      - rutracker.org (search using normal search engine, ex. bit.ly/2ZDvEMu)

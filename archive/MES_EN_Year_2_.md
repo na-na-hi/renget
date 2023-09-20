@@ -85,6 +85,7 @@ _______________________________
 | 2023-1-15| 【MINECRAFT】 Fauna builds an automatic tree farm (hopefully) | [Link](https://youtu.be/rGfeAxgPBiE?t=5279) | VC in minecraft with Fauna |
 |2023-03-21| 【BIRTHDAY STREAM】 Birthday kirin on your screen!! | [Link](https://www.youtube.com/watch?v=Dte5lhiMD7A&t=1898s) | Group call-in with CouncilRyS in Fauna's birthday stream.| 
 |2023-04-17|【MINECRAFT】 And so my tree shall consume the world|[Link](https://youtu.be/dPmIvra5IVA?t=5416) | VC and game apperance in Minecraft.|
+|2023-07-08| Guess where I am! | [Link](https://www.youtube.com/watch?v=gv2ETSjOtYk)|Easter egg. Appeared in the background of Fauna's Holosummer short.|
 
 #####Kronii
 | Date | Title | Link | Nature |

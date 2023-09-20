@@ -20,7 +20,7 @@ You can find an explanation on [Origins](https://rentry.co/tmd2many_words#origin
 	An example has been provided below to follow. 
 Name | Origin | Pokémon | Guild Role | Team/Affiliation
 :----: | :----: | :----: | :----: | :----:
-[Angus](https://rentry.org/AngusCharacterSheet) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
+[Angus](https://rentry.org/tmd2character_Angus) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
 [Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | N/A
 [Bomb](https://rentry.org/tmd2many_characters_Bomb) | ??? | Baltoy | Bomb! | N/A
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A

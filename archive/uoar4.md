@@ -59,6 +59,7 @@ _______
 |Blue Horizon | [![](https://files.catbox.moe/7q56nj.jpg)](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
 |Bae's Yakusoku no Kizuna Cover| [![](https://files.catbox.moe/qr44y0.jpg)](https://www.youtube.com/watch?v=40WoArsMQgQ)|
 |Kiara's Pineapple|[![](https://files.catbox.moe/7h6h3n.jpg)](https://www.youtube.com/watch?v=WuvtwRYkOU0)|
+|Mori's INTERNET YAMERO|[![](https://files.catbox.moe/1d85ko.jpg)](https://www.youtube.com/watch?v=Lp5n-YS22tY)
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->
 

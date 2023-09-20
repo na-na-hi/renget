@@ -35,6 +35,7 @@ Params | 7B | 13B | 33B |34B| 70B
 
 b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
 - ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
+- (New) exl2 models can only be be loaded with exllamav2. These models have dynamic quants so you're no longer stuck with 4 bit GPTQ.
 - Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.
 - This guy quantizes: https://huggingface.co/TheBloke
 - Run at least q5_k_m for the optimal quality tradeoff, if you can afford it. The quality bump from q4 is more than the perplexity difference suggests. Exllama2 now supports dynamic precision quants so this applies too.
@@ -51,8 +52,8 @@ For ggml/gguf models, simply download the .bin/.gguf file from your browser to `
 
 a. Go to oobabooga web UI - "Models" tab like pic above.
 b. Click on models tab, select the model and model loader:
-- exllama (faster than exllama_hf, uses more VRAM).
-- exllama_hf (has more samplers such as CFG and mirostat, uses less VRAM, but is slower).
+- exllamav2 (faster than exllamav2_hf, uses more VRAM).
+- exllamav2_hf (has more samplers such as CFG and mirostat, uses less VRAM, but is slower).
 - llama.cpp if you downloaded a ggml/gguf model - offload as many layers to GPU as possible, enter 999 to offload all layers. Important: Don't offload more than your GPU can handle, worst case the GPU driver will dump to System RAM and slow everything to a crawl.
 
 c. max_seq_len is the context, NTK alpha_value is the context scaling, use 2.6 for 8k context when loading models trained on 4k. You can get 8k context for free without perplexity suffering on all 4k llama2 models.

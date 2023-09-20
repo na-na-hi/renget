@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yuki](https://files.catbox.moe/bybg06.png)|[Mommy Yukari](https://files.catbox.moe/afwzh4.png)
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Lotion Cat](https://files.catbox.moe/smxs1h.png)|[Lotion Cat](https://files.catbox.moe/smxs1h.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Minenhle](https://files.catbox.moe/eg32du.png)|[Minenhle](https://files.catbox.moe/eg32du.png) [MV]
 [Scrmgn](https://rentry.org/scrmgn) | Misc |[Vivian](https://files.catbox.moe/aei110.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
@@ -36,14 +38,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Retsu Kaiou](https://files.catbox.moe/9bhtv7.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png)|[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png) [MV]
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry |[Nadiya](https://files.catbox.moe/qsfpy3.png)|
-[CptPants](https://rentry.org/CptPants) | Misc |[Elven Forest Maker](https://files.catbox.moe/7z488g.png)|[Fenrir](https://files.catbox.moe/tm8cm8.png), [Sekhmet of Death](https://files.catbox.moe/btqnro.png), [Cerestia of Life](https://files.catbox.moe/0a8nlr.png)
 [Hedona](https://rentry.org/hedona) | Misc ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||[Mommy Yukari](https://files.catbox.moe/afwzh4.png)
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)
 [Gigasad](https://rentry.org/gigasad) | Misc ||
+[CptPants](https://rentry.org/CptPants) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||

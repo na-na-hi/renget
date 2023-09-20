@@ -85,8 +85,8 @@
 [Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
 [GAP](https://github.com/kaistAI/GAP)|Gradient Ascent Post-training with OPT code which showed dialogue generation improvements
 [QuIP](https://arxiv.org/abs/2307.13304)|2bit via incoherent weight and Hessian matrices optimization (OPT code only currently)
-[SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM)|3/4bit weight quantization SOTA results dense and sparse outlier handling
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for bloom, gpt_neox(StableLM), gptj, llama and opt models
+[AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models (llama2 included) 
 [SpQR](https://github.com/Vahe1994/SpQR)|3/4bit weight quantization with supposed superior results than GPTQ 
 [Basaran](https://github.com/hyperonym/basaran)|OS alternative to the OpenAI text completion API
 |
