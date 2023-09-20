@@ -172,7 +172,7 @@ A tiny smile crossed Hoge's face as she returned the enthusiastic embrace. "Hell
 
 Overhaul checked his watch. "I'm afraid I have business to attend to. You two enjoy yourselves with Eri." He turned to leave but paused, placing a hand on Eri's shoulder. "Remember what I said about using your quirk," he murmured just loud enough for Inigo to overhear with his quirk. Inigo's brow furrowed slightly but he hid his concern behind a smile as Eri nodded obediently.
 
-After Overhaul left, Eri immediately perked up and grabbed one of each of her caretaker's hands. "Let's go, let's go! I wanna see the fishies!"
+After Overhaul left, Eri immediately perked up and grabbed one of each of her caretaker's hands. "I wanna see the fishies."
 
 ***
 -> ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div2](https://media.discordapp.net/attachments/903364339464044575/1101868624907608135/B98E28C4-16E2-4B9D-9D36-116B0CEFBA61.gif)  ![dv1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) <-
@@ -266,6 +266,14 @@ Gigan mewed and joined along. Soon, the dragon, Inigo, and Eri were stretching t
 -> !["Y'know sometimes I wished we waited before having a kid-ow! I'm kidding!" ](https://i.imgur.com/13ew8dk.png) <-
 Inigo's dramatic dismay at the lobsters and oysters in the shellfish hall nearly got them kicked out. Only Hoge's quick lecture on crustacean anatomy placated the disgruntled staff and saved them. Afterwards, she banned any further anti-oyster rants. Inigo grumbled but gave in when she stroked his wrist apologetically. Forgiveness came quickly when Hoge was involved. They found some time for each other while Eri joined a group of children to listen to a guide.
 
+"Inigo..."
+
+"Corune-chan?"
+
+"Shouldn't we check on Eri?"
+
+"Just one more minute..."
+
 The camouflaged creature exhibits brought out Inigo and Hoge's competitive sides. They playfully bickered and teased over who could spot the most hidden fish. Eri scampered back and forth between tanks to check each new discovery. In the seahorse area, she happily adopted a "baby" to link to her wrist, enthralled by its coiled tail and horselike snout.
 ***
 -> !["Did you know even though sharks don't have bones, they can still fossilize? As most sharks age, they deposit calcium salts in their skeletal cartilage." - Hoge, probably. ](https://i.imgur.com/MpExvLl.png) <-
@@ -288,7 +296,7 @@ Hoge nodded approvingly. "Jellyfish are over 98% water. This allows them to floa
 
 Inigo stifled a chuckle. "Careful now! They got stingers!" Eri backed away and Inigo patted her head reassuringly as she ran up to join a group of kids watching a feeding demonstration.
 
-Inigo and Hoge stood by the jellyfish tanks and they shared a look. He pointed at the jellyfish and snapped his fingers. "You know this one time. Kaz and I were digging for clams at the beach and a jellyfish stung him. He cried, but I didn't know what to do back then. What do you do if a jellyfish stings you? Pee on it, right?"
+Inigo and Hoge stood by the jellyfish tanks and he squeezed her hand. He pointed at the jellyfish and snapped his fingers. "You know this one time. Kaz and I were digging for clams at the beach and a jellyfish stung him. He cried. I didn't know what to do back then. What do you do if a jellyfish stings you? Pee on it, right?"
 
 Hoge's brow furrowed. "That's a misconception. Urine does not help jellyfish stings. The notion derives from anecdotal evidence and the mistaken belief that urine is sterile."
 
@@ -304,11 +312,9 @@ Hoge held up a finger. "Though for more severe reactions, seek medical care. Don
 
 She gestured discreetly to a mother and young son across the hall and Eri who just rejoined them. Inigo nodded apologetically.
 
-"Whoops." He shrugged. "But hey, give me some credit for asking." Hoge pinched his cheek and he chuckled.
+"Whoops." He shrugged. "But hey, give me some credit for asking." Hoge pinched his cheek and he chuckled. 
 
-Just then, Hoge grabbed his arm, her eyes narrowed as she looked behind him. "We're not the only ones here from Shiketsu."
-
-Inigo followed her discreet glance. His eyes widened as he spotted Bobby and Minnie strolling hand-in-hand nearby. And just behind them were Hifumi and Hailey, peering into a tank of seahorses! Inigo gulped. Their classmates being here meant one thing - they had to be on secret dates too! Hoge quickly pulled Inigo and Eri behind a janitor's cart. 
+Just then, Hoge grabbed his arm, her eyes narrowed as she looked behind him. "We're not the only ones here from Shiketsu." Inigo followed her discreet glance. His eyes widened as he spotted Bobby and Minnie strolling hand-in-hand. And just behind them were Hifumi and Hailey, peering into a tank of seahorses! Inigo gulped. Their classmates being here meant one thing - they had to be on secret dates too! Hoge quickly pulled Inigo and Eri behind a janitor's cart. 
 
 "I don't see why I can't just say hi. They're my bros. I can't believe they're on a double date without me though." Inigo grumbled.
 
@@ -732,7 +738,7 @@ Hoge smiled sadly, “I used to sit in my bedroom and turn the whale over and ov
 
 Her voice dropped to a whisper. "That silly toy was the only comfort I had on lonely nights. The last gift I ever got out of generosity instead of obligation, the very last gift given from the heart. Proof someone had cared for me once..."
 
-"Now you have me..." he promised fiercely. "I'll always be there when you need me.” He reached to cradle Hoge's face, brushing away a fallen tear with his thumb. Hoge's lower lip wobbled and she started to hiccup. She pressed her face into Inigo's palm, overcome. They stood entwined next to the drifting whale, the rest of the world fading away. Inigo held Hoge as she let pent-up hurt flow out of her.
+"Now you have me." Inigo promised fiercely. "You must have been bearing it all this time.. with no one to lean on. You don't have to be afraid anymore. I'll always be there when you need me. I'll always be by your side.” He reached to cradle Hoge's face, brushing away a fallen tear with his thumb. Hoge's lower lip wobbled and she started to hiccup. She pressed her face into Inigo's palm, overcome. They stood entwined next to the drifting whale, the rest of the world fading away. Inigo held Hoge as she let pent-up hurt flow out of her.
 
 Hoge let out a watery laugh. She wrapped both hands around the renewed symbol of friendship, holding it over her heart. "Thank you for this," she whispered. "And...for caring. It means more than I can say."
 
@@ -781,7 +787,7 @@ Inigo and Hoge ran together laughing as they made their way to the other exhibit
 ###Chapter 9: Home
 >Recommended music: https://www.youtube.com/watch?v=q3Pvsc7wW74
 
-After a long, fun-filled day at the aquarium, Inigo and Hoge settled tiredly within her dorm room. Gigan waited outside the door as look-out.
+After a long, busy day at the aquarium, Inigo and Hoge settled tiredly within her dorm room. Gigan waited outside the door as look-out.
 
 "You sure I can't stay the night?"
 
@@ -815,8 +821,9 @@ Inigo's brain short-circuited at the intimate contact. His eyes went wide as und
 
 "O-oh!" he stammered out eloquently, face heating up. "Did you want me to pick...you?"
 
-Hoge pulled back just enough to nod, her own cheeks adorably pink. "Okay, I pick you," Inigo's eyes softened as he gazed at Hoge, her cheeks still flushed pink. Slowly, gently, he leaned in, bringing his hand up to cup her face. Hoge's eyes fluttered closed as their lips met in a  kiss. Inigo rested his forehead against hers, his thumb tracing small circles on her cheek as they both fell back on the bed, wrapped around each other.
+Hoge pulled back just enough to nod, her own cheeks adorably pink. "Okay, I pick you," Inigo's eyes softened as he gazed at Hoge, her cheeks still flushed pink. Slowly, gently, he leaned in, bringing his hand up to cup her face. Hoge's eyes fluttered closed as their lips met in a  kiss. Inigo rested his forehead against hers, his thumb tracing small circles on her cheek as they both fell back on the bed, arms entangled around each other.
 
+Outside the dorm building, the sun slowly set upon their long, fun-filled date at the Aquarium.
 ***
 "So, can I stay the night?"
 

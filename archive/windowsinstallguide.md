@@ -31,8 +31,8 @@ SHA-256: A0334F31EA7A3E6932B9AD7206608248F0BD40698BFB8FC65F14FC5E4976C160
 Verify SHA-256 with 7zip
 https://www.7-zip.org/download.html
 Install 7zip > right click ISO > CRC SHA > SHA-256
-If the SHA-256 matches the one from visualstudio.com, then the file is bit for bit identical to the official one and safe.
- 
+If the SHA-256 matches the one from visualstudio.com, then the file has not been tampered with since release.
+
  
 ######Step 2: Download Rufus and flash to USB
 https://github.com/pbatard/rufus/releases/

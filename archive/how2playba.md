@@ -118,7 +118,8 @@ It depends on whether you like or want the other girl too (if applicable).
 
 >I just got a ten roll ticket! Do they expire?
 No.
-The only thing that expires is the 3* guarantee ticket you can buy (with real money) during anniversaries.
+The only things that expires is the 3* guarantee ticket you can buy (with real money) during anniversaries, and the 10 roll ticket you get from the Elimination raid.
+You get a notification if something in your inventory expires soon.
 
 >I got the banner unit at my 200th roll. Do I claim her or do I get the other banner unit that I don't have?
 Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so if you don't want the other units on banner claiming the banner unit is totally fine. That being said, having a bigger roster gives you more options and some units increase drops during certain events.

@@ -14,7 +14,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** N/A
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 6 | **Experience to Next Level:** 0/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 

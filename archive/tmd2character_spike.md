@@ -5,9 +5,9 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Item Specialist
+**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Ranger
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
-**Level:** 6 | **Experience to Next Level:** 0/60
+**Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 180₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*0/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

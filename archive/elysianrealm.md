@@ -11,7 +11,7 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.9 Phase 1
-[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)
+[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![vkecharge](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)
 
 [Miracle ☆ Magical Girl basic](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)
 [Miracle ☆ Magical Girl charged](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
@@ -22,8 +22,8 @@ click image to jump to valk
 [Jade Knight](https://rentry.org/ElysianRealm/#jade-knight)
 [Sugary Starburst charge](https://rentry.org/ElysianRealm#sugary-starburst-charge)
 [Starry Impression](https://rentry.org/ElysianRealm/#starry-impression)
+[Vermillion Knight: Eclipse charge](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)
 to do list: 
-vke charge 
 hohe fast ulti 
 prome 
 cn 
@@ -3249,39 +3249,41 @@ Priority | Signet | Details
 ##->Recommended Gear<-
 Weapon | Stig
 ------ | ------
-Shuhadaku of Uriel | Ragna set
+Shuhadaku of Uriel | Ragna TB + Broboli M
 
 Cost | Effect
 ------ | ------
-0 | RPC-6626 weak to ele
-5 | Valk type matching enemy +TDM
-10 | Ignite or para, valk +dmg
-15 | Same type support valk + breach
+0 | Dominator of Wolves
+5 | SP+30
+10 | Support type DMG bonus
+15 | Ignite vulnerability 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-AE | VC | Utility
-AE | BR/MA | Damage
+AE | LE | Utility
+BR | AE/RC | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Veil of Tears/The Lonely Moon
-1st Shop | Mad King's Mask/The Lonely Moon
+Start | Burden/It Will Be Written
+1st Shop | Light as a Bodhi Leaf /An Old Pal's Legacy 
 16F | Key to the Deep/Dreamful Gold
 
 ##->Ego Signets<-
  Blaze 燔燃 | Sharp Flames 焱锐 | Wild Flare 燎照 | Fiery Mind 炽意 | Burning Flow 流炎
 :-: | :-: | :-: | :-: | :-: 
-**Start** | **1st** | 2nd | Optional | No 
+**Start** | **Start** | 2nd | No | No 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Aponia2 | Basic ATK, SP, are the key choices; pick at least breach from enhanced, recommended to also pick vulnerability
-2nd | Kalpas2 | Vulnerability, both damage boosts, are the key choices, unlock nexus; if using Surtr, take Kalpas1 instead
-2nd | Su2 | Vulnerability, TDM, 60 combos are the key choices, unlock nexus; if Su SP taken, can also pick Eden both damage boosts as reinforcement
-2nd | Griseo2 | Red Yellow Black Grey are the key choices, don't need nexus
-2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+1st | Kevin1 | Both damage boosts, breach, SP are the key choices, unlock nexus;  can pick nexus enhancement
+2nd | Su1 | Vulnerability, TDM, both combo boosts are the key choices, must pick at least breach from enhanced, recommended to also pick vulnerability
+2nd | Kalpas1 | Vulnerability, both damage boosts, HP cap up are the key choices, unlock nexus; can pick TDM from enhanced
+2nd | Griseo1 | Red Yellow Grey are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus; can also pick Eden1 nexus (Both damage boosts, starting SP) as reinforcement 
+
+!!! info Recommended to swap sigils on 5F shop, try to buy 1 Su signet, unlock nexus on 7F then pick enhanced, bring Kevin's support sigil at tthe start to deal with the 4F wave 3 mob
 
 #->Vermillion Knight: Eclipse charge<-
 ->![vkecharge1](https://i.imgur.com/D1WYIhL.png)<-
