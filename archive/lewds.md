@@ -12,6 +12,12 @@ G.C. Bunboy (MxM):
 Daredevil (2023) - https://imgchest.com/p/xny8wl82ybl
 Galavans Penthouse + To All A Dark Knight  (2022) - https://imgchest.com/p/pg73qjjz4rn
 
+Gay Bun (MxM):
+https://imgchest.com/p/a846jp9z7xj
+https://imgchest.com/p/a846jpz27xj
+https://imgchest.com/p/n87w3l2qyxd
+https://imgchest.com/p/pg73nr6g4rn
+
 Hrothgar (FxM): 
 Wcat - https://imgchest.com/p/ej7m63p94dl
 Beachlander - https://imgchest.com/p/xny8m6np7bl
@@ -20,8 +26,6 @@ MintyBeach - imgchest.com/p/5xy2g6qz7ld
 Jailbreak - imgchest.com/p/m9yxqo967qn
 
 Jinjaja Jinja (F, FxM, lala): https://catbox.moe/c/wnx0s5
-
-Kokoha (F Lala): https://mega.nz/folder/IHoDwLhK#PYLZx88BoU1utK8CcC7UKQ
 
 Minty (F, FxF, MxF, FxTg): https://mega.nz/folder/ZnRWTaQZ#J-sJNqEkxYEgeaJ1HNrYqw
 

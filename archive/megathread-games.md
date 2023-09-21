@@ -135,10 +135,6 @@
 - Enjoy playing some of the best games from a vast collection that is updated every day.
 - [URL Safety Results](https://www.urlvoid.com/scan/iogames.space/)
 
-### 🌐 [Play Retro Games Online](https://www.playretrogames.com/)
-- Online gaming of your favorite retro classics from SNES, NES, SEGA, GBA, GBX, and plenty others.
-- [URL Safety Results](https://www.urlvoid.com/scan/playretrogames.com/)
-
 &nbsp;
 
 ---

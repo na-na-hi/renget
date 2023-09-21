@@ -7,7 +7,7 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -64,7 +64,7 @@ Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Attribute: Survivalist **ɪ** | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Defense **ɪ** | Tier **0** (+0 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯

@@ -101,6 +101,10 @@
 - See and follow thousands of high quality episodes of all the biggest anime series, updated constantly for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/animania.co.uk/)
 
+### ▶️ [Animeflix](https://animeflix.live/)
+- Really nice site for free anime streaming in English subbed and subbed.
+- [URL Safety Results](https://www.urlvoid.com/scan/animeflix.live/)
+
 ### ▶️ [Animefox](https://animefox.mobi/)
 - Watch anime online free in HD and on mobile devices and all series and films are in very good quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/animefox.mobi/)

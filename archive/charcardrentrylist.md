@@ -18,30 +18,31 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[Augmented Human C4-621 - Raven](https://files.catbox.moe/nr0tn7.png), [Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Diane Foxington](https://files.catbox.moe/qsxewr.png), [Sharkstack](https://files.catbox.moe/lntgsn.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Venefica](https://files.catbox.moe/oonpqg.png), [Weeping Orc](https://files.catbox.moe/16gn26.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yuki](https://files.catbox.moe/bybg06.png)|[Mommy Yukari](https://files.catbox.moe/afwzh4.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Lotion Cat](https://files.catbox.moe/smxs1h.png)|[Lotion Cat](https://files.catbox.moe/smxs1h.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Minenhle](https://files.catbox.moe/eg32du.png)|[Minenhle](https://files.catbox.moe/eg32du.png) [MV]
 [Scrmgn](https://rentry.org/scrmgn) | Misc |[Vivian](https://files.catbox.moe/aei110.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Sarah](https://files.catbox.moe/bureqn.png)|[Sarah](https://files.catbox.moe/bureqn.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[President Juno](https://files.catbox.moe/jx2pjt.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Edgar](https://files.catbox.moe/ygb9rs.png), [Elliott](https://files.catbox.moe/z2he6r.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Edgar](https://files.catbox.moe/ygb9rs.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Priscilla](https://files.catbox.moe/1ctyfc.png)|
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Sharkstack](https://files.catbox.moe/lntgsn.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ashley](https://files.catbox.moe/roh448.png)|[Ashley](https://files.catbox.moe/roh448.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Strawberry](https://files.catbox.moe/mjslam.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Yumi](https://files.catbox.moe/gnzl1y.png)|[Emi](https://files.catbox.moe/gl5y3p.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[Jessy](https://files.catbox.moe/luvts9.png)|[Jessy](https://files.catbox.moe/luvts9.png) [MV]
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc |[Sandra](https://files.catbox.moe/2nobvt.png)|
-[Honeyanon](https://rentry.org/honeyanon) | Malebots |[Tatsuyuki](https://files.catbox.moe/xlrppo.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Retsu Kaiou](https://files.catbox.moe/9bhtv7.png)|
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)
-[Crustcrunch](https://rentry.org/crustcrunch) | Misc ||[xXkawaiiKittenXx](https://files.catbox.moe/xam4y0.png)
+[Honeyanon](https://rentry.org/honeyanon) | Malebots ||
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
+[Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
@@ -55,7 +56,6 @@ Botmaker | Category | New Bots | Updated Bots
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||
 [Clutch](https://rentry.org/cominginclutch) | Misc ||

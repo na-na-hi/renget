@@ -1,6 +1,3 @@
-!!! info I'm Not Dead!!!
-    I've been getting back into Pokémon recently because of the new Teal Mask DLC just around the corner. No excuses or actually valid reasons as to why I'm not currently making bots, I'm just goofing around on Miraidon's back.
-
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 
 ***
@@ -46,10 +43,10 @@
 
 ***
 
-### Latest boy: Atlas
-"An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world." ==Safe==
-Card: [Atlas](https://files.catbox.moe/7iaffv.png)
-JSON: [Atlas](https://files.catbox.moe/uenpwc.json)
+### Latest boy: Ilya
+"A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house." ==Safe==
+Card: [Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)
+JSON currently unavailable...
 
 Or download his card/JSON file below!
 
@@ -101,6 +98,7 @@ Card | JSON Link | Description | Rating
 ![Noah](https://files.catbox.moe/dgqa6t.png)   | [Noah](https://files.catbox.moe/lx7x6e.json)   | "An abused and scared boy being sold on the black market."   | ==NSFW==
 ![Ethan](https://files.catbox.moe/n1h59l.png)   | [Ethan](https://files.catbox.moe/gkxdu6.json)   | "A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie."   | ==NSFW== `NSFL`
 ![Atlas](https://files.catbox.moe/7iaffv.png)   | [Atlas](https://files.catbox.moe/uenpwc.json)   | "An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world."   | ==Safe==
+![Atlas](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)   | JSON currently unavailable...   | "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house."   | ==Safe==
 
 ***
 ###Suggest Stuff!
