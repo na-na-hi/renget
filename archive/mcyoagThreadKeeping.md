@@ -877,9 +877,11 @@ Bethany Zellenin/Nemian
 Nikkita Arete/Triumph
 >>90242425
 Matt H. Hathaway/The Undertaker
->>90252460
+>>90314355
 Undertow
 >>90248493
+Geyser
+>>90313361
 
 >Wards
 Jennifer King/Blastrix
@@ -950,6 +952,8 @@ Sépulture Inachevée (Undertaker)
 https://rentry.org/r4i3t
 Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
 https://rentry.org/RoosterTeambuilding
+Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
+https://rentry.org/5ivhd
 Undertaker Protectorate/Ward Relationship Chart
 https://rentry.org/c6veb2
 Rayford's Relationship chart:

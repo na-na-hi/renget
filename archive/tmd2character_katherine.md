@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 6 | **Experience to Next Level:** 30/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars
 
@@ -61,7 +61,9 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-They see me rollin'  | Tier 1 | 0/6 | ▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+They see me rollin'  | Tier 2 | 0/6 | ▯▯▯
+
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

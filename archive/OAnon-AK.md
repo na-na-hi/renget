@@ -88,13 +88,6 @@ Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----:
 NA | https://files.catbox.moe/ph9qa2.png | https://files.catbox.moe/hgvdns.json
 
-#### Lyrissa
-Cute blonde elf. Erogenous ears. Based upon [one of my favourite /aids/ prompts.](https://aetherroom.club/220)
-![Lyrissa](https://files.catbox.moe/eepqid.png)
-Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----:
-NA | https://files.catbox.moe/eepqid.png | https://files.catbox.moe/8op6w2.json
-
 ### Other
 #### Mori Calliope
 The end came abruptly for you, and now you find yourself in a dark, unsettling space with the Grim Reaper. She offers you a unique opportunity to change your fate by challenging her to a game of your choice, and if you win, you'll be granted life again. Mori will easily teleport you back if you run, reminding you that there's no escaping death, and she encourages you to accept her challenge if you wish to alter your destiny. *(Hint: she gets extremely flustered if you ask her to a game of who-can-cum-first.)* *This is based upon a hot as fuck [ASMR story](https://kemono.party/patreon/user/27086827/post/58087208). Props if you knew it beforehand - this is that, modified to fit Calli more.*

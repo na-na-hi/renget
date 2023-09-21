@@ -136,6 +136,7 @@
 09/2023|[Efficient RLHF: Reducing the Memory Usage of PPO](https://arxiv.org/abs/2309.00754)
 09/2023|[DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 09/2023|[Textbooks Are All You Need II (phi-1.5)](https://arxiv.org/abs/2309.05463)
+09/2023|[PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training](https://arxiv.org/abs/2309.10400)
 |
 |**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
 06/2022|[Softmax Linear Units](https://archive.is/W0yJN)

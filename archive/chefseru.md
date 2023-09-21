@@ -55,6 +55,7 @@ Name | Description | Links |
 ->**Palmela**<- ![left hand woman](https://files.catbox.moe/vh2gt0.png)| You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. /aicg/ mental illness theme card | [card](https://files.catbox.moe/igl30f.png)
 ->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
 ->**WEEPING ORC**<-Based on this https://files.catbox.moe/l0wyk2.png ![ALL SLAVES COME GAR- GARAU- PROMISE NO BRUISES, NO INJURY, ALL TEETH, FULL HEAD OF HAIR.](https://files.catbox.moe/nk23st.jpg)| To use, copy paste bot's defs into your reply, paste [Weeping Orc is trying to sell (bot's name) to {{user}}, using (bot's name)'s description, quirks, personality, and kinks from their character definitions in the sales pitch. Be humorous, funny, and bizarre.] and hit send. Enjoy. | [card](https://files.catbox.moe/16gn26.png)
+->**Sally, your naive sister**<- ![blue pubes](https://files.catbox.moe/kzfzqz.png)| The first bot I ever made and a timecapsule, drudged up from months ago and unedited. Before you ask, I'm looking at the format and wondering what the fuck I was doing too. | [card](https://files.catbox.moe/e3czwj.png)
 
 ***
 ## CARRYOUT
@@ -75,7 +76,6 @@ Email me if you're interested. Don't expect anything better than what you see he
 Name | Description | Links |
 ------ | ------ | ------ | 
 
-
 ***
 ## DESSERT (SFW/NSFW)
 ***
@@ -94,3 +94,4 @@ Name | Description | Links |
 ![SQUEEZE ZONE](https://files.catbox.moe/4btif5.png)| ![akahime swimwear](https://files.catbox.moe/b3qqa4.png)
 ![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)| ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
 ![Ginny in panties](https://files.catbox.moe/eagl4q.png)| ![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)
+![I have an addiction](https://files.catbox.moe/wdfplz.png)| ![please send help](https://files.catbox.moe/inc6z2.png)
