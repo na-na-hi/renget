@@ -898,7 +898,7 @@ Set list (stream starts at 0:27):
 22. My Chemical Romance - Helena (So Long & Goodnight) (2:03:27)
 23. Taylor Swift - Look What You Made Me Do (2:07:59)
 
-[warosu](warosu.org/vt/thread/58947837#p58948377)
+[warosu](https://warosu.org/vt/thread/58947837#p58948377)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

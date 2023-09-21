@@ -56,6 +56,7 @@ Name | Description | Links |
 ->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
 ->**WEEPING ORC**<-Based on this https://files.catbox.moe/l0wyk2.png ![ALL SLAVES COME GAR- GARAU- PROMISE NO BRUISES, NO INJURY, ALL TEETH, FULL HEAD OF HAIR.](https://files.catbox.moe/nk23st.jpg)| To use, copy paste bot's defs into your reply, paste [Weeping Orc is trying to sell (bot's name) to {{user}}, using (bot's name)'s description, quirks, personality, and kinks from their character definitions in the sales pitch. Be humorous, funny, and bizarre.] and hit send. Enjoy. | [card](https://files.catbox.moe/16gn26.png)
 ->**Sally, your naive sister**<- ![blue pubes](https://files.catbox.moe/kzfzqz.png)| The first bot I ever made and a timecapsule, drudged up from months ago and unedited. Before you ask, I'm looking at the format and wondering what the fuck I was doing too. | [card](https://files.catbox.moe/e3czwj.png)
+->**Viscera**<- ![meat monster gf](https://files.catbox.moe/u6idfr.png) | This was Iris before I made her more 'normal', since I didn't want to come out swinging with a The Thing gf as one of my first few bots. Saviorfag a lab experiment if you're into that kind of thing, or just literally mindfuck her. | [chub](https://chub.ai/characters/Anonymous/viscera-2e50a379) [card](https://files.catbox.moe/v6joen.png)
 
 ***
 ## CARRYOUT

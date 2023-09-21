@@ -640,7 +640,7 @@ And no, you can't eat it.
  - Thor
    - \
 
-- Tiamat
+ - Tiamat
    - \
 
  - Tsukuyomi
@@ -1158,7 +1158,7 @@ And no, you can't eat it.
  - Thoth
    - [No current special skin effects]
 
-- Tiamat
+ - Tiamat
    - Magical Dragon Tiamat Special Emote makes her shimmer in a psychadelic-y way, until she next takes an action.
 
  - Tsukuyomi
@@ -1638,7 +1638,7 @@ Here's your options to skim, excluding what you can buy with Favor:
    - Vizier
    - Twisted Jester
 
-- Tiamat
+ - Tiamat
    - [**YOU GET NOTHING, YOU LOSE, GOOD DAY SIR**](https://youtu.be/M5QGkOGZubQ)
 
  - Tsukuyomi

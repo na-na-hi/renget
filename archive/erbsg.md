@@ -1,5 +1,13 @@
 #Eternal Return: Black Survival Coupon Codes
 
+**Available until ????**
+*ERSTEAM30000* 2000 A-Coin & 50 Event NP (7 Days)
+*ERTOTHEMOON* 2000 A-Coin & 50 Event NP (7 Days)
+*ERPLAYTOWIN* 2000 A-Coin & 50 Event NP (7 Days)
+*ERPLAYFORFUN* 2000 A-Coin & 50 Event NP (7 Days)
+*ERHAPPYTIME* 2000 A-Coin & 50 Event NP (7 Days)
+*ERPLAYSQUAD* 2000 A-Coin & 50 Event NP (7 Days)
+
 **Available until 9/28/2023**
 *TGSWITHER1* (9/20) 5000 A-Coin
 *TGSWITHER2* (9/21) Research Center Data Box Set

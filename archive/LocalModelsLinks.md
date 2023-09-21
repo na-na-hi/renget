@@ -80,6 +80,7 @@
 [exllama](https://github.com/turboderp/exllama)|Memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights
 [exllama2](https://github.com/turboderp/exllamav2)|Faster kernels and cleaner codebase with new quantization style (70B llama 2 on 24GB VRAM)
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
+[PoSe](https://github.com/dwzhu-pku/PoSE)|Positional skip-wise training (finetuning too) that works with RoPe models for context extension
 [ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Consolidated tuning repo for various foundational models
 [Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
@@ -125,6 +126,7 @@
 [Talk](https://github.com/yacineMTB/talk)|Node based conversational engine (whisper, LLaMa, TTS) 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
 [Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone)|Text-to-audio transformer based model with CPU/GPU inference 
+[Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast TTS architecture with conditional flow matching
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Anticipation](https://github.com/jthickstun/anticipation)|Controllable music generation models based on anticipatory infilling (MIDI currently)
 [Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)

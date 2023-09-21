@@ -18,7 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Chefseru](https://rentry.org/chefseru) | Misc |[Sally, your naive sister](https://files.catbox.moe/e3czwj.png), [Venefica](https://files.catbox.moe/oonpqg.png), [Weeping Orc](https://files.catbox.moe/16gn26.png)|
+[Chefseru](https://rentry.org/chefseru) | Misc |[Viscera](https://files.catbox.moe/v6joen.png), [Sally, your naive sister](https://files.catbox.moe/e3czwj.png), [Venefica](https://files.catbox.moe/oonpqg.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Augmented Human C4-621 - Raven](https://files.catbox.moe/nr0tn7.png), [Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Diane Foxington](https://files.catbox.moe/qsxewr.png), [Sharkstack](https://files.catbox.moe/lntgsn.png)|
@@ -32,14 +32,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Priscilla](https://files.catbox.moe/1ctyfc.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ashley](https://files.catbox.moe/roh448.png)|[Ashley](https://files.catbox.moe/roh448.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Strawberry](https://files.catbox.moe/mjslam.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Yumi](https://files.catbox.moe/gnzl1y.png)|[Emi](https://files.catbox.moe/gl5y3p.png)
-[Nono](https://rentry.org/NonoRoom) | Misc |[Jessy](https://files.catbox.moe/luvts9.png)|[Jessy](https://files.catbox.moe/luvts9.png) [MV]
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
+[Genoo](https://rentry.org/295se) | Sizeplay ||[Emi](https://files.catbox.moe/gl5y3p.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)
+[Nono](https://rentry.org/NonoRoom) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||

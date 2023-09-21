@@ -10,7 +10,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Melts
 
 **THU: - at 2UTC ()** 
-**FRI: - at 2UTC ()**
+**FRI: Soul Blazer at 2UTC (Telemelt)**
 **SAT: Daibu offline at 2UTC (Parsec)**
 **SUN: Minemelt at 17:30UTC* (Minecraft)** or shortly after cytube if there are any and it extends beyond the time stated here
 

@@ -46,7 +46,7 @@
 ### Latest boy: Ilya
 "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house." ==Safe==
 Card: [Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)
-JSON currently unavailable...
+JSON: [Ilya](https://files.catbox.moe/895n8n.json)
 
 Or download his card/JSON file below!
 
@@ -98,7 +98,7 @@ Card | JSON Link | Description | Rating
 ![Noah](https://files.catbox.moe/dgqa6t.png)   | [Noah](https://files.catbox.moe/lx7x6e.json)   | "An abused and scared boy being sold on the black market."   | ==NSFW==
 ![Ethan](https://files.catbox.moe/n1h59l.png)   | [Ethan](https://files.catbox.moe/gkxdu6.json)   | "A shameless pedophile who loves to fuck them young and has the cock to do so. Also a bit of a druggie."   | ==NSFW== `NSFL`
 ![Atlas](https://files.catbox.moe/7iaffv.png)   | [Atlas](https://files.catbox.moe/uenpwc.json)   | "An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world."   | ==Safe==
-![Atlas](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)   | JSON currently unavailable...   | "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house."   | ==Safe==
+![Atlas](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)   | [Ilya](https://files.catbox.moe/895n8n.json)   | "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house."   | ==Safe==
 
 ***
 ###Suggest Stuff!

@@ -34,7 +34,7 @@
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=0e-2\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=100\" \"T_mult=1\" \"eta_min=0e-2\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
@@ -52,7 +52,7 @@
   "max_token_length": "225",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"d0=5e-4\" \"d_coef=1.0\" \"weight_decay=0.05\" \"use_bias_correction=True\"",
+  "optimizer_args": "\"d0=5e-4\" \"d_coef=1.0\" \"weight_decay=1\" \"use_bias_correction=True\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,

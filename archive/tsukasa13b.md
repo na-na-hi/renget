@@ -1,5 +1,7 @@
 # tsukasa
 
+!!! warn agnai prompts were wrong and didnt follow how the dataset was formatted, i just noticed now as of 9/21 so u should update ur settings :P
+
 !!! note now with a log paste! https://rentry.org/tsukasa13blogs
 
 ![fox](https://feen.us/u125a2.gif)
@@ -53,7 +55,7 @@ This scenario of the conversation is: {{scenario}}
 {{#each msg}}{{#if .isbot}}<|model|>{{/if}}{{#if .isuser}}<|user|>{{/if}}{{.name}}: {{.msg}}
 {{/each}}
 {{#if ujb}}<|system|>{{ujb}}{{/if}}
-<|model|>{{post}}
+{{post}}<|model|>
 ```
 
 ujb:
