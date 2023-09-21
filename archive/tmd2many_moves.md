@@ -582,7 +582,7 @@ Amnesia | - | 4 AP | - | Poison | Status | The User's Special Defense is increas
 Aqua Ring | - | 4 AP | - | Water | Status | The User is afflicted with *Aqua Ring*.
 **Aromatherapy** | - | 4 AP | - | Grass | Status | The User is cured of all Major Status Conditions. The User may select additional Allies to cure at the cost of 2 AP each.
 Aromatic Mist | - | 4 AP | - | Fairy | Status | An Ally's Special Defense is increased by 1.
-**Assist** | - | 4 AP | - | Normal | Status | Roll 1D4; The User uses a Move known by an Ally. AP cost is only counted once.
+**Assist** | - | 4 AP | - | Normal | Status | Roll 1D4; The User uses a Move known by an Ally. AP cost is only counted once. Does not count as a Status Move.
 Attract | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent is afflicted with *Infatuated*.
 Aurora Veil | - | 4 AP | - | Ice | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and 2 Allies. Fails if it the Weather isn't [Snow](https://rentry.co/tmd2many_rules#weather). Affects Physical and Special Moves. 
 Autotomize | - | 4 AP | - | Steel | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 1. The User becomes lighter.
@@ -608,7 +608,7 @@ Confide | - | 4 AP | - | Normal | Status | The Opponent's Special Attack is decr
 Confuse Ray | - | 4 AP | ≥2 | Ghost | Status | The Opponent is afflicted with [*Confused*](https://rentry.org/tmd2many_rules#status-effects).
 Conversion | - | 4 AP | - | Normal | Status | The User changes Type according to the Move at the top of their Moveset.
 Conversion 2 | - | 4 AP | - | Normal | Status | The User changes Type according to what the Opponent's last-used Move would be least effective against, prioritizing immunities. 
-**Copycat** | - | - | - | Normal | Status | The User replicates a Move used by Opponent or Ally on the current or previous round.
+**Copycat** | - | - | - | Normal | Status | The User replicates a Move used by Opponent or Ally on the current or previous round. Does not count as a Status Move.
 Corrosive Gas | - | 4 AP | ≥2 | Poison | Status | Removes the Opponent's Worn Item. 
 Cosmic Power | - | 4 AP | - | Psychic | Status | The User's Defense and Special Defense are increased by 1.
 Cotton Guard | - | 4 AP | - | Grass | Status | The User's Defense is increased by 3.
@@ -694,7 +694,7 @@ Magic Powder | - | 4 AP | - | Psychic | Status | The Opponent's Type is changed 
 Magnet Rise | - | 4 AP | - | Electric | Status | The User is afflicted with [*Raised*](https://rentry.org/tmd2many_rules#status-effects).
 Magnetic Flux | - | 4 AP | - | Electric | Status | The User's Defense and Special Defense are increased by 2.
 **Mat Block** | - | 4 AP | - | Fighting | Status | For 1 round, an Ally's Defense is increased by 4. The User may select additional Allies to block at the cost of 2 AP each. Accuracy is changed to ≥11 and is halved for each consecutive use.
-**Me First** | - | - | - | Normal | Status | The User replicates a Move used by Opponent on the previous turn. STAB is applied to the Move regardless of the User's Type. Can be used immediately before fainting. 
+**Me First** | - | - | - | Normal | Status | The User replicates a Move used by Opponent on the previous turn. STAB is applied to the Move regardless of the User's Type. Can be used immediately before fainting. Does not count as a Status Move.
 Mean Look | - | 4 AP | - | Normal | Status | The Opponent is afflicted with *Immobile*.  
 Meditate | - | 4 AP | - | Psychic | Status | The User's Attack is increased by 1.
 Memento | - | 4 AP | - | Dark | Status | The Opponent's Attack and Special Attack are decreased by 3. The User faints.
@@ -705,7 +705,7 @@ Milk Drink | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
 Mind Reader | - | 4 AP | - | Normal | Status | Until the end of the next round, the User's Moves cannot miss the Opponent.
 Minimize | - | 4 AP | - | Normal | Status | The User's Evasion is increased by 2.
 Miracle Eye | - | 4 AP | - | Psychic | Status | The Opponent is affected by Psychic-Type Moves. The Opponent's Evasion is ignored.
-**Mirror Move** | - | - | - | Flying | Status | The User replicates a Move which affected them on the current or previous round.
+**Mirror Move** | - | - | - | Flying | Status | The User replicates a Move which affected them on the current or previous round. Does not count as a Status Move.
 **Mist** | - | 4 AP | - | Ice | Status | The User is protected from to having their Stats decreased by Opponents. The User may select additional protect at the cost of 2 AP each.
 Misty Terrain | - | 4 AP | - | Fairy | Status | The Terrain is changed to Misty Terrain.
 **Moonlight** | - | 4 AP | - | Fairy | Status | The User is healed for 4 HP. Healing dictated by [Weather](https://rentry.org/tmd2many_rules#weather). 

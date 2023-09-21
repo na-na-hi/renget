@@ -5,6 +5,7 @@ Link | Description
 /bag/ Newfag Guide | [/bag/ Newfag Guide](https://rentry.org/how2playba) 
 JP to English Story Translations | https://www.youtube.com/c/yanagikaze/videos | 
 English Wiki | https://bluearchive.wiki
+BA Database | https://schale.gg/
 New Player FAQ | https://bluearchive.wiki/wiki/FAQ
 Japanese Wiki | https://bluearchive.wikiru.jp
 English Database | https://lonqie.github.io/SchaleDB/

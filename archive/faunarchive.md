@@ -867,4 +867,38 @@ Video unavailable since it contains content from SME
 [mega](https://mega.nz/folder/GRogzC6R#z7RXd_uqVgb4jbVwjU93cw)
 [warosu](https://warosu.org/vt/thread/58665114#p58701778)
 
+
+##### kirin is a puddle (who sings) (unarchived karaoke)
+[2023-09-20](https://www.youtube.com/watch?v=Cv_D8gak794) - unarchived
+[magnet](magnet:?xt=urn:btih:fd8115d20629998eb41c81b3bba8341268709045&dn=%5B20230920%5D%20Unarchived%20Puddle%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[mega](https://mega.nz/file/ch5R1KQK#WcCG-E83Bplzs8-NkBBfEwR3mPVviM9wFaz7d8TK3wA)
+
+Set list (stream starts at 0:27):
+1. Bring Me The Horizon - Drown (2:37)
+2. Vance Joy - Riptide (7:19)
+3. Green Day - Wake Me Up When September Ends (12:01)
+4. Ween - Ocean Man (16:47)
+5. Toto - Africa (20:34)
+6. Rihanna, JAY-Z - Umbrella (26:24)
+7. The Fray - How to Save a Life (multiple attempts to find proper key starting at 32:16; final attempt at 34:23)
+8. Thirty Seconds to Mars - The Kill (40:20)
+9. Earth, Wind & Fire - September (47:16)
+10. Eminem, Dido - Stan (incomplete; 51:58)
+11. My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (55:46)
+12. Death Cab for Cutie - I Will Follow You Into the Dark (1:02:01)
+13. The All-American Rejects - Move Along (1:06:04)
+14. The Phantom of the Opera (1:10:35)
+15. Tyler, The Creator; Playboi Carti - EARFQUAKE (1:17:38)
+16. Tyler, The Creator; Kali Uchis - See You Again (1:21:53)
+17. Paramore - Misery Business (1:27:03)
+18. Panic! at the Disco - Death of a Bachelor (1:32:20)
+19. Frankie Valli - Can't Take My Eyes Off You (1:42:52)
+20. Imagine Dragons, JID - Enemy (1:47:56)
+21. Franz Schubert - Ave Maria (original rendition) (1:58:20)
+22. My Chemical Romance - Helena (So Long & Goodnight) (2:03:27)
+23. Taylor Swift - Look What You Made Me Do (2:07:59)
+
+[warosu](warosu.org/vt/thread/58947837#p58948377)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

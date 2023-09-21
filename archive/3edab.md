@@ -459,7 +459,7 @@ if __name__ == '__main__':
 				for segment in fs[1:]:
 					if segment.startswith(r'http') or len(segment.split(r'_')) > 1:
 						cleanedURL.append(re.sub(r'https?%3A%2F%2F',r'',segment.replace(r'_',r'%').replace(r'%2E',r'.')))
-				if len(cleanedURL) > 1:
+				if cleanedURL:
 					clean_file = fs[0] + r'sound=' + 'sound='.join(cleanedURL)
 					os.replace(file,clean_file)
 					print(r'Cleaned: ' + str(file) + ' -> ' + str(clean_file))

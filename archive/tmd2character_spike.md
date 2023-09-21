@@ -60,13 +60,8 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
-Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
-Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

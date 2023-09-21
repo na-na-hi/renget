@@ -60,11 +60,11 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Training for Attribute: Star Charting | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 Attribute: ???  | N/A (+0) | 0/3 | ▯▯▯
 Attribute: ???  |  N/A | 0/3 | ▯▯▯
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ???  |  N/A | 0/6 | ▯▯▯▯▯▯
-Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: N/A | N/A | 0/9 | ▯▯▯▯▯▯▯▯▯

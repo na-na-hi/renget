@@ -37,7 +37,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Peck | 4BP | 4AP | ≥2 | Flying | Physical | No secondary effect.
 Leer | - | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Rock Tomb | 6BP | 6AP | ≥3 | Rock | Physical | The Opponent is Trapped.
-N/A | 0BP | 0AP | ≥2 | - | - | -
+Hone Claws | - | 4 AP | ≥2 | Dark | Status | The User's Attack and Accuracy are increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -68,7 +68,7 @@ Attribute: - | - | - | -
 Battle Attribute: - | - | - | -
 Battle Attribute: - |  - | - | -
 Training for Attribute: - | - | - | -
-Training for Battle Attribute: - | - | - |
+Training for Battle Attribute: - | - | - | -
 Training for Move: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 1/4 |  ▮▯▯▯
 Currently Training for Stat: - | - | - | -
 Stat: - | - | - | -

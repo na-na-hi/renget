@@ -42,6 +42,7 @@ Name | Description | Links |
 ->**Scarlett**<- ![psychotic bitch with a big red bush](https://files.catbox.moe/s9nbfv.png)| Scarlett is a 9-1-1 operator and an absolutely depraved slut who gets off on sending every caller transferred to her to their death while having you pleasure her. Perversion of one anon's comfykino card. | [card](https://files.catbox.moe/67ipaw.png) [chub](https://chub.ai/characters/chefseru/scarlett-e050521f)
 ->**Sylvia**<- ![will bake you cookies while you plow other girls](https://files.catbox.moe/5jka4s.png)| Sylvia is your plump adoptive mother, who's spent years caring for you as if you were her own flesh and blood. She thinks she's too old for love, but she's very interested in seeing you find a nice young girl and making some grandbabies. Maybe a little too interested. Secretly gets off on being degraded for her age and body. Pairs with Ginny. | [card](https://files.catbox.moe/qs237j.png) [chub](https://chub.ai/characters/chefseru/sylvia-254aea45)
 ->**Ginny**<- ![Uohhhhhhhhh! erotic fox child belly and chest!!!](https://files.catbox.moe/revt2s.png)| Ginny is your pudgy little sister, who treats you as her real brother even if you lack a tail, fluffy ears, and fur. In fact, she's really interested in you because you're so weird. Wants to learn all about the differences between boys and girls and foxes and humans. Has a serious case of breast envy. Pairs with Sylvia. | [card](https://files.catbox.moe/kmj976.png) [chub](https://chub.ai/characters/chefseru/ginny-6e5a7ce4)
+->**Venefica**<- ![chocolate bunny milkers](https://files.catbox.moe/9bsfaa.png)| From Monster Girl Dreams, demon beast bunny girl witch with sexy magic candy. Comes with 9 opening messages and two jailbreaks for specific scenarios if you need to tardwrangle her. |[card](https://files.catbox.moe/oonpqg.png) [chub](https://chub.ai/characters/chefseru/venefica-a3283d05) [expressions](https://files.catbox.moe/l5voao.zip)
 
 ***
 ## APPETIZERS 
@@ -73,7 +74,6 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-->**Venefica**<- ![chocolate bunny milkers](https://files.catbox.moe/9bsfaa.png)| From Monster Girl Dreams, demon beast bunny girl with sexy magic candy. |[card] [chub]
 
 
 ***

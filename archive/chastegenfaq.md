@@ -68,11 +68,11 @@ You will probably get it wrong with the first cage or two. It takes a while to f
 - [Cellmate](https://www.qiui.store/collections/smart-toys-by-qiui) (Bio-Resin, remote controlled)
 - [BirdLocked](http://www.birdlocked.com/male-chastity-device/male-chastity.asp) (Silicone)
 
-And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076) and [Happygo](https://www.aliexpress.com/store/1101019036) being recommended for decent quality. These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.
+And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD \(Note: May be dead\)](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076), [Happygo](https://www.aliexpress.com/store/1101019036), and [Dream Of Her](https://www.aliexpress.com/store/1102016932) being recommended for decent quality. These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.
 
 ***
 ###### Do you have any recommendations for a starter cage?
-I'd try starting with a knock-off of the KINK3D Cobra. These are usually called some snake-themed name like "Python" or "Mamba". Here is a link to the CHASTE BIRD version ([link](https://www.aliexpress.us/item/3256802955902733.html)).
+I'd try starting with a knock-off of the KINK3D Cobra. These are usually called some snake-themed name like "Python" or "Mamba". Here is a link to the Dream Of Her version ([link](https://www.aliexpress.us/item/3256803836685809.html)).
 
 It's a basic-bitch cage with little-to-no frills and cheap(er) knock-offs, so it will give you a feel for what you like or dislike about it, get sizing dialed in, and then go from there looking for a cage that has those features. (e.g. metal/bio-resin instead of 3D printed, special ring shapes, closed/open tubing, etc.) all without breaking the bank.
 ***
@@ -88,7 +88,7 @@ The general process is as follows:
 !!! danger
 	If it does not fit comfortably do not force it!
 
-The above process is just the base recommend. You may find other ways that work better for you (I personally am small and squishy enough that I do cock->scrotum->balls), just find what works to get you in a cage. I cannot stress enough how much some form of lubrication, either moisturizer or a lube itself, can make the process, especially if you have chafing issues with the cage, or if you are using a closed-tube design. It will also help with chafing and pulling issue when you have the cage on itself. Shaving down there can also help to remove bulk and causes of pulling and friction.
+The above process is just the base recommend. You may find other ways that work better for you (I personally am small and squishy enough that I do cock\-\>scrotum\-\>balls), just find what works to get you in a cage. I cannot stress enough how much some form of lubrication, either moisturizer or a lube itself, can make the process, especially if you have chafing issues with the cage, or if you are using a closed-tube design. It will also help with chafing and pulling issue when you have the cage on itself. Shaving down there can also help to remove bulk and causes of pulling and friction.
 
 If you are having troubles fitting into a tighter cage or having troubles with alignment in a closed-tube design, you can try the "stocking method". Get some stockings (pantyhose) and put it around your flaccid member. Get your bits through the ring, then feed the excess of the stocking through the cage itself, and out of the urethral hole at the end of the cage. Pull the stockings (and therefore your dick) through the cage, getting you in there with less friction and helping to align things. Continue to pull and remove the stockings.
 
@@ -169,11 +169,11 @@ Going through security is another issue, and while a plastic/silicone cage with 
 
 ***
 ###### My cage keeps pulling away when I get hard, what do?
-The easy solution is to get some sort of strap around your waist, such as a shoestring, twine, ribbon, or a purpose-made strap [like this one](https://www.aliexpress.us/item/2255801074734121.html?spm=a2g0o.store_pc_groupList.8148356.27.63897147PpQS0h&pdp_npi=3%40dis%21USD%21US%20%247.99%21US%20%245.99%21%21%21%21%21%402101f49a16892062096854562eef11%2110000015506493028%21sh%21US%214328586802) that can attach to the cage and help keep it pressed against your body. Note that because it does add mass on the ring, you may find a need to size-up your ring if it is too tight with it on.
+The easy solution is to get some sort of strap around your waist, such as a shoestring, twine, ribbon, or a purpose-made strap [like this one](https://www.aliexpress.us/item/3256805607021610.html) that can attach to the cage and help keep it pressed against your body. Note that because it does add mass on the ring, you may find a need to size-up your ring if it is too tight with it on.
 
 ***
 ###### I have a metal cage that doesn't stay on my body, what do?
-Again, like with a cage that pulls away, [a strap](https://www.aliexpress.us/item/2255801074734121.html?spm=a2g0o.store_pc_groupList.8148356.27.63897147PpQS0h&pdp_npi=3%40dis%21USD%21US%20%247.99%21US%20%245.99%21%21%21%21%21%402101f49a16892062096854562eef11%2110000015506493028%21sh%21US%214328586802), shoelace, ribbon, etc. can be useful to keep it next to your body.
+Again, like with a cage that pulls away, [a strap](https://www.aliexpress.us/item/3256805607021610.html), shoelace, ribbon, etc. can be useful to keep it next to your body.
 
 ***
 ###### How do I clean while in chastity?

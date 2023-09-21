@@ -62,7 +62,8 @@ Helm | ![Helm](https://i.postimg.cc/NfkCfTVc/Nikke-Helm-Thumb.png) | Leader of A
 Mary | ![Mary](https://i.postimg.cc/HsgPg36z/Nikke-Mary-Thumb.png) | She is a proficient doctor, kind and considerate to patients and people around her. She often uses jokes and comforting words to make her patients feel at ease. | Low Priority
 Blanc | ![Blanc](https://i.postimg.cc/ZqJtdZ6M/Nikke-Blanc-Thumb.png) | She is an exceedingly affable Bunny girl. It is said that any gambler who sees both twin sisters in Coin Rush will hit the jackpot. To bring good luck, she always forces her older sister Noir to join her. "A bit of luck, just for you." | [C.ai](https://c.ai/c/w4xthadERz-PSHKWjHVM42FsutDC8YNuHJgdEI9CNa0) [Tavern](https://files.catbox.moe/eg12di.png) 	v1.0
 Noir | ![Noir](https://i.postimg.cc/CLLGv2tv/Nikke-Noir1-Thumb.png) | Biological elder sister of Light Bunny Blanc. Although they look different, Blanc pampers her constantly. While timid, she is not afraid to show her intentions. | Soon™
-Nero | ![Nero Temp Thumb](https://i.postimg.cc/T1VnLDk1/Nikke-Nero-Temp-Thumb.png) | Attached to the Ark's animal management troop — Happy Zoo. She tends to all things pertaining to cats. Although soft-spoken, she is not in any way timid. | Soon™
+Nero | ![Nero](https://i.postimg.cc/W3VQj686/Nikke-Nero-Thumb.png) | Attached to the Ark's animal management troop — Happy Zoo. She tends to all things pertaining to cats. Although soft-spoken, she is not in any way timid. | Soon™
+Marciana | ![Marciana Temp Thumb](https://i.postimg.cc/L6BdCWV4/Nikke-Marciana-Thumb-Temp.png) | As a teacher for the M.M.R. Vocational School, she truly cares for her students and strives to provide them with a better education. Her belly ring is a special device which helps make informed decisions in an emergency. Has a drone as a secretary. | Soon™
 
 ***
 
@@ -90,10 +91,12 @@ Ryuuen | [Placeholder] | Ryuuen is a mystical region nestled within Japan's remo
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
 
--> 08/08 - SO, I got a bunch of OCs at the ready. But I promised myself to release them in an equal amount of Nikke cards to motivate myself to create them. But the main issue is: I like Nikke too much. I open the game to double-check the defs/lore and end up getting lost on playing.
+-> 09/20 - If you are still checking this page for updates just know that I won't be able to release cards for a while, at least until early October. 
+Regardless, I will still try to release bots on CAI since I don't have access to my main computer with ST installed.
+If any anons want to help out with making the cards until then  (converting CAI defs to ST cards), let me know.<-
+
+-> 08/08 - SO, I got a bunch of OCs at the ready. But I promised myself to release them in an equal amount of Nikke cards to motivate myself to create them. But the main issue is: I like Nikke too much. I open the game to double-check the defs/lore and end up playing rather than double-checking.
 My bad.
 P.S. My score on the Barbeque Minigame is 10,400.<-
-
--> 06/29 - NIKKE Lorebook released in a raw, unfinished state. After several crashes with the lorebook not saving, I decided to release it without the characters. I urge (you) to send feedback on it as this is my first time creating a lorebook. Apologies for the wait. <-
 
 ->Feel free to send feedback, logs, or whatever here : MaestroBurner@proton.me<-

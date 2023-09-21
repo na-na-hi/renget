@@ -7,9 +7,9 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** ==REPLACE==
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 6 | **Experience to Next Level:** 30/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
@@ -77,8 +77,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Oran Berry | Heals the User for 10HP.
+2. Oran Leaf x2 | Heals the User for 3HP. Can stack to 3.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

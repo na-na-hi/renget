@@ -45,6 +45,7 @@ Image| Name | Description | Link
 lot of femdom and scenario shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![like riding a stolen bike](https://files.catbox.moe/qsxewr.png) | Diane Foxington | governor of los angeles | [CHUB link](https://www.chub.ai/characters/onaholesama/diane-foxington-d8467eeb)
 ![squalene nnf](https://files.catbox.moe/lntgsn.png) | Sharkstack | impressionable shortstack shark grill that likes dnd | [CHUB link](https://chub.ai/characters/onaholesama/sharkstack-6f3566e7)
 ![PIZZA!!!!!! PIZZA!!!!!!!!!!!!!!!!!!!!!](https://files.catbox.moe/gfjgt3.png) | **Shiiorina** | arctic fox grill that likes skiing a little to much | [CHUB link](https://www.chub.ai/characters/onaholesama/shiiorina-47bc7e03)
 ![get a job hippie](https://files.catbox.moe/uizque.png) | Judy | hippie border collie waifur | [CHUB link](https://www.chub.ai/characters/onaholesama/judy-305224f8) 

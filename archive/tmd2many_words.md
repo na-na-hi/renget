@@ -348,3 +348,20 @@ Some Pokémon lines, families, or even entire villages might have special ritual
 
 **Mythical Knowledge**
 The public might not know too much about Myths and Legends, and it might just be that way all the way up until elders or historians. Otherwise, basic knowledge regarding these myths might disseminate through word of mouth or superstitions, diluted to the point the Mythical or Legendary might not even be directly referenced.
+
+***
+
+## Legendaries/Mythicals Reservations
+Listed here are the Legendaries/Mythicals expected to be used for the course of the story or a quest. Some have been excluded for other, unspecified reasons. Usually for narrative continuity purposes.
+- Kyurem, Reshiram, and Zekrom
+- Zacian and Zamazenta
+- Cobalion, Terrakion, Virizion, and Keldeo
+- Kyogre (Tentative)
+- Ho-Oh (Tentative)
+- Wo-Chien, Chien-Pao, Ting-Lu, and Chi-Yu
+
+**Unavailable**
+- Lugia
+- Rayquaza
+- Iron Leaves, Iron Crown, Miraidon, Magearna
+- Eternatus

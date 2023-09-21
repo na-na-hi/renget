@@ -338,7 +338,10 @@ A Vpred model, you need both a safetensor and an accompanying yaml file. See her
 
 What are Fun/Funner Editions?
 
-![Explanation](https://files.catbox.moe/8m87z9.png)
+>Tweaked UNET with supermerger adjust to dialback noise/detail that can resolve eye sclera bleed in some cases.
+>Adjusted contrast and color temperature. (Less orange/brown by default)
+>CLIP should theoretically respond more to natural language. (Don't conflate this with tags not working or having to use natural language. Also it is not magic, so don't expect extremely nuanced prompts to work better.)
+>FunEdition and FunEditionAlt are earlier versions before adjusting the UNET further to fix color temperature and color bleed. CLIP on these versions may be less predictable as well.
 
 ## Galleries
 

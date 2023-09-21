@@ -324,9 +324,11 @@ This works in mock battles and actual runs.
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 
+Groggy/stun meters are the small bars underneath the boss' HP bar. If applicable, they only fill up if you use the correct damage type.
+E.g. For Binah (yellow) I can use Mika to fill the bar and stun the snake, but I can't stun the snake with Aru no matter how much damage she deals. 
+
 >I forgot if I started a mock battle or a real run, help! 
 In battle, at the top left of your screen it shows if it's a mock battle. If there isn't a notice, it's a real run. 
-
 >Should I save my raid coins? 
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
 You don't lose your coins after a refresh. 
