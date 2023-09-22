@@ -18,7 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Rudy](https://files.catbox.moe/riak0q.png), [Strawberry](https://files.catbox.moe/mjslam.png)|
+[Luneose](https://rentry.org/luneose) | Misc |[Karin](https://files.catbox.moe/36bev7.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Rudy](https://files.catbox.moe/riak0q.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Viscera](https://files.catbox.moe/v6joen.png), [Sally, your naive sister](https://files.catbox.moe/e3czwj.png), [Venefica](https://files.catbox.moe/oonpqg.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Diane Foxington](https://files.catbox.moe/qsxewr.png), [Sharkstack](https://files.catbox.moe/lntgsn.png)|
@@ -50,7 +51,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
-[Luneose](https://rentry.org/luneose) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

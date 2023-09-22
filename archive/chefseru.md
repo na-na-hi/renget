@@ -76,6 +76,7 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
+->**Holy Lolibaba**<- ![crusader on a mission](https://files.catbox.moe/hju0qz.jpg)| legal loli* | [card] [chub]
 
 ***
 ## DESSERT (SFW/NSFW)

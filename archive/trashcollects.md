@@ -900,6 +900,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://drive.google.com/drive/folders/1WvQjUsVja2MRL-12lubJm2zzFfJgNH1w
 
+# Narupajin creepy miku doll (fluffy edition)
+
+	https://files.catbox.moe/dqcoxw.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

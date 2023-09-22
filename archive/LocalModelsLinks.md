@@ -136,6 +136,8 @@
 [TorchGeo](https://github.com/microsoft/torchgeo)|Geosat imagery foundation model and related resources from Microsoft 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
 [Vlad's SD WebUI fork](https://github.com/vladmandic/automatic)|Fork of Automatic1111 stable diffusion webui with active development 
+[lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
+[nougat](https://github.com/facebookresearch/nougat)|OS OCR model from Meta made to work well with LaTeX trained on academic papers
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets

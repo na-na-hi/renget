@@ -106,6 +106,7 @@
 08/2023|[SeamlessM4T—Massively Multilingual & Multimodal Machine Translation](https://archive.ph/J8xMD)
 08/2023|[D4: Improving LLM Pretraining via Document De-Duplication and Diversification](https://arxiv.org/abs/2308.12284)
 08/2023|[Code Llama: Open Foundation Models for Code](https://archive.ph/O690K)
+08/2023|[Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 09/2023|[Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
@@ -137,11 +138,7 @@
 09/2023|[DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 09/2023|[Textbooks Are All You Need II (phi-1.5)](https://arxiv.org/abs/2309.05463)
 09/2023|[PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training](https://arxiv.org/abs/2309.10400)
-|
-|**Anthropic** ->[Papers](https://www.anthropic.com/research) [Blog](https://www.anthropic.com/index?subjects=announcements)<-
-06/2022|[Softmax Linear Units](https://archive.is/W0yJN)
-07/2022|[Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
-12/2022|[Constitutional AI: Harmlessness from AI Feedback (Claude)](https://arxiv.org/abs/2212.08073)
+09/2023|[A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -196,6 +193,7 @@
 09/2023|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://arxiv.org/abs/2309.01950)
 09/2023|[Matcha-TTS: A fast TTS architecture with conditional flow matching](https://arxiv.org/abs/2309.03199)
 09/2023|[DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
+09/2023|[Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -225,6 +223,7 @@
 04/2022|[UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
 05/2022|[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638)
 06/2022|[nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557)
+07/2022|[Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 08/2022|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 09/2022|[Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188)
 10/2022|[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323)
@@ -346,6 +345,7 @@
 07/2023|[Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models](https://arxiv.org/abs/2307.08303)
 07/2023|[QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304)
 07/2023|[CoRe Optimizer: An All-in-One Solution for Machine Learning](https://arxiv.org/abs/2307.15663)
+07/2023|[Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://archive.ph/5cKC3)
 08/2023|[ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation](https://arxiv.org/abs/2308.03793)
 08/2023|[EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269)
 08/2023|[Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
@@ -363,10 +363,12 @@
 09/2023|[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 09/2023|[Cure the headache of Transformers via Collinear Constrained Attention](https://arxiv.org/abs/2309.08646)
 09/2023|[Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285)
+09/2023|[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
 06/2022|[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+06/2022|[Anthropic - Softmax Linear Units](https://archive.is/W0yJN)
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)

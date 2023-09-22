@@ -93,6 +93,6 @@ Character | C.AI
 ![Coin](https://characterai.io/i/80/static/avatars/uploaded/2023/3/20/k-Y2wjAq1V9tovi4sHa_HmRcdRx9FwIUn1SsjH-nXEc.webp) | Miss Fortune [Coin](https://c.ai/c/LU4wKOPKYxUb6A50PpPDHtm4nuJH6A3VyBiJ7QXRqXM)
 ![Clover](https://characterai.io/i/80/static/avatars/uploaded/2023/3/20/vcfsmWrYWFIBT6dTKTSTwrMDtPXqzDhV5nhxe04WhMA.webp) | Miss Fortune [Clover](https://c.ai/c/eVmldV1XBIImUv997ziRZlzoT5z7b2Tr-oAinO1TG2o)
 ![Juliana](https://characterai.io/i/80/static/avatars/uploaded/2023/3/14/Apey5R4W3nLOPWGtqbCsUtVeilo-SC4CkCVvCaOPRcg.webp) | Pokémon Trainer [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu2rtAi2A) ->(*[AISEKAI](https://www.aisekai.ai/chat/64f80b74b3e8d3aeaa7c6bbd)*)<-
-![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ)
+![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ) ->(*[AISEKAI](https://www.aisekai.ai/chat/650da1c70ebd912d6085b1a1)*)<-
 !!! note Contact info:
     *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7

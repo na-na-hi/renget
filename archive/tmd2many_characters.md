@@ -26,6 +26,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
 [Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | N/A
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | N/A
+[Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | N/A
 [Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | N/A
 [Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | N/A
 [Jen-Marie](https://rentry.co/Jen-Marie) | Ex-Human (Fragmented) | Spritzee | Unlicensed Doctor | N/A

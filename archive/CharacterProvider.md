@@ -15,8 +15,10 @@
 # 
 ⠀
 ⠀
-
-
+-> latest change: <-
+#####->  ==GPT-AP-2.2 IS RELEASED== <-
+⠀
+⠀
 -> ~*If you don't see images - the catbox is down!*~ <-
 
 ⠀
@@ -74,9 +76,11 @@ These prompts tend to provide immersive and interactive output. Sex is *very* po
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
+22.09.2023 |  ★[GPT-AP-2.2](https://rentry.co/CharacterProvider#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results.
+ |  | **Features:** Greatly improved output comparing to GPT-AP-2. Characterization is greatly improved, AI follows their descriptions much better and widely uses their word ticks and speech styles. Speech is really fluent. While entering a new scene you will be likely met with an event and interesting NPCs (I haven't stumbled upon the infamous "door knock" problem!). Still figuring out how to make characters much more active and inventive and lower the soy (during speech about violence and minorities). AI may sometimes OVERUSE CAPS and onomatopoeia.  {{char}} will find NPCs nearby and interact with them on their own. Character lines can be very funny. Still can't solve the problem with characters not commenting much during sex scenes, They do, but they talk much less then during general dialogs.
 19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended.
  |  | **Features:** Gives similar outputs to Claude v2 with v10.1. May loop on surrounding descriptions and write as user too with certain cards. Sometimes copy-pastes its messages (rarely). For some reason starts using known claudisms and new GPTsms(?) like "Damsel in distress". AI will try to implement speech in every reply (due to the line "AI must include in its reply at least 100 words of speech") even if character is sleeping (they will murmur in sleep or AI will just skip the scene to awakening). Writes A LOT.
-16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Tryng to make GPT more active in RP and a bit pervy for Ecchi adventures.
+16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Trying to make GPT more active in RP and a bit pervy for Ecchi adventures.
  |  | **Features:** Still testing. AI tries to respond in *reaction* -> *action* structure.
 
 #
@@ -280,6 +284,27 @@ Here is a visualization:
 - - -
 # 
 ## ![](https://files.catbox.moe/5eij7u.png) GPT PROMPTS
+# 
+- - -
+- - -
+- - -
+# 
+###GPT-AP-2.2
+#
+!!! note There's a new link. Prompts should work fine now.
+###### PRESET AND PROMPTS
+Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+#
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/lkj3mh.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/lkj3mh.zip)
+#
+!!! **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
 # 
 - - -
 - - -
