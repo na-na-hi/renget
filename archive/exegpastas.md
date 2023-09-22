@@ -65,6 +65,7 @@ Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
 *Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
 *A Dame's Great Scoop* (Mario.exe)|[(link)](https://rentry.org/adamesgreatscoop)
 *Subjugation* (Sonic.exe)|[(link)](https://rentry.org/ye5n2)
+*ORBOT'S ARCHIVAL* (Sonic.exe)|[(link)](https://rentry.org/orbotsarchival)
 
 ##Non-vidya pastas
 Title|Link

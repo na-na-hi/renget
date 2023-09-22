@@ -1,4 +1,4 @@
-MMD Rentry Pastebin V1.008 - 2023
+MMD Rentry Pastebin V1.009 - 2023
 ####-> About MMD <-
 MMD (MikuMikuDance) is a 3D animation software. It uses a system of bones and keyframes to create animation. It runs on DirectX 9, and uses Bullet physics.
 MME (MikuMikuEffects) is a plugin for MMD. It can load FX files onto models, which add effects to it.
@@ -48,10 +48,14 @@ Chinese alternative, sometimes better than google/bing translator: [[fanyi.baidu
 
 [[Misakiru]](https://3d-arts.misanyan.com) : Has nicovideo links with model DLs, most of them are good.
 
+[[Axfc Network]](https://www.axfc.net) : File hosting service mostly used by the Japanese users. **Password for locked files is 99.9% : mmd**
+
 **Japanese MMD Community.**
 [[shitaraba]](https://jbbs.shitaraba.net/otaku/17680/)
 ***
 #####Chinese
+[[BiliBili]](https://www.bilibili.tv/en) : Is a video-sharing platform that hosts user-generated content for anyone to watch, mainly featuring anime, comics, and game videos.
+
 [[Aplaybox]](https://www.aplaybox.com) : Chinese equivalent of Niconi Solid. Needs phone number to register an account.
 
 **Chinese MMD Community.**
@@ -87,6 +91,10 @@ VK or Vkontakte is a Russian online social media and social networking service.
 
 **Blender** : Free and open source 3D creation suite.
 [[Blender's Official Site]](https://www.blender.org)
+
+**Metasequoia** : 3DCG modeling software for Windows or macOS.
+The license key can be found all over the internet.
+[[Metasequoia's Official Site]](http://www.metaseq.net/en)
 
 **XISMO** : Free 3D Modeling Software.
 [[XISMO's Official Site]](http://mqdl.jpn.org/)

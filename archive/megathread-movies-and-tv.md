@@ -298,5 +298,22 @@
 
 &nbsp;
 
+# ☣️ ➜ Untrustworthy Websites
+
+- Unethical behavior, poor regulation, or the deliberate injection of malware. 
+- Fake clones that dishonorably employ the name of a well-known brand to lure users.
+
+&nbsp;
+
+WEBSITE | URL
+:---- | :----
+⚠️ YTS | yts-mx
+
+&nbsp;
+
+---
+
+&nbsp;
+
 📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
 ---

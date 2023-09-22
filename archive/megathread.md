@@ -44,7 +44,7 @@
 ### 📚 [Books](https://rentry.co/megathread-books)
 - Books, like manga, comics, and novels, are a recording medium for information that includes pages composed of text, images, or both.
 
-### 🕹️ [Emulators & ROMs](https://rentry.co/megathread-emulators-and-roms) (Update in progress...)
+### 🕹️ [Emulators](https://rentry.co/megathread-emulators)
 - Emulators simulate the actions of gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://rentry.co/megathread-games)
@@ -78,7 +78,8 @@
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
-### 📁 [Ducklink](https://ducklink.pages.dev/)
+### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Ripped](https://ripped.guide/)
+### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)

@@ -48,6 +48,7 @@
 [Kota](https://files.catbox.moe/u1o02p.png)
 [Strawberry](https://files.catbox.moe/mjslam.png)
 [Hiro](https://www.chub.ai/characters/brsc/hiro-61dbe30e/main)
+[Rudy](https://files.catbox.moe/riak0q.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

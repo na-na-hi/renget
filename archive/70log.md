@@ -8,6 +8,50 @@ HoS Brick and Pericles stigma: https://rentry.co/hosbrick
 Elysian Realm: https://rentry.co/er70
 
 !!! info
+    v3
+
+LUNAR VOW - CRIMSON LOVE
+- When Lunar Vow is off field and deal Bleed DMG, gain 2.5 > 1.2 sp for herself, CD: 0.5s. New effect: If valk exits with full meter,double this sp regen, lasts until the next time Lunar Vow switches in.
+
+- Blood Feast: 6x30% > 7x30% ATK Lightning DMG
+
+- Hunting Time: 
+v2: 13x20% + 9x25% + 6x30% + 15x40% ATK of Lightning DMG
+v3: 11x10% + 2x75% + 11x15% + 4x70% + 10x20% + 5x100% ATK of Lightning DMG
+
+- Mow Down: 17x20% > 17x25% ATK Lightning DMG
+400% > 300% ATK Lightning DMG
+
+
+BLOODSTAINED 
+- Active: When Valkyries deal Bleed DMG within the area, gain [Bite Mark] stack, Bleed DMG +2.0% for each [Bite Mark] stack, last for 10s, max 5 > 10 stacks (CD: 0.1s) can be refreshed. 
+
+- Passive: Removed this effect: Max stacks of [Bite Mark] is increased by 5 stacks.
+
+BRICK OF TAIXUAN
+- Passive 1: If the enemy already has impair effect from another valk, HoS impair effect is changed to vulnerability effect: Enemies take 20%(v2) > 15% (v3) more Physical DMG from HoS.
+
+- Passive 2: 
+- The sp and hp recovery effects have an extra requirement: When the valk is on the field
+- Each Aura stack increases next weapon active Total DMG by 12% > 11%
+
+- Active:
+- Damage distribution of the 12-hit combo of normal attack have been adjusted, total Physical DMG dealt remains unchanged
+- Finisher:  1300% + 100% > 1200% + 100% ATK Physical DMG. New effect: This attack has 100% Crit Rate
+
+PERICLES STIGMA
+- Mid: Crit Rate +15% > 12%
+- 2pc: When using Ultimate, Crit DMG +35% > 30% for 1s
+
+ELYSIAN REALM
+- Adjusted Lunar Vow signets
+- Adjusted HoS special effects when you equip Brick:
+- Removed Burst Mode duration extended to 20s
+- When Burst Mode attack hits, deal 600% > 400% ATK Physical DMG
+- Ego+ signet: Added 'When summoned unit is present, restore 50 hp and 2.5 sp per second.
+
+
+!!! info
     v2b-d
 
 - Fixed an issue where Luna is off-field, dealing bleed dmg but doesn't gain sp.
