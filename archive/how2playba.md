@@ -637,6 +637,8 @@ Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event 
 District of Utnapishtim.
 
 >How long does it take to reach max level
+You can calculate how long it takes [here](https://futottakakka.github.io/bluearchive-expcalc/expcalc.html) 
+
 ![XP requirements](https://i.imgur.com/AVCuFgu.png)
 At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess it to be anywhere between 7-9 months.
 

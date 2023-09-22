@@ -1,4 +1,4 @@
-[[Previous]](https://rentry.org/qnmh7) | Cut from the Same Cloth: Part 4| [End?]
+[[Previous]](https://rentry.org/qnmh7) | Cut from the Same Cloth: Part 4| [[Next]](https://rentry.org/h82ts)
 ---- | :----: | ----:
 
 Momosuzu Nene is a bit dumb.
@@ -129,5 +129,5 @@ Towa ruminates in silence for a few minutes. Then she shuffles over on her knees
 
 "Get up. We'd better start digging for that key."
 
-[[Previous]](https://rentry.org/qnmh7) | [End?]
+[[Previous]](https://rentry.org/qnmh7) | [[Next]](https://rentry.org/h82ts)
 ---- | ----:

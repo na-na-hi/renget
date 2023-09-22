@@ -30,7 +30,7 @@ https://github.com/FunkinCrew/funkin-resources
 https://rentry.org/funkgmoddinghelp
 
 >/funkg/ Mod Wiki:
-https://funkinchan.club/wiki/Main_Page
+https://funkinchan.fun/index.php/Main_Page
 >/funkg/ Link Compilation:
 https://rentry.org/funkg_link_compilation
 >OP Template:

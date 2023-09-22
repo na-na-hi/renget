@@ -850,6 +850,7 @@ Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222
 Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): https://rentry.org/k2f3c
 The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva) - https://rentry.org/t97vwn
 Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu): https://rentry.org/rkhpv
+Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil): https://rentry.org/ewwu9
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

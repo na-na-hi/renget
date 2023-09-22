@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Cut from the Same Cloth: Part 5](https://rentry.org/h82ts)* | Fuwawa, Mococo | sweat, smell, brap, ringo, choco |
 | *[Heated Negotiations](https://rentry.org/9f38p)* | Ame | sweat, smell |
 | *[Carmelina](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub)* | Lamy, Marine | milk, sweat |
 | *[My My Big BROWN MESS!](https://archiveofourown.org/works/50009902)* | Haato, Calli | choco, ringo, milk |

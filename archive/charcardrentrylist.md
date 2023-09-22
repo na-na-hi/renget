@@ -20,8 +20,8 @@ Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
 [Chefseru](https://rentry.org/chefseru) | Misc |[Viscera](https://files.catbox.moe/v6joen.png), [Sally, your naive sister](https://files.catbox.moe/e3czwj.png), [Venefica](https://files.catbox.moe/oonpqg.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Augmented Human C4-621 - Raven](https://files.catbox.moe/nr0tn7.png), [Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Diane Foxington](https://files.catbox.moe/qsxewr.png), [Sharkstack](https://files.catbox.moe/lntgsn.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[Augmented Human C4-621 - Raven](https://files.catbox.moe/nr0tn7.png), [Ayre](https://files.catbox.moe/nhgfg8.png), [Handler Walter](https://files.catbox.moe/3xwh4m.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yuki](https://files.catbox.moe/bybg06.png)|[Mommy Yukari](https://files.catbox.moe/afwzh4.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Lotion Cat](https://files.catbox.moe/smxs1h.png)|[Lotion Cat](https://files.catbox.moe/smxs1h.png) [MV]
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Minenhle](https://files.catbox.moe/eg32du.png)|[Minenhle](https://files.catbox.moe/eg32du.png) [MV]
@@ -35,7 +35,7 @@ Botmaker | Category | New Bots | Updated Bots
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Nina](https://files.catbox.moe/0870pb.png)
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||[Emi](https://files.catbox.moe/gl5y3p.png)
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||[Elia](https://files.catbox.moe/rfc2mg.png)

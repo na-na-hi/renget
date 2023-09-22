@@ -1,11 +1,7 @@
 # onaholesama's furshit
 ->![credit to Kazerad and Prequel Adventure](https://files.catbox.moe/ma62ey.gif)<-
 ***
-rip claude
-
-bot ideas are usually from requests in the thread and characters from short stories
-
-if a bots name is bolded, it means it was requested from /aicg/
+its over
 ***
 **Table of Contents**
 [TOC2]

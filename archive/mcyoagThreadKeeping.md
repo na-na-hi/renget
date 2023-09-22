@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
-https://rentry.org/rkhpv
+>Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
+https://rentry.org/ewwu9
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -555,6 +555,8 @@ https://rentry.org/k2f3c
 https://rentry.org/t97vwn
 >Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
 https://rentry.org/rkhpv
+>Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
+https://rentry.org/ewwu9
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -931,7 +933,7 @@ Alexi Liddel/Vorpal
 Rance Rayford/Hyper Storm
 >>90250847
 Martin Gigant/Arsenal King
->>90262393
+>>90323051
 Katie Ingqvist/Fury
 >>90276552
 

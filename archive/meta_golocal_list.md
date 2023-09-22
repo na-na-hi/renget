@@ -43,7 +43,10 @@ https://rentry.org/ayumi_erp_rating
 - stolen from /lmg/, just grab the model currently listed as best here, accounting for available computing power or desired speed (7B, 13B, more)
 ![pic 23.08.2023, also thanks, Weird Constructor](https://files.catbox.moe/o6cmri.png)
 ->`pic is very old!`<-
-
+***
+#####More rankings
+https://rentry.org/lmg-13b-showdown
+- stolen from /lmg/, a small test of currently popular 13B models
 
 
 

@@ -217,6 +217,7 @@ WEBSITE | URL
 ⚠️ Crohasit | crohasit-net
 ⚠️ Descarga Game | descargagame-com
 ⚠️ Game3rb | game3rb-com
+⚠️ GamesTorrents | gamestorrents-fm
 ⚠️ IGGGames | igg-games-com
 ⚠️ NexusGames | nexus-games-net
 ⚠️ nosTeam | nosteamgames-ro

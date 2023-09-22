@@ -180,6 +180,10 @@ If you make some cool gens with these, feel free to post them over on the Crossk
 
 ![The author ITT](https://files.catbox.moe/t4zfi3.png)![The author ITT 2, after I added the above note](https://files.catbox.moe/f2cqro.png)
 
+### Crosskemono 3
+
+	https://pixeldrain.com/u/3YXax5DP
+
 ### PC 98 Model
  	 https://mega.nz/file/uJkQBbKL##qVI95nOJkkMAjPQXBsvPZA9bTSaF5gOv0IA0XCjdE2E
 

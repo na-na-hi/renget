@@ -7,9 +7,9 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Ranger
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
-**Level:** 6 | **Experience to Next Level:** 50/60
+**Level:** 7 | **Experience to Next Level:** 0/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 130₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 180₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -71,7 +71,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Big Mushroom | An item that can possibly be sold.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Cheri Berry | Returns control. Heals *Paralysis.*
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

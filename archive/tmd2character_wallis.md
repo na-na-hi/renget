@@ -14,9 +14,9 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 5/60
+**Level:** 6 | **Experience to Next Level:** 15/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 50₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -86,7 +86,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Oran Berry | Heals the user for 10 HP.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

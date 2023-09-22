@@ -28,6 +28,7 @@ https://pastebin.com/YZz8u3wB
 JB explains what's happening, what the MDE is, and accurately predicts increased seismic and volcanic activity, political turmoil, and the COVID-19 pandemic (which KB changed in the transcript to "coronal mass ejection"  out of fear of scrutiny, ridicule, and detection). 
 On October 14, 2021, KB made a thread on /x/ in which she shared more details of her interaction with JB, and how he got here using a strange device the size of a pocket watch. 
 https://archive.4plebs.org/x/thread/30021683/
+(Note on KB's thread: Disregard anything posted by tripcode iOgHzutGjt4. That is a larper trying to poison the well)
 ## The Origins of MDEG
 I first found out about the Mass Divergence Effect (which I knew at the time as the "Mandela Effect") in 2017. I didn't think much of it at the time other than "huh, that's kinda weird." 
 In 2020, during quarantine boredom, I began to dive into the esoteric side of the Internet. During that time, I learned about CERN's doings, but never put 2 and 2 together that they may be responsible for the MDE. 
