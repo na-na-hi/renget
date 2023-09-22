@@ -904,6 +904,10 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/dqcoxw.safetensors
 
+# Anubia (Potionomics)
+
+	https://files.catbox.moe/xdftan.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -11,7 +11,7 @@
 **Available until 9/28/2023**
 *TGSWITHER1* (9/20) 5000 A-Coin
 *TGSWITHER2* (9/21) Research Center Data Box Set
-*TGSWITHER3* (9/22) 200 Event NP (3 Days)
+*TGSWITHER3* (9/22) 200 Event NP (3 Days) --> Actually gives Skin Data Box Set, may be swapped with TGSWITHER4.
 *TGSWITHER4* (9/23) Skin Data Box Set
 
 **Available until 9/30/2023**

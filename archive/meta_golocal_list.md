@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-09-10)==<-
+->==(Updated 2023-09-13)==<-
 ***
 [TOC2]
 ***
@@ -16,6 +16,7 @@ https://rentry.org/hostfreellamas
 https://rentry.org/colabfreellamas
 - guide on how to set up a local model for yourself or for others - `free` on colab (paid available but overpriced: vast\.ai, paperspace or runpod suggested instead)
 (~~see https://desuarchive.org/g/thread/95578945#95579604 for the updated colab script until anon updates the rentry~~ updated)
+(~~https://desuarchive.org/g/thread/95969617#95970981 premade templates for Mythomax, MLewd, Stheno, Tsukasa~~ included)
 
 https://rentry.org/koboldcpp_colab_guide
 - guide on how to set up a local model for yourself or for others with KoboldCpp - `free` on colab

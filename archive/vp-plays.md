@@ -420,4 +420,5 @@ https://arch.b4k.co/vp/thread/54485576/ 5 THE MAD BULL IS COMING
 https://arch.b4k.co/vp/thread/54489115/ 6 the writer's barely disguised fetish
 https://arch.b4k.co/vp/thread/54497333/ 7 checked
 https://arch.b4k.co/vp/thread/54506876/ 8 obligatory oversized city map
-https://arch.b4k.co/vp/thread/54524291/ 9
+https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
+https://arch.b4k.co/vp/thread/54535690/ 10

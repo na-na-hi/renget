@@ -11,7 +11,7 @@
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
 Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 687 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
-つるぺったん (23/30) | A bit more serious clan. Coordination is done through  [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide). | Aiming for Top 300 | 1005 (A) |  -
+つるぺったん (23/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 1005 (A) |  A clan that tries a bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan). Matrix is not strictly required, but you won't be considered a full member until you join.
 Ayumisters (28/30) | For homeless misters and armpit enthusiasts | Casual | 1608 (A) | -
 Plaplets (24/30) | ORAORA GET PREGNANT | Casual | 2443 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
 Fun Island (27/30) | Kokkoro is the cutest. | Casual | 4978 (BBB) |  Just be yourself. + tag in profile
