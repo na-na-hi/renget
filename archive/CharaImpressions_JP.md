@@ -1046,3 +1046,31 @@ Cons:
 - No Debuffs to enemy
 - No shields
 - S2 buffs may not reach all party members when targeting the furthest unit from her (O.Kuuka, N.Kuuka, Monika)
+
+### ->Transfer Student Suzuna<-
+**TL;DR: Archer DPS that requires crits and only buffs archers for the most part. Nice perma, don't be surprised if she appears in November. But not worth a spark, as archers are a bit of a weaker class currently.**
+Looking at the skills, this unit clearly has some potential. However, Archer classes have a long history of either losing out to backline mages or only specializing in scenarios where you can run backline physical units as your only option. Sticking with Suzuna specifically, she relies heavily upon critting to reach max efficiency. This does also come with ramp up time, but could be worth it in those specific niche scenarios. Will require heavy support to get going, but overall may not be worth for now. 
+Check back on milestone such as Wankoro, Ranger Shiori getting UEs in March 2024 and maybe 6* Shiori existing. Otherwise, you're relying on Arisa/W.Rino/X.Chika/TS.Aoi and the ones listed above to benefit from her buffs so much that Archers are worth using.
+
+
+-> ![Transfer Student Suzuna](https://redive.estertion.win/card/full/127331.webp) <-
+
+Pros:
+- Deals decent damage overall
+- Buffs P.Crit dmg and P.Atk for 18s on UB
+- UB has a 2nd damage calculation if it crits
+- Buffs P.Atk & P.Crit rate of party permanently on every S1 usage (if the damage crits)
+- S1 restores 200 TP to self
+- S2 provides permanent P.Atk/P.Crit chance, alongside +10 TP Boost & TP to self
+- Good skill patterns 
+	Opening: S2 > AA > S2
+	Loop: S2 > S1 > AA > S1 > AA
+	
+Cons:
+- Extremely crit reliant
+- Initial low crit chance
+- No debuffs
+- Requires ramp up in order to hit maximum output efficiency
+- TP restore is only to self
+- Buffs are within very short range
+- Archer positioning for buffs (Reaches up to Arisa)

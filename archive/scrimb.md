@@ -64,7 +64,7 @@
 [Melody](https://files.catbox.moe/2b7b4i.png)
 [Avelyn](https://files.catbox.moe/uxw21p.png)
 [Cynthia](https://files.catbox.moe/2d1qsj.png)
-
+[Rosaline](https://files.catbox.moe/yrnsea.png)
 
 **WEEB shit:**
 [Android 17](https://files.catbox.moe/wgm0oa.png)

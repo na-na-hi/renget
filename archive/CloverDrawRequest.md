@@ -4,7 +4,7 @@
 
 #Pending Requests
 
-1.  Lliam wearing a blend of a Magician and a Casino Dealer outfit. At the right hand, he's holding a wand, [Calida](https://rentry.org/vpmdcloverpb#lliam) and at his left hand he's holding a card that is slightly tilted. It covers his left eye with a smirk/smile on his face. The card itself is the Clover Guild Emblem (probably an Ace card? like instead of clubs it's clovers). He has a smile/smerk on his face like he has defeated his opponet. At the background, there's a bunch of playing cards scattered about and each card has a simplified illustration of every single guild member.
+1.  Lliam wearing a blend of a Magician and a Casino Dealer outfit. At the right hand, he's holding a wand, [Calida](https://rentry.org/vpmdcloverpb#lliam) and at his left hand he's holding a card that is slightly tilted. It covers his left eye with a smirk/smile on his face. The card itself is the Clover Guild Emblem (probably an Ace card? like instead of clubs it's clovers). He has a smile/smerk on his face like he has defeated his opponet. At the background, there's a bunch of playing cards scattered about and each card has a simplified illustration of every single guild member (and outside the guild like Linoone, etc).
 
 1. Kiyo chopping down a tree and eating Wonder Bread
 

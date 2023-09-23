@@ -21,6 +21,11 @@ Subrentries with my other work:
 ***
 ##->My Collection<-
 
+#####Britney, the Toxic Friend
+Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/britney-the-toxic-friend-70085e2f)  [Tavern Card](https://files.catbox.moe/ifmor3.png)
+------ | ------
+![Britney](https://files.catbox.moe/h7fat4.png) | Your tomboy best friend, who sets you up on various dates and apparently wants you to finally get laid. But in reality, she is a toxic person who sabotages them all, and her goal is to make you miserable and only hers. She wants to hurt you but also be with you. Designed for both fempov and malepov.
+
 #####Sandra, the Schoolgirl Pariah
 Links   |  [Character Hub](https://www.chub.ai/characters/LobsterJea/sandra-the-schoolgirl-pariah-a3f7f109)  [Tavern Card](https://files.catbox.moe/2nobvt.png)
 ------ | ------

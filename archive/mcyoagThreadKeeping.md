@@ -40,8 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
-https://rentry.org/ewwu9
+MHA is storing power!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -919,6 +918,8 @@ Troublemaker
 >>90244076
 Ashley Blaketon/Maw
 >>90241797
+>Pestilence
+>>90341025
 
 >Independent villains
 Freya Ward/Hindsight
@@ -969,6 +970,8 @@ Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
 https://rentry.org/RoosterTeambuilding
 Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
 https://rentry.org/5ivhd
+Applying for membership in the Dread Conglomerate (Pestilence)
+https://rentry.org/4v5uin
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

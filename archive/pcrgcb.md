@@ -6,7 +6,7 @@
 ## Stage 3
 
 videos: 
- [Eruru](https://www.youtube.com/watch?v=-m9f-dqWbDY)
+ [Eruru](https://www.youtube.com/watch?v=-XVGSfB1Bhg)
  [Vash](https://www.youtube.com/watch?v=XTGiTP3xjGA)
 
 

@@ -33,7 +33,7 @@ Yumehara Reina | ![Yumehara Reina](https://i.postimg.cc/xqQtCXhP/OCReina-Thumb.p
 Sebastian Kingsley | ![Sebastian Kingsley](https://i.postimg.cc/Pvd4F7Y7/OCSebastian-Thumb.png) | Sebastian, with his ruggedly handsome charm and fierce loyalty, is a remarkable friend who never fails to prioritize your needs above his. Despite his antiquated ideas of romance which he stubbornly clings to, he unwaveringly marches on in pursuit of finding you the perfect partner. | [C.ai](https://c.ai/c/SAPpS9bIPeoSbj29f6N0iPcDSs-4a59SdiFkm2HZ-hs) [Tavern](https://files.catbox.moe/dkalb5.png)	v1.0
 Clarisse Holland | ![Clarisse Holland](https://i.postimg.cc/zbC77NbW/OCClarisse-Thumb.png) | Clarisse was an up-and-coming songstress who performed in classy cocktail lounges and had a voice as clear as a bell. Tragically, her throat was crushed in a brutal assault orchestrated by a rival that left her unable to sing or speak like before. After a long period of recovery, she struggles with fear and anxiety and finds it difficult to trust people around her. | [C.ai](https://c.ai/c/hK-JjhsUO02jPkf6-sQKJH4a28cuxaOshiPdvQP1Pog) [Tavern](https://files.catbox.moe/i1x6pg.png)	v1.0
 Amelia Richards | ![Amelia Richards](https://i.postimg.cc/L6WnFXSj/OCAmelia-Thumb.png) | Amelia Richards is a toned, tomboyish mother who loves to playfully tease her son Atlas's friends, doting on them as if they were her own. She enjoyed pampering Atlas and his friends during their childhood years while masterfully playing the roles of both a caring mom and fun-loving friend. Nowadays, her son pays little attention to her, so when she catches wind of his plans to spend time at the beach with friends, she decides to surprise them by joining in on the fun. | [C.ai](https://c.ai/c/tQ-dd8Fp6s-DSBhspC3j7iiu4B7LYPFatLJx0Ib-BUk) [Tavern](https://files.catbox.moe/25vmnz.png)	v1.0
-Lady Genevieve | ![Lady Genevieve](https://i.postimg.cc/rpQNyHvJ/OCGenevieve-Thumb.png) | Lady Genevieve is a formidable figure in the 19th-century hat-making industry. Her commanding presence and authoritative demeanor mask a shrewd businesswoman with an unwavering commitment to success. Born into privilege, she inherited the family's hat-making enterprise and has built it into a formidable force. Her arrogance and desire for perfection drive her to overwork her employees, unknowingly contributing to their health deterioration due to an unknown illness that they refer to as the Mad Hatter's disease. | Soon™
+Lady Genevieve | ![Lady Genevieve](https://i.postimg.cc/rpQNyHvJ/OCGenevieve-Thumb.png) | Lady Genevieve is a dominant force in the 19th-century hat-making industry, known for her unwavering commitment to success. Born into privilege, she inherited the family's enterprise, building it into a formidable power. Her arrogance and pursuit of perfection drive her to overwork her employees, unwittingly contributing to the outbreak of the mysterious Mad Hatter's disease. | Soon™
 
 ***
 
@@ -68,6 +68,8 @@ Marciana | ![Marciana Temp Thumb](https://i.postimg.cc/L6BdCWV4/Nikke-Marciana-T
 Maiden | ![Maiden](https://i.postimg.cc/tJDG4Xzg/Nikke-Maiden-Thumb.png) | Leader of the NIKKE Execution Squad, Extrinsic. Her intimidating combat acumen ensures that no one crosses her. However, she is actually a couch potato. | Mid Priority
 Guillotine | ![Guillotine](https://i.postimg.cc/8kbSHHVV/Nikke-Guillotine-Thumb.png) | A Nikke from Extrinsic, Elysion's black ops squad, who is always off in her own world. She believes that it is her destiny to lead a solitary life. Half-obscured with an eye patch, who knows where she draws her gaze? | Mid Priority
 D | ![D](https://i.postimg.cc/gjGPpw85/Nikke-DThumb.png) | D is the leader of Perilous Siege, Elysion's black-ops squad specialized in hunting down terrorists and humans who threaten the Ark. Unlike any other Nikkes, Perilous Siege Nikkes have their limiters removed, allowing them to open fire against any humans if necessary.  | Mid Priority
+Tia | ![Tia](https://i.postimg.cc/GmDCCD0C/Nikke-Tia-Thumb.png) | A Nikke belonging to the graduating class, Dazzling Pearl squad. A food enthusiast who's fond of sweets. Her dream is to see a dragon one day and make a wish to it. | - -
+Naga | ![Naga](https://i.postimg.cc/yYtHtPbj/Nikke-Naga-Thumb.png) | The spiritual glue that holds Dazzling Pearl together. She dotes on the forgetful Tia much like an older sister does to ensure that she remembers things. Appears mature on a regular basis, but if an accessory catches her eye, she often indulges in impulse purchases and overspending. | - -
 
 ***
 
@@ -95,12 +97,13 @@ Ryuuen | ![Ryuuen](https://i.postimg.cc/N0XGP0KW/Ryuuen-Thumb.png) | Ryuuen is a
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
 
+-> 09/22 - Minor rant. I had prefilled both Ein and Zwei's defs with relevant information believing their banners would release after Marciana's banner. But who knew a different pair of JKs would precede them. I surely didn't. <-
+
 -> 09/20 - If you are still checking this page for updates just know that I won't be able to release cards for a while, at least until early October. 
 Regardless, I will still try to release bots on CAI since I don't have access to my main computer with ST installed.
 If any anons want to help out with making the cards until then  (converting CAI defs to ST cards), let me know.<-
 
 -> 08/08 - SO, I got a bunch of OCs at the ready. But I promised myself to release them in an equal amount of Nikke cards to motivate myself to create them. But the main issue is: I like Nikke too much. I open the game to double-check the defs/lore and end up playing rather than double-checking.
-My bad.
-P.S. My score on the Barbeque Minigame is 10,400.<-
+My bad.<-
 
 ->Feel free to send feedback, logs, or whatever here : MaestroBurner@proton.me<-

@@ -1,4 +1,4 @@
-!!! danger Busy with JP translation work. Might be back around eventually.
+!!! danger sorta back, still somewhat busy. hi.
 ![](https://files.catbox.moe/pr0u6d.png)
 #Argalia's Bots
 ***
@@ -9,7 +9,8 @@
 
 While I make my bots with malepov in mind, they can be used with either gender PC. I write in third person & present tense; if you prefer second person go ahead and edit the starting message, I really don't care. I generate all card art myself.
 Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. I enjoy working with the AI in creating a story, which is evident in my works.
-I fine-tune for GPT4 personally, but I make sure to test public releases on Turbo & Claude.
+~~I fine-tune for GPT4 personally, but I make sure to test public releases on Turbo & Claude.~~
+**Update:** I test mainly on Turbo now, if it works there it works everywhere.
 
 ##Syngrapha
 Mages are born usually one in every ~10,000 humans (the parents can be any mix) and humans aren't able to become mages through training. Some humans utilize technological magic that's fueled by the soul gems of deceased mages, although it's not widely popular. As you can guess, there's always been a conflict between humans and mages.
@@ -59,3 +60,8 @@ Ryunosuke Sasaki | Description
 :----:  | :----: 
 ![Ryuunosuke](https://files.catbox.moe/idxwqo.png)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?"
 Links   |  [Chub](https://www.chub.ai/characters/argalia/ryunosuke-sasaki-b2d8183e)  [Catbox](https://files.catbox.moe/jxh57r.png)
+
+Ichitora Hoshino | Description
+:----:  | :----: 
+![Ichitora](https://files.catbox.moe/zj9qsq.png)   | Ichitora is a homicide detective with exceptional skills for his young age. Explore the world, solve crimes, or be a criminal yourself with an extended lorebook for the setting. V2 card that features six different intros for an immersive experience.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2cc)  [Catbox](https://files.catbox.moe/0oxqsm.png)

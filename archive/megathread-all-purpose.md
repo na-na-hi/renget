@@ -140,6 +140,30 @@
 
 &nbsp;
 
+# 📑 ➜ Trackers Scene Data
+
+### 📒 [PreDB](https://predb.net/)  / [2](https://predb.me/)
+- This service displays trending data that has been gathered from numerous online sources.
+- [URL Safety Results](https://www.urlvoid.com/scan/predb.net/)
+
+### 📒 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+- Very thorough list demonstrating practically every single private tracker used online.
+- [URL Safety Results](https://www.urlvoid.com/scan/hdvinnie.github.io/)
+
+### 📒 [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php)
+- Information that is current and relevant to every type of media.
+- [URL Safety Results](https://www.urlvoid.com/scan/scene-rls.net/)
+
+### 📒 [xREL](https://www.xrel.to/) • German UI
+- Message board where users discuss the newest scene releases, game and movie reviews, and a lot more.
+- [URL Safety Results](https://www.urlvoid.com/scan/xrel.to/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # ☣️ ➜ Untrustworthy Websites
 
 - Unethical behavior, poor regulation, or the deliberate injection of malware. 
