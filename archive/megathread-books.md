@@ -184,6 +184,10 @@
 
 # 📑 ➜ Manga
 
+### 🌸 [BATO](https://bato.to/)
+- Japanes and Korean reader that is speedy and has a large library of comics, including manga, and webtoons.
+- [URL Safety Results](https://www.urlvoid.com/scan/bato.to/)
+
 ### 🌸 [Chibi Manga](https://www.cmreader.info/)
 - Website that is precise about the series it offers and focuses on certain genres, such harem, school life, and one-shots.
 - [URL Safety Results](https://www.urlvoid.com/scan/cmreader.info/)

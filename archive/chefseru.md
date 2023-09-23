@@ -4,7 +4,8 @@
 ***
 ~~All bots tested on claude, no refunds~~
 ![owari da](https://files.catbox.moe/cshb0y.PNG)
-closed by order of the health inspector, too much cunny in the kitchen
+~~closed by order of the health inspector, too much cunny in the kitchen~~
+WOMVAT LOVE
 chefseru@proton.me for all your logs, manifestos, and cat porn
 
 ***

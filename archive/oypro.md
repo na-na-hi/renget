@@ -7,9 +7,9 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Unaffiliated
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 6 | **Experience to Next Level:** 35/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 185₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description

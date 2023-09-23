@@ -11,7 +11,7 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.9 Phase 1
-[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![vkecharge](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)
+[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![vkecharge](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)
 
 [Miracle ☆ Magical Girl basic](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)
 [Miracle ☆ Magical Girl charged](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
@@ -23,8 +23,8 @@ click image to jump to valk
 [Sugary Starburst charge](https://rentry.org/ElysianRealm#sugary-starburst-charge)
 [Starry Impression](https://rentry.org/ElysianRealm/#starry-impression)
 [Vermillion Knight: Eclipse charge](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)
+[Herrscher of Human: Ego fast ulti](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)
 to do list: 
-hohe fast ulti 
 prome 
 cn 
 6s 
@@ -58,7 +58,7 @@ spa
 
 !!! info 6.8 Phase 1
 2.5
-[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))
+[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))
 2.25
 [![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
 1.75
@@ -67,7 +67,6 @@ spa
 
 2.5
 [Herrscher of Rebirth Life Binder](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)
-[Herrscher of Human: Ego fast ulti](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)
 [Herrscher of Truth weapon](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
 [Infinite Ouroboros](https://rentry.org/ElysianRealm/#infinite-ouroboros)
 [Sugary Starburst ulti](https://rentry.org/ElysianRealm#sugary-starburst-ulti)
@@ -1607,35 +1606,36 @@ Domain of Ego: Flawless Return | Flower of Origin set
 Cost | Effect
 ------ | ------
 5 | SP+30
-5 | Weapon active vulnerability
-10 | Status TDM bonus
-10 | Counter type TDM boost
+10 | Support type DMG bonus
+15 | Ignite vulnerability 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-AE | VC/BKE | Utility
+AE | VKE | Utility
 BR | AE/RC | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Mad King's Mask/An Old Pal's Legacy
-1st Shop | Feast of Emptiness/Out of Reach
-16F | Tin Flask/Dreamful Gold
+Start | Pseudo Miracle / The Lonely Moon
+1st Shop | Feast of Emptiness/ The Lonely Moon
+16F | Tin Flask/ Falling in Past Light 
 
 ##->Ego Signets<-
 First Bloom 初绽 | First Journey 初程 |  First Awakening 初醒  | First Encounter 初见 | First Yearning 初念 
 :-: | :-: | :-: | :-: | :-: 
-**Start** | **Start** | 2nd | No | No 
+**Start** | **Start** | **1st** | No | No 
 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; can pick Burden, TDM from enhanced
-2nd | Pardofelis1 | Both silver generation, both damage boosts, HP SP cap up are the key choices; must pick at least breach from enhanced, can also pick ultimate
-2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
-2nd | Vill-V1 | 5 2 3 are the key choices, individual is fine, nexus is better; can also pick Sakura vulnerability, TDM as reinforcement
-Optional | Sakura1 | Vulnerability, TDM are the key choices, don't need nexus; can also pick Eden both damage boosts, Kevin both damage boosts as reinforcement
+1st | Vill-V1 | 5 2 3 are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both silver generation, both damage boosts, are the key choices; must pick at least breach from enhanced, can also pick ultimate
+2nd | Griseo1 | Red (buy from shop) Yellow Black are the key choices, unlock nexus 
+2nd | Kalpas1 | Both damage boosts, HP cap up are the key choices, can pick vulnerability, unlock nexus; can pick Burden, TDM from enhanced
+Optional | Sakura1 | Vulnerability, TDM are the key choices, nexus optional, unlocking is better, can also pick Kevin both damage boosts as reinforcement 
+
+!!! info Recommended to swap sigils on 5F, try to buy 1 Pardofelis signet, unlock nexus on 7F then pick up enhanced; Kalpas both damage boosts can also be bought for more damage, but needs to reduce HP in shop with BR
 
 #->Herrscher of Human: Ego fast ulti<-
 ->![hohulti1](https://i.imgur.com/ivCy9A1.png)<-

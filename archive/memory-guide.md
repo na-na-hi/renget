@@ -32,7 +32,7 @@ So, we will fix this by telling the AI about what's going on, for example:
 >\***
 
 See? It's not that complicated, compare to what most users would put in Memory; except for few tricks that improved the readability for the AI.
-There are main indicators: `The story so far:` and `Summary:`. You can also use something like `Backstory:`, `Plot:`.
+There are main indicators: `The story so far:` and `Summary:`. You can also use something like `Backstory:`.
 
 > \----
 > Summary: An ordinary high school teen, Jihan. One day, he start to see a stat of himself, floating menu. Nobody else could see it except for himself. He has the ability to gain quests, EXP, and levels up.

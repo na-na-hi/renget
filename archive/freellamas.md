@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Mythomax-q8.13-MAX-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://fault-marble-marks-halifax.trycloudflare.com/api```
+Blocking API URL: ```Offline```
 
 ***
 **System prompt:**
@@ -56,7 +56,7 @@ git stash pop
  ![proxy-menu](https://files.catbox.moe/sl6hbc.png)
 
 ##### 3. Advanced menu:
- ![classic](https://files.catbox.moe/wxukcn.png)
+ ![classic](https://files.catbox.moe/lotzyf.png)
 
 
 **Alternatively**, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:

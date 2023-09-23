@@ -817,6 +817,11 @@ https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
 Page 1
 ***
 ```
+>What even is this?
+AMGC the MP is set in a world where cute, fluffy things called Puchuus recruit random people into becoming magical girls. The default setting is a mix of Madoka and any standard fare magical girl franchise, where magical girls are the hopeful protectors of their mortal realm, but can die, or can become corrupted into a dark magical girl or a monster girl.
+>Anything else I need to know
+In the setting, there's this hub world called the Overcity where magic people and monsters roam freely. Some builds only reside here, so if you want to play as some sort of wizard, that's an option.
+
 "Rules"
 >Play as is
 >You can choose either point buy or rolling 12d20
@@ -824,24 +829,32 @@ Page 1
 This is AMGC which is slightly different from the original AMGCYOA. You can port your characters pretty easily to this version.
 
 Build List:
->Misao Furijo*
+>AMGCYOA Builds
+Emery Shaw
+>>90108850
+Misao Furijo
 >>90125163
 >>90168244 (Misao's Puchuu.)
 
->Jesterbelle
+>AMGC Builds
+>Overcity Natives
+Jesterbelle
 >>90137242
-> Tsukishiro Arika
->>90138764
->Chie Mitarai
->>90139598
->Magdelene
->>90147959
->Ester Marian
->>90148022
->Tsukuda Haruki
->>90148156
->Solomon Talbot
+Solomon Talbot
 >>90154169
+>Elemental Princesses
+Arika Tsukishiro
+>>90138764
+Chie Mitarai
+>>90139598
+>Glass Warriors
+Haruki Tsukuda
+>>90148156
+>Independent
+Magdelene
+>>90147959
+Ester Marian
+>>90148022
 
 Writefags:
 >Lesson 1: Diligence(Misao)
@@ -911,7 +924,7 @@ Ashley Blaketon/Maw
 Freya Ward/Hindsight
 >>90238643
 Murder Bee
->>90237455
+>>90240072
 Koreans
 >>90263918
 Morningstar
@@ -933,7 +946,7 @@ Alexi Liddel/Vorpal
 Rance Rayford/Hyper Storm
 >>90250847
 Martin Gigant/Arsenal King
->>90323051
+>>90323062
 Katie Ingqvist/Fury
 >>90276552
 
@@ -942,7 +955,7 @@ The Homemaker
 >>90239727
 
 >Writefags
-Just Get Therapy Bro(Alexi):
+Just Get Therapy Bro(Alexi)
 https://rentry.org/zxbcw
 The Bee’s Knees (Murder Bee, Villainconvenience)
 https://rentry.org/tq2tg
@@ -956,9 +969,11 @@ Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
 https://rentry.org/RoosterTeambuilding
 Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
 https://rentry.org/5ivhd
+
+>Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart
 https://rentry.org/c6veb2
-Rayford's Relationship chart:
+Rayford's Relationship chart
 https://rentry.org/wv22y
 ```
 

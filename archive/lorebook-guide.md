@@ -377,8 +377,6 @@ Tada! Everything is much more coherent to the AI now, (I can say that, as this i
 	- *Answer:* Well, you have to make a choice between Attribute or Snippet; if you want a simple/effective lore, try Snippet. But if you want to cover more details, try Attribute.
 - *Question:* **Is prose the best?**
 	- *Answer:* I would say, prose give you the greatest amount of control. Tho, you should ask yourself, do you *need* that much control? So, yeah, it's technically the best; but also costs more. It's a valid choice if you know what you are doing!
-- *Question:* **Is Attribute some special method you research?**
-	- *Answer:* No, it was made (literally) by Zaltys. He is responsible for the NovelAI dataset; SGreen is one of the first people who try it and write the very first version of attribute-guide, which later was fork by me; Nobody know if devs are going to do something with it or not. (Like implementing the offical ui for it.) But for now, it's knowledge for people who bother to read reddit/discord/wiki and come across this guide.
 - *Question:* **\*\*\* keep messing up my story.**
 	- *Answer:* Just delete it, *duh*.
 	(If you don't want it to pop up on its own, go to Advanced tab -\> scroll down -\> put `***` in Banned Token, hit enter.)
@@ -398,23 +396,6 @@ Tada! Everything is much more coherent to the AI now, (I can say that, as this i
 - *Question:* **If I want to write about an existing setting or franchise, Should I write multiple Lorebooks entries on that?**
 	- *Answer:* You should look into Custom modules first; Find a module that works for you, or make one yourself; Especially if it’s novelized, or you could search up fanfictions of that setting. There is a difference between being told what the rule is, versus letting the language model understand it - I told you this just so that you won’t spend hours copy-pasting information from the fandom wikis over and over.
 	But yeah, After looking into modules. You can write Lorebooks as needed.
-- *Question:*  **What is the optimal number of tokens for a lorebook entry?**
-	- *Answer:* The fewer words you can use to convey the same meaning - the better.
-`Sir Thomas Makayley is the aged senior of the knights in King Charles' service. He's a gruff man with broad shoulders and stout legs.`
-Might not be as effective as:
-`Sir Makayley is the king's most venerable knight. He is gruff, stout, and broad shouldered.`
-The effect is even stronger wtih attribute method:
-`Sir Thomas Makayley`
-`Organization: Knights of the Realm (Grandmaster)`
-`Appearance: Broad`
-`Mind: Gruff`
-- *Question:* **How much backstory my characters tend to have i am not certain just what i should write into the entries for them. I am not sure what will be most effective in shaping the narrative feeling that a lot of things gets ignored by the AI at times**
-	- *Answer:* I'm not really sure if the AI is good at backstory or not, the guide and my approach has always been 'instructing the ai to act', rather than state a fact.
-	Random stuff like : `'her mother is ..., she graduate from navy seal ..., as a child she ... '` i would consider them to be a waste of space in my lorebook.
-	I would rather write a behavior like `'She like her friends, always encourage everyone around her to do their best; As she is the former navy seal, who know how to coordinate with other people and fight.'`
-	The AI did make use of some details from the past tho. But as I said, I chose the most important ones that can shape their characters. Like, an orphan will face more hardships that lead to them being more pragmatic.
-- *Question:* **I have a character i am very fond of that lost her left arm in an accident, how should i go about trying to get the AI to recognize that or put them into my story?**
-	- *Answer:* You need to give the AI examples. [This guide uses this principle](https://naidb.miraheze.org/wiki/Narrative_Example_Tutorial). Generally, stuff that goes against the norm (kinda), like non-talking animals and some lost body functions (deaf/mute/etc.) need examples and steering to work well. 
 - *Question:* **How do I force the AI to reference current story?**
 	- *Answer:* Simply type these in your ongoing story, and let the AI generate. Then, cut and paste it into actual entry.
 For Attributes, you only need: `----`
