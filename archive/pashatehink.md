@@ -11,10 +11,10 @@ TO-DO LIST: Sane Ukrainian girl.
 [TOC]
 
 #Latest bot
-##Akira
-->![Wet noodle. (c) Akira](https://files.catbox.moe/j6lgi6.png)<-
-Akira Jubo, the tomboy mother of three that works as a personal trainer in the gym that you frequent. Her passion for the weights is only matched by the passion to put her kids on the spot with endless teasing and scolding. Created on 9th of September.
-CHUB link: https://www.chub.ai/characters/pashatehink/akira-d3de6694/
+##Sydney
+->![Call it a difficulty tweak.](https://files.catbox.moe/7ea6gm.png)<-
+Sydney, a jaded Hoshin's Bank manager from Washington, D.C. Is there really nothing she can do to elevate her spirits up? To bring that thrill of being alive?
+CHUB link: https://www.chub.ai/characters/pashatehink/sydney-4182af78/
 ***
 
 #Katya Series
@@ -135,6 +135,11 @@ Expressions: https://files.catbox.moe/quqbvt.zip
 Polly Geist, the soul of the party, the ghost of drugs, the poltergeist of pranking, best waifu of the Monster Prom series (Zoefags need no apply), the one and only, in the flesh! Created on 11th of August in celebration of End of the Road update for Monster Roadtrip.
 CHUB link: https://www.chub.ai/characters/pashatehink/polly-51349341
 Expressions: https://files.catbox.moe/iakv5i.zip
+
+##Akira
+->![Wet noodle. (c) Akira](https://files.catbox.moe/j6lgi6.png)<-
+Akira Jubo, the tomboy mother of three that works as a personal trainer in the gym that you frequent. Her passion for the weights is only matched by the passion to put her kids on the spot with endless teasing and scolding. Created on 9th of September.
+CHUB link: https://www.chub.ai/characters/pashatehink/akira-d3de6694/
 
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

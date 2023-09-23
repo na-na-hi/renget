@@ -1,13 +1,13 @@
 ![Baltoy](https://media.tenor.com/ww2SHPDt6xIAAAAi/pokemon-pokememes.gif) 
 
-### ??? 
+### Bomb
 This Baltoy was discovered by Lilac around some alien ruins. It doesn't know much about itself, or about anything really. It seems to mimic those around it often and appears curious about most new things. It can communicate in limited form telepathically, but other psychic types or those attuned with aura may be able to understand it more clearly. For the most part it just spins around the place seemingly without purpose.
 
 · | ->· ->
 ---- | ----
 **Origin:** Unkown | **Guild Role/Occupation:** Bomb
 **Species:** Baltoy | **Affiliation:** Lilac
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 5 | **Experience to Next Level:** 10/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 

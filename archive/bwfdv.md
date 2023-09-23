@@ -2,6 +2,10 @@ Auntie’s Little Secret. Ch. 2
 
 ~*~
 
+This story has been dropped.
+
+~*~
+
 “Do you remember anything else from that day?”
 
 “Well. I had aunt with my… I mean, I had lunch, with my aunt, and uncle.”

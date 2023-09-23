@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
 **Level:** 7 | **Experience to Next Level:** 0/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 180₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 105₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -70,9 +70,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Big Mushroom | An item that can possibly be sold.
+1. Oran Berry | Heals the user for 10HP.
 2. Cheri Berry | Returns control. Heals *Paralysis.*
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Rawst Berry | Soothes the user. Heals *Burn.*
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -80,7 +80,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1.  Oran Leaf (x2) | Heals the user for 3HP. Can stack to 3..
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

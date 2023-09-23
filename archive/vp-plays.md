@@ -421,4 +421,5 @@ https://arch.b4k.co/vp/thread/54489115/ 6 the writer's barely disguised fetish
 https://arch.b4k.co/vp/thread/54497333/ 7 checked
 https://arch.b4k.co/vp/thread/54506876/ 8 obligatory oversized city map
 https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
-https://arch.b4k.co/vp/thread/54535690/ 10
+https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
+https://arch.b4k.co/vp/thread/54541474/ 11

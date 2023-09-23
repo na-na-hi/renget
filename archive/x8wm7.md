@@ -1,5 +1,9 @@
 To be 17 again. Ch.1.
 
+This story has been dropped.
+
+~*~
+
 The pot made a delightful bubbling sound as Mio turned off the stove, wanting to have one last taste, she gently blew on her spoon before slurping the soup.
 
 “It came out good again.” She thought, hoping wholeheartedly he would like it. The thought of being praised for her cooking once more made her heart flutter, repeatedly tasting the dish and feeding her insecurities more than her stomach, as she tried to find a single flaw in it. To her taste, it was perfect. 

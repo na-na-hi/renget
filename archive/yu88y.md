@@ -2,6 +2,10 @@ A Bond of Blood and Sin. Ch. 1.
 
 ~*~
 
+This story has been dropped.
+
+~*~
+
 The man Omaru Polka loved the most had always been her older brother. The strongest, the most handsome man, the kindest of them all! Always coming to her rescue, always giving her uppies when she wanted to, buying her candy, tucking her in bed, scolding her bullies…
 
 Oh, she loved him so much, *so, so much.*

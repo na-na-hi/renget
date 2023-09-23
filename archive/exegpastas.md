@@ -140,6 +140,7 @@ Title|Link
 *The Sonic R Horror* (Dot Lisall, among others)|[(link)](https://web.archive.org/web/20051018073343/quackerandbowen.com/sonicr.htm)
 *U53RDV*|[(link)](https://rentry.org/7m246)
 Sonic.exe /v/ewrite (Xenophanes)|[(link)](https://rentry.org/x38xq)
+*Sonic Pizza*|[(link)](https://rentry.org/kvcoe)
 
 ##Shitpastas
 Title|Link

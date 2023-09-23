@@ -1,5 +1,11 @@
 The Broken Heartlock. Ch.1.
 
+~*~
+
+This story has been dropped.
+
+~*~
+
 *”Gooood morning everyone! It’s a beautiful day outside and I have some great new to start off it off with…!”*
 
 God, morning shows are so awful. You’ve never liked them, sure, but shit. These people live one of the most plastic existences for a camera. The laugh tracks and the sound effects are getting under your skin. You take a sip of your coffee.

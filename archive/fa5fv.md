@@ -1,4 +1,10 @@
 # le.. prompts!
+
+!!! info
+	spare gepetto proxy, ma'am?
+	leprompts@proton.me
+
+***
 !!! warning
     All of these prompts are meant for GPT-4.
 	I don't have any extreme fetishes so, quite frankly, I don't know how filter-proof they are.

@@ -70,6 +70,11 @@ Image| Name | Description | Link
 ##Not cunny
 The other ones
 ***
+###Chelsea
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Chelsea](https://avatars.charhub.io/avatars/kirbish34/chelsea-fda2579e/chara_card_v2.png?nocache=0.2763439614430976) | Chelsea | Chelsea - (shota POV hag) A 37-year-old woman that always wanted kids (and is attracted to them), finds you crash with a bike and takes you home to take care of you (and more). | [CHUB link](https://chub.ai/characters/kirbish34/chelsea-fda2579e/main) [Catbox link](https://files.catbox.moe/plhu3t.png)
+
 ###Elizabeth
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
