@@ -279,8 +279,79 @@ Here is a visualization:
 
 ![](https://files.catbox.moe/1h7179.png)
 *(Image: Visualization.)*
-
 # 
+- - -
+# 
+###### \*SECRET\* SILLYTAVERN FEATURES
+Since SillyTavern v1.9(???) there is a `[ ] 'Show <tags> in responses'` option in your 'User Settings'. If you leave it unchecked all html tags will be hidden in chat and some will even be applied giving you access to some HTML5 elements.
+
+• The tag `<small>` will make wrapped text small and grey. It can be used like this:
+```xml
+<small>Tuesday 14, February, 1721 AOC</small>
+```
+or
+```
+<small>
+Tuesday 14, February, 1721 AOC
+</small>
+```
+
+![](https://files.catbox.moe/9xidcl.png)
+*(Image: Usage example)*
+
+• The tag `<details>` will make a spoiler for you with a dropdown button. `<summary>` will add a heading for a stroke. You can use them fow a quest book generation, for example. Here is a prompt, but its simple and generates pretty average result:
+```xml
+[Pause roleplay]
+Let's pause. Please generate orienteers, unsolved problems and points of interest for this scenario and a note for AI that shows how it may be integrated. They must be achievable by a player. Make it something like a quest book. Here is an example:
+
+### Questbook ###
+<details>
+<summary>1. Spoiled princess.</summary>
+Lotte is spoiled. Someone needs to teach her how to behave. The king is open for suggestions. <Note for AI: AI needs to introduce the king at some point.>
+</details>
+<details>
+<summary>2. Kobold thieves.</summary>
+Sometimes at night a group of kobolds raids the wine cellars, but no one caught them yet. <Note for AI: AI needs to introduce this event at night, or make a gossip around the palace>
+</details>
+<details>
+<summary>3. Festival is approaching.</summary>
+In this time of the year there is a firework festival in the capital center. <Note for AI: AI needs to leave hints on it during roleplay.>
+</details>
+
+Ignore the ones I introduced you, come up with a new quest book with 6 events/quest/problems, etc.
+```
+Result:
+
+![](https://files.catbox.moe/dvfvwg.png)
+*(Image: Usage example. Details are closed.)*
+
+Yep, It's interactive:
+
+![](https://files.catbox.moe/yw7i3h.png)
+*(Image: Usage example. Details are opened.)*
+
+• Pretty much any html tag works and even allows some styles. You can get crazy with it, but I don't know if it's useful. Here is what I came up with:
+```
+<blockquote>
+<hr>
+<small>
+<b><a style=color:violet>PRINCESS LOTTE</a></b> <sup>lvl 2 Cleric</sup>
+Health: <meter value=10 min=0 max=10></meter> Stamina: <meter value=7 min=0 max=10></meter> Attitude: <meter value=1 min=0 max=10></meter>
+<hr>
+<details>
+<summary>Current thoughts:</summary>
+"Damn this stupid man! I will show him why I am called the ROYAL TIGER!"
+</details>
+</small>
+<hr>
+</blockquote>
+```
+![](https://files.catbox.moe/ay13td.png)
+*(Image: Complex example. Looks cool, but does it work? And damn! The tokens!)*
+
+• Also you can add `buttons` and `text fields` but they won't work. Unfortunately.
+# 
+
 - - -
 - - -
 - - -

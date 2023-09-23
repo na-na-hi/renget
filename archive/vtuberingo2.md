@@ -9,7 +9,7 @@ Inuyama Tamaki's Pee Holding Tetris (ft. too many to list) - https://www.youtube
 Saruei - https://files.catbox.moe/v1kwlj.ogg
 Levi Elipha - https://twitter.com/tyarhannnogu/status/1284480087585218560?s=46&t=0aEjfJoroydNIQovfhqJLw
 Rurikawa Emiri - https://www.youtube.com/watch?v=e-7EFgEocBM&t=3658s
-Hakuma Rei - https://www.youtube.com/watch?v=ClpiBrHBvkc&t=5865s
+Hakuma Rei - https://youtu.be/mZx5PpguxzE?t=5340; https://youtu.be/43QL3UO4mlU?t=5930; https://youtu.be/1BkzQTpmpyM?t=4570
 Hiina Tenshouin - https://www.youtube.com/watch?v=I4WXiVRBbl8&t=3155s
 Raisu Umeru - https://www.youtube.com/watch?v=7nDnIGzgFvQ&t=3715s
 Kawai Coron - https://www.youtube.com/watch?v=4H0n9TuY8Pw&t=3480s
@@ -18,6 +18,7 @@ Temako - https://www.youtube.com/watch?v=Q-CCgeRLV7E&t=10662s
 Mataame Shizuku - https://www.youtube.com/watch?v=A7QXGsd2Fa0&t=3951s
 Sumire Kuritori - https://files.catbox.moe/ybd3f9.m4a
 Momoga Koyoi - https://www.youtube.com/watch?v=RoVLAKkzr2I&t=12720s
+chromu - https://twitter.com/kuwomumu/status/1672500740151975937, https://twitter.com/kuwomumu/status/1643016287868575745, https://twitter.com/kuwomumu/status/1636235640202199041
 
 **Braps**
 Tokoyami Towa (or Usada Pekora?) - https://youtu.be/vvNHxiHFHqc?t=6582; https://files.catbox.moe/pudiif.mp4
@@ -74,6 +75,7 @@ Ironmouse - https://www.youtube.com/watch?v=u1QxM91Ui-Q
 Kobo Kanaeru - https://youtu.be/GGRJOMF8Qfw, https://www.youtube.com/watch?v=HfsUhgrUYFg
 Scarle Yonaguni - https://www.youtube.com/watch?v=v4FFc8P9K8s, https://www.youtube.com/watch?v=J0LpqKp93I8
 Nyanners - https://youtu.be/GC4idq6vJyY
+Takanashi Kiara - https://streamable.com/qr7wwc
 
 **Vomit**
 Akai Haato - https://youtu.be/UDNpNdcruVM
@@ -86,5 +88,5 @@ Kiryu Coco - https://www.youtube.com/watch?v=XzD-Ms5ukLE&t=3420s
 Amelia Watson - https://www.youtube.com/watch?v=5OgO3PDI3ko&t=2065s
 Himemori Luna - https://youtu.be/U79xsNy8WMo
 Yukihana Lamy - https://www.youtube.com/watch?v=Z1X_jj9fpMo
-Ceres Fauna - https://youtu.be/QDKW1OzsxJc
+Ceres Fauna - https://youtu.be/QDKW1OzsxJc; https://www.youtube.com/watch?v=WFgAwc5w-kY
 Ouro Kronii - https://www.youtube.com/watch?v=uY_SqechQJI

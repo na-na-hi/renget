@@ -14,6 +14,7 @@ Subrentries with my other work:
 
 - Alternative images collection: [Lobster's Gallery](https://rentry.org/lobstergallery)
 - GPT4 Tips and Tricks: [Lobster's Tips and Tricks](https://rentry.org/lobstersgpt)
+- Shared Universe Project: [Crimson Future](https://rentry.org/CrimsonFuture)
 
 ***
 ####Quick bot list

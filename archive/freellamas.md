@@ -67,13 +67,13 @@ git stash pop
 Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no statistics, not even prompt count.
 
 ##### Known issues
-- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. Alternatively, use simple-proxy-for-tavern.
+- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies.
 Here's an ideal card that will generate medium responses: https://files.catbox.moe/1ytt9w.png
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.
 - Asterisks in replies are fucked? Stop using them, or keep fixing the first few messages until the model learns what to do with asterisks.
 - Model keeps narrating your actions? Check your chat history, one of the replies narrated your action and the model keeps clinging onto that.
-- If you think the bot isn't behaving correctly, like talking for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again. When in doubt, check SillyTavern's console output, the prompt should always end with Last Sequence, followed by `{{char}}:`
+- If you think the bot isn't behaving correctly, like auto-completing for you, saying gibberish, saying nothing, it's most likely your setup is wrong, check again. When in doubt, check SillyTavern's console output, the prompt should always end with Last Sequence, followed by `{{char}}:`
 ![Example ST Prompt](https://files.catbox.moe/1eo7vr.png)
 
 ##### How to host your own proxy
@@ -83,3 +83,6 @@ On Google Colab for free: https://rentry.org/colabfreellamas
 
 ##### Other llama proxies
 https://proxy.chub-archive.evulid.cc/api
+
+##### Contact
+sandwich4093@proton.me

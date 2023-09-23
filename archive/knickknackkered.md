@@ -61,5 +61,15 @@ Image| Name | Description | Link
  ![Dorchadas was a fun setting, took a lot of inspo from orthodox aesthetics!.](https://files.catbox.moe/x6w9hk.png) | Cordyce | Sometimes peace requires...sacrifices, a fact that the detached and clinical Cordyce knows all too well. Comes with two greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/cordyce-9cf18029) 
  ![she and Rina would be good friends...](https://files.catbox.moe/tqqdej.png) | Thysia | A girl who lives for the party, but her appetites trend towards the bloody. She bites...too much! | [CHUB link](https://www.chub.ai/characters/knickknack/thysia-411fbd4d)
 
+###Crimson Future
+Lorebook: https://www.chub.ai/lorebooks/LobsterJea/the-crimson-future-main-lorebook-4d3be2db
+Rentry: https://rentry.org/CrimsonFuture
+
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![had a lot of fun researching for this one](https://files.catbox.moe/8wfm9s.png) | Amrita | Amrita, born into prestige and groomed for power, is the earnest epitome of the Dominion's ideals. Will the brutal reality of working for the secret police shatter her immaculate convictions? Comes with 6 greetings.  | [CHUB link](https://www.chub.ai/characters/knickknack/amrita-5c79f99a) 
+ ![Who doesn't love organ trafficking?](https://files.catbox.moe/ivp9en.png) | Ender | In decaying Istanbul, laundromat owner Ender trades loyalties as fluidly as he trades organs and prosthetics. Under his affable demeanor is a heart that beats only for his own amusement. Comes with 6 greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/ender-c3e533b8) 
+ ![Yes I made another karaoke fiend.](https://files.catbox.moe/qtsr8n.png) | Huang | An exhausted Xin Silu bureaucrat in a backwater outpost far. Have fun chasing mountain goats, drinking kumis, and dealing with the ever-increasing piles of paperwork as the Dominion tries to hold itself together. Comes with 6 greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/huang-fb623a54) 
+
 ##MISC
 Template created by [this smooth fella.](https://rentry.org/Darkfantasy109)

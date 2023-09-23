@@ -5,7 +5,13 @@
 [TOC3]
 ***
 ###Bots
-#### OCs
+#### OC's
+#####Kaji
+Japanese "Freedomfighter" and part of the Crimson Future Project
+![Kaji](https://files.catbox.moe/20fd2a.png)
+https://files.catbox.moe/20fd2a.png
+
+https://rentry.org/CrimsonFuture
 #####Cassy
 Sweet and bubbly, she wants to fuck you(r ass)!
 ![Cassy](https://files.catbox.moe/siu6j8.png)
