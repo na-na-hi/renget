@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 24.09.2023 17:30 UTC]
+[Last Updated: 24.09.2023 23:45 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7585285/](https://boards.4chan.org/h/thread/7585285/)
+Current thread - [boards.4chan.org/h/thread/7588952/](https://boards.4chan.org/h/thread/7588952/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 636&nbsp;&nbsp;[archiveofsins.com/h/thread/7588952/](https://archiveofsins.com/h/thread/7588952/)&nbsp;&nbsp;&nbsp;&nbsp;(24.09.2023 21:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;You didn´t heed the warning Edition
 - 635&nbsp;&nbsp;[archiveofsins.com/h/thread/7585285/](https://archiveofsins.com/h/thread/7585285/)&nbsp;&nbsp;&nbsp;&nbsp;(22.09.2023 03:37)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Consequences of Posting Cringe Edition
 - 634&nbsp;&nbsp;[archiveofsins.com/h/thread/7581765/](https://archiveofsins.com/h/thread/7581765/)&nbsp;&nbsp;&nbsp;&nbsp;(19.09.2023 12:36)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;The Bulbheads Edition!
 - 633&nbsp;&nbsp;[archiveofsins.com/h/thread/7576794/](https://archiveofsins.com/h/thread/7576794/)&nbsp;&nbsp;&nbsp;&nbsp;(16.09.2023 00:42)&nbsp;&nbsp;[1114]&nbsp;#&nbsp;Now In 3D! Edition
 - 632&nbsp;&nbsp;[archiveofsins.com/h/thread/7572124/](https://archiveofsins.com/h/thread/7572124/)&nbsp;&nbsp;&nbsp;&nbsp;(12.09.2023 23:21)&nbsp;&nbsp;[1196]&nbsp;#&nbsp;Duc Edition
-- 631&nbsp;&nbsp;[archiveofsins.com/h/thread/7567749/](https://archiveofsins.com/h/thread/7567749/)&nbsp;&nbsp;&nbsp;&nbsp;(10.09.2023 01:20)&nbsp;&nbsp;[1063]&nbsp;#&nbsp;Dunked On Edition
 ---
 Archive:
 
+- 631&nbsp;&nbsp;[archiveofsins.com/h/thread/7567749/](https://archiveofsins.com/h/thread/7567749/)&nbsp;&nbsp;&nbsp;&nbsp;(10.09.2023 01:20)&nbsp;&nbsp;[1063]&nbsp;#&nbsp;Dunked On Edition
 - 630&nbsp;&nbsp;[archiveofsins.com/h/thread/7564590/](https://archiveofsins.com/h/thread/7564590/)&nbsp;&nbsp;&nbsp;&nbsp;(07.09.2023 23:20)&nbsp;&nbsp;[1154]&nbsp;#&nbsp;Friendly Findings Edition
 - 629&nbsp;&nbsp;[archiveofsins.com/h/thread/7560742/](https://archiveofsins.com/h/thread/7560742/)&nbsp;&nbsp;&nbsp;&nbsp;(05.09.2023 10:39)&nbsp;&nbsp;[1216]&nbsp;#&nbsp;You are stuck with us Edition!
 - 628&nbsp;&nbsp;[archiveofsins.com/h/thread/7557087/](https://archiveofsins.com/h/thread/7557087/)&nbsp;&nbsp;&nbsp;&nbsp;(03.09.2023 02:56)&nbsp;&nbsp;[1276]&nbsp;#&nbsp;I'm going to post this in every thread until you like it Edition

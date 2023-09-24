@@ -4,7 +4,8 @@
 Threads 186 - Current: AO3 era.
 =====================
 
-Thread 324 - Bimb Slayer 2.0 Edition https://desuarchive.org/trash/thread/59752175/
+Thread 325 - Scent of Love Edition: https://desuarchive.org/trash/thread/59809776/
+Thread 324 - Bimb Slayer 2.0 Edition: https://desuarchive.org/trash/thread/59752175/
 Thread 323 - Bimb Slayer Edition: https://desuarchive.org/trash/thread/59689336/
 Thread 322 - Elite Babygirl Edition: https://desuarchive.org/trash/thread/59463318/
 Thread 321 - Elite ASS Edition: https://desuarchive.org/trash/thread/59401625/

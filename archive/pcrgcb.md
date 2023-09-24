@@ -23,6 +23,7 @@ videos:
 videos:
 [Vash](https://www.youtube.com/watch?v=DpHXrh6j5O4)
 [Reonmaru](https://youtu.be/Wlu06tdES3s)
+[Eruru](https://www.youtube.com/watch?v=au8k_61Uqs8)
 
 ### Boss 1
 [B1 Phys 67-68m](https://www.youtube.com/watch?v=KRv9UupZiQE)
@@ -47,8 +48,31 @@ L.Nozomi 3★ Lv283 R30 FULL, EX 5/3/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ![3](https://pomf2.lain.la/f/bm1fd9i5.png) 
 
+[B2 Phys 52m](https://www.youtube.com/watch?v=DZA0sE5lQDs)
+![3](https://pomf2.lain.la/f/g0qa32eb.png)
+Tested with:
+Muimi 6★  Lv283 R30 FULL, EX 5/5/5
+Makoto 6★ Lv283 R30 FULL, EX 5/Nothing/5
+Vikala 3★ Lv283 R29 Naked, EX 5/3/5
+L.Nozomi 3★ Lv283 R30 FULL, EX 5/Nothing/5
+Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
+![3](https://pomf2.lain.la/f/qb9gtyvn.png) 
+
+No Vikala
+[B2 Phys 49m](https://youtu.be/beQqRjsmSGk)
+
+
 
 ### Boss 3
+[B3 Phys 65m](https://youtu.be/7rNn9NRW3co?si=0RZqfVbDg9oH0oPi)
+![3](https://pomf2.lain.la/f/jww2zw58.png) 
+O.Peco 4★  Lv283 R30 FULL, EX 5/5/5
+Djeeta 6★ Lv283 R30 FULL, EX 5/5/5
+Christina 6★ Lv283 R30 FULL, EX 5/Nothing/5 (Tested with X.Chris bonds)
+Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
+ST.Kurumi 5★ Lv283 R30 FULL, EX 5/Nothing/5
+![3](https://pomf2.lain.la/f/64aw6eyo.png)
+
 [B3 Phys 62m](https://www.youtube.com/watch?v=SQVg6_PxaAU)
 ![3](https://pomf2.lain.la/f/2pmiwe8h.png) 
 Tested with:

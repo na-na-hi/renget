@@ -1,4 +1,5 @@
 #The Great Bulk, Interlude 1: Basic Training
+[TOC2]
 ##Starting the Day
 After turning in Iron Wing and Nickel, I rented out a room in the nearby stone-hewn hotels for Makuhita and myself. I insisted to him that I be the one to handle the budget, as he would blow it all on food. After some arguing, he agreed. Even with my budgeting, he still ate two Pokemon's worth of it, and he said it was a “light meal”. The only thing that could outeat him was a Snorlax, it seemed.
 
@@ -49,7 +50,7 @@ I couldn't help but laugh, due to the sheer absurdity of the situation. Makuhita
 
 Hearing this, my partner snickered to himself. “I actually forgot all about my meal! I was so busy, I forgot I was hungry." With that, we headed back into town, my coinpurse silently weeping in anticipation of Makuhita's gluttony.
 
-###Later that night...
+->**Later that night...**<-
 
 ##The “Date”
 Jolteon watched as her dear Makky devoured yet another bowl of food. Everyone in the pub, even the Aegislash behind the counter, were observing the spectacle in a combination of awe and horror. Much of the clientele were Ghost-types, but observing her “date” fill the unending chasm that served as his gut was putting the fear of Arceus into them. A small part of her told her that it was a mistake to foot the bill, but she pushed it aside. It all had to be worth it, if it meant hooking up with someone as cool as Makky.

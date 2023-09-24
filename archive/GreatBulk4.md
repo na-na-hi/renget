@@ -1,4 +1,5 @@
 #The Great Bulk, Part 4: Birds of a Feather
+[TOC2]
 ##Coming Home to Roost
 I went to check on Makuhita after my daily yoga, and found that he was finally stirring awake. I lightly kicked him in the gut. “Get up. It's time for your meditation,” I commanded of him. He slowly got up off of his hay bed, stretching his arms and letting out a yawn. He gazed drowsily at me, clearly unhappy.
 
@@ -167,6 +168,8 @@ After Makky paralyzed Staravia's wing, it was effortlessly easy to get her into 
 
 “Whether I'm complimenting or insulting you is up to your own personal interpretation,” I responded. Just as Makky was about to offer what was sure to be a witty retort, I heard footsteps. I turned around, and came face to face with Foi. His plumage was burnt – I smiled with my true face, knowing Jolty gave him trouble again.
 
+![His goose might be cooked, but he can still kick your ass.](https://i.imgur.com/hbCS8GL.png)
+
 “It looks like you're the only two left,” the Farfetch'd said dismissively. “My boys got a lot tougher since last time; they did great work. Now, two-face, you do know what I'm gonna do with Houndoom, right?”
 
 “Whatever it is, it isn't my problem,” I fired back. “Your threats are about as scary as a Magikarp. You're just another overgrown bully; you're all the same.”
@@ -204,8 +207,9 @@ With one last surge of strength, Foi slipped free from under Makky's bulk, ran b
 Feeling the pain in my body beginning to recede, I got up and went to fetch some rope from a cart. I had fingers, so I naturally put them to use tying up the bastard quintet.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###3 Days Later...
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+->**3 Days Later...**<-
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Epilogue - What's in a Name?
 After recovering enough to walk after our battle with the Flock, Mawile filled me in as to what had happened. It was unreal, hearing about my partner fighting three birds back to back, but what I saw wasn't a lie – by the time I had woken up, Foi was tied up, his retinue trailing right behind him. Houndoom forced Rhydon to accompany us back to Sahra due to his poor performance, but he was mostly silent.
 

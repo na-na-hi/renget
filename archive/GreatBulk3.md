@@ -1,4 +1,5 @@
 #The Great Bulk, Part 3: Visions of the Future
+[TOC2]
 ##On the Trail
 After Hitmontop, we secured a few more bounties for ourselves. While catching A-Rank criminals was more of a challenge, it also brought in more income, which obviously meant more supplies. Makuhita and I both now both set out on our missions with a couple of Reviver Seeds, a few Heal Seeds, some Oran Berries, food, and whatever additional odds and ends a particular job might require. It was always good to have a safety net. Our latest job was to catch a thief known as Thievul the Shadow, nicknamed as such due to his ability to steal items unnoticed and slip through the fingers of the law. His talent for such was so great, he was active for even longer than Cacturne.
 

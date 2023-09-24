@@ -1,4 +1,6 @@
 #The Great Bulk, Chapter 1: Manage This
+[TOC2]
+
 ##No Gains, All Pain
 Drifting out of a dreamless sleep, a Makuhita woke up to an alien, unfamiliar environment. The bed he remembered sleeping on was replaced by an endless expanse of sand; the ceiling of his home replaced by a clear sky and the sun, beating down upon him harshly. Not even the familiar, towering architecture of the city he was used to living in was around. Groggily, he gets up to his feet, but he pauses for a few moments. He extends his arms, and stares at them. He waves one of the appendages in front of his face - it was a short, stubby thing with a black, bulbous end, vaguely reminescent of the hands of a Hitmonchan. He inhales deeply.
 
@@ -20,7 +22,7 @@ Arriving quickly, I spotted them. There was a Makuhita lying on the desert floor
 It was dehydration. One succumbs to it faster than starvation, especially in the middle of the desert. I was doubly certain of this, as his bulk would have allowed him to survive without food for longer than most. In spite of my smaller frame, I picked the unfortunate soul up with ease. As he was too heavy to float with, I walked back to the caravan, loading him onto a wagon. I looked around for the closest possible pokemon, my eyes quickly meeting a Croagunk.
 
 He looked on at the Makuhita with concern, his focus only being broken as I addressed him. "Quit gawking at him. They need water." Nodding, he ran to the only cart that still had its contents - our supply wagon. Once our new passenger had been given some water, I gave a command, and we resumed our march south back to my home town, Oasis.
-#####A few hours later...
+->**A few hours later...**<-
 ##Ransacked
 A Cacturne and a Lombre stalked the caravan from behind, their worn ponchos and scarred bodies painting a portrait of the criminal careers they held. The latter of the two squints his tired-looking eyes, and saw something that perplexed him. What he assumed to be the guards were gathering toward the rear of the caravan, in a defensive line. Holding an arm out, Lombre stopped his partner in his tracks, craning his neck upwards to look at him.
 

@@ -820,6 +820,7 @@ Page 1
 AMGC the MP is set in a world where cute, fluffy things called Puchuus recruit random people into becoming magical girls. The default setting is a mix of Madoka and any standard fare magical girl franchise, where magical girls are the hopeful protectors of their mortal realm, but can die, or can become corrupted into a dark magical girl or a monster girl.
 >Anything else I need to know
 In the setting, there's this hub world called the Overcity where magic people and monsters roam freely. Some builds only reside here, so if you want to play as some sort of wizard, that's an option.
+Most of the characters who live in the mortal realm reside in Japan.
 
 "Rules"
 >Play as is
@@ -841,14 +842,24 @@ Jesterbelle
 >>90137242
 Solomon Talbot
 >>90154169
+
 >Elemental Princesses
 Arika Tsukishiro
 >>90138764
 Chie Mitarai
 >>90139598
+
 >Glass Warriors
 Haruki Tsukuda
 >>90148156
+
+>Paladins of Charlemagne
+Orlanda Charleson
+Olivia Devienne
+Astolpha Martel
+>>90341450
+https://pastebin.com/X7Cua7Nd
+
 >Independent
 Magdelene
 >>90147959
@@ -972,6 +983,8 @@ Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
 https://rentry.org/5ivhd
 Applying for membership in the Dread Conglomerate (Pestilence)
 https://rentry.org/4v5uin
+Material Girl
+https://rentry.org/bttmt 
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

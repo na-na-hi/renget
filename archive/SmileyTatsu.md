@@ -47,6 +47,15 @@ Links  |  [Catbox](https://files.catbox.moe/pwtj8a.png) \| [Chub](https://www.ch
 
 ![Isabella](https://files.catbox.moe/pwtj8a.png)
 
+### Leah (Nerdy office worker)
+
+Info | Data
+:----: | :----:
+Leah  |  Leah is a nerd who enjoys writing code, playing video games and reading manga with a bad sleep schedule
+Links  |  [Catbox](https://files.catbox.moe/9vy3sr.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/leah-7322f4bd)
+
+![Leah](https://files.catbox.moe/9vy3sr.png)
+
 ## Non-OC Bots
 
 ### Tatsumaki (OPM)

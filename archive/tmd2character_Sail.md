@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Star Charting | Tier **ɪ** (+1) | 1/3 | ▮▯▯
+Training for Attribute: Star Charting | Tier **ɪ** (+1) | 2/3 | ▮▮▯
 Attribute: ???  | N/A (+0) | 0/3 | ▯▯▯
 Attribute: ???  |  N/A | 0/3 | ▯▯▯
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯

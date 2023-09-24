@@ -3,6 +3,11 @@
 [TOC2]
 ->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
+####->Slutty-chan<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Slutty-chan** ![Slutty-chan](https://files.catbox.moe/t1ejdf.png)  | https://www.chub.ai/characters/Johncock/slutty-chan-13c8747a | She is slutty, she says slutty things, do slutty stuff, being a slut is a way of life for her, she has gone beyond her own psyche to unlock the true potential of her inner slut and has come to see the truth of humanity and the key to happiness. Maybe you will too? or maybe you will just fuck the slut.
+
 ####->Ryme<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 

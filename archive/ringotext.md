@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[The World's Pudgiest, Poopiest Idol](https://archiveofourown.org/works/50272087)* | Haato | brap, choco |
 | *[Cut from the Same Cloth: Part 5](https://rentry.org/h82ts)* | Fuwawa, Mococo | sweat, smell, brap, ringo, choco |
 | *[Heated Negotiations](https://rentry.org/9f38p)* | Ame | sweat, smell |
 | *[Carmelina](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub)* | Lamy, Marine | milk, sweat |
@@ -191,6 +192,7 @@
 | [>>26369129](#26369129) | Suisei, Calli | ringo |
 | [>>26455032](#26455032) | Ame, Gura, Kiara, Calli, Ina | ringo, brap, choco |
 | [>>26603510](#26603510) | Mio | brap |
+| [>>26639205](#26639205) | Gura, Ina | ringo |
 | [>>26877666](#26877666) | Polka | sweat |
 | [>>27084088](#27084088) | Gura, Calli | ringo |
 | [>>27245982](#27245982) | Chloe, Lui, Koyori, Iroha, La+ | smell |
@@ -2173,6 +2175,15 @@ Alternate timeline
 Just imagine.
 Mio asks you to hold her feet down while she does her situps because she has a habit of accidentally lifting them while doing them. As you playfully cheer her on, you suddenly hear that come out, and the smell hits you almost immediately.
 Mio shoots up out of pure reaction letting out another loud burst. her face red as she pushes you away slightly while profusely apologizing.
+
+-> [[top]](#ringo-greentext) <-
+-> * * * <-
+
+## >>26639205
+
+Am I the only one who thinks about Ina licking and eating Gura's cunny out, just to get her wet and turned on enough for Gura to ride me, allowing my rod to slide into her cunny with ease, as Ina focuses on tasting every surface area of Gura's lower half, thoroughly licking and gently sucking every inch of Gura's thighs and butt before proceeding to stick her warm wet tongue deep inside Gura's anus, as I grab Gura's hips and make out with her, french kissing her as she we both sway our hips back and forth towards each other in synergy, with the pleasure getting so intense that I hug my arms around Gura's back and mating press her on the bed, pressing Gura's ass unto Ina's face at full force, continuing to thrust in and out of her cunny until I ejaculate deep inside her womb while Ina's tongue is still lodged deep inside Gura's anus, with both of her holes being stimulated to intense levels causing her to climax, Gura's cunny filled with both my seed and her cunny juice, and turning over so she could share our love concoction with Ina, mounting on top of her face and press her cunny towards Ina's mouth, and Ina with her heart shaped eyes gladly opens widely to suck and swallow every ounce of the love fluids down her throat, turning me on even further as rod became large and hard again the longer I watch, uncontrollably making me thrust my rod into Gura's anus while she was still riding Ina's face and squirting the orgasmic nectar in Ina's mouth, yet it was easy to slide it into Gura's anus due to Ina's warm wet tongue prepping her butt to be lubricated more than enough, her saliva still warm now being coated on my rod with the walls of Gura's rectum, making me lose even more control and uncontrollably butt fuck Gura, with every thrust I make pushing Gura's cunny harder into Ina's face, who is happily sticking her tongue out as far as she can, licking the walls of Gura's cunny, trying to scoop every love nectar she can find, making Gura stimulated to even greater heights, which then she makes even more orgasmic fluids, as well as urine that she tried her best to hold in, as everything that came out of Gura went into Ina's mouth, I thrusted even hard until I came again, repeating the same event as last time but this time in her butt rather than her cunny, and Gura turns around, showing her butt to Ina while spreading her cheeks with her hands, signaling Ina to open her mouth wide once again, all so Gura could sit on her face and poop out all of the orgasmic fluids in her mouth, which made me turned on even more, making me uncontrollably grab Gura's legs as she is sitting on Ina's face, and repeat the same mating press process we had did earlier, as the cycle continues again, and again, and again, until 24 hours has passed, because I was able to last that long due to the aid of their mythological power?
+
+No? Just me?
 
 -> [[top]](#ringo-greentext) <-
 -> * * * <-

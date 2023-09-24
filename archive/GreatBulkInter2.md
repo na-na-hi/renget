@@ -1,5 +1,7 @@
 #The Great Bulk, Intermission 2: A Nickel For Your Thoughts
-######This follows the tracks of Nickel, one of the two outlaws Makky and Asana faced in Part 1. If any readers have a good memory, you'll know he escaped. This takes place chronologically between Parts 1 and 2 of the main story.
+**This follows the tracks of Nickel, one of the two outlaws Makky and Asana faced in Part 1. If any readers have a good memory, you'll know he escaped. This takes place chronologically between Parts 1 and 2 of the main story.**
+
+[TOC2]
 
 ##Stowaway
 Bad luck has always lingered behind me. I got robbed for my chest in my youth, every 'mon I manage screws up and gets caught, and the worst part is, they're getting *worse*! After that idiot Wings got clobbered, I haven't been able to find any new talent worth my time. Any potential clients either didn't need me, didn't want me, or were even more useless than he was. After all of my failures and flops, I could only come to one conclusion:

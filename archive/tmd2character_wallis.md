@@ -67,7 +67,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
 .
 Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮

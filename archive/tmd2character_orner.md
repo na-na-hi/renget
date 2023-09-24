@@ -61,7 +61,7 @@ Battle Attribute: N/A
 Training for Attribute: N/A
 Training for Battle Attribute: N/A
 Training for Move: N/A
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 2/9 | ▮▮▯▯▯▯▯▯▯
 Stat: N/A
 
 **INVENTORY (4 slots)**

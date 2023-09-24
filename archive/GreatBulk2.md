@@ -1,4 +1,5 @@
 #The Great Bulk, Chapter 2: Ain't That a Kick to the Head
+[TOC2]
 ##Moving On Up
 A few weeks passed, Makuhita and I having settled into a routine. We would deal with outlaws closer to Sahra Town, all under A Rank, and in our off time, we would train together. Most importantly, I learned a couple of things about Aura Expression during these matches. The first was me beginning to unravel how to exactly train it. There was a reason why I was only able to tap into it while I was in the thick of combat – it required my body to be tensed and moving. 
 
