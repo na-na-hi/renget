@@ -908,6 +908,13 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/xdftan.safetensors
 
+# Magica De Spell (Ducktales)
+
+https://civitai.com/models/150647/magica-de-spell-or-ducktales
+
+	Direct DL V1.0:
+	https://civitai.com/api/download/models/168810?type=Model&format=SafeTensor
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

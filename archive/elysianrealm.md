@@ -832,7 +832,7 @@ Priority | Signet | Details
 ------ | ------ | ------
 1st | Eden1 | Both damage boosts, starting SP are the key choices , unlock nexus 
 2nd | Vill-V1 | 3 1 2 6 are the key choices; must pick at least breach from enhanced, can pick phys DMG
-2nd | Kosmos1 | Ultimate, basic ATK, evasion, shieldbreak damage, are the key choices, unlock nexus 
+2nd | Kosma1 | Ultimate, basic ATK, evasion, shieldbreak damage, are the key choices, unlock nexus 
 2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
 Optional | Griseo1 | Red(buy from shop) Black are the key choices, don't need nexus; can also pick Kalpas vulnerability as reinforcement 
 
@@ -1165,7 +1165,7 @@ Priority | Signet | Details
 1st | Vill-V1 | 3 2 4 are the key choices, unlock nexus 
 2nd | Su1 | Vulnerability, both combos, TDM are the key choices; must pick at least breach from enhanced, can also pick vulnerability
 2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
-1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices, can pick Burden, TDM from enhanced
+2nd | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices, can pick Burden, TDM from enhanced
 Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can pick breach from enhanced; can also pick Sakura evasion reset, evasion+1, TDM, vulnerability as reinforcement
 
 !!! info Recommended to reset for Nature on 2F; swap sigils on 5F, try to buy 1 Su signet, unlock nexus on 7F then pick up enhanced; if not good at dodging not recommended to pick Kalpas before 12F

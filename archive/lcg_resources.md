@@ -13,6 +13,7 @@
 * [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
 * [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
 * [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas)
+* [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
 
 **Team Builder**
 * [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
@@ -24,15 +25,16 @@
 * [Dustloop Wiki](https://www.dustloop.com/w/LCB/)
 * [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z)
 * [ID & E.G.O animations](https://yuehailunna.lofter.com/view)
-* [Library of Ruina - Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
 * [Limbus Company Fandom](https://limbuscompany.fandom.com)
+* [Library of Ruina - Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
 * [Library of Ruina Fandom](https://library-of-ruina.fandom.com)
 * [Lobotomy Corporation Fandom](https://lobotomycorp.fandom.com)
 
 ## Guides
 * [/lcg/ Guide](https://rentry.org/lcbguide)
-* [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
+* [The Totally Definitive MD2 Hard Guide (GUIDEFAG MAKE A RR2 guide NOOWWW)](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
+* [Yet Another Limbus Company Tier List (I'm moving this to the abandoned section if it's not updated in a few months)](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
 
@@ -42,34 +44,35 @@
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
+* [Recommended Translations (Somewhat outdated for The Wings, see below links)](https://rentry.org/ligmabooks)
+* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
+* [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
 * [Leviathan](https://projectmoon.postype.com/series/875159/leviathanprojectmooncomicsenglish)
 * Human Translation of Leviathan 16-20 [16](https://docs.google.com/document/d/1XTKn80hOYry3ujfAXrtHEahOzVtmfRAdEpk6K_060Ck) [17](https://docs.google.com/document/d/1fJ35GZbccZMPVBPFFiha32KLEElTqp-sQlhluTV5TjI) [18](https://docs.google.com/document/d/1Vsyqc_-KsNWfM17qWFk4EcGWzw6t-RiANTUPbQLi19c) [19](https://docs.google.com/document/d/14INIr_C4sbBBCPHv1MhajKamnQt3czXGGGgEvd7lUj0) [20](https://docs.google.com/document/d/1DjA1nsOvx95OFLfQCm6B5AgNc7z5VtfBC8AQ-ySMr38)
-* [Recommended Translations (Outdated for The Wings)](https://rentry.org/ligmabooks)
-* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
-* [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
-* [Lobotomy Corporation Q&A](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
-* [Project Moon Q&A](https://docs.google.com/document/d/1-ROhilNEVrJ_Ko2RnFp4jtqjV3AHu5xvfm3Cdmsc-ro)
 * [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
 * [Mimi's Wonderlab Q&A](https://docs.google.com/document/d/1tLqsYkV30UQQiKM42bpYTtmS0eiJPwnhBDHzelSjSvE)
+* [Lobotomy Corporation Q&A](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
+* [Project Moon Q&A](https://docs.google.com/document/d/1-ROhilNEVrJ_Ko2RnFp4jtqjV3AHu5xvfm3Cdmsc-ro)
 * [Character PVs](https://www.youtube.com/watch?v=HsffQ_RfOYQ&list=PL9-RBacZ4KMzfp_qh8wwP2rlDCP5Cc_Xk)
+* [Korean Sinner speech patterns](https://twitter.com/aranruine/status/1665051319361581056)
 
 ## Music and OST
 * [Full Limbus OST](https://www.youtube.com/watch?v=5Jtysd16c-g&list=PL8S6_RCVQ5uj_924DogHp2SmAMJ3goKL3)
 * [Pass On sinner covers](https://www.youtube.com/watch?v=SupBa5JJuO0&list=PL9-RBacZ4KMzFjhRY4zD7_GbwL1LgNWXD)
-* [LoR OST](https://www.youtube.com/watch?v=dgQnj3iGKZo&list=PL9-RBacZ4KMyfBNAIJxBFwVfNcGO0aEPv)
-* [To Kill a Living Book Album](https://www.youtube.com/watch?v=nOj_A3aZxGs&list=OLAK5uy_ni8TROwDUd3XlpkiGKaadW39M6NqQJ68Q)
-* [Mili - In Hell We Live, Lament](https://www.youtube.com/watch?v=XfTWgMgknpY)
+* [In Hell We Live, Lament](https://www.youtube.com/watch?v=XfTWgMgknpY)
 * [Between Two Worlds](https://www.youtube.com/watch?v=lu8i-OyjLYk)
 * [Fly, My Wings](https://www.youtube.com/watch?v=_PSjoVXFGAQ)
+* [LoR OST](https://www.youtube.com/watch?v=dgQnj3iGKZo&list=PL9-RBacZ4KMyfBNAIJxBFwVfNcGO0aEPv)
+* [To Kill a Living Book Album](https://www.youtube.com/watch?v=nOj_A3aZxGs&list=OLAK5uy_ni8TROwDUd3XlpkiGKaadW39M6NqQJ68Q)
 * [Lobotomy Corporation OST](https://www.youtube.com/watch?v=VBLLmbUpoC0&list=PLcRV4rDHJPGEEk1uB9WXmgcFagQcqzuTh)
 
 ## Official Links
-* [Project Moon Twitter](https://twitter.com/ProjMoonStudio)
-* [Project Moon Website](https://projectmoon.studio/)
 * [Limbus Company Twitter](https://twitter.com/LimbusCompany_B)
 * [Limbus Company Website](https://limbuscompany.global/)
+* [Project Moon Twitter](https://twitter.com/ProjMoonStudio)
+* [Project Moon Website](https://projectmoon.studio/)
 * [HamHamPangPang Twitter](https://twitter.com/Ham_PangPang)
 * [Youtube](https://www.youtube.com/@ProjectMoonOfficial)
 * [Old Youtube](https://www.youtube.com/@moonproject8156)
@@ -91,28 +94,31 @@
 * [Ingame Font List](https://bysmile0824.postype.com/post/14436984)
 * [/lcg/ Drawpile Collection](https://cubari.moe/read/imgur/H4bZCHP/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
+* [~~Dolphin Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
+* [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
+* [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
 * [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
 * [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
-* [Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
-* [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
 * [Hong Lu voice actor Twitch](https://www.twitch.tv/kim88toki)
 * [Heathcliff voice actor Twitch](https://www.twitch.tv/hshmike)
 * [Outis/Binah voice actor Twitch](https://www.twitch.tv/miggang_ster)
-* [Korean Sinner speech patterns](https://twitter.com/aranruine/status/1665051319361581056)
-
 
 ## Outdated & Abandoned Links
 * [The Totally Definitive Sub-120 Railway Guide](https://docs.google.com/document/d/1v3RiEDxIe9uPXU15RlnNfoQxTMyXHYvBAC8E8RCxH2M)
 * [The Totally Definitive Hell's Chicken Speedfarming Guide](https://docs.google.com/document/d/14nrxByHC45Wi8nRVaMZAxQ37r3dz7ykn9YUYswBUwW0)
 * [A Base Sinners Sub-120 RR Guide](https://docs.google.com/document/d/17nAAc9IUTcI3kdZpvpIY4vBQ7DyrX_czkTJylWjATJk)
-* [Ligma Guide](https://rentry.org/ligmaguide)
 * [Team Optimizer 1.15](https://docs.google.com/spreadsheets/d/15RGTMKZqyjolvCSxlY44PDlZpd0MEH6tjY8a8mQCpEM)
+* [Ligma Guide](https://rentry.org/ligmaguide)
+* [Ligmus schizotheorycrafting](https://rentry.org/ligmatheories)
+
 ## Credits
 This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](https://rentry.org/akg_resources) because it is very well made.
 
-9/22/23: Created
-9/23/23: V.1
 ## Contact
 Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
+
+## Changelog 
+9/22-23/23: Created then pulled an all-nighter to finish V.1
+9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive

@@ -36,9 +36,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ilya](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Yuki](https://files.catbox.moe/bybg06.png)|
 [Scrmgn](https://rentry.org/scrmgn) | Misc |[Vivian](https://files.catbox.moe/aei110.png)|
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Sarah](https://files.catbox.moe/bureqn.png)|[Sarah](https://files.catbox.moe/bureqn.png) [MV]
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||[Minenhle](https://files.catbox.moe/eg32du.png)

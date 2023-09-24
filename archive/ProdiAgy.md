@@ -18,7 +18,7 @@
 
 
 ##Base iA3 Prodigy .json - Regularized Characters/Objects:
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-180) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
@@ -30,40 +30,37 @@
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 !!! warning Original/Multires Noise is not recommended.
-### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps (40-180) and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 to your desired steps and wait for it to be reached then manually close. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
-  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=160\" \"T_mult=1\" \"eta_min=0e-2\"",
+  "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\" --lr_scheduler_args \"T_0=1000\" \"T_mult=1\" \"eta_min=0e-2\"",
   "cache_latents": true,
   "cache_latents_to_disk": true,
   "caption_dropout_every_n_epochs": 0.0,
   "caption_dropout_rate": 0,
   "caption_extension": ".none-use-foldername",
-  "clip_skip": 1,
+  "clip_skip": 12,
   "enable_bucket": true,
   "epoch": 31337,
-  "gradient_accumulation_steps": 1,
-  "gradient_checkpointing": true,
   "keep_tokens": 0,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
   "lr_warmup": 0,
   "max_token_length": "225",
-  "min_snr_gamma": 0,
+  "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=True\" \"betas=0.9,0.99\" \"d0=5e-4\" \"d_coef=1.0\" \"weight_decay=0.1\"",
+  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=True\" \"betas=0.9,0.99\" \"d0=5e-4\" \"d_coef=1.0\" \"weight_decay=0.01\"",
   "sample_every_n_epochs": 0,
   "sample_every_n_steps": 0,
   "save_every_n_epochs": 0,
-  "save_every_n_steps": 10,
+  "save_every_n_steps": 100,
   "save_model_as": "safetensors",
   "scale_weight_norms": 0,
   "shuffle_caption": false,
   "stop_text_encoder_training": 0,
   "text_encoder_lr": 1.0,
-  "train_batch_size": 10,
-  "train_on_input": false,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0,
   "weighted_captions": false

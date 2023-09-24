@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Unaffiliated
 **Level:** 6 | **Experience to Next Level:** 35/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 185₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -78,7 +78,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
+1. Oran Berry | Heals the user for 10HP.
 2. Pecha Berry | Cures the user. Heals Poison.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -88,7 +88,7 @@ Item Name | Description
 	Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----:
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

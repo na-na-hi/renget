@@ -17,19 +17,19 @@ A great story, characters and setting. On top of that, jank, but fun gameplay th
 Also note that, unlike other gachas, We to have set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of characters being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to one specific niche, so you will likely have at least one character to waifu/husbandofag over.
 
 **4. This game has a required reading list?**
-Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe.
+Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe. Look at the Resources Rentry for further information.
 [Recommended translations](https://rentry.org/ligmabooks)
 [MEGA folder with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **5. Is this game F2P friendly/generous?**
-Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 pulls, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain any Identity or E.G.O currently in the dispensary.
+Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain any Identity or E.G.O currently in the dispensary.
 
 **6. Why can't I clear this stage?**
-First, actually **READ** what you and the enemies do. If you are having difficulties despite this, you are likely using unleveled and or unuptied Identities. You should ensure that all the Identities you use are at least uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
+First, actually **READ** what you and the enemies do. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
 
 **7. Does this game have supports?**
-Yes. You can bring one of your friends units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, uptie status and E.G.Os of the support you use isn't limited or capped.
+Yes. You can bring one of your friends units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped.
 
 **8. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -82,8 +82,8 @@ Rerolling is extremely easy, and the developers have admitted to intentionally m
 
 Now that you're in the main menu screen, perform the following loop.
 
-1. Claim lunacy and tickets from your mailbox.
-2. Claim lunacy from beating the prologue.
+1. Claim Lunacy and tickets from your mailbox.
+2. Claim Lunacy from beating the prologue.
 3. Do two 10-rolls on the New Manager's Welcome Extraction banner, and another tenner on any other banner.
 4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam.
 5. If you want to reroll: click settings\->account\->close account button.
@@ -92,19 +92,18 @@ Now that you're in the main menu screen, perform the following loop.
 **1. Identities**
 This is the main thing you'll be rolling for, it's equivalent to other gacha's units. There are three rarities, denoted by the number of **0**'s. Lowest is **0**, highest is **000**. The naming is related to the Kabbalah.
 
-You can level up your identities by using XP tickets. You can also upgrade them in a different way, using a process called uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
-
+You can level up your identities by using XP tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
 **2. E.G.O**
-You obtain E.G.O both from the gacha and the battle pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
+You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
 
 They also change your resistances to different types of attacks and changes your active passive. Those factors mean that you shouldn't just focus on the highest rarity E.G.O, but rather take into account the lower rarity stuff, too.
 
 Similarly to identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
 **3. Lunacy & Extractions**
-Lunacy is the ingame roll currency. You can get Lunacy by collecting your weekly Mirror Dungeon bonuses, story completion bonuses, uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon weekly bonus will give you 750 Lunacy. After every maintenance you get 300 compensation Lunacy.
+Lunacy is the roll currency. You can get Lunacy by collecting your weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon weekly bonus will give you 750 Lunacy. After every maintenance you get 300 compensation Lunacy.
 
-Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. 
+Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10
 
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
@@ -135,15 +134,15 @@ The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, 
 **6. Battle Pass**
 The current Battle Pass price is $11. When a new season begins a new Battle Pass is introduced with it. You can check the duration of the current season on the Battle Pass page. The Battle Pass has a free track and a paid track.
 
-You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated upon in the farming section.
+You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
-Be aware that the **Battle Pass bonuses past level 60 are *not* retroactive.** You will not get the extra Egoshard Crates even if you buy the BP beyond level 60.
+Be aware that the **Battle Pass bonuses past level 60 are *not* retroactive.** You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it once you hit level 60.
 
 **7. Daily Rolls**
-An important aspect for evaluating the prices below is the daily roll. You get to perform a single extraction once a day on each available banner for 10% the price, but you only get to do so with paid Lunacy.
+An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% the price, but you only get to do so with paid Lunacy.
 
 **8. Monthly Lunacy Packs**
-You can buy two monthly packs - for $3 and $7. The cheaper one gets you 130 paid lunacy, and 1170 free lunacy spread over 30 days. The $7 one gets you 650 paid lunacy and 1950 free lunacy spread over 30 days.
+You can buy two monthly packs - for $3 and $7. The cheaper one gets you 130 paid Lunacy, and 1170 free Lunacy spread over 30 days. The $7 one gets you 650 paid Lunacy and 1950 free Lunacy spread over 30 days.
 
 **9. Individual Currency**
 You can buy the following currency:
@@ -153,13 +152,13 @@ You can buy the following currency:
 - 2147 for $24
 - 4103 for $42
 - 8336 for $80
-Note that on your first purchase you'll receive double the lunacy.
+Note that on your first purchase you'll receive double the Lunacy.
 
 **10. Other**
 You can buy the Monthly Extraction Pack for $10, monthly training packs for $31, New Manager's Onboarding pack for $22 and the Season 3 Orientation Supplies for $60.
 
 **11. Summary**
-If you want to do 10-pulls on limited banners, go for the monthly packs. If you want to do daily 13 lunacy pulls, go for standalone Lunacy packs. Month Lunacy has the best ratio of lunacy per dollar, but make sure to notice the "free" in "free lunacy per day". You cannot do the cheap daily extraction with "free" Lunacy.
+If you want to do 10-rolls on limited banners, go for the monthly packs. If you want to do daily 13 Lunacy rolls, go for standalone Lunacy packs. Monthly Lunacy has the best ratio of Lunacy per dollar, but make sure to notice the "free" in "free Lunacy per day". You cannot do the cheap daily Extraction with "free" Lunacy.
 Type | Lunacy (free) | Price \[$\]| Rolls(raw) | Rolls(daily) | Rolls(raw)/$ | Rolls(daily)/$
 :----: | :----: | :----: | :----: | :----: | :----: | :----:
 Monthly | 1300(1170) | 3 | 10 | 19 | ==3.(3)== | 6.(3)
@@ -182,10 +181,10 @@ Orienteer Supplies | 5040 | 60 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
 **1. What is the best way to farm?**
-You can farm as much as you want if you have the energy or lunacy to spend on modules. The most efficient way to farm is by doing your dailies, playing MD2H and collecting all the weekly bonuses after the weekly reset, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
+You can farm as much as you want if you have the Enkephalin (This games version of energy) or Lunacy to spend on Enkephalin Modules. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
 
-**2. Is it worth spending lunacy on enkephalin refills?**
-Yes, especially if you have the battle pass. You can spend modules on mirror dungeon runs, and they net you Egoshard Crates thanks to post-60 battle pass level. This means that you can spend lunacy directly on Egoshards. The lunacy-to-shards conversion efficiency depends on your current max enkephalin (determined by your manager level), but it ranges from 0.269 at 100 max enkephalin to 0.404 at 150 max enkephalin. This means that, in order to get enough shards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 lunacy. From the moment you reach 115 max enkephalin, converting lunacy to enkephalin and just farming and farming a 000 is cheaper than a 10-pull - 1292 lunacy for a 000. Note that subsequent refills cost extra lunacy. 
+**2. Is it worth spending Lunacy on Enkephalin refills?**
+Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass level. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
 In other words - yes, you really can farm every Identity and E.G.O in the game. 
 ## Seasons
@@ -202,7 +201,7 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 
 ##Combat
 **1. Retries**
-You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (i.e all your sinners die), the same will happen unless you are in a dungeon, in which case you will be forced to forfeit.
+You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (all your sinners die), the same will happen unless you are in a Dungeon, in which case you will be forced to forfeit. 
 
 **2. Coins, Clashes, Offense & Defense Level**
 For each clash, every coin still available will be flipped and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.
@@ -210,9 +209,9 @@ For each clash, every coin still available will be flipped and every heads coin 
 Taking the following scenario as an example: 
 
 ![Clashes](https://files.catbox.moe/0ogspw.png)
-In a clash the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash power for every 3 points of difference between Offense Levels. In this instance Drilling Stab (2 coins) will clash against Stab (1 coin). Faust's Offense Level is 24 points higher than the enemies, so she has +8 clash value. Faust's base coin power on this skill is 14. For each heads coin that lands on her skill, she will receive +2 clash value, meaning her maximum coin value is 18. Dominating is the chance of winning the clash. Faust is guaranteed to win this clash, but not all Dominating clashes are guaranteed.
+In a clash the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash power for every 3 points of difference between Offense Levels. In this instance Drilling Stab (2 coins) will clash against Stab (1 coin). Faust's Offense Level is 24 points higher than the enemies, so she has +8 clash value. Faust's base coin power on this skill is 14. For each heads coin that lands on her skill, she will receive +2 clash value, meaning her maximum coin value is 18. Dominating is the probability of winning the Clash. Faust is guaranteed to win this Clash, but not all Dominating clashes are guaranteed. The probability shown also takes Sanity and some status effects into account.
 
-The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account in damage calculation, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is Increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and 28% when the differential is 10. As the differential increases, returns diminish, and when the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing damage dealt. 
+The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is Increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and 28% when the differential is 10. As the differential increases, returns diminish. When the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing damage dealt. 
 
 **3. Resonance**
 This is Resonance (Res). Resonance is achieved when you use 2 or more skills of the same Sin in the same turn. More resonance means more damage, and Resonance is required for some passives to work.
@@ -224,35 +223,35 @@ This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved wh
 **4. Sanity**
 Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Story and Mirror dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins to land heads more often, and negative Sanity will make coins to land tails more often. If a sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O.
 
-Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost sanity.
+Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
 
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released and I don't want to do that. There are many other tier lists and resources for you to use if you need a full one.
 
-Hover over the images for the name of the ID/E.G.O.
+The following are what most consider to be the best IDs and E.G.O in the game. Hover over the images for the name of the ID/E.G.O.
 
 **000 IDs**
-R Corp Ishmael needs to be at uptie 4 to be at maximum efficiency. It is also recommended that you uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required.
+R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required.
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-It is suggested to have L Corp Faust and 7 Ryoshu at uptie 4. Maybe G Outis aswell. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Heathcliff gets AOE on his slash envy skill 3 at uptie 4 which is useful for connect 4 memes.
+It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. G Outis is a good pick for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Heathcliff gets AOE on his slash envy skill 3 at Uptie 4 which can be useful for connect 4 memes.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Shi Association South Section 5 Heathcliff](https://files.catbox.moe/eopmhv.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 
 **E.G.Os**
-Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps. Ardor Blossom Star at uptie 4 pairs especially well with Liu Ishmael. And finally, Hong Lu's Dimension Shredder allows his K Corp ID to become functionality immortal. 
+Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps. Ardor Blossom Star at Uptie 4 pairs especially well with Liu Ishmael. And finally, Hong Lu's Dimension Shredder allows his K Corp ID to become functionality immortal. 
 - ![Fluid Sac Faust](https://files.catbox.moe/h7ahah.webp) ![Sunshower Yi Sang](https://files.catbox.moe/2evh02.webp) ![Telepole Don Quixote](https://files.catbox.moe/csfxwi.webp) ![Rime Shank Rodion](https://files.catbox.moe/vtpw5v.webp) ![Ardor Blossom Star Ishmael](https://files.catbox.moe/n2z7z0.webp) ![Dimension Shredder Hong Lu](https://files.catbox.moe/5g9i9r.webp)
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs stamina. There are currently 4 chapters + the prologue and two plot relevant events. Beating the first two chapters is important, as it automatically uptie 3s all your 0 identities and E.G.O, aswell as unlocks Mirror Dungeons.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes.
 
 **2. Story Dungeons**
-The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules (you exchange your stamina for those) to enter. Contains abnormality battles on top of your regular combat encounters. Very long, but you can save at checkpoints to leave and resume later.
+The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can save at checkpoints to leave and resume later.
 
 **3. Mirror Dungeons**
-The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three weekly bonuses, each one granting you 250 lunacy and multiplying the mirror dungeon rewards by 1.5. 
+The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three weekly bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
 
 Mirror Dungeon 2 Hard has its own separate weekly bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three weekly bonuses at once.
 
@@ -264,19 +263,19 @@ MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 weekly bonuses)
 
 **4. Thread & EXP Luxcavation**
-Unlocked sometime after you beat chapter 2. Both can be either fought normally, or skipped for extra module cost if you hate farming. XP stages have 3 levels - 8, 18 and 28. The higher the enemy level, the higher the rewards. Thread stages have 2 levels - 20 and 30.
+Unlocked sometime after you beat chapter 2. Both can be either fought normally, or skipped for extra Module cost if you hate farming. XP stages have three levels - 8, 18 and 28. The higher the enemy level, the higher the rewards. Thread stages have two levels - 20 and 30.
 
 **5. Refraction Railway**
-Endgame hard content. You have until the next railway to complete it for very good rewards, just with a considerable upfront module cost. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests.
+Endgame hard content. You have until the next railway to complete it for very good rewards, just with a considerable upfront Module cost. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests.
 
 ![BannerOrBricked](https://files.catbox.moe/m0vm5b.png)
-The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the upfront module fee if you haven't already and claim the rewards. Click the yellow arrow if you're stuck.
+The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the upfront Module fee if you haven't already and claim the rewards. Click the yellow arrow if you're stuck.
 
 ## Useful Links
 You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_resources)
-[Limbus Company Database / Wiki](https://limbus.kusoge.xyz/)
-[Observation Log Library](https://retcons.github.io/limbus-logs/)
+[Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
+[Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 
 ## Useful Tips
 1. READ
@@ -285,12 +284,13 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 4.  Uptie and level Identities you use.
 5. Play Lobotomy Corporation and Library of Ruina.
 
-
 ## Credits
 [Original Rentry by Anonymous](https://rentry.org/ligmaguide)
 This is shamelessly copied from the [/akg/ Newcutie Guide Rentry](https://rentry.org/akgnewcutieguide) because it is very well made.
 
-9/22/23: Created
-9/23/23: V.1
 ## Contact
 Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
+
+## Changelog 
+9/22-23/23: Created then pulled an all-nighter to finish V.1
+9/24/23: Fixing minor errors

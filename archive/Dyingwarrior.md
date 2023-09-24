@@ -1,7 +1,7 @@
 # DyingWarrior's Bots
 ->![And yes, we may all be headed straight to hell. But what better place for us than this? It's our only home. Our heaven and our hell This...is Outer Heaven.](https://files.catbox.moe/m4zo0s.jpg)<-
 ***
-I make whatever comes to mind, coom or otherwise. Just trying to have fun.
+No more AI that I have access to anymore. So my card making journey ends at the moment. I make whatever comes to mind, coom or otherwise. Just trying to have fun.
 Catbox links are more up to date.
 
 ***

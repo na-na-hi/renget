@@ -40,6 +40,11 @@
 [Streaming Twitch](https://www.twitch.tv/dot_lvl)
 [Twitter](https://twitter.com/dot_lvl)<-
 
+->**Eilucat**
+![Eilucat](https://warosu.org/data/vt/img/0583/72/1694618151315306.jpg)
+[Streaming Twitch](https://www.twitch.tv/eilucat)
+[Twitter](https://twitter.com/eilucat)<-
+
 ->**Eltrioch**
 ![Eltrioch](https://i.warosu.org/data/vt/img/0351/68/1665885161120702.png)
 [Streaming Twitch](https://www.twitch.tv/eltrioch)

@@ -15,9 +15,14 @@ stage 3 routes with no seasonals
 ![3](https://pbs.twimg.com/media/F6rRPz4bcAAg2cs?format=jpg&name=4096x4096)
 
 ## Stage 4 auto / full SET
+videos:
 [ぽちょむきん](https://www.youtube.com/watch?v=-2BUgIi-AGY)
-
+[Vash](https://youtu.be/l1Q-SL5hyu0)
+![](https://pomf2.lain.la/f/la3vxua8.png)
 ## Stage 4 semi auto
+videos:
+[Vash](https://www.youtube.com/watch?v=DpHXrh6j5O4)
+[Reonmaru](https://youtu.be/Wlu06tdES3s)
 
 ### Boss 1
 [B1 Phys 67-68m](https://www.youtube.com/watch?v=KRv9UupZiQE)
@@ -54,6 +59,15 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ST.Kurumi 5★ Lv283 R30 FULL, EX 5/3/5
 ![3](https://pomf2.lain.la/f/ytpdy8tm.png)
 
+[B3 Phys 56-57m](https://www.youtube.com/watch?v=vPip7vseLaU)
+![3](https://pomf2.lain.la/f/p7g4uhlv.png) 
+Tested with:
+Djeeta 6★ Lv283 R30 FULL, EX 5/4/5 **Needed W.Djeeta health bonds in testing**
+S.Shinobu 5★ Lv283 R30 FULL, EX 5/3/5
+Christina 6★ Lv283 R30 FULL, EX 5/3/5 works without xChris Bonds
+Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
+St.Kurumi 5★ Lv283 R30 FULL, EX 5/3/5
+![3](https://pomf2.lain.la/f/9z1vb5dt.png) 
 
 ### Boss 4
 [B4 Magic 52-54m](https://www.youtube.com/watch?v=hX91iY-voSM)
@@ -66,27 +80,15 @@ S.Neneka 5★ Lv283 R30 FULL, EX 5/3/5
 ライラエル 5★ Lv283 R30 FULL, EX 5/3/5
 ![3](https://pomf2.lain.la/f/n2asf5so.png) 
 
-[B4 Magic 55-58m](https://www.youtube.com/watch?v=PuHf0IPIN-E)
-![](https://pomf2.lain.la/f/vy8lu8xq.png)
+[B4 Magic 59-62m](https://youtu.be/Wlu06tdES3s?t=660)
+![3](https://pomf2.lain.la/f/rhj7hno9.png) 
 Tested with:
-X.Yori 3★  Lv283 R30 FULL, EX 5/3/5
+X.Yori 4★  Lv283 R30 FULL, EX 5/3/5
 W.Djeeta 5★ Lv283 R30 FULL, EX 5/3/5 
 G.Ilya 5★ Lv283 R30 FULL, EX 5/5/5
 S.Neneka 5★ Lv283 R30 FULL, EX 5/3/5
 Neneka 5★ Lv283 R30 FULL, EX 5/3/5
-![3](https://pomf2.lain.la/f/y96rzs2u.png) 
-
-same comp with more inputs for more damage:
-
-[B4 Magic 59-62m](https://www.youtube.com/watch?v=mw3hq24dpn8)
-![3](https://pomf2.lain.la/f/di0g7q58.png) 
-Tested with:
-X.Yori 3★  Lv283 R30 FULL, EX 5/3/5
-W.Djeeta 5★ Lv283 R30 FULL, EX 5/3/5 
-G.Ilya 5★ Lv283 R30 FULL, EX 5/5/5
-S.Neneka 5★ Lv283 R30 FULL, EX 5/3/5
-Neneka 5★ Lv283 R30 FULL, EX 5/3/5
-![3](https://pomf2.lain.la/f/t0dugy9n.png) 
+![3](https://pomf2.lain.la/f/47px14rj.png) 
 
 ### Boss 5
 [B5 Physical 57-59m](https://www.youtube.com/watch?v=ymrCkTBAMBQ)
@@ -107,13 +109,14 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 
 
 ### Boss 3
+[B3 Physical 64m](https://www.youtube.com/watch?v=IHta72B3kz4)
 ### Boss 4
 
 
 ### Boss 5
 
 ## Carryover / Overflow
-
+[Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3VvKL34deGRex6FmOHZmN_X)
 
 ## General Resources for all Stages
 [Gamewith](https://gamewith.jp/pricone-re/article/show/419098)
