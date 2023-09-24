@@ -53,6 +53,13 @@
 2. [Silhouette - Kana-Boon](https://youtu.be/yJgDuD4gxG0?t=2061)
 ***
 
+>『2023-09-23』 - 【3D SHOWCASE】oh hi !!! #MOOMin3D [HTgzc9_uAaY]
+01. [Call your name - Hiroyuki Sawano](https://youtu.be/HTgzc9_uAaY?t=1681)
+02. [Amanojaku - 164 (w/ Towa)](https://youtu.be/HTgzc9_uAaY?t=1982)
+03. [Torinoko City - 40mP (w/ Korone)](https://youtu.be/HTgzc9_uAaY?t=2425)
+04. [No Title - Reol (w/ Polka)](https://youtu.be/HTgzc9_uAaY?t=2867)
+05. [Binary Star - SawanoHiroyuki[nZk]](https://youtu.be/HTgzc9_uAaY?t=3525)
+
 ######『2021-09-28』 - 【UNARCHIVED】what [sWQIkO7txq4]
 [Go back to the top](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup

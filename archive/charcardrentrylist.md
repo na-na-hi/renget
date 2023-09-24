@@ -18,8 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Kaji](https://files.catbox.moe/20fd2a.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Amrita](https://files.catbox.moe/8wfm9s.png), [Huang](https://files.catbox.moe/qtsr8n.png), [Ender](https://files.catbox.moe/ivp9en.png)|
+[CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Kaji](https://files.catbox.moe/20fd2a.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Nyanabelle](https://files.catbox.moe/baddu5.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Sydney](https://files.catbox.moe/7ea6gm.png)|
 [Kirbish34](https://rentry.org/kirbish34) | Misc |[Chelsea](https://files.catbox.moe/plhu3t.png)|

@@ -11,7 +11,7 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.9 Phase 1
-[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![vkecharge](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![cnvalk](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi)[![6svalk](https://i.imgur.com/V3InVnF.png)](https://rentry.org/ElysianRealm#sixth-serenade)
+[![sirinbas](https://i.imgur.com/Lfh30bi.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![horbss](https://i.imgur.com/svg2Qas.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-soul-shaper)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sscharge](https://i.imgur.com/9EqfOSW.png)](https://rentry.org/ElysianRealm#sugary-starburst-charge)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![vkecharge](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![cnvalk](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi)[![6svalk](https://i.imgur.com/V3InVnF.png)](https://rentry.org/ElysianRealm#sixth-serenade)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
 
 [Miracle ☆ Magical Girl basic](https://rentry.org/ElysianRealm#miracle-magical-girl-basic)
 [Miracle ☆ Magical Girl charged](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)
@@ -27,10 +27,9 @@ click image to jump to valk
 [Terminal Aide 0017](https://rentry.org/ElysianRealm#terminal-aide-0017)
  [Chrono Navi](https://rentry.org/ElysianRealm/#chrono-navi)
  [Sixth Serenade](https://rentry.org/ElysianRealm#sixth-serenade)
+[Reverist Calico](https://rentry.org/ElysianRealm/#reverist-calico)
+[Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
 to do list: 
-6s 
-rc 
-hoo combo 
 hotr wep 
 hos 
 spa 
@@ -59,9 +58,9 @@ spa
 
 !!! info 6.8 Phase 1
 2.5
-[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico))
+[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)
 2.25
-[![hoocom](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
+[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
 1.75
 [![hosvalk](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience)
 
@@ -72,9 +71,8 @@ spa
 [Infinite Ouroboros](https://rentry.org/ElysianRealm/#infinite-ouroboros)
 [Sugary Starburst ulti](https://rentry.org/ElysianRealm#sugary-starburst-ulti)
 [Herrscher of the Void snaps](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)
-[Reverist Calico](https://rentry.org/ElysianRealm/#reverist-calico)
+
 2.25
-[Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo)
 [Fallen Rosemary SS2](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)
 [Helical Contraption](https://rentry.org/ElysianRealm#helical-contraption)
 [Herrscher of Thunder Narukami](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
@@ -1144,33 +1142,35 @@ Domain of Unity | In the Name of Origin set
 Cost | Effect
 ------ | ------
 5 | SP+30
-5 | Weapon active vulnerability
-10 | Counter type TDM boost
+10 | Combo ATK vulnerability
+10 | Support type DMG bonus
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-BKE | AE / VKE | Utility
+BKE |  VKE | Utility
 BR | AE/RC | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Mad King's Mask/An Old Pal's Legacy
-1st Shop | Memory /An Old Pal's Legacy
-16F | Heavy as a Million Lives /An Old Pal's Legacy or Dreamful Gold
+Start | Pseudo Miracle /Falling in Past Light 
+1st Shop | Light as a Bodhi Leaf / Falling in Past Light 
+16F | Heavy as a Million Lives / Dreamful Gold
 
 ##->Ego Signets<-
-Expungement 断灭 | Lethal Smite 雷殛 | Ultra 极意 | Inscription 铭印 | Nature 本然 
+Expungement 断灭 | Lethal Smite 雷殛 | Nature 本然  | Ultra 极意 | Inscription 铭印 
 :-: | :-: | :-: | :-: | :-: 
-**Start** | **1st** | 2nd | Optional | No 
+**Start** | **Start** | **1st** | Optional | No 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Kalpas1 | Both damage boosts, HP cap up are the key choices , unlock nexus; can pick Burden, TDM from enhanced
-2nd | Hua2 | Breach, both damage boosts are the key choices, unlock nexus (must enhance breach fully)
-2nd | Su1 | Vulnerability, both combos are the key choices, unlock nexus 
+1st | Vill-V1 | 3 2 4 are the key choices, unlock nexus 
+2nd | Su1 | Vulnerability, both combos, TDM are the key choices; must pick at least breach from enhanced, can also pick vulnerability
 2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
-Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can also pick Sakura evasion reset, evasion+1, TDM, vulnerability, Vill-V 3 2 as reinforcement
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices, can pick Burden, TDM from enhanced
+Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can pick breach from enhanced; can also pick Sakura evasion reset, evasion+1, TDM, vulnerability as reinforcement
+
+!!! info Recommended to reset for Nature on 2F; swap sigils on 5F, try to buy 1 Su signet, unlock nexus on 7F then pick up enhanced; if not good at dodging not recommended to pick Kalpas before 12F
 
 #->Herrscher of Origin combo<-
 ->![hoocom1](https://i.imgur.com/3VViXf4.png)<-
@@ -1694,19 +1694,18 @@ Purana Phantasma: Nighteye | Cecilia: Youth set
 Cost | Effect
 ------ | ------
 5 | SP+30
-5 | Weapon active vulnerability
-10 | Status TDM bonus
-10 | Counter type TDM boost
+10 | Combo ATK vulnerability
+15 | Weapon type breach
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-BR | BKE | Utility
+BKE | VKE | Utility
 AE | BR | Damage
 
 Time | Emblem 
 ------ | ------ 
 Start | Gold Goblet/Dreamful Gold
-1st Shop | Veil of Tears /Falling in Past Light 
+1st Shop | Light as a Bodhi Leaf / Dreamful Gold 
 16F | Heavy as a Million Lives/Dreamful Gold
 
 ##->Ego Signets<-
@@ -1718,10 +1717,13 @@ Start | Gold Goblet/Dreamful Gold
 Priority | Signet | Details
 ------ | ------ | ------
 1st | Eden1 | Both damage boosts, SP recovery, starting SP are the key choices, unlock nexus 
-2nd | Aponia1 | 6 4 5 are the key choices, unlock nexus 
 2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus; can pick vulnerability,  breach from enhanced
-2nd | Griseo1 | Red (recommended to buy from shop) Black Yellow are the key choices, unlock nexus 
-Optional | Pardofelis1 | Both damage boosts, HP SP cap up are the key choices, can pick breach from enhanced; can also pick Kalpas1 nexus (Both damage boosts, HP cap up), Vill-V 3 2 as reinforcement
+2nd | Pardofelis1 | Both damage boosts, both silver generation, HPSP cap up are the key choices, unlock nexus; can pick breach from enhanced
+2nd | Aponia1 | 6 4 5 are the key choices, unlock nexus 
+Optional | Vill-V1 | 2 3 are the key choices, unlock nexus; can also pick Griseo Red (buy from shop) Black  Yellow, Kalpas1 (Both damage boosts, HP cap up) as reinforcement 
+
+!!! info Recommended to adapt to what is in the shop to unlock more nexus, other than Su that needs enhanced, others only need to unlock nexus; if unlocking Kalpas nexus, lower HP on shop floor with BR
+
 
 
 #->Reverist Calico<-

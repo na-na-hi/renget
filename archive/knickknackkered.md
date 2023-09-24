@@ -69,7 +69,7 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![had a lot of fun researching for this one](https://files.catbox.moe/8wfm9s.png) | Amrita | Amrita, born into prestige and groomed for power, is the earnest epitome of the Dominion's ideals. Will the brutal reality of working for the secret police shatter her immaculate convictions? Comes with 6 greetings.  | [CHUB link](https://www.chub.ai/characters/knickknack/amrita-5c79f99a) 
  ![Who doesn't love organ trafficking?](https://files.catbox.moe/ivp9en.png) | Ender | In decaying Istanbul, laundromat owner Ender trades loyalties as fluidly as he trades organs and prosthetics. Under his affable demeanor is a heart that beats only for his own amusement. Comes with 6 greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/ender-c3e533b8) 
- ![Yes I made another karaoke fiend.](https://files.catbox.moe/qtsr8n.png) | Huang | An exhausted Xin Silu bureaucrat in a backwater outpost far. Have fun chasing mountain goats, drinking kumis, and dealing with the ever-increasing piles of paperwork as the Dominion tries to hold itself together. Comes with 6 greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/huang-fb623a54) 
+ ![Yes I made another karaoke fiend.](https://files.catbox.moe/qtsr8n.png) | Huang | An exhausted Xin Silu bureaucrat in a backwater outpost. Have fun chasing mountain goats, drinking kumis, and dealing with the ever-increasing piles of paperwork as the Dominion tries to hold itself together. Comes with 6 greetings. | [CHUB link](https://www.chub.ai/characters/knickknack/huang-fb623a54) 
 
 ##MISC
 Template created by [this smooth fella.](https://rentry.org/Darkfantasy109)

@@ -1,4 +1,4 @@
-**First Clover Guild Character Q&A** (Uh, is there any better title than this? Heheh...)
+#**First Clover Guild Character Q&A** (Uh, is there any better title than this? Heheh...)
 
 !!!Warning: Please Write all entries into a text editor, refresh the page, then COPY and PASTE into this rentry page to avoid overwriting others' entries. 
 
@@ -14,9 +14,11 @@ Answers should be provided in greentext (>) below the question. Please preappend
 
 "General Questions" as in, anyone can answer that particular question, and "Pair or More Questions" is for more than one character like I want to ask a question to Team Cozy about something or I wanna ask Ross and KFC a question and yada yada.... I think that's all. Maybe. Tell me if I did... Oh yeah, edit code is **clover**
 
-**Individual Questions**
--
-**Beast**
+#**Individual Questions**
+
+[TOC2]
+
+##**Beast**
 What's your favorite food?  Or, your favorite dish to cook?
 >I stopped having a "favorite food" decades ago. But I do have an affinity for anything aged, be it cheese or preserves.
 What do you miss most about your old restaurant?
@@ -30,7 +32,7 @@ WHATS COOKIN GOOD LOOKIN?
 I think we let you cook long enough. What *are* you cooking?
 >*Do not ask questions you are not prepared for the answers to.*
 -
-**Lliam**
+##**Lliam**
 What's with the maid dress in the janitors closet?
 >What? There's no such thing! ※While the author has an interest in that sort of stuff, Lliam has no interest in that sort of thing. (Trying my best to resist writing such a thing is hard already, fwehh...)
 Is there anything missing from the guild you'd like to get your hands on?
@@ -41,7 +43,8 @@ When are we getting a hot spring?
 >Well, can you? Getting hot springs takes quite a lot of work and a lotta money, and maintaining them would require some manpower, which we obviously don't have, so... never. Unless ya cover all the costs, then be my guest~.
 Has there ever been a non-humon interested in joining the guild that you had to turn down?
 >None. All are welcome to join~, as they might give some useful insight about the Pokemon World! I mean, they might have some **uses** should any **situation** arise... I mean, the more, the merrier the guild gets, **douncha agree**~? Kyukyukyu
-**Chespin**
+
+##**Chespin**
 Is there anything else missing from your bedroom?  Or is it max comfy?
 >Some comfy chairs could be nice. Some extra blankets to string up along the walls to turn our room into one big blanket fort would be sweet as well.
 Besides Wooper, who do you trust most in the guild?  Alternatively, who are you most afraid of?
@@ -52,7 +55,7 @@ Did you ever tell Wooper or any other native that this universe was a game in th
 What other ideas do you have for new combined attacks with Wooper? Would you consider throwing your partner at the enemies a combined attack?
 >You mean other than "hold Wooper in my vines and have him shoot different things?" Outside of that and holding enemies still with my vines, I got no ideas. Throwing Wooper is something I'd never even consider doing, what if he got hurt?!
 
-**Wooper**
+##**Wooper**
 I know you hold humans in high esteem, but has there been a time where you've felt let down by a human or a time where a human hasn't lived to your expectations?
 >It might sound unthinkable, but Chespin himself let me down once. He forced us to flee from a Beedrill when we were trying to get pillows and blankets for the guild! He eventually worked up the courage to fight it, but that was the only time I've ever been disappointed in him.
 >Other than that, I thought all humans were brave and smart, but then I met Cyndaquil. Are there really a lot of humans like him?
@@ -60,7 +63,7 @@ What ideas do you have for new combined attacks with Chespin? What would you thi
 >I could freeze the ground with my Ice Beam, and then Chespin could slingshot himself onto it and do a sliding Headbutt on a far away bad guy! But Chespin's still too afraid of ice...
 >I wouldn't really like it if Chespin threw me without talking about the technique ahead of time, but he'd never do that! Besides, what would throwing me accomplish?
 
-**Togetic**
+##**Togetic**
 You look like you could use a hug. Do you like hugs?
 > *(A hug right about now would feel nice... But what if it feels too nice and makes me break down and cry!?)* "...I-I'm fine, b-but thank y-you... A-And y-yes, hugs c-can be nice..."
 
@@ -74,7 +77,7 @@ I know you have a penchant for getting into very enthuiastic rants, but has that
 > *(If you consider everyone around you trying to find the quickest way to escape you a bother, then yes.)* "...Y-Yeah, s-sometimes. O-One time s-someone knocked m-me out to sh-shut me up..." *(Also I accidently leaked vital secrets about Team Cozy, but I shouldn't mention that.)*
 
 
-**Pikachu**
+##**Pikachu**
 If you couldn't bring your Ampharos mentor, who would you bring into a mystery dungeon?
 >"Exploring with Mr. Ampharos is really fun! He's teaching me everything about being an Explorer and an Electric type, but since he doesn't consider himself a part of the Guild and doesn't really wanna join, I... can't really go out to any old dungeon on my own, so really, I'd be happy to go with anybody who'd take me!"
 I know you don't ship your fellow guildmates, but HYPOTHETICALLY, if you DID, what's your *HYPOTHETICAL* OTP?
@@ -83,7 +86,7 @@ I know you don't ship your fellow guildmates, but HYPOTHETICALLY, if you DID, wh
 Is there anyone in the guild you don't get along with?
 >"I dunno... It's not like I really know anybody enough to assume something like that? It wouldn't really be fair to judge my fellow guildmates like that, and I really wanna get along with everybody, y'know...?"
 
-**Smith**
+##**Smith**
 How's the gym at the guild?  Is it up to your standards?
 >It's pretty spacious, and there's actual equipment to train with. So, it's already a noticeable improvement over what I had to make do with before. I wouldn't mind if it was outdoors, though.
 Is there anyone you'd like to train against?
@@ -95,11 +98,11 @@ Who spots you at the gym??
 How many different ribbons and bows do you wear?
 >Too many to count... I don't know where Furret gets all of them from. Bandanas, scarves, bows, you name it, she's probably made me wear one. It seems like almost every day she has some new little accessory for me to put on. I say "for me" to put on, though really, it's all up to her, as she's the one with the hands, here. She's a real handful when it comes to making me wear stuff... (Though, I don't try to stop her from doing it. In fact... don't laugh, but... I kinda like it...)
 
-**Furret**
+##**Furret**
 By your taste, how's the fashion at the guild?  What would you change?
 >I love all the cute little accessories that everyone always wears around here, and those clover badges are super high quality! Although... I can't help but feel that the other guild members don't have that same... "passion for fashion", that I do, y'know? Except for that "Cassie" girl and her friends, they're so stylish!
 
-**Phanpy**
+##**Phanpy**
 How's the dungeon diving been going? Do you wish you could be doing more administrative work instead?
 >It's going...great... Besides that business with Apple Woods, nothing but smooth sailing! Our rift mission went off without a hitch, besides getting a little lost in the desert! It's nice to get out every once in a while, but I'm much better suited for desk work. 
 How do you relax?
@@ -107,7 +110,7 @@ How do you relax?
 Are the rumors about your plump rear true?
 >Why do people keep asking me this? It's hard to get a good look at myself without mirrors, so you'd probably know better than me. All I can say is that I've never felt any pain from sitting on hard surfaces after coming here.
 
-**Cyndaquil**
+##**Cyndaquil**
 Do you peek at pokemon in the shower, even though they're just as naked as always?
 >Don't tell Phanpy, but yes! It's all about context. You're getting a glimpse of something personal, something special. The native members don't usually care, since they're used to being naked all of the time, but you gotta be careful with the former humans.
 Have you written any smut yourself, or do you get it commissioned?
@@ -121,7 +124,7 @@ I know you're very uhh, passionate about your craft, but is there anything that 
 Do you like vore?
 >I never really got into anything that I couldn't actually do, besides Pokemon, when I was a human. I guess it's possible now considering my new stature, but I'd like to live to coom another day, thank you very much.
 
-**Torchic**
+##**Torchic**
 Are there any upsides to being a torchic?
 >The fire breathing is nice. A Torchic body is also much more resiliant than a human body. If any of us were human, we'd probably be dead several times over. 
 How do you feel about Wooper, a fellow armless guildmate?
@@ -129,7 +132,7 @@ How do you feel about Wooper, a fellow armless guildmate?
 I know you've struggled with your new body, but has there been a time where it's come in handy?
 >It's useful all of the time in dungeons, considering the other fire type on our team refuses to fight. 
 
-**Totodile**
+##**Totodile**
 Do you regret getting banned from the Blue Claw Inn? Where do you get your drinks now?
 >It's always sad having to say goodbye, especially when I just wanted to show off a cool trick... There are other bars around Capim Town, and sometimes I go barhopping with Cyndaquil! I drink at the bar while Cyndaquil goes around and hits on the other patrons until we get kicked out. Then we find another bar and do it all over again! It's pretty fun, but Phanpy and Torchic refuse to join.
 Do you have a preference for what alcohol you drink, or do you just drink what's available?
@@ -137,7 +140,7 @@ Do you have a preference for what alcohol you drink, or do you just drink what's
 You are given the choice to take two guildmons, that aren't part of Team OnlyPhans, out for a few drinks. Who do you take and why?
 >Gus and Toge. Both of them seem like they like to spend their time alone, but with a little bit of social lubricant, I'm sure we'd all become great friends!
 
-**Elm**
+##**Elm**
 Have any of your pranks backfired or blown up in your face?
 >One morning I noticed Chespin was oversleeping, so I placed a bit of ice on his forehead. He woke up screaming and it was funny as hell at first, but then I learned about his traumatic experiences with ice. I apologized to him with my face on the floor and he forgave me, but I still felt like an S-Rank asshole.
 Were you religious prior to becoming a pokemon?
@@ -151,13 +154,14 @@ Now that you're a ghost, is there anything you fear?
 >…
 >Ok, that sounded really depressing. Uh…
 >Oh, right. I once thought about the horrifying possibility of me involuntarily activating my intangibility in my sleep and falling through the ground until I reached the magma in the planet’s core and got burned to death. I decided to not think about that again in order to preserve my sanity.
-**Amelia**
+
+##**Amelia**
 Besides thinking water will kill him, what's the funniest misconception Nick has had about this world?
 >{Pending - need to think of something funny enough.}
 You're a bit bigger than the average Shinx, by the look of it--2'00" instead of 1'08". Because of that, did other Shinx treat you differently when you lived back home?
 >{Pending - working on this one.}
 
-**Nick**
+##**Nick**
 *\[If Amelia's first question was answered\]* Amelia's sharing embarassing stories about you! Are you going to take this sitting down? What's an embarrassing/silly mistake *she's* made?
 >{Pending - on writing this one.}
 Do you get along with the other Vulpix at the guild? You probably share some things in common, right?
@@ -168,7 +172,7 @@ So you never heard of the PMD series before meeting the other humons, huh? What 
 >What I do know, though, is that this world is no less real than any other. There's absolutely no doubt about that.
 
 
-**Kaiji**
+##**Kaiji**
 [Kaiji, your business seems to have the momentum of a runaway freight train. Why are you so popular?](https://youtu.be/tLFnlOO7l6A)
 >[A tough question, but a fair one. Anon, there's no single answer. Some customers respond to my integrity, others are more impressed with my incorruptability, still others by my determination to lower prices, and the Kecleon in town square can put THAT in their pipes and smoke it!](https://youtu.be/yFZ4zVn0NvM?t=74s)
 What's been your most successful scam?
@@ -176,7 +180,7 @@ What's been your most successful scam?
 Have you ever flipped a coin so it landed on its edge?
 >I've gotten pretty good at flippin' coins, so I can basically do that on demand now.
 
-**Kris**
+##**Kris**
 -What was it like getting your ass slapped?  Did it jiggle?
 >Kaiji put me in contact with a lawyer, and Kina and I are currently collecting evidence to submit a claim for workplace misconduct.
 What was one of your most accurate predictions?
@@ -187,7 +191,7 @@ Are there any guild members aside from Kaiji you like to spend time with?
 Have you considered getting a fake or prosthetic horn to replace your broken one? It couldn't give you the power to predict the future, but you might prefer the way it looks.
 >**SHUT UP!** I-I'M FINE THE WAY I AM!
 
-**Sneasel**
+##**Sneasel**
 Have you ever gone too far teasing Booker?
 >C’mon, you’re really gonna make me talk about that? I mean, I know how to answer, but I really don’t wanna talk about it... alright, alright, stop pestering me. I’ll spill. See, thing is, one time, I kinda sorta pretended like I was... maybe gonna eat him. There, happy? What? You want more details? [Well, if it’ll get you to leave me alone, I guess I can talk some more about it...](https://rentry.org/c5e2a)
 Have you ever killed?  If not, would you?
@@ -199,7 +203,7 @@ What exactly do you do when you "Go feral"?
 >If you’ve never heard of it, that’s cuz the power is special to the people of the Island. We’ve got a legend back home that says an old Weavile chieftain once angered a powerful Pokemon and got cursed, and the curse spread to everyone on the Island. So everyone’s got the ability to go berserk, and we all get trained to control it when we’re kits, cuz we’ve gotta be careful to not go crazy and hurt our tribemates.
 >And in case you’re wondering: no, I haven’t used my Berserker Form since coming to this continent. Something similar happened when I was with Charm that one time, though. I went kinda feral because the dungeon messed with my mind. But based on how Charm described it to me, that wasn’t actually my Berserker Form. When I go berserk, I'm even more crazy and a lot stronger than what happened there. Anyway... I hope you and our other guildmates never have to see me use that power. I hope I never use it again, cuz if I’ve got friends nearby, they won’t be safe. And Booker’s always with me. So... you can see where I’m going with this.
 
-**Booker**
+##**Booker**
 What's the best and worst thing about being so small?
 >Well, picking the single worst thing is hard. I mean, there are a lot of problems with being tiny. But generally, I just hate how I’m so limited in this body. I move slowly because my legs are small, to the point where I have to run to keep up with someone casually walking. It’s impossible to reach things that aren’t basically at ground level already. And, of course, I always have to worry about getting squished or crushed somehow, like if someone grabs me too roughly, or if I end up on the floor and someone walks over without noticing me... ugh, I don’t want to think about it. It just makes me even more anxious than usual.
 >As for the best thing... to be honest, at first, I really thought there were no upsides to this. A Ribombee—especially a flightless one—seemed like a terrible Pokemon to get turned into. But then I realized... this situation has actually helped me bond with Sneasel. I rely on her for a lot, since I can’t really take care of myself anymore. Even though I hate being dependent like that, I think it’s helped us get a lot closer than we would otherwise. I just... really appreciate everything she does for me. I mean, with my predicament, I needed to find a good partner, someone who’d really help me out and not take advantage of me or bully me. I was so lucky to meet Sneasel. She may not be the friendliest Pokemon, and she may mess with me from time to time... but I couldn’t ask for a better partner.
@@ -210,7 +214,7 @@ What are some ways you make yourself useful around the guild, besides looking cu
 Have you tried to build anything since the "slingshot incident"?
 >Not really... I’ve been procrastinating ever since the incident. I know I told Sneasel I was going to remake the slingshot, and I still plan to do it, but all I’ve done so far is make some doodles and sketches of ideas. I also came up with a name, but it’s kind of lame... y-you want to hear it? Alright... I’ll call it the “Beeshooter”. H-hey, stop laughing! Well... anyway, thanks for reminding me about that. I really should hunker down and get serious about rebuilding the slingshot. It’ll sure come in handy. Even though I keep putting it off, I’m not about to give up on it.
 
-**Ross**
+##**Ross**
 How do you respond to the rumor that you are secretly an amazing painter and keep it from the guild so we don't get our cut of the masterpieces you sell for loads of money?
 >This again? Someone sneaks into my room and paints a huge mural ONE TIME and everyone keeps insisting that I'm a super talented artist because of it. I'm telling you, if I had any sort of artistic talent I'd be flaunting it as much as I could. I'll try paint something right now to show you that I can't do it. Actually, on second thought, I'd rather not embarrass myself...
 
@@ -226,7 +230,7 @@ Do you sometimes let your tongue out like other smeargles?
 Can you change the color of your paint? If so, what's your favorite color to use?
 >Is that a thing? I'll be honest there's still a lot about being a... Smeargle... that I don't entirely understand yet. I don't mind this shade of green honestly, but if I COULD choose another color, I'd go with some nice shade of blue.
 
-**Debby**
+##**Debby**
 You deliver packages for customers AND deliver bombs to those who disrupt your business. Have you considered combining those two? Can I pay for you to deliver bombs to someone?
 >Hon, that would fall outside the purview of couriering, and honestly we don't care what y'all send as long as it _ain't_ a bomb.
 Does Delibird Deliveries do long distance deliveries?
@@ -238,7 +242,7 @@ Why do you know so much human stuff????
 How do you fly so well with those little flippers?
 >It's all about knowin' when to fly, if that makes sense to y'all. Right winds, altitude, all that and more. Short answer, a lifetime of practice, hon.
 
-**Bean**
+##**Bean**
 What's it like being able to fly?
 > :)
 :o?
@@ -248,7 +252,7 @@ I know you don't talk much, but can you sing? You're a bird, after all.
 What's with your team? Are they as dangerous as they seem?
 > ;)
 
-**Cassie**
+##**Cassie**
 Do you ship? Better yet, do you ship any guildmates?
 >You betcha!  Shipping strangers is lots of fun, since there's no harm and no liability.  On the other claw, shipping your friends and acquaintances, for example, the fine folk at the Clover Guild, is far juicier, but a bit morally ambiguous.  That's alright, though, cuz I'm a morally ambiguous gal!  
 There are quite a few other guildmembers who are enthuiastic about cute things too - do you get along with them?
@@ -258,7 +262,7 @@ Who is the cutest cutemon? (Hard mode: don't just say "all of them")
 >What an evil thing to do... Making me choose between the cutemons?  I object to this line of questioning and, going along with my personal biases, vote Bean as cutest cutemon!  ...Or maybe I should vote Kiyo, just to fuck with him...?  Hmm...  
 >If you want a real answer outta me, you'll have to wait until the official Cassie Cutemons Tier List (CCTL) is released, but that's gonna take some time.  There's so many Cutemons I haven't met, after all!
 
-**Kiyo**
+##**Kiyo**
 -can i touch fluffy?
 >My lawyer told me to say, "Touch fluffy, get dizzy".  I would like to elaborate; you'll be dizzy because I'll be smacking you.  Repeatedly.
 You've heard stories about Chespin's Ice-type racism, but haven't encountered it firsthand. Does this change your perception of him?
@@ -270,7 +274,7 @@ If you could wear any kind of outfit, aside from your current vest and cap, what
 >There's also a traditional outfit I'm supposed to inherit at some point.  I'm kind of looking forward to that, though more for the symbolic meaning than the fashion.
 
 
-**Gus**
+##**Gus**
 As one of the guild members without a partner, how does it affect your day-to-day activities? What would you most want from a partner?
 >How does it affect my day to day activities? Not much, actually. I've always been somewhat of a loner, and I can't go on difficult missions on my own so I'm stuck with easy ones, but other than that... /shrug. It does make life kinda lonely at times, but it's not like that's something I'm unfamiliar with. (This is off the record, right?)
 
@@ -286,7 +290,7 @@ What's the best part of swimming?
 What would you do if you lost your scalchop?
 >Be very sad, probably. Panic attack. Depressive spiral. I don't want to know. I don't even want to think about losing it. Why would you put that thought into my mind?
 
-**KFC**
+##**KFC**
 Do you think any of the humans in the guild have rubbed off on you at all?
 >Unfortunately yes, I find my self saying based far too often now and I'm still unsure what it means. If I ever start acting like the Cyndaquil, I'd hope Arceus strikes me down!
 Because humons gave you your nickname, have you ever worried one might get hungry and fry you up?
@@ -296,7 +300,7 @@ How do you feel about having a Pokemon who's the same species as your pre-evolut
 Is your inability to use fire moves something you keep hidden, or are you upfront with it? What would you do if, say, an oblivious guildmate sought you for advice on using fire moves?
 >I am very upfront with the fact I can't use fire moves, in fact, it's a blessing that I can't use 'em. If anyone asked me for advice on using fire moves, I'd try to help them, but I could only give guidance from an Aura or generic move use perspective, nothing specific about fire move usage.
 
-**Kaz aka Solid Linoone**
+##**Kaz aka Solid Linoone**
 How aquatinted are you with the guildmons?  How often do you visit?
 >I know them well! I go to the guild everyday to deliver mail, but every second evening or so I go to the guild after my shift to find people to go out with! I particularly love going to the bar to play cards and drink with guild members, I also love to just hang out at the guild and hear about their adventures. 
 Let's say you got a date with your crush.  How would you dress?
@@ -309,7 +313,7 @@ Linoone are super fast, but terrible at turning--has this resulted in any big pr
 >Yep! I crash into other pokémons a little too often. My worst mistake was crashing full speed into Beast when he was carrying groceries for the Guild… WatchMojo’s top 10 scariest experiences you do not want to live.
 >But turning is not too big of an issue because I found ways around it! Have you ever watched “Initial D” ? Ok. So basically my other ultra secret name is Takumi. That’s right. I have the most insane inertia drifts in the grass continent. I’m always on the lookout for slippery terrain such as puddles or leaves on the ground. Then when I approach a corner, I weight transfer my long body’s mass to the front by fixing my front paws on the ground and I let my hind legs slide across the ground  using my inertia to turn towards the road I want. Then, at the last moment, I start running as fast as possible again to avoid over turning. This is what’s called a ドリフト(dorifto). Eurobeat music pops into my head every time I do it. 
 
-**Charm**
+##**Charm**
 Are there any human cowboys you take inspiration from?
 >Not really! Some of the ones from movies and TV are cool, but i've always just liked the concept. I'm glad I have a partner who can at least appreciate that, if not understand what a cowboy is.
 Who's lazier? You or Natu?
@@ -317,7 +321,7 @@ Who's lazier? You or Natu?
 Have you ever burned anything with your tail flame?
 >Not on purpose. Sometimes I burn the food that Natu and I make, but that's pretty rare nowadays. Back when I first arrived, though? Woof. 
 
-**Macom**
+##**Macom**
 How often do guild members pester you for maps and route assistance?
 >Daily. It is not so much they pester me, it is my job after all.
 When and how did you become interested in cartography?
@@ -327,45 +331,45 @@ Do you play cards with Lliam regularly?
 Have you ever considered letting yourself be shorn to bring in some extra money for the guild? I mean, you don't really need *all* that wool, right?
 >I have considered it, but not been convinced of its worth.
 
-**Bullet**
+##**Bullet**
 -Have you considered getting a side-gig at delibird deliveries?
 -Is it uncomfortable to sleep upsidedown?
 -Since you're off on your own adventures for the most part, was there ever one where you wished the guild had been with you? (Whether it was something cool they should see or you wish you had a bigger team)
 
-**Minun**
+##**Minun**
 -Do you and Raichu ever sell flowers?  If so, do you keep the earnings, or share it to the guild?
 -Do you sit with other guildmons in the dining hall?  If so, who?
 -Minun is a tiny pokemon, but not the tiniest.  Do you and Booker get along?
 
-**Jimmy**
+##**Jimmy**
 -How's the interior of your chest going?
 -Have you considered inviting other tinymons over for a housewarming party?
 
-**Percival**
+##**Percival**
 -Being a Corviknight, you're intimidating to many other Pokemon.  Do you find this to be more of a blessing or a curse?
 -Do you ever 'Caw'?
 -What's some of the stranger things you've seen while standing guard atop the guild?
 -[Say the line crow](https://www.youtube.com/watch?v=rIX_6TBeph0)
 -Ae you familiar with a species of pokemon named "tinkaton"?
 
-**Sableye**
+##**Sableye**
 -What's cooking in the lab?  Anything useful?
 -Does any of your alchemy knowledge overlap with cooking knowledge?  Beast could use some backup.
 -Any progress on alchemizing melatonin?  Asking for a friend.
 
-**Adelaid**
+##**Adelaid**
 -How do you manage?
 -If you self-destruct, will you... Die?
 
-**Daphi**
+##**Daphi**
 -Are there any human technologies you've attempted to reinvent? 
 -Who would make a suitable lab partner?
 
-**Tybo**
+##**Tybo**
 -Do humans scare you?  
 -What's your opinion of the Kecleon group?
 
-**Casey**
+##**Casey**
 -How many jobs do you complete a week?  How many breaks do you take?
 >As many jobs as I can manage without compromising my exercise or rest. That might sound imposing, but I enjoy testing my technique against ferals.
 -Do you have a partner?  If not, do you wish you had one?
@@ -375,26 +379,26 @@ Have you ever considered letting yourself be shorn to bring in some extra money 
 -Is the scarf thing just fur? or is there a layer of skin under it?
 >There's skin there. No nerves and I'm thankful for that.
 
-**Kina**
+##**Kina**
 -Who are the most common return patients at the clinic?
 -How do you enjoy your time off?  Do you socialize with the guildmons, or gtfo?
 
-**Acrab**
+##**Acrab**
 -Some scientists believe crabs are the ultimate life forms.  Do you have any comment?
 
-**Carrot**
+##**Carrot**
 Have you ever embarrassed yourself in front of Hazel?
 >Absolutely, there's no shame on a blunder from time to time, as long as it's not that bad, maybe a mistep on a rocky road, or accidentally triggering a trap, but in my defense she never tells me where she puts them in case a psychic tries reading my mind, and that's fair.
 What's your opinion of outlaws?
 >Some can be good, most are not, but that doesn't mean that they can't change, just that you have to be wary of them.
 
-**Hazel**
+##**Hazel**
 Do you think Carrot does overboard with his love of the moon and the sun?
 >I've seen people worshipping some powerful pokemon, but Carrot? Maybe he's a bit of a zealot about the sun and the moon, but I get it, he's stuck on that middle point being a dusk form, serving both at the same time.
 You're quite well traveled. What place do you call home?
 >Well, I can't say for sure what was my first home, but now the guild is our home, and I'm happy with it, but mayybe in the future I'd like a real house, I've heard that the head houses are the fashion around here.
 
-**Fynn**
+##**Fynn**
 What does JUSTICE mean to you?
 >Well, I guess I'd say.... theres no exceptions if its someone close to you committing a crime, you shouldn't just let them get away with it just cause their your friend or family. At least, that's how I've always seen it
 Have any skills from the human world translated to the Pokemon world?
@@ -404,31 +408,32 @@ Are you looking for a partner? Are there any guildmons you'd work alongside?
 I heard someone say you used to be a cop, right? Have you been studying how the legal system works in the Pokemon world?
 >I've looked into it a little. You don't know how relieved I was to find out it's somewhat similar to back home, but I want to get stronger before I try getting involved in stuff like that don't want to be dead weight
 
-**Tooca**
+##**Tooca**
 As far as you've found, does the pokemon world have any spices that are totally new to you? Is it missing any familiar ones?
 Do you use your vines to help you cook, or do you only rely on your hands?
 What's the most danger you've ever encountered in your travels?
 Do you have any grass-type skills that help with cooking or would they only really be useful for growing ingredients?
 
-**Lapi**
+##**Lapi**
 What got you into gardening?
 Do other dragons make fun of you for not being as tough as them?
 
-**Smoke**
+##**Smoke**
 Whats the first thing you'd do if you had your own body?
 >First thing I'd do? Probably drink or eat something, or maybe sleep. Or... maybe give Clara a hug...
 
-**Clara**
+##**Clara**
 How much do you know about the human world?
 >Well, not very much. Smoke says that his memory is foggy at times, I mean he doesn't even remember his own name. I feel like at times he's purposefully hiding things from me wich is frustrating at times. Even then, what he does tell me is incredibly interesting, & even if I don't have the full picture, from the little bits of trivia that Smoke share with me, human history seems... complicated.
 
-**Skiddo**
+##**Skiddo**
 -Do you feel properly appreciated by the guild?  You do a lot of heavy lifting, after all.
 -How does one get by with hooves?  Do you get a lot of help from others?
 -Is it fun to have pokemon riding on your back?  Or is it annoying?
 
 
-**General Questions**
+##**General Questions**
+
 -
 Humons, is there anything from home you miss in particular?
 >**Lliam**: Video games... 
@@ -512,15 +517,17 @@ If a ship had 26 sheep & 10 goats, how old is the ship's captain?
 >**Charm**: Thirty-six!
 >**Natu**: This is a trick question and I won't entertain it. (Thirty-six.) 
 
-**Pair or More Questions**
+##**Pair or More Questions**
 -
-**Kris & Kiyo**
+###**Kris & Kiyo**
 -Can you double team me?
 >**Kris:** K-Kiyo, here's the information for that lawyer I was talking about...
 >**Kiyo:** Great.  They can reduce my murder charge to monslaughter. 
 
-**Lliam & KFC:** How different are human auras from other pokemons? Is it the same for you 2? Can you feel your own aura's "uniqueness"?
+###**Lliam & KFC:**
+-
+How different are human auras from other pokemons? Is it the same for you 2? Can you feel your own aura's "uniqueness"?
 >Humans have harder textures of aura compared to pokemon. Texture of an individual's aura is immutable (unless you evolve) and identical to another individual of the same species, so Lliam and KFC's aura have the texture of Human's and Combusken's aura respectively. Additionally, the humans tend to have unstable aura but I believe that is because the humans I have seen have all been transformed into pokemon. I can feel my aura's own differences like how you can identify yourself in a mirror from others. Aura users tend to have aura that is more balanced since they are manually controlling it, so if you ever want to identify an Aura user they will be leaking less aura but they aura that they do leak will be denser than that of a non-user. 
 
-**Kiyo's Gang**
+###**Kiyo's Gang**
 Tell me about a job you pulled that went wrong.

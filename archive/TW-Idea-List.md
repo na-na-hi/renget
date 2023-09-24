@@ -10,6 +10,8 @@ If she’s horny enough it should be something like “X tries to gently shake y
 Somnophilia is also a thing, hint hint.
 The higher the favor the bigger the chance. Should also be possible for multiple lovers to ask for it simultaneously. If you’re spending majority of your day underneath a pile of women, why not spend majority of your night drowning in girl’s affections too?
 Btw this suggestion is for AnonTW, not any other branch. Don’t you dare steal it, pedina.*
+## Character Nicknames
+A suggestion to allow the player to give characters nicknames.
 ## Childcare Expansion
 To be determined.
 ## Clothes Menu Expansion

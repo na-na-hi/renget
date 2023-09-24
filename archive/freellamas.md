@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Mythomax-q8.13-MAX-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://betty-see-gratuit-bobby.trycloudflare.com/api```
+Blocking API URL: ```Offline```
 
 ***
 **System prompt:**

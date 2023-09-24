@@ -458,6 +458,7 @@ Biography generated!
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
+Q&A page: https://curiouscat.live/Linoone_mailmon
 TL;DR greentext below
 >silly little guy
 >claims to be the fastest on-foot mailmon in Grass Continent

@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-08-28)==<-
+->==(Updated 2023-09-23)==<-
 ***
 [TOC2]
 ***
@@ -8,7 +8,8 @@
 - https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
 - https://rentry.org/aicgthemedweeks - small list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
-- https://rentry.org/dividedskies - small list of bots; themed bots from the worldbuilding project; `current`
+- https://rentry.org/dividedskies - small list of bots; themed bots from a worldbuilding project; `current`
+- https://rentry.org/crimsonfuture - small list of bots; themed bots from a worldbuilding project; `current`
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; *deprecated*
@@ -32,7 +33,7 @@
 
 ***
 Too old, for historical purposes only:
-- https://pastebin.com/tzNf6a8y - re-upload of /v/'s old pastebin; cai only; *deprecated*
+- https://pastebin.com/tzNf6a8y - re-upload of /v/'s old pastebin; cai only
 - https://rentry.org/ftat-original-characters - cai characters created by /trash/ftat/ - fapping to AI together
 ***
 ***

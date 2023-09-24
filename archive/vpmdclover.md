@@ -192,6 +192,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 100 | | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
+[**Clover Guild (ch1.5) Q&A**](https://rentry.org/ChrPromptThreeHalf)
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
@@ -323,6 +324,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 2 (ft. Makky)](https://rentry.org/GreatBulk2)
 	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 	* [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4) *Not on Table*
+	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) *Not on Table*
 * Maxi the Trubbish*
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -560,6 +562,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
 * {||} [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 * {||} [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4)
+* {||} [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

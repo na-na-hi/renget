@@ -30,7 +30,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Swagger | - | 4AP | - | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
+Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
 Lick | 3BP | 5AP | ≥2 | Ghost | Physical | 16-20; The Opponent is afflicted with Paralysis.
 Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
@@ -41,7 +41,7 @@ Moves that cannot be used in battle, but during RP segments. You may have two of
 Name of Move | Description
 ------ | :----: 
 Rest | Orner takes a nap.
-Coil | Orner coils up.
+Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 

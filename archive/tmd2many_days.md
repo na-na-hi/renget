@@ -38,7 +38,7 @@ Arriving on the plains of the Air Continent, almost immediately do you find your
 Escaping the heat
 
 !!! info (9/20/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ01 Cat-astrophic Marketplace
-debut of espurr doing some psychic shit in town
+After a rough night and a lost appetite for slumber, you exit the uncomfortable confines of your potentially-temporary home and spend your morning wandering around town. Feeling tired, sore, and unfamiliar with your surroundings, you find strange relief in learning of other's problems, notably a Charmeleon lamenting the destruction of his merchandise, and a group of delinquents vandalizing the town's darkest corners.  In the end, after a successful deal or some Berries with the delinquents calling themselves the 'Bright Bandits,' you help make a smoothie for a quiet Espurr with a headache, leaving Charmeleon to fix his problem himself.
 
 !!! info (9/21/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ02 Near Farfetch'd
-sneasler and some dungeon in marab forest (are we seriously calling it that?)
+Upon seeing some activity by a strange tent tucked away in a corner, your group ends up aiding a Sneasler looking to rescue a Farfetch'd from her guild. After learning the basics of dungeon exploration, you eventually find the Farfetch'd struck with some sort of mental affliction. However, this situation explodes into action when a weird Orb riles up all the ferals in the dungeon! After promptly tying up the Farfetch'd and weathering the literal stampede, a quick deduction finds that he was met with an unknown assailant, an identity which remains inconclusive...
