@@ -31,7 +31,7 @@ Speed | 1 |  Species Bonus | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Pyro Ball | 12BP | 8AP | ≥3 | Fire | Physical | 19-20; The Opponent is Burned. Thaws User.
+Pyro Ball | 10BP | 8AP | ≥3 | Fire | Physical | 19-20; The Opponent is Burned. Thaws User.
 Feint | 3 BP | 7 (-2) AP | ≥2 | Normal | Physical | Priority. Nullifies Protect Moves.
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Growl | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 

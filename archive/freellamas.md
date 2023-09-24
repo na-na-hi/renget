@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Mythomax-q8.13-MAX-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```Offline```
+Blocking API URL: ```https://favor-thumb-cycling-modifications.trycloudflare.com/api```
 
 ***
 **System prompt:**
@@ -39,6 +39,7 @@ Mirostat: [2.0] - mirostat version, just pick 2.0, this fixes llama2-13b's repet
 Mirostat Tau: [4.0] - dynamically adjust the value of top_k to meet the perplexity defined by this value
 Mirostat Eta: [0.6] - learning rate
 ```
+https://rentry.org/llm-settings
 
 ***
 #### How to use:

@@ -67,30 +67,31 @@ When you use Tavern to call APIs, the "Parameters" tab in oobabooba UI does noth
 ***
 
 ###### 6. Resources to go further
-a. Currently oobabooga doesn't support batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga, and supports fewer samplers. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
-vLLM is also an alternative, there's a fork that supports GPTQ quantized models: https://github.com/chu-tianxiang/vllm-gptq, it's even faster than TGI, it's a library, also supports fewer samplers than ooba.
+a. Currently oobabooga doesn't support continuous batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga, and supports fewer samplers. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
 
 b. text-generation-inference command line that worked for me, it's slower than exllama for single-inference, but scales up better:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8184 --max-total-tokens 8192 --max-batch-prefill-tokens 8184 --rope-factor 2.6 --rope-scaling dynamic --quantize gptq
 ```
 
-c. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
+c. vLLM is an alternative to TGI: https://github.com/vllm-project/vllm, you must use AWQ quants. It's a library, also supports fewer samplers than ooba. Refer to this anon's implementation to host a proxy with vllm: https://git.evulid.cc/cyberes/local-llm-server
 
-d. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged for GPU time!
+d. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
 
-e. How to host on vast.ai:
+e. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged for GPU time!
+
+f. How to host on vast.ai:
 Follow the steps in this link, but at the Image Selection step, click Edit and add "--api --public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![vast.ai params](https://files.catbox.moe/v05qh5.png)
 Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
 For 48GB VRAM dual-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama. More GPUs is always slower.
 
-f. Inference is always faster on Linux, about 10% to 30% improvement depending on what you run.
+g. Inference is always faster on Linux, about 10% to 30% improvement depending on what you run.
 
-g. Disable your GPU's ECC to free up some VRAM.
+h. Disable your GPU's ECC to free up some VRAM.
 
-h. Power limit your GPU for marginally less performance - You can limit your GPUs to use ~75% of their max power for roughly the same performance, they will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
+i. Power limit your GPU for marginally less performance - You can limit your GPUs to use ~75% of their max power for roughly the same performance, they will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
 ```
 sudo nvidia-smi -i <GPU_No> -pl <Limit_Wattage>
 sudo nvidia-smi -i 0 -pl 280 # Example for my RTX 3090, trading 10% performance for 25% less power usage

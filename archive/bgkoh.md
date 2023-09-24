@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** 
 **Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 139₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 119₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,8 +69,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
+2. Pomeg Berry | Sweet and spicy, with bitter aftertaste. (1 Spicy, 1 Sweet)
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
