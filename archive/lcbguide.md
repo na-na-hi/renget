@@ -50,13 +50,13 @@ You need to have at least one friend added. If you want more friends, go to the 
 No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so.
 
 **11. Are past events and stories completely gone until reruns?**
-Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in Dante's theater at any time.
+Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in the theater at any time. The only event you can't rewatch in the game is the April Fools event.
 
 **12. How do I change it so a specific Identity is in my window when I open the game?**
 Press on the sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-Patch notes every Monday at roughly 5am EST. Maintenance is every Wednesday at 9pm EST and ends at 11pm EST. We currently get new banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added during maintenance. Keep in mind that Korea is a day ahead for most of you.
+Every two weeks. Patch notes on Monday at roughly 5am EST. Maintenance on Wednesday at 9pm EST and ends at 11pm EST. New banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added during maintenance. Keep in mind that Korea is a day ahead for most of you.
 
 ## Rerolling
 **1. Do I need to reroll?**
@@ -249,8 +249,8 @@ R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also re
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. G Outis is a good pick for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Heathcliff gets AOE on his slash envy skill 3 at Uptie 4 which can be useful for connect 4 memes.
-- ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Shi Association South Section 5 Heathcliff](https://files.catbox.moe/eopmhv.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
+It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. G Outis is a good pick for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies.
+- ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
 Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps. Ardor Blossom Star at Uptie 4 pairs especially well with Liu Ishmael. And finally, Hong Lu's Dimension Shredder allows his K Corp ID to become functionality immortal. 
@@ -307,3 +307,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
 9/24/23: Fixing minor errors - Elaborated on sharting
+9/25/23: Fixed error in FAQ #13, removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes.

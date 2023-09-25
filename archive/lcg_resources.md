@@ -78,10 +78,10 @@
 * [Youtube](https://www.youtube.com/@ProjectMoonOfficial)
 * [Old Youtube](https://www.youtube.com/@moonproject8156)
 * [Limbus Company Steam](https://store.steampowered.com/app/1973530/Limbus_Company)
+* [Limbus Company AppStore](https://apps.apple.com/app/limbus-company/id6444112366)
+* [Limbus Company Google Play](https://play.google.com/store/apps/details?id=com.ProjectMoon.LimbusCompany)
 * [Library of Ruina Steam](https://store.steampowered.com/app/1256670/Library_Of_Ruina/)
 * [Lobotomy Corporation Steam](https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/)
-* [AppStore](https://apps.apple.com/app/limbus-company/id6444112366)
-* [Google Play](https://play.google.com/store/apps/details?id=com.ProjectMoon.LimbusCompany)
 * [Postype](https://projectmoon.postype.com/)
 * [Fanwork Guidelines](https://twitter.com/ProjMoonStudio/status/1629085462236397573)
 

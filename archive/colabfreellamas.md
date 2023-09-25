@@ -1,4 +1,13 @@
-#host a HUFFLEPUFF on Colab for free 
+#host a HUFFLEPUFF on Colab for free
+
+###### 5bit exl2 quantization
+https://files.catbox.moe/pgbhah.ipynb
+"Mythomax-5bit on exllama2, it should be a noticeable improvement over 4bit GPTQ in terms of speed and quality
+Exllama2 supports better prompt caching, swiping on the same prompt will be faster than exllama1
+This uses dynamic ntk rope scaling, I already picked the optimal alpha_value
+Context size: 6144" 
+
+###### GPTQ quantization (older)
 download the Jupyter Notebook https://files.catbox.moe/jgqjre.ipynb (5500 context, use if you have issues with the updated notebook)
 https://files.catbox.moe/kd79da.ipynb (updated: no logs, 7500 context and  --alpha_value to 2.565 set automatically)
 go to https://colab.research.google.com and login and stuff

@@ -21,6 +21,7 @@ https://archiveofourown.org/works/48969358 (A Lopunny's Surprise by CauxCauxJamb
 https://archiveofourown.org/works/48072268/chapters/124242334 (Blossoming Love by Jaycee777)
 https://archiveofourown.org/works/48072268/chapters/125392108 (A Brush with Twink Death by Jaycee777)
 https://archiveofourown.org/works/49456213/chapters/124814875 (Hometown by Lonely_Electron)
+https://archiveofourown.org/works/50295496 (Corrupt Copulation by CauxCauxJambaux & Anonnymous)
 https://catbox.moe/c/wby09b (Human Pic Edits)
 https://m.imgur.com/a/nVVsmQs (Conner Imgur archive)
 https://files.catbox.moe/0ho8y3.png (Shortstack Raccoons by anonymous)

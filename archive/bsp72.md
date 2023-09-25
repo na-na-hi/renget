@@ -1,5 +1,10 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
+[Braixen] https://archiveofourown.org/works/49281094
+[Aegislash] https://desuarchive.org/trash/thread/59620775/#59703953
+Part 2: https://desuarchive.org/trash/thread/59620775/#59725330
+Part 3: https://desuarchive.org/trash/thread/59737890/#59802028
+[Lopunny][SFW] https://archiveofourown.org/works/50131117
 [WIP][Mew] https://desuarchive.org/trash/thread/59056192/#59187504
 [Deoxys] https://archiveofourown.org/works/49012456
 [Blaziken] https://archiveofourown.org/works/48433849

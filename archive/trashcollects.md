@@ -915,6 +915,10 @@ https://civitai.com/models/150647/magica-de-spell-or-ducktales
 	Direct DL V1.0:
 	https://civitai.com/api/download/models/168810?type=Model&format=SafeTensor
 
+# sake kemosalmon (Artist)
+
+	https://files.catbox.moe/21wmi0.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

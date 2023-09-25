@@ -31,7 +31,7 @@ We'll use quantized models because there's no way consumer hardware will have en
 Reference table, assuming 4bit quant and groupsize128:
 Params | 7B | 13B | 33B |34B| 70B
 ------ | ------ | ------ | ------ | ------ | ------
- **VRAM required** | 8GB for 8k context | 14GB for 8k context | 24GB for 3.5k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
+ **VRAM required** | 8GB for 8k context | 16GB for 8k context | 24GB for 3.4k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
 
 b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
 - ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.

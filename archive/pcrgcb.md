@@ -26,7 +26,7 @@ videos:
 [Eruru](https://www.youtube.com/watch?v=au8k_61Uqs8)
 
 ### Boss 1
-[B1 Phys 67-68m](https://www.youtube.com/watch?v=KRv9UupZiQE)
+[B1 Phys 67-68m](https://www.youtube.com/watch?v=SJdueipzPZc)
 ![3](https://pomf2.lain.la/f/3vhzhf57.png)
 Tested with:
 S.Kokoro 6★  Lv283 R30 FULL, UE 160, EX 5/0/5
@@ -34,7 +34,7 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 Ames 5★ Lv283 R30 FULL, EX 5/3/5
 Creditta 5★ Lv283 R30 FULL, EX 5/3/5
 Cafe Tamaki 5★ Lv283 R30 FULL EX 5/5/5
-![3](https://pomf2.lain.la/f/f3lztut7.png) 
+![3](https://pomf2.lain.la/f/6qpw5clf.png) 
 
 
 ### Boss 2
@@ -43,7 +43,7 @@ Cafe Tamaki 5★ Lv283 R30 FULL EX 5/5/5
 Tested with:
 Muimi 6★  Lv283 R30 FULL, EX 5/5/5
 Makoto 6★ Lv283 R30 FULL, EX 5/5/5
-Vikala 3★ Lv283 R29 Naked, EX 5/3/5
+Vikala 3★ Lv283 R30 FULL, EX 5/3/5
 L.Nozomi 3★ Lv283 R30 FULL, EX 5/3/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ![3](https://pomf2.lain.la/f/bm1fd9i5.png) 
@@ -66,6 +66,8 @@ No Vikala
 ### Boss 3
 [B3 Phys 65m](https://youtu.be/7rNn9NRW3co?si=0RZqfVbDg9oH0oPi)
 ![3](https://pomf2.lain.la/f/jww2zw58.png) 
+**Do not use O.Peco if B3 is below half HP or will reach it during the hit**
+Tested with:
 O.Peco 4★  Lv283 R30 FULL, EX 5/5/5
 Djeeta 6★ Lv283 R30 FULL, EX 5/5/5
 Christina 6★ Lv283 R30 FULL, EX 5/Nothing/5 (Tested with X.Chris bonds)
@@ -75,6 +77,7 @@ ST.Kurumi 5★ Lv283 R30 FULL, EX 5/Nothing/5
 
 [B3 Phys 62m](https://www.youtube.com/watch?v=SQVg6_PxaAU)
 ![3](https://pomf2.lain.la/f/2pmiwe8h.png) 
+**Do not use O.Peco if B3 is below half HP or will reach it during the hit**
 Tested with:
 O.Peco 4★  Lv283 R30 FULL, EX 5/5/5
 Djeeta 6★ Lv283 R30 FULL, EX 5/5/5
@@ -112,7 +115,7 @@ W.Djeeta 5★ Lv283 R30 FULL, EX 5/3/5
 G.Ilya 5★ Lv283 R30 FULL, EX 5/5/5
 S.Neneka 5★ Lv283 R30 FULL, EX 5/3/5
 Neneka 5★ Lv283 R30 FULL, EX 5/3/5
-![3](https://pomf2.lain.la/f/47px14rj.png) 
+![3](https://pomf2.lain.la/f/uhjvton5.png) 
 
 ### Boss 5
 [B5 Physical 57-59m](https://www.youtube.com/watch?v=ymrCkTBAMBQ)
@@ -140,6 +143,7 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 ### Boss 5
 
 ## Carryover / Overflow
+[ネブソク](https://www.youtube.com/watch?v=KmotFnWUS4A)
 [Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3VvKL34deGRex6FmOHZmN_X)
 
 ## General Resources for all Stages

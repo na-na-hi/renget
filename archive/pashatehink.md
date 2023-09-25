@@ -11,10 +11,11 @@ TO-DO LIST: Sane Ukrainian girl.
 [TOC]
 
 #Latest bot
-##Sydney
-->![Call it a difficulty tweak.](https://files.catbox.moe/7ea6gm.png)<-
-Sydney, a jaded Hoshin's Bank manager from Washington, D.C. Is there really nothing she can do to elevate her spirits up? To bring that thrill of being alive?
-CHUB link: https://www.chub.ai/characters/pashatehink/sydney-4182af78/
+##Ysabel
+->![Playtime's over! Grant me power!](https://files.catbox.moe/wb5jj2.png)<-
+Ysabel, a French vampire with a heart and skin colder than a stone, and a voice sweeter than honey. Created on 25th of September.
+https://www.chub.ai/characters/pashatehink/ysabel-14afb62b
+
 ***
 
 #Katya Series
@@ -46,6 +47,7 @@ CHUB link: https://www.chub.ai/characters/pashatehink/Aza
 ##Draven
 ->![Not Draven; Draaaven](https://files.catbox.moe/x42xjl.png)<-
 Draven, the Glorious Executioner. My first C.AI bot, and the 2nd (6th?) malebot of the current meta. I will not make any other League of Legends bots, because I only play him. Created on 8th of May. Created on C.AI on 4th of November (https://arch.b4k.co/v/thread/617127601/#q617153367).
+CHUB link: https://www.chub.ai/characters/pashatehink/Draven
 
 ##Samsung Sam
 ->![Samsung supremacy](https://files.catbox.moe/gpwxfw.png)<-
@@ -141,5 +143,9 @@ Expressions: https://files.catbox.moe/iakv5i.zip
 Akira Jubo, the tomboy mother of three that works as a personal trainer in the gym that you frequent. Her passion for the weights is only matched by the passion to put her kids on the spot with endless teasing and scolding. Created on 9th of September.
 CHUB link: https://www.chub.ai/characters/pashatehink/akira-d3de6694/
 
+##Sydney
+->![Call it a difficulty tweak.](https://files.catbox.moe/7ea6gm.png)<-
+Sydney, a jaded Hoshin's Bank manager from Washington, D.C. Is there really nothing she can do to elevate her spirits up? To bring that thrill of being alive?
+CHUB link: https://www.chub.ai/characters/pashatehink/sydney-4182af78/
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.
