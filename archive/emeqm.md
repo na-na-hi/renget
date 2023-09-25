@@ -1368,3 +1368,657 @@
 >whatever escape you'd put together would be hasty
 >maybe you'd get lucky and Gensyn would cut their losses 
 >that did make you think to bring up something important to Alex
+
+>a lot more debate later and everyone saw fit to get some rest
+>the day was long over and Gensyn hadn't tried anything since earlier
+>a watch was set up for the bare minimum
+>maybe they were out of ideas after the frontal assault 
+>important thing was you had privacy with Alex again
+>first thing he said
+>very first thing
+>"I am very certain you spent much of today lusting after me. This swimsuit might be a mistake."
+>you'd managed to find a higher ups office with the hot tub and Alex remembered the promise earlier 
+>the lock on the door wouldn't be much but hopefully it would discourage some idiot 
+>because yeah you'd spent the whole day horny
+>after the danger had passed you'd hung around your boyfriend wearing nothing but a swimsuit and lab coat 
+>tomorrow might be your last day
+>he'd promised ass
+>all fair points
+>to say you were completely oblivious to the danger would be stupid though
+>you'd been planning all evening
+>you shoved Alex face first onto the grand wooden desk
+>after all the shit that had gone down you both needed to relax
+>to his credit Alex didn't protest
+>not when you pulled his swimsuit aside and revealed his twin pointed cocks
+>they contrasted with the blue skin of his slit and balls
+>of course he was just was pent up as you
+>you hefted him by his hips into the air
+>all he could do was look back at you with curiosity 
+>"what has gotten into you?"
+>you gave one of the cocks a kiss and his claws flailed wildly at the desk
+>"holy shit!"
+>his attack on the furniture done with, you set him down 
+>he glared at you over his shoulder
+>"why did you stop?"
+>you two had to talk just a little with the privacy
+>you decided to break away and search the bathroom tied to the office suite and sure enough, lube
+>always count on these rich types being perverts
+>that hot tub was probably germ soup
+>you continued the conversation while you lubed your fingers up
+>you both needed stress relief but now was also the best time to talk
+>you laid out that the other scientists look like they'd kill you back there
+>"true. the hostility in that room seems worse now."
+>if even he could read it
+>"I am never letting anyone do that though."
+>you hefted up his tail and started sliding a finger in, earning you a hard fought groan
+>as much as he pretended the sex stuff was only to please you sometimes he really enjoyed it
+>he whimpered as you pumped the slick finger back and forth
+>his tight hole a cute pink, compared to the rest of his scaley body
+>"I will sooner kill everyone here than let them kill you."
+>the way he said that made you pause
+>Alex wasn't a joker
+>or a very good one
+>he wasn't looking over his shoulder for your reaction
+>it was just him stating a fact
+>well, hopefully it never came to that
+>you went back to pumping in and out of him, sliding a second finger in
+>he wasn't one for overblown reactions in sex
+>didn't moan like a girl or anything like that
+>he did lift his ass up a little more, shake his hips just slightly
+>he scratched into the table, leaving deep marks in the wood
+>at least with him bent over like this you could see he really did like this stuff with you
+>his curt outside matched his tough scale
+>on the inside though, he swallowed your touches and gave way easily to you
+>you two hadn't done a whole lot of butt stuff and you had once thought he didn't like it
+>frotting and blowjobs weren't the worst though
+>you kept talking though
+>you both would need an out if things got bad
+>"I've thought about that. obviously Gensyn wa- oh fuck"
+>he whined when your lucky finger found the shark twink's prostate
+>you asked if he liked that and he jerked his hips when you did it again
+>"you know I like it. why are you asking?"
+>he brushed his hair back slightly and tried to collect himself
+>well you liked getting a reaction out of him
+>he grit his new razor sharp teeth as you assaulted that button over and over
+>this was cute watching him squirm
+>"you were serious about marriage?"
+>yeah
+>you'd partially said it to give him a little more hope but you meant it
+>"we leave this place with the device. I destroy the notes and we leave."
+>but then where do you both go? 
+>"if you really are serious about marriage we will figure it out"
+>oddly sentimental of him
+>just follow your hearts sounded uncharacteristic from your Alex
+>you leaned down over him
+>you whispered if he was that eager to be your mate?
+>"you are knuckle deep in me and you have to ask"
+>his voice was almost a needy groan
+>his precum dribbled onto the boss's carpet
+>when you pulled out of him his hole winked at the sudden vacancy
+>as aloof as he wanted to act about the sex he loved it as much as you
+>you nibbled softly along the back of his neck and he replied to bite harder 
+>he tasted unique 
+>when you broke the skin he quivered 
+>the corner of the desk he gripped splintered in his hands
+>one of the smartest, cutest guys you know fused himself with a apex predator and he had begged you to mark him
+>his tail thrashed about a little as you kissed at the bite mark
+>even if he wasn't very vocal about it you knew he liked it
+>you'd been intimate only a little bit before this change
+>it felt like the passion had now bubbled over after
+>you mumbled how fucking pretty he was between kisses
+>he objected
+>whispered how he'd turned himself, how even before that he was weird
+>your undid your pants and dropped them then freed your dick
+>you shoved it against his tailhole
+>Alex groaned as you probed the ring of muscle
+>all those little doubts in his head 
+>you wanted to toss them aside
+>this whole time you'd been attracted to him
+>"I am still stuck a freak now"
+>you shoved in a little
+>you growled into his messy hair how you read studies that found sand tigers mated for life
+>you wanted that for him
+>mate 
+>for
+>life
+>with each word you sawed back and forth just enough to get the point across
+>this was all harder with his meaty tail having to be off to the side but you'd managed
+>"are you really serious about sharks? I never spoke to you about that study."
+>of course you loved sharks 
+>you loved one special one though
+>you laughed and remarked if maybe the professor wouldn't mind being a nurse shark and wearing that uniform down the line
+>"you can not be serious."
+>serious as the heat burning inside him right now
+>"give you every chance and you still want to be with me…"
+>he sighed softly and relaxed, his ass allowing you to push tighter
+>"I wish I met you sooner."
+>well, the important thing is you met each other 
+>he'd been amazing before and he was amazing now
+>the whole scrawny twink thing even worked into his age
+>and now, he was all tight and limber
+>it was like he was all reborn
+>still Alex but just more
+>you growled into what amounted to an ear
+>he didn't have an outside cartilage protecting them now and they were usually hidden by his mop of hair
+>your wedding, you talked about that while your cock throbbed inside him
+>how the honeymoon you'd take him out into the ocean and really fuck him like he deserved
+>it wasn't luck that made him a new type of life
+>Alex was made to be a shark and you were made to be his mate
+>you added in he was the only reason you came back here
+>you loved him and the idea he'd gotten hurt made you terrified
+>Gensyn, those scientists out there, all of it
+>they didn't matter in the grand scheme
+>Alex would do what was right and you'd be there with him
+>you muttered how you'd slam into his prostate after you two picked a good sandbar for it
+>the salt water washing over you
+>the gulls screeching overhead
+>just like your outings to the beach
+>just add skinny dipping to it
+>you'd only known him for a while but he was the one
+>"I cannot believe this is happening," he whined 
+>his tone still the same Alex
+>but sexier to the ear
+>was that a pleading tone?
+>was he genuinely enjoying himself?
+>you kept pounding into his thick ass and hoped so
+>he was actually starting to sound a little winded
+>you stopped and pulled out and for the first time he was miffed 
+>"what the fuck are you doing?"
+>he spared a glance over his shoulder and was surprised when you picked him up
+>the hot tub wasn't ideal but you weren't letting him choke
+>it was big enough for him to submerge completely
+>you pulled his ass up out of the water and slid back into your dick's agape home
+>with him on all fours you slung his tail onto your shoulder and used the new leverage to go deep
+>your boyfriend thrashed in the water but you held him down in place
+>the tepid water splashed with every thrust down into him
+>somewhere along the way he slammed his fist down on the tub and his ass got a lot tighter
+>that was the beginning of the end of your own endeavor and his climax finally coaxed your own
+>you shot a load deep into him with a final thrust 
+>you had the good sense to sit down then, pulling him up our of the water with you
+>"that was intense as before," he remarked with renewed calm
+>like he wasn't just gasping earlier
+>"I could even smell you under the water."
+>you'd remembered that fact
+>you asked if it was good for him
+>"our semen is currently mixing in this hot tub."
+>his wet dark hair was all you really could see of his head, though you felt his insides occasionally twitch at your invasion
+>you ran a hand over his stomach and he sighed
+>"you are serious."
+>of course
+>you'd just have to pick an ocean for your honeymoon
+>you basked in the afterglow in silence for a while
+>you pulled his wet hair aside and leaned in and kissed that mark
+>his hand clasped over your arm
+>your clothes were ruined
+>in the moment you just didn't give a damn 
+>now, it was funny
+>you squeezed him against you like a plush toy
+>his rough skin like sandpaper
+>any wiggling was punishing your poor arm and hand
+>but it was worth it
+>"well, I guess I am serious too."
+>you didn't know what he meant and he clarified
+>"I will kill anyone that tries to hurt you."
+>well you didn't want things to come to that
+>he wasn't a killer
+>you knew he wasn't 
+>you whispered how he was a good man while kissing his neck and shoulders
+>"I will rip someone's throat out if they touch you. good man or not."
+>maybe the shark part added a little bloodlust
+>you treated his words seriously though
+>he said it with such conviction there was no doubts he'd at least attempt it
+>"I can feel your heartbeat. you are not even a little scared?"
+>of the situation maybe
+>"I saw the gun you stole. that was a good idea."
+>well, he apparently wasn't too distracted when you two fucked
+>but if he meant scared of him, no
+>he sighed and pulled himself away from your grip
+>you hoped you hadn't said something wrong 
+>"get your clothes off, they will need to dry."
+>was he making a point to bend over the rim of the hot tub?
+>he wasn't looking for your reaction
+>granted he wasn't much one for eye contact
+>you shook your head and came back down to earth
+>he was right of course
+>you draped your clothes over the desk and took another good look at Alex
+>slender blue and white limbs hiding tight muscle
+>that single piece swimsuit practically clinging to his body
+>wet raven dark hair
+>a thick ass topped by that tail
+>god, you scored the jackpot
+>you walked around the hot tub to see him face to face
+>you kissed his snout
+>after the craziness of today this quiet was a godsend
+>his glasses seemed to be working still
+>at least enough his eyes knew where not to look to see you eyeing him with appreciation
+>you climbed back into the hot tub
+>you snatched him up best you could and held him close again
+>you would have to brainstorm how to get out of this intact
+>together
+>the next couple days were not as chaotic as that day
+>you stayed around Alex full time
+>it earned glares but both of you watched each other's backs
+>Gensyn tried another attack the second day 
+>the same thing as before, dive in the pool and Alex hit the switch
+>you didn't like that he had remarked on making the device stronger 
+>enough to affect several city blocks
+>Gensyn was forcing them into upping the stakes but you didn't like it
+>when he came back he was different too
+>exposure to a stronger dose must have changed his mutations a little
+>the back of his forearms had fins
+>his claws were longer and his skin a deeper blue and brighter white
+>his tail was longer, resembling a thresher shark now
+>turning him around revealed a fin right between his shoulder blades
+>he didn't seem shocked
+>you had to put your foot down
+>the device really was too dangerous
+>it was the time to walk away from this 
+>most of the others stared daggers at you
+>as it turned out, that was the last straw for the giant rhino
+>a hand the size of your head aimed for your throat
+>Alex moved faster
+>the rhino screeched as he pulled back a hand with two less fingers
+>Alex spit the digits out on the floor
+>he wasn't the most dangerous person here but that message was clear
+>he'd make whatever they planned costly
+>you pulled him back a little with a soft tug
+>he didn't need to be that
+>while defending your honor was cute and all, he wasn't a monster
+>you'd see to that yourself
+>your safety was apparently a cause of tension now
+>as in why didn't you have to be out there?
+>why didn't you have to be transformed?
+>these complaints were lodged by multiple parties to the apathetic looking shark
+>you risked cleaning the blood off his face with your shirt
+>a quick glance that it was you was enough to calm him
+>"none of this is any of your business"
+>he spoke frankly to the group 
+>clearly not giving a shit at this point
+>tensions were past the boiling point
+>what stopped everything in its tracks was a massive thump from inside the building 
+>you'd feared this
+>but didn't think such things happened outside the movies
+>the company couldn't get the device with the siege
+>so they had decided no one could have it
+>they probably planted a contingency like this years before
+>just set off a bomb and level the place
+>more thumps
+>the place was getting brought down on your heads
+>Alex genuinely looked terrified when the gravity of the situation hit him
+>then he shoved you away from a falling piece of ceiling 
+>fires were spreading and the sprinkler system was either damaged or intentionally shut off
+>the solidarity from the scientists vanished and they fled in separate directions
+>none spared a glance at Alex pinned under concrete
+>the shark tried to get you to leave
+>"get out. there's nothing you can do."
+>in seconds Gensyn had decided to be a sore loser 
+>seeing Alex buried under that rubble though
+>something came over you
+>you were fucking angry
+>fuck this fucking company
+>fuck these goddamn high and mighty scientists
+>fuck all the stupid fucking threats you'd gotten
+>the building was coming down and Alex was trying to goddamn write himself off again
+>you shouted "fuck" at the whole situation 
+>no
+>none of this fucking bullshit was winning
+>you started hurling rubble aside
+>all the while Alex begged you to run
+>no
+>fuck all of this 
+>you were either dying here or you'd be leaving
+>his tone was pleading, desperate and it was ignored
+>this whole shitshow wasn't ending like this
+>you snapped back that you made a promise
+>a chunk of concrete the size of your torso had his leg pinned
+>that was your last obstacle 
+>the building was getting violently unstable by the minute
+>you put all your anger into that piece of concrete
+>adrenaline was a hell of a thing
+>something in your body popped but you lifted it and he pulled himself out
+>his legs was in bad shape
+>he'd live but he wasn't walking at the moment
+>fuck it
+>your heart was racing and you snatched him up and threw him on your shoulder
+>escape seemed slim now but you bolted in the direction of the main doors
+>no one was getting their goddamn way but you
+>the device and Gensyn was forgotten 
+>they could fucking have the damn thing 
+>everyone had cleared out before you 
+>all those fucks playing at moral superiority just caved immediately 
+>you hoped they'd all go to Hell
+>more explosions
+>you had to hurry
+>using the main exit was risky but you didn't have much choices
+>the lobby was in ruins but you had a clear way out
+>you were thankfully the cover of night made leaving in the chaos easier
+>you got a few city blocks before collapsing in an alley
+>the adrenaline only carried you so far
+>Alex hadn't said anything since you freed him and you got a little worried
+>his glasses were broken 
+>he seemed dejected 
+>but breathing
+>"you did not need to do that"
+>like hell you didn't 
+>you reached over and closed his mouth before you heard any more foolishness 
+>laying back in an alley wasn't ideal and you'd have to move soon
+>right now you were dealing with the consequences of that rescue on your body
+>you caught your breath and tried to assess just what you fucked up moving concrete
+>you lost track of the time you laid there
+>your legs had finally stopped burning
+>this past couple of day was hell 
+>the only bonus you could think of is at least Gensyn probably thought you were dead
+>you needed to get out of town
+>you probably had a limited time to clean your places out before they'd rummage through them
+>your place more likely was safer
+>you were never happier you walked to work the one nice day this week
+>so your car would be the best chance
+>Alex was coming along
+>despite the whole "you should leave me"
+>after sitting there for a bit you pulled yourself up 
+>the shark twink was looking towards the ground
+>probably feeling like shit
+>you asked how good he could walk on his leg now
+>"does it matter?"
+>flick to nose
+>you were going to make him regret teaching you that
+>Gensyn didn't have the device
+>hopefully all those scientists would be all morally upstanding and not reveal the research either
+>with the bombs going off you two were practically in the clear
+>"I have only really known you for such a short time and I pulled you into this"
+>you hefted him up on his feet
+>Gensyn was going to pull some evil shit regardless
+>you were committed to Alex
+>hell if things hadn't gone the way they did in that rescue you were probably going to use the gun
+>no use burning to death
+>but that wasn't what happened
+>what happened was you two escaped and had a new chance at life
+>you couldn't go back to the old routine
+>none of this could have been foreseen, you remarked that Alex wasn't a fortune teller
+>you put yourself in his shoes though
+>all that research was his life
+>the lab was essentially his home
+>it was all gone
+>you hugged him tightly around the waist
+>you offered that no matter what you had the water and him
+>you asked if he remembered what you promised him
+>"after all this?"
+>yes
+>besides, you can help him with his research now
+>"research?"
+>he hadn't been out in the open water like this
+>swimming alongside him in some pretty lagoon could count as research right?
+>he relaxed a little at that suggestion
+>you both were alive and could make something of it
+>you were careful to take back routes to your apartment
+>Alex held onto your shoulder
+>night was working in your favor but it wouldn't be long before you needed to get the fuck out of here
+>you cheered him up a little with the proposition of checking out his place
+>as minimal as it was he had stuff that was important to him
+>only two people knew about Mr. Snaggletooth
+>well two living people
+>his mom was the one who gave him a stuffed shark when he was four
+>he'd slept with that thing more than you
+>yet still in good shape
+>it was easy to pack the essentials once you got to your place
+>you wanted in and out
+>Alex helped a little but he was hung up on a picture of your parents
+>"they will think you are dead."
+>well that part stung a little
+>but you had tried to push that out of your mind
+>he slumped down against the wall
+>"I ruined your life…"
+>he sounded defeated
+>you watched him, unsure what would happen in the next moment 
+>him trying to bite his arm off was not your first guess but you intercepted it just as quick
+>"stop"
+>you grabbed his wrists and pulled them away from his mouth
+>he was probably hoping that wound would have bled out if he'd gotten the right part of his forearm
+>he was strong but you were putting all your strength into pinning him
+>you asked what good killing himself now would do?
+>he tried not to look you in the eyes
+>you needed him
+>"no…"
+>you hefted him up and moved in to hug him, restraining his arms all the while
+>you weren't leaving him behind so he shouldn't be doing that either
+>right now, you really needed him
+>tomorrow, you'd really need him
+>and the next day
+>no one can undo any mistakes but you didn't consider this a mistake
+>he ruined nothing 
+>it was more like a fresh start
+>besides, he was better than this
+>he saved you after all
+>you reminded him of how you had been in the path of that rubble
+>"only because I dragged you into this."
+>you ran in willingly towards those explosions
+>he was tearing up a little
+>the time you two have shared had been the happiest in your life
+>no matter what circumstances surrounded it
+>when he finally relaxed only then did you ease your grip on him
+>his rough skin had worn at the palms of your hand, the pain a small reminder
+>you'd make it through this
+>finally, you pulled back and said if he really wanted to make it up to you he'd take your last name
+>you wanted to give him a purpose again
+>he lost a lot and here he was dwelling on you
+>now you had an pull yourselves out of the ashes
+>reclaim your lives
+>he finally made eye contact and he couldn't hide the sadness
+>you told him you both could make this right 
+>fuck letting Gensyn win
+>he was strong enough to fight then, so why not now?
+>you needed him
+>you were pretty sure you'd never get out of town without him
+>that seemed to help
+>he found his resolve if it meant helping you 
+>at least on the surface
+>you grabbed your suitcase and grabbed his hand
+>you piled onto your car and made a beeline for Alex's place
+>he was quiet but you'd occasionally nudge him to get him focused on you
+>you'd get him smiling before long
+>just had to be as stubborn as he was
+>you were relieved to see no one around his apartment 
+>with the coast clear you went in
+>the lock had been busted
+>bad sign
+>both of you were on guard 
+>Mr. Snaggletooth was on the floor but unharmed
+>you helped him stuff a bag 
+>Alex was still in a somber mood but the trip to his place did seem to help
+>helping him out to the car, he spared a glance at his place
+>you squeezed his hand
+>this couldn't be home any more 
+>but you'd make sure he had one
+>leaving, you felt like an idiot seeing a parked car pull out and start heading the same direction as you
+>at 2 in the morning 
+>they had to be company men
+>the blatant way they trailed you on turned confirmed it
+>Alex looked to you worried and you tried to be a comfort
+>you didn't know how this would play out
+>they wouldn't do anything drastic in the open 
+>you headed out of town towards the harbor side of the city
+>you trusted the shark by your side
+>the car got closer the second you got out of the city
+>for the second time tonight you hoped a fake death stuck as you careened off a cliff into the ocean below
+>Acajutla, a major port town in El Salvador
+>a man could vanish in the hustle and bustle down there
+>American cash went a long way
+>someone could use the rainy day fund they'd stashed for an actual investment down there
+>no one really thought much of the man buying a used houseboat
+>just another face in the crowd
+>trying to make it as a fisherman in this port was a challenge 
+>but you had an edge 
+>you'd been there for a couple months after the explosion 
+>that night your trust in Alex was rewarded
+>he pulled you to safety 
+>called you a fucking idiot for almost killing yourself once you got safely out of sight of the town
+>you smiled and he smacked you upside the head
+>you replied you knew a mermaid would save you and that made him cross his arms and not want to make eye contact again
+>you told him you needed him
+>your hug was eventually returned after he got over his anger
+>he'd managed to save all your shit thankfully 
+>he moved like a torpedo in open water
+>it was an experience to feel him speed through the sea while you were luggage 
+>you were relieved his great white plushie was wet but unharmed
+>you'd personally grabbed that when the water flooded the car
+>it was time for a change 
+>that's when you two headed south 
+>Alex had to occasionally hide until you found a cheap tarp to throw over him
+>that's how you ended up in El Salvador
+>far away from Gensyn
+>you knew some Spanish and had your life savings in cash and had it made… sort of 
+>thank God you never really liked being tied to a bank
+>a life around the water came naturally
+>the sun peeked through the blinders as you stretched in bed
+>you both had taken to sleeping naked due to the heat
+>his rough skin against yours was becoming normal now
+>you ended up getting rubber sheets down the line for the bed
+>then cheap fabric over that
+>they'd hold up under Alex tossing and turning more
+>that and his occasionally nightly dips for fresh water
+>though he usually toweled off before sliding into bed again
+>it wasn't unusual for you to look like a cat had scratched you up
+>worth it
+>he pushed back into your chest 
+>you moved his hair to kiss along his neck mark
+>"horny already?"
+>he had grown accustomed to his new body and your reactions had probably helped
+>he still wasn't wearing a seashell bra
+>no amount of cupping his pecs could convince him
+>the small fin on his back made getting super close difficult but like everything, you'd manage
+>hiding him from prying eyes was easy when you had a floating home
+>not surprisingly he took to the idea
+>the boat was a little rickety
+>but you'd made it home
+>you asked what he wanted for breakfast 
+>"fry up some of the leftover ham"
+>thankfully he didn't have the appetite of a shark
+>but he did have a fondness of meat
+>you'd eked out a meager life for you both and he'd been more of a help than he'd realized
+>fishing was easy when you had him driving schools toward your net
+>you occasionally came in empty to throw off suspicions 
+>you'd moved out here to flee attention 
+>you kissed along his shoulders and pulled away
+>he curled up and with the sun casting down on him he was pretty as a picture
+>he'd picked up a few marks and nicks here and there
+>but he never seemed to mind
+>you kept him patched up despite any objections that he was fine
+>of course he'd always say he was fine
+>you did like that the mutation seemed to make his hair grow longer
+>he'd always had long dark locks but now it hung past his tail
+>more than once you trimmed it back for him
+>Gensyn and your old lives were slowly fading from your mind
+>you of course couldn't speak for Alex but he'd hadn't attempted to take his own life since that night
+>maybe the almost drowning did make him realize he was needed
+>you'd never seen him that angry before
+>however that plunge seemed to do the trick 
+>Gensyn had plenty to worry about now and your boyfriend hopefully could pick up the pieces of his life
+>you'd be there every step of the way
+>you had thrown on a shirt and sweats just because frying without clothes sounded unpleasant 
+>the money you brought in slowly allowed you to keep this tin can running
+>you had no idea about fishing or boat maintenance before this but you'd figured Alex would need the sea more than anything
+>and you were right
+>more than once you got out to the water and he genuinely enjoyed himself
+>he could get to an insane speed
+>sometimes you worried about predators but the enhanced senses meant he was hard to sneak up on
+>you refused to go out too far because oceanic white tips
+>he had told you enough about those things and you didn't share his enthusiasm for them
+>he started enjoying this new body more with the swimming 
+>more than once he seemed to come back on deck eager
+>maybe his new instincts?
+>hard to say
+>you discouraged him from grabbing a meal out there
+>even with the new body he'd eat at the little nook like a civilized human being
+>you would cook the catches he'd bring up to you though, as a compromise 
+>when the ham started sizzling in the pan you saw he'd flipped over to watch you
+>his slender body with all that deceptive muscle coiled up
+>smartest guy you'd ever met and he was this deadly predator at the same time
+>he flicked his hair away from his eye and watched your work
+>you were not a 5 star chef by any means, but it worked
+>you took your eyes off him and that's all the time it took for him to clear across the room at slip behind you
+>"after breakfast, you want to take us out?"
+>that was a tempting offer
+>the tone in his voice promised fun time after
+>he was getting better about knowing how to play to your urges
+>still didn't understand just why you were attracted to him
+>but he was starting to understand if he said please in the right whisper it would give him the keys to the kingdom
+>he pressed his snout towards your neck and he inhaled softly
+>"you should wear less antiperspirant, I like it when you sweat."
+>you was trying to hit buttons
+>successfully, mind you
+>you remarked you had a surprise later
+>that got his attention and Alex rested his head on your shoulder
+>"I hope this will not be the build up to a punchline involving your penis?"
+>you were a horndog but not a predictable one
+>you hoped
+>you turned your head to peck him on the cheek before flipping the ham onto a plate
+>you ruffled his hair and he released you to throw the pan into the sink
+>your surprise involved a sandbar you'd spotted a week ago
+>a spot where land closest met the sea
+>perfect place to make good on your promise
+>he was curious but didn't pry too much
+>by now he'd learned to trust you
+>he rarely bothered wearing clothes onboard anymore 
+>your life now involved the pantsless shark devouring ham in your dining/living/bedroom
+>for his part, you'd already been the one shred of his social life before the transformation
+>he wasn't one for people before
+>if it wasn't for you he'd be a hermit or dead
+>so after breakfast you started up the motor and took the boat out towards the shore you'd seen the remote sandbar
+>as busy as the main port was it tended to have stuff coming in and straight out
+>about a half hour out the sandbar finally appeared on the side of your ship
+>you set down anchor nearby
+>Alex looked over to you, looking for some sort of sign
+>you read his body but chose not to answer
+>you both swam over, he slowed down to keep pace with you 
+>the scenery of cliffs and jungle above you made this picturesque 
+>you'd do just that when you got back
+>right now you focused on the task at hand
+>once you got to shore you faked falling over
+>Alex went to grab you but you caught yourself on one knee
+>you clasped a hand over his outstretched wrist
+>in the blink of an eye he had a ring slipped on his clawed finger
+>it wasn't much, you hated to admit
+>it took a little saving, hard to do on a fisherman's budget
+>but it matched yours
+>it took him a few seconds to process
+>"your promise…"
+>you hadn't forgotten
+>granted it had been a few months give or take
+>but you made good on it
+>he fell to his knees to meet you and kept looking down at his hand
+>"I tried killing myself by biting this hand off."
+>you hoped this wasn't going into a dark area
+>"you put a ring on this hand."
+>you looked him over
+>"you really do want me."
+>well, want is too weak a word
+>you corrected him and said need was a better word
+>what you two had gone through 
+>it would break lesser men
+>in the back of your head you hated that it wouldn't be "official"
+>you ran off a fake name and Alex was fine being forgotten except by you
+>only you two would really know he carried your name
+>it was a small gesture but you wanted to actually take a step forward 
+>to show he was worth it
+>he awkwardly clasped his hand to yours
+>the rings made contact
+>simple silver
+>it showed up on his blue skin better
+>he sat there for a moment in silence
+>"I never imagined this"
+>well the future was strange and uncertain 
+>a lot like the seas
+>but you wanted to share both with Alex
+>you'd taken to this life and actually enjoyed it
+>the shark twink shoved you over onto the sand bar and sat on your lap
+>"you really meant all that stuff about mates for life."
+>well if his sense of smell was so great he could figure that one out
+>he decided to collapse on you
+>he didn't weigh that much but the surprise knocked the wind out of you for a second 
+>"I can agree with that."
+>he snuggled up to with the passion he only also showed Mr. Snaggletooth 
+>you offered to go in to town and bring home something to cook as a celebration 
+>it was meager but you wanted to do something
+>"you already got us jewelry."
+>how about fried squid?
+>"acceptable"

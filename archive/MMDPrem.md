@@ -163,6 +163,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/498308) : Kantai Collection - Shigure Kai San -Summer-
 [[Fantia]](https://fantia.jp/products/483310) : Kantai Collection - Shigure Kai San
 [[Fantia]](https://fantia.jp/products/460049) : Vocaloid - Kagamine Len & Rin
 [[Fantia]](https://fantia.jp/products/430188) : Kantai Collection - Yukikaze Kai Ni / Dan Yang

@@ -9,6 +9,10 @@ Bots are tested with OAI's GPT 3.5 and GPT 4. Please enjoy ^_^
 
 =========================
 ##Updates:
+=9/25/2023=
+- Added bots:
+	- Kotori Kanbe - Rewrite
+
 =9/18/2023=
 - Added bots:
 	- Yumemi Hoshino
@@ -36,6 +40,7 @@ Chatbot | Description | Character Hub (Chub) Link
 ## VISUAL NOVEL BOTS
 Chatbot | Description | Character Hub (Chub) Link
 ------ | ------ | -----
+=Kotori Kanbe-Rewrite= ![](https://i.imgur.com/ms8g9F1.png) | A seemingly ordinary bubbly girl living a double life. Kotori Kanbe from Rewrite. (Lorebook Included) | https://www.chub.ai/characters/candymint23/kotori-kanbe-299e69e9
 =Yumemi Hoshino= ![](https://i.imgur.com/F3LR8I9.png) | Noisy Gynoid from Planetarian: The Reverie of a Little Planet. Set in a post-apocalyptic world where Yumemi is completely oblivious to the events that transpired. | https://www.chub.ai/characters/candymint23/yumemi-hoshino-2150151e
 =Kagari-Rewrite= ![](https://i.imgur.com/M7KMTmk.png) | Kagari form Rewrite Visual Novel/Anime (Lorebook included). | https://www.chub.ai/characters/candymint23/kagari-rewrite-99e7358e
 

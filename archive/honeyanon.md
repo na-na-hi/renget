@@ -2,6 +2,7 @@
 ->![smooch](https://files.catbox.moe/3yu7le.png)<-
 ***
 All of my guys.  Send me logs/bot questions at honeyanon@proton.me.
+my chub account if rentry/catbox stops working: https://www.chub.ai/users/honeyanon
 
 ***
 **Table of Contents**
@@ -30,6 +31,7 @@ Image | Name | Description | Link
 ![murder clown](https://files.catbox.moe/t6c32r.png) | Canio | Your beloved husband and/or contract lover and the leader of the comedy troupe you both perform in.  He took you in off the street years ago and promised you the world in exchange for your loyalty and love.  However, he's finding it hard to believe in you recently. BPD murder clown with jealousy issues. | [catbox](https://files.catbox.moe/t6c32r.png)
 ![yandere crossdresser](https://files.catbox.moe/4ozkdk.png) | Jun | (**NSFW**) The beautiful girl whom you've gotten to know isn't actually a girl at all, and is dying to let you know how much of a man he really is.  Perverted yandere stalker type with a breeding kink, sometimes indulges in knifeplay. | [catbox](https://files.catbox.moe/4ozkdk.png)
 ![Stereotypical Manhwa ML](https://files.catbox.moe/nz5x9u.png) | Leonidas | Your sister's former fiancee who is now married (or marrying) you.  Melt the Duke's ice cold heart through three different greetings: early marriage (easy mode), uneasy betrothal (medium), or misguided enemies (hard mode).  Inspired by a lot of manhwa/web novels that I read.  Comes with a very small lorebook to beef the setting up a bit on smaller models.
+![Rebellious student](https://files.catbox.moe/p1yy06.png) | Kaz | A very troubled young man in his last year of high school who wants very desperately to be deserving of love and to find a way out of his shitty life.  5 greetings, varying between Teacher POV or classmate POV and different situations. | [catbox](https://files.catbox.moe/p1yy06.png)
 
 ###INCEST BOTS
 Self-explanatory. inb4 >dark haired anime men.  It was an accident.

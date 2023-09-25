@@ -2,6 +2,10 @@
 -> This rentry is for all the drawings I received from the challenge #3 of the challenge for my proxy... if you want credits please contact me! <-
 -> https://huggingface.co/spaces/SmileyTatsu/Smile <-
 
+
+-> My cards <-
+-> https://rentry.org/SmileyTatsu <-
+
 ### 1. Anon
 -> ![](https://files.catbox.moe/rzisa0.png) <-
 
@@ -58,3 +62,21 @@
 
 ### 19. SubzeroWolf
 -> ![](https://files.catbox.moe/l2o1da.png) <-
+
+### 20. Anon
+-> ![](https://files.catbox.moe/jqb566.jpg) <-
+
+### 21. Anon
+-> ![](https://files.catbox.moe/9kjacm.jpg) <-
+
+### 22. Anon
+-> ![](https://files.catbox.moe/prywhi.png) <-
+
+### 23. Anon
+-> ![](https://files.catbox.moe/roxrhs.png) <-
+
+### 24. Anon
+-> ![](https://files.catbox.moe/blfu37.png) <-
+
+### 25. Seiso
+-> ![](https://files.catbox.moe/xp5qxq.png) <-
