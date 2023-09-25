@@ -18,7 +18,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Favorite Flavor:** None
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 5 | **Experience to Next Level:** 0/50 | **Alignment:** True Neutral
+**Level:** 5 | **Experience to Next Level:** 10/50 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *None* | **Age:** Unknown
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
@@ -104,7 +104,7 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Empty | None
+1. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
 2. Empty | None
 3. Empty | None
 4. Empty | None

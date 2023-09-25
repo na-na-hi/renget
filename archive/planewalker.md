@@ -247,6 +247,11 @@ Edgar | Info
 ![](https://files.catbox.moe/yo7pg9.png)   | You're having a hard time sleeping when a strange young man in fancy clothes shows up in your bedroom offering to help. Surely he means well, right? Inspired by [Dream-Eating Monochrome Baku](https://www.youtube.com/watch?v=qYlGv9BJTCY)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/edgar-a627b3da),  [Catbox](https://files.catbox.moe/ygb9rs.png), [Alternate card art](https://files.catbox.moe/9erc3g.png)
 
+Charlie | Info
+:----:  | :----: 
+![](https://files.catbox.moe/4zfq12.png)   | As you're exploring a theater slated for demolition, you come across the prop room. Inside you find a life-sized clown doll that seems to be sentient...and just waking up after a several decades-long nap. Comes with an alternate greeting where you've fixed up the theater and are working with him.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/charlie-5553381e),  [Catbox](https://files.catbox.moe/s964ua.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

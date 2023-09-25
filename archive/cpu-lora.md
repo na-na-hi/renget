@@ -21,14 +21,23 @@ Next we need to be able to compile llama.cpp, and the tools you need depend on w
 
 You'll want to use [cuBLAS](https://github.com/ggerganov/llama.cpp#cublas), which requires installing the CUDA dev kit.
 
+!!! warning Using cuBLAS is much faster, but consumes much more RAM. See [Appendix A](#appendix-a-hardware-requirements) for metrics.
+    If you still want a slight speed boost for no additional RAM usage, use the [Other GPU Tools](#other-gpu-tools) section.
+
 1. Install [CMake](https://cmake.org/)
 2. Install [Visual Studio, Community 2022](https://visualstudio.microsoft.com/vs/) (because it makes the CUDA dev kit happy)
 3. During install, under "Desktop & Mobile", select "Desktop development with C++", and click install. You don't need to run it after the install completes.
 4. Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
 
+### AMD GPU Tools
+
+!!! danger Attention AMD GPU Users! [hipBLAS](https://github.com/ggerganov/llama.cpp#hipblas) *should* work, but I don't have an AMD GPU to try it. If you figure it out, let me know the instructions and I'll update the guide!
+
+For now, use the [Other GPU Tools](#other-gpu-tools) section. 
+
 ### Other GPU Tools
 
-For AMD and Intel GPUs, you'll want to use [CLBlast](https://github.com/ggerganov/llama.cpp#clblast). AMD GPU users may eventually want to use [hipBLAS](https://github.com/ggerganov/llama.cpp#hipblas), once Windows is supported.
+For "other" (e.g., Intel) GPUs, you'll want to use [CLBlast](https://github.com/ggerganov/llama.cpp#clblast). CLBlast is also a RAM-friendly alternative to cuBLAS for NVIDIA users.
 
 1. Install [CMake](https://cmake.org/)
 2. Install [Visual Studio, Community 2022](https://visualstudio.microsoft.com/vs/)
@@ -43,8 +52,6 @@ For AMD and Intel GPUs, you'll want to use [CLBlast](https://github.com/ggergano
 
 1. Download the latest [w64devkit](https://github.com/skeeto/w64devkit/releases) (you want the file named `w64devkit-fortran-x.xx.x.zip`)
 2. Unzip it, move the files to `C:\lora\w64devkit`
-3. Download the latest [OpenBLAS](https://github.com/xianyi/OpenBLAS/releases) (you want the file named `OpenBLAS-x.x.xx-x64.zip`)
-4. Unzip it, move the inner folders to `C:\lora\w64devkit\x86_64-w64-mingw32` (folders with the same names will already exist, this should merge them)
 
 ## llama.cpp Setup
 
@@ -65,6 +72,12 @@ This part of the guide branches slightly based on your GPU as well.
 5. Move back to our root folder: `cd ..\..`
 6. Copy the exe's for convenience: `copy .\llama.cpp\bin\Release\*.exe .\llama.cpp`
 
+### AMD GPU Compile
+
+!!! danger Attention AMD GPU Users! [hipBLAS](https://github.com/ggerganov/llama.cpp#hipblas) *should* work, but I don't have an AMD GPU to try it. If you figure it out, let me know the instructions and I'll update the guide!
+
+For now, use the [Other GPU Compile](#other-gpu-compile) section. 
+
 ### Other GPU Compile
 
 1. Create a build directory: `mkdir .\llama.cpp\build`
@@ -79,9 +92,8 @@ This part of the guide branches slightly based on your GPU as well.
 
 1. Run the compiler tools: `w64devkit\w64devkit.exe`
 2. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
-3. Compile everything: `make all -j LLAMA_OPENBLAS=1`
+3. Compile everything: `make all -j`
 4. Once it's done compiling, close the compiler tools: `exit`
-5. Copy the dll for OpenBLAS: `copy .\w64devkit\x86_64-w64-mingw32\bin\libopenblas.dll .\llama.cpp`
 
 ### Updating llama.cpp
 
@@ -97,28 +109,30 @@ This part of the guide branches slightly based on your GPU as well.
 3. Open a command prompt and move to the working folder: `cd C:\lora`
 4. Run the finetune utility: `llama.cpp\finetune.exe --model-base the-model-you-downloaded.gguf --train-data your-training-data.txt --threads 14 --sample-start "<s>"`
 
-Obviously you will need to adjust step 4 to specify your actual base model name, training data name, sample start string, and the number of threads (physical processors) in your system.
+Obviously you will need to adjust step 4 to specify your actual base model name, training data name, sample start string, and the number of threads (physical processors) in your system. See my [other guide](https://rentry.org/llama-cpp-conversions) if you need to convert your model to [FP32 GGUF](https://rentry.org/llama-cpp-conversions#converting-models-to-gguf) (FP16 currently doesn't work), or [other quantized formats](https://rentry.org/llama-cpp-conversions#quantizing-models).
 
 !!! warning The above command uses the default values for a ton of settings.
     Go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
 
 !!! info See [Appendix B](#appendix-b-training-example) for a full training example using training data/chat logs from SillyTavern.
 
-!!! info See [Appendix E](#appendix-e-converting-models-for-llamacpp) if you would like to know how to convert a base model into a GGUF or if you want to quantize a model yourself.
+Now, LoRA's have one big downside: **You can't offload layers to the GPU while you're using them.** So once you have your LoRA, you should [merge it with the base model](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model) to fix this problem. Merging is very fast, it typically only takes a few seconds. Make sure you hang on to the LoRA binary in case you want to merge it with a different base model later on.
 
 ## Use your LoRA
 
-Obviously, you can just use llama.cpp's `main.exe` to run your LoRA. The command to do that would look something like:
+**If you [merged your LoRA with the base model](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model), then you would just use it like any other GGUF model. No special handling required.**
 
-`llama.cpp\main.exe --model the-model-you-downloaded.gguf --lora ggml-lora-LATEST-f32.gguf --prompt "The text you would like it to complete."`
+If not, some tools also provide interfaces to use LoRA's, for example you can use llama.cpp's `main.exe` to run your LoRA. The command to do that would look something like: `llama.cpp\main.exe --model the-model-you-downloaded.gguf --lora ggml-lora-LATEST-f32.gguf --prompt "The text you would like it to complete."`
 
-If you're using something like [`koboldcpp`](https://github.com/LostRuins/koboldcpp), **in addition to specifying the base model you used for training**, you also need to pass it the output `ggml-lora-LATEST-f32.gguf` file in the UI under Lora, or using the command line `--lora ggml-lora-LATEST-f32.gguf`. Make sure you specify both the original model AND the LoRA. The LoRA will not work on its own.
+They also work with `server.exe` using the same `--lora` parameter.
+
+[koboldcpp](https://github.com/LostRuins/koboldcpp) has a LoRA field in the UI where you would enter `ggml-lora-LATEST-f32.gguf` or you could use the command line `--lora ggml-lora-LATEST-f32.gguf`. Make sure you specify both the original model AND the LoRA. The LoRA will not work on its own.
 
 If you share the LoRA with others, make sure to also mention which base model you used! Remember to include the full file name, including the quantization!
 
 ### Runtime LoRA Scale & Multiple LoRAs
 
-If you use llama.cpp's main.exe, [see the documentation for finetune.](https://github.com/xaedes/llama.cpp/tree/finetune-lora/examples/finetune) Basically you can adjust how strongly the LoRA is applied to the model without retraining, and you can even combine multiple LoRA's at once.
+If you use llama.cpp's main.exe, [see the documentation for finetune.](https://github.com/xaedes/llama.cpp/tree/finetune-lora/examples/finetune) Basically you can adjust how strongly the LoRA is applied to the model without retraining, and you can even combine multiple LoRA's at once. The [merging tools](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model) also support this feature.
 
 ## Appendix A - Hardware Requirements
 
@@ -161,7 +175,7 @@ Links to files:
 
 - [shakespeare.txt](https://raw.githubusercontent.com/brunoklein99/deep-learning-notes/master/shakespeare.txt)
 - [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2), [open_llama_13b](https://huggingface.co/openlm-research/open_llama_13b)
-  - Converted and quantized it myself using the instructions in Appendix E to save bandwidth
+  - Converted and quantized it myself to save bandwidth
 
 Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests). Commit [`1cef459`](https://github.com/ggerganov/llama.cpp/commit/1cef45953b404b215f80ec6cceced73da8109abc) was used for testing. I will only retest if a new commit seems like it will have some impact.
 
@@ -322,8 +336,7 @@ Additional notes:
 
 ### 34B, 70B
 
-!!! danger I am working on these tests now and I hope to have some results by the end of the week.
-    Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
+!!! danger I am working on these tests now. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
 
 ## Appendix B - Training Example
 
@@ -394,11 +407,13 @@ Next, just follow the "Create your LoRA" instructions above, and use this comman
 
 !!! info Make sure to read [Appendix C](#appendix-c-finetuneexe-usage) to see which additional parameters to use to improve your model quality.
 
+Once you're happy with it, consider [merging it with the base model](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model) so that you can offload some GPU layers during inference.
+
 ## Appendix C - finetune.exe Usage
 
 The command line help is good, but I still had a few questions about the meaning of some parameters, so I'm trying to compile what I learn here. Some parameters are self-explanatory. If any of these are wrong, or you can clarify them better, please let me know! I have tried to categorize them, and order them to make it easier to get started.
 
-Arguments are based on commit `7898652`.
+Arguments are based on commit `da05205`.
 
 ### File Management
 
@@ -417,7 +432,7 @@ These parameters just help organize files/control file naming.
   - Example: `--checkpoint-out chk-lora-stheno-l2-13b-q5_k_m-ITERATION.gguf`
   - The word 'ITERATION' is special: it will be replaced with the iteration number or 'LATEST'.
 - `--lora-out FNAME`: Path to save llama lora (default 'ggml-lora-ITERATION-f32.gguf')
-  - This is the name of the output LoRA. Output LoRA's can be generated for any iteration, like checkpoints.
+  - This is the name of the output LoRA. Output LoRAs can be generated for any iteration, like checkpoints.
   - Example: `--lora-out lora-stheno-l2-13b-q5_k_m-ITERATION.gguf`
   - The word 'ITERATION' is special: it will be replaced with the iteration number or 'LATEST'.
 - `--pattern-fn-it STR`: Pattern in output filenames to be replaced by iteration number (default 'ITERATION')
@@ -480,7 +495,7 @@ These first three control the context size:
 - `-c N`, `--ctx N`: Context size used during training (default 128)
   - The context size used during training is similar to the context size you use during text generation. Larger sizes greatly increase memory usage and training time, so beware.
     - Using a context size smaller than the base model *shouldn't* affect the base model too much, but **each of your training data sections *should* be under this context size**, or they will be cut off at the context size.
-      - Consider spliting large training data sections into multiple smaller sections.
+      - Consider splitting large training data sections into multiple smaller sections.
   - Example: `-c 2048`
 - `--rope-freq-base F`: Frequency base for ROPE (default 10000.000000)
   - Usually you set this number to match the rope frequency base used on the input model.
@@ -586,11 +601,8 @@ These are things you probably don't want to use, or just won't care about.
 
 I'm just using this section to compile all the questions I've seen and there answers. If you have a better answer, please let me know and I'll update!
 
-**Q:** Can llama.cpp LoRA weights be merged into the base model?
-**A:** Not currently. They're working on it.
-
-**Q:** Can you somehow convert it to GPTQ?
-**A:** No, mostly because of the above reason.
+**Q:** Can you somehow convert it to GPTQ/other formats?
+**A:** Not currently. There's no practical reason why you couldn't convert it back to a regular model, it's just that no one has written a tool to do it.
 
 **Q:** Does this mean that I could use Star Trek episode scripts to fine tune a model for a more accurate Spock with access to his dialogue from said scripts?
 **A:** Kind of. It depends on the `rank` settings you use, and repitition. Your Spock card would be more likely to accurately portray Spock, but it wouldn't necessarily be able to recall specific things from the training data. What it chooses to remember is mostly random, and training data is not stored verbatim. However, if you repeat the same information multiple times (preferably rephrasing it each time), it will be more likely to use and remember those things. Think of it like the auto-correct in your phone. If you type "We finish each others ", and had it predict the next word, out-of-the-box it would predict "sentences". But if you frequently use the word "sandwiches" in that context instead, it detects the pattern and becomes increasingly more likely that it will say "We finish each others sandwiches". If you use a higher rank setting, it will be more likely to remember facts from the training data.
@@ -611,40 +623,13 @@ It can also get stuck on `main: tokenize training data` for quite a while if you
 **Q:** Some of RAM sizes you reported are smaller than the size of the model itself. Is that wrong? How is it so memory efficient?
 **A:** See [this post](https://github.com/ggerganov/llama.cpp/pull/2632#issuecomment-1714366066). It explains it well, and is a good read.
 
-## Appendix E - Converting Models for llama.cpp
-
-While [TheBloke](https://huggingface.co/TheBloke) offers all the quantized versions you should ever need, there are still a few reasons why you might want to convert models yourself. For example, you may want to use the `fp32` format for the highest quality, to quantize yourself later on, or there may not be quantized versions of your base model available.
-
-1. Install the [Required Tools](#required-tools) mentioned above, also install the tools for "No GPU", even if you have a GPU.
-2. Install [Python](https://www.python.org/) (3.10 or newer, use the 64-bit installer)
-3. Open a command prompt and move to our working folder: `cd C:\lora`
-4. Download your model using git, for example: `git clone https://huggingface.co/Sao10K/Stheno-L2-13B`
-5. Create a python virtual environment: `python -m venv .env`
-6. Activate the environment: `.env\Scripts\activate.bat` (or use  `.env\Scripts\Activate.ps1` if you used PowerShell)
-7. Install the required python modules to the environment: `pip install -r llama.cpp\requirements.txt`
-8. Convert your model to a FP32 GGUF: `python llama.cpp\convert.py Stheno-L2-13B --outtype F32 --outfile Stheno-L2-13B.FP32.gguf`
-
-Some steps above only need to be done once. If you run need to run this again later on, you can skip steps 1, 2, 5, and 7.  Now, you can directly use that file to train a LoRA, but you can also quantize it into more efficient formats:
-
-1. Open a command prompt and move to our working folder: `cd C:\lora`
-2. If you don't already have llama.cpp, follow step 2 of the [llama.cpp Setup](#llamacpp-setup).
-3. Run the compiler tools: `w64devkit\w64devkit.exe`
-4. Once you see `~ $`, move to the llama.cpp repo: `cd C:/lora/llama.cpp` (Make sure to use forward slashes!)
-5. Get rid of any existing compiled files: `make clean`
-6. Compile the quantize executable with a special flag (see note below): `make quantize -j LLAMA_QKK_64=1`
-7. Rename the quantize executable: `mv quantize.exe quantize-qkk-64.exe`
-8. Get rid of intermediate files again: `make clean`
-9. Compile everything again: `make all -j`
-10. Once it's done compiling, close the compiler tools: `exit`
-
-!!! warning Ideally, we want to quantize our models with `quantize.exe`, which provides a more efficient format. However, some models don't work with the default settings, so we need to use the special `quantize-qkk-64.exe` version of it to quantize our model instead. If you get an error when quantizing a model, try using `quantize-qkk-64.exe` instead.
-
-Finally, quantize the model: `llama.cpp\quantize.exe Stheno-L2-13B.FP32.gguf Stheno-L2-13B.Q8_0.gguf Q8_0`
-
-Replace the model name with the name of the model you converted above. Replace `Q8_0` with the quantization type you would like to use. Make sure you replace it in both the file name and the format specifier at the end.
-
 ## Changelog
 
+- 2023-09-24
+  - [Moved file conversion & model merging to its own page](https://rentry.org/llama-cpp-conversions).
+  - Misc. other updates
+- 2023-09-22
+  - Updated for changes in llama.cpp, up to commit xaedes:da05205
 - 2023-09-16
   - Updated instructions for compiling with GPU acceleration.
 - 2023-09-13

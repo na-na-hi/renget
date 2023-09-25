@@ -37,13 +37,41 @@
 
 # 📑 ➜ Browser Emulation
 
+### 🌐 [Classic games online](https://playclassic.games/)
+- Play the top vintage DOS or vintage console games right now in your web browser and bring back fond memories.
+- [URL Safety Results](https://www.urlvoid.com/scan/playclassic.games/)
+
+### 🌐 [ClassicReload](https://classicreload.com/)
+- DOS games in your browser thanks to the preservation of over 6,000 ancient retro abandonware games.
+- [URL Safety Results](https://www.urlvoid.com/scan/classicreload.com/)
+
+### 🌐 [Free 80s Arcade](https://www.free80sarcade.com/)
+- Free online games from the past like Atari, NES, Colecovision, and Sega in your browser or on your phone.
+- [URL Safety Results](https://www.urlvoid.com/scan/free80sarcade.com/)
+
+### 🌐 [MyEmulator](https://myemulator.online/)
+- Get the greatest vintage games available online. Are you prepared to play? Let's get going!
+- [URL Safety Results](https://www.urlvoid.com/scan/myemulator.online/)
+
 ### 🌐 [Play Retro Games Online](https://www.retrogames.onl/)
 - Very convenient consoles from Nintendo, Sega, and Sony available in your browser.
 - [URL Safety Results](https://www.urlvoid.com/scan/retrogames.onl/)
 
-### 🌐 [Retro Games Online](https://www.playretrogames.com/)
-- Online gaming of your favorite retro classics from SNES, NES, SEGA, GBA, and GBX.
-- [URL Safety Results](https://www.urlvoid.com/scan/playretrogames.com/)
+### 🌐 [RetroGames](https://www.retrogames.cz/)
+- Preserving the 1980s and 1990s video games, developed for consoles and platforms that are no longer available.
+- [URL Safety Results](https://www.urlvoid.com/scan/retrogames.cz/)
+
+### 🌐 [Retro Games](https://retrogamesonline.io/)
+- Recognizing and maintaining the heritage of numerous retro video games from various systems and genres.
+- [URL Safety Results](https://www.urlvoid.com/scan/retrogamesonline.io/)
+
+### 🐐 [SSega](https://www.ssega.com/)
+- Play every 16-bit classic SEGA Genesis/ Mega Drive game available online on your browser.
+- [URL Safety Results](https://www.urlvoid.com/scan/ssega.com/)
+
+### 🌐 [webЯcade](https://www.webrcade.com/)
+- On a wide range of platforms, games are natively executed within the browser under the control of cloud-based gaming feeds. 
+- [URL Safety Results](https://www.urlvoid.com/scan/webarcade.com/)
 
 &nbsp;
 

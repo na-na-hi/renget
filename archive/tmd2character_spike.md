@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

@@ -378,6 +378,7 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 ##Reborn Multi-LP
 !!! note Status: Completed
     It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
+
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
 https://arch.b4k.co/vp/thread/54287275/ 3 golden ipod award
@@ -410,8 +411,10 @@ https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
 ##Empire Multi-LP
 !!! info Status: Ongoing
-we're playing pretentious political """satire""" & societal criticism: the fangame again
-expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be
+    we're playing pretentious political """satire""" & societal criticism: the fangame again
+    expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be
+    there's a reason most of the players dropped out before the third badge
+
 https://arch.b4k.co/vp/thread/54459801/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
 https://arch.b4k.co/vp/thread/54471901/ 3 nice op, retard
@@ -423,4 +426,4 @@ https://arch.b4k.co/vp/thread/54506876/ 8 obligatory oversized city map
 https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
 https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
 https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
-https://arch.b4k.co/vp/thread/54548761/ 12
+https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything

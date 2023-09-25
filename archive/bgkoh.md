@@ -7,9 +7,9 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** 
-**Level:** 6 | **Experience to Next Level:** 50/60
+**Level:** 7 | **Experience to Next Level:** 0/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 119₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 169₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -71,8 +71,8 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
 2. Pomeg Berry | Sweet and spicy, with bitter aftertaste. (1 Spicy, 1 Sweet)
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Aspear Berry |  Thaws the user. Heals Freeze.
+4. Nifty box | Light and convenient to carry around. Seems to contain any kind of item.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

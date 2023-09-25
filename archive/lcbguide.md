@@ -14,7 +14,7 @@ You don't *need* to. Dante (literally you) has no knowledge of what happened in 
 **3. What can I expect from this game?**
 A great story, characters and setting. On top of that, jank, but fun gameplay that might not be very well-balanced. Library of Ruina during its early access phase kept releasing difficult updates, which were then subsequently nerfed because of Stemfags crying because they couldn't handle the difficulty. 
 
-Also note that, unlike other gachas, We to have set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of characters being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to one specific niche, so you will likely have at least one character to waifu/husbandofag over.
+Also note that, unlike other gachas, We to have set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of characters being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over.
 
 **4. This game has a required reading list?**
 Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe. Look at the Resources Rentry for further information.
@@ -29,7 +29,7 @@ Yes. There are only 3 rarity tiers, and you can currently clear all content with
 First, actually **READ** what you and the enemies do. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
 
 **7. Does this game have supports?**
-Yes. You can bring one of your friends units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped.
+Yes. You can bring one of your friend's units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **8. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -92,7 +92,7 @@ Now that you're in the main menu screen, perform the following loop.
 **1. Identities**
 This is the main thing you'll be rolling for, it's equivalent to other gacha's units. There are three rarities, denoted by the number of **0**'s. Lowest is **0**, highest is **000**. The naming is related to the Kabbalah.
 
-You can level up your identities by using XP tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
+You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
 **2. E.G.O**
 You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
 
@@ -103,7 +103,7 @@ Similarly to identities, you can upgrade E.G.O using Thread. This process is cal
 **3. Lunacy & Extractions**
 Lunacy is the roll currency. You can get Lunacy by collecting your weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon weekly bonus will give you 750 Lunacy. After every maintenance you get 300 compensation Lunacy.
 
-Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10
+Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10-rolls if you don't pay for daily rolls, because you're guaranteed one 00 Identity for every 10-roll.
 
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
@@ -132,7 +132,7 @@ As for E.G.O, rather than being converted into shards, it'll be removed from the
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
 **6. Battle Pass**
-The current Battle Pass price is $11. When a new season begins a new Battle Pass is introduced with it. You can check the duration of the current season on the Battle Pass page. The Battle Pass has a free track and a paid track.
+The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season on the Battle Pass page. The Battle Pass has a free track and a paid track.
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
@@ -181,17 +181,28 @@ Orienteer Supplies | 5040 | 60 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
 **1. What is the best way to farm?**
-You can farm as much as you want if you have the Enkephalin (This games version of energy) or Lunacy to spend on Enkephalin Modules. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
+You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
 Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass level. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
-In other words - yes, you really can farm every Identity and E.G.O in the game. 
+In other words - yes, you really can farm every Identity and E.G.O in the game.
+
+**3. What should I shard (spark) first, and when?**
+If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O at the top of the tier list, ones marked as Event/current Season, or both if it applies. You should also avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
+
+As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. If you really want something now whether it be for the Railway or something else, you can do it whenever.
+
+**4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
+This largely depends on how many Egoshards you have for that specific sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
+
+As for Random Egoshard Crates, open them whenever. They get halved at the end of the Season anyways.
+
 ## Seasons
-You can check the season an Identity or E.G.O belongs to below its name in the in tab. Those without a season shown are categorized into the \[Regular] tag. Event Identities and E.G.O have \[EVENT] marked next to their season tag.
+You can check the Season an Identity or E.G.O belongs to below its name in the Identity tab. Those without a Season shown are categorized into the \[Regular] tag. Event Identities and E.G.O have \[EVENT] marked next to their Season tag.
 ![Season Info](https://files.catbox.moe/z0re98.png)
 
-When a new Season begins, half of the previous Season's Egoshards will be carried over, converted and rounded up for the new Season. Half of the Egoshards in possession are carried over to the next season. The remaining Egoshards are converted into Thread.  The same applies for Egoshard Crates. The remaining Crates are converted into Thread Crates. You will be notified of the upcoming season change and expiration date of Egoshards and Egoshard Crates sometime before the next Season.
+When a new Season begins, half of the previous Season's Egoshards will be carried over, converted and rounded up for the new Season. Half of the Egoshards in possession are carried over to the next Season. The remaining Egoshards are converted into Thread.  The same applies for Egoshard Crates. The remaining Crates are converted into Thread Crates. You will be notified of the upcoming Season change and expiration date of Egoshards and Egoshard Crates sometime before the next Season.
 
 A new Season's Identities and E.G.O will be added to the list of Extractable items. Identities from previous Seasons remain in the pool, so you can still acquire them from Extraction. Only Event IDs and EGO will be removed from the pool.
 ![Extractions](https://files.catbox.moe/ijre2r.png)
@@ -225,6 +236,9 @@ Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 an
 
 Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
 
+**4. Damage**
+If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. You can't view the damage in a clash without calculating manually or switching the clashes and hoping that it displays.
+
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released and I don't want to do that. There are many other tier lists and resources for you to use if you need a full one.
 
@@ -237,7 +251,6 @@ R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also re
 **00 IDs**
 It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. G Outis is a good pick for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Heathcliff gets AOE on his slash envy skill 3 at Uptie 4 which can be useful for connect 4 memes.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Shi Association South Section 5 Heathcliff](https://files.catbox.moe/eopmhv.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
-
 
 **E.G.Os**
 Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps. Ardor Blossom Star at Uptie 4 pairs especially well with Liu Ishmael. And finally, Hong Lu's Dimension Shredder allows his K Corp ID to become functionality immortal. 
@@ -293,4 +306,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
-9/24/23: Fixing minor errors
+9/24/23: Fixing minor errors - Elaborated on sharting

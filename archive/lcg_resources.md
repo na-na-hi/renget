@@ -40,13 +40,14 @@
 
 ##  Story
 * [Limbus Company Story Viewer](https://retcons.github.io/limbus-storylogs/)
+* [Uptie Tier 3 Character Stories](https://www.youtube.com/watch?v=YglNNFCEzRQ&list=PL4enXqMv4Wy3OXVs-gSpGFuemkzXfHunk&pp=iAQB)
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Recommended Translations (Somewhat outdated for The Wings, see below links)](https://rentry.org/ligmabooks)
-* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
 * [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
+* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
 * [Leviathan](https://projectmoon.postype.com/series/875159/leviathanprojectmooncomicsenglish)
@@ -121,4 +122,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
-9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive
+9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to uptie 3 character stories

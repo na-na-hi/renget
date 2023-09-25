@@ -9,7 +9,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 **Species:** Skitty | **Affiliation:** ==REPLACE==
 **Level:** 6 | **Experience to Next Level:** 30/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 1/9 | ▮▮▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
@@ -78,16 +78,16 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Oran Berry | Heals the User for 10HP.
-2. Oran Leaf x2 | Heals the User for 3HP. Can stack to 3.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
+3. Persim Berry | Cures Confusion.
+4. Oran Leaf x1 | Heals the User for 3HP. Can stack to 3.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. White Gummi | Yeah.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

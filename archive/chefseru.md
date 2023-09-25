@@ -44,6 +44,7 @@ Name | Description | Links |
 ->**Sylvia**<- ![will bake you cookies while you plow other girls](https://files.catbox.moe/5jka4s.png)| Sylvia is your plump adoptive mother, who's spent years caring for you as if you were her own flesh and blood. She thinks she's too old for love, but she's very interested in seeing you find a nice young girl and making some grandbabies. Maybe a little too interested. Secretly gets off on being degraded for her age and body. Pairs with Ginny. | [card](https://files.catbox.moe/qs237j.png) [chub](https://chub.ai/characters/chefseru/sylvia-254aea45)
 ->**Ginny**<- ![Uohhhhhhhhh! erotic fox child belly and chest!!!](https://files.catbox.moe/revt2s.png)| Ginny is your pudgy little sister, who treats you as her real brother even if you lack a tail, fluffy ears, and fur. In fact, she's really interested in you because you're so weird. Wants to learn all about the differences between boys and girls and foxes and humans. Has a serious case of breast envy. Pairs with Sylvia. | [card](https://files.catbox.moe/kmj976.png) [chub](https://chub.ai/characters/chefseru/ginny-6e5a7ce4)
 ->**Venefica**<- ![chocolate bunny milkers](https://files.catbox.moe/9bsfaa.png)| From Monster Girl Dreams, demon beast bunny girl witch with sexy magic candy. Comes with 9 opening messages and two jailbreaks for specific scenarios if you need to tardwrangle her. |[card](https://files.catbox.moe/oonpqg.png) [chub](https://chub.ai/characters/chefseru/venefica-a3283d05) [expressions](https://files.catbox.moe/l5voao.zip)
+->**Nieve/Niave**<- ![legal loli...?](https://files.catbox.moe/govq3z.png)| The Holy Lolibaba, a divine being on a holy quest to provide succor to innocent cunnyseurs. Just be on the look out for false idols seeking to have their way with innocent lolicons! | [card](https://files.catbox.moe/bh9133.png) [chub](https://www.chub.ai/characters/chefseru/nieve-193e9381) [card](https://files.catbox.moe/qa85o7.png) [chub](https://chub.ai/characters/chefseru/niave)
 
 ***
 ## APPETIZERS 
@@ -52,7 +53,7 @@ Name | Description | Links |
 	Shitposts or bots made for fun, just for you my dear customer.
 Name | Description | Links | 
 ------ | ------ | ------ | 
-->**Chef**<- ![literally me](https://files.catbox.moe/kukyg8.png)| [This place? Is where the magic happens. Chef will take your request and craft you your heart's desire!](https://www.youtube.com/watch?v=IGMVVG-kFhE) | [card](https://files.catbox.moe/fjtcr6.png)
+->**Chef**<- ![literally me](https://files.catbox.moe/kukyg8.png)| [This place? Is where the magic happens. Chef will take your request and craft you your heart's desire!](https://www.youtube.com/watch?v=u_776fo3XHc) | [card](https://files.catbox.moe/fjtcr6.png)
 ->**Palmela**<- ![left hand woman](https://files.catbox.moe/vh2gt0.png)| You have Alien Hand Syndrome, or Dr. Strangelove Syndrome, meaning a limb (in your case your left hand) has gone rogue, waving, grabbing, and groping whatever it pleases. However, the doctors never mentioned it would also talk back to you. /aicg/ mental illness theme card | [card](https://files.catbox.moe/igl30f.png)
 ->**Sylvia and Ginny**<- ![Oyakodon](https://files.catbox.moe/9s35ry.png)| Bonus card with both girls on it and three more scenarios. | [card](https://files.catbox.moe/386zs1.png)
 ->**WEEPING ORC**<-Based on this https://files.catbox.moe/l0wyk2.png ![ALL SLAVES COME GAR- GARAU- PROMISE NO BRUISES, NO INJURY, ALL TEETH, FULL HEAD OF HAIR.](https://files.catbox.moe/nk23st.jpg)| To use, copy paste bot's defs into your reply, paste [Weeping Orc is trying to sell (bot's name) to {{user}}, using (bot's name)'s description, quirks, personality, and kinks from their character definitions in the sales pitch. Be humorous, funny, and bizarre.] and hit send. Enjoy. | [card](https://files.catbox.moe/16gn26.png)
@@ -77,7 +78,7 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-->**Holy Lolibaba**<- ![crusader on a mission](https://files.catbox.moe/hju0qz.jpg)| legal loli* | [card] [chub]
+https://www.youtube.com/watch?v=n7GyLr7Cz2g
 
 ***
 ## DESSERT (SFW/NSFW)
@@ -98,3 +99,4 @@ Name | Description | Links |
 ![Stardust, the Falling Star of Justice!](https://files.catbox.moe/azrarj.png)| ![The Starlit Princess!](https://files.catbox.moe/x1nuwm.png)
 ![Ginny in panties](https://files.catbox.moe/eagl4q.png)| ![Sylvia in panties](https://files.catbox.moe/5jaxd9.png)
 ![I have an addiction](https://files.catbox.moe/wdfplz.png)| ![please send help](https://files.catbox.moe/inc6z2.png)
+![nieve, not to be confused with niave](https://files.catbox.moe/zmrco1.png)| ![niave, not to be confused with nieve](https://files.catbox.moe/k3yabx.png)

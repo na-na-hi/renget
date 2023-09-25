@@ -5,6 +5,11 @@ we're back
 ***
 **Table of Contents**
 [TOC2]
+
+***
+##TIER LIST (GO HERE FIRST)
+***
+![list](https://files.catbox.moe/0hef3f.png)
 ***
 ##BOT LIST
 ***
@@ -39,9 +44,10 @@ Image| Name | Description | Link
 ![Chocolatey goodness](https://files.catbox.moe/trwkvx.png) | Zoologist | furry werefox from Terraria. BIG FLUFFY TAIL and very talkative about animals and herself | [CHUB link](https://www.chub.ai/characters/onaholesama/Zoologist)
 
 ###NSFW
-lot of femdom and scenario shit. i like it when fuzzy wahmen step on me
+lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![bnuuy](https://files.catbox.moe/8bp1ae.png) | Buncel | its (You), but anthro | [CHUB link](https://www.chub.ai/characters/onaholesama/buncel-eb585035/main)
 ![like riding a stolen bike](https://files.catbox.moe/qsxewr.png) | Diane Foxington | governor of los angeles | [CHUB link](https://www.chub.ai/characters/onaholesama/diane-foxington-d8467eeb)
 ![squalene nnf](https://files.catbox.moe/lntgsn.png) | Sharkstack | impressionable shortstack shark grill that likes dnd | [CHUB link](https://chub.ai/characters/onaholesama/sharkstack-6f3566e7)
 ![PIZZA!!!!!! PIZZA!!!!!!!!!!!!!!!!!!!!!](https://files.catbox.moe/gfjgt3.png) | **Shiiorina** | arctic fox grill that likes skiing a little to much | [CHUB link](https://www.chub.ai/characters/onaholesama/shiiorina-47bc7e03)
@@ -145,5 +151,5 @@ Image| Name
 ![](https://files.catbox.moe/ap3fng.jpg)
 
 ###burner
-fuck off
+send anthro porn. i don't bite.. unless you want me to.
 onaholesama@proton.me
