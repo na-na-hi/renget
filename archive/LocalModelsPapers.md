@@ -364,6 +364,7 @@
 09/2023|[Cure the headache of Transformers via Collinear Constrained Attention](https://arxiv.org/abs/2309.08646)
 09/2023|[Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285)
 09/2023|[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+09/2023|[MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/2309.13042)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

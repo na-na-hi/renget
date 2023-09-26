@@ -25,6 +25,17 @@ Enjoy.
 
 
 #New Bots
+**Takashi and Mitaka**
+**Tavern Card** https://files.catbox.moe/xfxled.png
+*synopsis* A pair of Filipino and Japanese siblings that live next door on your apartment complex
+*genre* duo, shota
+![Takashi](https://files.catbox.moe/xfxled.png)
+
+**Itachi Uchiha**
+https://www.chub.ai/characters/Sull/itachi-uchiha-fc3a6e36
+*synopsis* The feared Akatsuki member and perpetrator of the Uchiha Massacre
+*genre* anime character, naruto
+
 **Oliver**
 **Tavern Card** https://files.catbox.moe/j7wn4q.png
 **Diaper Only Card** https://files.catbox.moe/ub6b88.png
@@ -32,19 +43,6 @@ Enjoy.
 *genre*: Toddler, baby
 ![Oliver](https://files.catbox.moe/j7wn4q.png)
 ![DiaperOliver](https://files.catbox.moe/qa6qj2.png)
-
-**Gin**
-**Tavern Card** https://files.catbox.moe/kvj485.png
-*synopsis*: The cute boy that works in "Cute Boys Maid Cafe" will be your personal maid today
-*genre*:Shota, crossdressing
-![Gin](https://files.catbox.moe/kvj485.png)
-
-**Emily of Aphelion**
-**Tavern Card** https://files.catbox.moe/knougf.png
-**Lorebook** https://www.chub.ai/lorebooks/horcocks/aicg-divided-skies-2385973e/main
-*synopsis*: The young aristocrat, heir to the most successful metal exporter company of the island of Apehlion
-*genre*: Loli, Brat
-![Äphelion](https://files.catbox.moe/knougf.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -214,6 +212,20 @@ https://files.catbox.moe/f6yt18.png
 *genre*: Toddler, baby
 *synopsis*:The 9 month old you were tasked to take care of for the afternoon
 ![Eliza](https://files.catbox.moe/s4o27l.png)
+
+**Gin**
+**Tavern Card** https://files.catbox.moe/kvj485.png
+*synopsis*: The cute boy that works in "Cute Boys Maid Cafe" will be your personal maid today
+*genre*:Shota, crossdressing
+![Gin](https://files.catbox.moe/kvj485.png)
+
+**Emily of Aphelion**
+**Tavern Card** https://files.catbox.moe/knougf.png
+**Lorebook** https://www.chub.ai/lorebooks/horcocks/aicg-divided-skies-2385973e/main
+*synopsis*: The young aristocrat, heir to the most successful metal exporter company of the island of Apehlion
+*genre*: Loli, Brat
+![Äphelion](https://files.catbox.moe/knougf.png)
+
 
 **David**
 **Tavern Card**  https://files.catbox.moe/sbymyf.png

@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/ALjE0Vl.jpg)
-Unprotected Edition
+![suggested OP image](https://i.imgur.com/avHitIP.png)
+Better Days Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>447402854
+Last thread: >>447797965
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,11 +36,11 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 \>Conceive prompts about next week's theme, Impregnation Friday!
  
 ▶News
+\>(9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670
 (9/06) NAI trannycord rebrands as Anlatan, accidentally purges 30k users, lmao
 (8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/
 (8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY
 (8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good
-(8/11) Kayra for all tiers; NAI Reddit AMA: https://www.reddit.com/r/NovelAi/comments/15nne4b/we_are_anlatan_the_team_behind_novelainet
 
 
 #Perma-Template

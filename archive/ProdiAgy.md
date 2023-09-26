@@ -17,10 +17,9 @@
 !!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
 
 
-##Base iA3 Prodigy .json - Regularized Characters/Objects:
+##Base iA3 Prodigy .json - Characters/Objects:
 ### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps to your desired steps. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
-!!! warning ==IMPORTANT:==  Clip Skipping to the last possible layer (maximum 12 on SD 1.5) is the main way of preventing overtraining or rather limiting iA3 from training backgrounds and compositions because iA3 learns well at any CLIP. Find the maximum you can still learn your character properly at. You want to ideally slap the texture of your character over the structure of the model without changing anything else.
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only max_train_steps and T_0 to the total steps you want.``` ```T_0``` is the step scaling/iterations for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
@@ -44,7 +43,7 @@
   "max_train_steps": "100",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=True\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0.01\"",
+  "optimizer_args": "\"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0\"",
   "save_model_as": "safetensors",
   "text_encoder_lr": 1.0,
   "train_batch_size": 10, //SET TO 10 HERE, FITS IN 6GB VRAM, WATCH YOUR VRAM/GPU TEMPS

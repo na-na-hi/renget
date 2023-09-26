@@ -352,3 +352,6 @@ When adding new artists, link to their Patreon/fanbox/whatever, specify to which
 
 - 飯閃[Loli]
 	- [Fanbox](https://e1000myo.fanbox.cc/) (Not Pee-Focused)
+
+- タイヤ/tayyasan
+ 	- [Fanbox](https://tayyasan.fanbox.cc/)(Pee-Focused)

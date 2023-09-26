@@ -848,6 +848,8 @@ Arika Tsukishiro
 >>90138764
 Chie Mitarai
 >>90139598
+Fumie Fujii
+>>90357975
 
 >Glass Warriors
 Haruki Tsukuda

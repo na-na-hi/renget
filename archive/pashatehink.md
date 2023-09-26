@@ -12,7 +12,7 @@ TO-DO LIST: Sane Ukrainian girl.
 
 #Latest bot
 ##Ysabel
-->![Playtime's over! Grant me power!](https://files.catbox.moe/wb5jj2.png)<-
+->![Playtime's over! Grant me power!](https://files.catbox.moe/h0sx6j.png)<-
 Ysabel, a French vampire with a heart and skin colder than a stone, and a voice sweeter than honey. Created on 25th of September.
 https://www.chub.ai/characters/pashatehink/ysabel-14afb62b
 

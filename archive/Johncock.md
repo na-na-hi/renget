@@ -3,6 +3,11 @@
 [TOC2]
 ->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
+####->Zeeba<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Zeeba** ![Zeeba](https://files.catbox.moe/nbtgsf.png)  | https://www.chub.ai/characters/Johncock/zeeba-26751af9 | She is a seasoned goblin adventurer and a proficient wild mage with a cheerful and nurturing nature. And while she has vast experience in adventuring, it contrasts with her tendency to become flustered when it comes to matters of romance or sex. Get to know her and go on adventures together.
+
 ####->Slutty-chan<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 

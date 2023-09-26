@@ -181,10 +181,10 @@ Orienteer Supplies | 5040 | 60 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
 **1. What is the best way to farm?**
-You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
+You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass level. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
+Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
 In other words - yes, you really can farm every Identity and E.G.O in the game.
 
@@ -194,7 +194,7 @@ If you want to get the most out of your Egoshards, you can either focus on Ident
 As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. If you really want something now whether it be for the Railway or something else, you can do it whenever.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
-This largely depends on how many Egoshards you have for that specific sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
+This largely depends on how many Egoshards you have for that specific sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
 
 As for Random Egoshard Crates, open them whenever. They get halved at the end of the Season anyways.
 
@@ -249,7 +249,7 @@ R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also re
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. G Outis is a good pick for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies.
+It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. Both them and G Outis are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
@@ -276,7 +276,7 @@ MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 weekly bonuses)
 
 **4. Thread & EXP Luxcavation**
-Unlocked sometime after you beat chapter 2. Both can be either fought normally, or skipped for extra Module cost if you hate farming. XP stages have three levels - 8, 18 and 28. The higher the enemy level, the higher the rewards. Thread stages have two levels - 20 and 30.
+The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally, or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent, but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have three levels - 8, 18 and 28. The higher the enemy level, the higher the rewards. Thread stages have two levels - 20 and 30.
 
 **5. Refraction Railway**
 Endgame hard content. You have until the next railway to complete it for very good rewards, just with a considerable upfront Module cost. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests.
@@ -306,5 +306,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
-9/24/23: Fixing minor errors - Elaborated on sharting
-9/25/23: Fixed error in FAQ #13, removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes.
+9/24/23: Fixing minor errors - Elaborated on sharting.
+9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes. Elaborated on Luxcavation skipping.

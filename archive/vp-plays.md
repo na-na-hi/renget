@@ -426,4 +426,5 @@ https://arch.b4k.co/vp/thread/54506876/ 8 obligatory oversized city map
 https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
 https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
 https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
-https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything
+https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything and HOLY SHIT HEXES GET
+https://arch.b4k.co/vp/thread/54555855/ 13

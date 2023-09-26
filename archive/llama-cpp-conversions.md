@@ -38,7 +38,7 @@ To keep things simple, I recommend creating a single folder somewhere on your sy
 6. Activate the environment: `.venv\Scripts\activate.bat` (use  `.venv\Scripts\Activate.ps1` if you're using PowerShell)
 7. Install the required python modules to the environment: `pip install -r requirements.txt`
 8. Install pytorch: `pip install torch`
-9. Deactivate the environment: `deactivate`
+9. (Optional) Deactivate the environment: `deactivate`
 10. Move up one directory: `cd ..`
 11. Run the compiler tools: `w64devkit\w64devkit.exe`
 12. Once you see `~ $`, move to the llama.cpp repo: `cd C:/working-dir/llama.cpp` (Make sure to use forward slashes!)
@@ -60,14 +60,15 @@ To keep things simple, I recommend creating a single folder somewhere on your sy
 
 This converts models to the GGUF format (FP32 or FP16). For quantized models, see [the next section](#quantizing-models).
 
-1. Open a command prompt and move to our working folder: `cd C:\working-dir`
-2. Download your base model using git, for example: `git clone https://huggingface.co/Sao10K/Stheno-L2-13B`
-3. (Optional) Inside the model folder, you can delete the `.git` directory to save some hard drive space.
-4. Activate the environment: `llama.cpp\.venv\Scripts\activate.bat` (use  `llama.cpp\.venv\Scripts\Activate.ps1` if you're using PowerShell)
-5. Convert your model to a GGUF: `python llama.cpp\convert.py Stheno-L2-13B --outtype F32 --outfile Stheno-L2-13B.FP32.gguf`
-6. Deactivate the environment: `deactivate`
+1. Make sure you [installed the required tools](#required-tools) and [set up llama.cpp](#setup).
+2. Open a command prompt and move to our working folder: `cd C:\working-dir`
+3. Download your base model using git, for example: `git clone https://huggingface.co/Sao10K/Stheno-L2-13B`
+4. (Optional) Inside the model folder, you can delete the `.git` directory to save some hard drive space.
+5. Activate the environment: `llama.cpp\.venv\Scripts\activate.bat` (use  `llama.cpp\.venv\Scripts\Activate.ps1` if you're using PowerShell)
+6. Convert your model to a GGUF: `python llama.cpp\convert.py Stheno-L2-13B --outtype F32 --outfile Stheno-L2-13B.FP32.gguf`
+7. (Optional) Deactivate the environment: `deactivate`
 
-Step 5 uses FP32 format, you can also use FP16 format by changing `--outtype` to `F16`. Remember to update the file name for `--outfile` too!
+Step 6 uses FP32 format, you can also use FP16 format by changing `--outtype` to `F16`. Remember to update the file name for `--outfile` too!
 
 !!! info Speed up `convert.py` by adding `--concurrency N` to step 5 above. Replace `N` with the number of physical CPU cores in your system.
 
@@ -75,13 +76,14 @@ Step 5 uses FP32 format, you can also use FP16 format by changing `--outtype` to
 
 This converts models to quantized GGUF formats (Q8_0, Q6_K, Q6_K_M, etc.). For FP32 and FP16 see [the previous section](#converting-models-to-gguf).
 
-1. Convert the model to either FP16 or FP32 (either is fine). Follow [Converting Models to GGUF](#converting-models-to-gguf).
-2. Open a command prompt and move to our working folder: `cd C:\working-dir`
-3. Quantize the model: `llama.cpp\quantize.exe Stheno-L2-13B.FP32.gguf Stheno-L2-13B.Q8_0.gguf Q8_0`
+1. Make sure you [installed the required tools](#required-tools) and [set up llama.cpp](#setup).
+2. Convert the model to either FP16 or FP32 (either is fine). Follow [Converting Models to GGUF](#converting-models-to-gguf).
+3. Open a command prompt and move to our working folder: `cd C:\working-dir`
+4. Quantize the model: `llama.cpp\quantize.exe Stheno-L2-13B.FP32.gguf Stheno-L2-13B.Q8_0.gguf Q8_0`
 
-Obviously, step 3 needs to be customized to your conversion slightly. Change the `FP32` to `FP16` based on your conversion. Then change both of the `Q8_0` items to the quantization format of your choice: `Q8_0`, `Q6_K`, `Q5_K_M`, `Q5_K_S`, `Q4_K_M`, `Q4_K_S`, `Q3_K_L`, `Q3_K_M`, `Q3_K_S`, or `Q2_K`. Make sure to update the model names too.
+Obviously, step 4 needs to be customized to your conversion slightly. Change the `FP32` to `FP16` based on your conversion. Then change both of the `Q8_0` items to the quantization format of your choice: `Q8_0`, `Q6_K`, `Q5_K_M`, `Q5_K_S`, `Q4_K_M`, `Q4_K_S`, `Q3_K_L`, `Q3_K_M`, `Q3_K_S`, or `Q2_K`. Make sure to update the model names too.
 
-!!! info Speed up `quantize.exe` by adding the number of physical CPU cores in your system to the end of step 3's command (after the quantization format).
+!!! info Speed up `quantize.exe` by adding the number of physical CPU cores in your system to the end of step 4's command (after the quantization format).
 
 ### Quantizing Special Cases
 
@@ -91,28 +93,28 @@ Ideally, we want to quantize our models with the default QKK setting as it's eff
 
 In order for LoRAs to work with llama.cpp (and its derivatives like koboldcpp), you need to convert them to GGUF format. If you [trained a LoRA using llama.cpp](https://rentry.org/cpu-lora), you don't need to do this as the LoRA is already in GGUF format.
 
-1. Open a command prompt and move to our working folder: `cd C:\working-dir`
-2. Download your LoRA, for example: `git clone https://huggingface.co/Undi95/Storytelling-v2-13B-lora`
-3. (Optional) Inside the model folder, you can delete the `.git` directory to save some hard drive space.
-4. Activate the environment: `llama.cpp\.venv\Scripts\activate.bat` (use  `llama.cpp\.venv\Scripts\Activate.ps1` if you're using PowerShell)
-5. Convert your model: `python llama.cpp\convert-lora-to-ggml.py Storytelling-v2-13B-lora`
-6. Deactivate the environment: `deactivate`
-
-!!! info Speed up `quantize.exe` by adding the number of physical CPU cores in your system to the end of step 3's command (after the quantization format).
+1. Make sure you [installed the required tools](#required-tools) and [set up llama.cpp](#setup).
+2. Open a command prompt and move to our working folder: `cd C:\working-dir`
+3. Download your LoRA, for example: `git clone https://huggingface.co/Undi95/Storytelling-v2-13B-lora`
+4. (Optional) Inside the model folder, you can delete the `.git` directory to save some hard drive space.
+5. Activate the environment: `llama.cpp\.venv\Scripts\activate.bat` (use  `llama.cpp\.venv\Scripts\Activate.ps1` if you're using PowerShell)
+6. Convert your model: `python llama.cpp\convert-lora-to-ggml.py Storytelling-v2-13B-lora`
+7. (Optional) Deactivate the environment: `deactivate`
 
 ## Merging LoRAs into a Model
 
 If you want to offload any layers to your GPU, you're going to want to merge your LoRA with the base model.
 
-1. Before merging, you need a GGUF model and a GGUF LoRA. If you have non-GGUF files, [convert your model to GGUF](#converting-models-to-gguf), and [convert your LoRA to GGUF](#converting-loras-to-gguf).
-2. Open a command prompt and move to our working folder: `cd C:\working-dir`
-3. Merge the model and LoRA: `llama.cpp\export-lora.exe --model-base Stheno-L2-13B.Q8_0.gguf --model-out Stheno-L2-Storytelling-13B.Q8_0.gguf --lora-scaled Storytelling-v2-13B-lora\ggml-adapter-model.bin 1.0`
+1. Make sure you [installed the required tools](#required-tools) and [set up llama.cpp](#setup).
+2. Before merging, you need a GGUF model and a GGUF LoRA. If you have non-GGUF files, [convert your model to GGUF](#converting-models-to-gguf), and [convert your LoRA to GGUF](#converting-loras-to-gguf).
+3. Open a command prompt and move to our working folder: `cd C:\working-dir`
+4. Merge the model and LoRA: `llama.cpp\export-lora.exe --model-base Stheno-L2-13B.Q8_0.gguf --model-out Stheno-L2-Storytelling-13B.Q8_0.gguf --lora-scaled Storytelling-v2-13B-lora\ggml-adapter-model.bin 1.0`
 
 Remember to update the file names to match your models and LoRAs. The `1.0` at the end specifies how strongly the LoRA should be applied, with `0.0` being not at all, `1.0` being 100%, `2.0` being 200%, and so on.
 
 **You can apply as many LoRAs as you want at once!** Simply add more `--lora-scaled path\to\lora.bin 1.0` commands for each LoRA you want to merge. The percentages do not need to add to 100%, they are applied individually.
 
-!!! info Speed up `export-lora.exe` by adding `--threads N` to step 3 above. Replace `N` with the number of physical CPU cores in your system.
+!!! info Speed up `export-lora.exe` by adding `--threads N` to step 4 above. Replace `N` with the number of physical CPU cores in your system.
 
 ## Q&A
 

@@ -18,13 +18,15 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Pashatehink](https://rentry.org/pashatehink) | Misc |[Ysabel](https://files.catbox.moe/wb5jj2.png), [Sydney](https://files.catbox.moe/7ea6gm.png)|
+[Johncock](https://rentry.org/Johncock) | Misc |[Zeeba](https://files.catbox.moe/nbtgsf.png), [Slutty-chan](https://files.catbox.moe/t1ejdf.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Wobbly Catgirl Camille](https://files.catbox.moe/cmogph.png)|[Maybelle](https://files.catbox.moe/5oihry.png), [Nagatoro (Pregnant)](https://files.catbox.moe/vi5lkf.png)
+[Sull](https://rentry.org/p8kav)   | Mostly cunny |[Takashi and Mitaka](https://files.catbox.moe/xfxled.png)|
+[Pashatehink](https://rentry.org/pashatehink) | Misc |[Ysabel](https://files.catbox.moe/h0sx6j.png), [Sydney](https://files.catbox.moe/7ea6gm.png)|[Ysabel](https://files.catbox.moe/h0sx6j.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kaz](https://files.catbox.moe/p1yy06.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Niave](https://files.catbox.moe/qa85o7.png), [Nieve](https://files.catbox.moe/bh9133.png), [Viscera](https://files.catbox.moe/v6joen.png), [Sally, your naive sister](https://files.catbox.moe/e3czwj.png), [Venefica](https://files.catbox.moe/oonpqg.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Charlie](https://files.catbox.moe/s964ua.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Buncel](https://files.catbox.moe/8bp1ae.png), [Freyja](https://files.catbox.moe/s5som2.png), [Diane Foxington](https://files.catbox.moe/qsxewr.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Leah](https://files.catbox.moe/9vy3sr.png)|
-[Johncock](https://rentry.org/Johncock) | Misc |[Slutty-chan](https://files.catbox.moe/t1ejdf.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Dafeng Niang-Niang](https://files.catbox.moe/l8lgjk.png), [ALLMIND](https://files.catbox.moe/1c2wbh.png), [Augmented Human C4-621 - Raven](https://files.catbox.moe/nr0tn7.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Amrita](https://files.catbox.moe/8wfm9s.png), [Huang](https://files.catbox.moe/qtsr8n.png), [Ender](https://files.catbox.moe/ivp9en.png)|
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc |[Kaji](https://files.catbox.moe/20fd2a.png)|
@@ -46,7 +48,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
@@ -74,7 +75,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Malik](https://rentry.co/maliksusanto) | Misc ||
 [Arkane](https://rentry.org/arkanebots) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
