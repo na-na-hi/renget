@@ -5,15 +5,16 @@
 	Do not repost this on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance.](https://files.catbox.moe/gyofcn.webp)
 [TOC]
 ## General Resources
+The [[A](https://www.youtube.com/watch?v=a3CganlnrO0)] at the end of most links leads to an archive. This is incase the original is deleted for whatever reason. Most of the huge MEGAs won't have archives, that's why I have them downloaded locally.
 !!! warning Some links have spoilers.
 ## Utility
 **Calculators**
-* [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM)
-* [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0)
-* [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
-* [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
-* [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas)
-* [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
+* [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM) [[A](https://files.catbox.moe/t4wl52.xlsx)]
+* [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0) [[A](https://files.catbox.moe/3zzcbb.xlsx)]
+* [Clash Calculator](https://syxp.github.io/LimComClashCalc/) [[A](https://files.catbox.moe/iu0jnt.zip)]
+* [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main) [[A](https://files.catbox.moe/wor16l.zip)]
+* [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas) [[A](https://files.catbox.moe/arxim7.pas)]
+* [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer) [[A](https://files.catbox.moe/d1z5m3.zip)]
 
 **Team Builder**
 * [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
@@ -45,7 +46,11 @@
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
+* [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [Recommended Translations (Somewhat outdated for The Wings, see below links)](https://rentry.org/ligmabooks)
+* [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
+* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
+* [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
 * [Leviathan](https://projectmoon.postype.com/series/875159/leviathanprojectmooncomicsenglish)
 * Human Translation of Leviathan 16-20 [16](https://docs.google.com/document/d/1XTKn80hOYry3ujfAXrtHEahOzVtmfRAdEpk6K_060Ck) [17](https://docs.google.com/document/d/1fJ35GZbccZMPVBPFFiha32KLEElTqp-sQlhluTV5TjI) [18](https://docs.google.com/document/d/1Vsyqc_-KsNWfM17qWFk4EcGWzw6t-RiANTUPbQLi19c) [19](https://docs.google.com/document/d/14INIr_C4sbBBCPHv1MhajKamnQt3czXGGGgEvd7lUj0) [20](https://docs.google.com/document/d/1DjA1nsOvx95OFLfQCm6B5AgNc7z5VtfBC8AQ-ySMr38)
@@ -94,6 +99,11 @@
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dolphin Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
+* [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
+* [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
+* [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
+* [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
+* [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
 * [Hong Lu voice actor Twitch](https://www.twitch.tv/kim88toki)
 * [Heathcliff voice actor Twitch](https://www.twitch.tv/hshmike)
 * [Outis/Binah voice actor Twitch](https://www.twitch.tv/miggang_ster)
@@ -115,4 +125,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to uptie 3 character stories
-9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so. I'm going to make web and maybe local archives of everything else too, eventually. MEGA links are just naturally at risk to mass reporting so I need to archive them first.
+9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so. I'm going to make web and maybe local archives of other things too, eventually.
+9/26/23: Added back MEGA links, will begin doing webarchives later today

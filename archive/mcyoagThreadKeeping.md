@@ -567,7 +567,7 @@ https://pastebin.com/rsnEph0b
 For Art, Memes, Tierlists, etc. check the controlc
 ```
 
-#Heroes of the Wastes (HOTW)
+#Heroes of the Wastes (HOTW) (Dead)
 ***
 Page 1
 ***
@@ -576,16 +576,16 @@ https://rentry.org/HOTWSWEEP
 Password: HOTWSWEEP
 
 Build List:
-
-High Plains Drifters:
+>>All Dead
+Dead High Plains Drifters:
 >Billy Kido
 >>89492515
 
-Last Action Heroes:
+Dead Last Action Heroes:
 >Marcus 'Marc' Cassius Allen
 >>89389858
 
-Neo-Barbarians:
+Dead Neo-Barbarians:
 >Hannah Ossus (Notably Mutated)
 >>89395588
 >Isha, Princess of the Verzon Tribe
@@ -597,7 +597,7 @@ https://rentry.org/3hcex
 >The Beast Eyes Tribe
 https://rentry.org/mcyoag_hotw_tbet
 
-Bunker-Babies:
+Dead Bunker-Babies:
 >Yuki Kikuchi
 >>89498613
 >Dr. Remilia Rochefort
@@ -615,7 +615,7 @@ Bunker-Babies:
 >Dimir Leksirei
 >>89425473
 
-Settlement Survivors:
+Dead Settlement Survivors:
 >Nikto
 >>89679199
 >Dr. Charles Crane
@@ -657,7 +657,7 @@ https://rentry.org/HeliMatharom
 >Dr. Herman / Hermione Neighman
 >>89854313
 
-Raiders:
+Dead Raiders:
 >Calliope, Rocker of the Ruins
 >>89676904
 >Queen Bee (Becka, to her folks.)
@@ -669,7 +669,7 @@ Page 2
 ***
 ```
 Build List (Cont).
-Mutants:
+Gigachad Mutants:
 >Sasha the Snake
 >>89676447
 >Ramses
@@ -695,7 +695,7 @@ Mutants:
 >THE BLENDER
 >>90210979
 
-Robots:
+Factory Reset Robots:
 >H0P3
 >>89676618
 >C.C.A.M.U. (Amu for short)

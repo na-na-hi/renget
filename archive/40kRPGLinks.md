@@ -1,5 +1,5 @@
 ###Use #=(Game Initial/Name) to find specific games
-Encoded via ENIGMA T
+ENIGMA T
 UKW 4 16
  i 15 7 
 iv 11 13
@@ -18,6 +18,43 @@ The Lathe Worlds
 
 Book of Judgement
 xcrfela2xodfgfq/bncs+rpywfu+-+rud+wlke+ge+qzzwqunze+(qmb).rpk/ugmw
+
+# #=Only War= #=OW
+Core Rulebook
+jvdcdtwnwir8mgx/zagh_ahy_-_llsd_etqqyfgh.yxp/ttfn
+
+Eleventh Hour
+q12l8ilkewp77xd/ybojaaxy_rcaq_ttjjxdw_pllqf_%2528kuwf_jna%2529.rlv/byeg
+
+Enemies of the Imperium
+rc57ldmxmmthr47/acos_khi_mvtfgta_wl_smr_lfoisusv.buw/zzaa
+
+Final Testament
+ql6biknzr8cbfj3/ekgm_kjh_bsamb_rrxsnnklj_nbximtu_etllrjlq.blj/zaew
+
+GM Booklet
+ipybga3t295yp1e/rsjznnc_nexmblqpru_yqjhtjix.fzh/lyot
+
+GM Screen
+076vk7gsx7hfqp5/prsjznncksqtwv_sdqrzrrv.dbl/muaq
+
+Hammer of the Emperor
+jxk2mtu2btiv5mh/ekgm_kjh_-_aufatt_wl_smr_kfoistm.zgp/wgdm
+
+Living Errata
+4lvi884olox2h6w/qww03_ekgm_kjh_zshgwm_raynvh_j1_0_kjmue.zgp/wgdm
+
+No Surrender
+z6sd3tbwcl312ed/rsjz_nnc_gf_xaqttzqdy.gjo.dbl/muaq
+
+Regiment Creation 3.1
+https://www.mediafire.com/file/xw6l36wocy1qda9/Regiment_Creation_3.1.pdf/file
+
+Salvaging Solace
+y7easjrh9p2zeqw/ekgm_kjh_-_xucnpmjqi_ykiuli.azt/hhqr
+
+Shield of Humanity
+244qw630kdryx1o/spnk_xqc_-_earmzx_bs_iqgrmkvj.dbl/muaq
 
 # #=Wrath & Glory= #=WANG
 Wrath & Glory (Cubicle 7) - Replacement link, not sure if this is everything that was in the old 0bin page:

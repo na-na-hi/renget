@@ -2,14 +2,17 @@
 
 ->![Funny](https://files.catbox.moe/eibpzq.png)<-
 
-## ->🏖️[Recently added to the archive: 09/18/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🏖️[Recently added to the archive: 09/26/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 38: A Symphony of Gunpowder, Pomu, and Resonance](https://docs.google.com/document/d/e/2PACX-1vRUMtceK0-jborPd5Xi6LpiMhOdpI2U8SOMJPjEMsiSipytmsOc9I98kMj_4317vb5qmUEkC5mxJj-s/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
-(***Series Entry!***) [Balsa Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)
-[Carmelina - Part 1: Milk](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub) (Lamy, Marine, NSFW, Lactation)
-[Wellness Check](https://docs.google.com/document/d/e/2PACX-1vSMoGl_xTOF9sBxN4aN_G9DbbPH_mgtAaGm8PtvbcBNLmrjJ3nx20fBolQ9q6ph44V3W5A6u8dj_zP4/pub) (Fubuki, Miko, Botan, Chloe, Action, alternative setting)
-[Heated Negotiations](https://rentry.org/9f38p) (Amelia, NSFW, Sweat Fetish, Smell Fetish, Armpit Fucking, Paizuri)<-
+->(***Series Entry!***) [First Train and Kafka Stop Twenty Seven: Doll of Building Blocks](https://docs.google.com/document/d/e/2PACX-1vQf7GEqqCB8ufcXRU72Utag8HMZ5o57_aoQn3vti5vfIXX21uI6dwqOy0de4ci57pQWdyzosmHio0rb/pub) (Civia, incest, MDLB, light omorashi, breastfeeding, underage)
+(***Series Entry!***) [Balsa Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)
+(***Series Entry!***) [A Predator's Touch: A Hazy Yellow Line (Part 5)](https://docs.google.com/document/d/e/2PACX-1vSno4IbubITKUfmBPz8nlRuHDzPRpypdfC94belG-2UZnEqsxgVCx5Q1Vzng_nKkfwyP2oq4pLTBvj0/pub) (Botan, Koyori, Ame, Subaru, Mystery, Drama)
+[>Shaves your hag](https://docs.google.com/document/d/e/2PACX-1vScFiR9wT9O1x-hEjd2vh4rJIqah-LO8-MNZjeTLOShj8pPAxkK9ihCQ7dyx48uFOqfvY5Qx01VOTWc/pub) (Mio, NSFW, Cunnilingus, Analingus)
+[Bus Jelly](https://docs.google.com/document/d/e/2PACX-1vTu-JZUM7Ncdsrt_nXbPS6vYtW5enDE45kUHgj7muagm0id4XxsXLUXu1yhIg-1KNbEnmRD9ieok9NN/pub) (Jelly Hoshiumi, NSFW, Voyeurism, Public Masturbation)
+[Stains of Time](https://docs.google.com/document/d/e/2PACX-1vTvjG77XZorhIp2MQb6WbFKqrxr8KeyjFpikgRPO3rzke4jAxdqYig7awvY8YoJCFoftEN5Cu1_jEMq/pub) (Amelia Watson, Calliope Mori, Noir, Modern Fantasy)
+[Even Scorigami Needs Archiving](https://docs.google.com/document/d/e/2PACX-1vSWbTLdcxOdPIyfXy99UlafdFI0Tv7FTMy4H3BL47A03hK3dHBD-AkCdintUleoYDRHnNKXRsYga0WL/pub) (Shiori, Nerissa, SFW, Comedy, Satire, Gridiron Football, NFL)
+[Retarded Cousin Aqua Molestation Greens (Slam Cousin Aqua)](https://rentry.co/n6o3b3) (Aqua, NSFW, Greentext)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1287,3 +1290,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Carmelina - Part 1: Milk](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub) (Lamy, Marine, NSFW, Lactation)
 [Wellness Check](https://docs.google.com/document/d/e/2PACX-1vSMoGl_xTOF9sBxN4aN_G9DbbPH_mgtAaGm8PtvbcBNLmrjJ3nx20fBolQ9q6ph44V3W5A6u8dj_zP4/pub) (Fubuki, Miko, Botan, Chloe, Action, alternative setting)
 [Heated Negotiations](https://rentry.org/9f38p) (Amelia, NSFW, Sweat Fetish, Smell Fetish, Armpit Fucking, Paizuri)
+[>Shaves your hag](https://docs.google.com/document/d/e/2PACX-1vScFiR9wT9O1x-hEjd2vh4rJIqah-LO8-MNZjeTLOShj8pPAxkK9ihCQ7dyx48uFOqfvY5Qx01VOTWc/pub) (Mio, NSFW, Cunnilingus, Analingus)
+[Bus Jelly](https://docs.google.com/document/d/e/2PACX-1vTu-JZUM7Ncdsrt_nXbPS6vYtW5enDE45kUHgj7muagm0id4XxsXLUXu1yhIg-1KNbEnmRD9ieok9NN/pub) (Jelly Hoshiumi, NSFW, Voyeurism, Public Masturbation)
+[Stains of Time](https://docs.google.com/document/d/e/2PACX-1vTvjG77XZorhIp2MQb6WbFKqrxr8KeyjFpikgRPO3rzke4jAxdqYig7awvY8YoJCFoftEN5Cu1_jEMq/pub) (Amelia Watson, Calliope Mori, Noir, Modern Fantasy)
+[Even Scorigami Needs Archiving](https://docs.google.com/document/d/e/2PACX-1vSWbTLdcxOdPIyfXy99UlafdFI0Tv7FTMy4H3BL47A03hK3dHBD-AkCdintUleoYDRHnNKXRsYga0WL/pub) (Shiori, Nerissa, SFW, Comedy, Satire, Gridiron Football, NFL)
+[Retarded Cousin Aqua Molestation Greens (Slam Cousin Aqua)](https://rentry.co/n6o3b3) (Aqua, NSFW, Greentext)

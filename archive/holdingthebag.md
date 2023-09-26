@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 19th September. All dates dd/mm.
+!!! Note Last updated: 26th September. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-None | None | None
+13107 | アオダマ | Open as of 24/09
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -98,7 +98,6 @@ Club ID | Club Name | Club Status
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
 6358 | ヒナまつり | Full as of 10/08
-13107 | アオダマ | Full as of 19/08
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -109,6 +108,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
 11830 | TummyArchive | Open as of 14/09
+12395 | 中出しの幸せ (cumshot happiness) | Open as of 21/09
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -131,7 +131,6 @@ Club ID | Club Name | Club Status
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 11162 | VaniVitamins | Full as of 18/09
-12395 | 中出しの幸せ (cumshot happiness) | Full as of 30/08
 
 ***
 
@@ -139,14 +138,14 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-477 | BunnyChasers | Open as of 13/09
 6098 | Comfy | Open as of 16/09
-6289 | FlatIsJustice | Open as of 29/08
+6289 | FlatIsJustice | Open as of 24/09
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
+477 | BunnyChasers | Full as of 22/09
 623 | Mesugaki | Full as of 07/06
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
@@ -160,6 +159,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 23/09
 6208 | Cūnnysseurs | Open as of 05/07
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
@@ -167,7 +167,6 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Full as of 04/08
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

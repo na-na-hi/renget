@@ -111,20 +111,34 @@ Some examples include but are not limited to:
 *Yuhi Riri* (JP): https://www.youtube.com/@YuhiRiri
 *Grape Chann* (EN): https://www.twitch.tv/grapechann
 *Ai Umeka* (EN): https://www.twitch.tv/aiyumeka
+*Raian Valerius* (EN): https://www.youtube.com/@Raian_DAYBREAK
+*Micha* (JP): https://www.youtube.com/@miicha2525
+*Harukaza Koume* (JP): https://www.youtube.com/@Harukaze_Koume
+*Super Sonico* (JP): https://www.youtube.com/@user-uw2zo2cl6s
+*MunMosh* (JP): https://www.youtube.com/@MunMosh
+*Kashi Otoha* (JP): https://www.youtube.com/@kashiotoha8669
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
 *Nekomiya Hinata* (JP): https://www.youtube.com/@NekomiyaHinata
 *Shishido Akari* (JP): https://www.youtube.com/@ShishidoAkari
 *Ichijou Ririka* (JP): https://www.youtube.com/@IchijouRirika
+*Huziyama Maromoka* (JP): https://www.youtube.com/@HuziyamaMaromoka
+*Miki Astrophel* (EN): https://www.youtube.com/@miilkycomets
+*Aure Miya* (ID): https://www.youtube.com/@YoRIAureMiyach
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
 *Maria Marionette* (EN): https://www.youtube.com/@MariaMarionette
 *Ruki* (CN): https://space.bilibili.com/420249427
+*Sushidog* (EN): https://www.twitch.tv/sushidog 
 
 ###Pink Men:
-*Tsukishita Kaoru* (JP): https://www.youtube.com/channel/UCsehvfwaWF6nWuFnXI0AqZQ
+*Tsukishita Kaoru* (JP): https://www.youtube.com/@TsukishitaKaoru
+*Minkyewool* (EN): https://www.twitch.tv/minkyewool
+*MaoYugen* (EN): https://www.twitch.tv/maoyugen
+*Meow Mako* (EN): https://www.youtube.com/@meowmako
+*Ixy* (JP): https://www.youtube.com/@ixy
 
 ###Part-time pinks:
 To be *only* discussed within the context and as relating to their transient pinkness

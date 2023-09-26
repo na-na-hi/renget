@@ -277,12 +277,12 @@ The black ranger's special skill makes the target receive extra damage, so you c
 With a well timed CC you can cancel the rangers' special ability, so if you start to get melted make sure to use ur CC abilities to cancel their skills!
 ![CC in BA](https://i.imgur.com/dRYPRoE.png)
 
-
 Always try to go for the highest tier you can clear. It drops lower tier mats as well, so there's no reason to farm a lower level.
 You won't lose a ticket if you retreat, so you have infinite retries. 
 
->Which bounty area do I sweep? (JP only) 
+>Which bounty area do I sweep?
 If you need to ask, distribute ur tickets evenly. 
+You could also do 1 area a day, and rotate it that way.
 
 >What do I get from the Bounty shop?
 See [the shop section](https://rentry.org/how2playba#shop). 

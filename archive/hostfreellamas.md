@@ -56,7 +56,7 @@ b. Click on models tab, select the model and model loader:
 - exllamav2_hf (has more samplers such as CFG and mirostat, uses less VRAM, but is slower).
 - llama.cpp if you downloaded a ggml/gguf model - offload as many layers to GPU as possible, enter 999 to offload all layers. Important: Don't offload more than your GPU can handle, worst case the GPU driver will dump to System RAM and slow everything to a crawl.
 
-c. max_seq_len is the context, NTK alpha_value is the context scaling, use 2.6 for 8k context when loading models trained on 4k. You can get 8k context for free without perplexity suffering on all 4k llama2 models.
+c. max_seq_len is the context, NTK alpha_value is the context scaling, use 2.6 for 8k context when loading models trained on 4k. RoPE scaling isn't free, your perplexity suffers the more you scale up.
 d. Click "Load".
 
 ###### 5. Use the model

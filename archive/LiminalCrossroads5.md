@@ -103,7 +103,7 @@ He won’t, that’s the answer.
 
 Most other guild members are already at it: Totodile has no issues biting in large mouthfuls of the noodles into his maw, Phanpy dexterously but modestly uses his trunk to pick up his food, and Torchic nibbles and pecks at her pasta in the most dignified way she can make such an act look. Oh, and Porygon is performing some black sorcery on the marinara.
 
-Meanwhile, Bill methodically twirls the noodles in his fork, carefully trying to get in a single bite…
+Meanwhile, Bill methodically twirls the noodles in his fork with two paws this time, carefully trying to get in a single bite…
 
 Gill on the other hand, had long since abandoned the fool’s errand.
 
@@ -135,7 +135,7 @@ Phanpy stops eating for a moment, tilting his head at one of the bowls in the mi
 
 “Honestly…”
 
-A deep, commanding voice rings out.
+A reserved, commanding voice rings out.
 
 It belongs to a tall, humanoid orange avian resting his back against a wall. Previously unassuming, he makes his presence known. From the moment the creature spoke, the air had become the slightest bit heavier, the general chatter in the room even lowering in volume.
 
@@ -145,7 +145,7 @@ There’s no question about it—the bird has the hallmarks of a dangerous veter
 
 “...it’s a good thing you found a place like this soon. Growlithes aren’t too shabby when it comes to fighting, if I recall,” the bird informs.
 
-“Now, now, KFC!” Lliam appears near him, seemingly immune to the heavy atmosphere. “There’s a good chance they haven’t seen any actual combat! Remember that we need to give new humans some time to settle first~!”
+“Now, now, KFC!” Lliam appears near him, seemingly immune to the heavy atmosphere. “There’s a good chance they haven’t seen any actual combat! Remember that we need to give new humans some time to settle first!”
 
 The avian humanoid gives a modest grunt in response.
 

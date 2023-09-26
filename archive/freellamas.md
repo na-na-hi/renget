@@ -29,7 +29,7 @@ Streaming: [Off]
 Unlock context size (in ST)
 Context: [8192]
 New Tokens: [400] - use "Continue" button if the reply gets cut off
-Temperature: [0.7 - 1] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
+Temperature: [0.8 - 1] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
 Rep. pen: [1.05 - 1.1] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: [1666] - how many previous tokens to scan for repetition
 Top_p: [0.9] - top percentage of best tokens to select from

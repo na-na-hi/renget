@@ -36,7 +36,7 @@
 • Be sure to take rests between *khm* sessions and mind your health. Stop if you are uncomfortable or feel pain/discomfort. I am really-really serious. Dead serious.
 • WARNING: Be careful while using custom proxy builds.
 
-######2. THESE PROMPTS' PURPOSE
+######2. THESE PROMPTS' PURPOSE:
 These prompts tend to provide immersive and interactive output. Sex is *very* possible, but accent is on adventures.
 
 ######3. ABOUT PROMPTS AND VERSIONS:
@@ -47,6 +47,19 @@ These prompts tend to provide immersive and interactive output. Sex is *very* po
 • Each new X.0 version is not (each time) a better version but has major changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes/fixes.
 • If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase it to perform OOC request.)
 • Not intended for hardcore stuff.
+
+######4. ABOUT MODELS:
+**Claude:**
+Claude is a stupid, but perverted bustard. It likes meta and OOC comments and knocks in doors.
+• Claude 2 (2.0) is smarter [preferable]
+• Claude 1.3 is a bit worse than 2, but still good.
+• Claude 1.2 is crazy, but has short context.
+• Claude instant... We don't talk about Claude instant...
+
+**GPT:**
+GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
+• GPT4 is really good, [0301/0613 are preferable]
+• GPT3 is a dummy, but still nice.
 
 > Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
 

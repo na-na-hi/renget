@@ -24,7 +24,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Takashi and Mitaka](https://files.catbox.moe/xfxled.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Ysabel](https://files.catbox.moe/h0sx6j.png), [Sydney](https://files.catbox.moe/7ea6gm.png)|[Ysabel](https://files.catbox.moe/h0sx6j.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kaz](https://files.catbox.moe/p1yy06.png)|
-[Chefseru](https://rentry.org/chefseru) | Misc |[Niave](https://files.catbox.moe/qa85o7.png), [Nieve](https://files.catbox.moe/bh9133.png), [Viscera](https://files.catbox.moe/v6joen.png), [Sally, your naive sister](https://files.catbox.moe/e3czwj.png)|
+[Chefseru](https://rentry.org/chefseru) | Misc |[Niave](https://files.catbox.moe/qa85o7.png), [Nieve](https://files.catbox.moe/bh9133.png), [Viscera](https://files.catbox.moe/v6joen.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Charlie](https://files.catbox.moe/s964ua.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Buncel](https://files.catbox.moe/8bp1ae.png), [Freyja](https://files.catbox.moe/s5som2.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Leah](https://files.catbox.moe/9vy3sr.png)|

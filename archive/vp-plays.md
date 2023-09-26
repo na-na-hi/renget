@@ -410,12 +410,12 @@ https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
 ##Empire Multi-LP
-!!! info Status: Ongoing
+!!! danger Status: it's fucking over
     we're playing pretentious political """satire""" & societal criticism: the fangame again
     expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be
     there's a reason most of the players dropped out before the third badge
 
-https://arch.b4k.co/vp/thread/54459801/ 1 it's beginning
+https://arch.b4k.co/vp/thread/54459801/ 1 opening pandora's box
 https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
 https://arch.b4k.co/vp/thread/54471901/ 3 nice op, retard
 https://arch.b4k.co/vp/thread/54478434/ 4 a huge and desolate map
@@ -427,4 +427,3 @@ https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
 https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
 https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
 https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything and HOLY SHIT HEXES GET
-https://arch.b4k.co/vp/thread/54555855/ 13
