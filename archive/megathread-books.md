@@ -54,6 +54,10 @@
 - It focuses on IT and programming books, which are available for free download.
 - [URL Safety Results](https://www.urlvoid.com/scan/forcoder.su/)
 
+### 🔗 [Free Magazines](https://freemagazines.top/)
+- Wonderful method to remain current on a variety of topics and hobbies while keeping you informed and entertained.
+- [URL Safety Results](https://www.urlvoid.com/scan/freemagazines.top/)
+
 ### 🔗 [Free Tutorials Download](https://freetutsdownload.net/)
 - Assisting people in downloading free courses in various aspects and to share the knowledge extensively with everyone.
 - [URL Safety Results](https://www.urlvoid.com/scan/freetutsdownload.net/)

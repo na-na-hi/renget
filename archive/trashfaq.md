@@ -33,7 +33,9 @@ WITH OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors
 
 Vpred models, like Fluffyrock Terminal SNR vpred, require a few things to work properly.
 
-One thing is a .yaml file that needs to be put next to safetensors in webui\models. You can make them yourself easily enough:
+One thing is a .yaml file that needs to be put next to safetensors in webui\models. Most models come with accompanying .yaml files you can download.
+
+You can make them yourself easily enough, however:
 Go to webui\configs, edit the v1-inference.yaml file so it contains the line
 parameterization: "v"
 in the uppermost params section, then rename the file so it is the same as the model you want to use it with. Then move it into your models folder so it is next to the model.

@@ -40,7 +40,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is storing power!
+Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout)
+>https://rentry.org/b2mhn
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/89615875/#89616043
@@ -556,6 +558,8 @@ https://rentry.org/t97vwn
 https://rentry.org/rkhpv
 >Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
 https://rentry.org/ewwu9
+>Boys in a Comic Store (The Boys, Bakeneneko, Capture Cloth, Blackout)
+https://rentry.org/b2mhn
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -987,6 +991,8 @@ Applying for membership in the Dread Conglomerate (Pestilence)
 https://rentry.org/4v5uin
 Material Girl
 https://rentry.org/bttmt 
+Arsenal Fight
+https://rentry.org/ArsenalFight
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

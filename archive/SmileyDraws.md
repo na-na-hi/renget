@@ -80,3 +80,9 @@
 
 ### 25. Seiso
 -> ![](https://files.catbox.moe/xp5qxq.png) <-
+
+### 26. Anon
+-> ![](https://files.catbox.moe/r19h0o.png) <-
+
+### 27. Anon
+-> ![](https://files.catbox.moe/gj4rzw.jpeg) <-

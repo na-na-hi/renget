@@ -26,7 +26,6 @@
 !!! danger  ==OPTIONAL:== ```Adjust weight_decay (any value is fine as Prodigy adjusts to try and compensate). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
-!!! warning Original/Multires Noise is not recommended.
 ### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps to your desired steps. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
@@ -39,8 +38,8 @@
   "gradient_checkpointing": true,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
-  "lr_scheduler_args": "\"T_0=100\" \"T_mult=1\" \"eta_min=3e-4\"",
-  "max_train_steps": "100",
+  "lr_scheduler_args": "\"T_0=160\" \"T_mult=1\" \"eta_min=3e-4\"",
+  "max_train_steps": "160",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
   "optimizer_args": "\"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0\"",

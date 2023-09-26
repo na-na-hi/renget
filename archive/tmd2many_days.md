@@ -13,7 +13,7 @@
 
 Thread Number | Short Description
 ------ | ------
-/qst/ Thread #0: [No Stranger to Disaster](https://boards.4channel.org/qst/thread/5743269) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
+/qst/ Thread #0: [No Stranger to Disaster](https://suptg.thisisnotatrueending.com/qstarchive/2023/5743269/) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
 /qst/ Thread #1: [Abrupt Awakenings](https://boards.4channel.org/qst/thread/5755695) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
 
 ## Timeline

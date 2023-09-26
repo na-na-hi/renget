@@ -18,6 +18,7 @@ stage 3 routes with no seasonals
 videos:
 [ぽちょむきん](https://www.youtube.com/watch?v=-2BUgIi-AGY)
 [Vash](https://youtu.be/l1Q-SL5hyu0)
+[Eruru](https://youtu.be/au8k_61Uqs8)
 ![](https://pomf2.lain.la/f/la3vxua8.png)
 ## Stage 4 semi auto
 videos:

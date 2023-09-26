@@ -289,6 +289,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
+[Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt)
 
 ## Useful Tips
 1. READ

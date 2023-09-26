@@ -8,6 +8,30 @@ HoS Brick and Pericles stigma: https://rentry.co/hosbrick
 Elysian Realm: https://rentry.co/er70
 
 !!! info
+    V3B
+
+LUNAR VOW
+- Optimized text description
+- Optimized text description
+- Optimized text description
+- Fixed an issue where evasion skill meter recovery does not take effect.
+- Fixed an issue where Lunar Vow can fall off the map vs SSS Heimdal
+
+BRICK
+- Passive 1: If the enemy already has impair effect from another valk, HoS impair effect is changed to vulnerability effect: Enemies take 20%(v2) > 15% (v3) > 18% (v3b) more Physical DMG from HoS.
+
+PERICLES
+- Adjusted stats. TOP ATK: 116 > 120. BOT ATK 62 > 59
+- BOT: If you enter Burst Mode during this duration, the effect will be buffed, Crit DMG +20% > 25% more, can be refreshed.
+- 2PC: Trigger interval 10s > 8s
+- 3PC new effect: When there is only one valk in the team, Crit Rate +20%.
+
+OTHERS
+- Adjusted Stardust enemy stats
+- Stun weather Cruising Swarm: Adjusted HP
+- Some ER and Hot on the Trail bug fix
+
+!!! info
     v3
 
 LUNAR VOW - CRIMSON LOVE

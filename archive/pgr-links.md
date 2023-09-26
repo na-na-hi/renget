@@ -21,7 +21,7 @@
 2. [Frames, Memories, Weapons Database](https://grayravens.com/wiki/GRAY_RAVENS)
 3. [Recommended Builds](https://docs.google.com/spreadsheets/d/1_NAHdVouSp2T6AwStpz9ZMLZ_ca5EzcuHde5obIlero/htmlview)
 4. [Which Starter S Frame Is the Best Pick?](https://pastebin.com/Wnkxwtpw)
-5. [Frames & CUB Upgrade Cost](https://docs.google.com/spreadsheets/d/19b-japrCPFO1_JvotynrXS-_7BQxQbK7j2WM9z6yIpw)
+5. [Frames & CUB Upgrade Cost](https://imgur.com/a/uYX1BGx)
 6. [BC Planner & Calculator](https://docs.google.com/spreadsheets/d/1nNauBXGcHv_7AepLWBLo4ykl3V_EhxpK/edit#gid=2101374631)
 
 

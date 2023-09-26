@@ -68,7 +68,7 @@ You will probably get it wrong with the first cage or two. It takes a while to f
 - [Cellmate](https://www.qiui.store/collections/smart-toys-by-qiui) (Bio-Resin, remote controlled)
 - [BirdLocked](http://www.birdlocked.com/male-chastity-device/male-chastity.asp) (Silicone)
 
-And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD \(Note: May be dead\)](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076), [Happygo](https://www.aliexpress.com/store/1101019036), and [Dream Of Her](https://www.aliexpress.com/store/1102016932) being recommended for decent quality. These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.
+And for knockoffs, AliExpress is popular, with sellers [CHASTE BIRD \(Note: May be dead\)](https://www.aliexpress.com/store/1100522292), [FRRK](https://www.aliexpress.com/store/1102542076), [Happygo](https://www.aliexpress.com/store/1101019036), and [Dream Of Her](https://www.aliexpress.com/store/1102016932) being recommended for decent quality. On Amazon, some anons have recommended [FYJENNIC](https://www.amazon.com/stores/FYJENNICC/page/7125232C-F185-4E74-B630-D09B04157113). These knockoffs (especially for non-metal cages) often come with several ring sizes as well, where the name-brand only come with one. This can be better to see what your fit for the cage style is like.
 
 ***
 ###### Do you have any recommendations for a starter cage?

@@ -32,7 +32,8 @@
 
 ## Guides
 * [/lcg/ Guide](https://rentry.org/lcbguide)
-* [The Totally Definitive MD2 Hard Guide (GUIDEFAG MAKE A RR2 guide NOOWWW)](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
+* [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
+* [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [Yet Another Limbus Company Tier List (I'm moving this to the abandoned section if it's not updated in a few months)](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
@@ -43,12 +44,8 @@
 * [Uptie Tier 3 Character Stories](https://www.youtube.com/watch?v=YglNNFCEzRQ&list=PL4enXqMv4Wy3OXVs-gSpGFuemkzXfHunk&pp=iAQB)
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
-* [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Recommended Translations (Somewhat outdated for The Wings, see below links)](https://rentry.org/ligmabooks)
-* [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
-* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
-* [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
 * [Leviathan](https://projectmoon.postype.com/series/875159/leviathanprojectmooncomicsenglish)
 * Human Translation of Leviathan 16-20 [16](https://docs.google.com/document/d/1XTKn80hOYry3ujfAXrtHEahOzVtmfRAdEpk6K_060Ck) [17](https://docs.google.com/document/d/1fJ35GZbccZMPVBPFFiha32KLEElTqp-sQlhluTV5TjI) [18](https://docs.google.com/document/d/1Vsyqc_-KsNWfM17qWFk4EcGWzw6t-RiANTUPbQLi19c) [19](https://docs.google.com/document/d/14INIr_C4sbBBCPHv1MhajKamnQt3czXGGGgEvd7lUj0) [20](https://docs.google.com/document/d/1DjA1nsOvx95OFLfQCm6B5AgNc7z5VtfBC8AQ-ySMr38)
@@ -97,11 +94,6 @@
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dolphin Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
-* [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
-* [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
-* [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
-* [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
-* [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
 * [Hong Lu voice actor Twitch](https://www.twitch.tv/kim88toki)
 * [Heathcliff voice actor Twitch](https://www.twitch.tv/hshmike)
 * [Outis/Binah voice actor Twitch](https://www.twitch.tv/miggang_ster)
@@ -123,3 +115,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to uptie 3 character stories
+9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so. I'm going to make web and maybe local archives of everything else too, eventually. MEGA links are just naturally at risk to mass reporting so I need to archive them first.
