@@ -3,7 +3,7 @@
 ![suggested OP image](https://i.imgur.com/avHitIP.png)
 Better Days Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>447797965
+Last thread: >>448073007
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,7 +36,7 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Conceive prompts about this week's theme, Impregnation Friday!
  
 ▶News
-\>(9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670
+(9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670
 (9/06) NAI trannycord rebrands as Anlatan, accidentally purges 30k users, lmao
 (8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/
 (8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY

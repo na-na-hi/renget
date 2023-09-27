@@ -11,9 +11,10 @@ https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwid
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-to-modern-warfare-III-carry-forward
 \>Season 5 reloaded
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-season-05-reloaded-multiplayer-DMZ-content-drop
+\>best gun in the game gets buffed for 3rd season in a row
 
 \>patch notes:
-https://www.callofduty.com/patchnotes/2023/08/Call-of-Duty-Modern-Warfare-II-Warzone-2-Season-05-Reloaded-Patch-Notes.html
+https://www.callofduty.com/patchnotes/2023/09/Call-of-Duty-Modern-Warfare-II-Warzone-Season-06-Patch-Notes
 
 \>tools
 https://www.wzranked.com/

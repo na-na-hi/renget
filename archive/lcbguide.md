@@ -59,7 +59,7 @@ Press on the sinner icon, then select the artwork you want on your window. The l
 Currently every two weeks. Patch notes on Monday at roughly 5am EST. Maintenance on Wednesday at 9pm EST and ends at 11pm EST. New banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
 
 **14. Can I change my loading screen?**
-Yes. Your loading screen comes from the last story node's CG you played. Reply the node from start to finish to change it. Only do this once you've finished all the story content, obviously.
+Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 ## Rerolling
 **1. Do I need to reroll?**
@@ -223,7 +223,7 @@ For each clash, every coin still available will be flipped and every heads coin 
 Taking the following scenario as an example: 
 
 ![Clashes](https://files.catbox.moe/0ogspw.png)
-In a clash the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash power for every 3 points of difference between Offense Levels. In this instance Drilling Stab (2 coins) will clash against Stab (1 coin). Faust's Offense Level is 24 points higher than the enemies, so she has +8 clash value. Faust's base coin power on this skill is 14. For each heads coin that lands on her skill, she will receive +2 clash value, meaning her maximum coin value is 18. Dominating is the probability of winning the Clash. Faust is guaranteed to win this Clash, but not all Dominating clashes are guaranteed. The probability shown also takes Sanity and some status effects into account.
+In a clash the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash power for every 3 points of difference between Offense Levels. In this instance Drilling Stab (2 coins) will clash against Stab (1 coin). Faust's Offense Level is 24 points higher than the enemies, so she has +8 clash value. With this in mind, Faust's base coin power on this skill is 14. For each heads coin that lands on her skill, she will receive +2 clash value, meaning her maximum coin value is 18. Dominating is the probability of winning the Clash. Faust is guaranteed to win this Clash, but not all Dominating clashes are guaranteed. The probability shown also takes Sanity and some status effects into account.
 
 The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is Increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and 28% when the differential is 10. As the differential increases, returns diminish. When the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing damage dealt. 
 

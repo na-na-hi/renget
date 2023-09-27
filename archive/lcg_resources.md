@@ -93,7 +93,7 @@
 * [Ingame Font List](https://bysmile0824.postype.com/post/14436984)
 * [/lcg/ Drawpile Collection](https://cubari.moe/read/imgur/H4bZCHP/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
-* [~~Dolphin Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
+* [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
 * [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
 * [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)

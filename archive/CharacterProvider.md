@@ -10,8 +10,12 @@
 
 -> Send a cute m/f kobold, feedback and suggestions! Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
 -> I read every email and try to implement your suggestions and findings in my prompts. <-
+
+
 #
--> [![](https://files.catbox.moe/zdnjqw.png)](https://www.chub.ai/users/CharacterProvider) [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) <-
+-> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/psg10p.png)](https://boosty.to/xmlk/donate)<-
+
+-> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvide) <-
 # 
 
 ⠀

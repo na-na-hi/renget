@@ -529,7 +529,7 @@ Ameniwa Yae | - | - | -
 Geppaku Lui | - | - | -
 Kokuyou Lira | - | - | -
 Amakomo Linon | - | - | -
-Anshinin Misa | - | - | -
+Anshinin Misa | X | - | X
 Kanra Deity | - | - | -
 
 ## -> V&U <-
@@ -543,7 +543,7 @@ Yurikago Kokone | - | - | -
 Etherna Helen | - | - | -
 Etherna Celine | - | - | -
 Amoria | - | - | -
-Amano Serafi | - | - | -
+Amano Serafi | X | - | X
 Echo Lyne | - | - | -
 Suri Solari | - | - | -
 Maeve Kagekiri | - | - | -
@@ -575,7 +575,7 @@ Emi Kukis (Emikukis) | - | - | -
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Athena Nightingale | X | - | X
-MEW Horizon | - | - | -
+MEW Horizon | X | - | X
 Nonoah | - | - | -
 Kion Dojima | - | - | -
 RoaFen | X | - | X
