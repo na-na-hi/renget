@@ -194,6 +194,7 @@
 09/2023|[Matcha-TTS: A fast TTS architecture with conditional flow matching](https://arxiv.org/abs/2309.03199)
 09/2023|[DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
 09/2023|[Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
+09/2023|[Qwen Technical Report](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

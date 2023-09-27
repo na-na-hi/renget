@@ -1,11 +1,15 @@
-#host a HUFFLEPUFF on Colab for free
+#host a HUFFLEPUFF on Colab for free 🦙
 
-###### 5bit exl2 quantization
-https://files.catbox.moe/pgbhah.ipynb
+###### MythoMax 5bit exl2 quantization
+https://files.catbox.moe/c58cn6.ipynb
+
 "Mythomax-5bit on exllama2, it should be a noticeable improvement over 4bit GPTQ in terms of speed and quality
-Exllama2 supports better prompt caching, swiping on the same prompt will be faster than exllama1
-This uses dynamic ntk rope scaling, I already picked the optimal alpha_value
-Context size: 6144" 
+Exllama2 supports better prompt caching, swiping on the same prompt will be faster than exllama1"
+
+###### GGML/GGUF
+run local GGML/GGUF models (potentially better quantization/quality than GPTQ)  with koboldcpp
+https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb
+https://rentry.org/koboldcpp_colab_guide
 
 ###### GPTQ quantization (older)
 download the Jupyter Notebook https://files.catbox.moe/jgqjre.ipynb (5500 context, use if you have issues with the updated notebook)
@@ -62,10 +66,4 @@ https://huggingface.co/Undi95/ReMM-SLERP-L2-13B-GGUF
 "similar to MLewd but made by an anon here which is nice"
 https://rentry.org/tsukasa13b
 or use this colab if you're retarded: https://files.catbox.moe/u4r0xl.ipynb
-###### some anons have reported great results on models other than tsukasa by using the story string from the tsukasa rentry combined with the system prompt from rentry.org/freellamas , try it out and let us know!
-
-
-#### koboldcpp on colab
-run local GGML/GGUF models (potentially better quantization/quality than GPTQ)
-https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb
-https://rentry.org/koboldcpp_colab_guide
+###### some anons have reported great results on models other than tsukasa by using the story string from the tsukasa rentry combined with the system prompt from rentry.org/freellamas

@@ -9,8 +9,6 @@ https://booru.plus/+funkg
 https://www.youtube.com/playlist?list=PL3wzueQts4CkbCNPwV8u3QodTT8WHJp_K
 >Spooky Month Archive:
 https://mega.nz/file/15YWXZLT#uUKz5DQmbq337WW-O5k2Z7nm-It3nChWFJhRNDJbxO8
->Legacy /funkg/ FNF Mod Wiki:
-https://funkgmodwiki.miraheze.org
 >Mod Archive:
 https://rentry.co/5v2edo
 >/funkg/ FNF Mod List + Extras (Legacy Google Document):

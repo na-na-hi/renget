@@ -93,7 +93,7 @@
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
 - [URL Safety Results](https://www.urlvoid.com/scan/123chill.to/)
 
-### ▶️ [BFlix](https://bflix.gg/) / [2](https://bflix.io/)
+### ▶️ [BFlix](https://bflix.cx/) / [2](https://bflix.sx/) / [3](https://bflix.sh/) / [4](https://bflix.to/) / [5](https://bflix.id/) / [6](https://bflix.vc/)
 - Online movie streaming service and economical method to watch your favorite films and TV episodes.
 - [URL Safety Results](https://www.urlvoid.com/scan/bflix.gg/)
 
@@ -181,6 +181,10 @@
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - [URL Safety Results](https://www.urlvoid.com/scan/myflixerz.to/)
 
+### ▶️ [OnionPlay](https://onionplay.se/) / [2](https://onionplay.network/)
+- Find all your favorite movies and TV shows and get access to the biggest blockbusters.
+- [URL Safety Results](https://www.urlvoid.com/scan/onionplay.se/)
+
 ### ▶️ [PressPlay](https://www.pressplay.top/)
 - Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/pressplay.top/)
@@ -201,7 +205,7 @@
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
 
-### 🐐 [Smashystream](https://embed.smashystream.com/)
+### ▶️ [Smashystream](https://embed.smashystream.com/)
 - Watch any movies or TV series you want, whenever you want, thanks to the power of the internet!
 - [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)
 
@@ -212,6 +216,10 @@
 ### ▶️ [Streameast](https://www.streameast.watch/)
 - An ad-free movie streaming service. With over 10000 movies and TV-Series, you may watch all content without having to register.
 - [URL Safety Results](https://www.urlvoid.com/scan/streameast.watch/)
+
+### ▶️ [Sudostream](https://sudostream.com/)
+- Among the top free sites for streaming movies in HD without registering or forking over anything.
+- [URL Safety Results](https://www.urlvoid.com/scan/sudostream.com/)
 
 ### ▶️ [TheFlixer](https://theflixer.tv/)
 - With the power of the internet, it's time to watch whatever movies or TV shows you want, at anytime! So stop waiting, start streaming.

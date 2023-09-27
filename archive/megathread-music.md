@@ -109,6 +109,10 @@
 
 # 📑 ➜ Desktop Apps
 
+### 🖥️ [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
+- An general purpose Spotify skip-bypass and adblocker with all premium features excluding downloads, are unlocked.
+- [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
+
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 - A graphical client for Soulseek that is often updated with additional functionality but still adhering to the Soulseek protocol.
 - [URL Safety Results](https://www.urlvoid.com/scan/nicotine-plus.org/)
@@ -136,6 +140,14 @@
 ### 🖥️ [spotDL](https://spotdl.readthedocs.io/en/latest/)
 - Identifies songs from Spotify playlists on YouTube, downloads them, and adds album cover, lyrics, and metadata.
 - [URL Safety Results](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
+
+### 🐐 [Spotube](https://spotube.krtirtho.dev/)
+- For every platform, a quick, cutting-edge, lightweight, and effective Spotify Music Client.
+- [URL Safety Results](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
+
+### 🖥️ [SpotX](https://github.com/amd64fox/SpotX)
+- Customized version of the official Spotify client. Blocks all banner, video, and audio ads and more.
+- [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Stacher](https://stacher.io/)
 - You may modify the stunning, contemporary GUI to utilize any fork of YT-DLP, which is immediately installed upon launch.

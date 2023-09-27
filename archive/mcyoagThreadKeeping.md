@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout)
->https://rentry.org/b2mhn
+>Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force)
+https://rentry.org/xxk2h
 
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
@@ -339,59 +339,6 @@ https://pastebin.com/66ByP2sD
 >Questionnaire Comp
 https://pastebin.com/Ksn0zJ31
 
->A Parting of Ways (Mirror Devil, Capture Cloth):
-https://rentry.org/y37ak
->Here's The Deal! (Reaper, Forget-Me-Not, Kampai and cameo of Inigo)
-https://rentry.org/kssmi
->Training for the Tournament (Flying Force, Archangel, Mirror Devil):
-https://rentry.org/d2d4o
->Caught in the act (Reaper, Forget-Me-Not, Ryu-Kishi)
-https://rentry.org/mbuw6
->No Rest For the Wicked(Last Rite, Rosethorn, Desolator)
-https://rentry.org/ufkwvk
->A Summer Stroll (feat. Marumaru, Ryu-kishi, Mirror Devil, Yamata)
-https://rentry.org/yuggr
->Spy Kids (Forget-Me-Not, Reaper, cameo by Weiss Schwarz)
-https://rentry.org/spy-kids
->To the Rescue (Ryu-kishi, Marrow, Mercury, Maru(maru), Mirror Devil, Archangel, Localoca)
-https://rentry.org/oc3h5
->Cracks in a Mirror (Flying Force, Mirror Devil, Ryu-kishi, Maru, Mahoudeva):
-https://rentry.org/qdeew
->Clown World (Popsy)
-https://rentry.org/hfckz
->Spring Dragon Body Pillows (Honoken, Seiryu)
-https://rentry.org/bad8yg
->Midnight Blossom! Sandy VS Momo! (Reaper, Nebulous Storm)
-https://rentry.org/rq2bi
->Intervention (1-D Groupchat)
-https://rentry.org/wz7vn
->A Hero’s Return(Last Rite, Marumaru, Archangel)
-https://rentry.org/n4ws6
->Reforging Bonds (Mirror Devil, Capture Cloth):
-https://rentry.org/wwcdy
->Misadventures at the Dojo Part 1: Peace and Disharmony (Yako, Maru(maru), Last Rite, Yamata)
-https://rentry.org/DojoMisadventure1
->Meet-Hate (Radius, Marrow)
-https://rentry.org/gt9tg
->Cusp of a Brakthrough (sandatsu, mio, feral, psyking)
-rentry.org/o9qt9
->Letting Off Steam (Marrow, mentions Radius)
-https://rentry.org/pr637t
->MUDA!MUDA!MUDA! Sunlight Man and Yamata sparring!
-https://rentry.org/c759z
->Dragon's Claw (Ryu-Kishi, Drekus, Feral, Overdose, Marrow, The Five, mention of Sally)
-https://rentry.org/aydcg
-```
-***
-Page 6
-***
-```
-Writefags (Cont.)
->Stare Enough and Something Might Happen (Marrow, the Hivemind, Ryu-Kishi)
-https://rentry.org/iy2du
->The Tournament Begins (Yamata, Archangel, Recoil, Maru(maru), Ryu-Kishi, Yako, Drone, Sunlight Man, Capture Cloth, Orbit, Crazy Train, Hydra, and various other minor appearances)
-https://rentry.org/d5urh
-+Extended Edition https://rentry.org/mcymhatournament
 >Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru), Challenger, Flying Force, Mirror Devil, The Boys, Class-1D)
 https://rentry.org/v74ss
 >Out of Place, Just in Time(Last Rite, Archangel, Ryu-kishi, Desolator)
@@ -428,7 +375,7 @@ https://controlc.com/a4a6767d
 ```
 
 ***
-Page 7
+Page 6
 ***
 ```
 Writefags (Cont.)
@@ -475,7 +422,7 @@ https://rentry.org/udt96
 ```
 
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (Cont.)
@@ -524,7 +471,7 @@ https://rentry.org/o2f25
 
 ```
 ***
-Page 9
+Page 8
 ***
 ```
 Writefags (final)
@@ -569,6 +516,8 @@ https://pastebin.com/rsnEph0b
 For Art, Memes, Tierlists, etc. check the controlc
 ```
 
+!!! note [By the way, I cut out a page of writefags preemptively since the 9th page was at 1955 characters. The next writefag was going to spill over].
+
 # Naruto (Second Reboot)
 ***
 Page 1
@@ -587,7 +536,7 @@ Build List:
 >S-Rank:
 Inatsu Hikuhei(Hokage), "The Bull of Konoha" >>90349663 
 >A-Rank:
-Taiki, "The Trunk Thrower >>90337572 
+Taiki, "The Trunk Thrower" >>90337572 
 Konna, "The Shady Foreigner" >>90338178 
 Mika Katsumi, "Opioid Smoke Girl" >>90339231 
 Hakumo Ikari, "Kitsune Vixen" >>90347774 
@@ -630,17 +579,17 @@ Page 1
 https://rentry.org/HOTWSWEEP
 Password: HOTWSWEEP
 
-Dead Build List:
+Build List:
 
-Dead High Plains Drifters:
+High Plains Drifters:
 >Billy Kido
 >>89492515
 
-Dead Last Action Heroes:
+Last Action Heroes:
 >Marcus 'Marc' Cassius Allen
 >>89389858
 
-Dead Neo-Barbarians:
+Neo-Barbarians:
 >Hannah Ossus (Notably Mutated)
 >>89395588
 >Isha, Princess of the Verzon Tribe
@@ -652,7 +601,7 @@ https://rentry.org/3hcex
 >The Beast Eyes Tribe
 https://rentry.org/mcyoag_hotw_tbet
 
-Dead Bunker-Babies:
+Bunker-Babies:
 >Yuki Kikuchi
 >>89498613
 >Dr. Remilia Rochefort
@@ -670,7 +619,7 @@ Dead Bunker-Babies:
 >Dimir Leksirei
 >>89425473
 
-Dead Settlement Survivors:
+Settlement Survivors:
 >Nikto
 >>89679199
 >Dr. Charles Crane
@@ -712,7 +661,7 @@ https://rentry.org/HeliMatharom
 >Dr. Herman / Hermione Neighman
 >>89854313
 
-Dead Raiders:
+Raiders:
 >Calliope, Rocker of the Ruins
 >>89676904
 >Queen Bee (Becka, to her folks.)
@@ -932,6 +881,11 @@ Writefags:
 https://rentry.org/dm26u
 >Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
 https://pastebin.com/4CFMctzq
+
+Artfags:
+>Misao (In and out of costume)
+>>90381007
+
 ```
 
 #Worm (Second Reboot)
@@ -1050,7 +1004,11 @@ Material Girl
 https://rentry.org/bttmt 
 Arsenal Fight
 https://rentry.org/ArsenalFight
-
+```
+***
+Page 3
+***
+```
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart
 https://rentry.org/c6veb2

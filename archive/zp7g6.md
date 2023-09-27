@@ -103,70 +103,72 @@ More info about the comparison table and preview images can be found in the **[A
 [Jcm2](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WYsCgRQT) | [Jima](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rRlgADQL)
 :------:|:------:
 ![](https://i.imgur.com/zPTit6l.png) | ![](https://i.imgur.com/VJnKZd6.png)
-[John Zhang](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zQsBiTRL) | [Jyuiro (e10)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rFtAhRJb)
-![](https://i.imgur.com/zxYNDJm.png) | ![](https://i.imgur.com/9GNr2qF.png)
+[JJ.JJ](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yUdSTZBY) | [John Zhang](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zQsBiTRL)
+![](https://i.imgur.com/bZXVKlh.png)| ![](https://i.imgur.com/zxYNDJm.png)
+[Jyuiro (e10)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rFtAhRJb) | []()
+![](https://i.imgur.com/PFSWjvZ.png) | ![]()
 
 ### K
 [Kahlua](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TU0QyJyI) | [Kaipo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KJMCnToR)
 :------:|:------:
-![](https://i.imgur.com/j7TzcfK.png) | ![](https://i.imgur.com/gfwOF7s.png)
+![](https://i.imgur.com/1nEs4If.png) | ![](https://i.imgur.com/gfwOF7s.png)
 [Kanzaki Muyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2MlHhYgC) | [Kareya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkXELAZ)
-![](https://i.imgur.com/OzRe08S.png) | ![](https://i.imgur.com/tKratbG.png)
+![](https://i.imgur.com/QUX7raL.png) | ![](https://i.imgur.com/iWcCi1m.png)
 [Kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DQtRDYLS) | [Kokaki Mumose](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CQ03UChK)
-![](https://i.imgur.com/kIHx5Mk.png) | ![](https://i.imgur.com/adTwSu5.png)
+![](https://i.imgur.com/kIHx5Mk.png) | ![](https://i.imgur.com/wDCWgRb.png)
 [Kokuto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OUl0kYJQ) | [Konpeto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vFMWSTxI)
 ![](https://i.imgur.com/W8vSl81.png) | ![](https://i.imgur.com/V8stX8L.png)
 [Koyori](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rQk3xJjY) | [Krill](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jclh3RYY)
-![](https://i.imgur.com/pPGTpZp.png) | ![](https://i.imgur.com/GG38uu0.png)
+![](https://i.imgur.com/pPGTpZp.png) | ![](https://i.imgur.com/e4E6WuT.png)
 [Kuroboshi Kouhahu (Takeshi Iizuka)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Z0jWZYD) | [Kuroi Suna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eZkmyRBS)
-![](https://i.imgur.com/KaV4Jdc.png) | ![](https://i.imgur.com/HRF1X8a.png)
+![](https://i.imgur.com/KaV4Jdc.png) | ![](https://i.imgur.com/cZz6l1i.png)
 
 ### L
 [Laserflip](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jAkzHSTb) | []()
 :------:|:------:
-![](https://i.imgur.com/FOJPHiW.png) | ![]()
+![](https://i.imgur.com/SITTB8e.png) | ![]()
 
 ### M
 [MaidForge](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GBlmTYoS) | [Maniacbox](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zU0mWTDI)
 :------:|:------:
-![](https://i.imgur.com/h6tGOBg.png) | ![](https://i.imgur.com/zRiu5rP.png)
+![](https://i.imgur.com/Ty7J09G.png) | ![](https://i.imgur.com/zRiu5rP.png)
 [Mannack](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2F8lCDIL) | [Masato Ishio](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zY8BjD7J)
-![](https://i.imgur.com/qzbdEHy.png) | ![](https://i.imgur.com/GGlV7wV.png)
+![](https://i.imgur.com/qzbdEHy.png) | ![](https://i.imgur.com/cPBYDl9.png)
 [Matokechi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsjmZDR) | [Menthako](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsQFbIA)
-![](https://i.imgur.com/Ub1lu6y.png) | ![](https://i.imgur.com/1xKGAf9.png)
+![](https://i.imgur.com/GlPPP6w.png) | ![](https://i.imgur.com/mV6mQuc.png)
 [Meyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6M8SRSSD) | [Mochikushi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bNsDGboI)
-![](https://i.imgur.com/97tUB6M.png) | ![](https://i.imgur.com/rR5Ojiw.png)
+![](https://i.imgur.com/97tUB6M.png) | ![](https://i.imgur.com/srGwmXb.png)
 [Moemaru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SRkwCBYK) | [Mukuton](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LV9VxZzA)
-![](https://i.imgur.com/N0RpwhE.png) | ![](https://i.imgur.com/vbvWGVB.png)
+![](https://i.imgur.com/N0RpwhE.png) | ![](https://i.imgur.com/rpiwv7W.png)
 [Musouduki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/qJsEhDRR) | []()
 ![](https://i.imgur.com/lNvfSs1.png) | ![]()
 
 ### N
 [Naijiaer (NJER)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aNtCDIyJ) | [Najucaju](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zJsEiTZS)
 :------:|:------:
-![](https://i.imgur.com/g3kQv0X.png) | ![](https://i.imgur.com/TlGV2yg.png)
+![](https://i.imgur.com/g3kQv0X.png) | ![](https://i.imgur.com/bzWKARC.png)
 [Namako (Takorin)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DAVmEBbR) | [Nanameyomi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1l1QwI)
-![](https://i.imgur.com/mhEXqh9.png) | ![](https://i.imgur.com/x4tVoyt.png)
+![](https://i.imgur.com/mhEXqh9.png) | ![](https://i.imgur.com/FPkpeXV.png)
 [Nanja](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LQkwzbbI) | [Nezumin](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GUtnHBBL)
-![](https://i.imgur.com/R88FM0m.png) | ![](https://i.imgur.com/7AJiZKG.png)
+![](https://i.imgur.com/R88FM0m.png) | ![](https://i.imgur.com/KrZ7ayJ.png)
 [Niko (Tama)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkCwJwQ) | [NLO (Nanashi)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bd0XmYZZ)
-![](https://i.imgur.com/VssQQ7A.png) | ![](https://i.imgur.com/NNV6E2r.png)
+![](https://i.imgur.com/VssQQ7A.png) | ![](https://i.imgur.com/BjvdenC.png)
 
 ### O
 [ObserverZ (Cloaking19)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GEkUAbKS) | [Ogipote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LA0W0Rab)
 :------:|:------:
-![](https://i.imgur.com/eucBw0I.png) | ![](https://i.imgur.com/QCjt9nB.png)
+![](https://i.imgur.com/XhZei8p.png) | ![](https://i.imgur.com/QCjt9nB.png)
 [Oke Yazawa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KI023SjZ) | [Onion](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XI90nBbZ)
 ![](https://i.imgur.com/HOc9NaA.png) | ![](https://i.imgur.com/xkAwu5o.png)
 [Opossumachine](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/iB1zTQAI) | [Orenjipiru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fItRkLLL)
-![](https://i.imgur.com/QZDQipU.png) | ![](https://i.imgur.com/VUSbUVv.png)
+![](https://i.imgur.com/b2jxNna.png) | ![](https://i.imgur.com/VUSbUVv.png)
 
 ### P
 [Padoruu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zBUmXJ4T) | [Pedocchi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LI0lDZ4Q)
 :------:|:------:
 ![](https://i.imgur.com/dS1ILdJ.png) | ![](https://i.imgur.com/D4tT9PS.png)
 [Poisonous Biscuit](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PFlRkDAI) | [Popotan (Game CG)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMNSlLxQ)
- ![](https://i.imgur.com/9glNGFO.png) | ![](https://i.imgur.com/Ib4VsMu.png)
+![](https://i.imgur.com/9glNGFO.png) | ![](https://i.imgur.com/umOhzmh.png)
 [Puchiya (Hoshino Fuuta)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/uMsUwK6K) | []()
 ![](https://i.imgur.com/HP758wE.png) | ![]()
 
@@ -199,14 +201,14 @@ More info about the comparison table and preview images can be found in the **[A
 :------:|:------:
 ![](https://i.imgur.com/ZT9NWX1.png) | ![](https://i.imgur.com/2sArEaj.png)
 [Toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SZsxWTRK) | [Tousaki-shiina](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1mhQgZ)
-![](https://i.imgur.com/Nh7FrXZ.png) | ![](https://i.imgur.com/idFy91z.png)
+![](https://i.imgur.com/dZiGUdj.png) | ![](https://i.imgur.com/idFy91z.png)
 [Tsubasa]() | [Tsukushi Akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nJtE2bYb)
 ![](https://i.imgur.com/ZbWX6Nx.png) | ![](https://i.imgur.com/5hisrSO.png)
 
 ### U
-[Uminotaco](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KU8wFJDQ) | Uroboros (WIP)
+[Uminotaco](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KU8wFJDQ) | [Usitora Tatsumi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eddm2RgA)
 :------:|:------:
-![](https://i.imgur.com/SGcA35f.png) | ![]()
+![](https://i.imgur.com/SGcA35f.png) | ![](https://i.imgur.com/JBZNcnG.png)
 
 ### V
 [Vachelor](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Q9mmCKJ) | [Vachelor (Color)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMs13BaD)
@@ -276,6 +278,10 @@ happy bunny, loli, large hands, oversized forearms, claws, fewer digits, mask, b
 [Jungle (Ponpoko - VTuber)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fVk0nJYJ) | Ponpoko
 :------:|:------:
 ![](https://i.imgur.com/umYm7aF.png) | ![](https://i.imgur.com/HBT1ER1.png)
+
+```
+ponpoko \(vtuber\), :3, raccoon girl, raccoon ears, raccoon tail, animal nose, leaf on head, blunt bangs, short hair, grey hair, grey eyes
+```
 
 ### K
 [Koahri (Ninomae Ina'nis - Hololive)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SI93iCgK) | Ninomae Ina'nis

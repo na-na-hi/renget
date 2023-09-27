@@ -281,3 +281,53 @@ https://controlc.com/b2b5a64a
 https://rentry.org/qyamz
 >The Saint and the Sinner(Last Rite, Archangel)
 https://rentry.org/okwbp
+----------------------------------------------------------------------------------------------------------------------------
+Page 5
+----------------------------------------------------------------------------------------------------------------------------
+>A Parting of Ways (Mirror Devil, Capture Cloth):
+https://rentry.org/y37ak
+>Here's The Deal! (Reaper, Forget-Me-Not, Kampai and cameo of Inigo)
+https://rentry.org/kssmi
+>Training for the Tournament (Flying Force, Archangel, Mirror Devil):
+https://rentry.org/d2d4o
+>Caught in the act (Reaper, Forget-Me-Not, Ryu-Kishi)
+https://rentry.org/mbuw6
+>No Rest For the Wicked(Last Rite, Rosethorn, Desolator)
+https://rentry.org/ufkwvk
+>A Summer Stroll (feat. Marumaru, Ryu-kishi, Mirror Devil, Yamata)
+https://rentry.org/yuggr
+>Spy Kids (Forget-Me-Not, Reaper, cameo by Weiss Schwarz)
+https://rentry.org/spy-kids
+>To the Rescue (Ryu-kishi, Marrow, Mercury, Maru(maru), Mirror Devil, Archangel, Localoca)
+https://rentry.org/oc3h5
+>Cracks in a Mirror (Flying Force, Mirror Devil, Ryu-kishi, Maru, Mahoudeva):
+https://rentry.org/qdeew
+>Clown World (Popsy)
+https://rentry.org/hfckz
+>Spring Dragon Body Pillows (Honoken, Seiryu)
+https://rentry.org/bad8yg
+>Midnight Blossom! Sandy VS Momo! (Reaper, Nebulous Storm)
+https://rentry.org/rq2bi
+>Intervention (1-D Groupchat)
+https://rentry.org/wz7vn
+>A Hero’s Return(Last Rite, Marumaru, Archangel)
+https://rentry.org/n4ws6
+>Reforging Bonds (Mirror Devil, Capture Cloth):
+https://rentry.org/wwcdy
+>Misadventures at the Dojo Part 1: Peace and Disharmony (Yako, Maru(maru), Last Rite, Yamata)
+https://rentry.org/DojoMisadventure1
+>Meet-Hate (Radius, Marrow)
+https://rentry.org/gt9tg
+>Cusp of a Brakthrough (sandatsu, mio, feral, psyking)
+rentry.org/o9qt9
+>Letting Off Steam (Marrow, mentions Radius)
+https://rentry.org/pr637t
+>MUDA!MUDA!MUDA! Sunlight Man and Yamata sparring!
+https://rentry.org/c759z
+>Dragon's Claw (Ryu-Kishi, Drekus, Feral, Overdose, Marrow, The Five, mention of Sally)
+https://rentry.org/aydcg
+>Stare Enough and Something Might Happen (Marrow, the Hivemind, Ryu-Kishi)
+https://rentry.org/iy2du
+>The Tournament Begins (Yamata, Archangel, Recoil, Maru(maru), Ryu-Kishi, Yako, Drone, Sunlight Man, Capture Cloth, Orbit, Crazy Train, Hydra, and various other minor appearances)
+https://rentry.org/d5urh
++Extended Edition https://rentry.org/mcymhatournament

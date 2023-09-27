@@ -33,7 +33,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Conceive prompts about next week's theme, Impregnation Friday!
+Conceive prompts about this week's theme, Impregnation Friday!
  
 ▶News
 \>(9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670

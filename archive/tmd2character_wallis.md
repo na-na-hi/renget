@@ -16,7 +16,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** N/A
 **Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 50₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -96,7 +96,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

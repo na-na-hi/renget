@@ -252,6 +252,11 @@ Charlie | Info
 ![](https://files.catbox.moe/4zfq12.png)   | As you're exploring a theater slated for demolition, you come across the prop room. Inside you find a life-sized clown doll that seems to be sentient...and just waking up after a several decades-long nap. Comes with an alternate greeting where you've fixed up the theater and are working with him.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/charlie-5553381e),  [Catbox](https://files.catbox.moe/s964ua.png)
 
+Ethan | Info
+:----:  | :----: 
+![](https://files.catbox.moe/vcz012.png)   | You wake up in a dark basement surrounded by recording equipment and a whole lot of sex paraphernalia. Turns out you've been kidnapped by some shitty edgelord who intends to stream himself having his way with you! Has a second greeting for chatrooms where (you) are a special guest, also comes with Retarded's twitch chat jailbreak.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ethan-9d01d91e),  [Catbox](https://files.catbox.moe/kemgc7.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

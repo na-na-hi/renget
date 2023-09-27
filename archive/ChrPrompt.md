@@ -366,8 +366,12 @@ Have you ever considered letting yourself be shorn to bring in some extra money 
 -Who would make a suitable lab partner?
 
 ##**Tybo**
--Do humans scare you?  
+-Do humans scare you? 
+>Not humans themselves, but the circumstances around them do. Why are so many appearing at once all of the sudden? I've heard humans being transported here was stuff of legend but it seems to be getting less and less rare now. Are there other human guilds around the world? Or has every new human been transported into this one local area for some inexplicable reason? I don't think it's random chance, and I fear what greater context of the influx of humans is.
 -What's your opinion of the Kecleon group?
+>I wouldn't be surprised if the Kecleon Group was some sort of company, the fact that they're spread so far and wide, even selling stuff in mystery dungeons feels like it's a part of a business model than some local gig. They're smart merchants, wouldn't get on their bad side.
+-How would he feel about humans trying to pet him?
+>I enjoy pets very much, thank you.
 
 ##**Casey**
 -How many jobs do you complete a week?  How many breaks do you take?
@@ -531,3 +535,4 @@ How different are human auras from other pokemons? Is it the same for you 2? Can
 
 ###**Kiyo's Gang**
 Tell me about a job you pulled that went wrong.
+[Comic strip](https://cloverguild.com/booru/post/746)

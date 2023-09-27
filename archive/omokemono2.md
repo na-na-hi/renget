@@ -273,6 +273,14 @@ If an outdated page gets updated, it loses its outdated status
 	- [Fanbox](https://erfsh0e4.fanbox.cc/)
 	- [Kemono](https://kemono.party/fanbox/user/9314)
 
+- degree123/にど
+  	- [Fanbox](https://degree123.fanbox.cc/)
+  	- [Kemono](https://kemono.party/fanbox/user/4383668)
+
+ - udonko3/う★どんこ
+	- [Fanbox](https://udonko3.fanbox.cc/)
+  	- [Kemono](https://kemono.party/fanbox/user/60295808?o=0)
+
 ## Pee + Scat Artists
 *Those artists draw scat but most of them separate the scat from the non-scat so it should be safe
 *Reminder that this list is primary for pee content ; if the artist's scat content greatly overshadows their pee content (ex: coprophagia, hyperscat, or 10 scat pictures for 1 pee picture ), please reconsider if it's a good idea to add them to the list*
@@ -335,7 +343,6 @@ If an outdated page gets updated, it loses its outdated status
 - Penguin [Shota][Loli][Furry][Diapers]:
    - [Fanbox](https://penguin.fanbox.cc/)
    - [Kemono](https://kemono.party/fanbox/user/40196527) (Some stuff is missing)
-
 
 ## Artist not yet on Kemono
 *A man can dream...*

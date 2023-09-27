@@ -9,7 +9,7 @@
 Ligma Company is a game developed by Project Type-Moon, developers of Colonoscopy Corporation and Legend of Ruinia. It's about reimagined literary characters living in a dystopian hellhole called ~~South Korea~~ The City, hired by the titular Sugma Company to scour the ruins in search of Golden Boughs for an as of yet unspecified goal, while driving a bus that runs on human lives.
 
 **2. Do I need to play the previous two games?**
-You don't *need* to. Dante (literally you) has no knowledge of what happened in the previous games. The setting is explained in the introductory chapters. Just because you can skip the previous two games, does not mean that you should. Both Lobotomy Corporation and Library of Ruina are incredibly fun games in their own right that have attracted a devoted fanbase even before the gacha released. You'll want to play them eventually, as the later chapters have callbacks and spoilers to the previous games (Particularly the end of chapter 4 and chapter 4.5).
+You don't *need* to. The setting is explained in the introductory chapters. Just because you can skip the previous two games, does not mean that you should. Both Lobotomy Corporation and Library of Ruina are incredibly fun games in their own right that have attracted a devoted fanbase even before the gacha released. You'll want to play them eventually, as the later chapters have callbacks and spoilers to the previous games (Particularly the end of chapter 4 and the entirety of chapter 4.5).
 
 **3. What can I expect from this game?**
 A great story, characters and setting. On top of that, jank, but fun gameplay that might not be very well-balanced. Library of Ruina during its early access phase kept releasing difficult updates, which were then subsequently nerfed because of Stemfags crying because they couldn't handle the difficulty. 
@@ -17,16 +17,16 @@ A great story, characters and setting. On top of that, jank, but fun gameplay th
 Also note that, unlike other gachas, We to have set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of characters being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over.
 
 **4. This game has a required reading list?**
-Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe. Look at the Resources Rentry for further information.
-[Recommended translations](https://rentry.org/ligmabooks)
-[MEGA folder with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
+Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe.
+[MEGA with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
+[Recommended Translations](https://rentry.org/ligmabooks)
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **5. Is this game F2P friendly/generous?**
 Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain any Identity or E.G.O currently in the dispensary.
 
 **6. Why can't I clear this stage?**
-First, actually **READ** what you and the enemies do. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
+First, actually **READ**. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
 
 **7. Does this game have supports?**
 Yes. You can bring one of your friend's units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
@@ -56,7 +56,10 @@ Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly afte
 Press on the sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-Every two weeks. Patch notes on Monday at roughly 5am EST. Maintenance on Wednesday at 9pm EST and ends at 11pm EST. New banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added during maintenance. Keep in mind that Korea is a day ahead for most of you.
+Currently every two weeks. Patch notes on Monday at roughly 5am EST. Maintenance on Wednesday at 9pm EST and ends at 11pm EST. New banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
+
+**14. Can I change my loading screen?**
+Yes. Your loading screen comes from the last story node's CG you played. Reply the node from start to finish to change it. Only do this once you've finished all the story content, obviously.
 
 ## Rerolling
 **1. Do I need to reroll?**
@@ -303,9 +306,10 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 This is shamelessly copied from the [/akg/ Newcutie Guide Rentry](https://rentry.org/akgnewcutieguide) because it is very well made.
 
 ## Contact
-Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
+Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something, I read every thread.
 
 ## Changelog 
-9/22-23/23: Created then pulled an all-nighter to finish V.1
-9/24/23: Fixing minor errors - Elaborated on sharting.
+9/22-23/23: Created and then pulled an all-nighter to finish V.1.
+9/24/23: Fixing minor errors. Elaborated on sharting.
 9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes. Elaborated on Luxcavation skipping.
+9/26/23: Mostly focused on the Resources Rentry today. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.

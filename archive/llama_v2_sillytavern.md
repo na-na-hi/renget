@@ -38,13 +38,13 @@ _(GPTQ has_ **_better speeds_** _but_ **_harsher VRAM requirements_**_, and appa
 
 Fine-tuned models are modified versions of the original LLaMA, tailored for specific tasks. There are many to choose from. People make these so that they have better performance, and in some cases less censorship, for certain tasks (roleplaying, coding, etc.)
 
-The **most popular Llama v2 model for roleplay/character chat** is [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML). I would recommend the [4\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGML/blob/main/mythomax-l2-13b.ggmlv3.q4_K_M.bin). Alternatively, pick the [5\_K\_M quantized version](https://huggingface.co/venketh/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.gguf.q5_K_M.bin) if you are willing to put up with mildly slower speeds for a slight quality boost. 
+The **most popular Llama v2 model for roleplay/character chat** is [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF). I would recommend the [4\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.Q4_K_M.gguf). Alternatively, pick the [5\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.Q5_K_M.gguf) if you are willing to put up with mildly slower speeds for a slight quality boost (if you don't have 12GB+ VRAM you will get slowdowns on higher quants)
 
 A notable Llama v2 7b model for roleplay/character chat is [Zarablend 7b](https://huggingface.co/zarakiquemparte/zarablend-l2-7b). 7b will fit into most people’s GPUs via GPTQ, so you may want to look into running GPTQ if your primary objective is speed over quality (not recommended). Otherwise (especially if your specs are low-end), your best bet would be the [GGML version](https://huggingface.co/TheBloke/Zarablend-L2-7B-GGML).
 
 - ### What is quantization and what do the numbers mean?
 
-_Quantization reduces model size by rounding numbers. **Fewer bits mean more information loss**, so choose at least a 3\_K\_L model, and not 2-bit. 4\_K\_M and 5\_K\_M are very close to uncompressed fp16 models but require less space. If unsure, go for_ **_4\_K\_M_**_, the most common quantization, or_ **_5\_K\_M_**_._
+_Quantization reduces model size by rounding numbers. **Fewer bits mean more information loss**, so choose at least a 3\_K\_L model, and not 2-bit. 4\_K\_M and 5\_K\_M are very close to uncompressed fp16 models but require less space. If you have under 10GB VRAM, and want to balance speed with quality, I would go for **_4\_K\_S_**_._ If unsure, go for_ **_4\_K\_M_**_, the most common quantization, or_ **_5\_K\_M_**_._ (If you have the VRAM / are willing to tolerate slower speeds if you don't have the VRAM)
 
 _"K_S" is Small, "K_M" is Medium, and "K_L" is Large._
 
@@ -83,7 +83,7 @@ Go to your SillyTavern folder and run ‘UpdateAndStart.bat’.
 
 After that you can click ‘Connect’, and if everything went well, you’re connected to the model!
 
-**Before we start importing characters,** you might want to try setting your Advanced Formatting settings to be following the "Simple-Proxy" setup. Simply choose the Simple-Proxy context template and you should be good to go, assuming your Instruct Mode is set to it. This will make the outputs more verbose and detailed, but it is not strictly required and is more preference if anything.
+**Before we start importing characters,** you might want to try setting your Advanced Formatting settings to be following the "Simple-Proxy" setup. Simply choose the Simple-Proxy context template and you should be good to go, assuming your Instruct Mode was also set to it. This will make the outputs more verbose and detailed, but it is not strictly required and is more 'personal preference' if anything.
 
 ![](https://files.catbox.moe/ortq3q.png)
 

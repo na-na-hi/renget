@@ -524,7 +524,7 @@ SciFi / Medical  | Low | Mid | Lorebook
 	->**Day and Night the guns fire, all day every day.  Nyota doesn't even hear them anymore. She's been firing this cannon for 8 years, and every day she hears her comrades die over the radio. It still hurts, though she no longer shows it.**<-
 
 !!! note
-	There is a bit going on under the hood here.  Nyota has a Randomizer for her fire missions, so you never know if your shots are going to be helpful or now.  I'm also quite happy with the conversations heard over the radio.
+	There is a bit going on under the hood here.  Nyota has a Randomizer for her fire missions, so you never know if your shots are going to be helpful or harmful.  I'm also quite happy with the conversations heard over the radio.
 
 Genre | Complexity | Polish | Systems
 :----: | :----: | :----: | :----:

@@ -16,7 +16,7 @@
 * [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
 
 **Team Builder**
-* [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU) [[A](https://files.catbox.moe/gcakcm.xlsx)]
+* [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 * [Prydwen Team Builder](https://www.prydwen.gg/limbus-company/team-builder/)
 * [Github Team Builder](https://darylhcw.github.io/lc-teambuilder/)
 
@@ -46,13 +46,10 @@
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
-* [Recommended Translations (Somewhat outdated for The Wings, see below links)](https://rentry.org/ligmabooks)
-* [Korean Short Story Anthology, with works by Yi Sang](https://mega.nz/file/RA5EEJpL#th39veizB5uPMKSYEOYFOZm8QIE7VA5LNx1GjE0zmc4)
-* [The Routledge Companion to Korean Literature](https://mega.nz/file/pEoiACLK#Y-qNHzIi4-c1Wc9h9-p1YDinaQm5r0c5s45xeAFCGHE)
+* [Recommended Translations](https://rentry.org/ligmabooks)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
-* [Leviathan](https://projectmoon.postype.com/series/875159/leviathanprojectmooncomicsenglish)
-* Human Translation of Leviathan 16-20 [16](https://docs.google.com/document/d/1XTKn80hOYry3ujfAXrtHEahOzVtmfRAdEpk6K_060Ck) [17](https://docs.google.com/document/d/1fJ35GZbccZMPVBPFFiha32KLEElTqp-sQlhluTV5TjI) [18](https://docs.google.com/document/d/1Vsyqc_-KsNWfM17qWFk4EcGWzw6t-RiANTUPbQLi19c) [19](https://docs.google.com/document/d/14INIr_C4sbBBCPHv1MhajKamnQt3czXGGGgEvd7lUj0) [20](https://docs.google.com/document/d/1DjA1nsOvx95OFLfQCm6B5AgNc7z5VtfBC8AQ-ySMr38)
+* [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
 * [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
 * [Mimi's Wonderlab Q&A](https://docs.google.com/document/d/1tLqsYkV30UQQiKM42bpYTtmS0eiJPwnhBDHzelSjSvE)
 * [Lobotomy Corporation Q&A](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
@@ -119,10 +116,10 @@
 This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](https://rentry.org/akg_resources) because it is very well made.
 
 ## Contact
-Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
+Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something, I read every thread.
 
 ## Changelog 
-9/22-23/23: Created then pulled an all-nighter to finish V.1
-9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to uptie 3 character stories
-9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so
-9/26/23: Added back MEGA links, decided to just do local webpage archives for the important things
+9/22-23/23: Created and then pulled an all-nighter to finish V.1.
+9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to Uptie 3 character stories
+9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
+9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.

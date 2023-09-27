@@ -853,6 +853,7 @@ The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spar
 Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu): https://rentry.org/rkhpv
 Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil): https://rentry.org/ewwu9
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://rentry.org/b2mhn
+Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force): https://rentry.org/xxk2h
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

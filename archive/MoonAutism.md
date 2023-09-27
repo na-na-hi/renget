@@ -34,7 +34,6 @@ Love me like you do - https://youtu.be/eQPQjVVmS44
 Dear God - https://youtu.be/RhJtikbL1oU 
 WHEN I WAS - https://youtu.be/SsWI6Yuj_3A 
 Mamma Mia! - https://youtu.be/WcFkJLe9UC4 
-Tequila! - https://youtu.be/4wjFQRiadEo 
 Moona-chan dayo~ - https://youtu.be/eZtRhmz9CrI
 PETTANKO - https://youtu.be/im-Ar55l-I8 
 3rd Fes High Tide reaction - https://youtu.be/QlfV_r7ZZ0M
