@@ -455,7 +455,10 @@ Feel free to use the speedup tickets, you'll have a billion of them lying around
 There has never been a 2x event on the crafting chamber, so there's no point in saving your crafting materials up. 
 
 ## Events
-(the story ones, not 2x ones) 
+(the story ones, not 2x ones)
+Go to https://justin163.com/planner/events
+Fill it in, it'll tell you what to do. 
+
 >Cool stuff to know 
 The highest bonus will be saved, so if you 1\* a quest stage with the max bonus then 3\* it with a different team, you can sweep the stage and get the highest bonus. This also works vice versa (first 3\*, then 1\* with max bonus). 
 

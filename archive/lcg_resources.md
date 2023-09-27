@@ -5,19 +5,18 @@
 	Do not repost this on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance.](https://files.catbox.moe/gyofcn.webp)
 [TOC]
 ## General Resources
-The [[A](https://www.youtube.com/watch?v=a3CganlnrO0)] at the end of most links leads to an archive. This is incase the original is deleted for whatever reason. Most of the huge MEGAs won't have archives, that's why I have them downloaded locally.
 !!! warning Some links have spoilers.
 ## Utility
 **Calculators**
-* [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM) [[A](https://files.catbox.moe/t4wl52.xlsx)]
-* [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0) [[A](https://files.catbox.moe/3zzcbb.xlsx)]
-* [Clash Calculator](https://syxp.github.io/LimComClashCalc/) [[A](https://files.catbox.moe/iu0jnt.zip)]
-* [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main) [[A](https://files.catbox.moe/wor16l.zip)]
-* [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas) [[A](https://files.catbox.moe/arxim7.pas)]
-* [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer) [[A](https://files.catbox.moe/d1z5m3.zip)]
+* [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM)
+* [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0)
+* [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
+* [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
+* [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas)
+* [Limbus Company Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
 
 **Team Builder**
-* [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
+* [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU) [[A](https://files.catbox.moe/gcakcm.xlsx)]
 * [Prydwen Team Builder](https://www.prydwen.gg/limbus-company/team-builder/)
 * [Github Team Builder](https://darylhcw.github.io/lc-teambuilder/)
 
@@ -125,5 +124,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 ## Changelog 
 9/22-23/23: Created then pulled an all-nighter to finish V.1
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to uptie 3 character stories
-9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so. I'm going to make web and maybe local archives of other things too, eventually.
-9/26/23: Added back MEGA links, will begin doing webarchives later today
+9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re add them in a day or so
+9/26/23: Added back MEGA links, decided to just do local webpage archives for the important things

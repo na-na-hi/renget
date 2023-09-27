@@ -107,6 +107,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
+6665 | F2Poor | Open as of 24/09
 11830 | TummyArchive | Open as of 14/09
 12395 | 中出しの幸せ (cumshot happiness) | Open as of 21/09
 
@@ -125,7 +126,6 @@ Club ID | Club Name | Club Status
 3640 | DFC | Full as of 17/09
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
-6665 | F2Poor | Full as of 26/06
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 21/08
 8785 | Frogs | Full as of 21/11

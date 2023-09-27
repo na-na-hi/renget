@@ -560,6 +560,8 @@ https://rentry.org/rkhpv
 https://rentry.org/ewwu9
 >Boys in a Comic Store (The Boys, Bakeneneko, Capture Cloth, Blackout)
 https://rentry.org/b2mhn
+>Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force)
+https://rentry.org/xxk2h
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -567,7 +569,60 @@ https://pastebin.com/rsnEph0b
 For Art, Memes, Tierlists, etc. check the controlc
 ```
 
-#Heroes of the Wastes (HOTW) (Dead)
+# Naruto (Second Reboot)
+***
+Page 1
+***
+```
+>Scenario: MP starts at the equivalent of episode 1 of Naruto, but none of the original characters exist. Anons are free to create their own historic clans.
+>Rules:
+>No Z rank
+>No world-altering drawbacks
+>Kekkai Genkai Perks give you 10 points towards a KG instead of giving it to you for free/upgrading it for free
+>Ignore the mandatory drawback requirements listed on some Perks (Enhanced Bodyfags better watch their backs)
+>You must throw tomatoes at soulless powergaming builds
+
+
+Build List:
+>S-Rank:
+Inatsu Hikuhei(Hokage), "The Bull of Konoha" >>90349663 
+>A-Rank:
+Taiki, "The Trunk Thrower >>90337572 
+Konna, "The Shady Foreigner" >>90338178 
+Mika Katsumi, "Opioid Smoke Girl" >>90339231 
+Hakumo Ikari, "Kitsune Vixen" >>90347774 
+Kurumi Yamagumo, "Prideful Puppeteer" >>90359191 
+Amami Kai, "The Tide" >>90371161 
+>B-Rank:
+Ray Sisuto, "Bloodline Actor" >>90337143 
+>C-Rank:
+Nara Suzura(Genin), "Cowardly Dragon Host" >>90338118 
+Oscar, "The Outlander" >>90345405 
+Kambara Soue, "Frosty Kunoichi" >>90349101 
+Tengu Yumiko, "Corvine Archer" >>90352365 
+>D-Rank:
+Takatsui Inukasai, "The Infernal Painter" >>90338614 
+Eisei Hokan, "Timid Grinner" >>90339452 
+Kazuo, "The Unarmed" >>90339594 
+Sarurata, "The Retarded Orphan" >>90339905 
+Zeiji Gorobuyo, "Toad Nemesis" >>90348456 
+Kenzo Nakamura, "Gluttonous Dragon" >>90348580 
+
+
+Writefags:
+>Why is there so much paperwork? (Inatsu Hikuhei)
+https://rentry.org/ac8xq
+>Meeting the team (Hakumo Ikari, Nara Suzura, Inukusai, Eisen Hokan. Cameo of Inatsu Hikuhei)
+https://rentry.org/gy9a8
+>A Speciality in Bitterness (Ray, Inatsu, Taiki, Zeiji, Takatsui, Kazuo, Suzura, Ikari, mentions of Sarurata, Eisei)
+https://rentry.org/x65cgs
+>Do Puppets Dream of Wooden Sheep? (Kazuo)
+https://rentry.org/u4q5i
+>Pride of the Tengu (Yumiko)
+https://rentry.org/6ur3e
+```
+
+#Heroes of the Wastes (HOTW)
 ***
 Page 1
 ***
@@ -575,8 +630,8 @@ Page 1
 https://rentry.org/HOTWSWEEP
 Password: HOTWSWEEP
 
-Build List:
->>All Dead
+Dead Build List:
+
 Dead High Plains Drifters:
 >Billy Kido
 >>89492515
@@ -740,7 +795,7 @@ https://rentry.org/CallisBallads
 Page 3
 ****
 ```
-Writefags:
+Writefags(Recorded deeds of the Dead):
 >Piss Break (Nymphs)
 https://rentry.org/4cfx3
 >Rumors of the Wasteland! (Lance)
@@ -802,7 +857,7 @@ https://docs.google.com/document/d/1QtUCl2VBMGos3kiuek4HvAzvojPlUgRGHbAqzACx7Go/
 >St. Heli's Fire (Heli Matharom, Ultra Magnus)
 https://rentry.org/HFWT-st-helis-fire
 
-Artfags:
+Postmortem Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
 >Kara angry
@@ -947,6 +1002,8 @@ Koreans
 >>90263918
 Morningstar
 >>90270536
+Chimera
+>>90375144
 
 >Vigilantes
 Alexi Liddel
@@ -999,6 +1056,8 @@ Undertaker Protectorate/Ward Relationship Chart
 https://rentry.org/c6veb2
 Rayford's Relationship chart
 https://rentry.org/wv22y
+Alexi's Relationship chart
+https://rentry.org/xeuet
 ```
 
 #JRPG (Reboot)

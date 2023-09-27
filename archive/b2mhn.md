@@ -122,7 +122,7 @@ Inigo's eyes lit up. "Ooh, mind if I get a pic? The class chat needs to see this
 
 Taking the hint, Inigo quickly put his phone away again. "Heh, maybe later."
 
-Hifumi turned to Nene, "So what brings you ladies here today, Nene-senpai? Wanna hang out with the coolest guys in 1-D again?" He flexed comically.
+Hifumi turned to Nene, "So, what brings you ladies here today?  Wanna hang out with the coolest guys in 1-D again, Nene-senpai?" He flexed comically.
 
 Nene gave them a teasing grin. "Sorry boys, but us three are having a girl's day today. We're just here to browse some new manga."
 

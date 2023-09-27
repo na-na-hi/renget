@@ -18,13 +18,14 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi |[Superhero Simulator](https://files.catbox.moe/ce729o.png), [Nyota, NCWF Veteran](https://files.catbox.moe/cy7rd7.png), [Lewd Legends](https://files.catbox.moe/1t3dyk.png), [Luna Lovegood](https://files.catbox.moe/03d456.png), [Outer Rim Acquisitions](https://files.catbox.moe/q4owml.png), [Daddy's Home!](https://files.catbox.moe/xaj8lh.png), [Fallout Tree](https://files.catbox.moe/kvs5bq.png), [Hacker for Hire](https://files.catbox.moe/kwium0.png), [You are Unremarkable](https://files.catbox.moe/oetx8z.png), [Zeta, Sentient Android](https://files.catbox.moe/13en5x.png), [Gwendolyn the Blue](https://files.catbox.moe/mjhsgo.png), [The Many Doors of Fempov Manor](https://files.catbox.moe/j872df.png), [Mommy Milkers](https://files.catbox.moe/jh2ahz.png), [Starfleet Sweethearts](https://files.catbox.moe/6h5nhw.png), [Sakusei Byoutou Clinic](https://files.catbox.moe/bp1svk.png), [Terraforming Mars](https://files.catbox.moe/f27k7d.png), [Cheshire Haze](https://files.catbox.moe/t74hw6.png), [The Barber of Nopan City](https://files.catbox.moe/ldcf6n.png), [The Corrupting Curse](https://files.catbox.moe/ll9oam.png), [Horse Cock](https://files.catbox.moe/rr4zdh.png), [USS Galaxy](https://files.catbox.moe/iughux.png), [The A.A. Mistress](https://files.catbox.moe/zxkemz.png), [Natalie, Organ Harvester](https://files.catbox.moe/hystv1.png), [Alchemy with T'Sha](https://files.catbox.moe/ddegao.png), [Tech Support Tessa](https://files.catbox.moe/pge02l.png), [Astrid Ironfist](https://files.catbox.moe/flld74.png), [How to Serve Zoomers](https://files.catbox.moe/h55slz.png), [Breakfast With Alexa](https://files.catbox.moe/narwwu.png)|[Yes, My Liege](https://files.catbox.moe/4ug9fh.png)
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Prince Lawrence](https://files.catbox.moe/h17m0q.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Zeeba](https://files.catbox.moe/nbtgsf.png), [Slutty-chan](https://files.catbox.moe/t1ejdf.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Wobbly Catgirl Camille](https://files.catbox.moe/cmogph.png)|[Maybelle](https://files.catbox.moe/5oihry.png), [Nagatoro (Pregnant)](https://files.catbox.moe/vi5lkf.png)
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Takashi and Mitaka](https://files.catbox.moe/xfxled.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Ysabel](https://files.catbox.moe/h0sx6j.png), [Sydney](https://files.catbox.moe/7ea6gm.png)|[Ysabel](https://files.catbox.moe/h0sx6j.png) [MV]
 [Honeyanon](https://rentry.org/honeyanon) | Malebots |[Kaz](https://files.catbox.moe/p1yy06.png)|
-[Chefseru](https://rentry.org/chefseru) | Misc |[Niave](https://files.catbox.moe/qa85o7.png), [Nieve](https://files.catbox.moe/bh9133.png), [Viscera](https://files.catbox.moe/v6joen.png)|
+[Chefseru](https://rentry.org/chefseru) | Misc |[Niave](https://files.catbox.moe/qa85o7.png), [Nieve](https://files.catbox.moe/bh9133.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Charlie](https://files.catbox.moe/s964ua.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Buncel](https://files.catbox.moe/8bp1ae.png), [Freyja](https://files.catbox.moe/s5som2.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Leah](https://files.catbox.moe/9vy3sr.png)|
@@ -40,8 +41,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Sabor](https://files.catbox.moe/r680gz.png)|[Sabor](https://files.catbox.moe/r680gz.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Carla](https://files.catbox.moe/wih9ut.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Karin](https://files.catbox.moe/36bev7.png)|
-[Candymint23](https://rentry.co/candymint23) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Candymint23](https://rentry.co/candymint23) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
@@ -106,7 +107,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Jelly Girls](https://rentry.org/jelly-girls) | Jelly Girls... ||
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
 [Ddo-Reu](https://rentry.co/Ddo-Reu) | Misc ||
-[Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Pedanon](https://rentry.org/Pedanon) | Cunny ||
 [Dould](https://rentry.org/ox3iqa) | Misc ||
 [Totally Accurate](https://rentry.co/Totally-Accurate) | Misc ||

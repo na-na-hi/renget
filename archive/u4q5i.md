@@ -1,0 +1,14 @@
+#Do Puppets Dream of Wooden Sheep?
+Kazuo dreams in flashes, flickers of light, sparks from clashing blades. He dreams, a small sliver of light cutting through the dark cell for just a moment before a shadow takes its place, words slipping like sand through the cracks in the door,
+
+"This all you got? We were expecting a shipment of at least..."
+
+Then it's over, and the next dream begins. The sword is unfamiliar, his arms so tired they felt like wood, and then the other `-----` screams, swinging down with both hands as Kazuo raises his own to block once more, the shower of sparks illuminating his desperate face contorted by the rippling reflection. When the sparks fade, he's dreaming of a room, with a single candle burning low. It smells like iron, and opium, and he stares at the ceiling as the last flickers of his uneven shadow disappear. He dreams of tunnels, an endless network of dark roots lit sparsely, the howl of wolves at his back and the flicker of distant flames blocked by the rush of bodies at his front. Then, he's at the bottom of a pit, the light shining down in brief slivers as he reaches through the discard pile with his remaining arm. On a bridge, axes swung through the dark with just schwings and sparks to announce their brief presence against stone. Then, he's at the bottom of the pit again, the light glowing brighter as he eats his way through the bodies of the other failures. The room is coated in red, candles flicker, and the long black shape on the wall is finally symmetrical again. The blades clash, faster and faster, sparks are ever present, until he douses the candles in blood and the sparks stop. He dreams, of a single door, a blue dot blinking back at him in the darkness, and the voice of `-----` drones,
+
+"Congratulations K-4200, You passed."
+
+The daylight burns, reflecting off his new limbs like magnesium bombs as he keeps his head low, following the man with the loudly jangling purse. The moon cuts the night like a blade as he cuts through the sliding doors, his quarry is bloody and beaten but still hobbling, to the pool of the garden and the splash of his body breaks the reflection. Candle light flickers off of coins, and he counts with one blade as he shoves them into a purse with the other. The puppet with blue eyes holds out a hand, and he dreams that they burn with blue flames as he drops the purse into its sectioned fingers. It echoes in his head, the droning voice says,
+
+"You're getting closer, K-4200. Only a bit more left."
+
+How much of yourself would you sell for freedom? Your body? Your mind? Your heart? Kazuo dreams he sold it all, and he dreams of buying it back.

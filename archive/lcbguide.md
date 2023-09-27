@@ -96,7 +96,7 @@ You can level up your Identities (IDs) by using XP Tickets. You can also upgrade
 **2. E.G.O**
 You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
 
-They also change your resistances to different types of attacks and changes your active passive. Those factors mean that you shouldn't just focus on the highest rarity E.G.O, but rather take into account the lower rarity stuff, too.
+They also change your resistances to different types of attacks and changes your active passive. You can have multiple E.G.O passives active at a time. Those factors mean that you shouldn't just focus on the highest rarity E.G.O, but rather take into account the lower rarity stuff, too.
 
 Similarly to identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 

@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #32 (Tuesday, 19 September 2023, 20:00 UTC)<-
+->Last updated on thread #33 (Tuesday, 26 September 2023, 22:30 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -40,6 +40,11 @@ https://archiveofourown.org/works/45551104/chapters/114618373
 `Autumn in Autumn`
 https://archiveofourown.org/works/44901607?view_adult=true
 [![Autumn: 54813fd7a70183d0e3672efc59184c67.jpg / 1675961099008.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1675/96/1675961099008.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1675/96/1675961099008.jpg)
+---
+---
+#####LanguidWing
+`Coevolution`
+https://archiveofourown.org/works/49281094
 ---
 ---
 #####MiataAnon
@@ -269,6 +274,16 @@ https://foxtailtale.itch.io/the-forgotten-island (RPG)
 `Chicken-Bacon-Swiss`
 I did try the Chicken-Bacon-Swiss at Arby's. The "pepper jack cheese" was very melty and had a texture that made me wonder if it was something that came in a jar like Cheez Wiz and they were spreading it on with a spatula. Not bad, not amazing, kind of wet and drippy. Lots of honey mustard, which either you like or you don't.
 
+###Burger King
+####59830147 Anonymous: Burger King Spicy Chicken Nuggets
+`Burger King Spicy Chimken Nugger`
+5/10 I've had better and I've had worse.
+[![Burger King's Spicy Chicken Nuggetsh:  IMG_20230922_224305932_HDR.jpg / 1695662242787.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)
+
+####59769453 Anonymous: Royal Chicken Sandwich
+`Royal Chicken Sandwich`
+I stopped at a Burger King and had the "Royal" chicken sandwich with bacon & swiss cheese. It was okay, kind of salty, very filling. It was not really memorable, but definitely not the worst chicken sandwich I've had either.
+
 ###Chick-fil-A
 ####59136273 Anonymous: Pimento Cheese Sandwich
 `Pimento Cheese Sandwich`
@@ -342,6 +357,15 @@ Not amazing, not horrible. It was sufficiently filling that I don't think I'll e
 `Lay's salt and vinegar review:`
 This chip tastes like a Canadian McDonald's. If you've ever ordered the World Famous Fries from a Canadian McJiggers, you'll know this chip whips your taste buds like they're a bunch of niggers. This chip is the opposite cousin of Saskatchewan, hard to draw but easy to spell, and you can draw your comparisons straight up. Salty like piss and savory like gravy, with a hint of vinegar to remind you that the floor needs a mopping. A little bit like something your polish mail carrier's cousin used to make, eh? Nothing like needless calories that convince you not to attempt suicide via a diebetic comatose. Rinse the bag with a little bit of Nestlé Pure Life Bottled Water and sip the contents, it's the closest you'll get to commercially sold orphan tears! Frito Lay's will leave your mouth both dry and watering for more, and if you're dead, who can judge! Just grab a bag, run it through, and do it again like a discord mod at two in the morning on a Tuesday! If you're looking for a snack that'll leave you smiling back, Lay's has your back unlike everyone else! Call this chip a selfish, salty cunt and he'll say you're correct, it's part of his marketing campaign to psyop all his friends into killing him for him, and he will only make you admit you want him in your mouth. Crispy, tangy, and garuenteed fresh while in date, these chips will run you through, and if you're going to space, well there's your air source. HATE air? Die then. Lays, 8/10.
 [![Lay's Salt and Vinegar: IMG_1694305634330.jpg / 1694308038959.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694308038959.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694308038959.jpg)
+
+###Macy's
+####59791460 Anonymous: Salad
+`Salad`
+Macy's salad.
+$8 is a lot for some grass and chicken.
+It felt rather generous, the bowl was fairly deep and the dish was 10in by 10in. It didn't fill me up, but I'm an American Proportions kind of gentleman.
+I have been forcing myself to have a salad at least once a week lately though. No ranch either, since that stuff is apparently pure fat.
+[![Macy's Salad: Screenshot_20230923-183445.png / 1695515742435.png](https://desu-usergeneratedcontent.xyz/trash/image/1695/51/1695515742435.png)](https://desu-usergeneratedcontent.xyz/trash/image/1695/51/1695515742435.png)
 
 ###McDonald's
 ####59239035 Anonymous: Spicy Deluxe Chicken
@@ -615,6 +639,9 @@ Rules:
 Please post green texts and stories as well. /hmofa/ stories that feature vixens are welcome.
 
 ---STORIES---
+By LanguidWing
+\>Coevolution
+https://archiveofourown.org/works/49281094
 
 By Anonymous
 \>MILF fox smut story

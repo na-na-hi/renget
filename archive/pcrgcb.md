@@ -27,10 +27,20 @@ videos:
 [Eruru](https://www.youtube.com/watch?v=au8k_61Uqs8)
 
 ### Boss 1
+[B1 Phys 67-69m](https://www.youtube.com/watch?v=_gkpMQN1NWU)
+![3](https://pomf2.lain.la/f/y7j5gs2c.png)
+Tested with:
+S.Kokoro 6★  Lv283 R30 FULL, UE 30, EX 5/3/5
+Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
+Ames 5★ Lv283 R30 FULL, EX 5/3/5
+Creditta 5★ Lv283 R30 FULL, EX 5/3/5
+Cafe Tamaki 5★ Lv283 R30 FULL EX 5/5/5
+![3](https://pomf2.lain.la/f/jxz6jfy8.png) 
+
 [B1 Phys 67-68m](https://www.youtube.com/watch?v=SJdueipzPZc)
 ![3](https://pomf2.lain.la/f/3vhzhf57.png)
 Tested with:
-S.Kokoro 6★  Lv283 R30 FULL, UE 160, EX 5/0/5
+S.Kokoro 6★  Lv283 R30 FULL, UE 30, EX 5/3/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 Ames 5★ Lv283 R30 FULL, EX 5/3/5
 Creditta 5★ Lv283 R30 FULL, EX 5/3/5
@@ -131,7 +141,7 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 
 ## Stage 4 manual
 ### Boss 1
-
+[B1 Physical 75m R10 S.Kokkoro](https://www.youtube.com/watch?v=Pv5hZRQ93jM)
 ### Boss 2
 
 
@@ -139,13 +149,14 @@ Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
 ### Boss 3
 [B3 Physical 64m](https://www.youtube.com/watch?v=IHta72B3kz4)
 ### Boss 4
-
+[B4 Magic 65m](https://youtu.be/i3SC-Ko5_0g)
 
 ### Boss 5
 
 ## Carryover / Overflow
 [ネブソク](https://www.youtube.com/watch?v=KmotFnWUS4A)
 [Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3VvKL34deGRex6FmOHZmN_X)
+![](https://pomf2.lain.la/f/i1o94yf2.jpg)
 
 ## General Resources for all Stages
 [Gamewith](https://gamewith.jp/pricone-re/article/show/419098)

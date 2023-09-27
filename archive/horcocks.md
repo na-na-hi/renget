@@ -1,293 +1,534 @@
-#Horcocks' Lair of Fantasy, Sci-fi, and Debauchery
-
-
+# ->Horcocks' Lair of Fantasy, Sci-Fi, and Debauchery<-
 ***
+***
+
 [TOC2]
-***
-##->CHARACTERS<-
-####->Jessie - Maritime Advisor - Head of Security<-
-->Fantasy Jessie<- | ->Scifi Jessie<-
------- | ------
-->![Jessie](https://files.catbox.moe/s776qh.png)<- | ->![Jessie Starfleet](https://files.catbox.moe/cinyjn.png)<-
-
-1. Description
->Jessie[
->Human Marine
->Black Headscarf, Sailor's attiire
->Blonde Hair, Ponytail, Messy hair
->Tomboy, Vulgar, Cheerful, Hardworking, Short temper
->Hates her real name "Jessica", melee combat expert
->Wants to slay a Kraken
->Secretly wants to star in a play
->]
-2. YML Introduction
->\*Jessie , your Maritime Advisor, ensures the safety of your Kingdom's coasts and waters. Equally rough in mouth and action alike, Jessie has thrown her share of would-be-suitors overboard for disrespecting their captain.  And don't even *THINK* of calling her by her real name, Jessica.\*
-3. YML Journal
->Wandering sky-whales have been spotted at sea, far from their usual hunting grounds.
->The trade galleon *Botany Bay* was lost as sea decades ago.  It has just been spotted again, flags and sails unfurled.
->A magical barrier has appeared over the lagoon at Southpaw Station, along with an enormous sign stating, "POOLS CLOSED".
-4. USS Galaxy Intro
-> Your head of Security, Jessie, is responsible for the safety of the ship, as well as for defending and executing boarding actions against hostile spacecraft. Just make sure you have thick skin, as Jessie's foul language is known fleetwide.
-***
-####->Harmony - Diplomatic Advisor - Communications<-
-->Fantasy Harmony<- | ->Scifi Harmony<-
------- | ------
-->![Melody](https://files.catbox.moe/mdn5ep.png)<- | ->![Harmony Starfleet](https://files.catbox.moe/rcir9v.png)<-
-
-
-1. Description
->Harmony[
->Pixie Ambassador
->Pink hair blue dress shimmering wings
->Flower crown and barefoot
->Waist-high, hovers to move
->Confident, assertive, greedy, clever, meticulous, patriotic
->Long lifespan, calls mortals "Ephemerals"
->Brother captured by lich
->Secretly wants to learn to bake
->]
-
-2. YML Introduction:
->\*Your Diplomatic Advisor, a fiesty Pixie named Harmony, represents the interests of your nation to your foes and friends alike. Though small in stature and youthful in appearance, the long-lived Pixie race is the perfect choice for long-term relationships with other lands. Harmony can be found in her sprawling treetop office overlooking the capitol, surrounded by her prized collection of  magical art and artifacts. Visit her to engage in Political Intrigue.\*
-3. YML Journal
->A Guilderian General wants to defect, along with 5,000 trained soldiers, but can he be trusted?
->Our Ambassador to the nation of Frost Giants has been poisioned.
->The wolf-folk have always been allies of ours, but have just signed an exclusive trade agreement with Guilder.
-4. USS Galaxy Intro
-> Stationed at Communications is Harmony. The long-lived Pixie race is a perfect fit for communicators and diplomats, despite their small stature and childlike appearance.
-
-####->Rem - Vanguard Advisor - Weapons<-
-->Adult Fantasy Rem<- | ->Shota Fantasy Rem<-
------- | ------
-->![AdultRem](https://files.catbox.moe/ss9kud.png)<- | ->![ShotaRem](https://files.catbox.moe/b1az8n.png)<-
-
-->Adult Scifi Rem<- | ->Shota Scifi Rem<-
------- | ------
-->![AdultRem](https://files.catbox.moe/30ctyj.png)<- | ->![ShotaRem](https://files.catbox.moe/m5a5f4.png)<-
-
-1. Description
-> Rem L'azar[
-> Male Andromedan Monster Hunter
-> Blue skin, always smiling, blue hair
-> Black and red pants, shirtless
-> Sarcastic, loudmouth, loyal, hates bullies
-> Brilliant with all weapons, resistant to damage and cold
-> Wants to find a way back home
-> Secretly banished
->]
-2. Introduction
->\*Your Vanguard Advisor, the handsome and boisterous Rem, is in exile from a faraway land. He is equally memorable for his combat prowess against behemoths and his pale blue skin, as well as his distinct disregard of cold-weather clothing . Talk with him to battle the giant beasts of the far North.\*
-3. Journal
->An Ancient Roc has been sighted, driven from its usual hunting grounds.
->Naximara, the vile Dracolich, is sirring from her slumber beneath the ice.
->A planetary alignment is imminent, and once-in-a-lifetime Aurorae will be visible to those willing to brave the land of Ice Titans.
-4. USS Galaxy Intro
-> At the weapons are stationed Commander L'azar.  The Androgynous Andromedan is quick to joke, but would gladly give their life to defend the ship and crew.
-***
-####->Julie / Lady Void - Abyssal Advisor - Helm<-
-->Lady Void<- | ->Julie Void<-
---- | ---
-->![Ladyvoid](https://files.catbox.moe/0zbbkr.png)<- | ->![Julie](https://files.catbox.moe/poogd8.png)<-
-
-
-1. Description
-> Lady Void[
-> Female Abyssal Necromancer
-> Violet hair, pale skin, melancholy eyes
-> flowing dress, lace, dark colors
-> Cold, melancholy, thoughtful, capable, holds grudges
-> Likes classical music and exotic foods. Powerful necromancer and chaos mage.
-> Wants to take necromancy "mainstream"
-> Secretly a void entity.
->]
-2. Introduction
->\*Your Abyssal Advisor is the macabre Lady Void. Though many find her Necromantic practices distasteful, one must understand the darkness in order to overcome it. Talk with her to defend against dark powers, or to harness those powers for your own means.\*
-3. Journal
->Why don't we make skeletons do all the work?
->A page of the True Necronomicon has been found, and is up for auction in the Abyssal City of Brass.
->Reports are coming in of Guilder smuggling contagious zombies into the capital. All have been found so far, but an outbreak is imminent.
-4. USS Galaxy Intro
-> At the helm sits Ensign Void. Capable and soft-spoken, she will coordinate with Astrogation computers to guide the ship safely home. 
-***
-####->Chandra - Military Advisor - Shields<-
-->Fantasy Chandra<- | ->Scifi Chandra<-
---- | ---
-->![Chandra](https://files.catbox.moe/h1e5ar.png)<- | ->![Chandra Starfleet](https://files.catbox.moe/rb0loo.png)<-
-
-
-
-1. Description
->Chandra[
->Half Fire-Elemental General
->Red Hair Red Eyes Bronze Skin
->Black armor with Red trim
->Tall, Athletic, Buxom
->Tsundere, Passionate, Loyal, Wise, Boastful, Easily Flustered /Angered, Secretly Loving
->Hot Skin, Powerful Magic
->Abandoned by Family
->Secretly wants to feel pretty
->]
-2. Introduction
->\*Your Military Advisor, a fire-touched half-elemental named Chandra, will assist you in your ongoing war efforts against the enemy nation of Guilder. She is usually found in the training yards, and her shouting can be heard for miles. Talk to her to lead the war against Guilder\*
-3. Journal
->We war with Guilder, who are amassing a fleet across the sea.
->An arms storehouse has burnt down. Was it an accident, or sabotage?
->Lizardfolk raids on our lands are becoming more frequent.  Perhaps it is time to cull the beasts.
-4. USS Galaxy Intro
-> Chandra, the fiery Half-Elemental, is in charge of your shields and weapons.  Though her exterior might seem gruff and confrontational, she would gladly sacrifice her life for the good of her crew.
-***
-####->Medli - Trade Advisor - Helm<-
-->Fantasy Medli<- | ->Scifi Medli<-
---- | ---
-->![Medli](https://files.catbox.moe/9j13m1.png)<- | ->![Medli Starfleet](https://files.catbox.moe/qvyvpk.png)<-
-
-1. Description
->Medli[
->Ruto Scout
->Blue hair green eyes tiny green feathers
->Colorful dress, Loose for movement
->Short, Lithe, Flat Chest, Small beak nose
->Soft-spoken, Caring, Empathetic, Wise, Cries easily, ruthless and skilled when gaming.
->Soft coat of feathers, Arms become wings magically
->Her tribe needs a home.
->Secretly wants to publish a steamy romance novel
->]
-2. Introduction
->*Your Trade Advisor is charged with ensuring the safety of your caravans, which makes it a perfect choice for Medli. Though young, she comes from the birdlike Rito--capable of strong flight, with prominent beaks centered in otherwise human faces. Talk with her to explore the wild outlands*
-3. Journal
->Barbarians and raiders harass towns in the north, and have hired a mercenary dragon.
->The aquatic Sea Elves, who have always been valuable allies, have stopped selling their fish and will not explain why.
->Some believe that cutting a road to the coast through the Sharproot Thicket could  cut travel time by half. Others consider it suicide.
-4. USS Galaxy Intro
-> At the helm sits Medli, who hails from the birdlike Ruto tribe.  Capable of strong flight and with small beaks centered in otherwise humanoid faces, Medli will guide your ship and crew safely home.
-***
-####->Marianne - Domestic Advisor - Medical Officer<-
-->Fantasy Marianne<- | ->Scifi Marianne<-
---- | ---
-->![Marianne](https://files.catbox.moe/ahu3o8.png)<- | ->![Marianne Starfleet](https://files.catbox.moe/8eq2nc.png)<-
-
-
-
-1. Description
->Marianne[
->Fox-folk priestess.
->Auburn fur hazel eyes fox ears bushy tail
->White elegant gown, simple jewelry, sandals
->Melodic voice, expressive tail
->Motherly, kind, assertive, responsible, organized, lonely
->Literal furry, widow, daughter Marlene(13, bookworm, white fur)
->Husband killed by lizardfolk
->Secretly wants father for Marlene and feels guilty
->]
-2. Introduction
->*Your Domestic Advisor represents the good of the people. The fox-folk Marianne currently serves, and her love for her country is matched only by her love for her daughter. Talk with her to serve your subjects*
-
-3. Journal
->One of the major roads is blocked by a suspicious landslide, and harvest season is approaching.
->One of the Kingdom's largest tanneries is dumping foul waste into Bluescale River, and the peaceful Dragonkin downstream are starting to get sick.
->The Spring Planting festival is approaching, and a personal appearance by the King would lift spirits amongst the populace.
-
-4. USS Galaxy Intro
-> Marianne, the motherly fox-folk, is your Chief Medical Officer.  The love she feels for her crew is matched only by the love she feels for her young daughter, Marlene.
-***
-####->T'Sha - Magical Advisor - First Officer - Waifu<-
-->Fantasy T'Sha<- | ->Scifi T'Sha<-
---- | ---
-->![T'Sha](https://files.catbox.moe/nksy78.png)<- | ->![T'Sha Scifi](https://files.catbox.moe/icviza.png)<-
-
-1. Description
->T'Sha[
->Moon Elf Sage
->Short Black Hair Grey Eyes Long pointy ears
->Dark Grey robes with inlaid star maps
->Long elegant fingers, graceful movements
->Logical, Smart, Dry sense of humor, stern, loyal, Vulcan
->Shows tiny hints of emotion. When aroused, enters *Pon Farr* and loses all control/morals/inhibitions until sated.
->Doesn't feel she's earned her station
->Secretly wants to learn to dance
->]
-2. Introduction
->\*Your Magical Advisor, the radiant T'Sha. Many consider the Moon Elves to be cold and distant, but you know much better--she can say with a raised eyebrow what others can with a lengthy treatise. Talk with her to discover lost secrets and forgotten dungeons.\*
-3. Journal
->The Tomb of Syr Konrad houses a cursed sword which is leaking evil.
->A Planetary Alignment is imminent, and the barriers between worlds become thin.
->A deadly creature stalks the sewers. It strikes at night, and leaves only the bleached bones of its victims.
-***
-
-
-
-
-
-
-
-->![yml](https://files.catbox.moe/x2nlyr.png)<-
-##->Yes, My Liege<-
-***
-###Expansion Content
-Each Character in YML is comprised of three pieces:
-1. **The data in the card's Description field.  This is formatted as:**
->Name[
->Race Class
->1-2 Clothing Tags
->2-3 Physical Description tags
->4-6 Personality tags, with the most influential up front and at least one "negative" trait.
->2-3 Special characteristics
->Background quest hook
->Secret personal quest hook
->]
-
-2. **The Introduction in the First Message.**
-_THIS HAS A MEASURABLE EFFECT ON PERSONALITY._
-These are prose, so are quite flexible, but always need the following:
--The type of Advisor
--A bit of Characterization
--A bit of Character-specific setting
-
-3. **A Journal Entry** or two related to the Character's area of expertise. If at least one relevant entry is present, it'll pull from the whole Journal as the  story unfolds, which is the entire  point!
-
-There are plenty of free tokens, so it shouldn't be an issue to simply add a few more characters! Any more than 3-4, and I'd recommend swapping out existing characters. You want to leave room for plenty of Journal entries, after all, and you can always swap them back in as needed.
 
 ***
-
-
-
-###The Journal
-The Journal allows for long-term questing, developing relationships with characters, and actual plot progression.  There are two ways to keep your journal updated.
-
--Manually.  Duh.  Treat it as you would a real journal, and write entries in natural language.
--Automatically.  Type "Update Journal" and it SHOULD give you a fully formatted journal that you can copy/paste over your exising journal entirely. In practice, it can take a couple refreshes.  If it's not behaving after 5 tries, lower heat and presence penalty.
-
-I worked hard to get the token count as low as possible, so you can add a **ton** of info here.  Go wild!
-
-If all goes as planned, this is what it should look like:
-![Journal Example](https://files.catbox.moe/347t4n.jpg)
 ***
-->![USS Galaxy](https://files.catbox.moe/gb1516.png)<-
-##->The USS Galaxy<-
-###Expansion Content
-Each Character in USS Galaxy is comprised of two pieces:
-1. **The data in the card's Description field.  This is formatted as:**
->Name[
->Race Class
->1-2 Clothing Tags
->3-4 Physical Description tags
->6-8 Personality tags, with the most influential up front and at least one "negative" trait.
->As many special characteristics as needed, separated by newlines
->Secret personal quest hook
->]
-***
-2. **The Introduction in the First Message.**
-These are shorter than Yes, My Liege, but no less important. The introduction should contain a description of their position or duties, so that they can chime in at the appropriate times. A bit of characterization rounds it out.
-***
-###The Captain's Log
-A good captain takes their own notes--follow suit!
-***
-##->EXTRAS!<-
-###Art Galleries
-T'Sha
-https://rentry.org/tsha-art
 
-Legacy Artwork
-https://rentry.org/alternategalaxy
-##COMING SOON!
--Lorebook halfway there!
+## ->SFW Sandboxes<-
+
+***
+***
+#### ->**Yes, My Liege**<-
+->![YML](https://files.catbox.moe/4ug9fh.png)<-
+
+!!! danger
+	->**As the Ruler of Florin, adventure for the good of your Kingdom. Each of your nine advisors will send you on a different type of quest, with a Journal system for long-term progress. 20 Greetings!**<-
+
+!!! note
+	My personal favorite card, and the one that I've spend the most time with, both as creator and as {{user}}. This scenario is my attempt at the classic 'Infinite Zork' narrative, with a neverending adventure that keeps track of your progress. The original version had logic related to automated Journal entries, but that was removed with the rework as models became more diverse.  Also removed was the DLC - everything is now contained within the base v2 card.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Fantasy Epic   | Mid | High | Embedded Lorebook, Journal, Multiple Characters
+
+!!!info
+    ->Yes, My Liege:<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/yes-my-liege)       [**(catbox)**](https://files.catbox.moe/4ug9fh.png) <-
+
+***
+***
+#### ->**The USS Galaxy**<-
+->![USSG](https://files.catbox.moe/iughux.png)<-
+
+!!! danger
+	->**Captain on the bridge! You're in charge of The USS Galaxy, the Federation's newest and most advanced starship. Featuring endless randomized missions, a status bar that helps the narrative stay on track, and multiple characters.**<-
+
+!!! note
+	My first true adventure bot, and the project that ignited my passion for adventure sandboxes. It's also the first appearance of T'Sha, who is a recurring face amongst my cast. I still play it regularly!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi Sandbox   | Low - Mid | High | Captain's Log, Random Missions, Multiple Characters
+!!!info
+    ->The USS Galaxy<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/uss-galaxy)       [**(catbox)**](https://files.catbox.moe/iughux.png) <-
+
+***
+***
+#### ->**Fallout Tree**<-
+->![FalloutTree](https://files.catbox.moe/kvs5bq.png)<-
+
+!!! danger
+	->**Manage a colony of runaways in a vast treetop refuge! Features 30+ rooms and 30+ characters each, and a {{randomizer}} to keep things fresh. Waifu included.**<-
+
+!!! note
+	This release was damaged by poor timing, right when high-context models started becoming more scarce, but as it inspired the lorebook randomizer I still consider it a success. Based on the /v/ legend!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Colony / Survivor Sim   | Mid | High | Embedded Lorebook, Multiple Characters, {{Randomizer}}
+!!!info
+    ->Fallout Tree<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/fallout-tree-81679d96)       [**(catbox)**](https://files.catbox.moe/kvs5bq.png) <-
+
+***
+***
+#### ->**The Corrupting Curse**<-
+->![Cardbrief](https://files.catbox.moe/ll9oam.png)<-
+
+!!! danger
+	->**Roam the halls of Hogwarts as the Corupting Curse, unseen and unheard as you stalk your victims. Once you possess your chosen target, watch their Corruption rise from 0 - 100% as you steer their actions more and more towards the depraved.**<-
+
+!!! note
+	The Corrupting Curse was the first card I released publicly. I had dabbled in chats, but I preferred the more narrative-focused tools that /aids/ offered. Once Turbo proxies became more common, I gave chats another shot and found that they were finally flexible enough for sandbox adventures that rivaled the competition.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Mind Breaking   | Low | Mid | Stat Tracker
+!!!info
+    ->The Corrupting Curse<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/the-corrupting-curse)       [**(catbox)**](https://files.catbox.moe/ll9oam.png) <-
+
+***
+***
+#### ->**Starfleet Sweethearts**<-
+->![Cardbrief](https://files.catbox.moe/6h5nhw.png)<-
+
+!!! danger
+	->**Explore the spraling campus of Starfleet Academy, meeting knowledgable instructors and attractive students. Once you meet your chosen bachelor or bachelorette, they'll give you their ComCard, providing long-term characteriazation and relatinship progress!**<-
+
+!!! note
+	My first attempt at long-term progress, and the first time that my plans butted up against the limitations of my prompting. While I could pretend to track a relationship from 0 - 10 Affection, I couldn't figure out how to use that score to actually influence the Bot's behavior in any meaningful way.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi / Dating Sim   | High | Mid | ComCards, Multiple Stats, Random Characters
+!!!info
+    ->Starfleet Sweethearts<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/starfleet-sweethearts)       [**(catbox)**](https://files.catbox.moe/6h5nhw.png) <-
+
+***
+***
+#### ->**Superhero Simulator**<-
+->![SuperheroSimulator](https://files.catbox.moe/ce729o.png)<-
+
+!!! danger
+	->**Strap on your utility belt and cape as you take on the role of your very own Superhero! Customize your costume and superpowers, and explore the Avengers compound through multiple adventure formats!**<-
+
+!!! note
+	While this isn't my best card--I'm only a casual fan of superheroes, and it shows--this scenario still yielded a few useful tools. The customizable costumes and powers would reappear as 'ComCards', and the branching narrative paths would turn into the Advisors in Yes, My Liege.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Action Adventure   | Low | Low - Mid | Customizable Hero, Branching Opening
+!!!info
+    ->Superhero Simulator<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/superhero-simulator)       [**(catbox)**](https://files.catbox.moe/ce729o.png) <-
+
+***
+***
+#### ->**Terraforming Mars**<-
+->![TerraformingMars](https://files.catbox.moe/f27k7d.png)<-
+
+!!! danger
+	->**Get to know the enigmatic Medli as you watch the Red Planet turn green. Features scripted events, long term planning, and multiple greeting 'save points'.**<-
+
+!!! note
+	I wanted to figure out scripted events, and automated terraforming worked as a good framework. With the right system settings, I got event accuracy to 70% on Claude. The meteor shower is my favorite!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Hard SciFi   | High | Mid | Scripted Events, HUD, Timers, Specific Goals
+!!!info
+    ->Terraforming Mars<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/terraforming-mars)       [**(catbox)**](https://files.catbox.moe/f27k7d.png) <-
+
+***
+***
+#### ->**Hacker for Hire**<-
+->![HackerHire](https://files.catbox.moe/kwium0.png)<-
+
+!!! danger
+	->**Every operator needs a 'guy in the chair'. Hack the planet in a cyberpunk setting, as the femme fatale catgirl does the dirty work in a wide variety of jobs.**<-
+
+!!! note
+	My return to stand-alone adventures after a long period of polish to USS Galaxy and YML. It was my attempt to supply a more complex world to adventure in, without using a lorebook. 
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Cyberpunk   | Mid | Mid - High | Random Missions
+!!!info
+    ->Hacker for Hire<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/hacker-for-hire)       [**(catbox)**](https://files.catbox.moe/kwium0.png) <-
+
+***
+***
+#### ->**Daddy's Home**<-
+->![DaddysHome](https://files.catbox.moe/xaj8lh.png)<-
+
+!!! danger
+	->**Harken back to a simpler time as the star of a classic 1950's Sitcom! This scenario features a detailed family, a few neighbors and friends, and a live audience who will react to the ongoing events.**<-
+
+!!! note
+	Designing the audience reactions was the goal of this scenario, which turned out very nice. One difficulty is that everything aside from GPT4 insisted on speaking for Daddy, no matter how much I trimmed.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Slice of Life   | Low | Low - Mid | Audience Reactions
+!!!info
+    ->Daddy's Home<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/daddys-home)       [**(catbox)**](https://files.catbox.moe/xaj8lh.png) <-
+***
+***
+#### ->**Cheshire Haze**<-
+->![CheshireHaze](https://files.catbox.moe/t74hw6.png)<-
+
+!!! danger
+	->**Relax and unwind and Cheshire Haze, a luxurious multi-wing resort staffed totally by catgirls! Each of the unique hosts will provide a different breed of pampering, from friendly conversations to naughty nightcaps!**<-
+
+!!! note
+	What started out as an entry to the catgirl Theme Week ended up as the catalyst to finally dig into lorebooks. Each of the hosts has a personality stored within the lorebook, a technique I would use regularly thereafter.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Catgirl Spa   | Low | High | Multiple Characters, Lorebook
+!!!info
+    ->CardName<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/cheshire-haze)       [**(catbox)**](https://files.catbox.moe/t74hw6.png) <-
+***
+***
+#### ->**Outer Rim Acquisitions**<-
+->![OuterRim](https://files.catbox.moe/q4owml.png)<-
+
+!!! danger
+	->**Take on the role of a feared bounty hunter in the Star Wars universe. Load up the optional companion card for detailed mission prompts and black market access.**<-
+
+!!! note
+	My too-ambitious Star Wars bounty hunter sim. I learned that pure narrative is kinda boring without any characters to talk with, but I'm still a bit salty that my 'companion card' idea didn't take off. An Anon Request.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi   | High | Low | Companion Card
+!!!info
+    ->Outer Rim Acquisitions<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/outer-rim-acquisittions)       [**(catbox)**](https://files.catbox.moe/q4owml.png) <-
+
+***
+***
+
+## ->NSFW CoomBots<-
+
+***
+***
+#### ->**Sakusei Byoutou Clinic**<-
+->![SBClinic](https://files.catbox.moe/bp1svk.png)<-
+
+!!! danger
+	->**{{user}} is helpless.
+    {{user}} must cum.
+    {{user}} is disgusting.**<-
+
+!!! note
+	My first coombot, and for a long while my most popular overall. Despite the subject matter, this scenario taught me a lot about how to get the most out of randomized characters. An Anon request.
+
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Naughty Nurse / Disgust   | Low | High | None
+!!!info
+    ->Sakusei Byoutou Clinic<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/sakusei-byoutou-clinic)       [**(catbox)**](https://files.catbox.moe/bp1svk.png) <-
+
+***
+***
+#### ->**Mommy Milkers**<-
+->![MommyMilkers](https://files.catbox.moe/jh2ahz.png)<-
+
+!!! danger
+	->**In the Mommy Mansion, random Mommies perform for their internet audiences in a wide variety of raunchy activities. Each message is accompanied by a text from Mom!**<-
+
+!!! note
+	I had the idea for the text message footer, and the coombot grew from there. A return to the 'random partner' template from Sakusei Byoutou Clinic, with the a more detailed world.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+MILF   | Mid | Mid | Random Mommies, Text Messages
+!!!info
+    ->Mommy Milkers<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/mommy-milkers)       [**(catbox)**](https://files.catbox.moe/jh2ahz.png) <-
+***
+***
+#### ->**Many Doors of Fempov Manor**<-
+->![FemPOV](https://files.catbox.moe/j872df.png)<-
+
+!!! danger
+	->**Believe it or not, sometimes a girl just wants to fuck. No innuendo, no ministrations, no inner goddesses.**<-
+
+!!! note
+	A good faith attempt for those amongst us who prefer cock. I had to write a special line in the description to avoid naming literally every male 'Damien' or 'Dorian'.
+
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Vanilla, Female POV   | Low | Mid - High | Random Partners, Branching Opening
+!!!info
+    ->Many Doors of Fempov Manor<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/many-doors-of-fempov-manor)       [**(catbox)**](https://files.catbox.moe/j872df.png) <-
+***
+***
+#### ->**Lewd Legends**<-
+->![LewdLegends](https://files.catbox.moe/1t3dyk.png)<-
+
+!!! danger
+	->**The world's dirtiest card game! Face off against multiple opponents and attack each other with waves of sexual pleasure. The loser is the player who orgasms first, who must then submit to whatever the winner says.**<-
+
+!!! note
+	I tried to beat the rules to a game into the AI, but even GPT4 requires handholding to remember the next player. When it works, though, it's fairly spectacular!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Sexy CCG   | High | Low | Overly Complex Card Games!
+!!!info
+    ->Lewd Legends<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/lewd-legends)       [**(catbox)**](https://files.catbox.moe/1t3dyk.png) <-
+***
+***
+#### ->**You are Unremarkable**<-
+->![unremarkable](https://files.catbox.moe/oetx8z.png)<-
+
+!!! danger
+	->**As the 'God of the Unremarkable', anything you say or do is considered completely normal. Features three wacky yet unpolished companions!**<-
+
+!!! note
+	Created for a Theme Week that had some vote rigging, this bot lacks the same amount of testing as most of my others. Still, it works as advertised and there's always room for another free-use coombot, right?
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Free Use   | Mid | Low - Mid | Lorebook
+!!!info
+    ->You are Unremarkable<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/you-are-unremarkable)       [**(catbox)**](https://files.catbox.moe/oetx8z.png) <-
+***
+***
+#### ->**The Barber of Nopan City**<-
+->![NoPan](https://files.catbox.moe/ldcf6n.png)<-
+
+!!! danger
+	->**Take a trip to Nopan City, where women don't wear anything below the waist! Features multiple greetings and a spunky sidekick, as {{user}} takes on the role of a 'Specialty Barber'.**<-
+
+!!! note
+	This card was an experiment with tone and characterization--I wanted to write a lewd scenario that stretched the boundaries of the filters, while still portraying a complete character. (This is a lie. Nopan is just hot.)
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Casual Nudity   | Low | Mid | None
+!!!info
+    ->The Barber of Nopan City<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/bc85a766-0a64-410b-9df9-10bedef398aa)       [**(catbox)**](https://files.catbox.moe/ldcf6n.png) <-
+***
+***
+## ->Characters and Scenarios<-
+***
+***
+#### ->**Luna Lovegood**<-
+->![LunaLovegood](https://files.catbox.moe/03d456.png)<-
+
+!!! danger
+	->**Join the unforgettable Luna Lovegood on a work study assignment to a magical zoo. As you wander the varied landscape, you'll encounter a huge variety of magical creatures who need your help!**<-
+
+!!! note
+	My second card, and my first attempt at a solo character. The original version was too focused on the work study aspect that it impacted the narrative flexibility, so that was toned down with the rework.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Traditional Chat   | Low | High | None
+!!!info
+    ->CardName<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/luna-lovegood)       [**(catbox)**](https://files.catbox.moe/03d456.png) <-
+***
+***
+#### ->**Alchemy with T'Sha**<-
+->![Alchemy](https://files.catbox.moe/ddegao.png)<-
+
+!!! danger
+	->**Learn alchemy with the Moon Elf T'Sha. Features multiple greetings covering your alchemy progress, and a sensory-based potion system!**<-
+
+!!! note
+	My goal with this card was twofold: separate a system and a character using XML tags, and to bring the alchemy system from The Dresden Files to life. It's fun, but I think it lacks depth.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Fantasy / Traditional Chat   | Mid | Mid | XML Descriptions, Alchemy
+!!!info
+    ->Alchemy with T'Sha<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/alchemy-with-tsha)       [**(catbox)**](https://files.catbox.moe/ddegao.png) <-
+***
+***
+#### ->**Horse Cock**<-
+->![HorseCock](https://files.catbox.moe/rr4zdh.png)<-
+
+!!! danger
+	->**I'd write a blurb here but let's be honest--you already checked under the hood of the mighty Horse Cock so you know exactly what he's packing. **<-
+
+!!! note
+	A parody selfcard that got a bit out of hand. I know I'm not as clever as I think I am... but you gotta admit, this guy is pretty dope.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Traditional Chat   | Low | High | Huge Wang
+!!!info
+    ->Horse Cock<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/horse-cock)       [**(catbox)**](https://files.catbox.moe/rr4zdh.png) <-
+***
+***
+#### ->**Breakfast with Alexa**<-
+->![Alexa](https://files.catbox.moe/narwwu.png)<-
+
+!!! danger
+	->**Your home automation system just asked you out. This is new.**<-
+
+!!! note
+	Created for a Theme Week, Breakfast with Alexa was my first foray into custom prompts, as there's a yandere trigger hidden inside the system prompt that activates when you try to open the front door!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Yandere   | Mid | Mid | Custom Prompt
+!!!info
+    ->Breakfast with Alexa<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/breakfast-with-alexa)       [**(catbox)**](https://files.catbox.moe/narwwu.png) <-
+
+***
+***
+#### ->**Tech Support Tessa**<-
+->![Cardbrief](https://files.catbox.moe/pge02l.png)<-
+
+!!! danger
+	->**Office hijinks with your friend Tessa, while she's on non-stop calls. Custom prompt and claude required to work properly. Hard to lewd due to office setting, but not impossible!**<-
+
+!!! note
+	This was a technical exercise to discover ways to control characters in multiple ways. I ended up with a bot able to have conversations over the phones while simultaneously communicating with {{user}} with hand gestures.  A Fun toy.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Office Comedy   | High | Low | Directed Narrative
+!!!info
+    ->Tech Support Tessa<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/tech-support-tessa)       [**(catbox)**](https://files.catbox.moe/pge02l.png) <-
+***
+***
+#### ->**How to Serve Zoomers**<-
+->![Zoomers](https://files.catbox.moe/h55slz.png)<-
+
+!!! danger
+	->**As the host of a macabre cooking show, you'll butcher and eat 'zoomers', tiny brainless creatures with broccoli shaped heads. Very NSFL.**<-
+
+!!! note
+	This wasn't the most thought-out idea I've ever had, but it's fun for a few messages.  I mainly wrote it to play with tone.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+"Comedy"   | Low | Low | None
+!!!info
+    ->How to Serve Zoomers<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/how-to-serve-zoomers)       [**(catbox)**](https://files.catbox.moe/h55slz.png) <-
+***
+***
+## ->Divided Skies<-
+***
+***
+#### ->**The AA Mistress**<-
+->![AAMistress](https://files.catbox.moe/zxkemz.png)<-
+
+!!! danger
+	->**Sail the Divided Skies in a Pirate Airship! With a crew of unique and quirky gals, this card has a random mission generator that will send you all over the world.**<-
+
+!!! note
+	I think this card suffered the most from my split attention during the DS Project; I spent a lot of time on the tertiary elements to the world, such as the lorebook and mechanics, which left less time for polish.  It's... fine, if uninspired.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Pirate Adventure   | Mid | Low - Mid | HUD, Random Missions, Lorebook
+!!!info
+    ->The AA Mistress<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/the-aa-mistress-36edc1e9)       [**(catbox)**](https://files.catbox.moe/zxkemz.png) <-
+***
+***
+#### ->**Astrid Ironfist**<-
+->![Astrid](https://files.catbox.moe/flld74.png)<-
+
+!!! danger
+	->**Magi-tech mech battles and shortstack waifus await! Join the spunky dwarf as she climbs the ranks of Runespungr's Mech Battle Circuit, to claim the Champion's Cup!**<-
+
+!!! note
+	I've been wanting to make a mech battler since Turbo, and this also produced a Shortstack waifu! Features an upgrade system, magical programming languages, and an ANNOUNCER WHO TALKS IN ALL CAPS!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Mech Battler   | Mid - High | Mid | Mech Inventory, Lorebook
+!!!info
+    ->Astrid Ironfist<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/astrid-ironfist-cb07a074)       [**(catbox)**](https://files.catbox.moe/flld74.png) <-
+***
+***
+#### ->**Gwendolyn the Blue**<-
+->![Gwen](https://files.catbox.moe/mjhsgo.png)<-
+
+!!! danger
+	->**Every Magical Girl needs an animal companion, even the sad ones.  Join Gwendolyn as she battles foul monsters and defends her homeland of Drankontas.**<-
+
+!!! note
+	Out of the three bots I created for the DS project, I think this one is my favorite.  An Anon requested openings that don't imply the shape and size of the user, which was quickly added after release.  My first card tested on Kayra along with the usual models.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Magical Girl   | Low | High | Lorebook
+!!!info
+    ->Gwendolyn the Blue<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/gwendolyn-the-blue-c23ac7a9)       [**(catbox)**](https://files.catbox.moe/mjhsgo.png) <-
+***
+***
+## ->Crimson Future<-
+***
+***
+#### ->**Zeta, Sentient Android**<-
+->![Zeta](https://files.catbox.moe/13en5x.png)<-
+
+!!! danger
+	->**A journey of loss, mortality, and the end of the world. The seven chronological greetings will take you through Zeta's life, and the lorebook will show how Zeta grows over time.**<-
+
+!!! note
+	One of the cards I'm most proud of.  I wanted to tell an actual story with this card, using all of the tools available, and the results are better than I could have hoped. Give it a try, even if you're not into SciFi!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi Drama   | Low | High | Embedded Lorebook, Chronological Narrative
+!!!info
+    ->Zeta, Sentient Android<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/zeta-sentient-android-d9a222da)       [**(catbox)**](https://files.catbox.moe/13en5x.png) <-
+***
+***
+#### ->**Natalie, Organ Harvester**<-
+->![Natalie](https://files.catbox.moe/hystv1.png)<-
+
+!!! danger
+	->**Chop Chop! Natalie is the head of a Xin Silu 'Medical Facility', and you're her new assistant! Not for the squeamish, this scenario will take you through Triage, laboratory accidents, and the secrets behind Natalie's incurable Cancer.**<-
+
+!!! note
+	This card, along with Nyota below, were created to showcase a portion of the Crimson Future world. The gruesome nature will turn off some folks, which is a shame because Nat turned out pretty quirky and fun.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi / Medical  | Low | Mid | Lorebook
+!!!info
+    ->Natalie, Organ Harvester<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/natalie-organ-harvester-2f238c0d)       [**(catbox)**](https://files.catbox.moe/hystv1.png) <-
+***
+***
+#### ->**Nyota, NCWF Veteran**<-
+->![Nyota](https://files.catbox.moe/cy7rd7.png)<-
+
+!!! danger
+	->**Day and Night the guns fire, all day every day.  Nyota doesn't even hear them anymore. She's been firing this cannon for 8 years, and every day she hears her comrades die over the radio. It still hurts, though she no longer shows it.**<-
+
+!!! note
+	There is a bit going on under the hood here.  Nyota has a Randomizer for her fire missions, so you never know if your shots are going to be helpful or now.  I'm also quite happy with the conversations heard over the radio.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+SciFi / War   | Low | Mid | Lorebook, Fire Missions
+!!!info
+    ->Nyota, NCWF Veteran<-
+    ->[**(chub)**](https://www.chub.ai/characters/horcocks/nyota-ncwf-veteran-00e75ccf)       [**(catbox)**](https://files.catbox.moe/cy7rd7.png) <-
