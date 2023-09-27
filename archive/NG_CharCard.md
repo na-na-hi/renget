@@ -230,4 +230,3 @@ It's available here, and includes a usage gallery showing the output. Overall, i
 
 ## About the author
 My work's posted here. One of the best ways to learn is to play with bots, and take what works. https://www.chub.ai/users/NG
-Contact: NG_Bot@proton.me

@@ -12,7 +12,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Species:** Rufflet | **Affiliation:** The Rantrum Kingdom
 **Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 20₽ [120₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,8 +69,8 @@ Battle Attribute: - | - | - | -
 Battle Attribute: - |  - | - | -
 Training for Attribute: - | - | - | -
 Training for Battle Attribute: - | - | - | -
-Training for Move: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 1/4 |  ▮▯▯▯
-Currently Training for Stat: - | - | - | -
+Training for Move: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 3/4 |  ▮▮▮▯
+Currently Training for Stat: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 3/4 |  ▮▮▮▯
 Stat: - | - | - | -
 
 **INVENTORY (4 slots)**

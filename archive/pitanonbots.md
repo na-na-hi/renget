@@ -40,6 +40,7 @@ Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](htt
 #Re:Zero
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Natsumi | (27/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/natsumi-schwartz-7ee20981/main) | ![](https://files.catbox.moe/hmqqmj.png)
 Satella | (11/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/satella-2027be82/main) | ![](https://files.catbox.moe/7lk8hq.png)
 Louis | (8/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/louis-faa555bf/main) | ![](https://files.catbox.moe/rples4.png) | https://files.catbox.moe/thzp5f.png
 Meili | (7/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/meili-7689d784/main) | ![](https://files.catbox.moe/gf6fas.png) | https://files.catbox.moe/2nbwz2.png

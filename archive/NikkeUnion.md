@@ -2,10 +2,7 @@
 
   -> ![looks cleaner now](https://i.imgur.com/bPa8GB1.png) <- 
     
-!!!note
-    **13/09/23: Rentryfag (old) has passed this on to me, Rentryfag (new), so you may see some changes in the coming days.**
-
-!!!info I will update this page at infrequent intervals, or when (You) post an update in the thread.
+!!!info I will update union info at infrequent intervals (read: whenever I feel like it), or when (You) post an update in the thread.
 
 **Last updated: 24/09/23**
 

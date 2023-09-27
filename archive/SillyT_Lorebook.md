@@ -196,4 +196,3 @@ Other example lorebooks on CHUB: https://www.chub.ai/lorebooks
 ## About the author
 My work's posted here, including lorebooks. One of the best ways to learn is to play with bots, and take what works.
 https://www.chub.ai/users/NG
-Contact: NG_Bot@proton.me

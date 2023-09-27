@@ -20,12 +20,26 @@ Make sure you've saved up a good amount of storage space for the installation of
 
 ### Cloud Installation (Optional):
 
-If your PC is not powerful enough to run Stable Diffusion but you do have some money, you can try running stable diffusion from cloud instances such as Google Colab or Paperspace. Some would actually recommend this over running it on your GPU regardless of how good it is, so you aren't damaging your PC's health in the long run.
+If your PC is not powerful enough to run Stable Diffusion but you do have some money, you can try running stable diffusion from cloud instances such as Google Colab or Paperspace. Some would actually recommend this over running it on your GPU regardless of how good it is, so you aren't damaging your PC's health in the long run. I use Paperspace and will do a detailed guide below on how to set it up. However for those who wish to use Google Colab the link below may help.
 
 Google Colab: https://rentry.org/sd-colab-automatic
-Paperspace: https://rentry.org/865dy
 
-While both have free trials, they will be very limiting. The pros and cons of both are detailed in the Paperspace guide, which seems to imply that Paperspace is the better option. The steps for cloud installation will likely be different than the regular installation steps down below. I don't use a cloud-based install currently, so I can't provide any other help other than linking these guides.
+#### Paperspace Guide:
+
+Firstly, I recommend paying for Paperspace Pro. It is highly unlikely for the Free GPUs for Free tier users to ever be available and the good ones pretty much never will. Paperspace Pro costs $8 a month which I think is quite generous and affordable for most.
+
+Once you've created your account and have Paperspace Pro, select gradient and create a new project. Then on the notebooks tab create a new notebook. Select pytorch as the runtime. The best machine is Free-A4000 which I will discuss more later, however that machine may not be available right as you are making this notebook. For now simply choose any random Free GPU that might be available simply for the purpose of the setup. Set the Auto-shutdown timeout to 6 hours so you get the most out of your sessions. You don't need to touch advanced options in this setup. Now select start notebook.
+
+Select the folder tab on the left and upload this notebook to it: https://www.mediafire.com/file/q1xa750o1bs87wv/PPS-A1111_%25281%2529.ipynb/file
+
+Select the notebook file and then run the first two required blocks (Dependencies and Install/Update AUTOMATIC1111 repo). This will install and setup all the files and folders. The Model Download section is for downloading models from the internet directly into your Paperspace folders. This will use Paperspace's internet which is typically fast, so it's a useful tool for those with bad internet. However you can upload files from your computer the same way you uploaded the notebook file if you wish. If you are using it you will need to input the appropriate links and file paths into the code for it to work. ControlNet is a plugin for Stable Diffusion which allows you to generate art with characters in very specific poses that you can find on CivitAI. I'd recommend installing it just so it's there. AFAIK you only need to install ControlNet once but I've never actually used it so I'm not sure. Then finally you run the "Start Stable-Diffusion" block and this begins to run diffusion. The code will paste a URL which will be the Gradio client running Stable Diffusion and from there you can get started.
+
+Though before you get started, shut down the machine instead and then head to the machine tab on the left. Keep refreshing until the Free-A4000 GPU is available, for me it's always been the best one. There will be certain times which it might not be available but with enough refreshing and waiting it eventually will pop up. The Free GPUs don't cost any money to use and can be used infinitely, at least for the 6 hour duration you have. But once those 6 hours are over you can immediately create another 6 hour session if the GPU is still available. The Paid GPUs are almost always available but they cost money to use, which would explain why they're always available.
+
+When you launch the machine again, you will need to run the blocks labelled as "required" every time.
+
+Something very important that you should note is regarding storage. While the machine can hold up to 150GB, the limit for free storage is at 15GB. This means that if you go over 15GB, you will be charged an extra $0.20 per gigabyte of storage. 15GB is just enough for 2 models and some loras, as well as space for generated images. I personally am at around 20GB because paying an extra dollar per month isn't a huge issue for me but it's definitely something you should pay in mind.
+
 
 ## Installation:
 

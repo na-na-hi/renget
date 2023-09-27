@@ -89,7 +89,7 @@ Rikudou Yura | - | - | -
 Kamizuki Naki | - | - | -
 Anon Non | - | - | -
 Ushio Sumi | - | - | -
-Tsubame Kou | - | - | -
+Tsubame Kou | X | - | X
 Shikami Lana | - | - | -
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
@@ -179,7 +179,7 @@ UnknownGirl 5 | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Kaga Nazuna | - | - | -
+Kaga Nazuna | X | - | X
 Kogara Toto | - | - | -
 Yumeno Akari | - | - | -
 Shiranami Ramune | - | - | -
