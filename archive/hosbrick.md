@@ -1,9 +1,11 @@
 ###HERRSCHER OF SENTIENCE V7.0 DK AND STIGMA TRANSLATION V3
 Translation by Marisa and Aki
 
-Luna Pledge Translation: https://rentry.co/luna70
+Patch Note: https://rentry.co/70log
+Lunar Vow Translation: https://rentry.co/luna70
 Luna Gear Translation: https://rentry.co/lunagear
-HoS Brick and Pericles stigma: https://rentry.co/hosbrick 
+HoS Brick and Pericles stigma: https://rentry.co/hosbrick
+Elysian Realm: https://rentry.co/er70
 ---
 INTRO
 - The weapon and stigma will be in the same banner. Has 30 pull guarantee counter (max 120 pulls for full set)

@@ -101,6 +101,10 @@ Here you can find the lorebook for standalone download: [Lorebook](https://www.c
 The lorebook is embedded in every card by default.
 
 ####Bot list
+#####Dmitry
+Links   |  [Character Hub](https://www.chub.ai/characters/pr0vidence/dmitry-122938ac)  [Tavern Card](https://files.catbox.moe/7dg1wv.png)
+------ | ------
+![Dmitry](https://files.catbox.moe/7dg1wv.png) |**Creator**: [Providence](https://www.chub.ai/users/pr0vidence) -> ->Former master saboteur of Spetsgruppa Bogatyr, now lifelong slave in the Xin Silu Dominion's human meatgrinder that is the sprawling factory city of Omsk. He's not lost his sense of humour; nor, it seems, his desire to get one over on the Dominion any way he can. Forced alongside him on the assembly line, maybe you can sabotage the factory, help him escape - or maybe you'll report him to the guards in hopes of better treatment?
 
 #####Siege of Perm
 Links   |  [Character Hub](https://www.chub.ai/characters/Antonius/siege-of-perm-fd5654aa/main)  [Tavern Card](https://files.catbox.moe/bg1r4a.png)

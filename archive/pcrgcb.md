@@ -27,6 +27,16 @@ videos:
 [Eruru](https://www.youtube.com/watch?v=au8k_61Uqs8)
 
 ### Boss 1
+[B1 Phys 70-72m](https://streamable.com/0b86cx)
+![3](https://pomf2.lain.la/f/9b4gsg3k.png)
+Tested with:
+S.Kokoro 6★  Lv283 R30 FULL, UE 30, EX 5/3/5
+Labyrista 5★ Lv283 R30 FULL, EX 5/3/5
+Ames 5★ Lv283 R30 FULL, EX 5/3/5
+Creditta 5★ Lv283 R30 FULL, EX 5/3/5
+Cafe Tamaki 5★ Lv283 R30 FULL EX 5/5/5
+![3](https://pomf2.lain.la/f/ngz2m5gk.png) 
+
 [B1 Phys 67-69m](https://www.youtube.com/watch?v=_gkpMQN1NWU)
 ![3](https://pomf2.lain.la/f/y7j5gs2c.png)
 Tested with:
@@ -59,20 +69,39 @@ L.Nozomi 3★ Lv283 R30 FULL, EX 5/3/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ![3](https://pomf2.lain.la/f/bm1fd9i5.png) 
 
-[B2 Phys 52m](https://www.youtube.com/watch?v=DZA0sE5lQDs)
+[B2 Phys 50-52m](https://www.youtube.com/watch?v=DZA0sE5lQDs)
 ![3](https://pomf2.lain.la/f/g0qa32eb.png)
 Tested with:
 Muimi 6★  Lv283 R30 FULL, EX 5/5/5
 Makoto 6★ Lv283 R30 FULL, EX 5/Nothing/5
-Vikala 3★ Lv283 R29 Naked, EX 5/3/5
+Vikala 3★ Lv283 R29 Naked, EX 5/3/5 (Works with R30 Max)
 L.Nozomi 3★ Lv283 R30 FULL, EX 5/Nothing/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ![3](https://pomf2.lain.la/f/qb9gtyvn.png) 
 
+[B2 Phys 51-52.5m](https://www.youtube.com/watch?v=DZA0sE5lQDs)
+![3](https://pomf2.lain.la/f/8yjctjqr.png)
+Tested with:
+Muimi 6★  Lv283 R30 FULL, EX 5/5/5
+Makoto 6★ Lv283 R30 FULL, EX 5/Nothing/5
+Vikala 3★ Lv283 R30 FULL, EX 5/4/5
+L.Nozomi 3★ Lv283 R30 FULL, EX 5/Nothing/5
+Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
+![3](https://pomf2.lain.la/f/vcgoq1j0.png) 
+
+
 No Vikala
 [B2 Phys 49m](https://youtu.be/beQqRjsmSGk)
+Tested With:
+Muimi 6★  Lv283 R30 FULL, EX 5/5/5
+Makoto 6★ Lv283 R30 FULL, EX 5/Nothing/5
+AkiSaren 4★ Lv283 R30 FULL, EX 5/3/5
+L.Nozomi 3★ Lv283 R30 FULL, EX 5/Nothing/5
+Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 
-
+1:14 AkiSaren -> Laby UNSET, Auto OFF
+0:56 L.Nozomi -> Auto ON
+0:39 Laby -> AkiSaren SET
 
 ### Boss 3
 [B3 Phys 65m](https://youtu.be/7rNn9NRW3co?si=0RZqfVbDg9oH0oPi)

@@ -2022,3 +2022,300 @@
 >"you already got us jewelry."
 >how about fried squid?
 >"acceptable"
+
+>you enjoyed the embrace
+>Alex sort of lazily draped himself over you
+>the shark man was still this scrawny waif of a thing
+>hard to believe how much life had changed for you both
+>"do you ever regret any of this?"
+>nope
+>what had passed had passed
+>you just lived in the moment
+>"I regret not knowing you sooner"
+>well ok, you could share in that regret
+>but things still worked out
+>the rest of the world could burn as long as you had the sea 
+>after resting for a while you decided it would be a good idea to get back into the water and get back to work
+>that squid wouldn't pay for itself
+>you tossed Alex his harpoon gun from the deck
+>you'd made a point to make sure he could defend himself a little better down there
+>the strap over his shoulder for it was the only clothes he'd wear
+>you got the nets rigged and pulled out towards better catches
+>every time you told Alex you'd landed the best catch he'd always dismiss your nonsense
+>shame he also took your suggestion of wearing fishnet anything as similar nonsense
+>oh well, it was life 
+>you will still make jokes at him and he'll still say you're ridiculous 
+>it was weird to go from esteemed scientists to fishermen
+>your hands never used to be accustomed to this work
+>having both of you in tandem helped considerably
+>Alex would whip them around with his tail
+>almost exactly like a thresher shark you'd commented to his delight more than once
+>all for your net to snatch up
+>he was lightning quick underwater
+>on land his movements were smooth and deliberate
+>but usually slow to initially go
+>in the water it was like a whole different world for him
+>you were content being his one contact above the waves
+>hell, if you hadn't been there what would his life have become?
+>you tried not to dwell on hypotheticals as you reeled in you catch
+>your new shark husband was used to the timing of your work and had climbed up onto the ship again
+>you got a decent haul this time around
+>you'd head right back to port and hock it to a fishmonger you knew
+>he and his family did most of the leg work on land for you
+>they liked that you tended to be pretty happy with the prices and brought in a fair amount for it
+>while there you'd pick up some stuff
+>Alex was content to guard the boat and not deal with people
+>he had helped turn below deck into a home and turned out to be the best roommate you could ask for
+>as messy as he could be he would definitely busy himself with cleaning while you were gone
+>you eventually wanted to get him some science equipment to fuck around with 
+>give him his work back
+>but that would be later
+>at the moment you were surviving 
+>when you pulled into shore you kissed him on the snout and loaded up the containers of fish
+>you did all your transactions in about an hour or two
+>storm clouds looked to be coming in so you didn't want to waste time
+>not use getting caught out in the rain
+>you netted a decent amount off the merchant and turned around and grabbed your squid
+>you had enough to get just a little stupid so cheap beer it was
+>better than drinking the water around here
+>weather report had said rain would clear out tonight so you'd take the boat out to a secluded beach and have your modest honeymoon there
+>thank God Alex was a guy
+>you probably wouldn't have heard the end of it with how thrifty you'd been forced to be with all this if he was a woman
+>you checked your watch and made your way back to the dock after all the resupplying
+>you carrying your arm load of groceries below deck and let Alex handle that 
+>you refueled the generators above before the rain hit
+>for privacy's sake you took the boat out 
+>just a little
+>the storm didn't sound bad but why risk it?
+>you didn't want to make a bunch of noise at the docks
+>you'd done well to not draw attention to yourselves this far
+>buying a cheap ass solar panel to power some stuff seemed to offset the generators a little
+>the ice box was an energy draw
+>the lights weren't too bad
+>neither of you kept a phone
+>it just didn't seem wise 
+>maybe way later down the line
+>but for now you were fine without
+>no camera was kind of annoying
+>not that Alex liked being in photographs 
+>but still
+>it was fun to grab him for a photo
+>heading below deck after casting the anchor out, you were shocked by what you saw
+>he'd put away the food and shit
+>but then slipped on some sort of fishnet costume
+>it was full body but was cut at the hands and feet to expose his fingers and the feet resembled stirrups
+>the white fabric looked familiar 
+>"I stitched together some of your spare fresh netting"
+>he could sew?
+>he had to keep Mr. Snaggletooth in shape so he just learned it
+>guess it never really came up before as a hobby
+>white netting played all over his blue skin
+>he'd even ensured it was just tight enough it clung to him
+>Alex knew what he was doing
+>he'd learned enough about you
+>using his wiles was something he was keenly aware he could do
+>even if he didn't have much confidence in them
+>he didn't attempt some seductive act
+>he was just him
+>it had a charm all its own
+>he just assumed he turned you on and didn't waste energy faking it
+>he sat beside you on the bed and you handed him a bottle of beer
+>newlyweds
+>to be fair this wasn't much different than before 
+>just with a ring on it
+>still 
+>the gesture was there
+>you brought up the beach BBQ and he agreed
+>"do you want to consummate the marriage now?"
+>well if the outfit didn't say it he just came out and spelled it out
+>well you figured why not
+>sure
+>he climbed into your lap without a second thought
+>he'd gotten a little heavier and stronger eating well and being out at sea
+>he was still very limber bit had a little more meat on his bones
+>better than his old diet 
+>helped you two actually went to bed at decent hours now too
+>you'd gotten stronger too 
+>enough that you could pick him up with not trouble still
+>you clapped your hands on his ass and he jumped a little before he shot you a look
+>"was that necessary?"
+>yes
+>you were just helping keep him stable with the storm making the sea a little choppy
+>safety first
+>he had the gall to doubt you
+>oh well
+>you kissed at his throat a couple times and then grabbed another swig of beer
+>he stole your bottle and took a drink too
+>he'd grown really comfortable in your company and you really took that as a victory 
+>you took care with his risqué fishnet wedding attire as you held onto him
+>you decided to pick him up and set him on his side on the bed
+>you found out by accident missionary didn't work with his anatomy now
+>turns out flipping him on his back turns him catatonic 
+>it only lasts a few minutes but you remembered the panic you saw in his eyes when you first found out
+>he never panicked
+>ruined the mood that night
+>it was part of the reason you were the big spoon when you two slept
+>so you just had to work around that one position omitted
+>not the end of the world
+>you took a moment to look at him, his clawed hand resting on his hip
+>his eyes looking towards yours
+>you were glad you'd long become the exemption when it came to eye contact
+>another peculiar thing you'd at first noticed with his nipples
+>his body basically had a barbie doll anatomy thing going when he wasn't fully aroused 
+>sure there was a tight smooth nutsack right below a slit
+>but it was all tucked up
+>made sense though as a safety feature
+>you grabbed the lube out of your nightstand and took another look at your husband taking up most of your bed with his tail
+>really was a damn mermaid 
+>you grabbed his leg, lifting it into the air
+>he turned his head to watch you
+>Alex had long since abandoned his glasses 
+>sometimes he used goggles for the dives at your insistence
+>with his sixth sense and smell he wasn't completely blind
+>the glasses were usually reserved for reading
+>such an old man habit 
+>you always joked with him about that
+>one day you'd replace them 
+>but it wasn't like you could walk into an eye doctor with him right now
+>you lubed up your dick and leaned over him as he watched you
+>he wrapped one arm over your shoulder
+>no words were needed right now
+>your cock slid into his slit
+>a fun little quirk of his anatomy
+>he groaned as you rubbed against his cocks inside
+>"that desperate to mate me?"
+>he scoffed a little as you leaned in for a kiss
+>his tongue and yours wrestled awkwardly 
+>with your faces sort of incompatible you had to work for kisses
+>but you'd manage
+>he was worth the effort
+>you thrust into him over and over
+>your slick cock frotting against his
+>slowly they were working to hardness
+>he broke the kiss 
+>"you know that is not a vagina."
+>it was a rhetorical question
+>you knew it wasn't of course
+>but this was fun foreplay
+>you'd jam it in his real hole soon enough
+>but this shark was all yours
+>and you'd fuck him how you liked
+>his breathing was soft but you knew he liked it despite saying otherwise
+>you had made him a wife right now
+>"so horny you cannot use the right hole…"
+>maybe you like bullying his dicks a little
+>you said that with a chuckle as your lips went for his mouth again 
+>when his dicks finally pushed yours out you were slick with precum from both of your dicks
+>you wasted no time and without looking shifted around
+>his tail made penetrating blindly so easy
+>like his body was just built for a man
+>his moan was muffled by your French kissing
+>you bottomed out into his ass easily, by now his insides like a glove for your manhood
+>your body had gotten accustomed to his too, your skin tougher from the rough scales
+>his stomach, pale compared to the rest of his blue body, twitched as his ass clenched at you
+>you ran a hand over his lower body, appreciation in your fingertips as you enjoy his muscles tensing and relaxing
+>he was yours now and forever
+>the fishnets made it easier to grab hold of Alex
+>you used the handholds for more leverage 
+>his tail curled behind you 
+>it wasn't all that flexible but he could move it just a little
+>just enough to surround you 
+>the smell and taste of him was everything to you
+>his world had become the waves and it had become yours too
+>saltwater
+>you'd make a high brow comparison to Aphrodite later
+>right now you were too horny to wax poetic
+>he was too beautiful for any words anyways
+>shooting your love deep inside him spoke louder than fancy platitudes 
+>"when we lock together like this," he gasped out between ravenous kisses
+>fucking his ass like this 
+>"you fill me."
+>when you bottomed out with the next thrust you made sure to draw out the move, stirring your cock in him
+>his hand gripped your hair
+>he forced your face back to his
+>"do not stop"
+>despite acting like he was sexual just to please you, he definitely loved it
+>"fuck your wife's pussy, that what you want me to say?"
+>he shoved his tongue into your mouth before you could answer but holy shit
+>getting him to actually talk dirty was rare
+>usually he just settled into muffled bottom noises
+>you started pounding him mercilessly 
+>your dick angled to hit his prostate the best you could
+>you were relentless now
+>the ship could capsize and you wouldn't even notice
+>razor sharp teeth cracked against yours as you clumsily kissed
+>his whine as he started cumming was adorable 
+>his body spasms milked your dick
+>ropes of your seed flooded his ass as his own cum stained the bedsheet, passions made physical 
+>you collapsed on top of Alex
+>just exhausted
+>you had a few moments before he started gasping
+>water it was
+>you scooped him up and climbed above deck
+>rain trickled down over you both
+>the you took him to the rear of the ship and let him slip into the ocean
+>a few minutes and he was back on deck
+>the storm looked like it would break soon
+>you suggested a nap before heading over to the beach on he agreed 
+>cover of night would make things easier
+>you enjoyed the sight of him in that new outfit
+>worth losing some new netting for
+>"you are ravenous," he remarked over his shoulder 
+>you both toweled off a little when getting below deck and Alex changed the sheets after the mess you made of them
+>it was a quaint home but you wouldn't change it for the world
+>you just considered your blessings when you slipped into bed behind your husband
+>after all the fun time you passed out easily
+>both of you woke up around 8 PM and your stomach growled
+>yeah you'd bring the ship into shore
+>the weather had calmed and both of you got up above deck
+>you knew a pretty empty beach that was far off the tourist destinations
+>especially this late at night
+>just in case you had a tarp that Alex used as a cloak 
+>you didn't really both go to shore a lot but it discouraged looky-loos 
+>dusk had long since passed and the sun barely registered on the horizon
+>the slim orange glow was the barest amount of light
+>helped a little
+>last thing you needed was to hit land
+>Alex loaded up a cooler with the supplies
+>you tossed your shirt and just went with shorts tonight
+>once you pulled near the beach you dropped anchor and your ocean guide pulled you and the cooler to the beach easily 
+>you made landfall in seconds
+>a fire was quickly set up, rocks and sticks all within walking distance
+>the orange glow was enticing
+>skewered squid and vegetables, beer and you'd grabbed a quesadilla salvadoreña to serve as a wedding cake
+>both of you had taken to that dessert since moving here
+>about the one sweet he still liked actually, having become almost exclusively a carnivore
+>you'd get one and it would always be "I am not hungry"
+>then somehow a portion would go missing off your plate
+>you sat back and looked over to the quiet companion you shared the fire with
+>your hand went under his chin
+>he was confused but you cleared things up with a kiss on his snout
+>the night was plenty warm for fall down here
+>seasons all tended to blend together from what you'd experienced so far
+>the humidity and the fire was enough to make Alex have to splash around a few times
+>but he didn't complain 
+>the dinner and cake was plenty but you had to make sure Alex didn't eat the skewer
+>his jaws were sort of all or nothing when it came to eating
+>you relaxed by the fire and cuddled 
+>things felt right
+>your old lives felt like someone else's world and you wouldn't change it 
+>Gensyn was a distant memory best left forgotten
+>you looked down at the ring on Alex's finger 
+>you'd made that change
+>salvaged your lives out of what could have been a tragedy 
+>you went for a fling that turned into a future
+>Alex and you would seize that future 
+>the crackle of the fire and the lapping of the waves were your only company and you wouldn't change that either
+>you'd made something better of your lives and you weren't about to quit
+>you didn't give up your lives when you went off that cliff 
+>you upgraded and you wouldn't change that for anything
+>slipping an arm around the rough waist of your husband was a comfort and judging by how he eventually leaned into you, it was for him too
+>maybe you'd do some skinny dipping before heading back to the boat
+>might be fun
+>you groped at his chest playfully and he didn't admonish you
+>your home lazily bobbed with the currents only a couple hundred feet or so out in the night 
+>peace and quiet had been earned
+>your stomach was full
+>tomorrow was another day
+>life was about as perfect as could be
+>you had thought Gensyn was your dream job but really it was this

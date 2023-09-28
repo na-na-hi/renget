@@ -117,6 +117,15 @@ Some examples include but are not limited to:
 *Super Sonico* (JP): https://www.youtube.com/@user-uw2zo2cl6s
 *MunMosh* (JP): https://www.youtube.com/@MunMosh
 *Kashi Otoha* (JP): https://www.youtube.com/@kashiotoha8669
+*Rillie Nanakusa* (JP): https://www.youtube.com/@NanaRillie
+*Yumemi Tobira* (JP): https://www.youtube.com/@yumemitobira
+*Izumiya Konomi* (JP): https://www.youtube.com/@Izumiyakonomi
+*Nenokami Moka* (JP) https://www.youtube.com/@NenokamiMoka
+*Yumeno Akari* (EN): https://www.twitch.tv/akarindao 
+*Mochi Beary* (EN): https://www.youtube.com/@mochibeary
+*Ciarra Chii* (EN): https://www.youtube.com/@CiarraChii
+*HaewonTheHeartstring* (EN): https://www.youtube.com/@haewontheheartstring
+*Algorhythm Project* (EN): https://www.youtube.com/@Effy_ARP
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -165,6 +174,7 @@ Defined below.
 *Mococo Abyssgard* (EN): https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA
 *Lia* (EN): https://www.youtube.com/@RinkouAshelia
 *Fukumaki Yuka* (JP): https://www.youtube.com/@yfukumaki_ch
+*Ayunda Risu* (ID): https://www.youtube.com/@AyundaRisu
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

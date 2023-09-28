@@ -3,6 +3,7 @@
 Link | &nbsp;
 -----|-----
 [Official 4koma, Manga, Artbooks, Drama CD, Interviews, Side Content, etc](https://drive.google.com/drive/folders/1XNdrtS3qk2ChKiF32omwCdeZUzbG1Yn5) 
+[/bag/ Aggies](https://cubari.moe/read/imgur/TT4Vq70/1/1/)
 &nbsp;
 [Official Promotional Video](https://www.youtube.com/watch?v=YHy8JmWX3kw) 
 [1st PV (Animated)](https://www.youtube.com/watch?v=-xHqglB973c)
@@ -14,10 +15,10 @@ Link | &nbsp;
 [Summer PV (Animated)](https://www.youtube.com/watch?v=T5wNrdOMrNg&)
 [Beautiful Day Dreamer (Animated)](https://www.youtube.com/watch?v=PNJhdtq6srg&)
 &nbsp;
-[Clockwork Flower Pavane - Special PV Side-A (Animated)](https://www.youtube.com/watch?v=1lBIbTf2btQ)
-[Clockwork Flower Pavane - Special PV Side-B (Animated)](https://www.youtube.com/watch?v=v9j9lIsNTtw)
-[The Ark of Atrahasis Conquest - PV (Animated)](https://www.youtube.com/watch?v=u2d8GHRzxCQ&)
-[The Phrenapates Showdown - PV (Animated)](https://www.youtube.com/watch?v=m8C0KnyaVGA)
+[Vol 2 - Clockwork Flower Pavane - Special PV Side-A (Animated)](https://www.youtube.com/watch?v=1lBIbTf2btQ)
+[Vol 2 - Clockwork Flower Pavane - Special PV Side-B (Animated)](https://www.youtube.com/watch?v=v9j9lIsNTtw)
+[Vol F - The Ark of Atrahasis Conquest - PV (Animated)](https://www.youtube.com/watch?v=u2d8GHRzxCQ&)
+[Vol F -The Phrenapates Showdown - PV (Animated)](https://www.youtube.com/watch?v=m8C0KnyaVGA)
 &nbsp;
 [JP Official Youtube Channel](https://www.youtube.com/@BlueArchive_JP/videos)
 [Global Offical Youtube Channel](https://www.youtube.com/@bluearchive_Global/videos)

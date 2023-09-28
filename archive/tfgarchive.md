@@ -47,3 +47,5 @@ https://rentry.org/anon-overpowers-dragonwife
  https://pastebin.com/LwaDs5wk
 >Gay horse slime TF story
 https://controlc.com/067e3fc0
+>Scaled Survival: Wyvern Girlfriend 
+https://rentry.org/o8kw6v

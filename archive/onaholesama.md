@@ -47,6 +47,8 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![menacing stare](https://files.catbox.moe/u9gwbl.png) | Remi | tall & dominant she-wolf that likes teasing humies | [CHUB link](https://www.chub.ai/characters/onaholesama/remi-dd93d88a)
+![AWOOv24](https://files.catbox.moe/vyxmop.png) | Sona | robo waifur, she pisses coffee out of her pussy | [CHUB link](https://www.chub.ai/characters/onaholesama/sona-785bcfef)
 ![bnuuy](https://files.catbox.moe/8bp1ae.png) | Buncel | its (You), but anthro | [CHUB link](https://www.chub.ai/characters/onaholesama/buncel-eb585035/main)
 ![like riding a stolen bike](https://files.catbox.moe/qsxewr.png) | Diane Foxington | governor of los angeles | [CHUB link](https://www.chub.ai/characters/onaholesama/diane-foxington-d8467eeb)
 ![squalene nnf](https://files.catbox.moe/lntgsn.png) | Sharkstack | impressionable shortstack shark grill that likes dnd | [CHUB link](https://chub.ai/characters/onaholesama/sharkstack-6f3566e7)

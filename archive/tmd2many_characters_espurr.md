@@ -86,8 +86,8 @@ Eᴍᴘᴛʏ | Description. | 0 IP
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Gravitational Potential | Tier **ɪ** (+1) | 2/3 | ▮▮▯
-Attribute: ??? | Tier **0** (+0) | 0/3 | ▯▯▯
+Training for Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | 0/3 | ▯▯▯
+Attribute: Gravitational Potential | Tier **ɪ** (+1) | 3/3 | ▮▮▮
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 1/3 | ▯▯▯

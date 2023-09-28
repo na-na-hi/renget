@@ -9,8 +9,8 @@
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
 -> Send a cute m/f kobold, feedback and suggestions! Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
--> I read every email and try to implement your suggestions and findings in my prompts. <-
-
+-> I appreciate your support and read every email and try to implement your suggestions and findings in my prompts. <-
+#
 
 #
 -> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/psg10p.png)](https://boosty.to/xmlk/donate)<-
@@ -26,7 +26,7 @@
 ⠀
 - - -
 ######
--> **==GPT-AP-2.2 IS RELEASED==** <-
+-> Now I have a [boosty](https://boosty.to/xmlk) page. You can support me there and soon I will add polls regarding preferable prompts and other stuff. <-
 ######
 - - -
 ###ReadMe

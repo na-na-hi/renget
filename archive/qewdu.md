@@ -140,6 +140,7 @@ CH9999 = Miku
 Kaito_Trinity_HG = Akira
 Police_Valkyrie_SG = Shotgun Cop Mob
 Komakaze_Helmet_SG = Rabu
+npcs-np0144 = JTF Mob
 EN0001 = Phrenapates
 EN0002 = Shiroko (Terror)
 

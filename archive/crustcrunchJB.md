@@ -7,6 +7,7 @@
 **Table of Contents**
 [TOC2]
 ***
+-> ![me and claude](https://files.catbox.moe/dyutsx.png) <-
 ## Introduction
 These jailbreaks are primarily based on the [Break complex tasks into subtasks](https://docs.anthropic.com/claude/docs/break-tasks-into-subtasks) section of the Claude documentation. Essentially, prompts are more effective when broken down into subtasks— in this case, bullet lists.
 
@@ -25,7 +26,6 @@ This document is subject to change / expand as I experiment with more jailbreaks
 
 !!! danger UPDATE:
 	The pozzed key method outlined here is out of date and may no longer work. Further testing is needed.
-	Update 9/11/23: No Claude access at the moment, so I can't test new methods. This method may or may not work.
 ***
 
 ## Basic Claude 2 Jailbreak
