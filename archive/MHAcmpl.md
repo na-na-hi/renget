@@ -567,6 +567,7 @@ The Princess Diaries starring Inigo myoga and Drekus: https://desuarchive.org/tg
 Hoge & Inigo Aquarium Date: https://desuarchive.org/tg/thread/90272998/#90281700
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://desuarchive.org/tg/thread/90356118/#90366691
 Ryu-kishi and Mirror Devil art: https://desuarchive.org/tg/post/90413221/
+A random Saber blocks your path: https://desuarchive.org/tg/thread/90413662/#90423696
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

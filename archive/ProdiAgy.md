@@ -23,7 +23,7 @@
 !!! danger  ==OPTIONAL:== ```Adjust weight_decay (any value is fine as Prodigy adjusts to try and compensate). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
-### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps to your desired steps. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
+### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps/max_train_epochs to your desired steps/epochs. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
 {
   "LoRA_type": "LyCORIS/iA3",
@@ -35,15 +35,16 @@
   "gradient_checkpointing": true,
   "learning_rate": 1.0,
   "lr_scheduler": "cosine",
-  "lr_scheduler_args": "\"T_0=160\" \"T_mult=1\" \"eta_min=3e-4\"",
-  "max_train_steps": "160",
+  "lr_scheduler_args": "\"T_0=2000\" \"T_mult=1\" \"eta_min=3e-4\"",
+  "max_train_epochs": "10",
+  "max_train_steps": "2000",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0.01\"",
+  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=10\" \"weight_decay=0.01\"",
   "save_model_as": "safetensors",
   "text_encoder_lr": 1.0,
-  "train_batch_size": 10, //SET TO 10 HERE, FITS IN 6GB VRAM, WATCH YOUR VRAM/GPU TEMPS
-  "train_on_input": true,
+  "train_batch_size": 2, //CAN SET TO 10 HERE, FITS IN 6GB VRAM, WATCH YOUR VRAM/GPU TEMPS
+  "train_on_input": false,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0
 }

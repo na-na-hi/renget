@@ -23,7 +23,7 @@ These are fully featured build planners with AR calculation for weapons, defense
 These planners are missing features and are therefore incomplete, or they are tools dedicated to optimizing one thing.
 - [EIP gaming build planner](https://eip.gg/elden-ring/build-planner/)
 - [AR calculator by Tom Clark](https://eldenring.tclark.io/)
-- [Poise breakpoints by Basscannon90](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit)
+- [Poise breakpoints by Basscannon90](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit) - [1.10 Hyper Armour Poise Value Formula by antungong](https://www.reddit.com/r/Eldenring/comments/15fekdm/elden_ring_patch_110_new_hyper_armour_poise_value/)
 - [Frame data by sovietspaceship](https://er-frame-data.nyasu.business/)
 - [Scaling data by Chrightt](https://docs.google.com/spreadsheets/d/1zoJIRmr-00XC1Rd-SwIpeNoHNpehY2kRHoh-4WeACxc/edit)
 - [Class optimizer by mugenmonkey](https://www.mugenmonkey.com/eldenring)

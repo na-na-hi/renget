@@ -308,8 +308,8 @@ https://arch-img.b4k.co/vg/1689886388061.jpg
 >>Acceleration/max speed lv2
 >>Pitch lv3
 >>SupMan lv2
->>~~Gun damage lv1~~ Airbrake lv1
->>SPW damage lv1
+>>~~Gun damage lv1~~ Airbrake lv1 (Update!)
+>>SPW damage lv2
 >>SPW speed lv2
 >>SPW homing lv2
 >As with most Su-37 builds, this one excels at punishing sloppy play from nuggets. You'll only need one or two good shots (or machine gun bursts) to shoot down whoever you're targeting. 

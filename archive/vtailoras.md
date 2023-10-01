@@ -5,7 +5,7 @@
 !!! note Keep in mind + Extra info
 	These aren't all necessarily made by /vtai/ anons. Numerous LoRAs are scavenged from different user MEGA's, Civitai pages and other sources.
 	**Missing something? let us know in the thread!**
-	**Also** don't listen to the recommended weights like gospel, if you deem them too low or too high, you can play around with them, the idea of the number is based on "as close to correct design without taking too much control of the style", highly recommended for people who don't like their model's style to deviate too much
+	**ALSO DO NOT listen to the recommended weights like it's gospel, if you deem them too low or too high, you can play around with them, the idea of the number is based on "as close to correct design without taking too much control of the style", highly recommended for people who don't like their model's style to deviate too much**
 
 !!! warning NOTE
 	Want to create a LoRA for this rentry, but don't know what to make without making duplicates? Check out the LoRA Checklist in the navigation bar!
@@ -15,7 +15,7 @@
 	Added Chuubas: Aka Inside Mk3, YFU Baby, Tobi Inoue, Woozie Wannai, Athena Nightingale, Kattarina Qutie, Beryl LeRou, Roa Fen, Mozumi Pichi, Keriki Mara, Nyana Sextyn9, Sawa Grape, Sena Bonbon, Marie Mehlo, Nyaru Chu, Mako Fukasame, Jean Faymas, Agano Mai, Akira Mazono, Chimugi
 	Updated Chuubas: Amanogawa Shiina
 
-[TOC]
+[TOC3]
 
 ## -> Agencies <-
 

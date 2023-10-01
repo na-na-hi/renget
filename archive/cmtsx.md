@@ -34,4 +34,4 @@ It could not go on like this, it couldn't! This was enough! Miko, horny and furi
 
 Determined, Miko got up and only covered herself with her long coat before putting on her boots and heading out in haste, leaving her breasts to dangle under the coat and little wet trails to make their way down her legs. Miko didn't care.
 She had enough of being dissapointed, rejected, humiliated. No more being ignored while flirting, no more being teased for attempting to cuddle, no more talk of being "business friends"! 
-Deep down, Miko was afraid that she might lose Suisei's heart for taking her body. But just as with Pekora, dithering in limbo forever was worse than ending it with a bang.
+Deep down Miko was afraid that she might lose Suisei's heart for taking her body. But just as with Pekora, dithering in limbo forever was worse than ending it with a bang.

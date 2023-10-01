@@ -7,7 +7,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** ==REPLACE==
-**Level:** 6 | **Experience to Next Level:** 30/60
+**Level:** 6 | **Experience to Next Level:** 55/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 10 points to spend.
+    You have 16 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
