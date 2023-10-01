@@ -1,30 +1,67 @@
-#Eternal Return: Black Survival Coupon Codes
+#/erbsg/ - Eternal Return: Black Survival General
 
-**Available until ????**
-*ERSTEAM30000* 2000 A-Coin & 50 Event NP (7 Days)
-*ERTOTHEMOON* 2000 A-Coin & 50 Event NP (7 Days)
-*ERPLAYTOWIN* 2000 A-Coin & 50 Event NP (7 Days)
-*ERPLAYFORFUN* 2000 A-Coin & 50 Event NP (7 Days)
-*ERHAPPYTIME* 2000 A-Coin & 50 Event NP (7 Days)
-*ERPLAYSQUAD* 2000 A-Coin & 50 Event NP (7 Days)
+\>What is this?
+Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 1 started August 3rd, 2023.
 
-**Available until 9/28/2023**
-*TGSWITHER1* (9/20) 5000 A-Coin
-*TGSWITHER2* (9/21) Research Center Data Box Set
-*TGSWITHER3* (9/22) Skin Data Box Set
-*TGSWITHER4* (9/23) 200 Event NP (3 Days)
+\>Steam Link
+https://store.steampowered.com/app/1049590/Eternal_Return/
 
-**Available until 9/30/2023**
-*LUCKYSEVEN01* (9/7) 2000 A-Coin
-*LUCKYSEVEN02* (9/8) Research Center Data Box Set
-*LUCKYSEVEN03* (9/9) 200 Event NP (3 Days)
-*LUCKYSEVEN04* (9/10) 2000 A-Coin
-*LUCKYSEVEN05* (9/11) Skin Data Box Set
-*LUCKYSEVEN06* (9/12) 200 Event NP (3 Days)
-*LUCKYSEVEN07* (9/13) Research Center + Skin Data Box Set
+\>News
+https://playeternalreturn.com/posts/news/1447 (1.5 Patch Notes)
+https://playeternalreturn.com/posts/news/1443 (Season 1 Gold Cadet Skin - Bianca)
 
-**Available until ????**
-*NEWPLAYERBOOST* 5000 A-Coin
+\>Eternal Return 1.0 Animation Intro (Full Ver.)
+https://www.youtube.com/watch?v=J8z5CavPCYY
 
-**Available until 12/31/2025**
-*INTROANIMATION* Eternal Return Intro Animation BGM
+\>[New Character] Abigail Preview
+https://www.youtube.com/watch?v=lmpsAHXkycA
+
+\>Lumiapedia - Abigail
+https://www.youtube.com/watch?v=-WA0lmzodF4
+
+\>Morning Glory Laura Preview
+https://www.youtube.com/watch?v=HLLRM-lMoIU
+
+\>Security Enforcer Debi & Marlene Preview
+https://www.youtube.com/watch?v=DasuKws4Ev4
+
+\>Are you ready for the Summer? 2023 Season 1: Vacance
+https://www.youtube.com/watch?v=YJm1RpdJzyk
+
+\>Dr. Nadja's Beginner Guide
+https://www.youtube.com/watch?v=M3tDK2EcO80
+
+\>Match History, Character Lookups, etc.
+https://dak.gg/er
+https://er.op.gg/
+https://aya.gg/
+
+\>Interactive Map
+https://erbsmap.com/en
+
+\>Items/Tac Skills/Augments
+https://docs.google.com/spreadsheets/d/1ic5jNlJ1-mXmchfRrws2UZMto1bQI_6ToqsvejFvEjE
+
+\>Lore
+https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJVh8/htmlview
+
+\>Assets
+https://playeternalreturn.com/fankit
+
+\>Events
+https://event.playeternalreturn.com/S1_ElevenMarineCafe (~10/25)
+https://playeternalreturn.com/posts/news/1452 (Login event, ~10/3)
+https://playeternalreturn.com/posts/news/1450 (Skin boxes, ~10/12)
+https://playeternalreturn.com/posts/news/1457 (Twitch drops, ~10/16)
+
+\>Codes
+https://coupons.tnra.ro/
+
+\>/erbsg/ friends
+https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn-Ww
+
+\>OP Changes
+https://rentry.org/erbsg
+
+\>Previous
+\>\>447858495

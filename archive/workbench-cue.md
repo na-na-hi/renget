@@ -1,6 +1,8 @@
 **Workbench.CUE:**
-https://files.catbox.moe/41ek6f.png
-Copies of *Sonic CD* with oddities related to the Round *"Wacky Workbench."*
+https://files.catbox.moe/vy95nt.png
+Copies of *Sonic CD* with oddities related to the Round *"Wacky Workbench,* but that may potentially not be all.
+
+(DO NOTE: This is in desperate need of a rewrite along with adaptations to fit the later conceived Collision and Metallic CUE variants. In the mean time this version will remain, but it will be replaced if/when the rewrite is done)
 
 The existence of this copy was first reported in July 2007 on a forum, with video footage alongside it.
 Later on, another user posted about their own copy, and with some help, it was dumped in October of the same year.

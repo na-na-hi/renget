@@ -108,6 +108,8 @@
 08/2023|[Code Llama: Open Foundation Models for Code](https://archive.ph/O690K)
 08/2023|[Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 09/2023|[Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
+09/2023|[Effective Long-Context Scaling of Foundation Models](https://arxiv.org/abs/2309.16039)
+09/2023|[AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -139,6 +141,7 @@
 09/2023|[Textbooks Are All You Need II (phi-1.5)](https://arxiv.org/abs/2309.05463)
 09/2023|[PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training](https://arxiv.org/abs/2309.10400)
 09/2023|[A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674)
+09/2023|[Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models](https://arxiv.org/abs/2309.15098)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -148,7 +151,7 @@
 02/2023|[Simple Hardware-Efficient Long Convolutions for Sequence Modeling](https://arxiv.org/abs/2302.06646)
 02/2023|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 06/2023|[TART: A plug-and-play Transformer module for task-agnostic reasoning](https://arxiv.org/abs/2306.07536)
-07/2023|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
+07/2023|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://files.catbox.moe/arj3zc.pdf)
 |
 |**THUDM (Tsinghua University)** ->[Papers](http://keg.cs.tsinghua.edu.cn/jietang/publication_list.html) [Github](https://github.com/THUDM)<-
 10/2022|[GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414)
@@ -194,7 +197,8 @@
 09/2023|[Matcha-TTS: A fast TTS architecture with conditional flow matching](https://arxiv.org/abs/2309.03199)
 09/2023|[DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
 09/2023|[Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
-09/2023|[Qwen Technical Report](https://qianwen-res.oss-cn-beijing.aliyuncs.com/QWEN_TECHNICAL_REPORT.pdf)
+09/2023|[Qwen Technical Report](https://files.catbox.moe/y61ihm.pdf)
+09/2023|[Mistral 7B](https://archive.ph/DYuym)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -212,6 +216,7 @@
 10/2019|[Transformers without Tears: Improving the Normalization of Self-Attention](https://arxiv.org/abs/1910.05895)
 12/2019|[Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection](https://arxiv.org/abs/1912.11637)
 02/2020|[On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
+04/2020|[Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 06/2020|[Memory Transformer](https://arxiv.org/abs/2006.11527)
 07/2020|[Mirostat: A Neural Text Decoding Algorithm that Directly Controls Perplexity](https://arxiv.org/abs/2007.14966)
 12/2020|[ERNIE-Doc: A Retrospective Long-Document Modeling Transformer](https://arxiv.org/abs/2012.15688)
@@ -366,19 +371,20 @@
 09/2023|[Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity](https://arxiv.org/abs/2309.10285)
 09/2023|[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 09/2023|[MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/2309.13042)
+09/2023|[Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models](https://arxiv.org/abs/2309.15531)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)
-06/2022|[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+06/2022|[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://files.catbox.moe/6ejerb)
 06/2022|[Anthropic - Softmax Linear Units](https://archive.is/W0yJN)
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)
-05/2023|[OpenAI - Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
+05/2023|[OpenAI - Language models can explain neurons in language models](https://archive.ph/Y6Lvd)
 05/2023|[Alex Turner - Steering GPT-2-XL by adding an activation vector](https://archive.is/E7ehv)
 06/2023|[YyWang - Do We Really Need the KVCache for All Large Language Models](https://archive.ph/quOu2)
 06/2023|[kaiokendev - Extending Context is Hard…but not Impossible](https://archive.ph/vJC44)
 06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.ph/Rsoai)
-07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://oobabooga.github.io/blog/posts/perplexities)
+07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://archive.ph/HgzRV)
 07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.ph/hfbHH)
 09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.ph/keLl0)

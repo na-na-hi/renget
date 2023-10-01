@@ -18,6 +18,7 @@ Roza Coatl|[Youtube](https://www.youtube.com/@GiniMercury) [Twitter](https://www
 Kerimara|[Youtube](https://www.youtube.com/@kerimaravt) [Twitter](https://twitter.com/kerimaravt)|Flamingo. One of Sena's many wives.
 S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twitter.com/isaboatvtuber)|Singer. Boat theme. One of Sena's many wives.
 Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and privated all her stuff but has come back from the pipkin. Sena's Friend.
+Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
 
 ---
 

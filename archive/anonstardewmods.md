@@ -13,7 +13,7 @@ Seasonal r63 bachelors, Cute and Funny Scarecrows (Alternative Textures), Vtuber
 **Recent updates:**
 Morgan marriage mod (230719), Trinnie marriage mod (230429), Cat Ashley (230321), Mouse Jas marriage portraits (230321), Trinnie marriage mod (230223), Improved Trinnie (230429), Anthro Morgan (230209), Ashley and Spooky mod, Shota Harvey, Leo to Kuruminha, Loli Leah megapack, Anon's Functional Modpack,
 **Recent reuploads**
-Trinnie marriage mod (221127), Slime Girls (221127), Pearl and Phoenix portraits (221127), Improved Trinnie (221103), Hot Pam 1.5 (221020), Oppai Valley (221020), Horny Girls of Stardew Valley (221020)
+Jas marriage mod (230929), Trinnie marriage mod (221127), Slime Girls (221127), Pearl and Phoenix portraits (221127), Improved Trinnie (221103), Hot Pam 1.5 (221020), Oppai Valley (221020), Horny Girls of Stardew Valley (221020)
 
 ->[\[Jump to the bottom\]](https://rentry.org/anonstardewmods#mod-recommendations)->
 
@@ -161,7 +161,7 @@ The only girl worth marrying.
 
 >How to enable nsfw content:
 "Simply get the Generic Menu Config mod and enable the "debug" option in the mod's submenu, just keep in mind that the lewd scenes are mostly separated from the rest of the mod for now because they're a work in progress and as such they have no real triggers yet, causing them to activate automatically and out of order whenever you enter specific areas. The SFW part of the mod is completely functional otherwise."
-https://anonfiles.com/T6386c73yb/100_-_Jas_Marriage_Mod_Pack_v1.2_zip
+https://files.catbox.moe/h2250n.zip
 >>Jas marriage mod - vanilla portraits
 ![Image description](https://files.catbox.moe/vo6ol8.PNG)
 Portraits only.

@@ -34,9 +34,10 @@ Rep. pen: [1.05 - 1.1] - reduce likelihood of previously appeared tokens showing
 Rep. pen range: [1666] - how many previous tokens to scan for repetition
 Top_p: [0.9] - top percentage of best tokens to select from
 Top_k: [30] - top number of best tokens to select from
+Tail-free Sampling: 0.9 - dynamically identifying the "tail" of the token probability distribution, then cut off that tail
 Do_sample: [On]
 Mirostat: [2.0] - mirostat version, just pick 2.0, this fixes llama2-13b's repetition issue
-Mirostat Tau: [4.0] - dynamically adjust the value of top_k to meet the perplexity defined by this value
+Mirostat Tau: [4.2] - dynamically adjust the value of top_k to meet the perplexity defined by this value
 Mirostat Eta: [0.6] - learning rate
 ```
 https://rentry.org/llm-settings
@@ -68,7 +69,7 @@ git stash pop
 Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no statistics, not even prompt count.
 
 ##### Known issues
-- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies.
+- Why replies short? => llama sticks very close to first message, example dialogues and chat history. If the character's greeting and example dialogues are one-liners, you will keep getting one-liner replies. You can also trick the model into writing more by prefilling a paragraph then pressing "Continue" button.
 Here's an ideal card that will generate medium responses: https://files.catbox.moe/1ytt9w.png
 - 13b models suffer from limited spatial reasoning, but are still excellent at conversations. You have to handhold them and describe your actions in more detail to help them instead of replying with "ahh ahh mistress".
 - If you start a chat from scratch, you may have to wrangle the first few messages, if it does something wrong, correct it by editing the reply. The model will learn and fall into pattern. Alternatively, use cards with good and diverse example dialogues.

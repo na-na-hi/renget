@@ -183,6 +183,8 @@ TotoraMao|[Twitter](https://twitter.com/TotoraMao) [Twitch](https://www.twitch.t
 Renpai|[Twitter](https://twitter.com/Renpaini) [Twitch](https://www.twitch.tv/renauni)|
 Roringclara|[Twitter](https://twitter.com/Roringclara) [Youtube](https://www.youtube.com/channel/UCfOf_LpXpbwWm2w8g0JV1_Q) [Twitch](https://www.twitch.tv/roringclara/)|Art
 Sukafu|[Twitter](https://twitter.com/SukafuDesu) [Youtube](https://www.youtube.com/channel/UCE-Cu031ZLeLlZw0DsSjg-g) [Twitch](https://www.twitch.tv/sukafu_)|
+Sukafu|[Twitter](https://twitter.com/SukafuDesu) [Youtube](https://www.youtube.com/channel/UCE-Cu031ZLeLlZw0DsSjg-g) [Twitch](https://www.twitch.tv/sukafu_)|
+Rinna Noeyemi|[Twitter](http://twitter.com/rinnanoeyemi)|[Twitch](http://twitch.tv/rinnanoe)|
 
 
 ---

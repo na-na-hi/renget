@@ -5,7 +5,6 @@
  Links	| Description 
 :----:|----:
 [Pastebin](https://pastebin.com/58y36fMk) | HSR beginner guide
-[1.3 FAQ](https://rentry.org/hsrfaq) | FAQ for Version 1.3
 [Hoyolab Wiki](https://wiki.hoyolab.com/pc/hsr/aggregate/character) | miHoYo Wiki
 [Hoyolab Map](https://act.hoyolab.com/sr/app/interactive-map/index.html) | miHoYo Interactive Map
 [Honey Hunter](https://hsr.honeyhunterworld.com/) | Database

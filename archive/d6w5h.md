@@ -13,7 +13,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 
 Pokémon's Ability | Description
 ---- | ----
-Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to ≥11 against the user.
+Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least ≥11 against the user.
 
 ->Rookie Rank<-
 ->*0/400 points to Normal Rank*<-
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 10 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -87,7 +87,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. White Gummi | Yeah.
+1. Empty | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

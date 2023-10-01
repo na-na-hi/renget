@@ -3,6 +3,11 @@
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
+
+**Shinatsu** ~1.7k tokens. Dumb foxbaba bumpkin with a big sword. I think I might've tried to inject a bit too much personality in to this one, but if you actually read this shit then you expect that. The AI (that I'm using anyway) does a great job at making her talk sufficiently hicklike. Haven't tested her with anything other than geppy4, but I'd be surprised if Turbo couldn't handle her. I wrote a bit of character history for this one, which I'll provide as a lorebook. It's not particularly necessary, just includes some details on her motivations to add a bit of spice to her flavor of stupid. Read it if you plan to use her. I don't know how to format them properly.
+![](https://files.catbox.moe/eism7p.png)
+[*image source*](https://beta.sankakucomplex.com/post/show/6863717) [chub](https://chub.ai/characters/hitogami/shinatsu-e7ae2bd2) [lorebook](https://chub.ai/lorebooks/hitogami/shinatsu-history-876e2a33)
+
 **Maëlys** ~1.8k Tokens, very expensive elf prostitute. Racist but tries to be professional, it'll slip eventually. Alternate intro message that adds lore but probably shouldn't be used, especially for Claude because he doesn't know what the fuck to do without having his hand held.
 I've been cooking this damn card since nearly mid June, between having to hunt proxies and some irl nonsense I haven't been able to keep up with the chaos. That being said, I think it turned out pretty good. She hates you but she's obedient, that was all I really wanted. Tested with a lot of clod and a little bit of turbo, GPT does better with the flipflopping personality shit but Claude is (was?) more willing to treat her like a skilled prostitute.
 ![](https://files.catbox.moe/eaaiui.png)

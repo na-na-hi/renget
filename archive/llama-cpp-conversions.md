@@ -31,7 +31,7 @@ To keep things simple, I recommend creating a single folder somewhere on your sy
     If you are updating, skip the first 2 steps.
 
 1. Open a command prompt and move to our working folder: `cd C:\working-dir`
-2. (See warning below) Download the latest `finetune-lora` branch from xaedes' repo (NOT the [main llama.cpp](https://github.com/ggerganov/llama.cpp) repo) using git: `git clone -b finetune-lora https://github.com/xaedes/llama.cpp.git`
+2. Download llama.cpp using git: `git clone https://github.com/ggerganov/llama.cpp.git`
 3. Move into the llama.cpp directory: `cd llama.cpp`
 4. If there is an existing `.venv` directory, delete it: `rmdir .venv /s /q`
 5. Create a python virtual environment: `python -m venv .venv`
@@ -45,9 +45,6 @@ To keep things simple, I recommend creating a single folder somewhere on your sy
 13. Delete any leftover files: `make clean`
 14. Compile everything: `make all -j`
 15. Once it's done compiling, close the compiler tools: `exit`
-
-!!! warning Step 2 above is temporarily using a different repository until [Pull Request #2632](https://github.com/ggerganov/llama.cpp/pull/2632) is merged.
-    If you don't need to merge LoRAs, use `git clone https://github.com/ggerganov/llama.cpp` instead.
 
 ### Updating
 

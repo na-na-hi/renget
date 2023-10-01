@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/avHitIP.png)
-Better Days Edition
+![suggested OP image](https://i.imgur.com/ERINQqc.jpg)
+Knocked Out Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>448073007
+Last thread: >>448360913
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,14 +33,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Conceive prompts about this week's theme, Impregnation Friday!
+\>Today is still Impregnation Friday; birth your pregnancy prompts at the anchorpost! Last: >>448374693
  
 ▶News
 (9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670
-(9/06) NAI trannycord rebrands as Anlatan, accidentally purges 30k users, lmao
+\>(9/12) Neat https://twitter.com/ThomasSimonini/status/1701620197923107305
+\>(8/24) Nick talks about stuff https://www.youtube.com/watch?v=JVCwONLpyTA
 (8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/
 (8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY
-(8/15) Kayra roids out https://api.wandb.ai/links/novelaix/z5pqu0sw ; Cube preset is pretty good
 
 
 #Perma-Template

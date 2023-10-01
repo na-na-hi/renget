@@ -29,6 +29,7 @@ Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*,
 *Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
 *New Record*|*Mario Kart 64*|[(link)](https://rentry.org/qg9ky)
 *Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)
+*Ananke* (WIP)|Original|[(original)](https://rentry.org/yqwwz), [(edited)](https://rentry.org/3x9akw)
 
 ##.exe pastas
 Title|Link
@@ -132,6 +133,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
 *Metallic Frenzy* (Karrie) (WIP)|[(link)](https://rentry.org/metallicfrenzy)
 *SPEEDY HOG 7* (Hog)|[(link)](https://rentry.org/spho7hedge)
+*Satanos* (WIP)|[(link)](https://rentry.org/hiqzp)
 
 ##Restored/archived/translated by /exeg/
 Title|Link

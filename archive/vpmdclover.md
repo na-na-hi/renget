@@ -375,6 +375,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Smith and Furret Join the Clover Guild](https://rentry.org/iy7m3)
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
+	* [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi) *Not on Table*
 * Solid Linoone the Linoone
     * [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Sterling the Clampearl
@@ -563,6 +564,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 * {||} [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4)
 * {||} [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2)
+* {||} [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

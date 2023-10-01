@@ -54,8 +54,9 @@ Alternatively you need to reset your network, see [this video on how to do that]
 
 ## (Re)rolling
 **Spend *all* your rolls after the first mission. After that you can reroll.**
-I'd also advice to do the same even if you don't reroll, just so you have something to work with.
 Make sure to claim stuff from missions and your mailbox too. 
+
+I'd advice you to do the same even if you don't reroll, just so you have a something to work with. 
 
 **BA has sparks, not pity.** 
 **Sparks do not carry over between banners.**
@@ -379,6 +380,9 @@ Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare 
 ![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/edrBC8o.png)
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
+
+>idk what to buy, which BDs/technotes do I pick? 
+Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. 
 
 >PvP shop
 **Save ur shit, maybe buy Utaha. Maybe.**

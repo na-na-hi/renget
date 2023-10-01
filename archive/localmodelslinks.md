@@ -3,10 +3,10 @@
 ------ | ------
 **Guides**|
 [Quick Start Guide](https://rentry.org/TESFT-LLaMa)|Outdated. Basic how to set up Nvidia/AMD/CPU inferencing 
-[SillyTavern Character Chat Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
+[SillyTavern RP Chat Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
 [Local Models Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
 [Local Models Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
-[Local Models GPU Buying Guide](https://archive.ph/SY2h6)|By Tim Dettmers (quantization researcher). 3090/4090 is current meta 
+[Local Models GPU Guide](https://archive.ph/SY2h6)|By Tim Dettmers (quantization researcher). 3090/4090 is current meta 
 |
 **Models**|
 [TheBloke's Huggingface Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
@@ -68,7 +68,7 @@
 [Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
-**Interesting Research**|
+**Local LLM Research**|
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
 [PoSe](https://github.com/dwzhu-pku/PoSE)|Positional skip-wise training (finetuning too) that works with RoPe models for context extension
 [ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
@@ -95,7 +95,7 @@
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
-[demucs](https://github.com/facebookresearch/demucs)|Audio source separation model from Meta
+[UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
 [GigaGAN](https://github.com/lucidrains/gigagan-pytorch)|Text-to-Image synthesis with layout-preserving fine style control and upscaling
 |

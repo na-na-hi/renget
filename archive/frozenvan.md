@@ -7,6 +7,7 @@ Post logs if you can. They may give me inspiration for new bots. If you want to 
 
 # New
 Stop reading this rentry and listen to Ginger Root: https://www.youtube.com/watch?v=hMCAF8tZ7ZE
+Or Eurobeat: https://www.youtube.com/watch?v=Iy27T3FYbbI&list=PLxx_3u0U2lpfORbnRZUHTCkyE1j6b-dhR&index=109
 I don't think anyone reads this rentry anymore, but I'm going to list the bots I made after May? I'm lazy, so I'm stealing the description from my past shills. Not gonna include any pictures because I'm lazy. I stopped updating when I read that imgur was going to remove inactive links.
 
 Other private bots but I'm not sharing:

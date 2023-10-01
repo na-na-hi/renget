@@ -5,7 +5,7 @@ An explanation by Professor Turo (4chan tripcode: !!1ulnC0Yj8gx)
 # What is MDEG?
 MDEG stands for Mass Divergence Effect/Event General. It is a thread on /x/ for discussion of the Mass Divergence Effect and the impending Mass Divergence Event. 
 ## What is the Mass Divergence Effect?
-The Mass Divergence Effect, also known as the "Mandela Effect," occurs when aspects of two universes merge. (Although, due to the Law of Causality, it is unlikely that the death of Nelson Mandela changed between universes, so this is likely an actual false memory. It is still possible, though). Individual instances of this are known as "Divergence Anomalies." Currently, due to the Law of Causality, this is only happening to minor, inconsequential things such as logos and character designs, but that may change in the near future, and will definitely change when the Mass Divergence Event happens. 
+The Mass Divergence Effect, also known as the "Mandela Effect," occurs when aspects of two universes merge. (Although, due to the Law of Causality/Importance, it is unlikely that the death of Nelson Mandela changed between universes, so this is likely an actual false memory. It is still possible, though). Individual instances of this are known as "Divergence Anomalies." Currently, due to the Law of Causality/Importance, this is only happening to minor, inconsequential things such as logos and character designs, but that may change in the near future, and will definitely change when the Mass Divergence Event happens. 
 Example:
 ![](https://imgs.search.brave.com/OQJT-9jJq0HSMzcvIdMSGn5Y0Iwd3A1tbDhPPjyk9qE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbm5v/dGVjaHRvZGF5LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOC9tYW5kZWxh/X2VmZmVjdF8xNjAw/LmpwZw)
 ## What is the Mass Divergence Event?
@@ -17,10 +17,11 @@ Correct. However, when they happen in space they are isolated incidents. They ar
 Recently, it has been speculated that particle colliders may not be responsible for the MDE at all. According to this theory, the MDE is a natural occurrence and the activation of particle colliders around the time divergence anomalies started showing up was a coincidence. 
 ## How can we stop this?
 To be blunt: I don't know. I am researching the MDE, the multiverse, and CERN, and am trying to come up with a way to stop the Event from happening or at least find a way to survive it. The only thing I can think of is to go to a universe where it isn't happening and wait it out, but I do not have the equipment to do so. According to KB's thread, they're basically just trying to find an "interdimensional band-aid" solution, which doesn't sound all too promising. 
-# The Law of Causality
+# The Law of Causality/Importance
 -> **The more complex a cause is, the less likely its effect is to change between different universes** <-
 For example, things that are caused by fleeting decisions or randomly generated numbers will probably change between universes. The logos and characters above only have differences in minor details because said details exist due to the fleeting decision of an artist. 
 On the other hand, things that have many complex causes will probably remain the same between universes. For example, the result of a presidential election is the effect of the decisions of millions of people, influenced by different individual upbringings, so the winner will remain the same between most universes. There are outliers to this, of course, and butterfly effects do happen. 
+NOTE: On September 27, 2023, I noticed a Divergence Anomaly pertaining to the name of this law; It was formerly the Law of Causality, but it is now the Law of Importance. I will include both names. 
 # Background Information
 ## How do we know all this?
 On June 5, 2019, KB (a former CERN employee) uploaded to Pastebin transcripts of conversations between her and JB (a man from the 2040s of another universe):
@@ -40,7 +41,7 @@ https://archive.4plebs.org/x/thread/35425239
 # An Explanation of "Time Travel" (Actually Dimensional Travel)
 First and foremost, let's get something out of the way: **Linear time travel to the past of one's own timeline is completely impossible. It will never be possible to travel backwards in time by any means**
 That being said, it is possible to go "back in time" by traveling to another universe. As I am writing this, it is September 7, 2023, at 9:42 PM Central Daylight Time. That is not true in other universes. It may be 2018, or 2002, or 1857, or 4000 BC, or 3101, or literally any other time that could ever possibly exist. When JB came to talk to KB, it was the 2040s in his universe and 2012 in ours. So now, in his universe, it is sometime in the 2050s or 2060s. 
-For example, let's say you wanted to see Live Aid in-person. You couldn't go back and see it in our universe, but you could see it in another universe (and according to the Law of Causality, the bands and songs should be almost exactly the same). 
+For example, let's say you wanted to see Live Aid in-person. You couldn't go back and see it in our universe, but you could see it in another universe (and according to the Law of Causality/Importance, the bands and songs should be almost exactly the same). 
 Here's an oversimplified and primitive representation of how it works:
 ![A poorly-drawn diagram representing what "time travel" actually is](https://i.imgur.com/picMwfm.png)
 And to reiterate: **Nothing you would do in that universe's 1985 would affect our universe in any way.**

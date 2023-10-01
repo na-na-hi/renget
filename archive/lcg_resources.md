@@ -42,8 +42,8 @@
 ##  Story
 * [Limbus Company Story Viewer](https://retcons.github.io/limbus-storylogs/)
 * [Uptie Tier 3 Character Stories](https://www.youtube.com/watch?v=YglNNFCEzRQ&list=PL4enXqMv4Wy3OXVs-gSpGFuemkzXfHunk&pp=iAQB)
-* [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
+* [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [Recommended Translations](https://rentry.org/ligmabooks)
@@ -95,6 +95,7 @@
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
+* [More Zenas](https://mega.nz/folder/46EhXZTK#GKIUf9dTa6o2jL5DAfb72A)
 * [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
 * [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
@@ -123,3 +124,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to Uptie 3 character stories
 9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
 9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.
+9/28/23: Added link to Other Kots MEGA
+9/30/23: ![lol&](https://files.catbox.moe/7dmu76.png)

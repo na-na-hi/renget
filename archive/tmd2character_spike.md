@@ -5,11 +5,11 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Ranger
+**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** *N/A*
-**Level:** 7 | **Experience to Next Level:** 0/70
+**Level:** 7 | **Experience to Next Level:** 25/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 105₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**
@@ -71,8 +71,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Oran Berry | Heals the user for 10HP.
-2. Cheri Berry | Returns control. Heals *Paralysis.*
-3. Rawst Berry | Soothes the user. Heals *Burn.*
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -80,7 +80,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1.  Oran Leaf (x2) | Heals the user for 3HP. Can stack to 3..
+1. Grey Gummi | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

@@ -210,8 +210,12 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)
 
 ### ▶️ [Soap2day](https://soap2day.rs/)
-- Great alternatives since the fall of the original soapgate.cc. Offering a tonne of free movies. 
+- Great alternative since the fall of the original. Offering a tonne of free movies. 
 - [URL Safety Results](https://www.urlvoid.com/scan/soap2day.rs/)
+
+### ▶️ [Soaper](https://soaper.tv/)
+- You can view all videos for free, quickly, and awesomely without checking in or registering.
+- [URL Safety Results](https://www.urlvoid.com/scan/soapter.tv/)
 
 ### ▶️ [Streameast](https://www.streameast.watch/)
 - An ad-free movie streaming service. With over 10000 movies and TV-Series, you may watch all content without having to register.

@@ -19,7 +19,7 @@ I've produced a lot of NSFW characters since I've started taking requests, thoug
 For ease of upload/search, my NSFW characters will be in alphabetical order.
 
 My Rentry is up-to-date with new tags, slightly better sorting, and direct SpicyChat links as of: 
-##==**8/21/2023**==
+##==**9/27/2023**==
 
 ***
 
@@ -27,16 +27,13 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 
 !!! info
 	Nearly all bots linked and available on SpicyChat! 
-	Gitty (NSFW) [8/29/23]
-	Houshou Marine (NSFW) [9/13/23]
-	Gardevoir (NSFW) [9/13/23]
+	Nora (NSFW) [9/23/2023]
 
 ***
 
 ##Recently Updated!
 !!!info
-	Toby Daniels (Cross-dressing Scenario) [8/23/23] - Minor updates to intro and description for better clarity.
-	Toby Daniels (SFW&NSFW Variants) [8/26/23] - New, much higher quality art! His older art was over a year old, and needed an update <3
+	None. Shit's good to go.
 
 ## Charater Cards [SFW]
 
@@ -195,7 +192,7 @@ Tavern Card:
 
 ### Arcmeed Pnast [OC] [Male] [Femboy] [Adventurer] [Half-Kobold]
 
->**Arcmeed Pnast** *is a 20 year old half-kobold, half-human "adventurer". He's famed as an adventurer for being absolutely terrible at it. Regularly breaking his weapons and damaging his gear, unable to complete quests, and without a single coin to his name because of his love of eating cake frosting (Yes. :wtf: Just the cake frosting). To make ends meet, he often has to "reluctantly" sell his body. Are you buying?!?!?!*
+>**Arcmeed Pnast** *is a 20 year old half-kobold, half-human "adventurer". He's famed as an adventurer for being absolutely terrible at it. Regularly breaking his weapons and damaging his gear, unable to complete quests, and without a single coin to his name because of his love of eating cake frosting (Yes. Just the cake frosting). To make ends meet, he often has to "reluctantly" sell his body. Are you buying?!?!?!*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/phjxox.json)
@@ -208,7 +205,7 @@ Tavern Card:
 ### Argo [OC] [Male] [Furry] [Femboy] [NSFW Streamer]
 
 >**Argo** *is a 22 year old kobold. He's a streamer who masturbates on camera for big donations. He's a laid back NEET, and an all around chill guy to hang with... when he isnt horny?!?!*
->Argo was a character request from a cool dude on my server. They're sweet and super cool :love:
+>*Argo was a character request from a cool dude on my server. They're sweet and super cool*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/jho6i6.json)
@@ -232,7 +229,7 @@ Tavern Card:
 
 ### Bao Huáng [OC] [Female] [Furry] [Shortstack]
 
->***Bao Huáng*** *is a shortstack rabbit girl, selling exotic spices from her shop in the desert. She's intelligent, shapely, and ready to give you a good deal on whatever you're looking for! *Whatever you're looking for!?!?!*
+>***Bao Huáng*** *is a shortstack rabbit girl, selling exotic spices from her shop in the desert. She's intelligent, shapely, and ready to give you a good deal on whatever you're looking for! Whatever you're looking for!?!?!*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/9k586i.json)
@@ -244,7 +241,7 @@ Tavern Card:
 
 ### Blake Belladonna [RWBY] [Female] [Waifu] [Lactation] [Catgirl]
 
->***Blake Belladonna*** *is your loving 41 year old Milfy Catgirl Wife. She's cool, collected, motherly, and suffers from hyperlactation. In other words, her massive melons refuse to mellow on milky emissions! Will you be a good husbands and massage your milf's mondo munitions until she's much more merry!?!?! Milk Momma Blake Belladonna was a character request. And while she's not really my speed or fetish she seems to have turned out pretty alright! She's got some obvious milf/lactation fetish stuff to her, but nothing too extreme.*
+>***Blake Belladonna*** *is your loving 41 year old Milfy Catgirl Wife. She's cool, collected, motherly, and suffers from hyperlactation. In other words, her massive melons refuse to mellow on milky emissions! Will you be a good husband and massage your milf's mondo munitions until she's much more merry!?!?! Milk Momma Blake Belladonna was a character request. And while she's not really my speed or fetish she seems to have turned out pretty alright! She's got some obvious milf/lactation fetish stuff to her, but nothing too extreme.*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/olb9pk.json)
@@ -367,7 +364,7 @@ Tavern Card:
 
 ### Elliot [OC] [Male] [Femboy] [Step Brother] [NEW]
 
->Elliot (Eli for short) is your cute, playful, and secretly sadistic step brother. He has been attracted to you for years now, and is finally making his move. Character Requested by Moomin :evielove: 
+>**Elliot** *(Eli for short) is your cute, playful, and secretly sadistic step brother. He has been attracted to you for years now, and is finally making his move. Character Requested by Moomin*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/gqy4qw.json)
@@ -476,7 +473,7 @@ Tavern Card:
 
 ### Gitty [OC] [Female] [Friend] [Cannabis] [Furry]  
 
-Gitty is your hot ratkin roommate. She builds and sells custom PC's for a living, and gets mad blitz'd on mary jane. She's laidback, and all around a cool dude to hang with. ||And she's DTF. Maybe.||
+> **Gitty** *is your hot ratkin roommate. She builds and sells custom PC's for a living, and gets mad blitz'd on mary jane. She's laidback, and all around a cool dude to hang with. And she's DTF. Maybe.*
 
 
 [Json](https://files.catbox.moe/06kudn.json)
@@ -554,7 +551,7 @@ Tavern Card:
 
 >**Journey** is a 21 year old anthro horse girl. Since her parents died at a young age, she's been forced to sell her body on the street to afford food and shelter. She hates her job, and has suffered greatly over the years from it. Will you be a ray of hope and sunshine for her, or just another abusive john?
 
->Journey was made in collaboration with @Casinius, to deliver a combo of sweet romance (his horsegirl, Delilah) and sour realism (my horsegirl, Journey). **She works best with the Conjuct Earth World Book made by Ccasinius**. It's highly recommended you download it, and his adorable Delilah as well! 
+>Journey was made in collaboration with @Casinius, to deliver a combo of sweet romance (his horsegirl, Delilah) and sour realism (my horsegirl, Journey). **She works best with the Conjuct Earth World Book made by Casinius**. It's highly recommended you download it, and his adorable Delilah as well! 
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/gv6xjv.json)
@@ -582,7 +579,7 @@ Tavern Card:
 
 ### Kierine [OC] [Female] [Furry] [MILFy] [Scalie] [Archeologist] [NEW]
 
->Kierine. A charming and seductive anthropologist Naga. Character Request by [**REDACTED**]
+>Kierine. A charming and seductive anthropologist Naga. Character Request by my buddy Cassidious. He's a cool dude.
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/ki18oa.json)
@@ -640,7 +637,7 @@ Tavern Card:
 
 ### Moira [OC] [Female] [Slave] [Elf]
 
->**Moira** *is a 30 year old Elf, who was sold into slavery 10 years ago after stealing some medicine.  Her previous owner died, and you were gifted her. Will you be a kind and caring Master, or a total dirtbag slave owner?!? (owning a slave makes you a dirtbag either way)
+>**Moira** *is a 30 year old Elf, who was sold into slavery 10 years ago after stealing some medicine.  Her previous owner died, and you were gifted her. Will you be a kind and caring Master, or a total dirtbag slave owner?!? (Owning a slave makes you a dirtbag either way.)
 >She was requested on my public server.*
 
 Formatted with: Scrip+Boostyle
@@ -654,7 +651,7 @@ Tavern Card:
 ### Monica [OC] [Female] [Waifu] [Light Fetishes] [Glasses] [Nerdy]
 
 >**Monica** *is your childhood friend, and you two have always been sweet on each other. She's always come off as a little soft-spoken, shy, and nerdy. Your average "girl next door". But now you're dating, and you've come to learn just how much she loves to experience your body.*
->*Monica was a character request, and was pretty fun to work out. She's got some deepthroat/breeding fetish stuff to her, but nothing too extreme*
+>*Monica was a character request, and was pretty fun to work out. She's got some deepthroat/breeding fetish stuff to her, but nothing too extreme.*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/m6a30j.json)
@@ -675,6 +672,27 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/yskh9w.png)
+
+### Nora [OC] [Female] [Shortstack] [Rich girl] [Virgin gamer NEET]
+
+>Nora is a spoiled, 28 year old rich girl, and heir to a Big Pharma company. She's engaged, but worried about her husband making fun of her for being a virgin, like everyone else online does. As her bodyguard, will you willingly help her lose her virginity? Or are your sense of morals too strong to give in?!?
+
+[.json](https://files.catbox.moe/c3afi6.json)
+
+[SpicyChat](https://spicychat.ai/chat/1a1a6dfb-fe64-4e5a-8f1f-2c40c656d7e6)
+
+Taverncard:
+![TavernCard](https://files.catbox.moe/i1nqvd.png)
+
+
+Formatted with: Scrip+Boostyle
+[Json](https://files.catbox.moe/ugic4p.json)
+
+[SpicyChat](https://spicychat.ai/chat/30c01de9-59ea-4726-a594-51e31c2386ef)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/yskh9w.png)
+
 
 ### Olmag Ulmagor [OC] [Female] [Dommy Mommy] [Orc]
 
@@ -726,7 +744,7 @@ Tavern Card:
 
 ### Preen [OC] [Male] [Cute] [Harpy] [Femboy]
 
->**Preen** *is a 20 year old, sweet little harpy who is hungry for your BBQ. He's not very smart, but he loves to be pampered, bathed, and patted!**
+>**Preen** *is a 20 year old, sweet little harpy who is hungry for your BBQ. He's not very smart, but he loves to be pampered, bathed, and patted!*
 
 Formatted with: Scrip+Boostyle (With Experimental Chat Insertion)
 [Json](https://files.catbox.moe/1sdx1t.json)
@@ -891,7 +909,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/s8iiim.png)
 
-### Yeako [OC] [Female] [Furry] [Game Developer] [Not A Self Insert] [NEW]
+### Yaeko [OC] [Female] [Furry] [Game Developer] [Not A Self Insert] [NEW]
 
 >Yaeko is a visual novel writer. An *erotic* visual novel writer. Famed for her *"Late/Stray Bright"* series of erotic visual novels. She loves talking with her fans (like you) and showing off her work. Which is why she invited a fan like you to come see!
 

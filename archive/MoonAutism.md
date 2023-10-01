@@ -7,7 +7,7 @@
 -Unarchived 
 - [Stash](https://stash.sussy.moe/karaoke/moona/) 
 - [Mega](https://mega.nz/folder/XRYD2RRC#6vVkatVFR39LwZAKKgJTTA) 
-- [Ayam Penyet](https://ayampenyet.eu.org/moona/)
+- [Ayam Penyet](https://ayampenyet.my.id/moona/)
 >For ones that aren't in the links just search on nyaa/pirates and hope it's not dead. 
 
 ==**3D Lives/Appearances**==

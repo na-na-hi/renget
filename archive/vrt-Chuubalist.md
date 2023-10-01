@@ -235,6 +235,11 @@
 [Streaming Twitch](https://www.twitch.tv/thegoodjared)
 [Twitter](https://twitter.com/TheGoodJaredTTV)<-
 
+->**Teeny Tommie**
+![Teeny Tommie](https://i.warosu.org/data/vt/img/0594/80/1696010844899409.png)
+[Streaming Twitch](https://www.twitch.tv/teenytommie)
+[Twitter](https://twitter.com/teenytommie)<-
+
 ->**Tenma Maemi**
 ![Tenma Maemi](https://i.warosu.org/data/vt/img/0495/38/1684271092120628.png)
 [Streaming Youtube](https://www.youtube.com/@TenmaMaemi)

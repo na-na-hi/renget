@@ -4,7 +4,7 @@
 
 *Here's my [**chub**](https://www.chub.ai/users/mino24she); it will be updated periodically (surely). Stay tuned for more! Just delete some examples if the token counts are a little high for your liking. Everything is on [**venus**](https://venus.chub.ai/users/mino24she), if you'd prefer that.*
 
->My bots are all shadowbanned, so if you'd like the links, click Edit at the bottom of this page. You can now reach me at {•mino•#6780} on Discord.
+>My bots are all shadowbanned, so if you'd like the links, click Edit at the bottom of this page.
 
 -----
 ##->bots<-

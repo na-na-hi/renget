@@ -17,7 +17,7 @@ AMD GPU: https://rentry.org/sdg-link#amd-gpu
 Mac: http://drawthings.ai (settings: all compute units, enable metal flash)
 CPU: http://rentry.org/cputard
 
->>> Low VRam? Radeon card? Genning on the go? Use the colab <<<
+>>> Low VRam? Radeon card? Genning on the go? Use Colab Pro (~$11/month) <<<
 https://rentry.org/sdg-link#colab
 
 >>> Faded colors/purple stains/low quality/sneeded/blurry/aliased? Use a VAE <<<

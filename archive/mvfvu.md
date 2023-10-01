@@ -28,7 +28,7 @@ Demon Summoning Gone Right/wrong
 https://rentry.org/3b5fa
 Vampire Queen
 https://rentry.org/ddm43
-Sharkskin
+Sharkskin (finished)
 https://rentry.org/emeqm
 Three Sheets to the Wind (finished)
 https://rentry.org/ba628
@@ -44,5 +44,7 @@ Sonic says shorts
 https://rentry.org/pcqqq
 https://rentry.org/gxv8e
 https://rentry.org/g94g5x
+Waldgattin
+https://rentry.org/uyypyz
 One shots
 https://rentry.org/kwmnz

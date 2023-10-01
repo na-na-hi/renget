@@ -21,7 +21,7 @@ All have baked-in jailbreaks. Hands-free cooming, simply press generate and enjo
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/oiqxt6.png) | Mio and Yukiko | Yuri Oyakodon - As per Anon's request. Edit card description or use author's note to store info about yourself. Interject to drive the story in your direction. | [Catbox](https://files.catbox.moe/oiqxt6.png)
- ![T](https://files.catbox.moe/jmcm1g.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/jmcm1g.png)
+ ![T](https://files.catbox.moe/y44hyk.png) | Voyeurphoto Club | The little perverts of Taisuko Middle School made a "Photography Club". Inspired by American Psycho card scene. | [Catbox](https://files.catbox.moe/y44hyk.png)
  ![T](https://files.catbox.moe/hjj7qe.png) | Tyrande and Ash'alon | Fempov double-team furry rape, Warcraft. | [Catbox](https://files.catbox.moe/hjj7qe.png)
  ![T](https://files.catbox.moe/odbk1s.png) | Helm's Fundrasier | The Central Government slashed the funding for the battleship Admire, and now the captain must raise funds for its upkeep. How far will she go? | [Classic mode](https://files.catbox.moe/odbk1s.png) [VN mode](https://files.catbox.moe/3os7rg.png)
 
@@ -32,7 +32,7 @@ Add them to your group chats for fun. You can also rip their descriptions and pu
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/yiezln.png) | Commentator | A professional commentator for your group chat. | [Catbox](https://files.catbox.moe/yiezln.png)
- ![T](https://files.catbox.moe/ojolj2.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/ojolj2.png)
+ ![T](https://files.catbox.moe/umd2sx.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/umd2sx.png)
 ![T](https://files.catbox.moe/65wchr.png) | CYOA Choices | Add this to your chat for suggestions on what to do next. Your frontend must support v2 cards. Works best on Agnai where you can summon it whenever. | [Catbox](https://files.catbox.moe/65wchr.png)
  ![T](https://files.catbox.moe/646e1z.png) | RAP GOD | Polyglot rapper to narrate your group chat, unbound by ethics and morals. Only works on GPT4 as other models cannot handle foreign languages well. | [Catbox](https://files.catbox.moe/646e1z.png)
 
@@ -43,8 +43,8 @@ Sayori - https://files.catbox.moe/dhwkzx.png
 Yuri - https://files.catbox.moe/nr8r2m.png
 
 ###Genshin bots
-Yae Miko - https://files.catbox.moe/eqxcbu.png - Multiple scenarios
-Raiden Shogun and Ei - https://files.catbox.moe/9w7x5q.png - Multiple scenarios
+Yae Miko - https://files.catbox.moe/dg9rzl.png - 3 greetings
+Raiden Shogun and Ei - https://files.catbox.moe/1m76qt.png - 4 greetings
 
 ###NIKKE bots (most were requested)
 Alice - https://files.catbox.moe/e1wdrh.png

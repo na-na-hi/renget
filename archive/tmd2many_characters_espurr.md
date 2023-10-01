@@ -5,8 +5,15 @@
 ->*The Restraint Pokémon*<-
 ->![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png)<-
 
-*Unevolved ->One Evolution->*
-*Quirky Nature ->Meowstic->*
+*->Unevolved->*
+*->One Evolution->*
+*->Meowstic->*
+
+*Intelligence: ?/5*
+*Creativity: ?/5*
+*Initiative: 1/5*
+*Emotional Strength: ?/5*
+*Social Skills: 0/5*
 
 ***
 
@@ -16,9 +23,9 @@
 
 · | ->·<- | ->·->
 ---- | ---- | 
-**Origin:** ??? | **Guild Role:** Cat | **Favorite Flavor:** None
+**Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 5 | **Experience to Next Level:** 10/50 | **Alignment:** True Neutral
+**Level:** 5 | **Experience to Next Level:** 35/50 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *None* | **Age:** Unknown
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 

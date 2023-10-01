@@ -8,16 +8,16 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Herself
-**Level:** 6 | **Experience to Next Level:** 45/60
+**Level:** 7 | **Experience to Next Level:** 10/70
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 160 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 140 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*75/400 points to Normal Rank*<-
+->*25/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -68,7 +68,7 @@ Battle Attribute: None  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: None | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 4/9 | ▮▮▮▮▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

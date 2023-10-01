@@ -21,7 +21,7 @@
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Hana Flores | - | - | -
-Aruru Gray | - | - | -
+Aruru Gray | X | - | X
 Neena Makurano | - | - | -
 Sava Safari | X | X | -
 Oceane Otoishi | - | - | -
@@ -98,11 +98,10 @@ Nana Asteria | - | - | -
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
-	Yuko Yurei, Rin Penrose, Pochi Wanmaru, Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako
+	Yuko Yurei, Rin Penrose, Pochi Wanmaru, Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Kattarina Qutie | X | - | X
 Nikki Rei | - | - | -
 Lily Sin | - | - | -
 Emi Suika | - | - | -
@@ -288,8 +287,8 @@ Shibuya HAL | - | - | -
 Shirayuki Reid | - | - | -
 Aruse Inu | - | - | -
 NaYuta | - | - | -
-Yozuna Niu | - | - | -
-Tentei Forte | - | - | -
+Yozuna Niu | X | - | X
+Tentei Forte | X | - | X
 Kohaku Teto | - | - | -
 Kuga Leo | - | - | -
 Itoi Toi | - | - | -
@@ -528,7 +527,7 @@ Yurikawa Yun | - | - | -
 Ameniwa Yae | - | - | -
 Geppaku Lui | - | - | -
 Kokuyou Lira | - | - | -
-Amakomo Linon | - | - | -
+Amakomo Linon | X | - | X
 Anshinin Misa | X | - | X
 Kanra Deity | - | - | -
 
@@ -570,15 +569,13 @@ Emi Kukis (Emikukis) | - | - | -
 
 ## -> Akio AIR <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Athena Nightingale, RoaFen
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Athena Nightingale | X | - | X
 MEW Horizon | X | - | X
 Nonoah | - | - | -
 Kion Dojima | - | - | -
-RoaFen | X | - | X
 Teyra Fenthera | - | - | -
 Vix E. Grey | - | - | -
 Nophilia | - | - | -
@@ -700,7 +697,7 @@ Kuromiya Lucien | - | - | -
 
 ## -> MyHolo TV <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Woozie Wannai
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -712,7 +709,6 @@ Marica Bellerose | - | - | -
 Manaka Umio | - | - | -
 Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -
-Woozie Wannai | X | - | X
 HORI 07 | - | - | -
 
 ## -> KoMETA <-
@@ -724,6 +720,18 @@ Chuuba | Has Lora | Update Needed | Testing
 Elaine | - | - | -
 Miria | - | - | -
 Virgil | - | - | -
+
+## -> Shirayuri Production <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Nyaru Chu | X | X | -
+Tatsurii | - | - | -
+Yoro Yoyo | - | - | -
+Kohana Amano | - | - | -
+Lavi F. Arseille | - | - | -
 
 ## -> Amber Glow <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -815,6 +823,35 @@ Hibiki Ao | - | - | -
 Kasukabe Tsukushi | - | - | -
 Kimino Miya | - | - | -
 
+## -> FlaVR <-
+!!! info Available Loras without the need of updates and have been tested.
+	Nyana Sextyn9, Sawa Grape, Sena Bonbon, Marie Mehlo
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Minna Vanilla | - | - | -
+Dr. Citrea Lolime | - | - | -
+Donna Vine D'merlot | - | - | -
+Rika Paprika | - | - | -
+Juwun Sugarbloom | - | - | -
+Donutello D'merlot | - | - | -
+Abigill Anemoia | - | - | -
+Alunette Mignon | - | - | -
+Mixie Mixin | - | - | -
+Araminta Aminthe | - | - | -
+Nayvell Milkdrop | - | - | -
+Jubileee Jonagold | - | - | -
+Coconut Blanc | - | - | -
+Stela Fritter | - | - | -
+Noriko Minori | - | - | -
+Kusuri Kouyaku | - | - | -
+Gumi Popu | - | - | -
+Raimi Ricotta | - | - | -
+Temp-Tempai | - | - | -
+Pua Himawari | - | - | -
+Milliardo Beercraft | - | - | -
+Sorin Sorrel | - | - | -
+
 ## -> PITAPAT <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
@@ -824,6 +861,18 @@ Chuuba | Has Lora | Update Needed | Testing
 Karen von Nachtigall | - | - | -
 Meena Caleano | - | - | -
 Taya Rex | - | - | -
+
+## -> PixelLink <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Nebi Nebu | - | - | -
+Raki Kazuki | X | - | X
+Miuna Usako | - | - | -
+Lottie Shinju | - | - | -
+Chiaki Katsumi | - | - | -
 
 ## -> LisPon <-
 !!! note Hmm..
@@ -850,13 +899,16 @@ Riinu | - | - | -
 
 ## -> Indies <-
 !!! info Available Loras without the need of updates and have been tested.
-	Ai Candii, AdcVR, Akira Misaki, Akumi Yoclesh, Alchemilla Menace, Alice Mana, Amatsuka Uto, Anny, Ariduka Formica, Artemis of the Blue, Asano Ruri, AuraGX, AuroraLiveVR / Serafina, Ayamy, Baka Sae, Bao, Batata Com Pepino, Buffpup, C-chan, CottontailVA, Delutaya, Dtto, Dyarikku, Ebosi, Elia Stellaria, Fefe, Filian, Hachi, Hanazono Serena, Halo Sweety, Hana Sakurai, Hanazawa Nako, Hatoba Tsugu, Hizuki Rurufu, Jovilly, Juniper Actias, Kagura Mea, Kagura Nana, Kaguya Luna, Kitanya Nyanta, Kitsui Akari, Komori, Koopa Fortuna, Koragi, Kotonoha Yukino, Kumagai Chisato / Beatani, Lily Hopkins, Lola Loading, Lumituber, Lumi VSinger, Makoto Misaki, Mana Renewal, Meimei Himari, Miilkywayz / Milky, Mikazuki Silvi, Mikeneko, Mingqian, Mint Castella, Mint Fantome, Mocca, Moeri, Momo, Monarch AmaLee, Moriko Kyoho, Nanahira, Nanobites, Nekomiya Hinata, Nekota Miya, Nekoyo Chloe, Neuro-sama, Nimu, Nina Saotome, Noir, Numi, Okuri Sae, Omocat, Onigiri, Osakana Nemu, PapitasVT, Peachhana, Pochimaru, PorcelainMaid / Jowol, Punkalopi, Quon Tama, Reiny, Reiyu GuiGui, Ririsya, Rosedoodle, Rurudo, SaaVtuber, Sakura Aoi, Sansin Jin, Saruei, Shanoa, Shigure Ui, Shinonome Megu, Shirahiko, Shondo / Fallenshadow, Shylily, Shwaa, Sinder, Sister Abigail / Abigail Dovely, Skyler Reach, Sonii, Sora Orbit, Squchan, Suri Mukeki, Tanaka Cosmic Sora, Tenjin Kotone, Tomari Mari, Trickywi, Umami-Chan, Vesperbell Kasuka, Vesperbell Yomi, Vexoria the Sun Eater, ViennaC9, Whiskey Project, Yomeguri Hana, Youyi
+	Ai Candii, AdcVR, Agano Mai, Aka Inside Mk3, Akira Mazono, Akira Misaki, Akumi Yoclesh, Alchemilla Menace, Alice Mana, Amatsuka Uto, Anny, Ariduka Formica, Artemis of the Blue, Asano Ruri, AuraGX, AuroraLiveVR / Serafina, Ayamy, Baka Sae, Bao, Batata Com Pepino, Beryl LeRou, Buffpup, C-chan, Chimugi, CottontailVA, Delutaya, Dtto, Dyarikku, Ebosi, Elia Stellaria, Fefe, Filian, Hachi, Hanazono Serena, Halo Sweety, Hana Sakurai, Hanazawa Nako, Hatoba Tsugu, Hizuki Rurufu, Jean Faymas, Jovilly, Juniper Actias, Kagura Mea, Kagura Nana, Kaguya Luna, Kitanya Nyanta, Kitsui Akari, Komori, Koopa Fortuna, Koragi, Kotonoha Yukino, Kumagai Chisato / Beatani, Lily Hopkins, Lola Loading, Lumituber, Lumi VSinger, Mako Fukasame, Makoto Misaki, Mana Renewal, Meimei Himari, Miilkywayz / Milky, Mikazuki Silvi, Mikeneko, Mingqian, Mint Castella, Mint Fantome, Mocca, Moeri, Momo, Monarch AmaLee, Moriko Kyoho, Nanahira, Nanobites, Nekomiya Hinata, Nekota Miya, Nekoyo Chloe, Neuro-sama, Nimu, Nina Saotome, Noir, Numi, Okuri Sae, Omocat, Onigiri, Osakana Nemu, PapitasVT, Peachhana, Pochimaru, PorcelainMaid / Jowol, Punkalopi, Quon Tama, Reiny, Reiyu GuiGui, Ririsya, Rosedoodle, Rurudo, SaaVtuber, Sakura Aoi, Sansin Jin, Saruei, Shanoa, Shigure Ui, Shinonome Megu, Shirahiko, Shondo / Fallenshadow, Shylily, Shwaa, Sinder, Sister Abigail / Abigail Dovely, Skyler Reach, Sonii, Sora Orbit, Squchan, Suri Mukeki, Tanaka Cosmic Sora, Tenjin Kotone, Tobi Inoue, Tomari Mari, Trickywi, Umami-Chan, Vesperbell Kasuka, Vesperbell Yomi, Vexoria the Sun Eater, ViennaC9, Whiskey Project, YFU Baby, Yomeguri Hana, Youyi
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
+Akami Karubi | X | - | X | -
 Ci the Jiangshi | X | - | X | Testing New One
 Clauvio | X | X | - | Looking for lora version instead of hypernetwork
 Fadianji / 不稳定发电机 | X | X | - | -
+Keriki Mara | X | X | - | -
+Mozumi Pichi | X | X | - | Really needs a new one after full debut
 Lucy Pyre | X | X | - | Looking for new outfit version, nothing is wrong with original
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras
 

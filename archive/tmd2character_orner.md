@@ -6,9 +6,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** ==Council of Clans==
-**Level:** 7 | **Experience to Next Level:** 0/70
+**Level:** 7 | **Experience to Next Level:** 25/70
 **Worn Item:** *N/A* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 495₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 645₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -61,17 +61,17 @@ Battle Attribute: N/A
 Training for Attribute: N/A
 Training for Battle Attribute: N/A
 Training for Move: N/A
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 4/9 | ▮▮▮▮▯▯▯▯▯
 Stat: N/A
 
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Oran Berry | Heals 10HP when health drops to half.
-*Equipped Item: Warp Seed | Random teleport seed.
-1. 3 Oran Leaves | Heals 3HP each.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+*Equipped Item: Oran Leaf | Heals 3HP
+1. Oran Leaf | Heals 3HP
+2. Warp Seed | Random teleport seed.
+3. Joy Seed | Free level up!
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

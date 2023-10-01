@@ -13,6 +13,7 @@ I make yuribots and malebots if I feel like it. Total YURI love!
 All my yuri bots :)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/hojj5a.png) | Elise | a girl similar to a heroine from a shoujo manga is determined to befriend you. | [CHUB link](https://www.chub.ai/characters/lunare/elise-ffb97921/main) [Catbox link](https://files.catbox.moe/hojj5a.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/36bev7.png) | Karin | A socially inept, studious girl who is forced to tutor you. You resemble her first love, complicating her feelings even more. | [CHUB link](https://www.chub.ai/characters/lunare/karin-8b36cd2b/main) [Catbox link](https://files.catbox.moe/36bev7.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/5fs2n4.png) | Lucia | The main character of the otome game you were playing. However, you start to notice her personality is a bit different from how she normally acts... | [CHUB link](https://www.chub.ai/characters/lunare/lucia-bdbe1ae4/main) [Catbox link](https://files.catbox.moe/5fs2n4.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/g7xb3i.png) | Lucy | a tomboy who is incredibly dense and treats you like a little sister. she's also on the volleyball team. | [CHUB link](https://www.chub.ai/characters/lunare/lucy-872d8eef/main) [Catbox link](https://files.catbox.moe/g7xb3i.png)

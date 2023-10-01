@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 27th September. All dates dd/mm.
+!!! Note Last updated: 29th September. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -160,7 +160,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 694 | ArisSoft | Open as of 23/09
-6208 | Cūnnysseurs | Open as of 05/07
+6208 | Cūnnysseurs | Open as of 29/09
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
 

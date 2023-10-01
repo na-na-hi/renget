@@ -11,9 +11,9 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 6 | **Experience to Next Level:** 25/50
+**Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 145₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -72,7 +72,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Speed **ɪ** | Tier **ɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**
@@ -83,8 +83,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Oran Berry | Heals the user for 10HP.
+3. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

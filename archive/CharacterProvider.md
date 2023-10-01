@@ -13,7 +13,7 @@
 #
 
 #
--> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/psg10p.png)](https://boosty.to/xmlk/donate)<-
+-> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/kht674.png)](https://boosty.to/xmlk/donate)<-
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvide) <-
 # 
@@ -26,10 +26,14 @@
 ⠀
 - - -
 ######
--> Now I have a [boosty](https://boosty.to/xmlk) page. You can support me there and soon I will add polls regarding preferable prompts and other stuff. <-
+-> Now I have a [boosty page](https://boosty.to/xmlk). You can support me there and [vote for a Claude prompt version](https://boosty.to/xmlk/posts/13701266-40f2-4b25-8d35-33d7c4bbeb62?share=post_link) you use! <-
 ######
 - - -
-###ReadMe
+##ReadMe
+!!! danger
+	**PESONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
+	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](https://rentry.co/CharacterProvider#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
+
 ######1. BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:
 • I do not encourage/propagate any illegal/questionable/harmful/unethical activities or hate towards any ethnic groups/nationalities/minorities etc. All prompts and "jailbreaks" are intended for entertaining purposes ONLY.
 • If you want to get access to a certain LLM so you can chat with bots, get access legally. When violating the **Terms of use** keep in mind that access can be taken from you by the key provider [Anthropic/OpenAI].
@@ -89,8 +93,12 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 **ЭЙ:** Я устал и ушел. Общаюсь только в диске и по почте.
 **КЬЮ:** Пидр.
 **ЭЙ:** [Да.](https://i.makeagif.com/media/2-06-2016/7A8bW3.gif)
+
+*END OF README SECTION*
+#
 - - -
 #
+##Prompts
 ######![](https://files.catbox.moe/b25od2.png) CHOOSE YOUR GPT PROMPT:
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
@@ -368,7 +376,26 @@ Health: <meter value=10 min=0 max=10></meter> Stamina: <meter value=7 min=0 max=
 
 • Also you can add `buttons` and `text fields` but they won't work. Unfortunately.
 # 
+- - -
+#
+######PERSONA FIX AFTER UPDATE TO ST 10
+If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use this fix manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
+!!! PRESET.json - On the line 103 add the code below (under `scenario` block):
+```
+        {
+            "identifier": "personaDescription",
+            "name": "Persona Description",
+            "system_prompt": true,
+            "marker": true
+        },
+```
+
+!!! PROMPTS.json - Add the code below in the end, before the `]}}` and then manually put in in desired place inside the SillyTavern interface (`Persona description` will appear in prompt manager):
+```
+,{"identifier":"personaDescription","enabled":true}
+```
+#
 - - -
 - - -
 - - -

@@ -566,6 +566,7 @@ Kids on my hero: https://desuarchive.org/tg/thread/90171418/#90175866
 The Princess Diaries starring Inigo myoga and Drekus: https://desuarchive.org/tg/thread/90231458/#90234741
 Hoge & Inigo Aquarium Date: https://desuarchive.org/tg/thread/90272998/#90281700
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://desuarchive.org/tg/thread/90356118/#90366691
+Ryu-kishi and Mirror Devil art: https://desuarchive.org/tg/post/90413221/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -854,6 +855,7 @@ Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu): ht
 Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil): https://rentry.org/ewwu9
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://rentry.org/b2mhn
 Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force): https://rentry.org/xxk2h
+Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Christopher, Challenger, Ryu-kishi, Drone, Reaper): https://rentry.org/e7cszt
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

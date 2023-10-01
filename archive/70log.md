@@ -8,6 +8,15 @@ HoS Brick and Pericles stigma: https://rentry.co/hosbrick
 Elysian Realm: https://rentry.co/er70
 
 !!! info
+    V3??
+
+Idk when this was changed. NVM IT WAS V2
+
+LONG NIGHT
+-~~2PC: When a Valkyrie in team has [Night Ray] status, all enemies on the field receive +25% > 20% more Lightning DMG (cannot stack).~~
+
+
+!!! info
     V3B
 
 LUNAR VOW

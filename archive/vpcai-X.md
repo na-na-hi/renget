@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+Sep. 30th | Scolipede⠀♂ [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad) \| ->Gigantamax Melony [Chub](https://www.chub.ai/characters/skumbingo1013/gigantimax-melony-7760fa98) \| Klara [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)<-
 Aug. 18th | Ace Trainer Amanda (Pokémon Clover) [Catbox](https://files.catbox.moe/bz6nc2.png) Card \| -> Mozzamazel [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
 Aug. 9th | Genwunner (OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
 Aug. 8th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
 July 3rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 June 8th | Gloria & Marnie (Couple) [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 May 24th | Jessie (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher) \| -> Mallow (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card <-
-May 20th | Wicke [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke) \| -> Hex Maniac Helena (Fat) [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac) <- 
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
@@ -24,6 +24,7 @@ Characters | URLs
 **Cynthia** ① | [Booruplus](https://booru.plus/+pygmalion970) & [Chub](https://www.characterhub.org/characters/LizakJaye/Cynthia/main)
 **Cynthia** ② | [Chub](https://www.chub.ai/characters/winkyd/Shirona) 
 **Hilda** | [Booruplus](https://booru.plus/+pygmalion1028) & [Chub](https://www.characterhub.org/characters/LizakJaye/Hilda)
+**Scolipede**⠀♂ | [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad)
 **Elesa** (e-Bully) | [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 **Rosa** | [Chub](https://www.characterhub.org/characters/Freeter/Rosa)
 **Lisia** | [Chub](https://www.characterhub.org/characters/LizakJaye/Lisia)
@@ -33,6 +34,8 @@ Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo101
 **Marnie** | [Catbox](https://files.catbox.moe/auyt5r.png) Card
 **Gloria** & **Marnie** (Couple) | [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)
 **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/Melony) & [Catbox](https://files.catbox.moe/a10dvo.png) Card
+Gigantamax **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/gigantimax-melony-7760fa98)
+**Klara** | [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)
 **Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [Chub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 Genwunner | [Catbox](https://files.catbox.moe/19c8tu.png) Card
 Ace Trainer **Amanda** -> (Pokémon Clover) <- | [Catbox](https://files.catbox.moe/bz6nc2.png) Card

@@ -41,25 +41,18 @@ _______
 |  Connect the World (HoloEN original 3D MV) \| [Streaming options outside of Youtube](https://cover.lnk.to/ConnecttheWorld) \| [MV with non-shit bitrate](https://files.catbox.moe/n4j7ug.mp4)  | [![](https://files.catbox.moe/zneu5e.jpg)](https://www.youtube.com/watch?v=bitH6NZ_e2Q)|
 |Holotori dance video of Niccori Survey Team Theme / にっこり^^調査隊のテーマ (Originally part of [Lui's Birthday Live](https://www.youtube.com/watch?v=nlfGHej2OyA&t=2290))| [![](https://files.catbox.moe/82a0j3.jpg)](https://www.youtube.com/watch?v=4LLS_nWntyI)|
 |HOLOTORI Dance! (First Holotori unit song) \| [Streaming options outside of Youtube](https://cover.lnk.to/HOTOLORIDance)| [![](https://files.catbox.moe/htqjon.jpg)](https://www.youtube.com/watch?v=BcO9bZavHRg)|
+|Holotori dance video of Sekai / セカイ(Originally part of [Lui's Birthday Live](https://www.youtube.com/watch?v=nlfGHej2OyA&t=2614)) |[![](https://files.catbox.moe/ntelqw.jpg)](https://www.youtube.com/watch?v=rTjuiBjd234)|
 
-###### Cameos only
-| Song | Link |
-|------|-----|
-| Myth or Treat | [![](https://files.catbox.moe/4bjyh6.jpg)](https://www.youtube.com/watch?v=VupT9JCJaOY) |
-| Ame and Kiara's Dreamin Chuchu | [![](https://files.catbox.moe/t1ngae.jpg)](https://www.youtube.com/watch?v=vjBZzYN3aAs) |
-| IRyS's cover of Internet Overdose | [![](https://files.catbox.moe/w0r889.jpg)](https://www.youtube.com/watch?v=x_0Zc26jkDw) |
-| Sana's Astrogirl | [![](https://files.catbox.moe/yu1wd7.jpg)](https://www.youtube.com/watch?v=R8y1aWMlPOs) |
-| Bae's cover of A Million Miles Away (BELLE)  | [![](https://files.catbox.moe/qzpxcz.jpg)](https://www.youtube.com/watch?v=YzS26Ao3vt8) |
-| Kronii and Bae's Holy Night (Toradora!) Cover | [![](https://files.catbox.moe/etgmue.jpg)](https://www.youtube.com/watch?v=xvvjwhLG4Dw) |
-| BaeRyS's Daikirai Na Hazu Datta Cover | [![](https://files.catbox.moe/efwvml.jpg)](https://www.youtube.com/watch?v=HrT8Oon9Kxs) |
-| BaeRyS's Erande Kurete Arigato Cover | [![](https://files.catbox.moe/qhejdf.jpg)](https://www.youtube.com/watch?v=3pzh6AaXi9s) |
-|Sweet Appetite by Bae and Gura |[![](https://files.catbox.moe/j2k8fz.jpg)](https://www.youtube.com/watch?v=8dzJS6r2qzU)|
-| Mori's Kawaikute Gomen Cover |[![](https://files.catbox.moe/8tmupu.jpg)](https://www.youtube.com/watch?v=92tvv7PgKeI)|
-|Miko's Kyoufuu All Back Cover| [![](https://files.catbox.moe/vv9ohy.jpg)](https://www.youtube.com/watch?v=U2jl3QIoVws)|
-|Blue Horizon | [![](https://files.catbox.moe/7q56nj.jpg)](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
-|Bae's Yakusoku no Kizuna Cover| [![](https://files.catbox.moe/qr44y0.jpg)](https://www.youtube.com/watch?v=40WoArsMQgQ)|
-|Kiara's Pineapple|[![](https://files.catbox.moe/7h6h3n.jpg)](https://www.youtube.com/watch?v=WuvtwRYkOU0)|
-|Mori's INTERNET YAMERO|[![](https://files.catbox.moe/1d85ko.jpg)](https://www.youtube.com/watch?v=Lp5n-YS22tY)
+######Music from the 3D showcase
+->[![Link](https://files.catbox.moe/52ecmx.jpg)](https://www.youtube.com/watch?v=HTgzc9_uAaY)<-
+| Song | Clip | Audio only|
+|------|-----|-----|
+|Call your name - Hiroyuki Sawano| [Link](files.catbox.moe/r2v1u6.mp4) | [.aac file](files.catbox.moe/1s55b8.aac)|
+|天ノ弱/Amanojyaku - 164 ft. Towa| [Link](files.catbox.moe/5g0bo6.mp4) | [.aac file](files.catbox.moe/nuermx.aac)|
+|トリノコシティ/Torinoko City - 40mP ft. Korone| [Link](files.catbox.moe/tt7ox1.mp4) | [.aac file](files.catbox.moe/f5ev1o.aac)|
+|No Title - Reol ft. Polka| [Link](files.catbox.moe/l48o0p.mp4) | [.aac file](files.catbox.moe/xuarsd.aac)|
+|Binary Star - Hiroyuki Sawano| [Link](files.catbox.moe/sazc35.mp4 ) | [.aac file](files.catbox.moe/s5ejw1.aac)|
+
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->
 
@@ -119,7 +112,7 @@ _______
 |【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|(Lacks a setlist on stream) https://files.catbox.moe/0r94r1.txt|
 |  【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!!  『2023-08-11』| [![](https://files.catbox.moe/2ldhi1.jpg)](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/hrahck.txt |
 | 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|https://files.catbox.moe/lf4ozr.txt (On-stream setlist is incomplete)|
-| 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 『2023-08-31』\| [Mumei's Text chat on stream during its reboardcast(MEGA)](oZ50TC5L#zAwaNRiTfieKgrYQKHObsD7lcFFuAzJHoRvpiuOLyBM) | [![](https://files.catbox.moe/0o6om9.jpg)](magnet:?xt=urn:btih:4d3c9ecdb7f6684db334db8d97ce06607ed13a98&dn=%5B20230901%5D%20Unarchived%20Endurance%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0qdejo.txt|
+| 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 『2023-08-31』\| Mumei's Text chat on stream during its rebroadcast(MEGA file): [Start](oZ50TC5L#zAwaNRiTfieKgrYQKHObsD7lcFFuAzJHoRvpiuOLyBM) \| [Ending](UIY1xb5I#nPSXi90guwdkIgwZSdRLfxvVlzN3wft-yLwSiXxyrR4) | [![](https://files.catbox.moe/0o6om9.jpg)](magnet:?xt=urn:btih:4d3c9ecdb7f6684db334db8d97ce06607ed13a98&dn=%5B20230901%5D%20Unarchived%20Endurance%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0qdejo.txt|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -132,5 +125,26 @@ _______
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)
 - [Connect the World & HoloSummer Splash Party](https://rentry.org/who_summer23)
+
+- - -
+
+### Music video cameos 
+| Song | Link/nature |
+|------|-----|
+| Myth or Treat | [As Boomei](https://www.youtube.com/watch?v=VupT9JCJaOY) |
+| Ame and Kiara's Dreamin Chuchu | [Background Easter egg](https://www.youtube.com/watch?v=vjBZzYN3aAs) |
+| IRyS's cover of Internet Overdose | [Background Easter egg](https://www.youtube.com/watch?v=x_0Zc26jkDw) |
+| Sana's Astrogirl | [As herself](https://www.youtube.com/watch?v=R8y1aWMlPOs) |
+| Bae's cover of A Million Miles Away (BELLE)  | [As herself](https://www.youtube.com/watch?v=YzS26Ao3vt8) |
+| Kronii and Bae's Holy Night (Toradora!) Cover | [As herself](https://www.youtube.com/watch?v=xvvjwhLG4Dw) |
+| BaeRyS's Daikirai Na Hazu Datta Cover | [As herself](https://www.youtube.com/watch?v=HrT8Oon9Kxs) |
+| BaeRyS's Erande Kurete Arigato Cover | [As herself](https://www.youtube.com/watch?v=3pzh6AaXi9s) |
+|Sweet Appetite by Bae and Gura |[Background Easter egg](https://www.youtube.com/watch?v=8dzJS6r2qzU)|
+| Mori's Kawaikute Gomen Cover |[Background character](https://www.youtube.com/watch?v=92tvv7PgKeI)|
+|Miko's Kyoufuu All Back Cover| [With holotori](https://www.youtube.com/watch?v=U2jl3QIoVws)|
+|Blue Horizon | [Background character](https://www.youtube.com/watch?v=W7q8cHY91Ew)|
+|Bae's Yakusoku no Kizuna Cover| [Background Easter egg](https://www.youtube.com/watch?v=40WoArsMQgQ)|
+|Kiara's Pineapple|[As herself(3D)](https://www.youtube.com/watch?v=WuvtwRYkOU0)|
+|Mori's INTERNET YAMERO|[Easter egg](https://www.youtube.com/watch?v=Lp5n-YS22tY)|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->

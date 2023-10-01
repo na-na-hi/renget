@@ -98,7 +98,13 @@ Previous: >>694201488 (# of previous thread)
 /miumi/i;boards:jp;subject:love live
 /karen/i;boards:jp;subject:love live
 /rinna/i;boards:jp;subject:love live
+/kaho/i;boards:jp;subject:love live
+/koha/i;boards:jp;subject:love live
+/koharu/i;boards:jp;subject:love live
 /feral nao/i;boards:jp;subject:love live
+/juli/i;boards:jp;subject:love live
+/rukita/i;boards:jp;subject:love live
+/julicopter/i;boards:jp;subject:love live
 /\*off\*/i;boards:jp;subject:love live
 ```
 

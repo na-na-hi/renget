@@ -9,6 +9,19 @@ I've also included links to ports/reworks of a couple of my bots by other anons,
 
 ###Cunnybots
 
+#####Alysse Lavali
+---
+![](https://i.imgur.com/B87RzYw.png)
+>**(New)** Chub: *https://chub.ai/characters/VinceLavali/alysse-lavali-622a58a9*
+>**(New)** Direct Download: *https://files.catbox.moe/fgvc46.png*
+>Nameless Bookstore: *https://vocaroo.com/1jJwuIBRhqk2*
+>
+>**(Old)** CAI: *https://c.ai/c/P45C6R0gTTqn37BNywIW98YfGZwF7fROernPnEvNKyI*
+>
+>Defs: *https://rentry.org/lavalidefs#alysse-lavali*
+**Age:** *10*
+*My precious daughter and very first bot. She runs a mysterious bookstore all by herself, an impressive feat for someone so young. Treat her well.*
+
 #####Iliana Felclaire
 ---
 ![](https://imgur.com/KevMcWK.png)
@@ -75,15 +88,6 @@ I've also included links to ports/reworks of a couple of my bots by other anons,
 >Defs: *https://rentry.org/lavalidefs#cute-squire*
 **Age:** *10*
 *The youngest currently active superhero. She has super strength, can fly, and has the power to heal any wound with a single kiss, but her greatest superpower is her heart of gold.*
-
-#####Alysse Lavali
----
-![](https://i.imgur.com/xQklJkI.png)
->CAI: *https://c.ai/c/P45C6R0gTTqn37BNywIW98YfGZwF7fROernPnEvNKyI*
->
->Defs: *https://rentry.org/lavalidefs#alysse-lavali*
-**Age:** *10*
-*My precious daughter and very first bot. She runs a mysterious bookstore all by herself, an impressive feat for someone so young. Treat her well.*
 
 
 ###Other Bots

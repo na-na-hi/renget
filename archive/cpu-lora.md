@@ -1,12 +1,10 @@
 # Finetune LoRA on CPU using llama.cpp
 
-!!! danger This feature is working, but it isn't [merged into the master branch YET](https://github.com/ggerganov/llama.cpp/pull/2632). I will update the guide with the correct paths once it's merged.
-
-Think of a LoRA finetune as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp [only supported training from scratch](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires a LOT more training data and effort than creating a LoRA.
+Think of a LoRA finetune as a patch to a full model. The LoRA training makes adjustments to the weights of a base model, e.g., Stheno-L2-13B, which are saved separately, e.g., Stheno-L2-13B-my-awesome-lora, and later re-applied by each user. Support for LoRA finetunes was [recently added to llama.cpp](https://github.com/ggerganov/llama.cpp/pull/2632). Previously, llama.cpp only supported [training from scratch (a.k.a., native finetuning)](https://github.com/ggerganov/llama.cpp/tree/master/examples/train-text-from-scratch), which requires more training data and effort than creating a LoRA. `train-text-from-scratch` was also updated, and it now [shares many arguments](https://github.com/ggerganov/llama.cpp/blob/bc39553c901a91cfcb757863586250838c83eeab/common/train.cpp#L1086C16-L1086C16) with finetune, so if you use that program, you might also find the information below useful.
 
 For more information, please see the [LLM Training Guide rentry](https://rentry.org/llm-training). They have more detailed instructions, but I find their guide a little overwhelming. I want to keep this guide focused on the llama.cpp implementation.
 
-!!! warning Check [Appendix A](#appendix-a-hardware-requirements) below before you start to see if you have the hardware required for CPU training. You need tons of RAM (not VRAM, this doesn't currently use your GPU at all).
+!!! info Check [Appendix A](#appendix-a-hardware-requirements) before you start to see if you have the hardware required for CPU training. You need tons of RAM (not VRAM, this doesn't currently use your GPU for much).
     TL;DR: Only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B). The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
 
 To keep things simple, I recommend creating a single folder somewhere on your system to work out of. For example, `C:\lora`. I'll use this path in the examples below. If you use a different path, just make sure to adjust the commands.
@@ -17,25 +15,24 @@ I highly recommend installing [git](https://git-scm.com/) so you can download an
 
 Next we need to be able to compile llama.cpp, and the tools you need depend on which GPU you have (if any). You don't NEED to have a GPU, but it speeds up the process by ~20-30%, so if you have one, you'll want to use it (even if it's not a very good one).
 
-### NVIDIA GPU Tools
+### Tools for NVIDIA GPUs
 
 You'll want to use [cuBLAS](https://github.com/ggerganov/llama.cpp#cublas), which requires installing the CUDA dev kit.
 
-!!! warning Using cuBLAS is much faster, but consumes much more RAM. See [Appendix A](#appendix-a-hardware-requirements) for metrics.
-    If you still want a slight speed boost for no additional RAM usage, use the [Other GPU Tools](#other-gpu-tools) section.
+!!! info Using cuBLAS is much faster, but consumes much more RAM. See [Appendix A](#appendix-a-hardware-requirements) for metrics.
 
 1. Install [CMake](https://cmake.org/)
 2. Install [Visual Studio, Community 2022](https://visualstudio.microsoft.com/vs/) (because it makes the CUDA dev kit happy)
 3. During install, under "Desktop & Mobile", select "Desktop development with C++", and click install. You don't need to run it after the install completes.
 4. Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
 
-### AMD GPU Tools
+### Tools for AMD GPUs
 
 !!! danger Attention AMD GPU Users! [hipBLAS](https://github.com/ggerganov/llama.cpp#hipblas) *should* work, but I don't have an AMD GPU to try it. If you figure it out, let me know the instructions and I'll update the guide!
 
-For now, use the [Other GPU Tools](#other-gpu-tools) section. 
+For now, use the [Tools for Other GPUs](#tools-for-other-gpus) section. 
 
-### Other GPU Tools
+### Tools for Other GPUs
 
 For "other" (e.g., Intel) GPUs, you'll want to use [CLBlast](https://github.com/ggerganov/llama.cpp#clblast). CLBlast is also a RAM-friendly alternative to cuBLAS for NVIDIA users.
 
@@ -48,7 +45,9 @@ For "other" (e.g., Intel) GPUs, you'll want to use [CLBlast](https://github.com/
 7. Download the latest [CLBlast binary](https://github.com/CNugteren/CLBlast/releases) (you want the file named `CLBlast-x.x.x-windows-x64.zip`)
 8. Unzip it, use 7-zip to unzip the inner `.7z` file, move the inner folders to `C:\lora\CLBlast`
 
-### No GPU Tools
+### Tools for No GPU
+
+If you don't have a GPU, or you don't want to use GPU acceleration, you use these much simpler tools.
 
 1. Download the latest [w64devkit](https://github.com/skeeto/w64devkit/releases) (you want the file named `w64devkit-fortran-x.xx.x.zip`)
 2. Unzip it, move the files to `C:\lora\w64devkit`
@@ -59,7 +58,7 @@ For "other" (e.g., Intel) GPUs, you'll want to use [CLBlast](https://github.com/
     If you are updating, skip these first 2 steps.
 
 1. Open a command prompt and move to our working folder: `cd C:\lora`
-2. Download the latest `finetune-lora` branch from xaedes' repo (NOT the main llama.cpp repo) using git: `git clone -b finetune-lora https://github.com/xaedes/llama.cpp.git`
+2. Download the latest llama.cpp using git: `git clone https://github.com/ggerganov/llama.cpp.git`
 
 This part of the guide branches slightly based on your GPU as well.
 
@@ -111,7 +110,7 @@ For now, use the [Other GPU Compile](#other-gpu-compile) section.
 
 Obviously you will need to adjust step 4 to specify your actual base model name, training data name, sample start string, and the number of threads (physical processors) in your system. See my [other guide](https://rentry.org/llama-cpp-conversions) if you need to convert your model to [FP32 GGUF](https://rentry.org/llama-cpp-conversions#converting-models-to-gguf) (FP16 currently doesn't work), or [other quantized formats](https://rentry.org/llama-cpp-conversions#quantizing-models).
 
-!!! warning The above command uses the default values for a ton of settings.
+!!! info The above command uses the default values for a ton of settings.
     Go through [Appendix C](#appendix-c-finetuneexe-usage) for examples and tips to greatly improve the LoRA quality.
 
 !!! info See [Appendix B](#appendix-b-training-example) for a full training example using training data/chat logs from SillyTavern.
@@ -132,14 +131,12 @@ If you share the LoRA with others, make sure to also mention which base model yo
 
 ### Runtime LoRA Scale & Multiple LoRAs
 
-If you use llama.cpp's main.exe, [see the documentation for finetune.](https://github.com/xaedes/llama.cpp/tree/finetune-lora/examples/finetune) Basically you can adjust how strongly the LoRA is applied to the model without retraining, and you can even combine multiple LoRA's at once. The [merging tools](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model) also support this feature.
+If you use llama.cpp's `main.exe`, [see the documentation for finetune.](https://github.com/ggerganov/llama.cpp/tree/master/examples/finetune) Basically you can adjust how strongly the LoRA is applied to the model without retraining, and you can even combine multiple LoRA's at once. The [merging tools](https://rentry.org/llama-cpp-conversions#merging-loras-into-a-model) also support this feature.
 
 ## Appendix A - Hardware Requirements
 
 !!! info TL;DR: If you limit your context size to 2048, and only considering RAM, 16 GB trains a 3B (maybe 7B), 32 GB trains a 7B (maybe 13B), and 64 GB trains a 13B (maybe 34B).
     The "maybe" here is contingent on the context size and how much you're willing to use [swap](https://stackoverflow.com/questions/37311714) (which is VERY slow). Bigger models take MUCH longer to train.
-
-!!! warning These numbers are now out-of-date. The latest commit is ~27% faster and using CUDA drivers provides another ~26% boost, for a combined ~59% speed improvement. I'll try to re-measure this weekend, but no promises.
 
 My system, for reference: i7-12700H CPU ([compare your CPU here](https://www.cpubenchmark.net/compare/4721vs5022), look at the big orange number), 64 GB (2 x 32GB) 4800 MHz RAM, NVIDIA GeForce 3060 - 6 GB VRAM.
 
@@ -177,166 +174,179 @@ Links to files:
 - [open_llama_3b_v2](https://huggingface.co/openlm-research/open_llama_3b_v2), [open_llama_7b_v2](https://huggingface.co/openlm-research/open_llama_7b_v2), [open_llama_13b](https://huggingface.co/openlm-research/open_llama_13b)
   - Converted and quantized it myself to save bandwidth
 
-Each row in the tables below contains a deviation from the standard command above. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests). Commit [`1cef459`](https://github.com/ggerganov/llama.cpp/commit/1cef45953b404b215f80ec6cceced73da8109abc) was used for testing. I will only retest if a new commit seems like it will have some impact.
+!!! warning I compile with cuBLAS because I have an NVIDIA GPU. This roughly DOUBLES the RAM usage, but provides a significant speed boost.
+    See the [Compiler Options Metrics section below](#compiler-options-metrics) to see how different options affect time and RAM usage.
+
+Each row in the tables below contains a deviation from the standard command above. RAM Usage is the "Memory" reported in task manager, and Working Set is closer to the "real" RAM being used as it includes the memory mapped binary file. Time is mostly shown in HH:MM format, with some times including "days". Estimated time is provided by llama.cpp itself. I capture the time reported at the 2nd iteration (the 0th doesn't include an estimate, the 1st is way off, and waiting around for 3rd+ iterations takes way too long for the longer tests). Commit `bc39553` was used for testing. I will only retest if a new commit seems like it will have some impact.
 
 ### 3B Metrics
 
-| Command Deviation                     | RAM Usage | Estimated Time  | Notes
-|---------------------------------------|-----------|-----------------|------
-| Base command                          | 3.02 GB   | 04:33           | See the information about my hardware configuration. Thread metrics are heavily tied to your hardware.
-| Realistic Settings                    | 14.3 GB   | 101d 06:18      | **Rerunning this test.** `--ctx 4096 --rope-freq-scale 0.5 --adam-iter 4938 --lora-r 16 --lora-alpha 16`
-| `--threads 1`                         | 3.02 GB   | 22:12           |
-| `--threads 2`                         | 3.02 GB   | 11:56           |
-| `--threads 4`                         | 3.02 GB   | 06:32           |
-| `--threads 8`                         | 3.02 GB   | 05:30           | 14 threads used in base command
-| `--threads 15`                        | 3.02 GB   | 04:29           | Using more than # of cores results in unstable measurement times, so while it is faster in these examples, it isn't always the case
-| `--threads 16`                        | 3.02 GB   | 04:19           | In some runs this was the fastest
-| `--threads 17`                        | 3.02 GB   | 04:13           |
-| `--threads 18`                        | 3.02 GB   | 04:09           | In my best run this was the fastest
-| `--threads 20`                        | 3.02 GB   | 04:39           |
-| `--ctx 16`                            | 1.18 GB   | 01:11           |
-| `--ctx 32`                            | 1.23 GB   | 01:23           |
-| `--ctx 64`                            | 1.55 GB   | 01:49           |
-| `--ctx 128`                           | 2.06 GB   | 02:44           | 256 context used in base command
-| `--ctx 512`                           | 5.20 GB   | 08:38           |
-| `--ctx 1024`                          | 9.18 GB   | 17:15           |
-| `--ctx 2048`                          | 11.0 GB   | 1d 15:18        |
-| `--ctx 4096 --rope-freq-scale 0.5`    | 13.9 GB   | 5d 06:33        |
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
-| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
-| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
-| `--adam-iter 8`                       | 3.02 GB   | 00:06           |
-| `--adam-iter 16`                      | 3.02 GB   | 00:15           |
-| `--adam-iter 32`                      | 3.02 GB   | 00:32           |
-| `--adam-iter 64`                      | 3.02 GB   | 01:07           |
-| `--adam-iter 128`                     | 3.02 GB   | 02:18           | 256 iterations used in base command
-| `--adam-iter 512`                     | 3.02 GB   | 09:19           |
-| `--adam-iter 1024`                    | 3.02 GB   | 19:04           |
-| `--adam-iter 2048`                    | 3.02 GB   | 1d 14:34        |
-| `--adam-iter 4096`                    | 3.02 GB   | 3d 05:50        |
-| `--lora-r 8 --lora-alpha 8`           | 3.14 GB   | 04:47           | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 3.39 GB   | 04:50           |
-| `--lora-r 16 --lora-alpha 32`         | 3.39 GB   | 04:54           | Within margin of error, alpha is basically no-impact
-| `--lora-r 32 --lora-alpha 32`         | 3.89 GB   | 04:51           |
-| `--lora-r 64 --lora-alpha 64`         | 4.88 GB   | 05:03           |
-| `--batch 2`                           | 5.20 GB   | 08:27           | Batch 1 used in base command.
-| `--batch 4`                           | 9.18 GB   | 15:57           |
-| `--batch 8`                           | 11.0 GB   | 1d 08:20        |
-| `--batch 16`                          | 13.6 GB   | 2d 17:30        |
-| `--grad-acc 2`                        | 3.02 GB   | 09:33           | These are a non-memory hungry version of batch, they just take slightly longer. Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 3.02 GB   | 18:57           |
-| `--grad-acc 8`                        | 3.02 GB   | 1d 13:58        |
-| `--grad-acc 16`                       | 3.02 GB   | 3d 03:37        |
-| `--no-checkpointing`                  | 15.1 GB   | 04:03           | Checkpointing used in base command.
-| `--no-flash`                          | 3.09 GB   | 04:40           | Flash used in base command.
+| Command Deviation                     | RAM Usage | Working Set | Estimated Time | Notes
+|---------------------------------------|-----------|-------------|----------------|------
+| Base command                          |   6.13 GB |     8.22 GB |          02:49 |
+| Realistic                             |   18.1 GB |     19.5 GB |      42d 10:10 | 2469 samples, `--ctx 4096 --rope-freq-base 32000 --adam-iter 4938 --lora-r 16 --lora-alpha 16`
+| `--threads 1`                         |   6.12 GB |     8.22 GB |          11:13 | See the information about my hardware configuration. Thread metrics are heavily tied to your hardware.
+| `--threads 2`                         |   6.13 GB |     8.22 GB |          05:55 |
+| `--threads 4`                         |   6.12 GB |     8.22 GB |          03:23 |
+| `--threads 8`                         |   6.13 GB |     8.22 GB |          03:31 | 14 threads used in base command.
+| `--threads 15`                        |   6.13 GB |     8.22 GB |          02:49 |
+| `--threads 16`                        |   6.13 GB |     8.22 GB |          02:38 | In some runs this was the fastest.
+| `--threads 17`                        |   6.13 GB |     8.22 GB |          02:33 |
+| `--threads 18`                        |   6.13 GB |     8.22 GB |          02:27 | In my best run this was the fastest.
+| `--threads 20`                        |   6.13 GB |     8.22 GB |          02:45 |
+| `--ctx 16`                            |   3.73 GB |     6.38 GB |          00:55 |
+| `--ctx 32`                            |   4.34 GB |     6.44 GB |          01:12 |
+| `--ctx 64`                            |   4.65 GB |     6.75 GB |          01:28 |
+| `--ctx 128`                           |   5.16 GB |     7.26 GB |          01:59 | 256 context used in base command.
+| `--ctx 512`                           |   8.32 GB |     10.4 GB |          04:57 |
+| `--ctx 1024`                          |   12.4 GB |     14.4 GB |          09:19 |
+| `--ctx 2048`                          |   14.5 GB |     16.2 GB |          18:43 |
+| `--ctx 4096 --rope-freq-base 32000`   |   17.8 GB |     19.1 GB |       2d 03:08 |
+| `--adam-iter 8`                       |   6.13 GB |     8.22 GB |          00:04 |
+| `--adam-iter 16`                      |   6.13 GB |     8.22 GB |          00:09 |
+| `--adam-iter 32`                      |   6.13 GB |     8.22 GB |          00:21 |
+| `--adam-iter 64`                      |   6.13 GB |     8.22 GB |          00:43 |
+| `--adam-iter 128`                     |   6.13 GB |     8.22 GB |          01:29 | 256 iterations used in base command.
+| `--adam-iter 512`                     |   6.13 GB |     8.22 GB |          06:00 |
+| `--adam-iter 1024`                    |   6.13 GB |     8.22 GB |          12:04 |
+| `--adam-iter 2048`                    |   6.13 GB |     8.22 GB |       1d 00:12 |
+| `--adam-iter 4096`                    |   6.13 GB |     8.22 GB |       2d 00:04 |
+| `--lora-r 8 --lora-alpha 8`           |   6.25 GB |     8.34 GB |          03:08 | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         |   6.50 GB |     8.59 GB |          03:29 |
+| `--lora-r 16 --lora-alpha 32`         |   6.50 GB |     8.59 GB |          03:30 |
+| `--lora-r 32 --lora-alpha 32`         |   6.89 GB |     9.09 GB |          02:52 |
+| `--lora-r 64 --lora-alpha 64`         |   7.89 GB |     10.1 GB |          03:03 |
+| `--batch 2`                           |   8.32 GB |     10.4 GB |          04:50 | Batch 1 used in base command.
+| `--batch 4`                           |   12.4 GB |     14.4 GB |          08:37 |
+| `--batch 8`                           |   14.5 GB |     16.2 GB |          15:39 |
+| `--batch 16`                          |   17.8 GB |     19.1 GB |       1d 06:04 |
+| `--grad-acc 2`                        |   6.12 GB |     8.22 GB |          06:01 | These are a non-memory hungry version of batch, they just take slightly longer. Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        |   6.12 GB |     8.22 GB |          12:04 |
+| `--grad-acc 8`                        |   6.12 GB |     8.22 GB |       1d 00:23 |
+| `--grad-acc 16`                       |   6.13 GB |     8.22 GB |       2d 00:47 |
+| `--no-checkpointing`                  |   18.2 GB |     20.3 GB |          02:31 | Checkpointing used in base command.
+| `--no-flash`                          |   6.20 GB |     8.30 GB |          02:58 | Flash used in base command.
 
 Additional notes:
 
-- **Assume you need to add the size of the model binary (disk size) to all measurements shown above.**
-  - llama.cpp uses `mmap` to load files, which has the side effect of hiding the real RAM usage (sort of). If you enable the "Working Set" memory in task manager, you can kind of see a closer value to the real usage.
-  - If you think showing the "Working Set" memory metrics in the table above would be better, please let me know.
 - RAM usage spikes during tokenization, sometimes more than 10 GB, but it goes back down afterwards and stabilizes at the levels listed above.
 - Margin of error for time estimates can be quite large for some tests. If the numbers are all hovering around a value, you can assume it's basically "no change".
   - `--adam-alpha` has no impact on training time or memory usage.
   - `--rope-freq-scale` has no impact on training time or memory usage.
   - Model quantizations have no effect on time.
-- I am working on a better data set than the sample text file provided. The data size itself doesn't seem to make a large difference in training time (93 kB vs. ~200 MB), however increasing the total number of samples means you need to increase `--adam-iter`, so use that as your metric. For reference, LimaRP v2 uses ~2x #samples (2 epochs) for their iteration count.
-- open_llama_3b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
-- Work-in-progress items should be available later this week. They take a long time to verify.
+- I am working on a better data set than the sample text file provided. The data size itself doesn't seem to make a large difference in training time (93 kB vs. ~200 MB), however increasing the total number of samples means you need to increase `--adam-iter`. Your iterations should ideally be a multiple of your data size (e.g., 2x 1000 samples would give you 2000 iterations).
+- open_llama_3b_v2 has a native context size of 2048.
 
 ### 7B Metrics
 
 The 7B base command is the same as 3B, but using a 7B model: `--model-base open_llama_7b_v2.Q8_0.gguf`
 
-| Command Deviation                     | RAM Usage | Estimated Time  | Notes
-|---------------------------------------|-----------|-----------------|------
-| Base command                          | 4.65 GB   | 10:38           |
-| Realistic Settings                    | 24.4 GB   | 198d 19:47      | **Rerunning this test.** See 3B for setting details
-| `--ctx 16`                            | 1.71 GB   | 02:53           |
-| `--ctx 32`                            | 1.97 GB   | 03:23           |
-| `--ctx 64`                            | 2.30 GB   | 04:21           |
-| `--ctx 128`                           | 3.15 GB   | 06:21           | 256 context used in base command
-| `--ctx 512`                           | 7.74 GB   | 19:53           |
-| `--ctx 1024`                          | 13.8 GB   | 1d 14:48        |
-| `--ctx 2048`                          | 19.9 GB   | 3d 19:03        |
-| `--ctx 4096 --rope-freq-scale 0.5`    | 23.8 GB   | 10d 04:54       |
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
-| `--ctx 16384 --rope-freq-scale 0.125` |           |                 | Work-in-progress
-| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
-| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
-| `--adam-iter 8`                       | 4.65 GB   | 00:14           |
-| `--adam-iter 16`                      | 4.65 GB   | 00:35           |
-| `--adam-iter 32`                      | 4.65 GB   | 01:19           |
-| `--adam-iter 64`                      | 4.65 GB   | 02:42           |
-| `--adam-iter 128`                     | 4.65 GB   | 05:33           | 256 iterations used in base command
-| `--adam-iter 512`                     | 4.65 GB   | 22:36           |
-| `--adam-iter 1024`                    | 4.65 GB   | 1d 21:53        |
-| `--adam-iter 2048`                    | 4.65 GB   | 3d 19:23        |
-| `--adam-iter 4096`                    | 4.65 GB   | 7d 14:07        |
-| `--lora-r 8 --lora-alpha 8`           | 4.84 GB   | 11:01           | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 5.23 GB   | 11:16           |
-| `--lora-r 64 --lora-alpha 64`         | 7.53 GB   | 11:50           |
-| `--batch 2`                           | 7.74 GB   | 19:42           | Batch 1 used in base command.
-| `--batch 4`                           | 13.8 GB   | 1d 12:07        |
-| `--grad-acc 2`                        | 4.65 GB   | 22:27           | Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 4.66 GB   | 1d 21:09        |
-| `--no-checkpointing`                  | 28.7 GB   | 09:45           | Checkpointing used in base command.
-| `--no-flash`                          | 4.54 GB   | 11:07           | Flash used in base command.
+| Command Deviation                     | RAM Usage | Working Set | Estimated Time | Notes
+|---------------------------------------|-----------|-------------|----------------|------
+| Base command                          |   7.97 GB |     13.1 GB |          07:53 |
+| Realistic                             |   28.5 GB |     32.8 GB |      94d 06:14 | 2469 samples, `--ctx 4096 --rope-freq-base 32000 --adam-iter 4938 --lora-r 16 --lora-alpha 16`
+| `--ctx 16`                            |   4.26 GB |     10.2 GB |          02:10 |
+| `--ctx 32`                            |   5.27 GB |     10.4 GB |          02:54 |
+| `--ctx 64`                            |   5.61 GB |     10.8 GB |          03:39 |
+| `--ctx 128`                           |   6.46 GB |     11.6 GB |          05:02 | 256 context used in base command.
+| `--ctx 512`                           |   11.1 GB |     16.2 GB |          13:19 |
+| `--ctx 1024`                          |   17.1 GB |     22.3 GB |          23:58 |
+| `--ctx 2048`                          |   23.7 GB |     28.4 GB |       1d 23:52 |
+| `--ctx 4096 --rope-freq-base 32000`   |   27.9 GB |     32.2 GB |       4d 22:28 |
+| `--adam-iter 512`                     |   7.97 GB |     13.1 GB |          15:56 | 256 iterations used in base command.
+| `--adam-iter 1024`                    |   7.97 GB |     13.1 GB |       1d 07:41 |
+| `--adam-iter 2048`                    |   7.96 GB |     13.1 GB |       2d 15:16 |
+| `--adam-iter 4096`                    |   7.97 GB |     13.1 GB |       5d 07:01 |
+| `--lora-r 8 --lora-alpha 8`           |   8.16 GB |     13.3 GB |          08:15 | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         |   8.54 GB |     13.7 GB |          08:46 |
+| `--lora-r 64 --lora-alpha 64`         |   10.7 GB |     16.0 GB |          07:54 |
+| `--batch 2`                           |   11.1 GB |     16.2 GB |          13:15 | Batch 1 used in base command.
+| `--batch 4`                           |   17.1 GB |     22.3 GB |          22:55 |
+| `--grad-acc 2`                        |   7.97 GB |     13.1 GB |          15:47 | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        |   7.97 GB |     13.1 GB |       1d 07:32 |
+| `--no-checkpointing`                  |   32.0 GB |     37.1 GB |          07:00 | Checkpointing used in base command.
+| `--no-flash`                          |   7.86 GB |     13.0 GB |          07:53 | Flash used in base command.
 
 Additional notes:
 
 - **See the 3B additional notes.**
 - I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
-- open_llama_7b_v2 has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+- open_llama_7b_v2 has a native context size of 2048.
 
 ### 13B Metrics
 
 The 13B base command is the same as 3B, but using a 13B model: `--model-base open_llama_13b.Q8_0.gguf`
 
-| Command Deviation                     | RAM Usage | Estimated Time  | Notes
-|---------------------------------------|-----------|-----------------|------
-| Base command                          | 6.90 GB   | 22:31           |
-| Realistic Settings                    |           |                 | Work-in-progress
-| `--ctx 16`                            | 2.48 GB   | 05:41           |
-| `--ctx 32`                            | 2.87 GB   | 06:58           |
-| `--ctx 64`                            | 3.37 GB   | 09:18           |
-| `--ctx 128`                           | 4.63 GB   | 14:23           | 256 context used in base command
-| `--ctx 512`                           | 12.0 GB   | 1d 18:38        |
-| `--ctx 1024`                          | 21.8 GB   | 3d 08:11        |
-| `--ctx 2048`                          | 36.4 GB   | 7d 05:56        |
-| `--ctx 4096 --rope-freq-scale 0.5`    |           |                 | Work-in-progress
-| `--ctx 8192 --rope-freq-scale 0.25`   |           |                 | Work-in-progress
-| `--ctx 4096 --rope-freq-base 32000`   |           |                 | Work-in-progress
-| `--ctx 8192 --rope-freq-base 82000`   |           |                 | Work-in-progress
-| `--adam-iter 8`                       | 6.90 GB   | 00:32           |
-| `--adam-iter 16`                      | 6.90 GB   | 01:15           |
-| `--adam-iter 32`                      | 6.90 GB   | 02:50           |
-| `--adam-iter 64`                      | 6.90 GB   | 05:52           |
-| `--adam-iter 128`                     | 6.90 GB   | 11:41           | 256 iterations used in base command
-| `--adam-iter 512`                     | 6.90 GB   | 2d 00:37        |
-| `--adam-iter 1024`                    | 6.90 GB   | 4d 02:31        |
-| `--adam-iter 2048`                    | 6.90 GB   | 8d 03:19        |
-| `--adam-iter 4096`                    | 6.90 GB   | 16d 03:13       |
-| `--lora-r 8 --lora-alpha 8`           | 7.19 GB   | 1d 00:11        | Rank 4 Alpha 4 used in base command.
-| `--lora-r 16 --lora-alpha 16`         | 7.79 GB   | 1d 00:42        |
-| `--lora-r 64 --lora-alpha 64`         | 11.4 GB   | 1d 01:44        |
-| `--batch 2`                           | 12.0 GB   | 1d 19:10        | Batch 1 used in base command.
-| `--batch 4`                           | 21.8 GB   | 3d 07:47        |
-| `--grad-acc 2`                        | 6.90 GB   | 2d 00:42        | Grad. Acc. 1 used in base command.
-| `--grad-acc 4`                        | 6.90 GB   | 3d 23:34        |
-| `--no-checkpointing`                  | 53.4 GB   | 1d 02:35        | **See additional notes below.** Checkpointing used in base command.
-| `--no-flash`                          | 6.83 GB   | 23:12           | Flash used in base command.
+| Command Deviation                     | RAM Usage | Working Set | Estimated Time | Notes
+|---------------------------------------|-----------|-------------|----------------|------
+| Base command                          |   10.5 GB |     21.6 GB |          15:01 |
+| Realistic                             |   47.4 GB |     57.5 GB |     158d 22:49 | 2469 samples, `--ctx 4096 --rope-freq-base 32000 --adam-iter 4938 --lora-r 16 --lora-alpha 16`
+| `--ctx 16`                            |   5.02 GB |     17.1 GB |          04:22 |
+| `--ctx 32`                            |   6.44 GB |     17.5 GB |          05:39 |
+| `--ctx 64`                            |   6.95 GB |     18.0 GB |          07:00 |
+| `--ctx 128`                           |   8.21 GB |     19.3 GB |          09:41 | 256 context used in base command.
+| `--ctx 512`                           |   15.6 GB |     26.7 GB |       1d 00:52 |
+| `--ctx 1024`                          |   25.4 GB |     36.4 GB |       1d 18:50 |
+| `--ctx 2048`                          |   40.1 GB |     51.0 GB |       3d 09:28 |
+| `--ctx 4096 --rope-freq-base 32000`   |   46.5 GB |     56.5 GB |       8d 01:50 |
+| `--adam-iter 512`                     |   10.5 GB |     21.6 GB |       1d 06:04 | 256 iterations used in base command.
+| `--adam-iter 1024`                    |   10.5 GB |     21.6 GB |       2d 12:21 |
+| `--adam-iter 2048`                    |   10.5 GB |     21.6 GB |       5d 01:16 |
+| `--adam-iter 4096`                    |   10.5 GB |     21.6 GB |      10d 03:20 |
+| `--lora-r 8 --lora-alpha 8`           |   10.8 GB |     21.9 GB |          15:42 | Rank 4 Alpha 4 used in base command.
+| `--lora-r 16 --lora-alpha 16`         |   11.4 GB |     22.5 GB |          16:36 |
+| `--lora-r 64 --lora-alpha 64`         |   14.6 GB |     26.0 GB |          13:59 |
+| `--batch 2`                           |   15.6 GB |     26.7 GB |          23:45 | Batch 1 used in base command.
+| `--batch 4`                           |   25.4 GB |     36.4 GB |       1d 17:25 |
+| `--grad-acc 2`                        |   10.5 GB |     21.6 GB |       1d 06:20 | Grad. Acc. 1 used in base command.
+| `--grad-acc 4`                        |   10.5 GB |     21.6 GB |       2d 12:30 |
+| `--no-checkpointing`                  |   57.0 GB |     58.1 GB |          20:58 | **See additional notes below.** Checkpointing used in base command.
+| `--no-flash`                          |   10.4 GB |     21.5 GB |          14:50 | Flash used in base command.
 
 Additional notes:
 
 - **See the 3B additional notes.**
-- `--no-checkpointing`: The above RAM may or may not be accurate. I'm looking into it. But the time is definitely wrong: my system only has 64 GB of RAM, and it's maxed out running that test, so it's performing paging operations that are definitely slowing it down.
+- `--no-checkpointing`: I only have 64 GB of RAM, so I can't accurately run this test. Estimated time is incorrect due to paging operations. Working set is under-estimated due to paging.
 - I didn't run as many tests here as you can mostly infer what's going to happen by looking at the 3B data. If you feel I should test something else, let me know!
-- open_llama_13b has a context size of 2048. I'd like to try a model with a context size of 4096 to see if there are any differences.
+- open_llama_13b has a native context size of 2048.
 
 ### 34B, 70B
 
-!!! danger I am working on these tests now. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
+!!! danger I am working on these tests. Test data above 13B will be quite limited as it consumes a large amount of RAM and takes a long time to run.
+
+### Compiler Options Metrics
+
+| Size | BLAS Engine | Compiler Options    | RAM Usage | Working Set | Estimated Time | Notes
+|------|-------------|---------------------|-----------|-------------|----------------|------
+|   3B | None        |                     |   3.02 GB |     6.16 GB |          03:37 |
+|   3B | None        | LLAMA_LTO=ON        |   3.02 GB |     6.16 GB |          03:32 |
+|   3B | cuBLAS      |                     |   6.13 GB |     8.22 GB |          02:54 |
+|   3B | cuBLAS      | LLAMA_LTO=ON        |   6.13 GB |     8.22 GB |          02:56 |
+|   3B | cuBLAS      | LLAMA_CUDA_F16=ON   |   6.13 GB |     8.22 GB |          02:56 |
+|   3B | cuBLAS      | LLAMA_CUDA_MMV_Y=2  |   6.13 GB |     8.22 GB |          02:57 |
+|   3B | CLBlast     |                     |   3.02 GB |     6.16 GB |          03:35 |
+|   3B | CLBlast     | LLAMA_LTO=ON        |   3.02 GB |     6.16 GB |          03:34 |
+|   3B | OpenBLAS    |                     |   3.02 GB |     6.16 GB |          03:37 |
+|   7B | None        |                     |   4.65 GB |     11.0 GB |          09:46 |
+|   7B | None        | LLAMA_LTO=ON        |   4.65 GB |     11.0 GB |          09:42 |
+|   7B | cuBLAS      |                     |   7.97 GB |     13.1 GB |          07:54 |
+|   7B | cuBLAS      | LLAMA_LTO=ON        |   7.97 GB |     13.1 GB |          07:54 |
+|   7B | cuBLAS      | LLAMA_CUDA_F16=ON   |   7.97 GB |     13.1 GB |          07:55 |
+|   7B | cuBLAS      | LLAMA_CUDA_MMV_Y=2  |   7.97 GB |     13.1 GB |          07:54 |
+|   7B | CLBlast     |                     |   4.65 GB |     11.0 GB |          09:43 |
+|   7B | CLBlast     | LLAMA_LTO=ON        |   4.65 GB |     11.0 GB |          09:40 |
+|   7B | OpenBLAS    |                     |   4.65 GB |     11.0 GB |          09:44 |
+|  13B | None        |                     |   6.90 GB |     19.3 GB |          18:47 |
+|  13B | None        | LLAMA_LTO=ON        |   6.90 GB |     19.3 GB |          18:41 |
+|  13B | cuBLAS      |                     |   10.5 GB |     21.6 GB |          14:51 |
+|  13B | cuBLAS      | LLAMA_LTO=ON        |   10.5 GB |     21.6 GB |          14:54 |
+|  13B | cuBLAS      | LLAMA_CUDA_F16=ON   |   10.5 GB |     21.6 GB |          14:52 |
+|  13B | cuBLAS      | LLAMA_CUDA_MMV_Y=2  |   10.5 GB |     21.6 GB |          15:08 |
+|  13B | CLBlast     |                     |   6.90 GB |     19.3 GB |          18:49 |
+|  13B | CLBlast     | LLAMA_LTO=ON        |   6.90 GB |     19.3 GB |          18:48 |
+|  13B | OpenBLAS    |                     |   6.90 GB |     19.3 GB |          18:50 |
+
+Keep in mind that most of these tests have some margin of error, and most tests are falling within it. The only thing that was noticably faster was using cuBLAS.
 
 ## Appendix B - Training Example
 
@@ -399,7 +409,7 @@ Make sure to include examples from both characters so that "impersonate" prompts
 
 !!! info Each block here is one training sample. You want to give it ~1000 training samples or ~1MB of text for the training to produce meaningful changes.
 
-While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or check out the [training data rentry](https://rentry.org/qib8f). If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format.
+While you can definitely use your own chat logs to create some training data, you'll probably want to look into getting data from other sources as well. Consider asking others for their logs, or search for data sets on huggingface. If you have some programming experience, I recommend creating a script to convert the training data into the appropriate format.
 
 One last thing to note: Make sure the text file uses \*nix style line endings (`\n`), not Windows style (`\r\n`). Most text editors have an option to switch the formatting.
 
@@ -413,7 +423,7 @@ Once you're happy with it, consider [merging it with the base model](https://ren
 
 The command line help is good, but I still had a few questions about the meaning of some parameters, so I'm trying to compile what I learn here. Some parameters are self-explanatory. If any of these are wrong, or you can clarify them better, please let me know! I have tried to categorize them, and order them to make it easier to get started.
 
-Arguments are based on commit `da05205`.
+Arguments are based on commit `bc39553`.
 
 ### File Management
 
@@ -461,13 +471,13 @@ These values should align with the format of your training data.
   - Example: `--sample-start "\n" --escape --include-sample-start `
 - `--overlapping-samples`: Samples may overlap, will include sample-start of second and following samples. When off, samples will end at begin of next sample. (default off)
   - Basically, setting this will cause it to continue into the next example after your entire example has been processed.
-  - TODO: Investigate this more. See if this results in better/worse outputs. It may be undesirable for it to learn to continue after a sample completes.
 - `--fill-with-next-samples`: Samples shorter than context length will be followed by the next (shuffled) samples. (default off)
   - If you're providing a ton of samples smaller than your context size, this may be a good thing to set.
 - `--separate-with-eos`: When `fill-with-next-samples`, insert end-of-sequence token between samples.
 - `--separate-with-bos`: When `fill-with-next-samples`, insert begin-of-sequence token between samples. (default)
 - `--no-separate-with-eos`: When `fill-with-next-samples`, don't insert end-of-sequence token between samples. (default)
 - `--no-separate-with-bos`: When `fill-with-next-samples`, don't insert begin-of-sequence token between samples.
+- `--sample-random-offsets`: Use samples beginning at random offsets. Together with fill-with-next-samples this may help for training endless text generation.
 - `--force-reshuffle`: Force a reshuffling of data at program start, otherwise the shuffling of loaded checkpoint is resumed.
   - Each time all the samples has been processed once (1 epoch), it randomly shuffles the order of the samples. When using checkpoints, the sample shuffle is preserved between checkpoints, allowing it resume the current shuffle if the program were to crash. Using this overrides that behavior and causes it to reshuffle everything instead of loading it from the checkpoint. I'm not sure why you'd want to use this.
 
@@ -520,9 +530,13 @@ These three control how much data is processed and are based on the number of tr
   - This is an artificial multiplier for the batch size. Using gradient accumulation basically runs more batches in series (instead of in parallel), which provides the same quality benefit as increasing the batch size. This process is slower, but uses much less RAM.
 - `--adam-iter N`: Maximum number of Adam optimization iterations for each batch (default 256)
   - This is the number of iterations the training will run for. Each iteration runs one `--batch` of examples from your training data, so you'll probably want to set this to an integer multiple of your training data, divided by your `--batch` size. For example, if you have 512 training samples, and a batch size of 8, you could set this to 64, 128, 192, etc.
-  -  Other programs use ["epochs"](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/), which are calculated based on the number of training samples, the batch size, and the number of iterations.
-    - If you want to convert epoch's to iterations, do: `(training samples / batch size) * epochs`
+  -  Other programs use ["epochs"](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/) which are how many times all samples are processed. For example 2 epochs would indicate that each sample was processed twice.
+    - If you want to convert epoch's to iterations, do: `(epochs * training samples) / batch size`
   - Example: `--adam-iter 30`
+- `--epochs N`: Maximum number epochs to process. (default -1)
+  - READ THIS DESCRIPTION: Training will stop when `--adam-iter` is reached OR `--epochs` is reached (if `--epochs` is set). If you don't set `--adam-iter` to a large enough number when using `--epochs`, training could stop much earlier than you expect.
+  - When using `--fill-with-next-samples` the number of samples processed depends on the sample shuffling and sample sizes, so it may not be easy to calculate the exact number for `--adam-iter`. If you want to process all samples twice, 1000 examples, and a batch size of 4, you would do something like `--adam-iter 500 --epochs 2` (i.e., `iters`: 2 * 1000 / 4, `epochs`: 2).
+  - Example: `--adam-iter 2000 --epochs 2`
 
 !!! info After all of the training data has been seen once (1 epoch), finetune will reshuffle your training examples, which results in batches with different samples.
 
@@ -533,7 +547,7 @@ These three control how well the model learns:
   - Think of this like the "Temperature" control when generating text.
   - Example: `--lora-r 128 --lora-alpha 256`
 - `--lora-alpha N`: LORA alpha : resulting LORA scaling is alpha/r. (default 4)
-  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. A good standard value is twice your `--lora-r` ([Source.](https://blog.runpod.io/the-effects-of-rank-epochs-and-learning-rate-on-training-textual-loras/)). In many cases, people set `--lora-alpha` to the same value as `--lora-r`.
+  - This divided by the rank becomes the scaling of the LoRA. Higher means stronger. People usually set `--lora-alpha` to the same value as `--lora-r`.
   - Example: `--lora-r 128 --lora-alpha 256`
   - Note: Using llama.cpp's `main.exe`, you can scale the LoRA, even after training using `--lora-scaled your-lora-file-name.gguf 1.0`
 - `--adam-alpha N`: Adam learning rate alpha (default 0.001000)
@@ -625,11 +639,13 @@ It can also get stuck on `main: tokenize training data` for quite a while if you
 
 ## Changelog
 
+- 2023-09-27
+  - Updated all metrics.
 - 2023-09-24
   - [Moved file conversion & model merging to its own page](https://rentry.org/llama-cpp-conversions).
-  - Misc. other updates
+  - Misc. other updates.
 - 2023-09-22
-  - Updated for changes in llama.cpp, up to commit xaedes:da05205
+  - Updated for changes in llama.cpp, up to commit xaedes:da05205.
 - 2023-09-16
   - Updated instructions for compiling with GPU acceleration.
 - 2023-09-13

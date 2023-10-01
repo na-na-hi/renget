@@ -1074,3 +1074,33 @@ Cons:
 - TP restore is only to self
 - Buffs are within very short range
 - Archer positioning for buffs (Reaches up to Arisa)
+
+
+### ->Salazaria Saren<-
+**TL;DR: TP Restoration and and buffing for physical damage means she could enable squishier frontline comps that normally would not survive. Careful on skipping, but not instantly apparent that she's a must-have.**
+
+As always, limited units that have TP Restoration are prone to popping up into CBs when you least expect it. Sasaren seems to be no exception to this, as her specialization is to help your units survive physical damage, while standing behind common attackers and buffing them. Shields play a large part in surviving nukes from enemies in this game, so the fact that her S2 provides a P.Def buff and shield is extremely useful. If that isn't enough, she can provide more TP than S.Nozomi on S1 once she UBs 3 times, thanks to the Marks from her UB enhancing the potency of her skills.
+Her role seems suited to try and facilitate units like Djeeta/Christina/Muimi to run with an alternative to Ames, if you're facing physical damage specifically and are getting heals from elsewhere. While they aren't the exact same type of unit, the idea is to keep your party alive. Another comparable unit would be S.Nozomi, as she also does give TP and increase physical defense. A lack of shred does mean she may be more niche, but will certainly see some usage in the future. Her S1 is the TP skill, meaning a UE could skyrocket her usage if they give it anything more than damage + TP. 
+As an aside, a TL maker once said that Djeeta 6* was falling out of the meta a few months ago, but she then swung back in immediately after. Is it possible that Djeeta could see less usage in favour of Sasaren? If this doesn't make sense by reading it, just look at the two units and entertain the idea for a moment.
+
+-> ![Salazaria Saren](https://redive.estertion.win/card/full/127531.webp) <-
+
+Pros:
+- Good stats
+- Good Skill loop (S1 > S2 > AA > S1 > AA)
+- Good opening skills (S2 > S1 > AA)
+- Good positioning (Not in front of tanking units like Christina, Muimi)
+- Deals decent damage from S1 & UB with max marks at 3
+- Offers good P.Atk buffs on UB & S2
+- Barrier can protect squishier units from fatal physical damage on S2
+- Restores a high amount of TP to units with S1(starts at 60, goes up to 120 with 3 marks)
+- Buffs reach all key units in mid line
+- Buffs reach all units in front line
+	
+Cons:
+- No healing
+- No P.def shred
+- Shields do not block magic damage
+- Defense buff is only to physical defense
+- Buffs don't reach backline units like Creditta or Arisa
+- No increase to P.Crit chance or P.Crit damage

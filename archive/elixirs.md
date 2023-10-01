@@ -1,1 +1,6 @@
-valse
+->![ac gbywolf](https://media.discordapp.net/attachments/1007344137655287848/1157147434066116769/Untitled562_20230928195038.png?ex=65178d07&is=65163b87&hm=d6f7130ecd4ee35970b1f6128a54e1a3e61f2ce237122a7fd83cfda52afa1b5c&=&width=250&height=250)<-
+
+->₁　![](https://media.discordapp.net/attachments/1007344137655287848/1157167930887381013/Untitled665_20230928211157.PNG?ex=6517a01d&is=65164e9d&hm=9715687945b3bc31de03358d386c287a5e1db10e4c47cf3cffff8230aa29b4dc&=&width=30&height=30) 　 　 　　 ˘ 　　  ☤　 ｡<-
+->𓎠𓎠𓎠⠀ ⠀⠀ₒ**ᵣ** ⠀ ![](https://media.discordapp.net/attachments/1007344137655287848/1157170274681245696/ezgif-5-89ed3d7414.png?ex=6517a24c&is=651650cc&hm=bb39ea5af0a19cfed6ed8317e3661c30d5ee32ceb235810015a42ebb04588bc3&=&width=55&height=30) ⁺ ⠀ ⠀⠀![](https://media.discordapp.net/attachments/1007344137655287848/1157171119502147594/949302c341310f4e6e8c2f47d2b5720b.png?ex=6517a316&is=65165196&hm=91d3210d822addf5c3d1d400143662a2eda9b6c77e1f6247fd3c0f4b4f9649c1&=&width=24&height=28)
+[![](https://media.discordapp.net/attachments/1007344137655287848/1157171897621033030/16dba26dfc7110ac367fb4bab66e86c7.png?ex=6517a3cf&is=6516524f&hm=c4bf0301527339bc4c32a5f9e0fb3aebbcb2aa8daf31043eb458888f4d500bc0&=&width=87&height=28)](remedially)⠀ ⠀⠀ ♪⠀ ⠀ ⠀²**⁹**![](https://media.discordapp.net/attachments/1007344137655287848/1157171715630170172/6cafea23919e2d4ff9f61522f6871293.png?ex=6517a3a4&is=65165224&hm=66560ad4e9f4754bcabdafde978388661179317f3cac77b755f35d838847b742&=&width=31&height=36)⠀◞<-
+⠀

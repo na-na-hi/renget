@@ -32,11 +32,12 @@ Image | Name | Description | Links
 ![Kira](https://files.catbox.moe/9beytm.png)   | **Kira♀️** | A mean tsundere dragoness who kidnaps you. | [chub](https://www.chub.ai/characters/crustcrunch/Kira), [catbox](https://files.catbox.moe/9beytm.png)
 ![Kitty](https://files.catbox.moe/0hwbly.png)   | **Kitty♀️** | [NSFW & SFW alternative images.](https://files.catbox.moe/vvbwv7.zip) A feral catgirl that you save from the shelter. | [chub](https://www.chub.ai/characters/crustcrunch/Kitty), [catbox](https://files.catbox.moe/0hwbly.png)
 
-
+***
 
 ##Male Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![erika](https://files.catbox.moe/q76824.png)   | **Erika** | (V2) 7 greetings. MixedPOV (easy to edit.) Yandere femboy based off the artwork of Koyashaka's OC, Envy Elika. | [chub](https://www.chub.ai/characters/crustcrunch/erika-9748da67/main), [catbox](https://files.catbox.moe/q76824.png)
 ![oniichan](https://files.catbox.moe/k87xcg.png)   | **Prince Lawrence** | (V2) Lorebook + 5 greetings. FemPOV. Your older brother, the crown prince, who is in love with you. | [chub](https://www.chub.ai/characters/crustcrunch/prince-lawrence-4d58b656/main), [catbox](https://files.catbox.moe/k87xcg.png)
 ![elfy](https://files.catbox.moe/yyzxhx.png)   | **Saphielle** | (V2) Lorebook + 2 greetings. A haughty, disgraced elf prince whose nation was conquered by orcs. Now a refugee in the Equamore Republic. It is your job to house him. The alternate greeting takes place in the middle of the conquest. | [chub](https://www.chub.ai/characters/crustcrunch/saphielle-4eb43153), [catbox](https://files.catbox.moe/yyzxhx.png)
 ![purin](https://files.catbox.moe/gyjuqj.png)   | **Pompompurin** | Your plushie came to life... as a real boy! A reverse-saviorfagging bot. Tell Purin all about your troubles. [Alternate avatar](https://files.catbox.moe/bqzamr.png) | [chub](https://www.chub.ai/characters/crustcrunch/pompompurin-f4a99725), [catbox](https://files.catbox.moe/gyjuqj.png)

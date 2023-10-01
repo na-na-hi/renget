@@ -23,13 +23,13 @@ Yes. They're not necessary to understanding the setting, but they're still great
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **5. Is this game F2P friendly/generous?**
-Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain any Identity or E.G.O currently in the dispensary.
+Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain (spark) any Identity or E.G.O currently in the dispensary.
 
 **6. Why can't I clear this stage?**
 First, actually **READ**. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
 
 **7. Does this game have supports?**
-Yes. You can bring one of your friend's units in as a support if they have it on their company, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
+Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status and E.G.Os of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **8. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -50,13 +50,13 @@ You need to have at least one friend added. If you want more friends, go to the 
 No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so.
 
 **11. Are past events and stories completely gone until reruns?**
-Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in the theater at any time. The only event you can't rewatch in the game is the April Fools event.
+Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in the theater at any time. The only event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
 
 **12. How do I change it so a specific Identity is in my window when I open the game?**
 Press on the sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-Currently every two weeks. Patch notes on Monday at roughly 5am EST. Maintenance on Wednesday at 9pm EST and ends at 11pm EST. New banners every 2 weeks and they are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
+We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
 
 **14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
@@ -67,14 +67,14 @@ No. All the content in the game can be beaten even with the default Identities. 
 
 **2. Who do I reroll for?**
 Try to get two Identities on this list. It's unlikely but possible to get 3.
-- ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
-- ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) W Corp. L3 Cleanup Agent Ryōshū
 - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
 - ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
+- ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
+- ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) W Corp. L3 Cleanup Agent Ryōshū
 - ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) Effloresced E.G.O::Spicebush Yi Sang
 - ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) Tingtang Gang Gangleader Hong Lu
 - ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) The One Who Grips Faust
-The only things you can't reroll for are Event Identities and E.G.Os from the prior Season, and Battle Pass E.G.Os. You are still able to shard Battle Pass E.G.Os in the Dispensary.
+The only things you can't reroll for are Event Identities and E.G.Os, and Battle Pass E.G.Os.
 
 **3. How do I reroll?**
 Rerolling is extremely easy, and the developers have admitted to intentionally making it easy so players can start with what they want.
@@ -93,9 +93,10 @@ Now that you're in the main menu screen, perform the following loop.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
 ## Monetization & Gacha
 **1. Identities**
-This is the main thing you'll be rolling for, it's equivalent to other gacha's units. There are three rarities, denoted by the number of **0**'s. Lowest is **0**, highest is **000**. The naming is related to the Kabbalah.
+This is the main thing you'll be rolling for, it's equivalent to other gacha's units. There are three rarities, denoted by the number of 0s. Lowest is 0, highest is 000. The naming is related to the Kabbalah.
 
 You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
+
 **2. E.G.O**
 You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
 
@@ -104,13 +105,15 @@ They also change your resistances to different types of attacks and changes your
 Similarly to identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
 **3. Lunacy & Extractions**
-Lunacy is the roll currency. You can get Lunacy by collecting your weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon weekly bonus will give you 750 Lunacy. After every maintenance you get 300 compensation Lunacy.
+Lunacy is the roll currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
 
 Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10-rolls if you don't pay for daily rolls, because you're guaranteed one 00 Identity for every 10-roll.
 
+There are Extraction Tickets and Decaextraction Tickets, which are for single rolls and 10-rolls respectively. If you have at least 10 single Extraction Tickets  you can do a 10-roll with them like the Decaextraction Tickets, so it's best to save them up.
+
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
-A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any sinner.
+A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any sinner. Never roll on this banner outside of using paid Lunacy, this is a truth among all gacha.
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
 
 - New Identity / E.G.O Target Extraction
@@ -122,7 +125,7 @@ A banner that increases the probability rates for receiving the Identities and E
 ![Limited Target Extraction](https://files.catbox.moe/7dn6z8.png)
 
 **4. Dupes**
-If you obtain a dupe of an Identity, it'll be converted into shards for a specific sinner. If you gather 400 of those, you can convert them into any **000** Identity of your liking. The same goes for E.G.O - all rarities cost 400 shards. **00** identities cost 150 shards. You should generally only shard **000** Identities or E.G.O.
+If you obtain a dupe of an Identity, it'll be converted into shards for a specific sinner. If you gather 400 of those, you can convert them into any 000 Identity of your liking. The same goes for E.G.O - all rarities cost 400 shards. **00** identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
 When rolling, the dupes of identities will be converted into the following number of shards:
 **0** | **00** | **000**
@@ -135,7 +138,7 @@ As for E.G.O, rather than being converted into shards, it'll be removed from the
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
 **6. Battle Pass**
-The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season on the Battle Pass page. The Battle Pass has a free track and a paid track.
+The Battle Pass is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season on the Battle Pass page. The Battle Pass has a free track and a paid track.
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
@@ -184,15 +187,21 @@ Orienteer Supplies | 5040 | 60 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
 **1. What is the best way to farm?**
-You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm is by doing your dailies, collecting all the weekly bonuses, and doing a set amount of MD2 normal runs every day. You can do multiple a day if you really want to, but be careful not to get burnt out.
+You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
+* Doing one MD2H (Mirror Dungeon 2 Hard Mode) a week
+* Farming as much MD2 (Mirror Dungeon 2) as you want
+* Collecting all Mirror Dungeon Weekly Bonuses
+* Doing your missions (daily, weekly, seasonal)
+
+You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burnt out. Don't bother with farming MD1 if you haven't unlocked MD2 yet, just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
 Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
-In other words - yes, you really can farm every Identity and E.G.O in the game.
+In other words - yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
 
 **3. What should I shard (spark) first, and when?**
-If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O at the top of the tier list, ones marked as Event/current Season, or both if it applies. You should also avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
+If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, or both if it applies. You should also avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
 
 As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. If you really want something now whether it be for the Railway or something else, you can do it whenever.
 
@@ -202,14 +211,17 @@ This largely depends on how many Egoshards you have for that specific sinner. Ev
 As for Random Egoshard Crates, open them whenever. They get halved at the end of the Season anyways.
 
 ## Seasons
+**1. Season Info**
 You can check the Season an Identity or E.G.O belongs to below its name in the Identity tab. Those without a Season shown are categorized into the \[Regular] tag. Event Identities and E.G.O have \[EVENT] marked next to their Season tag.
 ![Season Info](https://files.catbox.moe/z0re98.png)
 
 When a new Season begins, half of the previous Season's Egoshards will be carried over, converted and rounded up for the new Season. Half of the Egoshards in possession are carried over to the next Season. The remaining Egoshards are converted into Thread.  The same applies for Egoshard Crates. The remaining Crates are converted into Thread Crates. You will be notified of the upcoming Season change and expiration date of Egoshards and Egoshard Crates sometime before the next Season.
 
+**2. Extraction Pool**
 A new Season's Identities and E.G.O will be added to the list of Extractable items. Identities from previous Seasons remain in the pool, so you can still acquire them from Extraction. Only Event IDs and EGO will be removed from the pool.
 ![Extractions](https://files.catbox.moe/ijre2r.png)
 
+**3. Dispensary**
 Identities and E.G.O from the new Season will become available at the Dispenser. In addition, you will be able to exchange for Identities and E.G.O from the Battle Passes of past Seasons. Please note that Extraction IDs belonging to the Season immediately before will be inaccessible until 2 Seasons have passed.
 ![Dispenser](https://files.catbox.moe/onnpnl.png)
 
@@ -252,7 +264,7 @@ R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also re
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-It is suggested to have L Corp Faust and 7 Ryoshu at Uptie 4. Both them and G Outis are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies.
+L Corp Faust and 7 Ryoshu get good boosts at Uptie 4. Both them and G Outis are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. 
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
@@ -261,25 +273,27 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
 
 **2. Story Dungeons**
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can save at checkpoints to leave and resume later.
 
 **3. Mirror Dungeons**
-The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three weekly bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
+The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
 
-Mirror Dungeon 2 Hard has its own separate weekly bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three weekly bonuses at once.
+Mirror Dungeon 2 Hard has its own separate Weekly Bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three Weekly Bonuses at once.
 
 Type | Module Cost | BP XP (No Bonus) | BP XP (Bonus)
 :----: | :----: | :----: | :----:
 MD1 (Unlocked after chapter 2) | 3 | 10 | 15
 MD2 (Unlocked after chapter 4) | 5 | 30 | 45
 MD2H (Unlocked after chapter 4) | 18 | 30 | 150
-MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 weekly bonuses)
+MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
 
 **4. Thread & EXP Luxcavation**
-The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally, or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent, but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have three levels - 8, 18 and 28. The higher the enemy level, the higher the rewards. Thread stages have two levels - 20 and 30.
+The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally, or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent, but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have three levels - 8, 18 and 28. Thread stages have two levels - 20 and 30. The higher the level, the higher the rewards.
+
+You barely get any Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavation bonuses without much worry if you're starving for XP.
 
 **5. Refraction Railway**
 Endgame hard content. You have until the next railway to complete it for very good rewards, just with a considerable upfront Module cost. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests.
@@ -313,3 +327,6 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/24/23: Fixing minor errors. Elaborated on sharting.
 9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes. Elaborated on Luxcavation skipping.
 9/26/23: Mostly focused on the Resources Rentry today. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.
+9/28/23: Added 1 sentence and fixed another error in FAQ #13
+9/29/23: Changed ordering of "Who do I reroll for?" and fixed a formatting error.
+9/30/23: ![lol&](https://files.catbox.moe/7dmu76.png)

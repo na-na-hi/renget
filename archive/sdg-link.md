@@ -300,8 +300,10 @@ https://civitai.com/user/EyeAI_
 https://civitai.com/user/SpacewolfeCZ
 https://civitai.com/user/obinna7713
 https://civitai.com/user/AI_Art_Factory
+https://civitai.com/user/weed
 
 !!! info
 	---------------------------
 ##Bakery
 Cut'n'paste for PWChefAnon (^_^) and other thread bakers - September 20th - https://pastebin.com/VCkpe8nj
+*(PWAnon, I really dig the chibi animations!)*

@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** No clue.
 **Species:** Larvitar | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 7 | **Experience to Next Level:**0/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars
 
@@ -33,7 +33,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Rock Throw | 5BP | 5AP | ≥3 | Rock | Physical | No secondary effect.
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
-Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Sandstorm | 0BP | 4AP | ≥2 | Rock | Status | The Weather is changed to Sandstorm.
 Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 1/9 | ▮▮▮▮▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

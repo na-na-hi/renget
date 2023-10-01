@@ -1,4 +1,4 @@
-![TheBirbIsBraveidk](https://archives.bulbagarden.net/media/upload/2/2d/0627Rufflet.png) 
+![TheBirbIsSlightlyDeterminedIdkLol](https://media.discordapp.net/attachments/663876575757860914/1157600065007931412/Portrait.png?ex=65193292&is=6517e112&hm=ba1df1168f428375fb27a7f4dd1180bb54d550c57c8fe39be0e03da4e35dfda0&=) 
 
 ###Angus ♂
 I've awoken in this unfamiliar world, but not as a human but as a... bird!? Not just that, I no longer have hands; I've shrunk down and can't remember who I am!
@@ -9,10 +9,10 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
-**Species:** Rufflet | **Affiliation:** The Rantrum Kingdom
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Species:** Rufflet | **Affiliation:** N/A
+**Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 20₽ [120₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 20₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -63,15 +63,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: - | - | - | -
-Attribute: - | - | - | -
-Battle Attribute: - | - | - | -
-Battle Attribute: - |  - | - | -
-Training for Attribute: - | - | - | -
-Training for Battle Attribute: - | - | - | -
-Training for Move: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 3/4 |  ▮▮▮▯
-Currently Training for Stat: Rock Tomb | *ᴛʀᴀɪɴᴇᴅ* | 3/4 |  ▮▮▮▯
-Stat: - | - | - | -
+Attribute Move: Rock Tomb | *Tier ɪ* | 4/4 |  ▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -81,7 +73,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Stun Seed | Causes *Petrified* on consumption.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

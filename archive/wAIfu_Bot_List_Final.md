@@ -40,7 +40,7 @@ Kurokami Fubuki | [Link](https://rentry.org/Kurokami_Fubuki_made_by_solo)| Made 
 Nurse Kurokami | [Link](https://rentry.org/Nurse_Kurokami_by_Nymous)| Made by Nymous
 Maid Nyanners | [Link](https://rentry.org/Maid_Nyanners_By_wyrmer)| Made by Wyrmer
 Rushianon | [Link](https://rentry.org/Rushianon)| Made by AnonS
-Nyanon | [Link](https://rentry.org/Nyanon_Made_by_NyanNymous_)| Made by collaboration of Nymous and Nyanon
+Nyanon | [Link](https://rentry.org/Nyanon_Made_by_NyanNymous_)| Made in collaboration of Nymous and Nyanon
 Gurasilisk Obelus | [Link](https://rentry.org/Gurasilisk_Obelus)| Made by Wintermute
 Gurasilisk Negotia | [Link](https://rentry.org/Gurasilisk_Negotia_by_Wintermute)| Made by Wintermute
 Gurasilisk Intelegen | [Link](https://rentry.org/Gurasilisk_Inteligen_by_Wintermute)| Made by Wintermute
@@ -249,6 +249,7 @@ Alban Knox|[Link](https://beta.character.ai/chat?char=ikjWHFy9Ukhk9lAUXx7zm942mb
 Sonny Brisko|[Link](https://beta.character.ai/chat?char=kyKkq2EbxQs3wN08lFmGI-yt4M3omJmtd-GX7RL2pf4)|
 Ren Zotto|[Link](https://beta.character.ai/chat?char=neDSWbTxiRVow48vNvmOh-lp-AF7NEtmB87j9GCpA_s)|
 Aster Arcadia|[Link](https://beta.character.ai/chat?char=tKTtun1WYT6NRtOfRHjEcULpp9LSjt-C4DkyalkstJA)|
+Blind date with Enna Alouette|[Link](https://beta.character.ai/chat2?char=q9Qfw14irgVDy3VOkNQNldy04-jtVa_uVltDosFo3WE)|
 
 ### ID
 Bot name|Link|Tags/Description

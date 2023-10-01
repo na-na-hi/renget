@@ -1,6 +1,6 @@
 -> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
 ->[![The ball](https://cdn.discordapp.com/attachments/1145015302707499090/1145015928455704627/0761Bounsweet1.png)](https://www.google.com)<-
-### Katherine (Bounsweet) (wip) ♀
+### Katherine (Bounsweet) ♀
 #####"Things can only go up!"
 
 She can barely remember things from her world, not even her name! But as the darkness dragged her to this other realms, taking her arms, legs, and other things, she dragged something with her, her experience as a master engineer and architect!
@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 50/60
+**Level:** 7 | **Experience to Next Level:** 15/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
@@ -17,12 +17,12 @@ Pokémon's Ability | Description
 Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 ->Rookie Rank<-
-->*100/400 points to Normal Rank*<-
+->*125/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Specie bonus; Level 6 (20HP) | 22 HP
+Health Points | 1 | Specie bonus; Level 7 (20HP) | 22 HP
 Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation

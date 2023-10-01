@@ -1,4 +1,4 @@
-![Don't mouse over me. You won't find anything.](https://i.imgur.com/o5a7QP8.jpg)
+![Don't mouse over me. You won't find anything.](https://cdn.imgchest.com/files/pyq9c5bgln4.png)
 ### Cress
  
 
@@ -7,7 +7,7 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 7 | **Experience to Next Level:** 0/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -60,11 +60,11 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Attribute: Survivalist **ɪ** | Tier **ɪɪ** (+1) | 1/3 | ▮▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: Survivalist **ɪ** | Tier **ɪ** (+1) | 1/3 | ▮▯▯
+Training for Attribute: Survivalist **ɪ** | Tier **ɪɪ** (+2) | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Defense **ɪ** | Tier **0** (+0 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯

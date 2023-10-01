@@ -14,7 +14,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 25/60
+**Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 50₽ | **Glorious Gold:** 0 Bars
 
@@ -67,7 +67,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 .
 Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
@@ -97,7 +97,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

@@ -11,6 +11,7 @@ Omocat merch is typically readily available and will ship quickly. Check back la
 |-----|-----|
 [![Birthday 2022](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/-enFaunaBD2020banner_B0_png.png)](https://shop.hololivepro.com/en/products/ceresfauna_bd2022) | [![Valentine's 2023](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/_en_hololiveenvalentine2023_b0_1676021305.png)](https://shop.hololivepro.com/en/products/hololiveen_valentine2023?variant=43779072721116)
 [![Birthday 2023](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/en_faunabd2020banner_b0_1679018089_700x.png)](https://shop.hololivepro.com/en/products/ceresfauna_bd2023) | [![Starter Voice](https://cdn.shopify.com/s/files/1/0529/2641/5045/t/23/assets/hololive_startingvoice_ceresfauna_banner_en_top_1687502910_700x.png)](https://shop.hololivepro.com/en/products/startingvoice_ceresfauna)
+[![The End of the World](https://cdn.shopify.com/s/files/1/0529/2641/5045/files/ly_en_sekaowavoice_banner_b0_1695806495_700x.png)](https://shop.hololivepro.com/en/products/hololive_endoftheworldvoice?variant=44063235604700)
 
 ##Omocat
 

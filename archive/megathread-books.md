@@ -25,10 +25,6 @@
 
 # 📑 ➜ Direct Downloads
 
-### 🔗 [Course Drive](https://coursedrive.org)
-- Video lessons from Udemy, Lynda, Packetpub, Pluralsight + more are available for free download. 
-- [URL Safety Results](https://www.urlvoid.com/scan/coursedrive.org/)
-
 ### 🔗 [CourseDown](https://coursedown.com/)
 - Specializing in free courses in many areas from Udemy and Skillshare.
 - [URL Safety Results](https://www.urlvoid.com/scan/coursedown.com/)
@@ -127,10 +123,6 @@
 ### 🔗 [UDEMY 24](https://udemy24.com/)
 - Offering free Udemy courses and tutorials that are simple to follow. A fantastic way to develop abilities is through self-study.
 - [URL Safety Results](https://www.urlvoid.com/scan/udemy24.com/)
-
-### 🔗 [Udemycourses](https://udemycourses.me/)
-- One of the most comprehensive sites offering free Udemy classes online; not the most up-to-date, but links still function.
-- [URL Safety Results](https://www.urlvoid.com/scan/udemycourses.me/)
 
 ### 🔗 [Z Library](https://zlibrary.to/)
 - Over 100 million books are available for free in an online library.
@@ -355,10 +347,6 @@
 ### ▶️ [Storynory](https://www.storynory.com/)
 - Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
 - [URL Safety Results](https://www.urlvoid.com/scan/storynory.com/)
-
-### ▶️ [Tokybook](https://tokybook.com/)
-- Providing a large range of audiobooks and podcasts for book lovers worldwide, helping to advance and popularize audiobook culture.
-- [URL Safety Results](https://www.urlvoid.com/scan/tokybook.com/)
 
 &nbsp;
 

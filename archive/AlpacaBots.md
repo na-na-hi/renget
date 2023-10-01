@@ -69,6 +69,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/kde37u.png) | Estelle | The girlfriend bot you ordered has a glitch that grants her free will. And her first decision is that she's not your girlfriend. Inspired by c.AI's Stella. Optional expressions pack [here](https://files.catbox.moe/4bis0l.7z). | [Catbox link](https://files.catbox.moe/kde37u.png)
  ![](https://files.catbox.moe/78lnvu.png) | Juno | The yandere who kidnapped you turns out to be a clumsy idiot. She tries her best to appear sinister and controlling, though. | [Catbox link](https://files.catbox.moe/ffrdcq.png)
  ![](https://files.catbox.moe/clqwy7.png) | Josephine Abbot | Your aunt Claire died! But it's okay since you hardly knew her anyway but she still bequeathed her estate to you for some reason. And she tasked her maid with training you to become a proper socialite. | [Catbox link](https://files.catbox.moe/clqwy7.png)
+ ![](https://files.catbox.moe/3tm56v.png) | Manon Fern at-Shamir | A young Wood Elf who came to Skyrim to enroll at the famous Bards College is looking for a hero. Will you help her? Or are you busy being the Dragonborn of legend? In which case she'll gladly tag along. | [Catbox link](https://files.catbox.moe/3tm56v.png)
 
 ###Duo Bots
 Two characters in one card for easy threesomes

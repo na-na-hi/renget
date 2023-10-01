@@ -177,6 +177,9 @@ After Overhaul left, Eri immediately perked up and grabbed one of each of her ca
 ***
 -> ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div2](https://media.discordapp.net/attachments/903364339464044575/1101868624907608135/B98E28C4-16E2-4B9D-9D36-116B0CEFBA61.gif)  ![dv1](https://mikejima.crd.co/assets/images/shadow/c8e3363c_original.gif?v=03449813) ![div3](https://media.discordapp.net/attachments/921982613772730380/1072328192112726056/IMG_5139.gif) ![div3](https://mikejima.crd.co/assets/images/shadow/f3d40e28_original.gif?v=03449813) <-
 
+>>Aquarium Music: https://www.youtube.com/watch?v=FcPxncg6FbU
+
+
 ***
 Inigo and Hoge exchanged amused looks over the little girl's head as she dragged them towards the ticket counter. Inigo paid for their admission despite Hoge's protests. "I invited you both, so it's my treat!" he insisted. Inside the massive lobby, Eri's eyes went wide at the towering model of a white narwhale suspended from the ceiling. Inigo hoisted the awe-struck girl up onto his shoulders so she could get a better view.
 
@@ -244,8 +247,6 @@ Hoge patted Eri's head, and quipped "You should double-check your equipment for 
 The perplexed caretaker nodded and took the baby seal away for a second check-up. Eri waved goodbye. They each shared a secret look as they made their way out of the feeding area. 
 
 -> ![Where should we go next?](https://i.imgur.com/a7ng1zv.png) <-
-
->recommended music: https://www.youtube.com/watch?v=0B7lRl4grtk
 
 Inigo, Hoge, and Eri entered the sea otter exhibit, instantly melting as the playful creatures rolled and tumbled through the water. Their fuzzy faces and moods shifted rapidly from mischievous to inquisitive and back again. Hoge explained how the otters kept their coats waterproof thanks to specialized fur, while Inigo and Eri giggled at their silly antics. Gigan transformed into an otter and scurried about.
 

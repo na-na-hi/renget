@@ -1,4 +1,4 @@
--> Last update: 2023-08-01 ->
+-> Last update: 2023-09-28 ->
 
 # /horg/ - Horror Games General 
 
@@ -230,7 +230,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/) [▶️](https://www.youtube.com/results?search_query=Blasphemous+gameplay) `2D sidescroller, Metroidvania`
 [Darkwood](https://store.steampowered.com/app/274520/Darkwood/) [▶️](https://www.youtube.com/results?search_query=Darkwood+gameplay) `top down, survival`
 [Daymare: 1998](https://store.steampowered.com/app/842100/Daymare_1998/) [▶️](https://www.youtube.com/results?search_query=Daymare: 1998+gameplay) `third person, RE2-influenced`
-[Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate/) [▶️](https://www.youtube.com/results?search_query=Dead Estate+gameplay) `isometric, rouge-like`
+[Dead Estate](https://store.steampowered.com/app/1484720/Dead_Estate/) [▶️](https://www.youtube.com/results?search_query=Dead Estate+gameplay) `isometric, rogue-like`
 [Demonophobia (Ryona Guro, Untranslated)](https://mega.nz/file/0TxCSJgI#XpPIMp7RGgthextgghf8jvYDB4Q497-1grBo1RX6fkY) [▶️](https://www.youtube.com/results?search_query=Demonophobia+gameplay)
 [Devotion](https://shop.redcandlegames.com/app/devotion) [▶️](https://www.youtube.com/results?search_query=Devotion+gameplay)
 [Discover My Body](https://pantagruel.itch.io/discover-my-body) [▶️](https://www.youtube.com/results?search_query=Discover My Body+gameplay) `medical horror, 10 minutes to beat`
@@ -412,10 +412,10 @@ Alternatively, emulating the PS1 versions (via DuckStation) or GameCube ports (v
 
 !!! note Download PC ports
 
->[Silent Hill 1](https://mega.nz/#!bVUCTJzD!PmnPw4S7fWGyvTjw9S0-RQdk7rRp2BQNuXJqRkZCZvk) `PS1 ROM` + [emulate via DuckStation](https://emulation.gametechwiki.com/index.php/DuckStation)
->[Silent Hill 2](https://mega.nz/#!rFcj1SIJ!47JH9M4OrzmQKuaiJ6IqUgmgz_SVNtk4LIYNSa-D-_8) `PC NTSC` + [Enhanced Edition mod](http://www.enhanced.townofsilenthill.com/SH2/) (just run the installer ; "Enhanced .EXE" is also the no-CD crack)
->[Silent Hill 3](https://mega.nz/#!2JNkgJ7b!nfPf5cIs6I5K-sdAs7RcnHvGA2hAvIGdpQuIoBhF3iE) `PC NTSC` + [PC Tweaks like Widescreen Fix](https://www.pcgamingwiki.com/wiki/Silent_Hill_3)
->[Silent Hill 4](https://mega.nz/#!Us1XTaII!cglH0dZOaH5yQEm4cnEh3eyUz4bIf6rACQqcVzkb4Hc) `PC NTSC` + [PC Tweaks](https://www.pcgamingwiki.com/wiki/Silent_Hill_4:_The_Room)
+>[Silent Hill 1](https://mega.nz/#!bVUCTJzD!PmnPw4S7fWGyvTjw9S0-RQdk7rRp2BQNuXJqRkZCZvk) [(alt)](https://vimm.net/vault/6039) `PS1 ROM` + [emulate via DuckStation](https://emulation.gametechwiki.com/index.php/DuckStation)
+>[Silent Hill 2](https://mega.nz/#!rFcj1SIJ!47JH9M4OrzmQKuaiJ6IqUgmgz_SVNtk4LIYNSa-D-_8) [(alt)](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd) `PC NTSC` + [Enhanced Edition mod](http://www.enhanced.townofsilenthill.com/SH2/) (just run the installer ; "Enhanced .EXE" is also the no-CD crack)
+>[Silent Hill 3](https://mega.nz/#!2JNkgJ7b!nfPf5cIs6I5K-sdAs7RcnHvGA2hAvIGdpQuIoBhF3iE) [(alt)](https://www.myabandonware.com/game/silent-hill-3-bge) `PC NTSC` + [PC Tweaks like Widescreen Fix](https://www.pcgamingwiki.com/wiki/Silent_Hill_3) [(fix)](https://community.pcgamingwiki.com/files/file/1331-silent-hill-3-pc-fix-by-steam006/)
+>[Silent Hill 4](https://mega.nz/#!Us1XTaII!cglH0dZOaH5yQEm4cnEh3eyUz4bIf6rACQqcVzkb4Hc) [(alt)](https://gog-games.to/game/silent_hill_4_the_room) `PC NTSC` + [PC Tweaks](https://www.pcgamingwiki.com/wiki/Silent_Hill_4:_The_Room)
 
 !!! info Mount PC versions ISOs via W10's own virtual disc mounter or using Daemon Tools. Don't install under "C:\Program Files\" as this could cause issues.
 

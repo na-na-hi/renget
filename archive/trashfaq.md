@@ -299,3 +299,45 @@ Also check out https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Feat
 ## float16 vs. float32?
 
 float32 for older gpus or if you want 100% precision. The outputs of both should be nearly identical, the main difference is size and the gpus that support it.
+
+## What are the "bwu, dfc, ubbp, updn" things?
+
+They are the negative embeddings bundled with Furtastic. https://civitai.com/models/4108/furtasticv11
+DL Link: https://civitai.com/api/download/models/84134?type=Training%20Data
+Put the .safetensors in stable-diffusion-webui\embeddings, then restart. You only need to write the filename of each embedding into your negative prompt field to use them.
+
+bwu - blurry, watermark, unrealistic
+dfc - dull, flat, color
+ubbp - unbelievably bad body parts
+updn - ultra-saturated, painting, drawing, n is unknown, but I assume nigger
+
+## What are EasyNegative/boring_e621/Add Detail LoRA, and where do I find them?
+
+EasyNegative and boring_e621 are embeddings, add detail and Quality Tags are LoRAs.
+
+The former two are based on the lowest-scored images on e621, and are basically shorthand forms of negative prompting. Put them into your stable-diffusion-webui\embeddings folder, and use their names in the **negative** prompt field (you can also just switch to the Textual Inversion tab and add it from there, like you would a LoRA (assuming you are on A1111 1.6)).
+Keep in mind that EasyNegative was trained on Counterfeit, an anime model. Still works though, but maybe not as optimally as it could.
+boring_e621 also has an updated version specifically for Fluffyrock, which most model merges used on /sdg/ are based on.
+
+	EasyNegative: https://huggingface.co/datasets/gsdf/EasyNegative/blob/main/EasyNegative.safetensors
+	boring_e621 V4: https://huggingface.co/FoodDesert/boring_e621/blob/main/boring_e621_v4.pt
+	boring_e621 V4 Fluffyrock: https://huggingface.co/FoodDesert/boring_e621/blob/main/fluffyrock/boring_e621_fluffyrock_v4.pt
+
+Add Detail does what it says on the tin. Author recommends a weight between 0.5 and 1. You can also remove detail for a simpler, flat-colored look by using it with a negative weight.
+
+https://civitai.com/models/82098/add-more-details-detail-enhancer-tweaker-lora
+
+	Direct DL: https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor
+
+Fluffyrock Quality Tags used the quality tags you may be familiar with from NovelAI for tagging and training in order to replicate the effect of using them you would have formerly gotten from NAI-based merges.
+Leave the LoRA weight at 1, and instead weigh the tags you use more strongly if you want an increased effect.
+Example:
+
+	Positive prompt: (best quality, high quality:1.4)
+	Negative prompt: (worst quality, low quality, normal quality:1.4)
+
+https://civitai.com/models/127533/fluffyrock-quality-tags
+
+	Direct DL V3: https://civitai.com/api/download/models/151790?type=Model&format=SafeTensor
+
+One thing to keep in mind for all of these is that your outputs might wind up ending same-ish due to the "bad" looking stuff being filtered out. As always, experiment with only using some, or none of these if you want to mix up your results.

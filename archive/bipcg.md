@@ -1,4 +1,42 @@
 ▶NEW CLIPS
+>Benis :DD
+https://files.catbox.moe/8kkwkf.webm
+>Scouts firing Konkurs and Kornet missiles on AFU positions near the Antonovsky Bridge
+https://files.catbox.moe/tv49n9.MP4
+>Very accurate artillery strike on AFU Marder
+https://files.catbox.moe/lu4wy0.mp4
+>Russian airforce carries out a targeted strike on the Avdeevsky coke fuel plant
+https://files.catbox.moe/lcgcd0.mp4
+>Hohol elevators used as a base and storage for vehicles destroyed by 4 FAB-500 bombs
+https://files.catbox.moe/j6i6fw.mp4
+>Russian BMD-3 takes on a Ukrainian trench stronghold
+https://files.catbox.moe/b2pgsd.mp4
+>Hohols get ambushed by the most well disguised mine and then play IRL Battlefield cutscenes until they get chopped up by a T-80
+https://files.catbox.moe/0ffkvw.webm (embed)
+>Tranny of Kweev claims that the Vovan and Lexus prank was a deep fake
+https://files.catbox.moe/xthfm7.MP4
+>Hohol "surrenders" and prepares to throw a grenade (drone and Hohol fpv)
+https://files.catbox.moe/pdb4ht.MP4
+>Hohol BMP gets rekt by ATGM in the Rabotino area
+https://files.catbox.moe/u0yc6t.mp4
+>Russian artillery destroys temporary AFU base in Bugrovka, Kharkov region
+https://files.catbox.moe/pm3z9y.mp4
+>Hohols in stuck jeep get unstuck, abandon one of their own guys, and get stuck again
+https://files.catbox.moe/8xoc55.mp4
+>MRAP gets destroyed by Lancet
+https://files.catbox.moe/q91sdg.mp4
+>M777 destroyed by lancet
+https://files.catbox.moe/kcn5zy.mp4
+>hohol gets doubletapped by Russian FPV drones
+https://files.catbox.moe/h60e5q.mp4
+>hohol caught on fire from drone (not comfy)
+https://files.catbox.moe/iv0xz7.mp4
+>At Verbovoy, an AFU assault group tried to sneak to Russian trenches
+https://files.catbox.moe/bmh96z.mp4
+>Hit on Ukrainian ammo dump near Kiselevka in Kherson oblast
+https://files.catbox.moe/kk9a2l.mp4
+>MiG-29 destroyed at Kulbakino Air Base in the Nikolayev region
+https://files.catbox.moe/upi3p0.mp4
 >Iskander on Kharkov
 https://files.catbox.moe/yz4uk0.mp4
 >Zelensky watches Zelensky give a speech at the UN

@@ -9,9 +9,8 @@ https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-III-zombies-
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwide-full-reveal-announcement
 \>MWIII notes and news about content carrying over (TL;DR: shit is getting carried over generally):
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-to-modern-warfare-III-carry-forward
-\>Season 5 reloaded
-https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-season-05-reloaded-multiplayer-DMZ-content-drop
-\>best gun in the game gets buffed for 3rd season in a row
+\>Season 6 Blackcell, Battlepass, and bundles
+https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-II-warzone-season-06-blackcell-battle-pass-bundles
 
 \>patch notes:
 https://www.callofduty.com/patchnotes/2023/09/Call-of-Duty-Modern-Warfare-II-Warzone-Season-06-Patch-Notes

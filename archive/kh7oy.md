@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=qfj6ZEpf78g
 https://www.youtube.com/watch?v=e_kuPoLw9Wc
 「!」Mario vs. Donkey Kong Remake Revealed
 https://www.youtube.com/watch?v=5sPwqplxHXc
+「!」Super Mario Bros. Wonder Direct (8.31.2023)
+https://www.youtube.com/watch?v=G0m_uNaSres
 
 ----
 

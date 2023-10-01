@@ -2,9 +2,14 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-09-2)==<-
+->==(updated 2023-09-28)==<-
 ***
 [TOC2] 
+***
+#####Both
+https://rentry.org/CoT_Jailbreaks
+
+
 ***
 #####Claude
 https://rentry.org/KaruKaruBagOfGoodies
@@ -12,6 +17,8 @@ https://rentry.org/KaruKaruBagOfGoodies
 https://rentry.org/pitanonbots#claude-rp-prompts
 
 https://rentry.org/fumblebum
+
+https://rentry.org/CoT_Jailbreaks
 
 https://rentry.org/ClaudeJB
 
@@ -30,6 +37,7 @@ https://rentry.org/hochi-reupload
 https://rentry.org/fa5fv
 
 https://rentry.org/lobstersgpt
+
 
 ***
 ***

@@ -336,7 +336,7 @@ Genre | Complexity | Polish | Systems
 :----: | :----: | :----: | :----:
 Traditional Chat   | Low | High | None
 !!!info
-    ->CardName<-
+    ->Luna Lovegood<-
     ->[**(chub)**](https://www.chub.ai/characters/horcocks/luna-lovegood)       [**(catbox)**](https://files.catbox.moe/03d456.png) <-
 ***
 ***

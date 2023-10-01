@@ -10,11 +10,11 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 687 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
-つるぺったん (23/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 1005 (A) |  A clan that tries a bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan). Matrix is not strictly required, but you won't be considered a full member until you join.
-Ayumisters (28/30) | For homeless misters and armpit enthusiasts | Casual | 1608 (A) | -
-Plaplets (25/30) | ORAORA GET PREGNANT | Casual | 2443 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
-Fun Island (27/30) | Kokkoro is the cutest. | Casual | 4978 (BBB) |  Just be yourself. + tag in profile
+Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 875 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
+つるぺったん (24/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 777 (AA) |  A clan that tries a bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan). Matrix is not strictly required, but you won't be considered a full member until you join.
+Ayumisters (27/30) | For homeless misters and armpit enthusiasts | Casual | 1318 (A) | -
+Looplets (22/30) | A lazy kot is a beautiful kot. | Casual | 2233 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
+Fun Island (26/30) | Kokkoro is the cutest. | Casual | 4465  (BBB) |  Just be yourself. + tag in profile
 
 
 

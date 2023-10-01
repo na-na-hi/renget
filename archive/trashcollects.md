@@ -919,6 +919,21 @@ https://civitai.com/models/150647/magica-de-spell-or-ducktales
 
 	https://files.catbox.moe/21wmi0.safetensors
 
+# Goldie O'Gilt
+
+https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
+
+	Direct DL V1.0:
+	https://civitai.com/api/download/models/172198?type=Model&format=SafeTensor
+
+# hooves-art/lunar47/snuddy mix (artists)
+
+	https://files.catbox.moe/hlp1qz.safetensors
+
+# Aer0 Zer0/welost/pyroxtra (artists)
+
+	https://files.catbox.moe/9vije9.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -1132,6 +1147,16 @@ Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 
 EasyFluff V11 Artist Comparison
 
 	https://mega.nz/folder/kigBCaYZ#2x3Wy44-3h05fVodrYlBcQ
+
+EasyFluff V11.2 Comparison
+
+	Prompt used:
+	by <artist>,  a nude male anthro coyote standing in the water, mesa, canyon, rocks, sheath, penis tip, balls, partially submerged, (worm's-eye view,:0.9) (hazel eyes:1.1), looking at viewer, tail,
+	BREAK (masterpiece, best quality:1.2),  pinup,
+	Negative prompt: EasyNegative, boring_e621_fluffyrock_v4
+	Steps: 35, Seed: 3945749951, Sampler: DPM++ 2M SDE Karras, CFG scale: 6, Size: 512x768, Batch: 6x1, Parser: Full parser, Model: EasyFluffV11.2, Model hash: 821628644e, VAE: vae-ft-mse-840000-ema-pruned, Backend: Original, Version: 5142b2a, Operations: txt2img; hires; txt2img; hires; txt2img; hires; txt2img; hires, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Hires upscale: 1.5, Hires resize: 0x0, Hires size: 768x1152, Denoising strength: 0.4, Latent sampler: DPM++ 2M SDE Karras, Image CFG scale: 6, Token merging ratio hr: 0.5, Dynamic thresholding enabled: True, Mimic scale: 7, Threshold percentile: 100
+
+	https://files.catbox.moe/yeiuv1.jpg
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

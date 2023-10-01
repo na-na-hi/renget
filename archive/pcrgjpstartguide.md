@@ -98,18 +98,19 @@ P.Peco | C | A | C | B | Yes | No
 P.Kokkoro | B | C | A | A | No | No
 P.Yui | D | C | C | C | Yes | No
 Laby | SS | F | SS | SS | Yes | No
-P.Hiyori | SS | F | A | B | Yes | No
+P.Hiyori | A | F | A | B | Yes | No
 P.Kyaru | A | A | S | S | Yes | No
 P.Rei | A | A | SS | A | Yes | No
 Hatsu/Shio | C | D | B | A | No | No
-Homare | S | F | S | S | No | No
+Homare | A | F | S | S | No | No
 LL Trio | C | F | B | C | No | No
 Ranpha | B | F | B | B | No | No
 Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
 GreAnne | SS | F | SS | SS | No | No
 Misora | A | F | SS | S | No | No
-Croce | A | B | S | A | No | No
+Croce | A | D | S | A | No | No
+ライラエル | A | C | S | A | No | No
 
 ##->Limited targets<-
 These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
@@ -142,7 +143,6 @@ While not re-roll targets, these units are always available to roll on any banne
 **Oedo Yuki** - Excellent buffer and debuffer for magic comps. Not farmable.
 **Swimsuit Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
 **Christmas Jun** - Excellent tank that provides a ton of utility and can sustain herself.
-**Kasumi** - Excellent Arena unit in the 1st position that can snare a large group of enemies and provides a massive m.def debuff for magic units to shred enemies.
 
 
 ##->Permanent Sub Player level 200 Campaign<-
@@ -195,6 +195,7 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Shefi (1 Node)
 - Tomo (1 Node, 5 Nodes in Side Story)
 - Cinderella Maho (1 Node)
+- Oedo Yuki (1 Node)
 
 ###->Arena Specialists<-
 - Misaki (8 Nodes, 2 Nodes in Side Story)
@@ -212,9 +213,10 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Yuki (8 Nodes, 2 in Side Story)
 - Kyouka (1 Node, 2 in Side Story)
 - Kasumi (1 Node, 5 in side stories)
+- Oedo Mitsuki (1 Node)
 
 ##->Recommended Side Story Nodes <-
-These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to reset Side Story nodes. Aside from S.Kokkoro, the majority of these units are niche and may not appear in every CB. Anyone not on this list, is just a bond story stat stick.
+These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to reset Side Story nodes.  Anyone not on this list, is just a bond story stat stick.
 
 ###->Great everywhere<-
 - Summer Kokkoro 
@@ -223,6 +225,7 @@ These are some good units that are available in Side Stories. Node that all Wefl
 - Christmas Yukari
 - Working Clothes Tamaki
 - Cinderella Rima
+- Christmas Mahiru
 
 ###->Arena Specialists<-
 - New Years Muimi

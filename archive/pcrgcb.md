@@ -79,7 +79,7 @@ L.Nozomi 3★ Lv283 R30 FULL, EX 5/Nothing/5
 Labyrista 5★ Lv283 R30 FULL, EX 5/5/5
 ![3](https://pomf2.lain.la/f/qb9gtyvn.png) 
 
-[B2 Phys 51-52.5m](https://www.youtube.com/watch?v=DZA0sE5lQDs)
+[B2 Phys 51-52.5m](https://youtu.be/5w2ALYr3_3w?si=vgKN9L3n9EBLQhdK)
 ![3](https://pomf2.lain.la/f/8yjctjqr.png)
 Tested with:
 Muimi 6★  Lv283 R30 FULL, EX 5/5/5

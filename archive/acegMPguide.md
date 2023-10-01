@@ -290,6 +290,35 @@ https://imgur.com/a/6sZdWR9
 >Blisk was chosen over VCE specifically due to the higher acceleration (despite the descriptions being the same), Cutting-Edge Airbrakes to make low-speed energy fighting easier, New Flaps and SupMan are bogstandard, Cutting Edge Large Flap had some kind of reasoning behind it, but I kinda forgot. **[---Editor's note: It's the increased deceleration, which when coupled with Airbrakes gives the plane an even tighter turn radius---]** BFTs are sort of a crutch, but you are a paper mache plane if you don't have BFTs on the 29 as well (many, and I mean many missiles will OHKO or 2HKO you) but I've mostly relied on dodging. DPF to OHKO Wyverns and tougher bastards, High-Energy Propellant and Steering Device to make up for the HPAA's many failures. Takeoff Weight Augmentation is another "crutch" in that 22 HPAAs are generally just barely enough to get you through a normal time limit lobby, if you aren't being extraordinarily shrewd. Having extra missiles would be useful for a fledgling HPAA user
  though.
 
+>2340 F-15C PLSL
+https://arch-img.b4k.co/vg/1690053881947.jpg
+>In the meantime, I'll post the PLSL F-15C build I just used. It managed to keep up with what appears to be the MiG-29 build from the MP guide, so I think it's pretty good.
+>>Acceleration 2
+>>Airbrake 2
+>>Max speed 2
+>>Pitch 2
+>>SupMan 2
+>>Laser hitbox, range and damage 2
+>It's made to be good at both boom and zoom and dogfighting. 
+
+>2400 Su-37 HPAA **(UPDATED)**
+https://arch-img.b4k.co/vg/1689886388061.jpg
+>I'm finally done with my Su-37 build for AC7 MP. Here are the parts:
+>>Acceleration lv2
+>>Acceleration/max speed lv2
+>>Pitch lv3
+>>SupMan lv2
+>>~~Gun damage lv1~~ Airbrake lv1
+>>SPW damage lv1
+>>SPW speed lv2
+>>SPW homing lv2
+>As with most Su-37 builds, this one excels at punishing sloppy play from nuggets. You'll only need one or two good shots (or machine gun bursts) to shoot down whoever you're targeting. 
+>UPDATE:
+>One shot, one kill
+>Contrary to many other HPAA builds, I use SPW damage instead of SPW reload to counter lv2 armor shenanigans while still using one missile. You might have to wait longer for a window, but if the missile hits, your opponent will die no matter what.
+>Max speed and acceleration and accelereation lv2 fixes one of the 37's biggest flaws and turns it into a great energy fighter, which makes the build viable even if you don't know how to PSM.
+>Airbrake lv1 might not seem like much, but it gave me the edge I needed to counter Typhoonanon's excellent Typhoon build.
+
 >2400 Rafale M HCAA
 https://arch-img.b4k.co/vg/1675558829806.png
 >Never stalls, always ready to fire. ECU Software Update is the important part. Lower Stall speed means you can maintain high-G with a tight radius turns longer than opponents. Vulnerable at high speed since ECU also reduces deceleration in high-G turns. Ideal for aggressive close-range fights at low speeds, exactly what the Rafale excels at. Especially useful in a 1v1 or prolonged turn-rate fights and against PSM users, all low-speed situations.

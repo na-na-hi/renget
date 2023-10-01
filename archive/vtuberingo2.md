@@ -90,3 +90,4 @@ Himemori Luna - https://youtu.be/U79xsNy8WMo
 Yukihana Lamy - https://www.youtube.com/watch?v=Z1X_jj9fpMo
 Ceres Fauna - https://youtu.be/QDKW1OzsxJc; https://www.youtube.com/watch?v=WFgAwc5w-kY
 Ouro Kronii - https://www.youtube.com/watch?v=uY_SqechQJI
+Tsunomaki Watame - https://twitter.com/tsunomakiwatame/status/1653477860987011072?s=46&t=OQ2gmYdSJ-ypvoiIS-yS9g

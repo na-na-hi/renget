@@ -60,7 +60,8 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 3/9 | ▮▮▮▯▯▯▯▯▯
+
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -70,9 +71,9 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
-2. Pomeg Berry | Sweet and spicy, with bitter aftertaste. (1 Spicy, 1 Sweet)
+2. Empty | N/A
 3. Aspear Berry |  Thaws the user. Heals Freeze.
-4. Nifty box | Light and convenient to carry around. Seems to contain any kind of item.
+4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -1,17 +1,15 @@
-#Prodigy Guide for iA3 - September 2023 
+#Prodigy Template for iA3 - September 2023 
 ### -> A.K.A The Modern LoRa Guide <-
 ##### -> ```stop calling them loras, call them small networks/models. ia3 is not even a lora.``` <-
 #### -> written by a nerd who likes to optimize <-
 ###### -> “The reasonable man DAdapts himself to the model; the unreasonable one persists in trying to DAdapt the model to himself. Therefore all progress depends on the unreasonable man.“ <-
 ###### -> ==Nobody believed but me.== <-
-!!! note back to this, making some changes, rethinking some things
 
 # -> [PREVIEWS WITH THE RESULTS HERE (TO BE UPDATED)](https://civitai.com/user/ia3forchads/models) <-
 
 ##What is it?
 [Prodigy is DAdaptation on steroids, lighter, faster, more controllable. It is deterministic.](https://github.com/konstmish/prodigy)
 [```iA3 is done at about a quarter to a half the steps a LoRa is and provides the same if not better results.``` ```Intended to improve over LoRa and its variants which it succeeds in doing.```](https://huggingface.co/docs/peft/conceptual_guides/ia3)
-!!! warning iA3 does not need captions and does not need many images. Recommend 10 images as anything above is unnecessary. You can gather only important ones and postprocess by cropping and removing backgrounds.
 !!! warning iA3 is adapted a lot by quality tags. Prompting matters. If the character looks 70% learnt then it likely is 100% learnt but it's just that your prompting is interfering with it.
 
 !!! note Kotakublue / LyCORIS wrote that it  won't transfer but it transfers just fine like any other small network/model. The reason for Kotakublue having assumed wrongly is due to them not having used the correct settings.
@@ -21,7 +19,6 @@
 ### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps to your desired steps. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ###Instructions:
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
-!!! danger ==IMPORTANT:== Name your ```dataset folder to the trigger word``` as that will be used as your caption.
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only max_train_steps and T_0 to the total steps you want.``` ```T_0``` is the step scaling/iterations for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger  ==OPTIONAL:== ```Adjust weight_decay (any value is fine as Prodigy adjusts to try and compensate). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
 !!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
@@ -31,7 +28,7 @@
 {
   "LoRA_type": "LyCORIS/iA3",
   "additional_parameters": "--lr_scheduler_type \"CosineAnnealingWarmRestarts\"",
-  "caption_extension": ".none-use-foldername",
+  "caption_extension": ".txt",
   "clip_skip": 1,
   "epoch": 31337,
   "gradient_accumulation_steps": 1,
@@ -42,11 +39,11 @@
   "max_train_steps": "160",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0\"",
+  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=1.0\" \"weight_decay=0.01\"",
   "save_model_as": "safetensors",
   "text_encoder_lr": 1.0,
   "train_batch_size": 10, //SET TO 10 HERE, FITS IN 6GB VRAM, WATCH YOUR VRAM/GPU TEMPS
-  "train_on_input": false,
+  "train_on_input": true,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0
 }

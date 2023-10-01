@@ -40,8 +40,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force)
-https://rentry.org/xxk2h
+>Ryu-kishi and Mirror Devil art
+>>90413221
+
 
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
@@ -509,6 +510,8 @@ https://rentry.org/ewwu9
 https://rentry.org/b2mhn
 >Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force)
 https://rentry.org/xxk2h
+>Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Christopher, Challenger, Ryu-kishi, Drone, Reaper)
+https://rentry.org/e7cszt
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -535,6 +538,9 @@ Page 1
 Build List:
 >S-Rank:
 Inatsu Hikuhei(Hokage), "The Bull of Konoha" >>90349663 
+Akuryoga Mitiru, "The Old Demon" >>90403475
+Yusuke Hiramatsu, "The Third Kazekage" >>90409962
+
 >A-Rank:
 Taiki, "The Trunk Thrower" >>90337572 
 Konna, "The Shady Foreigner" >>90338178 
@@ -542,6 +548,7 @@ Mika Katsumi, "Opioid Smoke Girl" >>90339231
 Hakumo Ikari, "Kitsune Vixen" >>90347774 
 Kurumi Yamagumo, "Prideful Puppeteer" >>90359191 
 Amami Kai, "The Tide" >>90371161 
+Mutsuo Aburame "Bug Guy" >>90410708
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90337143 
 >C-Rank:
@@ -699,7 +706,7 @@ Gigachad Mutants:
 >THE BLENDER
 >>90210979
 
-Factory Reset Robots:
+Factory Robots:
 >H0P3
 >>89676618
 >C.C.A.M.U. (Amu for short)
@@ -744,7 +751,7 @@ https://rentry.org/CallisBallads
 Page 3
 ****
 ```
-Writefags(Recorded deeds of the Dead):
+Writefags:
 >Piss Break (Nymphs)
 https://rentry.org/4cfx3
 >Rumors of the Wasteland! (Lance)
@@ -806,7 +813,7 @@ https://docs.google.com/document/d/1QtUCl2VBMGos3kiuek4HvAzvojPlUgRGHbAqzACx7Go/
 >St. Heli's Fire (Heli Matharom, Ultra Magnus)
 https://rentry.org/HFWT-st-helis-fire
 
-Postmortem Artfags:
+Artfags:
 >ANT KING and ants
 https://img.4plebs.org/boards/tg/image/1688/02/1688025049509374.png
 >Kara angry
@@ -978,6 +985,8 @@ Martin Gigant/Arsenal King
 >>90323062
 Katie Ingqvist/Fury
 >>90276552
+Oliver Rodriguez
+>>90402785
 
 >Rogues
 The Homemaker

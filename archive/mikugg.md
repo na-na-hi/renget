@@ -26,6 +26,11 @@ I don't even know anymore. No one makes any bots to share at /aicg/.
 >The new bot format has been released, all card are now .png and compatible with spec_v2.
 and the official bot hosting is now live so go there, I guess: https://bots.miku.gg
 ***
+[29.09.2023]
+> miku.gg BETA platform is ready!
+> bots.miku.gg will continue to exist but will be only for bot sharing and testing.
+*t. mikudev*
+***
 ***
 ***
 Email for new submissions:

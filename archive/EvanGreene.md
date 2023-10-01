@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: N/A | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Attack | 0 | 3/9 | ▮▮▮▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

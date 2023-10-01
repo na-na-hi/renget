@@ -422,7 +422,7 @@ Biography generated!
 >Etouffee, Corphish (M), Hasty/Rash
 > A former outlaw assigned to Team Gumbo for "rehabilitation", the grumpy crawfish has a soft spot for Cheesecake and they share the sort of friendship said to have once been seen between an outlaw Armaldo and a young Igglybuff. However, he can be quick to anger and a bit selfish, often butting heads with Apple. The two personalities clashing is the reason for his nickname; during a tiff between Etouffee and Apple, the frog Pokemon made a vague threat to make an etouffee out of the crustacean, and since then Cheesecake obliviously started calling him "Etouffee." No one knows Etouffee's real name, if he has one.
 > - Likes to mess with Apple. A bit snarky.
-> - **Moveset:** Vicegrip, Night Slash, Crabhammer, Dragon Dance
+> - **Moveset:** Vicegrip/Bubblebeam, Night Slash, Crabhammer, Dragon Dance/Swords Dance
 > - **Held Item:** Fierce Bandanna (tied on his arm, between his claw and body)
 > - **Special Identifier:** Has a broken middle horn, a scar on his right "cheek", and another scar across his left eye. Has various smaller scratches in various places.
 

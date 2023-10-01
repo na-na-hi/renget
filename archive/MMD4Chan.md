@@ -107,8 +107,11 @@ The license key can be found all over the internet.
 [[XPS]](https://github.com/johnzero7/XNALaraMesh)
 
 **Other Conversion Tools**
+[[How to use the Unity-MMD Converter]](https://forum.ripper.store/topic/11201/booth-model-to-mmd/2)
 [[Unity-MMD Plugin]](http://tstorage.info/vvtgc9bb8ust) (Drag & Drop Version)
 [[Unity-MMD Plugin]](http://tstorage.info/wmc4t6q8gni4) (Unitypackage Version)
+[[PB2DB Plugin]](https://workupload.com/archive/uhjBnkyxYY)
+
 [[VRM2PMX]](https://bowlroll.net/file/191067)
 [[TSO2PMX (3DCG)]](https://www.mediafire.com/file/k5ppfh5opr4xki6/Tso2Pmx-037.rar/file)
 [[CM3D2 Exporter]](https://www.deviantart.com/djwolf-3/art/CM3D2-COM3D2-Export-Plugins-849226801)

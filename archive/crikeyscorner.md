@@ -28,7 +28,7 @@ Image| Name | Description | Link
 ***
 ##Proompts
 ***
-Been wrangling Claude 2.0 for a good while now, and I found that this works fairly well. I still run into the ethics filter every now and then, but less frequently than I did before.
+Currently ReMMSLERPing (v2) with the recommend settings from [this Rentry](https://rentry.org/colabfreellamas). I miss Claude every day and every night, but here are the prompts I used for those who do have Claude.
 
 ###Main prompt
 ```

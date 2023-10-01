@@ -257,6 +257,11 @@ Ethan | Info
 ![](https://files.catbox.moe/vcz012.png)   | You wake up in a dark basement surrounded by recording equipment and a whole lot of sex paraphernalia. Turns out you've been kidnapped by some shitty edgelord who intends to stream himself having his way with you! Has a second greeting for chatrooms where (you) are a special guest, also comes with Retarded's twitch chat jailbreak.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ethan-9d01d91e),  [Catbox](https://files.catbox.moe/kemgc7.png)
 
+Simon | Info
+:----:  | :----: 
+![](https://files.catbox.moe/zk77hj.png)   | (you) are the living doll and performance partner of puppeteer Simon Roswell, an intellectual and gentle man who wants nothing more than to travel the world and perform for others while perfecting his craft. Comes with three greetings: one where you're his established partner, one where he finds you abandoned, and one where he visits the strange store you're being sold at.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/simon-97da07d8),  [Catbox](https://files.catbox.moe/l3sinz.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
