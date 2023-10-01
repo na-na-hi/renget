@@ -29,6 +29,10 @@
 -> Now I have a [boosty page](https://boosty.to/xmlk). You can support me there and [vote for a Claude prompt version](https://boosty.to/xmlk/posts/13701266-40f2-4b25-8d35-33d7c4bbeb62?share=post_link) you use! <-
 ######
 - - -
+######
+-> **==GPT-AP-3 IS OUT==** <-
+######
+- - -
 ##ReadMe
 !!! danger
 	**PESONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
@@ -103,6 +107,8 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
+01.10.2023 |  ★[GPT-AP-3](https://rentry.co/CharacterProvider#gpt-ap-3) | **Note:** Refined the JB, but it mostly the same. Changed rules to guidelines and renamed tags.
+ |  | **Features:** Great characterization and dialogs, responses are still very good with no dozens of random characters. Output is similar to 2.2, but with fixes. Outputs are very saturated just like on Claude. I tried to write it in a way that allows you to use scenario cards without confusing the AI.
 22.09.2023 |  ★[GPT-AP-2.2](https://rentry.co/CharacterProvider#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results.
  |  | **Features:** Adds random characters (more like a 'problem' don't know how to balance it atm), but greatly improves output comparing to GPT-AP-2. Characterization is greatly improved, AI follows their descriptions much better and widely uses their word ticks and speech styles. Speech is really fluent. While entering a new scene you will be likely met with an event and interesting NPCs (still has a knock in door problem! May add random characters). Still figuring out how to make characters much more active and inventive and lower the soy (during speech about violence and minorities). AI may sometimes OVERUSE CAPS and onomatopoeia. {{char}} will find NPCs nearby and interact with them on their own. Character lines can be very funny. Still can't solve the problem with characters not commenting much during sex scenes, They do, but they talk much less then during general dialogs. Testing...
 19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended.
@@ -401,6 +407,27 @@ If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude an
 - - -
 # 
 ## ![](https://files.catbox.moe/5eij7u.png) GPT PROMPTS
+# 
+- - -
+- - -
+- - -
+# 
+###GPT-AP-3
+#
+!!! note There's a new link. Prompts should work fine now.
+###### PRESET AND PROMPTS
+Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Your characters now wrapped in <AI role> tags automatically!
+#
+[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/bypg2t.zip)
+[DOWNLOAD FILES](https://files.catbox.moe/bypg2t.zip)
+#
+!!! **How do I use this?**
+	1. Download settings
+	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
+	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	4. Turn on/off preferable blocks and enjoy!
+!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
+!!! note Character Descriptions will be wrapped in <AI role></AI role> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
 # 
 - - -
 - - -

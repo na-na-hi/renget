@@ -10,12 +10,9 @@ The best method is in the first section, that's what I recommended everyone do; 
 
 ***Other guide: [lorebook guide](https://rentry.org/lorebook-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
-
 - | My personal presets:
 ------ | ------
-Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v7 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1143178173320798378/Truthfully-7-kayra_pume.preset)
+Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 
@@ -214,14 +211,5 @@ Everything that AI generated, all of them have a list of alternative words(token
 
 If you haven't enable it: *User Setting \-> AI Settings \-> Experimental \-> Enable Token Probabilities \-> ON*
 Then you will see brain icon beside retry button. (You have to generate once for it to show the probabilities.)
-***
 
--> [By pume_!](https://www.reddit.com/u/pumegaming/) check out my: <-
--> • [lorebook guide](https://rentry.org/lorebook-guide)<-
--> • [co-writing guide](https://rentry.org/co-writing-guide)<-
--> • [modules](https://rentry.org/pume-modules) <-
--> • [ao3 datasetting](https://pume-p.github.io/ao3-datasetting/) <-
--> • [tip me at ko-fi](https://ko-fi.com/pume_cat) <-
-
--> AIwrite&E: [TravelingRobot](https://www.reddit.com/user/TravellingRobot/) ->
--> Extra: [Alexei P](https://www.reddit.com/user/agouzov/), [Basileus](https://www.reddit.com/user/NotBasileus/) ->
+-> Credit: TravelingRobot, Alexei P, Basileus ->

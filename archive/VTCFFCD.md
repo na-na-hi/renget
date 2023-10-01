@@ -1203,7 +1203,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Aqua's Order](https://rentry.co/rhyrp) (Aqua, SFW, Greentext, Comedy)
 [Carbon Monoxide Poisoning](https://docs.google.com/document/d/e/2PACX-1vQ3khMmKPiypOpldB17ZTQmBX_P07Q7vanyD4rEpeD1bJN2KkqEVNurYxDPNsKAk02iT7-ck1j7Xin7/pub) (Bae, SFW)
 [Holoslavia: Operation Nimrod - I](https://docs.google.com/document/d/e/2PACX-1vTVqSKG5pBisIRCo8fty-nQVReosQH5dTMFYj0KzC4VfYZUbepRl5piNiz-MiXOI9jDCO4fTWrN80ph/pub) (Subaru, Suisei, Korone, Botan, Hololive, NSFW, Comedy, Action, Drama, War Crimes)
-[The Scent of Lavender](https://rentry.org/va8bh) (Suisei, NSFW, Smell Fetish, Underwear Sniffing)
+[The Scent of Lavender](https://rentry.org/TSoL) (Suisei, NSFW, Smell Fetish, Underwear Sniffing)
 [Suisei wants to marry (You)](https://docs.google.com/document/d/e/2PACX-1vQYwlo61wpj6qvYqt-pCZ61h9_prD3yenPz2FLEIwIkFY4ZjCG8L3n3qTNBbcDa4CwPTVn-cEnG65RT/pub) (Suisei, SFW)
 [Untitled /wawa/ hornyfic](https://rentry.co/oadmm) (Kiara, NSFW, Short)
 (***Series link!***) [Sand Planet](https://rentry.co/VTCFFSS#sand-planet) (Suisei, Azki, SFW, Action Adventure, Piracy, Realistic Fantasy)

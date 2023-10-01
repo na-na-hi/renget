@@ -21,12 +21,9 @@ Think of it like saving work down the road on concepts you plan to use often; Wh
 
 ***Other guide: [memory guide](https://rentry.org/memory-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
-
 - | My personal presets:
 ------ | ------
-Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v7 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1143178173320798378/Truthfully-7-kayra_pume.preset)
+Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 
@@ -35,7 +32,7 @@ To open Lorebook in the first place -> click the **📕 button**, or **\[Search 
 Click **\[➕ Add Entry]** to create a new entry:
 - **Title:** *Name it whatever you see fit.*
 	- The AI doesn't see the title.
-	  If you set the title to ==pume==, you will also need to mention ==pume== in Inserted Text again.
+	  If you set the title to ==Sigurd==, you will also need to mention ==sigurd== in Inserted Text again.
 - **Inserted Text:** *Your actual Lorebook content.*
 	- The content here isn't magical to the AI, it will simply be stitched with your recent storytext when press Send.
 	Think of it as a small piece of paper.
@@ -433,14 +430,4 @@ Few more things:
 	If something isn't not working, *make sure* you didn't skip over anything. I'm pretty sure I have explained it all. If you have any question feel free to come over to [#ai-writing-help](https://discord.gg/novelai)
     You have to try and understand why something works and doesn't. Looking at the context that being sent to the AI is likely to be the most critical step that you can take to make sure your lorebooks function like intended.
 
--> [By pume_!](https://www.reddit.com/u/pumegaming/) check out my: <-
--> • [memory guide](https://rentry.org/memory-guide) <-
--> • [co-writing guide](https://rentry.org/co-writing-guide)<-
--> • [modules](https://rentry.org/pume-modules) <-
--> • [ao3 datasetting](https://pume-p.github.io/ao3-datasetting/) <-
--> • [tip me at ko-fi](https://ko-fi.com/pume_cat) <-
-
--> Attribute: [Green](https://www.reddit.com/user/SalokinGreen22/)&[TravelingRobot](https://www.reddit.com/user/TravellingRobot/) ->
--> Snippets: [Okeri](https://media.discordapp.net/attachments/356304198398115841/1035148632229425182/unknown.png), [Fluffy](https://media.discordapp.net/attachments/356304198398115841/1067665419814584381/image.png?width=350&height=79), Prose: [OccultSage](https://media.discordapp.net/attachments/356304198398115841/1065635608304832583/Screenshot_from_2023-01-19_21-15-01.png?width=225&height=161) ->
--> Traits: [Belverk](https://cdn.discordapp.com/attachments/356304198398115841/957733730070446100/I_cant_find_his_reddit.png) ->
--> Extra: [OmniDaemon](https://www.reddit.com/user/demonfire737), [aion21](https://www.reddit.com/user/No_Friendship526/), [Atilla](https://cdn.discordapp.com/attachments/356304198398115841/958151632372256778/Screenshot_269.png) ->
+-> Credit: Green, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->

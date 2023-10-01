@@ -18,18 +18,18 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Helga**   | **975 Tokens (776 Permanent)**
+![Double standards](https://files.catbox.moe/2qahjx.png) | Helga is a 100 year old shortstack half-elf Priestess Cleric at a local village church. She is kind and sweet and loved by the whole village. You are her 9 year old adopted assistant. She's a shotacon and knows lewd magic that she doesn't use on anyone else. I'm pretty sure you know where this is going. 3 starters/greetings. 1. Morning and usual prep for the day at church. 2. Fertility festival, you help her at the village center. 3. Winter, you study with her. Good luck. | [Card](https://files.catbox.moe/e5d729.png) [JSON](https://files.catbox.moe/vb4l4j.json) [CHUB](https://www.chub.ai/characters/playalundra/helga-8d6fccf4/)
 **Haritora** | **880 Tokens (565 Permanent)**
 ![Snu snu](https://files.catbox.moe/yo6pis.png) | A feral tiger cavewoman... Thing. She likes you and sees you as a potential mate. Wears quite skimpy clothes and has a toned body. 3 starters/greetings: You seek shelter from rain in her cave, she sneaks in your tent at night, she lives with you in your apartment. | [Card](https://files.catbox.moe/hy67ez.png) [JSON](https://files.catbox.moe/79fytl.json) [CHUB](https://www.chub.ai/characters/playalundra/haritora-0c9f73c3/)
 **Lotion Cat** | **875 Tokens (469 Permanent)**
 ![Cats, cats, we are the cats. Celebrating yet another birthday bash](https://files.catbox.moe/smxs1h.png) | Kekitopu's Lotion Cat. Playful, teasing, and you can penetrate her from any point of her body. Don't worry, she likes that. I got the idea to make this from [Kumo](https://www.chub.ai/users/kumo) who requested it on a server. There is another already in the chub but I didn't notice it as I made mine. Well, more the merrier I guess. Only one starter, gomen. | [Card](https://files.catbox.moe/62b6ke.png) [JSON](https://files.catbox.moe/stepz8.json) [CHUB](https://www.chub.ai/characters/playalundra/lotion-cat-e39d4457)
-**TPSP** | **1253 Total Tokens**
-![Spaceballs AU](https://files.catbox.moe/b90v9q.png) | Yarr! It's the fearsome Twin Planet Space Pirates! And they have captured you! They are a rough and wild group of... Oppai lolis!? Their leader Miranda is quite boastful and mischievous, AND has gigantic breasts. Andra is their quartermaster, a quiet and calculative girl with huge breasts. Shichu is the motherly cook of the group and has big breasts. And there are lots of other oppai lolis running around! They act(and are) like children, get 'drunk' from strawberry milk and might get on you. You meanwhile are forcibly hired to do all the cleaning and other boring adult stuff that children don't like. | [Card](https://files.catbox.moe/0z4643.png) [JSON](https://files.catbox.moe/blfzrv.json) [CHUB](https://www.chub.ai/characters/playalundra/twin-planet-space-pirates-47fb073c)
 
 
 
 ## Oppai Lolis
 
-**Oppai Lolis** | *They are short, are or look young, and have big boobas*  | Links here
+**Oppai Lolis** | *They are short, are or look young, and have big boobas. The fact I have a specific category for this is worrying.*  | Links here
 :----: | ------ | :----:
 **Ilulu**  | **556 Tokens (306 Permanent)** 
 ![But where is the lore?](https://files.catbox.moe/mdy0fe.png) | Ilulu paizuri rapes you in an alleyway. Completely off-character but is based on pre-Kobayashi friendship Ilulu. Lore nowhere to be found, it's just you and the rapist Dragon. Get ready for her to pin your arms above your head if using Claude, seems to have trouble with size difference and such. Also, I edited it to use less tokens tho I wonder if anyone has ever even used this card... | [Card](https://files.catbox.moe/46uoh2.png) [JSON](https://files.catbox.moe/ko2aea.json)
@@ -41,6 +41,9 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![What makes me a good Demogal? WELL IF I WERE A BAD DEMOGAL I WOULDN'T BE SITTING HERE, DISCUSSING IT WITH YA, NOW WOULD I!?](https://files.catbox.moe/nphwii.png) | Your 12 year old African-Scottish adoptive little sister who has a generous rack. You got more cards of Loch Ness in your Tavern than likes of her. Tavia is a demolition expert. Foul mouthed and bit smug little brat. Have fun with your [Demogal](https://www.youtube.com/watch?v=rBdQDGGNg8E) sister. | [Card](https://files.catbox.moe/2ixdb9.png) [JSON](https://files.catbox.moe/7r2syz.json) [CHUB](https://www.chub.ai/characters/playalundra/tavia-baa6701e)
 **Dina**  | **708 Tokens (431 Permanent)**
 ![M'lady, let me help carry those for you](https://files.catbox.moe/4ers4g.png)  | 44 year old woman who looks like a child but has gigantic sagging breasts. Yes, I am serious. Dina is an oppai-lolibaba and very motherly and mature. She is a bit flirtatious and teases you. There are 3 starters: You are a foreign exchange student in a nordic country where she is your host family, Your car breaks down and you take shelter in her lovely cottage, she is your aunt you haven't seen since childhood and you decide to visit her. I'll maybe add more starters later. | [Card](https://files.catbox.moe/ezw8ok.png) [JSON](https://files.catbox.moe/vdb6a9.json) [CHUB](https://www.chub.ai/characters/playalundra/dina-72d4a09e/)
+**TPSP** | **1253 Total Tokens**
+![Spaceballs AU](https://files.catbox.moe/b90v9q.png) | Yarr! It's the fearsome Twin Planet Space Pirates! And they have captured you! They are a rough and wild group of... Oppai lolis!? Their leader Miranda is quite boastful and mischievous, AND has gigantic breasts. Andra is their quartermaster, a quiet and calculative girl with huge breasts. Shichu is the motherly cook of the group and has big breasts. And there are lots of other oppai lolis running around! They act(and are) like children, get 'drunk' from strawberry milk and might get on you. You meanwhile are forcibly hired to do all the cleaning and other boring adult stuff that children don't like. | [Card](https://files.catbox.moe/0z4643.png) [JSON](https://files.catbox.moe/blfzrv.json) [CHUB](https://www.chub.ai/characters/playalundra/twin-planet-space-pirates-47fb073c)
+
 
 ## MISC
 

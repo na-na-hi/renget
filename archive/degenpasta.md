@@ -8,6 +8,7 @@ https://rentry.org/voldy
 >>> Local install <<<
 Automatic1111: https://github.com/automatic1111/stable-diffusion-webui
 ComfyUI (Node-based): https://rentry.org/comfyui
+Mac: http://drawthings.ai (settings: all compute units, enable metal flash)
 
 >>> Models/Embeddings/Characters/Celebs/Prompts/fetish content <<<
 https://civitai.com

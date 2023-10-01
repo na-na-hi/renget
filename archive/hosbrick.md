@@ -59,4 +59,4 @@ ATK  **62 (v3) > 59 (v3b).** During non-Burst Mode state, after using weapon act
 When using Ultimate, self Physical DMG +35%, Crit DMG **+35% (v2) > 30% (v3)** for 1s, Trigger interval **10s(v3) > 8s(v3b)**. 
 
 3PC SET
-Crit DMG +15%. After consuming 60/120 sp at once, self Physical DMG +20%/45% for 15s, can be refreshed. **When there is only one valk in the team, Crit Rate +20%.**
+Crit DMG +15%. After consuming 60/120 sp at once, self Physical DMG +20%/45% for 15s, can be refreshed. **When there is only one valk in the team, Crit Rate +20%.(v3b)**

@@ -794,7 +794,7 @@ After a long, busy day at the aquarium, Inigo and Hoge settled tiredly within he
 
 "We have school tomorrow," Hoge deadpans and thumps Inigo’s thigh with her fist. 
 
-Inigo smirks, "Nope. We're quiting hero school to become a seal feeder. You wanna run away with me?" he can feel Hoge’s giggles from where her head is resting on his stomach but she pointedly doesn’t answer.
+Inigo smirks, "Nope. We're quiting hero school to become seal feeder. You wanna run away with me?" he can feel Hoge’s giggles from where her head is resting on his stomach but she pointedly doesn’t answer.
 
 Inigo stops carding his fingers through her hair to poke her cheek. “Okay okay but before I go, we need to make a choice,” he teases, his smile evident in his voice. Inigo sits up and twists to reach over the side of the bed. Hoge groans when he jostles her head. Inigo rummages around, huffing, until he finally snags what he’s looking for with a triumphant, “Aha!” and flops back onto the bed.
 

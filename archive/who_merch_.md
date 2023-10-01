@@ -24,9 +24,6 @@ JP: https://www.amazon.co.jp/dp/B0CHVPZNWW
 UK: https://www.amazon.co.uk/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVPVWZB
 
 >**HoloSummer**
-Splash Party Online Concert 
-**Streaming ticket** \*Mumei is only on Day 1 (Sunshine)
-free archive on [youtube](https://www.youtube.com/watch?v=GBxt2fq_Zek) avalible until 27th Sept. JST
 **Merch**
 Acrylic Stands (Yukata) 
 https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh

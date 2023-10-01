@@ -7,12 +7,9 @@ Ouu... I can't emphasise the importance of ***steering*** enough—It can't be t
 
 ***Other guide: [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide)***
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8ANIDE) *by pume*
-
 - | My personal presets:
 ------ | ------
-Clio   | [Truthfully v5 for Clio.](https://cdn.discordapp.com/attachments/340132496949772289/1135749481258823710/Truthfully-5-clio_pume.preset)
-Kayra   | [Truthfully v7 for Kayra.](https://cdn.discordapp.com/attachments/340132496949772289/1143178173320798378/Truthfully-7-kayra_pume.preset)
+Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
 Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
 | *(Enabling Dynamic Range will break the preset.)*
 
@@ -87,12 +84,3 @@ Some people are confused about what it does, or have a completely wrong idea—B
 
 Each preset has its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.  
 See default presets or get a custom preset from [#content-sharing](https://discord.gg/novelai).
-
-***
-
--> [By pume_!](https://www.reddit.com/u/pumegaming/) check out my: <-
--> • [memory guide](https://rentry.org/memory-guide) <-
--> • [lorebook guide](https://rentry.org/lorebook-guide)<-
--> • [modules](https://rentry.org/pume-modules) <-
--> • [ao3 datasetting](https://pume-p.github.io/ao3-datasetting/) <-
--> • [tip me at ko-fi](https://ko-fi.com/pume_cat) <-

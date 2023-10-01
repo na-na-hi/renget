@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Helga](https://files.catbox.moe/2qahjx.png)|[Helga](https://files.catbox.moe/2qahjx.png) [MV]
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Leah](https://files.catbox.moe/s7i2yr.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Wendy](https://files.catbox.moe/ccv1gy.png), [Mara](https://files.catbox.moe/zv0hrj.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Erika](https://files.catbox.moe/q76824.png)|[Prince Lawrence](https://files.catbox.moe/k87xcg.png)
 [Chefseru](https://rentry.org/chefseru) | Misc |[June](https://files.catbox.moe/wclc44.png), [Amos](https://files.catbox.moe/118kjk.png)|
@@ -56,8 +58,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
