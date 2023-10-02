@@ -328,3 +328,143 @@ That’s not surprising. Being used day in and day out in all sorts of experimen
 >you're the first person he runs into that actively tries to help him and offers him any kind of shelter and kindness.
 
 ---
+Whiff by anonymous
+
+>wolf roommate when he catch a whiff of your masturbation session
+
+*SNIFFSNIFFSNIFFSNIFFSNIFFSNIFFSNIFFSNIFF*
+...
+*SNIIIIIIIIIIFFFFFFFFFFFFFF*
+
+was stopped by my wolf roommate in the morning on my way out to work
+
+>"Woah Anon, wait up!" he yells from the living area
+>He's lounging on the couch watching TV in his pajama bottoms, not having to work until noon.
+>lucky bastard
+>I stop my hurried rush out the door to face him
+>he peeks over the back of the couch at me and pauses for a moment to contemplate his next words
+>"Y-you know I'm always here for you right?" he asks after a short silence
+>"Uh, yeah? I know you got my back dude" I reply
+>he looks up and away in thought
+>then turns his eyes back to me
+>"No, like, if you ever need anything. You know you can ask me, right?" he elaborates
+>"Yeah, I know man. You've been the perfect roommate, I appreciate it" I tell him
+>"No! No no no no no, I mean, if you ever need ANYTHING. You know you can ask me?" he reiterates, a tiny bit of frustration creeping into his voice
+>at this point I was already late for work
+>"YES, bro I get it. Look I'll see you after work, I'll cover rent this month if that's what you're getting at. Talk to you later" I shout to him on my way out the door.
+>could hear him whining to himself as I left
+
+Okay, but genuinely. What did he mean by this? Been thinking about it ever since and I'm getting off shift in an hour
+
+He just wants to help you satisfy your own needs like a true bro.
+
+Does he need to spell it out for you? He wants you to breed him you bozo.
+
+What are you talking about? we're just really good friends
+
+Sometimes really good friends share personal things and do intimate things together that really isn't that strange.
+
+Canid anthros can get a bit neurotic when they aren't living in a family/pack unit. For one, they get clingy, especially when left home alone. And they get very insecure without regular physical and verbal reassurance of their place in the pack.
+
+If you're his sole roommate, he's probably viewing you as his "pack" surrogate and is craving your approval and affection. But he knows you're not a canid, so he's too shy to ask for it outright. If you want to calm him down, give him some physical affection by regularly rubbing his belly and neck when the two of you are hanging out. Telling him that he's a "good boy" or giving him other pet names will help a lot too -- but play it off as ironic banter to avoid embarrassing him too much.
+
+P.S. if you're leaving him alone at home for extended periods, you've probably noticed your clothes going missing, right? Check his room. He's probably "borrowing" them to calm himself down with a familiar scent.
+
+This explains so much, thanks for the actual answer
+
+Always didn't know what to make of his "us against the world" and "wolves bond for life" tangents when he gets drunk. Also just a few socks missing but I think those are just getting lost in laundry
+
+UPDATE:
+
+>Just got back from work
+>roommate greets me at the door, tail wagging like he usually does
+>asks me if I'd be down for a movie night
+>hell yeah always done for movie night with the bros
+>break out the alcohol while he went to go grab a DVD from his room
+>puts on this weird fantasy movie about some wolf warrior
+>special effects look pretty bad for fantasy, and the story kinda sucks if I'm being brutally honest
+>but now the wolf warrior is getting a little handsy with some human squire on-screen
+>and I'm getting a little worried about the X rating that popped up on screen earlier, I thought it was a studio logo or something
+>roommate keeps shooting weird prolonged glances at me in between drinks
+
+Am I supposed to pet him now?
+
+Watching bad movies is a good pastime, and a good opportunity to break the ice on petting him. If it's the first time you've pet him, he might be surprised and act a bit weird about it. Just play it casual and nonchalant, act like it's no big deal, and he'll relax and let it happen.
+
+By petting him, you're signalling that you've accepted him as "pack" -- and keep in mind that because you're the one who initiated (since he was too shy to do so), you're establishing a dominant position over him. Don't worry if he acts shy or submissive, that's just him signalling his acceptance of the role. You can also make him more comfortable by undressing him a bit -- not fully, just pull his shirt off to signal that it's okay for him to relax around you, since pack members don't usually have much modesty around each other.
+
+>do I pet him now?
+Yes. Word of advice, grope his butt or chest. Canine anthros LOVE when you do that. Don’t worry, it’s not a sexual thing for them, they just really like being touched there.
+
+Heavy petting
+
+---
+Anthro WArlord by anonymous
+
+>An EVIL anthro warlord has been besieging your town, with everybody trapped inside the town's walls as he razes the crops and desecrates the land around it
+>Finally he offers to call off his attack, but only if he receives something he desires in turn
+>(You)
+
+I have so many EVIL "I can fix him" fantasy character ideas I want to write about. Might as well get some practice out
+
+>you personally never hated beast-bloods
+>you chalk it up to growing up in a small farming village, far away from the zealous teachings of the human purist preachers
+>hell, your best childhood friend was a wolfman
+>you remember spending countless days from dawn to dusk playing in the woods with him
+>games of tag, catch, play fighting with sticks in substitute of swords. Even his favorite 'predator/prey' game he loved so much
+>he never let you be the 'predator' but you still believed in a bright future for both beast-blood and man, working together
+>now you're a grown man, and your opinion on the matter has changed
+>you reminisce about that young wolf that used to regal you with passionate rants of his lofty ambitions
+>as you stand atop the recently constructed palisade and watch your former homestead burn into the night
+>orange embers rise lazily from the distant burning structure, the light of the fire reflecting off hundreds of pairs of shimmering green eyes in the darkness beyond the wall
+>you wish you could've taken more with you, but when word arrives that a raiding party was marching towards your town. You didn't have much time to cart belongings behind the wall
+>Damn the king! To kill and skin a princely son of the beast-blood empire over some perceived slight
+>now the serfs and peasantry were going to pay for it
+>you stare out at the plumes of smoke rising into the night sky beyond the mass of furred bodies moving into coordinated positions in the darkness
+>you try to show no fear, but you know you're humble town stands no chance against the well equipped raiders.
+>All you had was the hastily constructed wooden wall you stand atop and a lousy drunkard as the captain of your town guard as your only defense against well trained armored warriors
+>thankfully no one has been hurt yet, the guard was quick to usher everyone into the small circle of wooden fortifications
+>but the mood is dower, women and children wail in grief and panic
+>most men have a stiff, doomed expression on their face
+>and you, like most, are trying to mentally prepare yourself for the slaughter you are sure will come
+>until the form of a guard suddenly rushes up to you, you hear the clinking of his armor and weapons long before he materializes out of the blackness of the night
+>"Anon, correct? Captain Thorne would like to speak with you sir." he states matter-of-factly
+>you're caught off guard. The captain? He must be assembling men to prepare a final stand
+>"Very well, I shall follow. My lord" you give a polite reply, despite the twisting feeling in your guts
+>you withhold any questions during your walk
+>even as you pass by the small row of tents made as hasty barracks for the few trained guards, and continue towards the palisade gate
+>you walk past a small platoon of guards watching the main entrance
+>confusion mounts as you're ushered through a small side door next to the main gate
+>your heart pounds harder in your chest at the thought of being caught outside the walls but you follow along with the escorting guard
+>as you cross through the barrier separating you from the blood-thirsty horde outside you see the captain conversing with two mounted wolfmen, his weapon sheathed
+>one of the wolfmen is much better equipped than the other, with frills and other decorations hanging off his ornate heavy armor
+>he also looks strikingly familiar...
+>the whole trio turns to face you as you approach with your escort
+>the familiar wolf's tail begins to wag
+>what have you gotten yourself into?
+>Captain Thorne opens his mouth to greet you as you approach
+>but he is beaten out by the imposing wolf behind him
+>"What are you still doing here? Among this rabble..." the heavily armored wolf addresses you, but sounds more like he's speaking to himself
+>you are unsure how to respond
+>you're still scared out of your mind, being face to face with the death that was knocking outside the palisade gates
+>the armored wolf turns his attention back to the captain
+>"Yes, this is the one. Bring him over and our arrangement is sealed" he speaks plainly
+>Captain Thorne simply motions to your escort
+>a gauntleted hand suddenly wraps around your arm
+>What?! They were giving you over?!
+>Oh gods, they saw you up on the wall and now they're going to tear you apart as some sick tribute!
+>that bastard Thorne selling you out to save his own ass!
+>you hurl an assortment of colorful insults toward the captain as you're dragged forward
+>and thrown at the hooves of the beast-blood's mounts
+>you scramble to your feet and prepare to dash back to safety
+>only to find your path blocked by the commanding wolf's mount, trotting forward
+>you fearfully look up into the wolf's face and...
+>wait, you know him
+>"Orin?" you ask, the features of the young wolf you once knew coming clear in the dim torchlight
+>"Come Anon, your presence alone saves this night. I will bring you somewhere more... suitable" he speaks, in a voice much deeper than the one you remember
+>you doubt his words as you glance to the predatory eyes just outside the palisades torchlight
+>you return your vision to your friend
+>his eyes almost glow in the light with a fiery determination
+>he holds his clawed gauntlet out to you
+
+---

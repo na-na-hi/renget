@@ -929,6 +929,7 @@ Page 1
 >No Second Trigger Unlimited Shard Works
 >Characters with Worst Day Ever x 3 + Humble Beginnings do not survive the first day
 >Characters with Worst Day Ever x 2 + Humble Beginnings can survive the first day if they take a superpowered Follower or Budding Shard.
+https://rentry.org/worm3mp (pw: wormintime)
 ```
 
 ***

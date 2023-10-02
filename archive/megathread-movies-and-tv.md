@@ -29,10 +29,6 @@
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
 - [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)
 
-### 🔗 [BollyMaza](https://ww1.bollymaza.click/)
-- Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
-- [URL Safety Results](https://www.urlvoid.com/scan/bollymaza.click/)
-
 ### 🔗 [Cinema of the World](https://worldscinema.org/)
 - Extensive collection of arthouse. International cult, classic, experimental, and rare film releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/worldscinema.org/)

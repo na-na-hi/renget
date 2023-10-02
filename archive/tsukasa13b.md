@@ -1,8 +1,8 @@
 # tsukasa
 
-!!! warn agnai prompts were wrong and didnt follow how the dataset was formatted, i just noticed now as of 9/21 so u should update ur settings :P
+!!! note new mistral 7b tune is out https://huggingface.co/ludis/tsukasa-7b-lora
 
-!!! note now with a log paste! https://rentry.org/tsukasa13blogs
+log paste! https://rentry.org/tsukasa13blogs
 
 ![fox](https://feen.us/u125a2.gif)
 

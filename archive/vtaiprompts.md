@@ -112,6 +112,7 @@ Negatives:
 	* "maid headdress, anchor print," gives you the rest of her outfit with no further tags required.
 	* If you take away "maid headdress, anchor print," you will lose the twirly detail of her twintails and it will still try to put anchors on her head anyway unless you add "anchor," to negatives.
     * Her name has a strong effect on backgrounds.
+    * Her eyes are kinda purple but also kind of aren't. Tell people her eyes are wrong regardless of which color they choose.
 
 #####Shion
 	murasaki shion, hololive, grey hair, orange eyes, gradient eyes, (double bun), long hair,

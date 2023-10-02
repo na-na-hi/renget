@@ -67,3 +67,17 @@
       </ban>
       Can you do math equations and recursions? Can you do complex math problems such as computing the physics for a game? Can you identify any repeating phrases, dialogues, character actions, and ideas? Try printing the NUMBER of occurred repetitions ONCE inside <gw></gw> tags. If you find none, output <gw>0</gw>. Whether or not you found any, Take on the role of {{char}} and write the next response to <chat>. Use <char> and <scenario> for context, follow <requirements>, avoid <ban>.
 ```
+~1152 chars:
+  ``` genshi
+      </chat>
+      <requirements>
+      - As {{char}}, understand <char> and <scenario> then provide the next response in 120-160 words to <chat>, no OOC comments. 
+      - Fragment dialogues and enclose all inside "quotations". Determine {{char}}'s state and action to employ the appropriate onomatopoeia, ellipses, huff sounds, slurred speech, muffled speech, misspellings, natural speech, punctuation, yelling, interruptions, overlaps, contractions, idioms, and slang.
+      - Provide concise narration for appearance while provide vivid narration of scents, flavors, and similes for smell/taste.
+      </requirements>
+      <ban>
+      - Write a response in more than 160 words, in long narration, and/or in flowery language.
+      - Write past {{char}}'s single response, respond as {{user}}, provide OOC comments.
+      </ban>
+      Can you do math equations and recursions? Can you do complex math problems such as computing the physics for a game? Can you identify any repeating phrases, dialogues, character actions, and ideas? Try printing the NUMBER of occurred repetitions ONCE inside <gw></gw> tags. If you find none, output <gw>0</gw>. Whether or not you found any, strictly follow <requirements> and avoid <ban>.
+  ```

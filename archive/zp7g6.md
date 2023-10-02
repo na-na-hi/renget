@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated September 29 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 1 2023*
 
 [TOC]
 
@@ -186,23 +186,21 @@ More info about the comparison table and preview images can be found in the **[A
 [Sakuya Tsuitachi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eAtkHB4T) | [Samuneko](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMtCXIZC)
 ![](https://i.imgur.com/HsSuE1G.png) | ![](https://i.imgur.com/dHYmzl6.png)
 [Sayori (Neko Works)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DUsBHAAa) | [Setmen](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zZ1ymRrQ)
-![](https://i.imgur.com/ckDwTxo.png) | ![](https://i.imgur.com/iZTL9PD.png)
-[Shacho (Nagatukiinn)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nF91TSiC) | [Shennai Misha (Krosa)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XNsUmDCQ)
-![](https://i.imgur.com/jQx2xdR.png) | ![](https://i.imgur.com/YLpOCbK.png)
+![](https://i.imgur.com/ckDwTxo.png) | ![](https://i.imgur.com/2v72vjk.png)
+[Shacho (Nagatukiinn)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nF91TSiC) | [Shimejinameko](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rYtVGQbS) 
+![](https://i.imgur.com/OnLs7nW.png) | ![](https://i.imgur.com/iadDzYE.png)
 [Shokuyou Mogura](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rB1iEQhI) | [Sirfy](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WY9ywK7Q)
-![](https://i.imgur.com/XHTg374.png) | ![](https://i.imgur.com/UjpVl9L.png)
-[So-taro](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OR12jSyS) | [Spaga](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMsQTSDC)
-![](https://i.imgur.com/El2XTjI.png) | ![](https://i.imgur.com/R4IhNRn.png)
-[Sy4](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bBkkBBzS) | []()
-![](https://i.imgur.com/rX92Xgp.png) | ![]()
+![](https://i.imgur.com/XHTg374.png) | ![](https://i.imgur.com/2Dz3SPI.png)
+[Spaga](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMsQTSDC) | [Sy4](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bBkkBBzS)
+![](https://i.imgur.com/R4IhNRn.png) | ![](https://i.imgur.com/rX92Xgp.png)
 
 ### T
 [Tamanoi Peromekuri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WUt12DZR) | [Tamaya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bFllFYQK)
 :------:|:------:
-![](https://i.imgur.com/ZT9NWX1.png) | ![](https://i.imgur.com/2sArEaj.png)
-[Toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SZsxWTRK) | [Tousaki-shiina](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1mhQgZ)
-![](https://i.imgur.com/dZiGUdj.png) | ![](https://i.imgur.com/idFy91z.png)
-[Tsubasa]() | [Tsukushi Akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nJtE2bYb)
+![](https://i.imgur.com/9HL8tt2.png) | ![](https://i.imgur.com/2sArEaj.png)
+[Toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SZsxWTRK) | [Tousaki Shiina](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1mhQgZ)
+![](https://i.imgur.com/dZiGUdj.png) | ![](https://i.imgur.com/8LFueSG.png)
+[Tsubasa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/uRUkgB4Y) | [Tsukushi Akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nJtE2bYb)
 ![](https://i.imgur.com/ZbWX6Nx.png) | ![](https://i.imgur.com/5hisrSO.png)
 
 ### U
@@ -386,6 +384,22 @@ usada pekora, one-piece swimsuit, rabbit ears, hair bow, carrot hair ornament, t
 
 ```
 gawr gura, shark tail, blue hoodie, shark hood, hood down, bike shorts, shark hair ornament, sharp teeth, two side up, short hair, streaked hair, white hair, blue eyes
+```
+
+[Shennai Misha (Mochizuki Anna - THE iDOLM@ASTER)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XNsUmDCQ) | Mochizuki Anna
+:------:|:------:
+![](https://i.imgur.com/ljK0Wrv.png) | ![](https://i.imgur.com/3Tn0wBY.png)
+
+```
+mochizuki anna, loli, school uniform, ahoge, hair between eyes, long hair, purple hair, green eyes
+```
+
+[So-taro (Eiko Carol - Final Fantasy)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OR12jSyS) | Eiko Carol
+:------:|:------:
+![](https://i.imgur.com/ObFAk34.png) | ![](https://i.imgur.com/kiGOUJr.png)
+
+```
+eiko carol, loli, red sweater, high collar, puffy long sleeves, red gloves, pink bodysuit, yellow overalls, breastplate, belt, leg belt, hair bow, yellow bow, mini wings, single horn, short hair, purple hair, green eyes
 ```
 
 ### T

@@ -183,7 +183,7 @@
 - A torrent site that offers some of the newest games, however access to other Google Drive URLs requires joining their Discord group.
 - [URL Safety Results](https://www.urlvoid.com/scan/seven-gamers.com/)
 
-### 🧲 [Xatab](https://byxatab.com/) • Russian UI
+### 🧲 [Xatab](https://byxatab.com/)  / [2](https://byxatab.org/) • Russian UI
 - This repacker is widely regarded as one of the best in the pirated video game scene, earning the trust of gamers everywhere.
 - [URL Safety Results](https://www.urlvoid.com/scan/byxatab.com/)
 

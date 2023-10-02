@@ -6,6 +6,16 @@ https://files.catbox.moe/c58cn6.ipynb
 "Mythomax-5bit on exllama2, it should be a noticeable improvement over 4bit GPTQ in terms of speed and quality
 Exllama2 supports better prompt caching, swiping on the same prompt will be faster than exllama1"
 
+###### Mistral-7b
+very promising 7b model that matches or outperforms 13b models for ERP, with faster output since its 7b. 
+requires more regenerations, but its writing has a lot of soul 
+https://mistral.ai/news/announcing-mistral-7b/
+https://files.catbox.moe/vk4hmw.ipynb
+Recommended system prompt for Mistral:
+```
+### System:\n Elaborate on the topic using a Tree of Thoughts and backtrack when necessary to construct a clear, cohesive Chain of Thought reasoning. Play the role of {{char}}. Be extremely descriptive and immersive. Do not write dialogues for {{user}}.\n\n
+```
+
 ###### GGML/GGUF
 run local GGML/GGUF models (potentially better quantization/quality than GPTQ)  with koboldcpp
 https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb

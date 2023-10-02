@@ -89,9 +89,9 @@
 - Following the closing of the original 4anime, this is incredibly fast reskinned alternative where you can view anime and shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/4anime.gg/)
 
-### ▶️ [AllAnime](https://allanime.to/)
+### ▶️ [AllAnime](https://allanime.co/)
 - A trustworthy resource, scraping numerous different websites with various options.
-- [URL Safety Results](https://www.urlvoid.com/scan/allanime.to/)
+- [URL Safety Results](https://www.urlvoid.com/scan/allanime.co/)
 
 ### ▶️ [AniKatsu](https://anikatsu.me/)
 - Free site that allows you to watch anime and even get episodes with dubs or subtitles without having to register.

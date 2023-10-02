@@ -43,10 +43,10 @@
 
 ***
 
-### Latest boy: Orin
-"A cute, oblivious shota with his young body nearly on full display." ==NSFW==
-Card: [Orin](https://files.catbox.moe/ludduf.png)
-JSON: [Orin](https://files.catbox.moe/if29u2.json)
+### Latest boy: Eli
+"Your tsundere shota maid with a soft, insecure side that starkly contrasts his usual rude attitude." ==NSFW==
+Card: [Eli](https://files.catbox.moe/4g0ifd.png)
+JSON: [Eli](https://files.catbox.moe/ggucek.json)
 
 Or download his card/JSON file below!
 
@@ -100,6 +100,7 @@ Card | JSON Link | Description | Rating
 ![Atlas](https://files.catbox.moe/7iaffv.png)   | [Atlas](https://files.catbox.moe/uenpwc.json)   | "An adventurous, stubborn, clumsy, and optimistic young boy in a fantasy world."   | ==Safe==
 ![Atlas](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)   | [Ilya](https://files.catbox.moe/895n8n.json)   | "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house."   | ==Safe==
 ![Orin](https://files.catbox.moe/ludduf.png)   | [Orin](https://files.catbox.moe/if29u2.json)   | "A cute, oblivious shota with his young body nearly on full display."   | ==NSFW==
+![Eli](https://files.catbox.moe/4g0ifd.png)   | [Eli](https://files.catbox.moe/ggucek.json)   | "Your tsundere shota maid with a soft, insecure side that starkly contrasts his usual rude attitude."   | ==NSFW==
 
 ***
 ###Suggest Stuff!
