@@ -475,7 +475,7 @@ https://rentry.org/o2f25
 Page 8
 ***
 ```
-Writefags (final)
+Writefags (cont.)
 >The Pencil (Ryu-kishi, Maru(maru), Mirror Devil)
 https://rentry.org/sdtvh
 >Hitomi-chan's First Date (Feral, Drekus, Reaper)
@@ -510,7 +510,13 @@ https://rentry.org/ewwu9
 https://rentry.org/b2mhn
 >Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force)
 https://rentry.org/xxk2h
->Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Christopher, Challenger, Ryu-kishi, Drone, Reaper)
+```
+***
+Page 9
+***
+```
+Writefags (final)
+>Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
 https://rentry.org/e7cszt
 
 >RELATIONSHIP CHARTS IN HERE
@@ -518,8 +524,6 @@ https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the controlc
 ```
-
-!!! note [By the way, I cut out a page of writefags preemptively since the 9th page was at 1955 characters. The next writefag was going to spill over].
 
 # Naruto (Second Reboot)
 ***
@@ -549,6 +553,7 @@ Hakumo Ikari, "Kitsune Vixen" >>90347774
 Kurumi Yamagumo, "Prideful Puppeteer" >>90359191 
 Amami Kai, "The Tide" >>90371161 
 Mutsuo Aburame "Bug Guy" >>90410708
+Goro Tsuchigumo "Suspiciously Canon" >>90417999
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90337143 
 >C-Rank:
@@ -576,6 +581,20 @@ https://rentry.org/x65cgs
 https://rentry.org/u4q5i
 >Pride of the Tengu (Yumiko)
 https://rentry.org/6ur3e
+>The Shadow Looming Over the Leaf
+https://pastebin.com/gKbDnkfk
+```
+
+***
+Page 2
+***
+```
+>Relationship Charts
+>Ray
+https://rentry.org/u6xdh
+>Yumiko
+https://rentry.org/cbqwo3
+
 ```
 
 #Heroes of the Wastes (HOTW)
@@ -1013,6 +1032,10 @@ Material Girl
 https://rentry.org/bttmt 
 Arsenal Fight
 https://rentry.org/ArsenalFight
+Courtesy Call (Chimera)
+https://rentry.org/aq4v6
+Weight of Reality (Triumph, mentions of others)
+ https://rentry.org/WeightOfReality 
 ```
 ***
 Page 3

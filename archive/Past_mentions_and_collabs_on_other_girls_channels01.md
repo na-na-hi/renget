@@ -1,6 +1,6 @@
-!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)The Lover of Idols - Collabs on other holomems channels & mentions![Image description](https://files.catbox.moe/f9inkg.png) <-
+# ->![Image description](https://files.catbox.moe/f9inkg.png) The Lover of Idols - Collabs on other holomems channels & mentions ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-    This is a list of collabs, complementary POVs and cameos done by Nerissa in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
+!!!info   This is a list of collabs, complementary POVs and cameos done by Nerissa in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 [Go To The Lover of Idols I - Collabs on Nerissa's channel page](https://rentry.org/Collabs_on_Nerissa_s_channels01)
@@ -12,7 +12,7 @@
 	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels/#september-2023)
 
 !!!note -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on other holomems channels & mentions in 2023 (sorted by year and by branch)](https://rentry.org/Collabs_on_Nerissa_s_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
-	[TOC]
+	[TOC2]
 ### ![Image description](https://files.catbox.moe/f9inkg.png) EN
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Myth
 ###### 💀 Mori
@@ -137,6 +137,11 @@
 |---|---|---|
 |27/08/2023|[Timestamp #1](https://youtu.be/xjq_nIonh5M?t=14166) [Timestamp #2](https://youtu.be/xjq_nIonh5M?t=14840)| **Streamer-chat Interactions** - Follow-up of their interaction during the second SOS stream this time on Reimu's channel at the end of her RE:Village stream. Both were bantering about Village and Silent Hill.|
 
+###### 🍙 OniGiri 
+|Date|Link|Nature & Notes|
+|---|---|---|
+|25/09/2023|[Link](https://www.twitch.tv/videos/1934748619?t=01h58m48s) | **Collab** - Nerissa's first collab outside of Hololive. She has picked out a dish that OniGiri is to prepare. OniGiri is given only the ingredient list beforehand and does not recognize the dish solely from it. They have a ~30m chat before the start of the cooking, and then continue chatting all throughout the collab. The dish in the end is revealed to be one of Nerissa's childhood favorites, **Tater Tot Hotdish**.|
+
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->
 
 ---
@@ -161,7 +166,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |26/08/2023|[Timestamp](https://youtu.be/6m2nKFtgrTc?t=5590)| **Mention & invitation** - Possible invitation for a JP learning stream during A Minecraft stream|
-|20/09/2023|Placeholder| **Collab** - Possible JP learning stream|
+|20/09/2023|[Link](https://www.youtube.com/watch?v=IceFBtayDQI)| **Collab** - JP learning stream|
 
 ###### 🧪 Koyori
 |Date|Link|Nature & Notes|

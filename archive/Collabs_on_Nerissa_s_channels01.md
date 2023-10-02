@@ -1,5 +1,6 @@
-!!!info ->  ![Image description](https://files.catbox.moe/f9inkg.png) Lover of Idols I - Collabs on Nerissa's channels  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-	Pretty simple - this a a list storing all the collab that Nerissa took part of, be it your average 1on1, a group collab or even megacollabs. This list will strictly focus on whatever she posted a POV for these specific collabs - the alternative POV will also be posted. This list was created a month after the original Lover of Idols page but was created in order to unclogged the original page as too much informations could potentially be a nuisance to the overall presentation. It does not act as it's own annex. 
+# ->  ![Image description](https://files.catbox.moe/f9inkg.png) Lover of Idols I - Collabs on Nerissa's channels  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+!!!info 	Pretty simple - this a a list storing all the collab that Nerissa took part of, be it your average 1on1, a group collab or even megacollabs. This list will strictly focus on whatever she posted a POV for these specific collabs - the alternative POV will also be posted. This list was created a month after the original Lover of Idols page but was created in order to unclogged the original page as too much informations could potentially be a nuisance to the overall presentation. It does not act as it's own annex. 
 	The overall presentation will be quite simple as it will also be sorted by monthly and yearly once we reach a certain critical point - that would be Nerissa's debut anniversary.
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center)

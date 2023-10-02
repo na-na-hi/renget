@@ -65,6 +65,12 @@ Since nothing was actually installed, updating PriconeTL is as simple as replaci
 
 Start the game from DMM and you should be on the most recent version of PriconeTL.
 
+##Updating via Tool
+
+If you are brave enough to execute random software, here is an installer for the patch that can do installations and updates automatically:
+[PriConSInatter](https://github.com/tynave/PriconneReTL-Installer)
+I only tested the update feature myself, no idea if the first time installation works.
+
 ##PriCon Directory
 
 Not exactly related to the translation topics, but I saw the issue popping up a couple times with no solution described in the other resources yet.
@@ -82,7 +88,8 @@ DMM seems to always put most of the data on drive C:, around 9GB on a fresh inst
 -> ![](https://i.imgur.com/FhNe1PB.png) <-
 
 *Changelog:*
-*Last Update 2023-06-06, Swapped out Links for a more recent version of Sugoi
+*Last Update 2023-10-01, Added the UpdateTool Section
+2023-06-06, Swapped out Links for a more recent version of Sugoi
 2023-06-05, Cleaned up the info regarding Sugoi, now that some of it is included in the patch by default
 2023-05-25, Translator can no longer be changed on the fly with Alt+0
 2023-04-06, Added Update Section for PriconeTL

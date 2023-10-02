@@ -325,11 +325,12 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 	* [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4) *Not on Table*
 	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) *Not on Table*
-* Maxi the Trubbish*
+* Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
 	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 	* [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off) *Not on Table*
+	* [The Trash Bag and The Food Thief](https://rentry.org/2y9ab) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -564,6 +565,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 * {||} [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4)
 * {||} [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2)
+* {||} [The Trash Bag and The Food Thief](https://rentry.org/2y9ab)
 * {||} [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)

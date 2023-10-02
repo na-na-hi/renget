@@ -1,11 +1,12 @@
-!!! info -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Demonry of Sound**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-    Pretty self-explanatory, this is the repository for the karaokes and songs that will be uploaded or released  in the future. Future placeholders will also be put there. You can click on the thumbnails to access the videos and magnets / MEGA.
+# -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Demonry of Sound**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+!!! info   Pretty self-explanatory, this is the repository for the karaokes and songs that will be uploaded or released  in the future. Future placeholders will also be put there. You can click on the thumbnails to access the videos and magnets / MEGA.
 	The way the thread will organize it as far as the presence of unarchived karaokes in the OP goes, we will set a '24 Hours +1 edition' rule.
 
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 
-!!! note  [TOC]
+!!! note  [TOC2]
 #### ![Image description](https://files.catbox.moe/f9inkg.png) Songs section
 #####Covers
 **Playlist**: https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM

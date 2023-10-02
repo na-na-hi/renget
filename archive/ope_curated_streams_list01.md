@@ -1,10 +1,11 @@
-!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)  **/ope/'s Curated List for streams**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-    This is a curate list of streams made with the collective effort of the Jailbirds from /ope/ after polling the general. The reason of why Jailbirds fell sticked to is multiple: the premises, the interactions with the other holomems, her voice, the dorkiness, the general calmness during the solo streams or the element of fun added during collabs and of course, a big part of the experience is watching her grow and improve over time. This is the reason why this list for the most recommended streams to watch was made for the coming new jailbirds - in order to fully appreciate the evolution of Nerissa from the 'Demon of Sound and Lover of Idol' to a full-pledge idol. 
+# -> ![Image description](https://files.catbox.moe/f9inkg.png)  **/ope/'s Curated List for streams**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+!!!info     This is a curate list of streams made with the collective effort of the Jailbirds from /ope/ after polling the general. The reason of why Jailbirds fell sticked to is multiple: the premises, the interactions with the other holomems, her voice, the dorkiness, the general calmness during the solo streams or the element of fun added during collabs and of course, a big part of the experience is watching her grow and improve over time. This is the reason why this list for the most recommended streams to watch was made for the coming new jailbirds - in order to fully appreciate the evolution of Nerissa from the 'Demon of Sound and Lover of Idol' to a full-pledge idol. 
 
 	You can click on the thumbnails to access the stream or the magnet in the cases of the recommanded karaokes section.
 ______________________________
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
-!!! note [TOC]
+!!! note [TOC2]
 
 ### ![Image description](https://files.catbox.moe/f9inkg.png) Her debut
 -----------------

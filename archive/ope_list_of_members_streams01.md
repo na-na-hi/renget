@@ -1,5 +1,6 @@
-!!!info -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Jailbirds House**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-    Behind the cryptic name is in fact a page of the general information for the membership content by Nerissa. The membership content list was created preventively as the possibility of more people joining the Jailbirds ranks in the future and that might be interested in supporting Nerissa in her projects via joining her membership. We'll provide a list and details for the membership in this page and just for the sake of it, we'll just say that the membership streams will contain Zatsudan parts - so read the disclaimer of the Zatsudan parts - we know there will be questions about this eventually. The current level of production for Members content is still unknown but we'll get there once we'll get more informations.
+# -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Jailbirds House**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+!!!info     Behind the cryptic name is in fact a page of the general information for the membership content by Nerissa. The membership content list was created preventively as the possibility of more people joining the Jailbirds ranks in the future and that might be interested in supporting Nerissa in her projects via joining her membership. We'll provide a list and details for the membership in this page and just for the sake of it, we'll just say that the membership streams will contain Zatsudan parts - so read the disclaimer of the Zatsudan parts - we know there will be questions about this eventually. The current level of production for Members content is still unknown but we'll get there once we'll get more informations.
 	Another word of warning: we're not planning to store nor making a list of any posts from the members section. Any screenshot of member posts is also excluded, that would be unfair for anyone that spent the minimum effort for supporting Nerissa and it's not highly regarded either.
 
 ![Image description](https://files.catbox.moe/f9inkg.png)  ** *Disclamer regarding member zatsus or zatsudan parts* **
@@ -10,7 +11,7 @@
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 
-!!!info [TOC]
+!!!info [TOC2]
 
 ---
 ####![Image description](https://files.catbox.moe/f9inkg.png) Membership General Info

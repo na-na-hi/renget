@@ -110,6 +110,7 @@
 09/2023|[Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
 09/2023|[Effective Long-Context Scaling of Foundation Models](https://arxiv.org/abs/2309.16039)
 09/2023|[AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
+09/2023|[Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

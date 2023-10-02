@@ -26,6 +26,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![find what comes naturally to you](https://files.catbox.moe/3karma.png) | Ziggy | an anxious border collie boy | [CHUB link](https://www.chub.ai/characters/onaholesama/ziggy-53ae9998)
 ![Spear Thrower](https://files.catbox.moe/s5som2.png) | Frejya | maned wolf caravan guard for hire | [CHUB link](https://www.chub.ai/characters/onaholesama/freyja-a3ff08fb)
 ![clussy](https://files.catbox.moe/a0tvos.png) | Cupcake | playful, extroverted clown/magician bunny girl. thanks for the request | [CHUB link](https://www.chub.ai/characters/onaholesama/cupcake-f279a581/main)
 ![based on random greentext](https://files.catbox.moe/vh7c1b.png) | Klischée | tomboy wolf girl boss | [CHUB link](https://www.chub.ai/characters/onaholesama/klischee-67120d40/main)

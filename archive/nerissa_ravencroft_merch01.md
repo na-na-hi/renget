@@ -1,8 +1,7 @@
-!!! info
-     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Nerissa Ravencroft Merchandise**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+# -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Nerissa Ravencroft Merchandise**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
 
-[Go back to the Main Page](https://rentry.org/joint_operation_center0)
+[Go back to the Main Page](https://rentry.org/joint_operation_center)
 
 ## Hololive
 |||

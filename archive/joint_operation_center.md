@@ -1,6 +1,6 @@
-!!! info
-     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Joint /ope/rations Center**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-This is the still relatively fresh library of /ope/, the Nerissa Ravencroft General. In here, the users of the general or any other people will find any useful information about things related to The Demon of Sound and Lover of Idols. Be it her musical productions or informations about her streams (general ones and mengens alike) at the current state. Will expend eventually according to the needs of the general.
+#  -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Joint /ope/rations Center**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+
+!!! info This is the still relatively fresh library of /ope/, the Nerissa Ravencroft General. In here, the users of the general or any other people will find any useful information about things related to The Demon of Sound and Lover of Idols. Be it her musical productions or informations about her streams (general ones and mengens alike) at the current state. Will expend eventually according to the needs of the general.
 
 
 
@@ -18,7 +18,7 @@ https://boards.4channel.org/vt/catalog#s=/ope/
 https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
 https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
 >Merch
-https://rentry.org/nerissa_ravencroft_merch
+https://rentry.org/nerissa_ravencroft_merch01
 >Art tags / Danbooru
 RavenCrafts on X
 RavenCraft, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
