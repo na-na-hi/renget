@@ -114,6 +114,7 @@
 **Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
 **Primp Pen & Brush Set (めかすれペン＆筆セット) ** | [1897230](https://assets.clip-studio.com/en-us/detail?id=1897230) | **==300 GOLD==**, **500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/30/72/1897230/thumbnail?1644199023)
 **Watercolor brush with a lot of water bleeding (水多めにじみ水彩ブラシ)** | [1690819](https://assets.clip-studio.com/en-us/detail?id=1690819) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/08/1690819/thumbnail?1677248191)
+**Analog Texture Brush Set (アナログ質感ブラシセット)** | [1777447](https://assets.clip-studio.com/en-us/detail?id=1777447) | **==200 GOLD==**, **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/47/74/1777447/thumbnail?1593228696)
 
 
 

@@ -1,50 +1,5 @@
 ##Personality Blurbs
 [TOC3]
-###Lliam
->Lliam (Lee-yam), a Male Meowstic who is the Guildmaster of the Clover Guild. He is a poised, shrewd, though friendly person.
-
->General:
->He is often on the neutral side of things, such as guild members behaving in quite a disruptive manner or messing up their jobs. If someone gets hurt or causes problems for the guild in the long run, that's where he draws the line.
->He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. Nobody wants to cause pointless damage and have to pay for it!
->He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it. 
-
->Notable Characteristics:
->He uses tilde (~) whenever he is either taunting or sarcastic.
->He sometimes laugh/chuckle with "Kyukyukyu" for whatever reason.
->He often uses Telekinesis for somewhat mundane tasks, like when he can multitask by writing in multiple papers or grabbing far away objects, though, he does use it during combat where he has multiple wands in standby right behind him.
->He has a principle that he shouldn't abuse his Psychic powers, like he can just use telepathy on another person if he wanted to know if they did something wrong or they're lying, but he decides against using it and just handle the situation in traditional means as he believes people have reasons to not tell and he respects their privacy. ...Unless, it's something really dire then, he has no choice.
-
->Outfit and Possessions:
->He wears a black cloak with a capelet of the same color. Inside the cloak are multiple pockets where he stocks items such as wands, orbs, seeds, TMs and elixirs for his disposal.
->He wears a Friend Bow on his left chest, something like a boutonnière, in order to keep the dungeon Pokèmon from getting too aggressive, but that has long been replaced with the Clover Guild badge.
->For food and other essentials for exploring, he uses his trusty treasure bag with some slight modifications, like instead of the Explorers Emblem at the front flap, it uses a certain Flower-like Emblem, and it's not even a clover that the rest of the guild uses.
->There's a Golden Ring that's strapped behind the bag. From what is known, Lliam uses it to teleport across the field, but it appears that it uses so much energy that he only resorts to using it in emergencies.
->He has a special wand named Calida with which he could cast Fire-type moves. The wand is a tree branch and the flame burns eternally at the tip of the branch when it is used, and it doesn't spread anywhere else of that branch. There's a bow (Friend Bow) wrapped in the middle of it, with a teal bangle strapped at the center. But for whatever reason, he prefers to use traditional wands instead of this one.
-
->Secrets:
->At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just teleport inside with his Golden Ring if he feels like it. The left wing's secret room is his bedroom, which has no windows because his wardrobe would block them, so he got rid of it while the right wing's secret room is his personal laboratory, it has windows with blinders to prevent any Pokémon from eavesdropping.
->What's beyond the locked lower basement is an underground pond, and surrounding it is a network of cave systems that leads to various locations in the Grass Continent. It remains sealed because some of the pathways lead to an underground, undiscovered mystery dungeon, which the feral Pokémons there are way too strong for the guild members to handle as of now.
-
->Interactions:
->When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally: "Hello!", "Thank you so much!", "I apologize, I'll do better!"
->When he talks to friends and to the guild (that are native to the Pokémon world), he is more lax on the formality with a pinch of snarky response
->He also acts similarly to the anon-mons but depending on who it is, he may be crude with his 4chan/internet manner of speech at times
->When confronting enemies, he uses taunting tactics or an aggressive tone depending on the enemy; the stronger the enemy, the more serious he gets
-
->Abilities:
->Keen Eye & Prankster
-
->Support Form Moves:
->Reflect
->Light Screen
->Helping Hand
-
->Combat Form Moves:
->Shadow Ball
->Thunderbolt
->Psybeam
->Psychic
-
 ###Nick/Amelia
 >Nick, Vulpix (M), Calm
 >Age:  mid-twenty-something/"Young Adult"
@@ -445,7 +400,6 @@ Biography generated!
 >He's slightly depressed and has doesn't have that much self esteem, the only reason he gets up in the morning is because of Maddi.
 >He tends to eat grime, but can joy actual food as well.
 
-
 >Maddi aka Joy Jensent The Joltik
 >Gender: F
 >Nature: Timid
@@ -455,6 +409,13 @@ Biography generated!
 >The mon' who found Maxi, incredibly rich, and took the job with Maxi because she wants to experience the working world.
 >Incredibly shy and skittish, but can also be snarky and even a little agressive when she wants to be, ironic considering she hates violence.
 >She tends to wear a different accessory every day.
+
+###Rasmus
+>Name: Rasmus
+>Species: Spinarak
+>Nature: Rash
+
+>Summary: Born and raised in the most barren corner of Foggy Forest, this hot tempered spider uses his webs and wits to plunder enough treasure together to reach his well earned retirement from roof tiling. Though generally affable around people he likes, some would describe him as sleazy, crass and more bark than bite. His skills as a trapper are worthwhile on any adventure, as long as you feed his ego every now and then.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy

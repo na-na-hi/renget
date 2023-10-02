@@ -85,6 +85,11 @@ Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4At
 Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
 Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
 
+##[Fillian Alt Channel Vods](https://www.twitch.tv/filianislost/)
+Content|Link|Description 
+-------|-------|------- 
+Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_SVQRtJpbCUpoEdw4G5xi9) | Incomplete archive, these are vods another anon posted on mega i just reuploaded these for archivals sake.
+
 
 ---
 ##[Nyanners](https://www.twitch.tv/Nyanners)

@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Argalia](https://rentry.org/gayanon) | Malebots |[Li Xiaoyu](https://files.catbox.moe/qsj7pv.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Eli](https://files.catbox.moe/4g0ifd.png), [Orin](https://files.catbox.moe/ludduf.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ziggy](https://files.catbox.moe/ktivtz.png), [Sona](https://files.catbox.moe/vyxmop.png), [Remi](https://files.catbox.moe/u9gwbl.png)|[Ziggy](https://files.catbox.moe/ktivtz.png) [MV]
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Durga Stonesong](https://files.catbox.moe/ygr6t5.png)|
@@ -36,12 +37,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Nono](https://rentry.org/NonoRoom) | Misc |[Celina](https://files.catbox.moe/hyt75z.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Nora](https://files.catbox.moe/i1nqvd.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Elenara](https://files.catbox.moe/0r4c7g.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[ Schwartz](https://files.catbox.moe/hmqqmj.png)|
-[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||[Cap'n Pippin](https://files.catbox.moe/nh182m.png)
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||

@@ -1407,6 +1407,7 @@ Big thanks go to:
 
 ## Character guides & Tutorials
 
+- [Character writing guide - https://wikia.schneedc.com/en/bot-creation/trappu/creation](https://wikia.schneedc.com/en/bot-creation/trappu/creation)
 - [Ali:Chat Lite - https://rentry.co/kingbri-chara-guide](https://rentry.co/kingbri-chara-guide)
 - [Ali:Chat Style - https://rentry.co/alichat](https://rentry.co/alichat)
 - [How to write in PList (Python list) + Ali:Chat - https://rentry.co/plists_alichat_avakson](https://rentry.co/plists_alichat_avakson)

@@ -74,8 +74,13 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Mythology
-coming soon
+##Mythology - New Bot (03.10)
+Character cards based off different mythology.
+
+Li Xiaoyu | Description
+:----:  | :----: 
+![Li Xiaoyu](https://files.catbox.moe/7efo6l.png)   | With the magnetic pull of his innate powers and his self-imposed loneliness, Li Xiaoyu is a walking paradox. Fated for villainy, he teeters on a lunar edge. The question is: will someone pull him back, or tip him over? V2 card with four different greetings and a small baked in lorebook.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/li-xiaoyu-043feee3)  [Catbox](https://files.catbox.moe/qsj7pv.png)
 
 ***
 
@@ -86,6 +91,7 @@ Placeholder section for now, but I'm autistic about connecting characters and wo
 
 ##Changelog
 
+03.10 - Added Li Xiaoyu (new)
 01.10 - (finally) added a changelog and reformatted some stuff
 
 ![](https://files.catbox.moe/ui3ses.png)

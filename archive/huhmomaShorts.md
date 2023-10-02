@@ -399,7 +399,7 @@ Yes. Word of advice, grope his butt or chest. Canine anthros LOVE when you do th
 Heavy petting
 
 ---
-Anthro WArlord by anonymous
+Anthro Warlord by anonymous
 
 >An EVIL anthro warlord has been besieging your town, with everybody trapped inside the town's walls as he razes the crops and desecrates the land around it
 >Finally he offers to call off his attack, but only if he receives something he desires in turn

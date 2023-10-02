@@ -112,5 +112,3 @@ Sentret embarks on a quest to find his dead parents
 List of bins focused entirely on lore
 ######[A Detailed Guide to Aura (KFC)](https://rentry.org/PMD_Aura)
 Guide on what aura is and how it can be used
-######[Mysteriosity Study (Lliam)](https://rentry.org/Mysteriosity)
-Description of five levels of dungeon mysteriosity, a measure of how dangerous and unpredictable mystery dungeons are. Also describes possible Distortion Effects and Mysterious Forces that could threaten an exploration team.

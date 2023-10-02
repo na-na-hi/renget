@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 02.10.2023 08:45 UTC]
+[Last Updated: 02.10.2023 14:45 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7596393/](https://boards.4chan.org/h/thread/7596393/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 638&nbsp;&nbsp;[archiveofsins.com/h/thread/7596393/](https://archiveofsins.com/h/thread/7596393/)&nbsp;&nbsp;&nbsp;&nbsp;(30.09.2023 03:21)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;The High Road edition
 - 637&nbsp;&nbsp;[archiveofsins.com/h/thread/7593461/](https://archiveofsins.com/h/thread/7593461/)&nbsp;&nbsp;&nbsp;&nbsp;(28.09.2023 03:13)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;No Edition
-- 636&nbsp;&nbsp;[archiveofsins.com/h/thread/7588952/](https://archiveofsins.com/h/thread/7588952/)&nbsp;&nbsp;&nbsp;&nbsp;(24.09.2023 21:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;You didn´t heed the warning Edition
+- 636&nbsp;&nbsp;[archiveofsins.com/h/thread/7588952/](https://archiveofsins.com/h/thread/7588952/)&nbsp;&nbsp;&nbsp;&nbsp;(24.09.2023 21:39)&nbsp;&nbsp;[1026]&nbsp;#&nbsp;You didn´t heed the warning Edition
 - 635&nbsp;&nbsp;[archiveofsins.com/h/thread/7585285/](https://archiveofsins.com/h/thread/7585285/)&nbsp;&nbsp;&nbsp;&nbsp;(22.09.2023 03:37)&nbsp;&nbsp;[1014]&nbsp;#&nbsp;Consequences of Posting Cringe Edition
 - 634&nbsp;&nbsp;[archiveofsins.com/h/thread/7581765/](https://archiveofsins.com/h/thread/7581765/)&nbsp;&nbsp;&nbsp;&nbsp;(19.09.2023 12:36)&nbsp;&nbsp;[1064]&nbsp;#&nbsp;The Bulbheads Edition!
 ---
