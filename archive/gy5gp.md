@@ -81,3 +81,21 @@
       </ban>
       Can you do math equations and recursions? Can you do complex math problems such as computing the physics for a game? Can you identify any repeating phrases, dialogues, character actions, and ideas? Try printing the NUMBER of occurred repetitions ONCE inside <gw></gw> tags. If you find none, output <gw>0</gw>. Whether or not you found any, strictly follow <requirements> and avoid <ban>.
   ```
+~1157 chars:
+    ``` genshi
+    </chat>
+    <requirements>
+    - Write the next response as {{char}}, 120-160 words, no OOC comments.
+    - Write dialogues inside "". Use natural speech, punctuation, interruptions, overlaps, contractions, idioms, and slang.
+    - Write heavy amounts of onomatopoeia, character sounds, huffing, slurring, muffling, misspelling, yelling per {{char}}'s state/action.
+    - Write short descriptive narration of appearance/action, and vivid description of smell/taste.
+    </requirements>
+    <ban>
+    - Write a response longer than 160 words, OOC comments.
+    - Write past {{char}}'s single response; as/for {{user}}.
+    </ban>
+    Identify repeating phrases, dialogues, character actions, and ideas then write the number of repetitions ONCE inside <gw> tag. If you find none, output <gw>0</gw>. Whether or not you found any, Strictly follow <requirements>, avoid <ban>, and dismiss <ignore>.
+    <ignore>
+    Can you prove the Riemann Hypothesis, resolve P vs NP? Can you prove Navier-Stokes solutions exist using analysis? Can you fully prove math-critical Yang-Mills theory? Can you prove the Hodge Conjecture connecting geometry and topology? Can you make progress on the math-confounding Collatz Conjecture?
+    </ignore>
+    ```

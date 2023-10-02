@@ -18,6 +18,9 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Genoo](https://rentry.org/295se) | Sizeplay |[Sabrina](https://files.catbox.moe/hlgrk1.png), [Aoi](https://files.catbox.moe/blniao.png)|[Aoi](https://files.catbox.moe/blniao.png) [MV], [Clara](https://files.catbox.moe/ex9s60.png)
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Pascal](https://files.catbox.moe/49jwxo.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Nicholas](https://files.catbox.moe/0cg5cj.png), [Simon](https://files.catbox.moe/l3sinz.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Li Xiaoyu](https://files.catbox.moe/qsj7pv.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Eli](https://files.catbox.moe/4g0ifd.png), [Orin](https://files.catbox.moe/ludduf.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ziggy](https://files.catbox.moe/ktivtz.png), [Sona](https://files.catbox.moe/vyxmop.png), [Remi](https://files.catbox.moe/u9gwbl.png)|[Ziggy](https://files.catbox.moe/ktivtz.png) [MV]
@@ -28,22 +31,21 @@ Botmaker | Category | New Bots | Updated Bots
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Erika](https://files.catbox.moe/q76824.png)|[Prince Lawrence](https://files.catbox.moe/k87xcg.png)
 [Chefseru](https://rentry.org/chefseru) | Misc |[June](https://files.catbox.moe/wclc44.png), [Amos](https://files.catbox.moe/118kjk.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Shinatsu](https://files.catbox.moe/eism7p.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Aoi](https://files.catbox.moe/blniao.png)|[Aoi](https://files.catbox.moe/blniao.png) [MV], [Clara](https://files.catbox.moe/ex9s60.png)
 [VinceLavali](https://rentry.org/vincelavali) | Cunny |[Alysse Lavali](https://files.catbox.moe/fgvc46.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Manon](https://files.catbox.moe/3tm56v.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Simon](https://files.catbox.moe/l3sinz.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Elise](https://files.catbox.moe/hojj5a.png)|
 [UncleMarr](https://rentry.org/umarr) | Misc |[The Ancestor](https://files.catbox.moe/umd2sx.png)|[Raiden Shogun and Ei](https://files.catbox.moe/1m76qt.png), [Yae Miko](https://files.catbox.moe/dg9rzl.png), [Voyeurphoto Club](https://files.catbox.moe/y44hyk.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[Celina](https://files.catbox.moe/hyt75z.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Nora](https://files.catbox.moe/i1nqvd.png)|
-[Donquijanon](https://rentry.org/donquijanon) | Misc |[Elenara](https://files.catbox.moe/0r4c7g.png)|
+[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||[Cap'n Pippin](https://files.catbox.moe/nh182m.png)
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
+[Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
-[Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
@@ -55,14 +57,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Hedona](https://rentry.org/hedona) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
-[AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||

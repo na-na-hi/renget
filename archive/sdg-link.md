@@ -168,6 +168,9 @@ https://rentry.org/AnimAnon-Deforum
 ###Loopback Wave
 https://rentry.org/AnimAnon-LoopbackWave
 https://rentry.org/sd-loopback-wave
+###Clean up images
+https://github.com/Sanster/lama-cleaner
+https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
 ###ControlNet
 https://rentry.org/dummycontrolnet
 ###VAE usage
@@ -301,6 +304,7 @@ https://civitai.com/user/SpacewolfeCZ
 https://civitai.com/user/obinna7713
 https://civitai.com/user/AI_Art_Factory
 https://civitai.com/user/weed
+https://civitai.com/user/Pleased_Chomusuke
 
 !!! info
 	---------------------------

@@ -1,4 +1,4 @@
-# ->  ![Image description](https://files.catbox.moe/f9inkg.png) Lover of Idols I - Collabs on Nerissa's channels  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+# ->  ![](https://files.catbox.moe/f9inkg.png) Lover of Idols I - Collabs on Nerissa's channels  ![](https://files.catbox.moe/f9inkg.png) <-
 
 !!!info 	Pretty simple - this a a list storing all the collab that Nerissa took part of, be it your average 1on1, a group collab or even megacollabs. This list will strictly focus on whatever she posted a POV for these specific collabs - the alternative POV will also be posted. This list was created a month after the original Lover of Idols page but was created in order to unclogged the original page as too much informations could potentially be a nuisance to the overall presentation. It does not act as it's own annex. 
 	The overall presentation will be quite simple as it will also be sorted by monthly and yearly once we reach a certain critical point - that would be Nerissa's debut anniversary.
@@ -6,14 +6,14 @@
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 [Go To The Lover of Idols II - Collabs on other Holomems channels & Mentions page](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)
 
-!!!warning  -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on Nerissa's channels (sorted by Year and Month)](https://rentry.org/Collabs_on_Nerissa_s_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
+!!!warning  -> ![](https://files.catbox.moe/f9inkg.png) [Collabs on Nerissa's channels (sorted by Year and Month)](https://rentry.org/Collabs_on_Nerissa_s_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023)
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023)
 
 
-####![Image description](https://files.catbox.moe/f9inkg.png) August 2023
+####![](https://files.catbox.moe/f9inkg.png) August 2023
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
 |02/08/2023|[![【Untitled Goose Game】Wreaking havok with @KosekiBijou 🗿 🎼](https://files.catbox.moe/avodey.jpg)](https://www.youtube.com/watch?v=z8lNxA3uzTM)|Bijou|~2h11| 1-on-1 collab|
@@ -34,7 +34,7 @@
 
 ---
 
-####![Image description](https://files.catbox.moe/f9inkg.png) September 2023
+####![](https://files.catbox.moe/f9inkg.png) September 2023
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
 |01/09/2023|[![ 【Pico Park】Can we work together? 🎼 ](https://files.catbox.moe/xcwhmu.jpg)](https://youtu.be/AAD3QCumnrw)|[Shiori](https://www.youtube.com/watch?v=ccl7GxH0Osk), [Bijou](https://www.youtube.com/watch?v=ccl7GxH0Osk) and [FUWAMOCO](https://www.youtube.com/watch?v=yGmu-OXpqxs)|~2h39|Advent Fullgen Collab|
@@ -43,8 +43,14 @@
 |10/09/2023|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://files.catbox.moe/alcugi.jpg)](https://www.youtube.com/watch?v=DAt0redvoJY)|Shiori, Bijou|~2h35| Impromptu collab & VC|
 |11/09/2023|[![Entering the Hololive Minecraft server with Advent FOR REAL THIS TIME! 🎼 ](https://images2.imgbox.com/3d/67/exxibRan_o.jpg)](https://www.youtube.com/watch?v=ySPwXaEo7v0)|[Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) & [FUWAMOCO](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|~2h26|Advent Fullgen Collab|
 |15/09/2023|[![【Mario Kart 8】Driving leisurely with Advent~ 🎼 ](https://files.catbox.moe/g2tj3f.jpg)](https://youtu.be/Srb5k7icrJY)|[Shiori](https://www.youtube.com/watch?v=UX6IDuP1Hdw), [Bijou](https://www.youtube.com/watch?v=wldcO2gtjpU) & [FUWAMOCO](https://www.youtube.com/watch?v=GwCBlhmnwjQ)|---|Advent Fullgen Collab|
-|17/09/2023|Placeholder BG3 #3|Mori, Kiara & Bijou|---|Group Collab|
-|19/09/2023|Placeholder Collab with Bijou|Bijou|---|1-on-1 collab|
+|2023-09-17|[![【BG3】Shall be begin Act 2? (kinda)🎼 ](https://i.ytimg.com/vi/esjshsOyA5c/mqdefault.jpg)](https://www.youtube.com/watch?v=esjshsOyA5c)|[Kiara](https://www.youtube.com/watch?v=Zh42eJLqOSQ), [Bijou](https://www.youtube.com/watch?v=h0cFPOwxVD8) and [Calliope](https://www.youtube.com/watch?v=6xPK98Pdsgo)|~3h59|Group Collab|
+|2023-09-19|[![【JEWELBIRD】I slept in the same bed as Bijou?! 🎼 ](https://i.ytimg.com/vi/0ZF1K50ffww/mqdefault.jpg)](https://www.youtube.com/watch?v=0ZF1K50ffww)|Bijou|~2h16|1-on-1 collab|
+|---|TODO: add missing|---|---|---|
+
+####![](https://files.catbox.moe/f9inkg.png) October 2023
+|Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
+|---|---|---|---|---|
+|2023-10-01|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://i.ytimg.com/vi/NSCXDcreVmI/mqdefault.jpg)](https://www.youtube.com/watch?v=NSCXDcreVmI)|Shiori, Fauna|~2h35| Impromptu collab & VC|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

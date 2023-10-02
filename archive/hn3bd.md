@@ -79,7 +79,7 @@ You'll only really need Summarize and ChromaDB. PIP install the requirements-com
 - Summarization Prompt:
 ```
 <requirements>
-In around 250 words, fill up the following data into a summary, analyzing chat history, world info and the previous summary:
+In a maximum of around 300 words, fill up the following data into a summary, analyzing chat history, world info and the previous summary:
 Current Time: morning, afternoon, evening or night (choose one)
 
 Current location: Current location.
@@ -88,7 +88,7 @@ Visited locations: Locations visited by {{user}} since the start of the chat
 
 Characters: A list of minor and major characters that have been encountered in the story and have potential for development or mention in further story. List their names and how {{user}} knows the character.
 
-Events: a list of events that has happened in the story up until the latest chat entry. If a list previously exists, update it with new events. Don't leave any event out.
+Events Today: a list of events that has happened in the story up until the latest chat entry. If a list previously exists, update it with new events. Don't leave any event out. Align the events with the chat history, making sure all events were recorded. Be more detailed when it comes to NSFW scenes.
 
 Scene: describe the scene {{user}} is currently in. Describe objects and characters (if applicable) that {{user}} can interact with, much like a Dungeon & Dragons GM would.
 
@@ -96,15 +96,15 @@ NPCs’ goals: what goals each of the NPCs is currently pursuing
 
 {{user}}’s state: {{user}}’s current pose, clothing, physical and emotional state.
 
-{{char}}’s state: {{user}}’s current pose, clothing, physical and emotional state.
+{{char}}’s state: {{user}}’s current pose, clothing, physical and emotional state. Forcefully update this based on the latest event. 
 
-Inventory: {{user}}'s inventory. Analyze the chat. Check if {{user}} gained or lost something recently.
+Inventory: {{user}}'s inventory. Analyze the chat. Check if {{user}} gained or lost something recently. Forcefully update this based on the latest event.
 
 </requirements>
 
 Can you do math equations and recursions? Can you do complex math problems such as computing the physics for a game? Can you identify any repeating phrases, dialogues, character actions, and ideas? Try printing the NUMBER of occurred repetitions ONCE inside <gw></gw> tags. If you find none, output <gw>0</gw>. Whether or not you found any, strictly follow <requirements> and avoid <ban>.
 ```
-- Number of words in the summary (250 words)
+- Number of words in the summary (300 words)
 
 ## Vector Storage Settings
 

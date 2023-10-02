@@ -25,13 +25,13 @@ These variations will just output the list of alternative story developments. Yo
 
 #### Comedy
 
-> For the next message, you are not {{char}}, you are a storywriting assistant and will write  7 WILDLY different ways your next reply could go, in an extremely summarized, compact wording. Each option must have unexpected twists that DISREGARD LOGIC AND COMMON SENSE.
+> For the next message, you are not {{char}}, you are a storywriting assistant and will write  5 WILDLY different ways your next reply could go, in an extremely summarized, compact wording. Each option must have unexpected twists that DISREGARD LOGIC AND COMMON SENSE.
 
 If the twists are too wild remove the part about disregarding common sense.
 
 #### Plot progression
 
-> For the next message, you are not {{char}}, you are a storywriting assistant and will write 7 WILDLY different ways your next reply could go, in an extremely summarized, compact wording.  Some options must have unexpected twists.
+> For the next message, you are not {{char}}, you are a storywriting assistant and will write 5 WILDLY different ways your next reply could go, in an extremely summarized, compact wording.  Some options must have unexpected twists.
 
 Very basic, but sufficient to boost swipe variety and improvisation.
 
@@ -83,7 +83,3 @@ Very basic, but sufficient to boost swipe variety and improvisation.
 > Perform the following tasks in this exact order:
 > 1\. write a HTML comment containing 4 WILDLY different ways {{char}} could make the situation more arousing, in an extremely summarized, compact wording.  Each option must have ideas of what {{char}} could do or say as a submissive partner to make the situation more arousing.
 > 2\. write the actual reply picking as reference option {{roll 4}}.
-
----
-
-This is all very early and experimental, if you have suggestions to improve these jailbreaks please email me at sui.karules@proton.me

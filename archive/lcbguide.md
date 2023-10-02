@@ -93,9 +93,9 @@ Now that you're in the main menu screen, perform the following loop.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
 ## Monetization & Gacha
 **1. Identities**
-This is the main thing you'll be rolling for, it's equivalent to other gacha's units. There are three rarities, denoted by the number of 0s. Lowest is 0, highest is 000. The naming is related to the Kabbalah.
+This is the main thing you'll be rolling for, it's the equivalent to other gacha's units. There are three rarities, denoted by the number of 0s. Lowest is 0, highest is 000. The naming is related to the Kabbalah.
 
-You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new moves, improves their rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
+You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
 
 **2. E.G.O**
 You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
@@ -107,9 +107,9 @@ Similarly to identities, you can upgrade E.G.O using Thread. This process is cal
 **3. Lunacy & Extractions**
 Lunacy is the roll currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
 
-Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy or 10 Extraction Tickets. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10-rolls if you don't pay for daily rolls, because you're guaranteed one 00 Identity for every 10-roll.
+Extractions are the gacha system of Limbus Company. This is the most straightforward method for obtaining new Identities and E.G.Os. Each roll costs 130 Lunacy or one Extraction Ticket, meaning a 10-roll costs 1300 Lunacy, 10 Extraction Tickets or one Decaextraction Ticket. There's also a daily roll system for paying users - 13 paid Lunacy for a single roll. Always do 10-rolls if you don't pay for daily rolls, because you're guaranteed one 00 Identity for every 10-roll.
 
-There are Extraction Tickets and Decaextraction Tickets, which are for single rolls and 10-rolls respectively. If you have at least 10 single Extraction Tickets  you can do a 10-roll with them like the Decaextraction Tickets, so it's best to save them up.
+Extraction Tickets and Decaextraction Tickets are for single rolls and 10-rolls respectively. If you have at least 10 Extraction Tickets you can do a 10-roll with them like the Decaextraction Tickets, so it's best to save them up. These tickets are used before Lunacy.
 
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
@@ -117,7 +117,7 @@ A permanently-available banner where there is an equal chance of receiving any p
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
 
 - New Identity / E.G.O Target Extraction
-A banner that increases the probability rates for receiving the featured Identities and/or E.G.Os, typically done in pairs of either 1 000 and 1 00 Identity, or 1 Identity and 1 E.G.O.
+A banner that increases the probability rates for receiving the featured Identities and/or E.G.Os, typically done in pairs of one 000 and one 00 Identity, or one or multiple E.G.Os.
 ![New Identity / E.G.O Target Extraction](https://files.catbox.moe/aytgyp.png)
 
 - Limited Target Extraction
@@ -127,12 +127,12 @@ A banner that increases the probability rates for receiving the Identities and E
 **4. Dupes**
 If you obtain a dupe of an Identity, it'll be converted into shards for a specific sinner. If you gather 400 of those, you can convert them into any 000 Identity of your liking. The same goes for E.G.O - all rarities cost 400 shards. **00** identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
-When rolling, the dupes of identities will be converted into the following number of shards:
+When rolling, dupes of identities will be converted into the following number of shards:
 **0** | **00** | **000**
 :----: | :----: | :----: 
 3 | 15  | 50 
 
-As for E.G.O, rather than being converted into shards, it'll be removed from the rolling pool after you get it for the first time. Getting every E.G.O won't drastically improve your changes of getting new Identities, but it is still cool to have them all.
+As for E.G.O, rather than being converted into shards, it'll be removed from the rolling pool after you get it for the first time. Getting every E.G.O won't drastically improve your changes of getting new things, but it is still cool to have them all.
 
 **5. Pity**
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
@@ -326,7 +326,6 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
 9/24/23: Fixing minor errors. Elaborated on sharting.
 9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes. Elaborated on Luxcavation skipping.
-9/26/23: Mostly focused on the Resources Rentry today. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.
-9/28/23: Added 1 sentence and fixed another error in FAQ #13
+9/28/23: Added one sentence and fixed another error in FAQ #13
 9/29/23: Changed ordering of "Who do I reroll for?" and fixed a formatting error.
-9/30/23: ![lol&](https://files.catbox.moe/7dmu76.png)
+10/2/23 Grammar and improved the Extraction explanation ![lol&](https://files.catbox.moe/7dmu76.png)
