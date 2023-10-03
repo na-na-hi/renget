@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 1 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 2 2023*
 
 [TOC]
 
@@ -113,7 +113,7 @@ More info about the comparison table and preview images can be found in the **[A
 [Kanchiyo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HB1ADCJK) | [Kanzaki Muyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2MlHhYgC)
 ![](https://i.imgur.com/L2k15yz.png) | ![](https://i.imgur.com/QUX7raL.png)
 [Kareya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkXELAZ) | [Kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DQtRDYLS)
-![](https://i.imgur.com/iWcCi1m.png) | ![](https://i.imgur.com/kIHx5Mk.png)
+![](https://i.imgur.com/iWcCi1m.png) | ![](https://i.imgur.com/lhksk0Y.png)
 [Kokaki Mumose](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CQ03UChK) | [Kokuto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OUl0kYJQ)
 ![](https://i.imgur.com/wDCWgRb.png) | ![](https://i.imgur.com/W8vSl81.png)
 [Konpeto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vFMWSTxI) | [Koyori](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rQk3xJjY)
@@ -201,38 +201,36 @@ More info about the comparison table and preview images can be found in the **[A
 [Toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SZsxWTRK) | [Tousaki Shiina](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1mhQgZ)
 ![](https://i.imgur.com/dZiGUdj.png) | ![](https://i.imgur.com/8LFueSG.png)
 [Tsubasa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/uRUkgB4Y) | [Tsukushi Akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nJtE2bYb)
-![](https://i.imgur.com/ZbWX6Nx.png) | ![](https://i.imgur.com/5hisrSO.png)
+![](https://i.imgur.com/DCV8p9G.png) | ![](https://i.imgur.com/WCrOv18.png)
 
 ### U
 [Uminotaco](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KU8wFJDQ) | [Usitora Tatsumi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eddm2RgA)
 :------:|:------:
-![](https://i.imgur.com/SGcA35f.png) | ![](https://i.imgur.com/JBZNcnG.png)
+![](https://i.imgur.com/ITKiU91.png) | ![](https://i.imgur.com/JBZNcnG.png)
 
 ### V
 [Vachelor](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Q9mmCKJ) | [Vachelor (Color)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMs13BaD)
 :------:|:------:
 ![](https://i.imgur.com/drQ5wIP.png) | ![](https://i.imgur.com/iG0JgYo.png)
 [Von Franken](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XM0VnLiQ) | []()
-![](https://i.imgur.com/yjZTfCj.png) | ![]()
+![](https://i.imgur.com/k6xot5E.png) | ![]()
 
 ### W
 [Wangyq](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yQ0SyBLB) | [Watanon](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jF0XARCA)
 :------:|:------:
-![](https://i.imgur.com/SZf59oe.png) | ![](https://i.imgur.com/DYYrpNE.png)
+![](https://i.imgur.com/heC3AYv.png) | ![](https://i.imgur.com/4cY55Sn.png)
 [Waterkuma](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rUkHjK6C) | [Waymay](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ucUC3DJI)
-![](https://i.imgur.com/iF6JCqw.png) | ![](https://i.imgur.com/JfYekUv.png)
+![](https://i.imgur.com/XFqxxFT.png) | ![](https://i.imgur.com/x33nU94.png)
 
 ### Y
 [Yosola PL](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ydFAQJLD) | [Yousan](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2QlkRDRQ)
 :------:|:------:
-![](https://i.imgur.com/thdYEYl.png) | ![](https://i.imgur.com/xFLKBZx.png)
-[Yumegwagwagwa (Ahoisy)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bF93yJLA)
-![](https://i.imgur.com/FuCT4KV.png) | ![]()
+![](https://i.imgur.com/thdYEYl.png) | ![](https://i.imgur.com/3zMd1rz.png)
 
 ### Z
 [z282g](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PM9GSSrS) | []()
 :------:|:------:
-![](https://i.imgur.com/ewukAOd.png) | ![]()
+![](https://i.imgur.com/h2DlAmY.png) | ![]()
 
 ### \#
 [1=2 (oet)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ac9gBBQA) | []()
@@ -418,6 +416,16 @@ brown succubus-chan \(trente\), loli, open mouth, smile, fang, blush, dark skin,
 
 ```
 makaino ririmu, loli, eyepatch, pink jacket, sailor collar, red neckerchief, white shirt, open jacket, off shoulder, sleeves past wrists, pleated skirt, blue skirt, blue belt, red collar, handbag, red bag, leg tattoo, hair ribbon, black ribbon, two side up, long hair, streaked hair, grey hair, red eyes, pointy ears
+```
+
+### Y
+
+[Yumegwagwagwa (Sweets Girl - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bF93yJLA) | Sweets Girl
+:------:|:------:
+![](https://i.imgur.com/Zb8GgGc.png) | ![](https://i.imgur.com/img42pP.png)
+
+```
+sweets girl, emaciated, lolita fashion, lolita hairband, white dress, collar, detached sleeves, white gloves, white thighhighs, hime cut, very long hair, black hair, purple eyes
 ```
 
 ### Z

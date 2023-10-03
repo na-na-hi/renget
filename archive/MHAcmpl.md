@@ -857,6 +857,7 @@ Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirro
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://rentry.org/b2mhn
 Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force): https://rentry.org/xxk2h
 Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Christopher, Challenger, Ryu-kishi, Drone, Reaper): https://rentry.org/e7cszt
+Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry.org/2bovid
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

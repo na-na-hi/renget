@@ -230,6 +230,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
+	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7) *Not on Table*
 * Booker the Ribombee
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -579,6 +580,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Trash Bag and The Food Thief](https://rentry.org/2y9ab)
 * {||} [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
 * {||} [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
+* {||} [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

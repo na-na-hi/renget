@@ -15,7 +15,7 @@ Beast's answer was follower by silence, so I tried asking another question, I as
 
 "Tell me about it, One time in my third-grade science class I got paired up with this one chick, she was a serious airhead, she would just talk and talk, and I just wanted to get class over with just I would never hear that dumbass' voice for the rest of the day.", Beast began to look a little peeved as i told my story. "Hmm... You know, you are starting to sound like him..."
 I raised my brow, The tension of the scene began to rise, "Oh, In what way?"
-"You seem to blather on about some pointless things.", I was about ready to tell this pretentious chubster off. "Pointless? I'm just talking about a story from my childhood! If you're trying not to be a smug asshole then maybe you should tell a similar story from your own childho-"
+"You seem to blather on about some pointless things.", I was about ready to tell this pretentious chubster off. "Pointless? I'm just talking about a story from my childhood! If you're trying not to be a smug asshole then maybe you should tell me something similar from your own childho-"
 
 Just then, I was cut off by a cutesy, perky voice...
 "Excuse meeeeee! Are ya guys ready to order?~"

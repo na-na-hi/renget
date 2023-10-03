@@ -570,8 +570,12 @@ Kazuo, "The Unarmed" >>90339594
 Sarurata, "The Retarded Orphan" >>90339905 
 Zeiji Gorobuyo, "Toad Nemesis" >>90348456 
 Kenzo Nakamura, "Gluttonous Dragon" >>90348580 
+```
 
-
+***
+Page 2
+***
+```
 Writefags:
 >Why is there so much paperwork? (Inatsu Hikuhei)
 https://rentry.org/ac8xq
@@ -585,12 +589,7 @@ https://rentry.org/u4q5i
 https://rentry.org/6ur3e
 >The Shadow Looming Over the Leaf
 https://pastebin.com/gKbDnkfk
-```
 
-***
-Page 2
-***
-```
 Relationship Charts:
 >Ray
 https://rentry.org/u6xdh

@@ -1,5 +1,9 @@
 # MinimALIstic (Ali:Chat Lite)
 
+Page written by: kingbri
+
+Contributors: kingbri, Alicat, AVAKSon, Trappu
+
 !!! info
     Need help? Ping `@kingbri` on a Discord server! My DMs are locked.
 

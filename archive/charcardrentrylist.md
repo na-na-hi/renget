@@ -37,13 +37,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Elise](https://files.catbox.moe/hojj5a.png)|
 [UncleMarr](https://rentry.org/umarr) | Misc |[The Ancestor](https://files.catbox.moe/umd2sx.png)|[Raiden Shogun and Ei](https://files.catbox.moe/1m76qt.png), [Yae Miko](https://files.catbox.moe/dg9rzl.png), [Voyeurphoto Club](https://files.catbox.moe/y44hyk.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[Celina](https://files.catbox.moe/hyt75z.png)|
-[Muricanpie](https://rentry.co/mpcs) | Misc |[Nora](https://files.catbox.moe/i1nqvd.png)|
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||[Cap'n Pippin](https://files.catbox.moe/nh182m.png)
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
+[Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
