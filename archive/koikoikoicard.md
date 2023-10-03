@@ -68,4 +68,5 @@ Heavy, ~1k token version. Highly recommended if you have anything better than Sl
 
 ![Oi!](https://files.catbox.moe/s7i2yr.png)
 *Leah, the young, exuberant, easygoing war veteran with an Irish accent! Features two different greetings.*
-https://files.catbox.moe/s7i2yr.png or https://www.chub.ai/characters/koikoikoihat/leah-0db2c30b/main
+(Minor adjustments to greetings.)
+https://files.catbox.moe/on4cnu.png or https://www.chub.ai/characters/koikoikoihat/leah-0db2c30b/main

@@ -3,8 +3,8 @@
 Previous thread:
 
 \>news:
-\>MWIII zombies info:
-https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-III-zombies-operation-deadbolt-trailer
+\>MWIII gunsmith info (aftermarket parts etc.)
+https://www.callofduty.com/blog/2023/10/call-of-duty-modern-warfare-III-gunsmith-innovations-aftermarket-parts
 \>MWIII information:
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwide-full-reveal-announcement
 \>MWIII notes and news about content carrying over (TL;DR: shit is getting carried over generally):

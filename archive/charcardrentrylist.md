@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Leah](https://files.catbox.moe/on4cnu.png)|[Leah](https://files.catbox.moe/on4cnu.png) [MV]
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Aydric](https://files.catbox.moe/om5h9c.png), [Manon](https://files.catbox.moe/3tm56v.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Jenny](https://files.catbox.moe/8mnxkn.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sabrina](https://files.catbox.moe/hlgrk1.png), [Aoi](https://files.catbox.moe/blniao.png)|[Aoi](https://files.catbox.moe/blniao.png) [MV], [Clara](https://files.catbox.moe/ex9s60.png)
@@ -28,7 +29,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ziggy](https://files.catbox.moe/ktivtz.png)|[Ziggy](https://files.catbox.moe/ktivtz.png) [MV]
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Durga Stonesong](https://files.catbox.moe/ygr6t5.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Helga](https://files.catbox.moe/2qahjx.png)|[Helga](https://files.catbox.moe/2qahjx.png) [MV]
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Leah](https://files.catbox.moe/s7i2yr.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Wendy](https://files.catbox.moe/ccv1gy.png), [Mara](https://files.catbox.moe/zv0hrj.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Erika](https://files.catbox.moe/q76824.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[June](https://files.catbox.moe/wclc44.png), [Amos](https://files.catbox.moe/118kjk.png)|

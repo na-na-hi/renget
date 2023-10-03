@@ -43,7 +43,7 @@
   "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=10\" \"weight_decay=0.01\"",
   "save_model_as": "safetensors",
   "text_encoder_lr": 1.0,
-  "train_batch_size": 2, //CAN SET TO 10 HERE, FITS IN 6GB VRAM, WATCH YOUR VRAM/GPU TEMPS
+  "train_batch_size": 2,
   "train_on_input": false,
   "training_comment": "rentry.co/ProdiAgy",
   "unet_lr": 1.0

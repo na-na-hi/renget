@@ -164,7 +164,7 @@
 -> [Civitai](https://civitai.com/models/121370/nerissa-ravencroft) <-
 
 #### -> (HoloMyth) Ninomae Ina'nis <-
-!!! info All outfits! (outside of very recent ones)
+!!! info All main outfits!
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
 	(ina_priestess, black dress, long hair, dark purple hair, low wings, pointy ears, tentacle hair)

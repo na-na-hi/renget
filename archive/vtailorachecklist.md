@@ -499,7 +499,7 @@ Natsumi Hạ Chi | - | - | -
 Nika Lan Linh | - | - | -
 Nika Linh Lan | - | - | -
 
-## -> Vee <-
+## -> Vee + VeeMusic <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -530,6 +530,25 @@ Kokuyou Lira | - | - | -
 Amakomo Linon | X | - | X
 Anshinin Misa | X | - | X
 Kanra Deity | - | - | -
+Hosaki Menma | - | - | -
+Inui Shinichiro | - | - | -
+Chikuwa | X | - | X
+Neukyu | - | - | -
+Lily Miracle | - | - | -
+Kuga Touka | - | - | -
+Kazan'in Rose | - | - | -
+Asahina Ao | - | - | -
+Kurusu Mint | - | - | -
+Sumeragi Chiyori | - | - | -
+Sakuraba Shion | - | - | -
+Takao Shinji | - | - | -
+Minagi Jiyou | - | - | -
+Kohinata Ryuji | - | - | -
+Yuyuya Aka | - | - | -
+Konno Izumi | - | - | -
+Ayane Leon | - | - | -
+Hoshinouta Kaz | - | - | -
+Yoshizuki Meguru | - | - | -
 
 ## -> V&U <-
 !!! info Available Loras without the need of updates and have been tested.

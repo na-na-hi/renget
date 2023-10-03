@@ -563,11 +563,14 @@ The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*.
 >Gift crafting (a small guide) 
 If you want to splurge ur gifts on 1 specific girl:
 - Buy all mats from events
-- Use extra mats from event to keep crafting gifts nodes
+- Use extra mats from event to craft gifts nodes
 - Buy out yellow/advanced tailor stones from the JFD shop when available 
-- Craft gift selectors using yellow tailor stones
+- Craft gift selectors using yellow tailor stones in the Material Fusion chamber
 It's more efficient to reroll normal gifts into a girl's favourite ones. 
-Don't use liked gifts for gift selectors. 
+Don't use liked gifts for gift selectors, since it's a net loss
+![affection math](https://i.imgur.com/OYyVToM.png)
+
+
 
 >Stacking (de)buffs
 You can stack several (de)buffs with the same descriptor/effect, but only if they're in different skill slots. 

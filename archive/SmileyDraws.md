@@ -1,5 +1,5 @@
 # Smiley Draws!
--> This rentry is for all the drawings I received from the challenge #3 of the challenge for my proxy... if you want credits please contact me! <-
+-> This rentry is for all the drawings I received, maybe from challenges or just kind people... if you want credits please contact me! <-
 -> https://huggingface.co/spaces/SmileyTatsu/Smile <-
 
 
