@@ -98,6 +98,7 @@
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
 [GigaGAN](https://github.com/lucidrains/gigagan-pytorch)|Text-to-Image synthesis with layout-preserving fine style control and upscaling
+[DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets

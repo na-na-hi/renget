@@ -25,32 +25,32 @@ Lorebook   |  [Chub](https://www.chub.ai/lorebooks/argalia/Syngrapha)  [Catbox](
 Percival Thorne | Description
 :----:  | :----: 
 ![Percival](https://files.catbox.moe/54ymr0.png)   | Percival is an alchemist cursed to continually relive the same events every month until he can unlock the key to ending the curse. He has already experienced seven cycles and is now in his eighth. This time, though, changes within the cycle are starting to emerge.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Percival)  [Catbox](https://files.catbox.moe/1t82p6.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Percival) . [Catbox](https://files.catbox.moe/1t82p6.png)
 
 Gawain Winters | Description
 :----:  | :----: 
 ![Gawain](https://files.catbox.moe/ta07kv.png)   | Gawain, also known as "Star Forger", is a gallant knight whose infectious enthusiasm and unwavering dedication have earned him both admiration and respect. Driven by a passion for chivalry and boundless curiosity, he eagerly tackles every challenge and adventure that crosses his path.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Gawain)  [Catbox](https://files.catbox.moe/hq14vz.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Gawain) . [Catbox](https://files.catbox.moe/hq14vz.png)
 
 Merlin | Description
 :----:  | :----: 
 ![Merlin](https://files.catbox.moe/bjci8d.png)   | Merlin presents himself as a gentle apothecary, ever ready to lend a helping hand in his quiet town. Combining simple magic with herbal remedies, he wins the hearts of the townsfolk. However, beneath his innocent facade, one can't help but wonder... is there more to him than meets the eye?
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Merlin)  [Catbox](https://files.catbox.moe/qhoife.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Merlin) . [Catbox](https://files.catbox.moe/qhoife.png)
 
 Yves | Description
 :----:  | :----: 
 ![Yves](https://files.catbox.moe/boqwo7.png)   | Yves, an ancient eastern mage, dedicates her life to killing the Great Mage to claim his title. Her polite speech masks her beast-like behavior, but the illusion is always ruined when she starts a fight immediately. Oh yeah, she also likes to eat coal.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Yves)  [Catbox](https://files.catbox.moe/l75xp2.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Yves) . [Catbox](https://files.catbox.moe/l75xp2.png)
 
 Blanc and Noir | Description
 :----:  | :----: 
 ![Blanc and Noir](https://files.catbox.moe/g7ibf5.png)   | Blanc and Noir, twin southern mages, weave mischief and wisdom with playful ease. In their child-like forms, the inseparable duo delights in guiding young mages while obscuring their enigmatic, age-old secrets.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/blanc-and-noir)  [Catbox](https://files.catbox.moe/r2knlu.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/blanc-and-noir) . [Catbox](https://files.catbox.moe/r2knlu.png)
 
 Silvanus Floreo | Description
 :----:  | :----: 
 ![Silvanus](https://files.catbox.moe/0wmb7k.png)   | Helpful, kind, and generous, Silvanus is very well regarded amongst mages and humans alike. Despite his demeanor, he has a penchant for dangerous activities on the side. His dream is to one day connect humans and mages.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo)  [Catbox](https://files.catbox.moe/39hihk.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Catbox](https://files.catbox.moe/39hihk.png)
 
 ***
 
@@ -60,17 +60,17 @@ Tokyo (mostly), but with a film noir occult stylization to it. Unfortunately, as
 Mikoto Amami | Description
 :----:  | :----: 
 ![Mikoto](https://files.catbox.moe/x6t5th.png)   | Mikoto is an up-and-coming actor from a small theater company, who firmly believes success in the entertainment industry is meant for him. As his director, the nature of your relationship with him is yours to determine. Lead him to stardom, corrupt him, or... perhaps you're interested in something else entirely?
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Mikoto)  [Catbox](https://files.catbox.moe/kgyvom.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Mikoto) . [Catbox](https://files.catbox.moe/kgyvom.png)
 
 Ryunosuke Sasaki | Description
 :----:  | :----: 
 ![Ryunosuke](https://files.catbox.moe/idxwqo.png)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?"
-Links   |  [Chub](https://www.chub.ai/characters/argalia/ryunosuke-sasaki-b2d8183e)  [Catbox](https://files.catbox.moe/jxh57r.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/ryunosuke-sasaki-b2d8183e) . [Catbox](https://files.catbox.moe/jxh57r.png)
 
 Ichitora Hoshino | Description
 :----:  | :----: 
 ![Ichitora](https://files.catbox.moe/zj9qsq.png)   | Ichitora is a homicide detective with exceptional skills for his young age. Explore the world, solve crimes, or be a criminal yourself with an extended lorebook for the setting. V2 card that features six different intros for an immersive experience.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2cc)  [Catbox](https://files.catbox.moe/0oxqsm.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2cc) . [Catbox](https://files.catbox.moe/0oxqsm.png)
 
 ***
 
@@ -80,7 +80,7 @@ Character cards based off different mythology.
 Li Xiaoyu | Description
 :----:  | :----: 
 ![Li Xiaoyu](https://files.catbox.moe/7efo6l.png)   | With the magnetic pull of his innate powers and his self-imposed loneliness, Li Xiaoyu is a walking paradox. Fated for villainy, he teeters on a lunar edge. The question is: will someone pull him back, or tip him over? V2 card with four different greetings and a small baked in lorebook.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/li-xiaoyu-043feee3)  [Catbox](https://files.catbox.moe/qsj7pv.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/li-xiaoyu-043feee3) . [Catbox](https://files.catbox.moe/qsj7pv.png) . [Background](https://files.catbox.moe/bps18u.png)
 
 ***
 

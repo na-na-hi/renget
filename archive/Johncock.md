@@ -3,6 +3,11 @@
 [TOC2]
 ->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
+####->Jenny<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Jenny** ![Jenny](https://files.catbox.moe/8mnxkn.png)  | https://www.chub.ai/characters/Johncock/jenny-38e8d8c9 | Jenny Wakeman, from the TV show "My Life as a Teenage Robot," but 30 years after the show ended. She has made changes to her body and now lives alone. Lonely, she decided to rent a room in her house, and you are the one who answers her ad.
+
 ####->Zeeba<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 

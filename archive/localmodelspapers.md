@@ -74,6 +74,7 @@
 09/2023|[MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (MT Model)](https://arxiv.org/abs/2309.04662)
 09/2023|[Scaling Laws for Sparsely-Connected Foundation Models](https://arxiv.org/abs/2309.08520)
 09/2023|[Language Modeling Is Compression](https://arxiv.org/abs/2309.10668)
+09/2023|[Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -373,6 +374,7 @@
 09/2023|[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 09/2023|[MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/2309.13042)
 09/2023|[Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models](https://arxiv.org/abs/2309.15531)
+09/2023|[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

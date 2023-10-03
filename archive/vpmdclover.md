@@ -35,7 +35,7 @@ Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Ha
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Maxi | M | Trubbish | Maddi (F, Joltik, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
-Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#Rasmus)
+Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -222,6 +222,14 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
 	* [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
 	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
+* Bill the Growlithe
+	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
+	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
+	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
+	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
+	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
+	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
+	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * Booker the Ribombee
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -294,14 +302,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Branching Out (ft. Elm)](https://rentry.org/branching)
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
-* Bill the Growlithe
-	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
-	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
-	* [Liminal Crossroads ch. 3 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads3)
-	* [Billy vs Porygon](https://rentry.org/BillyVSPorygon)
-	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
-	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
-	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -312,6 +312,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx) 
 	* [Currently Unnamed McNumel Story (ft. Kaiji)](https://rentry.org/7pagq)
 	* [WIP Large, Unnamed Story (ft. Kaiji)](https://rentry.org/etew3b)
+* Kaz the Linoone
+    * [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * KFC the Combusken
 	* [Path to Aura (WIP) (ft. KFC)](https://rentry.org/Path_to_Aura)
 	* [A Detailed Guide to Aura (ft. KFC)](https://rentry.org/PMD_Aura)
@@ -322,8 +324,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
 	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
-* Linoone
-	* [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -390,8 +390,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
 	* [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
-* Solid Linoone the Linoone
-    * [Metal Gear Linoone: Lord of the Pelippers](https://rentry.org/an9od)
 * Sterling the Clampearl
 	* [Sterling's Purpose ch.1](https://rentry.org/4uw36)
 	* [Sterling's Purpose ch.2](https://rentry.org/fau75)

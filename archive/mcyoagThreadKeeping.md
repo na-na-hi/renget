@@ -40,8 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Ryu-kishi and Mirror Devil art
->>90413221
+>Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
+https://rentry.org/2bovid
 
 
 
@@ -518,6 +518,8 @@ Page 9
 Writefags (final)
 >Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
 https://rentry.org/e7cszt
+>Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
+https://rentry.org/2bovid
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -555,7 +557,7 @@ Amami Kai, "The Tide" >>90371161
 Mutsuo Aburame "Bug Guy" >>90410708
 Goro Tsuchigumo "Suspiciously Canon" >>90417999
 >B-Rank:
-Ray Sisuto, "Bloodline Actor" >>90337143 
+Ray Sisuto, "Bloodline Actor" >>90434647
 >C-Rank:
 Nara Suzura(Genin), "Cowardly Dragon Host" >>90338118 
 Oscar, "The Outlander" >>90345405 
@@ -589,11 +591,13 @@ https://pastebin.com/gKbDnkfk
 Page 2
 ***
 ```
->Relationship Charts
+Relationship Charts:
 >Ray
 https://rentry.org/u6xdh
 >Yumiko
 https://rentry.org/cbqwo3
+>Kurumi
+https://rentry.org/KuruminChart
 
 ```
 

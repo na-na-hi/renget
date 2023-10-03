@@ -80,7 +80,9 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-https://www.youtube.com/watch?v=n7GyLr7Cz2g
+https://www.youtube.com/watch?v=XSaqSVi--Ms AND
+![sweaty tanned tomboy abs](https://litter.catbox.moe/adfoiv.PNG) AND
+a Botco addition :3
 
 ***
 ## DESSERT (SFW/NSFW)
