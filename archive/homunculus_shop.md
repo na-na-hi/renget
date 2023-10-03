@@ -10,7 +10,7 @@
 
 ***
 
-###Info
+###List of What I'll Do
 -> I don't have a strict or exhaustive list of DOs and DON'Ts, but here are some examples of things that I will or won't make. Use at your discretion when suggesting characters for me to make. If you have a suggestion that you think I might not wanna do and isn't on my DON'T part of the list, send it my way anyway, I don't judge! <-
 
 - #####"I'll do it!"
@@ -43,10 +43,10 @@
 
 ***
 
-### Latest boy: Eli
-"Your tsundere shota maid with a soft, insecure side that starkly contrasts his usual rude attitude." ==NSFW==
-Card: [Eli](https://files.catbox.moe/4g0ifd.png)
-JSON: [Eli](https://files.catbox.moe/ggucek.json)
+### Latest boy: Ion
+"A young boy who was born a cut above the rest and remains in a government facility for it." ==Safe==
+Card: [Ion](https://files.catbox.moe/f460gm.png)
+JSON: [Ion](https://files.catbox.moe/13jqmj.json)
 
 Or download his card/JSON file below!
 
@@ -101,6 +101,7 @@ Card | JSON Link | Description | Rating
 ![Atlas](https://cdn.discordapp.com/attachments/975298937563000852/1154329920554672128/oShW2fu.png)   | [Ilya](https://files.catbox.moe/895n8n.json)   | "A young, timid boy who has an unbearable crush on you and wants you to spend time with him at his house."   | ==Safe==
 ![Orin](https://files.catbox.moe/ludduf.png)   | [Orin](https://files.catbox.moe/if29u2.json)   | "A cute, oblivious shota with his young body nearly on full display."   | ==NSFW==
 ![Eli](https://files.catbox.moe/4g0ifd.png)   | [Eli](https://files.catbox.moe/ggucek.json)   | "Your tsundere shota maid with a soft, insecure side that starkly contrasts his usual rude attitude."   | ==NSFW==
+![Ion](https://files.catbox.moe/f460gm.png)   | [Ion](https://files.catbox.moe/13jqmj.json)   | "A young boy who was born a cut above the rest and remains in a government facility for it."   | ==Safe==
 
 ***
 ###Suggest Stuff!

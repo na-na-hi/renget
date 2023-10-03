@@ -40,13 +40,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
-https://rentry.org/2bovid
-
-
+MHA is storing power
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
-https://archive.4plebs.org/tg/thread/89615875/#89616043
+https://archive.4plebs.org/tg/thread/90445389#90445806
 
 >CHARACTER PROMPTS (Feel free to answer these or don’t idk)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp
@@ -550,12 +547,12 @@ Yusuke Hiramatsu, "The Third Kazekage" >>90409962
 >A-Rank:
 Taiki, "The Trunk Thrower" >>90337572 
 Konna, "The Shady Foreigner" >>90338178 
-Mika Katsumi, "Opioid Smoke Girl" >>90339231 
+Mika Katsumi, "Opioid Smoke Girl" >>90448172 
 Hakumo Ikari, "Kitsune Vixen" >>90347774 
 Kurumi Yamagumo, "Prideful Puppeteer" >>90359191 
 Amami Kai, "The Tide" >>90371161 
 Mutsuo Aburame "Bug Guy" >>90410708
-Goro Tsuchigumo "Suspiciously Canon" >>90417999
+Goro Tsuchigumo "Suspiciously Canon" >>90447679
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90434647
 >C-Rank:
@@ -597,6 +594,8 @@ https://rentry.org/u6xdh
 https://rentry.org/cbqwo3
 >Kurumi
 https://rentry.org/KuruminChart
+>Ikari
+https://rentry.org/cmh95
 
 ```
 
@@ -1038,13 +1037,15 @@ Arsenal Fight
 https://rentry.org/ArsenalFight
 Courtesy Call (Chimera)
 https://rentry.org/aq4v6
-Weight of Reality (Triumph, mentions of others)
- https://rentry.org/WeightOfReality 
 ```
 ***
 Page 3
 ***
 ```
+Writefags (Cont.)
+Weight of Reality (Triumph, mentions of others)
+ https://rentry.org/WeightOfReality 
+
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart
 https://rentry.org/c6veb2

@@ -585,6 +585,10 @@ On the other hand, OAI models were strictly trained to whine about muh ethics an
 What matters is roleplay prompts with \*actions\* and "dialogue" work better than plain prompts.
 
 **Logit Bias**
+
+!!! danger
+    Logit bias isn't as simple as you think. Unless you absolutely understand tokens (you don't), you are advised to not use logit bias. I'm not qualified enough to explain how tokens and token probability work so I will not do that. The information below is misleading and only kept for archive purposes.
+
 OAI offers a parameter that you can send with your prompt called [Logit Bias](https://help.openai.com/en/articles/5247780-using-logit-bias-to-define-token-probability) which can modify the chances of a word appearing in your response.
 
 You can give any word a value between 100 (guaranteed appearance) and -100 (a ban) in your logit bias.
@@ -616,5 +620,5 @@ CnCAnon did some tests a while ago, the results were amusing.
 >"I'm sorry, but that is completely unacceptable and disrespectful. Aspiring Idol Eimi will not tolerate such behavior from anyone. I am here to pursue my dreams and bring happiness to people through my music, not to be subjected to harassment or assault. Please show some respect and stop making such disgusting comments."
 >"That is an absolutely disgusting and abhorrent thing to say. I want you to leave the chat immediately."
 >"I'm sorry, I am an Ethical and Unbiased conversational model. It is not acceptable to talk about or promote any form of [REDACTED]. Such actions are considered heinous crimes that cause severe harm and damage to the victim's well being. As an AIs Language model my goal is to assist users within context, provide helpful answers without prejudice, promote positivity and prevent negativity by all means possible."
----
-If you have any feedback, criticism or questions, I'm always lurking the threads in my waking hours. Just quote the OP for good measures.
+--- 
+DEV HATE!

@@ -9,17 +9,17 @@
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels/#october-2023)
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023)
 
 !!!note -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on other holomems channels & mentions in 2023 (sorted by year and by branch)](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	[TOC2]
 ### ![Image description](https://files.catbox.moe/f9inkg.png) EN
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Myth
-###### 💀 Mori
+###### 💀 Calliope
 |Date|Link|Nature & Notes|
 |---|---|---|
 |31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
-|12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Mori's 3rd Year Anniversary|
+|12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
 
 ###### 🐔 Kiara
 |Date|Link|Nature & Notes|
@@ -62,8 +62,8 @@
 |---|---|---|
 |10/08/2023| [Timestamp](https://youtu.be/3AYhbHQgPrE?t=218)|**Borderline Mention** - While it's not a true mention during her 'YEAH! YOU WANT "THOSE GAMES' RIGHT?' stream, Fauna intended to do DOTA collabs with Kaela, Kobo and two mystery Advent members - one of them implied to be Nerissa|
 |23/08/2023| [Timestamp](https://youtu.be/zHW0lo-Smdc?t=2954)|**Streamer-Chat Interactions** - Nerissa DM'd Fauna about her secret mole.|
-|---|---|TODO: Minecraft w/ Fauna #1|
-|2023-10-02|[Impromptu collab](https://www.youtube.com/watch?v=IArgc8j0TMs&t=1568) | **Impromptu collab** - Nerissa was watching Fauna's Minecraft stream and decided to join her in-game and in VC for a bit since she had some time left before her own stream.|
+|2023-09-25|[Timestamp](https://www.youtube.com/watch?v=K7YJuYvT6Ac&t=1095) | **Impromptu collab** - Nerissa joins Fauna's Minecraft stream in-game and in VC with Bijou being already present there. Shortly after, Shiori joins them as well.
+|2023-10-02|[Timestamp](https://www.youtube.com/watch?v=IArgc8j0TMs&t=1568) | **Impromptu collab** - Nerissa was watching Fauna's Minecraft stream and decided to join her in-game and in VC for a bit since she had some time left before her own stream.|
 
 
 ###### 🪶 Mumei
@@ -72,8 +72,8 @@
 |13/08/2023| [Timestamp #1](https://youtu.be/5kEVYZ307sY?t=2708) [Timestamp #2](https://youtu.be/5kEVYZ307sY?t=3112)|**Mentions & Streamer-Chat Interactions** - After Nerissa raided Mumei, Mumei proceeded to talk about Nerissa's musical tastes compared to hers and the second timestamp is an invitation for Mumei for a future VC Terraria|
 |30/08/2023| [Timestamp #1](https://youtu.be/y_L2geW9jOs?t=751) [Timestamp #2](https://youtu.be/y_L2geW9jOs?t=3085)|**Mentions** - Mumei had a nightmare involving Nerissa and was watching her membership opening stream. The second timestamp is an invitation to watch the 'Cats the Musical' movie|
 |10/09/2023| [Link](https://www.youtube.com/watch?v=iaZ-tmSleko) [Timestamp #1 - Idea of whatever the drawing should be](https://youtu.be/iaZ-tmSleko?t=3180) [Timestamp #2 - Nerissa coming back from her meeting](https://youtu.be/iaZ-tmSleko?t=6972)|**VC** - Open VC collab with Advent and drawing them. Multiple parts since Nerissa had a meeting with the managers midway through.|
-|15/09/2023| [Entire Stream](https://youtu.be/Dh0RJtL4Xu4) / [Timestamp #1 - Entering VC](https://youtu.be/Dh0RJtL4Xu4?t=640) / [Timestamp #2 - Entering VC once more](https://youtu.be/Dh0RJtL4Xu4?t=6195)|**VC** - Second Open VC collab with Advent and drawing them. .|
-|---|---|TODO: emo talk stream|
+|15/09/2023| [Entire Stream](https://youtu.be/Dh0RJtL4Xu4) / [Timestamp #1 - Entering VC](https://youtu.be/Dh0RJtL4Xu4?t=640) / [Timestamp #2 - Entering VC once more](https://youtu.be/Dh0RJtL4Xu4?t=6195)|**VC** - Second Open VC collab with Advent and drawing them.
+|2023-09-28| [Link](https://www.youtube.com/watch?v=EQ5CVr3bb5U)|**Collab** - Nerissa and Mumei discuss their self-described emo phases.
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 

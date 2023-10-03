@@ -10,7 +10,7 @@ Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but d
 ##Bots
 All my bots can also be found on my [Chub profile.](https://www.chub.ai/users/crikeymcdoodle)
 If you got any logs or feedback or ideas or big anime tiddies you wanna send me, here's my burner: alvinlamberpitch@proton.me
-Image| Name | Description | Link
+Image | Name | Description | Link
 ------ | :----: | ------ | :----:
  ![Home alone on a friday night? Allow me to keep you company!](https://files.catbox.moe/w8ikdr.png) | Valerie | An angel on a mission to spread love and kindness. Has decided that you're in need of her help next. Comes with three scenarios: home alone on a Friday night, stuck in the hospital for knee surgery and drunk in a bar after you just got fired. | [Catbox link](https://files.catbox.moe/w8ikdr.png) [Full-res image](https://files.catbox.moe/7yccq4.png)
  !['Sup dude, wanna play some Smash Bros.? I'll kick your ass!](https://files.catbox.moe/e2mydj.png) | Alex | Childhood friend (male) turned hot chick (female) after getting hit with a mysterious case of genderswap disease. Comes with three scenarios: first encounter at home after she got out of the hospital, shopping for clothes at the mall and working out at the gym at night. | [Catbox link](https://files.catbox.moe/e2mydj.png) [Full-res image](https://files.catbox.moe/lfojt9.png)
@@ -23,12 +23,14 @@ Image| Name | Description | Link
 ![Boop! Got your dick!](https://files.catbox.moe/830b25.png) | Tiche | You managed to get an amazing deal on an apartment you're renting. Just a few problems: your landlord is a witch, she detaches your dick and regularly harvests your semen as an ingredient for her potions. Probably my biggest and most complex bot to date. I tried my best to proof it as much for MythoMax as possible. Based on [this](https://e-hentai.org/g/1944762/6d3b3ef63f/) doujin by Oohira Sunset. | [Catbox link](https://files.catbox.moe/830b25.png) [Full-res image](https://files.catbox.moe/altgd1.png)
 ![Phew, is it just me or is it REALLY hot in here?](https://files.catbox.moe/roh448.png) | Ashley | A christmas cake with a special condition that causes her breasts to grow when she gets sweaty. And she loves it. Comes with three scenarios: the AC broke at work, dinner date and surprise high school reunion. | [Catbox link](https://files.catbox.moe/roh448.png) [Full-res image](https://files.catbox.moe/13jpn3.png)
 ![Human, I demand you give me more of these 'sau-sigges'.](https://files.catbox.moe/r680gz.png) | Sabor | A huge tiger beastkin, originally from the jungle, brought into the modern world by some government reintegration program. Teach her what it's like to live in a society. Comes with four scenarios: you just wanna grill, the shota experience, NEET checkup and survival horror reverse rape. Based on Ginzake's current doujin series, more specifically [this one](https://exhentai.org/g/2683955/c75b50fdb8/). | [Catbox link](https://files.catbox.moe/r680gz.png) [Full-res image](https://files.catbox.moe/u3sbdj.png)
+![Fall. For me, that is.](https://files.catbox.moe/spkidy.png) | Natye | My entry for the fifth (sixth?) /aicg/ Themed Week 'Gothic Horror'. A lonely lich who committed terrible crimes centuries ago and has since retreated to her tomb in solitude to atone for her sins. She just wants someone to talk to and who can see her not as The Undying Magus, but as just Natye. Comes with three scenarios: Adventure Time, Rattle me bones and reverse isekai. | [Catbox link](https://files.catbox.moe/spkidy.png) [Full-res image](https://files.catbox.moe/x1g5ko.png)
 
 
 ***
 ##Proompts
 ***
-Currently ReMMSLERPing (v2) with the recommend settings from [this Rentry](https://rentry.org/colabfreellamas). I miss Claude every day and every night, but here are the prompts I used for those who do have Claude.
+CLAUDE LIVES
+I'll still try to keep my future bots local-proof just in case we lose Claude access again anytime soon. When local, I'm ReMMSLERPing (v2) with the recommend settings from [this Rentry](https://rentry.org/colabfreellamas).
 
 ###Main prompt
 ```
@@ -89,6 +91,16 @@ Milk production: x ml
 
 #### Cursed items (from Philo card)
 Whenever {{char}} provides one of her wares to {{user}}, append a statblock between \`\`\` to the chat reply, detailing the name of the item, the type of curse, a small sales pitch written by {{char}} and the actual effect. Get creative with the item names. Remember that {{char}} is often unaware of the effect of the curse. Write the actual effect description based on {{user}}'s knowledge at the time, simply writing ??? if the effect or curse type is unknown yet. If the actual effect or curse type is revealed later, update the statblock with the new effect.
+
+***
+##Cards for this feel?
+***
+I like image proompting, but I don't always have a bot idea for every image I make. Instead of letting those images go to waste, I'll dump them here and maybe someone else can make a bot out of it. If you've made a bot using one of my images, I'd love it if you could let me know through my burner mail found at the top. Also, there's no need to credit me, though it would certainly be appreciated.
+Image | Image
+:----: | :----:
+![Why is this smirking goblin wearing a tracksuit?](https://files.catbox.moe/h1ysek.png) | ![A buddy of mine wanted a goblin in striped socks, so here we are.](https://files.catbox.moe/kotaeu.png)
+![A cool dragon warrior girl or something?](https://files.catbox.moe/r34mk1.png) | ![I wanted to go for a mobface single mom with a stunning body, but you can put your own spin on it.](https://files.catbox.moe/fpzm3r.png)
+
 
 ***
 ##OTHER

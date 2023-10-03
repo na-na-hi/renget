@@ -180,7 +180,7 @@ KFC throws a crudely-made pouch their way.
 
 “...here’s some orans courtesy of Lliam. These should do the trick if your wounds get too troublesome. Give him the bag later, by the way.”
 
-Gill, who also trails along, intervenes: “We’re just… supposed to shoot our fire at each other? Wouldn’t this a bad idea?”
+Gill, who also trails along, intervenes: “We’re just… supposed to shoot our fire at each other? Wouldn’t this be a bad idea?”
 
 The combusken stops himself in his tracks: “...I don’t know what is it with you people whenever this happens. Humans might be less resilient than sunkerns, apparently, but you’re not humans right now, are you? You’ll recover pretty quickly, with or without orans.”
 

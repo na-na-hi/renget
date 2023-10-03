@@ -934,6 +934,13 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 
 	https://files.catbox.moe/9vije9.safetensors
 
+# kiwihermit (artist)
+
+>I did a captionless kiwihermit iA3 for fluffyrock
+	https://files.catbox.moe/m5xomh.safetensors
+	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
+	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
