@@ -27,6 +27,8 @@ you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth a
 
 Changelog:
 - `Sep 14th - 2023` - 	
+	- [Added release update for SDXL NSFW model)](https://rentry.org/sdhassan#SDXL-finetuning)
+- `Sep 14th - 2023` - 	
 	- [Added SDXL training progress and samples)](https://rentry.org/sdhassan#SDXL-finetuning)
 - `Apr 22nd - 2023` - 	
 	- [Added progress update on new Hassans finetuning SD2.1 with NSFW)](https://rentry.org/sdhassan#21-finetuning)
@@ -87,6 +89,18 @@ Changelog:
 
 
 ### SDXL Finetuning 
+First release of my NSFW SDXL Checkpoint+ Lora tomorrow for [Ultimate Patreon supporters!](https://www.patreon.com/sd_hassan)
+12 minutes ago
+
+I'm currently uploading the 13gb model (unpruned) and a bunch of the LORA models for the training I did for SDXL
+
+This will be available to Patrons Ultimate supporters.
+
+After a few more days, the Supershot supporters will receive it 
+
+I will continue to refine these models but as promised I will release in stages, including alpha vs final releases so users can benefit from the models or contribute on top of them.
+
+
 
 [Latest patreon public post here regarding my training of SDXL NSFW with Samples included](https://www.patreon.com/posts/89256045)
 Training is pretty complete, in testing now, examples on the post shared. Patreons will gain early access first then it will release free to all

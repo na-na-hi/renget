@@ -552,7 +552,7 @@ Hakumo Ikari, "Kitsune Vixen" >>90347774
 Kurumi Yamagumo, "Prideful Puppeteer" >>90359191 
 Amami Kai, "The Tide" >>90371161 
 Mutsuo Aburame "Bug Guy" >>90410708
-Goro Tsuchigumo "Suspiciously Canon" >>90447679
+Goro Tsuchigumo "Suspiciously Canon" >>90455016
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90434647
 >C-Rank:
@@ -586,6 +586,12 @@ https://rentry.org/u4q5i
 https://rentry.org/6ur3e
 >The Shadow Looming Over the Leaf
 https://pastebin.com/gKbDnkfk
+>The weight of a bijuu
+https://pastebin.com/cYh82kz0
+>Yugakure Terrorist Arc: Part 1
+https://rentry.org/vr6nd
+>Slices of Life
+https://rentry.org/q6x74
 
 Relationship Charts:
 >Ray
@@ -1013,6 +1019,8 @@ Oliver Rodriguez
 >Rogues
 The Homemaker
 >>90239727
+>Mr Theseus
+>>90464266
 
 >Writefags
 Just Get Therapy Bro(Alexi)
@@ -1044,7 +1052,9 @@ Page 3
 ```
 Writefags (Cont.)
 Weight of Reality (Triumph, mentions of others)
- https://rentry.org/WeightOfReality 
+https://rentry.org/WeightOfReality 
+Southern Charm
+https://rentry.org/d3a4r3
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

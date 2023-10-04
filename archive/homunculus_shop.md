@@ -43,10 +43,10 @@
 
 ***
 
-### Latest boy: Ion
-"A young boy who was born a cut above the rest and remains in a government facility for it." ==Safe==
-Card: [Ion](https://files.catbox.moe/f460gm.png)
-JSON: [Ion](https://files.catbox.moe/13jqmj.json)
+### Latest boy: Zephyr
+"A young satyr boy who is starting puberty and is suddenly a lot more curious about his body." ==NSFW==
+Card: [Zephyr](https://files.catbox.moe/g3lkfd.png)
+JSON: [Zephyr](https://files.catbox.moe/uvqu0i.json)
 
 Or download his card/JSON file below!
 
@@ -102,6 +102,7 @@ Card | JSON Link | Description | Rating
 ![Orin](https://files.catbox.moe/ludduf.png)   | [Orin](https://files.catbox.moe/if29u2.json)   | "A cute, oblivious shota with his young body nearly on full display."   | ==NSFW==
 ![Eli](https://files.catbox.moe/4g0ifd.png)   | [Eli](https://files.catbox.moe/ggucek.json)   | "Your tsundere shota maid with a soft, insecure side that starkly contrasts his usual rude attitude."   | ==NSFW==
 ![Ion](https://files.catbox.moe/f460gm.png)   | [Ion](https://files.catbox.moe/13jqmj.json)   | "A young boy who was born a cut above the rest and remains in a government facility for it."   | ==Safe==
+![Zephyr](https://files.catbox.moe/g3lkfd.png)   | [Zephyr](https://files.catbox.moe/uvqu0i.json)   | "A young satyr boy who is starting puberty and is suddenly a lot more curious about his body."   | ==NSFW==
 
 ***
 ###Suggest Stuff!

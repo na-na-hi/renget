@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/09/28-23/10/01 (yy/mm/dd)
+##23/10/05-23/10/08 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()** 
-**FRI: Daibu offline at 2UTC (Parsec)**
-**SAT: Soul Blazer at 2UTC (Telemelt)**
-**SUN: Boktai 2 at 18:00UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
+**FRI: Daibu offline at 2UTC (Parsec)** perhaps
+**SAT: Illusion of Gaia at 2UTC (Telemelt)** perhaps
+**SUN: Minemelt at 17:30UTC* (Telemelt)** or shortly after cytube if there are any and it extends beyond the time stated here
 
 ##Cytubes
 
-**SAT: Rockman.exe Beast at 16UTC** Episodes 1-6
-**SUN: Rockman.exe Beast at 15UTC** Episodes 1-6
+**SAT: Rockman.exe Beast at 16UTC** Episodes 7-12
+**SUN: Rockman.exe Beast at 15UTC** Episodes 7-12, possibly not happening
 >-
 nothing
 
