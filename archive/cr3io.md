@@ -1,5 +1,6 @@
 #Coping with Slaude
 #### -> Spermack, 3.2k context token, Single and Unfiltered Response from Claude <-
+!!! note If you want to hope: https://rentry.org/slaudehope
 !!! info For slowburners: https://rentry.org/hn3bd
 ***
 ###Why still Cope with Slaude?

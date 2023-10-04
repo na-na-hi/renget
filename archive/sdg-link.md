@@ -170,6 +170,7 @@ https://rentry.org/AnimAnon-LoopbackWave
 https://rentry.org/sd-loopback-wave
 ###Clean up images
 https://github.com/Sanster/lama-cleaner
+https://github.com/novitalabs/sd-webui-cleaner
 https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
 ###ControlNet
 https://rentry.org/dummycontrolnet

@@ -18,9 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Helga](https://files.catbox.moe/qs33ae.png)|[Helga](https://files.catbox.moe/qs33ae.png) [MV]
 [Scrimbly](https://rentry.org/scrimb) | Misc |[The White Rabbit](https://files.catbox.moe/n1aoz4.png), [Pascal](https://files.catbox.moe/49jwxo.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Felicia](https://files.catbox.moe/oh8z7g.png), [Durga Stonesong](https://files.catbox.moe/ygr6t5.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Mikan](https://files.catbox.moe/wb0xn9.png), [Elise](https://files.catbox.moe/hojj5a.png)|
+[Luneose](https://rentry.org/luneose) | Misc |[Mikan](https://files.catbox.moe/wb0xn9.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Mia and Terrance](https://files.catbox.moe/z27l2l.png), [Erika](https://files.catbox.moe/q76824.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Ion](https://files.catbox.moe/f460gm.png), [Eli](https://files.catbox.moe/4g0ifd.png), [Orin](https://files.catbox.moe/ludduf.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Natye](https://files.catbox.moe/spkidy.png)|
@@ -32,7 +33,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Planewalker](https://rentry.org/planewalker) | Misc |[Nicholas](https://files.catbox.moe/0cg5cj.png), [Simon](https://files.catbox.moe/l3sinz.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Li Xiaoyu](https://files.catbox.moe/qsj7pv.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ziggy](https://files.catbox.moe/ktivtz.png)|[Ziggy](https://files.catbox.moe/ktivtz.png) [MV]
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Helga](https://files.catbox.moe/2qahjx.png)|[Helga](https://files.catbox.moe/2qahjx.png) [MV]
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Wendy](https://files.catbox.moe/ccv1gy.png), [Mara](https://files.catbox.moe/zv0hrj.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[June](https://files.catbox.moe/wclc44.png), [Amos](https://files.catbox.moe/118kjk.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Shinatsu](https://files.catbox.moe/eism7p.png)|

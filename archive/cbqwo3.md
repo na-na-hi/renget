@@ -127,6 +127,17 @@ A: "Such a sad sight. It's a wonder that he continues on."
 
 Y: "What he requires is not sympathy, but discipline. Luckily he has time to learn some before he can become a danger."
 
+!!! Info Slices of Life
+Y: "His direct way of dealing with situations is praiseworthy."
+
+A: I must say that the boy has a *familiar* way of doing things. Tsuchigumo may disagree, but I think he handled that dirty old man quite well."
+
+Y: "Indeed. My only fear is that his honesty of action will be unlearned. It may be best to have one of my cousins teach him the way of the sword."
+
+A: "Oh, how easily you change your tune! Were you not speaking callously of poor Kazuo but a week ago?"
+
+Y: "And my thoughts have not shifted. I simply see now that the discipline he needs cannot be found in a shinobi."
+
 >Sarurata, "The Retarded Orphan"
 Y: "He should consider himself lucky that the Academy is even willing to teach him.
 

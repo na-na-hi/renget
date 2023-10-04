@@ -25,6 +25,8 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 1/7/1 | 1 day | #SQ01 Cat-astrophic Marketplace | Someone's causing a ruckus in the market.
 1/8/1 | 1 day | #SQ02 Near Farfetch'd | Sneasler asks for your help to find a friend.
 1/10/1 | 1 day | #SQ03 For Want of a Tame | A traveling chef searches for coveted fruits.
+1/12/1 | 1 day | #02 Rub-a-dub Ravine | The group all head out to try exploration together!
+1/14/1 | 1 day | #EV03 Stay HAPPI | A stranger shows up in town.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -52,3 +54,5 @@ Upon seeing some activity by a strange tent tucked away in a corner, your group 
 The group sneak through the fogs of a secluded grove to find a few rare 'meat' berries for a traveling chef.
 
 !!! (9/30/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #02 Rub-a-dub Ravine
+
+!!! note (10/3/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV03 Stay HAPPI

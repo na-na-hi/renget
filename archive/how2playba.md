@@ -181,8 +181,8 @@ Once you have more resources you can branch out to a wider roster.
 
 A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
 
-[Use this for skill priority](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
-[this for raids (and **skill priority**)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
+[Use this for investment targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
+[this for raids (and skill priority)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
 The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
 
 ![how to use excel](https://i.imgur.com/QHrepqU.png)
@@ -190,7 +190,7 @@ The 'best' units are the ones with a high score, but be aware that BA is a game 
 Make sure to read the extra notes on the right as well. 
 
 You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
-You get the biggest return on investment by upgrading ur DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills.
+You get the biggest impact investing into your DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills.
 
 Early on you prioritise: Levels > Gear > Skills
 
@@ -210,6 +210,12 @@ No. At most you brick yourself by levelling the worse characters.
 ## Normal and Hard missions
 Puzzle gaming. Look at youtube videos or [use the wiki](https://bluearchive.wiki/wiki/Missions) if you don't know how to solve a puzzle.
 
+**Your goal is to go as far as you can in the normal mode for the cafe upgrades.** They drop every 3 areas at mission 5 and boost your daily AP recovery (this means 3-5, 6-5, ...). It's fine to 1\* a few missions, first time rewards don't care about ur stars. 
+
+**Don't forget to actually upgrade your cafe.**
+![Ranking up the cafe](https://i.imgur.com/WgMiJXG.png)
+(you can press that button)
+
 Recommended levels are a meme, ignore them. You can clear missions 10-20 levels underneath the recommended levels. 
 
 You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
@@ -217,16 +223,10 @@ If you have trouble with the boss you can charge ur EX bar to 10 the battle befo
 
 A personal recommendation is to use Tactical Supports. They can carry a lot of the missions by themselves. 
 
-Go as far as you can in the normal mode for the cafe upgrades. They drop every 3 areas at mission 5, that boost your daily AP recovery (this means 3-5, 6-5, ...). If your goal is to get those upgrades early it's fine to 1\* a few missions, first time rewards don't care about ur stars. 
-
-**Don't forget to actually upgrade your cafe.**
-![Ranking up the cafe](https://i.imgur.com/WgMiJXG.png)
-(you can press that button)
-
 If you hit a limit with your progression, switch over from normal to hard mode. Do the same until you hit a wall there. Alternatively, drain ur AP and get a few extra levels (1 AP = 1 XP) before trying the same stage again.
 You can refresh a hard node once a day for 3 extra sweeps. This is handy during rateup events, but generally not advised as it costs pyros. 
 Farming a hard node for equipments is better than the normal counterpart.
-Don't ever farm for BDs, the drop chance is abysmal. 
+Don't ever farm for BDs, the drop chance (2-5%) is abysmal. 
 
 Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. t5 boots drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. See below for an example. 
 
@@ -258,8 +258,6 @@ Yes. With enough shards you can redeem her through the student list. The caveat 
 
 >Do I prioritise unlocking all the characters or should I max out the good characters first? 
 Up to you. There are good arguments for both options, it's very dependant. 
-
-As a side tangent, you could farm 540 shards and wait for the girl to spook. This way you can instantly upgrade her to UE50. I personally did this, but this is the hyper autistic minmax option. Very painful, would not recommend.
 
 >Should I redeem X?
 Eh.
@@ -295,10 +293,10 @@ Only farm commissions during rate up events if you did the above.
 Commissions is comprised of two modes: Base Defense and Item Retrieval.
 Base Defense is a wave defense against small yellow armored enemies. You want to bring your best AOE yellow students and at least one tank. A useful trick is to use Serina to move your tank further ahead so they take 100% of the aggro from the waves of bots. This also prevents ur tank from running behind ur team. 
 sHifumi is surprisingly VERY good here, able to solo carry your run. Regular Hifumi also works as an okay way to tank damage, giving you much needed breathing room if your tank melts too fast. 
-Anyone you'd use for (indoors) Chesed works here. 
+Anyone you'd use for (indoors) Chesed works here. Think about Momoi, Cherino, Iori, Junko, Nonomi, Moe, Tsurugi, Sumire. 
 
 Item Retrieval is a single-target blue challenge with a strict time limit. Bring your best ST blues, but ST yellows work fine too if you're lacking good blue students. There is no need to bring a tank or healer to this mode.
-Any DPS you'd use for (urban) Shiro & Kuro works here. 
+Any DPS you'd use for (urban) Shiro & Kuro works here. Think about Izuna, Haruna, Wakamo, sAzusa, Chise, mAris. 
 
 ## Scrimmages
 The place you get mats to upgrade ur Exclusive Weapon (EW)/Unique Equipment (UE).
@@ -313,7 +311,7 @@ Welcome to the endgame content of BA, the biweekly PREMIER source of BDs, techno
 The first thing you want to do is join a club. The second thing is borrowing the strongest unit for the raid. Congrats you just beat the raid.
 
 Read up on what the boss does and how to tackle it with [the raid guide.](https://docs.google.com/document/u/0/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0)
-Alternatively look up some clears or guides on YouTube. 
+Alternatively look up some clears or guides on YouTube. E.g. "Blue Archive Binah Guide". 
 
 Up to HC you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
 Don't try EX without a mock battle if ur below the recommended level.
@@ -326,10 +324,11 @@ This works in mock battles and actual runs.
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 
 Groggy/stun meters are the small bars underneath the boss' HP bar. If applicable, they only fill up if you use the correct damage type.
-E.g. For Binah (yellow) I can use Mika to fill the bar and stun the snake, but I can't stun the snake with Aru no matter how much damage she deals. 
+E.g. For Binah (yellow) I can use Mika (yellow) to fill the bar and stun the snake, but I can't stun the snake with Aru (red) no matter how much damage she deals. 
 
 >I forgot if I started a mock battle or a real run, help! 
 In battle, at the top left of your screen it shows if it's a mock battle. If there isn't a notice, it's a real run. 
+
 >Should I save my raid coins? 
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
 You don't lose your coins after a refresh. 
@@ -347,7 +346,7 @@ Once you have used up an entire ticket (3 clears), you are able to sweep your re
 
 It's not worth it to hyperinvest into someone for just the exercise. Just take the L, do a lower difficulty, and move on.
 
-If you're feeling lazy you can auto stage 2/3. 
+If you're feeling lazy you can auto stage 1/2/3. 
 
 Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy.
 
@@ -356,7 +355,7 @@ Look at the [shop section](https://rentry.org/how2playba#shop) if you want detai
 
 The goal of PvP is to match your attack type with the enemy's armour type, while mismatching their attack type with your armour type. 
 Use [the following tierlist](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#) to build your team around. 
-General advice is to use a double tank setup + Shun, with good supports. Tsubaki is always good. 
+General advice is to use a double tank setup + Shun, with good supports. Tsubaki is usually your goto. 
 
 
 You can skip the battle if you don't like to be in pain. 
@@ -367,8 +366,8 @@ No, you can not turn off the auto button in battle.
 The place where u buy stuff and rub Sora's forehead.
 
 >Normal shop
-Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Ignore the tickets (unless if you're a korean leviathan whale), because they're not worth your gems; and get the enhancement stones *only if you need them*.
-Buying the activity reports with credits is kind of bad (as in really bad).
+Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Buy the enhancement stones *only if you need them*.
+Buying the activity reports with credits is kind of bad (as in really bad). 
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
@@ -377,7 +376,7 @@ Don't use ur elephs for farmable characters if you can, they're quite literally 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me Hanako is SSS tier, buy her elephs NOW](https://i.imgur.com/edrBC8o.png)
+![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/edrBC8o.png)
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 
