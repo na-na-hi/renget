@@ -409,6 +409,7 @@
 [First Train and Kafka, Stop 18: I am Numb](https://docs.google.com/document/d/e/2PACX-1vSWprgVMpZYQuRmX5t1BVmMudRk4X6TbS2AESE4kDqvJGR4tbStFNXfxItffCNs5U1kagRJumv3VFK9/pub) ( Yozora Mel, underage sex, drugs, masturbation, anthology series)
 [First Train and Kafka: Stop 19](https://docs.google.com/document/d/e/2PACX-1vQoy9w2STuOzF_9FsJ1PwLaetdsVlHujCUGQzBpRiJQGtMUq6O03C9g49bfukLWQr_QmIdR5xKRlQ_9/pub) (anthology series, (you), Suisei, underage sex)
 [First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
+[First Train and Kafka Stop Twenty Seven: Doll of Building Blocks](https://docs.google.com/document/d/e/2PACX-1vQf7GEqqCB8ufcXRU72Utag8HMZ5o57_aoQn3vti5vfIXX21uI6dwqOy0de4ci57pQWdyzosmHio0rb/pub) (Civia, incest, MDLB, light omorashi, breastfeeding, underage)
 
 #####->*Your Time Is Gonna "Come"*<-
 >Kronii has always been wiping the floor with you anytime she catches you doing your time-travelling shenanigans, but after getting a random helping hand, you're thinking you can do something about her smug attitude and her alarmingly juicy tittes and booty.
@@ -433,6 +434,7 @@
 [A Predator's Touch - A Hazy Yellow Line (Part 2](https://docs.google.com/document/d/e/2PACX-1vQghOZupNeWJGPHC6nVEeIf8H4eLnWK3RiMJQwItjuUx0xkPplRBKUG9lUnrnbpY3zNc9Z-RHSqrKwB/pu) (Botan, Koyori, Moona, SFW)
 [A Predator's Touch, A Hazy Yellow Line (Part 3)](https://docs.google.com/document/d/e/2PACX-1vQVPsZhWoEprE8oP_7Sz3nbM-3-2hAmBU-MwtFyKAiRs2R4-UbGWS7xoyrRdSZgiqGj_DqiChMEWHWu/pub) (Botan, Koyori, Moona, Subaru, SFW)
 [A Predator's Touch, A Hazy Yellow Line (Pt. 4](https://docs.google.com/document/d/e/2PACX-1vRcvehOWvdN1muInIUlkyHywne02DCjphnfL0P-Lew_9lVDGFYQsXgrJWUbe0JvRG3ne3xjwDZnl4Kg/pub) (Subaru, Ame, Koyori, Botan, SFW, Drama)
+[A Predator's Touch, A Hazy Yellow Line (Part 5)](https://docs.google.com/document/d/e/2PACX-1vSno4IbubITKUfmBPz8nlRuHDzPRpypdfC94belG-2UZnEqsxgVCx5Q1Vzng_nKkfwyP2oq4pLTBvj0/pub) (Botan, Koyori, Ame, Subaru, Mystery, Drama)
 
 #####->*Let Me Feel Your Pain*<-
 >Description to go here.
@@ -572,3 +574,4 @@
 [Balsa Chapter 22: The Best Within Ourselves](https://docs.google.com/document/d/e/2PACX-1vTMysB4Lyr6xSI7XxdzqXa8NzQLX3iJhIhscbP4jHwJpeMSmvjjdfcZtjKSVFU81HeHWv_5Axjxz7eT/pub)
 [Balsa: Chapter 23: Reconciliation](https://docs.google.com/document/d/e/2PACX-1vTdU2O7n2VxY1tK9n2-abRzHYJsD7WX11lQU0eyqR3KdxxpWq0iR7_jkCKMp6FupiduDtDdzIcv9MQN/pub)
 [Balsa: Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)
+[Balsa: Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)

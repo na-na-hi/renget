@@ -25,6 +25,7 @@ These will either be required by something you go to download in the future, or 
 *note: Custom Skills Framework and Improved Camera, both available on Nexus currently, no longer require NSF.*
 
 Address Library for SKSE Plugins - version independence for SKSE mods.
+Comprehensive Attack Speed Patch - SKSE - This caps attack speed so you won't ever get the 6 million swings per minute shit when mixing and matching a dozen mods that all include their own attack speed fixes. Must-have.
 Spell Perk Item Distributor (SPID)
 Keyword Item Distributor (KID) - *note:* patching with these 2 distro mods is as easy as editing an .ini file. Make your own and upload them for anons
 JContainers SE
@@ -50,6 +51,7 @@ Animation Queue Fix
 Open Animation Replacer - modern replacer for the old DAR framework. Drops right in retaining perfect compatibility with your current animation setup.
 Crash Logger SSE AE VR - PDB support
 First Person Animation Teleport Bug Fix
+Sprint Sneak Movement Speed Fix
 Auto Input Switch - technically not Required but why wouldn't you use this?
 **NG** Scaleform Translation Plus Plus - needed for Whose Quest, among others.
 **NG** Whose Quest Is It Anyway.
@@ -82,7 +84,7 @@ Sprint Tweaks - to taste. sets sprint to hold rather than toggle, and adds BOTW 
 Better Jumping - sprint jump, double jump, etc. [sound patch](https://www.nexusmods.com/skyrimspecialedition/mods/44041) needed if using with CGO.
 Wade in Water Redone - finally has animations thanks to EVG Conditional Idles.
 S.M.C. - Skyrim Motion Control - This one is super cool. Dynamic acceleration, deceleration, slope speed adjustments etc. 
-*note: Skyrim Souls compatibility is in .ini, as is the off-by-default hard/soft landing feature. I also adjust swim modifiers if playing argonian.*
+*note: Skyrim Souls compatibility is in .ini - leave it off! If it feels weird otherwise, just halve the ramp-up values and double the stopping force value.*
 
 ###Miscellaneous
 Rumble - super cool mod that hooks into game events to provide controller feedback. Check .ini - rain and footsteps are way overtuned OOTB (for my gamepads at least).
@@ -91,6 +93,7 @@ Frozen Electrocuted Combustion - It's stable and more or less expands on vanilla
 Simply Knock SE - This needs (Simply Knock DLL for AE). The fact that this wasn't in vanilla is criminal.
 Dynamic Timescale - I use this for long RP, no nonsense and the out-of-the-box settings work fine for me. 
 *or* Time Passes - This one is more popular, since it only affects the flow of time while you are engaging in time-consuming actions (reading, crafting, etc). Some configuration is required - set time to 0 for crafting if using honed metal, 0 for eating if using CACO or economy mods.
+Dynamic Activation Key - Just a global that toggles what you do to things when you press a button. The Addons can sort of replace Use or Take although with some jank.
 **Æ** Essentials Be Gone SKSE Reborn - this one supposedly works sometimes, the other ones available don't work at all. good luck.
 
 ##User Interface
@@ -99,12 +102,12 @@ Dynamic Timescale - I use this for long RP, no nonsense and the out-of-the-box s
 
 Quick Loot RE *or* QuickLoot EE - pop-up, scrollable loot menu like fallout 4's. I actually don't use this, as I believe it ruins the flow of gameplay.
 SkyHUD - thick and powerful HUD replacement. Most SkyUI skins will include a SkyHUD skin.
-Oblivion Interaction Icons - Replaces the activate text ("Search", "Ride", "Molest", etc) with icons. Make sure to run the synthesis patcher. (Has patches for Use or Take SKSE for unique icons.)
-Simple Activate SKSE - customize the activate prompt. Somewhat redundant with SkyHUD or BTPS.
+Oblivion Interaction Icons - Replaces the activate text ("Search", "Ride", "Molest", etc) with icons. Make sure to run the synthesis patcher. (Many icons are only for mod-added features like Use or Take or DAK, so check those out too.)
+Simple Activate SKSE - customize the activate prompt. Somewhat redundant with SkyHUD or BTPS but not entirely.
 Read or Take SKSE - hold shift to pick up books. Zero jank, compared to old papyrus implementations.
 Use or Take SKSE - hold shift to interact with food, dropped torches, potions, poisons, etc. Also jank-free. 
 Better Third Person Selection - lets you grab shit off the ground while staring at your character's ass, no pixel hunting required. *note: overrides all activate prompt settings from other mods. Check MCM carefully!*
-TrueHUD - Floating enemy health bars, MCM-customizable player bars, some other cool stuff. 
+TrueHUD - Floating enemy health bars, MCM-customizable player bars, some other cool stuff. Sort of replaces SkyHUD in that most changes are overridden. Most modern UI overhauls need or support both SkyHUD and TrueHUD.
 
 Untarnished UI - Finally, something I can recommend without reservations. This does a great job of updating the original UI concept for skyrim while clearing out all the visual clutter and includes support for most modern HUD and UI mods.
 *or* Dear Diary Dark Mode - SkyUI Menus Replacer SE - Cool retro-fantasy pen and paper aesthetic with awesome customization and compatibility. Used as a base for many reskins (like Untarnished).
@@ -239,6 +242,7 @@ Weapons of the Third Era MoS Edition SE - Leveled list distribution for some rea
 
 QuestionableKhajiit's replacers - I use Ebony, Daedric, and Orcish. 
 Glass Blades
+Katana Crafting SE - While you were getting laid I was studying the blockchain etc
 If you want a cool unique sword for your ~~rapemeat~~ character: anything by billyro, basically. Or Loner's Sword.
 If you need MOAR WEAPONZ BRO!?!?! than Reforging and WOT3E add: Immersive Weapon Integration with the SPID patch.
 
@@ -282,7 +286,7 @@ Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a 
 *Honorable Mention*
 
 Skills of the Wild - Expands greatly upon campfire's skills to give you meaningful progression in hunting, survival, cooking, etc. 2.0 removes a lot of bullshit dependencies and streamlines considerably.
-Simple Hunting Overhaul - No-bullshit streamlined alternative to Hunterborn without the compatibility nightmares. I would only use Hunterborn now for a focused Bosmer playthrough of some sort. Even then, good luck patching bosmer recipes and such.
+Simple Hunting Overhaul - No-bullshit streamlined alternative to Hunterborn without the compatibility nightmares. I would only use Hunterborn now for a focused Bosmer playthrough of some sort. Even then, good luck patching recipes and such. You'll need it.
 
 ###Alchemy:
 
@@ -334,7 +338,7 @@ Perseids Inns and Taverns - Realistic Room Rental Enhanced - If you don't use AN
 ###Encounters and Travel
 
 Carriage and Ferry Travel Overhaul - more ferries and carriage routes, and a ton of other changes. I still use this with some patches.
-Convenient Carriages - All the features of CFTO plus some new ones.
+*or* Convenient Carriages - All the features of CFTO plus some new ones.
 Immersive World Encounters - "but nwahman it says Immersive!" yeah well it's still pretty good. This expands the vanilla 'roadside encounters' (old orc, dead horse, fat imperials lost on the way to solitude) by adding dozens of new encounters. Disable the bandit attacks if not playing as a dragonborn.
 SSE Organic Factions Extension - This adds a host of new hostile mini-factions throughout Skyrim that offer a serious mid-to-late game challenge for sellsword or adventuring players. Traveling alone in the Reach or without werewolf repelling armaments near Falkreath is no longer advised.
 Northern Marsh Bridges *and* Solitude Skyway - whatever Imperial dork civil engineer designed the road from Morthal to Solitude should be rotting in the Imperial City Prison, being tortured by goblins with large 'spears'. This lets you make the journey without getting your feet wet or getting raped on the carriage fee.
@@ -356,8 +360,8 @@ AI Overhaul - use the synthesis patch and only download patches for mods that mo
 
 ###Needs, visual tweaks, etc.
 Frostfall + Last S(n)eed - the gold standard for immersion autists, finally released. Work together seamlessly.
-*or* Sunhelm - As of 3.0, this is a better conceptualized overall system than the above combination, which is showing its age. It still lacks some Hard Core Immersion features such as wetness, natural disease recovery, addiction, etc, so I don't use it - but it does Just Work.
-Immersive Equipment Displays - finally, something I can recommend that shows your favorited gear! No patches, no mesh generation, no gay marriage, just werks. Now supports weapon placement like XPMSE!
+*or* Sunhelm - As of 3.0, Sunhelm works well for all survival features and is a narrowly focused, highly compatible and supported AIO solution. It lacks just about all of the Hard Core features from the FF+LS combo, so I don't use it, but it's easier to build a loadout around.
+Immersive Equipment Displays - finally, something I can recommend that shows your favorited gear! No patches, no mesh generation, no gay marriage, just werks. Now supports weapon placement like XPMSE! Also replaces CBPC Weapon Physics.
 *Consider:* Carry Your Corpses, and Murasame's presets (to emulate the old AllGUD functions.)
 Skald's Mail - In case you haven't replaced your courier with moe parthuunax or some shit yet, try this. Give the poor guy a day off.
 eating animations and sounds SSE - the madman actually animated every piece of food. phenomenal.
@@ -369,7 +373,7 @@ Spell Research - This is a tricky one, because this is one of my favorite mods b
 
 Dark Corners of Nirn - Ever wanted to have crippling PTSD? Here you go. More of a novelty than something to structure a playthrough around.
 
-Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Nemesis System like in the shitty LOTR batman games. This has less confusing spawn points and debuffs than the other mods, and can be configured to do about the same things as both.
+Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Nemesis System like in the LOTR batman games. This has less confusing spawn points and debuffs than the other mods, and can be configured to do about the same things as both.
 *or* Ashes - Sleep to save, wake up where you slept when you die with a mild debuff and configurable item loss. Check the comments for some essential fixes. Unmaintained and has some minor niggles, but finished and working.
 *or* Respawn - This is similar to the above but your respawn points are fixed to Temples, Halls of the Dead, and your homes. This is maintained and less buggy, and works in DLC or quest areas. Check the comments for a bed respawn more similar to Ashes.
 *or* Defeat - if you'd rather be raped and impregnated than be immortal, I suppose.
@@ -395,6 +399,7 @@ At Your Own Pace / Timing is Everything - these slow down quest starting and pac
 The Choice is Yours - lets you say "fuck off n'wah" to people who ask you stupid fuckin questions like "will you help me save the world" or "pls steal the drugs for me".
 Even Better Quest Objectives - Gives you a bit more of the old 'who what where' than vanilla objective text, lets you go without quest markers most of the time. This one is patch-intensive, and mod quests with shitty descriptions will stand out sorely, but I still use it.
 Finding (X) - This little series reworks a few lackluster vanilla quest lines. I like them.
+Any of jayserpa's quest reworks: Most of them let you *gasp* Role Play when doing quests. Crazy right?
 
 ##NPC appearance:
 
@@ -406,6 +411,7 @@ If you do go the plugin route (bijin's fuckdolls, pandorable's kpop models, what
 Nordic Faces
 Pandorable DG + DB
 Refined Volkihars
+*consider:* Serana Replacer - Ella's NPC - Gothic horror waifu? say no more.
 Elevated NPCs
 BeastHHBB
 *and/or* Project Ja-Kha'jay - Just load after HHBB.
@@ -417,15 +423,16 @@ Children of the Pariah - By the author of the above. Really great orc-verhaul.
 
 I recommend you find a modlist whose screenshots you like and install its graphics recommendations, as these rarely require serious patching. Here is what I consider the bare minimum for vanilla performance and moderate visual fidelity gains.
 
-BethINI - small utility to tweak your .ini settings. I highly recommend using its presets over those included with the launcher, performance gains are significant.
+BethINI Pie - small utility to tweak your .ini settings. I highly recommend using its presets over those included with the launcher, performance gains are significant.
 Myrkvior, Morekvior, Dilon Vul, *and* Bent Pines - well thought out, realistic tree replacers that won't rape your FPS.
 Cathedral Landscapes - Decent grass, vanilla comparable performance.
-*or* Seasonal Landscapes - This uses vanilla-derived trees and some common mod grasses to transform the southern holds of Skyrim in spring, summer, and winter. Consider Unfrozen for summer in the northern holds. This will override any grass mod you use, as a rule.
+*or* Folkvangr - awesome grass, questionable performance on toasters.
 Water Mod ENB Displacement Textures - Very lightweight water tweak that makes ENB's water displacement apply to vanilla or Cathedral waters.
 *or* Water for ENB - this is technically far superior, but requires work on the user end to look right. Worth it for me, might not be for you.
-Mari's Flora
+Mari's Flora - Awesome textures for just about all flowers and plants. Couple of options for each as well.
+*and/or* Cathedral - 3D (whatever) - I use several of these to override Mari's just for flavor. 
 Simplicity of Snow - This lets you avoid going down the absurd BDS (Better Dynamic Snow, not the sanction stuff) rabbit hole while fixing a lot of vanilla snow weirdness.
-Player Spell (And Weapon) Lighting - Most anons use ENB light for this feature, you can if you like, but I actually prefer this implementation for simplicity and the visuals playing more nicely with skin. 
+Player Spell (And Weapon) Lighting - Most anons use ENB light for this feature, you can if you like, but I actually prefer this implementation for simplicity and the visuals playing more nicely with skin.
 
 ###Weather and ENB:
 
@@ -437,20 +444,33 @@ RAID Weathers - This is a beautiful and performance-friendly treatment of the va
 *and* Raid Weathers ENB - Desaturated by default, but give it some time and wait for the brighter weathers and it will pleasantly surprise you. Supports Lux.
 
 NAT.ENB III - All-in-one weather and ENB with some spectacular eye candy. It's surprisingly visually consistent, but doesn't play nice with a wide range of mods and it breaks stealth. I would only recommend it for serious screenarchery or high end rigs, since you can't disable the ENB or most of its effects without significant visual weirdness. Supports many modern interior lighting mods.
-*and/or* Berserkyr ENB - This is an ENB designed around the NAT weather system + Lux and also looks incredible. I find this to have better performance than just NAT, but it still takes a bite out of your frames.
+*and/or* Berserkyr ENB - This is an ENB designed around the NAT weather system + Lux and also looks incredible. I find this to have better performance than just NAT, but it still takes a bite out of your frames. Looks horribly oversaturated as of 1.2, and skin gets a bit plasticky as well. Consider 1.1.
 
-Azurite Weathers - More modern take on Cathedral weathers, an old standby that focused on environmental effects and fixing vanilla weirdness (horizon seam, broken fog, etc etc etc). This one looks very good and offers vanilla performance - the colors are good enough to use it without an ENB in my opinion, although many popular ENBs (Rudy's, Pi-Cho, etc) will have profiles for it.
+Azurite Weathers - More modern take on Cathedral weathers, an old standby that focused on environmental effects and fixing vanilla weirdness (horizon seam, broken fog, etc etc etc). This one looks very good and offers vanilla performance - the colors are good enough to use it without an ENB and using Community Shaders in my opinion, although many popular ENBs (Rudy's, Pi-Cho, etc) will have profiles for it.
 
 *Honorable Mentions*
 
 Pi-Cho - Built off of legacy shaders from Silent Horizons, the screenarchery standby since forever, this is the gold standard for balancing characters and environment. If you don't use it, anons will complain about your skin and tell you that you should play LE instead.
+*note: The new Silent Horizons suite is out. I haven't tried it but it probably blows anything else out of the water.*
 
 The Enhancer - an ENB preset designed to work with any setup, by the author of NAT. Minor performance hit and heavy sharpening. If you're using some oddball mix of weathers and interiors, this will allow you to use ENB features like water or ENB light without making shit look wronger. Skin subsurface is way oversaturated, make sure to dick with the skin settings if you intend to do the hecking screenarchering.
 
 Ljoss - This has phenomenal performance while still supporting some new-ish features like Particle lights. If you need locked 60 FPS on a potato, optimize your game first then install this with .347 binaries or slightly newer.
 
+###Seasons
+
+I originally wasn't going to include these since they're a huge pain in the dickhole to set up and I figured they were out of scope, but after getting it hammered out it's so worth it. Here's the list. Keep in mind that you will need Dindu LOD and some other tools.
+
+Seasons of Skyrim SKSE - the framework. fire and forget.
+Simplicity of Snow - I recommend this whether or not you use Seasons but it's mandatory with them.
+Seasonal Landscapes - there are others but none of them work worth a fuck mostly or have yuge compatibility issues. Just use this and call it a day. This will cover grass for all holds.
+*consider:* Seasonal Landscapes - Unfrozen. However, Unfrozen has huge worldspace edits and will need patches for just about everything.
+Seasonal Wildlife Distribution - Adjusts creature spawns seasonally. Mandatory IMO. Has patch for True Hunter which is also, IMO, Mandatory.
+Seasonal Weathers Framework - Sucks to waste 2 hours waiting for DinduLOD to generate your snow only to get rain in winter. This fixes it if you have a config for your weather mod. Vanilla preset works OOTB with Azurite which is cool.
+Frostfall - Seasons - if you use sunhelm or something gay this won't help but if you are a real gamer and use Frostfall you need this so you don't end up chilling naked in the snow in Falkreath hold without freezing your johnson off.
+
 ###Note on Community Shaders
-Community shaders is an alternative processing pipeline to ENB that retains vanilla image settings. By itself it doesn't do much but it has addons that replicate many formerly ENB-only features like grass lighting, particle lights, etc. The whole suite has a fraction of the performance cost of ENB so I would highly recommend it for gameplay with light screenarchery especially for 4k enjoyers. It is also easier to get a consistent imagespace than something like NAT which relies heavily on mesh and texture settings to be "correct" on EVERYTHING. 
+Community shaders is an alternative processing pipeline to ENB that retains vanilla image settings. By itself it doesn't do much but it has addons that replicate many formerly ENB-only features like grass lighting, particle lights (!), etc. The whole suite has a fraction of the performance cost of ENB so I would highly recommend it for gameplay with light screenarchery especially for 4k enjoyers. It is also easier to get a consistent imagespace than something like NAT which relies heavily on mesh and texture settings to be "correct" on EVERYTHING.  You can tweak lighting with Reshade although you obviously won't have the same control over water, skin, etc as ENB offers.
 
 
 ###Models and Textures:
@@ -470,9 +490,13 @@ EVG's Conditional Idles - This plays nice with most current weather and needs mo
 ~~Animated Interactions and Idles~~ - Apparently this is broken now. Consider Organic Player Animations.
 Ultimate Animation Potions NG - Ground up recreation of the old Ultimate Potion mods. Works and works good.
 Archery Gameplay Overhaul - Even if you don't want the combat changes, trust me and use its meshes (just disable or delete the .esp).
+*or* Vanargand Animations - Archery - These are vanilla style but remove the fuckawful jitter in 3rd person. Highly recommend!
 CBPC Equipment Physics SE and AE - UUOOOH (crying emoji). It's finally out. This is what got me to reinstall the game.
+*note: Equipment Physics are now supported by Immersive Equipment Displays without CBPC!*
 
-Skill Based Dynamic Animations - This is not an animation mod but it's genius. Your animation replacers will only be used above a certain skill level. This works since vanilla anims make you look like a goofball that doesn't know how to swing a sword.
+Skill Based Dynamic Animations - This is not an animation mod but it's genius. Your animation replacers will only be used above a certain skill level. This works since vanilla anims make you look like a goofball. I personally run Vanargand Archery for base with AGO taking over past skill level 50 and have the kneeling sneak idle from RAP overriding as well.
+
+Do note that anything that says MCO, ADXP or whatever will not work unless you have the Soulsrim bullshit set up. I use a sprinkling of animations from the following modders: Verolevi, SonderBain, CHIMGarden, and Skypia (TW! anime).
 
 ##Reviews
 

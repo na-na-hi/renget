@@ -1,18 +1,15 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/eibpzq.png)<-
+->![Funny](https://files.catbox.moe/lltaxk.png)<-
 
-## ->🏖️[Recently added to the archive: 09/26/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)☀️<-
+## ->🎃[Recently added to the archive: 10/03/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)🍂<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [First Train and Kafka Stop Twenty Seven: Doll of Building Blocks](https://docs.google.com/document/d/e/2PACX-1vQf7GEqqCB8ufcXRU72Utag8HMZ5o57_aoQn3vti5vfIXX21uI6dwqOy0de4ci57pQWdyzosmHio0rb/pub) (Civia, incest, MDLB, light omorashi, breastfeeding, underage)
-(***Series Entry!***) [Balsa Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)
-(***Series Entry!***) [A Predator's Touch: A Hazy Yellow Line (Part 5)](https://docs.google.com/document/d/e/2PACX-1vSno4IbubITKUfmBPz8nlRuHDzPRpypdfC94belG-2UZnEqsxgVCx5Q1Vzng_nKkfwyP2oq4pLTBvj0/pub) (Botan, Koyori, Ame, Subaru, Mystery, Drama)
-[>Shaves your hag](https://docs.google.com/document/d/e/2PACX-1vScFiR9wT9O1x-hEjd2vh4rJIqah-LO8-MNZjeTLOShj8pPAxkK9ihCQ7dyx48uFOqfvY5Qx01VOTWc/pub) (Mio, NSFW, Cunnilingus, Analingus)
-[Bus Jelly](https://docs.google.com/document/d/e/2PACX-1vTu-JZUM7Ncdsrt_nXbPS6vYtW5enDE45kUHgj7muagm0id4XxsXLUXu1yhIg-1KNbEnmRD9ieok9NN/pub) (Jelly Hoshiumi, NSFW, Voyeurism, Public Masturbation)
-[Stains of Time](https://docs.google.com/document/d/e/2PACX-1vTvjG77XZorhIp2MQb6WbFKqrxr8KeyjFpikgRPO3rzke4jAxdqYig7awvY8YoJCFoftEN5Cu1_jEMq/pub) (Amelia Watson, Calliope Mori, Noir, Modern Fantasy)
-[Even Scorigami Needs Archiving](https://docs.google.com/document/d/e/2PACX-1vSWbTLdcxOdPIyfXy99UlafdFI0Tv7FTMy4H3BL47A03hK3dHBD-AkCdintUleoYDRHnNKXRsYga0WL/pub) (Shiori, Nerissa, SFW, Comedy, Satire, Gridiron Football, NFL)
-[Retarded Cousin Aqua Molestation Greens (Slam Cousin Aqua)](https://rentry.co/n6o3b3) (Aqua, NSFW, Greentext)<-
+->[As Many Times As You Wish](https://rentry.org/bdpyo) (Shiori, Greentext, Trauma, Timeloop, Fan Sequel)
+[The Filthy Frank x Hololive Crossover Nightmare](https://rentry.co/yipxk) (Yagoo, Mori, Suisei, A-Chan, PolitikZ, Filthy Frank, Pink Guy, Tokino Sora's cutout, Dark Lord Chin Chin, SFW, Comedy, Shitpost, Greentext, I'm officially banning shit like this in the future)
+[Suisei's Doppelganger Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vQ8j3cYOL77mCjXV05ZD0Ix8LxGB7crXrr8B5HGOdU3nFISj8zJtPgAXJJdMqC9NY3K-wIFTO8dRUVe/pub) (Suisei, Ao, Drama, Mystery, SFW, Compilation)
+[The Nutcracker](https://docs.google.com/document/d/e/2PACX-1vQjaqnMeTpsfuKIdUuOVwLDj80A8H455kXY9rtvXVnuzglaNP7TXgsi1pOlsOT9YhMDKDRNHlRSMDt3/pub) (Hakos Baelz, SFW)
+[Pale Blue - Pt. I](https://docs.google.com/document/d/e/2PACX-1vS1yv3mlxKnchEDkD3WwhUrcrFKXBPhfIJ_ken9tJeoezIpYErTOxpwCvIied9nXAxvJ5H96wnVR4Ys/pub) (Suisei, A-Chan, Several Others, SFW, Drama, Incest, Romance)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1282,7 +1279,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [An Incredible Bitch: The First Year's Test](https://docs.google.com/document/d/e/2PACX-1vSHgnYSAnwBck5ZsOJkNdqtmFGtApXYE5ULvaIiejWEH8McUI5P4d8Dy3vpkLWqMw7tYbk9BDmeMIGV/pub) (Suisei, Miko, SFW, Short, Enemies To Lovers) ^
 ['A Promotion'](https://docs.google.com/document/d/e/2PACX-1vRAZL78sR3QDJ-y2SGqiJTmGOSZT-8YSSTZNpDaPFnlMw5jVnEGQypQnL0dVWa2bm92s6ZJRUmykOnQ/pub) (Koyori, Laplus, SFW, Fluff)
 [What if Shiori lost her voice?](https://rentry.org/dst8c6) (Shiori, SFW, Depressing/Tragedy)
-[Anon's Shiori GT Dump](https://rentry.co/iib2nz) (Shiori, SFW, Multiple Stories within, Fluff, Tragedy)
+[Anon's Shiori GT Dump](https://rentry.co/r78xpa) (Shiori, SFW/NSFW, Multiple Stories within, Fluff, Tragedy)
 [A Small Amount of Tomfoolery](https://docs.google.com/document/d/e/2PACX-1vQ1h5m24N2VhpngjgNzQPer8c5roNI-wel73i8aBPhf9C4tV0EjKKSWB3Qooa6z6m9FeS9hPbMHvBim/pub) (Baelz, NSFW, Size Difference)
 [The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
 [Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)
@@ -1295,3 +1292,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Stains of Time](https://docs.google.com/document/d/e/2PACX-1vTvjG77XZorhIp2MQb6WbFKqrxr8KeyjFpikgRPO3rzke4jAxdqYig7awvY8YoJCFoftEN5Cu1_jEMq/pub) (Amelia Watson, Calliope Mori, Noir, Modern Fantasy)
 [Even Scorigami Needs Archiving](https://docs.google.com/document/d/e/2PACX-1vSWbTLdcxOdPIyfXy99UlafdFI0Tv7FTMy4H3BL47A03hK3dHBD-AkCdintUleoYDRHnNKXRsYga0WL/pub) (Shiori, Nerissa, SFW, Comedy, Satire, Gridiron Football, NFL)
 [Retarded Cousin Aqua Molestation Greens (Slam Cousin Aqua)](https://rentry.co/n6o3b3) (Aqua, NSFW, Greentext)
+[As Many Times As You Wish](https://rentry.org/bdpyo) (Shiori, Greentext, Trauma, Timeloop, Fan Sequel)
+[The Filthy Frank x Hololive Crossover Nightmare](https://rentry.co/yipxk) (Yagoo, Mori, Suisei, A-Chan, PolitikZ, Filthy Frank, Pink Guy, Tokino Sora's cutout, Dark Lord Chin Chin, SFW, Comedy, Shitpost, Greentext, I'm officially banning shit like this in the future)
+[Suisei's Doppelganger Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vQ8j3cYOL77mCjXV05ZD0Ix8LxGB7crXrr8B5HGOdU3nFISj8zJtPgAXJJdMqC9NY3K-wIFTO8dRUVe/pub) (Suisei, Ao, Drama, Mystery, SFW, Compilation)
+[The Nutcracker](https://docs.google.com/document/d/e/2PACX-1vQjaqnMeTpsfuKIdUuOVwLDj80A8H455kXY9rtvXVnuzglaNP7TXgsi1pOlsOT9YhMDKDRNHlRSMDt3/pub) (Hakos Baelz, SFW)
+[Pale Blue - Pt. I](https://docs.google.com/document/d/e/2PACX-1vS1yv3mlxKnchEDkD3WwhUrcrFKXBPhfIJ_ken9tJeoezIpYErTOxpwCvIied9nXAxvJ5H96wnVR4Ys/pub) (Suisei, A-Chan, Several Others, SFW, Drama, Incest, Romance)

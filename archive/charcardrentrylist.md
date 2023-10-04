@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Scrimbly](https://rentry.org/scrimb) | Misc |[The White Rabbit](https://files.catbox.moe/n1aoz4.png), [Pascal](https://files.catbox.moe/49jwxo.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Felicia](https://files.catbox.moe/oh8z7g.png), [Durga Stonesong](https://files.catbox.moe/ygr6t5.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Mikan](https://files.catbox.moe/wb0xn9.png), [Elise](https://files.catbox.moe/hojj5a.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Mia and Terrance](https://files.catbox.moe/z27l2l.png), [Erika](https://files.catbox.moe/q76824.png)|
@@ -28,7 +29,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Aydric](https://files.catbox.moe/om5h9c.png), [Manon](https://files.catbox.moe/3tm56v.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Jenny](https://files.catbox.moe/8mnxkn.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sabrina](https://files.catbox.moe/hlgrk1.png), [Aoi](https://files.catbox.moe/blniao.png)|[Aoi](https://files.catbox.moe/blniao.png) [MV]
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Pascal](https://files.catbox.moe/49jwxo.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Nicholas](https://files.catbox.moe/0cg5cj.png), [Simon](https://files.catbox.moe/l3sinz.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Li Xiaoyu](https://files.catbox.moe/qsj7pv.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Ziggy](https://files.catbox.moe/ktivtz.png)|[Ziggy](https://files.catbox.moe/ktivtz.png) [MV]
@@ -37,11 +37,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Chefseru](https://rentry.org/chefseru) | Misc |[June](https://files.catbox.moe/wclc44.png), [Amos](https://files.catbox.moe/118kjk.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Shinatsu](https://files.catbox.moe/eism7p.png)|
 [VinceLavali](https://rentry.org/vincelavali) | Cunny |[Alysse Lavali](https://files.catbox.moe/fgvc46.png)|
-[UncleMarr](https://rentry.org/umarr) | Misc |[The Ancestor](https://files.catbox.moe/umd2sx.png)|
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||[Tatsumaki ](https://files.catbox.moe/u1s1f6.png)
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
+[UncleMarr](https://rentry.org/umarr) | Misc ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Nono](https://rentry.org/NonoRoom) | Misc ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||

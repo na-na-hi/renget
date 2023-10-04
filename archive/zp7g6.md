@@ -46,7 +46,7 @@ More info about the comparison table and preview images can be found in the **[A
 ### B
 [Babu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bI1nxJqR) | [BIGxixi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7c1zTQRY)
 :------:|:------:
-![](https://i.imgur.com/bxljRAS.png) | ![](https://i.imgur.com/WXA0c1U.png)
+![](https://i.imgur.com/bxljRAS.png) | ![](https://i.imgur.com/zr9BtCb.png)
 [Bluesechi (Thumbnails)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PRtmkDgZ) | [Bukurote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DctkWbbA)
 ![](https://i.imgur.com/NIVnU4X.png) | ![](https://i.imgur.com/0sN5OGJ.png)
 
@@ -443,6 +443,17 @@ chloe von einzbern, dark skin, hairpin, single hair bun, half updo, long hair, p
 ## Character Loras
 
 ### A
+[Anny - VTuber](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PJk22CwB)  | Character Prompt | Longer Prompt
+:------:|:------:|:------:
+![](https://i.imgur.com/c6k7fCE.png) | ![](https://i.imgur.com/YYwiXhC.png) | ![](https://i.imgur.com/v2FruNJ.png)
+
+```
+annytf
+```
+```
+annytf, fox girl, fox tail, animal ear fluff, bikini under clothes, detached sleeves, frills, pink dress, detached collar, white collar, choker, star \(symbol\), star hair ornament, double-parted bangs, two side up, long hair, gradient hair, grey hair, pink hair, purple eyes
+```
+
 [Ashley - WarioWare](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mQNW2BoS) | Character Prompt | Longer Prompt
 :------:|:------:|:------:
 ![](https://i.imgur.com/jlewZEt.png) | ![](https://i.imgur.com/mGjkbsx.png) | ![](https://i.imgur.com/HrhYYZu.png)

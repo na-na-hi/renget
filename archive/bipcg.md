@@ -1,4 +1,24 @@
 ▶NEW CLIPS
+>Its NOT about NATO
+https://files.catbox.moe/rgvx8g.mp4
+>The Ukraine is very cool - Kuleba
+https://files.catbox.moe/6qeojs.mp4
+>Ukrainian MP Lesia Vasylenko admits that Russia is winning and the counteroffensive might need to pause in SkyNews interview
+https://files.catbox.moe/x8v0dp.mp4
+>The all-out FPV bombardment of the Ukies by the VT-40 kamikaze drones continues
+https://files.catbox.moe/q27473.mp4
+>Ukrainian soldiers are grinding open American 155-mm M864 cluster shells to use its submunitions for dropping from copters
+https://files.catbox.moe/zgqdyz.mp4
+>143rd motorized rifle regiment of the 127th motorized rifle division wrecks hohols hiding in the woods with artillery
+https://files.catbox.moe/xp7tc7.mp4
+>Drones destroy hohol boats on the right bank of the dnepr in kherson
+https://files.catbox.moe/u6t2fq.mp4
+>FPV pilots of the Russian Armed Forces destroyed the Swedish tank Stridsvagn 122 with a high-precision kamikaze drone “VT-40”.
+https://files.catbox.moe/xmnd9f.mp4
+>Russian Iskander missile strike in the area where the Ukrainian Armed Forces are concentrated in the forest belt
+https://files.catbox.moe/rrp1a2.mp4
+>Orekhov-Verbovoy Highway of Death
+https://files.catbox.moe/tyoipm.mp4
 >Benis :DD
 https://files.catbox.moe/8kkwkf.webm
 >Scouts firing Konkurs and Kornet missiles on AFU positions near the Antonovsky Bridge

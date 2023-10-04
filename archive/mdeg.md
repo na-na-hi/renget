@@ -4,6 +4,8 @@ An explanation by Professor Turo (4chan tripcode: !!1ulnC0Yj8gx)
 [TOC]
 # What is MDEG?
 MDEG stands for Mass Divergence Effect/Event General. It is a thread on /x/ for discussion of the Mass Divergence Effect and the impending Mass Divergence Event. 
+There is now a wiki for documenting more information in regards to the MDE. For more elaboration, read it. If you just want important surface-level information, just reading this Rentry will do. 
+https://mdeg.miraheze.org/
 ## What is the Mass Divergence Effect?
 The Mass Divergence Effect, also known as the "Mandela Effect," occurs when aspects of two universes merge. (Although, due to the Law of Causality/Importance, it is unlikely that the death of Nelson Mandela changed between universes, so this is likely an actual false memory. It is still possible, though). Individual instances of this are known as "Divergence Anomalies." Currently, due to the Law of Causality/Importance, this is only happening to minor, inconsequential things such as logos and character designs, but that may change in the near future, and will definitely change when the Mass Divergence Event happens. 
 Example:

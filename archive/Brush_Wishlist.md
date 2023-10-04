@@ -100,6 +100,7 @@
 ### 100~500 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Print-style tone material collection ◆ With painting brush (印刷風トーン素材集◆塗りブラシ付き) ** | [2036095](https://assets.clip-studio.com/en-us/detail?id=2036095) | 200 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/95/60/2036095/thumbnail?1670603312)
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **Remove BlackBackground to make the background black background transparent (圖去黑色背景 黒い背景を透明にする Remove BlackBackground) **|[1968567](https://assets.clip-studio.com/en-us/detail?id=1968567)| 100 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/67/85/1968567/thumbnail?1670603312)
 **Highlight Brushes (ハイライトブラシ)** | [2005122](https://assets.clip-studio.com/en-us/detail?id=2005122) | 100 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/22/51/2005122/thumbnail)
