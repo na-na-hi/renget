@@ -36,6 +36,7 @@ Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Membe
 Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Maxi | M | Trubbish | Maddi (F, Joltik, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
+Fern | M | H-Zorua | Ciel (M, A-Ninetales, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -117,7 +118,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
 26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn) | | |
-28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | | | |
+28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler](https://rentry.org/b2f4t) | | |
 29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
 30 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
 31 | [Branching Out](https://rentry.org/branching) | | | | |
@@ -193,7 +194,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 101 | [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) | | | | |
 102 | [The Trash Bag and The Food Thief](https://rentry.org/2y9ab) | | | | |
 103 | [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi) | | | | |
-104 | | | | | |
+104 | [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7) | | | | |
 105 | | | | | |
 106 | | | | | |
 107 | | | | | |
@@ -230,7 +231,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Liminal Crossroads ch. 4 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads4)
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
-	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7) *Not on Table*
+	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
 * Booker the Ribombee
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -303,6 +304,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Branching Out (ft. Elm)](https://rentry.org/branching)
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
+* Fern the Hisuian Zora
+     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -581,6 +584,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
 * {||} [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
 * {||} [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
+* {||} [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
@@ -592,4 +596,4 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Hydreigon, Hisuian Zorua, Scorbunny, Popplio(?, subject to change), Zangoose.
+//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Hydreigon, Scorbunny, Popplio(?, subject to change), Zangoose.

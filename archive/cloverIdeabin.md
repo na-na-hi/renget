@@ -24,6 +24,8 @@ Standard PMD fare at first; an Anon is isekai’d to the Pokemon world with amne
 Smeargle outlaw uses it's body swap sketch to try to pass as Ross & get back at the guild
 ***
 Native mon taking humon(s) stargazing & explaining foreign constellations.
+!!!note
+	Tentatively claimed by Oshawott-anon
 ***
 https://youtu.be/e4_VOZwzSvU
 They say, that somewhere in the mountains to the east, there are two Mystery Dungeons that overlap. It is in this place, the chaotic land where they meet in the middle, where you'll find treasure beyond your wildest dreams, and dangers greater than you'll ever face in any normal dungeon.

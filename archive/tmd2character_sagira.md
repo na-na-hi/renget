@@ -12,7 +12,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** N/A
 **Species:** Fennekin | **Affiliation:** N/A
-**Level:** 6 | **Experience to Next Level:** 45/60
+**Level:** 7 | **Experience to Next Level:** 10/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 227₽ | **Glorious Gold:** 0 Bars
 
@@ -65,12 +65,8 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Pyromancy  | Tier **ɪ** (+1) | 2/3 | ▮▮▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Attribute: Pyromancy  | Tier **1** (+1) | 3/3 | ▮▮▮
+Training for Attribute: Pyromancy  | Tier **2** (+2) | 2/3 | ▮▮▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮

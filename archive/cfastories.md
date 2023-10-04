@@ -1,13 +1,15 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #33 (Tuesday, 26 September 2023, 22:30 UTC)<-
+->Last updated on thread #34 (Tuesday, 3 October 2023, 22:15 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
+- [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D skull model - red fox drawing reference.)
+- [Save the Cat!](https://savethecat.com/get-started) (Storytelling Guide by Hollywood screenwriter Blake Snyder.)
 
 == **TABLE OF CONTENTS**
 [TOC2]
@@ -201,6 +203,13 @@ DO IT NOW.
 https://archiveofourown.org/works/49465687
 ---
 ---
+#####CloudyDaze322
+`Sub-Etheral`
+https://archiveofourown.org/works/50217388
+`An adventurous loner takes the week off in the Appalachians`
+https://rentry.org/bridgech1
+---
+---
 #####DoubleCenterfold
 `Strange Deviations`
 https://archiveofourown.org/works/36537091
@@ -209,11 +218,6 @@ https://archiveofourown.org/works/36537091
 #####NeverAnon
 `A Ninja Fox in New York City`
 https://archiveofourown.org/works/42704202
----
----
-#####ThighLordAsh
-`An adventurous loner takes the week off in the Appalachians`
-https://rentry.org/bridgech1
 ---
 ---
 #####Trashbin (Trashbinlid)
@@ -274,11 +278,18 @@ https://foxtailtale.itch.io/the-forgotten-island (RPG)
 `Chicken-Bacon-Swiss`
 I did try the Chicken-Bacon-Swiss at Arby's. The "pepper jack cheese" was very melty and had a texture that made me wonder if it was something that came in a jar like Cheez Wiz and they were spreading it on with a spatula. Not bad, not amazing, kind of wet and drippy. Lots of honey mustard, which either you like or you don't.
 
+###Beverly Jean's Wholesale Club
+####59940836 Anonymous: Cupcakes
+`Cupcakes`
+They call it BJs because this shit blows. Not only is their customer service ass, but these cupcakes, they're just the icing on the cake. Horrendously mid and with an unexpectedly tart aftertaste, these imbred muffins will have you asking: DENIM, DENIM, DENIM?!?! Wanna gain weight? BJs has you covered, they had to cross out nutrition and put a period on the end of that table to let you know, it's a fact. Thinking of grabbing a bite? Well, that might just be what you get. These tiny little faggots are bite sized, and you better not let them come in your mouth, because they're so small they won't satisfy the lust your sugar tooth is craving for. Are you FREAKY? Be one of those future serial killer at that one kid's birthday party and LICK IT. LICK THE FUCKING ICING OFF AND LOSE THE SPONGE. It ain't gonna lick itself, you disgusting dog-fucking Colorado every winter amazing world of gumball loving annoying orange adoring sicko, because that's SPICYYY. Like girls named after gemstones, this cake is READY to lose the coverings, and you'll be the one stripping her naked. Just peel the paper and begin devouring, and if you're a true player, then you can take multiple at once. Just be careful, you don't wanna get caught in the act, God only knows how far the excuse of "just coming to get a cupcake" will get you in court! Remember, you're the one who said these confectionaries sounded suggestive, not I, so you'll just have to take the cake on that one. One of these has enough calories to end starvation in Africa. Seriously, three of these and you'll be throwing up from the sugar content, these things are practically candy. No need to bust out the cookbook, because BJs has you covered! They'll make preparing your next muckbang a cakewalk. Have diabetes? How about two? You're a lowlife if you got this whole thing for yourself, how about you invite people over for a change? She's not real, she doesn't love you back, and the artist is a fat lonely dude like you
+Sorry.
+[![Cupcakes: edp445.jpg / 1696048582724.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)
+
 ###Burger King
 ####59830147 Anonymous: Burger King Spicy Chicken Nuggets
 `Burger King Spicy Chimken Nugger`
 5/10 I've had better and I've had worse.
-[![Burger King's Spicy Chicken Nuggetsh:  IMG_20230922_224305932_HDR.jpg / 1695662242787.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)
+[![Burger King's Spicy Chicken Nuggetsh: IMG_20230922_224305932_HDR.jpg / 1695662242787.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1695/66/1695662242787.jpg)
 
 ####59769453 Anonymous: Royal Chicken Sandwich
 `Royal Chicken Sandwich`
@@ -393,12 +404,26 @@ While The Quarter Pounder with cheese is THE Macca's classic, you can't deny tha
 The McRib is less a sandwich than a meme they re-release every few years because all the cable TV news talking heads give them hours and hours of free advertising by talking about it. The mechanically formed slug of mystery meat is not in and of itself horrible but it is drowned in a sugary, sugary, sugary sauce that seems to be an attempt to convert it into candy. A less sweet, more savory sauce (try tomato paste +
 apple cider vinegar + sweet basil + just a few drops of liquid smoke seasoning, salt, pepper, garlic, paprika, and maybe a tad of cayenne pepper, to taste) would improve it quite a bit. As it is, it is maybe the canonical example and the picture in the dictionary when you look up "mediocre fast food." Foxes are obligate carnivores and even they aren't enthusiastic about the McRib.
 
-###Popeye's
+###Popeyes
+####59930637 Anonymous: General
+`General`
+first for popeyes fucking sucking at making chicken
+it was not pleasant, the kitchen was full of melanin and/or crack smokers, it took forever to make a single sandwich,
+and there was barely any chicken in the sandwich. nevermind the fact that the chicken was trash. not even close to worth it, not even a formal review with a picture or anything.
+[![Fuck You Popeyes: IMG_20230929_095414.jpg / 1696022642104.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/02/1696022642104.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/02/1696022642104.jpg)
+
 ####58200065 Anonymous: Spicy Chicken Sandwich
 `Spicy Chicken Sandwich`
 Earlier this week, I stopped at a Popeye's on the way home from my workout. They were out of the blackened chicken sandwiches I wanted to try, so I had the "Spicy." It was a bit more expensive and a bit smaller than the KFC spicy chicken sandwich. It had some nice dill pickle slices on it. The sauce seemed like it was mostly hot sauce with a dab of ranch dressing stirred in, and was also really, really salty. All in all I preferred the KFC product.
 It wasn't horrible, and the red beans and rice I ordered on the side was pretty good.
-[![Popeye's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
+[![Popeyes's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
+
+###Publix
+####59988560 Anonymous: Fried Chicken
+`>Publix one day old fried chicken review:`
+
+Shit's tasty. Not as crispy as it is fresh but a minute in the microwave did it and it was pretty yummy. 7/10.
+[![Publix's Fried Chicken: pullix.jpg / 1696201711906.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/20/1696201711906.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/20/1696201711906.jpg)
 
 ###Wawa
 ####59119936 Anonymous: Chicken Parm Hoagie
@@ -425,6 +450,31 @@ Overall, I recommend giving it a try.
 [![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
+####60023066 Anonymous: Sałatka cebulowa
+`Sałatka cebulowa`
+Do you like prymat? What about allspice? Fuck you, Poland has you covered, and you better improvise half the ingredients and chuck some random shit into it to fuck up the taste, it's the law. This shit will fuck you up harder than Зeлeный cyп, Because half of this shit is onions. You're gonna cry, you're gonna be gassy, you're gonna want to throw up, this is one of the better polish foods too. Poles don't eat pierogis every day, y'know.
+9/10 considering that it's polish.
+[![Sałatka cebulowa: galaretowate błędy.jpg / 1696311651952.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/31/1696311651952.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/31/1696311651952.jpg)
+
+####60015724 Anonymous: Chicken Mozzarella
+`Slightly burnt chicken mozzarella review:`
+Absolutely fucking delicious. Cheese wasn't easy to cut but that's likely because my knife doesn't say ghisa e avorio, teschio di volpe. Prodotto a Roma, IT. Chicken was a frozen slab from Costco, cheese is BelGioioso, gravy is my own abomination. Burnt cheese is a plus, by the way. If you know, you know. An easy 9/10 given it was made in 15 mins with mostly leftovers.
+[![Chicken Mozzarella: homecooked meal.jpg / 1696290050436.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/29/1696290050436.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/29/1696290050436.jpg)
+
+####59952980 Anonymous: Nongshim Udon with General Tso Sause and Spam
+`NONGSHIM UDON WITH GENERAL TSO SAUSE AND SPAM REVIEW:`
+
+Like Mussolini once said, a bunch of pasta eaters can't rebuild the Roman Empire. This unfortunately played out to be true, which is why I introduce to you Nongshim Udon Premium Noodle Soup. It's like the Japanese version of spaghetti, soaked in soisauce, covered in what is described in the microwave instructions as "flakes" and let it cum. This shit is HOT, and that might be because I'm cooking it in a 1250 watt microwave, but it comes out steaming like it ain't received child support in six months. Combined with General Tso and SPAM, we can give this Japanese classic a Chinese twist. This meal is a warcrime. Sizzle, Pork, And Mmmmm, and combined with some Italian seasoning and tossed into a pie iron, this unholy meat slab will taste real. It's a survival food that goes from "try to survive eating this" to "try to survive without me" with a dash of herbs and a smothering in a sausy mix of perservitives and onions. Is it Chinese water torture if the pigs are already dead? Eather way, it's a tender meal that'll warm your heart and burn your tongue if you don't blow on it, so be prepped for that. 9/10.
+[![Nongshim Udon: food.jpg / 1696098881739.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/09/1696098881739.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/09/1696098881739.jpg)
+
+####59940230 Anonymous: Parmesan and Pecorino Romano
+`Parmesan and pecorino romano.`
+It's great in marinara and basil n all that, and for a little extra, unshredded mozzarella, it will melt in the hot gravy and will be perfect. Or, you can mix with ricotta if you want whites.
+The one to the right was the one next to it, and it's so good it isn't dependent on anything else to be delicious. It's just mozzarella, really, and it's not like that overly processed cheese stick shit either. No, it's juicy and has a nice squishy texture that fills your mouth with an indescribable savory taste. It's unique and the only thing that'll make it better is some salami to wrap around it.
+
+It'sa da best.
+[![Cheese: Cheese.jpg / 1696047207171440.jpg](https://files.catbox.moe/iv6wuy.jpg)](https://files.catbox.moe/iv6wuy.jpg)
+
 ####59441831 Anonymous: Ring Pop Sour Cherry
 `Ring Pop Sours Sour Cherry review:`
 This pop sucks! The only engagement ring I could afford. She said no, no wonder! This pop is SOUR, but not in taste. Sweet, it is, the marketing was a lie, and it's unergonomic as fuck. Don't eat this one in public, or you'll look like a fucking retard. It melts in your hand, but not in your mouth! This sucker will leave you with flat feet, fallen arches, baggy knees and a broken frame. Meningitis, peritonitis, dt's and a washed-up brain. If you want clogged arteries, this one's for you. Featuring a ludicrous amount of sugar, you won't survive to attain the included prize: a gemless, tight, and ugly ring. Don't wear this one in public, because this one is a misbehavor. Light on the taste and heavy on the calories, this one's bound to send you to the hospital, and not in a good way. Don't buy this one, just go to your local children's hospital and take a couple for free. Free food's free food, am I right? Would a fox enjoy it? Take your chances, that's what I was told. Maybe you could start a relationship somewhere, and the trees are calling. Dig a hole, sleep all day, kill chickens and eat em raw. Perhaps this is the life I was meant for, minus the sleep without air conditioning part, I already sleep in a hovel of my own. But if this shit sells, anything will. This candy doubles as an emetic poison, because you will throw up after this one. Perhaps that's why it was in that jar at the front desk of St. Judes. Your donations at work, kiddo, this is the USA! Would you like a free crack pipe with that one, sir? 2/10.
@@ -457,8 +507,7 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
 [![Dr. Pepper: drinky sip sip mm thank u very much.jpg / 1694305819183.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694305819183.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/30/1694305819183.jpg)
 
 ####59249984 Anonymous: Peroni Nastro Azzurro
-`Peroni Nastro Azzurro`
-Peroni Nastro Azzurro Review:
+`Peroni Nastro Azzurro Review:`
 
 Most dsperate alcoholics run to what appears in Super Bowl adverts: Bud Weiser, Corona, and other bottles of piss. But this bottle of piss is not like those other bottles of piss, and in a couple of swigs this beer will have you stomping on turtles and screaming "VIVA IL RE, VIVA IL DUCE" to save the princess, of course. However, this is a fox thread, so when buying alcohol I made sure the alcohol content was low enough to the point where a baby could drink it and not sustain heavy brain damage. The alc/vol is %5.0 so you won't get drunk from it but a fox perhaps might get slightly tipsy, which is a good thing. Unfortunately, this beer is not so cheap, but you are getting a stronger lager with a crisp taste. It might have "nastro" in the title, but this beer is not nasty at all. In fact, on a water to piss scale from one to ten, it scores a solid 5, where Corona would get a 10 and Bud Light an 11, way past the piss point, where 10 is literal piss. I feel life I could drink 8 of these while operating heavy machinery and not kill anyone because despite it's higher alcohol content than more popular beers, it doesn't taste like it wants you dead. I feel like perhaps one of you creepy ass cunts could pour a few of these into a trough and then get a fox drunk enough to reenact that scene from lady n da tramp with you. Make some capellini and slap some classico onto that shit, maybe chop up a few tomatos and put em in that shit to increase the juiciness, bring you back to those gravies the women used to make. Just imagine the shenanigans you could get into, you sick fuck, and realize your actions have consequences when you get rabies or whatever. Honestly, my head hurts like a bitch and I probably need some fucking water. I've been putting off too much shit in my life at this point and honestly resorting to writing shitty food revers in threads filled with borderline bestiality isn't gonna help. God, I need help bros. The beer is good though.
 [![Peroni Nastro Azzurro: Детская бутылочка.jpg / 1693652072492.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)

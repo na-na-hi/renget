@@ -21,3 +21,4 @@ Vanilla1790@proton.me
 
 
 ![This is a little easter egg message if you hover in!](https://files.catbox.moe/9mf00q.png)
+https://www.chub.ai/users/VaniIIa

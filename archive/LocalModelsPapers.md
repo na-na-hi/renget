@@ -144,6 +144,7 @@
 09/2023|[PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training](https://arxiv.org/abs/2309.10400)
 09/2023|[A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674)
 09/2023|[Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models](https://arxiv.org/abs/2309.15098)
+10/2023|[Sparse Backpropagation for MoE Training](https://arxiv.org/abs/2310.00811)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -375,6 +376,10 @@
 09/2023|[MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/2309.13042)
 09/2023|[Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models](https://arxiv.org/abs/2309.15531)
 09/2023|[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
+10/2023|[DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models](https://arxiv.org/abs/2310.00902)
+10/2023|[GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length](https://arxiv.org/abs/2310.00576)
+10/2023|[https://github.com/Ground-A-Video/Ground-A-Video](https://arxiv.org/abs/2310.01107)
+10/2023|[Elephant Neural Networks: Born to Be a Continual Learner](https://arxiv.org/abs/2310.01365)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

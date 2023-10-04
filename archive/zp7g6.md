@@ -37,37 +37,37 @@ More info about the comparison table and preview images can be found in the **[A
 ### A
 [Abfurai](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PN8UnIZY) | [Abutomato](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SE9g3K6A)
 :------:|:------:
-![](https://i.imgur.com/k7L2r36.png) | ![](https://i.imgur.com/sFcfLqz.png)
+![](https://i.imgur.com/OmAvp5M.png) | ![](https://i.imgur.com/zixJNNS.png)
 [Allcharacters18](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DddAUZoS) | [Ataruman](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mIkl3IpD)
-![](https://i.imgur.com/P5CPESJ.png) | ![](https://i.imgur.com/56CrbIH.png)
+![](https://i.imgur.com/kNP2prG.png) | ![](https://i.imgur.com/56CrbIH.png)
 [Average-Hanzo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3U8UgKLb) | []()
 ![](https://i.imgur.com/t0rb5bn.png) | ![]()
 
 ### B
 [Babu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bI1nxJqR) | [BIGxixi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7c1zTQRY)
 :------:|:------:
-![](https://i.imgur.com/389HkES.png) | ![](https://i.imgur.com/WXA0c1U.png)
+![](https://i.imgur.com/bxljRAS.png) | ![](https://i.imgur.com/WXA0c1U.png)
 [Bluesechi (Thumbnails)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PRtmkDgZ) | [Bukurote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DctkWbbA)
 ![](https://i.imgur.com/NIVnU4X.png) | ![](https://i.imgur.com/0sN5OGJ.png)
 
 ### C
 [Caramelldansen (Popotan Game Opening)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PJ8yTDrZ) | [Coro Fae](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CZ1yDSCS)
 :------:|:------:
-![](https://i.imgur.com/l5LQWkR.png) | ![](https://i.imgur.com/nAe39cb.png)
+![](https://i.imgur.com/B7an9v4.png) | ![](https://i.imgur.com/lxl9041.png)
 
 ### D
 [Dagasi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mR83gKgJ) | [Daido](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jQ1A1QiL)
 :------:|:------:
-![](https://i.imgur.com/UVYNORv.png) | ![](https://i.imgur.com/cYRnuku.png)
+![](https://i.imgur.com/McL0rgb.png) | ![](https://i.imgur.com/UnsyYgU.png)
 [Donguri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SEsQkJjY) | [Dorontabi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6NUmVBwY)
-![](https://i.imgur.com/x0VLaXr.png) | ![](https://i.imgur.com/29oOZNP.png)
+![](https://i.imgur.com/EWnNncd.png) | ![](https://i.imgur.com/EGCdVSD.png)
 [Dragonya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PZlmTTIJ) | [Dried Jellyfish (Full-h-hans)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GJMy0RbR)
-![](https://i.imgur.com/PysoGR0.png) | ![](https://i.imgur.com/0PoGJaB.png)
+![](https://i.imgur.com/sz8rVzJ.png) | ![](https://i.imgur.com/TgwGvvk.png)
 
 ### E
 [Egami](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mM1kUZIS) | [Esearu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TUkxRJhS)
 :------:|:------:
-![](https://i.imgur.com/14Mb9aZ.png) | ![](https://i.imgur.com/uljM9BZ.png)
+![](https://i.imgur.com/xSdvW1H.png) | ![](https://i.imgur.com/pE3kGsy.png)
 
 ### F
 [Fallenshadow](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GN8UAJaD) | [Fuyukawa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fV9yharB)
@@ -235,7 +235,7 @@ More info about the comparison table and preview images can be found in the **[A
 ### \#
 [1=2 (oet)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ac9gBBQA) | []()
 :------:|:------:
-![](https://i.imgur.com/KAUimvQ.png) | ![]()
+![](https://i.imgur.com/3h7y87E.png) | ![]()
 
 ## Multi (Style+Character) Loras
 

@@ -64,6 +64,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute Move: Rock Tomb | *Tier ɪ* | 4/4 |  ▮▮▮▮
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -11,6 +11,12 @@
 >Bots are listed newest to oldest.
 ***
 
+##Misc. Bots
+Image | Name | Description | Links
+:----: | :----: | ------ | :----:
+![ntr sim](https://files.catbox.moe/z27l2l.png)   | **Mia and Terrance** | My submission for gothic horror theme week. An annoying millennial couple buys a rotting old castle in the English countryside to renovate it into an Airbnb... You are the ghost that haunts it. | [chub](https://www.chub.ai/characters/crustcrunch/mia-and-terrance-c3caabdc/main), [catbox](https://files.catbox.moe/z27l2l.png)
+
+***
 ##Female Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:

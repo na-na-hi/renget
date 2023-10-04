@@ -66,6 +66,6 @@ Links  |  [Catbox](https://files.catbox.moe/9vy3sr.png) \| [Chub](https://www.ch
 Info | Data
 :----: | :----:
 Tatsumaki | Tatsumaki is an S-class heroine of rank 2, arrogant and self-centered.
-Links | [Catbox](https://files.catbox.moe/a8hfrb.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/tatsumaki-bf8e9fbd)
+Links | [Catbox](https://files.catbox.moe/u1s1f6.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/tatsumaki-bf8e9fbd)
 
-![Tatsumaki](https://files.catbox.moe/a8hfrb.png)
+![Tatsumaki](https://files.catbox.moe/u1s1f6.png)

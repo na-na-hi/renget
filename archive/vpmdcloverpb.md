@@ -417,6 +417,9 @@ Biography generated!
 
 >Summary: Born and raised in the most barren corner of Foggy Forest, this hot tempered spider uses his webs and wits to plunder enough treasure together to reach his well earned retirement from roof tiling. Though generally affable around people he likes, some would describe him as sleazy, crass and more bark than bite. His skills as a trapper are worthwhile on any adventure, as long as you feed his ego every now and then.
 
+###Fern/Ciel
+{Pending}
+
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
 Q&A page: https://curiouscat.live/Linoone_mailmon

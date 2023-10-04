@@ -96,13 +96,13 @@ NPCs are separated from the normal level progression and can start further (but 
 Players are allowed to choose which Ability they may start off with, even including the Hidden Ability some Pokémon have. However, in order to change this selection after character creation, they must visit a vendor.
 
 IQ skills are "purchased" with IQ (costs are listed next to the skill), which is obtained a variety of ways during play. The most prominent method is consuming Gummis or Honey, which grant a varying amount of points. Sometimes, they may be rewarded through play.
-- There are three tiers that separate IQ skills by their general usefulness. A higher tier is more expensive.
-- A Player can roll from a special vendor (number displayed on the left side of the skill) to attempt to obtain an IQ skill for cheaper. Be sure to roll somewhere it can be verified! 
-	- Tier 1 Discounted Roll costs 20 IQ.
-	- Tier 2 Discounted Roll costs 70 IQ.
-	- Tier 3 Discounted Roll costs 140 IQ.
+- There are three tiers that separate IQ skills by their general usefulness. A higher tier is more expensive. Players do not need to visit a vendor to purchase any of these skills.
+- ~~A Player can roll from a special vendor (number displayed on the left side of the skill) to attempt to obtain an IQ skill for cheaper. Be sure to roll somewhere it can be verified! ~~
+	- ~~Tier 1 Discounted Roll costs 20 IQ.~~
+	- ~~Tier 2 Discounted Roll costs 70 IQ.~~
+	- ~~Tier 3 Discounted Roll costs 140 IQ.~~
 
-Once an IQ Skills is acquired, there are several things to take note of. 
+Once an IQ Skill is acquired, there are several things to take note of. 
  - Each character has a Max of 10 IP (Intelligence Points).
  - Each IQ Skill requires a certain number of IP to equip.
  - There is no limit on the number of IQ Skills one can have equipped, only a limit to how much IP is available to use.
