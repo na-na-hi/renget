@@ -42,6 +42,7 @@
 06/2023|[Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting](https://arxiv.org/abs/2306.17563)
 07/2023|[HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models](https://arxiv.org/abs/2307.06949)
 09/2023|[Uncovering mesa-optimization algorithms in Transformers](https://arxiv.org/abs/2309.05858)
+10/2023|[Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -75,6 +76,7 @@
 09/2023|[Scaling Laws for Sparsely-Connected Foundation Models](https://arxiv.org/abs/2309.08520)
 09/2023|[Language Modeling Is Compression](https://arxiv.org/abs/2309.10668)
 09/2023|[Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797)
+10/2023|[Large Language Models as Analogical Reasoners](https://arxiv.org/abs/2310.01714)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -378,8 +380,9 @@
 09/2023|[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
 10/2023|[DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models](https://arxiv.org/abs/2310.00902)
 10/2023|[GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length](https://arxiv.org/abs/2310.00576)
-10/2023|[https://github.com/Ground-A-Video/Ground-A-Video](https://arxiv.org/abs/2310.01107)
+10/2023|[Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107)
 10/2023|[Elephant Neural Networks: Born to Be a Continual Learner](https://arxiv.org/abs/2310.01365)
+10/2023|[Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

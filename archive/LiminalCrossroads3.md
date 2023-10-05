@@ -114,8 +114,7 @@ The older brother’s brow puckers. “You’re shitting me.”
 
 “No, no, listen, listen…
 
-->…let me sing forevermore<-
-->You are all I long for, all I worship and adore<-
+->…let me sing forevermore...<-
 
 See?”
 

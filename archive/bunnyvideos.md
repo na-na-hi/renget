@@ -25,6 +25,9 @@
 [JPN/ENG] Gajumaru: https://www.youtube.com/@gajumaru
 - giant sleepy French Lop, 5K+
 
+[JPN/ENG] Jabba: https://www.youtube.com/@jabbatherabbit7506
+- Flemish Giant home life, 50K+
+
 [JP/ENG] Mogu, Mimi: https://www.youtube.com/@-mogumimi-2206
 - 1K+
 

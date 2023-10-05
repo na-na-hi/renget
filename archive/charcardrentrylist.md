@@ -29,7 +29,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Natye](https://files.catbox.moe/spkidy.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[The Lamplighter](https://files.catbox.moe/l4i3df.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Leah](https://files.catbox.moe/on4cnu.png)|[Leah](https://files.catbox.moe/on4cnu.png) [MV]
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Aydric](https://files.catbox.moe/om5h9c.png), [Manon](https://files.catbox.moe/3tm56v.png)|
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Aydric](https://files.catbox.moe/om5h9c.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Jenny](https://files.catbox.moe/8mnxkn.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sabrina](https://files.catbox.moe/hlgrk1.png), [Aoi](https://files.catbox.moe/blniao.png)|[Aoi](https://files.catbox.moe/blniao.png) [MV]
 [Planewalker](https://rentry.org/planewalker) | Misc |[Nicholas](https://files.catbox.moe/0cg5cj.png)|

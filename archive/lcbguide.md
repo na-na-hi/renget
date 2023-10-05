@@ -227,7 +227,7 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 
 ##Combat
 **1. Retries**
-You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (all your sinners die), the same will happen unless you are in a Dungeon, in which case you will be forced to forfeit. 
+You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (all your sinners die), the same will happen unless you are in a Mirror Dungeon, in which case you will be forced to forfeit. 
 
 **2. Coins, Clashes, Offense & Defense Level**
 For each clash, every coin still available will be flipped and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.

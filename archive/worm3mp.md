@@ -72,6 +72,7 @@ Rules
 [Casual Combat (Triumph, Arsenal King)](https://rentry.org/ArsenalFight)
 [Courtesy Call (Chimera)](https://rentry.org/aq4v6)
 [Weight of Reality (Triumph, mentions of others)](https://rentry.org/WeightOfReality)
+[Man Made Horrors (Mr. Theseus)](https://pastebin.com/ZtmkM8qx)
 
 [Undertaker Protectorate/Ward Relationship Chart](https://rentry.org/c6veb2)
 [Rayford's Relationship Chart](https://rentry.org/wv22y)

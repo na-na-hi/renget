@@ -91,7 +91,7 @@
 * [Limbus Company Character Generator](https://en.shindanmaker.com/1163956)
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
 * [Ingame Font List](https://bysmile0824.postype.com/post/14436984)
-* [/lcg/ Drawpile Collection](https://cubari.moe/read/imgur/H4bZCHP/1/1/)
+* [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
@@ -125,4 +125,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
 9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.
 9/28/23: Added link to Other Kots MEGA
-9/30/23: ![lol&](https://files.catbox.moe/7dmu76.png)
+10/4/23: Added new Drawpile album link ![lol&](https://files.catbox.moe/7dmu76.png)

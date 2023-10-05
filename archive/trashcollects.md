@@ -941,6 +941,10 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
 	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
 
+# manmosu marimo (artist)
+
+	https://files.catbox.moe/fy0kdd.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -1147,7 +1151,7 @@ Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 
 
 	https://mega.nz/folder/vAhT1CjQ#6jDFFA4VDWpZTnrgSeEevQ
 
-!!NEW!! Big artist comparison
+Big artist comparison
 
 	https://files.catbox.moe/hi3crm.pdf
 

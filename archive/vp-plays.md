@@ -433,4 +433,4 @@ https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining ev
     It's basically just trying to make filler LP-grade games bearable by playing Bingo with the squares being common tropes & cliches in fangames.
 
 https://arch.b4k.co/vp/thread/54597569/ eternalorder1 shit game ragequit speedrun any%
-https://arch.b4k.co/vp/thread/54604396/ eternalorder2
+https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame designs, asked to cease and desist
