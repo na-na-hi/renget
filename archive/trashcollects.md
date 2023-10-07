@@ -673,7 +673,6 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
 
 # suitonb
-~~https://anonfiles.com/A6jfr1x4z0/suitonb_safetensors
 
 	https://pixeldrain.com/u/eotc2W6C
 
@@ -751,7 +750,6 @@ Webber (Don't Starve)
 >Activation token is "xenomorph", other tokens like "black body, sharp teeth, long tail" make it more accurate. I also like "glistening body, wet, saliva". I use 0.7-1.0 weight.
 
 # Captain Gantu (Lilo and Stitch)
-~~https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
 
 	https://pixeldrain.com/u/s7DfbDJG
 
@@ -781,7 +779,6 @@ Webber (Don't Starve)
 
 Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
 Activation token is "cryptid".
-~~https://anonfiles.com/R1i8p210z1/cryptid1024d1024c2834rf_safetensors
 
 	https://pixeldrain.com/u/SF5iRffS
 # Catti (Deltarune)
@@ -790,7 +787,6 @@ Activation token is "cryptid".
 
 # Terriermon (Digimon)
 Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
-~~https://anonfiles.com/Rezer63cze/terriermon_rar
 
 	https://pixeldrain.com/u/SmH7bgTs
 # Zorak (Space Ghost)
@@ -799,14 +795,11 @@ Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 # Swampert (Pokémon)
 
-~~https://anonfiles.com/E5v3r64az9/swampert_rar~~
 Has been taken down, reupload by >59516011, thanks anon
 	
 	https://files.catbox.moe/hcft0y.safetensors
 
 # Kicks (Animal Crossing)
-~~https://anonfiles.com/e2u8p644zf/kicks_rar
-	https://anonfiles.com/V3u2q74fz0/kicks2_rar
 
 	V1: https://pixeldrain.com/u/7G1Mpthg
 	V2: https://pixeldrain.com/u/Bkp6UD5p

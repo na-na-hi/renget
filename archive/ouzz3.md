@@ -1031,3 +1031,394 @@ D - Something sour, Bitchy maybe? More in line with Suri?
 E - Other?
 
 [Hope people don't mind BBW Babs, I was trying to think of anyone else who could *be* there to make food/be a maid.]
+
+'Just the good stuff today Sweetcheeks, 'Ah like her sweet and cute~' Smith says as she saunters out the door into the hot, summer sun.
+
+'What did you call me?' Babs called after her, incredulous as she poured large amount of thick, glowing cream into her mixing bowl. Bab's shakes her head in frustration before clicking the setting on the vibrator stuffed in her twat up a notch.
+
+'Kids these days, I tell ya…'
+
+-----------
+
+The short haired blond strode across the orchard, smiling at how large and heavy the apples were coming in this season. Each one was practically bursting with sweet, glowing juice. Each apple had a soft pink sheen to it. She stopped a few times to set a few things right, mainly the new barn they were building as the expanded their "operations."
+
+Venomheart's training camp was constantly demanding a fresh influx of bimbo magic to pump into slavishly loyal, super stacked or stud'd heavies for the Hive, not to mention Treehugger's experiments and the Apple Family's own personal use.
+
+She made sure that the work crew were kept topped up with chilled, refreshing applejuice and shook made sure to shake her tits "innocently" at the large, studly DILF the formely pudgy foreman had become.
+
+She hadn't actually managed to get around to fucking him or any of his guys yet. There weren't enough hours in the day and despite it all, he seemed unreceptive to her casual attempts. She suspected it was due to the wedding ring on his finger. She could have him if she wanted but really she didn't mind letting Mrs Foreman enjoy her new hubby. 
+
+In fact, maybe when the work was done she could have Babs bake him and his wife a *big* apple pie.
+
+She'd even deliver it herself.
+
+To say thanks of course…
+
+They'd done a good job she had to admit, despite it not being an "Apple Family TM" barn…
+
+She walked on, enjoying the hot, vibrant smell of the orchard before stopping and frowning, darting between the trees as she sees two shapes obviously fucking in a shaded portion of the orchard.
+
+That wasn't what bothered her. In fact, Treehugger had said that the explosive growth of the orchard was only being enhanced by all the Carnel acts happening in and below the orchard,  the magic seeping into the trees.
+
+Along with the enhanced formula, derived from Treehugger's plants and Apple acre's own products that workers were slathering across the trees had caused them to *swell* massively to the point that Applejack was angling for rezoning the orchard for more space.
+
+Which was partially why Spoiled Milk and her "friends" in city hall had them by the balls. 
+
+Still that was getting fixed today.
+
+Anyway, The formula had also, predictably had an effect on said workers, one or two of which were growing as big and as strong *as* the trees!
+
+But, the *two* specific people that were fucking beneath one of the large trees, Smith had a problem with!
+
+Well, one of them she had a problem with, the other was a gosh dang Apple and *should* know better!
+
+Even if he was just visiting from Appleloosa!
+
+Braeburn Apple's chestnut brown hair was slicked back against his head, his youthful face flushed and exhausted (although no less eager for it…) as a familiar and loathsome, strawberry vixen bounced on top of him, her face a leer of lust, dominance and triumph.
+
+He still had his smart, button up shirt and jacket and although they were looking a little tighter, Braeburn hadn't been exposed to much magic yet obviously and still retained his trim and slim figure.
+
+The exception to this of course, was his dick which was huge, thick, slathered in formula and stuffed deep into Strawberry Sunrise's tight pussy.
+
+'Consarnit Ya slutty poacher! 'Ah told ya to stop scrumping round this parts!'
+
+Strawberry Sunrise herself was another matter entirely. For a woman who supposedly hated apples, she'd obviously got a *big* dose of the farm's magic and had developed an intense taste for Apple dick.
+
+Might explain how she had got so big.
+
+Braeburn *jumped* and squirmed but it was obvious who was running this rodeo and the tall, jacked Strawberry gently pushed him back down and flipped Smith the finger, before cooing and shuddering as Braeburn erupted inside of her.
+
+Consarnit, how was it right that this apple hating hussy seemed to *suck* up the magic like a sponge. She was one of the biggest 'gals on the orchard which would have been *great* if she actually worked on the farm instead of just jumping random male members of Smith's family and fucking them into a stupor.
+
+Strawberry smiled beatifically, flexing her pale, muscled body, her huge tits wobbling as she bends over and gives Braeburn a surpisngly sweet kiss on the forehead,
+
+'You're my favourite so far country boy~'
+
+'Bwuh~' Braeburn replied as Strawberry slid off his dick and began to slip on a pale yellow microskirt, marked with little strawberries and grapes that barely covered her shelf of an ass. Her long, legs and thick, firm thighs were clad in garter and stocking, no panties, her cutie mark fully exposed.
+
+She flung her long, fire engine red hair back as she slid on a revealing crop top, more of a boob tube with a lacy support that looped around her neck but hid nothing, not her fat nipples nor her acres of pale, freckled skin.
+
+She took her time doing it as well, knowing that all Smith could do was stand there and watch. Strawberry was *big* and she'd need at least two of the other workers or Mac to actually turf this woman out. 
+
+Smith knew It would be fruitless though, as she would easily sneak back in.
+
+The bitch was even snapping a selfie.
+
+Maybe Smith could station only female workers around the perimeter…
+
+Although…The way Strawberry was looking at Smith with a new, yet not unfamiliar look of curious lust as she sucked her fingers into her mouth, green eyes drinking in Smith's short, tight body meant that perhaps Strawberry wasn't 100% straight anymore.
+
+'Go on, Git ya hussy!' Smith said, causing Strawberry to laugh musically,
+
+'I'll be seeing you Smith~' The amazon slut said before hopping the tall fence with ease, her fit body making light work of the athletic challenge leaving only the smell of strawberries and cream in her wake.
+
+------
+
+Smith had got Braeburn into the hands of one of the other farmhands, Tealeaf.
+
+A demure, raven haired bimbo with cute almond shaped eyes, a NBA player's height and abs you could cut yourself on. She had been a petite and cute foreign exchange student from Neighpon, now she was a giant and cute foreign exchange student whose thin, blossom patterned booty shorts did nothing to hide her cameltoe drooling as she took charge of the dazed Braeburn.
+
+Still, she was in a better mood as she went to check on her niece and her husband. 
+
+Auntie and Uncle Orange were lounging on large, comfy deckchairs on the side of the lake that bordered the orchard. Applejack had invited them to talk about reestablishing connections between their two branches of the family but had been totally sidetracked by the whole Spoiled Rich fiasco and had tasked Smith to keep the comfortable.
+
+Which she had done with efficiency and ease as the great PA that she was.
+
+To be fair, it hadn't been difficult. It wasn't just the heady, magic filled atmosphere of the orchard, nor the copious amounts of bimbo food they had been eating but rather that the two just *really* needed a break away from Manehatten.
+
+The two of them, the whole orange side of the family really, weren't a bad sort despite all their pomp and prissyness and Smith felt a twing of regret for her coolness to them over the past few years.
+
+The hardest part had been stopping them from "helping". It had become apparent the city slickers were borderline workaholics mixed with a strict sense of Manehatten propriety and poilteness and kept trying to "chip in."
+
+They had even gingerly, though sincerely offered to help doing actual *labour* on the farm although they had obviously been relivied to have been scooted off to go through the Apple Family accounts instead.
+
+Which they had done an admittedly good job at. Smith had been trying to get through them but there was over a hundred years' worth of old logs that she had to get through and the Orange's had made a sizeable dent.
+
+After that though, even the ever determined Orange's needed a break and so Smith had set them to sunning themselves by the side of the lake where they had been for the past few days, getting pampered and worked on.
+
+Seville Orange looked up and gave her a cheery wave as the green haired man looked over his sunglasses at her. 
+
+'Oh, Miss Smith, It's good to see you again, I was just remarking to Clementine and Beignet here that views around your orchard are sooo much better than anything when have in the city, even Central Park *pales* in comparison!'
+
+Of course, the views he was talking about could be the majestic looking waterfall on the other side of the lake or it could be the ebony skinned amazon kneeling between his legs, giving him the mother of all titjobs and slobbering over his fat dick as he drank apple juice.
+
+As he sipped, he sighed in satisfaction and grew again, his colourful shirt, already burst open around his wide chest, strained again as his shoulders broadened and Beignet's hands furiously roamed over his defined sixpack, her tits squeezed between her arms as she slavishly throated his dick, eyes watering slightly the huge pole grew another inch or so between her black and white striped lips.
+
+'Isn’t that right Beignet?'
+
+Beignet took a deep breath as she slid of the cock, licking up it's length and jerking it as she rubbed it against her face, her thick, frizzy hair striped much like her lips,
+
+'Oui.' She said softly before diving back onto Seville's dick who moaned softly, before recomposing himself and carrying on,
+
+'Then again, I was just saying to Beignet her that the city does have its own sights. We've invited her and her brother to stay with us, maybe you could come as well? What do you think Clem dear?'
+
+'H-HhnnggHhaaa~' Was Clementine's blissed out reply, leaking out from between her plump, glossy green lips along with a trail of drool as she grinned, pussy blasted by the huge, dark skinned titan slamming into her from behind, driving her face into the fabric of the chair.
+
+Her wide hips bucked, large phat ass wobbling with every carefully timed thrust, her pussy gushing, leaking orange scented femcum while her thick, blond hair flew from its tall, maintained bun and fell around her body like a cloak, the multiple emerald brooches and clips in it unable to keep the sheer volume contained.
+
+Her dainty hands, each one tipped with long, emerald fingernails groped and failed  to contain her huge tits that squashed out from either side of the chair, swelling as bimbo magic collected around her. Tasteful golden bangs and bracelets glinted in the sun as Pomme d'amour, Beignet's brother pleasured her.
+
+Her heavily made up face giggled and grinned, all sense of propertity vanished as she bit her lip, eyes wide and eager as she *came* hard!
+
+'OOohhYeeeeeee!'
+
+'Ah, She's busy, I'm sure she'll agree!' Seville remarked, eyeing his wife shuddering and squealing with fondness. 'Did you need something?'
+
+'Eynope, Just here to check on ya. Ah'll get ya a refill and some more orange slices.'
+
+'Oh, We're fine, don't worry about us, we'll just sit here and enjoy the view until we're summoned!'
+
+'Again, Ah'm sorry about the delay-'
+
+'Nothing to apologise for my dear! Why, we've had to deal with a fair few Tammany Hall types ourselves! We're fine here, aren't we dear?'
+
+'Ffffuh-Fhhaaah~'
+
+[Sorry for messing up the french names for Candy Apple and Fritter if I did, I put them through google translate. 
+Also, history lesson, Tammany hall was a horrible corrupt political institution in New York City which was essentially used by money men to buy political clout in New York before it was shuttered in 1809. Thank god that doesn't happen anymore!]
+
+It was almost midday, past lunch by the time that Spoiled Rich finally deigned to grace the humble Sweet Apple Acres with her presence. She pulled up in a deep blue, almost black, luxury sedan and Smith had to resist the urge to roll her eyes at Nightmare Moon's flair as she stuffed one of Babs's almond swirls into her mouth. 
+
+Before standing from where she had been leaning causally on the front awning of the house and stepping down the steps beside her granddaughter.
+
+Not that it was at all obvious that Smith was four times as old as the tall, beautiful woman standing next to her. 
+
+In fact, "Granny" Smith looked she could be Applejack's sister. 
+
+Her younger sister even.
+
+Applejack stood taller than Smith, even without her tall, black and green heels and cut an intimidating but mouthwatering figure, practically poured into grey and black suit and skirt combo. 
+
+An immaculately tailored and fitted jacket hugged her defined stomach, shoving up her large, tanned breasts, her deep cleavage tight. Immaculate golden, ruby and jade embroidery depicted Appletree's and various plant like motifs. They helped to disguise the powerful magical sigils and enchantments weaved into the jacket.
+
+They not only protected her, but also made her more attractive and more importantly more *belivieble* as the former Element of Honesty bent the truth around her fingers, infusing her words with truth while smoothing the suspicions of anyone she talked to.
+
+Smith knew she also had the same arcane designs weaved into her stocking, garter and panties, not only to ensuring that she was protected fully but mainly because she liked the sensation of Gossamer's magic being so close to her sacred areas, pressing in on her pussy and ass.
+
+She was wearing a beautiful silk shirt under her jacket, dark jade and cut to reveal as much of her massive, golden tits as was possible. Like the jacket, the sleeves were designed to be rolled up, ending in a flared yet still sharp cut just above her elbow, exposing her smooth forearms and a hint of firm bicep that her hands currently rested on, long, perfectly manicured nails tapping on her arms as she crossed them, watching the sedan roll up the estate.
+
+Her long tresses, instead of hanging loose were tied up in large and incredibly intricate bun, bound and studded with rubies and emerald clips. The main emerald was a thick, softly glowing pink that Smith was sure (although she couldn't prove it) Applejack used to talk to Gossamer and vice versa. 
+
+Her trademark hat had been smartened up, the scuffs and blemishes that had made it so cherished had been expunged sat on her head in a meticulously placed angle, the leather darkened to an almost black.
+
+Smith picked at her teeth with a toothpick, trying to dislodge a bit of almond and staring appreciativly at Applejack's large, perfect ass, contained snugly in a tight black and green pinstriped dress.
+
+Her ass, meticulously sculpted and maintained, like the rest of her appearnce through hours of expensive work with the best experts in the field. 
+
+Well, hours of sucking them dry of all their knowledge and expertise, sometimes literally before washing it down with a carefully measured dose of milk from Applebloom.
+
+Applejack was as voracious with acquiring knowledge as she was with acquiring wealth and sex.
+
+Her mind was a steel trap powered by ambition and she only needed a few hours with the experts before she had surpassed them all.
+
+Smith once more wondered if Gossamer had placed the Lustling hive beneath Sweet Apple Acres as a means of keeping an eye on Applejack who in the past few months had carved up the city's business interests so thoroughly…
+
+'Stop that.' Applejack said, watching the sedan, her deep green eyes, clad behind fashionable and very pricy glasses were calculating and intense as the driver, Clear Lake, stepped out, her usual stripper gear exchanged for a very smart and very tight driver's uniform.
+
+'H'What?' Smith said, still cleaning her teeth with the small length of wood, 'Looking at your ass or cleaning 'ma teeth?'
+
+'Worrying.'
+
+'Mph.' Smith said, flicking the tooth pick away and making sure her smart shirt and tight pants didn't have any crumbs on them before fully stepping up beside Applejack, running her hand through her short, blond hair as Clear Lake opened the rear door, letting a *very* different Spoiled Rich from what they were expecting step out of the back of the luxurious car.
+
+'Huh, She's had work done…' Smith said quietly and a ghost of a smile quirked at the side of Applejack's plump lips before she stepped forward to shake Spoiled's own. 
+
+The purple haired MILF's face was gorgeous and beautifully made up, tasteful despite the amount of product on her face and although the woman was significantly shorter than Applejack, still radiated the same imposing yet alluring aura that Applejack did. 
+
+The short,wiry Applepunk also noticed the calculating gaze and fake smile that she returned matched Applejack's own in both ruthless cunning and faux sincerity.
+
+What the fuck had Nightmare Moon done? 
+
+What had she turned their last remaining obstecle and *buffed* her to a point where she could be a serious contender to Sweet Apple Acre's efforts to gobble up the city?
+
+Rivalries between the various factions were already beginning to form but they had remained "friendly" in nature. This was directly fucking over what Gossamer herself wanted to happen!
+
+Applejack didn't seem the least bit worried however as she laughed with every sign of actual humour as Spoiled Rich told a joke that was *far* to witty and actually funny to have come from *Spoiled Rich.*
+
+Unless her charisma and smarts had been unnaturally suped up by a crazy, midnight goddess of course!
+
+'It's very good to see you Mrs Rich, 'Ah've been looking forward to your visit for quite some time, 'Ah gotta say you look *amazing! Like a prized pie on a cold day.'*
+
+That wasn't…strictly untrue, Applejack *had* been looking forward to cornering Spoiled at the farm although…not *this* version of Spoiled. As for Spoiled looking hot. 
+
+Well, yeah.
+
+The "Prized Pie" comment was laying it on a little thick. Applejack hadn't used many of her usual "countryisms" recently but Smith guessed she was playing up the hokey farmer role.
+
+While standing in a several thousand dollar suit.
+
+Spoiled's sly smile and the calculating glint in her eyes belied that she obviously wasn't buying it but did take the moment to slide her eyes up Applejack's huge chest, even leaning in to the handshake to cop a feel of the taller woman's firm arms.
+
+'Why *thank* you Applejack, and please, It's *Spoiled* among us girls, or *Miss* Rich, it's better for business if people think I'm single~' She purred, squashing her own large tits, clad in a tight purple pantsuit into the younger woman's arm,
+
+'And I must return the compliment, My love~' She drew out the words like honey and smoked caramel, leaning up and tucking a stray lock of Applejack's blond hair back behind her ear, returning it to the intricate bun, 'We've just come from *The Eclipse* and you're more beautiful than all the dancers and hussies they have *there.* Have you ever considered dancing there? I'm sure you would be *excellent* at it~' Spoiled cood, her tone sweet honeysuckle despite the jab hidden just under the surface, her thick ass and thighs strained beneath the purple bottoms she was wearing as she stood arched to better grope Applejack's arms.
+
+Smith's eyebrow rose as she spotted the clear outline of a buttplug lodged up the woman's ass as Clear Lake strode up next to her.
+
+'Smith.' The tall, pale woman said simply, her voice breathy as she held a black parasol above her head to shade her pale skin as the two of them stood far enough away to have a quiet conversation while still listening in.
+
+Smith shuffled closer, under the guise of shading under the parasol herself as she hissed in a far less stoic tone than her opposite number in Luna's camp.
+
+And on/off again fuckbuddy with Raven from Celestia's camp.
+
+Despite the heat, her fuck around with Strawberry Sunrise, the increasing magic demands and this new horsepiss for the efficient yet overworked PA to deal with, Smith tried to get her grievance across as succinctly and diplomatically as possible,
+
+'What the fuck is this fucking shit Clear?'
+
+
+
+"Just watch Smith~' Clear breathed, a small smile quirking onto her face as she watched Applejack open the letter she had passed to her.
+
+Smith just looked up her and scowled, shuffling into the shade of Clear's parasol and trying to keep up her irritated façade even as anticipation built in her.
+
+As much as she disliked not knowing what was going on, she was eager to see what Clear and Nightmare Moon had done. 
+
+She even cracked a smile as Clear's free hand snaked into her tight pants, palming her ass discreetly.
+
+Spoiled was still sniping as Applejack read the letter, her immaculate eyebrow quirked as her eyes slid across the words on the letter,
+
+'I said, Applejack Pet, have you ever danced at The Eclipse? I mean, look at this body~' Spoiled cooed, sliding her hand down from Applejack's arm, down her waist and grazing her ass, rubbing her hand on Applejack's stocking clad thigh.
+
+The pretense of decorum was swiftly fading in the blazing summer heat and Smith watched as beads of sweat formed on Spoiled's large breasts, sliding into her cleavage as she leered at Applejack hungrily,
+
+Applejack just snorted, still not paying attention as she read the letter,
+
+'No, have you?' She shot back smoothly and now it was Spoiled's turn to scoff,
+
+'No! Of course not pet, I'm a upstanding member of the community! And I prefer a much more…Private place to entertain myself…' Spoiled tittered, stepping closer, one hand playing idly with Applejack's jacket as if fixing it, while the other hand, the one around Applejack's thigh slid upwards, under her skirt.
+
+She smiled slyly as Applejack breathed out, finally looking at her as Spoiled's questing fingers find her smooth quim.
+
+ 'And finally,welllll…Just like your farm, it's a truly tacky place but business is business…You take the pain with the *pleasure.'*
+
+She enunciated the last word gleefully and Applejack tensed, biting her lip as Spoiled's finger curled inside her pussy and she took a half step back.
+
+Spoiled followed, her fingers insistent as the older woman pushed Applejack back against the wall of the house and Applejack mewled, her powerful façade crumbling under Spoiled's expertise.
+
+'Do you like pleasure Miss Applejack? I *love* it-Hahh…' Spoiled darts forward, trailing her tongue up Applejack's breasts before kissing up her neck. 
+
+Smith stepped forward as she watched Applejack quake, wet, eager noises coming from between her legs, a damp spot forming on her skirt but Clear Lake stops her with a hand on the shoulder,
+
+'Wait-Just wait…' Clear breathed, eyes intent as she watched the exchange.
+
+'Do you love pleasure Applejack? I can give you pleasure…if you give me everything…The farm, your contacts, your *brother!'*
+
+'I-I love-I-' Applejack mewled then squealed, her tall body shaking as she presses into the shorter older woman, gasping and groaning
+
+'Yesss?' Spoiled says, biting her lip, her eyes hungry and eager,
+
+'I l-love…milk.' Applejack states, her voice instantly shifting from desperate and pleasured to confident and in control. She pushes Spoiled back slightly as the older woman frowns in confusion.
+
+'Milk? What?'
+
+*'Sweet Milk.'*
+
+'Whaaa-' Spoiled goes cross eyed, her face going slack, her body twitching before she takes a deep breath in, eyes fluttering before refocusing back on Applejack although…
+
+She seemed different, her posture seemed less assured and for once as far as Smith could remember, she didn't have her habitual sneer on her face. Her overbearing demeanour totally inverted, she seemed smaller as she looked around in confusion and trepidation.
+
+'O-Oh…Oh-Um..Oh excuse me I seem to have had a bit of a moment! Um..A-Applejack isn’t it?' The new Spoiled said, stepping back and blushing as she tried and failed to keep her eyes off of Applejack's expanse of freckled boob!
+
+'Oh!  I'm..um…just here to pick up Diamond? I was told she was here?' 
+
+She tears her eyes away and smiles, a proper, sincere smile full of warmth, 
+
+'I am glad she is making new friends. She can be lonely at times you know how it is with kids!  I heard you practically raised your sister!' She gives a beaming smile to Smith, apparently mistaking her for Applebloom, 'She looks like she's turned out *very* well! Goodness she's beautiful!'
+
+Smith flinches back a bit under Spoiled's megawatt smile and finds herself blushing a bit at the unmistakable, honest sincerity in the older woman's words.
+
+*"Older Woman! You're twice as old as her Smith!"*
+
+This "Sweet" Milk was throwing Smith through a bit of a loop!
+
+'Excuse me, where are my manners! I'm Mrs Rich, You know, Filthy's wife? I think you do business with him don't you? Oh,but you can call me Sweet!'
+
+She holds out her hand then frowns in confusion as she stares at her glistening fingers, still slick with Applejack's juices.
+
+Sweet Milk raised them to her face, her nose twitching as she takes a curious sniff then her eyes dilate and she *jams* the fingers between her plump lips.
+
+She groans loudly, her thighs squashing together, her pussy gushing as she slurps on Applejack's femcum, twitching and sighing in bliss before the hand falls from her mouth which is now hanging open, her face blank.
+
+
+Smith narrows her eyes in confusion before taking a step forward, standing next to Applejack, who was smiling widely now, her green eyes glittering with ideas as she runs her hand down Sweet's motionless body,
+
+'Is she…Is she in some kind of trance?'
+
+'Eyup. Aren't you Spoiled, or is it Sweet?'
+
+'I am whatever you want me to be Mistress.'
+
+'Perfect' Applejack said, unbuttoning the front of Spoiled's jacket and freeing her tits, groping and inspecting them with a critical eye, rather than a lustful one.
+
+'But…Wait,  there wasn't any command or anything, what was the trigger?'
+
+'Her juices…' Spoiled answered, her voice slightly slurred with pleasure as Applejack clamps her  ruby lips around Spoiled's nipple and begins to suck.
+
+'If I-oooohhh-If I imbibe any amount of-Hah-juices from Mistress Applejack, or yourself, or any member of the Applefamily I will instantly drop into this open, trance like state-Ooooh!'
+
+Applejack was squeezing hard on her right tit, her throat working hard before she broke off, a line of saliva connecting her lips to the hard, leaking nipple.
+
+'Mmm-That's not bad~' Applejack smacks her lips, 'Not as good as your daughter though and not nearly as much in volume as Applebloom.' 
+
+Applejack steps back, wiping her lips with a gilt cloth embroidered with Apple patterns in gold and silver, looking over at Clear,
+
+'No deal.'
+
+'Deal?' Smith says, darting between the two of them and Applejack nods, holding up the letter,
+
+'Yeah, Nightmare Moon wants Diamond and 'Bloom. For what I don't know, it says she wants Diamond for her new boytoy, Filthy Rich but I'm not sure…' Applejack pursing her lips in thought before addressing Clear,
+
+'You can tell Nightmare Moon that I don't want to swap my two prize milkers for Spoiled, no matter how satisfying it may be. Those two have more magic in their tits than this one does in her entire body, despite what Nightmare Moon has done.'
+
+Clear smiles a graceful and regal smile, her eyes glimmering slightly in the shade of the parasol,
+
+'Ah~ My apologies Miss Applejack, but this is not the magic milker that my Mistress wants to trade. Or well, it is however there is another form if you would like to read the back of the letter?'
+
+
+Applejack cocks her head then flips the letter, reading the writing on the back and raising her eyebrows in query,
+
+
+'*Honeyed Milk?*'
+
+'HnnngoooooH!' Spoiled lets out a *loud* guttural cry of bliss as her body is enveloped in blazing pink swirls of light, emanating from her breasts which *swell* to impossible proportions, encompassing her entire midriff before the rest of her body begins to catch up!
+
+Spoiled bursts out of her clothes as she grows several feet taller! Towering over all of them now! She had to be over seven feet tall! Maybe eight! Maybe as tall as Venomheart! Her hair billows out around her thickening body, her soft thighs are nearly a big around as Smith's entire width and the small punk could use the giant woman's huge, jiggling ass as a mattress!
+
+Despite her massive frame, her tits will still massive and Spoiled squealed as her nipple, each one as thick as a thumb *gushed* a pressurised *gout* of bright pink energy in pure liquid form. Her pussy spasmed and squirted but it was a pale trickle compared to the volume blasting out of Spoiled's beach ball sized tits!
+
+Applejack had stepped back quickly in surprise and so avoided the splash zone but the entire front of the porch was coated, the wooden boards creaking under Spoiled's new mass, her head grazing the top of the porch.
+
+
+It went on and on for several minutes, pink liquid flowing off the porch onto the ground infront of the house. Spoiled seemed to be caught in a jerking, writhing loop of pleasure. Everytime she looked like she was about to stop, another errant twitch would set her off and she would shoot another gallon or two of bimbo essence out her tits.
+
+She drooled, moaning and sighing, her saliva pooling between her massive tits and by the time it was done, the huge cow was almost insensate, her massive ass squashing into the support beam of the stoop as she leaned back.
+
+Smith's jaw hung open and even Applejack looked totally thrown, gaping at Clear as she stepped forward gently,
+'And as impressive as that was…That *was* just the first few spurts…Hook a machine up to her and she'll go for *hours.* Or maybe you would prefer to milk her the old fashioned way?' Clear gave a coy little smile, a superior smile with a twinkling look in her pale grey green eyes.
+
+Applejack blinked, recovering some on herself as she gingerly stepped over the pink, pulsing liquid and lightly drawing her finger up Spoiled's tit, scooping up some of the milk.
+
+Even that, Despite how light the touch had been caused Spoiled to almost *moo* as more milk squirted out, splashing into Applejack's own cleavage. 
+
+Applejack tentatively tasted the milk and almost doubled over, her legs going weak as she moaned loudly, gripping onto Smith for support. Smith could feel the magic swirling around Applejack, felt it feed into herself where Applejack gripped her arm as she recomposed herself.
+
+'You may need to dilute it a bit~' Clear said, still smiling softly and Applejack nodded,
+
+'Yeah. Okay. Done. Hahhh~' Applejack trembled, eyes wide before she blinks and stands straighter, back in control,
+
+'Deal. I assume, judging by Spoiled other commitments and the need for separate forms that we will only have her temporarily?'
+
+'Yes. She has made herself quite vital in certain circles, which was why my Mistress decided to…have a talk with her…and come up with this solution. She will be attending meetings but she will be much more *malluble* even if she does not know it.'
+
+Applejack nods, ideas already sparking in her eyes, 'Okay. Deal. Get her into the barn and unhook Applebloom and Diamond Tiara. One condition though, Applebloom still gets to visit. She *is* family after all.'
+
+'I'm sure that can be arranged!' Clear said, still smiling as she shook Applejack's hand before the two of them glided into the house for a "celebratory drink" for a deal well done.
+
+Leaving Smith to clean up the mess. One big 'ol MILF and gallons of pure bimbo magic soaking into the ground and the porch!
+
+
+The old wood *drank* in the magic hungrily and Smith bit her lip as she watched the house *creak* and pulse, gorging itself on Bimbo energy.
+
+Ehhh…There were gonna be some funny and very horny dreams tonight…
+
+Fortunately she had Coco waiting in her room!

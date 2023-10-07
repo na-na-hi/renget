@@ -101,7 +101,7 @@ This is the main thing you'll be rolling for, it's the equivalent to other gacha
 You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
 
 **2. E.G.O**
-You obtain E.G.O from the gacha and the Battle Pass. This is the equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
+You obtain E.G.O from the gacha and the Battle Pass. This is the equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color.
 
 Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. You can have multiple E.G.O passives active at a time. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too. Many Zayin E.G.Os are still highly relevant.
 
@@ -149,7 +149,7 @@ The Battle Pass is the best thing to buy by far. The current Battle Pass price i
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
-Be aware that the **Battle Pass bonuses past level 60 are *not* retroactive.** You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it once you hit level 60.
+Be aware that the Battle Pass bonuses past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it once you hit level 60.
 
 **7. Daily Rolls**
 An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% the price, but you only get to do so with paid Lunacy.
@@ -234,7 +234,7 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 
 ##Combat
 **1. Retries**
-You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (e.g all your Sinners die), the same will happen unless you are in a Mirror Dungeon, in which case you will be forced to forfeit. 
+You can give up (Press the give up button) or lose (have all your Sinners die) in any battle and try again without penalty in most cases. Giving up or losing a story node will make you lose 1 Enkephalin. If you lose a battle inside a Dungeon you will have to retry with your remaining Sinners that weren't participating originally. If you have no remaining Sinners you will be forced to forfeit. If you lose in a Story Dungeon but have Sinners remaining, the Sinners who died will stay dead until you reach a checkpoint, at which point they will be revived. Sinners cannot be revived in Mirror Dungeons. In summary, give up before you lose the battle.
 
 **2. Coins, Clashes, Offense & Defense Level**
 For each clash, every coin still available will be flipped and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.
@@ -254,7 +254,7 @@ This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved wh
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**
-Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Story and Mirror dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins to land heads more often, and negative Sanity will make coins to land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O.
+Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an E.G.O at low Sanity will also have a non guaranteed chance to corrode.
 
 Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
 

@@ -1,5 +1,5 @@
 # The meta list of various Claude links
-->==(Updated 2023-09-30)==<-
+->==(Updated 2023-10-07)==<-
 ***
 [TOC2]
 ***
@@ -26,6 +26,9 @@ https://rentry.org/cr3io (https://rentry.org/slaudecope)
 ###### Cope Slowburning with Slaude
 https://rentry.org/hn3bd
 - An add-on for the Coping with Slaude rentry that lets you slowburn
+###### Hoping with Slaude
+https://rentry.org/slaudehope
+- Spermack, 3.4-4K Context, Unfiltered Response from Claude
 ***
 ***
 ***

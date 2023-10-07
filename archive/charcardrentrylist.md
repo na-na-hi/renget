@@ -23,7 +23,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Satsuki Uchiha](https://files.catbox.moe/305dtk.png), [Felicia](https://files.catbox.moe/oh8z7g.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[The Lamplighter](https://files.catbox.moe/fvyp1w.png)|[The Lamplighter](https://files.catbox.moe/fvyp1w.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png), [Keith](https://files.catbox.moe/p755ni.png)|[Keith](https://files.catbox.moe/p755ni.png) [MV]
-[Planewalker](https://rentry.org/planewalker) | Misc |[Keith](https://files.catbox.moe/fhn9t6.png), [Nicholas](https://files.catbox.moe/0cg5cj.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Keith](https://files.catbox.moe/fhn9t6.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Zephyr](https://files.catbox.moe/g3lkfd.png), [Ion](https://files.catbox.moe/f460gm.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Violet](https://files.catbox.moe/wet6kz.png), [Snommy](https://files.catbox.moe/p0dl9f.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[The White Rabbit](https://files.catbox.moe/n1aoz4.png), [Pascal](https://files.catbox.moe/49jwxo.png)|
@@ -33,12 +33,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Aydric](https://files.catbox.moe/om5h9c.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Jenny](https://files.catbox.moe/8mnxkn.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Sabrina](https://files.catbox.moe/hlgrk1.png)|
-[Argalia](https://rentry.org/gayanon) | Malebots |[Li Xiaoyu](https://files.catbox.moe/qsj7pv.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||[Tatsumaki ](https://files.catbox.moe/u1s1f6.png)
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Leah](https://files.catbox.moe/on4cnu.png)
+[Argalia](https://rentry.org/gayanon) | Malebots ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
