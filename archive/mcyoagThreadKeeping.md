@@ -40,7 +40,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is storing power
+>Desolator's Last Stand (Desolator):
+https://rentry.org/b9ge4v
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/90445389#90445806
@@ -517,6 +518,8 @@ Writefags (final)
 https://rentry.org/e7cszt
 >Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
 https://rentry.org/2bovid
+>Desolator's Last Stand (Desolator):
+https://rentry.org/b9ge4v
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -542,7 +545,7 @@ Build List:
 >S-Rank:
 Inatsu Hikuhei(Hokage), "The Bull of Konoha" >>90349663 
 Akuryoga Mitiru, "The Old Demon" >>90403475
-Yusuke Hiramatsu, "The Third Kazekage" >>90409962
+Yusuke Hiramatsu, "The Third Kazekage" >>90495047
 
 >A-Rank:
 Taiki, "The Trunk Thrower" >>90337572 
@@ -553,7 +556,7 @@ Kurumi Yamagumo, "Prideful Puppeteer" >>90359191
 Amami Kai, "The Tide" >>90371161 
 Mutsuo Aburame "Bug Guy" >>90410708
 Goro Tsuchigumo "Suspiciously Canon" >>90455016
-Hangetsu Hozuki >>90464288
+Hangetsu Hozuki >>90481789
 
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90434647
@@ -605,6 +608,11 @@ https://rentry.org/KuruminChart
 >Ikari
 https://rentry.org/cmh95
 
+Jutsu Lists:
+>Inatsu
+https://rentry.org/c7e54
+>Yusuke
+https://rentry.org/3irwm
 ```
 
 #Accidental Magical Girl
@@ -783,7 +791,7 @@ Just Get Therapy Bro(Alexi)
 https://rentry.org/zxbcw
 The Bee’s Knees (Murder Bee, Villainconvenience)
 https://rentry.org/tq2tg
-Girls Just Want To Have Fun (Assorted Koreans)
+Girls Just Want To Have Fun (Koreans)
 https://rentry.org/x266p
 Dinner With The Family
 https://rentry.org/DInnerWithTheFamily
@@ -793,26 +801,28 @@ Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
 https://rentry.org/RoosterTeambuilding
 Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
 https://rentry.org/5ivhd
-Applying for membership in the Dread Conglomerate (Pestilence)
+Applying for membership in the Dread Conglomerate (Pestilence, Big Cheese)
 https://rentry.org/4v5uin
-Material Girl
+Material Girl (Koreans)
 https://rentry.org/bttmt 
-Arsenal Fight
-https://rentry.org/ArsenalFight
 ```
 ***
 Page 3
 ***
 ```
 Writefags (Cont.)
+Arsenal Fight (Arsenal King, Triumph)
+https://rentry.org/ArsenalFight
 Courtesy Call (Chimera)
 https://rentry.org/aq4v6
 Weight of Reality (Triumph, mentions of others)
 https://rentry.org/WeightOfReality 
-Southern Charm
+Southern Charm (Geyser, Golden Boy, Blastrix, etc.)
 https://rentry.org/d3a4r3
-Man Made Horrors
+Man Made Horrors (Mr Theseus)
 https://pastebin.com/ZtmkM8qx
+Fresh Off The Plane (Kyōrinrin)
+https://rentry.org/cyr77
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

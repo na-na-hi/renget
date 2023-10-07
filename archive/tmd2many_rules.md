@@ -799,9 +799,9 @@ AP Cost | Untrained | Training Tier **ɪ** | Training Tier **ɪɪ** | Training T
 
 If a Move is Trained to be used in spite it's AP, the AP cost may be changed to: '{AP cost} (*ᴛʀᴀɪɴᴇᴅ*)'. Trained Moves can be used at their original value, but if the Character lacks the necessary AP, they can still use it at the expense of all they have.
 
-Requirement: 2 Training Sessions ▯▯
-ᴏʀ
 Requirement: 3 Training Sessions ▯▯▯
+ᴏʀ
+Requirement: 4 Training Sessions ▯▯▯▯
 
 ### Learning or Relearning Moves
 
@@ -831,14 +831,14 @@ The "meetings" can happen at any time the Player chooses to participate as their
 
 ### Resources
 Your decisions may not be entirely influenced by what your character might want to do. Instead, scarcity of resources or the current sociopolitical climate might demand they act differently: either because they have no choice or because it would better appease the people. There are three major resources to control:
-- **Funding** is naturally acquired from areas that the country controls and accumulates over time into the country’s treasury. 
+- **Funding** is naturally acquired from areas that the country controls and accumulates over time into the country’s treasury. This can represent assets or money.
 	- Funding can be increased by expansion (however rapid expansion may decrease Stability), which can mean more resources to harvest. Facilitating trade with other countries will also increase funding.
 	- Emergency Funding can be increased by temporarily taxing citizens, however, this may decrease Stability.
 - **Stability** represents the political and social climate of the country, revealing how the population feels about their current environment and living status. 
 	- 0 represents total anarchy, while 100 represents idyllic peacetime. 50 is your baseline number.
 	- Stability can be increased or decreased through the use of Assets and events that may occur.
-- **Assets** can be purchased through Funding or acquired through Stability. They can be used to respond to certain events to increase their success rates or start other ventures. Assets may represent a mundane thing such as construction materials, or even up to hired artisans or workers to utilize those construction materials.
-	- Assets may be lost or destroyed in events, or even acquired if things happen successfully.
+- **Monpower** can be purchased through Funding or acquired through Stability. They can be used to respond to certain events to increase their success rates or start other ventures. They are workers, soldiers, or whatever Pokémon fufills the requirements to be working for your burgeoning kingdom.
+	- Monpower may be lost or destroyed in events, or even acquired if things happen successfully.
 
 ### Expansion & Map
 ``=placeholder=``
@@ -848,4 +848,24 @@ Players can expect each update to include an event for the leadership to make a 
 - Leaders might request the ruling council to follow with their ideas or suggestions on how to act. Listening can result in a Stability bonus.
 
 ### Countries
-There are five in total across the campaign world, however, only four are accessible for Players to act as leadership for.
+There are five in total across the campaign world, however, only four are accessible for Players to act as leadership for. These are:
+- The Clan Council
+	- It does not have a capital and is fairly decentralized. For the most part, the Air Continent is divided by the various faction heads, all content to do their own thing. 
+		- Funding: 1 per each Summit.
+		- Stability: 80 (High)
+		- Monpower: 10
+- Rantrum
+	- A capital situated in an impenetrable mountain fortress, Rantrum was forged through conquest and strength: the epitome of what it means to be Pokémon.
+		- Funding: 3 per each Summit.
+		- Stability: 35 (Low)
+		- Monpower: 20
+- Ho'oha
+	- A flying temple that symbolizes life and rebirth, famous for its lively celebrations and strong culture. Priests wield significant power as they represent Ho-Oh.
+		- Funding: 5 per each Summit.
+		- Stability: 25 (Very Low)
+		- Monpower: 15
+- Ava-lu Empire
+	- Ruling over the waters and with the capital built upon the waters, Ava-lu rivals Liokio as the economic power of the world. They have an impressive navy, too!
+		- Funding: 2 per each Summit.
+		- Stability: 50 (Stable)
+		- Monpower: 25

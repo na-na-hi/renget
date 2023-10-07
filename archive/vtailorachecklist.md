@@ -725,7 +725,7 @@ Liliana Vampaia | - | - | -
 Lunari Urufi | - | - | -
 Karrot Keromi | - | - | -
 Liola Lightbringer | - | - | -
-Marica Bellerose | - | - | -
+Marica Bellerose | X | - | X
 Manaka Umio | - | - | -
 Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -

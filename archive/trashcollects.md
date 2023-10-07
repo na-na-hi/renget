@@ -479,6 +479,9 @@ Zip has Tag List, LoRA, and Pixeldrain link for the model if people are too lazy
 	Keyword: Bubsy the Bobcat
 	pixeldrain.com/u/a1gfqRcj
 
+	Possibly a different LoRA, maybe the same:
+	https://files.catbox.moe/l8ki1o.safetensors
+
 # kame_3t (Artist), Nanachi (Made In Abyss) + Various Furry Artists (among others)
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/PoZQgLQC
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/30wnQL4K
@@ -661,7 +664,7 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 	https://files.catbox.moe/zpat2q.safetensors
 
-# Peachpunch11 (Triggerword "umaishiru"
+# Peachpunch11 (Triggerword "umaishiru")
 
 	https://files.catbox.moe/erjbb4.safetensors
 
@@ -698,6 +701,10 @@ Yzmuya (Artist)
 	https://anonfiles.com/38Z4n7z5z3/yzmuya_v1_16_safetensors
 > I increased the threshold for the image tagger and added/replaced a small part of the dataset with generated images - the improvement is minimal, but it's there. It mainly works better when used with lower weights, compared to the previous versions. Activation token is still "yzmstyle"
 
+	V1.19: https://files.catbox.moe/7c8v0i.safetensors
+
+	V2.9: https://files.catbox.moe/cms3mu.safetensors
+
 Viosgit (Artist)
 
 	https://anonfiles.com/M4k9S9x6za/viosgit_v1_2_safetensors
@@ -731,6 +738,12 @@ Rocky Rickaby (Lackadaisy)
 
 	https://files.catbox.moe/8dj7dr.safetensors
 >Activation token is "ldrocky", trained at 512*512 resolution, clip skip 1.
+
+Webber (Don't Starve)
+>activation token is "webber"; I honestly don't expect it to be particularly versatile, there isn't a lot of variety in the dataset. 
+
+	https://files.catbox.moe/kfnk44.safetensors
+
 # Xenomorphs
 
 	https://pixeldrain.com/u/3zaypdh5
@@ -741,6 +754,7 @@ Rocky Rickaby (Lackadaisy)
 ~~https://anonfiles.com/i7V0Vfy7zd/gantu_safetensors 
 
 	https://pixeldrain.com/u/s7DfbDJG
+
 # Minerva Campbell (Adventure Time)
 
 	https://files.catbox.moe/l4fnta.safetensors
@@ -923,11 +937,44 @@ https://civitai.com/models/150647/magica-de-spell-or-ducktales
 	https://files.catbox.moe/21wmi0.safetensors
 
 # Goldie O'Gilt
+Third Lora, I apparently know enough about what I'm doing. (Version 2)
+
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very.
+
+Trained on a 70/30 mix of SFW animation frames and NSFW e621 art, so use e621 tags!
+
+Recommended Lora Weight for V2: 0.5 - 0.7
+Recommended Lora Weight for V1: 0.4 - 0.6
+
+
+V1 isn't that bad; V2 however, will give you more consistent results.
+
+Main Tags:
+
+goldie o'gilt, ducktales, beak, duck, green eyes, eyebrows, blonde hair, mature female, eye bags, eyelashes, scut tail, white skin, orange legs, webbed feet
+
+Reinforcement SFW Tags: (Includes different outfits)
+
+roll bangs, low ponytail, swoop bangs, hair bun, tan pants, tan vest, satchel, backpack, dress shirt, white skin, boots, orange dress, earrings, bracelets, emerald necklace, heels
+
+Reinforcement NSFW Tags:
+
+breasts, genitals, nipples, pink nipples, nude, pussy, white body, cleavage, seductive, green underwear, green bra, green bikini
+
+I recommend when trying to generate SFW, NSFW or specific outfits, put the opposite tags into negative prompts.
+
+For Example:
+
+Positive: swoop bangs, hair bun, orange dress, heels, earrings, bracelets, emerald necklace
+
+Negative: roll bangs, low ponytail, tan pants, tan vest, satchel, backpack, dress shirt, boots
 
 https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 
 	Direct DL V1.0:
 	https://civitai.com/api/download/models/172198?type=Model&format=SafeTensor
+	Direct DL V2.0:
+	https://civitai.com/api/download/models/172727?type=Model&format=SafeTensor
 
 # hooves-art/lunar47/snuddy mix (artists)
 
@@ -947,6 +994,167 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 # manmosu marimo (artist)
 
 	https://files.catbox.moe/fy0kdd.safetensors
+
+# 3d, by onsenanon, onsen
+>That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
+
+	https://files.catbox.moe/rzqx5o.safetensors
+
+# Newmouf - Mawshots (Concept)
+>Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
+
+	https://files.catbox.moe/8loti1.safetensors
+
+# Della Duck (Ducktales)
+https://civitai.com/models/149490/della-duck-or-ducktales-2017
+First Lora, I barely know what I'm doing. (Version 2)
+
+This Lora is trained on Indigo Mix v60, It's probably fine with other e6 based checkpoints, your mileage may very.
+
+Trained on a 60/40 mix of SFW animation frames and NSFW e621 art, so use e621 tags!
+
+It's pure rng to generate her prosthetic leg correctly, you can try increasing the weight of (prosthetic leg) or (cybernetic leg) but you would probably have a better time inpainting it.
+
+Recommended Lora Weight for V2: 0.6 - 0.8
+Recommended Lora Weight for V1: 0.7 - 1
+
+Main Tags:
+
+della duck, ducktales, duck, beak, bird, white skin, white body, long hair, hair, white hair, female, prosthetic leg, cybernetic leg, orange legs, webbed feet, scut tail
+
+Reinforcement SFW Tags:
+
+clothed, clothing, goggles on head, white skin, brown flight jacket, brown flight helmet, goggles, teal scarf, tan shorts, headband, devil costume, fake horns, red shorts, red sweater
+
+Reinforcement NSFW Tags:
+
+medium breasts, breasts, genitals, nipples, nude, pussy, white body, 
+
+	Catbox: https://files.catbox.moe/96uzxq.safetensors
+	Civitai Direct Link: https://civitai.com/api/download/models/177590?type=Model&format=SafeTensor
+
+# Dragonite (Pokemon)
+Activation keyword is "dragonite", trained on Easyfluff
+
+	https://files.catbox.moe/c4asqm.safetensors
+
+# Daisy Duck (LeMans42)
+
+	https://files.catbox.moe/i8114i.safetensors
+
+# Sandshrew (Pokemon)
+
+	https://files.catbox.moe/nsm68r.safetensors
+
+# Anatomically Correct Pony (Reupload from CivitAI)
+>This lora at 0.5 or so combined with easyfluff is fucking insane for degenerate pony consumption
+
+	https://files.catbox.moe/iry3pt.safetensors
+
+# James Hardiman (Artist)
+Trained on Easter e17
+
+	https://files.catbox.moe/w1zcnc.safetensors
+
+# Kita / KitaKettu (Artist)
+Trained on fluffyrock-lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is "kitastyle"
+
+	https://files.catbox.moe/cehi21.safetensors
+
+# Rouge-ify LoRA (Rouge the Bat Clothing Concept)
+
+	https://files.catbox.moe/77as09.safetensors
+
+# Emaciated (Concept)
+
+	https://files.catbox.moe/p0yico.safetensors
+
+# Livia (Dreamy Pride - Character)
+
+	https://files.catbox.moe/jk8x6d.safetensors
+
+# Internal Machinery (Concept)
+Useful tags; robot, android, machine, translucent body, uterus, endoskeleton 
+
+	https://files.catbox.moe/yjqjmd.safetensors
+
+# Transparent Style (Concept)
+Used to achieve a similar look to the above, I am unsure if you want both or only one of them.
+https://civitai.com/models/103068?modelVersionId=112482
+
+	Direct DL V1.1: https://civitai.com/api/download/models/112482?type=Model&format=SafeTensor
+
+# Lilith (Character - MLP OC?)
+https://files.catbox.moe/lyxii8.png
+https://files.catbox.moe/mp25tm.png
+	
+	https://files.catbox.moe/haasf3.safetensors
+
+# Weaver (Artist)
+
+	https://files.catbox.moe/ybtl9h.safetensors
+
+# Spike (MLP - Character)
+
+	https://files.catbox.moe/39piua.safetensors
+
+# DaftPatriot (Artist)
+
+	https://files.catbox.moe/2c99hq.safetensors
+
+# Skeleslime (Concept)
+
+	https://files.catbox.moe/6p6mvf.safetensors
+
+# Gnolls (Concept - Character)
+
+	https://files.catbox.moe/qgslox.safetensors
+
+# Manizu (Artist)
+
+	https://files.catbox.moe/t8mluy.safetensors
+
+# Majora's Mask (Concept - Character)
+
+	https://files.catbox.moe/2fc26k.safetensors
+
+# Moki (Artist)
+
+	https://files.catbox.moe/soiacp.safetensors
+
+# Bimbo Lips (Concept)
+Taken from /d/ apparently
+
+	https://files.catbox.moe/eilxna.safetensors
+
+# Avery (Character by Fiddleafox)
+
+	https://mega.nz/folder/dOsVDBQT#ppLtPptaYQ-fi2hnyA3cGg
+
+# Alexi (Artist)
+Reupload from /h/
+
+	https://files.catbox.moe/ksxzd2.safetensors
+
+# Realistic TMNT (Character)
+Reupload from CivitAI
+
+	MichelAngelo:
+	https://files.catbox.moe/ld7l4a.safetensors
+	Donatello:
+    https://files.catbox.moe/xcz6gz.safetensors
+    Leonardo:
+    https://files.catbox.moe/762764.safetensors
+    Raphael:
+    https://files.catbox.moe/3tgfq2.safetensors
+
+# The Siren (The Binding of Isaac)
+
+	https://files.catbox.moe/n1intg.safetensors
+
+# Gnar (League of Legends)
+
+	https://files.catbox.moe/rhtss5.safetensors
 
 ## LORAs from the Discord
 

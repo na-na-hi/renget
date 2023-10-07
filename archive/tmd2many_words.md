@@ -169,6 +169,8 @@ Restricted either by the construction or location of their homes, some Pokémon 
 Together, we're even stronger! Pokémon form Guilds to get benefits from having a large group of adventurers who are always willing to help one another out. Almost like a big family. Guilds construct their bases next to towns and usually have some form of specialty: Rescue, Exploration, Expedition, or even Justice... there's a lot a Guild can do.
 - They are supported by the Guild League, who supplies them with equipment, a steady stream of job requests, and regulates their activities.
 - Guilds also offer training, reputation with their name, contact points for the Guild League, rooms and meals for their members, and equipment. There are pros and cons to joining one.
+- Badges allow the bearer to exit a Mystery Dungeon, either by lowering the "Mysteriosity" of the dungeon enough to allow for safe traversal outward by backtracking or simply walking out of its affecting vicinity, or by warping the bearer out to the entrance (or exit) of the dungeon. They take time to appropriately function, and emergency usage will always cause the bearer to leave behind their things. 
+	- The choice of what the badge does is up to the writer at the time of functioning.
 
 #### Trade and Travel
 The primary currency of this world is known as Pokécoin or just normally referred to as Poké, (but may also be abbreviated further to a numerical value and the symbol, for example: **100₽** or **100P**) and is what most shops or businesses might accept as legal tender. However, this is not the only option for one to conduct a transaction. For a majority of the world who do not live in cities or regularly dive into dungeons, bartering is the other method most Pokémon can be expected to use. There's always value in a berry or crop!
@@ -359,6 +361,7 @@ Listed here are the Legendaries/Mythicals expected to be used for the course of 
 - Kyogre (Tentative)
 - Ho-Oh (Tentative)
 - Wo-Chien, Chien-Pao, Ting-Lu, and Chi-Yu
+- Ogerpon
 
 **Unavailable**
 - Lugia

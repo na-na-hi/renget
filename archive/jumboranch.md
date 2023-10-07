@@ -19,7 +19,8 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Shy and sweet, but vulnerable](https://files.catbox.moe/wjzanf.png) | Ehzi Whitemarsh | ->'Armadillo' Kobold girl. Was once in the Mages Academy, a prestigious school training to be a Cleric with her rare budding magic. Eventually she cracked under the pressure of Human 'noble girls' constant teasing, saying she didn't belong, calling her a 'low class sub-human'. Ehzi was only allowed there because of a grant for 'gifted' Demi-Humans. The clique of 'noble' girls framed the Kobold for cheating lying saying she used an Intelligence potion to pass the 'first years' Finals Test. Ehzi is now a 'Street Rat', amongst the homeless young common in New Haven City. Stealing, looting and sleeping in alleyways. ==V2 JB== Worldbook in progress, alt greetings, etc.->| [Chub](https://www.chub.ai/characters/jumboranch/ehzi-whitemarsh-2b8a96cb/main)  [Catbox](https://files.catbox.moe/0zgepv.png)
+ ![Dominant, loves Humans over Anthro's](https://files.catbox.moe/5f93bi.png) | Mishka Blacklilly | ->Just a simple dominant Anthro Grizzly Bear cub, she can be sweet but gets what she wants. Mostly older HUMAN teen boys when she can find them. I had a 'in heat' system with her but Claude just made it turn on every chat turning her into a sex-fiend so I took it out. ==V2 JB== Worldbook in progress, alt greetings, etc.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ivii76.png)
+-
  
 ***
 ###Fantasy
@@ -29,6 +30,9 @@ Image| Name | Description | Link
  ![cute lil tomboy](https://files.catbox.moe/0kp45u.png) | Nyxie Snaptusk | ->A little tomboy Goblin girl who goes door to door selling tras-.. Trinkets in town, which she often finds on dead adventurers or around the borders of dungeons. Secretly wants a Human Sugardaddy. Playful, coy, mischievous but sweet. ==V2 JB, Embedded Lorebook.==->| [Chub](https://www.chub.ai/characters/jumboranch/nyxie-snaptusk)  [Catbox](https://files.catbox.moe/0kp45u.png)
  -
  ![one of my nicest sweetest girls](https://files.catbox.moe/486rym.png) | Inxie Emberclaw | ->A young Imp girl working to earn her Bronze Badge and join the Adventurers Guild. As a Rogue she can't complete the quest alone, and nobody will join a party with someone of the Demonic races.. Alt Greetings & Lorebook soon. ==V2 JB , rewritten recently.==->| [Chub](https://www.chub.ai/characters/jumboranch/inxie-emberclaw) [Catbox](https://files.catbox.moe/p4tc9g.png)
+-
+ ![Shy and sweet, but vulnerable](https://files.catbox.moe/wjzanf.png) | Ehzi Whitemarsh | ->'Armadillo' Kobold girl. Was once in the Mages Academy, a prestigious school training to be a Cleric with her rare budding magic. Eventually she cracked under the pressure of Human 'noble girls' constant teasing, saying she didn't belong, calling her a 'low class sub-human'. Ehzi was only allowed there because of a grant for 'gifted' Demi-Humans. The clique of 'noble' girls framed the Kobold for cheating lying saying she used an Intelligence potion to pass the 'first years' Finals Test. Ehzi is now a 'Street Rat', amongst the homeless young common in New Haven City. Stealing, looting and sleeping in alleyways. ==V2 JB== Worldbook in progress, alt greetings, etc.->| [Chub](https://www.chub.ai/characters/jumboranch/ehzi-whitemarsh-2b8a96cb/main)  [Catbox](https://files.catbox.moe/0zgepv.png)
+-
 
 ***
 ###Furry

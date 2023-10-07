@@ -101,13 +101,13 @@ This is the main thing you'll be rolling for, it's the equivalent to other gacha
 You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives and better general stats. Uptying is a huge power boost, don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and watchable story. 000 Identities get pretty animated artwork.
 
 **2. E.G.O**
-You obtain E.G.O both from the gacha and the Battle Pass. This is equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
+You obtain E.G.O from the gacha and the Battle Pass. This is the equivalent to weapons/special moves in other gachas. There are 5 slots for each of the 5 rarities - ZAYIN, TETH, HE, WAW and ALEPH. Each one invokes a different attack and costs a different amount of in-battle resources. At the moment, there are only E.G.Os up to HE level.
 
-They also change your resistances to different types of attacks and changes your active passive. You can have multiple E.G.O passives active at a time. Those factors mean that you shouldn't just focus on the highest rarity E.G.O, but rather take into account the lower rarity stuff, too.
+Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. You can have multiple E.G.O passives active at a time. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too. Many Zayin E.G.Os are still highly relevant.
 
 Similarly to identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
-It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal compared to 000 Identities. It is recommended to roll exclusively for Identities and wait for an E.G.O to jumpscare you, and shard anything you really want.
+It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to jumpscare you, and shard anything you really want.
 
 **3. Lunacy & Extractions**
 Lunacy is the roll currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
@@ -280,7 +280,7 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
 
 **2. Story Dungeons**
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can save at checkpoints to leave and resume later.
@@ -318,7 +318,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 ## Useful Tips
 1. READ
 2. Do not skip the tutorial.
-3. Do your weeklies.
+3. Collect your weekly bonuses.
 4. Uptie and level Identities you use.
 5. Play Lobotomy Corporation and Library of Ruina.
 
@@ -331,9 +331,7 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
-9/24/23: Fixing minor errors. Elaborated on sharting.
-9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping.
-9/28/23: Added one sentence and fixed another error in FAQ #13
-9/29/23: Changed ordering of "Who do I reroll for?" and fixed a formatting error.
-10/2/23: Grammar and improved the Extraction explanation. 
-10/5/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os. ![lol&](https://files.catbox.moe/7dmu76.png)
+9/24-25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping and sharting.
+9/28-29/23: Changed ordering of "Who do I reroll for?" and fixed an another error in FAQ #13
+10/2/23: Improved grammar and the Extraction explanation. 
+10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os. ![lol&](https://files.catbox.moe/7dmu76.png)

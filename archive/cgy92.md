@@ -150,10 +150,12 @@ This entry is the very first Twitter Space. See the [Various pieces of media](ht
 | 2022-01-12 | Kitchen Time | https://cloudup.com/cBt6Q3x1RSv + [Transcript](https://files.catbox.moe/zgeugv.txt)
 
 #####ASMR
-Paper shuffling and random bird noises.
+These are the best examples for what her usual ASMR content are (even though they are rare). Her ASMRs usually are usually random relaxing noises and such and lighter on things like ear cupping or scratching etc. Since she likes what she calls "OG" ASMRs ([Example](https://www.youtube.com/watch?v=qLxoEcI94G4)), basically random videos that triggers your ASMR response her ASMR content would be more similar to those. For description of member's ASMR go [here](https://rentry.org/7tb3o).
 | Date | Title | Link & Thumbnail |
 |------|-----|-----|
 |2021-11-02|【ASMR】 Study with Me?| [![](https://files.catbox.moe/2r04pp.jpg)](https://youtu.be/J-c-mj8xVKg) |
+|2022-04-15|  【ASMR】Whispering Random Facts!! | [![](https://files.catbox.moe/kto7kz.jpg)](https://www.youtube.com/watch?v=_vGjh0JqH70)|
+
 
 #####Mumei Zatsudan & Rants
 Sources of wild and wilder tengents. Also not laughing in the case of the Mumei Rants. Worth to note that the original 'Mumei Rants' stream from January 2022 had a [follow-up](https://www.youtube.com/watch?v=7Wp2XsR9b1M) a few months later. It's Moomin' Time is the return zatsudan from a rather long health break, also the first time she used her home 3D in a stream. 
@@ -206,3 +208,4 @@ ________________
 |2022-08-31| 【TWILIGHT WATCHALONG】 hold on tight, spider monkey with MUMEI | [![](https://files.catbox.moe/wf7mtl.jpg)](https://www.youtube.com/watch?v=c4fAF2N9R_s)  |Fauna - has a [follow-up](https://www.youtube.com/watch?v=M2GvDo_EucI) and might be made into a series with a possible offcollab (watchalongs+ Twilight karaoke).|
 |2023-05-05|  【COUNCIL COLLAB】The Gang Plays UNO  | [![](https://files.catbox.moe/9ftvfm.jpg)](https://www.youtube.com/watch?v=k6fcl4rk3Y8)| First full Council collab after a while. Organised by Mumei. Fun stream with lots of banter and moom noises.|
 |2023-05-20|  【GARTIC PHONE: HoloJP + HoloEN 】I speak through my art ~ | [![](https://files.catbox.moe/adwp1s.jpg)](https://www.youtube.com/watch?v=Bo686D933Sc)| Marine, Korone, Fubuki, Ina and Bae. Their POVs are in the [M.E.S.](https://rentry.org/t59a7#en-x-jp-gartic-phone-collab-complementary-to-mumeis-pov)|
+|2023-09-28|  【EMO HOURS】 IT WAS NEVER A PHASE with NERISSA | [![](https://files.catbox.moe/hgte3o.jpg)](https://www.youtube.com/watch?v=EQ5CVr3bb5U)|Zatsu collab with Nessie.|

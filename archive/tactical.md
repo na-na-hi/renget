@@ -1,4 +1,4 @@
--> Last update: 2023-06-14 ->
+-> Last update: 2023-10-07 ->
 # /&Tactical/ 
 ---
 
@@ -429,6 +429,7 @@ Needed to run the HDest mod. Recommend using "doom_complete.pk3", because that i
 !!! note 3. Hideous Destructor mod:
 >Download [Hideous Destructor mod](https://codeberg.org/mc776/hideousdestructor/releases)
 Get the latest .pk7 file.
+Alternatively, you can download the newest commit. Most submods target this instead of stable releases.
 
 !!! note 4. Some recommended PWADs for beginners:
 
@@ -452,6 +453,36 @@ Total conversion mods mapsets:
 
 !!! note 5. Add-ons resources:
 [This site](https://dastrukar.gitlab.io/hddons-list) can come in very handy if you want to dive into add-ons for the mod, though getting familiar with base Hideous Destructor before messing around here is recommended.
+
+!!! note 6. Advanced tips:
+Courtesy of anon
+>powercrawling
+this is how you get your ass to safety while incapped. turn 90 degrees to where you want to move to, lean in that direction, then turn back around 180 degrees and unlean and repeat. leaning is faked by just moving your whole hitbox and tilting your camera, so doing this allows you to go a lot faster than the normal incap crawling speed.
+>quickswapping
+if you switch weapons while sprinting or jumping, the switch will happen much faster. especially good for heavy weapons with the extra-long switch time like the BFG or vulc, but even small weapons benefit. if you switch to fists during sprinting or jumping, it'll store the quickswap for the next weapon you select after that.
+>general movement tech
+jumping is really good and should be your main source of speed and method of dodging in a fight. sprinting is niche by comparison, it's more stamina-intensive, slower, and the constant speed is easier for enemies to hit compared to the irregular bursts of jumping. you can crouch while jumping to extend your air time. fist lunges are also very good. lunge the moment before jumping to really fling yourself. lunge, release forward movement, and then jump and you can do a high standing jump with significant forward momentum. lunge, forward jump, then crouch and you get super mario 64 long jumps. try to avoid rolling as well, it has its uses for getting even more burst speed and a midair roll can salvage a jump that would've undershot, but it's disorienting and leaves you unable to act for too long to be good for any part of a fight except leaving it.
+>drugs
+this isn't exactly tech, but if you're fighting, you want to be stimmed. if you're afraid of overdosing, you can check if you're already stimmed by punching the air. stimmed punching is significantly faster and also thrusts you forward slightly. with more experience, you can identify when a stim wears off by your HP or stamina regen slowing down.
+>identifying the difference between being hit by a fireball and being set on fire
+you don't have to sit and spin every time an imp fireball hits you, regular fireballs have relatively little heat buildup. only the mage imp's special attacks require you to put yourself out.
+>more on drugs
+stims give you near infinite stamina, increased health regen, and a boost to strength that overrides the penalty that severe wounding incurs. one stim lasts for about 3-4 minutes, but if you have blues then the duration is reduced to one fifth, and it burns off a lot of those blues in the process.
+zerk can get you out of incap instantly and lets you ignore wounding up to a point. if you're zerked and you aren't regenerating to full health, then you're a lot more fucked up than your max HP would suggest. the strength increase from zerk adds a much more significant thrust to your punches compared to stims, which you can use for controlling your enormous jumps. you can chain multiple zerks if you time it just right and inject just before comedown hits. if you're too slow and go into comedown, you'll need to suffer for a bit before you can zerk again, but you don't have to wait out the full comedown. stims are very important for surviving comedown, if you have two stims you'll make it through just fine even if you're badly wounded.
+>radsuits and shieldcores
+radsuits also provide protection from fire and electric attacks, but get torn by bullets and melee attacks. shieldcores stop bullets and melee attacks dead, but have little effect against fire. use the two together and you can shrug off almost anything for as long as the shield holds out. just be prepared to ditch the radsuit if you're building up too much heat, because it won't protect you forever.
+>using frag grenades right
+enemies try to run away from live grenades, so just directly throwing them or setting up tripwires for an enemy to walk through usually doesn't work like you want it to. cook before throwing so they don't have time to escape, and rig tripwires to be set off by the monster closet itself, or even set the tripwire and then trigger it yourself. you can also take advantage of the fear to buy yourself a few seconds to get away from a nasty ambush, because enemies want to get away from a live grenade more than they want to kill you. they'll only turn and fight if they have nowhere to run to or if they get far enough away.
+>squeezing into super tight spaces
+if you crouch before playing dead, when you get up you'll briefly squish down even further, which lets you get into all but the smallest gaps.
+>attacking while invisible
+most forms of violence will disable the blursphere's cloak, but there's a few loopholes you can take advantage of. you can beat enemies up with distracting strikes (reload with fists) and kicks, you can throw grenades, and you can deploy derps using the derp 555/derp 556 commands. deactivating the blursphere manually gives you a few seconds where you can fire any weapon while still technically invisible. firing a bronto will trigger a slow decloak instead of an instant one due to the damage you take from the recoil.
+>using more items from incap
+anything that is activated instantly from inventory such as radsuits, shieldcores, summoning talismans, or IED kits can be bound to a key for immediate access even when incapped. robot commands are also fully functional.
+>wall jumping
+press jump with your back to a wall
+if you aren't particularly light you won't really get any vertical benefit out of it, but in certain situations you can use it to climb even higher than normal
+i tend to find it primarily useful for getting a horizontal boost near the end of a fall to roll the landing and take less fall damage
 
 #### Insurgency (2007-2018) - MP-only PvP & PvE
 
