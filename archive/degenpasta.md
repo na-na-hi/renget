@@ -20,7 +20,6 @@ https://rentry.org/sdvae
 
 >>> Other links <<<
 Archive: https://thebarchive.com/b/search/subject/DEGENerated/
-OP Pasta: https://rentry.org/degenpasta
 Wiki: github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 Controlnet: https://rentry.org/dummycontrolnet
 

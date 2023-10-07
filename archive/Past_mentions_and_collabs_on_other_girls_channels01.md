@@ -1,6 +1,6 @@
 # ->![Image description](https://files.catbox.moe/f9inkg.png) The Lover of Idols - Collabs on other holomems channels & mentions ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-!!!info   This is a list of collabs, complementary POVs and cameos done by Nerissa in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
+!!!info   This is a list of collabs, complementary POVs and cameos done by Nerissa in the other Holomems channels. This will also include the 'Easter Eggs' like drawing streams. Any relatively brief mentions on streams (ie. less than 10 seconds) without any particular footage or appearance or even any appearance in a holomem chatroom without any interaction is usually not counted. Breakdowns or aftermaths of previous streams like offcollabs that she took part of will be counted. Any missing collab or cameo or any suggestions are also welcome, just let it be known in the thread as an answer to the OP and downright as a post in /ope/.
 
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 [Go To The Lover of Idols I - Collabs on Nerissa's channel page](https://rentry.org/Collabs_on_Nerissa_s_channels01)
@@ -15,12 +15,6 @@
 	[TOC2]
 ### ![Image description](https://files.catbox.moe/f9inkg.png) EN
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Myth
-###### 💀 Calliope
-|Date|Link|Nature & Notes|
-|---|---|---|
-|31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
-|12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
-
 ###### 🐔 Kiara
 |Date|Link|Nature & Notes|
 |---|---|---|
@@ -43,6 +37,13 @@
 |07/09/2023|[Link](https://www.youtube.com/watch?v=Rc8O5lB31_w)| **Collab** - Collab in Minecraft. |
 |08/09/2023|[Timestamp for the main interaction](https://youtu.be/MdwAAbtTASo?t=5400) [Minor Event #1 - Greetings](https://youtu.be/MdwAAbtTASo?t=2662) [Minor Event #2 - Reaction to the Loviatar reference](https://youtu.be/MdwAAbtTASo?t=2904) [Minor Event #3 - Dead Ravens scene](https://youtu.be/MdwAAbtTASo?t=5080) [Minor Event #4 - Small reference to the MC collab](https://youtu.be/MdwAAbtTASo?t=8836)| **Streamer-chat interactions & mentions** - Nerissa gave instructions to Kiara in orfer for her to advance for the main interaction  The rest are non-impactful references, reactions or mundane stuff like greetings|
 |11/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=mTwRuoJf1EM&t=870s) [Timestamp #2](https://youtu.be/mTwRuoJf1EM?t=10050s)| **Mentions** - During that Hotline Miami 2 stream, Kiara ade 2 small mentions with Nerissa DMing her about her silent stream start and was talking about the possibility of doing musical for future events with Myth by concluding that Neriisa loves musicals. |
+|2023-10-04|[Timestamp](https://www.youtube.com/watch?v=ik_wZAooaGg&t=1655s)| **Mentions** - Kiara mentioned Nerissa during an off collab ASMR stream with Noel. She tells Noel that she was surprised and happy that someone else had an unusual tongue like she did.|
+
+###### 💀 Calliope
+|Date|Link|Nature & Notes|
+|---|---|---|
+|31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
+|12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|

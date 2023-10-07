@@ -33,7 +33,7 @@ Anger Point | The User's Attack is increased by 6 when damaged by a Critical Hit
 Anger Shell | While below ½ HP, the User's Attack, Special Attack, and Speed are increased by 1, but their Defense and Special Defense are decreased by 1.
 Anticipation | The User is alerted if any Opponents know Super-Effective Moves.
 **Arena Trap** | The User's Basic Attack has a ≥11 chance to afflict *Immobilized*.
-**Armor Tail** | The User may enchant 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
+**Armor Tail** | At no cost, the User may enchant 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 Aroma Veil | The User may protect 3 Allies from the effects of Move-disabling effects.
 As One | Stupid.
 Aura Break | The effects of Aura Abilities are reversed. 1-10; Aura Moves of all nearby Pokemon miss. 
@@ -47,7 +47,7 @@ Beast Boost | The User's highest Stat is increased by 2 after KO'ing an opponent
 Berserk | While below ½ HP, the User's Special Attack is increased by 2.
 Big Pecks | The user's Defense cannot be decreased.
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
-Bulletproof | The user is immune to ball and bomb Moves.
+Bulletproof | The User is immune to ball and bomb Moves.
 Cheek Pouch | The User is healed for 3 HP on top of each Berry's natural effect.
 Chilling Neigh | If the User lands a finishing blow, their Attack is increased by 1.
 Chlorophyll | The User's Speed is increased by 2 while in Harsh Sunlight.
@@ -70,7 +70,7 @@ Damp | The User nullifies Explosion Moves.
 Dancer | The User copies Dance Moves used by Opponents for free. 
 Dark Aura | The Damage of Dark-Type Moves is increased by 3 for all Pokémon.
 Dauntless Shield | At the start of the battle, the User's Defense is increased by 1.
-**Dazzling** | The User may shine 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
+**Dazzling** | At no cost, the User may shine 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Defeatist** | The User's Attack and Special Attack Stats are increased by 1 Stat Point. While below ½ HP, the User's Attack and Special Attack are decreased by 2.
 Defiant | The User's Attack is increased by 2 for for each Stat decreased by an Opponent.
 Delta Stream | The User may summon Strong Winds once per battle.
@@ -206,7 +206,7 @@ Punk Rock | The User's Sound Moves have their damage increased by 3. The Opponen
 **Pure Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 **Purifying Salt** | The User recovers from Major Status Conditions in 1 turn. The Opponent's Ghost-Type Moves have their damage decreased by 3 against the User.
 Quark Drive | The User's highest Stat is increased by 3 while in Electric Terrain.
-**Queenly Majesty** | The User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
+**Queenly Majesty** | At no cost, the User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Quick Draw** | The User has a 30% chance to increase AP by 1 at the start of the battle.
 Quick Feet | While the User is Burned, Speed is increased by 2.
 Rain Dish | The User heals 2 HP each turn while in Rain.
@@ -398,3 +398,83 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 3 | 10. | Barrage Guard | Each consecutive hit after the first attack the User receives in the same turn has its damage decreased by 3. | 220 IQ | 7 IP
 3 | 11. | Status Specialist | If the User has no attacking Moves, their Special Defense is increased by 1 and their Status Moves never miss. | 140 IQ | 4 IP
 3 | 12. | Faultless Defense | The User may Brace their Body and Mind simultaneously. | 160 IQ | 6 IP
+
+***
+
+## Moves Affected By Abilities 
+
+***
+
+### Aura Break
+Move | Ability | :·: | :·: | :·: | :·:
+--- | --- | :---: | :---: | :---: | :---:
+Aura Sphere | Fairy Aura | - | - | - | -
+Aura Wheel | Dark Aura | - | - | - | -
+Dark Pulse | - | - | - | - | -
+Moonblast | - | - | - | - | -
+Dazzling Gleam | - | - | - | - | -
+Geomancy | - | - | - | - | -
+Oblivion Wing | - | - | - | - | -
+Fleur Cannon | - | - | - | - | -
+
+***
+
+### Bulletproof
+Move | Move | Move | Move | :·: | :·:
+--- | --- | --- | --- | :---: | :---:
+Acid Spray | Focus Blast | Pollen Puff | Shadow Ball | - | -
+Aura Sphere | Gyro Ball | Pyro Ball | Sludge Bomb | - | - 
+Barrage | Ice Ball | Rock Blast | Weather Ball | - | -
+Beak Blast | Magnet Bomb | Rock Wrecker | Zap Cannon | - | -
+Bullet Seed | Mist Ball | Searing Shot | Draco Meteor | - | -
+Egg Bomb | Mud Bomb | Seed Bomb | Water Gun | - | -
+Electro Ball | Octozooka | Syrup Bomb | Snipe Shot | - | - 
+
+***
+
+### Iron Fist
+Move | Move | Move | :·: | :·: | :·:
+--- | --- | --- | :---: | :---: | :---:
+Bullet Punch | Ice Hammer | Rage Fist | - | - | -
+Comet Punch | Ice Punch | Shadow Punch | - | - | -
+Dizzy Punch | Jet Punch | Sky Uppercut | - | - | -
+Double Iron Bash | Mach Punch | Surging Strikes | - | - | -
+Drain Punch | Mega Punch | Sucker Punch | - | - | -
+Fire Punch | Meteor Mash | Thunder Punch | - | - | -
+Focus Punch | Plasma Fists | Wicked Blow | - | - | -
+Hammer Arm | Power-Up Punch | - | - | - | -
+Headlong Rush | Poison Jab | - | - | - | -
+
+***
+
+### Sharpness
+Move | Move | Move | :·: | :·: | :·:
+--- | --- | --- | :---: | :---: | :---:
+Aerial Ace | Fury Cutter | Razor Shell | - | - | -
+Air Cutter | Kowtow Cleave | Sacred Sword | - | - | -
+Air Slash | Leaf Blade | Slash | - | - | -
+Aqua Cutter | Megahorn | Solar Blade | - | - | -
+Behemoth Blade | Night Slash | Stone Axe | - | - | -
+Bitter Blade | Population Bomb | Vacuum Cut | - | - | -
+Ceaseless Edge | Psyblade | X-Scissor | - | - | -
+Cross Poison | Psycho Cut | - | - | - | -
+Cut | Razor Leaf | - | - | - | -
+
+***
+
+### Soundproof & Liquid Voice
+Move | Move | Move | :·: | :·: | :·:
+--- | --- | --- | :---: | :---: | :---:
+Boomburst | Growl | Round | - | - | -
+Bug Buzz | Heal Bell | Screech | - | - | -
+Chatter | Howl | Sing | - | - | -
+Clanging Scales | Hyper Voice | Snarl | - | - | -
+Clangorous Soul | Metal Sound | Snore | - | - | -
+Clangorous Soulblaze | Noble Roar | Sparkling Aria | - | - | -
+Confide | Overdrive | Supersonic | - | - | -
+Disarming Voice | Parting Shot | Torch Song | - | - | -
+Echoed Voice | Perish Song | Uproar | - | - | -
+Eerie Spell | Relic Song | - | - | - | -
+Grass Whistle | Roar | - | - | - | -
+
+***

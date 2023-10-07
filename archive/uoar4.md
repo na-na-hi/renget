@@ -16,7 +16,8 @@ _______
 >Originals
 | Song | Link | Where to stream? |
 |------|-----|-----|
-| A New Start | [![](https://files.catbox.moe/ax51el.jpg)](https://www.youtube.com/watch?v=Py21QCndbxc) | https://cover.lnk.to/anewstart |
+| A New Start |  ->[![](https://files.catbox.moe/ax51el.jpg)](https://www.youtube.com/watch?v=Py21QCndbxc)<- | https://cover.lnk.to/anewstart |
+|mumei| ->[![](https://files.catbox.moe/0e3lkr.png)](placeholder)<-| Releases next monday (Oct 9th PDT)|
 
 >Covers
 | Song | Link |
@@ -47,11 +48,11 @@ _______
 ->[![Link](https://files.catbox.moe/52ecmx.jpg)](https://www.youtube.com/watch?v=HTgzc9_uAaY)<-
 | Song | Clip | Audio only|
 |------|-----|-----|
-|Call your name - Hiroyuki Sawano| [Link](files.catbox.moe/r2v1u6.mp4) | [.aac file](files.catbox.moe/1s55b8.aac)|
-|天ノ弱/Amanojyaku - 164 ft. Towa| [Link](files.catbox.moe/5g0bo6.mp4) | [.aac file](files.catbox.moe/nuermx.aac)|
-|トリノコシティ/Torinoko City - 40mP ft. Korone| [Link](files.catbox.moe/tt7ox1.mp4) | [.aac file](files.catbox.moe/f5ev1o.aac)|
-|No Title - Reol ft. Polka| [Link](files.catbox.moe/l48o0p.mp4) | [.aac file](files.catbox.moe/xuarsd.aac)|
-|Binary Star - Hiroyuki Sawano| [Link](files.catbox.moe/sazc35.mp4 ) | [.aac file](files.catbox.moe/s5ejw1.aac)|
+|Call your name - Hiroyuki Sawano| [Link](https://files.catbox.moe/r2v1u6.mp4) | [.aac file](https://files.catbox.moe/1s55b8.aac)|
+|天ノ弱/Amanojyaku - 164 ft. Towa| [Link](https://files.catbox.moe/5g0bo6.mp4) | [.aac file](https://files.catbox.moe/nuermx.aac)|
+|トリノコシティ/Torinoko City - 40mP ft. Korone| [Link](https://files.catbox.moe/tt7ox1.mp4) | [.aac file](https://files.catbox.moe/f5ev1o.aac)|
+|No Title - Reol ft. Polka| [Link](https://files.catbox.moe/l48o0p.mp4) | [.aac file](https://files.catbox.moe/xuarsd.aac)|
+|Binary Star - Hiroyuki Sawano| [Link](https://files.catbox.moe/sazc35.mp4 ) | [.aac file](https://files.catbox.moe/s5ejw1.aac)|
 
 
 ->[Go back to the TOC](https://rentry.co/uoar4)->

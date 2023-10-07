@@ -47,19 +47,22 @@ You need to have at least one friend added. If you want more friends, go to the 
 4. Use that code on Steam and follow the instructions.
 
 **10. Should I exchange Egoshards for Thread?**
-No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so.
+No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyways, so you should just wait if you need Thread.
 
 **11. Are past events and stories completely gone until reruns?**
 Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in the theater at any time. The only event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
 
 **12. How do I change it so a specific Identity is in my window when I open the game?**
-Press on the sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
+Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
 We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
 
 **14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
+
+**15. What are Drawpiles and when do they happen?**
+A Drawpile is a canvas that lets multiple people draw, sketch and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each Maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, so usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
 
 ## Rerolling
 **1. Do I need to reroll?**
@@ -104,6 +107,8 @@ They also change your resistances to different types of attacks and changes your
 
 Similarly to identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
+It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal compared to 000 Identities. It is recommended to roll exclusively for Identities and wait for an E.G.O to jumpscare you, and shard anything you really want.
+
 **3. Lunacy & Extractions**
 Lunacy is the roll currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
 
@@ -113,7 +118,7 @@ Extraction Tickets and Decaextraction Tickets are for single rolls and 10-rolls 
 
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
-A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any sinner. Never roll on this banner outside of using paid Lunacy, this is a truth among all gacha.
+A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any Sinner. Never roll on this banner outside of using paid Lunacy, this is a truth among all gacha.
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
 
 - New Identity / E.G.O Target Extraction
@@ -125,14 +130,16 @@ A banner that increases the probability rates for receiving the Identities and E
 ![Limited Target Extraction](https://files.catbox.moe/7dn6z8.png)
 
 **4. Dupes**
-If you obtain a dupe of an Identity, it'll be converted into shards for a specific sinner. If you gather 400 of those, you can convert them into any 000 Identity of your liking. The same goes for E.G.O - all rarities cost 400 shards. **00** identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
+If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
+
+The other use for Egoshards is Uptie 4, which requires Egoshards, so one 000 dupe can be viewed as a free Uptie 4. You can also convert Egoshards to Thread, but you generally shouldn't do that.
 
 When rolling, dupes of identities will be converted into the following number of shards:
 **0** | **00** | **000**
 :----: | :----: | :----: 
-3 | 15  | 50 
+3 | 15 | 50 
 
-As for E.G.O, rather than being converted into shards, it'll be removed from the rolling pool after you get it for the first time. Getting every E.G.O won't drastically improve your changes of getting new things, but it is still cool to have them all.
+As for E.G.O, rather than being converted into shards, it'll be removed from the rolling pool after you get it for the first time. Getting every E.G.O won't drastically improve your changes of getting new Identities, but it is still cool to have them all.
 
 **5. Pity**
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
@@ -206,7 +213,7 @@ If you want to get the most out of your Egoshards, you can either focus on Ident
 As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. If you really want something now whether it be for the Railway or something else, you can do it whenever.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
-This largely depends on how many Egoshards you have for that specific sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
+This largely depends on how many Egoshards you have for that Sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
 
 As for Random Egoshard Crates, open them whenever. They get halved at the end of the Season anyways.
 
@@ -215,10 +222,10 @@ As for Random Egoshard Crates, open them whenever. They get halved at the end of
 You can check the Season an Identity or E.G.O belongs to below its name in the Identity tab. Those without a Season shown are categorized into the \[Regular] tag. Event Identities and E.G.O have \[EVENT] marked next to their Season tag.
 ![Season Info](https://files.catbox.moe/z0re98.png)
 
-When a new Season begins, half of the previous Season's Egoshards will be carried over, converted and rounded up for the new Season. Half of the Egoshards in possession are carried over to the next Season. The remaining Egoshards are converted into Thread.  The same applies for Egoshard Crates. The remaining Crates are converted into Thread Crates. You will be notified of the upcoming Season change and expiration date of Egoshards and Egoshard Crates sometime before the next Season.
+When a new Season begins, half of the previous Season's Egoshards will be carried over, converted and rounded up for the new Season. Half of the Egoshards in possession are carried over to the next Season. The remaining Egoshards are converted into Thread. The same applies for Egoshard Crates. The remaining Crates are converted into Thread Crates. You will be notified of the upcoming Season change and expiration date of Egoshards and Egoshard Crates sometime before the next Season.
 
 **2. Extraction Pool**
-A new Season's Identities and E.G.O will be added to the list of Extractable items. Identities from previous Seasons remain in the pool, so you can still acquire them from Extraction. Only Event IDs and EGO will be removed from the pool.
+A new Season's Identities and E.G.O will be added to the list of Extractable items. Identities from previous Seasons remain in the pool, so you can still acquire them from Extraction. Only Event IDs and E.G.O will be removed from the pool.
 ![Extractions](https://files.catbox.moe/ijre2r.png)
 
 **3. Dispensary**
@@ -227,7 +234,7 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 
 ##Combat
 **1. Retries**
-You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (all your sinners die), the same will happen unless you are in a Mirror Dungeon, in which case you will be forced to forfeit. 
+You can give up any fight and try again without penalty, aside from story nodes that cost raw Enkephalin, where you lose 1 Enkephalin. If you lose a battle (e.g all your Sinners die), the same will happen unless you are in a Mirror Dungeon, in which case you will be forced to forfeit. 
 
 **2. Coins, Clashes, Offense & Defense Level**
 For each clash, every coin still available will be flipped and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.
@@ -247,7 +254,7 @@ This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved wh
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**
-Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Story and Mirror dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins to land heads more often, and negative Sanity will make coins to land tails more often. If a sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O.
+Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Story and Mirror dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins to land heads more often, and negative Sanity will make coins to land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O.
 
 Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
 
@@ -264,7 +271,7 @@ R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also re
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-L Corp Faust and 7 Ryoshu get good boosts at Uptie 4. Both them and G Outis are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. 
+L Corp Faust and 7 Ryoshu get good boosts at Uptie 4. Both them, G Outis and Shi Don are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
@@ -312,7 +319,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 1. READ
 2. Do not skip the tutorial.
 3. Do your weeklies.
-4.  Uptie and level Identities you use.
+4. Uptie and level Identities you use.
 5. Play Lobotomy Corporation and Library of Ruina.
 
 ## Credits
@@ -325,7 +332,8 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
 9/24/23: Fixing minor errors. Elaborated on sharting.
-9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Debating making all of the tables have the same theme for aesthetic/consistency purposes. Elaborated on Luxcavation skipping.
+9/25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping.
 9/28/23: Added one sentence and fixed another error in FAQ #13
 9/29/23: Changed ordering of "Who do I reroll for?" and fixed a formatting error.
-10/2/23 Grammar and improved the Extraction explanation ![lol&](https://files.catbox.moe/7dmu76.png)
+10/2/23: Grammar and improved the Extraction explanation. 
+10/5/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os. ![lol&](https://files.catbox.moe/7dmu76.png)

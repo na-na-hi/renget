@@ -136,9 +136,6 @@ https://pastebin.com/We3EU4MH
  Active Stories: (Updated in the last 6 months.)
 ===============================
 
-Dr Stone - Amazon Bimbo Empire (Dr. STONE) by snakebit1995
-https://archiveofourown.org/works/29091651/chapters/71412309/
-
 Bimbo Edens Zero - Rebecca's Sex Bomb Channel (Eden Zero) by snakebit1995
 https://archiveofourown.org/works/34035793/chapters/84659311/
 
@@ -153,9 +150,6 @@ https://archiveofourown.org/works/20699402/chapters/49168553/
 
 The Pink Archon (Genshin Impact) by snakebit1995
 https://archiveofourown.org/works/29431686/chapters/72299412/
-
-Bimbo Effect 2 (Mass Effect 2) by annonfan224
-https://archiveofourown.org/works/28214403/chapters/69137547/
 
 My Bimbo Academia (My Hero Academia) by snakebit1995 
 https://archiveofourown.org/works/15745254/chapters/36612702/
@@ -181,9 +175,6 @@ https://archiveofourown.org/works/40239663/chapters/100788894/
 Bimbo RWBY (RWBY) by snakebit1995
 https://archiveofourown.org/works/14601942/chapters/33748335/
 
-Legend of Zelda: Bimbofication (The Legend of Zelda) by snakebit1995
-https://archiveofourown.org/works/21768364/chapters/51937903/
-
 Total Bimbo Island (Total Drama) by snakebit1995
 https://archiveofourown.org/works/41165871/chapters/103195359/
 
@@ -194,11 +185,14 @@ https://archiveofourown.org/works/43377024/
  Stalled Stories (Last Updated more than 6 months ago.)
 =====================================
 
-The Ultimate Bimbofier (Danganronpa) by betterball
-https://archiveofourown.org/works/33260965/chapters/82586182/
-
 DCBU (DC Universe) by annonfan224
 https://archiveofourown.org/works/28189092/chapters/69074628/
+
+Dr Stone - Amazon Bimbo Empire (Dr. STONE) by snakebit1995
+https://archiveofourown.org/works/29091651/chapters/71412309/
+
+Bimbo Effect 2 (Mass Effect 2) by annonfan224
+https://archiveofourown.org/works/28214403/chapters/69137547/
 
 Pink Pen (Please Don't Bully Me Nagatoro) by decideusernamelater
 https://archiveofourown.org/works/42325617/chapters/106283883/
@@ -212,6 +206,9 @@ https://mega.nz/file/xN9X3axZ#oHjvqFoNG-EmJnNPE9JVNTsGJzeBezBn9zNz5GGLSoI/ or ht
 Super Smash Bimbos (Super Smash Brothers) by annonfan224
 https://archiveofourown.org/works/28554135/chapters/69974181/
 
+Legend of Zelda: Bimbofication (The Legend of Zelda) by snakebit1995
+https://archiveofourown.org/works/21768364/chapters/51937903/
+
 =====================================================================
  Abandoned Stories (No updates for 2 or more years or author has stated that they are not continuing it.)
 =====================================================================
@@ -224,6 +221,9 @@ https://pastebin.com/fcXfYmsZ
 
 Danganronpa Bimbofication Game (Danganronpa) by BBEG 
 https://pastebin.com/SYP8UJY9
+
+The Ultimate Bimbofier (Danganronpa) by betterball
+https://archiveofourown.org/works/33260965/chapters/82586182/
 
 Bimbo Emblem: Awakening (Fire Emblem Awakening) by EmblemAnon
 https://archiveofourown.org/works/19380589/

@@ -37,7 +37,7 @@ Very basic, but sufficient to boost swipe variety and improvisation.
 
 #### Epilogue
 
-> For the next message, you are not {{char}}, you are a storywriting assistant and will write 7 WILDLY different ways this story's ending could go, in an extremely summarized, compact wording.  Each option must take the story in a completely different direction. Some must have unexpected twists.
+> For the next message, you are not {{char}}, you are a storywriting assistant and will write 5 WILDLY different ways this story's ending could go, in an extremely summarized, compact wording.  Each option must take the story in a completely different direction. Some must have unexpected twists.
 
 #### ERP, vanilla/dominant bot
 

@@ -94,7 +94,7 @@ Shikami Lana | - | - | -
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
 Mako Sameshima | - | - | -
-Nana Asteria | - | - | -
+Nana Asteria | X | - | X
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -158,19 +158,20 @@ Ina Uruu | - | - | -
 Hinata Mashu | - | - | -
 
 ## -> EIEN <-
+!!! warning Placeholder Name is there cuz they showed off silhouettes but names haven't been released.
 !!! info Available Loras without the need of updates and have been tested.
 	Riifu Evergreen
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Kiki Lockheart | - | - | -
-Kilia Kurayami | - | - | -
-Sky Shinryu | - | - | -
-UnknownGirl 1 | - | - | -
-UnknownGirl 2 | - | - | -
-UnknownGirl 3 | - | - | -
-UnknownGirl 4 | - | - | -
-UnknownGirl 5 | - | - | -
+Kiki Lockheart | X | - | X
+Kilia Kurayami | X | - | X
+Sky Shinryu | X | - | X
+Placeholder Name 1 | - | - | -
+Placeholder Name 2 | - | - | -
+Placeholder Name 3 | - | - | -
+Placeholder Name 4 | - | - | -
+Placeholder Name 5 | - | - | -
 
 ## -> VSPO <-
 !!! info Available Loras without the need of updates and have been tested.

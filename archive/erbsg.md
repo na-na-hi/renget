@@ -13,11 +13,8 @@ https://playeternalreturn.com/posts/news/1443 (Season 1 Gold Cadet Skin - Bianca
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=J8z5CavPCYY
 
-\>[New Character] Abigail Preview
-https://www.youtube.com/watch?v=lmpsAHXkycA
-
-\>Lumiapedia - Abigail
-https://www.youtube.com/watch?v=-WA0lmzodF4
+\>[New Character] Alonso Preview
+http://www.youtube.com/watch?v=ICAp5jquYwg
 
 \>Morning Glory Laura Preview
 https://www.youtube.com/watch?v=HLLRM-lMoIU
@@ -50,7 +47,6 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://event.playeternalreturn.com/S1_ElevenMarineCafe (~10/25)
-https://playeternalreturn.com/posts/news/1452 (Login event, ~10/3)
 https://playeternalreturn.com/posts/news/1450 (Skin boxes, ~10/12)
 https://playeternalreturn.com/posts/news/1457 (Twitch drops, ~10/16)
 
@@ -64,4 +60,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>447858495
+\>\>448586598

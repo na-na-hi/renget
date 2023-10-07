@@ -56,6 +56,7 @@ https://cloud.vast.ai/create/
 ##Try online without registration
 ###txt2img
 https://clipdrop.co/stable-diffusion
+https://getimg.ai
 https://www.patience.ai
 https://beta.dreamstudio.ai
 https://dezgo.com
@@ -172,6 +173,7 @@ https://rentry.org/sd-loopback-wave
 https://github.com/Sanster/lama-cleaner
 https://github.com/novitalabs/sd-webui-cleaner
 https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
+https://github.com/ilian6806/rembgr
 ###ControlNet
 https://rentry.org/dummycontrolnet
 ###VAE usage
@@ -241,6 +243,7 @@ https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7
 https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d
 https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit#gid=1533595411
 ###Prompt sharing
+https://majinai.art
 https://tensor.art/posts
 https://lexica.art
 https://krea.ai

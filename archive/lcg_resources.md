@@ -46,6 +46,7 @@
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
+* [Lobotomy Corporation Artbook (All languages)](https://mega.nz/folder/Ey0RFBKT#1siorKpaKBmRZ1-QuUITtg)
 * [Recommended Translations](https://rentry.org/ligmabooks)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
@@ -123,6 +124,7 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to Uptie 3 character stories
 9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
-9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things. I think that updates to both Rentries will become much less frequent soon now that most of the kinks have been ironed out, I'll just have to focus on updating when new content drops or when someone spots an issue.
+9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things
 9/28/23: Added link to Other Kots MEGA
-10/4/23: Added new Drawpile album link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/4/23: Added new Drawpile album link
+10/6/23: Added alternative Lobco artbook link ![lol&](https://files.catbox.moe/7dmu76.png)

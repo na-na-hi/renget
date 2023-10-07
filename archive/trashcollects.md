@@ -375,6 +375,9 @@ What are Fun/Funner Editions?
 Reupload: https://pixeldrain.com/l/HY8deXMB
 I scraped together all the LoRAs I think are from him. If I missed any, or there are some missing, post in the thread so I can add them here - if not the LoRAs themselves, then as a list of which ones are still missing. Maybe some anons, or the Prof himself, are willing to share the missing ones.
 
+!!NEW!! Raboot: https://files.catbox.moe/f6r97a.7z
+Zip has Tag List, LoRA, and Pixeldrain link for the model if people are too lazy to mix it themselves.
+
 # Midna LORA from /h/
 	https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
 

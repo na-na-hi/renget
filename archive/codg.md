@@ -3,12 +3,12 @@
 Previous thread:
 
 \>news:
-\>MWIII gunsmith info (aftermarket parts etc.)
-https://www.callofduty.com/blog/2023/10/call-of-duty-modern-warfare-III-gunsmith-innovations-aftermarket-parts
+\>MWIII multiplayer trailer:
+https://www.youtube.com/watch?v=ZWb6wCKA_Pk
+\>MWIII beta info:
+https://www.callofduty.com/blog/2023/10/call-of-duty-modern-warfare-III-beta-guide-maps-modes-tips-intel
 \>MWIII information:
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwide-full-reveal-announcement
-\>MWIII notes and news about content carrying over (TL;DR: shit is getting carried over generally):
-https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-II-to-modern-warfare-III-carry-forward
 \>Season 6 Blackcell, Battlepass, and bundles
 https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-II-warzone-season-06-blackcell-battle-pass-bundles
 

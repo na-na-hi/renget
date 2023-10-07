@@ -6,7 +6,7 @@
 [SillyTavern RP Chat Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
 [Local Models Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
 [Local Models Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
-[Local Models GPU Guide](https://archive.ph/SY2h6)|By Tim Dettmers (quantization researcher). 3090/4090 is current meta 
+[Local Models GPU Guide](https://archive.ph/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.co/Mikubox-Triple-P40)
 |
 **Models**|
 [TheBloke's Huggingface Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
@@ -66,6 +66,7 @@
 [LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
 [LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
+[DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
 **Local LLM Research**|

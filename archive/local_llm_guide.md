@@ -25,3 +25,5 @@ ChatGPT-style queries:
 Same as above but launch with "--unbantokens" and in Step 2 choose 'New Instruct' in popup window. In step 3, may wish to adjust Amount to Generate tokens for small ("What's the capital of Ohio?") or large ("Write 10 paragraphs comparing gas to oil") prompts
 
 **->CTRL-C in CMD window to stop**
+
+[.](https://rentry.org/local_LLM_guide_notes)

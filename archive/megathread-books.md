@@ -348,6 +348,10 @@
 - Audio stories made for kids. Relax and let your kids' imaginations to wander to fantastical realms.
 - [URL Safety Results](https://www.urlvoid.com/scan/storynory.com/)
 
+### ▶️ [Tokybook](https://tokybook.com/)
+- Providing a large range of audiobooks and podcasts for book lovers worldwide, helping to advance and popularize audiobook culture.
+- [URL Safety Results](https://www.urlvoid.com/scan/tokybook.com/)
+
 &nbsp;
 
 ---

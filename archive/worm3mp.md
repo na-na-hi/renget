@@ -23,6 +23,7 @@ Rules
 [Bethany Zellenin CN Nemian](https://archive.4plebs.org/tg/thread/90231458/#90243978)
 [Matt H. Cataway CN The Undertaker](https://archive.4plebs.org/tg/thread/90245965/#90252460)
 [Undertow](https://controlc.com/f4ba97b7)
+[Geyser](https://archive.4plebs.org/tg/thread/90309604/#90313361)
 
 >#####Wards
 [Jennifer King CN Blastrix](https://archive.4plebs.org/tg/thread/90231458/#90238520)
@@ -45,6 +46,7 @@ Rules
 [Morningstar](https://desuarchive.org/tg/thread/90259767/#90270536)
 ->NEMESIS [Katie Ingqvist / Fury](https://desuarchive.org/tg/thread/90272998/#q90276552)
 [Chimera](https://desuarchive.org/tg/thread/90371976/#90375144)
+[Mayuri Tomone CN Kyōrinrin](https://desuarchive.org/tg/thread/90371976/#q90382483)
 
 >#####Vigilantes
 [Kassandra Lettice CN Athena](https://archive.4plebs.org/tg/thread/90231458/#90241983)
@@ -72,7 +74,10 @@ Rules
 [Casual Combat (Triumph, Arsenal King)](https://rentry.org/ArsenalFight)
 [Courtesy Call (Chimera)](https://rentry.org/aq4v6)
 [Weight of Reality (Triumph, mentions of others)](https://rentry.org/WeightOfReality)
+[Southern Charm (Geyser)](https://rentry.org/d3a4r3)
 [Man Made Horrors (Mr. Theseus)](https://pastebin.com/ZtmkM8qx)
+[Fresh off the Plane (Kyōrinrin)](https://rentry.org/cyr77)
+
 
 [Undertaker Protectorate/Ward Relationship Chart](https://rentry.org/c6veb2)
 [Rayford's Relationship Chart](https://rentry.org/wv22y)

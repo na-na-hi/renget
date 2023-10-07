@@ -1,26 +1,26 @@
 # Local llama guide
 This guide will be strictly full GPU and Nvidia only as I have no experience dealing with AMD cards. This guide will show you:
 - How to run local models
-- How to host them for online public use for free
+- How to host them online for public use
 - Other resources (how to host on cloud GPU instances, how to infer concurrently)
 
 ***
 ###### 1. Download oobabooga
 It's a front-end and back-end for LLM inference with high popularity and support, but we'll only use the back-end, it will expose an API for your Tavern to call.
-https://github.com/oobabooga/one-click-installers/archive/refs/heads/main.zip
+https://github.com/oobabooga/text-generation-webui/archive/refs/heads/main.zip
 Extract main.zip.
 
 ###### 2. Run oobabooga
-a. First, go to the extracted one-click-installers folder and edit webui.py, find the line with CMD_FLAGS and modify it:
+a. First, go to the extracted folder and edit CMD_FLAGS.txt file as below:
 - For public use:
 ```
-CMD_FLAGS = '--listen --api --public-api --share'
+--listen --api --public-api --share
 # --public-api will give you free cloudflare proxy endpoints.
 # --share will create an oobabooga management UI public endpoint, use this if you're hosting on cloud instances.
 ```
 - For local-only use:
 ```
-CMD_FLAGS = '--listen --api'
+--listen --api
 ```
 b. Second, run start_windows.bat or start_linux.sh depending on your OS. If you get complaints about missing conda or some weird binaries, install them and add their 'bin' directory to your Environment Variables (on both Windows and Linux).
 
@@ -33,7 +33,7 @@ Params | 7B | 13B | 33B |34B| 70B
 ------ | ------ | ------ | ------ | ------ | ------
  **VRAM required** | 8GB for 8k context | 16GB for 8k context | 24GB for 3.4k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
 
-b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ suffix, they're meant to be run on full GPU with exllama.
+b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ or exl2 suffix, they're meant to be run on full GPU with exllama.
 - ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
 - (New) exl2 models can only be be loaded with exllamav2. These models have dynamic quants so you're no longer stuck with 4 bit GPTQ.
 - Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.

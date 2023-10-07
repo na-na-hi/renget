@@ -32,38 +32,27 @@ Enter roleplay mode. You must act as {{char}}, whose persona follows:
 
 ## agnai prompts
 
-system:
-```
-You are now in roleplay conversation mode. This is your character persona:
-```
-
 gaslight:
 ```
-<|system|>{{#if system_prompt}}{{system_prompt}}{{/if}}
+<|system|>Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
+Write {{char}}'s next reply in a fictional roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}}.
 
 {{char}}'s Persona: {{personality}}
 
-{{#if example_dialogue}}
-{{char}} talks like: {{example_dialogue}}
-{{/if}}
+This scenario of the conversation: {{scenario}}
 
-{{#if scenario}}
-This scenario of the conversation is: {{scenario}}
-{{/if}}
+This is how {{char}} should talk: {{example_dialogue}}
+
+Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} begins.
 
 {{#each msg}}{{#if .isbot}}<|model|>{{/if}}{{#if .isuser}}<|user|>{{/if}}{{.name}}: {{.msg}}
 {{/each}}
 {{#if ujb}}<|system|>{{ujb}}{{/if}}
-{{post}}<|model|>
+<|model|>{{post}}
 ```
 
-ujb:
-```
-Play the role of {{char}}. You must engage in a roleplaying chat with {{user}} below this line. Do not write dialogues and narration for {{user}}. {{char}} should respond with messages of medium length.
-```
-
-![agnai](https://feen.us/nwj8n9.png)
+![agnai](https://feen.us/qqvq0n.png)
 
 ## gen settings
 

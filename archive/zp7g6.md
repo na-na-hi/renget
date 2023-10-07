@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 4 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 5 2023*
 
 [TOC]
 
@@ -37,214 +37,216 @@ More info about the comparison table and preview images can be found in the **[A
 ### A
 [Abfurai](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PN8UnIZY) | [Abutomato](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SE9g3K6A)
 :------:|:------:
-![](https://i.imgur.com/KwwSR6q.jpg) | ![](https://i.imgur.com/47a7iWF.jpg)
+![](https://files.catbox.moe/w7olqe.jpg) | ![](https://files.catbox.moe/9a3ek6.jpg)
 [Allcharacters18](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DddAUZoS) | [Ataruman](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mIkl3IpD)
-![](https://i.imgur.com/Po6aPSO.jpg) | ![](https://i.imgur.com/zAuH7Cz.jpg)
+![](https://files.catbox.moe/cohhgv.jpg) | ![](https://files.catbox.moe/fp47k8.jpg)
 [Average-Hanzo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3U8UgKLb) | []()
-![](https://i.imgur.com/ilDHMN3.jpg) | ![]()
+![](https://files.catbox.moe/qmxoy8.jpg) | ![]()
 
 ### B
 [Babu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bI1nxJqR) | [BIGxixi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7c1zTQRY)
 :------:|:------:
-![](https://i.imgur.com/pfaB5IZ.jpg) | ![](https://i.imgur.com/fpDz4XW.jpg)
+![](https://files.catbox.moe/rhvoci.jpg) | ![](https://files.catbox.moe/86y10y.jpg)
 [Bluesechi (Thumbnails)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PRtmkDgZ) | [Bukurote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DctkWbbA)
-![](https://i.imgur.com/iTJ55hf.jpg) | ![](https://i.imgur.com/tskonrZ.jpg)
+![](https://files.catbox.moe/rb4vrl.jpg) | ![](https://files.catbox.moe/pt9374.jpg)
 
 ### C
 [Caramelldansen (Popotan Game Opening)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PJ8yTDrZ) | [Coro Fae](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CZ1yDSCS)
 :------:|:------:
-![](https://i.imgur.com/6xmoXgn.jpg) | ![](https://i.imgur.com/tnjgqsT.jpg)
+![](https://files.catbox.moe/ep1ae1.jpg) | ![](https://files.catbox.moe/snr3gr.jpg)
 
 ### D
 [Dagasi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mR83gKgJ) | [Daido](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jQ1A1QiL)
 :------:|:------:
-![](https://i.imgur.com/sUNB755.jpg) | ![](https://i.imgur.com/ma8LMHR.jpg)
+![](https://files.catbox.moe/dypa5e.jpg) | ![](https://files.catbox.moe/hnqw4m.jpg)
 [Donguri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SEsQkJjY) | [Dorontabi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6NUmVBwY)
-![](https://i.imgur.com/rx0fiNM.jpg) | ![](https://i.imgur.com/BJSrVOb.jpg)
+![](https://files.catbox.moe/ldydc5.jpg) | ![](https://files.catbox.moe/kj1cyc.jpg)
 [Dragonya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PZlmTTIJ) | [Dried Jellyfish (Full-h-hans)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GJMy0RbR)
-![](https://i.imgur.com/KIKo3sA.jpg) | ![](https://i.imgur.com/Be0wBkV.jpg)
+![](https://files.catbox.moe/nogzzz.jpg) | ![](https://files.catbox.moe/8splae.jpg)
 
 ### E
 [Egami](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mM1kUZIS) | [Esearu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TUkxRJhS)
 :------:|:------:
-![](https://i.imgur.com/NxyNz6B.jpg) | ![](https://i.imgur.com/TMeTmao.jpg)
+![](https://files.catbox.moe/wbbe6q.jpg) | ![](https://files.catbox.moe/2rjh2r.jpg)
 
 ### F
 [Fallenshadow](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GN8UAJaD) | [Fishine](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7U1H2ThZ)
 :------:|:------:
-![](https://i.imgur.com/AfuK3AV.jpg) | ![](https://i.imgur.com/4TUF8oW.jpg)
+![](https://files.catbox.moe/twd85d.jpg) | ![](https://files.catbox.moe/boeymq.jpg)
 [Fuyukawa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fV9yharB) | []()
-![](https://i.imgur.com/pELYyf2.jpg) | ![]()
+![](https://files.catbox.moe/o9z93u.jpg) | ![]()
 
 ### G
 [Gedoudan (Gedou Danshaku)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WBkGHAZY) | [Gemba](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMMylZyJ)
 :------:|:------:
-![](https://i.imgur.com/V8eCAGn.jpg) | ![](https://i.imgur.com/FGhSUul.jpg)
+![](https://files.catbox.moe/siyriw.jpg) | ![](https://files.catbox.moe/rngfcp.jpg)
 [Gin Mitsu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2c8T0LSD) | [Gishiki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DIkCwA7b)
-![](https://i.imgur.com/anxydTD.jpg) | ![](https://i.imgur.com/yyutJyS.jpg)
+![](https://files.catbox.moe/m3hge5.jpg) | ![](https://files.catbox.moe/niy2ho.jpg)
 [GreatM8](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HdliTRiL) | [GreatoDoggo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PE1RnTjI)
-![](https://i.imgur.com/OWZH8D5.jpg) | ![](https://i.imgur.com/HGDIwEF.jpg)
+![](https://files.catbox.moe/ib81r3.jpg) | ![](https://files.catbox.moe/ays9c5.jpg)
 [Guizhencao (Oniharigusa)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CRsSUSLb) | []()
-![](https://i.imgur.com/FE3Ef3D.jpg) | ![]()
+![](https://files.catbox.moe/4526vp.jpg) | ![]()
 
 ### H
 [Hamada](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fckilSYB) | [Henreader](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jAlhTKia)
 :------:|:------:
-![](https://i.imgur.com/iiqL0kJ.jpg) | ![](https://i.imgur.com/nJarptl.jpg)
+![](https://files.catbox.moe/4526vp.jpg) | ![](https://files.catbox.moe/d79bgz.jpg)
 [Henrybird](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/Oc1TSIhK) | [Highlow](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PdsnhBBY)
-![](https://i.imgur.com/tP351cC.jpg) | ![](https://i.imgur.com/1LJ5FOX.jpg)
+![](https://files.catbox.moe/7ra0rl.jpg) | ![](https://files.catbox.moe/k8j6qm.jpg)
 [Hiro Hiroki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2Zk1yT6B) | []()
-![](https://i.imgur.com/uiLXoxb.jpg) | ![]()
+![](https://files.catbox.moe/rwtq63.jpg) | ![]()
 
 ### I
 [Imamura Ryou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Jl0xQYT) | [Innerkey](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nEklWaSD)
 :------:|:------:
-![](https://i.imgur.com/MA8xhgR.jpg) | ![](https://i.imgur.com/CqXwhqa.jpg)
+![](https://files.catbox.moe/0cmxig.jpg) | ![](https://files.catbox.moe/lwb75y.jpg)
 
 ### J
 [Jcm2](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WYsCgRQT) | [Jima](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rRlgADQL)
 :------:|:------:
-![](https://i.imgur.com/yhwQ01C.jpg) | ![](https://i.imgur.com/yhWtaXf.jpg)
+![](https://files.catbox.moe/rtfaix.jpg) | ![](https://files.catbox.moe/abdt87.jpg)
 [JJ.JJ](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yUdSTZBY) | [John Zhang](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zQsBiTRL)
-![](https://i.imgur.com/U5Bb5xW.jpg)| ![](https://i.imgur.com/M0L86ik.jpg)
+![](https://files.catbox.moe/urh7tr.jpg)| ![](https://files.catbox.moe/n7kc4l.jpg)
 [Jyuiro (e10)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rFtAhRJb) | []()
-![](https://i.imgur.com/CVKmjqd.jpg) | ![]()
+![](https://files.catbox.moe/p3x4wk.jpg) | ![]()
 
 ### K
 [Kahlua](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TU0QyJyI) | [Kaipo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KJMCnToR)
 :------:|:------:
-![](https://i.imgur.com/zw9OQQW.jpg) | ![](https://i.imgur.com/P64wT4c.jpg)
+![](https://files.catbox.moe/cped1m.jpg) | ![](https://files.catbox.moe/xgkcbd.jpg)
 [Kanzaki Muyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2MlHhYgC) | [Kareya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkXELAZ)
-![](https://i.imgur.com/PO5y73B.jpg) | ![](https://i.imgur.com/CRQj9js.jpg)
-[Kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DQtRDYLS) | [Kokaki Mumose](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CQ03UChK)
-![](https://i.imgur.com/kYNwWS6.jpg) | ![](https://i.imgur.com/4ThWmO1.jpg)
-[Kokuto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OUl0kYJQ) | [Konpeto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vFMWSTxI)
-![](https://i.imgur.com/fhAvqnv.jpg) | ![](https://i.imgur.com/Y8TRqbW.jpg)
-[Koyori](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rQk3xJjY) | [Krill](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jclh3RYY)
-![](https://i.imgur.com/rxLIJbJ.jpg) | ![](https://i.imgur.com/Etsr77U.jpg)
-[Kuroboshi Kouhahu (Takeshi Iizuka)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Z0jWZYD) | [Kuroi Suna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eZkmyRBS)
-![](https://i.imgur.com/9dvYB8l.jpg) | ![](https://i.imgur.com/kRqm6sG.jpg)
+![](https://files.catbox.moe/jv8eia.jpg) | ![](https://files.catbox.moe/z2gc8w.jpg)
+[Kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DQtRDYLS) | [Kirimia](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mYFwlJAR)
+![](https://files.catbox.moe/811rae.jpg) | ![](https://files.catbox.moe/hzsino.jpg)
+[Kokaki Mumose](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CQ03UChK) | [Kokuto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OUl0kYJQ)
+![](https://files.catbox.moe/gutkir.jpg) | ![](https://files.catbox.moe/mfhayd.jpg)
+[Konpeto](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/vFMWSTxI) | [Koyori](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rQk3xJjY)
+![](https://files.catbox.moe/8fg1fa.jpg) | ![](https://files.catbox.moe/hhr3sv.jpg)
+[Krill](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jclh3RYY) | [Kuroboshi Kouhahu (Takeshi Iizuka)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Z0jWZYD)
+![](https://files.catbox.moe/bj5y6g.jpg) | ![](https://files.catbox.moe/zwkpni.jpg)
+[Kuroi Suna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eZkmyRBS) | []()
+![](https://files.catbox.moe/v24p0i.jpg) | []()
 
 ### L
 [Laserflip](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jAkzHSTb) | []()
 :------:|:------:
-![](https://i.imgur.com/lNJwSmE.jpg) | ![]()
+![](https://files.catbox.moe/s9pscs.jpg) | ![]()
 
 ### M
 [MaidForge](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GBlmTYoS) | [Maniacbox](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zU0mWTDI)
 :------:|:------:
-![](https://i.imgur.com/OsIp14Q.jpg) | ![](https://i.imgur.com/1TiH9kl.jpg)
+![](https://files.catbox.moe/f6ap1s.jpg) | ![](https://files.catbox.moe/0ie3yp.jpg)
 [Mannack](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2F8lCDIL) | [Masato Ishio](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zY8BjD7J)
-![](https://i.imgur.com/yOyslXS.jpg) | ![](https://i.imgur.com/HLKgwTW.jpg)
+![](https://files.catbox.moe/ko4wgq.jpg) | ![](https://files.catbox.moe/ua6fuy.jpg)
 [Matokechi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsjmZDR) | [Menthako](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsQFbIA)
-![](https://i.imgur.com/jjraNuK.jpg) | ![](https://i.imgur.com/XdSGOUl.jpg)
+![](https://files.catbox.moe/6yrlat.jpg) | ![](https://files.catbox.moe/6wjaqy.jpg)
 [Meyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6M8SRSSD) | [Mochikushi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bNsDGboI)
-![](https://i.imgur.com/eLnwVTs.jpg) | ![](https://i.imgur.com/4VSQkMY.jpg)
+![](https://files.catbox.moe/24xlmx.jpg) | ![](https://files.catbox.moe/wka0nx.jpg)
 [Moemaru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SRkwCBYK) | [Mukuton](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LV9VxZzA)
-![](https://i.imgur.com/5efkdmi.jpg) | ![](https://i.imgur.com/BvyiKDn.jpg)
+![](https://files.catbox.moe/38nfpa.jpg) | ![](https://files.catbox.moe/hi9y0k.jpg)
 [Musouduki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/qJsEhDRR) | []()
-![](https://i.imgur.com/X8D4CQx.jpg) | ![]()
+![](https://files.catbox.moe/stn0qy.jpg) | ![]()
 
 ### N
 [Naijiaer (NJER)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aNtCDIyJ) | [Najucaju](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zJsEiTZS)
 :------:|:------:
-![](https://i.imgur.com/jeJsNah.jpg) | ![](https://i.imgur.com/uXYlUa2.jpg)
+![](https://files.catbox.moe/cbd766.jpg) | ![](https://files.catbox.moe/hdek3g.jpg)
 [Namako (Takorin)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DAVmEBbR) | [Nanameyomi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1l1QwI)
-![](https://i.imgur.com/N7K35Qy.jpg) | ![](https://i.imgur.com/cnKswDT.jpg)
+![](https://files.catbox.moe/d05yym.jpg) | ![](https://files.catbox.moe/d05yym.jpg)
 [Nanja](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LQkwzbbI) | [Nezumin](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GUtnHBBL)
-![](https://i.imgur.com/DRKETfw.jpg) | ![](https://i.imgur.com/g6KC95Z.jpg)
+![](https://files.catbox.moe/9dp0hx.jpg) | ![](https://files.catbox.moe/ysc9e3.jpg)
 [Niko (Tama)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkCwJwQ) | [NLO (Nanashi)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bd0XmYZZ)
-![](https://i.imgur.com/LA2jaIL.jpg) | ![](https://i.imgur.com/DUlrXq9.jpg)
+![](https://files.catbox.moe/fix0ok.jpg) | ![](https://files.catbox.moe/fcyis0.jpg)
 
 ### O
 [ObserverZ (Cloaking19)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GEkUAbKS) | [Ogipote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LA0W0Rab)
 :------:|:------:
-![](https://i.imgur.com/8uQoiBK.jpg) | ![](https://i.imgur.com/KEsES6g.jpg)
+![](https://files.catbox.moe/2km72b.jpg) | ![](https://files.catbox.moe/2km72b.jpg)
 [Oke Yazawa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KI023SjZ) | [Onion](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XI90nBbZ)
-![](https://i.imgur.com/8fjy5LP.jpg) | ![](https://i.imgur.com/njLCQFR.jpg)
+![](https://files.catbox.moe/vmsd87.jpg) | ![](https://files.catbox.moe/yo10hf.jpg)
 [Opossumachine](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/iB1zTQAI) | [Orenjipiru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fItRkLLL)
-![](https://i.imgur.com/taBewmU.jpg) | ![](https://i.imgur.com/hjCUnd7.jpg)
+![](https://files.catbox.moe/wclluz.jpg) | ![](https://files.catbox.moe/62qxbu.jpg)
 
 ### P
 [Padoruu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zBUmXJ4T) | [Pedocchi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LI0lDZ4Q)
 :------:|:------:
-![](https://i.imgur.com/4LtqH2W.jpg) | ![](https://i.imgur.com/d8m77Xj.jpg)
+![](https://files.catbox.moe/qekd37.jpg) | ![](https://files.catbox.moe/8c78bp.jpg)
 [Poisonous Biscuit (Himeri)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PFlRkDAI) | [Popotan (Game CG)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMNSlLxQ)
-![](https://i.imgur.com/rpLuJxv.jpg) | ![](https://i.imgur.com/1rT1ZS4.jpg)
+![](https://files.catbox.moe/9odh4q.jpg) | ![](https://files.catbox.moe/qld2pr.jpg)
 [Puchiya (Hoshino Fuuta)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/uMsUwK6K) | []()
-![](https://i.imgur.com/jeyXTpL.jpg) | ![]()
+![](https://files.catbox.moe/sjcdiu.jpg) | ![]()
 
 ### R
 [Ririko](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DE11wLCb) | [Rouka](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fZFWyRrS)
 :------:|:------:
-![](https://i.imgur.com/jnO2VkF.jpg) | ![](https://i.imgur.com/63scFgz.jpg)
+![](https://files.catbox.moe/43vot6.jpg) | ![](https://files.catbox.moe/yjydrt.jpg)
 [Ryota](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yF8RhI4a) | []()
-![](https://i.imgur.com/DdldNqe.jpg) | ![]()
+![](https://files.catbox.moe/qsg54g.jpg) | ![]()
 
 ### S
 [S16xue](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jMUUyDRS) | [Sakamoto Ahiru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mBkBDLDY)
 :------:|:------:
-![](https://i.imgur.com/tmeVodR.jpg) | ![](https://i.imgur.com/WOBabGW.jpg)
+![](https://files.catbox.moe/arrn6f.jpg) | ![](https://files.catbox.moe/hudpfh.jpg)
 [Sakuya Tsuitachi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eAtkHB4T) | [Samuneko](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMtCXIZC)
-![](https://i.imgur.com/8aygNv4.jpg) | ![](https://i.imgur.com/dHTiqmd.jpg)
+![](https://files.catbox.moe/2t1n73.jpg) | ![](https://files.catbox.moe/x0y48w.jpg)
 [Sayori (Neko Works)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DUsBHAAa) | [Setmen](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zZ1ymRrQ)
-![](https://i.imgur.com/hrgmSNN.jpg) | ![](https://i.imgur.com/9iyhpwo.jpg)
+![](https://files.catbox.moe/of0810.jpg) | ![](https://files.catbox.moe/71odco.jpg)
 [Shacho (Nagatukiinn)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nF91TSiC) | [Shimejinameko](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rYtVGQbS) 
-![](https://i.imgur.com/16fU2ma.jpg) | ![](https://i.imgur.com/WqGfo7j.jpg)
+![](https://files.catbox.moe/j9kgnj.jpg) | ![](https://files.catbox.moe/cfh8yz.jpg)
 [Shokuyou Mogura](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rB1iEQhI) | [Sirfy](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WY9ywK7Q)
-![](https://i.imgur.com/6yc4u7q.jpg) | ![](https://i.imgur.com/Ubw7Ax5.jpg)
+![](https://files.catbox.moe/uy7vu6.jpg) | ![](https://files.catbox.moe/5menm2.jpg)
 [Spaga](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HMsQTSDC) | [Sy4](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bBkkBBzS)
-![](https://i.imgur.com/8LiEEpZ.jpg) | ![](https://i.imgur.com/VO5URgE.jpg)
+![](https://files.catbox.moe/52wjww.jpg) | ![](https://files.catbox.moe/l8qdfv.jpg)
 
 ### T
 [Tamanoi Peromekuri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WUt12DZR) | [Tamaya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bFllFYQK)
 :------:|:------:
-![](https://i.imgur.com/WUxATbm.jpg) | ![](https://i.imgur.com/12SU1I1.jpg)
+![](https://files.catbox.moe/pjouqp.jpg) | ![](https://files.catbox.moe/jvljtp.jpg)
 [Toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SZsxWTRK) | [Tousaki Shiina](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1mhQgZ)
-![](https://i.imgur.com/W4VPzbN.jpg) | ![](https://i.imgur.com/Zb4YyE9.jpg)
+![](https://files.catbox.moe/83r78q.jpg) | ![](https://files.catbox.moe/lvx0as.jpg)
 [Tsubasa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/uRUkgB4Y) | [Tsukushi Akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nJtE2bYb)
-![](https://i.imgur.com/pbdWiJb.jpg) | ![](https://i.imgur.com/TdqZj5G.jpg)
+![](https://files.catbox.moe/qavl9l.jpg) | ![](https://files.catbox.moe/0cepc5.jpg)
 
 ### U
 [Uminotaco](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KU8wFJDQ) | [Usitora Tatsumi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eddm2RgA)
 :------:|:------:
-![](https://i.imgur.com/gAxHy4F.jpg) | ![](https://i.imgur.com/WHLQGXZ.jpg)
+![](https://files.catbox.moe/moa15v.jpg) | ![](https://files.catbox.moe/clo7zl.jpg)
 
 ### V
 [Vachelor](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3Q9mmCKJ) | [Vachelor (Color)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rMs13BaD)
 :------:|:------:
-![](https://i.imgur.com/mvivBxe.jpg) | ![](https://i.imgur.com/T6jhOkX.jpg)
+![](https://files.catbox.moe/ltu4db.jpg) | ![](https://files.catbox.moe/djxugk.jpg)
 [Von Franken](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XM0VnLiQ) | []()
-![](https://i.imgur.com/fCzWe8V.jpg) | ![]()
+![](https://files.catbox.moe/djxugk.jpg) | ![]()
 
 ### W
 [Wangyq](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yQ0SyBLB) | [Watanon](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jF0XARCA)
 :------:|:------:
-![](https://i.imgur.com/b4LelOJ.jpg) | ![](https://i.imgur.com/iSOhtcg.jpg)
+![](https://files.catbox.moe/10ceq3.jpg) | ![](https://files.catbox.moe/ufwgd1.jpg)
 [Waterkuma](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rUkHjK6C) | [Waymay](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ucUC3DJI)
-![](https://i.imgur.com/jH0V99l.jpg) | ![](https://i.imgur.com/5LpcziB.jpg)
+![](https://files.catbox.moe/tw6c30.jpg) | ![](https://files.catbox.moe/m086wr.jpg)
 
 ### Y
 [Yosola PL](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ydFAQJLD) | [Yousan](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2QlkRDRQ)
 :------:|:------:
-![](https://i.imgur.com/5ogAIE4.jpg) | ![](https://i.imgur.com/gcJYgm4.jpg)
+![](https://files.catbox.moe/fyfbjo.jpg) | ![](https://files.catbox.moe/fyli4h.jpg)
 
 ### Z
 [z282g](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PM9GSSrS) | []()
 :------:|:------:
-![](https://i.imgur.com/KwBkUI9.jpg) | ![]()
+![](https://files.catbox.moe/yn4ns4.jpg) | ![]()
 
 ### \#
 [1=2 (oet)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/ac9gBBQA) | []()
 :------:|:------:
-![](https://i.imgur.com/UCLYin0.jpg) | ![]()
+![](https://files.catbox.moe/0ufqnl.jpg) | ![]()
 
 ## Multi (Style+Character) Loras
 
 ### A
 [Amashiro Natsuki (Nachoneko / Nekoha Shizuku - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zN8SHBKA) | Nachoneko | Nekoha Shizuku
 :------:|:------:|:------:
-![](https://i.imgur.com/5Yr836d.png) | ![](https://i.imgur.com/3tqCwyH.png) | ![](https://i.imgur.com/wrvjm2n.png)
+![](https://files.catbox.moe/v307cf.jpg) | ![](https://files.catbox.moe/8vkaki.jpg) | ![](https://files.catbox.moe/e9q2og.jpg)
 
 ```
 nachoneko, paw print, cat ears, cat tail, double-parted bangs, long hair, grey hair, blue eyes
@@ -256,47 +258,47 @@ nekoha shizuku, cat ears, cat tail, hair ornament, side ponytail, very long hair
 ### B
 [Boukoku Daitouryou (Sasaki Saku - Nijisanji)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WI1hyCCL) | Sasaki Saku
 :------:|:------:
-![](https://i.imgur.com/Tv7tGJf.png) | ![](https://i.imgur.com/ulLH6qc.png)
+![](https://files.catbox.moe/jpe075.jpg) | ![](https://files.catbox.moe/hmindb.jpg)
 
 ```
-sasaki saku, open jacket, white jacket, raglan sleeves, drawstring, dress shirt, pink shirt, bowtie, red bow, miniskirt, plaid skirt, green skirt, single earring, drop earrings, hairclip, hair ornament, ahoge, crossed bangs, single sidelock, hair behind ear, short hair, streaked hair, pink hair, red eyes
+sasaki saku, open jacket, raglan sleeves, drawstring, dress shirt, pink shirt, bowtie, red bow, miniskirt, plaid skirt, green skirt, single earring, drop earrings, hairclip, hair ornament, ahoge, crossed bangs, single sidelock, hair behind ear, short hair, streaked hair, pink hair, red eyes
 ```
 
 ### F
 
 [FIZ-ROT (Dagger / Zazie - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2AkkwDxA) | Dagger (†) | Zazie
 :------:|:------:|:------:
-![](https://i.imgur.com/1R3NnqW.png) | ![](https://i.imgur.com/6JRhiSq.png) | ![](https://i.imgur.com/dIhTqnM.png)
+![](https://files.catbox.moe/bs14ta.jpg) | ![](https://files.catbox.moe/gjr89z.jpg) | ![](https://files.catbox.moe/kgqjaj.jpg)
 
 ```
-dagger \(fizrotart\), fangs, cross hair ornament, swept bangs, twintails, short hair, black hair, red eyes
+dagger \(fizrotart\), loli, flat chest, fangs, spiked collar, cross hair ornament, swept bangs, short twintails, black hair, red eyes
 ```
 ```
-zazie, dark skin, egyptian, gold, tattoo, facial tattoo, hairclip, hair ornament, blunt bangs, short hair, black hair, yellow eyes
+zazie, loli, dark skin, egyptian, gold, tattoo, facial tattoo, hairclip, hair ornament, blunt bangs, short hair, black hair, yellow eyes
 ```
 
 ### G
 [Gulp (Imp - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fJsQGKxZ) | Imp
 :------:|:------:
-![](https://i.imgur.com/4tSmvKB.png) | ![](https://i.imgur.com/rcqD3Ef.png)
+![](https://files.catbox.moe/ctxg6h.jpg) | ![](https://files.catbox.moe/j2tiza.jpg)
 
 ```
-minigirl, demon girl, flat chest, demon wings, demon tail, oni horns, pointy ears, grey skin, sidelocks, twintails, black hair, brown eyes
+minigirl, flat chest, demon girl, demon wings, demon tail, oni horns, pointy ears, twintails, black hair, brown eyes, grey skin
 ```
 
 ### H
 [Hansharu (Happy Bunny - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rY1E1SLS) | Happy Bunny
 :------:|:------:
-![](https://i.imgur.com/ke6z0NU.png) | ![](https://i.imgur.com/W9KaBhx.png)
+![](https://files.catbox.moe/g99k8u.jpg) | ![](https://files.catbox.moe/anyrr6.jpg)
 
 ```
-happy bunny, loli, large hands, oversized forearms, claws, fewer digits, mask, bald, forehead mark, pink bodysuit, white leotard, elbow gloves, white gloves, white thighhighs, white footwear, red bowtie, heart cutout, rabbit ears, yellow eyes, no pupils
+happy bunny, loli, large hands, oversized forearms, fewer digits, claws, mask, bald, forehead mark, pink bodysuit, white leotard, heart cutout, elbow gloves, white gloves, white thighhighs, red bowtie, rabbit ears, yellow eyes, no pupils
 ```
 
 ### J
 [Jungle (Ponpoko - VTuber)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fVk0nJYJ) | Ponpoko
 :------:|:------:
-![](https://i.imgur.com/umYm7aF.png) | ![](https://i.imgur.com/HBT1ER1.png)
+![](https://files.catbox.moe/pn06w6.jpg) | ![](https://files.catbox.moe/kcj8l4.jpg)
 
 ```
 ponpoko \(vtuber\), :3, raccoon girl, raccoon ears, raccoon tail, animal nose, leaf on head, blunt bangs, short hair, grey hair, grey eyes
@@ -305,7 +307,7 @@ ponpoko \(vtuber\), :3, raccoon girl, raccoon ears, raccoon tail, animal nose, l
 ### K
 [Kanchiyo (Nagatoro Hayase - Ijiranaide, Nagatoro-san)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LJ0EzSAJ) | Nagatoro Hayase
 :------:|:------:
-![](https://i.imgur.com/Q5nyGF3.png) | ![](https://i.imgur.com/1PDO2yr.png)
+![](https://files.catbox.moe/xkkylj.jpg) | ![](https://files.catbox.moe/4nv6up.jpg)
 
 ```
 nagatoro hayase, fangs, dark skin, earclip, hairclip, asymmetrical bangs, long hair, black hair, brown eyes
@@ -313,7 +315,7 @@ nagatoro hayase, fangs, dark skin, earclip, hairclip, asymmetrical bangs, long h
 
 [Koahri (Ninomae Ina'nis - Hololive)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SI93iCgK) | Ninomae Ina'nis
 :------:|:------:
-![](https://i.imgur.com/Pbu8lXR.png) | ![](https://i.imgur.com/8zkhQk2.png)
+![](https://files.catbox.moe/crd8pm.jpg) | ![](https://files.catbox.moe/29x49q.jpg)
 
 ```
 ninomae ina'nis, petite, animal ears, tentacle hair, blunt bangs, very long hair, purple hair, purple eyes
@@ -322,7 +324,7 @@ ninomae ina'nis, petite, animal ears, tentacle hair, blunt bangs, very long hair
 ### L
 [Luicent (Elisia Valfelto - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LA0gza6a) | Elisia Valfelto
 :------:|:------:
-![](https://i.imgur.com/ITnxaor.png) | ![](https://i.imgur.com/AONo9Sa.png)
+![](https://files.catbox.moe/z9odck.jpg) | ![](https://files.catbox.moe/7mk8fl.jpg)
 
 ```
 elisia valfelto, hair intakes, long hair, brown hair, blue eyes
@@ -331,7 +333,7 @@ elisia valfelto, hair intakes, long hair, brown hair, blue eyes
 ### M
 [Mery (Chitanda / Oreki - Hyouka)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mRMwSZhR) | Chitanda | Oreki
 :------:|:------:|:------:
-![](https://i.imgur.com/XdAv4es.png) | ![](https://i.imgur.com/4goHr20.png) | ![](https://i.imgur.com/qp6Bmjv.png)
+![](https://files.catbox.moe/muqgv1.jpg) | ![](https://files.catbox.moe/fkp2st.jpg) | ![](https://files.catbox.moe/yewqh8.jpg)
 
 ```
 1girl, solo, chitanda eru, long hair, black hair, purple eyes
@@ -342,7 +344,7 @@ elisia valfelto, hair intakes, long hair, brown hair, blue eyes
 
 [Moritan (Homura / Madoka - Madoka Magica)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KQknkDAI) | Homura | Madoka
 :------:|:------:|:------:
-![](https://i.imgur.com/vcfc9nA.png) | ![](https://i.imgur.com/d47lF3u.png) | ![](https://i.imgur.com/LtiWvGf.png)
+![](https://files.catbox.moe/zgb5aj.jpg) | ![](https://files.catbox.moe/5lbu4p.jpg) | ![](https://files.catbox.moe/hipzgj.jpg)
 
 ```
 akemi homura, hairband, long hair, black hair, purple eyes, looking at viewer
@@ -354,7 +356,7 @@ kaname madoka, hair ribbon, short hair, short twintails, pink hair, pink eyes, l
 ### O
 [Orukaniumu (Tsukuyomi Ai – Voiceroid)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GRkhwIRZ) | Tsukuyomi Ai
 :------:|:------:
-![](https://i.imgur.com/MUNsEGO.png) | ![](https://i.imgur.com/idBLZS0.png)
+![](https://files.catbox.moe/3yqumg.jpg) | ![](https://files.catbox.moe/9uem55.jpg)
 
 ```
 tsukuyomi ai, loli, blush, sharp teeth, collared dress, pink dress, heart brooch, detached sleeves, sleeves past fingers, bare shoulders, hair bobbles, low twintails, hair between eyes, long hair, brown hair, purple eyes
@@ -363,7 +365,7 @@ tsukuyomi ai, loli, blush, sharp teeth, collared dress, pink dress, heart brooch
 ### P
 [Porforever (Digitan - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TZtTFDyI) | Digitan
 :------:|:------:
-![](https://i.imgur.com/YNPTd6T.png) | ![](https://i.imgur.com/56Rk2aO.png)
+![](https://files.catbox.moe/cuguzr.jpg) | ![](https://files.catbox.moe/vr8cbd.jpg)
 
 ```
 digitan \(porforever\), loli, fang, wristwatch, dress shirt, collared shirt, pink shirt, bare shoulders, open clothes, off-shoulder, short sleeves, partially unzipped, blue jacket, drawstring, striped socks, shoes, power symbol, electric plug, tail, headphones, lightning bolt symbol, hair between eyes, sidelocks, long hair, white hair, star-shaped pupils, aqua eyes, aqua nails
@@ -372,7 +374,7 @@ digitan \(porforever\), loli, fang, wristwatch, dress shirt, collared shirt, pin
 ### S
 [Seicoh (Usada Pekora - Hololive)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3F03hbwD) | Usada Pekora
 :------:|:------:
-![](https://i.imgur.com/VrvhDA3.png) | ![](https://i.imgur.com/eGDgku6.png)
+![](https://files.catbox.moe/kr1e4n.jpg) | ![](https://files.catbox.moe/e416qe.jpg)
 
 ```
 usada pekora, one-piece swimsuit, rabbit ears, hair bow, carrot hair ornament, twin braids, twintails, long hair, two-tone hair, blue hair, thick eyebrows, multicolored eyes, yellow eyes, bunny-shaped pupils
@@ -380,7 +382,7 @@ usada pekora, one-piece swimsuit, rabbit ears, hair bow, carrot hair ornament, t
 
 [Shark'd (Gawr Gura - Hololive)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zY1QSAzQ) | Gawr Gura
 :------:|:------:
-![](https://i.imgur.com/ESAs9eS.png) | ![](https://i.imgur.com/KGqaGJy.png)
+![](https://files.catbox.moe/vvpdxy.jpg) | ![](https://files.catbox.moe/sto72w.jpg)
 
 ```
 gawr gura, shark tail, blue hoodie, shark hood, hood down, bike shorts, shark hair ornament, sharp teeth, two side up, short hair, streaked hair, white hair, blue eyes
@@ -388,7 +390,7 @@ gawr gura, shark tail, blue hoodie, shark hood, hood down, bike shorts, shark ha
 
 [Shennai Misha (Mochizuki Anna - THE iDOLM@ASTER)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XNsUmDCQ) | Mochizuki Anna
 :------:|:------:
-![](https://i.imgur.com/ljK0Wrv.png) | ![](https://i.imgur.com/3Tn0wBY.png)
+![](https://files.catbox.moe/nwm9ii.jpg) | ![](https://files.catbox.moe/6b7wfe.jpg)
 
 ```
 mochizuki anna, loli, school uniform, ahoge, hair between eyes, long hair, purple hair, green eyes
@@ -396,16 +398,16 @@ mochizuki anna, loli, school uniform, ahoge, hair between eyes, long hair, purpl
 
 [So-taro (Eiko Carol - Final Fantasy)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/OR12jSyS) | Eiko Carol
 :------:|:------:
-![](https://i.imgur.com/ObFAk34.png) | ![](https://i.imgur.com/kiGOUJr.png)
+![](https://files.catbox.moe/36xjuo.jpg) | ![](https://files.catbox.moe/l4zq6g.jpg)
 
 ```
-eiko carol, loli, red sweater, high collar, puffy long sleeves, red gloves, pink bodysuit, yellow overalls, breastplate, belt, leg belt, hair bow, yellow bow, mini wings, single horn, short hair, purple hair, green eyes
+eiko carol, loli, red sweater, high collar, puffy long sleeves, red gloves, yellow overalls, breastplate, belt, leg belt, hair bow, yellow bow, mini wings, single horn, short hair, purple hair, green eyes
 ```
 
 ### T
 [Trente (Brown Succubus-chan - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nNkgjBwK) | Brown Succubus-chan
 :------:|:------:
-![](https://i.imgur.com/MR9xz6S.png) | ![](https://i.imgur.com/EUIzm4i.png)
+![](https://files.catbox.moe/wxkqw7.jpg) | ![](https://files.catbox.moe/yrx5v3.jpg)
 
 ```
 brown succubus-chan \(trente\), loli, open mouth, smile, fang, blush, dark skin, maid bikini, frilled bikini, detached collar, maid headdress, highleg bikini, demon wings, demon tail, head wings, ear piercing, pointy ears, twintails, black hair, yellow eyes
@@ -414,7 +416,7 @@ brown succubus-chan \(trente\), loli, open mouth, smile, fang, blush, dark skin,
 ### U
 [Utsusumi Kio (Makaino Ririmu – Nijisanji)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HJdEQLIL) | Makaino Ririmu
 :------:|:------:
-![](https://i.imgur.com/HAI59hS.png) | ![](https://i.imgur.com/kZybbAx.png)
+![](https://files.catbox.moe/v1wihd.jpg) | ![](https://files.catbox.moe/4s5601.jpg)
 
 ```
 makaino ririmu, loli, eyepatch, pink jacket, sailor collar, red neckerchief, white shirt, open jacket, off shoulder, sleeves past wrists, pleated skirt, blue skirt, blue belt, red collar, handbag, red bag, leg tattoo, hair ribbon, black ribbon, two side up, long hair, streaked hair, grey hair, red eyes, pointy ears
@@ -424,7 +426,7 @@ makaino ririmu, loli, eyepatch, pink jacket, sailor collar, red neckerchief, whi
 
 [Yumegwagwagwa (Sweets Girl - OC)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bF93yJLA) | Sweets Girl
 :------:|:------:
-![](https://i.imgur.com/Zb8GgGc.png) | ![](https://i.imgur.com/img42pP.png)
+![](https://files.catbox.moe/fpbtya.jpg) | ![](https://files.catbox.moe/gsn7rz.jpg)
 
 ```
 sweets girl, emaciated, lolita fashion, lolita hairband, white dress, collar, detached sleeves, white gloves, white thighhighs, hime cut, very long hair, black hair, purple eyes
@@ -433,7 +435,7 @@ sweets girl, emaciated, lolita fashion, lolita hairband, white dress, collar, de
 ### Z
 [Zirba (Illya / Chloe - Fate)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yY8QlbAT) | Illya | Chloe
 :------:|:------:|:------:
-![](https://i.imgur.com/qU5lNBP.png) | ![](https://i.imgur.com/Fjxxton.png) | ![](https://i.imgur.com/N18T05g.png)
+![](https://files.catbox.moe/5oxc9x.jpg) | ![](https://files.catbox.moe/g3l10n.jpg) | ![](https://files.catbox.moe/39yeja.jpg)
 
 ```
 illyasviel von einzbern, hair between eyes, sidelocks, parted bangs, long hair, blonde hair, red eyes

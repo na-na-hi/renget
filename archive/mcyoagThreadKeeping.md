@@ -553,6 +553,8 @@ Kurumi Yamagumo, "Prideful Puppeteer" >>90359191
 Amami Kai, "The Tide" >>90371161 
 Mutsuo Aburame "Bug Guy" >>90410708
 Goro Tsuchigumo "Suspiciously Canon" >>90455016
+Hangetsu Hozuki >>90464288
+
 >B-Rank:
 Ray Sisuto, "Bloodline Actor" >>90434647
 >C-Rank:
@@ -603,6 +605,222 @@ https://rentry.org/KuruminChart
 >Ikari
 https://rentry.org/cmh95
 
+```
+
+#Accidental Magical Girl
+***
+Page 1
+***
+```
+>What even is this?
+AMGC the MP is set in a world where cute, fluffy things called Puchuus recruit random people into becoming magical girls. The default setting is a mix of Madoka and any standard fare magical girl franchise, where magical girls are the hopeful protectors of their mortal realm, but can die, or can become corrupted into a dark magical girl or a monster girl.
+>Anything else I need to know
+In the setting, there's this hub world called the Overcity where magic people and monsters roam freely. Some builds only reside here, so if you want to play as some sort of wizard, that's an option.
+Most of the characters who live in the mortal realm reside in Japan.
+
+"Rules"
+>Play as is
+>You can choose either point buy or rolling 12d20
+>That's it
+This is AMGC which is slightly different from the original AMGCYOA. You can port your characters pretty easily to this version.
+
+Build List:
+>AMGCYOA Builds
+Emery Shaw
+>>90108850
+Misao Furijo
+>>90125163
+>>90168244 (Misao's Puchuu.)
+
+>AMGC Builds
+>Overcity Natives
+Jesterbelle
+>>90137242
+Solomon Talbot
+>>90154169
+
+>Elemental Princesses
+Arika Tsukishiro
+>>90138764
+Chie Mitarai
+>>90139598
+Fumie Fujii
+>>90357975
+
+>Glass Warriors
+Haruki Tsukuda
+>>90148156
+
+>Paladins of Charlemagne
+Orlanda Charleson
+Olivia Devienne
+Astolpha Martel
+>>90341450
+https://pastebin.com/X7Cua7Nd
+
+>Independent
+Magdelene
+>>90147959
+Ester Marian
+>>90148022
+
+Writefags:
+>Lesson 1: Diligence(Misao)
+https://rentry.org/dm26u
+>Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
+https://pastebin.com/4CFMctzq
+
+Artfags:
+>Misao (In and out of costume)
+>>90381007
+
+```
+
+#Worm (Second Reboot)
+
+***
+Page 1
+***
+```
+>Golden Age Scenario
+>No Drop-In. You are part of this world.
+>The Endbringers haven't appeared yet, so Endbringer target can not be chosen as a drawback
+>The Slaughterhouse 9 do not exist in this AU, however the relevant drawback can still be chosen. It simply attracts the attention of the most deadly villain group in the AU instead.
+>No Gifts
+>No 25 pt powers. However, 20 pt powers via the Conspirator path are allowed.
+>No Second Trigger Unlimited Shard Works
+>Characters with Worst Day Ever x 3 + Humble Beginnings do not survive the first day
+>Characters with Worst Day Ever x 2 + Humble Beginnings can survive the first day if they take a superpowered Follower or Budding Shard.
+https://rentry.org/worm3mp (pw: wormintime)
+```
+
+***
+Page 2
+***
+```
+>Protectorate
+John Cox/The Rooster
+>>90240420
+Bethany Zellenin/Nemian
+>>90243978
+Nikkita Arete/Triumph
+>>90242425
+Matt H. Hathaway/The Undertaker
+>>90314355
+Undertow
+>>90248493
+Geyser
+>>90313361
+
+>Wards
+Jennifer King/Blastrix
+>>90238520
+Jed Steele(Follower)
+>>90240442
+
+>Independent Heroes
+Victor Myers/Uroboros
+>>90252341
+Carla Jackson/Pyrrha (Follower)
+>>90252349
+
+>Dread Conglomerate
+The Big Cheese
+>>90248037
+Charles Carter/Dr Hurtsteal
+>>90239286
+Troublemaker
+>>90244076
+Ashley Blaketon/Maw
+>>90241797
+>Pestilence
+>>90341025
+>Mayuri Tomoe/Kyōrinrin
+>>90382483
+
+>Independent villains
+Freya Ward/Hindsight
+>>90238643
+Murder Bee
+>>90240072
+Koreans
+>>90263918
+Morningstar
+>>90270536
+Chimera
+>>90375144
+
+>Vigilantes
+Alexi Liddel
+>>90245795
+Kassandra Lettice
+>>90241983
+Alby McCullough/Villainconvenience
+>>90242918
+Alexis Miller/Shinobi
+>>90248604
+Caspian Cook/Roachbait
+>>90248639
+Alexi Liddel/Vorpal
+>>90252572
+Rance Rayford/Hyper Storm
+>>90250847
+Martin Gigant/Arsenal King
+>>90323062
+Katie Ingqvist/Fury
+>>90276552
+Oliver Rodriguez
+>>90402785
+
+>Rogues
+The Homemaker
+>>90239727
+>Mr Theseus
+>>90464266
+
+>Writefags
+Just Get Therapy Bro(Alexi)
+https://rentry.org/zxbcw
+The Bee’s Knees (Murder Bee, Villainconvenience)
+https://rentry.org/tq2tg
+Girls Just Want To Have Fun (Assorted Koreans)
+https://rentry.org/x266p
+Dinner With The Family
+https://rentry.org/DInnerWithTheFamily
+Sépulture Inachevée (Undertaker)
+https://rentry.org/r4i3t
+Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
+https://rentry.org/RoosterTeambuilding
+Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
+https://rentry.org/5ivhd
+Applying for membership in the Dread Conglomerate (Pestilence)
+https://rentry.org/4v5uin
+Material Girl
+https://rentry.org/bttmt 
+Arsenal Fight
+https://rentry.org/ArsenalFight
+```
+***
+Page 3
+***
+```
+Writefags (Cont.)
+Courtesy Call (Chimera)
+https://rentry.org/aq4v6
+Weight of Reality (Triumph, mentions of others)
+https://rentry.org/WeightOfReality 
+Southern Charm
+https://rentry.org/d3a4r3
+Man Made Horrors
+https://pastebin.com/ZtmkM8qx
+
+>Relationship Charts
+Undertaker Protectorate/Ward Relationship Chart
+https://rentry.org/c6veb2
+Rayford's Relationship chart
+https://rentry.org/wv22y
+Alexi's Relationship chart
+https://rentry.org/xeuet
 ```
 
 #Heroes of the Wastes (HOTW)
@@ -851,218 +1069,6 @@ https://img.4plebs.org/boards/tg/image/1688/29/1688293964374122.png
 https://img.4plebs.org/boards/tg/image/1688/39/1688397106716031.jpg
 >Isha's war cry
 https://img.4plebs.org/boards/tg/image/1688/51/1688512917935172.png
-```
-
-#Accidental Magical Girl
-***
-Page 1
-***
-```
->What even is this?
-AMGC the MP is set in a world where cute, fluffy things called Puchuus recruit random people into becoming magical girls. The default setting is a mix of Madoka and any standard fare magical girl franchise, where magical girls are the hopeful protectors of their mortal realm, but can die, or can become corrupted into a dark magical girl or a monster girl.
->Anything else I need to know
-In the setting, there's this hub world called the Overcity where magic people and monsters roam freely. Some builds only reside here, so if you want to play as some sort of wizard, that's an option.
-Most of the characters who live in the mortal realm reside in Japan.
-
-"Rules"
->Play as is
->You can choose either point buy or rolling 12d20
->That's it
-This is AMGC which is slightly different from the original AMGCYOA. You can port your characters pretty easily to this version.
-
-Build List:
->AMGCYOA Builds
-Emery Shaw
->>90108850
-Misao Furijo
->>90125163
->>90168244 (Misao's Puchuu.)
-
->AMGC Builds
->Overcity Natives
-Jesterbelle
->>90137242
-Solomon Talbot
->>90154169
-
->Elemental Princesses
-Arika Tsukishiro
->>90138764
-Chie Mitarai
->>90139598
-Fumie Fujii
->>90357975
-
->Glass Warriors
-Haruki Tsukuda
->>90148156
-
->Paladins of Charlemagne
-Orlanda Charleson
-Olivia Devienne
-Astolpha Martel
->>90341450
-https://pastebin.com/X7Cua7Nd
-
->Independent
-Magdelene
->>90147959
-Ester Marian
->>90148022
-
-Writefags:
->Lesson 1: Diligence(Misao)
-https://rentry.org/dm26u
->Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
-https://pastebin.com/4CFMctzq
-
-Artfags:
->Misao (In and out of costume)
->>90381007
-
-```
-
-#Worm (Second Reboot)
-
-***
-Page 1
-***
-```
->Golden Age Scenario
->No Drop-In. You are part of this world.
->The Endbringers haven't appeared yet, so Endbringer target can not be chosen as a drawback
->The Slaughterhouse 9 do not exist in this AU, however the relevant drawback can still be chosen. It simply attracts the attention of the most deadly villain group in the AU instead.
->No Gifts
->No 25 pt powers. However, 20 pt powers via the Conspirator path are allowed.
->No Second Trigger Unlimited Shard Works
->Characters with Worst Day Ever x 3 + Humble Beginnings do not survive the first day
->Characters with Worst Day Ever x 2 + Humble Beginnings can survive the first day if they take a superpowered Follower or Budding Shard.
-https://rentry.org/worm3mp (pw: wormintime)
-```
-
-***
-Page 2
-***
-```
->Protectorate
-John Cox/The Rooster
->>90240420
-Bethany Zellenin/Nemian
->>90243978
-Nikkita Arete/Triumph
->>90242425
-Matt H. Hathaway/The Undertaker
->>90314355
-Undertow
->>90248493
-Geyser
->>90313361
-
->Wards
-Jennifer King/Blastrix
->>90238520
-Jed Steele(Follower)
->>90240442
-
->Independent Heroes
-Victor Myers/Uroboros
->>90252341
-Carla Jackson/Pyrrha (Follower)
->>90252349
-
->Dread Conglomerate
-The Big Cheese
->>90248037
-Charles Carter/Dr Hurtsteal
->>90239286
-Troublemaker
->>90244076
-Ashley Blaketon/Maw
->>90241797
->Pestilence
->>90341025
-
->Independent villains
-Freya Ward/Hindsight
->>90238643
-Murder Bee
->>90240072
-Koreans
->>90263918
-Morningstar
->>90270536
-Chimera
->>90375144
-
->Vigilantes
-Alexi Liddel
->>90245795
-Kassandra Lettice
->>90241983
-Alby McCullough/Villainconvenience
->>90242918
-Alexis Miller/Shinobi
->>90248604
-Caspian Cook/Roachbait
->>90248639
-Alexi Liddel/Vorpal
->>90252572
-Rance Rayford/Hyper Storm
->>90250847
-Martin Gigant/Arsenal King
->>90323062
-Katie Ingqvist/Fury
->>90276552
-Oliver Rodriguez
->>90402785
-
->Rogues
-The Homemaker
->>90239727
->Mr Theseus
->>90464266
-
->Writefags
-Just Get Therapy Bro(Alexi)
-https://rentry.org/zxbcw
-The Bee’s Knees (Murder Bee, Villainconvenience)
-https://rentry.org/tq2tg
-Girls Just Want To Have Fun (Assorted Koreans)
-https://rentry.org/x266p
-Dinner With The Family
-https://rentry.org/DInnerWithTheFamily
-Sépulture Inachevée (Undertaker)
-https://rentry.org/r4i3t
-Rooster's Teambuilding (The Rooster, Triumph, Undertow, Murder Bee, Undertaker)
-https://rentry.org/RoosterTeambuilding
-Homecoming (Vorpal, Triumph, Uroboros, Pyrrha and Hyperstorm)
-https://rentry.org/5ivhd
-Applying for membership in the Dread Conglomerate (Pestilence)
-https://rentry.org/4v5uin
-Material Girl
-https://rentry.org/bttmt 
-Arsenal Fight
-https://rentry.org/ArsenalFight
-Courtesy Call (Chimera)
-https://rentry.org/aq4v6
-```
-***
-Page 3
-***
-```
-Writefags (Cont.)
-Weight of Reality (Triumph, mentions of others)
-https://rentry.org/WeightOfReality 
-Southern Charm
-https://rentry.org/d3a4r3
-
->Relationship Charts
-Undertaker Protectorate/Ward Relationship Chart
-https://rentry.org/c6veb2
-Rayford's Relationship chart
-https://rentry.org/wv22y
-Alexi's Relationship chart
-https://rentry.org/xeuet
 ```
 
 #JRPG (Reboot)

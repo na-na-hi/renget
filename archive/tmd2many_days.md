@@ -1,6 +1,6 @@
 # TMD 2 - Ever-Distant Odyssey Timeline
 ->A table organizing the entire story's lore as it progresses over time. This is mostly for housekeeping purposes, as most of the worldly lore will be contained on the actual lore page. This may still contain summaries, however.<-
-->*The TMD1 summary can be found [here](https://rentry.co/TMD_LHG-megasummary).*<-
+->*The TMD1 (terminally unfinished) summary can be found [here](https://rentry.co/TMD_LHG-megasummary).*<-
 
 ->![Through time and back...](https://cdn.imgchest.com/files/b49zcm9nlgy.png)<-
 ->**[BACK TO RULESET](https://rentry.co/tmd2many_rules)**<-
@@ -14,7 +14,7 @@
 Thread Number | Short Description
 ------ | ------
 /qst/ Thread #0: [No Stranger to Disaster](https://suptg.thisisnotatrueending.com/qstarchive/2023/5743269/) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
-/qst/ Thread #1: [Abrupt Awakenings](https://boards.4channel.org/qst/thread/5755695) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
+/qst/ Thread #1: [Abrupt Awakenings](https://suptg.thisisnotatrueending.com/qstarchive/2023/5755695/) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
 
 ## Timeline
 Date of Event | Time Elapsed | Quest or Event | Short Description

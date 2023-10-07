@@ -747,7 +747,10 @@ Ninjas in Space (Maru): https://rentry.org/m54to5
 Each Conclusion Will Decide The Lonely Heart (Mahoudeva, Blackout, Majestic, Forget-Me-Not): https://rentry.org/w77aw
 Amateur In His First Psychic War (Mahoudeva, Forget-Me-Not, Blackout, Mirror Devil, Ryu-kishi, Marumaru, Challenger, Sunlight Man, Archangel, Rosethorn, Recoil, Drone, Arena, Radius, Spark): https://rentry.org/vqo97t
 You Sure Love To Ball (Class 1-D, Rosethorn, Ippon, Forget-Me-Not): https://rentry.org/o82q7
+MHA Isekai 1.0 (Class 1-D): https://controlc.com/2ae4b32a
+Popsy Anon gets Isekai'd (Popsy): https://rentry.org/kvv7e
 A Soft Touch (Mirror Devil, Last Rite, Ryu-kishi, Mahoudeva, Capture Cloth): https://rentry.org/4d2gw
+MHA Isekai 2.0 (Class 1-D): https://controlc.com/6a33317a
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm
 Manly Ramen Enjoyers Unite! (Challenger, Sunlight Man, Ryu-kishi, Reaper): https://rentry.org/x3ovn
 A Dragon's Fairy Tale (Ryu-kishi, Mirror Devil, The 5, Class 1-D): https://rentry.org/32stx
@@ -853,11 +856,13 @@ Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222
 Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): https://rentry.org/k2f3c
 The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva) - https://rentry.org/t97vwn
 Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu): https://rentry.org/rkhpv
-Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil): https://rentry.org/ewwu9
+Mirror's Drone ( Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil): https://rentry.org/ewwu9
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://rentry.org/b2mhn
-Sunlight Man vs. Umbra (Sunlight Man, Umbra, Challenger, Flying Force): https://rentry.org/xxk2h
-Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Christopher, Challenger, Ryu-kishi, Drone, Reaper): https://rentry.org/e7cszt
+Sunlight Man vs. Umbra (Sunlight Man, Challenger, Flying Force, Spark): https://rentry.org/xxk2h
+Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper): https://rentry.org/e7cszt
 Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry.org/2bovid
+MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Challenger, Mirror Devil, Marrow): https://rentry.org/mib4v
+Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

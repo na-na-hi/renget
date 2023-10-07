@@ -1,19 +1,20 @@
 ## /kkg/ Thread Archive
-[Last Updated: 05.10.2023 04:00 UTC]
+[Last Updated: 07.10.2023 04:45 UTC]
 
-Current thread - [boards.4chan.org/h/thread/7600921/](https://boards.4chan.org/h/thread/7600921/)
+Current thread - [boards.4chan.org/h/thread/7604135/](https://boards.4chan.org/h/thread/7604135/)
 
 Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
+- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
 - 639&nbsp;&nbsp;[archiveofsins.com/h/thread/7600921/](https://archiveofsins.com/h/thread/7600921/)&nbsp;&nbsp;&nbsp;&nbsp;(03.10.2023 14:07)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;This time with a subject field edition
-- 638&nbsp;&nbsp;[archiveofsins.com/h/thread/7596393/](https://archiveofsins.com/h/thread/7596393/)&nbsp;&nbsp;&nbsp;&nbsp;(30.09.2023 03:21)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;The High Road edition
+- 638&nbsp;&nbsp;[archiveofsins.com/h/thread/7596393/](https://archiveofsins.com/h/thread/7596393/)&nbsp;&nbsp;&nbsp;&nbsp;(30.09.2023 03:21)&nbsp;&nbsp;[982]&nbsp;#&nbsp;The High Road edition
 - 637&nbsp;&nbsp;[archiveofsins.com/h/thread/7593461/](https://archiveofsins.com/h/thread/7593461/)&nbsp;&nbsp;&nbsp;&nbsp;(28.09.2023 03:13)&nbsp;&nbsp;[924]&nbsp;#&nbsp;No Edition
 - 636&nbsp;&nbsp;[archiveofsins.com/h/thread/7588952/](https://archiveofsins.com/h/thread/7588952/)&nbsp;&nbsp;&nbsp;&nbsp;(24.09.2023 21:39)&nbsp;&nbsp;[1026]&nbsp;#&nbsp;You didn´t heed the warning Edition
-- 635&nbsp;&nbsp;[archiveofsins.com/h/thread/7585285/](https://archiveofsins.com/h/thread/7585285/)&nbsp;&nbsp;&nbsp;&nbsp;(22.09.2023 03:37)&nbsp;&nbsp;[1014]&nbsp;#&nbsp;Consequences of Posting Cringe Edition
 ---
 Archive:
 
+- 635&nbsp;&nbsp;[archiveofsins.com/h/thread/7585285/](https://archiveofsins.com/h/thread/7585285/)&nbsp;&nbsp;&nbsp;&nbsp;(22.09.2023 03:37)&nbsp;&nbsp;[1014]&nbsp;#&nbsp;Consequences of Posting Cringe Edition
 - 634&nbsp;&nbsp;[archiveofsins.com/h/thread/7581765/](https://archiveofsins.com/h/thread/7581765/)&nbsp;&nbsp;&nbsp;&nbsp;(19.09.2023 12:36)&nbsp;&nbsp;[1064]&nbsp;#&nbsp;The Bulbheads Edition!
 - 633&nbsp;&nbsp;[archiveofsins.com/h/thread/7576794/](https://archiveofsins.com/h/thread/7576794/)&nbsp;&nbsp;&nbsp;&nbsp;(16.09.2023 00:42)&nbsp;&nbsp;[1114]&nbsp;#&nbsp;Now In 3D! Edition
 - 632&nbsp;&nbsp;[archiveofsins.com/h/thread/7572124/](https://archiveofsins.com/h/thread/7572124/)&nbsp;&nbsp;&nbsp;&nbsp;(12.09.2023 23:21)&nbsp;&nbsp;[1196]&nbsp;#&nbsp;Duc Edition

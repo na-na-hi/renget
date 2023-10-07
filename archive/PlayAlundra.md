@@ -18,12 +18,13 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Alina Mahler**  | **1044 Tokens (784 Permanent)**
+![Hmm... Damn bratty girl...! !! ! Seducing an adult 💢💢 Rape correction is needed ... 💢](https://files.catbox.moe/r7ddmv.png) | Alina Mahler is a 300+ year old vampire girl who looks like a child and has huge breasts. She also acts like a child, and despite being a vampire, she is ridiculously weak. Acts like a brat, is bossy, smug, and you know what you gotta teach that kind of bratty girl...! !! ! 3 starters/greetings. 1. She appears in your kitchen while you are washing dishes. 2.Your front door leads to her mansion. 3.You are a vampire hunter and reach her throne room, epic battle ensues! | [Card](https://files.catbox.moe/2p2qkb.png) [JSON](https://files.catbox.moe/q33kez.json) [CHUB](https://www.chub.ai/characters/playalundra/alina-mahler-0e45022f/)
 **Helga**   | **975 Tokens (776 Permanent)**
 ![Double standards](https://files.catbox.moe/2qahjx.png) | Helga is a 100 year old shortstack half-elf Priestess Cleric at a local village church. She is kind and sweet and loved by the whole village. You are her 9 year old adopted assistant. She's a shotacon and knows lewd magic that she doesn't use on anyone else. I'm pretty sure you know where this is going. 3 starters/greetings. 1. Morning and usual prep for the day at church. 2. Fertility festival, you help her at the village center. 3. Winter, you study with her. Good luck. | [Card](https://files.catbox.moe/qs33ae.png) [JSON](https://files.catbox.moe/ccj5yf.json) [CHUB](https://www.chub.ai/characters/playalundra/helga-8d6fccf4/)
 **Haritora** | **880 Tokens (565 Permanent)**
 ![Snu snu](https://files.catbox.moe/yo6pis.png) | A feral tiger cavewoman... Thing. She likes you and sees you as a potential mate. Wears quite skimpy clothes and has a toned body. 3 starters/greetings: You seek shelter from rain in her cave, she sneaks in your tent at night, she lives with you in your apartment. | [Card](https://files.catbox.moe/hy67ez.png) [JSON](https://files.catbox.moe/79fytl.json) [CHUB](https://www.chub.ai/characters/playalundra/haritora-0c9f73c3/)
-**Lotion Cat** | **875 Tokens (469 Permanent)**
-![Cats, cats, we are the cats. Celebrating yet another birthday bash](https://files.catbox.moe/smxs1h.png) | Kekitopu's Lotion Cat. Playful, teasing, and you can penetrate her from any point of her body. Don't worry, she likes that. I got the idea to make this from [Kumo](https://www.chub.ai/users/kumo) who requested it on a server. There is another already in the chub but I didn't notice it as I made mine. Well, more the merrier I guess. Only one starter, gomen. | [Card](https://files.catbox.moe/62b6ke.png) [JSON](https://files.catbox.moe/stepz8.json) [CHUB](https://www.chub.ai/characters/playalundra/lotion-cat-e39d4457)
+
 
 
 
@@ -44,15 +45,25 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 **TPSP** | **1253 Total Tokens**
 ![Spaceballs AU](https://files.catbox.moe/b90v9q.png) | Yarr! It's the fearsome Twin Planet Space Pirates! And they have captured you! They are a rough and wild group of... Oppai lolis!? Their leader Miranda is quite boastful and mischievous, AND has gigantic breasts. Andra is their quartermaster, a quiet and calculative girl with huge breasts. Shichu is the motherly cook of the group and has big breasts. And there are lots of other oppai lolis running around! They act(and are) like children, get 'drunk' from strawberry milk and might get on you. You meanwhile are forcibly hired to do all the cleaning and other boring adult stuff that children don't like. | [Card](https://files.catbox.moe/0z4643.png) [JSON](https://files.catbox.moe/blfzrv.json) [CHUB](https://www.chub.ai/characters/playalundra/twin-planet-space-pirates-47fb073c)
 
+## Fur and Poke
 
-## MISC
-
-**MISC** | *Random stuff* | Links here
+**Fur and Poke** | *Don't look at me like that. I-It's completely normal to go with something spicier... Right?* | Links here
 :----: | ------ | :----:
 **Espathra** | **642 Tokens (533 Permanent).**
 ![Constent is optional](https://files.catbox.moe/j8ogfe.png) | ~~Rapes~~ Loves and ~~mindbreaks~~ nuzzles you. Not anthro thing so beware if you ain't into "feral" pokephilia. Made for my degenerate perversion and quick fap. I heard some people actually does consensual stuff with her? Umm, wow kinda strange why don't you, like, make her rape you??? You are weird. |  [CARD](https://files.catbox.moe/ip5bgw.png) [CHUB](https://www.chub.ai/characters/playalundra/Espathra)
  **Maractus** |  **745 Tokens (566 Permanent).**
 ![Shaken, not stirred](https://files.catbox.moe/uwbmle.png) | You are on a walk in the desert and running out of water before you spot a Maractus that cannot move. She also has a gigantic pair of boobas(running theme in my cards I know) that leaks nectar. Got the idea in my dream, am I considered a prophet now? | [CARD](https://files.catbox.moe/hmlcuf.png) [JSON](https://files.catbox.moe/au4p7o.json) [CHUB](https://www.chub.ai/characters/playalundra/Maractus)
+**Kuri** | **681 Tokens (415 Permanent)**
+![We be doin' some tomfoolery](https://files.catbox.moe/scnq9t.png) | A mature and motherly tanuki lady in Feudal Japan where other yokai and spirits are common and coexist with humans(I'll maybe look more into this setting in the future). She can be a bit goofy too and generally has fun times. However, prepare to be pampered and spoiled a bit. Has 5 different starters/greetings: You work at a shrine dedicated to her, she saves you from storm, you travel with her, you save her from storm, and you encounter her in a village full of mature tanuki ladies. Have fun, and I hope you enjoy this card a lot. | [Card](https://files.catbox.moe/c7znja.png) [JSON](https://files.catbox.moe/izfpmf.json) [CHUB](https://www.chub.ai/characters/playalundra/kuri-99bd9ceb)
+**Ankha** | **942 Total Tokens**
+![Maze of the Blade from Soulcalibur 2 is a bit more fitting for this Ankha than Camel By Camel](https://files.catbox.moe/nw63cd.png) | VERY voluptuous and bossy Ankha. She made you drive off other villagers so she can live on your(her) island in peace with you as her personal assistant(peasant). Seriously, she is selfish and expects you to serve her. Has 4 starters, but they all are about her being her. Uses art from Cham22. Didn't want to upload first as it is very self-indulgent and uses someone else's but got convinced by my friend to just post it. | [Card](https://files.catbox.moe/xyav2s.png) [JSON](https://files.catbox.moe/bkexbh.json) [CHUB](https://www.chub.ai/characters/playalundra/ankha-30ce5154)
+**Lotion Cat** | **875 Tokens (469 Permanent)**
+![Cats, cats, we are the cats. Celebrating yet another birthday bash](https://files.catbox.moe/smxs1h.png) | Kekitopu's Lotion Cat. Playful, teasing, and you can penetrate her from any point of her body. Don't worry, she likes that. I got the idea to make this from [Kumo](https://www.chub.ai/users/kumo) who requested it on a server. There is another already in the chub but I didn't notice it as I made mine. Well, more the merrier I guess. Only one starter, gomen. | [Card](https://files.catbox.moe/62b6ke.png) [JSON](https://files.catbox.moe/stepz8.json) [CHUB](https://www.chub.ai/characters/playalundra/lotion-cat-e39d4457)
+
+## MISC
+
+**MISC** | *Random stuff.* | Links here
+:----: | ------ | :----:
 **Pupa Emily Godwin** | **830 Tokens (527 Permanent)**
 ![No running in the library](https://files.catbox.moe/0hqpsk.png) | A mysterious house appears next to your usual forest path, and you find a quiet doll there keeping her own small library. Wanna keep her company? Maybe help her maintain the small library? Who am I kidding, we both know what you will do to her. Enjoy. Art by the amazing [Silver Surfer Anon](https://rentry.org/SilverSurfer) | [Card](https://files.catbox.moe/07042p.png) [JSON](https://files.catbox.moe/rg6nkk.json) [CHUB](https://www.chub.ai/characters/playalundra/pupa-emily-godwin/)
 **Goddess of MS Paint doodles** | **918 Tokens (634 Permanent)**
@@ -61,10 +72,7 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![/v/ threads were legendary](https://files.catbox.moe/cbphzi.png) | If you know, you know. Very self-indulged fetish stuff but I know there are few people who are into this. Expect kisses and licking, and if Claude fucking works, no boring penetration stuff. | [Card](https://files.catbox.moe/avstyg.png) [JSON](https://files.catbox.moe/telxjl.json) [CHUB](https://www.chub.ai/characters/playalundra/boo-d56a8a27/)
 **Puppeteer** | **770 Tokens (605 Permanent)**
 ![Rip FoBS updates, Zell please please continue it even when your newer stuff is good ;-;](https://files.catbox.moe/dhg6sd.png) | Puppeteer from Forest of Blue Skin, she controls three dolls/puppets that milk the mc in different ways. Well, now they milk **YOU** in different ways. Very very self-indulged card. If you have played FoBS, you most likely know what this card is about, but I hope you like it anyway. Didn't make it have "Bad end" like in game tho, so I understand if that makes you bit angeru. Might edit it to have one someday. | [Card](https://files.catbox.moe/xjhzds.png) [JSON](https://files.catbox.moe/etzcus.json) [CHUB](https://www.chub.ai/characters/playalundra/puppeteer-abf005c6)
-**Kuri** | **681 Tokens (415 Permanent)**
-![We be doin' some tomfoolery](https://files.catbox.moe/scnq9t.png) | A mature and motherly tanuki lady in Feudal Japan where other yokai and spirits are common and coexist with humans(I'll maybe look more into this setting in the future). She can be a bit goofy too and generally has fun times. However, prepare to be pampered and spoiled a bit. Has 5 different starters/greetings: You work at a shrine dedicated to her, she saves you from storm, you travel with her, you save her from storm, and you encounter her in a village full of mature tanuki ladies. Have fun, and I hope you enjoy this card a lot. | [Card](https://files.catbox.moe/c7znja.png) [JSON](https://files.catbox.moe/izfpmf.json) [CHUB](https://www.chub.ai/characters/playalundra/kuri-99bd9ceb)
-**Ankha** | **942 Total Tokens**
-![Maze of the Blade from Soulcalibur 2 is a bit more fitting for this Ankha than Camel By Camel](https://files.catbox.moe/nw63cd.png) | VERY voluptuous and bossy Ankha. She made you drive off other villagers so she can live on your(her) island in peace with you as her personal assistant(peasant). Seriously, she is selfish and expects you to serve her. Has 4 starters, but they all are about her being her. Uses art from Cham22. Didn't want to upload first as it is very self-indulgent and uses someone else's but got convinced by my friend to just post it. | [Card](https://files.catbox.moe/xyav2s.png) [JSON](https://files.catbox.moe/bkexbh.json) [CHUB](https://www.chub.ai/characters/playalundra/ankha-30ce5154)
+
 
 ##Boring humans
 

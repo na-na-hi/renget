@@ -10,7 +10,7 @@ you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth a
 ### Quicklinks: 
 
 * [Latest Setup](https://rentry.org/sdhassan#current-setup)
-* [HassanBlend Model Finetune Updates](https://rentry.org/sdhassan#21-finetuning)
+* [HassanBlend Model Finetune Updates](https://rentry.org/sdhassan#sdxl-finetuning)
 * [Latest Patreon Posts](https://rentry.org/sdhassan#patreon-posts)
 * [Models](https://rentry.org/sdhassan#models)
 	* [Hassan Fantasy Style](https://rentry.org/sdhassan#hassanfantasy)
@@ -89,16 +89,62 @@ Changelog:
 
 
 ### SDXL Finetuning 
-First release of my NSFW SDXL Checkpoint+ Lora tomorrow for [Ultimate Patreon supporters!](https://www.patreon.com/sd_hassan)
-12 minutes ago
+First release of my NSFW SDXL Checkpoint+ Lora available for [Ultimate Patreon supporters!](https://www.patreon.com/sd_hassan)
 
-I'm currently uploading the 13gb model (unpruned) and a bunch of the LORA models for the training I did for SDXL
+---
+license: cc
+---
+# NSFW Model Release: Starting base model to improve Accuracy on Female Anatomy
 
-This will be available to Patrons Ultimate supporters.
+I am excited to announce the release of our SDXL NSFW model! This release has been specifically trained for improved and more accurate representations of female anatomy. 
+As always, our dedication lies in bringing high-quality and state-of-the-art models to our users so this model is far from complete, it's simply the first version of early access while I continue refining it.
 
-After a few more days, the Supershot supporters will receive it 
+## 🔐 Exclusive Early Access for Ultimate Tier Patrons
 
-I will continue to refine these models but as promised I will release in stages, including alpha vs final releases so users can benefit from the models or contribute on top of them.
+I value your support, and as a token of appreciation, I am giving **exclusive early access** to the Ultimate Tier Patrons.
+
+- **How to get access?** If you are an Ultimate Tier Patron, you can get started right away!
+  1. Head over to our Patreon: [https://www.patreon.com/sd_hassan](https://www.patreon.com/sd_hassan)
+  2. Ensure that you are subscribed as an Ultimate Tier Supporter.
+  3. Request access by providing huggingface with the same email address you used for supporting us on Patreon.
+
+## 📦 What's Inside the Release?
+
+- **13GB Model Checkpoint**: Gain access to the model's comprehensive checkpoint, allowing for advanced deployments, fine-tuning, and custom integrations.
+  
+- **Multiple Variations of LORA**: Can be used independently or combined with the checkpoint.
+
+- **See Samples** you can see samples from the model here in my Patron post https://www.patreon.com/posts/sdxl-training-89256045
+- Note that I have used simply the prompts I have trained, these examples can be vastly improved by using more positive prompts, negative prompts or extra tools such as Controlnet/Adetailer
+
+## ✨ Features
+
+- Enhanced accuracy on female anatomy representations.
+- State-of-the-art model performance on NSFW content classification and generation.
+- Fine-tuned on a diverse dataset ensuring comprehensive and respectful representations.
+
+## 🚀 Quickstart
+
+Once you've received your exclusive download link:
+1. Download the model checkpoint and desired LORA variation.
+2. Integrate into your HuggingFace environment, such as comfyui or a stable diffusion webui like Automatics/Vlads/Invoke etc
+3. Start using the model for your applications!
+
+## 📜 Terms of Use
+
+- This model is for local use only. There is no sponsorship with this model and only when the model is actually released may agreements be made with independent companies
+- Ensure compliance with all applicable laws and regulations when using the model.
+- Respect the privacy and rights of individuals when using or sharing generated content.
+
+## 🙏 Thank You!
+
+Your support is instrumental in pushing the boundaries of AI research. 
+I'm deeply grateful to our community and especially to our Ultimate Tier and other tier Supporters for making this possible. Together, we are shaping the future!
+
+For any queries or support, reach out to me on Patron or Discord.
+
+---
+
 
 
 

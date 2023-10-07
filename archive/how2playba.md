@@ -371,8 +371,9 @@ Buying the activity reports with credits is kind of bad (as in really bad).
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-Otherwise bring Serina to 2\*, and (if ur too impatient) Kotama to 3\*, who is also available in the raid shop. After that? Whoever is the main hypercarry of a raid you're planning to beat.
+Otherwise bring Serina to 2\*, and (if ur too impatient) Kotama to 3\*, who is also available in the raid shop. After that? Whoever is the main hypercarry of a raid you're planning to beat. 
 Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
+
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
@@ -568,8 +569,7 @@ If you want to splurge ur gifts on 1 specific girl:
 It's more efficient to reroll normal gifts into a girl's favourite ones. 
 Don't use liked gifts for gift selectors, since it's a net loss
 ![affection math](https://i.imgur.com/OYyVToM.png)
-
-
+You can stop at the 2nd node if you're strapped for orange/purple mats. Or the 1st. Affection maxing is a latefag-only thing after all. 
 
 >Stacking (de)buffs
 You can stack several (de)buffs with the same descriptor/effect, but only if they're in different skill slots. 
@@ -596,13 +596,13 @@ If you're playing the game for a specific girl, I'd still suggest playing now ev
 Students attached to a story event get a rerun, including limited units. Otherwise the chance is pretty slim.
 See https://bluearchive.wiki/wiki/Banner_List for future banners.
 
-If it's a limited unit they seem to be getting a yearly rerun. Anniversary units can be rolled during anniversary banners, but won't be sparkable. 
+If it's a limited unit they seem to be getting a yearly rerun. Anniversary units can be rolled during anniversary banners, but aren't sparkable until 1,5 years after their initial banner (this is a guess however). 
 
 >Should I join a (/bag/) club? 
 Yes. It's 10 AP daily, an extra source of credits, and it lets you borrow hyper invested students for Total Assault, Joint Exercise, and Conquest.
-See https://rentry.org/holdingthebag for /bag/ clubs. 
+See https://rentry.org/holdingthebag for /bag/ clubs.
 
-No one cares if you don't use the chat. 
+No one cares if you don't use the chat or can't lend out "good" students. You're there as a piggybank for the whales to earn some extra credits. 
 
 >Do 2x/3x events apply on the first time clear rewards? 
 No. 

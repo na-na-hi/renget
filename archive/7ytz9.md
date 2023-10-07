@@ -16,7 +16,7 @@ The phrase was the quickest to enter my mind as I slowly came to. Before even op
 
 *Eh, it's too damn early. I'll just lay here for a while, maybe I rolled off my bed in my sle- is that a* breeze*?*
 
-At this my eyes bolted open, to be greeted by the morning sun filtering through a leafy canopy, my grogginess replaced by fully alert confusion. I quickly take in my surroundings: Trees, dirt, some grass... Yup, that's a forest if I've ever seen one. Less pines than I'm used to in my forests, but that's not important right now. This is not my beautiful house, I tell myself. I know I'm not a sleepwalker, I don't live near any forests, and I doubt anyone would want to kidnap me, so why the hell am I all the way out here? I roll to my left to grab the shell that fell off my chest at some point, push myself off, and begin to dust myself off.
+At this my eyes bolted open, to be greeted by the morning sun filtering through a leafy canopy, my grogginess replaced by fully alert confusion. I quickly take in my surroundings: Trees, dirt, some grass... Yup, that's a forest if I've ever seen one. Less pines than I'm used to in my forests, but that's not important right now. This is not my beautiful house, I tell myself. I know I'm not a sleepwalker, I don't live near any forests, and I doubt anyone would want to kidnap me, so why the hell am I all the way out here? I roll to my left to grab the shell that fell off my chest at some point, push myself up, and begin to dust myself off.
 
 Wait...
 

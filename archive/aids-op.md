@@ -1,3 +1,6 @@
+##Temporarily out of town until further notice; will check in soon!
+https://imgur.com/a/XLyHOh3
+
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image](https://i.imgur.com/ERINQqc.jpg)

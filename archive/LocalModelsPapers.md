@@ -90,7 +90,7 @@
 02/2023|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 03/2023|[Scaling Expert Language Models with Unsupervised Domain Discovery](https://arxiv.org/abs/2303.14177)
 03/2023|[SemDeDup: Data-efficient learning at web-scale through semantic deduplication](https://arxiv.org/abs/2303.09540)
-04/2023|[Segment Anything](https://arxiv.org/abs/2304.02643)
+04/2023|[Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)
 04/2023|[A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
 05/2023|[Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833)
 05/2023|[ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
@@ -147,6 +147,8 @@
 09/2023|[A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674)
 09/2023|[Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models](https://arxiv.org/abs/2309.15098)
 10/2023|[Sparse Backpropagation for MoE Training](https://arxiv.org/abs/2310.00811)
+10/2023|[Nugget 2D: Dynamic Contextual Compression for Scaling Decoder-only Language Models](https://arxiv.org/abs/2310.02409)
+10/2023|[Mixture of Quantized Experts (MoQE): Complementary Effect of Low-bit Quantization and Robustness](https://arxiv.org/abs/2310.02410)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -174,7 +176,6 @@
 04/2023|[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
 05/2023|[StarCoder: May the source be with you!](https://arxiv.org/abs/2305.06161)
 05/2023|[CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
-05/2023|[MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
 05/2023|[Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://arxiv.org/abs/2305.03726)
 05/2023|[InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500)
 05/2023|[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://arxiv.org/abs/2305.07922)
@@ -188,7 +189,7 @@
 06/2023|[StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://arxiv.org/abs/2306.07691)
 06/2023|[Anticipatory Music Transformer](https://arxiv.org/abs/2306.08620)
 06/2023|[RepoFusion: Training Code Models to Understand Your Repository](https://arxiv.org/abs/2306.10998)
-06/2023|[MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
+06/2023|[MPT-30B: Raising the bar for open-source foundation models](https://archive.ph/SOhKy)
 06/2023|[Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity](https://arxiv.org/abs/2306.12689)
 06/2023|[ViNT: A Foundation Model for Visual Navigation](https://arxiv.org/abs/2306.14846)
 06/2023|[How Long Can Open-Source LLMs Truly Promise on Context Length? (LongChat)](https://archive.ph/NfIj2)
@@ -204,6 +205,8 @@
 09/2023|[Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
 09/2023|[Qwen Technical Report](https://files.catbox.moe/y61ihm.pdf)
 09/2023|[Mistral 7B](https://archive.ph/DYuym)
+10/2023|[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2310.03731)
+10/2023|[Improved Baselines with Visual Instruction Tuning (LLaVA 1.5)](https://arxiv.org/abs/2310.03744)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -377,12 +380,16 @@
 09/2023|[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 09/2023|[MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation](https://arxiv.org/abs/2309.13042)
 09/2023|[Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models](https://arxiv.org/abs/2309.15531)
+09/2023|[Improving Code Generation by Dynamic Temperature Sampling](https://arxiv.org/abs/2309.02772)
 09/2023|[Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)
 10/2023|[DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models](https://arxiv.org/abs/2310.00902)
 10/2023|[GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length](https://arxiv.org/abs/2310.00576)
 10/2023|[Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models](https://arxiv.org/abs/2310.01107)
 10/2023|[Elephant Neural Networks: Born to Be a Continual Learner](https://arxiv.org/abs/2310.01365)
 10/2023|[Ring Attention with Blockwise Transformers for Near-Infinite Context](https://arxiv.org/abs/2310.01889)
+10/2023|[Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
+10/2023|[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)
+10/2023|[LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

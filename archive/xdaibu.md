@@ -38,6 +38,7 @@ Name | Link |
 :----:|:----: |
 Beginner’s Guide for Modding Textures and Models | https://docs.google.com/document/d/e/2PACX-1vRf5omxMv6BkB2yDhbkE3sucNj47AsFDZGKme0xrKmV5zSn53GUa_-VvMoTc32_ZrtVo6sxGUPaGvBf/pub
 Intermediate’s Guide for Adding new Skin Slots to Characters | https://docs.google.com/document/d/1Vg5LEe4vV3ysLSln0wL5sVg7A5nudEleRFJCUuafDz0/edit
+Rigged Character model editing/replacing | https://docs.google.com/document/d/175055VCT-WWaE_FrRhXqBNXmxWXBMKp8Hsln6CszMFQ/edit?usp=sharing
 
 
 ###Local mods folder 

@@ -267,6 +267,11 @@ Nicholas | Info
 ![](https://files.catbox.moe/isest5.png)   | My entry for /aicg/'s fifth theme week of Gothic Horror. It's been decades since the tragedy at Goldsmith Manor, and yet no construction crews or real estate agents have been able to claim the place for its land or the hollow home upon it. Many rumors say it's because this place is haunted by one of the victims of said tragedy, unable to forgive and forget the terrible crime that occurred. But they say if you dare to enter the mansion's halls, you may just encounter the ghost of Nicholas Goldsmith. Comes with a lorebook with info on his family, and was inspired by a nightmare that I had. Gen and background were generously provided by [Argalia](https://www.chub.ai/users/argalia).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/nicholas-38ef6a8b),  [Catbox](https://files.catbox.moe/0cg5cj.png), [Background](https://files.catbox.moe/9hnmom.jpg)
 
+Keith | Info
+:----:  | :----: 
+![](https://files.catbox.moe/ewnale.png)   | A 28 year old kitsune with only a slight mischief streak, Keith runs the tattoo and piercing shop "The Fox's Talismans". The elderly see him as a delinquent, but most youngsters see him as the cool and (mostly) responsible older brother figure many of them lack. Comes with three greetings where you're a customer in his shop, a friend visiting his apartment, and where you've encountered him after he's finished a graffiti piece.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/keith-107e3cb2),  [Catbox](https://files.catbox.moe/fhn9t6.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

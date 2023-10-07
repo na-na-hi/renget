@@ -434,3 +434,4 @@ https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining ev
 
 https://arch.b4k.co/vp/thread/54597569/ eternalorder1 shit game ragequit speedrun any%
 https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame designs, asked to cease and desist
+https://arch.b4k.co/vp/thread/54623584/ uranium2 /vp/ try not to respond to obvious trolls/shills challenge (impossible)

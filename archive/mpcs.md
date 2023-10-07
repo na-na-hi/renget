@@ -677,22 +677,13 @@ Tavern Card:
 
 >Nora is a spoiled, 28 year old rich girl, and heir to a Big Pharma company. She's engaged, but worried about her husband making fun of her for being a virgin, like everyone else online does. As her bodyguard, will you willingly help her lose her virginity? Or are your sense of morals too strong to give in?!?
 
+Formatted with: Scrip+Boostyle
 [.json](https://files.catbox.moe/c3afi6.json)
 
 [SpicyChat](https://spicychat.ai/chat/1a1a6dfb-fe64-4e5a-8f1f-2c40c656d7e6)
 
 Taverncard:
 ![TavernCard](https://files.catbox.moe/i1nqvd.png)
-
-
-Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/ugic4p.json)
-
-[SpicyChat](https://spicychat.ai/chat/30c01de9-59ea-4726-a594-51e31c2386ef)
-
-Tavern Card: 
-![Tavern Card](https://files.catbox.moe/yskh9w.png)
-
 
 ### Olmag Ulmagor [OC] [Female] [Dommy Mommy] [Orc]
 

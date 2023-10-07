@@ -24,7 +24,7 @@ And you have your first image.
 ```
 git clone https://github.com/comfyanonymous/ComfyUI
 cd ComfyUI
-python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/rocm5.4.2 -r requirements.txt
+python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/rocm5.6 -r requirements.txt
 
 #optional, download a checkpoint
 wget -c https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt -P ./models/checkpoints/

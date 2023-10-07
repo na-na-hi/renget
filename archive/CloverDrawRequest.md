@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+1. Booker and Sneasel eating pizza. Booker is sitting at the little pizza saver/table.
+
 1. This type of meme, but with Booker and Sneasel https://i.kym-cdn.com/photos/images/original/001/769/140/63f
 
 1. Kiyo chopping down a tree and eating Wonder Bread

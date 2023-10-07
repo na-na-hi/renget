@@ -5,10 +5,10 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Mythomax-q8.13-MAX-exl2 scaled to 8k**
+**Model: Mythomax-8bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```Offline```
+Blocking API URL: ```https://newest-freely-cos-coordinate.trycloudflare.com```
 
 ***
 **System prompt:**
@@ -38,31 +38,19 @@ Tail-free Sampling: 0.9 - dynamically identifying the "tail" of the token probab
 Do_sample: [On]
 Mirostat: [2.0] - mirostat version, just pick 2.0, this fixes llama2-13b's repetition issue
 Mirostat Tau: [4.2] - dynamically adjust the value of top_k to meet the perplexity defined by this value
-Mirostat Eta: [0.6] - learning rate
+Mirostat Eta: [0.7] - learning rate
 ```
 https://rentry.org/llm-settings
 
 ***
 #### How to use:
 
-##### 1. Update your SillyTavern:
-```
-cd SillyTavern/
-git stash
-git checkout staging
-git pull origin staging
-git stash pop
-```
-
-##### 2. Proxy menu:
+##### 1. Proxy menu:
  ![proxy-menu](https://files.catbox.moe/sl6hbc.png)
 
-##### 3. Advanced menu:
+##### 2. Advanced menu:
  ![classic](https://files.catbox.moe/lotzyf.png)
 
-
-**Alternatively**, use the simple-proxy-for-tavern template. Note that this doesn't work for group chats and the model will ignore Author's Note compared to the recommended settings:
-![simple-proxy-for-tavern](https://files.catbox.moe/zaysk7.png)
 
 ***
 ##### Are my prompts logged?

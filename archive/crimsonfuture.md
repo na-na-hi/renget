@@ -101,6 +101,11 @@ Here you can find the lorebook for standalone download: [Lorebook](https://www.c
 The lorebook is embedded in every card by default.
 
 ####Bot list
+#####Lin
+Links   |  [Github](https://github.com/GhostXia/Character-Card/tree/main/Crimson%20Future/Lin)  [Tavern Card](https://files.catbox.moe/gof4k5.png)
+------ | ------
+![Lin](https://files.catbox.moe/gof4k5.png) |**Creator**: [SnakeSkinGX](https://github.com/GhostXia/Character-Card) -> ->Lin is a tragic genius. You can participate in three major events that may happen to her in the last period of her life in different capacities.*"At some point, someone will be able to break the ice. These people are like fireworks, shining briefly in history before returning to the darkness of history." —By an unknown observer* 
+
 #####Dmitry
 Links   |  [Character Hub](https://www.chub.ai/characters/pr0vidence/dmitry-122938ac)  [Tavern Card](https://files.catbox.moe/7dg1wv.png)
 ------ | ------

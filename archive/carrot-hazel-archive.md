@@ -128,7 +128,7 @@ Both curl up side to side, cowering from the radiant sun
 "*Yawn*, you too Hazel"
 It's not long before both are deep asleep
 
-###Prelude 1.3: Combat and spar
+###Filler 1: Combat and spar
 The orange wolf and the purple cat stand vigilant, ready for a fight to (not) death.
 "You first; I started last time," Carrot barks.
 "You know that hitting first is not my thing, carrot." Hazel purrs, almost an invitation for those unaware of her tactics.
@@ -149,6 +149,40 @@ Carrot wheezes and coughs a lot for a few seconds before trying to stand up. Sti
 "Tie?" Hazel asks mischievously:
 "*Cough cough*... tie" His voice is raspy.
 With that, Hazel gets another win.
+
+###Filler 2: The cave
+The gathering storm echoed along the forest, distant but powerful, the wind turned cold and the day darkened to a gloomy state, almost reserved for a funeral
+"Come in! The storm is hitting at any time!" Carrot barks desperate
+"Just one minute! I almost got these berries!" Hazel meows from afar, biting the sweet fruits off the bush from the stem, procuring to not pierce the soft skin even if her stomach wanted it
+After a few more minutes, the orange wolf and the purple cat reunite in the cave entrance, ready to be swallowed by the darkness
+"Cmon, we need to go deep, this storm is going to raise hell outside" Carrot barks serious
+They start walking inside, after mere minutes their eyes are already used to the darkness inside, but even then they needed to walk slower
+"Well, at least there's no Zubats so far..." Hazel purrs in an ironic way
+"I don't think they would stay here, there's too much light" Carrot says, looking at every step like it could be the last
+They keep descending into the darkness until they finally stop hearing the wheezing wind, although still feeling the cold strands of it
+"Here, let's settle" Hazel purrs before taking a carefully prepared stick with fabric, dipping it in some (Quite convenient) oil they had, before lighting it with a flamethrower
+The dim torch lights a chunk of the massive cavern they're in, the clinking drops noisy as expected
+They settle their improvised camp (A small fireplace and some cloth to lay and sleep) before finally starting to roast the berries Hazel gathered before
+"How long do you think we have to stay here?" Carrot asks
+"Until the wheezing wind stops or at least it's not as cold" Hazel points out
+"In that case, we should at least wait until the m-*yaawn* morning" Carrot yawns hard
+"Yeah, that's the best way" Hazel also yawn
+Deciding against sleeping in different places as to keep the heat in the moist, cold cavern, they both snuggle.
+
+###Filler 3:Rememberance
+Hazel wakes up in the middle of the night, feeling movements, she opens her eyes to try to identify what's making the movement, quickly pinpointing it to her partner, that is kicking the air
+"Nightmares... do you still remember that day?" Hazel whispers to herself before snuggling closer to Carrot, hoping that it will help him 
+. . .
+"Hazel! Don't move!" The Rockruff barks desperate, looking for his partner, around him hell is let loose, consuming everything around him
+"Rocky! I'm here!" He can hear a desperate meowing, time's running up
+He rushes through the dense smoke, shadow figures following him close, trying to catch up to him, their fingers almost stroking the small dog
+"Hazel? Hazel!" He keeps running, the branches hitting him, starting to damage below his dense, almost rock-like fur
+The fire rises up, the smoke columns threatening to fully cover the dark sky with it's orangle light of destruction
+He stills runs, lungs burning hot, his small legs starting to falter and becoming clumsy as he approaches his partner, stuck between a fallen branch
+"Haz-" the world is consumed once again as he jumps off the cloth, almost confusing the real world with his
+. . .
+After some minutes of convincing, he finally accepts that he's awake, Hazel still sleeping hard, like she didn't notice
+Exhausted, Carrot snuggles once again with Hazel, hoping that his next dream is sweeter
 
 ***
 ### Misc. Overviews
