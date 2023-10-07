@@ -80,7 +80,7 @@ Image| Name | Description | Link
 ###### Megacity East v1.1 ⭐Updated!⭐
 https://files.catbox.moe/2hu9rv.json
 Updated! Megacity East is a low-magic, cyberpunk fantasy world in which many of my cards are set. The image is just for flavor. A few people have asked if it is okay to develop their own characters and scenarios for this world. It's fine with me, but please let me know what you make. I'd love to see it!
--> ![Megacity East](https://files.catbox.moe/p464ny.json) <-
+-> ![Megacity East](https://files.catbox.moe/8eq2zv.png) <-
 ### Jailbreaks
 ###### GPT 3 and 4
 Devours tokens, but provides longer, juicier replies. Many of the cards I like, and make, for that matter, are slice-of-life, and short replies without much context kind of ruin that. Modified from a JB I found here: https://rentry.org/GPTJailbreakPrompting

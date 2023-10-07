@@ -22,7 +22,7 @@
 |02/08/2023|[Timestamp #1](https://youtu.be/GqWACMhCX_c?t=2932) [Timestamp #2](https://youtu.be/GqWACMhCX_c?t=11002) [Timestamp #3](https://youtu.be/GqWACMhCX_c?t=16711)| **Mention** - Multiple back-and-forth mentions and (in-chat) interactions between Kiara and Narissa during a zatsudan|
 |03/08/2023|[Timestamp #1](https://youtu.be/bMxjhvXqnCg?t=2071) [Timestamp #2](https://youtu.be/bMxjhvXqnCg?t=2134) [Timestamp #3](https://youtu.be/bMxjhvXqnCg?t=2878) [Timestamp #4](https://youtu.be/bMxjhvXqnCg?t=3307) [Timestamp #5](https://youtu.be/bMxjhvXqnCg?t=7884) [Timestamp #6](https://youtu.be/bMxjhvXqnCg?t=8552) [Timestamp #7](https://youtu.be/bMxjhvXqnCg?t=9015) [Timestamp #8](https://youtu.be/bMxjhvXqnCg?t=10412) [Timestamp #9](https://youtu.be/bMxjhvXqnCg?t=12529) [Timestamp #10](https://youtu.be/bMxjhvXqnCg?t=14910) [Timestamp #11](https://youtu.be/bMxjhvXqnCg?t=17749)| **Stream-Chat Interactions** -Back-and-forth interactions between Kiara and Narissa (being in the chat) during the Pizza Tower Stream. - Possibility in the future for a Perfect Blue collab watchalong. [Timeline](https://files.catbox.moe/yqh8mg.png)|
 |06/08/2023|[Timestamp](https://youtu.be/Woa7VSeNqZ0?t=26364)|**Streamer-chat interaction** - Back-and-forth respond about a possible drawing solo stream or a collab with Kiara during the month of August.|
-|11/08/2023|[Timestamp #1](https://youtu.be/yvSlrIZeSRc?t=9879) [Timestamp #2](https://youtu.be/yvSlrIZeSRc?t=10470) [Timestamp #3](https://youtu.be/yvSlrIZeSRc?t=13620) [Timestamp #4](https://youtu.be/yvSlrIZeSRc?t=14520) [Timestamp #5](https://youtu.be/yvSlrIZeSRc?t=16052)|**Mentions & Streamer-Chat interactions** - Back-and-forth interactions with Kiara during her Minecraft stream. A fair chuck of those were related to the upcoming HoloTalk podcast with Advent and the possibilty of a 4-men collab on Baldur's Gate with Mori and Bijou [Timeline](https://files.catbox.moe/w760vk.png)|
+|11/08/2023|[Timestamp #1](https://youtu.be/yvSlrIZeSRc?t=9879) [Timestamp #2](https://youtu.be/yvSlrIZeSRc?t=10470) [Timestamp #3](https://youtu.be/yvSlrIZeSRc?t=13620) [Timestamp #4](https://youtu.be/yvSlrIZeSRc?t=14520) [Timestamp #5](https://youtu.be/yvSlrIZeSRc?t=16052)|**Mentions & Streamer-Chat interactions** - Back-and-forth interactions with Kiara during her Minecraft stream. A fair chuck of those were related to the upcoming HoloTalk podcast with Advent and the possibilty of a 4-men collab on Baldur's Gate with Calliope and Bijou [Timeline](https://files.catbox.moe/w760vk.png)|
 |12/08/2023| [Link](https://www.youtube.com/watch?v=0Q9FLtcAY0s) | **Podcast / Zatsudan** - Holotalk with Advent.|
 |13/08/2023|[Timestamp](https://youtu.be/60dP0VxEdIA?t=5386)| **Mention** - Explanation on the first collab with Nerissa|
 |16/08/2023|[Timestamp #1](https://www.youtube.com/watch?v=vsneBgDq7RM&t=5449s) [Timestamp #2](https://www.youtube.com/watch?v=vsneBgDq7RM&t=6377s) [Timestamp #3](https://www.youtube.com/watch?v=vsneBgDq7RM&t=8529s) [Timestamp #4](https://www.youtube.com/watch?v=vsneBgDq7RM&t=12515s) [Timestamp #5](https://youtu.be/vsneBgDq7RM?t=16290)| **Streamer-chat interactions & Mentions** - Aftermath of FWMC's raid and Kiara proceeds to talk about the Misunderstanding segment involving Nerissa. Also plans for a Getting Over It with VC with possibly Nerissa as a coach.|
@@ -44,6 +44,7 @@
 |---|---|---|
 |31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
 |12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
+|2023-10-07|[Timestamp](https://www.youtube.com/watch?v=DJfTr9BsO2Y&t=12454s)| **VC** - Nerissa joins Calliope's open VC during a Suika stream along with Shiori.|
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -130,11 +131,14 @@
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 |11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
 |15/09/2023|[Nerissa's POV](https://youtu.be/Srb5k7icrJY)| **Collab** - Tenth Advent Fullgen Collab on Mario Kart with [Shiori](https://www.youtube.com/watch?v=UX6IDuP1Hdw), [Bijou](https://www.youtube.com/watch?v=wldcO2gtjpU) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=GwCBlhmnwjQ).|
+|---|---|TODO: add 11 gartic phone|
+|---|---|TODO: add 12 MC|
+|2023-10-06|[Nerissa's POV](https://www.youtube.com/watch?v=GQIPoEZZrHQ)| **Collab** - Thirteenth HoloAdvent Group collab and Left 4 Dead 2 second collab (with [Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=0GnRDoCXr3E))|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
 |---|---|---|
-|31/07/2023|[Link](https://www.youtube.com/watch?v=oC4WJdkWfO0)| **Watchalong** - Watchalong of Nerissa's debut with A-Chan and Mori|
+|31/07/2023|[Link](https://www.youtube.com/watch?v=oC4WJdkWfO0)| **Watchalong** - Watchalong of Nerissa's debut with A-Chan and Calliope|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) EN - Other Companies
 ###### 👻 Reimu Endou 
@@ -179,6 +183,11 @@
 |27/07/2023|[Timestamp](https://youtu.be/zgs1zQdefmM?t=1677)| **Mention** - First impressions during her AsaKoyo podcast|
 |01/08/2023|[Timestamp](https://youtu.be/MSSJBu-iJHg?t=2724)| **Segment** - Segment and start of the 'no pants nee-san' angle during the AsaKoyo podcast|
 |04/09/2023|[Timestamp](https://youtu.be/4edZ1YcVnhE?t=2765)| **Segment** - Segment during the AsaKoyo podcast about Nerissa being a M.|
+
+###### 🥐 Korone
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-10-05|[Source timestamp](https://www.youtube.com/watch?v=QXC2qPDxzL0&t=20219) \| [Translated clip](https://www.youtube.com/watch?v=jmyQ81qCYWA)| **Streamer-chat interactions** - Nerissa appears in Korone's chat and effortlessly procures a possible collab with her.|
 
 ###### Main Channel
 |Date|Link|Nature & Notes|

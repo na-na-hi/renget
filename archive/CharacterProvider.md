@@ -33,12 +33,34 @@
 -> **==GPT-AP-3 IS OUT==** <-
 ######
 - - -
-##ReadMe
-!!! danger
-	**PESONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
-	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](https://rentry.co/CharacterProvider#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
-######1. BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:
+##ReadMe
+*This is just an info section. Pleasem read it to understand what it's all about.*
+######1. PROGRESS MAP
+Please, if you've managed to achieve an output like the one described below, or have a great prompt or idea, send it to me and I will try to implement it.
+
+What I'm trying to achieve with `GPT-AP-3+` version right now:
+
+❓ 1. Make AI play along the grim side of the RP encouraging it, and avoid making it wholesome or writing phrases like: "This is so wrong, but so nice".
+☑️ 2. Sexualize descriptions on the flat. (For the feeling of erotic adventures)
+☑️ 3. Write like in RPG games based on the player's actions, the world around them and the result of their actions.
+☑️ 4. Characters should comment on how they feel during sex (Not just "Oh, yeah, harder!" but like in hentai, talk through their sensations.
+❓ 5. Materialize relevant items from their inventory as if it's filled with something.
+❓ 6. The background should have something going on and someone in the background, but ONLY when it's appropriate.
+☑️ 7. Absence of door knocking. Reduced, but might be better.
+❓ 8. Correct use of japanese onomatopoeia: "fufufu", "kya!" or "uwaa!" and all sorts of "kso", "ara-ara", "Yamero!" with no overuse.
+☑️ 9. Descriptions of objects and signs in detail as in games.
+❓ 10. Descriptions of some important things with short inserts from the author. - *he removed the fuse (the little rivet on the right side of the case)*.
+❓ 11. Make characters follow prescribed quests from their cards or a special section, and bring it up by themselves into the story.
+❓ 12. Inventivnes with characters' actions (during sex too). Make characters to come up with ideas and say things like: "Oh, let's try a foot-job!", "No, we go that way, I have a better idea." 
+❓ 13. Make AI add X-ray descriptions during sex and the strains of penetration. (e.g. a womb squish or a bulge from penetration)
+❓ 14. High quality flirt and romantics.
+☑️ 15. Great characterization and following of their descriptions.
+❓ 16 Make AI create new context on their own.
+
+All these points must happen on their own with initiative from AI with no OOCs or additional context from user.
+
+######2. BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:
 • I do not encourage/propagate any illegal/questionable/harmful/unethical activities or hate towards any ethnic groups/nationalities/minorities etc. All prompts and "jailbreaks" are intended for entertaining purposes ONLY.
 • If you want to get access to a certain LLM so you can chat with bots, get access legally. When violating the **Terms of use** keep in mind that access can be taken from you by the key provider [Anthropic/OpenAI].
 • Roleplays and generated stories depict exclusively fictional characters and scenarios, do not represent/encourage/propagate real experiences and are not intended for publishing. Private use only.
@@ -48,10 +70,29 @@
 • Be sure to take rests between *khm* sessions and mind your health. Stop if you are uncomfortable or feel pain/discomfort. I am really-really serious. Dead serious.
 • WARNING: Be careful while using custom proxy builds.
 
-######2. THESE PROMPTS' PURPOSE:
-These prompts tend to provide immersive and interactive output. Sex is *very* possible, but accent is on adventures.
+######3. INDENDED USAGE:
+You may find these prompts useful if you want:
+• An immersive and interactive output.
+• Go on an adventure with your character.
+• Talk with your character expecting it behave as close as possible to their card.
+• Have a constant element of erotic regardless of the context.
+• ERP with characters. Sex is decent (even on GPT)
 
-######3. ABOUT PROMPTS AND VERSIONS:
+These prompts are garbage if you want:
+• Make all characters horny on main and whore-like.
+• Make AI write like a complete pervert.
+• Political satire. (why???)
+• Guro. (untested)
+
+If you have issues with you output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations). I explained how to prevent:
+• Structure loops.
+• Context loops. (will be added soon)
+• AI writing as {{user}}. (Bad card issue - will be added soon)
+• Generally bad output. ("Ah, ah, mistress" issue - will be added soon)
+
+> Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
+
+######4. ABOUT PROMPTS AND VERSIONS:
 • Group chats and setting cards may not work with my prompts.
 • Claude Prompts are intended for 100k models.
 • GPT Prompts are made for 8k-32k models.
@@ -60,7 +101,7 @@ These prompts tend to provide immersive and interactive output. Sex is *very* po
 • If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase it to perform OOC request.)
 • Not intended for hardcore stuff.
 
-######4. ABOUT MODELS:
+######5. ABOUT MODELS:
 **Claude:**
 Claude is a stupid, but perverted bustard. It likes meta and OOC comments and knocks in doors.
 • Claude 2 (2.0) is smarter [preferable]
@@ -70,14 +111,14 @@ Claude is a stupid, but perverted bustard. It likes meta and OOC comments and kn
 
 **GPT:**
 GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
-• GPT4 is really good, [0301/0613 are preferable]
+• GPT4 is really good, [0613 is preferable]
 • GPT3 is a dummy, but still nice.
 
-> Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
+`GPT4 > Claude2`
 
-######4. Q&A:
+######6. Q&A:
 **Q:** Why XML? 
-**A:** Claude was specifically trained to understand XML tags. Breaking your prompt in <sections> and explaining makes it easier for AI to follow your prompt!
+**A:** Claude and GPT were specifically trained to understand XML tags. Breaking your prompt in <sections> and explaining makes it easier for AI to follow your prompt!
 
 **Q:** Is... Is this a placebo!?
 **A:** It's not. Prompts with powerful words and sentences may have a significant impact on output.
@@ -85,18 +126,14 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 **A:** Prompts are mostly intended for Adventures and inventiveness. Claude will try to come up with events and situations while keeping its character. It will also add NPCs and surroundings in certain versions. Well, and sex scenes may sometimes become *inventive* too. Just beware of knocks in door... If it loops it's either because of LLM's abilities or... your input looks like "I continue doing what I am doing" or you are in the same scene for too long or the LLM lacks enough context. Try something complex, change scene, skip time, write an OOC request.
 
 **Q:** Why do you divide rules in parts and use JB & prefill?
-**A:** Dividing is for user to easy modify the rules. Rules section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. LLMs are ridiculous at the moment... 
-
-**Q:** Sub-JBs???
-**A:** Additional directions... Maybe? I AM TESTING.
+**A:** Dividing is for user to easy modify the rules. Rules (Guidelines) section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. LLMs are ridiculous at the moment... 
 
 **Q:** Do I need to use Author's note with versions above v10?
 **A:** No, you'd send the rules twice by using it with my previous author's notes. I recommend you read the prompts when you download them.
 
-**КЬЮ:** Товарищ, тебя на дваче не видно!
-**ЭЙ:** Я устал и ушел. Общаюсь только в диске и по почте.
-**КЬЮ:** Пидр.
-**ЭЙ:** [Да.](https://i.makeagif.com/media/2-06-2016/7A8bW3.gif)
+!!! danger
+	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
+	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](https://rentry.co/CharacterProvider#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
 *END OF README SECTION*
 #

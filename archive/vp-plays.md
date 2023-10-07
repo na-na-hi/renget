@@ -428,10 +428,12 @@ https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
 https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
 https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything and HOLY SHIT HEXES GET
 
-##/vp/ plays Bingo
+##/vp/ plays Bingo/filler content while waiting for something better
 !!! info Status: Ongoing
     It's basically just trying to make filler LP-grade games bearable by playing Bingo with the squares being common tropes & cliches in fangames.
 
 https://arch.b4k.co/vp/thread/54597569/ eternalorder1 shit game ragequit speedrun any%
 https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame designs, asked to cease and desist
 https://arch.b4k.co/vp/thread/54623584/ uranium2 /vp/ try not to respond to obvious trolls/shills challenge (impossible)
+https://arch.b4k.co/vp/thread/54636740/ uranium3
+https://arch.b4k.co/vp/thread/54636647/ wack1 vp plays side story gaiden: wack dreepy solorun
