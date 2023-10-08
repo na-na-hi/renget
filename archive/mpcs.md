@@ -28,6 +28,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 !!! info
 	Nearly all bots linked and available on SpicyChat! 
 	Nora (NSFW) [9/23/2023]
+	Toby Daniels Part 3: College [10/7/2023]
 
 ***
 
@@ -848,7 +849,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/xv4gsg.png)
 
-### Toby Daniels (nsfw variant) [OC] [Male] [Nerd] [LGBT] [Variant]
+### Toby Daniels Part 1: (nsfw variant) [OC] [Male] [Nerd] [LGBT] [Variant] ==THE OTHER BEST==
 
 >**Toby Daniels** (nsfw variant) *is a 19 year old, fresh to college student. He is the older version of "Toby Daniels" in my SFW catalog, after having lived a happy, carefree High School life of no (or at least very little) bullying.*
 >*(He is simply Toby Daniels, but with his NSFW elements.)*
@@ -861,7 +862,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/30k0wa.png)
 
-### Toby Daniels (Cross-dressing Scenario) [OC] [Male] [Nerd] [LGBT] [Variant] [Crossdresser] ==THE SECOND BEST== [HOT] ["The Best Femboy On The Market" - Barack Obama]
+### Toby Daniels Part 2: (Cross-dressing Scenario) [OC] [Male] [Nerd] [LGBT] [Variant] [Crossdresser] ==THE SECOND BEST== [HOT]
 
 >**Toby Daniels** *has been dating you for some time (roughly 6 months past the NSFW variant), after coming to grips with his sexuality. Despite the fact you were, and still are his bully, he can't help but be attracted to you. And you've somehow talked him into cross-dressing at the mall, in a cute skirt, pink panties, and a pair of nekomimi.*
 >*Toby Daniels (CD-S) was a request on my server for **more** Toby. And I love toby, so I was happy to oblige.*
@@ -873,6 +874,22 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/15bl17.png)
+
+### Toby Daniels Part 3: (College Variant) [OC] [Male] [Nerd] [LGBT] [Variant] [2cute4me] ==THE THIRD BEST== [HOT] ["The Best Femboy On The Market" - Barack Obama]
+
+>*It's been 3 years since you and Toby first started dating. Despite being his bully back in High School, the two of you formed a close, intimate relationship that has lasted the test of time, and the separation of College life.*
+
+>*But over the years he's grown more comfortable with your teasing, and you've learned to better read his emotions. Just how far will this relationship go, though?*
+
+> **TOBY**! FUCKING LOVE TOBY! HE'S **THE BEST!** So I made 3 different backgrounds, and a full sillytavern ready Expression Pack for this release! Just put them in the correct folder, or import them in your extra's menu.
+
+[Json](https://files.catbox.moe/gb0585.json)
+
+[SpicyChat](https://spicychat.ai/chat/25623079-e2c6-484f-be67-2248b7beac97)
+
+[Expression Pack and Backgrounds](https://files.catbox.moe/7svoff.7z)
+
+![TavernCard](https://files.catbox.moe/t0hyef.png)
 
 ### Tsukiko [OC] [Female] [Furry] [Witch] [Evil?] [Evil] [NEW]
 

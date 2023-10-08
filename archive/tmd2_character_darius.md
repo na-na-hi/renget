@@ -32,9 +32,9 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Rock Throw | 5BP | 5AP | ≥3 | Rock | Physical | No secondary effect.
-Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
+Dig | 8BP | 6AP | ≥2 | Ground | Physical | Most Moves miss the User on round 1. Hits 1 round after using the Move.
 Sandstorm | 0BP | 4AP | ≥2 | Rock | Status | The Weather is changed to Sandstorm.
-Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
+Payback | 5 BP | 7 AP | ≥2 | Dark | Physical | If the Opponent had an Offensive Focus last round, damage is increased by 5.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -102,5 +102,5 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
 Eᴍᴘᴛʏ | Description

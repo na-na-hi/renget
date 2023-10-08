@@ -14,7 +14,7 @@
 **Species:** Fennekin | **Affiliation:** N/A
 **Level:** 7 | **Experience to Next Level:** 10/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 227₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 152₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -63,13 +63,13 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: Pyromancy **ɪɪ** | Tier **ɪɪ** (+2) | Helps with manipulation of fire.
+
+Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Pyromancy  | Tier **1** (+1) | 3/3 | ▮▮▮
-Training for Attribute: Pyromancy  | Tier **2** (+2) | 2/3 | ▮▮▯
-Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Training for Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -80,7 +80,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 2x Wooden Stick | Does 3 true damage to a target, is thrown directly.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

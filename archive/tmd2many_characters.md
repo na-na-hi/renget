@@ -132,13 +132,16 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: Cartography **ɪɪɪ** | ᴍᴀx (+3) | Helps with creating maps and interpreting them.
+Stat: Speed **ɪɪɪ** | ᴍᴀx (+1 AP) | Improves speed stat!
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Cartography **ɪɪɪ** | ᴍᴀx (+3) | 3/3 | ▮▮▮
 Training for Attribute: Navigation **ɪɪ** | Tier **ɪɪɪ** (+3) | 2/3 | ▮▮▯
 Training for Battle Attribute: Paralyzing Thunderbolt **ɪ** | Tier **ɪɪ** (+2) | 4/6 | ▮▮▮▮▯▯
 Training for Move: Iron Tail | *ᴛʀᴀɪɴᴇᴅ* | 4/5 |  ▮▮▮▮▯
-Stat: Speed **ɪɪɪ** | ᴍᴀx (+1 AP) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
@@ -250,12 +253,15 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
+Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
+Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯

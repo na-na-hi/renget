@@ -37,7 +37,7 @@ Remilia Nephys | X | X | -
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
-	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original)
+	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Veibae
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -47,7 +47,6 @@ Projekt Melody | X | - | X
 Apricot/Froot | X | X | -
 Hime Hajime | - | - | -
 Kson | X | - | X
-Veibae | X | - | X
 Silvervale | X | - | X
 Nyatasha Nyanners | X | - | X
 GeegaVS | X | X | -
@@ -175,11 +174,10 @@ Placeholder Name 5 | - | - | -
 
 ## -> VSPO <-
 !!! info Available Loras without the need of updates and have been tested.
-	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met
+	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Kaga Nazuna | X | - | X
 Kogara Toto | - | - | -
 Yumeno Akari | - | - | -
 Shiranami Ramune | - | - | -
@@ -458,6 +456,21 @@ Minami Nonno | - | - | -
 Akuma Yuu | - | - | -
 Natsu Tsurugi | - | - | -
 
+## -> Cyberlive / Aetheria <-
+!!! note They are technically all indie, but for the lora checklist, I shall mark them as their original agency.
+	Previous members that moved to other agencies will be listed underneath their new ones, not this one.
+!!! info Available Loras without the need of updates and have been tested.
+	Alchemilla Menace
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Ayame Hylo | - | - | -
+Kurohana Inori | - | - | -
+Iekushi Chapipi | - | - | -
+Inami Yoki | - | - | -
+Utano Pandora | - | - | -
+Momozora Seina | - | - | -
+
 ## -> Varium <-
 !!! info Available Loras without the need of updates and have been tested.
 	Nanase Eru
@@ -717,7 +730,7 @@ Kuromiya Lucien | - | - | -
 
 ## -> MyHolo TV <-
 !!! info Available Loras without the need of updates and have been tested.
-	Woozie Wannai
+	Woozie Wannai, Marica Bellerose
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -725,7 +738,6 @@ Liliana Vampaia | - | - | -
 Lunari Urufi | - | - | -
 Karrot Keromi | - | - | -
 Liola Lightbringer | - | - | -
-Marica Bellerose | X | - | X
 Manaka Umio | - | - | -
 Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -
@@ -1096,7 +1108,7 @@ Aono Nemo | - | - | -
 
 ## -> VOICE-ORE <-
 !!! info Available Loras without the need of updates and have been tested.
-	Mikeneko
+	Mikeneko (v1+v3)
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -1320,7 +1332,7 @@ Lamuril Ragna X' | - | - | -
 
 ## -> Indies <-
 !!! info Available Loras without the need of updates and have been tested.
-	Ai Candii, AdcVR, Agano Mai, Aka Inside Mk3, Akira Mazono, Akira Misaki, Akumi Yoclesh, Alchemilla Menace, Alice Mana, Amatsuka Uto, Anny, Ariduka Formica, Artemis of the Blue, Asano Ruri, AuraGX, AuroraLiveVR / Serafina, Ayamy, Baka Sae, Bao, Batata Com Pepino, Beryl LeRou, Buffpup, C-chan, Chimugi, CottontailVA, Delutaya, Dtto, Dyarikku, Ebosi, Elia Stellaria, Fefe, Filian, Hachi, Hanazono Serena, Halo Sweety, Hana Sakurai, Hanazawa Nako, Hatoba Tsugu, Hizuki Rurufu, Jean Faymas, Jovilly, Juniper Actias, Kagura Mea, Kagura Nana, Kaguya Luna, Kitanya Nyanta, Kitsui Akari, Komori, Koopa Fortuna, Koragi, Kotonoha Yukino, Kumagai Chisato / Beatani, Lily Hopkins, Lola Loading, Lumituber, Lumi VSinger, Mako Fukasame, Makoto Misaki, Mana Renewal, Meimei Himari, Miilkywayz / Milky, Mikazuki Silvi, Mingqian, Mint Castella, Mint Fantome, Mocca, Moeri, Momo, Monarch AmaLee, Moriko Kyoho, Nanahira, Nanobites, Nekomiya Hinata, Nekota Miya, Nekoyo Chloe, Neuro-sama, Nimu, Nina Saotome, Noir, Numi, Okuri Sae, Omocat, Onigiri, Osakana Nemu, PapitasVT, Peachhana, Pochimaru, PorcelainMaid / Jowol, Punkalopi, Quon Tama, Reiny, Reiyu GuiGui, Ririsya, Rosedoodle, Rurudo, SaaVtuber, Sakura Aoi, Sansin Jin, Saruei, Shanoa, Shigure Ui, Shinonome Megu, Shirahiko, Shondo / Fallenshadow, Shylily, Shwaa, Sinder, Sister Abigail / Abigail Dovely, Skyler Reach, Sonii, Sora Orbit, Squchan, Suri Mukeki, Tanaka Cosmic Sora, Tenjin Kotone, Tobi Inoue, Tomari Mari, Trickywi, Umami-Chan, Vesperbell Kasuka, Vesperbell Yomi, Vexoria the Sun Eater, ViennaC9, Whiskey Project, YFU Baby, Yomeguri Hana, Youyi
+	Ai Candii, AdcVR, Agano Mai, Aka Inside Mk3, Akira Mazono, Akira Misaki, Akumi Yoclesh, Alice Mana, Amatsuka Uto, Anny, Ariduka Formica, Artemis of the Blue, Asano Ruri, AuraGX, AuroraLiveVR / Serafina, Ayamy, Baka Sae, Bao, Batata Com Pepino, Beryl LeRou, Buffpup, C-chan, Chimugi, CottontailVA, Delutaya, Dtto, Dyarikku, Ebosi, Elia Stellaria, Emikukis, Fefe, Filian, Hachi, Hanazono Serena, Halo Sweety, Hana Sakurai, Hanazawa Nako, Hatoba Tsugu, Hizuki Rurufu, Jean Faymas, Jovilly, Juniper Actias, Kagura Mea, Kagura Nana, Kaguya Luna, Kitanya Nyanta, Kitsui Akari, Komori, Koopa Fortuna, Koragi, Kotonoha Yukino, Kumagai Chisato / Beatani, Lily Hopkins, Lola Loading, Lumituber, Lumi VSinger, Mako Fukasame, Makoto Misaki, Mana Renewal, Meimei Himari, Miilkywayz / Milky, Mikazuki Silvi, Mingqian, Mint Castella, Mint Fantome, Mocca, Moeri, Momo, Monarch AmaLee, Moriko Kyoho, Nanahira, Nanobites, Nekomiya Hinata, Nekota Miya, Nekoyo Chloe, Neuro-sama, Nimu, Nina Saotome, Noir, Numi, Okuri Sae, Omocat, Onigiri, Osakana Nemu, PapitasVT, Peachhana, Pochimaru, PorcelainMaid / Jowol, Punkalopi, Quon Tama, Reiny, Reiyu GuiGui, Ririsya, Rosedoodle, Rurudo, RyumiVT, SaaVtuber, Sakura Aoi, Sansin Jin, Saruei, Shanoa, Shigure Ui, Shinonome Megu, Shirahiko, Shondo / Fallenshadow, Shylily, Shwaa, Sinder, Sister Abigail / Abigail Dovely, Skyler Reach, Sonii, Sora Orbit, Squchan, Suri Mukeki, Tanaka Cosmic Sora, Tenjin Kotone, Tobi Inoue, Tomari Mari, Trickywi, Umami-Chan, Vesperbell Kasuka, Vesperbell Yomi, Vexoria the Sun Eater, ViennaC9, Whiskey Project, YFU Baby, Yomeguri Hana, Youyi
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------

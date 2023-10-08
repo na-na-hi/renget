@@ -13,7 +13,7 @@ Like she said, she’ll figure something out.
 · | ->· ->
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
-**Species:** Marshtomp | **Affiliation:** N/A
+**Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 50₽ | **Glorious Gold:** 0 Bars
@@ -65,14 +65,17 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
+Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
+Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
 .
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
@@ -87,7 +90,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Oran Berry | Heals the user for 10 HP.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. TM Round | Teaches the move Round.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

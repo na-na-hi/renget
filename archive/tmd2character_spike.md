@@ -58,9 +58,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
 
 
 **INVENTORY (4 slots)**

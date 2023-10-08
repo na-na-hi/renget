@@ -50,8 +50,8 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 10 points to spend.
-    10/12 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 20 points to spend.
+    0/12 IP | ▯▯▯▯▯▯▯▯▯▯
 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -84,8 +84,8 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Grass Gummi	| Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
+4. Sky Gummi | Gives +10 IQ points to Flying-Types. Gives +5 to other types. Tastes like marshmallows.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

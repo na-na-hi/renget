@@ -6,7 +6,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 · | ->· ->
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
-**Species:** Goomy | **Affiliation:** Unaffiliation
+**Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 6 | **Experience to Next Level:** 60/50
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 580₽ | **Glorious Gold:** 0 Bars
@@ -95,6 +95,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item |+Rope | A strong and sturdy rope. Used for rope stuff. About 7 feet long.
+
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description

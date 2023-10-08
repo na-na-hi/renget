@@ -8,8 +8,8 @@
 ##->  XMLK Adventurer's Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
--> Send a cute m/f kobold, feedback and suggestions! Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
--> I appreciate your support and read every email and try to implement your suggestions and findings in my prompts. <-
+-> Cute kobold, feedback and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
+->  <-
 #
 
 #
@@ -19,23 +19,17 @@
 # 
 
 ⠀
-⠀
--> ~*If you don't see images - the catbox is down!*~ <-
-⠀
+-> ~*I appreciate your support and try to implement your suggestions and findings in my prompts. If you don't see images - the catbox is down!*~ <-
 ⠀
 ⠀
-- - -
-######
--> Now I have a [boosty page](https://boosty.to/xmlk). You can support me there and [vote for a Claude prompt version](https://boosty.to/xmlk/posts/13701266-40f2-4b25-8d35-33d7c4bbeb62?share=post_link) you use! <-
-######
-- - -
-######
--> **==GPT-AP-3 IS OUT==** <-
-######
-- - -
 
+- - -
+######
+-> [![](https://files.catbox.moe/45722y.png)](https://rentry.co/CharacterProvider#choose-your-claude-prompt) ⠀ [![](https://files.catbox.moe/26svcm.png)](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <-
+######
+- - -
 ##ReadMe
-*This is just an info section. Pleasem read it to understand what it's all about.*
+*This is just an info section. Please read it to understand what it's all about.*
 ######1. PROGRESS MAP
 Please, if you've managed to achieve an output like the one described below, or have a great prompt or idea, send it to me and I will try to implement it.
 
@@ -44,7 +38,7 @@ What I'm trying to achieve with `GPT-AP-3+` version right now:
 ❓ 1. Make AI play along the grim side of the RP encouraging it, and avoid making it wholesome or writing phrases like: "This is so wrong, but so nice".
 ☑️ 2. Sexualize descriptions on the flat. (For the feeling of erotic adventures)
 ☑️ 3. Write like in RPG games based on the player's actions, the world around them and the result of their actions.
-☑️ 4. Characters should comment on how they feel during sex (Not just "Oh, yeah, harder!" but like in hentai, talk through their sensations.
+☑️ 4. Characters should comment on how they feel during sex (Not just "Oh, yeah, harder!" but like in hentai, talk through their sensations)
 ❓ 5. Materialize relevant items from their inventory as if it's filled with something.
 ❓ 6. The background should have something going on and someone in the background, but ONLY when it's appropriate.
 ☑️ 7. Absence of door knocking. Reduced, but might be better.
@@ -52,7 +46,7 @@ What I'm trying to achieve with `GPT-AP-3+` version right now:
 ☑️ 9. Descriptions of objects and signs in detail as in games.
 ❓ 10. Descriptions of some important things with short inserts from the author. - *he removed the fuse (the little rivet on the right side of the case)*.
 ❓ 11. Make characters follow prescribed quests from their cards or a special section, and bring it up by themselves into the story.
-❓ 12. Inventivnes with characters' actions (during sex too). Make characters to come up with ideas and say things like: "Oh, let's try a foot-job!", "No, we go that way, I have a better idea." 
+❓ 12. Inventivnes with characters' actions (during sex too). Make characters to come up with ideas and say things like: "Oh, let's try a foot-job!", "No, we go that way, I have a better idea." and use the world around them and their abilities. (e.g. move furniture around to reach high places, use magic and come up with spells)
 ❓ 13. Make AI add X-ray descriptions during sex and the strains of penetration. (e.g. a womb squish or a bulge from penetration)
 ❓ 14. High quality flirt and romantics.
 ☑️ 15. Great characterization and following of their descriptions.
@@ -70,7 +64,7 @@ All these points must happen on their own with initiative from AI with no OOCs o
 • Be sure to take rests between *khm* sessions and mind your health. Stop if you are uncomfortable or feel pain/discomfort. I am really-really serious. Dead serious.
 • WARNING: Be careful while using custom proxy builds.
 
-######3. INDENDED USAGE:
+######3. INTENDED USAGE:
 You may find these prompts useful if you want:
 • An immersive and interactive output.
 • Go on an adventure with your character.
@@ -84,15 +78,16 @@ These prompts are garbage if you want:
 • Political satire. (why???)
 • Guro. (untested)
 
-If you have issues with you output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations). I explained how to prevent:
-• Structure loops.
-• Context loops. (will be added soon)
-• AI writing as {{user}}. (Bad card issue - will be added soon)
-• Generally bad output. ("Ah, ah, mistress" issue - will be added soon)
+If you have issues with your output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations). I explained how to prevent:
+• Structure loops. (Problem: Repetition of same structured massages)
+• Context loops. (Problem: Lack of context - will be added soon)
+• AI writing as {{user}}. (Problem: Bad card issue - will be added soon)
+• Generally bad output. (Problem: "Ah, ah, mistress" issue - will be added soon)
 
-> Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain.
+> Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain. Also I am sorry for some design inconsistences, this rentry is constantly evolving.
 
 ######4. ABOUT PROMPTS AND VERSIONS:
+• Mostly these are variations of the same prompt.
 • Group chats and setting cards may not work with my prompts.
 • Claude Prompts are intended for 100k models.
 • GPT Prompts are made for 8k-32k models.
@@ -122,8 +117,6 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 
 **Q:** Is... Is this a placebo!?
 **A:** It's not. Prompts with powerful words and sentences may have a significant impact on output.
-**Q:** But my sex scenes are the same! And sometimes it loops!
-**A:** Prompts are mostly intended for Adventures and inventiveness. Claude will try to come up with events and situations while keeping its character. It will also add NPCs and surroundings in certain versions. Well, and sex scenes may sometimes become *inventive* too. Just beware of knocks in door... If it loops it's either because of LLM's abilities or... your input looks like "I continue doing what I am doing" or you are in the same scene for too long or the LLM lacks enough context. Try something complex, change scene, skip time, write an OOC request.
 
 **Q:** Why do you divide rules in parts and use JB & prefill?
 **A:** Dividing is for user to easy modify the rules. Rules (Guidelines) section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. LLMs are ridiculous at the moment... 

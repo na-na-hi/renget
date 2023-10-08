@@ -59,17 +59,20 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
+Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
+Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: None  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Attribute: None  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
-Battle Attribute: None  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Battle Attribute: None  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: None **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: None | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 6/9 | ▮▮▮▮▮▮▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 STAT) | 6/9 | ▮▮▮▮▮▮▯▯▯
+Stat: Defense **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

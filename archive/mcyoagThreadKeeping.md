@@ -540,6 +540,7 @@ Page 1
 >Ignore the mandatory drawback requirements listed on some Perks (Enhanced Bodyfags better watch their backs)
 >You must throw tomatoes at soulless powergaming builds
 
+Rentry: https://rentry.org/7g5hi (edit code: nart2)
 
 Build List:
 >S-Rank:
