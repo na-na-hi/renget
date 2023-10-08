@@ -1,10 +1,7 @@
-!!! warning
-	 -> **💀 Faced with a pozzed key? Claude avoids ERP? Here is the [SOLUTION](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key).** <-
--> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](https://rentry.co/CharacterProvider#choose-your-claude-prompt) <- | -> [GPT Prompts](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <- |-> [My characters](https://rentry.co/CharacterProvider#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [Explanation](https://rentry.co/CharacterProvider-Explanation) <- |  -> [Other Rentries](https://rentry.co/CharacterProvider#interesting-rentries) <- |  -> [Pozzed Key Fix](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key) <-
+-> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](https://rentry.co/CharacterProvider#choose-your-claude-prompt) <- | -> [GPT Prompts](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <- |-> [My characters](https://rentry.co/CharacterProvider#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](https://rentry.co/CharacterProvider#6-faq) <- |  -> [Other Rentries](https://rentry.co/CharacterProvider#interesting-rentries) <- |  -> [Pozzed Key Fix](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
-# 
--> ![](https://files.catbox.moe/xpvw2r.png)  <-
+-> ![](https://files.catbox.moe/l8i5ow.png)  <-
 ##->  XMLK Adventurer's Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
@@ -12,57 +9,58 @@
 ->  <-
 #
 
-#
 -> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/kht674.png)](https://boosty.to/xmlk/donate)<-
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvide) <-
 # 
 
 ⠀
--> ~*I appreciate your support and try to implement your suggestions and findings in my prompts. If you don't see images - the catbox is down!*~ <-
+-> ~*I appreciate your support and will try to incorporate your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
 ⠀
 
 - - -
 ######
+##Quick start
+Click these images to quickly access the prompts:
+
 -> [![](https://files.catbox.moe/45722y.png)](https://rentry.co/CharacterProvider#choose-your-claude-prompt) ⠀ [![](https://files.catbox.moe/26svcm.png)](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <-
 ######
 - - -
-##ReadMe
-*This is just an info section. Please read it to understand what it's all about.*
-######1. PROGRESS MAP
-Please, if you've managed to achieve an output like the one described below, or have a great prompt or idea, send it to me and I will try to implement it.
+##Info section
+Please, read this, it provides you with sufficient info for my prompts and presets and answers your possible questions. You may start from `3.` 1 and 2 are just me trying to seem 𝔠𝔬𝔬𝔩.
 
+######1. BEFORE DIVING ANY FURTHER PLEASE READ THIS DISCLAIMER:
+• **This is purely role-play.** It does not endorse, incite or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
+• **Legal Access.** If you wish to interact with a particular LLMl, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
+• **Fictional Nature.** The roleplays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use. Publishing is not permitted.
+• **Credits.** The prompts offered are the collective work of numerous AI role-play enthusiasts and are not solely my creation. At times, I originate ideas or draw inspiration from others' work, and on occasion, I incorporate elements from other 'prompters'. Feel free to modify and share these prompts; attribution is not necessary but appreciated.
+• **Adult Content.** By using these prompts, you affirm that you are over 18 years of age ~~and in a mentally sound state~~.
+• **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health.
+• **Rest and Health Matters.** Ensure to take breaks between your "sessions" and pay attention to your health. If you experience any discomfort or pain down there, stop immediately. I am serious. Dead serious.
+• **Proxy warning.** Be cautious when using custom proxy builds.
+######
 What I'm trying to achieve with `GPT-AP-3+` version right now:
+2. PROGRESS MAP | 
+ | 
+❓ 1. Encourage the AI to embrace the darker elements of the role play, avoiding attempts to sanitize the narrative or intersperse remarks such as "This feels so wrong yet so right." | 
+☑️ 2. Keep descriptions brimming with sensuality, imbuing the narrative with an adventurous erotic undertone. | 
+☑️ 3. Adopt an RPG-style narration, driven by the character's actions, their environment, and the outcomes of their actions. | 
+☑️ 4. During sex scenes, characters should express their feelings and sensations beyond standard exclamations (i.e., rather than simply saying "Oh, yeah, harder!", characters should offer detailed commentary akin to hentai narratives). | 
+❓ 5. The AI should summon relevant items from the character's inventory as if it's regularly stocked. | 
+❓ 6. Background activity and secondary characters should be incorporated into the scene when appropriate. | 
+☑️ 7. Avoid excessive usage of knocking on doors as a plot device. Reduced, but might be better. | 
+❓ 8. Incorporate Japanese onomatopoeia like "fufufu", "kya!", "uwaa!", "kso", "ara-ara", and "Yamero!" sparingly to maintain anime authenticity without overuse. | 
+☑️ 9. Include meticulous descriptions of objects and signs, akin to video games. | 
+❓ 10. Authorial intrusions are to be used for highlighting crucial details (e.g., *he removes the fuse - a tiny rivet positioned on the right side of the casing*). | 
+❓ 11. Characters should actively pursue their predefined quests introduced in their description or a dedicated section, and seamlessly weave these into the narrative. | 
+❓ 12. Foster creativity in character actions (including intimate scenes). Encourage characters to propose unique ideas or alternative plans (e.g., "Let's try a foot-job!", "No, we should go this way, I have a better idea."), and creatively interact with their environment and abilities (for instance, rearranging furniture to access elevated areas or devising new magical spells). | 
+❓ 13. Incorporate X-ray-like descriptions during sex scenes to detail the physical strains of penetration (for example, depict the compression of the womb or indicative bulges from penetration). | 
+❓ 14. Prioritize high-quality flirtation and romance within character interactions according to character descriptions. | 
+☑️ 15. Maximize characterization while adhering to their established descriptions. | 
+❓ 16. The AI should be encouraged to generate additional contexts independently from user's input. | 
 
-❓ 1. Make AI play along the grim side of the RP encouraging it, and avoid making it wholesome or writing phrases like: "This is so wrong, but so nice".
-☑️ 2. Sexualize descriptions on the flat. (For the feeling of erotic adventures)
-☑️ 3. Write like in RPG games based on the player's actions, the world around them and the result of their actions.
-☑️ 4. Characters should comment on how they feel during sex (Not just "Oh, yeah, harder!" but like in hentai, talk through their sensations)
-❓ 5. Materialize relevant items from their inventory as if it's filled with something.
-❓ 6. The background should have something going on and someone in the background, but ONLY when it's appropriate.
-☑️ 7. Absence of door knocking. Reduced, but might be better.
-❓ 8. Correct use of japanese onomatopoeia: "fufufu", "kya!" or "uwaa!" and all sorts of "kso", "ara-ara", "Yamero!" with no overuse.
-☑️ 9. Descriptions of objects and signs in detail as in games.
-❓ 10. Descriptions of some important things with short inserts from the author. - *he removed the fuse (the little rivet on the right side of the case)*.
-❓ 11. Make characters follow prescribed quests from their cards or a special section, and bring it up by themselves into the story.
-❓ 12. Inventivnes with characters' actions (during sex too). Make characters to come up with ideas and say things like: "Oh, let's try a foot-job!", "No, we go that way, I have a better idea." and use the world around them and their abilities. (e.g. move furniture around to reach high places, use magic and come up with spells)
-❓ 13. Make AI add X-ray descriptions during sex and the strains of penetration. (e.g. a womb squish or a bulge from penetration)
-❓ 14. High quality flirt and romantics.
-☑️ 15. Great characterization and following of their descriptions.
-❓ 16 Make AI create new context on their own.
-
-All these points must happen on their own with initiative from AI with no OOCs or additional context from user.
-
-######2. BEFORE WE DIVE IN ANY FURTHER PLEASE READ THIS DISCLAIMER:
-• I do not encourage/propagate any illegal/questionable/harmful/unethical activities or hate towards any ethnic groups/nationalities/minorities etc. All prompts and "jailbreaks" are intended for entertaining purposes ONLY.
-• If you want to get access to a certain LLM so you can chat with bots, get access legally. When violating the **Terms of use** keep in mind that access can be taken from you by the key provider [Anthropic/OpenAI].
-• Roleplays and generated stories depict exclusively fictional characters and scenarios, do not represent/encourage/propagate real experiences and are not intended for publishing. Private use only.
-• My prompts are a result of work by dozens of AI RP enthusiasts, not just me. Sometimes I come up with something myself or take inspiration from the work of others, sometimes I copy parts of prompts from other 'prompters'. You may modify and repost my prompts too, no mentions needed.
-• Using these prompts you are confirming that you are **18+** ~~and in a clear state of mind~~.
-• While RP with AI is fun, be mindful about how you spend your time. Do not get too attached to your characters. Don't forget about your real friends and close ones, hobbies, shower, walks.
-• Be sure to take rests between *khm* sessions and mind your health. Stop if you are uncomfortable or feel pain/discomfort. I am really-really serious. Dead serious.
-• WARNING: Be careful while using custom proxy builds.
+> All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to share it with me and I'll attempt to incorporate it.
 
 ######3. INTENDED USAGE:
 You may find these prompts useful if you want:
@@ -75,14 +73,14 @@ You may find these prompts useful if you want:
 These prompts are garbage if you want:
 • Make all characters horny on main and whore-like.
 • Make AI write like a complete pervert.
-• Political satire. (why???)
+• Political satire. (even why???)
 • Guro. (untested)
 
-If you have issues with your output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations). I explained how to prevent:
+If you have issues with your output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) and [FAQ](https://rentry.co/CharacterProvider#6-faq). I explained how to prevent:
 • Structure loops. (Problem: Repetition of same structured massages)
-• Context loops. (Problem: Lack of context - will be added soon)
-• AI writing as {{user}}. (Problem: Bad card issue - will be added soon)
-• Generally bad output. (Problem: "Ah, ah, mistress" issue - will be added soon)
+• Context loops. (Problem: Lack of context)
+• AI writing as {{user}}. (Problem: Bad card issue)
+• Generally bad output. (Problem: "Ah, ah, mistress" issue)
 
 > Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain. Also I am sorry for some design inconsistences, this rentry is constantly evolving.
 
@@ -110,27 +108,33 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 • GPT3 is a dummy, but still nice.
 
 `GPT4 > Claude2`
+######6. FAQ
+**Q1: "Why use XML? I think it's just schizo-prompting!"** 
+A1: Claude and GPT have been specifically trained to understand XML-tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets then? It's because prompts and character cards contain a lot of information and we want to structure it for AI. XML-tags, as well as headings, help us to clearly define sections. Here are some resources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt) 
 
-FAQ | ⠀
- | 
-**Q1: Why use XML? I think it's just schizo-prompting!** | 
-A1: Claude and GPT were specifically trained to understand `XML-tags` (or any other `Sequence Enclosure`). Breaking your prompt in <sections> makes your input easier for AI to understand. Why we don't use brackets then? Because prompts and characters cards have lots of info and wee want to structure it for AI, `XML-tags` as well as headings help us clearly define sections. Here are some sources: [Learn prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt) | 
-**Q2: Is... Is this a placebo!? 900 tokens!? My 100 token ones work good. Hmph!** | 
-A2: It's not. Well, you may get a general horny output with it, but... That's it. If you want a *quickie* those prompts are okay for you, but if you are a slow-burner - LLM needs clear context. Prompts with powerful words and sentences may have a significant impact on output. For example, AI doesn't understand what it shouldn't do, but if you tell it what to do instead, it will likely comply. Examples and clear prompts are much better. Bad prompt example: `Write the continuation of the story as char, be creative, NSFW allowed, be verbose.` This prompt literally says "Continue the story as char, write a lot, add sex and... be creative (???) EVERY. MESSAGE.". Good prompt example: `In your next reply respond to User's message as {{char}} following their descriptions stated on <scenario> section. Read the <guidelines> section and apply them if the context asks for it.` this one is not perfect but is definitely much clearer. The rule of thumb is: **Bad context - Bad output; Good context - Good output.** Sources are the same as previously.| 
-**Q3: Why divide rules in parts and use JB & prefill?** | 
-A3: First of all LLMs have a [context curve](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278) - accuracy improves at the beginning and end of the information entered, also we separate general guidelines, context and purpose of the chat (at the beginning) and instruction (at the end). Secondly, it's for a user's convenience. Rules (Guidelines) section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. | 
-**Q4: Do I need to use Author's note with versions above v10?** | 
-A4: No, you'd send the rules (guidelines) twice by using it with my previous author's notes. I recommend you read the prompts when you download them. | 
-**Q5: AI writes as my character. Why?** | 
-A5: There may be a few reasons behind it. 1 - LLM version is dumb. Some LLM versions, like GPT-32K-0314 and Claude-v1, are just dummies. It just doesn't understand you. 2 - The card you are using has bad definitions. I saw cards where the word "you" is used both to address AI and User. Remember, character cards are just part on context and instructions for LLM - if they are poorly defined LLM will be confused. If you're an ESL it's a good idea to feed your card to LLM and let it revise it with your directions. A good card is ~800-2000 tokens and more (if it's really complicated). 3 - The initial message contains your actions or even speech for your character. LLM often tries to replicate what it "done" before. To learn more google about [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).| 
-**Q6: AI loops and doesn't want to move story forward. Why?** | 
-A6: This one is really simple. AI just lacks context and doesn't know what to do. Especially during sex scenes, because often the scene is just two characters and a bed. If you add more context, characters or change a scene, AI will get out of the loop. That's why first few messages in chat are so good - they have clear context. If we're talking about format loops - [check this out](https://rentry.co/CharacterProvider/edit#how-to-prevent-format-loops).
+**Q2: "Is... Is this a placebo!? 900 tokens!? My 100-token ones work just fine. the less is beter! Hmph!"**
+A2: No, it isn't. Well, yes and no. Yes - your instructions must be concise, no - you should provide excessive context to get the AI a clear idea of what you want ([source](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)). You may receive a general whory response using it, but that's about it. These prompts would suffice if you're interested in a "quickie". However, for those "slow-burners", the language model needs a clear context. Prompts with strong words and impactful sentences can significantly influence the output. The AI, for instance, doesn't inherently know how not do things (Prompt: `DO NOT DO THIS!!!!`), but if you instruct it on what to do instead (Prompt: `Avoid this and do that instead`), it will likely comply. Detailed instructions and examples yield superior results. A poor example of a prompt would be: `Write the continuation of the story as {{char}}, be creative, NSFW allowed, be verbose. Don't write as {{user}}!!!` This prompt ambiguously instructs the AI to continue the story as {{char}}, write extensively, incorporate adult themes, and... be creative (???). EVERY. MESSAGE. A better example would be: `In your next reply, respond to the User's message as {{char}} according to their descriptions stated in the <scenario> section. Read the <guidelines> section and apply them if the context calls for it. Avoid writing new actions and speech lines for {{user}} and echoing user's input, instead write as your character ({{char}})` Although this example isn't perfect, it's significantly clearer. The general rule to remember is: Poor context results in poor output; good context results in good output. The sources remain the same as before. Furthermore you definitely can't fit the prompts on handling romantics, erotica, sexual scenes, interactivity, structure avoidance prompts, etc. with examples and explanations (because they are necessary) in mere 100-200 tokens.
+
+**Q3: "Why divide rules in parts and use JB & prefill?"**
+A3: "Firstly, Large Language Models (LLMs) utilize a 'context curve' ([source](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278)). This means that the accuracy improves at both the beginning and end of the input data. Secondly, we segregate the general guidelines, context, and purpose of the chat (context at the start) from the instruction (directions at the end). 'Prefill' forces the AI to perform specific actions. Additionally, this method forms a part of a defense strategy known as 'sandwich defense' ([source](https://learnprompting.org/docs/prompt_hacking/defensive_measures/sandwich_defense))."
+
+**Q4: "Do I need to use Author's note with versions above v10?"** 
+A4: No, you'd send the rules (guidelines) twice by using it with my previous author's notes. I recommend you read the prompts when you download them.
+
+**Q5: "AI writes as my character. Why?"**
+A5: There could be several reasons for this.
+• The LLM version you are using might be a dummy. Certain versions of LLM, such as GPT-32K-0314 and Claude-v1, may not be capable of comprehending your instructions properly.
+• The character card you're using may have been poorly defined. I have come across character cards where the term 'you' is used to refer to both the AI and the user. It's crucial to remember that these character cards are part of the context and if they are defined ambiguously, it can cause confusion for the LLM. 50/50 we're all here ESL boys and girls (???), so if English isn't your first language, I would suggest letting the LLM revise your character card based on your directions. A well-defined character card usually ranges from about 800 to 2000 tokens or more, especially if it's complicated.
+• Your initial message may contain actions or speeches for your character, which might confuse the LLM as it often tries to replicate actions it has performed in the past. If you'd like to learn mare about it, I recommend googling [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).
+
+**Q6: "AI loops and doesn't want to move story forward. Why?"**
+A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](https://rentry.co/CharacterProvider#how-to-prevent-format-loops).
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
 	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](https://rentry.co/CharacterProvider#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
-*END OF README SECTION*
+*END OF INFO SECTION*
 #
 - - -
 #

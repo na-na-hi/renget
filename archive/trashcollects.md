@@ -993,6 +993,10 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 
 	https://files.catbox.moe/rzqx5o.safetensors
 
+>Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
+
+	https://files.catbox.moe/rzqx5o.safetensors
+
 # Newmouf - Mawshots (Concept)
 >Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
 

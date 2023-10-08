@@ -25,6 +25,9 @@ Aruru Gray | X | - | X
 Neena Makurano | - | - | -
 Sava Safari | X | X | -
 Oceane Otoishi | - | - | -
+Yuno Hanaki | - | - | -
+Ran Tsukiha | - | - | -
+Kaya Nishikino | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -50,6 +53,7 @@ Kson | X | - | X
 Silvervale | X | - | X
 Nyatasha Nyanners | X | - | X
 GeegaVS | X | X | -
+Kuro Kurenai  | - | - | -
 
 ## -> Tsunderia <-
 !!! info Available Loras without the need of updates and have been tested.

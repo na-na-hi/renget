@@ -17,7 +17,7 @@ A great story, characters and setting. On top of that, jank, but fun gameplay th
 Also note that, unlike other gachas, We to have set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of characters being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over.
 
 **4. This game has a required reading list?**
-Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Wonderlab, Distortion Detective, and Leviathan, which are spinoff comics/novels set in the Project Moon Universe.
+Yes. They're not necessary to understanding the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are comics/novels set in the Project Moon Universe.
 [MEGA with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 [Recommended Translations](https://rentry.org/ligmabooks)
 [Full list](https://files.catbox.moe/tgo7m4.png)
@@ -77,7 +77,7 @@ Try to get two Identities on this list. It's unlikely but possible to get 3.
 - ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) Effloresced E.G.O::Spicebush Yi Sang
 - ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) Tingtang Gang Gangleader Hong Lu
 - ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) The One Who Grips Faust
-The only things you can't reroll for are Event Identities and E.G.Os, and Battle Pass E.G.Os.
+The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.Os.
 
 **3. How do I reroll?**
 Rerolling is extremely easy, and the developers have admitted to intentionally making it easy so players can start with what they want.
@@ -250,7 +250,7 @@ The Defense Level is matched against the attacker's Offense Level. When a charac
 This is Resonance (Res). Resonance is achieved when you use 2 or more skills of the same Sin in the same turn. More resonance means more damage, and Resonance is required for some passives to work.
 ![Resonance](https://files.catbox.moe/pkg0a2.png)
 
-This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use 3 or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is often not necessary for passives to work.
+This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use 3 or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is not necessary for passives to work.
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**

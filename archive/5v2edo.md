@@ -1,6 +1,8 @@
 #Mod Archive
 [TOC]
 This is a compilation of archived mods, collected for your convenience. If links do not work, mention it in the thread and it will be fixed soon.
+## 4R1A
+[Build](https://mega.nz/folder/tyMwyYSa#dNG8Vq0uncfx-_W3h5fEXg)
 ## 7QUID
 [5Shrimp](https://drive.google.com/file/d/1FeQSeJDnUw5lkgN84uFpEaty7qfXiV1m/view?usp=drivesdk)
 [Early song drafts and assets](https://files.catbox.moe/u98sx2.rar)
@@ -21,10 +23,16 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Derpixon Mod Download](https://files.catbox.moe/zx0cr9.rar)
 ## Flippy: Flipped Out!
 [Flippy: Flipped Out! Dev Build Download](https://mega.nz/file/iI0UGJ7A#ljsovjiT-06zs9XC49j-Ze7rS2HoNtbDC7OsLFTA7ak)
+## FNF x Maid Dragon
+[Dev Build](https://www.mediafire.com/file/v8kgp4u4u6n867f/maid.rar/file)
 ## FNF: ZERO
 [FNF: ZERO Download](https://www.mediafire.com/file/4co7pfki8v2kgqw/FNF_ZERO.zip/file)
 ## Funkin at Freddy's
 [Old V2 Build](https://www.mediafire.com/file/0lz0awng2vvietg/faf.rar/file)
+## Goblin Files
+[Concepts and Plans](https://files.catbox.moe/9mdt40.rar)
+[Tricky Files/Concepts](https://files.catbox.moe/a6snfp.rar)
+[Tricky Sound Files](https://files.catbox.moe/iw4fyw.rar)
 ## Koi V4
 [Koi V4 Download](https://drive.google.com/file/d/1ZnOHVz-NJpkEIx_NQwDgW6mUAMCBUZN-/view)
 ## Kromer Konundrum (Original)
@@ -45,6 +53,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 ## Ourple Guy
 [Guy FLP](https://files.catbox.moe/bycwkj.zip)
 [Lore V1 FLP](https://files.catbox.moe/33dae6.zip)
+## Rappets
+[Leaked Build](https://mega.nz/file/3xk2XbIY#dXqTK6FQGwmPkrOeEneujU5lrusHdXlaO-6LzsRxDRg)
 ## Reskins
 [Chef GF](https://files.catbox.moe/bhvic7.zip)
 [Rapper GF](https://files.catbox.moe/suwp8x.zip)
