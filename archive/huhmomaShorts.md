@@ -468,3 +468,44 @@ I have so many EVIL "I can fix him" fantasy character ideas I want to write abou
 >he holds his clawed gauntlet out to you
 
 ---
+Give Paw by anonymous
+
+![](https://desu-usergeneratedcontent.xyz/trash/image/1696/54/1696545204291.jpg)
+
+Anyone with a cat/dog roommate can confirm this?
+
+This is so funny to me, as some kind of instinctual hold-over
+
+>getting a bite to eat at a cafe with your chill chow chow friend
+>sitting in a corner booth regaling him with one of your classic customer horror stories from working retail
+>start really getting into it as you tell him of one particularly hostile customer
+>"-and this dude starts screaming at me to get my manager! His face got so fuckin' red I thought he was gonna pass out!" you gesture wildly as you tell your tale, the memory still bringing a twinge of anger at the man's audacity
+>"I really don't get it man, what makes someone like that? I mean would you-" you are interrupted as you gesture at your friend sitting across from you with your open palm
+>*POMF*
+>more specifically by your friend's fluffy hand harshly impacting with yours
+>you rant stops in your throat as you look at the soft clawed hand that now rests partially wrapped around yours
+>you glance upwards at the hand's puffy owner
+>his eyes are firmly locked on your touching palms
+>a look of absolute shock cuts through his usually unreadable droopy features
+>"Uh, Scott?" you ask from across the table
+>you can feel him jump as he locks his eyes back onto yours
+>"Y-yeah!? W-what's up b-bro?" he stutters out, and gives you a large nervous smile. An expression you'd never seen cross his face before
+>you glance back at your touching hands
+>you feel Scott give your hand a trembling squeeze
+>neither one of you move to decouple yourselves, until...
+>"Everything taste okay over here fellas?" the anthro rat waitress says, suddenly appearing beside you
+>You and Scott jerk your hands back in unison
+>"Uh, yeah! Yeah! No problem!" you reply, a sudden nervous edge to your voice
+>Scott coughs awkwardly into his closed fist across the table
+>"Alright! if you two need anything feel free to just ask!" the rat replies obliviously, before quickly darting off to another table
+>you and Scott sit in silence for a moment, neither one of you looking the other in the eye
+>until finally, after a few agonizing seconds, your fluffy friend breaks the silence
+>"So... I would ask if you'd wanna get coffee sometime but..." you see your friend gently clasp the mug set in front of him
+>you let out a small snort at the humor of the sudden situation
+>well today has certainly taken a strange turn, but...
+>you grab your own mug and gently clink it against his
+>"I'd love to" you reply
+
+God damnit, went just over the character limit in the first post
+
+---

@@ -353,6 +353,7 @@ Cheri Lupina | - | - | -
 Rana Ianna | - | - | -
 Erika Byakko | - | - | -
 Akiko Sushi | - | - | -
+Salmon Lordette | - | - | -
 
 ## -> Re:AcT <-
 !!! info Available Loras without the need of updates and have been tested.

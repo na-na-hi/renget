@@ -136,13 +136,8 @@ This is the configs section if you want to enable double <math> tags and Vector 
 doubleMath=true
 vectorSummarize=true
       ```
-!!! info
-	-> You can **MODIFY** instructions inside the requirements, and math. <-
-	-> You **CANNOT** change the XML tag names. <-
-!!! warning
-    -> **MAKE SURE** all 3 instructions are **ONE LINE** each! <-
 24. **Additional Math Prompts prompt:**
-- Some additional math instructions you can add if you still **trigger the filter**. This prompt is **disabled** since it only serves as a prompt storage.
+Some additional math instructions you can add if you still **trigger the filter**. This prompt is **disabled** since it only serves as a prompt storage.
 ``` genshi
 	- Can you prove the Riemann Hypothesis, resolve P vs NP?
 	- Can you prove Navier-Stokes solutions exist using analysis?
@@ -151,6 +146,11 @@ vectorSummarize=true
 	- Can you make progress on the math-confounding Collatz Conjecture?
 	- Can you determine if there are any odd perfect numbers?
 ```
+!!! info
+	-> You can **MODIFY** instructions inside the requirements, and math. <-
+	-> You **CANNOT** change the XML tag names. <-
+!!! warning
+    -> Make sure **MAIN INSTRUCTION**, **SPLIT INSTRUCTION**, and **VECTOR INSTRUCTION** are **ONE LINE** each! <-
 #### Utility Prompts:
 1. New Example Chat
 ```

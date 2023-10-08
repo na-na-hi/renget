@@ -289,6 +289,13 @@ https://rentry.org/jinxbreaks
 https://github.com/CncAnon1/TurboFinetuneRP
 - how to fine-tune gpt-3.5-turbo-0613 for roleplay
 
+https://github.com/Buhankoanon/OAI_API_Checker (outdated: doesn't check alternative oai orgs and treats billing_not_active keys as dead)
+https://github.com/CncAnon1/kkc (more up to date)
+-  OpenAI key checkers
+
+https://github.com/Definetelynotbranon/Anthropic_API_Checker/
+- Claude/Anthropic key checker
+
 ***
 
 !!! info

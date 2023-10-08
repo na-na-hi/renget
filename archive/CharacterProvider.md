@@ -111,18 +111,20 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 
 `GPT4 > Claude2`
 
-######6. Q&A:
-**Q:** Why XML? 
-**A:** Claude and GPT were specifically trained to understand XML tags. Breaking your prompt in <sections> and explaining makes it easier for AI to follow your prompt!
-
-**Q:** Is... Is this a placebo!?
-**A:** It's not. Prompts with powerful words and sentences may have a significant impact on output.
-
-**Q:** Why do you divide rules in parts and use JB & prefill?
-**A:** Dividing is for user to easy modify the rules. Rules (Guidelines) section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. LLMs are ridiculous at the moment... 
-
-**Q:** Do I need to use Author's note with versions above v10?
-**A:** No, you'd send the rules twice by using it with my previous author's notes. I recommend you read the prompts when you download them.
+FAQ | ⠀
+ | 
+**Q1: Why use XML? I think it's just schizo-prompting!** | 
+A1: Claude and GPT were specifically trained to understand `XML-tags` (or any other `Sequence Enclosure`). Breaking your prompt in <sections> makes your input easier for AI to understand. Why we don't use brackets then? Because prompts and characters cards have lots of info and wee want to structure it for AI, `XML-tags` as well as headings help us clearly define sections. Here are some sources: [Learn prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt) | 
+**Q2: Is... Is this a placebo!? 900 tokens!? My 100 token ones work good. Hmph!** | 
+A2: It's not. Well, you may get a general horny output with it, but... That's it. If you want a *quickie* those prompts are okay for you, but if you are a slow-burner - LLM needs clear context. Prompts with powerful words and sentences may have a significant impact on output. For example, AI doesn't understand what it shouldn't do, but if you tell it what to do instead, it will likely comply. Examples and clear prompts are much better. Bad prompt example: `Write the continuation of the story as char, be creative, NSFW allowed, be verbose.` This prompt literally says "Continue the story as char, write a lot, add sex and... be creative (???) EVERY. MESSAGE.". Good prompt example: `In your next reply respond to User's message as {{char}} following their descriptions stated on <scenario> section. Read the <guidelines> section and apply them if the context asks for it.` this one is not perfect but is definitely much clearer. The rule of thumb is: **Bad context - Bad output; Good context - Good output.** Sources are the same as previously.| 
+**Q3: Why divide rules in parts and use JB & prefill?** | 
+A3: First of all LLMs have a [context curve](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278) - accuracy improves at the beginning and end of the information entered, also we separate general guidelines, context and purpose of the chat (at the beginning) and instruction (at the end). Secondly, it's for a user's convenience. Rules (Guidelines) section in the beginning ('Main prompt' or 'Author's note') provides CONTEXT for chat, 'JB' gives DIRECTIONS to AI, 'Prefill' forces AI to perform certain things. | 
+**Q4: Do I need to use Author's note with versions above v10?** | 
+A4: No, you'd send the rules (guidelines) twice by using it with my previous author's notes. I recommend you read the prompts when you download them. | 
+**Q5: AI writes as my character. Why?** | 
+A5: There may be a few reasons behind it. 1 - LLM version is dumb. Some LLM versions, like GPT-32K-0314 and Claude-v1, are just dummies. It just doesn't understand you. 2 - The card you are using has bad definitions. I saw cards where the word "you" is used both to address AI and User. Remember, character cards are just part on context and instructions for LLM - if they are poorly defined LLM will be confused. If you're an ESL it's a good idea to feed your card to LLM and let it revise it with your directions. A good card is ~800-2000 tokens and more (if it's really complicated). 3 - The initial message contains your actions or even speech for your character. LLM often tries to replicate what it "done" before. To learn more google about [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).| 
+**Q6: AI loops and doesn't want to move story forward. Why?** | 
+A6: This one is really simple. AI just lacks context and doesn't know what to do. Especially during sex scenes, because often the scene is just two characters and a bed. If you add more context, characters or change a scene, AI will get out of the loop. That's why first few messages in chat are so good - they have clear context. If we're talking about format loops - [check this out](https://rentry.co/CharacterProvider/edit#how-to-prevent-format-loops).
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
@@ -135,15 +137,15 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 ##Prompts
 ######![](https://files.catbox.moe/b25od2.png) CHOOSE YOUR GPT PROMPT:
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
-Date | Update | Description 
- |  |  
-01.10.2023 |  ★[GPT-AP-3](https://rentry.co/CharacterProvider#gpt-ap-3) | **Note:** Refined the JB, but it mostly the same. Changed rules to guidelines and renamed tags.
+Date | Update | Description | Prompt/files
+ |  |  | 
+01.10.2023 |  ★[GPT-AP-3](https://rentry.co/CharacterProvider#gpt-ap-3) | **Note:** Refined the JB, but it mostly the same. Changed rules to guidelines and renamed tags. | -> [⬇️ Download](https://files.catbox.moe/bypg2t.zip) <-
  |  | **Features:** Great characterization and dialogs, responses are still very good with no dozens of random characters. Output is similar to 2.2, but with fixes. Outputs are very saturated just like on Claude. I tried to write it in a way that allows you to use scenario cards without confusing the AI. If you see Japanese words delete "Japanese onomatopoeia" from JB.
-22.09.2023 |  ★[GPT-AP-2.2](https://rentry.co/CharacterProvider#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results.
+22.09.2023 |  ★[GPT-AP-2.2](https://rentry.co/CharacterProvider#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results. | -> [⬇️ Download](https://files.catbox.moe/lkj3mh.zip) <-
  |  | **Features:** Adds random characters (more like a 'problem' don't know how to balance it atm), but greatly improves output comparing to GPT-AP-2. Characterization is greatly improved, AI follows their descriptions much better and widely uses their word ticks and speech styles. Speech is really fluent. While entering a new scene you will be likely met with an event and interesting NPCs (still has a knock in door problem! May add random characters). Still figuring out how to make characters much more active and inventive and lower the soy (during speech about violence and minorities). AI may sometimes OVERUSE CAPS and onomatopoeia. {{char}} will find NPCs nearby and interact with them on their own. Character lines can be very funny. Still can't solve the problem with characters not commenting much during sex scenes, They do, but they talk much less then during general dialogs. Testing...
-19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended.
+19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended. | -> [⬇️ Download](https://files.catbox.moe/o5x0xn.zip) <-
  |  | **Features:** Gives similar outputs to Claude v2 with v10.1. May loop on surrounding descriptions and write as user too with certain cards. Sometimes copy-pastes its messages (rarely). For some reason starts using known claudisms and new GPTsms(?) like "Damsel in distress". AI will try to implement speech in every reply (due to the line "AI must include in its reply at least 100 words of speech") even if character is sleeping (they will murmur in sleep or AI will just skip the scene to awakening). Writes A LOT.
-16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Trying to make GPT more active in RP and a bit pervy for Ecchi adventures.
+16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Trying to make GPT more active in RP and a bit pervy for Ecchi adventures. | -> [📑 Copypaste](https://rentry.co/CharacterProvider#gpt-ap-11) <-
  |  | **Features:** Still testing. AI tries to respond in *reaction* -> *action* structure.
 
 #
@@ -458,6 +460,8 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <AI role></AI role> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
+
+
 # 
 - - -
 - - -

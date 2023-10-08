@@ -204,7 +204,7 @@
 09/2023|[DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/abs/2309.11499)
 09/2023|[Baichuan 2: Open Large-scale Language Models](https://arxiv.org/abs/2309.10305)
 09/2023|[Qwen Technical Report](https://files.catbox.moe/y61ihm.pdf)
-09/2023|[Mistral 7B](https://archive.ph/DYuym)
+09/2023|[Mistral 7B](https://files.catbox.moe/bars04.pdf)
 10/2023|[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2310.03731)
 10/2023|[Improved Baselines with Visual Instruction Tuning (LLaVA 1.5)](https://arxiv.org/abs/2310.03744)
 |

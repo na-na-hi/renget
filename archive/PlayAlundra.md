@@ -133,6 +133,17 @@ Well written, I romanced Fiddlesticks which was fun. I hate LoL but it has some 
 -> ======================================== <-
 -> ============== <-
 
+## "News"
+
+Projects: ==Top Priority==
+**Ghost girl**. Halloween, but not sure if I will finish.
+==**Codename "Dream ---- -----"**==. Big project.
+**Self-card**. As a botmaker, this is required to do sooner or later.
+**Fempov Shota**. Lack of them makes me sad. Variety is spice of life.
+**Kanna card**. Been a thing I should make for a while.
+
+Pretending I'm important enough to have "news section".
+
 
 
 That's all.

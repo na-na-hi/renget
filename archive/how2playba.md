@@ -371,7 +371,7 @@ Buying the activity reports with credits is kind of bad (as in really bad).
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-Otherwise bring Serina to 2\*, and (if ur too impatient) Kotama to 3\*, who is also available in the raid shop. After that? Whoever is the main hypercarry of a raid you're planning to beat. 
+Otherwise bring Serina to 2\*. After that? Whoever is the main hypercarry of a raid you're planning to beat. 
 Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
@@ -381,7 +381,8 @@ Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare 
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 
->idk what to buy, which BDs/technotes do I pick? 
+- "idk what to buy, which BDs/technotes do I pick?" 
+
 Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. 
 
 >PvP shop
@@ -405,7 +406,9 @@ I don't recommend buying out the artifacts. Even though you can't get these arti
  The safest option if don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
 
 - Shards
-Eimi is a solid tank, and Sumire and Tsurugi are both yellow aoe dps frontliners. Unfortunately, there are better alternatives to Eimi, and the only place Sumire and Tsurugi shine in is in (indoors) Chesed as a 2nd or 3rd option. I personally prioritise buying them out since elephs are hard to obtain, the shards are nice to have, and because I don't have much need for the other options.
+Tsurugi > Eimi > Sumire. 
+Eimi is a solid tank, and Sumire and Tsurugi are both yellow aoe dps frontliners. Unfortunately, there are better alternatives to Eimi, and the only place Sumire and Tsurugi shine in is in (indoors) Chesed as a 2nd or 3rd option.
+I personally prioritise buying them out since elephs are hard to obtain, the shards are nice to have, and because I don't have much need for the other options.
 If you buy them out, eventually you'll no longer need to buy them too. Eventually. 
 
 - Fusion stones 
@@ -413,7 +416,7 @@ With the fusion stones you can convert a surplus of a certain type of mat into a
 I'm personally using the gold ones to convert gifts into the ones I need, but most of the time you won't need these things. They're very handy when you need them, so having a decent stack of them can come in handy (don't buy the grey ones though) 
 
 - Secret tech note 
-They're okay. If you need them they're handy, and I buy them occasionally too. Definitely one of the lower priority items though. 
+They're okay. If you need them they're handy, and I buy them occasionally too. 
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert) 

@@ -32,11 +32,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Mikan](https://files.catbox.moe/wb0xn9.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Mia and Terrance](https://files.catbox.moe/z27l2l.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Natye](https://files.catbox.moe/spkidy.png)|
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||[Tatsumaki ](https://files.catbox.moe/u1s1f6.png)
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Leah](https://files.catbox.moe/on4cnu.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
