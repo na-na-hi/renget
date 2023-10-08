@@ -2,7 +2,7 @@
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 5 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 8 2023*
 
 [TOC]
 
@@ -629,6 +629,17 @@ lily hopkins
 ```
 ```
 lily hopkins, loli, flat chest, freckles, broken tooth, upper teeth, frog print, striped shirt, denim shorts, sneakers, green footwear, hairclip, ahoge, short hair, brown hair, multicolored eyes, blue eyes, green eyes
+```
+
+[Laimu (Limealicious) - VTuber](Laimu (Limealicious) - VTuber) | Character Prompt | Alt Outfit
+:------:|:------:|:------:
+![](https://files.catbox.moe/gvrh3r.png) | ![](https://files.catbox.moe/rhlifz.png) | ![](https://files.catbox.moe/xd6buk.png)
+
+```
+laimu \(vtuber\), animal ears, green tail, white hoodie, hooded jacket, off-shoulder jacket, side slit, ribbon, spaghetti strap, white skirt, paw print, mismatched legwear, animal ear legwear, sneakers, white footwear, black choker, necklace, lime slice, ahoge, hair between eyes, hair over shoulder, single braid, gradient hair, colored tips, white hair, green hair, green eyes
+```
+```
+laimu \(vtuber\), animal ears, green tail, pink camisole, sleeveless dress, underbust, side slit, arm garter, ribbon, white skirt, paw print, mismatched legwear, animal ear legwear, sneakers, white footwear, black choker, necklace, lime slice, ahoge, hair over shoulder, single braid, hair between eyes, gradient hair, colored tips, white hair, green hair, green eyes
 ```
 
 ### M

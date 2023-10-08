@@ -604,17 +604,17 @@ Emi Kukis (Emikukis) | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Athena Nightingale, RoaFen
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 MEW Horizon | X | - | X
-Nonoah | - | - | -
-Kion Dojima | - | - | -
-Teyra Fenthera | - | - | -
-Vix E. Grey | - | - | -
-Nophilia | - | - | -
-Azuri Delfi | - | - | -
-Chiyorii Kogara | - | - | -
-Hoshikuzu Orion | - | - | -
+Nonoah | X | - | X
+Kion Dojima | X | - | X
+Nophilia | X | - | X
+Azuri Delfi | X | - | X
+Teyra Fenthera | - | - | - | Might be Impossible
+Vix E. Grey | - | - | - | Might be Impossible
+Chiyorii Kogara | - | - | - | Might be Impossible
+Hoshikuzu Orion | - | - | - | Might be Impossible
 
 ## -> VirtuaReal <-
 !!! info Available Loras without the need of updates and have been tested.

@@ -4,7 +4,7 @@
 
 !!!info I will update union info at infrequent intervals (read: whenever I feel like it), or when (You) post an update in the thread.
 
-**Last updated: 07/10/23: Aftermath Edition**
+**Last updated: 08/10/23: Aftermath Edition**
 
 ***
 
@@ -23,7 +23,7 @@
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
 | P愛ZURI   | ==**4983**==  | 6     | 32/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
-| CSERYL   | ==**3903**==  | 6     | 31/32   | EFEK     | OPEN       |                                 |
+| CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 3    | 27/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
@@ -35,9 +35,9 @@
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
 | NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |                            |
 | NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
-| PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
-| PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | PERMISSION |  for midcuties                      |
-| VGNIKKE3 | ==**9547**==  | 6     | 31/32   | ANON    | PERMISSION |                            |
+| PREFECT  | ==**6554**==  | 6     | 30/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
+| PANTSUUU | ==**21859**== | 6     | 30/32   | ORLEEN    | PERMISSION |  for midcuties                      |
+| VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
