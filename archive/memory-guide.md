@@ -13,7 +13,7 @@ The best method is in the first section, that's what I recommended everyone do; 
 - | My personal presets:
 ------ | ------
 Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
-Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
+Truthfully: | Basically, Greedy Decoding (best token), but retry-able; optimized for book-writing, will require creative decisions from you.
 | *(Enabling Dynamic Range will break the preset.)*
 
 ##Context

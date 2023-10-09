@@ -10,7 +10,7 @@ Ouu... I can't emphasise the importance of ***steering*** enough—It can't be t
 - | My personal presets:
 ------ | ------
 Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
-Truthfully: | Taking the time to explore the narrative in depth, specialized in making true novel prose.
+Truthfully: | Basically, Greedy Decoding (best token), but retry-able; optimized for book-writing, will require creative decisions from you.
 | *(Enabling Dynamic Range will break the preset.)*
 
 ####Spelling and Grammar

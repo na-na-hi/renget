@@ -1,17 +1,17 @@
--> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](https://rentry.co/CharacterProvider#choose-your-claude-prompt) <- | -> [GPT Prompts](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <- |-> [My characters](https://rentry.co/CharacterProvider#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](https://rentry.co/CharacterProvider#6-faq) <- |  -> [Other Rentries](https://rentry.co/CharacterProvider#interesting-rentries) <- |  -> [Pozzed Key Fix](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key) <-
+-> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#6-faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
 -> ![](https://files.catbox.moe/l8i5ow.png)  <-
-##->  XMLK Adventurer's Presets <-
+##->  XMLK's Adventure Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
--> Cute kobold, feedback and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**<-
+-> Cute kobold, feedback and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)** [RUS / ENG]<-
 ->  <-
 #
 
--> [![](https://files.catbox.moe/mmqz9k.png)](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/kht674.png)](https://boosty.to/xmlk/donate)<-
+-> [![](https://files.catbox.moe/mmqz9k.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/kht674.png)](https://boosty.to/xmlk/donate)<-
 
--> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvide) <-
+-> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 # 
 
 ⠀
@@ -24,21 +24,21 @@
 ##Quick start
 Click these images to quickly access the prompts:
 
--> [![](https://files.catbox.moe/45722y.png)](https://rentry.co/CharacterProvider#choose-your-claude-prompt) ⠀ [![](https://files.catbox.moe/26svcm.png)](https://rentry.co/CharacterProvider#choose-your-gpt-prompt) <-
+-> [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt) ⠀ [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) <-
 ######
 - - -
 ##Info section
 Please, read this, it provides you with sufficient info for my prompts and presets and answers your possible questions. You may start from `3.` 1 and 2 are just me trying to seem 𝔠𝔬𝔬𝔩.
 
 ######1. BEFORE DIVING ANY FURTHER PLEASE READ THIS DISCLAIMER:
-• **This is purely role-play.** It does not endorse, incite or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
+• **This is Purely Role-Play.** It does not endorse, incite or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
 • **Legal Access.** If you wish to interact with a particular LLMl, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
-• **Fictional Nature.** The roleplays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use.
+• **Just a Fiction.** The roleplays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use.
 • **Credits.** The prompts offered are the collective work of numerous AI role-play enthusiasts and are not solely my creation. At times, I originate ideas or draw inspiration from others' work, and on occasion, I incorporate elements from other 'prompters'. Feel free to modify and share these prompts; attribution is not necessary but appreciated.
 • **Adult Content.** By using these prompts, you affirm that you are over 18 years of age ~~and in a mentally sound state~~.
 • **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health.
 • **Rest and Health Matters.** Ensure to take breaks between your "sessions" and pay attention to your health. If you experience any discomfort or pain down there, stop immediately. I am serious. Dead serious.
-• **Proxy warning.** Be cautious when using custom proxy builds.
+• **Proxy Warning.** Be cautious when using custom proxy builds.
 ######
 What I'm trying to achieve with `GPT-AP-3+` version right now:
 2. PROGRESS MAP | 
@@ -76,7 +76,7 @@ These prompts are garbage if you want:
 • Political satire. (even why???)
 • Guro. (untested)
 
-If you have issues with your output, please check [my recommendations](https://rentry.co/CharacterProvider#how-to-use-and-recommendations) and [FAQ](https://rentry.co/CharacterProvider#6-faq). I explained how to prevent:
+If you have issues with your output, please check [my recommendations](#how-to-use-and-recommendations) and [FAQ](#6-faq). I explained how to prevent:
 • Structure loops. (Problem: Repetition of same structured massages)
 • Context loops. (Problem: Lack of context)
 • AI writing as {{user}}. (Problem: Bad card issue)
@@ -110,29 +110,41 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 `GPT4 > Claude2`
 ######6. FAQ
 **Q1: "Why use XML? I think it's just schizo-prompting!"** 
-A1: Claude and GPT have been specifically trained to understand XML-tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets then? It's because prompts and character cards contain a lot of information and we want to structure it for AI. XML-tags, as well as headings, help us to clearly define sections. Here are some resources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt) 
-
+A1: Claude and GPT have been specifically trained to understand XML-tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets then? It's because prompts and character cards contain a lot of information and we want to structure it for AI. XML-tags, as well as headings, help us to clearly define sections. Here are some sources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt).
+#####
 **Q2: "Is... Is this a placebo!? 900 tokens!? My 100-token ones work just fine. The less is beter! Hmph!"**
-A2: No, it isn't a placebo. Well, as for short prompts - yes and no. Yes - your instructions must be concise, no - you should provide excessive context to get the AI a clear idea of what you want ([source](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)). You may receive a general whory response using a small horny prompt where you just ask AI to reply in-character with NSFW allowed but that's about it. These prompts would suffice if you're interested in a "quickie". However, for those "slow-burners" and deep immersion enjoyers, the language model needs a clear context. Prompts with strong words and impactful sentences can significantly influence the output. The AI, for instance, doesn't inherently know how not do things (Prompt: `DO NOT DO THIS!!!!`), but if you instruct it on what to do instead (Prompt: `Avoid this and do that instead`), it will likely comply. Detailed instructions and examples yield superior results. A poor example of a prompt would be: `Write the continuation of the story as {{char}}, be creative, NSFW allowed, be verbose. Don't write as {{user}}!!!` This prompt ambiguously instructs the AI to continue the story as {{char}}, write extensively, incorporate adult themes, and... be creative (???). EVERY. MESSAGE. A better example would be: `In your next reply, respond to the User's message as {{char}} according to their descriptions stated in the <scenario> section. Read the <guidelines> section and apply them if the context calls for it. Avoid writing new actions and speech lines for {{user}} and echoing user's input, instead write as your character ({{char}})` Although this example isn't perfect, it's significantly clearer. The general rule to remember is: Poor context results in poor output; good context results in good output. The sources remain the same as before. Furthermore you definitely can't fit the prompts on handling romantics, erotica, sexual scenes, interactivity, structure avoidance prompts, etc. with examples and explanations (because they are necessary) in mere 100-200 tokens.
+A2: No, it isn't a placebo. Well, as for short prompts - yes and no. Yes - your instructions must be concise and not 'fluffy', no - you should provide excessive context to get the AI a clear idea of what you want ([source](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)) but still be VERY certain, provide examples and explain what you want. You may receive a general whory response using a small horny prompt where you just ask AI to reply in-character with NSFW allowed but that's about it. These prompts would suffice if you're interested in a "quickie". However, for those "slow-burners" and deep immersion enjoyers, the language model needs a clear context.
 
+Prompts with strong words and impactful sentences can significantly influence the output. The AI, for instance, doesn't inherently know how not do things (Prompt: `DO NOT DO THIS!!!!`), but if you instruct it on what to do instead (Prompt: `Avoid this and do that instead`), it will likely comply. Detailed instructions and examples yield superior results. A poor example of a prompt would be: `Write the continuation of the story as {{char}}, be creative, NSFW allowed, be verbose. Don't write as {{user}}!!!` This prompt ambiguously instructs the AI to continue the story as {{char}}, write extensively, incorporate adult themes, and... be creative (???). EVERY. MESSAGE. A better example would be: `In your next reply, respond to the User's message as {{char}} according to their descriptions stated in the <scenario> section. Read the <guidelines> section and apply them if the context calls for it. Avoid writing new actions and speech lines for {{user}} and echoing user's input, instead write as your character ({{char}})` Although this example isn't perfect, it's significantly clearer.
+
+The general rule to remember is: Poor context results in poor output; good context results in good output. The sources remain the same as before. Furthermore you definitely can't fit the prompts on handling romantics, erotica, sexual scenes, interactivity, structure avoidance prompts, etc. with examples and explanations (because they are necessary) in mere 100-200 tokens.
+#####
 **Q3: "Why divide rules in parts and use JB & prefill?"**
-A3: "Firstly, Large Language Models (LLMs) utilize a 'context curve' ([source](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278)). This means that the accuracy improves at both the beginning and end of the input data. Secondly, we segregate the general guidelines, context, and purpose of the chat (context at the start) from the instruction (directions at the end). 'Prefill' forces the AI to perform specific actions. Additionally, this method forms a part of a defense strategy known as 'sandwich defense' ([source](https://learnprompting.org/docs/prompt_hacking/defensive_measures/sandwich_defense))."
+A3: Firstly, Large Language Models (LLMs) utilize a 'context curve' ([source](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278)). This means that the accuracy improves at both the beginning and end of the input data.
 
+Secondly, we segregate the general guidelines, context, and purpose of the chat (context at the start) from the instruction (directions at the end). 'Prefill' forces the AI to perform specific actions. Additionally, this method forms a part of a defense strategy known as 'sandwich defense' ([source](https://learnprompting.org/docs/prompt_hacking/defensive_measures/sandwich_defense)).
+
+Generally speaking we're wrapping context with instructions: `We're role-playing! Here are the <guidelines>! -> Chat Context -> Remember, we're role-playing! Use the <guidelines!>`
+#####
 **Q4: "Do I need to use Author's note with versions above v10?"** 
 A4: No, you'd send the rules (guidelines) twice by using it with my previous author's notes. I recommend you read the prompts when you download them.
-
+#####
 **Q5: "AI writes as my character. Why?"**
 A5: There could be several reasons for this.
-• The LLM version you are using might be a dummy. Certain versions of LLM, such as GPT-32K-0314 and Claude-v1, may not be capable of comprehending your instructions properly.
-• The character card you're using may have been poorly defined. I have come across character cards where the term 'you' is used to refer to both the AI and the user. It's crucial to remember that these character cards are part of the context and if they are defined ambiguously, it can cause confusion for the LLM. 50/50 we're all here ESL boys and girls (???), so if English isn't your first language, I would suggest letting the LLM revise your character card based on your directions. A well-defined character card usually ranges from about 800 to 2000 tokens or more, especially if it's complicated.
-• Your initial message may contain actions or speeches for your character, which might confuse the LLM as it often tries to replicate actions it has performed in the past. If you'd like to learn more about it, I recommend googling [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).
+The LLM version you are using might be a dummy. Certain versions of LLM, such as GPT-32K-0314 and Claude-v1, may not be capable of comprehending your instructions properly.
 
+The character card you're using may have been poorly defined. I have come across character cards where the term 'you' is used to refer to both the AI and the user. It's crucial to remember that these character cards are part of the context and if they are defined ambiguously, it can cause confusion for the LLM. 50/50 we're all here ESL boys and girls (???), so if English isn't your first language, I would suggest letting the LLM revise your character card based on your directions. A well-defined character card usually ranges from about 800 to 2000 tokens or more, especially if it's complicated.
+
+Your initial message may contain actions or speeches for your character, which might confuse the LLM as it often tries to replicate actions it has performed in the past. If you'd like to learn more about it, I recommend googling [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).
+#####
 **Q6: "AI loops and doesn't want to move story forward. Why?"**
-A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](https://rentry.co/CharacterProvider#how-to-prevent-format-loops).
+A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](#how-to-prevent-format-loops).
 
+The other issue may be the "Ah, ah, mistress!" problem, your reply is just either moans, or "I continue doing what I am doing.",  "Continue." or even an empty message. AI just doesn't know how to proceed with the scene further. (Possible solution would be utilizing two LLMs (or separate agents) which work in tandem with each other, one creating context and one focusing on story itself with their own sets of instructions, but this is not possible in Tavern right now. LLama looks good for this purpose. Maybe.)
+#####
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
-	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](https://rentry.co/CharacterProvider#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
+	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
 *END OF INFO SECTION*
 #
@@ -143,13 +155,13 @@ A6: This one is really simple. The AI is often left without sufficient context a
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description | Prompt/files
  |  |  | 
-01.10.2023 |  ★[GPT-AP-3](https://rentry.co/CharacterProvider#gpt-ap-3) | **Note:** Refined the JB, but it mostly the same. Changed rules to guidelines and renamed tags. | -> [⬇️ Download](https://files.catbox.moe/bypg2t.zip) <-
+01.10.2023 |  ★[GPT-AP-3](#gpt-ap-3) | **Note:** Refined the JB, but it mostly the same. Changed rules to guidelines and renamed tags. | -> [⬇️ Download](https://files.catbox.moe/bypg2t.zip) <-
  |  | **Features:** Great characterization and dialogs, responses are still very good with no dozens of random characters. Output is similar to 2.2, but with fixes. Outputs are very saturated just like on Claude. I tried to write it in a way that allows you to use scenario cards without confusing the AI. If you see Japanese words delete "Japanese onomatopoeia" from JB.
-22.09.2023 |  ★[GPT-AP-2.2](https://rentry.co/CharacterProvider#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results. | -> [⬇️ Download](https://files.catbox.moe/lkj3mh.zip) <-
+22.09.2023 |  ★[GPT-AP-2.2](#gpt-ap-22) | **Note:** Made instructions clearer for AI and shifted focus towards characterization. Increased temp to 0.95. Still figuring out how to make characters much more active and inventive. I literally changed only the JB. And deleted the *SEX* one because normal (adventure) one gave similar results. | -> [⬇️ Download](https://files.catbox.moe/lkj3mh.zip) <-
  |  | **Features:** Adds random characters (more like a 'problem' don't know how to balance it atm), but greatly improves output comparing to GPT-AP-2. Characterization is greatly improved, AI follows their descriptions much better and widely uses their word ticks and speech styles. Speech is really fluent. While entering a new scene you will be likely met with an event and interesting NPCs (still has a knock in door problem! May add random characters). Still figuring out how to make characters much more active and inventive and lower the soy (during speech about violence and minorities). AI may sometimes OVERUSE CAPS and onomatopoeia. {{char}} will find NPCs nearby and interact with them on their own. Character lines can be very funny. Still can't solve the problem with characters not commenting much during sex scenes, They do, but they talk much less then during general dialogs. Testing...
-19.09.2023 |  ★[GPT-AP-2](https://rentry.co/CharacterProvider#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended. | -> [⬇️ Download](https://files.catbox.moe/o5x0xn.zip) <-
+19.09.2023 |  ★[GPT-AP-2](#gpt-ap-2) | **Note:** Combined v12 and v10.1 and adapted them for GPT. Its ~1000tokens long, so you may try disabling the <rules> section completely if you're using 8k model. 32k model intended. | -> [⬇️ Download](https://files.catbox.moe/o5x0xn.zip) <-
  |  | **Features:** Gives similar outputs to Claude v2 with v10.1. May loop on surrounding descriptions and write as user too with certain cards. Sometimes copy-pastes its messages (rarely). For some reason starts using known claudisms and new GPTsms(?) like "Damsel in distress". AI will try to implement speech in every reply (due to the line "AI must include in its reply at least 100 words of speech") even if character is sleeping (they will murmur in sleep or AI will just skip the scene to awakening). Writes A LOT.
-16.09.2023 |  [GPT-AP-1.1](https://rentry.co/CharacterProvider#gpt-ap-11) | **Note:** Trying to make GPT more active in RP and a bit pervy for Ecchi adventures. | -> [📑 Copypaste](https://rentry.co/CharacterProvider#gpt-ap-11) <-
+16.09.2023 |  [GPT-AP-1.1](#gpt-ap-11) | **Note:** Trying to make GPT more active in RP and a bit pervy for Ecchi adventures. | -> [📑 Copypaste](#gpt-ap-11) <-
  |  | **Features:** Still testing. AI tries to respond in *reaction* -> *action* structure.
 
 #
@@ -159,41 +171,41 @@ Date | Update | Description | Prompt/files
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
-02.09.2023 |  ★[V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
+02.09.2023 |  ★[V12 RUM BABA](#v12-rum-baba) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.
  |  | **Features:** This prompt tends to be more inventive with actions than versions below this one. But it looses some of immersiveness and enviro descriptions.
-30.08.2023 |  [V11 JAFFA](https://rentry.co/CharacterProvider#v11-jaffa) | **Note:** Variates assistant's reply start (IDK if it's usefull).
+30.08.2023 |  [V11 JAFFA](#v11-jaffa) | **Note:** Variates assistant's reply start (IDK if it's usefull).
  |  | **Features:** This prompt is has similar output as v10/v10.1 but makes AI to start with a participle.
-23.08.2023 |  ★[V10.1 FAWORKI](https://rentry.co/CharacterProvider#v101-faworki) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
+23.08.2023 |  ★[V10.1 FAWORKI](#v101-faworki) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
  |  | **Features:** I **HIGHLY RECOMMEND** this (and previous) one too. Slight changes from v10, similar output.
-16.08.2023 |  ★[V10 FAWORKI](https://rentry.co/CharacterProvider#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+16.08.2023 |  ★[V10 FAWORKI](#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
  |  | **Features:** I **HIGHLY RECOMMEND** this one, it makes great scenes when you enter a location, but tends to loop enviro descriptions, so delete it if needed. It is a slight improvement of v9 but with modules.
-11.08.2023 | ★[ONLINE TEXTING](https://rentry.co/CharacterProvider#online-texting) | **Note:** Modifies output like you are texting with {{char}} in messenger chat 
+11.08.2023 | ★[ONLINE TEXTING](#online-texting) | **Note:** Modifies output like you are texting with {{char}} in messenger chat 
  |  | **Features:** For chatting via messenger with your chars.
-11.08.2023 | ★[V9 NUTMIX (6.7+7+8)](https://rentry.co/CharacterProvider#v9-nutmix) | **Note:** A mix of 6.7+7+8
+11.08.2023 | ★[V9 NUTMIX (6.7+7+8)](#v9-nutmix) | **Note:** A mix of 6.7+7+8
  |  | **Features:** A mix of the best prompts. [Versions that where preferred by the people I know]
-09.08.2023 | ★[V8 KARPATKA](https://rentry.co/CharacterProvider#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
+09.08.2023 | ★[V8 KARPATKA](#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
  |  | **Features:** Similar output to previous versions, but AI keep narration around user.
-07.08.2023 | [V7.4 CHEESECAKE](https://rentry.co/CharacterProvider#v74-cheescake) | **Note:** Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
+07.08.2023 | [V7.4 CHEESECAKE](#v74-cheescake) | **Note:** Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
  |  | **Features:** Don't recommend this one. It was a desperate attempt to fight with DOORS!
-06.08.2023 | [V7.3 CHEESECAKE](https://rentry.co/CharacterProvider#v73-cheesecake) | **Note:** Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
+06.08.2023 | [V7.3 CHEESECAKE](#v73-cheesecake) | **Note:** Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
  |  | **Features:** Slight improvements of v7.
-06.08.2023 | [V7.2 CHEESECAKE](https://rentry.co/CharacterProvider#v72-cheesecake) | **Note:** Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
+06.08.2023 | [V7.2 CHEESECAKE](#v72-cheesecake) | **Note:** Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
  |  | **Features:** Slight improvements of v7.
-05.08.2023 | [V7.1 CHEESECAKE](https://rentry.co/CharacterProvider#v71-cheesecake) | **Note:** This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
+05.08.2023 | [V7.1 CHEESECAKE](#v71-cheesecake) | **Note:** This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
  |  | **Features:** Similar to v7 with randomization. [Don't recommend]
-05.08.2023 | ★[V7 CHEESECAKE](https://rentry.co/CharacterProvider#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
+05.08.2023 | ★[V7 CHEESECAKE](#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
  |  | **Features:** Improved previous prompt, better structure.
-02.08.2023 | ★[V6.9 CHESTNUT](https://rentry.co/CharacterProvider#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
+02.08.2023 | ★[V6.9 CHESTNUT](#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
  |  | **Features:** Slightly improves output compared to 6.7, but has THE rule work.
-02.08.2023 | [V6.8 CHESTNUT](https://rentry.co/CharacterProvider#v68-chestnut) | **Note:** Tried adding <response length>, doesn't work as intended
+02.08.2023 | [V6.8 CHESTNUT](#v68-chestnut) | **Note:** Tried adding <response length>, doesn't work as intended
  |  | **Features:** Don't recommend this one. Similar output to 6.7, but has a rule that doesn't work.
-02.08.2023 | ★[V6.7 CHESTNUT](https://rentry.co/CharacterProvider#v67-chestnut) | **Note:** Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
+02.08.2023 | ★[V6.7 CHESTNUT](#v67-chestnut) | **Note:** Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
  |  | **Features:** Improved v6. Still tends to write A LOT! higlights some words, but AI starts to overuse it. Cool feature tho.
-01.08.2023 | [V6 STABLE](https://rentry.co/CharacterProvider#v6-stable) | **Note:** Experiments starting point...
+01.08.2023 | [V6 STABLE](#v6-stable) | **Note:** Experiments starting point...
  |  | **Features:** This is where I started experimenting with events, NPCs and enviro. Writes A LOT.
-21.07.2023 | [V4 NAPOLEON](https://rentry.co/CharacterProvider#v4-napoleon) | **Note:** Made it even more compact...
+21.07.2023 | [V4 NAPOLEON](#v4-napoleon) | **Note:** Made it even more compact...
  |  | **Features:** Provides ~average result
-17.07.2023 | [V3 HONEYPIE](https://rentry.co/CharacterProvider#v3-honeypie) | **Note:** Tried a compact XML - works fine...
+17.07.2023 | [V3 HONEYPIE](#v3-honeypie) | **Note:** Tried a compact XML - works fine...
  |  | **Features:** Provides ~average result
 
 #
@@ -225,7 +237,7 @@ You need only complete steps from **YELLOW BLOCKS**. Everything else is just my 
 # 
 
 ######	FORMATTING
-**Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. When asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. Tavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases. I recommend you using [this regex](https://rentry.co/CharacterProvider#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting.
+**Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. When asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. Tavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases. I recommend you using [this regex](#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting.
 # 
 - - -
 # 
@@ -299,7 +311,7 @@ Import button. You don't have to import them into each new chat anymore if you'v
 - - -
 # 
 ###### NO MORE ITALICS REGEX
-I recommend you using [this regex](https://rentry.co/CharacterProvider#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting. Regex editor can be found in 'Extensions' menu in tavern.
+I recommend you using [this regex](#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting. Regex editor can be found in 'Extensions' menu in tavern.
 
 ![](https://files.catbox.moe/6v8527.jpg)
 *(Image: Visualization. Opened settings.)*
@@ -452,15 +464,15 @@ If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude an
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Your characters now wrapped in <AI role> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Your characters now wrapped in <AI role> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/bypg2t.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/bypg2t.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <AI role></AI role> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -475,15 +487,15 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/lkj3mh.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/lkj3mh.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -496,15 +508,15 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/o5x0xn.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/o5x0xn.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -516,7 +528,7 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 ###GPT-AP-1.1
 #
 
-Still figuring out. Here is a test one for you. I am using it WITH [V12 RUM BABA](https://rentry.co/CharacterProvider#v12-rum-baba), but you can try using only this JB separately. (Erase "Read the <rules> and <scenario> sections carefully and..." in this case).
+Still figuring out. Here is a test one for you. I am using it WITH [V12 RUM BABA](#v12-rum-baba), but you can try using only this JB separately. (Erase "Read the <rules> and <scenario> sections carefully and..." in this case).
 
 ###### JAILBREAK
 !!! warning Paste this text from the code block below as your 'Jailbreak' 
@@ -554,15 +566,15 @@ In its next reply AI must:
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/dvcq32.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/dvcq32.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -575,15 +587,15 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/1j1fwz.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/1j1fwz.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -596,15 +608,15 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/m2itn3.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -617,15 +629,15 @@ Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Promp
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](https://rentry.co/CharacterProvider#preset-import) and [Prompts](https://rentry.co/CharacterProvider#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/3bxfjw.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](https://rentry.co/CharacterProvider#preset-import))
-	3. Import Prompts.json ([How to import prompts?](https://rentry.co/CharacterProvider#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-import))
+	3. Import Prompts.json ([How to import prompts?](#prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
