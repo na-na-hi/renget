@@ -1478,5 +1478,19 @@ Place into your WebUI base folder. Run with the following command:
 python .\loratags.py .\model\lora\<YOURLORA>.safetensors
 https://pastebin.com/S7XYxZT1
 
-### Example workflow
+### Example workflows
+Text2Image to Inpaint to SD Upscale Example:
 ![Example Workflow](https://files.catbox.moe/ylnaby.jpg)
+
+Using ControlNet to work from sketches:
+>Usually I start with a pretty rough sketch and describe the sketch in the prompt, along with whatever style I want. Then I'll gen until I get one that's the general idea of what I want, then img2img that a few dozen times and pick the best one out of that batch. I'll also look through all the other ones for parts that I like from each. It could be a paw here or a nose there, or even just a particular glint of light I like. I'll composite the best parts together with photoshop and sometimes airbrush in certain things I want, then img2img again. When I get it close enough to the finished product I'll do the final upscale.
+
+>Picrel is a gif of another one I've posted here that shows what these iterations can look like
+
+![Sketch to genned image](https://files.catbox.moe/jgxwnq.gif)
+
+>I use lineart controlnet with no preprocessor (just make sure your sketch is white-lines-on-black-background or use the invert processor.) Turn the control weight down a bit. The rougher the sketch, the lower your control weight should be. Usually around 0.3-0.7 is a good range.
+>Couldn't you theoretically use the lineart preprocessor to turn an image into a sketch, and then make adjustments to it there if you want to add or remove features?
+>Good call, that's exactly what I did with part 3 of the mouse series. Mouse part is mine, the rest is preprocessor.
+
+![Adding sketches to preprocessir](https://files.catbox.moe/pbcd6r.png)

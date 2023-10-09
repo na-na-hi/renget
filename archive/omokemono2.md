@@ -201,8 +201,8 @@ If an outdated page gets updated, it loses its outdated status
 	- [Kemono](https://kemono.party/fanbox/user/7968)
 
 - PALINGENESIS/angelrabbit/lass-v[Ryona][Loli][Bondage]:
-	- [Patreon](https://www.patreon.com/user?u=12809750)
-	- [Fanbox](https://angelrabbit.fanbox.cc/)
+	- [Patreon](https://www.patreon.com/user?u=12809750) (DEAD)
+	- [Fanbox](https://angelrabbit.fanbox.cc/) (DEAD)
 	- [Kemono/Patreon](https://kemono.party/patreon/user/12809750)
 	- [Kemono/Fanbox](https://kemono.party/fanbox/user/77566206)
 	- [Old](https://kemono.party/fanbox/user/1601715)

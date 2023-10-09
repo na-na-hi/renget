@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Itachi Uchiha](https://files.catbox.moe/e4x70p.png), [Satsuki Uchiha](https://files.catbox.moe/305dtk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Louis](https://files.catbox.moe/8x135x.png), [Marco](https://files.catbox.moe/hxuasi.png), [Keith](https://files.catbox.moe/fhn9t6.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Toby Daniels (College Variant)](https://files.catbox.moe/t0hyef.png)|
@@ -25,15 +26,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Alina Mahler](https://files.catbox.moe/2p2qkb.png)|[Alina Mahler](https://files.catbox.moe/2p2qkb.png) [MV]
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Satsuki Uchiha](https://files.catbox.moe/305dtk.png)|
-[Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png), [Keith](https://files.catbox.moe/p755ni.png)|[Keith](https://files.catbox.moe/p755ni.png) [MV]
-[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Zephyr](https://files.catbox.moe/g3lkfd.png)|
-[Chefseru](https://rentry.org/chefseru) | Misc |[Violet](https://files.catbox.moe/wet6kz.png), [Snommy](https://files.catbox.moe/p0dl9f.png)|
+[Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/d82m4u.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[The Lamplighter](https://files.catbox.moe/fvyp1w.png)
+[Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
+[Chefseru](https://rentry.org/chefseru) | Misc ||
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

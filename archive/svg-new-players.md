@@ -37,7 +37,7 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
 - シャドバ - Shadowverse
 - ローテーション - Rotation
 - アンリミテッド - Unlimited
-- ロイヤル - Swordcraft (sword)
+- ロイヤル - Swordcraft (royal)
 - ネクロ / ネクロマンサー - Shadowcraft (necromancer)
 - エルフ - Forestcraft (elf)
 - ネメシス - Portalcraft (nemesis)

@@ -577,7 +577,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 * {||} [Three Strangers Sweep the Grounds](https://rentry.org/kcb-1)
 * {||} [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
-* {||} [Cyndaquil's Christmas (ft. Debby)](https://arch.b4k.co/vp/thread/54522203/#54540338)
+* {||} [Cyndaquil's Christmas (ft. Debby)](https://rentry.org/itzyn)
 * {||} [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 * {||} [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4)
 * {||} [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2)

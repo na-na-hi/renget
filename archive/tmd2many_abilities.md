@@ -291,7 +291,7 @@ Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is incre
 Tough Claws | The damage of the User's Physical Moves is increased by 3.
 Toxic Boost | While Poisoned, the User's Attack is increased by 5.
 Toxic Debris | When the User is hit by a Physical Move, the Opponent is Poisoned. Attacking them again makes the Opponent Badly Poisoned.
-Trace | At the start of the battle, the User copies an Ally's Ability, replacing Trace.
+Trace | Once per battle, the User can copy an Ally's Ability, replacing Trace.
 Transistor | Increases the damage of the User's Electric-Type Moves by 5. 
 Triage | The User's HP-restoring Moves have their AP cost reduced by 1. 
 Truant | The User's Attack Stat is increased by 2 Stat Points. After using a Move once, the User's AP is decreased to 3 until a turn has passed without a Move being used.

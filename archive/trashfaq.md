@@ -14,21 +14,6 @@ From what I tried, https://aqualxx.github.io/stable-ui/ as a GUI for horde seems
 Starting out, I suggest giving A1111's Features page a read; it contains information for many of the WebUI's functions, some of them more useful than others.
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
 
-## What is the best model?
-WHEN STARTING OUT AND YOU'RE UNSURE, GET THIS ONE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares/fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors
-
-Put models in ``\stable-diffusion-webui\models\Stable-diffusion``
-
-After a long drought, we now have two whole models trained on furry stuff on e621: Fluffyrock and Fluffusion. 
-Current thread favorites are merges between Fluffyrock, Fluffusion and Crosskemono.
-
-Links to all three can be found in https://rentry.org/trashcollects. Latest epochs are generally the best.
-
-For Fluffyrock, as of now https://huggingface.co/lodestones/furryrock-model-safetensors/tree/main/fluffyrock-1088-megares and https://huggingface.co/lodestones/furryrock-model-safetensors/tree/main/fluffyrock-1088-megares-offset-noise are the ones being updated the most often.
-
-DIRECT DL WITHOUT OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares/fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors
-WITH OFFSET-NOISE: https://huggingface.co/lodestones/furryrock-model-safetensors/resolve/main/fluffyrock-1088-megares-offset-noise/fluffyrock-576-704-832-960-1088-lion-low-lr-e27-offset-noise-e12.safetensors
-
 ## How do I use vpred models?
 
 Vpred models, like Fluffyrock Terminal SNR vpred, require a few things to work properly.

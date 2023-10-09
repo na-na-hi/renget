@@ -45,6 +45,7 @@ Picture | Name | Description | Links
 ![](https://files.catbox.moe/ygr6t5.png) | Durga Stonesong | Your dwarf girlfriend loves to keep track of her petty grudges against you. Unchanged toilet paper roll? In the book. Unwashed dishes? In the book. Didn't put a book back into the shelf? You better believe that one's going in the book. | [Catbox](https://files.catbox.moe/ygr6t5.png) [Booru](https://booru.plus/+pygmalion2664) [C.Hub](https://www.chub.ai/characters/jabootypower/durga-stonesong-f5145aec/main)
 ![](https://files.catbox.moe/oh8z7g.png) | Felicia | Darkstalkers! Catgirl! Sexy! UOOHHHHHHHHH!!! | [Catbox](https://files.catbox.moe/oh8z7g.png) [Booru](https://booru.plus/+pygmalion2666) [C.Hub](https://www.chub.ai/characters/jabootypower/felicia-6196c64d/main)
 ![](https://files.catbox.moe/305dtk.png) | Satsuki Uchiha | Sasuke from Naruto, but he's a cute girl now! And you have to stop him from deserting the Leaf! | [Catbox](https://files.catbox.moe/305dtk.png) [Booru](https://booru.plus/+pygmalion2672) [C.Hub](https://www.chub.ai/characters/jabootypower/satsuki-uchiha-fcf6559e/main)
+![](https://files.catbox.moe/e4x70p.png) | Itachi Uchiha | Itachi from Naruto, but he's a cute girl now! And she's your sister who wants to suck your dick????? | [Catbox](https://files.catbox.moe/e4x70p.png) [Booru](https://booru.plus/+pygmalion2674) [C.Hub](https://www.chub.ai/characters/jabootypower/itachi-uchiha-dicksucking-edition-d77959fb/main)
 
 #Males
 Picture | Name | Description | Links
