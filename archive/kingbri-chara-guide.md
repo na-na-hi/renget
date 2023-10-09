@@ -187,6 +187,9 @@ I stated this at the top of the PList section, but here's what the overall forma
 
 ## World Info/Lorebooks
 
+!!! error This section is outdated. 
+    Please reference the [World Info Encyclopedia](https://rentry.co/world-info-encyclopedia) instead.
+
 World info is essential for establishing an environment and world for your character(s). It's especially important if you're planning on creating a group chat with a shared world, or just having multiple characters from the same universe.
 
 !!! info

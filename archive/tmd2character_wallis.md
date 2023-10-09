@@ -16,14 +16,14 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 6 | **Experience to Next Level:** 50/60
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 50₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*25/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

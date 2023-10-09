@@ -17,7 +17,7 @@ _______
 | Song | Link | Where to stream? |
 |------|-----|-----|
 | A New Start |  ->[![](https://files.catbox.moe/ax51el.jpg)](https://www.youtube.com/watch?v=Py21QCndbxc)<- | https://cover.lnk.to/anewstart |
-|mumei| ->[![](https://files.catbox.moe/0e3lkr.png)](placeholder)<-| Releases next monday (Oct 9th PDT)|
+|mumei| ->[![](https://files.catbox.moe/0e3lkr.png)](https://www.youtube.com/watch?v=oA0CpI0vCK4)<-| Releases on monday (Oct 9th PDT) \| https://cover.lnk.to/Mumei|
 
 >Covers
 | Song | Link |

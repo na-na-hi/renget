@@ -3,7 +3,7 @@
 
 ->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/kusaze.png)<-
 ***
-**Working on a fork card, Ehzi lore, Raccoon girl, and probably a younger brother for 'Ellie' the Meowscarada.**
+**Working on a Mishka, Ehzi lore, Raccoon girl, lil' brother for 'Ellie' the Meowscarada, among other ideas.**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
 
 ***(WIP)***
@@ -19,7 +19,7 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Dominant, loves Humans over Anthro's](https://files.catbox.moe/5f93bi.png) | Mishka Blacklilly | ->Just a simple dominant Anthro Grizzly Bear cub, she can be sweet but gets what she wants. Mostly older HUMAN teen boys when she can find them. I had a 'in heat' system with her but Claude just made it turn on every chat turning her into a sex-fiend so I took it out. ==V2 JB== Worldbook in progress, alt greetings, etc.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ivii76.png)
+ ![Dominant, loves Humans over Anthro's](https://files.catbox.moe/5f93bi.png) | Mishka Blacklilly | ->Just a simple dominant Anthro Grizzly Bear cub, she can be sweet but gets what she wants. Mostly older HUMAN teen boys when she can find them. I had a 'in heat' system with her but Claude just made it turn on every chat turning her into a sex-fiend so I took it out. ==V2 JB== Tighten up defs, *maybe* expand char a bit more.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ivii76.png)
 -
  
 ***
@@ -63,7 +63,8 @@ Image| Name | Description | Link
 | ------ | ------ | -----
  ![Basic but works with MOST furry cards](https://files.catbox.moe/w7qa0o.jpg) | Beast People World -SMALL Edition- | ->Basic World Book for a world populated mostly by Beast People (Anthropomorphic Animal People and Kemonomimi). Humans are their ancestors and in sharp population decline compared to Beast People. Seen as sort of 'relics' by them, exciting or interesting. Humans are set to completely die off in estimated 50 years so the Human Re-Population Law was enacted, allowing any Beast Person to 'claim' any Human they find and bring to a Government Official as their 'mate for life'. The Humans opinion on this is discarded as breeding and keeping their species alive is considered more important.->| [Chub](https://www.chub.ai/lorebooks/jumboranch/beast-people-world-c58328b7)  [Catbox](https://files.catbox.moe/ncifvb.json)
  -
- ![HIGH token usage but more expansive](https://files.catbox.moe/6u7agf.png) | Beast People World -LARGE Edition- | ->The larger more expansive version of the World Book I created for use with Furry/Anthro and Kemonomimi cards. Similar to the small version but includes more information on the different types of 'Beast People', Scenting/Mate stuff, Collared.com and other info. Will probably expand even more over time.-> | [Chub](https://www.chub.ai/lorebooks/jumboranch/beast-people-world-large-version-9f1e3dbe) [Catbox](https://files.catbox.moe/wdvst4.json) 
+ ![HIGH token usage but more expansive](https://files.catbox.moe/6u7agf.png) | Beast People World -LARGE Edition- | ->The larger more expansive version of the World Book I created for use with Furry/Anthro and Kemonomimi cards. Similar to the small version but includes more information on the different types of 'Beast People', Scenting/Mate stuff, CollaredDotCom Forum (from the card) and other info. Will probably expand even more over time.-> | [Chub](https://www.chub.ai/lorebooks/jumboranch/beast-people-world-large-version-9f1e3dbe) [Catbox](https://files.catbox.moe/wdvst4.json) 
+-
 ***
 #(More to be added soon. WIP)
 ***
@@ -77,15 +78,15 @@ Rather than make a million cards I often update and improve existing ones, so ==
 ***
 ##->Other Stuff<-
 ###Expression
-I do make expressions for my bots I use a lot (Nyxie, Aila, Arissa, Sunny, few more). 
-Decent quality touched up SD, but the styles don't always match, which is why I don't put them up by default.
+Don't really have time or motivation to get high enough quality Expressions to be worth sharing, that may change for cards I really enjoy but I doubt it. If it does I'll post the packs here.
 ###Bots In Progress:
-Ehzi the 'Armadillo' Kobold - 75% - Lorebook, CharBook, probably expression.
-Floragato little brother for Ellie (Meowscarada) - 10% - Writing Character Defs.
-Bear Girl bully - maybe.
-Fem Fizz(League of Legends)(genderflip) - Yes
+Mishka Anthro Grizzly Bear cub loves Human teen boys - 90% - Not sure if I'm gonna expand this char or not, she's fun enough as is (to me anyways).
+Ehzi the 'Armadillo' Kobold - 80% - Lorebook, CharBook, probably expression.
+ToBeNamed (Floragato) a little brother for Ellie (Meowscarada) - 10% - Writing Character Defs, planning.
+Fem Fizz (League of Legends)(genderflip) - 10% - Planning
 Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
 ![Sunny the punk ass lil' Raccoon Girl :)](https://files.catbox.moe/oq80re.png)
-![Watercolor Sunny](https://files.catbox.moe/81whf9.png) ![Ehzi 'Armadillo' Kobold Healer](https://files.catbox.moe/bvr86t.png)
+![Mishka the Grizzly cub](https://files.catbox.moe/wmtq79.jpg) ![Ehzi 'Armadillo' Kobold Healer](https://files.catbox.moe/bvr86t.png)
+![More cheeky Mishka cute brat!](https://files.catbox.moe/mvwrt5.jpg)

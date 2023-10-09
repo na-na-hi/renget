@@ -1,8 +1,11 @@
 # Nanashi Mumei merchandise
-!!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them) and memberships are the best ways to supporting them. 
+!!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them) and memberships are the best ways to support them. 
 	If you are in Japan these are good xeeter account/websites to track goods being sold physically:
 	https://twitter.com/hololive_goods 
 	https://merch-matome.com/
+
+**Council 3D showcase merch (Latern for Mumei)** (Order period ends 13th November 1800 JST)
+https://shop.hololivepro.com/products/hololiveen_council_3d2023
 
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
@@ -15,25 +18,25 @@ https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 **4th Fes Blu ray**
 https://bushiroad-music.com/musics/hoxb-10013
 
-**Council 2nd Anniversary Merch (Bangles)** (Order period ends 25th September 1800 JST)
-https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
-
 **Hologra Amazon t-shirt**
 US: https://www.amazon.com/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVQS7Z5
 JP: https://www.amazon.co.jp/dp/B0CHVPZNWW 
 UK: https://www.amazon.co.uk/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVPVWZB
 
+**Hololive EN -Promise- (CouncilRyS) acrylic stands**
+https://shop.hololivepro.com/products/hololiveen_3dacrylicstand
+
 >**HoloSummer**
 **Merch**
-Acrylic Stands (Yukata) 
-https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 Keychains and assorted goods
 https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
-\>**Order period ended**
+\>**Order period ended/sold out**
 Acrylic diorama 
 https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
 Acrylic Stand (Swimsuit)
 https://shop.hololivepro.com/en/products/hololivesummer2023_acrylicstand_ssp?variant=44007949533404
+Acrylic Stands (Yukata) 
+https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 
 \* * *
 - - -
@@ -104,3 +107,6 @@ https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 
 **Birthday Merch Yr 2** (Order period ends 11th September 1800 JST)
  https://shop.hololivepro.com/en/products/nanashimumei_bd2023
+
+**Council 2nd Anniversary Merch (Bangles)** (Order period ends 25th September 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_council_an2nd

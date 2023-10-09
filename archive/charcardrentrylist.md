@@ -22,13 +22,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Toby Daniels (College Variant)](https://files.catbox.moe/t0hyef.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Micelle](https://files.catbox.moe/umdkkp.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png), [The White Rabbit](https://files.catbox.moe/n1aoz4.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Alina Mahler](https://files.catbox.moe/2p2qkb.png)|[Alina Mahler](https://files.catbox.moe/2p2qkb.png) [MV], [Helga](https://files.catbox.moe/qs33ae.png)
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Satsuki Uchiha](https://files.catbox.moe/305dtk.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png), [Keith](https://files.catbox.moe/p755ni.png)|[Keith](https://files.catbox.moe/p755ni.png) [MV]
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc |[Zephyr](https://files.catbox.moe/g3lkfd.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Violet](https://files.catbox.moe/wet6kz.png), [Snommy](https://files.catbox.moe/p0dl9f.png)|
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/d82m4u.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
@@ -42,7 +43,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||
