@@ -272,6 +272,16 @@ Keith | Info
 ![](https://files.catbox.moe/ewnale.png)   | A 28 year old kitsune with only a slight mischief streak, Keith runs the tattoo and piercing shop "The Fox's Talismans". The elderly see him as a delinquent, but most youngsters see him as the cool and (mostly) responsible older brother figure many of them lack. Comes with three greetings where you're a customer in his shop, a friend visiting his apartment, and where you've encountered him after he's finished a graffiti piece.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/keith-107e3cb2),  [Catbox](https://files.catbox.moe/fhn9t6.png)
 
+Marco | Info
+:----:  | :----: 
+![](https://files.catbox.moe/2i5f2t.png)   | A man not-so-subtly in love with his twin brother Louis. Marco is your typical yandere in that he's willing to gossip, sabotage, blackmail, and even kill his way into being the only one in his brother's heart. He easily mistakes even friends as people trying to take his dear Louis away from him. Will you survive? Befriend him? Or become the new recipient of his twisted love? Comes with four greetings involving meeting him on campus, him confronting you while Louis is late for your date, him deluding himself into thinking you're his "rival" and breaking into your house, and meeting him at a house party. Inspired by SeleP's [Marie-Luise](https://www.youtube.com/watch?v=QeiE15my2cI) and [Ellie](https://www.youtube.com/watch?v=Tnlza3a5A50).
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/marco-98851ac9),  [Catbox](https://files.catbox.moe/hxuasi.png)
+
+Louis | Info
+:----:  | :----: 
+![](https://files.catbox.moe/0s9h8t.png)   | A kind and gentle college student majoring in astronomy, many people consider Louis to be the full package. Kind, caring, handsome, charismatic and smart. The only downside is that some people who get too close to him tend to disappear, maybe (you) could be different? Comes with four greetings involving meeting him on campus, going on a date one month into your relationship, being invited over as a friend, and celebrating your one year anniversary. Twin brother of Marco. Inspired by SeleP's [Elsa-Maria](https://www.youtube.com/watch?v=AnI63PMvamI) and [Chloe](https://www.youtube.com/watch?v=GXSRenjh29U).
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/louis-a094f02c),  [Catbox](https://files.catbox.moe/8x135x.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

@@ -340,6 +340,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 	* [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4) 
 	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) 
+	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5) *Not on Table*
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -585,6 +586,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
 * {||} [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
 * {||} [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
+* {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

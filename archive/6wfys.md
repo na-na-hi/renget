@@ -250,7 +250,7 @@ If you need MOAR WEAPONZ BRO!?!?! than Reforging and WOT3E add: Immersive Weapon
 
 True Armor - All-in-one armor and enemy balancing via distributed perks. Arrows and swords might bounce off of plate armor, encouraging you to use daggers or maces. Regen and other attributes dynamically change based on how many pieces of each armor type you equip. Allows you to set enemy health limiters to remove damage sponginess. Just Works. This is the single most impactful change you can make to skyrim combat and everyone should use it, even if they use the balanced preset like some sort of milkdrinker.
 
-Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn Uncloaked, to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors.
+Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn SPID Uncloak, to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors - or a Realistic Damage plugin to avoid bloat.
 
 You have two 'modern' options when it comes to full-blown combat overhauls: 
 
@@ -277,6 +277,8 @@ Ordinator - gimmicky, bloated, mod author is a nazi, blah blah. Still the best p
 *or* Vokrii - Vanilla Pluth. It's actually really good for stealth and warrior trees but the magic isn't quite as wacky as Ordinator, it's just numbers and scaling mostly. Same difficulty curve as Ordinator, and also made by a nazi
 *or* Adamant - I don't know anything about this but it's also 'vanilla pluth' and the mod author is a prissy s'wit with a discord so it can't possibly offend anyone. Apparently this gives you all the abilities at the start and then the perks don't do anything. Very cool!
 
+*Consider:* Vokriinator - Like everything out there but wish there was more of it? You'd probably be a Vokriinator Enjoyer. The Black version is a bit bloated, although it does include Path of Sorcery which is cool. Most users would want the Non Black variant because they are Racist however.
+
 *Note: There are hundreds of other options and the majority are total overhauls of the core Skyrim levelling experience. Most of the old standbys (SkyRE. PerMa, etc) have been revived by Synthesis patchers or other continuations and are still viable options in Anno Toddini 11. Do your research before picking one, as you're stuck with it for your entire playthrough.*
 
 Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. 
@@ -285,12 +287,14 @@ Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a 
 
 *Honorable Mention*
 
-Skills of the Wild - Expands greatly upon campfire's skills to give you meaningful progression in hunting, survival, cooking, etc. 2.0 removes a lot of bullshit dependencies and streamlines considerably.
+Skills of the Wild - Expands greatly upon campfire's skills to give you meaningful progression in hunting, survival, cooking, etc. 2.0 removes a lot of bullshit dependencies and streamlines considerably. I have used this on every playthrough since it was released and found it to be just as satisfying for woodsy characters as for city slickers.
+*and*
 Simple Hunting Overhaul - No-bullshit streamlined alternative to Hunterborn without the compatibility nightmares. I would only use Hunterborn now for a focused Bosmer playthrough of some sort. Even then, good luck patching recipes and such. You'll need it.
 
 ###Alchemy:
 
-Apothecary or SkyToxin - They make poison dangerous and potions heal over time, which are the only real problems with vanilla.
+Apothecary - it makes poison dangerous and potions heal over time, which are the only real problems with vanilla.
+*or* SkyToxin - Same deal, makes poison hurt and potions have some side effects. The renaming is a bit over the top but the gameplay is crunchy.
 
 *But nwahman I use CACO*
 Feel free to keep it. I don't use it unless I'm playing a fluid druid because it's a compatibility shitfuck, but if it's worth it to you, that's cool too.
@@ -299,7 +303,7 @@ Feel free to keep it. I don't use it unless I'm playing a fluid druid because it
 
 Odin - rebalances vanilla spells and adds a few. Decent starting point.
 *or* Mysticism - this also has alteration spells to unlock things, so it meets my minimum criteria for fixing vanilla magic.
-Apocalypse or Tomebound - add a pack of spells to round out the vanilla experience. Pick only one. Apocalypse integrates with Odin perfectly, so keep that in mind.
+Apocalypse *or* Tomebound - add a pack of spells to round out the vanilla experience. Pick only one since there will be some distribution and effect overlap with both. Apocalypse integrates with Odin perfectly, so keep that in mind.
 Spellsiphon or Wizard Warrior - make combat magic actually fun and usable. Pick only one IMO. Consider Magethwack for adepts/monks.
 Voidgate - a useful diablo/FATE style town portal. Made by the spellsiphon guy. I'm still trying to find a proper mark and recall, so I use this.
 
@@ -330,10 +334,12 @@ Loot Overhaul - Rarity and Abundance - Relevels all loot tables to be more sensi
 
 SkyRem EVE (noted above) and C.O.I.N. will handle this well enough. Eve is a single perk and 100% compatible, C.O.I.N. adds currency types in dungeons for Immersion™.
 *or* Medes In Your Pockets - a very convincing total economy overhaul built around Exchange Currency. Only for Immersive Jewelry diehards. RTFM.
+Tavern Menu Remade - One of my favorite tiny mods. Pulling up to the tavern and them being out of salt piles and having 2 bottles of nord mead despite the 400 gallon barrels behind the counter always gave me conniptions. Between this and Last Seed's Inn Meals taverns become proper homes away from home as they should be IMO.
 Carry That Weight - but nwahman thi- yeah yeah I know, it's not an economy mod. But the thing that breaks the economy is carrying hundreds of pounds of priceless artifacts out of dwemer ruins. This makes you work for it, and unlike previous inventory limiters, has a very clever soft-cap system that doesn't make you go full autism with how many of everything you have.
 *Consider:* Item Weight Customizer - this is a Synthesis patcher, makes the above feel a little more fair. I make armor heavier and misc bullshit lighter, personally, you might want to do the opposite. Check the settings.
 
-Perseids Inns and Taverns - Realistic Room Rental Enhanced - If you don't use ANYTHING else that touches your taverns, this is great. Patch quality for COTN and others is spotty at best - if you use those I recommend the Basic option in the installer which changes room prices or to just stick with EVE's changes.
+
+Perseids Inns and Taverns - Realistic Room Rental Enhanced - If you don't use ANYTHING else that touches your taverns, this is great. Patch quality for COTN and others is spotty at best - if you use those I recommend the Basic option in the installer which changes room prices or to just stick with EVE's changes. You can craft storage with Tentapalooza and use Extended Stay listed below if you want to hack together some of its features.
 
 ###Encounters and Travel
 
@@ -357,6 +363,7 @@ Headhunting - overhauls the bounty system comprehensively. You can now peacefull
 *and/or* Missives - This adds a notice board to settlements with less... high-stakes tasks for you to undertake for money. Deliveries, hunting and ingredient gathering, milk drinking, etc. Works well with Headhunting for a less quest (read: talking) centric adventuring playstyle.
 Immersive speech dialogues, Misc dialogue edits, and More dialogue options - these fix a lot of the goofy shit your character says.
 AI Overhaul - use the synthesis patch and only download patches for mods that move architecture (AIO adds idle markers, which the patch can't handle) *note: this is not Immersive Citizens: AI Overhaul because its author is a faggot and doesn't allow patches of any sort.*
+NPC Names Distributor - this is a framework but really cool because it now includes Name Obscurity by class, race, and a host of other shit. Install a few add-ons and configure your titles as you like. 
 
 ###Needs, visual tweaks, etc.
 Frostfall + Last S(n)eed - the gold standard for immersion autists, finally released. Work together seamlessly.
@@ -374,7 +381,7 @@ Spell Research - This is a tricky one, because this is one of my favorite mods b
 Dark Corners of Nirn - Ever wanted to have crippling PTSD? Here you go. More of a novelty than something to structure a playthrough around.
 
 Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Nemesis System like in the LOTR batman games. This has less confusing spawn points and debuffs than the other mods, and can be configured to do about the same things as both.
-*or* Ashes - Sleep to save, wake up where you slept when you die with a mild debuff and configurable item loss. Check the comments for some essential fixes. Unmaintained and has some minor niggles, but finished and working.
+*or* Ashes - Sleep to save, wake up where you slept when you die with a mild debuff and configurable item loss. Check the comments for some essential fixes! Unmaintained and has some minor niggles, but finished and working.
 *or* Respawn - This is similar to the above but your respawn points are fixed to Temples, Halls of the Dead, and your homes. This is maintained and less buggy, and works in DLC or quest areas. Check the comments for a bed respawn more similar to Ashes.
 *or* Defeat - if you'd rather be raped and impregnated than be immortal, I suppose.
 
@@ -447,6 +454,7 @@ NAT.ENB III - All-in-one weather and ENB with some spectacular eye candy. It's s
 *and/or* Berserkyr ENB - This is an ENB designed around the NAT weather system + Lux and also looks incredible. I find this to have better performance than just NAT, but it still takes a bite out of your frames. Looks horribly oversaturated as of 1.2, and skin gets a bit plasticky as well. Consider 1.1.
 
 Azurite Weathers - More modern take on Cathedral weathers, an old standby that focused on environmental effects and fixing vanilla weirdness (horizon seam, broken fog, etc etc etc). This one looks very good and offers vanilla performance - the colors are good enough to use it without an ENB and using Community Shaders in my opinion, although many popular ENBs (Rudy's, Pi-Cho, etc) will have profiles for it.
+*note:* Azurite Weathers II, recently released, will have varying compatibility with old ENB presets designed around it. Just a heads up.
 
 *Honorable Mentions*
 
@@ -504,6 +512,8 @@ Do note that anything that says MCO, ADXP or whatever will not work unless you h
 "This is what "guides" have come to, huh?" - Anon
 "Why didn't you fags just create a Wabbajack pack" - Anon, after not reading the title
 "I'm a returning player and these three (guides) saved me from 20h of researching shit myself." - Anon
+"man you are just full of dogshit advice, why the fuck did you feel qualified to write a guide on anything again?" - Anon
+["how dare you"](https://files.catbox.moe/kush7t.jpg) - Anon
 
 ##Links
 

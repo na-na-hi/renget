@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Absorb | 2BP | 5AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
 Water Gun | 6BP | 4AP | ≥2 | Water | Special | No secondary effect.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Acid Armor | 0BP | 4AP | -	 | 	Poison | Status | The User's Defense is increased by 2.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

@@ -111,6 +111,23 @@ He's a masochist who revels in the pain battles inflict upon him, growing strong
 Staravia:
 She's the only girl in the gang. Not much is known about her, but Makky and Mawile worked together to defeat her.
 
+#####The Twins of Terror
+Electabuzz:
+Bounty: 7,500 Poke
+Rank: S
+Wanted For: Assault, Theft, Looting
+Sex: Male
+Ability: Static
+He's the elder brother of the Twins, by a few minutes. He and Magmar terrorized multiple villages in the frigid Southwestern part of the Sand Continent, only to be stopped by Team Yin-Yang and Team Masquerade at Snowdrift. He's a bit smarter than Magmar is, having remembered to pack a Reviver Seed for each of them, and focusing on conserving his power while outnumbered. The two brothers also get into frequent arguments and shouting matches; combat being one of the few times they don't butt heads.
+
+Magmar:
+Bounty: 7,500 Poke
+Rank: S
+Wanted For: Assault, Theft, Looting
+Sex: Male
+Ability: Flame Body
+He's the younger brother of the Twins, known for his dimwittedness, poor aim, and tendency to start fires inside of buildings. 
+
 #####Independent Outlaws:
 ~~"Iron Wing" (Hawlucha)~~:
 Bounty: ~~300~~ 1,500 Poke
@@ -137,7 +154,7 @@ Ability: Run Away
 Distinctive Features: Wears a pair of teashade glasses, tinted silver. Tends to hide in the storage of his "talent", such as in backpacks, bags, etc.
 This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunning manipulator with a high degree of battle acumen and intellect, "managing" other outlaws and coaching them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
 
-Rumors state that he has left the Sand Continent, although if they're true, his ultimate destination is unknown.
+He has left the Sand Continent for the Grass Continent, and is building up a gang there.
 
 Moveset:
 Irrelevant.
@@ -187,6 +204,28 @@ Hatterene:
 Sex: Female
 Ability: ???
 The third member of Team Watchers, who never retired in spite of her advanced age. She was mentioned as being introverted, although very kindly to those she opened up to. She was the team's main battler.
+
+#####Team Masquerade:
+Roserade:
+Sex: Male
+Ability: Poison Point
+He's the leader of Team Masquerade, alongside their eyes and ears. He and his partner have worked as bounty hunters for over seven years, yet he lacks any sort of arrogance, remaining cordial and friendly with Team Yin-Yang in spite of their lesser experience, although he was a bit skeptical of Makuhita taking down Foi at first. His fighting style revolves around heavy use of footwork and evasion, alongside pumping opponents full of toxins and Venoshocking them.
+
+Moveset:
+Venoshock
+Magical Leaf
+Petal Dance (Unseen)
+Poison Sting
+
+Empoleon:
+Sex: Male
+Ability: Torrent
+He's the muscle of Team Masquerade, and was immensely prideful, bordering on slight arrogance. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
+Moveset:
+Hydro Pump
+???
+???
+???
 
 #####Independents and Civilians:
 Jolteon:

@@ -27,7 +27,7 @@
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
 **Level:** 5 | **Experience to Next Level:** 35/50 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *None* | **Age:** Unknown
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -38,7 +38,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*60/400 points to Normal Rank*<-
 ->![A means to an end.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -76,8 +76,7 @@ None | N/A
 ***
 
 #### ->Special Bonuses<-
-!!! note You have three active IQ slots (numbered below) and may purchase as many as you can afford.
-    ??? IQ points to spend.
+!!! note ??? IQ points to spend.
 	0/10 | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -89,15 +88,18 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 ***
 
-!!! note You have skills that can be Trained and applied to situations where they make sense.
-    These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----:
+Attribute: Gravitational Potential | Tier **ɪ** (+1) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
+Attribute: Foraging | - | Skill in scavenging for useful food items and materials found in nature. 
+Battle Attribute: ??? | - | - 
+
+***
+
+Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Attribute: Foraging | Tier **ɪ** | 1/3 | ▮▯▯
-Attribute: Gravitational Potential | Tier **ɪ** (+1) | 3/3 | ▮▮▮
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
+Training for Attribute: Foraging | Tier **ɪ** | 2/3 | ▮▮▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -105,22 +107,20 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ***
 
 #### ->Inventory (4 slots)<-
-!!! note Items Espurr is carrying with them. 
-    Moves or Items can steal from this inventory.
+*Items Espurr is carrying with them.*
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: Empty* | Empty
-1. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
-2. Empty | None
-3. Empty | None
+*Equipped Item: Oran Leaf* | Heals the user for 3 HP. Can stack to 3.
+1. Blast Seed | Explodes on contact for 10 true damage.
+2. Blast Seed Residue | The charred remains of a Blast Seed, exploded together with a dozen others. It won't be useful for much. 
+3. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
 4. Empty | None
 
 ***
 
 ##### Storage (2 slots)
-!!! note Extra slots separate from Espurr's normal inventory.
-    Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
+*Extra inventory slots separate from Espurr's normal inventory.*
 Item Name | Description
 ------ | :----: 
 1. Empty | None
@@ -129,8 +129,6 @@ Item Name | Description
 ***
 
 ###### RP/Quest Storage (∞ slots)
-!!! note Inventory dedicated to extra stuff. 
-    Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | None | None
