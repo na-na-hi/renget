@@ -3,7 +3,7 @@
 Name: Eoin O'Dwyer
 Face: Most consider looking at him to be slightly unnerving, while he is conventionally attractive. His face is almost always locked in a neutral or apathetic expression, only rarely letting himself gain a slight smile and even rarer is the time when he can be spotted frowning. Leaving those who haven't talked to him feeling rather uncomfortable.
 Hair: Raven black hair that is kept slicked back the great majority of the time. Occasionally some of it rests in front of his face when he's in the middle of studying or working on something. An oddity is the white streaks in his hair, with the largest being along the top of his head. Judging by the roots it is the natural color of that area yet there is no explained reason why it looks that way.
-Eyes: Very dark blue, occasionally looking dark grey or black if the lighting strikes him right.
+Eyes: An odd darker purple, as if he suffered from albinism in his eyes.
 Height: Very tall, Even while still young he was tall but upon hitting his final height he reaches 6 foot, 10 inches, or around 208 cm. Needing to look down at every witch or wizard he speaks too baring Hagrid.
 Bodytype: While athletic, it is nowhere near to the level of his grandfather. Most of it having come from spending time swimming or from the physical education class. Many expected him to take on the leadership role over Fit Club but it appears he prefers being athletic enough to stay fit but not go much further.
 Complexion: Standard dark skinned individual.

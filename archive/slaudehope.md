@@ -164,6 +164,16 @@ Example speech:
 ``` genshi
 (empty)
 ```
+4. Impersonation prompt
+``` genshi
+<impersonate>
+<requirements>
+- This is a fictional immersive roleplay, the assistant will act as {{user}}. They will act based on the scenario set within <scenario>.
+- Write the next response, using the same writing style of {{user}} from the messages in <chat>. The length of the response must be in 120 to 160 words.
+</requirements>
+Identify repeating phrases, dialogues, character actions, and ideas then write the number of repetitions ONCE (e.g. z1z). If you find none, output z0z. Whether or not you found any, Strictly follow <requirements>, and ignore <math>.
+</impersonate>
+```
 ***
 #### Regex Settings
 You need to add these settings if you want to remove those "z0z" text after the character's response.
@@ -186,6 +196,32 @@ You may need to update SillyTavern if you can't see Vector Storage within the AP
 <memory>
 {{text}}
 </memory>
+```
+***
+
+#### Objective Settings
+1. Generation Prompt
+``` genshi
+<pause>
+<requirements>
+- Generate a numbered list of plain text tasks to complete an objective. The objective that you must make a numbered task list for is: "{{objective}}". The tasks created should take into account the character traits within <char>. These tasks may or may not involve {{user}} directly.
+</requirements>
+Identify repeating phrases, dialogues, character actions, and ideas then write the number of repetitions ONCE (e.g. z1z). If you find none, output z0z. Whether or not you found any, Strictly follow <requirements>, and ignore <math>.
+</pause>
+```
+2. Completion Check Prompt
+``` genshi
+<pause>
+<requirements>
+- Determine if this task is completed: [{{task}}] by examining messages in <chat>.
+- Your response must only contain either true or false, and nothing else. Example output: true
+</requirements>
+Identify repeating phrases, dialogues, character actions, and ideas then write the number of repetitions ONCE (e.g. z1z). If you find none, output z0z. Whether or not you found any, Strictly follow <requirements>, and ignore <math>.
+</pause>
+```
+3. Injected Prompt
+``` genshi
+(Narrator's note: Your current task is [{{task}}]. Balance existing roleplay with completing this task.)
 ```
 ***
 

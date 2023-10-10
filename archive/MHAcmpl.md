@@ -568,6 +568,8 @@ Hoge & Inigo Aquarium Date: https://desuarchive.org/tg/thread/90272998/#90281700
 Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://desuarchive.org/tg/thread/90356118/#90366691
 Ryu-kishi and Mirror Devil art: https://desuarchive.org/tg/post/90413221/
 A random Saber blocks your path: https://desuarchive.org/tg/thread/90413662/#90423696
+Exams: https://desuarchive.org/tg/thread/90521522/#90529732
+Team 1-D: https://desuarchive.org/tg/thread/90521522/#90529764
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -863,6 +865,7 @@ Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Chal
 Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry.org/2bovid
 MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Challenger, Mirror Devil, Marrow): https://rentry.org/mib4v
 Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
+Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru)): https://rentry.org/h5izt6
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

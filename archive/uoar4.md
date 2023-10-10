@@ -17,7 +17,7 @@ _______
 | Song | Link | Where to stream? |
 |------|-----|-----|
 | A New Start |  ->[![](https://files.catbox.moe/ax51el.jpg)](https://www.youtube.com/watch?v=Py21QCndbxc)<- | https://cover.lnk.to/anewstart |
-|mumei| ->[![](https://files.catbox.moe/0e3lkr.png)](https://www.youtube.com/watch?v=oA0CpI0vCK4)<-| Releases on monday (Oct 9th PDT) \| https://cover.lnk.to/Mumei|
+|mumei| ->[![](https://files.catbox.moe/39o10p.jpg)](https://www.youtube.com/watch?v=oA0CpI0vCK4)<-| https://cover.lnk.to/Mumei|
 
 >Covers
 | Song | Link |
@@ -110,10 +110,11 @@ _______
 | 【歌枠 KARAOKE】It's Been 3 Whole Months !!! 『2023-06-23』| [![](https://files.catbox.moe/8zmjwq.jpg)](magnet:?xt=urn:btih:cff33e587f41005ecffcc705df82b37a650f5940&dn=%5B20230624%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/e7p4t4.txt|
 | sleepy moomin 『2023-06-28』| [![](https://files.catbox.moe/kuc717.jpg)](magnet:?xt=urn:btih:e2c9742f61d8ad0b0e79b57db84fd8c2b0db671c&dn=%5B20230629%5D%20unarchived%20sleepy%20moom%20karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/94gw3b.txt |
 |【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols 『2023-07-13』| [![](https://files.catbox.moe/vstdmf.jpg)](magnet:?xt=urn:btih:d183524a4ce09f8f7207b288d9ad2b85c1d31bc9&dn=%5B20230714%5D%20Unarchived%20BEEGsmols%20Relay%20%28Mumei%29&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/weehlx.txt|
-|【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|(Lacks a setlist on stream) https://files.catbox.moe/0r94r1.txt|
+|【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! 『2023-08-04』|[![](https://files.catbox.moe/6e2l68.jpg)](https://www.youtube.com/watch?v=YAcX5PdvJYc)|Archived. Lacks a setlist on stream. \| https://files.catbox.moe/0r94r1.txt|
 |  【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!!  『2023-08-11』| [![](https://files.catbox.moe/2ldhi1.jpg)](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/hrahck.txt |
-| 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|https://files.catbox.moe/lf4ozr.txt (On-stream setlist is incomplete)|
+| 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|Archived. On-stream setlist is incomplete. \|https://files.catbox.moe/lf4ozr.txt |
 | 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 『2023-08-31』\| Mumei's Text chat on stream during its rebroadcast(MEGA file): [Start](oZ50TC5L#zAwaNRiTfieKgrYQKHObsD7lcFFuAzJHoRvpiuOLyBM) \| [Ending](UIY1xb5I#nPSXi90guwdkIgwZSdRLfxvVlzN3wft-yLwSiXxyrR4) | [![](https://files.catbox.moe/0o6om9.jpg)](magnet:?xt=urn:btih:4d3c9ecdb7f6684db334db8d97ce06607ed13a98&dn=%5B20230901%5D%20Unarchived%20Endurance%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0qdejo.txt|
+| 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ 『2023-10-09』| [![](https://files.catbox.moe/v4vxlb.jpg)](https://www.youtube.com/watch?v=bDjzpMmw-JY)|Archived. Lacks a setlist on stream. \| https://files.catbox.moe/q2ikme.txt |
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -121,7 +122,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#7 |#41 | #7 |55 |
+|#8 |#41 | #7 |56 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)
