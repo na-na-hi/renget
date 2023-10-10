@@ -423,7 +423,7 @@ Inigo sighed, looking down at the pale, struggling girl. Gigan was right. Her li
 
 "Okay, we'll try it your way," he conceded. "But when Impakt clobbers us, I expect an apology and you’re explaining to Hoge why we failed."
 
-Inigo steeled himself and stepped out into the chamber. Impakt turned, arm drawn back for a punch. "Halt, young hero!" His voice boomed. "I cannot let you pass!"
+Inigo steeled himself and stepped out into the chamber. Impakt turned, a knee raised to kick. "Halt, young hero!" His voice boomed. "I cannot let you pass without testing your hero's mettle!"
 
 Inigo quickly raised the hand holding his tattered white scarf, the bloodstained banner of truce.
 
@@ -439,7 +439,7 @@ Impakt considered him a moment longer before scooping up the girl with unexpecte
 
 "Please," Inigo added exhaustedly, "Get her aid."
 
-Impakt nodded. "I shall. I will return shortly."
+Impakt nodded. "Very well, young hero. I will return shortly."
 
 Before Inigo could respond, the hero stepped into the shimmering portal and vanished. The remaining students edged away from Inigo warily.
 
@@ -457,7 +457,7 @@ Inigo pushed himself off the wall. Had Impakt verified his story? Would he let I
 
 The pro-hero strode up to him, eyes blazing behind his helmet. Inigo stood tall, ready to plead his case or defend himself.
 
-Impakt leaned in close and murmured, "That was a noble deed, boy. But now I must do my job and serve as your obstacle." He whispered even quieter, placing a hand over his ear. “I’ll show you a display of my mächtiger aufwärtshaken! But should you feint to the right and roll under my strike. It would be difficult for me to recover.” He winked and stepped back, raising his voice. "You shall not pass me!"
+Impakt leaned in close and murmured, "That was a noble deed. But now I must do my job and serve as your obstacle." He whispered even quieter, placing a hand over his ear. “I’ll show you a display of my mächtiger aufwärtshaken! But should you feint to the right and roll under my strike. It would be difficult for me to recover.” He winked and stepped back, raising his voice. "You shall not pass me!"
 
 Inigo blinked in surprise before realizing this was for show. He nodded almost imperceptibly and raised his guard, playing along. "I won't let you stop me, Impakt!"
 
@@ -600,7 +600,7 @@ The mech rotated its torso towards him, looking down impassively. Servo motors w
 
 **"Request denied. Let battle commence."**
 
-"Thought so." Inigo cracked his knuckles. This is what they trained for. "You guys know the play."
+"Thought so." Inigo pointed forward. This is what they trained for. "You guys know the play."
 
 As Kinji's team retreated, Buru bellowed a war cry and charged straight at the Guardian head-on. Chihiro darted to the side, disappearing in a blur of speed. Inigo took flight, soaring up as Gigan formed armor along his limbs.
 
@@ -779,13 +779,13 @@ With Impakt rapidly approaching, they worked quickly to enact Inigo's desperate 
 ***
 ***
 
-A sudden tremor shook the labyrinth, forcing the combatants apart. With a flash of light, two pro heroes materialized amidst the fray - the explosive Impakt. Inigo's heart sank. The organizers must have deemed their army too disruptive.
+A sudden tremor shook the labyrinth, forcing the combatants apart. With a flash of light, the pro hero materialized amidst the fray - the explosive Impakt.The organizers must have deemed their army too disruptive.
 
-"None shall pass!" Impakt bellowed. "Unless you prove your worth, young heroes!"
+"None shall pass!" Impakt bellowed. "Unless you can prove your worth, young heroes!"
 
-Before Inigo could appeal to them, Impakt crashed into their frontliners.  With a single punch he scattered Inigo's team. Inigo seethed, but restrained his anger. Fighting the pro directly would only make things worse. 
+Before Inigo could appeal to them, Impakt crashed into their frontliners.  With a combo of kicks and hooks he scattered Inigo's team. Inigo seethed, but restrained his anger. Fighting the pro directly would only make things worse. 
 
-Inigo barely avoided a crushing blow from Impakt.
+Inigo barely avoided a crushing blow from Impakt as his barrier shattered from the man's elbow drop.
 
 Kinji enhanced his legs with his quirk and leaped away from a charging Impakt. <What's the plan, Ryu-kishi? We're getting slaughtered here!>
 
@@ -797,7 +797,7 @@ Chihiro frowned but nodded. Inigo hated the plan. But if he could remove even on
 
 <Everyone get in position.>
 
-With roar, his team encircled the pro-hero. Impakt swatted at Buru as the minotaur slammed into his leg. Inigo transformed Gigan into an injured red-headed boy and placed his construct in Impakt's path. The German hero barreled forward like a wrecking ball and swung. The hero pulled his punch, but Gigan stepped into it, his build-up of kinetic energy caused the simple jab to hit like a truck. The false student fell, his chest seemingly caved in. 
+With roar, his team encircled the pro-hero. Impakt swatted at Buru as the minotaur slammed into his leg. Inigo transformed Gigan into an injured brown-headed boy and placed his construct in Impakt's path. The German hero barreled forward like a wrecking ball and swung. The hero pulled his punch, but Gigan stepped into it, his build-up of kinetic energy caused the simple jab to hit like a truck. The false student fell, his chest seemingly caved in. 
 
 Impakt paused in surprise.
 
@@ -805,7 +805,7 @@ Inigo didn't believe the construct alone would convince Impakt he had hurt one o
 
 They all stopped attacking. 
 
-As the disguised construct coughed blood, the other kids cried out horrifically, playing their role flawlessly.
+As the disguised construct coughed blood, the other kids cried out horrifically, playing their role flawlessly. Two girls even burst into tears.
 
 "What did you do!?!" "You killed him!" "Murderer!" "He was just a kid!"
 
@@ -853,7 +853,7 @@ Inigo laughed and turned to Kaylee. "You guys get keys?"
 
 "Sorta." 
 
-He quickly shared his plan. Kaylee cracked her knuckles and Christopher simply nodded.
+He quickly shared his plan. Kaylee and Christopher simply nodded.
 
 ***
 Crouching with his makeshift war council, Inigo spoke quietly.
@@ -1033,7 +1033,7 @@ Envigor scoffed. "Still clinging to childish ideals of fairness? Pathetic."
 
 Inigo gave a whistle. "You seem like a pragmatic guy. Why go through so much trouble just to bar us? All we want to do is become heroes to help others."
 
-Envigor chuckled, a deep rumbling sound. "I've been doing this for three years now. It's easy money, and my sponsor makes sure I face no consequences from the organizer." He cracked his knuckles, the sound like boulders grinding together.
+Envigor chuckled, a deep rumbling sound. "I've been doing this for three years now. It's easy money, and my sponsor makes sure I face no consequences from the organizer." 
 
 "We're gonna stop you," Inigo answered. "You can't just block people from passing."
 
@@ -1349,25 +1349,29 @@ They exchanged a determined look. Inigo and Christopher shrugged.
 
  Inigo and Christopher charged forward, emerald and ebony wings bursting from their backs.
 
-Power gathered around Envigor as he aimed the massive energy blast. **"FOOLS!"**
+Power gathered around Envigor as he aimed the massive energy blast. **"FOOLS!"** 
 
 He hurled the deadly mote at the wounded duo.
 
-Before impact, they combined their quirk into a massive spectral barrier. The shield strained and cracked, but held against the apocalyptic detonation.
+Before impact, they combined their quirk into a glowing spectral barrier. The shield strained and cracked, but held against the apocalyptic detonation.
 
 Envigor bellowed in rage. Face purpled from exertion, he flew at them, fist drawn back for a thunderous punch.
 
-Inigo's armor manifested around him once more. Steeling himself, he raised his shield and blocked the titanic blow, though the force of it drove him to his knees. Bones creaked and cracked under the impact.
+Inigo's armor manifested around him once more. Steeling himself, he raised his shield and blocked the titanic blow, though the force of it drove him to his knees. Bones creaked under the impact.
 
 Envigor loomed over him, eyes mad with power. **"YOU BLOCKED MY BLOW WITH YOUR SHATTERED ARM!"**
 
 Blood trickled from Inigo's grin. **"Yeah...so I can do this!"**
 
-His uninjured left hand snapped forward, palm outstretched. **"CRASH DRAGON CLAW!"**
+His uninjured left hand snapped forward, palm outstretched. 
+
+####"CRASH DRAGON CLAW!"
 
 An enormous spectral talon materialized and seized the paralyzed Envigor in its viselike grip. He thrashed and strained against the ethereal bindings.
 
-From above, Christopher yelled out. **"MIRROR DRAGON CLAW!"**
+From above, Christopher yelled out. 
+
+####"MIRROR DRAGON CLAW!" 
 
 Twin draconic appendages now engulfed their foe, constricting tighter with each moment. Envigor's face purpled as his oxygen was cut off. 
 
@@ -1375,11 +1379,11 @@ Twin draconic appendages now engulfed their foe, constricting tighter with each 
 
 Inigo and Christopher poured all their energy into one last attack. Side by side, quirks resonating in harmony. Their united voices echoed through the ancient chamber.
 
-**"DRAGON EMPEROR CRUSH!"**
+####"DRAGON EMPEROR CRUSH!"
 
-**"SHATTERED REFLECTION!"**
+####"SHATTERED REFLECTION!"
 
-Both dragon claws exploded. The walls and floor of the chamber shattered under the forces unleashed. Envigor spasmed once as the spectral claws imploded upon him...then collapsed. As he looked up at Christopher and Inigo. He remembered his late sister's laughter and her pledge to be a true hero. He closed his eyes.
+Both dragon claws exploded. A shower of brilliant prismatic lights covered the chamber. The walls and floor of the chamber shattered under the forces unleashed. Envigor spasmed once as the spectral claws imploded upon him...then collapsed. As he looked up at Christopher and Inigo. He remembered his late sister's laughter and her pledge to be a true hero. He closed his eyes and smiled.
 
 Inigo and Christopher clung together, utterly spent but victorious. Their friends' voices cheered exultantly in their minds. They had endured every trial and reached the end with keys in hand. They had triumphed, together. 
 

@@ -111,7 +111,7 @@ You can only spark units currently on banner.
 You get 12,000 gems on average per month as a f2p, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
-You want to save up for a spark before rolling. Do not roll without a spark, because you can get fucked really hard.
+You want to save up for a spark before rolling. **Do not roll without a spark**, because you can get fucked really hard.
 
 >I have X amount of rolls into the banner, but I already rolled the banner unit. Should I keep going?
 Play it by ear. It's always nice to save some extra rolls for the future, but as a rule of thumb I'd say above 150 rolls you just keep going.

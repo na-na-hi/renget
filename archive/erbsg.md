@@ -16,11 +16,14 @@ https://www.youtube.com/watch?v=J8z5CavPCYY
 \>[New Character] Alonso Preview
 http://www.youtube.com/watch?v=ICAp5jquYwg
 
+\>Lumiapedia - Alonso
+https://www.youtube.com/watch?v=h7yrDsI1mSI
+
+\>Professor Cathy Preview
+https://www.youtube.com/watch?v=5QZ7xQMtx-Q
+
 \>Morning Glory Laura Preview
 https://www.youtube.com/watch?v=HLLRM-lMoIU
-
-\>Security Enforcer Debi & Marlene Preview
-https://www.youtube.com/watch?v=DasuKws4Ev4
 
 \>Are you ready for the Summer? 2023 Season 1: Vacance
 https://www.youtube.com/watch?v=YJm1RpdJzyk

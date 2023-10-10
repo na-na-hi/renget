@@ -73,9 +73,9 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 ###Claude RP Prompts
 #XML Prompt Set
--> **Updated: 08/10/2023** <-
-!!! Chat Completion Preset: https://files.catbox.moe/mk9pbq.json
-!!! Prompt list: https://files.catbox.moe/5s2u05.json
+-> **Updated: 10/10/2023** <-
+!!! Chat Completion Preset: https://files.catbox.moe/i5pvg6.json
+!!! Prompt list: https://files.catbox.moe/n015es.json
 !!!DANGER Edit the "EDIT YOUR CHARACTER HERE" prompt instead of using the Persona Management tab
 
 -> **Based on v8 https://rentry.co/CharacterProvider** <-
@@ -891,7 +891,6 @@ ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
 ###Card Art
 | Character | Images
 |---|---|
-Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip
 Nina | https://files.catbox.moe/8i50m3.zip
 Suzume | https://files.catbox.moe/kyttbm.zip https://files.catbox.moe/7yb8ms.zip https://files.catbox.moe/apg4jf.zip
 Mimi | https://files.catbox.moe/wrkp64.zip https://files.catbox.moe/u4st5i.zip
@@ -899,3 +898,4 @@ Maki | https://files.catbox.moe/s92ozh.zip https://files.catbox.moe/hyp6gm.zip h
 Kaori | https://files.catbox.moe/u5vjkg.zip https://files.catbox.moe/kzur7y.zip https://files.catbox.moe/xk0cbf.zip
 Yukina | https://files.catbox.moe/8zxvyu.zip https://files.catbox.moe/79v01c.zip
 Mackenzie | https://files.catbox.moe/bdgb1i.zip https://files.catbox.moe/qk7sn5.zip
+Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip

@@ -45,6 +45,7 @@
 |31/07/2023|[Timestamp](https://youtu.be/eRJrrm7_Hy0?t=5918)| **Mention** - First impressions during her 24 hours marathon breakdown stream|
 |12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
 |2023-10-07|[Timestamp](https://www.youtube.com/watch?v=DJfTr9BsO2Y&t=12454s)| **VC** - Nerissa joins Calliope's open VC during a Suika stream along with Shiori.|
+|2023-10-10|[Timestamp](https://www.youtube.com/watch?v=YKIZnQZTetM&t=13560s)| **VC** - Nerissa joins Calliope's open VC Minecraft stream for a brief 3 minutes until the stream ends, promises Calliope to visit her in Minecraft at later date for a longer period.|
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -76,6 +77,7 @@
 |10/09/2023| [Link](https://www.youtube.com/watch?v=iaZ-tmSleko) [Timestamp #1 - Idea of whatever the drawing should be](https://youtu.be/iaZ-tmSleko?t=3180) [Timestamp #2 - Nerissa coming back from her meeting](https://youtu.be/iaZ-tmSleko?t=6972)|**VC** - Open VC collab with Advent and drawing them. Multiple parts since Nerissa had a meeting with the managers midway through.|
 |15/09/2023| [Entire Stream](https://youtu.be/Dh0RJtL4Xu4) / [Timestamp #1 - Entering VC](https://youtu.be/Dh0RJtL4Xu4?t=640) / [Timestamp #2 - Entering VC once more](https://youtu.be/Dh0RJtL4Xu4?t=6195)|**VC** - Second Open VC collab with Advent and drawing them.
 |2023-09-28| [Link](https://www.youtube.com/watch?v=EQ5CVr3bb5U)|**Collab** - Nerissa and Mumei discuss their self-described emo phases.
+|2023-10-09|[Timestamp](https://www.youtube.com/watch?v=bDjzpMmw-JY&t=4319s) | **Mention & Karaoke partner** - Nerissa had previously collaborated with Mumei to produce a karaoke duet recording of a song for Mumei's partner karaoke stream.|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Advent
 
@@ -145,6 +147,7 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |27/08/2023|[Timestamp #1](https://youtu.be/xjq_nIonh5M?t=14166) [Timestamp #2](https://youtu.be/xjq_nIonh5M?t=14840)| **Streamer-chat Interactions** - Follow-up of their interaction during the second SOS stream this time on Reimu's channel at the end of her RE:Village stream. Both were bantering about Village and Silent Hill.|
+|2023-10-12| TBA | **Collab** - Nerissa's second collab outside of Hololive, joining Reimu for a game of Cuphead. TBD |
 
 ###### 🍙 OniGiri 
 |Date|Link|Nature & Notes|

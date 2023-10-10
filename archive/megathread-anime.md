@@ -93,10 +93,6 @@
 - A trustworthy resource, scraping numerous different websites with various options.
 - [URL Safety Results](https://www.urlvoid.com/scan/allanime.co/)
 
-### ▶️ [AniKatsu](https://anikatsu.me/)
-- Free site that allows you to watch anime and even get episodes with dubs or subtitles without having to register.
-- [URL Safety Results](https://www.urlvoid.com/scan/anikatsu.me/)
-
 ### ▶️ [Animania](https://animania.co.uk/)
 - See and follow thousands of high quality episodes of all the biggest anime series, updated constantly for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/animania.co.uk/)
@@ -184,6 +180,10 @@
 ### ▶️ [Playtaku](https://gogohd.net/)
 - You've come to the right place if you're searching for something fresh and intriguing.
 - [URL Safety Results](https://www.urlvoid.com/scan/anihdplay.com/)
+
+### ▶️ [Ryuk](https://ryuk.to/)
+- Free site that allows you to watch anime and even get episodes with dubs or subtitles without having to register.
+- [URL Safety Results](https://www.urlvoid.com/scan/ryuk.to/)
 
 ### ▶️ [WcoFun](https://wcofun.org/)
 - Watch a variety of cartoons and anime for free on the site in awesome HD.

@@ -27,10 +27,10 @@ Botmaker | Category | New Bots | Updated Bots
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Alina Mahler](https://files.catbox.moe/2p2qkb.png)|[Alina Mahler](https://files.catbox.moe/2p2qkb.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/d82m4u.png)
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[The Lamplighter](https://files.catbox.moe/fvyp1w.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||

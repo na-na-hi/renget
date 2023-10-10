@@ -45,12 +45,13 @@
 |15/09/2023|[![【Mario Kart 8】Driving leisurely with Advent~ 🎼 ](https://files.catbox.moe/g2tj3f.jpg)](https://youtu.be/Srb5k7icrJY)|[Shiori](https://www.youtube.com/watch?v=UX6IDuP1Hdw), [Bijou](https://www.youtube.com/watch?v=wldcO2gtjpU) & [FUWAMOCO](https://www.youtube.com/watch?v=GwCBlhmnwjQ)|---|Advent Fullgen Collab|
 |2023-09-17|[![【BG3】Shall be begin Act 2? (kinda)🎼 ](https://i.ytimg.com/vi/esjshsOyA5c/mqdefault.jpg)](https://www.youtube.com/watch?v=esjshsOyA5c)|[Kiara](https://www.youtube.com/watch?v=Zh42eJLqOSQ), [Bijou](https://www.youtube.com/watch?v=h0cFPOwxVD8) and [Calliope](https://www.youtube.com/watch?v=6xPK98Pdsgo)|~3h59|Group Collab|
 |2023-09-19|[![【JEWELBIRD】I slept in the same bed as Bijou?! 🎼 ](https://i.ytimg.com/vi/0ZF1K50ffww/mqdefault.jpg)](https://www.youtube.com/watch?v=0ZF1K50ffww)|Bijou|~2h16|1-on-1 collab|
-|---|TODO: add missing|---|---|---|
+|2023-09-29|[![Building our Home in Minecraft! 🎼 ](https://i.ytimg.com/vi/rb4YD__X4k8/mqdefault.jpg)](https://www.youtube.com/watch?v=rb4YD__X4k8)|[Shiori](https://www.youtube.com/watch?v=l1ObfIST4EI), [Bijou](https://www.youtube.com/watch?v=T1xC1b1C5iA) & [FUWAMOCO](https://www.youtube.com/watch?v=6dIbvdQO-d0)|~2h01|Advent Fullgen Collab|
 
 ####![](https://files.catbox.moe/f9inkg.png) October 2023
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
 |2023-10-01|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://i.ytimg.com/vi/NSCXDcreVmI/mqdefault.jpg)](https://www.youtube.com/watch?v=NSCXDcreVmI)|Shiori, Fauna|~2h35| Impromptu collab & VC|
+|2023-10-06|[![【L4D2】Advent's Return To The Apocalypse 🎼 ](https://i.ytimg.com/vi/GQIPoEZZrHQ/mqdefault.jpg)](https://www.youtube.com/watch?v=GQIPoEZZrHQ)|[Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou & [FUWAMOCO](https://www.youtube.com/watch?v=0GnRDoCXr3E)|~2h18|Advent Fullgen Collab|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

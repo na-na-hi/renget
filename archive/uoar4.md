@@ -17,7 +17,7 @@ _______
 | Song | Link | Where to stream? |
 |------|-----|-----|
 | A New Start |  ->[![](https://files.catbox.moe/ax51el.jpg)](https://www.youtube.com/watch?v=Py21QCndbxc)<- | https://cover.lnk.to/anewstart |
-|mumei| ->[![](https://files.catbox.moe/39o10p.jpg)](https://www.youtube.com/watch?v=oA0CpI0vCK4)<-| https://cover.lnk.to/Mumei|
+|mumei| ->[![](https://files.catbox.moe/39o10p.jpg)](https://www.youtube.com/watch?v=oA0CpI0vCK4)<-| https://cover.lnk.to/Mumei \| [HighRes Audio(.wav) courtesy of Anon](https://files.catbox.moe/xm9600.wav)|
 
 >Covers
 | Song | Link |
@@ -114,7 +114,7 @@ _______
 |  【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!!  『2023-08-11』| [![](https://files.catbox.moe/2ldhi1.jpg)](magnet:?xt=urn:btih:e05fc63469bbf240251c456b1a2b2da3421f0568&dn=%5B20230812%5D%20Unarchived%20800k%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/hrahck.txt |
 | 歌枠 but Mumei sings songs she doesn't know very well with a cold 『2023-08-12』(Unlisted)| [![](https://files.catbox.moe/2udtqv.jpg)](https://www.youtube.com/watch?v=w241Wd4asJE)|Archived. On-stream setlist is incomplete. \|https://files.catbox.moe/lf4ozr.txt |
 | 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 『2023-08-31』\| Mumei's Text chat on stream during its rebroadcast(MEGA file): [Start](oZ50TC5L#zAwaNRiTfieKgrYQKHObsD7lcFFuAzJHoRvpiuOLyBM) \| [Ending](UIY1xb5I#nPSXi90guwdkIgwZSdRLfxvVlzN3wft-yLwSiXxyrR4) | [![](https://files.catbox.moe/0o6om9.jpg)](magnet:?xt=urn:btih:4d3c9ecdb7f6684db334db8d97ce06607ed13a98&dn=%5B20230901%5D%20Unarchived%20Endurance%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0qdejo.txt|
-| 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ 『2023-10-09』| [![](https://files.catbox.moe/v4vxlb.jpg)](https://www.youtube.com/watch?v=bDjzpMmw-JY)|Archived. Lacks a setlist on stream. \| https://files.catbox.moe/q2ikme.txt |
+| 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ 『2023-10-09』| [![](https://files.catbox.moe/v4vxlb.jpg)](https://www.youtube.com/watch?v=bDjzpMmw-JY)|Archived. Lacks a setlist on stream. \| https://files.catbox.moe/q74cv3.txt |
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
