@@ -6,7 +6,7 @@ Here is the Non-GFL bots https://rentry.org/aicg
 
 There's a bunch of Tavern cards and jsons (links in the metadata of the cards) at https://booru.plus/+pygmalion/@nymous
 
-Older stuff is on the booru, newer stuff should be on characterhub: https://www.chub.ai/profile
+Older stuff is on the booru, newer stuff should be on characterhub: https://www.chub.ai/characters/nymous/
 
 ----
 

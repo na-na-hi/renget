@@ -1,10 +1,10 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #34 (Tuesday, 3 October 2023, 22:15 UTC)<-
+->Last updated on thread #35 (Tuesday, 10 October 2023, 20:00 UTC)<-
 
 == **LINKS**
-- [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
+- [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
 - [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate)
@@ -266,6 +266,9 @@ https://e-hentai.org/g/992891/b1bd9973b5/
 !!! info
     ##Selected /HMoFA/ Games
 ---
+`Morgan's Skate Club`
+https://spacedimsum.itch.io/morgansskateclub
+
 `The Forgotten Island`
 https://foxtailtale.itch.io/the-forgotten-island (RPG)
 

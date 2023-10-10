@@ -62,6 +62,10 @@ Part 1 of a three book series. The protag is an evil dragon lord who is overthro
 Fantasy (isekai/reincarnation)
 Couldn't finish this because the prose was giving me a migraine. I apologize for not giving the author a chance but this reads like they put Russian directly into google translate.
 ‎
+**Talon Series** (2014) by Julie Kagawa
+Urban Fantasy
+Basically Twilight with dragons, where the main cast spend most of their time in humanform and think more like vampires with a grand conspiracy to take over the world. Replace Bella Swan with a girl who has a super special secret dragon bloodline (even amongst the other dragons), Edward and Jacob with a a rogue dragon agent and dragonslayer respectively and her brother with Peeta Mellark from The Hunger Games, and you have the entire 5 book series in a nutshell.
+‎
 **Tesser: A Dragon Among Us: A Reemergence Novel** (2014) by Chris Philbrook 
 Urban Fantasy
 A dragon wakes up in the modern world, then proceeds to be a womanizer.

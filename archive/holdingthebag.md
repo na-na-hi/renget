@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 6th October. All dates dd/mm.
+!!! Note Last updated: 10th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-13107 | アオダマ | Open as of 24/09
+13107 | アオダマ | Open as of 10/10
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -107,9 +107,10 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
+3640 | DFC | Open as of 08/10
 6665 | F2Poor | Open as of 24/09
 10625 | Vrillionaires | Open as of 06/10
-11830 | TummyArchive | Open as of 14/09
+11830 | TummyArchive | Open as of 10/10
 12395 | 中出しの幸せ (cumshot happiness) | Open as of 21/09
 
 ##### Full
@@ -124,7 +125,6 @@ Club ID | Club Name | Club Status
 1674 | BlueB@lled | Full as of 21/06
 2065 | paizuri | Full as of 03/04
 2188 | ChibiThighs | Full as of 14/05
-3640 | DFC | Full as of 17/09
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
 6786 | Enuji | Full as of 30/09
@@ -139,6 +139,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+2496 | AbydosCycling | Open as of 10/10
 6098 | Comfy | Open as of 16/09
 
 ##### Full
@@ -150,7 +151,6 @@ Club ID | Club Name | Club Status
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
-2496 | AbydosCycling | Full as of 22/08
 4722 | JointRaid | Full as of 03/02
 6289 | FlatIsJustice | Full as of 30/09
 

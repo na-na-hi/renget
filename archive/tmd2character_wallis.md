@@ -74,7 +74,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯

@@ -437,4 +437,5 @@ https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame desi
 https://arch.b4k.co/vp/thread/54623584/ uranium2 /vp/ try not to respond to obvious trolls/shills challenge (impossible)
 https://arch.b4k.co/vp/thread/54636740/ uranium3 orevald dies from shitty fakemon designs, again
 https://arch.b4k.co/vp/thread/54636647/ wack dreepy solorun thread, dead on arrival due to level cap issues
-https://arch.b4k.co/vp/thread/54651587/ detergent1
+https://arch.b4k.co/vp/thread/54651587/ detergent1 autism
+https://arch.b4k.co/vp/thread/54656958/ detergent2
