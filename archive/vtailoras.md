@@ -840,6 +840,13 @@
 -> [Civitai](https://civitai.com/models/121380/henya-the-genius) <-
 -> [MEGA](https://mega.nz/folder/sShj1LpS#Zh5ZxGO3uwK4QEaZ2X6z1w/folder/gLwn0KDZ) <-
 
+#### -> Nyatasha Nyanners <-
+!!! info All outfits (outside of recent ones)
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(nyatasha nyanners, pink hair, long hair, ahoge, hair ornament, purple eyes, cat girl, cat ears, cat tail, ccapelet, winter clothes, black bow, fur-trimmed dress, fur hat, long sleeves, purple dress, white headwear, frills, winter coat)
+-> [Civitai](https://civitai.com/models/79354/nyanners-vtuber-character-lora) <-
+
 #### -> Projekt Melody <-
 !!! info Two Outfits!
 !!! note Recommended weight: 0.8
@@ -2158,13 +2165,6 @@
 !!! info Example Prompt
 	(akuma nihmune, choker, ear piercing, high heels, horns, off-shoulder jacket, long hair, purple hair, pink eyes, loose necktie, open jacket, pleated skirt, white shirt, necklace, cleavage, garter straps, brown thighhighs, school uniform)
 -> [Catbox](https://files.catbox.moe/gmvbvb.safetensors) <-
-
-#### -> Nyatasha Nyanners <-
-!!! info All outfits (outside of recent ones)
-!!! note Recommended weight: 0.7
-!!! info Example Prompt
-	(nyatasha nyanners, pink hair, long hair, ahoge, hair ornament, purple eyes, cat girl, cat ears, cat tail, ccapelet, winter clothes, black bow, fur-trimmed dress, fur hat, long sleeves, purple dress, white headwear, frills, winter coat)
--> [Civitai](https://civitai.com/models/79354/nyanners-vtuber-character-lora) <-
 
 #### -> Oda Nobuhime <-
 !!! note Recommended weight: 1

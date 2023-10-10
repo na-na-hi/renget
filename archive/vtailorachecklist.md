@@ -40,18 +40,16 @@ Remilia Nephys | X | X | -
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
-	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Veibae
+	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Nyatasha Nyanners, Projekt Melody, Veibae
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Zentreya | X | - | X
 Ironmouse | X | - | X
-Projekt Melody | X | - | X
 Apricot/Froot | X | X | -
 Hime Hajime | - | - | -
 Kson | X | - | X
 Silvervale | X | - | X
-Nyatasha Nyanners | X | - | X
 GeegaVS | X | X | -
 Kuro Kurenai  | - | - | -
 

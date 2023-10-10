@@ -114,6 +114,7 @@
 09/2023|[Effective Long-Context Scaling of Foundation Models](https://arxiv.org/abs/2309.16039)
 09/2023|[AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 09/2023|[Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
+10/2023|[RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.01352)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
@@ -390,6 +391,7 @@
 10/2023|[Retrieval meets Long Context Large Language Models](https://arxiv.org/abs/2310.03025)
 10/2023|[DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)
 10/2023|[LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294)
+10/2023|[Amortizing intractable inference in large language models (GFlowNet Tuning)](https://arxiv.org/abs/2310.04363)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

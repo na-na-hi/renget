@@ -12,9 +12,9 @@
 
 https://rentry.org/ClaudeTokens
 
-**Refusal Blacklists using Stop Sequence Sub-strings** (Claude + OAI)
+**DALL-E 3 and Bing are a match made in heaven** (Micro$soft + OAI)
 
-https://rentry.org/RefusalBlacklists
+https://rentry.org/desuDALLE3
 
 **How to reverse-engineer character definitions on Character\.AI (CAI)** 
 

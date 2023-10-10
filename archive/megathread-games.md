@@ -163,7 +163,7 @@
 
 # 📑 ➜ Torrents
 
-### 🐐 [DODI Repacks](https://dodi-repacks.site/)
+### 🐐 [DODI Repacks](https://dodi-repacks.site/) / [2](https://dodi-repacks.download/)
 - Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector.
 - [URL Safety Results](https://www.urlvoid.com/scan/dodi-repacks.site/)
 

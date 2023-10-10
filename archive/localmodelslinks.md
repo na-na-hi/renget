@@ -101,6 +101,7 @@
 [GigaGAN](https://github.com/lucidrains/gigagan-pytorch)|Text-to-Image synthesis with layout-preserving fine style control and upscaling
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
+[Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets

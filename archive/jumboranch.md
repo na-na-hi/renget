@@ -88,5 +88,5 @@ Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
 ![Sunny the punk ass lil' Raccoon Girl :)](https://files.catbox.moe/oq80re.png)
-![Mishka the Grizzly cub](https://files.catbox.moe/wmtq79.jpg) ![Ehzi 'Armadillo' Kobold Healer](https://files.catbox.moe/bvr86t.png)
+![Mishka the Grizzly cub](https://files.catbox.moe/mh0rp4.jpg) ![Ehzi 'Armadillo' Kobold Healer](https://files.catbox.moe/bvr86t.png)
 ![More cheeky Mishka cute brat!](https://files.catbox.moe/mvwrt5.jpg)

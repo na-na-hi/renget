@@ -27,6 +27,7 @@ Botmaker | Category | New Bots | Updated Bots
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Alina Mahler](https://files.catbox.moe/2p2qkb.png)|[Alina Mahler](https://files.catbox.moe/2p2qkb.png) [MV]
 [Nono](https://rentry.org/NonoRoom) | Misc |[Davena](https://files.catbox.moe/9ybc3i.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/d82m4u.png)
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
@@ -49,7 +50,6 @@ Botmaker | Category | New Bots | Updated Bots
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
