@@ -14,7 +14,7 @@ Clan name | Description | Playstyle | Last CB | Notes
 Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 875 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
 Ayumisters (27/30) | For homeless misters and armpit enthusiasts | Casual | 1318 (A) | -
 Looplets (23/30) | A lazy kot is a beautiful kot. | Casual | 2233 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
-Fun Island (26/30) | Kokkoro is the cutest. | Casual | 4465  (BBB) |  Just be yourself. + tag in profile
+Fun Island (25/30) | Kokkoro is the cutest. | Casual | 4465  (BBB) |  Just be yourself. + tag in profile
 
 
 

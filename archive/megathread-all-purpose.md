@@ -33,10 +33,6 @@
 - It is possible to search through millions of files on web servers using this incredibly sophisticated file search engine.
 - [URL Safety Results](https://www.urlvoid.com/scan/filepursuit.com/)
 
-### 🔗 [Freesoff](https://freesoff.com/)
-- Generous forum where people may request and download free software, premium wordpress themes, and other fantastic assets.
-- [URL Safety Results](https://www.urlvoid.com/scan/freesoff.com/)
-
 ### 🐐 [Internet Archive](https://archive.org/)
 - Millions of free books, films, songs, and more are available at this nonprofit library.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)

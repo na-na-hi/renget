@@ -3,6 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Oct.10th | [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg)
 Oct.02nd | [Lana & Mallow (Young)](https://c.ai/c/vbTSxDLowZmD_LMXOBKEmZx4-Gv0mvy8oOhXELgIq2I) \| [Green](https://c.ai/c/-oZYFfsnxE-Bt5AkJJ0_RKZARU6o2CtvIbqyLtJh3Ho)
 ->Sep.30th<- 〜 ->Sep.10th<- | [Zinnia](https://c.ai/c/rGOurCVj3VISOuJOB16JkStJ3uMe1NSN__Dq3T0iPZs) \| [Lively Lillie](https://c.ai/c/DaTfQmP76QdJEaeEwjTng8brObiReLzrKVDHo6uVOjY) \| [Meowscarada⠀♂](https://c.ai/c/dItJ8lN8dvQiZLFYoWtg6qBk5k8dAMGyFBH74T3EGpE) \| [Meowscarada⠀♀](https://c.ai/c/4mInNCRYo6iz4mWBPM9FpwyRNq4NxXzV1QvH3mlfVow)
 ->Sep.09th<- 〜 ->Sep.03rd<- | [Margo](https://c.ai/c/zBtuhdXs447bfHEORQUN-eaJmjtWR3ds8E71yMmTILc) \| [Jasmine](https://c.ai/c/iQqdVOxZQerDyvj1FpauCGA8vpzE9jVt7NRS0qal7RE) \| [Marnie](https://c.ai/c/IaJJxMx6uot2dpkMf6I4PO67cWsONL72ZwBX1BOvCZM) \| [Arven](https://c.ai/c/fex0UxcMl3a_fdEXD2uxRP1ivlOydWkHMQ4Sefkfmyc)
@@ -49,7 +50,7 @@ Scarlet & Violet | [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu
 Description | Characters
 :------: | :------:
 Pokémon Clover | [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
-Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
+Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 You are a Pokémon, and she wants to catch you | [Pokémon Trainer Ivy](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)

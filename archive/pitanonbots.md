@@ -1,6 +1,11 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 [TOC3]
+###OC Characters
+| Bot's name | Updated | CHUB Link | Card |
+|---|---|---|---|
+Sylvia | 11/10/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/sylvia-4d8b0f43/main) | ![](https://files.catbox.moe/h9n8ch.png)
+
 ### Indiana Koi
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|

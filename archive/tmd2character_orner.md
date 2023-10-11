@@ -6,7 +6,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 25/70
+**Level:** 7 | **Experience to Next Level:** 50/70
 **Worn Item:** *N/A* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 645₽ | **Glorious Gold:** 0 Bars
 
@@ -15,7 +15,7 @@ Pokémon's Ability | Description
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -61,7 +61,7 @@ Battle Attribute: N/A
 Training for Attribute: N/A
 Training for Battle Attribute: N/A
 Training for Move: N/A
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 7/9 | ▮▮▮▮▮▮▮▯▯
 Stat: N/A
 
 **INVENTORY (4 slots)**
@@ -69,16 +69,16 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Oran Berry | Heals 10HP when health drops to half.
 *Equipped Item: Oran Leaf | Heals 3HP
-1. Oran Leaf | Heals 3HP
-2. Warp Seed | Random teleport seed.
-3. Joy Seed | Free level up!
+1. Warp Seed | Random teleport seed.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Joy Seed | Free level up!
+2. Blast Seed | 10 True Damage
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

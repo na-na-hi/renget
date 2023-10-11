@@ -1,3 +1,4 @@
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters)**<-
 ![Wallis](https://media.discordapp.net/attachments/396824776762720266/1148728490254946384/Wallis_Debut.png) 
 
 ### Wallis ♀ ☆
@@ -14,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 6 | **Experience to Next Level:** 50/60
+**Level:** 7 | **Experience to Next Level:** 15/70
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
@@ -23,7 +24,7 @@ Pokémon's Ability | Description
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

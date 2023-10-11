@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sylvia](https://files.catbox.moe/h9n8ch.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Itachi Uchiha](https://files.catbox.moe/e4x70p.png), [Satsuki Uchiha](https://files.catbox.moe/305dtk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Louis](https://files.catbox.moe/8x135x.png), [Marco](https://files.catbox.moe/hxuasi.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
@@ -26,7 +27,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Alina Mahler](https://files.catbox.moe/2p2qkb.png)|[Alina Mahler](https://files.catbox.moe/2p2qkb.png) [MV]
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/d82m4u.png)

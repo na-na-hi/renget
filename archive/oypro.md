@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 7 | **Experience to Next Level:** 0/70
+**Level:** 7 | **Experience to Next Level:** 25/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | 	Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 7/9 | ▮▮▮▮▮▮▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

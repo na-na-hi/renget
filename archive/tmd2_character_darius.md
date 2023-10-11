@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** No clue.
 **Species:** Larvitar | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:**0/70
+**Level:** 7 | **Experience to Next Level:**25/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to Burn's Attack decrease
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 7/9 | ▮▮▮▮▮▮▮▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

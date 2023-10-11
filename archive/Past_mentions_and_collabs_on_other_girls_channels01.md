@@ -137,6 +137,11 @@
 |---|---|TODO: add 12 MC|
 |2023-10-06|[Nerissa's POV](https://www.youtube.com/watch?v=GQIPoEZZrHQ)| **Collab** - Thirteenth HoloAdvent Group collab and Left 4 Dead 2 second collab (with [Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=0GnRDoCXr3E))|
 
+##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN Collabs
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-09-24| [Kiara POV](https://www.youtube.com/watch?v=lnzf_XfZaus) ![](https://files.catbox.moe/an4lxn.png) [Calliope POV](https://www.youtube.com/watch?v=b1Y_IFiTFe4)|Part 4 of the Baldur's Gate 3 collab playthrough with Kiara, Bijou and Calliope. Nerissa was not streaming her POV this time because it was very early in the morning for her. ![](https://files.catbox.moe/an4lxn.png) Notably included a short hotmic segment from Nerissa on Calliope's stream during the post-stream end credits, later cut from the VOD.|
+
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN's Channel
 |Date|Link|Nature & Notes|
 |---|---|---|

@@ -99,6 +99,7 @@
 * [More Zenas](https://mega.nz/folder/46EhXZTK#GKIUf9dTa6o2jL5DAfb72A)
 * [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
 * [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
+* [LittlePMStuff](https://mega.nz/folder/43kxAQZC#JiUVRjtLV2MhdxzLdKnMqg)
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
 * [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
 * [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
@@ -127,4 +128,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things
 9/28/23: Added link to Other Kots MEGA
 10/4/23: Added new Drawpile album link
-10/6/23: Added alternative Lobco artbook link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/6/23: Added alternative Lobco artbook link
+10/10/23: Added LittlePMStuff link ![lol&](https://files.catbox.moe/7dmu76.png)

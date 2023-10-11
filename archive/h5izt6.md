@@ -1164,7 +1164,7 @@ Rockhorn rose, dark blood trickling from his maw. Eyes flashing, he gestured and
 !!! Hero Name:「Rockhorn」
 	Quirk:「Counter Harm」
 
-	Type: Emitter
+	Type: Mutant
 
 	Description: His stony mutant exterior reflects any damage dealt to him, matching its strength and intensity exactly. The harder an enemy hits, the harder he hits back!
 

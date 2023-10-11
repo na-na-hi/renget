@@ -10,18 +10,18 @@
 ->Your head is not all that it seems to be. There's two lives there, you think. Now there's three. A world before the dark, and another drenched in it, with only the dimmest of lights to guide you through. You do definitely remember having hands, though. But whatever trials and tribulations, you know the solar light still burns bright within you. It can't be anything else, can it, o' wanderer mine?<-
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** N/A
-**Species:** Fennekin | **Affiliation:** N/A
+**Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
+**Species:** Fennekin | **Affiliation:** Fireteam Stardust
 **Level:** 7 | **Experience to Next Level:** 10/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 152₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 192₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*50/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -79,7 +79,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
-2. 2x Wooden Stick | Does 3 true damage to a target, is thrown directly.
+2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -97,7 +97,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Pile of used Blast Seeds | A pile of gathered Blast Seeds, all burnt and mostly spent.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

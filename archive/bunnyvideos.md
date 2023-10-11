@@ -16,6 +16,9 @@
 
 ## Pets
 
+[ENG/ZHO] BoBo, Ellie: https://www.youtube.com/@BoboEllieBuns
+- two Holland Lops, some videos have Chinese subtitles, but the channel is entirely in English, 100K+
+
 [ENG] Pipkin, Pigpoke: https://www.youtube.com/@OneMorePlease
 - memey and daily life videos about two Dutch rabbits, 500K+
 

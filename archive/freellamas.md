@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Mythomax-8bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://newest-freely-cos-coordinate.trycloudflare.com```
+Blocking API URL: ```Offline```
 
 ***
 **System prompt:**

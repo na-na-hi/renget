@@ -25,9 +25,9 @@
 
 # 📑 ➜ Direct Downloads
 
-### 🔗 [4DOWNLOAD](https://4download.net/)
+### 🔗 [4MIRRORLINK](https://4mirrorlink.com/)
 - Complete software downloads, audio samples, tutorials, e-books, and videos may all be found here.
-- [URL Safety Results](https://www.urlvoid.com/scan/4download.net/)
+- [URL Safety Results](https://www.urlvoid.com/scan/4mirrorlink.com/)
 
 ### 🔗 [Aedownload](https://aedownload.com/)
 - Hundreds of brand-new, After Effects and Premiere Pro templates, including sound effects are available.

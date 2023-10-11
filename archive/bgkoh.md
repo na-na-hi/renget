@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 7 | **Experience to Next Level:** 25/70
+**Level:** 7 | **Experience to Next Level:** 50/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 94₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*40/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
 
 
 **INVENTORY (4 slots)**
@@ -71,7 +71,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
-2. Empty | N/A
+2. Red gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
 3. Aspear Berry |  Thaws the user. Heals Freeze.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 

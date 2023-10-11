@@ -7,7 +7,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 6 | **Experience to Next Level:** 60/50
+**Level:** 7 | **Experience to Next Level:** 70/15
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 580₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Rookie Rank<-
-->*25/400 points to Normal Rank*<-
+->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -61,12 +61,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Star Charting **ɪɪ** | Tier **ɪɪɪ** (+3) | 3/3 | ▮▮▮
-Attribute: ???  |  N/A | 0/3 | ▯▯▯
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
-Battle Attribute: ???  |  N/A | 0/6 | ▯▯▯▯▯▯
-Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Move: None | N/A | 0/5 |  ▯▯▯▯▯
-Currently Training for Stat: N/A | N/A | 0/9 | ▯▯▯▯▯▯▯▯▯
+
+Training | Completion | Progress (Numerical) | Progress Bar
+------ | :----: | :----: | :----:
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
