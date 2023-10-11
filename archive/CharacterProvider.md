@@ -9,7 +9,7 @@
 ->  <-
 #
 
--> [![](https://files.catbox.moe/mmqz9k.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/kht674.png)](https://boosty.to/xmlk/donate)<-
+-> [![](https://files.catbox.moe/mmqz9k.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/m2rhtm.png)](https://boosty.to/xmlk/donate)<-
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 # 
@@ -24,7 +24,9 @@
 ##Quick start
 Click these images to quickly access the prompts:
 
--> [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt) ⠀ [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) <-
+-> [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) ⠀ [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt)<-
+
+-> [![](https://files.catbox.moe/skrlsy.png)](#6-faq) ⠀ [![](https://files.catbox.moe/l7i12l.png)](#my-characters)<-
 ######
 - - -
 ##Info section
@@ -141,6 +143,9 @@ Your initial message may contain actions or speeches for your character, which m
 A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](#how-to-prevent-format-loops).
 
 The other issue may be the "Ah, ah, mistress!" problem, your reply is just either moans, or "I continue doing what I am doing.",  "Continue." or even an empty message. AI just doesn't know how to proceed with the scene further. (Possible solution would be utilizing two LLMs (or separate agents) which work in tandem with each other, one creating context and one focusing on story itself with their own sets of instructions, but this is not possible in Tavern right now. LLama looks good for this purpose. Maybe.)
+#####
+**Q7: AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly it writes the story instead!)**
+A7:  If you're trying to talk directly to GPT/Claude (not your character), turn off the JB and erase the prefill (for Claude). You can create an empty card just to chat with the AI or start your message with [Roleplay is paused] - this works even with JB (mostly).
 #####
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**

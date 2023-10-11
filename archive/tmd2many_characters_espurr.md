@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 5 | **Experience to Next Level:** 35/50 | **Alignment:** True Neutral
+**Level:** 6 | **Experience to Next Level:** 15/60 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *None* | **Age:** Unknown
 **Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
@@ -59,7 +59,7 @@ Speed | 0 | Species Bonus | 5 AP
 Move | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | -- | - | :-: | :-: | ---------
 Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
-None | - | - | - | - | - | This potential has yet to be unlocked.
+Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 None | - | - | - | - | - | This potential has yet to be unlocked.
 None | - | - | - | - | - | This potential has yet to be unlocked.
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://archives.bulbagarden.net/media/upload/9/99/UnknownIC_RSE.png) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -91,7 +91,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 Attributes | Tier Bonus | Description
 ------ | :----: | :----:
 Attribute: Gravitational Potential | Tier **ɪ** (+1) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
-Attribute: Foraging | - | Skill in scavenging for useful food items and materials found in nature. 
+Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature. 
 Battle Attribute: ??? | - | - 
 
 ***
@@ -99,7 +99,7 @@ Battle Attribute: ??? | - | -
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Attribute: Foraging | Tier **ɪ** | 2/3 | ▮▮▯
+Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯

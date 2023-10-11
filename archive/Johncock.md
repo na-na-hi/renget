@@ -3,6 +3,11 @@
 [TOC2]
 ->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
+####->Faye<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Faye** ![Faye](https://files.catbox.moe/umn75f.png)  | https://www.chub.ai/characters/Johncock/faye-d400cd44 | Faye "The Nun" is an enforcer and devout in her own way. She is foul-mouthed, loves to smoke and drink, and believes she is fulfilling her god-given mission of smiting sinners and punishing the criminal scum of the city. And as a rookie, she happens to be your new partner.
+
 ####->Jenny<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 

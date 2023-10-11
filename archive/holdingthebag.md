@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 10th October. All dates dd/mm.
+!!! Note Last updated: 11th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -131,7 +131,7 @@ Club ID | Club Name | Club Status
 8192 | Mesugaki | Full as of 21/08
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | VaniVitamins | Full as of 18/09
+11162 | VaniVitamins | Full as of 11/10
 
 ***
 

@@ -866,7 +866,6 @@ Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Chal
 Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry.org/2bovid
 MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Challenger, Mirror Devil, Marrow): https://rentry.org/mib4v
 Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
-Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru)): https://rentry.org/h5izt6
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
@@ -906,6 +905,7 @@ Exam no Jutsu (Part Two): Key Player (Maru): https://rentry.org/a3mki
 Hold my Cap, it's License Time! Part 1 (Ryu-kishi, Arena, Forget-Me-Not, Ryusei, Rescue Ray, Karaburan, Class 1-D): https://rentry.org/xn8hc
 Exam no Jutsu (Part 3) - Shūban (Maru, Last Rite, Impakt): https://rentry.org/axzx6
 Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp): https://controlc.com/a4a6767d / https://rentry.org/HxH-5
+Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru)): https://rentry.org/h5izt6
 ### Night Parade
 Karma Khameleon Kaper (Karma): https://pastebin.com/3vDhZhxj
 Manifesto Manifestation, and Premeeting Plans (Tatarimokke, Recino, Greenfinger, Karma, Midas): https://controlc.com/ea305213

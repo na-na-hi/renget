@@ -4,7 +4,17 @@ Final Fantasy Tactics, Tactics Ogre, Bravely Default, Nier Automata, etc
 		
 `There is no rhyme or reason for mixing and weighing these, just have fun. You can use all of them at once and you'll get a Super Tactics style, or any of them individually. They're all great. I'll give some basic tips based on my experiences as a potential baseline for you but, really, anything goes.`
 
+>Style Artist Yoshida Akihiko - https://mega.nz/folder/ctl1FYoK#BYlpywutnH4psbEcxsbLLg/folder/Ul1AiKZT
+>Trained mainly on his Nier Reincatnation art
 
+>Final Fantasy Tactics Jobs Style - https://civitai.com/models/98663?modelVersionId=167027
+Make sure to try all of the versions, each one has a different look to it. This one is really handy for getting those classic full body FFT portraits.
+
+> Final Fantasy Tactics Akihiko Yoshida Style - https://civitai.com/models/84106/final-fantasy-tactics-akihiko-yoshida-style
+This one is a bit tricky to use but it's great once you figure it out. Try lowering the weight or mixing it with other LoRAs or using another model if it's too heavy. 
+
+>Akihito Yoshida Tactics Ogre Locon V2 - https://mega.nz/file/YcpCSRYL#T3SJklfu4rq1mbaMB6s7OTtvOF-XAyE__WYLSu-YNdU
+I think someone on Twitter shared this with me, it emulates the old school TO style.
 
 >Tactics Ogre LUCT Hypernetwork NAI - https://mega.nz/file/k8knyQST#5YUVf39JBybhBybSM8Ul9FPS0MGxIqtLtffFWLOXPKI
 >"NAI Tactics Ogre LUCT Hypernetwork. Works on NAI/Anything and their mixes so far. No named character recognition though, you have to prompt for their looks. Some samples included. Trained on the art book. Only humans."

@@ -1,6 +1,6 @@
 # /aicg/ bots with expressions list
 -> Bots for Silly \ Risu, i.e. excluding miku\.gg bots, which are here https://rentry.org/mikugg <-
--> List updated: ==25.08.2023== <-
+-> List updated: ==21.09.2023== <-
 !!! note Submissions info
     Because charhub now has official support for the expression packs, the list is considered `deprecated`. You can still use the email though, and I will add your bots here, if for some reason you prefer not to use charhub. And I'll try to include any bots I see shilled with catbox links.
 
@@ -20,8 +20,8 @@ https://chub.ai/characters/Alpacalotta/Estelle -> -> [**Estelle**](https://files
 chub.ai/characters/jumboranch/gizmo-dewclaw -> -> [**Gizmo**](https://files.catbox.moe/ompesi.zip) | [jumboranch](https://desuarchive.org/g/thread/94601410#94602737) | They aren't perfect, but they made him more enjoyable for me. Here's what I had so far (it changes a lot). | [1](https://files.catbox.moe/7214kn.png)
 ![](https://files.catbox.moe/mxj62r.png) -> -> [**Nagito**](https://files.catbox.moe/peaqwz.zip) | [bunnybots](https://desuarchive.org/g/thread/95146903#95147111) | Nagito + Expressions pack | [1](https://files.catbox.moe/6mzivw.png)
 ![](https://files.catbox.moe/7t2wn6.png) -> -> [**Doris**](https://files.catbox.moe/b4y0mh.zip) | [chefseru](https://desuarchive.org/g/thread/95510492#95511295) | from Depravity of a Lewd Vampire, a vampire gigaslut who will leave you a grinning husk if you wrong her, or just because she feels like it | [1](https://files.catbox.moe/nqfwz7.png)
-![](https://files.catbox.moe/25i5bv.png) -> -> [**Flurkina**](https://files.catbox.moe/m04s2m.zip) | [jiriro7912](https://desuarchive.org/g/thread/95569412#95570991) | simple 28 emotions | [1](https://files.catbox.moe/oo3p0k.png)
-
+![](https://files.catbox.moe/25i5bv.png) -> -> [**Flurkina**](https://files.catbox.moe/m04s2m.zip) | [jiriro7912](https://desuarchive.org/g/thread/95569412#95570991) | 28 simple emotions | [1](https://files.catbox.moe/oo3p0k.png)
+![](https://files.catbox.moe/oonpqg.png) -> -> [**Venefica**](https://files.catbox.moe/l5voao.zip) | [chefseru](https://desuarchive.org/g/thread/96125234/#96125643) | The chocolate bunny demon beast witch from Monster Girl Dreams who makes sexy magic candy. | [1](https://lfs.charhub.io/lfs/230907/emotions/v1/surprise.png)
 
 ***
 https://rentry.org/mikugg-emotions-tutorial

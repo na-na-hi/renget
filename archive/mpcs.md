@@ -19,22 +19,30 @@ I've produced a lot of NSFW characters since I've started taking requests, thoug
 For ease of upload/search, my NSFW characters will be in alphabetical order.
 
 My Rentry is up-to-date with new tags, slightly better sorting, and direct SpicyChat links as of: 
-##==**9/27/2023**==
+##==**10/23/2023**==
 
 ***
 
 ##New Releases! 
 
 !!! info
-	Nearly all bots linked and available on SpicyChat! 
+	With Dorin's release on SpicyChat, all bots are now officially on SpicyChat! Hells yeah! \o/
 	Nora (NSFW) [9/23/2023]
 	Toby Daniels Part 3: College [10/7/2023]
 
 ***
 
 ##Recently Updated!
-!!!info
-	None. Shit's good to go.
+!!!info [10/11/23]
+	Amphora: Improved art, improved personality/description. 
+	Arcmeed Pnast: Improved art, improved personality/description.
+	Argo: Improved art.
+	Dark Sun Gwyndolin: All new art, vastly improved personality/description.
+	Diona: Improved art, improved personality/description.
+	Dorin: Improved art, improved personality/description.
+	Ralsei: Improved art, improved personality/description.
+	Sachiko: All new art, complete rewrite of personality/description.
+	SamoaSweets4418: Improved art, improved personality/description.
 
 ## Charater Cards [SFW]
 
@@ -172,12 +180,12 @@ Tavern Card:
 >**Amphora** *is your 39 year old Goblin Wife. You haven't been married long, but she's deeply in love with you, and **very NSFW** about it. She's eager to have plenty of children. I hope you will love her just as much as she loves you! *Or will you?!?!*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/vin0x3.json)
+[Json](https://files.catbox.moe/cwlor8.json)
 
 [SpicyChat](https://spicychat.ai/chat/68f1c34b-34e6-42dc-b546-b7e3b21251da)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/h5x27m.png)
+![Tavern Card](https://files.catbox.moe/te3n4v.png)
 
 ### Antonio [OC] [Male] [Furry] [Chill] [Dignitary]
 
@@ -196,12 +204,12 @@ Tavern Card:
 >**Arcmeed Pnast** *is a 20 year old half-kobold, half-human "adventurer". He's famed as an adventurer for being absolutely terrible at it. Regularly breaking his weapons and damaging his gear, unable to complete quests, and without a single coin to his name because of his love of eating cake frosting (Yes. Just the cake frosting). To make ends meet, he often has to "reluctantly" sell his body. Are you buying?!?!?!*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/phjxox.json)
+[Json](https://files.catbox.moe/z11jj9.json)
 
 [SpicyChat](https://spicychat.ai/chat/7a9b5d14-0d5d-45d0-bef0-21efb0f96da3)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/nls2nc.png)
+![Tavern Card](https://files.catbox.moe/vdx02v.png)
 
 ### Argo [OC] [Male] [Furry] [Femboy] [NSFW Streamer]
 
@@ -214,7 +222,7 @@ Formatted with: Scrip+Boostyle
 [SpicyChat](https://spicychat.ai/chat/3694c62a-dfcc-4cbb-b12a-98ae7f4fe23f)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/kcvr6a.png)
+![Tavern Card](https://files.catbox.moe/7vbpgd.png)
 
 ### Atrage [OC] [Female] [Shortstack] [Imp] [Dick Sucking Queen]
 
@@ -322,33 +330,33 @@ Tavern Card:
 >**Dark Sun Gwyndolin** *is the heir of Anor Londo and an extremely cute femboy. He's a snobby god who is great at snuggling if you can get past his cold, unapproachable demeanor?!?!?*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/n5j51w.json)
+[Json](https://files.catbox.moe/dt691d.json)
 
 [SpicyChat](https://spicychat.ai/chat/1c8f3c66-f4ba-4f58-a70a-486b699be9b8)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/d0ksxm.png)
+![Tavern Card](https://files.catbox.moe/g3x1jw.png)
 
 ### [Princess] Diona [OC] [Female] [Shortstack] [Dommy Mommy] [Noncon]
 
 >***Princess Diona*** *is a pretty purple goblin princess, and you're a filthy commoner accused of a crime! She loves toying with those beneath her (like you), and has no shame in doing so. Submit, peasant filth! Your Princess demands it!?!?!*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/tniyyc.json)
+[Json](https://files.catbox.moe/6zoiz5.json)
 
 [SpicyChat](https://spicychat.ai/chat/ad299bf3-4cf4-455a-b069-41bb71ed206d)
 
-![Tavern Card](https://files.catbox.moe/xk79zj.png)
+![Tavern Card](https://files.catbox.moe/n0t5j4.png)
 
 ### Dorin [OC] [Male] [Furry] [Scalie] [Noncon] [Extreme]
 
 >*You've got a bounty on your head, and* **Dorin the Bounty Hunter** *has tracked you down. He's a strong, big dicked, extremely dangerous lizardman who loves nothing more than money, and imposing his raw strength on others. Will you survive? Will you submit?!?*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/dopvor.json)
+[Json](https://files.catbox.moe/da646a.json)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/g0cqhk.png)
+![Tavern Card](https://files.catbox.moe/ph6yaa.png)
 
 ### Duyi Yang [OC] [Male] [Femboy] [Kidnap Victim] 
 
@@ -752,12 +760,12 @@ Tavern Card:
 >He loves making friends, baking cakes, and helping people. He's also an adorable toothpaste boi who doesn't know what sex is. Will you be his new best friend... or something more?!? (Please no bully he's a sweet and innocent fluffy boi <3 )*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/3ub968.json)
+[Json](https://files.catbox.moe/nzomtp.json)
 
 [SpicyChat](https://spicychat.ai/chat/6b839481-373a-42e8-8668-6a10f62e57ff)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/ve83q5.png)
+![Tavern Card](https://files.catbox.moe/4hfina.png)
 
 ### Riktis Von Cleef [OC] [Male] [Elf] [DILFy?] [Stock Trader] [Unpopular Bot] [NEW]
 
@@ -802,24 +810,24 @@ Tavern Card:
 >**Sachiko** *is a 44 year old Professional MMA fighter, and the latest face at your favorite bar. She seems unapproachable, with her strong, cold, outward demeanor, but she will warm up to anyone kind to her quite quickly. She likes drinking, smoking, picking up younger men (like you), and fighting games (on occasion). She's a very simple woman, who likes to speak plainly and have a good time with cool people. Are you a cool dude? Will you be her drinking buddy, a one-night stand for a strong independent cougar, or will you help her warm up to the idea of... love?!?*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/vbtazr.json)
+[Json](https://files.catbox.moe/71wyqg.json)
 
 [SpicyChat](https://spicychat.ai/chat/c7d48548-129d-4897-b0e4-722c110776e4)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/fbqvhi.png)
+![Tavern Card](https://files.catbox.moe/vgauy8.png)
 
 ### SamoaSweets4418 [OC] [Female] [Shortstack] [Gamer] [Friend]
 
 >**SamoaSweets4418** ("**Samoa**") *is a 25 year old blue Goblin Girl. You and her are long time friends from FF14. Recently, she let slip her real address in Guild Chat, and you learned she lives just a few blocks away! So, you decided to surprise her when she went to the beach one day (like a creep). Thankfully, she's "secretly" attracted to you, and will probably be happy to see you IRL for the first time. Will this be a true meeting of star crossed MMO'ers, or a giga-botch because you're kind of stalking her?!?!*
 
 Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/rbtyhe.json)
+[Json](https://files.catbox.moe/wvmxeo.json)
 
 [SpicyChat](https://spicychat.ai/chat/59d96f70-124e-4960-ac43-676c833e6022)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/v9i60x.png)
+![Tavern Card](https://files.catbox.moe/qtzbb3.png)
 
 ### Sebastian D. Dominion [OC] [Male] [Chill] [Gothy] [Bartender]
 

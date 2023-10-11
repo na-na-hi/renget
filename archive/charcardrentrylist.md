@@ -18,11 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Johncock](https://rentry.org/Johncock) | Misc |[Faye](https://files.catbox.moe/umn75f.png)|
+[Crikey](https://rentry.org/crikeyscorner) | Misc |[Viola](https://files.catbox.moe/i1m34o.png)|[Viola](https://files.catbox.moe/i1m34o.png) [MV]
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sylvia](https://files.catbox.moe/rytr17.png)|[Sylvia](https://files.catbox.moe/rytr17.png) [MV]
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Itachi Uchiha](https://files.catbox.moe/e4x70p.png), [Satsuki Uchiha](https://files.catbox.moe/305dtk.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Louis](https://files.catbox.moe/8x135x.png), [Marco](https://files.catbox.moe/hxuasi.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
-[Muricanpie](https://rentry.co/mpcs) | Misc |[Toby Daniels (College Variant)](https://files.catbox.moe/t0hyef.png)|
+[Muricanpie](https://rentry.co/mpcs) | Misc |[Toby Daniels (College Variant)](https://files.catbox.moe/t0hyef.png)|[SamoaSweets4418](https://files.catbox.moe/qtzbb3.png), [Arcmeed Pnast](https://files.catbox.moe/vdx02v.png), [Dorin](https://files.catbox.moe/ph6yaa.png), [Argo](https://files.catbox.moe/7vbpgd.png), [Sachiko](https://files.catbox.moe/vgauy8.png), [Amphora](https://files.catbox.moe/te3n4v.png), [Ralsei](https://files.catbox.moe/4hfina.png), [Diona](https://files.catbox.moe/n0t5j4.png), [Dark Sun Gwyndolin](https://files.catbox.moe/g3x1jw.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[Micelle](https://files.catbox.moe/umdkkp.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
@@ -40,10 +42,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
-[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
-[Johncock](https://rentry.org/Johncock) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
