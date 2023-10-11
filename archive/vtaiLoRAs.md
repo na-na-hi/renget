@@ -1058,7 +1058,7 @@
 #### -> (Gen 1) Jitomi Monoe <-
 !!! note Recommended weight: 0.6
 !!! info Example Prompt
-	(jitomi monoe, white footwear, pantyhose, black hair, shorts, jacket, black hairband, knee boots, long sleeves)
+	(jitomi monoe, black hair, short hair, red eyes, white footwear, black pantyhose, shorts, white jacket, black hairband, knee boots, long sleeves)
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/5W4hVIoJ) <-
 
 ### -> 774 inc <-

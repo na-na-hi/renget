@@ -326,3 +326,42 @@ https://civitai.com/models/127533/fluffyrock-quality-tags
 	Direct DL V3: https://civitai.com/api/download/models/151790?type=Model&format=SafeTensor
 
 One thing to keep in mind for all of these is that your outputs might wind up ending same-ish due to the "bad" looking stuff being filtered out. As always, experiment with only using some, or none of these if you want to mix up your results.
+
+## What are "xformers"? How do I update my WebUI? What are commandline arguments?
+
+All three of these things concern the editing of webui-user.bat (Windows) and webui-user.sh (Linux).
+
+Open up the appropriate file with your text editor. In there, you can see a line called "set/export COMMANDLINE_ARGS". As the name states, here you can provide several arguments that the WebUI will take into account when launched.
+
+One of the arguments you can provide is for the WebUI to use the xFormers library, greatly improving memory consumption and speed.
+**KEEP IN MIND THAT XFORMERS ONLY WORKS WITH NVIDIA GPUs**
+To install xformers, all you need to do is write "--xformers" after "COMMANDLINE_ARGS=". Launch the WebUI, and it will automatically install xFormers for you. Enjoy free performance.
+
+Some other noteworthy commandline arguments include
+
+	--no-half-vae: Some cards are unable to correctly use floating point 16 models. You might be one of them if you get black images. If you encounter this issue, put this argument into commandline arguments in order to not switch the VAE model to 16-bit floats, preventing the issue. Or just put it in there anyway, since it causes no issue even if you are not affected.
+	--opt-sdp-attention: Results in faster gens but at higher VRAM cost (only works on newer cards IIRC)
+	--medvram / --lowvram: Both decrease gen speed but also help with VRAM cost. Use if you encounter Out Of Memory Errors. MedVRAM is usually worth it, the speed decrease is negligible compared to the VRAM you can save. Only use LowVRAM if you absolutely have to.
+	--medvram-sdxl: Only enables medvram when trying to use SDXL models. Can help if you encounter issues since SDXL is quite VRAM hungry compared to SD 1.5.
+	--autolaunch: Automatically opens up the WebUI tab in your browser once it is done loading, saving you from copy-pasting the URL.
+	--update-all-extensions: Checks all extensions for updates on launch. Tends to massively increase the loading time when launching, and may cause compatibility issues if an extension gets updated while your WebUI isn't.
+
+On that subject, you can update your WebUI install one of two ways:
+1) Git Bash/Open a Terminal where webui-user.bat is located, and type in "git pull". It will check for any updates on the GitHub and download them.
+2) Write "git pull" into your webui-user.bat file. This will make it so "git pull" is used every time you launch the webui-user.bat. Good for staying up to date, bad when an update breaks stuff. Use responsibly.
+
+Example of webui-user.bat contents:
+
+	@echo off
+
+	set PYTHON=
+	set GIT=
+	set VENV_DIR=
+	set COMMANDLINE_ARGS= --xformers --no-half-vae --autolaunch
+
+	git pull
+	call webui.bat
+
+A111 has its own listings of Commandline Arguments and Optimization methods:
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations

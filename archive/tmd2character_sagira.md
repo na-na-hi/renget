@@ -12,7 +12,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 7 | **Experience to Next Level:** 10/70
+**Level:** 7 | **Experience to Next Level:** 35/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 192₽ | **Glorious Gold:** 0 Bars
 
@@ -21,7 +21,7 @@ Pokémon's Ability | Description
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 
 ->Rookie Rank<-
-->*50/400 points to Normal Rank*<-
+->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

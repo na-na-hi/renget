@@ -347,6 +347,70 @@ What are Fun/Funner Editions?
 >CLIP should theoretically respond more to natural language. (Don't conflate this with tags not working or having to use natural language. Also it is not magic, so don't expect extremely nuanced prompts to work better.)
 >FunEdition and FunEditionAlt are earlier versions before adjusting the UNET further to fix color temperature and color bleed. CLIP on these versions may be less predictable as well.
 
+### Indigo Furry mix
+https://civitai.com/models/34469?modelVersionId=167882
+Various different model mixes with varying styles.
+
+All models are baked with VAE, but you can use your own VAE.
+
+Of the many versions uploaded, I will provide direct links to the following recommended models (as of Oct 11th 2023):
+
+Hybrid/General Purpose:
+
+v75:
+
+	This model is probably a combination of v45 and v60.
+	Note that hybrid models are common models that can do many different styles by artist names, make sure to add artists to prompts. Clip skip = 1.
+
+	DL: https://civitai.com/api/download/models/167882?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v45:
+
+	This is basically a mix of all my previous models with fluffyrock, it balanced style and stability,should be able to be used as a general model.
+    It can do both anime and realistic content, but I think it's more realistic.
+    Note that in some scenarios, there is not as much details in generated images as those  specialized anime/realistic models.
+    Should be ok with all LoRAs. Clip skip = 1 or 2. Using e621 tags, danbooru tags, also phrases.
+
+	DL: https://civitai.com/api/download/models/109229?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+Anime:
+
+v70:
+
+	Based on v60, cetusWhaleFall2, and nijijourney loras, and a background scene lora.
+	This model is probably a combination of v55_SFW and v55_NSFW, maybe more SFW.
+	Trained with Nijijourney images, could probably do a lot of NJ anime styles.
+	Lighting is more natural according to a friend xd. Could handle very dark images. Unstable NSFW, this model is more about looking good xd.
+	Note that doing NSFW is unstable, can only do humanoid penises, sometimes the shape of characters’ penises will be weird xd. Clip skip = 1 (or rarely 2).
+
+	DL: https://civitai.com/api/download/models/163168?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v55:
+
+	NSFW: This is a NSFW model, which is better at making NSFW content, but it may not be as good as the Hybrid model. Also, compared to v55_sfw, this version has fewer details. Based on v45, meina mix and niji loras. Clip skip 1 or 2.
+	SFW: This is a SFW model, which is better at making SFW content, it is more flat in style than the nsfw version. Also this version is more niji. Can do nsfw but unstable. Based on v45, meina mix and niji loras. Clip skip 1 or 2.
+
+	DL NSFW: https://civitai.com/api/download/models/141821?type=Model&format=SafeTensor&size=pruned&fp=fp16
+	DL SFW: https://civitai.com/api/download/models/141820?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+Realistic:
+
+v65:
+
+	Based on v60, dreamshaper_v8, and midjourney loras.
+	A similar but different model for v35, it’s a model with a strong Midjourney photorealistic style and HDR.
+	Trained with Midjourney images, could probably do a lot of MJ realistic styles.
+	Note that this model doesn’t like tails, tends to do ferals, also the character’s body may not be fully covered by fur (or become human xd). Clip skip = 1.
+
+	DL: https://civitai.com/api/download/models/156771?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v50:
+
+	A more common model than v35 with weaker style and better compatibility.
+	No (or less) midjourney style this time (couldn’t find dataset to make loras also it’s damn tiring to merge loras or MBW models I don’t wanna do it again xd). Based on v45, v35, and new dawn. Clip skip = 1.
+
+	DL: https://civitai.com/api/download/models/136703?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
 ## Galleries
 
 # FluffAnon's Generations

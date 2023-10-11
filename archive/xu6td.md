@@ -86,7 +86,7 @@ https://files.catbox.moe/npv63s.js
 
 ##4chan-x Saucelink
 Under the Sauce tab, add the following line below `# Known filename formats:` (Refresh required)
-`javascript:void(open("https://twitter.com/"+%$1+(%$2?"/status/"+%$2:"")));regexp:/@(\w+)-?(\d{19})?(-[0-3])?\.\w+$/`
+`javascript:void(open("https://twitter.com/"+%$1+(%$2?"/status/"+%$2:"")));regexp:/@(\w+)-?(\d{19})?(-[0-3])?.*\.\w+$/`
 ![](https://files.catbox.moe/id675y.png)
 ![](https://files.catbox.moe/drqzpb.png)
 

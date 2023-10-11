@@ -1,27 +1,35 @@
 ```
-Default Edition
+Degenerate Edition
 Last time on /degen/: 
-
->>> OG Guide <<<
-https://rentry.org/voldy
 
 >>> Local install <<<
 Automatic1111: https://github.com/automatic1111/stable-diffusion-webui
 ComfyUI (Node-based): https://rentry.org/comfyui
 Mac: http://drawthings.ai (settings: all compute units, enable metal flash)
+CPU: http://rentry.org/cputard
+
+>>>Guides<<<
+New User Guide: https://rentry.org/voldy
+VAE (Important): https://rentry.org/sdvae
+Controlnet: https://rentry.org/dummycontrolnet
+Animation: https://rentry.org/AnimAnon
 
 >>> Models/Embeddings/Characters/Celebs/Prompts/fetish content <<<
 https://civitai.com
 https://majinai.art
 https://huggingface.co
+https://gitgud.io/gayshit/makesomefuckingporn
+https://rentry.org/hdglorarepo
+https://rentry.org/trashcollects
 
->>> Faded colors/purple stains/low quality/blurry/aliased? Get a VAE <<<
-https://rentry.org/sdvae
-
->>> Other links <<<
-Archive: https://thebarchive.com/b/search/subject/DEGENerated/
+>>>Other links<<<
 Wiki: github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
-Controlnet: https://rentry.org/dummycontrolnet
+Link Hub: https://rentry.org/sdg-link
+LoRa Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
+Tags for prompting: https://danbooru.donmai.us/wiki_pages/tag_groups
+Embeddings: https://rentry.org/embeddings
+OP Pasta: https://rentry.org/degenpasta
+Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 
 >>> Related boards (their OP may have additional resources) <<<
 >>>/h/hdg

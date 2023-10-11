@@ -151,6 +151,7 @@
 10/2023|[Nugget 2D: Dynamic Contextual Compression for Scaling Decoder-only Language Models](https://arxiv.org/abs/2310.02409)
 10/2023|[Mixture of Quantized Experts (MoQE): Complementary Effect of Low-bit Quantization and Robustness](https://arxiv.org/abs/2310.02410)
 10/2023|[Augmented Embeddings for Custom Retrievals](https://arxiv.org/abs/2310.05380)
+10/2023|[Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/abs/2310.05707)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -394,6 +395,8 @@
 10/2023|[LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/abs/2310.03294)
 10/2023|[Amortizing intractable inference in large language models (GFlowNet Tuning)](https://arxiv.org/abs/2310.04363)
 10/2023|[SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344)
+10/2023|[Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/abs/2310.05175)
+10/2023|[Let Models Speak Ciphers: Multiagent Debate through Embeddings](https://arxiv.org/abs/2310.06272)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

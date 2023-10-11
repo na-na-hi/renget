@@ -69,7 +69,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch and paint on the s
 No. All the content in the game can be beaten even with the default Identities. Reroll if you want to start with specific ones.
 
 **2. Who do I reroll for?**
-Try to get two Identities on this list. It's unlikely but possible to get 3.
+Try to get two Identities on this list. It's unlikely but possible to get 3. Do not bother rerolling for E.G.Os.
 - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
 - ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
@@ -118,7 +118,7 @@ Extraction Tickets and Decaextraction Tickets are for single rolls and 10-rolls 
 
 There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
 - Standard Extraction
-A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any Sinner. Never roll on this banner outside of using paid Lunacy, this is a truth among all gacha.
+A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any Sinner. Never roll on this banner outside of daily rolls with paid Lunacy, this is a truth among all gacha.
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
 
 - New Identity / E.G.O Target Extraction
@@ -132,7 +132,7 @@ A banner that increases the probability rates for receiving the Identities and E
 **4. Dupes**
 If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
-The other use for Egoshards is Uptie 4, which requires Egoshards, so one 000 dupe can be viewed as a free Uptie 4. You can also convert Egoshards to Thread, but you generally shouldn't do that.
+The other use for Egoshards is Uptie 4, which requires Egoshards, so one 000 dupe can be viewed as a free Uptie 4. You can also convert Egoshards to Thread, but that is not recommended. 
 
 When rolling, dupes of identities will be converted into the following number of shards:
 **0** | **00** | **000**
@@ -145,7 +145,7 @@ As for E.G.O, rather than being converted into shards, it'll be removed from the
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
 **6. Battle Pass**
-The Battle Pass is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season on the Battle Pass page. The Battle Pass has a free track and a paid track.
+The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track.
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
@@ -208,9 +208,9 @@ Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dun
 In other words - yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
 
 **3. What should I shard (spark) first, and when?**
-If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, or both if it applies. You should also avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
+If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, preferably both if it applies. You should avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
 
-As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. If you really want something now whether it be for the Railway or something else, you can do it whenever.
+As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. But if you really want something now whether it be for the Railway or something else, you can do it whenever.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
 This largely depends on how many Egoshards you have for that Sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
@@ -237,29 +237,33 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 You can give up (Press the give up button) or lose (have all your Sinners die) in any battle and try again without penalty in most cases. Giving up or losing a story node will make you lose 1 Enkephalin. If you lose a battle inside a Dungeon you will have to retry with your remaining Sinners that weren't participating originally. If you have no remaining Sinners you will be forced to forfeit. If you lose in a Story Dungeon but have Sinners remaining, the Sinners who died will stay dead until you reach a checkpoint, at which point they will be revived. Sinners cannot be revived in Mirror Dungeons. In summary, give up before you lose the battle.
 
 **2. Coins, Clashes, Offense & Defense Level**
-For each clash, every coin still available will be flipped and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.
+For each clash, every coin still available will be flipped at the same time and every heads coin will add/decrease to the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease the value if you flip heads. The victor will use their remaining coins to attack.
 
 Taking the following scenario as an example: 
 
-![Clashes](https://files.catbox.moe/0ogspw.png)
-In a clash the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash power for every 3 points of difference between Offense Levels. In this instance Drilling Stab (2 coins) will clash against Stab (1 coin). Faust's Offense Level is 24 points higher than the enemies, so she has +8 clash value. With this in mind, Faust's base coin power on this skill is 14. For each heads coin that lands on her skill, she will receive +2 clash value, meaning her maximum coin value is 18. Dominating is the probability of winning the Clash. Faust is guaranteed to win this Clash, but not all Dominating clashes are guaranteed. The probability shown also takes Sanity and some status effects into account.
+![Clashes](https://files.catbox.moe/db9hfp.png)
+In a clash, the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash Power for every 3 points of difference between Offense Levels. In this instance For Justice! (3 coins) will clash against Plunge In (3 coins). Don Quixote's Offense Level is 5 points higher than the enemies, so she has +1 clash value. This means she gets +1 to her minimum and maximum clash value, turning her 3/12 skill into a 4/13 skill. With this in mind, Don's base coin power on this skill is 4. For each heads coin that lands on her skill, she will receive +3 clash value, meaning her maximum coin value is 13. Favored is the probability of winning the clash. The probability shown also takes Sanity and some status effects into account.
 
 The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is Increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and 28% when the differential is 10. As the differential increases, returns diminish. When the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing damage dealt. 
+
+If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. You can't view the damage in a clash without calculating manually or switching the clashes and hoping that it displays. Damage is also boosted by clash count. 
 
 **3. Resonance**
 This is Resonance (Res). Resonance is achieved when you use 2 or more skills of the same Sin in the same turn. More resonance means more damage, and Resonance is required for some passives to work.
 ![Resonance](https://files.catbox.moe/pkg0a2.png)
 
-This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use 3 or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is not necessary for passives to work.
+This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use 3 or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is not necessary for passives to work. It also increases Offense Level for the effected skills.
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**
-Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an E.G.O at low Sanity will also have a non guaranteed chance to corrode.
+Every character, except for Abnormalities has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an E.G.O at low Sanity will also have a chance to corrode depending on how low your Sanity is.
 
-Sanity increases after winning a Clash based on the Clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
+Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when level of the defeated ally was higher than the unit's, and decreases based on the level difference. E.G.Os also cost Sanity.
 
-**4. Damage**
-If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. You can't view the damage in a clash without calculating manually or switching the clashes and hoping that it displays.
+**4. Battle Types**
+There are two types of battles - human battles and Abnormality battles. As the names imply, the battle type depends on whether you are fighting humans or Abnormalities. If you are fighting both humans and Abnormalities at the same time, it will be an Abnormality battle. In the Refraction Railway, every battle is an Abnormality battle regardless of the enemy type.
+
+Human battles are what you will encounter most often. In human battles, you drag the chain across the dashboard to select skills. Outside of things like aggro and certain E.G.Os, you cannot manipulate targeting and clashes in human battles. Abnormality battles are commonly found in Thread Luxcavation, Dungeons and the Refraction Railway. In Abnormality battles, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots.
 
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released and I don't want to do that. There are many other tier lists and resources for you to use if you need a full one.
@@ -283,7 +287,7 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
 
 **2. Story Dungeons**
-The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can save at checkpoints to leave and resume later.
+The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can leave and resume later.
 
 **3. Mirror Dungeons**
 The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
@@ -334,4 +338,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/24-25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping and sharting.
 9/28-29/23: Changed ordering of "Who do I reroll for?" and fixed an another error in FAQ #13
 10/2/23: Improved grammar and the Extraction explanation. 
-10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
+10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles. ![lol&](https://files.catbox.moe/7dmu76.png)

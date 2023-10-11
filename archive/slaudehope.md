@@ -291,6 +291,10 @@ doubleMath config
 vectorSummarize config
 ```
 ***
+##Help
+!!! note
+	If you have any problems, bugs, feature request, and/or feedback, You can create an issue: https://github.com/xinyandegen/slaudehope/issues, or send an email: xinyandegen@proton.me
+***
 ## Credits
 - AmmoniaM/Barbiariskaa for Spermack [Barbiariskaa/Spermack](https://github.com/Barbariskaa/Spermack) | [AmmoniaM/Spermack](https://github.com/AmmoniaM/Spermack)
 - KaruKaru for XML JB base [JB Rentry](https://rentry.org/karukarubagofgoodies)
