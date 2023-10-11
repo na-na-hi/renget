@@ -7,7 +7,7 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1447 (1.5 Patch Notes)
+https://playeternalreturn.com/posts/news/1480 (1.6 Patch Notes)
 https://playeternalreturn.com/posts/news/1443 (Season 1 Gold Cadet Skin - Bianca)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)

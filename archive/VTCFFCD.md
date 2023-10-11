@@ -2,14 +2,15 @@
 
 ->![Funny](https://files.catbox.moe/lltaxk.png)<-
 
-## ->🎃[Recently added to the archive: 10/03/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)🍂<-
+## ->🎃[Recently added to the archive: 10/11/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)🍂<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->[As Many Times As You Wish](https://rentry.org/bdpyo) (Shiori, Greentext, Trauma, Timeloop, Fan Sequel)
-[The Filthy Frank x Hololive Crossover Nightmare](https://rentry.co/yipxk) (Yagoo, Mori, Suisei, A-Chan, PolitikZ, Filthy Frank, Pink Guy, Tokino Sora's cutout, Dark Lord Chin Chin, SFW, Comedy, Shitpost, Greentext, I'm officially banning shit like this in the future)
-[Suisei's Doppelganger Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vQ8j3cYOL77mCjXV05ZD0Ix8LxGB7crXrr8B5HGOdU3nFISj8zJtPgAXJJdMqC9NY3K-wIFTO8dRUVe/pub) (Suisei, Ao, Drama, Mystery, SFW, Compilation)
-[The Nutcracker](https://docs.google.com/document/d/e/2PACX-1vQjaqnMeTpsfuKIdUuOVwLDj80A8H455kXY9rtvXVnuzglaNP7TXgsi1pOlsOT9YhMDKDRNHlRSMDt3/pub) (Hakos Baelz, SFW)
-[Pale Blue - Pt. I](https://docs.google.com/document/d/e/2PACX-1vS1yv3mlxKnchEDkD3WwhUrcrFKXBPhfIJ_ken9tJeoezIpYErTOxpwCvIied9nXAxvJ5H96wnVR4Ys/pub) (Suisei, A-Chan, Several Others, SFW, Drama, Incest, Romance)<-
+->(***Series Entry!***) [Balsa Chapter 26: The Birth of Venus](https://docs.google.com/document/d/e/2PACX-1vTHxyBh_mCgDk6FB1NaX-KO1ZM3JV2tgmDuHANAPlWblBmhNC89VylV4ondlrQRMlsizKeEpvAcwfYD/pub) (Ciyana, multiple chuubas, fantasy)
+[31 Days of Shiori for Holoctober!](https://rentry.org/sggoi) (Holoctober, Shiori Novella, Anthology, multiple stories ranging fron Fluff to NSFW, ongoing)
+[Light the Fire - 01](https://rentry.org/dwkmr) (Advent, Horror, Adventure, Schizophrenia)
+[Distress Signal](https://rentry.org/8gduo) (Jelly Hoshiumi, NSFW, Living Clothes, Corruption)
+[Postponed Collab](https://rentry.org/phffm) (Jelly Hoshiumi, Lumi Kaneko, NSFW, Futanari, Rape, Oviposition, Inflation)
+[A Chef's Dream](https://rentry.org/z8fgrz) (Jelly Hoshiumi, NSFW?, Blueberry Inflation Fetish)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1297,3 +1298,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Suisei's Doppelganger Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vQ8j3cYOL77mCjXV05ZD0Ix8LxGB7crXrr8B5HGOdU3nFISj8zJtPgAXJJdMqC9NY3K-wIFTO8dRUVe/pub) (Suisei, Ao, Drama, Mystery, SFW, Compilation)
 [The Nutcracker](https://docs.google.com/document/d/e/2PACX-1vQjaqnMeTpsfuKIdUuOVwLDj80A8H455kXY9rtvXVnuzglaNP7TXgsi1pOlsOT9YhMDKDRNHlRSMDt3/pub) (Hakos Baelz, SFW)
 [Pale Blue - Pt. I](https://docs.google.com/document/d/e/2PACX-1vS1yv3mlxKnchEDkD3WwhUrcrFKXBPhfIJ_ken9tJeoezIpYErTOxpwCvIied9nXAxvJ5H96wnVR4Ys/pub) (Suisei, A-Chan, Several Others, SFW, Drama, Incest, Romance)
+[31 Days of Shiori for Holoctober!](https://rentry.org/sggoi) (Holoctober, Shiori Novella, Anthology, multiple stories ranging fron Fluff to NSFW, ongoing)
+[Light the Fire - 01](https://rentry.org/dwkmr) (Advent, Horror, Adventure, Schizophrenia)
+[Distress Signal](https://rentry.org/8gduo) (Jelly Hoshiumi, NSFW, Living Clothes, Corruption)
+[Postponed Collab](https://rentry.org/phffm) (Jelly Hoshiumi, Lumi Kaneko, NSFW, Futanari, Rape, Oviposition, Inflation)
+[A Chef's Dream](https://rentry.org/z8fgrz) (Jelly Hoshiumi, NSFW?, Blueberry Inflation Fetish)

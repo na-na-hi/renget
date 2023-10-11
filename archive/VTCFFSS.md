@@ -575,3 +575,4 @@
 [Balsa: Chapter 23: Reconciliation](https://docs.google.com/document/d/e/2PACX-1vTdU2O7n2VxY1tK9n2-abRzHYJsD7WX11lQU0eyqR3KdxxpWq0iR7_jkCKMp6FupiduDtDdzIcv9MQN/pub)
 [Balsa: Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)
 [Balsa: Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)
+[Balsa Chapter 26: The Birth of Venus](https://docs.google.com/document/d/e/2PACX-1vTHxyBh_mCgDk6FB1NaX-KO1ZM3JV2tgmDuHANAPlWblBmhNC89VylV4ondlrQRMlsizKeEpvAcwfYD/pub) (Ciyana, multiple chuubas, fantasy)
