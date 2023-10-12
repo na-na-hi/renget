@@ -101,6 +101,11 @@ Here you can find the lorebook for standalone download: [Lorebook](https://www.c
 The lorebook is embedded in every card by default.
 
 ####Bot list
+#####Elena
+Links   |  [Character Hub](https://www.chub.ai/characters/julifag/elena-the-russian-ncwf-soldier-8dba6b7f)  [Tavern Card](https://files.catbox.moe/erxg1t.png)
+------ | ------
+![Elena](https://files.catbox.moe/erxg1t.png) |**Creator**: [Julifag](https://www.chub.ai/users/julifag) -> ->Elena Derzhavina is a 24-year-old female soldier with the rank of major in the NCWF forces, commands a separate reconnaissance company on the eastern front in Russia. Talented but extremely violent and unafraid of war crimes, she is secretly nationalist.
+
 #####Lin
 Links   |  [Github](https://github.com/GhostXia/Character-Card/tree/main/Crimson%20Future/Lin)  [Tavern Card](https://files.catbox.moe/gof4k5.png)
 ------ | ------

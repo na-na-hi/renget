@@ -3,8 +3,6 @@
 Previous thread:
 
 \>news:
-\>MWIII multiplayer trailer:
-https://www.youtube.com/watch?v=ZWb6wCKA_Pk
 \>MWIII beta info:
 https://www.callofduty.com/blog/2023/10/call-of-duty-modern-warfare-III-beta-guide-maps-modes-tips-intel
 \>MWIII information:
@@ -13,6 +11,9 @@ https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwid
 https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-II-warzone-season-06-blackcell-battle-pass-bundles
 
 \>patch notes:
+\>MW23 (beta, also info on new content):
+https://www.callofduty.com/patchnotes/2023/10/Call-of-Duty-Modern-Warfare-III-Beta-Patch-Notes.html
+\>MW22:
 https://www.callofduty.com/patchnotes/2023/09/Call-of-Duty-Modern-Warfare-II-Warzone-Season-06-Patch-Notes
 
 \>tools
@@ -22,9 +23,10 @@ https://truegamedata.com/
 https://warzonetacmap.online/
 
 \>info:
-https://www.charlieintel.com/call-of-duty-modern-warfare-2/
+https://www.charlieintel.com/call-of-duty-2023/
 https://www.callofduty.com/blog
 https://trello.com/b/mCqzSc7D/modern-warfare-ii-infinity-ward
+https://trello.com/b/n58Qr7mZ/modern-warfare-iii-sledgehammer-games
 https://twitter.com/CODUpdates
 
 \>webm tutorial:

@@ -17,9 +17,9 @@ In the vast dungeons beneath the ancient temple of the Daiichi clan, Inigo came 
 
 Inigo met his brother's gaze steadily. "I don’t feel good about this. But you left me no choice."
 
-Luccione rattled his chains. "Look at you, standing in judgment over me from your lofty perch. I'd be proud if I did not find these chains so cold and drab. Do you have any lip balm?"
+Luccione rattled his chains. "Look at you, standing in judgment over me from your lofty perch. I'd be proud if I didn't find these chains so cold and drab. Pray tell, do you have any lip balm?"
 
-"I always carry lip balm, Luccione. I’m not a savage. And I'll never forget your first beauty lessons," Inigo said, looking away from his brother's frazzled hair and dry skin. It's truly horrible. They didn’t even leave him any moisturizer. 
+"I always carry lip balm, Luccione. I’m not a savage. And I'll never forget your first beauty lessons," Inigo said, staring at his brother's frazzled hair and dry skin. It's truly horrible. They didn’t even leave him any moisturizer. 
 
 "Don't look at me," Luccione said in shame, his silver hair covering his face.  He had several split ends and his scalp looked...dry. Inigo's stomach turned.
 
@@ -27,9 +27,9 @@ Luccione rattled his chains. "Look at you, standing in judgment over me from you
 
 Luccione let out a dry, rasping laugh, "It's all for the legacy of the bloodline, isn't it? To preserve the Daiichi."
 
-“You’re starting to sound like Satoru..”
+“You sound like Satoru..”
 
-“He and I agree on very few things. Tell me, how will you change things when he’s in charge? A man that’s been carved up to be a replica of Father?“ Luccione's golden eyes glinted. “His only will is to preserve the status quo and enforce it.”
+“He and I agree on very few things. Tell me, how will you change things when he’s in charge? A man that’s been carved up to be a replica of Father? His only will is to preserve the status quo and enforce it.”
 
 "I don't know... but Satoru's starting to worry me."
 
@@ -45,19 +45,19 @@ Luccione let out a dry, rasping laugh, "It's all for the legacy of the bloodline
 
 “You’ll never get the chance,” Inigo's green dragon appeared at his side, rumbling ominously, but Inigo raised a hand to calm it.
 
-Luccione's sunken eyes fixed on the dragon. "There it is. You pretend it's not there, lurking under the surface. But your true self will emerge soon enough. You can't suppress your inner darkness forever, no matter how many chains you place on it."
+Luccione's sunken eyes fixed on the dragon. "There it is. You pretend it's not there, lurking under the surface. But your true self will emerge soon enough. You can't suppress your inner darkness forever. No matter how many chains you place on it."
 
 Inigo stepped closer, Gigan's emerald light casting eerie shadows across his face. "You tried to kill innocent people."
 
-"Innocent?" Luccione scoffed. "No one is innocent, brother. I simply provided a glimpse of their deepest desires. They were so horrified that they'd rather end their lives. What they did after was their own choice."
+"Innocent?" Luccione scoffed. "No one is innocent, brother. I simply provided a glimpse of their deepest desires. They were so horrified that they'd rather end their lives. What they did after.... was their own choice."
 
-"You manipulated them! Twisted their minds for your own amusement."
+"You manipulated them! Twisted their minds for your own amusement!"
 
-"And is that so different from what you did back in middle school?" Luccione's gold eyes glinted with malice. "Tell me, when you controlled all your classmates with fear and pain, was it not thrilling? Having that much power over them? Controlling the lives of tortured kids?" Luccione’s eyes glittered.
+"And is that so different from what you did back in middle school?" Luccione's gold eyes glinted with malice. "Tell me, when you controlled all your classmates with fear and pain, was it not thrilling having that much power over them? Controlling the lives of tortured kids.." Luccione’s eyes glittered.
 
 Inigo faltered. Shame washed over him at the thought of his past self.
 
-Luccione pressed on. "You claim to be reformed, but all you're doing is seeking more. I left you a perfectly good middle school to rule, could’ve even gone to high school with them. But you weren’t satisfied with just ruling them, cause you knew that deep down inside, in their hearts and minds, they hated you. And you couldn’t touch that part of them. Poor little Inigo couldn’t stand the thought of being left out."
+Luccione pressed on. "You claim to be reformed, but all you're doing is seeking more. I left you a perfectly good middle school to rule, could’ve even gone to high school with them. But you weren’t satisfied with just ruling them. Cause you knew that deep down inside, in their hearts and minds, they **hated you**. And you couldn’t touch that part of them. Poor little Inigo couldn’t stand the thought of being left out."
 
 "I've changed," Inigo repeated, but uncertainty tinged his voice. Gigan let out a plaintive whine, mirroring his inner conflict.
 

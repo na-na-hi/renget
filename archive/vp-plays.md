@@ -439,4 +439,5 @@ https://arch.b4k.co/vp/thread/54636740/ uranium3 orevald dies from shitty fakemo
 https://arch.b4k.co/vp/thread/54636647/ wack dreepy solorun thread, dead on arrival due to level cap issues
 https://arch.b4k.co/vp/thread/54651587/ detergent1 autism
 https://arch.b4k.co/vp/thread/54656958/ detergent2 fun fact, the faggot modder behind this goes by the name "low effort"
-https://arch.b4k.co/vp/thread/54664566/ detergent3
+https://arch.b4k.co/vp/thread/54664566/ detergent3 literally empire
+https://arch.b4k.co/vp/thread/54670452/ detergent4
