@@ -4,27 +4,27 @@
 
 !!!info I will update union info at infrequent intervals (read: whenever I feel like it), or when (You) post an update in the thread.
 
-**Last updated: 08/10/23: Aftermath Edition**
+**Last updated: 11/10/23: Ornstein and Smough Edition**
 
 ***
 
 ##Server: NA
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
-| NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
+| NIKG     | ==**6459**==  | 6     | 31/32   | HELIOS   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 31/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 31/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
-| NIKKERZ  | ==**466**==   | 6     | 32/32   | ALPHABVR | PERMISSION |                                 |
+| NIKKERZ  | ==**466**==   | 6     | 30/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 32/32   | PLOT     | PERMISSION |                                 |
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | CLOSED |                                 |
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
-| P愛ZURI   | ==**4983**==  | 6     | 32/32   | TAMA     | PERMISSION |                                 |
+| P愛ZURI   | ==**4983**==  | 6     | 30/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
-| POLIPETS | ==**18170**== | 3    | 27/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
+| POLIPETS | ==**18170**== | 3    | 31/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -36,10 +36,10 @@
 | NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |                            |
 | NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 30/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
-| PANTSUUU | ==**21859**== | 6     | 30/32   | ORLEEN    | PERMISSION |  for midcuties                      |
+| PANTSUUU | ==**21859**== | 6     | 31/32   | ORLEEN    | PERMISSION |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
-| CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
+| CUNNYSSI | ==**25331**== | 5     | 31/32   | NEPBOI  | PERMISSION |                            |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

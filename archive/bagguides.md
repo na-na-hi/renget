@@ -11,7 +11,7 @@ Japanese Wiki | https://bluearchive.wikiru.jp
 English Database | https://lonqie.github.io/SchaleDB/
 English Planner | https://justin163.com/planner/
 Chibi Extraction and Posing Guide | https://rentry.org/qewdu
-Pyroxene Planner | [Google Document](https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/edit#gid=1291199777)
+Pyroxene Planner | [Google Document](https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226)
 Future Content Timeline and Unit Ratings | [Google Document](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271)
 Library of Stats and Formulas | [Google Document](https://docs.google.com/document/d/1Ui0FRgG8h8RB1-cA639F3ETDrVM7q9FKftg4vBKBAAQ/edit) | 
 Raid Strategy Guide | [Google Document](https://docs.google.com/document/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0/edit#)

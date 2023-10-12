@@ -447,6 +447,13 @@ Headlong Rush | Poison Jab | - | - | - | -
 
 ***
 
+### Overcoat
+Move | Move | Move | :·: | :·: | :·:
+--- | --- | --- | :---: | :---: | :---:
+
+
+***
+
 ### Sharpness
 Move | Move | Move | :·: | :·: | :·:
 --- | --- | --- | :---: | :---: | :---:

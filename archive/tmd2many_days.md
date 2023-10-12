@@ -27,6 +27,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 1/10/1 | 1 day | #SQ03 For Want of a Tame | A traveling chef searches for coveted fruits.
 1/12/1 | 1 day | #02 Rub-a-dub Ravine | The group all head out to try exploration together!
 1/14/1 | 1 day | #EV03 Stay HAPPI | A stranger shows up in town.
+1/15/1 | 3 days | #03 The Color of Strife | Back to the ashes of the burnt forest, searching.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -45,7 +46,7 @@ You find what you're looking for in the form of the Subsumed Château, an inn ru
 As you spend the next day or so in the town, learning the lay of the land, you learn from a distraught Pokémon that the boat had indeed been stolen. With little else you can do, other than ask questions, your investigation goes cold. Retiring to the rooms, your well-deserved rest is interrupted by some unruly patrons, convinced you're nothing more than leeches looking to bleed the proprietor dry! Battling them off to see the dawn, you manage to subdue the Dreepy and his crew of ghost buddies. Looks like you'll need some more rest.
 
 !!! info (9/20/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ01 Cat-astrophic Marketplace
-After a rough night and a lost appetite for slumber, you exit the uncomfortable confines of your potentially-temporary home and spend your morning wandering around town. Feeling tired, sore, and unfamiliar with your surroundings, you find strange relief in learning of other's problems, notably a Charmeleon lamenting the destruction of his merchandise, and a group of delinquents vandalizing the town's darkest corners.  In the end, after a successful deal or some Berries with the delinquents calling themselves the 'Bright Bandits,' you help make a smoothie for a quiet Espurr with a headache, leaving Charmeleon to fix his problem himself.
+After a rough night and a lost appetite for slumber, you exit the uncomfortable confines of your potentially-temporary home and spend your morning wandering around town. Feeling tired, sore, and unfamiliar with your surroundings, you find strange relief in learning of other's problems, notably a Charmeleon lamenting the destruction of his merchandise, and a group of delinquents vandalizing the town's darkest corners.  In the end, after a successful deal for some Berries with the delinquents announcing themselves as the 'Bright Bandits,' you help make a smoothie for a quiet Espurr with a headache, leaving Charmeleon to fix his problem himself.
 
 !!! info (9/21/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ02 Near Farfetch'd
 Upon seeing some activity by a strange tent tucked away in a corner, your group ends up aiding a Sneasler looking to rescue a Farfetch'd from her guild. After learning the basics of dungeon exploration, you eventually find the Farfetch'd struck with some sort of mental affliction. However, this situation explodes into action when a weird Orb riles up all the ferals in the dungeon! After promptly tying up the Farfetch'd and weathering the literal stampede, a quick deduction finds that he was met with an unknown assailant, an identity which remains inconclusive...
@@ -56,3 +57,8 @@ The group sneak through the fogs of a secluded grove to find a few rare 'meat' b
 !!! (9/30/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #02 Rub-a-dub Ravine
 
 !!! note (10/3/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV03 Stay HAPPI
+
+!!! (10/7/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #03 The Color of Strife
+
+!!! info (10/8/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ03 Blast Seed Bomber
+Back to bothering Kleavor once again, you discover a "Detective Croagunk" loitering in the general area. He's in town to seek aid in bringing a criminal explosives enthusiast Frogadier to justice! After being accompanied to an underground cavern lake, you quickly find that its passages are trapped with bombs, ready to go with hair triggers. In the end of a dicey, spiky, and bomb-y encounter, you successfully apprehend the criminal, handing them off to Detective Croagunk. You've left an impression... perhaps you'll see more bounties in the future.

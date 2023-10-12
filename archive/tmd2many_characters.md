@@ -21,30 +21,32 @@ You can find an explanation on [Origins](https://rentry.co/tmd2many_words#origin
 Name | Origin | Pokémon | Guild Role | Team/Affiliation
 :----: | :----: | :----: | :----: | :----:
 [Angus](https://rentry.org/tmd2character_Angus) | Ex-Human (Amnesia) | Rufflet | N/A | N/A
-[Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | N/A
-[Bomb](https://rentry.org/tmd2many_characters_Bomb) | ??? | Baltoy | Bomb! | N/A
+[Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | Team Clover Force
+[Bomb](https://rentry.org/tmd2many_characters_Bomb) | ??? | Baltoy | Bomb! | Team Ruckus
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
-[Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | N/A
-[Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | N/A
-[Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | N/A
-[Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | N/A
-[Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | N/A
-[Jen-Marie](https://rentry.co/Jen-Marie) | Ex-Human (Fragmented) | Spritzee | Unlicensed Doctor | N/A
+[Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | Team Stylish
+[Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | Team Ruckus
+[Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | Team Stardust
+[Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | Team Clover Force
+[Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | Team Clover Force
+[Jen-Marie](https://rentry.co/Jen-Marie) | Ex-Human (Fragmented) | Spritzee | Unlicensed Doctor | Team Stylish
 [Jet](https://rentry.co/tmd2character_jet) | Ex-Human (???) | Meditite | Baker/Cook | N/A
-[Katherine](https://rentry.org/tmd2character_katherine) | Ex-Human (Fragmented) | Bounsweet | Architect/Engineer | N/A
-[Kaz](https://rentry.co/tmd2many_characters_chaz) | Ex-Human (Fragmented) | Kubfu | Speedster | N/A
-[Matchia](https://rentry.co/TMD2Character_Matchia) | Ex-Human (Fragmented) | Mienfoo | N/A | N/A
-[Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Council of Clans
+[Katherine](https://rentry.org/tmd2character_katherine) | Ex-Human (Fragmented) | Bounsweet | Architect/Engineer | Team Stylish
+[Kaz](https://rentry.co/tmd2many_characters_chaz) | Ex-Human (Fragmented) | Kubfu | Speedster | Team Ruckus
+[Matchia](https://rentry.co/TMD2Character_Matchia) | Ex-Human (Fragmented) | Mienfoo | N/A | Team Stardust
+[Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Team Gildscales
 [Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A
-[Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | N/A
-[Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | N/A
-[Skitty](https://rentry.org/d6w5h) | Ex-Human (Fragmented) | Skitty | N/A | N/A
-[Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | N/A
+[Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | Team Gildscales
+[Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | Team Stardust
+[Skitty](https://rentry.org/d6w5h) | Ex-Human (Fragmented) | Skitty | N/A | Team Stardust
+[Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | Team Stylish
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
-[Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | N/A
+[Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | Team Clover Force
 [Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
 [Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
 Example | Ex-Human | Species | Adventurer | Team Generic
+
+->![Mug Shot? Is that a drink?](https://cdn.imgchest.com/files/345xcklzgw7.png)<-
 
 ## Non-Player Character List
 !!! note All Characters that have been planned for reoccurring encounters go here. These have not been rolled. 

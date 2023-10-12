@@ -84,8 +84,8 @@ More info about the comparison table and preview images can be found in the **[A
 ![](https://files.catbox.moe/m3hge5.jpg) | ![](https://files.catbox.moe/niy2ho.jpg)
 [GreatM8](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/HdliTRiL) | [GreatoDoggo](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PE1RnTjI)
 ![](https://files.catbox.moe/ib81r3.jpg) | ![](https://files.catbox.moe/ays9c5.jpg)
-[Guizhencao (Oniharigusa)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CRsSUSLb) | []()
-![](https://files.catbox.moe/4526vp.jpg) | ![]()
+[Guizhencao (Oniharigusa)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CRsSUSLb) | [Gyari](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zNkDzKAI)
+![](https://files.catbox.moe/4526vp.jpg) | ![](https://files.catbox.moe/otha60.jpg)
 
 ### H
 [Hamada](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fckilSYB) | [Henreader](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jAlhTKia)
@@ -133,19 +133,19 @@ More info about the comparison table and preview images can be found in the **[A
 ![](https://files.catbox.moe/s9pscs.jpg) | ![]()
 
 ### M
-[MaidForge](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GBlmTYoS) | [Maniacbox](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zU0mWTDI)
+[Maguro27](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/nVUjUD4B) | [MaidForge](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GBlmTYoS)
 :------:|:------:
-![](https://files.catbox.moe/f6ap1s.jpg) | ![](https://files.catbox.moe/0ie3yp.jpg)
-[Mannack](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2F8lCDIL) | [Masato Ishio](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zY8BjD7J)
-![](https://files.catbox.moe/ko4wgq.jpg) | ![](https://files.catbox.moe/ua6fuy.jpg)
-[Matokechi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsjmZDR) | [Menthako](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsQFbIA)
-![](https://files.catbox.moe/6yrlat.jpg) | ![](https://files.catbox.moe/6wjaqy.jpg)
-[Meyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6M8SRSSD) | [Mochikushi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bNsDGboI)
-![](https://files.catbox.moe/24xlmx.jpg) | ![](https://files.catbox.moe/wka0nx.jpg)
-[Moemaru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SRkwCBYK) | [Mukuton](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LV9VxZzA)
-![](https://files.catbox.moe/38nfpa.jpg) | ![](https://files.catbox.moe/hi9y0k.jpg)
-[Musouduki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/qJsEhDRR) | []()
-![](https://files.catbox.moe/stn0qy.jpg) | ![]()
+![](https://files.catbox.moe/rh2i2m.jpg) | ![](https://files.catbox.moe/f6ap1s.jpg) | 
+[Maniacbox](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zU0mWTDI) | [Mannack](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2F8lCDIL)
+![](https://files.catbox.moe/0ie3yp.jpg) | ![](https://files.catbox.moe/ko4wgq.jpg)
+[Masato Ishio](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zY8BjD7J) | [Matokechi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsjmZDR)
+![](https://files.catbox.moe/ua6fuy.jpg) | ![](https://files.catbox.moe/6yrlat.jpg)
+[Menthako](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7IsQFbIA) | [Meyu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6M8SRSSD)
+![](https://files.catbox.moe/6wjaqy.jpg) | ![](https://files.catbox.moe/24xlmx.jpg)
+[Mochikushi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bNsDGboI) | [Moemaru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SRkwCBYK)
+![](https://files.catbox.moe/wka0nx.jpg) | ![](https://files.catbox.moe/38nfpa.jpg)
+[Mukuton](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LV9VxZzA) | [Musouduki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/qJsEhDRR)
+![](https://files.catbox.moe/hi9y0k.jpg) | ![](https://files.catbox.moe/stn0qy.jpg)
 
 ### N
 [Naijiaer (NJER)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aNtCDIyJ) | [Najucaju](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/zJsEiTZS)
@@ -636,10 +636,10 @@ lily hopkins, loli, flat chest, freckles, broken tooth, upper teeth, frog print,
 ![](https://files.catbox.moe/374js7.jpg) | ![](https://files.catbox.moe/sla03o.jpg) | ![](https://files.catbox.moe/g103ak.jpg)
 
 ```
-laimu \(vtuber\), animal ears, green tail, pink camisole, sleeveless dress, underbust, side slit, arm garter, white skirt, paw print, mismatched legwear, asymmetrical legwear, animal ear legwear, animal print, tail wrap, sneakers, white footwear, black choker, necklace, lime slice, ahoge, hair over shoulder, single braid, hair between eyes, gradient hair, colored tips, white hair, green hair, green eyes
-```
-```
 laimu \(vtuber\), animal ears, green tail, white jacket, white hoodie, hooded jacket, off-shoulder jacket, puffy long sleeves, cross-laced slit, spaghetti strap, white skirt, paw print, mismatched legwear, asymmetrical legwear, animal ear legwear, tail wrap, sneakers, white footwear, black choker, necklace, lime slice, ahoge, hair between eyes, hair over shoulder, single braid, gradient hair, colored tips, white hair, green hair, green eyes
+```
+```
+laimu \(vtuber\), animal ears, green tail, pink camisole, sleeveless dress, underbust, side slit, arm garter, white skirt, paw print, mismatched legwear, asymmetrical legwear, animal ear legwear, animal print, tail wrap, sneakers, white footwear, black choker, necklace, lime slice, ahoge, hair over shoulder, single braid, hair between eyes, gradient hair, colored tips, white hair, green hair, green eyes
 ```
 
 ### M

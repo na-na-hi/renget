@@ -147,6 +147,8 @@ The other issue may be the "Ah, ah, mistress!" problem, your reply is just eithe
 **Q7: AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly it writes the story instead!)**
 A7:  If you're trying to talk directly to GPT/Claude (not your character), turn off the JB and erase the prefill (for Claude). You can create an empty card just to chat with the AI or start your message with [Roleplay is paused] - this works even with JB (mostly).
 #####
+**Q8: Output style and narration feel a bit generic. Is there some way to change it?**
+A8: You can give AI some sources for inspiration for writing style like famous authors and games to inspire some action.
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
 	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.

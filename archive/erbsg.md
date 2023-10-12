@@ -50,8 +50,8 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://event.playeternalreturn.com/S1_ElevenMarineCafe (~10/25)
-https://playeternalreturn.com/posts/news/1450 (Skin boxes, ~10/12)
 https://playeternalreturn.com/posts/news/1457 (Twitch drops, ~10/16)
+https://playeternalreturn.com/posts/news/1485 (Vampire Shoichi items, ~11/9)
 
 \>Codes
 https://coupons.tnra.ro/

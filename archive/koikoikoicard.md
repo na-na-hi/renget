@@ -29,7 +29,7 @@ https://files.catbox.moe/xmlwjj.png
 *Louise, the terminally anxious heiress! Cherish this sweet cinnamon roll and help her better herself!*
 https://files.catbox.moe/8wa0zv.png
 ~1k context version available! Highly recommended if you have anything better than Slaude!
-https://files.catbox.moe/d82m4u.png
+https://files.catbox.moe/o9ha6u.png (Updated. Defs are trimmed, and three more alternate greetings are added.)
 
 ![Victoria](https://files.catbox.moe/sq2lpg.png)
 *Captain Victoria! Sweet and maternal underneath all that composure.*

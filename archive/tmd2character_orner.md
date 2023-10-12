@@ -7,8 +7,8 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 7 | **Experience to Next Level:** 50/70
-**Worn Item:** *N/A* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 645₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
+**Pokécoin:** 545₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -21,7 +21,7 @@ Shed Skin | The User has a ⅓ chance of curing their Status Conditions each tur
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 2 | Species Bonus | +2 Physical Damage 
+Attack | 1 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -31,7 +31,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Lick | 3BP | 5AP | ≥2 | Ghost | Physical | 16-20; The Opponent is afflicted with Paralysis.
+Aqua Tail | 9BP | 7AP | ≥7 | Water | Physical | No secondary effect. (UNTRAINED)
 Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -77,8 +77,8 @@ Item Name | Description
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
-1. Joy Seed | Free level up!
-2. Blast Seed | 10 True Damage
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description
@@ -90,6 +90,6 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 Name of Move | Description
 ------ | :----: 
 Wrap | The Opponent is afflicted with Wrapped.
-Eᴍᴘᴛʏ | Description
+Lick | 16-20; The Opponent is afflicted with Paralysis.
 
 ![What do you want? The page's over. Go home.](https://matrix-client.matrix.org/_matrix/media/r0/thumbnail/matrix.org/YnuGDvoLtCwQRDAoXmWRwQWV?width=800&height=600&method=scale)

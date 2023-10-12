@@ -6,10 +6,11 @@
 
 !!!info if it didn't work for you, or you want the alternative solutions then check:
 	* [**CrustCrunchJB**'s method](https://rentry.co/crustcrunchJB#jailbreak-for-pozzed-keys) ( + the test how to manually **check the pozzness** of Claude keys) 
+	* [**ArfyJB**'s method](https://rentry.org/ArfyJB#depozzer)
 	* [**CharacterProvider**'s method](https://rentry.co/CharacterProvider#dealing-with-a-pozzed-key)  
 	...if you know other related rentrys about anti-pozzing, then contact me --I will list them here for cross-reference
 
-==**updated: September 18**==
+==**updated: October 12, added ArfyJB's method**==
 
 [TOC4] 
 ***

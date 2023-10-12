@@ -1,7 +1,7 @@
 # onaholesama's furshit
-->![credit to Kazerad and Prequel Adventure](https://files.catbox.moe/ma62ey.gif)<-
+->![SAFE: furry artist, anthro dog, sad internet style, random doodles, drawn with a mouse, single teardrop, black and white anthro dog, black and white colors, minimum amount of detail, extremely simple lines, ms paint style, inside a microsoft paint background, looking straight up, side shot](https://files.catbox.moe/2pl2h1.jpg)<-
 ***
-we're back
+DALL-E-3 is fascinating. its over for artists that arent nsfw focused.
 ***
 **Table of Contents**
 [TOC2]
