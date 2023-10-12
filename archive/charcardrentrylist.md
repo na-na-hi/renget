@@ -18,9 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kio](https://files.catbox.moe/hosfxu.png), [Sylvia](https://files.catbox.moe/3j2410.png)|[Sylvia](https://files.catbox.moe/3j2410.png) [MV]
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Lilia](https://files.catbox.moe/ypa54u.png)|
 [Johncock](https://rentry.org/Johncock) | Misc |[Faye](https://files.catbox.moe/umn75f.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Viola](https://files.catbox.moe/i1m34o.png)|[Viola](https://files.catbox.moe/i1m34o.png) [MV]
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sylvia](https://files.catbox.moe/rytr17.png)|[Sylvia](https://files.catbox.moe/rytr17.png) [MV]
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Itachi Uchiha](https://files.catbox.moe/e4x70p.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Louis](https://files.catbox.moe/8x135x.png), [Marco](https://files.catbox.moe/hxuasi.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
@@ -43,7 +44,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
-[Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||

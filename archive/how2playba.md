@@ -119,7 +119,7 @@ It depends on whether you like or want the other girl too (if applicable).
 
 >I just got a ten roll ticket! Do they expire?
 No.
-The only things that expires is the 3* guarantee ticket you can buy (with real money) during anniversaries, and the 10 roll ticket you get from the Elimination raid.
+The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries, and the 10 roll ticket you get from the Elimination raid.
 You get a notification if something in your inventory expires soon.
 
 >I got the banner unit at my 200th roll. Do I claim her or do I get the other banner unit that I don't have?
@@ -212,9 +212,10 @@ Puzzle gaming. Look at youtube videos or [use the wiki](https://bluearchive.wiki
 
 **Your goal is to go as far as you can in the normal mode for the cafe upgrades.** They drop every 3 areas at mission 5 and boost your daily AP recovery (this means 3-5, 6-5, ...). It's fine to 1\* a few missions, first time rewards don't care about ur stars. 
 
-**Don't forget to actually upgrade your cafe.**
+**Don't forget to actually upgrade your cafe and max out the comfort level.**
 ![Ranking up the cafe](https://i.imgur.com/WgMiJXG.png)
-(you can press that button)
+(you can press that button) 
+More comfort = more AP/energy. 
 
 Recommended levels are a meme, ignore them. You can clear missions 10-20 levels underneath the recommended levels. 
 
@@ -567,7 +568,7 @@ The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*.
 >Gift crafting (a small guide) 
 If you want to splurge ur gifts on 1 specific girl:
 - Buy all mats from events
-- Use extra mats from event to craft gifts nodes
+- Use extra mats from event to craft stage 2 & 3 crafting nodes
 - Buy out yellow/advanced tailor stones from the JFD shop when available 
 - Craft gift selectors using yellow tailor stones in the Material Fusion chamber
 It's more efficient to reroll normal gifts into a girl's favourite ones. 

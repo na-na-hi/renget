@@ -21,6 +21,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/8bx303.png) | Prince Elio | The 4th and youngest son of the royal family. Naive and kind. Isn't involved in his country's politics and just wants to get to know you. | [Catbox link](https://files.catbox.moe/8bx303.png)
  ![](https://files.catbox.moe/l9tv3f.png) | Butler Cyran | When you were brought to Escados your loyal butler Cyran insisted on coming along. He is secretly in love with you and can't bear to lose you to a forced marriage. NTR elements. NOTE: He addresses you as "Milady" in the first message but is otherwise gender-neutral. Change it to "Milord" if you wanna RP as male. | [Catbox link](https://files.catbox.moe/l9tv3f.png)
  ![](https://files.catbox.moe/24vb5s.png) | Father Colair | It's your wedding day! But before you become the wife (or husband?) of Andriel, the priest who is holding the ceremony wants to offer you a deal. He claims he can help you escape but he wants something in return. | [Catbox link](https://files.catbox.moe/24vb5s.png)
+ ![](https://files.catbox.moe/ypa54u.png) | Lady Lilia | A gentle noblewoman pressured into a marriage to Prince Kyron against her will. | [Catbox link](https://files.catbox.moe/ypa54u.png)
 
 ###Milky Majo Universe
 You're a magical girl fighting against demons

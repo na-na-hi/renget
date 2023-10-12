@@ -40,7 +40,7 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
 - ローテーション / ローテ - Rotation
 - アンリミテッド / アンリミ - Unlimited
 - ロイヤル - Swordcraft (Royal)
-- ネクロ / ネクロマンサー - Shadowcraft (Necromancer)
+- ネクロマンサー / ネクロ - Shadowcraft (Necromancer)
 - エルフ - Forestcraft (Elf)
 - ネメシス - Portalcraft (Nemesis)
 - ドラゴン - Dragoncraft (Dragon)

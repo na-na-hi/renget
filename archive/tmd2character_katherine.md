@@ -1,5 +1,5 @@
 -> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
-->[![The ball](https://cdn.discordapp.com/attachments/1145015302707499090/1145015928455704627/0761Bounsweet1.png)](https://www.google.com)<-
+->![The ball](https://cdn.discordapp.com/attachments/1145015302707499090/1145015928455704627/0761Bounsweet1.png)<-
 ### Katherine (Bounsweet) ♀
 #####"Things can only go up!"
 
@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 15/70
+**Level:** 7 | **Experience to Next Level:** 40/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 ->Rookie Rank<-
-->*125/400 points to Normal Rank*<-
+->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

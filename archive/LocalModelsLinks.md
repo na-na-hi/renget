@@ -12,12 +12,13 @@
 [TheBloke's Huggingface Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
+[OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Models Information Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
 [Local Models Papers Rentry](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up-to-date with new papers and articles
 [Arxiv Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of ML/AI papers 
-[PapersWithCode](https://paperswithcode.com)|Paper indexer that allows to sort by github stars (trending option is useful)
+[PapersWithCode](https://paperswithcode.com)|Paper indexer that allows sorting by github stars
 |
 **News**|
 [AI Explained](https://www.youtube.com/@ai-explained-)|General AI news with well sourced links (Youtube) 
@@ -80,6 +81,7 @@
 |
 **Non-LLM Local Models**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
+[Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [Vlad's SD WebUI fork](https://github.com/vladmandic/automatic)|Fork of Automatic1111 stable diffusion webui with active development 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
 [Fabric for ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
@@ -99,7 +101,6 @@
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
-[GigaGAN](https://github.com/lucidrains/gigagan-pytorch)|Text-to-Image synthesis with layout-preserving fine style control and upscaling
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
