@@ -781,7 +781,7 @@ With Impakt rapidly approaching, they worked quickly to enact Inigo's desperate 
 
 A sudden tremor shook the labyrinth, forcing the combatants apart. With a flash of light, the pro hero materialized amidst the fray - the explosive Impakt.The organizers must have deemed their army too disruptive.
 
-"None shall pass!" Impakt bellowed. "Unless you can prove your worth, young heroes!"
+"Hello there, young heroes." Impakt bellowed. "I'm here to test your resolve."
 
 Before Inigo could appeal to them, Impakt crashed into their frontliners.  With a combo of kicks and hooks he scattered Inigo's team. Inigo seethed, but restrained his anger. Fighting the pro directly would only make things worse. 
 
@@ -801,7 +801,7 @@ With roar, his team encircled the pro-hero. Impakt swatted at Buru as the minota
 
 Impakt paused in surprise.
 
-Inigo didn't believe the construct alone would convince Impakt he had hurt one of them, but he had instructed the others to play their part. 
+Inigo didn't believe the construct alone would convince Impakt that he had hurt one of them, but Inigo had instructed the others to play their part. 
 
 They all stopped attacking. 
 

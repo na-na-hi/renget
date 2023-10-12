@@ -411,6 +411,10 @@ v50:
 
 	DL: https://civitai.com/api/download/models/136703?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
+### FluffyBasedKemonoMegaresE71
+
+	https://pixeldrain.com/u/9UA8KMfF
+
 ## Galleries
 
 # FluffAnon's Generations
@@ -441,6 +445,15 @@ I scraped together all the LoRAs I think are from him. If I missed any, or there
 
 !!NEW!! Raboot: https://files.catbox.moe/f6r97a.7z
 Zip has Tag List, LoRA, and Pixeldrain link for the model if people are too lazy to mix it themselves.
+
+Ellie (Cobalt Snow)
+>v1 is still the best after testing several training methods with recursive training (using some good, edited gens to try fleshing out utility) and testing regularization methods. In the end, I think this model is good to use on both the model I uploaded (Pixeldrain u/9UA8KMfF) and EF11.2. Getting correct pattern on the ear is tough, but anatomically appears to be on-model regularly.
+
+	https://files.catbox.moe/b54bsj.7z
+
+Ellie, Abby, and Lotte (Cobalt Snow)
+
+	https://files.catbox.moe/ypgbd4.7z
 
 # Midna LORA from /h/
 	https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
@@ -1061,11 +1074,6 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 
 	https://files.catbox.moe/rzqx5o.safetensors
 
-# Newmouf - Mawshots (Concept)
->Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
-
-	https://files.catbox.moe/8loti1.safetensors
-
 # Della Duck (Ducktales)
 https://civitai.com/models/149490/della-duck-or-ducktales-2017
 First Lora, I barely know what I'm doing. (Version 2)
@@ -1093,11 +1101,6 @@ medium breasts, breasts, genitals, nipples, nude, pussy, white body,
 
 	Catbox: https://files.catbox.moe/96uzxq.safetensors
 	Civitai Direct Link: https://civitai.com/api/download/models/177590?type=Model&format=SafeTensor
-
-# Dragonite (Pokemon)
-Activation keyword is "dragonite", trained on Easyfluff
-
-	https://files.catbox.moe/c4asqm.safetensors
 
 # Daisy Duck (LeMans42)
 
@@ -1216,6 +1219,27 @@ Reupload from CivitAI
 # Gnar (League of Legends)
 
 	https://files.catbox.moe/rhtss5.safetensors
+
+# Snatcher (A Hat in Time)
+>Yeah, I think I'll just leave the LoRA as-is. Came out surprisingly well for the first attempt, but let me know what (you) think and if it needs any adjustments. Trigger word is "ahitsnatcher"
+
+	https://files.catbox.moe/cbj2s9.safetensors
+
+# dragon_longsword's LoRAs
+Dragonite (Pokemon):
+Activation keyword is "dragonite", trained on Easyfluff
+
+	https://files.catbox.moe/c4asqm.safetensors
+
+Hisuian Typhlosion (Pokemon):
+>Trained on fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors, activation token is "hisuian typhlosion"
+
+	https://files.catbox.moe/na259m.safetensors
+
+Newmouf - Mawshots (Concept)
+>Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
+
+	https://files.catbox.moe/8loti1.safetensors
 
 ## LORAs from the Discord
 

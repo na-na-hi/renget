@@ -56,6 +56,7 @@
 |
 **Quantization and Tuning**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning Tool for various architectures with integrated support for flash attention and rope scaling 
+[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [OWL](https://github.com/luuyin/OWL)|Outlier weighed layerwise sparsity for most major models

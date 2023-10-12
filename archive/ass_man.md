@@ -1,8 +1,11 @@
 # Ass-Man's Rentry Page
 
+## Join the discord!
+Discord Server: https://discord.gg/QcdKr95R2z
+
 ## /ag/ - Ass General
 
-Ass WebM collection (At 2300 WebMs, almost 11 hours of content.): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
+Ass WebM collection (At 2500 WebMs, almost 12 hours of content.): https://mega.nz/folder/lNYDgQSK#qcuzcmcXStXiDUy0rjon3A
 
 ## /tg/ - Tits General
 
@@ -23,8 +26,6 @@ Ebony Chick collection: https://mega.nz/folder/ld5wyCwB#FGgpk5MMjXdrfmw0XpLrXw
 ## Miscellaneous
 
 Thread Archive: https://mega.nz/folder/ozElyDxB#Ed0JYq3Ibjb75G8d-rQ4MQ
-
-/gif/ Discord Server: https://discord.gg/QcdKr95R2z
 
 Tools I use:
 [Vidupe - Find duplicate WebMs in large collections.](https://github.com/kristiankoskimaki/vidupe)

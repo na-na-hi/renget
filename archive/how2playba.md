@@ -126,8 +126,8 @@ You get a notification if something in your inventory expires soon.
 Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so if you don't want the other units on banner claiming the banner unit is totally fine. That being said, having a bigger roster gives you more options and some units increase drops during certain events.
 
 >Is there a good planner for banners?
-https://docs.google.com/spreadsheets/d/16cSul5YqyqXDGNKUsthhgSlP0cuMgX4xZ572ecjEIvg/
-Read the yellow highlighted text. 
+https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226
+Read the top right on the first sheet for instruction.
 
 ## Banner Guide 
 [/bag/ guide](https://i.imgur.com/x9zZMMW.jpg) Last update: 21/09/23 (DD/MM/YY)

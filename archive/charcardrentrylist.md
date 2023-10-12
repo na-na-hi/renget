@@ -27,10 +27,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Toby Daniels (College Variant)](https://files.catbox.moe/t0hyef.png)|[SamoaSweets4418](https://files.catbox.moe/qtzbb3.png), [Arcmeed Pnast](https://files.catbox.moe/vdx02v.png), [Dorin](https://files.catbox.moe/ph6yaa.png), [Argo](https://files.catbox.moe/7vbpgd.png), [Sachiko](https://files.catbox.moe/vgauy8.png), [Amphora](https://files.catbox.moe/te3n4v.png), [Ralsei](https://files.catbox.moe/4hfina.png), [Diona](https://files.catbox.moe/n0t5j4.png), [Dark Sun Gwyndolin](https://files.catbox.moe/g3x1jw.png)
 [Genoo](https://rentry.org/295se) | Sizeplay |[Micelle](https://files.catbox.moe/umdkkp.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Daichi](https://files.catbox.moe/ighxou.png)|
-[JumboRanch](https://rentry.org/jumboranch) | Furry |[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png)|[Mishka Blacklilly](https://files.catbox.moe/5f93bi.png) [MV]
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/o9ha6u.png) [MV]
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Your PC](https://files.catbox.moe/ieczk6.png)
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
+[JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||

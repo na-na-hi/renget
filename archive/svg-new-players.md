@@ -1,3 +1,5 @@
+# /svg/ - New Player Guide
+
 ## Gameplay Guides
 
 - https://shadowversemaster.com/articles/new-player-guide
@@ -20,31 +22,31 @@ During the 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate 
 
 ## Useful Links
 
-[Shadowverse Master][svm]: One of the largest English-language resource sites.
-[Shadowverse Wins][sv-wins]: Aggregates winstreaks from Twitter.
-[Tempostorm][tempostorm]: Meta snapshots & deck guides.
-[Zhiff][zhiff-twitter]: Aggregates tournament-winning deck information on Twitter, and posts deck guides and meta snapshots on YouTube.
-[SVGDB][svgdb]: Card database with full art, voice lines and leader previews.
-[GameWith][gw]: One of the largest Japanese resource sites.
-[Shadowverse Open (SVO)][svo]: The English-language tournament circuit.
-[Rage][rage]: The most significant Japanese tournament.
-[Shadowverse Portal][shadowverse-portal]: The official card database and deckbuilder.
+- [Shadowverse Master][svm]: One of the largest English-language resource sites.
+- [Shadowverse Wins][sv-wins]: Aggregates winstreaks from Twitter.
+- [Tempostorm][tempostorm]: Meta snapshots & deck guides.
+- [Zhiff][zhiff-twitter]: Aggregates tournament-winning deck information on Twitter, and posts deck guides and meta snapshots on YouTube.
+- [SVGDB][svgdb]: Card database with full art, voice lines and leader previews.
+- [GameWith][gw]: One of the largest Japanese resource sites.
+- [Shadowverse Open (SVO)][svo]: The English-language tournament circuit.
+- [Rage][rage]: The most significant Japanese tournament.
+- [Shadowverse Portal][shadowverse-portal]: The official card database and deckbuilder.
 
 ## Useful Search Terms
 
 These terms may be useful for finding Japanese-language posts on Twitter or other resources. Note that in Japanese, the classes have fairly generic names (e.g. Runecraft is simply called "witch") so you'll probably also find many unrelated posts when simply searching for class names.
 
-- シャドバ - Shadowverse
-- ローテーション - Rotation
-- アンリミテッド - Unlimited
-- ロイヤル - Swordcraft (royal)
-- ネクロ / ネクロマンサー - Shadowcraft (necromancer)
-- エルフ - Forestcraft (elf)
-- ネメシス - Portalcraft (nemesis)
-- ドラゴン - Dragoncraft (dragon)
-- ウィッチ - Runecraft (witch)
-- ビショップ - Havencraft (bishop)
-- ヴァンプ / ヴァンパイア - Bloodcraft (vampire)
+- シャドウバース / シャドバ - Shadowverse
+- ローテーション / ローテ - Rotation
+- アンリミテッド / アンリミ - Unlimited
+- ロイヤル - Swordcraft (Royal)
+- ネクロ / ネクロマンサー - Shadowcraft (Necromancer)
+- エルフ - Forestcraft (Elf)
+- ネメシス - Portalcraft (Nemesis)
+- ドラゴン - Dragoncraft (Dragon)
+- ウィッチ - Runecraft (Witch)
+- ビショップ - Havencraft (Bishop)
+- ヴァンパイア / ヴァンプ - Bloodcraft (Vampire)
 - 連勝 - Win streak
 - グランドマスター / グラマス - Grand Master / GM
 - デッキ - Deck

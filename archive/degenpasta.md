@@ -13,6 +13,7 @@ New User Guide: https://rentry.org/voldy
 VAE (Important): https://rentry.org/sdvae
 Controlnet: https://rentry.org/dummycontrolnet
 Animation: https://rentry.org/AnimAnon
+Samplers: https://stable-diffusion-art.com/samplers/
 
 >>> Models/Embeddings/Characters/Celebs/Prompts/fetish content <<<
 https://civitai.com

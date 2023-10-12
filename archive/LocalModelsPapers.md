@@ -210,6 +210,7 @@
 09/2023|[Mistral 7B](https://files.catbox.moe/bars04.pdf)
 10/2023|[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2310.03731)
 10/2023|[Improved Baselines with Visual Instruction Tuning (LLaVA 1.5)](https://arxiv.org/abs/2310.03744)
+10/2023|[LLark: A Multimodal Foundation Model for Music](https://arxiv.org/abs/2310.07160)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
@@ -397,6 +398,9 @@
 10/2023|[SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344)
 10/2023|[Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity](https://arxiv.org/abs/2310.05175)
 10/2023|[Let Models Speak Ciphers: Multiagent Debate through Embeddings](https://arxiv.org/abs/2310.06272)
+10/2023|[InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/abs/2310.07713)
+10/2023|[CacheGen: Fast Context Loading for Language Model Applications](https://arxiv.org/abs/2310.07240)
+10/2023|[MatFormer: Nested Transformer for Elastic Inference](https://arxiv.org/abs/2310.07707)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

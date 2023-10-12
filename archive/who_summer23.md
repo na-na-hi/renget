@@ -64,8 +64,8 @@ _______________________________
 
 ###Splash Party concert Sunshine
 Because of Z-aN's mishandling day 1 of the concert had to be [postponed](https://twitter.com/hololive_En/status/1695413241319698729). Cover announced in the morning the next day that it would be released in full [for free](https://twitter.com/hololive_En/status/1695587699582026133). The archive was available until September 27th JST. 
-->[VOD link (MEGA file)](https://mega.nz/folder/9IIUyRDA#ndOUpFRJgULbkPCzOgMBbfvHzVrzf9BOiOjtN89DW7w)<-
-->[![](https://files.catbox.moe/jsyikz.jpg)](9IIUyRDA#ndOUpFRJgULbkPCzOgMBbfvHzVrzf9BOiOjtN89DW7w)<-
+->[VOD link (MEGA file)](https://mega.nz/file/9IIUyRDA#ndOUpFRJgULbkPCzOgMBbfvHzVrzf9BOiOjtN89DW7w)<-
+->[![](https://files.catbox.moe/jsyikz.jpg)](https://mega.nz/file/9IIUyRDA#ndOUpFRJgULbkPCzOgMBbfvHzVrzf9BOiOjtN89DW7w)<-
 
 
 ###Summer Shorts
