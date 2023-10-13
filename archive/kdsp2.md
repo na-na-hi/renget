@@ -87,7 +87,10 @@ Strings & Kings (Persona 5) by Kin12 | Completed:2023-07-02
 https://archiveofourown.org/works/48297010/
 
 Pixar Sexy Shorts (Pixar) by annonfan224 | Completed: 2021-07-09
-https://archiveofourown.org/works/28766307/chapters/70539564/
+https://archiveofourown.org/works/28766307/
+
+Fossil Pokémon (Pokémon) by annonfan224 | Completed: 2021-01-04
+https://archiveofourown.org/works/28557213/
 
 Pokébim Snap! (Pokémon) by Anonymous | Completed: 2021-09-19
 https://archiveofourown.org/works/33976447/

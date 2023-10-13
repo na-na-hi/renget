@@ -343,3 +343,151 @@
 >the rubbing intensified 
 >the darkness overwhelmed you
 >when you woke up again, you saw eyes outside the window before the shape fled from the scene
+
+>you had no idea what was going on
+>all this couldn't be mere coincidence 
+>the rest of the night you stayed up and tended to the fireplace
+>you tried to ignore everything, hoping it would just go away
+>there was no explanation for all of this other than perhaps witchcraft
+>maybe that was the source of all this
+>though you didn't know what witchcraft really was
+>you tried not to think about it
+>thinking about it might attract more of it
+>telling your family seemed like a bad idea
+>you didn't want them worrying
+>it was just more responsibility to shoulder
+>you could weather it
+>asking your town priest seemed like a good idea
+>although, he might accuse you 
+>you'd have to figure it out
+>whoever this was was getting bolder
+>that shape at the window bothered you
+>was it tied to the dream?
+>had to be
+>why did that dream make you feel that way?
+>the next morning you were still up, making some excuse about your stomach to Mutter
+>she offered more bread for breakfast as a way to calm it 
+>but you felt guilty about lying to begin with
+>whatever devilry going on in those woods couldn't be allowed to come into the home
+>you noticed a pattern of calm after your trips out there
+>it only picked up on your trips for the medicine 
+>then whatever it was tended to leave you alone for a while
+>at least that was the theory
+>that meant heading out for more medicine was unfortunate 
+>but needed
+>whatever was out there had you between a rock and a hard place
+>you needed to cut through the forest as the fastest route
+>this time, you would come ready
+>it felt ridiculous and selfish taking the shotgun with you
+>but you wanted the insurance and whatever it was seemed only interested in you
+>so you hinged on that bet, hoping you'd only have to worry about yourself 
+>it didn't take long on the trip for something to happen this time
+>a fork off the usual walking path that was never there before
+>you'd like to think you knew these woods but whatever this was wasn't here two weeks ago
+>one could reason you hadn't been harmed by whatever this was
+>that could be a ploy
+>it could want your soul, your body being useless to it
+>whatever it was it wasn't human
+>and you weren't falling for whatever trick it had here
+>you avoided the new path and hugged your gun a little tighter as you walked forward
+>plus, just because no harm had come to you before didn't mean it couldn't happen
+>that night with the dogs had to be the link
+>you normally never went out that late
+>these forests bordered your fields for generations
+>you'd have heard about something in here by now
+>the urge to bring it up to Mutter was there
+>maybe it was some family secret 
+>it was possible
+>after about a half hour of walking you made a realization 
+>you recognized none of this
+>familiar landmarks like a broken tree or a certain rock were nowhere to be seen
+>this path was completely alien
+>it was impossible 
+>it should be the regular path
+>you ignored the intersection then carried on and…
+>if whatever was out here did the branch in the first place what could stop it from changing other things?
+>you turned and went to run back the way you came only to see the path now led to a cabin
+>not unlike that old woman's, but just different enough
+>when you turned to go away from the cabin you saw… the cabin
+>the door opened on its own
+>this had to be some devil's work
+>you didn't want to be here but you seemed trapped 
+>but playing this game seemed like a bad idea
+>yet you were offered no other choice
+>you were trapped out here
+>dammit
+>you turned to look and sure enough the only sight you had before you was a cabin with an open door
+>to your left
+>cabin
+>right
+>cabin
+>no matter where you stood you were presented an open door
+>it was not a choice
+>so what you decided was instead of fulfilling the whims so some forest demon… you'd sit down
+>whatever game it wanted you to play you weren't participating 
+>you couldn't see into the house all that well 
+>and you weren't curious enough to peek
+>that's how you'd die
+>trying to crawl close enough to look inside
+>it was wanting you to be impatient
+>but you weren't doing this
+>whatever this was
+>the air felt strange 
+>as if the whole situation wasn't strange
+>but there was the strange sweet smell 
+>coming from the doorway
+>no
+>in fact, you aimed the gun towards the open doorway now
+>"what are you doing?"
+>the feminine voice behind you was calm but wasn't exactly calming
+>you fumbled with the gun and nearly misfired it into the cabin in front of you
+>you'd leapt to your feet and stumbled around
+>a young woman in peasant clothes
+>hair red as the sunrise
+>you tried not to look at her ample exposed chest
+>she looked you over and you looked past her
+>more importantly than whoever this was you saw a way out
+>you shoved past and ran down the dirt road, not even sparing a look over your shoulder
+>you wanted no part of this 
+>when you couldn't breath only then did you stop
+>your lungs feeling like they were on fire
+>when you finally regained your strength you made a terrible discovery
+>the sun was going downcast the horizon
+>you knew you set out in the morning
+>the trip shouldn't have taken that long
+>at this rate the forest couldn't be trusted
+>it wasn't yours and you had become very aware of that
+>you had little time to mull over things when the sun just vanished over the hills
+>faster than it should
+>cackling 
+>you remembered that drifting through the woods and couldn't explain just where it came from
+>so in a scene very familiar to you now, you took shelter under a tree
+>whatever was going on, you were in its clutches
+>you set the shotgun down on your lap
+>this wasn't your finest hour
+>you'd manage a way out of this though
+>you had to
+>the laughing grew in intensity and you were on edge now
+>it was that damn dog incident
+>that was the start of all this
+>that peasant girl was tied to all this 
+>trying to look cute and harmless with her cleavage out
+>you did one good deed and this is what it got you
+>when the laughing stopped you relaxed a little
+>then whispering picked up
+>a myriad of voice formed a sort of quiet chorus
+>the shotgun was the only thing giving you any confidence now
+>even that you had your doubts on how effective it would be
+>your mind was racing
+>whatever demons were out there were intent on you
+>but you needed the farm
+>you needed your family
+>you tried hard to think of them
+>you'd see them again
+>this thing would not claim you
+>you fell back on prayer
+>while not the most devout, it brought you comfort
+>blocking out everything, shutting you eyes tight
+>when the whispers were replaced by birdsong only then did you peek
+>the sun was out again, in fact it really hadn't moved much since morning
+>was the whole thing an illusion?

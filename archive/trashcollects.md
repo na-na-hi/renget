@@ -647,9 +647,9 @@ Lora: pixeldrain.com/u/NP87NGA2
 Dataset: pixeldrain.com/u/VvT693oy
 
 feralbois v2.
-Dataset: pixeldrain com u Jc3svbHe
-Fluff Trained: pixeldrain com u V6cosxNn
-NAI Trained: pixeldrain com u kS25QCQY
+Dataset: pixeldrain.com/u/Jc3svbHe
+Fluff Trained: pixeldrain.com/u/V6cosxNn
+NAI Trained: pixeldrain.com/u/kS25QCQY
 
 # Nanaki/RedX,III LoRA
 `Based off of yiffye, but seems to work with other checkpoints. Trigger word is "redxiii"`
@@ -673,11 +673,10 @@ NAI Trained: pixeldrain com u kS25QCQY
 	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
 
 # Steve Martin Style
-
-	https://rentry.org/zni6o
+Removed rentry and second pixeldrain link since the link to epoch 14 was down. Reuploaded again.
+	
 	https://pixeldrain.com/u/cmZbPM6C
-	https://pixeldrain.com/u/eA1M7CYM
-
+	https://pixeldrain.com/u/X5juJVzB
 	"SteveMartinsArt style"
 
 	Probably so-so, didn't test it well enough
@@ -1520,6 +1519,8 @@ https://imgbox.com/g/tdpJerkXh6
 ![Newer example showcasing workflow](https://files.catbox.moe/bk6ww7.png)
 
 ### E621 Tagger Model for use in WD Tagger
+Reminder that the prior GitHub repo has been discontinued; delete the extension's folder and install https://github.com/picobyte/stable-diffusion-webui-wd14-tagger instead, which reportedly works even with WebUI 1.6.
+
 	The WD Tagger extension as-is only generates Danbooru tags, which is great when training on NAI and other anime-based models. For models based on e621, the tags may need to be changed accordingly. For that reason, you can use the following model instead of the WD one.
 ![E621 Tagger](https://files.catbox.moe/9mv03e.png)
 

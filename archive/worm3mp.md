@@ -77,6 +77,7 @@ Rules
 [Southern Charm (Geyser)](https://rentry.org/d3a4r3)
 [Man Made Horrors (Mr. Theseus)](https://pastebin.com/ZtmkM8qx)
 [Fresh off the Plane (Kyōrinrin)](https://rentry.org/cyr77)
+[Less Than Zero (Bitchy Asian Girls)](https://rentry.org/ntd4y)
 
 
 [Undertaker Protectorate/Ward Relationship Chart](https://rentry.org/c6veb2)

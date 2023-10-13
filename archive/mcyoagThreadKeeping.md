@@ -600,6 +600,8 @@ https://pastebin.com/cYh82kz0
 https://rentry.org/vr6nd
 >Slices of Life
 https://rentry.org/q6x74
+>A Hokage's Lesson (Inatsu, Yumiko, Suzura, Eisei)
+https://rentry.org/5n6w4
 
 Relationship Charts:
 >Ray

@@ -4,16 +4,16 @@
 
 !!!info I will update union info at infrequent intervals (read: whenever I feel like it), or when (You) post an update in the thread.
 
-**Last updated: 11/10/23: Ornstein and Smough Edition**
+**Last updated: 13/10/23: Loli White Edition**
 
 ***
 
 ##Server: NA
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
-| NIKG     | ==**6459**==  | 6     | 31/32   | HELIOS   | PERMISSION |                                 |
+| NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 31/32   | CAEL     | PERMISSION |                                 |
-| UOOOH    | ==**13720**== | 6     | 31/32   | TERTUL   | PERMISSION |                                 |
+| UOOOH    | ==**13720**== | 6     | 30/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 30/32   | ALPHABVR | PERMISSION |                                 |
@@ -40,6 +40,7 @@
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 31/32   | NEPBOI  | PERMISSION |                            |
+| KUNNYHUB | ==**29940**== | 1 | 7/20 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

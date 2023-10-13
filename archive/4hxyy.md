@@ -4,6 +4,8 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 329 - Amorphibia Edition: https://desuarchive.org/trash/thread/60290865/
+Thread 328 - All Hail the Princess Edition: https://desuarchive.org/trash/thread/60193765/
 Thread 327 - A Queen's Throne Edition: https://desuarchive.org/trash/thread/59997359/
 Thread 326 - Sensational Edition: https://desuarchive.org/trash/thread/59920337/
 Thread 325 - Scent of Love Edition: https://desuarchive.org/trash/thread/59809776/
