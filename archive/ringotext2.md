@@ -704,3 +704,66 @@ Absolutely forgettable. Watery, plain, lackluster, yet she's constantly asking i
 
 >Nerissa
 It tastes exactly like Yakult, which a human certainly shouldn't be able to produce, despite it tasting pretty good. You can't help but wonder how she's producing it...
+
+-> * * * <-
+
+## >>59952300
+
+I have created a tier list based on which girl has the best tasting piss in en.
+
+I'm definitely feeling like with how active and energetic fuwamoco are they've got some nice piss. Definitely got a nice flavor and smell to it. Probably at least a solid 9/10
+
+Kiara is pretty active and I feel like she takes good care of herself. She's got those vibes of someone with nice piss
+
+Fauna was tough. I put her in S because I feel like the vegan part might make her piss taste either really good or really bad, she's pretty healthy seeming though so imma give her the benefit of the doubt
+
+Bijou was tough too but ultimately I feel like she's probably got some decent tasting piss but not the best. Definitely better than a lot.
+
+Mumei I feel the same about. I feel like she's got like a solid 7/10 flavor for her piss. Like it's good but not to die for, you know?
+
+Bae is probably slightly above mumeis in terms of flavor but I'm worried that the Australian climate may affect the taste of the piss so she's gone down to A. Probably at least a 7.5/10
+
+Nerissa and Shiori I'm afraid both strike me as people who have piss that tastes kinda good but definitely getting lower on the scale. It's just the vibes they both give me.
+
+IRyS, I'm sorry I love you IRyS but there's a vibe you give that tells me your piss is kinda lackluster.
+
+Ame I feel like her diet is too out of whack to have good tasting piss. It's bearable but not something you'd wanna go out of your way for
+
+Mori has improved her diet a lot but I guess I don't know that her body has fully recovered from her days of binge drinking and I feel like you're gonna taste that in her piss. But I give her the benefit of the doubt, she's a candidate for C Tier
+
+Kronii and Ina both give me too many bad diet vibes and I feel like their piss is definitely some of the worst tasting in en. Like you'd probably lie to them and tell them it tasted fine but you're craving like at least ame tier piss the entire time.
+
+Gura I feel like has got to have the worst tasting piss in en. She has a bad diet and probably doesn't drink enough water even tho she's a shark. Definitely gonna be barely palatable at best.
+
+-> * * * <-
+
+## >>60196902
+
+I remember that one time Fuwawa decided to play a prank on me. She invited me over and instructed me to lie on the floor. When I complied, she promptly plopped her big, sweaty, plump butt right on my face. I realized too late what was about to happen.
+PFFFFFFFFFFFFFFFFFFFFT! PFFFFFRRRRRRRRTTTTTT!!! Fuwawa ripped a long, wet fart straight into my nose, the sheer force of it making her butt cheeks flap against my face. The smell was unimaginable, like a thousand rotten eggs marinating in a sewer. I swear I could taste the natto fumes coating the inside of my hairy nostril. I tried to escape, but Fuwawa's powerful butt cheeks had me pinned.
+For two whole minutes, Fuwawa subjected me to the most noxious, eggy fart storm imaginable. Each time I thought it was over, she'd let out another BRRAAAPPPP!
+But eventually, I passed out from the overwhelming stench.
+
+## >>60273482
+
+Shiori's anus is gaped, pipe inserted and connected to the gas mask that has been painfully tightened upon your face to ensure 100% sealage.
+
+Her urethra suction-clamped and piped into the mask, into your mouth.
+Shiori's preparations are complete, squatting over you on the bed to which you are chained.
+
+She has been consuming the multiple taco bell portions that she has kept in the fridge for a week. She has also taken a large dose of anti-diarrhea medication and semi-dehydrated herself.
+
+She rubs her gurgling belly above you and giggles, her golden eyes burning me with her sadistic gaze. Your penis is upright and twitching in anticipation.
+
+"Oh dear my little novelite, looks like it's time for me to finally use my toilet! I'm just getting too gassy!" she exclaims, letting out a short giggle before beginning to grunt and moan.
+Her belly visibly churns and I barely catch a glimpse of the piping begin to shudder.
+
+An utterly bestial ripple erupts from her pale ass and your sinuses are immediately fumigated with the molten wave of undispersed, pungent yet erotic gaseous shitstench. Your head flies back into the pillows from pure ecstacy as the shiori pee also hits your tongue, the delectable nectar quickly filling your mouth and throat, forcing you to swallow.
+
+You alternate between huffing and gulping under shiori's gaze as her feast of farts continues, splurting and spluttering as she forces out all of her gas and fluids.
+
+Finally the intense stimulation is too much for you and you begin to cry out and climax without even touching yourself. Shiori immediately dives down to take your cock into her mouth, the tubing falling free from her asshole and letting out final splurts as she sucks your soul out from your balls.
+
+She looks up at you, giggles and winks.
+"Wow, you make a really good potty! I'll see you again in a few hours!"
+She walks out of the room humming, letting out a few small toots as she goes.

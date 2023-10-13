@@ -59,10 +59,12 @@ More info about the comparison table and preview images can be found in the **[A
 [Dagasi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mR83gKgJ) | [Daido](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jQ1A1QiL)
 :------:|:------:
 ![](https://files.catbox.moe/dypa5e.jpg) | ![](https://files.catbox.moe/hnqw4m.jpg)
-[Donguri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SEsQkJjY) | [Dorontabi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6NUmVBwY)
-![](https://files.catbox.moe/ldydc5.jpg) | ![](https://files.catbox.moe/kj1cyc.jpg)
-[Dragonya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PZlmTTIJ) | [Dried Jellyfish (Full-h-hans)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GJMy0RbR)
-![](https://files.catbox.moe/nogzzz.jpg) | ![](https://files.catbox.moe/8splae.jpg)
+[DoKoMoN](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LMcAAD6a) | [Donguri](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/SEsQkJjY)
+![](https://files.catbox.moe/echeh2.jpg) | ![](https://files.catbox.moe/ldydc5.jpg)
+[Dorontabi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/6NUmVBwY) | [Dragonya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PZlmTTIJ)
+![](https://files.catbox.moe/kj1cyc.jpg) | ![](https://files.catbox.moe/nogzzz.jpg)
+[Dried Jellyfish (Full-h-hans)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GJMy0RbR) | []()
+![](https://files.catbox.moe/8splae.jpg) | ![]()
 
 ### E
 [Egami](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mM1kUZIS) | [Esearu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TUkxRJhS)

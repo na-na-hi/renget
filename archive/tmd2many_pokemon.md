@@ -1,7 +1,7 @@
 # TMD 2 v1.31 Pokémon List
 ->All Pokémon mentioned on this list have been adapted for ease of randomized rolling. Some have been banned for lore or balance purposes.<-
 ->*Some evolutionary requirements have been changed for quality of life or balance. Or simply adapted to a different system.*<-
-->*If you roll a final evolutionary stage Pokémon, you are given the chance to de-volve and play as the first stage evolution. Word of warning: if it requires an item to evolve, you are not guaranteed one.*<-
+->*If you roll a final evolutionary stage Pokémon, you are given the chance to de-volve and play as previous evolutions. Word of warning: if it requires an item to evolve, you are not guaranteed one.*<-
 ->![How many more can you find?](https://cdn.imgchest.com/files/j7kzcnjza7m.png)<-
 ->**[BACK TO RULESET](https://rentry.co/tmd2many_rules)**<-
 ***
@@ -25,7 +25,7 @@
 **Legendary Rolls:** *Legendary/Mythical Rolls* are of a species considered **Legendary** or **Mythical.** While some Legends *are* indeed rollable, rolling for them *outside of concrete, un-cheatable means is grounds for a forced reroll,* and in the odd chance an insurmountable number of Players get them, GM intervention may be needed.
 
 ### QoL
-**Evolution Clause:** If a Player rolls a Pokémon with *alternate forms or is at a later Evolution Stage,* they may choose to play as a different form or go back down the Evolution Line. This applies to *Regional Variants, Form Changes, and Evolution.*
+**Evolution Clause:** If a Player rolls a Pokémon with *alternate forms or is at a later Evolution Stage,* they may choose to play as a different form or go back down the Evolution Line. This applies to *Regional Variants, Form Changes, and Evolution.* Only the starting stage can change between regional forms.
 **Same-Species Clause:** If a Player just so happens to roll *two Pokémon of the same Evolution Line,* they may reroll until they get a different option separate from the first. 
 **Grief Clause:** If all options available to a Player would make for an *unenjoyable experience,* they may reroll to get a species with less personal grievances. 
 **Mega Clause:** If a Player rolls a *Mega-Evolved or Gigantimax Pokémon* through some means, they may choose to have the Mega or Gigantimax Form as their Character's natural state. This is *purely-cosmetic* and does not have a mechanical impact on the game, nor does it make a Character significantly larger than normal.

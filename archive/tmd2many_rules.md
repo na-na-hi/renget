@@ -500,6 +500,12 @@ As stated earlier, A Character may only use one Status Move during their turn, e
 - Status Moves that apply a beneficial condition to the User or their Allies, which normally target Self, Adjacent Allies, or All Allies, are considered **Defensive Actions.**
 	- Status Moves that affect the environment but are not normally intended to target an Opponent, such as Rain Dance or Grassy Terrain are also considered **Defensive Actions.**
 
+#### RP Moves
+
+A special category listed underneath your character sheet, these are two move slots that are separate from your actionable moves. These cannot be used for anything particularly serious, such as in a Main Quest or Sidequest (or any adventure with stakes or gain). They are simply there for you to play around with in downtime or to show off your abilities.
+- You can cycle in replaced moves into these slots.
+- Forgotten moves can be added in for no cost.
+
 ##### Status Effects
 
 *Some Moves cause Status Conditions. There are Major Status Conditions and Minor Status Conditions. Only one Major Status Condition can be active at a time on a single Pokémon, while Minor Status Conditions are near-limitless.*

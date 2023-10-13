@@ -1,3 +1,4 @@
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
 ![its pikachu](https://cdn.imgchest.com/files/my2pcpv2wd7.png) 
 
 ### Sparks ♂
@@ -44,7 +45,7 @@ Name of Move | Description
 Volt Switch | After making its attack, the user rushes back to switch places with a party Pokémon in waiting. 
 Dig | You dig a hole to go underground and damage an enemy on the next turn. You evade items or moves while you're underground.
 
-**SPECIAL BONUSES**
+SPECIAL BONUSES
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
 	You have 0 points to spend.
 	0/10 IP | ▯▯▯▯▯▯▯▯▯▯
@@ -58,13 +59,16 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Attribute: Cartography **ɪɪɪ** | ᴍᴀx (+3) | Helps with creating maps and interpreting them.
+Stat: Speed **ɪɪɪ** | ᴍᴀx (+1 AP) | Improves speed stat!
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Cartography **ɪɪɪ** | ᴍᴀx (+3) | 3/3 | ▮▮▮
 Training for Attribute: Navigation **ɪɪ** | Tier **ɪɪɪ** (+3) | 2/3 | ▮▮▯
 Training for Battle Attribute: Paralyzing Thunderbolt **ɪ** | Tier **ɪɪ** (+2) | 4/6 | ▮▮▮▮▯▯
 Training for Move: Iron Tail | *ᴛʀᴀɪɴᴇᴅ* | 4/5 |  ▮▮▮▮▯
-Stat: Speed **ɪɪɪ** | ᴍᴀx (+1 AP) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**

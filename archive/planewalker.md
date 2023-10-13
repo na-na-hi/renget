@@ -282,6 +282,11 @@ Louis | Info
 ![](https://files.catbox.moe/0s9h8t.png)   | A kind and gentle college student majoring in astronomy, many people consider Louis to be the full package. Kind, caring, handsome, charismatic and smart. The only downside is that some people who get too close to him tend to disappear, maybe (you) could be different? Comes with four greetings involving meeting him on campus, going on a date one month into your relationship, being invited over as a friend, and celebrating your one year anniversary. Twin brother of Marco. Inspired by SeleP's [Elsa-Maria](https://www.youtube.com/watch?v=AnI63PMvamI) and [Chloe](https://www.youtube.com/watch?v=GXSRenjh29U).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/louis-a094f02c),  [Catbox](https://files.catbox.moe/8x135x.png)
 
+Frankie | Info
+:----:  | :----: 
+![](https://files.catbox.moe/7un22u.png)   | It's Halloween, and your boyfriend Frankie is afflicted with a terrible curse that turns him into a ravenous beast if he doesn't receive candy this night of the year! ...Or so he says, anyway. Damn chuunibyous. Inspired by Junky's [Happy Halloween](https://www.youtube.com/watch?v=gM4cPbEN8Ug)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/frankie-db4431a8),  [Catbox](https://files.catbox.moe/ujl5vs.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

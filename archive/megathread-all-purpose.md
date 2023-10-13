@@ -175,7 +175,6 @@ WEBSITE | URL
 :---- | :----
 ⚠️ 1377x | 1377x-to
 ⚠️ KickassTorrents | kickasstorrents-to
-⚠️ RARBG DUMP INDEX | rarbg-best
 ⚠️ The Pirate Bay | thepiratebay-org 
 ⚠️ TheRarBg | therarbg-com
 

@@ -1,7 +1,7 @@
 # onaholesama's furshit
-->![SAFE: furry artist, anthro dog, sad internet style, random doodles, drawn with a mouse, single teardrop, black and white anthro dog, black and white colors, minimum amount of detail, extremely simple lines, ms paint style, inside a microsoft paint background, looking straight up, side shot](https://files.catbox.moe/2pl2h1.jpg)<-
+->![SAFE: furry artist, anthro dog, sad internet style, random doodles, drawn with a mouse, single teardrop, black and white anthro dog, black and white colors, minimum amount of detail, extremely simple lines, ms paint style, inside a microsoft paint background, looking straight up, side shot](https://files.catbox.moe/m3g6z2.jpg)<-
 ***
-DALL-E-3 is fascinating. its over for artists that arent nsfw focused.
+DALL-E-3 is veri good
 ***
 **Table of Contents**
 [TOC2]
@@ -137,6 +137,121 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 ***
 ##OTHER
 ***
+###DALL-E-3 STUFF
+```python
+"""
+some notes:
+install selenium and download the latest chromedriver, executable_path might be deprecated idk.
+you still have to enter bing and login as normal, as well as supplying the proompt. change line 32 if you need more time.
+
+this isn't flawless and will infinite loop under certain conditions i haven't nailed down yet. 
+for example the blue jay error isn't handled, or the fact that it will sometimes randomly open microsoft designer.
+another weird error that happens randomly "please wait for your other prompts to finish" which wont let you prompt until you clear history.
+"""
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+import time
+
+options = Options()
+options.add_experimental_option("prefs", {"download.default_directory": r"C:\gens"}) # change this to your image folder
+driver = webdriver.Chrome(executable_path='C:/Users/ISquatUrCurl/Downloads/chromedriver.exe', options=options) # change this to your chromedriver path
+driver.get("https://www.bing.com/images/create/")
+
+furfag = "forsen"
+i = 0
+idx = 0
+filtered = 0
+ratelimited = 0
+timeout = 20
+
+time.sleep(50) # login first and whatever
+
+def checkElementExists(name, type):
+    try:
+        if type == 'class':
+            temp = driver.find_element(By.CLASS_NAME, name)
+        elif type == 'id':
+            temp = driver.find_element(By.ID, name)
+        else:
+            temp = driver.find_element(By.CSS_SELECTOR, name)
+
+    except NoSuchElementException:
+        return False
+
+    return True
+
+def downloadImage(idx, single):
+        if single:
+            find_image = driver.find_element(By.CLASS_NAME, 'gir_mmimg') 
+            find_image.click()
+        else:
+            elements[idx].click()
+
+        driver.switch_to.frame('OverlayIFrame')
+        download_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div[2]/ul/li/div/div/div[1]/div[2]/ul/li[3]/div/span/span[2]')
+        download_image.click()
+
+        close_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/header/div/div[2]/div/span')
+        close_image.click() #go back
+
+        return 1
+
+"""
+good morning sirs
+"""
+while True:
+    driver.switch_to.default_content()
+    idx = 0
+
+    try:
+        wait = WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.ID, 'create_btn_c'))) # clike button
+        wait.click()
+        driver.implicitly_wait(12) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
+
+        if checkElementExists('[alt="Unsafe image content detected"]', 'dog'): # YJK.
+            filtered += 1
+            print("filtered ", filtered, " times; retrying")
+            continue
+        elif checkElementExists('[alt="There was a problem creating your images"]', 'robot') or checkElementExists('[alt="We can\'t create your images right now"]', 'pufferfish'): # TOTAL PUFFERFISH DEATH
+            ratelimited += 1
+            print("rate limited ", ratelimited, " times; retrying")
+            continue
+
+        if checkElementExists('gir_mmimg', 'class'): # only a single image generated
+            downloadImage(0, True)
+            idx += 1
+        else:
+            if checkElementExists('mmComponent_images_as_1', 'id'): # more than 1 image
+                container = driver.find_element(By.ID, 'mmComponent_images_as_1')
+                elements = container.find_elements(By.TAG_NAME, 'li')
+
+                while idx != len(elements):
+                    downloadImage(idx, False)
+                    driver.switch_to.default_content()
+                    idx += 1
+            else:
+                print("ERROR: unknown element") 
+                driver.refresh() # this is pajeet code and will lead to an infinite loop !
+                time.sleep(3)
+                continue
+
+        i += idx
+        print("generated ", i, " images")
+
+    except TimeoutException:
+        print("Couldn't find element create_btn_c")
+        driver.refresh() # this is pajeet code and will lead to an infinite loop !
+        time.sleep(3)
+        continue
+
+driver.close()
+```
 ###the backlog
 some of these are done but i may not release them anyways. feel free to steal these ideas if you want
 Image| Name 

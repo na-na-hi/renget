@@ -19,7 +19,7 @@ The Quest 2 is the best budget option at the moment if you don't mind having to 
 Telemetry can be limited through [Oculess](https://github.com/basti564/Oculess) if you're worried about that, although it does have a few minor drawbacks.
 Also worth mentioning that Quest 2 also gives you access to a few exclusives that currently aren't playable any other way.
 
-Quest Pro is lighter than the a Quest 2, has improved lenses, and has face and eye tracking that can be used in VRChat. It also has self tracked controllers that can be bought separately to use with other Quest headsets. It's not generally better for games, so unless face and eye tracking are a must have for you, it's not worth the extra money over a Quest 2.
+Quest Pro is lighter than the a Quest 2, has improved lenses, a screen that supports local dimming, and has face and eye tracking that can be used in VRChat. It also has self tracked controllers that can be bought separately to use with other Quest headsets. It's not generally better for games, so unless face and eye tracking are a must have for you, it's not worth the extra money over a Quest 2.
 
 Pico 4 is another good budget option if it's easily available in your country. Like a Quest, it can be used as a standalone headset or connected to a PC either wired and wireless through [Streaming Assistant](https://www.picoxr.com/global/software/pico-link) or [Virtual Desktop](https://www.vrdesktop.net/) to play PCVR games. Has pancake lenses, which are an improvement over what's available in the Quest, but has a worse game selection if you're using it as a standalone headset.
 
@@ -33,6 +33,8 @@ Bigscreen Beyond is a lightweight, high resolution SteamVR headset with custom m
 
 Quest 3 will be smaller and lighter than the Quest 2, with pancake lenses and a higher resolution screen. Other improvements include an updated SoC for better performance in standalone games and improved passthrough cameras. Controllers won't be self-tracked like the Quest Pro, and instead will be similar to the Quest 2, but without the rings. Shaping up to be a better option than the Quest Pro for most people. Price will be $500, and the Quest 2 will stick around as the budget option after its release.
 
+Pico 5 hasn't been officially announced yet, but according to leaks, it will have the same SoC as the Quest 3 with 2560x2560 per eye resolution and two extra cameras on the headset for controller tracking.
+
 #####--- DISCONTINUED HEADSETS ---#
 
 Reverb G2 is still a decent option for sim players if you can find it for a good price. Headset resolution is high, but the controller tracking, while still usable, is subpar compared to other headsets. Playing some heavier SteamVR games through the WMR software can add some overhead, [OpenComposite](https://gitlab.com/znixian/OpenOVR) can help if you're running into performance issues there.
@@ -42,6 +44,9 @@ In general, older headsets like the Vive, Rift CV1, or any WMR headset other tha
 If you've got any questions, post in the thread, and we'll try to help.
 
 #####--- ADDITIONAL RESOURCES ---#
+
+Updated Space Calibrator fork for hybrid setups:
+https://github.com/ArcticFox8515/OpenVR-SpaceCalibrator/releases 
 
 Old Oculus Rift Setup Guide:
 https://pastebin.com/QgHwLq8R

@@ -249,6 +249,9 @@
 | [>>57723742](https://rentry.org/ringotext2#57723742) | Gura | choco |
 | [>>57952089](https://rentry.org/ringotext2#57952089) | Kobo, Ollie | ringo |
 | [>>58169501](https://rentry.org/ringotext2#58169501) | Various | milk |
+| [>>59952300](https://rentry.org/ringotext2#59952300) | Various | ringo |
+| [>>60196902](https://rentry.org/ringotext2#60196902) | Fuwawa | brap |
+| [>>60273482](https://rentry.org/ringotext2#60273482) | Shiori | brap, ringo |
 
 ## >>249165
 
