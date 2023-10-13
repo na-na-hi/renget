@@ -5,15 +5,22 @@
 	
 
 !!! info
-     -> 🪶  **Useful Links**  🪶 <-
+     -> 🪶 **Mumei's socials** 🪶<-
 >Mumei's Youtube channel
 https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
 >Mumei's Twitter
 https://twitter.com/nanashimumei_en
+>Mumei's Tiktok account (promotional only)
+https://www.tiktok.com/@nanashimumei_hololiveen
+
+!!! info
+     -> 🪶  **Useful Links**  🪶 <-
 >Mumei's Merch
 https://rentry.org/who_merch
->Database backup
+>Database backup 
 https://mooms.neocities.org/
+>/who/ OP template
+ https://rentry.org/7uy87
 
 !!! info
      -> 🪶  **Streams**  🪶 <-

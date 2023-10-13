@@ -56,7 +56,7 @@ Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly afte
 Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners are announced/previewed on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
+We get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners and events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
 
 **14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.

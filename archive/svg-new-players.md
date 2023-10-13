@@ -14,6 +14,10 @@ GameWith and Shadowverse Master each maintain tier lists for both rotation and u
 
 During the 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate as players experiment with new decks and counters to those decks. The best indication for which decks are good during this time are players who reach Grand Master rank early in the expansion, though even this can be misleading.  Where possible, it can be better to keep using a deck from the previous expansion in the early stages of a new expansion until the meta has settled enough to know which decks are worth crafting.
 
+## Take Two Card Rankings
+
+Shadowverse Master maintains a [ranked list of cards by class in Take Two][svm-twopick]
+
 ## Where to Find Decks
 
 - Shadowverse Master's Tier List includes decks from each archetype taken from major tournament winners & contestants, as well as decks that achieved large win streaks.
@@ -58,11 +62,12 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
     1. Every player has a single temporary copy of each legendary card from Classic through Steel Rebellion. These never expire.
     2. Temporary cards can be bought using Temporary Gems. Neither these cards nor the gems themselves ever expire.
     3. Temporary cards can be obtained by purchasing a temporary deck. **These are the only genuinely temporary temporary cards**, and expire at the end of the expansion they were purchased in.
-2. **I saw a player with a fancy animated sleeve, where do I get it**?: Animated sleeves with a pattern of circles and lines on them are Grand Master sleeves. They are obtained by reaching 10,000 master points in a single expansion. Each expansion has a different GM sleeve; the pattern is the same as the card back you see when opening packs for that expansion.  Animated sleeves with a character or other art on them are either rewards for drawing that character's leader card, or purchase bonuses for certain limited-time bundles in the store.
+2. **I saw a player with a fancy animated sleeve, where do I get it**?: Animated sleeves with ornate patterns of circles and shapes on them [(such as this)][gm-sleeve] are Grand Master sleeves. They are obtained by reaching 10,000 master points in a single expansion. Each expansion has a different GM sleeve; the pattern is the same as the card back you see when opening packs for that expansion.  Animated sleeves with a character or other art on them are either rewards for drawing that character's leader card, or purchase bonuses for certain limited-time bundles in the store.
 
 [svm]: https://shadowverse-master.com
 [svm-rotation]: https://shadowverse-master.com/meta
 [svm-unlimited]: https://shadowverse-master.com/meta/unlimited
+[svm-twopick]: https://shadowversemaster.com/take-two/rankings/1
 [gw-rotation]: https://shadowverse.gamewith.jp/article/show/84174
 [gw-unlimited]: https://shadowverse.gamewith.jp/article/show/22277
 [sv-wins]: https://shadowverse-wins.com
@@ -73,3 +78,4 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
 [tempostorm]: https://tempostorm.com/shadowverse
 [rage]: https://rage-esports.jp/shadowverse/
 [shadowverse-portal]: https://shadowverse-portal.com/
+[gm-sleeve]: https://svgdb.me/assets/sleeves/sleeve_5010023.png

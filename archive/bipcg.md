@@ -1,4 +1,43 @@
 ▶NEW CLIPS
+>Direct hit on Ukie Forces assault group. Zaporozhye direction.
+https://files.catbox.moe/1dha66.MP4
+>RU Sniper work in the Maryinsky direction, no survivors
+https://files.catbox.moe/y900w3.mp4
+>Another drone compilation
+https://files.catbox.moe/vxs7c3.mp4
+>Night raid of "Geraniums" on the Odessa region
+https://files.catbox.moe/cbqwho.MP4
+>Kamikaze drones by "highly effective ground air defense" - Ukrainian infrastructure.
+https://files.catbox.moe/53qig7.MOV
+>You can't run. You can't hide.
+https://files.catbox.moe/wdgacq.mp4
+>Small bonfire in Avdeevka
+https://files.catbox.moe/5al58w.mp4
+>Another Caesar getting Lancet'd
+https://files.catbox.moe/o7gpns.mp4
+>Ukrainian SU-25 hit by a Lancet (Dolgintsevo airfield / 60km behind frontline)
+https://files.catbox.moe/fjhhu7.mp4
+>Uki navy getting droned on the Dnieper
+https://files.catbox.moe/ptrt2v.MP4
+>Avdeevka direction: AFU fleeing from their positions, leaving dead and wounded behind
+https://files.catbox.moe/0eonpf.webm
+>Commander of motorized rifle platoon Shaman shows RIA how Lancet destroyed M777 howitzer (no subs)
+https://files.catbox.moe/ih3ofv.webm
+>Russian TOR (SAM) crews on how to hunt NATO missiles and Ukie drones (EN subs)
+https://files.catbox.moe/y8udmn.webm
+>Grad barrage towards Avdeevka
+https://files.catbox.moe/6hc5k3.mp4
+https://files.catbox.moe/uwvids.mp4
+>108th regiment identified a group of Uki infantry and teleported them to Bandera.
+https://files.catbox.moe/8z1ly0.webm
+>Destruction of AFU observation post at night in the Polotsk direction by the 35th Army
+https://files.catbox.moe/we1x5n.mp4 (embed)
+>FPV takes out T-64
+https://files.catbox.moe/0l15uy.MP4
+>Russian soldiers inspecting a captured Ukie stronghold (not comfy)
+https://files.catbox.moe/saegqn.mp4
+>UA meat assault going as expected
+https://files.catbox.moe/9n20yn.mp4
 >Its NOT about NATO
 https://files.catbox.moe/rgvx8g.mp4
 >The Ukraine is very cool - Kuleba

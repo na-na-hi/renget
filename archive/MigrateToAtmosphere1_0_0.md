@@ -1,4 +1,4 @@
-###How to migrate your current Atmosphere setup to 1.5.5
+###How to migrate your current Atmosphere setup to 1.6.0
 ***
 !!! Warning Before you upgrade Atmosphere, please ensure to delete your `/contents/` folder located in `/atmosphere/`.
 
@@ -6,7 +6,7 @@
 ***
 Hekate | Atmosphere | Fusee | SigPatches
 :--: | :--: | :--: | :--:
-[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
+[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.6.0-prerelease) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.6.0-prerelease) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
 
 ####Steps:
 ***
