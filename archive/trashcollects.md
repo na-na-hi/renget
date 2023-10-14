@@ -1450,9 +1450,8 @@ Big artist comparison
 
 	https://files.catbox.moe/hi3crm.pdf
 
-EasyFluff V11 Artist Comparison
-
-	https://mega.nz/folder/kigBCaYZ#2x3Wy44-3h05fVodrYlBcQ
+EasyFluff Comparisons
+https://rentry.org/easyfluffcomparison/
 
 EasyFluff V11.2 Comparison
 

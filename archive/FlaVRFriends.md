@@ -19,6 +19,7 @@ Kerimara|[Youtube](https://www.youtube.com/@kerimaravt) [Twitter](https://twitte
 S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twitter.com/isaboatvtuber)|Singer. Boat theme. One of Sena's many wives.
 Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and privated all her stuff but has come back from the pipkin. Sena's Friend.
 Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
+Saltea Kichee|[Youtube](https://www.youtube.com/@Saltea_Kichee) [Twitter](https://twitter.com/SalteaKichee)|Likes baking, bread and has interacted a lot, from making drawings to chatting with Minna.
 
 ---
 

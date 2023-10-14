@@ -2,7 +2,7 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-09-28)==<-
+->==(updated 2023-10-14)==<-
 ***
 [TOC2] 
 ***
@@ -22,6 +22,18 @@ https://rentry.org/CoT_Jailbreaks
 
 https://rentry.org/ClaudeJB
 
+https://dumb.one/gpt/prompts/my-tavern-prompts-claude.md
+
+https://rentry.org/ArfyJB
+
+https://rentry.org/LurkzyDurkzyBurkzy
+
+https://rentry.org/myuclyutsu
+
+https://rentry.co/crustcrunchJB
+
+https://rentry.org/characterprovider
+
 https://rentry.org/aui3u <-- Prefill guide
 
 
@@ -37,6 +49,8 @@ https://rentry.org/hochi-reupload
 https://rentry.org/fa5fv
 
 https://rentry.org/lobstersgpt
+
+https://dumb.one/gpt/prompts/my-tavern-prompts.md
 
 
 ***

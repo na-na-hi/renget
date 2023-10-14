@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-13107 | アオダマ | Open as of 10/10
+13107 | アオダマ | Open as of 14/10
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -140,6 +140,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+477 | BunnyChasers | Open as of 14/10
 2496 | AbydosCycling | Open as of 10/10
 6098 | Comfy | Open as of 16/09
 
@@ -147,7 +148,6 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
-477 | BunnyChasers | Full as of 22/09
 623 | Mesugaki | Full as of 07/06
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
@@ -161,7 +161,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 23/09
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
@@ -169,6 +168,7 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Full as of 14/10
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

@@ -17,13 +17,13 @@
 | PinoccioP - God-ish / 神っぽいな |[![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA)|3m25|
 | Kalafina - Magia |[![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM)|5m25|
 | DECO\*27 - The Vampire (English cover) |[![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw)|3m14|
-|5th cover - unknown date |Placeholder|-|
-|6th cover - unknown date |Placeholder|-|
+|5th cover - TBD |-|-|
+|6th cover - TBD |-|-|
 
 #####Collab Songs
 | Song | Link | Duration |
 |------|-----|-----|
-| Rebellion (1st Advent group orisong) | -> [![](https://files.catbox.moe/nemmi8.jpg)](https://www.youtube.com/watch?v=pYNYhSsR8EE) <- |3m48|
+| Rebellion (1st Advent group orisong) | -> [![](https://files.catbox.moe/xutpuv.jpg)](https://www.youtube.com/watch?v=pYNYhSsR8EE) <- |3m48|
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
 
@@ -43,10 +43,10 @@
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
 
 
-#### ![Image description](https://files.catbox.moe/f9inkg.png) Other
-| Date / Type | Information | Setlist / TImestamps / Clips |
+##### ![Image description](https://files.catbox.moe/f9inkg.png) Totsu-karaoke
+| Date / Occasion | Information | Setlist / TImestamps / Clips |
 |------|-----|-----|
-|2023-10-09 ![](https://files.catbox.moe/4jc013.png) Totsu-karaoke | Nerissa collaborated with Mumei to produce a karaoke duet recording of a song for Mumei's partner karaoke stream. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/vz25ct.png) | 1. Miki Matsubara - Mayonaka no Door (Stay with Me) ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=bDjzpMmw-JY&t=4419s) ![](https://files.catbox.moe/4jc013.png) [🎞 Clip](https://streamable.com/eco75k)|
-|2023-10-13 ![](https://files.catbox.moe/4jc013.png) Totsu-karaoke | Nerissa collaborated with Ollie and Kiara to produce a karaoke recording of a song for Ollie's birthday's totsu-karaoke. | 1. doriko - Romio & Cinderella ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=n0YgZ-Ncje4&t=1455s)|
+|2023-10-09 ![](https://files.catbox.moe/4jc013.png) Mumei's birthday | Nerissa collaborated with Mumei to produce a karaoke duet recording of a song for Mumei's partner karaoke stream. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/vz25ct.png) | 1. Miki Matsubara - Mayonaka no Door (Stay with Me) ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=bDjzpMmw-JY&t=4419s) ![](https://files.catbox.moe/4jc013.png) [🎞 Clip](https://streamable.com/eco75k)|
+|2023-10-13 ![](https://files.catbox.moe/4jc013.png) Ollie's birthday | Nerissa collaborated with Ollie and Kiara to produce a karaoke recording of a song for Ollie's totsu-karaoke. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/m2t2gi.png)| 1. doriko - Romio & Cinderella ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=n0YgZ-Ncje4&t=1455s)|
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
