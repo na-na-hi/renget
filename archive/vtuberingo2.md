@@ -52,8 +52,9 @@ Rena Anggraeni - https://youtube.com/shorts/IDKAlPKDoyQ?feature=share
 Hakos Baelz (dubious) - https://files.catbox.moe/n663m2.mp4
 runoxi - https://www.twitch.tv/videos/1833744208
 Skunkieloo - https://youtu.be/iyQE27r7fBM ; https://youtu.be/v8pOiAOgb-Y
-skylarkuamva - https://www.twitch.tv/skylarkuamva/clip/ExquisiteBlueConsoleCorgiDerp-L3zVCLHfvSc1AGqZ?filter=clips&range=all&sort=time; https://www.twitch.tv/skylarkuamva/clip/ResilientSaltyCroissantCurseLit-eDP32AVozCIfscgQ?filter=clips&range=all&sort=time
+skylarkuamva - https://www.twitch.tv/skylarkuamva/clip/ExquisiteBlueConsoleCorgiDerp-L3zVCLHfvSc1AGqZ?filter=clips&range=all&sort=time; https://www.twitch.tv/skylarkuamva/clip/ResilientSaltyCroissantCurseLit-eDP32AVozCIfscgQ?filter=clips&range=all&sort=time; https://www.twitch.tv/skylarkuamva/clip/ResoluteOpenReubenDuDudu-ZNYcUVzMDuPmE8l_?featured=false&filter=clips&range=7d&sort=time
 Ikine Tomeru - https://www.youtube.com/watch?v=AcLWdEbPQ5k&t=80s
+Nyanners - https://files.catbox.moe/2rj5n8.mp4
 
 **Choco**
 Mori Calliope - https://youtu.be/nzukVcF4Tfw

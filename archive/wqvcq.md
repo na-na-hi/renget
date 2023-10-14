@@ -1,8 +1,8 @@
 # /utg/ Recommended Fangames
 *A collection of Undertale and Deltarune fangames "recommended" by the anons of /utg/.*
 
-==Last updated: June 11th, 2023==
-==Latest Addition(s): **Papyrus' BELIEF** (Works in Progress)==
+==Last updated: October 13th, 2023==
+==Latest Addition(s): **Deltarune Rouxls Kaard** (Fan Fights), **Vision Crew's Deltarune Alternate Chapters** (Works in Progress)==
 
 !!! note [Original Pastebin Info](https://pastebin.com/ZHASpj9h) (Last edited: February 27th, 2016)
 
@@ -94,11 +94,17 @@ A fanmade, unofficial mod for Undertale that completely reimagines it with new s
 
 https://gamejolt.com/games/UndertaleBnP/574044
 
-**(NEW)**
 **Papyrus' BELIEF** - Kasssm et al.
 A reimagining of the Disbelief Papyrus AU that aims to be more in line with Papyrus' character.  Originally started off as an animation, it is now being developed into an actual playable fight! (No demo available. [Phase 1 Teaser available.](https://m.youtube.com/watch?v=-1OL_DH_7FI&feature=youtu.be))
 
 https://gamejolt.com/games/PapyrusBelief/695903
+
+**Vision Crew's Deltarune Alternate Chapters** - R.V. Pine, Vision Crew, et al.
+An alternative take on Chapters 3 to 7 of Deltarune based off of its September 2022 Status Update and the Spamton Sweepstakes teasers, but tries to predict how Toby actually would make the chapters, and stays close to his style of writing.  Spearheaded by a guy whose determination, hopes, and dreams are so closely aligned with Toby's, he fooled almost the entire fandom that he was the real guy. (No demo available. [1st Anniversary Newsletter](https://docs.google.com/document/d/1y_IWsopQ0PaTW3ibzWQs6GEh0gxNRqede6xBlqTRPrg/edit))
+
+[R.V. Pine's Tumblr](https://www.tumblr.com/radiant-vulpine)
+[R.V. Pine's Soundcloud](https://soundcloud.com/dr-fansong-thing)
+
 ***
 ### Fan Fights
 *Short and sweet fangames that get straight to the point. Remember the notice about Unitale.*
@@ -237,6 +243,11 @@ https://gamejolt.com/games/spamton-restitched/753983
 Part of a Deltarune AU where the environments and aesthetics of the first two Dark Worlds are swapped, among other things.  Two monsters and an heir to a dark throne find themselves in the dungeon of a ruthless dark queen's castle, and find a strange prisoner with an unstable manner.  They free him in exchange for a grand prize, unaware of the most dangerous game waiting to be played.
 
 https://gamejolt.com/games/ScamptonGame/795644
+
+**Deltarune Rouxls Kaard** - BlazingArrow12
+Fight the cunning Duke of Puzzles himself from a crazed alternate universe where Toby *did* think he was an epic character after all.  Features multiple outcomes; one where you show him the joy of puzzle-making, and another where you push the one who maketh his owne rules to his limit.
+
+https://gamejolt.com/games/deltarunerouxlskaard/839713
 
 ***
 #### Miscellaneous

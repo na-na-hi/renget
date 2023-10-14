@@ -140,9 +140,11 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 ###DALL-E-3 STUFF
 ```python
 """
+10/13/2023- more consistent downloading and some loop fixes
+
 some notes:
 install selenium and download the latest chromedriver, executable_path might be deprecated idk.
-you still have to enter bing and login as normal, as well as supplying the proompt. change line 32 if you need more time.
+you still have to enter bing and login as normal, as well as supplying the proompt.
 
 this isn't flawless and will infinite loop under certain conditions i haven't nailed down yet. 
 for example the blue jay error isn't handled, or the fact that it will sometimes randomly open microsoft designer.
@@ -170,8 +172,6 @@ filtered = 0
 ratelimited = 0
 timeout = 20
 
-time.sleep(50) # login first and whatever
-
 def checkElementExists(name, type):
     try:
         if type == 'class':
@@ -194,17 +194,28 @@ def downloadImage(idx, single):
             elements[idx].click()
 
         driver.switch_to.frame('OverlayIFrame')
+        time.sleep(1)
         download_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div[2]/ul/li/div/div/div[1]/div[2]/ul/li[3]/div/span/span[2]')
+        time.sleep(1)
         download_image.click()
+        time.sleep(1)
 
         close_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/header/div/div[2]/div/span')
+        time.sleep(1)
         close_image.click() #go back
+        time.sleep(1)
 
         return 1
 
 """
 good morning sirs
 """
+print(".")
+proompt = str(input("paste proompt here: "))
+
+inputform = driver.find_element(By.ID, 'sb_form_q')
+inputform.send_keys(proompt)
+
 while True:
     driver.switch_to.default_content()
     idx = 0
@@ -212,13 +223,13 @@ while True:
     try:
         wait = WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.ID, 'create_btn_c'))) # clike button
         wait.click()
-        driver.implicitly_wait(12) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
+        driver.implicitly_wait(14) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
 
         if checkElementExists('[alt="Unsafe image content detected"]', 'dog'): # YJK.
             filtered += 1
             print("filtered ", filtered, " times; retrying")
             continue
-        elif checkElementExists('[alt="There was a problem creating your images"]', 'robot') or checkElementExists('[alt="We can\'t create your images right now"]', 'pufferfish'): # TOTAL PUFFERFISH DEATH
+        elif checkElementExists('[alt="There was a problem creating your images"]', 'robot'): # TOTAL PUFFERFISH DEATH
             ratelimited += 1
             print("rate limited ", ratelimited, " times; retrying")
             continue
@@ -236,9 +247,11 @@ while True:
                     driver.switch_to.default_content()
                     idx += 1
             else:
-                print("ERROR: unknown element") 
-                driver.refresh() # this is pajeet code and will lead to an infinite loop !
-                time.sleep(3)
+                print("timed out, redirecting..") 
+                driver.get("https://www.bing.com/images/create/")
+                time.sleep(2)
+                inputform = driver.find_element(By.ID, 'sb_form_q')
+                inputform.send_keys(proompt)
                 continue
 
         i += idx
@@ -246,8 +259,10 @@ while True:
 
     except TimeoutException:
         print("Couldn't find element create_btn_c")
-        driver.refresh() # this is pajeet code and will lead to an infinite loop !
-        time.sleep(3)
+        driver.get("https://www.bing.com/images/create/")
+        time.sleep(2)
+        inputform = driver.find_element(By.ID, 'sb_form_q')
+        inputform.send_keys(proompt)
         continue
 
 driver.close()

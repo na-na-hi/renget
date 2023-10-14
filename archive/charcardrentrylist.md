@@ -27,7 +27,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Itachi Uchiha](https://files.catbox.moe/e4x70p.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Daro'dasha Ravihirin](https://files.catbox.moe/n00ncl.png)|
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/o9ha6u.png) [MV]
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||[Louise](https://files.catbox.moe/o9ha6u.png)
 [Muricanpie](https://rentry.co/mpcs) | Misc ||[SamoaSweets4418](https://files.catbox.moe/qtzbb3.png), [Arcmeed Pnast](https://files.catbox.moe/vdx02v.png), [Dorin](https://files.catbox.moe/ph6yaa.png), [Argo](https://files.catbox.moe/7vbpgd.png), [Sachiko](https://files.catbox.moe/vgauy8.png), [Amphora](https://files.catbox.moe/te3n4v.png), [Ralsei](https://files.catbox.moe/4hfina.png), [Diona](https://files.catbox.moe/n0t5j4.png), [Dark Sun Gwyndolin](https://files.catbox.moe/g3x1jw.png)
 [UncleMarr](https://rentry.org/umarr) | Misc ||[Your PC](https://files.catbox.moe/ieczk6.png)
 [Genoo](https://rentry.org/295se) | Sizeplay ||

@@ -431,13 +431,14 @@ https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining ev
 ##/vp/ plays Bingo/filler content while waiting for something better
 !!! info Status: Ongoing
     It's basically just trying to make filler LP-grade games bearable by playing Bingo with the squares being common tropes & cliches in fangames.
+!!! danger also there's probably several good reasons most of these struggled to last more than a few threads
 
 https://arch.b4k.co/vp/thread/54597569/ eternalorder1 shit game ragequit speedrun any%
 https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame designs, asked to cease and desist
 https://arch.b4k.co/vp/thread/54623584/ uranium2 /vp/ try not to respond to obvious trolls/shills challenge (impossible)
 https://arch.b4k.co/vp/thread/54636740/ uranium3 orevald dies from shitty fakemon designs, again
-https://arch.b4k.co/vp/thread/54636647/ wack dreepy solorun thread, dead on arrival due to level cap issues
 https://arch.b4k.co/vp/thread/54651587/ detergent1 autism
 https://arch.b4k.co/vp/thread/54656958/ detergent2 fun fact, the faggot modder behind this goes by the name "low effort"
 https://arch.b4k.co/vp/thread/54664566/ detergent3 literally empire
-https://arch.b4k.co/vp/thread/54670452/ detergent4
+https://arch.b4k.co/vp/thread/54670452/ detergent4 asset theft my beloved
+https://arch.b4k.co/vp/thread/54675739/ detergent5
