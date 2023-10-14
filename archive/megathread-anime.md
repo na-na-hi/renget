@@ -185,7 +185,7 @@
 - Free site that allows you to watch anime and even get episodes with dubs or subtitles without having to register.
 - [URL Safety Results](https://www.urlvoid.com/scan/ryuk.to/)
 
-### ▶️ [WcoFun](https://wcofun.org/)
+### ▶️ [WcoFun](https://wcofun.org/) / [2](https://www.wco.tv/)
 - Watch a variety of cartoons and anime for free on the site in awesome HD.
 - [URL Safety Results](https://www.urlvoid.com/scan/wcofun.org/)
 

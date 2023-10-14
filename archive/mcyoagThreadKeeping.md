@@ -810,6 +810,8 @@ Applying for membership in the Dread Conglomerate (Pestilence, Big Cheese)
 https://rentry.org/4v5uin
 Material Girl (Koreans)
 https://rentry.org/bttmt 
+https://rentry.org/Worm3TheDoctorWillSeeYouNow
+The Doctor Will See You Now (Dr Hurtsteal, Nemian, mention of Edith Lee)
 ```
 ***
 Page 3

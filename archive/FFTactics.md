@@ -31,9 +31,14 @@ This really boosts the FFT style I was after but it has a lot of data from other
 >"Gives you the armor/cloth shading, the isometric stance, and 90s Yoshida faces. I excluded the illustrations and monsters from training this version as they made the armor/clothing too bulky and plain."
 I find that this one affects the background and lighting more than the others which are more about the characters. It adds an official illustration feeling.
 
+
+
 >FFT Avatars - https://www.dropbox.com/s/9v5m7oymkdum9sm/FFT.safetensors?dl=0
 >"I tried my best without putting in actual effort. idek what franchise this is so your triggerwords are "pixelart, portrait". also, 1boy, 1girl, blonde hair and brown hair were randomly added to the images since I couldn't be assed to tag them properly lmao."
 Trained on the FFT character portraits. I found that you can weigh the "pixelart" part negatively while still getting the "intended" style of the Lora, IE (pixelart:-0.3), but eventually I just removed that part entirely. 
+
+>Final Fantasy Tactics Portrait Style - https://civitai.com/models/161474/final-fantasy-tactics-portrait-style
+Another FFT portrait LoRA, this one is newer and probably works better than the one above.
 
 Here are a bunch of prompts to try, download the images from this mega link.
 https://mega.nz/folder/UYZBUAhR#hCRNEcZFqHiolnzcjcQTMQ

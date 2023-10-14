@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 
 **INVENTORY (4 slots)**
@@ -71,8 +71,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
-2. Red gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
-3. Aspear Berry |  Thaws the user. Heals Freeze.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 
 **STORAGE (2 slots)**

@@ -137,7 +137,7 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 ***
 ##OTHER
 ***
-###DALL-E-3 STUFF
+###DALL-E-3 AUTOPROOMPT
 ```python
 """
 10/13/2023- more consistent downloading and some loop fixes

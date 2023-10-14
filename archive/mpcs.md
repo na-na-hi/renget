@@ -28,7 +28,8 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 !!! info
 	With Dorin's release on SpicyChat, all bots are now officially on SpicyChat! Hells yeah! \o/
 	Nora (NSFW) [9/23/2023]
-	Toby Daniels Part 3: College [10/7/2023]
+	Toby Daniels Part 3: College (NSFW) [10/7/2023]
+	Arbor (NSFW) [10/12/2023]
 
 ***
 
@@ -198,6 +199,18 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/1mjda7.png)
+
+### Arbor [OC] [Male] [Femboy] [Cyberpunk] [Netrunner]
+
+>**Arbor** is an expert Netrunner, and he is easily one of the best hackers in the city. The two of you are part of the same merc squad, Kerberos, running gigs in Night City for money. Since you met, he's sort of treated you like an older brother figure, and knows he can lean on you for support if needed.
+
+Formatted with: Scrip+Boostyle
+[Json](https://files.catbox.moe/ewr2n7.json)
+
+[SpicyChat](https://spicychat.ai/chat/c40751b5-d9a1-449d-b75f-beaf16c35482)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/9hmupo.png )
 
 ### Arcmeed Pnast [OC] [Male] [Femboy] [Adventurer] [Half-Kobold]
 
@@ -655,7 +668,7 @@ Formatted with: Scrip+Boostyle
 [SpicyChat](https://spicychat.ai/chat/c2e3d37b-1deb-45ee-9b64-53a44a770345)
 
 Tavern Card: 
-![Tavern Card](https://files.catbox.moe/7n1744.png)
+![Tavern Card](https://files.catbox.moe/5ubx9p.png)
 
 ### Monica [OC] [Female] [Waifu] [Light Fetishes] [Glasses] [Nerdy]
 

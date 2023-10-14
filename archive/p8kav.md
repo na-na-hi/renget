@@ -62,11 +62,11 @@ https://civitai.com/models/136014?modelVersionId=150018
 
 # OC Bots:
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE
-**Tavern Card** https://files.catbox.moe/6o3c5j.png
+**Tavern Card** https://files.catbox.moe/mcy6lc.png
 **NSFW Tavern Card** - https://files.catbox.moe/03dnf5.png
 *genre:* Loli, nudism
 *synopsis:* You were hired to babysit a 12 year old girl with a very bad attitude who likes to wear very little clothing
-![Emily](https://files.catbox.moe/6o3c5j.png)
+![Emily](https://files.catbox.moe/mcy6lc.png)
 
 **Adoptive daughter** - https://beta.character.ai/chat?char=kfmWrNuBd1kH7MIjBcOIhMDMuNjy2eVSsyZVpixhE1A
 **Tavern Card**- https://files.catbox.moe/3fdg4r.png

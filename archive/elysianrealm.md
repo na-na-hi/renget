@@ -11,10 +11,13 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 6.9 Phase 2
-[![dwflag1](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag_1)
+[![dwflag1](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag_1)[![sivalk1](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression_1)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![vqvalk1](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)
 
 
 [Dreamweaver Flag](https://rentry.org/ElysianRealm#dreamweaver-flag_1)
+[Starry Impression](https://rentry.org/ElysianRealm/#starry-impression_1)
+[Herrscher of Rebirth Decay](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)
+[Valkyrie Quicksand weapon](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)
 
 
 !!! info 6.9 Phase 1
@@ -41,14 +44,12 @@ click image to jump to valk
 [Spina Astera](https://rentry.org/ElysianRealm/#spina-astera)
 
 !!! info 6.8 Phase 2
-[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![hohulti1](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)[![ssulti1](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)[![jkvalk1](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm#jade-knight_1)[![sivalk1](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression_1)[![vqvalk1](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)[![frvalk1](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hotrwep1](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)[![rcvalk1](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)[![promvalk1](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017_1)[![hoficom1](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo_1)[![skvalk1](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight_1)
+[![hohulti1](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)[![ssulti1](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)[![jkvalk1](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm#jade-knight_1)[![frvalk1](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hotrwep1](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)[![rcvalk1](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)[![promvalk1](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017_1)[![hoficom1](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo_1)[![skvalk1](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight_1)
 
-[Herrscher of Rebirth Decay](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)
+
 [Herrscher of Human: Ego fast ulti](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)
 [Sugary Starburst ulti](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)
 [Jade Knight](https://rentry.org/ElysianRealm#jade-knight_1)
-[Starry Impression](https://rentry.org/ElysianRealm/#starry-impression_1)
-[Valkyrie Quicksand weapon](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)
 [Fallen Rosemary SS2](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)
 [Infinite Ouroboros](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)
 [Herrscher of Truth weapon](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)
@@ -179,7 +180,7 @@ Optional | Eden1 | Both damage boosts, starting SP are the key choices, individu
 #->Herrscher of Rebirth Decay<-
 ->![horbde1](https://i.imgur.com/UcYNSai.png)<-
 
-!!! info Phase 1
+!!! info Phase 2
 ##->Recommended Gear<-
 Weapon | Stig
 ------ | ------
@@ -187,18 +188,18 @@ Life Harvester's Path: Shared Destiny | Seele: Herrscher of Rebirth set
 
 Cost | Effect
 ------ | ------
-0 | RPC
+5 | Max HP+200
+10 | Combo vulnerability 
 15 | Weapon type breach
-15 | Combo ATK vulnerability 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-VC | BR | Utility
-SA | BR | Damage
+BKE | SS | Utility
+BR | SS/SA | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Forget-Me-Not/Tsukimi Himiko
+Start | Light as a Bodhi Leaf /The Lonely Moon
 1st Shop | Forbidden Seed/Boundless Logos
 16F | Tin Flask/Boundless Logos
 
@@ -210,11 +211,13 @@ Start | Forget-Me-Not/Tsukimi Himiko
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Sakura2 | Vulnerability, TDM, evasion +1, evasion reset are the key choices, unlock nexus
-1st | Mobius1 | Both TDMs, vulnerability are the key choices, recommended to pick all enhanced, prioritise Newborn
-2nd | Kalpas2 |  Both damage boosts, HP cap up, vulnerability are the key choices, unlock nexus
-2nd | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus
-Optional | Kosma1 | Shieldbreak damage, evasion, ultimate are the key choices, unlock nexus; can also pick Griseo Red as reinforcement 
+1st | Su1 | Vulnerability, TDM, both combo boosts are the key choices; recommended to pick breach, vulnerability from enhanced
+2nd | Mobius1 | Both TDMs, vulnerability are the key choices, unlock nexus 
+2nd | Sakura2 | Vulnerability, TDM, evasion +1 are the key choices, unlock nexus
+2nd | Kalpas2 |  Both damage boosts, HP cap up are the key choices, unlock nexus
+2nd | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus; can also pick Griseo Red Yellow Grey as reinforcement
+
+!!! info Dodge in soul shaper form then basic attack to get full bar to use combo ATK; recommended to swap sigil on 6F, roll Su on 7F; remember to place Mobius support skill in range of the enemies
 
 
 #->Herrscher of Rebirth Soul Shaper<-
@@ -856,10 +859,8 @@ Twirling Glaze: Lustrous Bloom | Aladdin set
 
 Cost | Effect
 ------ | ------
-0 | RPC
-5 | Weapon active vulnerability
-10 | Ultimate Evasion DMG bonus
-15 | Combo ATK vulnerability 
+15 | Weapon type breach
+15 | Weapon active vulnerability 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -868,8 +869,8 @@ SS | BR/SA | Damage
 
 Time | Emblem 
 ------ | ------ 
-Start | Pseudo Miracle/Falling in Past Light
-1st Shop | Faraway Ship/Out of Reach
+Start | Gold Goblet / Dreamful Gold 
+1st Shop | Pseudo Miracle / Falling in Past Light 
 16F | Faraway Ship/Out of Reach 
 
 ##->Ego Signets<-
@@ -880,11 +881,13 @@ Dappled Shade 娑影 | Luster 辉彩 | Rarities 财珍 | Whimsy 奇思 | Tambour
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Vill-V1 | 3 1 2 6 are the key choices; recommended to pick all enhanced, prioritise breach
-2nd | Kosma1 | Basic ATK, evasion, ultimate, shieldbreak damage, time extension are the key choices, recommended to pick at least breach, can also pick the others
-2nd | Eden1 | Both damage boosts, starting SP are the key choices, unlock nexus
+1st | Eden1 | Both damage boosts, starting SP are the key choices, unlock nexus
+2nd | Vill-V1 | 3 1 2 6 are the key choices; recommended to pick at least breach from enhanced, can also pick physical DMG
+2nd | Kosma1 | Basic ATK, evasion, ultimate, shieldbreak damage are the key choices, unlock nexus 
 2nd | Griseo1 | Red(buy from shop) Black are the key choices, don't need nexus
-Optional | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus; can pick Kalpas vulnerability as reinforcement
+Optional | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus; can also pick Kalpas vulnerability as reinforcement
+
+!!! info Recommended to swap sigil on 5F; after getting Vill-V breach, remember to switch to Kosma+1 sigil, which helps to gather and stack Rend
 
 #->Shadow Knight<-
 ->![skvalk](https://i.imgur.com/G5bFoZb.png)<-
@@ -2995,10 +2998,9 @@ Elysian Astra: Heart's Color | Linnaeus T + Cezanne MB
 
 Cost | Effect
 ------ | ------
-0 | RPC
-5 | Weapon active vulnerability
-10 | Counter type TDM boost
-15 | Combo ATK vulnerability 
+5 | Max HP+200
+10 | Combo vulnerability 
+15 | Weapon active vulnerability 
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -3008,7 +3010,7 @@ BR | SA/SS | Damage
 Time | Emblem 
 ------ | ------ 
 Start | Fragile Friend/Out of Reach
-1st Shop | Mad King's Mask/Out of Reach
+1st Shop | Forbidden Seed/Out of Reach
 16F | Tin Flask/Out of Reach
 
 ##->Ego Signets<-
@@ -3020,11 +3022,12 @@ Start | Fragile Friend/Out of Reach
 Priority | Signet | Details
 ------ | ------ | ------
 1st | Kosma1 | Ultimate, basic ATK, evasion, shieldbreak damage, time extension are the key choices; recommended to pick all enhanced, must pick at least breach
-2nd | Mobius1 | Both TDMs, vulnerability are the key choices, can pick CD reduction, unlock nexus; can pick Dead, Unknown
-2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus
+2nd | Mobius1 | Both TDMs, vulnerability are the key choices, unlock nexus; can pick Dead
 2nd | Kalpas1 | Both damage boosts, HP cap up are the key choices, can pick vulnerability, unlock nexus; can pick Burden, TDM
-Optional | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
+Optional | Griseo1 | Red Yellow Black are the key choices, unlock nexus
 
+!!! info Recommended to swap sigils on 6F, roll Kosma on 7F; for lower level runs, not recommended to take Kalpas before 12F
 
 #->Argent Knight: Artemis SS<-
 ->![akavalk1](https://i.imgur.com/CHZEnW0.png)<-

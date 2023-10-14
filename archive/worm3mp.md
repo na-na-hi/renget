@@ -78,6 +78,7 @@ Rules
 [Man Made Horrors (Mr. Theseus)](https://pastebin.com/ZtmkM8qx)
 [Fresh off the Plane (Kyōrinrin)](https://rentry.org/cyr77)
 [Less Than Zero (Bitchy Asian Girls)](https://rentry.org/ntd4y)
+[The Doctor will see you now (Dr Hurtsteal, Nemian, mention of Edith Lee)](https://rentry.org/Worm3TheDoctorWillSeeYouNow)
 
 
 [Undertaker Protectorate/Ward Relationship Chart](https://rentry.org/c6veb2)

@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 11th October. All dates dd/mm.
+!!! Note Last updated: 14th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -108,6 +108,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
 3640 | DFC | Open as of 08/10
+6488 | Kanimochi | Open as of 12/10
 6665 | F2Poor | Open as of 24/09
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 10/10
@@ -161,7 +162,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 694 | ArisSoft | Open as of 23/09
-6208 | Cūnnysseurs | Open as of 29/09
+6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
 
