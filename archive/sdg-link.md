@@ -56,6 +56,8 @@ https://cloud.vast.ai/create/
 ##Try online without registration
 ###txt2img
 https://pixai.art
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://huggingface.co/spaces/google/sdxl
 https://www.mage.space
 https://frosting.ai
 https://tensor.art
@@ -65,7 +67,6 @@ https://www.patience.ai
 https://beta.dreamstudio.ai
 https://dezgo.com
 https://pornpen.ai
-https://huggingface.co/spaces/stabilityai/stable-diffusion
 ###img2img
 https://huggingface.co/spaces/huggingface/diffuse-the-rest
 https://dezgo.com/image2image

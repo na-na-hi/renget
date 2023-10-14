@@ -290,6 +290,8 @@ See [the shop section](https://rentry.org/how2playba#shop).
 ## Commissions
 Ignore this until you can clear commission H (recommended level 65, but doable way below that), thank you.
 Only farm commissions during rate up events if you did the above. 
+Reports > credits
+You'll run out of reports before you run out of credits. Consider changing your spending habits if the reverse holds true. 
 
 Commissions is comprised of two modes: Base Defense and Item Retrieval.
 Base Defense is a wave defense against small yellow armored enemies. You want to bring your best AOE yellow students and at least one tank. A useful trick is to use Serina to move your tank further ahead so they take 100% of the aggro from the waves of bots. This also prevents ur tank from running behind ur team. 
@@ -356,7 +358,7 @@ Look at the [shop section](https://rentry.org/how2playba#shop) if you want detai
 
 The goal of PvP is to match your attack type with the enemy's armour type, while mismatching their attack type with your armour type. 
 Use [the following tierlist](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#) to build your team around. 
-General advice is to use a double tank setup + Shun, with good supports. Tsubaki is usually your goto. 
+General advice is to use a double tank setup + Shun, with good supports. Tsubaki and Yuuka are usually your goto. 
 
 
 You can skip the battle if you don't like to be in pain. 
@@ -383,6 +385,7 @@ Don't get the secret tech note until you actually need it. You use it to bring y
 I personally recommend buying stuff for the current and next raid.
 
 - "idk what to buy, which BDs/technotes do I pick?" 
+
 
 Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. 
 
@@ -428,13 +431,15 @@ Everything depends on your needs at the time though, and you can just buy whatev
 You can't unlock/redeem limited students through this shop, so don't buy them if you don't have them (or plan to).
 The gear blueprints are a godsend though. Everything about this shop is honestly. Thank you, John Nexon. 
 
+- Can I redeem limited units if I buy their elephs?
+
+
+READ NIGGA READ
+![how2read (not to be confused with how to read)](https://i.imgur.com/LCmON51.png)
+
 >Bounty shop
 Every month a new shop, save ur stuff for (good) artifacts only. You can get BDs/technotes from the raid shop, so I wouldn't recommend buying them here.
 It's fine to skip a shop if you don't need anything from it that month. Try to limit ur purchases to t4 artifacts too.
-
->Can I redeem limited units if I buy their elephs?
-READ NIGGA READ
-![how2read (not to be confused with how to read)](https://i.imgur.com/LCmON51.png)
 
 ## Crafting Chamber
 
@@ -449,7 +454,7 @@ If you want to go to node 2: use t1-2 mats you don't care about. Not crafting ma
 
 For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Abundance (credits) > Shiny > Radiant > Mystic (elephs) > The Rest**
 The only reason to farm t3 nodes at this point is for the gifts, you'll have enough of everything else to spend it on getting here. 
-You can spin the wheel with the Radiant and Mystic option for more entertaining results. 
+You can spin the wheel with the Radiant and Mystic options for more entertaining results. 
 
 
 >Material Fusion (the new one)
@@ -661,6 +666,6 @@ In case you didn't see it already, [most stuff is inside the bagguides rentry. U
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 
-Thanks for reading my guide. If you have any comments, contributions, and/or feedback go to the /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
+Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the 4chan /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.

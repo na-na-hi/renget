@@ -1,5 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 14.10.2023 06:00 UTC]
+[Last Updated: 14.10.2023 12:00 UTC]
 
 Current thread - [boards.4chan.org/h/thread/7613407/](https://boards.4chan.org/h/thread/7613407/)
 
@@ -8,7 +8,7 @@ Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kk
 Last five:
 - 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
 - 641&nbsp;&nbsp;[archiveofsins.com/h/thread/7609421/](https://archiveofsins.com/h/thread/7609421/)&nbsp;&nbsp;&nbsp;&nbsp;(09.10.2023 00:27)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Post Butts Edition
-- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
+- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[1038]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
 - 639&nbsp;&nbsp;[archiveofsins.com/h/thread/7600921/](https://archiveofsins.com/h/thread/7600921/)&nbsp;&nbsp;&nbsp;&nbsp;(03.10.2023 14:07)&nbsp;&nbsp;[1006]&nbsp;#&nbsp;This time with a subject field edition
 - 638&nbsp;&nbsp;[archiveofsins.com/h/thread/7596393/](https://archiveofsins.com/h/thread/7596393/)&nbsp;&nbsp;&nbsp;&nbsp;(30.09.2023 03:21)&nbsp;&nbsp;[982]&nbsp;#&nbsp;The High Road edition
 ---

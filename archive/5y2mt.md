@@ -16,18 +16,9 @@
 	>==Audio== 
 	
 	>==Karaoke Clips== 
-	>- **09/03 - Added**
-	>- [#29. 『2022-09-06』 - 【SINGING】A Weird Singing Practice [k0b8vPsTYVc]](https://rentry.org/5y2mt/#2022-09-06-singinga-weird-singing-practice-k0b8vpstyvc) *Timestamps
-	>- [#47. 『2023-06-29』 - sleepy moomin [w805ry9vfss]](https://rentry.org/5y2mt/#2023-06-29-sleepy-moomin-w805ry9vfss)
-	>- [#48. 『2023-07-13』 - 【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols [8t0qNLSGpNo]](https://rentry.org/5y2mt/#2023-07-13-beegsmols-karaoke-relayunarchived-smol-moomin-beegsmols-8t0qnlsgpno)
-	>- [#49. 『2023-08-04』 - 【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! #itsMeiBday [YAcX5PdvJYc]](https://rentry.org/5y2mt/#2023-08-04-mumeis-birthdaykaraoke-with-guests-announcements-and-more-itsmeibday-yacx5pdvjyc) *Timestamps
-	>- [#50. 『2023-08-11』 - 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! [ds1_32tfVUc]](https://rentry.org/5y2mt/#2023-08-11-%E6%AD%8C%E6%9E%A0-unarchived-800000-subscriber-celebration-ds1_32tfvuc)
-	>- [#51. 『2023-08-12』 - 歌枠 but Mumei sings songs she doesn't know very well with a cold [w241Wd4asJE]](https://rentry.org/5y2mt/#2023-08-12-%E6%AD%8C%E6%9E%A0-but-mumei-sings-songs-she-doesnt-know-very-well-with-a-cold-w241wd4asje) *Timestamps
-	>- [#52. 『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]](https://rentry.org/5y2mt/#2023-08-31-%E6%AD%8C%E6%9E%A0-unarchived-endurance2-years-singing-every-song-ive-sung-in-karaoke-moomin2023-m6bmfnwmcky)
-
-	> - **09/04 - Added**
-	>- [#09. 『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]](https://rentry.org/5y2mt/#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc)
-	>- [#32. 『2022-10-14』 - 【UNARCHIVED】mumei's turn to procrastinate [ajptD_dnhWA]](https://rentry.org/5y2mt/#2022-10-14-unarchivedmumeis-turn-to-procrastinate-ajptd_dnhwa)
+	> - **10/14 - Added**
+	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/5y2mt/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy) ***Timestamps**
+	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/5y2mt/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -878,8 +869,8 @@ The Confrontation - Les Miserables  | https://files.catbox.moe/t4a1pd.mp4  |   h
 Stars - Les Miserables  | https://files.catbox.moe/oq401e.mp4  |   https://cldup.com/C3f_uaIYtw.mp4
 I'm Your Treasure Box - Houshou Marine  | https://files.catbox.moe/h1lkre.mp4  |   https://cldup.com/peNxrZ4HRb.mp4
 QUEEN - Kanaria  | https://files.catbox.moe/ipchfl.mp4  |   https://cldup.com/RqX2gWZdSt.mp4
-The Forgotten Song (Accapella)  | https://files.catbox.moe/4zp03e.mp4  |   https://cldup.com/X4Je1qQpR5.mp4
-Dan Dan Chikaku Naru - 40mP (Accapella)  | https://files.catbox.moe/u8w9ub.mp4  |   https://cldup.com/5eSJ9PTA5J.mp4
+The Forgotten Song (Acapella)  | https://files.catbox.moe/4zp03e.mp4  |   https://cldup.com/X4Je1qQpR5.mp4
+Dan Dan Chikaku Naru - 40mP (Acapella)  | https://files.catbox.moe/u8w9ub.mp4  |   https://cldup.com/5eSJ9PTA5J.mp4
 Everytime We Touch - Cascada  | https://files.catbox.moe/miijka.mp4  |   https://cldup.com/ltWrh6OupQ.mp4
 God Save the Queen/King & America (My Country, 'Tis of Thee)  | https://files.catbox.moe/x4l1rq.mp4  |   https://cldup.com/AoQ3Q031GB.mp4
 Isn’t She Lovely - Stevie Wonder  | https://files.catbox.moe/9h8g22.mp4  |   https://cldup.com/i0jw7tWLyj.mp4
@@ -1080,9 +1071,9 @@ First Burn - Hamilton  | https://files.catbox.moe/9orpon.mp4  |   https://cldup.
 04. [The Beginning - ONE OK ROCK](https://youtu.be/Wj2B3n8XjV0?t=1878)
 05. [Kokoronashi - Chouchou-P](https://youtu.be/Wj2B3n8XjV0?t=2263)
 [Hitorinbo Envy - koyori](https://youtu.be/Wj2B3n8XjV0?t=2672)
-[FIRE - QUEEN BEE (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
+[FIRE - QUEEN BEE (Acapella)](https://youtu.be/Wj2B3n8XjV0?t=3032)
 [Shiny Smily Story - hololive IDOL PROJECT](https://youtu.be/Wj2B3n8XjV0?t=3163)
-[Idol - Yoasobi (Accapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
+[Idol - Yoasobi (Acapella)](https://youtu.be/Wj2B3n8XjV0?t=3282)
 
 ***
 
@@ -1223,7 +1214,7 @@ Stellar Stellar - Suisei (Acapella)   |  https://files.catbox.moe/znb1ja.mp4    
 09. [Inochi ni Kirawarete iru. - Kanzaki Iori](https://youtu.be/w241Wd4asJE?t=3743)
 10. [Asu no Yozora Shoukaihan - Orangestar](https://youtu.be/w241Wd4asJE?t=4160)
 11. [Amanojaku - 164](https://youtu.be/w241Wd4asJE?t=4523)
-12. [Kamippoi na - Pinocchio-P](https://youtu.be/w241Wd4asJE?t=4877)
+12. [God-ish - Pinocchio-P](https://youtu.be/w241Wd4asJE?t=4877)
 13. [Sorairo Days - Shoko Nakagawa](https://youtu.be/w241Wd4asJE?t=5317)
 14. [This game - Konomi Suzuki](https://youtu.be/w241Wd4asJE?t=5645)
 15. [God knows... - Aya Hirano](https://youtu.be/w241Wd4asJE?t=5975)
@@ -1335,6 +1326,38 @@ Check Yes, Juliet - We The Kings   | https://files.catbox.moe/208p10.mp4     |  
 Baby One More Time - Britney Spears   |  https://files.catbox.moe/0tjzqy.mp4    |   https://cldup.com/Bd8rCWW-Ts.mp4
 The Star-Spangled Banner   |  https://files.catbox.moe/d29uu4.mp4    |   https://cldup.com/hiEfxM26wA.mp4
 Beat It - Michael Jackson   | https://files.catbox.moe/0nh2d8.mp4     |   https://cldup.com/7nqhb7yBT5.mp4
+
+***
+######『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]
+[Go back to the top](https://rentry.org/5y2mt)
+>Timestamps
+01. [Connect - ClariS w/ Bijou](https://youtu.be/bDjzpMmw-JY?t=811)
+02. [Tabun - Yoasobi w/ Kaela](https://youtu.be/bDjzpMmw-JY?t=1400)
+03. [Karate - BABYMETAL w/ Fauna](https://youtu.be/bDjzpMmw-JY?t=2047)
+04. [W / X / Y - Tani Yuuki w/ Risu](https://youtu.be/bDjzpMmw-JY?t=2553)
+05. [God-ish - Pinocchio-P w/ Kiara](https://youtu.be/bDjzpMmw-JY?t=3036)
+06. [Monster - Yoasobi w/ Kobo](https://youtu.be/bDjzpMmw-JY?t=3491)
+07. [Hajimete No Chuu - Anshin Papa w/ FuwaMoco](https://youtu.be/bDjzpMmw-JY?t=3880)
+08. [Mayonaka no Door ~Stay with Me - Miki Matsubara w/ Nerissa](https://youtu.be/bDjzpMmw-JY?t=4421)
+09. [Kyouran Hey Kids!! - The Oral Cigarettes w/ Mori](https://youtu.be/bDjzpMmw-JY?t=4820)
+
+***
+######『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+------ | ------ | ------
+GO!!! - Flow   |  https://files.catbox.moe/tz6nb1.mp4   |  https://cldup.com/J_K2eb8gUn.mp4  
+Sign - Flow   |  https://files.catbox.moe/jbuuob.mp4   |    https://cldup.com/KURzqr1G7i.mp4
+Silhouette - Kana-Boon   |  https://files.catbox.moe/lqm4cl.mp4   |   https://cldup.com/H8EzluShz7.mp4 
+The Beginning - ONE OK ROCK   | https://files.catbox.moe/1d2tb8.mp4    |    https://cldup.com/vLQUqQnWde.mp4
+KICK BACK - Kenshi Yonezu   |  https://files.catbox.moe/mmwzjv.mp4   |    https://cldup.com/r1Q5m6poFk.mp4
+Idol - Yoasobi   |  https://files.catbox.moe/5cfrja.mp4   |    https://cldup.com/xUsMzwmn6D.mp4
+Crossing Field - LiSA   | https://files.catbox.moe/g8ieup.mp4    |   https://cldup.com/G58AfRSkJq.mp4 
+Fries - Adventure Time (Acapella)   |  https://files.catbox.moe/glel3w.mp4   |    https://cldup.com/SocYRqJcD9.mp4
+Mukanjyo - Survive Said the Prophet   | https://files.catbox.moe/a96r8l.mp4    |    https://cldup.com/a5JuAd_jbZ.mp4
+found   lost - Survive Said the Prophet   |  https://files.catbox.moe/n00ejc.mp4   |    https://cldup.com/Ts-f-mK7sw.mp4
+again - YUI   |  https://files.catbox.moe/lmf4f6.mp4   |    https://cldup.com/IncP6lVn66.mp4
+Mukanjyo - Survive Said the Prophet   |  https://files.catbox.moe/as5bf8.mp4   |    https://cldup.com/ZSr_qhaCjo.mp4
 
 
 ***

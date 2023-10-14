@@ -4,7 +4,6 @@
 #######To update, use copy&paste to replace the entire filter with the updated one. For convenience, use 'ctrl+a' in this provided link: https://rentry.co/bwbmm5/raw
 #######It is `HIGHLY RECOMMENDED` to *ENABLE Recursive Hiding* and *DISABLE Stubs*; located on the main 4chanX settings.
 #######It is `HIGHLY RECOMMENDED` to use the image filter, it hides images only used by the shitposter and no one else. Just as effective, if not more, as the word filter. Link: https://rentry.co/sksge
-#######Head to the /hmofa/ Meta Thread if you have any comments, questions, or criticism. Meta thread: https://furchan.net/b/res/4383.html
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.

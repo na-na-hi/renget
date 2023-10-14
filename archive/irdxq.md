@@ -26,15 +26,10 @@ Dates are based on EST
 
 	>==Audio== 
 	
-	>==Chapters== - 09/03 - Added 
-	>- [#29. 『2022-09-06』 - 【SINGING】A Weird Singing Practice [k0b8vPsTYVc]](https://rentry.org/irdxq/#2022-09-06-singinga-weird-singing-practice-k0b8vpstyvc)
-	>- [#31. 『2022-09-27』 - 【UNARCHIVED karaoke】I don't think my voice is strained now [QBLg9R7YOd4]](https://rentry.org/irdxq/#2022-09-27-unarchived-karaokei-dont-think-my-voice-is-strained-now-qblg9r7yod4) 
-	>- [#47. 『2023-06-29』 - sleepy moomin [w805ry9vfss]](https://rentry.org/irdxq/#2023-06-29-sleepy-moomin-w805ry9vfss)
-	>- [#48. 『2023-07-13』 - 【BEEGsmols Karaoke Relay】Unarchived Smol Moomin' #BEEGsmols [8t0qNLSGpNo]](https://rentry.org/irdxq/#2023-07-13-beegsmols-karaoke-relayunarchived-smol-moomin-beegsmols-8t0qnlsgpno) 
-	>- [#49. 『2023-08-04』 - 【MUMEI'S BIRTHDAY】Karaoke with GUESTS !! + Announcements and MORE !! #itsMeiBday [YAcX5PdvJYc]](https://rentry.org/irdxq/#2023-08-04-mumeis-birthdaykaraoke-with-guests-announcements-and-more-itsmeibday-yacx5pdvjyc)  
-	>- [#50. 『2023-08-11』 - 【歌枠 UNARCHIVED】 800,000 Subscriber Celebration !!! [ds1_32tfVUc]](https://rentry.org/irdxq/#2023-08-11-%E6%AD%8C%E6%9E%A0-unarchived-800000-subscriber-celebration-ds1_32tfvuc)  
-	>- [#51. 『2023-08-12』 - 歌枠 but Mumei sings songs she doesn't know very well with a cold [w241Wd4asJE]](https://rentry.org/irdxq/#2023-08-12-%E6%AD%8C%E6%9E%A0-but-mumei-sings-songs-she-doesnt-know-very-well-with-a-cold-w241wd4asje)  
-	>- [#52. 『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]](https://rentry.org/irdxq/#2023-08-31-%E6%AD%8C%E6%9E%A0-unarchived-endurance2-years-singing-every-song-ive-sung-in-karaoke-moomin2023-m6bmfnwmcky) 
+	>==Chapters== 
+	> - **10/14 - Added**
+	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/irdxq/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy)  
+	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/irdxq/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis) 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -324,7 +319,7 @@ CHAPTER01NAME=Start
 CHAPTER02=00:04:02.582
 CHAPTER02NAME=Just Awake - Fear, and Loathing in Las Vegas
 CHAPTER03=00:05:26.282
-CHAPTER03NAME=Just Awake - (Accapella)
+CHAPTER03NAME=Just Awake - (Acapella)
 CHAPTER04=00:06:41.000
 CHAPTER04NAME=departure! - Galneryus
 CHAPTER05=00:09:38.000
@@ -1695,7 +1690,7 @@ CHAPTER47NAME=Bamboo - Peter, Paul and Mary (Acapella)
 CHAPTER48=02:08:12.000
 CHAPTER48NAME=The Water Is Wide - James Taylor
 CHAPTER49=02:09:25.000
-CHAPTER49NAME=Godspeed (Sweet Dreams) - The Chicks (Accapella)
+CHAPTER49NAME=Godspeed (Sweet Dreams) - The Chicks (Acapella)
 CHAPTER50=02:10:27.000
 CHAPTER50NAME=Bad Day - Daniel Powter (Acapella)
 CHAPTER51=02:12:32.000
@@ -2208,11 +2203,11 @@ CHAPTER16NAME=11. All Too Well - Taylor Swift
 CHAPTER17=01:04:02.666
 CHAPTER17NAME=1 hour
 CHAPTER18=01:06:16.000
-CHAPTER18NAME=Glimpse of Us - (Accapella)
+CHAPTER18NAME=Glimpse of Us - (Acapella)
 CHAPTER19=01:07:51.483
 CHAPTER19NAME=12. Glimpse of Us - Joji
 CHAPTER20=01:14:21.199
-CHAPTER20NAME=Astrogirl (Accapella)
+CHAPTER20NAME=Astrogirl (Acapella)
 CHAPTER21=01:16:32.300
 CHAPTER21NAME=13. Irreplaceable - Beyonce
 CHAPTER22=01:21:58.100
@@ -2248,9 +2243,9 @@ CHAPTER36NAME=27. I'm Your Treasure Box - Houshou Marine
 CHAPTER37=02:39:45.100
 CHAPTER37NAME=28. QUEEN - Kanaria
 CHAPTER38=02:44:58.380
-CHAPTER38NAME=The Forgotten Song (Accapella)
+CHAPTER38NAME=The Forgotten Song (Acapella)
 CHAPTER39=02:48:18.150
-CHAPTER39NAME=Dan Dan Chikaku Naru - 40mP (Accapella)
+CHAPTER39NAME=Dan Dan Chikaku Naru - 40mP (Acapella)
 CHAPTER40=02:50:32.150
 CHAPTER40NAME=29. Everytime We Touch - Cascada
 CHAPTER41=02:56:43.020
@@ -2642,11 +2637,11 @@ CHAPTER07NAME=05. Kokoronashi - Chouchou-P
 CHAPTER08=00:45:08.510
 CHAPTER08NAME=Hitorinbo Envy - koyori
 CHAPTER09=00:51:08.000
-CHAPTER09NAME=FIRE - QUEEN BEE (Accapella)
+CHAPTER09NAME=FIRE - QUEEN BEE (Acapella)
 CHAPTER10=00:53:19.435
 CHAPTER10NAME=Shiny Smily Story - hololive IDOL PROJECT
 CHAPTER11=00:55:18.626
-CHAPTER11NAME=Idol - Yoasobi (Accapella)
+CHAPTER11NAME=Idol - Yoasobi (Acapella)
 
 ```
 ***
@@ -2708,9 +2703,9 @@ CHAPTER10NAME=07. The Best Day Ever - SpongeBob SquarePants
 CHAPTER11=01:00:41.742
 CHAPTER11NAME=08. Popular - Wicked
 CHAPTER12=01:06:37.000
-CHAPTER12NAME=Idol - Yoasobi (Accapella)
+CHAPTER12NAME=Idol - Yoasobi (Acapella)
 CHAPTER13=01:11:21.000
-CHAPTER13NAME=Ghost Rule - DECO*27 (Accapella)
+CHAPTER13NAME=Ghost Rule - DECO*27 (Acapella)
 CHAPTER14=01:16:46.000
 CHAPTER14NAME=Idol Meeting - Wonder Wall
 CHAPTER15=01:19:14.899
@@ -2754,9 +2749,9 @@ CHAPTER33NAME=Asu no Yozora Shoukaihan - Orangestar (Acapella)
 CHAPTER34=02:46:57.000
 CHAPTER34NAME=Astrogirl - Tsukumo Sana (Acapella)
 CHAPTER35=02:48:42.000
-CHAPTER35NAME=The Forgotten Song (Accapella)
+CHAPTER35NAME=The Forgotten Song (Acapella)
 CHAPTER36=02:49:36.000
-CHAPTER36NAME=Dilemma - DECO*27 (Accapella)
+CHAPTER36NAME=Dilemma - DECO*27 (Acapella)
 
 ```
 ***
@@ -2847,7 +2842,7 @@ CHAPTER39NAME=24. Mawaru Sora Usagi - Orangestar (Acapella)
 CHAPTER40=02:44:23.459
 CHAPTER40NAME=Paradox - Survive Said The Prophet (Acapella)
 CHAPTER41=02:45:47.000
-CHAPTER41NAME=Dark Crow - Man with a Mission (Accapella)
+CHAPTER41NAME=Dark Crow - Man with a Mission (Acapella)
 CHAPTER42=02:49:17.000
 CHAPTER42NAME=The Rumbling - SiM (Acapella)
 CHAPTER43=02:50:28.000
@@ -2855,19 +2850,19 @@ CHAPTER43NAME=Akuma no Ko - Ai Higuchi (Acapella)
 CHAPTER44=02:52:33.000
 CHAPTER44NAME=Mukanjyo - Survive Said the Prophet (Acapella)
 CHAPTER45=02:56:20.000
-CHAPTER45NAME=Found & Lost - Survive Said the Prophet (Accapella)
+CHAPTER45NAME=Found & Lost - Survive Said the Prophet (Acapella)
 CHAPTER46=02:57:49.245
-CHAPTER46NAME=T R A N S l a t e d - Survive Said The Prophet (Accapella)
+CHAPTER46NAME=T R A N S l a t e d - Survive Said The Prophet (Acapella)
 CHAPTER47=02:58:42.000
-CHAPTER47NAME=MAYDAY - Coldrain (Accapella)
+CHAPTER47NAME=MAYDAY - Coldrain (Acapella)
 CHAPTER48=03:00:37.000
-CHAPTER48NAME=SEE YOU - Coldrain (Accapella)
+CHAPTER48NAME=SEE YOU - Coldrain (Acapella)
 CHAPTER49=03:02:56.658
-CHAPTER49NAME=red - Survive Said the Prophet (Accapella)
+CHAPTER49NAME=red - Survive Said the Prophet (Acapella)
 CHAPTER50=03:05:21.000
-CHAPTER50NAME=Let Me Hear -  Fear, and Loathing in Las Vegas (Accapella)
+CHAPTER50NAME=Let Me Hear -  Fear, and Loathing in Las Vegas (Acapella)
 CHAPTER51=03:07:21.000
-CHAPTER51NAME=Just Awake - Fear, and Loathing in Las Vegas (Accapella)
+CHAPTER51NAME=Just Awake - Fear, and Loathing in Las Vegas (Acapella)
 
 ```
 
@@ -3003,7 +2998,7 @@ CHAPTER11NAME=10. Asu no Yozora Shoukaihan - Orangestar
 CHAPTER12=01:15:23.000
 CHAPTER12NAME=11. Amanojaku - 164
 CHAPTER13=01:21:17.000
-CHAPTER13NAME=12. Kamippoi na - Pinocchio-P
+CHAPTER13NAME=12. God-ish - Pinocchio-P
 CHAPTER14=01:28:37.000
 CHAPTER14NAME=13. Sorairo Days - Shoko Nakagawa
 CHAPTER15=01:34:05.000
@@ -3016,7 +3011,7 @@ CHAPTER16NAME=15. God knows... - Aya Hirano
 ***
 ######『2023-08-31』 - 【歌枠 UNARCHIVED ENDURANCE】2 YEARS !! Singing Every Song I've Sung in KARAOKE ! ~ #MoomIn2023 [m6bmfnWMcKY]
 [Go back to the top](https://rentry.org/irdxq/)
-Messages [FUWAMOCO & IRyS](https://files.catbox.moe/heif4l.png) said in chat
+Messages [FuwaMoco & IRyS](https://files.catbox.moe/heif4l.png) said in chat
 
 ```
 CHAPTER00=00:00:00.000
@@ -3054,7 +3049,7 @@ CHAPTER15NAME=11. You Belong With Me - Taylor Swift
 CHAPTER16=01:05:47.000
 CHAPTER16NAME=12. Fireflies - Owl City
 CHAPTER17=01:10:02.199
-CHAPTER17NAME=Lucky - Jason Mraz (Accapella)
+CHAPTER17NAME=Lucky - Jason Mraz (Acapella)
 CHAPTER18=01:10:46.146
 CHAPTER18NAME=13. Dreams - Fleetwood Mac
 CHAPTER19=01:15:22.252
@@ -3236,7 +3231,7 @@ CHAPTER106NAME=85. Over The Rainbow - Judy Garland
 CHAPTER107=06:57:11.000
 CHAPTER107NAME=86. Do-Re-Mi - The Sound of Music
 CHAPTER108=06:59:42.750
-CHAPTER108NAME=FUWAMOCO in chat
+CHAPTER108NAME=FuwaMoco in chat
 CHAPTER109=07:00:51.000
 CHAPTER109NAME=Who Let the Dogs Out - Baha Men
 CHAPTER110=07:01:36.000
@@ -3262,13 +3257,13 @@ CHAPTER119NAME=92. A Thousand Years - Christina Perri
 CHAPTER120=07:32:54.000
 CHAPTER120NAME=93. She Used To Be Mine - Sara Bareilles
 CHAPTER121=07:38:28.000
-CHAPTER121NAME=Prologue (Little Shop of Horrors) (Accapella)
+CHAPTER121NAME=Prologue (Little Shop of Horrors) (Acapella)
 CHAPTER122=07:38:40.000
-CHAPTER122NAME=Suddenly, Seymour - Little Shop of Horrors (Accapella)
+CHAPTER122NAME=Suddenly, Seymour - Little Shop of Horrors (Acapella)
 CHAPTER123=07:39:39.000
 CHAPTER123NAME=94. You're The One That I Want - Grease
 CHAPTER124=07:43:16.000
-CHAPTER124NAME=Hopelessly Devoted To You - Olivia Newton-John (Accapella)
+CHAPTER124NAME=Hopelessly Devoted To You - Olivia Newton-John (Acapella)
 CHAPTER125=07:43:49.000
 CHAPTER125NAME=95. Welcome to My Life - Simple Plan
 CHAPTER126=07:48:03.000
@@ -3287,6 +3282,83 @@ CHAPTER132=08:16:22.284
 CHAPTER132NAME=101. Beat It - Michael Jackson
 CHAPTER133=08:20:43.000
 CHAPTER133NAME=Done
+
+```
+***
+
+######『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:02:13.000
+CHAPTER01NAME=Start
+CHAPTER02=00:13:31.676
+CHAPTER02NAME=01. Connect - ClariS w/ Bijou
+CHAPTER03=00:23:19.676
+CHAPTER03NAME=02. Tabun - Yoasobi w/ Kaela
+CHAPTER04=00:34:06.074
+CHAPTER04NAME=03. Karate - BABYMETAL w/ Fauna
+CHAPTER05=00:42:32.074
+CHAPTER05NAME=04. W / X / Y - Tani Yuuki w/ Risu
+CHAPTER06=00:50:35.074
+CHAPTER06NAME=05. God-ish - Pinocchio-P w/ Kiara
+CHAPTER07=00:58:11.074
+CHAPTER07NAME=06. Kaibutsu - Yoasobi w/ Kobo
+CHAPTER08=01:04:39.074
+CHAPTER08NAME=07. Hajimete No Chuu - Anshin Papa w/ FuwaMoco
+CHAPTER09=01:13:40.074
+CHAPTER09NAME=08. Mayonaka no Door ~Stay with Me - Miki Matsubara w/ Nerissa
+CHAPTER10=01:20:16.074
+CHAPTER10NAME=09. Kyouran Hey Kids!! - The Oral Cigarettes w/ Mori
+
+```
+
+***
+######『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]
+[Go back to the top](https://rentry.org/irdxq/)
+
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:26.000
+CHAPTER01NAME=Start
+CHAPTER02=00:07:32.000
+CHAPTER02NAME=Mumei (Acapella)
+CHAPTER03=00:11:44.000
+CHAPTER03NAME=01. GO!!! - Flow
+CHAPTER04=00:17:10.000
+CHAPTER04NAME=02. Sign - Flow
+CHAPTER05=00:22:39.000
+CHAPTER05NAME=03. Silhouette - Kana-Boon
+CHAPTER06=00:28:24.000
+CHAPTER06NAME=04. The Beginning - ONE OK ROCK
+CHAPTER07=00:34:17.000
+CHAPTER07NAME=05. KICK BACK - Kenshi Yonezu
+CHAPTER08=00:38:37.000
+CHAPTER08NAME=06. Idol - Yoasobi
+CHAPTER09=00:43:36.000
+CHAPTER09NAME=07. Crossing Field - LiSA
+CHAPTER10=00:51:32.000
+CHAPTER10NAME=Forget You - Ceelo Green (Acapella)
+CHAPTER11=00:53:36.000
+CHAPTER11NAME=Everything Stays - Adventure Time (Acapella)
+CHAPTER12=00:54:26.000
+CHAPTER12NAME=I'm Just Your Problem - Adventure Time (Acapella)
+CHAPTER13=00:58:55.000
+CHAPTER13NAME=Remember You - Adventure Time (Acapella)
+CHAPTER14=00:59:35.000
+CHAPTER14NAME=08. Fries - Adventure Time (Acapella)
+CHAPTER15=01:01:21.000
+CHAPTER15NAME=09. Mukanjyo - Survive Said the Prophet
+CHAPTER16=01:06:33.000
+CHAPTER16NAME=10. found & lost - Survive Said the Prophet
+CHAPTER17=01:10:47.000
+CHAPTER17NAME=11. again - YUI
+CHAPTER18=01:16:27.000
+CHAPTER18NAME=12. Mukanjyo - Survive Said the Prophet
+CHAPTER19=01:19:55.000
+CHAPTER19NAME=NE:ONE - Survive Said the Prophet (Acapella)
 
 ```
 

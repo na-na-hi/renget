@@ -438,10 +438,10 @@
 091. The Circle Game - Joni Mitchell  | [Catbox](https://files.catbox.moe/9f715m.mp4) |   [Cloudup](https://cldup.com/cZsQ6AdQhg.mp4) | 
 092. A Thousand Years - Christina Perri   | [Catbox](https://files.catbox.moe/53k69f.mp4) |  [Cloudup](https://cldup.com/QqdAPNHcqo.mp4) | 
 093. She Used To Be Mine - Sara Bareilles    | [Catbox](https://files.catbox.moe/gyknwz.mp4) | [Cloudup](https://cldup.com/YV_FTF-KZR.mp4) | 
-- Prologue (Little Shop of Horrors) (Accapella)
-- Suddenly, Seymour - Little Shop of Horrors (Accapella)
+- Prologue (Little Shop of Horrors) (Acapella)
+- Suddenly, Seymour - Little Shop of Horrors (Acapella)
 094. You're The One That I Want - Grease   | [Catbox](https://files.catbox.moe/fc5o5j.mp4) |  [Cloudup](https://cldup.com/niqmK4XDzX.mp4) | 
-- Hopelessly Devoted To You - Olivia Newton-John (Accapella)
+- Hopelessly Devoted To You - Olivia Newton-John (Acapella)
 095. Welcome to My Life - Simple Plan   | [Catbox](https://files.catbox.moe/fc5o5j.mp4) |  [Cloudup](https://cldup.com/9NDv9pErQV.mp4) | 
 - Confessions, Pt. II - Usher
 096. Yeah! - Usher  | [Catbox](https://files.catbox.moe/dw1zat.mp4) |   [Cloudup](https://cldup.com/TBqD54_al4.mp4) | 

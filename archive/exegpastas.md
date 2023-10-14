@@ -36,7 +36,7 @@ Title|Link
 ------|------
 *EXE Tales 1: Lost and Found* (Plushhog)|[(link)](https://rentry.org/or9th)
 *EXE Tales 2: Chaos of my own Creation* (PNG)|[(link)](https://rentry.org/sifrb)
-*WannaRide*|[(part 1)](https://rentry.org/WannaRide), [(part 2)](https://rentry.org/WannaRideToo), [(part 0)](https://rentry.org/WannaRideAlpha)
+*WannaRide*|[(part 1)](https://rentry.org/WannaRide), [(part 2)](https://rentry.org/WannaRideToo), [(part 0)](https://rentry.org/WannaRideAlpha), [(part 3)](https://rentry.org/wannaridecyber)
 *Superbyte*|[(link)](https://rentry.org/3szou)
 *Sabotage*|[(link)](https://rentry.org/kysva)
 *Clown.exe* (abandoned, see *Fun Times*)|[(lore)](https://rentry.org/cgnq9), [(part 1)](https://rentry.org/clown1), [(part 2)](https://rentry.org/clown2)

@@ -214,7 +214,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Nina Hanamiya 花宮 初奈** |Ui-chan|October 24 ,XXXX|[Agency WEB](https://www.aoni.co.jp/search/hanamiya-niina.html) / [TW](https://twitter.com/hanamiya_nina)|[📷]()
 **Kotoko Sasaki 佐々木 琴子** |Kocchan|Aug. 28, 1998|[Agency WEB](http://stylecube.jp/talents/kotoko/index.html) / [TW](https://twitter.com/ssk_ktk828) / [IG](https://www.instagram.com/sasaki_kotoko828/) / [==Former 乃木坂46 Page==](https://archive.is/EopEN )|[📷]()
 **Kanna Kan 菅 叶和**|Kocchan|November 19, XXXX|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷]()
-**Kona Tsukine 月音 こな**|Konachi|Aug 20, 2003|[Agency WEB](https://apollobay.jp/talent/月音こな/) / [TW](https://twitter.com/KonaTsukine) / [TK](tiktok.com/@tukinekona)|[📷]()
+**Kona Tsukine 月音 こな**|Konachi|Aug 20, 2003|[Agency WEB](https://apollobay.jp/talent/月音こな/) / [TW](https://twitter.com/KonaTsukine) / [TK](https://tiktok.com/@tuknekona)|[📷]()
 
 ###🙌🎆 Other/Supporting Seiyuu 🎆 / 🙌###
 

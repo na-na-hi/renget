@@ -55,10 +55,13 @@ Upon seeing some activity by a strange tent tucked away in a corner, your group 
 The group sneak through the fogs of a secluded grove to find a few rare 'meat' berries for a traveling chef.
 
 !!! (9/30/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #02 Rub-a-dub Ravine
+There's a critical lack of experience with adventuring, so in order to remedy that, the group heads out into a nearby ravine to get their toes wet in the life of an explorer. 
 
 !!! note (10/3/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV03 Stay HAPPI
+A mysterious benefactor from your dreams divulges information regarding one of your goals toward legitimization: forming recognized teams! They tell you to head out to search for a Sneasel. True to their word, one winds up in Baram Town, with the capability to get your problem sorted out. Convenient, isn't it? Now you can't help but wonder who this might be... at least you've got badges!
 
 !!! (10/7/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #03 The Color of Strife
+Now an official
 
 !!! info (10/8/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ03 Blast Seed Bomber
 Back to bothering Kleavor once again, you discover a "Detective Croagunk" loitering in the general area. He's in town to seek aid in bringing a criminal explosives enthusiast Frogadier to justice! After being accompanied to an underground cavern lake, you quickly find that its passages are trapped with bombs, ready to go with hair triggers. In the end of a dicey, spiky, and bomb-y encounter, you successfully apprehend the criminal, handing them off to Detective Croagunk. You've left an impression... perhaps you'll see more bounties in the future.

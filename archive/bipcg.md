@@ -1,4 +1,34 @@
 ▶NEW CLIPS
+>Simple lesson: retrieving an FPV drone always ends like this. The paratroopers love you too much to let you go!
+https://files.catbox.moe/j26b3g.mp4
+>Tanks covering assault on Avdeevkva
+https://files.catbox.moe/u6a4k5.mp4
+>Aussie instructor leaving the Ukraine to go fight in Israel
+https://files.catbox.moe/2de0h4.mp4
+>Comrade Stalin dash ornament with soldiers being transported
+https://files.catbox.moe/4ve4r4.mp4
+>More droning
+https://files.catbox.moe/wvaevf.mp4
+https://files.catbox.moe/67ml67.mp4
+>T-90 shrugs off ATGM
+https://files.catbox.moe/dudjk7.mp4
+>Another French CAESAR SPG destroyed by a Lancet. Third one on video this week.
+https://files.catbox.moe/glvywm.mp4
+>vid of the 2nd CAESAR blown up this week:
+https://files.catbox.moe/91w5ag.mp4
+>Another US M777 destroyed yesterday (12.10.2023)
+https://files.catbox.moe/mdzzkd.mp4
+>Religious Russian soldier forgives dead Ukies for waging war against Russia and asks for their forgiveness in return
+https://files.catbox.moe/bv0u26.mp4 / Full video: https://rutube.ru/video/24339c47ffb9c3889419120ea50dc476/
+>RU Scouts of the 36th army sniper dropped ammunition from a copter on a group of Ukie infantry in the area of Urozhnoye.
+https://files.catbox.moe/p7fwmt.mp4
+>Drone operated by 40th separate brigade of the MC of the KTOF of the Russian Navy drops payload on trenches in the South Donetsk direction.
+https://files.catbox.moe/bkq9oy.mp4
+>2 thermal snipes
+https://files.catbox.moe/uivq4y.mp4
+https://files.catbox.moe/hrq6ec.mp4
+>drone munition drop set to music
+https://files.catbox.moe/8e5gzd.mp4
 >Direct hit on Ukie Forces assault group. Zaporozhye direction.
 https://files.catbox.moe/1dha66.MP4
 >RU Sniper work in the Maryinsky direction, no survivors

@@ -140,7 +140,9 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 ###DALL-E-3 AUTOPROOMPT
 ```python
 """
-10/13/2023- more consistent downloading and some loop fixes
+https://www.youtube.com/watch?v=ckZ2k3-qEIU
+10/14/2023- added auto resetting boosts- MAKE SURE EMAIL IS VALIDATED OR PROGRAM WILL CRASH!!!
+10/13/2023- more consistent downloading and some loop fixes.
 
 some notes:
 install selenium and download the latest chromedriver, executable_path might be deprecated idk.
@@ -170,7 +172,7 @@ i = 0
 idx = 0
 filtered = 0
 ratelimited = 0
-timeout = 20
+timeout = 30
 
 def checkElementExists(name, type):
     try:
@@ -194,7 +196,7 @@ def downloadImage(idx, single):
             elements[idx].click()
 
         driver.switch_to.frame('OverlayIFrame')
-        time.sleep(1)
+        time.sleep(3)
         download_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div[2]/ul/li/div/div/div[1]/div[2]/ul/li[3]/div/span/span[2]')
         time.sleep(1)
         download_image.click()
@@ -203,9 +205,50 @@ def downloadImage(idx, single):
         close_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/header/div/div[2]/div/span')
         time.sleep(1)
         close_image.click() #go back
-        time.sleep(1)
+        time.sleep(2)
 
         return 1
+
+def resetTokens():
+    sandwich = driver.find_element(By.ID, 'id_sc')
+    sandwich.click()
+    time.sleep(2)
+    profile = driver.find_element(By.CLASS_NAME, 'hbic_mybing')
+    profile.click()
+    time.sleep(2)
+    history = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/a')
+    history.click()
+    time.sleep(2)
+    clearbutton = driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button')
+    clearbutton.click()
+    time.sleep(2)
+    confirm = driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]')
+    confirm.click()
+    time.sleep(2)
+    clearbutton = driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button')
+    clearbutton.click()
+    time.sleep(2)
+    confirm = driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]')
+    confirm.click()
+    time.sleep(2)
+    driver.get("https://www.bing.com/images/create/")
+    time.sleep(2)
+    while True:
+        try:
+            createbtn = driver.find_element(By.ID, 'create_btn_c')
+            time.sleep(1)
+            createbtn.click()
+            driver.get("https://www.bing.com/images/create/")
+            driver.refresh()
+            time.sleep(1)
+            driver.find_element(By.ID, 'token_bal') 
+            time.sleep(1)
+            break
+        except:
+            print('FUCK YOU BING')
+
+    inputform = driver.find_element(By.ID, 'sb_form_q')
+    inputform.send_keys(proompt)
 
 """
 good morning sirs
@@ -221,6 +264,10 @@ while True:
     idx = 0
 
     try:
+        tokenbal = driver.find_element(By.ID, 'token_bal')
+        if tokenbal.text == '2':
+            resetTokens()
+
         wait = WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.ID, 'create_btn_c'))) # clike button
         wait.click()
         driver.implicitly_wait(14) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
@@ -247,12 +294,17 @@ while True:
                     driver.switch_to.default_content()
                     idx += 1
             else:
-                print("timed out, redirecting..") 
-                driver.get("https://www.bing.com/images/create/")
-                time.sleep(2)
-                inputform = driver.find_element(By.ID, 'sb_form_q')
-                inputform.send_keys(proompt)
-                continue
+                if checkElementExists('[alt="You can\'t submit any more prompts"]', 'blocked'):
+                   resetTokens()
+                   continue
+
+                else:
+                    print("timed out, redirecting..") 
+                    driver.get("https://www.bing.com/images/create/")
+                    time.sleep(2)
+                    inputform = driver.find_element(By.ID, 'sb_form_q')
+                    inputform.send_keys(proompt)
+                    continue
 
         i += idx
         print("generated ", i, " images")
@@ -263,6 +315,12 @@ while True:
         time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.send_keys(proompt)
+        continue
+
+    except:
+        print("Unknown error.")
+        driver.get("https://www.bing.com/images/create/")
+        time.sleep(2)
         continue
 
 driver.close()

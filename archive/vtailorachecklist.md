@@ -353,9 +353,9 @@ Nova Aokami | X | X | -
 Lilrya Prisvielle | - | - | -
 Cheri Lupina | X | - | X
 Rana Ianna | X | - | X
-Erika Byakko | - | - | -
-Akiko Sushi | - | - | -
-Salmon Lordette | - | - | -
+Erika Byakko | X | - | X
+Akiko Sushi | X | - | X
+Salmon Lordette | X | - | X
 
 ## -> Re:AcT <-
 !!! info Available Loras without the need of updates and have been tested.

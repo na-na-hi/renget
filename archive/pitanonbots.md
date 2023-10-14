@@ -1,5 +1,6 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
+-> **Send logs to: pitlogs@proton.me** <-
 [TOC3]
 ###OC Characters
 | Bot's name | Updated | CHUB Link | Card |
