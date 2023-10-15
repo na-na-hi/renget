@@ -1104,3 +1104,30 @@ Cons:
 - Defense buff is only to physical defense
 - Buffs don't reach backline units like Creditta or Arisa
 - No increase to P.Crit chance or P.Crit damage
+
+
+### ->Salazaria Ruka<-
+**TL;DR: A nice tank option for soaking up physical damage. Not a must-roll, especially as a perma. Will pop into comps where your 1st pos unit needs to survive massive damage.**
+
+Saruka is a tank that is more focused on absorbing damage and supplying herself with survivability. This is achieved through stuff like her UB healing her, the Skill 2 taunt/P.Def buff/Phys Barrier/200 TP to self only, alongside her UB healing herself for a large chunk. If you want a comparable, X.Jun fills a similar role - But instead of having barriers and a taunt, she offers p.atk, p.crit rate & TP to all units within 150 range. Prediction would mostly be that if you need your 1st unit to survive some quick physical damage that only targets the 1st position unit with a barrier, Saruka will shine. There is a world where she can replicate X.Saren's usage on release, where they buff Goblin's attacks to pop any non-tank units. If that does happen, she will be quite valuable. Other bosses could be ones like Orc Chief, Needle Creeper, Mad Bear and Wolf. 
+
+For Arena, her skillset seems okay. However, she'd probably just get popped by stuff like Pyaru/TS.Kyaru, etc... Since her buffs and heals are only to self, she might be similar to a physical version of 6* Kuuka. However, this is a stretch.
+ 
+
+-> ![Salazaria Ruka](https://redive.estertion.win/card/full/127631.webp) <-
+
+Pros:
+- UB has TP drain, TP Boost reduction and heals self
+- Deals okay damage from UB & S1
+- Nice p.def debuff on S1
+- Good HP/Def stats
+- Shields self and adds taunt with S2
+- Gives 200 TP to self on S2
+- Good position (Stands behind H.Kaori, in front of regular Ruka)
+	
+Cons:
+- Cannot protect self vs magic damage
+- Quite a few boss skills ignore taunts (Ex. Cyclops boulder toss)
+- Does not offer a lot of damage
+- Does not offer any buffs to teammates (X.Jun offers multiple buffs to teammates, including TP)
+- All buffs are only to self

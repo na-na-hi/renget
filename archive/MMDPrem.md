@@ -163,6 +163,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/511835) : Kantai Collection - Tamanami
 [[Fantia]](https://fantia.jp/products/498308) : Kantai Collection - Shigure Kai San -Summer-
 [[Fantia]](https://fantia.jp/products/483310) : Kantai Collection - Shigure Kai San
 [[Fantia]](https://fantia.jp/products/460049) : Vocaloid - Kagamine Len & Rin
@@ -245,6 +246,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Gumroad]](https://ucup.gumroad.com/l/efnuf) : Blue Archive - Karin (T-Pose Blend File)
 [[Booth]](https://ucup.booth.pm/items/5058895) [[Gumroad]](https://ucup.gumroad.com/l/saxxoe) : Last Origin - Constantia S2
 [[Booth]](https://ucup.booth.pm/items/4969914) [[Gumroad]](https://ucup.gumroad.com/l/qwlgd) : Blue Archive - Ryuuge Kisaki (Blend file)
 [[Gumroad]](https://ucup.gumroad.com/l/wtger) : Blue Archive - Ryuuge Kisaki (T-Pose Blend file)

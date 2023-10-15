@@ -72,6 +72,15 @@ Image | Name | Description | Links
 
 ***
 
+##Fanart
+>Cute fanart that an anon drew of Alec. Thank you anon! <3
+-> ![Alec 1](https://files.catbox.moe/2ynwfz.jpg) <-
+***
+-> ![Alec 2](https://files.catbox.moe/2a7f5e.jpg) <-
+***
+>Cute art an anon drew of me and Claude. Thank you anon! I love his wary expression! <3
+-> ![Claude](https://files.catbox.moe/dyutsx.png) <-
+***
 
 
  ପ(๑•ᴗ•๑)ଓ ♡

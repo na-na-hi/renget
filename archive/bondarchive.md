@@ -1,3 +1,5 @@
+## Gift Crafting and other Affection Levelling Sources
+
 So.
 You finally got bored enough to delve into affection levelling.
 
@@ -7,7 +9,7 @@ This guide will aim to give you general pointers on **how to approach crafting w
     If you're a casual and just want to do whatever, spare yourself the trouble of reading any further and craft up to 2 nodes.
     Use whatever you feel like using, but try to avoid using Keystones in the 2nd node, so you could potentially get 2 gifts for 1 Keystone.
 
-[TOC]
+[TOC3]
 
 ### Gifts
 https://bluearchive.wiki/wiki/Affection
@@ -45,7 +47,7 @@ Use these scarce resources wisely.
 
 #### Crafting Fodder
 You have noticed that you need to sacrifice certain materials to be able to progress to the next node.
-For simplicity, let us say you need **40 points** to be able to unlock each node, which each node having restrictions on what you can use to sacrifice.
+For simplicity, let us say you need **40 points** to be able to unlock each node, with each node having restrictions on what you can use to sacrifice.
 The available materials that can be used and the points they give are as follows:
 !!! info
     T1 = gray, T2 = blue, T3 = gold, T4 = purple

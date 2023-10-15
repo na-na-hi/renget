@@ -1,5 +1,8 @@
 # EasyFluff Artist Comparison
 
+## Script for adding artist name captions to images
+https://rentry.org/o5nsi
+
 ## Base SD 1.5
 EasyFluff V11 - https://mega.nz/folder/kigBCaYZ#2x3Wy44-3h05fVodrYlBcQ/folder/R6xi0YJQ
 

@@ -1,21 +1,19 @@
-🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤   
 #-> lurkzn's Claude settings (v1.41)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 
-->*I am always looking to improve my prompts. If you notice glaring issues or things that can be improved, 
+->*I am always looking to improve my prompts, so if you notice glaring issues or things that can be improved, 
 feel free to drop an email or a ping on Discord. Thanks <3*<-
 ***
 [TOC2]
-***
 ```
 -----------------------------------------------------------------------------------------------------------------------
 Changelog:
-12 Oct - v1.3 is public. Wrote instructions that refrains Assistant from rehashing established aspects already written 
+12 Oct - v1.3 is public. Wrote instructions that prevents Assistant from rehashing established aspects already written 
 in previous Assistant: responses within <chat>.
 
 13 Oct - v1.4. Adjusted "Manipulate 1" to identify the genre of the current scene, encouraging it to modify <objectives> to 
-better suit the identified genre. This theoretically should make the narration more in-tune with the scene (NSFW or SFW)
+better suit the identified genre. This theoretically should make the narration more in-tune with the scene (NSFW or SFW).
 Removed "Quick Coom" prompt item. Temp has been increased, however feel free to tune it down if it gets schitzo.
 
 15 Oct - v1.41. Very minor changes, aimed at minimizing how much Claude tries to advance the scene.
@@ -38,7 +36,6 @@ Enable | Highlight |
 	-> Increase temp if responses become predictable. Higher temps will be more creative, but be mindful of schitzo responses.<- 
 ***
 ###->Logs (Updated 15 Oct)<-
-->*Logs labelled 'Quickie' use the QuickCoom prompt item* (CTRL + F is your friend) <-
 Transcripts | Genre | Card
 :----: | :----: | :----:
 ![Kino](https://i.imgur.com/3rFqx5u.jpg) | Fantasy, Romance, Slowburn, Monsters | [Alice - By nikchemniy (Really Kino card!)](https://chub.ai/characters/nikchemniy/alice-f1332e80)

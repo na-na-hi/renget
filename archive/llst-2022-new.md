@@ -130,6 +130,15 @@ Previous: >>694201488 (# of previous thread)
 	- Info might be 100% not accurate, if that's the case feel free to bother me on the thread
 	- As of now the new format is still not final and might be subject to changes (eg. date format, images are missing, etc)
  
+**Legend / Key**
+Key | Term
+--- | ---
+TW | Twitter
+IG  | Instagram
+YT | YouTube
+FB | Facebook
+TK | TikTok
+
 ###🌸🌸 µ's Seiyuu 🌸🌸
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------

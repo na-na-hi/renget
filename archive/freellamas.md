@@ -5,10 +5,10 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Mythomax-8bit-exl2 scaled to 8k**
+**Model: Emerhyst-20B-5bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```Offline```
+Blocking API URL: ```https://pen-importantly-pension-bizrate.trycloudflare.com/api```
 
 ***
 **System prompt:**

@@ -3,7 +3,8 @@
 Link | Description
 :----: | ----:
 /bag/ Newfag Guide | [/bag/ Newfag Guide](https://rentry.org/how2playba) 
-JP to English Story Translations | https://www.youtube.com/c/yanagikaze/videos | 
+JP to English Story Translations (Outdated) | https://www.youtube.com/c/yanagikaze/videos
+JP to English Momotalk Translations | https://www.youtube.com/@Jimoori/videos
 English Wiki | https://bluearchive.wiki
 BA Database | https://schale.gg/
 New Player FAQ | https://bluearchive.wiki/wiki/FAQ

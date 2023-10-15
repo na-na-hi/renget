@@ -14,17 +14,18 @@ GameWith and Shadowverse Master each maintain tier lists for both rotation and u
 
 During the 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate as players experiment with new decks and counters to those decks. The best indication for which decks are good during this time are players who reach Grand Master rank early in the expansion, though even this can be misleading.  Where possible, it can be better to keep using a deck from the previous expansion in the early stages of a new expansion until the meta has settled enough to know which decks are worth crafting.
 
-## Take Two Card Rankings
-
-Shadowverse Master maintains a [ranked list of cards by class in Take Two][svm-twopick]
-
 ## Where to Find Decks
 
 - Shadowverse Master's Tier List includes decks from each archetype taken from major tournament winners & contestants, as well as decks that achieved large win streaks.
 - GameWith's Tier List includes a single sample deck for each archetype.
 - [Shadowverse Wins][sv-wins] aggregates win streak posts from Twitter (in Japanese)
 
-## Useful Links
+## Take Two Rankings
+
+- [Class rankings](https://shadowversemaster.com/take-two)
+- [Individual card rankings](https://shadowversemaster.com/take-two/rankings/1)
+
+## Useful Resources
 
 - [Shadowverse Master][svm]: One of the largest English-language resource sites.
 - [Shadowverse Wins][sv-wins]: Aggregates winstreaks from Twitter.
@@ -67,7 +68,6 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
 [svm]: https://shadowverse-master.com
 [svm-rotation]: https://shadowverse-master.com/meta
 [svm-unlimited]: https://shadowverse-master.com/meta/unlimited
-[svm-twopick]: https://shadowversemaster.com/take-two/rankings/1
 [gw-rotation]: https://shadowverse.gamewith.jp/article/show/84174
 [gw-unlimited]: https://shadowverse.gamewith.jp/article/show/22277
 [sv-wins]: https://shadowverse-wins.com
