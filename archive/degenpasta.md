@@ -5,6 +5,7 @@ Last time on /degen/:
 >>> Local install <<<
 Automatic1111: https://github.com/automatic1111/stable-diffusion-webui
 ComfyUI (Node-based): https://rentry.org/comfyui
+Easy Diffusion (Installer): https://easydiffusion.github.io
 Mac: http://drawthings.ai (settings: all compute units, enable metal flash)
 CPU: http://rentry.org/cputard
 

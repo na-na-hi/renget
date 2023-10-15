@@ -559,9 +559,16 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 	Possibly a different LoRA, maybe the same:
 	https://files.catbox.moe/l8ki1o.safetensors
 
-# kame_3t (Artist), Nanachi (Made In Abyss) + Various Furry Artists (among others)
+# kame_3t (Artist), Nanachi (Made In Abyss), Zankuro (Artist) + Various Furry Artists (among others)
+
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/PoZQgLQC
 	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/30wnQL4K
+
+!!NEW!! Added Zankuro style LoRA
+>zankuro style lora trained on fluffyrock terminal-snr-vpred-e132
+>it should work on easyfluff versions 9 through 11. it is very jank with humans but counter-intuitively works very well with furry even though the dataset is like 90% human
+
+	https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/35Ri0bhC
 
 # Trish the Opossum
 	Activated with "Trish the opossum"

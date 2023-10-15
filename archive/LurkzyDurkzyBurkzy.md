@@ -2,14 +2,14 @@
 #-> lurkzn's Claude settings (v1.4)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
+
+->*I am always looking to improve my prompts. If you notice glaring issues or things that can be improved, 
+feel free to drop an email or a ping on Discord. Thanks <3*<-
 ***
 [TOC2]
 ***
 ```
 -----------------------------------------------------------------------------------------------------------------------
-I am always looking to improve my prompts. If you notice glaring issues or things that can be improved, 
-feel free to drop an email or a PM on Discord. Thanks <3
-
 Changelog:
 12 Oct - v1.3 is public. Wrote instructions that refrains Assistant from rehashing established aspects already written 
 in previous Assistant: responses within <chat>.
@@ -28,18 +28,18 @@ Removed "Quick Coom" prompt item. Temp has been increased, however feel free to 
 	->Enable Randomization Fluctuation (Found under the triple cubes icon), and ensure the following are highlighted. Play around with the fluctuation amount, (0.1-0.2)<-
 Enable | Highlight |
 :----: | :----:
-![Flux](https://i.imgur.com/ApbmZPZ.png) | ![Flux2](https://i.imgur.com/hs8hEIv.png)
+![Flux](https://i.imgur.com/ApbmZPZ.png) | ![Flux2](https://i.imgur.com/OwFFNw4.png)
 
 ***
 ###->Tips<-
 !!! note 
-	->- Increase temp if responses become predictable. Higher temps will be more creative, but be mindful of schitzo responses.<-
+	-> Increase temp if responses become predictable. Higher temps will be more creative, but be mindful of schitzo responses.<- 
 ***
-###->Logs (Updated 14 Oct)<-
+###->Logs (Updated 15 Oct)<-
 ->*Logs labelled 'Quickie' use the QuickCoom prompt item* (CTRL + F is your friend) <-
 Transcripts | Genre | Card
 :----: | :----: | :----:
-![Kino](https://i.imgur.com/eOoHgDe_d.webp?maxwidth=760&fidelity=grand) | Fantasy, Romance, Slowburn, Monsters | [Alice - By nikchemniy (Really Kino card!)](https://chub.ai/characters/nikchemniy/alice-f1332e80)
+![Kino](https://i.imgur.com/3rFqx5u.jpg) | Fantasy, Romance, Slowburn, Monsters | [Alice - By nikchemniy (Really Kino card!)](https://chub.ai/characters/nikchemniy/alice-f1332e80)
 ![Cucking](https://i.imgur.com/i7ctmjy.jpg)   | Cucking | [Naughty Mom - By seisothings](https://www.chub.ai/characters/onlyseisothings/naughty-mom-297a99d7)
 ![Cucking2](https://i.imgur.com/zb672UD.png) | Cucking | [Riley - By Masters_Slut](https://chub.ai/characters/Masters_Slut/riley-c9460e37)
 ![Slow](https://i.imgur.com/2tJrSWV.png)   | Slowburn | [Helen - By Pinelurker](https://www.chub.ai/characters/lurkinginpines/helen-1212575b)

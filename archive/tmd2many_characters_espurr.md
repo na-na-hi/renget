@@ -1,4 +1,4 @@
-->![Schrödinger's Cat](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/SxTfqpOnnVYvyGdCrZZuwOpu)<-
+->![Schrödinger's Cat](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/TFsyRZoitbRUZMqDvjbhEwkR)<-
 
 ## ->Espurr<-
 
@@ -10,7 +10,7 @@
 *->Meowstic->*
 
 *Intelligence: ?/5*
-*Creativity: ?/5*
+*Creativity: 3/5*
 *Initiative: 1/5*
 *Emotional Strength: ?/5*
 *Social Skills: 0/5*
@@ -26,7 +26,7 @@
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
 **Level:** 6 | **Experience to Next Level:** 25/60 | **Alignment:** True Neutral
-**Worn Item:** *N/A* | **Clothing:** *None* | **Age:** Unknown
+**Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
 **Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
@@ -46,7 +46,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 #### ->Stats<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20 HP) | 20 HP
+Health Points | 0 | Level 6 (20 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
@@ -107,14 +107,14 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ***
 
 #### ->Inventory (4 slots)<-
-*Items Espurr is carrying with them.*
+*Items Espurr is carrying with them in their Leaf Bag.*
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Oran Leaf* | Heals the user for 3 HP. Can stack to 3.
 1. Blast Seed | Explodes on contact for 10 true damage.
-2. Blast Seed Residue | The charred remains of a Blast Seed, exploded together with a dozen others. It won't be useful for much. 
-3. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
+2. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
+3. Empty | None
 4. Empty | None
 
 ***
@@ -131,7 +131,7 @@ Item Name | Description
 ###### RP/Quest Storage (∞ slots)
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | None | None
+Accessory | Leaf Bag | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
 Key Item | None | None
 
 ***

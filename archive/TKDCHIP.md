@@ -215,3 +215,9 @@ https://files.catbox.moe/3kvszo.mp4
 https://files.catbox.moe/gdkrav.mp4
 >70 Palestinians Killed Leaving Gaza (Disputed, was this a bombing or a shooting? Many intact corpses).
 https://files.catbox.moe/u81986.mp4
+>Bombs In Bat Yam
+https://files.catbox.moe/r3xw0w.MP4
+https://files.catbox.moe/fjojuu.MP4
+https://files.catbox.moe/8on34b.MP4
+>Hezbollah Rocket Attack on Mount Dov
+https://files.catbox.moe/qy6tr6.mp4
