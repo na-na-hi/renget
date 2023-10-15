@@ -10,6 +10,7 @@ New Player FAQ | https://bluearchive.wiki/wiki/FAQ
 Japanese Wiki | https://bluearchive.wikiru.jp
 English Database | https://lonqie.github.io/SchaleDB/
 English Planner | https://justin163.com/planner/
+Crafting Guide for Waifufags | https://rentry.org/bondarchive
 Chibi Extraction and Posing Guide | https://rentry.org/qewdu
 Pyroxene Planner | [Google Document](https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226)
 Future Content Timeline and Unit Ratings | [Google Document](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271)

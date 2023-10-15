@@ -7,7 +7,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 70/25
+**Level:** 7 | **Experience to Next Level:** 70/55
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 580₽ | **Glorious Gold:** 0 Bars
 
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 IQ points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

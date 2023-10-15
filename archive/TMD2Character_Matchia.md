@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Herself
-**Level:** 7 | **Experience to Next Level:** 35/70
+**Level:** 7 | **Experience to Next Level:** 65/70
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 140 ₽ | **Glorious Gold:** 0 Bars
 
@@ -49,6 +49,7 @@ Eᴍᴘᴛʏ | Description
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+	15 IQ to be spent.
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0

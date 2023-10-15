@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 7 | **Experience to Next Level:** 35/70
+**Level:** 7 | **Experience to Next Level:** 65/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
 
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-	You have 0 points to spend.
+	You have 15 points to spend.
 	0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

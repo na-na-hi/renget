@@ -6,7 +6,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 50/70
+**Level:** 8 | **Experience to Next Level:** 10/80
 **Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 545₽ | **Glorious Gold:** 0 Bars
 
@@ -18,12 +18,12 @@ Shed Skin | The User has a ⅓ chance of curing their Status Conditions each tur
 ->*65/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 1 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
@@ -44,7 +44,9 @@ Rest | Orner takes a nap.
 Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
-
+!!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
+    You have 15 points to spend.
+    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A

@@ -10,7 +10,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 0/70
+**Level:** 7 | **Experience to Next Level:** 30/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 60₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
 
@@ -49,7 +49,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

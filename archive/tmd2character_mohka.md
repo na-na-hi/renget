@@ -8,7 +8,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** N/A
 **Species:** Kommo-o | **Affiliation:** N/A
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 5 | **Experience to Next Level:** 30/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

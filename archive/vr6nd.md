@@ -181,8 +181,8 @@ Tetsugyō stuck his arm out to redirect them, but they landed directly in his pa
 "I thought you didn't like to chat?"
 
 Ray launched another volley of paper shurikens, but the Yu ninja got the memo.
-He jumped from branch to branch, and he pulled out shurikens of his own, deftly dodging his opponents.
-Ray jumped onto the trunk of the tree he was standing on, clinging to it.
+He jumped from branch to branch, and he pulled out shurikens of his own, deftly dodging his opponent's.
+Ray jumped onto the trunk of the tree he was standing on, clinging to it, using a technique ninja were taught to cling onto walls.
 He pulled out a paper seal and unleashed it with the Snake hand sign, causing a ball of mud to appear in his hand.
 He placed his hand back onto the tree, but swung his arm horizontally in a crescent, while the mud followed along like an ink brush.
 Upon his hand meeting the other side of the tree, the mud solidified, creating a barrier, which stopped the shurikens.
@@ -197,14 +197,14 @@ Ray used a variation of the Tiger seal with one hand to detonate the paper seal 
 Instinctively, Ray raised his arm above his head, and a Snail Fang spike erupted out, bouncing the shuriken away. Of course, it slipped his mind that the spikes were made of magnetic metal.
 "(*HOW DID I FORGET ABOUT THAT?!*)"
 Tetsugyō sent a third volley of shurikens, and his second volley was coming up at Ray, all from above.
-Ray stuck a paper seal to the mud wall that he used for defense, and he smashed the brach below him with a his metal spike via a backhand, plummeting straight to the ground.
+Ray stuck a paper seal to the mud wall that he used for defense, and he smashed the branch below him with his metal spike via a backhand, plummeting straight to the ground.
 Tetsugyō responded by causing the shurikens from the first volley, which had hit the ground by now, to fly directly at Ray from below.
-Ray thought ahead, and he detonated a paper seal he stuck on his shoe with a Snake sign, causing a sturdy mud wall to appear from underneath him, stopping and pinning the shurikens to ground he fell on.
+Ray thought ahead, and he detonated a paper seal he stuck on his shoe during preperation with a Snake sign, causing a sturdy mud wall to appear from underneath him, stopping and pinning the shurikens to ground he fell on.
 The second volley had gotten lodged in the mud wall Ray was using for defense earlier, and the third volley hanged idly in the air, but now Tetsugyō had a new opening.
 
 "Wait! You're that guy with the spikes! Ooh, I'm gonna pay you back for wasting our time earlier!"
 
-With another hand movement, Tetsugyō took control over the spike attached to Ray's arm, and he impaled it right into the tree Ray was standing in front of. With a second movement, the third volley was approaching Ray, rapidly.
+With another hand movement, Tetsugyō took control over the spike attached to Ray's arm, and he impaled it right into the tree Ray was standing in front of. With a second movement, the third volley was approaching rapidly.
 "(*I have to think fast...!*)"
 Ray took a seal from his hip and held it out. Using a one hand Tiger seal with the arm connected to the unhelpful spike, a stream of mud burst out of the seal, splashing and stopping the volley.
 
@@ -222,8 +222,8 @@ With the hand seal Ray had been using previously, the paper bomb he put on the m
 "(*!! That could be it!*)
 
 Ray looked at the part of tree where the wall was connected, and it was now completely splintered. Not only that, but the top half of the tree was seperated, and it fell to the ground with a thud.
-Ray first stomped on the ground twice; once where the mud from the paper seal used to deflect the third volley landed, and again right next to the roots of the tree he was pinned to.
-The mud erected itself into pillars, buying Ray some time, while the second stomp created a small hole right under the tree, which Ray slipped a paper tag into as the tree fell. He disconnected his arm from the spike in the tree, and the spike was broken free from it's resting place when it connected from the ground. Ray scooped it up.
+First, Ray stomped on the ground twice; once where the mud from the paper seal that was used to deflect the third volley landed, and again right next to the roots of the tree he was pinned to.
+The mud erected itself into pillars, buying Ray some time, while the second stomp created a small hole right under the tree, which Ray slipped a paper tag into as the tree fell. He disconnected his arm from the spike in the tree, and the spike was broken free from its resting place when it connected from the ground. Ray scooped it up.
 
 Tetsugyō jumped on top of the pillars, and he formed several hand signs. He aimed the palm that was hit with the paper shurikens from earlier directly at Ray, and smiled like the psychopath he is.
 

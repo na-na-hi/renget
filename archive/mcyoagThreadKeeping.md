@@ -830,6 +830,8 @@ Man Made Horrors (Mr Theseus)
 https://pastebin.com/ZtmkM8qx
 Fresh Off The Plane (Kyōrinrin)
 https://rentry.org/cyr77
+The Doctor Will See You Now (Dr Hurtsteal, Nemian, mention of Edith Lee)
+https://rentry.org/Worm3TheDoctorWillSeeYouNow
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart
@@ -840,6 +842,41 @@ Alexi's Relationship chart
 https://rentry.org/xeuet
 ```
 
+#Mythic Lands (Reboot)
+***
+Page 1
+***
+```
+Mythic Lands: Golden Age of Piracy Edition
+
+Races: All use the human stat block (Aka pend 25 points as you wish instead of being stuck with a certain stat build)
+
+Magic: Mid
+
+Start with all Quest Rewards you Qualify for.
+
+You are a native character in this world so your IRL stats and skills have no impact on the character.
+
+>Para Bleakleaf, "Pirate Princess"
+>>90571402
+>Kalma, "Divine Dagger"
+>>90551139
+Fernando Del Mar, "Turtle Prince"
+>>90582803
+Kavak Au Telemarus, "7 Wanderer"
+>>90567557
+>Drago Draconis
+>>90582007
+
+Writefags:
+>Join My Crew
+https://pastebin.com/fDpZXNzh
+>Winding Path
+https://rentry.org/WindingPath
+>Drago Intro: 
+https://rentry.org/nposhf
+
+```
 #Heroes of the Wastes (HOTW)
 ***
 Page 1

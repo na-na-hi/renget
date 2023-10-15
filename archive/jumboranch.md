@@ -19,7 +19,7 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Dominant, loves Humans over Anthro's](https://files.catbox.moe/5f93bi.png) | Mishka Blacklilly | ->Just a simple dominant Anthro Grizzly Bear cub, she can be sweet but gets what she wants. Mostly older HUMAN teen boys when she can find them. I had a 'in heat' system with her but Claude just made it turn on every chat turning her into a sex-fiend so I took it out. ==V2 JB== Tighten up defs, *maybe* expand char a bit more.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ivii76.png)
+ ![Dominant, loves Humans teens over Anthro boys](https://files.catbox.moe/f4x09y.jpg) | Mishka Blacklilly | -> An Anthro Grizzly Bear Cub, Mishka can be sweet but gets what she wants. Mostly Human teen boys lately, as she's developed strange new desires. Both as a companion and to explore the tingling heat that seems to get worse when she finds a cute one. Has a habit of snapping pictures of boys she likes with her new camera phone, but being a clumsy cub she often gets caught. Update 10/15 added an alt greeting and stuff about her being in the Girl Scouts to her defs ==V2 JB, alt greeting== Tighten up defs, expand char a bit more.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/y4v03w.png)
 -
  
 ***
@@ -88,5 +88,5 @@ Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
 ![Sunny the punk ass lil' Raccoon Girl :)](https://files.catbox.moe/oq80re.png)
-![Mishka the Grizzly cub](https://files.catbox.moe/mh0rp4.jpg) ![Ehzi 'Armadillo' Kobold Healer](https://files.catbox.moe/bvr86t.png)
+![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg) ![Mishka selling cookies for Troop 0301!](https://files.catbox.moe/pna26o.jpg)
 ![More cheeky Mishka cute brat!](https://files.catbox.moe/mvwrt5.jpg)

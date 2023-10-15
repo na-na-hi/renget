@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 40/70
+**Level:** 8 | **Experience to Next Level:** 00/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
@@ -32,10 +32,10 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Splash      | - | 1AP | - | Normal | Status | The User splashes around.
-Play Nice  | - | 4AP | - | Normal | Status | The Opponent's Attack is decreased by 1. Ignores Protect Moves.
-Razor leaf | 5BP | 5AP | ≥2 | Grass | Physical | 18-20; Increased Crit Ratio. Multi-Target. Effective at destroying woodland hazards.
-N/A | - | - | - | - | - | -
+**Splash**      | - | 1AP | - | Normal | Status | The User splashes around.
+**Play Nice**  | - | 4AP | - | Normal | Status | The Opponent's Attack is decreased by 1. Ignores Protect Moves.
+**Razor leaf** | 5BP | 5AP | ≥2 | Grass | Physical | 18-20; Increased Crit Ratio. Multi-Target. Effective at destroying woodland hazards.
+**Rapid Spin** | 3 BP | 4 AP | ≥2 | Normal | Physical | The User is cured of Stuck, Constricted, Trapped, Bound, and Seeded. Field Hazards are nullified. 
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

@@ -6,8 +6,8 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
-**Species:** Skitty | **Affiliation:** ==REPLACE==
-**Level:** 6 | **Experience to Next Level:** 55/60
+**Species:** Skitty | **Affiliation:** Team Stardust
+**Level:** 7 | **Experience to Next Level:** 50/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Tail Whip | - |4AP| ≥2 | Normal | Status | 	The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Fake Out | 4BP | 7(-3)AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
 Foresight | - | 4AP | - | Normal | Status |  The User's Moves never miss. The User's Normal and Fighting-Type moves can hit Ghost-Types.
-Growl | - | 4AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
+Sing | - | 4AP | ≥9 | Normal | Status | The Opponent is afflicted with Sleep. Ignores Protect Moves and Substitutes.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -42,11 +42,11 @@ Moves that cannot be used in battle, but during RP segments. You may have two of
 Name of Move | Description
 ------ | :----: 
 Tackle | No secondary effect. Why is this here...
-Eᴍᴘᴛʏ | Description
+Growl | It's Growl.
 
 **SPECIAL BONUSES**
-!!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 16 points to spend.
+!!! note You have a base of 10 (12) IP and each Skill costs a certain amount of it to equip.
+    You have 31 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

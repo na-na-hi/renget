@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 7 | **Experience to Next Level:** 50/70
+**Level:** 8 | **Experience to Next Level:** 0/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 94₽ | **Glorious Gold:** 0 Bars
 
@@ -26,7 +26,7 @@ Attack | 1 | Species Bonus | +1 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Growl | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 18 points to spend.
+    You have 33 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

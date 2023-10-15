@@ -1,3 +1,5 @@
+>OLD. Hamas threat for one hostage execution livestreamed for targeting innocent civies
+https://files.catbox.moe/lko5cc.mp4
 >Hamas paraglider training kino
 https://files.catbox.moe/gdw7lv.mp4 
 >Gliders flying en masse (No sound)

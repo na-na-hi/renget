@@ -40,251 +40,512 @@ Follow the installation in the docs.
 To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
 
 #Robust Archiver (ytarchive alternative)
-Last Updated: 05/09/23 (mm/dd/yy)
+Last Updated: 10/14/23 (mm/dd/yy)
 
 This archiver is a Python script that:
-* Automatically downloads cookies from specified browser. (Default Firefox)
+* Automatically downloads cookies from specified browser. (Default Edge)
 * Logs chat (as much as possible, including pre- and post-stream).
 * Watch multiple streamers. (Default Mumei only)
 * Handle concurrent streams.
-* Optionally exclude FREE CHAT streams. (Default includes)
+* Optionally exclude certain streams. (Default includes all)
 
 ```python
-# Version 3
+# Version 4
 
-import datetime, time, os, re, chat_downloader, yt_dlp, schedule
-from slugify import slugify
-from multiprocessing import Process, Manager
+import configparser
+import ctypes
+import datetime
+import os
+import re
+import sys
+import time
+from importlib import reload
+from multiprocessing import Process, Value
+from subprocess import call
 
-# Requirements: yt_dlp, python-slugify, chat_downloader, schedule
-# Keep up to date by running:
-# pip install yt_dlp python-slugify chat_downloader schedule -U
 
-# ===================
-#       OPTIONS
-# ===================
+def pretty_print(output, end='\n'):
+    print(end='\x1b[2K')
+    print(output, end=end)
 
-global Streamers, browser, cookie_timer, check_timer, free_chat_allowed, scanned_streams, p_active
 
-Streamers = ['NanashiMumei',]
-browser = ('firefox',) # https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L306
-cookie_timer = 24 # hours
-check_timer = 1 # minutes
-free_chat_allowed = True
-scanned_streams = '1-10' # first 10 streams in /streams page, scanning more makes checks longer, scanning less makes checks quicker
+# Automatically check for missing needed packages
+try:
+    import chat_downloader
+except ImportError as e:
+    pretty_print("Installing Missing Python Packages... (chat_downloader)", end='\r')
+    call("pip install --quiet chat_downloader")
+    import chat_downloader
+try:
+    import yt_dlp
+except ImportError as e:
+    pretty_print("Installing Missing Python Packages... (yt_dlp)", end='\r')
+    call("pip install --quiet yt_dlp")
+    import yt_dlp
+try:
+    import schedule
+except ImportError as e:
+    pretty_print("Installing Missing Python Packages... (schedule)", end='\r')
+    call("pip install --quiet schedule")
+    import schedule
+try:
+    import slugify
+except ImportError as e:
+    pretty_print("Installing Missing Python Packages... (python-slugify)", end='\r')
+    call("pip install --quiet python-slugify")
+    import slugify
 
-# ===================
-
-p_active = {}
 
 class WindowsInhibitor:
-	'''Prevent OS sleep/hibernate in windows; code from:
+    '''Prevent OS sleep/hibernate in windows; code from:
 	https://github.com/h3llrais3r/Deluge-PreventSuspendPlus/blob/master/preventsuspendplus/core.py
 	API documentation:
 	https://msdn.microsoft.com/en-us/library/windows/desktop/aa373208(v=vs.85).aspx'''
-	ES_CONTINUOUS = 0x80000000
-	ES_SYSTEM_REQUIRED = 0x00000001
+    ES_CONTINUOUS = 0x80000000
+    ES_SYSTEM_REQUIRED = 0x00000001
 
-	def __init__(self):
-		pass
+    def __init__(self):
+        pass
 
-	def inhibit(self):
-		import ctypes
-		print("Preventing Windows from going to sleep")
-		ctypes.windll.kernel32.SetThreadExecutionState(
-			WindowsInhibitor.ES_CONTINUOUS | \
-			WindowsInhibitor.ES_SYSTEM_REQUIRED)
+    def inhibit(self):
+        pretty_print("Preventing Windows from going to sleep")
+        ctypes.windll.kernel32.SetThreadExecutionState(
+            WindowsInhibitor.ES_CONTINUOUS | \
+            WindowsInhibitor.ES_SYSTEM_REQUIRED)
 
-	def uninhibit(self):
-		import ctypes
-		print("Allowing Windows to go to sleep")
-		ctypes.windll.kernel32.SetThreadExecutionState(
-			WindowsInhibitor.ES_CONTINUOUS)
+    def uninhibit(self):
+        pretty_print("Allowing Windows to go to sleep")
+        ctypes.windll.kernel32.SetThreadExecutionState(
+            WindowsInhibitor.ES_CONTINUOUS)
 
-def prog_hook(d,active,id):
-	if d['status'] == 'downloading':
-		active[id] = [True, True, d['fragment_index']]
-	if d['status'] == 'finished' and active[id][1]:
-		active[id] = [True, False, active[id][2]]
-		print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Stream ended with " + str(active[id][2]) + " frags.")
 
-def grab_Metadata():
-	ydl_opts = {
-		'quiet': True,
-		'cookiefile': 'cookies.txt',
-		'playlist_items': scanned_streams,
-		#'match_filter': is_live,
-		'no_warnings': True,
-		'ignore_no_formats_error': True,
-		'ignoreerrors': True,
-	}
-	valid_streams = []
-	for x in Streamers:
-		print(end='\x1b[2K')
-		print("Checking for streams... (" + x + ")", end='\r')
-		URL = r'https://www.youtube.com/@' + x + r'/streams'
-		with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-			info = ydl.extract_info(URL, download=False)
-			if info:
-				streams = info['entries']
-				for stream in streams:
-					if not stream:
-						continue
-					if re.search(r'free\s*chat', stream['fulltitle'], re.I) and not free_chat_allowed:
-						continue
-					if stream['live_status'] in ['is_live','is_upcoming']:
-						valid_streams.append({
-							'id': stream['id'],
-							'title': stream['fulltitle'],
-							# 'member': True if stream['availability'] == 'public' else False # 'public' 'subscriber_only' 'private'
-							})
-	return valid_streams
-	
-def save_Metadata(url, fn):
-	ydl_opts = {
-		'quiet': True,
-		'cookiefile': 'cookies.txt',
-		'writedescription': True,
-		'writethumbnail': True,
-		'skip_download': True,
-		'outtmpl': fn + '/%(title)s [%(id)s].%(ext)s',
-		'no_warnings': True,
-		'ignore_no_formats_error': True,
-		'ignoreerrors': True
-	}
-	with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-		ydl.download(url)
+class Stream:
+    def __init__(self, id, title):
+        self.id = id
+        self.folder = slugify.slugify(title, allow_unicode=True) + "-" + id
+        self.outtmpl = self.folder + '/%(title)s [%(id)s].%(ext)s'
+        self.status = Value(ctypes.c_bool, True)
+        pretty_print(
+            '<' + time.strftime("%H:%M:%S", time.localtime()) + '> Found stream\nID: ' + id + '\nTitle: ' + title)
+        ydl_opts = {
+            'quiet': True,
+            'cookiefile': 'cookies.txt',
+            'writedescription': True,
+            'writethumbnail': True,
+            'skip_download': True,
+            'outtmpl': self.outtmpl,
+            'no_warnings': True,
+            'ignore_no_formats_error': True,
+            'ignoreerrors': True
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download(self.id)
+        self.video = Video(self.id, self.outtmpl, self.status)
+        self.chat = Chat(self.id, self.folder)
+        self.video.process = Process(target=self.video.start)
+        self.chat.process = Process(target=self.chat.start)
+        self.video.process.start()
+        self.chat.process.start()
 
-def chatProc(url, fn, id, active):
-	dl = chat_downloader.ChatDownloader(cookies="cookies.txt")
-	try:
-		chat = dl.get_chat(url, output=fn+"\\chat.log", overwrite=False, message_groups=['all'], message_types=['all'])
-	except:
-		if id in list(active.keys()):
-			if active[id][1]:
-				dl.close()
-				print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Chat is NOT open, retrying in 1 minute.")
-				time.sleep(60)
-				return chatProc(url, fn, id, active)
-		print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": No live chat.")
-		return dl.close()
-	print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Chat is open.")
-	try:
-		for m in chat:
-			pass
-	except:
-		print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Chat error.")
-	dl.close()
-	if id in list(active.keys()):
-		if active[id][1]:
-			print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Chat closed prematurely, attempting to reconnect...")
-			return chatProc(url, fn, id, active)
-	print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Chat is closed.")
+    def stop(self):
+        self.video.process.join(5)
+        self.chat.process.join(5)
 
-def vidProc(id, outtmpl, active):
-	ydl_opts = {
-		'quiet': True,
-		'cookiefile': 'cookies.txt',
-		'live_from_start': True,
-		'no_warnings': True,
-		'ignore_no_formats_error': True,
-		'ignoreerrors': True,
-		'wait_for_video': (60,120),
-		'outtmpl': outtmpl,
-		'overwrites': True,
-		'socket_timeout': 300,
-		'noprogress': True,
-		'progress_hooks': [lambda d: prog_hook(d,active,id)],
-		'file_access_retries': 1000,
-		'retries': 5,
-	}
-	URL = "https://www.youtube.com/watch?v=" + id
-	with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-		ydl.download(URL)
-	active[id] = [False, False, 0]
-	print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + id + ": Archive complete.")
+    def state(self):
+        return bool(self.status.value)
 
-def del_p(id):
-	global p_active
-	proc = p_active.pop(id)
-	proc['chat'].join(5)
-	proc['vid'].join(5)
 
-def update_cookies():
-	print(end='\x1b[2K')
-	print("Updating Cookies...")
-	ydl_opts = {
-		'cookiesfrombrowser': browser,
-		'cookiefile': 'cookies.txt',
-		'quiet': True,
-		'skip_download': True,
-	}
-	with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-		ydl.download("https://www.youtube.com/watch?v=4NYsqm2E41k")
-	print("Cleaning Cookies...")
-	cleaned = ['# Netscape HTTP Cookie File','']
-	with open("cookies.txt") as raw:
-		raw_lines = raw.readlines()
-		lines = [it.strip().lstrip('#HttpOnly_') for it in raw_lines]
-		for x in lines:
-			if x.startswith('.youtube'):
-				if x.split()[5] in ['APISID','HSID','LOGIN_INFO','NID','PREF',
-				'SAPISID','SID','SIDCC','SSID','VISITOR_INFO1_LIVE','YSC',
-				'__Secure-1PAPISID','__Secure-1PSID','__Secure-1PSIDCC',
-				'__Secure-3PAPISID','__Secure-3PSID','__Secure-3PSIDCC','wide']:
-					cleaned.append(x)
-	with open('cookies.txt','w') as out:
-		for x in cleaned:
-			out.write(x)
-			out.write('\n')
-	print("Cookies Updated!")
+class Video:
+    def __init__(self, id, outtmpl, status):
+        self.process = None
+        self.id = id
+        self.outtmpl = outtmpl
+        self.status = status
+        self.frags = Value('i', 0)
+        self.started = Value(ctypes.c_bool, False)
 
-def archiver(active):
-	streams = grab_Metadata()
-	if streams:
-		for stream in streams:
-			id = stream['id']
-			if id in list(active.keys()):
-				continue
-			title = stream['title']
-			# member = stream['member']
-			print('\n<' + time.strftime("%H:%M:%S", time.localtime()) + '> Found stream\nID: ' + id + '\nTitle: ' + title)
-			URL = "https://www.youtube.com/watch?v=" + id
-			fn = slugify(title, allow_unicode=True) + "-" + id
-			outtmpl = fn + '/%(title)s [%(id)s].%(ext)s'
-			if not os.path.exists(fn):
-				os.makedirs(fn) # Creates a containing folder
-				save_Metadata(URL, fn)
-			vid = Process(target=vidProc, args=(id,outtmpl,active))
-			vid.start()
-			chat = Process(target=chatProc, args=(URL,fn,id,active))
-			chat.start()
-			active[id] = [True,True,0]
-			global p_active
-			p_active[id] = {'vid': vid, 'chat': chat}
+    def start(self):
+        ydl_opts = {
+            'quiet': True,
+            'cookiefile': 'cookies.txt',
+            'live_from_start': True,
+            'no_warnings': True,
+            'ignore_no_formats_error': True,
+            'ignoreerrors': True,
+            'wait_for_video': (60, 120),
+            'outtmpl': self.outtmpl,
+            'overwrites': True,
+            'socket_timeout': 300,
+            'noprogress': True,
+            'progress_hooks': [lambda d: self.progress(d)],
+            'file_access_retries': 1000,
+            'retries': 5,
+        }
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download(self.id)
+        pretty_print('<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Archive complete.")
+        self.status.value = False
 
-if __name__ == '__main__':
-	# in Windows, prevent the OS from sleeping while we run
-	if os.name == 'nt':
-		WindowsInhibitor().inhibit()
-	with Manager() as mgr:
-		print("========================\nMumei's stream archiver!\n========================\n")
-		active = mgr.dict()
-		waited = 0
-		update_cookies()
-		archiver(active)
-		schedule.every(cookie_timer).hours.do(update_cookies)
-		schedule.every(check_timer).minutes.do(archiver, active)
-		while True: # Run indefinitely
-			schedule.run_pending()
-			for id in list(active.keys()):
-				if not active[id][0]:
-					del_p(id)
-					del active[id]
-			print(end='\x1b[2K')
-			print('Active streams: ' + str(list(active.keys())) + ', Total time waited: ' + str(datetime.timedelta(seconds=waited)), end='\r')
-			waited += 1
-			time.sleep(1)
+    def progress(self, d):
+        if d['status'] == 'downloading':
+            self.frags.value = d['fragment_index']
+            if self.frags.value > 0 and not self.started.value:
+                pretty_print(
+                    '<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Stream has started.")
+                self.started.value = True
+        if d['status'] == 'finished':
+            pretty_print(
+                '\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Stream ended with " + str(
+                    self.frags.value) + " frags.")
+
+
+class Chat:
+    def __init__(self, id, folder):
+        self.process = None
+        self.id = id
+        self.outtmpl = folder + "\\chat.log"
+        self.URL = "https://www.youtube.com/watch?v=" + self.id
+
+    def start(self):
+        dl = chat_downloader.ChatDownloader(cookies="cookies.txt")
+        while True:
+            try:
+                chat = dl.get_chat(self.URL, output=self.outtmpl, overwrite=False, message_groups=['all'],
+                                   message_types=['all'])
+            except:
+                dl.close()
+                time.sleep(15)
+                continue
+            pretty_print('<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Chat is open.")
+            try:
+                for m in chat:
+                    pass
+            except:
+                pretty_print(
+                    '<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Chat error, retrying...")
+                time.sleep(15)
+                dl.close()
+                continue
+            break
+        pretty_print('<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Chat is closed.")
+
+
+class Athena:
+    def __init__(self, cfgs):
+        self.list = dict()
+        self.streamers = cfgs.streamers.split(',')
+        self.streamtype = cfgs.streamtype
+        self.ydl_opts = {
+            'quiet': True,
+            'simulate': True,
+            'cookiefile': 'cookies.txt',
+            'no_warnings': True,
+            'ignore_no_formats_error': True,
+            'ignoreerrors': True,
+            'extract_flat': True,
+        }
+
+    def scanner(self):
+        active = self.ids()
+        for streamer in self.streamers:
+            pretty_print("Checking for streams... (" + streamer + ")", end='\r')
+            URL = r'https://www.youtube.com/@' + streamer + r'/streams'
+            with yt_dlp.YoutubeDL(self.ydl_opts) as ydl:
+                info = ydl.extract_info(URL)
+                if info:
+                    streams = info['entries']
+                    for stream in streams:
+                        if not stream:
+                            continue
+                        if stream['live_status'] in ['is_live', 'is_upcoming']:
+                            match self.streamtype:
+                                case 'all':
+                                    pass
+                                case 'partial':
+                                    if re.search(r'(free\s*chat|schedule)', stream['title'], re.I):
+                                        continue
+                                case 'karaoke':
+                                    if not re.search(r'karaoke', stream['title'], re.I):
+                                        continue
+                                case 'unarchived':
+                                    if not re.search(r'unarchived', stream['title'], re.I):
+                                        continue
+                            if stream['id'] not in active:
+                                self.add(stream['id'], stream['title'])
+        if 'playlist_items' not in self.ydl_opts.keys():
+            self.ydl_opts['playlist_items'] = '1-5'
+
+    def cleaner(self):
+        kill_queue = []
+        for id in self.ids():
+            if not self.list[id].state():
+                kill_queue += [id]
+        for id in kill_queue:
+            self.remove(id)
+
+    def add(self, id, title):
+        self.list[id] = Stream(id, title)
+
+    def remove(self, id):
+        self.list[id].stop()
+        del self.list[id]
+
+    def ids(self):
+        return list(self.list.keys())
+
+
+class ConfigItem:
+    def __init__(self, section, key, value, description, repair=None, old=None):
+        if old is None:
+            old = []
+        self.section = section
+        self.key = key
+        self.value = value
+        self.description = description
+        self.repair = repair
+        self.old = old
+
+    def update(self, value):
+        if self.repair:
+            self.value = self.repair(value)
+        else:
+            self.value = value
+
+    def assign(self):
+        for line in self.description:
+            pretty_print(line)
+        return input("Response: ") or self.value
+
+
+class ArchiveConfig:
+    configFileLocation = 'archiver-config.ini'
+    items = [
+        ConfigItem("MISC", "autoupdatemodules", 2, [
+            "This script relies on keeping the yt_dlp and chat_downloader modules up to date for YouTube changes.",
+            "Options: (Default is 2)",
+            "\t0: Don't update any modules for me.",
+            "\t1: Only update yt_dlp and chat_downloader modules for me.",
+            "\t2: Update all modules for me. (yt_dlp, chat_downloader, python-slugify, and schedule)"]),
+        ConfigItem("SCANNER", "streamers", "NanashiMumei",
+                   ["List the @Name for YouTube streamers you want to archive.",
+                    "Exclude the @ prefix in your response.",
+                    "Examples: (Default is NanashiMumei)",
+                    "\tNanashiMumei\n\tNanashiMumei,NerissaRavencroft\n\tKosekiBijou,ui_shig,penguinz0"],
+                   lambda x: "".join(x.split())),
+        ConfigItem("SCANNER", "streamtimer", "1", ["How many minutes would you like between each scan for new streams?",
+                                                 "Examples: (Default is 1)",
+                                                 "\t1\n\t60\n\t60*3"], lambda x: eval(str(x))),
+        ConfigItem("SCANNER", "streamtype", "all", ["What types of streams would you like to capture for archival?",
+                                                    "*WARNING* This will only capture based on the title at the moment the stream was found!",
+                                                    "*WARNING* That means that if the title changes later, it isn't guaranteed to find it!",
+                                                    "Options: (Default is all)",
+                                                    "\tall: All streams permitted.",
+                                                    "\tpartial: No Free Chat or Schedule streams.",
+                                                    "\tkaraoke: Only Karaoke streams.",
+                                                    "\tunarchived: Only Unarchived streams."], str.lower),
+        ConfigItem("COOKIES", "browser", "('edge',)",
+                   ["Select a browser you would like to import your YouTube cookies from.",
+                    "*WARNING* Suggestion is to pick/download a browser you will never use regularly!",
+                    "*WARNING* YouTube has broken cookies on browsers which actively use YouTube!",
+                    "*Note* If you choose chrome or edge or other chromium browsers, you may need to restart the browser with:",
+                    "\t--disable-features=LockProfileCookieDatabase",
+                    "*Note* to get it to actually be able to grab the cookies properly.",
+                    '*WARNING* Quotes ("" or ' + "''" + ') actually matter here, please use them in the response!',
+                    "Examples: (Default is ('edge',) )",
+                    "\t('chrome',)\n\t('firefox',)\n\t('firefox', 'default', None, 'Meta')\n\t('edge',)",
+                    "More explanation: https://github.com/yt-dlp/yt-dlp/blob/1c51c520f7b511ebd9e4eb7322285a8c31eedbbd/yt_dlp/YoutubeDL.py#L314-L317"],
+                   eval),
+        ConfigItem("COOKIES", "cookietimer", 12,
+                   ["How often (in hours) would you like to check that your cookies are still valid?",
+                    "Examples: (Default is 12)",
+                    "\t12\n\t24\n\t24*3"], lambda x: eval(str(x))),
+        ConfigItem("COOKIES", "testid", "Ea8XBooQ5_w", ["What member stream would you like to test cookies on?",
+                                                        "*NOTE* If you are not membered to any of the streamers,",
+                                                        '*NOTE* put "no" without the quotes or give a non-member stream ID.',
+                                                        "Only input the ID of the stream, for example: (Default)",
+                                                        "https://www.youtube.com/watch?v=Ea8XBooQ5_w is Ea8XBooQ5_w"]),
+    ]
+
+    def __init__(self):
+        for item in self.items:
+            setattr(self, item.key, item.value)
+
+    def first_run(self, config):
+        pretty_print("==========================\nFirst run config generator\n==========================")
+        for item in self.items:
+            item.update(item.assign())
+            pretty_print("================")
+            if item.section not in config.sections():
+                config.add_section(item.section)
+            config.set(item.section, item.key, str(item.value))
+        self.write(config)
+
+    def update_id(self, id, config):
+        self.testid = id
+        config.set("Cookies", "testid", id)
+        self.write(config)
+
+    def read(self, config):
+        updated_values = False
+        for item in ArchiveConfig.items:
+            value_type = type(item.value)
+            value = None
+            method = config.get
+            if value_type == int:
+                method = config.getint
+            elif value_type == bool:
+                method = config.getboolean
+            if item.old:
+                for old in item.old:
+                    try:
+                        value = method(old[0], old[1])
+                        del config[old[0]][old[1]]
+                        if not len(config.options(old[0])):
+                            del config[old[0]]
+                        updated_values = True
+                    except:
+                        pass
+            if not value:
+                try:
+                    value = method(item.section, item.key)
+                except Exception as err:
+                    pretty_print(err)
+                    pretty_print("Config couldn't find value for " + item.key + "!")
+                    value = item.assign()
+                    if item.section not in config.sections():
+                        config.add_section(item.section)
+                        config[item.section] = dict()
+                    config[item.section][item.key] = item.value
+                    updated_values = True
+            item.update(value)
+            setattr(self, item.key, item.value)
+        if updated_values:
+            self.write(config)
+
+    def write(self, config):
+        with open(self.configFileLocation, 'w') as file:
+            config.write(file)
+
+
+class CookieManager:
+    def __init__(self, cfgs):
+        self.testid = cfgs.testid
+        self.browser = cfgs.browser
+        self.streamer = cfgs.streamers.split(',')[0]
+        self.cfgs = cfgs
+
+    def check(self):
+        while self.test():
+            self.update()
+
+    def test(self):
+        if self.testid == "no":
+            return False
+        try:
+            ydl_opts = {
+                'quiet': True,
+                'simulate': True,
+                'cookiefile': 'cookies.txt',
+            }
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                info = ydl.extract_info(self.testid)
+            if self.testid != self.cfgs.testid:
+                self.cfgs.update_id(self.testid)
+            return False
+        except yt_dlp.utils.DownloadError as err:
+            if re.search("members-only", str(err)):
+                pretty_print("Your cookies cannot access your test stream.")
+                pretty_print("Please open your selected irregular browser and refresh a YouTube membership page.")
+                pretty_print("Optionally, you can also change the ID used for the check. (Press Enter to skip.)")
+                self.testid = input("ID: ") or self.testid
+                return True
+            if re.search("not a valid URL", str(err)):
+                pretty_print("Invalid ID, try a new one? (Press Enter to skip.)")
+                self.testid = input("ID: ") or self.testid
+                return True
+            pretty_print("Cookie update error: " + str(err))
+            return False
+
+    def update(self):
+        pretty_print("Updating Cookies...", end='\r')
+        os.replace('cookies.txt', 'cookies.bak.txt')
+        ydl_opts = {
+            'cookiesfrombrowser': self.browser,
+            'cookiefile': 'cookies.txt',
+            'quiet': True,
+            'simulate': True,
+            'playlist_items': '1',
+            'no_warnings': True,
+            'ignore_no_formats_error': True,
+            'ignoreerrors': True,
+            'extract_flat': True,
+        }
+        try:
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                ydl.download(r'https://www.youtube.com/@' + self.streamer + r'/streams')
+        except PermissionError:
+            pretty_print("Please open Task Manager and force close the browser and try again.")
+            return
+        pretty_print("Cleaning Cookies...", end='\r')
+        cleaned = ['# Netscape HTTP Cookie File', '']
+        with open("cookies.txt") as raw:
+            raw_lines = raw.readlines()
+            lines = [it.strip().lstrip('#HttpOnly_') for it in raw_lines]
+            for x in lines:
+                if x.startswith('.youtube'):
+                    cleaned.append(x)
+        with open('cookies.txt', 'w') as out:
+            for x in cleaned:
+                out.write(x)
+                out.write('\n')
+
+
+def modUpdater(x):
+    pkgs = ['yt_dlp', 'chat_downloader']
+    if x == 2:
+        pkgs += ['python-slugify', 'schedule']
+    for pkg in pkgs:
+        pretty_print("Updating Python Packages... (" + pkg + ")", end='\r')
+        call("pip install --upgrade --quiet " + pkg)
+        if pkg != 'python-slugify':
+            reload(sys.modules[pkg])
+        else:
+            reload(sys.modules['slugify'])
+
+
+def worker(cfgs):
+    if os.name == 'nt':
+        WindowsInhibitor().inhibit()
+    start_time = time.time()
+    cookies = CookieManager(cfgs)
+    cookies.check()
+    _schedule = schedule.Scheduler()
+    _schedule.every(cfgs.cookietimer).hours.do(cookies.check).tag("cookies")
+    modTimer = schedule.Scheduler()
+    modTimer.every(24).hours.do(modUpdater, cfgs.autoupdatemodules)
+    modTimer.run_all()
+    Owl = Athena(cfgs)
+    _schedule.every(cfgs.streamtimer).minutes.do(Owl.scanner).tag("scanner")
+    _schedule.every(cfgs.streamtimer).minutes.do(Owl.cleaner).tag("cleaner")
+    Owl.scanner()
+    while True:
+        if not len(Owl.ids()):
+            modTimer.run_pending()
+        _schedule.run_pending()
+        pretty_print('Active streams: ' + str(Owl.ids()) + ', Total time waited: ' + str(
+            datetime.timedelta(seconds=round(time.time() - start_time))), end='\r')
+        time.sleep(1)
+
+
+if __name__ == '__main__':  # First-Time Config, add more info and make it better
+    config = configparser.ConfigParser()
+    cfgs = ArchiveConfig()
+    if not os.path.exists(cfgs.configFileLocation):
+        cfgs.first_run(config)
+    else:
+        config.read(cfgs.configFileLocation)
+        cfgs.read(config)
+    worker(cfgs)
 ```
 #Soundpost Scripts
 ##Easy(?) Soundpost Creator

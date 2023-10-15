@@ -1,5 +1,5 @@
 🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤   
-#-> lurkzn's Claude settings (v1.4)<-
+#-> lurkzn's Claude settings (v1.41)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 
@@ -14,14 +14,16 @@ Changelog:
 12 Oct - v1.3 is public. Wrote instructions that refrains Assistant from rehashing established aspects already written 
 in previous Assistant: responses within <chat>.
 
-13 Oct - Adjusted "Manipulate 1" to identify the genre of the current scene, encouraging it to modify <objectives> to 
+13 Oct - v1.4. Adjusted "Manipulate 1" to identify the genre of the current scene, encouraging it to modify <objectives> to 
 better suit the identified genre. This theoretically should make the narration more in-tune with the scene (NSFW or SFW)
 Removed "Quick Coom" prompt item. Temp has been increased, however feel free to tune it down if it gets schitzo.
+
+15 Oct - v1.41. Very minor changes, aimed at minimizing how much Claude tries to advance the scene.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-###-> Preset (v1.4 - Updated 13 Oct) <-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/xs5yl7.zip)<-
+###-> Preset (v1.41 - Updated 15 Oct) <-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/dq5h27.zip)<-
 ***
 ###->Extras<-
 !!! warning

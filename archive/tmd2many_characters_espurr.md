@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 6 | **Experience to Next Level:** 25/60 | **Alignment:** True Neutral
+**Level:** 6 | **Experience to Next Level:** 55/60 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
 **Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
@@ -76,7 +76,7 @@ None | N/A
 ***
 
 #### ->Special Bonuses<-
-!!! note ??? IQ points to spend.
+!!! note 30 IQ points to spend.
 	0/10 | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

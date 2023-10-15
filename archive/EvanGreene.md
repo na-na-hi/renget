@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 6 | **Experience to Next Level:** 55/60
+**Level:** 7 | **Experience to Next Level:** 25/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 103₽ | **Glorious Gold:** 0 Bars
 
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No Secondary Effect
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Vine Whip | 5BP | 5AP | ≥2 | Grass | Physical | No Secondary Effect
 ==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Attack | 0 | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Attack | 0 | 7/9 | ▮▮▮▮▮▮▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -16,11 +16,14 @@
 
 ## Pets
 
-[ENG/ZHO] BoBo, Ellie: https://www.youtube.com/@BoboEllieBuns
+[ENG] BoBo, Ellie: https://www.youtube.com/@BoboEllieBuns
 - two Holland Lops, some videos have Chinese subtitles, but the channel is entirely in English, 100K+
 
 [ENG] Pipkin, Pigpoke: https://www.youtube.com/@OneMorePlease
 - memey and daily life videos about two Dutch rabbits, 500K+
+
+[ENG] Quincy: https://www.youtube.com/@quincythebunny727
+- English Lop, < 1K
 
 [JPN/ENG] Fuku: https://www.youtube.com/@bunny_fuku_channel
 - 10K+
@@ -50,7 +53,10 @@
 - bunny eating ASMR, < 1K
 
 [JPN] Kuma: https://www.youtube.com/@kumakb
-- < 1K
+- Netherland Dwarf, < 1K
+
+[JPN] Mochimaru: https://www.youtube.com/@user-mb5cn4ce9k
+- Netherland Dwarf, < 1K
 
 [JPN] Popo: https://www.youtube.com/@kogarana-popo
 - 100K+

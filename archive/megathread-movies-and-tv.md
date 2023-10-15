@@ -153,9 +153,9 @@
 - This service, which streams both classic and contemporary cartoons, is a real treat for everyone who enjoys cartoons.
 - [URL Safety Results](https://www.urlvoid.com/scan/kimcartoon.li/)
 
-### ▶️ [KissAsian](https://kissasian.li/)
+### ▶️ [KissAsian](https://kissasian.lu/)
 - Discover well-known dramas and films from Asia, including those from China, Taiwan, South Korea, and Japan.
-- [URL Safety Results](https://www.urlvoid.com/scan/kissasian.li/)
+- [URL Safety Results](https://www.urlvoid.com/scan/kissasian.lu/)
 
 ### ▶️ [LookMovie](https://lookmovie2.to/) / [2](https://proxymirrorlookmovie.github.io/)
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.

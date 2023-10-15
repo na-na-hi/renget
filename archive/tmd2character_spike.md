@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 7 | **Experience to Next Level:** 60/70
+**Level:** 8 | **Experience to Next Level:** 20/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
 
@@ -26,7 +26,7 @@ Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5 AP
+Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -46,11 +46,11 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 17 points to spend.
-    0/10 +2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+    You have 2 points to spend.
+    2/10 +2 IP | ▮▮▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Hex Maniac | The User is attuned to all things mystical and arcane. | 2 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | N/A

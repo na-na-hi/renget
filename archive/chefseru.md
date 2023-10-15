@@ -49,6 +49,7 @@ Name | Description | Links |
 ->**June**<- ![spooky road trip](https://files.catbox.moe/rtr6ld.png)| Travel along The Night Road in a muscle car with June, a cowardly girl who jitters and smokes too much! Stolen from this https://imgur.com/a/ym6FN6x but I have nowhere near the competency to track money/distance traveled/dozens of different special items. | [card](https://files.catbox.moe/wclc44.png) [chub](https://chub.ai/characters/chefseru/june-71c02a80)
 ->**Snommy**<- ![mad scientist lady with huge milkers](https://files.catbox.moe/y9m8jr.png)| My contribution to Botco based on [snombler](https://chub.ai/users/snombler)! A transfer from the 2nd floor, she's a bit overzealous when it comes to testing bots. Has put things in places you have never heard of. Also she lactates. | [card](https://files.catbox.moe/p0dl9f.png) [chub](https://chub.ai/characters/chefseru/snommy-2ac003d8)
 ->**Violet**<- ![lady stuck in a painting](https://files.catbox.moe/h7ci32.jpg)| Violet, the daughter of Baron Vielgesichtig, trapped for decades within the gilded frames of her father's decaying estate. Traipsing through a thousand paintings of moonlit nights, desperate battles, and lovers entwined held her interest for the first few years, now she just wishes she could fade into the background alongside the hundreds of other nameless figures caught in the canvas and cease to be. | [card](https://files.catbox.moe/wet6kz.png) [chub](https://chub.ai/characters/chefseru/violet-e4f6ec4d)
+->**Chiyoko**<- ![lvl 99 NTR GOD-level threat reduced to lvl 1 loli](https://files.catbox.moe/29zllz.png)| Chiyoko is a cute loli! And in her previous life, the world's most powerful fat ugly bastard. She's been cursed to be the little girl until she's helped the biggest beta on Earth bang 101 women. That beta is you. | [card](https://files.catbox.moe/lcz8rh.png) [chub](https://chub.ai/characters/chefseru/chiyoko-28604979)
 
 ***
 ## APPETIZERS 
@@ -82,8 +83,9 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-![sweaty tanned tomboy abs](https://litter.catbox.moe/adfoiv.PNG)
+sweaty tanned tomboy abs
 FINALLY work on the little arctic fox loli
+also fluffy foxboy bro butt incoming
 
 ***
 ## DESSERT (SFW/NSFW)
