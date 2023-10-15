@@ -5,6 +5,8 @@
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
 ->**[Volume Three, v1 Cards](https://rentry.org/gikdw)**<-
 ***
+->**15/10/23: Kept you waiting, huh? Small update; not dead, just busy. Few cards today/tomorrow. / Need to make some edits on a few, scrapped the art for Cillamun entierly and redoing it from scratch.**<-
+***
 ->**07/09/23: 5 WIPs uploaded. Klymhessa, Ilofa, Cillamuna, Kheoloee, Cervoel. | I would very much like feedback on them, particularly outside OAI models.**<-
 >probably put 1 or 2 up *tomorrow*. >uploads over two weeks later.
 ***
@@ -22,7 +24,7 @@
 ->**Feedback? anon_doofus@proton.me**<-
 ***
 [TOC]
-![](https://files.catbox.moe/1uqj5k.jpg)
+![](https://files.catbox.moe/3z76jx.jpg)
 ***
 ###### Klymhessa
 Futa Dullahan - Have a fight, go on a date, fuck her, get fucked... 
@@ -158,6 +160,13 @@ Female, Princess. (You) need to rescue a kidnapped Damsel.
 [todo: World Info](todo) | Fairly small, just a optimization to cut down on token counts, relates to the "ending" you get when saving the Princess.
 ***
 
+###### Bonus Card: Cassie
+Female, Cute Catholic Girl Next Door. Your neighbour needs help to fix their boiler or something; she's totally a normal human, like you and me.
+
+![](TODO) 5085 Tokens (3831 Permanent) `h o l y  s h i t - optimize`
+[](todo) 3927 Tokens (2935 Permanent) `Alt. Version, straight to the point, no gimmick.`
+***
+
 ###### Shitpost Card: Unnamed Femboy
 Femboy - Local Alt-Right Femboy, e-Thot and hopeful Tradwife; wants to educate (You) on how der Juden are to blame for everything.
 
@@ -169,7 +178,7 @@ Femboy - Local Alt-Right Femboy, e-Thot and hopeful Tradwife; wants to educate (
 
 Dullahan
 - [X] Char. Defs
-- [ ] SD Art Gen.
+- [X] SD Art Gen. (WIP)
 - [X] Optimize
 - [ ] Test & Update
 
@@ -206,34 +215,34 @@ Mocha Waifu
 - [ ] Test & Update
 
 Pizza Boi
-- [X] Char. Defs (Mostly written.)
-- [ ] SD Art Gen.
+- [X] Char. Defs
+- [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
 
 Dragon Girl
-- [X] Char. Defs (WIP, Turbo doesn't like the quirk. Simplify or just remove it.)
-- [ ] SD Art Gen.
+- [X] Char. Defs
+- [X] SD Art Gen.
 - [X] Optimize
 - [ ] Test & Update
 
 Twi'Lek
 - [X] Char. Defs
-- [X] SD Art Gen. (WIP)
-- [ ] Optimize
+- [X] SD Art Gen.
+- [X] Optimize
 - [ ] Test & Update
 
 Togruta
 - [X] Char. Defs
-- [ ] SD Art Gen.
-- [ ] Optimize
+- [X] SD Art Gen.
+- [X] Optimize
 - [ ] Test & Update
 
 ***
 PokéMILF Gang
 - [X] Char. Defs
-- [X] SD Art Gen. (WIP)
-- [ ] Optimize
+- [X] SD Art Gen.
+- [X] Optimize
 - [ ] Test & Update
 
 CYOA
@@ -261,6 +270,14 @@ Bonus: Princess Rescue Quest
 - [X] SD Art Gen. (WIP)
 - [ ] Optimize
 - [ ] Test & Update
+
+Bonus: Cassie
+- [X] Char. Defs
+- [X] SD Art Gen.
+- [ ] Optimize
+- [ ] Test & Update
+
+***
 
 Shitpost: Racist Femboy
 - [X] Char. Defs (Mostly written.)

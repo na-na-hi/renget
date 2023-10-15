@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Leer | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Torment | - | 4 AP | ≥2 | Dark | Status | The Opponent is unable to use the same move in several times in succession.
 Scratch | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
-==REPLACE== | 0 BP | 0 AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Hone Claws | - | 4 AP | - | Dark | Status | The User's Attack and Accuracy are increased by 1.
 Basic Attack | 4 BP | 4 AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -65,7 +65,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 
 **INVENTORY (4 slots)**

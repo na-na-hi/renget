@@ -21,6 +21,8 @@ Removed "Quick Coom" prompt item. Temp has been increased, however feel free to 
 ```
 ***
 ###-> Preset (v1.41 - Updated 15 Oct) <-
+!!! note
+	-> Recommended Temp: 0.6-0.70<-
 ->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/dq5h27.zip)<-
 ***
 ###->Extras<-

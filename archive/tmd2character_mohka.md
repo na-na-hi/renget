@@ -6,7 +6,7 @@
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** N/A
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank
 **Species:** Kommo-o | **Affiliation:** N/A
 **Level:** 5 | **Experience to Next Level:** 30/50
 **Worn Item:** *N/A* | **Clothing:** *N/A*

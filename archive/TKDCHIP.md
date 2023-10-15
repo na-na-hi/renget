@@ -1,3 +1,5 @@
+>OLD, BUT GOOD KINO COMPILATION FROM PAST HAPPENINGS:
+https://litter.catbox.moe/z5e5ir.mp4
 >OLD. Hamas threat for one hostage execution livestreamed for targeting innocent civies
 https://files.catbox.moe/lko5cc.mp4
 >Hamas paraglider training kino
@@ -213,7 +215,7 @@ https://files.catbox.moe/r2bjfp.mp4
 https://files.catbox.moe/n6zl2q.mp4 
 >Many burning cars in a street after an arrival
 https://files.catbox.moe/3kvszo.mp4 
->Palistinian 'Marines' POV of the bathroom massacre. Taco tuesdays amr. 
+>Palestinian 'Marines' POV of the bathroom massacre. Taco tuesdays amr. 
 https://files.catbox.moe/gdkrav.mp4
 >70 Palestinians Killed Leaving Gaza (Disputed, was this a bombing or a shooting? Many intact corpses).
 https://files.catbox.moe/u81986.mp4
@@ -225,3 +227,13 @@ https://files.catbox.moe/8on34b.MP4
 https://files.catbox.moe/qy6tr6.mp4
 >PALESTINIAN CHILD CHARRED WITH BURST HEAD (Oct 10th)
 https://files.catbox.moe/25aw66.mp4
+>Peak Clownworld: IDF taunt using Israel flag with homo trim
+https://files.catbox.moe/1geb7d.mp4
+>IDF Lace Bullets with Pork 2 Electricjewgaloo
+https://files.catbox.moe/mcadiw.MP4
+>Hamas bros get smoked (may Allah give them rest and Jannah)
+https://files.catbox.moe/4a1hl0.mp4
+>Heavy, mysterious gunfire in Gaza the morning of Oct. 14th after cameras got shoah'ed
+https://files.catbox.moe/o2jpbk.mp4
+> Alleged the first usage of laser anti air systems by Israel
+https://files.catbox.moe/9eyqky.mp4

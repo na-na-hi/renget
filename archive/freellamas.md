@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Emerhyst-20B-5bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://pen-importantly-pension-bizrate.trycloudflare.com/api```
+Blocking API URL: ```Offline```
 
 ***
 **System prompt:**

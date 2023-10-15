@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 7 | **Experience to Next Level:** 65/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 135₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -71,7 +71,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Pecha Berry | Cures the user. Heals Poison.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Ban Seed | Causes Disabled upon consumption
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

@@ -245,5 +245,8 @@
 ---
 
 ### ![Image description](https://files.catbox.moe/f9inkg.png) Megacollabs
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-11-04| TBD |**Hololive Sports Fetstival**|
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->
