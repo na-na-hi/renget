@@ -1073,12 +1073,11 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 
 # 3d, by onsenanon, onsen
 >That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
-
-	https://files.catbox.moe/rzqx5o.safetensors
-
 >Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
 
-	https://files.catbox.moe/rzqx5o.safetensors
+	V1: https://files.catbox.moe/rzqx5o.safetensors
+
+	V2: https://files.catbox.moe/xqtef0.safetensors
 
 # Della Duck (Ducktales)
 https://civitai.com/models/149490/della-duck-or-ducktales-2017
@@ -1246,6 +1245,15 @@ Newmouf - Mawshots (Concept)
 >Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
 
 	https://files.catbox.moe/8loti1.safetensors
+
+# Single BING Image trained LoRAs
+Fantasy Style - Sitting at Bonfire - Warm Lighting (Concept / Style)
+
+	https://files.catbox.moe/fio25x.safetensors
+
+Warhammer Fantasy Ink Painting
+
+	https://files.catbox.moe/ix0m9x.safetensors
 
 ## LORAs from the Discord
 

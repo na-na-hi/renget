@@ -153,7 +153,6 @@
 |---|---|---|
 |27/08/2023|[Timestamp #1](https://youtu.be/xjq_nIonh5M?t=14166) [Timestamp #2](https://youtu.be/xjq_nIonh5M?t=14840)| **Streamer-chat Interactions** - Follow-up of their interaction during the second SOS stream this time on Reimu's channel at the end of her RE:Village stream. Both were bantering about Village and Silent Hill.|
 |2023-10-12| [Link](https://www.youtube.com/watch?v=1tICpO1E_ac) | **Collab** - Nerissa's second collab outside of Hololive, joining Reimu for a game of Cuphead. The collab consists of mostly Cuphead gameplay and a short chat segment afterwards. Both decide on not continuing the Cuphead playthrough in a subsequent collab.|
-|2023-10-?| TBA | **Collab** - Nerissa's third collab outside of Hololive, joining Reimu for a (zatsudan?). | 
 
 ###### 🍙 OniGiri 
 |Date|Link|Nature & Notes|

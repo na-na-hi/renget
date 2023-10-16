@@ -1,4 +1,4 @@
-#-> lurkzn's Claude settings (v1.41)<-
+#-> lurkzn's Claude settings (v1.5 - 16 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 
@@ -17,20 +17,21 @@ better suit the identified genre. This theoretically should make the narration m
 Removed "Quick Coom" prompt item. Temp has been increased, however feel free to tune it down if it gets schitzo.
 
 15 Oct - v1.41. Very minor changes, aimed at minimizing how much Claude tries to advance the scene.
+
+16 Oct - v1.5. Further refinements in <objectives>, telling Assistant to focus on 1 or 2 micro scene advancements rather then 
+multiple.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-###-> Preset (v1.41 - Updated 15 Oct) <-
+###-> Preset (v1.5) <-
 !!! note
 	-> Recommended Temp: 0.6-0.70<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/dq5h27.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/gu03yw.zip)<-
 ***
 ###->Extras<-
 !!! warning
-	->Enable Randomization Fluctuation (Found under the triple cubes icon), and ensure the following are highlighted. Play around with the fluctuation amount, (0.1-0.2)<-
-Enable | Highlight |
-:----: | :----:
-![Flux](https://i.imgur.com/ApbmZPZ.png) | ![Flux2](https://i.imgur.com/OwFFNw4.png)
+	->Enable Randomization Fluctuation (Found under the triple cubes icon) Play around with the fluctuation amount, (0.1-0.2)<-
+->![Flux](https://i.imgur.com/ApbmZPZ.png)<-
 
 ***
 ###->Tips<-

@@ -401,6 +401,8 @@
 10/2023|[InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/abs/2310.07713)
 10/2023|[CacheGen: Fast Context Loading for Language Model Applications](https://arxiv.org/abs/2310.07240)
 10/2023|[MatFormer: Nested Transformer for Elastic Inference](https://arxiv.org/abs/2310.07707)
+10/2023|[LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models](https://arxiv.org/abs/2310.08659)
+10/2023|[Towards End-to-end 4-Bit Inference on Generative Large Language Models (QUIK)](https://arxiv.org/abs/2310.09259)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

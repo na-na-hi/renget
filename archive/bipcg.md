@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>Sharpei Chui became a combat comrade for the scouts of the Southern Group of troops
+https://files.catbox.moe/whi7ol.mp4
+>"Barrier" detachments deploy behind forcibly conscripted troops to prevent them surrendering or abandoning their positions. (EN subs)
+https://files.catbox.moe/tkazk5.mp4
+>Ukis desert position following FPV hit nearby
+https://files.catbox.moe/ioa7y7.MP4
+>Cleared tunnels in the area near Belogorovka are filled with killed UAF personnel (not comfy)
+https://files.catbox.moe/4vvn5m.mp4
+>Drones from “Southern” group strike at shelters and trenches of the AFU
+https://files.catbox.moe/yjnq38.mp4
+>5 minutes of droning AFU positions north of Novobakhmutovka (Avdeevka area)
+https://files.catbox.moe/uzu28j.mp4
 >Simple lesson: retrieving an FPV drone always ends like this. The paratroopers love you too much to let you go!
 https://files.catbox.moe/j26b3g.mp4
 >Tanks covering assault on Avdeevkva

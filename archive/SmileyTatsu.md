@@ -64,9 +64,9 @@ Links  |  [Catbox](https://files.catbox.moe/9vy3sr.png) \| [Chub](https://www.ch
 Info | Data
 :----: | :----:
 Kaede |  Kaede is a sadistic woman, who is looking for a pet.
-Links  |  [Catbox](https://files.catbox.moe/6geguq.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/kaede-8f2ed637)
+Links  |  [Catbox](https://files.catbox.moe/2hoeys.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/kaede-8f2ed637)
 
-![Kaede](https://files.catbox.moe/6geguq.png)
+![Kaede](https://files.catbox.moe/2hoeys.png)
 
 ## Non-OC Bots
 

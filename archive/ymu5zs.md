@@ -1,10 +1,18 @@
-#**Extended List of /hmofa/ Story Updates from Edition #2609 - #2706**
+#**Extended List of /hmofa/ Story Updates from Edition #2609 - #2709**
 
 -> Text File Version: https://files.catbox.moe/e0yi2y.txt ->
 -> /hmofa/ Masterbin: https://rentry.org/hmofa ->
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) ->
 
+---------#2709 [Sun 15 Oct 2023 19:43:54]
 
+By Tarrabah
+`The Voice of a Demon (Ch. 3)`
+https://archiveofourown.org/works/50268811
+
+By Wizdoggo
+`Tips to Date a Single Mom Shiba Inu (Part 8)`
+https://rentry.org/mxn8v
 
 ---------#2706 [Thu 12 Oct 2023 19:13:20]
 
@@ -31,12 +39,6 @@ https://archiveofourown.org/works/42671709
 By Hills_of_mud
 `Forgotten Places (Ch. 9)`
 https://archiveofourown.org/works/46543378
-
----------#2696 [Tue 03 Oct 2023 00:34:08]
-
-By Tarrabah
-`The Voice of a Demon (Ch. 2)`
-https://archiveofourown.org/works/50268811
 
 ---------#2695 [Mon 02 Oct 2023 14:11:10]
 
@@ -68,12 +70,6 @@ By Mattariel
 `Of Void (Ch. 9)`
 https://archiveofourown.org/works/45532363
 https://www.sofurry.com/view/2054659
-
----------#2687 [ Sun 24 Sep 2023 21:03:49 ]
-
-By Wizdoggo
-`Tips to Date a Single Mom Shiba Inu (Part 7)`
-https://rentry.org/mxn8v
 
 ---------#2685 [Sat 23 Sep 2023 06:55:23]
 

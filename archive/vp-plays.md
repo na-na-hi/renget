@@ -413,7 +413,7 @@ https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 !!! danger Status: it's fucking over
     We tried playing pretentious political """satire""" & societal criticism: the fangame again.
     Expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be.
-    There's a reason most of the players dropped out before the third badge.
+    There's a reason most of the players dropped out before the third badge. Please do not play this shit ever, and it is (You)r duty to report and ignore anyone shilling this garbage
 
 https://arch.b4k.co/vp/thread/54459801/ 1 opening pandora's box
 https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
@@ -441,4 +441,5 @@ https://arch.b4k.co/vp/thread/54651587/ detergent1 autism
 https://arch.b4k.co/vp/thread/54656958/ detergent2 fun fact, the faggot modder behind this goes by the name "low effort"
 https://arch.b4k.co/vp/thread/54664566/ detergent3 literally empire
 https://arch.b4k.co/vp/thread/54670452/ detergent4 asset theft my beloved
-https://arch.b4k.co/vp/thread/54675739/ detergent5
+https://arch.b4k.co/vp/thread/54675739/ detergent5 more kaizoshit i guess
+https://arch.b4k.co/vp/thread/54682608/ detergent6 it's finally over

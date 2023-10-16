@@ -602,6 +602,8 @@ https://rentry.org/vr6nd
 https://rentry.org/q6x74
 >A Hokage's Lesson (Inatsu, Yumiko, Suzura, Eisei)
 https://rentry.org/5n6w4
+>Yugakure Terrorist Arc: Part Two
+https://rentry.org/4idzv
 
 Relationship Charts:
 >Ray

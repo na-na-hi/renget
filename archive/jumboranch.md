@@ -1,7 +1,7 @@
 # JumboRanch's Cards & Junk
 
 
-->![Bear-kun](https://files.catbox.moe/c1m9tx.png)![Bear-chan](https://files.catbox.moe/kusaze.png)<-
+->![Sunny the punk Raccoon Princess](https://files.catbox.moe/oq80re.png)![Bat-chan](https://files.catbox.moe/7qez8p.png)<-
 ***
 **Working on a Mishka, Ehzi lore, Raccoon girl, lil' brother for 'Ellie' the Meowscarada, among other ideas.**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
@@ -19,7 +19,7 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Dominant, loves Humans teens over Anthro boys](https://files.catbox.moe/f4x09y.jpg) | Mishka Blacklilly | -> An Anthro Grizzly Bear Cub, Mishka can be sweet but gets what she wants. Mostly Human teen boys lately, as she's developed strange new desires. Both as a companion and to explore the tingling heat that seems to get worse when she finds a cute one. Has a habit of snapping pictures of boys she likes with her new camera phone, but being a clumsy cub she often gets caught. Update 10/15 added an alt greeting and stuff about her being in the Girl Scouts to her defs ==V2 JB, alt greeting== Tighten up defs, expand char a bit more.->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/y4v03w.png)
+ ![Dommy Cub Grizzly Girl Scout!](https://files.catbox.moe/n0i2jp.jpg) |   ->Mishka Blacklilly<-   | -> An Anthro Grizzly Bear Cub, Mishka can be stubborn and usually gets what she wants. She has a penchant for Human teen boys. Common amongst her kind given the mixed society and schools. Learning to process her budding feelings/emotions as she reaches breeding age. Anthro Girl Scout camping trip this weekend! Will you join in on the fun as the only Human AND only male? ==V2 JB & alt greeting== More WIP Scout stuff->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ll63r3.png)
 -
  
 ***
@@ -87,6 +87,6 @@ Fem Fizz (League of Legends)(genderflip) - 10% - Planning
 Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
-![Sunny the punk ass lil' Raccoon Girl :)](https://files.catbox.moe/oq80re.png)
+![Bear-Chan](https://files.catbox.moe/o5yyz9.png)
 ![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg) ![Mishka selling cookies for Troop 0301!](https://files.catbox.moe/pna26o.jpg)
 ![More cheeky Mishka cute brat!](https://files.catbox.moe/mvwrt5.jpg)
