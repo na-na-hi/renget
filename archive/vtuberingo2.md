@@ -31,7 +31,7 @@ Nina Kosaka - https://youtube.com/watch?v=yzZOzgsORck&t=1h34m55s
 Athena Bambina  - https://youtu.be/5gxwOaLbMcY?t=11220, https://youtu.be/PZfEKi2fNzY?t=8053, https://youtu.be/qMFrg5ZoT1I?t=5589
 pinkbuta - https://youtu.be/6x5i4PhCZf4 (timestamps in comments)
 Nekomata Mel - https://www.youtube.com/watch?v=erZHk8EBGL0
-Ookami Mio - https://imgur.io/qgLNzh9
+Ookami Mio - https://www.youtube.com/watch?v=ALe94EEqKys & https://files.catbox.moe/56frl9.mp4
 Shiranui Flare - https://www.youtube.com/watch?v=9v61XbYySVs&t=21s
 Ouro Kronii -https://streamable.com/7i00rf
 Stella Luna - https://www.tiktok.com/@stellalunavt/video/7107761600722914603?lang=en

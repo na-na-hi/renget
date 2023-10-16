@@ -1,3 +1,12 @@
+#WELCOME TO HOLOCORP
+- Please hold on, your blood sample is being compared
+- Welcome Employee XXX. What do you wish to do today?
+	- [ ] Consult The database
+	- [ ] File a new entry
+	- [ ] To see this option: Clearance level 3 or higher is needed
+
+##Showing Database: 
+
 Name:Tokino Sora
 Ability: ''Wings of Freedom''
 Description: A normal highschooler who one day gained the ability. The wings seem to be extremely durable and can shoot feathers that penetrate even steel, they harden once they leave the main body or when used for defense. The fliying speed needs to be tested.
@@ -23,67 +32,67 @@ Danger Level: A
 Observations: While strong and durable, Sakura Miko lacks in intelligence and is easily tricked, thus making her a liability in some cases. In case of mental control or her going rogue, Power Dampners should be deployed as heavy fire and artillery pin her down. It is advised to field another ability user to keep her restrained
 
 Name: Hoshimachi Suisei
-Ability:  Shining Star
+Ability:  "Shining Star"
 Description: A popular idol who fights for humanity. In reality, a terminally ill girl who volunteered to assimilate herself with an alien lifeform. Both have since merged into a new entity, who has an ability to power up as long as people ''believe'' in them, boosting their strength, speed and resistance. The new entity, while in love with human culture, greatly lacks in empathy
 Danger Level:  A+
 Observations: The creature seems to have a deep love for humans, but lacks in empathy and is highly volatile. Depowering them with a smear campaign or power dampners plus the asistance of a super powered individual could work if they ever go rogue, but they will have to be put down.
 
 Name: Yozora Mel
-Ability: Crimson Feast
+Ability: "Crimson Feast"
 Description: Yozora Mel is a Vampire cryptid who has lived for centuries in human society. It is content to be left alone, and stays clear of conflict, but when provoked she can manipulate blood. Aside from that, she exhibits the usual strenghts and weaknesess of her kind
 Danger Level: E. (B if provoked)
 Observations: She is reciding on the program's facilities as a political prisoner, so she's not to be harmed less we risk endangering relationships with the night creatures. In case she proves to be a problem, she is to be flashed with UV lanterns to burn her, then a stake to the heart will kill her.
 
 Name: Shirakami Fubuki
-Ability: Kitsune no Yomeiri
+Ability: "Kitsune no Yomeiri"
 Description: Shirakami Fubuki is a Kemono with Fox traits. She is a diplomatic envoy from the fox Deities and as such, she is allowed to leave the facilities for religious rituals. Her ability allows her to summon fox-fire servants, who aid her in combat or deliver messages for her. Shirakami loves the human race and has spoken in their behalf many times.
 Danger Level: F (S)
 Observations: Shirakami is both a divine envoy and a close relative of the current fox god, harming her might plunge humanity into a war against Kemonos and The heavens. As such, it is imperative that her safety is guaranteed. Should the necessity arise, she can be killed by normal humans
 
 Name: Natsuiro Matsuri
-Ability:  Matsuri-Bayashi
+Ability:  "Matsuri-Bayashi"
 Description: Natsuiro Matsuri is a minor deity of festivals and dance. Her ability allows her to show up at festivals and bring good fortune to those. Aside from that, she's being protected upon her request.
 Danger Level: Non-Combatant 
 Observations: Natsuiro is a free spirit, and as such she's prone to sexual harassment and sudden mood swings, we ask personnel to please bear with her. The last person who tried to put her in her place was left dancing for three hours. Any God-killing measures are useful against her
 
 Name: Aki Rosenthal
-Ability: Nebula Dancer
+Ability: "Nebula Dancer"
 Description: Aki Rosenthal cannot be contained unless a power dampner collar is used on her. Her ability allows her to freely jump dimensions, so her information here is filled for archival purposes. When present in this dimension, she is allowed free roaming  as long as she doesnt bring anything with her 
 Danger Level: Non-Combatant
 Observations: She is not prone to disruptions or messing with staff, but we remind our personnel that ''getting dragged to another dimension'' is not a valid excuse for missing briefing or abandoning their post. Killing her as she emerges from a portal will deal with the issue if she ever goes rogue
 
 Name: Akai Haato
-Ability: Glimpse 
+Ability: "Glimpse Beyond" 
 Description: A normal highschool girl. Her ability allows her to Glimpse into the spider net, but she has no control over when or where it will activate. She is being contained upon her request, and is to wear her power dampner at all times. All personnel scorting her must inmediatly retreat and call a strike team where she to mention the arrival of ''something''
 Danger Level: SS
 Observations: Akai Haato is a victim and not a prisoner. She is not to be interrogated and left alone should she desire it. All arachnids in her victinity should be disposed of. Terminating Akai Haato is not an option
 
 Name: Oozora Subaru
-Ability: Mental.Physical.Passion
+Ability: "Mental.Physical.Passion"
 Description: Oozora Subaru is a highschool girl with the ability to strengthen herself to superhuman levels. She is not contained and is currently living a monitored life outside of facilities (since her powers are non-threathening). She seems to use her abilities mainly to help other people and seems to be able to talk to ducks, but that last theory is yet to be proven
 Danger Level: F
 Observations: her super-human powering up can easily be dealt by a team of field troops and she lacks real-fight experience. She's cooperative enough, so she should be left alone. 
 
 Name: Minato Aqua
-Ability: Silent Servant
+Ability: "Silent Servant"
 Description: Minato Aqua is a higschooler working as a live-in Maid. Her ability allows her to turn invisible. Her demure character and clumsy nature make her completely harmless and her file here exists just for her connection to Murasaki Shion
 Danger Level:  Non Combatant
 Observations: None. The file of her wetting herself has been expunged and the person who archived it has been punished. Please refrain from conducts like this. Any capable human should be able of disposing her
 
 Name: Nakiri Ayame
-Ability: Ao No Oni-Aka no Oni
+Ability: "Ao No Oni-Aka no Oni"
 Description: Nakiri Ayame is Oni royalty and as such, is to be treated like a diplomatic envoy. Her ability summons two indestructible swords, one that causes spiritual damage and the other that causes physical one. She is allowed to come and go at night and must have a bodyguard at all times
 Danger Level: C
 Observations: While the Onis are not as numerous or as powerful as other supernatural beings, they are influential. Their princess should be treated with respect. Were she to go rouge, the priority is to detain her without dealing major injuries, failed that, she will be terminated
 
 Name: Yuzuki Choco
-Ability: Passion
+Ability: "Passion"
 Description: Yuzuki Choco is a succubus currently roaming the world. She's a low priority target, since she's exceptionally powerful for her species and has proven to be able to enchant women too, but is content with just feeding herself. Her ability, Passion, allows her to extract information from any target she has recently engaged in sexual activity. Despite her reluctance to kill, we remind employees that she's still a succubus and thus, is draining life force. 
 Danger Level: F
 Observations: There is a chance she might expose the world to demons if she's not checked, but aside from that she's a harmless creature who takes care of not draining too much. Currently disguising herself as a school nurse, strings were pulled so she was assigned to a school filled with abnormal individuals. Succubus are easily dealt with gunfire
 
 Name: Murasaki Shion
-Ability: Thaumathurgy
+Ability: "Thaumathurgy"
 Description: Murasaki Shion is an amazing witch who can cast any spell she desires thanks to her cool ass magic. She should be left alone unless you want to give her money. Also stop watching Aku-tan
 Danger Level: SDD (Super Duper Dangerous)
 Observations: File has been tampered with thanks to mind control. Murasaki shion, luckily, just wants to be left alone and is prone to cooperation, but she's not to be trusted. A power dampner will do the trick,should she grow arrogant
@@ -95,43 +104,43 @@ Danger Level: SS
 Observations: She cannot sustain her possesion from long periods of time, so should she cross into our world, a strike team is to confront her until her time is up.  If she's into our world, consider all rooms compromised as they could host spiders. Only God-Killer weapons above B classification are able to harm her
 
 Name: Ookami Mio
-Ability:  Horologium
+Ability:  "Horologium"
 Description: Ookami Mio is a Kemono with Wolf features and an envoy of the star deities. Her ability allows her to divine the future and predict outcomes, altough she is not able to peek multiple years into the future. She's calm and friendly, and shows no ill will to humanity. All of the privileges mentioned to Shirakami Fubuki are applied to her.
 Danger Level: Non-Combatant
 Observations: The cosmos deities do not care about humanity, but insulting them by harming their diviner is a bad idea.  She's weak while consulting the stars, so even non combatants could take her out
 
 Name: Nekomata Okayu
-Ability: Okayu is a Cat
+Ability: "Okayu is a Cat"
 Description: Nekomata Okayu is a reincarnated Nekomata and not a Kemono with Cat traits. Her ability in itself, is what allowed her to reincarnate after her death as a cat. She lives in the facilities and personnel is allowed to pet her
-Danger Level:  Null
+Danger Level:  Non-Combatant
 Observations: While Okayu acts like a cat, she can and SHOULD consent to anything she's asked to.  Getting Beat up by Korone is your punishment. Okayu has inherited the same weaknesses as us humans, so she's easily dealt with
 
 Name: Inugami Korone
-Ability: Dog!
+Ability: "Dog!"
 Description: Similar to Okayu, Korone is a reincarnated dog who managed to adopt a humanoid form thanks to the prayers of her old owner.  She lives in the facilities and is authorized to beat up personnel missbehaving, but is generally friendly
 Danger Level: F
 Observations: Korone doesnt seem to like fetching stuff, but she does like running around. Despite her ability to box, Korone doesnt hold a candle to combat-trained personal
 
 Name: Usada Pekora
-Ability: Rabbit Pouch
+Ability: "Rabbit Pouch"
 Description: Despite her claims, Pekora isnt royalty nor is she an alien and she's just a Rabbit-Kemono playing a character. Her ability allows her to produce virtually anything from the pouch in her dress. She is to be monitored, seeing as she's not particularly enthusiastic about leaving facilities
 Danger Level: B
 Observations: When confronted, Pekora rarely decides to fight and is clearly a coward, however she's still capable of major destruction. A sniper bullet will deal with her easily enough.
 
 Name: Hoshou Marine
-Ability: Set Sail! 
+Ability: "Set Sail! "
 Description: Originally a member of the organization, she came across a treasure chest that sucked her into a world. Once she was back, her memories and personality were altered and she's now a pirate. Her ability allows her to summon a pirate ship, with its own ghost crew, that can navigate on any terrain. When she's on the ship, she's surprisingly capable
 Danger Level: C
 Observations: Despite her potential ability to breach containment, Hoshou Marine is cowardly and hedonistic and she cares little of conflict. She is allowed to roam the seas as long as she's monitored by one of our satellites. Sinking her ship or taking her out should suffice if she ever goes rogue
 
 Name: Shiranui Flare
-Ability: Smile & Go!
+Ability: "Smile & Go!"
 Description: Shiranui Flare was accidentally brought into our world by a mistake of Aki Rosenthal. She is a half Elf who has the ability to summon twin guns with limitless ammo. These guns can change their properties of the bullets should she desire. Shiranui Flare harbors no ill will to humanity and has come to think of the earth as her new home. Thanks to her otherwordly constituion, she's several times faster,stronger and durable than humans
 Danger Level: Null
 Observations: Both her and Shirogane Noel are loyal to the organization, and are allowed free roaming through the world. Poison will easily deal with her
 
 Name: Shirogane Noel
-Ability: Critical Mass
+Ability: "Critical Mass"
 Description: Shirogane Noel was accidentally brought into our world by a mistake of Aki Rosenthal. She's a superhuman fighter with the ability to inflict ''Critcal Damage'', meaning that any hit dealt to a enemy's weakpoint (or one that breaks their battle stance) will deal devastating damage. Shirogane Noel harbors no ill will to humanity and has come to think of the earth as her new home. Thanks to her otherwordly constitution, she's several times stronger than any super human in the organization
 Danger Level: Null
 Observations: Both her And Shiranui Flare are loyal to the organization, and are allowed free roaming through the world. Poison will easily deal with her
@@ -146,7 +155,7 @@ Observations: No comment
 Name: Tsunomaki Watame
 Ability: A lamb's respite
 Description: Tsunomaki Watame is a Sheep-Kemono with the ability to sing a lullaby which puts people to sleep and heals their non-lethal injuries. She's a pacifist and is happy to cooperate as long as she's helping. She can also talk to other sheep, so she's allowed to do work on rural areas as a sheep herder
-Danger Level: Null
+Danger Level: Non-combatant
 Observations: Tsunomaki Watame likes Potato chips. If it were necessary to dispose of her, we ask for it to be humanitarian and painless.
 
 Name: Himemori Luna
@@ -177,7 +186,7 @@ Name: Kiryu Coco
 Ability: Dragon of the east
 Description: Kiryu Coco was the infamous leader of the Kiryu Clan, an armed group that aimed to control Japan. She acted as an agent for HoloCORP, before finding death in the battlefield.
 Her ability to powerup as she raged, combined with her draconic ancestry, made her a superb fighter
-Danger Level:  TERMINATED
+Danger Level:  T E R M I N A T E D
 Observations: HOLOCORP is no longer asociated with the Kiryu clan. Infighting, mass suicides, retirements and claims of a reincarnated leader has torn the organization apart
 
 Name: Mano Aloe
@@ -187,20 +196,20 @@ Danger Level: T E R M I N A T E D
 Observations: Her death greatly affected her unit. 
 
 Name: Shishiro Botan
-Ability: Natural Selection
+Ability: "Natural Selection"
 Description: Shishiro Botan is a "supreme lifeform", a metahuman genius that is only born once every certain years. Her extensive set of skills is limited by her kemono mortality and her laid back personality. Her cooperation with HoloPro has let to the creation of the NEPOLABO squad, her own strike unit
 Danger Level:  A
-Observations: Shishiro Botan knows the organization, how it operates and the people keeping track of her. If she were ever to go rouge, protocol "Lance of Longinus" is to be enacted, killing the entire NEPOLABO unit.
+Observations: Shishiro Botan knows the organization, how it operates and the people keeping track of her. If she were ever to go rouge, protocol "Sword of Damocles" is to be enacted, killing the entire NEPOLABO unit.
 
 Name: Yukihana Lamy
-Ability: Chilling Touch
+Ability: "Chilling Touch"
 Description: One of the last Snow elfs alive and part of the Yukihana royal family, she's a cunning Ice witch. Behind her facade of hedonism, lies the mind of a manipulator. 
 Danger Level: S 
 Observations: Refer to Shishiro Botan. Power dampners are a must if we were to ever engage in a fight with her
 
 Name: Omaru Polka
 Ability: "Vesti la giubba"
-Description: Omaru Polka was touched by Chaos, and as such, her ability includes altering reality to create situations seen in clown acts. This has left her mentally scarred, and is prone to mood swings and violent tendencies that end in comedic acts
+Description: Omaru Polka was touched by "The Nihil", and as such, her ability includes altering reality to create situations seen in clown acts. This has left her mentally scarred, and is prone to mood swings and violent tendencies that end in comedic acts
 Danger Level: A
 Observations: While virtually invincible, she cant exactly kill people either, her ability being far more suited to ruin interference for her teammates. It is theorized that a "Nietzche Tetrahedron" could contain her abilities long enough to kill her
 
@@ -211,13 +220,152 @@ Danger Level: SS
 Observations:It its not know who was the person who created the Gu Ritual that originated Momosuzu. Once HoloCORP opened the crypt, they found a criying infant amongst a sea of bodies. It is advised that a Godkiller weapon is deployed at once, avoiding risk
 
 Name: Takanashi Kiara
-Ability: The first Light
+Ability: "The first Light"
 Description: One of the founding members of the organization, Kiara is an eternal phoenix that has aided HoloCORP through the ages.
 Danger Level: Null
 Observations: Once Kiara dies, she reincarnates in a random part of the world. Even if every Kiara is different and has a different personality, they all share a desire to help the organization, and will fight to the bitter end for it.
 
-Name: 
-Ability: 
-Description: 
-Danger Level: 
-Observations:
+Name: Gawr Gura
+Ability: "Reflection"	
+Description: The princess of the kingdom of Atlantis. She comes and goes, acting as a diplomat. Her ability allows her to split into two beings, with wildly different personalities. Perks applied to Shirakami Fubuki also apply here
+Danger Level: E (A)
+Observations: Gawr Gura herself is at a metahuman level, but angering the first monarchy able to unify the Oceans and the Depths its not a good idea.
+
+Name: Ninomae Ina'nis
+Ability: "Otherwordly Touch"
+Description: The person Ina'nis was before commuting with "It who Stalks"  was scrubbed from the akashic records, and as such, any information here is based around her current self.
+Ina'nis is a High Priestess of It who Stalks, serving the abherrant being with blind faith. Her patron grants her control over profane arts, in exchange for blood. She is to be hunted on sight
+Danger Level:  S
+Observations: Do not believe her lies.
+
+Name: Calliope Mori
+Ability: XIII- "The Death"
+Description: The new contractor of the Death Arcana, before ==EXPUNGED== stepped off. She's an independant actor, but is willing to work with HoloCORP.
+Formerly a Human, the pact of The Death Arcana has transformed her into a reaper, greatly enhancing her combat abilities and allowing her to phase through walls
+Danger Level: A 
+Observations: The pact of the Death Arcana, while strong, requires her to play by the rules of her contract. Even if she dislikes HoloCORP, she can be reasoned with. A "Nietzche Tetrahedron" could, in theory, sever her connection with her patron
+
+Name: Amelia Watson
+Ability: "On Borrowed Time"
+Description: One of the founding members of HoloCORP. Amelia Watson is a detective with the ability to stop, rewind and jump through time as long as she's using her stopwatch. Amelia spends most of her time in the field, searching for anomalities.
+Danger Level: NULL
+Observations: Watson is not a metahuman, the stopwatch belongs to the Warden of time, and its unknown why she was given custody over it
+
+Name: Airani Iofifteen
+Ability: "The visitor"
+Description: Airani Iofifteen comes from beyond our cosmos, and is simply a visitor of another galaxy. She has gladly allowed us to study her UFO, as long as she's allowed to research the fine arts of the world. Her ability allows her to shapeshift into a human girl
+Danger Level: F
+Observations: While the weapons she carries are advanced beyond Belief, she's not really a threat. Some of the extraterrestial bacteria she carried, however, proved quite a challenge to neutralize
+
+Name: Ayunda risu
+Ability: "Thaumaturgy"
+Description: The squirrel witch is an annoyance that uses her magic to make the lifes of Covercorp employees harder. She has recently casted a spell that forces people to write whatever is on their mind, so honestly she should fuck off
+Danger Level: Fucking Annoying
+Observations: I hate her stupid smug face, i hate magic so much. You can shoot a gigant bug in the face, how do you deal with this shit?
+
+Name: Moona Hoshinova
+Ability: "XVIII- The Moon"
+Description: Moona took the contract of the Moon Arcana to save her village of starvation. Now she serves the Agenda of The World, a far stronger Arcana. Her abilities turned into a superhuman with the ability to create illusions
+Danger Level:  A
+Observations: The Moon has robbed Moona of her emotions, but its not posible to save her. Her contract of the Moon, allegedly, is to "Protect her master of unknown enemies". Godkilling weapons or A "Nietzche Tetrahedron" could probably help
+
+Name: Tsukumo Sana
+Ability: "The universe that makes up all creation"
+Description: What little is known of Sana, is recounted by the Guardian of Civilization and the Keeper of Nature. Sana was a celestial who had a fondness for the Milky Way, and ultimately gave her existance to prevent incursions from other planes of existance
+Danger Level: T E R M I N A T E D
+Observations: Records of Sana are the only thing left from her. The Guardian of Civilization made sure to spread her her work and legend around the globe
+
+Name: Nanashi Mumei
+Ability: "The spark of Prometheus"
+Description:  The Guardian of Civilization and one of the founding members of CoverCORP. Nanashi Mumei is a primal entity, the concept of Civilization in our world. As long as there's humans breathing, as long as there's fight in all of us, she will lead us
+Danger Level:  NULL
+Observations: Mumei has influenced but never interfered in Any culture. She has let us prosper, and has seen us kill each other. Despite all of that, the fact that she's still on our side, shows that things will be alright
+
+Name: Ouro Kronii
+Ability: "The Wheel of time"
+Description: The Warden of Time is uninterested by mortal and divine triflings, and even if she were, Total mastery and Domain over time has felled many great foes. Time is unrelenting
+Danger Level: NULL
+Observations: While cordial with her peers, she's utterly uninterested by mortals and inmortals. It is believed because she has already seen every event in this timeline
+
+Name: Ceres Fauna
+Ability: "The garden of Eden"
+Description:  Ceres Fauna is the keeper of Nature, and her powers include the total obedience of the natural world. While Cordial with HoloCORP, she's not above strongarming entire goverments to change their politics regarding natural life. She's a pacifist, and does not engage in combat
+Danger Level:  SSS
+Observations: Many Believe that she would grow powerless if the world were to grow less green. Her statement was simple: "If pests were to completely infest one of my beloved plants, feasting on it so much that they kill it....Well, i would be sad...but growing another plant just requires time and patience. The pests, however, should know their place"
+
+Name: Hakos Baelz
+Ability:  "At the roll of a Dice"
+Description:  The embodiment of Chaos is not to be trusted. Even if she gifted the Godslaying weapons to the mortals, she also opened the stars and allowed the Arcanas in our world. The Chaos only wants something: Entertainment
+Danger Level: SSS
+Observations: She's not violent nor is she antagonistic. Hakos Baelz only wants to see "interesting stuff", and in her eyes, we are the ones to provide said entertainment
+
+Name: Kureiji Ollie
+Ability: "XII- The Hanged Man"
+Description: Olivia Kureiji, the original contractor of The Hanged Man, failed to uphold the terms of the contract, and an encounter with the Death Arcana turned her into an undead Wraith. While not specially powerful, she's unrelenting and undiying, being able to reform herself even from atom deconstruction. She's wholly devoted to The World, as her servitude to that Arcana keeps her here.
+Danger Level: B
+Observations: Some of her body parts were retrieved to try and study them, but they seem to burst into flames once she regrows new ones. After she was desintegrated, a burial site in Indonesia was disturbed, and from there emerged Ollie once more. It is theorized that she will die if we remove "The World"
+
+Name:  Pavolia Reine
+Ability: "XXI- The World"
+Description: Pavolia Reine, an excentric Millonaire, runs a company similar to CoverCORP, it being "Peafowl Industries". It is theorized that her contract includes World domination, and her antagonistic Actions have not helped her case. Whatever its the case, the contract allows Reine multiple abilities, with the strongest being the ability to use the powers of those subordinated to her, although a very weaker version
+Danger Level: S
+Observations: While CoverCORP and Peafowl Industries are locked in perpetual red tape, under the table confrontations are far and beyond. We'll need a plan to take her out 
+
+Name: Anya Melfissa
+Ability:  "The Masterwork"
+Description: The masterpiece of the Legendary blacksmith ==EXPUNGED==, Anya is an artificial human, able to manipulate minerals around her to form weapons. These weapons act like an extension of her will. Anya is to be left alone, for her relationship with humans has been greatly damaged
+Danger Level:  A
+Observations: Not much is known of Anya, all we know is that she's one millionth iteration of the design. A journal with the entry "They killed him. They all want a weapon. All i want is to be left alone" was found in the workshop
+
+Name: Kobo Kanaeru
+Ability:  "Blessed be the people"
+Description: A Nature shaman, Kobo is a natural born magical genius, albeit just a kid. The village's initial worship of her has let the kid become spoiled and prone to tantrums, but with correct education, she will become a fantastic mage
+Danger Level:  Non-Combatant (B)
+Observations: While Kobo's potential is promising, we ask that she's given proper breaks and enough time to play, for she's still a child. Agents that do not comply, will soon find how annoying is to have a raincloud  follow you indoors
+
+Name: Vestia Zeta
+Ability: "A gentle Whisper"
+Description: Renowned Master Thief, Zeta works for whoever is willing to pay, as her ability allows her to conceal herself even in plain sight. ASide from this, she's barely metahuman level and in general, considered a nuisance
+Danger Level: C
+Observations: While Zeta knows that no money is worth crossing CoverCORP, she's still easily dealt by metahuman personel
+
+Name: Kaela Kovalskia
+Ability: "In search of Perfection"
+Description: A Blacksmith whose ability allows her to work with any material, which in turns makes her the best craftswoman in the world. Combined with her Minotaur ancestry, Kaela can spend hours working on the forge before even feeling bored
+Danger Level: Non Combatant
+Observations: While many have approached Kaela in search for stronger weapons, she has refused to work on any of them. She has stated that " Projects should be fullfilling and interesting. There is nothing interesting in robbing someone of their life"
+
+Name: Koseki Bijou
+Ability: "Kaleidoscope of emotions"
+Description: A man made golem made with Ancient thaumaturgy, Bijou has the ability to feel and amplify emotions, which slowly turned people crazy over her.
+On top of it, when it was discovered this also applied to energy, she was used as a weapon of war against her will.
+She was banished to the containment unit in an attempt to keep her protected, but has recently escaped and joined the terrorist group ADVENT
+Danger Level: A
+Observations:  Its believed that Koseki is not a truly evil being, but the constant abuses by the humans of the world has cornered her. We theorize that destroying her in direct combat, and then crushing her core, will be enough to kill her
+
+Name: Nerissa Ravencroft
+Ability: Symphony of Agony
+Description: Last survivor of the Ravencroft family, and a exceptionally strong Banshee. Her family's antagonism against HoloCORP, which ended the life of them,  has fueled her vengeance. While initially contained and awaiting execution, she was freed and is now part of ADVENT. Her sound magic, razor sharp feathers and blinding speed make her a formidable adversary
+Danger Level: A
+Observations: It seems that she's focused on ending Kiara's life, once and for all, since she was the one who ordered her family's execution. Despite her magic prowes, metahumans could deal with her
+
+Name: Cerberus Abyssgard
+Ability:  "Never one, without the other"
+Description: Cerberus was the guardian of Hell who revolted against her masters.  As a punishment,She was split into three different entities (Fuwawa,Mococo and Pero Abyssgard) and sent to guard the containment unit. In there, she took contact with ADVENT and collaborated in the escape, deserting from her post
+Danger Level: C (B)
+Observations: While she can reform for short periods of time, every part of her its a decent fighter on their own, specially in group fights since they can all coordinate their brains. Isolating and killing them one by one would deal with them
+
+Name: Shiori Novella
+Ability:  "It. Is. Watching." - "The book of Revelation"
+Description:  An acolyte of "It who watches", Shiori Novella wishes to plunge the world into her master's embrace. Her ability allows her create eyes that relay information to her, altough she has to concentrate on them. For the sake of her master, she has orchestrated a jailbreak, created ADVENT and even stole "The Book of Revelation"
+Danger Level: S (C)
+Observations: While Shiori herself is not as dangerous, her cunning patron and the stolen book more than compensate. The book is an anomaly that allows to summon 12 different creatures, which change  depending on who's holding the book"
+Shiori's known ones are the following
+
+Number 1: Yorick, the silent companion
+
+Number 3: Moirai, the Scissors wielding ghost
+
+Number 8: El Cid, The champion of the peninsula
+
+Number 12: NovelKnight, The servant the queen loved

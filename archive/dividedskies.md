@@ -55,6 +55,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/4xyhcs.png) | Shula | A so-called Loreweaver in training. Hailing from the Arabian-inspired lands of Nadira, Loreweavers have the power to bring stories to life with their magic. However, there are some stories that are deemed too dangerous to be told. And Shula got her hands on one such story... | [Catbox](https://files.catbox.moe/4xyhcs.png), [CHUB](https://www.chub.ai/characters/Alpacalotta/shula-ba09f986/)
  ![](https://files.catbox.moe/tqqdej.png) | Thysia | A girl who lives for the party, but her appetites trend towards the bloody. She bites...too much! | [Catbox](https://files.catbox.moe/tqqdej.png), [CHUB](https://www.chub.ai/characters/knickknack/thysia-411fbd4d)
  ![](https://files.catbox.moe/v9nore.png) | Ridge | There is no honor among thieves, especially in a city that's sinking into the abyss. Comes with two greetings. | [Catbox](https://files.catbox.moe/v9nore.png), [CHUB](https://www.chub.ai/characters/knickknack/ridge-289e4387) 
+ ![](https://files.catbox.moe/ji1nr7.png) | Wink | A witty cleric whose past is a mystery even to himself. | [Catbox](https://files.catbox.moe/ji1nr7.png), [CHUB](https://www.chub.ai/characters/Alpacalotta/wink-986d2f0e) 
 
 ##Progress Reports:
 For Transparency here are the Progress Reports:

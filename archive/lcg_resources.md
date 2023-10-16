@@ -40,7 +40,8 @@
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
 
 ##  Story
-* [Limbus Company Story Viewer](https://retcons.github.io/limbus-storylogs/)
+* [Limbus Company Main Story Viewer](https://retcons.github.io/limbus-storylogs/)
+* [Identity Story Viewer](https://retcons.github.io/limbus-identitylogs/)
 * [Uptie Tier 3 Character Stories](https://www.youtube.com/watch?v=YglNNFCEzRQ&list=PL4enXqMv4Wy3OXVs-gSpGFuemkzXfHunk&pp=iAQB)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
@@ -129,4 +130,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/28/23: Added link to Other Kots MEGA
 10/4/23: Added new Drawpile album link
 10/6/23: Added alternative Lobco artbook link
-10/10/23: Added LittlePMStuff link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/10/23: Added LittlePMStuff link
+10/16/23: Added identity story viewer link ![lol&](https://files.catbox.moe/7dmu76.png)

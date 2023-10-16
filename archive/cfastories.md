@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #35 (Tuesday, 10 October 2023, 20:00 UTC)<-
+->Last updated on thread #36 (Monday, 16 October 2023, 20:15 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -57,6 +57,13 @@ https://archiveofourown.org/works/39383535
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
 ---
+###60291550 Anonymous
+>You're lost in the woods, calling out for help, unaware of the dastardly and unfortunate date it is to get lost on.
+>It's late at night, your phone has no signal, you have only a flashlight, and nobody is going to come help you.
+>Until you hear a noise... out of nowhere, footsteps come creeping towards you, perhaps its help?
+>Alas, it's Averi?!? Holding an Axe and wearing a mask! What a fright!
+[![Averi: averi-friday-13th.jpg / 1697201937845.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1697/20/1697201937845.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1697/20/1697201937845.jpg)
+
 ###59115592 Anonymous
 First time trying to write
 >You rest up against a tree completely exhausted
@@ -453,6 +460,13 @@ Overall, I recommend giving it a try.
 [![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
+####60365200 Anonymous: Chicken Manicotti
+`chicken manicotti review:`
+i fucked up and it wants out
+progress: https://files.catbox.moe/ea6pcm.jpg
+how do i make it stop
+[![Chicken Manicotti: agh.jpg / 1697419425364.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1697/41/1697419425364.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1697/41/1697419425364.jpg)
+
 ####60023066 Anonymous: Sałatka cebulowa
 `Sałatka cebulowa`
 Do you like prymat? What about allspice? Fuck you, Poland has you covered, and you better improvise half the ingredients and chuck some random shit into it to fuck up the taste, it's the law. This shit will fuck you up harder than Зeлeный cyп, Because half of this shit is onions. You're gonna cry, you're gonna be gassy, you're gonna want to throw up, this is one of the better polish foods too. Poles don't eat pierogis every day, y'know.
@@ -519,6 +533,10 @@ Most dsperate alcoholics run to what appears in Super Bowl adverts: Bud Weiser, 
 !!! info
     ##/Chic-Fil-A/ Food Recipes
 ---
+#####60368998 Anonymous: Americanized Chinese Chicken
+`Americanized Chinese Chicken`
+Chinese cuisine has uncountable ways to prepare chicken, and many regional variations. If she is making Americanized Chinese food, odds are that it's probably going to be boneless skinless chicken thighs sliced up, coated with cornstarch, and browned rapidly in sesame oil with minced ginger and chopped garlic and onions, then put in some broccoli, fresh peas in the pod, and carrot slices go in, maybe with some shredded cabbage, and get stir-fried rapidly and warmed through without overcooking them. Once they're warmed through and the broccoli is just starting to soften and blanch a tiny bit, they get coated with that Chinese takeout brown chicken sauce that is a mixture of oyster sauce, shiaoxing wine, and chicken stock, with just a pinch of brown sugar, simmered a bit and thickened with cornstarch. Coat with the sauce, heat through, put it on a platter and serve it up with rice or maybe noodles. This is more Cantonese than anything else, and it's the kind of thing they serve at a gorillion Chinese restaurants in the US and Canada. It's a nice, nourishing, savory dish as-is, and the adventurous can add hot peppers.
+
 #####59080339 Anonymous: Chicken with Adobo Seasoning
 `Chicken with Adobo Seasoning`
 Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.

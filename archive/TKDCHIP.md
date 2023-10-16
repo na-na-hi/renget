@@ -249,3 +249,9 @@ https://files.catbox.moe/he33cu.mp4
 https://files.catbox.moe/61nmkr.mp4
 >Observers report 20+ air strikes within central Gaza city in the last minutes against roads and supply lines
 https://files.catbox.moe/ik43sv.mp4
+>A C-17 military transport aircraft belonging to an unknown country was spotted firing flares while flying over Tel Aviv as Palestinian factions fired rockets towards Central Israel (added oct 16th)
+https://files.catbox.moe/k487we.mp4
+>Al-Mayadeen correspondent, South Lebanon: Shooting and a sweep operation with machine guns from inside the Metulla settlement towards the border fence with Lebanon.
+https://files.catbox.moe/2ijc42.mp4
+>Hezbollah publish a video saying they “targeted a Zionist tank in Al-Jardah Hill in the Al-Dhahira area with guided missiles and achieved a direct hit.”
+https://files.catbox.moe/h9310v.mp4
