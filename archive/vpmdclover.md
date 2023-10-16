@@ -246,6 +246,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
+	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -587,6 +588,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
 * {||} [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 * {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
+* {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

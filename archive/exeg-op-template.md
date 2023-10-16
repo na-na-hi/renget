@@ -23,9 +23,6 @@ https://www.youtube.com/watch?v=T339A8wlzgs
 https://www.youtube.com/watch?v=pRL0Rhyrz9g
 https://www.youtube.com/watch?v=pt2qpC2Ko-I
 
->/exeg/ OC Document
-https://docs.google.com/document/d/1IMDuGnREYJksMrhrAVnY6N6M9CeDWXa5P_bPrDMxlu0/edit?usp=sharing
-
 >/exeg/ Archives
 https://rentry.org/exeg-images-archives
 

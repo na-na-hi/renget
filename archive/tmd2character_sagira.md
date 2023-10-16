@@ -12,7 +12,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 7 | **Experience to Next Level:** 35/70
+**Level:** 7 | **Experience to Next Level:** 65/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 192₽ | **Glorious Gold:** 0 Bars
 
@@ -51,7 +51,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 points to spend.
     0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

@@ -118,3 +118,49 @@ Object Manipulation Quirk
 -Extra: Weight Limit x2
 
 21 Points
+
+!!! note
+	**Quirk:「No Tricks, No Gimmicks」**
+
+	Type: Emitter
+
+	Description: A dual quirk. It grants the ability to heal damage dealt to both the user and others, as well as summon the White Rabbit, a humanoid battle construct in the shape of a bunny girl, with superhuman strength, speed and durability. If you have a hat, the White Rabbit can hide inside !
+
+Type: Emitter/Transformation
+Function: Rejuvenation
+Method: Stockpile
+Range: Short
+Speed: Fast
+
+18 Points
+
+Construct
+Type: Emitter
+Material: Complex
+Personality: Mirror
+Control: Complete
+Duration: Complete
+Size: Medium
+Range: Medium
+Extras: Feedback
+
+11 Points
+
+
+!!! note
+	**Quirk:「Black Layer」**
+
+	Type: Mutant
+
+	Description: A subdermal layer that is both highly durable and malleable. It can be shaped into tendrils, spikes and other forms, sprouting from beneath the user's skin !
+
+Type: Mutant/Natural Weapon
+Variable
+Organic
+Melee
+Blunt
+Slashing
+Piercing
+Mods
+
+19 Points

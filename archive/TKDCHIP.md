@@ -1,5 +1,5 @@
->OLD, BUT GOOD KINO COMPILATION FROM PAST HAPPENINGS:
-https://litter.catbox.moe/z5e5ir.mp4
+>VERY OLD. pissreal jewrats snipe child for fun
+https://files.catbox.moe/42o36w.webm
 >OLD. Hamas threat for one hostage execution livestreamed for targeting innocent civies
 https://files.catbox.moe/lko5cc.mp4
 >Hamas paraglider training kino
@@ -237,3 +237,15 @@ https://files.catbox.moe/4a1hl0.mp4
 https://files.catbox.moe/o2jpbk.mp4
 > Alleged the first usage of laser anti air systems by Israel
 https://files.catbox.moe/9eyqky.mp4
+>Al-Qassam Brigade storming settlements, retaking important checkpoints and controlling entire areas during the al-Aqsa Flood Operation that started on Shabbat (Never Forget ), 7th of October 2023
+https://files.catbox.moe/5z1i0n.mp4
+>Motorbike combat kino, shoots rpg dangerously close to friend 7th of Oct. related to above ^
+https://files.catbox.moe/3oj1v8.mp4
+>Rockets over Tel Aviv, 14th Oct.
+https://files.catbox.moe/9zwcam.MP4
+>The IDF mistakenly kills a settler in Ofakim, near the Gaza Strip; After they thought he was a Palestinian fighter
+https://files.catbox.moe/he33cu.mp4
+>Palestinians Show Solidarity Outside Gaza Hospital: "Gazans declare they will never leave Gaza unless dead, and will never accept to live as refugees!"
+https://files.catbox.moe/61nmkr.mp4
+>Observers report 20+ air strikes within central Gaza city in the last minutes against roads and supply lines
+https://files.catbox.moe/ik43sv.mp4

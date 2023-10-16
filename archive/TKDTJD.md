@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=mMaQn6eBroY
 https://www.youtube.com/watch?v=W4gDfSNMRx4 
 > Inside the HAMAS Operations Order from Operation Al-Aqsa Flood
 https://www.youtube.com/watch?v=RvYwfl7dgTY 
+>How Israel Censors the Internet
+https://youtu.be/4xl30Re1EUI?si=_kIYd7HZ7AISdG6O
 
 
 >TELEGRAM NEWS LINKS

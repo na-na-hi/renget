@@ -11,7 +11,7 @@ My partner Sneasel and I had been part of the Clover Guild for over four months 
 
 Sneasel smirked. “Never knew you were into rocks, partner.”
 
-“I-I’m not, I... Just pick up the rock.”
+“I-I’m not, I... Look, just pick up the rock.”
 
 With a chuckle, Sneasel reached down and plucked the round stone off the ground. Holding it in front of her face, she said, “Sure doesn’t look special to me.”
 
