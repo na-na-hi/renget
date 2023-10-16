@@ -1,6 +1,6 @@
 # Switch Hacking Is Easy
 ***
-
+!!! danger Do not update to firmware version 17.0.0 yet, read the following [Tweet for more information](https://twitter.com/SciresM/status/1713756953418346512) 
 [🦝](https://www.youtube.com/watch?v=tKBIrwuvPeg)|Guide | Link
 :--: | -- | :--:
 **1**| Getting Started | [View](https://rentry.org/Getting_Started)

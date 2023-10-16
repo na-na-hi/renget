@@ -419,3 +419,4 @@
 07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://archive.ph/HgzRV)
 07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.ph/hfbHH)
 09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.ph/keLl0)
+10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.ph/KCu83)

@@ -19,7 +19,7 @@ Removed "Quick Coom" prompt item. Temp has been increased, however feel free to 
 15 Oct - v1.41. Very minor changes, aimed at minimizing how much Claude tries to advance the scene.
 
 16 Oct - v1.5. Further refinements in <objectives>, telling Assistant to focus on 1 or 2 micro scene advancements rather then 
-multiple.
+multiple, and then reinforcing this 
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***

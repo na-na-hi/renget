@@ -509,3 +509,55 @@ This is so funny to me, as some kind of instinctual hold-over
 God damnit, went just over the character limit in the first post
 
 ---
+Becoming a Saltlick by anonymous
+
+![](https://desu-usergeneratedcontent.xyz/trash/image/1649/58/1649581302320.jpg)
+
+This is what people mean when they say 'getting lost in the mountains'. 
+
+>*Muwah* *Slrup*
+>You'd always loved hiking in nature
+>especially as a way to deal with your on-and-off depression
+>*Lick lick* "Mmmph~!"
+>you were lucky enough to live near some gorgeous national parks in Colorado
+>nothing really cleared your mind quite like a relaxing hike through that quiet rocky terrain
+>*huff... huff* "Ah!" *muwah*
+>You never really know where you might end up or who you might meet when you go out exploring; but it was always sure to be an adventure
+>tonight seems to have proven no different, after you met Trent, Matt, and Leslie
+>"Mmmph!" you moan into Matt's mouth as Leslie's warm maw brings you to orgasm
+>your tongue is limply pushed around your mouth by Matt's flatter, more abrasive muscle as you spasm
+>the sandpaper texture of Leslie's tongue sends jolts of pleasure through you as it laps the underside of your shaft, trapped in the depths of his stretchy throat
+>you'd met the trio of goats while going a little off trail at one of your favorite spots
+>an older looking gay couple and smaller feminine tag-along who you honestly thought was their niece at first
+>until the small goat had opened his mouth to invite you back to their tent to come smoke with him and his "partners"
+>one thing led to another, and well...
+>"Yer pretty noisy for a saltlick, ain'tcha?" Trent says as you curl your arm under his muzzle and grip the fur at the side of his face
+>the muscular goat pulls you closer into his chest, and grinds his member against your cheeks as you recline in his lap
+>the feel of his smooth shaft gliding against your hole the only other distinct sensation besides the fur and tongues assaulting you from all sides
+>the noise of moans and busy mouths join the chirping of cicadas and peaceful crackling of the campfire in the night
+>Matt breaks his kiss, just in time for you to let out another lurid moan as Trent runs his tongue up the side of your neck
+>almost no part of your body has been left untouched from their prolonged tongue bath
+>your bare skin turning sensitive and pink under their rough tongues
+>you're left gaping like a fish as Leslie begins moving again, his velvet mouth sliding up and down your overstimulated cock
+>this brings small chuckles to Trent and Matt as they continue peppering your face and chest with long, wet licks and kisses
+>you twist and squirm, desperately trying to escape the maddening pleasure
+>but you are held firmly by Trent and Matt's interlocking legs, practically sandwiched between them
+>you can only pant and moan at the slippery heat wrapped around your dick, the warm fur pressed into your back and sides, the drooling tongues lapping at your face
+>you're left a twitching mess. The only coherent images you can make out as your eyes roll to the back of your head is the light of the fire, and Trent and Matt's warm expressions as they observe you
+>thankfully, the blissful torture does end and you slowly come too as your cock leaves Leslie's mouth with a *POP*
+>"See! I told ya humies were cute! Tasty too!" the small goat exclaims, wiping his mouth. "Can we keep him?" he asks after a small pause
+>both Matt and Trent pause their licking and look at each other, both of their tongues still pressed firmly into your skin
+>an unspoken agreement passes between them before Trent pulls his tongue away
+>Matt simply continues licking as you squirm in your fluffy prison
+>"What do you think saltlick? Wanna spend the night gettin' to know us a little better?" Trent leans down to whisper into your ear before nibbling on it, he thrusts his hips into you a few times to accentuate his point
+>the answer was obvious to you, an affirmative head nod is all your breathless form can muster. Trent seems to get the message though as he giggles and sucks at your ear
+>suddenly Leslie pulls away from your legs, and your world is flipped horizontally
+>"Matt, darlin' would you put out the fire then come join us in the tent? Me n' Leslie are gonna tuck in our new friend here." Trent says as he lifts you effortlessly into a bridal carry
+>"Sounds good honeybun! I'll catch up~" the fluffy bespectacled goat replies as he begins collecting all the clothing strewn around the campsite
+>you snuggle into Trent's broad furry chest and Leslie walks alongside you, stroking your legs as you're carried to the small nearby tent, just barely large enough to squeeze the three of you in
+>one thought briefly crosses your mind as Trent unzips the entrance and hunkers down to crawl inside the darkened shelter with you in his arms
+>it was going to be a cramped night
+
+Inspiration strikes randomly, but hope ya'll enjoyed. Wanted something short and smutty, was thinking about maybe doing a second part later
+
+---

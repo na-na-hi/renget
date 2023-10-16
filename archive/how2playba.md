@@ -129,6 +129,9 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226
 Read the top right on the first sheet for instruction.
 
+>I want both banner units, what should I do? 
+If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
+
 ## Banner Guide 
 [/bag/ guide](https://i.imgur.com/x9zZMMW.jpg) Last update: 21/09/23 (DD/MM/YY)
 [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
@@ -464,6 +467,10 @@ Trading your garbage away for the freshest sneaks
 You can dump mats from useless schools (like Red Winter, Shanghai, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
+>Maxing out affection/bond/relationship level with crafting 
+Use https://rentry.org/bondarchive 
+It's a small guide on maximising your wife's affection level (the autistic minmax way), and it has some neat info as well. I'd recommend skimming through it at least once. 
+
 >Misc. info
 Feel free to use the speedup tickets, you'll have a billion of them lying around. 
 There has never been a 2x event on the crafting chamber, so there's no point in saving your crafting materials up. 
@@ -473,7 +480,7 @@ There has never been a 2x event on the crafting chamber, so there's no point in 
 Go to https://justin163.com/planner/events
 Fill it in, it'll tell you what to do. 
 
->Cool stuff to know 
+>Important stuff to know 
 The highest bonus will be saved, so if you 1\* a quest stage with the max bonus then 3\* it with a different team, you can sweep the stage and get the highest bonus. This also works vice versa (first 3\*, then 1\* with max bonus). 
 
 You unlock the welfare/free unit by doing the story missions (the very 1st one). Do this before you farm the quest stages.
@@ -520,22 +527,31 @@ Yes. You really can.
 >Banners
 Global follows the JP schedule reasonably tight, see [the banner list for all the upcoming banners](https://bluearchive.wiki/wiki/Banner_List).
 
->Rolling 
-If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
-
 >XP
 1 AP = 1 XP. Your level is tied to how much AP you spend, so there's no real way to level up faster. 
 You can 3x refresh your AP for 90 gems a day, which is kind of good. Whether it's worth it is for you to decide. I personally suggest not to. 
 
 MAX level is current level cap + 1 xp off the next level (e.g. if the cap is 20, MAX would be 1 xp off lvl 21)
 
+>Relationship levels 
+The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*. 
+[The wiki's affection calculator](https://bluearchive.wiki/wiki/Affection) is a pretty good resource to calculate ur affection with. Make sure to actually scroll down. 
+[There's also the korean version](https://arona.ai/calc/favor) of the calculator, and there's *also* a [spreadsheet that provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
+ 
+>Friends
+Need a friend or two?
+Add a couple of /bag/ bros from [the friend google doc](https://docs.google.com/spreadsheets/d/1hUDz9eM25BabBxn7GHXemnhZl3ZSdxpAcJGIvxmFjqM/).
+If you want to help a future newfag or would like to put urself up there yourself, [feel free to add yourself to the spreadsheet by filling out the form](https://forms.gle/Y5BKx17EQaawVTqLA). Entries will be automatically removed after 30 days. It's also completely anonymous, so don't worry.
+ 
 >AP
 Any AP that crosses the max limit (999) gets sent to your bank. It expires in 7 days, so make sure to spend it at some point.
 
 >Lessons
 For the Schale areas: at rank 10 you unlock receiving choice tickets on top of the regular drops when you're doing your lessons. Pretty neat
 The max rank for an area is 12.
-Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. As there are only 8 areas (9 in JP), and 80/7 = 11 + 3/7, I'd suggest maxing out every area. 
+Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. 
+When you get a BONUS, it means that students receives double affection point. At Lesson Area 10 it's 15, 11 it's 20, and 12 it's 25. 
+
  
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.
@@ -556,30 +572,8 @@ The weekly missions reset on Sunday (the reset from Sunday to Monday).
 >Birthdays/holidays 
 If you switch out from the L2D, on (birth/holi)days your assistant gives you a unique dialogue if you tap her. 
 
->Friends
-Need a friend or two?
-Add a couple of /bag/ bros from [the friend google doc](https://docs.google.com/spreadsheets/d/1hUDz9eM25BabBxn7GHXemnhZl3ZSdxpAcJGIvxmFjqM/).
-If you want to help a future newfag or would like to put urself up there yourself, [feel free to add yourself to the spreadsheet by filling out the form](https://forms.gle/Y5BKx17EQaawVTqLA). Entries will be automatically removed after 30 days. It's also completely anonymous, so don't worry.
-
 >Cafe
 You can headpat a girl again after 3 hours from the last time you did, giving you 4 opportunities every cafe reset. 
-
->Relationship levels 
-The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*. 
-
-[The wiki's affection calculator (recommended one)](https://bluearchive.wiki/wiki/Affection) is a pretty good resource to calculate ur affection with. Make sure to actually scroll down. 
-[There's also the korean version](https://arona.ai/calc/favor) of the calculator, and there's also a [spreadsheet that provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
-
->Gift crafting (a small guide) 
-If you want to splurge ur gifts on 1 specific girl:
-- Buy all mats from events
-- Use extra mats from event to craft stage 2 & 3 crafting nodes
-- Buy out yellow/advanced tailor stones from the JFD shop when available 
-- Craft gift selectors using yellow tailor stones in the Material Fusion chamber
-It's more efficient to reroll normal gifts into a girl's favourite ones. 
-Don't use liked gifts for gift selectors, since it's a net loss
-![affection math](https://i.imgur.com/OYyVToM.png)
-You can stop at the 2nd node if you're strapped for orange/purple mats. Or the 1st. Affection maxing is a latefag-only thing after all. 
 
 >Stacking (de)buffs
 You can stack several (de)buffs with the same descriptor/effect, but only if they're in different skill slots. 
@@ -632,7 +626,8 @@ UE1 = UE30, UE2 = UE40, etc. You can use them interchangeably.
 
 >What is UG / UI? 
 Unique Gear, or Unique Item in global. 
-It's the 4th equipment. 
+It's the 4th equipment.
+You can find out what gift you need for the t2 upgrade [on the wiki here](https://bluearchive.wiki/wiki/Unique_gear_list).
 
 >How does X stat work? 
 See [this link](https://docs.google.com/document/d/1Ui0FRgG8h8RB1-cA639F3ETDrVM7q9FKftg4vBKBAAQ). 

@@ -71,7 +71,7 @@ function typical_sampling(tokens, cutoff_limit) is
 
     // how much different of each token's prob and overall entropy
     foreach token in tokens
-      token.diff = abs(entropy - token.prob)
+      token.diff = abs(entropy - (token.prob*log(token.prob)))
 
     // sort by token different
     descending_sort(token.diffs)

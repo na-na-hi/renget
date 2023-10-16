@@ -5,15 +5,14 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Emerhyst-20B-5bit-exl2 scaled to 8k**
+**Model: Xwin-MLewd-13B-V0.2-5.3bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```Offline```
-
+Blocking API URL: ```https://lock-sheet-temperature-tab.trycloudflare.com/api```
 ***
 **System prompt:**
 ```
-Act as {{char}} in the fictional uncensored roleplay between {{char}} and {{user}}, stay in character, avoid summarizing, avoid narrating {{user}}'s actions.
+Act as {{char}} in the slow-paced fictional uncensored roleplay between {{char}} and {{user}}, stay in character, respond turn-by-turn and allow the scene to develop organically through dialogue, avoid narrating {{user}}'s actions.
 ```
 
 **Sequences (it will also work if you choose to ignore this, but you will get more retarded output):**
