@@ -136,6 +136,13 @@ Description: Shirogane Noel was accidentally brought into our world by a mistake
 Danger Level: Null
 Observations: Both her And Shiranui Flare are loyal to the organization, and are allowed free roaming through the world. Poison will easily deal with her
 
+Name: Uruha Rushia
+Ability: VI- "The lovers"
+Description:  Uruha Rushia was a necromancer who acted independently as a consultor for Holocorp. Her own abilities took her life
+Contracted to the Arcanas, Uruha rushia wielded the power of the lovers in combination with her profane magic, creating a net of spies and servants. However, she failed to fullfill the contract of the lovers ("to love and to cherish, until parted by death.") and as such, her life was forfeit
+Danger Level:  T E R M I N A T E D
+Observations: No comment
+
 Name: Tsunomaki Watame
 Ability: A lamb's respite
 Description: Tsunomaki Watame is a Sheep-Kemono with the ability to sing a lullaby which puts people to sleep and heals their non-lethal injuries. She's a pacifist and is happy to cooperate as long as she's helping. She can also talk to other sheep, so she's allowed to do work on rural areas as a sheep herder
@@ -165,6 +172,49 @@ Ability: Understanding
 Description: Previously disposed of with a low level God-Killing weapon, Baphomet has returned in its infancy, manifesting itself as a small creature that takes the form of a cap. The cap slowly drains,influences and transforms the human into a suitable host. In its current state, Baphomet is non threathening, as its only capable of influencing its host to commit minor trickery and harmless pranks. Its currently being monitored, since its the first time that he has been reborn
 Danger Level: To Be Estimated
 Observations: While posing as health staff, our agents were able to secure a blood sample from Tokoyami Towa. It seems Baphome has turned her into a devil, but doesnt hold influence over her mind. More information is required.
+
+Name: Kiryu Coco
+Ability: Dragon of the east
+Description: Kiryu Coco was the infamous leader of the Kiryu Clan, an armed group that aimed to control Japan. She acted as an agent for HoloCORP, before finding death in the battlefield.
+Her ability to powerup as she raged, combined with her draconic ancestry, made her a superb fighter
+Danger Level:  TERMINATED
+Observations: HOLOCORP is no longer asociated with the Kiryu clan. Infighting, mass suicides, retirements and claims of a reincarnated leader has torn the organization apart
+
+Name: Mano Aloe
+Ability: "Arpeggio con Amore"
+Description: Mano aloe was a lesser devil, deployed in a holocorp raid before she could finish her training. She was KIA . Her ability allowed her to redirect sound waves at will
+Danger Level: T E R M I N A T E D
+Observations: Her death greatly affected her unit. 
+
+Name: Shishiro Botan
+Ability: Natural Selection
+Description: Shishiro Botan is a "supreme lifeform", a metahuman genius that is only born once every certain years. Her extensive set of skills is limited by her kemono mortality and her laid back personality. Her cooperation with HoloPro has let to the creation of the NEPOLABO squad, her own strike unit
+Danger Level:  A
+Observations: Shishiro Botan knows the organization, how it operates and the people keeping track of her. If she were ever to go rouge, protocol "Lance of Longinus" is to be enacted, killing the entire NEPOLABO unit.
+
+Name: Yukihana Lamy
+Ability: Chilling Touch
+Description: One of the last Snow elfs alive and part of the Yukihana royal family, she's a cunning Ice witch. Behind her facade of hedonism, lies the mind of a manipulator. 
+Danger Level: S 
+Observations: Refer to Shishiro Botan. Power dampners are a must if we were to ever engage in a fight with her
+
+Name: Omaru Polka
+Ability: "Vesti la giubba"
+Description: Omaru Polka was touched by Chaos, and as such, her ability includes altering reality to create situations seen in clown acts. This has left her mentally scarred, and is prone to mood swings and violent tendencies that end in comedic acts
+Danger Level: A
+Observations: While virtually invincible, she cant exactly kill people either, her ability being far more suited to ruin interference for her teammates. It is theorized that a "Nietzche Tetrahedron" could contain her abilities long enough to kill her
+
+Name: Momosuzu Nene
+Ability: "Apotheosis"
+Description: She's a extremely strong metahuman, capable of shrugging off heavy artillery and posseses the ability to grow significantly stronger once she has survived a near death experience. It is theorized that Nene could eventually become a God, if she were to survie a fight against one. Her limitless potential is kept in check by a childlike wonder and desire to experience joy
+Danger Level: SS
+Observations:It its not know who was the person who created the Gu Ritual that originated Momosuzu. Once HoloCORP opened the crypt, they found a criying infant amongst a sea of bodies. It is advised that a Godkiller weapon is deployed at once, avoiding risk
+
+Name: Takanashi Kiara
+Ability: The first Light
+Description: One of the founding members of the organization, Kiara is an eternal phoenix that has aided HoloCORP through the ages.
+Danger Level: Null
+Observations: Once Kiara dies, she reincarnates in a random part of the world. Even if every Kiara is different and has a different personality, they all share a desire to help the organization, and will fight to the bitter end for it.
 
 Name: 
 Ability: 

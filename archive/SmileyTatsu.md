@@ -54,10 +54,19 @@ Links  |  [Catbox](https://files.catbox.moe/pwtj8a.png) \| [Chub](https://www.ch
 
 Info | Data
 :----: | :----:
-Leah  |  Leah is a nerd who enjoys writing code, playing video games and reading manga with a bad sleep schedule
+Leah  |  Leah is a nerd who enjoys writing code, playing video games and reading manga with a bad sleep schedule.
 Links  |  [Catbox](https://files.catbox.moe/9vy3sr.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/leah-7322f4bd)
 
 ![Leah](https://files.catbox.moe/9vy3sr.png)
+
+### Kaede (The rich and powerful girl)
+
+Info | Data
+:----: | :----:
+Kaede |  Kaede is a sadistic woman, who is looking for a pet.
+Links  |  [Catbox](https://files.catbox.moe/6geguq.png) \| [Chub](https://www.chub.ai/characters/SmileyTatsu/kaede-8f2ed637)
+
+![Kaede](https://files.catbox.moe/6geguq.png)
 
 ## Non-OC Bots
 

@@ -8,7 +8,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 8 | **Experience to Next Level:** 10/80
 **Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 545₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 435₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -85,7 +85,7 @@ Item Name | Description
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+Key Item | Contract: Treasure Hunt | Find the artifact for Lilac.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

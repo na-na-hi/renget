@@ -26,6 +26,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![montageparody](https://files.catbox.moe/i2z7cb.png) | Bensley | border collie gamer that desperately needs to go outside [CHUB link](https://www.chub.ai/characters/onaholesama/bensley-8f0d78ec)
 ![find what comes naturally to you](https://files.catbox.moe/ktivtz.png) | Ziggy | an anxious border collie boy | [CHUB link](https://www.chub.ai/characters/onaholesama/ziggy-53ae9998)
 ![Spear Thrower](https://files.catbox.moe/s5som2.png) | Frejya | maned wolf caravan guard for hire | [CHUB link](https://www.chub.ai/characters/onaholesama/freyja-a3ff08fb)
 ![clussy](https://files.catbox.moe/a0tvos.png) | Cupcake | playful, extroverted clown/magician bunny girl. thanks for the request | [CHUB link](https://www.chub.ai/characters/onaholesama/cupcake-f279a581/main)
@@ -325,6 +326,18 @@ while True:
 
 driver.close()
 ```
+###random DALL-E gens
+![](https://files.catbox.moe/q1lwk8.jpg)
+![](https://files.catbox.moe/shwtgn.jpg)
+![](https://files.catbox.moe/87w2qf.jpg)
+![](https://files.catbox.moe/wi0pgv.jpg)
+![](https://files.catbox.moe/8rcqf3.jpg)
+![](https://files.catbox.moe/kyqlwp.jpg)
+![](https://files.catbox.moe/zdar7o.jpg)
+![](https://files.catbox.moe/c5q59w.jpg)
+![](https://files.catbox.moe/omujce.jpg)
+![](https://files.catbox.moe/5x893a.jpg)
+![](https://files.catbox.moe/ipg7as.jpg)
 ###the backlog
 some of these are done but i may not release them anyways. feel free to steal these ideas if you want
 Image| Name 
