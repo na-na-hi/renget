@@ -24,16 +24,13 @@ If you are used to this, you would assumed that this is just the way of the AI. 
 But no! This is almost certainly because the context window passed by the good part, aka the stuff you had established in the story started falling out of context. (You can check current context.)
 So, we will fix this by telling the AI about what's going on, for example:
 
-> \----
 > The story so far: Mistpaw is a she-cat apprentice. This last week she had been practicing her hunting skills, but now she was feeling restless. There was something that just didn't feel right about the situation in the forest, so she went out to investigate.
->\***
 
 See? It's not that complicated, compare to what most users would put in Memory; except for few tricks that improved the readability for the AI.
 There are main indicators: `The story so far:` and `Summary:`. You can also use something like `Backstory:`.
 
-> \----
 > Summary: An ordinary high school teen, Jihan. One day, he start to see a stat of himself, floating menu. Nobody else could see it except for himself. He has the ability to gain quests, EXP, and levels up.
->\***
+
 You put this exact format inside the Memory field.
 Or... Use both. With summary on top as a premise, and story so far for keeping detail.
 
@@ -41,7 +38,7 @@ Now, if you are planning to use lorebook in your story, we will need to change s
 Go to **right** pannel \-> **Advanced** Tab \-> **Edit Context Settings** \-> 
 ‎ ‎ ‎ ‎ Change Memory's **Insertion Order** to `1` and Memory's **Insertion Position** to `-1`
 
-‎ ‎ ‎ ‎ \> This setting will make it so that the memory block is down above storytext, making it have the strongest effect.
+‎ ‎ ‎ ‎ \> This setting will put Memory right above storytext, making it have the strongest effect.
 ‎ ‎ ‎ ‎ \> So that lorebooks won't get in the way, weakening the link.
 ‎ ‎ ‎ ‎ \> (Also you don't need 'dinkusbook', if you are using it. )
 ***
@@ -66,15 +63,13 @@ The effect of `horror` is obvious, it writes a story in such a way that creeps y
 If you don't plan to use lorebook, you can put it right above in Memory field, such as:
 
 >[ Title: Swimming Pool Business; Tags: management, humor, dealing with customers ]
-> \----
 >Summary: Max is the new owner of a "Bling-Bling Swimming Pool", and now she has to learn how to run it.
->\***
 
 BUT, if you plan to use Lorebook, make the following change:
 Go to **right** pannel \-> **Advanced** Tab \-> **Edit Context Settings** \-> 
 ‎ ‎ ‎ ‎ Change Author Note's **Insertion Order** to `900`
 
-‎ ‎ ‎ ‎ \> This setting will make it so that the Author block is located at the top of context.
+‎ ‎ ‎ ‎ \> This setting will move Author Note to the top context.
 ‎ ‎ ‎ ‎ \> The default location—dangerously close to the recent context—won't be sufficient for our uses.
 
 Then, you may put the tags in Author's Note field.

@@ -65,7 +65,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

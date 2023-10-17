@@ -10,7 +10,7 @@ She can barely remember things from her world, not even her name! But as the dar
 **Species:** Bounsweet | **Affiliation:** N/A
 **Level:** 8 | **Experience to Next Level:** 00/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -27,7 +27,7 @@ Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
+Speed | 1 | Training ʙᴏɴᴜs | 5 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 points to spend.
     0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -61,8 +61,9 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
-They see me rollin' | Tier ɪɪ | 0/6 | ▯▯▯▯▯▯
+Currently Training for Stat: None | Tier **N/A** | 0/9 | ▮▯▯▯▯▯▯▯▯
+They see me rollin' | Tier **ɪ** | 0/6 | ▯▯▯▯▯▯
+Speed **ɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

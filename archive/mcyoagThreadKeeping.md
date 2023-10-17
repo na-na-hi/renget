@@ -40,8 +40,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru))
-https://rentry.org/h5izt6
+MHA is charging up!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 https://archive.4plebs.org/tg/thread/90445389#90445806

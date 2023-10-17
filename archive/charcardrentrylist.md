@@ -20,7 +20,7 @@ Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
 [Genoo](https://rentry.org/295se) | Sizeplay |[Yui](https://files.catbox.moe/tnjq1e.png)|[Hana](https://files.catbox.moe/9dku7z.png)
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Marimba](https://files.catbox.moe/l1gewq.png), [Sara](https://files.catbox.moe/6mxeol.png)|
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Rusty](https://files.catbox.moe/v5tml2.png), [Wink](https://files.catbox.moe/l2111e.png), [Lilia](https://files.catbox.moe/ypa54u.png)|
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Rusty](https://files.catbox.moe/v5tml2.png), [Wink](https://files.catbox.moe/l2111e.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Tomoro](https://files.catbox.moe/9493dv.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Kaede](https://files.catbox.moe/2hoeys.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Bensley](https://files.catbox.moe/i2z7cb.png)|
@@ -32,7 +32,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Nina](https://files.catbox.moe/n01rjf.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Frankie](https://files.catbox.moe/ujl5vs.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[ Jaiden Animations](https://files.catbox.moe/09tvky.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kio](https://files.catbox.moe/hosfxu.png)|[Sylvia](https://files.catbox.moe/3j2410.png)
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kio](https://files.catbox.moe/hosfxu.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/ll63r3.png)
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||

@@ -134,15 +134,15 @@ Speed: Fast
 
 18 Points
 
-Construct
-Type: Emitter
-Material: Complex
-Personality: Mirror
-Control: Complete
-Duration: Complete
-Size: Medium
-Range: Medium
-Extras: Feedback
+-Construct
+-Type: Emitter
+-Material: Complex
+-Personality: Mirror
+-Control: Complete
+-Duration: Complete
+-Size: Medium
+-Range: Medium
+-Extras: Feedback
 
 11 Points
 
@@ -154,13 +154,14 @@ Extras: Feedback
 
 	Description: A subdermal layer that is both highly durable and malleable. It can be shaped into tendrils, spikes and other forms, sprouting from beneath the user's skin !
 
-Type: Mutant/Natural Weapon
-Variable
-Organic
-Melee
-Blunt
-Slashing
-Piercing
-Mods
+-Type: Mutant/Natural Weapon
+-Variable
+-Organic
+-Melee
+-Blunt
+-Slashing
+-Piercing
+-Mods
+1 Point of Quirk Refinement
 
-19 Points
+20 Points

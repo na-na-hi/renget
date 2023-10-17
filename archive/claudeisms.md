@@ -20,6 +20,7 @@ despite herself
 yours to take
 wanton
 with reckless abandon
+torn between
 knuckles turning white
 grins wickedly
 fiery red hair

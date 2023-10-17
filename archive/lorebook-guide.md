@@ -361,7 +361,7 @@ Tada! Everything is much more coherent to the AI now, (I can say that, as this i
 `***` is sort-of-a-king-for-all-separator, its small sister was `----`, which is for data stuff. While `***` is pretty much guarantee to generate prose; it was used in all kind of places: scene changes, pov changes, time skips, chapter breaks, page breaks, etc... anything that had to do with prose.
 
 1. Create a new independent **Entry** -\> Put `***` in **Content** and **Title** & Enable **Always On**
-2. Switch to **Placement tab**-\> Set **Insertion Order** to `100` & Set **Insertion Position** to `-1`
+2. Switch to **Placement tab**-\> Set **Insertion Order** to `100`
  ‎ ‎ ‎ ‎ Separator, enable!—
 !!! info Note
     If you followed my [Memory's guide](https://rentry.org/memory-guide), or you *already* had the separator in place; You don't need to follow this section.

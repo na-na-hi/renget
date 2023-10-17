@@ -8,7 +8,8 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
 https://playeternalreturn.com/posts/news/1480 (1.6 Patch Notes)
-https://playeternalreturn.com/posts/news/1443 (Season 1 Gold Cadet Skin - Bianca)
+https://playeternalreturn.com/posts/news/1443 (Season 1 Rewards)
+https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=J8z5CavPCYY
@@ -49,9 +50,8 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://event.playeternalreturn.com/S1_ElevenMarineCafe (~10/25)
-https://event.playeternalreturn.com/ER_Season2 (Login event, ~11/8)
-https://playeternalreturn.com/posts/news/1485 (Vampire Shoichi items, ~11/9)
+https://event.playeternalreturn.com/ER_Season2 (~11/8)
+https://playeternalreturn.com/posts/news/1485 (~11/9)
 
 \>Codes
 https://coupons.tnra.ro/
@@ -63,4 +63,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>449373513
+\>\>450293190

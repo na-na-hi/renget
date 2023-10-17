@@ -144,6 +144,7 @@ Title|Link
 *U53RDV*|[(link)](https://rentry.org/7m246)
 Sonic.exe /v/ewrite (Xenophanes)|[(link)](https://rentry.org/x38xq)
 *Sonic Pizza*|[(link)](https://rentry.org/kvcoe)
+*El Pendrive Azul (The Blue Flash Drive)*|[(link)](https://rentry.org/elpendriveazul)
 
 ##Shitpastas
 Title|Link

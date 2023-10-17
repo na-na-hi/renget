@@ -33,7 +33,7 @@ Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
-Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
+Special Defense | 0 | Special Defense Tier **ɪ** | +1 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -75,7 +75,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯

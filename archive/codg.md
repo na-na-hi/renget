@@ -7,16 +7,14 @@
 Previous thread:
 
 \>news:
-\>MWIII beta info:
-https://www.callofduty.com/blog/2023/10/call-of-duty-modern-warfare-III-beta-guide-maps-modes-tips-intel
+\>The Haunting event info:
+https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-II-warzone-season-06-haunting-multiplayer-modes-zombies
 \>MWIII information:
 https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwide-full-reveal-announcement
 \>Season 6 Blackcell, Battlepass, and bundles
 https://www.callofduty.com/blog/2023/09/call-of-duty-modern-warfare-II-warzone-season-06-blackcell-battle-pass-bundles
 
 \>patch notes:
-\>MW23 (beta, also info on new content):
-https://www.callofduty.com/patchnotes/2023/10/Call-of-Duty-Modern-Warfare-III-Beta-Patch-Notes.html
 \>MW22:
 https://www.callofduty.com/patchnotes/2023/09/Call-of-Duty-Modern-Warfare-II-Warzone-Season-06-Patch-Notes
 

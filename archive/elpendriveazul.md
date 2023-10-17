@@ -1,0 +1,30 @@
+#El Pendrive Azul (The Blue Flash Drive)
+My name is Gonzalo Guzmán Caamaño, and I’m gonna tell you something horrible that happened to me two weeks ago. I couldn’t hold this back for any longer, so I decided to write this so I can remain sane and know for sure that what happened was real. It all began one night when my friend suddenly came to my house. His face was pale and his body trembled nonstop. In his right hand he was holding a blue USB, which he slowly drew close to my face.
+
+“Take it,” he whispered. I obeyed with fear and put the USB in my pocket. Immediately, my friend covered his face with both hands and cried silently. His sobbing got louder until it turned into screams of agony. I got scared, so I tried to ask him what happened. He suffered on the floor for a few seconds, and then he stopped breathing. I screamed for help, until my mom showed up, what happened next I’d rather not remember. The day of the funeral was one of the most disturbing days I have ever lived. Seeing my friend’s entire family crying for him destroyed me on the inside. The autopsy stated that his cause of death was epilepsy, but they never asked me about what happened. I never found out why. When I got home, I locked myself in my bedroom and started sobbing, remembering the moment he died time and time again. Then I remembered…
+
+“THE USB!”
+
+Quickly I looked in the basket with dirty clothes, and checked the pocket of the pants I used that day, and so I found the USB.
+
+At first, I hesitated plugging that thing into the computer, and to this day I regret having done so. I was so scared, but I decided to check what was inside that thing. I turned the PC on, and as soon as it booted up, I plugged the USB in. A window popped up, which said the USB had a file inside: it was a document written in a language I still can’t recognize. Not thinking about it, I opened the document. Inside it had a file named “Sonic_The_Hdgehog.exe.” I noticed the name was badly written, but I couldn’t process it in my head. I double-clicked the file and an error message appeared. I can’t remember what it said, just something along the lines of the file not existing. I felt relieved for a moment, and then I remembered the name was wrong, and several times I had gotten a file to work by changing its name, so I added the missing “e” in “Hdgehog”.
+
+The file allowed me to correct its name, turning it into “Sonic_The_Hedgehog.exe.” That’s when I remembered that my dead friend liked Sonic. It was scary to accept such things, but I was calm at the fact that it was about the friendly blue character.
+
+I double-clicked the new file, and the screen turned black. A few seconds later, in the lower part of the screen, a text saying “LOADING” appeared, with an ellipsis that appeared and disappeared frequently.
+
+“IT WAS A FUCKING GAME!” I shouted.
+
+I didn’t know how to feel about that. I waited until the game fully loaded, and the screen changed to an 8-bit background with the colourful logo of Sonic the Hedgehog, moving his finger just like in the old games along the obvious music. For a moment, I thought that the USB had nothing to do with my friend’s death until I saw the small letters that were supposed to write Sega’s name and all the other credits, which were all written in the same strange language as the document. Shivers went down my skin and I decided to press enter. That’s when the name of the original level popped up, with the same music, and then the level itself started. I’d move with the arrow keys, and jump with the space bar. I held the right button, and Sonic seemed to run normally. The strange part started when I crashed into an enemy. In the real game, crashing just made rings come out of Sonic’s body, as a way of damage, but that didn’t happen here. Instead of rings, some weird objects appeared, which looked like red squares.
+
+I thought it was a simple glitch in my optimistic mind, but deep down, I knew that meant no good. I kept moving until I finished the level. Instead of the mentioning the next zone, another message in the weird language popped up. This time, the background wasn’t normal. It had this blood-red color moving slowly. I was scared for real, and so I pressed Escape, but the game didn’t close, so I tried using Control, Alt, and Del, which didn’t work either. I had started to lose my mind. As the screen distorted violently, a light flashed quickly, which paralyzed me. I couldn’t move, nor close my eyes. All I could do was look at the horrible things that appeared on the screen. I began hearing female screams, excessively disturbing, while in the first layer, I could see Sonic’s face shedding tears of blood, while a text writing “R.I.P.” appeared everywhere. The screams didn’t stop, in fact, they had gotten louder, to the point where I started crying without moving. My eyes simply dropped tears. Then, I began trembling.
+
+“I’ll have the same fate as him!” I thought with fear.
+
+The screen turned black, and the screaming had ceased. I was struggling to move, but it was all in vain. From the black screen, a big “10” written in red appeared, then it turned into a “9”, “8”, “7”.
+
+“I have to get outta here!” I thought, still unable to move.
+
+“6”, “5”, with my best effort, I was able to move my finger, then my head, then my arms, and finally my whole body. The countdown hit “2” when I jumped to floor to cover my head, as if there was a shooting. I heard a horrible woman scream, similar to those that appear in screamers, but this one was scarier, and to top it all off, it was longer. Quickly, I got to plug the computer off, I took the USB out and stomped it to shreds. The nightmare had ended. Still, I couldn’t stop trembling. I cleaned the tears from my eyes and left the computer room. I haven’t told this to anyone until now, so maybe I should forget it. Sometimes I feel like I shouldn’t put my life in danger over a simple curiosity. It’s not worth it. But if there’s anything I’m sure about, it’s that, whatever happened when the countdown ended, I don’t ever wanna know.
+
+![](https://files.catbox.moe/usap8b.png)

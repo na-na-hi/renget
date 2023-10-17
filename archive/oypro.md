@@ -25,7 +25,7 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 6 (20HP) | 20HP
 Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 0 | Defense Tier ɪ | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
