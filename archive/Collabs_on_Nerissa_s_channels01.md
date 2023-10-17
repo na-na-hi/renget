@@ -53,7 +53,7 @@
 |2023-10-01|[![【Terraria】Going to hell frfr (Open VC and world) 🎼 ](https://i.ytimg.com/vi/NSCXDcreVmI/mqdefault.jpg)](https://www.youtube.com/watch?v=NSCXDcreVmI)|Shiori, Fauna|~2h35| Impromptu collab & VC|
 |2023-10-06|[![【L4D2】Advent's Return To The Apocalypse 🎼 ](https://i.ytimg.com/vi/GQIPoEZZrHQ/mqdefault.jpg)](https://www.youtube.com/watch?v=GQIPoEZZrHQ)|[Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou & [FUWAMOCO](https://www.youtube.com/watch?v=0GnRDoCXr3E)|~2h18|Advent Fullgen Collab|
 |2023-10-15|[![【FOREWARNED】Hunting some mummies with Advent 🎼 ](https://i.ytimg.com/vi/sSupOKbXDoY/mqdefault.jpg)](https://www.youtube.com/watch?v=sSupOKbXDoY)|[Shiori](https://www.youtube.com/watch?v=clUGpl3XsF4), [Bijou](https://www.youtube.com/watch?v=jzODJXLx2H4) & [FUWAMOCO](https://www.youtube.com/watch?v=xGKQea7zrDI)|~2h11|Advent Fullgen Collab|
-|2023-10-16|[![【GIRLS NIGHT】Having a sleepover with Reimu~ 🎼 ](https://i.ytimg.com/vi/CoEtGz415AU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=CoEtGz415AU) |Reimu Endou|TBD|3rd outer Hololive collab|
+|2023-10-16|[![【GIRLS NIGHT】Having a sleepover with Reimu~ 🎼 ](https://i.ytimg.com/vi/CoEtGz415AU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=CoEtGz415AU) |Reimu Endou|~2h09|3rd outer Hololive collab|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

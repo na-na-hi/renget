@@ -46,12 +46,12 @@ Growl | It's Growl.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 (12) IP and each Skill costs a certain amount of it to equip.
-    You have 31 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+    You have 01 points to spend.
+    1/12 IP | ▮▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Remembrance | 	The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
+2. Lightweight | The User is lighter than their species is normally supposed to be. | 1 IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A

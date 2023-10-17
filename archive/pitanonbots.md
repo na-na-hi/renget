@@ -80,9 +80,9 @@ Pit Focus NSFW Prompt | NSFW content is allowed. {{char}} will avoid overuse of 
 
 ###Claude RP Prompts
 #XML Prompt Set
--> **Updated: 14/10/2023** <-
+-> **Updated: 17/10/2023** <-
 !!! Chat Completion Preset: https://files.catbox.moe/22h28z.json
-!!! Prompt list: https://files.catbox.moe/1g20zo.json
+!!! Prompt list: https://files.catbox.moe/ja693h.json
 !!!DANGER Edit the "EDIT YOUR CHARACTER HERE" prompt instead of using the Persona Management tab
 
 -> **Based on v8 https://rentry.co/CharacterProvider** <-

@@ -56,7 +56,7 @@ Alternatively you need to reset your network, see [this video on how to do that]
 **Spend *all* your rolls after the first mission. After that you can reroll.**
 Make sure to claim stuff from missions and your mailbox too. 
 
-I'd advice you to do the same even if you don't reroll, just so you have a something to work with. 
+I'd advice you to do the same even if you don't reroll, just so you have something to work with. 
 
 **BA has sparks, not pity.** 
 **Sparks do not carry over between banners.**

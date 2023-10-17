@@ -578,3 +578,52 @@
 >You gently begin to rub the back of her head, your fingers running through her hair, it's the only comfort you can give to her right now.
 
 ***
+
+## Day 10 - Prisoner Shiori
+
+>You've been a prison guard for a long time, you've watched over many different kinds of prisoners
+>Some were women that swore to you they did nothing wrong, but you knew they were liars.
+>Some were women that tried to seduce you for their freedom, but you were too resilient to give in to their sultry demands
+>You even watched over some men, they would try to pick fights with you, get you agitated and riled up
+>You always stonewalled them, not giving in to provocation
+>However this time, you're assigned to a rather petite lady named Shiori
+>Instead of usual inmate attire, for some reason she was allowed to wear her own
+>A lady dressed in gothic clothes, sat on the wooden chair in her cell, a book in hand
+>"Oh? Are you the guard assigned to me this time?" she asked non-chalantly.
+>"This time?" You ask in response
+>Without a word of warning, the lights suddenly shut off, you turn around and shout out, complaining to your fellow guards that the lights died off
+>As you turn back around, you suddenly see them in the dark
+>A pair of golden fiery eyes, staring right at you, an almost wicked smile could be made out
+>You instantly felt something akin to fear, as if your life was about to end right there
+>The lights turn on again, and what you had imagined as a wicked smile, turned out to be just a casual one, however the shine in her eyes didn't stop.
+>The next few days, strange occurrences continued within the prison.
+>Two cats that you had never seen before would often find their way towards Shiori's cell.
+>She had started to call them Salt and Pepper.
+>As you passed Shiori's cell, you would often hear the sounds of a girl's innocent laughter, however every time you peeked in, she would be doing anything but laughing.
+>Reading, sleeping, gazing at you, none of her actions suggested laughter. None of it made sense to you, not the laughing, or the other sounds that you had heard.
+>Finally on the 6th day, now in the present, you ask her: "What happened to the other guards watching you?"
+>Shiori who was in the middle of reading, put her book down to look at you, those golden eyes burning with something, whether it be malice or intrigue, you couldn't say
+>Then, she responded, in a somewhat monotone and empty response: "I don't know, I heard they all went insane. But look at you, you're holding up quite well aren't you?"
+>Unsure of what she meant, you decided to look into it later when your guard shift ends
+>The day went on pretty quickly, as it was you turn to change shifts, you walk over to your chief, asking about the various guards that had been assigned to Shiori before you
+>There, he looks you straight in the eye and asks with a tinge of fear: "Did...you talk to her?"
+>You look back at him and respond: "Yeah, why?"
+>Suddenly he grabs a book, in it are pictures of three other guards, he then adds your picture in, then looks at you again: "Do not come in tomorrow, no, in fact, you're fired. Please leave immediately."
+>"What?! Fired?! For what?!"
+>The chief then pushes you out the door hurriedly, repeating the words: "Please, leave immediately, don't come back! Stay with your family!"
+>And then it happens again
+>The lights shut off, and suddenly a dull white noise blankets out everything else
+>You cannot see, and you cannot hear, however your legs have begun to move without your consent
+>Where are you being taken to?
+>There you see a light in the distant darkness, you haven't regained control of your legs, so you walk towards it unwillingly, the light then splits into two lights
+>You realize where you are, as you approach and get closer, two golden eyes, gaze deep into you.
+>You fall onto your knees in the dark, the sounds of screaming can now be heard back in the distance.
+>"Is that the chief screaming?!" you try to get back up, but your knees feel as if they're glued to the ground.
+>Then you feel the gentle touch of a hand resting on your cheek, you hear Shiori's voice, not with your ears, but in your head, as if her voice were transmitted directly to your brain
+>"There there Anon, it's going to be ok."
+>How did she know your name? You never told it to her, but the more she reassures you, the less you seem to care about everything else
+>The lights flicker back on, you find yourself somehow inside of Shiori's cell, with her
+>Your knees before her bed, your head just above her lap as she sits at the edge of the bed
+>The room is dyed crimson with blood, who's blood? You dare not ask or even think about it, the words along the walls, however, haunt you: "Witch!" "Liar!" "Run away!" "Don't listen to her!"
+>"Just stop thinking about the bad things Anon, you'll be ok, I'll make it all go away Anon."
+>Is this what the other guards and the chief felt? Or have you fallen into a different kind of insanity?

@@ -2,10 +2,8 @@
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 !!! note
-	->[#Logs](https://rentry.org/LurkzyDurkzyBurkzy#logs-updated-17-oct) has been reconstructured. I'll be posting long form chats with different cards covering a wide variety of scenarios, from Saviorfagging, Slowburning, Exhibitionism etc... to highlight my presets strengths and weaknesses. If you would like to submit your card to be displayed here, send an email with the card and I'll showcase it here along with credits. **NO SLOP** ;)<-
+	->[#Logs](https://rentry.org/LurkzyDurkzyBurkzy#logs-updated-17-oct) has been reconstructed. I'll be posting long form chats with different cards covering a wide variety of scenarios, from Saviorfagging, Slowburning, Exhibitionism etc... to highlight my presets strengths and weaknesses. If you would like to submit your card to be displayed here, send an email with the card and I'll showcase it here along with credits. **NO SLOP** ;)<-
 ***
-!!! danger
-	->I attached the wrong v1.6 preset to Catbox, which had an incorrect structure. Please redownload <3 <-
 [TOC2]
 ***
 ```
@@ -45,7 +43,7 @@ Toggle | Response
 	->Enable Randomization Fluctuation (Found under the triple cubes icon) Play around with the fluctuation amount, (0.1-0.2)<-
 ->![Flux](https://i.imgur.com/ApbmZPZ.png)<-
 ***
-##->Logs (Updated 17 Oct)<-
+##->Logs (Updated 18 Oct)<-
 ***
 ###-> [Alice](https://chub.ai/characters/nikchemniy/alice-f1332e80) - By nikchemniy<-
 ->![Card](https://avatars.charhub.io/avatars/nikchemniy/alice-f1332e80/avatar.webp?size=0.2542173419752862)<-
@@ -63,4 +61,15 @@ Toggle | Response
 
 ->**Genres**: Suicide, Saviorfagging<-
 ->![Nina2](https://i.imgur.com/ugjebHc.jpg)<-
+***
+
+###-> [Irina](https://chub.ai/characters/LewdAmI/irina-5c67a352) - By LewdAmI<-
+!!! note
+	->Ongoing<-
+->![Card3](https://avatars.charhub.io/avatars/LewdAmI/irina-5c67a352/avatar.webp?size=0.9152637994304207)<-
+
+->**Description**: You're about to pick up your date, but as she opens the door you can't help but note your classmate looks a lot like her 37-year-old mom in her daughter's school uniform trying to pass herself off as a teenager.<-
+
+->**Genres**: False Identity, Milfs<-
+->![Irina2](https://i.imgur.com/DhLjAHw.jpg)<-
 ***

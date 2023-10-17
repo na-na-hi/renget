@@ -19,3 +19,26 @@ https://t.me/CIG_telegram
 https://t.me/stayfreeworld
 https://t.me/BellumActaNews
 https://t.me/warmonitors
+
+
+--- PROTESTS ---
+>Baghdad, Iraq
+https://nitter.net/sentdefender/status/1714426637452800366
+>Istanbul, Turkey
+https://nitter.net/sentdefender/status/1714426972737044932
+>Beirut, Lebanon
+https://nitter.net/sentdefender/status/1714427070946644369#m
+>Amman, Jordan
+https://nitter.net/sentdefender/status/1714427125971718241
+>Doha, Qatar
+https://nitter.net/sentdefender/status/1714427180078305786
+>Tehran, Iran
+https://nitter.net/sentdefender/status/1714427233593409810#m
+>Barcelona, Spain
+https://nitter.net/sentdefender/status/1714427295828500508
+>Cairo, Egypt
+https://nitter.net/sentdefender/status/1714427882871640226
+>Sanaa, Yemen
+https://nitter.net/sentdefender/status/1714428223566606783
+>Berlin, Germany
+https://nitter.net/sentdefender/status/1714428372527268214

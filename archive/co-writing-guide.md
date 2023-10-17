@@ -13,6 +13,9 @@ Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
 Truthfully: | Basically, Greedy Decoding (best token), but retry-able; optimized for book-writing, will require creative decisions from you.
 | *(Enabling Dynamic Range will break the preset.)*
 
+-> You can ask me a question in [#ai-writing-help (click to join)](https://discord.gg/novelai) <-
+
+
 ####Spelling and Grammar
 
 This is the most important discipline you must have. For optimal playthrough: you must not ***misspell*** any English words, nor should you *misspell* any of your character's names. (It might not be apparent, but the AI will just... stop trying its best, once it spots an error: Thus, being suboptimal, (or *subpar* if there are amateur writings all over the place.))

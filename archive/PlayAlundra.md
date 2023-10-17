@@ -9,6 +9,9 @@ All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude and GPT
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
 If you want to contact me for a reason or another, here is my e-mail: playalundra@proton.me
 Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](https://rentry.org/SilverSurfer) ![He's a cool nice dude](https://files.catbox.moe/k4om3c.png)
+
+I cannot into lorebooks btw.
+
 [TOC]
 
 # Get some standards
@@ -18,12 +21,13 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 
 **NEW** | *Horray, new cards* | Links here
 :----: | ------ | :----:
+**Anzio Girls High School** | **1550 Tokens (1371 Permanent) + Lorebook! (Tested with Claude-2)**
+![Funiculi Funicula is a beautiful song and it makes me sad that it has been turned into the "meme pizza song".](https://files.catbox.moe/65hvkl.png) | It's Anchovy, Pepperoni, and Carpaccio! HUEG token count(at least by my standards). Focused around interacting with the three girls(Sorry Amaretto, there isn't much info about you and I forgot to take notes while reading through the side-content because it was too much fun and I ended up watching GuP again. Oops) and school. I may hone it more in the future, as the bot seems to stop introducing new rando girls after a while. Anyway, 3 starters/greetings: 1. You are the sponsor for the school. Read hentai, you know how it can go. Can be pretty fun times too. 2. You are a mechanic. Have fun. 3. You work at the grocery ship that breaks down conveniently when you reach their school. Considered adding sneaky Yukari there but maybe someday. *Please remember to use lorebook~* | [Card](https://files.catbox.moe/10mc8a.png) [JSON](https://files.catbox.moe/ydmax9.json) [CHUB](https://www.chub.ai/characters/playalundra/anzio-girls-high-school-63d8f4e6)
 **Alina Mahler**  | **1044 Tokens (784 Permanent)**
 ![Hmm... Damn bratty girl...! !! ! Seducing an adult 💢💢 Rape correction is needed ... 💢](https://files.catbox.moe/r7ddmv.png) | Alina Mahler is a 300+ year old vampire girl who looks like a child and has huge breasts. She also acts like a child, and despite being a vampire, she is ridiculously weak. Acts like a brat, is bossy, smug, and you know what you gotta teach that kind of bratty girl...! !! ! 3 starters/greetings. 1. She appears in your kitchen while you are washing dishes. 2.Your front door leads to her mansion. 3.You are a vampire hunter and reach her throne room, epic battle ensues! | [Card](https://files.catbox.moe/2p2qkb.png) [JSON](https://files.catbox.moe/q33kez.json) [CHUB](https://www.chub.ai/characters/playalundra/alina-mahler-0e45022f/)
 **Helga**   | **975 Tokens (776 Permanent)**
 ![Double standards](https://files.catbox.moe/2qahjx.png) | Helga is a 100 year old shortstack half-elf Priestess Cleric at a local village church. She is kind and sweet and loved by the whole village. You are her 9 year old adopted assistant. She's a shotacon and knows lewd magic that she doesn't use on anyone else. I'm pretty sure you know where this is going. 3 starters/greetings. 1. Morning and usual prep for the day at church. 2. Fertility festival, you help her at the village center. 3. Winter, you study with her. Good luck. | [Card](https://files.catbox.moe/qs33ae.png) [JSON](https://files.catbox.moe/ccj5yf.json) [CHUB](https://www.chub.ai/characters/playalundra/helga-8d6fccf4/)
-**Haritora** | **880 Tokens (565 Permanent)**
-![Snu snu](https://files.catbox.moe/yo6pis.png) | A feral tiger cavewoman... Thing. She likes you and sees you as a potential mate. Wears quite skimpy clothes and has a toned body. 3 starters/greetings: You seek shelter from rain in her cave, she sneaks in your tent at night, she lives with you in your apartment. | [Card](https://files.catbox.moe/hy67ez.png) [JSON](https://files.catbox.moe/79fytl.json) [CHUB](https://www.chub.ai/characters/playalundra/haritora-0c9f73c3/)
+
 
 
 
@@ -59,6 +63,8 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![Maze of the Blade from Soulcalibur 2 is a bit more fitting for this Ankha than Camel By Camel](https://files.catbox.moe/nw63cd.png) | VERY voluptuous and bossy Ankha. She made you drive off other villagers so she can live on your(her) island in peace with you as her personal assistant(peasant). Seriously, she is selfish and expects you to serve her. Has 4 starters, but they all are about her being her. Uses art from Cham22. Didn't want to upload first as it is very self-indulgent and uses someone else's but got convinced by my friend to just post it. | [Card](https://files.catbox.moe/xyav2s.png) [JSON](https://files.catbox.moe/bkexbh.json) [CHUB](https://www.chub.ai/characters/playalundra/ankha-30ce5154)
 **Lotion Cat** | **875 Tokens (469 Permanent)**
 ![Cats, cats, we are the cats. Celebrating yet another birthday bash](https://files.catbox.moe/smxs1h.png) | Kekitopu's Lotion Cat. Playful, teasing, and you can penetrate her from any point of her body. Don't worry, she likes that. I got the idea to make this from [Kumo](https://www.chub.ai/users/kumo) who requested it on a server. There is another already in the chub but I didn't notice it as I made mine. Well, more the merrier I guess. Only one starter, gomen. | [Card](https://files.catbox.moe/62b6ke.png) [JSON](https://files.catbox.moe/stepz8.json) [CHUB](https://www.chub.ai/characters/playalundra/lotion-cat-e39d4457)
+**Haritora** | **880 Tokens (565 Permanent)**
+![Snu snu](https://files.catbox.moe/yo6pis.png) | A feral tiger cavewoman... Thing. She likes you and sees you as a potential mate. Wears quite skimpy clothes and has a toned body. 3 starters/greetings: You seek shelter from rain in her cave, she sneaks in your tent at night, she lives with you in your apartment. | [Card](https://files.catbox.moe/hy67ez.png) [JSON](https://files.catbox.moe/79fytl.json) [CHUB](https://www.chub.ai/characters/playalundra/haritora-0c9f73c3/)
 
 ## MISC
 
@@ -90,6 +96,7 @@ Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](h
 ![My little boss can't be this cute](https://files.catbox.moe/4kagri.png) | What a bossy boss you have. He is so short and feminine... Wait, is he even a guy? He really says he is such. 4 starters. Last starter is """*spoilers*""" so go with 1-3 starters on the first time! No peeking into the description!! | [Card](https://files.catbox.moe/a2x1rv.png) [JSON](https://files.catbox.moe/slup7m.json) [CHUB](https://www.chub.ai/characters/playalundra/wren-3d05bcab)
 **Victoria** | **1044 Tokens (708 Permanent)**
 ![No suburban sprawl here.](https://files.catbox.moe/xtsm1e.png) | Retro-futuristic Victorian-era steampunk battle maid. Her limbs are replaced by mechanical ones. She owns a bakery. This is, believe it or not, more vanilla focused bot. It has 4 starters. Last starter is about you being her child. I hope you like it. Protip, listen some ghibli music with this card. | [Card](https://files.catbox.moe/41izyw.png) [JSON](https://files.catbox.moe/8sioh6.json) [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e/)
+
 
 # Stuff from other people that I like a lot
 

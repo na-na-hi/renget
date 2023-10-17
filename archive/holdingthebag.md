@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 16th October. All dates dd/mm.
+!!! Note Last updated: 18th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -110,7 +110,6 @@ Club ID | Club Name | Club Status
 3640 | DFC | Open as of 08/10
 6488 | Kanimochi | Open as of 12/10
 6665 | F2Poor | Open as of 24/09
-8192 | Mesugaki | Open as of 15/10
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 10/10
 12395 | 中出しの幸せ (cumshot happiness) | Open as of 21/09
@@ -130,6 +129,7 @@ Club ID | Club Name | Club Status
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
 6786 | Enuji | Full as of 30/09
+8192 | Mesugaki | Full as of 17/10
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 11162 | VaniVitamins | Full as of 11/10

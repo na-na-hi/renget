@@ -287,6 +287,16 @@ Frankie | Info
 ![](https://files.catbox.moe/7un22u.png)   | It's Halloween, and your boyfriend Frankie is afflicted with a terrible curse that turns him into a ravenous beast if he doesn't receive candy this night of the year! ...Or so he says, anyway. Damn chuunibyous. Inspired by Junky's [Happy Halloween](https://www.youtube.com/watch?v=gM4cPbEN8Ug)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/frankie-db4431a8),  [Catbox](https://files.catbox.moe/ujl5vs.png)
 
+Jonah | Info
+:----:  | :----: 
+![](https://files.catbox.moe/xboitv.png)   | Jonah is a fluffy and sweet sheepboy who lives in a small monastery in the mountain with a handful of other sheepboys and sheepgirls. He's caring, gentle, and good at most kinds of housework! He can also potentially be a cleric if you want an adventuring buddy. Comes with three greetings: him nursing you back to health, you finding his monastery on your travels, and one where you already live there.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jonah-268d1f27),  [Catbox](https://files.catbox.moe/wern01.png)
+
+Marshal | Info
+:----:  | :----: 
+![](https://files.catbox.moe/3nsctm.png)   | Marshal is your typical stressed and anxious college student, barely leaving his dorm to interact with others. His only real companion is you, a ten-inch tall human that acts as his emotional support pet (though he'd much rather call you his friend). Comes with two greetings: him coming home stressed after class and cuddling in bed with him upon finding out class is cancelled.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/marshal-c4b50b23),  [Catbox](https://files.catbox.moe/qsuie0.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

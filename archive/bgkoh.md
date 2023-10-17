@@ -58,9 +58,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
+
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Stat: Speed **ɪ** | first stage (+0 AP) | 
+
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

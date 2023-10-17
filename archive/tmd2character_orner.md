@@ -23,7 +23,7 @@ Stat | Points: 2 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 1 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
+Defense | 1 | Defense **ɪ** | +2 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
@@ -55,16 +55,14 @@ IQ Skills Active/Inactive | Description of Skill | IP Cost
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
+Attribute: EXAMPLE  |  Nothing | N/A
+Battle Attribute: EXAMPLE  | N/A
 
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: N/A
-Battle Attribute: N/A
-Training for Attribute: N/A
-Training for Battle Attribute: N/A
-Training for Move: N/A
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 8/9 | ▮▮▮▮▮▮▮▮▯
-Stat: N/A
 
 **INVENTORY (4 slots)**
 Item Name | Description

@@ -255,3 +255,42 @@ https://files.catbox.moe/k487we.mp4
 https://files.catbox.moe/2ijc42.mp4
 >Hezbollah publish a video saying they “targeted a Zionist tank in Al-Jardah Hill in the Al-Dhahira area with guided missiles and achieved a direct hit.” (added oct 16th)
 https://files.catbox.moe/h9310v.mp4
+https://files.catbox.moe/afuphj.MP4
+>Hezbollah released footage of its attack on an israeli military vehicle in "Metula".
+https://files.catbox.moe/auo33w.mp4
+>The current situation on the border of Israel and Lebanon is at a boiling point; artillery and extremely intense gunfire can be heard
+https://files.catbox.moe/u8at7q.MP4
+>Huge masses of people storm the streets in Hebron, West Bank
+https://files.catbox.moe/afuphj.MP4
+>German government plane is evacuated in Tel Aviv, German Chancellor Scholz is taken to a bomb shelter.
+https://files.catbox.moe/puhw4s.mp4
+> Thousands protesting outside the Israeli consulate in Istanbul.
+https://files.catbox.moe/4y3dv6.MP4
+>BIG HAPPENING: KIKES BOMB BAPTIST HOSPITAL, IT'S HAPPENING - Possibly a JDAM, WHAT A JDAM SOUNDS LIKE IS LINKED BELOW (Palestine has no air support, they couldn't possibly have JDAMed themselves)
+https://files.catbox.moe/bfp01k.mp4
+https://files.catbox.moe/1hhorc.webm
+https://files.catbox.moe/kt3fj4.webm
+https://www.youtube.com/watch?v=A_uwzugvv-g
+>video from bombed hospital, may Allah give the victims Jannah
+https://files.catbox.moe/ov0l1n.MP4
+>More Kino from bombing, hospital related?
+https://files.catbox.moe/1h0vys.MP4
+>Westbank people being shot by the IDF
+https://files.catbox.moe/mfixg9.MP4
+>bombs somewhere i think maybe tel aviv, no sirens though i think they are stilll hacked
+https://files.catbox.moe/zmnmh1.MOV
+>Report of violent riots outside the Israeli embassy in Amman, Jordan.
+https://files.catbox.moe/dxqpf5.MP4
+>Baby and momma victims after kike bombing
+https://files.catbox.moe/w07anb.mp4
+>Israeli jets are reported flying at very low altitudes over Joining, north of Beirut city.
+https://files.catbox.moe/8k5pc0.mp4
+>Hezbollah supporters in Beirut inbound to the US Embassy.
+https://files.catbox.moe/bkylvt.MP4
+>Clashes broke out between police and protesters in Ankara - the Turks demand the immediate expulsion of the Israeli ambassador from the country Turkish police are trying to contain a crowd of protesters who are planning to storm the Israeli embassy in Ankara. Law enforcement officers used force, but it is unclear whether they will be able to contain the anger of the crowd enraged by the attack on a hospital in the Gaza Strip.
+https://files.catbox.moe/dbs7oi.mp4
+>Wasreal, regarding the bombing of hospital: "we investigated ourselves and turns out, we're innocent!"
+https://files.catbox.moe/zfv5c6.mp4
+>"Very impressive documentation of our followers from one of the barrages this evening into Israeli territory" -Unknown
+https://files.catbox.moe/tbccfw.MP4
+https://files.catbox.moe/tg4mpn.MP4

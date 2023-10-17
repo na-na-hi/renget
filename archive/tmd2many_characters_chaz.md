@@ -30,7 +30,7 @@ Attack | 1 | Species Bonus | +1 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -50,13 +50,13 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 35 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 5 IQ points to spend.
+    5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Remembrance | User's IP is increased by 2. Granted from Fragmented or Anamnesis | 0
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Power Pitcher | The damage of the User's Throwable Items is increased by 3. | 5 IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -65,14 +65,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
+Attribute: Speed | Tier 1 (+1) | 1/3 | ▮▯▯
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed **ɪ** | Tier **ɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for @@@ **#** | Tier **#** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

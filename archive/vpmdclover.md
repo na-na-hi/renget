@@ -118,7 +118,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
 26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn) | | |
-28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler](https://rentry.org/b2f4t) | | |
+28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler (ft. Fern)]](https://rentry.org/b2f4t) | | |
 29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
 30 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
 31 | [Branching Out](https://rentry.org/branching) | | | | |
@@ -195,9 +195,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 102 | [The Trash Bag and The Food Thief](https://rentry.org/2y9ab) | | | | |
 103 | [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi) | | | | |
 104 | [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7) | | | | |
-105 | | | | | |
-106 | | | | | |
-107 | | | | | |
+105 | [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5) | | | | |
+106 | [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental) | | | | |
+107 | [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) | | | | |
 108 | | | | | |
 109 | | | | | |
 110 | | | | | |
@@ -246,7 +246,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.2 (ft. Booker)](https://rentry.org/RibombeeBuckler2)
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
-	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental) *Not on Table*
+	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -329,7 +329,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
 	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
-	* [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) *Not on Table*
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -342,7 +341,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 3 (ft. Makky)](https://rentry.org/GreatBulk3)
 	* [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4) 
 	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) 
-	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5) *Not on Table*
+	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -373,7 +372,6 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail)
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
-	* [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) *Not on Table*
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -418,7 +416,9 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
 * Tybo the Skitty
-	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z) 
+	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
+* Collab Writing
+    * [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * Non-Applicable
 	* [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
 	* [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992)

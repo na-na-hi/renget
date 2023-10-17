@@ -33,7 +33,7 @@
 ## Guides
 * [/lcg/ Guide](https://rentry.org/lcbguide)
 * [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
-* [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt)
+* [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt) [Rentry alternative link](https://rentry.org/b29eu)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [Yet Another Limbus Company Tier List (I'm moving this to the abandoned section if it's not updated in a few months)](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
