@@ -243,7 +243,7 @@ https://files.catbox.moe/5z1i0n.mp4
 https://files.catbox.moe/3oj1v8.mp4
 >Rockets over Tel Aviv, 14th Oct.
 https://files.catbox.moe/9zwcam.MP4
->The IDF mistakenly kills a settler in Ofakim, near the Gaza Strip; After they thought he was a Palestinian fighter
+>The IDF mistakenly kills a fellow invader in Ofakim, near the Gaza Strip; After they thought he was a Palestinian fighter
 https://files.catbox.moe/he33cu.mp4
 >Palestinians Show Solidarity Outside Gaza Hospital: "Gazans declare they will never leave Gaza unless dead, and will never accept to live as refugees!"
 https://files.catbox.moe/61nmkr.mp4
@@ -251,7 +251,7 @@ https://files.catbox.moe/61nmkr.mp4
 https://files.catbox.moe/ik43sv.mp4
 >A C-17 military transport aircraft belonging to an unknown country was spotted firing flares while flying over Tel Aviv as Palestinian factions fired rockets towards Central Israel (added oct 16th)
 https://files.catbox.moe/k487we.mp4
->Al-Mayadeen correspondent, South Lebanon: Shooting and a sweep operation with machine guns from inside the Metulla settlement towards the border fence with Lebanon.
+>Al-Mayadeen correspondent, South Lebanon: Shooting and a sweep operation with machine guns from inside the Metulla settlement towards the border fence with Lebanon. (added oct 16th)
 https://files.catbox.moe/2ijc42.mp4
->Hezbollah publish a video saying they “targeted a Zionist tank in Al-Jardah Hill in the Al-Dhahira area with guided missiles and achieved a direct hit.”
+>Hezbollah publish a video saying they “targeted a Zionist tank in Al-Jardah Hill in the Al-Dhahira area with guided missiles and achieved a direct hit.” (added oct 16th)
 https://files.catbox.moe/h9310v.mp4

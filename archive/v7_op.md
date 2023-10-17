@@ -15,6 +15,9 @@ https://youtu.be/FbTMYv7B0Ag
 >Zeta's Lore Video:
 https://youtu.be/_7fB-7ZkQGQ
 
+>Original song - You're Mine:
+https://youtu.be/KFFtUqQVLrI
+
 >Cover song - Zankyou Sanka:
 https://youtu.be/wQ1_0oeXW6M
 

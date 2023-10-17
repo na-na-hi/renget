@@ -22,7 +22,7 @@ Guts | While the User is afflicted with a Major Status Condition, their Attack i
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 2 | Species Bonus | +2 Physical Damage 
+Attack | 3 | Species Bonus | +3 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

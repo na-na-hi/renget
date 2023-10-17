@@ -329,6 +329,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Kiyo the Alolan Vulpix
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
 	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
+	* [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) *Not on Table*
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -372,6 +373,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail)
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
+	* [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) *Not on Table*
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping](https://rentry.org/ytxap)
@@ -589,6 +591,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 * {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 * {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
+* {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

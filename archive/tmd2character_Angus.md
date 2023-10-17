@@ -78,7 +78,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
 2. Stun Seed | Causes *Petrified* on consumption.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Clear Gummi | Gives +10 IQ points to Ice-Types. Gives +5 to other types. Are you sure this isn't ice?
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

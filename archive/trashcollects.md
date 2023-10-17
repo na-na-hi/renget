@@ -1534,6 +1534,7 @@ https://imgbox.com/g/tdpJerkXh6
 
 ### E621 Tagger Model for use in WD Tagger
 Reminder that the prior GitHub repo has been discontinued; delete the extension's folder and install https://github.com/picobyte/stable-diffusion-webui-wd14-tagger instead, which reportedly works even with WebUI 1.6.
+The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are using the picobyte repo. Download only the Convnext V2 model, and place it as described.
 
 	The WD Tagger extension as-is only generates Danbooru tags, which is great when training on NAI and other anime-based models. For models based on e621, the tags may need to be changed accordingly. For that reason, you can use the following model instead of the WD one.
 ![E621 Tagger](https://files.catbox.moe/9mv03e.png)

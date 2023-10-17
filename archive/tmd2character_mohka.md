@@ -68,11 +68,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
-Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
