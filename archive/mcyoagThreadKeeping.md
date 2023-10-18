@@ -683,6 +683,8 @@ Writefags:
 https://rentry.org/dm26u
 >Jesterbelle's Prank (Jesterbelle, Whoever responds to the writefag?)
 https://pastebin.com/4CFMctzq
+>Lesson 2: Puncuality(Misao, Arika)
+https://rentry.org/nai7zs
 
 Artfags:
 >Misao (In and out of costume)
@@ -811,8 +813,6 @@ Applying for membership in the Dread Conglomerate (Pestilence, Big Cheese)
 https://rentry.org/4v5uin
 Material Girl (Koreans)
 https://rentry.org/bttmt 
-https://rentry.org/Worm3TheDoctorWillSeeYouNow
-The Doctor Will See You Now (Dr Hurtsteal, Nemian, mention of Edith Lee)
 ```
 ***
 Page 3
@@ -833,6 +833,8 @@ Fresh Off The Plane (Kyōrinrin)
 https://rentry.org/cyr77
 The Doctor Will See You Now (Dr Hurtsteal, Nemian, mention of Edith Lee)
 https://rentry.org/Worm3TheDoctorWillSeeYouNow
+Less Than Zero (Koreans)
+https://rentry.org/ntd4y
 
 >Relationship Charts
 Undertaker Protectorate/Ward Relationship Chart

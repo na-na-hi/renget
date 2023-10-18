@@ -22,27 +22,26 @@ Removed "Quick Coom" prompt item. Temp has been increased, however feel free to 
 than multiple, and then reinforcing this.
 
 17 Oct - v1.6. Added a NSFW enhancer prompt item that can be toggled on/off. 
-|-> v1.61. Minor refinements.
+
+18 Oct - v1.61. Minor refinements and changes aimed at being more creative and NPC involvement. NSFW Enhancer has been
+modified in a way that when enabled, a new position and location will be chosen until {{user}} explicitly mentions cumming
+in their response.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
 ##-> Preset (v1.61) <-
 !!! warning
-	-> Recommended Temp: 0.6-0.7<-
+	-> Recommended Temp: 0.7-1 (Yes I've been swayed with the high temp responses, feel free to tone it down)<-
 	-> NSFW Enhancer add-on disabled by default.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/8pt962.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/c960q0.zip)<-
 ***
 ##->Extras<-
 !!! note NSFW Enhancer
-	->Not extensively tested. Meant as a temporary bandage as I continue working on improving the NSFW aspect of my preset. Toggle on/off when appropriate to do so.<-
+	->Toggle on/off when appropriate to do so.<-
 Toggle | Response
 :----: | :----:
-![Enhancer](https://i.imgur.com/ZqcTaBI.png) | ![30](https://i.imgur.com/K7EiqxB.png)
+![Enhancer](https://i.imgur.com/x8E3Kpt.png) | ![exampleNSFW](https://i.imgur.com/ryZnz1a.png)
 
-
-!!! warning Randomizer
-	->Enable Randomization Fluctuation (Found under the triple cubes icon) Play around with the fluctuation amount, (0.1-0.2)<-
-->![Flux](https://i.imgur.com/ApbmZPZ.png)<-
 ***
 ##->Logs (Updated 18 Oct)<-
 ***
@@ -66,11 +65,11 @@ Toggle | Response
 
 ###-> [Irina](https://chub.ai/characters/LewdAmI/irina-5c67a352) - By LewdAmI<-
 !!! note
-	->Ongoing<-
+	->Uses the newly improved v1.61 NSFW enhancer add-on during sexual scenes<-
 ->![Card3](https://avatars.charhub.io/avatars/LewdAmI/irina-5c67a352/avatar.webp?size=0.9152637994304207)<-
 
 ->**Description**: You're about to pick up your date, but as she opens the door you can't help but note your classmate looks a lot like her 37-year-old mom in her daughter's school uniform trying to pass herself off as a teenager.<-
 
 ->**Genres**: False Identity, Milfs<-
-->![Irina2](https://i.imgur.com/DhLjAHw.jpg)<-
+->![Irina2](https://i.imgur.com/y3yHxuy.jpg)<-
 ***

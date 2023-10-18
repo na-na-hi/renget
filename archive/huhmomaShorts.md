@@ -561,3 +561,81 @@ This is what people mean when they say 'getting lost in the mountains'.
 Inspiration strikes randomly, but hope ya'll enjoyed. Wanted something short and smutty, was thinking about maybe doing a second part later
 
 ---
+Chubby Bun by anonymous
+
+>be anon
+>stuck in dead end job working at GameShop
+>pay isn’t the worst but it’s so dull having to go over inventory and ring up everybody
+>eventually start to notice a regular
+>a chubby white rabbit, about 5’4”, wears a pair of glasses
+>always comes in every Thursday afternoon, browses for a few minutes, then buys a pack of trading cards and leaves quietly
+>after a few more visits you decide to ask him if the tcg’s fun
+“H-huh? Oh… I don’t play, I just like the art…”
+>he nervously wrings his hands as you ring him up on the register
+>as he takes his item, he pauses briefly as though about to say something, before he leaves
+>he doesn’t show up the next Thursday
+>the one after he’s a no show as well
+>or so it seems, just as you’re about to lock up the place for closing, he walks up, coughing lightly to garner your attention
+“E-erm, I’m not very good at this but, could we maybe… get a bite to eat? Together?”
+>his nose twitches as he awaits your answer, his hands slid into his cyan hoodie’s pocket 
+>as you say yes, a grin spreads across his face before he quickly composes himself
+>you quickly lock up the shop before turning back to him to ask what he wanted to eat
+“Oh, right! There’s a nice cheap Japanese place nearby if you’re okay with eating in the food court?”
+>In response to a quick nod from you, he turns and leads the way
+>you take the opportunity to eye him up properly as you saunter over
+>he fills out his jeans quite well, his plump body hugged beautifully by the denim, a small hole for his little cottontail at the back of the pants
+>his hoodie likewise is filled out well, the thick rabbit’s fluff being exposed underneath when he stretches a little too far
+>just as you’re getting lost wondering exactly what he looks like under there, he comes to a stop in front of the little eatery
+>you don’t waste much time, grabbing a curry bowl with rice and an onigiri
+>he grabs a few vegetable croquettes and some inari
+>the two of you settle down on a small table by a window, the food court isn’t usually very busy at this time so it’s practically just the two of you
+>he nervously avoids eye contact as he starts to nibble on his meal
+>you decide to come straight out and ask him why he asked you on a date
+>he spits out the bean curd in his mouth in response
+“Date? I-uh, well I suppose that is what it is… I just, I saw you at the GameShop and thought you had really kind eyes.”
+>both of his hands tenderly hold his meal, his thumbs prodding at it as he works out what to say
+“I‘ve never really talked to a human before, and I just wanted to get to know you.”
+>he looks up, his blue eyes peering through the glasses, this adorable rotund rabbit holds eye contact for a few moments before he returns to his sheepish demeanour, quickly eating his meal
+>the two of you sit in silence as he watches you finish your curry
+“Sorry, I feel like I’ve just wasted your time…”
+>he gets up, turning to leave
+>you snag his hand, your fingers diving between his soft digits, he turns to you, looking up
+>Inches away from him, you assure him that you enjoyed yourself, that it was a wonderful little meal and that you wouldn’t mind spending more time with him
+>he bites his lip, his eyes beaming with happiness, he practically tackles you, wrapping his arms around and cuddling you tightly
+>his soft warm body holding you, you wrap your arms around him in turn, before you leave a quick smooch on his fluffy forehead
+>a small shiver runs up him and he lets out a satisfied moan as he sinks into you further
+
+---
+"Superhero" by anonymous
+
+ >My best friend is a big fan of our local """Superhero"""
+>He can fly and shoot lasers out of his eyes and all that crap
+>I've actually been """saved""" by him once but he seemed like an arrogant dick who was too desperate for praise
+>Also pretty sure the only reason I even needed rescuing was because one of his own lasers broke the support struts on the bridge my bus was on
+>Friend meets up with me after fact asking me what meeting him was like and acting like i'm super lucky to have met him
+>He gets really defensive for him when I tell him how I REALLY feel about superheroes
+>Says I "don't understand the pressure heroes are under every day" and that "maybe you should have just said thanks and kept it to yourself" then storms off in a huff
+>Man, what's his problem? And since when did he feel compelled to act like our "Hero"'s personal 24/7 defense squad? He wasn't even there, I almost died!
+>Bet he only likes him so much because they're the same species...
+
+>Same species as the hero
+>Getting defensive about the hero
+Anon what is your friend's occupation and have you ever seen him and this hero in the same place at the same time? 
+
+I need more of this. Does he also get defensive if you say that superhero movies aren't real movies? 
+
+>Despite supposedly being the biggest fan alive of Shadow the Super Canid, your best friend's room doesn't have a single poster of him
+>No, instead it is PLASTERED with human superheroes instead
+>Superman, Spiderman, The Flash, and ESPECIALLY Batman
+>Like, every single inch of his walls are covered. He is absolutely OBSESSED
+>And he excitedly drags you out to every new release in the Meowvel Cinematic Universe, front row every time, practically vibrating with excitement with each new film
+>It's kind of cute, honestly...
+>But what's even more amusing is the reaction you can get out of him when you start criticizing the film
+>Even though he probably knows at this point that you're just trying to get a rise out of him, he gets so unbelievably torqued up from it you can't help but injure your diaphragm from laughing every time
+>You get a particularly nice dopamine rush from seeing his ears flick and tail bristle in irritation from pedestrian, everyday criticisms such as "the costume designs look like gimp suits" and "there's no stakes, everybody just gets revived somewhere down the line" and even "Superman is boring as hell and one dimensional"
+>But today, you've practically set him on fire while driving back from the movie theater with the simple truth of "none of this shit actually happened"
+>IMMEDIATELY he stops the car (in the middle of traffic), turns to you with a fiercely defiant expression, and starts laying into you that "that's not true at all! I mean, maybe SOME of it is a little embellished for the screen, but it's TOTALLY based on actual events!", all the while cars are honking around the two of you
+>"I mean, we live in a city with an actual, real superhero ourselves, Anon! Or do you think Shadow isn't real too, even though you've MET him?!"
+>You reply to him that yes, you think Shadow is real
+>A real pain in the ass
+>He's silent the rest of the drive, his hackles raised the entire time

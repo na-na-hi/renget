@@ -14,7 +14,7 @@ https://rentry.org/ClaudeTokens
 
 **DALL-E 3 and Bing are a match made in heaven** (Micro$soft + OAI)
 
-https://rentry.org/desuDALLE3
+https://rentry.org/██████████
 
 **How to reverse-engineer character definitions on Character\.AI (CAI)** 
 

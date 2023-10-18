@@ -2,7 +2,7 @@
 
 ***
 ->![imsotired](https://files.catbox.moe/fzzxpp.png)<-
-->Hello, everyone. I'm **muricanpie**. Formerly *muricanpie#7937*. Now just **muricanpie**. This is my Rentry (not yours).
+->Hello, everyone. I'm **muricanpie**. Formerly *muricanpie#7937*. Now just **muricanpie**. This is my Rentry (not yours).<-
 
 ->I like to make bots, generate AI art, and write things I'll never release. Shortstacks/Goblins are **awesome**. Femboys are *pretty cool*. I'm kind of a boomer. I run my own discord where I host my bots (and their alternate art), occasionally take requests, do bot pre-releases, share AI art, and chat. It's pretty chill. Come check us out if you want. [You can find it here.](https://discord.gg/Qhz7qxN3u4)<-
 
@@ -19,7 +19,7 @@ I've produced a lot of NSFW characters since I've started taking requests, thoug
 For ease of upload/search, my NSFW characters will be in alphabetical order.
 
 My Rentry is up-to-date with new tags, slightly better sorting, and direct SpicyChat links as of: 
-##==**10/23/2023**==
+##==**10/13/2023**==
 
 ***
 

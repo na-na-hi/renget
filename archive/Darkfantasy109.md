@@ -13,9 +13,9 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
 
-!!! warning CURRENT STATUS
-	->**HIATUS**<-
-    ->I may be back, but at the moment I think I've exhausted myself with this hobby.<-
+!!! note CURRENT STATUS
+	->**ACTIVE**<-
+    ->Oh yeah, I'm around. For now.<-
 	->If you wanna talk, or request something regardless, hit up my burner: darkfantasy109@proton.me<-
 **Table of Contents**
 [TOC2]
@@ -37,7 +37,6 @@ Image| Name | Description | Link
  ![Wazzup gamers? Y'all ready for some birthin' action? PogChamp](https://files.catbox.moe/xnbq60.png)   | BunGir109 | A very ambitious streamer that's doing the very first evar birthing stream! You're her top donor, so you get to do all sorts of lewd things with her while her chat throws suggestions. Includes a very beefy Jailbreak, but a worth it one; This is a bot that can come up with all sorts of crazy, sexy shit with minimal input. Comes with three scenarios! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/0458937b-a8d0-4cc5-99e2-b27e42108e64)
  ![Yarr, me hearties! There's a pregnant bitch on port bough!](https://files.catbox.moe/ijyyxk.png)   | Cap'n Pippin | The Captain of the Hellspawn Pirates, a crew comprised entirely of her children! So what if they aren't born yet??? You gotta play the long game when you're a pirate! I have a lot of ideas for this bot that I didn't wind up adding, including One Piece world compatibility, but I decided against it. Maybe I'll revisit it later, who knows? | [CHUB link](https://www.chub.ai/characters/darkfantasy109/3bc98d0e-0618-4c1b-9270-f996e639cfbe)
  ![Yarr, me hearties! There's a pregnant bitch on Logueport!](https://files.catbox.moe/nh182m.png)   | Cap'n Pippin - One Piece Edition | Who knows? I do! This is the same as above, but tailored to the One Piece world, and with her abilities rewritten. Makes for a much more fun adventure in my opinion! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/captain-pippin-one-piece-edition-f0947b1a)
-![Why, of course it is necessary for me to be permanently caged, bred and milked like a cow. There is no need for such ridiculous questions.](https://files.catbox.moe/zs3pyp.png)   | Dr Francine Mallow | A world-renowned genius and pioneer in biotechnology that has come up with the perfect solution to world hunger and population decline: Turning herself into a one-person human dairy! You are the person that will be in charge of monitoring her as she permanently restrains herself into a milking machine. Inspired by an RP I had with THAT one Mei bot in c.ai where I did a similar thing. Fun times! | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/dr-francine-mallow-b57001cb)
 
 ***
 
@@ -78,6 +77,7 @@ Image| Name | Description | Link
 ![Do I really have to be here? ...There's some important press releases I need to sign.](https://files.catbox.moe/jx2pjt.png) | President Juno | The president of Archelinde, a large republic of floating islands in the sky. She's very stressed out and undergoing a lot of pressure, so she has hired (You) to help her relieve some stress! A card for the Divided Skies writing project. This one was designed to be usable without the lorebook.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/president-juno-a77cd1c1)
 ![Mroww! Heyheyhey, I'm cammie! I ca- *trips over* whoops!](https://files.catbox.moe/cmogph.png) | Wobbly Camille | A catgirl that suffers from "Wobbly Catgirl Syndrome", which causes her to be all wonky when she walks. She's trying her best, though. Based on the actual Cerebellar Hypoplasia, also known as Wobbly Cat Syndrome, which some cats have.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/wobbly-catgirl-camille-f201b279)
 ![Mmmph! (You bastards are dead as SOON as I get out of this bind!)](https://files.catbox.moe/ev584q.png) | BDSM Nobara | A simple Nobara card I got the urge to make after watching JJK and getting a boner.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/sex-slave-nobara-kugisaki-0fc39d5f)
+![Why, of course it is necessary for me to be permanently caged, bred and milked like a cow. There is no need for such ridiculous questions.](https://files.catbox.moe/zs3pyp.png)   | Dr Francine Mallow | A world-renowned genius and pioneer in biotechnology that has come up with the perfect solution to world hunger and population decline: Turning herself into a one-person human dairy! You are the person that will be in charge of monitoring her as she permanently restrains herself into a milking machine. Inspired by an RP I had with THAT one Mei bot in c.ai where I did a similar thing. Fun times! | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/dr-francine-mallow-b57001cb)
 
 ***
 
@@ -88,6 +88,7 @@ Image| Name | Description | Link
  ![Ugh! What are you looking at, faggot!?](https://files.catbox.moe/dh5zsh.PNG)   | Emil | My first gay bot and (un)surprisingly my most popular one until the lusamine & lillie one. An edgelord /pol/cel that larps as an alpha chad but secretly wishes that he was a sissy little girl. If you could survive all those buzzwords, you'll have a fun time with this card, I hope. | [CHUB link](https://www.characterhub.org/characters/darkfantasy109/Emil)
 ![Alright then love, fancy something that you're seeing here?](https://files.catbox.moe/zdh5dp.png)   | Dylan | Second malebot ever, inspired by one AI image someone kept posting on /aicg/. Fashion and clothings focused, entertain him and he may let you see the bussy. Personally I think this is my least favorite of my bots, made it on a whim based on an image that I didn't wind up using. But hey, if it's your thing, who am I to stop you?| [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/Dylan)
 ![Fuck is you lookin' at, mate? I'll shiv ya!](https://files.catbox.moe/xzj7l1.png)   | Pepper | A mad lad and a gang leader that got arrested after going too far. He got a very special plea deal where he's been let outta the slammer, provided he takes estrogen and wears a humilliating, painful chastity cage at all times. If you haven't noticed yet, I have a type when it comes to malebots. | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/Pepper)
+![Well then, shall we proceed with the experiment?](https://files.catbox.moe/rek9sv.png)   | Dr. Francis Malford. | A Genderbent version of the card above in female bots, Francine Mallow. This one is a world renowned scientist that has decided that the best solution is to turn YOU into a breeding and milking cow! This is my first time writing out a malebot designed for fempov, so it was a fun experiment. I didn't really test it out much because fempov RP is (evidently) not my thing, but I hope it's enjoyable regardless.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/dr-francis-malford-68085652)
 
 ***
 
@@ -200,8 +201,10 @@ Name/Link | Review | Author
 [Leo](https://booru.plus/+pygmalion425#q=leo&c=azaxcrxs) | A simple but sexy snu snu card with a muscular tiger lady. What's not to love? | Shoo
 [Molly](https://www.chub.ai/characters/boner/Molly) | God damn adorable little mouse girl. Really cute and unique speaking style that the bots miraculously manage to do well. Very fun to just play around with. | Boner
 [Haumea](https://www.chub.ai/characters/bipbop/44105618-e6d5-4a01-a978-623451a43125) | Comfy pregnancy card of a cute tropical princess, with a very unique world. Roleplayed pretending I was Ishmael from Moby Dick.  | BipBop
+[Grace](https://www.chub.ai/characters/FrogTheSlut/grace-b85a68bc) | Cute anti-ntr muscle girl. Something about her personality just made her stick really well for me. Very fun to slowburn with and get her pregnant.  | FrogTheSlut
 
 ***
+
 ##->Brief tips on Botmaking<-
 ->![Sometimes it's hard.](https://media.tenor.com/MDv1DdjjTFoAAAAd/patrick-carpenter.gif)<-
 Am I a "good" enough botmaker to offer a guide on how to make cards? I don't think so, honestly. Nor do I really think there is really such a thing as a good botmaker, when ultimately the quality of your RP hinges on the model you are using 10 times more than the card's quality. That said, here are some pointers based on how **I** write cards. Don't take this as the ideal, but if you enjoy my cards, or if they work well for you, then I'm putting these tips here.

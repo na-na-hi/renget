@@ -1541,6 +1541,7 @@ The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are us
 
 	Convnext V2: https://pixeldrain.com/u/iNMyyi2w
 	Patched WD1.4: https://cdn.discordapp.com/attachments/1065785788698218526/1067966541699743845/stable-diffusion-webui-wd14-tagger.zip
+	Mirror for Patch: https://pixeldrain.com/u/NA5fvUcJ
 
 	If you encounter problems while using the convnext model, try unchecking "Sort alphabetically" in the extension
 	Older Deepdanbooru Model: https://pixeldrain.com/u/XTcj5GHz

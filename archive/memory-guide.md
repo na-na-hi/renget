@@ -21,7 +21,7 @@ Truthfully: | Basically, Greedy Decoding (best token), but retry-able; optimized
 Do you sometimes have the AI make random actions that don't make sense to you? It... was going well at first! But now, the AI doesn't seem to exactly know what is going on.
 If you are used to this, you would assume that this is just the way of the AI. *Ugh, I wish the AI would perform better.*
 
-But no! This is almost certainly because the context window passed by the good part, aka the stuff you had established in the story started falling out of context. (You can check current context.)
+But no! This is almost certainly because the context window passed by the good part, as the AI *do* have limited amount of memory. (You can check current context.)
 So, we will fix this by telling the AI about what's going on, for example:
 
 >  The story so far: An urchin thief girl named Vin has been recruited by Kelsier, a "charismatic" man who seems to have powers that should be impossible. And he said she has them too. She reluctantly joins his crew of elite thieves in their insane plot to overthrow the Final Empire, an oppressive regime that has reigned for a thousand years.
@@ -39,13 +39,15 @@ And be sure to use Tags:
 ***
 
 ##ATTG
-The pattern in full will look like this:
+
+A way to reinforce/initialize story elements and writing style. The pattern in full will look like this:
 > [ Author: J.K. Rowling; Title: The Raining Night; Tags: deserted tropical island, time travel; Genre: horror ]
 
 Combining with Summary (Most effective):
 > [ Author: J.K. Rowling; Title: The Raining Night; Tags: deserted tropical island, time travel; Genre: horror ]
 > Summary: Harry Potter and the others find themselves on a deserted tropical island. Strange things begin to happen... Can they survive until morning?
 
+And this it, the most optimal way to write a memory that I can recommend.  
 `[ Author: ; Title: ; Tags: ; Genre: ]` Is the official order, always sort them in this way for the most effectiveness.
 Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's how the AI officially learned/recognize ATTG.  
 [ATTG is briefly explained in the NovelAI's official documentation here.](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracketing-)

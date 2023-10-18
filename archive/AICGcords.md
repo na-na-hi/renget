@@ -18,4 +18,6 @@
 
 ## Studycord: Invite Only. 
 
+## Spitecord: Not Real.
+
 ## Characord: Deleted.

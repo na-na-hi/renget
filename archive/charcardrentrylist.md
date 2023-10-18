@@ -18,7 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Dr Francine Mallow](https://files.catbox.moe/zs3pyp.png), [Nobara Kugisaki](https://files.catbox.moe/ev584q.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Dr. Francis Malford](https://files.catbox.moe/rek9sv.png), [Dr Francine Mallow](https://files.catbox.moe/zs3pyp.png), [Nobara Kugisaki](https://files.catbox.moe/ev584q.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Marshal](https://files.catbox.moe/qsuie0.png), [Jonah](https://files.catbox.moe/wern01.png)|
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Anzio Girls High School](https://files.catbox.moe/65hvkl.png)|[Anzio Girls High School](https://files.catbox.moe/65hvkl.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Bensley](https://files.catbox.moe/i2z7cb.png)|
