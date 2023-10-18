@@ -132,7 +132,7 @@ Club ID | Club Name | Club Status
 8192 | Mesugaki | Full as of 17/10
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | VaniVitamins | Full as of 11/10
+11162 | VaniVitamins | Full as of 18/10
 
 ***
 

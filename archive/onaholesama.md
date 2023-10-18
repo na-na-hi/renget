@@ -174,7 +174,7 @@ i = 0
 idx = 0
 filtered = 0
 ratelimited = 0
-timeout = 30
+timeout = 50
 
 def checkElementExists(name, type):
     try:
@@ -213,6 +213,7 @@ def downloadImage(idx, single):
 
 def resetTokens():
     driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click()
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
     time.sleep(2)
     driver.find_element(By.ID, 'sb_form_q').clear()
@@ -312,6 +313,10 @@ while True:
         elif checkElementExists('[alt="There was a problem creating your images"]', 'robot'): # TOTAL PUFFERFISH DEATH
             ratelimited += 1
             print("rate limited ", ratelimited, " times; retrying")
+            driver.get("https://www.bing.com/images/create/")
+            time.sleep(2)
+            inputform = driver.find_element(By.ID, 'sb_form_q')
+            inputform.send_keys(proompt)
             continue
 
         if checkElementExists('gir_mmimg', 'class'): # only a single image generated
@@ -348,6 +353,7 @@ while True:
         time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.send_keys(proompt)
+        continue
 
     except:
         print("Unknown error.")
@@ -355,6 +361,7 @@ while True:
         time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.send_keys(proompt)
+        continue
 
 driver.close()
 ```
