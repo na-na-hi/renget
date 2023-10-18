@@ -141,7 +141,8 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 ###DALL-E-3 AUTOPROOMPT
 ```python
 """
-https://www.youtube.com/watch?v=ckZ2k3-qEIU
+https://www.youtube.com/watch?v=cHXi2KNBhEY
+10/17/2023- fixed auto resetting boosts, should now be fully automated. FUCK AI ETHICISTS. 15 boosts per account lel.
 10/14/2023- added auto resetting boosts- MAKE SURE EMAIL IS VALIDATED OR PROGRAM WILL CRASH!!!
 10/13/2023- more consistent downloading and some loop fixes.
 
@@ -211,26 +212,36 @@ def downloadImage(idx, single):
         return 1
 
 def resetTokens():
-    sandwich = driver.find_element(By.ID, 'id_sc')
-    sandwich.click()
+    driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click()
+    driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
     time.sleep(2)
-    profile = driver.find_element(By.CLASS_NAME, 'hbic_mybing')
-    profile.click()
+    driver.find_element(By.ID, 'sb_form_q').clear()
     time.sleep(2)
-    history = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/a')
-    history.click()
+    driver.find_element(By.ID, 'create_btn_c').click()
+    time.sleep(3)
+    emailForm = driver.find_element(By.ID, 'i0116')
+    emailForm.send_keys(email)
+    driver.find_element(By.ID, 'idSIButton9').click()
     time.sleep(2)
-    clearbutton = driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button')
-    clearbutton.click()
+    passForm = driver.find_element(By.ID, 'i0118')
+    passForm.send_keys(password)
+    driver.find_element(By.ID, 'idSIButton9').click()
     time.sleep(2)
-    confirm = driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]')
-    confirm.click()
+    driver.find_element(By.ID, 'idSIButton9').click()
+    time.sleep(3)
+    driver.find_element(By.ID, 'id_sc').click()
     time.sleep(2)
-    clearbutton = driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button')
-    clearbutton.click()
+    driver.find_element(By.CLASS_NAME, 'hbic_mybing').click()
     time.sleep(2)
-    confirm = driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]')
-    confirm.click()
+    driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/a').click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button').click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]').click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button').click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]').click()
     time.sleep(2)
     driver.get("https://www.bing.com/images/create/")
     time.sleep(2)
@@ -254,9 +265,30 @@ def resetTokens():
 """
 good morning sirs
 """
-print(".")
-proompt = str(input("paste proompt here: "))
+driver.find_element(By.ID, 'create_btn_c').click()
+time.sleep(3)
+email = str(input("paste email here: "))
+password = str(input("paste password here: "))
 
+emailForm = driver.find_element(By.ID, 'i0116')
+emailForm.send_keys(email)
+driver.find_element(By.ID, 'idSIButton9').click()
+time.sleep(2)
+
+passForm = driver.find_element(By.ID, 'i0118')
+passForm.send_keys(password)
+driver.find_element(By.ID, 'idSIButton9').click()
+time.sleep(2)
+
+driver.find_element(By.ID, 'idSIButton9').click()
+time.sleep(2)
+
+try:
+    driver.find_element(By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[2]/div[2]/button[1]').click()
+except:
+    print('blehh')
+
+proompt = str(input("paste proompt here: "))
 inputform = driver.find_element(By.ID, 'sb_form_q')
 inputform.send_keys(proompt)
 
@@ -266,12 +298,12 @@ while True:
 
     try:
         tokenbal = driver.find_element(By.ID, 'token_bal')
-        if tokenbal.text == '2':
+        if tokenbal.text == '1':
             resetTokens()
 
         wait = WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.ID, 'create_btn_c'))) # clike button
         wait.click()
-        driver.implicitly_wait(14) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
+        driver.implicitly_wait(16) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
 
         if checkElementExists('[alt="Unsafe image content detected"]', 'dog'): # YJK.
             filtered += 1
@@ -316,21 +348,21 @@ while True:
         time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.send_keys(proompt)
-        continue
 
     except:
         print("Unknown error.")
         driver.get("https://www.bing.com/images/create/")
         time.sleep(2)
-        continue
+        inputform = driver.find_element(By.ID, 'sb_form_q')
+        inputform.send_keys(proompt)
 
 driver.close()
 ```
 ###random DALL-E gens
-![](https://files.catbox.moe/5x893a.jpg)
-![](https://files.catbox.moe/ipg7as.jpg)
+![](https://files.catbox.moe/4h25kc.jpg)
 ![](https://files.catbox.moe/q1lwk8.jpg)
 ![](https://files.catbox.moe/kbv8n3.jpg)
+![](https://files.catbox.moe/dz78cl.jpg)
 ![](https://files.catbox.moe/shwtgn.jpg)
 ![](https://files.catbox.moe/8rcqf3.jpg)
 ![](https://files.catbox.moe/87w2qf.jpg)
@@ -338,11 +370,26 @@ driver.close()
 ![](https://files.catbox.moe/41w126.jpg)
 ![](https://files.catbox.moe/kyqlwp.jpg)
 ![](https://files.catbox.moe/l4fioj.jpg)
+![](https://files.catbox.moe/8shdvl.jpg)
+![](https://files.catbox.moe/iwzcdu.jpg)
+![](https://files.catbox.moe/j0ep8j.jpg)
+![](https://files.catbox.moe/0eslir.jpg)
+![](https://files.catbox.moe/c86lg4.jpg)
+![](https://files.catbox.moe/rbkddi.jpg)
+![](https://files.catbox.moe/q6qa9e.jpg)
+![](https://files.catbox.moe/10benv.jpg)
+![](https://files.catbox.moe/1y6lfw.jpg)
+![](https://files.catbox.moe/mpi473.jpg)
+![](https://files.catbox.moe/gfhfjm.jpg)
 ![](https://files.catbox.moe/zdar7o.jpg)
 ![](https://files.catbox.moe/c5q59w.jpg)
 ![](https://files.catbox.moe/omujce.jpg)
 ![](https://files.catbox.moe/mzfw7i.jpg)
 ![](https://files.catbox.moe/56ogkn.jpg)
+![](https://files.catbox.moe/5x893a.jpg)
+![](https://files.catbox.moe/ipg7as.jpg)
+![](https://files.catbox.moe/05jsyi.jpg)
+![](https://files.catbox.moe/fym3jj.jpg)
 ![](https://files.catbox.moe/eiam0n.jpg)
 ![](https://files.catbox.moe/h653yo.jpg)
 ![](https://files.catbox.moe/f35ntz.jpg)
@@ -354,6 +401,10 @@ driver.close()
 ![](https://files.catbox.moe/k0zt81.jpg)
 ![](https://files.catbox.moe/dzxy2b.jpg)
 ![](https://files.catbox.moe/jiqar7.png)
+![](https://files.catbox.moe/uawhim.jpg)
+![](https://files.catbox.moe/slqsso.jpg)
+![](https://files.catbox.moe/vvg2e6.jpg)
+![](https://files.catbox.moe/b8vc1w.jpg)
 
 ###the backlog
 some of these are done but i may not release them anyways. feel free to steal these ideas if you want

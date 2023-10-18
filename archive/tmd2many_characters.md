@@ -25,6 +25,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | Team Clover Force
 [Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | Team Stylish
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | Team Ruckus
+[Dustin](https://rentry.co/dustinonenuttyactor) | Ex-Human (Anamnesis) | Bagon | N/A | Team Ruckus
 [Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | Team Stardust
 [Evan Greene](https://rentry.co/EvanGreene) | Ex-Human (Anamnesis) | Snivy | N/A | Team Clover Force
 [Ishmael](https://rentry.co/bgkoh) | Ex-Human (Fragmented) | Scorbunny | N/A | Team Clover Force
@@ -40,9 +41,6 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | Team Stylish
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | Team Clover Force
-[Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
-[Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
-Example | Ex-Human | Species | Adventurer | Team Generic
 
 ->![Mug Shot? Is that a drink?](https://cdn.imgchest.com/files/345xcklzgw7.png)<-
 Name | Origin | Pokémon | Guild Role | Team/Affiliation
@@ -50,6 +48,9 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
 [Jet](https://rentry.co/tmd2character_jet) | Ex-Human (???) | Meditite | Baker/Cook | N/A
 [Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A
+[Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
+[Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
+Example | Ex-Human | Species | Adventurer | Team Generic
 
 ## Non-Player Character List
 !!! note All Characters that have been planned for reoccurring encounters go here. These have not been rolled. 

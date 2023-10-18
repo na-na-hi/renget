@@ -1,41 +1,41 @@
-![He's just a little guy, doin' snakey things](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/mcwvpQuxmsoPpKvkAekwnVLe)
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
+![REPLACE](https://files.catbox.moe/b8tyre.jpg) 
 
-### Evan Greene ♂
-"This isn't what I had in mind..."
-Evan was a man who you would pass on the street every day. Nothing special going on, boring job, the usual everyman. He was putting serious thought into Pokemon Training, but he seems to have been reborn before he could get started! Regardless, he's happy enough to not be pencil-pushing anymore. 
+### Dustin ♂
+==Let me tell you all about Dustin. He's a fine actor, a great actor. But for every part he could have got in New York, there was always a reason why he couldn't get it Why? Maybe it's because he's just so volatile and outspoken!==
 
 · | ->· ->
 ---- | ----
-**Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
-**Species:** Snivy | **Affiliation:** None
-**Level:** 7 | **Experience to Next Level:** 25/70
+**Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** ==Desperate For Work, Actor==
+**Species:** Bagon | **Affiliation:** ==REPLACE==
+**Level:** 6 | **Experience to Next Level:** 30/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 103₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
-Contrary | The User's Stat increases and Stat decreases are swapped.
+==Rock Head== | ==Protects the Pokémon from recoil damage.==
 
 ->Rookie Rank<-
-->*90/400 points to Normal Rank*<-
+->*0/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 |  Level 5 (20HP) | 20HP
-Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
+Health Points | 0 | Level 6 (120HP) | 20HP
+Attack | 1 | Species Bonus | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
-Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
-Speed | 0 |  Species Bonus | 5AP
+Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No Secondary Effect
-Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-Vine Whip | 5BP | 5AP | ≥2 | Grass | Physical | No Secondary Effect
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+==Ember== | 4BP | 5AP | ≥2 | ==Fire== | ==Special== | ==19-20; The Opponent is afflicted with Burn.==
+==Leer== | - | 4AP | ≥2 | ==Normal== | ==Status== | ==The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.==
+==Bite== | 6BP | 5AP | ≥2 | ==Dark== | ==Physical== | ==14-20; The Opponent Flinches.==
+==Dragon Tail== | 6BP | 5AP | ≥3 | ==Dragon== | ==Physical== | ==The User throws the Opponent.==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -48,7 +48,7 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 15 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
@@ -58,17 +58,18 @@ Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
-These may help you in segments where combat is unnecessary or just to simply show your prowess.
+    These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
-Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Attack | 0 | 7/9 | ▮▮▮▮▮▮▮▯▯
+Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
+Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
+Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
+Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
+Currently Training for Stat: EXAMPLE **ɪ** | Tier **ɪ** (+1 STAT) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -77,8 +78,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Healing berry
-2. Grass Gummi | iq booster
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -104,3 +105,9 @@ Name of Move | Description
 ------ | :----: 
 Eᴍᴘᴛʏ | Description
 Eᴍᴘᴛʏ | Description
+
+**NOTE**
+Land | Air Continent
+Evolves to Shelgon, +1 Defense at Level 30
+Evolves to Salamence, +1 Attack at Level 50
+HP is your level with an added 0, multiplied by 2. e.g. LvL. 5 = 50 x 2 = 100 HP

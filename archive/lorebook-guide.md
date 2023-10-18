@@ -46,7 +46,7 @@ You can also add extra fields like:
 > Appearance: blonde hair, green eyes, tall, glasses
 > Attributes: taxi driver
 (Optional) Sometimes a complex context might work better as prose,  
-and generally, a prose is a nice way to tie the entry together by writing at the bottom of the entry:
+and generally, a prose is a nice way to tie the entry together, put it at the end:
 > Nick is a long-distance taxi driver that got drawn into an investigation by being in the right place at the wrong time.
 
 Note! ==***Constrain yourself from writing in prose, as in, no full English sentences.*** Most attributes in finetune are list of keywords, and it's easier for the AI to understand this way.==
@@ -62,9 +62,8 @@ There is an exception as some field work with prose, but it's mostly list like a
 
 **Examples:**
 
-([Click here to download a .story that can help you write an entry from blank!](https://cdn.discordapp.com/attachments/340132496949772289/1151947532948226098/Attributes_Generator_2023-09-14T18_27_50.207Z.story)
-
-> Name: **Albedo** (Female **Succubus**)
+> Name: **Albedo** 
+> Type: female **succubus**
 > Class: Unholy Knight
 > Skills: flying, immune to disease, telepathy
 > Wears: white dress
@@ -82,7 +81,8 @@ There is an exception as some field work with prose, but it's mostly list like a
 >Mind: Aggressive
 >Traits: hides in dark, darkvision, tracks blood, dangerous
  
->**Igris** (**Sword**)
+>**Igris**
+>Type: sword
 >Attributes: magical, demons, ice power, ice blade
 >Igris is one of the legendary demon blades. It has vast ice magic inside of it. The wielder's hands are slowly freezing while holding Igris.
   
@@ -93,7 +93,7 @@ There is an exception as some field work with prose, but it's mostly list like a
 
 ###List
 These are insider knowledge and official tags that are confirmed to work well. Although, with Kayra, a LOT of terms will work. It's a language model after all..
-- **Type:** for clarifying what the entry is about. `character`,  `spaceship`, etc.
+- **Type:** for clarifying what the entry is about. `character`, `spaceship`, `concept, magic`, `historical event`, etc.
 - **AKA:**  for nicknames, full names, etc.
 - **Attributes:** A catchall list, and can be anything from reliable to useless, depending on what you put in it.
 - **Wears:** for clothing. Works best with generic categories like 'gamer', 'gothic', etc.
@@ -114,16 +114,13 @@ These are insider knowledge and official tags that are confirmed to work well. A
 - **Quote:** "" "" Examples of how characters talk. (Sometime the model will generate en space for quotes.)
 - **Motives:** `be a good superhero`, `do good`, `defeat God`, etc.
 
-Attributes for ***Settlements/Nations/Geographic Features*** **-**
+ ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Settlements/Nations/Geographic Features*** **─**
 **`Queen:`** **`King:`** **`Leader:`** **`People:`** **`Population:`** **`Major exports:`** **`Major imports:`** **`Capital`**  **`Terrain:`** **`Size:`** **`Area:`** **`Location:`** **`Government:`** **`Borders:`** **`Resources:`** **`Religion:`** **`Status:`** **`Allies:`** **`Enemies:`** **`History:`** **`Description:`** *(appearance for non-person)* **`Defenses:`** *(security)* **`Climate:`** *('dry, hot, sunny')* **`Fauna:`** *(animal life)*  **`Features:`** *(notable landmarks and other features)* **`Produce:`** *(trade goods etc.)* **`Warning:`** *(traveler's guide style warnings)* **`Military:`** *(Defenses but more proactive)* **`Provinces:`** *(location on the map - 'Fjordenland (north)')*
-
-Attributes for ***Creatures*** **-**
+ ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Creatures*** **─**
 **`Anatomy:` `Origin:` `Organization:` `Diet:` `Movement:` `Biome:` `Description:`** **`Traits:`** *('beautiful, mount, fast')*
-
-Attributes for ***Items*** **-**
+ ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Items*** **─**
 **`Cursed:` `Magic:` `Appearance:` `Location:` **
-
-Attributes for ***Organizations*** **-**
+ ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Organizations*** **─**
 **`Leader:` `Members:` `Presence: ` `Produces:` `Mission:` `Founded:`**
 
 ***
@@ -139,7 +136,7 @@ Yup, that's it—==Name: *Who they are + extra context.*==
 !!! danger Section
 	Create a new **Category** -\> Switch to **Subcontext tab**-\> Enable **Create Subcontext**
      -\>  Put `Characters:\n` into **Prefix** field.
-	Now your characters are grouped together! Now, go ahead and click **+** button!
+	Now, your characters are grouped together! Go ahead and click **+** button.
 
 **Examples:**
 
@@ -185,14 +182,14 @@ Yup, that's it—==Name: *Who they are + extra context.*==
 	or if it is a short story or important info you can enable Always On.
 - *Question:* **If I want to write about an existing setting or franchise, Should I write multiple Lorebooks entries on that?**
 	- *Answer:* Write what you need, those entries are no use if most nouns never came up. And also, check out the [memory guide](https://rentry.org/memory-guide).
-- *Question:* **How do I force the AI to reference current story?**
+- *Question:* **How do generate an entry using storytext?**
 	- *Answer:* Simply type these in your ongoing story, and let the AI generate. Then, cut and paste output into actual entry.
-For Attributes, you only need: `----`
-`Naomi`
-`Type: female spy`
 For Snippets, you need: `----`
 `[ Knowledge: Naomi; Type: female spy ]`
 `Naomi:`
+For Attributes, you only need: `----`
+`Naomi`
+`Type: female spy`
 For Prose, just use: `----`
 `[ Knowledge: Naomi; Type: female spy ]`
 
@@ -200,9 +197,8 @@ For Prose, just use: `----`
 Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain, [see this to learn more](https://naidb.miraheze.org/wiki/Using_Regex) - But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
 
 - *Goal:* **Exact matching**
-	- *Regex:* `/\bJoe\b/i` - only allow ==Joe==, but not ~~==Joey==~~ 
-    - *Variant: (s) -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
-    - *Variant: Case sensitive -* `/\bRock?\b/`
+    - *Answer: (s) -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
+    - *Variant: Case sensitive -* `/\bRock\b/`
 - *Goal:* **Avoid being in full name**
 	- *Answer:* `/\bKey(?! (maker|shop))\b/si` - activate on ==key== but not ~~==key maker==~~ or ~~==key shop==~~
     - *Variant: front -* `/\b(?<!(joe('s)?|john) )Key\b/si` - not active on ~~==joe key==~~, or ~~==joe's key==~~ 

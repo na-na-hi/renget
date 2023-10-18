@@ -28,6 +28,9 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 1/12/1 | 1 day | #02 Rub-a-dub Ravine | The group all head out to try exploration together!
 1/14/1 | 1 day | #EV03 Stay HAPPI | A stranger shows up in town.
 1/15/1 | 3 days | #03 The Color of Strife | Back to the ashes of the burnt forest, searching.
+1/19/1 | 1 day | #SQ04 Blast Seed Bomber | A detective in town wants you to catch a 'mon.
+1/21/1 | 1 day | #04 Watcher's Reverie | Dreams are such strange places: even stranger places to visit consciously.
+1/23/1 | 2 days | #05 The Foreshore Turnabout | Time to steal back an entire boat!
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -63,5 +66,9 @@ A mysterious benefactor from your dreams divulges information regarding one of y
 !!! (10/7/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #03 The Color of Strife
 Now an official
 
-!!! info (10/8/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ03 Blast Seed Bomber
+!!! info (10/8/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ04 Blast Seed Bomber
 Back to bothering Kleavor once again, you discover a "Detective Croagunk" loitering in the general area. He's in town to seek aid in bringing a criminal explosives enthusiast Frogadier to justice! After being accompanied to an underground cavern lake, you quickly find that its passages are trapped with bombs, ready to go with hair triggers. In the end of a dicey, spiky, and bomb-y encounter, you successfully apprehend the criminal, handing them off to Detective Croagunk. You've left an impression... perhaps you'll see more bounties in the future.
+
+!!! (10/14/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #04 Watcher's Reverie
+
+!!! (10/17/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #05 The Foreshore Turnabout

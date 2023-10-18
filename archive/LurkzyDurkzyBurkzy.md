@@ -1,4 +1,4 @@
-#-> lurkzn's Claude settings (v1.6 - 17 Oct)<-
+#-> lurkzn's Claude settings (v1.61 - 18 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 !!! note
@@ -22,14 +22,15 @@ Removed "Quick Coom" prompt item. Temp has been increased, however feel free to 
 than multiple, and then reinforcing this.
 
 17 Oct - v1.6. Added a NSFW enhancer prompt item that can be toggled on/off. 
+|-> v1.61. Minor refinements.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-##-> Preset (v1.6) <-
+##-> Preset (v1.61) <-
 !!! warning
 	-> Recommended Temp: 0.6-0.7<-
 	-> NSFW Enhancer add-on disabled by default.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/a757nd.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/8pt962.zip)<-
 ***
 ##->Extras<-
 !!! note NSFW Enhancer

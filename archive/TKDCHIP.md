@@ -294,3 +294,5 @@ https://files.catbox.moe/zfv5c6.mp4
 >"Very impressive documentation of our followers from one of the barrages this evening into Israeli territory" -Unknown
 https://files.catbox.moe/tbccfw.MP4
 https://files.catbox.moe/tg4mpn.MP4
+> News about the burning of Joseph’s Tomb east of Nablus, to which settlers make "pilgrimages" and desecrate the Tomb by incessant drinking and dancing - details will follow up
+https://files.catbox.moe/jmrxeb.mp4
