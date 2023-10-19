@@ -118,7 +118,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 25 | [The Dock of the Bay](https://rentry.org/RibombeeDock) | | [The Great Bulk Guide](https://rentry.org/BulkGuide) | | |
 26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn) | | |
-28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler (ft. Fern)]](https://rentry.org/b2f4t) | | |
+28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t) | | |
 29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
 30 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
 31 | [Branching Out](https://rentry.org/branching) | | | | |
@@ -423,6 +423,14 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
 	* [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992)
 	* [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517)
+* Preston the Popplio (Non-canon to Clover Guild)
+    * [Constructive Nightmare Chapter 1 (ft. Preston)](https://pastebin.com/3naP1M7M)
+    * [Constructive Nightmare Chapter 2 (ft. Preston)](https://rentry.org/ebddp)
+    * [Indominable](https://rentry.org/32yu3)
+    * [Fallen World Mystery Dungeon Overview](https://rentry.org/FWMDPrimer)
+    * [Fallen World Mystery Dungeon Part 1](https://rentry.org/FallenPT1)
+    * [Adventures every night wear the soul away](https://rentry.org/mzhq5)
+    * [Nothing can be said to be certain, except...](https://rentry.org/typee)
 
 !!! warning 
 	Ignore the symbols before the story names for now. They're part of a timelining project - more info later. (Make sure to add them to new entries, though.)

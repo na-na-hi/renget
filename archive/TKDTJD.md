@@ -1,5 +1,7 @@
 Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Videos To Help Fight The Jew
+-
 >Israel's Defence Strategy & the IDF - Doctrine, Mobilisation, and Recent Lessons
 https://www.youtube.com/watch?v=8xbkakrwmFo 
 > Why Did Israeli Intelligence Fail So Disastrously?
@@ -12,9 +14,11 @@ https://www.youtube.com/watch?v=W4gDfSNMRx4
 https://www.youtube.com/watch?v=RvYwfl7dgTY 
 >How Israel Censors the Internet
 https://youtu.be/4xl30Re1EUI?si=_kIYd7HZ7AISdG6O
-
-
->TELEGRAM NEWS LINKS
+>MARCHING TO ZION (FULL DOCUMENTARY): TALMUD, JUDAISM, ISRAEL ETC. EXPOSED
+https://www.bitchute.com/video/eh9dKPCMEyjC/
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TELEGRAM NEWS LINKS
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://t.me/geopoliticalblog
 https://t.me/Yediotnews
 https://t.me/CIG_telegram
@@ -22,8 +26,20 @@ https://t.me/stayfreeworld
 https://t.me/BellumActaNews
 https://t.me/warmonitors
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INTERVIEWS:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>VIDEO FROM 6 MONTHS AGO:
+https://www.youtube.com/watch?v=7eHQKJTnBoY 
+>BASED BASSEM:
+https://www.youtube.com/watch?v=4idQbwsvtUo 
+>PIERS MORGAN WONT DENOUNCE DEAD KIDS:
+https://www.youtube.com/watch?v=9jBgGY2Ww9Q 
 
---- PROTESTS ---
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ NITTER/X/TWITTER RECENTS:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Baghdad, Iraq
 https://nitter.net/sentdefender/status/1714426637452800366
 >Istanbul, Turkey
@@ -44,18 +60,6 @@ https://nitter.net/sentdefender/status/1714427882871640226
 https://nitter.net/sentdefender/status/1714428223566606783
 >Berlin, Germany
 https://nitter.net/sentdefender/status/1714428372527268214
-
-
->INTERVIEWS:
-VIDEO FROM 6 MONTHS AGO (MUST WATCH):
-https://www.youtube.com/watch?v=7eHQKJTnBoY 
-BASED BASSEM:
-https://www.youtube.com/watch?v=4idQbwsvtUo [Embed]
-PIERS MORGAN WONT DENOUNCE DEAD KIDS:
-https://www.youtube.com/watch?v=9jBgGY2Ww9Q [Embed]
-
-
->NITTER/X/TWITTER RECENTS:
 >Thousands of Greek citizens rallied in support of Palestine
 https://nitter.net/Sprinter99800/status/1714695868169748855#m
 

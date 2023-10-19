@@ -164,25 +164,5 @@
 
 &nbsp;
 
-# ☣️ ➜ Untrustworthy Websites
-
-- Unethical behavior, poor regulation, or the deliberate injection of malware. 
-- Fake clones that dishonorably employ the name of a well-known brand to lure users.
-
-&nbsp;
-
-WEBSITE | URL
-:---- | :----
-⚠️ 1377x | 1377x-to
-⚠️ KickassTorrents | kickasstorrents-to
-⚠️ The Pirate Bay | thepiratebay-org 
-⚠️ TheRarBg | therarbg-com
-
-&nbsp;
-
----
-
-&nbsp;
-
 📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
 ---

@@ -4,7 +4,7 @@
 
 ## Despaircord: https://discord.gg/aTWHgyG6WY
 
-## Scyllacord: Invite Revoked. Message girko or drag0n3xt on Discord.
+## Scyllacord: https://discord.gg/GdD5Mm9RBh  Message girko or drag0n3xt on Discord if link is expired.
 
 ## Mongocord: https://discord.gg/xpSThVQVn  
 

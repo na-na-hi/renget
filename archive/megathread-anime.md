@@ -157,13 +157,9 @@
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaido.to/)
 
-### ▶️ [KickAssAnime](https://kaas.am/)
+### ▶️ [KickAssAnime](https://kickassanime.am/)
 - Dependable for new releases with excellent quality, but not the greatest selection for older anime.
-- [URL Safety Results](https://www.urlvoid.com/scan/kaas.am/)
-
-### ▶️ [KissAnime](https://ww1.kissanime.so/)
-- Watch anime online and download high-quality episodes without having to register. Enjoy and have fun.
-- [URL Safety Results](https://www.urlvoid.com/scan/kissanime.so/)
+- [URL Safety Results](https://www.urlvoid.com/scan/kickassanime.am/)
 
 ### ▶️ [Kitsune](https://www.kitsunee.me/)
 - There are several high-quality, ad-free options to select from while streaming your favorite anime.

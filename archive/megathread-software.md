@@ -261,28 +261,5 @@
 
 &nbsp;
 
-# ☣️ ➜ Untrustworthy Websites
-
-- Unethical behavior, poor regulation, or the deliberate injection of malware. 
-- Fake clones that dishonorably employ the name of a well-known brand to lure users.
-
-&nbsp;
-
-WEBSITE | URL
-:---- | :----
-⚠️ FileCR | filecr-com
-⚠️ FTUApps | ftuapps-dev
-⚠️ Get Into PC | getintopc-com
-⚠️ Karan PC | karanpc-com
-⚠️ Portable4PC | portable4pc-com
-⚠️ SadeemPC | sadeempc-com
-⚠️ S0ft4PC | s0ft4pc-com
-
-&nbsp;
-
----
-
-&nbsp;
-
 📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
 ---

@@ -1,4 +1,4 @@
-#-> lurkzn's Claude settings (v1.62 - 18 Oct)<-
+#-> lurkzn's Claude settings (v1.6 - 18 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 !!! note
@@ -23,20 +23,16 @@ than multiple, and then reinforcing this.
 
 17 Oct - v1.6. Added a NSFW enhancer prompt item that can be toggled on/off. 
 
-18 Oct - v1.61. Minor refinements and changes aimed at being more creative and NPC involvement. NSFW Enhancer has been
-modified in a way that when enabled, a new position and location will be chosen until {{user}} explicitly mentions cumming
-in their response.
-|-> v1.62. Modified Assistant's line to describe her surroundings to add ambience, focusing on sensory details not previously 
-described.
+18 Oct - v̶1̶.̶6̶1̶.̶ ̶M̶i̶n̶o̶r̶ ̶r̶e̶f̶i̶n̶e̶m̶e̶n̶t̶s̶ ̶a̶n̶d̶ ̶c̶h̶a̶n̶g̶e̶s̶ ̶a̶i̶m̶e̶d̶ ̶a̶t̶ ̶b̶e̶i̶n̶g̶ ̶m̶o̶r̶e̶ ̶c̶r̶e̶a̶t̶i̶v̶e̶ ̶a̶n̶d̶ ̶N̶P̶C̶ ̶i̶n̶v̶o̶l̶v̶e̶m̶e̶n̶t̶.̶ ̶N̶S̶F̶W̶ ̶E̶n̶h̶a̶n̶c̶e̶r̶ ̶h̶a̶s̶ ̶
+b̶e̶e̶n̶ ̶m̶o̶d̶i̶f̶i̶e̶d̶ ̶i̶n̶ ̶a̶ ̶w̶a̶y̶ ̶t̶h̶a̶t̶ ̶w̶h̶e̶n̶ ̶e̶n̶a̶b̶l̶e̶d̶,̶ ̶a̶ ̶n̶e̶w̶ ̶p̶o̶s̶i̶t̶i̶o̶n̶ ̶a̶n̶d̶ ̶l̶o̶c̶a̶t̶i̶o̶n̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶c̶h̶o̶s̶e̶n̶ ̶u̶n̶t̶i̶l̶ ̶{̶{̶u̶s̶e̶r̶}̶}̶ ̶e̶x̶p̶l̶i̶c̶i̶t̶l̶y̶ ̶m̶e̶n̶t̶i̶o̶n̶s̶ ̶
+c̶u̶mm̶i̶n̶g̶ ̶i̶n̶ ̶t̶h̶e̶i̶r̶ ̶r̶e̶s̶p̶o̶n̶s̶e̶.̶ Reverted to v1.6.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-##-> Preset (v1.62) <-
+##-> Preset (v1.6) <-
 !!! danger Important
-	-> **Recommended Temp**: 0.6-0.9 (Play around with this range)<-
 	-> NSFW Enhancer add-on **disabled** by default.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/9h597b.zip)<-
-->[**Alternate DL link**](https://bunkrr.su/d/tTKzf0q7ktFJk)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/0cn22a.zip)<-
 ***
 ##->Extras<-
 !!! note NSFW Enhancer

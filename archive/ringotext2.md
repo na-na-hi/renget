@@ -767,3 +767,39 @@ Finally the intense stimulation is too much for you and you begin to cry out and
 She looks up at you, giggles and winks.
 "Wow, you make a really good potty! I'll see you again in a few hours!"
 She walks out of the room humming, letting out a few small toots as she goes.
+
+-> * * * <-
+
+## >>60300780
+
+My face is firmly sandwiched between her supple thighs, the very heavens are blotted out by her rotund rump, and any rolling fumes would wash over into the funnel that is my face. My clean pores are primed and ready to meld with the potent pox that Riifu would deliver unto me. Goodbye white genes, i will become the minority, stained brown by this experience. My mouth cracked open so that my tongue may deepen the complexity of the olfactory experience i was about to imbibe in. I was not a spiritual man, but i prayed for this day for many years. Finally it is upon me, and like lightning, you see it before you hear the thunder. I saw those dappled cheeks ripple like waves and then i heard its whisper. The harbinger of the end, began low, then built up, the giggle of its flatulence raised to a squeak then a screech and then to a crescendo and its primal tone was a veritable horn of Gabriel. The earmuffs that were her thighs did much to protect my hearing, but the bone conduction was an intimate affair and i was weaping at the beauty. The tears wet my face and met the onrushing gas, staining brown as the fumes tore across my face, i would be clinically diagnosed with revitiligo, like the unlucky uncle ruckus(no relation) and the brown mist would seep into my open gullet. My tongue samples the onrushing fart overloading the senses. Like a caveman trying cola, or a bat at a rock concert, i was spasming from the intense flavour that overflowed from the concentrated experience. It was like MSG was having sex with my synapses, my vision quickly faded and my spasming only harried my breath, which finally delivered the braps to my nose. My hearing was shot, the taste was overloaded and my vision was collateral. I quickly lost feeling in my body as all of my blood that wasnt on my face had evacuated to my dick. My nose had become the alamo. I knew i would lose this too, much like my conciousness. For they say your senses grew sharper as you lose them. I was basically the brap daredevil on steriods, or hellen keller(...DerriereDevil?). My nose had become a vaccuum, two huge sucking pits that would make kirby proud. The hunger for oxygen fed this machine in its mad desire to fill itself with the flood before it. Like a drowning man trying to outdrink the ocean he flailed in. I knew not of the depths of the gastrointestinal fortitude of my friend but i knew i was filling with shit. Her particles of poop soon combined within my nose, first a hint. Then an essence, and soon it was caked on. All i could smell feel see taste and hear was her feces. I was vored from without. I was experiencing her insides while on the outside, for ive become an extension. Much more complex than a toilet with a face, the line where ass ends and i begin was melded into one. We were two parts of a human centipede and no surgeries in sight. But id like to believe we were more of a yin and yang composition, for my balls were prolapsed, and my sperm count was in the negatives, but every drop of semen from my past present and future has found its home on the face of my dear Riifu. I love you my little brap queen, i dream of pink eyes and shit eating grins, my own obviously and its directed to your ass.
+
+-> * * * <-
+
+## >>60449073
+
+Oh god. Imagine those pure Jomon braps. Not a drop of Yayoi blood in her. Only pure japanese, sweet IBS Braps, the relief she must feel, as the pain goes away as she unleashes her swollen bowel gas straight into my mouth. The first mouthful I would swallow, the second I would inhale, alternating between swallowing her sacred gas and inhaling her sweet ass essence into my longs, her shart particles transferring into my blood stream. I want to suck up her farts into a syrringe and inject them into my tear ducts, under my skin, into my blood stream...
+
+-> * * * <-
+
+## >>60458001
+
+Sora has to wear a wide-girth plug to hold back the tide of her demonic thundering braps.
+When she ends stream, double triple checks and physically unplugs her microphone, she removes her buttplug and unleashes a wall-shaking gurgling gust of girlgas that fills the room with wallpaper stripping fumes in .2 seconds.
+Any fart fetishist that made nasal contact with her third-nuke farts would immediately cum so hard he or she would have a 90% chance to pass out and die from an aneurysm.
+Legends say that she is the only girl alive that could outbrap Coco.
+
+-> * * * <-
+
+## >>60535326
+
+Strapped down, am I, by the weight of Fuwawa's fleshy rump, which freely engorged itself upon my face. Her soft, rotund cheeks eclipse my peripheral vision and erase all colour from my world. In front of me, a void black nothingness which went on eternally. My vision was stolen by the event horizon of the cavernous maw before me. There is no light here, yet there is a sickening pleasure formulating deep within me. Like that of a virus invading a foreign land and wiping out the native populace, it overwhelmed me. An anxiousness builds the longer she steals my breath with her soft, white backside. For you see, the cartiligineous protrusion from which I breathe is pressed tightly against her sweet anus, entryway to the ancient hallowed halls untouched by scholar and unstudied by men of science. My had been breath stolen by the sweet feminine pheromones which permeated her virginal rectum, a scent enhanced by her many hours of unwashed work. But something wicked stirred deep within and was soon to come this way. Deep, so deep within her inner sanctum, lay a dormant pox. A toxicity that grew frumious at my uninvited intrusion at the gates of these unplumbed, cyclopean depths.
+Slowly, the secret creeping horror riled from its antedilivian slumber. A beastial thing formulated by Fuwawa's consistent devouring of a certain fermented bean product. A dish which had long since broken down inside of her to become a gaseous presence. One which had awaited this moment for time immemorial. The invented noxiousness desired escape, and I was to be the battlement for which it invaded. Without warning or preparation, it had happened, the thing which I had both desired and feared. The long-awaited event that had caused my initial anxious arousal.
+Fuwawa farted.
+It exited quickly from her orifice in a thunderous fury, splattering my clean face with the putrid scent of her explosive natto brap. My ears rang from sound, and my skin stained from the brown. There was no paradise for me to escape to. No, this was the only paradise I'd ever deserve.
+I was trapped. Her rancid winds had no valley to blow through. Only my face. My lungs had gasped, hungry for oxygen, yet they would only be silenced by her blasphemous brap. I sucked in the putridity, and my mind grew blank from the incomprehensible smell that came from one so angelic.
+They say the human mind is incapable of correlating all of it's content, and today, I found out why. There are things for which we are not meant to experience. You see, I had become something which defied understanding. Under the appreciable duress of the large-breasted goddess' natto brap, I had come to a realization. I am no longer a man. My conscious experience exists now solely with the noxious poison that only Fuwawa could create. I am but a cadaver meant only for the zyklon chambers of her gastrointestinal creations.
+May the merciful God, if he indeed exists, guard me in these times, for I fear nothing will save me from her sickening stench. One which will soon suffocate me. One which I hope suffocate me.
+Fuwawa's natto braps...
+
+-> * * * <-

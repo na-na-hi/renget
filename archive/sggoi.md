@@ -627,3 +627,95 @@
 >The room is dyed crimson with blood, who's blood? You dare not ask or even think about it, the words along the walls, however, haunt you: "Witch!" "Liar!" "Run away!" "Don't listen to her!"
 >"Just stop thinking about the bad things Anon, you'll be ok, I'll make it all go away Anon."
 >Is this what the other guards and the chief felt? Or have you fallen into a different kind of insanity?
+
+***
+
+## Day 11 - Retro / Vintage Shiori
+
+>A new antique store had just opened in town
+>A strange curiosity you never had before, compels you to enter and check it out
+>You never had much interest in antiques, but the store itself seems to be inviting you, maybe it's just the sense of it being new?
+>There you see many things from older times, a record player, an old clock, some chairs that look like they were made in the 1700's or even 1800's.
+>As you look through the store, your eyes fall upon a porcelain doll.
+>The doll had a strange monotone hair, its eyes were a fiery yellow, almost golden. It wore a black dress and had a distinct hair pin.
+>"Interested in that one are you? Hehe I'm afraid that one isn't for sale."
+>You look up towards the direction of the voice speaking to you, and you see a girl that looks just like the doll.
+>She gives you a gentle smile, though her golden eyes practically stare into your soul
+>"Welcome, I'm the owner of this humble shop, Shiori Novella."
+>You can't help but be entranced by her rather grand tone, almost mesmerized even.
+>She take out a book and sits on a chair at a rather old looking table, and beckons you to come join her
+>As if moved by her graceful movements, you follow her to the table and sit down next to her.
+>She opens her book and begins to read outloud to you, however, strangely the words are all a blur, you hear a mix of sounds that almost sound gibberish, they make no sense
+>Your eyes begin to feel heavy, you're strangely tired, was it a hard day at work? Maybe you just didn't sleep well.
+>Your eyes begin to close as Shiori is reading the story to you, normally seen as rude, one would proceed to slap you awake, however she gently smiles, as if your departure into slumber was planned.
+>A noise stirs you awake, and as you open your eyes, you find yourself sitting at a dinner table.
+>Candles are lit on the table, a fine looking meal in front of you.
+>You look around, beginning to notice other things, there's another meal opposite you, the place you're in is entirely unrecognizable.
+>The time seems to be stuck at 8pm. You stare at the clock for a couple minutes, counting time in your head, but the arrows do not move
+>Suddenly, as you continue to track the time, a hand rests gently on your shoulder
+>"Oh, you're awake dear?"
+>Your eyes jolt open as you turn towards the source of the voice
+>There you see Shiori, in a rather simple sundress
+>She tilts her head at you. Concerned about the look of shock that appears to be on your face
+>"Honey, what's wrong? Are you alright?"
+>You close your eyes for a moment, trying to take in everything that's happening
+>"I'm fine dear."
+>You utter words that you've never said before to anyone, you worry that those words may not have been the ones she's looking for
+>However, relief washes over her face, and she gently rests her lips against yours.
+>"Thank goodness, you really had me worried there, now let's eat."
+>Her lips were soft to the touch, whatever this is, it felt very real, all your senses were reacting to it. Your first kiss was taken in a place you didn't know of.
+>The two of you begin to eat dinner together
+>The meal is silent, glances are exchanged, her smile is met with a smile of your own
+>Though the dinner was spent in silence, it was probably one of the most pleasant ones you've ever had.
+>Your eyes close, your thoughts go back to how this all began, with your chance decision to visit that antique shop
+>However, your thoughts are disrupted, as the clock had begun to ring.
+>You open your eyes to see that time has begun to move again, the clock once stuck at 8pm has now moved on towards 10pm. Did two hours pass by that quickly?
+>"Ah, it looks like it's time for bed honey."
+>Shiori gently gets up, taking your hands in hers
+>They're extremely soft and smooth to the touch, the sensation in your hand is almost divine
+>She brings you to a bedroom that the two of you supposedly share.
+>There she lays on the bed, her arms towards you, encouraging you to join her in that bed.
+>As if in a trance, you follow her lead, you gently climb onto the bed, your head finds itself resting on her chest.
+>Her arms gently wrap around your head.
+>You've never been held like this before, it's so warm.
+>Then, her words softly reach your ears.
+>"Good night, my love."
+>You can hardly find the words to respond, but you manage to utter a soft "Good night." in response.
+>As your eyes close, your head comfortable against her chest, you slowly drift off into slumber.
+>And then you awaken once more, in the same antique shop you had originally began in
+>There Shiori, the shopkeeper, closes her book, and looks at you with a gentle smile.
+>"How was it? Dear customer, did you enjoy that story?"
+>You look at her in bewilderment, did you simply fall asleep and dream of her? Or was there something more to it?"
+
+***
+
+## Day 12 - Pajamas Shiori
+
+>Shiori is having her actual day off
+>She stretches a little then gets up, looking at her phone
+>As she gets on her computer, a message pops up
+>"Get off the computer and take your day off."
+>A reminder that she had put for herself.
+>She then whimpers a little, insisting that she has to do some work, however she ends up sighing and resigning herself
+>She gets up again, takes off her black shirt and skirt, leaving her in only her lacey undergarments
+>She then opens her closet door, sifting through the various dresses, tops, and silly costumes she bought for herself
+>After a couple minutes, she takes out something.
+>one piece bunny pajamas, a smile appears on her face as the tips of her lips curve upwards
+>She dons the bunny pajamas and puts on the hood, the hood has bunny ears attached and she plays around with them a little, flopping them casually.
+>She giggles, amused with herself, then she lays back down in bed, declaring today to be her official 'lazy stay in bed day'
+>She lays back down, her usual comfy pink bed with pink curtains replaced with a Halloween theme'd bed, the curtains now black except for one.
+>She lazily glances at the one curtain that remains pink and says to herself: "I'll get to that eventually."
+>She takes her phone out, still somewhat unable to leave the idea of her fans behind entirely for just a day
+>She notices that her little gift for her most loyal knights had come out, so she flicks through the comments, reading each one and leaving a little token of appreciation for the ones she likes most.
+>After having done that she leaves some music playing out loud on her phone's speaker and closes her eyes.
+>Slowly drifting into a rather lazy slumber, a satisfied smile crosses her face
+>She begins to dream about a wonderful day at an autumn festival
+>She's about to receive a cake when suddenly
+>She hears a loud "Meow" followed by paws scratching at her
+>Without even opening her eyes she simply sighs and says: "Pepper, stop it, I was having a nice dream gosh darn it."
+>She slowly gets up from her bed again, opening her eyes gently, and looking down at her cat Pepper.
+>He's scratching softly at her arm being needy
+>Her other cat, Salt is laying down lazily next to her
+>"This is why I like Salt more, fricking Pepper."
+>As she grumbles her grievances, she gently scratches behind Pepper's ears anyway.
+>"Time to get you some food I guess. Needy Pepper."

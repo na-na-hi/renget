@@ -26,7 +26,7 @@ Image| Name | Description | Link
  ![this card is so fucking niche](https://files.catbox.moe/3y7g8h.png) | KOLLAGE | Rain, karaoke, and neon: KOLLAGE is here to soundtrack your saudade-soaked nights. Enjoy the tunes—or enjoy the silence. GPT-4 only. Comes with custom JB, system prompt, and character lorebook. | [CHUB link](https://www.chub.ai/characters/knickknack/kollage-e07328b2)
  ![If you like this, check out the Gormenghast books by Mervyn Peake!](https://files.catbox.moe/fvyp1w.png) | The Lamplighter | A pure inheritor of the weight of Tradition, born to guide you, the Prisoner, out of the carnivorous Castle. Rites and rituals must be observed. But Escape? The NARRATIVE will try to frustrate you at every turn. Comes with custom JB, system prompt, and character lorebook. Written for 'Gothic Horror' Theme Week. | [CHUB link](https://www.chub.ai/characters/knickknack/the-lamplighter-da467f5f)
 
-###Characters from Other Media
+###Characters Based Off Of Other Media
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![first bot with the usual first bot mistakes, spruced her up a bit now though so she should work better.](https://files.catbox.moe/fs1v2d.png) | Saki Yoshida | A naive and gullible high schooler who wishes to make friends, from ShindoL's Emergence. Can you help her? Art by ShinoL. | [CHUB link](https://www.chub.ai/characters/knickknack/saki-yoshida)

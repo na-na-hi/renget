@@ -471,6 +471,170 @@ Torchic takes note of my tone of voice, saying, “I know you're probably worrie
 The others wave me off, Cyndaquil surprisingly not slipping one final comment in, much to my relief.
 
 ####Day 3:
+Day 3:
+The next morning, I find myself wandering the guild halls aimlessly, trying to think of something to do today. Without Wooper around, my motivation is completely shot. Try as I might, I can't think of anything to do today. Bored and lonely, I make my way towards the dining hall to at least get something to eat, but along the way, I spot something... bizarre.
+
+I spot what looks like a robotic duck. It is colored blue and magenta, and looks ahead with glowing white eyes, hovering directly towards me.
+
+Feeling a little uneasy, I wave my hand in front of its eyes. “Umm... hello? Are you... alive? Are you a guild member?”
+
+Its eyes flash twice, and what sounds like a text-to-speech voice responds to me with “MODEL NAME: PORYGON2. THIS UNIT IS AN AUTOMATON UNDER THE OWNERSHIP OF (Smith).” 
+
+What in the world?! This thing's an outright robot! Trying not to think about how this thing exists here, I ask it “Uh huh... What can you... do?”
+
+“MAIN PURPOSE: TO ASSIST EXPLORATION TEAMS BY PROVIDING INFORMATION ON DUNGEONS.”
+
+Still not sure what to make of this, I ask, “What information do you give?”
+
+“1: DUNGEON LENGTH. 2: WEATHER PATTERNS. 3: DANGEROUS POKEMON. 4: RECOMMENDED TEAM COMPOSITION.” 
+
+“So you're like some kind of strategy guide?” A little curious as to what Wooper's getting himself into, I offer this question. “Give me everything you've got on a place called Miracle Sea.”
+
+A crude, digital picture of an hourglass appears on both of the robot's eyes, rotating as it loads the information. “LOADING QUERY... SEARCHING... RESULTS FOUND.”
+
+“Really? What do you have?!” I shout, a little too eager to know.
+
+“MIRACLE SEA. LENGTH: 23 SECTIONS. AQUATIC NATURE REQUIRES BREATHING UNDERWATER TO ACCESS. WEATHER PATTERNS: UNDERWATER. VISIBILITY: MODERATE TO POOR DEPENDING ON DEPTH. DANGEROUS POKEMON INCLUDE; LANTURN, OCTILLERY, DARKRAI, CRADILY.  RECOMME-”
+
+I cut the machine off. “Wait, WHAT?! You're telling me there's a *Darkrai* under the ocean?” Forget Team Marsh and Wooper, I'd be surprised if the entire guild at once could stand up to something like that! “Quick, tell me more about Darkrai!”
+
+“DARKRAI: EXTREMELY RARE AND DANGEROUS. LOCATIONS: VARIOUS DUNGEONS. ATTACKS BY PUTTING FOES TO SLEEP AND CAUSING NIGHTMARES. SEEMS TO REQUIRE BRINGING A SPECIFIC TREASURE WITH TO DRAW IT OUT OF HIDING. MAY BE SEEKING TO STEAL HIGHLY VALUABLE OBJECTS.”
+
+“Specific treasure?! What specific treasure?!” I'm starting to panic right now, Wooper and his parents could be headed into a trap!”
+
+“SOURCES INDICATE THAT ^%#$$#@^ IS THE CORRECT ITEM.”
+
+“... What?! Your voice glitched up!” Then a thought comes to mind. “... Wait a second, how recent is your info?”
+
+“LAST UPDATE ON MIRACLE SEA LOGS: 14936 DAYS AGO.”
+
+I let out an uneasy sigh of relief, Darkrai might not even be alive anymore. “Great, a machine with absurdly out of date info. Thanks for giving me a heart attack you hunk of-”
+
+I'm interrupted by something big and purple skittering up to me. As I turn to face it, I see a large scorpion-like creature, wearing a yellow polka dotted bow on its head. The sight of such a large bug makes me jump a little before my mind registers him as a guild member. He narrows his eyes ever so slightly at my reaction. “I heard yelling, what's up with you?”
+
+Was I really shouting all of that? “Ahh... This thing was feeding me all kinds of insane info that might not even be relevant anymore.” 
+
+“Oh. Some of it is probably useful, but we pretty much hauled it out of a junkyard.”
+
+“Uh huh...” Still on edge and with nothing else in mind, I ask “So... What're you up to today?”
+
+“Furret and I a-”
+
+The Skorupi is cut off by a Furret rushing down the hall towards us. She wears a pink scarf around her neck, along with a red polka dot  bow on her head. Skidding to a half next to him, she unleashes a torrent of words upon me.
+
+“Oh hey, I remember you! You're Chespin, right? Well if you don't remember us, I'm Furret and that's my little buddy, and we're Team MLG! Hey, where's your little Wooper buddy? You two are always together, kinda like us! What do you think of his adorable little bow? I picked it out just for him! Doesn't it just perfectly suit his cu-”
+
+My current unease makes me snap a little. “Okay, I get it, slow down!!” Once she finally pipes down, I say, “What are you two up to today?”
+
+Furret recoils at my outburst, saying “Oh, sorry... I was gonna take my little buddy along shopping today. Oh, wanna come with us? I could pick you out an accessory too!”
+
+Despite her overbearing attitude, something about her cheerfulness reminds me of Wooper. Maybe I could get my fix by tagging along with the two of them today? “I got nothing better to do, why not?”
+
+“Great! Now let's just... Wait! I forgot my bag! C'mon, follow me!”
+
+-----
+
+Smith and I follow Furret to her team's room. Opening the door, she says “Aaaand here's our room!” As she scrounges around a set of drawers for her bag, I see something that makes my eyes go wide. Right there, in the middle of the room, are their beds, or rather... 'beds.' It's just hay on the floor. The mere sight of it sickens me to my very core.
+
+“... What is that?” I say, pointing to the 'beds'. “What the *HELL* is THAT?!”
+
+“Those are our beds, silly!” Furret beams.
+
+Her complete obliviousness to the severity of the situation makes me snap. Clenching my fist, I shout, “Beds? ***BEDS?!*** Those are NOT *BEDS!* That is a ***PILE OF HAY ON THE FLOOR!*** It is absolutely VILE! There are NO PILLOWS, there are NO BLANKETS, there is ***NOTHING SOFT TO LAY ON!*** How on EARTH do you two even manage to fall asleep at night? What will you do when it gets cold at night, *SHIVER* yourselves to sleep?! Cover yourselves with your *NO BLANKETS?* Oh, and what about when you wake up with back pain because you're sleeping on top of a thin layer of hay on a hard floor?! Why even HAVE a room in that case?! You may as well just sleep outside, but oh wait, grass is WAY softer than ***HAY!***”
+
+Furret interrupts me, saying “But I've always slept on hay, my little buddy even used to sleep on d-”
+
+I cut her off, continuing my rant. “What is *WRONG* with you?! This is NOT how you sleep! Do you even know why Wooper and I are called Team Cozy?! It's not because we sleep on ***GARBAGE AND FILTH*** like you, it's because our goal, our *NOBLE CAUSE*, is to put an absolute end to the HELL AND MISERY that are hay beds, bringing about naps and sleeps of ***ABSOLUTELY ASSURED COZINESS!*** I didn't nearly die to a gigantic hornet and a filthy *CHILLER* for a team in the guild to sleep like THIS! Wait right here, I will put an end to this *NIGHTMARE!*”
+
+Steaming, I run for the storeroom, fired up and ready to rid those two of their decidedly uncozy 'bed.' Picking up two pillows, I lift up a large bag of cotton with one vine, grabbing a couple of blankets with another vine. As I'm about to leave, I see Toge sorting some items up above me. Looking down at me, he says, “Ch-Chespin, y-you sh-should ch-... I-I mean, calm d-down!”
+
+“I can't calm down, there's a guild room still using HAY! Can you BELIEVE these lunatics?!” 
+
+Without waiting for a response, I rush back towards Smith and Furret's room. Dumping everything on the floor, I swing my vines at the hay 'beds', destroying them. “Now that that TRASH is gone, time for you two to learn the TRUE meaning of coziness.” 
+
+I pour out the bag of cotton in the center of the room, spreading it out in two piles, one a bit larger than the other. I then toss the pillows and blankets onto them, saying, “Go on, try it! Lay down on it and *WEEP* at all the wasted time you've spent trying to sleep on a hay '''''BED'''''.”
+
+Smith casts a glance at me, but skitters over towards the new bed, slumping down in the cotton as he pulls the blankets over himself. “This is... wow.”
+
+Furret follows suit, crawling into the other bed. “Hey, this really is a lot better! I could take a little snooze right now, even!”
+
+“You see?! My hatred for hay was stronger than my fear of going on my first missions, and THIS was the ultimate payoff for that. And...” I stop for a second, realizing how much I've been yelling the past several minutes. Did I really go off like that? Toge's rants must be rubbing off on me! Letting out a nervous laugh, I say, “... Like I said, a good night's sleep is one of the most important things you can get.”
+
+Furret climbs out of her newly made bed. Grabbing her bag, she says, “Thanks for the new bed! C'mon, let's go shopping!”
+
+-----
+
+The three of us head into the market. At nearly every stall we stop at, Furret begins to chatter about wanting to buy anything that's not nailed down, with Smith reigning her in each time she's about to make an impulse purchase. Throughout most of the day, I get the familiar feeling of being a child being dragged around town to every store by my parents... Come to think of it, why am I doing this? Maybe I should head back to the guild's garden and watch some clouds instead.
+
+Before I can make good on that thought, Furret nudges me, pointing to a small building. “Ooh, you'll like this place Chespin. They got all kinds of scarves, bows, ribbons, and bandannas on sale there!” Without waiting for a response from me, she grabs me by the hand and leads me into the shop, with Smith following close behind.
+
+The inside of the store has walls and racks covered in scarves, hats, ribbons, bows, and all manner of accessories. Furret scurries towards the far end of the interior rummaging through a rack while Smith stands near me, looking around. Even from here, I can hear Furret's comments. “Ooh, this one's cute! This bow's adorable, too! Ain't this scarf nifty, little buddy?”
+
+I cast a glance over at Smith. “Does she always do this when you go shopping?”
+
+“Yep.”
+
+I half-heartedly look through a nearby display for a good scarf. Most of what I see is a little too flashy or flowery for my tastes. As I look, I find myself wishing Wooper was around for this sort of thing. We could get something we both like in that case. Is he looking for something I like right now while adventuring? Should I try to pick something up for him as well?
+
+I'm snapped out of my thinking by an unfamiliar voice coming from above me. “Hello, are you searching for anything in particular?” Jumping a little, I look up, seeing a horrifying sight. Right there, above me, is the largest spider I have ever seen in my life! It's gigantic, seeming to be nearly triple my size! Letting out a scream, I turn and run for the door.
+
+“Chespin, wait! That's the shopkeeper!” Furret dashes towards me, trying to stop me.
+
+“Th-the shopkeeper?!” I take a shaky breath, looking back at the spider. It's an Ariados, and they aren't chasing after me. But... just the sight of a spider that big makes me skin crawl, friendly as it may be. “... Fine, sorry.” Why couldn't it have been something that wasn't a giant spider? Letting out a nervous laugh, I say, “Ahaha... you startled me, that's all. I'm uh, looking for some kind of... accessory? Something that ain't a scarf.”
+
+“Oh, I've got just the thing.” The shopkeeper retreats into the ceiling on a string of silk. After only a moment, they return with a red hat. It looks a lot like the kind I'd see truckers wear back in the old world. “Try this on!”
+
+Giving a shrug, I put the hat on, feeling it press down on my leafy quills. I look in the mirror, frowning a bit at the sight. I take the hat off, handing it back to the Ariados as I shake my head. “It's not BAD, but... It doesn't suit me. Besides, I need the quills out, it's more comfortable.”
+
+“No hats, got it.” Without another word, they ascend once more, returning with a yellow and white headband. “Try this on, it's a Weather Band. It'll shelter you from any bad weather you come across.”
+
+Tying it around my head, I check the mirror again. “This is better, but I don't think it's what I want. Won't this stop me from feeling the sun, too?”
+
+“That's a dealbreaker, isn't it...” The Ariados ponders for a moment, before saying, “I got it!” Returning once again, they say “I'm certain you'll enjoy this one” as they place a light blue and purple cape in my hands.
+
+I turn the cape over, examining the design and feeling the material. It feels very soft, almost like a comfy blanket. The pattern reminds me of a lake, and the colors remind me of... Wooper. Frowning a little, I tie it around my neck, looking in the mirror. Part of me feels a little awkward at the idea of walking around wearing a cape, but at the same time, I feel a childlike desire to want to do just that.
+
+The Ariados notices my frown, saying, “Do you not like it?”
+
+I shake my head. “No, I like it, but... It reminds me of my best friend. I wonder how he's doing, so far from home. Until recently, he's been at my side nearly every moment of the past several months. He's with some very skilled explorers currently, and even then, I can't help but worry constantly for his safety...” I let out a sad sigh before picking my head back up. “I'll take this with me, but... Do you have one of these with a forest-like design on it?”
+
+“Certainly! Let me fetch it for you and I'll get you taken care of.” 
+
+A bit later, Ariados returns with the requested cape, with a design that reminds me of, well, myself. It is green and brown, and almost seems to depict a forest clearing. Handing over my money, I stuff the second cape in my bag. Looking around the store one more time, I see Furret excitedly rummaging through some more displays, with Smith standing idly by. He gives me a look of defeat, saying, “You can go, but I'm sure I'll be stuck here for another hour or two.” Nodding, I wave him goodbye as I head outside.
+
+-----
+
+I wander around the treetops and bridges of Capim Town as the sun begins to set, not knowing what else to do. The feeling of my new cape billowing behind me feels kind of cool, but my mind wanders back to Wooper. Even if it's possible to get by without him around, there's still a void left by his absence. Furret's a bit too overbearing and ditzy to be a good substitute, and I don't think anybody in the guild would be as good at fighting as him. Nobody except... that team with the Torchic and Squirtle? I've heard some interesting things about them, actually. Maybe I could tag along with them for a day? As the sky grows darker, I turn around, heading back towards the guild.
+
+I walk down the darkening guild halls, yawning a little. Most of the others seem to already be in their rooms, and I can hear their chattering from behind the various doors. As I round a corner, I freeze up at what I see in the shadows. A silhouette with a big head, no arms... branched gills poking out of the sides of their head?? I know that look anywhere!
+
+“Wooper?! Wooper!” Letting out a sigh of relief, I shoot my vines out at him, pulling him into a big hug! “You're finally back! I was so worried about you!” Setting him down, I continue with, “So, did you find any... treasure...?”  Hang on a second... As my eyes adjust to the darkness, I see something off about Wooper. 
+
+![This isn't Wooper...](https://cloverguild.com/booru/data/posts/772_51637ae4913bacf9.png)
+
+Pink splotches cover his entire body, and he wears a purple and yellow scarf. Now that I think about it, Wooper would have come looking for me if he came back early. “...Who are you?!” I ask, feeling myself deflate.
+
+“I'm one of the new guild members, and my name is Cheesecake! I'm part of Team Gumbo!”
+
+“...Oh.” He's cheerful, but... This isn't Wooper, it's just A Wooper! “I'm Chespin... Sorry, you looked like my partner at first glance.”
+
+He seems to notice my disappointment for a split second, but moves right past it, saying, “I do?! There's another Wooper here? That's awesome!”
+
+“It would be awesome... But he's away for awhile, so I'm just a one-man team.”
+
+“Oh, but still, that's cool! I can't wait to meet him!” This guy's so cheerful, are all Wooper this way?
+
+“Um... It's nice to meet you, I guess, but don't tell anybody about what I did earlier, okay?”
+
+Cheesecake nods, saying, “Don't got a reason to do that!”
+
+-----
+
+I lay in bed for what feels like an eternity, looking out at the starlit sky. Just under halfway through the week now. The things I've heard about Miracle Sea today scare me, but even if that's true... Team Marsh have whole decades of experience. Even if they couldn't fight against a Darkrai, they'd surely be able to use their resources to escape, right? Besides, how's a Darkrai going to breathe underwater, anyways? That old hunk of junk must be wrong with talk like that! 
+
+At least, I hope...
+
+
 ####Day 4:
 ####Day 5:
 ####Day 6:

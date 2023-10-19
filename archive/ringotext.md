@@ -252,6 +252,10 @@
 | [>>59952300](https://rentry.org/ringotext2#59952300) | Various | ringo |
 | [>>60196902](https://rentry.org/ringotext2#60196902) | Fuwawa | brap |
 | [>>60273482](https://rentry.org/ringotext2#60273482) | Shiori | brap, ringo |
+| [>>60300780](https://rentry.org/ringotext2#60300780) | Riifu | brap, choco |
+| [>>60449073](https://rentry.org/ringotext2#60449073) | Ayame | brap |
+| [>>60458001](https://rentry.org/ringotext2#60458001) | Sora | brap |
+| [>>60535326](https://rentry.org/ringotext2#60535326) | Fuwawa | brap |
 
 ## >>249165
 

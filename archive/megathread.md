@@ -3,7 +3,7 @@
 # 📜 ➜ **Megathread**
 
 !!! info ➜ Not so fast sailor! Do this first
-    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://a.imagem.app/o37ZWE.jpeg) (*Blocks advertisements & malware*).
+    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://a.imagem.app/on42hV.png) (*Blocks advertisements & malware*).
     - [x] Change your DNS settings to one of [these great choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
     - [x] Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
     - [x] Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
@@ -50,7 +50,7 @@
 ### 🎮 [Games](https://rentry.co/megathread-games)
 - Games require interaction with a user interface or input device, such as a controller or keyboard, to produce fun audiovisual feedback.
 
-### 📱 [Mobile](https://rentry.co/megathread-mobile) (Update in progress...)
+### 📱 [Mobile](https://rentry.co/megathread-mobile) (*Update in progress...*)
 - Mobile, or smartphones, are portable devices that integrate computing and telephone functionality into a single OS such as Android or iOS.
 
 ### 🎦 [Movies & TV](https://rentry.co/megathread-movies-and-tv)
@@ -62,11 +62,22 @@
 ### ⚙️ [Software](https://rentry.co/megathread-software)
 - Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
 
-### 👟 [Sports](https://rentry.co/megathread-sports) (Update in progress...)
+### 👟 [Sports](https://rentry.co/megathread-sports) (*Update in progress...*)
 - Sports refers to physical activity or game, generally competitive, that utilises one's ability and skills while entertaining spectators.
 
-### 🧰 [Tools](https://rentry.co/megathread-tools) (Update in progress...)
+### 🧰 [Tools](https://rentry.co/megathread-tools) (*Update in progress...*)
 - Tools for activation, userscripts, download managers, assistants, extensions and a plethora of other supplemental software.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 🌀 ➜ Dangers of the Sea
+
+### ☣️ [Unsafe Sites](https://rentry.co/megathread-unsafe-sites)
+- Due to numerous serious and inexcusable offenses, these malicious websites have acquired a dreadful reputation.
 
 &nbsp;
 

@@ -203,35 +203,5 @@
 
 &nbsp;
 
-# ☣️ ➜ Untrustworthy Websites
-
-- Unethical behavior, poor regulation, or the deliberate injection of malware. 
-- Fake clones that dishonorably employ the name of a well-known brand to lure users.
-
-&nbsp;
-
-WEBSITE | URL
-:---- | :----
-⚠️ AIMHAVEN | aimhaven-com
-⚠️ ApunKaGames | apunkagames-com
-⚠️ Crohasit | crohasit-net
-⚠️ Descarga Game | descargagame-com
-⚠️ Game3rb | game3rb-com
-⚠️ GamesTorrents | gamestorrents-fm
-⚠️ IGGGames | igg-games-com
-⚠️ NexusGames | nexus-games-net
-⚠️ nosTeam | nosteamgames-ro
-⚠️ Ocean of Games | oceansofgamess-com
-⚠️ Repack-Games | repack-games-com
-⚠️ Steam-Repacks | steam-repacks-com
-⚠️ STEAMUNLOCKED | steamunlocked-net
-⚠️ Worldofpcgames | worldof-pcgames-net
-
-&nbsp;
-
----
-
-&nbsp;
-
 📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
 ---

@@ -310,3 +310,18 @@ https://files.catbox.moe/77m6sd.mp4
 >Video of the Hamas Missiles fired vs. Kikes Using JDAM on the hospital simultaneously, crafty kikes. SMOKING GUN PROOF KIKES BOMBED THE HOSPITAL. (added Oct. 18th)
 https://files.catbox.moe/tl5tk0.webm
 https://files.catbox.moe/m21q49.mp4
+>"Hamas are the new nazis, despite only controlling an area roughly the size of Las Vegas which is completely encircled by the Israeli military, having no air force, navy, or the equivalent of a modern army of their own." (added Oct. 18th)
+https://i.4cdn.org/wsg/1697676998292005.webm
+>New Hezbollah Kino (added Oct. 18th)
+https://files.catbox.moe/02qdou.mp4
+>Westbank gunfighting, child gets shot. (added Oct. 18th)
+https://files.catbox.moe/5409cs.mp4
+>Gunshots in Westbank (added Oct. 18th)
+https://files.catbox.moe/35dr1s.mp4
+>Gunfighting in Westbank (added Oct. 18th)
+https://files.catbox.moe/fx1qh7.mp4
+> Israeli security forces have entered Bethlehem, where they were greeted with stones. Several arrests are reported. Israeli forces were also deployed in Hebron and shots were heard. Armed clashes are also taking place west of Tulkarm, West Bank. (added Oct. 18th)
+https://files.catbox.moe/qd4xnt.mp4
+https://files.catbox.moe/ncoyo4.mp4
+https://files.catbox.moe/cxyz01.mp4
+https://files.catbox.moe/fgsco4.mp4

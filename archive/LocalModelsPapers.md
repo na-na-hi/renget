@@ -404,6 +404,7 @@
 10/2023|[LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models](https://arxiv.org/abs/2310.08659)
 10/2023|[Towards End-to-end 4-Bit Inference on Generative Large Language Models (QUIK)](https://arxiv.org/abs/2310.09259)
 10/2023|[Microscaling Data Formats for Deep Learning](https://arxiv.org/abs/2310.10537)
+10/2023|[xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/abs/2310.02989)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

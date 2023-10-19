@@ -1,5 +1,5 @@
 ->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
-![placeholder](https://cdn.discordapp.com/attachments/1156449313971519601/1162213614271352963/96370753_p0.jpg) 
+![The Boy!](https://files.catbox.moe/4erlmn.png) 
 
 ### Mohka ♂
 "Fuck it, we ball."
