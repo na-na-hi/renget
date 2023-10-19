@@ -496,7 +496,7 @@ Strange Steam | 9 BP | 7 AP | ≥2 | Fairy | Special | 16-20; The Opponent is af
 Strength | 8 BP | 6 AP | ≥2 | Normal | Physical | The User can lift certain objects.
 Struggle Bug | 5 BP | 6 AP | ≥2 | Bug | Special | The Opponent's Special Attack is decreased by 1.
 Submission | 8 BP | 6 AP | ≥5 | Fighting | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
-Sucker Punch | 7 BP | 5 (-1) BP | ≥2 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
+Sucker Punch | 7 BP | 5 (-1) AP | ≥2 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the Opponent's Ability.
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 

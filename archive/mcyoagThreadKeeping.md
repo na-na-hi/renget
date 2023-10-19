@@ -685,6 +685,8 @@ https://rentry.org/dm26u
 https://pastebin.com/4CFMctzq
 >Lesson 2: Puncuality(Misao, Arika)
 https://rentry.org/nai7zs
+>Pathfinder (Arika, Fumie)
+https://rentry.org/e5wpk
 
 Artfags:
 >Misao (In and out of costume)

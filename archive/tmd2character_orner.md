@@ -6,9 +6,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 8 | **Experience to Next Level:** 10/80
-**Worn Item:** *Oran Berry* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 435₽ | **Glorious Gold:** 0 Bars
+**Level:** 8 | **Experience to Next Level:** 20/80
+**Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
+**Pokécoin:** 515₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -67,8 +67,8 @@ Training | Completion | Progress (Numerical) | Progress Bar
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Oran Berry | Heals 10HP when health drops to half.
-*Equipped Item: Oran Leaf | Heals 3HP
+*Worn/Held Item: Eᴍᴘᴛʏ | Vacant worn slot.
+*Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Warp Seed | Random teleport seed.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -83,7 +83,7 @@ Item Name | Description
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Contract: Treasure Hunt | Find the artifact for Lilac.
+Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

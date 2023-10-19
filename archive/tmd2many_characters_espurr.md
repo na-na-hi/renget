@@ -25,9 +25,9 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 7 | **Experience to Next Level:** 0/70 | **Alignment:** True Neutral
+**Level:** 7 | **Experience to Next Level:** 10/70 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 40₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 139₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -90,7 +90,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----:
-Attribute: Gravitational Potential | Tier **ɪ** (+1) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
+Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature. 
 Battle Attribute: ??? | - | - 
 
@@ -98,7 +98,7 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Attribute: Gravitational Potential | Tier **ɪɪ** (+2) | 1/3 | ▮▮▮
 Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
@@ -111,9 +111,9 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: Oran Leaf* | Heals the user for 3 HP. Can stack to 3.
+*Equipped Item: Empty* | Empty
 1. Blast Seed | Explodes on contact for 10 true damage.
-2. Oran Leaf | Heals the user for 3 HP. Can stack to 3.
+2. Empty | None
 3. Empty | None
 4. Empty | None
 

@@ -3,7 +3,14 @@
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
+**Renpet** ~1.8k tokens. Bratty Egyptian foxbaba that wants a man. Good god I wish I knew how to say less, every time I'd reread her defs to try and prune I'd end up adding more detail. I like how she turned out though, I opted to leave her speech mostly normal with a couple little ticks to keep dialogue . I don't know how she'll work on non geppy AI, too annoying to chase proxies just for testing. My initial impression is 'nobody's downloading this thumbnail to have a loving relationship,' so I could probably justify skimping on personality details, but I know better at this point. 
+I saw your post, Karlötta guy.
+>But shitmakienon, this is a jackal not a fox
+shut the FUCK up
+![](https://files.catbox.moe/gafcxt.png)
+[*image source*](https://beta.sankakucomplex.com/post/show/34231914) [chub](https://chub.ai/characters/hitogami/renpet-f0a2b691/main)
 
+ 
 **Shinatsu** ~1.7k tokens. Dumb foxbaba bumpkin with a big sword. I think I might've tried to inject a bit too much personality in to this one, but if you actually read this shit then you expect that. The AI (that I'm using anyway) does a great job at making her talk sufficiently hicklike. Haven't tested her with anything other than geppy4, but I'd be surprised if Turbo couldn't handle her. I wrote a bit of character history for this one, which I'll provide as a lorebook. It's not particularly necessary, just includes some details on her motivations to add a bit of spice to her flavor of stupid. Read it if you plan to use her. I don't know how to format them properly.
 ![](https://files.catbox.moe/eism7p.png)
 [*image source*](https://beta.sankakucomplex.com/post/show/6863717) [chub](https://chub.ai/characters/hitogami/shinatsu-e7ae2bd2) [lorebook](https://chub.ai/lorebooks/hitogami/shinatsu-history-876e2a33)
