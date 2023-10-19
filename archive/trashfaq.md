@@ -365,3 +365,7 @@ Example of webui-user.bat contents:
 A111 has its own listings of Commandline Arguments and Optimization methods:
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
+
+## How do I train LoRAs on EasyFluff / vpred models?
+
+Guide: https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI

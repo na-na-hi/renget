@@ -28,7 +28,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Bensley](https://files.catbox.moe/i2z7cb.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Yui](https://files.catbox.moe/tnjq1e.png)|[SCP-8901](https://files.catbox.moe/9kdg8b.png) [MV], [Hana](https://files.catbox.moe/9dku7z.png)
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Marimba](https://files.catbox.moe/l1gewq.png), [Sara](https://files.catbox.moe/6mxeol.png)|
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Rusty](https://files.catbox.moe/v5tml2.png), [Wink](https://files.catbox.moe/l2111e.png)|
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Rusty](https://files.catbox.moe/v5tml2.png)|
 [123123232](https://rentry.org/g2u47) | Sizeplay |[Tomoro](https://files.catbox.moe/9493dv.png)|
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc |[Kaede](https://files.catbox.moe/2hoeys.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Shizue](https://files.catbox.moe/e938f6.png)|

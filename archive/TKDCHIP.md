@@ -1,4 +1,6 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ORIGINAL CLIPS HERE: https://rentry.org/daeq2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >VERY OLD. pissreal jewrats snipe child for fun
 https://files.catbox.moe/42o36w.webm
@@ -325,3 +327,5 @@ https://files.catbox.moe/qd4xnt.mp4
 https://files.catbox.moe/ncoyo4.mp4
 https://files.catbox.moe/cxyz01.mp4
 https://files.catbox.moe/fgsco4.mp4
+>ROCKETS TOWARDS WEST NEGEV (added Oct. 19th)
+https://files.catbox.moe/il3gic.MP4

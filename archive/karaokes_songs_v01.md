@@ -17,8 +17,8 @@
 | PinoccioP - God-ish / 神っぽいな |[![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA)|3m25|
 | Kalafina - Magia |[![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM)|5m25|
 | DECO\*27 - The Vampire (English cover) |[![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw)|3m14|
-|5th cover - TBD |-|-|
-|6th cover - TBD |-|-|
+|5th cover coming out on 2023-10-21 |-|-|
+|6th cover - TBD (ft. Aradia aka Anerissa) |-|-|
 
 #####Collab Songs
 | Song | Link | Duration |

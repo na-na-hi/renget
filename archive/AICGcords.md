@@ -1,23 +1,37 @@
-# /AICG/ Discords
+# ==/AICG/ Discords==
 
-## LGAcord: https://discord.gg/u7mFxFBt
+**Despaircord:** https://discord.gg/aTWHgyG6WY
 
-## Despaircord: https://discord.gg/aTWHgyG6WY
+**LGAcord:** https://discord.gg/u7mFxFBt
 
-## Scyllacord: https://discord.gg/GdD5Mm9RBh  Message girko or drag0n3xt on Discord if link is expired.
+**Sekritcord:** Email secretbotclub@cock.li for an invite.
+Does not have proxies. Accepting botmakers, jailbreakers, but also pretty much anyone. Just email.
 
-## Mongocord: https://discord.gg/xpSThVQVn  
+**Scyllacord:** https://discord.gg/QzzvK25wYG
+![girko](https://files.catbox.moe/fzyooz.png)
+Message girko or drag0n3xt on Discord if it's expired.
 
-## Wafflecord: https://discord.gg/Sdb4A8kM
+**Mongocord:** https://discord.gg/xpSThVQVn  
+Run by Mongo.
 
-## Comfycord: https://discord.gg/ww8WbYyETH
+**Wafflecord:** https://discord.gg/Sdb4A8kM
 
-## Malebotcord:  https://discord.gg/mHEMeWVg
+**Comfycord:** https://discord.gg/ww8WbYyETH
+Niceposting only / no dramafagging.
 
-## Ratcord: Invite Only. Message robertdanzig on Discord.
+**Malebotcord:**  https://discord.gg/mHEMeWVg
+No avatarfags. Malebot love.
 
-## Studycord: Invite Only. 
+**Studycord:** Invite Only. 
 
-## Spitecord: Not Real.
+**Ratcord:** Invite Only. 
+Botmaker Discord. Message robertdanzig on Discord.
+![robbie](https://files.catbox.moe/cux8tj.png)
 
-## Characord: Deleted.
+**Characord:** Got Deleted.
+
+**Jestercord**: https://rentry.org/anonjester
+
+-> ![doobie](https://files.catbox.moe/9gvwhn.png) <-
+-> you save this, my friend, its all yours! <-
+-> maintained by digitalcircus@proton.me <-

@@ -1,3 +1,4 @@
+Will never revoke any tokens without a reason.
 # Stats
 !!!Note 489 users | 2590553 proompts | 105361 IPs | 406.54m tokens | US$4480.03 cost
 User||Prompts|IPs|Usage

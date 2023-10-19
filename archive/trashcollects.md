@@ -771,16 +771,12 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 # KX' LoRAs
 
-Anonfiles links seem to be down; KX reuploaded his LoRAs here:
-
-	https://hastebin.com/share/alazotunec.rust
-
 Yzmuya (Artist)
 
-	https://anonfiles.com/e1g8I3x1z1/yzmuya_v1_12_safetensors
+	https://files.catbox.moe/hrfdmu.safetensors
 > Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "yzmstyle" (I couldn't use the artist's name since it's already in fluffyrock and it provides awful results) 
 
-	https://anonfiles.com/38Z4n7z5z3/yzmuya_v1_16_safetensors
+	https://files.catbox.moe/0fvf7j.safetensors
 > I increased the threshold for the image tagger and added/replaced a small part of the dataset with generated images - the improvement is minimal, but it's there. It mainly works better when used with lower weights, compared to the previous versions. Activation token is still "yzmstyle"
 
 	V1.19: https://files.catbox.moe/7c8v0i.safetensors
@@ -789,32 +785,37 @@ Yzmuya (Artist)
 
 Viosgit (Artist)
 
-	https://anonfiles.com/M4k9S9x6za/viosgit_v1_2_safetensors
+	https://files.catbox.moe/7v1mps.safetensors
 >Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3 at 768x768 resolution, clip skip 2. The activation token is "viosgitstyle".
 >It's slightly undertrained compared to my yzmuya lora but I can't really do much about it - 90% of the image dataset has text all over it and mouths and details start to get fucked up. There's also quite a bit of jpeg artifacts generation, but that gets mostly fixed during upscaling. Also no nudes in the training because the artist just doesn't do them afaik
 
 maro no oheya (Artist) 
 
-	https://anonfiles.com/4441beyezc/maro_v1_4_safetensors
+	https://files.catbox.moe/su5ct6.safetensors
 > Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution
 >The activation word is "maro"
 
 evil_jia / neutral_jia / jianeutral (Artist)
 
-	https://anonfiles.com/j2c8o8y0z3/evil_jia_v1_4_safetensors
+	https://files.catbox.moe/krn6va.safetensors
 >Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution.
 >Activation token is "jiastyle"
 
 Kaminosaki Shiten (Artist)
 
-	https://anonfiles.com/Y3j0t7zbz5/kaminosaki_v1_1_safetensors
+	https://files.catbox.moe/vd1s4d.safetensors
 >Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "kaminosakistyle" (I couldn't just use the artist's name in this one either).
 >The dataset comes mostly from their two furry focused doujins. I will definitely go back to this one after sifting through the artist's twitter/pixiv pics
 
 Mauzy (Artist)
 
-	https://anonfiles.com/q9d3m235zd/mauzy_v1_4_safetensors
+	https://files.catbox.moe/gxdngd.safetensors
 >Trained on fluffyrock lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is still mauzystyle
+
+Kita / KitaKettu (Artist)
+>Trained on fluffyrock-lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is "kitastyle"
+
+	https://files.catbox.moe/cehi21.safetensors
 
 Rocky Rickaby (Lackadaisy)
 
@@ -825,6 +826,11 @@ Webber (Don't Starve)
 >activation token is "webber"; I honestly don't expect it to be particularly versatile, there isn't a lot of variety in the dataset. 
 
 	https://files.catbox.moe/kfnk44.safetensors
+
+Calvin "Freckle" Allen McMurray (Lackadaisy)
+>Activation token is ldcalvin
+
+	https://files.catbox.moe/bk1xqq.safetensors
 
 # Xenomorphs
 
@@ -1124,11 +1130,6 @@ medium breasts, breasts, genitals, nipples, nude, pussy, white body,
 Trained on Easter e17
 
 	https://files.catbox.moe/w1zcnc.safetensors
-
-# Kita / KitaKettu (Artist)
-Trained on fluffyrock-lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is "kitastyle"
-
-	https://files.catbox.moe/cehi21.safetensors
 
 # Rouge-ify LoRA (Rouge the Bat Clothing Concept)
 
@@ -1534,7 +1535,7 @@ https://imgbox.com/g/tdpJerkXh6
 
 ### E621 Tagger Model for use in WD Tagger
 Reminder that the prior GitHub repo has been discontinued; delete the extension's folder and install https://github.com/picobyte/stable-diffusion-webui-wd14-tagger instead, which reportedly works even with WebUI 1.6.
-The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are using the picobyte repo. Download only the Convnext V2 model, and place it as described.
+**The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are using the picobyte repo. Download only the Convnext V2 model, and place it as described.**
 
 	The WD Tagger extension as-is only generates Danbooru tags, which is great when training on NAI and other anime-based models. For models based on e621, the tags may need to be changed accordingly. For that reason, you can use the following model instead of the WD one.
 ![E621 Tagger](https://files.catbox.moe/9mv03e.png)

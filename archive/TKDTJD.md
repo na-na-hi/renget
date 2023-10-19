@@ -2,6 +2,9 @@ Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use t
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Videos To Help Fight The Jew
 -
+>IF YOU DON'T KNOW (FOR PILLING NORMIES):
+https://www.youtube.com/watch?v=7eHQKJTnBoY
+https://www.youtube.com/watch?v=i9TwBqDe_I0 
 >Israel's Defence Strategy & the IDF - Doctrine, Mobilisation, and Recent Lessons
 https://www.youtube.com/watch?v=8xbkakrwmFo 
 > Why Did Israeli Intelligence Fail So Disastrously?
@@ -25,6 +28,9 @@ https://t.me/CIG_telegram
 https://t.me/stayfreeworld
 https://t.me/BellumActaNews
 https://t.me/warmonitors
+https://t.me/IntelRepublic/29436
+https://t.me/askargaded/53786
+https://t.me/jenencamb/22850
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INTERVIEWS:

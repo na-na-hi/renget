@@ -4,6 +4,8 @@
 [TOC]
 
 Post logs if you can. They may give me inspiration for new bots. If you want to send me logs like that guy who sent me 20+ pages of mongirl clinic logs: thisisatest333@proton.me
+Some ramblings about how I design my bots. Very loosely structured and has boring writing:
+https://rentry.org/frozenvanramblings
 
 # New
 Stop reading this rentry and listen to Ginger Root: https://www.youtube.com/watch?v=hMCAF8tZ7ZE

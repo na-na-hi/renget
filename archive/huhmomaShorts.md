@@ -639,3 +639,64 @@ I need more of this. Does he also get defensive if you say that superhero movies
 >You reply to him that yes, you think Shadow is real
 >A real pain in the ass
 >He's silent the rest of the drive, his hackles raised the entire time
+
+Sorry anons, I NEED a happier ending for cynical anon and Shadow his campy super hero boyfriend. I'm hijacking this in lieu of more goats for the time being
+
+>Not a word was exchanged between the two of you for the whole drive back after your remark
+>Dell (your friend) kept his eyes on the road the entire time, but you'd gotten familiar enough with his tells to know that you had upset him
+>his ears flicked in irritation and he griped the steering wheel tightly. You thought you could almost hear the leather creaking under the strain of his grip...
+>you began to think you may have gone a little bit too far this time, it was clear he's truly passionate about this hero stuff
+>sure you had fun tearing it down but you start to feel a bit like a dick, he was always so excited to show you the newest movie or paraphernalia he bought
+>you don't even know how he saves enough money for all the merch he has, as far as you knew, you were both broke
+>you mulled over apologizing in you head for most of the short drive
+>but before you could gather the courage to admit fault, you were pulling up to your shared apartment
+>Dell turned the key and quickly exited the car
+>"This was fun Anon... Have a nice night." he had said to you, his flat tone betraying his true emotions
+>before he swung the car door shut and hurriedly walked into the large building
+>you had thought that was strange, considering you were going to the same room
+>by the time you'd unbuckled yourself and exited the vehicle, he had already disappeared into the apartment complex
+>and when you made it back to your apartment, the door to his room was shut, which was unusual...
+>that night, you could've swore... But weren't positive, that you heard soft whining leaking through the thin walls of your flat
+>That was almost a week ago now
+>things have been... "off" since that night
+>you're beginning to think your best friend has been avoiding you
+>you almost haven't seen hide nor hair of him since then
+>sure, you knew he worked odd hours doing "private contractor work" whatever that meant, you never pushed him too hard on it
+>but whenever you were both home, he closed himself in his room
+>even after making a big deal of his "open door" policy when you'd first moved in together
+>"You're my best friend Anon. you need ANYTHING, and my door is always open to you" he had told you, giving you the most genuine smile you'd ever received
+>now the memory prickles at your mind as you glance at the life-sized Batman cut-out plastered across his closed door
+>even the odd few times you did bump into him he was terse, not at all his usually cheery self, before retreating back to his dim room and closing the door
+>it was almost impressive how he seemed to have a second sense when it came to staying out of your way
+>maybe it was time to say something to him...
+>"And in other news, local superhero 'Shadow' has not made a public appearance since the disaster on Carnegie Bridge. Fellow members of the Justice League confirm that he is okay, simply enjoying a short vaca-" you turn off the morning news with a click of the TV remote and give a prolonged stretch
+>you look longingly at Dell's closed door again
+>you usually hung out and watched some campy movie on your days off together
+>you miss your friend
+>you decide you're gonna pull him out of his room by the ears if you have to, finally figure out what's come between you two
+>...After a quick shower of course, you feel grimey after the late night you worked yesterday
+>you take a good thirty minutes in the steamy water to wash yourself clean. Preparing for the day and the awkward confrontation sure to follow
+>as you shut the water off though, you hear Dell speaking to someone out in the living room
+>the conversation becomes more clear as you open the bathroom door
+>as you step out, you see Dell speaking with someone on speaker phone
+>"-dow you have to get over here NOW! Someone's gained access to the League's database! They could know ALL of our secret ident-" the grainy cellphone voice is cut off as Dell sees you leave the bathroom, hurriedly turning off speaker mode and pulling his phone to his ear
+>"Don't worry, I'll be down there in a jiffy!" he responds into the small device, after listening to the other voice on the line for a few more moments
+>he then hangs up and slips his phone back into his jean's pocket
+>and begins making his way to the front door without saying a thing to you
+>"H-hey! Dell! Wait up I wanted to-" you begin only to be cut off by the canine in question
+>"Later, Anon. Work stuff came up. I gotta hurry over there now" he states plainly, already halfway out the door
+>"B-but I-" you try to interject again
+>"Anon, not now. I'll be back soon" he once again shuts you down, an unusually serious expression on his face
+>you can only stand there in your towel as he step out into the hallway
+>but before closing the door behind him, he pauses
+>and turns to look you in the eye, his expression suddenly seeming more worried than before
+>"Anon... I'll be back in a few hours- Do not open this door for ANYONE unless you're sure it's me... Okay?" he asks you, a tinge of concern creeping into his voice
+>this was a little strange...
+>"Uh, alright?" you reply inquisitively, but this does not seem good enough for him
+>"I need to hear you say it" he says, turning his whole body to face you, an intense look adorns his features
+>"Geeze, okay. I won't open the door for anybody but you... What's with the sudden-"
+>you are interrupted yet again by the slamming of the front door as Dell takes off to destinations unknown.
+
+Okay that's all I got in me tonight. I PROMISE I WILL CONTINUE THIS TOMMOROW NIGHT
+
+Hope ya'll enjoyed it so far

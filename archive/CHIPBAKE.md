@@ -4,8 +4,8 @@ Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use t
 
 Previous Bread: 
 
-Glowniggers are trying to subvert /chip/ via well poisoning. /chip/ threads flying an israeli flag are fake shill threads. Ignore all threads and posters endorsing Israel, (((both sides bad))) posters, memeflags, and thread splitters.
-Do not trust ceasefire or other happening announcements without links/proof.
+Glowniggers are trying to subvert /chip/ via well poisoning. /chip/ threads flying an israeli flag are fake shill threads. Ignore all threads and posters endorsing Israel, (((both sides bad))) posters, memeflags, and thread splitters
+Do not trust happening announcements without link/proof
 \>REMINDER: NATO, America and Ukraine pledged their support to Israel within 12 hours of the war
 \>REMINDER: Russia, China, Afghanistan, Serbia, Iran and Syria all hate Israel
 \>REMINDER: Israel stole the Golan Heights from Assad
@@ -15,13 +15,12 @@ Do not trust ceasefire or other happening announcements without links/proof.
 By typing in this thread you denounce Israel as a legitimate state, denounce the Talmud and endorse TKD (Total Kike Death)
 
 THREAD THEME:
-https://youtu.be/4xtMRsgriwA
+https://youtu.be/HEqMvIBc2zw
 LIVE-STREAMS:
-https://youtu.be/Xt6DuGzIk0Q
-https://youtu.be/zsMXF2v32rU
+https://youtu.be/KcVIWxcIV74
+https://youtu.be/IHbhvc2szmA
 https://youtu.be/IcPPJqKsTR8
 https://youtu.be/UtruJztXE5w
-https://youtu.be/gCNeDWCI0vo
 NEWS:
 https://rt.com/
 https://youtube.com/@WION
@@ -40,10 +39,11 @@ OP
 https://rentry.org/CHIPBAKE
 
 RECENT:
-\>Biden announced no reprisal on Hezbollah 2d front
-\>US close Turk consulate
-\>Putin matches 2 US carriers with MiG31s on perm patrol
-\>Black flag raised on Razavi Shrine, Iran, mourning
-\>Doubled donations. Please donate, God bless you https://humanappeal.org.uk/
+\>Israel decides to officially evacuate the city of Ashkelon pop. 137000
+\>US army: soldiers were injured drone attack Al-Tanf Syria
+\>US State Dept issues worldwide caution travel alert
+\>IDF Minister: "You now see Gaza from afar, up close- two weeks"
+\>Biden: no reprisal on Hezbollah 2d front
+\>2x. Please donate, God bless you https://humanappeal.org.uk/
 \>Hospital bombed, 500+ dead. JDAM used. IDF did it
-\>Kikes have not turned on most utilities. Water resumed in S. Gaza pump only, damaged
+\>Most utilities off. Water resumed in S. Gaza pump only, damaged

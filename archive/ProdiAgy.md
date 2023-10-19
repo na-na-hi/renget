@@ -21,7 +21,7 @@
 !!! danger ==IMPORTANT:== Keep seed unset and retry if the result doesn't look good.
 !!! danger ==IMPORTANT:== ```Set repetitions to 1 and leave epochs as I set it. Set only max_train_steps and T_0 to the total steps you want.``` ```T_0``` is the step scaling/iterations for your cosine scheduler. Basically ```scales X axis on your UNET and TE tensorboard graphs.```
 !!! danger  ==OPTIONAL:== ```Adjust weight_decay (any value is fine as Prodigy adjusts to try and compensate). Only becomes a requirement when your dataset artstyle is abstract (monochrome, pixel art, minimalistic, etc)```
-!!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3.```
+!!! danger ==OPTIONAL:== ```Default d_coef is 1.0, it scales the d*lr for Prodigy. Shouldn't need changing for iA3 unless your dataset sux.```
 !!! note Everything else that you do not see in the .json is up to your taste and/or hardware.
 ### -> ==*TL;DR: adjust clip_skip, set t_0 and max_train_steps/max_train_epochs to your desired steps/epochs. Make X/Y/Z. Keep seed unset and retry for variations.*== <-
 ```
@@ -40,7 +40,7 @@
   "max_train_steps": "2000",
   "min_snr_gamma": 1,
   "optimizer": "Prodigy",
-  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=10\" \"weight_decay=0.01\"",
+  "optimizer_args": "\"use_bias_correction=True\" \"safeguard_warmup=False\" \"betas=0.9,0.99\" \"d0=3e-4\" \"d_coef=5\" \"weight_decay=0.01\"",
   "save_model_as": "safetensors",
   "text_encoder_lr": 1.0,
   "train_batch_size": 2,
@@ -59,7 +59,7 @@
 ###### -> CivitAI for their trash website that breaks 24/7. Hopefully iA3 image embeds will fix that so we can post on boorus instead. <-
 ###### -> 4chan for being clueless yet still barking. <-
 ###### -> A couple ignorant discords, reddits, github discussions. <-
-###### -> Everyone who assumes something is bad without having attempted in the first place to put in the effort and make it as usable as it can get. That is commonly known as being a sheep. <-
+###### -> Everyone who assumes something is bad just cause somebody else said so, without having themselves attempted in the first place to put in the effort and make it as usable as it can get. That is commonly known as being a sheep. <-
 
 Credits: 
 bmaltais for github and  reddit posts that inspired me to look into iA3 myself and check out which settings would be best.
