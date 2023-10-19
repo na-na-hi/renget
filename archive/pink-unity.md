@@ -125,7 +125,19 @@ Some examples include but are not limited to:
 *Mochi Beary* (EN): https://www.youtube.com/@mochibeary
 *Ciarra Chii* (EN): https://www.youtube.com/@CiarraChii
 *HaewonTheHeartstring* (EN): https://www.youtube.com/@haewontheheartstring
-*Algorhythm Project* (EN): https://www.youtube.com/@Effy_ARP
+*Effy* (EN): https://www.youtube.com/@Effy_ARP
+*Matara Kan* (EN): https://www.twitch.tv/MataraKan
+*Hanamiya Rose* (EN): https://www.youtube.com/@hanamiyarose
+*Spica Aoi* (JP): https://www.youtube.com/@spica_aoi
+*Yumebi Emu* (JP): https://www.youtube.com/@yumebiemu
+*Momoga Koyoi* (JP): https://www.youtube.com/@momogakoyoi
+*Aqrrin* (EN): https://www.youtube.com/@aqrrin
+*ArisuUsami* (EN): https://www.twitch.tv/arisuusami
+*Enya Yoruneko* (ES): https://www.youtube.com/@EnyaYoruneko
+*Datenshi Lune* (JP): https://www.youtube.com/@daluneASMR
+*Salmon Lordette* (EN): https://www.youtube.com/@SalmonLordette
+*Rei Tadano* (JP): https://www.youtube.com/@-Rei-Tadano-Vtuber
+*Itigori Ena* (JP): https://www.youtube.com/@-itigoriena-2265
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -135,6 +147,7 @@ Some examples include but are not limited to:
 *Huziyama Maromoka* (JP): https://www.youtube.com/@HuziyamaMaromoka
 *Miki Astrophel* (EN): https://www.youtube.com/@miilkycomets
 *Aure Miya* (ID): https://www.youtube.com/@YoRIAureMiyach
+*Yukkin* (JP): https://www.youtube.com/@ykn0911v
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
@@ -148,6 +161,7 @@ Some examples include but are not limited to:
 *MaoYugen* (EN): https://www.twitch.tv/maoyugen
 *Meow Mako* (EN): https://www.youtube.com/@meowmako
 *Ixy* (JP): https://www.youtube.com/@ixy
+*Akagi Wen* (JP): https://www.youtube.com/@AkagiWen
 
 ###Part-time pinks:
 To be *only* discussed within the context and as relating to their transient pinkness

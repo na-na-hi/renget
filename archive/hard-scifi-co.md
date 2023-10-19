@@ -9,9 +9,10 @@ It's hard to go true, rock-hard science fiction because there's always a level o
 ## The /co/ list
 
 #### Cartoons/Animated Series
-1. Love Death + Robots (2019)
-2. Cyberpunk Edgerunners (2022)
-2. Pantheon (2022)
+1. Technotise: Edit & I (2009)
+2. Love Death + Robots (2019)
+3. Cyberpunk Edgerunners (2022)
+4. Pantheon (2022-2023)
 
 #### Comics/Graphic Novels
 1. The Incal by Alejandro Jodorowsky and Jean Giraud

@@ -1,5 +1,5 @@
 #N'wahman's Bag of Mods for Lazy SSE Newcomers Who Detest Wabbajack Shittery (NBMLSNWDWS)
-updated September 2023
+updated October 2023
 
 [TOC]
 
@@ -22,11 +22,11 @@ SKSE will throw an error if it detects an incompatible version of a SKSE mod and
 These will either be required by something you go to download in the future, or are fixes for engine level bugs in Skyrim. I can't think of a good reason not to have any of these. 
 
 **Æ** .NET Script Framework - the creator has stated they will not be updating this for Analversary Edition. 
-*note: Custom Skills Framework and Improved Camera, both available on Nexus currently, no longer require NSF.*
+*note: Custom Skills Framework and Improved Camera, both available on Nexus currently, no longer require NSF. The only big thing missing is grass cache for grass LODs and if you really want them you'll figure something out.*
 
 Address Library for SKSE Plugins - version independence for SKSE mods.
 Comprehensive Attack Speed Patch - SKSE - This caps attack speed so you won't ever get the 6 million swings per minute shit when mixing and matching a dozen mods that all include their own attack speed fixes. Must-have.
-Spell Perk Item Distributor (SPID)
+Spell Perk Item Distributor (SPID) - Note: versions after 6.40 cause NPCs to be naked. Roll back for the time being, IMO.
 Keyword Item Distributor (KID) - *note:* patching with these 2 distro mods is as easy as editing an .ini file. Make your own and upload them for anons
 JContainers SE
 SSE Engine Fixes (skse64 plugin)
@@ -40,7 +40,6 @@ ConsoleUtilSSE
 Scrambled Bugs
 To Your Face SE, AE and VR - To taste.
 powerofthree's Tweaks
-Enhanced Volumetric Lighting and Shadows
 Animation Limit Crash Fix SSE
 FileAccess Interface for Skyrim SE Scripts - FISSES (not FISS! That's for oldrim. it's a surprisingly easy mistake to make.)
 Enhanced Reanimation
@@ -65,7 +64,7 @@ A huge number of mods will require this patch, and its companion CRF (Cutting Ro
 
 ##Camera:
 
-SmoothCam - This is now on the nexus. It's *invaluable.* Make sure you get a preset, it's pretty floaty by default. I use Octavian's, but centered. If you get weird zooming with AGO, check your FOV offsets and set to 0.
+SmoothCam - This is now on the nexus. It's *invaluable.* Make sure you get a preset, it's pretty floaty by default. If you get weird zooming with AGO, check your FOV offsets and set to 0.  Recommended presets: Octavian's or SmoothCam Vanilla Enhanced 2.
 Improved Camera - SE's skse based gopro-style 'I can see my bones from here' first person camera. Now on Nexus. 
 *note: Please check your compatibility settings in other mods like Immersive Interactions.*
 Enhanced Death Cam - watch the draugr that killed you t-bag your corpse and fuck your companions, just like real life
@@ -74,6 +73,7 @@ Improved Alternate Conversation Camera - Bioware/CDPR style over the shoulder sw
 Switch Camera During Dialogue - Does what it says on the tin. Probably incompatible with Oblivion Camera.
 VioLENS - There aren't really any problems with this, but if all you use it for is disabling VATS, there's an INI tweak for that. (bVATSDisable).
 No Furniture Camera - disables the locked camera when sitting, sleeping, etc. Will it break your sex mods? I dunno.
+Enhanced Volumetric Lighting and Shadows - This does mess with detection and has some issues with certain mountain meshes. For non ENB enjoyers just use Twilight.
 
 Photo Mode - This replaces a ton of screenarchery mods and I haven't seen a good reason not to use it yet. Supports posers as well without spells or other bullshit.
 
@@ -105,7 +105,7 @@ SkyHUD - thick and powerful HUD replacement. Most SkyUI skins will include a Sky
 Oblivion Interaction Icons - Replaces the activate text ("Search", "Ride", "Molest", etc) with icons. Make sure to run the synthesis patcher. (Many icons are only for mod-added features like Use or Take or DAK, so check those out too.)
 Simple Activate SKSE - customize the activate prompt. Somewhat redundant with SkyHUD or BTPS but not entirely.
 Read or Take SKSE - hold shift to pick up books. Zero jank, compared to old papyrus implementations.
-Use or Take SKSE - hold shift to interact with food, dropped torches, potions, poisons, etc. Also jank-free. 
+Use or Take SKSE - hold shift to interact with food, dropped torches, potions, poisons, etc. Also jank-free. *both of these can be set to gamepad keys.*
 Better Third Person Selection - lets you grab shit off the ground while staring at your character's ass, no pixel hunting required. *note: overrides all activate prompt settings from other mods. Check MCM carefully!*
 TrueHUD - Floating enemy health bars, MCM-customizable player bars, some other cool stuff. Sort of replaces SkyHUD in that most changes are overridden. Most modern UI overhauls need or support both SkyHUD and TrueHUD.
 
@@ -122,6 +122,7 @@ More Informative Console - You'll need this if you use the console, generally sp
 **NG** Yes Im Sure - does what it says on the tin (not recommended for alchemy runs. Some sort of CTD with poison dialog.)
 **NG** Stay at the System Page NG - does what it says on the tin
 Settings Loader series - **Install these for every mod you can**. Saves you a ton of time on starting new games.
+Gamepad Button Freer - This lets you unbind triggers out of combat so you can get 2 free hotkeys. I use LT for DAK, Read or Take, and Use or Take personally.
 
 ##Sound
 
@@ -147,7 +148,7 @@ Yggdrasil Music and SoundFX - we wuz (vi)kingz music. It's decent stuff, combat 
 ###SMP and skeletons
 
 XPMSSE - the default all-in-one skeleton replacer most character mods use as a base. It [Requires](https://www.nexusmods.com/skyrimspecialedition/mods/44252) [Several](https://www.nexusmods.com/skyrimspecialedition/mods/54720) [Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/60363). 
-*note: I highly recommend using the now available Basic version and leaving weapon styles to IED! You will not need the above script patches with Basic.*
+*note: I **highly** recommend using the now available Basic version and leaving weapon styles to IED! You will not need the above script patches with Basic.*
 FK's Diverse Racial Skeletons - I consider this a must. There's a synthesis patcher if you're too lazy to update your race records. You'll want Improved Camera to really *feel* like a manlet/chad/quadruped.
 Faster HDT-SMP - It's up to date and has all the latest fixes. It's really not that difficult to get set up.
 
@@ -168,10 +169,10 @@ Check out [this article](https://www.nexusmods.com/skyrimspecialedition/articles
 ####Bodies and Textures:*
 
 For aspiring penis havers: You have two main body options - Vanilla and Schlongs of Skyrim ([AE update](https://www.loverslab.com/files/file/20136-sos-ae/) and [Original](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) available on Loverslab). The two main skins, Tempered Skins and Skysight skins, now worth with both. I also recommend True Faces - better normal maps for either skin.
-*Note on HIMBO:* - Luckily for men, there is only one male bodyslide standard, and it supports SoS textures. If you want bodyslide for men, you will use HIMBO, you will like it, and you will find armors. The same cannot always be said for female armors due to the variety of choices.
+*Note on HIMBO™:* - Luckily for men, there is only one male bodyslide standard, and it supports SoS textures. If you want bodyslide for men, you will use HIMBO, you will like it, and you will find armors. The same cannot always be said for female armors due to the variety of choices. It is fucking ugly though and made by some sort of homosexual, so keep that in mind.
 
 For aspiring milk producers: Besides vanilla, your main body options are BHUNP and CBBE. CBBE has more armors so it's what I use. Each has dozens of textures, find a waifu whose look you like in the general and ask what skin they're using. There are no good vanilla textures, blame the coomers.
-*Note:* 3BA is CBBE with jiggly bits. TBD is CBBE, with bigger jigglers. Textures are compatible between the three, Bodyslides less so. All three CBBE variants as well as BHUNP support Bodyslide - but comparatively few armors are released for BHUNP so search around and make sure you can find enough you like before committing to it over a CBBE variant. For whatever reason BHUNP armors are regularly like 5 gigs for no reason.
+*Note:* 3BA is CBBE with jiggly bits. TBD is CBBE, with bigger jigglers. Textures are compatible between the three, Bodyslides less so. All three CBBE variants as well as BHUNP support Bodyslide - but comparatively few armors are retrofitted to BHUNP so search around and make sure you can find enough you like before committing to it over a CBBE variant. For whatever reason BHUNP armors are regularly like 5 gigs for no reason.
 
 Your face textures will wildly impact the look of your characters so pick well and pick it first. You can, of course, switch textures anytime, just keep this in mind.
 
@@ -206,37 +207,44 @@ Immersive Armors - most are ugly, don't fit the game, and the better ones all lo
 Immersive Weapons - less bad than Armors, but has a lot of low-quality junk. I've included what I believe to be the best weapons from this below, and Reforging adds a similar number for great variety.
 
 ###Armor and Clothing
-*Vanilla*
+
+####Vanilla
 Cathedral Armory - This is more of a base to start with than a comprehensive overhaul. The weapons and armors are better, but not perfect.
-Xavbio's (Insert Armor here) Retexture SE series - These are great, and bring all vanilla along with most CC and many mod added armors in line with Cathedral quality standards.
+Xavbio's (Insert Armor here) Retexture SE series - These are great, and bring all vanilla along with most CC and many mod added armors in line with Cathedral quality standards. They also cover Oblivion Artifacts Pack SE which I'm a huge fan of.
 Dark Brotherhood Armor SE - Finally, a good replacer for the gimp suit. Plenty of Bodyslides and retextures available.
 *or* Better Shrouded Armor Mesh Fixes and Additions - An ancient Witcher 2 asset rip, finally weighted properly. You can mix this with the above, using one for ancient and one for new. This will take some finangling however.
 Truly Light Elven Armor (male) - Replacer - Standalone - I really hate the elven armor. This fixes it.
 
-*New*
+####New Gear
 Common Clothes And Armors - This stuff is great. Fits into vanilla, huge amount of variety, no compatibility clusterfuck.
-*Mashup and Original Outfit authors to check out* - Obviously, all this shit is to taste, so this is just an idea board.
+*Mashup and Original Outfit authors to check out* - Obviously, all this shit is to taste, so this is just an idea board. You can use anime shit if you want for all I care.
 [GolinskiRH](https://www.nexusmods.com/skyrimspecialedition/users/72664818), [gearshout](https://www.nexusmods.com/skyrimspecialedition/users/3889166), [QuarantineCouture](https://www.nexusmods.com/skyrimspecialedition/users/94213673), [Pulcharmsolis](https://www.nexusmods.com/skyrimspecialedition/users/122433248) [Fuse00](https://www.nexusmods.com/skyrimspecialedition/users/6052912), [DeserterX](https://www.nexusmods.com/skyrimspecialedition/users/3373573).
 
-*NordwarUA Stuff*
+####NordwarUA
 *These are controversial, since they're very high quality and cool looking but evoke a much different feel than most vanilla armors. I've put them in a separate category for this reason.*
-Realistic Armor - I use this, since it just throws them in with the vanilla armors, which I quite like.
-NordWarUA's Vanilla Armor Replacers SSE - This is a somewhat straightforward mesh and texture replacer for vanilla armors. Lends itself to a more coherent slavic/mid renaissance aesthetic.
-Guards Armor Replacer SSE - Similarly styled replacers for stormcloak and guard armors.
-New Legion - NordwarUA has several styles for Imperial armor, this is the most widely used and has the most patches. 
+Realistic Armor - "Replacers" for each tier of vanilla armor in a realistic late renaissance style mixed into the leveled lists with vanilla gear.
+Guards Armor Replacer SSE - Similarly styled replacers for guard armors.
+*and/or* Sons of Skyrim - Stormcloaks get the same treatment.
+New Legion - NordwarUA has several styles for Imperial armor, this is the most widely used and has the most patches. Heavy Legion is cool too.
+*Note: RMB SPIDified mods will let you run all of these with ZERO compatibility concerns. Use these without it at your own risk!*
 
 ###Weaponry
 *Vanilla*
 ArteFakes - Makes unique weapons unique. Unlike Unique Uniques, doesn't have models so old they were used in Oblivion. Also has Every Weapon.
 JS Unique Utopia SE - Daggers - I like most of these more than the Artefakes offerings. Just load it after.
 Real Bows - I highly recommend these - this makes most base game bows actual bows. Check out Colourmatched Textures.
-*or* Better-Shaped Bows of the Heavens - Vanilla meshes tweaked to look less stupid. I load this before Real Bows.
+*or* Better-Shaped Bows of the Heavens - Vanilla meshes tweaked to look less stupid. I load this before Real Bows since it covers a few RB does not.
 ElSopa's Quivers Redone SE - I love these with Real Bows. Great designs and plenty of mod support.
 ElSopa - Shields Redone - Part I - These are to taste but I like most of them. Delete any meshes you don't like.
 
 *New*
 Reforging: Weapons To The Masses  - If you can only have one, this is going to do the trick.
 Weapons of the Third Era MoS Edition SE - Leveled list distribution for some really cool morrowind-styled weapons.
+
+###Notes on Gear Distribution
+
+Many gear mods, especially large-scale ones, change NPC records or leveled lists to add their armors. This is well and good until you have two mods changing the same NPC or leveled list and then it is not good. As of now, there is a solid library of mods using SPID to distribute old mods that had horrible compatibility and I cannot recommend them enough. The main series I would go for is RMB SPIDified: the author currently supports every armor mod I have in this guide and many more. There are others for old mods like Apachii Divine Elegance, if asset rips are your thing, and many more.
+Note that if guards are appearing naked you may want to roll back to SPID 6.4.0 for the time being, this is a known bug.
 
 ###Honorable Mentions:
 
@@ -248,9 +256,15 @@ If you need MOAR WEAPONZ BRO!?!?! than Reforging and WOT3E add: Immersive Weapon
 
 ##Combat: 
 
-True Armor - All-in-one armor and enemy balancing via distributed perks. Arrows and swords might bounce off of plate armor, encouraging you to use daggers or maces. Regen and other attributes dynamically change based on how many pieces of each armor type you equip. Allows you to set enemy health limiters to remove damage sponginess. Just Works. This is the single most impactful change you can make to skyrim combat and everyone should use it, even if they use the balanced preset like some sort of milkdrinker.
+True Armor - All-in-one armor and enemy balancing via distributed perks. Arrows and swords might bounce off of plate armor, encouraging you to use daggers or maces. Regen and other attributes dynamically change based on how many pieces of each armor type you equip. Allows you to set enemy health limiters to remove damage sponginess. Shields passively block when equipped. Just Works. This is the single most impactful change you can make to skyrim combat and everyone should use it, even if they use the balanced preset like some sort of milkdrinker.
+*Big Or*
+Know Your Enemy 2 + Armors + Integration Patch - I have to grudgingly admit that this is more functional than True Armor in Anno Toddini 2023. It has more categories and works seamlessly at runtime with no script load to speak of. 
+*and* NPC Stat Rescaler - this is a Synthesis patch but the nexus page explains what the options do. This is completely mandatory with KYE2 since the vanilla health sponge shit is ridiculous when you start adding resistances of any kind.
 
-Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn SPID Uncloak, to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors - or a Realistic Damage plugin to avoid bloat.
+*well which one do I use then smartass?*
+For my money, if you are playing solo or with one follower and playing a knight or paladin type class, I would use True Armor. You will get all of its strengths (it is very cool when enemy arrows or swords bounce off of you) and fewer of its weaknesses (NPCs do not interact with the system so multiple followers will immediately overpower heavy tank enemies without respect to its armor.) For any other class or for a large gang of goons, KYE is fine.
+
+Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn SPID Uncloak (NOT Valravn Uncloaked, which does not work), to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors - or a Realistic Damage plugin to avoid bloat.
 
 You have two 'modern' options when it comes to full-blown combat overhauls: 
 
@@ -259,7 +273,7 @@ You have two 'modern' options when it comes to full-blown combat overhauls:
 2. Fixing skyrim's combat. This is very simple - you **install Engarde** and run the synthesis patcher, then pick a combat overhaul and use *only* its combat AI (Vanilla, for example, has two handed barbarian bandits prefer blocking over any other action. This is not really a step you can skip.)
 
 *But nwahman I know you're hiding your 6 million combat mod super bayonetta rape killmove enabled modlist!*
-I honestly just use True Armor and Valravn these days. Anything else is either visual flair, balance tweaks or Precision tweaks.
+I honestly just use True Armor/KYE2 and Valravn these days. Anything else is either visual flair, balance tweaks or Precision tweaks.
 
 *But nwahman I need my enemies to SHIT THEMSELVES*
 Maximum Carnage - makes your enemies shit themselves
@@ -281,7 +295,7 @@ Ordinator - gimmicky, bloated, mod author is a nazi, blah blah. Still the best p
 
 *Note: There are hundreds of other options and the majority are total overhauls of the core Skyrim levelling experience. Most of the old standbys (SkyRE. PerMa, etc) have been revived by Synthesis patchers or other continuations and are still viable options in Anno Toddini 11. Do your research before picking one, as you're stuck with it for your entire playthrough.*
 
-Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. 
+Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. I recommend Honed Metal Voiced and Additional Materials - all can be found in requirements section of original Honed Metal.
 
 *but nwahman I need to roleplay as a smith!!1!1*  Then you're stuck with CCOR (which also isn't a perk mod). Prepare to download 6 million patches
 
@@ -314,7 +328,7 @@ Arcane Studies - This is a modern, very lightweight and compatible spell learnin
 ##Towns:
 
 Cities Of The North (don't fall for the JK trap - if you do want his cities, convert the individual oldrim plugins. I use Solitude for the thieves highway.)
-Capital Windhelm Extension (also, Whiterun) - These are sweeping, lore-friendly, and mostly high quality conversions for what are supposed to be huge, historic cities. Worth a try if you absolutely hate the small underpopulated cities. Not recommended for huge modlists - you'll inevitably end up doing some patching yourself.
+Capital Windhelm Extension (also, Whiterun) - These are sweeping, lore-friendly, and mostly high quality conversions for what are supposed to be huge, historic cities. Worth a try if you absolutely hate the small underpopulated cities. Not recommended for huge modlists - you'll inevitably end up doing some patching yourself and still crash every 2 minutes.
 Lux - This has gained a lot of traction so despite being made by a European it is worth a try if only because of its extremely wide compatibility. Newer versions are no longer comically dark, which was my main gripe before. (If you ctrl+f "Lux" in any thread from over 6 months ago, the first reply will be "can't see shit" - for good reason.)
 *or* Window Shadows RT - This has patches for the above city mods and looks good. Much narrower range of compatibility patches than Lux. Doesn't do anything for dungeons, might want to throw in ELE for that.
 Obscure's College of Winterhold - made by some liberal obsessed with the brown people but it's pretty comfy. Unless of course you want the college to be lore-friendly, a small outpost of scholars slowly dying out as they hoard largely irrelevant knowledge and lash out at any newcomers in reciprocal fear. *brown person shrugging emoji*
@@ -330,6 +344,8 @@ Loot Overhaul - Rarity and Abundance - Relevels all loot tables to be more sensi
 
 *or* True Unleveled Skyrim - this is a synthesis patcher now, and it's really good. If you feel like having the Morrowloot Experience without the 6 million patches, this can be tuned to almost perfectly replicate it! Just use morrowloot miscellania and you're good to go. This also rebalances encounter zones.
 
+For combat balance see the Combat section.
+
 ###Economy
 
 SkyRem EVE (noted above) and C.O.I.N. will handle this well enough. Eve is a single perk and 100% compatible, C.O.I.N. adds currency types in dungeons for Immersion™.
@@ -344,9 +360,10 @@ Perseids Inns and Taverns - Realistic Room Rental Enhanced - If you don't use AN
 ###Encounters and Travel
 
 Carriage and Ferry Travel Overhaul - more ferries and carriage routes, and a ton of other changes. I still use this with some patches.
-*or* Convenient Carriages - All the features of CFTO plus some new ones.
+*or* Convenient Carriages - All the features of CFTO plus some new ones. Ferry coverage is subpar.
 Immersive World Encounters - "but nwahman it says Immersive!" yeah well it's still pretty good. This expands the vanilla 'roadside encounters' (old orc, dead horse, fat imperials lost on the way to solitude) by adding dozens of new encounters. Disable the bandit attacks if not playing as a dragonborn.
-SSE Organic Factions Extension - This adds a host of new hostile mini-factions throughout Skyrim that offer a serious mid-to-late game challenge for sellsword or adventuring players. Traveling alone in the Reach or without werewolf repelling armaments near Falkreath is no longer advised.
+SSE Organic Factions Extension - This adds a host of new hostile mini-factions throughout Skyrim that offer a serious mid-to-late game challenge for sellsword or adventuring players. Traveling alone in the Reach or without werewolf repelling armaments near Falkreath is no longer advised. It also has a very, very cool ally faction found in Whiterun that I recommend checking out for adventurer/merc style playthroughs.
+*note: The Forsworn siege on Markarth from this mod is total fucking bullshit and can't be disabled in the mod. Use [this plugin (Mega link)](https://mega.nz/file/yaBDDRCY#i3FhA-32NymI7TgCMhdd8FUSIm4bMb-BDeHF-imbj_w) so you don't get level 90 giants (yes, level 90 giants) on your first visit.*
 Northern Marsh Bridges *and* Solitude Skyway - whatever Imperial dork civil engineer designed the road from Morthal to Solitude should be rotting in the Imperial City Prison, being tortured by goblins with large 'spears'. This lets you make the journey without getting your feet wet or getting raped on the carriage fee.
 
 
@@ -380,7 +397,7 @@ Spell Research - This is a tricky one, because this is one of my favorite mods b
 
 Dark Corners of Nirn - Ever wanted to have crippling PTSD? Here you go. More of a novelty than something to structure a playthrough around.
 
-Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Nemesis System like in the LOTR batman games. This has less confusing spawn points and debuffs than the other mods, and can be configured to do about the same things as both.
+Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Nemesis System like in the LOTR batman games (but without copyright infringement!) This has less confusing spawn points and debuffs than the other mods, and can be configured to do about the same things as both.
 *or* Ashes - Sleep to save, wake up where you slept when you die with a mild debuff and configurable item loss. Check the comments for some essential fixes! Unmaintained and has some minor niggles, but finished and working.
 *or* Respawn - This is similar to the above but your respawn points are fixed to Temples, Halls of the Dead, and your homes. This is maintained and less buggy, and works in DLC or quest areas. Check the comments for a bed respawn more similar to Ashes.
 *or* Defeat - if you'd rather be raped and impregnated than be immortal, I suppose.
@@ -392,11 +409,11 @@ Nether's framework - back on the nexus after the Big Modder Tantrum blew over. I
 Immersive Horses - less bloat than Convenient, just works, patches available for all the good horse model replacers. Lets you name horses.
 Interesting NPCs -This adds a wide range of characters to Skyrim, many of whom can be followers. The writing and quest quality is about on par with vanilla, VA work is spotty but more good than bad, and it's somehow less cringe than any similar mod released since (see: Citizens).
 Follower Death and Injury Chance - Another of Jay Serpa's clever immersion tweaks, perfect for more organic playthroughs.
-Follower Goes On A Trip - It's on loverslab and has nothing to do with getting fucked by werewolves. Imagine that! Send your bros out to do bro things without you. Very comfy. Notifications are totally garbled, turn them off.
+Follower Goes On A Trip - It's on loverslab and has nothing to do with getting fucked by werewolves. Imagine that! Send your bros out to do bro things without you. Very comfy. Notifications are totally garbled, turn them off!
 
 ##Alt start:
 
-Skyrim Unbound Reborn - This is the only modern option if you want to play a non-dragonborn. Maintained, patches available for almost anything, just werks. You can now start as a Real Orc, which is Good.
+Skyrim Unbound Reborn - This is the *only modern option* if you want to play a non-dragonborn. Maintained, patches available for almost anything, just werks. You can now start as a Real Orc, which is Good. It also completes Unbound, which some starts do not, for compatibility with mods that launch on that trigger.
 *or* Realm of Lorkhan - This is more suitable for mod/modlist testing, short organic ironman playthroughs, or hardcore LARPing as the Nerevarine. Definitely worth a try if you prefer your fantasy more Willie Nelson than Martha Stewart.
 *or* Altered Perspectives - this reworks the vanilla start, placing you in the Helgen Inn on the day of the dragon attack. This is more of an extensible framework than SUR, so if you have a specific start in mind (like Live Another Life offers) this might be worth looking into.
 
@@ -420,9 +437,9 @@ Pandorable DG + DB
 Refined Volkihars
 *consider:* Serana Replacer - Ella's NPC - Gothic horror waifu? say no more.
 Elevated NPCs
-BeastHHBB
-*and/or* Project Ja-Kha'jay - Just load after HHBB.
+Project Ja-Kha'jay
 Children of the Pariah - By the author of the above. Really great orc-verhaul.
+Complete NPC Overhaul - Argonians - High Poly Head - I don't like all of these but the vanilla designs are boring. This is better.
 
 ##Graphics:
 
@@ -447,21 +464,21 @@ Weather is entirely to taste - the exceptions are NAT III (which completely brea
 
 ENB presets have to be built around weather *and* interior lighting mods, so check the description to see what's supported when picking a preset. I'll list a few combinations I've used and liked in the past below.
 
-RAID Weathers - This is a beautiful and performance-friendly treatment of the vanilla weathers that adds a lot of color diversity and some neat weathers. I haven't used anything else since its release.
-*and* Raid Weathers ENB - Desaturated by default, but give it some time and wait for the brighter weathers and it will pleasantly surprise you. Supports Lux.
+RAID Weathers - This is a beautiful and performance-friendly treatment of the vanilla weathers that adds a lot of color diversity and some neat weathers. I haven't used anything else since its release besides Azurite.
+*and* Raid Weathers ENB - Desaturated by default, but give it some time and wait for the brighter weathers and it will pleasantly surprise you. Supports Lux. There is also a Horizon Seam fix for RAID on the nexus.
 
 NAT.ENB III - All-in-one weather and ENB with some spectacular eye candy. It's surprisingly visually consistent, but doesn't play nice with a wide range of mods and it breaks stealth. I would only recommend it for serious screenarchery or high end rigs, since you can't disable the ENB or most of its effects without significant visual weirdness. Supports many modern interior lighting mods.
 *and/or* Berserkyr ENB - This is an ENB designed around the NAT weather system + Lux and also looks incredible. I find this to have better performance than just NAT, but it still takes a bite out of your frames. Looks horribly oversaturated as of 1.2, and skin gets a bit plasticky as well. Consider 1.1.
 
 Azurite Weathers - More modern take on Cathedral weathers, an old standby that focused on environmental effects and fixing vanilla weirdness (horizon seam, broken fog, etc etc etc). This one looks very good and offers vanilla performance - the colors are good enough to use it without an ENB and using Community Shaders in my opinion, although many popular ENBs (Rudy's, Pi-Cho, etc) will have profiles for it.
-*note:* Azurite Weathers II, recently released, will have varying compatibility with old ENB presets designed around it. Just a heads up.
+*note: Azurite Weathers II, recently released on the same page, will have varying compatibility with old ENB presets designed around it. Just a heads up. It does fix the blue nights though so well worth the upgrade.*
 
 *Honorable Mentions*
 
 Pi-Cho - Built off of legacy shaders from Silent Horizons, the screenarchery standby since forever, this is the gold standard for balancing characters and environment. If you don't use it, anons will complain about your skin and tell you that you should play LE instead.
-*note: The new Silent Horizons suite is out. I haven't tried it but it probably blows anything else out of the water.*
 
-The Enhancer - an ENB preset designed to work with any setup, by the author of NAT. Minor performance hit and heavy sharpening. If you're using some oddball mix of weathers and interiors, this will allow you to use ENB features like water or ENB light without making shit look wronger. Skin subsurface is way oversaturated, make sure to dick with the skin settings if you intend to do the hecking screenarchering.
+Silent Horizons 2 - Universal Core - Rebuilt from scratch for gameplay first. The sharpening and color space control are second to none and it can actually adapt to just about any weather. Excellent performance and visuals. I wouldn't touch anything else besides Berserkyr or 'Cho for gameplay in 2023 (if you are running hardware from 2023.)
+*or* The Enhancer - Same concept but much older and less advanced color and light control. It also has dogshit SSS out of the box. I would just do Community Shaders if you want lighting features but can't run SH2.
 
 Ljoss - This has phenomenal performance while still supporting some new-ish features like Particle lights. If you need locked 60 FPS on a potato, optimize your game first then install this with .347 binaries or slightly newer.
 
@@ -496,7 +513,7 @@ Realistic Animation Project - Movement (Oldrim) - Kneel while sneaking! Sprint l
 Immersive Interactions - least fucked implementation of this so far. It autodetects mods like Wintersun and Hunterborn, but not the Animated (whatever) series listed below, so check your MCM. In theory, *First Person Animation Teleport Bug Fix* fixes the old teleport bugs.
 EVG's Conditional Idles - This plays nice with most current weather and needs mods, and offers a wide range of Immersive™ animations.
 ~~Animated Interactions and Idles~~ - Apparently this is broken now. Consider Organic Player Animations.
-Ultimate Animation Potions NG - Ground up recreation of the old Ultimate Potion mods. Works and works good.
+Ultimate Animation Potions NG - Ground up recreation of the old Ultimate Potion mods. Works and works good (except for when it crashes.)
 Archery Gameplay Overhaul - Even if you don't want the combat changes, trust me and use its meshes (just disable or delete the .esp).
 *or* Vanargand Animations - Archery - These are vanilla style but remove the fuckawful jitter in 3rd person. Highly recommend!
 CBPC Equipment Physics SE and AE - UUOOOH (crying emoji). It's finally out. This is what got me to reinstall the game.
@@ -514,6 +531,7 @@ Do note that anything that says MCO, ADXP or whatever will not work unless you h
 "I'm a returning player and these three (guides) saved me from 20h of researching shit myself." - Anon
 "man you are just full of dogshit advice, why the fuck did you feel qualified to write a guide on anything again?" - Anon
 ["how dare you"](https://files.catbox.moe/kush7t.jpg) - Anon
+"can't see shit" - Anon
 
 ##Links
 

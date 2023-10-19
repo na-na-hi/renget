@@ -1,3 +1,5 @@
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >VERY OLD. pissreal jewrats snipe child for fun
 https://files.catbox.moe/42o36w.webm
 >OLD. Hamas threat for one hostage execution livestreamed for targeting innocent civies
@@ -151,7 +153,7 @@ https://files.catbox.moe/frl9u0.mp4
 https://files.catbox.moe/i8yxrg.mp4 
 >Gaza returns to monke 
 https://files.catbox.moe/1rpwgu.mp4 
-Raging fire at a yid base, forklift chad just driving around
+>Raging fire at a yid base, forklift chad just driving around
 https://files.catbox.moe/0rm4tt.mp4 
 >Firefight at a highway, yids cower in a car
 https://files.catbox.moe/88ntff.mp4 
@@ -266,33 +268,45 @@ https://files.catbox.moe/afuphj.MP4
 https://files.catbox.moe/puhw4s.mp4
 > Thousands protesting outside the Israeli consulate in Istanbul.
 https://files.catbox.moe/4y3dv6.MP4
->BIG HAPPENING: KIKES BOMB BAPTIST HOSPITAL, IT'S HAPPENING - Possibly a JDAM, WHAT A JDAM SOUNDS LIKE IS LINKED BELOW (Palestine has no air support, they couldn't possibly have JDAMed themselves)
+>BIG HAPPENING: KIKES BOMB BAPTIST HOSPITAL, IT'S HAPPENING - Possibly a JDAM, WHAT A JDAM SOUNDS LIKE IS LINKED BELOW (Palestine has no air support, they couldn't possibly have JDAMed themselves) (added Oct. 17th, updated Oct. 18th)
+https://files.catbox.moe/9c88de.mp4
 https://files.catbox.moe/bfp01k.mp4
 https://files.catbox.moe/1hhorc.webm
 https://files.catbox.moe/kt3fj4.webm
 https://www.youtube.com/watch?v=A_uwzugvv-g
->video from bombed hospital, may Allah give the victims Jannah
+>video from bombed hospital, may Allah give the victims Jannah (added Oct. 17th)
 https://files.catbox.moe/ov0l1n.MP4
->More Kino from bombing, hospital related?
+>More Kino from bombing, hospital related? (added Oct. 17th)
 https://files.catbox.moe/1h0vys.MP4
->Westbank people being shot by the IDF
+>Westbank people being shot by the IDF (added Oct. 17th)
 https://files.catbox.moe/mfixg9.MP4
->bombs somewhere i think maybe tel aviv, no sirens though i think they are stilll hacked
+>bombs somewhere i think maybe tel aviv, no sirens though i think they are stilll hacked (added Oct. 17th)
 https://files.catbox.moe/zmnmh1.MOV
->Report of violent riots outside the Israeli embassy in Amman, Jordan.
+>Report of violent riots outside the Israeli embassy in Amman, Jordan. (added Oct. 17th)
 https://files.catbox.moe/dxqpf5.MP4
->Baby and momma victims after kike bombing
+>Baby and momma victims after kike bombing (added Oct. 17th)
 https://files.catbox.moe/w07anb.mp4
->Israeli jets are reported flying at very low altitudes over Joining, north of Beirut city.
+>Israeli jets are reported flying at very low altitudes over Joining, north of Beirut city. (added Oct. 17th)
 https://files.catbox.moe/8k5pc0.mp4
->Hezbollah supporters in Beirut inbound to the US Embassy.
+>Hezbollah supporters in Beirut inbound to the US Embassy. (added Oct. 17th)
 https://files.catbox.moe/bkylvt.MP4
->Clashes broke out between police and protesters in Ankara - the Turks demand the immediate expulsion of the Israeli ambassador from the country Turkish police are trying to contain a crowd of protesters who are planning to storm the Israeli embassy in Ankara. Law enforcement officers used force, but it is unclear whether they will be able to contain the anger of the crowd enraged by the attack on a hospital in the Gaza Strip.
+>Clashes broke out between police and protesters in Ankara - the Turks demand the immediate expulsion of the Israeli ambassador from the country Turkish police are trying to contain a crowd of protesters who are planning to storm the Israeli embassy in Ankara. Law enforcement officers used force, but it is unclear whether they will be able to contain the anger of the crowd enraged by the attack on a hospital in the Gaza Strip. (added Oct. 17th)
 https://files.catbox.moe/dbs7oi.mp4
 >Wasreal, regarding the bombing of hospital: "we investigated ourselves and turns out, we're innocent!"
 https://files.catbox.moe/zfv5c6.mp4
->"Very impressive documentation of our followers from one of the barrages this evening into Israeli territory" -Unknown
+>"Very impressive documentation of our followers from one of the barrages this evening into Israeli territory" -Unknown (added Oct. 17th)
 https://files.catbox.moe/tbccfw.MP4
 https://files.catbox.moe/tg4mpn.MP4
-> News about the burning of Joseph’s Tomb east of Nablus, to which settlers make "pilgrimages" and desecrate the Tomb by incessant drinking and dancing - details will follow up
+> News about the burning of Joseph’s Tomb east of Nablus, to which settlers make "pilgrimages" and desecrate the Tomb by incessant drinking and dancing (added Oct. 17th)
 https://files.catbox.moe/jmrxeb.mp4
+>Documentation from the moment of the attack on a residential tower near Al Quds Hospital in Gaza, over an hour ago. (added Oct. 18th)
+https://files.catbox.moe/vfzrt7.MP4
+>Pro-Palestinians are in the capitol building right now (added Oct. 18th)
+https://files.catbox.moe/3fy5ci.mp4
+>American kikes are holding a sit-in at the US Congress calling for a ceasefire. (added Oct. 18th)
+https://files.catbox.moe/m4gtg2.mp4
+>Protesters against the war on Gaza storm the US Congress building (added Oct. 18th)
+https://files.catbox.moe/77m6sd.mp4
+>Video of the Hamas Missiles fired vs. Kikes Using JDAM on the hospital simultaneously, crafty kikes. SMOKING GUN PROOF KIKES BOMBED THE HOSPITAL. (added Oct. 18th)
+https://files.catbox.moe/tl5tk0.webm
+https://files.catbox.moe/m21q49.mp4

@@ -70,6 +70,7 @@
 [Avelyn](https://files.catbox.moe/uxw21p.png)
 [Cynthia](https://files.catbox.moe/2d1qsj.png)
 [Rosaline](https://files.catbox.moe/yrnsea.png)
+[Charlie](https://files.catbox.moe/5c14cu.png)
 
 **WEEB shit:**
 [Android 17](https://files.catbox.moe/wgm0oa.png)

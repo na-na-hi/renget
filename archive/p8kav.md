@@ -51,14 +51,20 @@ Silly Tavern Expressions: https://files.catbox.moe/0tfbm3.zip
 Silly Tavern Expressions: https://files.catbox.moe/5nos0x.rar
 ![ExpressEmily](https://files.catbox.moe/cgjpcx.jpg)
 
-**Cunnygirl**
-(WIP)
-![Cunnygirlexpression](https://files.catbox.moe/v8w9r9.png)
-
 #Character LoRA's
-Chiyo Mihama
-https://civitai.com/models/136014?modelVersionId=150018
-![chiyo](https://files.catbox.moe/xgy30f.png)
+![Lora](https://files.catbox.moe/ha3yno.png)
+
+**Chiyo Mihama**
+https://civitai.com/models/136014/chiyo-mihama-azumanga-daioh
+
+**Yuki (Wolf Children / Ōkami Kodomo no Ame to Yuki)**
+https://civitai.com/models/136527/yuki-wolf-children-okami-kodomo-no-ame-to-yuki
+
+**Nagi Aiza (Your Lie in April / Shigatsu wa Kimi no Uso)**
+https://civitai.com/models/137640/nagi-aiza-your-lie-in-april-shigatsu-wa-kimi-no-uso
+
+**Ponyo (2008)**
+https://civitai.com/models/167969/ponyo-2008
 
 # OC Bots:
 **Babysitting a brat (Loli)(Emily)**  (personal favorite)  - https://beta.character.ai/chat?char=z2nPruVWiQUGyb165j3eX3SeoL_gVIoHbvbiLJHHADE

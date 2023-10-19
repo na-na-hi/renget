@@ -1,4 +1,4 @@
-#-> lurkzn's Claude settings (v1.61 - 18 Oct)<-
+#-> lurkzn's Claude settings (v1.62 - 18 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 !!! note
@@ -26,14 +26,17 @@ than multiple, and then reinforcing this.
 18 Oct - v1.61. Minor refinements and changes aimed at being more creative and NPC involvement. NSFW Enhancer has been
 modified in a way that when enabled, a new position and location will be chosen until {{user}} explicitly mentions cumming
 in their response.
+|-> v1.62. Modified Assistant's line to describe her surroundings to add ambience, focusing on sensory details not previously 
+described.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-##-> Preset (v1.61) <-
-!!! warning
-	-> Recommended Temp: 0.7-1 (Yes I've been swayed with the high temp responses, feel free to tone it down)<-
-	-> NSFW Enhancer add-on disabled by default.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/c960q0.zip)<-
+##-> Preset (v1.62) <-
+!!! danger Important
+	-> **Recommended Temp**: 0.6-0.9 (Play around with this range)<-
+	-> NSFW Enhancer add-on **disabled** by default.<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/9h597b.zip)<-
+->[**Alternate DL link**](https://bunkrr.su/d/tTKzf0q7ktFJk)<-
 ***
 ##->Extras<-
 !!! note NSFW Enhancer
@@ -72,4 +75,3 @@ Toggle | Response
 
 ->**Genres**: False Identity, Milfs<-
 ->![Irina2](https://i.imgur.com/y3yHxuy.jpg)<-
-***

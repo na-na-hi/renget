@@ -212,13 +212,26 @@ def downloadImage(idx, single):
         return 1
 
 def resetTokens():
-    driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click()
-    time.sleep(1)
-    driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+    try:
+        driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click() 
+    except:
+        driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/img').click()
+    try:
+        driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+    except:
+        driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+
     time.sleep(2)
     driver.find_element(By.ID, 'sb_form_q').clear()
     time.sleep(2)
-    driver.find_element(By.ID, 'create_btn_c').click()
+
+    while True:
+        try:
+            driver.find_element(By.ID, 'create_btn_c').click()
+            break
+        except:
+            print("FUCk YOU BING")
+
     time.sleep(3)
     emailForm = driver.find_element(By.ID, 'i0116')
     emailForm.send_keys(email)
@@ -260,6 +273,16 @@ def resetTokens():
         except:
             print('FUCK YOU BING')
 
+    #click on button extra times because bing
+    try:
+        driver.find_element(By.ID, 'create_btn_c').click()
+        driver.find_element(By.ID, 'create_btn_c').click()
+    except:
+        print('faack you bing')
+
+    inputform = driver.find_element(By.ID, 'sb_form_q')
+    inputform.send_keys(proompt)
+    driver.get("https://www.bing.com/images/create/")
     inputform = driver.find_element(By.ID, 'sb_form_q')
     inputform.send_keys(proompt)
 

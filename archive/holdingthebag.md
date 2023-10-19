@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-13107 | アオダマ | Open as of 14/10
+None | None | None
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -98,6 +98,7 @@ Club ID | Club Name | Club Status
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
 6358 | ヒナまつり | Full as of 10/08
+13107 | アオダマ | Full as of 18/10
 20269 | BigBoiClub | Full as of 22/10
 
 ***
