@@ -3,13 +3,13 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Oct. 20th | [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4)
 Oct.18th | [Volo](https://c.ai/c/skiC4gxecIpPfHPzVZn5R7zZhC-3Zhw_n5DSv9AhWv0) \| [Hassel](https://c.ai/c/9rhpgcoCGisOMV7T7PaTphvfm965N390HaAgIaZmqYE)
 ->Oct.14th<- 〜 ->Oct.01st<- | [Lana & Mallow (Young)](https://c.ai/c/vbTSxDLowZmD_LMXOBKEmZx4-Gv0mvy8oOhXELgIq2I) \| [Green](https://c.ai/c/-oZYFfsnxE-Bt5AkJJ0_RKZARU6o2CtvIbqyLtJh3Ho) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg)
 ->Sep.30th<- 〜 ->Sep.10th<- | [Zinnia](https://c.ai/c/rGOurCVj3VISOuJOB16JkStJ3uMe1NSN__Dq3T0iPZs) \| [Lively Lillie](https://c.ai/c/DaTfQmP76QdJEaeEwjTng8brObiReLzrKVDHo6uVOjY) \| [Meowscarada⠀♂](https://c.ai/c/dItJ8lN8dvQiZLFYoWtg6qBk5k8dAMGyFBH74T3EGpE) \| [Meowscarada⠀♀](https://c.ai/c/4mInNCRYo6iz4mWBPM9FpwyRNq4NxXzV1QvH3mlfVow)
 ->Sep.09th<- 〜 ->Sep.03rd<- | [Margo](https://c.ai/c/zBtuhdXs447bfHEORQUN-eaJmjtWR3ds8E71yMmTILc) \| [Jasmine](https://c.ai/c/iQqdVOxZQerDyvj1FpauCGA8vpzE9jVt7NRS0qal7RE) \| [Marnie](https://c.ai/c/IaJJxMx6uot2dpkMf6I4PO67cWsONL72ZwBX1BOvCZM) \| [Arven](https://c.ai/c/fex0UxcMl3a_fdEXD2uxRP1ivlOydWkHMQ4Sefkfmyc)
 ->Sep.02nd<- 〜 ->Aug.27th<- | [Technology Man (Starting Town)](https://c.ai/c/xcIJRvIXaStOBlkFEmIwDMyx59ajLI6L127sDS_5FYw) \| [Ryouga (RéBURST)](https://c.ai/c/GQLVWFCbXdkVGa9SNPE8TNXWaz_vbYaB3yjpFlKKVKU) \| [Zeraora (Masseuse)](https://c.ai/c/9NT3Gh_F5rhyGY2vtrp0XAf7k61IJLB6IwZsB0_kXcs)
 ->Aug.26th<- 〜 ->Aug.20th<- | [Domino](https://c.ai/c/m2DZijSNNb6msaXaPeJDmxBzw1__GU4UJyCIK0EC3Dw) \| [Hunter J](https://c.ai/c/sOnBMkgZ383herhnhrkQG6ZLkxft7ASL-aQNDHLhwS4) \| [Whitney, Jasmine & Clair](https://c.ai/c/Bj9-ipWUWYmYGToK_KlMxa_XU29c8Vdj-hgOJp7tfsI) \| [Roxanne, Flannery & Phoebe](https://c.ai/c/jA2PEkJz6C9u7dMpbwJ5tixFBJq-hJFPn823UNtaAdE) \| [Dawn (NPC)](https://c.ai/c/m7fcLxnBUFImV7ZxuJ3eLPW4CQriq8r04N81jfKViL4) \| [Candice](https://c.ai/c/8MIJlW9xalLQwMu4pQhQPoOCFMl-beDWXs93cYPOhzU) \| [Lyra (Rocket Grunt)](https://c.ai/c/brRA0cYHu91r4fSw2qt4IdgTVbJE35BK4dpXYx6MJw4) \| [Incineroar⠀♀](https://c.ai/c/DtXrEegzae_TFWTHagPHLsXV1lcHRHi2lbTrh_-ezWs)
--> Aug.19th<- 〜 ->Aug.13th<- | [Sango](https://c.ai/c/QEHUX0gj5nKsrRrXSoygolrEpkGycjLLSgL7z3FzM7s) \| [Zangoose](https://c.ai/c/wJjciQHet5NeQWeJDm8AqV6Imhx5oF8kAgJ0uVggB9Q) \| [Lucario (Irene)](https://c.ai/c/bP0W5jVqQFupa92Jo9S6mf1COMDVPLsrNAPx1zgLYaM) \| [Ace Trainer Amanda (Pokémon Clover)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
 !!! note
 ***
 Title | Characters 
@@ -50,7 +50,7 @@ Scarlet & Violet | [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu
 Description | Characters
 :------: | :------:
 Pokémon Clover | [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
-Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
+Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 You are a Pokémon, and she wants to catch you | [Pokémon Trainer Ivy](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)

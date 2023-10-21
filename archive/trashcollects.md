@@ -1007,18 +1007,16 @@ Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-w
 
 	https://files.catbox.moe/xdftan.safetensors
 
-# Magica De Spell (Ducktales)
+# Ducktales Character LoRAs
+
+**Magica De Spell**
 
 https://civitai.com/models/150647/magica-de-spell-or-ducktales
 
 	Direct DL V1.0:
 	https://civitai.com/api/download/models/168810?type=Model&format=SafeTensor
 
-# sake kemosalmon (Artist)
-
-	https://files.catbox.moe/21wmi0.safetensors
-
-# Goldie O'Gilt
+**Goldie O'Gilt**
 Third Lora, I apparently know enough about what I'm doing. (Version 2)
 
 This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very.
@@ -1058,34 +1056,7 @@ https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
 	Direct DL V2.0:
 	https://civitai.com/api/download/models/172727?type=Model&format=SafeTensor
 
-# hooves-art/lunar47/snuddy mix (artists)
-
-	https://files.catbox.moe/hlp1qz.safetensors
-
-# Aer0 Zer0/welost/pyroxtra (artists)
-
-	https://files.catbox.moe/9vije9.safetensors
-
-# kiwihermit (artist)
-
->I did a captionless kiwihermit iA3 for fluffyrock
-	https://files.catbox.moe/m5xomh.safetensors
-	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
-	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
-
-# manmosu marimo (artist)
-
-	https://files.catbox.moe/fy0kdd.safetensors
-
-# 3d, by onsenanon, onsen
->That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
->Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
-
-	V1: https://files.catbox.moe/rzqx5o.safetensors
-
-	V2: https://files.catbox.moe/xqtef0.safetensors
-
-# Della Duck (Ducktales)
+**Della Duck (Ducktales)**
 https://civitai.com/models/149490/della-duck-or-ducktales-2017
 First Lora, I barely know what I'm doing. (Version 2)
 
@@ -1113,9 +1084,66 @@ medium breasts, breasts, genitals, nipples, nude, pussy, white body,
 	Catbox: https://files.catbox.moe/96uzxq.safetensors
 	Civitai Direct Link: https://civitai.com/api/download/models/177590?type=Model&format=SafeTensor
 
-# Daisy Duck (LeMans42)
+Daisy Duck (LeMans42)
 
 	https://files.catbox.moe/i8114i.safetensors
+
+Daisy Duck (Modern Ducktales)
+https://civitai.com/models/171618/daisy-duck-or-ducktales-2017
+
+Fourth Lora, I get it.
+
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+PurrfectlyAI's Daisy Duck does a more Quack Pack style Daisy and is pretty good, so I recommend checking it out if you haven't already!
+
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+daisy duck, ducktales, beak, white skin, white hair, black centered bow, black headband, rounded bangs, hair bun, eyeliner, pink eyeshadow, teal eyeshadow, black eyes, orange legs, scut tail, short hair, shoulder length hair, bangs
+
+Reinforcement SFW Tags:
+
+clothed, clothing, sequin dress, pink dress, pink trench coat, black heels, teal purse, black choker
+
+Reinforcement NSFW Tags:
+
+breasts, genitals, nipples, nude, pussy, white body, 
+
+	https://files.catbox.moe/qh5gtu.safetensors
+
+# sake kemosalmon (Artist)
+
+	https://files.catbox.moe/21wmi0.safetensors
+
+# hooves-art/lunar47/snuddy mix (artists)
+
+	https://files.catbox.moe/hlp1qz.safetensors
+
+# Aer0 Zer0/welost/pyroxtra (artists)
+
+	https://files.catbox.moe/9vije9.safetensors
+
+# kiwihermit (artist)
+
+>I did a captionless kiwihermit iA3 for fluffyrock
+	https://files.catbox.moe/m5xomh.safetensors
+	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
+	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
+
+# manmosu marimo (artist)
+
+	https://files.catbox.moe/fy0kdd.safetensors
+
+# 3d, by onsenanon, onsen
+>That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
+>Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
+
+	V1: https://files.catbox.moe/rzqx5o.safetensors
+
+	V2: https://files.catbox.moe/xqtef0.safetensors
 
 # Sandshrew (Pokemon)
 

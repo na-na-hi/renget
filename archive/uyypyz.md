@@ -491,3 +491,449 @@
 >when the whispers were replaced by birdsong only then did you peek
 >the sun was out again, in fact it really hadn't moved much since morning
 >was the whole thing an illusion?
+
+>you made the best of the situation and rushed towards the village
+>sprinting meant you made it out of the woods in good time
+>you spared a glance over your shoulder as you caught your breath
+>nothing seemed amiss but you dreaded the walk back
+>but you dreaded the idea of doing it in the dark even more so you'd have to hurry
+>you'd brought a few things to trade for the herbs
+>you hated it but you were reduced to trading out family heirlooms at this point
+>not that Mutter knew that
+>you weren't about to tell her either
+>hopefully she wouldn't notice 
+>the few pieces of gold you had to trade with was getting slimmer and slimmer
+>you'd persist
+>just like everything else
+>you wished the town your farm was apart of had a doctor, let alone a herbalist 
+>something to do away with these trips through the woods
+>maybe even cheaper too
+>you'd heard talk of a train being possible in the near future with the local gossip
+>you'd never seen one before but you'd heard how fast they could be and it sounded implausible 
+>not the most unreal thing in hindsight
+>you didn't dally, sightseeing wasn't a good thing with the day only being so long
+>from what you guessed you had time to spare before sundown, though every day meant less and less time
+>soon winter would come and you'd have no real window
+>staying overnight in town for your safety was too costly an idea
+>setting up camp in the woods seemed unwise
+>you reasoned you'd have to just camp on the outskirts if it came to that
+>hopefully it wouldn't 
+>Mutter's medicine in hand you started through the woods
+>the leaves had started to turn orange and brown, some already falling to the forest floor
+>you gripped your shotgun but the trip through the village made you somewhat relaxed
+>the solitude out here was a comfort though
+>you didn't feel any presence 
+>birds sang, squirrels skitted across the trees above you
+>you even saw a doe on your way home
+>you mulled over shooting her but she bolted upon realizing you were standing so close
+>maybe another time
+>when you came back to the homestead Anna came to greet you
+>said someone came by looking for you
+>confused, you asked who it was
+>"some girl, she's sitting inside with Mutter"
+>you were still perplexed but went along
+>when you opened the door you froze in the doorway
+>sitting next to Mutter on the couch
+>that red headed girl from before
+>Mutter and the girl seemed deep in conversation 
+>all smiles
+>when you walked in you all seemed to pause
+>you from shock and them from the guest
+>the girl was a spitting image 
+>you could have sworn…
+>you tried to not let the stress show on your face in front of Mutter 
+>the shotgun was pointed towards the floor but you were keenly aware of it in your hand
+>with Mutter involved you didn't want to bring it to that
+>the girl broke the ice
+>Füchsin 
+>strange name
+>but she seemed friendly enough
+>Mutter spoke up 
+>said this Füchsin had already met you before
+>that's when it occurred to you
+>the dogs
+>of course
+>but what about the crazy stuff in the woods?
+>not like you could ask openly 
+>this woman was still a stranger and couldn't be trusted
+>while you saved her and you had a sneaking suspicion she was the one to patch your arm up
+>you behaved yourself and tried not to fly into accusations of witchcraft
+>for all you knew, she had nothing to do with it
+>maybe stress was making you mentally unsound 
+>Füchsin excused herself from the conversation and gave a small pouch to Mutter
+>you were confused until the girl explained she ran a herb trade of her own in the woods
+>out of gratitude she'd help your situation 
+>that blindsided you
+>no more trips through the woods
+>Mutter would be safe
+>holy hell
+>she'd lived out there with her grandmother as a hermit of sorts
+>while you still were suspicious she dangled a fantastic deal in front of you
+>you'd bite
+>when she asked for you to escort her home you'd agree 
+>this was overwhelming 
+>the medicine for free
+>all the gold and work, unnecessary 
+>all for saving her, something you'd have done without thinking
+>of course you'd help
+>it also sort of helped she looked gorgeous 
+>if you were more of an unscrupulous sort you may have been tempted
+>Mutter didn't seem to notice Füchsin's massive cleavage but you were a young man
+>the pale skin was practically on display 
+>red firey hair constrained in a bonnet
+>a fierce look in her eyes when they locked with yours
+>she was striking
+>and she wanted a walk home
+>you left the shotgun by the door just in case for the family
+>hopefully you'd get there just fine
+>the solution to all your problems was walking in front of you towards the woods and filled out a dress better than a bar maid
+>only once out in the woods did she really speak up to you
+>"I didn't really need an escort out here."
+>she turned to meet your confused gaze
+>"I merely wanted privacy for a business proposal"
+>oh no
+>she reclined against a tree and checked her nails while the weight of what she said hung over you
+>you felt like she was fishing for him to question
+>it wasn't the smartest idea to engage this stranger
+>you felt like trusting her in hindsight wasn't a good idea
+>but you wanted to believe a solution had landed in your lap
+>a way out for your family
+>perhaps that was too good a deal
+>but you were curious
+>so you finally decided to play along
+>fine, what was the proposition?
+>she smiled and it felt like the predator was with you right now
+>"well, what if I told you I wasn't some sort of helpless damsel? is that a deal breaker?"
+>you lifted an eyebrow
+>she continued
+>"what if I wasn't human?"
+>oh dammit 
+>dammit dammit
+>she was a demon
+>you accused her of it immediately, flying off the handle 
+>her reaction… was to giggle
+>she was laughing as you brandished a knife in her direction
+>you turned to run
+>you knew this deal was too good to be true
+>a horde of those effigies stood behind you
+>the little stickmen weren't just decoration
+>they moved and had blocked your path 
+>you spun on your heel once more to accuse her of this and she'd covered the distance to stand right behind you
+>the smile made you uncomfortable 
+>she swiftly disarmed you of the knife and tossed it to the little stickmen behind you
+>you didn't even have time to react as she moved like a pickpocket 
+>"you didn't even hear the deal"
+>well you didn't have much choice
+>bravado was hard to hold up right now
+>but you'd hear her out
+>fine
+>she could do her worst
+>at that last declaration she giggled again
+>you flinched when she grabbed your shirt and tore it open, exposing your chest
+>you wouldn't give her the satisfaction of fear
+>"there we go," she said as she eyed you, "don't you feel more comfortable?"
+>sensing the tension, she scoffed at your concern about your immortal soul right now
+>"if I was a demon would I be threatened by dogs?"
+>ok, she had a point
+>she pulled her bonnet off with a flourish and a tiny effigy caught it as it was tossed aside
+>you didn't know how to react when she started completely undressing
+>the dress was tossed aside, leaving her skin bare for the world to see
+>more specifically you
+>"don't get too used to this."
+>you had no idea what that meant 
+>she reached up to her face and gripped into her hair
+>confusion turned into horror when she started pulling her face off
+>you stumbled and fell backwards as the sound of tearing fabric broke up the silence of the woods
+>that's what struck you
+>the sound
+>someone pulling apart thin fabric with their hands
+>when Füchsin had pulled her face off enough something else stuck with you
+>her eyes
+>you remembered those eyes
+>her face wasn't human whatsoever 
+>that smiling facade now pulled past a canine snout decorated with a mouth of canine teeth
+>the red of her hair was the same red as her fur
+>it reminded you of a fox
+>she kept peeling like the human form was sort of clingy suit
+>broad shoulders, then a puff of white fur on his chest that could put that cleavage to shame
+>slender arms terminating in long claws
+>a fluffy crimson tail and generous hips
+>you were dumbstruck as she smiled at you before wiggling her hips out of the last bit of costume
+>you realized then that she wasn't a she
+>a strange sheath sat above two furry testicles
+>it wasn't quite like yours but Füchsin here wasn't a woman
+>the non human part was a more pressing concern though
+>you'd been frozen on the forest floor, incapable of doing more than inwardly panicking at whatever you'd just seen
+>the creature calling itself Füchsin tossed the skin aside as one would do an old coat then rested his hands on his hips
+>"I told you I wasn't a demon," he admonished you in a silky voice more feminine than the girl's he was just using
+>you had no idea what all of this was
+>one thing was certain and that was you were in over your head
+>this maybe explained some things
+>not a lot 
+>but your mind was piecing together some things
+>so the dream?
+>"well I'm glad you remembered. just testing the waters, so to speak."
+>how could dogs have harmed him if he has these… talents
+>"I'm still a fox."
+>that wasn't a sufficient answer but you wanted to move things along
+>maybe you really were mentally unwell
+>fine
+>what was this deal?
+>might as well get on with it
+>hopefully the death would be quick
+>you stood up and dusted yourself off and asked 
+>"that's a good boy. well, how's marriage for your farm thriving sound?"
+>a clawed hand cupped your chin, the paw pads soft to the touch
+>there was a smirk in his eyes as you were stunned 
+>marriage to… who?
+>he ruffled your hair with his paw
+>Füchsin stood a bit shorter than you so he had to reach a little
+>"I think you can figure out the bride pretty easy."
+>the voice was honeyed and he seemed to relish in your discomfort 
+>running still was an option
+>you didn't have to entertain whatever this was
+>but that offer
+>you could save the farm, your family
+>it could be that easy
+>but this was a man before you, and an inhuman one at that
+>that weighed on your mind
+>this had to be a ploy 
+>some sort of trap
+>you grabbed his wrist and pushed the hand away from your face
+>you couldn't allow yourself to fall into this thing's grasp
+>all the temptations to just suddenly solve all your issues
+>dangling solutions in front of you
+>"for a marriage?"
+>his eyes focused on your hand
+>the grin faded from his face
+>"what do you think you're doing?"
+>he looked annoyed and pulled his arm away
+>how could you not be hostile and scared with how whoever this was had spent weeks tormenting you
+>all for a marriage
+>why should you even humor that?
+>you asked that bluntly
+>"well I would like to play nice…"
+>Füchsin grinned but this smile carried little of the previous mirth
+>"I wear my best skin to impress you and even give your mother medicine."
+>the fox turned from you and paced 
+>the stickmen could be knocked over and you could make a run for it
+>this thing knew where you lived and could stop you from getting those herbs for Mutter
+>this situation was tense
+>why did he even want to marry you anyways 
+>you were a poor farmer with barely much to your name
+>the fox sauntered, that was the best way to put it, like he was showing off
+>just pacing, eyeing you 
+>"well, until I get the answer I want, I guess you're just staying here."
+>ok screw this
+>you turned away from the fox and went to run
+>a clawed hand held your shoulder back
+>"why are you so hasty now?"
+>the honeyed tone was gone
+>you were frozen in midstep 
+>there was magic afoot here 
+>you were shoved over lighty 
+>the stickmen servants caught you and you saw Füchsin gesture for them to move
+>it was impossible to move anything but your eyes
+>the assembled servants carried you like ants carrying food to their nest
+>you prayed this wasn't how you died
+>you were taken to a burrow 
+>you recognized it as the cave you'd seen in your dream after the dog attack
+>only now did you realize that wasn't a dream
+>the effigies gently deposited you on a cot
+>only then did the fox approach you and touch you
+>with his touch you found yourself able to move again
+>"we could have just done this the easy way, sweetie."
+>you flinched away from his touch but the wall of the cave was to your back
+>he had some sort of gourd of liquid in his other paw
+>the orange caught your eye before he knocked back whatever was in it
+>then he pinned you to the wall and forcefully kissed you
+>it took you seconds to realize he was force feeding you whatever was in that gourd and you struggled to escape 
+>he let you go and you tried coughing it up whole trying to get out of bed 
+>"oh you won't want to go too far."
+>what the hell did he mean by that
+>you shot him a look and he reached up and petted you
+>the grin returned 
+>you grew nervous
+>"you probably know just a little about something called a love potion, correct?"
+>you nodded slowly as he moved to play with your face
+>"a sort of elixir to make you fall head over heels for me."
+>oh God he was trying to coerce you with chemicals
+>"well that wasn't it. I just poisoned us and only I know where the antidote is."
+>your eyes shot wide
+>you almost reached out for the fox but Füchsin backed off the bed and gave you a wag of one clawed finger
+>"marriage now, live long life later. I don't think I could make it simpler."
+>your mind was racing
+>just why would this creature want marriage this badly?
+>you asked him if he realized he'd die too
+>"oh I'm well aware. point is, how much do you think I'll wager? you probably think I'll just get scared."
+>he leaned in and poked you on the nose
+>"this is very serious."
+>you had to ask for real
+>why you?
+>"simple. you rescued me so I'm merely extending my hand in marriage out of gratitude."
+>he poisoned you
+>you were poisoned right now
+>you arguing this point got him to politely pat your head like one would placate a child
+>"that's because you don't know what's good for you."
+>he then procured a small box from a shelf
+>the thought of running occurred but with this poison how far could you go? 
+>"now then," he remarked while opening up the box to you
+>gold bands were the only thing in the box and you didn't need him explaining what that meant
+>the teeth had returned as Füchsin's yellow gaze awaited your next move
+>he was forcing your hand and he was smug about it
+>"come now, don't want to leave the family behind do you?"
+>he spoke that in the voice of that old woman you initially met
+>that earned him a glare
+>you should have left him to those dogs
+>blatantly manipulation like this was not a way to put you at ease
+>you set your jaw and took a ring from the box, the surrender leaving a bitter taste in your mouth
+>this thing, he was a demon 
+>in your eyes he felt unnatural and the threat to you and yours had you on edge
+>but he had you over a barrel 
+>this bargain was the only way you could see out
+>so, now what?
+>"glad you asked," his voice returning to what you guessed was his natural one
+>he slipped a ring onto a slender clawed finger and looked at it after, paying you little mind before he realized you hadn't put on yours
+>"well?"
+>he looked down expectantly 
+>fine
+>you put the ring on and it fit surprisingly well
+>he tossed the box to the side and it clattered on the cave floor
+>your marriage should have been a happy day
+>instead you were in some gloomy cave that smelled of herbs and smoke
+>how the hell did he make this look like a cabin? 
+>wait 
+>hell
+>happy thoughts and prayer 
+>that worked last time
+>maybe you could drive him away again
+>after the antidote 
+>you needed the antidote 
+>demanded it
+>"oh that," he said with a laugh
+>"I fed you water. surprise."
+>you immediately went to pull off the ring
+>goddamn witchcraft
+>water
+>he tricked you with water
+>but… the ring refused to budge
+>he stood there, triumphant 
+>a hand on his hip
+>"I needed you to volunteer for the spell to work. you should be flattered. those are an heirloom."
+>you were free to get out of bed now and took the opportunity 
+>you stood over the fox and he looked up to you
+>"good men like you are hard to find."
+>oh so now we resorted to flattery
+>you were at a loss what to do now so you hoped that prayer and good thoughts trick would work
+>"it won't work sweetie."
+>you looked a little shocked
+>"I can't completely read your thoughts but I do get little flashes."
+>dammit
+>"anyways, I ended up pulling back after realizing I went too far that day."
+>the fox gently placed his arms on your shoulders and leaned into you
+>you felt so defeated right now 
+>maybe he was trying to decieve you again
+>mentally, you sought safety in prayer regardless of what he claimed
+>he wasn't leaving after even after a half dozen repeated prayers
+>closing your eyes to the whole situation didn't help
+>he seemed to let you have this 
+>either out of courtesy or to rub the victory in your face you couldn't tell 
+>but he still had a smirk 
+>"God might have taken issue with me before, but guess who bagged himself a Christian husband?"
+>he nuzzled up to your chest and you still had no idea how to react to any of this
+>light outside the cave dimming made you keenly aware of how late things had carried on
+>he took notice of you staring
+>"oh you don't want to go out there after dark. I've heard there's a witch that lives out in these woods."
+>he laughed and played with your hair
+>then in a flash of movement he shoved you back onto the cot, pinning you to the bed
+>"I insist you stay as my guest."
+>the way he straddled you left hardly any guess at his intentions
+>you pushed him back, finding your agency being stripped of you too much to bare at this point
+>he didn't fight the shove
+>instead he gripped your arm rested his chin in your palm, striking a pose as he looked down at you
+>you wanted to get up but he decided to be dead weight and make it that much harder
+>soft fur brushed over your bare skin
+>"I know for a fact these strong hands and arms are wasted just plowing a field."
+>he nuzzled his face against the arm shoving him back
+>"doesn't your wife deserve to get the same attention?"
+>attempts to wave him off ended with him wrestling your arm
+>as in he ended up locking his arms, legs and tail around your right arm
+>you had some experience with wrestling from your family and he was frankly small enough you fought the hold
+>moving was difficult but not not impossible
+>you looked around the around for something as the fox grappled your arm
+>something to break the hold 
+>then you'd run and never come back to these woods
+>"don't you dare," he hissed out
+>maybe he could really ready your mind
+>you didn't know the exact science of that but that was going to make things difficult 
+>your arm made moving off the bed difficult 
+>but you ended up somehow dragging yourself and flopped face first onto the cave floor
+>the fox's furry thighs clamped tighter around your bicep 
+>"I could freeze you again. I could. but that's too easy."
+>you drug yourself across the cave floor
+>searching for anything
+>he had a cauldron of some sort of bubbling concoction with a slow fire underneath 
+>that was an option
+>"seeing you gut that hound to save me… God you don't know how much that sold you as 'the one'"
+>something wet rubbed against your arm as he kept trying to pin you
+>he had trinkets and baubles on shelves too high to reach
+>you tried hard to shake him off again to no effect
+>he sounded desperate and frustrated
+>your shirt sleeve was a mess
+>when he started licking at your hand you froze, unable to comprehend just what that was about
+>you shouted at him and asked just what the hell he was doing
+>"let me lick you!" he shouted as you tried to wave your arm
+>this was becoming ridiculous 
+>he went from trying to charm you to extortion to this
+>it felt like forever grappling with him in the floor
+>he tried licking your hand until you finally managed to get your hand clasped over his muzzle
+>at least you'd get some quiet but he wasn't letting go and you could see it getting dark out
+>out in the woods with this thing sounded like hell again
+>you could get more violent 
+>but something stayed your hand
+>maybe because he was essentially smaller in every way to you
+>you would feel guilty
+>maybe it was fear you would incur worse from him
+>might have been both
+>you had a hold of him at the moment and you didn't want him getting a better grip
+>the whole time he tried jerking his snout out of your hand
+>you toyed with the idea of grabbing wood from under the cauldron
+>that was a last resort
+>what you did instead was instead of flailing around any more you readied yourself 
+>he didn't anticipate you putting all your strength into pushing you both up and in one motion grab the scruff of his neck
+>it worked on your old cat
+>you discovered he wasn't a cat when he grappled both your arms now that they were close together
+>it didn't throw you off balance to one side but he had you locked in tightly
+>"mmmph mmmph mmmph"
+>at least your hand was still steadfast
+>neither of you would yield
+>he clung to your arms tightly and you refused to take a one knee
+>one hand was free now to grab anything off the shelves
+>you snatched a bottle with a sprayer attached to it
+>you tried to spritz it in his face but he kept moving
+>wasn't easy to aim blind
+>you stopped when you realized it was a perfume that smelled of apples 
+>making him smell nicer wouldn't help the situation 
+>the fox continued to wiggle around your arms with the deft maneuvering of a snake
+>you realized too late he just needed to tire you out 
+>that was his whole goal, to make you expend energy
+>and you were getting weaker carrying the spasming fox
+>you roared and in one desperate final act ripped an arm free
+>judging by the fox pausing you'd left an impression 
+>you weren't getting toyed with 
+>he was awestruck looking at you looking down at him
+>he just wiggled against your arm
+>you felt his weight once more throwing you off balance
+>this time you landed on top of him
+>he'd have to give up with you smothering him
+>he released his hand and started tearing at your pants
+>his claws shredded through the material easily
+>you still had a hold of his muzzle but the grip was awkward now
+>in the struggle you ended up with the fox's head between your legs
+>the way he was shredding at your garments meant you were scared to let him go
+>putting him at crotch level seemed like a bad idea in hindsight
+>you didn't have the luxury of thinking too hard right now
+>Füchsin had your manhood exposed now and you bucked when you felt a warm tongue over the length
+>what the hell was he doing?
+>you tried to stand up but his arms snaked around you and he grabbed onto your pants 
+>he had worked your length in his needle toothed mouth and you were hesitant to get really violent

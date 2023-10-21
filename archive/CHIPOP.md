@@ -44,8 +44,11 @@ Updates by:
 	 	->![QassāmMen](https://files.catbox.moe/je41ni.gif)<-
 !!! note 
 	->** Currnet theme song(s):**<-
-	->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier- Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg) ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)
-	![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) [Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
+	->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+
+	->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
+
+	->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Alnadha Betlageena - Whenever It's the Call, You Will Find Us](https://youtu.be/DhIp5jWViG8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
 
 ***
@@ -68,7 +71,7 @@ Do not trust happening announcements without link/proof
 By typing in this thread you denounce Israel as a legitimate state, denounce the Talmud and endorse TKD (Total Kike Death)
 
 ▶THREAD THEME:
-https://youtu.be/FwF4MFf019E
+https://youtu.be/1eu0PtSdSNo
 
 ▶LIVE-STREAMS:
 https://youtu.be/KcVIWxcIV74
@@ -88,23 +91,22 @@ https://www.presstv.ir/Live
 https://israelpalestine.liveuamap.com/
 https://remix.aljazeera.com/aje/PalestineRemix/maps_main.html
 
-▶CLIPS:
-https://rentry.org/TKDCHIP
+▶OP:
+https://rentry.org/CHIPOP
 
 ▶INFO:
 https://rentry.org/TKDTJD
 
-▶OP:
-https://rentry.org/CHIPOP
+▶CLIPS:
+https://rentry.org/TKDCHIP
 
 ▶RECENT:
-\>Explosions near the US Military Victory Base Complex, Iraq
+\>First aid trucks enter Gaza as border crossing with Egypt opens; US warns of 'potentially chaotic' situation
+\>White House asks Congress for $106 billion for Ukraine and Israel wars
 \>Israel bombs Christian church 40+ killed
 \>US State Dept issues worldwide caution travel alert
-\>IDF Minister: "You now see Gaza from afar, up close- two weeks"
-\>2x. Please donate, God bless you https://humanappeal.org.uk/
 \>Hospital bombed, 500+ dead. JDAM used. IDF did it
-\>Most utilities off. Water resumed in S. Gaza pump only, damaged
+\>2x. Please donate, God bless you https://humanappeal.org.uk/
 ***
 ## OP Additional Info:
 !!! warning Alternative titles:

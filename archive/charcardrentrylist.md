@@ -18,8 +18,9 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[GGR89](https://rentry.org/ggr89) | Misc |[Scarlet](https://files.catbox.moe/l269t5.png)|
+[Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png), [Chiyoko](https://files.catbox.moe/lcz8rh.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png), [Rusty](https://files.catbox.moe/v5tml2.png)|
-[Chefseru](https://rentry.org/chefseru) | Misc |[Luke](https://files.catbox.moe/ynk0pr.png), [Chiyoko](https://files.catbox.moe/lcz8rh.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Rory](https://files.catbox.moe/mrh4jy.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kuri](https://files.catbox.moe/frjktt.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Renpet](https://files.catbox.moe/gafcxt.png)|
@@ -58,7 +59,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
-[GGR89](https://rentry.org/ggr89) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||

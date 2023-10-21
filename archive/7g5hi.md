@@ -14,7 +14,7 @@ Build List:
 Inatsu Hikuhei(Hokage), "The Bull of Konoha": https://archive.4plebs.org/tg/thread/90341083/#90349663 
 Akuryoga Mitiru, "The Old Demon": https://boards.4channel.org/tg/thread/90401142#p90403475
 Yusuke, "The Red Sand": https://boards.4channel.org/tg/thread/90479472#p90495047
-
+Jōmyoku Kinjōshi "Gilded Mogul": https://archive.4plebs.org/tg/thread/90608527/#90619619
 >A-Rank:
 Taiki, "The Trunk Thrower": https://archive.4plebs.org/tg/thread/90328516/#90337572
 Konna, "The Shady Foreigner": https://archive.4plebs.org/tg/thread/90328516/#90338178

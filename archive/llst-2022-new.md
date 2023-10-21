@@ -1,5 +1,5 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://pbs.twimg.com/media/F89UCytb0AAhi_X?format=jpg&name=medium)  <-
+-> ![](https://files.catbox.moe/x68bup.jpg)  <-
 
 ##Changelog:
 ==2023=10-14==
@@ -199,7 +199,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
 **Akane Yabushima 薮島朱音**|Yabuchan|July 18, XXXX|[Agency WEB](https://www.imenterprise.jp/profile.php?id=160) / [TW](https://twitter.com/a_yabushima)|[📷](https://www.imenterprise.jp/files/img/YABUSIMAAKANE20210305120851.jpg)
-**Aya Emori  絵森彩**|Emorin,Ayachan|Feb 23, 2004|[Official WEB](https://emori-aya.net/) / [Agency WEB](http://www.box-corporation.com/aya_emori) / [TW](https://twitter.com/AyaEmori_BOX) / [IG](https://www.instagram.com/emoriaya.official/) / [TK](https://www.tiktok.com/@ayaemori_official)|[📷](https://files.catbox.moe/topfo5.jpg)
+**Aya Emori  絵森彩**|Emorin,Ayachan|Feb 23, 2004|[Official WEB](https://emori-aya.net/) / [Agency WEB](http://www.box-corporation.com/aya_emori) / [TW](https://twitter.com/AyaEmori_BOX) / [IG](https://www.instagram.com/emoriaya_official/) / [TK](https://www.tiktok.com/@ayaemori_official)|[📷](https://files.catbox.moe/topfo5.jpg)
 **Liyuu 黎狱**|Liyuu, Li-chan|January 9, 1997|[Official WEB](https://liyuu0109.com/) / [TW](https://twitter.com/Liyu0109) / [IG](https://www.instagram.com/koi_liyuu/) / [YT](https://www.youtube.com/@liyuuchannel) / [LINEBlog](https://archive.is/8Hhzn) / [Weibo](https://weibo.com/n/Liyuu_) / [BB](https://space.bilibili.com/4549624?spm_id_from=333.337.0.0) / [TK](https://www.tiktok.com/@liyuu_official)|[📷](https://lain.bgm.tv/pic/crt/l/03/90/35786_prsn_S1766.jpg?r=1628654423)
 **Naomi Payton ペイトン尚未**|Paychan,Peiko,Pei|July 1, 2003|[Agency WEB](https://www.sma.co.jp/s/sma/artist/492?ima=0000) / [Fan WEB](https://smavoice.jp/s/sma03/artist/27) / [TW](https://twitter.com/_Naomi_Payton_) / [IG](https://www.instagram.com/_naomi_payton_) / [YT](https://www.youtube.com/@NaomiPayton_official)| [📷](https://www.sma.co.jp/images/15/3af/0095dba753827e70a21eb98af5c3e.jpg)
 **Nagisa Aoyama 青山なぎさ**|Nagichan,Nagisa|May 16, 1998|[Agency WEB](https://apollobay.jp/talent/青山なぎさ/) / [TW](https://twitter.com/AoyamaNagisa) / [IG](https://www.instagram.com/aoyamanagisa_official/) / [TK](https://www.tiktok.com/@aoyama_nagisa_official) | [📷](https://apollobay.jp/wp-content/uploads/43ca930a28b03d75acdb03705a494895-scaled.jpg)

@@ -349,5 +349,12 @@ https://files.catbox.moe/flt1pi.MP4
 https://files.catbox.moe/im9abz.mp4
 >new hezbollah vid (Added Oct. 20th)
 https://files.catbox.moe/1dgi0s.mp4
->Hamas Releases Footage of  American Hostages  Handover to Red Cross
+>Hamas Releases Footage of  American Hostages  Handover to Red Cross  (Added Oct. 20th)
 https://files.catbox.moe/93qmfx.MP4
+>Israel fires white phosphorous at Al-Malikeh Lebanese Border, Hezbollah retaliates  (Added Oct. 21st)
+https://files.catbox.moe/wrfw8c.mp4
+https://files.catbox.moe/fwt70b.mp4
+>"Hell awaits you" Hamas's message to impending kike invasion (Added Oct. 21st)
+https://files.catbox.moe/8ig3qa.mp4
+> Israeli army attacked the Nuseirat market, 8 Palestinians killed (Added Oct. 21st)
+https://files.catbox.moe/gwf7ve.mp4

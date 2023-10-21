@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-09-15)==<-
+->==(Updated 2023-10-21)==<-
 ***
 [TOC2]
 ***
@@ -71,6 +71,15 @@ Edit: 24 Aug 2023 11:23 UTC
 
 *"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***
+##AdvancedCardWritingTricks
+https://rentry.org/AdvancedCardWritingTricks
+
+Pub: [21 Oct 2023 No.96826991](https://desuarchive.org/g/thread/96826807/#96826991)
+Edit: 21 Oct 2023 18:01 UTC
+- 5742 words, 33 minutes read
+
+*"Advanced card writing tricks. Can be considered an up-to-date guide on nearly every modern technique."*
+***
 ## Some rentries containing tips for roleplaying, but not about botmaking overall
 
 1. fluffy AI
@@ -110,3 +119,5 @@ Sister rentries:
 
 Email for feedback and suggestions:
 - aicg2023@proton.me
+
+[](#' METHODOLOGY: time to read uses Firefox Reader View. It gives a range; take the lower bound. Word count is made by doing CTRL-A on the page. Doesn't matter if it's in Reader View or not. ')
