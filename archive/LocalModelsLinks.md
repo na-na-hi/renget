@@ -88,9 +88,8 @@
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
-[HIPIE](https://github.com/berkeley-hipie/HIPIE)|Text-to-Segmentation with various levels of granularities
+[Set-of-Mark Segmentation](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
-[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-text CPU-based inferencing 
 [Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion

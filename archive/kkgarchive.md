@@ -1,9 +1,5 @@
 ## /kkg/ Thread Archive
-[Last Updated: 20.10.2023 15:00 UTC]
-
-Current thread - [boards.4chan.org/h/thread/7622041/](https://boards.4chan.org/h/thread/7622041/)
-
-Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
+Current: [boards.4chan.org/h/thread/7622041/](https://boards.4chan.org/h/thread/7622041/) &nbsp;&nbsp; &nbsp;&nbsp; Older threads via archive sitemap: [rentry.org/kkgarcmain](https://rentry.org/kkgarcmain/)
 
 Last five:
 - 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Learning to swim Edition!

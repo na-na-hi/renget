@@ -37,6 +37,9 @@ https://expugn.github.io/priconne-quest-helper/
 
 #####Fluff
 
+**Kotturd Tales**
+https://kotturdtales.neocities.org/kotturd-tales/
+
 **Songs and wallpapers**
 https://priconne-hill.com/album
 

@@ -1,5 +1,5 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/5rqx3l.jpg)  <-
+-> ![](https://pbs.twimg.com/media/F89UCytb0AAhi_X?format=jpg&name=medium)  <-
 
 ##Changelog:
 ==2023=10-14==
@@ -352,7 +352,6 @@ BD 1080p - https://nyaa.si/view/1525051
 ==(ENGSUB)== Aqours COUNTDOWN LoveLive! ~WHITE ISLAND~
 https://nyaa.si/view/1534180
  
-
 ####EVENTS/PERFORMANCES/MISC
 Anisong World Matsuri 2017
 https://nyaa.si/view/1017115
@@ -422,6 +421,9 @@ Animelo Summer Live 2018 - https://nyaa.si/view/1100229
 Kohaku Uta Gassen 2018 - https://nyaa.si/view/1106764
 CDTV Special New Year 2019 - https://nyaa.si/view/1106731
 Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
+
+Saint Snow 1st GIG ~Welcome to Dazzling White Town~ 
+[1080p BRRip](https://nyaa.si/view/1727091)![](https://files.catbox.moe/c95yx7.gif)
   
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
@@ -488,21 +490,18 @@ https://nyaa.si/view/1417140
 
 ###Liella!
 ####CONCERTS/LIVES/VODs
-Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
-https://nyaa.si/view/1612969
-
 Liella! First Love Live Tour ~ Starlines! ~ *D1&D2*
-Gunma -  https://nyaa.si/view/1453544
-Okayama -  https://nyaa.si/view/1454983
-Osaka  -  https://nyaa.si/view/1460407
-Tokyo A -  https://nyaa.si/view/1463384
-Tokyo B - https://nyaa.si/view/1481889
-Hokkaido - https://nyaa.si/view/1457938
-Fukuoka -  https://nyaa.si/view/1466416
-Aichi -  https://nyaa.si/view/1468305
-Chiba -  https://nyaa.si/view/1471453
-Miyagi -  https://nyaa.si/view/1478642
-Engsub (Gunma/Miyagi/Tokyo w/ Making of Scenes) - https://nyaa.si/view/1657599
+[Gunma WEBRip 1080p](https://nyaa.si/view/1453544)
+[Okayama WEBRip 1080p](https://nyaa.si/view/1454983) 
+[Osaka WEBRip 1080p](https://nyaa.si/view/1460407)
+[Tokyo A WEBRip 1080p](https://nyaa.si/view/1463384)
+[Tokyo B WEBRip 1080p](https://nyaa.si/view/1481889)
+[Hokkaido WEBRip 1080p](https://nyaa.si/view/1457938)
+[Fukuoka WEBRip 1080p](https://nyaa.si/view/1466416)
+[Aichi WEBRip 1080p](https://nyaa.si/view/1468305)
+[Chiba WEBRip 1080p](https://nyaa.si/view/1471453)
+[Miyagi WEBRip 1080p](https://nyaa.si/view/1478642)
+[BluRay 1080p Gunma/Miyagi/Tokyo + w/ Making of Scenes](https://nyaa.si/view/1657599)
 
 Liella! 2nd LoveLive! ~What a Wonderful Dream!!~ *D1&D2*
 Yokohama -  https://nyaa.si/view/1502627
@@ -514,12 +513,15 @@ Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
 Miyagi - https://nyaa.si/view/1610539
 Tokyo - https://nyaa.si/view/1632065
 Saitama - https://nyaa.si/view/1645740
-[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html)
+[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) ![](https://files.catbox.moe/c95yx7.gif)
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) [720p](https://nyaa.si/view/1707506)
 Catchu! ver : [1080p](https://nyaa.si/view/1709468) [720p](https://nyaa.si/view/1709926)
 5yncri5e! ver: [1080](https://nyaa.si/view/1716100) [720](https://nyaa.si/view/1716321)
+
+Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
+https://nyaa.si/view/1612969
 
 ####EVENTS/PERFORMANCES/MISC
 ==(ENGSUB)==Liella! Season 1 Opening and Ending Online Release Event - https://nyaa.si/view/1611104
@@ -546,27 +548,23 @@ Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
 
 ###Hasunosora
-OPENING LIVE EVENT～Bloom the Dream～ 
-[1080p](https://nyaa.si/view/1702233)
+####CONCERTS/LIVES/VODs
+Hasunosora 1st Live Tour ~RUN! CAN! FUN!~
+TBA ![](https://files.catbox.moe/c95yx7.gif)
 
-SUMMER STATION 音楽LIVE
-[1080p](https://nyaa.si/view/1702234)
-
-
+####EVENTS/PERFORMANCES/MISC 
+OPENING LIVE EVENT～Bloom the Dream～ : [1080p](https://nyaa.si/view/1702233)
+SUMMER STATION 音楽LIVE : [1080p](https://nyaa.si/view/1702234)
 Official YT Channel: https://www.youtube.com/@lovelive_hasu
 
+[Love Live! Archive - Live Streams (January 2016 - September 2022) (249.1 GiB)](https://nyaa.si/view/1612720)
+[Aqours/Nijigasaki Concert Collection (935.0 GiB)](https://nyaa.si/view/1613034)
 
-**Love Live! Archive - Live Streams (January 2016 - September 2022) (249.1 GiB)**
-https://nyaa.si/view/1612720
-
-**Aqours/Nijigasaki Concert Collection (935.0 GiB)**
-https://nyaa.si/view/1613034
 ***
 
 ## RANDOM LINKS 
 
 **Komiya Arisa PB/Photo linkdump:** https://rentry.org/llst-arishasashin
-
 **Misc Videos, Links, and Photos**
 Ucchi Photobook - https://imgur.com/a/UruilEF
 Ucchi Photobook (old version) - https://imgur.com/a/q2UyB
@@ -596,8 +594,8 @@ Liyuu 1st PB - https://imgur.com/a/cXG3Onu
 Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kMrX0i9
 Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
-[Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/)
-[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC)
+[Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/) 
+[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) ![](https://files.catbox.moe/c95yx7.gif)
  
 **Videos/Clips/Namas**
 **Raw:**
@@ -769,6 +767,9 @@ December 10 - Emi Nitta
 December 22 - Tomori Kusunoki
 December 23 - Hinata Sato
 December 26 - Sora Tokui
+
+-> ![](https://files.catbox.moe/j7s4vf.png) ->
+
 ***
 -> **Disclaimer: all content here are hosted offsite, publicly available official information and media that qualifies under the area of fair use and does not in any way violate local or Japanese copyright laws.**<- 
 ->**免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。さらに、このページでは、著作権のルールに違反することがないことを保証しています。**<-

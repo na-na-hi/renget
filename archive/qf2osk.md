@@ -2,9 +2,10 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->horse girl = 2,710 | jorse girl = 436 |  jorse jirl = 17 | wolf girl = 112 | jolf girl = 2
+>horse girl = 2,725 | jorse girl = 445 |  jorse jirl = 17 | wolf girl = 120 | jolf girl = 2
 Stream | horse girl | jorse girl  | jorse jirl | wolf girl | jolf girl
 --- | --- | --- | ---  | --- | ---
+『2023-10-20』 - 【WOLFQUEST】my lady and my babies [_T6Vrsv_FHg]  |  15   |  9   |     |   8  |  
 『2023-10-19』 - 【DOOM】Let's Doo Doo Doo This Again [HFkddywOFW0]    |  1   |     |     |     |  
 『2023-10-18』 - 【ホロのスイカ 】Wow ! Look At This New Game ! [Do4BDtHWRic]  | 39    |  5   |     |     |  
 『2023-10-16』 - 【PERSONALITY QUIZZES】Finding Myself [dNCBf1P2ydA]  |  271   |   16  |     |  4    |  

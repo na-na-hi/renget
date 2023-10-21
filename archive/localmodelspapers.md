@@ -153,6 +153,7 @@
 10/2023|[Mixture of Quantized Experts (MoQE): Complementary Effect of Low-bit Quantization and Robustness](https://arxiv.org/abs/2310.02410)
 10/2023|[Augmented Embeddings for Custom Retrievals](https://arxiv.org/abs/2310.05380)
 10/2023|[Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/abs/2310.05707)
+10/2023|[Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)

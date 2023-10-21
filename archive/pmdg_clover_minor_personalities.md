@@ -145,7 +145,3 @@ Sex: Male
 >likes: hurtin people, bein badass, motorcycles, nine inch nails (the band), killing, death, punk rock, jinco jeans, skulls, darkness, hot gardevoirs with big boobys who are sluts, ninne inch nails (on finger), earings, red(cool kind not gay kind)
 >dislikse: niceness, happiness, levis, zorua from the guild fuck you zorua stop showin everyone my fuckin deviantart you peace of shit, trent razner, short nails, zoruaguy666 (mega ass-faggot), sunshine, life, my dad, football
 >His real name is Cletus. He refuses to acknowledge it and has instead taken on the name of his epic Black Lucario OC.
-
-
-####Lliam
->A benevolent guild master of the Clover Guild. He arrived in the Pokemon world from another world, like most of the Clover Guild members. Chosen to be the Guild Master by chance during the incident with the Blue Claw Inn. He mainly stays at the homebase and handles office work.

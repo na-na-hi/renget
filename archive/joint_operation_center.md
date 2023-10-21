@@ -33,7 +33,7 @@ Lewds : #depravencrafts on Twitter
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [Demonry of Sound](https://rentry.org/karaokes_songs_v01)
 The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [New Jailbird Guide](https://rentry.org/ope_curated_streams_list01)
-A stream curated list based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendation and based on the future stream.
+A curated list of streams based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendation and based on the future stream.
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams01)
 A page dedicated to the membership content - will contain general informations and a list of the mengens with a short description.
 
