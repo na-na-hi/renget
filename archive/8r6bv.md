@@ -368,6 +368,11 @@ Precursor: *Twirling Glaze* / Gacha
 Susannah's weapon - mandatory, since she's a DPS.  While you *can* sub out for Pardo PRI, it won't
 work very well comparatively.
 
+*Dream Cutter: Polar Star*
+Precursor: *Dream Cutter* / Gacha
+Sirin's scissors.  While you *can* sub with Purana, you really shouldn't.  WristCutter has a huge chunk of
+her damage mods, and her output will drop off a cliff without it.
+
 ######Javelins
 *Prophetic Dreams: Self Fulfilling*
 Precursor: *Prophetic Dreams* / Gacha
@@ -467,7 +472,7 @@ Section has been split due to the addition of G2-4 stigmata to the crafting pool
 		*Nuwa*
 			T -	Useless, conditional 20% TDM
 			M - Was good long ago, but with the split-phase bosses that fucking drop your combo, now sucks.
-			B - Could be fantastic if we get an Ignite DPS a la Griseo/Susannah for bleed (likely why we won't)
+			B - Don't even think about it - it only applies to the applied ignite debuff ticks, not to Valk sourced ignite damage.
 			2pc/3pc - Not worth giving up all three slots to buff summoned unit DPS.
 &nbsp;
 &nbsp;    
@@ -747,6 +752,14 @@ B - Good lightning buff and self battery
 2pc: Due to the force-activate on ult, plus the refreshing nature of the buffs, Handel [M]+[B] replace
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goemon as the cope lightning set of choice.
 3pc: Good buff, but can't stack, so 1 fullset per team maximum.
+&nbsp;
+&nbsp;
+*Little Joys* (Sirin set)
+Precursor: *Leeuwenhoek*
+T - Fairly large buff for any fire DPS that procs ignite
+M - Worst piece, but the best place to start when upgrading from the old Lee/Thales/Lee cope set.
+B - TDM is always good
+3pc: Upgrade for the old Lee/Thales/Lee
 &nbsp;
 &nbsp;
 *Willows*

@@ -768,7 +768,7 @@ For how far back each Pantheon dates back to:
    Oh, but that's not to say she couldn't swallow a ship whole either - Galleys were the largest ships of the period *(smaller fishing vessels were even more fucked)*, and yet then, running a Galley directly into a *(non-storm-force, even)* Charybdis would quite literally drop it straight downward because of the depth difference, looking like the back end of the fucking Titanic. And then the whirlpool would do as all whirlpools do best, and pull the thing further downwards, as the momentum of the Galley carried it forward into the depths. The sea-floor of the Strait of Messina is lined with obliterated fragments / remains of hundreds of ships, from just about every period of human history. And every one of them would have had a crew on board. *Additionally, skeletons line the sea-floor of the Strait of Messina, dating from just about every period of human history.*
    Even today, the current through Messina is fucking brutal - having shredded up underwater motherfucking **L E A D**-lined cables, roughly 25 times in the last 40 years. It's also why there's little in terms of archaeology in the area - everything has already been destroyed and 'chewed up' by our dear Charybdis. All that remains are scarce, heavily eroded fragments of the ships where hundreds, if not thousands of sailors met their watery end.
 
--> ![Charybdis](https://files.catbox.moe/5a3ao8.jpg) <-
+-> ![Odyssey Srait](https://files.catbox.moe/in3um6.jpg) <-
 
 ***
 
@@ -907,7 +907,7 @@ Suffice to say - tl;dr fuckin... who knows. You could look up some DeviantArt fa
 
 -> *~~The Game - you just lost it~~* <-
 
--> ![Strait Key Art](https://files.catbox.moe/in3um6.jpg) <-
+-> ![Strait Key Art](https://files.catbox.moe/jyod65.jpg) <-
 
 
 ***

@@ -10,14 +10,78 @@ Prefix: mxbdx://mpr.lkaelthvu.atq/yfaq/
 Dark Heresy - Core Rulebook
 2te181m27q0n5w8/pfzz_atphym_%2528rqhp%2529.njs/vhtd
 
-Church of the Damned
-j3lxegwde42x66s/mopn+isctct+-+lvcsfu+ku+rxk+pqvgrz+(wtp).kjs/vjhl
+Errata
+klbvzuo3lqt3ls9/fqcwathpix-ystcux-j3.0.fvm/eetr
 
-The Lathe Worlds
-6vgbwh2modv802s/mopn+isctct+-+evy+bslbd+dkwnbw.azt/hhqr
+Character Sheets
+fg7oybdjvxoaqjd/rqhiwoewt_rirdsy_-_zfnpn.azt/hhqr
+
+Ascension
+s27o3xlcc0pz1pw/mopn_isctct_%2528igkaprjdav%2529_-_hhlignowx.fbz/sxqg
+
+Blood of Martyrs
+sdsfxt26u58gscr/vi12_-_iegw_ymqtke_-_lpwke_lp_qumcqeu_%2528wtp%2529.kjs/vjhl
 
 Book of Judgement
 xcrfela2xodfgfq/bncs+rpywfu+-+rud+wlke+ge+qzzwqunze+(qmb).rpk/ugmw
+
+Church of the Damned
+j3lxegwde42x66s/mopn+isctct+-+lvcsfu+ku+rxk+pqvgrz+(wtp).kjs/vjhl
+
+Creatures Anathema
+lido9dysyafz6k8/fqcw_athpix_%2528fylbfdhrsc%2529_-_lnbbfnjna_kwlollaw.taz/ckhd
+
+Daemon Hunter
+xpr3shddff5jm7d/fqaysg_rdppys.lql/ukqk
+
+Disciples of the Dark Gods
+beoktg01y6hx948/ghqm_eagzku_%2528xatkbdgdmr%2529_-_jlhleawng_qp_hlg_jepb_ehlg.svs/xheh
+
+Game Master's Kit
+20amzkkapsr8vrk/fqcw_athpix_%2528fylbfdhrsc%2529_-_yxfr_rxyxrp%2527f_bjj.dqu/suvr
+
+Heed the Higher Call
+p4088e3yxjfq2sq/ghqm_eagzku_%2528xatkbdgdmr%2529_-_xkxb_ckr_xtdarp_blqh.dqu/suvr
+
+Inquisitor's Handbook
+ajgcqix1cmy91ak/fqcw_athpix_%2528fylbfdhrsc%2529_-_jgb_ueemyagvwc%2527a_vmjlrixi.veq/gdhq
+
+Lathe Worlds
+6vgbwh2modv802s/mopn+isctct+-+evy+bslbd+dkwnbw.azt/hhqr
+
+Radical's Handbook
+1im9p63ongzxvzd/vymv_qzimxr_%2528kcaltdnqmb%2529_-_zquvglb%2527y_asulktbb.xvs/jowl
+
+Timeline
+rg9isw940tobw0o/mopn_isctct_%2528igkaprjdav%2529_-_bqritueq.buw/zzaa
+
+Vehicles
+ia831tvytse16d0/uyjhugso.mgb/jzot
+
+>Adventures & Campaigns
+Black Sepulchre
+g37rz0sec1oydpr/mdx_bq_mzwoqkyaqtyptr.upe/lvwn
+
+Edge of Darkness
+qvxp9r5sbls6kvl/fqcw_athpix_%2528upgbrgpm%2529_-_kpyi_wp_zxjoztfp.nfs/kxdx
+
+Haarlock Saga 01 - Tattered Fates
+gqqatn8v37w0ase/vymv_qzimxr_%2528lmglcgia%2529_-_%2528xhumfwgj_01%2529_iwxhtumk_dnlmf.nac/sjwl
+
+Haarlock Saga 02 - Damned Cities
+0ea9wdbcsg04lao/vymv_qzimxr_%2528lmglcgia%2529_-_%2528xhumfwgj_02%2529_kwgztl_rjjzgt.taz/ckhd
+
+Haarlock Saga 03 - Dead Stars
+y2tiv1dhq502kbc/mopn_isctct_%2528lnaasjim%2529_-_%2528muhzczjv_03%2529_zqwu_aexcv.rpk/ugmw
+
+Purge the Unclean
+qjyyr63v9uje54w/mopn_isctct_%2528lnaasjim%2529_-_gawof_ckr_sukqrkw.skd/scqv
+
+Salvation Demands Sacrifice
+2euejp2oz925dvq/cojjeufqb_utfmwez_xxuelmvtb.fzh/lyot
+
+Shattered Hope
+052zyt1o4efw8o8/ywoy_ihcsoh_%2528shbtmhmf%2529_-_xpnvbxmix_yizt.fbz/sxqg
 
 # #=Only War= #=OW
 Core Rulebook

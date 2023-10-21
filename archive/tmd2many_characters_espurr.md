@@ -62,7 +62,7 @@ Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 None | - | - | - | - | - | This potential has yet to be unlocked.
 None | - | - | - | - | - | This potential has yet to be unlocked.
-Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://archives.bulbagarden.net/media/upload/9/99/UnknownIC_RSE.png) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
 

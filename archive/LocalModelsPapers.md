@@ -55,6 +55,7 @@
 03/2023|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
 05/2023|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
+10/2023|[Improving Image Generation with Better Captions (DALL·E 3)](https://files.catbox.moe/e7jl5b.pdf)
 |
 |**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -169,6 +170,7 @@
 04/2023|[DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097)
 06/2023|[WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/abs/2306.07906)
 09/2023|[GPT Can Solve Mathematical Problems Without a Calculator (MathGLM)](https://arxiv.org/abs/2309.03241)
+10/2023|[AgentTuning: Enabling Generalized Agent Abilities for LLMs (AgentLM)](https://arxiv.org/abs/2310.12823)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)
@@ -239,7 +241,7 @@
 07/2023|[CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention](https://arxiv.org/abs/2108.00154)
 03/2022|[Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 04/2022|[UL2: Unifying Language Learning Paradigms](https://arxiv.org/abs/2205.05131)
-05/2022|[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638)
+05/2022|[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (IA3)](https://arxiv.org/abs/2205.05638)
 06/2022|[nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557)
 07/2022|[Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)
 08/2022|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
@@ -405,6 +407,8 @@
 10/2023|[Towards End-to-end 4-Bit Inference on Generative Large Language Models (QUIK)](https://arxiv.org/abs/2310.09259)
 10/2023|[Microscaling Data Formats for Deep Learning](https://arxiv.org/abs/2310.10537)
 10/2023|[xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/abs/2310.02989)
+10/2023|[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962)
+10/2023|[Frozen Transformers in Language Models Are Effective Visual Encoder Layers](https://arxiv.org/abs/2310.12973)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

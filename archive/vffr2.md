@@ -94,15 +94,14 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Gee, Kiana, MiHoYo lets you have two Herrscher suits?  New fire psy dps suit, incorporates
 &nbsp;&nbsp;&nbsp;&nbsp;some of APHO's aerial combos.  Definitely needs her PRI, can get by with Lee from G3
 &nbsp;&nbsp;&nbsp;&nbsp;bounty for stigs.  Heavily powercreeps Blood Rose, and has very high base damage output.
-&nbsp;&nbsp;&nbsp;&nbsp;~~Insta-kick in co-op due to you fuckers high juggling the boss.~~  Pressed by Vill-V/HoFi on off-type
-&nbsp;&nbsp;&nbsp;&nbsp;fire stages.
+&nbsp;&nbsp;&nbsp;&nbsp;~~Insta-kick in co-op due to you fuckers high juggling the boss.~~  Pressed by HoFi.
 
 *Herrscher of Finality* (HoFi) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Gay sex with cores on.  Probably the last tuna suit we'll see for a while, since dawei is pushing
 &nbsp;&nbsp;&nbsp;&nbsp;into 'part 2'.  Tied heavily to the kompu 12/12 team, but she can work as solo fire.  Heavily
 &nbsp;&nbsp;&nbsp;&nbsp;weapon locked - you might be able to cope with HoF's PRI, but it'll suck.  There's also a fair
 &nbsp;&nbsp;&nbsp;&nbsp;jump from her 3pc to even a 2p mixed set, so she's p. expensive.  Very, *very* solid slot in for
-&nbsp;&nbsp;&nbsp;&nbsp;all fire weathers outside of Vill-V's QUA.
+&nbsp;&nbsp;&nbsp;&nbsp;all fire weathers outside of QUA.
 &nbsp;
 #####Mei
 **B-valks**
@@ -379,20 +378,21 @@ seems to be long gone.
 *Argent Knight Artemis* (AKA)			/ Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Ara ara and tits.  Solid damage output and constantly freezes enemies, but has no time-
 &nbsp;&nbsp;&nbsp;&nbsp;fracture, so falls behind in time-attack stages like memorial.  Must have her scythe - 
-&nbsp;&nbsp;&nbsp;&nbsp;doubly so now, since Skadi PRI covers her SP problems.  Dead with Boobnya taking her 
-&nbsp;&nbsp;&nbsp;&nbsp;niche.
+&nbsp;&nbsp;&nbsp;&nbsp;doubly so now, since Skadi PRI covers her SP problems.  Dead.
 
 *Fallen Rosemary* (FR)				/ Farmable (AW+AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Quantum lightning semi-support type.  Similar function to BD+JST, but better for more
 &nbsp;&nbsp;&nbsp;&nbsp;drawn out fights.  Due to being farmable, needs SS-rank minimum.  Gear and frags were
 &nbsp;&nbsp;&nbsp;&nbsp;readily available before 4.6 through battlepass or by spending resonators.  Needs the scythe.
-&nbsp;&nbsp;&nbsp;&nbsp;Rejiggered by her PRI and Zhenyi into an excellent QUA DPS unit.
+&nbsp;&nbsp;&nbsp;&nbsp;Rejiggered by her PRI and Zhenyi into a decent QUA DPS unit - crept by Susannah.
 
 *Spina Astrea* (SpA)				/ Limited (partial upgrade available from Elysian Realm)
 &nbsp;&nbsp;&nbsp;&nbsp;The "generous" second S-rank of patch 5.5 - only has AKA as an abyss boss rn.  Crystal sink
 &nbsp;&nbsp;&nbsp;&nbsp;unless you don't have HoF+Mobius, and probably will be spending event bait into the future
 &nbsp;&nbsp;&nbsp;&nbsp;for rank up chips.  If you're a newfag, you should probably skip her for HoFi - even at SS-rank
-&nbsp;&nbsp;&nbsp;&nbsp;she feels a little too close to S-rank HoFi to recommend.  Rita Rossweisse pleases old men for B-chips.
+&nbsp;&nbsp;&nbsp;&nbsp;she feels a little too close to S-rank HoFi to recommend.  Dead now with the release of Sirin -
+&nbsp;&nbsp;&nbsp;&nbsp;she's both horribly expensive and still worse in comparison.  Rita Rossweisse pleases old men 
+&nbsp;&nbsp;&nbsp;&nbsp;for B-chips.
 &nbsp;
 #####Seele
 **A-valks**
@@ -405,9 +405,9 @@ seems to be long gone.
 **S-valks**
 *Herrscher of Rebirth* (HoRb)		/ Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS) as phys supporter, and MPE as psy phys dps, Deereele is a
-&nbsp;&nbsp;&nbsp;&nbsp;new mixed phys crit/bleed main support/psy dps.  Motif stig wise, she's another B-locked
+&nbsp;&nbsp;&nbsp;&nbsp;new mixed phys main support/psy dps.  Motif stig wise, she's another B-locked
 &nbsp;&nbsp;&nbsp;&nbsp;valk, but since she's a herrscher, you can move Senti's set over to her to patch the gap - 
-&nbsp;&nbsp;&nbsp;&nbsp;note that in bleed comps, her motif still is worse than 2pc holmes.
+&nbsp;&nbsp;&nbsp;&nbsp;note that in phys bleed comps, her motif is still worse than 2pc holmes.
 
 *Stygian Nymph* (SN)					/ Dorm (as of v5.0)
 &nbsp;&nbsp;&nbsp;&nbsp;Was a do-all semi-powercreep character.  AOE as light seele, ST as dark seele.  Released just 
@@ -465,9 +465,8 @@ seems to be long gone.
 *Herrscher of Human: Ego* (HoH/HoHE)		/ Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Kaworu turned up to 11.  SP hungry giga stacy and newest Herrscher in a long ignored 
 &nbsp;&nbsp;&nbsp;&nbsp;niche (psy ice - no, 6s doesn't count.)  Needs her bow, but can use Welt or next patch's
-&nbsp;&nbsp;&nbsp;&nbsp;G4 ice.  Given the number of 4/4 in abyss, abandon your cycle points if you can't get her,
-&nbsp;&nbsp;&nbsp;&nbsp;(Sushang might serve as an alternative - I could give a solid answer IF HER GLOVES WOULD
-&nbsp;&nbsp;&nbsp;&nbsp;FUCKING DROP.)  Orbited hard by all the other flamechasers.
+&nbsp;&nbsp;&nbsp;&nbsp;G4 ice.  Given the number of 4/4 in abyss, abandon your cycle points if you can't get her.
+&nbsp;&nbsp;&nbsp;&nbsp;Orbited hard by all the other flamechasers.
 
 &nbsp;
 #####Others (Single Suits)
@@ -494,8 +493,8 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;puppet seeds at HP<20%.  Trades off with Sakura Judah PRI as support, but SS-rank w/fullset
 &nbsp;&nbsp;&nbsp;&nbsp;is better than Sakura PRI + Turganev.  Garbage as a main dps, and her SP regen is bad (more
 &nbsp;&nbsp;&nbsp;&nbsp;an issue due to fighting with AE for regen time,) so make certain you can seal the deal with 
-&nbsp;&nbsp;&nbsp;&nbsp;only two ults.  Short, stacked, and the ass is fat.  Replaced by Chrono Navi due to the former's
-&nbsp;&nbsp;&nbsp;&nbsp;team sp regen and self funding.
+&nbsp;&nbsp;&nbsp;&nbsp;only two ults.  Short, stacked, and the ass is fat.  Replaced by Ai-Hag due to team sp regen 
+&nbsp;&nbsp;&nbsp;&nbsp;and consistent gather.
 
 *Sweet 'n' Spicy*                               / Carole
 &nbsp;&nbsp;&nbsp;&nbsp;Mech phys shield breaker support with lofting attacks - partially replaces SA (at higher
@@ -530,7 +529,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;just use Margrave from the foundry.  You'll want her weapon, but you can replace with
 &nbsp;&nbsp;&nbsp;&nbsp;Hekate as a cope weapon (can also sub in on ignite weather with SoS.)  ToT
 
-*Chrono Navi*									/ Ai-chan
+*Chrono Navi*									/ Ai-chan (Ai-Hag)
 &nbsp;&nbsp;&nbsp;&nbsp;The long awaited fire SP support, which is...slightly disappointing.  Mecha fire/ignite support
 &nbsp;&nbsp;&nbsp;&nbsp;with gather and light team sp regen (this alone makes her better than Raven,) but definitely 
 &nbsp;&nbsp;&nbsp;&nbsp;not a fire Pardo.  Gearwise, if you already have Pardo's chakram and Turg [T+B], you can just
@@ -589,23 +588,29 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;still a good QUA DPS, and Ai-chan, while helpful (pre-Ai with AE/Raven, you could ult
 &nbsp;&nbsp;&nbsp;&nbsp;roughly twice before you just sat with your dick in your hand due to no SP,) doesn't make
 &nbsp;&nbsp;&nbsp;&nbsp;her absurdly better than a cracked out lightning team.  Sent out to die right before  
-&nbsp;&nbsp;&nbsp;&nbsp;Herrscher of Elf (fuck back-to-back S-ranks.)  Good if you need a QUA suit.
+&nbsp;&nbsp;&nbsp;&nbsp;Herrscher of Elf (fuck back-to-back S-ranks.)  Replaced as a generic QUA DPS by
+&nbsp;&nbsp;&nbsp;&nbsp;Susannah.
 
 *Jade Knight* 	/ Li Sushang / Farmable (AW+AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Replacement for HB in most ice teams, brings back elemental breach, but has some
 &nbsp;&nbsp;&nbsp;&nbsp;asshole design choices (ranged-only ice team buff on combo) that harm her performance 
-&nbsp;&nbsp;&nbsp;&nbsp;with DPS Pardo and AKA.  Essentially ice HoS, might be able to use her as a DPS on mech
-&nbsp;&nbsp;&nbsp;&nbsp;ice weather if you skipped Elly.  Can use Turg if you already have [T+B] (or Margrave [T+B]
-&nbsp;&nbsp;&nbsp;&nbsp;w/Jing Shengtan / Margrave 3pc,) and Nebs for the team buffs (you'd want her motif gloves
-&nbsp;&nbsp;&nbsp;&nbsp;as DPS though.)  Due to her kit having integrated shield break bonuses, we're probably in for
-&nbsp;&nbsp;&nbsp;&nbsp;dummy thicc elemental shields going forwards (LOL, just use Pag M - you aren't a Paglet,
-&nbsp;&nbsp;&nbsp;&nbsp;right?) 
+&nbsp;&nbsp;&nbsp;&nbsp;with DPS Pardo and AKA.  Essentially ice HoS, usable as a DPS on mech ice weather
+&nbsp;&nbsp;&nbsp;&nbsp;if you skipped Elly.  Can use Turg if you already have [T+B] (or Margrave [T+B] w/Jing
+&nbsp;&nbsp;&nbsp;&nbsp;Shengtan / Margrave 3pc,) and Nebs for the team buffs (you'd want her motif gloves
+&nbsp;&nbsp;&nbsp;&nbsp;as DPS though.)  Her kit has integrated shield-break bonuses, so you'll get hardlocked
+&nbsp;&nbsp;&nbsp;&nbsp;score-wise vs ice without her.
 
 *Dreamweaver*  / Hare (Mistletain Schariac) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;New mech phys DPS notCecilia to replace BKE and TP.  Uses a new weapon type (likely to become
 &nbsp;&nbsp;&nbsp;&nbsp;more frequent as they try to keep players from stat-sticking with their older PRIs,) so you
 &nbsp;&nbsp;&nbsp;&nbsp;either get her weapon or just skip entirely and use the foundry javelin and Elysia set w/Dante M.
 &nbsp;&nbsp;&nbsp;&nbsp;Sucks for Sieg that his wife gets shipped with another straight girl, but w/e.
+
+*Miracle Magical Girl* / Sirin / Farmable
+&nbsp;&nbsp;&nbsp;&nbsp;Sirinfags won, Queenfags lost.  Farmable mecha fire for ignite shill weathers with a farmable
+&nbsp;&nbsp;&nbsp;&nbsp;G4 fire motif set - her chakram/scissors are a massive chunk of her damage, so roll for them
+&nbsp;&nbsp;&nbsp;&nbsp;and farm the rest.  Congrats to the Sirinfags for avoiding the poison touch of the Hagdev.
+&nbsp;&nbsp;&nbsp;&nbsp;Sirin Did Nothing Wrong
 
 &nbsp;
 *Note: Just because a character isn't a do-all or fantastic dps, doesn't mean they have no uses - if you look around, you can

@@ -2,15 +2,18 @@
 
 ->![Funny](https://files.catbox.moe/lltaxk.png)<-
 
-## ->🎃[Recently added to the archive: 10/11/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)🍂<-
+## ->🎃[Recently added to the archive: 10/20/2023](https://www.youtube.com/watch?v=yOUUS6JIRQ0)🍂<-
  ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
 
-->(***Series Entry!***) [Balsa Chapter 26: The Birth of Venus](https://docs.google.com/document/d/e/2PACX-1vTHxyBh_mCgDk6FB1NaX-KO1ZM3JV2tgmDuHANAPlWblBmhNC89VylV4ondlrQRMlsizKeEpvAcwfYD/pub) (Ciyana, multiple chuubas, fantasy)
-[31 Days of Shiori for Holoctober!](https://rentry.org/sggoi) (Holoctober, Shiori Novella, Anthology, multiple stories ranging fron Fluff to NSFW, ongoing)
-[Light the Fire - 01](https://rentry.org/dwkmr) (Advent, Horror, Adventure, Schizophrenia)
-[Distress Signal](https://rentry.org/8gduo) (Jelly Hoshiumi, NSFW, Living Clothes, Corruption)
-[Postponed Collab](https://rentry.org/phffm) (Jelly Hoshiumi, Lumi Kaneko, NSFW, Futanari, Rape, Oviposition, Inflation)
-[A Chef's Dream](https://rentry.org/z8fgrz) (Jelly Hoshiumi, NSFW?, Blueberry Inflation Fetish)<-
+->(***Series Entry!***) [Balse Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
+(***Series Entry!***) [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)
+(***Series Entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 39: A Proper Instruction in Pirate Etiquette)](https://docs.google.com/document/d/e/2PACX-1vTrxHysV5he1PSD0btlZ3vCcWuPEDfP_Ql7eFhqRGlxMkn40J1bEgAyZqexGk3TiiqR84dS5hoowrX3/pub)
+[Apocalypse's Fury](https://docs.google.com/document/d/e/2PACX-1vQu78OtjU8ORyjE5tKy07TdITR2iQXegj0kWuijBofif9H3qg0e5f94kr2BBxyLXhz0lWSUgh1R7FEZ/pub) (Callie, Ame, Gura, NSFW, Romance, Action-Adventure)
+[The Oni's Rebellion](https://rentry.org/nkrym2) (Ayame, NSFW, Romance, BDSM, Blowjob)
+[Snoffy](https://docs.google.com/document/d/e/2PACX-1vSp8-zg3hl9hhIHDcU4CALEXuWbaWI8Op_JFk11LnjQgKYclGNowMo6g3-TrUqDH28zShWCcckzFbqG/pub) (Snuffy, NSFW, /lig/, Lost Bet, Wedgie)
+[A Shark's Tail](https://docs.google.com/document/d/1EMfii2kgTx1p2TwKbPZiwOC64Zh4nVRLPPospDV1iuw/edit?usp=drivesdk) (Gura, NSFW, Tailjob, Feminization, /become/?)
+[Closing The Book](https://rentry.org/r53zv) (Shiori, Nerissa, NSFW, Futa, Ryona, Deepthroat, Asphyxiation)
+<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1177,7 +1180,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [The Idolfication Of Ouro Kronii](https://rentry.org/39s3so) (Ouro Kronii, Parody, Bimbofication, NTR Parody, NSFW)
 [Sakura Tinted Glasses](https://docs.google.com/document/d/e/2PACX-1vRtlVCp9QKIEiDWSLyNF61uzn3EXNoBhr7pwh8eumoEkLY-fMzkLGk4LaPu_r0eTtH6BqHP8NrIgjLI/pub) (Suisei, Miko, SFW, Gore, Zombies)
 [Starsword Infinity](https://docs.google.com/document/d/e/2PACX-1vScqFqg9pWp25sVAy3CbtFsPkwZxpY4koSnMaN9pbxhL29od-XsZn2ZAsCEBGFUetxIeG4Z2TgdC30Q/pub) (Iroha, Suisei, Comedy, Action, SFW)
-[Incomplete Entry](https://rentry.org/2ia7a) (Various Hololive, SFW, Incomplete, Dossier)
+[HoloCORP: Database.](https://rentry.org/2ia7a) (Various Hololive, SFW, Incomplete, Dossier)
 [Untitled MoonaPeko Ero](https://rentry.co/azsfi) (Moona, Pekora, NSFW, Greentext, Shitpost)
 [Lion Taming! A Tsundevil's Mind](https://rentry.co/clrpt) (Towa, Rurudo, NSFW, Collar Play, BDSM)
 [Tokino Sora's April Audition](https://docs.google.com/document/d/e/2PACX-1vS6_41_Lyf012IR2o__kDqvaL1f8vfWdpqCNRjUkumJPQQ-aavUd_tSOu8bVfvMT4pV1BhFK2GNvzGU/pub) (Tokino Sora, Casting Couch, BBM, It's About What You Expect With Those Tags)
@@ -1303,3 +1306,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Distress Signal](https://rentry.org/8gduo) (Jelly Hoshiumi, NSFW, Living Clothes, Corruption)
 [Postponed Collab](https://rentry.org/phffm) (Jelly Hoshiumi, Lumi Kaneko, NSFW, Futanari, Rape, Oviposition, Inflation)
 [A Chef's Dream](https://rentry.org/z8fgrz) (Jelly Hoshiumi, NSFW?, Blueberry Inflation Fetish)
+[Apocalypse's Fury](https://docs.google.com/document/d/e/2PACX-1vQu78OtjU8ORyjE5tKy07TdITR2iQXegj0kWuijBofif9H3qg0e5f94kr2BBxyLXhz0lWSUgh1R7FEZ/pub) (Callie, Ame, Gura, NSFW, Romance, Action-Adventure)
+[The Oni's Rebellion](https://rentry.org/nkrym2) (Ayame, NSFW, Romance, BDSM, Blowjob)
+[Snoffy](https://docs.google.com/document/d/e/2PACX-1vSp8-zg3hl9hhIHDcU4CALEXuWbaWI8Op_JFk11LnjQgKYclGNowMo6g3-TrUqDH28zShWCcckzFbqG/pub) (Snuffy, NSFW, /lig/, Lost Bet, Wedgie)
+[A Shark's Tail](https://docs.google.com/document/d/1EMfii2kgTx1p2TwKbPZiwOC64Zh4nVRLPPospDV1iuw/edit?usp=drivesdk) (Gura, NSFW, Tailjob, Feminization, /become/?)
+[Closing The Book](https://rentry.org/r53zv) (Shiori, Nerissa, NSFW, Futa, Ryona, Deepthroat, Asphyxiation)

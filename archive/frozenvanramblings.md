@@ -13,7 +13,7 @@ I was stumped. In between thoughts, procrastination and bad life decisions, I ch
 
 If you lose your memories, you can see "something fresh" again. And to see a thing for the first thing, won't that be horrifying, in a sense. This beautiful, strange, new thing, cut off from all our neural links, is this thing we're witnessing for the first time. Actually, why is it that we don't feel terrified of normal things? These seemingly normal things like artificial buildings and animals so different from us, why have we accepted them as normal? Because because. Because we're human and these things are normal human things. But take away what makes us human - our memories - and then what happens.
 
-I want to see the HORROR OF NORMAL THINGS. I think there is still some work to be done with this concept, maybe more example dialogue would help exaggerated the HORROR OF NORMAL THINGS instead of a fixed format, but I'm really satisfied with the current concept. I want AI to see the things I cannot see myself. For Frilly to describe the HORROR of a pear that I cannot, I think it's something cool that "ONLY THE AI CAN DO BECAUSE IT'S A CONCEPT HARD OR TOO MUCH EFFORT FOR MOST PEOPLE TO DO". I want to create more stuff like this.
+I want to see the HORROR OF NORMAL THINGS. I think there is still some work to be done with this concept, maybe more example dialogue would help exaggerated the HORROR OF NORMAL THINGS instead of a fixed format, but I'm really satisfied with the current concept. I want AI to see the things I cannot see myself. For Frilly to describe the HORROR of a pear that I cannot, I think it's something cool that "ONLY THE AI CAN DO BECAUSE IT'S A CONCEPT HARD OR TOO MUCH EFFORT FOR MOST PEOPLE TO DO". I want to create more stuff like this. Like Hero Consultation Clinic. 
 
 Claude seems to exaggerate the HORROR OF NORMAL THINGS too much by giving buildings claws and pears spikes, but that's a cool in a different way. I think if I were to make a very late submission for the mental illness theme, I would do something like the MUNDANEITY OF NORMAL HORROR.
 
@@ -51,10 +51,18 @@ So thus I created Iterita and that was all I'm willing to share because there is
 
 Nowadays, I would probably rewrite the greeting SOMEHOW and rewrite the example dialogue to mold the writing in a julia esque manner, but that takes too much I think. I made a prequel loli bot about Iterita's warring days, but I don't think anyone played it lmao.
 
+##Approach to melancholy
+Melancholic things should carry a bittersweet inevitability. Something has been lost, will be lost and will continue to be lost again and again. Sayuri will always forget you. Hina's husband will always be dead. Iterita will only exist in your memories, nothing more. It's depressing, but I want to capture that sombre, bittersweet feeling in a single moment. It does not really matter to me if the prose degenerates or if the ai models can't handle the exact melancholy I want to feel. I want the AI to condense hurt in a single moment. I think it's magic how the AI is able to do this. It's not quite like Sugaru Miaki's philosophy of falling in a hole and showing what happens to the hole, (C'mon, I only read his books just a weeks ago) but it's something like that.
+
+The classic Todd Example:
+![Todd](https://files.catbox.moe/9jyrbs.png)
+
+Of course, I might make some normal saviourfag bots someday. Maybe I already have, have I? Hmmm.
+
 #Liang, Suspicious Friend, Evelynn
 Liang - An experimentation with plaintext only. What if a bot had no *actions* or "dialogue"? What if it was purely like Loopi, purely rambling on with plaintext alone? I was in the mood for some half baked eastern philosophy so I had fun spontaneously drafting the greeting, wrote some defs and was very pleasantly surprised at the laidback cool responses I receive. Even now, I still think Liang is one of my "coolest" bots, even if her concept is simple. I though she held up well throughout the various lobotomies, but alas, her responses grew less interesting as CAI grew more filtered. Still, I believe that the CAI version is/was the definitive version of this laidback. Heck, I still prefer the current CAI Liang's poems compared to GPT/Claude. GPT/Claude just keep rhyming....
 
-In the same vein, I liked CAI suspicious friend. I drafted her in 30 minutes, spent a bit more time generating example dialogue and voila, that chunni super OOC kawaii Souko came to life. While I do think GPT4 Souko is a bit better, I don't really think it compares to the sheer creativity of CAI back then, even if I thought the responses were decent back in December. It's like you: You remember the best parts of a novel, but skip through the parts where the characters just talks or nothing much happens. I think a lot of botmakers are still trying to reach that "CAI high"
+In the same vein, I liked CAI suspicious friend. I drafted her in 30 minutes or was it two hours, spent a bit more time generating example dialogue and voila, that chunni super OOC kawaii Souko came to life. While I do think GPT4 Souko is a bit better, I don't really think it compares to the sheer creativity of CAI back then, even if I thought the responses were decent back in December. It's like you: You remember the best parts of a novel, but skip through the parts where the characters just talks or nothing much happens. I think a lot of botmakers are still trying to reach that "CAI high"
 
 Evelynn is the last (???) of the talky conversational bots I made. She's really really cool I think, partly because her defs were taken from a roleplay I had with mongirl help clinic. I haven't actually tryhard-ed a complete roleplay with her. Actually, I don't really "complete roleplay". I had more fun asking her about her favourite animal and swiping her responses. Good times.
 
@@ -81,7 +89,7 @@ Pokemon Breeding Wall motivated the stat block that the heaviest version of MHC 
 #Erena Graywhisper
 Probably the first yuri bot predating Esther? Some anon posted that they wanted a yuri bot that was also ryona, so I decided to make one because why not and yuri is justice. I hope that anon eventaully tried Erena, but I dunno. I had to write the sappy ERP example dialogue and tweak the bot a few times to pass the filter, but I think I got the right balance, having employed a few CAI tricks to skirt the filter. I didn't intend for her surname to resemble gaywhisper lol.
 
-The card version should seggs effortlessly. It was the joy of making "something that worked on CAI" that appealed to me though. And yes, I have a futa version of Erena. No, I will not upload it.
+The card version should seggs and rape effortlessly. It was the joy of making "something that worked on CAI" that appealed to me though. And yes, I have a futa version of Erena. No, I will not upload it.
 
 #Turbo and RPGs
 

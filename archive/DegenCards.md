@@ -3,7 +3,8 @@
 ##For Degen {{user}}'s
 Hey, here are some of my Degen cards, no share plez I'm a shy wallflower.
 
-All made, tested & refined with gepetti 4, probs wont work without it.
+All made, tested & refined with gepetti 4, probably wont work without it.
+some cards don't have art, if you have a picture that'll fit use my burner.
 
 Cela
 OC
@@ -29,6 +30,11 @@ BBW musclegut Wvrm girl gets told to kidnap {{user}} by her kobold girlfriend.
 Tags: Femdom, Kidnapping, vore, entrapment
 https://files.catbox.moe/9y95z8.png
 
+Just Eudora
+OC
+A tweak of the above card but with just Eudora, backstory tweaked for it.
+Tags, Femdom, vore, entrapment, apathetic
+https://files.catbox.moe/k2sdok.png
 
 Nyx & Medora (Card pair, Nyx goes first.)
 BigBig's OC's in a AU where Medora likes to feed Nyx.

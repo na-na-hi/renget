@@ -272,6 +272,7 @@ https://files.catbox.moe/puhw4s.mp4
 https://files.catbox.moe/4y3dv6.MP4
 >BIG HAPPENING: KIKES BOMB BAPTIST HOSPITAL, IT'S HAPPENING - Possibly a JDAM, WHAT A JDAM SOUNDS LIKE IS LINKED BELOW (Palestine has no air support, they couldn't possibly have JDAMed themselves) (added Oct. 17th, updated Oct. 18th)
 https://files.catbox.moe/9c88de.mp4
+https://files.catbox.moe/s6bt0m.MP4
 https://files.catbox.moe/bfp01k.mp4
 https://files.catbox.moe/1hhorc.webm
 https://files.catbox.moe/kt3fj4.webm
@@ -329,3 +330,24 @@ https://files.catbox.moe/cxyz01.mp4
 https://files.catbox.moe/fgsco4.mp4
 >ROCKETS TOWARDS WEST NEGEV (added Oct. 19th)
 https://files.catbox.moe/il3gic.MP4
+>Wounded Palestinian Child Cries for mom  (added Oct. 19th)
+https://files.catbox.moe/eolffo.mp4
+>ISRAEL BOMBS AN ORTHODOX CHRISTIAN CHURCH WHERE 500 PALESTINANS WERE TAKING SHELTER  (added Oct. 19th)
+https://files.catbox.moe/uqiul1.mp4
+https://files.catbox.moe/ieo73s.mp4
+>Help for Gaza, Trucks waiting near Rafah Checkpoint (Added Oct. 20th)
+https://files.catbox.moe/g99ymw.mp4
+>Southern Syria US base burned, no casualties (Added Oct. 20th)
+https://files.catbox.moe/bx2kaa.mp4
+>"Oi vey, we just bombed a church wall" Full extent of the damage caused to the Orthodox church by IDF bombing (Added Oct. 20th)
+https://files.catbox.moe/b2h4h9.mp4
+> pro-Palestine protesters in Cairo storm city’s Tahrir Square (Added Oct. 20th)
+https://files.catbox.moe/vbphba.mp4
+> "Israel is not responsible for the death of one [a single] Palestinian," former Israeli PM Naftali Bennett said (Added Oct. 20th)
+https://files.catbox.moe/flt1pi.MP4
+>Close up of the Israeli airstrike on Lebanon now.  (Added Oct. 20th)
+https://files.catbox.moe/im9abz.mp4
+>new hezbollah vid (Added Oct. 20th)
+https://files.catbox.moe/1dgi0s.mp4
+>Hamas Releases Footage of  American Hostages  Handover to Red Cross
+https://files.catbox.moe/93qmfx.MP4

@@ -8,7 +8,7 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
 https://playeternalreturn.com/posts/news/1480 (1.6 Patch Notes)
-https://playeternalreturn.com/posts/news/1443 (Season 1 Rewards)
+https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards)
 https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)

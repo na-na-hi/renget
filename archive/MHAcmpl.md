@@ -169,6 +169,7 @@ Yaju: https://archive.4plebs.org/tg/post/88223795
 Oyster Guy etc. (NPCs): https://archive.4plebs.org/tg/post/88703353
 Endless Horizons Ltd.: https://rentry.org/iptpr
 Emilia Busujima: https://desuarchive.org/tg/thread/89347009/#89349231
+Detective Risa Date https://desuarchive.org/tg/thread/90646041/#90657164
 
 ### Holding Area for Non-Canon Builds/Shitpost Builds/Illustrative Builds
 Shinji Kanashimi: https://archive.4plebs.org/tg/post/88219042 (further information at https://controlc.com/5525da8b)

@@ -219,6 +219,8 @@ https://rentry.org/iptpr
 >>89278250
 >Emilia Busujima
 >>89349231
+>Detective Risa Date
+>>90657164
 ```
 ***
 Page 4

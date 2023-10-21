@@ -1,4 +1,24 @@
 ▶NEW CLIPS
+>In Odessa, a man brought a trophy grenade from the battlefield to work to show off and it exploded in the room
+https://files.catbox.moe/m7yyyh.mp4
+>Mega Compilation Of Destroyed AFU T-72s, BMPs, BM-21 Grad, RM-70 Vampire, two Caesars, a Krab, M777, and an M109
+https://files.catbox.moe/39zjz1.mp4
+>4 mins of AFU corpses after failed Bakhmut attacks (not comfy)
+https://files.catbox.moe/9oqn1y.mp4
+>FPV drone wrecks 5 hohols at once
+https://files.catbox.moe/rb0lr3.mp4
+>Two AFU BMPs get eviscerated
+https://files.catbox.moe/gs3oh7.mp4
+>Hohol BMP hits a landmine and flips
+https://files.catbox.moe/7jx4z3.mp4
+>AFU tank hits a landmine
+https://files.catbox.moe/kaojxi.mp4
+>Humvee BBQ
+https://files.catbox.moe/zkhbfv.mp4
+>MTLB (recovery vehicle) destroyed by ATGM
+https://files.catbox.moe/wn3a9b.mp4
+>"Close up" TOS explosion
+https://files.catbox.moe/vaink0.mp4
 >Sharpei Chui became a combat comrade for the scouts of the Southern Group of troops
 https://files.catbox.moe/whi7ol.mp4
 >"Barrier" detachments deploy behind forcibly conscripted troops to prevent them surrendering or abandoning their positions. (EN subs)

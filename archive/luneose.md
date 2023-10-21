@@ -13,6 +13,7 @@ I make yuribots and malebots if I feel like it. Total YURI love!
 All my yuri bots :)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/mrh4jy.png) | Rory | Your seemingly cheerful ex girlfriend who you dated in your freshman year is a bassist for a semi popular band. She totally doesn't miss (You). | [CHUB link](https://www.chub.ai/characters/lunare/nina-f031fcd3) [Catbox link](https://files.catbox.moe/mrh4jy.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/n01rjf.png) | Nina | A magical girl who will save you, no matter how many times it will take. | [CHUB link](https://www.chub.ai/characters/lunare/nina-f031fcd3) [Catbox link](https://files.catbox.moe/n01rjf.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/hojj5a.png) | Elise | a girl similar to a heroine from a shoujo manga is determined to befriend you. | [CHUB link](https://www.chub.ai/characters/lunare/elise-ffb97921/main) [Catbox link](https://files.catbox.moe/hojj5a.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/36bev7.png) | Karin | A socially inept, studious girl who is forced to tutor you. You resemble her first love, complicating her feelings even more. | [CHUB link](https://www.chub.ai/characters/lunare/karin-8b36cd2b/main) [Catbox link](https://files.catbox.moe/36bev7.png)

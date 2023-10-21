@@ -719,3 +719,53 @@
 >"This is why I like Salt more, fricking Pepper."
 >As she grumbles her grievances, she gently scratches behind Pepper's ears anyway.
 >"Time to get you some food I guess. Needy Pepper."
+
+***
+
+## Day 13 - Traditional Shiori
+
+>Shiori looks at you, somewhat nervous but with a smile that she can't hide
+>"How...does it look?"
+>She steps forward, performing a slight twirl to show off her yukata
+>Although it looks rather simple, Shiori manages to make it look stunning, you can't help but gaze at her with a smile on your face
+>Finally you manage to get the words out of your mouth: "It looks great on you."
+>Shiori stares at you blankly for a couple moments, her head trying to process what you just said
+>She then lifts her book up to cover her face and starts thwacking you with it in a panic
+>"Shut up shut up shut up shut up!"
+>Clearly embarrassed by your comments despite her asking in the first place, you could only hold back your laughter. Embarrassed Shiori is a real treat.
+>As it comes to your turn to try on outfits, you're stuck between a yukata and a jinbei, however Shiori seems to like the jinbei on you more so you just go with her likes.
+>Having finished your shopping, the two of you are ready for the festival.
+>The wait wasn't long, the two of you arrive, at the festival, Shiori looks gorgeous in the yukata, but at the risk of being repeatedly assaulted by her book again, you only smile as you glance at her
+>The two of you walk slowly, hand-in-hand, many stalls line the streets, bright lamps illuminate the dark
+>The entire place is crowded beyond belief, but everyone's there for the fireworks anyway
+>Shiori's excitement is uncontainable, she playfully drags you along to various stalls, trying out many of the foods they have on offer
+>She's clearly enjoying herself, happy that she can spend the evening with you
+>You try some of the takoyaki at one of the stalls and she looks at you with a somewhat pleading look in her eyes, as she opens her mouth
+>Sighing playfully, you feed her one and she eats it happily in front of you, the only thing you can think of is how cute she's being.
+>After some more browsing Shiori stops by a mask stall, intersted in the various ones they have on sale
+>She ends up picking an oni mask, putting it on and saying "Boo!" towards you.
+>You act scared followed-up by a laugh, she takes the mask off and smiles with you.
+>Your festival date with Shiori is going quite well.
+>Suddenly you see it rise into the sky
+>A giant explosion of lights begin to happen.
+>Shiori's attention is taken from you, as she looks towards the sky
+>The light of the various fireworks accentuate her beauty as they bathe her in different glowing lights
+>She turns to you as the fireworks are popping off at their loudest and you can see her lips and mouth move, followed by a bright smile, however you couldn't hear any of the words she had said, the words themselves being drowned out by the sounds
+>The two of you slowly walk towards a lone hill in the distance to view the fireworks better
+>Some couples are already there, sitting with each other and enjoying the show
+>"Hey Anon? Can I be honest?"
+>You face her as she says that, seeing her already facing you, her face no longer having the same shine as earlier when the fireworks started
+>You begin to worry that perhaps something happened? Is she feeling ill? Does she not like it?
+>Shiori rests her head on your shoulder as the two of you approach the hill
+>"I'm not really a fan of fireworks, I used to not be able to tell if it were fireworks or gunshots."
+>You look at her, gently rubbing your hand oon the back of her head, your fingers running through her hair gently
+>She smiles a little, comforted by your actions, then continues to speak
+>"But when I'm with you, I feel safe, like everything's going to be ok, that's why I can stand here and enjoy these fireworks with you."
+>Your heart is racing, her little confession means the world to you, but then she tugs at your sleeve.
+>"So, what's your response to what I said earlier?"
+>She grins a little, expecting you to not get the answer to this
+>However you whisper back a response into her ear, the same way she mouthed it out to you.
+>Her cheeks start to show a tinge of red and she looks away, unable to thwack you with her book, she simply elbows you in the rib
+>"Sh-shut up, just shut up!"
+
+***

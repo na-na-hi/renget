@@ -3,7 +3,7 @@
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
-**Renpet** ~1.8k tokens. Bratty Egyptian foxbaba that wants a man. Good god I wish I knew how to say less, every time I'd reread her defs to try and prune I'd end up adding more detail. I like how she turned out though, I opted to leave her speech mostly normal with a couple little ticks to keep dialogue . I don't know how she'll work on non geppy AI, too annoying to chase proxies just for testing. My initial impression is 'nobody's downloading this thumbnail to have a loving relationship,' so I could probably justify skimping on personality details, but I know better at this point. 
+**Renpet** ~1.8k tokens. Bratty Egyptian foxbaba that wants a man. Good god I wish I knew how to say less, every time I'd reread her defs to try and prune I'd end up adding more detail. I like how she turned out though, I opted to leave her speech mostly normal with a couple little ticks to keep dialogue interesting. I don't know how she'll work on non geppy AI, too annoying to chase proxies just for testing. My initial impression is 'nobody's downloading this thumbnail to have a loving relationship,' so I could probably justify skimping on personality details, but I know better at this point. 
 I saw your post, Karlötta guy.
 >But shitmakienon, this is a jackal not a fox
 shut the FUCK up

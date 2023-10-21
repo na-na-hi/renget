@@ -292,7 +292,7 @@ The final level of a chapter. You go through a series of rooms in order to obtai
 **3. Mirror Dungeons**
 The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
 
-Mirror Dungeon 2 Hard has its own separate Weekly Bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three Weekly Bonuses at once.
+Mirror Dungeon 2 Hard has its own separate Weekly Bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three Weekly Bonuses at once. This weekly bonus does not grant Lunacy.
 
 Type | Module Cost | BP XP (No Bonus) | BP XP (Bonus)
 :----: | :----: | :----: | :----:
@@ -339,4 +339,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 9/28-29/23: Changed ordering of "Who do I reroll for?" and fixed an another error in FAQ #13
 10/2/23: Improved grammar and the Extraction explanation. 
 10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
-10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
+10/20/23: Clarified MD2H weekly rewards. ![lol&](https://files.catbox.moe/7dmu76.png)

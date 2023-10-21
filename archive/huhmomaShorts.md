@@ -700,3 +700,96 @@ Sorry anons, I NEED a happier ending for cynical anon and Shadow his campy super
 Okay that's all I got in me tonight. I PROMISE I WILL CONTINUE THIS TOMMOROW NIGHT
 
 Hope ya'll enjoyed it so far
+
+---
+Soundless Mountain by anonymous
+
+Playing horror games with your anthro bf!
+
+>horror game where a werewolf chases the main character
+>he thinks it's a dating sim
+
+>horror game where you're partnered with a werewolf
+>you're both trying to escape something even bigger and deadlier
+>human can enter smaller places like buildings and crawl spaces to find items and their clear thinking allows them to solve more complex puzzles
+>werewolf has superhuman strength and agility which allows him to traverse terrain and help the human reach far locations but his lack of mental clarity makes him capable of solving only simple environmental puzzles
+>swap between the two on the fly to progress
+
+aside from the swapping and werewolf part that's pretty much The Last Guardian
+
+>You recover your health and sanity bars in between levels by sleeping in each other's arms
+
+>been playing through this cool co-op horror game your roommate showed you
+>you thought it was a bit funny when he suggested it since the main characters were a human and wolf, just like you two
+>the game was really fun! It even supposedly had multiple endings
+>you and your roomie blaze through it in a few days, working well together to overcome any challenge and puzzle thrown at you
+>you give a sigh of relief as you crush the final boss together and the ending cutscene plays
+>...Oh... The human and wolf are getting pretty close to each other...
+>wait did you just hear that right? Did they just confess to each other? what's going on? this kind of came out of nowhere
+>you can only awkwardly stare straight ahead as the human and wolf on screen begin sloppily making out over the corpse of the big bad
+>big red balloon-like letters appear above their heads "ROMANCE ENDING!" as hearts swirl around them
+>your jaw is in the floor from the sudden tonal shift, your roommate is near silent next to you on the sofa
+>...And then his tail starts to whap against your side
+
+what the fuck? why did the devs do this? I can't help but feel they're pushing an agenda. My roommate has been much more "handsy" since then, and won't stop buying this one specific brand of water
+
+>Soundless Mountain used to be a respected, sophisticated, atmospheric, mature horror series
+>Then the second game has the stupid "Romance Ending" easter egg and sex crazed anthros latch onto it like fleas and the game sells like hot cakes
+>Now every game in the series has doubled down on the implied romance to the point it's less of a horror series and more of a softcore porn series
+Ridiculous. Btw it's actually really hard to get the romance ending in Silent Mountain 2 unless you're really specifically gunning for it. Your roommate 100% planned this and probably wants into your pants
+
+Damn! I thought it was strange that he refused to move onto the next level until we got all the hidden "frayed red knot" collectables!
+
+gonna confront him about this during our next platonic grooming/petting session
+
+---
+HPOP-stans by anonymous
+
+>Ywn be a pretty boy singer in an "Hpop" band of all humans
+>Your job is to look as cute, handsome and pouty as possible with 4 other humans guys, all the while dancing in coordination and crooning sappy romance songs
+>Most other humans can't stand this shit, but it's wildly, INSANELY popular with anthros
+>Unfortunately, despite your popularity, it isn't all fun and games behind the scenes
+>Your agency works you like a dog. You barely have any time off and even when you do, the agency keeps you on an incredibly tight leash
+>So important is your sex appeal and public image to the popularity of the band that your contract dictates when and how you can appear in public, what you're allowed to say, what you're allowed to wear, even what you're allowed to eat
+>And the worst thing?
+>Your contract forbids you from being allowed to date
+>It's an Hpop industry wide rule for all human performers
+>The reason for it?
+>Anthro fans can get very... possessive of their favorites
+>One of the first big breakthrough human stars in the industry had his career abruptly extinguished when he publicly revealed he had a boyfriend
+>His jilted anthro fans responded with unrestrained rabid fury
+>His popularity plummeted, and both the human and his boyfriend received non-stop online harassment and even death threats
+>Instead of helping him, the industry blacklisted him
+>You have no idea where he is or what he's doing these days, but sadly, if you don't want to share his fate, you've got to keep your bed cold, your lips unkissed, and your heart hollow and empty
+>All of this has left you pretty depressed, and it's started to show in your performances
+>Your audience has noticed, but it's not having the effect you'd expected...
+>"OMG Anon looks so sad these days!!! I just want to hold him and hug him and bite his face and-"
+>"I could make him smile again!!! Anon STAN-"
+>"I want to lick the tears from his face and then lick the sweat off of his-"
+>... maybe you should stop reading the comments
+
+excellent stuff anon lol
+
+>your human friends and family constantly express how jealous they are of your fame and success
+>always stating how cool it must be to be as widley loved as you are
+>you're quick to remind them that it all seems fun, until you have to be quickly ushered backstage
+>after a wolf twice your height, wearing a pink tank top plastered with your face charges the stage
+>and has to be barely subdued by six ill-equipped concert security guards with stun guns
+
+>anthro k-pop stans
+Dear god. With how rabid irl KPOP fans are I can’t even begin to imagine what anthro ones would be like.
+>anon eventually becomes the most popular member of the H-pop group, to the point where his agency decides to make him a solo-act
+>unfortunately however, anons fanbase seems to attract increasingly obsessive and borderline-deranged fans
+>as a result, anon’s agency has had to repeatedly increase security 
+>but that can only go so far when the average anon-stan is close to double the size or more than the average human and can bend steel with their bare hands
+>also doesn’t help that the agency is reluctant to hire anthro security after repeated complaints of anthro inappropriately flirting with the human stars
+>it’s gotten to the point where anon now has a small army of security guards, many of whom are ex-soldiers and swat members on constant stand-by to quickly extract anon from a show if his fans get to excited or rowdy
+
+>anon misses when he would get normal fan interactions on social media 
+>practically all he gets these days are confessions of undying love, and pictures of his fans spread-assholes begging him to “breed” them 
+>anon-stans start to show up to his shows in increasingly skimpy clothes
+>eventually devolves into his fans just wearing straight up fetish gear to his concerts
+
+>pictures of his fans spread-assholes begging him to “breed” them
+He should go all "artsy" and make an album cover where it is nothing but a collage of all the pictures of his fans' spread holes all together to form a picture of himself.
+---

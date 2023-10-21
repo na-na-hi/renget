@@ -5,6 +5,10 @@ Videos To Help Fight The Jew
 >IF YOU DON'T KNOW (FOR PILLING NORMIES):
 https://www.youtube.com/watch?v=7eHQKJTnBoY
 https://www.youtube.com/watch?v=i9TwBqDe_I0 
+https://youtu.be/AF-FoC0lWvM?si=XG8Rjat74YZ5R6jT
+>Open Your Eyes deleted Reddit video
+https://files.catbox.moe/o4890x.mp4
+
 >Israel's Defence Strategy & the IDF - Doctrine, Mobilisation, and Recent Lessons
 https://www.youtube.com/watch?v=8xbkakrwmFo 
 > Why Did Israeli Intelligence Fail So Disastrously?

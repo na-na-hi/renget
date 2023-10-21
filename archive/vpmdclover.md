@@ -420,7 +420,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Collab Writing
     * [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * Non-Applicable
-	* [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
+	* [First Character Prompts](https://rentry.org/1stCharacterPrompt)
 	* [Lucario and Guildmaster teamup (Summary)](https://arch.b4k.co/vp/thread/53384286/#q53388992)
 	* [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517)
 * Preston the Popplio (Non-canon to Clover Guild)

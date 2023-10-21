@@ -9,16 +9,17 @@ To get the most of your enjoyment while browsing /dsg/, consider the following a
 - This is primarily a PC general, and we mainly do PvP. Invaderphobia is not tolerated.
 
 - Most activity in the general comes through invading, or doing fight clubs. 
-	- FCs are mainly done in DS3 through **undead arena at sl125** (password **/dsg/**). Invasions can be at **sl90** or **sl125 pontiff**.
-
+	- FCs are mainly done in DS3 through the **undead arena** (password **/dsg/**). Activity can be at **sl90** or **sl125**.
+	- Hosting and Invading are primarily done at **Pontiff's Backyard**, also at **sl90 (dead)** or **125 (aids)**
 - People aren't owed replies, so don't get upset if someone responds without handing out a (you). No being selfish.
 
 - We love our thread personalities... but if you don't, consider adding them to your filters.
 
 ## Useful things you should know before you start posting
-**Webm making for retards**
-- In order to easily make optimal webms, first download [Webm for Lazys](https://argorar.github.io/WebMConverter/) (shiny new version) or [Webm for Retards](https://gitgud.io/nixx/WebMConverter) (old 4cuck version). 
-- To make your awesome webm, select your footage and then . First, use the tools to resize your footage to 960x540 resolution, and trim the time down to only the important moments. You can bump the resolution up to 1280x720 for shorter clips, although your bitrate may suffer. Next, enable VP9/Opus and set the filesize to about 4mb. Don't enable high quality mode unless you want the end of your clip to be cut off...
+**Webm making for complete retards**
+- In order to easily make optimal webms, first download [Webm for Lazys](https://argorar.github.io/WebMConverter/). If you're still using [Webm for Retards](https://gitgud.io/nixx/WebMConverter), you might wanna update to Lazys.
+- To make your awesome webm, select your footage and then the destination. First, use the tools to resize your footage to 960x540 resolution, and trim the time down to only the important moments. You can bump the resolution up to 1280x720 for shorter clips, although your bitrate may suffer. Next, enable VP9/Opus and set the filesize to about 4mb. You can leave high quality mode on unless you're making a really long webm (?)
+- If you lack a recording software, go download OBS. You can set up instant replay to quickly make short clips right after you get a kill. You can also just use shadowplay, if you have an nvidia card.
 
 **Handy Resources**
 - [Fextralife](https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki), whilst shoddy, is generally your best bet for basic information. Their wikis cover all the games to a decent level of quality. The comment sections can also be checked for info that the page might not mention. Do note that they shove their own twitch stream onto every page, and also pay to be the first result on google. 
@@ -29,6 +30,7 @@ To get the most of your enjoyment while browsing /dsg/, consider the following a
 
 **What mods should I download?**
 First off, these mods will not get you banned so don't be stupid.
+Dark Souls III:
 - [**Honest Merchant**:](https://www.nexusmods.com/darksouls3/mods/607) Lets you effortlessly create builds from firelink shrine by selling every item in the game for a single soul, as well as providing respecs, infusements, and arena access. You should into the mod's settings to enable the experimental options and also make sold weapons scale with your upgrade level, which will save you a LOT of time. 
 - [**Wex Dust**:](https://www.nexusmods.com/darksouls3/mods/405) When alone, this mod turns your repair powder into the Wex Dust item. Using it allows you to search every area in the game for an invasion at once. This can also be done anywhere, meaning you could invade from the comfort of firelink shrine.  
 - [**Blue Sentinels**:](https://www.nexusmods.com/darksouls3/mods/723) This is a QoL cheat detection mod to help spot hackers with invalid stats or suspicious actions. It also automatically backs up your save files, and displays player information on the screen.
@@ -43,7 +45,7 @@ First off, these mods will not get you banned so don't be stupid.
  
 - If you want in-game help in any games, state your soul level, location, and what platform you're playing on. Beware that most users are PC players, and you'll probably be out of luck if you play on console.
 
-
 ## What if I wanna talk about Elden Ring???
 
-- You can go visit our inferior child general **/erg/**.
+- If you wanna talk about loreslop, awful pve, or waifufaggotry, you can go visit our inferior child general **/erg/**. 
+- We have a few ringworm players, so I guess you could ask a pvp question but don't expect much.

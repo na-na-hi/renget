@@ -55,7 +55,25 @@ Any names of note in **Bold**.
    *Looking into non-mythological surrounding sources, probably a reference to the old HiRez title, Global Agenda, which featured an NPC of the same name.*
 
 -> ![Bancroft](https://files.catbox.moe/dm5t8n.png) <-
- - **Baron's Brew** (Voodoo): Almost certainly supposed to be Piman Kleren, a type of Caribbean Spiced Rum and ritual ingredient for invoking Baron Samedi, iconically made with 21 chili peppers stewed in during the brewing process *(to give it a special kind of... 'kick')*.
+ - **Baron's Brew** (Voodoo): Almost certainly supposed to be Piman Kleren, a type of Caribbean Spiced Rum and ritual ingredient for invoking Baron Samedi, iconically made with 21 chili peppers stewed in during the brewing process *(to give it a special kind of... 'kick')*. It's the same stuff Maman Brigitte is also invoked with, so it's also probably what's in her bottle, considering the chilis *(if you ignore the fact it's luminous green for gameplay / design purposes)*.
+	If you want to buy some for yourself..... well..... you can't. It's closer in nature to a cocktail, rather than something you just buy direct from the bottle *(like trying to directly buy a Margarita, a Manhattan, a Cosmopolitan or a Molotov)*, even before considering nobody sells Pimen in this century. To directly translate; 
+   - Pimen = French word for a Medieval type of Spiced Wine, better known as Hypocras, around since the 1100's and popular until the advent of modern medicine in ~1850. See, back before the age of 'modern medicine' *(what a scam that's been)*, medicine was intended to balance out various aspects of the body and promote good health according to Humeric Theory *(gotta keep dat blood, black bile, yellow bile and phlegm in perfect balance)*, with an aspect of this being an appropriate balance of diet. If you eat something warm, you should have something cool with it. If you have something that is innately damp, you should cook it via dry methods. So on.
+		The healthy man eats a spice-laden spitroast with fresh vegetables *(wet meat via dry method, hot meal paired with cool side, spices rampantly throughout Europe to micro-adjust and tune various properties)*, the unhealthy man eats stewed meat with cooked vegetables *(wet meat via wet method, hot meal with hot side)*. Healthy man lives until he's 90, unhealthy man gets cancer and dies. It's pretty sound logic, and that logic extends to drinks too - wine was viewed as a cool, wet *(properties)* and dry *(taste)* drink that had a neutral saltiness/bitterness/sourness, which made it an ideal balancing ingredient for a healthy lifestyle *(since many things were warm, dry and sweet)*. But what if you want to drink your wine as-is without giving yourself ultracancer? Well, you simply add warm and sweet ingredients *(via spices)* then warm it up to room temperature *(balancing the heat)*. Not ideal, but hey, you just avoided dementia, blindness and athritis in one go; and if you just did something that would have made you sweat profusely (like working out), you no longer had your 'wetness' in imbalance either. Essentially - this was a medieval energy drink, and an upper class alternative to water.
+		Without further derailing into a full-on Medieval Cooking Book + Medical Journal over some booze, a recipe is (roughly) as follows *(sadly in imperial, because outdated mesurements) (as in, actual imperial, not bastardised modern burger imperial)*;
+		- ~10lb Wine (Red or White) *(~4.5L) (Personal note - Maman's in-game drink appears to be the White version)*
+		- ~4℈ Cardamom *(4.72g)*
+		- ~1.5oz Cinnamon *(42.5g)*
+		- ~2℈ Cloves *(2.36g)*
+		- ~3ʒ Ginger *(10.6g)*
+		- ~4℈ Grain of Paradise *(4.72g) (Equally known as Melegueta, you're not going to find this anywhere but the internet in this day and age. Aromatic peppercorn)* 
+		- ~2℈ Long Pepper *(2.36g) (Rare in yuro cooking under that name these days - you're better off checking South Asian markets for "Pippali", which is their name for it. Tastes like black pepper, but sweet)*
+		- ~1.5lb Honey *(680g)*
+
+		- Loosley mix the spices together, crush lightly and steep cold for half a day (if you've ever made tea, same method). Add the honey after, heat so the honey fully assimilates, leave until room temp, drink warm.
+
+   - Kleran = Clairin, a hard spirit, made from cane sugar. Or in more direct terms - sugar moonshine. Get your Pimen, add your 21 chilis without cutting them up *(don't be a bitch, it's supposed to burn, I expect Carolina Reapers and Habaneros, not Jalapenos or Pimentos ~~and yes, Pimen is etymologically linked to Pimento~~)*, leave it for a few days, then send yourself to death's door and back.
+
+	While I genuinely doubt the post-developmental shithole that is modern-day Haiti has much in terms of the 'correct ingredients' for perfect accuracy, and that Clairin + a splash of unspiced wine + le 21 chilis would be more than enough; that is what's stated. If you want to 
 
 -> ![BBrew](https://files.catbox.moe/nkpra5.jpg) <-
  - Corrupted **Bluestone** / Brooch / Pendant (Celtic): An overarching term to refer any of the pillars / rocks of Stonehenge. In geological terms, Bluestone is in reference to Diabase / Dolerite, an extremely hard igneous rock - however has also come to refer to Basalt or Slate depending on the nation it's found in.

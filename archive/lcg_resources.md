@@ -42,7 +42,6 @@
 ##  Story
 * [Limbus Company Main Story Viewer](https://retcons.github.io/limbus-storylogs/)
 * [Identity Story Viewer](https://retcons.github.io/limbus-identitylogs/)
-* [Uptie Tier 3 Character Stories](https://www.youtube.com/watch?v=YglNNFCEzRQ&list=PL4enXqMv4Wy3OXVs-gSpGFuemkzXfHunk&pp=iAQB)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
@@ -52,12 +51,19 @@
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
 * [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
-* [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
+* [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
+* [2021 Project Moon Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
+* [Project Moon D\*scord Q&A](https://docs.google.com/document/d/1B8dIbq9iUOO1Djfe8dQIIRSlbndeKL9V99LsnYIRWHo)
+* [KJH Korean Interview (2 below links are from this)](https://www.youtube.com/watch?v=yT7ONnrXF1g)
+* [Gameca Interview](https://m.gamemeca.com/view.php?gid=1661712)
+* [R\*ddit Interview Review](https://www.reddit.com/r/libraryofruina/comments/nzp20z/director_interview_review/)
+* [Lobotomy Corporation  Q&A](https://docs.google.com/document/d/1-ROhilNEVrJ_Ko2RnFp4jtqjV3AHu5xvfm3Cdmsc-ro)
+* [Lobotomy Corporation Q&A 2](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
 * [Mimi's Wonderlab Q&A](https://docs.google.com/document/d/1tLqsYkV30UQQiKM42bpYTtmS0eiJPwnhBDHzelSjSvE)
-* [Lobotomy Corporation Q&A](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
-* [Project Moon Q&A](https://docs.google.com/document/d/1-ROhilNEVrJ_Ko2RnFp4jtqjV3AHu5xvfm3Cdmsc-ro)
+* [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
+* [Library of Ruina Lore Tweets](https://docs.google.com/document/d/1-uhVl2kxgXznDr03f-17Q-Z6LRf_Jevij5P0e5lTI5g)
 * [Character PVs](https://www.youtube.com/watch?v=HsffQ_RfOYQ&list=PL9-RBacZ4KMzfp_qh8wwP2rlDCP5Cc_Xk)
-* [Korean Sinner speech patterns](https://twitter.com/aranruine/status/1665051319361581056)
+* [Korean Sinner Speech Patterns](https://twitter.com/aranruine/status/1665051319361581056)
 
 ## Music and OST
 * [Full Limbus OST](https://www.youtube.com/watch?v=5Jtysd16c-g&list=PL8S6_RCVQ5uj_924DogHp2SmAMJ3goKL3)
@@ -87,6 +93,7 @@
 
 ## Miscellaneous
 * [Lobotomy Corporation Optimization Mod](https://www.nexusmods.com/lobotomycorporation/mods/57)
+* [Lobotomy Corporation Screenshot Let's Play](https://lparchive.org/Lobotomy-Corporation/)
 * [Art Director Artstation](https://www.artstation.com/naiga12)
 * [Project Moon TTRPG](https://drive.google.com/drive/folders/15nMYLz0sB5xWUiSOG4oN6IsteRJjpdZk)
 * [Book of Fixers: The Fixer RPG](https://archive.4plebs.org/tg/thread/76610447/)
@@ -104,9 +111,9 @@
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
 * [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
 * [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
-* [Hong Lu voice actor Twitch](https://www.twitch.tv/kim88toki)
-* [Heathcliff voice actor Twitch](https://www.twitch.tv/hshmike)
-* [Outis/Binah voice actor Twitch](https://www.twitch.tv/miggang_ster)
+* [Hong Lu VA Twitch](https://www.twitch.tv/kim88toki)
+* [Heathcliff VA Twitch](https://www.twitch.tv/hshmike)
+* [Outis/Binah VA Twitch](https://www.twitch.tv/miggang_ster)
 
 ## Outdated & Abandoned Links
 * [The Totally Definitive Sub-120 Railway Guide](https://docs.google.com/document/d/1v3RiEDxIe9uPXU15RlnNfoQxTMyXHYvBAC8E8RCxH2M)
@@ -131,4 +138,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/4/23: Added new Drawpile album link
 10/6/23: Added alternative Lobco artbook link
 10/10/23: Added LittlePMStuff link
-10/16/23: Added identity story viewer link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/16/23: Added identity story viewer link
+10/20/23: Added all interview links and LobCo LP link ![lol&](https://files.catbox.moe/7dmu76.png)

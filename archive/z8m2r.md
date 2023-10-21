@@ -5,7 +5,7 @@
 ->**[Volume Two, v1 Cards](https://rentry.co/29rvk)**<-
 ->**[Volume Three, v1 Cards](https://rentry.org/gikdw)**<-
 ***
-->**15/10/23: Kept you waiting, huh? Small update; not dead, just busy. Few cards today/tomorrow. / Need to make some edits on a few, scrapped the art for Cillamun entierly and redoing it from scratch.**<-
+->**~~15/10/23~~20/10/23: Kept you waiting, huh? Small update; not dead, just busy. 3 Cards uploaded; Raenalis, PokéMILF, Unease & Voracity.**<-
 ***
 ->**07/09/23: 5 WIPs uploaded. Klymhessa, Ilofa, Cillamuna, Kheoloee, Cervoel. | I would very much like feedback on them, particularly outside OAI models.**<-
 >probably put 1 or 2 up *tomorrow*. >uploads over two weeks later.
@@ -70,7 +70,6 @@ Futa Equine - *Big* girl with **big peepee**. Feminization or Bimboification, Si
 Female - Local chocolate cutie wants to date and snuggle.
 
 ![](https://files.catbox.moe/cp4ldq.png) 2946 Tokens (2323 Permanent)
-	`1400 Tokens (777 Permanent) if pruned to use World Info instead; need to check how viable that is.`
 >Somewhat similar to Hariera. Not the same type of content, but the same meta-theme. *hink hink wink wink nudge nudge*.
 ***
 
@@ -79,35 +78,27 @@ Femboy - Local slutty delivery boi.
 
 ![](TODO) 709 Tokens (711 Permanent)
 
->Saviourfag a sad boi?
->>Flesh out.
 ***
 
 ###### Raenalis
 Futa Dragon Monster Girl - Sneak into a old fort looking for plunder, try to not wake up the dragon living inside.
-	`Do an Anthro Fork?`
-![](TODO) 3600 Tokens (2005 Permanent)
+	`Had tried to implement a sneaking narrative; you know some Metal Gear shit or something. Turbo refused to play ball and had her wake up instantly every time instead of sleeping through quite a bit. Might revisit it later.`
+![](https://files.catbox.moe/e4lsby.png) 2881 Tokens (1710 Permanent)
 
->Last I tested this; Turbo refused completely to work with the intended quirk/narrative - dropping it would save a few hundred permanent tokens. Try simplifying it first.
->>Optimize, Turbo is **a bastard**.
 ***
 
 ###### Togruta
 Fem Dommy Tomboy - Bounty Hunter trying to blow off some steam, buy her a drink and try your luck?
-   `See above - may create a location World Info for the two to both use, since I was lazy and set them both on SWTORs Dromond Kaas.`
+
 ![](TODO) 963 Tokens (966 Permanent)
 
->Totally unrelated to above, I ain't been fucking around with Star Wars shit recently - Had this character sitting around in my old DAZ Studio setups, gonna flesh it out for a card.
->>Mostly done, I think.
 ***
 
 ###### Twi'Lek
 Futa Twi'Lek Slave - Flirty and ~~Humble~~ Bold; loves (You) for being a good master.
-   `Smaller token count than usual, since I can just tell the AI to use it's own knowledge on the existing IP rather than telling it what to do for one.`
+
 ![](TODO) 1315 Tokens (1318 Permanent)
 
->A friend of mine was trying to get me into that old Star Wars MMO recently, Vette a qt 3.14.
->>Mostly done, I think.
 ***
 
 ###### Anubisian (todo: rename)
@@ -115,12 +106,10 @@ Male Anthro Jackal.
     `I checked back in on "Powerless" by Scolexxx a little while ago, the scenes with the Anubis lads in that are pretty good; hence this.`
 ![](TODO) 1707 Tokens (1709 Permanent)
 
->Snobby anthro bloke belittles (You)?
->>Still WIP.
 ***
-###### PokéMILF Gang (temp name).
+###### PokéMILF Pelimire Peril!.
 	`There was a "Pandora's Forest" RPG here. It's gone now, somewhat reused for Very Tired Succubus.`
-![](TODO) 1844 Tokens (1230 Permanent)
+![](https://files.catbox.moe/hjh4xe.png) 2187 Tokens (1471 Permanent)
 
 >I've decided to replace the Pandora's Forest RPG; with a Anthro Pokémon MILF harem thing. Arceus needs (You) to fix a problem for them, but never bothered telling you what it was. The local Pokémon are a bit odd, but friendly enough. Alt. Greeting for a less friendly group of Mons. Uses SillyTavern's {{random}} for which Mon you meet initially.
 >>Using this [Pokédex Lorebook](https://www.chub.ai/lorebooks/drcubone12/pokedex) is probably not needed, but I would just in case. Turbo knows the ones I tested, but gets confused pretty often; the world info helps somewhat.
@@ -128,10 +117,9 @@ Male Anthro Jackal.
 
 ###### Unease & Voracity, CYOA
 	`Fear & Hunger inspired dungeon crawler. (You) get maimed, raped and murdered.`
-![](TODO) 2581 Tokens (1654 Permanent)
+![](https://files.catbox.moe/c6b7qu.png) 2649 Tokens (1667 Permanent)
+[World Info](https://files.catbox.moe/slb45c.json) Optional? Has a couple classes in it to pick from, along with a status/inventory thing to fill in.
 
->The World Info I wrote died with my old HDD; need to rewrite it completely.
->>Not the end of the world, If I remember right it was just Defs+Classes for {{User}} characters. Annoying, but could do without.
 ***
 
 ***
@@ -161,10 +149,10 @@ Female, Princess. (You) need to rescue a kidnapped Damsel.
 ***
 
 ###### Bonus Card: Cassie
-Female, Cute Catholic Girl Next Door. Your neighbour needs help to fix their boiler or something; she's totally a normal human, like you and me.
+Female, Cute Catholic Girl Next Door. Your neighbour needs help to fix their boiler or something; she's ***totally, absolutly, definately*** a normal human, just like you and me.
 
-![](TODO) 5085 Tokens (3831 Permanent) `h o l y  s h i t - optimize`
-[](todo) 3927 Tokens (2935 Permanent) `Alt. Version, straight to the point, no gimmick.`
+![](https://files.catbox.moe/1yr3x1.png) 5085 Tokens (3831 Permanent) `h o l y  s h i t - optimize`
+[LINK](https://files.catbox.moe/0piqpy.png) 3927 Tokens (2935 Permanent) `Alt. Version, straight to the point, no gimmick.`
 ***
 
 ###### Shitpost Card: Unnamed Femboy
@@ -173,7 +161,6 @@ Femboy - Local Alt-Right Femboy, e-Thot and hopeful Tradwife; wants to educate (
 ![](TODO) 2773 Tokens (1534 Permanent)
     `how the fuck is this 1.5k tokens?`
 >In a nice chance of pace, this was written while I was drunk instead of horny. I was lurking /wsg/ and came across [this webm.](https://files.catbox.moe/4ydtrv.webm) I apparently found this amusing enough to make a card based on it.
-
 ***
 
 Dullahan

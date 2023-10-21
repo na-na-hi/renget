@@ -104,6 +104,7 @@
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
+[AgentTuning](https://github.com/THUDM/AgentTuning)|Dataset, tuning strategy, premade weights for generalized Agent models on par with GPT 3.5
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets

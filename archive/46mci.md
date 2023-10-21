@@ -43,9 +43,10 @@ https://mooms.neocities.org/
 #####[Tools - ytarchive, Twitterspaces recorders & QOL scripts](https://rentry.org/xu6td)
 
 !!! info
-     -> 🪶  **Some dumb stats aka the CHAT HATE section**  🪶 <-
+     -> 🪶  **Some silly stats aka the CHAT HATE section**  🪶 <-
 ######[>Mumeism](https://rentry.org/fkz5o)
 ######[>forgor](https://rentry.org/ooauo)
+######[>horse girl](https://rentry.org/qf2osk)
 
 !!! info
      -> 🪶 **Total Streaming Hours (Debut to Mei 2023)** 🪶<-

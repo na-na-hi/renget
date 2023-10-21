@@ -3,6 +3,7 @@
 
 ### ->Sagira ♀<-
 ->Eyes up, guardian.<-
+->![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png)<-
 
 ->*All you have left is your mind. And, all things considered, that's not too bad.*<-
 ->–Bond of Refuge<-
@@ -36,11 +37,11 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Scratch | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
-Tail Whip | - | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
-Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
-Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Scratch | 4BP | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
+Tail Whip | - | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Ember | 4BP | 5AP | ≥2 | ![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Burn*.
+None | - | - | - | - | - | N/A
+Basic Attack | 4BP | 4AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.

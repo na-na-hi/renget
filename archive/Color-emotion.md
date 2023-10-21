@@ -50,6 +50,12 @@ https://arca.live/b/characterai
 감정이미지:https://mega.nz/file/sZ1mzQyY#dURhh1Gn89hcBBPeaHs4t4_pBLxNl4fp0GeXSQDi7QU
 제작 업로드:2023-04-29 22:43:43
 
+###Gehenna School
+####히나 [Sorasaki Hina]
+![](https://files.catbox.moe/64fc2r.png)
+메가:https://mega.nz/file/UdVzDYYZ#w1ypnlAKEaVWzfznz4A87nqhWxmzYYgg8_9i4-TvSvk
+제작 업로드:2023-10-20 07:12:07
+
 ###Millennium Science School
 ####아리스 [Tendou Aris]
 ![](https://files.catbox.moe/vn3qxi.png)

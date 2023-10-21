@@ -10,7 +10,7 @@ How to play the game for the completely retarded. Not just a reroll guide. Scrol
 - Splurge ur AP. 1 AP = 1 Account XP, so dump stamina to level up. 
 - Take advantage of the school bonuses and use CC in Bounty 
 - [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 
-- You can pat girls' head. 
+- You can pat girls' head (Arona and Ayumu included!) 
 
 
 ## Downloading/Setting up the game
@@ -377,7 +377,7 @@ Buying the activity reports with credits is kind of bad (as in really bad).
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-Otherwise bring Serina to 2\*. After that? Whoever is the main hypercarry of a raid you're planning to beat. 
+Otherwise bring Serina to 2\*. After that? Post ur roster in the /bag/ general and ask for help. It's faster that way. 
 Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
@@ -449,16 +449,15 @@ It's fine to skip a shop if you don't need anything from it that month. Try to l
 >Material Synthesis (the normal one)
 **Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Gifts >= Shiny (orange mats) > Rest**
 
-**Do not go past the first node if you don't have mats in abundance.** If you need to ask if you have enough: you don't.
+**Don't do the tier 2 and 3 nodes if you're still strapped for mats.** If you need to ask if you have enough: you don't.
 
 In case it wasn't clear yet: you get furniture to cap the energy generation from your cafe. 
 
 If you want to go to node 2: use t1-2 mats you don't care about. Not crafting mats.
 
-For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Abundance (credits) > Shiny > Radiant > Mystic (elephs) > The Rest**
+For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Shiny > Abundance (credits) > Radiant > Mystic (elephs) > The Rest**
 The only reason to farm t3 nodes at this point is for the gifts, you'll have enough of everything else to spend it on getting here. 
-You can spin the wheel with the Radiant and Mystic options for more entertaining results. 
-
+You can spin the wheel with the Radiant, Abundancs, and Mystic options for more entertaining results. I personally always get assmad doing them, but they are very entertaining. 
 
 >Material Fusion (the new one)
 Trading your garbage away for the freshest sneaks

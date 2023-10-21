@@ -133,9 +133,9 @@
 |08/09/2023|[Link](https://www.youtube.com/watch?v=x1pBVg4DoMY)| **Collab** - FUWAMOCO's Japanese classroom with Advent|
 |11/09/2023|[Nerissa's POV](https://www.youtube.com/watch?v=ySPwXaEo7v0)| **Collab** - Ninth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=G2HixbW2deU), [Bijou](https://www.youtube.com/watch?v=sprqi7NjDa4) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=Cljwt3qv1Ds)|
 |15/09/2023|[Nerissa's POV](https://youtu.be/Srb5k7icrJY)| **Collab** - Tenth Advent Fullgen Collab on Mario Kart with [Shiori](https://www.youtube.com/watch?v=UX6IDuP1Hdw), [Bijou](https://www.youtube.com/watch?v=wldcO2gtjpU) and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=GwCBlhmnwjQ).|
-|---|---|TODO: add 11 gartic phone|
-|---|---|TODO: add 12 MC|
-|2023-10-06|[Nerissa's POV](https://www.youtube.com/watch?v=GQIPoEZZrHQ)| **Collab** - Thirteenth HoloAdvent Group collab and Left 4 Dead 2 second collab (with [Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou and the [FUWAMOCO Twins](https://www.youtube.com/watch?v=0GnRDoCXr3E))|
+|2023-09-18|[Nerissa's POV](https://youtu.be/9xklp3YYBg8)| **Collab** - Eleventh Advent Fullgen Collab on Gartic Phone with [Shiori](https://www.youtube.com/watch?v=y0jEyXMWtrw), [Bijou](https://www.youtube.com/watch?v=JRMXv6z5TkQ) and [FUWAMOCO](https://www.youtube.com/watch?v=srTTcF_qgFw).|
+|2023-09-29|[Nerissa's POV](https://youtu.be/rb4YD__X4k8)| **Collab** - Twelfth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=l1ObfIST4EI), [Bijou](https://www.youtube.com/watch?v=T1xC1b1C5iA) and [FUWAMOCO](https://www.youtube.com/watch?v=6dIbvdQO-d0).|
+|2023-10-06|[Nerissa's POV](https://www.youtube.com/watch?v=GQIPoEZZrHQ)| **Collab** - Thirteenth HoloAdvent Group collab and 2nd Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou and [FUWAMOCO](https://www.youtube.com/watch?v=0GnRDoCXr3E))|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN Collabs
 |Date|Link|Nature & Notes|

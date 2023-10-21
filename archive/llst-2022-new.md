@@ -220,7 +220,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
 **Nozomi Nirei 楡井 希実** |Nonsuke|May 11, XXXX|[Agency WEB](https://holypeak.com/talent/voice-actor-women/楡井-希実/) / [TW](https://twitter.com/NozomiNirei)|[📷]()
-**Kokona Nonaka 野中 ここな** |Kokona|Jan. 28, 2006|[Agency WEB](https://www.amuse.co.jp/artist/A8878/index.html) / [TW](https://twitter.com/cocona_nonaka) [==Former SG Page==](https://archive.is/5ohJ3)|[📷]()
+**Kokona Nonaka 野中 ここな** |Kokona|Jan. 28, 2006|[Agency WEB](https://www.amuse.co.jp/artist/A8878/index.html) / [TW](https://twitter.com/cocona_nonaka) /  [==Former SG Page==](https://archive.is/5ohJ3)|[📷]()
 **Nina Hanamiya 花宮 初奈** |Ui-chan|October 24 ,XXXX|[Agency WEB](https://www.aoni.co.jp/search/hanamiya-niina.html) / [TW](https://twitter.com/hanamiya_nina)|[📷]()
 **Kotoko Sasaki 佐々木 琴子** |Kocchan|Aug. 28, 1998|[Agency WEB](http://stylecube.jp/talents/kotoko/index.html) / [TW](https://twitter.com/ssk_ktk828) / [IG](https://www.instagram.com/sasaki_kotoko828/) / [==Former 乃木坂46 Page==](https://archive.is/EopEN )|[📷]()
 **Kanna Kan 菅 叶和**|Kocchan|November 19, XXXX|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷]()
@@ -458,12 +458,13 @@ BD 720p - https://nyaa.si/view/1245130
 RAW - https://nyaa.si/view/1170341
 
 ####EVENTS/PERFORMANCES/MISC
-**Fanmeets**
+**Fanmeets / PPV Streaming**
 ==NEW== Nijigasaki Tokimeki Fan Meeting Tour
-D1&D2 Hiroshima - https://nyaa.si/view/1672987
-D1&D2 Tokyo - https://nyaa.si/view/1672987 
-D1&D2 Aichi - https://nyaa.si/view/1672987 
-D1&D2 Osaka - https://nyaa.si/view/1698235  ==(/llst/ exclusive)==
+Hiroshima - https://nyaa.si/view/1672987
+Tokyo - https://nyaa.si/view/1672987 
+Aichi - https://nyaa.si/view/1672987 
+Osaka - https://nyaa.si/view/1698235  ==(/llst/ exclusive)==
+Compilation - https://nyaa.si/view/1699629
 
 TOKIMEKI Talk Room Pts 1&2
 https://nyaa.si/view/1551497
@@ -471,7 +472,7 @@ https://nyaa.si/view/1551497
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
 Vol.2 QU4RTZ ～Sweet Cafe～ - https://nyaa.si/view/1443241
-Vol.3 A・ZU・NA ~The Night Before~ - https://nyaa.si/view/1447856
+Vol.3 A・ZU・NA ~The Night Before~  [Webrip](https://nyaa.si/view/1447856) [BD 1080p](https://nyaa.si/view/1675774)
 Vol.4 R3BIRTH ～First Delight～ - https://nyaa.si/view/1495017
 UNIT LIVE & FAN MEETING Vol.1 DiverDiva ~Big Bang~ (BD) - https://nyaa.si/view/1627387
 UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
@@ -507,16 +508,18 @@ Liella! 2nd LoveLive! ~What a Wonderful Dream!!~ *D1&D2*
 Yokohama -  https://nyaa.si/view/1502627
 Nagoya -  https://nyaa.si/view/1511014
 Osaka - https://nyaa.si/view/1538442
-Bluray Yokohama : [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
+BluRay Yokohama D1D2 + Making Of: [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
 
 Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
 Miyagi - https://nyaa.si/view/1610539
 Tokyo - https://nyaa.si/view/1632065
 Saitama - https://nyaa.si/view/1645740
+[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html)
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) [720p](https://nyaa.si/view/1707506)
 Catchu! ver : [1080p](https://nyaa.si/view/1709468) [720p](https://nyaa.si/view/1709926)
+5yncri5e! ver: [1080](https://nyaa.si/view/1716100) [720](https://nyaa.si/view/1716321)
 
 ####EVENTS/PERFORMANCES/MISC
 ==(ENGSUB)==Liella! Season 1 Opening and Ending Online Release Event - https://nyaa.si/view/1611104
@@ -593,7 +596,8 @@ Liyuu 1st PB - https://imgur.com/a/cXG3Onu
 Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kMrX0i9
 Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
-Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～ (電撃ムック) - https://www.mediafire.com/file/940wakc74d11wdj/
+[Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/)
+[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC)
  
 **Videos/Clips/Namas**
 **Raw:**

@@ -42,6 +42,14 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/121ey6.png) | Askari | Charming rogue with a tragic past needs your help breaking a friend out of prison. | [Catbox link](https://files.catbox.moe/121ey6.png)
  ![](https://files.catbox.moe/l2111e.png) | Wink | A witty cleric who could use some help finding his roots. (Spoilers in card's lorebook, read them at your own risk.) | [Catbox link](https://files.catbox.moe/l2111e.png)
 
+###Pokémon universe
+Gotta catch 'em all
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/v5tml2.png) | Rusty | A well meaning but misguided troublemaker spouting Team Plasma slogans. Set in the Pokémon universe (duh). | [Catbox link](https://files.catbox.moe/v5tml2.png)
+ ![](https://files.catbox.moe/7bzehl.png) | Jasper | Your friendly rival. Multiple greetings allow you to choose between starting your journey together, meeting up after being trainers for some time, or meeting him for the first time. | [Catbox link](https://files.catbox.moe/7bzehl.png)
+ ![](https://files.catbox.moe/qfn2dl.png) | Amber | Your friendly rival. Multiple greetings allow you to choose between starting your journey together, meeting up after being trainers for some time, or meeting her for the first time. | [Catbox link](https://files.catbox.moe/qfn2dl.png)
+
 ###Standalone male bots
 Each has his own story and personality
 Image| Name | Description | Link
@@ -62,7 +70,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/ol05k3.png) | Kazuo Tagami | You're a teacher who once had an affair with a student. For whatever reason, you broke it off. Years later you meet him again, as your new colleague. And he seems to want to teach YOU a lesson this time.  | [Catbox link](https://files.catbox.moe/ol05k3.png)
  ![](https://files.catbox.moe/en41s7.png) | Alexandre Morel | Your aunt Claire died! But it's okay since you hardly knew her anyway but she still bequeathed her estate to you for some reason. And she tasked her butler with training you to become a proper socialite.  | [Catbox link](https://files.catbox.moe/en41s7.png)
  ![](https://files.catbox.moe/om5h9c.png) | Aydric | You meet an eccentric young man and find out he was raised by a cult and groomed to be their leader. He is naive and innocent and knows nothing of the world outside of his cult. | [Catbox link](https://files.catbox.moe/om5h9c.png)
- ![](https://files.catbox.moe/v5tml2.png) | Rusty | A well meaning but misguided troublemaker spouting Team Plasma slogans. Set in the Pokémon universe (duh). | [Catbox link](https://files.catbox.moe/v5tml2.png)
+
 
 ###Standalone female Bots
 Each has her own story and personality

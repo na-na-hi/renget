@@ -1256,6 +1256,10 @@ Warhammer Fantasy Ink Painting
 
 	https://files.catbox.moe/ix0m9x.safetensors
 
+Japanese Kimono Kemono
+
+	https://files.catbox.moe/ij2gmt.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

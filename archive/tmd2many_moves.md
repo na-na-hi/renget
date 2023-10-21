@@ -985,7 +985,7 @@ When using Recycle in battle, it can recover an Item which was used in battle wi
 
 ***
 
-## Attack Arts ![Wild MISSINGNO. appeared!](https://archives.bulbagarden.net/media/upload/3/3c/UnknownIC_Big.png)
+## Attack Arts ![Wild MISSINGNO. appeared!](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs)
 !!! info Attack Arts are specific, Typeless Moves with special effects sometimes unique to them. 
 	They can be acquired through Move Tutors, and replace a Pokémon's Basic Attack opposed to a normal Move Slot.
 

@@ -24,6 +24,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Bomb](https://rentry.org/tmd2many_characters_Bomb) | ??? | Baltoy | Bomb! | Team Ruckus
 [Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | Team Clover Force
 [Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | Team Stylish
+[Cubone](https://rentry.co/tmd2many_characters_cubone) | ??? | Cubone | Associate | Unknown Tribe
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | Team Ruckus
 [Dustin](https://rentry.co/dustinonenuttyactor) | Ex-Human (Anamnesis) | Bagon | N/A | Team Ruckus
 [Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | Team Stardust
@@ -42,7 +43,8 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | Team Clover Force
 
-->![Mug Shot? Is that a drink?](https://cdn.imgchest.com/files/345xcklzgw7.png)<-
+->![Mug Shot? Is that a drink?](https://cdn.imgchest.com/files/pyq9c5o9gx4.png)<-
+->![How do you order it, I wonder?](https://cdn.imgchest.com/files/myd5czd6jw4.png)<-
 Name | Origin | Pokémon | Guild Role | Team/Affiliation
 :----: | :----: | :----: | :----: | :----:
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
@@ -315,6 +317,55 @@ Eᴍᴘᴛʏ | Description
 
 ### Stuff You Might Need to Copy
 Below are things you will need for your Character Sheet. In order to save you some time, they have been provided.
+
+![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png)
+![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png)
+![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png)
+```
+![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png)
+![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png)
+![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png)
+```
+![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png)
+![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png)
+![Flying-Type](https://archives.bulbagarden.net/media/upload/thumb/d/dc/FlyingIC.png/70px-FlyingIC.png)
+![Poison-Type](https://archives.bulbagarden.net/media/upload/thumb/8/86/PoisonIC.png/70px-PoisonIC.png)
+![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png)
+![Rock-Type](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png)
+![Bug-Type](https://archives.bulbagarden.net/media/upload/thumb/b/bd/BugIC.png/70px-BugIC.png)
+![Ghost-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/GhostIC.png/70px-GhostIC.png)
+![Steel-Type](https://archives.bulbagarden.net/media/upload/thumb/7/7e/SteelIC.png/70px-SteelIC.png)
+![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png)
+![Water-Type](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png)
+![Grass-Type](https://archives.bulbagarden.net/media/upload/thumb/a/a5/GrassIC.png/70px-GrassIC.png)
+![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png)
+![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png)
+![Ice-Type](https://archives.bulbagarden.net/media/upload/thumb/8/86/IceIC.png/70px-IceIC.png)
+![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png)
+![Dark-Type](https://archives.bulbagarden.net/media/upload/thumb/e/e3/DarkIC.png/70px-DarkIC.png)
+![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png)
+![???-Type](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs)
+```
+![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png)
+![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png)
+![Flying-Type](https://archives.bulbagarden.net/media/upload/thumb/d/dc/FlyingIC.png/70px-FlyingIC.png)
+![Poison-Type](https://archives.bulbagarden.net/media/upload/thumb/8/86/PoisonIC.png/70px-PoisonIC.png)
+![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png)
+![Rock-Type](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png)
+![Bug-Type](https://archives.bulbagarden.net/media/upload/thumb/b/bd/BugIC.png/70px-BugIC.png)
+![Ghost-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/GhostIC.png/70px-GhostIC.png)
+![Steel-Type](https://archives.bulbagarden.net/media/upload/thumb/7/7e/SteelIC.png/70px-SteelIC.png)
+![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png)
+![Water-Type](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png)
+![Grass-Type](https://archives.bulbagarden.net/media/upload/thumb/a/a5/GrassIC.png/70px-GrassIC.png)
+![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png)
+![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png)
+![Ice-Type](https://archives.bulbagarden.net/media/upload/thumb/8/86/IceIC.png/70px-IceIC.png)
+![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png)
+![Dark-Type](https://archives.bulbagarden.net/media/upload/thumb/e/e3/DarkIC.png/70px-DarkIC.png)
+![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png)
+![???-Type](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs)
+```
 
 #### Copy and Paste Text
 ```

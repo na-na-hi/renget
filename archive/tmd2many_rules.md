@@ -107,6 +107,9 @@ Once an IQ Skill is acquired, there are several things to take note of.
  - Each IQ Skill requires a certain number of IP to equip.
  - There is no limit on the number of IQ Skills one can have equipped, only a limit to how much IP is available to use.
 
+IQ items can be consumed in a special way at locations that offer drink or food services. They can mix your item into a smoothie, amplifying its effects and powers!
+- Once turned into drink form, you gain +1d6 or +1d10 (matching type bonus) to its rewarded IQ amount.
+
 ### Team Badges
 *Rank requirements may be found [here](https://rentry.co/tmd2many_characters#badge-ranks).*
 
@@ -533,7 +536,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Sky High**: All Moves not used by other Afflicted miss the Afflicted except for Gust, Thunder, Twister, Sky Uppercut, Hurricane, Smack Down, and Thousand Arrows. If the Move causing the effect is Sky Drop, after 1 round, the User drops the Afflicted and they take damage. Cannot be inflicted while under the effects of Gravity.
 	- **Raised**: The Afflicted is immune to Hazards, Terrain, and Ground-Type Moves. Obstacles are easier to cross. Lasts 5 rounds.
 	- **Grounded**: The Afflicted is not immune to Hazards, Terrain, and Ground-Type Moves. Obstacles are harder to cross. Lasts 5 rounds.
-	- **Flinch**: The Accuracy of the Afflicted's Moves is decreased by 60%. Lasts for 1 round.
+	- **Flinch**: The Accuracy of the Afflicted's Moves is decreased by a range of 12, regardless of their normal Accuracy values. Lasts for 1 round.
 	- **Unremitted**: The Afflicted will be be damaged in 2 rounds, calculated with the User's Special Attack and the Afflicted's Special Defense Stat at the time of the effect being applied.
 	- **Insomnia**: For 3 rounds, all nearby Pokémon are immune to the effects of *Sleep*.
 	- **Infatuated**: The Afflicted is unable to Focus on the User. Lasts 4 rounds.

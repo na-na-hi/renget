@@ -1,11 +1,12 @@
 # ==/AICG/ Discords==
 
-**Despaircord:** https://discord.gg/aTWHgyG6WY
+**AICGcord:** https://discord.gg/AwgZxFefB
+/aicg/ Discord. No special roles, just AI Chatbots.
 
 **LGAcord:** https://discord.gg/u7mFxFBt
 
 **Sekritcord:** Email secretbotclub@cock.li for an invite.
-Does not have proxies. Accepting botmakers, jailbreakers, but also pretty much anyone. Just email.
+Does not have proxies. Accepting botmakers, jailbreakers. No lurkers only contributors.
 
 **Scyllacord:** https://discord.gg/QzzvK25wYG
 ![girko](https://files.catbox.moe/fzyooz.png)
@@ -28,10 +29,8 @@ No avatarfags. Malebot love.
 Botmaker Discord. Message robertdanzig on Discord.
 ![robbie](https://files.catbox.moe/cux8tj.png)
 
-**Characord:** Got Deleted.
+**Jestercord**: Invite Only. https://rentry.org/anonjester
 
-**Jestercord**: https://rentry.org/anonjester
-
--> ![doobie](https://files.catbox.moe/9gvwhn.png) <-
--> you save this, my friend, its all yours! <-
+![doobie](https://files.catbox.moe/9gvwhn.png)
+-> you can save this, my friend, its all yours! <-
 -> maintained by digitalcircus@proton.me <-

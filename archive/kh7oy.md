@@ -7,8 +7,9 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
+「!」 Super Mario Bros Wonder has officially released
+
 Future Release Dates:
-「!」 Super Mario Bros WONDER releases on October 20th, 2023
 「!」 WarioWare Move It releases on November 3rd, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 「!」 Princess Peach: Showtime! releases on March 22, 2024
@@ -28,8 +29,6 @@ https://www.youtube.com/watch?v=qfj6ZEpf78g
 https://www.youtube.com/watch?v=e_kuPoLw9Wc
 「!」Mario vs. Donkey Kong Remake Revealed
 https://www.youtube.com/watch?v=5sPwqplxHXc
-「!」Super Mario Bros. Wonder Direct (8.31.2023)
-https://www.youtube.com/watch?v=G0m_uNaSres
 
 ----
 
