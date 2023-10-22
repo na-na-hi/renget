@@ -10,13 +10,11 @@ Contact me here: hedona@tutanota.com
 ***
 ##Cards
 ###New
-->Dionaea<-| ->Monoko<-| 
---|--
-->![Venussy](https://files.catbox.moe/5dx3pc.png)<- |->![(◇△◇)](https://files.catbox.moe/uwmkgd.png)<-|
-[CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)|[CHUB link](https://www.chub.ai/characters/Hedona/monoko-04e0c1f9)
-Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|Monoko, cheerful and energetic girl based on the freeware game "Yume Nikki" |
------------------------------------------------------------------------------ | -----------------------------------------------------------------------------
-
+->Annelida<-| 
+--|
+->![My beloved...](https://files.catbox.moe/zttntf.png)<- |
+->[CHUB link](https://www.chub.ai/characters/Hedona/annelida-4d7b5b96/)<-|
+->Annelida - a discarded sex doll brought to life, seeking purpose in the alleyways of the red light district.<-|
 
 
 
@@ -119,4 +117,6 @@ I asked GPT4 for this. If you find a better way to do this, let me know.
 
 ***
 
-Template based on [Darkfantasy109](https://rentry.org/botmaker_template/edit)
+Template based on [Darkfantasy109's guide](https://rentry.org/botmaker_template/edit)
+
+[Back to rentry list](https://rentry.org/charcardrentrylist)

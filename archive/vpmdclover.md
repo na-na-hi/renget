@@ -611,4 +611,4 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Hydreigon, Scorbunny, Popplio(?, subject to change), Zangoose.
+//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Hydreigon, Scorbunny, Popplio(?, subject to change), Zangoose, Dragonair, and Snover.

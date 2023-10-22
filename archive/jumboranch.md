@@ -19,7 +19,7 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Dommy Cub Grizzly Girl Scout!](https://files.catbox.moe/u975rq.jpg) |   ->Mishka Blacklilly<-   | -> An Anthro Grizzly Bear Cub, Mishka can be stubborn and usually gets what she wants. She has a penchant for Human teen boys. Common amongst her kind given the mixed society and schools. Learning to process her budding feelings/emotions as she reaches breeding age. Anthro Girl Scout camping trip this weekend! Will you join in on the fun as the only Human AND only male? ==V2 JB & alt greeting== More WIP Scout stuff->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/ll63r3.png)
+ ![Dommy Cub Grizzly Girl Scout!](https://files.catbox.moe/b7a0cf.jpg) |   ->Mishka Blacklilly<-   | -> An Anthro Grizzly Bear Cub, Mishka can be stubborn and usually gets what she wants. She has a penchant for Human teen boys. Common amongst her kind given the mixed society and schools. Learning to process her budding feelings/emotions as she reaches breeding age. Anthro Girl Scout camping trip this weekend! Will you join in on the fun as the only Human AND only male? ==V2 JB & alt greeting== 3rd greeting 10.22.23->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/b3crqh.png)
 -
  
 ***

@@ -58,17 +58,20 @@ Upon seeing some activity by a strange tent tucked away in a corner, your group 
 The group sneak through the fogs of a secluded grove to find a few rare 'meat' berries for a traveling chef.
 
 !!! (9/30/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #02 Rub-a-dub Ravine
-There's a critical lack of experience with adventuring, so in order to remedy that, the group heads out into a nearby ravine to get their toes wet in the life of an explorer. 
+There's a critical lack of experience with adventuring between all of you, so in order to remedy that, your group heads out into a nearby ravine to get your toes figuratively and literally wet in the life of an explorer. As far as it goes, it's actually a pretty tame endeavor. You manage to save an Azumarill from tumbling over a waterfall, who provides a little bit of local help in directing you through the ravine. Eventually, you find yourselves crowding the end of where the water flows, suddenly surrounded by an imposing force of Poliwhirls. Gearing up for a confrontation... is unnecessary! These wildmon would prefer to just give a good massage. You all leave feeling refreshed.
 
 !!! note (10/3/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV03 Stay HAPPI
 A mysterious benefactor from your dreams divulges information regarding one of your goals toward legitimization: forming recognized teams! They tell you to head out to search for a Sneasel. True to their word, one winds up in Baram Town, with the capability to get your problem sorted out. Convenient, isn't it? Now you can't help but wonder who this might be... at least you've got badges!
 
 !!! (10/7/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #03 The Color of Strife
-Now an official
+Now officially adventurers through HAPPI, you receive a request to return to your burned-up roots. Buizel and his friends are now your concern... all of whom are already quite familiarized with some members of your entourage. In the ashen forest, it's not hard to find who you're looking for. Something is amiss, however, as you soon find the group has been consistently harassed and hunted by a mystery Pokémon. Quickly moving to secure the area, you begin fighting the shadows as the hunter, shrouded in the ash and darkness, takes the fight to all of you. With the raging sandstorm and gray dust withering your constitution, Glum Grove is returned to silence as the Greninja is knocked out.
+
+Skipper the Froakie's exclamation tell you that this is also his mother. But why would she attack her own child? Perhaps that Twilight Syndrome might be the root cause...
 
 !!! info (10/8/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ04 Blast Seed Bomber
 Back to bothering Kleavor once again, you discover a "Detective Croagunk" loitering in the general area. He's in town to seek aid in bringing a criminal explosives enthusiast Frogadier to justice! After being accompanied to an underground cavern lake, you quickly find that its passages are trapped with bombs, ready to go with hair triggers. In the end of a dicey, spiky, and bomb-y encounter, you successfully apprehend the criminal, handing them off to Detective Croagunk. You've left an impression... perhaps you'll see more bounties in the future.
 
 !!! (10/14/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #04 Watcher's Reverie
+Instead of 
 
 !!! (10/17/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #05 The Foreshore Turnabout

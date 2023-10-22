@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 21st October. All dates dd/mm.
+!!! Note Last updated: 22nd October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -89,7 +89,7 @@ Example Submission:
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-13107 | アオダマ | Open as of 19/10
+None | None | None
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -98,6 +98,7 @@ Club ID | Club Name | Club Status
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
 6358 | ヒナまつり | Full as of 10/08
+13107 | アオダマ | Open as of 19/10
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -106,6 +107,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+6 | Arona#1 | Open as of 22/10
 244 | Cute&Funny | Open as of 01/09
 3640 | DFC | Open as of 08/10
 6488 | Kanimochi | Open as of 12/10
@@ -117,7 +119,6 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Full as of 19/08
 90 | Bullies | Full as of 18/09
 286 | カニ (Kani - crab for dekinais) | Full as of 11/02
 343 | M8ingPressers | Full as of 03/04
