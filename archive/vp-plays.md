@@ -411,9 +411,9 @@ https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
 ##Empire Multi-LP
 !!! danger Status: it's fucking over
-    We tried playing pretentious political """satire""" & societal criticism: the fangame again.
+    We tried playing pretentious political """satire""" & societal criticism: the fangame again, despite my countless warnings.
     Expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be.
-    There's a reason most of the players dropped out before the third badge. Please do not play this shit ever, and it is (You)r duty to report and ignore anyone shilling this garbage
+    There's a reason most of the players dropped out before the third badge. **Please do not play this shit ever, and it is (You)r duty to report and ignore anyone shilling this garbage**
 
 https://arch.b4k.co/vp/thread/54459801/ 1 opening pandora's box
 https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao

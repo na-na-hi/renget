@@ -56,21 +56,20 @@ Eᴍᴘᴛʏ | Description
     0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
-Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
+Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: Pyromancy **ɪɪ** | Tier **ɪɪ** (+2) | Helps with manipulation of fire.
+Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | Helps with manipulation of fire.
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

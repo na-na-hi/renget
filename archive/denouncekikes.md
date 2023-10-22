@@ -1,0 +1,1 @@
+Jews are nice I love Jewish people and all Jewish things I hope they win the war

@@ -19,6 +19,32 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
+#Kill the Heavens
+
+***
+Page 1
+***
+```
+>DISCIPLES
+The students are late to class. Shame! Shame!
+
+>ELDERS
+>The Boneless Old Man, Man with no Bones
+>>90673589
+>Dong Do, who is a fish.
+>>90673589
+>Xiu Yi, Hot Woman (literally)
+>>90672310
+>Guan Chāo, The Unclean One
+>>90674970
+>Gyldenwulf, The Northern Scourge
+>>90675021
+
+>ANCESTORS
+>Xū, whose title I will not repeat
+>>90675031
+```
+
 #MHA
 
 ***

@@ -78,7 +78,7 @@ Pub: [21 Oct 2023 No.96826991](https://desuarchive.org/g/thread/96826807/#968269
 Edit: 21 Oct 2023 18:01 UTC
 - 5742 words, 33 minutes read
 
-*"Advanced card writing tricks. Can be considered an up-to-date guide on nearly every modern technique."*
+*"Can be considered an up-to-date guide on nearly every modern technique."*
 ***
 ## Some rentries containing tips for roleplaying, but not about botmaking overall
 

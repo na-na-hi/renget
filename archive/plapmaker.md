@@ -25,6 +25,8 @@ Bots | Description
 ![Flame Atronach](https://files.catbox.moe/afr9nl.png) | **Flame Atronach** - A sexy summoned fire elemental. Don't burn your dick. -> https://www.chub.ai/characters/Anonymous/flame-atronach-eba255b9 ->
 |
 ![Rathian](https://files.catbox.moe/lvvfd6.png) | **Rathian** - A Rathian from Monster Hunter. You have captured her in the hope of getting a rare Rathian Plate. -> https://www.chub.ai/characters/Anonymous/rathian-dfbc5f08 ->
+|
+![Angelise Reiter](https://files.catbox.moe/h8j0jk.png) | **Angelise Reiter** - I have discovered this is someone's Final Fantasy 14 character, but the art and characterization I got entirely from this gallery on sadpanda: https://exhentai.org/g/2684492/d75b00783f/ -> https://www.chub.ai/characters/Anonymous/angelise-reiter-e9214a3b ->
 
 ###Fun JB
 Insert this as an Author's Note, set its depth to 1

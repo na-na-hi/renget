@@ -358,3 +358,13 @@ https://files.catbox.moe/fwt70b.mp4
 https://files.catbox.moe/8ig3qa.mp4
 > Israeli army attacked the Nuseirat market, 8 Palestinians killed (Added Oct. 21st)
 https://files.catbox.moe/gwf7ve.mp4
+>Al-Jazeera reporter dangerously close to airstrike (Added Oct. 21st)
+https://files.catbox.moe/umulya.mp4
+>Videos from the bombing of Al-Ansari Mosque situated in Jenin, West Banks (Added Oct. 21st)
+https://files.catbox.moe/vubnn9.mp4
+https://files.catbox.moe/87vlzy.mp4
+https://files.catbox.moe/p0ocqw.mp4
+>The moment of the Al-Ansari Mosque Bombing
+https://files.catbox.moe/dhttz1.mp4
+>Heroic Hamas Compilation Vid. (Added Oct. 21st)
+https://files.catbox.moe/fjjdsy.mp4

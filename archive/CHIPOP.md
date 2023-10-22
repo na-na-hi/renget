@@ -30,7 +30,7 @@ Updates by:
 	!!! danger
 		->![merchantexposed01](https://files.catbox.moe/b1vcl7.png) ![DTKATKG](https://files.catbox.moe/ex5onf.gif) ![merchantexposed82](https://files.catbox.moe/p8xsq9.png)<-
 		->**~~Middle east~~ Worldwide peace?**<-
-		->**With Isræl, you fail!**<-
+		->**With [Isræl](https://files.catbox.moe/s1vdgd.jpg), you fail!**<-
 		->![TKD](https://files.catbox.moe/lnho8n.gif)<-
 		->![Diapers](https://files.catbox.moe/vpq02x.jpg&width=665)<-
 
@@ -42,17 +42,29 @@ Updates by:
 		->![AbuOubaidaSpeech](https://files.catbox.moe/miixjj.gif)<-
 
 	 	->![QassāmMen](https://files.catbox.moe/je41ni.gif)<-
+
+		>->![wikipediaicon](https://files.catbox.moe/czr04t.png) **[Mufti Amin al-Husseini (Wikipedia Article)](https://en.m.wikipedia.org/wiki/Amin_al-Husseini)** ![wikipediaicon](https://files.catbox.moe/czr04t.png)<-
+		>>->![muftiamin01](https://files.catbox.moe/7mifg9.webp) ![muftiamin02](https://files.catbox.moe/hd4mzc.webp) ![muftiamin](https://files.catbox.moe/vmwhmu.png)<-
 !!! note 
-	->** Currnet theme song(s):**<-
-	->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+	->**Currnet theme song(s):**<-
 
-	->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
-	->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Alnadha Betlageena - Whenever It's the Call, You Will Find Us](https://youtu.be/DhIp5jWViG8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
 
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Alnadha Betlageena - Whenever It's the Call, You Will Find Us](https://youtu.be/DhIp5jWViG8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[The Real McKenzies - Chip](https://youtu.be/WmIB7hUIsS0)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+
+!!! note
+	->**Video Of The Now:**<-
+
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Three Little Pigs (1933) Jew Peddler Scene (good quality and correct pitch)](https://youtu.be/vw-g6JzHii8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 ***
 ## ![template](https://files.catbox.moe/wi6xfu.webp) ![sticky](https://files.catbox.moe/uhs1rx.webp) OP Template:
+
+!!! warning ==**OP Template updates and adding recent news:**==
+	>Always include recent news and happenings in the (▶RECENT) section of the OP, also note that the character limit of the OP is **2000 letters/characters**, if you struggle with adding/including recent news, feel free to **delete/remove old news** to make sure the OP body does not exceed/go beyond the 2000 character limit.
 
 ==**/chip/ - Comfy Happening in Palestine #**==
 
@@ -101,12 +113,11 @@ https://rentry.org/TKDTJD
 https://rentry.org/TKDCHIP
 
 ▶RECENT:
+\>Israel drops leaflets warning residents of North Gaza to LEAVE the North before they proceed with entirely WIPING region out
 \>First aid trucks enter Gaza as border crossing with Egypt opens; US warns of 'potentially chaotic' situation
 \>White House asks Congress for $106 billion for Ukraine and Israel wars
 \>Israel bombs Christian church 40+ killed
-\>US State Dept issues worldwide caution travel alert
 \>Hospital bombed, 500+ dead. JDAM used. IDF did it
-\>2x. Please donate, God bless you https://humanappeal.org.uk/
 ***
 ## OP Additional Info:
 !!! warning Alternative titles:
@@ -133,6 +144,11 @@ https://rentry.org/TKDCHIP
 	>**▶/chip/ OP banners/picrels for emergency baking** *(temporary, will be updated later with the full folder containing all materials.)*
 	>https://catbox.moe/c/fmybx2
 	>>==i.e. Ready-to-go banners for emergency baking:== ![emb09](https://files.catbox.moe/jrbthb.webp), ![emb73](https://files.catbox.moe/q90k3a.webp), ![emb89](https://files.catbox.moe/go8if1.webp) and etc.
+	***
+	#### To do:
+		-[x] Create the basic /chip/ seal template(s).
+		-[ ] Create newer variants of /chip/ seal templates.
+		-[ ] Create a catalog/Mega.io folder containing all /chip/ art and OCs (Thanks AI burgerbro for the Hamas-Chans and friends Catbox catalog. Keep 'em comin') and another folder containing all /chip/ OP templates i.e. seals, ready-to-go seals for emergency baking frens.
 
 ***
 ## ![memeflaggots](https://files.catbox.moe/h46y97.png) Memeflag & Gore Filter:

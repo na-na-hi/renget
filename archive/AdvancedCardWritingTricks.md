@@ -675,6 +675,10 @@ Here are some cherry-picked examples.
 
 You can use `{{idle_duration}}` to insert the amount of time since the last message. Check out **[Meiko](https://www.chub.ai/characters/retard/ec70171e-0d5e-40fc-8a16-39ed01af6718)** for an example usage, a yandere that gets angry if you take long to respond.
 
+`{{idle_duration}}` works on all frontends but is formatted as hh:mm:ss in Risu (00:05:12 as opposed to “5 minutes”), and is currently broken in Agnai card jailbreak.
+
+`{{time}}` also inserts the current time on all frontends but Agnai. An example of character using it is [**Donella**](https://www.chub.ai/characters/Nono/donella-the-femme-fatale-92e73089), which changes the character’s personality depending on whether it is day or night.
+
 ───── ⋆⋅☆⋅⋆ ─────
 
 [**Jump to table of contents ⤴**](https://rentry.org/AdvancedCardWritingTricks#advanced-card-writing-tricks)

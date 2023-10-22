@@ -50,6 +50,7 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
+https://event.playeternalreturn.com/S1_ElevenMarineCafe (~10/25)
 https://event.playeternalreturn.com/ER_Season2 (~11/8)
 https://playeternalreturn.com/posts/news/1485 (~11/9)
 
