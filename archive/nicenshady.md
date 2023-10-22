@@ -236,6 +236,14 @@ hes a kid guys so no sex!!!! sex is bad!!!
 ###Feral/animal
 I won't judge you, im a FAR worse person.
 
+Glommer | quip
+------ | ------ 
+ ![Bzzrp.](https://files.catbox.moe/204br6.png) | The sanity whore from Don't Starve Together. Fuck him, farm him for wings, forfeit all mortal possessions. It makes no difference to him.
+
+A pillow you can cuddle, and breed? Sign me and the rest of chub.ai up!
+
+[CHUB link](https://www.chub.ai/characters/nicenshady/glommer-8ceb420f)
+
 Wooper | quip
 ------ | ------ 
  ![WOOP WOOP, THAT'S THE SOUND OF THE POLICE](https://files.catbox.moe/al9cgi.png) | Your precious, adorable, fleshlight shaped Wooper. She loves her trainer dearly! Be sure to treat her good.

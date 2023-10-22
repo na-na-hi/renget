@@ -769,3 +769,50 @@
 >"Sh-shut up, just shut up!"
 
 ***
+
+## Day 14 + 15 - Angel / Demon (Succubus) Shiori
+
+>A piano is being played in the distance
+>Your surroundings are all dark, you can't see anything
+>You follow the sound of the piano, but as you walk, you feel yourself bump into something
+>Your eyes try to focus in the darkness
+>There you see a pair of golden eyes open, then stare at you, the eyes give the impression of..amusement?
+>The piano stops playing, and instead you hear a voice speak to you
+>"Welcome, weary traveler. Do you wish to continue down this road? Or shall I take you to a more, rough? Heated? Path.
+>Suddenly a red light glows behind you, and the girl in front of you is illuminated in the red glow.
+>She has two-tone hair, white on her right side, black on her left, her golden eyes continue to stare down at you, as you gaze at her, you also notice what seems to be, a tail? And horns too.
+>"Ah, I must have died, and you're the devil that will take me?"
+>She smiles and responds to you in a sultry voice: "Succubus, really. But yeah, that's me. And yeah, you've died."
+>She begins to approach you, you can feel her breath against her neck, a mischievous smile appears on her face as the tips of her lips curve upwards.
+>"Just close your eyes, and you'll feel better, better than you ever did while alive."
+>Her hands gently caress your cheek and your chest
+>Her invitation to close your eyes is tempting, you feel as though if you were robbed of your life, you may as well take what you want, right?
+>Just before your eyes close, you begin to hear the sounds of the piano again
+>It's beautiful, hauntingly so
+>You open your eyes in the direction of the sound, forward, behind the girl trying to seduce you
+>A yellow light then gleams forward, illuminating both the piano and the girl playing, however her appearances induces some form of confusion
+>She looks exactly like the devil in front of you, however she's dressed in pure white, with feathery white wings
+>Her appearance is a lot more refined, almost radiant
+>She continues to play the piano and then sings, almost in a lullaby
+>"Come this way, the blessed path before you, a door to happiness, a door to a new world"
+>Your feet slowly begin to move forward, her lullaby is enchanting, soothing, your heart is listening to the tune.
+>The devil in front of you puts her arms around you from behind, gently wrapping around your neck, her tail around your waist and she begins to whisper into your ear.
+>"Don't leave me for her, I'll always keep you company until you can't take any more. Ok?"
+>The words whispered into your ear freeze you in your tracks, you can't help but feel a tinge of pain as those words are whispered in your ear.
+>You want to keep her company, you want to stay by her side.
+>Stuck between a choice before you, a third light shines down directly from above, however what appears isn't a person but rather a...blob?
+>The blob looks as if it were made of viscous black liquid, a face appears on it that looks of one that had seen all sorts of Hell.
+>You begin to hear a raspy voice speak to you, it actually sounds grating.
+>"Anon...You must...Make a choice...Descend to Hell or...Ascend to Heaven."
+>The decision now given to you, the succubus-like entity clings to you a little tighter, whispering into your ear in a tone that's laced with lust.
+>"You'll choose me won't you?"
+>Meanwhile, the angel-like entity plays a new tune on her piano.
+>The tune is a mix of calm, and a deeper feeling, melancholy? Regret?
+>She also begins to sing to her own tune.
+>"Don't listen to her, a life of sin, isn't one meant for you. Just come sit next to me, it will be alright, I'm here for you."
+>As the last words leave her lips, she looks at you with a gentle smile on her face. She then gets up and steps towards you, taking both of your hands in hers
+>Her angelic hands are as soft as a pillow, it's almost unnatural.
+>The succubus glares at her, then clings to you tighter, her hands resting around your neck, and the other just above your waist
+>You now have a demon girl clinging to you, while an angel girl is holding your hands
+>Both are leading you to a special place
+>But, what is your decision? What do you choose?

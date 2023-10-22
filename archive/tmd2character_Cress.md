@@ -7,7 +7,7 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 25/70
+**Level:** 8 | **Experience to Next Level:** 0/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 225₽ | **Glorious Gold:** 0 Bars
 
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 12 points to spend.
+    You have 25 points to spend.
     0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

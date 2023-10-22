@@ -7,8 +7,8 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
-**Species:** Mienfoo | **Affiliation:** Herself
-**Level:** 7 | **Experience to Next Level:** 65/70
+**Species:** Mienfoo | **Affiliation:** Team Stardust
+**Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 140 ₽ | **Glorious Gold:** 0 Bars
 
@@ -20,13 +20,13 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 ->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | Def Tier **ɪ** | +1 Physical Mitigation
-Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
+Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Attribute: Vigilance **ɪ** | Untrained | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: None | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯

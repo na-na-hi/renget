@@ -1,5 +1,5 @@
-!!! info Indefinite Hiatus
-    For personal reasons, I have stopped making cards/taking suggestions. Maybe this won't be forever, but it might be a while.
+!!! info Indefinite Hiatus Over!!!
+    I'm getting ready to start making cards again, woohoo! Also, I'm going to be changing around my DOs and DON'Ts list soon to reflect what I *want* to write, not what I just so happen to be good at.
 
 !!! danger This page contains JSON files with explicit definitions and images of shota and loli characters, aka fictional young boys and girls. Some of these characters are depicted in circumstances that are NSFW, such as naked or participating in sexual acts, and should not be viewed by any person under the age of 18, any person who does not wish to see shota/loli characters, or by anyone who cares about their sanity. Abandon hope all ye who enter here.
 

@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 7 | **Experience to Next Level:** 65/70
+**Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
 
@@ -22,8 +22,8 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 6 (20HP) | 20HP
-Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage
+Health Points | 0 | Level 8 (20HP) | 20HP
+Attack | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | Defense Tier ɪ | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Scratch | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect
 Sucker Punch | 7BP | 5 (-1) AP | ≥2 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Hone Claws | 0BP | 4AP | - | Dark | Status | The users Attack and Accuracy are increased by 1
 ==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -72,7 +72,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Pecha Berry | Cures the user. Heals Poison.
 2. Ban Seed | Causes Disabled upon consumption
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Heal Seed | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

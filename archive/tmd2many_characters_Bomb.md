@@ -7,9 +7,9 @@ This Baltoy was discovered by Lilac around some alien ruins. It doesn't know muc
 ---- | ----
 **Origin:** Unkown | **Guild Role/Occupation:** Bomb
 **Species:** Baltoy | **Affiliation:** Lilac
-**Level:** 5 | **Experience to Next Level:** 10/50
+**Level:** 6 | **Experience to Next Level:** 5/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 49₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -24,7 +24,7 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
+Defense | 2 | +1 Training Bonus | +2 Physical Mitigation
 Special Defense | 1 | Species Bonus | +1 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
@@ -33,7 +33,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Mud-Slap | 2BP | 5AP | ≥2 | Ground | Special | The Opponent's Accuracy is decreased by 1.
 Rapid Spin | 3BP |4AP | ≥2 | Normal | Physical | The User is cured of Stuck, Constricted, Trapped, Bound, and Seeded. Field Hazards are nullified.
-Harden | - | 4AP | - | Normal | Status | The User's Defense is increased by 1.
+Confusion | 5 | 5AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with Confusion.
 Skill Swap | - | 4AP | - | Psychic | Status | The User's trades Abilities with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 0 points to spend.
+    You have 15 IQ points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defence **ɪ** | Tier **ɪ** (+1 STAT) | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Defence **ɪ** | Tier **ɪ** (+1 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
 **INVENTORY (4 slots)**
@@ -69,7 +69,7 @@ Currently Training for Stat: Defence **ɪ** | Tier **ɪ** (+1 STAT) | 2/9 | ▮�
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Equipped Item:  | Empty Wand
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.

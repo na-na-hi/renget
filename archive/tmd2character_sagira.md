@@ -13,7 +13,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 7 | **Experience to Next Level:** 65/70
+**Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 192₽ | **Glorious Gold:** 0 Bars
 
@@ -25,11 +25,11 @@ Magician | When using Attacking Moves, the User steals an Item from their Oppone
 ->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
-Special Attack | 2 | Species Bonus | +2 Special Damage
+Special Attack | 3 | Species Bonus | +3 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
@@ -70,6 +70,7 @@ Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | Helps with manipulation of fire
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Training for Attribute: Thaumaturgy | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

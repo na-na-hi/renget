@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Cooking | Tier **ɪ** (+1) | Making tasty things, tastier!
-Training for Attribute: Cooking | Tier **ɪɪ** (+2) | 0/3 | ▯▯▯
+Training for Attribute: Cooking | Tier **ɪɪ** (+2) | 1/3 | ▯▯▯
 
 
 **INVENTORY (4 slots)**

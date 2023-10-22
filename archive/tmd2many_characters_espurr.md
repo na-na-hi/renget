@@ -25,9 +25,9 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 7 | **Experience to Next Level:** 10/70 | **Alignment:** True Neutral
+**Level:** 8 | **Experience to Next Level:** 60/80 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 139₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 69₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -44,14 +44,14 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 #### ->Stats<-
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 7 (20 HP) | 20 HP
+Health Points | 0 | Level 8 (20 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 | Species Bonus | 5 AP
+Speed | 0 (+1) | Species Bonus | 5 AP
 
 ***
 

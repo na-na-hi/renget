@@ -8,7 +8,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** N/A
-**Level:** 5 | **Experience to Next Level:** 40/50
+**Level:** 6 | **Experience to Next Level:** 25/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 710₽ | **Glorious Gold:** 0 Bars
 
@@ -68,7 +68,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 3/9 | ▮▮▮▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -77,8 +77,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Sitrus Leaf | Vacant inventory slot.
+2. Orange Gummi | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

@@ -1,6 +1,5 @@
-!!! danger sorta back, still somewhat busy. hi.
 ![](https://files.catbox.moe/pr0u6d.png)
-#Argalia's Bots ![](https://files.catbox.moe/vqhmev.png) 
+#Argalia's Bots
 ***
 
 ->My personal bot collection.<-
@@ -8,7 +7,9 @@
 ->If you want to contact me for any reason: blue.reverberation@proton.me<-
 
 While I make my bots with malepov in mind, they can be used with either gender PC. I write in third person & present tense; if you prefer second person go ahead and edit the starting message, I really don't care. I generate all card art myself. Catbox links are always provided, check chub to read defs before downloading if you're interested in that sort of thing.
-Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. I enjoy working with the AI in creating a story, which is evident in my works.
+Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. Or skip straight to the sex, that works too if it's your cup of tea.
+Logs of any kind are welcome, as are requests. The latter I will most certainly be slow in finishing, so keep that in mind.
+
 ~~I fine-tune for GPT4 personally, but I make sure to test public releases on Turbo & Claude.~~
 **Update:** I test mainly on Turbo now, if it works there it works everywhere.
 
@@ -25,7 +26,7 @@ Lorebook   |  [Chub](https://www.chub.ai/lorebooks/argalia/Syngrapha)  [Catbox](
 Percival Thorne | Description
 :----:  | :----: 
 ![Percival](https://files.catbox.moe/54ymr0.png)   | Percival is an alchemist cursed to continually relive the same events every month until he can unlock the key to ending the curse. He has already experienced seven cycles and is now in his eighth. This time, though, changes within the cycle are starting to emerge.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Percival) . [Catbox](https://files.catbox.moe/1t82p6.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Percival) . [Catbox](https://files.catbox.moe/1t82p6.png) . [Background](https://files.catbox.moe/h0td1k.png)
 
 Gawain Winters | Description
 :----:  | :----: 
@@ -91,6 +92,7 @@ Placeholder section for now, but I'm autistic about connecting characters and wo
 
 ##Changelog
 
+22.10 - Added Percival background, fixed up a few things
 03.10 - Added Li Xiaoyu (new)
 01.10 - (finally) added a changelog and reformatted some stuff
 

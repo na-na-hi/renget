@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 00/80
+**Level:** 8 | **Experience to Next Level:** 35/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
 
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 15 points to spend.
+    You have 25 points to spend.
     0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -75,15 +75,15 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry	| Soothes the user. Heals Burn.	25₽
 2. Rawst Berry | Soothes the user. Heals Burn.	25₽
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Oran Berry | Vacant inventory slot.
+4. Oran leave | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Oran Leave | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

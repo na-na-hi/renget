@@ -7,7 +7,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 7 | **Experience to Next Level:** 50/70
+**Level:** 8 | **Experience to Next Level:** 15/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
@@ -21,12 +21,12 @@ Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 7 (20 HP) | 20HP
+Health Points | 0 | Level 8 (20 HP) | 20HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1(+1) | Species Bonus | 5AP
+Speed | 2(+1) | Species Bonus | 6AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -67,8 +67,10 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Speed **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+
+speed tier 1 completed i think i have this right
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

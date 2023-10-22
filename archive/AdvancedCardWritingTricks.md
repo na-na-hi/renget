@@ -338,6 +338,8 @@ Character lorebooks can be useful to reduce the size of the main defs or to incl
 
 Note also that since **lorebook entries are not inserted mid-generation**, what will happen is that **the character will first bring up the topic while lacking the information inside the lorebook entry, and only in the next message will they have that information in the prompt**.
 
+An example of character lorebook you can study is **[Narua](https://www.chub.ai/characters/knickknack/narua-b58d1ab0/main)**’s, which contains lore information triggered by keywords that are all present in the main defs, so the character will trigger the entries by herself. 
+
 SillyTavern has interesting features unsupported on other frontends:
 
 - By making an entry "Constant" (blue circle) and setting a Trigger %, you can make the entry be inserted a certain % of the time.

@@ -137,9 +137,9 @@
 - There are hundreds of movies and tv shows accessible with multiple subtitles. All of them are available for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/hdtoday.ru/)
 
-### ▶️ [HiMovies](https://www5.himovies.to/)
+### ▶️ [HiMovies](https://himovies.sx/)
 - Users may find a large range of new films and web series on the website, most of them are in high definition quality.
-- [URL Safety Results](https://www.urlvoid.com/scan/himovies.to/)
+- [URL Safety Results](https://www.urlvoid.com/scan/himovies.sx/)
 
 ### ▶️ [Hurawatch](https://hurawatch.cc/)
 - One of the most popular and easily navigable websites, it provides free HD streaming of films and TV shows.

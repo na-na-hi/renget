@@ -6,8 +6,8 @@
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** No clue.
-**Species:** Larvitar | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:**55/70
+**Species:** Larvitar | **Affiliation:** Team Ruckus
+**Level:** 8 | **Experience to Next Level:**10/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars
 
@@ -22,7 +22,7 @@ Guts | While the User is afflicted with a Major Status Condition, their Attack i
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 3 | Species Bonus | +3 Physical Damage 
+Attack | 4 | Species Bonus | +3 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation

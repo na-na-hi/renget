@@ -11,7 +11,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 7 | **Experience to Next Level:** 45/70
+**Level:** 8 | **Experience to Next Level:** 10/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
 
@@ -38,7 +38,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 ROCK SMASH | 4BP | 6AP | ≥4 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Endure | 0BP | 4AP | ≥2 | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Focus Energy | - | 4 AP	| - | Normal | Status | The User's Crit Ratio is increased by 2.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -84,8 +84,8 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3. Grass Gummi	| Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
-4. Sky Gummi | Gives +10 IQ points to Flying-Types. Gives +5 to other types. Tastes like marshmallows.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

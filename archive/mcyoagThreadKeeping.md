@@ -26,23 +26,31 @@ Page 1
 ***
 ```
 >DISCIPLES
-The students are late to class. Shame! Shame!
+>Yasha, who really looked like a Kamen Rider until I opened the image
+>>90675954
+
+The other students are late to class. Shame! Shame!
 
 >ELDERS
 >The Boneless Old Man, Man with no Bones
 >>90673589
 >Dong Do, who is a fish.
->>90673589
+>>90674074
 >Xiu Yi, Hot Woman (literally)
->>90672310
+>>90674739
 >Guan Chāo, The Unclean One
 >>90674970
 >Gyldenwulf, The Northern Scourge
 >>90675021
+>Huang Yu, Bald Barely-Buddhist
+>>90676526
 
 >ANCESTORS
 >Xū, whose title I will not repeat
 >>90675031
+
+The rest of the ancestors are asleep. The elderly need their rest.
+
 ```
 
 #MHA
@@ -69,7 +77,7 @@ https://rentry.org/MHACards
 MHA is charging up!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
-https://archive.4plebs.org/tg/thread/90445389#90445806
+archive.4plebs.org/tg/thread/90676737/
 
 >CHARACTER PROMPTS (Feel free to answer these or don’t idk)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp
