@@ -29,7 +29,7 @@ A hot spring on top of a mountain near Capim Town, guarded by a Charizard who ba
 A new chamber replacing the trap chest room at the end of Waterfall Cave. First visited by Booker in [The Echo Chamber](https://rentry.org/RibombeeEcho).
 #####Apple Woods
 Suffered a large forest fire that destroyed the Perfect Apple tree. Caused by Phanpy's team in [The First Day on the Job](https://rentry.org/pn2fz).
-#####Stories
+####Stories
 Summaries of important events from different completed stories. The goal is to focus on events that would impact other anon's stories, instead of summarizing every written work. Origin/Introduction stories are included and labeled (Intro).
 ######[Gathering (Booker)](https://rentry.org/h3fdu)
 Describes the initial meeting of the Pokemon that would form Clover Guild. A group of humans-turned-Pokemon meet in the Blue Claw Inn in Capim Town, and decide to elect Lliam as their Guildmaster.

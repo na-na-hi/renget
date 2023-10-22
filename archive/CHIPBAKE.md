@@ -2,7 +2,7 @@ Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use t
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 /chip/ - Comfy Happening in Palestine #
 
-Previous Bread: >>
+Previous Bread: 
 
 ▶WARNING
 Glowniggers are trying to subvert /chip/ via well poisoning. /chip/ threads flying an israeli flag are fake shill threads. Ignore all threads and posters endorsing Israel, (((both sides bad))) posters, memeflags, and thread splitters
@@ -17,11 +17,11 @@ Do not trust happening announcements without link/proof
 By typing in this thread you denounce Israel as a legitimate state, denounce the Talmud and endorse TKD (Total Kike Death)
 
 ▶THREAD THEME:
-https://youtu.be/FwF4MFf019E
+https://files.catbox.moe/g4x99j.mp4
 
 ▶LIVE-STREAMS:
-https://youtu.be/KcVIWxcIV74 
-https://youtu.be/IHbhvc2szmA 
+https://youtu.be/KcVIWxcIV74
+https://youtu.be/IHbhvc2szmA
 https://youtu.be/IcPPJqKsTR8
 https://youtu.be/UtruJztXE5w
 
@@ -37,21 +37,19 @@ https://www.presstv.ir/Live
 https://israelpalestine.liveuamap.com/
 https://remix.aljazeera.com/aje/PalestineRemix/maps_main.html
 
-▶CLIPS:
-https://rentry.org/TKDCHIP
+▶OP:
+https://rentry.org/CHIPOP
 
 ▶INFO:
 https://rentry.org/TKDTJD
 
-▶OP:
-https://rentry.org/CHIPOP
+▶CLIPS:
+https://rentry.org/TKDCHIP
 
 ▶RECENT:
-\>Hamas releases two prisoners
-\>Explosions near the US Military Victory Base Complex, Iraq
-\>Israel bombs Christian church 40+ killed
-\>US State Dept issues worldwide caution travel alert
-\>IDF Minister: "You now see Gaza from afar, up close- two weeks"
-\>2x. Please donate, God bless you https://humanappeal.org.uk/
-\>Hospital bombed, 500+ dead. JDAM. IDF did it
-\>Most utilities off. Water resumed in S. Gaza pump only
+\>Israel drops leaflets warning residents of North Gaza to LEAVE the North before they WIPE region out
+\>Aid trucks enter Gaza via with opened Egypt border; US warns 'potentially chaotic' situation
+\>White House asks Congress for $106 billion for Ukr. and Israel
+\>Israel bombs church 40+ killed
+\>Hospital bombed, 500+ killed. IDF JDAM used.
+\>Please donate for TKD https://humanappeal.org.uk/

@@ -3,6 +3,9 @@
 !!! note 
     **Live - [boards.4chan.org/h/thread/7622041/](https://boards.4chan.org/h/thread/7622041/)**&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;#&nbsp;Learning to swim Edition!
 
+!!! danger
+    **/gkg/ - [boards.4chan.org/trash/thread/60533486/](https://boards.4chan.org/trash/thread/60533486/)**&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;#&nbsp;Halloweiner Edition
+
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
 
@@ -127,6 +130,7 @@
 
 ###### /gkg/
 !!! info 
+    - 017&nbsp;&nbsp;[desuarchive.org/trash/thread/60533486/](https://desuarchive.org/trash/thread/60533486/)&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Halloweiner Edition
     - 016&nbsp;&nbsp;[desuarchive.org/trash/thread/59435522/](https://desuarchive.org/trash/thread/59435522/)&nbsp;&nbsp;&nbsp;&nbsp;(09.09.2023 22:08)&nbsp;&nbsp;[99]&nbsp;#&nbsp;Recess is over Edition
     - 015&nbsp;&nbsp;[desuarchive.org/trash/thread/59068586/](https://desuarchive.org/trash/thread/59068586/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 02:22)&nbsp;&nbsp;[311]&nbsp;#&nbsp;Finally Back Edition
     - 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[307]&nbsp;#&nbsp;Illusion is fucking dead Edition

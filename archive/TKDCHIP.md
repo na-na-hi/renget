@@ -1,4 +1,4 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE 
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ORIGINAL CLIPS HERE: https://rentry.org/daeq2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -356,8 +356,9 @@ https://files.catbox.moe/wrfw8c.mp4
 https://files.catbox.moe/fwt70b.mp4
 >"Hell awaits you" Hamas's message to impending kike invasion (Added Oct. 21st)
 https://files.catbox.moe/8ig3qa.mp4
-> Israeli army attacked the Nuseirat market, 8 Palestinians killed (Added Oct. 21st)
+> Israeli army attacked the Nuseirat market, 13 Palestinians killed (Added Oct. 21st, edited Oct. 22d)
 https://files.catbox.moe/gwf7ve.mp4
+https://files.catbox.moe/pyr0yj.mp4
 >Al-Jazeera reporter dangerously close to airstrike (Added Oct. 21st)
 https://files.catbox.moe/umulya.mp4
 >Videos from the bombing of Al-Ansari Mosque situated in Jenin, West Banks (Added Oct. 21st)

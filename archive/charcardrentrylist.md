@@ -18,9 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Chad](https://files.catbox.moe/fp2j61.png), [Marshal](https://files.catbox.moe/qsuie0.png), [Jonah](https://files.catbox.moe/wern01.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Glommer](https://files.catbox.moe/204br6.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV], [SCP-8901](https://files.catbox.moe/9kdg8b.png) [MV]
+[Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV], [SCP-8901](https://files.catbox.moe/9kdg8b.png)
 [GGR89](https://rentry.org/ggr89) | Misc |[Scarlet](https://files.catbox.moe/l269t5.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png)|
@@ -31,8 +32,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Marcy](https://files.catbox.moe/p70oyr.png), [Dr. Francis Malford](https://files.catbox.moe/rek9sv.png), [Dr Francine Mallow](https://files.catbox.moe/zs3pyp.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Phihoria](https://files.catbox.moe/07gn9i.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Charlie](https://files.catbox.moe/5c14cu.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Marshal](https://files.catbox.moe/qsuie0.png), [Jonah](https://files.catbox.moe/wern01.png)|
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Anzio Girls High School](https://files.catbox.moe/65hvkl.png)|[Anzio Girls High School](https://files.catbox.moe/65hvkl.png) [MV]
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
@@ -41,6 +40,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||

@@ -1,8 +1,9 @@
 ->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
-![The Boy!](https://files.catbox.moe/4erlmn.png) 
+->![The Boy!](https://files.catbox.moe/4erlmn.png)<-
 
-### Mohka ♂
-"Fuck it, we ball."
+### ->Mohka ♂<-
+->"Fuck it, we ball."<-
+->![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png)![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png)<-
 
 · | ->· ->
 ---- | ----
@@ -32,11 +33,11 @@ Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
-**Leer** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
-Protect | - | 4 AP | - | Normal | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
-Dragon Tail | 6 BP | 5 AP | ≥3 | Dragon | Physical | The User throws the Opponent.
-Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Tackle | 4 BP | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
+**Leer** | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
+Protect | - | 4 AP | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
+Dragon Tail | 6 BP | 5 AP | ≥3 | ![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | The User throws the Opponent.
+Basic Attack | 4BP | 4AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.

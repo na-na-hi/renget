@@ -297,6 +297,11 @@ Marshal | Info
 ![](https://files.catbox.moe/3nsctm.png)   | Marshal is your typical stressed and anxious college student, barely leaving his dorm to interact with others. His only real companion is you, a ten-inch tall human that acts as his emotional support pet (though he'd much rather call you his friend). Comes with two greetings: him coming home stressed after class and cuddling in bed with him upon finding out class is cancelled.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/marshal-c4b50b23),  [Catbox](https://files.catbox.moe/qsuie0.png)
 
+Chad | Info
+:----:  | :----: 
+![](https://files.catbox.moe/x10ng8.png)   | Chad is what a lot of people consider to be the whole package. He's charming, charismatic, handsome, and with a bright future ahead of him. But even people like Chad have their problems, as the young man struggles with being a closeted bisexual on top of having some...extremely bipolar tastes depending almost entirely on gender.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/chad-98375328),  [Catbox](https://files.catbox.moe/fp2j61.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

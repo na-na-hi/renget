@@ -135,7 +135,7 @@ https://rentry.org/TKDCHIP
 !!! note
 	>**▶/chip/ Seal Templates:**
 	>https://catbox.moe/c/esjjov
-	>>==Current templates:== ![Main](https://files.catbox.moe/1g6vh3.png) ![Main, arabic ver.](https://files.catbox.moe/h5vstu.png) ![Green, sharp flag](https://files.catbox.moe/hoj0j4.png)
+	>>==Current templates:== ![Main](https://files.catbox.moe/1g6vh3.png) ![Main, arabic ver.](https://files.catbox.moe/h5vstu.png) ![Green, sharp flag](https://files.catbox.moe/hoj0j4.png) ![kraken](https://files.catbox.moe/qt6389.png)
 	***
 	>**▶/chip/ Art & Other OC:**
 	>https://catbox.moe/c/flj9bj

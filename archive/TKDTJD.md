@@ -1,4 +1,4 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. God bless you. https://rentry.org/TKDCHIPBAKE
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Videos To Help Fight The Jew
 -
@@ -49,6 +49,105 @@ https://www.youtube.com/watch?v=9jBgGY2Ww9Q
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  NITTER/X/TWITTER RECENTS:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Demonstrators in Tel Aviv are demanding Netanyahu's resignation.
+https://nitter.net/Sprinter99800/status/1715835662975316126#m
+
+>Lyon right now, gathering for Palestine en masse
+https://nitter.net/sahouraxo/status/1715820610486411345#m
+
+>Thousands of people pro-Palestinians rally in New York
+https://nitter.net/Sprinter99800/status/1715990321018876015#m
+
+>Los Angeles right now.
+https://nitter.net/sahouraxo/status/1715872983988748579#m
+
+>Washington DC became a hub of solidarity as thousands came together in protest
+https://nitter.net/callmekartikey/status/1716016221362307272#m
+
+>Pro-Palestine activists rally in Barcelona in support of Gaza.
+https://nitter.net/OnlinePalEng/status/1715094675546112324#m
+
+>More then 100000 people hit the streets of London in support of palestine
+https://nitter.net/warispathan/status/1715804145092010027#m
+
+>Place de la République, Paris, France
+https://nitter.net/DD_Geopolitics/status/1715061673239933332#m
+
+>When the US ambassador addressed the UN Human Rights Council, many attendees turned their backs in protest.
+https://nitter.net/zhang_heqing/status/1714890452661424626#m
+
+>Thousands of Greek citizens rallied in support of Palestine
+https://nitter.net/Sprinter99800/status/1714695868169748855#m
+
+>Thousands rallied in front of the US consulate in Toronto in solidarity with Palestine
+https://nitter.net/Sprinter99800/status/1716014712901525562#m
+
+>Amsterdam, a mass rally in support of Palestine
+https://nitter.net/Sprinter99800/status/1713650892946473214#m
+
+>Belfast, N. Ireland, massive rally for Palestine
+https://nitter.net/PAME_Greece/status/1713811843372732589#m
+
+>Dublin, thousands for Palestine
+https://nitter.net/AishMalik2023/status/1713233282551394760#m
+
+>Mass demonstration in Los Angeles
+https://nitter.net/Sprinter99800/status/1713585268110807409#m
+
+>gigantic protest for palestine going on down at michigan avenue
+https://nitter.net/north0fnorth/status/1713287209623634318#m
+
+>Palais Wilson Geneva, Switzerland
+https://nitter.net/DD_Geopolitics/status/1715804989682303308#m
+
+>Warsaw, Poland.
+https://nitter.net/DD_Geopolitics/status/1715844641269178519#m
+
+>Alicante, Spain
+https://nitter.net/DD_Geopolitics/status/1715868016649584982#m
+
+>gigantic protest for palestine going on down at michigan avenue
+https://nitter.net/north0fnorth/status/1713287209623634318#m
+
+>There are now a lot of protesters in The Hague with Palestinian flags.
+https://nitter.net/Sprinter99800/status/1714695094186434651#m
+
+>Milan, thousands in support for Palestine
+https://nitter.net/LuGuangMing/status/1713245221159334118#m
+
+>A large number of Spanish citizens gathered in the square in Madrid as a sign of support for Palestine!
+https://nitter.net/Sprinter99800/status/1712141055271874858#m
+https://nitter.net/Irruti/status/1713607524883091969#m
+
+>Lyon, thousands for Palestine despite the ban
+https://nitter.net/ReaActuelle/status/1713275258088693996#m
+
+>Clashes with the police in France
+https://nitter.net/BPartisans/status/1711705111439831130#m
+https://nitter.net/IsabelleDLV1/status/1713463007085232231#m
+https://nitter.net/DrJain21/status/1713220325163622581#m
+
+>Clasehs in Rome, the police prevented students from reaching the protest
+https://nitter.net/potere_alpopolo/status/1713129622097785128#m
+
+>Protest in Rome
+https://nitter.net/AlbertoFazolo/status/1713075863036539195#m
+
+>Naples
+https://nitter.net/potere_alpopolo/status/1712876765784178783#m
+
+>The largest march in the history of Jordan
+https://nitter.net/ToryFibs/status/1711807480991224009#m
+
+>Protestors in Jordan tried to reach the US embassy
+https://nitter.net/OSINTNic/status/1713306742262501655#m
+
+>Rabat, Morocco
+https://nitter.net/smith51_a/status/1713546675258610106#m
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OLD
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Baghdad, Iraq
 https://nitter.net/sentdefender/status/1714426637452800366

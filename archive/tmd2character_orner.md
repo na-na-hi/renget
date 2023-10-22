@@ -6,9 +6,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 8 | **Experience to Next Level:** 20/80
+**Level:** 8 | **Experience to Next Level:** 55/80
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 515₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -63,6 +63,7 @@ Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Training for Move: Aqua Tail | Tier ɪ | 1/3 | ▮▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description
@@ -70,15 +71,15 @@ Item Name | Description
 *Worn/Held Item: Eᴍᴘᴛʏ | Vacant worn slot.
 *Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Warp Seed | Random teleport seed.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Ban Seed | Disables the target's last move.
+3. Fog Orb | Makes the weather Foggy.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Encourage Seed | Never miss and increases Crit-Ratio stage by 1 for 4 turns.
+2. Encourage Seed | Never miss and increases Crit-Ratio stage by 1 for 4 turns.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

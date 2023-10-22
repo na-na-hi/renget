@@ -1,6 +1,6 @@
 ## CoT-style jailbreak addons for AI creativity and swipe variety
 
-**Every swipe is the same, or failing to push the story forward?** Leverage CoT-style prompts to boost AI creativity and swipe variety. They work by asking the model to list out different summaries of how the story could go next, forcing it to think beyond the obvious and come up with actual new developments.
+**Every swipe is the same, or failing to push the story forward?** Leverage *CoT-style* ([actual CoT here](https://rentry.org/lunarfrogs)) prompts to boost AI creativity and swipe variety. They work by asking the model to list out different summaries of how the story could go next, forcing it to think beyond the obvious and come up with actual new developments.
 
 Recommended for OAI and Claude.
 

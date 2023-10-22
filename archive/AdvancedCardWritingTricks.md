@@ -595,6 +595,25 @@ Here’s an example of generic card jailbreak you might use to implement CoT. Im
 
 The crucial part is ensuring reasoning occurs before any conclusion is reached.
 
+───── ⋆⋅☆⋅⋆ ─────
+
+**[Ms Keyes](https://www.chub.ai/characters/creamsan/ms-keyes-db4a4423)** makes use of CoT to allow Claude to perform a complicated mathematics task, and requires the user to set up a SillyTavern regex to hide the CoT text.
+
+  
+
+```
+<solving>
+- Here's how I'm going to solve the time difference
+- First, I'll convert the previous time and the current time
+- Previous time: 14:33:04 = 14*3600 + 33*60 + 4 = 52384
+- Current time: 14:33:35 = 14*3600 + 33*60 + 35 = 52415
+- Then take the difference of the times: 52415 - 52384 = 31
+- The final answer is 31 seconds
+</solving>
+```
+
+───── ⋆⋅☆⋅⋆ ─────
+
 One character which can be considered to use CoT is **[ALBAN](https://chub.ai/characters/frozenvan/9665872d-24b2-4362-85b3-5fea3da86dc8)**. You give him shitty fusion materials, he turns them into a weapon. This example dialogue encourages him to first think about what properties the materials have before coming up with the final weapon:
 
 `{{user}}: Here's some S tier material, Alban: paperclip, rubberband and some broccoli!`

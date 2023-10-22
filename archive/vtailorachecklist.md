@@ -65,7 +65,7 @@ Inukai Purin | X | - | X
 Hoshino Charlotte | - | - | -
 Umiushi Urara | - | - | -
 Yazaki Kallin | - | - | -
-Matsuro Meru | - | - | -
+Matsuro Meru | X | - | X
 Kirihime Ria | - | - | -
 Nini Yuuna | - | - | -
 Amemachi Hanabi | - | - | -
