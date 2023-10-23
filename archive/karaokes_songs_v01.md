@@ -24,6 +24,8 @@
 | Song | Link | Duration |
 |------|-----|-----|
 | Rebellion (1st Advent group orisong) | -> [![](https://files.catbox.moe/xutpuv.jpg)](https://www.youtube.com/watch?v=pYNYhSsR8EE) <- |3m48|
+| Halloween Night, Tonight! (English ver., 1st Advent group cover) | -> [![](https://files.catbox.moe/2t3pop.jpg)](https://www.youtube.com/watch?v=FqXrBy_FIU0) <- |3m45|
+
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
 

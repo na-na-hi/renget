@@ -352,6 +352,9 @@ noregが正則化無し、booru64がbooruサイトの画像64枚、nai64がNAI64
 
 Prompt: `<lora:mika_noreg:1>1girl, mika \(blue archive\), white capelet`
 Negative Prompt(共通): `lowres, bad anatomy, signature`
+
+再現度確認の参考に:[Danbooru検索「mika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=mika_%28blue_archive%29&z=5)
+
 使用モデル: NAI(fp16,pruned)
 ![Image](https://majinai.art/i/J96n2m0.webp)
 使用モデル: 自家製闇鍋マージモデル(NAI+Any4.5 MBW=BaseA, BaseA+Counterfeit2.5 MBW=BaseB, BaseB+NostalgiaClear MBW=完成品)
@@ -390,6 +393,35 @@ white capeletと衣装を指定したらすべていい感じに再現した。
 例:鳥獣戯画カエルをshs frogで学習すると、frogで普通のカエルが出なくなる。そこで、学習中に正則化画像として普通のカエルの画像を渡すことで問題を改善できる。
 
 つまり、学習対象だけ出てくればいいなら正則化は不要。
+
+***
+
+## 576pxだと学習が速いって本当かな
+オカルトでしょ？
+
+学習解像度が576ピクセルだと学習がかなり速く進むという迷信があるらしい。
+効果ないだろうけど検証。
+
+OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画像内で表示しているステップ数はbatch1換算。
+
+画像を右クリックして別タブで開くと見やすい。
+![Image](https://files.catbox.moe/mtv0zh.webp)
+ええと。。。ちな腕章にJという文字が書かれているはずだがうまく出ない。SD1.Xの限界。ヘイローが溶けてるのはいつものこと。
+再現度確認の参考に:[Danbooru検索「ichika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=ichika_%28blue_archive%29&z=5)
+
+\-
+![Image](https://files.catbox.moe/otyruz.webp)
+何が変わったのか、分かりません
+再現度確認の参考に:[Danbooru検索「koharu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=koharu_%28blue_archive%29&z=5)
+
+\-
+![Image](https://files.catbox.moe/zgd2sp.webp)
+エッチなのは駄目！死刑！
+再現度確認の参考に:[Danbooru検索「hinata_(blue_archive)」](https://danbooru.donmai.us/posts?tags=hinata_%28blue_archive%29&z=5)
+
+
+効果はなかった。知ってた。
+
 
 ***
 

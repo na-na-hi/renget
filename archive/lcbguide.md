@@ -292,7 +292,7 @@ The final level of a chapter. You go through a series of rooms in order to obtai
 **3. Mirror Dungeons**
 The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each one granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5. 
 
-Mirror Dungeon 2 Hard has its own separate Weekly Bonus that can be collected once a week. Without the bonus, you get the same rewards as MD2 normal. Completing MD2H allows you to collect all three Weekly Bonuses at once. This weekly bonus does not grant Lunacy.
+Mirror Dungeon 2 Hard (MD2H) has its own separate Weekly Bonus that can be collected once a week. This bonus does not grant Lunacy. Without the bonus, the cost and rewards are the same as MD2 normal. Completing MD2H allows you to collect all three normal Weekly Bonuses at once.
 
 Type | Module Cost | BP XP (No Bonus) | BP XP (Bonus)
 :----: | :----: | :----: | :----:

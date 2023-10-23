@@ -100,16 +100,17 @@ Nana Asteria | X | - | X
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
-	Yuko Yurei, Rin Penrose, Pochi Wanmaru, Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie
+	Yuko Yurei, Rin Penrose, Pochi Wanmaru (Old), Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Nikki Rei | - | - | -
-Lily Sin | - | - | -
-Emi Suika | - | - | -
-Neo Sparkles | - | - | -
-Juna Unagi | X | X | -
-Roca Rourin | X | X | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Nikki Rei | - | - | - | -
+Lily Sin | - | - | - | -
+Emi Suika | - | - | - | -
+Neo Sparkles | - | - | - | -
+Juna Unagi | X | X | - | -
+Roca Rourin | X | X | - | -
+Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updated lora will be necessary whenever more art/streams happen
 
 ## -> VOMS <-
 !!! info Available Loras without the need of updates and have been tested.

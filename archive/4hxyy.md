@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 331 - Frozen Queen Edition: https://desuarchive.org/trash/thread/60539942/
 Thread 330 - Kicking (and Fucking) Ass Edition: https://desuarchive.org/trash/thread/60476393/
 Thread 329 - Amorphibia Edition: https://desuarchive.org/trash/thread/60290865/
 Thread 328 - All Hail the Princess Edition: https://desuarchive.org/trash/thread/60193765/

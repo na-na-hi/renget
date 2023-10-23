@@ -410,6 +410,8 @@
 10/2023|[xVal: A Continuous Number Encoding for Large Language Models](https://arxiv.org/abs/2310.02989)
 10/2023|[An Emulator for Fine-Tuning Large Language Models using Small Language Models](https://arxiv.org/abs/2310.12962)
 10/2023|[Frozen Transformers in Language Models Are Effective Visual Encoder Layers](https://arxiv.org/abs/2310.12973)
+10/2023|[LoBaSS: Gauging Learnability in Supervised Fine-tuning Data](https://arxiv.org/abs/2310.13008)
+10/2023|[Quality-Diversity through AI Feedback](https://arxiv.org/abs/2310.13032)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.ph/QqKWF)

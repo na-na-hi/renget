@@ -1,9 +1,19 @@
 [ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
 Hot:
+[Primarina] https://archiveofourown.org/works/21445417
+[Rapidash] https://archiveofourown.org/works/21444880
+[Gardevoir] https://archiveofourown.org/works/21445507
+[Lopunny] https://archiveofourown.org/works/50821492
+[Zoroark] https://rentry.org/i96o7
+[Various studies] https://docs.google.com/document/d/1ni0fYdKi2TaQiKnC6yx1pM7nmG_KtGE0fn0XvKJOrR0/
 [Braixen] https://archiveofourown.org/works/49281094
 [Aegislash] https://desuarchive.org/trash/thread/59620775/#59703953
 Part 2: https://desuarchive.org/trash/thread/59620775/#59725330
 Part 3: https://desuarchive.org/trash/thread/59737890/#59802028
+Part 4: https://desuarchive.org/trash/thread/60048717/#60097610
+[WIP][Mew] https://desuarchive.org/trash/thread/59056192/#59187504
+Part 2: https://desuarchive.org/trash/thread/59825948/#q59859933
+Part 3 [No Pokephilia]: https://desuarchive.org/trash/thread/60048717#60068895
 [Lopunny][SFW] https://archiveofourown.org/works/50131117
 [WIP][Mew] https://desuarchive.org/trash/thread/59056192/#59187504
 [Deoxys] https://archiveofourown.org/works/49012456
@@ -18,7 +28,6 @@ Part 3: https://desuarchive.org/trash/thread/59737890/#59802028
 [Espathra] https://arch.b4k.co/vp/thread/53747197/#53760925
 [Spinda] https://rentry.org/be48q
 [Glaceon Alpha] https://desuarchive.org/trash/thread/55218379/#55268245
-[WIP?][Sneasler] https://desuarchive.org/trash/thread/54993156/#55095120
 [Dustox] https://www.fanfiction.net/s/11154009/125/The-Life-of-PokeSexuals
 [Deoxys] https://archiveofourown.org/works/22151044
 [Lokix] https://www.fanfiction.net/s/14191655/2/Uncommon-Lovers
@@ -41,6 +50,7 @@ Unfinished, unlikely to be continued:
 https://archiveofourown.org/works/43930024
 [Miltank] https://rentry.org/Miltank_story_thing
 [Machoke] https://archiveofourown.org/works/44083764/chapters/110843883
+[Sneasler] https://desuarchive.org/trash/thread/54993156/#55095120
 
 Various works archive:
 https://pastebin.com/jbe8xLuc

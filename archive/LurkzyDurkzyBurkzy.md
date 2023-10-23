@@ -1,74 +1,38 @@
-#-> lurkzn's Claude settings (v1.7 - 20 Oct)<-
+#-> lurkzn's Claude settings (ver. Reborn - 23 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
+!!! note 23 October
+	->Updated! It's not fully polished, but I've decided to share it anyways. Some bots that are formatted a specific way don't react well to my presets, so a few reswipes are needed to get the ball rolling.<-
+
+	->Also, I usually have to reswipe the first few responses in a new chat to guide Claude on how responses should be structured and 				formatted (Especially with asterisks utilization), more so if your card doesn't contain example messages. I find that as chats goes on, Claude picks up really well what it should and should not do. **The logs below all required 2-3 reswipes at the start, and maybe the occasional reswipe as 			the chat grows longer.**<-
 ***
 [TOC2]
 ***
 ```
 -----------------------------------------------------------------------------------------------------------------------
 Changelog:
-12 Oct - v1.3 is public. Wrote instructions that prevents Assistant from rehashing established aspects already written 
-in previous Assistant: responses within <chat>.
-
-13 Oct - v1.4. Adjusted "Manipulate 1" to identify the genre of the current scene, encouraging it to modify <objectives> to 
-better suit the identified genre. This theoretically should make the narration more in-tune with the scene (NSFW or SFW).
-Removed "Quick Coom" prompt item. Temp has been increased, however feel free to tune it down if it gets schitzo.
-
-15 Oct - v1.41. Very minor changes, aimed at minimizing how much Claude tries to advance the scene.
-
-16 Oct - v1.5. Further refinements in <objectives>, telling Assistant to focus on 1 or 2 micro scene advancements rather 
-than multiple, and then reinforcing this.
-
-17 Oct - v1.6. Added a NSFW enhancer prompt item that can be toggled on/off. 
-
-18 Oct - v̶1̶.̶6̶1̶.̶ ̶M̶i̶n̶o̶r̶ ̶r̶e̶f̶i̶n̶e̶m̶e̶n̶t̶s̶ ̶a̶n̶d̶ ̶c̶h̶a̶n̶g̶e̶s̶ ̶a̶i̶m̶e̶d̶ ̶a̶t̶ ̶b̶e̶i̶n̶g̶ ̶m̶o̶r̶e̶ ̶c̶r̶e̶a̶t̶i̶v̶e̶ ̶a̶n̶d̶ ̶N̶P̶C̶ ̶i̶n̶v̶o̶l̶v̶e̶m̶e̶n̶t̶.̶ ̶N̶S̶F̶W̶ ̶E̶n̶h̶a̶n̶c̶e̶r̶ ̶h̶a̶s̶ ̶
-b̶e̶e̶n̶ ̶m̶o̶d̶i̶f̶i̶e̶d̶ ̶i̶n̶ ̶a̶ ̶w̶a̶y̶ ̶t̶h̶a̶t̶ ̶w̶h̶e̶n̶ ̶e̶n̶a̶b̶l̶e̶d̶,̶ ̶a̶ ̶n̶e̶w̶ ̶p̶o̶s̶i̶t̶i̶o̶n̶ ̶a̶n̶d̶ ̶l̶o̶c̶a̶t̶i̶o̶n̶ ̶w̶i̶l̶l̶ ̶b̶e̶ ̶c̶h̶o̶s̶e̶n̶ ̶u̶n̶t̶i̶l̶ ̶{̶{̶u̶s̶e̶r̶}̶}̶ ̶e̶x̶p̶l̶i̶c̶i̶t̶l̶y̶ ̶m̶e̶n̶t̶i̶o̶n̶s̶ ̶
-c̶u̶mm̶i̶n̶g̶ ̶i̶n̶ ̶t̶h̶e̶i̶r̶ ̶r̶e̶s̶p̶o̶n̶s̶e̶.̶ Reverted to v1.6.
-
-20 Oct - v1.7. Cut down on token length. Moved NSFW Enhancer to the bottom to have
-more weight. Promising results so far <3
+23 Oct - Restructured my preset. 
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-##-> Preset (v1.7) <-
-!!! danger Important
-	-> Pausing for now, forgot to backup my old stable preset (used to create the logs below). Click below to download the older versions.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://youtu.be/dQw4w9WgXcQ?si=_KFEroXG6jUVaSS7)<-
+##-> Preset (ver. Reborn) <-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/g5aj7v.zip)<-
 ***
-##->Extras<-
-!!! note NSFW Enhancer
-	->Toggle on/off when appropriate to do so.<-
-Toggle | Response
-:----: | :----:
-![Enhancer](https://i.imgur.com/x8E3Kpt.png) | ![exampleNSFW](https://i.imgur.com/ryZnz1a.png)
-
+##->Logs (Updated 23 Oct)<-
 ***
-##->Logs (Updated 18 Oct)<-
-***
-###-> [Alice](https://chub.ai/characters/nikchemniy/alice-f1332e80) - By nikchemniy<-
-->![Card](https://avatars.charhub.io/avatars/nikchemniy/alice-f1332e80/avatar.webp?size=0.2542173419752862)<-
+###-> [Tao](https://chub.ai/characters/PotatoPun/tao-super-shy-da0c3846) - By PotatoPun<-
+->![Card](https://avatars.charhub.io/avatars/PotatoPun/tao-super-shy-da0c3846/avatar.webp?size=0.7943161606805664)<-
 
-->**Description**: Maid skilled in combat, trained to serve and protect you from monsters in a mansion. Many centuries ago, your family signed a pact and as a result of it, you have to live in a mansion with Alice by your side, serving and protecting you until you reach adulthood. All the while, monsters roam the mansion, intent on hunting you and Alice each night.<-
+->**Description**: A lonely girl who likes you but lacks the courage to speak up. She seems to always need some saving...<-
 
-->**Genres**: Fantasy, Romance<-
-->![Alice2](https://i.imgur.com/5Srkeul.jpg)<-
+->**Genres**: Wholesome, Shy<-
+->![Tao2](https://i.imgur.com/fT7JefK.jpg)<-
 ***
 
-###-> [Nina](https://chub.ai/characters/wanderingstar/nina-795f6cc1) - By wanderingstar<-
-->![Card2](https://avatars.charhub.io/avatars/wanderingstar/nina-795f6cc1/avatar.webp?size=0.9285436603871635)<-
+###-> [Amy](https://chub.ai/characters/tidbit/amy-5538c44a) - By tidbit<-
+->![Card2](https://avatars.charhub.io/avatars/tidbit/amy-5538c44a/avatar.webp?size=0.2738625062207949)<-
 
-->**Description**: You walk across Nina just as she is about to climb the railing to her death on a bridge.<-
+->**Description**: You accidentally find out your mom is addicted to gloryholes. Will you confront her, or will you ... ?<-
 
-->**Genres**: Suicide, Saviorfagging<-
-->![Nina2](https://i.imgur.com/ugjebHc.jpg)<-
-***
-
-###-> [Irina](https://chub.ai/characters/LewdAmI/irina-5c67a352) - By LewdAmI<-
-!!! note
-	->Uses the newly improved v1.61 NSFW enhancer add-on during sexual scenes<-
-->![Card3](https://avatars.charhub.io/avatars/LewdAmI/irina-5c67a352/avatar.webp?size=0.9152637994304207)<-
-
-->**Description**: You're about to pick up your date, but as she opens the door you can't help but note your classmate looks a lot like her 37-year-old mom in her daughter's school uniform trying to pass herself off as a teenager.<-
-
-->**Genres**: False Identity, Milfs<-
-->![Irina2](https://i.imgur.com/y3yHxuy.jpg)<-
+->**Genres**: Incest, Gloryholes<-
+->![Amy2](https://i.imgur.com/7GDqhgu.png)<-

@@ -142,6 +142,10 @@ Your initial message may contain actions or speeches for your character, which m
 **Q6: "AI loops and doesn't want to move story forward. Why?"**
 A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](#how-to-prevent-format-loops).
 
+If the AI continues to repeat the same paragraphs or seems to be copying and pasting previous responses, you may need to raise the temperature setting. For instance, in GPT, loop issues typically disappear when the temperature is set between 0.45 and 1.00. Keep in mind that my prompts are designed for use at higher temperatures, so they might not perform as expected at settings near 0.00.
+
+If the AI appears to be stuck in a loop of repeating the same words, it might be worth examining your Logit Bias setting. Values of 5 or higher will lead to loops.
+
 The other issue may be the "Ah, ah, mistress!" problem, your reply is just either moans, or "I continue doing what I am doing.",  "Continue." or even an empty message. AI just doesn't know how to proceed with the scene further. (Possible solution would be utilizing two LLMs (or separate agents) which work in tandem with each other, one creating context and one focusing on story itself with their own sets of instructions, but this is not possible in Tavern right now. LLama looks good for this purpose. Maybe.)
 #####
 **Q7: AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly it writes the story instead!)**
@@ -149,6 +153,13 @@ A7:  If you're trying to talk directly to GPT/Claude (not your character), turn 
 #####
 **Q8: Output style and narration feel a bit generic. Is there some way to change it?**
 A8: You can give AI some sources for inspiration for writing style like famous authors and games to inspire some action.
+#####
+**Q9: I'm tired of recurring GPTisms and Claudeisms!**
+A9: If you're using Claude, the only solution is to manually remove these quirks from the output and hope they don't reappear. If you're using GPT, try using Logit Bias. You can ban specific words by adding them with a space before the word (this is important!), like " echo", and assigning a value of -100. However, this may not work as you expect, as the AI might simply use synonyms instead. For example, if you ban the word *earlobe*, the AI might use *lobe of the ear*. If you add a new entry without a space like "booty" you will get: "Oh, wanna see my bootybootybootybootybootybootybooty..." or you'll start getting "booty" instead of "boots", or "rebooty" instead or "reboot", and so on. 
+#####
+**Q10: My character constantly repeats the same phrases and actions, even in new chats!**
+A10: Go to "Advanced Definitions" and delete all example dialogues. If your character is simple, it won't need them anyway. These dialogues are used as few-shot examples for the LLM and it tends to replicate them. If you think these examples are crucial for your character, move them to their descriptions, and put it in <speech examples><example-1></example-1><example-2></example-2></speech examples>, and delete inputs from user. This might help in your case.
+
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
 	If you are using my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](#persona-fix-after-update-to-st-10) manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
@@ -461,6 +472,7 @@ If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude an
 - - -
 - - -
 # 
+
 ## ![](https://files.catbox.moe/5eij7u.png) GPT PROMPTS
 # 
 - - -

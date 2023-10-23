@@ -11,6 +11,14 @@ https://desuarchive.org/tg/thread/90663876/#90675954
 https://rentry.org/KTH_Yasha
 >Ming Ming
 https://archive.4plebs.org/tg/thread/90676737/#90678460
+>Zheng Hao
+https://desuarchive.org/tg/thread/90686591/#90687745
+https://rentry.org/me76b
+>Nobu
+https://desuarchive.org/tg/thread/90686591/#90688350
+>Yexin
+https://desuarchive.org/tg/thread/90686591/#90689295
+https://rentry.org/KtHYexin
 
 #### Elders
 
