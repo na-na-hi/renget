@@ -50,6 +50,60 @@ https://www.youtube.com/watch?v=9jBgGY2Ww9Q
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  NITTER/X/TWITTER RECENTS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Warsaw, Poland.
+https://nitter.net/DD_Geopolitics/status/1715844641269178519#m
+
+>Alicante, Spain
+https://nitter.net/DD_Geopolitics/status/1715868016649584982#m
+
+>There are now a lot of protesters in The Hague with Palestinian flags.
+https://nitter.net/Sprinter99800/status/1714695094186434651#m
+
+>Milan, thousands in support for Palestine
+https://nitter.net/LuGuangMing/status/1713245221159334118#m
+
+>A large number of Spanish citizens gathered in the square in Madrid as a sign of support for Palestine!
+https://nitter.net/Sprinter99800/status/1712141055271874858#m
+
+>Lyon, thousands for Palestine despite the ban
+https://nitter.net/ReaActuelle/status/1713275258088693996#m
+
+
+>Rome, the police prevented students from reaching the protest
+https://nitter.net/potere_alpopolo/status/1713129622097785128#m
+
+>Protest in Rome
+https://nitter.net/AlbertoFazolo/status/1713075863036539195#m
+
+>The largest march in the history of Jordan
+https://nitter.net/ToryFibs/status/1711807480991224009#m
+
+>Protestors in Jordan tried to reach the US embassy
+https://nitter.net/OSINTNic/status/1713306742262501655#m
+
+>Rabat, Morocco
+https://nitter.net/smith51_a/status/1713546675258610106#m
+
+>London
+https://twitter.com/hzomlot/status/1713165378648420652 (embed)
+
+>Stockholm.Packed
+https://nitter.net/NimaTavRood/status/1713200534151119128#m
+
+>Protesters scale Sheffield town hall to remove Israeli flag
+https://nitter.net/prisoner16670/status/1713103553709867439#m
+
+>Thousands of protesters rallied in Dublin, Ireland
+https://nitter.net/thatdayin1992/status/1713270869697434089#m
+
+>Hundreds of Anti-Zionist Jews clashed with Zionist Israeli police
+https://nitter.net/TorahJudaism/status/1712036949412700526#m
+
+>Zionist Israeli police raided a synagogue
+https://nitter.net/TorahJudaism/status/1712085221267439978#m
+
+>"In China, social media is bursting with support for Palestine — and blame for Washington"
+https://nitter.net/moghilemear13/status/1711932533384814783#m
 >Demonstrators in Tel Aviv are demanding Netanyahu's resignation.
 https://nitter.net/Sprinter99800/status/1715835662975316126#m
 

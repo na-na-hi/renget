@@ -24,6 +24,7 @@
 [AI Explained](https://www.youtube.com/@ai-explained-)|General AI news with well sourced links (Youtube) 
 [Dr Alan D Thompson](https://www.youtube.com/@DrAlanDThompson)|Model reviews and AGI insights (Youtube)
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
+[Awesome ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 [LocalModelsLinks Archive](https://archive.ph/f8UGT)|From before 09/2023 cleanup  
 |

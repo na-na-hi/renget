@@ -18,18 +18,18 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Planewalker](https://rentry.org/planewalker) | Misc |[Chad](https://files.catbox.moe/fp2j61.png), [Marshal](https://files.catbox.moe/qsuie0.png), [Jonah](https://files.catbox.moe/wern01.png)|
+[Luneose](https://rentry.org/luneose) | Misc |[Ji-hoon](https://files.catbox.moe/0hzglh.png), [Rory](https://files.catbox.moe/mrh4jy.png)|
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png), [Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Chad](https://files.catbox.moe/fp2j61.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Glommer](https://files.catbox.moe/204br6.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV], [SCP-8901](https://files.catbox.moe/9kdg8b.png)
+[Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV]
 [GGR89](https://rentry.org/ggr89) | Misc |[Scarlet](https://files.catbox.moe/l269t5.png)|
 [Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png)|
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Rory](https://files.catbox.moe/mrh4jy.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kuri](https://files.catbox.moe/frjktt.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Renpet](https://files.catbox.moe/gafcxt.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Eudora](https://files.catbox.moe/qm7a6d.png)|
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Marcy](https://files.catbox.moe/p70oyr.png), [Dr. Francis Malford](https://files.catbox.moe/rek9sv.png), [Dr Francine Mallow](https://files.catbox.moe/zs3pyp.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Marcy](https://files.catbox.moe/p70oyr.png), [Dr. Francis Malford](https://files.catbox.moe/rek9sv.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Phihoria](https://files.catbox.moe/07gn9i.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Charlie](https://files.catbox.moe/5c14cu.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)

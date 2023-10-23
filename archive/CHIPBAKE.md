@@ -47,7 +47,9 @@ https://rentry.org/TKDTJD
 https://rentry.org/TKDCHIP
 
 ▶RECENT:
-\>Israel drops leaflets warning residents of North Gaza to LEAVE the North before they WIPE region out
+\>Netanyahu: Vision of not entering Gaza by land
+\>25 hospitals told to evacuate
+\>Israel drops leaflets warning residents of N. Gaza to LEAVE the North before they WIPE region out
 \>Aid trucks enter Gaza via with opened Egypt border; US warns 'potentially chaotic' situation
 \>White House asks Congress for $106 billion for Ukr. and Israel
 \>Israel bombs church 40+ killed

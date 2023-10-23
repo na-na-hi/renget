@@ -72,6 +72,6 @@ Skipper the Froakie's exclamation tell you that this is also his mother. But why
 Back to bothering Kleavor once again, you discover a "Detective Croagunk" loitering in the general area. He's in town to seek aid in bringing a criminal explosives enthusiast Frogadier to justice! After being accompanied to an underground cavern lake, you quickly find that its passages are trapped with bombs, ready to go with hair triggers. In the end of a dicey, spiky, and bomb-y encounter, you successfully apprehend the criminal, handing them off to Detective Croagunk. You've left an impression... perhaps you'll see more bounties in the future.
 
 !!! (10/14/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #04 Watcher's Reverie
-Instead of 
+Deep in your dreams, you find yourself somewhere you don't quite recall. A familiar voice has called out to you, flanked by the calming green ambiance. 
 
 !!! (10/17/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #05 The Foreshore Turnabout

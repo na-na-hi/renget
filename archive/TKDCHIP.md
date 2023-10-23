@@ -369,3 +369,10 @@ https://files.catbox.moe/p0ocqw.mp4
 https://files.catbox.moe/dhttz1.mp4
 >Heroic Hamas Compilation Vid. (Added Oct. 21st)
 https://files.catbox.moe/fjjdsy.mp4
+>Pissreal demands 25 hospitals evacuate- they're going to bomb them, footage from Al-Quds hospital  (Added Oct. 22d)
+https://files.catbox.moe/r3tod0.mp4
+https://files.catbox.moe/lmc6op.mp4
+https://files.catbox.moe/5pj8hv.mp4
+https://files.catbox.moe/7p6ptb.mp4
+>The occupation warplanes senselessly and indiscriminately bomb Gaza in the middle of the night. (Added Oct. 22d)
+https://files.catbox.moe/7gr3dw.mp4

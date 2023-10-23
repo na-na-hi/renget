@@ -2,8 +2,9 @@
 ->![ARSWD01](https://files.catbox.moe/4hc8by.png) **زحف/ – عملية طوفان الأقصى/** ![ARSWD01](https://files.catbox.moe/4hc8by.png)<-
 
 -> ![Official Seal of /chip/](https://files.catbox.moe/i535ib.gif) <-
-
-[TOC2]
+***
+!!! info **Index:**
+	[TOC2]
 Updates by: 
 >![Zibbi](https://files.catbox.moe/swlivu.gif)
 
@@ -50,7 +51,8 @@ Updates by:
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
-	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
+	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)
+	>>->![catbox](https://files.catbox.moe/5unkhj.webp) ![videoicon](https://files.catbox.moe/6w618s.png) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/g4x99j.mp4)** ![videoicon](https://files.catbox.moe/6w618s.png) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Alnadha Betlageena - Whenever It's the Call, You Will Find Us](https://youtu.be/DhIp5jWViG8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
@@ -66,7 +68,7 @@ Updates by:
 !!! warning ==**OP Template updates and adding recent news:**==
 	>Always include recent news and happenings in the (▶RECENT) section of the OP, also note that the character limit of the OP is **2000 letters/characters**, if you struggle with adding/including recent news, feel free to **delete/remove old news** to make sure the OP body does not exceed/go beyond the 2000 character limit.
 
-==**/chip/ - Comfy Happening in Palestine #**==
+**Subject:** ==**/chip/ - Comfy Happening in Palestine #**==
 
 Previous Bread: 
 

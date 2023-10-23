@@ -54,7 +54,7 @@
 |2023-10-06|[![【L4D2】Advent's Return To The Apocalypse 🎼 ](https://i.ytimg.com/vi/GQIPoEZZrHQ/mqdefault.jpg)](https://www.youtube.com/watch?v=GQIPoEZZrHQ)|[Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou & [FUWAMOCO](https://www.youtube.com/watch?v=0GnRDoCXr3E)|~2h18|Advent Fullgen Collab|
 |2023-10-15|[![【FOREWARNED】Hunting some mummies with Advent 🎼 ](https://i.ytimg.com/vi/sSupOKbXDoY/mqdefault.jpg)](https://www.youtube.com/watch?v=sSupOKbXDoY)|[Shiori](https://www.youtube.com/watch?v=clUGpl3XsF4), [Bijou](https://www.youtube.com/watch?v=jzODJXLx2H4) & [FUWAMOCO](https://www.youtube.com/watch?v=xGKQea7zrDI)|~2h11|Advent Fullgen Collab|
 |2023-10-16|[![【GIRLS NIGHT】Having a sleepover with Reimu~ 🎼 ](https://i.ytimg.com/vi/CoEtGz415AU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=CoEtGz415AU) |Reimu Endou|~2h09|1-on-1 Collab \| 3rd outer Hololive collab|
-|2023-10-21|[![【Labyrinthine】2 girls 1 maze w/ @ShioriNovella 🎼 ](https://i.ytimg.com/vi/LlmQoVZ9xAU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=LlmQoVZ9xAU) |[Shiori](https://www.youtube.com/watch?v=_-ZLujLTt5s)| TBD |1-on-1 Collab|
+|2023-10-21|[![【Labyrinthine】2 girls 1 maze w/ @ShioriNovella 🎼 ](https://i.ytimg.com/vi/LlmQoVZ9xAU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=LlmQoVZ9xAU) |[Shiori](https://www.youtube.com/watch?v=_-ZLujLTt5s)| ~2h50 |1-on-1 Collab|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

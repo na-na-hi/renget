@@ -33,8 +33,8 @@ https://www.mediafire.com/file/mxwvu6vqu2zvck3
 >Advanced Crafting and Resource Management
 https://www.mediafire.com/file/zbd24pyqk1mnqpo/Advanced_Crafting_and_Resource_Management.pdf/file
 
->Colonies by Shas'o
-https://anonfiles.com/j9Hcc5eby8/Colonies_pdf
+>Colonies 3.0 by Shas'o
+https://www.mediafire.com/file/o8ohtyr51bqa2cl/Colonies+V3.pdf/file
 
 >Gene Mods and Adeptus Biologis Rules for Dark Heresy 2e
 https://drive.google.com/open?id=1j3cQmvfrXXOQY_-BU6L8-cE0yEWiQAMp

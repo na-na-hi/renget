@@ -142,7 +142,6 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 477 | BunnyChasers | Open as of 14/10
-2496 | AbydosCycling | Open as of 10/10
 6098 | Comfy | Open as of 16/09
 
 ##### Full
@@ -153,6 +152,7 @@ Club ID | Club Name | Club Status
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
+2496 | AbydosCycling | Full as of 22/10
 4722 | JointRaid | Full as of 03/02
 6289 | FlatIsJustice | Full as of 30/09
 

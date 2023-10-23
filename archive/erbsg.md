@@ -1,7 +1,7 @@
 #/erbsg/ - Eternal Return: Black Survival General
 
 \>What is this?
-Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 1 started August 3rd, 2023.
+Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 1 finished October 25th, 2023. 
 
 \>Steam Link
 https://store.steampowered.com/app/1049590/Eternal_Return/

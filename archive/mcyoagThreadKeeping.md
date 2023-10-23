@@ -25,32 +25,54 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 Page 1
 ***
 ```
->DISCIPLES
->Yasha, who really looked like a Kamen Rider until I opened the image
->>90675954
+Rentry: https://rentry.org/KTHSWEEP (edit code: ihatetribulationlightning)
+Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 
-The other students are late to class. Shame! Shame!
+>DISCIPLES
+>Yasha
+>>90675954
+>Ming Ming
+>>90678460
 
 >ELDERS
->The Boneless Old Man, Man with no Bones
+>The Boneless Old Man
 >>90673589
->Dong Do, who is a fish.
+>Dong Do
 >>90674074
->Xiu Yi, Hot Woman (literally)
+>Xiu Yi
 >>90674739
->Guan Chāo, The Unclean One
+>Guan Chāo
 >>90674970
->Gyldenwulf, The Northern Scourge
+>Gyldenwulf
 >>90675021
->Huang Yu, Bald Barely-Buddhist
+>Huang Yu
 >>90676526
+>Shu Luxing
+>>90678374
+>Moriko
+>>90678657
+>Morgain Blackheart
+>>90680439
+>Jian
+>>90680789
+
 
 >ANCESTORS
->Xū, whose title I will not repeat
+>Xū
 >>90675031
+>Shu Shihan
+>>90678581
+>Magikarp
+>>90681699
 
-The rest of the ancestors are asleep. The elderly need their rest.
-
+```
+***
+Page 2
+***
+```
+>WRITEFAGS
+>First Fight (Gyldenwulf)
+https://rentry.org/FirstFight
 ```
 
 #MHA

@@ -49,6 +49,8 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/v5tml2.png) | Rusty | A well meaning but misguided troublemaker spouting Team Plasma slogans. Set in the Pokémon universe (duh). | [Catbox link](https://files.catbox.moe/v5tml2.png)
  ![](https://files.catbox.moe/7bzehl.png) | Jasper | Your friendly rival. Multiple greetings allow you to choose between starting your journey together, meeting up after being trainers for some time, or meeting him for the first time. | [Catbox link](https://files.catbox.moe/7bzehl.png)
  ![](https://files.catbox.moe/qfn2dl.png) | Amber | Your friendly rival. Multiple greetings allow you to choose between starting your journey together, meeting up after being trainers for some time, or meeting her for the first time. | [Catbox link](https://files.catbox.moe/qfn2dl.png)
+ ![](https://files.catbox.moe/y7jutw.png) | Kamui | Your asshole rival. Multiple greetings. | [Catbox link](https://files.catbox.moe/y7jutw.png)
+ ![](https://files.catbox.moe/ko45uy.png) | Yvette | Your asshole rival. Multiple greetings. | [Catbox link](https://files.catbox.moe/ko45uy.png)
 
 ###Standalone male bots
 Each has his own story and personality

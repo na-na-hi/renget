@@ -1,5 +1,5 @@
 # Writefag anon's Holoctober written prompts version
-## Currently feeling ill, will continue when I recover and catch up on everything.
+## Currently catching up, will be caught up before October is over.
 ***
 [TOC2]
 
@@ -816,3 +816,62 @@
 >You now have a demon girl clinging to you, while an angel girl is holding your hands
 >Both are leading you to a special place
 >But, what is your decision? What do you choose?
+
+***
+
+## Day 16 + 21 - Sport + Swimsuit Shiori
+
+>Shiori is in the change rooms, putting on her swimsuit
+>It's kinda tight around her chest, but she doesn't particularly mind
+>You sit at the audience stands, at the front, waiting for Shiori to show up.
+>Finally it's her turn, she waves towards the audience stands, towards you, her eyes lock with yours for a brief moment
+>You clap for her, it's only you and her there but you're there to teach her better anyway
+>You get a whistle and blow into it, on your signal Shiori dives into the pool
+>She starts with a backstroke, followed by a breaststroke, then she moves on to freestyle and lastly butterfly.
+>You notice that she's struggling with some of the swimming styles, so you blow your whistle and call for her.
+>She swims up to the edge, where you walk up and crouch down.
+>You begin to note down the things she can improve on.
+>She then tries again, listening to your advice, however it seems she's still struggling a little.
+>You decide to help her, getting into the water with her.
+>You stand with her as she's floating on her back, resting your hands on her stomach, you begin to guide her along as she tries to swim.
+>As she swims, you notice her giggling a little, your hands on her stomach are tickling her it seems.
+>She keeps giggling then starts to stop, now standing in the pool with you.
+>"Thanks for helping me out, usually I'm the one helping you with things but this time you got me covered."
+>You feel a tinge of red on your cheeks, looking at her as she smiles back at you.
+>You dive in the water to hide your blush, she decides to dive in with you, as she does however you notice a part of her upper body exposed
+>This sudden exposure only serves to leave you feeling hotter, as she comes up, this time her arms covering her chest
+>"You didn't see, right?"
+>You don't answer, responding with a simple shake of your head
+>She hits your head with her hand like a chop, her face also tinged red now
+>"Stupid!"
+>The two of you step out of the pool shortly after, resting at one of the benches near the pool-side.
+>There she rests her head on your shoulder.
+>"Hey, why'd you decide to coach me on this? I could have done another sport instead like Badminton, or Chess, or even Fencing."
+>You look at her, your gaze slightly going down, even if it were unintentional.
+>"Ohhh, you just wanted to see me in this swimsuit didn't you? Well you got your little underwater 'slip', perv!"
+>She giggles as she says this, clearly not upset with you over the whole thing.
+>The time goes by, the two of you sitting together recuperating, before she stands up.
+>"Alright Coach Anon! This time for sure!"
+>You stand up with her, impressed by her sudden surge of confidence
+>A cheeky grin crosses her face, as she suddenly pushes you into the pool then jumps in next to you.
+>You fall in, it was so sudden you had no time to think, but Shiori's always been a little gremlin like this sometimes.
+>You scramble for your whistle, then you blow on it
+>Shiori begins to swim in different styles again, beginning with butterfly and backstroke.
+>This time she seems to be doing better.
+>You clap for her as she performs a final freestyle swim.
+>Satisfied with herself, she pulls you in a little
+>"Let's swim a little together, coach Anon"
+>There the two of you begin to swim together, though you're capable of outswimming her, you decide it's best to just keep up with her.
+>She really seems to be enjoying her time swimming with you.
+>Finally the back lights switch on, signaling that it's getting late.
+>The two of you step out of the pool once again, where this time she reaches over and grabs your hand.
+>"I'm gonna get better at this, so you don't have to pity me by slowing down for me, you'll be so proud of me and I'll get lots and lots of headpats, right?!"
+>The look on her face is practically begging for praise, she wants to be praised for her efforts
+>You reach over and gently pat her head, giving her the praise she wants
+>She playfully slaps your hand away, a slight tinge of red on her cheeks as she does, however this only means she wants more
+>You pat her head again, this time she pouts a little, but allows for it to happen.
+>She's still got some ways to go for swimming, but the progress she's made is wonderful to see.
+
+***
+
+## Day 17 - Idol Shiori
