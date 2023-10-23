@@ -1288,6 +1288,23 @@ Japanese Kimono Kemono
 
 	https://files.catbox.moe/ij2gmt.safetensors
 
+# Cream the Rabbit (Sonic)
+https://civitai.com/models/166801
+
+>I am helping a friend test their new LORA. He is doing a v2 of one he released early last week. Does anyone want to beta test with me?
+>he said it was ok to share this and that he is working on an SDXL version soon.
+
+Trigger word: "Cream The Rabbit"
+
+Helpful Prompt: "Cream The Rabbit, 1girl, solo, orange_dress, blue_necktie, orange_and_yellow_shoes, white_socks, white_gloves, gold_buttons, white_collar"
+
+	Catbox: https://files.catbox.moe/rp6m91.safetensors
+	CivitAI DL: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
+
+# The フギミ LoRA Collection
+
+	https://rentry.org/83o5t
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

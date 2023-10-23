@@ -48,6 +48,7 @@ Crohasit | crohasit-net | **Unethical conduct**: (*Terrible regulation, and the 
 Descarga Game | descargagame-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 Game3rb | game3rb-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 GamesTorrents | gamestorrents-fm | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+GOG Unlocked | gogunlocked-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 IGGGames | igg-games-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 NexusGames | nexus-games-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 nosTeam | nosteamgames-ro | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).

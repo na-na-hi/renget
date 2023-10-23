@@ -1,4 +1,4 @@
-# TMD 2 v1.00 World Lore
+# TMD 2 v1.23 World Lore
 ->Information here is regarded as what you need to know to understand the world at large and to create a functional backstory for native characters. There might also be some information for Ex-Humans, too.<-
 ->This is collaborative and subject to experience changes at any time.<-
 ->![Just who is ZAP GAK?](https://cdn.imgchest.com/files/l7lxc6qk97o.png)<-
@@ -217,6 +217,9 @@ Strange areas that are found all around the world. This seems to be a location w
 - The limit of those who can enter a dungeon at the same time is four, as any more than that causes the dungeon to become unstable to traverse. It might even split the group! If you've gone in as a team of five, there's a chance one of you might get separated into a parallel dungeon!
 - Multiple teams can enter a dungeon at the same time, however, this creates a parallel dungeon between them. Each group (should they be subscribing to the limit of four) will find themselves in unique versions of the same dungeon. Only when the influence of the dungeon wanes can they regroup.
 - However, there is an exception to this. Pokémon who are trapped or outlaws being hunted can be tracked and marked on a paper (known as a job request), which allows a single team to enter the same instance of their dungeon without being moved to a parallel space. They still need to venture to the same dungeon "depth" to find the target, regardless.
+
+**Wonder Orbs and Wonder Seeds**
+Strange orbs that contain writhing power within, once shattered, unleash a variety of unknown effects. Similarly, weird seeds of similar, but discernible shapes act with a multitude of consumable effects. These are only found within the confines of the Mystery Dungeon, and have so far been unable to be replicated outside of the ever-changing walls.
 
 **Rescue and Job Requests**
 When a Pokémon gets lost or trapped in a dungeon, they don't have to worry about bringing a pen and paper to write a request for help... and then somehow get it out to a guild. Handled by the Guild League, they have a group of Psychic-Types and Fairy-Types scanning the areas to contact trapped individuals and send out job requests on their behalf. Usually they discuss rewards to entice a faster rescue, but sometimes they cannot keep a stable or safe conversation, so sometimes a job might have a reward listed as: "Reward Unknown."

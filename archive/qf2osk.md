@@ -2,9 +2,10 @@
 
 >[Go back to the Main Page](https://rentry.org/46mci)
 ***
->horse girl = 2,725 | jorse girl = 445 |  jorse jirl = 17 | wolf girl = 120 | jolf girl = 2
+>horse girl = 2,909 | jorse girl = 467 |  jorse jirl = 20 | wolf girl = 128 | jolf girl = 2
 Stream | horse girl | jorse girl  | jorse jirl | wolf girl | jolf girl
 --- | --- | --- | ---  | --- | ---
+『2023-10-22』 - 【MEMBERS ONLY】Drawing for Owl Pals !!! (Struggling Artist RP) [j2tzTTF-SL4]     | 184 |  22   |  3   |   8  |  
 『2023-10-20』 - 【WOLFQUEST】my lady and my babies [_T6Vrsv_FHg]  |  15   |  9   |     |   8  |  
 『2023-10-19』 - 【DOOM】Let's Doo Doo Doo This Again [HFkddywOFW0]    |  1   |     |     |     |  
 『2023-10-18』 - 【ホロのスイカ 】Wow ! Look At This New Game ! [Do4BDtHWRic]  | 39    |  5   |     |     |  
@@ -453,3 +454,6 @@ Stream | horse girl | jorse girl  | jorse jirl | wolf girl | jolf girl
 『2021-08-27』 - 【CONSTRUCTION SIMULATOR 2015】What am I doing #holoCouncil [rbiOz1mPJlI]	
 『2021-08-24』 - 【JOURNEY】Where are we going #holoCouncil [wNMW87foNAI]
 『2021-08-22』 - 【DEBUT STREAM】Oh OH! #holoCouncil #hololiveEnglish [M2gwJ-7s0Zo]
+
+***
+[Go back to the Top](https://rentry.org/qf2osk)

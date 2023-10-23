@@ -36,6 +36,7 @@ https://www.mediafire.com/folder/c90lnzns0ytjg/Guide
 If you encounter a character that doesn't import its rigging on Blender, post it on the thread and I'll fix it if I'm around. I am not sorry about the huge images and FUCK imgur.
 ***
 ## -> CH#### Chibi and/or Portrait Character List <-
+CH0058 = Swimsuit Hifumi + Tank
 CH0060 = Swimsuit Tsurugi
 CH0061 = Swimsuit Mashiro **(Does not import correctly on Blender, Fixed version in the mediafire folder)**
 CH0063 = Swimsuit Hina
@@ -46,11 +47,11 @@ CH0070 = Seia CoominDoom **(Portrait Only)**
 CH0071 = Ichika
 CH0079 = Makoto **(Portrait Only)**
 CH0080 = Satsuki **(Portrait Only)**
-CH0089 = Kasumi
 CH0081 = Sena
 CH0086 = New Years Kayoko
 CH0087 = New Years Haruka
 CH0088 = Megu
+CH0089 = Kasumi
 CH0092 = Swimsuit Nonomi
 CH0095 = Noa
 CH0098 = Bunny Asuna
@@ -136,13 +137,16 @@ CH0228 = Yakumo **(Portrait Only)**
 CH0229 = Takane **(Portrait Only)**
 CH9999 = Miku
 ***
-## -> Chibi NPCS <-
+## -> Chibi NPCS or Portraits <-
 Kaito_Trinity_HG = Akira
 Police_Valkyrie_SG = Shotgun Cop Mob
 Komakaze_Helmet_SG = Rabu
 npcs-np0144 = JTF Mob
 EN0001 = Phrenapates
 EN0002 = Shiroko (Terror)
+NP0032_spr = Aoi **(Portrait Only)**
+NP0040_spr = GSC President **(Portrait Only)**
+NP0090_spr = Sakurako (Leotard) **(Portrait Only)**
 
-Anyone else not listed can be found by searching the character's name within the game's files or has not been added to this list yet. These are the ones I have looked into so far.
+#**Anyone else not listed can be found by searching the character's name** within the game's files or has not been added to this list yet. These are the ones I have looked into so far.
 -> ![Cute NMGK](https://files.catbox.moe/8gndgg.png) <-

@@ -104,7 +104,7 @@ Lists seem to work better than plain text separated by dots when giving instruct
 - *Describe {{char}}'s breasts in great detail, creativity and excrutiating specificity*
 - etc.
 
-These instructions massively modify {{char}}'s response, akin to an OOC: sentence. 
+These instructions massively modify {{char}}'s response, akin to an OOC: sentence. This is the place to experiment adding different instructions to the model, like focusing on fetishes, onomatopoeias, ~~aspects of youth~~ or aggressive behaviours, have fun.
 The secret lies on what specific words to use to lead the AI's response in certain ways, for example look at this [masterpiece](https://dumb.one/gpt/prompts-scraped/dl-unlock-words-2020.md) (I suggest you to play with these a lot)
 
 #### Hide <thinking>

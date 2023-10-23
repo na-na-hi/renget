@@ -867,7 +867,7 @@ There are five in total across the campaign world, however, only four are access
 	- A capital situated in an impenetrable mountain fortress, Rantrum was forged through conquest and strength: the epitome of what it means to be Pokémon.
 		- Funding: 3 per each Summit.
 		- Stability: 35 (Low)
-		- Monpower: 20
+		- Monpower: 30
 - Ho'oha
 	- A flying temple that symbolizes life and rebirth, famous for its lively celebrations and strong culture. Priests wield significant power as they represent Ho-Oh.
 		- Funding: 5 per each Summit.
@@ -875,6 +875,6 @@ There are five in total across the campaign world, however, only four are access
 		- Monpower: 15
 - Ava-lu Empire
 	- Ruling over the waters and with the capital built upon the waters, Ava-lu rivals Liokio as the economic power of the world. They have an impressive navy, too!
-		- Funding: 2 per each Summit.
+		- Funding: 6 per each Summit.
 		- Stability: 50 (Stable)
 		- Monpower: 25

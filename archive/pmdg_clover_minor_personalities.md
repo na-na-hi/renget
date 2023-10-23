@@ -145,3 +145,8 @@ Sex: Male
 >likes: hurtin people, bein badass, motorcycles, nine inch nails (the band), killing, death, punk rock, jinco jeans, skulls, darkness, hot gardevoirs with big boobys who are sluts, ninne inch nails (on finger), earings, red(cool kind not gay kind)
 >dislikse: niceness, happiness, levis, zorua from the guild fuck you zorua stop showin everyone my fuckin deviantart you peace of shit, trent razner, short nails, zoruaguy666 (mega ass-faggot), sunshine, life, my dad, football
 >His real name is Cletus. He refuses to acknowledge it and has instead taken on the name of his epic Black Lucario OC.
+
+####Lliam
+>The Clover Guild Master of the Clover Guild. Mostly stays in the homebase doing office work.
+>He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. 
+>He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it.

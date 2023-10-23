@@ -40,7 +40,7 @@ Follow the installation in the docs.
 To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
 
 #Robust Archiver (ytarchive alternative)
-Last Updated: 10/14/23 (mm/dd/yy)
+Last Updated: 10/22/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Edge)
@@ -326,10 +326,10 @@ class ArchiveConfig:
             "\t0: Don't update any modules for me.",
             "\t1: Only update yt_dlp and chat_downloader modules for me.",
             "\t2: Update all modules for me. (yt_dlp, chat_downloader, python-slugify, and schedule)"]),
-        ConfigItem("SCANNER", "streamers", "NanashiMumei",
+        ConfigItem("SCANNER", "streamers", "NanashiMumei,NerissaRavencroft",
                    ["List the @Name for YouTube streamers you want to archive.",
                     "Exclude the @ prefix in your response.",
-                    "Examples: (Default is NanashiMumei)",
+                    "Examples: (Default is NanashiMumei,NerissaRavencroft)",
                     "\tNanashiMumei\n\tNanashiMumei,NerissaRavencroft\n\tKosekiBijou,ui_shig,penguinz0"],
                    lambda x: "".join(x.split())),
         ConfigItem("SCANNER", "streamtimer", "1", ["How many minutes would you like between each scan for new streams?",
@@ -440,6 +440,8 @@ class CookieManager:
 
     def test(self):
         if self.testid == "no":
+            if self.testid != self.cfgs.testid:
+                self.cfgs.update_id(self.testid)
             return False
         try:
             ydl_opts = {
@@ -501,6 +503,8 @@ class CookieManager:
 
 
 def modUpdater(x):
+    if x == 0:
+        return
     pkgs = ['yt_dlp', 'chat_downloader']
     if x == 2:
         pkgs += ['python-slugify', 'schedule']

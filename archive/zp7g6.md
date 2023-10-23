@@ -1,8 +1,15 @@
-# The フギミ LoRA Collection
+# The フギミ LoRA Collection - NAI
 
 This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA). Anything linked below can also be found through this main link. ==Only a .safetensors file is needed to use any LoRA==. Extra info can be found in the metadata or other files provided alongside the .safetensors file.
 
-**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 11 2023*
+**[Changelog](https://pastebin.com/0nW739JH)** *last updated October 23 2023*
+
+## Rentry Index
+
+**NAI** ← You are here
+[Furryrock](https://rentry.org/83o5t)
+
+## Table of Contents
 
 [TOC]
 

@@ -49,9 +49,9 @@ https://rentry.org/TKDCHIP
 ▶RECENT:
 \>Netanyahu: Vision of not entering Gaza by land
 \>25 hospitals told to evacuate
-\>Israel drops leaflets warning residents of N. Gaza to LEAVE the North before they WIPE region out
-\>Aid trucks enter Gaza via with opened Egypt border; US warns 'potentially chaotic' situation
-\>White House asks Congress for $106 billion for Ukr. and Israel
+\>Israel drops leaflets warning N. Gazans to LEAVE the North before they WIPE region out
+\>Aid trucks enter Gaza via opened Egypt border; US warns 'potentially chaotic' situation
+\>W. House asks Congress for $106 billion for Ukr. and Israel
 \>Israel bombs church 40+ killed
-\>Hospital bombed, 500+ killed. IDF JDAM used.
-\>Please donate for TKD https://humanappeal.org.uk/
+\>Hospital bombed, 500+ killed. IDF JDAM
+\>Donate for TKD https://humanappeal.org.uk/

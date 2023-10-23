@@ -90,7 +90,7 @@ Now that you're in the main menu screen, perform the following loop.
 
 1. Claim Lunacy and tickets from your mailbox.
 2. Claim Lunacy from beating the prologue.
-3. Do two 10-rolls on the New Manager's Welcome Extraction banner, and another tenner on any other banner.
+3. Do two 10-rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it.
 4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam.
 5. If you want to reroll: click settings\->account\->close account button.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
