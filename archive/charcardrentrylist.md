@@ -18,6 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Eudora](https://files.catbox.moe/11d0mj.png)|[Eudora](https://files.catbox.moe/11d0mj.png) [MV]
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Blimpsey](https://files.catbox.moe/ez5cyt.png), [Marcy](https://files.catbox.moe/p70oyr.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Lyxra](https://files.catbox.moe/15k2vg.png)|
+[Nono](https://rentry.org/NonoRoom) | Misc |[The Idol Show](https://files.catbox.moe/8prvkc.png), [Phihoria](https://files.catbox.moe/07gn9i.png)|[The Idol Show](https://files.catbox.moe/8prvkc.png) [MV]
 [Luneose](https://rentry.org/luneose) | Misc |[Ji-hoon](https://files.catbox.moe/0hzglh.png), [Rory](https://files.catbox.moe/mrh4jy.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png), [Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Chad](https://files.catbox.moe/fp2j61.png)|
@@ -28,9 +32,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kuri](https://files.catbox.moe/frjktt.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Renpet](https://files.catbox.moe/gafcxt.png)|
-[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Eudora](https://files.catbox.moe/qm7a6d.png)|
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Marcy](https://files.catbox.moe/p70oyr.png), [Dr. Francis Malford](https://files.catbox.moe/rek9sv.png)|
-[Nono](https://rentry.org/NonoRoom) | Misc |[Phihoria](https://files.catbox.moe/07gn9i.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Charlie](https://files.catbox.moe/5c14cu.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
 [Argalia](https://rentry.org/gayanon) | Malebots ||
@@ -38,7 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
@@ -107,7 +107,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Shoo](https://rentry.org/shoobots) | Adventure/Misc ||
 [Ddo-Reu](https://rentry.co/Ddo-Reu) | Misc ||
 [Pedanon](https://rentry.org/Pedanon) | Cunny ||
-[Dould](https://rentry.org/ox3iqa) | Misc ||
 [Totally Accurate](https://rentry.co/Totally-Accurate) | Misc ||
 [KCAnon](https://rentry.org/botelover_23d5492d) | Misc ||
 [AIPiece](https://rentry.org/AIPiece) | One Piece ||
@@ -186,3 +185,5 @@ Botmaker | Category | New Bots | Updated Bots
 2023-09-07T06:15:30Z - Added GGR89, SmileyTatsu, LobotomyAnon, Luneose and Chefseru (thanks darkfantasy for sending these in again!)
 
 2023-10-17T00:39:48Z - Removed [Malik](https://rentry.co/maliksusanto) (Dead Link)
+
+2023-10-23T18:21:40Z - Removed [Dould](https://rentry.org/ox3iqa) (Dead Link)

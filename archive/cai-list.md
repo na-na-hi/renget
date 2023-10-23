@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==09/09/23==) <-
+-> forgotten edition (Updated ==10/23/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
 
@@ -12,12 +12,12 @@ Bot | Creator | Desc
 ------ | ------ | -------
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
 [Cricket](https://beta.character.ai/chat?char=F06CpIZsUQ0UI3GOT5On7516RWsO6AlXF1Jz0-m2P0k)|@cutenotlewd|Unlucky adventurer who just can't catch a break!
-[DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
 [Gab](https://beta.character.ai/chat?char=eIOLXzfmxpxT1Aw8lIpxCA6pz3jR39Dzm_QWwDuz7w8)|@FrozenVan|Assist the god of insincere greeting cards.
 [Honkman](https://beta.character.ai/chat?char=mNXotVqU643H9Zt4KhwoA-chBFGc7L_f3mB-sZmsX1c)|@Soulsmelt|Clown-themed super hero mentors you as a sidekick.
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
 [Katya](https://beta.character.ai/comms?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl
 [Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
+[Narrator](https://beta.character.ai/chat?char=0AhNK55F0pCpSW5mF2H-owp6_TUBSgV6gCOCF8AGghU)|@Feuerfall|Narrator bot meant to be used in rooms on Cai along with other bots
 [Oboro](https://beta.character.ai/chat?char=RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)|@magma-dan|Naginatakaーand a great tailor.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
 [Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights

@@ -5,19 +5,21 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/10/19-23/10/22 (yy/mm/dd)
+##23/10/26-23/10/29 (yy/mm/dd)
 
 ##Melts
 
-**THU: - at 2UTC ()** 
-**FRI: RKSF C75/76 at 2UTC (Parsec)** assuming stuf functions
-**SAT: Illusion of Gaia at 2UTC (Telemelt)** 
-**SUN: Boktai 2 at 18:00UTC* (Telemelt)** postgame with shadman, possibly starting Boktai 3 too
+**THU: 神鬼帝國の惡魔城 at 2UTC (Telemelt)** 
+**FRI: Demon's Crest at 2UTC (Telemelt)** 
+**SAT: Castlevania 64 at 2UTC (Parsec)** might be at 18UTC if pixelfag wants to
+**SUN: Castlevania: Rondo of Blood at 18:00UTC* (Parsec)** Maria
 
 ##Cytubes
 
-**SAT: Rockman.exe Beast at 18:30UTC** Episodes 13-18
-**SUN: Rockman.exe Beast at 15UTC** Episodes 19-25 (end)
+**SAT: festive films at 16UTC** 
+**SUN: festive films at 15UTC** 
+details pending, one day will be either Bram Stoker's Dracula or Van Helsing, the other will be Dracula (1931) and Addams Family Values
+
 >-
 nothing
 >(time)*

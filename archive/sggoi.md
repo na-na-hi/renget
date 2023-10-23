@@ -875,3 +875,53 @@
 ***
 
 ## Day 17 - Idol Shiori
+
+>Shiori is in the waiting room
+>Staring at the ground, her legs won't stop shaking, her arms crossed over her stomach
+>The nerves are kicking in bit by bit, it's understandable, it's her first time
+>The other girls of advent are having their turns on stage, singing and dancing
+>The twins FWMC and Biboo have already had their turns
+>Nerissa is having hers right now.
+>Biboo sits next to Shiori and rests her head on Shiori's back
+>Her signature smile is plastered on her face as she speaks to Shiori softly.
+>"It's okay mommy, you'll do your best!"
+>Both of the twins slowly come up and rest their hands on Shiori's legs, reassuring her also with an energetic: "Bau bau!"
+>As Nerissa's turn is over, she exits through the back stage and takes a seat on the opposite side of Biboo
+>A short break is happening as they prepare for the next
+>"My darling Shiori~n, we're going to do great, and then you'll do great."
+>Her genmates are all around her, believing in her
+>The stage is set
+>It's time
+>One by one, the girls besides Shiori get up and head towards the stage
+>They all turn their heads back to Shiori, worried that the fear may have gotten hold of her
+>Their worries were for naught, as Shiori slowly stands up and walks towards the backstage exit
+>Shiori stands there in front of the door, one last time, puffing her cheeks, then slapping them with both hands, telling herself she can do it
+>"I've got this" she repeats to herself over and over in her head. "This will be for my dear Novelites"
+>Shiori feels 4 hands on her back, one from each of her genmates, as they gently push her forward
+>Shiori takes the push, and uses it as momentum to walk forward
+>She takes the steps and arrives before a huge audience
+>100's of thousands of fans, both her own fans, and the fans of others, have gathered to watch her performance
+>She's given a mic, and takes a deep breath
+>She takes the time to scan the audience before she sings, and for the briefest of moments, it feels as if time had stopped right there
+>As she faces towards the camera, and looks at you, right in the audience.
+>With a playful wink, towards the camera, and towards you, she says something inaudible
+>Her mouth makes the movements, but no sound is heard, however you, as her fan, instinctually knew what she said
+>"Watch me, Anon."
+>Her nerves seemingly gone, she begins to sing, quickly getting into her element and singing the songs she were familiar with.
+>The audience is alight with glow sticks and claps
+>Then suddenly, the lights on stage all shut off
+>The audience is silenced right there
+>You feel worried for a moment
+>But then you, and everyone else hear it
+>Shiori's voice is now full of confidence, powerful, and she announces with all of her heart.
+>"Thank you everyone, we are Hololive English Advent!"
+>The lights all turn back on one by one, shining down on the stage
+>All five of the girls are together now
+>The music starts to flare up loudly
+>And then her favourite line comes out, one that you've heard from her many times.
+>"Fire fire light the fire."
+>With that, both you and the audience erupt into cheers.
+
+***
+
+## Day 18 - Formal Shiori

@@ -32,6 +32,7 @@
 [ML Self Learning Guide](https://rentry.org/machine-learning-roadmap)|Learn ML from basic math to python to specific ML courses 
 [Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
 [Principles of DL Theory](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
+[ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in png/anki/pdf formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
 [Foundational ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
 [AttentionViz Interactive Tool](http://attentionviz.com)|Visualizes global attention patterns for transformer models

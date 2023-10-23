@@ -71,7 +71,7 @@
 * [In Hell We Live, Lament](https://www.youtube.com/watch?v=XfTWgMgknpY)
 * [Between Two Worlds](https://www.youtube.com/watch?v=lu8i-OyjLYk)
 * [Fly, My Wings](https://www.youtube.com/watch?v=_PSjoVXFGAQ)
-* [LoR OST](https://www.youtube.com/watch?v=dgQnj3iGKZo&list=PL9-RBacZ4KMyfBNAIJxBFwVfNcGO0aEPv)
+* [Library of Ruina OST](https://www.youtube.com/watch?v=dgQnj3iGKZo&list=PL9-RBacZ4KMyfBNAIJxBFwVfNcGO0aEPv)
 * [To Kill a Living Book Album](https://www.youtube.com/watch?v=nOj_A3aZxGs&list=OLAK5uy_ni8TROwDUd3XlpkiGKaadW39M6NqQJ68Q)
 * [Lobotomy Corporation OST](https://www.youtube.com/watch?v=VBLLmbUpoC0&list=PLcRV4rDHJPGEEk1uB9WXmgcFagQcqzuTh)
 

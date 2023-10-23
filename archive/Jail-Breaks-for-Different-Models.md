@@ -2,12 +2,14 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-10-21)==<-
+->==(updated 2023-10-23)==<-
 ***
 [TOC2] 
 ***
 #####Both
 https://rentry.org/CoT_Jailbreaks
+
+https://rentry.org/characterprovider
 
 
 ***
@@ -31,8 +33,6 @@ https://rentry.org/LurkzyDurkzyBurkzy
 https://rentry.org/myuclyutsu
 
 https://rentry.co/crustcrunchJB
-
-https://rentry.org/characterprovider
 
 https://rentry.org/lunarfrogs
 

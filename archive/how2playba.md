@@ -505,10 +505,9 @@ Generally only do this for 3x campaigns, if the week before it is dead, or if it
 You can save up some extra AP right before an event to splurge on the event. This way every AP you spend is worth several times its normal value, vastly outweighing the small loss you take from missing out on daily regen AP (if you are saving for several days). 
 
 If you want a specific guide, use:
-![how to hoard AP guide](https://i.imgur.com/nq3vsPW.png)
-This is assuming the event starts after the Monday reset. Add 14 hours for story events, because those start on Tuesday after the maintenance. 
+![how to hoard AP guide](https://i.imgur.com/Dkfc0EV.png)
 
-Bounties: **if and only if (I.F.F) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 2 tickets you lose out on. 
+Bounties/Scrimmages: **if and only if (I.F.F) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 6 tickets you lose out on. 
 
 ## Whaling for dummies
 ![pakeji value](https://i.imgur.com/IIrB9LU.png)

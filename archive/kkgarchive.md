@@ -3,9 +3,6 @@
 !!! note 
     **Live - [boards.4chan.org/h/thread/7627286/](https://boards.4chan.org/h/thread/7627286/)**&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;#&nbsp;Let me fucking sleep Edition
 
-!!! danger
-    **/gkg/ - [boards.4chan.org/trash/thread/60533486/](https://boards.4chan.org/trash/thread/60533486/)**&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;#&nbsp;Halloweiner Edition
-
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
 
@@ -15,8 +12,6 @@
 - 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Learning to swim Edition!
 - 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
 - 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
-- 641&nbsp;&nbsp;[archiveofsins.com/h/thread/7609421/](https://archiveofsins.com/h/thread/7609421/)&nbsp;&nbsp;&nbsp;&nbsp;(09.10.2023 00:27)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Post Butts Edition
-- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[1038]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
 
 &nbsp;
 
@@ -24,6 +19,8 @@
 
 ## ->2023<-
 
+- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Say Cheese Edition!
+- 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Let me fucking sleep Edition
 - 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Learning to swim Edition!
 - 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
 - 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
@@ -132,7 +129,7 @@
 
 ###### /gkg/
 !!! info 
-    - 017&nbsp;&nbsp;[desuarchive.org/trash/thread/60533486/](https://desuarchive.org/trash/thread/60533486/)&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Halloweiner Edition
+    - 017&nbsp;&nbsp;[desuarchive.org/trash/thread/60533486/](https://desuarchive.org/trash/thread/60533486/)&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;&nbsp;[37]&nbsp;#&nbsp;Halloweiner Edition
     - 016&nbsp;&nbsp;[desuarchive.org/trash/thread/59435522/](https://desuarchive.org/trash/thread/59435522/)&nbsp;&nbsp;&nbsp;&nbsp;(09.09.2023 22:08)&nbsp;&nbsp;[99]&nbsp;#&nbsp;Recess is over Edition
     - 015&nbsp;&nbsp;[desuarchive.org/trash/thread/59068586/](https://desuarchive.org/trash/thread/59068586/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 02:22)&nbsp;&nbsp;[311]&nbsp;#&nbsp;Finally Back Edition
     - 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[307]&nbsp;#&nbsp;Illusion is fucking dead Edition
