@@ -32,13 +32,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kuri](https://files.catbox.moe/frjktt.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Renpet](https://files.catbox.moe/gafcxt.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Charlie](https://files.catbox.moe/5c14cu.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
+[Scrimbly](https://rentry.org/scrimb) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||

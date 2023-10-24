@@ -32,7 +32,7 @@
 [ML Self Learning Guide](https://rentry.org/machine-learning-roadmap)|Learn ML from basic math to python to specific ML courses 
 [Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
 [Principles of DL Theory](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
-[ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in png/anki/pdf formats
+[ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
 [Foundational ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
 [AttentionViz Interactive Tool](http://attentionviz.com)|Visualizes global attention patterns for transformer models
@@ -111,6 +111,6 @@
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
 [Music AI Voice](https://huggingface.co/QuickWick/Music-AI-Voices)|For use with RVC or SVC audio voice cloning 
 [Wikipedia Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
-[Coomer Forums Scrapes](https://rentry.org/qib8f)|Raw RP/ERP/ELIT content
+[Coomer Forums Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
 [Visual Novels EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 [Data-Juicer](https://github.com/alibaba/data-juicer)|Broad featured dataset preparation tool from Alibaba

@@ -88,10 +88,11 @@ By typing in this thread you denounce Israel as a legitimate state, denounce the
 https://youtu.be/1eu0PtSdSNo
 
 ▶LIVE-STREAMS:
-https://youtu.be/KcVIWxcIV74
-https://youtu.be/IHbhvc2szmA
 https://youtu.be/IcPPJqKsTR8
-https://youtu.be/UtruJztXE5w
+https://youtu.be/VpF3b5bsVXY
+https://youtu.be/zIMio6aw_6I
+https://youtu.be/zI3C8g5poAI
+https://youtu.be/C4HOIuQjscE
 
 ▶NEWS:
 https://rt.com/

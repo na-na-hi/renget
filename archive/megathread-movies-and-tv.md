@@ -241,6 +241,10 @@
 - You may easily search for and discover your favorite movies and TV series while finding all the details including IMDB ratings.
 - [URL Safety Results](https://www.urlvoid.com/scan/yesmovies.ag/)
 
+### ▶️ [yuPPow](https://yuppow.com/)
+- Indulge in the vast collection of captivating movies and shows, where a mere click transports you to a world of entertainment.
+- [URL Safety Results](https://www.urlvoid.com/scan/yuppow.com/)
+
 &nbsp;
 
 ---
@@ -249,13 +253,13 @@
 
 # 📑 ➜ Torrents
 
+### 🧲 [English Torrent](https://englishtorrent.co/)
+- The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
+- [URL Safety Results](https://www.urlvoid.com/scan/englishtorrent.co/)
+
 ### 🧲 [EZTV](https://eztv.re/)
 - Here you may find and watch new episodes of your favorite TV shows every day.
 - [URL Safety Results](https://www.urlvoid.com/scan/eztv.re/)
-
-### 🧲 [TorrentCue](https://torrent-cue.co/)
-- The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrent-cue.co/)
 
 ### 🧲 [WatchSoMuch](https://watchsomuch.to/)
 - A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.
