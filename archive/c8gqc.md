@@ -28,6 +28,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Truthear Hexa (neutral) - $80
 
 *Honorable Mentions*
+• Kinera Celest Wyvern Pro (Harman) - $30
 • Tinhifi C2 (bright V) - $30
 • BLON x HBB Z300 (bassy) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
@@ -35,7 +36,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • CVJ Mei (bassy W) - $60
 • ARTTI T10 (bassy W) - $70
-• Floaudio Bluelover (bassy neutral) - $80 
+• Floaudio Bluelover (bassy neutral) - $70 
 • EPZ K5 (bright neutral) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
 
@@ -58,6 +59,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Moondrop Kato (warm neutral) - $190
 • Tinhifi P1 Max (warm neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
+• Hisenior T4 (neutral) - $200
 • iKKO OH10S (V-shape) - $200
 • Thieaudio Elixir (bassy neutral) - $210
 
@@ -67,7 +69,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Aful Performer5 (bassy neutral) - $220
 • Kiwi Ears Quintet (Harman) - $220
 • Xenns Mangird Tea2 (bassy neutral) - $350
-• Yanyin Canon (V-shape) - $350
+• Yanyin Canon II (V-shape) - $380
 
 *Honorable Mentions*
 • Hisenior Mega5P Ultra (bassy neutral) - $240
@@ -75,11 +77,11 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Drop + JVC HA-FDX1 (neutral) - $250
 • Kiwi Ears Orchestra Lite (neutral) - $250
 • Tanchjim Oxygen (mild V) - $280
+• ISN Neo5 (bassy neutral) - $290
 • Thieaudio Hype 2 (bassy neutral) - $300
 • Moondrop Blessing3 (bright neutral) - $320
 • SeeAudio Bravery RB (mild V) - $320
 • Aful Performer8 (neutral) - $370
-• Yanyin Canon II (V-shape) - $380
 
 ##Audiofool IEMs ($450+)
 ***
@@ -95,9 +97,12 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Sound Rhyme DTE500 (bassy neutral) - $460
 • Dunu EST 112 (mild W) - $490
 • Thieaudio Oracle (neutral) - $540
+• Penon Turbo (bassy V) - $550
 • Kinera Skuld (neutral) - $550
 • Dunu SA6 MKII (bassy neutral) - $580
+• Symphonium Meteor (bassy neutral) - $600
 • FATfreq Scarlet Mini (very bassy) - $630
+• Kinera Imperial Urd (bassy neutral) - $650
 • Moondrop S8 (Harman) - $700
 • Letshuoer EJ07 (neutral) - $750
 • 7th Acoustics Supernova (neutral) - $800
@@ -146,13 +151,13 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • XINHS
 
 *Honorable Mentions*
-• Tripowin Mirage - $20
-• Tripowin Solstice - $20
 • Juzear Limpid - $25
 • ivipQ
 • Kinera
 • OpenHeart
+• TRI
 • Yinyoo
+• Yongse
 
 ##Ear Tips
 ***
@@ -170,6 +175,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 
 *Honorable Mentions*
 • Anjirui Spirals
+• Audiosense S400
 • Azla SednaEarFit Light
 • Azla SednaEarFit MAX
 • BGVP W01

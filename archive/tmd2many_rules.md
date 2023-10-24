@@ -529,7 +529,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Yawning**: After 2 rounds, the Afflicted falls Asleep.
 	- **Petrified**: The Afflicted is unable to act until damaged.
 	- **Ingrained**: The Afflicted heals 2 HP every round. Moves never miss the Afflicted. Lasts 4 rounds.
-	- **Wrap/Wrapped**: The User cannot act. The Afflicted takes Burn DoT. Lasts 3 rounds.
+	- **Wrap/Wrapped**: The User cannot act and may only use Struggle. The Afflicted takes Burn DoT. Lasts 3 rounds.
 	- **Immobile**: The Afflicted is unable to flee and has trouble moving. Ends the effects of Run Away and Emergency Exit.
 	- **Stuck/Constricted/Trapped**: The Afflicted takes Burn DoT. Moves never miss the Afflicted. Lasts 3 rounds.
 	- **Salted**: The Afflicted takes Poison DoT. If the Afflicted is Water or Steel-Type, they take Badly Poisoned DoT. Can be removed by Taking a Break. 

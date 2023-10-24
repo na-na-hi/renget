@@ -119,4 +119,5 @@ The other one is that there isn't really a "world-wide wasteland" to speak of. I
 ##Storybase
 ###Fallen
 My own personal exercise into this world. Good if you want an idea of how to build a world around this concept, I guess.
-[Chapter 1](https://rentry.org/FallenPT1)
+[Part 1](https://rentry.org/FallenPT1)
+[Part 2](https://rentry.org/FallenPT2)

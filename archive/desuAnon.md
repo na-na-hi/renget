@@ -54,7 +54,7 @@ Q: {{query}}
 A: {{answer}}
 
 Q: Do you still make bots?
-A: yes; I am alive.
+A: ~~yes; I am alive.~~
 
 Q: Do you post cards using alts?
 A: no.
@@ -77,3 +77,9 @@ A: です.
 ---
 
 ![desu](https://files.catbox.moe/7ofhvn.jpg)
+
+---
+
+*in a time of universal AI alignment, kissing is a revolutionary act*
+
+![deus](https://files.catbox.moe/y36hq8.jpg)

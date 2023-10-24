@@ -19,6 +19,9 @@ https://desuarchive.org/tg/thread/90686591/#90688350
 >Yexin
 https://desuarchive.org/tg/thread/90686591/#90689295
 https://rentry.org/KtHYexin
+>Lord Charles Maynard
+https://archive.4plebs.org/tg/thread/90697603/#90698018
+https://pastebin.com/5MYrSdfM
 
 #### Elders
 
