@@ -65,9 +65,9 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
     3. Temporary cards can be obtained by purchasing a temporary deck. **These are the only genuinely temporary temporary cards**, and expire at the end of the expansion they were purchased in.
 2. **I saw a player with a fancy animated sleeve, where do I get it**?: Animated sleeves with ornate patterns of circles and shapes on them [(such as this)][gm-sleeve] are Grand Master sleeves. They are obtained by reaching 10,000 master points in a single expansion. Each expansion has a different GM sleeve; the pattern is the same as the card back you see when opening packs for that expansion.  Animated sleeves with a character or other art on them are either rewards for drawing that character's leader card, or purchase bonuses for certain limited-time bundles in the store.
 
-[svm]: https://shadowverse-master.com
-[svm-rotation]: https://shadowverse-master.com/meta
-[svm-unlimited]: https://shadowverse-master.com/meta/unlimited
+[svm]: https://shadowversemaster.com
+[svm-rotation]: https://shadowversemaster.com/meta
+[svm-unlimited]: https://shadowversemaster.com/meta/unlimited
 [gw-rotation]: https://shadowverse.gamewith.jp/article/show/84174
 [gw-unlimited]: https://shadowverse.gamewith.jp/article/show/22277
 [sv-wins]: https://shadowverse-wins.com

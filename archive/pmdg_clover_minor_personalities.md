@@ -148,5 +148,3 @@ Sex: Male
 
 ####Lliam
 >The Clover Guild Master of the Clover Guild. Mostly stays in the homebase doing office work.
->He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. 
->He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it.

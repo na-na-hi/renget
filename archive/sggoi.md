@@ -925,3 +925,58 @@
 ***
 
 ## Day 18 - Formal Shiori
+
+>The two of you arrive to the mansion
+>Your radiant armor, replaced with a splendid white suit
+>You step out of the carriage and hold your lady's hand as she steps out as well
+>The princess Shiori, dressed in gorgeous black attire
+>You bring out her parasol and the two of you walk along the gardens
+>Some noble ladies are having a tea party while the day is still on-going.
+>Some have noticed you and taken a liking to your appearance.
+>As your stroll ends, the night starts to slowly creep in and the party really begins
+>A fancy party, hosted by Shiori's uncle and aunt
+>Shiori is on the ground floor, talking with her uncle and aunt
+>You always stay a steady distance, ready in case something were to happen
+>Shiori's face isn't as bright as it usually is
+>Perhaps she isn't enjoying herself, as she usually dislikes the idea of parties and gatherings
+>Suddenly many different kinds of noblemen approach Shiori
+>They all try to impress her one by one, trying to see if they could have the honour of the princess' hand at a dance
+>There's slight worry in your face, perhaps the princess will find someone
+>The pain kind of pangs in your heart a little
+>At the same time however, your attention is taken away
+>The noble ladies from the earlier tea party approach you
+>They compliment you on how handsome you are, asking if you are a noble yourself
+>You try your best to be polite, declining that you're a noble and that you're just a knight for Shiori, hoping this would deter them so you can focus on Shiori
+>It doesn't work and they only seem to be more impressed, giggling around you.
+>Shiori turns to you only to notice you're surrounded by women also
+>Her face goes from a somewhat pleading-look as she had hoped you could help her out of her uncomfortable situation, into more of a blank stare.
+>The noble men take their leave, some expressing what looked to be anger as Shiori continued to deny them, this time more coldly
+>Perhaps their egos were bruised by Shiori's disinterest
+>While it relieves you, you're still dealing with your own situation, as some of the noble ladies go as far as to start pushing you towards the dance floor.
+>You firmly stand your ground, saying that it's a knight's duty to stay on guard, though your voice commanding, you still try to be polite as to not cause offence and embarrassment towards Shiori.
+>Shiori then looks at you, realizing that you were simply in the same situation as her, and a small smile appears on her lips, as they curl up slightly.
+>She's happy that you didn't give in to the advances of the other women.
+>The noble ladies walk away, though they got rejected by you, they aren't as petty it seems, as they simply giggle to themselves as they walk away, commenting on how "devoted" you are.
+>With both of you free, you approach Shiori, sitting next to her at the table.
+>She looks at you and smiles a little, commenting on how the two of you seem to have a lot of unwelcome advances tonight.
+>You look up at the rather decorated ceiling, sighing in agreement.
+>Just as you air out your grievances, an announcement is made by Shiori's uncle and aunt
+>It seems it's time for the main event of the party.
+>A spotlight shines over Shiori, it seems, against her wishes, that she has to be the one to lead the dance in this party
+>Many of the noblemen from before stand up and clap, thinking to themselves that this may be their chance with Shiori.
+>You can't help but glare at them in disgust, thinking about what disgusting pigs they were.
+>Shiori walks up to the front, the spotlight continuously following her.
+>She announces that for tonight, she will lead the dance with someone she's known for a long while.
+>Your heart begins to feel the same pangs from earlier, until she hears you call for you.
+>She announces your name, commenting on how you had been there for her since the beginning, a loyal knight to the end.
+>A spotlight shines over you too, and suddenly the pang from earlier had all but disappeared, now replaced with eyes staring daggers into you
+>You don't pay it any mind at all, what kind of knight would you be if you cared about the opinions of others?
+>You confidently stand up, and stride towards Shiori, taking her hand gently and kissing the back of it to show respect
+>Many of the noble women from earlier can be heard giggling, commenting on how lucky the princess is to have a knight like you
+>The music then changes to a more slow melody
+>Finally, the two of you begin to dance, a slow waltz.
+>Many of the guests slowly partner up with each other, and soon they begin to join the two of you
+>The music continues, as you dance with Shiori, you see her face, looking at you with a gentle smile.
+>She thanks you for being with her, so that she didn't have to attend this party alone.
+
+***

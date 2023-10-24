@@ -1305,11 +1305,17 @@ Helpful Prompt: "Cream The Rabbit, 1girl, solo, orange_dress, blue_necktie, oran
 
 	https://rentry.org/83o5t
 
-# Cool-Warm Slider (Utility)
+# AI Toolkit Sliders (Utility)
+Cool-Warm Slider (Utility)
 >The idea with this LoRA is that the stronger negative you set the weight the cooler the colors and the stronger positive the weight the warmer the colors. The numbers up the top in the plot are the LoRA strength values, so you can go much higher and lower than you would with a normal LoRA.
 >This was trained using the slider LoRA training script available at https://github.com/ostris/ai-toolkit
 
 	https://files.catbox.moe/fmlexi.safetensors
+
+Colorfulness Slider LoRA v1
+See above for a rough explanation, positive weight for more color, negative weight for less.
+
+	https://files.catbox.moe/jq7wau.safetensors
 
 ## LORAs from the Discord
 

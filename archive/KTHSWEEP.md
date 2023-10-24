@@ -52,6 +52,15 @@ https://archive.4plebs.org/tg/thread/90676737/#90680439
 >Jian
 https://archive.4plebs.org/tg/thread/90676737/#90680789
 https://rentry.org/Lonely-Blade
+>Mei Lan
+https://desuarchive.org/tg/thread/90686591/#90691913
+https://rentry.org/lilmeido
+>Wen Lifen
+https://desuarchive.org/tg/thread/90686591/#90696265
+https://rentry.org/ogd58
+>Lei Daiyu
+https://desuarchive.org/tg/thread/90686591/#90696383
+https://rentry.org/KtHDaiyu
 
 #### Ancestors
 
@@ -62,11 +71,17 @@ https://rentry.org/void-nigga-things
 https://archive.4plebs.org/tg/thread/90676737/#90678581
 >Magikarp
 https://archive.4plebs.org/tg/thread/90676737/#90681699
+>Zhihao Cheng
+https://desuarchive.org/tg/thread/90686591/#90695745
 
 ### Writefags
 
 >First Fight
 https://rentry.org/FirstFight
+>A Blade With No Sheath (Jian)
+https://rentry.org/xgtgdc
+>Night Chores (Mei Lan, Xu)
+https://rentry.org/dpfk5
 
 ### Tierlists
 >Template
