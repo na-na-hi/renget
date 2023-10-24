@@ -92,7 +92,6 @@ https://youtu.be/IcPPJqKsTR8
 https://youtu.be/VpF3b5bsVXY
 https://youtu.be/zIMio6aw_6I
 https://youtu.be/zI3C8g5poAI
-https://youtu.be/C4HOIuQjscE
 
 ▶NEWS:
 https://rt.com/

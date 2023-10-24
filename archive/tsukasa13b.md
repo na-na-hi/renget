@@ -80,5 +80,5 @@ since the 2nd to last tune was on gpt4 rp data, taking system prompts from commo
 
 ## contact
 
-no1namialuvr@proton.me
+no1namialuvr@proton.me or ludis@cock.li
 logs and gen settings welcome here :)

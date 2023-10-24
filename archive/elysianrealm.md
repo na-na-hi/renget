@@ -1009,7 +1009,7 @@ Lunar Eclipse 月食 | Forces 诸势 | Mindfulness 意劲 | Form & Spirit 形神
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-2nd | Su1 | Vulnerability, both combo boosts, SP, TDM are the key choices, recommended to pick all enhanced, must pick at least breach
+1st | Su1 | Vulnerability, both combo boosts, SP, TDM are the key choices, recommended to pick all enhanced, must pick at least breach
 2nd | Hua2 | Both damage boosts, breach are the key choices, unlock nexus; can pick +20 stacks
 2nd | Sakura1 | Vulnerability, TDM, SP are the key choices, unlock nexus 
 2nd | Pardofelis1 | HPSP cap up, both damage boosts are the key choices, unlock nexus 

@@ -399,6 +399,8 @@ In general you want to save up your coins so you get to buy out the pvp drinks d
 Don't buy the reports or credits, they really really suck. You can buy the drinks and farm commissions for a better efficiency 
 Consider bringing Shizuko to 3* when a Shirokuro raid is approaching. 
 
+If you ever want to unlock any of the 3\*s available that's fine, theyre just very very niche. Don't expect them to be good. 
+
 In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT with pyros. This way you get to buy out the pvp drinks 4x
 ![How to refresh the shop](https://i.imgur.com/T9Wf7p5.png)
 

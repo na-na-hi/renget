@@ -161,7 +161,6 @@ Ina Uruu | - | - | -
 Hinata Mashu | - | - | -
 
 ## -> EIEN <-
-!!! warning Placeholder Name is there cuz they showed off silhouettes but names haven't been released.
 !!! info Available Loras without the need of updates and have been tested.
 	Riifu Evergreen
 
@@ -170,11 +169,11 @@ Chuuba | Has Lora | Update Needed | Testing
 Kiki Lockheart | X | - | X
 Kilia Kurayami | X | - | X
 Sky Shinryu | X | - | X
-Placeholder Name 1 | - | - | -
-Placeholder Name 2 | - | - | -
-Placeholder Name 3 | - | - | -
-Placeholder Name 4 | - | - | -
-Placeholder Name 5 | - | - | -
+Zumi Dokumi | - | - | -
+Mirri Saffire | - | - | -
+Blaise Shinryu | - | - | -
+Amora Lumina | - | - | -
+Nanimo Navi | - | - | -
 
 ## -> VSPO <-
 !!! info Available Loras without the need of updates and have been tested.

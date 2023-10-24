@@ -63,7 +63,7 @@ Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Move: Aqua Tail | Tier ɪ | 1/3 | ▮▯▯
+Training for Move: Aqua Tail | Tier ɪ | 2/3 | ▮▮▯
 
 **INVENTORY (4 slots)**
 Item Name | Description

@@ -11,6 +11,7 @@
 >a grainy cel-shaded highly-detailed reference photo of <x\>, 90's anime
 >hand drawn, watercolor, pen, fantasy, illustrated by Akihiko Yoshida and Junko Kawano, anime, video game concept art, colored
 >PC Engine adventure game on a CRT
+>concept art for Darkest Dungeon, digital color drawing in the style of Mike Mignola, dark fantasy ambiance, eyes in shadow, \[character description], \[background description (optional)]
  
 ▶ Basic styles
 >woodcut

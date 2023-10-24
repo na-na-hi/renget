@@ -4,7 +4,7 @@
 
 ![fox](https://feen.us/u125a2.gif)
 
-send logs to no1namialuvr@proton.me if you want to be featured here :)
+send logs to no1namialuvr@proton.me or ludis@cock.li if you want to be featured here :)
 
 ## ivan log from anon
 

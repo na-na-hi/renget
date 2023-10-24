@@ -1,15 +1,20 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #36 (Monday, 16 October 2023, 20:15 UTC)<-
+->Last updated on thread #37 (Tuesday, 24 October 2023, 15:30 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
+- [/Chic-Fil-A/ Aggie](https://aggie.io/s5lek17yce) (Collaborative drawing canvas.)
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
 - [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate)
-- [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D skull model - red fox drawing reference.)
-- [Save the Cat!](https://savethecat.com/get-started) (Storytelling Guide by Hollywood screenwriter Blake Snyder.)
+
+- [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
+- [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
+- [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
+- [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
+- [Team Fortress 2 Spray](https://files.catbox.moe/4n8abj.zip) (Fukkireta Averi in Source's spray format.)
 
 == **TABLE OF CONTENTS**
 [TOC2]
@@ -345,6 +350,11 @@ Speaking of sammiches. This one was from a chain supposedly owned by Guy Fieri. 
 I am, however, an old chili head, and maybe my palate is burnt out. I want to see if I can make something like peri peri out of the orange habanero peppers supermarkets here have. It will be the wrong color, but maybe it will taste okay. something something two pounds of peppers, a dozen cloves of garlic, a big bundle of cilantro, juice and zest of a lemon, dash smoked paprika, salt and pepper to taste, process to a uniform pulp in a food processor, half is marinade for a whole cut-up chicken, in which it sits overnight in a covered glass bowl, then cooks an hour or so at 400, in a foil-lined pan with the used marinade poured over the chicken. The rest of the sauce is kept aside, poured over the chicken it before serving.
 [![Chicken Guy peri-peri chicken sandwich: Chicken Guy.jpg / 1685141584784.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)
 
+###Church's Texas Chicken
+####60488555 Anonymous: Spicy Chicken Sandwich
+`Spicy Chicken Sandwich`
+Alright, chicken sandwich review. Got this one from Church's. It's their "spicy" one. I must say this shit is pretty damned good despite it not being immediately fresh out of the fryer. The breading on the chicken is this sorta saltine cracker tasting stuff with a bit of salt and pepper. Was crispy-ish when I got it, probably would've been crunchy if I were lucky enough to get it fresh. The chicken itself seemed to be bigger than most other fast food chains. Tasted better than most too. I'd place it below Chick-fil-a, could've been an easy tie had I got it fresh. The sauce is just buffalo/cayenne sauce mixed with mayonnaise. It wasn't really that spicy. The meal was 8 or so dollars, making it a much better deal than anything around me for the amount of food you get and how it tasted. I definitely recommend this one if the Church's near you isn't in some ghetto.
+
 ###Culver's
 ####58915157 Anonymous: Spicy Chicken Sandwich
 `Spicy Chicken Sandwich`
@@ -434,6 +444,17 @@ It wasn't horrible, and the red beans and rice I ordered on the side was pretty 
 
 Shit's tasty. Not as crispy as it is fresh but a minute in the microwave did it and it was pretty yummy. 7/10.
 [![Publix's Fried Chicken: pullix.jpg / 1696201711906.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/20/1696201711906.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/20/1696201711906.jpg)
+
+###Sizzling Kitchen
+####60562047 Anonymous: Spicy Chicken Burger Meal
+`Spicy Chicken Burger Meal`
+Chimken update from Bongland. It's no chic-fil-a, KFC or Popeyes, but 'Sizzling Kitchen', a local corner store southern fried chicken place. I finished eating it just now, and I have to say it was a mixed bag.
+
+I ordered fries, a spicy chicken borgar, 4 strips, 8 poppers and 4 spicy wings. No I did not eat it all, but I had one of everything. Those strips were easily the best of the bunch, they were crunchy and soft inside, the chicken tasted good and the spices brought out the flavour. The wings were nothing special, kinda soggy but licking the seasoning off my fingers was nice. The chicken poppers were alright, more of a method of getting sauce in ya. Speaking of which, this garlic sauce was IMMACULATE, easily the best I've had with the perfect amount of spice and coolness from what I assume to be mint.
+
+The burger, however, was the absolute worst thing I have ever eaten. The bread somehow managed to be both dry and soggy at the same time and I had to drink more to get that shit down my throat because it felt like eating sand. I had to waste a whole bunch of my sauce to make it bearable and the chicken burger was absolutely not worth it. The fries were... okay. Standard fries, faint potato taste, again just a dish filler.
+
+Sizzling Kitchen gets a 4/10 from me. I didn't enjoy my meal, felt greasy afterwards and it kinda felt like a waste of money when I could have gone elsewhere.
 
 ###Wawa
 ####59119936 Anonymous: Chicken Parm Hoagie
@@ -592,6 +613,21 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
 !!! info
     ##/Chic-Fil-A/ Bible Study
 ---
+#####60488555 Anonymous: John 8:44
+`John 8:44:`
+"You are of your father the devil, and your will is to do your father's desires. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he lies, he speaks out of his own character, for he is a liar and the father of lies."
+It's about the kikes obviously.
+
+Man, there's just something really funny about some random dude on the internet who'd love to creampie Averi while dropping bible verses and reviewing chicken sandwiches.
+
+######60489040 Anonymous
+\>>60488555
+I've never been into the bible because I thought it was boring and confusing.
+I've always thought that if I wrote my own version of the bible, I would go much greater into depth, rather than the sad excuse we have for Genesis, which just explains that God created the earth and then he created light etc, without actually going into God's thought process behind doing what he does and the intelligent design philosophy into all the life he creates. The fact that God created humans in his own image, means that God is a human and if anything, if that's not proof this whole planet is a simulation right from the beginning then I don't know what is, we could easily just be the results of some guy trying to create real life as accurately as possible inside of a computer, to the point where it got so accurate that we are now trying to do the same. However, again, God being a human and all makes me believe that either God is an artist and his creations are truly works of art, or that he straight up just copied everything from another life, I mean he literally just copied himself and put humans on the earth and for what reason? His own ego? He's a sneaky little rat bastard when you think about it, he just does shit and never has to explain himself for anything. But I must confess, if the bible was more interesting, I would definitely read it.
+
+TL;DR I think God should have his own Podcast or a blog or something.
+I don't think its funny, anon, your chicken sandwich was blessed, the mere fact is not funny, it is divine. God intended for you to be this way.
+
 #####59286414 Anonymous: Deuteronomy 27:21
 `Deuteronomy 27:21`
 “‘Cursed be anyone who lies with any kind of animal.’ And all the people shall say, ‘Amen.’

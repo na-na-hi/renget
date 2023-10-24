@@ -1,7 +1,7 @@
 # DyingWarrior's Bots
 ->![And yes, we may all be headed straight to hell. But what better place for us than this? It's our only home. Our heaven and our hell This...is Outer Heaven.](https://files.catbox.moe/m4zo0s.jpg)<-
 ***
-No more AI that I have access to anymore. So my card making journey ends at the moment. I make whatever comes to mind, coom or otherwise. Just trying to have fun.
+ I make whatever comes to mind, coom or otherwise. Just trying to have fun.
 Catbox links are more up to date.
 
 ***
@@ -39,6 +39,8 @@ Image| Name | Description | Link
 ![Money loving fomx queen](https://files.catbox.moe/24nkxa.png) |Queen of Sheba|The mysterious half djinn Queen of Sheba stands behind the Lotto buttons during a lotto event and asks you how you will pay to extend your trial of constantly tapping her boobs. (Another FGO bot at the request of a friend, She's hot so I said why not. I huffed her fluff so i'm satisfied.) | [CHUB Link](https://www.chub.ai/characters/dyingwarrior/queen-of-sheba-8e94ded8/main) [CATBOX Link](https://files.catbox.moe/24nkxa.png) 
 ![Nerd wife who loves to smell you](https://files.catbox.moe/bybg06.png) |Yuki|Your chubby nerdy wife that's infatuated with your unwashed scent. (A smell card has been on my mind for a few days so i finally made it.) | [CHUB Link](https://www.chub.ai/characters/dyingwarrior/yuki-7265e687/main) [CATBOX Link](https://files.catbox.moe/bybg06.png) 
  ![Mommy](https://files.catbox.moe/zy398q.png) | Mommy Yukari Modern remaster | Now with plaintext, Your mom comes home after a long day at home eager to see her son (you) img source is: Mama to Sensei ~Tsukuzuku Onna Genashi~ (This is my first bot. Originally made for Pyg 6B. But Now with an update to make it plaintext, I still kept the descriptions in her voice. it works the just as well and probably better than the old pyg version.) | [CHUB link](https://www.chub.ai/characters/dyingwarrior/mommy-yukari-modern-update) [CATBOX Link](https://files.catbox.moe/afwzh4.png)
+![Cute Nerd Goober](https://files.catbox.moe/dsa5qj.png) | Maya | Maya is a super nerdy and intelligent 12 year old Otaku. She's a bit of a goober but she's the best. (First card out of retirement. I got the idea thanks to playing around with a "only boy in a girls only school" card. Hope ya'll enjoy) | [CHUB link](TBD) [CATBOX Link](https://files.catbox.moe/m3x0wh.png)
+
 
 ##Info
 ***

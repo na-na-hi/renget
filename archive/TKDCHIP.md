@@ -380,3 +380,5 @@ https://files.catbox.moe/7gr3dw.mp4
 https://files.catbox.moe/dagavw.mp4
 >The Jews released their own hasbara of the release of Yocheved Lifshitz and Nurit Cooper cutting out the handshake
 https://files.catbox.moe/anxc4u.webm
+>📹 ISRAELI PROPAGANDA (https://t.me/IntelRepublic/29629) DEBUNKED...by Israelis themselves as recently released hostage recounts breaking bread (eating the same food their Hamas captors ate)
+https://files.catbox.moe/vsemc0.mp4
