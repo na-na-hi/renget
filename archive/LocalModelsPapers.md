@@ -216,6 +216,7 @@
 10/2023|[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://arxiv.org/abs/2310.03731)
 10/2023|[Improved Baselines with Visual Instruction Tuning (LLaVA 1.5)](https://arxiv.org/abs/2310.03744)
 10/2023|[LLark: A Multimodal Foundation Model for Music](https://arxiv.org/abs/2310.07160)
+10/2023|[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)
 |
 |**Surveys**
 02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)

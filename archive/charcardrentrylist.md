@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Cairo](https://files.catbox.moe/wy8ghk.png), [Chad](https://files.catbox.moe/fp2j61.png)|
+[Nicenshady](https://rentry.org/nicenshady) | Misc |[The Nurse](https://files.catbox.moe/npl65b.png), [Glommer](https://files.catbox.moe/204br6.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katenka](https://files.catbox.moe/taoh1x.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png)|[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Maya](https://files.catbox.moe/gpr1nv.png)|[Maya](https://files.catbox.moe/gpr1nv.png) [MV]
@@ -26,10 +28,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Onaholesama](https://rentry.org/onaholesama) | Furry |[Lyxra](https://files.catbox.moe/15k2vg.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[The Idol Show](https://files.catbox.moe/8prvkc.png)|[The Idol Show](https://files.catbox.moe/8prvkc.png) [MV]
 [Luneose](https://rentry.org/luneose) | Misc |[Ji-hoon](https://files.catbox.moe/0hzglh.png)|
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png), [Amber](https://files.catbox.moe/qfn2dl.png), [Jasper](https://files.catbox.moe/7bzehl.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Chad](https://files.catbox.moe/fp2j61.png)|
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
-[Nicenshady](https://rentry.org/nicenshady) | Misc |[Glommer](https://files.catbox.moe/204br6.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV]
 [Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)

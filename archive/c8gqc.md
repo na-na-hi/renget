@@ -34,6 +34,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • BLON x HBB Z300 (bassy) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
 • Simgot EW200 (Harman) - $40
+• EPZ Q5 (bright V) - $50
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • CVJ Mei (W-shape) - $60
 • ARTTI T10 (W-shape) - $70
@@ -51,7 +52,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 
 *Honorable Mentions*
 • Dunu Kima (neutral) - $110
-• Letshuoer D13 (bassy W) - $120
+• Letshuoer D13 (W-shape) - $120
 • Tinhifi T4 Plus (bright V) - $120
 • Kinera Celest Phoenixcall (V-shape) - $130
 • Truthear Nova (Harman) - $150
@@ -179,6 +180,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Azla SednaEarFit Light
 • Azla SednaEarFit MAX
 • BGVP W01
+• Divinus Velvet
 • FiiO HS18
 • Final Type E
 • JVC EP-FX10 Spiral Dot ++

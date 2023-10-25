@@ -16,12 +16,25 @@ stage 3 routes with no seasonals
 ## Stage 4 auto / full SET
 videos:
 [Fuji (Wisteria)](https://www.youtube.com/watch?v=e_3Q-15H6vg)
+[Vash](https://youtu.be/XZ6tVvgw3J8)
+![vashauto](https://pomf2.lain.la/f/a59ecxs.png)
 
 ## Stage 4 semi auto
 videos:
-
+[Reonmaru](https://www.youtube.com/watch?v=Ik3D_SvU0uw)
+[Eruru](https://www.youtube.com/watch?v=OkuOH9SuQ6c)
 
 ### Boss 1
+[B1 Magic 58m](https://twitter.com/QKkjs064lJ9RDhi/status/1717158053701927259?s=20)
+![3](https://pomf2.lain.la/f/txv8lr97.png)
+Tested with:
+Noir Kuuka 5★ Lv286 R30 FULL, EX 5/5/5
+Christmas Akari 5★ Lv286 R30 FULL, EX 5/3/5
+Warlock Djeeta 5★ Lv286 R30 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv286 R30 FULL, EX 5/5/5
+Princess Kyaru 5★ Lv286 R30 FULL EX 5/3/5
+![3](https://pomf2.lain.la/f/ot837to.png)
+
 [B1 Magic 53-54m](https://www.youtube.com/watch?v=2Uh4KlFPwPQ)
 ![3](https://pomf2.lain.la/f/t9h5y79p.png)
 Tested with:
@@ -51,6 +64,16 @@ Liberator Nozomi 5★ Lv286 R30 FULL, EX 5/5/5
 Princess Kokkoro 3★ Lv286 R30 FULL, EX 5/3/5
 Labyrista 5★ Lv286 R30 FULL EX 5/5/5
 ![3](https://pomf2.lain.la/f/1w9tevrc.png)
+
+[B2 Physical 55-56m](https://www.youtube.com/watch?v=71u5V8HTixM)
+![3](https://pomf2.lain.la/f/fev8w7q7.png)
+Tested with:
+Liberator Muimi 5★ Lv286 R30 FULL, EX 5/5/5 
+Christina 6★ Lv286 R30 FULL, EX 5/5/5  no X.Chris Bonds required
+Liberator Nozomi 5★ Lv286 R30 FULL, EX 5/5/5
+Princess Kokkoro 3★ Lv286 R30 FULL, EX 5/3/5
+Labyrista 5★ Lv286 R30 FULL EX 5/5/5
+![3](https://pomf2.lain.la/f/hh0xi8ng.png)
 
 [B2 Physical 55-56m](https://www.youtube.com/watch?v=w1brhHC1cJk)
 ![3](https://pomf2.lain.la/f/2wslqhfs.png)
@@ -104,6 +127,16 @@ New Years Misato 5★ Lv286 R30 All Equips - BR 5, Others 0 , EX 5/5/5 (Full ref
 ![3](https://pomf2.lain.la/f/f82j2mb2.png)
 
 ### Boss 5
+[B5 Physical 55-57m](https://www.youtube.com/watch?v=II0R07YdFVU)
+![Proof](https://pomf2.lain.la/f/6szj5emm.png)
+Tested with:
+Christina 6★ Lv286 R30 FULL, EX 5/5/5
+Summer Nozomi 5★ Lv286 R30 FULL, EX 5/5/5 
+Camp Yukari 5★ Lv286 R30 FULL, EX 5/5/5 
+Labyrista 5★ Lv286 R30 FULL EX 5/5/5 
+Creditta 5★ Lv286 R30 FULL EX 5/5/5 
+![Timeline](https://pomf2.lain.la/f/s74k1h3s.png)
+
 [B5 Physical 52-56m](https://www.youtube.com/watch?v=qvkiLU3VWHw)
 ![Proof](https://pomf2.lain.la/f/yz26twbr.png)
 Tested with:
@@ -142,6 +175,7 @@ Labyrista 5★ Lv286 R30 FULL EX 5/5/5
 
 
 ### Boss 3
+[B3 Physical 57m](https://youtu.be/qL9yhUUpycw)
 
 ### Boss 4
 [B4 Physical 56-57m](https://www.youtube.com/watch?v=PUwiNC1Q_UE)

@@ -299,8 +299,14 @@ Marshal | Info
 
 Chad | Info
 :----:  | :----: 
-![](https://files.catbox.moe/x10ng8.png)   | Chad is what a lot of people consider to be the whole package. He's charming, charismatic, handsome, and with a bright future ahead of him. But even people like Chad have their problems, as the young man struggles with being a closeted bisexual on top of having some...extremely bipolar tastes depending almost entirely on gender.
+![](https://files.catbox.moe/x10ng8.png)   | Chad is what a lot of people consider to be the whole package. He's charming, charismatic, handsome, and with a bright future ahead of him. But even people like Chad have their problems, as the young man struggles with being a closeted bisexual on top of having some...extremely bipolar tastes depending almost entirely on gender. Comes with three greetings: meeting him during practice, being invited on a friendly(?) outing, and being invited to a party where he's already drunk.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/chad-98375328),  [Catbox](https://files.catbox.moe/fp2j61.png)
+
+Cairo | Info
+:----:  | :----: 
+![](https://files.catbox.moe/nrhyr8.png)   | Cairo is your average college-aged stoner, though he can't quite afford to go to college with the money he has. So whenever he's not working he's getting high, playing video games, and indulging in internet horror both shitty and good. Comes with three greetings: finding him getting high under the bleachers, visiting him at work on a slow day, and meeting him at the arcade.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/cairo-d48ff416),  [Catbox](https://files.catbox.moe/wy8ghk.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

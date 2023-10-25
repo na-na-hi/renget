@@ -1,4 +1,5 @@
-# This page is WIP
+# This page is a WIP
+### -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. <-
 - - -
 ##Contents:
 [TOC3] 
@@ -7,7 +8,7 @@
 - - -
 - - -
 # 
-##-> I do not encourage you to make fully AI generated characters. I see AI as a tool for brainstorming. <-
+###-> I do not encourage you to make fully AI generated characters. I see AI as a tool for brainstorming. <-
 # 
 - - -
 - - -

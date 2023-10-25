@@ -91,10 +91,13 @@ Rumble - super cool mod that hooks into game events to provide controller feedba
 Sweeping Organizes Stuff - not a fix, but really nice to have.
 Frozen Electrocuted Combustion - It's stable and more or less expands on vanilla. I consider it essential.
 Simply Knock SE - This needs (Simply Knock DLL for AE). The fact that this wasn't in vanilla is criminal.
-Dynamic Timescale - I use this for long RP, no nonsense and the out-of-the-box settings work fine for me. 
-*or* Time Passes - This one is more popular, since it only affects the flow of time while you are engaging in time-consuming actions (reading, crafting, etc). Some configuration is required - set time to 0 for crafting if using honed metal, 0 for eating if using CACO or economy mods.
 Dynamic Activation Key - Just a global that toggles what you do to things when you press a button. The Addons can sort of replace Use or Take although with some jank.
 **Æ** Essentials Be Gone SKSE Reborn - this one supposedly works sometimes, the other ones available don't work at all. good luck.
+
+Smart Timescale - Super simple timescale mod that speeds up time when "Nothing is Happening." Time goes back to standard timescale when in combat, or dialogue, or just about anything else.
+*or* Dynamic Timescale - similar but more intensive concept - makes time go faster outdoors, slower in taverns or homes, etc. Has a few bloat features so check the MCM.
+*Honorable Mention:* 
+Time Flies *or* Time Passes - these do pretty much the opposite as the two above. Time passes usually with a fade-to-black when crafting, reading, etc. Check your settings carefully for either since some mod activity (like Honed Metal) makes no sense with default settings.
 
 ##User Interface
 
@@ -102,8 +105,9 @@ Dynamic Activation Key - Just a global that toggles what you do to things when y
 
 Quick Loot RE *or* QuickLoot EE - pop-up, scrollable loot menu like fallout 4's. I actually don't use this, as I believe it ruins the flow of gameplay.
 SkyHUD - thick and powerful HUD replacement. Most SkyUI skins will include a SkyHUD skin.
-Oblivion Interaction Icons - Replaces the activate text ("Search", "Ride", "Molest", etc) with icons. Make sure to run the synthesis patcher. (Many icons are only for mod-added features like Use or Take or DAK, so check those out too.)
+Oblivion Interaction Icons - Replaces the activate text ("Search", "Ride", "Molest", etc) with icons. (Many icons are only for mod-added features like Use or Take or DAK, so check those out too.)
 Simple Activate SKSE - customize the activate prompt. Somewhat redundant with SkyHUD or BTPS but not entirely.
+*and/or* Immersive Activate SKSE - Fork of the above mod with more customization. More similar to the old iActivate.
 Read or Take SKSE - hold shift to pick up books. Zero jank, compared to old papyrus implementations.
 Use or Take SKSE - hold shift to interact with food, dropped torches, potions, poisons, etc. Also jank-free. *both of these can be set to gamepad keys.*
 Better Third Person Selection - lets you grab shit off the ground while staring at your character's ass, no pixel hunting required. *note: overrides all activate prompt settings from other mods. Check MCM carefully!*
@@ -196,7 +200,7 @@ Authentic Eyes - I've tested every eye texture there is, these blow them away. V
 *and* Mystic Eyes - More fantastical eyes for Mer.
 Player extra bright and glowing eyes fix - I use it, you don't have to, there are other eye fixes but they're a pain in the ass. This just works
 Expressive Facial Morphs and Expressive Facial Animations - reshapes and reanimates the faces basically.
-*Note: High Poly Head 1.4+ now supports EFM. For whatever reason, this may break old presets.*
+*Note: High Poly Head 1.4+ now supports EFM. For whatever reason, this may break old presets. If your shit looks fucked reinstall everything.*
 SC's Cubemaps - Every mod with cubemaps included uses utter dogshit cube maps from somewhere in Britain with street signs and shit. These are simply better and come in any size you could need. Load last so immersive jewelry or Dumbledor420's 8K Reflective Troll Nuts don't overwrite em
 *note:* Delete cavegreencube_e.dds - it turns your water neon green. It will drive you fucking insane.
 
@@ -244,7 +248,7 @@ Weapons of the Third Era MoS Edition SE - Leveled list distribution for some rea
 ###Notes on Gear Distribution
 
 Many gear mods, especially large-scale ones, change NPC records or leveled lists to add their armors. This is well and good until you have two mods changing the same NPC or leveled list and then it is not good. As of now, there is a solid library of mods using SPID to distribute old mods that had horrible compatibility and I cannot recommend them enough. The main series I would go for is RMB SPIDified: the author currently supports every armor mod I have in this guide and many more. There are others for old mods like Apachii Divine Elegance, if asset rips are your thing, and many more.
-Note that if guards are appearing naked you may want to roll back to SPID 6.4.0 for the time being, this is a known bug.
+Note that if guards etc are appearing naked you may want to roll back to SPID 6.4.0 for the time being, this is a known bug.
 
 ###Honorable Mentions:
 
@@ -259,12 +263,12 @@ If you need MOAR WEAPONZ BRO!?!?! than Reforging and WOT3E add: Immersive Weapon
 True Armor - All-in-one armor and enemy balancing via distributed perks. Arrows and swords might bounce off of plate armor, encouraging you to use daggers or maces. Regen and other attributes dynamically change based on how many pieces of each armor type you equip. Allows you to set enemy health limiters to remove damage sponginess. Shields passively block when equipped. Just Works. This is the single most impactful change you can make to skyrim combat and everyone should use it, even if they use the balanced preset like some sort of milkdrinker.
 *Big Or*
 Know Your Enemy 2 + Armors + Integration Patch - I have to grudgingly admit that this is more functional than True Armor in Anno Toddini 2023. It has more categories and works seamlessly at runtime with no script load to speak of. 
-*and* NPC Stat Rescaler - this is a Synthesis patch but the nexus page explains what the options do. This is completely mandatory with KYE2 since the vanilla health sponge shit is ridiculous when you start adding resistances of any kind.
+*and* NPC Stat Rescaler - this is a Synthesis patch but the nexus page explains what the options do. This is completely mandatory with KYE2 since the vanilla health sponge shit is beyond ridiculous when you start adding resistances of any kind.
 
 *well which one do I use then smartass?*
-For my money, if you are playing solo or with one follower and playing a knight or paladin type class, I would use True Armor. You will get all of its strengths (it is very cool when enemy arrows or swords bounce off of you) and fewer of its weaknesses (NPCs do not interact with the system so multiple followers will immediately overpower heavy tank enemies without respect to its armor.) For any other class or for a large gang of goons, KYE is fine.
+For my money, if you are playing solo or with one follower and playing a knight or paladin type class, I would use True Armor. You will get all of its strengths (it is very cool when enemy arrows or swords bounce off of you) and fewer of its weaknesses (NPCs do not interact with the system so multiple followers will immediately overpower heavy tank enemies without respect to its armor.) When playing an archer or poisoner, or for a large gang of goons/bodyguards, KYE2 is fine.
 
-Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn SPID Uncloak (NOT Valravn Uncloaked, which does not work), to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors - or a Realistic Damage plugin to avoid bloat.
+Valravn - This is script-free (note: scripts aren't bad, but they usually are in combat mods.) and has all of the smart features a lightweight overhaul needs: it gives weight to stamina management, has faster but delayed attribute regen, and it tightens up reach, movement and block/attack angles. Make sure to get Valravn SPID Uncloak (NOT Valravn Uncloaked, which does not work), to apply its effects through SPID. If you find yourself liking it but just wish it were faster, you might want to try Smilodon or Wildcat - its ancestors.
 
 You have two 'modern' options when it comes to full-blown combat overhauls: 
 
@@ -287,13 +291,13 @@ Dynamic Collision Adjustment - shrinks character hurtbox dynamically so you can 
 ##Perks:
 
 Ordinator - gimmicky, bloated, mod author is a nazi, blah blah. Still the best perk mod out there for in depth builds. Difficulty drops sharply and early.
-*or* Masterly - Intuitive Skill Tree Integration - at this point I should get paid for all the shilling I do for the doc's mods, but they're really that good. No broken superhero bullshit like Ordinator but allows for a similar amount of build focus. Much slower scaling, making choices more impactful. NPCs get perks via SPID
+*or* Masterly - Intuitive Skill Tree Integration - at this point I should get paid for all the shilling I do for the doc's mods, but they're really that good. No broken superhero bullshit like Ordinator but allows for a similar amount of build focus. Much slower scaling, making choices more impactful. NPCs get perks via SPID.
 *or* Vokrii - Vanilla Pluth. It's actually really good for stealth and warrior trees but the magic isn't quite as wacky as Ordinator, it's just numbers and scaling mostly. Same difficulty curve as Ordinator, and also made by a nazi
 *or* Adamant - I don't know anything about this but it's also 'vanilla pluth' and the mod author is a prissy s'wit with a discord so it can't possibly offend anyone. Apparently this gives you all the abilities at the start and then the perks don't do anything. Very cool!
 
 *Consider:* Vokriinator - Like everything out there but wish there was more of it? You'd probably be a Vokriinator Enjoyer. The Black version is a bit bloated, although it does include Path of Sorcery which is cool. Most users would want the Non Black variant because they are Racist however.
 
-*Note: There are hundreds of other options and the majority are total overhauls of the core Skyrim levelling experience. Most of the old standbys (SkyRE. PerMa, etc) have been revived by Synthesis patchers or other continuations and are still viable options in Anno Toddini 11. Do your research before picking one, as you're stuck with it for your entire playthrough.*
+*Note: There are hundreds of other options and the majority are total overhauls of the core Skyrim levelling experience. Most of the old standbys (SkyRE. PerMa, etc) have been revived by Synthesis patchers or other continuations and are still viable options in Anno Toddini 11. Some new options like Master of One or Synergy allow for heavy build focus at the expense of other skills! Do your research before picking one, as you're stuck with it for your entire playthrough.*
 
 Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. I recommend Honed Metal Voiced and Additional Materials - all can be found in requirements section of original Honed Metal.
 
@@ -328,7 +332,7 @@ Arcane Studies - This is a modern, very lightweight and compatible spell learnin
 ##Towns:
 
 Cities Of The North (don't fall for the JK trap - if you do want his cities, convert the individual oldrim plugins. I use Solitude for the thieves highway.)
-Capital Windhelm Extension (also, Whiterun) - These are sweeping, lore-friendly, and mostly high quality conversions for what are supposed to be huge, historic cities. Worth a try if you absolutely hate the small underpopulated cities. Not recommended for huge modlists - you'll inevitably end up doing some patching yourself and still crash every 2 minutes.
+Capital Windhelm Extension (also, Whiterun) - These are sweeping, lore-friendly, and mostly high quality conversions for what are supposed to be huge, historic cities. Worth a try if you absolutely hate the small underpopulated cities. Not recommended for huge modlists - you'll inevitably end up doing some patching yourself and still crash every 2 minutes! You have been warned.
 Lux - This has gained a lot of traction so despite being made by a European it is worth a try if only because of its extremely wide compatibility. Newer versions are no longer comically dark, which was my main gripe before. (If you ctrl+f "Lux" in any thread from over 6 months ago, the first reply will be "can't see shit" - for good reason.)
 *or* Window Shadows RT - This has patches for the above city mods and looks good. Much narrower range of compatibility patches than Lux. Doesn't do anything for dungeons, might want to throw in ELE for that.
 Obscure's College of Winterhold - made by some liberal obsessed with the brown people but it's pretty comfy. Unless of course you want the college to be lore-friendly, a small outpost of scholars slowly dying out as they hoard largely irrelevant knowledge and lash out at any newcomers in reciprocal fear. *brown person shrugging emoji*
@@ -338,11 +342,11 @@ Obscure's College of Winterhold - made by some liberal obsessed with the brown p
 ###General Balance
 
 SkyRem series:
-Evolving Value Economy - The cornerstone. Dynamic costs for just about everything based on a host of in-game variables. Highly compatible as it self-regulates.
+Evolving Value Economy - The cornerstone. Dynamic costs for just about everything based on a host of in-game variables. Highly compatible as it self-regulates over time and works via a single perk.
 Improved NPC Encounter Zones - This is just an encounter zone mod like Arena. I prefer its logic to most others.
 Loot Overhaul - Rarity and Abundance - Relevels all loot tables to be more sensible. *note: SPID distribution is recommended for all weapon/armor mods when using LORA, unless they are in its list of patched or working OOTB.*
 
-*or* True Unleveled Skyrim - this is a synthesis patcher now, and it's really good. If you feel like having the Morrowloot Experience without the 6 million patches, this can be tuned to almost perfectly replicate it! Just use morrowloot miscellania and you're good to go. This also rebalances encounter zones.
+*or* True Unleveled Skyrim - this is a synthesis patcher now, and it's really good. If you feel like having the Morrowloot Experience without the 6 million patches, this can be tuned to almost perfectly replicate it! Just use morrowloot miscellania's item distribution (and maybe crafting requirements) and you're good to go. This also rebalances encounter zones.
 
 For combat balance see the Combat section.
 

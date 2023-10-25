@@ -1084,11 +1084,11 @@ medium breasts, breasts, genitals, nipples, nude, pussy, white body,
 	Catbox: https://files.catbox.moe/96uzxq.safetensors
 	Civitai Direct Link: https://civitai.com/api/download/models/177590?type=Model&format=SafeTensor
 
-Daisy Duck (LeMans42)
+**Daisy Duck (LeMans42)**
 
 	https://files.catbox.moe/i8114i.safetensors
 
-Daisy Duck (Modern Ducktales)
+**Daisy Duck (Modern Ducktales)**
 https://civitai.com/models/171618/daisy-duck-or-ducktales-2017
 
 Fourth Lora, I get it.
@@ -1113,6 +1113,22 @@ Reinforcement NSFW Tags:
 breasts, genitals, nipples, nude, pussy, white body, 
 
 	https://files.catbox.moe/qh5gtu.safetensors
+
+**Lena Sabrewing**
+https://civitai.com/models/176975/lena-sabrewing-or-ducktales-2017
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+lena sabrewing, ducktales, duck, beak, scut tail, white skin, white hair, pink highlights, short hair, eyeliner, purple eyeshadow, pink eyeshadow, orange legs, webbed feet,
+
+Reinforcement SFW Tags:
+
+clothed, clothing, long sleeves, teal dress shirt, striped shirt, black shorts, sneakers, pajamas, light green shirt, bracelet, bra strap
+
+	https://files.catbox.moe/1uj3n3.safetensors
 
 # sake kemosalmon (Artist)
 
@@ -1326,6 +1342,17 @@ Breast size slider LoRA v1 Alt
 >And a version that doesn't go quite as big, but affects the overall composition a lot less.
 
 	https://files.catbox.moe/036d34.safetensors
+
+# Naoko (alvh-omega)
+>Recommend using the LoRA at 0.7 weights.
+>Catbox with some of the tags she has for you to mess around with https://files.catbox.moe/5llwj5.png
+``by pixelsketcher, by meesh, by personalami, high quality, highres, absurdres, detailed background, cherry blossoms, cloud, sunset, BREAK
+ <lora:naokotest5:0.7>, naoko, red highlights, kitsune, 9 tails, multi tail, red markings, white fur, white body, black eyes, bell collar, nude, nipples, wet pussy, fangs, open mouth, huge breasts, large areola, erect nipples, sagging breasts, puffy nipples, mature female, 
+Negative prompt: easynegative, boring_e621_v4, bwu, dfc, ubbp, updn, sepia, dark, amputee, multi balls, multi penis, blurry face, poorly drawn face, poorly drawn hands, blurry hands, blurry, simple background, disfigured, mutant, ugly, absorption vore, assimilation, docking, multi limb,
+Steps: 20, Sampler: Restart, CFG scale: 7, Seed: 860553435, Size: 600x800, Model hash: 821628644e, Model: EasyFluffV11.2, Denoising strength: 0.5, CFG Rescale: 0.7, Auto Color Fix Strength: 0.2, Hires upscale: 2, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Lora hashes: "naokotest5: 36497ef79c2a", Version: v1.6.0``
+>Trained on outfit tags bikini, crop top, booty shorts, kimono, boots, tank top, graphic shirt. Object tags fan, beer, whiskey.
+
+	 https://files.catbox.moe/uqumxo.safetensors
 
 ## LORAs from the Discord
 

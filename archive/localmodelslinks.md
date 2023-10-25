@@ -9,14 +9,14 @@
 [Local Models GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.org/Mikubox-Triple-P40)
 |
 **Models**|
-[TheBloke's Huggingface Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
+[TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Models Information Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
-[Local Models Papers Rentry](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up-to-date with new papers and articles
+[Local Models Papers](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up-to-date with new papers and articles
 [Arxiv Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of ML/AI papers 
 [PapersWithCode](https://paperswithcode.com)|Paper indexer that allows sorting by github stars
 |
@@ -35,7 +35,7 @@
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
 [Foundational ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
-[AttentionViz Interactive Tool](http://attentionviz.com)|Visualizes global attention patterns for transformer models
+[AttentionViz Tool](http://attentionviz.com)|Visualizes global attention patterns for transformer models
 [Diffusion Explainer Tool](https://github.com/poloclub/diffusion-explainer)|Shows how SD transforms text into image with timesteps
 |
 **Prompting**|
@@ -57,7 +57,7 @@
 [exllama2](https://github.com/turboderp/exllamav2)|Inference library for local LLM with new quant style (70B llama2 on 24GB VRAM)
 [vllm](https://github.com/vllm-project/vllm)|Inference library with fast inferencing and PagedAttention for kv management
 |
-**Quantization and Tuning**|
+**LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning Tool for various architectures with integrated support for flash attention and rope scaling 
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
@@ -90,8 +90,10 @@
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
-[Set-of-Mark Segmentation](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[Set-of-Mark Prompting](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
+[LLaVA](https://github.com/haotian-liu/LLaVA)|Visual instruction tuned multimodal LLM (CLIP+Vicuna)
+[SALMONN](https://github.com/bytedance/SALMONN)|Audio instruction tuned multimodal LLM (Whisper+BEATS+Vicuna)
 [Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
@@ -113,6 +115,6 @@
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
 [Music AI Voice](https://huggingface.co/QuickWick/Music-AI-Voices)|For use with RVC or SVC audio voice cloning 
 [Wikipedia Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
-[Coomer Forums Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
-[Visual Novels EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
+[ERP Forum Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
+[VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 [Data-Juicer](https://github.com/alibaba/data-juicer)|Broad featured dataset preparation tool from Alibaba

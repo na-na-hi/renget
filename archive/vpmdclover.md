@@ -342,6 +342,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 4 (ft. Makky)](https://rentry.org/GreatBulk4) 
 	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) 
 	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
+	* [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -600,6 +601,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 * {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 * {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
+* {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

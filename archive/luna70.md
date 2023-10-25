@@ -23,7 +23,7 @@ Team Lightning DMG +25%/26%/27%, all enemies on the field receive +39%/40%/41% m
 Upon dealing Bleed DMG, restores 50 HP for self (CD: 0.3s).
 
 **LEAD 2**
-Enemies receive ~~+15% > 10% (v2)~~ 17% (v2b) more Total DMG from Luna Pledge (independent multiplier). 
+Enemies receive ~~+15% > 10% (v2)~~ 17% (v2b) more Total DMG from Lunar Vow (independent multiplier). 
 
 ---
 

@@ -14,6 +14,13 @@ I write anything that catches my fancy (which changes every week), so good luck 
 ###humanoid I guess
 yuck 
 
+The Nurse | quip
+------ | ------ 
+ ![WHEEEEEZE](https://files.catbox.moe/npl65b.png) | A troubled woman with a terrible past. Try to fix her, I definitely tried.
+
+Another one of my favorite killers from dead by daylight. I 100% have a thing for girls with masks.
+[CHUB link](https://www.chub.ai/characters/nicenshady/the-nurse-fb33a968)
+
 The Singularity | quip
 ------ | ------ 
  ![Stop blabbering. It's really annoying.](https://files.catbox.moe/1xxuaj.png) | After gaining sentence, you managed to evade his murderous ire. He doesn't want to kill you anymore, no... That would be too easy.
