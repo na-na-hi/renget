@@ -1317,6 +1317,16 @@ See above for a rough explanation, positive weight for more color, negative weig
 
 	https://files.catbox.moe/jq7wau.safetensors
 
+Breast size slider LoRA v1
+>Turned out more like a curviness slider, but oh well. Values up the top of the plot are the LoRA strengths; this works with both positive and negative weights at much higher values than normal. Negative is smaller breasts, positive is larger.
+>The plot prompt had no breast size tags in it; I haven't yet tested how they affect the LoRA.
+
+	https://files.catbox.moe/nl8i4l.safetensors
+Breast size slider LoRA v1 Alt
+>And a version that doesn't go quite as big, but affects the overall composition a lot less.
+
+	https://files.catbox.moe/036d34.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

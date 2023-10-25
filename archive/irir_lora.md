@@ -293,6 +293,12 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 - 誤検出タグ
 	モデルの記憶と混ざって意図しないものが出てくるかもしれない。
 
+#### 消すべきでないタグ
+- 衣装
+	着せ替えしたいなら残す。
+- 人数のタグ(1girlなど)
+	消すと生成時に1girlと指定しても2girlsになったりする場合あり。
+
 #### 例
 ![IMG](https://files.catbox.moe/j6lflf.png)
 上の画像には次のタグがつけられた。
@@ -334,7 +340,7 @@ Optimizerは余計な物まで学習することが少ないAdamW系でいいと
 
 ## 正則化画像の検証
 正則化画像の種類でどう変化するか検証。4つのパターンで検証。
-ちな正則化(Regularization)と正規化(Normalization)は別物やで!
+ちな正**則**化(Regularization)と正**規**化(Normalization)は別物やで!
 - 正則化無し
 - Booruサイトの画像64枚
 	適当に64枚集めた画像
@@ -406,7 +412,7 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 
 画像を右クリックして別タブで開くと見やすい。
 ![Image](https://files.catbox.moe/mtv0zh.webp)
-ええと。。。ちな腕章にJという文字が書かれているはずだがうまく出ない。SD1.Xの限界。ヘイローが溶けてるのはいつものこと。
+ええと。。。ちな腕章にJとJusticeという文字が書かれているはずだがうまく出ない。SD1.Xの限界。ヘイローが溶けてるのはいつものこと。
 再現度確認の参考に:[Danbooru検索「ichika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=ichika_%28blue_archive%29&z=5)
 
 \-

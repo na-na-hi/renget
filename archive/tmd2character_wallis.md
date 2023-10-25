@@ -24,7 +24,7 @@ Pokémon's Ability | Description
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
-->*65/400 points to Normal Rank*<-
+->*105/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

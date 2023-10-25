@@ -6,7 +6,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 8 | **Experience to Next Level:** 55/80
+**Level:** 9 | **Experience to Next Level:** 10/90
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
 
@@ -15,12 +15,12 @@ Pokémon's Ability | Description
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*65/400 points to Normal Rank*<-
+->*105/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 1 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Defense **ɪ** | +2 Physical Mitigation
@@ -32,7 +32,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
 Aqua Tail | 9BP | 7AP | ≥7 | Water | Physical | No secondary effect. (UNTRAINED)
-Bite | 6BP | 5AP | ≥2 | Dark | Physical | 14-20; The Opponent Flinches.
+Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with Poison.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -71,8 +71,8 @@ Item Name | Description
 *Worn/Held Item: Eᴍᴘᴛʏ | Vacant worn slot.
 *Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Warp Seed | Random teleport seed.
-2. Ban Seed | Disables the target's last move.
-3. Fog Orb | Makes the weather Foggy.
+2. Fog Orb | Makes the weather Foggy.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -92,5 +92,6 @@ Name of Move | Description
 ------ | :----: 
 Wrap | The Opponent is afflicted with Wrapped.
 Lick | 16-20; The Opponent is afflicted with Paralysis.
+Bite | 14-20; The Opponent Flinches.
 
 ![What do you want? The page's over. Go home.](https://matrix-client.matrix.org/_matrix/media/r0/thumbnail/matrix.org/YnuGDvoLtCwQRDAoXmWRwQWV?width=800&height=600&method=scale)

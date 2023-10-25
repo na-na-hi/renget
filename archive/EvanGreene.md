@@ -23,7 +23,7 @@ Contrary | The User's Stat increases and Stat decreases are swapped.
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 |  Level 5 (20HP) | 20HP
-Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
+Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Attack | 0 | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat:  | 0 | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

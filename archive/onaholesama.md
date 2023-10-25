@@ -159,7 +159,9 @@ Image| Name
 ###DALL-E-3 AUTOPROOMPT
 ```python
 """
-https://www.youtube.com/watch?v=cHXi2KNBhEY
+https://www.youtube.com/watch?v=_1xhj5M6O30
+10/25/2023- nvm this is actually fully automated :)
+10/24/2023- this (should) be fully automated now i think, but bing has implemented some anti-botting measures.
 10/17/2023- fixed auto resetting boosts, should now be fully automated. FUCK AI ETHICISTS. 15 boosts per account lel.
 10/14/2023- added auto resetting boosts- MAKE SURE EMAIL IS VALIDATED OR PROGRAM WILL CRASH!!!
 10/13/2023- more consistent downloading and some loop fixes.
@@ -192,7 +194,7 @@ i = 0
 idx = 0
 filtered = 0
 ratelimited = 0
-timeout = 50
+timeout = 40
 
 def checkElementExists(name, type):
     try:
@@ -216,7 +218,7 @@ def downloadImage(idx, single):
             elements[idx].click()
 
         driver.switch_to.frame('OverlayIFrame')
-        time.sleep(3)
+        time.sleep(2)
         download_image = driver.find_element(By.XPATH, '/html/body/div[2]/div/div/div[2]/ul/li/div/div/div[1]/div[2]/ul/li[3]/div/span/span[2]')
         time.sleep(1)
         download_image.click()
@@ -231,26 +233,38 @@ def downloadImage(idx, single):
 
 def resetTokens():
     try:
-        driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click() 
+        thingamajig = driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img')
+        thingamajig.click()
     except:
-        driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/img').click()
+        try:
+            thing = driver.find_element(By.XPATH, '/html/body/div[4]/div[1]/div[2]/div[1]/div[2]/a[1]/span[2]')
+            thing.click()
+        except:
+            kerchigger = driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/span[2]')
+            kerchigger.click()
+    time.sleep(2)
     try:
         driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
     except:
         driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
 
     time.sleep(2)
+    driver.get("https://www.bing.com/images/create/")
+    time.sleep(2)
     driver.find_element(By.ID, 'sb_form_q').clear()
     time.sleep(2)
 
     while True:
         try:
-            driver.find_element(By.ID, 'create_btn_c').click()
+            doohickey = driver.find_element(By.ID, 'create_btn_c')
+            doohickey.click()
             break
         except:
+            driver.get("https://www.bing.com/images/create/")
+            time.sleep(2)
             print("FUCk YOU BING")
 
-    time.sleep(3)
+    time.sleep(2)
     emailForm = driver.find_element(By.ID, 'i0116')
     emailForm.send_keys(email)
     driver.find_element(By.ID, 'idSIButton9').click()
@@ -279,13 +293,13 @@ def resetTokens():
     time.sleep(2)
     while True:
         try:
+            driver.get("https://www.bing.com/images/create/")
             createbtn = driver.find_element(By.ID, 'create_btn_c')
             time.sleep(1)
             createbtn.click()
-            driver.get("https://www.bing.com/images/create/")
-            driver.refresh()
             time.sleep(1)
-            driver.find_element(By.ID, 'token_bal') 
+            if driver.find_element(By.ID, 'token_bal').text != '15':
+                continue
             time.sleep(1)
             break
         except:
@@ -314,11 +328,13 @@ password = str(input("paste password here: "))
 
 emailForm = driver.find_element(By.ID, 'i0116')
 emailForm.send_keys(email)
+time.sleep(1)
 driver.find_element(By.ID, 'idSIButton9').click()
 time.sleep(2)
 
 passForm = driver.find_element(By.ID, 'i0118')
 passForm.send_keys(password)
+time.sleep(1)
 driver.find_element(By.ID, 'idSIButton9').click()
 time.sleep(2)
 
@@ -345,20 +361,20 @@ while True:
 
         wait = WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.ID, 'create_btn_c'))) # clike button
         wait.click()
-        driver.implicitly_wait(16) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
+        driver.implicitly_wait(20) # keep this between 12-20 seconds. if you're expected to be filtered a lot you can keep it low
 
         if checkElementExists('[alt="Unsafe image content detected"]', 'dog'): # YJK.
             filtered += 1
             print("filtered ", filtered, " times; retrying")
             continue
-        elif checkElementExists('[alt="There was a problem creating your images"]', 'robot'): # TOTAL PUFFERFISH DEATH
-            ratelimited += 1
-            print("rate limited ", ratelimited, " times; retrying")
-            driver.get("https://www.bing.com/images/create/")
-            time.sleep(2)
-            inputform = driver.find_element(By.ID, 'sb_form_q')
-            inputform.send_keys(proompt)
-            continue
+        #elif checkElementExists('[alt="There was a problem creating your images"]', 'robot'): # TOTAL PUFFERFISH DEATH
+            #ratelimited += 1
+            #print("rate limited ", ratelimited, " times; retrying")
+            #driver.get("https://www.bing.com/images/create/")
+            #time.sleep(2)
+            #inputform = driver.find_element(By.ID, 'sb_form_q')
+            #inputform.send_keys(proompt)
+            #continue
 
         if checkElementExists('gir_mmimg', 'class'): # only a single image generated
             downloadImage(0, True)
@@ -402,6 +418,7 @@ while True:
         time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.send_keys(proompt)
+        inputform.click()
         continue
 
 driver.close()

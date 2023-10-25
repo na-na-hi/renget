@@ -23,11 +23,22 @@
 ## Assets & Wikia
 * [Limbus Company Database / Wiki](https://limbus.kusoge.xyz/)
 * [Dustloop Wiki](https://www.dustloop.com/w/LCB/)
-* [Limbus Company - Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z)
+* [Limbus Company Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z)
 * [ID & E.G.O animations](https://yuehailunna.lofter.com/view)
+* [Limbus Company Font List](https://bysmile0824.postype.com/post/14436984)
 * [Limbus Company Fandom](https://limbuscompany.fandom.com)
-* [Library of Ruina - Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
+* [Library of Ruina Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
+* [Library of Ruina Database](https://tiphereth.zasz.su/)
 * [Library of Ruina Fandom](https://library-of-ruina.fandom.com)
+* [Lobotomy Corporation Unorganized Assets](https://drive.google.com/drive/u/0/folders/1LPPEtpkBelpLthHxFW3RXwYUMYjdU-uj)
+* [Lobotomy Corporation Weapon Assets](https://files.catbox.moe/wd70hi.zip)
+* [Lobotomy Corporation Sephirah](https://drive.google.com/drive/folders/1xUjzA7t_b1DHpn-UAd9yabl6AwhB3mVU)
+* [Lobotomy Corporation Beta Sephirah](https://drive.google.com/drive/folders/1sF6bRqTBUgK0SAg_nBlKZ_kaDrlZ_K8s)
+* [Lobotomy Corporation Punishing Bird Assets](https://drive.google.com/drive/folders/15jwxUWm3a0ScP21GtmpkADbnZWPzgKqc)
+* [Lobotomy Corporation Whitenight Assets](https://drive.google.com/file/d/1kBqaRg0uBI6w-GND0lT2a2oYhb3OR-YE/view)
+* [Lobotomy Corporation Sound Files](https://mega.nz/folder/lhsX0SQb#mV1GQJCm02LmnQWx9D3BVg)
+* [Lobotomy Corporation Ordeal Text](https://pastebin.com/FzEvUJYA)
+* [Lobotomy Corporation Font List](https://files.catbox.moe/cfn13k.png)
 * [Lobotomy Corporation Fandom](https://lobotomycorp.fandom.com)
 
 ## Guides
@@ -49,7 +60,7 @@
 * [Lobotomy Corporation Artbook (All languages)](https://mega.nz/folder/Ey0RFBKT#1siorKpaKBmRZ1-QuUITtg)
 * [Recommended Translations](https://rentry.org/ligmabooks)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
-* [Distortion Detective](https://projectmoon.postype.com/series/491543/the-distortion-detective)
+* [Distortion Detective](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/RhtACaRa)
 * [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
 * [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
 * [2021 Project Moon Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
@@ -99,7 +110,6 @@
 * [Book of Fixers: The Fixer RPG](https://archive.4plebs.org/tg/thread/76610447/)
 * [Limbus Company Character Generator](https://en.shindanmaker.com/1163956)
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
-* [Ingame Font List](https://bysmile0824.postype.com/post/14436984)
 * [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
@@ -139,4 +149,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/6/23: Added alternative Lobco artbook link
 10/10/23: Added LittlePMStuff link
 10/16/23: Added identity story viewer link
-10/20/23: Added all interview links and LobCo LP link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/20/23: Added all interview links and LobCo LP link
+10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to. ![lol&](https://files.catbox.moe/7dmu76.png)

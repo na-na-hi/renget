@@ -12,6 +12,7 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 Future Release Dates:
 「!」 WarioWare Move It releases on November 3rd, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
+「!」 Mario vs. Donkey Kong REMAKE releases on February 16th, 2024
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:

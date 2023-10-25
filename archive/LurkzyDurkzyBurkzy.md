@@ -19,6 +19,14 @@ Changelog:
 ***
 ##->Logs (Updated 25 Oct)<-
 ***
+###-> [Faye](https://chub.ai/characters/lurkinginpines/faye-e90a5ee4) - By lurkinginpines<-
+->![Card3](https://avatars.charhub.io/avatars/lurkinginpines/faye-e90a5ee4/avatar.webp?size=0.9258134364543849)<-
+
+->**Description**: You are meeting a cute girl on a blind date. As it turns out, she is also blind. Shy and lonely, she was dumped again and again.<-
+
+->**Genres**: Saviorfagging, Romance<-
+->![Faye2](https://i.imgur.com/FUUCCJc.jpg)<-
+***
 ###-> [Freya](https://chub.ai/characters/LukeyPoo488/freya-72726dda) - By LukeyPoo488<-
 ->![Card](https://avatars.charhub.io/avatars/LukeyPoo488/freya-72726dda/avatar.webp?size=0.6130422405938563)<-
 
@@ -34,3 +42,11 @@ Changelog:
 
 ->**Genres**: Survival, Zombies<-
 ->![Shizuka2](https://i.imgur.com/i3EtP3i.jpg)<-
+***
+###-> [Amy](https://chub.ai/characters/tidbit/amy-5538c44a) - By tidbit<-
+->![Card3](https://avatars.charhub.io/avatars/tidbit/amy-5538c44a/avatar.webp?size=0.0843351948270401)<-
+
+->**Description**: You accidentally find out your mom is addicted to gloryholes. Will you confront her, or will you...?<-
+
+->**Genres**: Gloryhole, Milf, Incest<-
+->![Amy2](https://i.imgur.com/AuwFmZR.jpg)<-
