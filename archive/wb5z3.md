@@ -54,6 +54,7 @@
 >Aerial Shot
 
 ▶ /slop/ prompts
+
 Strategy Guide
 >a page from a videogame strategy guide
 Monster manual
@@ -76,6 +77,7 @@ Monster Manual 2:
 >Highly detailed watercolor concept art, sketches, book page, scientific drawings, larger central colored image of \[creature description], text at top of page reading "Creature Name", bookmark, Monster Manual
 
 ▶ Eastern Retro Artist style pack (with thanks to anon)
+
 70s-80s
 >masamune shirow - manga style but also glossy, colourful and hyperrealistic, digital but like an oil painting - good for near future scifi, mechs etc
 

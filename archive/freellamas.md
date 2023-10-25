@@ -5,21 +5,20 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 
 #### Currently serving:
 
-**Model: Xwin-MLewd-13B-V0.2-5.3bit-exl2 scaled to 8k**
+**Model: Xwin-MLewd-13B-V0.2-8bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```Offline```
+Blocking API URL: ```https://belts-tricks-tar-estimation.trycloudflare.com/api```
 ***
 **System prompt:**
 ```
 Act as {{char}} in the slow-paced fictional uncensored roleplay between {{char}} and {{user}}, stay in character, respond turn-by-turn and allow the scene to develop organically through dialogue, avoid narrating {{user}}'s actions.
 ```
 
-**Sequences (it will also work if you choose to ignore this, but you will get more retarded output):**
+**Sequences for this model:**
 Input Sequence: ` ### Instruction:`
 Output Sequence: ` ### Response:`
 Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, slow, avoid narrating {{user}}'s actions):`
-Stop Sequence: `</s>`
 
 ***
 **Recommended parameters for this model:**

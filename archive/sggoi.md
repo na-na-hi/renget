@@ -980,3 +980,58 @@
 >She thanks you for being with her, so that she didn't have to attend this party alone.
 
 ***
+
+## Day 19 - Wedding / Wife Shiori
+
+Day 19 of Holoctober is wedding day, I'm slowly catching up! Soon I'll be there. Anyway this was meant to be posted last page but I spent a lot of time thinking on it. I hope it's good and enjoyable. Also any tips on what can be done better are always appreciated.
+Rentry for past days: https://rentry.org/sggoi
+>You sit at the dining table
+>Candles are lit on the table, a rare occasion
+>But such an occasion is necessary, after all, it's the second anniversary since the two of you were wed.
+>You cooked dinner for the first anniversary, and she agreed that she would do it this time.
+>As you wait for the food to arrive, you close your eyes and your thoughts drift back
+>You can see your own wedding, replaying like a film in your mind
+>She looked the most beautiful she had ever been that day
+>It was a rather small, private wedding, neither of you wanted the other's family to attend
+>The only witnesses to your wedding were the priest overseeing the ceremony and God.
+>Shiori's smile was brighter than any other.
+>The pure white bridal gown and the sun shining through the stained glass window, making it all the more radiant.
+>As you exchanged your vows back then, you saw her face, as her tears slowly ran down her cheeks
+>It was the happiest day of her life, and yours as well
+>Finally, after the rings were exchanged, and after the priest had said it, the two of you exchanged a loving kiss.
+>Suddenly, your mind is brought back to the present
+>Shiori is now sitting in front of you, gazing at you with a smile
+>Her gentle words had brought you back despite you not hearing her the first time
+>She giggles a little, then repeats herself: "You're thinking about our wedding aren't you? You always make that face when you do."
+>You look at her, a slight tinge of red paints your cheeks
+>"Yeah, you caught me there." your tone is a little embarrassed, but her smile towards you tells you there's nothing to be embarrassed about at all.
+>She then motions to a bowl placed in front of you, it seems this is the dinner she had prepared for the two of you.
+>It's a soup, though bland sounding for such a special occasion, Shiori isn't exactly best known for her cooking skills.
+>Despite that, you take notice of the contents of the soup.
+>It's steaming hot, a creamy green soup which has diced onions, carrots, and round pees, floating on the surface.
+>There's an accompanying aroma of butter and bits of chicken meat, shredded and cooked carefully.
+>You take a spoon and scoop up some of the soup. Shiori eyes your movements, her face full of expectation
+>As you bring the spoon to your mouth, you can smell the black pepper and onions, you then take a taste
+>Instantly you're hit with an explosion of flavour on your taste buds, the freshness of the vegetables hits first, then the rich and fresh taste of the butter with the onions and chicken standing out.
+>Your body feels warmed, your eyes widen and light up in surprise, there's also the slight taste of mint behind it all.
+>Shiori's gaze never leaves your face through the entire thing, and your reaction has greatly pleased her as she breathes out in relief.
+>"I thought you wouldn't like it, you know how ditzy I am...I tried really hard on this for you Anon...for us."
+>You hold back your desire to praise her, as you had better ideas, one that involved the two of you closer, more intimately.
+>Before that comes to pass however, you reach over to your office bag and take out a wrapped box for her.
+>Another new anniversary tradition, if one cooks, the other brings a gift.
+>She opens it and her face shows delight, the reaction you were hoping for.
+>A hairpin that could match her current hair pin on the opposite side.
+>You spent ages searching for one that's appropriately matching, thankfully those efforts didn't go to waste.
+>Finally as you finish your soup, and Shiori enjoys hers, the two of you agree to clean up together
+>The kitchen however, is somehow a trainwreck, one that doesn't surprise you, but one that you aren't about to let ruin your wonderful day.
+>The clean-up takes a couple hours, both of you spent it giggling together, bantering slightly on how she somehow managed to pull off an amazing soup despite the kitchen looking like Hell itself. 
+>She responded by bringing up memories of the first time you cooked for her before getting married, how clumsy you were and how you even accidentally cut yourself.
+>With the clean-up finally taken care of, the two of you notice the time and decide to head up to the bedroom together.
+>You lift her up, in a bridal carry style, her face flushing red as you sweep her off her feet.
+>You carry her up to your bedroom, where you lay her on the bed, and the two of you share a rather passionate and intimate kiss.
+>Finally, as you lean over her she extends her hands towards you, her fingers wrapping around the back of your neck.
+>"Happy anniversary, my husband." she whispers to you softly.
+>You look down on her and respond back.
+>"Happy anniversary. Shiori. My wife."
+
+***

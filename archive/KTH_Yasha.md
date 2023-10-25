@@ -16,8 +16,8 @@ Generation: Disciple
 Talent: Crippled
 Realm: 0
 > Body Tempering
-Talent: Mortal
-Realm: 2
+Talent: Immortal (Life-Bound Treasure)
+Realm: 3
 > Soul Refining (-30)
 Talent: Immortal (-20)
 Soul Scenery (-10)

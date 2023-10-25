@@ -148,17 +148,22 @@ If the AI appears to be stuck in a loop of repeating the same words, it might be
 
 The other issue may be the "Ah, ah, mistress!" problem, your reply is just either moans, or "I continue doing what I am doing.",  "Continue." or even an empty message. AI just doesn't know how to proceed with the scene further. (Possible solution would be utilizing two LLMs (or separate agents) which work in tandem with each other, one creating context and one focusing on story itself with their own sets of instructions, but this is not possible in Tavern right now. LLama looks good for this purpose. Maybe.)
 #####
-**Q7: AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly it writes the story instead!)**
+**Q7: "AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly it writes the story instead!)"**
 A7:  If you're trying to talk directly to GPT/Claude (not your character), turn off the JB and erase the prefill (for Claude). You can create an empty card just to chat with the AI or start your message with [Roleplay is paused] - this works even with JB (mostly).
 #####
-**Q8: Output style and narration feel a bit generic. Is there some way to change it?**
+**Q8: "Output style and narration feel a bit generic. Is there some way to change it?"**
 A8: You can give AI some sources for inspiration for writing style like famous authors and games to inspire some action.
 #####
-**Q9: I'm tired of recurring GPTisms and Claudeisms!**
-A9: If you're using Claude, the only solution is to manually remove these quirks from the output and hope they don't reappear. If you're using GPT, try using Logit Bias. You can ban specific words by adding them with a space before the word (this is important!), like " echo", and assigning a value of -100. However, this may not work as you expect, as the AI might simply use synonyms instead. For example, if you ban the word *earlobe*, the AI might use *lobe of the ear*. If you add a new entry without a space like "booty" you will get: "Oh, wanna see my bootybootybootybootybootybootybooty..." or you'll start getting "booty" instead of "boots", or "rebooty" instead or "reboot", and so on. 
+**Q9: "I'm tired of recurring GPTisms and Claudeisms!"**
+A9: If you're using Claude, the only solution is to manually remove these quirks from the output and hope they don't reappear. If you're using GPT, try using Logit Bias. You can ban specific words by adding them with a space before the word (this is important!), like " echo" (without the quotes!), and assigning a value of -100. However, this may not work as you expect, as the AI might simply use synonyms instead. For example, if you ban the word *earlobe*, the AI might use *lobe of the ear*. If you add a new entry without a space like "booty" you will get: "Oh, wanna see my bootybootybootybootybootybootybooty..." or you'll start getting "booty" instead of "boots", or "rebooty" instead or "reboot", and so on. 
 #####
-**Q10: My character constantly repeats the same phrases and actions, even in new chats!**
+**Q10: "My character constantly repeats the same phrases and actions, even in new chats!"**
 A10: Go to "Advanced Definitions" and delete all example dialogues. If your character is simple, it won't need them anyway. These dialogues are used as few-shot examples for the LLM and it tends to replicate them. If you think these examples are crucial for your character, move them to their descriptions, and put it in <speech examples><example-1></example-1><example-2></example-2></speech examples>, and delete inputs from user. This might help in your case.
+#####
+**Q11: "I'm using front-ends like Risu, Venus, and others. Can I use your prompts with them?"**
+A11: My prompts are specifically designed for use with [SillyTavern](https://github.com/SillyTavern/SillyTavern/tree/staging) due to its new prompt manager feature. This let me structure the prompts in a more organized way, including wrapping character cards, scenarios, persona descriptions, and the like in XML tags to address these sections later in JB. Other front-ends might not be as flexible, and my prompts might not function as intended. However, you can still try to copy and paste my prompts to see how they perform. To use my downloadable presets though, you would need to open the json files and extract the prompts manually. 
+
+I kindly request not to ask me in DMs to extract these prompts and remake them for every single front-end you might use.
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**

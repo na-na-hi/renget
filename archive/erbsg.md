@@ -7,7 +7,7 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1480 (1.6 Patch Notes)
+https://playeternalreturn.com/posts/news/1515 (1.7 Patch Notes)
 https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards)
 https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
 
@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=svmBforGos8
 \>Professor Cathy Preview
 https://www.youtube.com/watch?v=5QZ7xQMtx-Q
 
-\>Are you ready for the Summer? 2023 Season 1: Vacance
-https://www.youtube.com/watch?v=YJm1RpdJzyk
+\>2023 SEASON 2: BATTLE MAIDS
+https://www.youtube.com/watch?v=Z8MUGGdmGr4
 
 \>Dr. Nadja's Beginner Guide
 https://www.youtube.com/watch?v=M3tDK2EcO80

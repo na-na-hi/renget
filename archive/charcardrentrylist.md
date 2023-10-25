@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katenka](https://files.catbox.moe/taoh1x.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png)|[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Maya](https://files.catbox.moe/gpr1nv.png)|[Maya](https://files.catbox.moe/gpr1nv.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Sabrina Seleneski](https://files.catbox.moe/4pcwv4.png), [Blimpsey](https://files.catbox.moe/ez5cyt.png)|
@@ -30,7 +31,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[Glommer](https://files.catbox.moe/204br6.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV]
-[Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png), [Luke](https://files.catbox.moe/ynk0pr.png)|
+[Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
 [Argalia](https://rentry.org/gayanon) | Malebots ||
@@ -47,7 +48,6 @@ Botmaker | Category | New Bots | Updated Bots
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||

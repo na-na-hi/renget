@@ -650,6 +650,9 @@ Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event 
 >What does D.U. mean?
 District of Utnapishtim.
 
+>Where is the AV room? (Hanako mission)
+Schale office > Schale theatre room. It's bottom left. 
+
 >How long does it take to reach max level
 You can calculate how long it takes [here](https://futottakakka.github.io/bluearchive-expcalc/expcalc.html) 
 

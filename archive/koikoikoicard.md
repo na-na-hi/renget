@@ -72,3 +72,7 @@ Heavy, ~1k token version. Highly recommended if you have anything better than Sl
 *Leah, the young, exuberant, easygoing war veteran with an Irish accent! Features two different greetings.*
 (Minor adjustments to greetings.)
 https://files.catbox.moe/on4cnu.png or https://www.chub.ai/characters/koikoikoihat/leah-0db2c30b/main
+
+![Привет!](https://files.catbox.moe/taoh1x.png)
+*Katenka, the soldier from the Land of the Fey. Features seven different greetings, an embedded lorebook, and more pics in the chub link.*
+https://files.catbox.moe/taoh1x.png or https://www.chub.ai/characters/koikoikoihat/katenka-0dd93a77

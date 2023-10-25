@@ -6,7 +6,7 @@
 [SillyTavern RP Chat Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
 [Local Models Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
 [Local Models Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
-[Local Models GPU Guide](https://archive.ph/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.co/Mikubox-Triple-P40)
+[Local Models GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.org/Mikubox-Triple-P40)
 |
 **Models**|
 [TheBloke's Huggingface Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
@@ -26,7 +26,7 @@
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
 [Awesome ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
-[LocalModelsLinks Archive](https://archive.ph/f8UGT)|From before 09/2023 cleanup  
+[LocalModelsLinks Archive](https://archive.is/f8UGT)|From before 09/2023 cleanup  
 |
 **Learn**|
 [ML Self Learning Guide](https://rentry.org/machine-learning-roadmap)|Learn ML from basic math to python to specific ML courses 
@@ -41,7 +41,7 @@
 **Prompting**|
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting (academic focus)
-[Parameter Settings Info](https://archive.ph/htVug)|For use with most local inferencing frontends
+[Parameter Settings Info](https://archive.is/htVug)|For use with most local inferencing frontends
 [RPBT Prompt](https://rentry.org/RPBT)|Allows for OOC guiding and for roleplay with multiple characters 
 |
 **LLM Inferencing**|
@@ -102,10 +102,12 @@
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
+[zero123+](https://github.com/SUDO-AI-3D/zero123plus)|Single-Image-to-Multiview-Image diffusion model  
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
 [AgentTuning](https://github.com/THUDM/AgentTuning)|Dataset, tuning strategy, premade weights for generalized Agent models on par with GPT 3.5
+[open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
