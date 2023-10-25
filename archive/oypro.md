@@ -1,7 +1,7 @@
 ![Brook](https://files.catbox.moe/0vfuwn.png)
 
 ### Brook ♂
- Not much of a talker.
+ Not much of a talker and a bit timid too, but deep down he's got a good heart just wanting to help however he can and hopefully find his lost memories along the way.
 
 · | ->· ->
 ---- | ----

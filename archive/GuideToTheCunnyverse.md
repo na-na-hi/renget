@@ -65,6 +65,14 @@ Imagine Twitter (or X, as Musk wants to call it now), but instead of one site, i
 * [Mstdn.jp](https://mstdn.jp): Another massive Japanese Mastodon instance, but unlike Pawoo, doesn't block the English language loli tag. 
 * [Baraag](https://baraag.net): A loli and shota friendly instance with a focus on artists. Does not tolerate certain realistic AI images, and requires all other AI images to be tagged as such.
 
+## Altchans
+
+Did you find this guide on 4chan? You probably did, since I tend to post it in the /b/ loli threads for the most part. Did you know there are other image boards where you can post lolis and shotas anonymously without having to deal with as much spam or bored moderators deleting threads? The following are a few sites you may consider. This section is in further need of expansion.
+
+* [7chan](https://7chan.org): One of the older alt-chans, created in 2005 after a bunch of 4channers complained about the moderation policy. This site isn't as active as it used to be, though that doesn't necessarily mean users will approve of a buch of new posters acting like idiots and claiming to be from 4chan. Lurk before posting and you might have a good time. Notable boards are /cake/ for lolis, /sm/ for shotas, and /ss/ for straight shotacon.
+* [8chan](https://8chan.moe): An image board that allows users to create their own boards. Think if reddit and 4chan had an ugly lovechild. Very slow, but it has a fair number of boards for both lolicon and shotacon. There is /loli/ for regular lolis, /delicious/ for western-styled lolis, /tot/ for toddlercon, /sm/ for shotas, and /ss/ for straight shotacon.
+
+
 ## Other Sites
 
 For anything that doesn't fit in a category elsewhere.

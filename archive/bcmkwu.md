@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Battle for the Avdeevka waste heap
+https://files.catbox.moe/js9n7g.mp4
 >Two Leopard 2s BOBRED
 https://files.catbox.moe/hwpbq5.mp4
 https://files.catbox.moe/jitge7.mp4

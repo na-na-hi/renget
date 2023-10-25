@@ -61,6 +61,12 @@ https://rentry.org/ogd58
 >Lei Daiyu
 https://desuarchive.org/tg/thread/90686591/#90696383
 https://rentry.org/KtHDaiyu
+>Leanne Pierpont
+https://desuarchive.org/tg/thread/90697603/#90705408
+https://rentry.org/flag-gal
+>Kay Lee
+https://desuarchive.org/tg/thread/90708633/#90709507
+https://rentry.org/KtH-KayLee
 
 #### Ancestors
 
@@ -69,10 +75,15 @@ https://desuarchive.org/tg/thread/90663876/#90675031
 https://rentry.org/void-nigga-things
 >Shu Shihan
 https://archive.4plebs.org/tg/thread/90676737/#90678581
+https://rentry.org/shushihan
 >Magikarp
 https://archive.4plebs.org/tg/thread/90676737/#90681699
 >Zhihao Cheng
 https://desuarchive.org/tg/thread/90686591/#90695745
+
+### Mortals
+>5 mortals who bring absolutely nothing to the table
+https://desuarchive.org/tg/thread/90697603/#90701802
 
 ### Writefags
 
@@ -82,6 +93,8 @@ https://rentry.org/FirstFight
 https://rentry.org/xgtgdc
 >Night Chores (Mei Lan, Xu)
 https://rentry.org/dpfk5
+>The Circus is in Town (Morgain Blackheart)
+https://pastebin.com/5ZmCW69k
 
 ### Tierlists
 >Template

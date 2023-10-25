@@ -1224,6 +1224,9 @@ Aozora Furia | - | - | -
 Solus Ataraxia | - | - | -
 Kawakami Kuwa | - | - | -
 Xin Asura | - | - | -
+Miya Mareena | - | - | -
+Aishii Ai | - | - | -
+Lorelai Loch | - | - | -
 
 ## -> AuroraLiveVR <-
 !!! note Will fix

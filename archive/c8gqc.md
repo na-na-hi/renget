@@ -18,6 +18,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • KBEAR Rosefinch (very bassy) - $20
 • Moondrop Chu II (V-shape) - $20
 • QKZ x HBB (bassy) - $20
+• Simgot EW100P (bright neutral) - $20
 
 ##Budget IEMs ($30 - $100)
 ***
@@ -34,8 +35,8 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Kiwi Ears Cadenza (bassy neutral) - $35
 • Simgot EW200 (Harman) - $40
 • Truthear x Crinacle Zero: Red (Harman) - $55
-• CVJ Mei (bassy W) - $60
-• ARTTI T10 (bassy W) - $70
+• CVJ Mei (W-shape) - $60
+• ARTTI T10 (W-shape) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
 • EPZ K5 (bright neutral) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
@@ -74,7 +75,6 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 *Honorable Mentions*
 • Hisenior Mega5P Ultra (bassy neutral) - $240
 • JQ 4U Pro (bassy neutral) - $240
-• Drop + JVC HA-FDX1 (neutral) - $250
 • Kiwi Ears Orchestra Lite (neutral) - $250
 • Tanchjim Oxygen (mild V) - $280
 • ISN Neo5 (bassy neutral) - $290

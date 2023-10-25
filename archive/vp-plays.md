@@ -23,6 +23,8 @@ LP summaries are color coded - green for completed, blue for ongoing, yellow for
 
 **by the way if 4chan is broken/down, then join this cool mega.nz chatroom, you need an account but you probably have one anyways if you're using that site to send things via links or if you're keeping your old backup archive**
 https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
+**alternatively, use the official discord server, which most people will access far more often than mega**
+https://discord.gg/ZtVmVWNPu
 
 [TOC2]
 
@@ -446,4 +448,5 @@ https://arch.b4k.co/vp/thread/54682608/ detergent6 it's finally over
 https://arch.b4k.co/vp/thread/54695331/ realidea1 is it really that hard to not break what isn't broken
 https://arch.b4k.co/vp/thread/54700010/ realidea2 boobies
 https://arch.b4k.co/vp/thread/54707624/ realidea3 many milfs but not enough writefags
-https://arch.b4k.co/vp/thread/54719646/ realidea4
+https://arch.b4k.co/vp/thread/54719646/ realidea4 that was fast
+https://arch.b4k.co/vp/thread/54730680/ gaia1

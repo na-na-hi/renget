@@ -62,6 +62,8 @@ Updates by:
 	->**Video Of The Now:**<-
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Three Little Pigs (1933) Jew Peddler Scene (good quality and correct pitch)](https://youtu.be/vw-g6JzHii8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Ben Shapiro casts a spell](https://youtu.be/uAnbB6OFsb0)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 ***
 ## ![template](https://files.catbox.moe/wi6xfu.webp) ![sticky](https://files.catbox.moe/uhs1rx.webp) OP Template:
 

@@ -376,9 +376,9 @@ https://files.catbox.moe/5pj8hv.mp4
 https://files.catbox.moe/7p6ptb.mp4
 >The occupation warplanes senselessly and indiscriminately bomb Gaza in the middle of the night. (Added Oct. 22d)
 https://files.catbox.moe/7gr3dw.mp4
->Hamas publishes a release video of the abductees Yocheved Lifshitz and Nurit Cooper
+>Hamas publishes a release video of the abductees Yocheved Lifshitz and Nurit Cooper (Added Oct. 23)
 https://files.catbox.moe/dagavw.mp4
->The Jews released their own hasbara of the release of Yocheved Lifshitz and Nurit Cooper cutting out the handshake
+>The Jews released their own hasbara of the release of Yocheved Lifshitz and Nurit Cooper cutting out the handshake (Added Oct. 23)
 https://files.catbox.moe/anxc4u.webm
->📹 ISRAELI PROPAGANDA (https://t.me/IntelRepublic/29629) DEBUNKED...by Israelis themselves as recently released hostage recounts breaking bread (eating the same food their Hamas captors ate)
+>📹 ISRAELI PROPAGANDA (https://t.me/IntelRepublic/29629) DEBUNKED...by Israelis themselves as recently released hostage recounts breaking bread (eating the same food their Hamas captors ate) (Added Oct. 24)
 https://files.catbox.moe/vsemc0.mp4

@@ -753,9 +753,9 @@ September 30 - Sayuri Date
 October 6 - Chiemi Tanaka
 October 16 - Akari Kito
 October 23 - Aika Kobayashi
+October 24 - Nina Hanamiya
 October 24 - Megu Sakuragawa
 October 26 - Riho Iida
-October 28 - Nina Hanamiya
 
 **NOVEMBER**
 November 2 - Nanaka Suwa

@@ -6,7 +6,7 @@
 
 !!!info ~~I will update union info at infrequent intervals (read: whenever I feel like it).~~ Wrote a script to automate most of the work, union info should update regularly.
 
-**Last updated: 23/10/23: Dawn of the Final Day Edition**
+**Last updated: 24/10/23: Do Your Hits Edition**
 
 ***
 
@@ -17,7 +17,7 @@
 | MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
-| NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
+| NIKGERS  | ==**368**==   | 6     | 31/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 31/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
@@ -26,7 +26,7 @@
 | P愛ZURI   | ==**4983**==  | 6     | 29/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
-| POLIPETS | ==**18170**== | 3    | 31/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
+| POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***

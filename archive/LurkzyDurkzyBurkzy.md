@@ -15,9 +15,9 @@ Changelog:
 ##-> Preset<-
 !!! note
 	->My Temp fluctuates between 0.7-1<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/khoo5w.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/n8x1o7.zip)<-
 ***
-##->Logs (Updated 24 Oct)<-
+##->Logs (Updated 25 Oct)<-
 ***
 ###-> [Freya](https://chub.ai/characters/LukeyPoo488/freya-72726dda) - By LukeyPoo488<-
 ->![Card](https://avatars.charhub.io/avatars/LukeyPoo488/freya-72726dda/avatar.webp?size=0.6130422405938563)<-
@@ -26,3 +26,11 @@ Changelog:
 
 ->**Genres**: Tsundere<-
 ->![Freya2](https://i.imgur.com/oxBgwlf.jpg)<-
+***
+###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
+->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
+
+->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
+
+->**Genres**: Survival, Zombies<-
+->![Shizuka2](https://i.imgur.com/i3EtP3i.jpg)<-

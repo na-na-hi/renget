@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 8 | **Experience to Next Level:** 55/80
+**Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
 
@@ -16,10 +16,10 @@ Pokémon's Ability | Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*40/400 points to Normal Rank*<-
+->*80/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20 HP) | 20 HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
@@ -65,7 +65,8 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Attribute: Phantasm **ɪ** | Tier **ɪ** | 2/3 | ▮▮▯
 
 
 **INVENTORY (4 slots)**
@@ -75,7 +76,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Crystal | A crystal flaked from the back of an outlaw Crustle. Worth 50P each.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -94,7 +95,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Candy Pouch | A small pouch of wrapped lollipops. They come in many berry flavors.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

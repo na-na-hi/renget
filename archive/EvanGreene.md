@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 7 | **Experience to Next Level:** 60/70
+**Level:** 8 | **Experience to Next Level:** 25/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 103₽ | **Glorious Gold:** 0 Bars
 
@@ -17,17 +17,17 @@ Pokémon's Ability | Description
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
 ->Rookie Rank<-
-->*90/400 points to Normal Rank*<-
+->*130/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 |  Level 5 (20HP) | 20HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
-Speed | 0 |  Species Bonus | 5AP
+Speed | 0 (+1) |  Species Bonus | 5AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -77,7 +77,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Healing berry
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Grass Gummi | iq booster
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
