@@ -53,6 +53,7 @@ https://playeternalreturn.com/fankit
 https://playeternalreturn.com/posts/news/1512 (~10/31)
 https://event.playeternalreturn.com/ER_Season2 (~11/8)
 https://playeternalreturn.com/posts/news/1485 (~11/9)
+https://playeternalreturn.com/posts/news/1520 (Twitch drops, ~11/9)
 
 \>Codes
 https://coupons.tnra.ro/
@@ -64,4 +65,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>450293190
+\>\>451118536

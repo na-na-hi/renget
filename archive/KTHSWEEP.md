@@ -22,6 +22,9 @@ https://rentry.org/KtHYexin
 >Lord Charles Maynard
 https://archive.4plebs.org/tg/thread/90697603/#90698018
 https://pastebin.com/5MYrSdfM
+>Heng Zhiqiang
+https://desuarchive.org/tg/thread/90708633/#90711509
+https://rentry.org/HengZhiqiang
 
 #### Elders
 

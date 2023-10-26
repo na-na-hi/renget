@@ -542,6 +542,19 @@ Profession techniques are quite literally knowledge- for example, an alchemy tec
 
 A mortal savant without a good technique wouldn't have the knowedge to do anything with that talent. In effect, the true limits to a mortal savants abilities are their techniques and their wealth. If they lack one of those, then they can't do much."
 
+###The Mortal Savant Discussion
+So when it comes to professions, let's talk about the default first (i.e. not having Mortal Savant to begin with). For the average cultivator, their current Cultivation Realm is a limitation on a profession. The reason being that of the knowledge in a profession, things like 'spells to cast during this profession' 'how to control one's life force during the crafting process' etc. are all counted among that knowledge.
+
+For example, I used Alchemy as an example before. 'The theory of how to match herbs' includes using magic to do so. Point being: for the average cultivator, they can only make products / perform services if their realm AND their technique are up to snuff. At most, they can go a realm higher if they have extremely good materials to work with. (So for an alchemist, good herbs. For a dancer, an audience that very sensitive to dance moves and/or is a lecher. Etc.) This isn't just because they lack the knowledge of how to maker higher things (which they won't if they have an upgraded profession technique), it's because they physically cannot enact the knowledge that they possess.
+
+So, what does Mortal Savant do? It voids the need for Qi/Life Force/ Soul Energy as part of the profession. That could mean that you no longer need it at all, or it could mean that when you use your profession, the world around you automatically foots the bill on your behalf. (i.e. you're stealing it from heaven's-chan unknowingly). Mortal Savant however does not include any knowledge on its own. So being physically capable of your profession and knowing how to do it are different things.
+
+So, TL;DR
+No technique & Grade 7 with or w/out mortal savant (can't craft anything)
+Normal technique & grade 7 with mortal savant (can craft grade 7-8)
+any technique & grade 7 w/out mortal savant (can craft grade 7-8)
+Upgraded technique & grade 7 with mortal savant (can craft grade 10, or in theory grade 11 with scripture if they can source the materials somehow).
+
 ###A Detailed Rant on the Four Founders of Cultivation and the History of the Setting Outside of KtH.
 The first founder was a diligent and upright scholar. He believed in serving his emperor and nation, and hoped to become a court official for that purpose. However, reality was harsh- the court was a place full of corruption, and the officials clamored for benefits rather than serving faithfully. He was quickly exiled by a scheme from a competing official. So he was forced to wander the world, taking nature as his guide, and in doing so he discovered 'qi'. Gradually, he learned to control it, and created inner alchemy (the very first form of cultivation). With this power in hand, he returned home, hoping to spread this power through the kingdom so that it's people could live long lives free of hunger or disease (at this point, he was only around Grade 2, so he hadn't become immortal yet).
 

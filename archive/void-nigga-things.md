@@ -1,4 +1,15 @@
 #void nigga things
+
+"『 』"- An absence so absolute not even nothingness remains. Being nameless, the closest way to refer to such a lack of being is through silence.
+
+Xū's cultivation is not limited by energy or Qi reserves, but by the sheer risk of erasing too much of himself. Each of his techniques comes at a personal cost. The more he uses them, the closer he comes to becoming nothing himself. To avoid this fate, he must incorporate cooldown periods between the use of his techniques. These periods allow him to recover and rebuild his own existence, ensuring that he doesn't erase too much of himself in the process.
+
+Xū's "『 』" affinity has an inherent "lacking" nature. It replaces Qi usage, and should any be infused into Xū then it will be erased. If the Qi used against him is from someone of the same Grade and in sufficient quantity, it can disrupt him temporarily, forcing him to focus on erasing the foreign Qi before he can utilize his own techniques. This creates a unique vulnerability that other cultivators may seek to exploit. However, it's a risky thing to pull off, since it means depleting your own reserves and leaving yourself vulnerable.
+
+Disrupting "『 』" with Life Energy requires a significantly larger quantity of Life Energy compared to Qi. It's a resource-intensive endeavor and can quickly deplete the assailant's own Life Energy reserves. The sheer volume of Life Energy needed to interrupt Xū's techniques makes it a less practical approach. Even when significant amounts of Life Energy are used, the disruption caused is less effective compared to Qi. While it may create temporary disturbances in Xū's techniques, the results are not as potent, and the disruptions are easier for him to counteract.
+
+Using Soul Energy against Xū's "『 』" affinity is the least effective and least reliable method of disruption, even more so than Life Energy. This is primarily due to the unique nature of Xū's soul and its profound connection with "『 』". Xū's cultivation has left his soul deeply intertwined with the essence of "『 』," to the extent that he could be considered basically soulless. When Soul Energy is used to disrupt Xū's techniques, the results are generally minimal and temporary. His soul's inherent emptiness counters the impact of Soul Energy, erasing it incredibly fast.
+
 >Techniques
 **Qi Cultivation** 
 "N/0"
@@ -27,7 +38,8 @@ Its singular purpose is the absolute elimination of the target, erasing their ex
 Its primary goal is to heal his wounds by erasing the damage inflicted, turning the effects of attacks into nothingness. This art makes him impervious to the lasting effects of harm, granting him an unwavering resilience against any form of injury as long as he keeps this technique active. The injuries he sustains are systematically unraveled, as if they were never inflicted. Bruises fade, bones mend, and even the most grievous wounds are erased, returning his body to its peak condition. While it can restore damage, it can't prevent it in the first place though.
 
 **Other**
-i forgot why i picked this so im gonna ignore it it was supposed to be an auxiliary technique 
+i forgot why i picked this so im gonna ignore it it was supposed to be an auxiliary technique.
+
 
 **Body Tempering**
 "Empty Vessel"
@@ -39,6 +51,15 @@ Soul Refining technique designed to dissolve one's soul within『 』, weaving i
 
 >Fightin Styles
 Either just talking shit (it's a valid fighting style) or completely formless
+
+Xū has developed a remarkable proficiency in utilizing his "『 』" affinity in combat directly, often eschewing the use of formal techniques. Instead, he prefers to rely on his innate connection with emptiness and nothingness, reserving his techniques for situations that truly demand their power. In combat, Xū employs his "『 』" affinity defensively, evading attacks with fluid movements and the subtle manipulation of emptiness. He can phase through attacks or create temporary void shields to protect himself, all without the need for explicit techniques. 
+
+He frequently engages in verbal exchanges rather than immediate combat. When faced with opponents who underestimate the nature of their confrontation, Xū can resort to mocking banter. He might taunt their limited understanding of their situation and who they're trying to pick a fight with.
+He may also assert that he does not recognize the encounter as a genuine conflict, viewing it as a mere disturbance in his path. In such instances, he might advise his aggressors to halt their actions, emphasizing the futility of their endeavors.  In cases where his assailants persist in their attacks, Xū may deliver a dire warning. He does not engage in combat lightly, and he emphasizes that, should he choose to fight back, it will be to the death. 
+
+To those who refuse to heed his warnings, Xū delivers the gravest of ultimatums. He makes it clear that if he decides to retaliate, it will result in their complete erasure, the cessation of their existence. When he does decide to use a technique (other thna his footwork), it's too late.
+
+Xū is selective about employing most of his formal techniques. He typically reserves them for adversaries of significant power or challenges that warrant his full attention. Otherwise, Vanish and Missing Path tend to be enough.
 
 >**A bit of background**
 He has spent thousands of years trapped against his will as a punishment for a crime that has long fallen into oblivion. During his confinement, he honed his inner strength and deepened his understanding of the boundless void within him.

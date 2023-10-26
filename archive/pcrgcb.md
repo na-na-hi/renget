@@ -35,6 +35,16 @@ Ceremonial Illya 5★ Lv286 R30 FULL, EX 5/5/5
 Princess Kyaru 5★ Lv286 R30 FULL EX 5/3/5
 ![3](https://pomf2.lain.la/f/ot837to.png)
 
+[B1 Magic 58m](https://www.youtube.com/watch?v=pc7NU0dKg2k)
+![3](https://pomf2.lain.la/f/lmngsq1h.png)
+Tested with:
+Noir Kuuka 5★ Lv286 R30 FULL, EX 5/5/5
+Warlock Djeeta 5★ Lv286 R30 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv286 R30 FULL, EX 5/5/5
+Lyrael 5★ Lv286 R30 FULL EX 5/5/5
+Princess Kyaru 5★ Lv286 R30 FULL, EX 5/5/5
+![3](https://pomf2.lain.la/f/qi17x2q4.png)
+
 [B1 Magic 53-54m](https://www.youtube.com/watch?v=2Uh4KlFPwPQ)
 ![3](https://pomf2.lain.la/f/t9h5y79p.png)
 Tested with:
@@ -55,6 +65,16 @@ Summer Neneka 5★ Lv286 R30 FULL, EX 5/5/5
 Lyrael 5★ Lv286 R30 FULL EX 5/5/5
 ![3](https://pomf2.lain.la/f/53pi34l6.png)
 ### Boss 2
+[B2 Physical 57m](https://www.youtube.com/watch?v=4sTeyXzrLO8)
+![3](https://pomf2.lain.la/f/am61cjme.png)
+Tested with:
+Tamaki 6★ Lv286 R30 FULL, EX 5/5/5 
+Summer Tamaki 5★ Lv286 R30 FULL, EX 5/5/5  
+Christina 6★ Lv286 R30 FULL, EX 5/5/5
+Labyrista 3★ Lv286 R30 FULL, EX 5/5/5
+Ameth 4★ Lv286 R30 FULL EX 5/5/5
+![3](https://pomf2.lain.la/f/78m0esr.png)
+
 [B2 Physical 56-57m](https://youtu.be/ES45e_KnXMg)
 ![3](https://pomf2.lain.la/f/la25d7hc.png)
 Tested with:
@@ -127,10 +147,20 @@ New Years Misato 5★ Lv286 R30 All Equips - BR 5, Others 0 , EX 5/5/5 (Full ref
 ![3](https://pomf2.lain.la/f/f82j2mb2.png)
 
 ### Boss 5
+[B5 Physical 57m](https://www.youtube.com/watch?v=za1MPtrgC7M)
+![Proof](https://pomf2.lain.la/f/kgjcc6pl.jpg)
+Tested with:
+Christina 6★ Lv286 R30 FULL, EX 5/5/5 **requires X.Chris bonds**
+Summer Nozomi 5★ Lv286 R30 FULL, EX 5/5/5 
+Camp Yukari 5★ Lv286 R30 FULL, EX 5/5/5 
+Labyrista 5★ Lv286 R30 FULL EX 5/5/5 
+Creditta 5★ Lv286 R30 FULL EX 5/5/5 
+![Timeline](https://pomf2.lain.la/f/017dmx6b.png)
+
 [B5 Physical 55-57m](https://www.youtube.com/watch?v=II0R07YdFVU)
 ![Proof](https://pomf2.lain.la/f/6szj5emm.png)
 Tested with:
-Christina 6★ Lv286 R30 FULL, EX 5/5/5
+Christina 6★ Lv286 R30 FULL, EX 5/5/5 **worked without X.Chris bonds but slightly lower average and timing may be slightly off**
 Summer Nozomi 5★ Lv286 R30 FULL, EX 5/5/5 
 Camp Yukari 5★ Lv286 R30 FULL, EX 5/5/5 
 Labyrista 5★ Lv286 R30 FULL EX 5/5/5 
@@ -175,7 +205,7 @@ Labyrista 5★ Lv286 R30 FULL EX 5/5/5
 
 
 ### Boss 3
-[B3 Physical 57m](https://youtu.be/qL9yhUUpycw)
+[B3 Physical 59-60m](https://www.youtube.com/watch?v=PnY_k9vcSAU)
 
 ### Boss 4
 [B4 Physical 56-57m](https://www.youtube.com/watch?v=PUwiNC1Q_UE)

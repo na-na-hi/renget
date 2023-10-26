@@ -1314,8 +1314,9 @@ Trigger word: "Cream The Rabbit"
 
 Helpful Prompt: "Cream The Rabbit, 1girl, solo, orange_dress, blue_necktie, orange_and_yellow_shoes, white_socks, white_gloves, gold_buttons, white_collar"
 
-	Catbox: https://files.catbox.moe/rp6m91.safetensors
-	CivitAI DL: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
+	Catbox Beta: https://files.catbox.moe/rp6m91.safetensors
+	CivitAI DL V1.0: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
+	CivitAI DL V2.0: https://civitai.com/api/download/models/198684?type=Model&format=SafeTensor
 
 # The フギミ LoRA Collection
 
@@ -1349,6 +1350,18 @@ Anti-Countershading Slider LoRA v1
 >Can go higher than 1 and lower than -1 without burning.
 
 	https://files.catbox.moe/d8e38j.safetensors
+
+Alt version trained on Easyfluff V10 Prerelease
+
+	https://files.catbox.moe/dm2lbu.safetensors
+
+Penis size slider LoRA v1
+>As per previous.
+>Higher = bigger penis
+>Lower = smaller penis
+>Can go above 1, and below -1.
+
+	https://files.catbox.moe/2pkhgi.safetensors
 
 # Naoko (alvh-omega)
 >Recommend using the LoRA at 0.7 weights.

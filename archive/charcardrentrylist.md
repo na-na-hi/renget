@@ -33,11 +33,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png)|
 [Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png)|[Ƨριяαlιηα](https://files.catbox.moe/2mgw49.png) [MV]
-[Chefseru](https://rentry.org/chefseru) | Misc |[Ayla](https://files.catbox.moe/j64fqq.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
+[Chefseru](https://rentry.org/chefseru) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||

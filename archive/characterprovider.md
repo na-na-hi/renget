@@ -117,6 +117,11 @@ GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly tol
 
 `GPT4 > Claude2`
 ######6. FAQ
+**Here's an example output of one of my latest prompts:**
+
+![](https://files.catbox.moe/47kash.png)
+*(Image: Output examples from GPT-4, 2-nd message.)*
+
 **Q1: "Why use XML? I think it's just schizo-prompting!"** 
 A1: Claude and GPT have been specifically trained to understand XML-tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets then? It's because prompts and character cards contain a lot of information and we want to structure it for AI. XML-tags, as well as headings, help us to clearly define sections. Here are some sources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt).
 #####
@@ -172,6 +177,17 @@ A10: Go to "Advanced Definitions" and delete all example dialogues. If your char
 A11: My prompts are specifically designed for use with [SillyTavern](https://github.com/SillyTavern/SillyTavern/tree/staging) due to its new prompt manager feature. This let me structure the prompts in a more organized way, including wrapping character cards, scenarios, persona descriptions, and the like in XML tags to address these sections later in JB. Other front-ends might not be as flexible, and my prompts might not function as intended. However, you can still try to copy and paste my prompts to see how they perform. To use my downloadable presets though, you would need to open the json files and extract the prompts manually. 
 
 I kindly request not to ask me in DMs to extract these prompts and remake them for every single front-end you might use.
+
+**Q12: "I'd like to use your prompts in my SillyTavern. What prompt hierarchy I should setup in the prompt manager?"**
+A12: If you're pasting the prompts you've copied from my rentry page, you should keep the default prompt hierarchy. However, if you're importing my presets that you've downloaded from this page, the prompt hierarchy will change automatically. Ensure to import the preset.json first and prompts.json after it; they're included in the downloaded archives.
+
+**Q13: "How do I import presets, create regex, use author's note?"**
+A13: Please, read the ['How to use'](#how-to-use-and-recommendations) section.
+
+**Q14: "AI keeps messing up my formatting! GRRARGH!"**
+Q14: I understand your frustration but you just better stop using any *italicization*. **Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. Also when asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. SillyTavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases.
+
+I recommend you using [no more italics regex](#no-more-italics-regex) to exclude italicization from your replies completely. And [regular quotes only regex](#regular-quotes-only-regex) to replace all occurrences of «, », 「, 」, 《, 》, “, and ” in your text with ". This way you'll get stable formatting.
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
@@ -260,22 +276,16 @@ You need only complete steps from **YELLOW BLOCKS**. Everything else is just my 
 
 !!! warning Hello there, I am a step you need to complete!
 
-![](https://files.catbox.moe/685coc.png)
+![](https://files.catbox.moe/pn28ge.png)
 *(Image: Visualization.)*
 
-# 
-- - -
-# 
-
-######	FORMATTING
-**Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. When asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. Tavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases. I recommend you using [this regex](#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting.
 # 
 - - -
 # 
 ###### HOW TO PREVENT FORMAT LOOPS
 For some reason structures A and B often result looped answers. LLMs like Claude and GPT likes to follow templates. If they see a hint on a template in it's previous reply - it will copy it in its next message and will produce predictably the same text format and adapt the wording to suit it. Check the image below and ensure your text follows the format on panel C. Manually edit text/wording to accompany it. It will greatly reduce the number of format loops and boost AI's creativity, yet if it's already in a loop the only thing that may help you without reverting back is changing a scene.
 
--> ![](https://files.catbox.moe/slgbtn.png) <-
+-> ![](https://files.catbox.moe/axlr1n.png) <-
 *(Image: Visualization. Colored text is descriptions/narrations; white is speech.)*
 
 # 
@@ -290,7 +300,7 @@ Embrace or delete [them](https://rentry.org/claudeisms) - the ball is in your co
 ###### WHERE IS AUTHOR'S NOTE
 The button is hidden under the "hamburger" menu to the left from the textbox at the bottom of your page (the line where you write your reply). You can also replace `AN` with `Summarize` or `Persona Description`. Also when you open it the window may be covered with opened AI response settings window. And yes, if I do not specifically mention to use the `AN` - you don't need it (and may write there what ever you want).
 !!! DANGER MAKE SURE YOU'VE ENABLED `[X] AFTER SCENARIO` FOR AUTHOR'S NOTES! WHILE USING MY PROMPTS THIS IS SUPER IMPORTANT!
--> ![](https://files.catbox.moe/3wdi8u.png) <-
+-> ![](https://files.catbox.moe/uflnz0.png) <-
 *(Image: Visualization. AN location.)*
 
 
@@ -318,33 +328,25 @@ scenario
 **Question-2:** Should I put `</{{char}}>` in 'scenario' if it's empty?
 **Answer-2:** Yes you should.
 
-![](https://files.catbox.moe/u4kkvr.png)
+![](https://files.catbox.moe/ll39y2.png)
 *(Image: Visualization. Opened character settings.)*
 
 
 # 
 - - -
 # 
-###### PRESET IMPORT
-Import button.
+###### PRESET AND PROMPTS IMPORT
+Just follow the instructions below. Please not, that you won't need autor's notes in this case.
 
-![](https://files.catbox.moe/5ow9bb.png)
-*(Image: Visualization.)*
-# 
-- - -
-# 
-###### PROMPTS IMPORT
-Import button. You don't have to import them into each new chat anymore if you've installed the latest update of ST.
-
-![](https://files.catbox.moe/hd9c5j.png)
+![](https://files.catbox.moe/m0nmhn.png)
 *(Image: Visualization.)*
 # 
 - - -
 # 
 ###### NO MORE ITALICS REGEX
-I recommend you using [this regex](#no-more-italics-regex) to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting. Regex editor can be found in 'Extensions' menu in tavern.
+I recommend you using this regex to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting. Regex editor can be found in 'Extensions' menu in tavern.
 
-![](https://files.catbox.moe/6v8527.jpg)
+![](https://files.catbox.moe/xhowza.png)
 *(Image: Visualization. Opened settings.)*
 
 Find regex:
@@ -352,6 +354,25 @@ Find regex:
 /\*/g
 ```
 
+Leave the field 'Replace with' empty.
+# 
+- - -
+# 
+###### REGULAR QUOTES ONLY REGEX
+I recommend you using this regex to replace all occurrences of «, », 「, 」, 《, 》, “, and ” in your text with "
+
+![](https://files.catbox.moe/dc6lh7.png)
+*(Image: Visualization. Opened settings.)*
+
+Find regex:
+```xml
+/[“”«»「」｢｣《》"]/gm
+```
+
+Replace with:
+```xml
+"
+```
 # 
 - - -
 # 
@@ -633,15 +654,15 @@ Special thanks to *H\*\*\*e*.
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Your characters now wrapped in <AI role> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Your characters now wrapped in <AI role> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/bypg2t.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/bypg2t.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <AI role></AI role> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -656,15 +677,15 @@ Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you.
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/lkj3mh.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/lkj3mh.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -677,15 +698,15 @@ Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you.
 #
 !!! note There's a new link. Prompts should work fine now.
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/o5x0xn.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/o5x0xn.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -735,15 +756,15 @@ In its next reply AI must:
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/dvcq32.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/dvcq32.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -756,15 +777,15 @@ Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you.
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/1j1fwz.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/1j1fwz.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -777,15 +798,15 @@ Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you.
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/m2itn3.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
@@ -798,15 +819,15 @@ Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you.
 #
 
 ###### PRESET AND PROMPTS
-Created a [Preset](#preset-import) and [Prompts](#prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/3bxfjw.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/3bxfjw.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-import))
-	3. Import Prompts.json ([How to import prompts?](#prompts-import))
+	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
+	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
 	4. Turn on/off preferable blocks and enjoy!
 !!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
 !!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!

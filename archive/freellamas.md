@@ -8,7 +8,7 @@ This proxy is intended for people who want to try llamas. If you're a frequent, 
 **Model: Xwin-MLewd-13B-V0.2-8bit-exl2 scaled to 8k**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://belts-tricks-tar-estimation.trycloudflare.com/api```
+Blocking API URL: ~~```https://belts-tricks-tar-estimation.trycloudflare.com/api```~~
 ***
 **System prompt:**
 ```
