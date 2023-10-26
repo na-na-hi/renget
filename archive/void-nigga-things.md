@@ -38,7 +38,14 @@ Its singular purpose is the absolute elimination of the target, erasing their ex
 Its primary goal is to heal his wounds by erasing the damage inflicted, turning the effects of attacks into nothingness. This art makes him impervious to the lasting effects of harm, granting him an unwavering resilience against any form of injury as long as he keeps this technique active. The injuries he sustains are systematically unraveled, as if they were never inflicted. Bruises fade, bones mend, and even the most grievous wounds are erased, returning his body to its peak condition. While it can restore damage, it can't prevent it in the first place though.
 
 **Other**
-i forgot why i picked this so im gonna ignore it it was supposed to be an auxiliary technique.
+"『 』Unbound"
+A technique that allows for truly esoteric usage of Xū's mastery over emptiness and the depths of his affinity with "『 』". His ability to target what he erases becomes fully abstract, even allowing for things like turning previous erasures into nothing, thus reverting them. It allows Xū to selectively preserve and restore aspects of existence, effectively controlling the boundaries between what remains and what is eradicated. 
+
+His other methods of erasure tend to be more indirect, for example "Vanish" is an attack that hollows out the target through erasure, "End" is another offensive technique that seeks no annihilate the target completely. Even his reality warping abilities are just the act of using "『 』"  through the authority of his Realm.
+
+"『 』Unbound" is a much more direct approach. The target simply is no more. It can be anything, really. Turn a single thought of your opponent into nothing, making their battle plan fall apart. Turn the link between someone's strength and the attack they are using into nothing. Erase weak spots from the enemy's perception so they can't be targeted. Target the knowledge of how to use a specific technique, making it so that they can't activate it. Erase the fact that an attack landed.
+
+It's a technique to target truly abstract things.
 
 
 **Body Tempering**

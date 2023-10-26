@@ -1,5 +1,13 @@
 # CB 68 resource collection
+
+
  [TOC2] 
+## General Resources for all Stages
+[gamewith](https://gamewith.jp/pricone-re/article/show/422922)
+[しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1pMXrI3Rk8UIhQt5yjHAIn0NXd72LfGWTWapXmEgj17s/edit#gid=790984515)
+chink sheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vSPTgQCBNZC0rGNjB9JHi_RzQ664c02fH97TzwufI-BGJgJ9jNSbHTKoD5Mu__w88htOiH2dLh80l2w/pubhtml#
+chink sheet backup: https://rentry.org/chinkcb68
+
 ## Stage 1&2 90 seconds carryover
 [Sugi video](https://www.youtube.com/watch?v=a_4uA-mGnLE)
 ![90s](https://pomf2.lain.la/f/qbhv0ntr.png)
@@ -34,6 +42,9 @@ Warlock Djeeta 5★ Lv286 R30 FULL, EX 5/5/5
 Ceremonial Illya 5★ Lv286 R30 FULL, EX 5/5/5
 Princess Kyaru 5★ Lv286 R30 FULL EX 5/3/5
 ![3](https://pomf2.lain.la/f/ot837to.png)
+
+62m version
+![](https://pomf2.lain.la/f/sx2xzdk.png)
 
 [B1 Magic 58m](https://www.youtube.com/watch?v=pc7NU0dKg2k)
 ![3](https://pomf2.lain.la/f/lmngsq1h.png)
@@ -146,6 +157,17 @@ Labyrista 3★ Lv286 R30 FULL EX 5/5/5
 New Years Misato 5★ Lv286 R30 All Equips - BR 5, Others 0 , EX 5/5/5 (Full refine should be fine) 
 ![3](https://pomf2.lain.la/f/f82j2mb2.png)
 
+[B4 Physical 52-53m](https://www.youtube.com/watch?v=_sDU2m3rZRw)
+![3](https://pomf2.lain.la/f/l3xwvef.png)
+Tested with:
+Croce 5★ Lv286 R30 FULL, EX 5/5/5 
+Christmas Yukari 3★ Lv286 R30 FULL, EX 5/X/5  Video uses 5★ but 3★ works
+Labyrista 3★ Lv286 R30 FULL, EX X/5/X  **EX EQUIPS MATTER FOR YUKARI TARGETING**
+Ameth 5★ Lv286 R30 FULL EX 5/5/5
+Creditta 5★ Lv286 R30 FULL EX 5/5/5 
+![3](https://pomf2.lain.la/f/wf0i1l95.png)
+you can ignore the manual input and keep everyone SET after 41 for a lazy version with a little less average damage
+
 ### Boss 5
 [B5 Physical 57m](https://www.youtube.com/watch?v=za1MPtrgC7M)
 ![Proof](https://pomf2.lain.la/f/kgjcc6pl.jpg)
@@ -191,7 +213,7 @@ Lyrael might UB early at 15 and 4 in some cases
 
 ## Stage 4 manual
 ### Boss 1
-
+[B1 Magic 64-65m](https://www.youtube.com/watch?v=uaAxUwMcD0k)
 ### Boss 2
 [B2 Physical 59-61m](https://www.youtube.com/watch?v=oz0QfIcftys)
 ![3](https://pomf2.lain.la/f/8a964ptr.png)
@@ -219,10 +241,6 @@ Creditta 3★ Lv286 R30 FULL EX 5/5/5
 ![3](https://pomf2.lain.la/f/gevfk1f.png)
 
 ### Boss 5
-
+[B5 Magic 54-60m](https://www.youtube.com/watch?v=bZz5qiln6wo)
 ## Carryover / Overflow
 [Playlist from ネブソク](https://www.youtube.com/watch?v=KyVDCYkgwaM&list=PLZmWQnJpjP3WYEaDZfs7jmjcPq_P7li0z)
-
-## General Resources for all Stages
-[gamewith](https://gamewith.jp/pricone-re/article/show/422922)
-[しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1pMXrI3Rk8UIhQt5yjHAIn0NXd72LfGWTWapXmEgj17s/edit#gid=790984515)

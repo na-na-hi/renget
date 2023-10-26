@@ -40,14 +40,14 @@ Comprehension: Immortal (-30)
 Bloody Blade Construction - Just as their spirit is nourished by the anguish of the fallen, their blade feeds too. With flesh, blood, and bone of fine warriors, masterworks might be made. This alone makes betrayals within the sect quite common, as those who have trained to become weapons make the best materials.
 
 >Skills and Wealth
-Advantages: Perfect Efficiency (-10), Undying Tenacity (-10), Technique Innovation (-10), Second Style (-10)
+Advantages: Overflowing Charisma (-5), Perfect Efficiency (-10), Undying Tenacity (-10), Technique Innovation (-10), Second Style (-10)
 ===Custom Treasures=== (-20)
 Type: Weapon
 Forging Method: Perfect Quality (-4)
 Material Quality: Like Divine Steel (-2)
 Spirituality: Treasure Spirit (-4)
 Talisman Inscription: Tao
-Miscellaneous Functions: Spirit Stone Slot (-10), Cursed Treasure (+10), Life-Bound Treasure (-15)
+Miscellaneous Functions: Cursed Treasure (+10), Inheritance Treasure (-5), Life-Bound Treasure (-15)
 
 >Trials and Tribulations
 Fatal Flaws: Exposed Encounter, Ruthless Warrior, Vow of Hatred

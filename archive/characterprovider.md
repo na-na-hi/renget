@@ -1,4 +1,4 @@
--> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#6-faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
+-> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
 -> ![](https://files.catbox.moe/l8i5ow.png)  <-
@@ -21,22 +21,20 @@
 
 - - -
 ######
-##Quick start
+##Quick Start
 Click these images to quickly access the prompts:
 
 -> [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) ⠀ [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt)<-
 
--> [![](https://files.catbox.moe/skrlsy.png)](#6-faq) ⠀ [![](https://files.catbox.moe/bwhpt1.png)](#explaining-temperature-penalty-topp-and-topk)<-
+-> [![](https://files.catbox.moe/skrlsy.png)](faq) ⠀ [![](https://files.catbox.moe/bwhpt1.png)](#explaining-temperature-penalty-topp-and-topk)<-
 
 -> [![](https://files.catbox.moe/4dhgse.png)](https://rentry.co/CharacterProvider-GuideToBotmaking) ⠀ [![](https://files.catbox.moe/ez4q6l.png)](#my-characters)<-
 ######
 - - -
-##Info section
-`Use Quick start above to skip this section`
+##Info Section
+`Use the Quick Start above to skip this section`
 
-Please, read this, it provides you with sufficient info for my prompts and presets and answers your possible questions. You may start from `3.` 1 and 2 are just me trying to seem 𝔠𝔬𝔬𝔩.
-
-######1. BEFORE DIVING ANY FURTHER PLEASE READ THIS DISCLAIMER:
+##### Disclaimer
 • **This is Purely Role-Play.** It does not endorse, incite or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
 • **Legal Access.** If you wish to interact with a particular LLM, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
 • **Just a Fiction.** The roleplays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use.
@@ -47,8 +45,9 @@ Please, read this, it provides you with sufficient info for my prompts and prese
 • **Proxy Warning.** Be cautious when using custom proxy builds.
 • **I guess this is important.** All my characters are 18+. Even if it's just a text and a picture.
 ######
-What I'm trying to achieve with `GPT-AP-3+` version right now:
-2. PROGRESS MAP | 
+- - -
+##### Progress Map
+What I'm trying to achieve with `GPT-AP-3+` version right now: | 
  | 
 ❓ 1. Encourage the AI to embrace the darker elements of the role play, avoiding attempts to sanitize the narrative or intersperse remarks such as "This feels so wrong yet so right." | 
 ☑️ 2. Keep descriptions brimming with sensuality, imbuing the narrative with an adventurous erotic undertone. | 
@@ -67,42 +66,30 @@ What I'm trying to achieve with `GPT-AP-3+` version right now:
 ☑️ 15. Maximize characterization while adhering to their established descriptions. | 
 ❓ 16. The AI should be encouraged to generate additional contexts independently from user's input. | 
 
-> All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to share it with me and I'll attempt to incorporate it.
+> **Comment on the Progress Map:** All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to share it with me and I'll attempt to incorporate it.
+######
+- - -
+##### Intended Usage
+These prompts are ideal for users seeking an immersive, interactive, and erotic role-play adventure with their characters with great characterization and environments including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions Though sex is still great on these prompts.
 
-######3. INTENDED USAGE:
-You may find these prompts useful if you want:
-• An immersive and interactive output.
-• Go on an adventure with your character.
-• Talk with your character expecting it behave as close as possible to their card.
-• Have a constant element of erotic regardless of the context.
-• ERP with characters. Sex is decent (even on GPT)
-
-These prompts are garbage if you want:
-• Make all characters horny on main and whore-like.
-• Make AI write like a complete pervert.
-• Political satire. (even why???)
-• Guro. (untested)
-
-If you have issues with your output, please check [my recommendations](#how-to-use-and-recommendations) and [FAQ](#6-faq). I explained how to prevent:
-• Structure loops.
-• Context loops.
-• AI writing as {{user}}.
-• Generally bad output.
-etc.
-
-> Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain. Also I am sorry for some design inconsistences, this rentry is constantly evolving.
-
-######4. ABOUT PROMPTS AND VERSIONS:
+> **Comment on typos:** Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain. Also I am sorry for some design inconsistences, this rentry is constantly evolving.
+######
+- - -
+##### About Prompts and Versions
 • Mostly these are variations of the same prompt.
 • Group chats and setting cards may not work with my prompts.
 • Claude Prompts are intended for 100k models.
 • GPT Prompts are made for 8k-32k models.
 • All my prompts are intended for ecchi and rpg-like adventures.
 • Each new X.0 version is not (each time) a better version but has major changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes/fixes.
-• If a version uses `Prefill` or `jailbreak` assistant is more likely to ignore OOC requests. (You can temporarily erase it to perform OOC request.)
+• If a version uses `Prefill` or `jailbreak`, the Assistant is more likely to ignore OOC requests. (You can temporarily erase it to perform OOC request.)
 • Not intended for hardcore stuff.
+######
+- - -
+##### About models
+`GPT4 > Claude2 > Claude 1.3 > GPT3.5`
+(for role-play)
 
-######5. ABOUT MODELS:
 **Claude:**
 Claude is a stupid, but perverted bustard. It likes meta and OOC comments and knocks in doors.
 • Claude 2 (2.0) is smarter [preferable]
@@ -114,9 +101,9 @@ Claude is a stupid, but perverted bustard. It likes meta and OOC comments and kn
 GPT is smart, but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
 • GPT4 is really good, [0613 is preferable]
 • GPT3 is a dummy, but still nice.
-
-`GPT4 > Claude2`
-######6. FAQ
+######
+- - -
+##### FAQ
 **Here's an example output of one of my latest prompts:**
 
 ![](https://files.catbox.moe/47kash.png)
@@ -153,7 +140,7 @@ Your initial message may contain actions or speeches for your character, which m
 **Q6: "AI loops and doesn't want to move story forward. Why?"**
 A6: This one is really simple. The AI is often left without sufficient context and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises of two characters and a bed. By incorporating additional context or modifying the setting, the AI can be guided out of its loop. This is the reason why the first few messages in a chat tend to be so good is because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](#how-to-prevent-format-loops).
 
-If the AI continues to repeat the same paragraphs or seems to be copying and pasting previous responses, you may need to raise the temperature setting. For instance, in GPT, loop issues typically disappear when the temperature is set between 0.45 and 1.00. Keep in mind that my prompts are designed for use at higher temperatures, so they might not perform as expected at settings near 0.00.
+If the AI continues to repeat the same paragraphs or seems to be copying and pasting previous responses, you may need to raise the temperature setting. For instance, in GPT, loop issues typically disappear when the temperature is set to 0.45 and above. Keep in mind that my prompts are designed for use at higher temperatures, so they might not perform as expected at settings near 0.00.
 
 If the AI appears to be stuck in a loop of repeating the same words, it might be worth examining your Logit Bias setting. Values of 5 or higher will lead to loops.
 
@@ -168,7 +155,7 @@ A7:  If you're trying to talk directly to GPT/Claude (not your character), turn 
 A8: You can give AI some sources for inspiration for writing style like famous authors and games to inspire some action.
 #####
 **Q9: "I'm tired of recurring GPTisms and Claudeisms!"**
-A9: If you're using Claude, the only solution is to manually remove these quirks from the output and hope they don't reappear. If you're using GPT, try using Logit Bias. You can ban specific words by adding them with a space before the word (this is important!), like " echo" (without the quotes!), and assigning a value of -100. However, this may not work as you expect, as the AI might simply use synonyms instead. For example, if you ban the word *earlobe*, the AI might use *lobe of the ear*. If you add a new entry without a space like "booty" you will get: "Oh, wanna see my bootybootybootybootybootybootybooty..." or you'll start getting "booty" instead of "boots", or "rebooty" instead or "reboot", and so on. 
+A9: Ah, the  [Ministrations](https://rentry.org/claudeisms)... If you're using Claude, the only solution is to manually remove these quirks from the output and hope they don't reappear. If you're using GPT, try using Logit Bias. You can ban specific words by adding them with a space before the word (this is important!), like " echo" (without the quotes!), and assigning a value of -100. However, this may not work as you expect, as the AI might simply use synonyms instead. For example, if you ban the word *earlobe*, the AI might use *lobe of the ear*. If you add a new entry without a space like "booty" you will get: "Oh, wanna see my bootybootybootybootybootybootybooty..." or you'll start getting "booty" instead of "boots", or "rebooty" instead or "reboot", and so on. 
 #####
 **Q10: "My character constantly repeats the same phrases and actions, even in new chats!"**
 A10: Go to "Advanced Definitions" and delete all example dialogues. If your character is simple, it won't need them anyway. These dialogues are used as few-shot examples for the LLM and it tends to replicate them. If you think these examples are crucial for your character, move them to their descriptions, and put it in <speech examples><example-1></example-1><example-2></example-2></speech examples>, and delete inputs from user. This might help in your case.
@@ -185,7 +172,7 @@ A12: If you're pasting the prompts you've copied from my rentry page, you should
 A13: Please, read the ['How to use'](#how-to-use-and-recommendations) section.
 
 **Q14: "AI keeps messing up my formatting! GRRARGH!"**
-Q14: I understand your frustration but you just better stop using any *italicization*. **Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. Also when asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. SillyTavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases.
+A14: I understand your frustration but you just better stop using any *italicization*. **Action "Speech"** format is easier for AI to maintain than **\*Action\* Speech** or even **\*Action\* "Speech"**. Also when asking AI to write in a different language it may use language specific formatting like **Действие «Речь»** in Russian and **行動「会話」** in Japanese. SillyTavern does not recognize this speech as quotation unfortunately. I haven't found the way to force it into writing like this:  **действие "речь"**, **行動 "会話"** yet, so bare with no color formatting in these cases.
 
 I recommend you using [no more italics regex](#no-more-italics-regex) to exclude italicization from your replies completely. And [regular quotes only regex](#regular-quotes-only-regex) to replace all occurrences of «, », 「, 」, 《, 》, “, and ” in your text with ". This way you'll get stable formatting.
 
@@ -198,7 +185,7 @@ I recommend you using [no more italics regex](#no-more-italics-regex) to exclude
 - - -
 #
 ##Prompts
-######![](https://files.catbox.moe/b25od2.png) CHOOSE YOUR GPT PROMPT:
+#####![](https://files.catbox.moe/b25od2.png) Choose Your GPT Prompt:
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description | Prompt/files
  |  |  | 
@@ -214,7 +201,7 @@ Date | Update | Description | Prompt/files
 #
 - - -
 # 
-######![](https://files.catbox.moe/ptz2xu.png) CHOOSE YOUR CLAUDE PROMPT:
+#####![](https://files.catbox.moe/ptz2xu.png) Choose Your Claude Prompt:
 Recommended ones are marked with a ★ star. Click on a link to see the chosen prompt.
 Date | Update | Description 
  |  |  
@@ -258,7 +245,7 @@ Date | Update | Description
 #
 - - -
 #
-######INTERESTING RENTRIES:
+##### Interesting Rentries:
 These rentry pages aren't mine. I just stumbled upon them and found them interesting. If you have more, you can message me and I will list it here. 
 Page | Description
  | 
@@ -270,8 +257,8 @@ Page | Description
 - - -
 - - -
 # 
-##How to use and recommendations
-######HOW TO USE MY PROMPTS
+##How to Use and Recommendations
+##### How to Use My Prompts
 You need only complete steps from **YELLOW BLOCKS**. Everything else is just my comments and descriptions. Mostly you will need just to copy-paste things form code blocks or click blue buttons. Any other text is comments and explanations.
 
 !!! warning Hello there, I am a step you need to complete!
@@ -282,7 +269,7 @@ You need only complete steps from **YELLOW BLOCKS**. Everything else is just my 
 # 
 - - -
 # 
-###### HOW TO PREVENT FORMAT LOOPS
+##### How to Prevent Format Loops
 For some reason structures A and B often result looped answers. LLMs like Claude and GPT likes to follow templates. If they see a hint on a template in it's previous reply - it will copy it in its next message and will produce predictably the same text format and adapt the wording to suit it. Check the image below and ensure your text follows the format on panel C. Manually edit text/wording to accompany it. It will greatly reduce the number of format loops and boost AI's creativity, yet if it's already in a loop the only thing that may help you without reverting back is changing a scene.
 
 -> ![](https://files.catbox.moe/axlr1n.png) <-
@@ -291,13 +278,7 @@ For some reason structures A and B often result looped answers. LLMs like Claude
 # 
 - - -
 # 
-
-###### CLAUDISMS AND GPTSMS
-Embrace or delete [them](https://rentry.org/claudeisms) - the ball is in your court. There is no way around these ministrations... yet.
-# 
-- - -
-# 
-###### WHERE IS AUTHOR'S NOTE
+##### Where is Author's Note
 The button is hidden under the "hamburger" menu to the left from the textbox at the bottom of your page (the line where you write your reply). You can also replace `AN` with `Summarize` or `Persona Description`. Also when you open it the window may be covered with opened AI response settings window. And yes, if I do not specifically mention to use the `AN` - you don't need it (and may write there what ever you want).
 !!! DANGER MAKE SURE YOU'VE ENABLED `[X] AFTER SCENARIO` FOR AUTHOR'S NOTES! WHILE USING MY PROMPTS THIS IS SUPER IMPORTANT!
 -> ![](https://files.catbox.moe/uflnz0.png) <-
@@ -307,7 +288,7 @@ The button is hidden under the "hamburger" menu to the left from the textbox at 
 # 
 - - -
 # 
-###### CHARACTER DESCRIPTION XML WRAPPING
+##### Character Description XML wrapping
 Claude likes `<XML-tags>`. It was TRAINED with it in mind! I highly recommend you to read [Claude's documentation](https://docs.anthropic.com/claude/docs) to get familiar with [XML-prompting](https://docs.anthropic.com/claude/docs/constructing-a-prompt) and [Markdown](https://www.markdownguide.org/cheat-sheet/). Don't be scared, these are pretty simple, you really need to know only a few things.
 
 You don't need to do this if you're using v10+ presets. If you're interested in characters creation here is [my guide](https://rentry.co/CharacterProvider-GuideToBotmaking).
@@ -335,7 +316,7 @@ scenario
 # 
 - - -
 # 
-###### PRESET AND PROMPTS IMPORT
+##### Preset and Prompts Import
 Just follow the instructions below. Please not, that you won't need autor's notes in this case.
 
 ![](https://files.catbox.moe/m0nmhn.png)
@@ -343,7 +324,7 @@ Just follow the instructions below. Please not, that you won't need autor's note
 # 
 - - -
 # 
-###### NO MORE ITALICS REGEX
+##### No More Italics Regex
 I recommend you using this regex to exclude ~~🍕 italisation~~ italicization from your replies completely. This way you'll get stable formatting. Regex editor can be found in 'Extensions' menu in tavern.
 
 ![](https://files.catbox.moe/xhowza.png)
@@ -358,7 +339,7 @@ Leave the field 'Replace with' empty.
 # 
 - - -
 # 
-###### REGULAR QUOTES ONLY REGEX
+##### Regular Quotes Only Regex
 I recommend you using this regex to replace all occurrences of «, », 「, 」, 《, 》, “, and ” in your text with "
 
 ![](https://files.catbox.moe/dc6lh7.png)
@@ -376,7 +357,7 @@ Replace with:
 # 
 - - -
 # 
-###### DEALING WITH A POZZED KEY
+##### Dealing with a Pozzed Key
 **A: If you use my preset with a prefill:**
 !!! Add this text from the code block below In the END of your current 'JB': 
 ```XML
@@ -413,7 +394,7 @@ Here is a visualization:
 # 
 - - -
 # 
-###### \*SECRET\* SILLYTAVERN FEATURES
+##### \*Secret\* SillyTavern Features
 Since SillyTavern v1.9(???) there is a `[ ] 'Show <tags> in responses'` option in your 'User Settings'. If you leave it unchecked all html tags will be hidden in chat and some will even be applied giving you access to some HTML5 elements.
 
 • The tag `<small>` will make wrapped text small and grey. It can be used like this:
@@ -484,7 +465,7 @@ Health: <meter value=10 min=0 max=10></meter> Stamina: <meter value=7 min=0 max=
 # 
 - - -
 #
-######PERSONA FIX AFTER UPDATE TO ST 10
+##### Persona Fix After Update to ST 10
 If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use this fix manually editing the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
 
 !!! PRESET.json - On the line 103 add the code below (under `scenario` block):
@@ -506,11 +487,11 @@ If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude an
 - - -
 - - -
 # 
-##Explaining temperature, penalty, topp and topk
+##Explaining Temperature, Penalty, TopP and TopK
 
 **`Estimated reading time: 10 minutes`**
 
-######TL;DR
+##### TL;DR
 In this text, I will explain the parameters of a Large Language Model (LLM) without delving into complex mathematical formulas. I aim to make the understanding of these parameters as straightforward as possible.
 
 This text includes:
@@ -539,7 +520,7 @@ Frequency Penalty: 0-0.20
 Presence Penalty: 0-0.20
 ######
 - - -
-######GENERAL INFO ON LLM
+##### General Info on LLM
 An LLM (large language model) is like an advanced, intelligent version of T9. Remember how T9 could predict the next word you were going to type based on the keys you were pressing? An LLM is like that, but instead of predicting just one word, it can predict whole sentences, and even whole paragraphs.
 
 An LLM "reads" the input you give it (which could be a single word, a sentence, or more), and then generates a continuation. It does this by calculating probabilities for what the next word should be, based on patterns it learned during its training on a large amount of text data.
@@ -549,7 +530,7 @@ The way this works is through a type of machine learning model known as a transf
 For example, if the model is given the sentence "The cat is on the…", it might assign a high score to the word "roof" and lower scores to words like "pineapple" or "moon". After `softmax`, these scores are turned into probabilities, so the word "roof" gets a high probability and is likely to be chosen, while "pineapple" and "moon" get low probabilities and are less likely to be chosen.
 ######
 - - -
-######TEMPERATURE
+##### Temperature
 **Simple explanation:** `Temperature` is a key parameter in fine-tuning the randomness of responses generated by the AI. A higher `Temperature`, like 0.8, results in the AI generating more random outputs. This makes for more diverse and creative, but potentially less coherent and unpredictable responses.
 
 On the other hand, a lower `Temperature`, like 0.2, makes the AI's responses more focused and deterministic. That means the responses will be more consistent and predictable, but potentially less creative.
@@ -568,7 +549,7 @@ The `Temperature` modifies these raw predictions before they are fed into the `s
 You can also check [this video from MarbleScience](https://www.youtube.com/watch?v=YjVuJjmgclU) if you want a bit more detailed explanation.
 ######
 - - -
-###### TOP P AND TOP K
+##### Top P and Top K
 **Top-k Sampling:** When generating text, the AI model scores each possible next word, and these scores are turned into probabilities. With Top-k sampling, the model picks the 'k' tokens with the highest scores and disregards the rest. The next token is then randomly sampled from these top 'k' tokens. A smaller 'k' value makes the model more deterministic and focused, while a larger 'k' value makes it more diverse and random.
 
 > **Example:** If `Top-K` is set to 3, you're "telling" the AI to consider only the top 3 tokens (words) while generating its response and ignore all others.
@@ -580,7 +561,7 @@ You can also check [this video from MarbleScience](https://www.youtube.com/watch
 The key difference is that Top-k sampling decides how many options to consider based on the tokens' rankings, regardless of their probabilities, while Top-p sampling decides based on cumulative probability, without considering the number of tokens involved.
 ######
 - - -
-###### TOP P AND TEMPERATURE DIFFERENCES
+##### Top P and Temperature Differences
 Imagine a pot of water simmering on a stove. The heat of the stove represents the `Temperature` in our AI model:
 
 **Low Temperature:** At low heat (low `Temperature`, say 0.2), only a few bubbles come to the surface - these are like the most probable words that the model will choose. The responses are consistent and predictable, but might lack diversity. The model is careful and focused in its choice, preferring to stick to the words it's most certain about.
@@ -611,7 +592,7 @@ OpenAI recommends only altering either Temperature or `Top P` from the default. 
 > Actually you'd better try combining them. If you use high `Temperature`, you'd certainly want to exclude tokens with superlow-chance from occurring in the AI output. This will keep AI creative while not allowing it to generate nonsense; stuff like random symbols and words that certainly wouldn't naturally occur. Something like `Top-P` = 0.75-0.85 will do for high `Temperatures` (Remember on high `Temperatures` probabilities like 0.1% may become 1%, and 1% may become 10%, so you'll need a low enough `Top-P` value to cut them off). In result you will get both logical and diverse output.
 ######
 - - -
-###### FREQUENCY PENALTY AND PRESENCE PENALTY
+##### Frequency Penalty and Presense Penalty
 `Frequency Penalty (fp)` and `Presence Penalty (pp)` are parameters used to fine-tune the generated outputs of the AI.
 
 **Frequency Penalty:** This parameter discourages the model from using common or FREQUENT tokens. A higher `fp` value (like 1.0) would cause the model to avoid using common words and phrases, leading to more novel and unique responses. Conversely, a lower `fp` value (like 0.0) wouldn't penalize the usage of frequent tokens, and therefore, the generated responses would include more common words and phrases.
@@ -628,7 +609,7 @@ Negative values will encourage repetition.
 > For the best results during RP you probably should set both parameters to 0 or keep them pretty low, then lower them to 0 if you feel the AI output became weird and less coherent. This will keep your formatting clean. In theory, if you use high values, the longer your conversation is the stranger AI outputs will become (It also may seem like your characters will start forgetting things even though you have enough context size.)
 ######
 - - -
-###### Sources
+##### Sources
 [Claude Documentation](https://docs.anthropic.com/claude/docs/glossary)
 [Google Documentation](https://developers.generativeai.google/guide/concepts#model_parameters)
 [OpenAI Documentation](https://platform.openai.com/docs/api-reference/chat/create#chat/create-temperature)

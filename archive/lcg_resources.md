@@ -25,6 +25,7 @@
 * [Dustloop Wiki](https://www.dustloop.com/w/LCB/)
 * [Limbus Company Organized Assets](https://drive.google.com/drive/folders/1Nk9WWMxEcovs5Ewku5ICT1PbfByNcV_z)
 * [ID & E.G.O animations](https://yuehailunna.lofter.com/view)
+* [Coinflip and Corrosion Comparisons](https://www.youtube.com/@Ara-sw1cd/videos)
 * [Limbus Company Font List](https://bysmile0824.postype.com/post/14436984)
 * [Limbus Company Fandom](https://limbuscompany.fandom.com)
 * [Library of Ruina Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
@@ -152,4 +153,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/16/23: Added identity story viewer link
 10/20/23: Added all interview links and LobCo LP link
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
-10/25/23: Added LimCum update countdown link. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/25/23: Added LimCum update countdown link
+10/26/23: Added Ara channel link link ![lol&](https://files.catbox.moe/7dmu76.png)

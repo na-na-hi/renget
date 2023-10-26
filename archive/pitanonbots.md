@@ -40,6 +40,7 @@ Threat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.p
 ###Non OC Characters
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Aya | (26/10/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/aya-miyanaga-796b20a5/main) | ![](https://files.catbox.moe/wlnlib.png) | https://hitomi.la/doujinshi/rikujobu-chan-english-385225-2095545.html
 Clementine | (21/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/clementine-372e314f/main) | ![](https://files.catbox.moe/gs9cte.png)
 Albedo | (19/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/albedo-5140c31b/main) | ![](https://files.catbox.moe/t4i23e.png)
 Hatsune Miku | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/miku-d1b931c6/main) | ![](https://files.catbox.moe/kxxtsu.png) | ![](https://files.catbox.moe/7lj1vp.png)

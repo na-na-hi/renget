@@ -118,6 +118,7 @@
 09/2023|[Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)
 10/2023|[RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.01352)
 10/2023|[Branch-Solve-Merge Improves Large Language Model Evaluation and Generation](https://arxiv.org/abs/2310.15123)
+10/2023|[Generative Pre-training for Speech with Flow Matching](https://arxiv.org/abs/2310.16338)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)

@@ -10,6 +10,7 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 https://playeternalreturn.com/posts/news/1515 (1.7 Patch Notes)
 https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards)
 https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
+https://event.playeternalreturn.com/ER_Season2 (Season 2)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=J8z5CavPCYY
@@ -26,7 +27,7 @@ https://www.youtube.com/watch?v=svmBforGos8
 \>Professor Cathy Preview
 https://www.youtube.com/watch?v=5QZ7xQMtx-Q
 
-\>2023 SEASON 2: BATTLE MAIDS
+\>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4
 
 \>Dr. Nadja's Beginner Guide
@@ -51,7 +52,6 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://playeternalreturn.com/posts/news/1512 (~10/31)
-https://event.playeternalreturn.com/ER_Season2 (~11/8)
 https://playeternalreturn.com/posts/news/1485 (~11/9)
 https://playeternalreturn.com/posts/news/1520 (Twitch drops, ~11/9)
 

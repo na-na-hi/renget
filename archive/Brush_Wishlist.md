@@ -19,7 +19,6 @@
  **INK + MARKER + OIL sketch brush**|[1973976](https://assets.clip-studio.com/en-us/detail?id=1973976)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/39/1973976/thumbnail)
 **BigBrushSet![Limited time 10CP]**|[2004452](https://assets.clip-studio.com/en-us/detail?id=2004452)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/44/2004452/thumbnail)
 **softBrush♦B8pencil♦DryInk**|[1944219](https://assets.clip-studio.com/en-us/detail?id=1944219)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/42/1944219/thumbnail)
-**TA Watercolor Crayon (TA水彩クレヨン)**|[2005354](https://assets.clip-studio.com/en-us/detail?id=2005354)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/53/2005354/thumbnail)
 **Un-Komei brush (un孔明ブラシ)**|[1990355](https://assets.clip-studio.com/en-us/detail?id=1990355)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/03/1990355/thumbnail)
 **bristle set**|[1964453](https://assets.clip-studio.com/en-us/detail?id=1964453)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/44/1964453/thumbnail)
 **P-ROUGH**|[1879575](https://assets.clip-studio.com/en-us/detail?id=1879575)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/75/95/1879575/thumbnail)

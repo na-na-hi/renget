@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Hohol minelayer robot killed by FPV drone
+https://files.catbox.moe/bpywtw.mp4
 >ANOTHER Leopard 2 BOBRED
 https://files.catbox.moe/4wltzi.mp4
 >Hohol infantry group destroyed: wounded AFU officer an heroes

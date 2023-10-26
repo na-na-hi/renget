@@ -75,4 +75,5 @@ https://files.catbox.moe/on4cnu.png or https://www.chub.ai/characters/koikoikoih
 
 ![Привет!](https://files.catbox.moe/taoh1x.png)
 *Katenka, the soldier from the Land of the Fey. Features seven different greetings, an embedded lorebook, and more pics in the chub link.*
-https://files.catbox.moe/taoh1x.png or https://www.chub.ai/characters/koikoikoihat/katenka-0dd93a77
+(Dedicated lorebook embedded and slightly adjusted. Added example dialogue.)
+https://files.catbox.moe/dzl7lb.png or https://www.chub.ai/characters/koikoikoihat/katenka-0dd93a77

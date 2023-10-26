@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 25th October. All dates dd/mm.
+!!! Note Last updated: 26th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -109,7 +109,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 244 | Cute&Funny | Open as of 01/09
 3640 | DFC | Open as of 08/10
-6488 | Kanimochi | Open as of 12/10
+6488 | Kanimochi | Open as of 26/10
 6665 | F2Poor | Open as of 24/09
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 10/10
@@ -141,6 +141,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+2496 | AbydosCycling | Open as of 26/10
 6098 | Comfy | Open as of 16/09
 6289 | FlatIsJustice | Open as of 24/10
 
@@ -153,7 +154,6 @@ Club ID | Club Name | Club Status
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
-2496 | AbydosCycling | Full as of 22/10
 4722 | JointRaid | Full as of 03/02
 
 ***

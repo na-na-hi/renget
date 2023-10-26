@@ -116,7 +116,7 @@ Extractions are the gacha system of Limbus Company. This is the most straightfor
 
 Extraction Tickets and Decaextraction Tickets are for single rolls and 10-rolls respectively. If you have at least 10 Extraction Tickets you can do a 10-roll with them like the Decaextraction Tickets, so it's best to save them up. These tickets are used before Lunacy.
 
-There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction and 3-Star Identity Assured Extraction banners. The rates shown below are individual rates.
+There are three types of Extraction banners that you will encounter often, aside from the New Manager's Welcome Extraction, 3-Star Identity Assured Extraction, and Walpurgis Night Target Extraction. The rates shown below are individual. It is recommended to look at the ingame probabilities button, as it will have the most accurate and up-to-date information.
 - Standard Extraction
 A permanently-available banner where there is an equal chance of receiving any particular Identity/E.G.O, for any Sinner. Never roll on this banner outside of daily rolls with paid Lunacy, this is a truth among all gacha.
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
@@ -128,6 +128,9 @@ A banner that increases the probability rates for receiving the featured Identit
 - Limited Target Extraction
 A banner that increases the probability rates for receiving the Identities and E.G.Os of a specific Sinner. This banner changes with the current New Identity / E.G.O Target Extraction.
 ![Limited Target Extraction](https://files.catbox.moe/7dn6z8.png)
+
+**4. Walpurgisnacht**
+limnbinius
 
 **4. Dupes**
 If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
@@ -205,12 +208,12 @@ You can do multiple Mirror Dungeons a day if you really want to, but be careful 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
 Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and and farming a 000 is cheaper than a 10-roll - 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
-In other words - yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
+In other words - yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely - if you are dedicated enough.
 
 **3. What should I shard (spark) first, and when?**
-If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, preferably both if it applies. You should avoid sharding 00 Identities because they are easy to roll on or off-banner, because you are guaranteed one 00 Identity for every 10-roll. 
+If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, preferably both if it applies. You should avoid sharding 00 Identities because they are easy to roll on or off-banner, as you are guaranteed one 00 Identity for every 10-roll. 
 
-As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. But if you really want something now whether it be for the Railway or something else, you can do it whenever.
+As for when to shard, it is best to wait for right before the Season ends incase you get spooked when rolling. But if you really want something now whether it be for the Railway or something else, you can do it whenever if you have the Egoshard Crates to justify it.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
 This largely depends on how many Egoshards you have for that Sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot or you'll be sitting on 600 extra Egoshards you have no use for.
