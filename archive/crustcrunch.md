@@ -43,6 +43,7 @@ Image | Name | Description | Links
 ##Male Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![winnie](https://files.catbox.moe/d6ysjw.png)   | **Prince Winslow** | (V2) Lorebook + 5 greetings. Something of a companion bot for "Prince Lawrence." This time, Winslow is your younger brother. He's rude, blunt, and sometimes aggressive... | [chub](https://www.chub.ai/characters/crustcrunch/prince-winslow-ac91c4ab), [catbox](https://files.catbox.moe/d6ysjw.png)
 ![erika](https://files.catbox.moe/q76824.png)   | **Erika** | (V2) 7 greetings. MixedPOV (easy to edit.) Yandere femboy based off the artwork of Koyashaka's OC, Envy Elika. | [chub](https://www.chub.ai/characters/crustcrunch/erika-9748da67/main), [catbox](https://files.catbox.moe/q76824.png)
 ![oniichan](https://files.catbox.moe/k87xcg.png)   | **Prince Lawrence** | (V2) Lorebook + 5 greetings. FemPOV. Your older brother, the crown prince, who is in love with you. | [chub](https://www.chub.ai/characters/crustcrunch/prince-lawrence-4d58b656/main), [catbox](https://files.catbox.moe/k87xcg.png)
 ![elfy](https://files.catbox.moe/yyzxhx.png)   | **Saphielle** | (V2) Lorebook + 2 greetings. A haughty, disgraced elf prince whose nation was conquered by orcs. Now a refugee in the Equamore Republic. It is your job to house him. The alternate greeting takes place in the middle of the conquest. | [chub](https://www.chub.ai/characters/crustcrunch/saphielle-4eb43153), [catbox](https://files.catbox.moe/yyzxhx.png)

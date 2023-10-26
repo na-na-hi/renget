@@ -103,6 +103,7 @@
 * [Fanwork Guidelines](https://twitter.com/ProjMoonStudio/status/1629085462236397573)
 
 ## Miscellaneous
+* [Limbus Company Update Countdown](https://lcbcountdown.carrd.co/)
 * [Lobotomy Corporation Optimization Mod](https://www.nexusmods.com/lobotomycorporation/mods/57)
 * [Lobotomy Corporation Screenshot Let's Play](https://lparchive.org/Lobotomy-Corporation/)
 * [Art Director Artstation](https://www.artstation.com/naiga12)
@@ -150,4 +151,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/10/23: Added LittlePMStuff link
 10/16/23: Added identity story viewer link
 10/20/23: Added all interview links and LobCo LP link
-10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
+10/25/23: Added LimCum update countdown link. ![lol&](https://files.catbox.moe/7dmu76.png)

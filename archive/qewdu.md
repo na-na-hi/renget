@@ -135,6 +135,9 @@ CH0218 = Swimsuit Miyu
 CH0222 = Nagusa **(Portrait Only)**
 CH0228 = Yakumo **(Portrait Only)**
 CH0229 = Takane **(Portrait Only)**
+CH9996 = Saten (Railgun Collab)
+CH9997 = Misaki (Railgun Collab)
+CH9998 = Misaka (Railgun Collab)
 CH9999 = Miku
 ***
 ## -> Chibi NPCS or Portraits <-

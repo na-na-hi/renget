@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Prince Winslow](https://files.catbox.moe/d6ysjw.png)|
+[Tipzanon](https://rentry.co/tipzanon) | Misc |[Clover](https://files.catbox.moe/nx50fv.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Cairo](https://files.catbox.moe/wy8ghk.png), [Chad](https://files.catbox.moe/fp2j61.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[The Nurse](https://files.catbox.moe/npl65b.png), [Glommer](https://files.catbox.moe/204br6.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katenka](https://files.catbox.moe/taoh1x.png)|
@@ -47,12 +49,10 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
-[Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||

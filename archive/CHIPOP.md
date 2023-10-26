@@ -93,7 +93,6 @@ https://youtu.be/1eu0PtSdSNo
 https://youtu.be/IcPPJqKsTR8
 https://youtu.be/VpF3b5bsVXY
 https://youtu.be/zIMio6aw_6I
-https://youtu.be/zI3C8g5poAI
 
 ▶NEWS:
 https://rt.com/

@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 8 | **Experience to Next Level:** 60/80 | **Alignment:** True Neutral
+**Level:** 9 | **Experience to Next Level:** 15/90 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
 **Pokécoin:** 69₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
@@ -46,7 +46,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 #### ->Stats<-
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 8 (20 HP) | 20 HP
+Health Points | 0 | Level 9 (21 HP) | 21 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
@@ -60,7 +60,7 @@ Move | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | -- | - | :-: | :-: | ---------
 Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
-None | - | - | - | - | - | This potential has yet to be unlocked.
+Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
 None | - | - | - | - | - | This potential has yet to be unlocked.
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -112,7 +112,7 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Blast Seed | Explodes on contact for 10 true damage.
+1. Crystal Shard | A small, sharp shard of crystal.
 2. Empty | None
 3. Empty | None
 4. Empty | None

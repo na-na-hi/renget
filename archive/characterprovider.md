@@ -32,17 +32,20 @@ Click these images to quickly access the prompts:
 ######
 - - -
 ##Info section
+`Use Quick start above to skip this section`
+
 Please, read this, it provides you with sufficient info for my prompts and presets and answers your possible questions. You may start from `3.` 1 and 2 are just me trying to seem 𝔠𝔬𝔬𝔩.
 
 ######1. BEFORE DIVING ANY FURTHER PLEASE READ THIS DISCLAIMER:
 • **This is Purely Role-Play.** It does not endorse, incite or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
-• **Legal Access.** If you wish to interact with a particular LLMl, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
+• **Legal Access.** If you wish to interact with a particular LLM, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
 • **Just a Fiction.** The roleplays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use.
 • **Credits.** The prompts offered are the collective work of numerous AI role-play enthusiasts and are not solely my creation. At times, I originate ideas or draw inspiration from others' work, and on occasion, I incorporate elements from other 'prompters'. Feel free to modify and share these prompts; attribution is not necessary but appreciated.
 • **Adult Content.** By using these prompts, you affirm that you are over 18 years of age ~~and in a mentally sound state~~.
 • **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health.
 • **Rest and Health Matters.** Ensure to take breaks between your "sessions" and pay attention to your health. If you experience any discomfort or pain down there, stop immediately. I am serious. Dead serious.
 • **Proxy Warning.** Be cautious when using custom proxy builds.
+• **I guess this is important.** All my characters are 18+. Even if it's just a text and a picture.
 ######
 What I'm trying to achieve with `GPT-AP-3+` version right now:
 2. PROGRESS MAP | 
@@ -81,10 +84,11 @@ These prompts are garbage if you want:
 • Guro. (untested)
 
 If you have issues with your output, please check [my recommendations](#how-to-use-and-recommendations) and [FAQ](#6-faq). I explained how to prevent:
-• Structure loops. (Problem: Repetition of same structured massages)
-• Context loops. (Problem: Lack of context)
-• AI writing as {{user}}. (Problem: Bad card issue)
-• Generally bad output. (Problem: "Ah, ah, mistress" issue)
+• Structure loops.
+• Context loops.
+• AI writing as {{user}}.
+• Generally bad output.
+etc.
 
 > Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload. If they are not significant - I fix them in next versions, because using text editor, putting it in .zip, uploading to catbox, changing rentry is an 'ugh' action chain. Also I am sorry for some design inconsistences, this rentry is constantly evolving.
 
@@ -483,10 +487,37 @@ If you are using my **DOWNLOADABLE PRESETS:** V10, V10.1, V11, V12 for Claude an
 # 
 ##Explaining temperature, penalty, topp and topk
 
-I'll try to break down the LLM parameters for you, making them as easy as possible without skimping on the real deal of how they work. I'll skip all the tricky math bits, formulas and such, and paint a clear picture for you.
+**`Estimated reading time: 10 minutes`**
+
+######TL;DR
+In this text, I will explain the parameters of a Large Language Model (LLM) without delving into complex mathematical formulas. I aim to make the understanding of these parameters as straightforward as possible.
+
+This text includes:
+**General explanation of LLMs** - likening to a sophisticated version of T9 that can predict entire sentences and paragraphs instead of just words.
+
+**Temperature** - which fine-tunes the AI's randomness. A high temperature value results in more random and creative outputs, while a lower one makes responses more focused and predictable.
+
+**Top-P and Top-K** - they influence how the model selects words for its responses based on their rankings and cumulative probability, respectively. Temperature and top-p comparative analysis
+
+**Frequency penalty and Presence penalty** - parameters that fine-tune the AI's novelty and repetition in its responses. High values for these parameters ensure more unique and varied responses but could affect the coherence of the AI's outputs in prolonged conversations.
+
+This text serves as an introductory guide to understanding LLM parameters while making recommendations for achieving optimal results during roleplay chats. I recommend you read this all.
 
 > Some of my prompts might not fit these rules, because I didn't know them back then. But don't worry, I'll include some recommendations for you on how to fix them.
 
+**Default values for ChatGPT API, Chat completion** ([source](https://platform.openai.com/docs/api-reference/chat/create#chat/create-temperature)):
+Temperature: 1
+TopP: 1
+Frequency Penalty: 0
+Presence Penalty: 0
+
+**My recommendation for GPT4-32k** (I use T\*\*d, so my results may differ):
+Temperature: 0.7-1.15
+TopP: 0.75-0.95
+Frequency Penalty: 0-0.20
+Presence Penalty: 0-0.20
+######
+- - -
 ######GENERAL INFO ON LLM
 An LLM (large language model) is like an advanced, intelligent version of T9. Remember how T9 could predict the next word you were going to type based on the keys you were pressing? An LLM is like that, but instead of predicting just one word, it can predict whole sentences, and even whole paragraphs.
 
@@ -523,7 +554,7 @@ You can also check [this video from MarbleScience](https://www.youtube.com/watch
 
 **Top-p Sampling (also known as Nucleus Sampling):** Instead of picking the top 'k' tokens, Top-p sampling chooses the smallest set of tokens whose cumulative probability exceeds the value 'p'. This means the model could potentially consider a large number of tokens (if their probabilities are all low) or a small number of tokens (if one or a few have very high probabilities). This makes Top-p sampling more adaptive than Top-k sampling.
 
-> **Example:** If `Top-P` is set to 0.75, you're "telling" the AI to consider only the top tokens (words) whose probabilities add up to 75% while generating its response and ignore all others.
+> **Example:** If `Top-P` is set to 0.75, you're "telling" the AI to consider only the top tokens (words) which probabilities add up to 75% while generating its response and ignore all others.
 
 The key difference is that Top-k sampling decides how many options to consider based on the tokens' rankings, regardless of their probabilities, while Top-p sampling decides based on cumulative probability, without considering the number of tokens involved.
 ######
@@ -556,7 +587,7 @@ Alright, now let's try a different analogy for `Top-P`. Instead of boiling water
 OpenAI recommends only altering either Temperature or `Top P` from the default. Either you change `Temperature` and leave `Top P` = 1 or you change `Top P` and leave `Temperature` = 1. But it's for dummies, we're smarties now!
 
 > **Recommendation:**
-> Actually you'd better try combining them. If you use high `Temperature`, you'd certainly want to exclude tokens with superlow-chance from occurring in the AI output. This will keep AI creative while not allowing it to generate nonsense; stuff like random symbols and words that certainly wouldn't naturally occur. Something like `Top-P` = 0.75 will do for high `Temperatures` (Remember on high `Temperatures` probabilities like 0.1% may become 1%, and 1% may become 10%, so you'll need a low enough `Top-P` value to cut them off).
+> Actually you'd better try combining them. If you use high `Temperature`, you'd certainly want to exclude tokens with superlow-chance from occurring in the AI output. This will keep AI creative while not allowing it to generate nonsense; stuff like random symbols and words that certainly wouldn't naturally occur. Something like `Top-P` = 0.75-0.85 will do for high `Temperatures` (Remember on high `Temperatures` probabilities like 0.1% may become 1%, and 1% may become 10%, so you'll need a low enough `Top-P` value to cut them off). In result you will get both logical and diverse output.
 ######
 - - -
 ###### FREQUENCY PENALTY AND PRESENCE PENALTY
@@ -570,20 +601,22 @@ In summary, `fp` and `pp` can be adjusted to control the novelty (via `fp`) and 
 
 Negative values will encourage repetition.
 
-**Drawbacks for high fp and pp:** Common words are, after all, frequently used in our language for a reason. They contribute to the fluency and readability of the text. So, an excessive `fp` could harm the coherence and naturalness of the AI's responses, this could cause the AI to avoid repeating even important points or key words, making the conversation harder to follow.
-
-Furthermore, In markdown or structured text formats, certain tokens (like \*asterisks\* for bolding or "quotation" for speech) are used frequently, so high `fp` and `pp` values may mess up your formatting; For example, the AI might only use underline instead of asterisk for italics, or it might start using “smart quotes ” instead of simple ones, or even start using (…) ellipsis instead of just three dots (...).
+**Drawbacks for high fp and pp:** (in theory). So, an excessive `fp` could harm the coherence and naturalness of the AI's responses, this could cause the AI to avoid repeating even important points or key words, making the conversation harder to follow. Furthermore, In markdown or structured text formats, certain tokens (like \*asterisks\* for bolding or "quotation" for speech) are used frequently, so high `fp` and `pp` values may mess up your formatting; For example, the AI might only use underline instead of asterisk for italics, or it might start using “smart quotes ” instead of simple ones, or even start using (…) ellipsis instead of just three dots (...). (Again, this happens in theory, but I tried the value 2 for both these options in a 28k tokens chat and haven't encountered with any issue described here. Even the formatting was good, so you may try cranking them up to 0.20 or so. It seems to loop less this way.)
 
 > **Recommendation:**
-> For the best results during RP you probably should set both parameters to 0 or keep it really low. This will keep your formatting clean. If you use high values, the longer your conversation is the stranger AI outputs will become (It also may seem like your characters will start forgetting things even though you have enough context size.)
+> For the best results during RP you probably should set both parameters to 0 or keep them pretty low, then lower them to 0 if you feel the AI output became weird and less coherent. This will keep your formatting clean. In theory, if you use high values, the longer your conversation is the stranger AI outputs will become (It also may seem like your characters will start forgetting things even though you have enough context size.)
 ######
 - - -
 ###### Sources
+[Claude Documentation](https://docs.anthropic.com/claude/docs/glossary)
+[Google Documentation](https://developers.generativeai.google/guide/concepts#model_parameters)
+[OpenAI Documentation](https://platform.openai.com/docs/api-reference/chat/create#chat/create-temperature)
 [LLM Parameters Demystified](https://txt.cohere.com/llm-parameters-best-outputs-language-ai/)
-[Token selection strategies](https://peterchng.com/blog/2023/05/02/token-selection-strategies-top-k-top-p-and-temperature/)
-[OpenAI forum](https://community.openai.com/t/temperature-top-p-and-top-k-for-chatbot-responses/295542)
+[Token Selection Strategies](https://peterchng.com/blog/2023/05/02/token-selection-strategies-top-k-top-p-and-temperature/)
+[OpenAI Forum](https://community.openai.com/t/temperature-top-p-and-top-k-for-chatbot-responses/295542)
 [What is the Temperature of an AI? - MarbleScience](https://www.youtube.com/watch?v=YjVuJjmgclU&t=225s)
-GPT-4 itself
+[LLMs: Understanding Temperature and Context Length of a GPT](https://www.youtube.com/watch?v=IllijoYSH80)
+GPT-4 itself (mostly spellcheck and analogies. I've checked the info it gave me.)
 Special thanks to *H\*\*\*e*.
 #
 - - -
@@ -2515,4 +2548,4 @@ Image | Name/Link | Description
 
 # 
 - - -
--> *- Устал, хочу новую сетку...* ->
+-> *- Вот бы ящеро-жену...* ->

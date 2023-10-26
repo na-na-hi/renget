@@ -65,9 +65,9 @@
 - Advanced search engine that simply gathers torrent metadata such as file titles, file sizes, and a magnet link to provide the visitor.
 - [URL Safety Results](https://www.urlvoid.com/scan/bitsearch.to/)
 
-### 🧲 [BT4G](https://bt4g.org/)
+### 🧲 [BT4G](https://bt4gprx.com/)
 - A torrent search engine that uses DHT and the goal is to make torrent finding and downloading easy for everyone.
-- [URL Safety Results](https://www.urlvoid.com/scan/bt4g.org/)
+- [URL Safety Results](https://www.urlvoid.com/scan/bt4gprx.com/)
 
 ### 🧲 [BTDigg](https://btdig.com/)
 - Excellent BitTorrent DHT search engine that gathers metadata, and returns magnet links rather than storing any material.
@@ -76,10 +76,6 @@
 ### 🧲 [BTMET](https://btmet.com/)
 - A previewable magnet search engine that enables quick starts to downloads in almost every genre of media for free use.
 - [URL Safety Results](https://www.urlvoid.com/scan/btmet.com/)
-
-### 🧲 [ExtraTorrents](https://extratorrents.it/home)
-- Find games, applications, movies, TV series, and more on one of the biggest torrent sites in the world.
-- [URL Safety Results](https://www.urlvoid.com/scan/extratorrents.it/)
 
 ### 🧲 [FileListing](https://filelisting.com/)
 - Powerful search engine with bots that constantly scan, index, and categorise all types of files from the whole web.

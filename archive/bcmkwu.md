@@ -1,4 +1,20 @@
 ▶NEW CLIPS
+>ANOTHER Leopard 2 BOBRED
+https://files.catbox.moe/4wltzi.mp4
+>Hohol infantry group destroyed: wounded AFU officer an heroes
+https://files.catbox.moe/iualtm.mp4
+>Highway of Death to Verbovoye
+https://files.catbox.moe/ymco72.mp4
+>1st Slavic Brigade FPVs hitting hohol dugout and trenches towards avdeevka
+https://files.catbox.moe/xcd9lt.mp4
+>OBTF Kaskad blankets hohol positions at Velikonovoselovsky with MLRS
+https://files.catbox.moe/ikefzn.mp4
+>Artyomovsk: Landing troops attack and storm Vasyukovka
+https://files.catbox.moe/zgffaw.mp4
+>Combat work of special group "Lynx" and 1st Airborne Infantry "Wolves"
+https://files.catbox.moe/vj8a6p.mp4
+>'O' Group storms ukrainian positions in Kremennaya
+https://files.catbox.moe/0myfau.mp4
 >Battle for the Avdeevka waste heap
 https://files.catbox.moe/js9n7g.mp4
 >Two Leopard 2s BOBRED

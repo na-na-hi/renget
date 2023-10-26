@@ -56,7 +56,7 @@ Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly afte
 Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners and events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you.
+We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners and events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and events [here.](https://lcbcountdown.carrd.co/)
 
 **14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
@@ -314,6 +314,7 @@ The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fig
 
 ## Useful Links
 You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_resources)
+[Limbus Company Update Countdown](https://lcbcountdown.carrd.co/)
 [Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
@@ -340,4 +341,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/2/23: Improved grammar and the Extraction explanation. 
 10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
 10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
-10/20/23: Clarified MD2H weekly rewards. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/20/23: Clarified MD2H weekly rewards.
+10/25/23: Added LimCum update countdown link. ![lol&](https://files.catbox.moe/7dmu76.png)

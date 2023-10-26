@@ -1,7 +1,11 @@
 # ==/AICG/ Discords==
 
+**Characord 3:** https://discord.gg/dhYgA5ANvQ
+Owner's third server. ==Underaged chatters preferred!==
+![mod](https://files.catbox.moe/rn7r9c.jpg)
+
 **AICGcord:** https://discord.gg/AwgZxFefB
-/aicg/ Discord. No special roles, just AI Chatbots.
+Dead /aicg/ cord. No special roles, just AI Chatbots.
 
 **LGAcord:** https://discord.gg/u7mFxFBt
 

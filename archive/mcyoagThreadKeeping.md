@@ -29,41 +29,62 @@ Rentry: https://rentry.org/KTHSWEEP (edit code: ihatetribulationlightning)
 Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 
 >DISCIPLES
->Yasha
+>Yasha, Pokémon Trainer
 >>90675954
->Ming Ming
+>Ming Ming, not enough here for me to come up with anything
 >>90678460
+>Zheng Hao, Magic Fingers
+>>90687745
+>Nobu, Operation Martial Storm
+>>90688350
+>Yexin, possible furry build
+>>90689295
+>Lord Charles Maynard, Opioid Addict
+>>90698018
+>Heng Zhiqiang, Ultimate Tsundere?
+>>90711509
 
 >ELDERS
->The Boneless Old Man
+>The Boneless Old Man, who clearly has bones just look at the picture cmon
 >>90673589
->Dong Do
+>Dong Do, A real fishy guy
 >>90674074
->Xiu Yi
+>Xiu Yi, Hot Woman (literally)
 >>90674739
->Guan Chāo
+>Guan Chāo, didn’t listen to his pastor’s warnings
 >>90674970
->Gyldenwulf
+>Gyldenwulf, least violent cultivation protagonist
 >>90675021
->Huang Yu
+>Huang Yu, Bald Born-Again Buddhist
 >>90676526
->Shu Luxing
+>Shu Luxing, Dumbledysphoria
 >>90678374
->Moriko
+>Moriko, Catnip Addict
 >>90678657
->Morgain Blackheart
+>Morgain Blackheart, Tumblr Sexyman
 >>90680439
->Jian
+>Jian, Split Personality (haha get it split like with a sword)
 >>90680789
-
+>Mei Lan, least hypercompetent maid
+>>90691913
+>Wen Lifen, Slaanesh’s Strongest Soldier
+>>90696265
+>Lei Daiyu, Band Girl
+>>90696383
+>Leanne Pierpoint, Red Flag Raiser
+>>90705408
+>Kay Lee, Crossover Episode
+>>90709507
 
 >ANCESTORS
->Xū
+>Xū, Void Parisian
 >>90675031
->Shu Shihan
+>Shu Shihan… I dunno, I got nothing for this one
 >>90678581
->Magikarp
+>Magikarp. It’s a fucking magikarp do I need to give it a title? Maybe Yasha can add him to his collection
 >>90681699
+>Zhihao Cheng, Ace Attorney
+>>90712377
 
 ```
 ***
@@ -73,6 +94,13 @@ Page 2
 >WRITEFAGS
 >First Fight (Gyldenwulf)
 https://rentry.org/FirstFight
+>A Blade With No Sheath (Jian)
+https://rentry.org/xgtgdc
+>Night Chores (Mei Lan, Xu)
+https://rentry.org/dpfk5
+>The Circus is in Town (Morgain Blackheart)
+https://pastebin.com/5ZmCW69k
+
 ```
 
 #MHA

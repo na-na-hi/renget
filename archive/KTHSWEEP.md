@@ -1,5 +1,5 @@
 # -> Kill the Heavens MP <-
-
+https://rentry.org/XianxiaRants
 [TOC]
 
 ### Builds

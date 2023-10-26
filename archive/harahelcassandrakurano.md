@@ -705,3 +705,7 @@ https://desuarchive.org/trash/thread/45108377/#45111402
 ![Cannon](https://desu-usergeneratedcontent.xyz/trash/image/1645/82/1645829989571.jpg)
 - Cannons (6) - Brass cannons.  32 pounder, but handles like an 18 pounder.  Softly glowing blue inscriptions along the barrel.  Frost magic stabilized barrel temperature, no deformation, shoots the same no matter how fast your gunner loads it.  Can handle just about any conventional and unconventional alchemical powder.
 - "For Emergency Only" - A barrel of multi-purpose gun powder meant for large cannons, with drastically increased explosive strength, either as a last resort to get some extra power out of a shot, or else, for general destructive purposes, and seems to be entirely self-oxidizing at that.
+
+##Hellgate 2
+- Vertebral Whip - "The item appeared to be a whip, one that seemed to immediately extinguish any fire that would come into contact with it. The flail head was remarkably light despite its size, and upon wielding it, they would be able to absorb a small amount of arka with every flame extinguished, up to a certain point, that they could either use themselves or to empower the whip with their own magic, it seeming to respond to the bearer's wishes: the Vertebral Whip."
+![Vertebral Whip](https://desu-usergeneratedcontent.xyz/trash/image/1698/27/1698272486780.jpg)
