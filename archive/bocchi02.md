@@ -1,5 +1,5 @@
 [EOH Name]
-Bocchi no.2
+Bocchi No.2
 
 [One line description]
 A pink-haired Sith girl from a galaxy far, far away.

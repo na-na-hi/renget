@@ -13,11 +13,20 @@ Changelog:
 ```
 ***
 ##-> Preset<-
-!!! note
-	->My Temp fluctuates between 0.7-1<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/n8x1o7.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/49klte.zip)<-
 ***
-##->Logs (Updated 25 Oct)<-
+##->Logs (Updated 26 Oct)<-
+***
+###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
+->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
+
+->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
+
+->**Genres**: Survival, Zombies<-
+!!! note
+	->Updates: 
+	Responses #23-#34 has been added<-
+->![Shizuka2](https://i.imgur.com/tWfUOYy.jpg)<-
 ***
 ###-> [Faye](https://chub.ai/characters/lurkinginpines/faye-e90a5ee4) - By lurkinginpines<-
 ->![Card3](https://avatars.charhub.io/avatars/lurkinginpines/faye-e90a5ee4/avatar.webp?size=0.9258134364543849)<-
@@ -34,14 +43,6 @@ Changelog:
 
 ->**Genres**: Tsundere<-
 ->![Freya2](https://i.imgur.com/oxBgwlf.jpg)<-
-***
-###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
-->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
-
-->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
-
-->**Genres**: Survival, Zombies<-
-->![Shizuka2](https://i.imgur.com/i3EtP3i.jpg)<-
 ***
 ###-> [Amy](https://chub.ai/characters/tidbit/amy-5538c44a) - By tidbit<-
 ->![Card3](https://avatars.charhub.io/avatars/tidbit/amy-5538c44a/avatar.webp?size=0.0843351948270401)<-

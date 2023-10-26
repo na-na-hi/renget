@@ -11,8 +11,8 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: 神鬼帝國の惡魔城 at 2UTC (Telemelt)** 
 **FRI: Demon's Crest at 2UTC (Telemelt)** 
-**SAT: Castlevania 64 at 2UTC (Parsec)** might be at 18UTC if pixelfag wants to
-**SUN: Castlevania: Rondo of Blood at 18:00UTC* (Parsec)** Maria
+**SAT: Castlevania: Rondo of Blood at 18UTC (Parsec)** Maria
+**SUN: Castlevania 64 at 18:00UTC* (Parsec)** 
 
 ##Cytubes
 

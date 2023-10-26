@@ -1343,6 +1343,13 @@ Breast size slider LoRA v1 Alt
 
 	https://files.catbox.moe/036d34.safetensors
 
+Anti-Countershading Slider LoRA v1
+>Higher = less countershading
+>Lower = more countershading
+>Can go higher than 1 and lower than -1 without burning.
+
+	https://files.catbox.moe/d8e38j.safetensors
+
 # Naoko (alvh-omega)
 >Recommend using the LoRA at 0.7 weights.
 >Catbox with some of the tags she has for you to mess around with https://files.catbox.moe/5llwj5.png
@@ -1352,7 +1359,8 @@ Negative prompt: easynegative, boring_e621_v4, bwu, dfc, ubbp, updn, sepia, dark
 Steps: 20, Sampler: Restart, CFG scale: 7, Seed: 860553435, Size: 600x800, Model hash: 821628644e, Model: EasyFluffV11.2, Denoising strength: 0.5, CFG Rescale: 0.7, Auto Color Fix Strength: 0.2, Hires upscale: 2, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Lora hashes: "naokotest5: 36497ef79c2a", Version: v1.6.0``
 >Trained on outfit tags bikini, crop top, booty shorts, kimono, boots, tank top, graphic shirt. Object tags fan, beer, whiskey.
 
-	 https://files.catbox.moe/uqumxo.safetensors
+	V1: https://files.catbox.moe/uqumxo.safetensors
+	V2: https://files.catbox.moe/uwzd14.safetensors
 
 ## LORAs from the Discord
 

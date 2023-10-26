@@ -124,7 +124,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is charging up!
+>Renaissance (Desolator, Luccione, Mauler):
+https://rentry.org/rfyv4
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90676737/
@@ -607,6 +608,8 @@ https://rentry.org/2bovid
 https://rentry.org/b9ge4v
 >Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru))
 https://rentry.org/h5izt6
+>Renaissance (Desolator, Luccione, Mauler):
+https://rentry.org/rfyv4
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

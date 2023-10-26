@@ -1,4 +1,4 @@
-#->Elysian Realm recommended builds 6.9<- 
+#->Elysian Realm recommended builds 7.0<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
 Added 'Remarks' for brief description of some precautions
 
@@ -9,6 +9,13 @@ Added 'Remarks' for brief description of some precautions
 translated from 月光中心
 
 click image to jump to valk
+
+!!! info 7.0 Phase 1
+[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)
+
+
+[Luna Vow: Crimson Love basic](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)
+[Luna Vow: Crimson Love weapon](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)
 
 !!! info 6.9 Phase 2
 [![dwflag1](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag_1)[![sivalk1](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression_1)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![vqvalk1](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon_1)[![sirincha1](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged_1)[![ssulti1](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti_1)[![spavalk1](https://i.imgur.com/dgXtZ5c.png)](https://rentry.org/ElysianRealm/#spina-astera_1)[![hohulti1](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti_1)[![rcvalk1](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico_1)[![hoficom1](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo_1)[![jkvalk1](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm#jade-knight_1)[![cnvalk1](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi_1)[![skvalk1](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight_1)[![vkevalk1](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse_1)[![frvalk1](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)[![hotrwep1](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)
@@ -61,29 +68,102 @@ click image to jump to valk
 [Herrscher of Sentience](https://rentry.org/ElysianRealm/#herrscher-of-sentience)
 [Spina Astera](https://rentry.org/ElysianRealm/#spina-astera)
 
-!!! info 6.8 Phase 2
-[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)
-
-
-[Fallen Rosemary SS2](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2_1)
-[Infinite Ouroboros](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)
-[Herrscher of Truth weapon](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon_1)
-[Herrscher of Flamescion](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)
-[Herrscher of Origin combo](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)
-[Herrscher of Void snaps](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)
-[Herrscher of Sentience](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)
-[Terminal Aide 0017](https://rentry.org/ElysianRealm#terminal-aide-0017_1)
 
 
 
-
-[comment]: # ([![hofiulti1](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti_1)[![gdvalk1](https://i.imgur.com/VAuzmVS.png)](https://rentry.org/ElysianRealm/#golden-diva-sss_1)[![horvalk1](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm/#herrscher-of-reason_1)[![hcvalk1](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption_1)[![hooulti1](https://i.imgur.com/lkV91hj.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-ulti_1)[![hotrulti1](https://i.imgur.com/MVhDJyH.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-ulti_1)[![hotnaruvalk1](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami_1)[![vkecharge1](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge_1)[![dpvalk1](https://i.imgur.com/zvXTeSp.png)](https://rentry.org/ElysianRealm/#disciplinary-perdition_1)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)
+[comment]: # ([![hofiulti1](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti_1)[![gdvalk1](https://i.imgur.com/VAuzmVS.png)](https://rentry.org/ElysianRealm/#golden-diva-sss_1)[![horvalk1](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm/#herrscher-of-reason_1)[![hcvalk1](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption_1)[![hooulti1](https://i.imgur.com/lkV91hj.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-ulti_1)[![hotrulti1](https://i.imgur.com/MVhDJyH.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-ulti_1)[![hotnaruvalk1](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami_1)[![vkecharge1](https://i.imgur.com/NHuCpgB.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-charge_1)[![dpvalk1](https://i.imgur.com/zvXTeSp.png)](https://rentry.org/ElysianRealm/#disciplinary-perdition_1)[![horblb](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-life-binder)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hovvalk](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hcvalk](https://i.imgur.com/CfdMgHX.png)](https://rentry.org/ElysianRealm#helical-contraption)[![hotnaruvalk](https://i.imgur.com/9XgOacS.png)](https://rentry.org/ElysianRealm/#herrscher-of-thunder-narukami)[![iovalk1](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros_1)[![hofvalk1](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion_1)[![hoocom1](https://i.imgur.com/hqQOMJ8.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-combo_1)[![hovvalk1](https://i.imgur.com/3i9Xb1T.png)](https://rentry.org/ElysianRealm#herrscher-of-the-void-snaps_1)[![hosvalk1](https://i.imgur.com/KR8bEIF.png)](https://rentry.org/ElysianRealm/#herrscher-of-sentience_1)
 
 !!! warning Legacy builds
 [![meme valk](https://i.imgur.com/SZvw0w9.png)](https://rentry.org/ElysianRealm/#goushinnso-mementocorruption)[![raven](https://i.imgur.com/XIf7bny.png)](https://rentry.org/ElysianRealm/#midnight-absintheabstinence)[![tpvalk](https://i.imgur.com/0UqYbF5.png)](https://rentry.org/ElysianRealm/#twilight-paladin-ssabstinence)[![stfu](https://i.imgur.com/cSD8VsF.png)](https://rentry.org/ElysianRealm/#valkyrie-bladestrikeabstinence)[![BKE](https://i.imgur.com/G9TeHxg.png)](https://rentry.org/ElysianRealm/#bright-knight-excelsisabstinence)[![gloria](https://i.imgur.com/kBi7oJm.png)](https://rentry.org/ElysianRealm/#valkyrie-gloriainferno)[![ritual imayoh](https://i.imgur.com/tOTcKI7.png)](https://rentry.org/ElysianRealm/#ritual-imayohinferno)[![LunaK](https://i.imgur.com/F3Y657W.png)](https://rentry.org/ElysianRealm/#luna-kindredinferno)[![SN](https://i.imgur.com/wlAXOBH.png)](https://rentry.org/ElysianRealm/#stygian-nymphinferno)[![![akavalk1](https://i.imgur.com/B5Ts07h.png)](https://rentry.org/ElysianRealm#argent-knight-artemis-ss_1)[![hohcharge1](https://i.imgur.com/KeviZtT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-charge_1)[![ftvalk](https://i.imgur.com/4Aro0io.png)](https://rentry.org/ElysianRealm/#fervent-tempo)[![vkeulti](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse-ulti)[![deavalk](https://i.imgur.com/WXvdMkS.png)](https://rentry.org/ElysianRealm/#dea-anchora-175)[![pegvalk](https://i.imgur.com/Ux23ptm.png)](https://rentry.org/ElysianRealm#palatinus-equinox-guardian)[![fischl](https://i.imgur.com/oYgMUAl.png)](https://rentry.org/ElysianRealm/#prinzessin-der-verurteilung)[![hotrulti](https://i.imgur.com/MVhDJyH.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-ulti)[![dpvalk](https://i.imgur.com/zvXTeSp.png)](https://rentry.org/ElysianRealm/#disciplinary-perdition)[![swvalk1](https://i.imgur.com/ylvv1yk.png)](https://rentry.org/ElysianRealm#silverwing-n-ex_1)[![nyxvalk](https://i.imgur.com/xljbjLu.png)](https://rentry.org/ElysianRealm/#starchasm_nyx)[![dwspearvalk](https://i.imgur.com/VSPsjd2.png)](https://rentry.org/ElysianRealm#dreamweaver-spear)[![carole](https://i.imgur.com/r7xcweg.png)](https://rentry.org/ElysianRealm/#sweet-n-spicy)[![horvalk](https://i.imgur.com/BmCFijw.png)](https://rentry.org/ElysianRealm#herrscher-of-reason)[![hofvalk](https://i.imgur.com/jvZ3Ykp.png)](https://rentry.org/ElysianRealm/#herrscher-of-flamescion)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight))[![hoficom](https://i.imgur.com/3l6lfPY.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-combo)[![hooulti](https://i.imgur.com/lkV91hj.png)](https://rentry.org/ElysianRealm#herrscher-of-origin-ulti)
 
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
+
+#->Lunar Vow: Crimson Love basic<-
+->![lvbas](https://i.imgur.com/0v6oNMy.png)<-
+->https://www.pixiv.net/en/artworks/112620932<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Bloodied Casket: Tough Love | Sweet Dreams set
+
+Cost | Effect
+------ | ------
+0 | Cruising Tribunal
+15 | Weapon type breach
+15 | Max HP DMG buff
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+BR | BKE | Utility
+BR | AE / RC | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Mad King's Mask / An Old Pal's Legacy 
+1st Shop | Light as a Bodhi Leaf / An Old Pal's Legacy 
+16F | Heavy as a Million Lives / An Old Pal's Legacy 
+
+##->Ego Signets<-
+Vessel 诀脉 | Lasting Embrace 长拥 | Hermit 隐裔 | Chase 逐猎  | Divine Pact 约契
+:-: | :-: | :-: | :-: | :-: 
+**Start** | 2nd | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices, unlock nexus; can pick Burden, TDM from enhanced
+2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus;  must pick at least breach, can also pick vulnerability 
+2nd | Pardofelis1 |  HPSP cap up, both damage boosts are the key choices, unlock nexus 
+2nd | Sakura2 | TDM, vulnerability, evasion+1 are the key choices, unlock nexus 
+Optional | Kosma1 | Ultimate, basic ATK, evasion, shieldbreak damage are the key choices, individual is fine, nexus is better; can also pick Griseo Red Yellow as reinforcement
+
+!!! info Rotation : Evade - hold basic - tap glowing basic, repeat, use ultimate whenever available; recommended to swap sigil on 5F; if have Griseo Red, tap weapon skill to dye enemies
+
+#->Lunar Vow: Crimson Love weapon<-
+->![lvwep](https://i.imgur.com/vt82vuA.png)<-
+->https://www.pixiv.net/en/artworks/112461209<-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Bloodied Casket: Tough Love | Sweet Dreams set
+
+Cost | Effect
+------ | ------
+0 | Cruising Tribunal
+15 | Weapon type breach
+15 | Max HP DMG buff
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+BR | BKE | Utility
+BR | AE / RC | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Pseudo Miracle / Falling in Past Light 
+1st Shop | Light as a Bodhi Leaf / Falling in Past Light 
+16F | Heavy as a Million Lives / Falling in Past Light 
+
+##->Ego Signets<-
+Chase 逐猎  | Divine Pact 约契  | Hermit 隐裔 | Vessel 诀脉 | Lasting Embrace 长拥
+:-: | :-: | :-: | :-: | :-: 
+**Start** | 2nd | Optional | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Vill-V1 | 3 1 2 6 are the key choices, unlock nexus 
+2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus;  must pick at least breach, can also pick vulnerability 
+2nd | Griseo1 |  Red Yellow Black are the key choices, unlock nexus 
+2nd | Kalpas2 | Both damage boosts, HP cap up, vulnerability are the key choices, unlock nexus 
+Optional | Pardofelis1 | HPSP cap up, both damage boosts are the key choices, unlock nexus; can also pick Kosma ultimate, basic ATK, evasion individually as reinforcement
+
+!!! info Rotation : Use ultimate whenever available, tap weapon multiple times to spend bar - then long press weapon to recover bar(single Ego) / use ultimate (double ego); recommended to swap sigils on 5F
 
 #->Miracle ☆ Magical Girl basic<-
 ->![sirinbas](https://i.imgur.com/oXoiCb0.png)<-
