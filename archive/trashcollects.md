@@ -906,6 +906,11 @@ Has been taken down, reupload by >59516011, thanks anon
 
 	https://files.catbox.moe/ntcp6y.safetensors
 
+V2:
+>Yuji Uekawa style lora, v2. Also useful for getting on-model sonic characters. Trigger "by yuji uekawa"
+
+	https://files.catbox.moe/r92ldc.safetensors
+
 # Ichi Inukai (Manmosu Marimo)
 Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
 

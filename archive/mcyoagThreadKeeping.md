@@ -41,7 +41,7 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90689295
 >Lord Charles Maynard, Opioid Addict
 >>90698018
->Heng Zhiqiang, Ultimate Tsundere?
+>Heng Zhiqiang, Ultimate Kuudere
 >>90711509
 
 >ELDERS
@@ -78,7 +78,7 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 
 >ANCESTORS
 >Xū, Void Parisian
->>90675031
+>>90726479
 >Shu Shihan… I dunno, I got nothing for this one
 >>90678581
 >Magikarp. It’s a fucking magikarp do I need to give it a title? Maybe Yasha can add him to his collection
@@ -100,9 +100,17 @@ https://rentry.org/xgtgdc
 https://rentry.org/dpfk5
 >The Circus is in Town (Morgain Blackheart)
 https://pastebin.com/5ZmCW69k
-
+>A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
+https://rentry.org/o28z44
 ```
-
+***
+Page 3
+***
+```
+>RELATIONSHIP CHARTS
+>Jian’s Diary
+https://rentry.org/76xvfc
+```
 #MHA
 
 ***

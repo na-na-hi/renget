@@ -204,6 +204,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 [**Clover Guild (ch1.5) Q&A**](https://rentry.org/ChrPromptThreeHalf)
+[**Clover Guild (ch1.5.2) Q&A**](https://rentry.org/chrpromptfourhalfredux)
 
 ####Current Collaborative Writing Project Rules -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)

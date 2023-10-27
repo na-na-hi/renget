@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=i9TwBqDe_I0
 https://youtu.be/AF-FoC0lWvM?si=XG8Rjat74YZ5R6jT
 >Open Your Eyes deleted Reddit video
 https://files.catbox.moe/o4890x.mp4
+>How Israel is Deliberately Killing Children
+https://youtu.be/tbFFVevs0uM?si=iaJE6_GeGQbZbCLI
 
 >Israel's Defence Strategy & the IDF - Doctrine, Mobilisation, and Recent Lessons
 https://www.youtube.com/watch?v=8xbkakrwmFo 

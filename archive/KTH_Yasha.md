@@ -146,6 +146,94 @@ There are several caveats to using this technique, however.
 
 These are things he can fix with time, but for now, he will struggle.
 
+>Qinglong Youxing [Auspicious Monster Summon #1]
+
+!!! note Abrigded chant for summoning Qinglong:
+	-> The shining sun always comes with rays of hope. <-
+	-> And that hope is here! <-
+	-> Come forth, Dragon of the Dawn! <-
+
+!!! note Unabridged chant:
+	-> Through all the turmoil. <-
+	-> Through all the adversity. <-
+	-> These truths remain absolute. <-
+	-> He's the first of the symbols. <-
+	-> An Immortal God of the wood element. <-
+	-> A War God with the title of true dragon. <-
+	-> And a Spirit God carrying the spring season's soul.<-
+	-> And that is the reason! No matter how formidable of an opponent you are... <-
+	-> As long as I have him on my side, I fear nothing. <-
+	-> As long as I keep my face close to his sun, I'll never lose. <-
+	-> Let your hope light the road, Qinglong Youxing! <-
+
+The abridged chant is already an insult to Qinglong. He will refuse to be called with a shorter declaration than that.
+
+Qinglong only approves of being summoned if he is the first offensive move. Yasha can run away with footwork and travelling, escape with stealth, and defend with endurance, but if he wants to summon Qinglong, he cannot use any attacks or barrages beforehand.
+
+Doing so would imply that his attacks are effective in any way against his opponent. And if it's an opponent Yasha can fight against, then it would be an insult to bring a true dragon into the battle.
+
+Still, this is just a detail. Even if Yasha follows all of his desires for chants and technique orders, Qinglong will still kill him. He does not approve of the young man as a summoner yet.
+
+**Qinglong's Abilities:**
+
+1. Purest dragon bloodline that grants him immense strength, durability, endurance, unrestrainable flight, control over the traditional five elements and the weather, and very deadly roars.
+2. Qi that carries affinity for the wood element. Even the most barren lands will flourish under his steps, becoming an ever-growing forest on his command. However, he can also absorb the wood element manipulated by his enemies, turning it into the dew that makes his own life grow.
+3. His mind sea is the springtime sun and a dragon's judgment. Those who earn his cooperation will glow brightly and bloom their innate talents, becoming better versions of themselves by being near him. Those who earn his ire will wither away, as he can convert the dawn of his soul into rays of energy that burn body and soul. The dawn will also passively destroy any shadows around him, messing with attempts at hiding one's aura or using stealth techniques, even if they are his allies. A dragon does not need deceit.
+
+>Zhuque Yunyun [Auspicious Monster Summon #2]
+
+!!! note Abridged chant for summoning Zhuque
+	-> Relight my fire, Vermillion Bird! <-
+
+!!! note Unabridged chant for summoning Zhuque
+	-> Though her gaze is like a calm sea... <-
+	-> The warmth in her soul is like the summer's sun. <-
+	-> Mankind waits for her to fly along, setting hearts afire without a care. <-
+	-> Oh, empress of all birds, lend me your wings. <-
+	-> Lift me up to the heavens, the source of your being. <-
+	-> You're the magic that I need, Zhuque Yunyun! <-
+
+Zhuque will accept the call even if Yasha doesn't use any chants. She has a bit of a soft spot for him.
+
+**Zhuque's Abilities:**
+
+1. Purest phoenix bloodline that grants her unmatched regeneration, control over fire, and resurrection. Strength and agility are also increased, but not to the level of a bloodline focused on them.
+2. Qi that carries affinity for the fire element, increasing the strength of her fire manipulation and granting fire absorption. Those flames also have a purifying quality to them, cleansing evil.
+3. The mind sea of the empress of all birds. Zhuque has a soul spirit for every bird under the sun, and she can release their souls or channel their abilities through her mind sea connections. The Qingniao that carries messages to faraway places. The Zhenniao that's poisonous from its veins to the tips of its feathers. And mundane birds like the peregrine falcon that only increase the speed of her allies. Her mastery of the mind sea is high enough to share even her own abilities, allowing her to heal and resurrect her summoner while their souls are connected.
+
+>Baihu Chao [Auspicious Monster Summon #3]
+
+!!! note Abridged chant for summoning Baihu:
+	WIP
+
+!!! note Unabridged chant for summoning Baihu:
+	WIP
+
+Baihu will only approve of being summoned as a last resort. She wants her summoner to give it their all before relying on her. In this regard, she's the opposite of Qinglong.
+
+The tiger also expects her summoner to keep giving their best even after calling her. Protecting them is different from letting them hide behind her while she does all the work.
+
+**Baihu's Abilities:**
+
+1. Purest tiger bloodline that grants her strength, agility, and senses, alongside claws and fangs that cut through anything evil.
+2. Qi that carries affinity for the metal element. Baihu normally manifests it as a pair of gauntlets and greaves that enhance her destructive power and defense, but she can make all sorts of weapons and structures with it. Her metal can also be imbued with the moonlight of her inner world, giving it the ability to reflect the things it meets.
+3. The mind sea of the queen of beasts that carries an army of white tiger cubs. Alongside Baihu, they hunt during the night, granting her allies aura-muting properties equivalent to a stealth technique, and also warding off evil.
+
+>Xuanwu Lanzhu [Auspicious Monster Summon #4]
+
+!!! note Abridged chant for summoning Xuanwu:
+	WIP
+
+!!! note Unabridged chant for summoning Xuanwu:
+	WIP
+
+
+**Xuanwu's Abilities:**
+
+1. Purest tortoise bloodline that grants her longevity, endurance, and the quality of a living barrier. She has incredible durability and can spread her protection to large areas, without the need for techniques.
+2. Qi that carries affinity for the water element. She can use it as an offense that crushes steadily or rapidly. However, her waters can also serve as living barriers, ones that conceptually soak damage. Attacks thrown against the waters are captured on their surfaces, becoming like flowing photos.
+3. Her mind sea carries a snake soul spirit that can target an enemy's soul with a deadly toxin. While manifesting the snake, her waters lose their barrier-like quality and become muddied, also gaining venomous properties.
+
 #### -> Skills And Wealth (-55) <-
 
 >Advantages (-25)

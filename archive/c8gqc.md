@@ -33,11 +33,13 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Tinhifi C2 (bright V) - $30
 • BLON x HBB Z300 (bassy) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
+• Moondrop Lan (neutral) - $40
 • Simgot EW200 (Harman) - $40
 • EPZ Q5 (bright V) - $50
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • CVJ Mei (W-shape) - $60
-• ARTTI T10 (W-shape) - $70
+• TRN ST5 (W-shape) - $60
+• Artti T10 (W-shape) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
 • EPZ K5 (bright neutral) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
@@ -84,7 +86,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • SeeAudio Bravery RB (mild V) - $320
 • Aful Performer8 (neutral) - $370
 
-##Audiofool IEMs ($450+)
+##Audiofool IEMs ($450 - $1500)
 ***
 *Hall of Fame*
 • Moondrop Variations (Harman) - $520
@@ -107,6 +109,12 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Moondrop S8 (Harman) - $700
 • Letshuoer EJ07 (neutral) - $750
 • 7th Acoustics Supernova (neutral) - $800
+• 64 Audio U4s (W-shape) - $1100
+• Nightjar Singularity (bassy) - $1300
+• Thieaudio Prestige LTD (Harman) - $1300
+• Symphonium Crimson (bassy neutral) - $1500
+• Thieaudio V16 Divinity (Harman) - $1500
+• Unique Melody MEST MKII (bassy neutral) - $1500
 
 ##Bullet IEMs ($15 - $100)
 ***
@@ -145,7 +153,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • TRN RedChain - $12
 • QKZ Q1 Max - $15
 • Tripowin Zonie - $15
-• ARTTI
+• Artti
 • Hakugei
 • KBEAR
 • NiceHCK

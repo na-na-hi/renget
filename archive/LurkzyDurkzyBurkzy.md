@@ -1,5 +1,5 @@
 ->![gifz](https://64.media.tumblr.com/3aa7faf39b88cbd9e045ed840f051e51/5f6cd787fdcfd81e-98/s100x200/a8532e6e40cf657a2c294fa5e87a8f3adccf4574.gifv)<-
-#-> lurkzn's Claude settings (ver. Shaq's Nut Sack - 27 Oct)<-
+#-> lurkzn's Claude preset (Shaq's Nut Sack edition)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ***
@@ -16,15 +16,14 @@ Still not fully fleshed out!
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-#->Download Shaq's Nut Sack<-
+#->Download Shaq's Nut Sack (27 Oct)<-
 ->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/l9ziyh.zip)<-
 ***
 ##->Logs<-
 !!! note
-	#####->**Updates**<-
-	- Shizuka log has been updated (27 Oct)
-	
-
+	->**Updates**<-
+	27 Oct - Shizuka log has been extended.
+	|-> Satomi log has been added. Genres: Lactation, Teacher/Student, Public.
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
@@ -34,13 +33,13 @@ Still not fully fleshed out!
 ->**Genres**: Survival, Zombies<-
 ->![Shizuka2](https://i.imgur.com/voh6lYU.jpg)<-
 ***
-###-> [Faye](https://chub.ai/characters/lurkinginpines/faye-e90a5ee4) - By lurkinginpines<-
-->![Card3](https://avatars.charhub.io/avatars/lurkinginpines/faye-e90a5ee4/avatar.webp?size=0.9258134364543849)<-
+###-> [Satomi](https://chub.ai/characters/LewdAmI/satomi-7b96327a) - By LewdAmI<-
+->![Card4](https://avatars.charhub.io/avatars/LewdAmI/satomi-7b96327a/avatar.webp?size=0.5802350080850802)<-
 
-->**Description**: You are meeting a cute girl on a blind date. As it turns out, she is also blind. Shy and lonely, she was dumped again and again.<-
+->**Description**: *Record scratch* Yup, that's me. Stuck in a supply closet with my lactating teacher. You may be wondering how I got here.<-
 
-->**Genres**: Saviorfagging, Romance<-
-->![Faye2](https://i.imgur.com/FUUCCJc.jpg)<-
+->**Genres**: Lactation, Teacher/Student, Public<-
+->![Satomi2](https://i.imgur.com/mVUP480.jpg)<-
 ***
 ###-> [Freya](https://chub.ai/characters/LukeyPoo488/freya-72726dda) - By LukeyPoo488<-
 ->![Card](https://avatars.charhub.io/avatars/LukeyPoo488/freya-72726dda/avatar.webp?size=0.6130422405938563)<-

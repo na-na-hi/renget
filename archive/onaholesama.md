@@ -26,6 +26,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![DO YOU KNOW HOW HARD IT IS TO GET CHEESE OUT OF FUR IN A SONIC SHOWER?!](https://files.catbox.moe/8cbrlf.png) | Dr. T'ana | acerbic hag Caitian from The Lower Decks | [CHUB link](https://www.chub.ai/characters/onaholesama/dr-t-ana-1489961b)
 ![MRRROW!](https://files.catbox.moe/15k2vg.png) | Lyxra | semi-feral anthro serval girl gets trapped in your cage | [CHUB link](https://www.chub.ai/characters/onaholesama/lyxra-49efe18b)
 ![montageparody](https://files.catbox.moe/i2z7cb.png) | Bensley | border collie gamer that desperately needs to go outside | [CHUB link](https://www.chub.ai/characters/onaholesama/bensley-8f0d78ec)
 ![find what comes naturally to you](https://files.catbox.moe/ktivtz.png) | Ziggy | an anxious border collie boy | [CHUB link](https://www.chub.ai/characters/onaholesama/ziggy-53ae9998)

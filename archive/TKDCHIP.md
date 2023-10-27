@@ -382,3 +382,5 @@ https://files.catbox.moe/dagavw.mp4
 https://files.catbox.moe/anxc4u.webm
 >📹 ISRAELI PROPAGANDA (https://t.me/IntelRepublic/29629) DEBUNKED...by Israelis themselves as recently released hostage recounts breaking bread (eating the same food their Hamas captors ate) (Added Oct. 24)
 https://files.catbox.moe/vsemc0.mp4
+>"The moment of death of an Al-Jazeera journalist and an emergency doctor in the Gaza Strip."
+https://files.catbox.moe/zm55q0.mp4
