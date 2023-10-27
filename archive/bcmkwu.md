@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>POV: 'O' group surprise attacks hohol stronghold in Kremennaya
+https://files.catbox.moe/satd44.mp4
+>hohol personnel rekt by FPV drones compilation
+https://files.catbox.moe/6v5gsf.mp4
+>6th Cossack Brigade continues storming Spornoye
+https://files.catbox.moe/5huus3.mp4
+>POV: Russian volunteers take hohol opornik near Priiyutnoye
+https://files.catbox.moe/jhwsu6.mp4
+>DPR special forces take out 4 hohol armored vehicles near bakhmut
+https://files.catbox.moe/sp2b97.mp4
+>9th motor rifle brigade gives hohols arty hell towards avdeevka
+https://files.catbox.moe/xubf0h.mp4
 >Hohol minelayer robot killed by FPV drone
 https://files.catbox.moe/bpywtw.mp4
 >ANOTHER Leopard 2 BOBRED

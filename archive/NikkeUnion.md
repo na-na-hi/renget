@@ -2,11 +2,7 @@
 
   -> ![looks cleaner now](https://i.imgur.com/bPa8GB1.png) <- 
 
-!!!info Time until UR 10: https://timee.io/20231025T0300?tl=UR%2010
-
-!!!info ~~I will update union info at infrequent intervals (read: whenever I feel like it).~~ Wrote a script to automate most of the work, union info should update regularly.
-
-**Last updated: 24/10/23: Do Your Hits Edition**
+**Last updated: 26/10/23: Stragglers Edition**
 
 ***
 
@@ -17,13 +13,13 @@
 | MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
-| NIKGERS  | ==**368**==   | 6     | 31/32   | POLUS    | PERMISSION |                                 |
+| NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 31/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | CLOSED |                                 |
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
-| P愛ZURI   | ==**4983**==  | 6     | 29/32   | TAMA     | PERMISSION |                                 |
+| P愛ZURI   | ==**4983**==  | 6     | 30/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
@@ -42,7 +38,7 @@
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 30/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 2 | 14/20 | CUNNYGOD | PERMISSION | for newcuties |
+| KUNNYHUB | ==**29940**== | 2 | 15/20 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

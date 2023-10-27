@@ -23,7 +23,7 @@ Yes. They're not necessary to understanding the setting, but they're still great
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **5. Is this game F2P friendly/generous?**
-Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain (spark) any Identity or E.G.O currently in the dispensary.
+Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this games saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain (spark) any Identity or E.G.O currently available in the Dispensary.
 
 **6. Why can't I clear this stage?**
 First, actually **READ**. If you are having difficulties despite this, you are likely using unleveled and or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide or use a support.
@@ -50,13 +50,13 @@ You need to have at least one friend added. If you want more friends, go to the 
 No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyways, so you should just wait if you need Thread.
 
 **11. Are past events and stories completely gone until reruns?**
-Only the event rewards. Both the chapter 3.5 and 4.5 events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other events that had stories attached but were just login events like Dante's Notes allows you to watch the story in the theater at any time. The only event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
+Only the Event rewards. Both the chapter 3.5 and 4.5 Events happen directly after the previous chapter and you are required to complete them because they are plot relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other Events that had stories attached but were just login Events like Dante's Notes allows you to watch the story in the theater at any time. The only Event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
 
 **12. How do I change it so a specific Identity is in my window when I open the game?**
 Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
 **13. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners and events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and events [here.](https://lcbcountdown.carrd.co/)
+We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5am EST. Maintenance every Wednesday at 9pm EST and ends at 11pm EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and Events [here.](https://lcbcountdown.carrd.co/)
 
 **14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
@@ -130,9 +130,13 @@ A banner that increases the probability rates for receiving the Identities and E
 ![Limited Target Extraction](https://files.catbox.moe/7dn6z8.png)
 
 **4. Walpurgisnacht**
-limnbinius
+Walpurgisnacht, or Walpurgis Night is a quarterly Extraction Event where Identities and E.G.O from Lobotomy Corporation, Library of Ruina and Distortion Detective will appear. While the periods of these Events may vary, the plan is to have atleast one Walpurgis Night Event every 3 months. In future Walpurgis Night Events, there are planned to be Event-specific stories and unique combat encounters. 
 
-**4. Dupes**
+Walpurgis Night Target Extractions will be featured over the Event period. Walpurgis Night Target Extractions will have increased Extraction rates for Identities & E.G.O for the active Walpurgis Night Event. During the Event period, Walpurgis Night Identities and E.G.O will be Extractable from other Extraction banners (save for Season relevant Extraction banners) as well. However, they will not receive increased rates for those Extractions.  All Walpurgis Night Identities and E.G.O will no longer be available once the Event period ends.
+
+Identities and E.G.O featured in the currently ongoing Walpurgis Night Event cannot be purchased from the Dispenser. However, during the next Walpurgis Night' Event, Identities & E.G.O from previous Walpurgis Night Events will be made purchasable from the Dispenser. They will not be featured in the Dispenser outside the Event period. E.g. during the second Walpurgis Nighty Event, Identities and E.G.O from the first Walpurgis Night Event will be purchasable from the Dispenser, but not the new Identities and E.G.O from the second Walpurgis Night Event. Walpurgis Night Identities and E.G.O featured in the current event will be visible, but you still can't shard them.
+
+**5. Dupes**
 If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
 The other use for Egoshards is Uptie 4, which requires Egoshards, so one 000 dupe can be viewed as a free Uptie 4. You can also convert Egoshards to Thread, but that is not recommended. 
@@ -144,23 +148,23 @@ When rolling, dupes of identities will be converted into the following number of
 
 As for E.G.O, rather than being converted into shards, it'll be removed from the rolling pool after you get it for the first time. Getting every E.G.O won't drastically improve your changes of getting new Identities, but it is still cool to have them all.
 
-**5. Pity**
+**6. Pity**
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
-**6. Battle Pass**
+**7. Battle Pass**
 The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track.
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
 
 Be aware that the Battle Pass bonuses past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it once you hit level 60.
 
-**7. Daily Rolls**
+**8. Daily Rolls**
 An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% the price, but you only get to do so with paid Lunacy.
 
-**8. Monthly Lunacy Packs**
+**9. Monthly Lunacy Packs**
 You can buy two monthly packs - for $3 and $7. The cheaper one gets you 130 paid Lunacy, and 1170 free Lunacy spread over 30 days. The $7 one gets you 650 paid Lunacy and 1950 free Lunacy spread over 30 days.
 
-**9. Individual Currency**
+**10. Individual Currency**
 You can buy the following currency:
 - 70 for $1
 - 294 for $4
@@ -170,10 +174,10 @@ You can buy the following currency:
 - 8336 for $80
 Note that on your first purchase you'll receive double the Lunacy.
 
-**10. Other**
+**11. Other**
 You can buy the Monthly Extraction Pack for $10, monthly training packs for $31, New Manager's Onboarding pack for $22 and the Season 3 Orientation Supplies for $60.
 
-**11. Summary**
+**12. Summary**
 If you want to do 10-rolls on limited banners, go for the monthly packs. If you want to do daily 13 Lunacy rolls, go for standalone Lunacy packs. Monthly Lunacy has the best ratio of Lunacy per dollar, but make sure to notice the "free" in "free Lunacy per day". You cannot do the cheap daily Extraction with "free" Lunacy.
 Type | Lunacy (free) | Price \[$\]| Rolls(raw) | Rolls(daily) | Rolls(raw)/$ | Rolls(daily)/$
 :----: | :----: | :----: | :----: | :----: | :----: | :----:
@@ -287,7 +291,7 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 4 chapters + the prologue and two plot-relevant Events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from Events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
 
 **2. Story Dungeons**
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can leave and resume later.
@@ -345,4 +349,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
 10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
 10/20/23: Clarified MD2H weekly rewards.
-10/25/23: Added LimCum update countdown link. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/25/23: Added LimCum update countdown link.
+10/26/23: Added Walpurgi section ![lol&](https://files.catbox.moe/7dmu76.png)

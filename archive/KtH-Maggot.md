@@ -99,3 +99,32 @@ Once the maggots have fully grown into flies, the cultivator can unleash them by
 The flies are not capable of doing much damage on their own, as they are small and fragile. However, they can be used to carry diseases and infect other living beings. The flies can also transmit what they see and hear to the cultivator, allowing them to extend their senses through the swarm. The more flies the cultivator vomits out, the more powerful their technique becomes. The technique is not without drawbacks, however. The cultivator must constantly supply the flies with spiritual energy, or they will die or turn against them. Additionally, the cultivator must be careful not to lose control of the flies, or they will be overwhelmed by their collective consciousness and become insane.
 
 ->![100,000 Chittering Black Breaths](https://i.ibb.co/frVVfpC/100-00-Chittering-Black-Breaths.jpg)<-
+
+###Calamitous Scripture Volume I: Gluttonous Peril [Summoning Technique]
+Tāotiè - Technique Description TBC
+Abilities:
+- Can consume things and store it in its stomach for later retrieval.
+- Can consume anything, including spiritual things, like Qi/Life Force/Spiritual Energy. 
+- Can consume the other Four Perils, so they can be retrieved without having to perform the extensive summoning rituals each time. 
+
+###Calamitous Scripture Volume II: Ignorant Peril [Summoning Technique]
+Táowù - Technique Description TBC
+Abilities:
+- Can attack enemies at a long distance with its incredibly long, stinger-tipped tail.
+- Can stubbornly resist large amounts of damage due to its thick hide.
+- Can designate a single target to be "ignored" by the rest of the world, removing from the mind's eye of everyone within the range of the Táowù's tail.
+
+###Calamitous Scripture Volume III: Malicious Peril [Summoning Technique]
+Qióngqí - Technique Description TBC
+Abilities:
+- Can fly and move incredibly quickly.
+- Can attack enemies up close with sharp fangs and vicious claws.
+- Can grow stronger the more an enemy grows hateful and furious towards the Qióngqí.
+- Can speak to shit-talk its opponents and fuel its own power (see above).
+
+###Calamitous Scripture Volume IV: Chaotic Peril [Summoning Technique]
+Hùndùn - Technique Description TBC
+Abilities:
+- Can completely disrupt the feng shui of its surrounding area, causing the channeling of Qi/Life Force/Spirit Energy to wax and wane wildly making the use of techniques incredibly dangerous. 
+- Can create and move seven "holes" in this area of disruption that are unaffected by the distortions, only the summoner and other Perils can perceive the location of these "holes".
+- When cut open, releases a devastating burst of primordial, chaotic energy.

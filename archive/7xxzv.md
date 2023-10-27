@@ -1,6 +1,7 @@
 first things first: https://www.4chan-x.net/ 
 If quick filter isn't on by default you need to go to settings>advanced then scroll to File Info Formatting and add %f to the text box, then just click the big x next to filenames when needed.
 In the main settings page check recursive hiding on to hide replies. uncheck show stubs and filtered backlinks to erase the shitposting from existence
+**ai filter**: add /1024x1024/ to the Image dimensions section of your filters.
 To filter the niggerspammer add the following to the general filter:
 /kys nigger/i;boards:trash
 /shitskin/i;boards:trash

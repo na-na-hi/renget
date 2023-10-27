@@ -59,9 +59,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
+
+Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Phystical Mitigation) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Attribute: Illusory **ɪ** | Tier **ɪ** | 2/3 | ▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

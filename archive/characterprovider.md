@@ -26,7 +26,7 @@ Click these images to quickly access the prompts:
 
 -> [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) ⠀ [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt)<-
 
--> [![](https://files.catbox.moe/skrlsy.png)](faq) ⠀ [![](https://files.catbox.moe/bwhpt1.png)](#explaining-temperature-penalty-topp-and-topk)<-
+-> [![](https://files.catbox.moe/skrlsy.png)](#faq) ⠀ [![](https://files.catbox.moe/bwhpt1.png)](#explaining-temperature-penalty-topp-and-topk)<-
 
 -> [![](https://files.catbox.moe/4dhgse.png)](https://rentry.co/CharacterProvider-GuideToBotmaking) ⠀ [![](https://files.catbox.moe/ez4q6l.png)](#my-characters)<-
 ######

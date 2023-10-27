@@ -1,5 +1,5 @@
-->![lol](https://64.media.tumblr.com/3aa7faf39b88cbd9e045ed840f051e51/5f6cd787fdcfd81e-98/s100x200/a8532e6e40cf657a2c294fa5e87a8f3adccf4574.gifv)<-
-#-> lurkzn's Claude settings (ver. LasagneBalls - 24 Oct)<-
+->![gifz](https://64.media.tumblr.com/3aa7faf39b88cbd9e045ed840f051e51/5f6cd787fdcfd81e-98/s100x200/a8532e6e40cf657a2c294fa5e87a8f3adccf4574.gifv)<-
+#-> lurkzn's Claude settings (ver. Shaq's Nut Sack - 27 Oct)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ***
@@ -9,13 +9,22 @@
 -----------------------------------------------------------------------------------------------------------------------
 Changelog:
 24 Oct - LasagnaBalls. It's sick.
+
+27 Oct - ShaqsNutSack. Modified slightly to make Claude end its responses in a way that encourages actions/dialogue
+from {{user}} as opposed to the usual "With {{user}} by her side, **anything** was possible..." 
+Still not fully fleshed out!
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-##-> Preset<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/49klte.zip)<-
+#->Download Shaq's Nut Sack<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/l9ziyh.zip)<-
 ***
-##->Logs (Updated 26 Oct)<-
+##->Logs<-
+!!! note
+	#####->**Updates**<-
+	- Shizuka log has been updated (27 Oct)
+	
+
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
@@ -23,10 +32,7 @@ Changelog:
 ->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
 
 ->**Genres**: Survival, Zombies<-
-!!! note
-	->Updates: 
-	Responses #23-#34 has been added<-
-->![Shizuka2](https://i.imgur.com/tWfUOYy.jpg)<-
+->![Shizuka2](https://i.imgur.com/voh6lYU.jpg)<-
 ***
 ###-> [Faye](https://chub.ai/characters/lurkinginpines/faye-e90a5ee4) - By lurkinginpines<-
 ->![Card3](https://avatars.charhub.io/avatars/lurkinginpines/faye-e90a5ee4/avatar.webp?size=0.9258134364543849)<-

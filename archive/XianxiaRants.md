@@ -555,6 +555,11 @@ Normal technique & grade 7 with mortal savant (can craft grade 7-8)
 any technique & grade 7 w/out mortal savant (can craft grade 7-8)
 Upgraded technique & grade 7 with mortal savant (can craft grade 10, or in theory grade 11 with scripture if they can source the materials somehow).
 
+###Mortal Savant and number of professions
+>Yeah sure, but if you're going with a triple cripple, why would you grab 4 professions? 
+I will mention that you could just have 2 professions of the same type. In terms of knowledge, there would probably be a lot of wasted overlap, but you could still get some benefits by giving each a specialization. Like one is really good at quality and the other is really good at quantity. Or a more specific example could be an alchemy technique focused on making really good medicine and then another one focused on making really good explosives.
+
+
 ###A Detailed Rant on the Four Founders of Cultivation and the History of the Setting Outside of KtH.
 The first founder was a diligent and upright scholar. He believed in serving his emperor and nation, and hoped to become a court official for that purpose. However, reality was harsh- the court was a place full of corruption, and the officials clamored for benefits rather than serving faithfully. He was quickly exiled by a scheme from a competing official. So he was forced to wander the world, taking nature as his guide, and in doing so he discovered 'qi'. Gradually, he learned to control it, and created inner alchemy (the very first form of cultivation). With this power in hand, he returned home, hoping to spread this power through the kingdom so that it's people could live long lives free of hunger or disease (at this point, he was only around Grade 2, so he hadn't become immortal yet).
 

@@ -126,5 +126,4 @@ https://mega.nz/file/R50AkKrS#EP_M1YmbuYe-eXY3jSUelBJ7QeLbIMCWxkQ4oDSk3R4
 
 # #=Imperium Maledictum= #=IM
 Imperium Maledictum Core
-mxbdx://wfsq.ir/
-mbim/0n9goeme#w4syhe250d3hddj3eizn15joydeugg_s57_g1dm_bbh
+https://mega.nz/file/0s9XRBQC#o4HGNc250T3emCo3oqkl15HeZBSPND_x57_O1ja_LKU
