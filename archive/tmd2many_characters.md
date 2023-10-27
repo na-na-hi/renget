@@ -63,6 +63,7 @@ Name | Origin | Pokémon | Occupation | Affiliation
 :----: | :----: | :----: | :----: | :----:
 [Coiling Appetence, Scour Devour](https://rentry.co/tmd2character_scour) | Native | Ekans | Clan Elder | Clan Morion
 [Elm Chopper, Fiftyfold Fatherer](https://rentry.co/tmd2character_woody) | Native | Haxorus | Clan Elder | Clan Almandine 
+[Ever Lifting](https://rentry.co/tmd2many_nobles_ever_lifting) | Native | Reuniclus | Bishop | Ho'oha Priest
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
 [Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini

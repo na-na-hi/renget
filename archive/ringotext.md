@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Who is the Best at the Changing the Reaper?](https://archiveofourown.org/works/51092140)* | Calli, Kiara, Fauna, Shiori | choco, ringo |
 | *[The World's Pudgiest, Poopiest Idol](https://archiveofourown.org/works/50272087)* | Haato | brap, choco |
 | *[Cut from the Same Cloth: Part 5](https://rentry.org/h82ts)* | Fuwawa, Mococo | sweat, smell, brap, ringo, choco |
 | *[Heated Negotiations](https://rentry.org/9f38p)* | Ame | sweat, smell |
@@ -231,6 +232,7 @@
 | [>>42047835](https://rentry.org/ringotext2#42047835) | Hanabi | choco |
 | [>>42987705](https://rentry.org/ringotext2#42987705) | Gura, Kiara | sweat |
 | [>>43137252](https://rentry.org/ringotext2#43137252) | Suisei | ringo |
+| [>>>/d/10533863](https://rentry.org/ringotext2#d10533863) | IRyS, Bae, Calli | brap, choco, ringo |
 | [>>>/d/10550735](https://rentry.org/ringotext2#d10550735) | n/a | brap, choco |
 | [>>>/d/10549326](https://rentry.org/ringotext2#d10549326) | Selen | brap, choco |
 | [>>44237191](https://rentry.org/ringotext2#44237191) | Gura, Ame, Ina, Calli, Kiara | milk |
@@ -256,6 +258,7 @@
 | [>>60449073](https://rentry.org/ringotext2#60449073) | Ayame | brap |
 | [>>60458001](https://rentry.org/ringotext2#60458001) | Sora | brap |
 | [>>60535326](https://rentry.org/ringotext2#60535326) | Fuwawa | brap |
+| [>>>/d/10794882](https://rentry.org/ringotext2#d10794882) | Selen | brap |
 
 ## >>249165
 

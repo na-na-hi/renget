@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note 
-    **Live - [boards.4chan.org/h/thread/7627286/](https://boards.4chan.org/h/thread/7627286/)**&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;#&nbsp;Let me fucking sleep Edition
+    **Live - [boards.4chan.org/h/thread/7627289/](https://boards.4chan.org/h/thread/7627289/)**&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;#&nbsp;Say Cheese Edition!
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:

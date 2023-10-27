@@ -11,14 +11,13 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: 神鬼帝國の惡魔城 at 2UTC (Telemelt)** 
 **FRI: Demon's Crest at 2UTC (Telemelt)** 
-**SAT: Castlevania: Rondo of Blood at 18UTC (Parsec)** Maria
+**SAT: Castlevania: Rondo of Blood at ~19:30UTC (Parsec)** Maria
 **SUN: Castlevania 64 at 18:00UTC* (Parsec)** 
 
 ##Cytubes
 
-**SAT: festive films at 16UTC** 
-**SUN: festive films at 15UTC** 
-details pending, one day will be either Bram Stoker's Dracula or Van Helsing, the other will be Dracula (1931) and Addams Family Values
+**SAT: Bram Stoker's Dracula at 17UTC** 
+**SUN: Dracula (1931) and Addams Family Values at 15UTC** 
 
 >-
 nothing

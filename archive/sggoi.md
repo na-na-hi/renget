@@ -1084,3 +1084,49 @@ Rentry for past days: https://rentry.org/sggoi
 *** 
 
 ## Day 22 - Genderbend Shiori (Rori)
+
+>Shiori invites you to sit next to her on the sofa.
+>There she has a closed book on her lap.
+>As you sit next to her, you glance at the book, the cover has a picture of a man on it with the same two-tone hair style, same eyes, and the same hair pin.
+>She gazes at you as you sit next to her then begins to speak: "Today's story will be a little...different. It's about a me that exists in another plain of existence altogether."
+>You look at her, knowing what kinds of books she's read to you before, such as the mermaid adventure book.
+>"Does he have a book about you then?"
+>She smiles, as if you had asked the right question, then responds to you nonchalantly: "Perhaps he does?"
+>She invites you to rest your head on her shoulder, then she opens the book and begins to read.
+>Outloud she reads: "This is the story of a man that exists in a place one cannot usually peer in to, this is the story of Rori Novella."
+>As her words flow into your ears, your eyelids begin to close, her usual reading spell is taking effect.
+>The next time you open your eyes, you're sitting at the same sofa, however Shiori is not next to you.
+>A notification on your phone appears, as you reach for it, and check the notification, you take note of your surroundings.
+>Everything that was to your right, is now to your left, and visa versa. Is this a mirror world?
+>The notification that appeared on your phone was a simple one: "Rori Novella is live."
+>You tap on the notification, going through Twitch, it seems this mirror world, Twitch doesn't have any ads at all while YouTube plays ads in the middle of streams, ridiculous.
+>As soon as the stream loads in, loud music starts blaring, it gets your adrenaline pumping for some reason.
+>Then a voice comes on, it's time for the streamer's intro, however the way he speaks, the things he says, it weirds you all out.
+>"Rori~n time! Rori Novella here, ready to serve you up with the greatest stream of all time!"
+>Instantly a ton of akasupas drop in.
+>"Oi, clingy idiots, I'm not going to read all that shit! Stop sending me your poor people change! I'm not interested."
+>You've never seen a person be so ungrateful, however for some reason this just incites his viewers to donate even more.
+>Despite his protests being ignored, he decides to move on with his stream.
+>"Alright, today I'm going to be playing..."
+>He sighs loudly, lots of people in his chat start spamming "TSKR" over and over.
+>"Super smash bros. I can't believe you dumbasses even like this sorry excuse of a 'fighting' game."
+>Clearly sounding annoyed, he loads up the game and begins going through the menus to online mode.
+>"Alright losers, join code's in the membership post, join it already so I can kick your asses."
+>After a few members have had their turns losing, Rori is tired of it and announces.
+>"Alright, that's enough, I'm sick of beating my stupid fans, you thought you could place with the prince? Hell no."
+>The chat starts to go incredibly fast after this, basically thanking him for insulting them, what the heck are you witnessing?
+>As you continue to watch, he's decided to swap to a romance VN, he reads all the lines, matching the voices for the male characters.
+>Whenever a female character shows up, he plays an AI voice, however the AI voice strangely reminds you of Shiori's voice.
+>Multiple SC's come in, asking him to read out voices for them, he denies them all, telling them they aren't worthy of him voice acting their lines, however it doesn't discourage them at all.
+>Throughout the entirety of the romance VN, he has expressed genuine anger and hate towards his viewers on several occasions, reminding them that they're wasting their time, he hates them, and he thinks they should stop taking care of themselves to "Go die in a ditch."
+>None of that deters his viewers, in fact, his numbers seem to be increasing higher and higher despite him playing such a boring VN.
+>Multiple hours pass without Rori getting tired at all, until he finally reaches 11 hours and 55 minutes.
+>From there he goes to his ending screen which has a heart shape on it, similar to Shiori's, but it's cracked through the middle.
+>"Why the fuck do you losers watch me honestly? Well whatever, cya. I'm going."
+>Before he leaves, he moves his model to show his hand and leaves it with his middle finger up at the viewers.
+>Suddenly the stream redirects to Brorissa and you instantly turn off your phone.
+>As your phone turns off, your eyelids become heavy again, signalling the end of the story that Shiori's been reading to you.
+>As you open your eyes again moments after, you find yourself on Shiori's shoulder, she looks at you and asks.
+>"How was it? Meeting my other self? Tell me all about it!"
+
+***

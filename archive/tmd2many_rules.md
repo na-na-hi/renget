@@ -850,7 +850,7 @@ Your decisions may not be entirely influenced by what your character might want 
 	- Monpower may be lost or destroyed in events, or even acquired if things happen successfully.
 
 ### Expansion & Map
-``=placeholder=``
+![Conquer and claim!](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/TYXvIoebcmcGtJxxpBTvGVBF)
 
 ### Events
 Players can expect each update to include an event for the leadership to make a decision over. This may be something as simple as deciding what kind of resources to purchase or planning a celebration, to something as dire and time-pressing as a famine or drought.

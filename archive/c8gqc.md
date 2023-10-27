@@ -1,6 +1,6 @@
 #/iemg/ - In-Ear Monitor General
 ***
-This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarket IEM accessories such as cables and ear tips. 
+This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket IEM accessories such as cables and ear tips. 
 !!! note Keep in mind
 	Everything in this hobby is subjective. Take impressions and reviews with a grain of salt. 
 
@@ -39,7 +39,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Truthear x Crinacle Zero: Red (Harman) - $55
 • CVJ Mei (W-shape) - $60
 • TRN ST5 (W-shape) - $60
-• Artti T10 (W-shape) - $70
+• Artti T10 (mild V) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
 • EPZ K5 (bright neutral) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
@@ -100,8 +100,8 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Sound Rhyme DTE500 (bassy neutral) - $460
 • Dunu EST 112 (mild W) - $490
 • Thieaudio Oracle (neutral) - $540
-• Penon Turbo (bassy V) - $550
 • Kinera Skuld (neutral) - $550
+• Penon Turbo (bassy V) - $550
 • Dunu SA6 MKII (bassy neutral) - $580
 • Symphonium Meteor (bassy neutral) - $600
 • FATfreq Scarlet Mini (very bassy) - $630
@@ -132,7 +132,7 @@ This guide lists recommended in-ear monitors, showerhead earbuds, and aftermarke
 • Final E2000 (warm bassy) - $45
 • Etymotic ER2SE (neutral) - $100
 
-##Showerhead Earbuds ($5 - $25)
+##Flathead Earbuds ($5 - $25)
 ***
 *Hall of Fame*
 • Vido (bassy neutral) - $5

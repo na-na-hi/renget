@@ -23,7 +23,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katenka](https://files.catbox.moe/dzl7lb.png)|[Katenka](https://files.catbox.moe/dzl7lb.png) [MV]
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Prince Winslow](https://files.catbox.moe/d6ysjw.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Clover](https://files.catbox.moe/nx50fv.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Cairo](https://files.catbox.moe/wy8ghk.png), [Chad](https://files.catbox.moe/fp2j61.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Cairo](https://files.catbox.moe/wy8ghk.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[The Nurse](https://files.catbox.moe/npl65b.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png)|[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png) [MV]
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Maya](https://files.catbox.moe/gpr1nv.png)|[Maya](https://files.catbox.moe/gpr1nv.png) [MV]

@@ -1,4 +1,4 @@
-#-> /hsrg/ Resources <-
+#-> /hsrg/ Resources (No longer updated)<-
 ->![kururin~](https://arch-img.b4k.co/vg/1678942817552.gif)<-
 ->[kuru](https://files.catbox.moe/nvh7j2.mp4) [kuru~♪](https://files.catbox.moe/36z8lo.mp4)<-
 

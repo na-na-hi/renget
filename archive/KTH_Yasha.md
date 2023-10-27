@@ -57,7 +57,7 @@ Steep Decline (+10)
 > Life Encounters
 Battlefield Brother
 Brief Apprenticeship
-Sudden Betrayal
+Romantic Rival
 
 
 >Fated Encounter: Immortal Scripture
@@ -182,10 +182,10 @@ Still, this is just a detail. Even if Yasha follows all of his desires for chant
 
 >Zhuque Yunyun [Auspicious Monster Summon #2]
 
-!!! note Abridged chant for summoning Zhuque
+!!! note Abridged chant for summoning Zhuque:
 	-> Relight my fire, Vermillion Bird! <-
 
-!!! note Unabridged chant for summoning Zhuque
+!!! note Unabridged chant:
 	-> Though her gaze is like a calm sea... <-
 	-> The warmth in her soul is like the summer's sun. <-
 	-> Mankind waits for her to fly along, setting hearts afire without a care. <-
@@ -206,7 +206,7 @@ Zhuque will accept the call even if Yasha doesn't use any chants. She has a bit 
 !!! note Abridged chant for summoning Baihu:
 	WIP
 
-!!! note Unabridged chant for summoning Baihu:
+!!! note Unabridged chant:
 	WIP
 
 Baihu will only approve of being summoned as a last resort. She wants her summoner to give it their all before relying on her. In this regard, she's the opposite of Qinglong.
@@ -224,7 +224,7 @@ The tiger also expects her summoner to keep giving their best even after calling
 !!! note Abridged chant for summoning Xuanwu:
 	WIP
 
-!!! note Unabridged chant for summoning Xuanwu:
+!!! note Unabridged chant:
 	WIP
 
 

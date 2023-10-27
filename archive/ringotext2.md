@@ -153,6 +153,26 @@ Nose in blue pubes, eyes to the sky
 
 -> * * * <-
 
+## >>>/d/10533863
+
+>Bae noticing her wife having fattened up quite a lot from their trip together
+>IRyS had been enjoying so much junk food and even almost a whole pizza last night
+>IRyS finally manages to push for CHAD cast twister with Calli in charge as Bae exchanges a look with the grim reaper
+>The twister mat is set up but there's a bead of sweat on Calli's forehead as she gets ready to spin after seeing IRyS's weight
+>Bae and IRyS slowly set up their positions around each other but Bae's recent spin puts her face right against IRyS's big soft tummy
+>IRyS's exertion sweat quite obvious to Bae as she feels IRyS move around her on her turn
+>Bae's next movement positions her face right behind IRyS's fat ass and there's more than just the smell of sweat that she's noticing
+>The spinner slows to a stop at an unreasonable dot for IRyS but she pushes herself toward it anyway
+>IRyS is struggling and straining but barely manages to reach it when that's not the only relief for her with Bae's face now pressed against her fat idol ass
+>A loud, brassy fart echoes in the room right in Bae's face
+>It takes a moment but the rat hits the floor when IRyS's strained strength gives out and her obese rear plops atop Bae
+>That ass isn't done yet as those 7 slices of broccoli pizza with extra cheese erupt out of IRyS's rear into the seat of her panties
+>All that broccoli provided too much fiber and the bulk of the mess way too quickly and way too easily fills out her underwear as it rests atop Bae's face
+>Sudden hissing goes up in the air as IRyS shakes her head when Calli looks toward her
+>Puddle building up from under Bae as the rat couldn't handle IRyS's dirty stench to the point of her bladder voiding itself
+
+-> * * * <-
+
 ## >>>/d/10550735
 
 >tfw you'll never have a gf that's tsundere about being into farts
@@ -801,5 +821,29 @@ I was trapped. Her rancid winds had no valley to blow through. Only my face. My 
 They say the human mind is incapable of correlating all of it's content, and today, I found out why. There are things for which we are not meant to experience. You see, I had become something which defied understanding. Under the appreciable duress of the large-breasted goddess' natto brap, I had come to a realization. I am no longer a man. My conscious experience exists now solely with the noxious poison that only Fuwawa could create. I am but a cadaver meant only for the zyklon chambers of her gastrointestinal creations.
 May the merciful God, if he indeed exists, guard me in these times, for I fear nothing will save me from her sickening stench. One which will soon suffocate me. One which I hope suffocate me.
 Fuwawa's natto braps...
+
+-> * * * <-
+
+## >>>/d/10794882
+
+>Anon takes a trip to his dentist
+>He's nervous because he needs to have some work done
+>The assistant leads him to the chair and tilts it backwards
+>"You seem a bit on edge."
+>Anon didn't realize he was unconsciously fidgeting his foot
+>"Heh… yeah I'm not great with needles and drills…"
+>The assistant's sympathetic eyes peek atop their facemask
+>"I think we may have a way to help with that."
+>They lean back and call out to someone in the hallway
+>Anon hears a distant woman's cackling grow louder until it fills the small patient room
+>"Yo! Heard we got another little bitch in here, too?"
+>A purple dragon lady with sharp teeth and an enormous ass stands mocking Anon like a 12-year-old on Xbox Live
+>"Don't worry, noob, this won't take long."
+>The woman's tree-trunk-like thighs now block the overhead lamp and cast Anon in shadow
+>Only the dim outline of plump buttcheeks and a thick tail can be discerned in the darkness
+>An intense smell hits Anon's nostrils as Selen's rump lowers down onto his face
+>Anon's sense of hearing sharpens and he hears the cackling laughter again, this time like it's inside his head
+>"Hahaha looks like we're both getting cavities filled today haha"
+>A hot and humid gas sprays into the back of Anon's airway and his mind starts slipping away into euphoria
 
 -> * * * <-

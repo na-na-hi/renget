@@ -1,7 +1,7 @@
 # onaholesama's furshit
 ->![anthro dog girl, sad internet style, heavy neon colored rain, dark gritty background, drawn with a mouse, single teardrop, black and white anthro dog girl, black and white colors, inside a microsoft paint background, ms paint style, looking straight up, face shot, text saying take my hand](https://files.catbox.moe/gvb5s0.jpg)<-
 ***
-soon.. soon they will be real.
+bye
 ***
 **Table of Contents**
 [TOC2]
@@ -509,7 +509,3 @@ driver.close()
 ![](https://files.catbox.moe/slqsso.jpg)
 ![](https://files.catbox.moe/vvg2e6.jpg)
 ![](https://files.catbox.moe/b8vc1w.jpg)
-
-##burner
-i don't bite.. unless you want me to
-onaholesama@proton.me
