@@ -1,0 +1,9 @@
+***[Secret Backstory]***
+
+![Wrinkled Bocchi](https://i.imgur.com/wkfn29M.png)
+>*Callsign:* Bocchi no.2
+>*Rank and Full Titles:* Lord Bocchi the Invader, Commander of the VII Legion Fleet, Governess of Ilium. Captain of the flagship superdestroyer *Warminiaen*. Master of the Warminiaen's Onboard-Grand Artillery Park.
+>*Force Vector Class:* Class V. Attunement specializes in brute force, teleportation and telekinesis. Able to multiply her physical strength exponentially using the Dark Side. Able to create an impenetrable force-field around herself. Able to traverse space that is within line-of-sight by 'warping' towards it, via an arc of Force Lighting.
+>*Other Characteristics:* Subject to various bodily experiments and modifications. Has black-coloured blood. Highly resistant to all forms of poisoning, ionising radiation, and extreme heat or cold. Can survive in the Vacuum for a period of time. Increased mental perception, recovery from injury, and pain tolerance. Exhibits a lack of empathy and suffers from egotistic behavior and delusions of grandeur. Only recorded weaknesses: Extreme blood loss, consumption of alcohol, or exposure to smoke.
+>Status: permanently exiled to the W̸̪̠̠̖̮̜̝̄̊͊̃ͪ̽̕͜͡r̍͜i̭̎_̢̡̛͈͓͍͇̟̬̲̫̪̲̞̟͖͛ͥ̽ͬ͋ͯ̔̑͐̐ͣ͌̐̉̓̌̈́͑̋̽̀̚͘͟͝͞n̾̓k̴̵̷̴̢̛͙͙̱͚͙̻̜͍̫͙͓̎͋ͬ̈̓͆ͯ̉͗ͥ̓̋ͩ͗̄ͩ̓̚͢͞ļ̡̲̰̘̤̳̻̺͍͔̤̥͕̽͗́ͤͭ͊͆ͬ͟͡͝e̡̳̥͒ͭ̏̈́́̍͊͢ͅ_̸̶̼̭̮̲͇̳͖̬͋͊͋͑ͪ̾̒ͦ̽̈́͞d̷̶̢̻̲͎̳͇͙͓̭͇̯̬̹̝̬ͭ́̒͆̅̒̓͊̿̒̋͊̔͊ͭ́͌̓ͭ͊̀́̕͢͜͠ T̵̘̤̥̫̲̼͚̈̾̔ͭͥ̉ͧ̽̔͂̄̌ͪ͜͢͢͡i̶̛͚̞͔̘̹̞̝̗̦̖̬ͨ̆͛̐́̐ͧ̽͛͊ͭ́ͯ̑̈͒̈̃͐͛̅͘͟͡͝m̶̧͙̜ͭ̽ͯͪ̽̾͢_̴̞̞̖̩̪͓̃͐ͯ̈́̽͂ͩ̐ͬ̏͛͂͛̈̃ͪ̆͛̕͘͜͜͜e͆ dimension on account of the crimes of high treason, attempt to coup d'etat, and crimes-against-the-galaxy. Listed as: 'MIA'.
+>>*[Expired data failed to load. . . Further information currently unavailable. . .]*

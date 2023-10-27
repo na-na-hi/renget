@@ -88,6 +88,11 @@ https://desuarchive.org/tg/thread/90686591/#90695745
 >5 mortals who bring absolutely nothing to the table
 https://desuarchive.org/tg/thread/90697603/#90701802
 
+#### Relationship Charts
+
+>Jian’s Diary
+https://rentry.org/76xvfc
+
 ### Writefags
 
 >First Fight
@@ -98,6 +103,8 @@ https://rentry.org/xgtgdc
 https://rentry.org/dpfk5
 >The Circus is in Town (Morgain Blackheart)
 https://pastebin.com/5ZmCW69k
+>A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
+https://rentry.org/o28z44
 
 ### Tierlists
 >Template

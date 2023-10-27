@@ -22,8 +22,7 @@ Still not fully fleshed out!
 ##->Logs<-
 !!! note
 	->**Updates**<-
-	27 Oct - Shizuka log has been extended.
-	|-> Satomi log has been added. Genres: Lactation, Teacher/Student, Public.
+	27 Oct - Shizuka log has been extended (#60 messages deep)
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
@@ -31,7 +30,7 @@ Still not fully fleshed out!
 ->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
 
 ->**Genres**: Survival, Zombies<-
-->![Shizuka2](https://i.imgur.com/voh6lYU.jpg)<-
+->![Shizuka2](https://files.catbox.moe/i1g9cd.jpeg)<-
 ***
 ###-> [Satomi](https://chub.ai/characters/LewdAmI/satomi-7b96327a) - By LewdAmI<-
 ->![Card4](https://avatars.charhub.io/avatars/LewdAmI/satomi-7b96327a/avatar.webp?size=0.5802350080850802)<-

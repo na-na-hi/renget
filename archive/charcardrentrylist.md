@@ -32,11 +32,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Nono](https://rentry.org/NonoRoom) | Misc |[The Idol Show](https://files.catbox.moe/8prvkc.png)|[The Idol Show](https://files.catbox.moe/8prvkc.png) [MV]
 [Luneose](https://rentry.org/luneose) | Misc |[Ji-hoon](https://files.catbox.moe/0hzglh.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Yvette](https://files.catbox.moe/ko45uy.png), [Kamui](https://files.catbox.moe/y7jutw.png)|
-[Hedona](https://rentry.org/hedona) | Misc |[Annelida](https://files.catbox.moe/zttntf.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)
-[JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/b3crqh.png)
+[Hedona](https://rentry.org/hedona) | Misc ||
+[JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Chefseru](https://rentry.org/chefseru) | Misc ||

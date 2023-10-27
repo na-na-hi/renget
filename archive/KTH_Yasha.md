@@ -11,7 +11,7 @@ The Tao of Adaptability promotes changing oneself whenever one finds a challenge
 This Tao was not given to Yasha by a teacher. He forged it himself, because the Tao taught to him wasn't compatible with his personality.
 
 #### -> Cultivation (-30) <-
-Generation: Disciple
+Generation: Disciple (Age 17)
 > Qi Gathering
 Talent: Crippled
 Realm: 0

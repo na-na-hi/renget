@@ -1035,3 +1035,52 @@ Rentry for past days: https://rentry.org/sggoi
 >"Happy anniversary. Shiori. My wife."
 
 ***
+
+## Day 20 - Outfit Swap Shiori
+
+>You're asleep in bed.
+>Shiori is laying next to you, awake.
+>An idea comes into her head, one that's rather strange but causes her to giggle a little
+>Her giggling causes you to wake up slightly, you mumble as you turn towards her.
+>"What's so funny?.." you ask, half asleep still.
+>She stops herself from giggling further and apologizes to you: "Oh, sorry for waking you anon..I just had a nice idea."
+>You doze off before you could even respond to her further.
+>The next time you awaken, you seem to already be dressed.
+>You remove the covers and see yourself dressed in Shiori's clothes.
+>Next to you is Shiori, she's dressed in your jeans and hoodie, looking at you with a smile.
+>"Uh..Shiori, what is this?"
+>Her smile turns into a devious grin then responds: "It was what I had in mind last night, damn you look pretty good in my dress."
+>As you move to get up, you feel different around your crotch area
+>You lift up the skirt and notice what you're wearing.
+>How did she even get these on you?
+>Suddenly you check your chest only to realize you aren't wearing a bra there.
+>"It was 'hard' to get those on you, if you know what i mean hohoho."
+>You look at her again, you notice she has a cheeky smile on her face now. She's clearly enjoying this.
+>She playfully pushes you back onto the bed and sits on your lap
+>"Oh, I see at least 'somebody' likes this, you dirty dress liker."
+>As she teases you, her hand caresses along your leg.
+>You understand what she's saying now as you notice you feel a little uncomfortable in her underwear while having your switch slowly flipped.
+>She whispers in your ear, her fingertips creeping up your thigh.
+>"Hey, don't get my panties dirty..I have to wear those later on you know."
+>She gazes at your face as she whispers, knowing exactly what she's doing.
+>"There there, I'm glad you like it at least, despite how I initially thought you would protest a little. Well, at least your cute plank likes it."
+>She gets off of your lap then does a little twirl, checking herself out in your clothes.
+>"Hmm, wanna go out on a date like this? Or maybe I should show this to the other girls, I wonder what they'll think about you wearing a cute dress."
+>Her face shows a mischievous smile the entire time.
+>Your body has decided that it enjoys all the teasing you've been receiving.
+>She smiles, happy that you're turned on for her, she then leans forward and removes the straps off your shoulders, letting her top fall and revealing your chest.
+>"The way you stare at my chest sometimes, you always enjoyed the idea of doing this to me, but now I get to see it on you, and it's not bad at all."
+>She smiles a little then whispers in your ear: "Stay still for me Anon, ok?" Afterwards she sits behind you.
+>As she speaks in a sultry tone, she rests her fingertips on your chest, then she drags them along your chest, making sure to caress in different spots.
+>Feeling rather pleasant from her touch, you couldn't help but breathe heavily.
+>She lifts up your hoodie past her breasts then she presses her chest against your back and begins to kiss into your neck.
+>Feeling the suppleness of her breasts and her lips on you, your heart begins to beat faster, something she feels through her hands against your chest.
+>She then whispers one last time into your ear: "You're a really big pervert..getting turned on while wearing a lady's clothes."
+>You try to protest a little, saying it's because of what she's doing to you instead while she simply chuckles.
+>Finally she decides to lay down on her back, telling you to turn around.
+>As you turn around, your eyes gaze down onto her, her breasts still exposed, your jeans loosely hanging onto her hips, and a smile on her face.
+>"Go for it Anon, but the only condition is that you have to keep the dress on. At least a little bit."
+
+*** 
+
+## Day 22 - Genderbend Shiori (Rori)

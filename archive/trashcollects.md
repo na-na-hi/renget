@@ -1368,6 +1368,16 @@ Penis size slider LoRA v1
 
 	https://files.catbox.moe/2pkhgi.safetensors
 
+Dark-light theme slider LoRA v1
+>This will change your composition, so it needs to be part of your genning process, not a post-gen/regen fix-up kind of thing.
+
+	https://files.catbox.moe/kohflx.safetensors
+
+Anti-blush LoRA v1
+>A quicky before I go to bed. This is more powerful than my previous ones, wouldn't recommend going much above 1 or below -1. Higher = less blush, lower = more blush.
+
+	https://files.catbox.moe/64hscs.safetensors
+
 # Naoko (alvh-omega)
 >Recommend using the LoRA at 0.7 weights.
 >Catbox with some of the tags she has for you to mess around with https://files.catbox.moe/5llwj5.png
