@@ -30,9 +30,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Sabrina Seleneski](https://files.catbox.moe/4pcwv4.png), [Blimpsey](https://files.catbox.moe/ez5cyt.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[CVX Empress](https://files.catbox.moe/yjc1ry.png)|[Bungo (Futanari)](https://files.catbox.moe/yxwstd.png), [Midway Princess](https://files.catbox.moe/wu4d7a.png), [Akagi](https://files.catbox.moe/toa8xw.png), [Kaga](https://files.catbox.moe/3c38sb.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[The Idol Show](https://files.catbox.moe/8prvkc.png)|[The Idol Show](https://files.catbox.moe/8prvkc.png) [MV]
+[KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/z0scpy.png) [MV]
+[Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
-[KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
@@ -64,7 +65,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
-[Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||

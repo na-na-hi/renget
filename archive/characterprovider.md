@@ -133,6 +133,8 @@ Prompts with strong words and impactful sentences can significantly influence th
 
 The general rule to remember is: Poor context results in poor output; good context results in good output. The sources remain the same as before. Furthermore you definitely can't fit the prompts on handling romantics, erotica, sexual scenes, interactivity, structure avoidance prompts, etc. with examples and explanations (because they are necessary) in mere 100-200 tokens.
 
+A good instruction for roleplaying or novel writing in JB should be around 200-300 words long. For creative instructions, it might be a bit more difficult for the AI to understand. In addition to that, you'll need to provide the AI with 300-600 words of context for the roleplay. This context is similar to a character description and gives the AI an understanding of the user's expectations, possible scenarios, chat, and other details.
+
 #####
 **Q3: "Why divide rules in parts and use JB & prefill?"**
 A3: Firstly, Large Language Models (LLMs) utilize a 'context curve' ([source](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278)). This means that the accuracy improves at both the beginning and end of the input data.

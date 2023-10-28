@@ -495,6 +495,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The Little Unknown
  * modest medusa 
  * Forever After
+ * Room of Swords
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -509,6 +510,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Knights of Samaria | [ComicFury](https://knightsofsamaria.thecomicseries.com)
  * Small | [The Duck](https://www.theduckwebcomics.com/Small)
  * Bookworm | [tapas](https://tapas.io/series/Bookworm/info)
+ * Stone's Coast | [tapas](https://tapas.io/episode/2947555) (Very new comic)
 
 #### Shit
  * The Adventures of Anna Glenn and Her Pet Ethan | [Archive](https://archive.org/download/smackjeeves-44126/44126/index.html)

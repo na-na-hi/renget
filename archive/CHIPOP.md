@@ -138,7 +138,7 @@ https://rentry.org/TKDCHIP
 !!! note
 	>**▶/chip/ Seal Templates:**
 	>https://catbox.moe/c/esjjov
-	>>==Current templates:== ![Main](https://files.catbox.moe/1g6vh3.png) ![Main, arabic ver.](https://files.catbox.moe/h5vstu.png) ![Green, sharp flag](https://files.catbox.moe/hoj0j4.png) ![kraken](https://files.catbox.moe/qt6389.png)
+	>>==Current templates:== ![HAPPENING](https://files.catbox.moe/n1jbwb.png) ![Main](https://files.catbox.moe/1g6vh3.png) ![Main, arabic ver.](https://files.catbox.moe/h5vstu.png) ![Green, sharp flag](https://files.catbox.moe/hoj0j4.png) ![kraken](https://files.catbox.moe/qt6389.png)
 	***
 	>**▶/chip/ Art & Other OC:**
 	>https://catbox.moe/c/flj9bj
@@ -150,7 +150,7 @@ https://rentry.org/TKDCHIP
 	***
 	#### To do:
 		-[x] Create the basic /chip/ seal template(s).
-		-[ ] Create newer variants of /chip/ seal templates.
+		-[x] Create newer variants of /chip/ seal templates.
 		-[ ] Create a catalog/Mega.io folder containing all /chip/ art and OCs (Thanks AI burgerbro for the Hamas-Chans and friends Catbox catalog. Keep 'em comin') and another folder containing all /chip/ OP templates i.e. seals, ready-to-go seals for emergency baking frens.
 
 ***

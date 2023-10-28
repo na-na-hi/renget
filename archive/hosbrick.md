@@ -53,7 +53,7 @@ MID
 Crit Rate **+15%(v2) > 12%(v3)**. Ult and Burst Mode attacks gain Total DMG +24%
 
 BOT
-ATK  **62 (v3) > 59 (v3b).** During non-Burst Mode state, after using weapon active, Crit DMG +25% for 15s, can be refreshed. If you enter Burst Mode during this duration, the effect will be buffed, Crit DMG **+20%(v2) > 25%(v3b)** more, can be refreshed.
+ATK  **62 (v3) > 59 (v3b).** During non-Burst Mode state, after using weapon active, Crit DMG +25% for 15s, can be refreshed. If you enter Burst Mode during this duration, the effect will be buffed, Crit DMG **+20%(v2) > +25%(v3b)** more, can be refreshed.
 
 2PC SET
 When using Ultimate, self Physical DMG +35%, Crit DMG **+35% (v2) > 30% (v3)** for 1s, Trigger interval **10s(v3) > 8s(v3b)**. 

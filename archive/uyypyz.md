@@ -937,3 +937,462 @@
 >what the hell was he doing?
 >you tried to stand up but his arms snaked around you and he grabbed onto your pants 
 >he had worked your length in his needle toothed mouth and you were hesitant to get really violent
+
+>you were fighting the urge right now
+>you had to stay flaccid 
+>it would be admitting defeat if you got hard
+>you couldn't let the fox own you like that
+>a combination of fear and prayer was sort of working
+>however the fox man was tempting you with every lick
+>you'd never done anything like this
+>this was sodomy 
+>you'd never even had a woman do this
+>the line for brides is shorter for someone only owning a couple acres in nowhere
+>let alone getting this far without marriage
+>and here was Füchsin throating your manhood
+>some sort of man beast witch and he was intimate with your manhood
+>the space he had under you allowed him to bob a little and you felt the blood rushing there 
+>he was winning dammit
+>you felt like you were taken hostage
+>letting his muzzle slip was a mistake
+>a little voice I the back of your head was speaking up now
+>the devil on your shoulder
+>honeyed words came to mind, in a soft teasing tone
+>it didn't feel that bad did it?
+>in fact…
+>didn't it feel good?
+>a reward for all the stress and grief
+>didn't you deserve to be rewarded?
+>you felt your dick growing 
+>the sin was great, you knew that
+>you were keenly aware
+>but maybe just once you'd have a moment of weakness
+>to just allow it 
+>you'd spent your life toiling
+>was this some sort of reward, maybe?
+>it was starting to make your head feel fuzzy
+>you could always free yourself after
+>run away
+>yes
+>that was it
+>let him think he'd won now
+>then repent later
+>you relaxed a little as you allowed him to think he had victory
+>the tongue worked the top of your shaft and every time Füchsin targeted the head you bucked a little and the fox shoved you as deep as possible into his mouth
+>given how he was non-human, he had an easier time with your length 
+>you felt him moan against you occasionally
+>this was good
+>so hot and amazing
+>there was nothing to compare it to
+>he kept your arm locked in with his legs but he rutted against your arm
+>his own manhood leaking onto your shirt sleeve
+>you don't remember what coaxed your orgasm 
+>somehow all the tension and fear ebbed away in that moment
+>you felt at ease
+>when you softened and he pulled his mouth away the weight of what you did hit you 
+>you'd laid with another man, possibly a demon
+>all for momentary pleasure
+>he released your leg and you fell over to the side of him
+>you were damned now 
+>he took the initiative and hopped on your chest
+>his ass nearly knocked the wind out of you
+>"doesn't it feel good?"
+>the fox witch's cock throbbed and you could see it for the first time
+>red and angry, with some sort of ball at the base poking out of the sheath
+>he leaned his head down to look you in the eye
+>"I mean, if you're damned you're damned."
+>he casually wiggled on your chest
+>his fluffy crimson tail wagged
+>"but… you wouldn't be damned alone."
+>his clawed finger pressed the head of his cock down to meet your mouth
+>he gently pressed the tip there and smeared precum over your lips
+>you were dealing with matters of your soul and he was trying to glaze your mouth
+>he grinned down at you as you mulled over your life now
+>you didn't have to give in there and you did
+>"I could show you a place that probably burns a lot hotter than hellfire."
+>the witch had won
+>you'd given your seed away through inaction and lust
+>he pulled the cock away from your mouth and look slightly perplexed
+>"I didn't think hunting a husband would end in depression. you're not going to, say, punish me? I did lead you into eternal damnation, right?"
+>he clicked his tongue against his cheek and looked down disappointed 
+>"where was that drive from a few moments ago? I wanted to marry a man, not a fish."
+>well, that snapped you back
+>you had dealt with plenty from Füchsin 
+>you'd been scared and terrified of whatever it was on your chest
+>and now he was insulting you
+>fine
+>you weren't taking this insult lying down
+>you'd been mock poisoned 
+>taunted
+>frightened through the woods
+>cursed with jewelry 
+>wrestled to the ground
+>had your seed shot down some strange man's throat 
+>and now he was attempting to emasculate you
+>you shot your hands up and grabbed his wrists
+>he was shocked
+>actually wiped the smug off his face
+>you used the rest of your body to shove him back off you and stood up
+>you towered over him right now, not just physically 
+>enough was enough
+>you wouldn't be a toy for whatever this was
+>you shoved him against the cave wall
+>your eyes locked on his
+>whatever was going on you were a man and you weren't going to let him control this or you
+>witch or demon, he wasn't the master of your soul
+>you asked why you shouldn't just dunk him in that glorified stew pot he's got going
+>in a miracle you'd actually given him pause
+>you were fed up with all of this
+>he couldn't just dangle a solution to all your problems over your head like that and not expect anger
+>couldn't just seduce you
+>it was your turn to be stunned into silence when he licked his mouth and narrowed his eyes at you
+>you had thought that last sentence and he seemed to react in time
+>maybe he really could skim thoughts from your mind
+>"sure enough, it isn't perfect mind you."
+>he wiggled his fingers on his ring paw to draw your eye there
+>the things really were cursed
+>you asked how to undo that
+>you figured you wouldn't get an answer but it couldn't hurt
+>"wedding rings work like wedding vows"
+>he gave you a minute to process that before the horror dawned on you
+>"just a jest. a joke."
+>you stared daggers into him
+>"relax, I can reveal it to you. just come closer."
+>you didn't lose any of your rage and stared him down
+>"I need to whisper it into your ear"
+>you were skeptical but what could he do with his wrists restrained and his feet off the ground
+>even if he nipped at you you were still stronger
+>his back was against the actual wall
+>you'd indulge the damn witch
+>you leaned in close and he moved his muzzle to your ear
+>in a warm sultry voice he whispered
+>"that's my man"
+>his legs shot up and he wrapped them around your waist and you realized you'd allowed him to grapple you again
+>he made sure to brush his manhood against yours as you tried to pry him off
+>every move seemed to get him frotting against you
+>"please don't fight it, my love. you wanted it in your dreams."
+>he used your objection as an opportunity to shove his tongue into your mouth
+>with the way his face was, it was clumsy kissing you
+>he licked at you with all the enthusiasm of a puppy greeting its master while you tried to fumble away
+>it wasn't that he was strong or heavy
+>his combination of stubbornness and dexterity made it hard to dislodge him once he had a hold of you
+>the fox witch's legs had clamped and locked around you tightly
+>it was a struggle you were trying to win
+>you tried not to think about his soft fur against your skin
+>how his manhood jousted with yours with all the moving
+>you would resist
+>that devil on your shoulder wouldn't win this time
+>you couldn't let it
+>the struggle ended up having Füchsin throwing his weight to one side and knocking you off balance
+>you landed with him on his back on the bed
+>you still pinning him, his legs locked tight
+>he kept clumsily showering you with licks and you cursed
+>he could not be winning this
+>your erection said otherwise and he knew it
+>dammit
+>he rolled his hips against yours
+>"don't you want to plant your seeds?" he murmured 
+>this vulgar flirting wasn't working
+>the promise of relief, of pleasure
+>no dammit
+>it wasn't happening
+>"don't you deserve to be taken care of for once?"
+>this wasn't a fox
+>he was a viper
+>all the sweet promises of "what you deserved"
+>he couldn't get his paws free
+>his voice was mingling with the devil's on your shoulder
+>this ring 
+>would you have to chop off your finger?
+>that made him snap
+>"don't you dare."
+>he started coming on stronger in your mind
+>all heaving chests
+>crimson fur splattered with your seed
+>"I'm not trying to take away your life. just make it better"
+>he was taunting you in your mind as he tried kissing you as messy as possible
+>damn witchcraft
+>trying to flash images of fertile acres
+>a happy, healthy, family
+>all these little promises
+>this witch was trying to hex you, charm you
+>it was… working
+>"you work so hard."
+>the voice was so sweet in your head
+>he didn't need to win the struggle physically
+>not when he had his claws in your mind
+>slowly he was attempting and succeeding in eroding your resolve 
+>he kept throwing happy futures out there
+>whispering sweet possibilities 
+>if only you fulfilled your marriage
+>with how he'd slithered into your mind all you could think of is the snake that tempted Eve
+>yet, you weren't in Eden
+>your life wasn't ideal
+>and here he was trying to sing sweet promises into your mind
+>maybe you wanted them
+>maybe 
+>Mutter healthy 
+>the kids growing up fine
+>your family's land something now even more prosperous 
+>would they smile down at you proudly?
+>you had no idea
+>but this bargain
+>the promise
+>you could make a better life for everyone if you just
+>did it
+>the voice didn't say what it was but instinctually you knew what it was
+>you knew what your duty as a husband entailed 
+>you had so much weight on your shoulders and maybe that was what broke you
+>with the relief promised 
+>maybe you could trade your soul
+>you sighed and relaxed 
+>you hated giving up and allowing this witch to have victory
+>he sensed your grip loosening and pulled his arms away so he could wrap them around you
+>he ruffled his paw through your hair
+>"there there, I think you've worked hard enough."
+>maybe you were lonely for some companionship because that gesture melted away your resistance 
+>he cooed to your ear as he gently played with your hair
+>was this what a wife was like?
+>were you avoiding this warmth this whole time?
+>you melted against the fox witch's warm coat
+>he whispered sweet nothings into your ear instead of your mind
+>"I will stay out of your head. in my haste I didn't consider your feelings."
+>his body felt hot against yours even after he'd calmed down
+>"you can at least see the benefits now though. it doesn't have to be so tough for you."
+>he licked along your neck and softly rolled his hips against you
+>"I don't have to be a woman or even human to know not to pass up a man like you."
+>he started smelling you and you were reminded of a dog
+>those eyes that had haunted you days before had a different quality in them when he pushed you back softly 
+>they had a pleading look behind them and he didn't need more honeyed words
+>maybe it would be alright
+>the fox could be your wife
+>maybe things didn't have to be so hard
+>maybe
+>he had tricked you before
+>but was your life that much better before this?
+>you'd toiled and lost
+>and he offered such a prize
+>maybe it was bait, but dammit you were going to take it
+>you just prayed you made the right decision here
+>this time, you initiated and forced your tongue into his toothy muzzle and he bucked against you
+>your hands went for his hips
+>this was your wife now
+>you were probably already damned 
+>you could blame anything on what happened next
+>truth was you chose to lay with him
+>Füchsin called over one of those little stickmen and you were aware you'd been watched the whole time
+>they presented him a jar
+>then a smaller bottle
+>you trusted this wasn't anything weird
+>maybe not the smartest idea but you hoped this led to those little promises 
+>he swigged a little of the small bottle
+>then handed it to you
+>against your better judgement you downed the remainder 
+>it burned on the way down
+>but what happened next was shocking
+>you felt burning hot and your dick was painfully erect
+>he seemed to be burning up too
+>your dicks were slick and pounding as your hearts pumped like hammers
+>"consider it a little enhancement. not that I'm worried about performance."
+>it made you start to feel feral
+>you nipped at his neck
+>this witch made a mistake offering himself like this
+>he stopped you to get you to lube you your manhood with the contents of the jar
+>"that way no one gets hurt."
+>you growled how he wasn't sitting down all week 
+>"that's the spirit, love"
+>he giggled and moaned when you pushed against his tail hole
+>he was lined up perfectly to be bred and you needed to oblige now
+>your mind was quickly becoming a haze and all you could center on was the hole giving way
+>the fox was at least easy on the eyes for something inhuman
+>maybe that was the drug talking
+>you bottomed out eventually and just sat there
+>he clenched at you
+>his tongue was out and he was panting next to your ear
+>it just felt right inside him
+>"so how's it feel? good enough you'll want it every night right?"
+>you grit your teeth as you pulled back
+>his confident attitude melted with a whine
+>it did feel amazing 
+>this heat pulsing through you both felt like a furnace 
+>it was even better than his mouth
+>you had no point of reference for how good this was
+>Füchsin cooed into your ear as he brushed your cheek 
+>"let your wife take care of you"
+>there was a sweetness behind that voice
+>"let it all out."
+>he rubbed his legs against your back
+>he lapped at your neck
+>every time he felt you hit a certain spot he gasped 
+>you picked up his ass to angle better and made deeper thrusts 
+>"oh, you animal"
+>the laugh was sultry 
+>his tail wagged between your legs as you kept pumping
+>it did feel good to finally let go
+>to just rut into him
+>you were fully aware how wrong this all was
+>but it just felt too good to stop
+>every night, he promised that
+>you might take him up on that offer
+>maybe it was the lust talking but he looked better than with his disguise
+>his chest fluff against yours was silky soft
+>his whole coat was soft to the touch but his chest in particular was like a pillow
+>flat as he was
+>could you rest your head on that?
+>you'd been at this for so long and family is one thing but Füchsin promised just so much more
+>you followed your base instincts and just kept pumping your length into the witch
+>he would slip sweet nothings into your ear, then tremble in your grip the next moment
+>"a happy home, all for you."
+>yeah, he'd broken your resolve down
+>you wanted this
+>craved it
+>the smell, the heat, the tight clench as he moaned out your name
+>he just kept drip feeding you honey and promises
+>and so help you 
+>it had won you over
+>you mated him deep into his bed
+>your bed
+>if this witch was your wife you accepted it completely now
+>if he could make your life better why not
+>this already was an improvement 
+>his ears flicked on top of his head as you growled then went for his neck again
+>the burning
+>it needed to all end one way
+>he groaned as one final thrust pushed your cock and it's load deep into him
+>he shot his own load onto your chests the heat seemed to just pour into him as you felt like your orgasm lasted for eternity 
+>it made you see spots in the corner of your eyes and you collapsed on top of him
+>his own body seemed rocked by it and he kept spasming on your dick
+>what brought you back was him speaking after regaining his strength 
+>"wait."
+>you looked up to see him looking at his paws
+>"that witch…"
+>you looked confused but he was still staring at his paws
+>he stared daggers into your eyes
+>"I was supposed to be human. all I needed was someone's love turning me into their ideal form."
+>what?
+>yeah you were confused 
+>"I would have even been fine with the woman thing if it meant I was human."
+>was all this bullshit
+>just to get something from you?
+>that left everything on a sour note
+>first off, treating love as a business transaction wasn't the right way to go about things
+>he nearly spoke up but you hushed him
+>secondly, you wanted him
+>so even if there was a spell to "fix" whatever this was you'd toss it aside
+>he could feel your cock stir to life inside himself again and he got wide eyed
+>he wasn't walking away from this
+>this was your goddamn wife now
+>so if he was going to spook you all over the woods for a scheme, you were making sure his ass paid for it
+>you were collecting on all those sweet promises
+>you were making him take responsibility 
+>you asked if he even meant all those pretty words he'd said before
+>a trace of guilt washed over his face
+>God help you you were getting better at reading his face
+>that was the first bit of remorse you'd seen on him
+>at least it was a good sign
+>he was going to be a good wife
+>you nipped at his neck once more and he grasped at your back
+>you growled that you'd make an honest man out of him
+>he'd take your last name
+>live on your land
+>make your dinners
+>if he was have as sweet as his words he'd have no problem 
+>but this whole spell giving him humanity?
+>he was forgetting it
+>you were turning this on him
+>if he had your soul you'd have his
+>and every night you were laying him in bed until he had your kid
+>"I'm… a man."
+>you weren't listening 
+>you had had enough of schemes 
+>this fox had seduced you and you weren't letting him off easy
+>your cock throbbed inside him and he was keenly aware of your intentions
+>before the grace of God you were going to win against this witch
+>you'd come into this thinking you were damned and now you were set on fulfilling your oaths as a married couple
+>didn't matter if it was in a church or a cave
+>in fact, Füchsin was getting pulled into a church
+>you'd do this formally
+>he was wearing garters and they were staying on
+>against his earlier protests you started breeding him again
+>his body was getting used to yours and soon he was moaning again
+>his claws raked over your clothed back
+>when you broke the skin on his shoulder he screamed and shot another load
+>after all he could do was gasp out to God
+>the smug merchant fox had vanished
+>in his place your partner was whimpering and panting as you renewed your assault on his most vulnerable spot
+>you were going to tame Füchsin 
+>those words he said were going to mean something
+>every thrust was enough to make him tremble 
+>you were going to make this ring mean something
+>even if it was a curse you would flip it around
+>the fox witch clearly wasn't expecting you to go on the offensive 
+>his attitude wavered in the face of your passion and he became submissive 
+>you made him promise to do everything he said 
+>you were going to hold him at that
+>your thrusts were relentless 
+>you demanded he say he loved you 
+>declare it
+>he was taken aback but you wouldn't budge
+>he needed to say it if he wanted more
+>you even slowed then stopped
+>"that's… not fair"
+>neither was getting scared through the woods or fake poisoned 
+>you wanted those words
+>you wanted to make sure he kept his word
+>he whined when he realized he wouldn't get what he wanted 
+>"fine, fine. I love you. that work?"
+>not so fast
+>you needed him to mean it
+>he finally sincerely said those three little words
+>and you replied in kind
+>after everything that happened you wanted this to be right
+>to work
+>it was strange and deviant but you hoped in the eyes of God you looked like you were right
+>all that sweet possibility would be yours
+>you'd lost count of how many loads you'd pumped into the fox witch over the night
+>you never pulled out
+>just a blur in your memory 
+>by the end your previous climaxes were getting fucked out of him
+>whatever drug he'd fed you had done its work
+>your shirt and back were clawed up 
+>Füchsin's own seed had made a mess between you
+>you two had mated nonstop like animals
+>you could get used to him underneath you like that
+>after one too many climaxes you passed out, pinning him in the bed
+>you woke up to a tongue licking at your face
+>any possibility of all last night being a dream was dismissed when you gazed into those eyes
+>"you make for a good blanket."
+>his soft paw ran over the cheek he hadn't kissed
+>"it didn't go the way I thought but I meant what I said last night."
+>your mind went to last night and your morning wood twitched inside your wife's foxhole
+>he groaned
+>you started up again 
+>rutting into the tender hole offered to you
+>his softly giggled as you regained steam
+>"if you don't mind a male fox as yours then maybe I should be happier to be me"
+>you took him as yours
+>every slow thrust got a reaction from him
+>"fill me up, love. it's so chilly out. I need your warmth."
+>he had seemed to return to his affectionate doting tone
+>you used him like a heat source too 
+>this time you decided to do something a little different 
+>he yelped when you picked him up 
+>but his tail weakly wagged
+>he was pressed against the cave wall and you slowly pumped into him
+>you enjoyed his company 
+>though you'd eventually want to learn more about Füchsin than the warm tailhole you'd almost took permanent residence in
+>it was his fault for mentioning last night and being clenched around you
+>"how about we clean up after this. then I'll make you breakfast before you head back."
+>we head back, you corrected him
+>you deposited one last load in him and pulled out
+>spent did not begin to cover how you felt
+>you probably poured a week's worth of energy into the fox 
+>he was just as exhausted
+>you didn't even humor his walking and you cradled him in your arms
+>the gesture shocked him
+>"even after everything you still act like a gentleman"
+>he leaned against you
+>you noticed activity outside the cave and the stickmen were collecting water in a wash tub
+>so he had the foresight to have that happening 
+>it was heated by a slow fire
+>married life didn't seem too bad

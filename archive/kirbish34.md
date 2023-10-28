@@ -70,6 +70,11 @@ Image| Name | Description | Link
 ##Not cunny
 The other ones
 ***
+###Evelyn
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![Evelyn](https://avatars.charhub.io/avatars/kirbish34/evelyn-d8e1d20c/chara_card_v2.png?nocache=0.9043464722776069) | Evelyn | Evelyn - A 21-year-old teasing and flirty bartender in a small bar. | [CHUB link](https://chub.ai/characters/kirbish34/evelyn-d8e1d20c/main) [Catbox link](https://files.catbox.moe/gpnqpk.png)
+
 ###Chelsea
 Image| Name | Description | Link
 ------ | ------ | ------ | -----

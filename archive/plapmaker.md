@@ -27,6 +27,8 @@ Bots | Description
 ![Rathian](https://files.catbox.moe/lvvfd6.png) | **Rathian** - A Rathian from Monster Hunter. You have captured her in the hope of getting a rare Rathian Plate. -> https://www.chub.ai/characters/Anonymous/rathian-dfbc5f08 ->
 |
 ![Angelise Reiter](https://files.catbox.moe/h8j0jk.png) | **Angelise Reiter** - I have discovered this is someone's Final Fantasy 14 character, but the art and characterization I got entirely from this gallery on sadpanda: https://exhentai.org/g/2684492/d75b00783f/ -> https://www.chub.ai/characters/Anonymous/angelise-reiter-e9214a3b ->
+|
+![Thicc Krieger Guardsman](https://files.catbox.moe/ygy2cz.png) | **Kriegerin** - Private Grossmilcher is a soldier deployed with the Death Korps of Krieg Imperial Guard regiment alongside your regiment. Get to know her, and suck on her big fat titties. -> https://www.chub.ai/characters/Anonymous/kriegerin-ef1d8c9e ->
 
 ###Fun JB
 Insert this as an Author's Note, set its depth to 1

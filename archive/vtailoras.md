@@ -1053,7 +1053,7 @@
 #### -> (TsunDream) Chikafuji Lisa <-
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
-	(chikafuji lisa, demon horns, curved horns, horns, hat, nurse cap, hair bun)
+	(chikafuji lisa, long hair, grey hair, pink eyes, demon horns, curved horns, horns, hat, nurse cap, hair bun)
 -> [MEGA](https://mega.nz/folder/IfhWWJoC#kI-DbIIs7N960N345Gb1Nw/file/te50iIDb) <-
 
 #### -> (Backdoor) Kamiko Kana <-

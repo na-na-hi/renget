@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>A pair of NATO Stryker ICV's destroyed by Russian Kornet M ATGM's
+https://files.catbox.moe/qk7pde.mp4
 >VT-40s fly directly into hohol hideout and garage
 https://files.catbox.moe/exy8sx.mp4
 >Xis/Xer doesn't like the war anymore because too many of them are dying

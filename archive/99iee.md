@@ -119,15 +119,15 @@ aaa H: Additional members were later added: the advanced golem Roboco and the sh
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade.
 aaa H: Rumors surface that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate. This persists as a grim tale.
 aaa H: The Order expansion continues, launching Second Brigade. Savan Royal Council member Mio Ookami also inducted.
-618-622 H: The Fantasia Brigade debuts, the Quad Force Brigade, the new Red Division with the Honse and Hwanse brigade. Islander brigade is launched with the Astral Brigade, as well as opening the new Knights division, launching the less-welcomed First Knights.
+618-622 H: The Fantasia Brigade debuts with five people, the Quad Force Brigade debuts with five new ladies too, the new Red Division debuts with the Honse and Hwanse brigade, with three women each. Islander division is launched with the Astral Brigade, as well as opening the new Star Knights division, launching the First Squad to far less fanfare and even scorn from some sectors, mainly from Blancopolis.
 619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling and who in The Celestium is "worthy" of worship.
 620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Obisco stepped down in light of Damaso's men occupying Corte Blanca by force.
-621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria refuses the demand.
-aaa H: Grand Pontifex Damaso declares all male members of The Order persona non grata and declared that harm to them by Blanc citizens will be rewarded.
-623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers.
+621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria, under King Covigo's order, refuses the demand.
+aaa H: Grand Pontifex Damaso declares all male members of The Order persona non grata and declared that harm to them by Blanc citizens will be rewarded. The Curia then begins harrasment brigades against all Valkrs actively interacting with the Star Knights.
+623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers in humanoid form.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
-624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Fourth Force Brigade.
-625-628 H: The Order gains widespread fame and adoration. Suntempo Knights and TriNero Knights established, Penta Brigade, widely acclaimed Mythos Brigade, and PriCo Brigade added.
+624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Quad Force Brigade.
+625-628 H: The Order gains widespread fame and adoration. Suntempo Squad and TriNero Squad established, Penta Brigade, widely acclaimed Mythos Brigade, and PriCo Brigade added.
 626H: Grand Hydra Karonda ascends the Anakondian throne.
 627 H: A Guardian from the Penta Brigade was reported KIA a few days into her duty running afoul of Blancopolis soldiers not recognizing her place as a Guardian.
 628 H: The Celestium bickers over the state of Aurorai's mortals. Rojoris deems Aurorai too soft after centuries' worth of peace, to which Covernius and Auroia protest.
@@ -214,7 +214,7 @@ Current Ruler: Grand Hydra Karonda (12th)
 Exec. Building: Cobra Hall
 Established: 17 H
 
->Home to a group of united reptilian amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
+>Home to a group of united snake-like amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
 
 #### Negazion
 
@@ -402,7 +402,7 @@ Home: Savan
 
 Aki
 
->Hailing from East Diarnuit, she comes from a background of being innovators when it came to magitech not just in Diarnuit, but all over Aurorai. Not particularly inclined with the racial profession, she took up dancing, enchanting crowds across Aurorai and making many a men entranced with her. She doesn't let race nor social standing get in the way of "fun"; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
+>Hailing from Teknethal in East Diarnuit, she comes from a background of being innovators when it came to magitech not just in Diarnuit, but all over Aurorai. Not particularly inclined with the local profession, she took up dancing, enchanting crowds across Aurorai and making many a men entranced with her. She doesn't let race nor social standing get in the way of "fun"; if you prove worthy, you can get what you wanted from her. Some people whisper about this apparently promiscous behavior but Aki ignores it anyway. Her beauty isnt hollow, having the skill to project light magic through her Warp Tails, her personal hair accessory of choice.
 
 Home: Diarnuit
 
@@ -412,7 +412,7 @@ Home: Diarnuit
 
 ->**Calliope**<-
 
->The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hard work make her an inspiration as well as the target of a few jealous whispers and naysayers thinking she doesnt deserve to be a Guardian. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. She also remembers for a long time who's who in court, separating her friends from the secret naysayers and users. Rumors are circulating Nero High Hall that allegedly, she is being groomed by Death to take command as both Rex Mortis and the Head Reaper as he ever nears his impending retirement.
+>The First Apprentice of Nero Eterna's reigning Rex Mortis, Death Muertos. Calliope's talent and hard work make her an inspiration as well as the target of a few jealous whispers and naysayers thinking she doesnt deserve to be a Guardian. The Rex Mortis' most trusted person, she can be often seen taking over his authority whenever he's away for official business, with mostly splendid results. Calliope can quite be a perfectionist, never settling for "good enough" in everything she does. She also remembers for a long time who's who in court, separating her friends from the secret naysayers and users. Rumors are circulating  Notte Piu Nera Cathedral that allegedly, she is being groomed by Death to take over as both Rex Mortis and the Head Reaper as he nears his ever-impending retirement.
 
 ==Home: Nero Eterna==
 
@@ -435,25 +435,25 @@ Home: Diarnuit
 ->**(!)Kronii**<-
 
 >A spear flier obsessed with perfection and herself, to the point it could be viewed as narcissism. A former prison warden from Blancopolis, she escaped the rampant corruption in the prison system to defect to the Polarian Coalition forces. She barely escaped with her chronomancy channeled through her heirloom lance. Revered once in Blancopolis as the finest and most sadistic Warden of Clover Island, they deemed her a traitor when she called out the cruelties of Grand Pontifex Damaso's gender segregation laws in his Red Doctrine, which she has seen herself in the Blanc mainland. Her time as Warden may have contributed to her dour and sarcastic outlook in life, but despite this, she still can be sweet about people she cares about. Contrary to her imposing demeanor, she can be emotional.
-
-Home: Blancopolis
+==Home: Blancopolis==
+(!)How to acquire: Defeat Chapter 9 within 28 turns
 
 ***
 
 #### Chapter 10
 
-->**Haato**<-
+->**(Y)Haato**<-
 
->A seemingly innocent young girl, her antics and interest belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato take over Haato' body completely and utterly. The enemy would be looking to harness this dark side at their command.
+>A seemingly innocent young girl, her antics and interests belie her exterior. Born and raised in the Polarian sub-urbans, Haato can get into rather...extreme tastes. Many times she has tried to get into cooking, only to repulse her colleagues with the result. The resulting sludge was so potent, the smell alone was a fair warning about what happened. Despite it all, she is a creative mind when it comes to her studies, which she takes seriously. She has a dark side that she has named Haachama, a horrific mirror of her tendencies. This dark side is said to be able to split completely with Haato & take over Haato' body completely and utterly. The enemy would be looking to harness this dark side at their command.
 
-Home: Polaria
+==Home: Polaria==
 
-->**(!)Ollie**<-
+->**(N)Ollie**<-
 
 >Formerly a girl named Olivia, she died in a carriage accident on her way to a theatre to perform in a play. In her family's desperation, they turned to Neronian shamans to revive her. The result wasn't that perfect, with parts of her memory missing and can only vaguely recall her own name. Deciding to let go, her family let the zombie be with her new life. Unlike most zombies, Ollie is quite energetic, zooming around her village in Nero Eterna, aiding whoever she can however she could. Above all, she proves to be smart and heartful despite both lacking a living brain or heart, which is why King Covigo selected her to be part of The Order's latest Brigade.
 
 Home: Nero Eterna
-(!)How to acquire: Visit a certain destroyed house with Moona.
+(Y/N): Y-Defeat Haachama in 25 turns/N-Fail to defeat Haachama in 25 turns
 
 ***
 
@@ -479,14 +479,14 @@ Home: Nero Eterna
 
 ->**(!)Amelia**<-
 
->Hailing from the southern capitol outskirts, Amelia can be described as "bred tough". Somehow, she has survived many hazardous accidents growing up. Adult life was just as hazardous but pays somehow, opening a detective agency to help the commonfolk when they cant turn to the authorities. She doesnt believe in hiring people to do the dirty work for her, taking up her trusty crossbow to fight in criminal territory. Her skills with it are above average, which pairs well with her tenacity. She does not ask for payment for customers too poor to pay, believing it wasnt just to do so. Her taking on the amount of cases she does sometimes takes a toll on her, forgetting which lead is to what case sometimes or who requested what for instance. She can be reckless too in a fight, taking on one too many.
+>Hailing from the southern capitol outskirts, Amelia can be described as "bred tough". Somehow, she has survived many hazardous accidents growing up. Adult life was just as hazardous but pays somehow, opening a detective agency to help the common folk when they cant turn to the authorities. She doesnt believe in hiring people to do the dirty work for her, taking up her trusty crossbow to fight in criminal territory. Her skills with it are above average, which pairs well with her tenacity. She does not ask for payment for customers too poor to pay, believing it wasnt just to do so. Her taking on the amount of cases she does sometimes takes a toll on her, forgetting which lead is to what case sometimes or who requested what for instance. She can be reckless too in a fight, taking on one too many enemies.
 
 Home: Polaria
 (!)How to acquire: Visit a specific house with any of Ina, Gura or Calliope
 
 ->**(!)Polka**<-
 
->A ringmaster originating from Savan, she wasnt always the woman she is now. Years ago before she started getting into the carnival act, she got bullied by the other fennecs for gaining too much weight. Embarassed and shamed, she thought to intensively train for the prime acts for a circus, which lost her lots of pounds. Once she got into the circus circuit, many admired her, with some going to extremes. To grant some outrageous requests sometimes, she did acts she now regrets doing for loaded but slimy clients. She quit her agency some years in, due to how much of those kinds of acts she was doing. She got to start up her own small circus when she met the Polarian King Covigo during the year he ascended the throne, loaning her a sum of gold so that she doesnt have to go to another potentially oppressive circus company. Today, the Omaru Company is slowly rising in fame as more people become aware of the performer's abilities, including the ringmaster herself.
+>A ringmaster originating from Savan, she wasnt always the woman she is now. Years ago before she started getting into the carnival act, she got bullied by the other fennecs for gaining too much weight. Embarassed and ashamed, she thought to intensively train for the prime acts for a circus, which lost her lots of pounds. Once she got into the circus circuit, many admired her, with some going to extremes. To grant some outrageous requests sometimes, she did acts she now regrets doing for loaded but slimy clients. She quit her agency some years in, due to how much of those kinds of acts she was doing. She got to start up her own small circus when she met the Polarian King Covigo during the year he ascended the throne, loaning her a sum of gold so that she doesnt have to go to another potentially oppressive circus company. Today, the Omaru Company is slowly rising in fame as more people become aware of the performer's abilities, including the ringmaster herself.
 
 Home: Savan
 (!)How to acquire: Visit a specific house with either Botan or Lamy
@@ -507,19 +507,20 @@ Home: Polaria
 
 Home: Nero Eterna
 
-->**(!)Astel**<-
+->**(Y)Astel**<-
 
 >A member of the royalty and a military commander from another land beyond Aurorai, Astel washed up in the northern Blanc shores and was found by patrols. As repayment, he enlisted to serve the Blanc army before he resigned because he felt the incoming onslaught of what he deems "stuffy rules". He then made it to Diarnuit mere days before the Red Uprising erupted, citing that he does not want to be part of what comes after. Life in Diarnuit suited him well, gaining a reputation himself as quite a charming guy himself, winning over many maidens where he settled down. The past is coming back to confront him as he accepted a position as a Guardian in the Knights division of The Order, therefore putting him in Blancopolis' undesriable list.
 
 Home: Diarnuit
-(!)How to acquire: Wait on a certain area with Temma. (Triggers a dialogue if conditions are met)
 
-->**(!)Luna**<-
+
+->**(N)Luna**<-
 
 >A noble from Polarian lands west of the capitol called Candia. Reputed for having a sweet tooth due to her land being the center of sweet-making, she is also rather childish at a first glance earning her the nickname "Zero-Year Old Princess". Despite that however, she is extremely talented at music with the piano, often seen performing at social gatherings. In addition, she knows anima and holy magic herself, but she is really dependent on her LuKnight entourage to protect her at all times. She yearns to be taken more as a woman instead of a child in more ways than one. She is very infamous for her lack of stamina, a short trip to a neighboring town is enough to tire her for a good while. She has been working on improving this flaw just recently.
 
 Home: Polaria
-(!)How to acquire: Keep most LuKnights alive.
+
+(Y/N) Y-Aruran, Izuru and Temma reach 800exp together/N-Botan, Towa, and Kanata reach 700exp together
 
 ***
 
@@ -532,5 +533,10 @@ Home: Polaria
 Home: Polaria
 
 ->**Magni**<-
+
+>The mad alchemist of Guild Tempus, referring to himself as "The Great Magni Dezmond" when it's just his guildmates in a joking manner. Magni used to be a professor at an academy for alchemists. Believing he can make his work famous through the guild, Magni traveled to Tempus Rock to sign up. His pride and joy is a maroon-colored substance called "Copium", which he says can ease any physical or emotional discomfort. Now one of the top officials of the guild, he is a staunch critic of the Red Doctrine and has had many attempts on his life.
+
+Home: Polaria
+
 ->**Axel**<-
 ->**Vesper**<-

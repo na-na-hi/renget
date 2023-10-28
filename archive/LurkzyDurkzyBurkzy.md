@@ -1,9 +1,8 @@
-->![gifz](https://64.media.tumblr.com/3aa7faf39b88cbd9e045ed840f051e51/5f6cd787fdcfd81e-98/s100x200/a8532e6e40cf657a2c294fa5e87a8f3adccf4574.gifv)<-
-#-> lurkzn's Claude preset (Shaq's Nut Sack edition)<-
+#-> lurkzn's Claude preset (Pete Davidsons's Rizz edition)<-
+![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
+
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
-***
-[TOC2]
 ***
 ```
 -----------------------------------------------------------------------------------------------------------------------
@@ -13,14 +12,18 @@ Changelog:
 27 Oct - ShaqsNutSack. Modified slightly to make Claude end its responses in a way that encourages actions/dialogue
 from {{user}} as opposed to the usual "With {{user}} by her side, **anything** was possible..." 
 Still not fully fleshed out!
+
+29 Oct - Pete Davidsons's Rizz. Need I say more?
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-#->Download Shaq's Nut Sack (28 Oct)<-
-!!! warning
-	->Added a prompt item called "User Info". You can fill it in with a short description of yourself in first person -
+[TOC2]
+***
+#->Download Pete Davidsons's Rizz (29 Oct)<-
+!!! warning Add-ons
+	->> "User Info". You can fill it in with a short description of yourself in first person -
 	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/on1of1.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/uekcd2.zip)<-
 ***
 ##->Logs<-
 !!! note
