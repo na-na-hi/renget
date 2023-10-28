@@ -43,6 +43,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90698018
 >Heng Zhiqiang, Ultimate Kuudere
 >>90711509
+>Dónall, Hare-oic Rabbit
+>>90738966
 
 >ELDERS
 >The Boneless Old Man, who clearly has bones just look at the picture cmon
@@ -85,6 +87,10 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90681699
 >Zhihao Cheng, Ace Attorney
 >>90712377
+>Po Kong, The World’s Strongest Cultivator
+>>90738598
+>Chenrezig Bodhisattva, didn’t read the Bodhisattva Precepts
+>>90743192
 
 ```
 ***
@@ -132,8 +138,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Renaissance (Desolator, Luccione, Mauler):
-https://rentry.org/rfyv4
+Unloaded last thread. Back to charging!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90676737/

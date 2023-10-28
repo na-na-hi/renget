@@ -223,7 +223,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Kokona Nonaka 野中 ここな** |Kokona|Jan. 28, 2006|[Agency WEB](https://www.amuse.co.jp/artist/A8878/index.html) / [TW](https://twitter.com/cocona_nonaka) /  [==Former SG Page==](https://archive.is/5ohJ3)|[📷]()
 **Nina Hanamiya 花宮 初奈** |Ui-chan|October 24 ,XXXX|[Agency WEB](https://www.aoni.co.jp/search/hanamiya-niina.html) / [TW](https://twitter.com/hanamiya_nina)|[📷]()
 **Kotoko Sasaki 佐々木 琴子** |Kocchan|Aug. 28, 1998|[Agency WEB](http://stylecube.jp/talents/kotoko/index.html) / [TW](https://twitter.com/ssk_ktk828) / [IG](https://www.instagram.com/sasaki_kotoko828/) / [==Former 乃木坂46 Page==](https://archive.is/EopEN )|[📷]()
-**Kanna Kan 菅 叶和**|Kocchan|November 19, XXXX|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷]()
+**Kanna Kan 菅 叶和**|Kankan|November 19, XXXX|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷]()
 **Kona Tsukine 月音 こな**|Konachi|Aug 20, 2003|[Agency WEB](https://apollobay.jp/talent/月音こな/) / [TW](https://twitter.com/KonaTsukine) / [TK](https://tiktok.com/@tuknekona)|[📷]()
 
 ###🙌🎆 Other/Supporting Seiyuu 🎆 / 🙌###
@@ -550,7 +550,7 @@ Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGIC
 ###Hasunosora
 ####CONCERTS/LIVES/VODs
 Hasunosora 1st Live Tour ~RUN! CAN! FUN!~
-TBA ![](https://files.catbox.moe/c95yx7.gif)
+Fukuoka D1D2 - [raw 1080p](https://nyaa.si/view/1733097) ![](https://files.catbox.moe/c95yx7.gif)
 
 ####EVENTS/PERFORMANCES/MISC 
 OPENING LIVE EVENT～Bloom the Dream～ : [1080p](https://nyaa.si/view/1702233)

@@ -18,7 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Onaholesama](https://rentry.org/onaholesama) | Furry |[Dr. T'ana](https://files.catbox.moe/8cbrlf.png), [Lyxra](https://files.catbox.moe/15k2vg.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry |[Dr. T'ana](https://files.catbox.moe/8cbrlf.png), [Lyxra](https://files.catbox.moe/15k2vg.png)|[ΔΤΔ](https://files.catbox.moe/qyosyx.png), [Riley](https://files.catbox.moe/kz3sez.png), [Zoologist](https://files.catbox.moe/mtufsp.png), [Fay Spaniel](https://files.catbox.moe/vau8dn.png), [Sherry](https://files.catbox.moe/s0ofjc.png), [Karissa](https://files.catbox.moe/1rni07.png), [Volfa](https://files.catbox.moe/vui9jk.png), [Auroth](https://files.catbox.moe/avplum.png), [Sammi](https://files.catbox.moe/xy0i87.png), [Asche](https://files.catbox.moe/98mi1i.png), [Corvina](https://files.catbox.moe/6w7284.png), [Missy](https://files.catbox.moe/dv08jw.png), [Katia Managan](https://files.catbox.moe/749x20.png), [Shelby](https://files.catbox.moe/px9rvk.png)
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Yumi](https://files.catbox.moe/n9pfc2.png)|
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Katenka](https://files.catbox.moe/dzl7lb.png)|[Katenka](https://files.catbox.moe/dzl7lb.png) [MV]
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Prince Winslow](https://files.catbox.moe/d6ysjw.png)|
@@ -30,8 +30,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Sabrina Seleneski](https://files.catbox.moe/4pcwv4.png), [Blimpsey](https://files.catbox.moe/ez5cyt.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[CVX Empress](https://files.catbox.moe/yjc1ry.png)|[Bungo (Futanari)](https://files.catbox.moe/yxwstd.png), [Midway Princess](https://files.catbox.moe/wu4d7a.png), [Akagi](https://files.catbox.moe/toa8xw.png), [Kaga](https://files.catbox.moe/3c38sb.png)
 [Nono](https://rentry.org/NonoRoom) | Misc |[The Idol Show](https://files.catbox.moe/8prvkc.png)|[The Idol Show](https://files.catbox.moe/8prvkc.png) [MV]
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
 [Genoo](https://rentry.org/295se) | Sizeplay ||
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/11d0mj.png)
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||

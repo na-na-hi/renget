@@ -867,6 +867,8 @@ Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Chal
 Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry.org/2bovid
 MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Challenger, Mirror Devil, Marrow): https://rentry.org/mib4v
 Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
+Renaissance (Desolator, Luccione, Mauler): https://rentry.org/rfyv4
+
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

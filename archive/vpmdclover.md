@@ -350,6 +350,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 	* [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 	* [The Trash Bag and The Food Thief](https://rentry.org/2y9ab)
+	* [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -603,6 +604,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 * {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
+* {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

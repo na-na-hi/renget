@@ -6,12 +6,12 @@
 
 ##What the fuck is a 'Tier \_'?
 
-Tiered Skin is an internal term used at Titanforge to determine the amount of development time and effort put into a given skin. In short, every skin in the game is graded by their tier, and from there, pricing and marketing can be determined.
+Skin Tier is an internal term used at Titanforge to determine the amount of development time and effort put into a given skin. In short, every skin in the game is graded by their tier, and from there, pricing and marketing can be determined.
 
  - Tier 1 Skins: 100 Gems or 9,500 Favor. Color Change or “Recolor” version of the base model.
- - Tier 2 Skins: 250 Gems or 25,000 Favor. Minor model changes and upgrades. Uses the gods original theme and voice pack. Example: Valkyrie Freya
- - Tier 3 Skin: 400 Gems. New theme and model changes. May have minor special FX, minor animation changes, and often has a custom voice pack. Examples: Blind Vengeance Nemesis, Cryonic Demon Ymir.
- - Tier 4 Skin: 600 Gems. New theme, model changes, major animation changes, new special FX, and always has a custom voice pack. Examples: HeBro He Bo, Elite Agent Apollo.
+ - Tier 2 Skins: 250 Gems or 25,000 Favor. Minor model changes and upgrades. Uses the gods original theme and voice pack. Example: Valkyrie Freya, Crimson Death Kali.
+ - Tier 3 Skin: 400-1,200 Gems. New theme and model changes. May have minor special FX, minor animation changes, and usually has a custom voice pack. Examples: Blind Vengeance Nemesis, Cryonic Demon Ymir.
+ - Tier 4 Skin: 600-2,700 Gems. New theme, model changes, major animation changes, new special FX, and always has a custom voice pack. Examples: HeBro He Bo, Elite Agent Apollo.
  - Tier 5 Skin: ~8,000 - 10,000 Gems or Unpurchaseable *(sometimes lower if you game the event they appear in)*. See below. 
 
 This differs to the 'tagline' you'll see attached to the portrait of many skins as you skim them. From an observers point of view, these seem more indicators of legal bullshit to do with marketing and pricing, moreso than the 'Tier' system *(which again, dictates resources put into a skin)*:
@@ -22,14 +22,16 @@ This differs to the 'tagline' you'll see attached to the portrait of many skins 
    Previously this used to refer to skins that could only be found and rolled within chests, but as of recently, TitanForge realised that nobody in their right mind buys chests, and so opened most of them up for direct purchase for a higher price. *Yes, for most of the game's history, if a skin was not in a chest, it was impossible to acquire through any other means - obviously some kind of abstract business genius at play.*
  - Crossover: What it says on the can.
     With these, their marketing and availability is not dicated by Titanforge, but rather whoever owns the source IP for them. Usually these are available at least a few months every year - after all, businesses wanna make money and they're not doing crossovers just for brand recognition.
- - Unlimited: These skins are functionally identical to the Limited ones, however have the addendum that they may one day return for acquisiton.
+ - Unlimited: These skins are functionally identical to the Limited ones, however have the addendum that they may one day return for acquisiton. Most recently Tier 4 and all recently released Tier 5's are limited, very rarely a Tier 3.
    You can also pick them up for an exorbitant price *(often the price of the entire event they came in, with none of the other rewards)*. Rather than 'Unlimited', they're more 'Un-Limited' - and this classification of skin likely exists because of such the outcry from people who missed out on events being frustrated that they literally could not give LoRez the stupid amount of money they had, for what they wanted *(LoRez, in their never-ending, ceasless moronicism - business geniuses - did not stop to think that making the most desirable skins in the game for some of the most popular and high-population playerbases, as hard-limited runs might piss people off)*.
  - Limited: These skins are never, ever coming back.
-   Completely unobtainable outside of trying them in Jungle Practice; not even Skin Boosters temp-unlock these ones. These include the first few Event-collection-rewards *(including the first few Tier 5's up to Godslayer Ares)*, all the yearly Season-Ranked-Reward skins, the Season Pass 'Ascended' Recolours and a select few others. It's a common cope that *"hurr durr you can technically get one (1) out of a small selection if you donate literal thousands of dolleridoos during Titanforge's yearly charity stream"*, and while, yes, you can get one via this method; in practical terms, even Moby-Dick tier whales are realistically unable to even get their flippers on these ever again.
+   Completely unobtainable outside of trying them in Jungle Practice; not even Skin Boosters temp-unlock these ones. These include the first few Event-collection-rewards *(including the early Tier 5's up to Godslayer Ares)*, all the yearly Season-Ranked-Reward skins, the Season Pass 'Ascended' Recolours and a select few others. It's a common cope that *"hurr durr you can technically get one (1) out of a small selection if you donate literal thousands of dolleridoos during Titanforge's yearly charity stream"*, and while, yes, you can get one via this method; in practical terms, even Moby-Dick tier whales are realistically unable to even get their flippers on these ever again.
     *Oh, and take my word as general life-advice on this one, by-and-large every public charity is a scam - be it money laundering, to tax avoidance programs, to severe corruption for lazy embezzling fucks living off of the back of others, to things even as extreme as international covers for political subversives and regime changers. If you aren't a cynic about those things, you've either not worked for one, not worked with one or are developmentally retarded (and so, won't see a dime of help from one). You want to help people charitably, do it yourself. You wanna feed the homeless? Do it yourself. You wanna help vulnerable kids? Adopt. You wanna save the environment? Pick up layabout litter yourself and plant your own trees. You wanna do it on an international scale? Convince the public and invade your altruistic target of choice, and force them to. If it's not small, local, apolitical and with a reasonable + achievable mission statement (local homeless shelters, local orphanages, local animal shelters etc); distrust it instinctively. You'll do more harm than good if you don't. Just like half the orgs that LoRez throws money at.*
 
+***
+
 The only skins you'll often hear referred to by their Tiers are the rare and generally-coveted 'Tier 5's; the highest-effort skins in the game, often with completely new systems in place just to get them working - complete with a complete revamp of the God's appearance, abilities and animations; often spearheading a new skinline theme entirely.
-One such example is how the Hou Yi Tier 5 has over x8 the amount of code put into his appearance compared to Hou Yi's default model, or how the forme-shift system was specifically created for the Thanatos T5 *(then later used in multiple Gods in their own right)*. Usually these skins feature as the collection-reward for the major events of SMITE, and are released at a rate of ~1-2 per year. On the surface these are expensive *(as they are targetted at whales)*, but you can net them during their release event, often for much less if you simply game the system. For example, the Tier 5's that release alongside Odyssey events can be netted for ~4,000 Gems *(again, still a huge amount, but half-price is more realistic for most players)*. While there are more than two skin-release events per year, not every event has an associated Tier 5.
+One such example is how the Hou Yi Tier 5 has over x8 the amount of code put into his appearance compared to Hou Yi's default model, or how the forme-shift system was specifically created for the Thanatos T5 *(then later used in multiple Gods in their own right)*. Usually these skins feature as the collection-reward for the major events of SMITE, and are released at a rate of ~1-2 per year. On the surface these are expensive *(as they are targeted at whales)*, but you can net them during their release event, often for much less if you simply game the system. For example, the Tier 5's that release alongside Odyssey events can be netted for ~4,000 Gems *(again, still a huge amount, but half-price is more realistic for most players)*. While there are more than two skin-release events per year, not every event has an associated Tier 5.
 As of writing, the following skins are the only Tier 5 Skins in the game:
 
  - Archon Thanatos (Odyssey 2015)
@@ -66,6 +68,7 @@ The following skins were the collection-rewards for various other events, and ar
  - Croaki Loki (Dharmic Era)
  - Toony Terror Scylla (Reapening 2022)
  - Spell Blaster Charybdis (Yulefest 2022)
+ - Necromalice Martichoras (Festival of Spirits)
 
 
 ##What is 'Skin Advantage'? Can I eat it?
@@ -82,7 +85,8 @@ That said, there are some valid points here and there as to which skins / Gods g
 And despite it's reputation, some skins can genuinely help you play a certain God better if you're looking to pick them up, with how they make various factors of their gameplay more or less obvious. The SPL won't ban those skins *(because they don't give a fuck about helping themselves, they're primarily looking for whining-avoidance)*, but they will help you nonetheless.
 I am here to help, after all.
 
-And don't just assume any of the skins mentions = tryhard faggot. Unironically, most people *(past the notorious offenders)* don't give a fuck about gayfaggot Skin Advantage bullshit and are just using skins because they're cool.
+And don't just assume any of the skins mentioned = tryhard faggot. Unironically, most people *(past the notorious offenders)* don't give a fuck about gayfaggot Skin Advantage bullshit and are just using skins because they're cool.
+
 And no, you can't eat it.
 
 
@@ -99,7 +103,7 @@ And no, you can't eat it.
 			 - Headless Norseman (1.22s)
 			 - Dashing Deceiver (1.25s)
 			 - Raphael (1.25 or 1.35, there's two)
-			 - Shadow Spawn (1.5 trailing off by 1.3 or 1.6; there's two)
+			 - Shadow Spawn / Devil Tamer (1.5 trailing off by 1.3 or 1.6; there's two)
 			 - Tokyo Machine
 			 - Loki Charms
 			 - Default / Recolours
@@ -109,13 +113,13 @@ And no, you can't eat it.
 			 - Croaki (3s or 4s, there's two)
        - ==Longest cue ^==
 
-   - .... but it doesn't stop there when it comes to Skin Advantage. On top of the *(albeit less extreme)* differences in soud cues, Loki's 2 / Blind overlay varies with different skins, resulting in some being more or less 'blinding'. Loki is the face of Skin Advantage in SMITE, and his generally scummy playerbase and reputation hasn't done him any favours.
+   - .... but it doesn't stop there when it comes to Skin Advantage. On top of the *(albeit less extreme)* differences in sound cues, Loki's 2 / Blind overlay varies with different skins, resulting in some being more or less 'blinding'. Loki is the face of Skin Advantage in SMITE, and his generally scummy playerbase and reputation hasn't done him any favours.
        - ==Most Blinding v==
 			 - Hyperspace *(Currently, by-far, has the most blinding 2 in the game. As a result of the sound-equalling also resulting in this having the shortest and cue on his 1, this is now currently the go-to tryhard Loki skin, in terms of Skin Advantage - with the following two being not too far behind)*
 			 - Dashing Deceiver 
 			 - Headless Norseman
-			 - Grim Mariachi *(Infamously used to be functionally silent on his 1, with a long, feint and softly spoken cue. Was the go-to example of a 'tryhard skin' but is now amongst the worst due to the lengthy cue. Still has a very bad rep, as most people aren't as aware of the nolife rankings of the Loki skins)*
-			 - The Trickster / Shadow Spawn
+			 - Grim Mariachi *(Infamously used to be functionally silent on his 1, with a long, feint and softly spoken cue. Was the go-to example of a 'tryhard skin' but is now among the worst due to the lengthy cue. ~~Still has a bad reputation, as most people aren't up to date on of the nolife rankings of the Loki skins~~)*
+			 - The Trickster / Shadow Spawn / Devil Tamer
 			 - Infiltrator / White Death *(This used to have the loudest and cues, making it much harder for Loki to play effectively. Ironically, it was the best skin to learn with, as it forced you to stealth prior to entering into the enemy's audio cue range)*
 			 - Tokyo Machine
 			 - Loki Charms (Weaker)
@@ -126,23 +130,25 @@ And no, you can't eat it.
        - ==Least Blinding ^==
 
    - And finally. For the most virginal players. For the Loki mains who will never, ever touch a member of the opposite sex. For the Loki mains who haven't showered in 3 weeks, and can't tell if it's just them or if their lonely parent has died and the corpse is starting to stink up the house.
-     There is one more way for Loki to gain Skin Advantage. If it's not been given an unoffical name, it's because everybody subconsciously knows this as the 'No Bitches' method of Skin Advantage.
+     There is one more way for Loki to gain Skin Advantage. If it hasn't been given an unoffical name, it's because everybody subconsciously knows this as the 'No Bitches' method of Skin Advantage.
      Loki can choose to equip a Recall Skin of the same colour as his stealth SFX. In doing so, if he pops stealth at the last microsecond of a Recall Animation with a particularly large amount of additional VFX, he is able make it appear like he has recalled, yet is simply invisible. This is a favourite trick of Solo lane Lokis, as it relies on their mirror seeing the backing animation and assuming he is gone, turning their back on him - leaving themselves wide open.
      You will get kills.
      But at what cost?
      Something greater than cheap kills in a MOBA is spiritually lost with this method, certainly.
 
  - Thoth
-   - Thoth is another God notorious for Skin Advantage abuse. While Loki faggots might be annoying little cunts, Thothfags are by-and-large much more likely to be playing for the meta advantages, because nobody else plays Thoth to begin with. Loki is shit in upper level co-ordinated play, while Thoth is one of the consistant high-performers of the Midlane meta. ~~Low-functioning autists~~ Lokifag tryhards win matchups, ~~High-functioning autists~~ Thothfag tryhards win matches.
-     Thoth's Skin Advantage, again, comes in the form of audio-cue variability, some some skins offering a near-silent Ult. The same Thoth Ult that can reliably oneshot low-prot targets lategame. Like Loki, Thoth has repeatedly received a targeted audio-equalisations, but that hasn't eliminated it entirely, and is a notable factor to many tryhards. If Thoth ever gets skins, keep an ear out, because you night not hear him coming.
+   - Thoth is another God notorious for Skin Advantage abuse. While Loki faggots might be annoying little cunts, Thothfags are by-and-large much more likely to be playing for the meta advantages, because nobody plays Thoth for any other reason.
+		Loki is shit in upper level co-ordinated play, while Thoth is one of the consistant high-performers of the Midlane meta.
+		~~Low-functioning autists~~ Lokifag tryhards win matchups, ~~High-functioning autists~~ Thothfag tryhards win matches.
+     Thoth's Skin Advantage, again, comes in the form of audio-cue variability, some some skins offering a near-silent Ult. The same Thoth Ult that can reliably oneshot low-prot targets lategame. Thoth has repeatedly received targeted audio-equalisations, but that hasn't eliminated it entirely, and is a notable factor to many tryhards. Also, if Thoth ever gets skins, keep an ear out, because you night not hear him coming.
        - ==Quietest v==
-			 - Star Scribe *(Still pretty quiet on Ult windup, but not like you can acquire and abuse it, because it's Limited)*
-			 - Twisted Jester *(Probably gonna get patched)*
+			 - Star Scribe *(Still pretty quiet on Ult windup, but not like you can acquire and abuse it, because it's Limited)* ***(HRAAAAAAAAAH...........................................)***
+			 - Twisted Jester *(Probably gonna get patched)* ***(HHHUUUUUUUWWWWAAAAAAOOOOOOOOO)***
 			 - Default / Recolours / Book of Nightmares ***(WHOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAOOOOOOOOO)***
-			 - Geek Beak ***(CHILLLLLL OUUUUUUUUUUT)***
-			 - Beaky Chibi
-			 - Vizier *(Was functionally silent for years, and came with much feinter VFX on 1 / Projectiles and Ult. Was the go-to tryhard skin, but as since has been hit by the 'balance' stick and is deafeningly loud)*
-			 - Beaky Bot *(Again, got hit hard with the equalisation stick, but was notorious for a while upon release for being even quieter than Vizier ever was)*
+			 - Geek Beak ***(CHILLLLLL OOOOOOOOOUUUUUUUUUUT)***
+			 - Beaky Chibi ***(IIIIIIYYAAAAAAAAHOOOOOOOOOOOOO / HYYYUUUUUUUUUUR IT COMES!)***
+			 - Vizier *(Was functionally silent for years, and came with much feinter VFX on 1 / Projectiles and Ult. Was the go-to tryhard skin, but as since has been hit by the 'balance' stick and is deafeningly loud)* ***(RWWWWWWWWWOAAAAAAAAH)***
+			 - Beaky Bot *(Again, got hit hard with the equalisation stick, but was notorious for a while upon release for being even quieter than Vizier ever was)*  ***(HUUUUUUUUYEEAAAAAAHHH)***
        - ==Loudest ^==
 
  - Sun Wukong
@@ -159,7 +165,7 @@ And no, you can't eat it.
    - While touching on Customisation Options, you may also notice that some Ward Skins are banned by the SPL. Some are simply for branding / bullshit legal reasons, however Primal Fire Ward stands apart in that it offers an *(albeit pathetically minor)* advantage, in that it has  an unusual / somewhat quieter deploy SFX, can cause some framerate issues and it's effect is slightly disconnected from it's own 'Ward Base' *(meaning it's health bar is slighlty off from where it's model is, if revealed by Sentry wards)*. It's not the quietest, it's not the most resource-intensive, and the disconnect is barely noticeable, but it's banned nonetheless.
 
  - Tier 5's
-   - For the most part, a Tier 5 alters a God's model enough to the point that it's always a somewhat harder read on them. Once you've seen them all, this is pretty much null-and-void, but it is a factor.
+   - For the most part, a Tier 5 alters a God's model enough to the point that it's always a somewhat harder read on them. Once you've seen them all and are used to them, this is pretty much null-and-void, but it is a factor.
      All of them are banned at an SPL level.
 
 
@@ -194,33 +200,36 @@ And no, you can't eat it.
  - Ah Puch
    - Galactic Invader & Nutcromancer Ah Puch have such large VFX cues for his 3 / Antiheal Grenade debuff that it begins to obscure the actual vision of the target in question.
      Both are SPL banned.
-   - AP-15 Ah Puch has extremly bright green VFX across abilities, making it much more distracting in general.
+   - AP-15 Ah Puch has extremly bright VFX across abilities, making it much more distracting in general.
 
  - Amaterasu
-   - /
+   - \
 
  - Anhur
-   - Starslayer Anhur's modified Basic Attack animation *(shooting a smalL VFX laser from his Spear, instead of throwing the Spear)*, and the mesh-glare VFX + loud SFX on his 1 / Pillar is enough to net it an SPL ban. *Not that it really matters at this point, since the last \*(and only time you could get it)\* was as a Ranked Reward from Season 3; not even Skin Boosters letting you take it out on loan. But hey, if youre one of the 14 players that both played enough ranked to get it, and are still around, the SPL are sneething about it.*
-   - You may have heard that Olympian Anhur offers Skin Advantage. This used to be true - projectiles were bugged to be inverted for a long time, meaning that the damaging-tip of his Spear came after being hit by the pole as it phased through you *(which was doubly-worse, as Olympian uses a double-ended Javelin, as oppose to a clear End-Tip Spear)*. It also messed with his throwing animation *(as it would immediately invert forward as it left his hand)*, making it hard to play around his Basics. This has been fixed. *Despite this, old habits die hard, and Olympian is still a semi-notorious skin of choice for many tryhard Anhurs.*
+   - Starslayer Anhur's modified Basic Attack animation *(shooting a small VFX laser from his Spear, instead of throwing the Spear)*, and the mesh-glare VFX + loud SFX on his 1 / Pillar is enough to net it an SPL ban. *Not that it really matters at this point, since the last \*(and only time you could get it)\* was as a Ranked Reward from Season 3; not even Skin Boosters letting you take it out on loan. But hey, if youre one of the 14 players that both played enough ranked to get it, and are still around, the SPL are sneething about it.*
+   - You may have heard that Olympian Anhur offers Skin Advantage.
+		This \*used\* to be true - it's projectiles were bugged to be inverted for a long time, meaning that the damaging-tip of his Spear came after being hit by the pole as it phased through you *(which was doubly-worse, as Olympian uses a double-ended Javelin, as oppose to a clear End-Tip Spear)*. It also messed with his throwing animation *(as it would immediately invert forward as it left his hand)*, making it hard to play around his Basics. This has been fixed.
+		*Despite this, old habits die hard, and Olympian is still a semi-notorious skin of choice for many tryhard Anhurs.*
 
  - Anubis
-   - Stargate Anubis has a feinter trail-off for the edge of his 1 / Breath
+   - Stargate Anubis has a feinter trail-off for the edge of his 1 / Breath.
 
  - Ao Kuang
-   - Vampire Bloodline Ao Kuang uses a rapier, and his 2 / Mini-dragons are replaces with small Bats
+	- \
 
  - Aphrodite
-   - /
+   - \
 
  - Apollo
-   - Prot Buff effect.
-   - Elite Agent Apollo has tiny projectile Basic Attacks, and almost no audio cue on his 2 & 3. Fits the theme of an infiltrator / spy, but is an objective Skin Advantage as a result.
+   - Prot Buff & Speed Buff VFX effect varies on skins.
+   - Elite Agent Apollo has tiny projectile Basic Attacks, and almost no audio cue on his 2 & 3. While it fits the theme of an infiltrator / spy, it is an objective Skin Advantage as a result.
 
  - Arachne
-   - /
+   - \
 
  - Ares
-   - The outer edge of Ares's 2 / Bolster can vary on skins - with some skins having no clear outer edge, and others having a clearly defined ring around him.
+   - Shackled Souls Ares is banned at an SPL level. No idea why.
+   - The outer edge of Ares's 2 / Bolster-Aura can vary on skins - with some skins having no clear outer edge, and others having a clearly defined ring around him.
        - Extremely Well Defined / Most Advantage
 			 - Chilling Hersir
 			 - Bit Battler
@@ -241,9 +250,6 @@ And no, you can't eat it.
 			 - Spectral Sword
 			 - Oni Guardian
 
-   - Shackled Souls Ares is banned at an SPL level. No idea why.
-
-
    - Ares also has variations on the VFX of his 3 / Flames. Some are much heavier than others, some are nonexistant. It's up to you if you think seeing things is more or less advantageous than the enemy not seeing things.
        - Mininmal SFX
 			 - Bit Battler *(Projects circles for most of it, most easy to see through)*
@@ -258,37 +264,37 @@ And no, you can't eat it.
 			 - Primal Fire / Primal Steel *(Billows huge amounts of smoke, on top of flames)*
 
  - Artemis
-   -  Recon Artemis has a harder to see ult + traps.
+   -  Artemis used to have some degree of Advantage / Disadvantage in how visible her traps were, but as since all her traps appear identical + default to enemy players.
+   -  Recon Artemis has a harder to see floating Ult.
 
  - Artio
-   - Plushie?
+   - Plushie Artio is banned at an SPL level. No idea why.
    - Arctic Seer has the most transparent Heal-Beam VFX and the most well-defined boundary VFX on Brambles. Not much, but it does help.
 
  - Athena
-   - /
+   - \
 
  - Atlas
-   - /
+   - \
 
  - Awilix
-   - Paradigm Awilix banned at an SPL level, not for Skin Advantage, but because licensing bullshit.
-   - 
+   - Paradigm Awilix banned at an SPL level - not for Skin Advantage, but because licensing bullshit.
 
  - Baba Yaga
-   - /
+   - \
 
  - Bacchus
-   - /
+   - \
 
  - Bakasura
    - Death Machine and Feaster Bunny Bakasura both use Bakasura's old animation rig, which is much less 'expressive', smaller and closer to the ground. Since Death Machine has additionally quieter SFX and is cheaper to pick up, it's the go-to tryhard skin for Bakasura; but both have advantage.
    - Laughing Skull Bakasura has EXTREMELY LOUD SFX. 
 
  - Baron Samedi
-   - /
+   - \
 
  - Bastet
-   - /
+   - \
 
  - Bellona
    - Enyo Bellona has much, much louder voicelines, making it extremely easy to pin down where she is. Slight skin disadvantage.
@@ -297,7 +303,7 @@ And no, you can't eat it.
    - Gecko Taverner has a much thinner model than Cabrakan's usual model.
 
  - Camazotz
-   - /
+   - \
 
  - Cerberus
    - Cerberus's 2 / Breath has 2 regions to it - the inner-cone that slows and shreds, and the outer-cone that only shreds. Some skins are far more pronounced in terms of where these cones begin and end, and can help you using him.
@@ -330,10 +336,10 @@ And no, you can't eat it.
 			 - Brimstone *(Fades in, black particles, soft+feint effect, orange tint)*
 			 - Pup Patrol *(Fades in, extremely feint purple paw-particles)*
 
-   - Additionally, Pup Patrol Cerberus has an extreme fade on it's outer limits (both forward and to the sides), making it unclear as to if it's even landing, from an enemies point of view. This nets it a Skin Advantage ban at the SPL level.
+   - Additionally, Pup Patrol Cerberus has an extreme fade on it's breath's outer limits (both in front and to the sides), making it unclear as to if it's even landing, from an enemies point of view. This nets it a Skin Advantage ban at the SPL level.
 
  - Cernunnos
-   - Cern's skins typically vary based on what seasonal-stance he's in. Some skins are very easy to read (eg Glaive Tech or Primal Spirit changes his entire body's hue), meanwhile others look near-identical in all stances (eg Krampus Cern only changes the colour of his pouch, on his back belt). For casual players, the high-hue ones will give more skin advantage in terms of personal readability; for tryhards the obfuscation will help more for harder reads.
+   - Cernunnos's skins typically vary based on what seasonal-stance he's in. Some skins are very easy to read *(eg Glaive Tech or Primal Spirit changes his entire body's hue)*, meanwhile others look near-identical in all stances *(eg Krampus Cern only changes the colour of his pouch, on his back belt)*. For casual players, the high-hue ones will give more skin advantage in terms of personal readability; for tryhards the obfuscation will help more for harder reads.
        - Clear
 			 - 
        - Subtle
@@ -346,89 +352,93 @@ And no, you can't eat it.
  - Chang'E
    - /
 
+ - Charon
+   - \
+
  - Charybdis
-   - /
+   - \
 
  - Chernobog
-   - Angel = Beads
+   - Archangel Chernobog used to have a Skin Advantage issue, where his Ult's VFX made him shimmer golden - the same colour as CC immunity. This has since been changed / fixed, and his Ult-buff makes him shimmer blue instead.
 
  - Chiron 
-   - /
+   - \
 
  - Chronos
-   - Chronos 64
+   - Super Chronos 64 nets a ban at the SPL level, presumably for it's hugely overblown and distracting / obscuring Ult windup VFX.
 
  - Cliodhna
-   - /
+   - \
 
  - Cthulhu
-   - Cthulhu's Passive debuff has different levels of effect-intensity, depending on how many stacks he has applied to a target. On his default skin, this effect is subtle; but his other skins generally make it much more clear when you want to use your 1 / Consume on them, for a phat Fear and a perma-stack of Passive. This goes both ways (as it helps enemies see how stacked they are without needing to skim their debuff bar), but for the most part it'll help you more.
+   - Cthulhu's Passive debuff has different levels of effect-intensity, depending on how many stacks he has applied to a target. On his default skin / recolours, this effect is subtle; but his other skins generally make it much more clear when you want to use your 1 / Consume on them, for a phat Fear and a perma-stack of Passive. This goes both ways (as it helps enemies see how stacked they are without needing to skim their debuff bar), but for the most part it'll help you more.
    - CthUwU's 2 / Puddle has poorly defined edges.
 
  - Cu Chulainn
    - EUnited has extremely clear and distinct damage-pulses. The closest otherwise is Beast Within; the rest fade out similar to Mystical Mail's VFX.
 
  - Cupid
-   - Mighty Mage Cupid has an extremely visible star orbit him and easily noticeable twinkling SFX when his Passive is fully stacked.
+   - \
 
  - Da Ji
-   - /
+   - \
 
  - Danzaburou
-   - /
+   - \
 
  - Discordia
    - Pixel Chaos Discordia has a semi-transparent 1 / Explosion, an extremely feint 2 / Frenzy startup, a deafeningly loud 3 / Cloud (and loud Basics) and an Ult with noticeably different VFX than her usual indicator *(it's a large cube that travels in a straight line across the floor, rather than a spinning orb)*. The combination of these, results in it netting itself an SPL ban.
 
  - Erlang Shen
-   - /
+   - \
 
  - Eset
-   - /
+   - \
 
  - Fafnir
-   - /
+   - \
 
  - Fenrir
    - Fenrir's Metal Carnage notoriously has extremely loud footstep and ability SFX. Say goodbye to any semblence of surprise against players with audio on - for Fenrir in the Jungle, this skin has a clear Skin Disadvantage ~~but can be advantageous when playing him in Support, depending on how you use this information.~~
-   - Mastery / Legendary Skins slightly obscures the startup of Fenrir's Ult, and while minor, is Skin Advantage.
+   - Mastery / Legendary Skins slightly obscures the startup of Fenrir's Ult and use of Beads, and while minor, is Skin Advantage.
 
  - Freya
    - \
 
  - Ganesha
-   - Cosmic Fortune / Runic Machina
+   - Cosmic Fortune / Runic Machina is banned at an SPL level. No idea why.
 
  - Geb
    - G.E.B.1 / Optimus Prime have much clearer 'transformations' on Geb's 1, making it somewhat easier to aim and land.
 
  - Gilgamesh
-   - Divine Wind
+   - Divine Wind Gilgamesh is banned at an SPL level. Possibly because it alters his silhouette too much, possibly because it adds an additional VFX to his Ult (swords crashing down) that make it much harder to see through.
 
  - Guan Yu
-   - Guan's 3 / Spinning Shred has a deceptively long range to it. The Shadow and Infernal Beast have pronounced VFX on this ability, making it easier to gauge where you'll hit things with it.
+   - Guan Yu's 3 / Spinning Shred has a deceptively long range to it. The Shadow and Infernal Beast have pronounced VFX on this ability, making it easier to gauge where you'll hit things with it.
 
  - Hachiman
    - \
 
  - Hades
-   - Ragnarok
-   - Crow of Demis Hades model is so huge it 
+   - Ragnarok Hades is banned at an SPL level, likely due to the global skybox shift on Ult being distracting.
+   - Crow of Demise Hades model is so huge it begins to obscure the players FoV.
 
  - He Bo
-   - He Bro / Sydney Shredder is lower to the ground than default, thus obscuring less of the screen.
+   - He Bro / Sydney Shredder is lower to the ground than default, thus obscuring less of the screen. Despite being skin advantage and having a notably different silhouette, this skin has history of being allowed in the SPL.
 
  - Heimdallr
    - \
 
  - Hel
-   - Eclipse Summoner Hel Order and Chaos Hel
+   - Order and Chaos Hel's palette swaps don't flow with the rest of her skins - the Healing-stance is the more dark / blue-tinted one, while the Damage stance is the brighter / red-tinted one. This is enough to even net it a ban at the SPL.
+   - Eclipse Summoner Hel's heap of additional effects are generally considered distracting.
 
  - Hera
-   - Lilac Bloom has a much more pronounced hip-sway. Whether that's an advantage or a disadvantage depends on if you.
+   - Lilac Bloom has a much more pronounced hip-sway. Whether that's an advantage or a disadvantage depends on if you can keep your focus off of it.
 
  - Hercules
-   - Grand Slam Hercules uses a thin baseball bat instead of a huge club. As a result it obscures less of his model's vision, making it generally 'easier' to see what's going on, and possibly get his Blink-chain off.
+   - Grand Slam Hercules uses a thin baseball bat instead of a huge club. As a result it obscures less of his model's vision, making it generally 'easier' to see what's going on, and possibly get his Blink-chain off. While not extreme enough to net it a ban, it is old enough to be known as the go-to tryhard skin.
 
  - Horus
    - \
@@ -437,7 +447,7 @@ And no, you can't eat it.
    - \
 
  - Hun Batz
-   - Hun Batz Shaolin Monkey's staff and lack-of-headpiece is generally seen to be the least obsctructive for his model.
+   - Hun Batz Shaolin Monkey's staff and lack-of-headpiece is generally seen to be the least obstructive for his model.
 
  - Ishtar
    - \
@@ -455,26 +465,32 @@ And no, you can't eat it.
 
  - Jing Wei
    - Jing Wei's 1 and 3 offer her relatively important-to-her-gameplay self-buffs. These are more / less visible on certain skins, with Phoenix Fire Jing Wei offering the most in terms of helpful / readable effects.
-   - On her Pool Party skin, the VFX for her 2 / Empowered Shots are greatly altered, instead firing a cluster of water balloons rather than one projectile. Since these clusters are completely random, it can completely obscure one half of the shot, based on RNG.
-   - Despite these, Jing Wei's most Skin Advantage comes in the form of her Paintballer skin. With near-silent Basic Attack effects, a delayed startup and thin VFX on her 1 / Upward Gust, and an Ult with no indicator for where it's edges are; this one is to the point that it's also banned in SPL play.
+   - On her Pool Party skin, the VFX for her 2 / Empowered Shots are greatly altered, instead firing a cluster of water balloons rather than one projectile. Since these clusters are completely random, it can completely obscure one half of the shot, based on RNG. This is banned at the SPL level.
+   - Despite these, Jing Wei's most Skin Advantage comes in the form of her Paintballer skin. With near-silent Basic Attack effects, a delayed startup + thin VFX on her 1 / Upward Gust, and an Ult with no indicator for where it's edges are; this one is to the point that it's also banned in SPL play.
 
  - Jormungandr
    - While firing his Basic-breath, Jormungandr's side-fins spread out *(making it hard to see)*, and in general his huge model can obscure what he's attempting to look at. As such, depending on the skin he uses, he can see (much) more or less.
        - Thinner Model / Notable Advantage
 			 - Splyce
 			 - Goose Chase
+       - Middle-of-the-Pack
+			 - World Kitty
+			 - Default / Recolours
+			 - Living Alloy
+			 - Plushie
        - Larger Model / Notable Disdvantage
 			 - The Mighty Storm
 			 - Malworm
+			 - Nidhoggr
 			 - Ragnarok
 
-   - For SPLshitter play, the fact that Malworm has transparent segments and a slight fade on the breath's boundary is enough to net it a skin-ban based on silhouetting alone. *Obviously, Jormugandr travelling around the map moving sideways to the direction he knows his enemies are going to be looking at him to is enough to give him a huge advange ~~lmfao fucking whiners~~.*
+   - For SPLshitter play, the fact that Malworm has transparent segments and a slight fade on the breath's boundary is enough to net it a skin-ban based on silhouetting alone. *Obviously, Jormugandr traveling around the map moving sideways to the direction he knows his enemies are going to be looking at him to is enough to give him a huge advantage ~~lmfao fucking whiners~~.*
 
  - Kali
    - \
 
  - Khepri
-   - Hug Bug / Ladybug Khepri
+   - Hug Bug / Ladybug Khepri is banned at an SPL level. No idea why.
 
  - King Arthur
    -  Many King Arthur Skins (including Default) will have his greatsword glow according to how much Ult charge he has stored. Whether your prefer seeing this yourself to gauge when you can use it, or think the enemy seeing this is a downside, is up to you.
@@ -505,6 +521,12 @@ And no, you can't eat it.
  - Lancelot
    - \
 
+ - Martichoras
+   - \
+
+ - Maman Brigitte
+   - \
+
  - Maui
    - \
 
@@ -529,9 +551,9 @@ And no, you can't eat it.
    - Demon Dasher Ne Zha likewise has no indicator as to when his *(her?)* 1 Buff is active, likewise banned in the SPL.
 
  - Neith
-   -  Ms. Diagnosis / Scarlet Dangerfield Neith, the AoE for her 2 is harder to see due to being somewhat more transparent and blending into to most terrain textures.
-   -  Harajuku Neith has a unique Ult indicator, which can conceal the incoming indicator, especially if near a wall.
-   -  Buccaneith / Baroness / Scarlett Neith's weaves appear Red from her point of view. Almost a non-issue, unless playing into another Neith, at which point Passive Weave are almost indistinguishable.
+   -  Ms. Diagnosis / Scarlet Dangerfield Neith has a harder to see 2 / AoE, due to being somewhat more transparent and blending into to most terrain textures.
+   -  Harajuku Neith has a unique Ult indicator, which can conceal the warning cue, especially if near a wall.
+   -  Buccaneith / Baroness / Scarlett Neith's weaves appear Red from her point of view. Almost a non-issue, unless playing into another Neith, at which point Passive Weaves are almost indistinguishable.
 
  - Nemesis
    - \
@@ -543,11 +565,11 @@ And no, you can't eat it.
    - Grim Shadow & Mystical Manipulator Nox makes her silence harder to see; Mystical Manipulator banned at the SPL level.
 
  - Nu Wa
-   - Nu Wa's Ult comes - Nuclear
+   - Nuclear Nu Wa
    - Mystic Enchantress Nu Wa
 
  - Odin
-   - Infernal Father Odin's Ult will not just cage in targets, but wall off all vision outside of the cage. Additionall, his 3 / Runic Pulses have much darker and clearer VFX.
+   - Infernal Father Odin's Ult will not just cage in targets, but wall off all vision outside of the cage. Additionally, his 3 / Runic Pulses have much darker and clearer VFX.
 
  - Olorun
    - \
@@ -569,25 +591,25 @@ And no, you can't eat it.
    - Vapor Wave Poseidon is the worst offender he has to choose from, with functionally silent effects on all abilities a delayed 3 / whirlpool, and a 1 / 'Wave' that looks completely out of place.
 
  - Ra
-   - Unholy Doodle's 1 / Line has an exagurrated VFX of a pencil erasing the ground, obscuring the area that's actually dealing damage *(ie, all of the region the pencil wobbles)*. Previously this was more pronounced *(with a more erratic 1, a less visible boundary for his 2 & Ult)* but the skin was updated to have more clear VFX across all abilities. Despite this, the skin is still banned by SPLshitters.
+   - Unholy Doodle's 1 / Line has an exaggerated VFX of a pencil erasing the ground, obscuring the area that's actually dealing damage *(ie, all of the region the pencil wobbles)*. Previously this was more pronounced *(with a more erratic 1, a less visible boundary for his 2 & Ult)* but the skin was updated to have more clear VFX across all abilities. Despite this, the skin is still banned by SPLshitters.
    - Sunstar / Starbreaker has almost completely silent sound cues on Ult, and his 2 / Blind has near-identical VFX to using Aegis.
-   - Megatron moves completely differently to Ra's usual skeleton, and the Special Emote can make him barely distinguishable. Even amongst Crossover skins with unorthadox models and VFX, Megatron Ra stands out as Skin Advantage.
+   - Megatron moves completely differently to Ra's usual skeleton, and the Special Emote can make him barely distinguishable. Even amongst Crossover skins with unorthodox models and VFX, Megatron Ra stands out as Skin Advantage.
 
  - Raijin
-   - Drums Out Raijin's Ult uses easier-to-read projeciles with less particle effects; clearly indicating where they will and will not hit. Additionally, they are somewhat harder to read as to the effect of the Ult-projectile, since their colour is less obvious.
+   - Drums Out Raijin's Ult uses easier-to-read projectiles with less particle effects; clearly indicating where they will and will not hit. Additionally, they are somewhat harder to read as to the effect of the Ult-projectile, since their colour is less obvious.
 
  - Rama
    - Orbital Strike Rama has less noticeable projectiles, identical VFX for his 2 and 3 buff and has an extremely quiet startup on Ult.
 
  - Ratatoskr
-   - The Fusion / Chibi Rat skins, Deep Space and Raxolotl do not have skin-effects corresponding to their Acorn'. Additionally, due to their 
+   - The Fusion / Chibi Rat skins, Deep Space and Raxolotl do not have skin-effects corresponding to their Acorn.
 
  - Ravana
    - \
 
  - Scylla
    - Scylla's 'notorious' Skin Advantage skins ~~are~~ were Child's Play and Bewitching Bunny. Child's Play came with a feinter VFX for the 2 / Crush and overall feinter SFX across the skin; while Bewitching Bunny's has it's altered Ult silhouette and quieter chirrup SFX effect on the 3 / Hound Sentry. I am telling you, right now, these are fucking nothing. This has never been Skin Advantage, this is SPL cope and seethe over the fact Scylla scores teamwipes, so obviously she NEEDS skin bans. Both these skins are still banned to this day, despite neither offering any meaningful advantage, and both being 'fixed' in the meantime.
-     *Hilariously, the 'fix' for 3 / Hound-Sentry on Bewitching Bunny was to have the cute tiny bunny have an obnoxiously loud wolf's bark overlayed on top of the rabbit chirruping, making it far, far louder than the usual SFX on her 3. That said, nobody gives a fuck about the SFX on Scylla's 3, and in the entire history of SMITE, it has not been the deciding factor in any meaningful fight. One in-game quote from the gen's resident no-audio Anon and Scylla main was "i can garantee you how slutty a scylla skin is is more important than loud her dog is". In this regard, I somewhat trust the expert.*
+     *Hilariously, the 'fix' for 3 / Hound-Sentry on Bewitching Bunny was to have the cute tiny bunny have an obnoxiously loud wolf's bark overlayed on top of the rabbit chirruping, making it far, far louder than the usual SFX on her 3. That said, nobody gives a fuck about the SFX on Scylla's 3, and in the entire history of SMITE, it has not been the deciding factor in any meaningful fight. One in-game quote from the gen's resident no-audio Anon was "i can garantee you how slutty a scylla skin is is more important to themm than loud her dog is". In this regard, I somewhat trust the expert.*
    - On the other hand, Terror of the Deep Scylla can use her Special Emote's startup animation to feign travelling her 3 / Hound-Sentry, tricking opponents into thinking she's disengaging. You can pull some scummy tricks with this, yet despite this, this skin is not banned at an SPL level~~, because they're shitters who can't think of an original idea or strategy past metaslaving~~.
 
  - Serqet
@@ -608,6 +630,9 @@ And no, you can't eat it.
  - Sol
    - Spell Slinger / Fallen Star looks very similar to Hel, with Fallen Star having almost no visible indicator as to when she has her Heat-Passive active, as well as a slower read on when she begins to use her 3 / Dissipate.
 
+ - Surtr
+   - \
+
  - Susano
    - \
 
@@ -618,10 +643,10 @@ And no, you can't eat it.
    - For Dropkick Terra, the boundaries of her 3 / Monolith are extremely well-defined, and does help; even if she doesn't have much trouble with feint boundaries to begin with.
 
  - Thanatos
-   - Thanatos is a member of the Winged-God Squad. Some of his skins have no wings, making it easier to see his surroundings, others have wings so large he hs trouble identifying which Harpy he's attacking at a given Jungle Camp.
+   - Thanatos is a member of the Winged-God Squad. Some of his skins have no wings, making it easier to see his surroundings, others have wings so large he has trouble identifying which Harpy he's attacking at any given Jungle Camp.
        - No Wings / Advantage
 			 - Ruby
-			 - Deathy Chibi
+			 - Deathly Chibi
 			 - Reaper Tech
 			 - Draconic Devastator
        - Noticeably-Large Wings / Disdvantage
@@ -640,17 +665,17 @@ And no, you can't eat it.
  - Thor
    - \
 
- - Tiamat
+- Tiamat
    - \
 
  - Tsukuyomi
    - \
 
  - Tyr
-   - Sock Puppetyr's Sock Voicelines just will not shut the fuck up, especially after Ult. Slight disadvantage.
+   - Sock Puppetyr's Sock Voicelines just will not shut the fuck up, especially after Ult. Slight disadvantage, since the enemy always knows where you are for 5 seconds after doing anything with a audiable voiceline.
 
  - Ullr
-   - Cutting Edge Ullr Fun-pocalypse Ullr
+   - Cutting Edge Ullr & Fun-pocalypse Ullr is banned at an SPL level. No idea why.
    - Despite it's popularity amongst tryhards, the Survior skin has no actual skin benefits, aside from clean animations and simple effects.
 
  - Vamana
@@ -667,7 +692,7 @@ And no, you can't eat it.
 
  - Yemoja
    - Angelic Archon = Distracting = Banned
-   - Void Sorceress = Darker / Feinter
+   - Void Sorceress = Darker / Feinter = Banned
 
  - Ymir
    - Nuclear Ymir's extra smoke on Ult obscures all friendly ground targeters (eg Rama / Scylla Ult).
@@ -684,7 +709,7 @@ And no, you can't eat it.
 
 ##Unique Details / Special Effects
 
- To begin with, all Diamond Skins have additional sparkle effects added to all particle effects. This is easiest seen on Gods like He Bo, with heavy particle effects. Past that...
+ To begin with, all Diamond Skins have additional sparkle effects added to all particle effects. This is easiest seen on Gods like He Bo or Charon, with heavy amounts of extra particle effects as a result. However many skins in SMITE have extemely obscure details, animations, or special easter-eggs unique to the skin. To save you loading into a Practice Match and trying all ~1,750 skins out in the game for yourself, the following are the most notable ones (with actual changes);
 
  - Achilles
    - Tiger's Fury Achilles is a full forme shift on each stance, with rigged facial animations in both stances.
@@ -692,7 +717,7 @@ And no, you can't eat it.
 
  - Agni
    - Volcanic Agni uses his pre-remodel skeleton and animations, on top of some of his old emotes (Wave, Clap, Laugh, Taunt; but not Furious).
-   - Shell Shock Agni Special Emote allows shoots mustard gas from his hands.
+   - Shell Shock Agni Special Emote allows him to spray mustard gas from his hands, in the direction he's moving away from.
 
  - Ah Muzen Cab
    - [No current special skin effects]
@@ -708,25 +733,32 @@ And no, you can't eat it.
    - Duke Dan de Lyons Anhur has a unique Wave. He tips his hat. Despite being part of a wider skinline *(The Gentlemen; shared with Kukulkan, Fenrir, Sun Wukong, Kumbhakarna, Ymir and Set)*; this is the only skin in the line that does this.
 
  - Anubis
+   - Freedom Retriever Anubis uses the larger-scale Anubis skeleton, making him notably taller and using alternate Basic animations. Additionally has a custom ability animations *(firing fireworks out his jetpack on his 1, and using a gatling gun for Ult)*.
+   - Heavy Hitter Anubis has a reworked set of ability animations, with a general boxing theme *(backflips when casting 3, rapidly punches for his 1/Ult)*
    - Demonic Pact Anubis progresses through 4 formes from Base, then at Level 5, 10 and 15.
        - His base Special Emote is flourishing his staff.
        - At Level 5, his 1 / Breath, 2 / Wraps and Special Emote change
-       - At Level 10, his Ult and 3 / AoE Hands change
+       - At Level 10, his Ult and 3 / AoE Hands change, and he shifts to a larger version of his base skeleton with new Basic animations
        - At Level 15, his Basic Attack animation, all his ability animations and his Special Emote changes. Additionally, when using his Special Emote of Ult, the skybox burns up. Additionally, his Furious emote gains new effects, but is still the same animation.
 
  - Ao Kuang
-   - Most of his Skins change his Ult / Dragon forme in some way. Past the 'dragons';
-       - Cursed Blood Ao Kuang turns his Ult into a Giant Bat
-       - Admiral turns his Ult into a Giant Boat, with a custom Win / Loss screen to boot.
+   - Cursed Bloodline Ao Kuang uses a rapier, and his 2 / Mini-dragons are replaced with small Bats.
+   - Most of his Skins change his Ult / Dragon forme in some way;
+       - Clockwork Knight Ao Kuang turns his Ult into a Steampunk-styled Western Dragon.
+       - Sand Viper Ao Kuang turns his Ult into a Sand-Wyrm.
+       - Cursed Bloodline Ao Kuang turns his Ult into a Giant Bat.
+       - Dragon Knight / Dragon Templar Ao Kuang turns his Ult into a Western Dragon.
+       - Admiral Ao Kuang turns his Ult into a Giant Boat, with a custom Win / Loss screen to boot.
+       - The Chosen Dragon Ao Kuang turns his Ult into a unqiue-looking Chinese Dragon with huge forward-pointing tusks.
 
  - Aphrodite
-   - Ice Queen Aphrodite Special Emote allows her to skate around, leaving an ice effect on the floor beneath her
+   - Ice Queen Aphrodite Special Emote allows her to skate around, leaving an ice effect on the floor beneath her.
    - Med-Tech Aphrodite Special Emote spawns a small medic-drone that orbits her until she takes an action. Additionally, the drone replaces her 3 / Doves animation (for both her an her link) for the duration it heals for.
    - Oasis Djinn Aphrodite Special Emote allows her to float on a carpet with her arms crossed. If linked, there's an additional cloud effect swirling above her head.
 
  - Apollo
-   - Divine Machina Apollo has a complete set of unique emotes (Wave, Clap, Laugh, Taunt), that uses his detachable mecha-hands. Additionally, he has a custom Win / Loss screen.
-   - Hopper Apollo
+   - Divine Machina Apollo has a complete set of unique emotes (Wave, Clap, Laugh, Taunt), that uses his detachable mecha-hands. Additionally, this skin has a custom Win / Loss screen.
+   - Hopper / Hopper P.I. Apollo has slightly modified animations as he uses guns instead, and his 3 / Dash is replaced with a shoulder-charge. The Special Emote has him place a steaming waffle on the floor. This can be done as many times as you want, and the waffle persists for the entire match. You have to be stationary to do this. While there is a custom Win/Loss screen, his default Emores are not unique.
 
  - Arachne
    - Itsy-Bitsy Chibi Arachne Special Emote creates a floating web-hammock which Arachne will sleep in. This continues until she next takes a non-movement action.
@@ -762,16 +794,16 @@ And no, you can't eat it.
    - Gingerdread Baba Yaga Special Emote yanks the witch hat off her head, holds it in one hand then slowly sprinkles sweets and candy in a trail behind her as she moves forward. Does nothing while standing still, moving to the side or moving backward, and the sweets / candy left behind fade quickly after *(unlike the spray paint special emotes, which are near-permanent for the entire match)*.
 
  - Bacchus
-   - Bearly Buzzed Bacchus Special Emote has a swarm of audiably buzzing bees chase him around, as he runs in a panic. The lasts until he takes his next non-movement action.
+   - Bearly Buzzed Bacchus Special Emote has a swarm of audiably buzzing bees chase him around, as he runs in a panic. The lasts until he takes his next non-movement action. Bearly Alive Bacchus (the recolour of this skin) does not have this Special Emote.
    - Iroh Bacchus Special Emote has him conjure and shoot a small lighning bolt upward. This can be done while moving, but is not on a loop, and is cancelled with any other action.
 
  - Bakasura
-   - Demogorgon Bakasura Special Emote has him drop to all fours and begin to crawl around. He no longer has in-combat animations, but instead his flower-face will open and close depending on if his is in or out of combat. The animation for his 2 is modified to have him bite with his flower-face, and his Dance Emote is modified into aimlessly flailing his arms around (other Emotes are unchanged). Finally, this is one of the few skins in the game with no actual voice lines, just grunts and screeches.
+   - Demogorgon Bakasura Special Emote has him drop to all fours and begin to crawl around until he next takes a combat action. He no longer has in-combat animations, but instead his flower-face will open and close depending on if his is in or out of combat. The animation for his 2 is modified to have him bite with his flower-face, and his Dance Emote is modified into aimlessly flailing his arms around (other Emotes are unchanged). Finally, this is one of the few skins in the game with no actual voice lines, just grunts and screeches.
    - Tacosura Bakasura Special Emote has him turn into a literal taco and bounces around, until he next takes an action.
 
  - Baron Samedi
    - Half Life Baron Samedi Special Emote allows him to surf around on his coffin while moving.
-   - Funny Bones Baron Samedi Special Emote will have him hover and dance around on his staff. Additionally, if timed correctly, cancelling his custom recall animation on the last frame will make his hat gigantic until death.
+   - Funny Bones Baron Samedi Special Emote will have him hover and dance around on his staff. Additionally, if timed correctly, cancelling his custom recall animation on the last frame will make his hat gigantic until either next recall or death.
    - Stellar Demise
          - A
          - A
@@ -779,7 +811,7 @@ And no, you can't eat it.
          - A 
 
  - Bastet
-   - Bunny
+   - [No current special skin effects]
 
  - Bellona
    - Runescape (custom recall drawing a runic circle, capes applied, Special Emote, spoken text effect above head)
@@ -791,23 +823,23 @@ And no, you can't eat it.
 
  - Cabrakan
    - Fat Loki Cabrakan Special Emote uses the same animation as Loki's pre-rework taunt / AoE attack, floating and flailing his limbs around.
-   - Tremor Tech Cabrakan Special Emote uses one of his shields as a hoverboard. Additionally, while his 1 / self-buff is active, the rotors on his shields will whir.
+   - Tremor Tech Cabrakan Special Emote uses one of his shields as a hoverboard. Additionally, while his 1 / self-buff is active, the rotors on his shields will whirl.
 
  - Camazotz
    - Brimstone Beast Camazotz sets himself on fire while recalling.
    - Jurassic / Terror-Dactyl Camazotz is one of the few skins in the game with no actual voice lines, just grunts and screeches.
 
  - Cerberus
-   - Pup Patrol Cerberus Special Emote drags his ass along the floor.
-   - Warmaker Cerberus completely changes all of Cerberus's animations. Additionally, his Special Emote transforms him into a mobile tank.
+   - Pup Patrol Cerberus Special Emote drags his ass along the floor until he next takes any non-movement action.
+   - Warmaker Cerberus has completely unique Ability and Emote animations. Additionally, his Special Emote transforms him into a mobile tank.
 
  - Cernunnos
    - Great Tengu Cernunnos Special Emote has him float around atop his spinning Glaive.
-   - Pixel Beast Cernunnos
+   - Pixel Beast Cernunnos Special Emote holds his gauntlet-arm to the side while drawing in an energy SFX, and loudly revs the motor (even louder as he moves). This Special Emote can be spammed to make the loud revving even louder still.
 
  - Chaac
    - Dark Lord Chaac's backpack-thing glows if his Passive is charged.
-   - Slaughterhouse Chaac becomes progressively bloodier, the more kills he has, up to 3 times. This effect resets upon each death.
+   - Slaughterhouse Chaac becomes progressively bloodier, the more kills he has, up to 3 times. This effect resets upon death.
    - Radical Rex Chaac Special Emote begins to play his Axe-instrument, surrounded by a neon grid and sparkling lights. Each time he taps the axe, a synthetic beat plays - to get the highest tempo, either walk straight forward or walk backwards and to the side. While moving directly backwards, he will moonwalk. Additionally, the Tyrannosaurus Rex head is fully modelled to his mouth animations (including his Laugh Emote), although the skin features no additional changes to his Emotes. Finally, when Ulting, a cyber-jaguar will run around the radius of his Ult targetter.
    - Mick Thompson / Jim Root / Alessandro Venturella Chaac Special Emote will spawn some floodlights above them *(making a stage)*, make a rock sign with their hand *(you know, the one with the index and pinkie up)* while playing a Slipknot song for everyone to hear.
    - Forgotten Gods Chaac can switch between 3 formes with completely unique effects, by using either his Ult or Special Emote. Additionally, after 10 kills, the orb in his axe glows.
@@ -815,6 +847,9 @@ And no, you can't eat it.
  - Chang'E
    - Pirate Admiral / Pirate Queen Chang'E Special Emote holds her sword forward, as she rides atop a floating barrel.
    - Countess Chang'E Special Emote spawns an orb of bats as she moves, while additionally playing some Harpsichord music.
+
+ - Charon
+   - [No current special skin effects]
 
  - Charybdis
    - [No current special skin effects]
@@ -833,20 +868,20 @@ And no, you can't eat it.
 
  - Cthulhu
    - Dread President Cthulhu Special Emote has him assume one of three random poses (two where he flexes his muscles, one where he stands at attention and salutes). All these have him float in a fixed position with fireworks going off around him, until he next takes a non-movement action.
-   - Toon Mania Cthulhu switches forme on each ability (Normal, Cowboy, Pilot). Special Emote has an additional forme (Biker) where he rides around in a car until he makes another action. While in his car, he can honk the horn (using a button that is unbound for basically everything else). Additionally, when insane, the enemy will see Cthulhu in Black and White. All his animations and Emotes are reworked, with extreme amounts of slapstick focus throughout.
+   - Toon Mania Cthulhu switches forme on each ability (Normal, Cowboy, Pilot). Special Emote has an additional forme (Biker) where he rides around in a car until he makes another action. While in his car, he can honk the horn (using a button that is unbound for basically everything else). Additionally, when insane, the enemy will see Cthulhu in Black and White. All his animations and Emotes are reworked, with extreme amounts of cartoon-slapstick focus throughout.
 
  - Cu Chulainn
    - Enchanted Boyfriend Cu Chulainn uses a custom chest skeleton. While 'beefier', it has no animations to indicate his rage status (unlike the 'pulsing' found in his default and other skins).
 
  - Cupid
    - Spooky Nightmares Cupid Special Emote allows him to sleep on a cloud while moving around
-   - Invader Zim Cupid Special Emote
+   - Invader Zim Cupid Special Emote has him ride around on a Pig-robot, until he takes his next non-movement action.
 
  - Da Ji
-   - Death Lotus Da Ji Special Emote shifts the skybox to a cloudy night, and has her across wooden logs that spawn in front of where she moves. Moving forward backflips, moving to the side hops~~, moving backward spreads her legs wide out mid-jump, teasing whoever is in front of her~~.
+   - Death Lotus Da Ji Special Emote shifts the skybox to a cloudy night, and has her hop across wooden logs that spawn in front of where she moves. Moving forward backflips, moving to the side hops~~, moving backward spreads her legs wide out mid-jump, teasing whoever is in front of her~~.
 
  - Danzaburou
-   - Rocko Danzaburou
+   - Rocko Danzaburou Special Emotehas him ride around ona vaccuum-robot, until he takes his next non-movement action.
  
  - Discordia
    - Dragon Keeper Discordia holds up the little dragon (in place of her Golden Apple), and periodically spins around while giving it a hug or throws it upward. This continues until she takes her next non-movement action.
@@ -866,24 +901,24 @@ And no, you can't eat it.
 
  - Freya
    - Weiss Schnee Freya Special Emote has her make a few poses atop a spinning platform.
-   - Jenny XJ-9 Freya
+   - Jenny XJ-9 Freya Special Emote has her activate her wings and move around while flying. ~~There is a way to break this and make it a permanent addition to her model until her next death, but I don't actually know how.~~ Additionally, her 2 is replaced witha blaster-arm.
 
  - Ganesha
-   - Mouse Force Ganesha has a complete set of unique emotes(Wave, Clap, Laugh, Taunt), with the focus on the mouse piloting the mech.
+   - Mouse Force / Tabby Toil Ganesha has a complete set of unique emotes (Wave, Clap, Laugh, Taunt), with the focus on the mouse / cat piloting the mech.
    - Plushie Ganesha Special Emote has him rolls around like / turn into a ball of yarn.
    - DJ Ohm Ganesha is part of the Disco skinline, and so his Special Emote has him create a small dancefloor around himself with some electronic music playing.
 
  - Geb
-   - Optimus Prime Geb Special Emote 'transforms' him into his Truck form, that can move around as he pleases. His 1 is also turned into a Truck (albeit pulling cargo) and all his Emotes are reworked (with his Dance Emote being him doing the robot). This skin cannot use the Save the Earth Special Emote.
+   - Optimus Prime Geb Special Emote 'transforms' him into his Truck form, that can move around as he pleases. His 1 is also turned into a Truck (albeit pulling cargo) and all his Emotes are reworked (with his Dance Emote being him doing the robot). This skin cannot use the Save the Earth Special Emote ~~because he used to, but it made him permanently invisible until death.~~
 
  - Gilgamesh
-   - Powdered Toast Man Gilgamesh
+   - Powdered Toast Man Gilgamesh Special Emote has him superman-fly, but in a backwards position (as the character does in the show).
 
  - Guan Yu
-   - 
+   - [No current special skin effects]
 
  - Hachiman
-   - 
+   - [No current special skin effects]
 
  - Hades
    - Ragnarok Hades Special Emote and Ult each burn up the skybox on use.
@@ -892,14 +927,13 @@ And no, you can't eat it.
          - Before Lv10, most of his animations and Emotes are near-identical to his base skin, with the excption of his Dance Emote which has the crow dance a little jig atop his staff (that he places to his side while doing his 'normal' dance). The Special Emote in this form has him hold his staff aloft, and be pulled upwards, exposing more of the tar-tendrils that reach into the floor.
          - After Lv10, he forme shifts into ~~Cu Chulainn rage mode~~ a bulkier crow-monster that drags itself around, complete with a new skeleton and a new set of animations for abilities and Emotes. Dance Emote is modified into him holding up his pet crow, and the crow doing a little jig, meanwhile the Special Emote has the crow-monster begin to take flight a small distance off the floor. In terms of abilities, the main different one is his Ult, which has the monster physically appear to pull people in (on top of the vortex effect).
 
-
  - He Bo
    - Cascade He Bo uses the same animated texture for all his effects.
    - He Bro / Syndey Shredder He Bo each use custom animations and skeletons, complete with custom Emotes.
    - Infinite Shift He Bo has an additional effect on his water spout / 1 that refracts the view around it.
 
  - Heimdallr
-   - 
+   - [No current special skin effects]
 
  - Hel
    - Pop Punk Hel Special Emote has her strike a pose with her mic, then start playing some music as a crowd cheers behind her. The music is different in each stance.
@@ -921,19 +955,19 @@ And no, you can't eat it.
  - Hou Yi
    - Prince of the Night Hou Yi transforms into a bat while using his leap.
    - Sylvian Sentinel Hou Yi Special Emote turns himself into a bush. Sadly, his bow is still visible, so it is ineffective camouflage. This continues until he takes his next non-movement action.
-   - Totem Caller Hou Yi.
-         - A
-         - A
-         - A
-         - A
-     Additionally, there is a 1% chance that instead of the usual Ult animation, instead the creature summoned will fart on the battlefield.
+   - Totem Caller Hou Yi has a complete set of reworked effects and animations; with each of his Abilities being represented by a pet. At Lv1-9 he is unmasked, but at Lv10 this skin 'evolves' to gain a shroud, a crown, an additional back-decoration and a shimmering-blue effect across his decorations. The Special Emote will randomly choose one of the non-Ultimate Ability pets and have them orbit you until yur next non-movement action.
+         - Hou Yi's Bow is replaced by a Fire-Lizard. Aside from it being his Clap Emote, this doesn't do much.
+         - Hou Yi's 1 / Riccochet is replaced by a Burrowing Earth-Lizard. This Lizard will very slowly trail underground behind him occasionally jumping out and diving back in, and spawning back next to Hou Yi if he stays too far behind. This effect is paused while the ability is active. 
+         - Hou Yi's 2 / Mark is replaced by a Spirit-Animal that takes the form of a glowing purple orb. When used, it will float around the targets head in animal form, and once off cooldown, it will fade in and out next to Hou Yi in it's animal form, before returning back to a purple orb.
+         - Hou Yi's 3 / Leap is replaced by a Winged-Animal that perches on the decoration floating behind Hou Yi.
+         - Hou Yi's Ult is replaced by a colossal Kaiju-monster that will spawn between the outer-edge of the map and the skybox (always opposite of where Hou Yi is looking); firing a massive laser, and walking away + fizzling out once finished. Additionally, there is an extremely rare ~1% chance that instead of the usual Ult animation, the creature summoned will instead fart on the battlefield.
 
  - Hun Batz
    - Hun.BAT Hun Batz is part of the Tron skinline, and as such his skin accents and card art accents will slowly cycle through the rainbow.
    - Bun Hatz Hun Batz Special Emote has him use the baguette as a pogo stick while moving. This continues until he takes his next non-movement action.
 
  - Ishtar
-   - Striking Archon Ishtar has a modified animation for her 3 / Dash, where she uses her wings to fly back rather than backflip off a target.
+   - Striking Archon Ishtar has a modified animation for her 3 / Dash, where she uses her wings to fly back, rather than backflip off a target.
 
  - Ix Chel
    - [No current special skin effects]
@@ -962,76 +996,81 @@ And no, you can't eat it.
    - Goose Chase Jormungandr Special Emote cycles through one of three honking animations. This is arguably the most devastating form of psychological torture in the game, especially if spammed (or worse, bound to a key binding and spammed)
 
  - Kali
-   - 
+   - [No current special skin effects]
 
  - Khepri
    - Crab Rave Khepri Special Emote allows him to.... Crab Rave. *This is currently bugged however, and will cancel itself each time his passive automatically applies a shield to him - meaning you are unable to fully crab-rave.* His default Dance Emote is unaffected.
 
  - King Arthur
-   - 
    - Green Knight King Arthur Special Emote turns himself into a bush. Aside from his legs, this is a perfect camouflage, and many opponents will easily be bewildered and bamboozled if you stay still, walking by completely unaware as if you are not there.
    - Crimson Authority King Arthur has a custom recall animation, where he does the usual twirl, but fades into the ground instead.
 
  - Kukulkan
    - Dragon Doggo Kukulkan Special Emote has him chase his tail in a circle while floating. This lasts until he takes his next non-movement action.
-   - Winds of Change Kukulkan shifts through 3 formes (Forest-dragon, Light-dragon, Void-wyrm) upon using Ult; each with unique effects on their various abilities. Special Emote
-   - Winds of Change Kukulkan shifts through 3 formes (Forest-dragon, Light-dragon, Void-wyrm) upon using Ult; each with unique effects on their various abilities. Special Emote
-         - A
-         - A
-         - A
+   - Infernal Winds Kukulkan uses the same skeleton and animations as the Light-dragon forme of Winds of Change Kukulkan.
+   - Winds of Change Kukulkan shifts through 3 formes (Light-dragon, Forest-dragon, Void-wyrm) upon using Ult.
+		Each forme's animations are deceptively identical *(aside from the each forme's 2 / Slipstream, and the Void-wyrm's 3 / Tornado)*, but with distinctly different VFX and SFX that makes them appear completely unique. Each forme has a unique Laugh, Recall and Death Animation; but they all share a unique Wave, Clap, Taunt and Dance Animation.
+		Using the Special Emote will have Kukulkan turn around and 'channel' energy until you make your next action; allowing you to slowly switch between formes while out of combat.
 
  - Kumbhakarna
-   - Spooky Dreams Kumbhakarna Special Emote
-   - Warlord Kumbhakarna Special Emote
-   - General Nosseris Kumbhakarna Special Emote
+   - Spooky Dreams Kumbhakarna Special Emote uses his staff as a floating bed, lying back and sleeping (with soft cricket chirping SFX) until he takes his next non-movement action. ~~Spinning during this emote is especially distracting, since the centrepoint of the model is at his feet / end of the staff, not in the middle of his model.~~
+   - Warlord Kumbhakarna Special Emote loudly plays his staff like a guitar, with associated SFX and periodically spewing flames out of one end.
+   - General Nosseris Kumbhakarna Special Emote has him hold his staff sideways, before raising it above his head and roaring loudly. This Special Emote has a 10s internal cooldown and cannot be used in-combat.
    - Princess Sleepyhead Kumbhakarna Special Emote lets him float around, sat atop on his staff waving at people.
 
  - Kuzenbo
-   - Slash Kuzenbo Special Emote causes purple-dirt particle effects to emanate off his shell.
+   - Crime Boss Kuzenbo's Ult animation is replaced by him dual-wielding Tommy-guns and spinning around.
+   - Slash Kuzenbo Special Emote causes purple-dirt particle effects to emanate off his shell. It also has a custom recall animation (a small ninja-flourish) and a custom Win-Loss Screen.
 
  - Lancelot
    - [No current special skin effects]
 
  - Loki
-   - Croaki Loki has custom jumps, which has him hop and twirl around
+   - Croaki Loki has custom jumps, which has him hop and twirl around (like a frog).
    - Headless Norseman Loki Special Emote plays his laugh voiceline for his 1, before bouncing his Jack-o-Lantern head up with his right hand. While moving, the headless body shuffles around, and the head leaves a flame-trail. This Special Emote can be used during invisibility, and will continue until he takes his next non-movement action.
-   - Raphael Loki is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action.
+   - Raphael Loki is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action. Jumping while in this state does kickflips and other skateboarding tricks.
+
+ - Martichoras
+   - Necromalice Martichoras has a sentient tail which reacts to the various actions Martichoras performs.
+
+ - Maman Brigitte
+   - [No current special skin effects]
 
  - Maui
    - [No current special skin effects]
 
  - Medusa
    - iDusa Medusa's highlights change colour when in or out of combat.
-   - Sea Maiden Medusa Special Emote brings out a Seahorse-shaped harp, and begins to sing a melody until her next non-movement action. Additionally, her spit is indicated with a musical note, and her card art has animated underwater effects. ~~She also has a visible ass.~~
+   - Sea Maiden Medusa Special Emote brings out a Seahorse-shaped harp, and begins to sing a melody until her next non-movement action. Additionally, her spit is indicated with a musical note, and her card art has animated underwater effects. ~~She also has a visible ass-outline.~~
    - Tormented Soul Medusa Special Emote floats her lantern in front of her, with a soft ringing sound. This continues until Medusa next takes her next non-movement action. 
-   - Megoosa Medusa Special Emote has the goose-heads as her hair begin to pathetically honk, in an admittedly menacing fashion. This continues until Medusa next takes her next non-movement action. Additionally, this skin has goose-related SFX for all actions, and hits with Basic Attacks produce a splattered-egg effect.
+   - Megoosa Medusa Special Emote has the goose-heads for her hair begin to pathetically honk, in an admittedly menacing fashion. This continues until Medusa next takes her next non-movement action. Additionally, this skin has goose-related SFX for all actions, and hits with Basic Attacks produce a splattered-egg effect.
 
  - Mercury
    - Shaolin Fury Mercury uses a completely different set of attack animations, where he kicks instead of punches.
    - Run.EXE Mercury is part of the Tron skinline, and as such his skin accents and card art accents will slowly cycle through the rainbow.
-   - Rocket Punch
-   - Michaelangelo Mercury is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action.
-   - Demon Puncher Mercury uses a modified set of animations and facial animations, most notably including no out-of-combat animations.
+   - Rocket Punch Mercury Special Emote hovers in the air using the thrusters on his back and calves. This has no movement animation, and is just a static pose in the air while hovering, until Mercury next takes any non-movement action.
+   - Michaelangelo Mercury is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action. Jumping while in this state does kickflips and other skateboarding tricks.
+   - Demon Puncher & Celestial Messenger Mercury uses a modified set of animations and facial animations, most notably including no out-of-combat animations.
 
  - Merlin
-   - Aang Special Emote allows him to ride a ball of wind around.
-   - Master Soulbinder Special Emote allows him to float around.
+   - Aang Special Emote allows him to ride around on a ball of wind. Additionally, he has fully reworked Default Emotes and animations.
+   - Master Soulbinder Special Emote allows him to float around above a pentagram-symbol on the floor, while posed with one arm behind his back.
    - Cybershadow Merlin Special Emote allows him to hover around, using his arms as propulsors.
-   - Wise Old Man Merlin
+   - Wise Old Man Merlin Special Emote casts a 3-stage spell. You cannot move while doing this.
 
  - Morgan Le Fay
    - Infinite Oracle Morgan le Fay Special Emote floats around while T-posing, leaving a crystalline-effect trail behind her.
    - Summer Eclipse Morgan le Fay Special Emote floats around with her sword held up, firing blue fireworks upward.
 
  - Mulan
-   - Sentai Mulan has incorrect textures on her legs, giving the effect that they're notched and cut up.
+   - [No current special skin effects]
 
  - Ne Zha
    - Critical.DMG Ne Zha is part of the Tron skinline, and as such his skin accents and card art accents will slowly cycle through the rainbow.
    - Playmaker Ne Zha Special Emote has him spawn in a puck and begin to dribble it around / play hockey with his stick.
 
  - Neith
-   - Buccaneith / Sea Shanty Neith are each accompanied by a pre-remodel monkey from Sun Wukong's old second ability *(which is now Hun Batz's shadow monkey ability)*. The micro-monkey has unique animations for many of her idle animations, reacts to her waving and will dance alongside her.
+   - Buccaneith / Sea Shanty Neith are each accompanied by a pre-remodel monkey from Sun Wukong's old second ability *(which is now Hun Batz's 2 / Shadow Monkey)*. The micro-monkey has unique animations for many of her idle animations, reacts to her waving and will dance alongside her.
    - Basscanon Neith is part of the Disco skinline, and so her Special Emote has her create a small dancefloor around herself with some electronic music playing.
    - Blessed Dragonhide Neith
 
@@ -1039,13 +1078,13 @@ And no, you can't eat it.
    - Vanquisher / Deliverer Nemesis Special Emote will hold her sword forward, while a ray of light shines over her.
 
  - Nike
-   - Fallen Angel Nike has a unqiue Passive indicator, where, instead of a halo, it shows 3 flames on the front of each players head.
+   - Fallen Angel Nike has a unqiue Passive indicator where, instead of a halo, it shows 3 flames on the front of each players head.
    - Star-Spangled Nike Special Emote allows her to hover around using her wings. This can still be used while Ulted.
 
  - Nox
-   - Depths of Atlantis Nox Special Emote makes the Jellyfish that are usually on her staff, orbit her instead.
+   - Depths of Atlantis Nox Special Emote makes the Jellyfish that are usually on her staff orbit her instead, that persists until she takes an action.
    - Dragon Preistess Nox Special Emote spawns a small dragon to her side, that persists until she takes an action.
-   - Electric Dream Nox is part of the Disco skinline, and so her Special Emote has her create a small dancefloor around herself with some electronic music playing. Additionally, her hips are completely exposed.
+   - Electric Dream Nox is part of the Disco skinline, and so her Special Emote has her create a small dancefloor around herself with some electronic music playing. You can repeat this Special Emote while active to change the music playing. Additionally, her hips are completely exposed.
 
  - Nu Wa
    - Old Wa uses Nu Wa's pre-remodel skeleton and animations. Additionally, after Ulting, she will shift into her serpentine forme and use those animations for the remainder of the match until killed, much like how her old Passive used to temporarily work.
@@ -1059,7 +1098,7 @@ And no, you can't eat it.
    - [No current special skin effects]
 
  - Osiris
-   - Leonardo Osiris is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action.
+   - Leonardo Osiris is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action. Jumping while in this state does kickflips and other skateboarding tricks.
 
  - Pele
    - Heatsink Pele Special Emote allows her to float around using her daggers as hoverloard-skates.
@@ -1072,10 +1111,10 @@ And no, you can't eat it.
    - Sid Wilson / Craig Jones / Corey Taylor Poseidon Special Emote will spawn some floodlights above them *(making a stage)*, make a rock sign with their hand *(you know, the one with the index and pinkie up)* while playing a Slipknot song for everyone to hear.
 
  - Ra
-   - Sun.GOD Ra is part of the Tron skinline, and as such his skin accents and card art accents will slowly cycle through the rainbow.
+   - Sun.GOD Ra is part of the Tron skinline, and as such his skin accents, VFX and card art accents will slowly cycle through the rainbow.
    - Phoenix Ra Special Emote gives him huge wings, and lets him flap around until he next takes an action.
    - Snow Strix Ra Special Emote strikes his staff into the ground, and allows him to move around on an ice floe, leaving a trail of frost behind him.
-   - Megatron Ra Special Emote allows him to *transform* into a Tank and move around freely until he next takes an action.
+   - Megatron Ra Special Emote allows him to *transform* into a Tank and move around freely until he next takes an action. All animations and emotes are unique.
 
  - Raijin
    - Drums Out Raijin is one of the few skins in the game with no actual voice lines - just ooks and grunts. Additionally, while Ulting, he throws barrels instead of beating drums.
@@ -1089,15 +1128,16 @@ And no, you can't eat it.
    - [No current special skin effects]
 
  - Ravana
-   - Shadow Punch Ravana Special Emote has him float with smoke around him. When moving, he punches the ground and does float-y backflips.
+   - Shadow Punch Ravana Special Emote has him float around, with smoke covering him. When moving, he punches the ground and does float-y backflips.
    - Ravin' Ravana is part of the Disco skinline, and so his Special Emote has him create a small dancefloor around himself with some electronic music playing as he dances.
 
  - Scylla
-   - Dragon Empress / Queen Scylla Special Emote
-   - Terror of the Deep Scylla Special Emote has her dive under the floor, then resurface, swimming alongside one of her anglerfish heads.
-   - Godscylla Scylla Special Emote
-   - Eleven Scylla Special Emote
+   - Dragon Empress / Dragon Queen Scylla Special Emote simply makes a throne out of her dragon-heads to sit on. You cannot move with this Special Emote. Additionally, the wings on her back flutter whenever she jumps.
+   - Terror of the Deep Scylla Special Emote has her dive under the floor, then resurface, 'swimming' alongside one of her anglerfish heads across the floor.
+   - Godscylla Scylla Special Emote has her 'rampage' across a childrens play-mat floor, with papercraft helicopters circling and firing at her, and loud stomping SFX when she moves.
+   - Eleven / Starcourt Eleven Scylla Special Emote uses her hands to telekinetically float around, with some floating rock effects surrounding her. Additionally, she has completely unique Default Emotes and movement animations; with her other Special Emote being changed to her summoning something to eat. Finally, her 3 is replaced by a door instead of her usual exit-point.
    - Toony Terror Scylla Special Emote has her cartoonishly swing her arms back and forth as she strides around, while playing classical music.
+   - Toph / Fire Nation Toph Scylla has no 'new' Special Emote, but her default Special Emote is changed to a simple earthbending flourish, breaking a few rocks in place. You cannot move with this Special Emote. Additionally, she has completely unique Default Emotes and movement animations.
 
  - Serqet
    - [No current special skin effects]
@@ -1109,18 +1149,21 @@ And no, you can't eat it.
    - Electro Dancer Shiva is part of the Disco skinline, and so his Special Emote has him create a small dancefloor around himself with some electronic music playing. Uniquely, this dancefloor will match the colour of the stance that he's in.
 
  - Skadi
-   - Korra Skadi Special Emote
+   - Korra / Avatar Korra Skadi Special Emote has her float into the air, then forming 3 elemental rings that spin around her at different angles (Earth, Fire and Water). She does not have unique emotes or animations.
 
  - Sobek
-   - 
+   - [No current special skin effects]
 
  - Sol
    - Sweet Tooth / Sweetie Pie Sol Special Emote blows a huge bubble, which Sol hangs to the bottom of as she floats around.
 
  - Sun Wukong
-   - Abyssal Warrior
+   - Abyssal Warrior Sun Wukong Special Emote alternates spinning his staff to his left and right side. This continues until he takes a non-movement action.
    - Infinite Shift Sun Woukong Special Emote puts him into a floating meditative stance.
-   - Donatello Sun Wukong is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action.
+   - Donatello Sun Wukong is a member of the Ninja Turtles, and as such his Special Emote has him skateboard around until he next takes an action. Jumping while in this state does kickflips and other skateboarding tricks.
+
+ - Surtr
+   - Celestial Inferno Surtr has a modified Ult, where he turns into a ball of light instead of a meteor.
 
  - Susano
    - Steel Samurai / Titanium Ronin Susano has modified animations to make him appear more mechanical.
@@ -1158,11 +1201,11 @@ And no, you can't eat it.
  - Thoth
    - [No current special skin effects]
 
- - Tiamat
+- Tiamat
    - Magical Dragon Tiamat Special Emote makes her shimmer in a psychadelic-y way, until she next takes an action.
 
  - Tsukuyomi
-   - 
+   - [No current special skin effects]
 
  - Tyr
    - Winged Justice / Draco Knight Tyr has a modified Ult animation, that has him sprout wings for the duration.
@@ -1185,7 +1228,7 @@ And no, you can't eat it.
    - Jag.RAR Xbalanque is part of the Tron skinline, and as such his skin accents and card art accents will slowly cycle through the rainbow.
 
  - Xing Tian
-   - Grove Keeper Xing Tian Special Emote has a squirrel run around his neck and shoulders... while his entire upper body is frozen in place.
+   - Grove Keeper Xing Tian Special Emote has a squirrel run around his neck and shoulders... while his entire upper body is frozen in place. Plays nice forest-y flute music.
    - Krang Xing Tian Special Emote. Additionally, this skin has complete set of new animations for his abilities.
 
  - Yemoja
@@ -1200,10 +1243,10 @@ And no, you can't eat it.
 
  - Zeus
    - Heavens Rave is part of the Disco skinline, and so his Special Emote has him create a small dancefloor around himself with some electronic music playing.
-   - Sky Tech Zeus Special Emote
+   - Sky Tech Zeus Special Emote uses his hands as thristers (think Iron Man), and leans into his movements, with streaks of light coming from his back-wings. ~~Shocking how this isn't banned at an SPL level, since it looks almost identical to Janus's silhouette.~~
 
  - Zhong Kui
-   - Stitched Horror Zhong Kui Special Emote will ride around on his staff like a broomstick
+   - Stitched Horror Zhong Kui Special Emote will ride around on his staff like a broomstick as he moves.
    - Demon Catcher Zhong Kui uniquely has an effect where, whenever he 'captures' a demon with his Passive, his not!Ghostbuster weapon will have an effect of something moving through the pipe and being stored in his backpack. Additionally, the Tesla-effect at the top of the machine will glow, with effects after 10 Demons captured and once his Passive is fully charged.
 
 
@@ -1214,13 +1257,14 @@ Not to worry - in short, it doesn't apply to most skins. Only the 'Standard' one
 As expected?
 As expected.
 
-Even though most are purchaseable *(now)*, if they come with the 'Exclusive', 'Crossover', 'Limited' or 'Unlimited' tag, you ain't getting your greasy paws on them without coughing up full price *(if you even are given the option to begin with)*. Only skins with no tag *(below, as of writing)* are what you can snag cheap-ish, for 1-2 months of free Gem income from dailies and the like.
+Even though most are purchaseable *(now) ~~(most didn't used to)~~*, if they come with the 'Exclusive', 'Crossover', 'Limited' or 'Unlimited' tag, you ain't getting your greasy paws on them without coughing up full price *(be thankful you're even given the option to begin with)*. Only skins with no tag *(below, as of writing)* are what you can snag cheap-ish, for 1-2 months of free Gem income from dailies and the like.
 To begin with, all Default Recolours and Tier 2 skins get discounted with the Skin Coupons. Don't buy them, when you can buy them with Favor. If you can buy it with favor, don't waste Gems on it.
 
 Here's your options to skim, excluding what you can buy with Favor:
 
  - Achilles
    - Tiger's Fury
+   - Skeletal Slayer
 
  - Agni
    - Volcanic Agni
@@ -1394,6 +1438,7 @@ Here's your options to skim, excluding what you can buy with Favor:
 
  - Ganesha
    - Rune Machina
+   - Tabby Toil
 
  - Geb
    - G.E.B. 1
@@ -1495,6 +1540,9 @@ Here's your options to skim, excluding what you can buy with Favor:
  - Martichoras
    - Annihilator
 
+ - Maman Brigitte
+   - Biting Countess
+
  - Maui
    - [**YOU GET NOTHING, YOU LOSE, GOOD DAY SIR**](https://youtu.be/M5QGkOGZubQ)
 
@@ -1536,6 +1584,7 @@ Here's your options to skim, excluding what you can buy with Favor:
  - Nox
    - Madame Darkness
    - Mystical Manipulator
+   - Synthweaver
 
  - Nu Wa
    - Dark Summoner
@@ -1578,6 +1627,7 @@ Here's your options to skim, excluding what you can buy with Favor:
  - Ratatoskr
    - Squirrel Squad
    - Deep Space
+   - Roborat
 
  - Ravana
    - Ravin'
@@ -1638,7 +1688,7 @@ Here's your options to skim, excluding what you can buy with Favor:
    - Vizier
    - Twisted Jester
 
- - Tiamat
+- Tiamat
    - [**YOU GET NOTHING, YOU LOSE, GOOD DAY SIR**](https://youtu.be/M5QGkOGZubQ)
 
  - Tsukuyomi

@@ -77,13 +77,21 @@
 - A previewable magnet search engine that enables quick starts to downloads in almost every genre of media for free use.
 - [URL Safety Results](https://www.urlvoid.com/scan/btmet.com/)
 
+### 🧲 [EXT Torrents](https://ext.to/)
+- Versatile magnet search engine for rapid downloads in diverse media genres.
+- [URL Safety Results](https://www.urlvoid.com/scan/ext.to/)
+
 ### 🧲 [FileListing](https://filelisting.com/)
 - Powerful search engine with bots that constantly scan, index, and categorise all types of files from the whole web.
 - [URL Safety Results](https://www.urlvoid.com/scan/filelisting.com/)
 
 ### 🧲 [iDope](https://idope.se/)
-- Searched anonymously through this large collection in honor of K.A.T. Users aren't tracked and their IP addresses are removed.
+- Search anonymously through this large collection. Users aren't tracked and their IP addresses are removed.
 - [URL Safety Results](https://www.urlvoid.com/scan/idope.se/)
+
+### 🧲 [Knaben Database](https://knaben.eu/)
+- Realm of web and linux mastery through the evolution of impressive multi-search indexing tool.
+- [URL Safety Results](https://www.urlvoid.com/scan/knaben.eu/)
 
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 - A peer-to-peer file-sharing service that offers users a variety of content such as music files, video files, and software files.
