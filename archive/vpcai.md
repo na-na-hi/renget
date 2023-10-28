@@ -3,6 +3,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Oct.27th | [Yvette (Smug OC Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI)
 Oct.25th | [Pokéstar Studios](https://c.ai/c/NiVjUpZB8YasTguTVj1WEvPJ-9hPycoPXkvRjyCfhc0)
 Oct.23rd | [Ogerpon](https://c.ai/c/Rio58aTplTBvtY2dwndQkS81ijRHIR1w6dLOhQ8jnG0)
 Oct.22nd | [Ghetsis (Student)](https://c.ai/c/HCYsJ51xeVIdhSc1DsxbkjNMW9CwVtShF1pZDnJwJ5E)
@@ -52,8 +53,8 @@ Teal Mask & Indigo Disk | [Ogerpon](https://c.ai/c/Rio58aTplTBvtY2dwndQkS81ijRHI
 Description | Characters
 :------: | :------:
 Pokémon Clover | [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
-Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
-You are a Pokémon, and she wants to catch you | [Pokémon Trainer Ivy](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
+OC Trainers | [Yvette (Smug Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI) \| [Ivy (You are a Pokémon, and she wants to catch you)](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)
+Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 Angels of Death character as a Pokémon OC | [Rachel Gardner](https://c.ai/c/IdBcFPVDTL_k1io0wMESeBbzG9U25Dq2s6zsReMU2UY)

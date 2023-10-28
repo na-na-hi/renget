@@ -16,13 +16,17 @@ Still not fully fleshed out!
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-#->Download Shaq's Nut Sack (27 Oct)<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/l9ziyh.zip)<-
+#->Download Shaq's Nut Sack (28 Oct)<-
+!!! warning
+	->Added a prompt item called "User Info". You can fill it in with a short description of yourself in first person -
+	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/on1of1.zip)<-
 ***
 ##->Logs<-
 !!! note
 	->**Updates**<-
-	27 Oct - Shizuka log has been extended (#60 messages deep)
+	27 Oct - ~~Shizuka log has been extended (#60 messages deep)~~
+	28 Oct - Decided to redo the Shizuka log. 
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
@@ -30,7 +34,7 @@ Still not fully fleshed out!
 ->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
 
 ->**Genres**: Survival, Zombies<-
-->![Shizuka2](https://files.catbox.moe/i1g9cd.jpeg)<-
+->![Shizuka2](https://i.imgur.com/5kEjnI5.jpg)<-
 ***
 ###-> [Satomi](https://chub.ai/characters/LewdAmI/satomi-7b96327a) - By LewdAmI<-
 ->![Card4](https://avatars.charhub.io/avatars/LewdAmI/satomi-7b96327a/avatar.webp?size=0.5802350080850802)<-

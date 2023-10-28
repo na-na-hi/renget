@@ -116,6 +116,10 @@ Add this to your regex settings (the three cubes on SillyTavern)
 Yep, these settings only hide the codeblock from your view, the text inside is actually kept and occupies Context tokens if you continue the conversation or export your chat to agnai/venus.
 As you may have noticed adding " \`\`\` " as prefill for claude breaks the <thinking> codeblock, if you want ST's regex to grab and hide the block, you will have to either write the three backticks on {{char}}'s response or erase the prefill
 
+
+---
+
+
 My chub profile and mail if you have any funny anecdotes
 https://chub.ai/users/lunarFrogs
 lunarfrogs@skiff.com

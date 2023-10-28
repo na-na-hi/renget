@@ -68,9 +68,8 @@ SmoothCam - This is now on the nexus. It's *invaluable.* Make sure you get a pre
 Improved Camera - SE's skse based gopro-style 'I can see my bones from here' first person camera. Now on Nexus. 
 *note: Please check your compatibility settings in other mods like Immersive Interactions.*
 Enhanced Death Cam - watch the draugr that killed you t-bag your corpse and fuck your companions, just like real life
-Improved Alternate Conversation Camera - Bioware/CDPR style over the shoulder switching cam for conversations. This is a real love-it-or-hate-it, beware.
-*or* Oblivion Camera - Starfield style zoomed in first person conversation camera. Not recommended with uggo npcs. In theory this can be replicated with the above.
-Switch Camera During Dialogue - Does what it says on the tin. Probably incompatible with Oblivion Camera.
+Improved Alternate Conversation Camera - AIO camera solution for Dialogue. Lets you emulate Witcher/Bioware style switching to view player, or can emulate Oblivion/Starfield by forcing 1st person and zooming. *note: use Simple Version for Smoothcam compatibility!*
+Switch Camera During Dialogue - Does what it says on the tin. Incompatible with the above only if you force a POV in ACC's settings.
 VioLENS - There aren't really any problems with this, but if all you use it for is disabling VATS, there's an INI tweak for that. (bVATSDisable).
 No Furniture Camera - disables the locked camera when sitting, sleeping, etc. Will it break your sex mods? I dunno.
 Enhanced Volumetric Lighting and Shadows - This does mess with detection and has some issues with certain mountain meshes. For non ENB enjoyers just use Twilight.

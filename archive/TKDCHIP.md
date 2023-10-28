@@ -384,3 +384,9 @@ https://files.catbox.moe/anxc4u.webm
 https://files.catbox.moe/vsemc0.mp4
 >"The moment of death of an Al-Jazeera journalist and an emergency doctor in the Gaza Strip."
 https://files.catbox.moe/zm55q0.mp4
+>Troop movement, unknown, Westbank?
+https://files.catbox.moe/f0x1y1.mp4
+>SKIN-BURNING WHITE PHOSPHORUS spreads terror in Gaza (added oct 27th)
+https://files.catbox.moe/p5073v.mp4
+>Segment of the intense bombardment today on Gaza (oct 27th)
+https://files.catbox.moe/y5m40s.webm

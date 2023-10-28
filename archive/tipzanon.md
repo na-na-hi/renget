@@ -7,7 +7,8 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work, giving characters actual, consistent answers to questions you might have for them and believable backgrounds and personalities. I work primarily with Tavern AI and use several models to test my cards. My cards are also available on [chub](https://www.chub.ai/users/Tipzanon) and sometimes [pygmalion booru](https://booru.plus/+pygmalion/user:tipzanon) when I remember to upload to it. If you have card suggestions, questions, or just want to tell me I'm awful: tipzanon@proton.me.
 
 !!! info
-	-> ⭐ Updates: New character: Elisabeth - a romantic vampire maid from France. Added minor updates for consistency. Megacity East's lorebook also got updated with entries about goblins, vampires and World War III! ⭐ <-
+	-> ⭐ New character: Clover - A 26-year-old nekomata trapped in a child's body. Love her or bully her. Or both. ⭐ 
+	⭐ New lorebook: Nekomata - It give some Megacity East setting info and establishes nekomata behavior. ⭐<-
 
 [TOC]
 
@@ -79,10 +80,17 @@ Image| Name | Description | Link
 
 ## Extras
 ### Tavern Lorebooks
-###### Megacity East v1.1 ⭐Updated!⭐
-https://files.catbox.moe/2hu9rv.json
+###### Megacity East v1.1
+[Catbox](https://files.catbox.moe/2hu9rv.json)
+[Chub](https://www.chub.ai/lorebooks/Tipzanon/d5bb3954-9ffa-44fb-8335-c4b88a72b6de)
 Updated! Megacity East is a low-magic, cyberpunk fantasy world in which many of my cards are set. The image is just for flavor. A few people have asked if it is okay to develop their own characters and scenarios for this world. It's fine with me, but please let me know what you make. I'd love to see it!
 -> ![Megacity East](https://files.catbox.moe/8eq2zv.png) <-
+###### Nekomata ⭐New!⭐
+[Catbox](https://files.catbox.moe/ek24hu.json)
+[Chub](https://www.chub.ai/lorebooks/Tipzanon/nekomata-908ac4ae)
+Gives basic Megacity East setting info and nekomata behaviorial stuff.
+-> ![Nekomata](https://files.catbox.moe/hccm2z.png) <-
+
 ### NovelAI Stuff
 Character writing guide: https://www.rentry.org/how-to-make-a-nai-char
 >Really good for writing NAI compatible characters.

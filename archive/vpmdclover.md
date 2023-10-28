@@ -214,7 +214,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * [Enter the Federation - Death and Taxes (ft. Phanphy)](https://rentry.org/ugb85)
 * [Enter the Federation - The Quartet](https://rentry.org/r4m9y)
 * [Enter the Federation - Etemenanki (ft. Kaiji)](https://rentry.org/m8w6q) *WIP/Preview*
-* [Enter the Federation - Ending](https://docs.google.com/document/d/1amKRSwuymZoPKZzXw5ugS6P-urz84V3ufR7uyn7J9p8/edit)
+* [Enter the Federation - Ending](https://rentry.org/ETF_Ending)
 
 ###List of Stories Sorted by Author
 * Acrab the Krabby
