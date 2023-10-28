@@ -1,6 +1,6 @@
-![Daddy's Girl](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lPhqaJTsQWvkrZwuqhtjyLlO)
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-![Daddy's Girl](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lPhqaJTsQWvkrZwuqhtjyLlO)
 ### Orner ♀
-Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss. Currently wrangling a bunch of insane critters after being spacially displaced
+Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss. Currently wrangling a bunch of insane critters after being spacially displaced.
 
 · | ->· ->
 ---- | ----
@@ -31,7 +31,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Aqua Tail | 9BP | 7AP | ≥7 | Water | Physical | No secondary effect. (UNTRAINED)
+Aqua Tail | 9BP | 7AP | ≥5 | Water | Physical | No secondary effect. (Training Tier ɪ)
 Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with Poison.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -63,7 +63,7 @@ Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Move: Aqua Tail | Tier ɪ | 2/3 | ▮▮▯
+Training for Move: Aqua Tail | Tier ɪ | 3/3 | ▮▮▮
 
 **INVENTORY (4 slots)**
 Item Name | Description

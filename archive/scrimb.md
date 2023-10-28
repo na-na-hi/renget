@@ -54,6 +54,7 @@
 [White Rabbit](https://files.catbox.moe/n1aoz4.png)
 [Daichi](https://files.catbox.moe/ighxou.png)
 [Conrad](https://files.catbox.moe/as59i1.png)
+[Atsui](https://files.catbox.moe/wnotc9.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

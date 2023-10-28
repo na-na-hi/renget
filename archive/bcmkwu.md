@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Another Leopard 2 hit by drone
+https://files.catbox.moe/0o5kvo.mp4
+>Abandoned leopard 2 BOBRED
+https://files.catbox.moe/w6hw1z.mp4
+>A pair of NATO Stryker ICV's destroyed by Russian Kornet M ATGM's
+https://files.catbox.moe/qk7pde.mp4
 >POV: 'O' group surprise attacks hohol stronghold in Kremennaya
 https://files.catbox.moe/satd44.mp4
 >hohol personnel rekt by FPV drones compilation

@@ -6,7 +6,7 @@
 She can barely remember things from her world, not even her name! But as the darkness dragged her to this other realms, taking her arms, legs, and other things, she dragged something with her, her experience as a master engineer and architect!
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Engineer/Architect
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Constructor/Engineer
 **Species:** Bounsweet | **Affiliation:** N/A
 **Level:** 8 | **Experience to Next Level:** 35/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
@@ -63,7 +63,8 @@ Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: None | Tier **N/A** | 0/9 | ▮▯▯▯▯▯▯▯▯
 They see me rollin' | Tier **ɪ** | 0/6 | ▯▯▯▯▯▯
-Speed **ɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Engineering **ɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Construction/Handiwork | Tier **ɪ** | 0/6 | ▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

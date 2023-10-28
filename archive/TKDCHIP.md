@@ -390,3 +390,10 @@ https://files.catbox.moe/f0x1y1.mp4
 https://files.catbox.moe/p5073v.mp4
 >Segment of the intense bombardment today on Gaza (oct 27th)
 https://files.catbox.moe/y5m40s.webm
+>Merkava destroyed by Hezbollah (added oct 28th)
+https://files.catbox.moe/2bhkid.mp4
+>Lots of arrivals in Tel Aviv. Iron dome is failing. (added oct 28th)
+https://files.catbox.moe/y1oh59.mp4
+https://files.catbox.moe/0ug8nn.MP4
+>Gaza uses Athan speakers to announce blackout (added oct 28th)
+https://files.catbox.moe/mpiama.mp4

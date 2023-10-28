@@ -25,6 +25,8 @@ https://pastebin.com/5MYrSdfM
 >Heng Zhiqiang
 https://desuarchive.org/tg/thread/90708633/#90711509
 https://rentry.org/HengZhiqiang
+>Dónall
+https://desuarchive.org/tg/thread/90733271/#90738966
 
 #### Elders
 
@@ -83,6 +85,8 @@ https://rentry.org/shushihan
 https://archive.4plebs.org/tg/thread/90676737/#90681699
 >Zhihao Cheng
 https://desuarchive.org/tg/thread/90686591/#90695745
+>Chenrezig Bodhisattva
+https://desuarchive.org/tg/thread/90733271/#90743192
 
 ### Mortals
 >5 mortals who bring absolutely nothing to the table

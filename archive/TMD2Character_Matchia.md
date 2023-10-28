@@ -62,14 +62,14 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Attribute: Vigilance  | Tier **ɪ** (+1) | Increases chances of detecting adversaries.
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Vigilance **ɪ** | Untrained | 2/3 | ▮▮▯
+Training for Attribute: Vigilance **ɪɪ** | Tier **ɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: None | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯

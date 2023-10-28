@@ -49,7 +49,7 @@
 **Dark:** 1
 
 ***
-->![Space Pilot](https://i.imgur.com/pPPYr7o.png)<-
+->![Evil Bocchi](https://i.imgur.com/pPPYr7o.png)<-
 ->*Her real name is Hitori Gotō.*<-
 
 **[One line description]**

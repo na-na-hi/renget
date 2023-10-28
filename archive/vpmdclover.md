@@ -416,6 +416,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
+	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
 * Tybo the Skitty
@@ -605,6 +606,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 * {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
+* {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)
