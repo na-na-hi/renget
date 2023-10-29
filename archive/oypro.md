@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 8 | **Experience to Next Level:** 30/80
+**Level:** 8 | **Experience to Next Level:** 65/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | 	Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*90/400 points to Normal Rank*<-
+->*170/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -62,11 +62,12 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
+Attribute: Illusory | Tier **ɪ** (+1) | Skill with illusion manifestations
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Illusory **ɪ** | Tier **ɪ** | 2/3 | ▮▮▯
+Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
@@ -77,8 +78,8 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Pecha Berry | Cures the user. Heals Poison.
 2. Ban Seed | Causes Disabled upon consumption
-3. Heal Seed | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Heal Seed | Cures all status conditions.
+4. Oran Leaf | Heals the user for 3HP. Can stack to 3.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

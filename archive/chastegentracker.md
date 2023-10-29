@@ -24,3 +24,4 @@
 | PyritePirate | https://chaster.app/sessions/xnCseQcLnTJGBLgy | 01-Nov-2023 |
 | Trinne | https://chaster.app/sessions/Ss887Dp7BkV6vVks | 01-Nov-2023 |
 | Seepon56 | https://chaster.app/sessions/jzO9lj4uhrqSRvE0 | 02-Nov-2023 |
+| kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 31-Nov-2023 |

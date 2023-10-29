@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[KingValntula](https://rentry.org/Kingvalntula) | Furry |[Hitch](https://files.catbox.moe/q8hs4g.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Belphie](https://files.catbox.moe/pz6h1k.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Colby](https://files.catbox.moe/0o9658.png), [Cairo](https://files.catbox.moe/wy8ghk.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Atsui](https://files.catbox.moe/wnotc9.png), [Yumi](https://files.catbox.moe/n9pfc2.png)|
@@ -47,7 +48,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
-[KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
