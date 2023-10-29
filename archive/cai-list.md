@@ -1,7 +1,7 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==10/23/23==) <-
+-> forgotten edition (Updated ==10/29/23==) <-
 -> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
--> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.characterhub.org/)<-
+-> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.chub.ai/)<-
 
 !!! note 
     Bot is missing from the list? Try looking through 'Compilations'.
@@ -20,7 +20,9 @@ Bot | Creator | Desc
 [Narrator](https://beta.character.ai/chat?char=0AhNK55F0pCpSW5mF2H-owp6_TUBSgV6gCOCF8AGghU)|@Feuerfall|Narrator bot meant to be used in rooms on Cai along with other bots
 [Oboro](https://beta.character.ai/chat?char=RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)|@magma-dan|Naginatakaーand a great tailor.
 [Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
+[Vanessa](https://beta.character.ai/chat?char=vbfR-fNzMghcYp1mdBmKuCJ8hDID0BT_X-bUoYu1gYs)|@FritoFly|Vanessa, the local epilation specialist
 [Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
+
 
 
 #### Compilations

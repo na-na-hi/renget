@@ -144,13 +144,14 @@ Well written, I romanced Fiddlesticks which was fun. I hate LoL but it has some 
 
 Projects: ==Top Priority==
 **Ghost girl**. Halloween, but not sure if I will finish.
-==**Codename "Dream ---- -----"**==. Big project.
+==**Little girl**==. One of my favorite characters, gotta make a card.
 **Self-card**. As a botmaker, this is required to do sooner or later.
 **Fempov Shota**. Lack of them makes me sad. Variety is spice of life.
 **Kanna card**. Been a thing I should make for a while.
 
 Pretending I'm important enough to have "news section".
-
+Shortened Project GuP to just Anzio school. A whole Girls und Panzer universe would be absolutely painful to implement and would take way too many tokens even with a lorebook. Just looking at Ooarai and the amount of characters it has was just depressing. Maybe one day someone can make it work, but I don't see many GuP cards sadly.
+**YOU**, please make GuP cards.
 
 
 That's all.

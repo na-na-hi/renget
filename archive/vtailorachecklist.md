@@ -2,8 +2,11 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! note Note
-	Due to the nature of this type of listing, this is gonna be fucking HUGE and endless.. so I'll be limiting indie's to what has been done and the rest you have to figure out on your own. For Loras that have been made and are in good working order, they will be shoved into a info box or something for convience. 
+!!! warning Quick Update (10/29/23)
+	**I have chosen to remove the list for 'available loras without the need of updates and have been tested' from the indies section to save up on space.
+	The list containing whats being tested and what needs updating still exists since I think keeping up what I have on the waiting list and what really needs the help is necessary over what is already done.
+	My apologies for the removal.**
+
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
 
@@ -1367,8 +1370,6 @@ Mayuno A. Charlotte | - | - | - | -
 	Aradia Ravencroft
 
 ## -> Indies <-
-!!! info Available Loras without the need of updates and have been tested.
-	Ai Candii, AdcVR, Agano Mai, Aka Inside Mk3, Akami Karubi, Akira Mazono, Akira Misaki, Akumi Yoclesh, Alice Mana, Amatsuka Uto, Anko, Anny, Ariduka Formica, Artemis of the Blue, Asano Ruri, AuraGX, Auregalia Aruri, Ayamy, Baka Sae, Bao, Batata Com Pepino, Beryl LeRou, Buffpup, C-chan, Ci the Jiangshi, Chimugi, Clauvio, CottontailVA, Deep Web Underground, Delutaya, Dtto, Dyarikku, Ebosi, Elia Stellaria, Elure, Elveira, Emberlith, Erispheria, Faithybun, Fefe, Filian, Forbidden Sisette, Fuuka Rin, Hachi, Hanazono Serena, Halo Sweety, Hana Sakurai, Hanazawa Nako, Hatoba Tsugu, Himehina, Hizuki Rurufu, Inuyama Tamaki, Irelyth, JaidenAnimations, Jean Faymas, Jovilly, Juniper Actias, Kagura Mea, Kagura Nana, Kaguya Luna, KiannyVT, Kiara Fey, Kiki Pyon, Kitanya Nyanta, Kitsui Akari, KMNZ Lita, KMNZ Liz, Komori, Koopa Fortuna, Koragi, Kotonoha Yukino, Kumagai Chisato / Beatani, Laimulicious, Lily Hopkins, Lirin The Orange, Lola Loading, Lumituber, Lumi VSinger, Lunaria Ayaren, Mako Fukasame, Makoto Misaki, Mana Renewal, Marota-Chan, Mayumi, Meica05, Meimei Himari, MettaCipher, Mia Mikhail, Miilkywayz / Milky, Mikazuki Silvi, Mimibits, Mingqian, Mint Castella, Mint Fantome, Mirai Akari, Mizuki Momo, Mocca, Moeri, Momo, Monarch AmaLee, Moriko Kyoho, Nachoneko, Nanahira, Nanobites, Natori Sana, Nekomiya Hinata, Nekota Miya, Nekoyo Chloe, Nephtunie, Neuro-sama, Nimu, Nina Saotome, Nisha Nixyeva, Noir, Numi, NymphaaeaVT, Okuri Sae, Omocat, Onigiri, Osakana Nemu, PapitasVT, Peachhana, Planya Chan, Pochimaru, PorcelainMaid / Jowol, PookyBooVT, Punkalopi, PurinSeishin, Quon Tama, Reiny, Reiyu GuiGui, Ririsya, Rizrim, Rosedoodle, Rurudo, RyumiVT, SaaVtuber, Sakura Aoi, Sansin Jin, Saruei, Shanoa, Shigure Ui, Shinonome Megu, Shirahiko, Shondo / Fallenshadow, Shylily, Shwaa, Sinder, Sister Abigail / Abigail Dovely, Skyler Reach, Slendiferachie, Sonii, Sora Orbit, Squchan, StarVT, Suri Mukeki, SuwieVT, Tanaka Cosmic Sora, Tatamaru, Tenjin Kotone, Tobi Inoue, Tokain Beni, Tomari Mari, Trickywi, Umami-Chan, Vesperbell Kasuka, Vesperbell Yomi, Vexoria the Sun Eater, ViennaC9, Whiskey Project, Xingtong, YFU Baby, Yomeguri Hana, Youyi, Yuy Xi
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
@@ -1387,6 +1388,3 @@ Huntress Spectre | X | - | X | -
 Obake Pam | X | - | X | Not exactly Indie but making one entry for one chuuba is a little too much.
 Yuuka Bear | X | - | X | -
 Shizukou | X | - | X | -
-
-!!! note Where is the rest of the indies?
-	Read the top and good luck! o7

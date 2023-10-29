@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Cuteanon](https://rentry.org/cuteanon) | Misc |[Vegeta](https://files.catbox.moe/3ozofx.png), [Son Goku (Youth)](https://files.catbox.moe/1cpbv5.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Akemi Tetsu](https://files.catbox.moe/wkbfmy.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Hitch](https://files.catbox.moe/q8hs4g.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Belphie](https://files.catbox.moe/pz6h1k.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Colby](https://files.catbox.moe/0o9658.png), [Cairo](https://files.catbox.moe/wy8ghk.png)|
@@ -32,6 +34,7 @@ Botmaker | Category | New Bots | Updated Bots
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Maya](https://files.catbox.moe/gpr1nv.png)|[Maya](https://files.catbox.moe/gpr1nv.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Sabrina Seleneski](https://files.catbox.moe/4pcwv4.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[CVX Empress](https://files.catbox.moe/yjc1ry.png)|[Bungo (Futanari)](https://files.catbox.moe/yxwstd.png), [Midway Princess](https://files.catbox.moe/wu4d7a.png), [Akagi](https://files.catbox.moe/toa8xw.png), [Kaga](https://files.catbox.moe/3c38sb.png)
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/z0scpy.png)
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
@@ -47,7 +50,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
@@ -78,7 +80,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Superderp64](https://rentry.org/derpbots) | Touhou / Misc ||
 [UncoolReisen](https://rentry.org/uncoolreisen) | Misc ||
 [Bipbots](https://rentry.org/bipbots) | Misc ||
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Anonymous](https://rentry.org/charcardanons) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Arkane](https://rentry.org/arkanebots) | Misc ||
@@ -97,7 +98,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Ratlover](https://rentry.org/ratlover-cai) | Misc/[Furry](https://youtu.be/OlvF5LH1Kdg?t=71) ||
 [Preggoanon](https://rentry.org/preggoanon) | Preggo... ||
 [Laathix](https://rentry.co/LaathixsStuffs) | Misc ||
-[Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Tarkman](https://rentry.org/tarkmanbots) | Misc ||
 [Ishi_inu](https://rentry.org/ishi_inu) | Misc ||
 [Tarcez](https://rentry.org/tarcezbots) | Misc ||

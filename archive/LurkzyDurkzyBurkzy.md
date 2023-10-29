@@ -1,4 +1,4 @@
-#-> lurkzn's Claude preset (Pete Davidsons's Rizz edition)<-
+#-> lurkzn's Claude preset (Pete Davidsons's Era edition)<-
 ![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
 
 ->**Email**: trojanmystery@proton.me<-
@@ -14,16 +14,19 @@ from {{user}} as opposed to the usual "With {{user}} by her side, **anything** w
 Still not fully fleshed out!
 
 29 Oct - Pete Davidsons's Rizz. Need I say more?
+
+30 Oct - Pete Davidson's Era. Added a funny little experimental prompt that makes Assistant decide itself how long the
+response should be. Aimed at stopping Claude from cooking a bit too much as it likes to do when the chat grows longer.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
 [TOC2]
 ***
-#->Download Pete Davidsons's Rizz (29 Oct)<-
+#->Download Pete Davidsons's Era (30 Oct)<-
 !!! warning Add-ons
 	->> "User Info". You can fill it in with a short description of yourself in first person -
 	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/ww7nfd.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/uo51l1.zip)<-
 ***
 ##->Logs<-
 !!! note

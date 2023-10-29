@@ -109,12 +109,12 @@ aaa H : Fallen Star Graveyard constructed
 350 H: Phoenixes and Dragons break away peacefully from Diarnuit
 351 H: Stadt Des Feuers is formed, with Kohryu Shenloong as its first leader.
 508 H: Last of the Polarian Valkyries dies in peace.
-582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, with its primary purpose being to travelers and remote towns from banditry and robbery.
+582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, with its primary purpose being to protect travelers and remote towns from banditry and robbery.
 593 H: Sora Tokino is born in Holopolis.
 604 H: Botan Shishiro ascends the Savanese throne from her father, Leoru Shishiro.
 610 H: King Covigo ascends the throne from his father, the former King Covaki.
 611 H: Covernius appears in King Covigo's dream to tell him to establish an order of extraordinary people across Aurorai.
-616 H: The Order of Iridescent Guardians ia formed by King Covigo, selecting Sora Tokino as its first member of many.
+616 H: The Order of Iridescent Guardians is formed by King Covigo, selecting Sora Tokino as its first member of many.
 aaa H: Additional members were later added: the advanced golem Roboco and the shrine maiden Miko Sakura.
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade.
 aaa H: Rumors surface that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate. This persists as a grim tale.
@@ -127,9 +127,9 @@ aaa H: Grand Pontifex Damaso declares all male members of The Order persona non 
 623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers in humanoid form.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
 624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Quad Force Brigade.
-625-628 H: The Order gains widespread fame and adoration. Suntempo Squad and TriNero Squad established, Penta Brigade, widely acclaimed Mythos Brigade, and PriCo Brigade added.
+625-628 H: The Order gains widespread fame and adoration. Suntempo Squad and TriNero Squad established under the Star Knights, Penta Brigade, widely acclaimed Mythos Brigade, and PriCo Brigade added.
 626H: Grand Hydra Karonda ascends the Anakondian throne.
-627 H: A Guardian from the Penta Brigade was reported KIA a few days into her duty running afoul of Blancopolis soldiers not recognizing her place as a Guardian.
+627 H: A Guardian from the Penta Brigade was reported KIA a mere week into her duty running afoul of Blancopolis soldiers not recognizing her place as a Guardian. The attack was allegedly for past infractions of the Red Doctrine.
 628 H: The Celestium bickers over the state of Aurorai's mortals. Rojoris deems Aurorai too soft after centuries' worth of peace, to which Covernius and Auroia protest.
 629 H: Regis Altare inherits the top position of the Tempus Guild from his mentor, Polaris Tempest.
 aaa H: Grand Pontifex Damaso declares both the Tempus Guild and the Knights division of The Order heretics, along with those who actively mingle with them.
@@ -146,7 +146,7 @@ aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of 
 ***
 #### Polaria
 
-Capitol: Holopolis
+Capital: Holopolis
 Current Leader: King Covigo(16th)
 Exec. Center: Castle Crystale
 Established: 1 H
@@ -155,25 +155,25 @@ Established: 1 H
 
 #### Savan
 
-Capitol: Lionsgard
+Capital: Leongrad
 Current Leader: Queen Botan Shishiro(14th)
 Exec Center: Lion's Keep
 Established: 2 H
 ***
->The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 101 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The island is now called Skymount, a new province ruled by succeeding Takanes. The King or Queen has a Council of their own choosing guiding her decisions, which still continues to this day. Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Naturally, Savan has capitalized on exporting meat from their lesser animal counterparts, becoming very famous for its quality. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
+>The vast flatlands of Savan provide a home to a myriad of people endowed with animal features and abilities. Queen Botan is the 9th ruler from the old Shishiro line overall and 7th since the Avian Uprising. Hawkrose Takane was the 3rd and last Savan ruler from the Takane line which took power during the Avian Uprising. The uprising ended with the remnants of the Takane faction and the Shishiro faction signing a ceasefire in 101 H in exchange for them being granted a mountainous island to call their home, under Shishiro rule. The island is named after their family name, a new province ruled by succeeding Takanes. The King or Queen has a Council of their own choosing guiding her decisions, which still continues to this day. Cities are sparse and less sophisticated because the people value their rolling plains, which is home to most of their hunt and plant food. Naturally, Savan has capitalized on exporting meat from their lesser animal counterparts, becoming very famous for its quality. Units from this nation include, aside from Botan herself: Pekora, Korone, Mio, Shien, and Fubuki.
 
 #### Diarnuit
 
-Capitol: Le Eclipse
+Capital: Le Eclipse
 Current Leader: Uriel Amane(8th) (angel)
 Exec. Center: Eclipse Sanctuary
 Established: 2 H
 ***
->Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Angels have won all but one Sky Council election, including this current one.Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. To promote unity in spite of the difference and division, the Sky Council holds a yearly contest of might and wit called The Eclipse Olympiad and Fair. The event hosts the best magitech from the nation as well as new innovations. Units like Lamy, Kanata, Aki and Flare, come from here.
+>Divided into the rough-and-tumble steampunk West and the high-fantasy magitech East, Diarnuit is truly the picture of night and day making one whole. Humanoids like elves of differing creeds, all types of fairies, dwarves and orcs of varying types would be all found in the country. Angels in particular are held in high regard in Diarnuit, essentially becoming the ruling class. Angels have won all but one Sky Council election, including this current one. Cities here are of remarkable quality for both halves of the nation, be it the mighty engines that power the West, or the magics that power the East. Diarnuit is the highest nation in terms of above-sea levels, which contributes to a cooler climate than expected even for the seaside areas in the East. To promote unity in spite of the difference and division, the Sky Council holds a yearly contest of might and wit called The Eclipse Olympiad and Fair. The event hosts the best magitech from the nation as well as new innovations. Units like Lamy, Kanata, Aki and Flare, come from here.
 
 #### Cita Azur
 
-Capitol: New Poseidon
+Capital: New Poseidon
 Current Leader: Councillor Dolph (13th since freed, 22nd overall)
 Exec. Center: The Marina Hall
 Established: 46 H
@@ -182,7 +182,7 @@ Established: 46 H
 
 #### Nero Eterna
 
-Capitol: Yozora Eternus
+Capital: Yozora Eternus
 Current Ruler: Death Muertos (13th)
 Exec. Center: Notte Piu Nera Cathedral
 Established: 16 H
@@ -191,7 +191,7 @@ Established: 16 H
 
 #### Stadt Des Feuers
 
-Capitol: Flammiena
+Capital: Flammiena
 Current Ruler: Coco Kiryu (4th)
 Exec. Center: Hall of Flame
 Established: 351 H
@@ -296,13 +296,13 @@ Established: 7 H
 
 ->**Izuru**<-
 
->A tacticurn agent of The Order, he prefers empty, quiet outdoors to himself. Born to a dying mother and deadbeat father in the outskirts of Holopolis to the east, Izuru tried to make ends meet at a tender age. His efforts were proven futile as his beloved mother passed at age 10. He then traveled by himself to Holopolis to look for greener pastures. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. His love for the outdoors is a product of his harsh growing-up years, never knowing what a secure home looked like. He owes the King deeply for this, agreeing immediately to join the Knight division of The Order.
+>A tacticurn agent of The Order, he prefers empty, quiet outdoors to himself. Born to a dying mother and a no-good father in the outskirts of Holopolis to the east, Izuru tried to make ends meet at a tender age. His efforts were proven futile as his beloved mother passed at age 10. He then traveled by himself to Holopolis to look for greener pastures. Since then, he has resorted to petty thievery to not starve to death, getting with dubious crowds. King Covigo one day decided to pick him off the streets after seeing a battered Izuru reeling from a failed heist of the castle kitchen by himself. His love for the outdoors is a product of his harsh growing-up years, never knowing what a secure home looked like. He owes the King deeply for this, agreeing immediately to join the Knight division of The Order.
 
 ==Home: Polaria==
 
 ->**Miko**<-
 
->Born to a family of shrine maidens, in the northern reaches of Polaria, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has been entrusted to, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up parts of her wage being a Guardian to move themselves to a better neighborhood.
+>Born to a family of shrine maidens, in the northern province of Iridis, hers was a simple life. As required of shrine maidens, staff lessons she took and she aced them, despite her usual antics and mannerisms. The war upended her idyllic life, forcing her to abandon the shrine she just has inherited, running to the fringes of Savan and healing injured and sick people with her staff mastery. She may be childlike in speech, but her helpfulness as well as honesty is of an adult's. She treasures her mother so much she saved up parts of her wage being a Guardian to move themselves to a better neighborhood.
 
 ==Home: Polaria==
 
@@ -312,9 +312,9 @@ Established: 7 H
 
 ->**Aqua**<-
 
->An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Of all the Brigade Guardians, she is reputed as the most shy and introverted. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Bafflingly though, outside of battle, she can be the most clumsy and dull-witted in any given room. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
+>An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Of all the Valkr Guardians, she is reputed as the most shy and introverted. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Bafflingly though, outside of battle, she can be the most clumsy and dull-witted in any given room. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
 
-    Home: Polaria
+  ==Home: Polaria==
 
 ->**Shion**<-
 

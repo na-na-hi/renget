@@ -22,6 +22,6 @@
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | 01-Nov-2023 |
 | porrov | https://chaster.app/sessions/n5xifPVFPJ1r5NC4 | 01-Nov-2023 |
 | PyritePirate | https://chaster.app/sessions/xnCseQcLnTJGBLgy | 01-Nov-2023 |
-| Trinne | https://chaster.app/sessions/Ss887Dp7BkV6vVks | 01-Nov-2023 |
+| Trinne | https://chaster.app/sessions/Ss887Dp7BkV6vVks | 01-Jan-2024 |
 | Seepon56 | https://chaster.app/sessions/jzO9lj4uhrqSRvE0 | 02-Nov-2023 |
 | kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 31-Nov-2023 |

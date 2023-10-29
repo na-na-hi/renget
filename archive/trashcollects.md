@@ -1215,7 +1215,10 @@ https://files.catbox.moe/mp25tm.png
 
 # Spike (MLP - Character)
 
-	https://files.catbox.moe/39piua.safetensors
+	V1: https://files.catbox.moe/39piua.safetensors
+>Includes the Spike XL lora and 25 variations of one of my favorite gens.
+	
+	https://files.catbox.moe/pvc5lr.rar
 
 # DaftPatriot (Artist)
 
@@ -1309,6 +1312,10 @@ Japanese Kimono Kemono
 
 	https://files.catbox.moe/ij2gmt.safetensors
 
+Pop Art? Style
+
+	https://files.catbox.moe/kaa9ok.safetensors
+
 # Cream the Rabbit (Sonic)
 https://civitai.com/models/166801
 
@@ -1378,6 +1385,11 @@ Anti-blush LoRA v1
 
 	https://files.catbox.moe/64hscs.safetensors
 
+Simple to Detailed Background slider
+>This one is more of a curiosity. An attempt at simple background to detailed background. The tags seem far too biased to provide any smooth detail variation.
+
+	https://files.catbox.moe/epkod9.safetensors
+
 # Naoko (alvh-omega)
 >Recommend using the LoRA at 0.7 weights.
 >Catbox with some of the tags she has for you to mess around with https://files.catbox.moe/5llwj5.png
@@ -1389,6 +1401,26 @@ Steps: 20, Sampler: Restart, CFG scale: 7, Seed: 860553435, Size: 600x800, Model
 
 	V1: https://files.catbox.moe/uqumxo.safetensors
 	V2: https://files.catbox.moe/uwzd14.safetensors
+
+# Dog Species LoRAs
+Bulldog Anthro
+https://civitai.com/models/173684/bulldog-anthro
+>It's a basic LORA to create some Anthro Female Bulldogs, i really like the overall look of Molosser/Molossus dog (Pitbulls,Mastiffs and Great Dane's). It's still very crude, made mostly of Bing images because of the lack of females on E621.net (it's mostly males like Spike from Tom & Jerry or Dribble from Warioware). Most of times looks like a pitbull with a dropped cheeks. The images used for creation are SAFE (Bing IC).
+
+	https://civitai.com/api/download/models/195021?type=Model&format=SafeTensor
+
+Schnauzer Anthro
+https://civitai.com/models/178524/schnauzer-anthro
+>As the name says it's a Furry version from a Schnauzer dog (i dunno if the normal version or the toy one), good to make some hipster characters or girls with moustaches and beards.
+>Made with images from Bing IC curated to display mostly of the characteriscts of the race (it look's like your grandpa).
+
+	https://civitai.com/api/download/models/200391?type=Model&format=SafeTensor
+
+Fila Anthro
+https://civitai.com/models/181071/fila-anthro
+>Brazilian Fila Dogs
+
+	https://civitai.com/api/download/models/203214?type=Model&format=SafeTensor
 
 ## LORAs from the Discord
 

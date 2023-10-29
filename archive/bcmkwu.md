@@ -1,4 +1,17 @@
 ▶NEW CLIPS
+>loaded M113 hits a mine, then gets FPV'd right after
+https://files.catbox.moe/3vqv59.mp4
+>Lancet+BUK-M1=Beautiful fireworks display
+https://files.catbox.moe/mijhus.mp4
+>VT-40s bomb hohols, trenches, armor, & bunkers relentlessly
+https://files.catbox.moe/xmvnua.mp4
+https://files.catbox.moe/kzzr5n.mp4
+https://files.catbox.moe/hzx6ct.mp4
+https://files.catbox.moe/d3fsk3.mp4
+https://files.catbox.moe/5nxhok.mp4
+>hohols claim destroyed T-90. Russians recover it in working condition
+https://files.catbox.moe/xlt3xz.MP4 (initial hohol video)
+https://files.catbox.moe/a1hs6z.MP4 (later Russian video)
 >Another Leopard 2 hit by drone
 https://files.catbox.moe/0o5kvo.mp4
 >Abandoned leopard 2 BOBRED

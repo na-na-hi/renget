@@ -11,6 +11,8 @@ Fox McCloud: https://files.catbox.moe/550puu.png
 The Piklopedia: https://files.catbox.moe/wc1dio.png
 Black Mage: https://files.catbox.moe/ngx5gr.png
 Murasa Minamitsu: https://files.catbox.moe/rbw7gx.png
+Son Goku (Youth): https://files.catbox.moe/1cpbv5.png
+Vegeta: https://files.catbox.moe/3ozofx.png
 Starborn: https://files.catbox.moe/povy24.png
 
 Direct C.AI ports:

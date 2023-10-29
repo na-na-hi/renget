@@ -847,3 +847,9 @@ Professor Vitanis | Summary
 ------ | ------
 ![Vitalis](https://files.catbox.moe/ljlccb.png) | A personal bot I made to help me with my studies, I though it might be fun to share her. A well-known and respected biologist in her early 40's, she now works as a proffesor for the university you're attending. You approach her after class one day, having some questions.
 Links   | Catbox: https://files.catbox.moe/ljlccb.png
+
+Akemi Tetsu | Summary
+------ | ------
+![Tetsu](https://files.catbox.moe/wkbfmy.png) | Having fallen on hard times you're forced into joining a yakuza group, being assigned as the new "partner" to one of their debt-collectors, though it's easy to see that she doesn't see you as anything more than a hindrance. Whether it's some form of initiation or simply a way to toy with you, you find yourself sitting in her lap, trying to not mess up injecting her the steroids she gives you into her.
+Play her on Claude if you want her to be more aggressive and beat the shit out of you.
+Links   | Catbox: https://files.catbox.moe/wkbfmy.png
