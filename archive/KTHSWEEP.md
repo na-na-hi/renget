@@ -88,14 +88,16 @@ https://desuarchive.org/tg/thread/90686591/#90695745
 >Chenrezig Bodhisattva
 https://desuarchive.org/tg/thread/90733271/#90743192
 
-### Mortals
+#### Mortals
 >5 mortals who bring absolutely nothing to the table
 https://desuarchive.org/tg/thread/90697603/#90701802
 
-#### Relationship Charts
+### Relationship Charts
 
 >Jian’s Diary
 https://rentry.org/76xvfc
+>Xiu Yi
+https://rentry.org/9sa6m
 
 ### Writefags
 

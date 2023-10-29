@@ -31,13 +31,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Clover](https://files.catbox.moe/nx50fv.png)|
 [Nicenshady](https://rentry.org/nicenshady) | Misc |[The Nurse](https://files.catbox.moe/npl65b.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png)|[The Dimitrescu Sisters](https://files.catbox.moe/n2axp1.png) [MV]
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Maya](https://files.catbox.moe/gpr1nv.png)|[Maya](https://files.catbox.moe/gpr1nv.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Sabrina Seleneski](https://files.catbox.moe/4pcwv4.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[CVX Empress](https://files.catbox.moe/yjc1ry.png)|[Bungo (Futanari)](https://files.catbox.moe/yxwstd.png), [Midway Princess](https://files.catbox.moe/wu4d7a.png), [Akagi](https://files.catbox.moe/toa8xw.png), [Kaga](https://files.catbox.moe/3c38sb.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/z0scpy.png)
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||[Aya](https://files.catbox.moe/136xn5.png) [MV]
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||[Maya](https://files.catbox.moe/gpr1nv.png)
+[GGR89](https://rentry.org/ggr89) | Misc ||
 [Nono](https://rentry.org/NonoRoom) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||

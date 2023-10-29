@@ -353,4 +353,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
 10/20/23: Clarified MD2H weekly rewards.
 10/25-27/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
-10/29/23: Added Regret Paust to tier list. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know. ![lol&](https://files.catbox.moe/7dmu76.png)

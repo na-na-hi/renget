@@ -26,7 +26,7 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 !!! warning Add-ons
 	->> "User Info". You can fill it in with a short description of yourself in first person -
 	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/uo51l1.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/53tbto.zip)<-
 ***
 ##->Logs<-
 !!! note

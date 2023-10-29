@@ -61,7 +61,8 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Cooking | Tier **ɪ** (+1) | Making tasty things, tastier!
-Training for Attribute: Cooking | Tier **ɪɪ** (+2) | 1/3 | ▯▯▯
+Training for Attribute: Cooking | Tier **ɪɪ** (+2) | 2/3 | ▮▮▯
+Training for Attribute: Flying | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 
 
 **INVENTORY (4 slots)**
@@ -71,7 +72,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Crude Knife | Sharpened stone knife started by Jen-Marie, Finished by Cress. To be used only for Cooking
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

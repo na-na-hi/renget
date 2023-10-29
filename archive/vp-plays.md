@@ -431,7 +431,7 @@ https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
 https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything and HOLY SHIT HEXES GET
 
 ##/vp/ plays Bingo/filler content while waiting for something better
-!!! info Status: Ongoing
+!!! note Status: Concluded
     It's basically just trying to make filler LP-grade games bearable by playing Bingo with the squares being common tropes & cliches in fangames.
 !!! danger also there's probably several good reasons most of these struggled to last more than a few threads
 
@@ -449,4 +449,10 @@ https://arch.b4k.co/vp/thread/54695331/ realidea1 is it really that hard to not 
 https://arch.b4k.co/vp/thread/54700010/ realidea2 boobies
 https://arch.b4k.co/vp/thread/54707624/ realidea3 many milfs but not enough writefags
 https://arch.b4k.co/vp/thread/54719646/ realidea4 that was fast
-https://arch.b4k.co/vp/thread/54730680/ gaia1
+https://arch.b4k.co/vp/thread/54730680/ gaia1 man this is dated
+https://arch.b4k.co/vp/thread/54744384/ gaia2 that was faster (final filler thread for now)
+
+##Rejuvenation v13.5 Multi-LP
+!!! Status: Ongoing
+    Rejuvenation v13.5 finally released after over 2 years of waiting for an update that didn't even get a full version number (only half of one). Here you can watch a bunch of tripfagging idiots experience the results of thousands of dollars of Patreon money laundering.
+https://arch.b4k.co/vp/thread/54771058/ 1 it's beginning

@@ -1,7 +1,7 @@
 #/erbsg/ - Eternal Return: Black Survival General
 
 \>What is this?
-Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 1 finished October 25th, 2023. 
+Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 2 begins November 9th, 2023.
 
 \>Steam Link
 https://store.steampowered.com/app/1049590/Eternal_Return/
@@ -10,7 +10,7 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 https://playeternalreturn.com/posts/news/1515 (1.7 Patch Notes)
 https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards)
 https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
-https://event.playeternalreturn.com/ER_Season2 (Season 2)
+https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=J8z5CavPCYY
@@ -51,7 +51,6 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1512 (~10/31)
 https://playeternalreturn.com/posts/news/1485 (~11/9)
 https://playeternalreturn.com/posts/news/1520 (Twitch drops, ~11/9)
 

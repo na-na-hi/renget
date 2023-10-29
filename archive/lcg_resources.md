@@ -105,13 +105,14 @@
 
 ## Miscellaneous
 * [Limbus Company Update Countdown](https://lcbcountdown.carrd.co/)
-* [Lobotomy Corporation Optimization Mod](https://www.nexusmods.com/lobotomycorporation/mods/57)
-* [Lobotomy Corporation Screenshot Let's Play](https://lparchive.org/Lobotomy-Corporation/)
 * [Art Director Artstation](https://www.artstation.com/naiga12)
 * [Project Moon TTRPG](https://drive.google.com/drive/folders/15nMYLz0sB5xWUiSOG4oN6IsteRJjpdZk)
 * [Book of Fixers: The Fixer RPG](https://archive.4plebs.org/tg/thread/76610447/)
 * [Limbus Company Character Generator](https://en.shindanmaker.com/1163956)
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
+* [Library of Ruina Dialogue Bug Fixes Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2993072469)
+* [Lobotomy Corporation Optimization Mod](https://www.nexusmods.com/lobotomycorporation/mods/57)
+* [Lobotomy Corporation Screenshot Let's Play](https://lparchive.org/Lobotomy-Corporation/)
 * [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
 * [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
@@ -153,5 +154,5 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/16/23: Added identity story viewer link
 10/20/23: Added all interview links and LobCo LP link
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
-10/25/23: Added LimCum update countdown link
-10/26/23: Added Ara channel link link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/25-26/23: Added LimCum update countdown link. Added Ara channel link
+10/29/23: Added Library of Ruina Dialogue Bug Fixes link ![lol&](https://files.catbox.moe/7dmu76.png)

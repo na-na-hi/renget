@@ -10,7 +10,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 65/70
+**Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 60₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
 
@@ -19,13 +19,13 @@ Pokémon's Ability | Description
  Sheer Force | The User's Moves with secondary effects have their damage increased by 3. Secondary effects are removed.
 
 ->Rookie Rank<-
-->*50/400 points to Normal Rank*<-
+->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -67,7 +67,7 @@ Attribute Move: Rock Tomb | *Tier ɪ* | 6 AP move turn to No Penalty Accuracy
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 4/9 | ▮▮▮▮▯▯▯▯▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
