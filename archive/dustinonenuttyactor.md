@@ -8,7 +8,7 @@
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** ==Desperate For Work, Actor==
 **Species:** Bagon | **Affiliation:** ==REPLACE==
-**Level:** 6 | **Experience to Next Level:** 30/60
+**Level:** 7 | **Experience to Next Level:** 5/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 ==Rock Head== | ==Protects the Pokémon from recoil damage.==
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*40/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

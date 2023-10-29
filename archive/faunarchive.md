@@ -900,5 +900,46 @@ Set list (stream starts at 0:27):
 
 [warosu](https://warosu.org/vt/thread/58947837#p58948377)
 
+#### October 2023
+
+##### 800k celebration safari karaoke
+[2023-10-28](https://youtu.be/gOVooX08Mps)
+
+[magnet](magnet:?xt=urn:btih:86b8e57bf591d47bb47b152a9bc2393b385907fa&dn=%5B20231028%5D%20Unarchived%20800k%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[mega](https://mega.nz/folder/LQZxjI5S#ctKAY4tMi2MXs8ndoNnQZA)
+[audio only mega](https://mega.nz/file/chxzlBRT#Ltzrvna_IWlpUx0BKr0VyzNw5etSK6lVZzqSj1QPjSs)
+
+[gofile](https://gofile.io/d/671PHI)
+
+Set list (stream starts at 1:48):
+1. Toto - Africa (7:03)
+2. Miley Cyrus - Party in the U.S.A. (14:01)
+3. Survivor - Eye of the Tiger (18:58)
+4. Smash Mouth - All Star (24:20)
+5. fun., Janelle Monáe - We Are Young (33:00)
+6. fun. - Carry On (incomplete / up to first chorus; 37:43)
+7. fun. - Some Nights (42:42)
+8. Cotton Eye Joe (unknown arrangement) (52:38)
+9. Lady Gaga, Beyoncé - Telephone (58:45)
+10. Coldplay - Viva la Vida (1:04:00)
+11. Lana Del Rey - Video Games (1:09:12)
+12. OutKast - Hey Ya! (1:17:26) (1 second dropout at 1:17:40)
+13. Nickelback - How You Remind Me (1:22:25)
+14. Vanessa Carlton - A Thousand Miles (1:33:49)
+15. Panic! at the Disco - Don't Threaten Me with a Good Time (1:41:04)
+16. The B-52's - Rock Lobster (1:45:17)
+17. The Offspring - You're Gonna Go Far, Kid (1:50:42)
+18. Baby, It's Cold Outside (incomplete; 1:57:52)
+19. The Ronettes - Be My Baby (2:00:08)
+20. Tyler, The Creator; Kali Uchis - See You Again (2:03:47)
+21. BENEE, Gus Dappteron - Supalonely (2:07:56)
+22. Vance Joy - Riptide (2:13:38)
+23. Train - Hey, Soul Sister (2:18:11)
+24. Jason Mraz - I'm Yours (incomplete / up to bridge; 1:23:42)
+25. Gorillaz, De La Soul - Feel Good Inc. (2:26:50)
+26. Queen - Bohemian Rhapsody (2:31:46)
+
+[warosu](https://boards.4channel.org/vt/thread/61467143#p61469006)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

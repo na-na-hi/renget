@@ -38,7 +38,7 @@ I sighed, "OK fine, I guess we could join the party."
 
 "Thanks, Maxi!"
 
-"OK then!" Furret said, "The contest deadline is in two days so you better hurry up!"
+"OK then!" Furret said, "The party is in two days so you better hurry up!"
 
 Both of our eyes widened "T-T-Two days!?" I bewilderingly replied "Isn't the festival supposed to be in three days?"
 
@@ -56,7 +56,7 @@ That was the sound we made when we were struggling to come up with anything, We 
 
 "Nada."
 
-"Augh, the contest is in 2 days and we have NOTHING. It'll take a Giant miracle to get us out of this situation."
+"Augh, the party is in 2 days and we have NOTHING. It'll take a Giant miracle to get us out of this situation."
 
 "Giant...? Huh?"
 
@@ -72,7 +72,7 @@ Without saying a word I got up, grabbed the nearest piece of paper and a pencil,
 
 When I finished drawing I looked over at Maddi
 
-"Our costume for the contest," I said, showing her the drawing.
+"Our costume for the party," I said, showing her the drawing.
 
 "That's great but... how are we gonna make it, i dunno how to make costumes."
 
@@ -92,7 +92,7 @@ The two of us ran out the door, we had no time to lose, I can't believe I passed
 
 "No, it's not, I made a promise to you and I failed..."
 
-"No, No it's alright Maxi, It didn't if we entered the contest or not, I'm just happy that you were doing it with me."
+"No, No it's alright Maxi, It didn't if we joined the party or not, I'm just happy that you were doing it with me."
 
 I sniffed and got my act together
 
@@ -108,7 +108,7 @@ Furret began laughing. "If you wanted your costumes made then you should've come
 
 We both froze in a stupefied state. "What."
 
-"It might not look like it but I know my stuff, i've been making all of the Guild Members costumes for the contest."
+"It might not look like it but I know my stuff, i've been making all of the Guild Members costumes for the party."
 
 "Then, can you help us out?" I said showing her the drawing I made.
 

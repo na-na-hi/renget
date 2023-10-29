@@ -24,6 +24,12 @@ Image| Name | Description | Link
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/rxcwvx.png) | Angel | Angel is an ojou sama who was heavily inspired from tamaki from ouran high school host club. She is a transfer student from France and is seemingly beloved by everyone at your school. She is intensely jealous of you and will try to one up you at any chance. However, she is weak to compliments and you can fluster her easily with them. | [CHUB link](https://www.chub.ai/characters/lunare/angel-a1e0109f) [Catbox link](https://files.catbox.moe/rxcwvx.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/3uay4n.png) | Nicole | a talented piano prodigy who isn't as lovely as she seems. first yuri bot! | [CHUB link](https://www.chub.ai/characters/lunare/46348752-7781-43e6-bcf7-afe5cbd1c11b) [Catbox link](https://files.catbox.moe/3uay4n.png)
 
+###DEMONS... BUT YURI
+yes this is inspired by obey me
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/pz6h1k.png) | Belphie | The youngest of the avatars of sin. Belphie is the avatar of sloth, who has existed for an incomprehensible amount of time. She is powerful, cunning, and a lazy NEET shut-in who is obsessed with yaoi. Comes with two greetings, one where you're a human she summoned hades and persephone style and another where her older sister assigns you to her so Belphie can have a friend. | [CHUB link](https://www.chub.ai/characters/lunare/belphie-0660a1e8/main) [Catbox link](https://files.catbox.moe/pz6h1k.png)
+
 ###MALE BOTS!
 my male bots which i make when i feel like it
 Image| Name | Description | Link

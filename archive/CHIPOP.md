@@ -142,6 +142,7 @@ https://rentry.org/TKDCHIP
 	***
 	>**▶/chip/ Art & Other OC:**
 	>https://catbox.moe/c/flj9bj
+	>https://catbox.moe/c/m0p63k *(Thank you, fren, very cute hamas-chans)*
 	>>==i.e. Hamas-chan, and friends:== ![C728](https://files.catbox.moe/ghe3ro.webp), ![C628](https://files.catbox.moe/mg5c0c.webp), ![C916](https://files.catbox.moe/a25vl7.webp), ![C518](https://files.catbox.moe/kfe7xb.webp) and etc.
 	***
 	>**▶/chip/ OP banners/picrels for emergency baking** *(temporary, will be updated later with the full folder containing all materials.)*

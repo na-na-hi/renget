@@ -13,9 +13,9 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
 
-!!! note CURRENT STATUS
-	->**ACTIVE**<-
-    ->Oh yeah, I'm around. For now.<-
+!!! warning CURRENT STATUS
+	->**SEMI-HIATUS**<-
+    ->Still lingering for now, but not as active.<-
 	->If you wanna talk, or request something regardless, hit up my burner: darkfantasy109@proton.me<-
 **Table of Contents**
 [TOC2]

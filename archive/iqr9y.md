@@ -305,7 +305,7 @@ How- Ah, right, she mentioned she knew about my attack on the guild earlier. Sho
 
 Melody sits next to me on the bed. "To the human world?"
 
-I nod. "I build the perfect life for myself there. I had finally reached the goals I had been aiming for my entire life. But then one day..." My right fist clenches up. "All of it, everything I worked towards, gone. I'm in a completely different world."
+I nod. "I built the perfect life for myself there. I had finally reached the goals I had been aiming for my entire life. But then one day..." My right fist clenches up. "All of it, everything I worked towards, gone. I'm in a completely different world."
 
 Her smile disappears as she listens to me talk, and her expression changes to a solemn, yet understanding one. "I can't even imagine that... What did you do back when you were in the human world?"
 
@@ -321,7 +321,7 @@ I smirk. "Yeah, but in a different way. I might've ruined a few lives usin' some
 
 She tilts her head curiously. "So you had people you cared about that you had to leave behind? Y'know, I thought you were a loner at first, but sounds like you had a nice wife or a family."
 
-I scoff. "Yeah, I HAD a wife. She left me before I left that world, but didn't mind. I never really cared for her much, and at that point, I had already gotten all that I could ever want out of her."
+I scoff. "Yeah, I HAD a wife. She left me before I left that world, but I didn't mind. I never really cared for her much, and at that point, I had already gotten all that I could ever want out of her."
 
 "You sure sound like you were a loving husband." She says sarcastically.
 

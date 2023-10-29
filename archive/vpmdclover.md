@@ -419,6 +419,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
+	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
 * Collab Writing
@@ -607,6 +608,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 * {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
+* {||} [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

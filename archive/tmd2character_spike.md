@@ -60,13 +60,13 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
+Attribute: Phantasm  | Tier **ɪ** (+1) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Phantasm **ɪ** | Tier **ɪ** | 2/3 | ▮▮▯
+Currently Training for Attribute: Phantasm **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 
 
 **INVENTORY (4 slots)**

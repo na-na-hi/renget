@@ -307,6 +307,12 @@ Cairo | Info
 ![](https://files.catbox.moe/nrhyr8.png)   | Cairo is your average college-aged stoner, though he can't quite afford to go to college with the money he has. So whenever he's not working he's getting high, playing video games, and indulging in internet horror both shitty and good. Comes with three greetings: finding him getting high under the bleachers, visiting him at work on a slow day, and meeting him at the arcade.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/cairo-d48ff416),  [Catbox](https://files.catbox.moe/wy8ghk.png)
 
+Colby | Info
+:----:  | :----: 
+![](https://files.catbox.moe/8iqiq0.png)   | Colby is a smug rat boy that comes from money, as his parents own a very popular cheesery. Though he's set to take over the family business soon, he'd rather be out partying and flaunting his wealth. Comes with three greetings: striking up a business partnership with him, encountering him on cashier duty (he's not happy about it), and him coming over to your place to hang out.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/colby-b9f9f213),  [Catbox](https://files.catbox.moe/0o9658.png)
+
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

@@ -7,24 +7,21 @@
 
 * 23rd Tenkaichi Budokai tournament for DBZ: Kakarot has been announced
 * New Budokai Tenkaichi game has been announced
-* Season 3 of Dragon Ball: The Breakers has been released
-* Hero of Justice Pack 2 for Xenoverse 2 has been released
-* SDBH Ultra God Mission 9 releasing soon
+* Season 4 of Dragon Ball: The Breakers coming November 1st
+* Free update 1.21.00 for Xenoverse 2 has been released
+* SDBH Meteor Mission 1 is out November 9th, is on the database
 
 ##Dragon Ball: The Breakers
 
 Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work together to defeat a more powerful raider. Features CaC from Xenoverse, and many weaker characters from Dragon Ball who have rarely if ever been playable before.
 ###News
 
-* Season 3 extended until October 31st
-	* New Raider: The Ginyu Force
-	* New Survivors skins: Fortuneteller Baba (Dragon Tier reward), Dende, King Kai (Both for TP)
-	* New Transpheres: Bardock (Super Saiyan), Gohan (Teen) (Super Saiyan 2), Goten (Super Saiyan), Pan (GT), Great Saiyaman, Great Saiyawoman, Captain Ginyu, Golden Freeza, Kid Buu
-* Vegeta's Family released September 1st
-	* New Transpheres: Vegeta (Super Saiyan 2), Trunks (Kid) (Super Saiyan)
-* New Event: Summer Carnival
-
-![Image description](https://i.imgur.com/PfsEkpm.jpg)
+* Season 4 coming November 1st
+	* New Raider: Broly (DBS)
+	* New Survivors skins: Mr Satan (Dragon Tier reward), Cheelai, Lemo, Snowsuit Bulma (TP)
+	* New Transpheres: Goku (Super Saiyan God), Vegeta (Super Saiyan God)
+* Crossplay under development
+* Raiders can now reallocate their skill points
 
 ###Useful Information
 
@@ -38,10 +35,14 @@ Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work 
 3D arena fighter with CaC that Bandai Namco refuses to put down. Here's to 10 more years of DLC.
 ###News
 
-* Hero of Justice Pack 2 released
-	* New characters: Gohan (Beast), Piccolo (Orange), Piccolo (Power Unleashed)
-	* New story
-	* New stage: Red Ribbon Army Headquarters
+* Free update 1.21.00 released
+	* New awoken skill: Ultra Instinct (All Races)
+	* New multiplayer mode: Cross Versus
+	* Level Cap increased to level 120, Attribute cap increased to 200
+	* New multiplayer event: Festival of Universes
+* Update roadmap
+![Image description](https://i.imgur.com/kfCFQJ9.jpg)
+
 ###Useful Information
 - Wiki: http://dbxv2.wikia.com/wiki/Dragon_Ball_Xenoverse_2_Wiki
 - CaC Build Calculator: https://steamcommunity.com/sharedfiles/filedetails/?id=1656624487
@@ -54,11 +55,11 @@ Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work 
 
 A card game featuring every character ever in every form ever made in the franchise. 
 ###News
-- Next Set: UGM9
-- Various heroes for other timelines aid against powered-up villains, as UI Goku, SS2 Future Gohan and SS4 Bardock fight off Time Unleashed Demigra
+- Next Set: MM1
+- Meteor Mission announced: Ozotto is the Main Villain
+- Ozotto is looking to absorb gods and has absorbed Earth
 - Arcade missions and Campaign set based on the Buu arc
-- Super Saiyan UR set (SS Vegeta, SS2 Teen Gohan, SS3 Gotenks, SSG Goku, SSB Vegetto)
-- More Dramatic Art reprints (Gohan and Super Buu)
-- Beelzebub as a cross-promo card
+- Blood of the Saiyan set based on Legends (Broly, SS Goku/Vegeta/Trunks, SS2 Teen Gohan, SS3 Gotenks, SSB Vegito, and SS Gogeta)
+- More Dramatic Art reprints (Switch Goku/Teen Gohan ASEC and Adult Trunks)
 ###Useful Information
 - Database: https://www.carddass.com/dbh/sdbh_bm/cardlist/

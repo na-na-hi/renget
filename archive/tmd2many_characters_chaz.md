@@ -11,7 +11,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 8 | **Experience to Next Level:** 10/80
+**Level:** 8 | **Experience to Next Level:** 45/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
 
@@ -20,7 +20,7 @@ Pokémon's Ability | Description
 Inner Focus | The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.
 
 ->Rookie Rank<-
-->*65/400 points to Normal Rank*<-
+->*105/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -84,7 +84,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Bread | Food item.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
