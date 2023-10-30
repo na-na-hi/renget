@@ -17,7 +17,7 @@ Talent: Crippled
 Realm: 0
 > Body Tempering
 Talent: Immortal (Life-Bound Treasure)
-Realm: 3
+Realm: 4
 > Soul Refining (-30)
 Talent: Immortal (-20)
 Soul Scenery (-10)

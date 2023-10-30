@@ -69,12 +69,14 @@ When you use Tavern to call APIs, the "Parameters" tab in oobabooba UI does noth
 ###### 6. Resources to go further
 a. Currently oobabooga doesn't support continuous batch inference, that means everybody using the proxy must wait in a single queue for their turn. https://github.com/huggingface/text-generation-inference is the solution, but it doesn't have a cozy front-end like oobabooga, and supports fewer samplers. For a quick guide, see https://vilsonrodrigues.medium.com/serving-falcon-models-with-text-generation-inference-tgi-5f32005c663b
 
-b. text-generation-inference command line that worked for me, it's slower than exllama for single-inference, but scales up better:
+b1. text-generation-inference command line that worked for me, it's slower than exllama for single-inference, but scales up better:
 ```
 docker run --net=host --gpus all --shm-size 14g -v /home/user/data:/data ghcr.io/huggingface/text-generation-inference:latest --model-id TheBloke/MythoMax-L2-13B-GPTQ --max-input-length 8184 --max-total-tokens 8192 --max-batch-prefill-tokens 8184 --rope-factor 2.6 --rope-scaling dynamic --quantize gptq
 ```
 
-c. vLLM is an alternative to TGI: https://github.com/vllm-project/vllm, you must use AWQ quants. It's a library, also supports fewer samplers than ooba. Refer to this anon's implementation to host a proxy with vllm: https://git.evulid.cc/cyberes/local-llm-server
+b2. Aphrodite is an alternative to TGI, it supports AWQ and GPTQ quants, and multiple endpoint formats. https://github.com/PygmalionAI/aphrodite-engine
+
+b3. vLLM is another alternative to TGI if you like pain: https://github.com/vllm-project/vllm, you must use AWQ quants. It's a library, also supports fewer samplers than ooba. Refer to this anon's implementation to host a proxy with vllm: https://git.evulid.cc/cyberes/local-llm-server
 
 d. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The former two charge for storage so you'll get charged even if you turn off your instance, while banana.dev rents out serverless GPUs only so no idle fees but the pricing is bananas expensive.
 

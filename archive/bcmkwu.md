@@ -1,4 +1,7 @@
 ▶NEW CLIPS
+>Two videos of the BMPT "Terminator" in action at  
+https://files.catbox.moe/48yx3j.mp4 (Avdeyevka)
+https://files.catbox.moe/su28ez.mp4 (Kremennaya)
 >POV: RU Air Recon forces assault AFU encampment in the woods
 https://files.catbox.moe/7dh43e.mp4
 >POV: Russian assault on an AFU trench

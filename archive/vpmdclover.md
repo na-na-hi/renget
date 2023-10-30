@@ -282,6 +282,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
 	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
 	* [Chespin's Week](https://rentry.org/chespinsweek)
+	* [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9) *Not on Table*
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -350,7 +351,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 	* [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 	* [The Trash Bag and The Food Thief](https://rentry.org/2y9ab)
-	* [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
+	* [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87) *Not on Table*
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -416,10 +417,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
-	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
+	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y) *Not on Table*
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
-	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
+	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo) *Not on Table*
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
 * Collab Writing
@@ -609,6 +610,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 * {||} [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
+* {||} [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

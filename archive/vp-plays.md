@@ -456,3 +456,4 @@ https://arch.b4k.co/vp/thread/54744384/ gaia2 that was faster (final filler thre
 !!! Status: Ongoing
     Rejuvenation v13.5 finally released after over 2 years of waiting for an update that didn't even get a full version number (only half of one). Here you can watch a bunch of tripfagging idiots experience the results of thousands of dollars of Patreon money laundering.
 https://arch.b4k.co/vp/thread/54771058/ 1 it's beginning
+https://arch.b4k.co/vp/thread/54772581/ 2 lurker intelligence not guaranteed

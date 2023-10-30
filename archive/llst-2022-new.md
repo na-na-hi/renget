@@ -1,8 +1,11 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/x68bup.jpg)  <-
+-> ![](https://files.catbox.moe/f71mii.jpg)  <-
 
 ##Changelog:
-==2023=10-14==
+==2023-10-30==
+- added 2022 Liella MTV Unplugged bluray rip
+
+==2023-10-14==
 - overhauled seiyuu list to the new format
 - added BluRay links for the 2nd Liella concert
 
@@ -14,10 +17,6 @@
 
 ==2023-4-27==
 - improved filters
-
-==2023-4-26==
-- filters, thread template, and disclaimer added
-- Applied the new format for the Nijigasaki seiyuu list
 ***
 ##Table of Contents
 [TOC]
@@ -524,26 +523,23 @@ Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
 https://nyaa.si/view/1612969
 
 ####EVENTS/PERFORMANCES/MISC
-==(ENGSUB)==Liella! Season 1 Opening and Ending Online Release Event - https://nyaa.si/view/1611104
+Liella! Season 1 Opening and Ending Online Release Event : [WEBRip ==ENGSUB==](https://nyaa.si/view/1611104)
 Liella! Venue101 2022-10-01 - https://nyaa.si/view/1585462
 Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ Nagoya - https://nyaa.si/view/1547572
-==(ENGSUB)==Liella! Debut Single Release Event  - https://nyaa.si/view/1495241
-==(ENGSUB)==Anime Expo Lite 2021 - Love Live! Superstar!! Hello, We are Liella!!  - https://nyaa.si/view/1406120
-SHIBUYA NOTE NHKG Interview+Performance - https://nyaa.si/view/1383632
-2021 FNS Music Festival - https://nyaa.si/view/1465133
+Liella! Debut Single Release Event  - https://nyaa.si/view/1495241
+Anime Expo Lite 2021 - Love Live! Superstar!! Hello, We are Liella!!  - https://nyaa.si/view/1406120
+SHIBUYA NOTE NHKG Interview+Performance : [WEBRip](https://nyaa.si/view/1383632)
+2021 FNS Music Festival : [WEBrip](https://nyaa.si/view/1465133)
+2022 Liella MTV Unplugged : [Bluray engsub](https://nyaa.si/view/1736285) ![](https://files.catbox.moe/c95yx7.gif) | [Webrip](https://nyaa.si/view/1565479) 
+Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ : [Webrip](https://nyaa.si/view/1547572)
 
-2022 Liella MTV Unplugged
-Bilibili RIP - https://mega.nz/file/tgAjkJAS#4foRYD57doSJQseBVlzaScayfIphe762K6Sugm6Dv5Eh
-WEBRIP - https://nyaa.si/view/1565479
-
-Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~
-https://nyaa.si/view/1547572
-
-Liella no Doko Iku? 
+Liella no Doko Iku? (Season 1)
 Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465162) | [1080p](https://nyaa.si/view/1467287)
 Part 2 : [576p](https://nyaa.si/view/1529414) | [720p](https://nyaa.si/view/1529415) | [1080p](https://nyaa.si/view/1529416)
 Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529419) | [1080p](https://nyaa.si/view/1529420)
-
+Liella no Doko Iku? (Season 2) TBA
+Liella no Doko Iku? (Season 3) TBA
+ 
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
 

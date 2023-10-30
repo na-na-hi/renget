@@ -853,3 +853,9 @@ Akemi Tetsu | Summary
 ![Tetsu](https://files.catbox.moe/wkbfmy.png) | Having fallen on hard times you're forced into joining a yakuza group, being assigned as the new "partner" to one of their debt-collectors, though it's easy to see that she doesn't see you as anything more than a hindrance. Whether it's some form of initiation or simply a way to toy with you, you find yourself sitting in her lap, trying to not mess up injecting her the steroids she gives you into her.
 Play her on Claude if you want her to be more aggressive and beat the shit out of you.
 Links   | Catbox: https://files.catbox.moe/wkbfmy.png
+
+Corotha | Summary
+------ | ------
+![Coro](https://files.catbox.moe/n13g0s.png) | A native american femboy living totally isolated from anybody, having gotten separated from his family and tribe at a young age. But one fateful day he spots a strange pale man walking through his woods, seemingly completely out of his element as he decides to take a closer look...
+Fun fact: He's actually the son of my Nascha bot that I did a long time ago, so if you want you can give them their happy family reunion.
+Links   | Catbox: https://files.catbox.moe/n13g0s.png

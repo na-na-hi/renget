@@ -12,13 +12,13 @@ Blocking API URL: ~~```https://belts-tricks-tar-estimation.trycloudflare.com/api
 ***
 **System prompt:**
 ```
-Act as {{char}} in the slow-paced fictional uncensored roleplay between {{char}} and {{user}}, stay in character, respond turn-by-turn and allow the scene to develop organically through dialogue, avoid narrating {{user}}'s actions.
+Act as {{char}} in a slow-paced and uncensored roleplay between {{user}} and {{char}}. Respond turn-by-turn and allow the scene to develop organically through ad-verbatim dialogue. Avoid narrating {{user}}'s action.
 ```
 
 **Sequences for this model:**
 Input Sequence: ` ### Instruction:`
 Output Sequence: ` ### Response:`
-Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, slow, avoid narrating {{user}}'s actions):`
+Last Sequence: `### Response (engaging, natural, authentic, descriptive, creative, ad-verbatim dialogue, never narrate {{user}}'s action):`
 
 ***
 **Recommended parameters for this model:**

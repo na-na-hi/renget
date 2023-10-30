@@ -158,6 +158,7 @@
 10/2023|[Augmented Embeddings for Custom Retrievals](https://arxiv.org/abs/2310.05380)
 10/2023|[Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/abs/2310.05707)
 10/2023|[Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441)
+10/2023|[CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -420,6 +421,7 @@
 10/2023|[DoGE: Domain Reweighting with Generalization Estimation](https://arxiv.org/abs/2310.15393)
 10/2023|[E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity](https://arxiv.org/abs/2310.15929)
 10/2023|[Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation](https://arxiv.org/abs/2310.15961)
+10/2023|[Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
