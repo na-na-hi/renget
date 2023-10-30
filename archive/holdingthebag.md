@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 26th October. All dates dd/mm.
+!!! Note Last updated: 30th October. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -107,6 +107,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+6 | Arona#1 | Open as of 30/10
 244 | Cute&Funny | Open as of 01/09
 3640 | DFC | Open as of 08/10
 6488 | Kanimochi | Open as of 26/10
@@ -118,7 +119,6 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Full as of 24/10
 90 | Bullies | Full as of 18/09
 286 | カニ (Kani - crab for dekinais) | Full as of 24/10
 343 | M8ingPressers | Full as of 03/04
@@ -141,7 +141,8 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-2496 | AbydosCycling | Open as of 26/10
+623 | Mesugaki | Open as of 28/10
+2496 | AbydosCycling | Open as of 30/10
 6098 | Comfy | Open as of 16/09
 6289 | FlatIsJustice | Open as of 24/10
 
@@ -150,7 +151,6 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
 477 | BunnyChasers | Full as of 24/10
-623 | Mesugaki | Full as of 07/06
 1631 | CHADS | Full as of 04/09
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
@@ -162,6 +162,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 29/10
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 20375 | YuzuQ | Open as of 09/04
@@ -169,7 +170,6 @@ Club ID | Club Name | Club Status
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Full as of 14/10
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

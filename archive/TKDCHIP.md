@@ -407,3 +407,5 @@ https://files.catbox.moe/oxnxdk.mp4
 https://files.catbox.moe/lrp9fp.mp4
 >Destroyed Merkava video (added oct 30th)
 https://files.catbox.moe/6rs8mb.mp4
+>"US embassy under biological attack" kek  (added oct 30th)
+https://files.catbox.moe/6xrnq3.mp4

@@ -1130,3 +1130,210 @@ Rentry for past days: https://rentry.org/sggoi
 >"How was it? Meeting my other self? Tell me all about it!"
 
 ***
+
+## Day 23 - Konbini Shiori
+
+>You've just moved in to the new neighbourhood.
+>You decide to head in to your new home quickly, feeling exhausted from the whole move ordeal.
+>As you prepare to unwind, you hear a knock at the door.
+>You answer the door and see a rather strange looking girl.
+>Two tone hair, golden eyes, a gentle smile.
+>"Oh, hello, you must be the new neighbour!"
+>She hands you a basket then says: "Think of this as a welcome gift! What's your name?"
+>You introduce yourself to her, and she introduces herself as Shiori,
+>She then smiles and takes her leave. As she leaves, you sit down on the sofa with the basket.
+>Opening the basket, you notice that a lot of it is...not what you expected.
+>A sandwhich with some mold on it, a soda that's expired and a note.
+>"Welcome to the neighbourhood, sorry if it's gone bad, it's all I had and I tried my best."
+>You can't tell if there's something odd with her or if she made a mistake, but you're left giggling, just a little bit.
+>The following day you wake up and check on your refrigerator, nothing new, it's time to stop by the convenience store.
+>You arrive, grab a shopping cart and start walking.
+>Then you see her again
+>This time she's wearing a uniform?
+>She turns her head and immediately sees you, a smile on her face appears afterwards, as she starts to approach you.
+>"Oh, hello Anon!"
+>You gaze at her uniform a little, it kinda looks nice on her, but as you catch yourself staring a little too long and shake your head.
+>You then respond to her: "Hey, work here I assume?"
+>She smiles a little and nods happily.
+>She then goes back to stocking the shelves but then suddenly she trips over, packages of potato chips splattered on the floor.
+>"Ah...FRICK, GOSH DARN IT!"
+>Her sudden outburst caused you to suddenly turn around and see her.
+>She sighs and gets up, whimpering a little.
+>You ask her if she needs help but she looks at you with a frown and says: "I-I'm good, let me handle it."
+>She bows in front of you and comes back with a dustpan and broom, sweeping up the mess she's made.
+>As she gets up, an announcement is made over the intercomm asking for someone to take one of the service counters.
+>Shiori puts the dustpan and broom away and heads for the counter.
+>The whole experience had you trying to hold back from laughing, something you managed to pull off miraculously, but now you understand why the welcome basket had a bunch of expired stuff.
+>You decide to continue your shopping, picking up various groceries and then finally ready to make your purchases and go home.
+>You stand in line, noticing that Shiori is still there.
+>As you approach her you place products onto the scanner.
+>"Ehhh Anon you're buying so much! You can just come over and I can make you something if you'd like!"
+>While the offer does sound tempting, your thoughts go back to the welcome basket she gave you, what if there's other expired and possibly molding food awaiting you if you accepted that.
+>Shaking your head, you give her a gentle smile and decline.
+>She pouts just a little, enough for you to notice, then continues scanning your items.
+>Suddenly the scanner begins to scan your items more than once, Shiori is panicking: "Oh nonono PLEASE STOP THIS! FRICK!"
+>Another mess up in-front of you, this time you can't tell if you're cursing her or if she's just unlucky in general.
+>Her manager comes in, trying to reassure her that it's fine. As her manager takes over, she apologizes to you and corrects the mistakes that were made with your purchases.
+>You manage to catch Shiori walking out of the convenience store in the corner of your eye, her shoulders noticeably slumped.
+>Some form of pity takes over you, and as you walk out of the store, you stop by next to her and ask her, with a tone filled with a mix of pity but also a hint of curiousity.
+>"Hey, do you wanna come over for dinner? It'll probably cheer you up."
+>She looks at you and sighs a little, instead asking you: "Can you come over instead? My cats are super clingy around night time."
+>You gently pat her back, your concern for her clearly growing, and so you accept, looks like you're getting to know your neighbour just a little bit more.
+>She looks at her phone, checking the time.
+>You happen to notice her wallpaper depicting what seemed to be her in a gothic black dress taking up a pose. Perhaps she liked to dress up on the weekends?
+>Before you can ask her about it, you suddenly hear her say: "Ah! Sorry anon I gotta continue my shift now! See you tonight!"
+>With that she rushes back in, and you leave with a little smile on your face.
+>But as you leave, you hear a rather large crash, and the sounds of a girl yelling out, trying to stop herself from cursing.
+
+***
+
+## Day 24 - Furry Shiori
+
+>Shiori is relaxing on the sofa, humming a soft tune that she had just made up.
+>Her eyes are closed as she hums, if a picture were to be taken, it could have been accompanied with the word "Peace."
+>She has a book on her lap, and she slowly notices your presence, gently opening her eyes to gaze at you.
+>"Would you like to accompany me in another story tonight?"
+>You sit down, nodding towards her.
+>As you get comfortable, she continues to hum, and then you notice the cover of the book is blank.
+>Curious, you ask her what today's story will be about, but she simply places her finger over her lip and winks at you.
+>She opens the book and begins to read to you: "This is the story of a certain young man, who's adventure began that faithful day."
+>Your eyes begin to close as you listen to her voice, her tone full of interest as she's reading out loud to you.
+>A few moments pass and you open your eyes, you're wearing what seems to be standard gear that an adventurer would wear
+>You notice you're wearing a backpack, and have a sword hanging off your waist belt.
+>Suddenly, you feel soft paws press on your shoulders
+>You see a cat that's black on one side and white on the other.
+>Without even having to guess, you say outloud to the cat, in a tone that has both amusement and confusion in it: "Shiori, what is this?"
+>The cat looks at you, then responds in a voice that sounds like an utter joke
+>"Meow! I'm a cat nyow! And you see dish world? You gotta shave it!"
+>You resist the urge to laugh, and possibly even cry
+>Suddenly, Shiori the cat begins to glow
+>"Huh? Whatsh happening?" she asks, her voice still in that joking tone.
+>The glow then transfers to you, and suddenly you feel, lighter?
+>A stat window pops up before you and it shows that your strength, HP and stamina have all gone up.
+>Shiori peeks at the stat window with you, being able to see it.
+>"Ohhh, so you're like a magical girl and I'm the mascot!"
+>Her tone no longer the joking tone she was using just earlier, she nods her head in acknowledgement.
+>"But Anon, you're not appropriately dressed for a magical girl!"
+>You look at the cat Shiori, then you try to explain how you aren't in fact a magical girl at all.
+>The cat smiles at you then waves its paw at you, sharp claws extend out then dig into your skin.
+>"No Anon! You are indeed a magical girl!"
+>Her tone was ridiculous, you could tell she wasn't serious at all, but the pain you felt against your skin was enough to tell you that it'd be better to stop denying it.
+>You decide it's time to move along with the story and you begin to walk forward, on the way you encounter a mix of goblins, slimes, rats and other beginner monsters you'd encounter in an RPG.
+>Shiori is clinging to your shoulder, constantly nagging at you like a fairy that would repeatedly tell you to listen.
+>Driven by a mix of madness, and desire to adventure, you continue until you run into a goblin that's slightly different.
+>You can see miasma seeping out of it.
+>Shiori suddenly stands on your shoulder and says in a solemn voice: "Those are the monsters infected by the demon king, I'll distract it, you do your best to stop it!"
+>Shiori jumps off your shoulder and bares her claws at it, however the goblin simply flicks her away in almost comical fashion
+>As you watch the scene before you, you brandish your weapon and begin to fight the goblin, however its strength is vastly higher than yours and you feel yourself fall to the ground, the status screen showing your HP is about to hit 0.
+>You hear Shiori's voice ring in your head, though it sounds like a complete joke: "Jusht call out for moar power anon!"
+>You yell, loudly, facing the heavens for more strength, and as if God had responded to you, you're bathed in a golden light.
+>Suddenly your status screen pops up before you and says: "Congratulations, you've unlocked an achievement: 'Yelling like a dumbass'"
+>Your sudden burst of strength is replaced with a look of someone dumbfounded, what the fuck?
+>Deciding it wasn't worth thinking about, you pick up your sword once more and slay the goblin.
+>As it falls to the ground, you notice you've leveled up, and also Shiori pops out of some nearby bushes and digs her claw into your cheek again.
+>"You didsh it Anon! Congrats! I knew you could do it Look at you!"
+>You can't tell if you're genuinely being praised or mocked
+>Suddenly your eyelids feel heavy, the story is being interrupted?
+>Your eyes close, then open again, and you're back at the sofa sitting next to Shiori
+>You turn towards her, wanting to ask what happened
+>Then you notice that she had fallen asleep.
+>You sigh a little, having just gotten into the "magical girl" routine that you were thrown into.
+>Afterwards, you get a blanket and place it over Shiori, a content smile shows on her face afterwards.
+
+***
+
+## Day 25 - Apron Shiori
+
+>You stumble upon an abandoned building
+>The rain is unrelenting, it's heavy, sound is being obscured by the heavy pitter patter.
+>Without a second thought, you enter the building, hoping to avoid the rain from assaulting you further.
+>Utterly drenched, you notice that there's lights coming from a certain room towards the back.
+>You enter and find yourself in a rather well-kept living room, a fireplace is roaring, and another room has a light on.
+>You hear a voice echo throughout the room and resonate inside of you, as if the voice isn't speaking to your ears, but rather to your brain.
+>"A visitor? Or maybe...Hmm."
+>Inky tendrils grip onto your legs, and tug hard at you, having nothing to stop yourself with, you fall to the ground hard, and are immediately dragged into the other room.
+>Screaming and trying to free yourself is futile, you're effortlessly dragged along the floor.
+>You notice your head is bleeding, did it start from when you fell to the floor?
+>The tendrils drag you towards what seems to be a kitchen, the walls are stained crimson, a soup is boiling and you see what looks to be arms on hooks, hung around on wire racks.
+>There you see a girl dressed only in an apron, her back is towards you, her hair split in two colours down the middle.
+>She speaks out, and it seems that it's the same voice you heard earlier: "Oh, the next ingredient is here, lovely."
+>The tendrils now lift you up upside down, you feel the blood rushing to your head.
+>She turns to face you, it seems she's wearing a carnival mask, but you can see golden eyes peering out through the eye sockets.
+>She giggles a little, then calls out: "Salt, Pepper, come here please."
+>Two cats walk in, they look relatively normal for cats, however you notice some form of ink, just like the tendrils that are suspending you in the air, leaking off of their fur.
+>The cats approach you, and you try to shoo them away with your hand, however inky tendrils appear and restrain your arms.
+>The cats lick your hand slowly, one cat purrs as it licks your hand while the other seems rather revolted.
+>The cat that showed revulsion proceeded to take a shit on the kitchen floor, to it's owner's immediate disgust and anger
+>"Pepper! What the frick did I tell you about shitting on places that isn't your litter box!"
+>She clicks her fingers, and suddenly inky tendrils carry a mop to clean it up.
+>She then faces you, though you can't see her face, you could somehow tell she was smiling at you.
+>She takes a chinese cleaver in one hand, and holds onto your right arm with gentle care.
+>The inky tendrils help to extend your arm out.
+>You're about to beg her not to, but before a word could come out, the cleaver falls and your arm is effortlessly separated from your body.
+>Before you could even scream, a blob of ink covers your mouth and muffles all sound, you could only cry.
+>"Thank you Yorick" she says happily.
+>The girl turns her back to you once more and begins to cut your now severed arm into slices.
+>The cat that remained, which you've figured out is 'Salt' proceeds to lick the blood that you've splattered across the kitchen floor.
+>Humming a rather broken tune, she takes out a frying pan and begins to sear the slices of flesh that were taken from you.
+>The entirety of this night is taking its toll on you, you feel as though you're slipping into insanity.
+>She clicks her fingers and the tendrils that had suspended you, now begin to drag you away once more towards another room.
+>The room has many paintings adorned on its walls, and a lone table with four chairs stand in the middle.
+>There you see a portrait of a rather refined looking lady, her hair is shaped the same way as the psychotic woman's, the golden eyes seem to stare directly at you, however her hair is only black in this portrait.
+>The name plate under the portrait reads: "Shiori Novella."
+>Suddenly, the tendrils seat you on one of the chairs, fastening you to it and making sure you cannot move or escape.
+>Once tightly secured, the door to the kitchen opens, and the lady with the carnival mask walks out with a serving cart.
+>Trays of meat line the cart, and she places a plate in front of you, and another opposite of you.
+>A third plate is placed down on the edge of the table, and the cat Salt jumps up next to it, but doesn't begin to eat.
+>The psychotic woman then sits in front of you, and removes her mask, her face is the same as the portraits above her.
+>"I hope you like the meal. I worked very hard for it."
+>Inky tendrils appear behind you, picking up a fork and a knife and slicing what used to be your arm, then it carries the fork towards your mouth.
+>You try to keep your mouth shut, but Yorick who was still covering your mouth, forces it open, and you're forced to eat.
+>She watches you as you eat in disgust, and giggles softly while watching.
+
+***
+
+## Day 26 - Eating food Shiori
+
+>Shiori, wearing a witch hat, is busy toiling away before a cauldron.
+>A grin appears on her face as she's stirring the liquid in the cauldron with a ladle.
+>"This witch outfit is great, I'm glad I get to try it on before it's actually halloween."
+>You look at her, then you look towards the cauldron.
+>You can smell it from where you're seated, whatever that thing is, you likely don't want to consume it.
+>Shiori scoops some of the liquid up with her ladle, dipping her finger in to taste it.
+>With a nod of approval, she grabs a couple bowls and pours some out for the two of you.
+>She brings the bowls and places one in front of you and then one across from you, seating herself, seating herself in front of the second bowl.
+>"Do I really hav-"
+>"You do."
+>Before you can even finish your sentence, Shiori cuts you off with an affirmative nod.
+>She grabs a spoon and begins to chow down on the mysterious liquid, her face gleaming with satisfaction with each spoonful.
+>You on the other hand, pick up the spoon, your hand shaking, you're unsure of how much longer you have to live.
+>You sigh softly, then you scoop some of the liquid and put it in your mouth.
+>A bitter taste runs along your tongue, followed by the warm taste of soup containing onions, carrots, mushrooms and a refreshing hint of lemon.
+>Unsure of what to make of what you just tasted, you look at her as she finishes the bowl then gets up and heads towards her cauldron, getting more of the 'soup' for herself.
+>You ask her: "What..the heck is this? How did you make this?"
+>To which she simply smiles and says: "Surprised? I knew you would be."
+>Embarrassed that you've been called out, you silently finish the soup, whilst having a tinge of red on your cheeks.
+>The next item to show up before you is a plate of meat that has mashed potato under it.
+>You couldn't tell if the meat was overcooked or not at a glance, so you decide to take the fork and knife that were handed to you and cut into it.
+>Stabbing the fork into the piece of cut meat, you lift it up to your mouth and take a bite.
+>Your eye twitches a little as you eat it, and you lament in sadness as the taste of it is unfortunately well-done.
+>Shiori glances at your face as you eat and pouts a little.
+>"I m-may have forgotten about it..for a bit...ehe"
+>You sigh a little, having been left with no choice, then you stand up.
+>"Ok, I'll make a better steak."
+>Before you could walk yourself to the kitchen, she sits you down and gazes at your eyes with sudden intensity.
+>"Anon, no, today I'm making food, you just sit and enjoy what you can."
+>She walks over to the kitchen and brings out the final meal for the night.
+>It looks like, a pumpkin pie?
+>She takes a butchers knife and slams it down on the pie, carving it into two instantly, and possibly the plate underneath it
+>"Shiori, I don't think you're mea-"
+>She cuts you off instantly: "Don't worry about it Anon!"
+>She slams the butcher's knife down again, once again splitting the already halved pumpkin pie into quarters then serves a slice to you.
+>Sighing, and worrying about the plate, you decide to give up and take a bite out of the slice given to you.
+>Sweet, too sweet, you can feel your teeth eroding on the spot.
+>Shiori gazes at your face once more, her face showing a certain...pleading? As if she wants to be praised for the work she put in.
+>Hiding the obvious discomfort from how sweet the pie was, you put on your best smile and you reach over, gently patting her head.
+>"Y-you did..great, thank you for the meal.
+>Her face beams with delight.
+>"Ehehe thank you Anon, I really tried hard for you!"
+>Feeling a little guilty, you take another bite, trying your best to hide the fact that you can't handle just how sweet it is.

@@ -9,7 +9,8 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work. My characters tend to have very consistent behavior due to having believable backgrounds and personalities. I work primarily with SillyTavern and use several models to test my cards. Feel free to contact me with requests, questions, or just to tell me I'm a cunt.
 
 !!! info
-	-> ⭐ New character: Clover - A 26-year-old nekomata trapped in a child's body. Love her or bully her. Or both. ⭐ 
+	-> ⭐ New character: Naomi - Something Different - A 42-year-old mommydom is coming to meet her guildmate and, potentially, her new baby. ⭐
+	⭐ New character: Clover - Megaciy East - A 26-year-old nekomata trapped in a child's body. Love her or bully her. Or both. ⭐ 
 	⭐ New lorebook: Nekomata - It give some Megacity East setting info and establishes nekomata behavior. ⭐<-
 
 [TOC]
@@ -71,6 +72,8 @@ Image| Name | Description | Link
 ![Sparkles](https://files.catbox.moe/qcbt4b.png) | Sparkles Estrus Edition | Your spoiled, lazy cat girlfriend who can go into heat and get pregnant. | [catbox](https://files.catbox.moe/qcbt4b.png)
 ![Haruka](https://files.catbox.moe/n5a0lv.png) | Haruka | A neglected housewife fed up with her useless husband. Wants a baby and wants one now! Netori warning. | [catbox](https://files.catbox.moe/n5a0lv.png) [chub](https://www.chub.ai/characters/Tipzanon/Haruka)
 ![Yuki and Yuka](https://files.catbox.moe/l2s4kq.png) | Yuki and Yuka | Technically an idea I stole, but I changed it so much I'm putting it here. Have a date with conjoined twins and get yourself some sweet siamussy. Works best on Claude and GPT-4. Other models tend to forget they are conjoined. [Original is here.](https://booru.plus/+pygmalion1494) | [catbox](https://files.catbox.moe/l2s4kq.png) [chub](https://www.chub.ai/characters/Tipzanon/yuki-and-yuka)
+![Naomi](https://files.catbox.moe/sxapqw.png) | Naomi | A divorced empty-nester, Naomi was introduced to MMOs by her son. That's when she met you. After some questing and flirty chatting, you learned you lived close to each other. Now, she's driving to your home to meet you and maybe find her new baby. Did she mention she's a mommydom? [High Res Portrait](https://files.catbox.moe/pwnz5i.png) [Alternate Portrait](https://files.catbox.moe/1539s0.png) | [catbox](https://files.catbox.moe/sxapqw.png) [chub](https://www.chub.ai/characters/Tipzanon/naomi-6032cd9b)
+
 
 
 ### Miscellaneous 

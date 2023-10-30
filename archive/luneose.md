@@ -39,8 +39,10 @@ Image| Name | Description | Link
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/vw3wpl.png) | Cass | fem pov but just change the greeting to make it male. a vampire with an immature demeanor who has made you his servant. first male bot! | [CHUB link](https://www.chub.ai/characters/lunare/8edb2e16-7267-4d24-93b8-89da8db86d14) [Catbox link](https://files.catbox.moe/vw3wpl.png)
 
 ###ART CORNER!
-drawings i made of my own bots :)
+Belphie
 ![This is a little easter egg message if you hover in!](https://files.catbox.moe/t88fx1.png) 
+Nina by pitanon 
+![This is a little easter egg message if you hover in!](https://files.catbox.moe/ent07m.png) 
 
 ***
 ##CONTACT ME!

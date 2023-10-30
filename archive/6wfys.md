@@ -59,8 +59,8 @@ Auto Input Switch - technically not Required but why wouldn't you use this?
 PapyrusUtil SE - Modders Scripting Utility Functions - **Note: Load this last in MO2! The version included with most mods is out of date.**
 
 
-**Notes on USSEP, aka Arthmoor's No Fun Allowed Super Essential Patch**
-A huge number of mods will require this patch, and its companion CRF (Cutting Room Floor) as masters. Instead of bothering to remove records and clean masters from dozens of plugins, you can just use [RUASLEEP](https://mega.nz/file/jS4gzJ7B#Yw1y2HWTk6gUOihPDRThVe7GpBHu7Q-Y80A8zloWdCA) (mega link because original is hosted on google drive). Load it after USSEP, do cool shit like bowhunt fish and butterflies (yes, these were "fixed" by USSEP), and go about your day. 
+###Notes on USSEP, aka Arthmoor's No Fun Allowed Super Essential Patch
+A huge number of mods will require this patch, and its companion CRF (Cutting Room Floor) as masters. If you don't want to use it, instead of bothering to remove records and clean masters from dozens of plugins, you can just use **Purist's Vanilla Patch**. Load it after USSEP, do cool shit like bowhunt fish and butterflies (yes, these were "fixed" by USSEP), and go about your day. 
 
 ##Camera:
 

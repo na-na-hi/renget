@@ -9,7 +9,7 @@
 ##Step 1: Get a Bot and an Emotion pack
 We will use my Sarah: -Road Trip Edition- bot for this guide.
 *Note: (All of my Sarah bots have the same expression pack and share a folder. So once you download it for one it'll work for all of them)*
-Link: ![Sarah -Road Trip Edition-](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition)
+Link: [Sarah -Road Trip Edition-](https://www.chub.ai/characters/LongGameAnon/sarah-road-trip-edition)
 ![Download](https://i.imgur.com/qZb3Upy.jpg)
 ---------------------------
 ##Step 2: Adding the Bot and Expressions to your Silly

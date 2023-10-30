@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10761046 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10803762 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub)* | Fauna | smell, brap |
 | *[Who is the Best at the Changing the Reaper?](https://archiveofourown.org/works/51092140)* | Calli, Kiara, Fauna, Shiori | choco, ringo |
 | *[The World's Pudgiest, Poopiest Idol](https://archiveofourown.org/works/50272087)* | Haato | brap, choco |
 | *[Cut from the Same Cloth: Part 5](https://rentry.org/h82ts)* | Fuwawa, Mococo | sweat, smell, brap, ringo, choco |

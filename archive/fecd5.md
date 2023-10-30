@@ -54,7 +54,7 @@
 >As a teacher
 "She's apparently good at Body Tempering, which could help me. I'm sure she wouldn't mind, considering her pursuit of the Tao."
 
-#### Glydenwulf
+#### Gyldenwulf
 >As a person
 "He's... scum. There are plenty of people like him roaming around, he's simply one of the stronger ones. The rubbish at the top of the pile, if you will."
 >As an opponent

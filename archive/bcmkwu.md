@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Hohol gets blinded by shrapnel then gets hit by more shrapnel
+https://files.catbox.moe/8ym6ol.mp4
 >Two videos of the BMPT "Terminator" in action at  
 https://files.catbox.moe/48yx3j.mp4 (Avdeyevka)
 https://files.catbox.moe/su28ez.mp4 (Kremennaya)
