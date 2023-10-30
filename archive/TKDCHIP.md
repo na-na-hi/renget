@@ -397,3 +397,13 @@ https://files.catbox.moe/y1oh59.mp4
 https://files.catbox.moe/0ug8nn.MP4
 >Gaza uses Athan speakers to announce blackout (added oct 28th)
 https://files.catbox.moe/mpiama.mp4
+>Israeli Army members published the shocking and humiliating footage of how they are dragging on the dust the body of a Palestinian man behind a Israeli military vehicle. (added oct 30th)
+https://files.catbox.moe/cgxzur.mp4
+>Hezbollah taking out more surveillance hardware (added oct 30th)
+https://files.catbox.moe/ztwa4g.mp4
+>Missiles arrive in Tel-Aviv. (added oct 30th)
+https://files.catbox.moe/ukjg7s.mp4
+https://files.catbox.moe/oxnxdk.mp4
+https://files.catbox.moe/lrp9fp.mp4
+>Destroyed Merkava video (added oct 30th)
+https://files.catbox.moe/6rs8mb.mp4

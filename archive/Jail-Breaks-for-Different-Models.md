@@ -2,7 +2,7 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-10-26)==<-
+->==(updated 2023-10-30)==<-
 ***
 [TOC2] 
 ***
@@ -59,3 +59,5 @@ https://dumb.one/gpt/prompts/my-tavern-prompts.md
 ***
 #####Non Serious Jailbreaks to add something to your chat
 https://rentry.org/jinxbreaks
+
+https://rentry.org/weirdbutfunjailbreaksandprompts

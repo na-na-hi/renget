@@ -338,7 +338,7 @@ It's important to do some preparation before we boot into the Windows install pr
 After **backing up** all our configs, drivers and files into a safe place, we should download a few **tools** we will need to configure our system **without an internet connection**.
 
 Tools you should have:
-- Graphics card drivers and driver trimming utility like [NvSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) for Nvidia or [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer#readme) for AMD cards
+- Graphics card drivers and driver trimming utility like [NvCleanstall](https://www.techpowerup.com/nvcleanstall/) for Nvidia or [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer#readme) for AMD cards
 - An archive file utility like [7-Zip](https://www.7-zip.org/), [WinRAR](https://www.rarlab.com/download.htm), [PeaZip](https://peazip.github.io/index.html) etc.
 - A software firewall for WFP (Windows Filtering Platform) such as [SimpleWall](https://github.com/henrypp/simplewall#readme), [TinyWall](https://tinywall.pados.hu/) or one to control the native Windows Firewall more easily e.g. [Windows Firewall Control](https://www.binisoft.org/wfc)
 - Your favorite tool to tweak Windows settings: e.g. [Winaero Tweaker](https://winaero.com/winaero-tweaker/), [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
@@ -411,16 +411,17 @@ Point Windows to the backup folder of your drivers if you have any.
 -> ![install03](https://i.imgur.com/8OxjVDD.png) <-
 
 ### Install and debloat graphics card drivers
-Both **AMD** and **Nvidia** driver packages have increased tremendously in features and **telemetry** over the past years, but we don't want any of that on our system. Using tools like  [NvSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility.423072/) for Nvidia and [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer#readme) for AMD cards, we can seriously trim down the drivers to the bare minimum we need and remove all the phoning home.
+Both **AMD** and **Nvidia** driver packages have increased tremendously in features and **telemetry** over the past years, but we don't want any of that on our system. Using tools like  [NvCleanstall](https://www.techpowerup.com/nvcleanstall/) for Nvidia and [Radeon Software Slimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer#readme) for AMD cards, we can seriously trim down the drivers to the bare minimum we need and remove all the phoning home.
 
 **AMD:**
  - Disable all packages except for AMD Catalyst Settings and the drivers
  - Disable all Scheduled Tasks
 
 **Nvidia:**
- - Keep only the required packages **(bold)**
- - Enable drivers such as USB Type-C port
- - PhysX is not required in [current year]
+ - Keep only the required display driver components
+ - Depending on your needs keep PhysX, HD Audio via HDMI, Optimus (for laptops)
+ - Disable all types of telemetry
+ - Enable MSI (leave at default) and any patches
 
 Once installed launch their respective control panels and configure everything. 
 You should disable their **background services** after so they don't run in the background doing nothing.

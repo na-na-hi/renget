@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>POV: RU Air Recon forces assault AFU encampment in the woods
+https://files.catbox.moe/7dh43e.mp4
+>POV: Russian assault on an AFU trench
+https://files.catbox.moe/iuev5j.mp4
 >loaded M113 hits a mine, then gets FPV'd right after
 https://files.catbox.moe/3vqv59.mp4
 >Lancet+BUK-M1=Beautiful fireworks display

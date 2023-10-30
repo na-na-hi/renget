@@ -572,6 +572,7 @@ A random Saber blocks your path: https://desuarchive.org/tg/thread/90413662/#904
 Exams: https://desuarchive.org/tg/thread/90521522/#90529732
 Team 1-D: https://desuarchive.org/tg/thread/90521522/#90529764
 Kaylee vs. Rockhorn: https://desuarchive.org/tg/thread/90541648/#90542401
+Yui, Snady, Orochi and Chihiro, hoge: https://desuarchive.org/tg/thread/90744924/#90754470
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

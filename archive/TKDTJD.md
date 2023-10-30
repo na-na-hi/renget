@@ -23,9 +23,34 @@ https://www.youtube.com/watch?v=W4gDfSNMRx4
 https://www.youtube.com/watch?v=RvYwfl7dgTY 
 >How Israel Censors the Internet
 https://youtu.be/4xl30Re1EUI?si=_kIYd7HZ7AISdG6O
+
 >MARCHING TO ZION (FULL DOCUMENTARY): TALMUD, JUDAISM, ISRAEL ETC. EXPOSED
 https://www.bitchute.com/video/eh9dKPCMEyjC/
+>20 different Rabbis admitting the destruction of the US and western civilization in general is part of the jewish religion.
+https://twitter.com/Know_More_News/status/1624214859218034688
+
+>Jewish Rabbis explain why God 'Hashem' has commanded jews to destory Christian Europe, USA and the rest of the gentile world.
+https://files.catbox.moe/9jvnie.mp4
+
+>Jews want to exterminate White people (the west)
+https://www.bitchute.com/video/51uZzIZB8ePH/ 
+
+>Jews think that non-jews are subhuman.
+https://files.catbox.moe/mt8mee.mp4 
+
+>Rabbis Explain Jewish Prophecy About the Destruction of America
+https://www.bitchute.com/video/DVgRw1TdgVF3/ 
+
+>YET ANOTHER RABBI COMMANDING J£WS TO UTTERLY DESTROY THE WHITE RACE OR 'AMALEK' AS THEY CALL THEM
+https://www.bitchute.com/video/511QM5mGWXPO
+
+AI ARTIST REPOSITORY
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://catbox.moe/c/m0p63k#
+https://catbox.moe/c/flj9bj
+https://archive.4plebs.org/pol/search/username/Sneedman/width/1024/height/1024/page/8/
+https://archive.4plebs.org/pol/search/tripcode/%21TKD1488Qq2/width/1024/height/1024/
+
 TELEGRAM NEWS LINKS
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://t.me/geopoliticalblog

@@ -45,6 +45,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90711509
 >Dónall, Hare-oic Rabbit
 >>90738966
+>Qiang Wei, attracted to a spear? sounds kinda gay
+>>90760925
 
 >ELDERS
 >The Boneless Old Man, who clearly has bones just look at the picture cmon
@@ -77,6 +79,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90705408
 >Kay Lee, Crossover Episode
 >>90709507
+>Xicotl, how come your mom lets you have THREE gods? 
+>>90750577
 
 >ANCESTORS
 >Xū, Void Parisian
@@ -116,6 +120,10 @@ Page 3
 >RELATIONSHIP CHARTS
 >Jian’s Diary
 https://rentry.org/76xvfc
+>Xiu Yi
+https://rentry.org/9sa6m
+>Yasha
+https://rentry.org/fecd5
 ```
 #MHA
 
