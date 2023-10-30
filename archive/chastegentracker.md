@@ -9,7 +9,7 @@
 
 | Username | Lock URL | Expiration Date |
 | ----------- | ---------- | ----------------- | 
-| Delv (OP) | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Nov-2023 |
+| Delv (OP) | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2024 |
 | Nepu | https://chaster.app/sessions/jHAs1e0NOFnmQksZ | 01-Nov-2023 |
 | Lockmepls55 | https://chaster.app/sessions/tBdfzWKlzy2ZNJAV | 01-Nov-2023 |
 | Onaiv | https://chaster.app/sessions/XAL9RDZiEEbssidc | 01-Nov-2023 |
@@ -25,3 +25,4 @@
 | Trinne | https://chaster.app/sessions/Ss887Dp7BkV6vVks | 01-Jan-2024 |
 | Seepon56 | https://chaster.app/sessions/jzO9lj4uhrqSRvE0 | 02-Nov-2023 |
 | kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 31-Nov-2023 |
+| usemeJJ | https://chaster.app/sessions/EzeqnyJZ7LKQFVAk

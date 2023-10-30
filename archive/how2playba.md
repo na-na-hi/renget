@@ -245,7 +245,7 @@ There is no benefit to manually doing them.
 T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest  
 
 !!! info
-	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. 
+	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. Stuck on both = time to sweep.
 
 ##Farmable units 
 For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 

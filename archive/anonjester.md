@@ -3,3 +3,4 @@
 -> *invite????????* <- 
 -> **burner: digitalcircus@proton.me** <-
 -> **discord: anonymousjester234** <-
+-> **trip: !/FUNNY/ZU6** <-

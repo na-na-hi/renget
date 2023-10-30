@@ -79,7 +79,7 @@ Afterwards, after thinking, AI must generate a response following these rules:
 
 That's what I have saved in my presets
 
-
+> The NSFW settings are tuned for the submissive bots I play
 
 
 ### Boring stuff you may want to read about
@@ -94,14 +94,15 @@ If you copy my way of thinking then you should have at least 4 presets:
 The <thinking> part cannot be removed, it allows the AI to formulate {{char}}'s response, it even works as a transparent screen for me to see what the AI is picking/feeling from {{user}}'s input and what not. This way I actually know what to modify in my message instead of going blind and swiping 40.000 times.
 This CoT method is actually recommended by [Anthropic™](https://docs.anthropic.com/claude/docs/give-claude-room-to-think-before-responding)
 >Why 4?
-If the AI thinks more than 6 times it may become very stuborn on its char defs, which may lead to looping messages instead of bending to {{user}}'s will.
+If the AI thinks more than 6 times it may become very stuborn on its char defs, which may lead to dry and looping messages instead of bending to {{user}}'s will (OAI models in particular become very assertive and positive).
 If the AI doesn't think, it may ignore char defs and go with wathever the LLM thinks should be the next word in your chat.
 
 **List of instructions**
 Lists seem to work better than plain text separated by dots when giving instructions. I use this part to give simple instructions to the AI like:
 - *Focus on descriptions/internal thoughts*
-- *Use around X words*
-- *Writing style: X, Y, Z/Imitate X,Y author*
+- *AI response should use around X words*
+- *Writing style: X, Y, Z/must Imitate X,Y author*
+- *AI is encouraged to creatively insert onomatopoeias as dialogue, avoid narrating any sound, write them as dialogues*
 - *Describe {{char}}'s breasts in great detail, creativity and excrutiating specificity*
 - etc.
 
@@ -116,10 +117,15 @@ Add this to your regex settings (the three cubes on SillyTavern)
 Yep, these settings only hide the codeblock from your view, the text inside is actually kept and occupies Context tokens if you continue the conversation or export your chat to agnai/venus.
 As you may have noticed adding " \`\`\` " as prefill for claude breaks the <thinking> codeblock, if you want ST's regex to grab and hide the block, you will have to either write the three backticks on {{char}}'s response or erase the prefill
 
+#### Delete <thinking>
+
+If you want to save Context tokens you can delete the thinking codeblock by unchecking "Only Format Display" on the image above. It will remove the block as **it is streamed**, giving you no chance to read the contents. If you have past messages with codeblocks it won't affect them, but clickling edit and save the message on each chat should do the job.
+
 
 ---
 
 
 My chub profile and mail if you have any funny anecdotes
+No really, there are some finding
 https://chub.ai/users/lunarFrogs
 lunarfrogs@skiff.com

@@ -27,6 +27,9 @@ https://desuarchive.org/tg/thread/90708633/#90711509
 https://rentry.org/HengZhiqiang
 >Dónall
 https://desuarchive.org/tg/thread/90733271/#90738966
+>Qiáng Wěi - 強偉
+https://desuarchive.org/tg/thread/90744924/#90760925
+https://rentry.org/spearfu
 
 #### Elders
 
@@ -72,6 +75,9 @@ https://rentry.org/flag-gal
 >Kay Lee
 https://desuarchive.org/tg/thread/90708633/#90709507
 https://rentry.org/KtH-KayLee
+>Xicotl, Sixth Sun Nomad
+https://desuarchive.org/tg/thread/90744924/#90750577
+https://rentry.org/DAMOIGHTYSUN
 
 #### Ancestors
 
@@ -98,6 +104,8 @@ https://desuarchive.org/tg/thread/90697603/#90701802
 https://rentry.org/76xvfc
 >Xiu Yi
 https://rentry.org/9sa6m
+>Yasha
+https://rentry.org/fecd5
 
 ### Writefags
 

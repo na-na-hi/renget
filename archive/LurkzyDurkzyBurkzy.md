@@ -1,4 +1,5 @@
 #-> lurkzn's Claude preset (Pete Davidsons's Era edition)<-
+####->==Now with better NSFW responses!!==<-
 ![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
 
 ->**Email**: trojanmystery@proton.me<-
@@ -17,6 +18,7 @@ Still not fully fleshed out!
 
 30 Oct - Pete Davidson's Era. Added a funny little experimental prompt that makes Assistant decide itself how long the
 response should be. Aimed at stopping Claude from cooking a bit too much as it likes to do when the chat grows longer.
+|-> Added a short clause for NSFW scenes, improves depictions of sexual acts whilst not being overly horny throughout.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
@@ -26,7 +28,7 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 !!! warning Add-ons
 	->> "User Info". You can fill it in with a short description of yourself in first person -
 	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/53tbto.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/szsvtl.zip)<-
 ***
 ##->Logs<-
 !!! note
@@ -34,6 +36,7 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 	27 Oct - ~~Shizuka log has been extended (#60 messages deep)~~
 	28 Oct - Decided to redo the [Shizuka](https://rentry.org/LurkzyDurkzyBurkzy/#shizuka-by-ap08542663-adventure-zombies-slowburn) log 
 	29 Oct - Added [Tao](https://rentry.org/LurkzyDurkzyBurkzy/#tao-by-potatopun-esl-cute-saviorfag) log
+	30 Oct - Added [Melissa](https://rentry.org/LurkzyDurkzyBurkzy/#melissa-by-frogtheslut-blackmail-bitchy-bully) log
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663 (Adventure, Zombies, Slowburn)<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
@@ -41,6 +44,13 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 ->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
 
 ->![Shizuka2](https://i.imgur.com/5kEjnI5.jpg)<-
+***
+###-> [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97) - By FrogTheSlut (Blackmail, Bitchy, Bully)<-
+->![Cardmel](https://avatars.charhub.io/avatars/FrogTheSlut/melissa-47186a97/avatar.webp?size=0.46313036288690546)<-
+
+->**Description**: Your bitchy school bully who is secretly an exhibitionist dropped her vibrator's remote control. You found it and now it's time for payback.<-
+
+->![Melissa2](https://i.imgur.com/GiMJ6wc.jpg)<-
 ***
 ###-> [Tao](https://chub.ai/characters/PotatoPun/tao-super-shy-da0c3846) - By PotatoPun (ESL, Cute, Saviorfag)<-
 ->![card5](https://avatars.charhub.io/avatars/PotatoPun/tao-super-shy-da0c3846/avatar.webp?size=0.18343793687001586)<-

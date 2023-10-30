@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Associate | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Unknown Tribe | **Favorite Color:** Unknown
-**Level:** 5 | **Experience to Next Level:** 0/50 | **Alignment:** Unknown
+**Level:** 5 | **Experience to Next Level:** 35/50 | **Alignment:** Unknown
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -38,7 +38,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 ***
 
 ->Rookie Rank<-
-->*0/400 points to Normal Rank*<-
+->*40/400 points to Normal Rank*<-
 ->![Some manner of merit badge..?](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -102,7 +102,7 @@ Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
-Currently Training for Stat: Speed | **1** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Speed | **1** | 3/9 | ▮▮▮▯▯▯▯▯▯
 
 ***
 

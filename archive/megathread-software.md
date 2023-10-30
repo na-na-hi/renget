@@ -57,6 +57,10 @@
 - Tonne of goods including LUTS, textures, sound effects, video editing + plugins, motion graphics, and even more.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadpirate.com/)
 
+### 🔗 [FileCR](https://filecr.com/) / [Note](https://rentry.co/megathread-filecr)
+- Simplifying access to files for Windows, MacOS, and Android by continually improving and offering a user-friendly interface.
+- [URL Safety Results](https://www.urlvoid.com/scan/filecr.com/)
+
 ### 🔗 [Freepreset](https://freepreset.net/)
 - Dedicated to assisting you in obtaining premium lightroom presets, luts, photoshop actions and a plethora of other design materials.
 - [URL Safety Results](https://www.urlvoid.com/scan/freepreset.net/)

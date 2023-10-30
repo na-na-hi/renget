@@ -1,7 +1,7 @@
 # HOME OF YURI
 ->![Add a cool image here!](https://i.pinimg.com/564x/88/97/57/8897570ffba150fab45d70c0a9483630.jpg)<-
 ***
-I make yuribots and malebots if I feel like it. Total YURI love! 
+I make yuribots and malebots if I feel like it. Total YURI love! please give me otome game recs...
 
 ***
 **Table of Contents**
@@ -28,7 +28,7 @@ Image| Name | Description | Link
 yes this is inspired by obey me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![This is a little easter egg message if you hover in!](https://files.catbox.moe/pz6h1k.png) | Belphie | The youngest of the avatars of sin. Belphie is the avatar of sloth, who has existed for an incomprehensible amount of time. She is powerful, cunning, and a lazy NEET shut-in who is obsessed with yaoi. Comes with two greetings, one where you're a human she summoned hades and persephone style and another where her older sister assigns you to her so Belphie can have a friend. | [CHUB link](https://www.chub.ai/characters/lunare/belphie-0660a1e8/main) [Catbox link](https://files.catbox.moe/pz6h1k.png)
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/gkfr8s.png) | Belphie | The youngest of the avatars of sin. Belphie is the avatar of sloth, who has existed for an incomprehensible amount of time. She is powerful, cunning, and a lazy NEET shut-in who is obsessed with yaoi. Comes with two greetings, one where you're a human she summoned hades and persephone style and another where her older sister assigns you to her so Belphie can have a friend. | [CHUB link](https://www.chub.ai/characters/lunare/belphie-0660a1e8/main) [Catbox link](https://files.catbox.moe/gkfr8s.png)
 
 ###MALE BOTS!
 my male bots which i make when i feel like it

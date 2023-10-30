@@ -1,10 +1,12 @@
 # Tipzanon's Cards
 -> Just some data in the aether, nothing more. <-
+-> [Chub Profile Page](https://www.chub.ai/users/Tipzanon) <-
+-> Contact: tipzanon@proton.me <-
 
 !!! danger
 	-> Some images may be NSFW or pornographic. If you're under the legal age to view these things, kindly fuck off. <-
 
-Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work, giving characters actual, consistent answers to questions you might have for them and believable backgrounds and personalities. I work primarily with Tavern AI and use several models to test my cards. My cards are also available on [chub](https://www.chub.ai/users/Tipzanon) and sometimes [pygmalion booru](https://booru.plus/+pygmalion/user:tipzanon) when I remember to upload to it. If you have card suggestions, questions, or just want to tell me I'm awful: tipzanon@proton.me.
+Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work. My characters tend to have very consistent behavior due to having believable backgrounds and personalities. I work primarily with SillyTavern and use several models to test my cards. Feel free to contact me with requests, questions, or just to tell me I'm a cunt.
 
 !!! info
 	-> ⭐ New character: Clover - A 26-year-old nekomata trapped in a child's body. Love her or bully her. Or both. ⭐ 
