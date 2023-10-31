@@ -84,7 +84,7 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 
 >ANCESTORS
 >Xū, Void Parisian
->>90726479
+>>90768739
 >Shu Shihan… I dunno, I got nothing for this one
 >>90678581
 >Magikarp. It’s a fucking magikarp do I need to give it a title? Maybe Yasha can add him to his collection

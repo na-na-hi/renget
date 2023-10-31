@@ -1,10 +1,7 @@
-#-> lurkzn's Claude preset (Pete Davidsons's Era edition)<-
+#-> lurkzn's Claude preset (Kanye West edition)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
-![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
-***
-#->Response of the day<-
-->![ROTD2](https://files.catbox.moe/c4tjlr.png)<-
+![imf2](https://files.catbox.moe/ey1jz7.png)
 ***
 ```
 -----------------------------------------------------------------------------------------------------------------------
@@ -20,13 +17,18 @@ Still not fully fleshed out!
 30 Oct - Pete Davidson's Era. Added a funny little experimental prompt that makes Assistant decide itself how long the
 response should be. Aimed at stopping Claude from cooking a bit too much as it likes to do when the chat grows longer.
 |-> Added a short clause for NSFW scenes, improves depictions of sexual acts whilst not being overly horny throughout.
+
+31 Oct - Kanye West. Modified the impersonation prompt for when you're too lazy to respond yourself. Made some minor
+adjustments to phrasing of instructions. 
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
 [TOC2]
 ***
-#->Download Pete Davidsons's Era (31 Oct)<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/hsjfhv.zip)<-
+#->Download Kanye West<-
+!!! note ->Updated 31 Oct<-
+	->Impersonation Prompt has been modified, in case you're too lazy to prompt. It takes into account your persona, so ensure it is written in the provided "User Info" add-on!<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/6wwt5t.zip)<-
 ***
 #-> Add-ons<-
 **User Info**: Input your chat specific persona here! 
@@ -38,6 +40,13 @@ at first glance, {{user}} is fiercely loyal and protective, and will prioritise
 others' safety over himself. He has a muscular body hidden under his clothes, 
 after years spent gymming in secret.
 ```
+***
+##->My personal procedure and settings for slowburns<-
+I use the Summarization module whenever I do slowburns, configured to automatically summarise every 10 messages, in 200 words. After 50 responses, ensuring the summary is updated to account for the fiftieth message, and the LAST {{char}} response is copied, I start a new chat, replacing the intro message with the copied response, and then navigating over to the summarization module and pasting the latest summary. Below is the custom prompt I use to summarise. Usually I have to manually modify the summary to include/remove certain details, which I encourage you to do the same.
+```
+Human: Pause the roleplay. Analyse the story in its entirety, and update your memory with key events and interactions that have played a part in shaping the current story and relationship dynamics between {{user}} and {{char}}. Using what is stored in your memory, write a {{words}} word summary based on this, and if a previous summary has already been generated, modify it as appropriate, using it as a base (The {{words}} word count limit still applies). Your response should include nothing but the summary.
+```
+->![Summarization](https://files.catbox.moe/4l1t38.png)<-
 ***
 ##->Logs<-
 !!! note
