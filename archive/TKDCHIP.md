@@ -409,3 +409,9 @@ https://files.catbox.moe/lrp9fp.mp4
 https://files.catbox.moe/6rs8mb.mp4
 >"US embassy under biological attack" kek  (added oct 30th)
 https://files.catbox.moe/6xrnq3.mp4
+>Hezbollah: "On the Road to Jerusalem" (added oct 30th)
+https://files.catbox.moe/y55bbz.mp4
+>Hamas response to the current happenings (added oct 30th)
+https://files.catbox.moe/5geg75.mp4
+>Hezbollah "finger hype"
+https://files.catbox.moe/v1m8v3.mp4

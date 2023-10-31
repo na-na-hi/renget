@@ -2,20 +2,21 @@
 -> ![](https://files.catbox.moe/f71mii.jpg)  <-
 
 ##Changelog:
-==2023-10-30==
+==2023.10.31-30 ==
 - added 2022 Liella MTV Unplugged bluray rip
+- added Liyuu PB link
 
-==2023-10-14==
+==2023.10.14==
 - overhauled seiyuu list to the new format
 - added BluRay links for the 2nd Liella concert
 
-==2023-8-1==
+==2023.8.1==
 - Added nijitabi Osaka Leg link
 
-==2023-6-11==
+==2023.6.11==
 - added new Liella Seiyuu
 
-==2023-4-27==
+==2023.4.27==
 - improved filters
 ***
 ##Table of Contents
@@ -592,6 +593,8 @@ Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmST
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/) 
 [Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) ![](https://files.catbox.moe/c95yx7.gif)
+[Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip)
+
  
 **Videos/Clips/Namas**
 **Raw:**

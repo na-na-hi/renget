@@ -458,4 +458,4 @@ https://arch.b4k.co/vp/thread/54744384/ gaia2 that was faster (final filler thre
 https://arch.b4k.co/vp/thread/54771058/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54772581/ 2 lurker intelligence not guaranteed
 https://arch.b4k.co/vp/thread/54776093/ 3 chapter 2: now with 100% more cutscene stupidity!
-https://arch.b4k.co/vp/thread/54777770/ 4 the first tournament
+https://arch.b4k.co/vp/thread/54777770/ 4 remind me to never try hosting a tournament during dead season again

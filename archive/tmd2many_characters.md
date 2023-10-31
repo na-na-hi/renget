@@ -64,12 +64,14 @@ Name | Origin | Pokémon | Occupation | Affiliation
 [Coiling Appetence, Scour Devour](https://rentry.co/tmd2character_scour) | Native | Ekans | Clan Elder | Clan Morion
 [Elm Chopper, Fiftyfold Fatherer](https://rentry.co/tmd2character_woody) | Native | Haxorus | Clan Elder | Clan Almandine 
 [Ever Lifting](https://rentry.co/tmd2many_nobles_ever_lifting) | Native | Reuniclus | Bishop | Ho'oha Priest
+[Fourth Of H░░ Name](https://rentry.co/tmd2many_characters_fohn) | Native | Meowstic | Archivist | House Esper
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
 [Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini
 [Lilac](https://rentry.co/tmd2character_lilac) | Native | Delibird | Merchant | Unaffiliated
 [Roaring, Burning Darkness](https://rentry.co/tmd2character_RoaringBurningDarkness) | Native | Roaring Moon | Bishop | Ho'oha Priest
 [Roswen Flame Eater](https://rentry.co/roswen) | Native | Walrein | Clan Elder | Clan Cerussite
+[Sharp Current](https://rentry.co/Sharpcurrent) | Native | Inteleon | Baroness | House Cloudburst
 [Light](https://rentry.co/tmd2many_characters_light) (Example) | Native | Raboot | Wannabe-Peacekeeper | "Justice" 
 [Shinra](https://rentry.co/tmd2many_characters_shinra) (Example) | Native | Scizor | Guild Master | Globetrotter's Guild
 Example | Native | Species | Outlaw | Tutorial Town

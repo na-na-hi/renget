@@ -43,9 +43,13 @@ Updates by:
 		->![AbuOubaidaSpeech](https://files.catbox.moe/miixjj.gif)<-
 
 	 	->![QassāmMen](https://files.catbox.moe/je41ni.gif)<-
+		***
 
 		>->![wikipediaicon](https://files.catbox.moe/czr04t.png) **[Mufti Amin al-Husseini (Wikipedia Article)](https://en.m.wikipedia.org/wiki/Amin_al-Husseini)** ![wikipediaicon](https://files.catbox.moe/czr04t.png)<-
 		>>->![muftiamin01](https://files.catbox.moe/7mifg9.webp) ![muftiamin02](https://files.catbox.moe/hd4mzc.webp) ![muftiamin](https://files.catbox.moe/vmwhmu.png)<-
+		***
+		>->![wikipediaicon](https://files.catbox.moe/czr04t.png) **[Ahed Tamimi (Wikipedia Article)](https://en.m.wikipedia.org/wiki/Ahed_Tamimi)** ![wikipediaicon](https://files.catbox.moe/czr04t.png)<-
+		>>->![ahedtamimi01](https://files.catbox.moe/yrifki.jpg) ![ahedtamimi02](https://files.catbox.moe/53vclh.jpg) ![ahedtamimi03](https://files.catbox.moe/zg5vay.jpg) ![ahedtamimi04](https://files.catbox.moe/t6k09t.jpg) ![ahedtamimi05](https://files.catbox.moe/6xnk42.jpg) ![ahedtamimi06](https://files.catbox.moe/wfl8qs.jpg) ![ahedtamimi07](https://files.catbox.moe/q9vwc9.png)<-
 !!! note 
 	->**Currnet theme song(s):**<-
 

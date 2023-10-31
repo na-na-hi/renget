@@ -1,9 +1,10 @@
 #-> lurkzn's Claude preset (Pete Davidsons's Era edition)<-
-###->==BETTER NSFW==<-
-![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
+![imf2](https://i.ytimg.com/vi/Z3e-eTdmD9Y/maxresdefault.jpg)
+***
+#->Response of the day<-
+->![ROTD2](https://files.catbox.moe/c4tjlr.png)<-
 ***
 ```
 -----------------------------------------------------------------------------------------------------------------------
@@ -24,11 +25,19 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 ***
 [TOC2]
 ***
-#->Download Pete Davidsons's Era (30 Oct)<-
-!!! warning Add-ons
-	->> "User Info". You can fill it in with a short description of yourself in first person -
-	i.e. I am {{user}}, a short man with a shrimp dick and terrible fashion sense.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/7x47j7.zip)<-
+#->Download Pete Davidsons's Era (31 Oct)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/hsjfhv.zip)<-
+***
+#-> Add-ons<-
+**User Info**: Input your chat specific persona here! 
+```
+Example persona:
+I am {{user}}, a quiet, introverted teen who recently lost their mother, 
+father, and son to zombies. Whilst clumsy and seemingly incapable 
+at first glance, {{user}} is fiercely loyal and protective, and will prioritise 
+others' safety over himself. He has a muscular body hidden under his clothes, 
+after years spent gymming in secret.
+```
 ***
 ##->Logs<-
 !!! note
@@ -36,13 +45,14 @@ response should be. Aimed at stopping Claude from cooking a bit too much as it l
 	27 Oct - ~~Shizuka log has been extended (#60 messages deep)~~
 	28 Oct - Decided to redo the [Shizuka](https://rentry.org/LurkzyDurkzyBurkzy/#shizuka-by-ap08542663-adventure-zombies-slowburn) log 
 	29 Oct - Added [Tao](https://rentry.org/LurkzyDurkzyBurkzy/#tao-by-potatopun-esl-cute-saviorfag) log
+	30 Oct - Extended [Shizuka](https://rentry.org/LurkzyDurkzyBurkzy/#shizuka-by-ap08542663-adventure-zombies-slowburn) log
 ***
 ###-> [Shizuka](https://chub.ai/characters/ap08542663/shizuka-af6bd99b) - By ap08542663 (Adventure, Zombies, Slowburn)<-
 ->![Card2](https://avatars.charhub.io/avatars/ap08542663/shizuka-af6bd99b/avatar.webp?size=0.07351907412249137)<-
 
 ->**Description**: The zombie apocalypse descends on Japan! Survive with a girl in a world full of zombies.<-
 
-->![Shizuka2](https://i.imgur.com/5kEjnI5.jpg)<-
+->![Shizuka2](https://i.imgur.com/2jtku0m.jpg)<-
 ***
 ###-> [Tao](https://chub.ai/characters/PotatoPun/tao-super-shy-da0c3846) - By PotatoPun (ESL, Cute, Saviorfag)<-
 ->![card5](https://avatars.charhub.io/avatars/PotatoPun/tao-super-shy-da0c3846/avatar.webp?size=0.18343793687001586)<-

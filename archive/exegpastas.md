@@ -122,7 +122,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *How To Access Luigi's Mansion 2's Secret Mode* (Ihsoy)|[(link)](https://rentry.org/darkmoonmirror)
 *Ihsoy REDONE*|[(link)](https://someordinarygamers.fandom.com/wiki/Ihsoy_REDONE)
 *Turmoil*|[(link)](https://rentry.org/turmoilrewrite)
-*Xeunoeflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1), [(part 2)](https://rentry.org/xeunoeflaunz-chapter-2), [(part 3)](https://rentry.org/xeunoeflaunz-chapter3)
+*Xeunoeflaunz* (Xenophanes) (WIP)|[(prologue)](https://rentry.org/xeunoeflaunz-prologue), [(part 1)](https://rentry.org/xeunoeflaunz-chapter-1), [(part 2)](https://rentry.org/xeunoeflaunz-chapter-2), [(part 3)](https://rentry.org/xeunoeflaunz-chapter3), [(part 4)](https://rentry.org/xeunoeflaunz-chapter-4)
 *Peach Cake* (The Baker)|[(link)](https://rentry.org/peachescake)
 *Executable M*|[(link)](https://rentry.org/emexecutablemrewrite)
 *Weird Animation Trend*/*Stockholme Syndrome* (Executable M)|[(part 1)](https://rentry.org/weirdanimation), [(part 2)](https://www.wattpad.com/story/341677997-stockholme-syndrome)

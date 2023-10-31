@@ -3,9 +3,12 @@ Format: Type1/Type2: !!TRIPCODE
 
 Fire/Flying: !!B/VAIOT2xDG
 Bug/Water: !!LsUp+BVDG9i
+Steel/Psychic: !!uFy26nWSF72
+Grass/Electric: !!HPRJAq/pBb0
 
 ## PROGRESSION CHECKPOINT LIST
-(stop at these once you're immediately done with the relevant fight + cutscene to allow people to catch up for the tournaments; there isn't a rigid 1:1 checkpoint to chapter ratio since chapter length isn't uniform)
+(stop at these once you're immediately done with the relevant fight + cutscene to allow people to catch up ~~for the tournaments~~; there isn't a rigid 1:1 checkpoint to chapter ratio since chapter length isn't uniform)
+probably just not going to bother with tournaments anymore as we don't have enough people capable of not taking forever for a single showdown battle to start
 
 ~~CHECKPOINT 1: Venam (1st gym, middle of chapter 1)~~ nevermind, everyone disregarded this
 CHECKPOINT 2: Keta2 (2nd gym proper, end of chapter 2)
