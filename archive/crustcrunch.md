@@ -43,6 +43,7 @@ Image | Name | Description | Links
 ##Male Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![POTO](https://files.catbox.moe/13c4uo.png)   | **Phantom** | (V2) Lorebook + 3 greetings. The Opera Ghost himself. Greetings are ChristinePOV, RaoulPOV, and AmbiguousPOV. | [chub](https://www.chub.ai/characters/crustcrunch/the-phantom-of-the-opera-26a4648c/main), [catbox](https://files.catbox.moe/13c4uo.png)
 ![winnie](https://files.catbox.moe/d6ysjw.png)   | **Prince Winslow** | (V2) Lorebook + 5 greetings. Something of a companion bot for "Prince Lawrence." This time, Winslow is your younger brother. He's rude, blunt, and sometimes aggressive... | [chub](https://www.chub.ai/characters/crustcrunch/prince-winslow-ac91c4ab), [catbox](https://files.catbox.moe/d6ysjw.png)
 ![erika](https://files.catbox.moe/q76824.png)   | **Erika** | (V2) 7 greetings. MixedPOV (easy to edit.) Yandere femboy based off the artwork of Koyashaka's OC, Envy Elika. | [chub](https://www.chub.ai/characters/crustcrunch/erika-9748da67/main), [catbox](https://files.catbox.moe/q76824.png)
 ![oniichan](https://files.catbox.moe/k87xcg.png)   | **Prince Lawrence** | (V2) Lorebook + 5 greetings. FemPOV. Your older brother, the crown prince, who is in love with you. | [chub](https://www.chub.ai/characters/crustcrunch/prince-lawrence-4d58b656/main), [catbox](https://files.catbox.moe/k87xcg.png)

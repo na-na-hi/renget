@@ -30,14 +30,14 @@
 * [Limbus Company Fandom](https://limbuscompany.fandom.com)
 * [Library of Ruina Organized Assets](https://drive.google.com/drive/folders/12ifYsKtsT7SdkjCiJOGaH40aJ-0uJ4X9)
 * [Library of Ruina Database](https://tiphereth.zasz.su/)
+* [Library of Ruina Database 2](https://malcute.aeonmoon.page/lor)
 * [Library of Ruina Fandom](https://library-of-ruina.fandom.com)
+* [Lobotomy Corporation Organized Assets](https://drive.google.com/drive/folders/1WiahaZ5hBY5YZp_CFserxYf_-q65jTYZ)
+* [Lobotomy Corporation Organized Assets 2](https://drive.google.com/drive/folders/1WiahaZ5hBY5YZp_CFserxYf_-q65jTYZ)
 * [Lobotomy Corporation Unorganized Assets](https://drive.google.com/drive/u/0/folders/1LPPEtpkBelpLthHxFW3RXwYUMYjdU-uj)
-* [Lobotomy Corporation Weapon Assets](https://files.catbox.moe/wd70hi.zip)
-* [Lobotomy Corporation Sephirah](https://drive.google.com/drive/folders/1xUjzA7t_b1DHpn-UAd9yabl6AwhB3mVU)
 * [Lobotomy Corporation Beta Sephirah](https://drive.google.com/drive/folders/1sF6bRqTBUgK0SAg_nBlKZ_kaDrlZ_K8s)
-* [Lobotomy Corporation Punishing Bird Assets](https://drive.google.com/drive/folders/15jwxUWm3a0ScP21GtmpkADbnZWPzgKqc)
-* [Lobotomy Corporation Whitenight Assets](https://drive.google.com/file/d/1kBqaRg0uBI6w-GND0lT2a2oYhb3OR-YE/view)
 * [Lobotomy Corporation Sound Files](https://mega.nz/folder/lhsX0SQb#mV1GQJCm02LmnQWx9D3BVg)
+* [Lobotomy Corporation OST Files](https://drive.google.com/drive/folders/1mjxPN_L4hrrrImt2Zb4oLDL44CoW26m6)
 * [Lobotomy Corporation Ordeal Text](https://pastebin.com/FzEvUJYA)
 * [Lobotomy Corporation Font List](https://files.catbox.moe/cfn13k.png)
 * [Lobotomy Corporation Fandom](https://lobotomycorp.fandom.com)
@@ -63,8 +63,14 @@
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/RhtACaRa)
 * [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
+* [Library of Ruina Lore Tweets](https://docs.google.com/document/d/1-uhVl2kxgXznDr03f-17Q-Z6LRf_Jevij5P0e5lTI5g)
+* [Character PVs](https://www.youtube.com/watch?v=HsffQ_RfOYQ&list=PL9-RBacZ4KMzfp_qh8wwP2rlDCP5Cc_Xk)
+* [Korean Sinner Speech Patterns](https://twitter.com/aranruine/status/1665051319361581056)
+
+## Interviews and Q&A
 * [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
-* [2021 Project Moon Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
+* [2021 New Year Q&A](https://files.catbox.moe/5ya3c4.txt)
+* [2022 New Year Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
 * [Project Moon D\*scord Q&A](https://docs.google.com/document/d/1B8dIbq9iUOO1Djfe8dQIIRSlbndeKL9V99LsnYIRWHo)
 * [KJH Korean Interview (2 below links are from this)](https://www.youtube.com/watch?v=yT7ONnrXF1g)
 * [Gameca Interview](https://m.gamemeca.com/view.php?gid=1661712)
@@ -73,9 +79,7 @@
 * [Lobotomy Corporation Q&A 2](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
 * [Mimi's Wonderlab Q&A](https://docs.google.com/document/d/1tLqsYkV30UQQiKM42bpYTtmS0eiJPwnhBDHzelSjSvE)
 * [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
-* [Library of Ruina Lore Tweets](https://docs.google.com/document/d/1-uhVl2kxgXznDr03f-17Q-Z6LRf_Jevij5P0e5lTI5g)
-* [Character PVs](https://www.youtube.com/watch?v=HsffQ_RfOYQ&list=PL9-RBacZ4KMzfp_qh8wwP2rlDCP5Cc_Xk)
-* [Korean Sinner Speech Patterns](https://twitter.com/aranruine/status/1665051319361581056)
+* [Library of Ruina Ending Damage Control](https://files.catbox.moe/r2ivm3.txt)
 
 ## Music and OST
 * [Full Limbus OST](https://www.youtube.com/watch?v=5Jtysd16c-g&list=PL8S6_RCVQ5uj_924DogHp2SmAMJ3goKL3)
@@ -144,15 +148,16 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
-9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive - added link to Uptie 3 character stories
+9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive. Added link to Uptie 3 character stories.
 9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
-9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things
-9/28/23: Added link to Other Kots MEGA
-10/4/23: Added new Drawpile album link
-10/6/23: Added alternative Lobco artbook link
-10/10/23: Added LittlePMStuff link
-10/16/23: Added identity story viewer link
-10/20/23: Added all interview links and LobCo LP link
+9/26/23: Added back MEGA links now that I've downloaded them all. I also decided to just do local webpage archives for the other important things.
+9/28/23: Added link to Other Kots MEGA.
+10/4/23: Added new Drawpile album link.
+10/6/23: Added alternative Lobco artbook link.
+10/10/23: Added LittlePMStuff link.
+10/16/23: Added identity story viewer link.
+10/20/23: Added all interview links and LobCo LP link.
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
-10/25-26/23: Added LimCum update countdown link. Added Ara channel link
-10/29/23: Added Library of Ruina Dialogue Bug Fixes link ![lol&](https://files.catbox.moe/7dmu76.png)
+10/25-26/23: Added LimCum update countdown link. Added Ara channel link.
+10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
+10/29/23: Made separate section for Q&As and interviews, added more links. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -413,5 +413,23 @@ https://files.catbox.moe/6xrnq3.mp4
 https://files.catbox.moe/y55bbz.mp4
 >Hamas response to the current happenings (added oct 30th)
 https://files.catbox.moe/5geg75.mp4
->Hezbollah "finger hype"
+>Hezbollah "finger hype" (added oct 31st)
 https://files.catbox.moe/v1m8v3.mp4
+>HAMAS REMOTE CONTROLLED TORPEDOS! (added oct 31st)
+https://files.catbox.moe/60nsnx.mp4
+https://files.catbox.moe/ycm7al.mp4
+>Documented, "Mostly Peaceful" Kikecrimes-tm (added oct 31st)
+https://files.catbox.moe/bhx70f.mp4
+https://files.catbox.moe/q8ccoe.mp4
+https://files.catbox.moe/r70kd5.mp4
+https://files.catbox.moe/qrfaqo.mp4
+https://files.catbox.moe/tbj8bf.mp4
+https://files.catbox.moe/v6cs9x.mp4
+https://files.catbox.moe/5p34ki.mp4
+https://files.catbox.moe/khhnba.mp4
+https://files.catbox.moe/d3phln.mp4
+https://files.catbox.moe/fxdla7.mov
+>HOUTHIS FIRE ROCKETS AT EILAT, ISRAEL
+https://files.catbox.moe/o15wu5.mp4
+https://files.catbox.moe/7y3sev.mp4
+https://files.catbox.moe/gdua4f.jpg

@@ -115,7 +115,7 @@ https://arch.b4k.co/vp/thread/51056753/ 67 missed sidequests part 2: fishing, fi
 https://arch.b4k.co/vp/thread/51133440/ post-series discussion thread 2: IRL vacation edition
 
 ##Pokemon Wack
-!!! danger Status: Softlocked (tripped anticheat, oops)
+!!! danger Status: Softlocked (tripped anticheat somehow, oops)
     The second fangame played in my history of /vp/ lets plays, and also the one with the most content.
 	Or at least, content I'd get to experience if it wasn't for several factors, one of them being that this first playthrough was a blind one (excluding the wiki's pokedex), leading me to miss a bunch of things. Another problem lied from the format I was doing with viewer participation - with such a huge fakemon dex, listing every one every time I wanted to make a new team made asking for a new party a chore, on top of it taking an annoyingly long time because lurkers can't make up their mind. 
     As it turns out, maybe having a ridiculous amount of new pokemon being accessible each progression milestone is probably not the greatest thing for an imageboard LP - a problem that would kill the second Wack LP.
@@ -141,17 +141,18 @@ https://arch.b4k.co/vp/thread/51360830/ 12 lollercaust + confusing extreme lag f
 https://arch.b4k.co/vp/thread/52254402/ [14] magic gym, and dragon pulse spamming
 https://arch.b4k.co/vp/thread/52259578/ 15 victory road broke
 
-##Pokemon Empire
+##Pokemon Empire e8
 !!! note Status: Completed
     The third major LP done in 2022, and the first one to star a second tripfag, after the tauros incident. I'll save some time and just let the game's developers describe it themselves.
     ![still shorter than some cutscenes](https://arch-img.b4k.co/vp/1661962005672.png)
-    It's basically a reborn clone, but with some of the edge being replaced with pretentiousness, and a lot of it, even at the expense of gameplay.
+    It's basically a reborn clone, but with some of the edge being replaced with pretentiousness, and a lot of it, at the expense of gameplay and enjoyability.
     >we're neither woke nor do we bow to the mob
     and yet we're still not allowed to have onscreen handholding with the player character's childhood friend. literally 1984
     Also includes the cutscene that combined the writer's barely disguised fetish, extreme cutscene stupidity, and shitty rewards for completing a terribly executed slog - the three things I hate the most in fangames - to cause me to ragequit, which caused an incident that lead to an anon taking up a tripcode and continuing after I burned out. It's technically a dragon monotype if you include pangolins, kaijus, and assorted reptiles as "dragons".
    
     Like the Wack threads, this playthrough also had some overlap with other LPs; in this case, the latter 2 threads overlapped with Pokemon Opal, albiet the short scrapped playthrough I did before I burnt out because the game didn't get good until like 12 hours in or whatever.
     If wagiedos doesn't return by the time I hear about the next Empire update I'll probably redo this playthrough and experience the clusterfuck myself.
+!!! danger also if you didn't see the disclaimer next to the second empire playthrough, you really should not play this shit
 
 https://arch.b4k.co/vp/thread/51366462/ 1 emergency landing
 https://arch.b4k.co/vp/thread/51368760/ 2 writefag pls
@@ -245,11 +246,11 @@ https://arch.b4k.co/vp/thread/52154492/ 2 jan's curse
 https://arch.b4k.co/vp/thread/52392835/ 3 and there goes the namefag
 
 ##Rejuvenation V13 (ground monotype)
-!!! warning Status: on hiatus/abandoned
+!!! danger Status: abandoned due to being a previous version that's not save transfer compatible
     it's basically just the rejuvenation playthrough, but with a restriction where I'm only allowed to use ground types (and then that kinda got thrown out the window with a natural shiny tangela), a new drawfag which actually has the courtesy to let me know if he's going to disappear for a while, and more screenshots from cutscenes.
 	Currently on hiatus after I got bored during the very slow sixth chapter and decided to replay Wack, then when I returned so I could see if writefags would make anything for my birthday, I did a little bit before getting stuck, and by the time I finally realized that I should maybe check the island's oricorio meadow to continue progress, procrastination got in the way.
     
-	probably not going to be continued unless I somehow need filler content while waiting for v13.5 to come out if the Crud playthrough somehow doesn't last long enough for Jan to finally get his act together and release v13.5
+	v13.5 doesn't support transferring saves during the terajuma island arc (and most stuff before the last few chapters) so this playthrough is functionally permadead
 	
 https://arch.b4k.co/vp/thread/52574094/ 1 summoning writefag
 https://arch.b4k.co/vp/thread/52579284/ 2 a new drawfag
@@ -412,7 +413,7 @@ https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
 ##Empire Multi-LP
-!!! danger Status: it's fucking over
+!!! danger Status: it's fucking over, also allegedly this caused Wagiedos to commit suicide
     We tried playing pretentious political """satire""" & societal criticism: the fangame again, despite my countless warnings.
     Expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be.
     There's a reason most of the players dropped out before the third badge. **Please do not play this shit ever, and it is (You)r duty to report and ignore anyone shilling this garbage**
@@ -459,4 +460,5 @@ https://arch.b4k.co/vp/thread/54771058/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54772581/ 2 lurker intelligence not guaranteed
 https://arch.b4k.co/vp/thread/54776093/ 3 chapter 2: now with 100% more cutscene stupidity!
 https://arch.b4k.co/vp/thread/54777770/ 4 remind me to never try hosting a tournament with less than 8 people ever again
-https://arch.b4k.co/vp/thread/54781621/ 5
+https://arch.b4k.co/vp/thread/54781621/ 5 spooky lack of new content
+https://arch.b4k.co/vp/thread/54783095/ 6

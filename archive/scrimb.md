@@ -55,6 +55,7 @@
 [Daichi](https://files.catbox.moe/ighxou.png)
 [Conrad](https://files.catbox.moe/as59i1.png)
 [Atsui](https://files.catbox.moe/wnotc9.png)
+[Hal](https://files.catbox.moe/zwt85g.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

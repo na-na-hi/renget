@@ -2,6 +2,9 @@ Welcome to the Vidya Creepypasta General. Feel free to discuss video game-based 
 
 ROOM #??? - ??? Edition
 
+>Newgrounds Creepypasta Collab 2023
+https://www.newgrounds.com/portal/view/project/5154522
+
 >Slender : Return to Rosswood park
 https://gamejolt.com/games/slender_returntorosswood/826508
 

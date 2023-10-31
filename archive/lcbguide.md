@@ -136,6 +136,9 @@ Walpurgis Night Target Extractions will be featured over the Event period. Walpu
 
 Identities and E.G.O featured in the currently ongoing Walpurgis Night Event cannot be purchased from the Dispenser. However, during the next Walpurgis Night Event, Identities & E.G.O from previous Walpurgis Night Events will be made purchasable from the Dispenser. They will not be featured in the Dispenser outside of the Event period. E.g., during the second Walpurgis Night Event, Identities and E.G.O from the first Walpurgis Night Event will be purchasable from the Dispenser, but not the new Identities and E.G.O from the second Walpurgis Night Event. Walpurgis Night Identities and E.G.O featured in the current event will be visible, but you still can't shard them, so do not open Egoshard Boxes before confirming whether or not the units are shardable. Walpurgisnacht is currently our only type of limited banner.
 
+(i.e do not do picrel you fucking retard)
+![Image sourced from threads](https://files.catbox.moe/y91i04.jpg)
+
 **5. Dupes**
 If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
@@ -353,4 +356,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
 10/20/23: Clarified MD2H weekly rewards.
 10/25-27/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
-10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know.
+10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time. ![lol&](https://files.catbox.moe/7dmu76.png)

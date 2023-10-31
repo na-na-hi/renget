@@ -2,10 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (10/29/23)
-	**I have chosen to remove the list for 'available loras without the need of updates and have been tested' from the indies section to save up on space.
-	The list containing whats being tested and what needs updating still exists since I think keeping up what I have on the waiting list and what really needs the help is necessary over what is already done.
-	My apologies for the removal.**
+!!! warning Quick Update (10/31/23)
+	**Moved 4 Phase-connect members for updating due to reports of them causing issues**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -33,12 +31,16 @@ Kaya Nishikino | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
-	Rinkou Ashelia, Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Amanogawa Shiina, Himemiya Rie, Makina Erina, Komachi Panko
+	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina,
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Fuura Yuri | X | X | -
 Remilia Nephys | X | X | -
+Amanogawa Shiina | X | X | -
+Himemiya Rie | X | X | -
+Komachi Panko | X | X | -
+Rinkou Ashelia | X | X | -
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.

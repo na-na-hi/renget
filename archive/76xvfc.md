@@ -40,6 +40,8 @@ XXX
 >Gyldenwulf
 "A golden-haired outlander and his she-wolf have stirred up trouble for a number of sects. Perhaps a pet of my own would make my fate more bearable, but I fear that I have mastered caring for myself. How might I care for a creature of a weaker constitution, then? Maybe this outlander would impart some wisdom on me."
 
+"It seems that this outlander visited other lands before finding himself in my own. I've had little opportunity to experience the loss that has driven Leanne to pursue him, but I will lend my blade to calm her heart. I wonder, will some child come to me one day and tell me of the pain I have inflicted upon them?"
+
 >Huang Yu
 XXX
 
@@ -62,7 +64,7 @@ XXX
 "I stood a distance away while listening to her play for a crowd. My blood seemed to boil as my sword cried to be set free, yet I found a peace unknown to me settling in. I fled before anything more serious could transpire when I thought she might have noticed my discomfort. It's a harsh thing to be confronted with the truth, to know my soul has been dyed in blood. Perhaps it might be purified, but I have no confidence that it would persist in this realm."
 
 >Leanne Pierpont
-XXX
+"Her presence is no replacement for the one I seek. Yet, I find myself moved to aid in her quest for vengeance. The way I found her she did not seem ready to take on such a bloody mission. She may be a warrior, but she is no killer. The sense of valor and honor I was touched by has little place in battle,  where savage and cowardly efficiency is what determines your survival . Still, she showed no care for my own wrongdoings when she requested I join her. Perhaps it was simple ignorance, but I would like to spare her the pain of learning to kill."
 
 >Kay Lee
 XXX

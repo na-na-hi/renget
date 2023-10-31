@@ -21,8 +21,8 @@
 [PapersWithCode](https://paperswithcode.com)|Paper indexer that allows sorting by github stars
 |
 **News**|
-[AI Explained](https://www.youtube.com/@ai-explained-)|General AI news with well sourced links (Youtube) 
-[Dr Alan D Thompson](https://www.youtube.com/@DrAlanDThompson)|Model reviews and AGI insights (Youtube)
+[AI Explained](https://www.youtube.com/@aiexplained-official/videos)|General AI news with well sourced links (Youtube) 
+[Dr Alan D Thompson](https://www.youtube.com/@DrAlanDThompson/videos)|Model reviews and AGI insights (Youtube)
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
 [Awesome ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
@@ -35,8 +35,6 @@
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
 [Foundational ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
-[AttentionViz Tool](http://attentionviz.com)|Visualizes global attention patterns for transformer models
-[Diffusion Explainer Tool](https://github.com/poloclub/diffusion-explainer)|Shows how SD transforms text into image with timesteps
 |
 **Prompting**|
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 
@@ -62,7 +60,7 @@
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
-[OWL](https://github.com/luuyin/OWL)|Outlier weighed layerwise sparsity for most major models
+[LoRAShear](https://github.com/microsoft/lorashear)|Structurally prune LLMs via dependency graphs
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
@@ -84,7 +82,6 @@
 **Non-LLM Local Models**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
-[Vlad's SD WebUI fork](https://github.com/vladmandic/automatic)|Fork of Automatic1111 stable diffusion webui with active development 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
 [Fabric for ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
 |

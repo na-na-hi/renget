@@ -26,7 +26,9 @@ adjustments to phrasing of instructions.
 [TOC2]
 ***
 #->Download Kanye West<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/mgc4xv.zip)<-
+!!! note
+	->Modified a few contradictory instructions.<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/f53gnr.zip)<-
 ***
 #-> Add-ons<-
 **User Info**: Input your chat specific persona here! 

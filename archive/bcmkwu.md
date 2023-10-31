@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Operator, callsign "bee", screams from from happiness as his team destroys Leopard 2A6
+https://files.catbox.moe/zovok4.mp4
+>7 minutes of ULTIMATE HOHOL DEATH
+https://files.catbox.moe/m9t0j6.mp4
+>hohol BMP drops off guys and instantly runs them over
+https://files.catbox.moe/0sg8sr.mp4
 >Hohol gets blinded by shrapnel then gets hit by more shrapnel
 https://files.catbox.moe/8ym6ol.mp4
 >Two videos of the BMPT "Terminator" in action at  

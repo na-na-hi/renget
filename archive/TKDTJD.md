@@ -77,6 +77,15 @@ https://www.youtube.com/watch?v=9jBgGY2Ww9Q
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  NITTER/X/TWITTER RECENTS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Pro-Palestinian protesters have BLOCKED a train station in London with a sit-in.
+https://nitter.net/jacksonhinklle/status/1719473090856431698#m
+
+
+
+
+
+
+
 >Warsaw, Poland.
 https://nitter.net/DD_Geopolitics/status/1715844641269178519#m
 
