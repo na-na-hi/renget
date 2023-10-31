@@ -859,3 +859,8 @@ Corotha | Summary
 ![Coro](https://files.catbox.moe/n13g0s.png) | A native american femboy living totally isolated from anybody, having gotten separated from his family and tribe at a young age. But one fateful day he spots a strange pale man walking through his woods, seemingly completely out of his element as he decides to take a closer look...
 Fun fact: He's actually the son of my Nascha bot that I did a long time ago, so if you want you can give them their happy family reunion.
 Links   | Catbox: https://files.catbox.moe/n13g0s.png
+
+The Siren | Summary
+------ | ------
+![Siren](https://files.catbox.moe/7itjx6.png) | Halloween bot! A lone siren singing to herself at night, and while everything you know from studying monsters screams at you to stay away unless you want to end up as just another meal, something about her gives you the feeling that she's different somehow...
+Links   | Catbox: https://files.catbox.moe/7itjx6.png

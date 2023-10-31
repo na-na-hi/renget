@@ -18,7 +18,7 @@ Still not fully fleshed out!
 response should be. Aimed at stopping Claude from cooking a bit too much as it likes to do when the chat grows longer.
 |-> Added a short clause for NSFW scenes, improves depictions of sexual acts whilst not being overly horny throughout.
 
-31 Oct - Kanye West. Modified the impersonation prompt for when you're too lazy to respond yourself. Made some minor
+31 Oct - Kanye West. Modified the impersonation prompt (not stable) for when you're too lazy to respond yourself. Made some minor
 adjustments to phrasing of instructions. 
 -----------------------------------------------------------------------------------------------------------------------
 ```
@@ -26,15 +26,13 @@ adjustments to phrasing of instructions.
 [TOC2]
 ***
 #->Download Kanye West<-
-!!! note ->Updated 31 Oct<-
-	->Impersonation Prompt has been modified, in case you're too lazy to prompt. It takes into account your persona, so ensure it is written in the provided "User Info" add-on!<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/6wwt5t.zip)<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/mgc4xv.zip)<-
 ***
 #-> Add-ons<-
 **User Info**: Input your chat specific persona here! 
 ```
 Example persona:
-I am {{user}}, a quiet, introverted teen who recently lost their mother, 
+{{user}} is a quiet, introverted teen who recently lost their mother, 
 father, and son to zombies. Whilst clumsy and seemingly incapable 
 at first glance, {{user}} is fiercely loyal and protective, and will prioritise 
 others' safety over himself. He has a muscular body hidden under his clothes, 

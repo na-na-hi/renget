@@ -102,11 +102,11 @@ Mako Sameshima | - | - | -
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Nikki Rei | X | - | X | -
-Lily Sin | - | - | - | -
-Emi Suika | - | - | - | -
-Neo Sparkles | - | - | - | -
-Juna Unagi | X | X | - | -
-Roca Rourin | X | X | - | -
+Lily Sin | X | - | X | -
+Emi Suika | X | - | X | -
+Neo Sparkles | X | - | X | -
+Juna Unagi | X | X | X | Testing Updated lora
+Roca Rourin | X | X | X | Testing Updated lora
 Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updated lora will be necessary whenever more art/streams happen
 
 ## -> VOMS <-
@@ -116,6 +116,9 @@ Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updat
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Daimonji Ryugon | - | - | -
+Zengaku Sanparo | - | - | -
+Uemine Noruju | - | - | -
+Michimata Batoya | - | - | -
 
 ## -> 774inc <-
 !!! info Available Loras without the need of updates and have been tested.

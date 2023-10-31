@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #37 (Tuesday, 24 October 2023, 15:30 UTC)<-
+->Last updated on thread #38 (Tuesday, 31 October 2023, 15:30 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -424,6 +424,28 @@ While The Quarter Pounder with cheese is THE Macca's classic, you can't deny tha
 The McRib is less a sandwich than a meme they re-release every few years because all the cable TV news talking heads give them hours and hours of free advertising by talking about it. The mechanically formed slug of mystery meat is not in and of itself horrible but it is drowned in a sugary, sugary, sugary sauce that seems to be an attempt to convert it into candy. A less sweet, more savory sauce (try tomato paste +
 apple cider vinegar + sweet basil + just a few drops of liquid smoke seasoning, salt, pepper, garlic, paprika, and maybe a tad of cayenne pepper, to taste) would improve it quite a bit. As it is, it is maybe the canonical example and the picture in the dictionary when you look up "mediocre fast food." Foxes are obligate carnivores and even they aren't enthusiastic about the McRib.
 
+###Mr. Fries Man
+####60710754 Anonymous: Buffalo Ranch Chicken Fries
+Mr. Fries man - `Buffalo Ranch Chicken Fries` review:
+(Regular size; Grilled Chicken; W/Cheese)
+
+It’s worth mentioning the first beverage option was
+\>Crush: Grape Soda 20.oz.
+LOL black peepo like chicken LOL LMAO LOL
+
+Initial impressions:
+Holy shit why did I not know about this sooner?! The correct ammount of buffalo sauce has been used to accentuate the chicken, and the fries to protein ingredient ratio is perfect, and the cheese isn’t overwhelming, but merely there to accentuat the dish, moreso the fries than the chicken.
+
+Halfway through Impressions:
+There’s some kind of herbs on top, and these should have been throughout the dish. The ranch dressing does overpower the dish in certain ‘locations’ throughout the entire dish.
+These aren’t deal-breakers, but just notes. I’m still very satisfied and will almost certainly order for this establishment in the future.
+
+Final thoughts:
+Overall the dish had a bad chicken to fries ration, being a french-fry inspired meal.
+I unded up eating about four chicken nuggets worth of just buffalo ranch chicken with no fries or cheese to mention. This is less of a complaint and more of a disappointment.
+All in all it was quite good, and I intend to order from here again, trying other options.
+[![Mr. Fries Man's Buffalo Ranch Chicken Fries: gasghasfdasdg.jpg / 1698607976961.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1698/60/1698607976961.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1698/60/1698607976961.jpg)
+
 ###Popeyes
 ####59930637 Anonymous: General
 `General`
@@ -613,6 +635,18 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
 !!! info
     ##/Chic-Fil-A/ Bible Study
 ---
+#####60690465 Anonymous: Galatians 5:6
+forget japanese and go learn some latin. jesus wants you to read a bible verse today.
+
+\>`Galatians 5:6`
+\>For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+
+#####60683812 Anonymous: Genesis 1:28
+the man's essay is WRONG i proclaim. you should only aim with what you can procreate with, the end goal is reproduction, if you cannot procreate you gonna die
+
+`Genesis 1:28`
+"And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth"
+
 #####60488555 Anonymous: John 8:44
 `John 8:44:`
 "You are of your father the devil, and your will is to do your father's desires. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he lies, he speaks out of his own character, for he is a liar and the father of lies."

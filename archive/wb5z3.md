@@ -22,6 +22,8 @@
 >PC Engine adventure game on a CRT
 
 >concept art for Darkest Dungeon, digital color drawing in the style of Mike Mignola, dark fantasy ambiance, eyes in shadow, \[character description], \[background description (optional)]
+
+>atmospheric, mike mignola artstyle, mild colors, high quality dark fantasy painting with thick black outlines, low color saturation, line threading, and sharp edges
  
 ▶ Basic styles
 >woodcut

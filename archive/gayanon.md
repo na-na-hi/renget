@@ -75,23 +75,24 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Mythology - New Bot (03.10)
-Character cards based off different mythology.
+##Standalone - New Bot 31.10
+Is exactly what it says.
 
 Li Xiaoyu | Description
 :----:  | :----: 
 ![Li Xiaoyu](https://files.catbox.moe/7efo6l.png)   | With the magnetic pull of his innate powers and his self-imposed loneliness, Li Xiaoyu is a walking paradox. Fated for villainy, he teeters on a lunar edge. The question is: will someone pull him back, or tip him over? V2 card with four different greetings and a small baked in lorebook.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/li-xiaoyu-043feee3) . [Catbox](https://files.catbox.moe/qsj7pv.png) . [Background](https://files.catbox.moe/bps18u.png)
 
-***
-
-##Standalone
-Placeholder section for now, but I'm autistic about connecting characters and worlds so I doubt this will fill up anytime soon...
+Cyril Kravitz | Description
+:----:  | :----: 
+![Cyril Kravtiz](https://files.catbox.moe/ad47rm.png)   | A small town undertaker tasked with overseeing life’s final curtain call. A curse he neither asked for nor can escape keeps others at bay. V2 card with three different PoV greetings and a small baked in lorebook.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/cyril-kravitz-a49fda13) . [Catbox](https://files.catbox.moe/1q0d3e.png) . [Background](https://files.catbox.moe/n5462z.png)
 
 ***
 
 ##Changelog
 
+31.10 - Added Cyril Kravtiz (new)
 22.10 - Added Percival background, fixed up a few things
 03.10 - Added Li Xiaoyu (new)
 01.10 - (finally) added a changelog and reformatted some stuff

@@ -224,6 +224,7 @@ Cover    | Name | Description | Tags | Relevance | Links
  * Golden Boy | imaginary sequence in c43
  * Henshin no News | c09
  * Shiboritoranaide, Onna Shounin-san!! | c11.2-12.2
+ * Isyuzoku Joshi ni ○○ Suru Hanashi | c14, c29, c51, c51p6
 
 #### Lost
  * ビックリビッグ | [1](https://desuarchive.org/d/thread/10405800#p10410417)
