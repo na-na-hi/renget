@@ -31,7 +31,7 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >DISCIPLES
 >Yasha, Pokémon Trainer
 >>90675954
->Ming Ming, not enough here for me to come up with anything
+>Ming Ming, Capitalism, Ho!
 >>90678460
 >Zheng Hao, Magic Fingers
 >>90687745
@@ -81,6 +81,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90709507
 >Xicotl, how come your mom lets you have THREE gods? 
 >>90750577
+>Lan Jiangmei, The Martial Realm’s Next Masterchef
+>>90784451
 
 >ANCESTORS
 >Xū, Void Parisian
@@ -124,6 +126,9 @@ https://rentry.org/76xvfc
 https://rentry.org/9sa6m
 >Yasha
 https://rentry.org/fecd5
+>Ming Ming
+https://rentry.org/xnz7aa
+
 ```
 #MHA
 
@@ -146,7 +151,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Unloaded last thread. Back to charging!
+>A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca)
+https://rentry.org/6t4giv
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90676737/
@@ -631,6 +637,8 @@ https://rentry.org/b9ge4v
 https://rentry.org/h5izt6
 >Renaissance (Desolator, Luccione, Mauler):
 https://rentry.org/rfyv4
+>A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca)
+https://rentry.org/6t4giv
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

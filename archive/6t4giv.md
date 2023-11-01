@@ -8,7 +8,7 @@ As the morning winds of October 31st touched Kyoto, Japan. The kids of Shiketsu 
 
 “So what do you think? Tada! I’m the Pumpkin Prince,” Inigo grinned next to the plastic pumpkin head he carried. “Even got the orange tie to match.” His construct, Gigan, floated alongside him as a ghoulish green cat.
 
-“I thought you were going as a samurai,” Christopher said as the two walked to school. It was just him and Inigo that morning. Sally lagged behind them, on a phone call with her boyfriend, Noah, as they coordinated their costumes. Upon hearing that UA was allowing school costumes on Halloween day, Principal Karaburan had done the same for Shiketsu. It was a welcomed surprise.
+“I thought you were going as a samurai,” Christopher said as the two walked to school. Sally lagged behind them, on a phone call with her boyfriend, Noah, as they coordinated their costumes. Upon hearing that UA was allowing school costumes on Halloween day, Principal Karaburan had done the same for Shiketsu. It was a welcomed surprise.
 
 “Nah. That’s only if Hoge matched with me.  What’re you supposed to be?” He watched his dark-haired best friend struggle with his cravat and deerstalker hat, which would’ve made him look sophisticated if not for the two winter coats he was wearing. It made him look like a cotton ball as he penguin-walked along.
 
@@ -121,7 +121,7 @@ The woman showed no signs of leaving. The lesson dragged on. Hoge contemplated f
 
 Outside, the sun fully set and heavy rain started. Inside, the suspended dust and sense of things long unused weighed down the stale air. The doll remained vacantly unaffected. And the woman kept staring, smiling, as Hoge pretended to teach it.
 
-Hoge glanced at her watch. 8:03 PM. Four hours of uneasy tutoring finished.  The woman still smiled vacantly. "All done for today? Ken-kun learned so much, I can tell."
+Hoge glanced at her watch. 9:03 PM. Four hours of uneasy tutoring finished.  The woman still smiled vacantly. "All done for today? Ken-kun learned so much, I can tell."
 
 "Yes, four hours goes quickly." A complete falsehood. Each minute crawled by. “It was a very productive first lesson. I'm sure with more practice, he'll make excellent progress." She stood, wincing as her stiff joints crackled.
 
@@ -251,7 +251,7 @@ The rest of the class began murmuring nervously as more of them noticed their cl
 
 "Be careful!" Yui warned as Christopher cautiously approached Inigo. But a moment later, Christopher also collapsed to the floor. Faith shrieked in fright.
 
-"I think- I'm o-okay." Christopher said to Faith as she helped him stand up, only for his face to become expressionless and his eyes glew green.
+"I think- I'm o-okay." Christopher said to Faith as she helped him stand up, only for his face to become expressionless and his eyes glowed green.
 
 "We're taking action," Imai declared. He strode over to the infected students and attempted to read their minds, only to sway and crumple to the ground himself. When he stood up, his eyes were glowing too.
 
@@ -493,7 +493,7 @@ Seiryu shook his head. "Didn't have time. I just finished my patrol and then cam
 
 "Well aren't you two party poopers," Popsy huffed.
 
-Smokin' Sexy rested a hand on the hilt of her sword. "I'm dressed as a drunk pirate."
+Smokin' Sexy rested a hand on the hilt of his sword. "I'm dressed as a drunk pirate."
 
 Popsy tilted her egg to the side. "Yeah, I can't really tell the difference, to be honest. In any case, we don't want to be late to Impakt's party," she declared. 
 

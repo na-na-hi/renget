@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 9/13/2023
+>Up To Date As Of 11/1/2023
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -78,6 +78,7 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 [Dinner For Two, Eating For Five](https://www.deviantart.com/beghostwriter/art/Dinner-For-Two-Eating-For-Five-Hololive-StufFic-946998860) (Watame, Anon, Chubby, Stuffing, Willing, NSFW)
 [The Nurse Who Drained Me](https://www.deviantart.com/debuentendu/art/The-Nurse-Who-Drained-Me-950923172) (Choco, Laplus, Marine, Noel, Kronii, Weight Gain, SSBBW, Semi-Willing to Willing, Weight Transfer, NSFW)
 [The Weight of Gluttony](https://www.deviantart.com/spartancam1302/art/The-weight-of-gluttony-982413585) (IRyS, Chubby, Extreme Stuffing, Mild Slob (Gas), NSFW)
+[Winter Blubber](https://docs.google.com/document/d/e/2PACX-1vSYn2tNf7LgOcWTFXzE7ZMkG6jzl61y3_zVHQ1-qLire07h3hdoqqvg9DZtcn-XrtdymiQjWVEX0PV8/pub?urp=gmail_link) (Petra, Elira, Selen, Weight Gain, SSBBW, Semi-Willing to Willing, NSFW)
 
 
 ##Greentext Archive
@@ -337,6 +338,10 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![TakaMori Lardass Parents](https://i.imgur.com/O2ocQat.png)
+.
+.
+
+![Ember Belly Wish](https://i.imgur.com/cugECP4.png)
 .
 .
 .

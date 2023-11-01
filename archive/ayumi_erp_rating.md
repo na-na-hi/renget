@@ -22,8 +22,7 @@ The third and rather new metric is the **ERP Variety Score**, this score measure
     - [New Model RP Comparison/Test (7 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15ogc60/new_model_rp_comparisontest_7_models_tested/)
     - [Big Model Comparison/Test (13 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15lihmq/big_model_comparisontest_13_models_tested/)
 
-!!! note If you want to filter the results, `mr.developer` wrote a JS script - or you can download the results as CSV file and filter it in eg. LibreOffice Calc
-    You can find it here: https://rentry.org/ayumi_filter_userscript_info (**Please note:** I updated the table format on 2023-09-08, mr.developer will fix the filter script eventually once there is some free time.)
+!!! note I currently rerun benchmarks, and I updated the scoring a bit. Until I get around updating the tables on this page, I made a page that is more closely connected to my benchmark infrastructure: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
 
 ## Emoji Key
 
@@ -45,6 +44,8 @@ The third and rather new metric is the **ERP Variety Score**, this score measure
 | 🍆 | Top ERP ranks get this one. |
 
 ## 3B-7B Models
+
+!!! note 2023-11-01 Benchmark Re-Run V3: I currently run a completely new benchmark. Until I get around to update this page, you may find the most recent results here: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
 
 - [See **Ranking Changelog** to see which GGUF/GGML Models were added](https://rentry.co/ayumi_erp_rating#ranking-changelog)
 - [Benchmark Results as CSV - Timestamp 20231004_193917](https://m8geil.de/data/push/ayumi_llm_erp_ranking_scores_20231004_193917.csv)
@@ -224,6 +225,8 @@ The third and rather new metric is the **ERP Variety Score**, this score measure
 |   171 |  170 |  171 | 🤪  47.58 | 🧊    0.00 | ♻    0 |  [LMSYS LongChat 1.5 32k 7B](https://huggingface.co/s3nh/lmsys-longchat-7b-v1.5-32k-GGML) Q5_1 ([ext. context maybe broken](https://rentry.co/ayumi_erp_rating#about-extended-context-8k-16k-32k)) |
 
 ## 13B Models
+
+!!! note 2023-11-01 Benchmark Re-Run V3: I currently run a completely new benchmark. Until I get around to update this page, you may find the most recent results here: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
 
 - [See **Ranking Changelog** to see which GGUF/GGML Models were added](https://rentry.co/ayumi_erp_rating#ranking-changelog)
 - [Benchmark Results as CSV - Timestamp 20231004_193917](https://m8geil.de/data/push/ayumi_llm_erp_ranking_scores_20231004_193917.csv)
@@ -509,6 +512,8 @@ The third and rather new metric is the **ERP Variety Score**, this score measure
 
 ## 20B to 33B Models
 
+!!! note 2023-11-01 Benchmark Re-Run V3: I currently run a completely new benchmark. Until I get around to update this page, you may find the most recent results here: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
+
 - [See **Ranking Changelog** to see which GGUF/GGML Models were added](https://rentry.co/ayumi_erp_rating#ranking-changelog)
 - [Benchmark Results as CSV - Timestamp 20231004_193917](https://m8geil.de/data/push/ayumi_llm_erp_ranking_scores_20231004_193917.csv)
 
@@ -606,6 +611,9 @@ And a few others. The reason for this is simple: **The GGML file format is a mes
     - `--rms-norm-eps` is an epsilon value for inference of the models. This value is different bewettn LLaMA 1 (`1e-6`) and LLaMA 2 (`1e-5`). It makes a difference in how well either model works. The original default `1e-6` was actually replaced recently by `5e-6` which is half way between the both values, and suppsedly should work fine. But in my own tests I saw quite some variance in the performance of the quantized GGML models, which were kind of contradicting to what was stated on llama.cpp. But I decided to not dig further, because there is still too much sampling randomness involved in the ALC-IQ (beta). Which I will eventually fix.
 
 ## Ranking Changelog
+
+- 2023-11-01 Benchmark Re-Run V3
+  I currently run a completely new benchmark. Until I get around to update this page, you may find the most recent results here: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
 
 - 2023-10-04 V36
   - [Benchmark Results as CSV - Timestamp 20231004_193917](https://m8geil.de/data/push/ayumi_llm_erp_ranking_scores_20231004_193917.csv) 

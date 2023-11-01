@@ -27,7 +27,7 @@ _______
 | The Forgotten Song (whoo / Hatsune Miku) | [![](https://files.catbox.moe/42qs44.jpg)](https://www.youtube.com/watch?v=P-bBKa8Bb_Q) |
 | Dan Dan Don Don / だんだん近くなる (40mP) - New version | [![](https://files.catbox.moe/qqmaat.jpg)](https://www.youtube.com/watch?v=RRq4-uktHiI) |
 |Stellar Stellar (Hoshimachi Suisei)| [![](https://files.catbox.moe/wlbcdm.jpg)](https://www.youtube.com/watch?v=ql0cz-62ff0) |
-|Ant Observation / アリの観察 (ヒーリングP) | [![](https://files.catbox.moe/y7wlzv.jpg)](https://www.youtube.com/watch?v=3VGG6clNEZA)|
+|Ant Observation / アリの観察 (ヒーリングP) | [![](https://files.catbox.moe/zar7lq.jpg)](https://www.youtube.com/watch?v=3VGG6clNEZA)|
 
 ###### Collab songs
 | Song | Link |

@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>Hohol Medev—ACK moment 
+https://files.catbox.moe/crrgr2.mp4
+>massive bombing of hohol positions in Klescheevka 
+https://files.catbox.moe/h2r62m.mp4 
+>Pacific Fleet Marines bomb hohol positions with FPV drones 
+https://files.catbox.moe/2qw5si.mp4 
+>200th artillery bombs hohol bases north of nikolskoye 
+https://files.catbox.moe/bxhklm.mp4 
+>Ugledar: Hohol DRG group gets discovered and AGS-17'd 
+https://files.catbox.moe/k5x2yf.mp4 
+>VT-40 onslaught on hohol armor and personnel 
+https://files.catbox.moe/a6dygu.mp4 
+>Clearing trenches one drone grenade at a time 
+https://files.catbox.moe/ha1zei.mp4
 >Operator, callsign "bee", screams from from happiness as his team destroys Leopard 2A6
 https://files.catbox.moe/zovok4.mp4
 >7 minutes of ULTIMATE HOHOL DEATH
