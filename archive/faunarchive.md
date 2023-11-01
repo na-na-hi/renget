@@ -941,5 +941,38 @@ Set list (stream starts at 1:48):
 
 [warosu](https://boards.4channel.org/vt/thread/61467143#p61469006)
 
+##### Spooky Karaoke
+[2023-10-31](https://youtu.be/oyQwLp5hWbg)
+
+[magnet](magnet:?xt=urn:btih:4371de12760aa5ddc405c4470d41f21ba7207447&dn=%5B20231031%5D%20Unarchived%20Halloween%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[gofile](https://gofile.io/d/8sBrml)	
+[audio mega](https://mega.nz/file/B84VWR4b#aJCkMgiPpTYl24XooUBsbnA7Jbgf7c0-TuxIyt0HGEs)
+
+Set list (stream starts at 1:27):
+1. Bow Wow Wow - I Want Candy (3:52)
+2. Kesha - Cannibal (7:16)
+3. Simple Plan - What's New, Scooby-Doo? (11:07)
+4. Rihanna - Disturbia (13:06)
+5. Bobby Darin - Mack the Knife (17:48)
+6. Scissor Sisters - I Can't Decide (21:38)
+7. Andrew Gold - Spooky Scary Skeletons (25:55)
+8. Conan Gray - Maniac (28:59)
+9. Pixies - Where Is My Mind? (32:35)
+10. Soft Cell - Tainted Love (37:04)
+11. Lady Gaga - Bad Romance (40:09)
+12. My Chemical Romance - Welcome to the Black Parade (45:14)
+13. Ray Parker Jr. - Ghostbusters (50:44)
+14. Rick Astley - Never Gonna Give You Up (55:42)
+15. Ween - Ocean Man (59:43)
+16. Michael Jackson - Thriller (1:04:14)
+17. Radiohead - Creep (1:10:56)
+18. Bobby Pickett - Monster Mash (1:15:39)
+19. Bobby Pickett - Monster Mash (duet with Fauna, first recording; 1:19:45)
+20. Bobby Pickett - Monster Mash (duet with Fauna, second recording; 1:24:26)
+21. Let it Snow! Let it Snow! Let it Snow! (1:31:10)
+
+
+[warosu](https://boards.4channel.org/vt/thread/61694712#p61697655)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

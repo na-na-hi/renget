@@ -869,7 +869,7 @@ Kaylee In Wonderland Part 1 (Flying Force and a lot of students): https://rentry
 MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Challenger, Mirror Devil, Marrow): https://rentry.org/mib4v
 Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
 Renaissance (Desolator, Luccione, Mauler): https://rentry.org/rfyv4
-
+A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca): https://rentry.org/6t4giv
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

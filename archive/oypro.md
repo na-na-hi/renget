@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 8 | **Experience to Next Level:** 65/80
+**Level:** 8 | **Experience to Next Level:** 75/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
 
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-	You have 15 points to spend.
+	You have 35 points to spend.
 	0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

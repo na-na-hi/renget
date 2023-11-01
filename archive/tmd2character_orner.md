@@ -6,7 +6,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 9 | **Experience to Next Level:** 10/90
+**Level:** 9 | **Experience to Next Level:** 20/90
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
 
@@ -63,7 +63,7 @@ Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Move: Aqua Tail | Tier ɪ | 3/3 | ▮▮▮
+Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 
 **INVENTORY (4 slots)**
 Item Name | Description
@@ -72,7 +72,7 @@ Item Name | Description
 *Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Warp Seed | Random teleport seed.
 2. Fog Orb | Makes the weather Foggy.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Caramel Apple | +20 IQ
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

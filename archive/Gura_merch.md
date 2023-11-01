@@ -9,6 +9,11 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
+####Gawr Gura figma pre-order 
+https://www.amiami.com/eng/detail/?gcode=FIGURE-161606 
+or 
+https://goodsmileshop.com/en/CATEGORY-ROOT/figma/figma-Gawr-Gura/p/MAX_WD_00654 
+
 
 ####Gawr Gura 3rd Anniversary Celebration
 https://shop.hololivepro.com/en/products/gawrgura_an3rd

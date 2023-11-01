@@ -53,6 +53,8 @@ Updates by:
 !!! note 
 	->**Currnet theme song(s):**<-
 
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **["Flames of War" V3 | Issa Allaith | Houthi Song](https://youtu.be/MoKSdFuUc64)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
 	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)
@@ -142,16 +144,17 @@ https://rentry.org/TKDCHIP
 ## Links/Resources:
 !!! note
 	>**▶/chip/ Seal Templates:**
-	>https://catbox.moe/c/esjjov
+	>>>https://catbox.moe/c/esjjov
 	>>==Current templates:== ![HAPPENING](https://files.catbox.moe/n1jbwb.png) ![Main](https://files.catbox.moe/1g6vh3.png) ![Main, arabic ver.](https://files.catbox.moe/h5vstu.png) ![Green, sharp flag](https://files.catbox.moe/hoj0j4.png) ![kraken](https://files.catbox.moe/qt6389.png)
 	***
 	>**▶/chip/ Art & Other OC:**
-	>https://catbox.moe/c/flj9bj
-	>https://catbox.moe/c/m0p63k *(Thank you, fren, very cute Hamas-chans)*
+	>>>https://catbox.moe/c/flj9bj
+	>>>https://catbox.moe/c/m0p63k *(Thank you, fren, very cute Hamas-chans)*
 	>>==i.e. Hamas-chan, and friends:== ![C728](https://files.catbox.moe/ghe3ro.webp), ![C628](https://files.catbox.moe/mg5c0c.webp), ![C916](https://files.catbox.moe/a25vl7.webp), ![C518](https://files.catbox.moe/kfe7xb.webp) and etc.
 	***
 	>**▶/chip/ OP banners/picrels for emergency baking** *(temporary, will be updated later with the full folder containing all materials.)*
-	>https://catbox.moe/c/fmybx2
+	>>>https://catbox.moe/c/r80cpr *(Thanks, burgerbaker for these, keep 'em comin')*
+	>>>https://catbox.moe/c/fmybx2
 	>>==i.e. Ready-to-go banners for emergency baking:== ![emb09](https://files.catbox.moe/jrbthb.webp), ![emb73](https://files.catbox.moe/q90k3a.webp), ![emb89](https://files.catbox.moe/go8if1.webp) and etc.
 	***
 	#### To do:

@@ -1,7 +1,13 @@
 Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How to Support Palestine Outside of Donation:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>"boycott israeli goods, all products with barcode starting 729" - https://en.m.wikipedia.org/wiki/List_of_GS1_country_codes
+
+>Support Palestinian sold goods (verify first that it's not a kike front).
+
 Videos To Help Fight The Jew
--
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >IF YOU DON'T KNOW (FOR PILLING NORMIES):
 https://www.youtube.com/watch?v=7eHQKJTnBoY
 https://www.youtube.com/watch?v=i9TwBqDe_I0 

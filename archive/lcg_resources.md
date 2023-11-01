@@ -144,7 +144,7 @@
 This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](https://rentry.org/akg_resources) because it is very well made.
 
 ## Contact
-Reply to the current OP with questions, critique or concerns. Preferably include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something, I read every thread.
+Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something; I read every thread.
 
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.
@@ -160,4 +160,4 @@ Reply to the current OP with questions, critique or concerns. Preferably include
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
 10/25-26/23: Added LimCum update countdown link. Added Ara channel link.
 10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
-10/29/23: Made separate section for Q&As and interviews, added more links. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/31/23: Made separate section for Q&As and interviews, added more links. ![lol&](https://files.catbox.moe/7dmu76.png)

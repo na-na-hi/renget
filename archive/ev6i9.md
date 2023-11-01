@@ -31,9 +31,11 @@ Wooper tilts his head a little. “We got most of that here, but... What's a mov
 
 -----
 
-Halloween finally arrives, and Wooper and I find ourselves in front of a mirror in the storeroom, making sure our costumes are right. I wear a blue coat, open to reveal a white shirt underneath. The coat has sections that hang down longer than the rest of it on the front and back. I let out a vine, coiling it up as I hold it in my hand. “Been a long time since I've actually worn a shirt, feels all kinds of weird now...”
+Halloween finally arrives, and Wooper and I find ourselves in front of a mirror in the storeroom, making sure our costumes are right. I wear a blue coat, with sections that hang down longer than the rest of it on the front and back. I let out a vine, coiling it up as I hold it in my hand. “Been a long time since I've actually worn a shirt, feels all kinds of weird now...”
 
 Wooper's body is painted in various shades of green, with metal “bolts” affixed to either side of his neck. He also has cracks and stitches drawn onto him as well. To me it looks like an incredibly stereotypical monster getup for Halloween, but Wooper looks thrilled to see his costume reflected back at him. “I love it! What're you again, Arthur?”
+
+![Our costumes](https://files.catbox.moe/v0lm4h.png)
 
 “I'm a monster hunter, like from this one... story back in the human world. He's a guy who fights evil with a whip, kinda like what I do now actually. Only he fought vampires instead of chillers.”
 

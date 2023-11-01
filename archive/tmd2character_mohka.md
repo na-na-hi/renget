@@ -9,7 +9,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** N/A
-**Level:** 7 | **Experience to Next Level:** 0/70
+**Level:** 7 | **Experience to Next Level:** 15/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 710₽ | **Glorious Gold:** 0 Bars
 
@@ -80,7 +80,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Sitrus Leaf | Vacant inventory slot.
 2. Orange Gummi | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Royal Gummi | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

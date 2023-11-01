@@ -1,4 +1,4 @@
-#-> lurkzn's Claude preset (Kanye West edition)<-
+#-> lurkzn's Claude preset (Kanye West edition - 1 Nov)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ![imf2](https://files.catbox.moe/ey1jz7.png)
@@ -18,17 +18,16 @@ Still not fully fleshed out!
 response should be. Aimed at stopping Claude from cooking a bit too much as it likes to do when the chat grows longer.
 |-> Added a short clause for NSFW scenes, improves depictions of sexual acts whilst not being overly horny throughout.
 
-31 Oct - Kanye West. Modified the impersonation prompt (not stable) for when you're too lazy to respond yourself. Made some minor
-adjustments to phrasing of instructions. 
+1 Nov - KanyeBallsInMouth. Fixed a few contradictory instructions.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
 [TOC2]
 ***
-#->Download Kanye West<-
+#->Download KanyeBallsInMouth<-
 !!! note
-	->Modified a few contradictory instructions.<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/f53gnr.zip)<-
+	->1 Nov - Modified a few contradictory instructions.<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/ddvnzr.zip)<-
 ***
 #-> Add-ons<-
 **User Info**: Input your chat specific persona here! 

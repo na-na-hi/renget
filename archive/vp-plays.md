@@ -461,4 +461,4 @@ https://arch.b4k.co/vp/thread/54772581/ 2 lurker intelligence not guaranteed
 https://arch.b4k.co/vp/thread/54776093/ 3 chapter 2: now with 100% more cutscene stupidity!
 https://arch.b4k.co/vp/thread/54777770/ 4 remind me to never try hosting a tournament with less than 8 people ever again
 https://arch.b4k.co/vp/thread/54781621/ 5 spooky lack of new content
-https://arch.b4k.co/vp/thread/54783095/ 6
+https://arch.b4k.co/vp/thread/54783095/ 6 i feel like the entire prison chapter was plagiarized from somewhere else
