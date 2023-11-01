@@ -248,6 +248,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
+	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem) *Not on Table*
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -606,6 +607,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 * {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 * {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
+* {||} [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem) *Not on Table*
 * {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 * {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)

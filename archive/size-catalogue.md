@@ -218,6 +218,9 @@ Cover    | Name | Description | Tags | Relevance | Links
  * Hazure Zokusei Tsuchi Mahou no Sei de Henkyou ni Tsuihousareta no de, Gangan Ryouchi Kaitakushimasu!  | miniGTS, minor | [Baka-Updates](https://www.mangaupdates.com/series/a3lq0jc)
  * Youseijirushi no Kusuriya-san
  * Gantz
+ * Yuusha ga Shinda! | c97-99 (animal), Omake: Soulrite Training, Famira chapters, Supreme God Kyle 
+ * 巨女 Anthology : Super Ultra Mega Giga Girl
+ * Sekai 8-banme no Fushigi | c03, c14, c19-
 
 #### Minor
  * Babylon Made wa Nan-kounen? | c01
@@ -241,6 +244,9 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * I Log In Alone
  * Kataomoi Shrink | M&f, shrinking, JP but vertical format
  * Dear Fairy, Please Contract With Me
+ * Human Behavior Correctional Education 
+ * Guaiqi Aiqing Gushi
+ * My Miniature Life Manual
 
 #### Shit
  * CONTEMPORFAIRY! | [Webtoons](https://www.webtoons.com/en/challenge/contemporfairy/list?title_no=362532)

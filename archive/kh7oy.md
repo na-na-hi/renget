@@ -11,15 +11,16 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 
 Future Release Dates:
 「!」 WarioWare Move It releases on November 3rd, 2023
+「!」 MK8D Booster Course Wave 6 releases on November 9, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 「!」 Mario vs. Donkey Kong REMAKE releases on February 16th, 2024
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 Overview - All courses revealed
+https://www.youtube.com/watch?v=0-kASUEEXn8
 「!」Paper Mario: The Thousand-Year Door Revealed
 https://www.youtube.com/watch?v=8Ume5pSIcKE
-「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 (Diddy Kong, Funky, Pauline, Peachette)
-https://www.youtube.com/watch?v=BiJ7IoeuhXE
 「!」WarioWare: Move It! 2nd Trailer
 https://www.youtube.com/watch?v=cZEa9VXurTE
 「!」Luigi’s Mansion 2 HD 2nd Trailer

@@ -1422,6 +1422,10 @@ https://civitai.com/models/181071/fila-anthro
 
 	https://civitai.com/api/download/models/203214?type=Model&format=SafeTensor
 
+# James "Jim" Hardiman
+
+	https://files.catbox.moe/c9hkyw.rar
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

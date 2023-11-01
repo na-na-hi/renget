@@ -1025,7 +1025,7 @@ Optional | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, u
 ##->Recommended Gear<-
 Weapon | Stig
 ------ | ------
-Nuada's Revenge | Little Joys set
+Nuada's Revenge | Sweet Dreams set
 
 Cost | Effect
 ------ | ------

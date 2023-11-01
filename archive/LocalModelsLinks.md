@@ -3,17 +3,17 @@
 ------ | ------
 **Guides**|
 [Quick Start Guide](https://rentry.org/TESFT-LLaMa)|Outdated. Basic how to set up Nvidia/AMD/CPU inferencing 
-[SillyTavern RP Chat Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
-[Local Models Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
-[Local Models Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
-[Local Models GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.org/Mikubox-Triple-P40)
+[SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
+[LM Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
+[LM Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
+[LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.org/Mikubox-Triple-P40)
 |
 **Models**|
 [TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
-[Models Information Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
+[Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
 [Local Models Papers](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up-to-date with new papers and articles
@@ -24,22 +24,22 @@
 [AI Explained](https://www.youtube.com/@aiexplained-official/videos)|General AI news with well sourced links (Youtube) 
 [Dr Alan D Thompson](https://www.youtube.com/@DrAlanDThompson/videos)|Model reviews and AGI insights (Youtube)
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
-[Awesome ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
+[ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
-[LocalModelsLinks Archive](https://archive.is/f8UGT)|From before 09/2023 cleanup  
+[Rentry Archive](https://archive.is/f8UGT)|From before 09/2023 cleanup  
 |
 **Learn**|
-[ML Self Learning Guide](https://rentry.org/machine-learning-roadmap)|Learn ML from basic math to python to specific ML courses 
-[Andre Karpathy Videos](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
-[Principles of DL Theory](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
+[Andre Karpathy YT](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
+[Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
+[Math Intro to DL](https://arxiv.org/abs/2310.20360)|Textbook with focus on ANN and algorithms 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
-[Foundational ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
+[ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
 |
 **Prompting**|
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting (academic focus)
-[Parameter Settings Info](https://archive.is/htVug)|For use with most local inferencing frontends
+[Parameter Settings](https://archive.is/htVug)|For use with most local inferencing frontends
 [RPBT Prompt](https://rentry.org/RPBT)|Allows for OOC guiding and for roleplay with multiple characters 
 |
 **LLM Inferencing**|
@@ -76,18 +76,17 @@
 [PoSe](https://github.com/dwzhu-pku/PoSE)|Positional skip-wise training (finetuning too) that works with RoPe models for context extension
 [ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
 [Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
-[Activation Additions](https://github.com/montemac/activation_additions)|Like steering vectors but better 
 [DejaVu](https://github.com/FMInference/DejaVu)|Context sparsity for efficient inference leading to large speedups (6x vs HF transformers) 
 |
 **Non-LLM Local Models**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
-[Fabric for ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
+[Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
-[Set-of-Mark Prompting](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[Set-of-Mark](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
 [LLaVA](https://github.com/haotian-liu/LLaVA)|Visual instruction tuned multimodal LLM (CLIP+Vicuna)
 [SALMONN](https://github.com/bytedance/SALMONN)|Audio instruction tuned multimodal LLM (Whisper+BEATS+Vicuna)
@@ -110,7 +109,7 @@
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
 [Music AI Voice](https://huggingface.co/QuickWick/Music-AI-Voices)|For use with RVC or SVC audio voice cloning 
-[Wikipedia Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
+[Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
 [ERP Forum Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
 [VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 [Data-Juicer](https://github.com/alibaba/data-juicer)|Broad featured dataset preparation tool from Alibaba

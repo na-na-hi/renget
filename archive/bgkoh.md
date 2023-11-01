@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 8 | **Experience to Next Level:** 70/80
+**Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 94₽ | **Glorious Gold:** 0 Bars
 
@@ -21,7 +21,7 @@ Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increase
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 33 points to spend.
+    You have 49 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -62,10 +62,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Speed **ɪ** | first stage (+0 AP) | 
+Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his flamse
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

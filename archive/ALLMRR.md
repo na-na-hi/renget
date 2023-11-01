@@ -17,6 +17,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
 	- 13B:
 	[Echidna-Tiefigther-25](https://huggingface.co/Henk717/echidna-tiefigther-25) <- AliCat's current fav for RP, and Adventure. Also good for general chatting.
+	[LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
 	[WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
 	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
 	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.
@@ -30,7 +31,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
 	[spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
 	- 20B:
-	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- AliCat's current fav for chatting. Uniquely realistic chatting experience!
+	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- AliCat's current fav for chatting. Uniquely realistic chatting experience! Works best with a character named "Sydney".
 	
 ***
 #Leaderboard

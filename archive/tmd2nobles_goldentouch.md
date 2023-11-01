@@ -1,6 +1,6 @@
 -> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
 ->![The golden touch](https://pixeldrain.com/api/file/6cWWszpu)<-
-### Golden Touch (Absol) (wip) ♀
+### Rose Gold (Absol) (wip) ♀
 ####**"How much will it cost?"**
 
 Born in a noble family, she was not a fan of the control and etiquette due to being the next in line to receive the title, and as such, she escaped with her distant cousin, and became adventurers, that was until a familiar event and a break with her cousin made her decide to take her birthright role as the next in kin of the [TBD] family in the table of the nobles, from then on, discovering a certain affinity with money and investments, she has used her fortune to push the kingdom in the direction she intends, a place of wonders and business, while funding her cousin's team in secret

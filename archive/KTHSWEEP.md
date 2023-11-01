@@ -78,6 +78,9 @@ https://rentry.org/KtH-KayLee
 >Xicotl, Sixth Sun Nomad
 https://desuarchive.org/tg/thread/90744924/#90750577
 https://rentry.org/DAMOIGHTYSUN
+>Lan Jìngměi (蘭 静美)
+https://desuarchive.org/tg/thread/90778334/#90784451
+https://rentry.org/KtHChefSaber
 
 #### Ancestors
 
@@ -106,6 +109,21 @@ https://rentry.org/76xvfc
 https://rentry.org/9sa6m
 >Yasha
 https://rentry.org/fecd5
+>Ming Ming
+https://rentry.org/xnz7aa
+
+### Scrolls
+
+>Yasha
+https://desu-usergeneratedcontent.xyz/tg/image/1698/80/1698807480509.png
+>Ming Ming
+https://desu-usergeneratedcontent.xyz/tg/image/1698/81/1698810740127.png
+>Zheng Hao
+https://desu-usergeneratedcontent.xyz/tg/image/1698/82/1698821502839.png
+>Qiang Wei
+https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698835552212.png
+>Xu
+https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698839005330.png
 
 ### Writefags
 

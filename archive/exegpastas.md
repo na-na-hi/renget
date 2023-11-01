@@ -134,7 +134,7 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
 *Metallic Frenzy* (Karrie) (WIP)|[(link)](https://rentry.org/metallicfrenzy)
 *SPEEDY HOG 7* (Hog)|[(link)](https://rentry.org/spho7hedge)
-*Satanos* (WIP)|[(link)](https://rentry.org/hiqzp)
+*Satanos* (WIP)|[(link 1)](https://rentry.org/hiqzp), [(link 2)](https://rentry.org/egts6)
 
 ##Restored/archived/translated by /exeg/
 Title|Link
@@ -163,3 +163,4 @@ Title|Link
 *Nostalgia Critic Shitpasta*|[(link)](https://arch.b4k.co/vg/thread/430926869/#431001036)
 *Chester Cheeta N64 Trollpasta*|[(link)](https://archive.4plebs.org/x/thread/35215590/#q35215846)
 *Nigker*|[(link)](https://arch.b4k.co/vg/thread/444971476/#445032027)
+Unnamed Mario Party DS pasta|[(link)](https://rentry.org/5hs3en)

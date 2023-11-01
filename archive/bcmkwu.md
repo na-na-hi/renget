@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Three damaged Bradley's abandoned near Avdeevka
+https://files.catbox.moe/2xfsi0.mp4
 >Hohol Medev—ACK moment 
 https://files.catbox.moe/crrgr2.mp4
 >massive bombing of hohol positions in Klescheevka 

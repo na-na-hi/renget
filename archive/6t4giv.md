@@ -24,7 +24,7 @@ As the morning winds of October 31st touched Kyoto, Japan. The kids of Shiketsu 
 "It'll look better when I get to school and take off these coats."
 Inigo whistled, "I'm cold too man, but sometimes you gotta suffer for beauty. We can't be scaring away all the ladies."
 
-"Uh Uh. We already have girlfriends."
+"Uhuh. We already have girlfriends."
 
 "Nah, I mean for the other guys! Shinkan, Sora, and Hiro are still single! On a night like tonight.. such loneliness can drive a man toward **murder.**"
 
