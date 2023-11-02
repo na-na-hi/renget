@@ -35,7 +35,7 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||[Eudora](https://files.catbox.moe/z0scpy.png)
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||[ΔΤΔ](https://files.catbox.moe/qyosyx.png), [Riley](https://files.catbox.moe/kz3sez.png), [Zoologist](https://files.catbox.moe/mtufsp.png), [Fay Spaniel](https://files.catbox.moe/vau8dn.png), [Sherry](https://files.catbox.moe/s0ofjc.png), [Karissa](https://files.catbox.moe/1rni07.png), [Volfa](https://files.catbox.moe/vui9jk.png), [Auroth](https://files.catbox.moe/avplum.png), [Sammi](https://files.catbox.moe/xy0i87.png), [Asche](https://files.catbox.moe/98mi1i.png), [Corvina](https://files.catbox.moe/6w7284.png), [Missy](https://files.catbox.moe/dv08jw.png), [Katia Managan](https://files.catbox.moe/749x20.png), [Shelby](https://files.catbox.moe/px9rvk.png)
+[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
