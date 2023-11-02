@@ -19,10 +19,10 @@ Future Release Dates:
 Current News Links:
 「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 Overview - All courses revealed
 https://www.youtube.com/watch?v=0-kASUEEXn8
+「!」WarioWare: Move It! Overview - 3rd Trailer
+https://www.youtube.com/watch?v=25n15yvg8SI
 「!」Paper Mario: The Thousand-Year Door Revealed
 https://www.youtube.com/watch?v=8Ume5pSIcKE
-「!」WarioWare: Move It! 2nd Trailer
-https://www.youtube.com/watch?v=cZEa9VXurTE
 「!」Luigi’s Mansion 2 HD 2nd Trailer
 https://www.youtube.com/watch?v=KIP2_LJdi0I
 「!」Princess Peach: Showtime! 2nd Trailer

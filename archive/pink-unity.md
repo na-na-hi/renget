@@ -52,8 +52,6 @@ Some examples include but are not limited to:
 *Rosuuri* (EN): https://www.twitch.tv/rosuuri
 *OppaiPantsu* (EN): https://www.twitch.tv/ohpaipansuu
 *Sasaki Saku* (JP): https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA
-*Matsuro Meru* (EN): https://www.youtube.com/c/Meruru
-*AmeDoll* (AUS): https://www.twitch.tv/amedoll
 *ReiyuGuiGui* (EN): https://www.twitch.tv/reiyuguigui
 *프린세스_므나* (KR): https://www.twitch.tv/muna_vconn
 *Spica! kirispica* (EN): https://www.youtube.com/@kirispica
@@ -75,7 +73,6 @@ Some examples include but are not limited to:
 *Ushio Ebi* (EN): https://www.youtube.com/@UshioEbiCh
 *Xion de Noir* (EN): https://www.youtube.com/@XiondeNoirCh
 *Eve さゔちゃんねる* (JP): https://www.youtube.com/@user-eg6us6os5r
-*Kagura Mai* (JP): https://www.youtube.com/@MaiMai_ch.0306
 *Abi Kadabura* (EN): https://www.youtube.com/@AbiKadabura
 *Sirahosi Awawa* (JP): https://www.youtube.com/@SirahosiAwawa
 *Kai Saikota* (EN): https://www.youtube.com/channel/UCC4hjJp_MttwfZcuWc0OpVQ
@@ -110,7 +107,6 @@ Some examples include but are not limited to:
 *Imonyan* (JP): https://www.youtube.com/@imonyan
 *Yuhi Riri* (JP): https://www.youtube.com/@YuhiRiri
 *Grape Chann* (EN): https://www.twitch.tv/grapechann
-*Ai Umeka* (EN): https://www.twitch.tv/aiyumeka
 *Raian Valerius* (EN): https://www.youtube.com/@Raian_DAYBREAK
 *Micha* (JP): https://www.youtube.com/@miicha2525
 *Harukaza Koume* (JP): https://www.youtube.com/@Harukaze_Koume
@@ -138,6 +134,18 @@ Some examples include but are not limited to:
 *Salmon Lordette* (EN): https://www.youtube.com/@SalmonLordette
 *Rei Tadano* (JP): https://www.youtube.com/@-Rei-Tadano-Vtuber
 *Itigori Ena* (JP): https://www.youtube.com/@-itigoriena-2265
+*Chiyomi Chiyoura* (JP): https://www.youtube.com/@chiyomi0812
+*Techycutie* (EN): https://www.twitch.tv/techycutie
+*Pinky Purin* (EN): https://www.twitch.tv/pinky_purin
+*Kagura Ura* (JP): https://www.youtube.com/@Kagura_uraY
+*Ui Ren* (JP): https://www.youtube.com/@ui__ren
+*Yuki Momo* (JP): https://www.youtube.com/@Yukimomo
+*Maisaka Nearu* (JP): https://www.youtube.com/@maisakanearu
+*Mochizuki Naco* (JP): https://www.youtube.com/@naco_mochizuki
+*Lovechan* (JP): https://www.youtube.com/@lovechan0607
+*Deals Casino* (JP): https://www.youtube.com/@dealscasino
+*Toma* (EN): https://www.twitch.tv/toma
+*Feria S. Roserilette* (JP): https://www.youtube.com/@user-we3cd4ii8q
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -148,6 +156,7 @@ Some examples include but are not limited to:
 *Miki Astrophel* (EN): https://www.youtube.com/@miilkycomets
 *Aure Miya* (ID): https://www.youtube.com/@YoRIAureMiyach
 *Yukkin* (JP): https://www.youtube.com/@ykn0911v
+*Hikari Hira* (JP): https://www.youtube.com/@Hikari_Hira
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg

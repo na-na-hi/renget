@@ -448,5 +448,7 @@ https://files.catbox.moe/48sjkx.mp4
 https://files.catbox.moe/tuob4i.mp4
 >Highway bombing (ADDED NOV 1st)
 https://files.catbox.moe/2lkyfx.mp4
->"Fatah, Hamas PIJ, PFLP & DFLP are united against Israel"
+>"Fatah, Hamas PIJ, PFLP & DFLP are united against Israel"(ADDED NOV 1st)
 https://files.catbox.moe/s419qq.mp4
+>HOUTHI MUSIC VIDEO DECLARING WAR!(ADDED NOV 1st)
+https://files.catbox.moe/06ppv7.mp4

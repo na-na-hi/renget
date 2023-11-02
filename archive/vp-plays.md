@@ -464,3 +464,4 @@ https://arch.b4k.co/vp/thread/54781621/ 5 spooky lack of new content
 https://arch.b4k.co/vp/thread/54783095/ 6 i feel like the entire prison chapter was plagiarized from somewhere else
 https://arch.b4k.co/vp/thread/54784868/ 7 not handing out a golden ipod award because that suicide was just retarded
 https://arch.b4k.co/vp/thread/54788405/ 8 now entering terajuma, hopefully this place changed in good ways
+https://arch.b4k.co/vp/thread/54789991/ 9

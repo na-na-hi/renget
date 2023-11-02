@@ -889,7 +889,7 @@ Cons:
 
 ### ->Swimsuit Yukari<-
 **TL;DR - Physical damage dealer/magic tank focused on buffs and reducing magic damage. As a perma, seems decent but not must have for long-term.**
-S.Yukari's niche appears to be a tank that helps your team survive magic damage by eating it herself. Her TP and HP restoration is only to her, so she needs to be the one eating up damage. An example of where she might shine, is against Madame Prism - Where she can eat up UBs, buff her M.Def and dish out a healthy amount of UBs due to soaking up damage. Most likely in competition with X.Jun in terms of a tank spot, who has been showing up nearly every CB since her December 2022 release. With S.Yukari not having a debuff, probably won't see her outside of niche usage.
+S.Yukari's niche appears to be a tank that helps your team survive magic damage by eating it herself. Her TP and HP restoration is only to her, so she needs to be the one eating up damage. An example of where she might shine, is against Madame Electra - Where she can eat up UBs, buff her M.Def and dish out a healthy amount of UBs due to soaking up damage. Most likely in competition with X.Jun in terms of a tank spot, who has been showing up nearly every CB since her December 2022 release. With S.Yukari not having a debuff, probably won't see her outside of niche usage.
 
 
 -> ![S.Yukari](https://redive.estertion.win/card/full/126831.webp) <-
@@ -1131,3 +1131,15 @@ Cons:
 - Does not offer a lot of damage
 - Does not offer any buffs to teammates (X.Jun offers multiple buffs to teammates, including TP)
 - All buffs are only to self
+
+### ->Fallen Ria<-
+**TL;DR: TBD**
+ 
+
+-> ![Fallen Ria](https://redive.estertion.win/card/full/126031.webp) <-
+
+Pros:
+- TBD
+	
+Cons:
+- TBD

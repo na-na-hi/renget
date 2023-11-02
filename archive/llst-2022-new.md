@@ -591,7 +591,8 @@ Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmST
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/) 
 [Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) ![](https://files.catbox.moe/c95yx7.gif)
-[Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip)
+[Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) ![](https://files.catbox.moe/c95yx7.gif)
+[(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
 
  
 **Videos/Clips/Namas**

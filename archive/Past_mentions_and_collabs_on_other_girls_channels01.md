@@ -105,6 +105,8 @@
 |25/08/2023|[Timestamp #1](https://youtu.be/LnAf5icLn-c?t=2218) [Timestamp #2](https://youtu.be/LnAf5icLn-c?t=2340)|**Mentions** - Talks about Nerissa's Magia cover and proceeds to talk about who in Advent would be who in the Madoka universe.|
 |04/08/2023|[Entire first segment - Start](https://youtu.be/u3Bprxyl1HQ?t=5380) [S1 - Starts DM'ing about Pillow Princess](https://youtu.be/u3Bprxyl1HQ?t=5470) [S1 - Answer](https://youtu.be/u3Bprxyl1HQ?t=5530) [S1 - 2nd batch of DMs](https://youtu.be/u3Bprxyl1HQ?t=5582) [2nd mention](https://youtu.be/u3Bprxyl1HQ?t=6341)|**DM Interaction & Mention** - Bijou calls a boss 'Pillow Princess' (which she didn't knew that was a yabe term) so she decided to DM Nerissa (after that her chat suggested to her) about the term and got her answer. A second mention happened about Bijou's mom who's also watching Nerissa|
 |12/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=uxTyLDflggM&t=5425s) [Timestamp #2](https://www.youtube.com/watch?v=uxTyLDflggM&t=5585s)|**Mentions** - During her fifth Armored Core 6 stream, Bijou talks about Nerissa whatever she would like to play AC6 and her particularity about sitting on chairs naked.|
+|2023-10-14|[Timestamp](https://www.youtube.com/watch?v=SIGSy28HaHY&t=8522)|**Impromptu collab** - Nerissa joins Bijou and Kaela for a single round of Phasmophobia before her stream starts.|
+
 
 ###### 🐾 FUWAMOCO
 |Date|Link|Nature & Notes|
@@ -165,6 +167,12 @@
 |---|---|---|
 |25/09/2023|[Link](https://www.twitch.tv/videos/1934748619?t=01h58m48s) | **Collab** - Nerissa's first collab outside of Hololive. She has picked out a dish that OniGiri is to prepare. OniGiri is given only the ingredient list beforehand and does not recognize the dish solely from it. They have a ~30m chat before the start of the cooking, and then continue chatting all throughout the collab. The dish in the end is revealed to be one of Nerissa's childhood favorites, **Tater Tot Hotdish**.|
 
+###### 🌂🕸 Meloco Kyoran 
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-10-28|[Link](https://www.youtube.com/watch?v=Br0VLrl-IWM&t=9950s) | **Birthday totsu call-in** - Nerissa calls in to congratulate Meloco Kyoran on her birthday.|
+
+
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->
 
 ---
@@ -202,6 +210,12 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |2023-10-05|[Source timestamp](https://www.youtube.com/watch?v=QXC2qPDxzL0&t=20219) \| [Translated clip](https://www.youtube.com/watch?v=jmyQ81qCYWA)| **Streamer-chat interactions** - Nerissa appears in Korone's chat and effortlessly procures a possible collab with her.|
+
+###### 🍃 Iroha
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-10-17|[Source timestamp](https://youtu.be/801mlTHe3eQ?t=7208) \| [Translated clip](https://www.youtube.com/watch?v=4vL9zV_d7Y8&t=89s)| **Mention** - Iroha talks about Nerissa DM'ing her while talking discussing the Minecraft Sports Festival White Team that they both share.|
+
 
 ###### Main Channel
 |Date|Link|Nature & Notes|

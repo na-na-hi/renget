@@ -788,13 +788,14 @@ New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kasumi <- (JP Release Date: Year 6, October)
-TBD
-- UB+: TBD
-- CB:  TBD
-- PvE: TBD
-- TBD
+Kasumi was great in arena before and just gets better with this 6*. 
+- UB+: Increased range on field that shreds and lowers TP Boost, alongside 20% more Action speed reduction. New effects include changing the TP Boost number to 0 and damaging units after 5s.
+- CB:  No real usage scenarios for the moment, mostly because all her other skills are useless against bosses. Unless you are going to need a massive def down, probably will not be seen.
+- Arena: Here's where Kasumi shines. Her CC and def down have always been incredibly useful, but the the buffs and TP boost reduction to 0 mean she's got more tools in order to to help in elongated fights. Her Pos 1 slot snare still loses out to Inori/Mifuyu/S.Misogi in terms of 1st action snare, but the increased tankiness helps a lot in surviving fights to continue dishing out CC and debuffs.
+- PvE: Decent option for CC on your magic teams, but not really necessary. 
+- An Arena terror, but she always was. It's just that now in the lead slot and others, she can continue to pump out CC and actually deal damage.
 
 Bond story priority: High (Relevant units: MS.Kasumi)
-Max level Unit priority: TBD
-New player Unit priority: TBD
+Max level Unit priority:  High
+New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)

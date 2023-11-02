@@ -26,6 +26,9 @@ UK: https://www.amazon.co.uk/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greate
 **Hololive EN -Promise- (CouncilRyS) acrylic stands**
 https://shop.hololivepro.com/products/hololiveen_3dacrylicstand
 
+**Hololive EN New Year Kimono acrylic stands**
+https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
+
 >**HoloSummer**
 **Merch**
 Keychains and assorted goods

@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>2 leopards a stryker and 2 m113s abandoned
+https://files.catbox.moe/jlokug.mp4
+>Pacific marines attack hohol lines towards hohol lines with ATGMs
+https://files.catbox.moe/j33obd.mp4
+>Lancets destroy 2 Polish Krab SPGs
+https://files.catbox.moe/uko681.mp4
+>Lancets send 2 hohol tanks to the scrap heap
+https://files.catbox.moe/ewxjet.mp4
 >Three damaged Bradley's abandoned near Avdeevka
 https://files.catbox.moe/2xfsi0.mp4
 >Hohol Medev—ACK moment 

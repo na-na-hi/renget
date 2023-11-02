@@ -7,7 +7,8 @@
 -----------------------------------------------------------------------------------------------------------------------
 Changelog:
 2 Nov - John Cena. Last update for a while. Optimised my instructions, cutting down on token length by around ~220. 
-Did a little revamp of my prefill with the help of GPT4. ❤️
+Did a little revamp of my prefill with the help of GPT4. Responses should no longer resemble the Great Wall Of Text, 
+and does a good enough job of not advancing the scene without {{user}} interaction.
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
