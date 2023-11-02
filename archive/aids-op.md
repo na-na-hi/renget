@@ -3,10 +3,10 @@ https://imgur.com/a/XLyHOh3
 
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/ERINQqc.jpg)
-Knocked Out Edition
+![suggested OP image](https://i.imgur.com/0FEJbcp.png)
+Mr. November Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>448360913
+Last thread: >>452371878
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,14 +36,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Today is still Impregnation Friday; birth your pregnancy prompts at the anchorpost! Last: >>448374693
+Halloween Friday is over; enjoy the Spooky prompts! Last: >>451730056
  
 ▶News
-(9/25) Bezos bought Claude https://twitter.com/AnthropicAI/status/1706202966238318670
-\>(9/12) Neat https://twitter.com/ThomasSimonini/status/1701620197923107305
-\>(8/24) Nick talks about stuff https://www.youtube.com/watch?v=JVCwONLpyTA
-(8/24) Meta fine-tunes Llama 2 for programming https://ai.meta.com/blog/code-llama-large-language-model-coding/
-(8/19) Anlatan teases AetherRoom https://www.youtube.com/watch?v=rBUP1cXj2fY
+\>(11/01) NAI needs more novelshills https://anlatan.ai/jobs
+\>(10/31) BIDEN... BLAST! https://ai.gov/actions/
+\>(10/25) Vistory, a challenger to AI Roguelite, to appear? https://linktr.ee/\_pexel
+(10/20) Anlatan updates Novel Diffusion Anime to V2 https://novelai.net/updates
+(10/01) DALL-E 3 now """available""" through Bing Creator AI https://www.bing.com/create
 
 
 #Perma-Template

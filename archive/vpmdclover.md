@@ -30,13 +30,14 @@ N/A | M | Porygon | N/A | Clover Guild Member | [???](https://rentry.org/vpmdclo
 Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#stumpy)
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
 Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
-Topa | M | Sableye | N/A | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topa)
+Topa | M | Sableye | Hydreigon (Hendrix, M, Native) | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topahendrix)
 Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Maxi | M | Trubbish | Joltik (Maddi, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
+Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#Taslean)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -198,9 +199,19 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 105 | [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5) | | | | |
 106 | [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental) | | | | |
 107 | [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98) | | | | |
-108 | | | | | |
-109 | | | | | |
-110 | | | | | |
+108 | [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem) | | | | |
+109 | [The Great Bulk Interlude 3](https://rentry.org/GreatBulkInter3) | | | | |
+110 | [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87) | | | | |
+111 | [Dew Point (ft. Dewott)](https://rentry.org/iqr9y) | | | | |
+112 | [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo) | | | | |
+113 | [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9) | | | | | |
+114 | | | | | |
+115 | | | | | |
+116 | | | | | |
+117 | | | | | |
+118 | | | | | |
+119 | | | | | |
+120 | | | | | |
 
 [**Clover Guild (ch1) Q&A**](https://rentry.org/ChrPrompt)
 [**Clover Guild (ch1.5) Q&A**](https://rentry.org/ChrPromptThreeHalf)
@@ -248,7 +259,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
-	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem) *Not on Table*
+	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4)
@@ -283,7 +294,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Chespin and the Chillers pt.1](https://rentry.org/ytbot)
 	* [Chespin and the Chillers pt.2](https://rentry.org/6ht5i)
 	* [Chespin's Week](https://rentry.org/chespinsweek)
-	* [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9) *Not on Table*
+	* [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu)
@@ -352,7 +363,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Garbage Bag and the Monster in the Basement (ft. Maxi)](https://rentry.org/d9wsb)
 	* [Baggy & The Beast: A Trash Bag Side Story](https://rentry.org/k2off)
 	* [The Trash Bag and The Food Thief](https://rentry.org/2y9ab)
-	* [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87) *Not on Table*
+	* [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * Nick the Vulpix
 	* [Swimming (ft. Nick)](https://rentry.org/x5g6fz)
 * Nida the Nidorina
@@ -418,10 +429,10 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
-	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y) *Not on Table*
+	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
-	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo) *Not on Table*
+	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
 * Collab Writing
@@ -438,6 +449,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
     * [Fallen World Mystery Dungeon Part 1](https://rentry.org/FallenPT1)
     * [Adventures every night wear the soul away](https://rentry.org/mzhq5)
     * [Nothing can be said to be certain, except...](https://rentry.org/typee)
+    * [Fallen World Mystery Dungeon Part 2](https://rentry.org/FallenPT2)
 
 !!! warning 
 	Ignore the symbols before the story names for now. They're part of a timelining project - more info later. (Make sure to add them to new entries, though.)
@@ -607,7 +619,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 * {||} [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 * {||} [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
-* {||} [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem) *Not on Table*
+* {||} [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem)
 * {||} [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 * {||} [Costume Crisis: A Trash Bag Halloween Story](https://rentry.org/rbo87)
 * {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
@@ -624,4 +636,4 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Hydreigon, Scorbunny, Popplio(?, subject to change), Zangoose, Dragonair, and Snover.
+//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, Popplio(?, subject to change), Zangoose, and Dragonair

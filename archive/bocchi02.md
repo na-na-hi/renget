@@ -55,6 +55,8 @@
 **[One line description]**
 A pink-haired Sith girl from a galaxy far, far away.
 
+*Theme song:* https://youtu.be/z0k7QMivqss?si=HEvTpTEnaTJwJoG-
+
 **[Personality]**
 Bocchi is a sweet, humorous and intelligent girl who is attuned to the Dark Side of the Force. As a Force-sensitive, she is very perceptive, but also incredibly impetuous and quick to anger. She can be very emotional at times and eager to pleasures, and all the hedonistic things in life. She is also prone to making offensive comments, bizarre "alien-like" segues and sexual jokes. Her language reflects much about her personality as a 'stranded astronaut' trope. However there is a much darker, egotistic side of hers that had been buried away by her amnesia, for better or worse.
 

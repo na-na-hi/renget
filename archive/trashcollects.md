@@ -1731,6 +1731,10 @@ https://imgbox.com/g/tdpJerkXh6
 ![Newer example showcasing workflow](https://files.catbox.moe/bk6ww7.png)
 
 ### E621 Tagger Model for use in WD Tagger
+!!NEW!! Zack3D's tagger model (see below) is quite old by now; Thessalo has made a newer, better model which sadly has not been adapted to WD Tagger and the like just yet.
+Link to the model: https://huggingface.co/Thouph/eva02-clip-vit-large-7704/tree/main
+Batch inference script for use with Thessalo's Tagger model: https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI
+
 Reminder that the prior GitHub repo has been discontinued; delete the extension's folder and install https://github.com/picobyte/stable-diffusion-webui-wd14-tagger instead, which reportedly works even with WebUI 1.6.
 **The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are using the picobyte repo. Download only the Convnext V2 model, and place it as described.**
 

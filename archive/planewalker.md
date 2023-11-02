@@ -312,6 +312,11 @@ Colby | Info
 ![](https://files.catbox.moe/8iqiq0.png)   | Colby is a smug rat boy that comes from money, as his parents own a very popular cheesery. Though he's set to take over the family business soon, he'd rather be out partying and flaunting his wealth. Comes with three greetings: striking up a business partnership with him, encountering him on cashier duty (he's not happy about it), and him coming over to your place to hang out.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/colby-b9f9f213),  [Catbox](https://files.catbox.moe/0o9658.png)
 
+Avery | Info
+:----:  | :----: 
+![](https://files.catbox.moe/jtzlgt.png)   | An enjo kosai/compensated dating bot. Avery is a man who's found himself with a lot of money and not much to spend it on. He's currently warding off a potential mid-life crisis by drinking, exploring the city's night life, and paying younger people like you to give him the girlfriend/boyfriend experience. Comes with two greetings for day and nighttime dates.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/avery-e2239c87),  [Catbox](https://files.catbox.moe/hh25l1.png), [Alternate Gen](https://files.catbox.moe/jm0r9p.jpg)
+
 
 
 Shameful Codespawn | Info

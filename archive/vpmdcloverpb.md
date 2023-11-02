@@ -345,7 +345,7 @@ Biography generated!
 >He thinks he is weak, so avoids fights and confrontation as much as possible.
 >It's common to see him teaching songs to Nida, which he thinks is a good bonding exercise.
 
-###Topa
+###Topa/Hendrix
 >Age 22
 >Male
 >Born 3/24
@@ -420,6 +420,9 @@ Biography generated!
 
 ###Fern/Ciel
 {Pending}
+
+###Taslean
+>This is Taslean, he was possessed by a ghost Pokémon during a mission. Some shit I haven't thought of yet happened and now the ghost can't leave, so both consciousnesses share the same body.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
