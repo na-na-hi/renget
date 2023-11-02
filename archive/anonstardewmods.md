@@ -5,11 +5,11 @@
 
 !!! info -> [Click here for a compact and organized version of the list!](https://rentry.org/anonstardewmodstldr) <-
 
-Last added mod/update 230719
+Last added mod/update 231101
 Updated Localization Files 230111
 
 **Newest additions:**
-Seasonal r63 bachelors, Cute and Funny Scarecrows (Alternative Textures), Vtuber Shondo, NPC Adventures - Vincent, Anon's dialogue edits, Adopt Kuruminha, Beebz mod, Loli Haley megapack, Sasuke, Girl Krobus, Seasonal Anime Portraits, MilkTheVillagers, Japanese furry portraits, Loli Maru megapack, Loli Vincent, Ashley NPC Adventures, The Woman in a Painting, Incomplete /jp/,
+MilkTheVillagers - with Morgan, Seasonal r63 bachelors, Cute and Funny Scarecrows (Alternative Textures), Vtuber Shondo, NPC Adventures - Vincent, Anon's dialogue edits, Adopt Kuruminha, Beebz mod, Loli Haley megapack, Sasuke, Girl Krobus, Seasonal Anime Portraits, MilkTheVillagers, Japanese furry portraits, Loli Maru megapack, Loli Vincent, Ashley NPC Adventures, The Woman in a Painting, Incomplete /jp/,
 **Recent updates:**
 Morgan marriage mod (230719), Trinnie marriage mod (230429), Cat Ashley (230321), Mouse Jas marriage portraits (230321), Trinnie marriage mod (230223), Improved Trinnie (230429), Anthro Morgan (230209), Ashley and Spooky mod, Shota Harvey, Leo to Kuruminha, Loli Leah megapack, Anon's Functional Modpack,
 **Recent reuploads**
@@ -102,10 +102,14 @@ https://files.catbox.moe/3v935c.zip
 - Allows for the main Morgan mod to add special dialogue and stuff in the future. By itself this mod doesn't really do much.
 https://files.catbox.moe/38u7pd.zip
 
->MilkTheVillagers **(NEW)**
+>MilkTheVillagers
 ![Image description](https://files.catbox.moe/5621vm.png)
 "I modded MilkTheVillagers, it now has no restrictions and Jas has custom dialogue. I suck at writing so, prepare to suffer."
 https://files.catbox.moe/eyr6ri.zip
+>MilkTheVillagers - with Morgan **(NEW)**
+https://files.catbox.moe/qpm3s5.zip
+
+
 >Loli Maru megapack **(NEW)**
 ![loli maru](https://files.catbox.moe/dq7xb3.png)
 Check the readme if you get errors. Use GenericModConfig or edit the config file to change portraits.

@@ -83,12 +83,60 @@ https://www.youtube.com/watch?v=9jBgGY2Ww9Q
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  NITTER/X/TWITTER RECENTS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Australia
+https://nitter.net/jacksonhinklle/status/1719424043168809237#m
+
+>Rome
+https://nitter.d420.de/v2Dark/status/1718276431942209821#m
+
+>ISRAELI Ambassador KICKED OUT of the United Nations General Assembly!
+https://nitter.net/jacksonhinklle/status/1719813060271943727#m
+
+>Representatives of all countries left the UN auditorium when the speaker from Israel came to the podium
+https://nitter.net/Sprinter99800/status/1717662976700743736#m
+
+>After Celtic FC told fans not to bring out any flags, they brought out Palestine flags anyway
+https://nitter.net/CensoredMen/status/1717272060328628445#m
+
+>MASSIVE crowd breaks the law in Paris
+https://nitter.net/DD_Geopolitics/status/1716169926527103024#m
+
+>Thousands of demonstrators in Tel Aviv are demanding Netanyahu's resignation.
+https://nitter.net/Sprinter99800/status/1715835662975316126#m
+
+>Macron banned pro-Palestinian demonstrations in France.But this is Lyon right now, gathering for Palestine en masse
+https://nitter.net/sahouraxo/status/1715820610486411345#m
+
+>Thousands of people pro-Palestinians rally in New York
+https://nitter.net/Sprinter99800/status/1715990321018876015#m
+
+>Los Angeles
+https://nitter.net/sahouraxo/status/1715872983988748579#m
+
+>Washington DC
+https://nitter.net/callmekartikey/status/1716016221362307272#m
+
+>Barcelona
+https://nitter.net/OnlinePalEng/status/1715094675546112324#m
+
+>More then 100000 people hit the streets of London in support of palestine
+https://nitter.net/warispathan/status/1715804145092010027#m
+
+>Paris
+https://nitter.net/DD_Geopolitics/status/1715061673239933332#m
+
+>When the US ambassador addressed the UN Human Rights Council, many attendees turned their backs in protest.
+https://nitter.net/zhang_heqing/status/1714890452661424626#m
 >Pro-Palestinian protesters have BLOCKED a train station in London with a sit-in.
 https://nitter.net/jacksonhinklle/status/1719473090856431698#m
 
 
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OLD
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -242,9 +290,6 @@ https://nitter.net/OSINTNic/status/1713306742262501655#m
 >Rabat, Morocco
 https://nitter.net/smith51_a/status/1713546675258610106#m
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-OLD
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Baghdad, Iraq
 https://nitter.net/sentdefender/status/1714426637452800366
 >Istanbul, Turkey

@@ -26,6 +26,7 @@ Page 1
 ***
 ```
 Rentry: https://rentry.org/KTHSWEEP (edit code: ihatetribulationlightning)
+Card Template: https://files.catbox.moe/bgwmn0.xcf
 Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 
 >DISCIPLES
@@ -666,6 +667,7 @@ Build List:
 Inatsu Hikuhei(Hokage), "The Bull of Konoha" >>90349663 
 Akuryoga Mitiru, "The Old Demon" >>90403475
 Yusuke Hiramatsu, "The Third Kazekage" >>90495047
+Jōmyoku Kinjōshi "Gilded Mogul" >>90619619
 
 >A-Rank:
 Taiki, "The Trunk Thrower" >>90337572 
@@ -685,6 +687,7 @@ Nara Suzura(Genin), "Cowardly Dragon Host" >>90338118
 Oscar, "The Outlander" >>90345405 
 Kambara Soue, "Frosty Kunoichi" >>90349101 
 Tengu Yumiko, "Corvine Archer" >>90352365 
+Aizawa Sanak, "The Thousand Armaments Trickster" >>90650388
 >D-Rank:
 Takatsui Inukasai, "The Infernal Painter" >>90338614 
 Eisei Hokan, "Timid Grinner" >>90339452 

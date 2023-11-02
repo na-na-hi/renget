@@ -44,7 +44,7 @@ Supporting/Temporary (Character Name/Chapters) | The size content is just limite
 Cover    | Name | Description | Tags | Relevance | Links
 --- | --- | --- | --- | --- | ---
 ![](https://thumbs2.imgbox.com/87/07/WKTYgOK1_t.jpg) | 1/8 Kanojo | Asuha wakes up to find herself naked in her childhood friend's room. On top of that, she's the size of a doll! | NSFW, MF&f, shrinking, complete | Topic | [Baka-Updates](https://www.mangaupdates.com/series.html?id=71793)
-![](https://thumbs2.imgbox.com/20/85/bZDR1Mgq_t.jpg) | 3 Inch | Yamato, a Japanese student, was celebrating New Year's Eve with his friends in rural California when he suddenly lose consciousness. | SFW*, F&mf, shrinking | Topic (fm), Supporting (F) |
+![](https://thumbs2.imgbox.com/20/85/bZDR1Mgq_t.jpg) | 3 Inch | Yamato, a Japanese student, was celebrating New Year's Eve with his friends in rural California when he suddenly lose consciousness. | SFW*, FM&mf, shrinking | Topic |
 ![](https://thumbs2.imgbox.com/28/73/eOnshB4o_t.jpg) | 7 Senchi! | One day, while in search for more food, our heroine stumbles upon a jar of what looked like umeboshi; little did she know that it would bring her more than just a full stomach. The mysterious snack somehow makes her shrink and she can only grow back when she eats something (which is a bit of a chore if you're THAT tiny). And if that's not troublesome enough, she's also dealing with her crush who seems to like her best friend!? | SFW, MF&f, shrinking, sizeshifting | Topic |
 ![](https://thumbs2.imgbox.com/c3/d8/2VXZ1XzC_t.jpg) | 70m Shoujo | The anti-monster final defense force that protects the lives of the people from the "giant monster" that suddenly appeared in Japan was... a surprising entity. | SFW, F, growth, complete, short | Topic | [Website](https://share.ganma.jp/magazines/shojo70m)
 ![](https://thumbs2.imgbox.com/28/0e/EFtkfZFe_t.jpg) | Chou Dokyuu Shoujo 4946  | With his phrase "don't you dare make girls cry," Makoto Tobita has failed his 30th confession, but that won't stop him. Promising to do anything for the girl who smiles at him, no matter what it is, what will happen now when the alien fighting - giant girl, Mana Eimiya, is in love with him? | SFW, F&mf, inherent, growth, complete | Topic | [Baka-Updates](https://www.mangaupdates.com/series/4vkyqya/chou-dokyuu-shoujo-4946)
@@ -221,6 +221,8 @@ Cover    | Name | Description | Tags | Relevance | Links
  * Yuusha ga Shinda! | c97-99 (animal), Omake: Soulrite Training, Famira chapters, Supreme God Kyle 
  * 巨女 Anthology : Super Ultra Mega Giga Girl
  * Sekai 8-banme no Fushigi | c03, c14, c19-
+ * Kurunaa!!
+ * Isekai Pornstar ~Shiru Danyuu ga Isekai Tensei Shite Ero Chishiki Furu Katsuyo de Musou Danyuu ni Naru Hanashi ~ | c10-12, nswf
 
 #### Minor
  * Babylon Made wa Nan-kounen? | c01
@@ -228,6 +230,7 @@ Cover    | Name | Description | Tags | Relevance | Links
  * Henshin no News | c09
  * Shiboritoranaide, Onna Shounin-san!! | c11.2-12.2
  * Isyuzoku Joshi ni ○○ Suru Hanashi | c14, c29, c51, c51p6
+ * Maou-jou de Oyasumi | c59
 
 #### Lost
  * ビックリビッグ | [1](https://desuarchive.org/d/thread/10405800#p10410417)
@@ -321,6 +324,8 @@ Cover    | Name | Description | Tags | Relevance | Links
  * Sugar Apple Fairy Tale
  * Little Nemo: Adventures in Slumberland
  * SSSS.Gridman | Anosillus the 2nd
+ * Idol Land Pripara | e06
+ * Digimon Ghost Game | e56, Kuzuhamon
 
 #### Minor
  * Kaguya-sama: Love Is War (s3e05) | [YouTube Clip](https://www.youtube.com/watch?v=r42WdZgwfag)

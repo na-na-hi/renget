@@ -3,7 +3,7 @@
 [TOC2]
 ##Foreword
 I've decided that the previous thread archive was messy and kind of a pain to scroll through, even with thread numbers, so I've decided to make something a bit more organized. I've decided to move this to rentry.org for several reasons;
-1: no filter means I don't have to fugging bypass it whenever I want to make a vulgar subtitle (and so I can tell Nigger to go fuck himself for being a gay fucking leaf who keeps raiding my threads)
+1: no filter means I don't have to fugging bypass it whenever I want to make a vulgar subtitle (and so I can tell Nigger to go fuck himself for being a gay fucking leaf who kept raiding my threads)
 2: fancy formatting
 3: I'll be able to provide links to skip to a certain LP instead of having to scroll through older stuff
 goals for this were:
@@ -462,3 +462,5 @@ https://arch.b4k.co/vp/thread/54776093/ 3 chapter 2: now with 100% more cutscene
 https://arch.b4k.co/vp/thread/54777770/ 4 remind me to never try hosting a tournament with less than 8 people ever again
 https://arch.b4k.co/vp/thread/54781621/ 5 spooky lack of new content
 https://arch.b4k.co/vp/thread/54783095/ 6 i feel like the entire prison chapter was plagiarized from somewhere else
+https://arch.b4k.co/vp/thread/54784868/ 7 not handing out a golden ipod award because that suicide was just retarded
+https://arch.b4k.co/vp/thread/54788405/ 8 now entering terajuma, hopefully this place changed in good ways

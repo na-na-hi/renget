@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Hal](https://files.catbox.moe/zwt85g.png), [Atsui](https://files.catbox.moe/wnotc9.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Phantom](https://files.catbox.moe/13c4uo.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
@@ -38,7 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||

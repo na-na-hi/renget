@@ -9,7 +9,7 @@
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023)
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023) - [November](https://rentry.org/Collabs_on_Nerissa_s_channels01/#november-2023)
 
 !!!note -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on other holomems channels & mentions in 2023 (sorted by year and by branch)](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	[TOC2]
@@ -39,6 +39,7 @@
 |11/09/2023|[Timestamp #1](https://www.youtube.com/watch?v=mTwRuoJf1EM&t=870s) [Timestamp #2](https://youtu.be/mTwRuoJf1EM?t=10050s)| **Mentions** - During that Hotline Miami 2 stream, Kiara ade 2 small mentions with Nerissa DMing her about her silent stream start and was talking about the possibility of doing musical for future events with Myth by concluding that Neriisa loves musicals. |
 |2023-10-04|[Timestamp](https://www.youtube.com/watch?v=ik_wZAooaGg&t=1655s)| **Mentions** - Kiara mentioned Nerissa during an off collab ASMR stream with Noel. She tells Noel that she was surprised and happy that someone else had an unusual tongue like she did.|
 |2023-10-21|[Link](https://www.youtube.com/watch?v=D_uuZW2nknY)| **Collab** - Nerissa collabed with Kiara for a stream reviewing and rating cars that viewers submitted via Twitter.|
+|2023-11-01|[Initial appearance](https://www.youtube.com/watch?v=rl2qEUQK6GQ&t=5347) ![](https://files.catbox.moe/4jc013.png) [Start of active participation](https://www.youtube.com/watch?v=rl2qEUQK6GQ&t=5817) | **Impromptu collab** - Nerissa joined the Minecraft White Team practice stream VC a bit after waking up, though she didn't talk much beyond greeting the Senpai present. ![](https://files.catbox.moe/0kt3mp.png) After a while, once the JP Senpai departed and she has woken up properly, Nerissa began to actively chat with the remaining English-speaking members (Kiara, Mumei and Kaela). After Mumei and Kaela left, she remained to chat with Kiara even more one-on-one.|
 
 ###### 💀 Calliope
 |Date|Link|Nature & Notes|
@@ -137,6 +138,10 @@
 |2023-09-18|[Nerissa's POV](https://youtu.be/9xklp3YYBg8)| **Collab** - Eleventh Advent Fullgen Collab on Gartic Phone with [Shiori](https://www.youtube.com/watch?v=y0jEyXMWtrw), [Bijou](https://www.youtube.com/watch?v=JRMXv6z5TkQ) and [FUWAMOCO](https://www.youtube.com/watch?v=srTTcF_qgFw).|
 |2023-09-29|[Nerissa's POV](https://youtu.be/rb4YD__X4k8)| **Collab** - Twelfth Advent Fullgen Collab on Minecraft with [Shiori](https://www.youtube.com/watch?v=l1ObfIST4EI), [Bijou](https://www.youtube.com/watch?v=T1xC1b1C5iA) and [FUWAMOCO](https://www.youtube.com/watch?v=6dIbvdQO-d0).|
 |2023-10-06|[Nerissa's POV](https://www.youtube.com/watch?v=GQIPoEZZrHQ)| **Collab** - Thirteenth HoloAdvent Group collab and 2nd Left 4 Dead 2 (with [Shiori](https://www.youtube.com/watch?v=gnCOWB6E4iI), Bijou and [FUWAMOCO](https://www.youtube.com/watch?v=0GnRDoCXr3E))|
+|2023-10-15|[Nerissa's POV](https://www.youtube.com/watch?v=sSupOKbXDoY)| **Collab** - Fourteenth HoloAdvent Group collab on FOREWARNED (with [Shiori](https://www.youtube.com/watch?v=clUGpl3XsF4), [Bijou](https://www.youtube.com/watch?v=jzODJXLx2H4) and [FUWAMOCO](https://www.youtube.com/watch?v=xGKQea7zrDI))|
+|2023-10-22|[Nerissa's POV](https://www.youtube.com/watch?v=jC9OveHvv3M)| **Collab** - Fifteenth HoloAdvent Group collab on Paranormal Cleanup (with [Shiori](https://www.youtube.com/watch?v=V_FpdUEeyIg), [Bijou](https://www.youtube.com/watch?v=Fqj1rscEqPU) and [FUWAMOCO](https://www.youtube.com/watch?v=3TtGi3CfQSY))|
+|2023-10-27|[Nerissa's POV](https://www.youtube.com/watch?v=cpNeOTwUMWw)| **Collab** - Sixteenth HoloAdvent Group collab on Devour (with [Shiori](https://www.youtube.com/watch?v=7yllDxR_n80), [Bijou](https://www.youtube.com/watch?v=jT9-9w-I4ho) and [FUWAMOCO](https://www.youtube.com/watch?v=XE_wsbV_3NU))|
+|2023-10-31|[Link](https://www.youtube.com/watch?v=M0X6_HejkjE)| **Collab** - Seventeenth HoloAdvent Group collab as a Halloween Costume Party|
 
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) Hololive EN Collabs
 |Date|Link|Nature & Notes|
@@ -247,6 +252,7 @@
 ### ![Image description](https://files.catbox.moe/f9inkg.png) Megacollabs
 |Date|Link|Nature & Notes|
 |---|---|---|
-|2023-11-04| TBD |**Hololive Sports Fetstival**|
+|2023-10-30| [Link](https://www.youtube.com/watch?v=9X7NRu7JXjg) |**Family Feud** - Megacollab on Kiara's channel with Kiara as the host and player roster consisting of Nerissa, FWMC, Kronii, Gura, Mumei, Ame and Bijou.|
+|2023-11-04| TBD |**Hololive Sports Festival**|
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->

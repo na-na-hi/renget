@@ -636,7 +636,11 @@ v5b:
 	NAI was uploaded to mediafire as pixeldrain was failing to finish the upload for some reason
 
 # Mei_Panda (Turning Red)
-	https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
+	V1: https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
+
+> This (new) one was trained at a higher res with better tagging. I only use easyfluff but it was trained on an older fluffyrock model so it might be fine to use on other models.
+
+	V2: https://files.catbox.moe/07yudj.rar
 
 # Feral Horses (from /vt/ of all places?)
 
@@ -1134,6 +1138,29 @@ Reinforcement SFW Tags:
 clothed, clothing, long sleeves, teal dress shirt, striped shirt, black shorts, sneakers, pajamas, light green shirt, bracelet, bra strap
 
 	https://files.catbox.moe/1uj3n3.safetensors
+
+**Scrooge McDuck**
+https://civitai.com/models/183570/scrooge-mcduck-or-ducktales-2017
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+This is the most limited dataset used out of all of my Loras but it's good enough..
+
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+scrooge mcduck, male, duck, ducktales, beak, white skin, white hair, orange legs, webbed feet, black eyes, 
+
+Reinforcement SFW Tags:
+
+clothed, clothing, red coat, black top hat, footwear, bottomless, featureless crotch, cane, pince-nez, 
+
+Reinforcement NSFW Tags:
+
+genitals, nipples, nude, penis, balls, white body, 
+
+	Catbox: https://files.catbox.moe/7zxype.safetensors
+	CivitAI: https://civitai.com/api/download/models/208235?type=Model&format=SafeTensor
 
 # sake kemosalmon (Artist)
 

@@ -26,7 +26,9 @@ Loose Cultivator [gain 10 points]
 Golden Blood
 Ancient Sect [-20 points]
 >Life Encounters
-`To be decided in collaboration with other Anons. No romance (that’s reserved for spearfu). Some bonuses would be nicer to have (Flashy heroics, Battlefield Borther) and some less (Wicked Scam Artist), but other than romance, I’m generally pretty flexible.`
+Accidental Guidance
+Battle Brother
+Flashy Heroics
 >Fated Encounter
 Immortal Scripture
 >Fighting Style
@@ -137,7 +139,9 @@ Thanks to his mindset and experience from body cultivation, his style is free of
 ###Relationships with other Characters
 
 ####Life Encounters
-`To be decided in collaboration with other Anons. No romance (that’s reserved for spearfu). Some bonuses would be nicer to have (Flashy heroics, Battlefield Borther) and some less (Wicked Scam Artist), but other than romance, I’m generally pretty flexible.`
+Accidental Guidance
+Battle Brother
+Flashy Heroics
 
 ####Fated Rival
 `looking for an Anon for that`

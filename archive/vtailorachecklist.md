@@ -2,8 +2,9 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (10/31/23)
+!!! warning Quick Update (11/01/23)
 	**Moved 4 Phase-connect members for updating due to reports of them causing issues**
+	**Added Project:LIVIUM agency and tagged a few chuubas**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -31,16 +32,19 @@ Kaya Nishikino | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
-	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina,
+	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Fuura Yuri | X | X | -
 Remilia Nephys | X | X | -
 Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
 Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
+Dizzy Dokuro | X | - | X | Testing V2 lora
+Jelly Hoshiumi | X | - | X| Testing V2 lora
+Ember Amane | X | - | X| Testing V2 lora
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -56,7 +60,7 @@ GeegaVS | X | X | -
 Kuro Kurenai  | - | - | -
 Matara Kan  | X | - | X
 
-## -> Tsunderia <-
+## -> Tsunderia (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana,
 
@@ -564,7 +568,11 @@ Amoria | - | - | -
 Echo Lyne | - | - | -
 Maeve Kagekiri | - | - | -
 Cyon Hart | - | - | -
-Meeta Osita | - | - | -
+Meeta Osita | X | - | X
+D.K Graves | - | - | -
+Spectra Libitina | - | - | -
+Zeli Zuimu | - | - | -
+Misma Ryzing | - | - | -
 
 ## -> Megalight Production <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1079,7 +1087,7 @@ Igni Redmond | - | - | -
 Kara | - | - | -
 Nantako Naru | - | - | -
 
-## -> Sedai One <-
+## -> Sedai One (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -1223,6 +1231,18 @@ Xin Asura | - | - | -
 Miya Mareena | - | - | -
 Aishii Ai | - | - | -
 Lorelai Loch | - | - | -
+
+## -> Project:LIVIUM <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Dina Mostarterra | - | - | -
+Indira Naylarissa | - | - | -
+Silvia Valleria | - | - | -
+Ymelia Meiru | - | - | -
+Yuura Yozakura | - | - | -
 
 ## -> AuroraLiveVR <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1381,7 +1401,7 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
 Mozumi Pichi | X | X | - | Really needs a new one after full debut
-Lucy Pyre | X | X | - | Looking for new outfit version, nothing is wrong with original
+Lucy Pyre | X | X | - | Looking for v2 and v3 Loras (v2 has one lora but hasn't been tested yet, doesn't look good from first impressions though)
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras
 Arypie | X | - | X | -
 CookieswirlC | X | - | X | -
@@ -1393,3 +1413,7 @@ Huntress Spectre | X | - | X | -
 Obake Pam | X | - | X | Not exactly Indie but making one entry for one chuuba is a little too much.
 Yuuka Bear | X | - | X | -
 Shizukou | X | - | X | -
+VIPi_towa | X | - | X | -
+Succubus Xen | X | - | X | -
+Mint | X | - | X | -
+Karinn | X | - | X | -

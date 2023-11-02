@@ -24,6 +24,7 @@ https://archiveofourown.org/works/49456213/chapters/124814875 (Hometown by Lonel
 https://archiveofourown.org/works/50295496 (Corrupt Copulation by CauxCauxJambaux & Anonnymous)
 https://archiveofourown.org/works/46083277 (Drink Deep by sphilia)
 https://archiveofourown.org/works/48072268/chapters/128946274 (Shadow the Wonderdog by Jaycee777)
+https://archiveofourown.org/works/51286864 (Predator and Prey by HomeTome)
 https://catbox.moe/c/wby09b (Human Pic Edits)
 https://m.imgur.com/a/nVVsmQs (Conner Imgur archive)
 https://files.catbox.moe/0ho8y3.png (Shortstack Raccoons by anonymous)

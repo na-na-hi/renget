@@ -433,3 +433,20 @@ https://files.catbox.moe/fxdla7.mov
 https://files.catbox.moe/o15wu5.mp4
 https://files.catbox.moe/7y3sev.mp4
 https://files.catbox.moe/gdua4f.jpg
+>YEMENI ROCKETS HIT ISRAEL, UNKNOWN CITY (ADDED NOV 1st)
+https://files.catbox.moe/ygmkoo.mp4
+>Hamas drone direct hit on kikerats  (ADDED NOV 1st)
+https://files.catbox.moe/h2cuza.mp4
+>kid gets smoked for bringing rocks to a war (ADDED NOV 1st)
+https://files.catbox.moe/29twcv.MP4
+>Hamas bros get smoked v2 (may Allah give them rest and Jannah) (ADDED NOV 1st)
+https://files.catbox.moe/0kh5a3.mp4
+https://files.catbox.moe/3hmrve.MP4
+>combat kino, merkava rolls by (ADDED NOV 1st)
+https://files.catbox.moe/48sjkx.mp4
+>Taking out tanks turret with good old school rpg. How they come out of the tunnel and all (ADDED NOV 1st)
+https://files.catbox.moe/tuob4i.mp4
+>Highway bombing (ADDED NOV 1st)
+https://files.catbox.moe/2lkyfx.mp4
+>"Fatah, Hamas PIJ, PFLP & DFLP are united against Israel"
+https://files.catbox.moe/s419qq.mp4

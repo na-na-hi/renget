@@ -92,7 +92,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Oran Berry | Heals the user for 10 HP.
 2. TM Round | Teaches the move Round.
-3. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
+3. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -101,7 +101,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired.
-2. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
+2. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

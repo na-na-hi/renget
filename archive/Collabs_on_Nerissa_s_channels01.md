@@ -10,7 +10,7 @@
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023)
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023)  - [November](https://rentry.org/Collabs_on_Nerissa_s_channels01/#november-2023)
 
 
 ####![](https://files.catbox.moe/f9inkg.png) August 2023
@@ -55,6 +55,12 @@
 |2023-10-15|[![【FOREWARNED】Hunting some mummies with Advent 🎼 ](https://i.ytimg.com/vi/sSupOKbXDoY/mqdefault.jpg)](https://www.youtube.com/watch?v=sSupOKbXDoY)|[Shiori](https://www.youtube.com/watch?v=clUGpl3XsF4), [Bijou](https://www.youtube.com/watch?v=jzODJXLx2H4) & [FUWAMOCO](https://www.youtube.com/watch?v=xGKQea7zrDI)|~2h11|Advent Fullgen Collab|
 |2023-10-16|[![【GIRLS NIGHT】Having a sleepover with Reimu~ 🎼 ](https://i.ytimg.com/vi/CoEtGz415AU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=CoEtGz415AU) |Reimu Endou|~2h09|1-on-1 Collab \| 3rd outer Hololive collab|
 |2023-10-21|[![【Labyrinthine】2 girls 1 maze w/ @ShioriNovella 🎼 ](https://i.ytimg.com/vi/LlmQoVZ9xAU/mqdefault_live.jpg)](https://www.youtube.com/watch?v=LlmQoVZ9xAU) |[Shiori](https://www.youtube.com/watch?v=_-ZLujLTt5s)| ~2h50 |1-on-1 Collab|
+|2023-10-22|[![【Paranomal Cleanup】Cleaning up a haunted house with Advent 🎼](https://i.ytimg.com/vi/jC9OveHvv3M/mqdefault_live.jpg)](https://www.youtube.com/watch?v=jC9OveHvv3M) |[Shiori](https://www.youtube.com/watch?v=V_FpdUEeyIg), [Bijou](https://www.youtube.com/watch?v=Fqj1rscEqPU) & [FUWAMOCO](https://www.youtube.com/watch?v=3TtGi3CfQSY)| ~2h16 |Advent Fullgen Collab|
+|2023-10-27|[![【DEVOUR】Hunting demons with Advent... but wait, aren't I a...? 🎼](https://i.ytimg.com/vi/cpNeOTwUMWw/mqdefault_live.jpg)](https://www.youtube.com/watch?v=cpNeOTwUMWw) |[Shiori](https://www.youtube.com/watch?v=7yllDxR_n80), [Bijou](https://www.youtube.com/watch?v=jT9-9w-I4ho) & [FUWAMOCO](https://www.youtube.com/watch?v=XE_wsbV_3NU)| ~2h05 |Advent Fullgen Collab|
+
+####![](https://files.catbox.moe/f9inkg.png) November 2023
+|Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
+|---|---|---|---|---|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

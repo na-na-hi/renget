@@ -33,6 +33,7 @@ Nara Suzura(Genin), "Cowardly Dragon Host": https://archive.4plebs.org/tg/thread
 Oscar, "The Outlander": https://archive.4plebs.org/tg/thread/90341083/#90345405
 Kambara Soue, "Frosty Kunoichi": https://archive.4plebs.org/tg/thread/90341083/#90349101
 Tengu Yumiko, "Corvine Archer": https://archive.4plebs.org/tg/thread/90341083/#90352365
+Aizawa Sanak, "The Thousand Armaments Trickster": https://archive.4plebs.org/tg/thread/90646041/#90650388
 >D-Rank:
 Takatsui Inukasai, "The Infernal Painter": https://archive.4plebs.org/tg/thread/90328516/#90338614
 Eisei Hokan, "Timid Grinner": https://archive.4plebs.org/tg/thread/90328516/#90339452

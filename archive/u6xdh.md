@@ -11,11 +11,17 @@ Akuryoga Mitiru, "The Old Demon" -
 "I'm glad that monster is dead..."
 Aluryoga is *not* dead, apparently. Ray probably hates him a whole lot because he killed the Second, so when he learns that he is alive he'll probably want him dead very badly. Let's hope Inatsu gets his get back soon.
 
-Yusuke Hiramatsu, "The Third Kazekage" (he deserves a better title, how about "Worm Bearer"? That sounds cool) - 
+Yusuke Hiramatsu, "The Red Sand"  - 
 *He met Yusuke while he was at Suna.*
 "It is my pleasure to meet you, Kazekage. I must thank you for keeping the sand worm attacks to a minimum!"
 "...You're welcome."
 Ray thinks Suna is MESSED UP. He didn't exactly know that Yusuke was a puppet, but after his stay he has a suspicion. He feels a bit bad for him, because he is obviously not having a good time, but Suna and Konoha have been a little bit nicer lately, so he doesn't want to make the people in charge upset. He'll just silently shame the Suna elders just like he does Konoha's.
+
+Jōmyoku Kinjōshi, "Gilded Mogul" -
+*At Ramen Republic.*
+"Kinjōshi-san... p-please... let me go home..."
+"You asked for your food hot, my friend. You are going to eat it hot."
+After the "incident" where Jōmyoku repeatedly heated up Ray's bowl and forced him to eat the ramen boiling hot when he first went to Ramen Republic, Ray has never went there again. He also has a slight fear that, with his wide range of influence, Jōmyoku will become the next "Hokage" of Konoha, by being the master of the puppet put in power. Maybe he's already done that with Suna?
 
 Taiki, "The Trunk Thrower" -
 *After a mission that Ray helped with.*
@@ -31,7 +37,10 @@ Konna, "The Shady Foreigner" -
 Ray has no strong opinions on him. He's fine with foreingers, as long as they aren't obnoxious. But... they really don't get a chance to talk much. I'm sure Ray will appreciate that he will never have to go to Ame to do his geanology, because Ame probably hates Konoha. If Ray realizes he's gonna try and kidnap a kid he's gonna get the other A Ranks to jump him, though.
 
 Mika Katsumi, "Opioid Smoke Girl" -
-I'll update this for when she gets a rival and picks a village.
+*At her clinic, Ray needs... a "boost."*
+"...You got something that will keep me awake?
+"Yep! Ninja meth!"
+Ray doesn't know much about her. He's visited her a couple of times, but hasn't really talked much with her. He doesn't exactly approve of everything he's gotten from her, though. He once got something that kept him bouncing off the walls for days. Then he took a nap. Then he woke up a week later.
 
 Hakumo Ikari, "Kitsune Vixen" -
 *After one of his meetings with the Hakumo.*
@@ -64,6 +73,11 @@ Goro Tsuchigumo, "Snare Spider" -
 "Not really."
 Ray has a distaste for Goro. He sees him as spoiled due to his carefree attitude and being a prodigy to a clan with a kekkai genkai, but he respects him as a ninja anyway. He really dislikes the Tsuchigumo because he thinks bugs are a little gross, and he finds the fact that they produce webbing and have six arms *really* off-putting.
 
+Hangetsu Hozuki, "Forbidden Tea" -
+*Ray, upon hearing about him.*
+"Well, that's sad."
+Ray doesn't know much about him. He has heard of someone with a horrible illness who obtained it by accident, and Ray will now never enter any suspicious ruins.
+
 Nara Suzura, "Cowardly Dragon Host" -
 *During a tutoring session.*
 "Suzura-san, I know you can do better, right? Just a little more!"
@@ -87,8 +101,13 @@ Tengu Yumiko, "Corvine Archer" -
 *Guess what? During a tutoring session.*
 "Yumiko-san! You have amazing eye sight! For this test, you must find a needle I have hid somewhere-"
 "Found it."
-"...G-good job."
+"...G-Good job."
 Usual opinion on a kid with a kekkai genkai. He's a bit annoyed by the Tengu clan, as they are foreingers WITH kekkai genkai, but he finds them about the same as other clans. He can tell that Yumiko doesn't like him and her elders very much, and he thinks it's hilarious. He also can tell that she has a rivalry with other clans, and is completely fine stoking that fire. Although, maybe he would try and stop her before it goes to far ~~and she ends up like him.~~
+
+Aizawa Sanaki, "The ~~Completely Forgotten~~ Thousand Armaments Trickster"
+*Before Ray's sudden trip to a clinic.*
+"Pfft, you like using tools? Watch this-"
+Ray finds him quite similar to Yumiko. He would enjoy teaching him new tricks and stoking the fire that is his rivalry. Also just like with Yumiko, he would try and stop him before it's too late and he digs himself a hole he does not want to be in. Ray is that self-aware, at least.
 
 Takatsui Inukasai, "The Infernal Painter" -
 *TAKE A GUESS WHERE!*

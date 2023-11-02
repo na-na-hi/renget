@@ -124,6 +124,8 @@ https://desu-usergeneratedcontent.xyz/tg/image/1698/82/1698821502839.png
 https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698835552212.png
 >Xu
 https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698839005330.png
+>Kay Lee
+https://desu-usergeneratedcontent.xyz/tg/image/1698/88/1698881643906.png
 
 ### Writefags
 
