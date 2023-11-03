@@ -39,6 +39,9 @@ https://www.deviantart.com/samaster/gallery/83197907/fate-of-beck/
 Fate of Beck: Cursed Shoe Shop (Original Work) by SAmaster | Completed: 2023-04-04
 https://www.deviantart.com/samaster/art/Cursed-Shoe-Shop-Introduction-943996973
 
+Fate of Beck: Mrs. Hancock's Dating Game (Original Work) by SAmaster
+https://www.deviantart.com/samaster/gallery/87911870/mrs-hancock-s-dating-game
+
 Fate Of Beck: Ninja Minisode (Original Work) by SAmaster | Completed: 2023-04-29
 https://www.deviantart.com/samaster/art/Ninja-Minisode-Part-1-939565468
 
@@ -148,9 +151,6 @@ https://rentry.org/Fallout-VegasLive
 Sexy Tail (Fairy Tale) by snakebit1995
 https://archiveofourown.org/works/9982052/chapters/22296422/
 
-Bimbo Three Houses (Fire Emblem Three Houses) by snakebit1995
-https://archiveofourown.org/works/20699402/chapters/49168553/
-
 The Pink Archon (Genshin Impact) by snakebit1995
 https://archiveofourown.org/works/29431686/chapters/72299412/
 
@@ -163,11 +163,11 @@ https://archiveofourown.org/works/16286330/chapters/38088284/
 Bimbo Isekai (Original Work) by snakebit1995
 https://archiveofourown.org/works/30189720/chapters/74385648/
 
-Fate of Beck: Mrs. Hancock's Dating Game (Original Work) by SAmaster
-https://www.deviantart.com/samaster/gallery/87911870/mrs-hancock-s-dating-game
-
 P5B (Persona 5) by Anonymous
 https://archiveofourown.org/works/36541261/
+
+Naoto's Bimbo Harem (Please Don't Bully Me Nagatoro) by Writer of the Future
+https://www.fanfiction.net//s/14288487/1/Naoto-s-Bimbo-Harem
 
 PokeBim (Pokémon) by snakebit1995
 https://archiveofourown.org/works/18054653/chapters/42669134/
@@ -184,6 +184,9 @@ https://archiveofourown.org/works/41165871/chapters/103195359/
 World of Bimbocraft (World Of Warcraft) by snakebit1995
 https://archiveofourown.org/works/43377024/
 
+Yu-Bim-Bo! (Yu-Gi-Oh!) by BlazzterBlaster
+https://archiveofourown.org/works/50494924/
+
 =====================================
  Stalled Stories (Last Updated more than 6 months ago.)
 =====================================
@@ -193,6 +196,9 @@ https://archiveofourown.org/works/28189092/chapters/69074628/
 
 Dr Stone - Amazon Bimbo Empire (Dr. STONE) by snakebit1995
 https://archiveofourown.org/works/29091651/chapters/71412309/
+
+Bimbo Three Houses (Fire Emblem Three Houses) by snakebit1995
+https://archiveofourown.org/works/20699402/chapters/49168553/
 
 Bimbo Effect 2 (Mass Effect 2) by annonfan224
 https://archiveofourown.org/works/28214403/chapters/69137547/
@@ -205,9 +211,6 @@ https://archiveofourown.org/works/31691696/chapters/78434510/
 
 SM (Sailor Moon) by Anonymous
 https://mega.nz/file/xN9X3axZ#oHjvqFoNG-EmJnNPE9JVNTsGJzeBezBn9zNz5GGLSoI/ or https://rentry.org/kepqu/
-
-Super Smash Bimbos (Super Smash Brothers) by annonfan224
-https://archiveofourown.org/works/28554135/chapters/69974181/
 
 Legend of Zelda: Bimbofication (The Legend of Zelda) by snakebit1995
 https://archiveofourown.org/works/21768364/chapters/51937903/
@@ -255,6 +258,9 @@ https://archiveofourown.org/works/29236368/
 
 Bimbo Persona Story (Persona 5) by R-scorpio
 https://pastebin.com/zMGjpnQF
+
+Super Smash Bimbos (Super Smash Brothers) by annonfan224
+https://archiveofourown.org/works/28554135/chapters/69974181/
 
 Bimbo, The Ring (The Ring/Ringu) by Anonymous
 https://pastebin.com/PeqGv6z8

@@ -12,6 +12,9 @@ https://hsr.hoyoverse.com/en-us/home
 \>1.4 Summary
 https://www.hoyolab.com/article/21972419
 
+\>1.5 Preview Page
+https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
+
 \>Version 1.5 Trailer - "The Crepuscule Zone" 
 https://www.youtube.com/watch?v=w1utY0z9g00
 https://www.youtube.com/watch?v=qVY5qmQVrMo
@@ -46,9 +49,9 @@ https://hsr.hoyoverse.com/gift
 KBQBEP3L8823 
 5S6ZHRWTDNJB
 STARRAILGIFT
-\>NEW LIVESTREAM CODES, EXPIRES IN 36 HOURS
+\>NEW LIVESTREAM CODES, EXPIRES IN 26 HOURS
 JB9BE7K5RQY3
-HT8BX7JK89Z7
+HT8BX7JL89Z7
 6B9BFPK58Q3T
 
 \>/hsrg/ Tools & Resources

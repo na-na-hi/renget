@@ -41,7 +41,7 @@ The War of the Dark Aurorai
 
 #### Rojoris
 
->The bold and stoic one of the group. He ensures that justice flows naturally and the mortals are rewarded or punished for their works. He is credited with inspiring most, if not all of Aurorai's legal constitutions and penal codes. His true form rivals that of Covernius in musculature, but his hair is a bold shade of red instead of his gold. He stands in armor consisting of heavy pauldrons flowing into a battle worn cape and similarly heavy looking bracers and leg armor. Where Covernius has flowing designs, he has rough ones, to convey the hard justice that can befall a mortal. He wields a huge steel gavel that can be used as a warhammer or a magical sceptre.
+>The bold and stoic one of the group. He ensures that justice flows naturally and the mortals are rewarded or punished for their deeds. He is credited with inspiring most, if not all of Aurorai's legal constitutions and penal codes. His true form rivals that of Covernius in musculature, but his hair is a bold shade of red instead of his gold. He stands in armor consisting of heavy pauldrons flowing into a battle worn cape and similarly heavy looking bracers and leg armor. Where Covernius has flowing designs, he has rough ones, to convey the hard justice that can befall a mortal. He wields a huge steel gavel that can be used as a warhammer or a magical sceptre.
 
 ***
 
@@ -65,7 +65,7 @@ aa: Nijongis visits, Rojoris visits
 865: Mortals and The Celestium meet on the central lake of Aurorai to seal a covenant between mortals and The Celestium, promising a safety measure if any of them goes rogue.
 866: The newly-settled mortals fan out for places to settle.
 902: Mortals start domesticating land for living.
-1000: End of the Celes years, new era designated as Holomini. Lake where the first mortals and The Celestium met is named Covenant Lake.
+1000: End of the Celes years, new era designated as Holomini. Lake where the first mortals and The Celestium met is named Lake of the Covenant.
 ***
 1H: Polaria is established.
 a H Blancopolis is established.
@@ -77,7 +77,7 @@ a H: Atlantis is established.
 aa H: Nero Eterna is formed
 17 H: The Blue Anaconda tribe wins the Snake Wars
 aa H: After more than a decade of tribal war, the tribes unite under Blue Anaconda's chieftess Kondia, who names the new nation Anakondia, after herself and her tribe.
-40H: Explorers from Polaria discover a new unexplored territory. Cita Azul is formed after being granted autonomy from Polaria months later.
+40H: Explorers from Polaria discover a new unexplored territory. Cita Azur is formed after being granted autonomy from Polaria months later.
 56H: Jour De Nuit renames to Diarnuit for ease of writing documents; The Divide is enacted, assigning elves, angels, fairies and similar to the eastern part, while dwarves, goblins, hobbits and other similar races were assigned to the western part.
 57H: The Sky Council in Diarnuit is formally founded and with it, designate their first Sky Regent through a vote amongst the Council.
 62 H: The Avian Uprising happens when the Shishiro faction and Takane faction clash over territory, when the latter felt cheated by the former.
@@ -104,9 +104,9 @@ aaa H: Coerce Cita Azur and Nero Eternalis to join them.
 ***
 330 H: Nero Eterna and Cita Azul are recognized once more as autonomous states.
 346 H: Kizuna Ai laid to rest after dying of old age and battle wear
-aaa H : Fallen Star Graveyard constructed
+aaa H : Fallen Star Graveyard constructed around Kizuna's body.
 347 H: Kizuna declared a hallowed figure by all of Polaria
-350 H: Phoenixes and Dragons break away peacefully from Diarnuit
+350 H: Phoenixes and dragons break away peacefully from Diarnuit
 351 H: Stadt Des Feuers is formed, with Kohryu Shenloong as its first leader.
 508 H: Last of the Polarian Valkyries dies in peace.
 582 H: Guild Tempus is formed with Chromus Kronoious as its first Guild Leader, with its primary purpose being to protect travelers and remote towns from banditry and robbery.
@@ -114,6 +114,7 @@ aaa H : Fallen Star Graveyard constructed
 604 H: Botan Shishiro ascends the Savanese throne from her father, Leoru Shishiro.
 610 H: King Covigo ascends the throne from his father, the former King Covaki.
 611 H: Covernius appears in King Covigo's dream to tell him to establish an order of extraordinary people across Aurorai.
+612 H: Coco Kiryu is selected as the second ruler of Stadt Des Feuers.
 616 H: The Order of Iridescent Guardians is formed by King Covigo, selecting Sora Tokino as its first member of many.
 aaa H: Additional members were later added: the advanced golem Roboco and the shrine maiden Miko Sakura.
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade.
@@ -192,7 +193,7 @@ Established: 16 H
 #### Stadt Des Feuers
 
 Capital: Flammiena
-Current Ruler: Coco Kiryu (4th)
+Current Ruler: Coco Kiryu (2nd)
 Exec. Center: Hall of Flame
 Established: 351 H
 ***
@@ -205,7 +206,7 @@ Current Ruler: Grand Pontifex Damaso (36th)
 Exec. Building: Corte Bianca
 Established: 1 H
 ***
->A theocratic nation, Blancopolis originally was the place that ardently worshipped the entirety of The Celestium. Formed just after Polaria, its tied with it for being the oldest established nation of Aurorai. In 619 H, a new doctrine was rapidly spread to the citizens that enforces strict gender rules and segregation propagated by the then-Bishop Damaso. Shortly after swiftly and ruthlessly ascending the throne in 620 H, radical changes were implemented in the nation. Major of such changes included every male and female interaction that is not by blood nor adoption is screened and monitored carefully by a board of priests per estate. Women in particular are forced to serve the clergymen and cater to their every whim while men were treated as expendable bodies, toiling the vast state-owned farms, building new temples, running security in the clergy's properties, and other hard labor, including fighting conflicts if their masters demands it.
+>A theocratic nation, Blancopolis originally was the place that ardently worshipped the entirety of The Celestium. Formed just after Polaria, its tied with it for being the oldest established nation of Aurorai. In 619 H, a new doctrine was rapidly spread to the citizens that enforces strict gender rules and segregation propagated by the then-Bishop Damaso. Shortly after swiftly and ruthlessly ascending the throne in 620 H, radical changes were implemented in the nation. Major of such changes included every male and female interaction that is not by blood nor adoption is screened and monitored carefully by a board of priests per town and city. Women in particular are forced to serve the clergymen and cater to their every whim while men were treated as expendable bodies, toiling the vast state-owned farms, building new temples, running security in the clergy's properties, and other hard labor, including fighting conflicts if their masters demands it.
 
 #### Anakondia
 
@@ -286,7 +287,7 @@ Established: 7 H
 
 ->**Ina**<-
 
->Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. The floating tome that accompanies her; Ancena'nis, came from the Cthulu Grand Library when she wandered into the restricted version in her younger years. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush away and bring out her tomes earlier than she'd like as war looms over the horizon.
+>Laidback and chill, she is a priestess of the Ancient Ones, entities that power the societies of Nero Eterna. The floating tome that accompanies her; Ancena'nis, came from the Cthulu Grand Library when she wandered into the restricted version in her younger years. Her general demeanor sets her apart from her peers bar the general aversion to the outdoors. Despite the chill demeanor, she feels insecurity against her elder sister who is a respected witch doctor. She has been given leave by the Ancients to explore the world and pursue her passion: art. However, she may have to stow her brush and palette away and bring out her tomes earlier than she'd like as war looms over the horizon.
 
 ==Home: Nero Eterna==
 
@@ -314,7 +315,7 @@ Established: 7 H
 
 >An erstwhile maid in Castle Crystale, she is very reserved and cannot be talked to as easily than average. Of all the Valkr Guardians, she is reputed as the most shy and introverted. Beneath the shy demeanor though lies great talent in archery, with precise aim said to rival even that of the Lion Queen herself. Bafflingly though, outside of battle, she can be the most clumsy and dull-witted in any given room. Worried for her friends in the Second Brigade, Aqua has took it upon herself to look for them, starting in Savan, where she heard her closest friend the witch Shion Murasaki ran off to after the great invasion.
 
-  ==Home: Polaria==
+ ==Home: Polaria==
 
 ->**Shion**<-
 

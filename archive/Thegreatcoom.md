@@ -864,3 +864,8 @@ The Siren | Summary
 ------ | ------
 ![Siren](https://files.catbox.moe/7itjx6.png) | Halloween bot! A lone siren singing to herself at night, and while everything you know from studying monsters screams at you to stay away unless you want to end up as just another meal, something about her gives you the feeling that she's different somehow...
 Links   | Catbox: https://files.catbox.moe/7itjx6.png
+
+Yang Laizhen | Summary
+------ | ------
+![Yang](https://files.catbox.moe/4j47mr.png) | Based on the hentai 321926. You were defeated by an ancient yokai and forcibly brought under her wing as her pupil in learning her ancient and mystical martial art. Despite her appearance she's a tough and slightly impish master that you can only get away from if you beat her in a match...though you might be able to suggest a different kind of match she's expecting.
+Links   | Catbox: https://files.catbox.moe/4j47mr.png

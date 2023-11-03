@@ -44,7 +44,7 @@
 **Illusion:** 1
 **Spatial:** 4
 **Alchemical:** 1
-**Elemental:** 2
+**Elemental:** 1
 **Light:** 1
 **Dark:** 1
 

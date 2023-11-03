@@ -508,6 +508,9 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * modest medusa 
  * Forever After
  * Room of Swords
+ * My GFs Hot but Thinks My Giantess Fetish is Weird | [Webtoons](https://www.webtoons.com/en/canvas/my-gfs-hot-but-thinks-my-giantess-fetish-is-weird/list?title_no=845557)
+ * Also the other comics by chaotic helleven
+ * [The Love Between Enemies](https://www.webtoons.com/en/canvas/the-love-between-enemies-/list?title_no=645907)
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -758,6 +761,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The 3 Worlds of Gulliver (1960) | [Cover](https://thumbs2.imgbox.com/74/c1/f848WybR_t.jpg) | After being shipwrecked, a man finds himself on an island inhabited by tiny people, who soon make plans for him.
  * Gargantarama / Attack of the 50ft Woman | [1](https://www.amazon.com/Gargantarama-Attack-50ft-Woman-DVD/dp/B002XW4EPU)
  * The Boys | Termite scenes - cunt diving (S1?), cock walk (S3?), crush scenes (swinger party), maybe more
+ * Gen V
  * The BFG (2016)
  * Apocalypse, CA (2011) | [1](https://www.youtube.com/watch?v=b9JHef4hLhk)
  * Supervillanos (2006) | [1](https://www.youtube.com/watch?v=eB_ZZDzKGlQ)

@@ -1676,6 +1676,17 @@ EasyFluff V11.2 Comparison
 
 	https://files.catbox.moe/yeiuv1.jpg
 
+0.6(fluffyrock-576-704-832-960-1088-lion-low-lr-e209-terminal-snr-e182) + 0.4(furtasticv20_furtasticv20) Comparison
+https://pixeldrain.com/u/xUVfbjdc
+
+	Prompt used:	
+	(by artist:1.3), pupils, eyebrows, turf, walking, (front view), standing, full-length portrait, model sheet,
+	BREAK
+	(white fur, black fur, grey fur, snow leopard:1.3), anthro, solo, male, (muscular:1.0), long tail, (anus, butt), (big balls, ball tuft, (penis), (thick penis), big penis, veiny penis), looking at viewer, seductive, smile,
+	Negative prompt: boring_e621, kemono, young, cub, (hair, neon hair, long hair), female, woman, boobs, girly, (wolf, fox, bear, stripes:1.3), (yellow fur, grey fur, pink fur, blue fur:1.4), canine cock, multiple tails, handpaw, feral, sharp teeth, fangs, tired, black eyelashes, black sclera, (human lips:1.9), vore, simple background, ubbp, bwu, updn, (eyes closed, narrowed eyes), macro, grass, snow, outside,
+	Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2147328661, Size: 704x704, Model hash: 96bf03cefa, Model: 0.6(fluffyrock-576-704-832-960-1088-lion-low-lr-e209-terminal-snr-e182) + 0.4(furtasticv20_furtasticv20),
+
+
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
 

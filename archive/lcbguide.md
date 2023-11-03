@@ -66,7 +66,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 
 ## Rerolling
 **1. Do I need to reroll?**
-No. All the content in the game can be beaten with the default Identities. Reroll if you want to start with specific ones.
+No. All story content in the game can be beaten with the default Identities and E.G.Os. Reroll if you want to start with specific ones.
 
 **2. Who do I reroll for?**
 Try to get two Identities on this list. It's unlikely but possible to get 3. Do not bother rerolling for E.G.Os.
@@ -80,7 +80,7 @@ Try to get two Identities on this list. It's unlikely but possible to get 3. Do 
 The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.Os.
 
 **3. How do I reroll?**
-Rerolling is extremely easy, and the developers have admitted to intentionally making it easy so players can start with what they want.
+Rerolling is extremely easy, and the developers have intentionally made it easy so players can start with what they want.
 1. You need either a phone or an emulator. An emulator allows you to run multiple instances. You cannot reroll on Steam.
 2. Boot up the game.
 3. Create a new guest account.
@@ -90,24 +90,24 @@ Now that you're in the main menu screen, perform the following loop.
 
 1. Claim Lunacy and tickets from your mailbox.
 2. Claim Lunacy from beating the prologue.
-3. Do two 10-rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it.
+3. Do your rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it.
 4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam.
 5. If you want to reroll: click settings\->account\->close account button.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
 ## Monetization & Gacha
 **1. Identities**
-This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah.
+You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah.
 
 You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and a new watchable story. 000 Identities get pretty animated artwork.
 
 **2. E.G.O**
-You obtain E.G.O from the gacha and the Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color.
+You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color.
 
 Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. You can have multiple E.G.O passives active at a time. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too. Many Zayin E.G.Os are still highly relevant.
 
 Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
-It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to jumpscare you, and shard anything you really want.
+It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand.
 
 **3. Lunacy & Extractions**
 Lunacy is the gacha currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance, you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
@@ -122,19 +122,19 @@ A permanently available banner where there is an equal chance of receiving any p
 ![Standard Extraction](https://files.catbox.moe/cld2u2.png)
 
 - New Identity / E.G.O Target Extraction
-A banner that increases the probability rates for receiving the featured Identities and/or E.G.Os, typically done in pairs of one 000 and one 00 Identity, or one or multiple E.G.Os.
+A banner that increases the probability rates for receiving the featured Identities and/or E.G.Os, typically done in pairs of one 000 and one 00 Identity, or one E.G.O.
 ![New Identity / E.G.O Target Extraction](https://files.catbox.moe/aytgyp.png)
 
 - Limited Target Extraction
-A banner that increases the probability rates for receiving the Identities and E.G.Os of a specific Sinner. This banner changes with the current New Identity / E.G.O Target Extraction.
+A banner that increases the probability rates for receiving the Identities and E.G.Os of a specific Sinner. This banner changes to another Sinner every two weeks.
 ![Limited Target Extraction](https://files.catbox.moe/7dn6z8.png)
 
 **4. Walpurgisnacht**
 Walpurgisnacht, or Walpurgis Night, is a quarterly Extraction Event where Identities and E.G.O from Lobotomy Corporation, Library of Ruina, and Distortion Detective will appear. While the periods of these Events may vary, the plan is to have at least one Walpurgis Night Event every 3 months. In future Walpurgis Night Events, there are planned to be Event-specific stories and unique combat encounters.
 
-Walpurgis Night Target Extractions will be featured over the Event period. Walpurgis Night Target Extractions will have increased Extraction rates for Identities and E.G.O for the active Walpurgis Night Event. During the Event period, Walpurgis Night Identities and E.G.O will be Extractable from other banners (save for Season relevant Extraction banners) as well. However, they will not receive increased rates for those Extractions.  All Walpurgis Night Identities and E.G.O will no longer be available once the Event period ends.
+Walpurgis Night Target Extractions will be featured over the Event period. Walpurgis Night Target Extractions will have increased Extraction rates for Identities and E.G.O for the active Walpurgis Night Event. During the Event period, Walpurgis Night Identities and E.G.O will be Extractable from other banners (save for Season relevant Extraction banners) as well. However, they will not receive increased rates for those Extractions. All Walpurgis Night Identities and E.G.O will no longer be available once the Event period ends.
 
-Identities and E.G.O featured in the currently ongoing Walpurgis Night Event cannot be purchased from the Dispenser. However, during the next Walpurgis Night Event, Identities & E.G.O from previous Walpurgis Night Events will be made purchasable from the Dispenser. They will not be featured in the Dispenser outside of the Event period. E.g., during the second Walpurgis Night Event, Identities and E.G.O from the first Walpurgis Night Event will be purchasable from the Dispenser, but not the new Identities and E.G.O from the second Walpurgis Night Event. Walpurgis Night Identities and E.G.O featured in the current event will be visible, but you still can't shard them, so do not open Egoshard Boxes before confirming whether or not the units are shardable. Walpurgisnacht is currently our only type of limited banner.
+Identities and E.G.O featured in the currently ongoing Walpurgis Night Event cannot be purchased from the Dispenser. However, during the next Walpurgis Night Event, Identities & E.G.O from previous Walpurgis Night Events will be made purchasable from the Dispenser. They will not be featured in the Dispenser outside of the Event period. E.g., during the second Walpurgis Night Event, Identities and E.G.O from the first Walpurgis Night Event will be purchasable from the Dispenser, but not the new Identities and E.G.O from the second Walpurgis Night Event. Walpurgis Night Identities and E.G.O featured in the current event will be visible in the Dispenser, but you still can't shard them, so do not open Egoshard Boxes before confirming whether or not the units are shardable. Walpurgisnacht is currently our only type of limited banner.
 
 (i.e do not do picrel you fucking retard)
 ![Image sourced from threads](https://files.catbox.moe/y91i04.jpg)
@@ -247,7 +247,9 @@ Identities and E.G.O from the new Season will become available at the Dispenser.
 
 ##Combat
 **1. Retries**
-You can give up (press the give up button) or lose (have all your Sinners die) in any battle and try again without penalty in most cases. Giving up or losing a story node will make you lose 1 Enkephalin. If you lose a battle inside a Dungeon, you will have to retry with your remaining Sinners that weren't participating originally. If you have no remaining Sinners, you will be forced to forfeit. If you lose in a Story Dungeon but have Sinners remaining, the Sinners who died will stay dead until you reach a checkpoint, at which point they will be revived. Sinners cannot be revived in Mirror Dungeons. In summary, press give up before you lose the battle.
+You can give up (press the give up button) or lose (have all your Sinners die) in any battle and try again with minimal penalty in most cases. Giving up or losing a story node will make you lose 1 Enkephalin. Giving up or losing a Luxcavation will fully refund your Modules. If you lose a battle inside a Dungeon or the Refraction Railway, you will have to retry with your remaining Sinners that weren't participating originally. If you have no remaining Sinners, you will be forced to forfeit.
+
+If you lose in a Story Dungeon but have Sinners remaining, the Sinners who died will stay dead until you reach a checkpoint, at which point they will be revived. Sinners cannot be revived in Mirror Dungeons, but they can be revived in the current Refraction Railway. In summary, press give up before you lose the battle, or once any of your Sinners die.
 
 **2. Coins, Clashes, Offense & Defense Level**
 For each clash, every coin still available will be flipped at the same time, and every heads coin will add or decrease the total value, repeating until one side loses all of their coins. Be aware that some skills will decrease in value if you flip heads. The victor will use their remaining coins to attack.
@@ -285,7 +287,7 @@ The following are what most consider to be the best IDs and E.G.O in the game. H
 
 **000 IDs**
 R Corp Ishmael needs to be at Uptie 4 to be at maximum efficiency. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required.
-- ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
+ - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![G Corp. Manager Corporal Gregor](https://files.catbox.moe/bzqjz2.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
 L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. Both of them, G Outis and Shi Don are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
@@ -357,4 +359,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/20/23: Clarified MD2H weekly rewards.
 10/25-27/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
 10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know.
-10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
+11/3/23: Fixed some minor nitpicks, changed ordering of the tier list. ![lol&](https://files.catbox.moe/7dmu76.png)

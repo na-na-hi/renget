@@ -14,6 +14,9 @@ Group/Name | Pokémon | Description
 :----: | :----: | ---- 
 Team Rangers | Mudkip and Pikachu | A strange duo hailing from the Air Continent, they are an independent rescue team operating near the area of Pokémon Square.
 Team Stainless | Rookidee and Tinkatink | A duo of newbie explorers from the Globetrotter's guild. They're little, but they always give it their all! They currently reside in Baram Town, where their mentor, Kleavor, is.
+Toiling Ordinance | Sneasler | A selfproclaimed busybody, she's an assistant for the guildmaster of the Globetrotter's guild based on the Grass continent. While she remains on the Grass continent most of the time, she does travel to other continents if her job needs her to.
+Detective ??? | Croagunk | An independent Detective who oft does work under the Constabulary and the Guild League, he spends his time investigating and posting requests to capture criminals.
+
 
 ***
 ## Important Locations
