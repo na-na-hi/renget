@@ -18,9 +18,9 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Planewalker](https://rentry.org/planewalker) | Misc |[Avery](https://files.catbox.moe/hh25l1.png), [Colby](https://files.catbox.moe/0o9658.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Avery](https://files.catbox.moe/hh25l1.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Hal](https://files.catbox.moe/zwt85g.png), [Atsui](https://files.catbox.moe/wnotc9.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Hal](https://files.catbox.moe/zwt85g.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Phantom](https://files.catbox.moe/13c4uo.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[The Siren](https://files.catbox.moe/7itjx6.png), [Corotha](https://files.catbox.moe/n13g0s.png), [Akemi Tetsu](https://files.catbox.moe/wkbfmy.png)|
@@ -29,9 +29,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Belphie](https://files.catbox.moe/gkfr8s.png)|[Belphie](https://files.catbox.moe/gkfr8s.png) [MV]
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[Vegeta](https://files.catbox.moe/3ozofx.png), [Son Goku (Youth)](https://files.catbox.moe/1cpbv5.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Hitch](https://files.catbox.moe/q8hs4g.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Mina](https://files.catbox.moe/2r256u.png)|[Mina](https://files.catbox.moe/2r256u.png) [MV]
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
+[Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||

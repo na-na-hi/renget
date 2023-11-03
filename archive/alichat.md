@@ -4,7 +4,9 @@
 	
 	**SillyTavern (staging) -> https://github.com/SillyTavern/SillyTavern/tree/staging**
 
-	**Ali:Chat Lite (in collaboration with Kingbri. This has the most up to date techniques included in it, and this style is how I personally format all my cards in): https://rentry.co/kingbri-chara-guide**
+	**Ali:Chat Lite (in collaboration. This has the most up to date techniques included in it, and this style is how I personally format all my cards in) -> https://rentry.co/kingbri-chara-guide**
+
+	**World Info / Lorebook Guide (in collaboration) -> https://rentry.co/world-info-encyclopedia**
 
 	**v1 is here -> [Ali:Chat Style (v1.0)](https://docs.google.com/document/d/1qvcvZWhp24p14dsMlmj7vN4cM5RTDSj0gLaZSl1PPO8)**
 ***

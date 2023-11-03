@@ -8,7 +8,7 @@
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
-**Species:** Kommo-o | **Affiliation:** N/A
+**Species:** Kommo-o | **Affiliation:** Team Gildscales
 **Level:** 7 | **Experience to Next Level:** 15/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 710₽ | **Glorious Gold:** 0 Bars
@@ -48,7 +48,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 15 points to spend.
+    You have 37 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -79,8 +79,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Sitrus Leaf | Vacant inventory slot.
-2. Orange Gummi | Vacant inventory slot.
-3. Royal Gummi | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

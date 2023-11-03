@@ -452,3 +452,25 @@ https://files.catbox.moe/2lkyfx.mp4
 https://files.catbox.moe/s419qq.mp4
 >HOUTHI MUSIC VIDEO DECLARING WAR!(ADDED NOV 1st)
 https://files.catbox.moe/06ppv7.mp4
+>on the ground in Gaza, dead people (ADDED NOV 2d)
+https://files.catbox.moe/trpjhw.mp4
+>Dead IOF (ADDED NOV 2d)
+https://files.catbox.moe/4lldok.MP4
+> HEZBOLLAH RELEASES FINAL TEASER BEFORE TOMORROW'S HIGHLY ANTICIPATED SPEECH ON WHETHER THEY WILL JOIN THE WAR (ADDED NOV 2d)
+https://files.catbox.moe/45hvfe.MP4
+>Latest Rocket compilation (ADDED NOV 2d)
+https://files.catbox.moe/f7mitr.mp4
+>Hez video (ADDED NOV 2d)
+https://files.catbox.moe/5qwk9s.mp4
+>newest hezbollah video! Attacks on IOF sites:  (ADDED NOV 2d)
+https://files.catbox.moe/ivav2b.mp4
+>Hamas: bomb has been planted on Merkava, then finished with RPGs  (ADDED NOV 2d)
+https://files.catbox.moe/95xf7o.mp4
+>Israeli cameraman gets ready to film IOF soldiers getting fucked raw by Palestinian BVLLS from inside his rolling cuckshed. (ADDED NOV 2d)
+https://files.catbox.moe/xyg9wu.mp4 
+>IOF Clowncar rolling around the west bank deploying smurfs (ADDED NOV 2d)
+https://files.catbox.moe/ri0kd5.mp4
+>Hezbollah hype video...yaay "hezbollah just make trailers but never release the movie. they are gay." (ADDED NOV 2d)
+https://files.catbox.moe/hrclud.mp4
+>More Hez hype, Yallah, let's go you yellow and green niggers (ADDED NOV 2d)
+https://files.catbox.moe/kie2jf.MP4

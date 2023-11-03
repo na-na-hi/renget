@@ -320,7 +320,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
 * Fern the Hisuian Zora
-     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
+    * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
+	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd) *Not on Table*
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -625,6 +626,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
 * {||} [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * {||} [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
+* {||} [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

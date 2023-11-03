@@ -6,7 +6,7 @@ Download koboldcpp.exe (this loads the model):
 https://github.com/LostRuins/koboldcpp/releases/latest
 
 Download one of these models (the biggest you can run, larger files can be split between CPU/GPU but are slower):
-Mythomax: https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF/tree/main  
+XWin-MLewd: https://huggingface.co/TheBloke/Xwin-MLewd-13B-V0.2-GGUF/tree/main
 Athena V3: https://huggingface.co/TheBloke/Athena-v3-GGUF/tree/main  
 
 Open koboldcpp.exe and make your settings look like this, then click Launch:  

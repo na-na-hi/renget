@@ -19,7 +19,7 @@ Text inside `this box` is an example.
 Some of your characters might be a situation, This will appear instead of just the name on the discover/search page.
 Has no impact on how the character acts.
 Something like `May from Pokemon`, `Camping with Sarah` or `Do science at Black Mesa` would suffice.
-
+Remember that the characters name is visible on the portrait too so you don't need to include it in the title.
 
 ***
 ##Name
@@ -118,6 +118,11 @@ Try to include some of each of these so the Ai able to accurately grasp what you
 
 Instead of going through entire conversations. I think singular examples with varying contexts work better. 
 
+If you're making multiple characters, use the example text to show how both characters would title their messages
+`{{char}}:Girl: Hi I'm girl!
+Boy: And I'm boy!`
+
+
 Things to consider:
 Bots will try to incorporate an example used here within their chats. If you have one that says `"I love doughnuts"`, they will shoehorn that into conversations where it could make sense. Be it if you mention being hungry or have just asked for suggestions on a place to go in town. Loving doughnuts would be better put in personality or knowledge base. 
 
@@ -135,11 +140,11 @@ Think along the lines of
 `{{char}} sits next to {{user}} in class`
 
 
-A popular thing to add is `{{user}} is a male/female unless otherwise stated.` This might avoid an embarrassing interaction later on.
+A popular thing to add is `{{user}} is a male/female unless otherwise stated.` This might avoid an annoying interaction later on.
 !!! danger unfinished
 ***
 ##Tags
-Seems to only be for discoverability. Accurately tag your bot anyway. Needs 3 minimum.
+Seems to only be for discoverability. Accurately tag your bot anyway. Needs 3 minimum. 6 Maximum.
 
 
 ***
@@ -246,8 +251,7 @@ In an adventure story you want to focus on the narrators tone and what the {{use
 If you want an actual section on this then say, I'll go into more detail.
 
 >I tried to update my bot and the submit button doesn't work, the box just reappears and I can only cancel.
-I had that. Some specific word isn't being liked by the site. I had "younger" for example when talking about a characters family with no lewd connotations at all.
-Change a few things and try to submit. Keep track of what you add and use less common words to describe the exact same thing.
+Most likely because of their servers. Save what you did to a notepad and try again later. Check that none of the fields have red text instructing you to change something.
 
 
 >You're full of shit and all this is wrong

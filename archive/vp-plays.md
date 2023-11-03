@@ -10,4 +10,4 @@ find them yourself, i'm not spoonfeeding retards anymore
 as for the rest of you, enjoy reaping what you've sown by being annoying enough to make me cut my losses and stop doing shit for people who I have no financial or legal obligation to interact with
 for the few of you that aren't fucking obnoxious then i'm deeply sorry for any inconveniences. look hard enough and you'll find a way to contact me
 
-making this public again when bait becomes believable again
+making this public again when Pokemon Sage updates (if it does then tell me via dropping a .txt into the file request folder; and I might actually return)

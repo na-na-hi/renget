@@ -1396,3 +1396,345 @@
 >so he had the foresight to have that happening 
 >it was heated by a slow fire
 >married life didn't seem too bad
+
+>he offered the bath first and you weren't fighting that
+>the warm water felt cleansing after all this
+>Füchsin presented you the strangest bar of soap
+>smelled of spices
+>well, might as well
+>you cleaned up without much thought
+>a bath was a welcome change 
+>the dirt scrubbed off easily and then you noticed the fox looming over you with a knife raised to the air
+>he laughed when you panicked and floundered out of the tub
+>you weren't becoming soup goddammit
+>"relax relax. I was cutting up breakfast and couldn't resist"
+>you scowled and he kept laughing
+>just what did he get from spooking you?
+>"I get bored. you spend a long time in the woods by yourself and it skews your sense of humor"
+>you eyed him waving around the knife
+>"so next time I'll make sure you aren't naked. deal?"
+>you hadn't even considered there was a difference 
+>he shrugged and went back into the cave grinning
+>the sadist
+>well you didn't want the bath to go to waste and finished cleaning off
+>it felt weird to realize how different everything became after a night
+>while you still didn't exactly completely trust the witch, you were willing to try this
+>he did look good even in the sun
+>so, you'd laid with a beast and a man and a witch
+>you'd made peace with that
+>but longing for something more had made you optimistic 
+>he brought a bowl of gruel out for you and you sat on a tree stump near the tub
+>he'd had the effigies bring clean water for the tub and you watched him bent over the fire, poking it to check the embers
+>"stares like that and yet you spent half the night locked in a wrestling bout…"
+>he shot you a look over his shoulder
+>it was devious, just not murderous
+>you ate the gruel and realized maybe you should have been wary about food he just hands to you
+>but it was energy 
+>and didn't taste too bad
+>could use butter
+>the fox slowly lowered himself into the wooden tub and sighed
+>"I needed this. someone mistook my ass for a fortress door and kept battering it."
+>he wiggled into the tub and laid back
+>he softly laughed
+>"I don't quite know if I'm 'bring home to mother material'"
+>his smile was soft as his arms rested on the tub rim
+>"promise is a promise though," he lifted his paw up to look at his ring finger
+>"we'll get that field as productive as you were last night"
+>he lounged in the tub for a bit while you ate
+>then one of his stickmen came with a long bottle and a brush 
+>"care to help?"
+>you were curious and set down your empty bowl
+>while you had him calm and in your hands you decided to press him for information 
+>what did he mean by becoming human?
+>he explained as you washed his coat that he wasn't always a witch
+>he used to be a plain old familiar working for a witch
+>she decided to curse him with this weird half man life instead of just being an adorable little fox 
+>he wears her skin
+>that made you drop the bar of soap into the tub
+>he just casually says that
+>so… that woman?
+>he let the moment hang there before laughing
+>"I skinned her."
+>then he punched you in the arm
+>"it's a joke. don't need to be so serious all the time"
+>his sense of humor was a little strange 
+>"she had been long dead after I skinned her."
+>you did a double take
+>"I didn't say what part I was joking about. some rival witch did it."
+>you were reevaluating your choices here and he caught that
+>"all the more reason I don't disguise myself around you, right?"
+>his paw stroked your face and you calmed down a little
+>not enough to forget what he said
+>but enough to keep washing him
+>you tied yourself to this 
+>and that had hushed you a little
+>you'd been looking at a dead woman yesterday 
+>just trusting Füchsin didn't seem wise
+>you washed his crimson coat all over
+>when he slapped the soap into the water it was obvious what his intent was
+>you were still floored by his revelation and the flirting felt awkward 
+>maybe he was attempting to lighten the mood
+>but you felt like you'd been gut punched and were recovering from getting the wind knocked out of you
+>now he was purposely moving the soap around the water
+>playing keepaway with a bar of soap was sort of humiliating but he had the good sense to wrap it up as quickly as he started 
+>he grabbed your wrist with his paw and directed your hand down
+>"you have to make sure my coat is its best. that is if you really want me to stay like this."
+>he hand you handling one of his thighs
+>for how small he was it all seemed to be centered on his hip region
+>he encouraged you to squeeze and moaned into your ear when you did
+>"not quite birthing hips but I'm sure you'll test that, right"
+>his distraction was working
+>you did say you were going to tame him
+>so maybe you just had to put more effort in
+>his full luscious read hair was warm against your face
+>at least that part of his "costume" was real
+>he nuzzled up to your bare neck, licking along it
+>you stroked his thigh until something poked your hand
+>you knew what it was and you grasped at it immediately 
+>he giggled into your neck
+>your hand squeezed at the bulb at the base and he arched his back and groaned
+>"naughty~"
+>his little distraction was working now
+>you'd tasted lust before and he knew maybe he could use that to his advantage 
+>he was more dangerous than you originally thought
+>maybe it was because he was an animal becoming a man, of course his morality wouldn't be like yours
+>maybe it really was up to you
+>you'd tame him
+>you sighed as he cuddled up to your neck
+>he stroked your arm in appreciation 
+>"I'll have a new shirt for you. no good having you come home to Mutter half naked."
+>he nipped at your neck for emphasis 
+>you wanted to work out whatever this was
+>you came out and asked if he could deliver on the farm
+>"I wouldn't let my husband down, now would I?"
+>he rubbed his paw under your chin 
+>"your family is going to thrive"
+>"oh wait," he murmured into your neck, "our family."
+>Füchsin panted in your grip
+>he definitely took to companionship 
+>his manhood throbbed in your hand and he couldn't help himself any more
+>your wife decided a slow hand wasn't enough and started thrusting his hips up
+>his cock felt burning hot 
+>he whined as you matched his pace 
+>he grabbed your face and opened his jaws around it
+>he shoved his tongue into your mouth in one of his frenzied kisses
+>he grasped your head in both paws and threatened to drag you into the bath
+>his orgasm hit him hard and he screamed into your mouth as he dirtied the bath water
+>when he pulled his mouth away his fluffy chest was heaving
+>"would your family miss you if I just stole you away?"
+>yes, so he'd better not try it
+>"heh, relax. you are tantalizing but I wouldn't hurt you."
+>he pulled you close and whispered 
+>"you are definitely making the case for me to stay cursed though."
+>he rubbed his forehead into your neck and asked you to finish up
+>you hurried along his body, taking care to clean his chest and tail fluff
+>his hair looked difficult thanks to its volume but you'd manage
+>when he dunked his head you had his shampoo handed to you
+>these effigies were useful, if unsettling
+>you had a little experience taking care of girls before so his hair wasn't too alien
+>you asked if he wanted a braid later and he seemed genuinely touched
+>one clean fox later, you helped him step out of the tub and dry off
+>you brushed his coat after it was dry and he ended up sitting in your lap while you braided his long fiery hair
+>you wanted your wife presentable to you family, even if the circumstances couldn't be stranger
+>you were shocked how politely he sat in front of you while you did his hair
+>it was easy for you by now, with experience you'd gained from raising sisters
+>you reflected on just where that experience had taken you
+>never would have thought it would end up with you here
+>but this was a step in the eight direction 
+>that's what you told yourself 
+>Füchsin was strange and you should have your guard up
+>yet he ended up looking so delicate like this
+>he just trusted you 
+>when his fair locks were braided he relaxed against you briefly 
+>"let's head out. I'm sure we've given them a scare."
+>he pushed himself up out of your lap and went to get himself ready
+>his costume would definitely take some getting used to 
+>so that was a dead woman he was living through
+>God
+>this deal had better be worth it
+>to get your mind off it you asked him some more questions
+>he'd mentioned a rival witch
+>"yeah, master picked a fight with someone she shouldn't have. the crone gave her a heart attack."
+>you skin crawled at the idea something worse lurked out there
+>Füchsin seemed harmless by comparison 
+>the effigies were to tend to the homestead while the fox brought an armful of gifts
+>you initially looked confused but he said he wanted to make a good impression
+>you couldn't meet the eyes of his costume but he did have a point
+>the new shirt he handed you was a little itchy but it wasn't that bad
+>heading back home was much easier when someone wasn't making it difficult 
+>your curiosity got the better of you on your walk and you had to ask
+>was this rival witch nearby? was there a threat?
+>"this was years ago. she probably moved on out of boredom."
+>it didn't exactly ease your fears but he had a point
+>you'd have run into something like that by now if that witch was still local
+>the walk was peaceful 
+>"maybe my master didn't mean to curse me. I mean, I thought being this half thing was one."
+>you walked along and let him continue 
+>"maybe I was just impatient or blind to the benefits."
+>he laughed with that last work
+>leaving little imagination to what benefits he meant
+>"you don't know what being able to just shed this skin around someone means to me. to just be… me. you make me actually want that."
+>he reasoned that maybe it wasn't half life after all
+>that his envy was unfounded
+>the skin wasn't what made one human
+>he realized that now
+>"what makes one human is that 'soul'"
+>this was a surprising 
+>you didn't expect this much depth from him after that display last night
+>"so, worst case scenario I have yours now."
+>that… was a way of looking at it
+>you figured that was another jest and let it be
+>the walk was relaxing but you couldn't lie and say you weren't happy to see home
+>once more a sibling caught sight of you and there was much rejoicing
+>you'd worried them and they'd tried searching close to home but thankfully no one really pushed into the woods yet
+>you would have felt awful if anyone had went and got lost out there for your sake
+>Mutter was a little shocked to see you had company
+>but you perked her up by announcing your engagement 
+>you had to fib a little
+>not an outright lie to say you'd met this "woman" before
+>more stretching the truth than anything
+>Mutter was happy to see you had finally gotten someone
+>before, you'd had issue attracting any marriage material 
+>the land you owned wasn't particularly impressive
+>plus, your family infamy
+>but you'd survived
+>and look at where you'd gotten
+>you'd finally be able to settle down like your parents
+>Mutter hugged you tightly, tears in her eyes
+>Füchsin had set his gift basket on the table and witnessed the family reunion with interest
+>you saw that look on his face
+>well, the old witch face
+>still would take getting used to
+>but thankfully, he wouldn't be wearing it full time
+>trying not to refer to him as him would also a be challenge 
+>you'd just have to play that off if you ever did it
+>not like anyone would expect it
+>you certainly didn't 
+>God worked in strange ways
+>so why not see this as a blessing?
+>his presence was welcomed and not thankfully questioned
+>after that day he was a regular guest on the farm
+>it was hard to keep up the facade he was a human girl
+>it was easier to fall for him though
+>his heart slow grew accustomed to your affection
+>sure enough, he was true to his word
+>the next year's crops came up like weeds
+>stronger and more fertile than ever before
+>with the next harvest came your end of the bargain
+>Füchsin didn't have anyone to walk him down the aisle sadly
+>the ceremony was informal but you felt it necessary 
+>you said your vows before the town priest
+>a lush farm and a beautiful wife
+>you were the talk of the town now
+>every night or every other night you would head to the woods to indulge yourselves 
+>sex before marriage was unwise but you'd already broken so many taboos you'd lost count
+>what was another?
+>you couldn't lie and say you hadn't been corrupted a little
+>and enjoyed the corruption 
+>you just hoped God for forgive you two
+>you refused to fool around with him while he was in disguise 
+>partially for how creepy it was
+>but mostly because you wanted the real him
+>he began learning more about the soul
+>the concept he was chasing
+>the whole reason he pushed to get a man
+>he was hesitant to do church at first but he appreciated your company
+>that and you figured it might help him
+>slowly, you both began to comprise
+>and ultimately that's what a marriage was
+>you had your parent's marriage as a model but they weren't a complete match for obvious reasons
+>with the marriage came Füchsin's property becoming co-owned
+>so those woods were in your name
+>you ended up deciding to leave the family house in the care of your siblings
+>the witch cave was only a short walk into the woods and no one could fault you two lovebirds for wanting privacy
+>you had an idea for a project too
+>with Füchsin's blessing you built an enclosed front onto the cave
+>essentially a wood wall, with a shanty roof over head
+>you made room for a stove in the future, hopefully the profits from the farm would mean that was possible sooner rather than later
+>not pretty but it was within your skillset
+>the effigies helped reduce the time and effort
+>it was starting to look like a real home
+>sort of like that one you saw after you were attacked
+>you always wondered about that and asked him once
+>he didn't want to play his hand too early then and figured something like that would put you at ease
+>doesn't explain why he decided to screw with you but he was strange like that
+>the cave was nice but you wanted to have a roof over your heads
+>it felt right
+>it took a season of building and learning while juggling the farm but you managed something
+>you split your attention between the family and your spouse and you were getting good at it
+>Füchsin was taking to domestic life
+>whereas he originally sought marriage as a solution to his issue, he had grown to enjoy your company
+>he even meant it when he said he loved you
+>though you'd honestly figured he always did
+>maybe living alone in the woods like this had him starved for affection 
+>but it felt like when he said it now it was warmer
+>you had to avoid the subject when Mutter asked about grandkids
+>that would be your brother's responsibility down the line
+>another harvest had come
+>the help Füchsin offered was amazing
+>his craft amplified your own work, experience and knowledge 
+>he swore everything you did helped
+>even offered his own experience with herbs
+>a tiny garden in the woods was different than a wheat harvest but it worked
+>with the growing success finally came a suitor for your oldest sister
+>after speaking with the boy in depth, you gave your blessing 
+>he had a neighboring farm that would become entwined with yours if it all worked out
+>more importantly he sounded honest 
+>the medicine for Mutter worked
+>and the money you saved eventually went into making things in their house easier
+>new cooking pots
+>new shoes for the kids
+>a heap of fresh blankets 
+>it was starting to feel like things were working 
+>the family thought nothing of you two heading off every night to Füchsin's house
+>after all, you needed the independence 
+>another successful harvest meant one other thing
+>your anniversary 
+>the second the door to your home closed Füchsin had stripped the dress and skin
+>both were hung with care
+>the mystery of that skin you chalked up to magic 
+>he was fetching you a snack when you embraced him from behind
+>you hoped God would bless this eventually because this felt right
+>your doubts over the whole thing had faded
+>no matter what happened you would happily live with this
+>Füchsin was your wife
+>and these rings weren't a curse any more
+>you even allowed him into your mind after a fashion, he never pushed the subject though
+>times like this you actually took advantage of it
+>you flooded your head with an ocean of dirty thoughts, knowing he'd see
+>he giggled and grabbed a bottle from a shelf
+>he deftly opened the bottle and clawed fingers shoved two tablets into your mouth
+>then two into his
+>a familiar growing fire burned between you two
+>he was definitely going for potency with this batch of pills
+>the fox nuzzled up to your touch and fed you a slice of cheese over his shoulder 
+>"got to keep your strength up tonight"
+>you both ate like this, standing over his counter/work table
+>you held him tightly and he'd feed you over his shoulder
+>a little awkward but you enjoyed the companionship
+>hard to believe you'd wrestled him away from here and he thought you were a means to an end once
+>both of you had grown to learn things
+>the misery of weathering everything had vanished
+>you woke up happy for the routine because you could see the growth
+>things had gotten better and you could say the fox man gripped I your arms was responsible 
+>you were going to have him take responsibility for something else the second he was done cutting up and giving you an apple
+>you loved his smell
+>that was always the first thing you to greet you in the morning
+>buried in his hair you'd always be aware of it
+>he always smelled of all the plants he worked with 
+>just this earthy blend 
+>always reminded you of your woods
+>when he set down the knife and asked if you were satisfied you reached down and picked him up
+>he was like a plush toy in your grip
+>softer too
+>the care you'd put into his coat was paying off
+>it had a sheen to it
+>since moving the cooking to outside you had enough room for a nicer seat than just the bed
+>you set Füchsin down and sat down in the wooden chair 
+>the sun had set behind the horizon and the cave was getting darker
+>those eyes watched you and you trusted them wholly now
+>"I hope you don't plan on working tomorrow," he replied as he slunk down between your legs
+>his snout pressed up to your aching dick
+>he huffed you through your pants
+>a giggle 
+>guess he liked your smell too

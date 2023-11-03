@@ -13,6 +13,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 !!! warning The ranking is being updated slowly because we noticed a flaw with our methodology. Our scoring system did allow us to discern good models, from decent models, from bad models. However, with better models coming out one after the other, we've noticed that it doesn't allow us to discern very good models from amazing models. With the release of LLaMA-2 and its finetunes, we've decided that we needed to change the way we score models because these are so good that we wouldn't be able to score them fairly using our current scoring system. So while our methodology is being reworked, our current 7B, 13B model, and LoRA recommendations are:
 
 	- 7B:
+	[airoboros-mistral2.2-7b](https://huggingface.co/teknium/airoboros-mistral2.2-7b) <- AliCat's new favorite 7B model, good all-rounder. Since it's a mistral model, it also feels refreshing.
 	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
 	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
 	- 13B:

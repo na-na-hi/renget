@@ -7,8 +7,8 @@
 ## Hololive Shop
 |||
 |-----|-----|
-[![hololive English -Advent- Horror Voice Drama "The Manor"](https://files.catbox.moe/q0jaal.png)](https://shop.hololivepro.com/en/products/hololiveen_advent_horrorvoicedrama)|[![Starting Voice](https://files.catbox.moe/n23m9f.png)](https://shop.hololivepro.com/en/products/starting-voice-nerissa-ravencroft)
-[![hololive English -Advent- Debut Celebration](https://files.catbox.moe/jxq0s8.jpg)](https://shop.hololivepro.com/en/products/hololiveen_advent_debut)
+[![hololive Sports Festival Voice Pack](https://files.catbox.moe/ld13tm.webp)](https://shop.hololivepro.com/en/products/hololive_sportsfestival_voicepack?variant=44163472916700)|[![hololive English -Advent- Horror Voice Drama "The Manor"](https://files.catbox.moe/q0jaal.png)](https://shop.hololivepro.com/en/products/hololiveen_advent_horrorvoicedrama)|
+[![Starting Voice](https://files.catbox.moe/n23m9f.png)](https://shop.hololivepro.com/en/products/starting-voice-nerissa-ravencroft)|[![hololive English -Advent- Debut Celebration](https://files.catbox.moe/jxq0s8.jpg)](https://shop.hololivepro.com/en/products/hololiveen_advent_debut)
 
 
 ## Other

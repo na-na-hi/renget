@@ -113,7 +113,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Crystal Shard | A small, sharp shard of crystal.
-2. Empty | None
+2. TM135 Flash | A TM containing the Move Flash.
 3. Empty | None
 4. Empty | None
 

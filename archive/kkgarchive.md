@@ -1,25 +1,24 @@
 ## /kkg/ Thread Archive
 
 !!! note 
-    **Live - [boards.4chan.org/h/thread/7637831/](https://boards.4chan.org/h/thread/7637831/)**&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;#&nbsp;Photoshop time Edition
+    **Live - [boards.4chan.org/h/thread/7641843/](https://boards.4chan.org/h/thread/7641843/)**&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
 
 **Latest**
+- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
 - 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Photoshop time Edition
 - 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
 - 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[888]&nbsp;#&nbsp;Let me fucking sleep Edition
 - 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[1002]&nbsp;#&nbsp;Learning to swim Edition!
-- 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
-- 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
-
 &nbsp;
 
 ---
 
 ## ->2023<-
 
+- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
 - 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Photoshop time Edition
 - 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
 - 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[888]&nbsp;#&nbsp;Let me fucking sleep Edition

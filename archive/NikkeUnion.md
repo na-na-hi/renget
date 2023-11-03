@@ -1,18 +1,16 @@
 #Unions
 
-  -> ![looks cleaner now](https://i.imgur.com/bPa8GB1.png) <- 
-
-**Last updated: 26/10/23: Stragglers Edition**
+**Last updated: 02/11/23: Dead Hood Edition**
 
 ***
 
 ##Server: NA
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
-| NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
+| NIKG     | ==**6459**==  | 6     | 31/32   | HELIOS   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
-| CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
+| CUNNYWOW | ==**4496**==  | 6     | 31/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 31/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
@@ -22,7 +20,7 @@
 | P愛ZURI   | ==**4983**==  | 6     | 30/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
-| POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
+| POLIPETS | ==**18170**== | 4    | 31/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -38,7 +36,7 @@
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 30/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 2 | 15/20 | CUNNYGOD | PERMISSION | for newcuties |
+| KUNNYHUB | ==**29940**== | 2 | 20/25 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

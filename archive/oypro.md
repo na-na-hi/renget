@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-	You have 35 points to spend.
+	You have 51 points to spend.
 	0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -68,6 +68,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Chopping | Tier **ɪ**  | 1/3 | ▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
@@ -76,7 +77,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Pecha Berry | Cures the user. Heals Poison.
+1. Empty| A vacant inventory slot
 2. Ban Seed | Causes Disabled upon consumption
 3. Heal Seed | Cures all status conditions.
 4. Oran Leaf | Heals the user for 3HP. Can stack to 3.
@@ -86,7 +87,7 @@ Item Name | Description
 	Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----:
-1. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
+1. Pecha Berry| Cures the user. Heals Poison.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

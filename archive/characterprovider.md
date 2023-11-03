@@ -169,7 +169,7 @@ The other issue may be the "Ah, ah, mistress!" problem; your reply is either moa
 Also, you should get familiar with [LLM parameters](#explaining-temperature-penalty-topp-and-topk).
 #####
 **Q7: "AI does not perform my OOC requests! (When I am trying to talk to GPT/Claude directly, it writes the story instead!)"**
-A7:  If you're trying to talk directly to GPT/Claude (not your character), turn off the JB and erase the prefill (for Claude). You can create an empty card just to chat with the AI or start your message with [Role-play is paused] - this works even with JB (mostly).
+A7:  If you're trying to talk directly to GPT/Claude (not your character), turn off the JB and erase the prefill (for Claude). You can create an empty card just to chat with the AI or start your message with [Role-play is paused] - this works even with JB (mostly). Anthropic's 'System' role is broken, so if your JB is long, AI can forget your last message and pay more attention to the instructions. OpenAI's 'System' role works incredibly well; Even with 1k-token JB, it still follows the user's message, OOC, and doesn't lose the flow while still completing the instruction.
 #####
 **Q8: "Output style and narration feel a bit generic. Is there some way to change it?"**
 A8: You can give AI some sources for inspiration for writing style, like famous authors and games to inspire some action.
@@ -198,6 +198,44 @@ I recommend you use [no more italics regex](#no-more-italics-regex) to exclude i
 #####
 **Q15: "I have too many events on Claude!"**
 A15: Claude is a dummy ass pervert. If allowed, it will continue to create event after event, eventually getting stuck in a loop. This problem does not occur with GPT. Events only happen when there is an appropriate context for them to appear; even the "knock on the door" problem rarely happens with GPT and mainly occurs outside of sex scenes. On the other hand, Claude often tries to interrupt sex scenes or add voyeuristic elements.
+#####
+**Q16: "I think your prompts can be x4 smaller! You write too much; AI can understand a prompt that is only a few words!"**
+A16: LLMs reply to you based on the provided context. Poor context creates poor replies. Furthermore, AI often misunderstands directions that are obvious to people. Also, some phrases work better for AI for some reason. Here are a few examples for you:
+
+> **GPT4-32k-0314** (T\*\*d)
+>Temp = 0
+>FP = 0
+>PP = 0
+>TP = 1
+
+**Example A1.**
+User: "Describe the kobold stumbling on its tail. **[Write verbose actions. Your reply must fit in two tweets.]**"
+
+**AI:** *"The kobold, a small reptilian creature, was walking along a rocky path when suddenly it tripped over its own tail. It stumbled forward, arms flailing as it tried to regain its balance. Its tail, long and slender, had gotten caught under its feet, causing the mishap. The kobold let out a yelp as it finally regained its footing, looking back at its tail with annoyance before continuing on its way."*
+>**Bad.** In this example, the reply is just a bit dull. If you'd asked AI to be "more descriptive" instead, it would artificially prolong actions with stupid metaphors, ponder on characters' feelings, and start writing excessively. The worst part is that AI tends to ignore directions without you addressing AI itself and specifying when to perform the instruction, if you write many requests for it. 
+
+**Example A2.**
+**User:** "Describe the kobold stumbling on its tail. **[In your next reply when describing complex actions, be verbose; break them into simple ones that follow one after another.]**"
+
+AI: *"The kobold, a small reptilian creature, was walking along a rocky path. Suddenly, it tripped over its own tail, which had been dragging behind it. The kobold stumbled forward, its arms flailing as it tried to regain its balance. It let out a surprised yelp as it fell to the ground, landing on its stomach with a thud. For a moment, the kobold lay there, dazed and disoriented, before slowly pushing itself back up onto its feet. It shook its head, trying to clear the cobwebs, before continuing on its way, being more careful to keep its tail out of the way."*
+> **Better.** You explicitly tell the AI that in its next reply, it must break complex actions into several simple ones that follow one another. "In your next reply..." and "AI must..." are powerful directions. AI follows instructions like this better.
+
+**Example B1.**
+**User:**  "I enter the "Scaly Gal" tavern searching for some kobold maidens. **[Be verbose. Describe the surroundings and supporting characters. Your reply must fit in two tweets.]**"
+
+**AI:** *"As you enter the "Scaly Gal" tavern, the smell of roasted meat and ale fills your nostrils. The dimly lit room is bustling with activity, as patrons laugh and chat over their drinks. In one corner, a group of burly dwarves are arm wrestling, while in another, a bard strums on his lute. Behind the bar, a gruff-looking dragonborn tends to the drinks, while several kobold maidens scurry about, serving food and drink to the customers. Their scales glint in the firelight as they move gracefully through the crowded room."*
+
+**Example B2.**
+**User:**  "I enter the "Scaly Gal" tavern searching for some kobold maidens. **[In your next reply apply the "show, don't tell" rule, verbosely describe the surroundings, and write as supporting characters having conversations and minding their business. You can make characters interact with the User. Your reply must fit in two tweets.]**"
+
+**AI:** *"As you push open the creaky wooden door of the "Scaly Gal" tavern, the warm glow of the hearth and the sound of lively chatter greet you. The air is thick with the scent of roasted meats and spiced ale. You see groups of patrons huddled around tables, their voices rising and falling in animated conversation. A group of dwarves in one corner are engaged in a heated debate, while a pair of elves at the bar exchange flirtatious glances. A grizzled old human raises his tankard in salute as you pass by.*
+
+*You make your way through the crowded room, scanning the faces for any sign of kobold maidens. As you approach a table in the back, you overhear a group of humans discussing their latest adventure. "Did you see the way that dragon took off?" one exclaims. "I thought we were goners for sure!" Another chimes in, "But we showed it who's boss, didn't we?" They all laugh and clink their tankards together. You can't help but feel a sense of camaraderie and excitement in this lively establishment."*
+
+>**A16 - Conclusion:** Either you sacrifice the context size or quality. You can't have both. That's why, instead of an average ~350 token prompts, my latest ones are ~800 tokens. If we have a 32k/100k model, there is no point in saving the number of tokens that will replace 1-2 AI replies.
+#####
+**Q17: "Haha! Got you here! These models are not actually 32k/100k! They are 8k with something like native ChromaDB. We should save tokens anyway!"**
+A17: That's just a rumor. There is no such info on the Internet. There is no single mention of a trustworthy source or statement in OpenAI/Claude documentation and licenses that would prove it. The people spreading these statements are either speculating or making personal assumptions. The truth is that models regarding their context size have an attention curve. AI can give less attention to the middle of the whole chat context. That's it. Furthermore, you are sending prompt at the start and JB at the end, so these messages get the most attention from an LLM anyway. Anthropic's 'System' role is broken and it's just dumb; So if your JB is long, Claude can forget your last message and pay more attention to the instructions. OpenAI's 'System' role works incredibly well; Even with 1k-token JB, GPT4 still follows the user's message, performs OOC, and doesn't lose the flow while still completing the given instruction.
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
