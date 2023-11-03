@@ -31,7 +31,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Aqua Tail | 9BP | 7AP | ≥5 | Water | Physical | No secondary effect. (Training Tier ɪ)
+Aqua Tail | 9BP | 7AP | ≥3 *Trained* | Water | Physical | No secondary effect. 
 Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with Poison.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -45,11 +45,11 @@ Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 15 points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 6 points to spend.
+    3/10 IP | ▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Sales Pitch | The User can sell Items for 10% more in shops.	| 40 IQ	| 3 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -64,6 +64,7 @@ Battle Attribute: EXAMPLE  | N/A
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
+Training for Attribute: Sea Snake | Tier **ɪ** | 1/3 | ▮▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description
@@ -72,7 +73,7 @@ Item Name | Description
 *Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Warp Seed | Random teleport seed.
 2. Fog Orb | Makes the weather Foggy.
-3. Caramel Apple | +20 IQ
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

@@ -1,5 +1,9 @@
 ▶NEW CLIPS
->2 leopards a stryker and 2 m113s abandoned
+>KA-52s blanket hohol positions with S-13 NARs
+https://files.catbox.moe/i4sogo.mp4
+>1st TA ZVO assaults hohol lines towards Kupyansk
+https://files.catbox.moe/ykfam9.mp4
+>hit on 2 leopards a BTR-4E and 2 m113s
 https://files.catbox.moe/jlokug.mp4
 >Pacific marines attack hohol lines towards hohol lines with ATGMs
 https://files.catbox.moe/j33obd.mp4

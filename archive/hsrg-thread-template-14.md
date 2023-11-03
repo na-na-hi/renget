@@ -2,14 +2,19 @@
 
 Previous: 
 
-\>Version 1.5 Special Program live on November 3, 19:30 (CST+8), 11:30 (GMT+0), 7:30 (EDT-4)
-https://www.twitch.tv/honkaistarrail/schedule
+\>Version 1.5 "The Crepuscule Zone" Special Program 
+https://www.youtube.com/watch?v=JTCDc7InXNU
+https://www.youtube.com/watch?v=E61Q_yx885A
 
 \>Download
 https://hsr.hoyoverse.com/en-us/home
 
 \>1.4 Summary
 https://www.hoyolab.com/article/21972419
+
+\>Version 1.5 Trailer - "The Crepuscule Zone" 
+https://www.youtube.com/watch?v=w1utY0z9g00
+https://www.youtube.com/watch?v=qVY5qmQVrMo
 
 \>Topaz & Numby Trailer — "Expert Tutorial"
 https://www.youtube.com/watch?v=Vf8xtB9k9Ws
@@ -18,10 +23,6 @@ https://www.youtube.com/watch?v=KHyXcRTNhCc
 \>Myriad Celestia Trailer — "Interastral Peace Tour: Selection, Planning, and Opportunity"
 https://www.youtube.com/watch?v=2f2qB_gw8b8
 https://www.youtube.com/watch?v=lsS5OnN6On0
-
-\>Aim to Be an Aetherium Wars Champion! | Honkai: Star Rail
-https://www.youtube.com/watch?v=FB301BsJoik
-https://www.youtube.com/watch?v=kFm0gfIlTyg
 
 \>Current Character Banner (Sunset Clause, Butterfly on Swordtip || Topaz, Seele + Guinaifen, Luka, Sushang)
 https://www.hoyolab.com/article/22556268
@@ -45,12 +46,13 @@ https://hsr.hoyoverse.com/gift
 KBQBEP3L8823 
 5S6ZHRWTDNJB
 STARRAILGIFT
+\>NEW LIVESTREAM CODES, EXPIRES IN 36 HOURS
+JB9BE7K5RQY3
+HT8BX7JK89Z7
+6B9BFPK58Q3T
 
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14
-
-\>Frequently Asked Questions
-https://rentry.org/hsrfaq
 
 \>/hsrg/ Friend list
 https://pastebin.com/Q52YwBAt

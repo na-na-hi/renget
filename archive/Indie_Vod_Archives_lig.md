@@ -90,6 +90,10 @@ Content|Link|Description
 -------|-------|------- 
 Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_SVQRtJpbCUpoEdw4G5xi9) | Incomplete archive, these are vods another anon posted on mega i just reuploaded these for archivals sake.
 
+##[Grimmi](https://www.twitch.tv/grimmivt)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share. If you need newer Vods that got muted or something feel free to request them using the mail below as long as they are safe to share. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system.
 
 ---
 ##[Nyanners](https://www.twitch.tv/Nyanners)
@@ -152,4 +156,3 @@ Content|Link|Description
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
 Email|[Link]()| Psobb1302@gmail.com
-Discord|[Link]()| Earthes1302
