@@ -41,6 +41,13 @@ What is featured on this recommendation list was her longest stream at the time 
 |------|-----|-----|
 | 2021-12-18 | 【Minecraft】berry lovers only | [![](https://files.catbox.moe/33noiv.jpg)](https://youtu.be/pTmR-A7NXbY)
 
+######Needy Streamer Overload (Mumei's [own recommendation](https://www.youtube.com/watch?v=ZGhUW8FEFyY&t=10061))
+->[Go back to the TOC](https://rentry.org/cgy92)->
+The first real taste of how much of a brat and a towl (portmanteau of **T**oxic and **Owl** first coined by IRyS) she can be during streams. Aside from NSO she also recommended her [rant streams](https://rentry.org/cgy92/#mumei-zatsudan-rants) for more toxicity.
+| Date | Title | Link & Thumbnail |
+|------|-----|-----|
+|2022-02-02|  【NEEDY STREAMER OVERLOAD】I can fix her | [![](https://files.catbox.moe/7104ed.jpg)](https://www.youtube.com/watch?v=z0SNjfTsABA)|
+
 ######Jump King
 ->[Go back to the TOC](https://rentry.org/cgy92)->
 Previous longest stream (title taken by [PKM Violet Shiny Hunt](https://www.youtube.com/watch?v=PHeWJNBIFbY) in Dec 22), clocking at 6:13:43. The other reasons why the stream is featured in the rentry are the VChat interactions with Bae and Kronii and the last 30 minutes of perseverance on Mumei's part to get done with her in-game objectives.

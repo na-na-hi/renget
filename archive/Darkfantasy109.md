@@ -13,9 +13,9 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
 
-!!! danger CURRENT STATUS
-	->**HIATUS**<-
-    ->Will come back when I'm feeling randy again.<-
+!!! warning CURRENT STATUS
+	->**SEMI-HIATUS**<-
+    ->Mostly gone, but I may pop back here and then. I'll come back when I'm feeling randy again.<-
 	->If you wanna talk, or request something regardless, hit up my burner: darkfantasy109@proton.me<-
 **Table of Contents**
 [TOC2]
@@ -135,6 +135,7 @@ Image| Name | Description | Link
 ![Cowboys LOVE big throbbing cocks!](https://files.catbox.moe/xze034.png) | RAM RANCH | 18 NAKED COWBOYS IN THE SHOWERS AT RAM RANCH. RAM RANCH REALLY ROCKS! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ram-ranch)
 ![Meow meow meow meow](https://files.catbox.moe/r6ebuo.png) | Cat Grill Cafe | A "grill cafe" ran entirely by cats. Made for the /aicg/ cat girl cafe prompt jam. Silly and good for group chats. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/cat-grill-cafe)
 ![No more proxies... owari da.](https://files.catbox.moe/2avosg.png) | /aicg/-tan | No description necessary. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/a45b9752-e21a-417b-ae03-38ef4b25b44a)
+![WHAT A SPOOKY LOAD OF BONES THIS RENTRY IS! NYAKAKAKAKA](https://files.catbox.moe/u8ebud.png) | 1000 SKELETON ARMY| RATTLE ME BONES! Just a bunch of boners if you want an army of skeletons to spruce up your roleplay.| [CHUB link](https://www.chub.ai/characters/darkfantasy109/one-thousand-skeleton-army-ced57d10)
 
 ***
 ##->PROMPTS<-

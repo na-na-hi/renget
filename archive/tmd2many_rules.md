@@ -109,6 +109,8 @@ Once an IQ Skill is acquired, there are several things to take note of.
 
 IQ items can be consumed in a special way at locations that offer drink or food services. They can mix your item into a smoothie, amplifying its effects and powers!
 - Once turned into drink form, you gain +1d6 or +1d10 (matching type bonus) to its rewarded IQ amount.
+- Drinks can be shared. However, this affects the reward amount. 
+	- The item's base value is divided between each drinker, accounting for matching type bonuses. The corresponding dice bonus is rolled by the original item's owner and is also divided between each drinker.
 
 ### Team Badges
 *Rank requirements may be found [here](https://rentry.co/tmd2many_characters#badge-ranks).*
@@ -798,19 +800,29 @@ A Character can *still use a Move if they do not have the proper amount of AP to
 
 *Although a Pokémon may still use a Move with an AP cost higher than their Max AP, some Moves with higher AP Costs will suffer an Accuracy penalty when used by someone who isn't well-equipped to handle them.*
 
-AP Cost | Untrained | Training Tier **ɪ** | Training Tier **ɪɪ** | Training Tier **ɪɪɪ** 
---- | - | - | - | - 
-4 AP | No Penalty | No Penalty | No Penalty | No Penalty
-5 AP | No Penalty | No Penalty | No Penalty | No Penalty
-6 AP | -2/20 Accuracy | No Penalty | No Penalty | No Penalty
-7 AP | -4/20 Accuracy | -2/20 Accuracy | No Penalty | No Penalty
-8 AP | -6/20 Accuracy | -4/20 Accuracy | -2/20 Accuracy | No Penalty
+AP Cost | Untrained | Training Requirement
+--- | - | - 
+4 AP | No Penalty | Unnecessary. 
+5 AP | No Penalty | Unnecessary. 
+6 AP | -2/20 Accuracy | 3 Training Sessions ▯▯▯
+7 AP | -4/20 Accuracy | 4 Training Sessions ▯▯▯▯
+8 AP | -6/20 Accuracy | 5 Training Sessions ▯▯▯▯▯
 
 If a Move is Trained to be used in spite it's AP, the AP cost may be changed to: '{AP cost} (*ᴛʀᴀɪɴᴇᴅ*)'. Trained Moves can be used at their original value, but if the Character lacks the necessary AP, they can still use it at the expense of all they have.
 
-Requirement: 3 Training Sessions ▯▯▯
+Name | Base Power | Action Points | Accuracy | Type | Property | Description
+--- | -- | - | - | - | - | ---------
+Basic Attack | 8BP | 8AP (*ᴛʀᴀɪɴᴇᴅ*) | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Trained Move: Basic Attack | ᴛʀᴀɪɴᴇᴅ | Trained, it's the simplest Move a Pokémon can use.
+
 ᴏʀ
-Requirement: 4 Training Sessions ▯▯▯▯
+
+Training | Tier Bonus | Progress (Numerical) | Progress Bar
+------ | :----: | :----: | :----:
+Trained Move: Basic Attack | ᴛʀᴀɪɴᴇᴅ | 5/5 | ▮▮▮▮▮
 
 ### Learning or Relearning Moves
 

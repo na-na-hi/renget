@@ -61,10 +61,6 @@
 - Superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available on leading file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/sittingonclouds.net/)
 
-### 🔗 [Slav Art](https://slavart.gamesdrive.net/)
-- Download bot for Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL, and SoundCloud in FLAC format.
-- [URL Safety Results](https://www.urlvoid.com/scan/slavart.gamesdrive.net/)
-
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
 - Wonderful and trustworthy site to acquire Asian music, mostly utilizing the Mega file host.
 - [URL Safety Results](https://www.urlvoid.com/scan/sukidesuost.info/)

@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Crappy Crinkly Coexistence](https://archiveofourown.org/works/51310813)* | Haato, Haachama | choco, ringo |
 | *[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub)* | Fauna | smell, brap |
 | *[Who is the Best at the Changing the Reaper?](https://archiveofourown.org/works/51092140)* | Calli, Kiara, Fauna, Shiori | choco, ringo |
 | *[The World's Pudgiest, Poopiest Idol](https://archiveofourown.org/works/50272087)* | Haato | brap, choco |

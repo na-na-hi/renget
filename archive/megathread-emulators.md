@@ -197,7 +197,7 @@
 - Good multi-platform emulator also supporting Naomi, Naomi 2, and Atomiswave.
 - [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
-### 🐐 [Kega Fusion](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • All consoles **released before** Sega Saturn
+### 🐐 [Kega Fusion](https://www.carpeludum.com/kega-fusion/) • All consoles **released before** Sega Saturn
 - A tremendous amount of emphasis on precision, highly optimized, and functions very well.
 - [URL Safety Results](https://www.urlvoid.com/scan/carpeludum.com/)
 
@@ -268,10 +268,6 @@
 ### 🔗 [Myrient](https://myrient.erista.me/)
 - Structured and accessible 200TB video game collection.
 - [URL Safety Results](https://www.urlvoid.com/scan/myrient.erista.me/)
-
-### 🔗 [NesGM](https://nesgm.net/) • Spanish UI
-- ROMs for the Nintendo Switch and other platforms are the main focus.
-- [URL Safety Results](https://www.urlvoid.com/scan/nesgm.net/)
 
 ### 🔗 [nsw2u](https://nsw2u.com/)
 - Number of Switch ROMs that you can effortlessly and securely download.

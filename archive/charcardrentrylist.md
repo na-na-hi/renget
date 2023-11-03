@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Avery](https://files.catbox.moe/hh25l1.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Hal](https://files.catbox.moe/zwt85g.png)|
@@ -26,10 +28,9 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[The Siren](https://files.catbox.moe/7itjx6.png), [Corotha](https://files.catbox.moe/n13g0s.png), [Akemi Tetsu](https://files.catbox.moe/wkbfmy.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Naomi](https://files.catbox.moe/sxapqw.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Leondra](https://files.catbox.moe/s8kcaj.png)|[Leondra](https://files.catbox.moe/s8kcaj.png) [MV]
-[Luneose](https://rentry.org/luneose) | Misc |[Belphie](https://files.catbox.moe/gkfr8s.png)|[Belphie](https://files.catbox.moe/gkfr8s.png) [MV]
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[Vegeta](https://files.catbox.moe/3ozofx.png), [Son Goku (Youth)](https://files.catbox.moe/1cpbv5.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Hitch](https://files.catbox.moe/q8hs4g.png)|
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
+[Luneose](https://rentry.org/luneose) | Misc ||[Belphie](https://files.catbox.moe/gkfr8s.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
@@ -39,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||

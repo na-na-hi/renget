@@ -65,10 +65,6 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
-### 🔗 [TvSeriesnMovies](https://www.tvseriesnmovies.com/)
-- List of TV series and movies with direct links and several mirror sites that allow you to download entire seasons.
-- [URL Safety Results](https://www.urlvoid.com/scan/tvseriesnmovies.com/)
-
 ### 🔗 [UHDMovies](https://uhdmovies.vip/)
 - Using some of the greatest file servers, you can download a tonne of excellent movies and TV series at dizzying speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/uhdmovies.vip/)
@@ -146,7 +142,7 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/hdtoday.ru/)
 
 ### ▶️ [HiMovies](https://himovies.sx/)
-- Users may find a large range of new films and web series on the website, most of them are in high definition quality.
+- Users may find a large range of new films and weseries on the website, most of them are in high definition quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/himovies.sx/)
 
 ### ▶️ [Hurawatch](https://hurawatch.cc/)
@@ -173,13 +169,17 @@
 - All of the most current movies and well-known oldies are included in its enormous content catalog.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieroom.is/)
 
-### ▶️ [MovieUniverse](https://movieuniverse.se/)
-- Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
-- [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)
+### ▶️ [Movie World](https://movieworld.pl/)
+- Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.ega
+- [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
 
 ### 🐐 [movie-web](https://movie-web.app/)
 - The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web.
 - [URL Safety Results](https://www.urlvoid.com/scan/movie-web.app/)
+
+### ▶️ [MovieUniverse](https://movieuniverse.se/)
+- Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
+- [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)
 
 ### ▶️ [MyFlixer](https://myflixerz.to/) / [2](https://myflixer.today/) / [3](https://myflixertv.to/) / [4](https://myflixer.it/) / [5](https://myflixer.pw/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
@@ -204,10 +204,6 @@
 ### 🐐 [Seez](https://seez.su/)
 - Keep track of, explore, and stream all of your movies and TV shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/seez.su/)
-
-### ▶️ [SeriesOnline](https://seriesonline.gg/)
-- Users may watch movies and TV episodes in great quality on this ad-free platform and is even superior to paid websites.
-- [URL Safety Results](https://www.urlvoid.com/scan/seriesonline.gg/)
 
 ### 🐐 [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
@@ -248,10 +244,6 @@
 ### 🐐 [UpMovies](https://upmovies.to/)
 - Experience the joy of free HD streaming for lesser-known movies and TV shows online, without the hassle.
 - [URL Safety Results](https://www.urlvoid.com/scan/upmovies.to/)
-
-### 🐐 [Watch A Movie](https://watcha.movie/)
-- Ultimate movie streaming website, offering lightning-fast streaming servers of accessibility.
-- [URL Safety Results](https://www.urlvoid.com/scan/watcha.movie/)
 
 ### ▶️ [WatchSeries](https://watchseries.im/) / [2](https://watchserieshd.live/)
 - Get free HD streaming of movies and TV shows online. There is no need to register or subscribe. Get rid of your boredom and stress.

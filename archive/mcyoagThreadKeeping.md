@@ -98,6 +98,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90738598
 >Chenrezig Bodhisattva, didn’t read the Bodhisattva Precepts
 >>90743192
+>Fen Jiange, looks suspiciously like Wen Lifen
+>>90803915
 
 ```
 ***
@@ -152,11 +154,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca)
-https://rentry.org/6t4giv
+MHA is recharging.
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
-archive.4plebs.org/tg/thread/90676737/
+archive.4plebs.org/tg/thread/90806343/
 
 >CHARACTER PROMPTS (Feel free to answer these or don’t idk)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp

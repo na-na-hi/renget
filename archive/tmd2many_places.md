@@ -13,6 +13,7 @@ Listed below are all the non-player characters not significant enough to have a 
 Group/Name | Pokémon | Description
 :----: | :----: | ---- 
 Team Rangers | Mudkip and Pikachu | A strange duo hailing from the Air Continent, they are an independent rescue team operating near the area of Pokémon Square.
+Team Stainless | Rookidee and Tinkatink | A duo of newbie explorers from the Globetrotter's guild. They're little, but they always give it their all! They currently reside in Baram Town, where their mentor, Kleavor, is.
 
 ***
 ## Important Locations
