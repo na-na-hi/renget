@@ -21,7 +21,7 @@ Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation

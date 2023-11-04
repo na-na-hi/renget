@@ -1,4 +1,4 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ Egypt Anon, Burgerbaker wants to share the edit code thanks. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ORIGINAL CLIPS HERE: https://rentry.org/daeq2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -474,3 +474,7 @@ https://files.catbox.moe/ri0kd5.mp4
 https://files.catbox.moe/hrclud.mp4
 >More Hez hype, Yallah, let's go you yellow and green niggers (ADDED NOV 2d)
 https://files.catbox.moe/kie2jf.MP4
+>HamasCHADS engage vehicles and infantry: (ADDED NOV 3d)
+https://files.catbox.moe/dzvmip.mp4
+>Journalist removes press vest, "These don't protect us at all" after a colleague and his family are martyred:  (ADDED NOV 3d)
+https://files.catbox.moe/sa9nid.mp4

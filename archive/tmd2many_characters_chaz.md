@@ -50,7 +50,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 5 IQ points to spend.
+    You have 15 IQ points to spend.
     5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
@@ -85,7 +85,7 @@ Item Name | Description
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. ~~Oran Berry~~ | ~~Heals the user for 10HP.~~
 3. Bread | Food item.
-4. Orange Candy | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
+4. None | Empty.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

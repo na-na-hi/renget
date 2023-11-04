@@ -1,5 +1,5 @@
 # Writefag anon's Holoctober written prompts version
-## Currently catching up, will be caught up before October is over.
+## Currently catching up
 ***
 [TOC2]
 
@@ -1337,3 +1337,93 @@ Rentry for past days: https://rentry.org/sggoi
 >Her face beams with delight.
 >"Ehehe thank you Anon, I really tried hard for you!"
 >Feeling a little guilty, you take another bite, trying your best to hide the fact that you can't handle just how sweet it is.
+
+***
+
+## Day 27 - Onsen Shiori
+
+>You're welcomed by a young lady who's face is obscured by a mask
+>The hot spring has a rather welcoming vibe
+>You enter a room and begin to undress, wearing just a towel. Afterwards, you head towards the hot spring.
+>As you sit in the hot spring to relax, you feel the first instance of dread, that something is terribly wrong.
+>At the corner of your eye, you swear you could see the hot spring begin to turn black, almost like ink
+>However, as you blink, the murky black ink had all but faded, as if it were only a trick of the mind.
+>You begin to worry, thinking that the water is contaminated.
+>You try to stand, but you can't, as if all the strength in your body had left you.
+>Gripped by some unknown feeling, you try to call out for help, but no sound escapes your mouth.
+>Is this what fear felt like?
+>The friendly young lady that had welcomed you previously, slowly approaches you, her mask still on.
+>She removes the mask, and you see it
+>A black void in place of a face, there were no defining features that one would call 'a face'.
+>However, the black void suddenly gained two golden spheres that resembled eyes, they stared into your very soul.
+>Following the eyes, rows of white knives appeared to resemble a mouth, grinning at you.
+>The black void was looking to consume you, as the young lady got closer to you, while you were unable to move or make a sound.
+>Finally, a scream comes out of your mouth, and you find yourself back to what you perceive as 'reality'
+>The girl is no where to be seen, you're able to move your limbs once again, you can make sounds once more with your mouth.
+>Feeling a sense of urgency, you stand up and head back inside
+>Ignoring the fact that you're still wet, you put on your clothes in a rush.
+>That's when the second instance of dread had began.
+>As you try to open the door to exit the room, you find that it is jammed tight, it will not budge.
+>You try to slam the door with your fist, demanding for help
+>That's when the liquid begins to drip onto you
+>The same viscous, black, murky ink-like liquid that you had seen in the hot spring.
+>It drips onto your shoulder, and begins to burn, as if it were acidic
+>The intense feeling of being burnt makes you recoil from the door and you gaze up at the ceiling in horror
+>Black ink had coated the ceiling, and a face that looked as if it were carrying intense sadness was drawn within the ink.
+>You begin to hear intense groaning coming from the face, as if it were in some kind of pain
+>More black ink drips down, you do your best to avoid it, running back out to the hot spring
+>However, the water that made up the hot spring had all been replaced
+>Jet black ink now flowed through
+>Your foot steps in, unaware at first, and instantly you pull back.
+>Your foot has all but evaporated in an instant, seared clean off.
+>The pain makes you scream out, unable to withold tears as you cried out in agony
+>Then you hear it.
+>A giant splash behind you.
+>Unable to handle much more, you begin to laugh a little, as if the first signs of insanity were taking hold
+>You turn and see that the black ink from the ceiling had dropped onto the floor, transforming together into a black slime-like creature.
+>You could hear its intense groans of pain, and then, it spoke.
+>"Fooood...at last..."
+>Food? Was it referring to you? Were you that slime creature's meal?
+>The black ink slime suddenly jumped at you, and you scream in terror, shielding your head with your arms.
+>And just as it had begun, so too had it suddenly ended.
+>You're back in the room, dressed fully once again.
+>The young masked lady opens the door and speaks to you in a gentle voice.
+>"Dear customer, are you alright? I heard a loud scream earlier."
+>You shudder in fear from the sound of her voice, and you ask her to remove her mask
+>Confused about what there is to be afraid of, she willingly complies, and removes her mask.
+>Fiery golden eyes, with a sense of what almost looked like pure chaos, gazed into you, however the black abyssal void that you thought would take her face, was not present.
+>She just looked like a typical girl with a unique pair of eyes and a gentle smile.
+>She tilts her head and asks you once more
+>"Dear customer, are you alright?"
+>You begin to laugh again slightly, the insanity of the prior hallucinations are now hitting you, but you stop yourself mid way and simply nod.
+>The final instance of dread began as soon as you had nodded
+>A wicked smile appears on the girl's face, and suddenly you find yourself frozen in place
+>The girl slowly walks up to you, with you unable to move at all
+>She gently rests her hands on your chest and the words that leave her mouth are simple, yet instill you with fear
+>"That's good, but since it's getting late, you should rest here for the night."
+
+*** 
+
+## Day 28 - Glasses Shiori
+
+>Shiori tries on different glasses, while gazing at a mirror, trying to see what fits her style best.
+>There are multiple pairs, each with a different frame, and different lens.
+>She's playfully humming while she tries them on
+>Finally she decides on a pair of glasses, thinking that they look great.
+>Checking herself out in the mirror, she lets out another satisfied hum.
+>Turning around to show you, she asks: "Hey, tell me honestly, how's it look?"
+>You look at her for a little, thinking heavily on her appearance.
+>A small smile appears as you curve your lips upwards, then you lean over to her.
+>"I think this looks better."
+>You gently take off her glasses, her face now showing fully
+>She blushes a little, taking back the glasses and facing away from you, you could see the tinge of red even in her ears.
+>"Th-thank you Anon, but I was asking about the glasses."
+>She puts them back on then turns to face you again. The tinge of red on her cheeks still present.
+>"I like it better naturally, but I think those glasses work."
+>As she hears your words, the blush continues, but she smiles at you.
+>"Alright, thank you Anon..f-for the glasses of course!"
+>She's shy to admit it, but your compliments about her natural beauty got to her.
+>Afterwards, she goes to the clerk, paying for the glasses and looking excited to try them on more.
+>Finally she walks out of the store with you, a pretty smile on her face.
+>"Hey, let's go get some ice cream." She says to you.
+>You sigh playfully, then follow-up with a rather playful, yet sarcastic joke: "Only if you don't get any on your new glasses, those were expensive!"

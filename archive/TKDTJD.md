@@ -1,4 +1,4 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ Egypt Anon, Burgerbaker wants to share the edit code thanks.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to Support Palestine Outside of Donation:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------

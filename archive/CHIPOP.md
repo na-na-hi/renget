@@ -22,7 +22,8 @@ Updates by:
 	8. Use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam.
 	9. Post links to your new thread in the previous one, & again, make it obvious - e.g., "NEW THREAD HERE >>[Thread Number]" 
 	10. If you can no longer bake, be sure to announce it as EARLY in the thread as possible - e.g. "NEW BAKER NEEDED", "BAKER IS LEAVING", etc. 
-	11. Stay comfy, TKD, and thank you for your service!
+	11. **==To have the comfiest shitposting experience in /chip/, you may have to install (4ChanX) browser extension from https://www.4chan-x.net/==**
+	12. Stay comfy, TKD, and thank you for your service!
 ***
 ## Latest News & Announcements:
 !!! note Attention!
@@ -49,7 +50,7 @@ Updates by:
 		>>->![muftiamin01](https://files.catbox.moe/7mifg9.webp) ![muftiamin02](https://files.catbox.moe/hd4mzc.webp) ![muftiamin](https://files.catbox.moe/vmwhmu.png)<-
 		***
 		>->![wikipediaicon](https://files.catbox.moe/czr04t.png) **[Ahed Tamimi (Wikipedia Article)](https://en.m.wikipedia.org/wiki/Ahed_Tamimi)** ![wikipediaicon](https://files.catbox.moe/czr04t.png)<-
-		>>->![ahedtamimi01](https://files.catbox.moe/yrifki.jpg) ![ahedtamimi02](https://files.catbox.moe/53vclh.jpg) ![ahedtamimi03](https://files.catbox.moe/zg5vay.jpg) ![ahedtamimi04](https://files.catbox.moe/t6k09t.jpg) ![ahedtamimi05](https://files.catbox.moe/6xnk42.jpg) ![ahedtamimi06](https://files.catbox.moe/wfl8qs.jpg) ![ahedtamimi07](https://files.catbox.moe/q9vwc9.png)<-
+		>>->![ahedtamimi01](https://files.catbox.moe/yrifki.jpg) ![ahedtamimi02](https://files.catbox.moe/53vclh.jpg) ![ahedtamimi03](https://files.catbox.moe/zg5vay.jpg) ![ahedtamimi04](https://files.catbox.moe/t6k09t.jpg) ![ahedtamimi05](https://files.catbox.moe/6xnk42.jpg) ![ahedtamimi06](https://files.catbox.moe/wfl8qs.jpg)<-
 !!! note 
 	->**Currnet theme song(s):**<-
 
@@ -57,7 +58,9 @@ Updates by:
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Mārḥäbän Yä Märik Äl Māsier - Welcome O Destined Battles](https://youtu.be/9hiQ7HzttNg)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 
-	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)
+	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Fairuz - Zahrat Almadaa'en](https://youtu.be/M0rAyfD6LqQ)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
+
+	>->![catbox](https://files.catbox.moe/5unkhj.webp) ![audlog](https://files.catbox.moe/iykz1c.webp) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/id02dk.mp3)** ![audlog](https://files.catbox.moe/iykz1c.webp) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
 	>>->![catbox](https://files.catbox.moe/5unkhj.webp) ![videoicon](https://files.catbox.moe/6w618s.png) **[Ḥayyu Rejaal Al Qassameiyah - Greet The Qassam Men](https://files.catbox.moe/g4x99j.mp4)** ![videoicon](https://files.catbox.moe/6w618s.png) ![catbox](https://files.catbox.moe/5unkhj.webp)<-
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Alnadha Betlageena - Whenever It's the Call, You Will Find Us](https://youtu.be/DhIp5jWViG8)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
@@ -71,12 +74,24 @@ Updates by:
 
 	>->![JewTube_Logo](https://files.catbox.moe/bri1jn.png) **[Ben Shapiro casts a spell](https://youtu.be/uAnbB6OFsb0)** ![JewTube_Logo](https://files.catbox.moe/bri1jn.png)<-
 ***
+
 ## ![template](https://files.catbox.moe/wi6xfu.webp) ![sticky](https://files.catbox.moe/uhs1rx.webp) OP Template:
 
 !!! warning ==**OP Template updates and adding recent news:**==
+	->![mostrecent](https://files.catbox.moe/xfwhdh.png)<-
 	>Always include recent news and happenings in the (▶RECENT) section of the OP, also note that the character limit of the OP is **2000 letters/characters**, if you struggle with adding/including recent news, feel free to **delete/remove old news** to make sure the OP body does not exceed/go beyond the 2000 character limit.
+	***
+	->![themesong](https://files.catbox.moe/ykhw95.png)<-
+	>Also you i.e. (the baker) can change the thread theme song to a related/non-related song, or even a personal "mood" song etc. (highly recommended).
+***
 
-**Subject:** ==**/chip/ - Comfy Happening in Palestine #**==
+
+##### ->**==Thread Subject:==**<-
+
+->**Subject:** **`/chip/ - Comfy Happening in Palestine #`**<-
+
+***
+##### ->**==Thread Body, i.e. 1st/Main Opening Post:==**<-
 
 Previous Bread: 
 
@@ -92,16 +107,16 @@ Do not trust happening announcements without link/proof
 \>REMINDER: Israel helps African refugees immigrate into Europe, and deports displaced Arabs into Europe too
 By typing in this thread you denounce Israel as a legitimate state, denounce the Talmud and endorse TKD (Total Kike Death)
 
-▶THREAD THEME:
+▶Thread Theme:
 https://youtu.be/1eu0PtSdSNo
 
-▶LIVE-STREAMS:
+▶Live-streams:
 https://youtu.be/IcPPJqKsTR8
 https://youtu.be/gRDRAtpIncM
 https://youtu.be/lbBX4GwM0s8
 https://youtu.be/zIMio6aw_6I
 
-▶NEWS:
+▶News:
 https://rt.com/
 https://youtube.com/@WION
 https://youtube.com/@aljazeeraenglish
@@ -109,25 +124,100 @@ https://english.almayadeen.net/
 https://youtube.com/@CGTNEurope/video
 https://www.presstv.ir/Live
 
-▶MAPS: (No real map has been made yet)
+▶Telegram:
+https://t.me/BellumActaNews
+https://t.me/qassambrigades
+https://t.me/Hezbollah
+https://t.me/PalestineResist
+https://t.me/myLordBebo
+https://t.me/stayfreeworld
+https://t.me/TheMediterraneanMan
+https://t.me/IntelRepublic
+https://t.me/Middle_East_Spectator
+https://t.me/vorposte
+
+▶Maps:
 https://israelpalestine.liveuamap.com/
 https://remix.aljazeera.com/aje/PalestineRemix/maps_main.html
 
 ▶OP:
 https://rentry.org/CHIPOP
 
-▶INFO:
+▶Info:
 https://rentry.org/TKDTJD
 
-▶CLIPS:
+▶Clips:
 https://rentry.org/TKDCHIP
 
+***
+##### ->**==Recent News & New Links i.e. 2nd Post:==**<-
+
 ▶RECENT:
-\>Israel drops leaflets warning residents of North Gaza to LEAVE the North before they proceed with entirely WIPING region out
-\>First aid trucks enter Gaza as border crossing with Egypt opens; US warns of 'potentially chaotic' situation
-\>White House asks Congress for $106 billion for Ukraine and Israel wars
-\>Israel bombs Christian church 40+ killed
-\>Hospital bombed, 500+ dead. JDAM used. IDF did it
+\>Leader of Hezbollah makes big speech: "all options are on the table"
+\>Bibi says you're either with "civlization" or "barbarians", NO CEASEFIRE
+\>Hezbolla: "On the Road to Jerusalem" https://files.catbox.moe/y55bbz.mp4
+\>Sayyid Nasrallah: https://files.catbox.moe/61czpm.mp4 https://files.catbox.moe/ppyf36.mp4
+\>Isn'treal bombed Jabalia Refugee camp, killing hundreds
+\>Hamas soldier plants a bomb on an IOF tank https://files.catbox.moe/95xf7o.mp4
+\>Journalist removes press vest, "These don't protect us at all" after a colleague and his family are martyred: https://files.catbox.moe/sa9nid.mp4
+
+▶Links, info & materials:
+Israel info dump
+https://archive.4plebs.org/pol/thread/444677080
+
+\>How Israel Censors the Internet
+https://www.youtube.com/watch?v=4xl30Re1EUI (How Israel Censors the Internet) [14:16]
+
+QR code:
+https://www.youtube.com/watch?v=w0WBpcB-Cg0 (The Real Architects Of The Iraq War) [16:51]
+
+An event that your normie friends might be interested in 
+https://itch.io/b/2120/games-for-gaza
+
+20 different Rabbis admitting the destruction of the US and western civilization in general is part of the jewish religion.
+https://twitter.com/Know_More_News/status/1624214859218034688
+
+Jewish Rabbis explain why God 'Hashem' has commanded jews to destory Christian Europe, USA and the rest of the gentile world.
+https://files.catbox.moe/9jvnie.mp4
+
+Jews want to exterminate White people (the west)
+https://www.bitchute.com/video/51uZzIZB8ePH/
+
+Jews think that non-jews are subhuman.
+https://files.catbox.moe/mt8mee.mp4
+
+Rabbis Explain Jewish Prophecy About the Destruction of America
+https://www.bitchute.com/video/DVgRw1TdgVF3/
+
+YET ANOTHER RABBI COMMANDING J£WS TO UTTERLY DESTROY THE WHITE RACE OR 'AMALEK' AS THEY CALL THEM
+https://www.bitchute.com/video/511QM5mGWXPO
+
+***
+
+
+▶Daily reminder:
+**Daily reminder that all this pro-Israel, anti-Palestine shilling is literally from paid JIDF Mossad agents. They are coming in here and shitting up our board because THEY ARE AFRAID. The world hates fucking Israel, it is 100% socially acceptable to hate Israel everywhere outside of a TPUSA meetup. Jews understand this and are terrified. Do not let these kikes control the narrative.**
+
+==**Remember:**==
+\>Jews want to do to you what they are currently doing to Palestinians
+\>Jews bulldoze peoples homes and shoot 12 year old girls
+\>Jews hate Palestinians because they are gentiles, not because they are Muslims or Christians
+\>Jews stole literally every single square foot of the land that the illegitimate kike state of Israel occupies
+\>Jews are pussies and seethe like the spiritual trannies they are when brave soldiers from Hezbollah and Hamas shoot fucking bottle rockets at them
+
+Do not stop supporting Palestine. Here are the common JIDF arguments:
+\>muh muzzies
+Irrelevant, 9/11 and every bullshit mideast war was caused BY JEWS, the Arab-Aryan conflict is entirely a Jewish operation. JEWS are the ones sending muslims from the middle east into Europe. THEY WANT TO SEND THE PALESTINIANS TO EUROPE. JEWS ARE THE REASON MUSLIMS ARE IN EUROPE AND AMERICA.
+\>muh brown peepol bad
+Who fucking cares? The enemy of my enemy is my friend, we are in a global war against Zionism. Jews want to rule the world and kill ALL OF US.
+\>DURR HAHA DEY KEEL EACHOTHER
+Again, the Palestinians are our brothers fighting ZOG. The Jews WILL do what they are doing to them to us. 
+\>muh Palestinians support BLM/some other Jewish op
+This is Jew controlled elements attempting to co-opt the Palestinian cause. The PLO is entirely a puppet of the Israeli government. Jews are trying to drive a wedge between us and the Palestinian issue because it terrifies them.
+
+Do not bend to these paid tranny Jew shills.
+Heil Hitler, free Palestine!
+TOTAL KIKE DEATH!
 ***
 ## OP Additional Info:
 !!! warning Alternative titles:
@@ -156,11 +246,7 @@ https://rentry.org/TKDCHIP
 	>>>https://catbox.moe/c/r80cpr *(Thanks, burgerbaker for these, keep 'em comin')*
 	>>>https://catbox.moe/c/fmybx2
 	>>==i.e. Ready-to-go banners for emergency baking:== ![emb09](https://files.catbox.moe/jrbthb.webp), ![emb73](https://files.catbox.moe/q90k3a.webp), ![emb89](https://files.catbox.moe/go8if1.webp) and etc.
-	***
-	#### To do:
-		-[x] Create the basic /chip/ seal template(s).
-		-[x] Create newer variants of /chip/ seal templates.
-		-[ ] Create a catalog/Mega.io folder containing all /chip/ art and OCs (Thanks AI burgerbro for the Hamas-Chans and friends Catbox catalog. Keep 'em comin') and another folder containing all /chip/ OP templates i.e. seals, ready-to-go seals for emergency baking frens.
+	
 
 ***
 ## ![memeflaggots](https://files.catbox.moe/h46y97.png) Memeflag & Gore Filter:
