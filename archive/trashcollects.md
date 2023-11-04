@@ -181,7 +181,7 @@ If you make some cool gens with these, feel free to post them over on the Crossk
 ![The author ITT](https://files.catbox.moe/t4zfi3.png)![The author ITT 2, after I added the above note](https://files.catbox.moe/f2cqro.png)
 
 ### Crosskemono 3
-
+https://www.seaart.ai/models/detail/ac3c26ac1ff19c18dc840f3b8e162c25
 	https://pixeldrain.com/u/3YXax5DP
 
 ### PC 98 Model
@@ -1161,6 +1161,27 @@ genitals, nipples, nude, penis, balls, white body,
 
 	Catbox: https://files.catbox.moe/7zxype.safetensors
 	CivitAI: https://civitai.com/api/download/models/208235?type=Model&format=SafeTensor
+
+**Webby Vanderquack**
+https://civitai.com/models/188500/webby-vanderquack-or-ducktales-2017
+This Lora is trained on Indigo Mix v90, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point. Some showcased images are generated with EasyFluff V11.
+
+
+This character is underage, Do not post or cross-post NSFW.
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+webby vanderquack, ducktales, duck, beak, scut tail, white skin, white hair, short hair, eyeliner, orange legs, webbed feet, black eyes,
+
+Reinforcement SFW Tags:
+
+clothed, clothing, pink bow, bow (feature), hair clip, bow accessory, blue vest, pink dress shirt, long sleeves, short sleeves, purple skirt, backpack   
+
+(All images are upscaled x2 using Hires. fix with 4x_foolhardy_Remacri as the upscaler)
+
+	https://civitai.com/api/download/models/211703?type=Model&format=SafeTensor
 
 # sake kemosalmon (Artist)
 

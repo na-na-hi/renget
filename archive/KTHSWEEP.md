@@ -96,6 +96,9 @@ https://archive.4plebs.org/tg/thread/90676737/#90681699
 https://desuarchive.org/tg/thread/90686591/#90695745
 >Chenrezig Bodhisattva
 https://desuarchive.org/tg/thread/90733271/#90743192
+>Fēn Jiàngé
+https://desuarchive.org/tg/thread/90790694/#90803915
+https://rentry.org/cut-autist
 
 #### Mortals
 >5 mortals who bring absolutely nothing to the table
@@ -111,6 +114,8 @@ https://rentry.org/9sa6m
 https://rentry.org/fecd5
 >Ming Ming
 https://rentry.org/xnz7aa
+>Lei Daiyu
+https://rentry.org/DaiyuChart
 
 ### Scrolls
 
@@ -126,6 +131,19 @@ https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698835552212.png
 https://desu-usergeneratedcontent.xyz/tg/image/1698/83/1698839005330.png
 >Kay Lee
 https://desu-usergeneratedcontent.xyz/tg/image/1698/88/1698881643906.png
+>Lei Daiyu
+https://desu-usergeneratedcontent.xyz/tg/image/1699/06/1699068849692.png
+>Nobu
+https://desu-usergeneratedcontent.xyz/tg/image/1699/06/1699068936061.png
+>Shu Luxing
+https://desu-usergeneratedcontent.xyz/tg/image/1699/09/1699093092771.png
+>Guan Chao
+https://desu-usergeneratedcontent.xyz/tg/image/1699/09/1699094312209.png
+
+### Art
+
+>Xu and Lan Jingmei
+https://desuarchive.org/tg/thread/90806343/#90815114
 
 ### Writefags
 

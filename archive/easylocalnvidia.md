@@ -9,6 +9,7 @@ Download one of these models (the biggest you can run, larger files can be split
 XWin-MLewd: https://huggingface.co/TheBloke/Xwin-MLewd-13B-V0.2-GGUF/tree/main
 Athena V3: https://huggingface.co/TheBloke/Athena-v3-GGUF/tree/main  
 
+(In 1.48, use ContextShift instead of SmartContext, it's fine to check both boxes)
 Open koboldcpp.exe and make your settings look like this, then click Launch:  
 ![koboldsettings](https://files.catbox.moe/en7k2e.png)
 

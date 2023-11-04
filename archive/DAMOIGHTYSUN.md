@@ -108,21 +108,17 @@ For every passing thought Xicotl has of a loved one's face since his resurrectio
 >>+1 Body Tempering
 >>+1 Soul Refining
 
-To be described. 
-TL;DR: Xocotl fights with a knife and an empty hand. He favors quick, disorienting movements, and most of his techniques and fighting style are geared towards grinding down focus/defenses and leaving an enemy open for Kindly Earth's Embrace.
+As as both warrior and preacher, Xicotl fights with a knife and an empty hand. His bulky, rippling physique often betrays his staggering speed, as Xicotol favors quick, disorienting movements that grind down the senses and focus of his opponent. As the warriors of his world once fought, terror and shock are his sharpest weapons.
 
 ###**Fanged Incantations**
 >**[Razor Wind]:** Grade VI Attack (-10)
-To be described.
-TL;DR Spell that allows Xocotol to create a steady stream of sharp winds that slice and rend any soft targets in the way. He can cast it as a steady stream moving from one direction, or a swirling tornado with weaker raw power, but one that can be infused with fire or blinding light.
+A fundamental incantation derived from the Feathered Serpent's wisdom. Through a sweeping knife movement, a priest may twist the *teotl* in the air, parting it with a sharp red wind that slices and rends soft flesh. It may come as a billowing gust from any direction, as all open air is exposed to *teotl,* but Xicotl favors a more tactical art: churning the winds into a sustained tornado of blades that can move independently of him. With a more controlled application of *teotl,* the priest may infuse these winds with elements beyond the Feathered Serpent's bloodied winds, such as sunlight or flames, to further enhance the destructive potential of the technique.
 
 >**[Flame-Venom Veins]:** Grade VI Reversal (-10)
-To be described.
-TL;DR Xocotl infuses Quetzalcoatl's fangs into his blood, creating a spew of flaming blood that clings onto whatever attacked him and anything/anyone else that happens to be standing by. The blood, aside from being as hot as magma, seeps into the bodies of those it touches, causing their *qi* to slowly burn away unless they take the time to force the flame-venom out of their veins (leaving them open for Kindly Earth's Embrace) or have some kind of curse-dispelling effect. Xocotl can cast this by just slicing his own wrist as well.
+An intermediate incantation derived from the Feathered Serpent's protective desires. Xicotl has Quetzalcoatl's fangs infused into his blood, and when struck, a *nahuatl* word of vengeance is uttered, and the priest's wound erupts into a geyser of bright-red, sizzling blood infused with flame-venom. Flame-venom blood is thick and weighty, burning with magma's heat. It clings and seeps towards the flesh of those it spills onto, burrowing into their hearts and igniting any *qi* drawn into their body. It is an unspeakable pain that only a true devil would wish to inflict upon another living being. As the pain spreads through their core, threatening to render their *qi* useless, the cultivator must force the venom from both body and spirit. In whatever form that takes, Xicotl is granted an opening.
 
 >**[Honor-Devouring Serpents]:** Grade X Barrier (-20)
-To be described.
-TL;DR Xocotl temporarily summons a swarm of bright-red serpents, which coil together around an area and form a giant barrier of snakes, acting as an arena. Anyone who is inside the barrier and attempts to escape is snatched by one of the snakes and slammed back into the arena if possible, anyone outside of the arena will be severely damaged by the snakes if they try to enter the barrier unless they strike it with a Trump Card/Ambush technique.
+A technique developed by Xicotl himself. By invoking a rite of honor to Quetzalcoatl, the Feathered Serpent may grant His vessel the grounds for combat. With the incantation, bright-red serpents of all shapes and sizes emerge from the ground around Xicotl's feet, growing larger by the second. They are not truly living creatures, only expressions of *teotl* made manifest in Quetzacoatl's sacred animal, and they exist to serve one purpose: bind around one another like wrappings to form a circular arena wall of wrapped snakes in diameter just wide enough to house a duel for Xicotl and one other person. The arena will remain until one person inside is down, whereupon serpents will lash out to bind this person to the ground for sacrifice. If any attempt to leave the arena, the snakes lash out, pulling them back towards the center.
 
 ###**Solar Techniques**
 >**[Tonal Step]:** Grade VI Footwork (Free - Martial Empire)
@@ -137,10 +133,8 @@ TL;DR Xocotl extends his tongue and begins slicing it in a ritual. If he makes a
 
 ###**Smiling Rites**
 >**[Ominous Wind Hymn]:** Grade VI Stealth (Free - Martial Arts)
-To be described.
-TL;DR Xocotl can whistle, causing anyone who hears the whistle for a few seconds to have their minds altered to stop perceiving Xocotl, either making him invisible in their minds or to see him as a bird, small animal, etc. 
+ X, causing anyone who hears the whistle for a few seconds to have their minds altered to stop perceiving Xocotl, either making him invisible in their minds or to see him as a bird, small animal, etc. 
 >**[Pass Through The Underworld]:** Grade VI Travelling (-10)
-To be described.
 Xocotl can slowly descend into any pool of blood large enough to stand in fully, entering a separate "bloodspace." Xocotl can move through bloodspace at a much faster rate than realspace and can see a limited area of realspace around any pool of blood. Passing through an area in bloodspace causes anyone nearby to hear a rushing wind sound. If Xocotl emerges from a pool of blood, it makes a very loud and noticable bubbling noise before he pops out.
 >**[Hungering Flesh Rite]:** Grade VI Ambush (-10)
 To be described.

@@ -6,7 +6,7 @@
 !!! info **Index:**
 	[TOC2]
 Updates by: 
->![Zibbi](https://files.catbox.moe/swlivu.gif)
+>![Zibbi](https://files.catbox.moe/swlivu.gif) **==This is me, burger anon==**
 
 !!! warning Emergency Baker Guide:
 	1. Breads are to be baked & announced as soon as the bump limit of 300 has been reached
