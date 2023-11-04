@@ -4,6 +4,10 @@
 
 [Go back home <3](https://rentry.org/CharacterProvider)
 
+##### ==Update 2: Everything is fine again==
+
+**Contacts:** Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)**
+
 ##### A note on the rentry theft.
 Hello everyone,
 

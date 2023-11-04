@@ -22,12 +22,12 @@ Pokémon's Ability | Description
 ->*90/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
@@ -64,10 +64,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute Move: Rock Tomb | *Tier ɪ* | 6 AP move turn to No Penalty Accuracy
+Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

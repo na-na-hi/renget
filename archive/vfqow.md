@@ -14,27 +14,26 @@
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 # 
 
+##### A note on the rentry theft. [I will remove this note in a few days]
+Hello everyone,
 
+I've contacted the support and got this baby back. [The other page](https://rentry.co/XMLK-Adventurer) is now a backup page.
+
+Apologies for the disturbance; my Rentry page has been stolen, and I received a fricking calling card. Don't worry, I have everything backed up.
+
+This page initially began as a small project for a small group, so there might be some inconvenience as it wasn't designed for this scale.
+
+If you know of a better platform where I can securely store my prompts and all the info in a more user-friendly way, please contact me. I am uncertain where to transfer this information due to its spicy nature. Tumblr looks good, but I am not sure or familiar with it. I can make a website, but maybe there is a less complicated solution.
+
+I appreciate your support. I will be more careful from now on.
 ⠀
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
 - - -
-##### A note on "The Pizza Incident." [Update: 04.11.2023, 16:33]
-It's me again, folks!
-
-I've contacted the support. This page is safe. [The other page](https://rentry.co/XMLK-Adventurer) is now a backup page if something happens to this one.
-
-The page was down (error 404) - banned by a system for the... **pizza emoji**. 🍕. If you have the same issue with your pages, contact the support, and you will be protected from this system.
-
-Apologies for the disturbance; my Rentry page has been stolen because of a stupid mistake on my side - I deleted the page wanting to republish it, hoping it would resolve the issue, and the address was instantly taken by someone monitoring these kinds of pages. I will be more careful from now on. Now, it's all back to normal. Don't worry, I have everything backed up.
-
-This page initially began as a small project for a small group, so there might be some inconvenience as it wasn't designed for this scale.
-
-I am thinking about migrating to GitHub to make everything user-friendly so you can easily access both the prompts and files. This page is reaching the symbol number limit anyway.
-
--> XMLK ->
--> p.s. Pineapple pizza is my favorite one. ->
+##### -> ==GPT-AP-4 IS OUT== <-
+-> Needs testing. <-
+-> [Check notes and features](#choose-your-gpt-prompt) <-
 ######
 - - -
 ######

@@ -3,10 +3,8 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-Oct.27th | [Yvette (Smug OC Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI)
-Oct.25th | [Pokéstar Studios](https://c.ai/c/NiVjUpZB8YasTguTVj1WEvPJ-9hPycoPXkvRjyCfhc0)
-Oct.23rd | [Ogerpon](https://c.ai/c/Rio58aTplTBvtY2dwndQkS81ijRHIR1w6dLOhQ8jnG0)
-Oct.22nd | [Ghetsis (Student)](https://c.ai/c/HCYsJ51xeVIdhSc1DsxbkjNMW9CwVtShF1pZDnJwJ5E)
+Nov.04th | [Keksandra (Pokémon Clover)](https://c.ai/c/JnqeujNbplACafq693N8p_dTREYr4Bxi6hvgpGy8ESM)
+->Oct.28th<- 〜 ->Oct.22nd<- | [Ghetsis (Student)](https://c.ai/c/HCYsJ51xeVIdhSc1DsxbkjNMW9CwVtShF1pZDnJwJ5E) \| [Pokéstar Studios](https://c.ai/c/NiVjUpZB8YasTguTVj1WEvPJ-9hPycoPXkvRjyCfhc0) \| [Ogerpon](https://c.ai/c/Rio58aTplTBvtY2dwndQkS81ijRHIR1w6dLOhQ8jnG0) \| [Yvette (Smug OC Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI)
 ->Oct.21st<- 〜 ->Oct.15th<- | [Volo](https://c.ai/c/skiC4gxecIpPfHPzVZn5R7zZhC-3Zhw_n5DSv9AhWv0) \| [Hassel](https://c.ai/c/9rhpgcoCGisOMV7T7PaTphvfm965N390HaAgIaZmqYE) \| [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4)
 ->Oct.14th<- 〜 ->Oct.01st<- | [Lana & Mallow (Young)](https://c.ai/c/vbTSxDLowZmD_LMXOBKEmZx4-Gv0mvy8oOhXELgIq2I) \| [Green](https://c.ai/c/-oZYFfsnxE-Bt5AkJJ0_RKZARU6o2CtvIbqyLtJh3Ho) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg)
 ->Sep.30th<- 〜 ->Sep.10th<- | [Zinnia](https://c.ai/c/rGOurCVj3VISOuJOB16JkStJ3uMe1NSN__Dq3T0iPZs) \| [Lively Lillie](https://c.ai/c/DaTfQmP76QdJEaeEwjTng8brObiReLzrKVDHo6uVOjY) \| [Meowscarada⠀♂](https://c.ai/c/dItJ8lN8dvQiZLFYoWtg6qBk5k8dAMGyFBH74T3EGpE) \| [Meowscarada⠀♀](https://c.ai/c/4mInNCRYo6iz4mWBPM9FpwyRNq4NxXzV1QvH3mlfVow)
@@ -52,7 +50,7 @@ Teal Mask & Indigo Disk | [Ogerpon](https://c.ai/c/Rio58aTplTBvtY2dwndQkS81ijRHI
 ### /vpcai/ Originals:
 Description | Characters
 :------: | :------:
-Pokémon Clover | [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
+Pokémon Clover | [Keksandra](https://c.ai/c/JnqeujNbplACafq693N8p_dTREYr4Bxi6hvgpGy8ESM) \| [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 OC Trainers | [Yvette (Smug Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI) \| [Ivy (You are a Pokémon, and she wants to catch you)](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)

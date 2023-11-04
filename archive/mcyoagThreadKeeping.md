@@ -131,6 +131,8 @@ https://rentry.org/9sa6m
 https://rentry.org/fecd5
 >Ming Ming
 https://rentry.org/xnz7aa
+>Lei Daiyu
+https://rentry.org/DaiyuChart
 
 ```
 #MHA

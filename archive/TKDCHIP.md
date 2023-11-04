@@ -478,3 +478,16 @@ https://files.catbox.moe/kie2jf.MP4
 https://files.catbox.moe/dzvmip.mp4
 >Journalist removes press vest, "These don't protect us at all" after a colleague and his family are martyred:  (ADDED NOV 3d)
 https://files.catbox.moe/sa9nid.mp4
+>ISRAELI BULLDOZER BLOWN UP (ADDED NOV 4th)
+https://files.catbox.moe/1zynk6.mp4
+>Kikes on the march and more dead kids (ADDED NOV 4th)
+https://files.catbox.moe/8cuq87.mp4
+https://files.catbox.moe/mbdioe.mp4
+>Civilian bodies torn apart as they rushed across Al-Rashid coastal road, reportedly close to Israeli army assault (ADDED NOV 4th)
+https://files.catbox.moe/tsnzz1.mp4
+>FEARFUL PEOPLE FRANTICALLY RUN FOR SAFETY as Israel strikes residential buildings in the Al-Sabra neighborhood in Gaza City. (ADDED NOV 4th)
+https://files.catbox.moe/vk1m3g.mp4
+> Israeli strike on South Lebanon (ADDED NOV 4th)
+https://files.catbox.moe/sd1sjl.mp4
+> warhead turns IDF base into slag warhead used by Hezbollah reportedly 1st use of Burkan-2, short-range ballistic missile 1st used by Houthis (ADDED NOV 4th)
+https://files.catbox.moe/zqqwjq.mp4

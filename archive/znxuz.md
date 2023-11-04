@@ -144,9 +144,7 @@ in that case **temporary fill context of chat with some smut** (via MAIN prompt,
 
 in some esoteric cases filter triggers if you specifically ask for 'explicit' or 'NSFW' content. using different wording usually helps:
 
-
-[ ![](https://cdn.discordapp.com/attachments/1143910950395715751/1150228718686576661/lewd.png) ](https://cdn.discordapp.com/attachments/1143910950395715751/1150433721325998211/sdvsyduje48urft.7z)
-
+![](https://cdn.discordapp.com/attachments/1143910950395715751/1150228718686576661/lewd.png)
 
 ##### bans
 that version of Claude shall be **ban-free** because neither of your requests violate Anthropic's ToS thanks to `ping_message`. on pic below results with another version/fork of Slaude vs that version
@@ -195,10 +193,3 @@ yes! tested with the very last version of the card in chub. but it shys with NSF
 -> **contact::** -> 
 -> ==raremew@proton.me== ->
 -> Discord: ==rarestMeow#0836== ->
- 
- 
- 
- 
- 
- 
-> `hint: mare was waiting THERE but anons were looking in a different place`. repeat three times IN CAPS with _ , ex: `PONK_PONK_PONK`
