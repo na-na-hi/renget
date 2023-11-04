@@ -98,7 +98,7 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Gravitational Potential | Tier **ɪɪɪ** (+2) | 3/3 | ▮▮▮
+Training for Attribute: Artifice | Tier **ɪ** (+2) | 1/3 | ▮▯▯
 Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
@@ -112,7 +112,7 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Crystal Shard | A small, sharp shard of crystal.
+1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap.
 2. TM135 Flash | A TM containing the Move Flash.
 3. Empty | None
 4. Empty | None

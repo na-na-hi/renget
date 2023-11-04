@@ -1,6 +1,6 @@
 -> ![](https://media.tenor.com/odDQQs7kCFEAAAAC/star-rail-pom-pom.gif) <-
 
-#[TRAVEL TO MAINPAGE, NO FUN ALLOWED HERE](https://rentry.co/CharacterProvider)
+#[MAINPAGE HAS BEEN STOLEN HERE THE NEW ONE](https://rentry.co/XMLK-Adventurer)
 #####-> Version history has been merged with the main branch! <-
 
 -> Thanks for your feedback! <-
@@ -11,7 +11,7 @@
 - - -
 #
 
--> https://rentry.co/CharacterProvider <-
+-> https://rentry.co/XMLK-Adventurer <-
 
 #
 - - -

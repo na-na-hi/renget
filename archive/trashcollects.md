@@ -1760,8 +1760,12 @@ Reminder that the prior GitHub repo has been discontinued; delete the extension'
 	Older Deepdanbooru Model: https://pixeldrain.com/u/XTcj5GHz
 ![Older Deepdanbooru model](https://files.catbox.moe/wenphe.png)
 
-### Top 300 e621 artist wildcard (last updated November '22)
-	https://files.catbox.moe/bjo669.txt
+### e621 artist wildcard
+Most modern models were trained on the majority if not all of E621.
+You can grab a .csv containing all e621 tags from https://e621.net/db_export/ and filter for Category 1.
+Here is an artist listing of the entirety of e621, sorted by number of posts (dated mid Oct. 2023): https://files.catbox.moe/mjs8jh.txt
+
+All artists from fluffyrock.csv sorted by number of posts: https://files.catbox.moe/vtch6n.txt
 
 ### Upscaler Model Database
 Recommendations are Lollypop and Remacri. Put in models/ESRGAN

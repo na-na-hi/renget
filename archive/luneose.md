@@ -1,7 +1,7 @@
 # HOME OF YURI
 ->![Add a cool image here!](https://i.pinimg.com/564x/88/97/57/8897570ffba150fab45d70c0a9483630.jpg)<-
 ***
-I make yuribots and malebots if I feel like it. Total YURI love! please give me otome game recs...
+I make yuribots and malebots if I feel like it. Total YURI love! i draw my own bots and write my own greetings. sovl guaranteed 
 
 ***
 **Table of Contents**

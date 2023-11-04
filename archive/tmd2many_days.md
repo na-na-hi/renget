@@ -21,16 +21,16 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 :----: | :----: | :----: | :----: 
 0/1/1 | ??? | #01 No Stranger to Disaster | A voice calls out, wondering if anyone will answer its plea.
 1/1/1 | 4 days | #EV01 Abrupt Awakenings | The call has been answered! But... where are you?
-1/5/1 | 2 days | #EV02 Town Called Baram | Out of the bonfire and into the coast.
-1/7/1 | 1 day | #SQ01 Cat-astrophic Marketplace | Someone's causing a ruckus in the market.
-1/8/1 | 1 day | #SQ02 Near Farfetch'd | Sneasler asks for your help to find a friend.
-1/10/1 | 1 day | #SQ03 For Want of a Tame | A traveling chef searches for coveted fruits.
-1/12/1 | 1 day | #02 Rub-a-dub Ravine | The group all head out to try exploration together!
-1/14/1 | 1 day | #EV03 Stay HAPPI | A stranger shows up in town.
-1/15/1 | 3 days | #03 The Color of Strife | Back to the ashes of the burnt forest, searching.
-1/19/1 | 1 day | #SQ04 Blast Seed Bomber | A detective in town wants you to catch a 'mon.
-1/21/1 | 1 day | #04 Watcher's Reverie | Dreams are such strange places: even stranger places to visit consciously.
-1/23/1 | 2 days | #05 The Foreshore Turnabout | Time to steal back an entire boat!
+1/9/1 | 2 days | #EV02 Town Called Baram | Out of the bonfire and into the coast.
+1/10/1 | 1 day | #SQ01 Cat-astrophic Marketplace | Someone's causing a ruckus in the market.
+1/12/1 | 1 day | #SQ02 Near Farfetch'd | Sneasler asks for your help to find a friend.
+1/14/1 | 1 day | #SQ03 For Want of a Tame | A traveling chef searches for coveted fruits.
+1/17/1 | 1 day | #02 Rub-a-dub Ravine | The group all head out to try exploration together!
+1/19/1 | 1 day | #EV03 Stay HAPPI | A stranger shows up in town.
+1/24/1 | 3 days | #03 The Color of Strife | Back to the ashes of the burnt forest, searching.
+1/28/1 | 1 day | #SQ04 Blast Seed Bomber | A detective in town wants you to catch a 'mon.
+1/29/1 | 1 day | #04 Watcher's Reverie | Dreams are such strange places: even stranger places to visit consciously.
+1/30/1 | 2 days | #05 The Foreshore Turnabout | Time to steal back an entire boat!
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 

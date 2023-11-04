@@ -425,6 +425,8 @@
 10/2023|[Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation](https://arxiv.org/abs/2310.15961)
 10/2023|[Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
 10/2023|[Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](https://arxiv.org/abs/2310.19102)
+11/2023|[AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models](https://arxiv.org/abs/2311.01305)
+11/2023|[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

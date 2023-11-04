@@ -510,7 +510,28 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Room of Swords
  * My GFs Hot but Thinks My Giantess Fetish is Weird | [Webtoons](https://www.webtoons.com/en/canvas/my-gfs-hot-but-thinks-my-giantess-fetish-is-weird/list?title_no=845557)
  * Also the other comics by chaotic helleven
- * [The Love Between Enemies](https://www.webtoons.com/en/canvas/the-love-between-enemies-/list?title_no=645907)
+ * The Love Between Enemies | [Webtoons](https://www.webtoons.com/en/canvas/the-love-between-enemies-/list?title_no=645907)
+ * Danny and the Light | [Webtoons](https://www.webtoons.com/en/canvas/danny-and-the-light/ch-9-part-1/viewer?title_no=776182&episode_no=30), might just be miniGTS
+ * The Tiny Giant | [Webtoons](https://www.webtoons.com/en/canvas/the-tiny-giant/list?title_no=742881)
+ * Maple and Syrup | [Webtoons](https://www.webtoons.com/en/canvas/maple-and-syrup/list?title_no=853626)
+ * The Celestials | [Webtoons](https://www.webtoons.com/en/canvas/the-celestials/list?title_no=857062)
+ * Jackie vs the Giants | [Webtoons](https://www.webtoons.com/en/canvas/jackie-vs-the-giants/list?title_no=862428)
+ * To Be Bold | [Webtoons](https://www.webtoons.com/en/canvas/to-be-bold/list?title_no=877017)
+ * Valley of Giants | [Webtoons](https://www.webtoons.com/en/canvas/valley-of-giants/list?title_no=908515)
+ * The Chronicles of the Crisis | [Webtoons](https://www.webtoons.com/en/canvas/the-chronicles-of-the-crisis/1112/viewer?title_no=602258&episode_no=49) giant god scenes
+ * MANIOLAS | [Webtoons](https://www.webtoons.com/en/canvas/maniolas/list?title_no=874988)
+ * Fine China and Glass Walls | [Webtoons](https://www.webtoons.com/en/canvas/fine-china-and-glass-walls/list?title_no=771367)
+ * Smaller than Earth, Larger than Space {G/T Story} | [Webtoons](https://www.webtoons.com/en/canvas/smaller-than-earth-larger-than-space-gt-story/list?title_no=875549)
+ * Little Ghostie Roommate | [Webtoons](https://www.webtoons.com/en/canvas/little-ghostie-roommate-/list?title_no=720636)
+ * Buttercup and Thorn | [Webtoons](https://www.webtoons.com/en/canvas/buttercup-and-thorn/list?title_no=529728)
+ * Kaiju Shenanigans | [Webtoons](https://www.webtoons.com/en/canvas/kaiju-shenanigans/list?title_no=773124)
+ * Mr. Mugu's Magnificent Mind | [Webtoons](https://www.webtoons.com/en/canvas/mr-mugus-magnificent-mind/list?title_no=857792)
+ * FOUND | [Webtoons](https://www.webtoons.com/en/canvas/found/list?title_no=707187)
+ * Big Girl | [Webtoons](https://www.webtoons.com/en/canvas/big-girl/list?title_no=815425)
+ * Astra and Dalia | [Webtoons](https://www.webtoons.com/en/canvas/astra-and-dalia/list?title_no=828619)
+ * Tiny Amazing: The Hero No One Noticed | [Webtoons](https://www.webtoons.com/en/canvas/tiny-amazing-the-hero-no-one-noticed-/list?title_no=873611)
+ * Collateral Dee | [Webtoons](https://www.webtoons.com/en/canvas/collateral-dee/list?title_no=892807)
+ * The not so Stalwart Kharon | [Webtoons](https://www.webtoons.com/en/canvas/the-not-so-stalwart-kharon/list?title_no=898156)
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -552,6 +573,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Real Tiny Fairies | [Webtoons](https://www.webtoons.com/en/challenge/real-tiny-fairies/list?title_no=42674)
  * Pocket Sister | [Webtoons](https://www.webtoons.com/en/challenge/pocket-sister/list?title_no=50818 )
  * Happy Fun | [tapas](https://tapas.io/series/Happy-Fun/info)
+ * A bird amongst snakes | [Webtoons](https://www.webtoons.com/en/canvas/a-bird-amongst-snakes/list?title_no=892009)
 
 #### Lost
  * Cum Fairies | [The Duck](https://www.theduckwebcomics.com/Cum_Fairies_1)

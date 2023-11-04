@@ -28,7 +28,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc |[Naomi](https://files.catbox.moe/sxapqw.png)|
 [Nono](https://rentry.org/NonoRoom) | Misc |[Leondra](https://files.catbox.moe/s8kcaj.png)|[Leondra](https://files.catbox.moe/s8kcaj.png) [MV]
-[Luneose](https://rentry.org/luneose) | Misc ||[Belphie](https://files.catbox.moe/gkfr8s.png)
+[Luneose](https://rentry.org/luneose) | Misc ||
+[JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
@@ -43,7 +44,6 @@ Botmaker | Category | New Bots | Updated Bots
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||
-[JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Chefseru](https://rentry.org/chefseru) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||

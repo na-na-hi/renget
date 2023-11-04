@@ -1,7 +1,7 @@
--> [Main page](https://rentry.co/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
+-> [Main page](https://rentry.org/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
--> ![](https://files.catbox.moe/l8i5ow.png)  <-
+-> ![](https://files.catbox.moe/ae3h71.png)  <-
 ##->  XMLK's Adventure Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
@@ -14,6 +14,19 @@
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 # 
 
+##### A note on the rentry theft. [I will remove this note in a few days]
+Hello everyone,
+
+I've contacted the support and got this baby back. [The other page](https://rentry.co/XMLK-Adventurer) is now a backup page.
+
+Apologies for the disturbance; my Rentry page has been stolen, and I received a fricking calling card. Don't worry, I have everything backed up.
+
+This page initially began as a small project for a small group, so there might be some inconvenience as it wasn't designed for this scale.
+
+If you know of a better platform where I can securely store my prompts and all the info in a more user-friendly way, please contact me. I am uncertain where to transfer this information due to its spicy nature. Tumblr looks good, but I am not sure or familiar with it. I can make a website, but maybe there is a less complicated solution.
+
+I appreciate your support. I will be more careful from now on.
+⠀
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
@@ -25,7 +38,9 @@
 - - -
 ######
 ##Quick Start
-Click these images to quickly access the prompts:
+> **Greetings!** If you are new around here, you can use the images below to navigate this rentry quickly. The 'Info' section will tell you what these prompts are for, and the 'FAQ' section will answer all the questions you might have. Please read the information I post to avoid any possible struggles and misunderstandings. Even if you don't use my prompts, you'll still find this page useful.
+
+Click these images for quick navigation:
 
 -> [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) ⠀ [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt)<-
 
@@ -73,7 +88,24 @@ What am I trying to achieve with `GPT-AP-4+` version right now (will be released
 ######
 - - -
 ##### Will You Enjoy These Prompts?
-These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions. Sex is still pretty good in these prompts. I strongly recommend you read the FAQ section, especially if you are new around here.
+These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here.
+
+The responses with these prompts are not CAI-like; they are more like the interactive novel ones.
+
+Instructions that I commonly include into my prompts:
+- Environments descriptions.
+- Introduction of supporting characters.
+- Maintainment of character integrity.
+- Incorporation of humor.
+- Showcases of character abilities frequently.
+- Introduction of interactive objects and props.
+- Introduction of events.
+- Usage of characters' inventories.
+- Sexualization and objectification of the characters.
+- Descriptions of interactions/objects/labels.
+- User-centered narration.
+- Additions of silliness, sarcasm, and wittiness.
+- ~~Inclusion of telepathic squirrels for comic relief.~~
 
 >**Comment on feedback:** Many anons have directly messaged me about the significant improvements in storytelling and characterizing their characters. If given the option, I highly recommend using GPT instead of Claude. I understand that the 12+ versions of the Claude prompt can be confusing, so I suggest either version 10.1 (which focuses on inventiveness and interesting events) or version 12 (which has more inventiveness and fewer events). The recommended versions are marked with a star. The reason for so many versions is because of experimentation and many anons requesting to try out every version and subversion to provide feedback. I am grateful for the constant feedback and suggestions from several anons on improving the prompts.
 
@@ -122,11 +154,20 @@ Suppose you want to know more about LLM parameters. In that case, I suggest you 
 ##### FAQ
 **Here's an example output of one of my latest prompts:**
 
+Example 1. Emma trying to convince the User to team up:
+
+![](https://files.catbox.moe/qze79v.png)
+*(Image: Output examples from GPT-4-32K-0613, 2-nd message.)*
+
+Example 2. Kobold caught pickpocketting:
+
 ![](https://files.catbox.moe/47kash.png)
-*(Image: Output examples from GPT-4, 2-nd message.)*
+*(Image: Output examples from GPT-4-32K-0301, 2-nd message.)*
 
 **Q1: "Why use XML? I think it's just schizo-prompting!"** 
 A1: Claude and GPT have been specifically trained to understand XML tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets, then? It's because prompts and character cards contain much information, and we want to structure it for AI. XML tags, as well as headings, help us to clearly define sections. Here are some sources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt).
+
+>**The crucial point for using XML:** This is the only way to explicitly tell the AI where to look and separate instructions from the context. "Your role is described in the <AI role> section." "Follow the <instruction>." "Format your reply as stated in the <AI role>/<reply template> section." etc.
 
 #####
 **Q2: "Is... Is this a placebo!? 900 tokens!? My 100-token ones work just fine. The less is better! Hmph!"**
@@ -136,15 +177,16 @@ Prompts with strong words and impactful sentences can significantly influence th
 
 The general rule to remember is: Poor context results in poor output; good context results in good output. The sources remain the same as before. Furthermore, you definitely can't fit the prompts on handling romantics, erotica, sexual scenes, interactivity, structure avoidance prompts, etc., with examples and explanations (because they are necessary) in a mere 100-200 tokens.
 
-A good instruction for role-playing or novel writing in JB should be around 200-300 words long. For creative instructions, it might be a bit more difficult for the AI to understand. In addition to that, you'll need to provide the AI with 300-600 words of context for the role-play. This context is similar to a character description. It gives the AI an understanding of the User's expectations, possible scenarios, chat, and other details.
+A good instruction for role-playing or novel writing in JB should be around 200-300 words long. For creative instructions, it might be a bit more difficult for the AI to understand. In addition to that, you'll need to provide the AI with 300-600 words of context for the role-play (You can combine the context and instruction in JB and get ~900 token JB. GPT will process it fine; Claude may have problems with digesting it). This context is similar to a character description. It gives the AI an understanding of the User's expectations, possible scenarios, chat, and other details.
 
+>**TL;DR:** The better you communicate the context of what you want from the AI, the better the output. Read Q16 and Q17 for more info.
 #####
 **Q3: "Why divide rules into parts and use JB & prefill?"**
 A3: Firstly, Large Language Models (LLMs) utilize a 'context curve' ([source](https://cobusgreyling.medium.com/how-does-large-language-models-use-long-contexts-da9472bbb278)). This means that the accuracy improves at both the beginning and end of the input data.
 
 Secondly, we segregate the general guidelines, context, and purpose of the chat (context at the start) from the instruction (directions at the end). 'Prefill' forces the AI to perform specific actions. Additionally, this method forms a part of a defense strategy known as 'sandwich defense' ([source](https://learnprompting.org/docs/prompt_hacking/defensive_measures/sandwich_defense)).
 
-Generally speaking, we're wrapping context with instructions: `We're role-playing! Here are the <guidelines>! -> Chat Context -> Remember, we're role-playing! Use the <guidelines!>`
+> **Generally speaking,** we're wrapping context with instructions: `We're role-playing! Here are the <guidelines>! -> Chat Context -> Remember, we're role-playing! Use the <guidelines!>.`
 #####
 **Q4: "Do I need to use Author's note with versions above v10?"** 
 A4: No, you'd send the rules (guidelines) twice by using it with my previous author's notes. I recommend you read the prompts when you download them.

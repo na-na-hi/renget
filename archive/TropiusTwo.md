@@ -174,7 +174,7 @@ Wooper’s face lights up even more than it already was. “You’re a human, ju
 
 I step back and raise my head away. “Uh…”
 
-Chespin turns to Wooper and scolds, “Wooper, you can’t just all those kinds of questions to any human we come across!” Chespin turns to me. “Sorry about that, he gets very excited around humans.”
+Chespin turns to Wooper and scolds, “Wooper, you can’t just ask all those kinds of questions to any human we come across!” Chespin turns to me. “Sorry about that, he gets very excited around humans.”
 
 “I can tell…” I reply awkwardly.
 
