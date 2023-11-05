@@ -102,6 +102,10 @@ Character writing guide: https://www.rentry.org/how-to-make-a-nai-char
 ST Presets: https://www.reddit.com/r/SillyTavernAI/comments/16ihh2v/novelai_preset_for_erp_and_rp/
 >The presets that I use as a basis for my own.
 ### Stable Diffusion Stuff
+###### Models I Made
+[Tipzymix on Civit](https://civitai.com/models/188885/tipzymix?modelVersionId=212148)
+>A custom merge of a ton of models to create a clean, vibrant, and cartoony style that I really like.
+-> ![Tipzymix](https://files.catbox.moe/qgny8u.png) <-
 ###### Models I Like
 Ametrine Redux: https://civitai.com/models/57188/ametrine-redux
 >Hands are cursed as fuck, but girls look so good.

@@ -28,17 +28,17 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Phantom](https://files.catbox.moe/13c4uo.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
+[Onaholesama](https://rentry.org/onaholesama) | Furry ||
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [Nono](https://rentry.org/NonoRoom) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
-[Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||

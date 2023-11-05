@@ -57,7 +57,7 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >Xiu Yi, Hot Woman (literally)
 >>90674739
 >Guan Chāo, didn’t listen to his pastor’s warnings
->>90674970
+>>90817387
 >Gyldenwulf, least violent cultivation protagonist
 >>90675021
 >Huang Yu, Bald Born-Again Buddhist
@@ -100,6 +100,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90743192
 >Fen Jiange, looks suspiciously like Wen Lifen
 >>90803915
+>Meng Zhen, Free Deus Ex Machina
+>>90825484
 
 ```
 ***
@@ -133,6 +135,8 @@ https://rentry.org/fecd5
 https://rentry.org/xnz7aa
 >Lei Daiyu
 https://rentry.org/DaiyuChart
+>The Boneless Old Man
+https://rentry.org/kgtam
 
 ```
 #MHA

@@ -18,6 +18,8 @@ Usada " The Comedian" Pekora: /Numbers/' eternal champion who mains E.Honda
 https://www.youtube.com/@usadapekora
 Hakui  "The Ruler of Eden"  Koyori : HoloX coyote who go in the street train. Probably going Manon. 
  https://www.youtube.com/watch?v=Pgjp0oGQRfg
+Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. 
+https://www.youtube.com/watch?v=MP0l2VXsq0k
 Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 
@@ -65,11 +67,13 @@ Baby "meems" Mimi: Cute girl from BondEn who loves arcades.
 https://www.youtube.com/@BabyMimi
 
 Shirayuri Productions:
-Nyaru " Fighting idol" chuu: Actual ex idol whose hispanic blood allows her to kick your ass in Idol Showdown 
+
+Nyaru " Fighting idol" chuu: Actual ex idol whose Hispanic blood allows her to kick your ass in Idol Showdown. 
 https://www.youtube.com/@nyaruchuuu/about
 
 ???
-Yoisaki "Grand Blue Sky"  Nadeshiko: Comfy witch with an obsession over GBVS and other anime fighters
+
+Yoisaki "Grand Blue Sky"  Nadeshiko: Comfy witch with an obsession over GBVS and other anime fighters.
 https://www.twitch.tv/NadeshikoVT
 
 >Indies
@@ -90,7 +94,7 @@ Takamura "Bloodhound of Florencia"  Takako: Maid who is a Melty Blood player and
 https://www.twitch.tv/takamuratakako
 AfterSchool "The Beast" Sophie (ASS): Daigo parry queen and strongest figger. Mains Marisa.
 https://www.twitch.tv/afterschoolsophie
-Tara " The Admiral" Kaminarito: Master Manon with a good voice.
+Tara " The Admiral" Kaminarito: Jiggly Master Manon with a good singing voice.
 https://www.twitch.tv/tarakaminarito
 Huntress "Motherfucker" "Hunt' : Shitposter and self described as worst chunli Na who likes Street fighter mods.
 https://www.twitch.tv/huntress

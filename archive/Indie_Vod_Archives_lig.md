@@ -6,7 +6,6 @@
 #Official Vod Channels:
 Content|Link|Description 
 -------|-------|------- 
-Grimmi Vod Channel | [Link](https://www.youtube.com/@GrimmiVODs)| Twitch: https://www.twitch.tv/grimmivt
 Squ Chan Vod Channel | [Link](https://www.youtube.com/@SquChanTwitchVODs)| Twitch: https://www.twitch.tv/squchan
 Saruei Vod Channel| [Link](https://www.youtube.com/@SarueiArchive)| Twitch: https://www.twitch.tv/saruei
 Puppiemoka Vod Channel| [Link](https://www.youtube.com/@puppiemokavods) | Twitch: https://www.twitch.tv/puppiemoka
@@ -93,7 +92,7 @@ Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PL
 ##[Grimmi](https://www.twitch.tv/grimmivt)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share. If you need newer Vods that got muted or something feel free to request them using the mail below as long as they are safe to share. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system.
+Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share. If you need newer Vods that got muted or something feel free to request them using the mail in the last section of this rentry as long as they are safe to share, i can upload them. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these.
 
 ---
 ##[Nyanners](https://www.twitch.tv/Nyanners)

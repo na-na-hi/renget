@@ -66,7 +66,7 @@ Matara Kan  | X | - | X
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Inukai Purin | X | - | X
+Inukai Purin | - | - | -
 Hoshino Charlotte | - | - | -
 Umiushi Urara | - | - | -
 Yazaki Kallin | - | - | -
@@ -788,11 +788,10 @@ Carnelia Asahi | - | - | -
 
 ## -> NoriPRO <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Inuyama Tamaki
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Inuyama Tamaki | X | - | X
 Shirayuki Mishiro | - | - | -
 Enomiya Milk | - | - | -
 Kumagaya Takuma | - | - | -
@@ -1093,10 +1092,10 @@ Nantako Naru | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Anastasia White | - | - | -
-Lily Endou | - | - | -
-Aimi Hada | - | - | -
-Aono Nemo | - | - | -
+Anastasia White | X | - | X
+Lily Endou | X | - | X
+Aimi Hada | X | - | X
+Aono Nemo | X | - | X
 
 ## -> VOICE-ORE <-
 !!! info Available Loras without the need of updates and have been tested.

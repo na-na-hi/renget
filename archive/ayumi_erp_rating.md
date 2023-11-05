@@ -569,16 +569,22 @@ https://files.catbox.moe/007oq8.png
 
 If you have questions, you may catch me under the name "Weicon" on the Pygmalion AI or TheBloke discord.
 
+# Contribute
+
+I had some people ask me if and how they could contribute. As I started using rented GPUs for this third version I decided to create a Ko-fi account. Please only donate if you are able to and find the (already existing) data useful:
+
+- Ko-fi: **https://ko-fi.com/weicon**
+
 # Credits
 
 Big thanks go to:
 
 - The Pygmalion community and developers
 - AliCat and Trappu not just for making the [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR), but also for being so super helpful on Discord.
-- All the busy developers on http://huggingface.co/, who fine tune LLaMA models, and to TheBloke and 
+- All the busy developers on http://huggingface.co/, who fine tune/merge LLaMA models, and to TheBloke and others for quantization.
 - Thanks also to @gj4289 on TheBloke's Discord for the last pieces I needed to accomplish the ALC-IQ benchmark.
 - Thanks also to @ikaridev on TheBloke's Discord for contributing characters and questions to the ALC-IQ benchmark.
-- And to [Gryphe @gryphepadar](https://huggingface.co/Gryphe) and everyone else in #characters-roleplay-storied Channel on TheBloke's Discord for their input!
+- And to [Gryphe @gryphepadar](https://huggingface.co/Gryphe) and everyone else in #characters-roleplay-stories Channel on TheBloke's Discord for their input!
 - Thanks to `mr.developer` too, for writing a filter script for this rentry page: https://rentry.org/ayumi_filter_userscript_info
 - The [llama.cpp](https://github.com/ggerganov/llama.cpp) developers
 

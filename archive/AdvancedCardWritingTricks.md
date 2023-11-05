@@ -268,7 +268,7 @@ Lorebook entries:
 | Frontend | Support |
 | --- | --- |
 | Silly | Supported, but HTML attributes cannot be double-quoted, i.e. <img alt='two words'> works but <img alt="two words"> may break.  |
-| Venus | Unsupported |
+| Venus | Supported, but HTML attributes cannot be double-quoted, i.e. <img alt='two words'> works but <img alt="two words"> may break.  |
 | Agnai | Supported.  |
 | Risu | Supported, but HTML comments do not work due to -- being converted to — . |
 

@@ -162,7 +162,9 @@ Image| Name
 ###DALL-E-3 AUTOPROOMPT
 ```python
 """
+onaholesama@proton.me 
 https://www.youtube.com/watch?v=_1xhj5M6O30
+11/04/2023- i lied, THIS is fully automated, there's a auto account switcher now :P
 10/25/2023- nvm this is actually fully automated :)
 10/24/2023- this (should) be fully automated now i think, but bing has implemented some anti-botting measures.
 10/17/2023- fixed auto resetting boosts, should now be fully automated. FUCK AI ETHICISTS. 15 boosts per account lel.
@@ -170,12 +172,10 @@ https://www.youtube.com/watch?v=_1xhj5M6O30
 10/13/2023- more consistent downloading and some loop fixes.
 
 some notes:
+you will have to supply the proompt, and make sure there is a text file called 'accs.txt' in the same directory. email|pass format.
 install selenium and download the latest chromedriver, executable_path might be deprecated idk.
-you still have to enter bing and login as normal, as well as supplying the proompt.
 
 this isn't flawless and will infinite loop under certain conditions i haven't nailed down yet. 
-for example the blue jay error isn't handled, or the fact that it will sometimes randomly open microsoft designer.
-another weird error that happens randomly "please wait for your other prompts to finish" which wont let you prompt until you clear history.
 """
 
 from selenium import webdriver
@@ -186,18 +186,27 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 import time
+import random
 
 options = Options()
 options.add_experimental_option("prefs", {"download.default_directory": r"C:\gens"}) # change this to your image folder
 driver = webdriver.Chrome(executable_path='C:/Users/ISquatUrCurl/Downloads/chromedriver.exe', options=options) # change this to your chromedriver path
 driver.get("https://www.bing.com/images/create/")
 
+flag = False
 furfag = "forsen"
 i = 0
 idx = 0
 filtered = 0
 ratelimited = 0
 timeout = 40
+cleaned = []
+used = []
+
+with open('accs.txt') as file:
+    for line in file:
+        uncleaned = line.strip()
+        cleaned.append(uncleaned.split('|'))
 
 def checkElementExists(name, type):
     try:
@@ -236,64 +245,60 @@ def downloadImage(idx, single):
 
 def resetTokens():
     try:
-        thingamajig = driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img')
-        thingamajig.click()
+        driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click()
     except:
         try:
-            thing = driver.find_element(By.XPATH, '/html/body/div[4]/div[1]/div[2]/div[1]/div[2]/a[1]/span[2]')
-            thing.click()
+            driver.find_element(By.XPATH, '/html/body/div[4]/div[1]/div[2]/div[1]/div[2]/a[1]/span[2]').click()
         except:
-            kerchigger = driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/span[2]')
-            kerchigger.click()
-    time.sleep(2)
+            driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/span[2]').click()
+    time.sleep(1)
     try:
         driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
     except:
         driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
 
-    time.sleep(2)
+    time.sleep(1)
     driver.get("https://www.bing.com/images/create/")
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.ID, 'sb_form_q').clear()
-    time.sleep(2)
+    time.sleep(1)
 
     while True:
         try:
-            doohickey = driver.find_element(By.ID, 'create_btn_c')
-            doohickey.click()
+            driver.find_element(By.ID, 'create_btn_c').click()
             break
         except:
             driver.get("https://www.bing.com/images/create/")
-            time.sleep(2)
+            time.sleep(1)
             print("FUCk YOU BING")
 
-    time.sleep(2)
+    time.sleep(1)
     emailForm = driver.find_element(By.ID, 'i0116')
     emailForm.send_keys(email)
     driver.find_element(By.ID, 'idSIButton9').click()
-    time.sleep(2)
+    time.sleep(1)
     passForm = driver.find_element(By.ID, 'i0118')
     passForm.send_keys(password)
     driver.find_element(By.ID, 'idSIButton9').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.ID, 'idSIButton9').click()
-    time.sleep(3)
+    time.sleep(1)
     driver.find_element(By.ID, 'id_sc').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.CLASS_NAME, 'hbic_mybing').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/a').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[2]/div[1]/div/div[2]/section[2]/button').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div/div/div/div[2]/div[2]/div[2]/button[2]').click()
-    time.sleep(2)
+    time.sleep(1)
     driver.get("https://www.bing.com/images/create/")
-    time.sleep(2)
+    time.sleep(1)
     while True:
         try:
             driver.get("https://www.bing.com/images/create/")
@@ -324,17 +329,18 @@ def resetTokens():
 """
 good morning sirs
 """
-driver.find_element(By.ID, 'create_btn_c').click()
-time.sleep(3)
-email = str(input("paste email here: "))
-password = str(input("paste password here: "))
+jews = random.randint(0, len(cleaned) - 1)
 
+driver.find_element(By.ID, 'create_btn_c').click()
+time.sleep(2)
+email = cleaned[jews][0]
 emailForm = driver.find_element(By.ID, 'i0116')
 emailForm.send_keys(email)
 time.sleep(1)
 driver.find_element(By.ID, 'idSIButton9').click()
 time.sleep(2)
 
+password = cleaned[jews][1]
 passForm = driver.find_element(By.ID, 'i0118')
 passForm.send_keys(password)
 time.sleep(1)
@@ -347,7 +353,10 @@ time.sleep(2)
 try:
     driver.find_element(By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[2]/div[2]/button[1]').click()
 except:
-    print('blehh')
+    try:
+        driver.find_element(By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[6]/div[2]/button[1]/a').click()
+    except:
+        print('blehh')
 
 proompt = str(input("paste proompt here: "))
 inputform = driver.find_element(By.ID, 'sb_form_q')
@@ -393,13 +402,71 @@ while True:
                     idx += 1
             else:
                 if checkElementExists('[alt="You can\'t submit any more prompts"]', 'blocked'):
-                   resetTokens()
-                   continue
+                    #sign out
+                    print("swapping accounts because bing are niggers")
+                    driver.get("https://www.bing.com/images/create/")
+                    time.sleep(1)
+                    try:  
+                        driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div[2]/a[1]/img').click()                  
+                    except:
+                        try:
+                            driver.find_element(By.XPATH, '/html/body/div[4]/div[1]/div[2]/div[1]/div[2]/a[1]/span[2]').click()
+                        except:
+                            try:
+                                driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/a[1]/span[2]').click()
+                            except:
+                                driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/a[1]/img').click()
+                    time.sleep(1)
+                    try:
+                        driver.find_element(By.XPATH, '/html/body/div[2]/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+                    except:
+                        try:
+                            driver.find_element(By.XPATH, '/html/body/div[3]/div/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+                        except:
+                            driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div[1]/div[2]/span[1]/div/div[3]/a/span').click()
+                    driver.find_element(By.ID, 'create_btn_c').click()
+                    time.sleep(1)
+                    #add bad account to list
+                    used.append(cleaned[jews])
+                    #randomly roll to a new account, check if it is bad already
+                    while flag is False:
+                        ROLLING = random.randint(0, len(cleaned) - 1)
+                        email = cleaned[ROLLING][0] 
+                        for i in range(0, len(used)):
+                            if email == used[i][0]:
+                                continue
+                        flag = True
+                    
+                    print("logging in with ", email)
+                    #continue on as normal
+                    emailForm = driver.find_element(By.ID, 'i0116')
+                    emailForm.send_keys(email)
+                    time.sleep(1)
+                    driver.find_element(By.ID, 'idSIButton9').click()
+                    time.sleep(2)
+                    password = cleaned[ROLLING][1]
+                    passForm = driver.find_element(By.ID, 'i0118')
+                    passForm.send_keys(password)
+                    time.sleep(1)
+                    driver.find_element(By.ID, 'idSIButton9').click()
+                    time.sleep(2)
+
+                    driver.find_element(By.ID, 'idSIButton9').click()
+                    time.sleep(2)
+
+                    try:
+                        driver.find_element(By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[2]/div[2]/button[1]').click()
+                    except:
+                        print('blehh')
+
+                    inputform = driver.find_element(By.ID, 'sb_form_q')
+                    inputform.send_keys(proompt)
+                    continue
 
                 else:
                     print("timed out, redirecting..") 
                     driver.get("https://www.bing.com/images/create/")
-                    time.sleep(2)
+                    time.sleep(1)
                     inputform = driver.find_element(By.ID, 'sb_form_q')
                     inputform.send_keys(proompt)
                     continue
@@ -418,9 +485,15 @@ while True:
     except:
         print("Unknown error.")
         driver.get("https://www.bing.com/images/create/")
-        time.sleep(2)
         inputform = driver.find_element(By.ID, 'sb_form_q')
+        inputform.click()
+        time.sleep(1)
         inputform.send_keys(proompt)
+        time.sleep(1)
+        inputform.clear()
+        time.sleep(1)
+        driver.refresh()
+        inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.click()
         continue
 

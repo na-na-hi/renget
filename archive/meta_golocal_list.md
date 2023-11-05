@@ -40,8 +40,8 @@ https://rentry.org/stheno-guide
 
 ***
 #####Ayumi's LLM Role Play & ERP Ranking
-https://rentry.org/ayumi_erp_rating
-- stolen from /lmg/, just grab the model currently listed as best here, accounting for available computing power or desired speed (7B, 13B, more)
+https://rentry.org/ayumi_erp_rating (http://ayumi.m8geil.de/ayumi_bench_v3_results.html)
+- stolen from /lmg/, a huge table with various models performance in automated benchmarks, admits being flawed
 ![pic 23.08.2023, also thanks, Weird Constructor](https://files.catbox.moe/o6cmri.png)
 ->`pic is very old!`<-
 ***

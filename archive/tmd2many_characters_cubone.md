@@ -102,7 +102,7 @@ Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
-Currently Training for Stat: Speed | **1** | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Speed | **1** | 5/9 | ▮▮▮▮▮▯▯▯▯
 
 ***
 
