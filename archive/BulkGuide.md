@@ -20,6 +20,7 @@ Moveset:
 Arm Thrust
 Tackle
 Force Palm
+Bulk Up
 
 Asana (Meditite):
 Sex: Female
@@ -53,6 +54,7 @@ Wanted for: Murder, Caravan Robbery, Assault
 Sex: Male
 Ability: ???
 Distinctive Features: Wears a worn, brown poncho, and has scars all over his body. He speaks in an accent typical of the Saguaro Tribe, a nomadic group of Cacturne native to the Thirsty Desert.
+Location: Sand Continent
 
 An infamous caravan bandit from the most inhospitable parts of Thirsty Desert with a long career that has spanned over a decade and a half. He's known for his cunning and love of dirty battle tactics, as well as surviving events that less hardy Pokemon could not. He has been reported captured or killed on at least seven seperate occasions, but he always finds a way of surviving or escaping custody.
 
@@ -69,6 +71,7 @@ Wanted for: Murder, Caravan Robbery, Assault, Fraud
 Sex: Male
 Ability: ???
 Distinctive Features: Wears a worn, brown poncho. Speaks in a slow, tired voice, and has a distinctive scar running down most of his left arm. He's also lankier and a bit taller than most of his species, giving him a distinct, reedy-looking appearance.
+Location: Sand Continent
 
 Getting his start as a conman, this Pokemon has only partnered up with Cacturne in the past year, and has quickly become a danger in of himself. He started out as a support, sniping troublesome targets from the rear, although reports indicate that he's recently become a lot more active and aggressive in battling. 
 
@@ -86,6 +89,7 @@ Wanted For: Extortion, Theft, Assault, Caravan Robbery
 Sex: Male
 Ability: Steadfast
 Distinctive Features: Plumage is darker than normal. The leek he wields is longer than his own body, and he wears a necklace of smaller stalks taken from his rivals.
+Location: Sand Continent
 
 This Pokemon was the leader of a gang of Flying-types known colloquially as “The Flock”, totalling five individuals. Their usual M.O was to force caravans on southern routes to pay a toll for “protection”. Those that pay were protected from any lesser robbers, but those that didn't were promptly assaulted and frisked for all their valuables. He's also known for his peculiar habit of wearing a necklace of leeks taken from rival Farfetch'd; praying and asking for them to lend their strength to him each time he enters a battle.
 
@@ -112,21 +116,59 @@ Staravia:
 She's the only girl in the gang. Not much is known about her, but Makky and Mawile worked together to defeat her.
 
 #####The Twins of Terror
-Electabuzz:
+~~Electabuzz~~:
 Bounty: 7,500 Poke
 Rank: S
 Wanted For: Assault, Theft, Looting
 Sex: Male
 Ability: Static
+Location: Sand Continent
 He's the elder brother of the Twins, by a few minutes. He and Magmar terrorized multiple villages in the frigid Southwestern part of the Sand Continent, only to be stopped by Team Yin-Yang and Team Masquerade at Snowdrift. He's a bit smarter than Magmar is, having remembered to pack a Reviver Seed for each of them, and focusing on conserving his power while outnumbered. The two brothers also get into frequent arguments and shouting matches; combat being one of the few times they don't butt heads.
 
-Magmar:
+~~Magmar~~:
 Bounty: 7,500 Poke
 Rank: S
 Wanted For: Assault, Theft, Looting
 Sex: Male
 Ability: Flame Body
-He's the younger brother of the Twins, known for his dimwittedness, poor aim, and tendency to start fires inside of buildings. 
+Location: Sand Continent
+He's the younger brother of the Twins, known for his dimwittedness, poor aim, and tendency to start fires inside of buildings. He often makes statements that are easily misinterpreted by others.
+
+#####Nickel's Gang
+Nickel (Roaming Gimmighoul):
+Bounty: 1,000 Poke
+Rank: D
+Wanted For: Conspiracy to commit assault, theft, and robbery
+Sex: N/A
+Ability: Run Away
+Location: ~~Sand Continent~~ Grass Continent
+Distinctive Features: Wears a pair of teashade glasses, tinted silver. Tends to hide in the storage of his "talent", such as in backpacks, bags, etc.
+This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunning manipulator with a high degree of battle acumen and intellect, "managing" other outlaws and coaching them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
+
+He has left the Sand Continent for the Grass Continent, and is building up a gang there.
+
+Moveset:
+Irrelevant.
+
+Cobalt (Clobbopus):
+Bounty: 300 Poke
+Rank: E
+Wanted For: Theft, Assault
+Sex: Male
+Ability: Limber
+Location: Grass Continent
+He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive, but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on, which wound up being a house bombing.
+
+Thicket:
+Bounty: 100 Poke
+Rank: E
+Wanted For: Bootlegging, Selling Alcohol Without a License
+Sex: Female
+Ability:
+Location: Grass Continent
+Having been kicked out from a long family line of vintners, she had a home constructed and geared up to sell her goods in Capim, only to find out she needed a license to do so. Outraged by the price, perceiving the requirement as an insult to her craft, and her belief that brewing booze is an Arceus given right led her to become a bootlegger, instead. She brews both conventional alcohol alongside more "unique" items, the most notable of which being the Cheri Bomb - by fermenting Blast Seeds and Cheri Berries together, and filling a hollowed out apricorn with the juice, she created an explosive more powerful than the former. Just shake it, throw it, and watch a whole room of enemies fly away from the blast!
+
+Thicket also has a deep love for flora, especially flowers, and any mistreatment of the latter makes her upset. She tends to trip up offenders with vines, or spray them with hallucinogenic gas the first few times, but repeat offenders have been known to have their houses spontaneously explode or catch on fire while they're gone. She joined up with Nickel after he and Cobalt transported a barrel full of Cheri Bomb juice to the house of a Mudbray who had been grazing on Capim Town's flowers.
 
 #####Independent Outlaws:
 ~~"Iron Wing" (Hawlucha)~~:
@@ -136,6 +178,7 @@ Wanted For: Assault, Theft, Caravan Robbery
 Sex: Male
 Ability: Limber
 Distinctive Features: None
+Location: Sand Continent
 
 Originally nothing more than a petty crook, this bird of prey started climbing the ranks with the help of an accomplice - his "manager", Nickel. With their insight and tactical knowledge, he graduated from picking pockets to engaging in the competitive "industry" of caravan robbing. The sheer frequency and increasing effeciency of his attacks sparked discussion of moving him straight to A Rank, before Makuhita and Asana captured him, and his partner abandoned him.
 
@@ -145,19 +188,6 @@ Stone Edge
 Wing Attack
 Aerial Ace
 
-Nickel (Roaming Gimmighoul):
-Bounty: 1,000 Poke
-Rank: D
-Wanted For: Conspiracy to commit assault, theft, and robbery
-Sex: N/A
-Ability: Run Away
-Distinctive Features: Wears a pair of teashade glasses, tinted silver. Tends to hide in the storage of his "talent", such as in backpacks, bags, etc.
-This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunning manipulator with a high degree of battle acumen and intellect, "managing" other outlaws and coaching them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
-
-He has left the Sand Continent for the Grass Continent, and is building up a gang there.
-
-Moveset:
-Irrelevant.
 
 ~~Thievul the Shadow~~:
 Bounty: 8,000 Poke
@@ -167,6 +197,7 @@ Sex: Male
 Ability: Run Away
 Distinctive Features: None
 Held Item: ~~Sneak Scarf~~ Ripped off by Asana.
+Location: Sand Continent
 Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden, even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
 
 He was only captured through the efforts of Asana and her skill at sensing Aura - what she saw was a slightly timid thief who, in spite of his poor battling skills, was unpredictable in a fight, owing to a bag of items and tricks. 
@@ -179,6 +210,7 @@ Sex: Male
 Ability: Technician
 Distinctive Features: Wore a Power Band around his mouth.
 Held Item: ~~Power Band~~ Given to Asana.
+Location: Sand Continent
 
 A stylish outlaw who used a mixture of skill and flashiness to attack numerous exploration and outlaw hunting teams as both a means of thrill-seeking and gaining notoriety. He gave Makky his first loss, although Asana beat him thanks to a combination of her Aura Sensing skills and preparedness. Due to Asana unintentionally reminding him of his mortality and some words from Makky, he might change his ways once he's done serving his time.
 

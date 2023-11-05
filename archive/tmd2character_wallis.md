@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 8 | **Experience to Next Level:** 60/80
+**Level:** 8 | **Experience to Next Level:** 70/80
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 90₽ | **Glorious Gold:** 0 Bars
 
@@ -29,7 +29,7 @@ Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is incre
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Level 5 (20HP) | 22HP (20 HP until after Tuesday the 7th)
+Health Points | 1 | Level 8 (20HP) | 22HP (20 HP until after Tuesday the 7th)
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
@@ -75,7 +75,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
@@ -93,7 +93,7 @@ Item Name | Description
 1. Oran Berry | Heals the user for 10 HP.
 2. TM Round | Teaches the move Round.
 3. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

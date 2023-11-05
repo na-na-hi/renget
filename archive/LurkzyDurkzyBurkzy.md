@@ -1,6 +1,4 @@
 #-> lurkzn's Claude preset (John Cena edition - 2 Nov)<-
-!!! note
-	-> PURELY ANECDOTAL: Claude 1.3 has been giving me good responses, try it out!<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ->![imf2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ2NXBqcHlwMmxiN2Rob2VuamhjaGR3ZnBxaGJrM25mNzA0a3pqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYNjPz4mjberVQkf0v/giphy.gif)<-

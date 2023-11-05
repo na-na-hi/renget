@@ -76,7 +76,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Renewal Herb | Resets all Stat Stage changes to Stage 0.
+1. Pink Gummi 	Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
@@ -94,7 +94,7 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important
 RP Item | Oran berry | A healing fruit, reserved too help the group's cook
 
 **OLD MOVES (∞ slots)**

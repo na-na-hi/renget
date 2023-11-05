@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Genoo](https://rentry.org/295se) | Sizeplay |[Beatrice](https://files.catbox.moe/b4rnq4.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Aster](https://files.catbox.moe/pzag2k.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Raxis](https://files.catbox.moe/ke3vzh.png), [Hal](https://files.catbox.moe/zwt85g.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png), [The Siren](https://files.catbox.moe/7itjx6.png)|
@@ -27,13 +28,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Phantom](https://files.catbox.moe/13c4uo.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
-[Tipzanon](https://rentry.co/tipzanon) | Misc |[Naomi](https://files.catbox.moe/sxapqw.png)|
+[JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
-[JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
-[Genoo](https://rentry.org/295se) | Sizeplay ||
-[Nono](https://rentry.org/NonoRoom) | Misc ||[Leondra](https://files.catbox.moe/s8kcaj.png)
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||
+[Nono](https://rentry.org/NonoRoom) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||

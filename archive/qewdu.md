@@ -17,8 +17,8 @@ https://www.mediafire.com/view/8pxtpwr6kcsw60f
 - Adding a Shader
 https://www.mediafire.com/view/ejsydund031gvij
 
-- Importing In-game animations
-https://www.mediafire.com/view/xjaq29sdigarfpk
+- Importing In-game animations to Blender
+https://www.mediafire.com/view/ze04zllyaylcy12
 
 - Making the Halo move with the head
 https://www.mediafire.com/view/2o0qbbgfogtrbdd

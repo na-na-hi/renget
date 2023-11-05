@@ -491,3 +491,6 @@ https://files.catbox.moe/vk1m3g.mp4
 https://files.catbox.moe/sd1sjl.mp4
 > warhead turns IDF base into slag warhead used by Hezbollah reportedly 1st use of Burkan-2, short-range ballistic missile 1st used by Houthis (ADDED NOV 4th)
 https://files.catbox.moe/zqqwjq.mp4
+>HamasCHADS smoke more tanks in urban warfare: (ADDED NOV 4th)
+https://files.catbox.moe/v9hrbe.mp4
+https://files.catbox.moe/6u0il7.mp4

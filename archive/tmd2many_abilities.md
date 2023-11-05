@@ -86,6 +86,7 @@ Earth Eater | The User heals 2 HP from Ground-Type Moves. The User is immune to 
 **Effect Spore** | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Asleep, Poisoned, or Paralyzed. 1-2 Sleep, 3-4 Paralysis, 5-6 Poison.
 Electric Surge | The User may summon Electric Terrain once per battle.
 **Electromorphosis** | When the User is hit, the damage of their Electric-Type Moves is increased by 5 for the next turn.
+**Embody Aspect** | When the User uses a Grass, Water, Fire, or Rock-Type Move, their Type is changed to the Move's respective Type and their Speed, Special Defense, Attack, or Defense is increased according to their new Type.
 **Emergency Exit** | While below ½ HP, Evasion is increased by 2, Defense and Special Defense are decreased by 3.
 Fairy Aura | The Damage of Fairy-Type Moves is increased by 3 for all Pokémon.
 Filter | Super-Effective Moves used against the User have their damage decreased by 2.
@@ -118,6 +119,7 @@ Hadron Engine | At the start of the battle, Miraidon's Special Attack is increas
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
 Heavy Metal | The User is twice as heavy as they normally would be. They also enjoy heavy metal.
 **Honey Gather** | If the User lands a finishing blow, roll 1D20. Upon rolling 20, the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
+Hospitality | Once per battle, the User may heal an Ally for 2 HP at no cost.
 **Huge Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 Hunger Switch | The User switches between Full-Belly Mode and Hangry Mode every turn.
 Hustle | The User's Attack Stat is increased by 3 Stat Points. The User's Miss Range with Physical Moves is increased by 4.
@@ -160,6 +162,7 @@ Marvel Scale | While the User is afflicted with a Status Condition, Defense is i
 Mega Launcher | The User's Aura and Pulse Moves have their damage increased by 3.
 Merciless | While the Opponent is Poisoned, the User's Moves are Critical Hits.
 Mimicry | The User's Type changes to match the Terrain they are in.
+Mind's Eye | The User's Accuracy cannot be decreased. The Opponent's Evasion is ignored. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
 Minus | While a Pokémon with Plus is in a battle, the User's Special Attack is increased by 5.
 Mirror Armor | The User reflects Stat decreases from damaging Moves towards the Opponent.
 Misty Surge | The User may summon Misty Terrain once per battle. 
@@ -270,6 +273,7 @@ Strong Jaw | The User's Biting Moves have their damage increased by 3.
 Sturdy | When the User is at full HP, they cannot be OHKO'd.
 Suction Cups | The User is unable to be moved by Moves and Items. 
 Super Luck | The User's Critical Hit Ratio is increased by 1. Moves Crit at 18-20.
+Supersweet Syrup | When the User enters a battle, the Opponent has their Evasion decreased by 1.
 **Supreme Overlord** | For every Ally lost, the User's Attack and Special Attack are increased by 1.
 **Surge Surfer** | While in Electric Terrain, the User's Evasion is increased to 2.
 Swarm | While below ⅓ HP, the damage of the User's Bug-Type moves is increased by 5.
@@ -290,6 +294,7 @@ Tinted Lens | The User's Moves are never Not Very Effective.
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 Tough Claws | The damage of the User's Physical Moves is increased by 3.
 Toxic Boost | While Poisoned, the User's Attack is increased by 5.
+Toxic Chain | The User's Attacking Moves have a ≥14 chance of inflicting Poison. 
 Toxic Debris | When the User is hit by a Physical Move, the Opponent is Poisoned. Attacking them again makes the Opponent Badly Poisoned.
 Trace | Once per battle, the User can copy an Ally's Ability, replacing Trace.
 Transistor | Increases the damage of the User's Electric-Type Moves by 5. 

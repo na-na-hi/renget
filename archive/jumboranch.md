@@ -1,9 +1,20 @@
 # JumboRanch's Cards & Junk
 
 
-->![Sunny the punk Raccoon Princess](https://files.catbox.moe/oq80re.png)![Bat-chan](https://files.catbox.moe/7qez8p.png)<-
+->![Sunny the punk Raccoon Princess](https://files.catbox.moe/oq80re.png)<-
 ***
-**Working on a Mishka, Ehzi lore, Raccoon girl, lil' brother for 'Ellie' the Meowscarada, among other ideas.**
+->![Jumbo Ranch announcer](https://files.catbox.moe/0x7fhl.png)<-
+*-> ELEVEN NAKED MONSTER LOLI'S in the showers at JUMBO RANCH! <-
+*-> Big Hard AI PROMPTLETS wanting to be SUCKED <-
+*-> ELEVEN NAKED MONSTER LOLI'S wanting to be FUCKED! <-
+*-> JUMBO RANCH is the place to be for HOT SEXY FURRY LOLI ACTION! <-
+*-> FANTASY LOLI'S in the showers at JUMBO RANCH! <-
+*-> ON THEIR KNEES wanting to suck ROLEPLAYER COCKS! <-
+-> JUMBO RANCH REALLY ROCKS! <-
+
+-> (thanks random person on /AICG/) <-
+
+**Working on a Mishka Lore book for Anthro Girl Scouts, Ehzi Lore/World book, new femboy cub 'Woolly' among other ideas.**
 For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
 
 ***(WIP)***
@@ -87,6 +98,12 @@ Fem Fizz (League of Legends)(genderflip) - 10% - Planning
 Maned Wolf femboy shota - maybe.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
+
 ![Bear-Chan](https://files.catbox.moe/o5yyz9.png)
-![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg) ![Pretty lil She-Bear fishing!](https://files.catbox.moe/xnnyt1.jpg)
+***
+![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg)
+***
+![Pretty lil She-Bear fishing!](https://files.catbox.moe/xnnyt1.jpg)
+***
 ![More cheeky Mishka cute brat!](https://files.catbox.moe/6mdesk.jpg)
+***

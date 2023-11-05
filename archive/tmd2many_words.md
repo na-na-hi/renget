@@ -329,6 +329,86 @@ Most inhabitants don't bother with clothing or serious accessorizing. However, s
 ->![An adventurer has to look stylish saving 'mons...](https://cdn.imgchest.com/files/84jdcbloz4k.png)<-
 ->*You may have everything depicted here or anything that fits the similar style. Anything already in official media is acceptable as well. Yes. Even that Barbroach cap is okay.*<-
 
+### Regionals and Paradoxes
+Some names regarding specific Pokémon might not make sense when translated to a world where humans do not exist. Calling them by their regional names as known in the Pokédex can be construed as simply universal translation between speaker and the reader/player, sometimes there might be some deeper requirements to the context of the conversation. Below are the changes.
+
+Pokémon | Legendary Associated | Translated Name
+--- | --- | ---
+Kanto Rattata, Raticate | None | Plainstooth Raticate
+Alolan Rattata, Raticate | Darkrai | Brushfang Raticate
+Kanto Raichu | Koko | Timber Raichu
+Alolan Raichu | Fini | Seafarer Raichu
+Kanto Sandshrew, Sandslash | Regirock | Sandshrew, Sandslash
+Alolan Sandshrew, Sandslash | Regice | Ironsnow? Shrew, Slash
+Kanto Vulpix, Ninetales | Moltres | Grassland Ninetales
+Alolan Vulpix, Ninetales | Articuno | Misted Ninetales
+Kanto Diglett, Dugtrio | Groudon | Diglett, Dugtrio
+Alolan Diglett, Dugtrio | Volcanion | Blacksand Diglett, Dugtrio
+Kanto Meowth | Mew | Timber Meowth 
+Alolan Meowth | Lunala | Blueblood Meowth
+Galarian Meowth | Registeel | Ferocious Meowth
+Kanto Growlithe, Arcanine | Entei | Steppe Arcanine
+Hisuian Growlithe, Arcanine | Groudon | Strath Arcanine
+Alolan Geodude, Graveler, Golem | Koko | Galvanic Geodude, Graveler, Golem
+Kanto Ponyta, Rapidash | Entei | Steppe Ponyta, Rapidash
+Galarian Ponyta, Rapidash | Xerneas | Hallowed Ponyta, Rapidash
+Kanto Slowpoke, Slowbro, Slowking | Lugia | Slowpoke, Slowbro, Slowking
+Galarian Slowpoke, Slowbro, Slowking | Darkrai | Haunted Slowpoke, Slowbro, Slowking
+Farfetch'd | ??? | Farfetch'd
+Galarian Farfetch'd | Cobalion | Wayward Farfetch'd
+Alolan Grimer, Muk | Darkrai | Oilskin Grimer, Muk
+Kanto Voltorb, Electrode | Koko | Voltorb, Electrode 
+Hisuian Voltorb, Electrode | Bulu | Woodland Voltorb, Electrode 
+Kanto Exeggutor | Celebi | Woodland Exeggutor
+Alolan Exeggutor | Bulu | Coastal Exeggutor
+Kanto Marowak | Ho-Oh | Marowak
+Alolan Marowak | Giratina | Ashen Marowak
+Kanto Weezing | ??? | Weezing
+Galarian Weezing | Xerneas | Misted Weezing
+Kanto Mr. Mime | Mesprit | Actor Mr. Mime
+Galarian Mr. Mime | Regice | Sonneteer Mr. Mime
+Kanto Tauros | ??? | Name Tauros
+Paldean Tauros | Koraidon | Changehorn Tauros
+Johtoan Typhlosion | Volcanion | Volcanic Typhlosion
+Hisuian Typhlosion | Giratina | Soulbound Typhlosion
+Johtoan Wooper | Fini | Wetland Wooper
+Paldean Wooper | Landorus | Muddy Wooper
+Johtoan Qwilfish | Manaphy | Qwilfish
+Hisuian Qwilfish | Darkrai | Shaded Qwilfish
+Johtoan Corsola | Manaphy | Coastal Corsola
+Galarian Corsola | Giratina | Ashen Corsola
+Johtoan Sneasel | Koraidon | Flurry Sneasel
+Hisuian Sneasel | Koraidon | Sheercrag Sneasel
+Hoenn Zigzagoon, Linoone | ??? | Zigzagoon, Linoone
+Galarian Zigzagoon, Linoone | Darkrai | Shaded Zigzagoon, Linoone
+Unovan Samurott | Zekrom | Rapids Samurott
+Hisuian Samurott | Reshiram | Lakeside Samurott
+Unovan Liligant | Shaymin | Flowering Liligant
+Hisuian Liligant | Meloetta | Cascading Liligant
+Unovan Darumaka | Moltres | Desert Darumaka
+Galarian Darumaka | Articuno | Tundra Darumaka
+Unvoan Yamask | Giratina | Concealed Yamask
+Galarian Yamask | Groudon | Unown Yamask
+Unovan Zorua, Zoroark | Marshadow | Zorua, Zoroark
+Hisuian Zorua, Zoroark | Giratina | Soulbound Zorua, Zoroark
+Unovan Stunfisk | Regieleki | Shocker Stunfisk
+Galarian Stunfisk | Registeel | Trapper Stunfisk
+Unovan Braviary | Azelf | Braviary
+Hisuian Braviary | Mesprit | Ashwing Braviary
+Kalosian Sliggoo, Goodra | Regidrago | Sliggoo, Goodra
+Hisuian Sliggoo, Goodra | Registeel | Armored Sliggoo, Goodra
+Kalosian Avalugg | Regice | Glacial Avalugg
+Hisuian Avalugg | Regirock | Summit Avalugg
+Alolan Decidueye | Giratina | Cunning Decidueye
+Hisuian Decidueye | Koraidon | Cascading Decidueye
+Great Tusk | |
+Scream Tail | |
+Brute Bonnet | |
+Flutter Mane | |
+Slither Wing | |
+Sandy Shocks | |
+Roaring Moon | |
+
 ***
 
 ## Smaller Details

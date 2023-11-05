@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>American merc's perspective on Russian artillery in Bakhmut
+https://files.catbox.moe/gcshjm.mp4
+>Ukrainian not trained to use NLAW
+https://files.catbox.moe/gk6rwx.mp4
 >KA-52s blanket hohol positions with S-13 NARs
 https://files.catbox.moe/i4sogo.mp4
 >1st TA ZVO assaults hohol lines towards Kupyansk
