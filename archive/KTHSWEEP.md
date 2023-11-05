@@ -99,6 +99,9 @@ https://desuarchive.org/tg/thread/90733271/#90743192
 >Fēn Jiàngé
 https://desuarchive.org/tg/thread/90790694/#90803915
 https://rentry.org/cut-autist
+>Meng Zhen
+https://desuarchive.org/tg/thread/90817174/#90825484
+https://rentry.org/3pcoe
 
 #### Mortals
 >5 mortals who bring absolutely nothing to the table
@@ -116,6 +119,10 @@ https://rentry.org/fecd5
 https://rentry.org/xnz7aa
 >Lei Daiyu
 https://rentry.org/DaiyuChart
+>Boneless Old Man
+https://rentry.org/kgtam
+>Zheng Hao
+https://rentry.org/rvcrb
 
 ### Scrolls
 
@@ -139,6 +146,8 @@ https://desu-usergeneratedcontent.xyz/tg/image/1699/06/1699068936061.png
 https://desu-usergeneratedcontent.xyz/tg/image/1699/09/1699093092771.png
 >Guan Chao
 https://desu-usergeneratedcontent.xyz/tg/image/1699/09/1699094312209.png
+>Xiu Yi
+https://desu-usergeneratedcontent.xyz/tg/image/1699/11/1699118705884.png
 
 ### Art
 

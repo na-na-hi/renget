@@ -1474,6 +1474,10 @@ https://civitai.com/models/181071/fila-anthro
 
 	https://files.catbox.moe/c9hkyw.rar
 
+# Jellymon (Digimon)
+
+	https://files.catbox.moe/stp2lj.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -188,7 +188,7 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Neko-Rina Brush Set**|[Link](https://nekorina.gumroad.com/l/oyYey?layout=profile)| $5+ |![](https://public-files.gumroad.com/glb1rob95ag2kk990tu4ajn4kvnt)
-** **|[]()|  |![]()
+**Brushset 2023 (VALORANT, LOL, personal work) **|[Link](https://sukeart.gumroad.com/l/isdjt)| $2+  |![](https://public-files.gumroad.com/g43g23twu01yqjjrgt6mesloymcb)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

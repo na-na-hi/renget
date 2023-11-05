@@ -334,6 +334,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt)
+[RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 
 ## Useful Tips
 1. READ
@@ -360,4 +361,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/25-27/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
 10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know.
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
-11/3/23: Fixed some minor nitpicks, changed ordering of the tier list. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
+11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -21,7 +21,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Genoo](https://rentry.org/295se) | Sizeplay |[Beatrice](https://files.catbox.moe/b4rnq4.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Aster](https://files.catbox.moe/pzag2k.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Raxis](https://files.catbox.moe/ke3vzh.png), [Hal](https://files.catbox.moe/zwt85g.png)|
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png), [The Siren](https://files.catbox.moe/7itjx6.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Avery](https://files.catbox.moe/hh25l1.png)|

@@ -93,6 +93,7 @@ Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PL
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share. If you need newer Vods that got muted or something feel free to request them using the mail in the last section of this rentry as long as they are safe to share, i can upload them. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these.
+ Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods
 
 ---
 ##[Nyanners](https://www.twitch.tv/Nyanners)

@@ -46,8 +46,8 @@
 * [/lcg/ Guide](https://rentry.org/lcbguide)
 * [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
 * [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt) [Rentry alternative link](https://rentry.org/b29eu)
+* [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
-* [Yet Another Limbus Company Tier List (I'm moving this to the abandoned section if it's not updated in a few months)](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
 
@@ -132,13 +132,14 @@
 * [Heathcliff VA Twitch](https://www.twitch.tv/hshmike)
 * [Outis/Binah VA Twitch](https://www.twitch.tv/miggang_ster)
 
-## Outdated & Abandoned Links
+## Outdated & Abandoned
+* [Yet Another Limbus Company Tier List](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [The Totally Definitive Sub-120 Railway Guide](https://docs.google.com/document/d/1v3RiEDxIe9uPXU15RlnNfoQxTMyXHYvBAC8E8RCxH2M)
 * [The Totally Definitive Hell's Chicken Speedfarming Guide](https://docs.google.com/document/d/14nrxByHC45Wi8nRVaMZAxQ37r3dz7ykn9YUYswBUwW0)
 * [A Base Sinners Sub-120 RR Guide](https://docs.google.com/document/d/17nAAc9IUTcI3kdZpvpIY4vBQ7DyrX_czkTJylWjATJk)
 * [Team Optimizer 1.15](https://docs.google.com/spreadsheets/d/15RGTMKZqyjolvCSxlY44PDlZpd0MEH6tjY8a8mQCpEM)
-* [Ligma Guide](https://rentry.org/ligmaguide)
 * [Ligmus schizotheorycrafting](https://rentry.org/ligmatheories)
+* [Ligma Guide](https://rentry.org/ligmaguide)
 
 ## Credits
 This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](https://rentry.org/akg_resources) because it is very well made.
@@ -160,4 +161,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
 10/25-26/23: Added LimCum update countdown link. Added Ara channel link.
 10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
-10/31/23: Made separate section for Q&As and interviews, added more links. ![lol&](https://files.catbox.moe/7dmu76.png)
+10/31/23: Made separate section for Q&As and interviews, added more links.
+11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section. ![lol&](https://files.catbox.moe/7dmu76.png)
