@@ -18,22 +18,22 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Planewalker](https://rentry.org/planewalker) | Misc |[Kai](https://files.catbox.moe/ewrfsx.png), [Avery](https://files.catbox.moe/hh25l1.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Beatrice](https://files.catbox.moe/b4rnq4.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Aster](https://files.catbox.moe/pzag2k.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Raxis](https://files.catbox.moe/ke3vzh.png), [Hal](https://files.catbox.moe/zwt85g.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Avery](https://files.catbox.moe/hh25l1.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Phantom](https://files.catbox.moe/13c4uo.png)|
-[Argalia](https://rentry.org/gayanon) | Malebots |[Cyril](https://files.catbox.moe/1q0d3e.png)|
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
+[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Nono](https://rentry.org/NonoRoom) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||

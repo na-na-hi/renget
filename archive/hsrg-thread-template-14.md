@@ -1,4 +1,4 @@
-/hsrg/ - Honkai: Star Rail General
+->/hsrg/ - Honkai: Star Rail General->
 
 Previous: 
 

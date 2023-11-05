@@ -143,7 +143,7 @@ Thanks to his mindset and experience from body cultivation, his style is free of
 [Accidental Guidance](https://rentry.org/spearfuLifeEncounters#accidental-guidance) *(Yasha, Mei Lan, Xu)*
 
 
-[Battle Brother](https://rentry.org/spearfuLifeEncounters#battle-brother) *(Yasha, Zheng Hao (, Yexin maybe?))*
+[Battle Brother](https://rentry.org/spearfuLifeEncounters#battle-brother) *(Yasha, Zheng Hao, Yexin)*
 
 
 [Flashy Heroics](https://rentry.org/spearfuLifeEncounters#flashy-heroics) *(Heng Zhiqiang, Leanne Pierpont, Jian, Lei Daiyu)*

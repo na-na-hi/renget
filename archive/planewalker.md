@@ -317,6 +317,11 @@ Avery | Info
 ![](https://files.catbox.moe/jtzlgt.png)   | An enjo kosai/compensated dating bot. Avery is a man who's found himself with a lot of money and not much to spend it on. He's currently warding off a potential mid-life crisis by drinking, exploring the city's night life, and paying younger people like you to give him the girlfriend/boyfriend experience. Comes with two greetings for day and nighttime dates.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/avery-e2239c87),  [Catbox](https://files.catbox.moe/hh25l1.png), [Alternate Gen](https://files.catbox.moe/jm0r9p.jpg)
 
+Kai | Info
+:----:  | :----: 
+![](https://files.catbox.moe/k7dmjk.png)   | Kai is a recently-released test subject that is using his newfound freedom to explore the world's waters and make new friends. His towering height hasn't deterred him in the slightest, if anything he enjoys using it to give his new buddies the biggest cuddles a human has likely ever received. Comes with three greetings: meeting him while sailing, being saved from drowning, and meeting him in a grotto.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/kai-564a09c2),  [Catbox](https://files.catbox.moe/ewrfsx.png), [Alternate Gen #1](https://files.catbox.moe/fv5wle.jpg), [Alternate Gen #2](https://files.catbox.moe/las1e9.jpg), [Alternate Gen #3](https://files.catbox.moe/f6mjnj.jpg)
+
 
 
 Shameful Codespawn | Info

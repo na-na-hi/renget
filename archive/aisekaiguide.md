@@ -78,7 +78,7 @@ If you narrate a users action or speech, the Ai might see this and force the use
 
 **Please use a spellchecker. Think carefully about punctuation, grammar, tenses and perspectives.**
 
-!!! danger unfinished
+
 ***
 ##Scenario
 This section lets you use natural language and quick facts in short individual sentences. 
@@ -105,7 +105,7 @@ Explain how you intend the events to go. What motives there might be and possibl
 The Ai will attempt to return to this and may do so unexpectantly. For example, write `"This takes place on a beach"`. After 30 messages you might have gone elsewhere but the bot will declare `"the sound of waves are so nice"` and suddenly you're back. 
 
 
-!!! danger unfinished
+
 ***
 ##Dialogue examples
 Try to include some of each of these so the Ai able to accurately grasp what you want to see.
@@ -126,14 +126,14 @@ Boy: And I'm boy!`
 Things to consider:
 Bots will try to incorporate an example used here within their chats. If you have one that says `"I love doughnuts"`, they will shoehorn that into conversations where it could make sense. Be it if you mention being hungry or have just asked for suggestions on a place to go in town. Loving doughnuts would be better put in personality or knowledge base. 
 
-!!! danger unfinished
+
 ***
 ##Knowledge base
 The facts that shape your bot together, their relationship with things, anything that didn't feel appropriate for other sections. 
 This is a good section for using natural language.
 **Remember to use {{char}} when talking about the character and {{user}} when referring to yourself.**
 
-Key thing is differentiating what goes in here and what goes in scenario. I mostly think of it as the "everything else" section, putting in facts about the character and user that might be relevant. 
+Key thing is differentiating what goes in here and what goes in scenario. I mostly think of it as the "everything else" section, putting in facts about the character and user that might be relevant. The contents of this section seems to have a lower importance than scenario, swap things between the two if you feel something is appearing too much or not enough.
 Think along the lines of
 `{{char}} enjoys writing.`
 `{{char}} is annoyed by {{user}}.`
@@ -141,7 +141,7 @@ Think along the lines of
 
 
 A popular thing to add is `{{user}} is a male/female unless otherwise stated.` This might avoid an annoying interaction later on.
-!!! danger unfinished
+
 ***
 ##Tags
 Seems to only be for discoverability. Accurately tag your bot anyway. Needs 3 minimum. 6 Maximum.

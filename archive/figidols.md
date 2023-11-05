@@ -18,7 +18,7 @@ Usada " The Comedian" Pekora: /Numbers/' eternal champion who mains E.Honda
 https://www.youtube.com/@usadapekora
 Hakui  "The Ruler of Eden"  Koyori : HoloX coyote who go in the street train. Probably going Manon. 
  https://www.youtube.com/watch?v=Pgjp0oGQRfg
-Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. 
+Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. Interested in Manon as well. 
 https://www.youtube.com/watch?v=MP0l2VXsq0k
 Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
@@ -115,3 +115,5 @@ Yuri "Unbreakable diamond" Yuni: Cutest JP, cutest diamond. Mains Luke.
 https://www.twitch.tv/yuniruyuni
 Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa(?)
 https://www.twitch.tv/amakipururu
+Yukonishita "Gas Chamber" Peo: Jp tsunx friends who loves amelia watson and plays IS
+https://www.youtube.com/watch?v=CaaCYs2gXmg

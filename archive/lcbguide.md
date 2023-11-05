@@ -29,7 +29,7 @@ Yes. There are only 3 rarity tiers, and you can currently clear all content with
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
 
 **7. Does this game have supports?**
-Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status, and E.G.Os of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
+Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **8. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -59,17 +59,17 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **14. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.O are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and Events [here.](https://lcbcountdown.carrd.co/)
+We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.Os are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and Events [here.](https://lcbcountdown.carrd.co/)
 
 **15. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
 
 ## Rerolling
 **1. Do I need to reroll?**
-No. All story content in the game can be beaten with the default Identities and E.G.Os. Reroll if you want to start with specific ones.
+No. All story content in the game can be beaten with the default Identities and E.G.O. Reroll if you want to start with specific ones.
 
 **2. Who do I reroll for?**
-Try to get two Identities on this list. It's unlikely but possible to get 3. Do not bother rerolling for E.G.Os.
+Try to get two Identities on this list. It's unlikely but possible to get 3. Do not bother rerolling for E.G.O.
 - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
 - ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
@@ -77,7 +77,7 @@ Try to get two Identities on this list. It's unlikely but possible to get 3. Do 
 - ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) Effloresced E.G.O::Spicebush Yi Sang
 - ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) Tingtang Gang Gangleader Hong Lu
 - ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) The One Who Grips Faust
-The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.Os.
+The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O.
 
 **3. How do I reroll?**
 Rerolling is extremely easy, and the developers have intentionally made it easy so players can start with what they want.
@@ -98,16 +98,16 @@ Now that you're in the main menu screen, perform the following loop.
 **1. Identities**
 You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah.
 
-You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and a new watchable story. 000 Identities get pretty animated artwork.
+You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and a new watchable story. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
 
 **2. E.G.O**
-You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color.
+You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color, unless otherwise specified.
 
 Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. You can have multiple E.G.O passives active at a time. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too. Many Zayin E.G.Os are still highly relevant.
 
 Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
-It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand.
+It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand if possible.
 
 **3. Lunacy & Extractions**
 Lunacy is the gacha currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance, you get 300 compensation Lunacy. This is just short of a 10-roll per week. 
@@ -140,7 +140,7 @@ Identities and E.G.O featured in the currently ongoing Walpurgis Night Event can
 ![Image sourced from threads](https://files.catbox.moe/y91i04.jpg)
 
 **5. Dupes**
-If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
+If you obtain a duplicate (dupe) of an Identity, it will be converted into Egoshards for whichever Sinner the Identity belongs to. Dupes do not give upgrades or gameplay advantages. If you gather 400 Egoshards for one Sinner, you can obtain (shard) any unowned 000 Identity or E.G.O for that Sinner. 00 identities cost 150 shards. You should generally only shard 000 Identities or E.G.O.
 
 The other use for Egoshards is Uptie 4, which requires Egoshards, so one 000 dupe can be viewed as a free Uptie 4. You can also convert Egoshards to Thread, but that is not recommended.
 
@@ -155,11 +155,11 @@ As for E.G.O, rather than being converted into shards, it'll be removed from the
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
 **7. Battle Pass**
-The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins, a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track.
+The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins, a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track. You get the rewards from the paid track up to your current level once you buy it, excluding the post level 60 bonuses.
 
-You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is arguably the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section.
+You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section. 
 
-Be aware that the Battle Pass bonuses past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it the as soon as possible or once you hit level 60.
+Be aware that the Battle Pass *bonuses* past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it before you pass level 60.
 
 **8. Daily Rolls**
 An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% of the price, but you only get to do so with paid Lunacy.
@@ -273,12 +273,12 @@ This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved wh
 **4. Sanity**
 Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons, your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an E.G.O at low Sanity will also have a chance to corrode, depending on how low your Sanity is.
 
-Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when the level of the defeated ally is higher than the unit's and decreases based on the level difference. E.G.Os also cost Sanity.
+Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when the level of the defeated ally is higher than the unit's and decreases based on the level difference. E.G.O also cost Sanity.
 
 **4. Battle Types**
 There are two types of battles: human battles and Abnormality battles. As the names imply, the battle type depends on whether you are fighting humans or Abnormalities. If you are fighting both humans and Abnormalities at the same time, it will be an Abnormality battle. In the Refraction Railway, every battle is an Abnormality battle, regardless of the enemy type.
 
-Human battles are what you will encounter most often. In human battles, you drag the chain across the dashboard to select skills. Outside of things like aggro and certain E.G.Os, you cannot manipulate targeting and clashes in human battles. Abnormality battles are commonly found in Thread Luxcavation, Dungeons, and the Refraction Railway. In Abnormality battles, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots.
+Human battles are what you will encounter most often. In human battles, you drag the chain across the dashboard to select skills. Outside of things like aggro and certain E.G.O, you cannot manipulate targeting and clashes in human battles. Abnormality battles are commonly found in Thread Luxcavation, Dungeons, and the Refraction Railway. In Abnormality battles, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots.
 
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list, so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released, and I don't want to do that. There are many other tier lists and resources for you to use if you need a full one.

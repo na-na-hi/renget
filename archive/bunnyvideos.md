@@ -61,5 +61,8 @@
 [JPN] Popo: https://www.youtube.com/@kogarana-popo
 - 100K+
 
+[JPN] U-chan: https://www.youtube.com/@uutyannpapa
+- black and white Harlequin, < 1K
+
 [JPN] Usa: https://www.youtube.com/@usao-usao
 - lots of videos outside and digging, 50K+

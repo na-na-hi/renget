@@ -1478,6 +1478,12 @@ https://civitai.com/models/181071/fila-anthro
 
 	https://files.catbox.moe/stp2lj.safetensors
 
+# Pixzapix (Artist)
+>No activation token, but i tried to tag everything like solo/duo/comic/monochrome so it's easier to prevent it from getting confused and making stuff like that, since a lot of his work is comics and duos
+>other common tags are puffy anus, perching position, size difference, gynomorph, equine penis, mating press
+
+	https://files.catbox.moe/1hb04f.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

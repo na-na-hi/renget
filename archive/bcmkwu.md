@@ -1,4 +1,22 @@
 ▶NEW CLIPS
+>Russian tanks and artillery attack hohols in avdeevka-petrovskoe area
+https://files.catbox.moe/ngmxtw.mp4
+>Russian artillery firing on hohol positions north of Verbovoye
+https://files.catbox.moe/0epn1x.mp4
+>attack on Sukhie Yaly bridge in Konstantovka
+https://files.catbox.moe/jvzxpv.mp4
+>hohol award ceremony aftermath
+https://files.catbox.moe/46lqzb.mp4
+>127th division getting ready for an assault
+https://files.catbox.moe/yoqu56.mp4
+>Sudoplatov drones light up hohol asses
+https://files.catbox.moe/lwmjk4.mp4
+>hohols under Russian artillery fire
+https://files.catbox.moe/uvhxkh.mp4
+>58th Separate Brigade drops grenades on hohols near Bakhmut
+https://files.catbox.moe/cty7fe.mp4
+>Iskander strike on Ukrainian soldiers lined up for awarding ceremony, 25 officers of 128 brigade confirmed KIA
+https://files.catbox.moe/p912yw.mp4
 >American merc's perspective on Russian artillery in Bakhmut
 https://files.catbox.moe/gcshjm.mp4
 >Ukrainian not trained to use NLAW

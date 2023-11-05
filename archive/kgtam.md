@@ -104,9 +104,9 @@ Boney is not a fan of murderhobos. He would not feel much regret if he had to ki
 She really wants to be a maid that badly? Is it some sort of fetish? Anyway, Boney isn't really in the market for maids. He's always looked down on people who need servants, honestly.
 
 >Wen Lifen
-"I do not think that's a very healthy lifestyle. She's gonna feel it in her bones when she's older"
+"I do not think that's a very healthy lifestyle. She's gonna feel it in her bones when she's older."
 
-Boney has decide "live and let live" in regards to people like Wen Lifen. If she was his patient though, he would give her a stern lecture on the dangers of smoking and not using protection. It's his duty. He will also try and clean up any drug epidemics he comes across, but it's not like he can waste time on that for long.
+Boney has decided "live and let live" in regards to people like Wen Lifen. If she was his patient though, he would give her a stern lecture on the dangers of smoking and not using protection. It's his duty. He will also try and clean up any drug epidemics he comes across, but it's not like he can waste time on that for long.
 
 >Lei Daiyu
 "Ah, so she's a drummer, eh? Y'know, I can play the xylobone!... Alright, not my best work."
@@ -133,6 +133,11 @@ Boney (and me, to be honest) does not really understand all that stuff Xicotl ta
 
 Well, going around the world sampling food is a decent 
 enough aspiration. Boney would boil her some tea to try if he found the chance. He's a bit proud of it, y'know.
+
+>Pàng Jīng
+"The Demon Whale woke up?! I've heard stories, but I think this is the first time he woke up in our lifetime. What a bad stroke of luck..."
+
+Same as the other completely evil cultivators. Probably one of the most dangerous to deal with, though. Boney would have to be certain of a 100% guaranteed victoty if he wanted to deal with him.
 
 >Xū
 "Rumors about a particularly old fellow breaking free? Welp, good for him! Oh, he's very partial to his element as well, eh? Looks like we have something in common!"
@@ -165,9 +170,14 @@ By the force of pure comedy, Boney wishes to face Po Kong in a sparring match. H
 Boney isn't too sure about what an impious cultivator is, but he really hopes that he isn't one. He thinks they'll be on good terms, at least.
 
 >Fēn Jiàngé
-"So, a man who cut his very soul, eh? That reminds me that I should try and find out if I carve seals on souls. Seems like something we should check out, right?"
+"So, a man who cut his very soul, eh? That reminds me that I should try and find out if I can carve seals on souls. Seems like something we should check out, right?"
 
 Boney gives his condolences. He very much knows what it's like to have a debilitating soul injury.
+
+>Meng Zheng
+"Fox Demon Cult, right? I've always hated them. I'd talk about trying to get rid of them, but they're so old it seems impossible if no one's done it by now. Welp, there's nothing wrong with hoping!"
+
+I can't imagine Boney would have a positive opinion on her at all. He may even puke just from the thought of working with her. What's worse, there's nothing he can really do about her. Who knows, maybe he can brew tea or give her a seal that would ruin her forever?
 
 >Five Mortals
 "Old pervert! I don't want to hear about some young ladies you want to bone! Have some class!"

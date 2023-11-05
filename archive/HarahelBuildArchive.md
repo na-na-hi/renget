@@ -392,6 +392,11 @@ Note: Playing Monster Breeder: Harahel Edition featuring special appearances fro
 Data: https://rentry.org/MelloBuild
 Music: 
 
+Name: Morgan de Yorke
+Note: A feminine marionette who hides a surprising tool just out of sight. (Note, profile only at present)
+Data: https://textbin.net/raw/peeiw2am0l
+Music: 
+
 Name:	Mugen
 Note:	A thuggish, hot-blooded ghoul from Nocturne with an insatiable hunger for battle and street justice. Aloof, vulgar, and meatheaded to a fault, but his heart is in the right place - most of the time.
 Data:	https://textbin.net/my3hcbeo0j
