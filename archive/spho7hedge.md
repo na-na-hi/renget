@@ -1,3 +1,6 @@
+yeah this is really shit i'm sorry
+
+
 SPEEDY HOG 7, least that's what the label on the cartridge (also featuring stolen and crappily edited fanart) appears to translate to.
 It's a bootleg Genesis game that appears to originate from Asia. Found it at a flea market, the seller said they never bothered to play it, since they didn't even own a console. It comes with a manual written in Chinese that contains no pictures of the game itself, only poorly edited pictures of Sonic, Tails, Knuckles, and Eggman. Sorry, what I meant to say was "Hog, Fox, Punch, and ..." They gave the crew poorly done redesigns, and somehow they never bothered to actually give Eggman a new name, No big deal since it would've been shit anyways. The manual is also useless, even after being translated, it seems to be nothing more than a basic rundown on who Sonic is and how the game controls (no different from Sonic 3). Interesting however is that it lists the zones. It uses confusing bootleg names, but from what I can gather, the first 4 zones seem to just be the same as those of the first Sonic game, and then the last two zones are Hidden Palace and Launch Base. I imagine they are added in lazily. It's time to actually play this thing.
 

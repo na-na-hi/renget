@@ -218,6 +218,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 [**Clover Guild (ch1.5) Q&A**](https://rentry.org/ChrPromptThreeHalf)
 [**Clover Guild (ch1.5.2) Q&A**](https://rentry.org/chrpromptfourhalfredux)
 
+[**Clover Guild Aggie-revealed lore, misc. questions, and errata.**](https://rentry.org/omc8d)
+
 ####First Collaborative Writing Project -- Enter the Federation
 [Enter the Federation - Rules and Prompt](https://rentry.org/EtF_Rules)
 * [Enter the Federation - Introduction](https://rentry.org/EtF_Intro)

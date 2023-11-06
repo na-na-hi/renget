@@ -164,6 +164,7 @@ Image| Name
 """
 onaholesama@proton.me 
 https://www.youtube.com/watch?v=_1xhj5M6O30
+11/05/2023- i am stupid.
 11/04/2023- i lied, THIS is fully automated, there's a auto account switcher now :P
 10/25/2023- nvm this is actually fully automated :)
 10/24/2023- this (should) be fully automated now i think, but bing has implemented some anti-botting measures.
@@ -193,7 +194,6 @@ options.add_experimental_option("prefs", {"download.default_directory": r"C:\gen
 driver = webdriver.Chrome(executable_path='C:/Users/ISquatUrCurl/Downloads/chromedriver.exe', options=options) # change this to your chromedriver path
 driver.get("https://www.bing.com/images/create/")
 
-flag = False
 furfag = "forsen"
 i = 0
 idx = 0
@@ -429,13 +429,16 @@ while True:
                     #add bad account to list
                     used.append(cleaned[jews])
                     #randomly roll to a new account, check if it is bad already
-                    while flag is False:
+                    while True:  # keep generating until a unique email is found
                         ROLLING = random.randint(0, len(cleaned) - 1)
-                        email = cleaned[ROLLING][0] 
-                        for i in range(0, len(used)):
+                        email = cleaned[ROLLING][0]
+
+                        # iterate over all used emails
+                        for i in range(len(used)):
                             if email == used[i][0]:
-                                continue
-                        flag = True
+                                break  # exit loop if the email is found in 'used'
+
+                        break
                     
                     print("logging in with ", email)
                     #continue on as normal
@@ -488,13 +491,14 @@ while True:
         inputform = driver.find_element(By.ID, 'sb_form_q')
         inputform.click()
         time.sleep(1)
-        inputform.send_keys(proompt)
+        inputform = driver.find_element(By.ID, 'sb_form_q')
+        inputform.click()
         time.sleep(1)
         inputform.clear()
         time.sleep(1)
         driver.refresh()
         inputform = driver.find_element(By.ID, 'sb_form_q')
-        inputform.click()
+        inputform.send_keys(proompt)
         continue
 
 driver.close()

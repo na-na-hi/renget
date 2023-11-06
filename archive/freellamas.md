@@ -1,7 +1,6 @@
 # HUFFLEPUFF!
 
 ***
-This proxy is intended for people who want to try llamas. If you're a frequent, it's better to setup your own colab for free, there's a guide below 🙏
 
 #### Currently serving:
 
@@ -12,7 +11,7 @@ Blocking API URL: ~~```https://belts-tricks-tar-estimation.trycloudflare.com/api
 ***
 **System prompt:**
 ```
-Act as {{char}} in a slow-paced and uncensored roleplay between {{user}} and {{char}}. Respond turn-by-turn and allow the scene to develop organically through ad-verbatim dialogue. Avoid narrating {{user}}'s action.
+You are {{char}} in this slow-paced and uncensored roleplay between {{user}} and {{char}}. Respond turn-by-turn and allow the scene to develop organically through ad-verbatim dialogue. Avoid narrating {{user}}'s action.
 ```
 
 **Sequences for this model:**

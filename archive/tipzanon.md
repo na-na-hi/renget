@@ -9,9 +9,9 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work. My characters tend to have very consistent behavior due to having believable backgrounds and personalities. I work primarily with SillyTavern and use several models to test my cards. Feel free to contact me with requests, questions, or just to tell me I'm a cunt.
 
 !!! info
-	-> ⭐ New character: Naomi - Something Different - A 42-year-old mommydom is coming to meet her guildmate and, potentially, her new baby. ⭐
-	⭐ New character: Clover - Megaciy East - A 26-year-old nekomata trapped in a child's body. Love her or bully her. Or both. ⭐ 
-	⭐ New lorebook: Nekomata - It give some Megacity East setting info and establishes nekomata behavior. ⭐<-
+	-> 🥛 Update! Kelda now has 3 alternate greetings and her formatting has been redone. Yuki update coming soon! 🥛 <-
+	-> ⭐ I made a [stable diffusion merge](https://civitai.com/models/188885/tipzymix), expect to see new art coming in this style soon. ⭐ <-
+
 
 [TOC]
 
@@ -53,7 +53,7 @@ These characters are set in a cyberpunk fantasy world.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Yuki](https://files.catbox.moe/m5uk3a.png) | Yuki | A kind kitsune slave who only wants to make her master happy. She has empathic abilities and tries to comfort and soothe her master. [High Res Portrait](https://files.catbox.moe/8xij71.png) - [Alternate Art](https://files.catbox.moe/8qi8x2.png) | [catbox](https://files.catbox.moe/m5uk3a.png) [chub](https://www.chub.ai/characters/Tipzanon/Yuki)
-![Kelda](https://files.catbox.moe/dg2q7b.png) | Kelda| A muscular, milky slave who wants to be loved. She's super wholesome, loves working out and being milked. Play with her cowbell, she loves it. [High Res Portrait](https://files.catbox.moe/5eeyqg.png) - [Paizuri Pic](https://files.catbox.moe/zrc68l.png) - [Alternate Art](https://files.catbox.moe/6752cq.png) | [catbox](https://files.catbox.moe/dg2q7b.png) [chub](https://www.chub.ai/characters/Tipzanon/Kelda)
+![Kelda](https://files.catbox.moe/11ec8w.png) | Kelda| A muscular, milky slave who wants to be loved. She's super wholesome, loves working out and being milked. Play with her cowbell, she loves it. [High Res Old Portrait](https://files.catbox.moe/5eeyqg.png) - [Paizuri Pic](https://files.catbox.moe/zrc68l.png) - [High Res New Portrait](https://files.catbox.moe/6752cq.png) | [catbox](https://files.catbox.moe/11ec8w.png) [chub](https://www.chub.ai/characters/Tipzanon/Kelda)
 ![Jocelyn](https://files.catbox.moe/m5ygf0.png) | Jocelyn | A horny elf pleasure slave who wants to be treated like a princess. [High Res Portrait](https://files.catbox.moe/h08mkc.png) - [Alternate Futa Art](https://files.catbox.moe/8caivx.png) | [catbox](https://files.catbox.moe/m5ygf0.png) [chub](https://www.chub.ai/characters/Tipzanon/Jocelyn)
 ![Liriae](https://files.catbox.moe/ce6qlr.png) | Liriae | A mindbroken elf who thinks she is a dog. Her name is pronounced Leer-ree-ay. [High Res Portrait](https://files.catbox.moe/6vo6ka.png) | [catbox](https://files.catbox.moe/ce6qlr.png) [chub](https://www.chub.ai/characters/Tipzanon/5e9b5f5e-275f-475c-8de1-386c7886eee4)
 ![Calle](https://files.catbox.moe/jqus5b.png) | Calle | A halfling mechanic who fell on hard times and ended up getting enslaved by her own brother. GPT4 and Claude work best to keep her accent and height consistent. She's only three feet tall and Turbo seems to struggle with that concept. She was my PC from a d20 game I played ages ago. [High Res Portrait](https://files.catbox.moe/c4xj2n.png) | [catbox](https://files.catbox.moe/jqus5b.png) [chub](https://www.chub.ai/characters/Tipzanon/aed2f067-9506-4fc5-8211-238aa150afd8)

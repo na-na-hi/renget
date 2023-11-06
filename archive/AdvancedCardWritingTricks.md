@@ -173,7 +173,7 @@ Check out the defs to see how this is enforced.
 | Frontend | Support |
 | --- | --- |
 | Silly | Single-line and multi-line |
-| Venus | Single-line |
+| Venus | Single-line and multi-line |
 | Agnai | Single-line and multi-line |
 | Risu | Single-line |
 
@@ -468,7 +468,7 @@ See also: **[XML](#xml)**
 | Frontend | Support |
 | --- | --- |
 | Silly | Yes |
-| Venus | No |
+| Venus | Yes |
 | Agnai | Yes |
 | Risu | No |
 

@@ -26,8 +26,8 @@ Botmaker | Category | New Bots | Updated Bots
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||[Kelda](https://files.catbox.moe/11ec8w.png)
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
