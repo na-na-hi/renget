@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Nuggest](https://rentry.org/Nuggest) | Misc |[Yumi](https://files.catbox.moe/w16jzt.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Heinz](https://files.catbox.moe/ap3406.png), [Raxis](https://files.catbox.moe/ke3vzh.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kai](https://files.catbox.moe/ewrfsx.png), [Avery](https://files.catbox.moe/hh25l1.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Beatrice](https://files.catbox.moe/b4rnq4.png)|
@@ -69,7 +70,6 @@ Botmaker | Category | New Bots | Updated Bots
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
-[Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||

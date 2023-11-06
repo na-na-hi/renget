@@ -18,11 +18,11 @@ https://www.youtube.com/watch?v=J8z5CavPCYY
 \>[New Character] Leni - Eternal Return
 https://www.youtube.com/watch?v=57kSs-F-wRY
 
+\>Street Fighter Piolo Preview
+https://www.youtube.com/watch?v=fLAsf29_jtE
+
 \>Scarlet Vampire Shoichi Preview
 https://www.youtube.com/watch?v=svmBforGos8
-
-\>Professor Cathy Preview
-https://www.youtube.com/watch?v=5QZ7xQMtx-Q
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4

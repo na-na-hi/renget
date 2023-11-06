@@ -18,12 +18,12 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     On a hiatus. In the mood to return to the botmakie business. Got proxy access from a mysterious benefactor. Thanks. Still on the fence on whether I should dive back into the sewer. -Nuggest, 05.09.23
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
-	Updates:
+	Recent Updates:
+	06.11.23: Added new card 'Yumi' under Unreleased Cards
 	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
 	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
 	09.09.23: Added new card 'Chae-won'
 	06.09.23: Updated 'Cluckette' to v1.1 and moved to Bots
-    05.09.23: Added new card 'Cluckette' under Unreleased Cards
 
 
 ***
@@ -101,6 +101,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
     Stuff not found on Chub. Pre-releases, prototypes, scraped cards, etc.
 |  |  | 
 | ------ | ------ |
+| **Yumi** | https://files.catbox.moe/w16jzt.png |
+| ![Yumi](https://files.catbox.moe/w16jzt.png) | **Simple and lightweight saviorfagging card. An abused schoolgirl who ran from home. She's soaked and shivering in the rainy night when you pull up to her.** [v0.1, Claude 2 06.11.23] |
 | **Elia** | https://files.catbox.moe/rfc2mg.png |
 | ![Elia](https://files.catbox.moe/rfc2mg.png) | **Based on I, the Forgotten One. You are the bastard son of the Emperor. Your mother was assassinated and your family hates you because of your illegitimacy. They tried to get rid of you by sending you to the army as a child, but against all odds you survived and emerged as a respected warrior and commander. Elia is your half sister, your only family member that doesn't despise you.** [v0.2, Claude 2 17.09.23] *Wrote new greeting and revamped description. Old greeting still available as alternate first message. Didn't really do any testing so far, merely two chats with Claude 2 which worked well enough.* |
 | **Amelia 'Quickstep' Brooks** | https://files.catbox.moe/4iyl2n.png |

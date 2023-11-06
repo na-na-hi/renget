@@ -22,3 +22,9 @@ The largest you can run, explanations of each file and their resource usage are 
 https://huggingface.co/TheBloke/HornyEchidna-13B-v0.1-GGUF#provided-files
 
 I don't recommend going below Q5_K_M, but if you have to, you have to. Search Hugging Face for gguf and you'll find other stuff to try, including smaller 7B models which are worse but will run faster on worse hardware
+
+### BUT I AM AMD MAN!
+
+Download the ROCm/hipBLAS fork and use that instead, everything else should be the same:
+https://github.com/YellowRoseCx/koboldcpp-rocm/releases
+If you prefer not to do that, you can select CLBlast in the main version, but it will be slower.

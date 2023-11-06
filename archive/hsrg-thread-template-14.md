@@ -49,7 +49,6 @@ https://hsr.hoyoverse.com/gift
 KBQBEP3L8823 
 5S6ZHRWTDNJB
 STARRAILGIFT
-\>THE LIVESTREAM CODES EXPIRED
 
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14
