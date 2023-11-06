@@ -84,6 +84,10 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90750577
 >Lan Jiangmei, The Martial Realm’s Next Masterchef
 >>90784451
+>Pang Jing
+>>90829445
+
+
 
 >ANCESTORS
 >Xū, Void Parisian
@@ -119,6 +123,8 @@ https://rentry.org/dpfk5
 https://pastebin.com/5ZmCW69k
 >A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
 https://rentry.org/o28z44
+>Musings (Xiu)
+https://rentry.org/o8x42
 ```
 ***
 Page 3
@@ -137,6 +143,9 @@ https://rentry.org/xnz7aa
 https://rentry.org/DaiyuChart
 >The Boneless Old Man
 https://rentry.org/kgtam
+>Zheng
+https://rentry.org/rvcrb
+>
 
 ```
 #MHA

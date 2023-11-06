@@ -415,6 +415,18 @@ v50:
 
 	https://pixeldrain.com/u/9UA8KMfF
 
+### QuEasyFluff
+>I'd recommend setting CFG rescale down to around 15-35 and maybe prompt high contrast or vibrant colors.
+>Higher CFG rescale tends to bleach colors.
+>People keep asking what's in the mix so:
+>QuEasyFluff (regret this name already) is an easyfluff TrainDifference merge of easyfluff10-prerelease with a custom blockmerge non-furry realism model I made some time back that was made by merging:
+>HenmixReal_v30
+>EpicRealism_PureEvolutionV3
+>LazymixRealAmateur_v10
+
+	Model: https://pixeldrain.com/u/71ZWunuG
+	Yaml: https://pixeldrain.com/u/aoxveaCu
+
 ## Galleries
 
 # FluffAnon's Generations

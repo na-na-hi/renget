@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #38 (Tuesday, 31 October 2023, 15:30 UTC)<-
+->Last updated on thread #39 (Monday, 06 November 2023, 16:45 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -311,6 +311,11 @@ Sorry.
 I stopped at a Burger King and had the "Royal" chicken sandwich with bacon & swiss cheese. It was okay, kind of salty, very filling. It was not really memorable, but definitely not the worst chicken sandwich I've had either.
 
 ###Chick-fil-A
+####60877312 Anonymous: Pepper Pimento Sandwich
+`Pepper Pimento Sandwich`
+Just had Chick-fil-A's pepper pimento sandwich. Wtf bros why is it so good
+[![Pepper Pimento Sandwich: 20231104_193721_1.jpg / 1699156581258.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)
+
 ####59136273 Anonymous: Pimento Cheese Sandwich
 `Pimento Cheese Sandwich`
 I thought I would never get anything from CFA ever again since they're such fag and nigger lovers. That sandwich was fucking amazing. I must really be behind times or something because I don't recall CFA ever having sizable chicken breast for any of their sandwiches. It was juicy and the breading was crunchy. The odd items of pimento cheese, jalapenos, and honey goes really well with it. My only complaint was it didn't have nearly as much pimento cheese like the picture shows, but I guess it was a good enough amount. The meal was $10+ without tax...

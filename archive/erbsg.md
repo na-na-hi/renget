@@ -8,8 +8,6 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
 https://playeternalreturn.com/posts/news/1515 (1.7 Patch Notes)
-https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards)
-https://playeternalreturn.com/posts/news/1503 (Season 2 Dev Stream)
 https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
@@ -48,8 +46,7 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1485 (~11/9)
-https://playeternalreturn.com/posts/news/1520 (Twitch drops, ~11/9)
+https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards 11/9)
 
 \>Codes
 https://coupons.tnra.ro/

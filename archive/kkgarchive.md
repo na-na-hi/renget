@@ -1,35 +1,36 @@
 ## /kkg/ Thread Archive
 
 !!! note 
-    **Live - [boards.4chan.org/h/thread/7646355/](https://boards.4chan.org/h/thread/7646355/)**&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
+    **Live - [boards.4chan.org/h/thread/7646560/](https://boards.4chan.org/h/thread/7646560/)**&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
 
 **Latest**
-- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
-- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
-- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
-- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
-- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
+- 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
+- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
+- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
+- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
+- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
 &nbsp;
 
 ---
 
 ## ->2023<-
 
-- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
-- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
-- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
-- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
-- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
-- 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[888]&nbsp;#&nbsp;Let me fucking sleep Edition
-- 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[1002]&nbsp;#&nbsp;Learning to swim Edition!
-- 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
-- 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
-- 641&nbsp;&nbsp;[archiveofsins.com/h/thread/7609421/](https://archiveofsins.com/h/thread/7609421/)&nbsp;&nbsp;&nbsp;&nbsp;(09.10.2023 00:27)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Post Butts Edition
-- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[1038]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
-- 639&nbsp;&nbsp;[archiveofsins.com/h/thread/7600921/](https://archiveofsins.com/h/thread/7600921/)&nbsp;&nbsp;&nbsp;&nbsp;(03.10.2023 14:07)&nbsp;&nbsp;[1006]&nbsp;#&nbsp;This time with a subject field edition
+- 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
+- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
+- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
+- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
+- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
+- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[888]&nbsp;#&nbsp;Let me fucking sleep Edition
+- 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[1002]&nbsp;#&nbsp;Learning to swim Edition!
+- 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
+- 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
+- 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7609421/](https://archiveofsins.com/h/thread/7609421/)&nbsp;&nbsp;&nbsp;&nbsp;(09.10.2023 00:27)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Post Butts Edition
+- 641&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[1038]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
+- 640&nbsp;&nbsp;[archiveofsins.com/h/thread/7600921/](https://archiveofsins.com/h/thread/7600921/)&nbsp;&nbsp;&nbsp;&nbsp;(03.10.2023 14:07)&nbsp;&nbsp;[1006]&nbsp;#&nbsp;This time with a subject field edition
+- 639&nbsp;&nbsp;[archiveofsins.com/h/thread/7600904/](https://archiveofsins.com/h/thread/7600904/)&nbsp;&nbsp;&nbsp;&nbsp;(03.10.2023 13:47)&nbsp;&nbsp;[1]&nbsp;#&nbsp;I can't read what this says edition
 - 638&nbsp;&nbsp;[archiveofsins.com/h/thread/7596393/](https://archiveofsins.com/h/thread/7596393/)&nbsp;&nbsp;&nbsp;&nbsp;(30.09.2023 03:21)&nbsp;&nbsp;[982]&nbsp;#&nbsp;The High Road edition
 - 637&nbsp;&nbsp;[archiveofsins.com/h/thread/7593461/](https://archiveofsins.com/h/thread/7593461/)&nbsp;&nbsp;&nbsp;&nbsp;(28.09.2023 03:13)&nbsp;&nbsp;[924]&nbsp;#&nbsp;No Edition
 - 636&nbsp;&nbsp;[archiveofsins.com/h/thread/7588952/](https://archiveofsins.com/h/thread/7588952/)&nbsp;&nbsp;&nbsp;&nbsp;(24.09.2023 21:39)&nbsp;&nbsp;[1026]&nbsp;#&nbsp;You didn´t heed the warning Edition

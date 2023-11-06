@@ -20,13 +20,12 @@ Self-explanatory.
 To be determined.
 ## Female MC Pregnancy
 To be determined.
-## Free Use Content
-Self-explanatory; a feature to allow the player to have have free use sex with 2hus, whether via hypnosis or other means. Example:
-- Having sex with Eiki while she judges the deceased.
 ## Furniture Recipe Mechanic
 To be determined.
-## Hypnosis Expansion
-In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
+## Hypnosis Expansion Redux
+- *I feel like hypnosis could be expanded more on, for those that like that sort of thing. Like a different sort of high powered (high TSP cost and required roll for success rate) fake consent hypno where you can drag them around and commence sexy time with them, but they don't gain any exp nor do they react to it (like those sex-awareness block doujins), even if they orgasm during the deed (since they're not 'aware' of them orgasming). Kind of like doing TSP rape except you're doing it in 'real time'? And if you combo it with a high roll common sense degeneration area-wide hypnosis, you could even do it in public and no one will bat an eye at you doing such things nor start getting horny seeing the action, just like my doujins/hentais. Unless you run out of TSP in the middle of doing the deed and they snap out of it, that is.
+- *Oh, is that so. I haven't touched TW in a long while actually, but I do remember when that was in. A really good roll could almost get you having sex with someone you've met for the first time, depending on their traits. I assume that was why it was removed in the first place; I feel like it should've been left available but require something (gatherable/craftable/buyable item?) as a catalyst in addition to a high TSP cost to perform for area-wide hypnosis. Maybe it'd be better if it was a limited area instead, but that is complicated to map out in terms of era, I suppose. Perhaps they can return as a sort of mostly cosmetic thing, like an area-wide hypnosis that makes everyone in the area wear maid outfits that they pull out of thin air, or for a more expensive cost one, an area-wide hypnosis that makes everyone in the area become naked and instead treat people (mostly (You)) who wear clothing like as if they're naked instead.
+- *My fetish is denying girls orgasms and I want to ask to keep this denial lasting all day. If anything, make it so it can even affect their choice to masturbate at night if it's not a thing already. Just a cap on how much desire you can get from it should be enough.
 ## Incident Scenario
 To be determined; initial concept by AK Spectre and Eri.
 ## In Heat Expansion
@@ -117,7 +116,7 @@ https://gitgud.io/Pedy/pedy-tw/-/issues/31
 https://gitgud.io/Pedy/pedy-tw/-/issues/14
 ## New Request Ideas
 https://gitgud.io/Pedy/pedy-tw/-/issues/18
-# Suggestions Ported Over to Git
+# Suggestions Ported Over to Git / Added to the Game
 ## Dating Expansion
 An expansion of the functionality of the dating system, such as visiting an izakaya, going out for karaoke, and other distinct dating locations based on map, which might allow the player to train other stats while on dates and minimize the sameness of dating.
 For example:
@@ -129,6 +128,11 @@ For example:
 - [Engage in Karaoke!] should not penalize either of you if you have low musical skill because it is merely a fun party activity; however, it should give a boost if either of you do have a high musical skill.
 - [Window Shopping at Kourindou]
 - Event specific ideas such as [View the Fireworks] on New Year’s Day.
+## Free Use Content
+Self-explanatory; a feature to allow the player to have have free use sex with 2hus, whether via hypnosis or other means. Example:
+- Having sex with Eiki while she judges the deceased.
+## Hypnosis Expansion
+In particular, the ability to guarantee that morning sex events happen the following day, the ability to make characters exhibitionists/nudists (they would walk around in their underwear or naked), and the ability to make characters surrender their panties to you and/or not care if they catch you with panties.
 ## LiG Housing System & Carpentry Skill
 In response to requests for the MC to be able to make their own furniture, in order to bypass paying for a commission at the Human Village, I believe it would be best represented by a skill.
 - This skill could theoretically tie into being able to build your own house.

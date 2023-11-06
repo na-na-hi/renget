@@ -70,7 +70,7 @@ If you have no interest in the current banner student(s) use the Regular Recruit
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
 Made by /bag/:
-![Reroll targets](https://i.imgur.com/pValg17.png)
+![Reroll targets](https://i.imgur.com/tmi8QuB.png)
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 
 
