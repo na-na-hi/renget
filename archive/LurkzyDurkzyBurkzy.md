@@ -15,7 +15,9 @@ and does a good enough job of not advancing the scene without {{user}} interacti
 [TOC2]
 ***
 #->Download John Cena (Final)<-
-->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/tixt2k.zip)<-
+!!! note
+	#####->**6 Nov - I lied, I made a very minor adjustment**<-
+->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/psj27d.zip)<-
 ***
 #-> Add-ons<-
 **User Info**: Input your chat specific persona here! 

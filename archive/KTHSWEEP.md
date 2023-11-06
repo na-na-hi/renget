@@ -30,6 +30,7 @@ https://desuarchive.org/tg/thread/90733271/#90738966
 >Qiáng Wěi - 強偉
 https://desuarchive.org/tg/thread/90744924/#90760925
 https://rentry.org/spearfu
+https://rentry.org/spearfuLifeEncounters
 
 #### Elders
 
@@ -81,6 +82,9 @@ https://rentry.org/DAMOIGHTYSUN
 >Lan Jìngměi (蘭 静美)
 https://desuarchive.org/tg/thread/90778334/#90784451
 https://rentry.org/KtHChefSaber
+>Pàng Jīng
+https://desuarchive.org/tg/thread/90827962/#90829445
+https://rentry.org/EVILFATSLIMYAWFULTYRANNICALMONSTERBUTWORSTOFALLHESREALLYSTUPID
 
 #### Ancestors
 

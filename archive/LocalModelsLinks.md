@@ -2,7 +2,7 @@
 ->/lmg/<- | ->Accelerate<-
 ------ | ------
 **Guides**|
-[Quick Start Guide](https://rentry.org/TESFT-LLaMa)|Outdated. Basic how to set up Nvidia/AMD/CPU inferencing 
+[Quick Start Guide](https://archive.is/NzXae)|Outdated. Basic how to set up Nvidia/AMD/CPU inferencing 
 [SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
 [LM Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
 [LM Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
@@ -12,6 +12,7 @@
 [TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
+[Ayumi ERP Benchmark](http://ayumi.m8geil.de/index.html)|Ranks models by how well they adhere to character cards, as well as lewd word variety/amount
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |

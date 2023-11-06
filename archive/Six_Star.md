@@ -10,20 +10,22 @@ Luxury - Collection purposes only if you have extra resources to fluff about wit
 
 PvE is defined as a general category for anything that isn't Arena or CB such as Event SP, Dungeons, Luna Tower, Special Dungeon, etc... 
 
-Last Updated: May 21st, all units have been updated.
+Last Updated: November 5th, UE2s have been taken into consideration, so units will be re-considered during their release.
 [TOC2]
 
 ## -> Kyaru <- (JP release date: Year 2, August 31st)
-Does not see any usage, a stat stick for her other versions. 
+Does not see any usage, a stat stick for her other versions.
 - UB+: Gives her double damage and a fear debuff that prevents units from using their UB.
-- CB:  Do not use in CB, as she is extremely powercrept by the plethora of mutli-target mages actually designed for CB.
-- Arena: Can be a very poor man's mage in Arena for Luna cannon comps, but is extremely outclassed. Do not use outside of having a pure love for the character.
-- PvE: Not going to be used in any sort of content 
-- Unless you've unlocked all other 6 Stars or have some sort of undying love for Kyaru, her only worth is in bond stories. Not advised for new players, as there are better units to unlock.
+- UE2 stats: +6000HP, +2400 M.Atk, +120 Pdef & +120Mdef
+- S2+: With UE2, debuff to P&M def increase by 316. New effects are paralysis for 3s and increased Crit damage received by units affected by S2+ within 300 range, by 20%.  
+- CB:  Has seen some usage in T2 1:30 OF comps, but isn't a must. Better for Pyaru bond stories though.
+- Arena: With actual CC and increased stats from UE2, Kyaru has been a fairly consistent performer in Arena since its release. Fairly strong in P.Arena defenses and double Kasumi/Kyaru (Ex. Kyaru, Pyaru, MS.Kasumi & Kasumi + Karin) offenses, she is certainly a force to respect when building a team.
+- PvE: Not extremely useful overall, but has a decent debuff that could sneak in some usage.
+- Kyaru is a prime exame of how strong a UE2 can be. She's gone from complete trash to a nice Arena unit in no time. Worth farming up, given how easy it is if you want to get a good bit of leverage in Arena.
 
-Bond story priority: Low (Relevant for O.Kyaru, Pyaru)
-Max level Unit priority: Luxury
-New player Unit priority: Luxury (Does not help clear EX3+ faster)
+Bond story priority: High (Relevant for O.Kyaru, Pyaru, TS.Kyaru)
+Max level Unit priority: High
+New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kokkoro <- (JP release date: Year 2, August 31st)
@@ -42,6 +44,8 @@ New player Unit priority: Luxury (Does not improve clear for EX3 or higher,  unl
 ## -> Pecorine <- (JP release date: Year 2, August 31st)
 Still has a niche in Arena offense, but no longer relevant in a meta sense. 
 - UB+: Gives her a P.Atk buff that increases based on HP and increases the values of current defensive buffs gained from it
+- UE2:
+- S2+
 - CB: Skillset is not appropriate for CB, do not attempt to use. 6 Star does not change this.
 - PvP: Has some niche usage against those Summer Hatsune comps where they try to burst squishy targets, but isn't pivotal to those.
 - PvE: Tanks generally need some sort of reason to be used, but Peco has none over options like Nozomi.
@@ -227,7 +231,7 @@ Saren is purely a TP battery who sometimes cleans up enemy teams if she's lucky 
 - CB: The tiniest of niches if there is an S.Peco OF comp that she is required to change her in, but even then we have alternatives that work better. Outside of that, nothing.
 - Arena: Used to charge the closest unit towards her, usually in Ninon comps. Her TP restore is a 2nd action, so do look out for that. She can wipe squishies if she gets to low HP and doesn't have to cut through barriers.
 - PvE: Largely useless, unless you have no other options for TP restoration and need to charge a specific unit close to her.
-- Purely an Arena nich specialist, at least her other versions can benefit from her bond stories. However, not a bad unit to have in your Arena arsenal. Just look at her S1+ 
+- Purely an Arena nich specialist, at least her other versions can benefit from her bond stories. However, not a bad unit to have in your Arena arsenal. Just dont look at her S1+.
 
 Bond story priority: Med (Relevant alts: Ex. Aki/Saren. X.Saren, S.Saren)
 Max level Unit priority: Low
@@ -263,6 +267,8 @@ New player Unit priority: Low (Does not help clear EX3/4+)
 ## -> Mahiru <- (JP Release Date: Year 3, November 5th)
 Mahiru is pretty shit aside from some silly defenses that get shit on normally. She's actually used for her bonds, because X.Mahiru has CB niche usage.
 - UB+: turns it AOE, gives an increase in damage, increased Stun time to 5s, knocks back and applies confusion to anyone within 300 range of that first target hit.
+- UE2:
+- S2+
 - CB: No use in CB, ever
 - Arena: Her UB+ sounds great for Arena, but in reality she is incredibly niche in a meta where the first action can decide an entire match. She has a tiny niche in P.Arena, but only for getting cheesy wins against ill-prepared blind parties.
 - PvE: Outside of confusing enemies in some funny comps, not worth it.
@@ -274,12 +280,14 @@ New player Unit priority: Luxury (Does not help clear EX3/4+)
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> Suzuna <- (JP Release Date: Year 3, December 7th)
-One of the more useless 6 Stars at this point. Selfish archer DPS with zero actual impact.
+One of the more useless 6 Stars at this point. Selfish archer DPS with zero actual impact when compared against the best units.
 - UB+: Increased damage she deals and gives a 25% P.Crit damage boost for 18s
-- CB: No longer used in any way for CB.
-- Arena: Nothing worth using, just are better options that aren't even 6 Stars for what she could potentially do.
-- PvE: Enemies are too tanky for her, many better options most likely exist win your box without a 6 Star.
-- Being heavily reliant on crits as a selfish DPS that does not circumvent the damage cap or restore their own TP means that Suzune is just a relic of the past. Just don't use her.
+- UE2: +4200 P.Atk, 420 P.Crit Chance
+- S2+: Massive increase to P.Atk buff (over 20k P.Atk) that is now permanent. New effects are increased P.Crit dmg of self by 15% permanent and 150 TP to self.
+- CB: UE2 did not save her and probably never will.
+- Arena: Nothing worth using, just are better options that aren't even 6 Stars for what she could potentially do. What can she do? Nuke a single enemy.
+- PvE: Enemies are too tanky for her, many better options most likely exist win your box without a 6 Star. See above.
+- Even with an extra bit more P.Crit chance and TP restoration to self, Suzuna simply pales in comparison with other physical attackers, even other Archers like Arisa. Her skill loop is complete shit outside of the opening, so there's very little reason to want her. Maybe you'll see her in some OF comps one day, but don't hold your breath.
 
 Bond story priority: Luxury (No relevant alts)
 Max level Unit priority: Luxury
@@ -782,7 +790,7 @@ Similar to Rei's unique buff, her UB gives her a timed mark that improves her S1
 - PvE: Similar to CB, she will get used as boss defenses go up.
 - Overall, Makoto's role highly depends on how much shred is required in fights, with balancing damage and survivability. We may see her start out as an OF/CO unit due to the high amount of shred she has on UB alone, but there is certainly an opportunity for her to return to the heights she used to reach in the past.
 
-Bond story priority: Low (Relevant units: None)
+Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority: High
 New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
@@ -798,4 +806,17 @@ Kasumi was great in arena before and just gets better with this 6*.
 Bond story priority: High (Relevant units: MS.Kasumi)
 Max level Unit priority:  High
 New player Unit priority: Med
+[Return to Top](https://rentry.org/Six_Star)
+
+## -> Shiori <- (JP Release Date: Year 6, November)
+Kasumi was great in arena before and just gets better with this 6*. 
+- UB+: TBD
+- CB:  TBD
+- Arena: TBD
+- PvE: TBD
+- TBD
+
+Bond story priority: Luxury (Relevant units: None)
+Max level Unit priority:  
+New player Unit priority: 
 [Return to Top](https://rentry.org/Six_Star)

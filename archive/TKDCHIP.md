@@ -1,7 +1,9 @@
-Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ Egypt Anon, Burgerbaker wants to share the edit code thanks. 
+Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ORIGINAL CLIPS HERE: https://rentry.org/daeq2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>No peace without freedom:
+files.catbox.moe/inva47.mp4
 >VERY OLD. pissreal jewrats snipe child for fun
 https://files.catbox.moe/42o36w.webm
 >OLD. Hamas threat for one hostage execution livestreamed for targeting innocent civies
@@ -494,3 +496,10 @@ https://files.catbox.moe/zqqwjq.mp4
 >HamasCHADS smoke more tanks in urban warfare: (ADDED NOV 4th)
 https://files.catbox.moe/v9hrbe.mp4
 https://files.catbox.moe/6u0il7.mp4
+>HamasCHADS engage vehicles and infantry: (ADDED NOV 5th)
+files.catbox.moe/dzvmip.mp4
+files.catbox.moe/4tdn66.mp4
+>Rocket launching kino (ADDED NOV 5th)
+files.catbox.moe/5ioe91.mp4
+>Al-Qassam shelling training kino (ADDED NOV 5th)
+files.catbox.moe/fvbwyb.mp4

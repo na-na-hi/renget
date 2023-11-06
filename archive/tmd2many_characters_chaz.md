@@ -72,7 +72,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed | Tier **2** | 4/9 | ▮▮▮▮▯▯▯▯▯
+Currently Training for Speed | Tier **2** | 4/9 | ▮▮▮▮▮▯▯▯▯
 
 
 **INVENTORY (4 slots)**

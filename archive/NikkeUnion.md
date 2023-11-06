@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 04/11/23: Boomerang Edition**
+**Last updated: 05/11/23: Toub Edition**
 
 ***
 
@@ -34,11 +34,11 @@
 | NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |  competitive, lv281+                     |
 | NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
-| PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | PERMISSION |  for midcuties                      |
+| PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 2 | 23/25 | CUNNYGOD | PERMISSION | for newcuties |
+| KUNNYHUB | ==**29940**== | 2 | 25/25 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

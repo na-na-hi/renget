@@ -1133,13 +1133,24 @@ Cons:
 - All buffs are only to self
 
 ### ->Fallen Ria<-
-**TL;DR: TBD**
- 
-
+**TL;DR: Re-directs damage from lowest HP unit for 8s. Seems decent, but lacking a lot of tools that most units have in favour of a very unique damage re-direction mechanic. Seems like a good unit, but not a perma that needs to be sparked.**
+Ria's identity is about keeping the lowest HP unit alive by providing healing and re-directing damage to self. For example, her S2 will offer a 30% damage cut in both damage types to herself, while re-directing attacks taken by the lowest HP unit to her and providing an immunity to immobilizing effects (like what Muimi 6* has in UB form) to herself.. The essence of her gameplay is taking damage for a unit, healing it off with UB and dealing damage. Her UB & S1 deal more damage based on the total HP of other units in your party. While not necessarily a tank, she can help absorb damage. This is a long shot, but she could be a good 1st position unit for archers to help with their infamously squishy problem. In comps where you need to protect one unit, she can help facilitate squishier choices. That being said, Ria is lacking a bit in overall utility when compared to units like Saruka, Sasaren, X.Jun, etc... Her gimmick has potential, but without any shields she may run into issues against enemies that deal fatal damage in a single nuke, despite 30% damag reduction.
 -> ![Fallen Ria](https://redive.estertion.win/card/full/126031.webp) <-
 
 Pros:
-- TBD
-	
+- Good p.def debuff on S1
+- Good skill loop with consistent debuff output (S1 > AA > S1 > S2 > AA > S1)
+- Good damage with party at full HP
+- Immune to certain effects with flying status, like Riri
+- 30% cut in damage to both damage types helps in tandem with S2 re-direction damage
+- Decent positioning (Right behind Yukari, in front of S.Eriko and Monika)
+- Keeps lowest HP unit healed up with S2 while topping self off with UB
+- Good stats to survive fights for her role
+
 Cons:
-- TBD
+- Re-direction is not a taunt (can be a good thing for moments where taunts get ignored)
+- No buffs for teammates in any capacity
+- No TP Boost/restoration increases
+- UB Is just damage and a heal to self
+- No barriers or shields to self
+- Can only offer protecting to a single unit

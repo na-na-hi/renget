@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-09-13)==<-
+->==(Updated 2023-10-25)==<-
 ***
 [TOC2]
 ***
@@ -47,7 +47,10 @@ https://rentry.org/ayumi_erp_rating (http://ayumi.m8geil.de/ayumi_bench_v3_resul
 ***
 #####More rankings
 https://rentry.org/lmg-13b-showdown
-- stolen from /lmg/, a small test of currently popular 13B models
+- stolen from /lmg/, a small test of 13B models popular at the time
+
+https://old.reddit.com/user/WolframRavenwolf/submitted/?sort=new
+- linked [here](https://desuarchive.org/g/thread/96895763#96898926), llm comparison with ST roleplay tests
 
 
 

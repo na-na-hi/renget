@@ -1484,6 +1484,15 @@ https://civitai.com/models/181071/fila-anthro
 
 	https://files.catbox.moe/1hb04f.safetensors
 
+# Helga (Character, World Flipper)
+Regular Costume
+
+	https://files.catbox.moe/5kkocf.safetensors
+
+Proud/Beast Costume
+
+	https://files.catbox.moe/7v2xox.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
