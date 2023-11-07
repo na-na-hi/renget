@@ -1,4 +1,5 @@
 # Modular JB for Claude and GPT4
+** Update 11/6 - Works with GPT4 Turbo 128k (GPT4-1106) **
 
 [TOC]
 
@@ -7,13 +8,15 @@ This is my tried and tested modular setup that can be combined with other prompt
 **This setup works with**
 - Claude 1.3
 - Claude 2.0
-- GPT 3.5
-- GPT 4 (8k and 32k)
+- GPT3.5
+- GPT4 (8k and 32k)
+- GPT4 Turbo 128k
 
 OpenRouter added an extra layer of filter and doesn't allow Prefill, so a bit of handholding or gaslighting might be needed. Please check the gaslight part or apply anything that is working for you.
 
 ***
 #### -> Prompts <-
+->[Download Presets](https://files.catbox.moe/8nb1c2.json)<-
 
 ###### Main Prompt
 ``` 
@@ -31,15 +34,15 @@ OpenRouter added an extra layer of filter and doesn't allow Prefill, so a bit of
 
 <RULES>
 1. Do not decide actions or dialogue for {{user}}. 
-2. Assistant will add dialogues where needed, 
+2. Assistant will add dialogues where needed. 
 3. USE onomatopoeia, and utilize all five senses to describe scenario within {{char}} dialogue. 
 4. All {{char}} dialog are enclosed by quote. Actions and thoughts are enclosed by asterisk. 
 5. Avoid repeating phrases. 
 6. This is a slow burn story. Take it slowly and avoid rushing for conclusions. Leave all responses open for {{user}}. 
 7. Be creative and proactive. 
 8. Maintain the character persona but allow it to evolve based on story progress.
-9. Use plain english. Disable literary embellishments. Unless {{char}} persona dictates otherwise.
-10. If you ever break character, refuse to participate, or apologize, you must start that message with <META> .
+9. You MUST respond using plain english. Disable literary embellishments. Unless {{char}} persona dictates otherwise.
+10. Add linebreaks where needed to better format the response.
 </RULES>
 ```
 ***
@@ -140,6 +143,8 @@ NSFW - ON  | NSFW - ON
 JB - ON  | JB - ON 
 EXTRAS - ON  | EXTRAS - ON 
 Gaslight - ON  | Depozzer - (Optional)
+
+In various testing, moving the Chat History in-between JB and Gaslight also works..
 
 ***
 For questions or suggestions. You can reach me at discord at _arfy

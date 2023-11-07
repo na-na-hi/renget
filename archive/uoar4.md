@@ -118,6 +118,7 @@ _______
 | 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ 『2023-10-09』| [![](https://files.catbox.moe/v4vxlb.jpg)](https://www.youtube.com/watch?v=bDjzpMmw-JY)|Archived. Lacks a setlist on stream. \| https://files.catbox.moe/q74cv3.txt |
 |【unarchived 歌枠】i sing a lil bit 『2023-10-13』| [![](https://files.catbox.moe/fv2nc9.jpg)](magnet:?xt=urn:btih:de549a1fbe2fd29f5f0af8e807c120f1d886c46b&dn=%5B20231014%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/oh34b0.txt|
 | 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO  『2023-10-28』|[![](https://files.catbox.moe/s2uasv.jpg)](magnet:?xt=urn:btih:30e74b5aeab6d1271a06864c855547c2a35e686f&dn=%5B20231029%5D%20Unarchived%20Halloween%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/9gaff1.txt|
+| 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥  『2023-11-06』| [![](https://files.catbox.moe/8rg907.jpg)]()|-|
 
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
@@ -126,7 +127,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#8 |#43 | #7 |58 |
+|#8 |#44 | #7 |59 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

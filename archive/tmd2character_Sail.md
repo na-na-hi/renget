@@ -25,7 +25,7 @@ Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
-Special Defense | 1 | Species Bonus | +2 Special Mitigation
+Special Defense | 1 | Species Bonus; Special Defense **ɪ** | +3 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -65,7 +65,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** (+1 STAT) | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Special Defense **ɪ** | Tier **ɪ** (+1 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

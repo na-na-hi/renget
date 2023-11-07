@@ -87,6 +87,7 @@
 11/2019|[Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)
 08/2021|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
 05/2022|[OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
+07/2022|[Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486)
 11/2022|[Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
 01/2023|[Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture (I-JEPA)](https://arxiv.org/abs/2301.08243)
 02/2023|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
@@ -427,6 +428,7 @@
 10/2023|[Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](https://arxiv.org/abs/2310.19102)
 11/2023|[AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models](https://arxiv.org/abs/2311.01305)
 11/2023|[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)
+11/2023|[Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization](https://arxiv.org/abs/2311.01544)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

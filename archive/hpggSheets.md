@@ -6,13 +6,13 @@
 
 ->[Magic Awakened Character Sheet](https://files.catbox.moe/at764i.png)<-
 
+->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
+
 ->[Outfit + Info Card Sheet](https://files.catbox.moe/1bor7p.jpg)<-
 
 ->[Magic Awakened Card Templates](https://rentry.org/wq3s8)<-
 
 ->[Beach Party Sheet](https://files.catbox.moe/x302ek.png)<-
-
-->[Report Card](https://files.catbox.moe/8ss8wc.jpg)<-
 
 ->[Duelling Sheet](https://files.catbox.moe/9mcc9v.png)<-
 

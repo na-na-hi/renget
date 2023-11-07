@@ -26,12 +26,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Anadenanthera Peregina](https://files.catbox.moe/s0hpcy.png)|
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||[Kelda](https://files.catbox.moe/11ec8w.png)
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||[Yuki](https://files.catbox.moe/nuklc9.png), [Kelda](https://files.catbox.moe/vw2m5y.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||

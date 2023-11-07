@@ -1,4 +1,4 @@
-#-> lurkzn's Claude preset (John Cena edition - 2 Nov)<-
+#-> lurkzn's Claude preset (John Cena edition - 6 Nov)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ->![imf2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ2NXBqcHlwMmxiN2Rob2VuamhjaGR3ZnBxaGJrM25mNzA0a3pqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYNjPz4mjberVQkf0v/giphy.gif)<-
@@ -12,11 +12,11 @@ and does a good enough job of not advancing the scene without {{user}} interacti
 -----------------------------------------------------------------------------------------------------------------------
 ```
 ***
-[TOC2]
+[TOC3]
 ***
 #->Download John Cena (Final)<-
-!!! note
-	#####->**6 Nov - I lied, I made a very minor adjustment**<-
+->**6 Nov** - I lied, I made a very minor adjustment<-
+
 ->[![DOWNLOAD FILES](https://files.catbox.moe/o23tum.png)](https://files.catbox.moe/psj27d.zip)<-
 ***
 #-> Add-ons<-

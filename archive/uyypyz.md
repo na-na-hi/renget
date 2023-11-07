@@ -1738,3 +1738,286 @@
 >he huffed you through your pants
 >a giggle 
 >guess he liked your smell too
+
+>hard to think at one point this man terrified you
+>over time it just felt natural to think of him as man or wife
+>the fox and witch thing felt almost secondary 
+>he was just your Füchsin 
+>he was beastial, primal
+>but you ended up balancing that out
+>if he still didn't have a soul he could have yours 
+>but over the seasons you'd felt a spark of something was there
+>your contemplation was broken up by his tongue lapping at your pants
+>he seemed to prefer you when you worked
+>said you tasted better
+>you didn't see much of a difference but it was nice to be appreciated 
+>his ears flicked on his head as your hand went to play with his hair
+>even in the darkened cave you could see the hunger in his body language
+>the tail wagging helped
+>he could never hide that
+>claws hooked your waistband and he ever so delicately ripped your pants down and off
+>took talent to do that without looking
+>because those eyes that originally haunted you were focused on your violent manhood
+>through the pants versus his tongue on the bare skin was a world of difference that you could never explain
+>the heat of his breath
+>the way he pleaded up to you silently
+>his beguiling eyes reflecting a hint of mischief along with his desire
+>he was naughty
+>and you encouraged it
+>gripping his hair, you occasionally buried his muzzle into your crotch
+>he'd lap at your balls, worshiping them
+>he huffed in your scent and you could tell he was stroking himself between your legs
+>"I hope you don't mind if your anniversary gift is something you've used before."
+>you had a pretty good idea what it was
+>you had no complaints 
+>you remarked at least then you knew it was the perfect fit
+>he giggled as his paw went to lovingly stroke your own gift to him
+>"and at least I know I love what you've got me."
+>he got coy and rubbed his cheek against the tip
+>the herbs he'd given you had your dick angrily throbbing and his warmth felt almost soothing and cool by comparison 
+>he teased the shaft with a practiced ease
+>his experience with you was paying off
+>hard to believe a man could know how to satisfy another this well
+>you'd come around to it and never had need of a woman after you met him
+>he just was a wife
+>a better wife
+>you could see his teeth gleam in a sultry smile as he savored you
+>the first time he'd gulped you down it had awoken things in you
+>hell, before that such acts were unheard of
+>such sexual activities counted as sodomy
+>he craved you sodomizing him
+>secretly, you ended up loving it too
+>it was hard to reconcile with your faith 
+>both of you knew acts like this counted as sin
+>you had learned to ignore such guilt
+>you'd waste every drop of your seed in your wife regardless of sin or not
+>you heeded no punishment in the face of your growing lusts and passions
+>it was a strange and corrupt love and you had to hide its true form
+>but when you ended up facing God you'd proudly hold up your wedding band
+>this was your life and you'd live it without regrets
+>just then he spoke up, breaking the deep concentration you were in
+>"you're sweet. I saw that. however, someone worries too much"
+>a clawed finger softly rubbed at the underside of your tip
+>"no more worrying, please?"
+>he turned his face to plant the tip of his muzzle to the tip of your manhood
+>he let go of the organ and eyed you
+>his mouth open just enough to feel every breath
+>you knew what he wanted and he knew you needed it 
+>if God really took issue with your choice in wife you didn't mind being wrong
+>the blazing red fur started to look ebony with the lack of light
+>your wife was a little predator stalking it's prize 
+>and with one violent shove down you fed the fox it's hard earned reward
+>you grunted as your length disappeared into his muzzle 
+>his eyes vanished in the dark 
+>he'd shut them as he savored the feel
+>his other paw ventured down to his own throbbing manhood judging by the frenzied wet noises 
+>his frantically licked at the upside of your shaft as he desperately pleasure himself
+>you'd forced all of it into his mouth
+>only now did you realize what he had intended
+>he wanted you to crave this, of your own free will
+>and you did
+>doubts melted away as quickly as they had appeared
+>he made it very difficult to worry about God
+>in fact, that hot mouth threatening to melt you was God now
+>that was a blasphemy 
+>and you were beyond worrying thanks to him
+>Füchsin was so right
+>no more worrying
+>he moaned around you and you nearly bucked deeper 
+>occasionally he took joy in watching you squirm when he nibbled
+>just softly enough to grab your attention 
+>it's funny to think at one point the threat of that was what ensured your seed shot down his throat the first time back then
+>you'd realized pretty quickly he loved that position of submission 
+>he loved gagging, though his beastial form didn't allow for it as much
+>sometimes you could angle his face and get it deeper
+>you fucked him, claimed him
+>his body shuddered in your grip as he climaxed
+>the whole time he didn't stop trying to please you
+>you shot the first seed on the night down his throat
+>with that medicine there was no break
+>you picked him up and your vision in the dark was good enough to deposit him in your cot
+>the nightstand next to the bed and the familiar jar was within reach
+>he made an ointment with a minty scent recently and you'd both enjoyed it
+>even in the dark you could see him presenting his smooth stomach, submitting to you
+>you slathered your tool with one hand while your other hand lost itself in the fluff of his chest
+>you felt his chest heave against your palm
+>his heart hammered 
+>the plush tail between his legs wagged
+>it was an intimacy you'd never give up
+>whether it was wrong or not was irrelevant 
+>this warmth coursing through you met and melded with his
+>embers becoming one fire
+>a primal sense of belonging
+>his eyes watched yours
+>a need flared in them
+>a look that no doubt matched yours
+>you didn't need light to guide your manhood
+>it just came naturally 
+>it belonged there
+>feeling the soft ring of muscle part, you enjoyed the heat as you kept going deeper
+>a low whine reverberated in his chest under your hand
+>he arched his back just a little
+>as feral as this medicine threatened to make you, you could still appreciate him
+>this was your wife
+>and he was beautiful, burning even in the dark
+>when your hips finally met you allowed him to relax with the fullness
+>after all, he was going to have you in him all night
+>your free hand wrapped around his own manhood and you started squeezing and stroking
+>instead of violently mating right away, you wanted to tease him
+>hard to believe he scared you at one point
+>his claws gripped at the bed as you essentially forced his body to milk your manhood with every clench of his ass
+>you whispered his name down to him as he panted 
+>the darkness had swallowed your coupling and you kept burning together
+>this was right
+>this was love
+>your strokes and squeezes on his manhood was driving him wild 
+>you hadn't budged since lodging yourself as possible in him
+>instead focused on working his shaft
+>the precum was slick to the touch and seemed to slather his red rod
+>a side effect of the drugs did seem to make that supply seem never ending
+>sort of helped with the act
+>but did leave the bedsheets worst for the wear 
+>his expertise had worked well in making the crops better and stronger every year
+>your Mutter and even siblings faired better with Füchsin's medicines
+>and you personally had never felt this virile before
+>not that you needed it for him
+>when your cock throbbed deep in him he must have been all close to the edge
+>his body twitched as he screamed your name and shot his second load of the night
+>not to be outdone you let his orgasm milk your length
+>you were close but quickly lost the patience for doing this the teasing way
+>you snatched the fox up and pulled him to your chest
+>his arms took their natural place around your shoulder and he buried his muzzle in your shoulder
+>"you haven't filled me yet," he pleaded
+>the pout in his voice was evident
+>even after taming your wife he had a mischievous streak
+>it made you grin, especially when he giggled at you slapping your hands down on both of his cheeks
+>he would get it alright
+>he wagged his tail, the fur brushing against your bare arms
+>both of you burned like a furnace 
+>fire poured over you, like being cloaked in the summer sun
+>you would just have to sink into your wife and take care of it
+>this anniversary gift was welcome and you hoped to get it next year too
+>lift
+>then
+>SLAM
+>lift 
+>then 
+>SLAM
+>you built up a slow, heavy rhythm 
+>chugging along like one of those steam engines
+>his paws ruffled your hair and he yelped every time you bottomed out in him
+>his fur was getting slick with your sweat, the embrace only making you both warmer
+>Füchsin absolutely loved when you handled him like this
+>you braced your legs to stand better while you worked
+>the way his insides clung to you it almost prevented you from actually cumming
+>but he pleaded with you to fill his guts and you why not give your wife what he wants
+>his ass tight in your grip, you started slamming up to meet him halfway with every thrust
+>he clutched to you for dear life and shot another load between your chests
+>God you two would need a bath in the morning
+>your first time was your fear and anger bubbling up into the surface and violently pounding the witch into orgasms
+>with your relationship growing like it has, that time almost felt too dark to reminisce upon
+>you'd had fun, sure
+>but the negativity tied to it was distant
+>now your coupling was beautiful 
+>if God really would condemn you for the love you felt as Füchsin's face cuddled against your bare neck so be it
+>you'd stand with your back straight and your chin up
+>though holy shit you'd have to curb these doses of his concoctions
+>the potency was nice but you worried about the toll
+>as nice as going out in your wife's embrace sounded you didn't need to traumatize the poor fox with that guilt
+>this was just for tonight
+>you slammed up into him and it felt like pulses rocking your body as you bred him deep
+>each spasm of your muscles threatened to have you tip over you didn't allow it
+>rain colliding with the shoddy roof outside mixed with the wet mess of your love making
+>you had Füchsin leaned against the wood wall with one leg in the air, presenting himself to you
+>you took the offer, having barely left him wanting
+>his hole was already a twitching mess and you fed yourself back into it
+>you grabbed the back of his head and kissed him best you could
+>you never wanted him to be human or a woman
+>this was who you shared a bed with
+>and that truth was satisfying 
+>you couldn't openly flaunt it to your family but like this, you wouldn't change him
+>this had all started on false pretenses but now the love was a real physical thing
+>you could reach to his chest and he to yours and you knew the other was the reason for its beating
+>you'd tamed this oddity of the woods 
+>maybe he'd made you a little more wild
+>hard to say where one ended and the other began
+>especially when locked like this
+>and it was a lock
+>with both of you heaving and thrusting to meet each other there wasn't a gap between you
+>"I want to try something," he gasped out 
+>curiosity got the best of you and you stopped mid thrust
+>he set his forehead to yours and had you close your eyes 
+>for once you could see into his mind
+>open as a book
+>you saw all the futures he wanted
+>how he actually saw himself as happy with this half life now
+>how it shot forward decades to both of you gray, his coat like iron now
+>hordes of adopted children, acres of land
+>all while his body gripped your length like the fox was built for it
+>he was driving you mad
+>all his promises laid out bare in his mind
+>he'd accepted himself so you should to
+>you'd both make peace with God if it came to it
+>flashes of an apothecary in the woods
+>strong livestock
+>copious amounts of love making sandwiched between quiet romance 
+>winters held up indoors, using each other for warmth
+>springs where you'd give the animals competition with your rutting
+>his imagination flooded your mind and his heart was opened to you
+>he was a book to be fingered through, allowed to be studied
+>when he opened his eyes you followed, the connection fading away
+>"I wasn't sure that would work. figured it would be easier to paint a picture that way than with words."
+>your lips crashed against his muzzle
+>the move was clumsy yet appreciated 
+>you desired him more than breath
+>those futures would be yours, both of yours
+>your hips started moving again 
+>full nuts slapping together
+>even if you couldn't get a child out of him didn't mean you wouldn't quit
+>his tight hole was getting painted as much as an actual womb
+>after kissing along his jawline you leaned down and buried your face in his chest fluff
+>you roared into his fluff as you deposited more ropes into his hungry body
+>he was wife, mate
+>as some point you just gave way to your instincts 
+>no more thinking
+>no more worries
+>Füchsin and you were animals 
+>the drug was really kicking in now 
+>you ended up with your bitch on the cave floor
+>all fours
+>his rear presented to you
+>the heat was maddening
+>Füchsin was just as drunken as you
+>he knew enough through the haze to get what he needed
+>wiggling his hips as he sat there in the dark
+>you pounced and begun again
+>you didn't kept slamming it in
+>claiming him
+>he howled and yelped and his swinging dick sprayed ejaculate across the cave floor
+>that night in a high you'd gone through a rush of emotions, culminating in this wild abandon 
+>you remember gripping his tail in one fist while you kept painting his fur and insides with your seed
+>the next morning you woke up on top of him, Füchsin feeling like a throw rug squished under you
+>he'd unceremoniously collapsed at some point last night and you just kept going
+>you rolled off onto the cave and that's when the ache hit all at once
+>good fucking lord did that hurt
+>you needed water and to never take those pills again
+>you wouldn't live to see Füchsin get those silver hairs if you kept that up
+>the fox which reached out blindly and when he found you he also expressed regret
+>"I don't think I'll walk right for a week."
+>he mumbled how it was at least worth it
+>you laughed to the roof and asked him to get those little servants to fetch something to drink and eat
+>no way in hell could you move
+>he was in no better shape
+>"happy anniversary, " he mumbled over to you
+>you repeated the sentiment 
+>his tail weakly wagged
+>weary, you enjoyed the light cracking through the wood facade of your home
+>the cave reeked of sex more than usual and you'd have to air it out today
+>you sighed and wiggled your aching body closer to the red carpet that hissed when he tried moving over to you
+>well you hadn't planned on working much today anyways
+>your hand rubbed along Füchsin's fur on his back, slowly stroking him
+>you chalked all this up to a gift from God
+>why not view this as a blessing?
+>your future was secure, your family was prosperous, you fields rich
+>maybe God worked through deft little claws as well as he worked through your fingers
+>content, you waited for sustenance and basked in the warmth of the moment

@@ -36,7 +36,7 @@ Ballistics (finished)
 https://rentry.org/ofso8
 Rabbit God
 https://rentry.org/9n9wr
-Pokémon master
+Pokémon master (finished)
 https://rentry.org/8s45n
 The Valley of Hollow Mountain 
 https://rentry.org/mgqda
@@ -44,7 +44,7 @@ Sonic says shorts
 https://rentry.org/pcqqq
 https://rentry.org/gxv8e
 https://rentry.org/g94g5x
-Waldgattin
+Waldgattin (finished)
 https://rentry.org/uyypyz
 One shots
 https://rentry.org/kwmnz

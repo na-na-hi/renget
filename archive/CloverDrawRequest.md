@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+1. Booker dressed as a captain x-com operative https://files.catbox.moe/q2qu9e.png
+
 1. Booker and Sneasel eating pizza. Booker is sitting at the little pizza saver/table.
 
 1. This type of meme, but with Booker and Sneasel https://i.kym-cdn.com/photos/images/original/001/769/140/63f

@@ -19,8 +19,8 @@ https://www.youtube.com/watch?v=57kSs-F-wRY
 \>Street Fighter Piolo Preview
 https://www.youtube.com/watch?v=fLAsf29_jtE
 
-\>Scarlet Vampire Shoichi Preview
-https://www.youtube.com/watch?v=svmBforGos8
+\>Cozy Camper Silvia Preview
+https://www.youtube.com/watch?v=K6rquSSiFDg
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4

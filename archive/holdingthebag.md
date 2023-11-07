@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 4th November. All dates dd/mm.
+!!! Note Last updated: 6th November. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -142,7 +142,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 623 | Mesugaki | Open as of 28/10
-2496 | AbydosCycling | Open as of 30/10
+2496 | AbydosCycling | Open as of 06/11
 6098 | Comfy | Open as of 16/09
 
 ##### Full

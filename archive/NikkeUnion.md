@@ -11,8 +11,8 @@
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
 | NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 31/32   | CAEL     | PERMISSION |                                 |
-| UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
-| CUNNYWOW | ==**4496**==  | 6     | 31/32   | FRIEDKUN | OPEN       |                                 |
+| UOOOH    | ==**13720**== | 6     | 31/32   | TERTUL   | PERMISSION |                                 |
+| CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 32/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
