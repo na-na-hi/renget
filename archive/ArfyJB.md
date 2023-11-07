@@ -12,7 +12,6 @@ This is my tried and tested modular setup that can be combined with other prompt
 - GPT4 (8k and 32k)
 - GPT4 Turbo 128k
 
-OpenRouter added an extra layer of filter and doesn't allow Prefill, so a bit of handholding or gaslighting might be needed. Please check the gaslight part or apply anything that is working for you.
 
 ***
 #### -> Prompts <-

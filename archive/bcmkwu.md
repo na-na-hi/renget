@@ -1,4 +1,14 @@
 ▶NEW CLIPS
+>hohol soldier seething at language nationalist Farion
+https://files.catbox.moe/ln19w2.mp4
+>hohol soldiers who speak russian - not ukranians
+https://files.catbox.moe/uflpjx.mp4
+> accurate drone strikes on hohol positions
+https://files.catbox.moe/k257yi.mp4
+>group of sleepy hohols get a wake-up call
+https://files.catbox.moe/73rq9d.mp4
+>hohol POV at Avdeevka and Berdychi
+https://files.catbox.moe/u03ys1.mp4
 >Russian tanks and artillery attack hohols in avdeevka-petrovskoe area
 https://files.catbox.moe/ngmxtw.mp4
 >Russian artillery firing on hohol positions north of Verbovoye

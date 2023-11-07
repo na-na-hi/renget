@@ -15,15 +15,15 @@
 
 	>==Chapters== 
 
-	> - **10/14 - Added**
-	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/irdxq/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy)  
-	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/irdxq/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis) 
+	> - **11/07 - Added**
+	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/irdxq/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)  
+	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/irdxq/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0) 
 	
 	>==Karaoke Clips==
 
-	> - **10/14 - Added**
-	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/5y2mt/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy) ***Timestamps**
-	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/5y2mt/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis)
+	> - **11/07 - Added**
+	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/5y2mt/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)
+	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/5y2mt/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0)
 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)

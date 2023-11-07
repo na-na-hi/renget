@@ -47,7 +47,7 @@ https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e20230330154031
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift
 KBQBEP3L8823 
-5S6ZHRWTDNJB
+PT8TF72MQ93X
 STARRAILGIFT
 
 \>/hsrg/ Tools & Resources

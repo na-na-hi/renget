@@ -26,6 +26,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Aster](https://files.catbox.moe/pzag2k.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||[Yuki](https://files.catbox.moe/nuklc9.png), [Kelda](https://files.catbox.moe/vw2m5y.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||[Mishka Blacklilly](https://files.catbox.moe/00po7q.png)
@@ -40,7 +41,6 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||

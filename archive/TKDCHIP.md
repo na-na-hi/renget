@@ -503,3 +503,15 @@ files.catbox.moe/4tdn66.mp4
 files.catbox.moe/5ioe91.mp4
 >Al-Qassam shelling training kino (ADDED NOV 5th)
 files.catbox.moe/fvbwyb.mp4
+>New Hamas Kino (ADDED NOV 7th)
+http://files.catbox.moe/v9hrbe.mp4
+http://files.catbox.moe/06g4td.mp4
+http://files.catbox.moe/nm98qm.mp4
+>Islamic Resistance in Iraq fire at ZOG bases: (ADDED NOV 7th)
+ files.catbox.moe/z8l5yu.MP4
+>Anti-Personnel RPG info video: (ADDED NOV 7th)
+ files.catbox.moe/dvfesp.mp4
+>Hezbollah show off fancy missiles:  (ADDED NOV 7th)
+files.catbox.moe/44dco1.mp4
+>Another journalist loses family: (ADDED NOV 7th)
+files.catbox.moe/3vn86v.mp4

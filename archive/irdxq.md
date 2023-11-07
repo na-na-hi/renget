@@ -27,9 +27,9 @@ Dates are based on EST
 	>==Audio== 
 	
 	>==Chapters== 
-	> - **10/14 - Added**
-	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/irdxq/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy)  
-	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/irdxq/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis) 
+	> - **11/07 - Added**
+	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg](https://rentry.org/irdxq/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)  
+	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/irdxq/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0) 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -3361,7 +3361,115 @@ CHAPTER19=01:19:55.000
 CHAPTER19NAME=NE:ONE - Survive Said the Prophet (Acapella)
 
 ```
+***
+***
+######『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]
+[Go back to the top](https://rentry.org/irdxq/)
+>The "[amv](https://youtu.be/1SJmzBgZUno)" she was talking about at 01:09:50.657 
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:20.000
+CHAPTER01NAME=Start
+CHAPTER02=00:06:26.000
+CHAPTER02NAME=01. Spooky Scary Skeletons - Andrew Gold
+CHAPTER03=00:13:04.000
+CHAPTER03NAME=02. Time Warp - The Rocky Horror Picture Show
+CHAPTER04=00:18:41.000
+CHAPTER04NAME=03. Monster Mash - Bobby Pickett
+CHAPTER05=00:23:10.000
+CHAPTER05NAME=04. Through the Fire and Flames - DragonForce
+CHAPTER06=00:33:36.000
+CHAPTER06NAME=05. Somebody's Watching Me - Rockwell
+CHAPTER07=00:40:19.000
+CHAPTER07NAME=06. Thriller - Michael Jackson
+CHAPTER08=00:46:27.000
+CHAPTER08NAME=07. Dead Girl Walking - Heathers Musical
+CHAPTER09=00:51:10.000
+CHAPTER09NAME=08. bad guy - Billie Eilish
+CHAPTER10=00:55:11.000
+CHAPTER10NAME=09. PAPERMOON - Tommy heavenly6
+CHAPTER11=01:01:58.000
+CHAPTER11NAME=10. Everything Stays - Adventure Time (Acapella)
+CHAPTER12=01:03:45.000
+CHAPTER12NAME=11. I'm Just Your Problem - Adventure Time
+CHAPTER13=01:03:30.901
+CHAPTER13NAME=Good Little Girl - Adventure Time (Acapella)
+CHAPTER14=01:07:51.000
+CHAPTER14NAME=Island Song - Adventure Time (Acapella)
+CHAPTER15=01:08:27.000
+CHAPTER15NAME=Nuts - Adventure Time (Acapella)
+CHAPTER16=01:09:01.000
+CHAPTER16NAME=Fries - Adventure Time (Acapella)
+CHAPTER17=01:10:38.000
+CHAPTER17NAME="Dead Mom" - (Practice) 
+CHAPTER18=01:13:55.000
+CHAPTER18NAME=12. Unravel - TK from Ling Tosite Sigure
+CHAPTER19=01:20:56.000
+CHAPTER19NAME=13. Sabotage - Beastie Boys
+CHAPTER20=01:29:36.000
+CHAPTER20NAME=Silent Night
+CHAPTER21=01:30:33.000
+CHAPTER21NAME=14. Sleepwalking - Bring Me the Horizon
+CHAPTER22=01:35:34.632
+CHAPTER22NAME=15. Bring Me To Life - Evanescence
+CHAPTER23=01:39:45.000
+CHAPTER23NAME=16. My Immortal - Evanescence
+CHAPTER24=01:44:20.000
+CHAPTER24NAME=17. Haunted - Taylor Swift
+CHAPTER25=01:49:44.000
+CHAPTER25NAME=18. Blank Space - Taylor Swift
+CHAPTER26=01:54:51.000
+CHAPTER26NAME=Everything Stays (Acapella)
+CHAPTER27=01:55:47.000
+CHAPTER27NAME=Loli Kami Requiem (Acapella)
+CHAPTER28=01:57:04.000
+CHAPTER28NAME=19. Myth or Treat - hololive English -Myth- (Acapella)
 
+```
+***
+***
+######『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:01:15.000
+CHAPTER01NAME=Start
+CHAPTER02=00:06:38.684
+CHAPTER02NAME=01. Slow Ride - Foghat
+CHAPTER03=00:13:58.403
+CHAPTER03NAME=02. Talk Dirty to Me - Poison
+CHAPTER04=00:19:51.000
+CHAPTER04NAME=03. Hit Me with Your Best Shot - Pat Benatar
+CHAPTER05=00:25:17.000
+CHAPTER05NAME=04. Mississippi Queen - Mountain
+CHAPTER06=00:30:46.000
+CHAPTER06NAME=05. When You Were Young - The Killers
+CHAPTER07=00:36:07.000
+CHAPTER07NAME=06. Miss Murder - AFI
+CHAPTER08=00:46:43.000
+CHAPTER08NAME=Afk for water
+CHAPTER09=00:47:39.000
+CHAPTER09NAME=Back
+CHAPTER10=00:43:21.000
+CHAPTER10NAME=07. Sabotage - Beastie Boys
+CHAPTER11=00:49:50.000
+CHAPTER11NAME=08. The Seeker - The Who
+CHAPTER12=00:54:15.285
+CHAPTER12NAME=09. Paint It, Black - The Rolling Stones
+CHAPTER13=00:58:19.000
+CHAPTER13NAME=10. Paranoid - Black Sabbath
+CHAPTER14=01:03:55.665
+CHAPTER14NAME=11. Welcome to the Jungle - Guns N' Roses
+CHAPTER15=01:11:24.740
+CHAPTER15NAME=12. Through the Fire and Flames - DragonForce
+CHAPTER16=01:19:52.614
+CHAPTER16NAME=13. Cliffs of Dover - Eric Johnson
+CHAPTER17=01:26:19.000
+CHAPTER17NAME=14. Paint It, Black - The Rolling Stones
+
+```
 ***
 ***
 !!! danger 

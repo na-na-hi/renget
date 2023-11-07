@@ -870,6 +870,7 @@ MHA 1.9999999999999999999 (Spark, Recoil, Drone, Radius, Arena, Sunlight Man, Ch
 Desolator's Last Stand (Desolator): https://rentry.org/b9ge4v
 Renaissance (Desolator, Luccione, Mauler): https://rentry.org/rfyv4
 A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca): https://rentry.org/6t4giv
+Faith Kang in: The VIP Box (ft. Anthony Chang): https://rentry.org/4ezcv
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

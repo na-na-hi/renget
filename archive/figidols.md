@@ -20,6 +20,8 @@ Hakui  "The Ruler of Eden"  Koyori : HoloX coyote who go in the street train. Pr
  https://www.youtube.com/watch?v=Pgjp0oGQRfg
 Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. Interested in Manon as well. 
 https://www.youtube.com/watch?v=MP0l2VXsq0k
+A.K.I "Nerf me pls" Rosenthal:  newbie choosing Aki to begin her journey.  
+https://www.youtube.com/watch?v=-XlEjQsSHhE
 Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 
@@ -102,7 +104,7 @@ https://www.twitch.tv/huntress
 https://www.twitch.tv/dreammxy
 Rura "The Meteor" Taurus: aspie carnosaur who loves tekken and coyo! 
 https://www.youtube.com/@rura_taurus
-Sunset "wolf in sheep clothes" Eadiance: /choc/ favorite who loves Tekken. Mains JP
+Sunset "wolf in sheep clothes" Radiance: /choc/ favorite who loves Tekken. Mains JP
 https://www.youtube.com/@SunsetVT
 
 JP Indies:

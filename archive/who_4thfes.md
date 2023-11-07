@@ -24,21 +24,24 @@ _______________________________
 |hololive IDOL PROJECT - Our Bright Parade (With all of Day 1's casts) |Holo Fes Day 1 concert |
 |deco\*27 - ゴーストルール/Ghost Rule (With Takanashi Kiara)|holo\*27 stage |
 
-##VOD download
+##VOD download (magnet)
 |Title|Link|
 |-----|---|
 |Day 1| [![](https://files.catbox.moe/px8cjl.png)](magnet:?xt=urn:btih:MIKT6JQO27AMV6NMQYNMJRSCS3KIH65Z&dn=%E3%80%90DAY1%20%5BStreaming%2B%5D%20hololive%204th%20fes.%20Our%20Bright%20Parade%20Supported%20By%20Bushiroad%E3%80%91.mp4&xl=8933845141&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)|
 |holo\*27 stage| [![](https://files.catbox.moe/32wbh3.png)](magnet:?xt=urn:btih:6AOSP6CESHMO4HLCWHFFBE5XSPK6JSR4&dn=%E3%80%90holo27%20stage%20%5BStreaming%2B%5D%20hololive%204th%20fes.%20Our%20Bright%20Parade%20Supported%20By%20Bushiroad%E3%80%91.mp4&xl=5421201070&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce) | 
 
-Streaming+ VOD. Check the cat site for the SPWN VOD torrent.
+Streaming+ VOD. Check the cat site for the SPWN VOD torrent. BD is now avalible physically and at the usual place.
 _______________________________
 
 ##Song clips
-|Song|Part of the|Performing Members|Link|
-|----|---|-----|---|
-|Supercell - My Dearest |Holo Fes Day 1 concert| Nanashi Mumei|[![](https://files.catbox.moe/0byar8.png)](https://files.catbox.moe/2datzo.mp4) |
-|アンジュルム(Angerme ) - スキちゃん/Suki-chan |Holo Fes Day 1 concert |Amelia Watson, Nanashi Mumei, Ninomae Ina'nis, Takanashi Kiara|[![](https://files.catbox.moe/nm0w4p.png)](https://files.catbox.moe/u9azvf.mp4) |
-|deco\*27 - ゴーストルール/Ghost Rule| holo\*27 stage (Day 2 of the Fes) | Nanashi Mumei, Takanashi Kiara |[![](https://files.catbox.moe/vx78j8.png)](https://files.catbox.moe/xxq309.mp4) |
+|Song|Part of the|Performing Members|Live clip|Live X BD clip|
+|----|---|-----|---|---|
+|Supercell - My Dearest |Holo Fes Day 1 concert| Nanashi Mumei|[![](https://files.catbox.moe/0byar8.png)](https://files.catbox.moe/2datzo.mp4) |[Link](https://cldup.com/WFzKaTxCbb.mp4)|
+|アンジュルム(Angerme ) - スキちゃん/Suki-chan |Holo Fes Day 1 concert |Amelia Watson, Nanashi Mumei, Ninomae Ina'nis, Takanashi Kiara|[![](https://files.catbox.moe/nm0w4p.png)](https://files.catbox.moe/u9azvf.mp4) |[Link](https://cldup.com/gazBscnXHq.mp4)|
+|deco\*27 - ゴーストルール/Ghost Rule| holo\*27 stage (Day 2 of the Fes) | Nanashi Mumei, Takanashi Kiara |[![](https://files.catbox.moe/vx78j8.png)](https://files.catbox.moe/xxq309.mp4) |[Link](https://cldup.com/PKuoXIJL5X.mp4)|
+
+**BD clips download**
+[Link](https://gofile.io/d/jKEKjd)
 
 **Vocals only**
 [Supercell - My Dearest](https://files.catbox.moe/vzvkkh.flac)

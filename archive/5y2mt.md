@@ -16,9 +16,9 @@
 	>==Audio== 
 	
 	>==Karaoke Clips== 
-	> - **10/14 - Added**
-	>- [#53. 『2023-10-09』 - 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~ [bDjzpMmw-JY]](https://rentry.org/5y2mt/#2023-10-09-karaoke-%E6%AD%8C%E6%9E%A0part-2-singing-with-guests-bdjzpmmw-jy) ***Timestamps**
-	>- [#54. 『2023-10-14』 - 【unarchived 歌枠】i sing a lil bit [WzIqAEWgqIs]](https://rentry.org/5y2mt/#2023-10-14-unarchived-%E6%AD%8C%E6%9E%A0i-sing-a-lil-bit-wziqaewgqis)
+	> - **11/07 - Added**
+	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/5y2mt/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)
+	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/5y2mt/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -1358,6 +1358,54 @@ Mukanjyo - Survive Said the Prophet   | https://files.catbox.moe/a96r8l.mp4    |
 found & lost - Survive Said the Prophet   |  https://files.catbox.moe/n00ejc.mp4   |    https://cldup.com/Ts-f-mK7sw.mp4
 again - YUI   |  https://files.catbox.moe/lmf4f6.mp4   |    https://cldup.com/IncP6lVn66.mp4
 Mukanjyo - Survive Said the Prophet   |  https://files.catbox.moe/as5bf8.mp4   |    https://cldup.com/ZSr_qhaCjo.mp4
+
+***
+######『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]
+[Go back to the top](https://rentry.org/5y2mt)
+>Through the Fire and Flames was too big so you can watch the original ver [here](https://waa.ai/cOG0/35c25b)
+Song | Catbox | Cloudup
+------ | ------ | ------
+Spooky Scary Skeletons - Andrew Gold | https://files.catbox.moe/lmcrwn.mp4  |  https://cldup.com/ouaJuNKB1K.mp4
+Time Warp - The Rocky Horror Picture Show | https://files.catbox.moe/80b02b.mp4  |  https://cldup.com/KMgPRUZca9.mp4
+Monster Mash - Bobby Pickett | https://files.catbox.moe/60h1iq.mp4  |  https://cldup.com/Sa_ru5Bjkv.mp4
+Through the Fire and Flames - DragonForce | https://files.catbox.moe/gtm9g6.mp4  |  https://cldup.com/z57pbFKRWH.mp4
+Somebody s Watching Me - Rockwell | https://files.catbox.moe/0chwl2.mp4  |  https://cldup.com/Sv4SQ3-Rvc.mp4
+Thriller - Michael Jackson |  https://files.catbox.moe/ydnoj4.mp4 |  https://cldup.com/tvhG8rVHQz.mp4
+Dead Girl Walking - Heathers Musical | https://files.catbox.moe/ked2kw.mp4  |  https://cldup.com/ag5dg77kAn.mp4
+bad guy - Billie Eilish | https://files.catbox.moe/xlnrb9.mp4  |  https://cldup.com/AvX7rIvkZF.mp4
+PAPERMOON - Tommy heavenly6 | https://files.catbox.moe/pip04s.mp4  |  https://cldup.com/qY9Ti4Ngqn.mp4
+Everything Stays - Adventure Time (Acapella) | https://files.catbox.moe/9ea2ec.mp4  |  https://cldup.com/nEZxQUm7QV.mp4
+I'm Just Your Problem - Adventure Time | https://files.catbox.moe/0jvr53.mp4  |  https://cldup.com/FyAcbmkfyY.mp4
+"Dead Mom" - Practice | https://files.catbox.moe/j75mrh.mp4  |  https://cldup.com/iBZaqN1xcq.mp4
+Unravel - TK from Ling Tosite Sigure | https://files.catbox.moe/x0pn9y.mp4  |  https://cldup.com/Pta6FdQvJr.mp4
+Sabotage - Beastie Boys | https://files.catbox.moe/nm6ke7.mp4  |  https://cldup.com/GmuwdoBzzK.mp4
+Sleepwalking - Bring Me the Horizon | https://files.catbox.moe/tjz9cu.mp4  |  https://cldup.com/e92rGaHUCt.mp4
+Bring Me To Life - Evanescence | https://files.catbox.moe/vsq8su.mp4  |  https://cldup.com/OiE6Y_waBl.mp4
+My Immortal - Evanescence | https://files.catbox.moe/pm291h.mp4  |  https://cldup.com/sBRDrXYoqT.mp4
+Haunted - Taylor Swift | https://files.catbox.moe/gid5rf.mp4  |  https://cldup.com/1fhFGqxlse.mp4
+Blank Space - Taylor Swift | https://files.catbox.moe/x6e2lg.mp4  |  https://cldup.com/ybXCw01kVh.mp4
+Myth or Treat - Hololive English -Myth- (Acapella) | https://files.catbox.moe/o8zwso.mp4  |  https://cldup.com/etyEDfN-G8.mp4
+
+***
+######『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]
+[Go back to the top](https://rentry.org/5y2mt)
+>Through the Fire and Flames was too big so you can watch the original ver [here](https://waa.ai/cOGm/86c4dc)
+Song | Catbox | Cloudup
+------ | ------ | ------
+Slow Ride - Foghat | https://files.catbox.moe/94s188.mp4  |  https://cldup.com/Cruu_S2_mt.mp4
+Talk Dirty to Me - Poison | https://files.catbox.moe/906ojj.mp4  |  https://cldup.com/qc2a4QwkIM.mp4
+Hit Me with Your Best Shot - Pat Benatar | https://files.catbox.moe/abqieg.mp4  |  https://cldup.com/jFEWT2JXvd.mp4
+Mississippi Queen - Mountain |  https://files.catbox.moe/6yhcti.mp4 |  https://cldup.com/bG0hf5KHc6.mp4
+When You Were Young - The Killers | https://files.catbox.moe/vaztig.mp4  |  https://cldup.com/SeBDEn4Pbu.mp4
+Miss Murder - AFI |  https://files.catbox.moe/smu776.mp4 |  https://cldup.com/CCyWSqWelm.mp4
+Sabotage - Beastie Boys |  https://files.catbox.moe/z585ap.mp4 |  https://cldup.com/UeQbv5Uuso.mp4
+The Seeker - The Who | https://files.catbox.moe/5qpiyi.mp4  |  https://cldup.com/YyqtgRRGKp.mp4
+Paint It, Black - The Rolling Stones | https://files.catbox.moe/pcf5t6.mp4  |  https://cldup.com/p3KDRoGuLl.mp4
+Paranoid - Black Sabbath | https://files.catbox.moe/0zw70c.mp4  |  https://cldup.com/I-9CA80ees.mp4
+Welcome to the Jungle - Guns N' Roses | https://files.catbox.moe/ghxtec.mp4  |  https://cldup.com/XOwXciMu33.mp4
+Through the Fire and Flames - DragonForce | https://files.catbox.moe/sfzrne.mp4  |  https://cldup.com/jTvhpkQNDF.mp4
+Cliffs of Dover - Eric Johnson |  https://files.catbox.moe/wf8mr5.mp4 |  https://cldup.com/3nzEeRzEWL.mp4
+Paint It, Black - The Rolling Stones | https://files.catbox.moe/dghp5s.mp4  |  https://cldup.com/TvOKeBYJrs.mp4
 
 
 ***
