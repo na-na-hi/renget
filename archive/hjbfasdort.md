@@ -151,4 +151,69 @@
 >giving her a hard look was enough to keep her head down
 >you give yourself a quiet time to think as you try to take in what happened in that room
 
-To be continued
+>Augustine POV
+
+>be detective doberman
+>currently overseeing the investigation of Anon Y. Mous' death
+>your fellow officers snapped pictures of the crime scene
+>the bedroom was a mess, consisting of scratched up pillows, thrown blankets, and blood
+>lots and lots of blood
+>you bit your tongue at how long the poor guy was alive before he bled out
+>seeing the evidence and the testimony given by the two officers, it was an open and shut case in your eyes
+>though the charge would be left to the one prosecuting this case
+>"August, we found something!"
+>you turn to a weasel wearing a smaller version of your uniform, holding up a worn out book with a plastic glove
+>"What did you find?"
+>"It's the victim's diary, or journal if you prefer. He wrote down the events of days leading up to his death."
+>"Really now?"
+>both of you skim the diary, talking about himself, describing his days, and even writing about his girlfriend, Leona.
+>"Heh, the prosecutor is gonna have a field day with this."
+>though as you turn to each page slowly, you start to take in more and more disturbing information about the couple
+>even Leela, the weasel, looked appalled at what she was seeing.
+>'Leona talked introducing me to her friends. I had to tell her I was gonna visit my family but she strong armed me-'
+>'-even when I told her that my body was still aching from our last session she strapped me to my bed and used a paddle to-
+>'-just learned that she was peeping into my call history, I tried to talk to her about it but she dismissed it saying it wasn't her but-
+>'-my back aches just from the wounds, I tried sneaking away to go to a hospital but she cornered me. She laid me on my stomach and poured alcohol-
+>close the book and take a deep breath
+>you and Leela looked at each other before you shake your head trying to brush off the emotions welling up
+>though the rookie tried to put up a brave face, you could tell the gears in her head were turning trying to process on what she just read
+>you put a hand on her shoulder 
+>"Look kid, this type of work ain't easy. But don't forget it's what we signed up for."
+>Leela looks at you with newfound determination and nodded
+>you take a ziploc bag and put the journal inside 
+>walking outside while pulling away the police tape, you pull out a cigarette to smoke
+>looking towards the general direction of your home and take a big puff
+
+>Jane POV
+>"So how long is she gonna be in here captain?"
+>your question doesn't faze the direwolf as she continues on to her paperwork
+>"Look I'm not comfortable letting someone like her staying here since most of the gals are getting antsy-"
+>"What is this about Officer Jane?"
+>your hardass of a boss finally looked up with her half-moon glasses perched on her snout
+>"Y-You know what I'm talking about Captain, the recent arrest we had yesterday."
+>"And?"
+>"I'm just worried."
+>"About Roger?"
+>your arm ached under its bandaged state and you nodded 
+>"Officer Jane, I already have two officers guarding our only criminal in jail, I don't think she'll be going away any time soon."
+>Captain Glyn put her hands together
+>"I'm surprised now is the time you actually worry about your fellow officers."
+>you take a seat in front of her desk and looked away
+>"I don't know. It's just, in this neighborhood I only had to deal with thieves, teenagers, angry folk but murder is a bit too far for me."
+>"Yet you were willing to stop one last night and saved the victim."
+>"Nearly saved."
+>those last words was out of your mouth before you could take it back
+>Glyn fixed her reading glasses and continued
+>"Forgot you can watch the news."
+>Anon Y. Mous. Pronounced dead during the trip to the hospital via bleeding
+>even then the broadcast had to censor the body due to how messed up his face was
+>"Does this really happen."
+>"More than you can believe."
+>you could hear her voice falter for a moment.
+>"But that's part of our job. We protect people, humans and anthros alike. As much as we can I'm afraid."
+>the two of you sat in silence before Glyn says something else
+>"Currently, we're waiting for her transport to her hearing today, I've already assigned other officers to escort her."
+>clicking your tongue you stand up and leave the office not even bothering to look back
+>going through the cells at the back you take a look at its sole proprietor
+>the lioness had matted and unkempt fur, shaking in her bead as she was whispering to herself
+>you tighten your fist in instinct but you decide to walk away

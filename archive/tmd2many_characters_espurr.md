@@ -98,7 +98,7 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Artifice | Tier **ɪ** (+2) | 1/3 | ▮▯▯
+Training for Attribute: Artifice | Tier **ɪ** (+1) | 2/3 | ▮▮▯
 Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
@@ -132,6 +132,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Accessory | Leaf Bag | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
+Accessory | Leaf Pouch | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
 Key Item | None | None
 
 ***

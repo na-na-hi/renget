@@ -10,7 +10,8 @@ Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a w
 
 !!! info
 	-> ⭐ New Character: Yuki Mofumofu Edition. She's been streamlined, gained 3 alt greetings, plus an embedded lorebook for foxy fun! ⭐ <-
-	-> 🥛 Update! Kelda now has 3 alternate greetings and her formatting has been redone. Yuki update coming soon! 🥛 <-
+	-> ⭐ New Lorebook: Kitsune. It does all the fox things and some Megacity East things. ⭐ <-
+	-> 🥛 Update! Kelda now has 3 alternate greetings and her formatting has been redone. 🥛 <-
 	-> ⭐ I made a [stable diffusion merge](https://civitai.com/models/188885/tipzymix), expect to see new art coming in this style soon. ⭐ <-
 
 
@@ -92,11 +93,16 @@ Image| Name | Description | Link
 [Chub](https://www.chub.ai/lorebooks/Tipzanon/d5bb3954-9ffa-44fb-8335-c4b88a72b6de)
 Updated! Megacity East is a low-magic, cyberpunk fantasy world in which many of my cards are set. The image is just for flavor. A few people have asked if it is okay to develop their own characters and scenarios for this world. It's fine with me, but please let me know what you make. I'd love to see it!
 -> ![Megacity East](https://files.catbox.moe/8eq2zv.png) <-
-###### Nekomata ⭐New!⭐
+###### Nekomata
 [Catbox](https://files.catbox.moe/ek24hu.json)
 [Chub](https://www.chub.ai/lorebooks/Tipzanon/nekomata-908ac4ae)
-Gives basic Megacity East setting info and nekomata behaviorial stuff.
+Gives basic Megacity East setting info and nekomata behavioral stuff.
 -> ![Nekomata](https://files.catbox.moe/hccm2z.png) <-
+###### Kitsune ⭐New!⭐
+[Catbox](https://files.catbox.moe/c5n8a0.json)
+[Chub](https://www.chub.ai/lorebooks/Tipzanon/kitsune-0a3a3d42)
+Gives basic Megacity East setting info and kitsune behavioral stuff. If you delete the setting stuff, your favorite kitsune characters will have active and responsive ears and tails.
+-> ![Kitsune](https://files.catbox.moe/vdiidx.png) <-
 
 ### NovelAI Stuff
 Character writing guide: https://www.rentry.org/how-to-make-a-nai-char
@@ -107,7 +113,7 @@ ST Presets: https://www.reddit.com/r/SillyTavernAI/comments/16ihh2v/novelai_pres
 ###### Models I Made
 [Tipzymix on Civit](https://civitai.com/models/188885/tipzymix?modelVersionId=212148)
 >A custom merge of a ton of models to create a clean, vibrant, and cartoony style that I really like.
--> ![Tipzymix](https://files.catbox.moe/qgny8u.png) <-
+-> ![Tipzymix](https://files.catbox.moe/nlltgy.png) <-
 ###### Models I Like
 Ametrine Redux: https://civitai.com/models/57188/ametrine-redux
 >Hands are cursed as fuck, but girls look so good.

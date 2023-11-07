@@ -18,13 +18,13 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[Aigi](https://files.catbox.moe/3aj7qw.png), [1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [Nuggest](https://rentry.org/Nuggest) | Misc |[Yumi](https://files.catbox.moe/w16jzt.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Heinz](https://files.catbox.moe/ap3406.png), [Raxis](https://files.catbox.moe/ke3vzh.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Kai](https://files.catbox.moe/ewrfsx.png), [Avery](https://files.catbox.moe/hh25l1.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Beatrice](https://files.catbox.moe/b4rnq4.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Aster](https://files.catbox.moe/pzag2k.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Yang Laizhen](https://files.catbox.moe/4j47mr.png)|
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc |[1000 SKELETONS](https://files.catbox.moe/u8ebud.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[Megishi](https://files.catbox.moe/x2ll30.png)|
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||[Yuki](https://files.catbox.moe/nuklc9.png), [Kelda](https://files.catbox.moe/vw2m5y.png) [MV]
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
