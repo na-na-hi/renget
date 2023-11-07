@@ -371,13 +371,13 @@ No, you can not turn off the auto button in battle.
 ## Shop
 The place where u buy stuff and rub Sora's forehead.
 
->Normal shop
+>Normal shop (or credit shop) 
 Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Buy the enhancement stones *only if you need them*.
 Buying the activity reports with credits is kind of bad (as in really bad). 
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-Otherwise bring Serina to 2\*. After that? Post ur roster in the /bag/ general and ask for help. It's faster that way. 
+Otherwise bring Serina to 2\*. After that? You post your roster in the /bag/ general and ask for help. It's faster that way. 
 Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 

@@ -17,8 +17,9 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
 	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
 	- 13B:
-	[Echidna-Tiefigther-25](https://huggingface.co/Henk717/echidna-tiefigther-25) <- AliCat's current fav for RP, and Adventure. Also good for general chatting.
+	[PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- AliCat's current fav for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context).
 	[LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
+	[LLaMA2-13B-TiefighterLR](https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR) <- Another one of AliCat's favorites for Adventure models. Has a lot of Tiefighter's qualities, but has less "plot-armor" bias. Is also good at RP and chat, but has a different flavor to Tiefighter.
 	[WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
 	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
 	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.

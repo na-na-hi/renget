@@ -18,6 +18,9 @@ https://youtu.be/_7fB-7ZkQGQ
 >Original song - You're Mine:
 https://youtu.be/KFFtUqQVLrI
 
+>Cover song - Finale. フィナーレ。:
+https://youtu.be/6yTHNTWEcH0
+
 >Cover song - Zankyou Sanka:
 https://youtu.be/wQ1_0oeXW6M
 

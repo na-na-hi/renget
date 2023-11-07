@@ -169,7 +169,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is recharging.
+>Faith Kang in: The VIP Box (ft. Anthony Chang)
+https://rentry.org/4ezcv
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -656,6 +657,8 @@ https://rentry.org/h5izt6
 https://rentry.org/rfyv4
 >A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca)
 https://rentry.org/6t4giv
+>Faith Kang in: The VIP Box (ft. Anthony Chang)
+https://rentry.org/4ezcv
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
