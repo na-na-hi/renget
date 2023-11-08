@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 425₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -66,7 +66,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Phantasm **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Phantasm **ɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 
 
 **INVENTORY (4 slots)**

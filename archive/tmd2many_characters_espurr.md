@@ -27,7 +27,7 @@
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
 **Level:** 9 | **Experience to Next Level:** 70/90 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 129₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 429₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -38,7 +38,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 ->Rookie Rank<-
-->*60/400 points to Normal Rank*<-
+->*130/400 points to Normal Rank*<-
 ->![A means to an end.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -61,7 +61,7 @@ Move | Base Power | Action Points | Accuracy | Type | Property | Description
 Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
-None | - | - | - | - | - | This potential has yet to be unlocked.
+Flash | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
@@ -92,13 +92,14 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----:
 Attribute: Gravitational Potential | **ᴍᴀx** (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature. 
+Attribute: Artifice | Tier **ɪ** (+1) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
 Battle Attribute: ??? | - | - 
 
 ***
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Artifice | Tier **ɪ** (+1) | 2/3 | ▮▮▯
+Training for Attribute: Artifice | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
@@ -112,10 +113,10 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap.
-2. TM135 Flash | A TM containing the Move Flash.
-3. Empty | None
-4. Empty | None
+1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
+2. Shattered TM135 Flash | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
+3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
+4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
 ***
 

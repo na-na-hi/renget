@@ -11,7 +11,7 @@
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
 **Level:** 7 | **Experience to Next Level:** 15/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 710₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1010₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defence **ɪ** | Tier **ɪ** (+1 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
 **INVENTORY (4 slots)**

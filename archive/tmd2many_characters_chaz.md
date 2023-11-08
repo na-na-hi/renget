@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 8 | **Experience to Next Level:** 55/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 120₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 420₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -85,7 +85,7 @@ Item Name | Description
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. ~~Oran Berry~~ | ~~Heals the user for 10HP.~~
 3. Bread | Food item.
-4. None | Empty.
+4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

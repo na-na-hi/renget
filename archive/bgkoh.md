@@ -9,14 +9,14 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The Clover Force
 **Level:** 9 | **Experience to Next Level:** 15/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 94₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 394₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Rookie Rank<-
-->*80/400 points to Normal Rank*<-
+->*145/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -66,7 +66,7 @@ Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his fla
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**
@@ -76,8 +76,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Pink Gummi 	Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Pink Gummi |	Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
+2. Big Apple | Gives +4 to any outside-combat-action.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 

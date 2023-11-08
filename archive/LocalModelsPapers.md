@@ -179,6 +179,7 @@
 06/2023|[WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences](https://arxiv.org/abs/2306.07906)
 09/2023|[GPT Can Solve Mathematical Problems Without a Calculator (MathGLM)](https://arxiv.org/abs/2309.03241)
 10/2023|[AgentTuning: Enabling Generalized Agent Abilities for LLMs (AgentLM)](https://arxiv.org/abs/2310.12823)
+11/2023|[CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)
@@ -223,15 +224,6 @@
 10/2023|[LLark: A Multimodal Foundation Model for Music](https://arxiv.org/abs/2310.07160)
 10/2023|[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)
 10/2023|[Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents](https://arxiv.org/abs/2310.19923)
-|
-|**Surveys**
-02/2023|[A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107)
-02/2023|[Transformer models: an introduction and catalog](https://arxiv.org/abs/2302.07730)
-02/2023|[A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
-03/2023|[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
-04/2023|[On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/abs/2304.03589)
-05/2023|[Similarity of Neural Network Models: A Survey of Functional and Representational Measures](https://arxiv.org/abs/2305.06329)
-05/2023|[A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/abs/2305.08196)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -429,11 +421,11 @@
 11/2023|[AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models](https://arxiv.org/abs/2311.01305)
 11/2023|[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)
 11/2023|[Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization](https://arxiv.org/abs/2311.01544)
+11/2023|[Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs](https://arxiv.org/abs/2311.02262)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
 06/2022|[Yann LeCun - A Path Towards Autonomous Machine Intelligence](https://files.catbox.moe/6ejerb)
-06/2022|[Anthropic - Softmax Linear Units](https://archive.is/W0yJN)
 01/2023|[Lilian Weng - The Transformer Family Version 2.0](https://archive.is/3O1n8)
 01/2023|[Lilian Weng - Large Transformer Model Inference Optimization](https://archive.is/Clu0H)
 03/2023|[Stanford - Alpaca: A Strong, Replicable Instruction-Following Model](https://archive.is/Ky1lu)

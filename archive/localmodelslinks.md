@@ -74,10 +74,9 @@
 |
 **Local LLM Research**|
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
-[PoSe](https://github.com/dwzhu-pku/PoSE)|Positional skip-wise training (finetuning too) that works with RoPe models for context extension
-[ReRoPE](https://github.com/bojone/rerope)|Rectified Rotary Position Embeddings from creator of RoPE
 [Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
 [DejaVu](https://github.com/FMInference/DejaVu)|Context sparsity for efficient inference leading to large speedups (6x vs HF transformers) 
+[PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
 |
 **Non-LLM Local Models**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
@@ -89,7 +88,7 @@
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Set-of-Mark](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
-[LLaVA](https://github.com/haotian-liu/LLaVA)|Visual instruction tuned multimodal LLM (CLIP+Vicuna)
+[CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
 [SALMONN](https://github.com/bytedance/SALMONN)|Audio instruction tuned multimodal LLM (Whisper+BEATS+Vicuna)
 [Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 

@@ -10,7 +10,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 **Species:** Mienfoo | **Affiliation:** Team Stardust
 **Level:** 9 | **Experience to Next Level:** 10/90
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 140 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 440 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -62,14 +62,14 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: Vigilance  | Tier **ɪ** (+1) | Increases chances of detecting adversaries.
+Attribute: Vigilance  | Tier **ɪɪ** (+2) | Increases chances of detecting adversaries.
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Vigilance **ɪɪ** | Tier **ɪ** | 2/3 | ▮▮▯
+Training for Attribute: Vigilance **ɪɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: None | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -82,7 +82,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Orange Gummi | +10 IQ to fighting types. Tastes like Orange.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -101,7 +101,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Leaf Pouch | Used to hold coins.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
