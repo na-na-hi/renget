@@ -7,7 +7,7 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1515 (1.7 Patch Notes)
+https://playeternalreturn.com/posts/news/1545 (1.8 Patch Notes)
 https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=J8z5CavPCYY
 
 \>[New Character] Leni - Eternal Return
 https://www.youtube.com/watch?v=57kSs-F-wRY
+
+\>Lumiapedia - Leni
+https://www.youtube.com/watch?v=-fjn3buOAbY
 
 \>Street Fighter Piolo Preview
 https://www.youtube.com/watch?v=fLAsf29_jtE

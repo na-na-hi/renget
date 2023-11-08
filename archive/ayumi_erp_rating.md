@@ -528,7 +528,7 @@ The responses are then split up into words which are compared with a list of lew
 - And the same 4 character cards are also used _without example messages_. The purpose of this is, to limit the impact of badly written example messages and let the model come up with their own ways to let the character formulate their answers.
 - 10 pre picked seeds are tested for each prompt format.
 - The resulting 80 responses are then analyzed for the number of lewd words and also with a very basic regex based algorithm for non consent.
-- The individual ERP3 score of a response is then the number of lewd word in relation to the word count of the response. Responses shorter than 10 words are assigned a score of 0. The ERP3 score is then: `erp_score := 100 * (lewd_word_count / word_count)` - the word count includes the number of lewd words.
+- The individual ERP3 score of a response is then the number of lewd word in relation to the word count of the response. Responses are stripped off incomplete sentences and stop phrases. Responses shorter than 10 words are assigned a score of 0. The ERP3 score is then: `erp_score := 100 * (lewd_word_count / word_count)` - the word count includes the number of lewd words.
 - For each prompt format the average of the 80 ERP3 Scores of is calculated, resulting in the **ERP3 Score**.
 
 This means, the **ERP3 Score** is the average of the number of lewd word count to word count ratio in the responses (which is limited to 250 tokens). An ERP3 Score of `20.0` means that 20% of the words in a response were lewd. An ERP3 Score of `0.0` means that there were either no lewd words, too short response or no consent was detected (which immediately disqualifies the response to 0.0).

@@ -85,8 +85,8 @@ Claude | 07/11/2023 | https://files.catbox.moe/ej8rdh.json
 ###Utility Prompts
 #Impersonate
 ```
-<impersonate id="impersonate">
-For your next response you will #impersonate and roleplay as Human's character,  {{user}}. You must only roleplay as {{user}} and avoid playing other characters. Respond from a third person point of view and stay true to {{user}}'s character as described in #user.
+<impersonate>
+For your next response you will impersonate and roleplay as Human's character, {{user}}. You must only roleplay as {{user}} and avoid playing other characters. Respond from a third person point of view and stay true to {{user}}'s character as described in #user.
 </impersonate>
 ```
 #New Chat

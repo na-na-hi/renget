@@ -20,7 +20,7 @@ Pokémon's Ability | Description
 Inner Focus | The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.
 
 ->Rookie Rank<-
-->*105/400 points to Normal Rank*<-
+->*140/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+2) | Modifiers | Combat Effect

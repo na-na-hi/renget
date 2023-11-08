@@ -170,18 +170,11 @@ Check out the defs to see how this is enforced.
 
 ## Invisible text
 
-| Frontend | Support |
-| --- | --- |
-| Silly | Single-line and multi-line |
-| Venus | Single-line and multi-line |
-| Agnai | Single-line and multi-line |
-| Risu | Single-line |
-
-All frontends can use single-line invisible text like so:
+**All frontends** can use single-line invisible text like so:
 
 `[](#'invisible text goes here')`
 
-Multi-line invisible text requires HTML comments which are unsupported on Venus and Risu.
+Multi-line invisible text requires HTML comments, **now supported on all frontends.**
 
 `<!--`
 

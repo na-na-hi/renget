@@ -55,7 +55,8 @@ https://zeta-noises.web.app/
 https://youtu.be/eYYMGJMCxVA
 
 >Fanarts:
-https://azure-gallery.net/illusts?query=vtuber%3A%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BB%E3%82%BC%E3%83%BC%E3%82%BF,Zeta,Vestia,Zeta_Vestia%20,Vestia_Zeta,%23Zetacrylic,%23Vestia_Zeta&search_mode=or&cp=true&r18=true
+https://twitter.com/hashtag/Zetacrylic
+(azure-gallery is dead)
 
 >OP Template:
 https://rentry.org/v7_op/raw

@@ -79,9 +79,6 @@ https://inpainter.vercel.app/paint
 ##Models, LoRAs & Embeddings
 https://civitai.com
 https://huggingface.co
-https://sd4fun.com
-https://civitai.pro
-https://rentry.org/hdgrecipes
 https://rentry.org/animusmixed
 https://rentry.org/embeddings
 https://rentry.org/lftbl
@@ -319,5 +316,5 @@ https://civitai.com/user/Pleased_Chomusuke
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - October 28th - https://pastebin.com/ungDZX19
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 8th - https://pastebin.com/DFkwBaG1
 *(PWAnon, I really dig the chibi animations!)*
