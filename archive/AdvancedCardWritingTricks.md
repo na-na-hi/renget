@@ -746,3 +746,15 @@ And for card jailbreak:
 [**Jump to table of contents ⤴**](https://rentry.org/AdvancedCardWritingTricks#advanced-card-writing-tricks)
 
 ---
+
+## Complex multi-stage stories
+
+An AI story usually has a starting point and then is completely open-ended, leaving little room for a card writer to write further “chapters” in the story. However, with a little bit of railroading as a necessary evil, [Impossible To Touch](https://www.chub.ai/characters/knickknack/impossible-to-touch-121314e2) has shown that extraordinary results can be achieved. Impossible To Touch is a milestone of card writing, the most complex narrative achieved inside a character card at the moment. It’s also just plain great to play, so I recommend that you try it, then open its lorebook in SillyTavern to study how its story progression is achieved.
+
+I hope that others will be inspired to write ambitious cards like that.
+
+(More will be written in this section when I am more experienced with Impossible To Touch’s techniques and confident enough to explain them simply.)
+
+───── ⋆⋅☆⋅⋆ ─────
+
+[**Jump to table of contents ⤴**](https://rentry.org/AdvancedCardWritingTricks#advanced-card-writing-tricks)

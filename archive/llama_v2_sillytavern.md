@@ -60,14 +60,13 @@ Open koboldcpp.exe. This is how we will be locally hosting the LLaMA model.
 
 ### Important Settings
 
-- You can switch to ‘Use CuBLAS’ instead of ‘Use OpenBLAS’ if you are on a CUDA GPU (which are NVIDIA graphics cards) for performance gains. AMD/Intel Arc users should go for CLBlast instead, as OpenBLAS is CPU only.
-- **Disable MMAP** should be enabled on Windows, according to llama.cpp CUDA dev.
+- Switch to ‘Use CuBLAS’ instead of ‘Use OpenBLAS’ if you are on a CUDA GPU (which are NVIDIA graphics cards) for massive performance gains. AMD/Intel Arc users should go for CLBlast instead, as OpenBLAS is CPU only.
+- **Disable MMAP** should be enabled on Windows if you need to ensure it's all staying in VRAM (if you have the VRAM to do so), according to llama.cpp CUDA dev.
 - **Context Size** determines how many ‘tokens’ of text the model is able to remember in a single chat. (For reference, the [Navy Seal Copypasta](https://genius.com/Copypasta-navy-seal-copypasta-annotated) is about ~400 tokens.) **4096** context size is the default maximum for llama 2 models/finetunes, but you can go higher using RoPE extension (which, if I remember right, is built into Kobold when you go higher). RoPE can potentially have quality loss the farther along you go, but many users with the hardware are able to run 8k context seemingly without issues; YMMV.
-- Streaming Mode displays text as it’s generated, instead of the end once the entire generation has finished. Streaming allows you to watch a text generation as it happens in realtime. The option was eventually moved to SillyTavern itself and isn't in the launcher anymore.
 
-![](https://files.catbox.moe/i6irer.png)
+![](https://files.catbox.moe/nqre9x.png)
 
-These are the settings I use on a 8GB VRAM graphics card (RTX 2070) with an older CPU.
+These are the settings I use on a 12GB VRAM graphics card (RTX 3060) for full offload of 13b, 4_K_M.
 
 \[Use QuantMatMul is also recommended now]
 

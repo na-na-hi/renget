@@ -47,25 +47,25 @@ http://file.vrg.party/w/vrgcraft_1-20-1.zip - instance for importing into your l
 **How to use the Little Maids mod** (thanks anon for the explanation)
 To spawn a maid you need to make an egg: 2x cakes, 4x sugar, 2x gold bars, 1x egg.
 Once the maid is spawned give it a cake to "contract" it and now it's offically yours.
+If you hate the ghast noises go to mods > littlemaid rebirth > config button > "silent default voice" to yes at the bottom of the spawn section.
 
 Right click to open its inventory and put a bunch of sugar in. They'll periodically consume it and they also use it for healing. If they have no sugar they won't do anything. If you right click on them while holding sugar in your hand, they'll enter wait mode where they just stand on the spot. right click again and they'll go back to following you
 
 There's a box on the maid's UI with the label "main" on it. Depending on the item you put in it, the maid will perform different tasks. By default they're just in "escorter" mode, they'll follow you and pick stuff up.
 
--Sword - Fencer, attacks hostile mobs
--Axe - Bloodsucker, attacks neutral and hostile mobs
+-Sword/axe - fencer, attacks mobs
 -Bow - Archer, shoots arrows. Needs arrows in its inventory
--Shears - Ripper, shears sheep. Also if there's a creeper nearby it'll rush it and prevent it from exploding. This eats durability like crazy though and once the shears break she's fucked
--*TNT - Demolisher, if she's hit then she'll show them the greatness of God (I'm not sure if this one's still implemented in newer versions, quick glance it seems like it might not be)*
+-Shears - Ripper, shears sheep
 -Torches - Torcher, she'll place down torches in dark areas
 -Bowl - Cook, give her coal and if there's a furnace nearby she'll cook any food or ores given. Needs to be set to freedom mode first.
 -Food items - Healer, she'll fill up your hunger meter
--Water bottles - Pharmacist, give her some alchemy materials and she'll make potions (never used this one so not 100% sure how it works)
 
 Buttons to the left of the UI:
 -Book icon - Select what mobs the maid sees as friendly, neutral, or hostile
 -Music box - Change the sounds she makes. Only ghast or none right now.
 -Leather chestpiece - Change appearance
-Feather - Change their movement mode. "Escort" follows you. "Freedom" lets them move around freely in a small area. "Tracer" mode will have them follow a path of redstone torches, if you have any placed down
-Sword/axe icon - No clue this is new
-Sugar icon - Shows their sugar level
+-Feather - Change their movement mode. "Escort" follows you. "Freedom" lets them move around freely in a small area. "Tracer" mode will have them follow a path of redstone torches, if you have any placed down
+-Sword/axe icon - Determines if the maid should attack only hostile or both neutral/hostile mobs (sword=hostile, axe=hostile and neutrals)
+-Sugar icon - Shows their sugar level
+
+Saddle use - Right click on a maid while holding a saddle and they'll sit on your shoulders. Right click again to get them off.

@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 06/11/23: Bread Hood Edition**
+**Last updated: 08/11/23: RE: The Hood Edition**
 
 ***
 
@@ -10,7 +10,7 @@
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
 | NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
-| MESUGAK1 | ==**4414**==  | 6     | 31/32   | CAEL     | PERMISSION |                                 |
+| MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 31/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
@@ -31,14 +31,14 @@
 
 | Name     | ID            | Level | Members | Leader  | Join       | Reqs/Notes                 |
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
-| NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |  competitive, lv281+                     |
+| NIKKUNNY | ==**13395**== | 6     | 31/32   | YOON    | PERMISSION |  competitive, lv281+                     |
 | NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 2 | 25/25 | CUNNYGOD | PERMISSION | for newcuties |
+| KUNNYHUB | ==**29940**== | 3 | 30/32 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

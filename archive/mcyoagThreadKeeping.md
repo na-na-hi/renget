@@ -147,7 +147,8 @@ https://rentry.org/DaiyuChart
 https://rentry.org/kgtam
 >Zheng
 https://rentry.org/rvcrb
->
+>Kay Lee
+https://rentry.org/iot7xi
 
 ```
 #MHA
@@ -171,8 +172,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Faith Kang in: The VIP Box (ft. Anthony Chang)
-https://rentry.org/4ezcv
+MHA is recharging!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
