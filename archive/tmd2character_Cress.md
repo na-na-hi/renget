@@ -9,14 +9,14 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 **Species:** Cinderace | **Affiliation:** N/A
 **Level:** 8 | **Experience to Next Level:** 0/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 225₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 525₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Libero | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 2.
 
 ->Rookie Rank<-
-->*65/400 points to Normal Rank*<-
+->*125/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -24,7 +24,7 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 1 | Level 5 (20HP) | 22HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 1 |  Species Bonus | 5AP
 
@@ -60,11 +60,11 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Survivalist **ɪ** | Tier **ɪɪ** (+1) | 2/3 | ▮▮▯
+Attribute: Survivalist **ɪɪ** | Tier **ɪɪɪ** (+1) | 2/3 | ▯▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
-Training for Attribute: Survivalist **ɪ** | Tier **ɪɪ** (+2) | 0/3 | ▯▯▯
+Training for Attribute: Survivalist **ɪɪ** | Tier **ɪɪɪ** (+3) | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Defense **ɪ** | Tier **0** (+0 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -77,7 +77,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Silver Gummi
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Rookie Rank<-
-->*105/400 points to Normal Rank*<-
+->*165/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -85,7 +85,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Oran Berry |  Heals the user for 10HP.
-2. Cheri Berry | Returns control. Heals Paralysis.
+2. Royal Gummi | Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

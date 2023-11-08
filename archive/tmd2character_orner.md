@@ -8,14 +8,14 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 9 | **Experience to Next Level:** 20/90
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 315₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*105/400 points to Normal Rank*<-
+->*130/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -58,13 +58,13 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
-Attribute: EXAMPLE  |  Nothing | N/A
+Attribute: Sea Snake  |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
 Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
-Training for Attribute: Sea Snake | Tier **ɪ** | 1/3 | ▮▯▯
+Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description

@@ -32,7 +32,7 @@ NijiEN:
 Victoria "Flawless Victory " Brightshield: Newest Niji who expressed desire to get better at fightan. Mains Cammy.
 https://www.youtube.com/@VictoriaBrightshield
 Rosemie "The Woe" Roselock: Likes Tekken (but cant stream it due to permits?)  
- https://www.youtube.com/@Rosemi_Lovelock
+https://www.youtube.com/watch?v=jjFaYQHQG0M
 
 >Small Corpos (and Corpo related) 
 
@@ -50,8 +50,8 @@ www.twitch.tv/shimadatiger
 
 Phase Connect:
 
-Rie "The Tackle"  Himemiya: Cute princess from /pcg/ who recently picked up Strive, has played Idol Showdown on stream.
-youtube.com/@HimemiyaRie
+Rie "The Tackle"  Himemiya: Cute princess from /pcg/ who  picked up Strive, has played Idol Showdown on stream.
+https://www.youtube.com/watch?v=pwuT1chJKRM
 
 Vreivere:
 

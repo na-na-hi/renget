@@ -9,14 +9,14 @@
 **Species:** Larvitar | **Affiliation:** Team Ruckus
 **Level:** 8 | **Experience to Next Level:**45/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 450₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to Burn's Attack decrease
 
 ->Rookie Rank<-
-->*105/400 points to Normal Rank*<-
+->*165/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -60,14 +60,14 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Attribute: Stealth  | Tier **ɪ** (+1) | 0/3 | ▯▯▯
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | 3/3 | ▮▮▮
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: Trained Move: Payback | ᴛʀᴀɪɴᴇᴅ | 3/3 | ▮▮▮
-Currently Training for Stat: Attack **ɪ** | Tier **ɪ** (+1 Physical Damage) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Currently Training for Stat: Attack **ɪɪ* | Tier **ɪ** (+1 Physical Damage) | 0/9 | ▯▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

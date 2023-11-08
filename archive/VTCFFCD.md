@@ -1,23 +1,28 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/0kt218.png)<-
+->![Funny](https://files.catbox.moe/4rop19.png)<-
 
-## ->🎃[Recently added to the archive: 10/31/2023 (BOO)](https://www.youtube.com/watch?si=S4p-cWbwvHwzeFkX&v=A-4e_p2Vcg4&feature=youtu.be)🍂<-
- ->This section will usually try to update once per thread as new stories are created, but ***may be a few days (up to a week, typically) behind***. As always, check the thread first and foremost if possible.<-
+## ->🎃[Recently added to the archive: 11/8/2023](https://youtu.be/WCl7mShf8TY)🍂<-
+#####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
 ->
-[Anon and Roboco's Special Day](https://rentry.co/zyrcm8) (Roboco, NSFW, Greentext)
-[SUICHAN WANTS RINGO](https://rentry.co/pc3gv) (Suisei, SFW, Comedy, Greentext, Undiagnosed Schizophrenia)
-[Keep it a secret.](https://rentry.co/zryr3) (Laplus, NSFW, Greentext)
-[Hotter In The Shade](https://rentry.org/uywuz) (Suisei, NSFW, Exhibitionism, Humilation play)
-[Hentai (Metamorphosis)](https://docs.google.com/document/d/e/2PACX-1vS9SvgRjqbLpEdXqpbmzbU9JxZyYIqov6DufPJxdfS-lKzjEEuMNJg_KZILbQTSr8lyqDFUyLzwa0cS/pub) (Matara, NSFW, Monster Girl)
-[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub) (Fauna, NSFW, Smell Fetish, ***Fart Fetish***)
-[Who You Were Before](https://docs.google.com/document/d/e/2PACX-1vQJV5cimvOWUTLKmxAi-N4CzW7TzAzigQLUBMXZsuZXy96aK_nxNAxkcqQ73a5I8KsdmAUWD8hhnlIg/pub) (Fubuki, NSFW, Rape, Chuuba Abuse, Mindbreak)
+(***Series Entry!***) [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
+[Apple of Her Eye (Novelization) Chapter 1](https://docs.google.com/document/d/e/2PACX-1vT9XwpPB80BHw13OMbIeJL_aFu_i7SdrOGxLYgAvy9xZfIriDaN-c5SJJJwuvGQurVcQh9frMpoInnw/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTFOGH0MUksaxP8_uL-h8ZS0yCNBiVomJuJggWL762QD-grl4O_9dgHM7p0FotF3h8aXisxvjDSE-7L/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 3](https://docs.google.com/document/d/e/2PACX-1vSetGDO1l8kCXtCTXoecmqMwzcNizmc7m83tUM4WK9ZUDN_1EoxF66yYsZUEjIuzdsuj-bT6enmRUMU/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSexkswg9ReUvSgoFH4RM11vWr_Fwo4Hyd5ZzGPwKBAG1inUTUjQlcbOIIkyiwJV9pi1sonru_T4jSS/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSetGDO1l8kCXtCTXoecmqMwzcNizmc7m83tUM4WK9ZUDN_1EoxF66yYsZUEjIuzdsuj-bT6enmRUMU/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[HoloShorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Various Chuubas, NSFW, Wedgie Fetish, several short stories within)
+[Coco's Eggs](https://docs.google.com/document/d/e/2PACX-1vSkDOGgKvaNYVZLsPYgG5wvUV-_W5IFycCIwOXyK1TCxU_rsx_I-8ucBnRB0XoViXbolHBhi0809U2I/pub) (Coco, NSFW, Egg-laying Fetish)
+[EXCESS](https://docs.google.com/document/d/e/2PACX-1vRVgbpRKKoM1sYW08glC0PQ0pKwAW-k1JsvGQjNwe3bColeKaQN0CPF8ZVI9aa6u07QNbz9l2icBd1S/pub) (Elira, Selen, SFW, Cyberpunk, Light Drama, Foreplay)
+[Soft as Lion's Fur](https://docs.google.com/document/d/e/2PACX-1vSJv3SmrjlY-0yn9ss-Eh8Y5Ya3c5wFZTp2Xjd80301M2MUr5LtYX5t0QzMPfwgTD59lbeVAmGP-eXB/pub) (Botan, NSFW, Fluff, Failed Pregnancy, Emotional)
+[Fuwawa with Mococo.](https://rentry.co/ex762t) (Fuwawa, Mococo, NSFW, UOHHH, Forced(?))
+[Shelter](https://docs.google.com/document/d/e/2PACX-1vQmx13QCZB8R9LeM5edXddbL_MjYi_ST1vGiwdWTWr0R47taCIhBhq8LxW7PpS450i6aB_Malv5bjcv/pub) (Tokodori Hajime, Fuwa/Moco, omorashi, ABDL, ageplay)
 <-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
-#####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (currently unused, but soon™!)<-
+#####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2)<-
 
 Archivist's contact info: iclosemyeyesandseizeit@gmail.com
 Questions, comments, updated URLs, errors, anything in between? Please don't hesitate to contact me using the email provided above!
@@ -1107,7 +1112,8 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Maneater](https://docs.google.com/document/d/e/2PACX-1vSg7XqiLkOphWmk5SMMhNkkZ4rnlp6mLLt1BdKWN8b4KJO7hgWq8_RwduNfpJR7tJdP9IxFAt1s6-7H/pub) (Choco, NSFW, Stepcest)
 [Monochrome Christmas](https://docs.google.com/document/d/e/2PACX-1vQqRC2IITRhNzzqe_UvBgdec_Kf5H0yzTRp01DnBsqE97MnJt2u1p5JWnNrkaSwxuy1tzpbSUpdrlNQ/pub) (Shirakami Fubuki, Kurokami Fubuki, NSFW, childhood friends, love triangle, vanilla)
 [A Baeutiful Fanfic](https://docs.google.com/document/d/e/2PACX-1vR_VtFuCmhEVJNEdqVcuCNzLv8vZlJIO3VcRo-rLz2iNUXaBBAb3I8Jy5QwsB1ns3l4-BfGjE89fcvk/pub) (Baelz, IRyS, Kronii, Fauna, Mumei, Roberu, Sana, SFW, Comedy, Parody)
-[Senchou Really Needs a Man](https://rentry.co/hmmnx) (Marine, NSFW, Bestiality)[Casual Podcasting](https://rentry.org/hsxut) (Bae, IRyS, Mori, NSFW, Futanari, Choking, Spitroasting, Sweat Fetish)
+[Senchou Really Needs a Man](https://rentry.co/hmmnx) (Marine, NSFW, Bestiality)
+[Casual Podcasting](https://rentry.org/hsxut) (Bae, IRyS, Mori, NSFW, Futanari, Choking, Spitroasting, Sweat Fetish)
 [The Question](https://rentry.org/qcpfn) (Fubuki, Mio, SFW, Yuri, Fluff)
 [Captured by Gura](https://rentry.org/yh3t5) (Gura, NSFW, Short, Femdom, Restraints, Smell fetish, cockteasing)
 [A Hedonist's Reckoning](https://rentry.org/nkrym) (Rrat!Ayame, NSFW, BDSM, Spanking, Choking)
@@ -1315,6 +1321,3 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [SUICHAN WANTS RINGO](https://rentry.co/pc3gv) (Suisei, SFW, Comedy, Greentext, Undiagnosed Schizophrenia)
 [Keep it a secret.](https://rentry.co/zryr3) (Laplus, NSFW, Greentext)
 [Hotter In The Shade](https://rentry.org/uywuz) (Suisei, NSFW, Exhibitionism, Humilation play)
-[Hentai (Metamorphosis)](https://docs.google.com/document/d/e/2PACX-1vS9SvgRjqbLpEdXqpbmzbU9JxZyYIqov6DufPJxdfS-lKzjEEuMNJg_KZILbQTSr8lyqDFUyLzwa0cS/pub) (Matara, NSFW, Monster Girl)
-[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub) (Fauna, NSFW, Smell Fetish, ***Fart Fetish***)
-[Who You Were Before](https://docs.google.com/document/d/e/2PACX-1vQJV5cimvOWUTLKmxAi-N4CzW7TzAzigQLUBMXZsuZXy96aK_nxNAxkcqQ73a5I8KsdmAUWD8hhnlIg/pub) (Fubuki, NSFW, Rape, Chuuba Abuse, Mindbreak)

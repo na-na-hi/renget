@@ -85,7 +85,7 @@ Item Name | Description
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. ~~Oran Berry~~ | ~~Heals the user for 10HP.~~
 3. Bread | Food item.
-4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
+4. TM124 Fling | Teaches move Fling.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

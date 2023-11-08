@@ -2,7 +2,7 @@
 - - -
 ####
 #####**Fast setup:**
-[⬇️ DOWNLOAD PROMPTS AND PRESET](https://files.catbox.moe/rhf8ke.zip)
+[⬇️ DOWNLOAD PROMPTS AND PRESET](https://files.catbox.moe/n0oot6.zip) (It actually includes the files now, not just a kobold. Sorry.)
 
 #####**How do I use this?**
 1. Download settings.

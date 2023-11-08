@@ -38,7 +38,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 ->Rookie Rank<-
-->*130/400 points to Normal Rank*<-
+->*155/400 points to Normal Rank*<-
 ->![A means to an end.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -114,7 +114,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
-2. Shattered TM135 Flash | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
+2. Trawl Orb | Randomly gives 1 item to the user from the floor of the dungeon.
 3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
@@ -125,7 +125,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Empty | None
-2. Empty | None
+2. Shattered TM135 Flash | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
 
 ***
 

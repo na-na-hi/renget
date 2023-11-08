@@ -18,7 +18,7 @@ Pokémon's Ability | Description
 Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Rookie Rank<-
-->*40/400 points to Normal Rank*<-
+->*165/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -78,8 +78,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Sitrus Leaf | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
+2. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -97,7 +97,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+RP Item | Talisman | A blank strip of parchment without any clear use. For who it belonged to, it certainly doesn't feel very spiritual...
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
 ->Rookie Rank<-
-->*130/400 points to Normal Rank*<-
+->*205/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

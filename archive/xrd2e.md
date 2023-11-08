@@ -4,7 +4,7 @@ http://file.vrg.party/w/vrgcraft_1-20-1.zip - instance for importing into your l
 
 **How to install**
 	-Download the instance from the above link
-	-Import the instance into your launcher of choice (If it doesn't work, try using pollymc or polymc - a couple of people so far have had issues with other launchers but poly and polly seem to work)
+	-Import the instance into your launcher of choice (If it doesn't work, try using pollymc or polymc - a couple of people so far have had issues with other launchers but poly and polly seem to work) [edit: try ATlauncher too, one anon who couldn't get poly or polly to work used that one]
 
 **How to update**
 	-If you have already installed it and it is working, but the download link was updated, download the new instance

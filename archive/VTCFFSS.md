@@ -578,4 +578,5 @@
 [Balsa: Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)
 [Balsa Chapter 26: The Birth of Venus](https://docs.google.com/document/d/e/2PACX-1vTHxyBh_mCgDk6FB1NaX-KO1ZM3JV2tgmDuHANAPlWblBmhNC89VylV4ondlrQRMlsizKeEpvAcwfYD/pub) (Ciyana, multiple chuubas, fantasy)
 [Balse Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
+[Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
 [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)

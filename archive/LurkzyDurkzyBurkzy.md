@@ -35,15 +35,13 @@ after years spent gymming in secret.
 ##->My personal procedure and settings for slowburns<-
 I use the Summarization module whenever I do slowburns, configured to automatically summarise every 10 messages, in 200 words. After 50 responses, ensuring the summary is updated to account for the fiftieth message, and the LAST {{char}} response is copied, I start a new chat, replacing the intro message with the copied response, and then navigating over to the summarization module and pasting the latest summary. Below is the custom prompt I use to summarise. Usually I have to manually modify the summary to include/remove certain details, which I encourage you to do the same.
 ```
-Human: Pause the roleplay. Analyse the story in its entirety, and update your memory with key events and interactions that have played a part in shaping the current story and relationship dynamics between {{user}} and {{char}}. Using what is stored in your memory, write a {{words}} word summary based on this, and if a previous summary has already been generated, modify it as appropriate, using it as a base (The {{words}} word count limit still applies). Your response should include nothing but the summary.
+Pause the roleplay. Analyse the story in its entirety, and update your memory with key events and interactions that have played a part in shaping the current story and relationship dynamics between {{user}} and {{char}}. Using what is stored in your memory, write a {{words}} word summary based on this, and if a previous summary has already been generated, modify it as appropriate, using it as a base (The {{words}} word count limit still applies). Your response should include nothing but the summary.
 ```
 ->![Summarization](https://files.catbox.moe/4l1t38.png)<-
 ***
-##->Logs (Updated: 8 Nov)<-
-!!! note Note
-	->**Sorted from New to old**<-
-
-->![Log2](https://files.catbox.moe/4luy7u.png)<-
-***
-->![Log1](https://files.catbox.moe/5mlkix.png)<-
-***
+##->Logs<-
+Logs | Genre(s)
+:----: | :----:
+![Log3](https://files.catbox.moe/hei7vu.png)| ShotaPOV, Submissive
+![Log2](https://files.catbox.moe/4luy7u.png) | Bratty Bitch, Revenge
+![Log1](https://files.catbox.moe/5mlkix.png) | Unhinged, Defiant, Gangster

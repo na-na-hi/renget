@@ -99,12 +99,18 @@ Previous: >>694201488 (# of previous thread)
 /mippi/i;boards:jp;subject:love live
 /ibuki/i;boards:jp;subject:love live
 /so now what/i;boards:jp;subject:love live
+/florcita/i;boards:jp;subject:love live
 /miumi/i;boards:jp;subject:love live
 /karen/i;boards:jp;subject:love live
 /rinna/i;boards:jp;subject:love live
 /kaho/i;boards:jp;subject:love live
 /koha/i;boards:jp;subject:love live
 /koharu/i;boards:jp;subject:love live
+/moa/i;boards:jp;subject:love live
+/mia/i;boards:jp;subject:love live
+/rinnya/i;boards:jp;subject:love live
+/rukitty/i;boards:jp;subject:love live
+/nao/i;boards:jp;subject:love live
 /feral nao/i;boards:jp;subject:love live
 /juli/i;boards:jp;subject:love live
 /rukita/i;boards:jp;subject:love live
