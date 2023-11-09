@@ -12,14 +12,14 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Species:** Rufflet | **Affiliation:** N/A
 **Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 60₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 360₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
  Sheer Force | The User's Moves with secondary effects have their damage increased by 3. Secondary effects are removed.
 
 ->Rookie Rank<-
-->*90/400 points to Normal Rank*<-
+->*125/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+2) | Modifiers | Combat Effect

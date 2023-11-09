@@ -458,14 +458,7 @@ See also: **[XML](#xml)**
 
 ## Card author’s note/depth prompt
 
-| Frontend | Support |
-| --- | --- |
-| Silly | Yes |
-| Venus | Yes |
-| Agnai | Yes |
-| Risu | No |
-
-Card author’s note is a prompt that also has a depth setting. At depth 0, its position is the same as a card jailbreak. Higher depths work like this:
+**Now supported on all frontends**. Card author’s note is a prompt that also has a depth setting. At depth 0, its position is the same as a card jailbreak. Higher depths work like this:
 
 ```
 user: Hi
@@ -758,3 +751,5 @@ I hope that others will be inspired to write ambitious cards like that.
 ───── ⋆⋅☆⋅⋆ ─────
 
 [**Jump to table of contents ⤴**](https://rentry.org/AdvancedCardWritingTricks#advanced-card-writing-tricks)
+
+---

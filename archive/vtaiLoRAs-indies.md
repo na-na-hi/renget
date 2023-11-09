@@ -112,6 +112,12 @@
 	Add (sharp teeth) if you want her teeth to show up
 -> [Civitai](https://civitai.com/models/138600/artemis-of-the-blue-or-vtuber-2-outfits) <-
 
+#### -> Arypie <-
+!!! note Recommended weight: 0.65
+!!! info Example Prompt
+	(arypie, short hair, blonde hair, antennae, freckles, pointy ears, blue eyes, alien, (colored skin, pink skin:1.2), blue crop top, short sleeves, white gloves, midriff, blue skirt, white boots, tail)
+-> [Catbox](https://files.catbox.moe/mut51q.safetensors) <-
+
 #### -> Asano Ruri <-
 !!! note Recommended weight: 0.6
 !!! info Example Prompt
@@ -191,6 +197,12 @@
 !!! info Example Prompt
 	(clauvio, long hair, grey hair, messy hair, blue eyes, mouse girl, mouse ears, sleep mask, mask on head, off shoulder, balck shirt, barefoot)
 -> [Catbox](https://files.catbox.moe/v3q9tr.safetensors) <-
+
+#### -> CookieswirlC <-
+!!! note Recommended weight: 0.55
+!!! info Example Prompt
+	(long hair, grey hair, pink colored inner hair, aqua streaked hair, two side up, ahoge, blue eyes, mole under eye, bear ears, dark-skinned female, tan, bare shoulders, white shawl, long sleeves, black bustier, black corset, aqua belt, blue frilled skirt, chain, black thighhigh boots, gold footwear)
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/Iah2zSjZ) <-
 
 #### -> CottontailVA <-
 !!! note Recommended weight: 0.7
@@ -352,6 +364,13 @@
 	(aarurufu, animal ears, long hair, brown hair, hair flower, white flower, frills, neck ribbon, fox tail, cleavage, black shirt, sleeveless shirt, clothing cutout, midriff, black gloves, white skirt)
 -> [Civitai](https://civitai.com/models/119726/hizuki-rurufu-snacknili-vtuber) <-
 
+#### -> Huntress Spectre <-
+!!! info The blue tuff can be a little RNG
+!!! note Recommended weight: 0.75
+!!! info Example Prompt
+	(hspectre, short hair, black hair, blue streaked hair, multicolored hair, hair between eyes, grey eyes, wolf ears, wolf tail, wolf girl, black cape, black shirt, detached sleeves, fingerless gloves, vambraces, midriff, tattoo, belt, black pants, black thighhighs, high heels)
+-> [Catbox](https://files.catbox.moe/1vrfpi.safetensors) <-
+
 #### -> Irelyth <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
@@ -384,13 +403,6 @@
 	(juniperactias, white skin, white body, black sclera, moth girl, moth wings, four arms, antennae, arthropod girl, colored sclera, monster girl, high heels, black skirt, black thighhighs, carapace, green eyes, green hair, white hair, multicolored hair, streaked hair, one eye covered, insect girl, hair ornament)
 -> [Civitai](https://civitai.com/models/28403/juniperactias-vtuber) <-
 
-#### -> Kagura Mea <-
-!!! note Recommended weight: 0.55
-!!! info Example Prompt
-	(kagura mea, heterochromia, blue eyes, yellow eyes, white hair, long hair, twintails, white pantyhose, black ribbon, black footwear, brown hat, maid apron, short sleeves, white gloves) 
-	if you want, you can prompt her with (black coat) but it won't come out as huge as her actual floating coat.
--> [Civitai](https://civitai.com/models/20205/kagura-mea-lora) <-
-
 #### -> Kagura Nana <-
 !!! note Recommended weight: 1
 !!! info Example Prompt
@@ -408,6 +420,12 @@
 !!! info Example Prompt
 	(kanaseito, long hair, blue hair, ahoge, blue eyes, cat girl, cat ears, detached choker, white shirt, detached sleeves, long sleeves, frills, midriff, white skirt, bridal garter, white thighhighs, white footwear)
 -> [Civitai](https://civitai.com/models/13201/vtuber-or-lorakanaseito) <-
+
+#### -> KarinVR <-
+!!! note Recommended weight: 0.5
+!!! info Example Prompt
+	(long hair, grey hair, twintails, black hair ribbon, red eyes, fox ears, fox girl, fox tail, white shirt, long sleeves, red bow, midriff, black pleated skirt, white footwear)
+-> [Civitai](https://civitai.com/models/122238/karin-vrchat) <-
 
 #### -> Keriki Mara <-
 !!! info Her outfit doesnt work, theres isnt tags for this fucking outfit so i give up. make up your own outfit, fuck this lora..
@@ -498,6 +516,13 @@
 	(laimu \(vtuber\), long hair, green hair, multicolored hair, single braid, ahoge, green eyes, ferret ears, ferret tail, necklace, pink dress, spaghetti strap, short detached shoulders, off shoulder, white hooded jacket, hood down, long sleeves, mismatched legwear, green single thighhigh, white footwear)
 -> [MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/file/TV1TgS5I) <-
 
+#### -> Layna Lazar <-
+!!! info Her headpiece wont always contain blood sadly
+!!! note Recommended weight: 0.85
+!!! info Example Prompt
+	(layna lazar, long hair, black hair, hair ornament, green eyes, pointy ears, detached collar, bare shoulders, black dress, black elbow gloves, fingerless gloves, thigh strap, black thighhighs, barefoot)
+-> [Civitai](https://civitai.com/models/187090/layna-lazar-vtuber) <-
+
 #### -> Lelya Moonchild <-
 !!! note Recommended weight: 0.6
 !!! info Example Prompt
@@ -522,11 +547,22 @@
 	(lola loading, white hair, short hair, multicolored hair, short twintails, blue eyes, hair clip, white leotard, white elbow gloves, clothing cutout, grey belt, dark-skinned female, tan, white thigh boots)
 -> [Civitai](https://civitai.com/models/114860/lola-loading-or-vtuber) <-
 
-#### -> Lucy Pyre <-
+#### -> Lovell Cels <-
+!!! info She seems to have a really baked pose so you might need to play around with it
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
-	(lucypyre, grey hair, long hair, twintails, demon horns, red eyes, demon girl, demon tail, black crop top, midriff, red skirt, belt, blue jacket, long sleeves, necklace, black pantyhose, white boots)
+	(lovell, short hair, black hair, hair flaps, green eyes, cyborg, android, robot joints, mechanical arms, mechanical ears, mechanical legs)
+-> [Catbox](https://files.catbox.moe/6xuqwt.safetensors) <-
+
+#### -> Lucy Pyre <-
+!!! note Recommended weight: V1: 0.7 - V2: 0.65
+!!! info Example Prompt
+	V1: (lucypyre, grey hair, long hair, twintails, demon horns, red eyes, demon girl, demon tail, black crop top, midriff, red skirt, belt, blue jacket, long sleeves, necklace, black pantyhose, white boots)
+	V2: (lucy pyre demon spawn, long hair, grey hair, two side up, hair ornament, x hair ornament, white headdress, red eyes, demon girl, demon horns, demon tail, black choker, black sleeveless dress, cleavage cutout, white apron, frills, wrist cuffs, thigh strap, white thighhighs, black footwear)
+##### -> V1 <-
 -> [Civitai](https://civitai.com/models/137411/lucy-pyre-vtuber) <-
+##### -> V2 <-
+-> [Civitai](https://civitai.com/models/153536/vtuber-lucy-pyre-demon-spawn) <-
 
 #### -> Lumituber <-
 !!! note Recommended weight: 0.8
@@ -640,23 +676,36 @@
 	(Maid Mint, white hair, green hair, multicolored hair, blue eyes, hair ornament, triangular headpiece, hair bow, maid headdress, white shirt, short sleeves, green skirt, blue ribbon, black footwear, white legwear, apron)
 -> [MEGA](https://mega.nz/folder/47Yj3ZIS#klaoBwVZI_u5DbjmCjkqRQ/file/s35UHIob) <-
 
+#### -> MintVR <-
+!!! note Recommended weight: 0.55
+!!! info Example Prompt
+	(short hair, white hair, hair between eyes, x hair ornament, hair flaps, blue eyes, fox girl, fox ears, fox tail, bare shoulders, red bow, blue sleeveless dress, detached sleeves, long sleeves, black thighhighs, white boots)
+-> [Civitai](https://civitai.com/models/105630/mint-vrchat) <-
+
 #### -> Mirai Akari <-
 !!! note Recommended weight: 1
 !!! info Example Prompt
 	(Mirai Akari, long hair, blonde hair, side ponytail, blue eyes, blue hair ribbon, blue sleeveless shirt, cleavage cutout, white elbow gloves, midriff, black skirt, garter straps, black thighhighs, brown footwear)
 -> [Civitai](https://civitai.com/models/54108/mirai-akari-vtuber-lora) <-
 
+#### -> Misa <-
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(long hair, blue hair, braid, hair ornament, blue eyes, black dress, frills, long sleeves, black bow, gloves, brown pantyhose, white footwear)
+-> [Civitai](https://civitai.com/models/93867/misa) <-
+
+#### -> Misogi Sosogi <-
+!!! info Her X shaped hairband is very selective when it wants to work, sometimes it doesn't even show up and I'm unsure on why. also her (no pants) tag can randomly make her panties peek out, but she legit only wears an oversized shirt
+!!! note Recommended weight: 0.8
+!!! info Example Prompt
+	(misogisosogi, short hair, pink hair, hair between eyes, (hairband:1.3), black headwear, purple eyes, choker, necklace, blue coat, long sleeves, black shirt, print shirt, no pants, brown thighhighs, striped thighhighs, brown boots)
+-> [Catbox](https://files.catbox.moe/epl4ft.safetensors) <-
+
 #### -> Mizuki Momo <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
 	(momo, long hair, pink hair, french braid, blue eyes, cat ears, cat tail, cat girl, white shirt, pink ribbon, pink cardigan, long sleeves, brown skirt, brown thighhighs, black footwear)
 -> [Civitai](https://civitai.com/models/89911/momo) <-
-
-#### -> Mocca <-
-!!! note Recommended weight: 0.8
-!!! info Example Prompt
-	(mocca liebeskind, ahoge, brown hair, aqua bowtie, single braid, brown eyes, short hair, white dress shirt, grey jacket, hikimayu, hooded jacket, hood down, long sleeves, multicolored hair, shorts, streaked hair, x hair ornament)
--> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/NDp3QIxL) <-
 
 #### -> Moeri <-
 !!! note Recommended weight: 0.7
@@ -803,6 +852,14 @@
 	(nymphaaea, long hair, purple hair, pink streaked hair, multicolored hair, purple eyes, twintails, hair ribbon, cat girl, cat ears, cat tail, purple dress, bare shoulders, detached sleeves, purple flower, thorns, black pantyhose, tail bow, black single thighhigh, black footwear)
 -> [Civitai](https://civitai.com/models/161160/nymphaaeavt-vtuber) <-
 
+#### -> (Play-Asia) Obake Pam <-
+!!! info Base look likes to give her a (hair bun) atleast with my model, I would add that to the negatives if it appears for you too. 2 Outfits!!
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	Base: (obakepam, long hair, white hair, messy hair, ahoge, hair ornament, hairclip, blue eyes, obakehood, blue hoodie, long sleeves, no pants, blue footwear)
+	Princess: (obakepam, long hair, white hair, messy hair, ahoge, side ponytail, mini crown, hair ornament, hairclip, blue eyes, obakepri, bare shoulders, neck ribbon, blue fur-trimmed cape, blue dress, short detached sleeves, blue footwear)
+-> [Catbox](https://files.catbox.moe/nthf7w.safetensors) <-
+
 #### -> Oda Nobuhime <-
 !!! note Recommended weight: 1
 !!! info Example Prompt
@@ -832,6 +889,12 @@
 !!! info Example Prompt
 	(osakana nemu, blue hair, purple hair, multicolored hair, short hair, blue eyes, crown, white hoodie, black shorts)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/VR4nCC5Q) <-
+
+#### -> Owarino Last <-
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(owarino last, long hair, black hair, pink colored inner hair, red eyes, hair over one eye, (colored skin, grey skin:1.2), pointy ears, bare shoulders, pink dress, detached sleeves, torn clothes, midriff, barefoot)
+-> [Civitai](https://civitai.com/models/185729/owarino-last-vtuber) <-
 
 #### -> PapitasVT <-
 !!! note Recommended weight: 0.5
@@ -863,6 +926,12 @@
 !!! info Example Prompt
 	(pochi, grey hair, long hair, blue eyes, white dress, black cape, hat, head wings, hair ornament, long sleeves)
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/folder/tFRwFTrL) <-
+
+#### -> Ponpoko Jungle <-
+!!! note Recommended weight: 0.55
+!!! info Example Prompt
+	(ponpoko \(vtuber\), short hair, grey hair, leaf on head, hair ornament, animal nose, grey eyes, :3, raccoon girl, raccoon ears, raccoon tail, japanese clothes, black choker, black sleeveless shirt, baggy pants, black pants, black footwear)
+-> [MEGA](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/file/iJcQwRoC) <-
 
 #### -> PorcelainMaid / Jowol <-
 !!! note Recommended weight: 0.8
@@ -920,6 +989,14 @@
 	(long hair, brown hair, green streaked hair, ponytail, hair between eyes, blue eyes, dark-skinned female, tan, black collar, black crop top, criss cross halter, white jacket, long sleeves, midriff, black skirt, black footwear)
 -> [Civitai](https://civitai.com/models/104955/riz) <-
 
+#### -> Rokuri Syao <-
+!!! info Her tail can be slightly wonky as all tails usually are. 2 Outfits!!
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	Base: (rokurisyao, short hair, green hair, ahoge, horns, hair ornament, flower, green eyes, wings, white jacket, long sleeves, green fur trim, white sleeveless shirt, cleavage cutout, black fingerless gloves, black highwaist skirt, tail, bridal garter, single thighhigh, grey footwear)
+	Second: (rokurisyao, short hair, green hair, ahoge, horns, hair ornament, flower, green eyes, wings, white camisole, white shorts, tail, white sandals)
+-> [Catbox](https://files.catbox.moe/b0s1tq.safetensors) <-
+
 #### -> Rosedoodle <-
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
@@ -956,6 +1033,12 @@
 	(sakuratoko, long hair, pink hair, hair ornament, pink eyes, hair intakes, white headwear, bare shoulders, white ribbon, purple dress, detached sleeves, long sleeves, frills, white pantyhose, white footwear)
 -> [Civitai](https://civitai.com/models/45400/vtuber-sakuratoko) <-
 
+#### -> Sanagi Yuzu <-
+!!! note Recommended weight: 0.55
+!!! info Example Prompt
+	(sanagiyuzu, short hair, blonde hair, antennae, yellow eyes, moth girl, detached collar, bare shoulders, white dress, detached sleeves, wide sleeves, pelvic curtain, black footwear)
+-> [Catbox](https://files.catbox.moe/w0i2yz.safetensors) <-
+
 #### -> Sansin Jin <-
 !!! note Recommended weight: 1
 !!! info Example Prompt
@@ -978,10 +1061,14 @@
 -> [Civitai](https://civitai.com/models/139858/shanoa-or) <-
 
 #### -> Shigure Ui <-
-!!! note Recommended weight: 0.6
+!!! note Recommended weight: Base: 0.6 - Smol: 0.55
 !!! info Example Prompt
-	(sui1, short hair, blonde hair, braid, hair rings, green eyes, pom pom hair ornament, beret, sailor collar, long sleeves, striped jacket, vertical striped skirt, vertical stripes)
+	Base: (sui1, short hair, blonde hair, braid, hair rings, green eyes, pom pom hair ornament, beret, sailor collar, long sleeves, striped jacket, vertical striped skirt, vertical stripes)
+	Smol: (short hair, blonde hair, twintails, green eyes, white shirt, blue dress, white legwear, blue footwear)
+##### -> Base <-
 -> [Civitai](https://civitai.com/models/48185/shigure-ui-vtuber) <-
+##### -> Smol Ui <-
+-> [Civitai](https://civitai.com/models/169515/shigure-ui) <-
 
 #### -> Shinonome Megu <-
 !!! note Recommended weight: 0.6
@@ -994,6 +1081,12 @@
 !!! info Example Prompt
 	(shirahiko, long hair, brown hair, orange eyes, fox girl, fox ears, fox tail, animal ear fluff, ahoge, hair ornament, bandaid on nose, x hair ornament, japanese clothes, pink kimono, detached sleeves, long sleeves, wide sleeves, stomach cutout, white legwear, zouri)
 -> [Civitai](https://civitai.com/models/143683/shirahiko-vtuber) <-
+
+#### -> Shizukou <-
+!!! note Recommended weight: 0.75
+!!! info Example Prompt
+	(shizukou, short hair, light purple hair, ahoge, double buns, hair ornament, blue eyes, choker, bare shoulders, white dress, cleavage, blue jacket, long sleeves, off shoulder, black bow, blue footwear)
+-> [Catbox](https://files.catbox.moe/e0iagu.safetensors) <-
 
 #### -> Shondo / Fallenshadow <-
 !!! note Recommended weight: 0.8
@@ -1046,14 +1139,17 @@
 -> [Civitai](https://civitai.com/models/8832/blibili-vtuber-snowfox) <-
 
 #### -> Snuffy / Smilfy <-
-!!! note Recommended weight: 1 | smilfy: 0.8
+!!! note Recommended weight: 1 | smilfy: 0.8 | Orange Smilfy: 0.7
 !!! info Example Prompt
 	Snuffy: (snuffy, short hair, blue hair, blue eyes, domino mask, blue hair flower, raccoon ears, raccoon tail, black belt, black choker, black fingerless gloves, black shirt, blue shorts, fishnet thighhighs, single thighhigh, necklace, high heel boots)
 	Smilfy: (snuffy \(vtuber\), long hair, blue eyes, horns, ahoge, domino mask, piercing, raccoon tail, raccoon ears, underwear, jacket, bra, torn clothes, fishnets, asymmetrical legwear, collar, jewelry, purple bra)
+	Orange Smilfy: (snuffy, short hair, grey hair, hair ornament, ahoge, domino mask, orange eyes, raccoon girl, raccoon ears, raccoon tail, scarf, black jacket, open jacket, cow print, bikini, belt, thighhighs, striped single sock, barefoot)
 ##### -> Snuffy <-
 -> [Civitai](https://civitai.com/models/63750/snuffy) <-
 ##### -> Smilfy <-
 -> [Catbox](https://files.catbox.moe/1eoh67.safetensors) <-
+##### -> Orange Smilfy <-
+-> [Civitai](https://civitai.com/models/33677/snuffy-smilfy) <-
 
 #### -> Sonii <-
 !!! note Recommended weight: 0.7
@@ -1078,6 +1174,12 @@
 !!! info Example Prompt
 	(starvt, short hair, brown hair, red eyes, star hair ornament, bare shoulders, neck ribbon, black crop top, long sleeves, midriff, red skirt, black socks, brown footwear)
 -> [Civitai](https://civitai.com/models/155834/starvt) <-
+
+#### -> Succubus Xen <-
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(xen, short hair, black hair, red streaked hair, horns, purple eyes, choker, succubus, demon girl, demon wings, bare shoulders, black dress, side slit, black thighhighs, black high heels)
+-> [Civitai](https://civitai.com/models/117582/succubus-xen-vtuber-character-lora) <-
 
 #### -> Suri Mukeki <-
 !!! note Recommended weight: 0.6
@@ -1167,6 +1269,13 @@
 	(vienna \(vtuber\), bare shoulders, red eyes, black coat, black footwear, blue hair, crescent hair ornament, crop top, detached collar, hair between eyes, dragon girl, dragon horns, black fur trim, hair ornament, white high-waist pants, long hair, long sleeves, strapless, yellow ribbon)
 -> [Civitai](https://civitai.com/models/15420/vienna-vtuber) <-
 
+#### -> VIPi_towa <-
+!!! info 3 outfits? based on metadata.
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(long hair, white hair, black hair, multicolored hair, two side up, ahoge, hair between eyes, hair ornament, red eyes, tan, mole on breast, choker, school uniform, black necktie, loose necktie, cleavage, black jacket, long sleeves, white shirt, black skirt, pleated skirt, black thighhighs, black footwear)
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/wexElJIT) <-
+
 #### -> Whiskey Project <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
@@ -1203,6 +1312,12 @@
 	(youyi rock, blonde hair, twintails, yellow eyes, hair ornament, bare shoulders, black footwear, black shirt, purple shorts, frills, blue shirt, cleavage cutout, purple choker, purple fingerless gloves, kneehighs, purple socks, short sleeves, sidelocks, thigh strap, two-tone shirt)
 -> [Civitai](https://civitai.com/models/30966/yoyisixiwanzi-lora) <-
 
+#### -> Yuuka Bear <-
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(yuuka, medium hair, grey hair, ahoge, low twintails, green ribbon, hair ornament, red eyes, white headwear, flower, koala girl, koala ears, pink cardigan, long sleeves, open cardigan, white shirt, frills, pink bow, black dress, white thighhighs, black footwear)
+-> [Catbox](https://files.catbox.moe/pn6xt0.safetensors) <-
+
 #### -> Yuy Xi <-
 !!! info might need cameltoe in negatives depending on model
 !!! note Recommended weight: 0.5
@@ -1224,6 +1339,12 @@
 !!! info Example Prompt
 	(inuyama tamaki, long hair, dog hair ornament, black bow, blue hair, two side up, hair between eyes, orange eyes, otoko no ko, pink cardigan, long sleeves, black skirt, dog tail, black thighhighs, black footwear)
 -> [Civitai](https://civitai.com/models/151193/inuyama-tamaki-vtuber) <-
+
+#### -> Mocca <-
+!!! note Recommended weight: 0.8
+!!! info Example Prompt
+	(mocca liebeskind, ahoge, brown hair, aqua bowtie, single braid, brown eyes, short hair, white dress shirt, grey jacket, hikimayu, hooded jacket, hood down, long sleeves, multicolored hair, shorts, streaked hair, x hair ornament)
+-> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/NDp3QIxL) <-
 
 #### -> Tatamaru <-
 !!! note Recommended weight: 0.55

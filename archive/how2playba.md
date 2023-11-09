@@ -594,7 +594,9 @@ There's also technically the reports you can buy in the normal shop for credits,
 
 >Is it too late to play? 
 No.
-The best time to start was yesterday, the second best time to start is right now. 
+
+>When is a good time to start? 
+The best time to start was yesterday, the second best time to start is right now. This holds true for any bonsai game. 
 If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
 
 >I just missed the X banner, will she get a rerun?

@@ -427,7 +427,7 @@ CDTV Special New Year 2019 - https://nyaa.si/view/1106731
 Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
 
 Saint Snow 1st GIG ~Welcome to Dazzling White Town~ 
-[1080p BRRip](https://nyaa.si/view/1727091)![](https://files.catbox.moe/c95yx7.gif)
+[1080p BRRip](https://nyaa.si/view/1727091)
   
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
@@ -484,6 +484,7 @@ UNIT LIVE & FAN MEETING Vol.1 DiverDiva ~Big Bang~ (BD) - https://nyaa.si/view/1
 UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
 UNIT LIVE & FAN MEETING Vol.4 R3BIRTH ~First DELIGHT~ (BD) - https://nyaa.si/view/1616797
 Love Live! Nijigasaki High School Idol Club UNIT LIVE! ~QU4RTZ Fluffy Magic~ - https://nyaa.si/view/1651131
+2023 UNIT LIVE! Collection - [BDRip](https://nyaa.si/view/1737599) ![](https://files.catbox.moe/c95yx7.gif)
 
 Love Live! Festival 2020 (TV Ver.)
 https://nyaa.si/view/1242913
@@ -517,7 +518,7 @@ Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
 Miyagi - https://nyaa.si/view/1610539
 Tokyo - https://nyaa.si/view/1632065
 Saitama - https://nyaa.si/view/1645740
-[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) ![](https://files.catbox.moe/c95yx7.gif)
+[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) 
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) [720p](https://nyaa.si/view/1707506)
@@ -535,7 +536,7 @@ Liella! Debut Single Release Event  - https://nyaa.si/view/1495241
 Anime Expo Lite 2021 - Love Live! Superstar!! Hello, We are Liella!!  - https://nyaa.si/view/1406120
 SHIBUYA NOTE NHKG Interview+Performance : [WEBRip](https://nyaa.si/view/1383632)
 2021 FNS Music Festival : [WEBrip](https://nyaa.si/view/1465133)
-2022 Liella MTV Unplugged : [Bluray engsub](https://nyaa.si/view/1736285) ![](https://files.catbox.moe/c95yx7.gif) | [Webrip](https://nyaa.si/view/1565479) 
+2022 Liella MTV Unplugged : [Bluray engsub](https://nyaa.si/view/1736285) | [Webrip](https://nyaa.si/view/1565479) 
 Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ : [Webrip](https://nyaa.si/view/1547572)
 
 Liella no Doko Iku? (Season 1)
@@ -596,8 +597,8 @@ Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kM
 Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
 Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU～](https://www.mediafire.com/file/940wakc74d11wdj/) 
-[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) ![](https://files.catbox.moe/c95yx7.gif)
-[Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) ![](https://files.catbox.moe/c95yx7.gif)
+[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) 
+[Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) 
 [(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
 
  
