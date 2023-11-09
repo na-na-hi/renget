@@ -17,6 +17,8 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Wave 6 Patch Notes
+https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 Overview - All courses revealed
 https://www.youtube.com/watch?v=0-kASUEEXn8
 「!」Paper Mario: The Thousand-Year Door Revealed

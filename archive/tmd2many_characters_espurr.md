@@ -27,7 +27,7 @@
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
 **Level:** 9 | **Experience to Next Level:** 70/90 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 429₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 729₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -125,7 +125,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Empty | None
-2. Shattered TM135 Flash | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
+2. ~~Shattered TM135 Flash~~ | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
 
 ***
 

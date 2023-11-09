@@ -10,7 +10,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Species:** Snivy | **Affiliation:** None
 **Level:** 8 | **Experience to Next Level:** 25/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 103₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 28₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

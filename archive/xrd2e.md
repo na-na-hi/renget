@@ -35,7 +35,6 @@ http://file.vrg.party/w/vrgcraft_1-20-1.zip - instance for importing into your l
 	Little Maid Rebirth (overworld spawns are disabled)
 
 **Server Settings:**
-	Large Biomes
 	Normal Difficulty
 	World Size 40k (-20k to +20k)
 	Days/nights are like 2 hours iirc

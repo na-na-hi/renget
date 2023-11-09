@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 8 | **Experience to Next Level:** 70/80
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 390₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 190₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -89,9 +89,9 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item:* Apple | Gives +2 to any outside-combat-action.
-1. Oran Berry | Heals the user for 10 HP.
-2. TM Round | Teaches the move Round.
+*Equipped Item:* Oran Berry | Heals the user for 10 HP.
+1. Apple | Gives +2 to any outside-combat-action.
+2. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
 3. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
 4. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 
@@ -100,8 +100,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired.
-2. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
+1. Shattered TM ("Fang or Punch move") | A broken TM that once contained the instructions to a move. Can be repaired.
+2. Fighting-Type Gem | Holding this makes you feel very strong. Boosts a Fighting-Type move's damage by 3.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

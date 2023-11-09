@@ -122,6 +122,7 @@
 |06/09/2023|[Timestamp](https://youtu.be/Z3C4pzDIeEo?t=551)|**Segment** - Another misunderstanding corner segment during FWMC Morning #16 about Nerissa being 'a dirty woman' accoring to Mococo who also wanting to 'cleanse her for all her sins'.|
 |12/09/2023|[Timestamp](https://youtu.be/_scYvetrFEo?t=1980)|**Mention** - During FWMC Morning #18, Mococo promises some sort of revenge for the second Minecraft Advent collab.|
 |12/09/2023|[Timestamp](https://youtu.be/Cljwt3qv1Ds?t=9840)|**Mention** - Aftermath of the revenge arc for the second Minecraft collab stream - separated from the rest of the stream because it's easily forgettable.|
+|2023-10-11|[Timestamp](https://youtu.be/ZK7hNUALkvI?t=16574)|**VC** - FWMC ask all of Advent for help with a puzzle in "The Adventures of Cookie & Cream" that they are struggling with. Nerissa is the first to answer their cry for help and join them.|
 
 ###### ![Image description](https://files.catbox.moe/f9inkg.png) Full-gen Collabs
 |Date|Link|Nature & Notes|
@@ -267,6 +268,5 @@
 |Date|Link|Nature & Notes|
 |---|---|---|
 |2023-10-30| [Link](https://www.youtube.com/watch?v=9X7NRu7JXjg) |**Family Feud** - Megacollab on Kiara's channel with Kiara as the host and player roster consisting of Nerissa, FWMC, Kronii, Gura, Mumei, Ame and Bijou.|
-|2023-11-04| TBD |**Hololive Sports Festival**|
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->

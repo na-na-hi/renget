@@ -8,8 +8,8 @@
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 8 | **Experience to Next Level:** 75/80
-**Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
+**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -17,7 +17,7 @@ Pokémon's Ability | 	Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*170/400 points to Normal Rank*<-
+->*195/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -63,12 +63,13 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪ** (+1) | Skill with illusion manifestations
+Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
-Currently Training for Attribute: Chopping | Tier **ɪ**  | 1/3 | ▮▯▯
+Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
