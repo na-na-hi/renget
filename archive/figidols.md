@@ -22,6 +22,10 @@ Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, 
 https://www.youtube.com/watch?v=MP0l2VXsq0k
 A.K.I "Nerf me pls" Rosenthal:  newbie choosing Aki to begin her journey.  
 https://www.youtube.com/watch?v=-XlEjQsSHhE
+Towa "twappers" "twappity" "tower of Babylon" "tortelini" "torment" "topaz" "twop" "Choppa" "Donto smoke": Maining lily.  
+https://www.youtube.com/watch?v=qHOn2cNXQ0A
+Choco " THE MASTER  "  Sensei:  hololewd erolive going for Dhalsim
+https://www.youtube.com/live/zwn2qan7iQA
 Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 

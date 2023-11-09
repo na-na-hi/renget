@@ -1,4 +1,6 @@
-#Hoping with Slaude
+#Moping at Slaude
+-> ![sade](https://files.catbox.moe/yekwkj.png) ![slad](https://files.catbox.moe/ahwepo.png) <-
+!!! info it's over
 #### -> **~3.4-4K Context, Automatic Vectors Summarizer, Unfiltered Response from Claude** <-
 !!! note If you want to cope: https://rentry.org/slaudecope/
 !!! info For slowburners: https://rentry.org/hn3bd

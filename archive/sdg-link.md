@@ -237,7 +237,9 @@ https://docs.getgrist.com/3mjouqRSdkBY/sdperformance
 https://pharmapsychotic.com/tools.html
 https://rentry.org/sdgoldmine
 ###Artists Styles
-https://supagruen.github.io/StableDiffusion-CheatSheet/
+https://supagruen.github.io/StableDiffusion-CheatSheet
+https://stablediffusion.fr/artists
+https://decentralizedcreator.com/list-of-artists-supported-by-stable-diffusion
 https://rentry.org/artists_sd-v1-4 
 https://rentry.org/faces-faces-faces
 https://rentry.org/anime_and_titties 

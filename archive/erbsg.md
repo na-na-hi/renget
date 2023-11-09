@@ -1,7 +1,7 @@
 #/erbsg/ - Eternal Return: Black Survival General
 
 \>What is this?
-Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 2 begins November 9th, 2023.
+Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 2 begun November 9th, 2023.
 
 \>Steam Link
 https://store.steampowered.com/app/1049590/Eternal_Return/
@@ -49,6 +49,7 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
+https://event.playeternalreturn.com/newcharacter/Leni (Play as Leni Event, ~12/6)
 https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards 11/9)
 
 \>Codes
@@ -61,4 +62,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>452278335
+\>\>453434663

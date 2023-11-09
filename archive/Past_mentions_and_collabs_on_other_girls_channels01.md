@@ -260,6 +260,11 @@
 |---|---|---|
 |15/08/2023|[Timestamp](https://youtu.be/4CbH8pcq9C4?t=2869)|**Mentions** - A little less than a mention, just a call out about the pre-debut interactions concerning Nerissa's buttwings and flying with Kiara. This happened toward the end of her new outfit reveal.|
 
+###### 📜 Zeta
+|Date|Link|Nature & Notes|
+|---|---|---|
+|2023-11-07|[Timestamp](https://youtu.be/JyRW87ywPgg?t=1668)|**Appearance** - Small video of Nerissa congratulating Zeta on her birthday and answering two of Zeta's questions: ![](https://files.catbox.moe/0kt3mp.png) 1. What would you do if you were stuck in a timeloop on your birthday? ![](https://files.catbox.moe/0kt3mp.png) 2. What would you if you were in Zeta's body for a day?|
+
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->
 
 ---

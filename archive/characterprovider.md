@@ -42,6 +42,9 @@ Click these images for quick navigation:
 ##Info Section
 `Use the Quick Start above to skip this section`
 
+##### Author's Comment
+I do not pretend to be a professional nor try to convince you my prompts are superior. You can see some strange things in earlier prompts - these were experiments, and me learning about LLMs with you. 
+
 ##### Disclaimer
 • **This is Purely Role-Play.** It does not endorse, incite, or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
 • **Legal Access.** If you wish to interact with a particular LLM, please ensure you gain access legally. Breaching the Terms of Use could result in an account suspension by the key provider [Anthropic/OpenAI].
@@ -50,8 +53,9 @@ Click these images for quick navigation:
 • **Adult Content.** By using these prompts, you affirm that you are over 18 years of age ~~and in a mentally sound state~~.
 • **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health.
 • **Rest and Health Matters.** Ensure you take breaks between your "sessions" and pay attention to your health. If you experience any discomfort or pain down there, stop immediately. I am serious. Dead serious. Stay hydrated, and eat your [veggies](https://www.youtube.com/shorts/r8fB8EA82DU).
-• **Proxy Warning.** Be cautious when using custom proxy builds.
-• **I guess this is important.** All my characters are 18+. Even if it's just a text and a picture. (And I can't stop you from modifying it as you want)
+• **Proxy Warning.** Be cautious when using a proxy. Some may log your messages, or collect your data, such as IPs.
+• **Fictional Characters.** All my characters are 18+. Even if it's just a text and a picture. Even if stated the opposite. They're not real. Everything is made up. (And I can't and won't stop you from modifying them as you want)
+• **Responsibility.** I am not responsible for what content is being created using these prompts.
 ######
 - - -
 ##### Progress Map
@@ -309,11 +313,11 @@ Recommended ones are marked with a ★ star, experimental ones with a ⚑ flag, 
 > **Recommendation:** I understand that the 12+ versions of the Claude prompt can be confusing, so my suggestion is to use either version 10.1 (which focuses on inventiveness and interesting events), version 12 (which has more inventiveness and fewer events) or version 6.7 (no events).
 Date | Update | Description | -> Preset <- | -> Prompts <-
  |  |  |  |
-02.09.2023 |  ★[V12 RUM BABA](https://rentry.org/CharacterProvider-V12-RUM-BABA) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.  | -> [⬇️ Download](https://files.catbox.moe/i0b527.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V12-RUM-BABA) <-
+02.09.2023 |  ★[V12 RUM BABA](https://rentry.org/CharacterProvider-V12-RUM-BABA) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.  | -> [⬇️ Download](https://files.catbox.moe/396450.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V12-RUM-BABA) <-
  |  | **Features:** This prompt tends to be more inventive with actions than versions below this one. But it looses some of immersiveness and enviro descriptions.
 30.08.2023 |  ♼[V11 JAFFA](#v11-jaffa) | **Note:** Scrapped.
  |  | **Issues:** Same output as V10.X.
-23.08.2023 |  ★[V10.1 FAWORKI](#v101-faworki) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive.
+23.08.2023 |  ★[V10.1 FAWORKI](https://rentry.org/CharacterProvider-V10-1-FAWORKI) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive. | -> [⬇️ Download](https://files.catbox.moe/36vjl2.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V10-1-FAWORKI) <-
  |  | **Features:** I **HIGHLY RECOMMEND** this (and previous) one too. Slight changes from v10, similar output.
 16.08.2023 |  ♼[V10 FAWORKI](#v10-faworki) | **Note:** Scrapped.
  |  | **Issues:** I V10.1 is the same but with slight improvements.
@@ -863,27 +867,6 @@ Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts
 #
 [![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/1j1fwz.zip)
 [DOWNLOAD FILES](https://files.catbox.moe/1j1fwz.zip)
-#
-!!! **How do I use this?**
-	1. Download settings
-	2. Import Preset.json ([How to import a preset?](#preset-and-prompts-import))
-	3. Import Prompts.json ([How to import prompts?](#preset-and-prompts-import))
-	4. Turn on/off preferable blocks and enjoy!
-!!! SillyTavern V1.9.7+ is required to use new prompt chains! [Download latest version from 'staging' branch](https://github.com/SillyTavern/SillyTavern/tree/staging)
-!!! note Character Descriptions will be wrapped in <{{char}}></{{char}}> automatically. If your card uses its own formatting you can turn -character- and -/character- off!
-# 
-- - -
-- - -
-- - -
-# 
-###V10.1 FAWORKI
-#
-
-###### PRESET AND PROMPTS
-Created a [Preset](#preset-and-prompts-import) and [Prompts](#preset-and-prompts-import) files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
-#
-[![DOWNLOAD FILES](https://files.catbox.moe/cjhf1s.png)](https://files.catbox.moe/m2itn3.zip)
-[DOWNLOAD FILES](https://files.catbox.moe/m2itn3.zip)
 #
 !!! **How do I use this?**
 	1. Download settings
