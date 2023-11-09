@@ -38,7 +38,8 @@ Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???
 Maxi | M | Trubbish | Joltik (Maddi, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
-Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#Taslean)
+Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
+Adrian | M | Umbreon | N/A | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrian)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -206,7 +207,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 111 | [Dew Point (ft. Dewott)](https://rentry.org/iqr9y) | | | | |
 112 | [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo) | | | | |
 113 | [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9) | | | | | |
-114 | | | | | |
+114 | [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd) | | | | |
 115 | | | | | |
 116 | | | | | |
 117 | | | | | |
@@ -324,7 +325,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
-	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd) *Not on Table*
+	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699)
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -641,4 +642,4 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, Popplio(?, subject to change), Zangoose, and Dragonair
+//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, subject to change), Zangoose, and Dragonair

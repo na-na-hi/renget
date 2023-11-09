@@ -6,11 +6,18 @@ http://file.vrg.party/w/vrgcraft_1-20-1.zip - instance for importing into your l
 	-Download the instance from the above link
 	-Import the instance into your launcher of choice (If it doesn't work, try using pollymc or polymc - a couple of people so far have had issues with other launchers but poly and polly seem to work) [edit: try ATlauncher too, one anon who couldn't get poly or polly to work used that one]
 
-**How to update**
-	-If you have already installed it and it is working, but the download link was updated, download the new instance
-	-delete the mods folder from your already installed instance
-	-put in the new mods folder from the new download, and discard the rest of the downloaded files
-	-do NOT *overwrite* the mods folder - you need to completely delete the old one and replace it with the new one after
+To import an instance into pollymc, click on "add instance" and select "import from .zip." Then select the .zip file you downloaded.
+
+**How to update** (If you already have the instance installed but the mods were updated as indicated by the "link updated on etc")
+	-Download the new instance
+	-Delete the mods folder from your already installed instance
+	-Put in the new mods folder from the new download, and discard the rest of the downloaded files
+	-Do NOT *overwrite* the mods folder - you need to completely delete the old one and replace it with the new one after
+
+**How to add offline account in pollymc** (If you aren't using an official microsoft account)
+	-Go to manage accounts, up in the top right corner
+	-Click on the sidebar button that says "add offline account"
+	-Type in your name and it should just work
 
 **How to use the voice chat:**
 	By default it is proximity based. If you join a group channel, then you can hear the other group members from anywhere.

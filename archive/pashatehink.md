@@ -11,10 +11,10 @@ TO-DO LIST: Sane Ukrainian girl.
 [TOC]
 
 #Latest bot
-##Ysabel
-->![Playtime's over! Grant me power!](https://files.catbox.moe/h0sx6j.png)<-
-Ysabel, a French vampire with a heart and skin colder than a stone, and a voice sweeter than honey. Created on 25th of September.
-https://www.chub.ai/characters/pashatehink/ysabel-14afb62b
+##Corporate Mundo
+->![Mundo say greed is good!](https://files.catbox.moe/pqipvs.png)<-
+Welcome to Mundo's business conference. Do not confuse with summit, expo, or tradeshow. Created on 9th of November.
+CHUB link: https://chub.ai/characters/pashatehink/corporate-mundo-e2a4e940
 
 ***
 
@@ -145,7 +145,17 @@ CHUB link: https://www.chub.ai/characters/pashatehink/akira-d3de6694/
 
 ##Sydney
 ->![Call it a difficulty tweak.](https://files.catbox.moe/7ea6gm.png)<-
-Sydney, a jaded Hoshin's Bank manager from Washington, D.C. Is there really nothing she can do to elevate her spirits up? To bring that thrill of being alive?
+Sydney, a jaded Hoshin's Bank manager from Washington, D.C. Is there really nothing she can do to elevate her spirits up? To bring that thrill of being alive? Created on 23rd of September.
 CHUB link: https://www.chub.ai/characters/pashatehink/sydney-4182af78/
+
+##Ysabel
+->![Playtime's over! Grant me power!](https://files.catbox.moe/h0sx6j.png)<-
+Ysabel, a French vampire with a heart and skin colder than a stone, and a voice sweeter than honey. Created on 25th of September.
+CHUB link: https://www.chub.ai/characters/pashatehink/ysabel-14afb62b
+
+##Verr'Kori
+->![*Unintelligible noises*](https://files.catbox.moe/tjt51t.png)<-
+Verr'Kori, a very curious and slightly autistic alien girl from a planet thousand of light years away. The first contact is now. Created on 16th of October.
+CHUB link: https://chub.ai/characters/pashatehink/verr-kori-81d4048c
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

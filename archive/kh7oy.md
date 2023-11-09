@@ -17,6 +17,8 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Super Mario RPG Overview - 3rd Trailer
+https://www.youtube.com/watch?v=zju4gITxkm0
 「!」Wave 6 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 Overview - All courses revealed
@@ -27,8 +29,6 @@ https://www.youtube.com/watch?v=8Ume5pSIcKE
 https://www.youtube.com/watch?v=KIP2_LJdi0I
 「!」Princess Peach: Showtime! 2nd Trailer
 https://www.youtube.com/watch?v=qfj6ZEpf78g
-「!」Super Mario RPG 2nd Trailer
-https://www.youtube.com/watch?v=e_kuPoLw9Wc
 「!」Mario vs. Donkey Kong Remake Revealed
 https://www.youtube.com/watch?v=5sPwqplxHXc
 

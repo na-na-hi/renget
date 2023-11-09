@@ -2,9 +2,9 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/01/23)
-	**Moved 4 Phase-connect members for updating due to reports of them causing issues**
-	**Added Project:LIVIUM agency and tagged a few chuubas**
+!!! warning Quick Update (11/09/23)
+	**Moved 4 Phase-connect members for updating due to reports of them causing issues (CDB Skill Issue)**
+	**Added NHOT BOT onto the list**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -32,7 +32,7 @@ Kaya Nishikino | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
-	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina
+	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
@@ -42,27 +42,22 @@ Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
 Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
-Dizzy Dokuro | X | - | X | Testing V2 lora
-Jelly Hoshiumi | X | - | X| Testing V2 lora
-Ember Amane | X | - | X| Testing V2 lora
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
-	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Nyatasha Nyanners, Projekt Melody, Veibae, Ironmouse, Silvervale
+	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Nyatasha Nyanners, Projekt Melody, Veibae, Ironmouse, Silvervale, Zentreya, Kson
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Zentreya | X | - | X
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Apricot/Froot | X | X | -
 Hime Hajime | - | - | -
-Kson | X | - | X
-GeegaVS | X | X | -
+GeegaVS | X | X | - | Her VShojo outfit LoRA is a little scuffed, will need to be updated later.
 Kuro Kurenai  | - | - | -
-Matara Kan  | X | - | X
+Matara Kan  | X | X | - | Early bakes weren't perfect (ex. Her antennae turn into wings), so once theres much more art and content, a V2 would be nice.
 
 ## -> Tsunderia (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
-	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana,
+	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana, Matsuro Meru, 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -70,7 +65,6 @@ Inukai Purin | - | - | -
 Hoshino Charlotte | - | - | -
 Umiushi Urara | - | - | -
 Yazaki Kallin | - | - | -
-Matsuro Meru | X | - | X
 Kirihime Ria | - | - | -
 Nini Yuuna | - | - | -
 Amemachi Hanabi | - | - | -
@@ -103,16 +97,10 @@ Mako Sameshima | - | - | -
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
-	Yuko Yurei, Rin Penrose, Pochi Wanmaru (Old), Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie
+	Yuko Yurei, Rin Penrose, Pochi Wanmaru (Old), Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie, Nikki Rei, Lily Sin, Emi Suika, Neo Sparkles, Juna Unagi, Roca Rourin,
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Nikki Rei | X | - | X | -
-Lily Sin | X | - | X | -
-Emi Suika | X | - | X | -
-Neo Sparkles | X | - | X | -
-Juna Unagi | X | X | X | Testing Updated lora
-Roca Rourin | X | X | X | Testing Updated lora
 Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updated lora will be necessary whenever more art/streams happen
 
 ## -> VOMS <-
@@ -128,20 +116,20 @@ Michimata Batoya | - | - | -
 
 ## -> 774inc <-
 !!! info Available Loras without the need of updates and have been tested.
-	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo
+	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra,
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Inaba Haneru | - | - | -
 Souya Ichika | - | - | -
 Hinokuma Ran | - | - | -
-Kazami Kuku | - | - | -
+Kazami Kuku | X | - | X
 Yunohara Izumi | - | - | -
 Seshima Rui | - | - | -
 Hira Hikari | - | - | -
 Oura Rukako | - | - | -
 Konan Mia | - | - | -
-Tsukinoki Tirol | - | - | -
+Tsukinoki Tirol | X | - | X
 Inari Kuromu | - | - | -
 Umori Hinako | - | - | -
 Momono Yurari | - | - | -
@@ -150,7 +138,6 @@ Hashiba Natsumi | - | - | -
 Shiromiya Mimi | - | - | -
 Shimamura Charlotte | - | - | -
 Sekishiro Mico | - | - | -
-Suou Patra | X | - | X
 And Uge | X | X | -
 Kanade Kanon | - | - | -
 Kisaki Anko | - | - | -
@@ -345,7 +332,6 @@ Sakuya Azusa | - | - | -
 ## -> VReverie <-
 !!! info Available Loras without the need of updates and have been tested.
 	Ophelia Midnight, Hotaru Iora, Nova Aokami, Lilrya Prisvielle, Cheri Lupina, Rana Ianna, Erika Byakko, Akiko Sushi, Salmon Lordette
-
 !!! note 100%! PERFECT (for now)
 
 
@@ -451,7 +437,7 @@ Minami Nonno | - | - | -
 Akuma Yuu | - | - | -
 Natsu Tsurugi | - | - | -
 
-## -> Cyberlive / Aetheria <-
+## -> Cyberlive / Aetheria (Defunct) <-
 !!! note They are technically all indie, but for the lora checklist, I shall mark them as their original agency.
 	Previous members that moved to other agencies will be listed underneath their new ones, not this one.
 !!! info Available Loras without the need of updates and have been tested.
@@ -467,7 +453,7 @@ Momozora Seina | - | - | -
 
 ## -> Varium <-
 !!! info Available Loras without the need of updates and have been tested.
-	Nanase Eru
+	Nanase Eru, Amemochi Nina, 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -475,7 +461,6 @@ Komai Ume | - | - | -
 Louise Priere | - | - | -
 Tsukiyoi Avi | - | - | -
 Suzutuki Sui | - | - | -
-Amemochi Nina | X | - | X
 Oshino Chiyu | - | - | -
 Serenade Oxblood | - | - | -
 Watamiya Ahiru | - | - | -
@@ -557,7 +542,7 @@ Yoshizuki Meguru | - | - | -
 
 ## -> V&U <-
 !!! info Available Loras without the need of updates and have been tested.
-	Liora Walkyria, Amano Serafi, Yurikago Kokone, Suri Solari,
+	Liora Walkyria, Amano Serafi, Yurikago Kokone, Suri Solari, Meeta Osita, 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -568,7 +553,6 @@ Amoria | - | - | -
 Echo Lyne | - | - | -
 Maeve Kagekiri | - | - | -
 Cyon Hart | - | - | -
-Meeta Osita | X | - | X
 D.K Graves | - | - | -
 Spectra Libitina | - | - | -
 Zeli Zuimu | - | - | -
@@ -747,7 +731,7 @@ Elaine | - | - | -
 Miria | - | - | -
 Virgil | - | - | -
 
-## -> Shirayuri Production <-
+## -> Shirayuri Production (Defunct)<-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -889,14 +873,8 @@ Taya Rex | - | - | -
 
 ## -> PixelLink <-
 !!! info Available Loras without the need of updates and have been tested.
-	Raki Kazuki, 
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Nebi Nebu | X | - | X
-Miuna Usako | X | - | X
-Lottie Shinju | X | - | X
-Chiaki Katsumi | X | - | X
+	Raki Kazuki, Lottie Shinju, Chiaki Katsumi, Miuna Usako, Nebi Nebu,
+!!! note 100%! PERFECT (for now)
 
 ## -> LisPon <-
 !!! note Hmm..
@@ -1088,14 +1066,10 @@ Nantako Naru | - | - | -
 
 ## -> Sedai One (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Aimi Hada, Anastasia White, Aono Nemo, Lily Endou
+!!! note 100%! PERFECT(x)
+	(x) Gen 2 not exactly done, but they barely even got to do anything so its probably not possible to do them.
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Anastasia White | X | - | X
-Lily Endou | X | - | X
-Aimi Hada | X | - | X
-Aono Nemo | X | - | X
 
 ## -> VOICE-ORE <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1360,7 +1334,7 @@ Asagumo Yuma | - | - | -
 Mitsumata Rube | - | - | -
 Luca Polka | - | - | -
 
-## -> The Moon Studio <-
+## -> The Moon Studio (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -1380,14 +1354,25 @@ X'Flare | - | - | -
 BΣretta X'Rain | - | - | -
 Lamuril Ragna X' | - | - | -
 
+## -> NHOT BOT <-
+!!! info Available Loras without the need of updates and have been tested.
+	Kagura Mea, Hiseki Erio,
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Hanazono Serena | - | - | - 
+Amane Luna | - | - | - 
+UzuMe | - | - | - 
+Seira Mint | - | - | - 
+
 ## -> VOLs <-
 !!! info Available Loras without the need of updates and have been tested.
 	Minazuki Mana, Aria Synth
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Shirousa Mikumi | - | - | - | -
-Mayuno A. Charlotte | - | - | - | -
+Shirousa Mikumi | - | - | - 
+Mayuno A. Charlotte | - | - | - 
 
 ## -> Misc <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1400,19 +1385,8 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
 Mozumi Pichi | X | X | - | Really needs a new one after full debut
-Lucy Pyre | X | X | - | Looking for v2 and v3 Loras (v2 has one lora but hasn't been tested yet, doesn't look good from first impressions though)
-Snuffy / Smilfy | X | X | - | Looking for new outfit loras
-Arypie | X | - | X | -
-CookieswirlC | X | - | X | -
-Lovell cels | X | - | X | -
-Misogi Sosogi | X | - | X | -
-Rokuri Syao | X | - | X | -
-Sanagi Yuzu | X | - | X | -
-Huntress Spectre | X | - | X | -
-Obake Pam | X | - | X | Not exactly Indie but making one entry for one chuuba is a little too much.
-Yuuka Bear | X | - | X | -
-Shizukou | X | - | X | -
-VIPi_towa | X | - | X | -
-Succubus Xen | X | - | X | -
-Mint | X | - | X | -
-Karinn | X | - | X | -
+Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
+Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
+Towa Rui | X | - | X | -
+Kirsche Verstahl | X | - | X | -
+Eira Woolcott | X | - | X | -

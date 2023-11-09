@@ -33,6 +33,7 @@ https://t.me/umftteam ("Signum" unit)
 https://t.me/AFUStratCom
 https://t.me/BUAR110ombr 
 https://t.me/ogshb8
+https://t.me/wolfspackgroup
 
 *OTHER*
 https://t.me/pidrozdilshadowoficial (drone footage)

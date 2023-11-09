@@ -667,6 +667,6 @@ In case you didn't see it already, [most stuff is inside the bagguides rentry. U
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 
-Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the 4chan /bag/ thread and tag how2playba (so I can find it in the archive).  Anything is much appreciated. 
+Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the 4chan /bag/ thread and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.

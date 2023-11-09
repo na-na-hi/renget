@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>hohol vehicles getting droned
+https://files.catbox.moe/t26m13.mp4
+>Sparta group destroying armor and hohols
+https://files.catbox.moe/18w46p.mp4
+>hohols try to hide in a building and get BTFO
+https://files.catbox.moe/yzjn9y.mp4
 >hohol soldier seething at language nationalist Farion
 https://files.catbox.moe/ln19w2.mp4
 >hohol soldiers who speak russian - not ukranians
