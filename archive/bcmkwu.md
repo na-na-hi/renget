@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>"The counter offensive was a psychological victory (translated)
+https://files.catbox.moe/jjx2kq.mp4
+>pregnant hoholina gets taken prisoner
+https://files.catbox.moe/0ne1es.mp4
+>Russians sending magnesium thermite to the AFU
+https://files.catbox.moe/yyurf6.mp4
 >GRAD MLRS blankets hohol positions north of Artyomovsk
 https://files.catbox.moe/niml1d.mp4
 >RU tankers ruin hohol plans to sneak up to russian positions at night

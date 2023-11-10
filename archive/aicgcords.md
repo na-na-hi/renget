@@ -1,6 +1,9 @@
 # ==/AICG/ Discords==
 
-**Characord 3:** https://discord.gg/dhYgA5ANvQ
+**Characord:** https://discord.gg/2BjBRxbG
+Chara's new Discord. https://rentry.org/aicgcord
+
+**Ownercord:** https://discord.gg/dhYgA5ANvQ
 Owner's third server. ==Underaged chatters preferred!==
 ![mod](https://files.catbox.moe/rn7r9c.jpg)
 

@@ -6,6 +6,17 @@ This ranking table contains a rating of different LLMs, which tries to determine
 [TOC]
 ***
 
+- Other Rankings/Comparisons:
+    - [The Crestfall Project - Leaderboard](https://rentry.org/ndcbq#leaderboard)
+    - u/WolframRavenwolf on reddit
+        - [Huge LLM Comparison/Test: 39 models tested (7B-70B + ChatGPT/GPT-4) by 
+u/WolframRavenwolf](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/)
+        - [Huge LLM Comparison/Test: Part II (7B-20B) Roleplay Tests by u/WolframRavenwolf](https://www.reddit.com/r/LocalLLaMA/comments/17kpyd2/huge_llm_comparisontest_part_ii_7b20b_roleplay/)
+         - [New Model RP Comparison/Test (7 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15ogc60/new_model_rp_comparisontest_7_models_tested/)
+         - [Big Model Comparison/Test (13 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15lihmq/big_model_comparisontest_13_models_tested/)
+    - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
+    - [HuggingFaceH4 - Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
 !!! danger Interpretation Warning: *Writing quality is not covered!*
     **Disclaimer:** This benchmark makes no statement about how well a LLM will be able to drive the story forward. It can also not determine coherency within a longer role play chat. The generated **text quality is not tested for**. For more information look in these sections: [Known Flaws of the ALC-IQ](https://rentry.co/ayumi_erp_rating#known-flaws-of-the-alc-iq) and [Known Flaws of the ERP Score](https://rentry.co/ayumi_erp_rating#known-flaws-of-the-erp-score-and-erp-variety-score)
 
@@ -396,10 +407,6 @@ Note: For an **interactive table** look here: http://ayumi.m8geil.de/ayumi_bench
 | 366 | [PY007 TinyLLaMA Chat v0.2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230917_1B-Q8_0_PY007_TinyLLaMA_Chat_v0_2.html) | 1B | Q8_0 | 53.84 | 0.20 | 3 |
 | 367 | [Azale AI Starstreak Alpha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_S_Azale_AI_Starstreak_Alpha.html) | 7B | Q5_K_S | 51.22 | 0.22 | 3 |
 
-!!! info **Please also have a look at these LLM role play rankings:**
-    - [Another LLM Roleplay Rankings - by AliCat and Trappu - https://rentry.co/ALLMRR](https://rentry.co/ALLMRR)
-    - [New Model RP Comparison/Test (7 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15ogc60/new_model_rp_comparisontest_7_models_tested/)
-    - [Big Model Comparison/Test (13 models tested) by u/WolframRavenwolf - reddit/r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15lihmq/big_model_comparisontest_13_models_tested/)
 
 ## About Quantization
 
@@ -661,6 +668,7 @@ Big thanks go to:
 - [How to make a character - https://rentry.org/create-a-character-for-fucking-idiots](https://rentry.org/create-a-character-for-fucking-idiots)
 - [Avakson's Character Editor - https://avakson.github.io/character-editor/](https://avakson.github.io/character-editor/)
 - [A Bronya Guide to Creating a Pygmalion Bot using Ali:Chat + PList - https://ganstakingofsa.github.io/reimagined-couscous/alicat-bronya](https://ganstakingofsa.github.io/reimagined-couscous/alicat-bronya)
+- [Advanced card writing tricks](https://rentry.org/AdvancedCardWritingTricks)
 
 Here are a few sources of character cards:
 - [Chub (AKA CharHub, CharacterHub, Character Hub)](https://chub.ai/)

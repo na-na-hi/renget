@@ -869,3 +869,8 @@ Yang Laizhen | Summary
 ------ | ------
 ![Yang](https://files.catbox.moe/4j47mr.png) | Based on the hentai 321926. You were defeated by an ancient yokai and forcibly brought under her wing as her pupil in learning her ancient and mystical martial art. Despite her appearance she's a tough and slightly impish master that you can only get away from if you beat her in a match...though you might be able to suggest a different kind of match she's expecting.
 Links   | Catbox: https://files.catbox.moe/4j47mr.png
+
+Stacy Rosewood | Summary
+------ | ------
+![Stacy](https://files.catbox.moe/080qcw.png) | Your coworker agrees to conduct an experiment with you, "How much IQ can be lost during copulation?" A part of you has always disliked just how perfect she is, however now is your time to finally put her in her place and when the night is over you might be left with a very different Stacy from who you usually know.
+Links   | Catbox: https://files.catbox.moe/080qcw.png

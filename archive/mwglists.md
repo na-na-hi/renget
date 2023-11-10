@@ -31,10 +31,25 @@ For these /MWG/ anons who may be experiencing temporary non-inspiration or wish 
 
 The list shall change - removals as anons make memes, additions from suggestions in /mwg/ threads, I shall amend the list. At the bottom, are links to further lists of events that have clickable sources attached.
 
+*Current Thing* Ideas
+
+* Douglass Mackey going to prison for posting a meme mocking hillary clinton
+* Fighting breaks out outside the museum of tolerance after screening of hamas film
+* Outbreak of diarrhea in the UK, possibly from swimming in poo contaminated water
+* Bored Apes at apefest 2023 uses new eye trick to make sure their nft tokens are viewable only once
+* Dead guy at Glenwood Caverns Adventure Park is a real live hero who defeated his CIA MKULTRA mind control
+* Chris-Chan Denies Allegations Of Incest With Mother
+* Hunter-Killer pod of orcas sinking boats in the strait of gibraltar
+
+General Ideas
+
 * obama flying drones over afghanistan, bombing villages while wearing nobel peace prize
 * osama in his lounge room playing vidya with seal team, with bags of opium around
 * 40yo robotics employee crushed to death by a robot in South Korea after it mistook him for a box of vegetables
 * 7yr old Christopher gets finger broken by chess playing robot because he moved too fast
+* Elon Musk accused of antisemitism cos he compares George Soros To Magneto
+* Fact-Checkers Forced To Clarify They Are Not Putting 'Cum In M&Ms'
+* Wizards Of The Coast Employed Pinkertons To Retrieve Unreleased 'Magic: The Gathering' Cards
 * snowden climbing out of his window leaving a straw doll wearing his clothes in his bed
 * ghislaine maxwell on laptop posting reddit, at at an in-and-out with children
 * us military using 3 ufos spinning around mh370 flight to philadelphia experiment it away
@@ -42,16 +57,13 @@ The list shall change - removals as anons make memes, additions from suggestions
 * clones of tiffany dover being farmed for more vaccine shots
 * The western world turning white african refugees away while welcoming non-white ones
 * china organ harvesting of their unwanted/wrong peoples
-* Dead guy at Glenwood Caverns Adventure Park is a real live hero who defeated his CIA MKULTRA mind control
 * Seismic blasting ships causing earthquakes, a'la Amazon Warrior unzipping the fault in new zealand 2016
 * Just Stop Oil protesters are paid shills to make actual environmentalists look bad and disruptive
 * 50% of all internet traffic is bots.  Dead internet theory is not a theory.
 * Project blue beam.
 * north korea sending troops through the siberian railway to join russian military forces
 * Tiffany Gomas plane lady pointing to someone on the plane who is a reptiloid / they live alien
-* nft lazy ape gallery uses new eye trick to make sure their nft tokens are viewable only once
 * paneras new 'death lemonade' hospitalizing several and killing one 
-* Chris-Chan Denies Allegations Of Incest With Mother
 * 'War Thunder' Forums Leak Classified Military Documents
 * Magnus Carlsen And Hans Niemann use vibrating Anal Beads to cheat at chess
 * the congolese eating albino people in a restaurant

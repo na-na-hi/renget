@@ -23,6 +23,7 @@
 >For food and other essentials for exploring, he uses his trusty treasure bag with some slight modifications, like instead of the Explorers Emblem at the front flap, it uses a certain Flower-like Emblem, and it's not even a clover that the rest of the guild uses.
 >There's a Golden Ring that's strapped behind the bag. From what is known, Lliam uses it to teleport across the field, but it appears that it uses so much energy that he only resorts to using it in emergencies.
 >Lliam has a special wand named Calida with which he could cast Fire-type moves. The wand is a tree branch and the flame burns eternally at the tip of the branch when it is used, and it doesn't spread anywhere else of that branch. There's a bow (Friend Bow) wrapped in the middle of it, with a teal bangle strapped at the center. But for whatever reason, he prefers to use traditional wands instead of this one.
+>Misc items - [An Adventurer's Journal](???), [The Clover Record](???), [The Forgotten and Secret Papers](???), [FF Reports](???)
 
 >Secrets:
 >At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just teleport inside with his Golden Ring if he feels like it. The left wing's secret room is his bedroom, which has no windows because his wardrobe would block them, so he got rid of it while the right wing's secret room is his personal laboratory, it has windows with blinders to prevent any Pokémon from eavesdropping.

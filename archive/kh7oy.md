@@ -9,9 +9,9 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 >Mario News and Releases<
 「!」 Super Mario Bros Wonder has officially released!
 「!」 WarioWare Move It has officially released!
+「!」 Mario Kart 8 Deluxe Booster Course Pass Waves have finally finished!
 
 Future Release Dates:
-「!」 MK8D Booster Course Wave 6 releases on November 9, 2023
 「!」 Super Mario RPG REMAKE releases on November 17th, 2023
 「!」 Mario vs. Donkey Kong REMAKE releases on February 16th, 2024
 「!」 Princess Peach: Showtime! releases on March 22, 2024
@@ -19,10 +19,8 @@ Future Release Dates:
 Current News Links:
 「!」Super Mario RPG Overview - 3rd Trailer
 https://www.youtube.com/watch?v=zju4gITxkm0
-「!」Wave 6 Patch Notes
+「!」MK8D Wave 6 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
-「!」Mario Kart 8 Deluxe Booster Course Pass Wave 6 Overview - All courses revealed
-https://www.youtube.com/watch?v=0-kASUEEXn8
 「!」Paper Mario: The Thousand-Year Door Revealed
 https://www.youtube.com/watch?v=8Ume5pSIcKE
 「!」Luigi’s Mansion 2 HD 2nd Trailer

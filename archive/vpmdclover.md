@@ -52,6 +52,7 @@ Bullet | M | Noivern | Indeedee (Mimi, F, Careful, Native) | Rescue Team/Clover 
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
+Orchid | M | Lurantis | N/A | ??? | [Adamant](https://rentry.org/vpmdcloverpb#orchid)
 Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
 Acrab | M | Krabby | N/A | Clover Guild Member | [Hasty](https://rentry.org/vpmdcloverpb#acrab)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)
@@ -122,7 +123,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 26 | [The Guild's Garden (ft. Chespin)](https://rentry.org/me5gi) | | [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h) | | |
 27 | [Debby and Linoone story: The Race](https://rentry.org/vd3nc) | | [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn) | | |
 28 | [Ross Goes Shopping](https://rentry.org/ytxap) | | [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t) | | |
-29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | | | |
+29 | [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot) | | [Adrian Origin](https://pastebin.com/tLSf0AN5) | | |
 30 | [The Outlaw (ft. Chespin)](https://rentry.org/q7she) | | | | |
 31 | [Branching Out](https://rentry.org/branching) | | | | |
 32 | [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7) | | | | |
@@ -235,7 +236,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * Acrab the Krabby
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
 * Adrian the Umbreon
-	* [Adrian Origin](https://pastebin.com/tLSf0AN5) *Not on Table*
+	* [Adrian Origin](https://pastebin.com/tLSf0AN5)
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -645,4 +646,4 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, subject to change), Zangoose, and Dragonair
+//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, Zangoose, and Dragonair
