@@ -55,6 +55,7 @@
 * [Limbus Company Main Story Viewer](https://retcons.github.io/limbus-storylogs/)
 * [Identity Story Viewer](https://retcons.github.io/limbus-identitylogs/)
 * [Observation Log Library](https://retcons.github.io/limbus-logs/)
+* [Limbus Company Unused Cutscene](https://www.youtube.com/watch?v=tRhdxoAA0rM)
 * [Library of Ruina Story Viewer](https://tiphereth.zasz.su/episodes/)
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
@@ -162,4 +163,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/25-26/23: Added LimCum update countdown link. Added Ara channel link.
 10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
 10/31/23: Made separate section for Q&As and interviews, added more links.
-11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
+11/10/23: Added Limbus Company Unused Cutscene link. ![lol&](https://files.catbox.moe/7dmu76.png)

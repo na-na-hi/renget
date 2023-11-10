@@ -38,6 +38,9 @@ https://rentry.org/better-llama-roleplay
 https://rentry.org/stheno-guide
 - from /lmg/, model-specific guide for Stheno-L2-13B with SimpleProxy after making it work using aforementioned guides
 
+https://rentry.org/easylocalnvidia
+- guide on how to set up a local model for yourself with KoboldCpp - `free` on your own machine
+
 ***
 #####Ayumi's LLM Role Play & ERP Ranking
 https://rentry.org/ayumi_erp_rating (http://ayumi.m8geil.de/ayumi_bench_v3_results.html)

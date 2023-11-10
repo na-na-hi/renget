@@ -365,6 +365,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk Interlude 2 (ft. Makky)](https://rentry.org/GreatBulkInter2) 
 	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 	* [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
+	* [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6) *Not on Table*
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -635,6 +636,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
 * {||} [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
 * {||} [Adrian Origin](https://pastebin.com/tLSf0AN5)
+* {||} [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

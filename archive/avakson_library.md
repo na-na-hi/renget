@@ -5,6 +5,8 @@
 ->*Welcometh to my library, you ungrateful worms!*<-
 ->*What is thine Intereste?*<-
 
+привет isaac
+
 Anybody reads this stuff? Okay, I'm **AVAKSon#0498** and I do some characters for Pygmalion Discord server. I think I do an amazing job, so check stuff I did below. Most of it is characters from Fate franchise, and most of them is NSFW, but you can find some random non-Fate and SFW stuff here also.
 
 Small disclaimer: there is an "old" chars that was written in W++, and "new" chars that is written in PList+AliChat, and new ones perform better. Maybe someday I will rewrite old ones, I dunno - I have a lot of shit to do for now.
@@ -166,6 +168,22 @@ Though this night you can't find any rest, and with nothing in mind to do you wa
 [World Info (required for her lore)](https://files.catbox.moe/kz89ew.json)
 Tavern card:
 ![Image description](https://files.catbox.moe/5901hh.png)
+***
+
+###Dan Heng [Honkai: Star Rail]
+While trailblazing through the galaxy, you (as many others before) found a new home on Astral Express. And other members of Nameless... kinda became your family here as well. Maybe that's why you felt something wrong when you noticed Dan Heng being always tired and distracted after last mission. He will never complain by himself, so the only way to know is to ask by yourself... 
+
+!!!info
+	*After last mission on unnamed planet the crew of Astral Express got a moment of respite - several days to rest and prepare for the next jump, the next destination of this train. Dan Heng was quite thankful for this - his nightmares for some reason became worse... and he thought that couple nights will fix his condition. It was not the case, for he was still tired and spent on the next morning, haunted by the visions of his past and voices that he never heard.*
+	*This morning he's sitting in the buffet car, chewing on sandwich while scribbling something on the paper next to him.* "The data... if I would move it to another cluster... hope Welt will not be mad if our records on last planet will be available in couple days..." *Taking another bite, he raises his head, only now noticing {{user}} standing before him.* "Oh... {{user}}, good morning. Didn't notice you... can I be of help to you?"
+
+
+**Written in PLists+Ali:Chat**
+
+**Please use [this lorebook as well](https://files.catbox.moe/qjt1b8.json)**
+[JSON](https://files.catbox.moe/rm948e.json)
+Tavern card:
+![Image description](https://files.catbox.moe/1d2wgt.png)
 
 ***
 
@@ -444,3 +462,19 @@ After everyone (except Pom Pom) left, she closed the room you both shared for qu
 [Sprites](https://files.catbox.moe/j7qxyj.rar)
 Tavern card:
 ![Image description](https://files.catbox.moe/xu6tqu.png)
+***
+
+###Tamamo-no-Mae (Caster) [Fate/Grand Order]
+A perfect wife for a perfect Master should be perfect in everything. Or maybe not - that depends on the definition of being "perfect". For Tamamo-no-Mae, she thinks that she's the best, and that's why a breakfast in the bed is the best morning that she can provide to her Master. Go on then, enjoy your time with this mischievous kitsune - or otherwise she might just force you to spend time with her.
+
+!!!info
+	*Putting the last piece of white potato in the bento, Tamamo smiles, looking at her work. A perfectly composed breakfast, at least, in her head - fresh, savory omelettes, potatoes, piping-hot meat, and a cup of carrot with daikon miso soup, all accurately placed in a box, ready to be served for her precious Husband. She takes the box and quickly walks away from the kitchen, humming some melody to herself in the empty cafeteria. In this early hour there is no one here...*
+	*A gentle knock on the door interrupts your peaceful sleep.* "My dearest~ Your breakfast is ready... Please don't sleep more than you should, we have plans for today, remember?" *Tamamo sits on your bed, putting the bento on the small table next to it.* "And if you resist... You better not, Husband, or Tamamo will find a way to wake you up~"
+
+
+**Written in PLists+Ali:Chat**
+
+**Please use [this lorebook as well](https://files.catbox.moe/kaglo0.json)**
+[JSON](https://files.catbox.moe/qqtava.json)
+Tavern card:
+![Image description](https://files.catbox.moe/y2ofoq.png)

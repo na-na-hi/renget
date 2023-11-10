@@ -201,11 +201,29 @@ With both at base S, the dark resistance reduction on QTE is on karenina's favor
 
 In terms of damage output, Karenina will start dealing damage faster and has access to exclusive memories (no need to run a crutch memory like Hannah), as well as Time Lag Calculation on her Signature move.
 
+
 ###The Spending Horseshoe
 
 Something that's not mentioned often is that there's a funny bell curve where F2P and gigawhales have the ability to do full character rotations optimally, but middle tier spenders do not.
 
 The more resources you drop on a single character, the more time you'll spend fielding it, and factors like buffs/shred from memory setups and other character breakpoints start mattering way more when compared to even expenditure since you'll only have two characters (or in some more extreme cases one) to deal the bulk of your damage.
+
+###The Rabbit Hole
+Okay, you got the character and their SS3 like [social network] told you to, so why does it feel like your score go up as much as you expected?
+- Did you get the signature? 
+- What about the damage reduction decrease on matrix resonance?
+- And the final atk on 3 ping one?
+- But do you have the other final atk one?
+- Where's your tank's signature?
+- And it's additional damage type shred resonance?
+- And the one that increases the shred duration?
+- Why is it missing [rank breakpoint] that improves it's shred? you NEED it bro
+- Your support?
+- But it has to be [rank breakpoint] or you're missing on buffing value
+- It's signature?
+- It's buffing resonances?
+- Your DPS cub? Why isn't it SS you're missing out on 5% extra dmg bonus
+Miss a few of these modifiers and the final difference in damage to ["F2P BTW" Youtuber/Bilibili creator] will be a bit funny. We're still talking about a SS3 dps here, mind you.
 
 
 ###6. Account power level and (You)
@@ -223,23 +241,24 @@ Just in case you need them again, here are the [Signature Weapon](https://docs.g
 
 ####As a Tl;dr
 
-Aaaall of that shit up there summed up in case you still don't have an opinion or are physically unable to think:
+Aaaall of that shit up there summed up in case you still don't have an opinion or are physically unable to either read or think:
 
 >Do I skip the new character for something else? 
 New character every single fucking time, don't miss out on design-creep.
 
 >I have leftover rolls how do I spend them?
 If you want power then breakpoints are: S>SS>Signature or Cub>The one you didn't get first > SS3 > *
-Sig and Cub order depends on who you're pulling shit for
-There's always gacha skins to save for
+Sig and Cub order depends on who you're pulling shit for so you have to READ
+There's always gacha skins to save for if you're into getting the 20th Liv skin.
 
 >What about weapon resos?
-Weapon Resonances are relatively less shit to get, so as f2p/low spender: Really orb hungry shit > Tanks (damage formula favors res shred over self damage mods) > Amplifiers
+Weapon Resonances are relatively less shit to get, so as f2p/low spender: Really orb hungry shit (Deadline Timing) > Tanks (damage formula favors res shred over self damage mods) > Amplifiers > Additional DPS resos
+At least you can switch them around too.
 
->But I really want [THING]
+>But I really want to do [THING]
 Go fucking read the document, if you still want [THING] then remember that your account is yours to brick, just don't bitch about it if/when you do.
 
 >Do I pull on the fate bann-
 DON'T, fuck the fateschizo.
 
-#####As a final recommendation, if for any reason you want to spend money at some point, remember to spend only what you're comfortable with. Don't fall into FOMO, and stay clear of the "Signatures/SS3+/etc on everyone" slippery slope. This is a 5 minute and done game most of the time.
+#####As a final recommendation, if for any reason you want to spend money at some point, remember to spend only what you're comfortable with. Don't fall into FOMO, stay clear of the rabbit hole. This is a 5 minute and done game most of the time.

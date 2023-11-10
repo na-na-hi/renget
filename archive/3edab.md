@@ -40,7 +40,7 @@ Follow the installation in the docs.
 To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
 
 #Robust Archiver (ytarchive alternative)
-Last Updated: 10/22/23 (mm/dd/yy)
+Last Updated: 11/10/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Edge)
@@ -60,7 +60,7 @@ import re
 import sys
 import time
 from importlib import reload
-from multiprocessing import Process, Value
+from multiprocessing import Process, Manager
 from subprocess import call
 
 
@@ -124,7 +124,9 @@ class Stream:
         self.id = id
         self.folder = slugify.slugify(title, allow_unicode=True) + "-" + id
         self.outtmpl = self.folder + '/%(title)s [%(id)s].%(ext)s'
-        self.status = Value(ctypes.c_bool, True)
+        self.manager = Manager()
+        self.data = self.manager.dict()
+        self.data['status'] = "Initialized"
         pretty_print(
             '<' + time.strftime("%H:%M:%S", time.localtime()) + '> Found stream\nID: ' + id + '\nTitle: ' + title)
         ydl_opts = {
@@ -140,8 +142,8 @@ class Stream:
         }
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download(self.id)
-        self.video = Video(self.id, self.outtmpl, self.status)
-        self.chat = Chat(self.id, self.folder)
+        self.video = Video(self.id, self.outtmpl, self.data)
+        self.chat = Chat(self.id, self.folder, self.data)
         self.video.process = Process(target=self.video.start)
         self.chat.process = Process(target=self.chat.start)
         self.video.process.start()
@@ -152,17 +154,27 @@ class Stream:
         self.chat.process.join(5)
 
     def state(self):
-        return bool(self.status.value)
+        return self.data['status']
+
+    def restart(self):
+        pretty_print(
+            '<' + time.strftime("%H:%M:%S", time.localtime()) + '> ' + self.id + ' ended prematurely, starting again!')
+        self.video.process = self.video.restart()
+        if not self.data['chat']:
+            self.chat.process = Process(target=self.chat.start)
+
+    def kill(self):
+        self.video.process.terminate()
+        self.chat.process.terminate()
 
 
 class Video:
-    def __init__(self, id, outtmpl, status):
+    def __init__(self, id, outtmpl, data):
         self.process = None
         self.id = id
         self.outtmpl = outtmpl
-        self.status = status
-        self.frags = Value('i', 0)
-        self.started = Value(ctypes.c_bool, False)
+        self.data = data
+        self.data['frags'] = 0
 
     def start(self):
         ydl_opts = {
@@ -179,35 +191,51 @@ class Video:
             'noprogress': True,
             'progress_hooks': [lambda d: self.progress(d)],
             'file_access_retries': 1000,
-            'retries': 5,
+            'retries': 24,
+            'fragment_retries': 24,
+            'retry_sleep_functions': {k: lambda n: self.sleeptimer(n) for k in ['http', 'fragment', 'file_access']},
         }
+        ydl_opts['retry_sleep_functions']['file_access'] = lambda n: 1
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download(self.id)
         pretty_print('<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Archive complete.")
-        self.status.value = False
+        self.data['status'] = "Finished"
 
     def progress(self, d):
         if d['status'] == 'downloading':
-            self.frags.value = d['fragment_index']
-            if self.frags.value > 0 and not self.started.value:
+            self.data['frags'] = d['fragment_index']
+            if self.data['frags'] > 0 and self.data['status'] == "Initialized":
                 pretty_print(
                     '<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Stream has started.")
-                self.started.value = True
+                self.data['status'] = "Started"
         if d['status'] == 'finished':
             pretty_print(
                 '\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Stream ended with " + str(
-                    self.frags.value) + " frags.")
+                    self.data['frags']) + " frags.")
+            self.data['status'] = "Processing"
+
+    def restart(self):
+        self.data['status'] = "Started"
+        self.process.terminate()
+        return Process(target=self.start)
+
+    @staticmethod
+    def sleeptimer(n):
+        return int(n) * 5
 
 
 class Chat:
-    def __init__(self, id, folder):
+    def __init__(self, id, folder, data):
         self.process = None
         self.id = id
         self.outtmpl = folder + "\\chat.log"
+        self.data = data
         self.URL = "https://www.youtube.com/watch?v=" + self.id
+        self.data['chat'] = False
 
     def start(self):
         dl = chat_downloader.ChatDownloader(cookies="cookies.txt")
+        self.data['chat'] = True
         while True:
             try:
                 chat = dl.get_chat(self.URL, output=self.outtmpl, overwrite=False, message_groups=['all'],
@@ -228,6 +256,10 @@ class Chat:
                 continue
             break
         pretty_print('<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Chat is closed.")
+        try:
+            self.data['chat'] = False
+        except:
+            pass
 
 
 class Athena:
@@ -258,6 +290,8 @@ class Athena:
                         if not stream:
                             continue
                         if stream['live_status'] in ['is_live', 'is_upcoming']:
+                            id = stream['id']
+                            title = stream['title']
                             match self.streamtype:
                                 case 'all':
                                     pass
@@ -270,15 +304,18 @@ class Athena:
                                 case 'unarchived':
                                     if not re.search(r'unarchived', stream['title'], re.I):
                                         continue
-                            if stream['id'] not in active:
-                                self.add(stream['id'], stream['title'])
+                            if id not in active:
+                                self.add(id, title)
+                            elif self.list[id].state() == 'Processing':
+                                self.list[id].restart()
+
         if 'playlist_items' not in self.ydl_opts.keys():
             self.ydl_opts['playlist_items'] = '1-5'
 
     def cleaner(self):
         kill_queue = []
         for id in self.ids():
-            if not self.list[id].state():
+            if self.list[id].state() == "Finished":
                 kill_queue += [id]
         for id in kill_queue:
             self.remove(id)
@@ -292,6 +329,10 @@ class Athena:
 
     def ids(self):
         return list(self.list.keys())
+
+    def kill(self):
+        for id in self.ids():
+            self.list[id].kill()
 
 
 class ConfigItem:
@@ -326,15 +367,15 @@ class ArchiveConfig:
             "\t0: Don't update any modules for me.",
             "\t1: Only update yt_dlp and chat_downloader modules for me.",
             "\t2: Update all modules for me. (yt_dlp, chat_downloader, python-slugify, and schedule)"]),
-        ConfigItem("SCANNER", "streamers", "NanashiMumei",
+        ConfigItem("SCANNER", "streamers", "NanashiMumei,NerissaRavencroft",
                    ["List the @Name for YouTube streamers you want to archive.",
                     "Exclude the @ prefix in your response.",
-                    "Examples: (Default is NanashiMumei)",
+                    "Examples: (Default is NanashiMumei,NerissaRavencroft)",
                     "\tNanashiMumei\n\tNanashiMumei,NerissaRavencroft\n\tKosekiBijou,ui_shig,penguinz0"],
                    lambda x: "".join(x.split())),
         ConfigItem("SCANNER", "streamtimer", "1", ["How many minutes would you like between each scan for new streams?",
-                                                 "Examples: (Default is 1)",
-                                                 "\t1\n\t60\n\t60*3"], lambda x: eval(str(x))),
+                                                   "Examples: (Default is 1)",
+                                                   "\t1\n\t60\n\t60*3"], lambda x: eval(str(x))),
         ConfigItem("SCANNER", "streamtype", "all", ["What types of streams would you like to capture for archival?",
                                                     "*WARNING* This will only capture based on the title at the moment the stream was found!",
                                                     "*WARNING* That means that if the title changes later, it isn't guaranteed to find it!",
@@ -532,13 +573,16 @@ def worker(cfgs):
     _schedule.every(cfgs.streamtimer).minutes.do(Owl.scanner).tag("scanner")
     _schedule.every(cfgs.streamtimer).minutes.do(Owl.cleaner).tag("cleaner")
     Owl.scanner()
-    while True:
-        if not len(Owl.ids()):
-            modTimer.run_pending()
-        _schedule.run_pending()
-        pretty_print('Active streams: ' + str(Owl.ids()) + ', Total time waited: ' + str(
-            datetime.timedelta(seconds=round(time.time() - start_time))), end='\r')
-        time.sleep(1)
+    try:
+        while True:
+            if not len(Owl.ids()):
+                modTimer.run_pending()
+            _schedule.run_pending()
+            pretty_print('Active streams: ' + str(Owl.ids()) + ', Total time waited: ' + str(
+                datetime.timedelta(seconds=round(time.time() - start_time))), end='\r')
+            time.sleep(1)
+    except KeyboardInterrupt:
+        Owl.kill()
 
 
 if __name__ == '__main__':  # First-Time Config, add more info and make it better

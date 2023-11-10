@@ -8,6 +8,10 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Evangeline](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub)* | Fauna | brap, smell |
+| *[Holoshorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Series)* | Various | wedgie, sweat, smell |
+| *[Shelter](https://docs.google.com/document/d/e/2PACX-1vQmx13QCZB8R9LeM5edXddbL_MjYi_ST1vGiwdWTWr0R47taCIhBhq8LxW7PpS450i6aB_Malv5bjcv/pub)* | Hajime, Fuwawa, Mococo | ringo, diaper |
+| *[Crappy Coexistence](https://archiveofourown.org/works/51310813/chapters/130122505)* | Haato, Haachama | choco, ringo, brap, smell, futa |
 | *[Crappy Crinkly Coexistence](https://archiveofourown.org/works/51310813)* | Haato, Haachama | choco, ringo, diaper, futa |
 | *[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub)* | Fauna, Bae | smell, brap |
 | *[Who is the Best at the Changing the Reaper?](https://archiveofourown.org/works/51092140)* | Calli, Kiara, Fauna, Shiori | choco, ringo, diaper, futa |

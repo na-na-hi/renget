@@ -1,41 +1,6 @@
-(About aisekai.ai)
+This space originally shilled Aisekai, then it had a bunch of proof of them obfuscating and playing word games while the mods and their stated policies flatly stated "No porn", but I realized that anyone retarded enough to need all the receipts up front and lazy enough to not google any of it (beyond seeing the shills running interference for the company) probably doesn't deserve to coom anyway, and it took up way too much space.
 
-"Aisekai will no longer support unsafe contents on our discovery page. We’ve now implemented a NSFW detection algorithm that will prevent creations of these types of characters. To keep the platform safe for everyone please check the community guidelines when creating your character."
-
-"this rule also applies to private bots as well. we have automod on the website now"
-
-https://www.reddit.com/r/aisekai/comments/17l4uj2/aisekai_will_no_longer_support_unsafe_contents_on/k7c0ha3/?context=3
-
-Oh and to confirm, you get a "this bot has been flagged" message for even the tamest bots... good to know.
-
---- edit ---
-
-So they kept obfuscating and sharing half truths, and then this came out:
-
-"[–]w96zi-
- 
-[+2]Mod Army 👾[M] -30 points 3 hours ago 
-• Can my bots still be used for explicit settings!?
-
-Yes, if your conversation contains an explicit scene, you can still enjoy the immersion of interaction with the AI characters
-
-• What does it mean that it's getting filtered? Is there a filter!?
-
-For the latest update, only the static content (this includes any Title, Description, and image of the AI character) is moderated. If found to violate the guideline, the character will be flagged by the system!
-
-• What about private bots?
-
-Private bots are private to you. However, the same rule applies to as the public bot. We do not allow pornographic content on our website, because we are NOT a porn site.
-
-• How do users mark new bots as NSFW?
-
-There will be no way of doing this, sorry. It's clear we do not want to encourage or promote the usage of NSFW settings due to legal concerns.
-
-I copied this from the discord.
-
--Psyduck"
-
-.**************************************************
+**************************************************
 
 Okay fine, agnai.chat. Go there and make an account. Or don't, but it's good to keep your settings and whatnot.
 

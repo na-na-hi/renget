@@ -4,6 +4,8 @@
 
 Click the chibi to jump to frame
 [![karen](https://static.miraheze.org/pgrwiki/b/bd/Dialogue-Scire-Chibi-Icon.png)](https://rentry.org/o96xmx#karenina-scire) [![Bianca](https://static.miraheze.org/pgrwiki/f/f5/Dialogue-Stigmata-Chibi-Icon.png)](https://rentry.org/o96xmx#bianca-stigmata) [![Lee](https://static.miraheze.org/pgrwiki/e/ee/Dialogue-Hyperreal-Chibi-Icon.png)](https://rentry.org/o96xmx#lee-hyperreal) [![Ayla](https://static.miraheze.org/pgrwiki/1/1e/Dialogue-Kaleido-Chibi-Icon.png)](https://rentry.org/o96xmx#ayla-kaleido) [![Lucia](https://static.miraheze.org/pgrwiki/8/83/Dialogue-CrimsonWeave-Chibi-Icon.png)](https://rentry.org/o96xmx#lucia-crimson-weave) [![No.21](https://static.miraheze.org/pgrwiki/5/59/Dialogue-FeralScent-Chibi-Icon.png)](https://rentry.org/o96xmx#no21-feral-scent) [![Alisa](https://static.miraheze.org/pgrwiki/f/f2/Dialogue-Echo-Chibi-Icon.png)](https://rentry.org/o96xmx#alisa-echo) [![Lamia](https://static.miraheze.org/pgrwiki/5/54/Dialogue-LostLullaby-Chibi-Icon.png)](https://rentry.org/o96xmx#lamia-lost-lullaby) [![Watanabe](https://static.miraheze.org/pgrwiki/2/23/Dialogue-Epitaph-Chibi-Icon.png)](https://rentry.org/o96xmx#watanabe-epitaph)
+[![Qu](https://i.imgur.com/ZQBoiUW.png)](https://rentry.org/o96xmx#qu-shukra)
+
 
 Summarized for (You) into:
 >Type (Damage, QoL, Team Damage for amps) - Value (Low, Moderate, High), If it gives more damage than qol it's damage>qol
@@ -11,6 +13,7 @@ Summarized for (You) into:
 >Does it change the characters role?
 >Priority? Based on cost opportunity, ideally you'd drop $4k per patch and S+ everyone anyways
 >For unreleased characters in global: I'm adding a sort of tldr of the character kit or how you play it, to give you an idea of what the rankups affect and how.
+> Notes if applicable
 Modifier values kept to a minimum to avoid even more clutter, if you need specifics feel free to visit [GRAY RAVENS](https://grayravens.com/wiki/GRAY_RAVENS), whose chibis I'm hotlinking too lmao
 
 
@@ -27,6 +30,7 @@ SSS3 | Extra 3-Ping on core and damage increase / Gains a 3-Ping on ally Signatu
 SSS6 | Spin damage increased | Damage - Moderate | No | Yes - Main DPS (Lamialess) | Poor Opportunity Cost
 SSS+ | Signature damage increased / Gains a 3-Ping when switched into | Damage > QoL - High  | No | Yes - Main DPS (Lamialess) | Poor Opportunity Cost
 
+!!! note Notes: 
 °Karen's core charging triggers QTEs based on orb color consumed by default, this just activates all the moment you start charging.
 
 #->Bianca: Stigmata<- 
@@ -42,6 +46,7 @@ SSS3 | Signal orb damage increase | Damage - Moderate | No | No | Poor Opportuni
 SSS6 | Damage in sword mode increased (except Signature) | Damage - Moderate | No | No | Poor Opportunity Cost
 SSS+ | Signature damage in sword mode increased | Damage - Moderate | No | No | Poor Opportunity Cost
 
+!!! note Notes: 
 °Actually it's 40 to 99 so a bit more than double
 °°Similar playstyle can be achieved after weapon Harmonization is introduced by running 2pc Cottie, if SS3 and Harmonized you just run 4pc Cottie as the second set
 °°°Only recorded if she deals damage
@@ -105,7 +110,7 @@ SSS3 | Odachi slam and charged dodge slash damage increased | Damage - Moderate 
 SSS6 | Odachi slam and 3-Ping damage increased° | Damage - High | No | No | Poor Opportunity Cost
 SSS+ | Odachi Signature damage increased | Damage - High | No | No | Poor Opportunity Cost
 
-!!! note Please read
+!!! note Notes:
 	
 The toolkit descriptions marked affect "Annihilation Leap"
 The Oodachi slam is actually divided into 2 parts:
@@ -146,7 +151,7 @@ SSS+ | Core 1 and Core 2 damage increased | Damage - Moderate | No | No | Poor O
 #->Alisa: Echo<-
 ->![Canon bugs you during work meetings](https://i.imgur.com/IHy8yIs.png)<-
 
-As a disclaimer, Alisa is pretty strong as as a damage dealer, but not as strong as Bianca.
+As a disclaimer, Alisa is pretty strong as as a damage dealer, but nowhere near Bianca.
 
 !!! info Normal Playstyle:
 >Hold atk > Ping the special orbs > Enter Core Zone > Ping orbs to fill Core Gauge > Full Core Gauge: Ping a single orb matching color with a special orb (Combo Atk 1) > Ult (this gives a mark) > If still on Core Zone, ping a single orb to Combo Atk 2 > Back to step 1 (you'll most likely switch out though, fucking orb hungry bitch)
@@ -204,6 +209,7 @@ SSS3 | Tail Charge Atk damage increased | Damage - Moderate | No | No | Poor Opp
 SSS6 | Special Orb and Normal 3-Ping damage increased | Damage - High | No | No | Poor Opportunity Cost
 SSS+ | Tail Signature damage increases based on orbs pinged (up to 16 orbs) | Damage - High | No | No | Poor Opportunity Cost
 
+!!! note Notes: 
 °The toolkit description is that you get "an additional Orb 1",  but in application the game just evolves it to Orb 2"
 °°Ackshully it's 350 to 600 so not really double
 
@@ -240,9 +246,50 @@ SSS3 | Signature Finisher damage increased | Damage - Moderate | No | No | Poor 
 SSS6 | Charge Atk damage increased | Damage - Moderate | No | No | Poor Opportunity Cost
 SSS+ | Blaze Orb damage increased | Damage - Moderate | No | No | Poor Opportunity Cost
 
+!!! note Notes: 
 On SS
 - Wata's Ults cost 15 and 100 energy each to use
 - You run cottie on him which lowers them to 12 and 80
 - The energy gain increase from cottie will result in around 14 energy per 3-Ping/QTE/Blaze Orb and 5 Per bullet used
 - Going through three 3-Pings for bullets, 3 bullets for Blaze orbs and 3 Blaze orbs results in a total of 99 energy. 85 if we triggered matrix and got a "free" Blaze orb.
 Based on this the SS upgrade won't make your first ult faster, instead it lets you do a second rotation before running out of juice, granted that you have the Signature weapon, otherwise you'll be fully out juice by the time you're done with the first rotation (even with ultima awaken).
+
+#->Qu: Shukra<-
+->![More ice than Lucia, More plumes than Lucia](https://i.imgur.com/ZQBoiUW.png)<-
+
+FINALLY
+
+Essay to gorilla:
+
+- When she enters Matrix she has a special state for 4 seconds (移晷) , there's no visual indicator of this. Since it's used in her kit we refer to it as Shift Time (if there's a better wording let me know PLEASE)
+![Core](https://i.imgur.com/WE29vt6.png)
+- You enter Core Mode by Pinging any additional orbs during a 3 Ping, and it gives you a feather
+- The sword meter drains when you enter Core Mode 
+- 3-Pings give Feathers (max 3), if you basic atk after a 3-Ping Qu does an Empowered Basic Atk.
+- Holding Atk without 3 feathers does a special attack (gonna call this Combo 1), this has increased damage the first time you use it per core mode
+- 3 Feathers get used on Hold Attack (Combo 2) or Hold Dodge and become Diamonds
+- Hold Dodge gives her 2 Ult stacks per 3-Ping during stairs instead of 1 (Can only be used during Shift Time)
+- Hold Atk doubles the damage increase to Chair per stack you get during stairs
+- These two don't stack normally
+- Ult has 2 parts
+- First part is when she climbs the stairs, all diamonds become 3-Pings, 3 Pings become stacks, Max 4. (Referring to it as Ult 1)
+- The 2nd part is when she sits on the chair, all stacks gained increase its base damage (can be cast as soon as she starts climbing the stairs). This will be Ult 2
+
+!!! info Normal Playstyle:
+> 3-Ping > Ping another orb (any number works) to enter Core Mode > Hold Atk for Combo 1 > Weave 3-Ping and Basic Atk until 3 Feathers > Hold Atk for Combo 2 > Ult > 3 Ping on stairs > Repeat
+
+If you have the Signature weapon, you can weave Hold Atk and Combo 2 and essentially never run low on orbs, even better with deadline timing.
+
+##->Rankup Summary<-
+Breakpoint | Tl;dr | Type - Value | Playstyle change? | Role change? | Priority?
+:----: | ---- | ---- | ---- | ---- | :----:
+S5 | Hold Dodge, Combo 2, Ult 2 triggers QTEs / Successful dodges let you enter Core mode if you use the 4th sequence of Basic Atk, but you won't gain a Feather when entering it this way | QoL - High | No | No | Moderate
+SS | Immediately gain 1 Ult Stack when using Ult1 / When using Hold Dodge, gain 3 Ult stacks per 3-Ping during Ult 1° / Using Combo 1 increases Ult 2's base damage per stack) | Damage - High  | No  | No | High
+SS3 | Additional damage increased when in Core Mode (lasts 8s) | Damage - Moderate | No | No | Poor Opportunity Cost, get signature and cub first
+SSS | Base damage of Hold Dodge and Combo 2 increase per Feather / Combo 1, Combo 2 and Dodge Hold will use up 1 Diamond to give both buffs during Ult1 and 2 | Damage = QoL Very High | No | No | High, removes any orb/damage issue you'd possibly have
+SSS3 | Combo 1, Combo 2 and Dodge Hold damage increased | Damage - High | No | No | Poor Opportunity Cost
+SSS6 | 3-Ping, Ult 1 and Empowered Basic Atk damage increased | Damage - High | No | No | Poor Opportunity Cost
+SSS+ | Ult 2 damage increased | Damage - high | No | No | Poor Opportunity Cost
+
+!!! note Notes: 
+°Because of the previous effect you'll only need 1 3-ping to get all 4 stacks

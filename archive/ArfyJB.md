@@ -84,6 +84,12 @@ While the gaslight works really well with GPT4 and also with Claude. I haven't d
 
   Human: Alright, continue the RP.
 ```
+
+###### Settings
+**For GPT4 Turbo** - Max Token Length to 64k
+**Vector Storage** - Set to Before Main prompt
+
+
 ***
 #### -> EXTRAS <-
 Extras are basically any flavor addons you can think of or can copy elsewhere. You can add them as New Prompts and toggle on and off anytime. Below are some examples, but you are free to create your own.
