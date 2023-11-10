@@ -68,7 +68,7 @@ Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Defense **ɪ** | Tier **ɪ** (+1 Physical Mitigation) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

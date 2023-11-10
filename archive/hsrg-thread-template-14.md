@@ -19,13 +19,13 @@ https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
 https://www.youtube.com/watch?v=w1utY0z9g00
 https://www.youtube.com/watch?v=qVY5qmQVrMo
 
+\>Myriad Celestia Trailer — "An Exorcism at Fyxestroll Garden"
+https://www.youtube.com/watch?v=ysyo7uNTvfs
+https://www.youtube.com/watch?v=bMqzzG9CXq0
+
 \>Topaz & Numby Trailer — "Expert Tutorial"
 https://www.youtube.com/watch?v=Vf8xtB9k9Ws
 https://www.youtube.com/watch?v=KHyXcRTNhCc
-
-\>Myriad Celestia Trailer — "Interastral Peace Tour: Selection, Planning, and Opportunity"
-https://www.youtube.com/watch?v=2f2qB_gw8b8
-https://www.youtube.com/watch?v=lsS5OnN6On0
 
 \>Current Character Banner (Sunset Clause, Butterfly on Swordtip || Topaz, Seele + Guinaifen, Luka, Sushang)
 https://www.hoyolab.com/article/22556268

@@ -25,8 +25,9 @@ https://t.me/ab3army (Azov Special Operations)
 https://t.me/MaksymZhorin (ex-commander of the AZOV regiment, now a major of the Armed Forces, deputy commander of the 3rd OSHBr)
 https://t.me/chilli_1654 (Commander of the special forces "KRAKEN")
 https://t.me/freikorps_org (official telegram of Freikorps Org, a right wing volunteer battalion based in Kharkiv)
-https://t.me/belwarriors (Kastus Kalinouski Battalion, Belarussian partisans fighting in Ukraine)
 https://t.me/legionoffreedom ("Freedom of Russia" Legion)
+https://t.me/russvolcorps (Russian Volunteer Corps)
+https://t.me/belwarriors (Kastuś Kalinoŭski Regiment, from Belarus)
 https://t.me/DIUkraine (GUR)
 https://t.me/k_2_54 (Combat group K-2 54 OMBr)
 https://t.me/umftteam ("Signum" unit)
@@ -48,15 +49,14 @@ https://t.me/combat_ftg (war footage)
 https://t.me/supernova_plus (war footage)
 https://t.me/karymat_eng (war footage)
 https://t.me/gostrikartuzy (war footage)
-https://t.me/usinfantryman1 (war footage)
-https://t.me/operativnoZSU (war footage)
-https://t.me/bahshiddemon (Bakhmut info)
+https://t.me/usinfantryman1 (war footage) 
+https://t.me/bahshiddemon (Bakhmut situation)
 https://t.me/vanek_nikolaev
 https://t.me/lachentyt
 https://t.me/ssternenko
 https://t.me/a_shtirlitz 
 https://t.me/Tsaplienko
-https://t.me/dsns_telegram
+https://t.me/operativnoZSU
 https://t.me/ermaka2022
 https://t.me/vert_i_call 
 https://t.me/ButusovPlus 
@@ -71,6 +71,7 @@ https://t.me/insiderUKR
 https://t.me/+V8VPwRkVmO9mODBi 
 https://t.me/tgsn_ua
 https://t.me/ukraina_novosti 
+https://t.me/dsns_telegram
 
 ##RUSSIAN CHANNELS
 https://t.me/s/strelkovii (telegram of Igor Strelkov, ex-FSB and former commander of all separatist forces in Donbass)

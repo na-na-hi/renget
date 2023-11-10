@@ -27,6 +27,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Dev Build](https://www.mediafire.com/file/v8kgp4u4u6n867f/maid.rar/file)
 ## FNF: ZERO
 [FNF: ZERO Download](https://www.mediafire.com/file/4co7pfki8v2kgqw/FNF_ZERO.zip/file)
+## Friday Night Madness (DJ)
+[Old Build](https://files.catbox.moe/cs3tx1.7z)
 ## Funkin at Freddy's
 [Old V2 Build](https://www.mediafire.com/file/0lz0awng2vvietg/faf.rar/file)
 ## Goblin Files

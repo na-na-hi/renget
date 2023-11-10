@@ -67,12 +67,12 @@ Idol EN:
 Coni "Uooooh" Confetti: Clown who likes Darkstalkers and Moron Kombat and thinks Aki is top tier waifu.
 https://www.youtube.com/@confetticoni
 
-Bond EN:
+Bond EN (Graduated):
 
 Baby "meems" Mimi: Cute girl from BondEn who loves arcades.
 https://www.youtube.com/@BabyMimi
 
-Shirayuri Productions:
+Shirayuri Productions (defunct):
 
 Nyaru " Fighting idol" chuu: Actual ex idol whose Hispanic blood allows her to kick your ass in Idol Showdown. 
 https://www.youtube.com/@nyaruchuuu/about
@@ -121,5 +121,5 @@ Yuri "Unbreakable diamond" Yuni: Cutest JP, cutest diamond. Mains Luke.
 https://www.twitch.tv/yuniruyuni
 Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa(?)
 https://www.twitch.tv/amakipururu
-Yukonishita "Gas Chamber" Peo: Jp tsunx friends who loves amelia watson and plays IS
+Yukonishita "Gas Chamber" Peo: Jp /tsunx/ friend who loves amelia watson and plays IS
 https://www.youtube.com/watch?v=CaaCYs2gXmg
