@@ -322,6 +322,11 @@ Kai | Info
 ![](https://files.catbox.moe/k7dmjk.png)   | Kai is a recently-released test subject that is using his newfound freedom to explore the world's waters and make new friends. His towering height hasn't deterred him in the slightest, if anything he enjoys using it to give his new buddies the biggest cuddles a human has likely ever received. Comes with three greetings: meeting him while sailing, being saved from drowning, and meeting him in a grotto.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/kai-564a09c2),  [Catbox](https://files.catbox.moe/ewrfsx.png), [Alternate Gen #1](https://files.catbox.moe/fv5wle.jpg), [Alternate Gen #2](https://files.catbox.moe/las1e9.jpg), [Alternate Gen #3](https://files.catbox.moe/f6mjnj.jpg)
 
+Bearnard | Info
+:----:  | :----: 
+![](https://files.catbox.moe/lg56kj.png)   | Sometimes you just want to vent your woes out to someone who won't judge. Sometimes you just need a drink. Bearnard is here to be both, a calm and brotherly bartender who's used to his patrons getting wasted and sobbing their hearts out to him. But he's okay with that, as long as it helps make their night a little bit better. Inspired by [On the Rocks](https://www.youtube.com/watch?v=hk1L0ZV2bVc)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/bearnard-3f5c8972),  [Catbox](https://files.catbox.moe/0jhjyv.png), [Alternate Gen](https://files.catbox.moe/l8d3i9.jpg)
+
 
 
 Shameful Codespawn | Info

@@ -151,6 +151,108 @@ https://rentry.org/rvcrb
 https://rentry.org/iot7xi
 
 ```
+
+#Dark City
+***
+Page 1
+***
+```
+Dark City Rentry: https://rentry.org/6s6ga
+editcode: dcedit
+
+>Vampires
+Quentin King
+>>90813275
+Alicia de Ville
+>>90795982 
+
+>Werewolves
+Caroline Hayward
+>>90795982
+Olaf Godwinson
+>>90798918
+Scott Caledonia
+>>90810327
+
+>Fae
+Emilia Shadowsong
+>>90807058
+
+>C’Thulid
+Greed
+>>90804698
+Child of the Void
+>>90862836
+
+>Fallen
+Zander Merrick
+>>90793746
+Joshua Morningstar
+>>90803360
+Conquest
+>>90804242
+War
+>>90805330
+
+>Demon
+Cherie Fonseca
+>>90795982
+
+>Zombie
+Natalie Windsor
+>>90795982
+Sweeney
+>>90803521
+
+>Dragon
+Senna Netherclaw
+>>90802630
+
+>Experiment
+“Tom”
+>>90814045
+Evan Harker
+>>90819287
+Death
+>>90819847
+Mister Smith
+>>90821429
+Famine
+>>90847598
+
+>Humans
+Crow
+>>90815217
+Owen
+>>90820406
+Number 7
+>>90820998
+Pestilence
+>>90847663
+Ted Zion
+>>90861070
+```
+***
+Page 2
+***
+```
+>Writefags
+Tom's writefag: https://rentry.org/ah4ve
+Zander Merrick Goes Crazy (Zander): https://rentry.org/7iz48b
+Roastie squad writefag: https://rentry.org/cmqdq
+Cloud 9 (Famine, Death): https://rentry.org/3rqdx
+Evan Harker's Awakening: https://rentry.org/v7w22
+Ennui: https://pastebin.com/Ypj15YhN (embed)
+Where Wolf? (part 1): https://rentry.org/z3fag#L-1-1
+>War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
+>The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
+
+Relationship Charts:
+Conquest: https://rentry.org/g6frmh
+
+>Tier List
+Tier Maker: https://tiermaker.com/create/dark-city-mp-2-906356
+```
 #MHA
 
 ***

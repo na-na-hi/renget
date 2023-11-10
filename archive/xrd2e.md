@@ -75,3 +75,6 @@ Buttons to the left of the UI:
 -Sugar icon - Shows their sugar level
 
 Saddle use - Right click on a maid while holding a saddle and they'll sit on your shoulders. Right click again to get them off.
+
+**How to turn radio volume down**
+The radios via the voice chat mod are really loud by default, to turn the volume of them down, go to the voice chat settings (radial menu in vr mode, or the V button in desktop mode) and go to adjust volumes, and there should be a volume control slider for radios, in the list with the individual player voice volume sliders.

@@ -4,12 +4,6 @@
 Union name / Anon Name | Crime | Used to be called | ID | Region
 :----: | ------ | ------ | ------ | ------ 
 MELLOW | Leader sold the union to the Chinese | IRONTITS | 2921 | NA
+UOOOH | TERTUL | Leader pretended to be friends with the old rentryfag just to get his password when he quit. Current rentryfag/discordfag. Takes in non-nikg people. | 
 
-#UR Missed hits
-Name | Times he missed hits | Used to be called | ID | Region
-:----: | ------ | ------ | ------ | ------
-
-
-#Waited til the last minute and made everyone else panic
-Name |  Used to be called | ID | Region
-:----: | ------ | ------ | ------
+-> ![heytertyouforgotthis](https://i.imgur.com/bSScDZf.png) <-

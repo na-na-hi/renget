@@ -3,6 +3,7 @@
 
 ->**Written by [Alpin](https://github.com/AlpinDale)**<-
 ->**Inspired by [/hdg/'s LoRA train rentry](https://rentry.org/lora_train)**<-
+!!!warning This guide will be updated gradually, as we'll move the trainer from the Pygmalion trainer to [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl). 
 
 The Table of Content on rentry is terrible, so I'll be linking to the different main sections here:
 

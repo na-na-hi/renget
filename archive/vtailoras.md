@@ -856,7 +856,7 @@
 -> [Catbox](https://files.catbox.moe/iyzn6h.safetensors) <-
 
 #### -> (InvadersGen 2) Dizzy Dokuro <-
-!!! note Recommended weight: V1: 0.7 - V2: 0.75
+!!! note Recommended weight: V1: 0.7 | V2: 0.75
 !!! info Example Prompt 
 	V1: (dizzy, red eyes, long sleeves, bare shoulders, detached sleeves, blue hair, blunt bangs, drill hair, twintails, bug bumps, pointy ears, frilled headwear, choker, black gloves, puffy sleeves, black dress, black pantyhose, shibari, frilled skirt)
 	V2: (dizzy dokuro, long hair, blue hair, twintails, drill hair, (head bumps:1.3), red eyes, pointy ears, black headdress, bare shoulders, choker, black dress, detached sleeves, long sleeves, puffy sleeves, shibari over clothes, frilled skirt, black pantyhose, black footwear)
@@ -867,7 +867,7 @@
 
 #### -> (InvadersGen 2) Ember Amane <-
 !!! info For V2! put animal ears into negatives, I don't fucking get it, WHY DOES SHE KEEP GETTING CAT EARS, IM NOT EVEN PROMPTING FOR IT
-!!! note Recommended weight: V1: 0.75 - V2: 0.75
+!!! note Recommended weight: V1: 0.75 | V2: 0.75
 !!! info Example Prompt
 	V1: (ember amane, purple eyes, white hair, purple streaked hair, long hair, long sleeves, navel, jewelry, id card, crop top, ahoge, earrings, choker, fingerless gloves, black gloves, black jacket, black torn shorts, mole under eye, mole on thigh)
 	V2: (ember amane, long hair, white hair, purple streaked hair, ahoge, hair ornament, purple eyes, mole under eye, earrings, black choker, id card, plaid crop top, black jacket, long sleeves, black fingerless gloves, midriff, black torn shorts, thigh strap, black thighhighs, mole on thigh, black footwear)
@@ -904,7 +904,7 @@
 -> [MEGA](https://mega.nz/folder/ITowiSZJ#qnum28NHpwfyCj8pu8Hq1w/file/Jbhx1Aza) <-
 
 #### -> (InvadersGen 2) Jelly Hoshiumi <-
-!!! note Recommended weight: V1: 0.7 - V2: 0.7
+!!! note Recommended weight: V1: 0.7 | V2: 0.7
 !!! info Example Prompt
 	V1: (jelly hoshiumi, blue eyes, bare shoulders, long hair, blue hair, (drill hair:1.2), sleeveless dress, white dress, detached sleeves, white gloves, white thighhighs, garter straps, star hair ornament, yellow hairband)
 	V2: (jelly hoshiumi, long hair, blue hair, drill hair, green hair, multicolored hair, yellow hairband, antennae, star hair ornament, blue eyes, bare shoulders, yellow bow, white dress, detached sleeves, puffy short sleeves, white gloves, garter straps, white thighhighs, blue footwear)
@@ -1100,7 +1100,7 @@
 
 #### -> (TsunQuest) Miori Celesta <-
 !!! info V1: just base outfit? - V2: 3 Outfits!!
-!!! note Recommended weight: V1: 0.7 - V2: 0.7
+!!! note Recommended weight: V1: 0.7 | V2: 0.7
 !!! info Example Prompt
 	V1: (miori celesta, long hair, brown hair, (treble clef hair ornament, treble clef:1.3), ahoge, hair ribbon, green eyes, original_outfit, red capelet, red bow, green star \(symbol\), white shirt, cleavage cutout, puffy sleeves, long sleeves, brown high-waist skirt, brown thighhighs, white footwear)
 	V2: (miori, short hair, brown hair, ahoge, green eyes, hair ornament, white sweater, off-shoulder sweater, (musical note hair ornament, musical note:1.3), brown skirt, green loose belt, black thighhighs, black footwear)

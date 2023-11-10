@@ -234,6 +234,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###List of Stories Sorted by Author
 * Acrab the Krabby
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
+* Adrian the Umbreon
+	* [Adrian Origin](https://pastebin.com/tLSf0AN5) *Not on Table*
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -631,6 +633,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * {||} [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
 * {||} [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
+* {||} [Adrian Origin](https://pastebin.com/tLSf0AN5)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

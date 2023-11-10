@@ -489,6 +489,7 @@ Biography generated!
 >He's very easily pissed off by people. He doesn't usually yell, but he'll pop snide remarks and give glares to show his distaste for something or someone.
 >While he might come off stand offish, he really does care about people deep down.
 >He just pushes most people away out of fear. His nature really shows when people get close to him. He's bad at expressing any feelings besides his anger
+>He's got a satchel and a defense scarf right now. Mostly because I like the design personally.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy

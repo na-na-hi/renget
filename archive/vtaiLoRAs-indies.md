@@ -555,7 +555,7 @@
 -> [Catbox](https://files.catbox.moe/6xuqwt.safetensors) <-
 
 #### -> Lucy Pyre <-
-!!! note Recommended weight: V1: 0.7 - V2: 0.65
+!!! note Recommended weight: V1: 0.7 | V2: 0.65
 !!! info Example Prompt
 	V1: (lucypyre, grey hair, long hair, twintails, demon horns, red eyes, demon girl, demon tail, black crop top, midriff, red skirt, belt, blue jacket, long sleeves, necklace, black pantyhose, white boots)
 	V2: (lucy pyre demon spawn, long hair, grey hair, two side up, hair ornament, x hair ornament, white headdress, red eyes, demon girl, demon horns, demon tail, black choker, black sleeveless dress, cleavage cutout, white apron, frills, wrist cuffs, thigh strap, white thighhighs, black footwear)

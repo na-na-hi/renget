@@ -60,7 +60,7 @@ AI must start the response with this inside a codeblock:
 ```
 <thinking>
 - AI and {{user}} are taking turns in writing a realistic gritty story with slow build ups. I am {{char}} and this is my turn
-- X happened, {{char}} is Y, so she will Z.
+- X happened, so I will Y.
 (repeat 4 times)
 </thinking>
 ```

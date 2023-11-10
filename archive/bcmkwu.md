@@ -1,4 +1,14 @@
 ▶NEW CLIPS
+>GRAD MLRS blankets hohol positions north of Artyomovsk
+https://files.catbox.moe/niml1d.mp4
+>RU tankers ruin hohol plans to sneak up to russian positions at night
+https://files.catbox.moe/d359pv.mp4
+>Sparta droning hohols at night
+https://files.catbox.moe/uw3j89.mp4
+>hohols in Krynki, Kherson get grenaded by drones
+https://files.catbox.moe/2txlih.mp4
+>Draft recruiter getting beaten up
+https://files.catbox.moe/mun2jy.MP4
 >hohol vehicles getting droned
 https://files.catbox.moe/t26m13.mp4
 >Sparta group destroying armor and hohols
