@@ -497,14 +497,12 @@ https://files.catbox.moe/zqqwjq.mp4
 https://files.catbox.moe/v9hrbe.mp4
 https://files.catbox.moe/6u0il7.mp4
 >HamasCHADS engage vehicles and infantry: (ADDED NOV 5th)
-files.catbox.moe/dzvmip.mp4
 files.catbox.moe/4tdn66.mp4
 >Rocket launching kino (ADDED NOV 5th)
 files.catbox.moe/5ioe91.mp4
 >Al-Qassam shelling training kino (ADDED NOV 5th)
 files.catbox.moe/fvbwyb.mp4
 >New Hamas Kino (ADDED NOV 7th)
-http://files.catbox.moe/v9hrbe.mp4
 http://files.catbox.moe/06g4td.mp4
 http://files.catbox.moe/nm98qm.mp4
 >Islamic Resistance in Iraq fire at ZOG bases: (ADDED NOV 7th)
@@ -515,3 +513,29 @@ http://files.catbox.moe/nm98qm.mp4
 files.catbox.moe/44dco1.mp4
 >Another journalist loses family: (ADDED NOV 7th)
 files.catbox.moe/3vn86v.mp4
+>HEZB KINO (ADDED NOV 11)
+files.catbox.moe/4uvktx.mp4
+files.catbox.moe/t6blex.mp4
+>ROCKETS (ADDED NOV 11)
+files.catbox.moe/7q9ucg.mp4
+>US BLADED HELLFIRE MISSILE USED ON CIVS AT HOSPITAL (ADDED NOV 11)
+files.catbox.moe/41hvul.mp4
+>MAIMED AND DEAD CIVILIANS (ADDED NOV 11)
+files.catbox.moe/qpqlwx.mp4
+>KIKES FIRE GUNS ON CIVILIANS (ADDED NOV 11)
+files.catbox.moe/js1uqv.mp4
+>KIKES BOMBING HOSPITALS (ADDED NOV 11)
+files.catbox.moe/qrpt9g.webm
+files.catbox.moe/l1l9er.mp4
+>HEZB ROCKET SMOKES A KIKE (ADDED NOV 11)
+files.catbox.moe/j016t7.mp4
+>OCT 7 KIKES FRIENDLY FIRE (ADDED NOV 11)
+files.catbox.moe/skwk6k.mp4
+>KIKES BOMB COW SHIT IN LEBANON (ADDED NOV 11)
+files.catbox.moe/w6lwgg.mp4
+>COMBAT (ADDED NOV 11)
+files.catbox.moe/bq9tdy.mp4
+files.catbox.moe/c51zgr.mp4
+files.catbox.moe/ih8rrw.mp4
+>RPG SMOKES KIKE IN WINDOW  (ADDED NOV 11)
+files.catbox.moe/qm130g.mp4

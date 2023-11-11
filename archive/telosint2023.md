@@ -31,6 +31,7 @@ https://t.me/belwarriors (Kastuś Kalinoŭski Regiment, from Belarus)
 https://t.me/DIUkraine (GUR)
 https://t.me/k_2_54 (Combat group K-2 54 OMBr)
 https://t.me/umftteam ("Signum" unit)
+https://t.me/stanislav_osman (call sign "Osmán", 24 OSHB "Aidar")
 https://t.me/AFUStratCom
 https://t.me/BUAR110ombr 
 https://t.me/ogshb8

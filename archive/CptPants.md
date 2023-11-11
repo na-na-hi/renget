@@ -1,6 +1,6 @@
 #CptPants's Bots
--> Last updated: September 15 <-
-Bots by the fella who goes by CptPants. Only active when GPT4 is available, which is rarely. I mostly make cards for videogame characters I like.
+-> Last updated: November 11 <-
+Bots by the fella who goes by CptPants. Currently lurking, with nothing to share.
 
 I recommend always going for Chub links, they have the most updated version of each bot.
 The images on this Rentry are the cards themselves too, if you'd rather download them that way.

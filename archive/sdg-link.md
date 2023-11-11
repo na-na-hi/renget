@@ -159,7 +159,6 @@ https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
 	---------------------------
 ##Guides
 ###Wiki
-https://www.sdcompendium.com
 https://codeberg.org/tekakutli/neuralnomicon
 ###Animation
 https://rentry.org/AnimAnon
@@ -318,5 +317,5 @@ https://civitai.com/user/Pleased_Chomusuke
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 8th - https://pastebin.com/DFkwBaG1
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 11th - https://pastebin.com/FzBtt3vm
 *(PWAnon, I really dig the chibi animations!)*

@@ -127,6 +127,9 @@ https://rentry.org/DaiyuChart
 https://rentry.org/kgtam
 >Zheng Hao
 https://rentry.org/rvcrb
+>Kay Lee
+https://rentry.org/iot7xi
+
 
 ### Scrolls
 
@@ -160,7 +163,7 @@ https://desuarchive.org/tg/thread/90806343/#90815114
 
 ### Writefags
 
->First Fight
+>First Fight (Gyldenwulf)
 https://rentry.org/FirstFight
 >A Blade With No Sheath (Jian)
 https://rentry.org/xgtgdc
@@ -170,6 +173,10 @@ https://rentry.org/dpfk5
 https://pastebin.com/5ZmCW69k
 >A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
 https://rentry.org/o28z44
+>Musings (Xiu Yi)
+https://rentry.org/o8x42
+>Toil (Heng Zhiqiang)
+https://rentry.org/TOILING
 
 ### Tierlists
 >Template

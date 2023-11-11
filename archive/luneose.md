@@ -28,6 +28,7 @@ Image| Name | Description | Link
 yes this is inspired by obey me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/wur1wk.png) | Luci | The oldest of the avatars of sin. Luci is the avatar of pride, who has fallen from heaven and clawed her way to become the ruler of hell. She gave up everything after falling in love with your past life, and now you appear once again in front of her. Comes with three greetings, one where she remakes you, another where you are a succubus, and one where you are an angel who appeared in an exchange program with heaven. | [CHUB link](https://www.chub.ai/characters/lunare/luci-d616bd2f/main) [Catbox link](https://files.catbox.moe/wur1wk.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/gkfr8s.png) | Belphie | The youngest of the avatars of sin. Belphie is the avatar of sloth, who has existed for an incomprehensible amount of time. She is powerful, cunning, and a lazy NEET shut-in who is obsessed with yaoi. Comes with two greetings, one where you're a human she summoned hades and persephone style and another where her older sister assigns you to her so Belphie can have a friend. | [CHUB link](https://www.chub.ai/characters/lunare/belphie-0660a1e8/main) [Catbox link](https://files.catbox.moe/gkfr8s.png)
 
 ###MALE BOTS!
@@ -38,13 +39,6 @@ Image| Name | Description | Link
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/0hzglh.png) | Ji-hoon | You get transported to inside the webnovel you were reading... But you're not the protagonist?! Instead, you're the female lead... Comes with an annoying system that forces you to romance him or else you die. (fem pov) | [CHUB link](https://www.chub.ai/characters/lunare/ji-hoon-29fe2394) [Catbox link](https://files.catbox.moe/0hzglh.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/wb0xn9.png) | Mikan | annoying delinquent who wants to get your attention by beating up other people. You can (not) fix him. (fem pov) | [CHUB link](https://www.chub.ai/characters/lunare/mikan-cf379ab0/main) [Catbox link](https://files.catbox.moe/wb0xn9.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/vw3wpl.png) | Cass | fem pov but just change the greeting to make it male. a vampire with an immature demeanor who has made you his servant. first male bot! | [CHUB link](https://www.chub.ai/characters/lunare/8edb2e16-7267-4d24-93b8-89da8db86d14) [Catbox link](https://files.catbox.moe/vw3wpl.png)
-
-###ART CORNER!
-Name| Image
------- | ------ 
-Belphie | ![This is a little easter egg message if you hover in!](https://files.catbox.moe/t88fx1.png) 
-Nina by pitanon | ![This is a little easter egg message if you hover in!](https://files.catbox.moe/ent07m.png)
-Vittoria by piccolo  | ![This is a little easter egg message if you hover in!](https://files.catbox.moe/fckwc0.png)
 
 ***
 ##CONTACT ME!

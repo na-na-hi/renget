@@ -96,14 +96,18 @@ Now that you're in the main menu screen, perform the following loop.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
 ## Monetization & Gacha
 **1. Identities**
-You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah.
+You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah. Each Identity has 3 regular skills, and a defensive skill. Your deck consists of 3 skill 1s, 2 skill 2s, and 1 skill 3. You have infinite defensive skills, and they can be activated anytime. Each Identity also has a regular passive and a support passive.
 
 You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and a new watchable story. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
 
 **2. E.G.O**
-You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that color, unless otherwise specified.
+You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that Sin affinity, unless otherwise specified. Using an E.G.O costs Sanity, and the Sanity is only spent once you use it to attack.
 
-Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. You can have multiple E.G.O passives active at a time. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too. Many Zayin E.G.Os are still highly relevant.
+Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. The Sin resistances you start out with are based on your lowest level E.G.O, aka your Zayin E.G.O. You can have multiple E.G.O passives active at a time. The E.G.O passive activities the turn after you use an Awakening E.G.O, or immediately upon using a Corroded E.G.O. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too.
+
+Any non-base E.G.O can do something called Corrosion. A Corroded E.G.O has a different attack and effects compared to the regular (Awakening) version. Depending on the situation, you may want to use either the Awakening or Corrosion version of the E.G.O. E.G.O Corrosion can be reached in multiple ways. If you have a non-base E.G.O equipped and reach -45 Sanity at any point in a battle, you lose control of the Sinner, and they will use the Corroded E.G.O and be forced to attack with it, potentially hitting allies. Corrosion can also be reached by using an Awakening E.G.O below 0 Sanity, which will give you a percent-based chance for your E.G.O to Corrode.
+
+The other way that you can use Corroded E.G.O is via Overclocking. To Overclock an E.G.O, open the ingame E.G.O menu and hold on the E.G.O you want to Overclock. Overclocking will allow you to use the Corroded version of the E.G.O and not hit allies. It will also let you control the targeting unless otherwise specified. Overclocking an E.G.O will cost 1.5x the amount of E.G.O resources.
 
 Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
 
@@ -271,7 +275,7 @@ This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved wh
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**
-Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons, your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an E.G.O at low Sanity will also have a chance to corrode, depending on how low your Sanity is.
+Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons, your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an Awakening E.G.O at low Sanity will also have a chance to Corrode, depending on how low your Sanity is.
 
 Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when the level of the defeated ally is higher than the unit's and decreases based on the level difference. E.G.O also cost Sanity.
 
@@ -362,4 +366,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know.
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
-11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
+11/11/23: Added Overcocking explanation. ![lol&](https://files.catbox.moe/7dmu76.png)
