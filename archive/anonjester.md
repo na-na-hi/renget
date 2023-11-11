@@ -1,6 +1,6 @@
-# ==https://youtu.be/NNv2RHR62Rs==
--> ![jester](https://files.catbox.moe/ct84nw.png) <-
--> *invite????????* <- 
--> **burner: digitalcircus@proton.me** <-
--> **discord: anonymousjester234** <-
+-> ==https://anonymousjester-theamazingdigitalproxy.hf.space/== <-
+-> ![jester](https://files.catbox.moe/4gsyvd.png) <-
+-> *get a token??? for joken!!!*<- 
+-> **burner: anonymousjester@skiff.com** <-
+-> **discord: anonymous_jester** <-
 -> **trip: !/FUNNY/ZU6** <-

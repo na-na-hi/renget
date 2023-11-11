@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-10-25)==<-
+->==(Updated 2023-11-11)==<-
 ***
 [TOC2]
 ***
@@ -40,6 +40,9 @@ https://rentry.org/stheno-guide
 
 https://rentry.org/easylocalnvidia
 - guide on how to set up a local model for yourself with KoboldCpp - `free` on your own machine
+
+https://rentry.org/ky239
+- borrowed from /CHAG/, guide on how to set up a local model for yourself with a lot of additional explanations - `free` on colab
 
 ***
 #####Ayumi's LLM Role Play & ERP Ranking

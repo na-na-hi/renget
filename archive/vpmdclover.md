@@ -326,6 +326,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Branching Out (ft. Elm)](https://rentry.org/branching)
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
+	* [A Nightmare on Elm Street](https://rentry.org/elmnightmare) *Not on Table*
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -444,6 +445,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
+	* [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7) *Not on Table*
 * Collab Writing
     * [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * Non-Applicable
@@ -637,6 +639,8 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
 * {||} [Adrian Origin](https://pastebin.com/tLSf0AN5)
 * {||} [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6)
+* {||} [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7)
+* {||} [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -165,6 +165,8 @@ Quentin King
 >>90813275
 Alicia de Ville
 >>90795982 
+>The Doctor
+>>90882939
 
 >Werewolves
 Caroline Hayward
@@ -244,15 +246,85 @@ Cloud 9 (Famine, Death): https://rentry.org/3rqdx
 Evan Harker's Awakening: https://rentry.org/v7w22
 Ennui: https://pastebin.com/Ypj15YhN (embed)
 Where Wolf? (part 1): https://rentry.org/z3fag#L-1-1
->War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
->The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
+War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
+The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
+The Doctor's Intrudoction?: https://rentry.org/yd2rtw
 
-Relationship Charts:
+>Relationship Charts:
 Conquest: https://rentry.org/g6frmh
+Olaf's relationship chart: https://rentry.org/irg4x
 
 >Tier List
 Tier Maker: https://tiermaker.com/create/dark-city-mp-2-906356
 ```
+
+#One Piece
+***
+Page 1
+***
+
+```
+>Marines
+>Pokoko-koko-pokokoko
+>>90882196
+>Grace Sol
+>>90882412
+>Mioka
+>>90888481
+>Tenot Metzenbam
+>>90878677
+>Saint Timothy Morgenstern
+>>90876987
+
+>Pirates
+>Abraham the Slayer
+>>90887262
+>Funeda
+>>90888116
+>Edward
+>>90879870
+>Amaranthy
+>>90879066
+>Taiyo Umi
+>>90872673
+>Lonicera
+>>90872507
+>Melia Busujima
+>>90872254
+
+>Seven Warlords
+>Atla
+>>90887983
+>Rosa
+>>90879507
+
+>Revolutionaries
+>Baster
+>>90879850
+>Doctor Marvelous
+>>90871851
+
+>Bounty Hunters
+
+>Linel Rytal
+>>90874461
+>Chester Chainsaw
+>>90873772
+```
+
+***
+Page 2
+***
+```
+Writefags:
+>Eddy writefag
+https://pastebin.com/3s0V8dLk
+>Eddy writefag 2
+https://pastebin.com/v6r8urD9
+>O Captain, Where Art Thou?
+https://rentry.org/qrxqzd
+```
+
 #MHA
 
 ***
@@ -274,7 +346,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is recharging!
+>Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
+https://rentry.org/NoctiBecomesA20thCenturyWarlord
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -763,6 +836,8 @@ https://rentry.org/rfyv4
 https://rentry.org/6t4giv
 >Faith Kang in: The VIP Box (ft. Anthony Chang)
 https://rentry.org/4ezcv
+>Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
+https://rentry.org/NoctiBecomesA20thCenturyWarlord
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

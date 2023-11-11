@@ -10,7 +10,7 @@
 (https://github.com/luminai-companion/agn-ai) https://github.com/agnaistic/agnai
 https://agnai.chat
 https://rentry.org/agnai_guides
-- australian frontend for many AI services; local install and online version; feature rich and user-friendly
+- australian frontend for many AI services; local install and online version; feature rich and user-friendly; offers free and paid access to own llm
 
 ![](https://files.catbox.moe/9gtjm8.png)
 [](https://files.catbox.moe/6iu0kt.png haha, not deleting the original screenshot!)
@@ -33,7 +33,7 @@ https://docs.sillytavern.app
 
 ##### Chub Venus
 https://venus.chub.ai
-- british frontend for OAI and Kobold; online version only; common bot catalogue with numberfagging; offers paid access to own llm
+- british frontend for some AI services; online version only; common bot catalogue with extreme numberfagging; offers paid access to own llm
 
 ![](https://files.catbox.moe/8y0ox3.png)
 
@@ -154,6 +154,8 @@ https://holara.ai
 https://tao.studio
 - filtered, free, zero control via ui but possibly some via devtools; listed for reference; tested [2023-07-27]
 
+DALL-E 3 wasn't listed because it's too cucked and because everyone already knows about it
+
 **Some guides on creating character expressions**
 https://rentry.org/EmotionalSprites
 https://rentry.org/mikugg-emotions-tutorial
@@ -178,8 +180,8 @@ https://rentry.org/lmg_template
 https://rentry.org/ayumi_erp_rating
 - a list of LLMs with ERP ranking, by /lmg/
 
-https://docs.alpindale.dev
-- official Pygmalion manual, very extensive and detailed
+https://wikia.schneedc.com
+- official Pygmalion wiki, extensive and detailed, but ugly
 
 ##### Some guides
 https://rentry.org/hostfreellamas
@@ -189,7 +191,7 @@ https://rentry.org/colabfreellamas
 
 ##### Some stuff that is still unsorted
 
-*Following links are legacy, if you want to learn more about current local models use aforementioned links:*
+*Following links are legacy and very outdated, if you want to learn more about current local models use aforementioned links:*
 
 **Pygmalion-6B**
 https://koboldai.org/cpp [CPU]

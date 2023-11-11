@@ -388,4 +388,6 @@ The Star rankings are where things become far more dangerous. It's advised that 
 
 The naming schemes of Bisharp and Pawniard that are a part of the tribes of the northern Sand Continent. The Crossed Blades, the tribe that Shamshir and the Shah are a part of, are named after swords. The Axeheads, the tribe that Shamshir's ex-lieutenant Talwar was a part of, get their names from axes. The Cloaked Daggers, the tribe Scalpel came from, derive their names from knives of all sorts, from those meant to be weapons, to those that are tools.
 
+Sneak Scarves can muffle a Pokemon's Aura signature, although it doesn't completely erase it. It makes it harder for Sensors to detect them, although the better they are at detecting environmental changes, the easier it is for them to detect Scarf users. For example, Asana's sensitivity in regards to the details of Aura wasn't the best circa Part 3, so the only reason she detected Thievul was because she was specifically looking for things that were out of the ordinary. In contrast, someone like KFC would've been able to detect Thievul easier, while Espathra would have been able to pick him out with ease due to her highly specialized skills as a Sensor.
+
 The tribe Cacturne hails from is foreign to the Sand Continent, only having immigrated there in the past few hundred years.

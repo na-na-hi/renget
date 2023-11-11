@@ -1,7 +1,6 @@
 #Margaret Megamelon's /hpgg/ writing.
 
 ##Main Story: 
-
 https://rentry.org/kuwby 	Day 0: The Sorting Ceremony (Includes: "dyke"anon, Haitham)
 https://rentry.org/exvx2 	 Day 1: Potions (Includes My)
 https://rentry.org/bamt3 	Day 2.1: The Swim (Includes: Amelia, Haitham)
@@ -17,8 +16,11 @@ https://rentry.org/nuasvt   Day 10: The Lecture (Includes: Fitness Club, Alice)
 https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
 https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
 https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
-##Extra Stories
 
+##MA Story:
+https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
+
+##Extra Stories
 https://rentry.org/bzfno   Extra: Amortentia 
 https://rentry.org/yyx5o   Extra: The Job (Boss Fight) (Includes: Alice, Penny, My)
 https://rentry.org/x3ifp     Extra: The Grey Arts (Includes: Adrian)

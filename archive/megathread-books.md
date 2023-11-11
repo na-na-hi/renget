@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/bfvBl9.png) <-
+-> ![](https://a.imagem.app/ojTe9y.png) <-
 
 # 📚 ➜ [Megathread](https://rentry.co/megathread) / **Books**
  

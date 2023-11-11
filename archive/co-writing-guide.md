@@ -5,14 +5,8 @@ Ouu... I can't emphasise the importance of ***steering*** enough—It can't be t
 
 [TOC2]
 
-***Other guide: [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide)***
-
-- | My personal presets:
------- | ------
-Kayra   | [Truthfully v7 for Kayra.](https://files.catbox.moe/mlg2yw.preset)
-Truthfully: | Basically, Greedy Decoding (best token), but retry-able; optimized for book-writing, will require creative decisions from you.
-| *(Enabling Dynamic Range will break the preset.)*
-
+***Other guide: [memory guide](https://rentry.org/memory-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
+*[My personal preset—Truthfully (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 -> You can ask me a question in [#ai-writing-help (click to join)](https://discord.gg/novelai) <-
 
 

@@ -12,21 +12,23 @@ Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matte
 - September Archive - 250 MB - 1,500 images
 - https://anonymfile.com/OxdQ/mwg-archive-23-09-sept.zip
 
-- October Archive - Week 1 - 3.6 GB - 20,500 images
+- October Archives
+- Week 1 - 3.6 GB - 20,500 images
 - https://anonymfile.com/Kd7g/mwg-archive-23-10-oct-wk1.zip
-
-- October Archive - Week 2 - coming soon
+- Week 2 - 1.6 GB - 9,300 images
+- https://anonymfile.com/rrA4/mwg-archive-23-10-oct-wk2.zip
+- Week 3 - coming soon
 
 4chan_AI_Terror on twatter has been uploading /mwg/ memes.  Until the October archives are fully up, I have an archive of his memes below.
 
 - 4chan_AI_Terror archive - 650 MB - 3,500 images - Mostly from the last few weeks.
 - https://anonymfile.com/06kb/4chan-ai-terror-to-7-nov-4pm.zip
 
-As an additional academical and educational resource, here is a link to the Handbook of Hate Memes.
+As an additional academical and educational archival resource, here is the Handbook of Hate Memes.
 *We have this book thanks to the St Lucas School of Arts in Antwerp, the European Observatory of Online Hate (EOOH) and the European Union for co-funding this project.*
 - https://anonymfile.com/OLAX/eooh-h-o-h-memes.pdf
 
-*( Disclaimer; these images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
+*( Disclaimer; These images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
 
 #### Idea List
 For these /MWG/ anons who may be experiencing temporary non-inspiration or wish to have more ideas for memes to generate, here is a list.  The challenge here is how to translate these ideas/events into a single picture, while being funny, incisive and damning.

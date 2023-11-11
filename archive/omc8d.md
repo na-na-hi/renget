@@ -28,3 +28,9 @@
 - [Debby lore 2023-11-06](https://rentry.org/v5xgp5)
 - [Chespin lore 2023-11-06](https://rentry.org/75svz)
 - [Toge lore 2023-11-06](https://rentry.org/ip45k)
+
+!!!info carrot/hazel
+	![](https://files.catbox.moe/sks8iw.png)
+
+!!!info tooca/lapi
+	![](https://files.catbox.moe/xtlg4y.png)
