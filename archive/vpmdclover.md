@@ -52,7 +52,7 @@ Bullet | M | Noivern | Indeedee (Mimi, F, Careful, Native) | Rescue Team/Clover 
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
-Orchid | M | Lurantis | N/A | ??? | [Adamant](https://rentry.org/vpmdcloverpb#orchid)
+N/A | M | Bagon | Lurantis (Orchid, M, Adamant, Native, Outsider) | Clover Guild Member | [Lonely](https://rentry.org/vpmdcloverpb#bagonorchid)
 Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
 Acrab | M | Krabby | N/A | Clover Guild Member | [Hasty](https://rentry.org/vpmdcloverpb#acrab)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)

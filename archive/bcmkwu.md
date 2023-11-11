@@ -1,4 +1,23 @@
 ▶NEW CLIPS
+>Around 30 AFU demilitarized and denazified soldiers only in 2 videos
+https://files.catbox.moe/stqd67.MP4 
+https://files.catbox.moe/p143ci.mp4 
+>pregnant hoholina gets taken prisoner (WITH TRANSLATION) 
+https://files.catbox.moe/ey4fwe.mp4 
+> The head of the Ukrainian OP Andriy Yermak denies the possibility of negotiations with the Russian Federation
+https://files.catbox.moe/2x3oz2.mp4
+> Ukrainian soldiers were apparently very confident in their Electronic Warfare systems
+https://files.catbox.moe/16elm2.mp4 
+>Ukrainian soldiers using an ambulance to transport weapons and troops 
+https://files.catbox.moe/7b8hwu.mp4
+> “This will be a long war” – an American mercenary from the Azov 
+https://files.catbox.moe/c34s3q.MP4 
+>Product-305/LMUR strike on a small bridge. 
+https://files.catbox.moe/e466a6.mp4 
+>"This is how a BMP burns," a Ukrainian militant showed the result of our strike on an AFU rear facility 
+https://files.catbox.moe/pw9q3t.mp4
+>A stoned hoholina did not watch her child and he ended up under the wheels of a Ural truck. (NOT COMFY) 
+https://files.catbox.moe/b7xmwz.mp4
 >"The counter offensive was a psychological victory (translated)
 https://files.catbox.moe/jjx2kq.mp4
 >pregnant hoholina gets taken prisoner

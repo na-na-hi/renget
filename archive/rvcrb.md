@@ -5,7 +5,7 @@
 >Yasha
 **In the fires of battle, a flash and a rush.**
 
-“We never got the chance to meet, properly, but any who would fight alongside Qiang Wei have a high estimation in my book. I’ve heard the rumours, of course. I don’t put stock in rumours. I’d much rather we came face to face in a proper situation, so I could judge for myself.”
+“We’ve met. Despite the rumours he seemed upstanding, and his actions certainly spoke to that. If, in the future, we happen to meet and he requires my assistance, I’d gladly lend it. Though… I can’t help but feel he looked down on me, at least a little bit.”
 
 >Ming Ming
 **Clink and clank, the sound of society rings out.**
@@ -25,7 +25,7 @@
 >Yexin
 **A wild beast without a care, for blood and fury is simply its ken.**
 
-“Met her? No, I never have. I’ve heard the stories though, and I know vaguely about the scriptures she’s said to wield, purely as a scholarly matter. I think I’d like to meet her. Of course, you’d call me crazy, but wisdom can be found in the strangest places, and the only way to learn is to go.”
+“Have I met her? Yes, once. It was certainly a situation, but- No, I didn’t get to learn too much about the scriptures she’s said to wield, so I wasn’t able to verify anything. No, I didn’t push - I’m not that impolite. I was tempted to at least ask, though. Despite the supposed brutality she has a reputation for, she did a noble deed when we met. Besides, she was quite the chef.”
 
 >Lord Charles Maynard
 **Stranger from afar, alone and unafraid.**
