@@ -24,10 +24,10 @@ Gaell <-
 -> ![Snakestone](https://i.postimg.cc/D02FNq38/Snakestone.jpg)
 Snakestone <-
 
--> ![Yarti](https://i.postimg.cc/YC5tsGFS/Yarti.jpg)
+-> ![Yarti](https://i.postimg.cc/Hk2LmQR4/Yarti.jpg)
 Yarti <-
 
--> ![Kat](https://i.postimg.cc/Zn5LQVt6/Kat.jpg)
+-> ![Kat](https://i.postimg.cc/mD0M0065/Kat.jpg)
 Kat <-
 
 -> ![BaloneyPony](https://i.postimg.cc/k5DqndQH/Baloney-Pony.png)

@@ -249,6 +249,7 @@ Where Wolf? (part 1): https://rentry.org/z3fag#L-1-1
 War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
 The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
 The Doctor's Intrudoction?: https://rentry.org/yd2rtw
+Where Wolf? (part 2, the big club kerfuffel): https://rentry.org/qrp8g
 
 >Relationship Charts:
 Conquest: https://rentry.org/g6frmh

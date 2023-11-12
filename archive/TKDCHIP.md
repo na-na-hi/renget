@@ -539,3 +539,9 @@ files.catbox.moe/c51zgr.mp4
 files.catbox.moe/ih8rrw.mp4
 >RPG SMOKES KIKE IN WINDOW  (ADDED NOV 11)
 files.catbox.moe/qm130g.mp4
+>SMOKIN TANKS (ADDED NOV 12th)
+files.catbox.moe/1d65zi.mp4
+>SMOKIN KIKES (ADDED NOV 12th)
+files.catbox.moe/aghxbi.mp4 
+files.catbox.moe/0ihzo4.MP4
+files.catbox.moe/crgkzu.mp4

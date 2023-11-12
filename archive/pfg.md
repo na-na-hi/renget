@@ -3,6 +3,7 @@
 
 Type | Name | Link | Description
 ------- | ------ | ------ | ------
+Goonware | SuccuBuddy | https://twitter.com/GamerPornMommy | "Elsavirus"-Style goonware, but without customization,
 Goonware | StrokeControl | https://discord.gg/8dnRfW5 | "Virtual Dom" program, micromanages your porn habits
 Goonware | Edgeware | https://github.com/PetitTournesol/Edgeware | "Elsavirus"-Style goonware, with a ton of customization to make your PC do things, like plastering your screen with porn.
 Tool | Edgeware Pack Editor | https://github.com/PetitTournesol/Edgeware-Pack-Editor | Editor for making Edgeware packages.
