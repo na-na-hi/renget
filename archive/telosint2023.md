@@ -38,20 +38,21 @@ https://t.me/ogshb8
 https://t.me/wolfspackgroup
 
 *OTHER*
-https://t.me/pidrozdilshadowoficial (drone footage)
-https://t.me/prytulafoundation (drones)
-https://t.me/BaluHUB (drones)
-https://t.me/aerobomber (drones)
-https://t.me/escadrone (drones)
+https://t.me/ukrbavovna (war footage)
 https://t.me/+h8-HTHhUp6I2ZWEy (war footage)
 https://t.me/+CfR2239RY-ljZjYy (war footage)
+https://t.me/usinfantryman1 (war footage) 
+https://t.me/+s0sWg_6RWZE5YTg6 (war footage)
 https://t.me/WarArchive_ua (war footage)
 https://t.me/combat_ftg (war footage)
 https://t.me/supernova_plus (war footage)
 https://t.me/karymat_eng (war footage)
 https://t.me/gostrikartuzy (war footage)
-https://t.me/usinfantryman1 (war footage) 
-https://t.me/+s0sWg_6RWZE5YTg6 (war footage)
+https://t.me/escadrone (drones)
+https://t.me/pidrozdilshadowoficial (drones)
+https://t.me/prytulafoundation (drones)
+https://t.me/BaluHUB (drones)
+https://t.me/aerobomber (drones)
 https://t.me/bahshiddemon (Bakhmut situation)
 https://t.me/vanek_nikolaev
 https://t.me/lachentyt

@@ -1,5 +1,10 @@
 # The meta list of various Claude links
 ->==(Updated 2023-10-07)==<-
+
+!!! note
+    Although currently there's no way to continue abusing Claude on Slack for free, wageslaving anons with access to Slack over their corporate network can still employ these solutions for work or SFW hobby purposes because RP frontends with editing, swiping, prompt templates, etc. are more convenient.
+
+
 ***
 [TOC2]
 ***

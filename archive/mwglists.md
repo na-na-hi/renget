@@ -41,6 +41,8 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* 44 yo commercial pilot takes magic mushrooms, asks "am I dead?" then attempts to stop engines midflight
+* Makhachkala Airport in southern Russia's Republic of Dagestan hosting a spontanous pogrom
 * All female spacewalk on ISS results in second lost tool bag in orbit, again.
 * Douglass Mackey going to prison for 10 yrs for posting a meme of hillary clinton
 * Fighting breaks out outside the museum of tolerance after screening of hamas film

@@ -34,7 +34,7 @@ Yes. There are only 3 rarity tiers, and you can currently clear all content with
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
 
 **8. Does this game have supports?**
-Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
+Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and during a specific story dungeon. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **9. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -55,7 +55,7 @@ You need to have at least one friend added. If you want more friends, go to the 
 No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyway, so you should just wait if you need Thread.
 
 **12. Are past events and stories completely gone until reruns?**
-Only the Event rewards. Both the chapter 3.5 and 4.5 Events happen directly after the previous chapter, and you are required to complete them because they are plot-relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other Events that had stories attached but were just login Events like Dante's Notes allow you to watch the story in the theater at any time. The only Event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
+Only the Event rewards. Both the chapter 3.5 and 4.5 Events happen directly after the previous chapter, and you are required to complete them because they are plot-relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other Events that had stories attached but were just login Events like Dante's Notes allow you to watch the story in the theater at any time. The only Event you can't rewatch ingame is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
 
 **13. How do I change it so a specific Identity is in my window when I open the game?**
 Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
@@ -103,18 +103,18 @@ Now that you're in the main menu screen, perform the following loop.
 **1. Identities**
 You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah. Each Identity has 3 regular skills, and a defensive skill. Your deck consists of 3 skill 1s, 2 skill 2s, and 1 skill 3. You have infinite defensive skills, and they can be activated anytime. Each Identity also has a regular passive and a support passive.
 
-You can level up your Identities (IDs) by using XP Tickets. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork and a new watchable story. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
+You can level up your Identities (IDs) by using XP Tickets. The maximum Identity level is 35. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork, a new watchable story, and a small Lunacy reward. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
 
 **2. E.G.O**
-You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that Sin affinity, unless otherwise specified. Using an E.G.O costs Sanity, and the Sanity is only spent once you use it to attack.
+You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that Sin affinity, unless otherwise specified. Using an E.G.O also costs Sanity, and the Sanity is only spent once you use it to attack.
 
 Using an E.G.O changes your Sin resistances and gives you a new passive for the remainder of the battle. The Sin resistances you start out with are based on your lowest level E.G.O, aka your Zayin E.G.O. You can have multiple E.G.O passives active at a time. The E.G.O passive activities the turn after you use an Awakening E.G.O, or immediately upon using a Corroded E.G.O. These factors mean that you shouldn't just focus on the highest rarity E.G.O, but take into account the lower rarity stuff, too.
 
 Any non-base E.G.O can do something called Corrosion. A Corroded E.G.O has a different attack and effects compared to the regular (Awakening) version. Depending on the situation, you may want to use either the Awakening or Corrosion version of the E.G.O. E.G.O Corrosion can be reached in multiple ways. If you have a non-base E.G.O equipped and reach -45 Sanity at any point in a battle, you lose control of the Sinner, and they will use the Corroded E.G.O and be forced to attack with it, potentially hitting allies. Corrosion can also be reached by using an Awakening E.G.O below 0 Sanity, which will give you a percent-based chance for your E.G.O to Corrode.
 
-The other way that you can use Corroded E.G.O is via Overclocking. To Overclock an E.G.O, open the ingame E.G.O menu and hold on the E.G.O you want to Overclock. Overclocking will allow you to use the Corroded version of the E.G.O and not hit allies. It will also let you control the targeting unless otherwise specified. Overclocking an E.G.O will cost 1.5x the amount of E.G.O resources.
+The other way that you can use Corroded E.G.O is via Overclocking. To Overclock an E.G.O, open the ingame E.G.O menu and hold on the E.G.O you want to Overclock. Overclocking will allow you to use the Corroded version of the E.G.O and not hit allies. It will also let you control the targeting unless the Corrosion has special targeting rules. Overclocking an E.G.O will cost 1.5x the amount of E.G.O resources.
 
-Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O.
+Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O. Threadspinning an E.G.O to tier 3 gives you a small Lunacy reward.
 
 It is heavily advised against rolling on E.G.O banners because the rates for obtaining E.G.O are abysmal. It is recommended to roll exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand if possible.
 
@@ -168,10 +168,10 @@ The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass pr
 
 You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section. 
 
-Be aware that the Battle Pass *bonuses* past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the BP beyond level 60. To get the most value for the Battle Pass, buy it before you pass level 60.
+Be aware that the Battle Pass *bonuses* past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the Battle Pass beyond level 60. To get the most value for the Battle Pass, buy it before you pass level 60.
 
 **8. Daily Rolls**
-An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% of the price, but you only get to do so with paid Lunacy.
+An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% of the price, but you only get to do so with paid Lunacy, which is different from regular Lunacy.
 
 **9. Monthly Lunacy Packs**
 You can buy two monthly packs for $3 and $7. The cheaper one gets you 130 paid Lunacy, and 1170 free Lunacy spread over 30 days. The $7 one gets you 650 paid Lunacy and 1950 free Lunacy spread over 30 days.
@@ -328,7 +328,7 @@ MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
 **4. Thread & EXP Luxcavation**
 The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have three levels: 8, 18, and 28. Thread stages have two levels: 20 and 30. The higher the level, the higher the rewards.
 
-You barely get any Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavation bonuses without much worry if you're starving for XP.
+You don't get much Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavation bonuses without much worry if you're starving for XP.
 
 **5. Refraction Railway**
 Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests. You have until the end of the Season to get the shiniest banner.
@@ -371,4 +371,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
-11/11/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/11-12/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. ![lol&](https://files.catbox.moe/7dmu76.png)

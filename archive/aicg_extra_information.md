@@ -255,6 +255,7 @@ https://boards.4channel.org/vg/catalog#s=aids
 https://rentry.org/SillyNAIGuide
 https://rentry.org/NAIChatbot
 https://rentry.org/AnotherSillyGuide
+https://rentry.org/82b9c (*borrowed from /CHAG/*)
 
 ##### Miku\.gg
 https://docs.miku.gg
@@ -298,6 +299,9 @@ https://github.com/CncAnon1/kkc (more up to date)
 https://github.com/Definetelynotbranon/Anthropic_API_Checker/
 - Claude/Anthropic key checker
 
+https://rentry.org/55py9
+- a bunch of papers and findings relevant to AI chatbots, not just to llms
+
 ***
 
 !!! info
@@ -331,3 +335,5 @@ Sister rentries:
 
 Email for feedback and suggestions:
 - aicg2023@proton.me
+
+*some things are a bit outdated and someday will be amended*

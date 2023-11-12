@@ -12,7 +12,7 @@ Download
 https://archive.is/FqpTS
 The console editions (Switch, PSN, XBL, PC Gamepass) have some exclusive content.
 
-\>Character Birthdays | Kel - November 11
+\>Character Birthdays | Hero - January 1
 https://pbs.twimg.com/media/EujUrE5UUAUyxku.jpg:orig
 
 \>Fangames, Projects, and Etc
