@@ -10,9 +10,9 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 30/80
+**Level:** 8 | **Experience to Next Level:** 50/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 360₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 510₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

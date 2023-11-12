@@ -46,12 +46,12 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 49 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 6 points to spend.
+    4/12 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 4 IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -76,8 +76,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Pink Gummi |	Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
-2. Big Apple | Gives +4 to any outside-combat-action.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Apple | Gives +2 to any outside-combat-action.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 
@@ -95,7 +95,6 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important
-RP Item | Oran berry | A healing fruit, reserved too help the group's cook
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

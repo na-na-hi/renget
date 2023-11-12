@@ -5,6 +5,7 @@
 ###OC Characters
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
+Cara | 12/11/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cara-b43f6fbb/main) | ![](https://files.catbox.moe/cr8ww3.png)
 Kio | 12/10/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/kio-107634e4/main) | ![](https://files.catbox.moe/hosfxu.png)
 Sylvia | 12/10/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/sylvia-4d8b0f43/main) | ![](https://files.catbox.moe/3j2410.png)
 

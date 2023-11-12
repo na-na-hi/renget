@@ -80,6 +80,10 @@ Cloud 9 (Famine, Death): https://rentry.org/3rqdx
 Evan Harker's Awakening: https://rentry.org/v7w22
 Ennui: https://pastebin.com/Ypj15YhN
 Where Wolf? (Scott Caledonia & Olaf Godwinson): https://rentry.co/z3fag#L-1-1
+War  (War, Conquest, Death, Famine, Pestilence): https://rentry.org/e3c2i
+The Call of a Lamb (War, Conquest): https://rentry.org/hy5eh4
+The Doctor's Intrudoction?: https://rentry.org/yd2rtw
+Where Wolf? (part 2) (Scott Caledonia, Sweeny, Owen): https://rentry.org/qrp8g
 
 >Tier List
 Tier Maker: https://tiermaker.com/create/dark-city-mp-2-906356

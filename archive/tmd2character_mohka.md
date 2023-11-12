@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 15/70
+**Level:** 7 | **Experience to Next Level:** 35/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1010₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1090₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -27,7 +27,7 @@ Health Points | 0 | Level 5 (20HP) | 20HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
-Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
+Special Defense | 0 | Special Defense Tier ɪ | +1 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -88,7 +88,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Unrefined Pearl (x3) | Three unrefined, misshapen pearls. They need some work, but could be worth something eventually.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

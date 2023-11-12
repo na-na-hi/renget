@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Vigilance **ɪɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
+Training for Attribute: Vigilance **ɪɪɪ** | Tier **ɪɪ** | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: None | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯

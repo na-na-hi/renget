@@ -6,9 +6,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 9 | **Experience to Next Level:** 20/90
+**Level:** 9 | **Experience to Next Level:** 40/90
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 315₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1465₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,18 +69,18 @@ Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Eᴍᴘᴛʏ | Vacant worn slot.
-*Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
-1. Warp Seed | Random teleport seed.
-2. Fog Orb | Makes the weather Foggy.
+*Worn/Held Item: Mystic Scarf | +2 damage to Water Type moves.
+*Equipped Item: Sitrus Berry | Heals 20 HP.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
-1. Encourage Seed | Never miss and increases Crit-Ratio stage by 1 for 4 turns.
-2. Encourage Seed | Never miss and increases Crit-Ratio stage by 1 for 4 turns.
+1. Shadow Gummi | Ghost Types like this.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

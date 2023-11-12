@@ -15,9 +15,9 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 8 | **Experience to Next Level:** 70/80
+**Level:** 9 | **Experience to Next Level:** 10/90
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 190₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 315₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -29,7 +29,7 @@ Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is incre
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Level 8 (20HP) | 22HP
+Health Points | 1 | Level 9 (21HP) | 23HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
@@ -41,7 +41,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Surf | 4BP | 6AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
 Mud Shot | 5BP | 6AP | ≥2 | Ground | Special | The next round, the Opponent's Speed is decreased by 1.
-Rock Smash | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+Rock Throw | 5BP | 5AP | ≥3 | Rock | Physical | No secondary effect.
 Wide Guard | - | 4AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -50,11 +50,11 @@ Moves that cannot be used in battle, but during RP segments. You may have two of
 Name of Move | Description
 ------ | :----: 
 Earthquake | Opponent using Dig; The Move's damage is increased by 5. Room-Hitter; Damages Allies.
-Water Gun | No secondary effect.
+Rock Smash | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 15 points to spend.
+    You have 63 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -90,9 +90,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Apple | Gives +2 to any outside-combat-action.
-2. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
-3. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
+1. Empty | Empty inventory slot.
+2. Empty | Empty inventory slot.
+3. Empty | Empty inventory slot.
 4. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 
 **STORAGE (2 slots)**
@@ -117,3 +117,4 @@ Name of Move | Description
 ------ | :----: 
 Tackle | No secondary effect.
 Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
+Water Gun | No secondary effect.

@@ -7,6 +7,10 @@
     - 👎🏻 These sinister domains have earned a notorious reputation, tainted by a multitude of grave and unforgivable transgressions.
     - 💩 [POOP](https://www.urbandictionary.com/define.php?term=poop) status = Particularly avoided by the pirate community.
 
+!!! danger ➜ Do not ever sign up
+	- Registering an account on these websites entails a significant level of peril, given the digital vulnerabilities present in the cyber realm.
+	- Phishing attacks often exploit users who unknowingly divulge personal information that can be subtly abused.
+
 &nbsp;
 
 ---
@@ -30,7 +34,19 @@
 💩 1377x | 1377x-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 KickassTorrents | kickasstorrents-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 The Pirate Bay | thepiratebay-org | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
-💩 TheRarBg | therarbg-com | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+💩 TheRarBg | therarbg-com ◘ therarbg-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# ⭐ ➜ Anime
+
+📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
+:---- | :---- | :----
+Zoro | zorox-to ◘ zoro-se ◘ zoroanime-se ◘ zoro-tv-site ◘ zoro-uno ◘ zoroto-online ◘ zoroanime-org ◘ zoroo-net ◘ zoro-com-de ◘ zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
 

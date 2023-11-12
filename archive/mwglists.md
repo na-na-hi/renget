@@ -41,7 +41,8 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
-* Douglass Mackey going to prison for posting a meme mocking hillary clinton
+* All female spacewalk on ISS results in second lost tool bag in orbit, again.
+* Douglass Mackey going to prison for 10 yrs for posting a meme of hillary clinton
 * Fighting breaks out outside the museum of tolerance after screening of hamas film
 * Outbreak of diarrhea in all regions of the UK, possibly from poo contaminated water
 * Bored Apes at apefest 2023 uses new eye trick to make sure their nft tokens are viewable only once

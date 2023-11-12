@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 10/11/23: Red Good Edition**
+**Last updated: 11/11/23: Red Good Edition**
 
 ***
 
@@ -36,8 +36,8 @@
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
-| CUNNYSSI | ==**25331**== | 5     | 31/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 3 | 31/32 | CUNNYGOD | PERMISSION | for newcuties |
+| CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
+| KUNNYHUB | ==**29940**== | 3 | 32/32 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

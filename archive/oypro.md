@@ -7,9 +7,9 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 8 | **Experience to Next Level:** 75/80
+**Level:** 9 | **Experience to Next Level:** 15/90
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 275₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -22,7 +22,7 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 8 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | Defense Tier ɪ | +1 Physical Mitigation
@@ -68,7 +68,7 @@ Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 1/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
@@ -81,14 +81,14 @@ Item Name | Description
 1. Empty| A vacant inventory slot
 2. Ban Seed | Causes Disabled upon consumption
 3. Heal Seed | Cures all status conditions.
-4. Oran Leaf | Heals the user for 3HP. Can stack to 3.
+4. Oran Leaf x2| Heals the user for 3HP. Can stack to 3.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
 	Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----:
-1. Pecha Berry| Cures the user. Heals Poison.
+1. Pecha Berry | Cures the user. Heals Poison.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
