@@ -51,6 +51,7 @@ https://t.me/supernova_plus (war footage)
 https://t.me/karymat_eng (war footage)
 https://t.me/gostrikartuzy (war footage)
 https://t.me/usinfantryman1 (war footage) 
+https://t.me/+s0sWg_6RWZE5YTg6 (war footage)
 https://t.me/bahshiddemon (Bakhmut situation)
 https://t.me/vanek_nikolaev
 https://t.me/lachentyt

@@ -433,6 +433,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The New Celeb of Sahara Town ch.2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
 	* [The New Celeb of Sahara Town ch.3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) 
 	* [The New Celeb of Sahara Town ch.4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4)
+	* [The New Celeb of Sahara Town ch.5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5) *Not on Table*
 * Togetic
 	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
@@ -641,6 +642,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6)
 * {||} [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7)
 * {||} [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
+* {||} [The New Celeb of Sahara Town ch.5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

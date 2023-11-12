@@ -1,6 +1,5 @@
--> ==https://anonymousjester-theamazingdigitalproxy.hf.space/== <-
+-> ==i just banned from huggingface== <-
 -> ![jester](https://files.catbox.moe/4gsyvd.png) <-
--> *get a token??? for joken!!!*<- 
 -> **burner: anonymousjester@skiff.com** <-
 -> **discord: anonymous_jester** <-
 -> **trip: !/FUNNY/ZU6** <-

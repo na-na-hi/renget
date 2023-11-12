@@ -113,9 +113,9 @@ It leaped at her. Two tiny, pale hands shot out, followed by a fanged, twisted f
 
 "War! They made a vampire baby!" Conquest shouted as she grappled with the hissing, clawing creature and backed up into the main room.
 
-"A little busy at the moment!" War called back, sweat beading on his brow as he maintained the ritual's energy flow.
+"A little busy right now!" War called back, sweat beading on his brow as he maintained the ritual's energy flow.
 
-Conquest struggled to get the snapping jaws away from her neck as the surprisingly strong baby clutched at her hair. "What the hell! Should I just kill it Won't it fuck up the ritual if we kill a baby?"
+Conquest struggled to get the snapping jaws away from her neck as the surprisingly strong baby clutched at her hair. "What the hell! Should I just kill it? Won't it fuck up the ritual if we kill a baby?"
 
 "It's not a real baby, so no! Kill it! That thing's older than us!"
 
@@ -127,7 +127,7 @@ The baby vampire twisted and flailed, its wails rising to an agonized pitch. It 
 
 "Oh, goddammit!" she yelled, hurling creature into the wall and pinning it in place with an arrow. Wiping the viscous fluid from her eyes, she smashed a chair, grabbed one of its broken legs and stalked forward. With a disgusted scowl, she plunged the makeshift stake deep into the vampire baby's heart. One final shriek echoed through the bar before it went silent for good.
 
-Conquest strode back to War, flicking gore from her leathers. "There, happy now? This is disgusting."
+Conquest strode back to War, flicking gore from her leathers. "There, happy now? That was disgusting."
 
 "I think I'm done." War finished the last words of the chant and steps back from the glowing sigils, nodding with satisfaction. "Now to see if They answer." 
 

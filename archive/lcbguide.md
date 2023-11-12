@@ -16,22 +16,27 @@ A great story, characters, and setting. On top of that, jank, but fun gameplay t
 
 Also note that, unlike other gachas, we have a set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over.
 
-**4. This game has a required reading list?**
+**5. What should I be doing during early game?**
+Go through the story at your own pace. Once you complete chapter 2 you will have Luxcavation and Mirror Dungeons unlocked. Mirror Dungeons have Weekly Bonuses that grant you Lunacy and Battle Pass XP. Luxcavation is how you farm XP tickets and Thread to upgrade your Identities and E.G.Os. Collect all your Weekly Bonuses and farm resources in Luxcavation to upgrade your units if you're having a hard time. Don't do Lunacy refills during early game, because your maximum Enkephalin (energy) isn't going to be high enough to justify it. Either wait for your Enkephalin to replenish or use Enkephalin boxes in the meantime.
+
+You can worry about farming Battle Pass XP and Egoshard Crates after you have completed chapter 4. If you want to know what to do after early game, (after you have completed chapter 4) please view the Farming and Activities sections of this guide.
+
+**5. This game has a required reading list?**
 Yes. They're not necessary to understand the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger, and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are comics and novels set in the Project Moon Universe.
 [MEGA with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 [Recommended Translations](https://rentry.org/ligmabooks)
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
-**5. Is this game F2P friendly/generous?**
+**6. Is this game F2P friendly/generous?**
 Yes. There are only 3 rarity tiers, and you can currently clear all content with the default units the game gives you without even touching the gacha past the tutorial. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The pity is industry standard at 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this game's saving grace is that it allows you to farm directly for Egoshards, which allows you to obtain (spark) any Identity or E.G.O currently available in the Dispensary.
 
-**6. Why can't I clear this stage?**
+**7. Why can't I clear this stage?**
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled or unptied Identities. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
 
-**7. Does this game have supports?**
+**8. Does this game have supports?**
 Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and the end of chapter 4 for a specific unit. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
-**8. How do I use a support unit?**
+**9. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
 1. Go to the stage or story dungeon you want to play.
 2. Make sure that the "Edit Team" switch is off.
@@ -40,28 +45,28 @@ You need to have at least one friend added. If you want more friends, go to the 
 5. Select what you want, then go back to the main Identity selection screen.
 6. The support Identity you selected will say "SUPPORT" on it if you did it correctly.
 
-**9. How do I bind my account to Steam or mobile?**
+**10. How do I bind my account to Steam or mobile?**
 1. Go to settings, and then to the Account tab.
 2. Link your mobile account to your Google/Apple account.
 3. After that, click "Send Merge Code", and then "Request Code".
 4. Use that code on Steam and follow the instructions.
 
-**10. Should I exchange Egoshards for Thread?**
+**11. Should I exchange Egoshards for Thread?**
 No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyway, so you should just wait if you need Thread.
 
-**11. Are past events and stories completely gone until reruns?**
+**12. Are past events and stories completely gone until reruns?**
 Only the Event rewards. Both the chapter 3.5 and 4.5 Events happen directly after the previous chapter, and you are required to complete them because they are plot-relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other Events that had stories attached but were just login Events like Dante's Notes allow you to watch the story in the theater at any time. The only Event you can't rewatch in the game is the [April Fools event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
 
-**12. How do I change it so a specific Identity is in my window when I open the game?**
+**13. How do I change it so a specific Identity is in my window when I open the game?**
 Press on the Sinner icon, then select the artwork you want on your window. The last one selected will be there when you open the game.
 
-**13. Can I change my loading screen?**
+**14. Can I change my loading screen?**
 Yes. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
-**14. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
+**15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
 We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.Os are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and Events [here.](https://lcbcountdown.carrd.co/)
 
-**15. What are Drawpiles and when do they happen?**
+**16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
 
 ## Rerolling
@@ -90,7 +95,7 @@ Now that you're in the main menu screen, perform the following loop.
 
 1. Claim Lunacy and tickets from your mailbox.
 2. Claim Lunacy from beating the prologue.
-3. Do your rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it.
+3. Do 20 rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it if you are happy with what you got in your first 20 rolls.
 4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam.
 5. If you want to reroll: click settings\->account\->close account button.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
@@ -217,7 +222,7 @@ You can farm as much as you want if you have the Enkephalin (energy) or Lunacy t
 You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
+Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you have 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
 In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
 
@@ -261,21 +266,21 @@ For each clash, every coin still available will be flipped at the same time, and
 Taking the following scenario as an example: 
 
 ![Clashes](https://files.catbox.moe/db9hfp.png)
-In a clash, the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash Power for every 3 points of difference between Offense Levels. In this instance, For Justice! (3 coins) will clash against Plunge In (3 coins). Don Quixote's Offense Level is 5 points higher than the enemies, so she has +1 clash value. This means she gets +1 to her minimum and maximum clash value, turning her 3/12 skill into a 4/13 skill. With this in mind, Don's base coin power on this skill is 4. For each heads coin that lands on her skill, she will receive +3 clash value, meaning her maximum coin value is 13. Favored is the probability of winning the clash. The probability shown also takes Sanity and some status effects into account.
+In a clash, the Offense Level of both sides are compared. The side with the higher Offense Level gains +1 Clash Power for every 3 points of difference between Offense Levels. In this instance, For Justice! (3 coins) will clash against Plunge In (3 coins). Don Quixote's Offense Level is 5 points higher than the enemies, so she has +1 clash value. This means she gets +1 to her minimum and maximum clash value, turning her 3/12 skill into a 4/13 skill. With this in mind, Don's base coin power on this skill is 4. For each heads coin that lands on her skill, she will receive +3 clash value, meaning her maximum coin value is 13 (The maximum value is boosted by 1 in this clash). Favored is the probability of winning the clash. The probability shown also takes Sanity and some status effects into account.
 
 The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and by 28% when the differential is 10. As the differential increases, returns diminish. When the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing the damage dealt.
 
 If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. You can't view the damage in a clash without calculating it manually or switching the clashes and hoping that it displays. Damage is also boosted by the clash count.
 
 **3. Resonance**
-This is Resonance (Res). Resonance is achieved when you use two or more skills of the same Sin in the same turn. More resonance means more damage, and Resonance is required for some passives to work.
+This is Resonance (Res). Resonance is achieved when you use two or more skills of the same Sin in the same turn. More Resonance means more damage, and Resonance is required for some passives to work.
 ![Resonance](https://files.catbox.moe/pkg0a2.png)
 
-This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use three or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is not necessary for passives to work. It also increases Offense Level for the affected skills.
+This is Absolute Resonance (Abs. or Abs. Res). Absolute Resonance is achieved when you use three or more skills of the same Sin not only in the same turn but together in an unbroken chain. It increases damage further and is usually not necessary for passives to work. It also increases Offense Level for the affected skills.
 ![Absolute Resonance](https://files.catbox.moe/a7i0a8.png)
 
 **4. Sanity**
-Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. In Dungeons, your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an Awakening E.G.O at low Sanity will also have a chance to Corrode, depending on how low your Sanity is.
+Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 and maxes out at +45 with a minimum of -45. At maximum Sanity you have a 95% chance of hitting heads, and vice-versa. In Dungeons, your Sanity level will carry over to the next fight. Positive Sanity will make coins land heads more often, and negative Sanity will make coins land tails more often. If a Sinner hits -45 sanity at any point and they also have a Corrodible E.G.O equipped, they will go out of control and potentially attack allies with the Corroded E.G.O. Using an Awakening E.G.O at low Sanity will also have a chance to Corrode, depending on how low your Sanity is.
 
 Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when the level of the defeated ally is higher than the unit's and decreases based on the level difference. E.G.O also cost Sanity.
 
@@ -326,10 +331,9 @@ The first tier of each is unlocked sometime during chapter 2. Both can be either
 You barely get any Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavation bonuses without much worry if you're starving for XP.
 
 **5. Refraction Railway**
-Endgame hard content. You have until the next railway to complete it for very good rewards, just with a considerable upfront Module cost. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests.
-
+Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests. You have until the end of the Season to get the shiniest banner.
 ![BannerOrBricked](https://files.catbox.moe/m0vm5b.png)
-The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the upfront Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
+The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
 
 ## Useful Links
 You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_resources)
@@ -343,7 +347,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 ## Useful Tips
 1. READ
 2. Do not skip the tutorial.
-3. Collect your weekly bonuses.
+3. Collect your Weekly Bonuses.
 4. Uptie and level Identities you use.
 5. Play Lobotomy Corporation and Library of Ruina.
 
@@ -367,4 +371,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
-11/11/23: Added Overcocking explanation. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/11/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. ![lol&](https://files.catbox.moe/7dmu76.png)

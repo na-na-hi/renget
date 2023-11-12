@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 6th November. All dates dd/mm.
+!!! Note Last updated: 12th November. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -107,19 +107,16 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-244 | Cute&Funny | Open as of 01/09
-3640 | DFC | Open as of 08/10
 6488 | Kanimochi | Open as of 26/10
-6665 | F2Poor | Open as of 24/09
 10625 | Vrillionaires | Open as of 06/10
-11830 | TummyArchive | Open as of 10/10
-12395 | 中出しの幸せ (cumshot happiness) | Open as of 21/09
+11162 | VaniVitamins | Open as of 07/11
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Full as of 03/11
 90 | Bullies | Full as of 18/09
+244 | Cute&Funny | Full as of 10/11
 286 | カニ (Kani - crab for dekinais) | Full as of 24/10
 343 | M8ingPressers | Full as of 03/04
 777 | Soras5Head | Full as of 25/03
@@ -127,13 +124,16 @@ Club ID | Club Name | Club Status
 1674 | BlueB@lled | Full as of 21/06
 2065 | paizuri | Full as of 03/04
 2188 | ChibiThighs | Full as of 14/05
+3640 | DFC | Full as of 10/11
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
+6665 | F2Poor | Full as of 10/11
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 17/10
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
-11162 | VaniVitamins | Full as of 18/10
+11830 | TummyArchive | Full as of 10/11
+12395 | 中出しの幸せ (cumshot happiness) | Full as of 10/11
 
 ***
 

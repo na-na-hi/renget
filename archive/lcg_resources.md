@@ -48,6 +48,7 @@
 * [Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt) [Rentry alternative link](https://rentry.org/b29eu)
 * [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
+* [A Better Tutorial for Limbus Company](https://www.youtube.com/watch?v=ujQgRJo9vHA)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
 
@@ -164,4 +165,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
 10/31/23: Made separate section for Q&As and interviews, added more links.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
-11/10/23: Added Limbus Company Unused Cutscene link. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/10-11/23: Added Limbus Company Unused Cutscene link. Added A Better Tutorial for Limbus Company link. ![lol&](https://files.catbox.moe/7dmu76.png)

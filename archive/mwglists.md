@@ -6,7 +6,7 @@ The anons of /MWG/ who also do contain honorable anons from the above organizati
 
 https://en.wikipedia.org/wiki/State-sponsored_Internet_propaganda
 
-#### Archive
+# Archive
 Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matter my own personal preference. Infographics, movies, reactions, duplicates and non related are removed, pngs are converted to jpg. *(links may go down, more will come.)*
 
 - September Archive - 250 MB - 1,500 images
@@ -17,11 +17,13 @@ Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matte
 - https://anonymfile.com/Kd7g/mwg-archive-23-10-oct-wk1.zip
 - Week 2 - 1.6 GB - 9,300 images
 - https://anonymfile.com/rrA4/mwg-archive-23-10-oct-wk2.zip
-- Week 3 - coming soon
+- Week 3 - 1.6 GB - 8,500 images
+- https://anonymfile.com/JVYX/mwg-archive-23-10-oct-wk3.zip
+- Week 4 - coming soon
 
 4chan_AI_Terror on twatter has been uploading /mwg/ memes.  Until the October archives are fully up, I have an archive of his memes below.
 
-- 4chan_AI_Terror archive - 650 MB - 3,500 images - Mostly from the last few weeks.
+- 4chan_AI_Terror archive - 650 MB - 3,500 images - Mostly from the first week of Nov and last 2 weeks of Oct.
 - https://anonymfile.com/06kb/4chan-ai-terror-to-7-nov-4pm.zip
 
 As an additional academical and educational archival resource, here is the Handbook of Hate Memes.
@@ -30,24 +32,23 @@ As an additional academical and educational archival resource, here is the Handb
 
 *( Disclaimer; These images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
 
-#### Idea List
+# Ideas
 For these /MWG/ anons who may be experiencing temporary non-inspiration or wish to have more ideas for memes to generate, here is a list.  The challenge here is how to translate these ideas/events into a single picture, while being funny, incisive and damning.
 
 **Dont listen to the shills and glowies who only want you to be angry, divided or only care about one specific issue.  Make the memes that your heart tells you to make.**
 
 The list shall change - removals as anons make memes, additions from suggestions in /mwg/ threads, I shall amend the list. At the bottom, are links to further lists of events that have clickable sources attached.
 
-*Current Thing* Ideas
+####*Current Thing* Ideas
 
 * Douglass Mackey going to prison for posting a meme mocking hillary clinton
 * Fighting breaks out outside the museum of tolerance after screening of hamas film
-* Outbreak of diarrhea in the UK, possibly from swimming in poo contaminated water
+* Outbreak of diarrhea in all regions of the UK, possibly from poo contaminated water
 * Bored Apes at apefest 2023 uses new eye trick to make sure their nft tokens are viewable only once
 * Dead guy at Glenwood Caverns Adventure Park is a real live hero who defeated his CIA MKULTRA mind control
-* Chris-Chan Denies Allegations Of Incest With Mother
 * Hunter-Killer pod of orcas sinking boats in the strait of gibraltar
 
-General Ideas
+####General Ideas
 
 * obama flying drones over afghanistan, bombing villages while wearing nobel peace prize
 * osama in his lounge room playing vidya with seal team, with bags of opium around
@@ -157,7 +158,7 @@ General Ideas
 * Overthrow of the elected leader of Guatemala for the United Fruit company (now Chiquita) in 1954
 * 1946 to 1969, Mothers were told that their babies had died and they adopted off the kids
 
-#### Further links that include research links
+# Further Ideas
 
 https://en.wikipedia.org/wiki/Category:Political_Internet_memes
 https://www.reddit.com/r/conspiracy/wiki/lopc

@@ -2,6 +2,7 @@
 -> Just some data in the aether, nothing more. <-
 -> [Chub Profile Page](https://www.chub.ai/users/Tipzanon) <-
 -> Contact: tipzanon@proton.me <-
+-> [Vote on what I should focus on making!](https://strawpoll.com/eNg69VpK4nA) <-
 
 !!! danger
 	-> Some images may be NSFW or pornographic. If you're under the legal age to view these things, kindly fuck off. <-
@@ -9,6 +10,7 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work. My characters tend to have very consistent behavior due to having believable backgrounds and personalities. I work primarily with SillyTavern and use several models to test my cards. Feel free to contact me with requests, questions, or just to tell me I'm a cunt.
 
 !!! info
+	-> ⭐ [Vote on what I should focus on making!](https://strawpoll.com/eNg69VpK4nA) ⭐ <-
 	-> ⭐ New Character: Yuki Mofumofu Edition. She's been streamlined, gained 3 alt greetings, plus an embedded lorebook for foxy fun! ⭐ <-
 	-> ⭐ New Lorebook: Kitsune. It does all the fox things and some Megacity East things. ⭐ <-
 	-> 🥛 Update! Kelda now has 3 alternate greetings and her formatting has been redone. 🥛 <-
