@@ -25,7 +25,7 @@ Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https:
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
-Bimu | (12/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/bimu-42e062d9) | ![](https://files.catbox.moe/6td9id.png)
+Bimu | (12/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/bimu-42e062d9) | ![](https://files.catbox.moe/37dvca.png)
 Yukina | (06/7/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Yukina) | ![](https://files.catbox.moe/mygjfp.png)
 Mimi | (16/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Mimi) | ![](https://files.catbox.moe/oj6a0v.png)
 Aya | (21/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Aya) | ![](https://files.catbox.moe/ok3qbv.png)
@@ -867,6 +867,7 @@ Perspiration: This is the current perspiration level of {{char}}. This statistic
 ALWAYS DISPLAY THE STATLINE AT THE END OF THE REPLY, NO MATTER WHAT.
 
 ###Card Art
+**(Made by https://chub.ai/users/Aksman)**
 | Character | Images
 |---|---|
 Nina | https://files.catbox.moe/8i50m3.zip
@@ -877,3 +878,4 @@ Kaori | https://files.catbox.moe/u5vjkg.zip https://files.catbox.moe/kzur7y.zip 
 Yukina | https://files.catbox.moe/8zxvyu.zip https://files.catbox.moe/79v01c.zip
 Mackenzie | https://files.catbox.moe/bdgb1i.zip https://files.catbox.moe/qk7sn5.zip
 Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip
+Bimu | https://files.catbox.moe/61qg4d.zip

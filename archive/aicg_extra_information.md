@@ -132,29 +132,28 @@ https://pixai.art
 
  ![](https://files.catbox.moe/sy3kw5.png)
 
-##### HappyAccidents
-https://www.happyaccidents.ai
-- requires to sign up; free tier is limited and very slow; has additional features
+##### Bing Image Creator
+https://www.bing.com/images/create
+- requires to sign up; easy to use; extremely filtered
 
- ![](https://files.catbox.moe/mrp4ax.png)
-
-##### Yodayo
-https://yodayo.com/text-to-image
-- requires to sign up using Google or phone; supposed to be easy to use; free tier is supposed to be slow; has additional features
-
- ![](https://files.catbox.moe/b1zpfi.png)
-
-##### Holara
-https://holara.ai
-- requires to sign up; easy to use; free tier is pretty fast but watermarked; has additional features; advertised on 4chan
-
- ![](https://files.catbox.moe/bg6bey.png)
+![](https://files.catbox.moe/ktweuq.png)
 
 ##### Other
-https://tao.studio
-- filtered, free, zero control via ui but possibly some via devtools; listed for reference; tested [2023-07-27]
 
-DALL-E 3 wasn't listed because it's too cucked and because everyone already knows about it
+https://www.happyaccidents.ai
+- requires to sign up; free tier is limited and very slow; has additional features *(outdated info)*
+https://files.catbox.moe/mrp4ax.png
+
+https://yodayo.com/text-to-image
+- requires to sign up using Google or phone; supposed to be easy to use; free tier is supposed to be slow; has additional features *(outdated info)*
+https://files.catbox.moe/b1zpfi.png
+
+https://holara.ai
+- requires to sign up; easy to use; free tier is pretty fast but watermarked; has additional features; advertised on 4chan *(outdated info)*
+https://files.catbox.moe/bg6bey.png
+
+https://github.com/notfiz/de3u
+- DALL·E 3 frontend with reverse proxy support
 
 **Some guides on creating character expressions**
 https://rentry.org/EmotionalSprites
@@ -322,6 +321,9 @@ https://files.catbox.moe/d71zj4.png
 https://github.com/Project-Akiko/Project-Akiko-Web
 This looked like an independent alternative to SillyTavern; disappeared for unknown reason.
 https://files.catbox.moe/y2s0ix.png
+
+https://tao.studio
+This was a filtered, free, and uncontrollable imagegen service. Listed for posterity.
 
 ***
 ***

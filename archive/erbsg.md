@@ -19,11 +19,11 @@ https://www.youtube.com/watch?v=57kSs-F-wRY
 \>Lumiapedia - Leni
 https://www.youtube.com/watch?v=-fjn3buOAbY
 
+\>Archaeologist Arda
+https://www.youtube.com/watch?v=ji_JHrMTvDw
+
 \>Street Fighter Piolo Preview
 https://www.youtube.com/watch?v=fLAsf29_jtE
-
-\>Cozy Camper Silvia Preview
-https://www.youtube.com/watch?v=K6rquSSiFDg
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4
@@ -50,7 +50,6 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://event.playeternalreturn.com/newcharacter/Leni (Play as Leni Event, ~12/6)
-https://playeternalreturn.com/posts/news/1509 (Season 1 Rewards 11/9)
 
 \>Codes
 https://coupons.tnra.ro/

@@ -2,15 +2,8 @@
 
 Previous: 
 
-\>Version 1.5 "The Crepuscule Zone" Special Program 
-https://www.youtube.com/watch?v=JTCDc7InXNU
-https://www.youtube.com/watch?v=E61Q_yx885A
-
 \>Download
 https://hsr.hoyoverse.com/en-us/home
-
-\>1.4 Summary
-https://www.hoyolab.com/article/21972419
 
 \>1.5 Preview Page
 https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
@@ -22,10 +15,6 @@ https://www.youtube.com/watch?v=qVY5qmQVrMo
 \>Myriad Celestia Trailer — "An Exorcism at Fyxestroll Garden"
 https://www.youtube.com/watch?v=ysyo7uNTvfs
 https://www.youtube.com/watch?v=bMqzzG9CXq0
-
-\>Topaz & Numby Trailer — "Expert Tutorial"
-https://www.youtube.com/watch?v=Vf8xtB9k9Ws
-https://www.youtube.com/watch?v=KHyXcRTNhCc
 
 \>Current Character Banner (Sunset Clause, Butterfly on Swordtip || Topaz, Seele + Guinaifen, Luka, Sushang)
 https://www.hoyolab.com/article/22556268

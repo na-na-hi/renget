@@ -341,7 +341,8 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
-[Anon's RR2 150 Turn Guide](https://files.catbox.moe/cgewge.txt)
+[Anon's RR2 150 Turn Guide](https://rentry.org/b29eu)
+[Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 
 ## Useful Tips
@@ -371,4 +372,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
-11/11-12/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

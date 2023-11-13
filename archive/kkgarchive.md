@@ -1,31 +1,24 @@
 ## /kkg/ Thread Archive
 
-!!! note 
-    **Live - [boards.4chan.org/h/thread/7646560/](https://boards.4chan.org/h/thread/7646560/)**&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
+!!! note
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7654970/](https://boards.4chan.org/h/thread/7654970/)**&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;#&nbsp;It's Pizza Time! Edition
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
 
-**Latest**
-- 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
-- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
-- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
-- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
-- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
-&nbsp;
-
 ---
 
-## ->2023<-
-
-- 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
+##&nbsp;->2023<-
+- 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;It's Pizza Time! Edition
+- 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
 - 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
-- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
-- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[903]&nbsp;#&nbsp;Photoshop time Edition
-- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[972]&nbsp;#&nbsp;Say Cheese Edition!
-- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[888]&nbsp;#&nbsp;Let me fucking sleep Edition
-- 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[1002]&nbsp;#&nbsp;Learning to swim Edition!
-- 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[844]&nbsp;#&nbsp;Paging Dr. Irwin Edition
+
+- 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[843]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
+- 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[902]&nbsp;#&nbsp;Photoshop time Edition
+- 647&nbsp;&nbsp;[archiveofsins.com/h/thread/7627289/](https://archiveofsins.com/h/thread/7627289/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:48)&nbsp;&nbsp;[971]&nbsp;#&nbsp;Say Cheese Edition!
+- 646&nbsp;&nbsp;[archiveofsins.com/h/thread/7627286/](https://archiveofsins.com/h/thread/7627286/)&nbsp;&nbsp;&nbsp;&nbsp;(23.10.2023 04:46)&nbsp;&nbsp;[887]&nbsp;#&nbsp;Let me fucking sleep Edition
+- 645&nbsp;&nbsp;[archiveofsins.com/h/thread/7622041/](https://archiveofsins.com/h/thread/7622041/)&nbsp;&nbsp;&nbsp;&nbsp;(18.10.2023 19:49)&nbsp;&nbsp;[1001]&nbsp;#&nbsp;Learning to swim Edition!
+- 644&nbsp;&nbsp;[archiveofsins.com/h/thread/7617347/](https://archiveofsins.com/h/thread/7617347/)&nbsp;&nbsp;&nbsp;&nbsp;(14.10.2023 20:42)&nbsp;&nbsp;[843]&nbsp;#&nbsp;Paging Dr. Irwin Edition
 - 643&nbsp;&nbsp;[archiveofsins.com/h/thread/7613407/](https://archiveofsins.com/h/thread/7613407/)&nbsp;&nbsp;&nbsp;&nbsp;(11.10.2023 22:02)&nbsp;&nbsp;[1093]&nbsp;#&nbsp;"I showed my pussy, now give me your credit card" Edition
 - 642&nbsp;&nbsp;[archiveofsins.com/h/thread/7609421/](https://archiveofsins.com/h/thread/7609421/)&nbsp;&nbsp;&nbsp;&nbsp;(09.10.2023 00:27)&nbsp;&nbsp;[1013]&nbsp;#&nbsp;Post Butts Edition
 - 641&nbsp;&nbsp;[archiveofsins.com/h/thread/7604135/](https://archiveofsins.com/h/thread/7604135/)&nbsp;&nbsp;&nbsp;&nbsp;(05.10.2023 17:19)&nbsp;&nbsp;[1038]&nbsp;#&nbsp;Cute Smartass Bitch Edition!
@@ -130,26 +123,6 @@
 - 546&nbsp;&nbsp;[archiveofsins.com/h/thread/7107417/](https://archiveofsins.com/h/thread/7107417/)&nbsp;&nbsp;&nbsp;&nbsp;(12.01.2023 04:02)&nbsp;&nbsp;[1216]&nbsp;#&nbsp;System Engaged Edition
 - 545&nbsp;&nbsp;[archiveofsins.com/h/thread/7095372/](https://archiveofsins.com/h/thread/7095372/)&nbsp;&nbsp;&nbsp;&nbsp;(08.01.2023 00:10)&nbsp;&nbsp;[1076]&nbsp;#&nbsp;SPACEEEEEEEEEEEEEEEEE Edition
 - 544&nbsp;&nbsp;[archiveofsins.com/h/thread/7083752/](https://archiveofsins.com/h/thread/7083752/)&nbsp;&nbsp;&nbsp;&nbsp;(03.01.2023 04:52)&nbsp;&nbsp;[1039]&nbsp;#&nbsp;JANUARY (2023) Edition
-
-###### /gkg/
-!!! info 
-    - 017&nbsp;&nbsp;[desuarchive.org/trash/thread/60533486/](https://desuarchive.org/trash/thread/60533486/)&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;&nbsp;[37]&nbsp;#&nbsp;Halloweiner Edition
-    - 016&nbsp;&nbsp;[desuarchive.org/trash/thread/59435522/](https://desuarchive.org/trash/thread/59435522/)&nbsp;&nbsp;&nbsp;&nbsp;(09.09.2023 22:08)&nbsp;&nbsp;[99]&nbsp;#&nbsp;Recess is over Edition
-    - 015&nbsp;&nbsp;[desuarchive.org/trash/thread/59068586/](https://desuarchive.org/trash/thread/59068586/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 02:22)&nbsp;&nbsp;[311]&nbsp;#&nbsp;Finally Back Edition
-    - 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[307]&nbsp;#&nbsp;Illusion is fucking dead Edition
-    - 013&nbsp;&nbsp;[desuarchive.org/trash/thread/56983608/](https://desuarchive.org/trash/thread/56983608/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:39)&nbsp;&nbsp;[309]&nbsp;#&nbsp;Now This is Podracing! Edition
-    - 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[301]&nbsp;#&nbsp;Post thine work Edition
-    - 011&nbsp;&nbsp;[desuarchive.org/trash/thread/56176356/](https://desuarchive.org/trash/thread/56176356/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 17:56)&nbsp;&nbsp;[314]
-    - 010&nbsp;&nbsp;[desuarchive.org/trash/thread/56098387/](https://desuarchive.org/trash/thread/56098387/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 15:31)&nbsp;&nbsp;[324]&nbsp;#&nbsp;Chika is life Edition
-    - 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[317]
-    - 008&nbsp;&nbsp;[desuarchive.org/trash/thread/55836156/](https://desuarchive.org/trash/thread/55836156/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:46)&nbsp;&nbsp;[221]
-    - 007&nbsp;&nbsp;[desuarchive.org/trash/thread/55745273/](https://desuarchive.org/trash/thread/55745273/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 10:08)&nbsp;&nbsp;[307]
-    - 006&nbsp;&nbsp;[desuarchive.org/trash/thread/55616940/](https://desuarchive.org/trash/thread/55616940/)&nbsp;&nbsp;&nbsp;&nbsp;(07.04.2023 21:59)&nbsp;&nbsp;[320]
-    - 005&nbsp;&nbsp;[desuarchive.org/trash/thread/55172753/](https://desuarchive.org/trash/thread/55172753/)&nbsp;&nbsp;&nbsp;&nbsp;(19.03.2023 15:20)&nbsp;&nbsp;[304]
-    - 004&nbsp;&nbsp;[desuarchive.org/trash/thread/54734043/](https://desuarchive.org/trash/thread/54734043/)&nbsp;&nbsp;&nbsp;&nbsp;(28.02.2023 05:35)&nbsp;&nbsp;[2]
-    - 003&nbsp;&nbsp;[desuarchive.org/trash/thread/54588356/](https://desuarchive.org/trash/thread/54588356/)&nbsp;&nbsp;&nbsp;&nbsp;(21.02.2023 21:36)&nbsp;&nbsp;[316]
-    - 002&nbsp;&nbsp;[desuarchive.org/trash/thread/54491959/](https://desuarchive.org/trash/thread/54491959/)&nbsp;&nbsp;&nbsp;&nbsp;(17.02.2023 18:09)&nbsp;&nbsp;[320]
-    - 001&nbsp;&nbsp;[desuarchive.org/trash/thread/54448036/](https://desuarchive.org/trash/thread/54448036/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2023 20:46)&nbsp;&nbsp;[102]
 
 ## ->2022<-
 
@@ -728,6 +701,26 @@
 - 003&nbsp;&nbsp;[archiveofsins.com/h/thread/4888341/](https://archiveofsins.com/h/thread/4888341/)&nbsp;&nbsp;&nbsp;&nbsp;(18.02.2018 19:31 UTC)&nbsp;&nbsp;[702]
 - 002&nbsp;&nbsp;[archiveofsins.com/h/thread/4884769/](https://archiveofsins.com/h/thread/4884769/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2018 22:25 UTC)&nbsp;&nbsp;[836]
 - 001&nbsp;&nbsp;[archiveofsins.com/h/thread/4881173/](https://archiveofsins.com/h/thread/4881173/)&nbsp;&nbsp;&nbsp;&nbsp;(11.02.2018 23:17 UTC)&nbsp;&nbsp;[511]
+
+###### /gkg/
+!!! info
+    - 017&nbsp;&nbsp;[desuarchive.org/trash/thread/60533486/](https://desuarchive.org/trash/thread/60533486/)&nbsp;&nbsp;&nbsp;&nbsp;(22.10.2023 19:07)&nbsp;&nbsp;[36]
+    - 016&nbsp;&nbsp;[desuarchive.org/trash/thread/59435522/](https://desuarchive.org/trash/thread/59435522/)&nbsp;&nbsp;&nbsp;&nbsp;(09.09.2023 22:08)&nbsp;&nbsp;[99]
+    - 015&nbsp;&nbsp;[desuarchive.org/trash/thread/59068586/](https://desuarchive.org/trash/thread/59068586/)&nbsp;&nbsp;&nbsp;&nbsp;(26.08.2023 02:22)&nbsp;&nbsp;[311]
+    - 014&nbsp;&nbsp;[desuarchive.org/trash/thread/58017693/](https://desuarchive.org/trash/thread/58017693/)&nbsp;&nbsp;&nbsp;&nbsp;(14.07.2023 22:53)&nbsp;&nbsp;[307]
+    - 013&nbsp;&nbsp;[desuarchive.org/trash/thread/56983608/](https://desuarchive.org/trash/thread/56983608/)&nbsp;&nbsp;&nbsp;&nbsp;(03.06.2023 00:39)&nbsp;&nbsp;[309]
+    - 012&nbsp;&nbsp;[desuarchive.org/trash/thread/56621800/](https://desuarchive.org/trash/thread/56621800/)&nbsp;&nbsp;&nbsp;&nbsp;(19.05.2023 14:46)&nbsp;&nbsp;[301]
+    - 011&nbsp;&nbsp;[desuarchive.org/trash/thread/56176356/](https://desuarchive.org/trash/thread/56176356/)&nbsp;&nbsp;&nbsp;&nbsp;(01.05.2023 17:56)&nbsp;&nbsp;[314]
+    - 010&nbsp;&nbsp;[desuarchive.org/trash/thread/56098387/](https://desuarchive.org/trash/thread/56098387/)&nbsp;&nbsp;&nbsp;&nbsp;(28.04.2023 15:31)&nbsp;&nbsp;[324]
+    - 009&nbsp;&nbsp;[desuarchive.org/trash/thread/55911042/](https://desuarchive.org/trash/thread/55911042/)&nbsp;&nbsp;&nbsp;&nbsp;(20.04.2023 12:23)&nbsp;&nbsp;[317]
+    - 008&nbsp;&nbsp;[desuarchive.org/trash/thread/55836156/](https://desuarchive.org/trash/thread/55836156/)&nbsp;&nbsp;&nbsp;&nbsp;(17.04.2023 02:46)&nbsp;&nbsp;[221]
+    - 007&nbsp;&nbsp;[desuarchive.org/trash/thread/55745273/](https://desuarchive.org/trash/thread/55745273/)&nbsp;&nbsp;&nbsp;&nbsp;(13.04.2023 10:08)&nbsp;&nbsp;[307]
+    - 006&nbsp;&nbsp;[desuarchive.org/trash/thread/55616940/](https://desuarchive.org/trash/thread/55616940/)&nbsp;&nbsp;&nbsp;&nbsp;(07.04.2023 21:59)&nbsp;&nbsp;[320]
+    - 005&nbsp;&nbsp;[desuarchive.org/trash/thread/55172753/](https://desuarchive.org/trash/thread/55172753/)&nbsp;&nbsp;&nbsp;&nbsp;(19.03.2023 15:20)&nbsp;&nbsp;[304]
+    - 004&nbsp;&nbsp;[desuarchive.org/trash/thread/54734043/](https://desuarchive.org/trash/thread/54734043/)&nbsp;&nbsp;&nbsp;&nbsp;(28.02.2023 05:35)&nbsp;&nbsp;[2]
+    - 003&nbsp;&nbsp;[desuarchive.org/trash/thread/54588356/](https://desuarchive.org/trash/thread/54588356/)&nbsp;&nbsp;&nbsp;&nbsp;(21.02.2023 21:36)&nbsp;&nbsp;[316]
+    - 002&nbsp;&nbsp;[desuarchive.org/trash/thread/54491959/](https://desuarchive.org/trash/thread/54491959/)&nbsp;&nbsp;&nbsp;&nbsp;(17.02.2023 18:09)&nbsp;&nbsp;[320]
+    - 001&nbsp;&nbsp;[desuarchive.org/trash/thread/54448036/](https://desuarchive.org/trash/thread/54448036/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2023 20:46)&nbsp;&nbsp;[102]
 
 &nbsp;
 ->![](https://files.catbox.moe/8az5il.jpg)<-

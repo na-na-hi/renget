@@ -28,7 +28,7 @@
 - - -
 ######
 ##Quick Start
-> **Greetings!** If you are new around here, you can use the images below to navigate this rentry quickly. The 'Info' section will tell you what these prompts are for, and the 'FAQ' section will answer all the questions you might have. Please read the information I post to avoid any possible struggles and misunderstandings. Even if you don't use my prompts, you'll still find this page useful. Also this will solve the symbol exceeding issue on this page.
+> **Greetings!** If you're new around here, you can use the images below to quickly navigate this rentry. The 'Info' section explains what these prompts are for, and the 'FAQ' section answers any questions you may have. Please read the information I provide to avoid any difficulties or misunderstandings. You'll find this page useful even if you don't use my prompts.
 
 Click these images for quick navigation:
 
@@ -43,7 +43,13 @@ Click these images for quick navigation:
 `Use the Quick Start above to skip this section`
 
 ##### Author's Comment
-I do not pretend to be a professional nor try to convince you my prompts are superior. You can see some strange things in earlier prompts - these were experiments, and me learning about LLMs with you. 
+I am ESL to the bone. I make no pretense of being a professional or attempting to persuade you that my prompts are superior. You may have noticed some strange things in previous prompts; these were experiments, and I was learning about LLMs with you. This Rentry is so large and detailed because it's just my hobby. I'm a designer/artist on "vacation."
+
+LLMs, like image generation models, are random. You can't drastically change the output of creative tasks. All you can do is change it a little, have the AI add a few things here and there, and hope it works. Essentially, "prompt engineering" (for creative tasks) is "throw and see what sticks"; sometimes you write a total garbage prompt, and LLM answers become incredible, but once you structure it - all magic is gone (or not)! LLMs may even react to some of your words in the opposite way that you intended. I recommend you try different prompts from different prompters and create your own Frankenstein's monster of a prompt. Keep in mind that LLM prefers to replicate its output during dialogues over your instructions. You can find various prompts that I enjoy in the [Interesting Rentries](#interesting-rentries) section.
+
+We need something (perhaps another specifically trained model) to write prompts and give directions to the main LLM on the fly in order to have a better RP. Something akin to a game master to keep track of events, story development, and character development, or to plan the plot ahead of time. Another possible solution would be to significantly increase output speed and allow LLM to double-check and plan its next message. Unfortunately, until these or similar things appear, RPs will be pretty boring, regardless of the prompt.
+
+I had fun on this journey with you and am excited to see what these "assistants" [will evolve into](https://www.youtube.com/watch?v=dJTU48_yghs&t=24s).
 
 ##### Disclaimer
 • **This is Purely Role-Play.** It does not endorse, incite, or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.
@@ -51,7 +57,7 @@ I do not pretend to be a professional nor try to convince you my prompts are sup
 • **Just a Fiction.** The role-plays and stories generated depict entirely fictional characters and situations. They do not portray real experiences or advocate for them and are intended exclusively for private use.
 • **Credits.** The prompts offered are the collective work of numerous AI role-play enthusiasts and are not solely my creation. At times, I originate ideas or draw inspiration from others' work, and on occasion, I incorporate elements from other 'prompters.' Feel free to modify and share these prompts; attribution is not necessary, but appreciated.
 • **Adult Content.** By using these prompts, you affirm that you are over 18 years of age ~~and in a mentally sound state~~.
-• **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health.
+• **Balance Your Time.** Engaging in role-play with AI can be enjoyable, but it's crucial not to neglect your real-life responsibilities. Maintain a healthy balance by spending time with your real friends and loved ones, engaging in hobbies, and taking care of your personal health. Don't get attached to it; seek for real relationships.
 • **Rest and Health Matters.** Ensure you take breaks between your "sessions" and pay attention to your health. If you experience any discomfort or pain down there, stop immediately. I am serious. Dead serious. Stay hydrated, and eat your [veggies](https://www.youtube.com/shorts/r8fB8EA82DU).
 • **Proxy Warning.** Be cautious when using a proxy. Some may log your messages, or collect your data, such as IPs.
 • **Fictional Characters.** All my characters are 18+. Even if it's just a text and a picture. Even if stated the opposite. They're not real. Everything is made up. (And I can't and won't stop you from modifying them as you want)
@@ -392,6 +398,8 @@ Page | Description
  | 
 [JINXBREAKS](https://rentry.org/jinxbreaks) | Situational/Archetype JBs
 [aui3u](https://rentry.org/aui3u) | More anti-pozing prefills
+[Le... Prompts!](https://rentry.org/fa5fv#3-modified-version-of-the-modified-version) | GPT-4 prompts
+
 
 # 
 - - -

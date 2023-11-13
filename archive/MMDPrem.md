@@ -72,6 +72,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Jackson (じゃくそんの部屋)**<-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/15552736)[[Fantia]](https://fantia.jp/fanclubs/209309) [[Twitter]](https://twitter.com/3djakuson) <-
 
+[[Fantia]](https://fantia.jp/products/528034) : Blue Archive - Hanaoka Yuzu
 [[Fantia]](https://fantia.jp/products/493564) : Azur Lane - Hatakaze META
 [[Fantia]](https://fantia.jp/products/419751) : Azur Lane - Shiranui
 [[Fantia]](https://fantia.jp/products/324816) : Azur Lane - Oite -Summer Dedication-
@@ -90,6 +91,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Kuroyuzu (神楽坂柚)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/25049012) [[Booth]](https://kuroyuzu.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/5838) [[Twitter]](https://twitter.com/k1468) [[Website]](http://black-yuzunyan.lolipop.jp/) <-
 
+[[Booth]](https://kuroyuzu.booth.pm/items/5248746) [[Fantia]](https://fantia.jp/products/527894) : Original - Mitsuki Nozomi
 **Updated**
 [[Booth]](https://kuroyuzu.booth.pm/items/3452658) [[Fantia]](https://fantia.jp/products/206245) : Original - Haruyoshi Ruriri
 ***
