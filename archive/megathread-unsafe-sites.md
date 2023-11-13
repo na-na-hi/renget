@@ -46,6 +46,7 @@ The Pirate Bay | thepiratebay-org | **Unethical conduct**: (*Terrible regulation
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 :---- | :---- | :----
+AniMixPlay | animixplay-city ◘ animixplay-best ◘ animixplay-fun ◘ animixplay-solutions ◘ animixplay-name ◘ animixplay-tube ◘ animixplay-watch ◘ animixplay-movie  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 Zoro | zorox-to ◘ zoro-se ◘ zoroanime-se ◘ zoro-tv-site ◘ zoro-uno ◘ zoroto-online ◘ zoroanime-org ◘ zoroo-net ◘ zoro-com-de ◘ zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;

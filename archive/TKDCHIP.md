@@ -549,3 +549,5 @@ files.catbox.moe/crgkzu.mp4
 https://files.catbox.moe/9s7szz.mp4
 >Hamas 007 smooth paragliding operator (ADDED NOV 12th)
 https://files.catbox.moe/u2r4nv.webm
+>QUDS SNIPER KINO (ADDED NOV 13th)
+files.catbox.moe/ama5xz.mp4

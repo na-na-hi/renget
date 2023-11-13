@@ -644,4 +644,1227 @@ v5b:
 
 	Dataset:pixeldrain.com/u/LmiK3PH1
 	Fluff Trained: pixeldrain.com/u/XC6FgTVT
-	NAI Trained:
+	NAI Trained: mediafire.com/file/ikbsqolr8mucmot nai.zip
+	NAI was uploaded to mediafire as pixeldrain was failing to finish the upload for some reason
+
+# Mei_Panda (Turning Red)
+	V1: https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
+
+> This (new) one was trained at a higher res with better tagging. I only use easyfluff but it was trained on an older fluffyrock model so it might be fine to use on other models.
+
+	V2: https://files.catbox.moe/07yudj.rar
+
+# Feral Horses (from /vt/ of all places?)
+
+	https://pixeldrain.com/u/6rZMY2AT
+
+# Roll (Mega-Man)
+``
+Responds to typical roll db tags + "rollchan".``
+
+	https://files.catbox.moe/wdl1zk.safetensors
+
+# Feralbois
+`C'mon with another gift, I threw a bunch of feral pics into the lora colab and out popped this. Feralbois v1. Trained on NAI with E621 tags. The dataset covers quite a bit though you may get mixed results on the anthro on feral positions. Its also a bit biased to felines...I was a lion king kid.`
+Lora: pixeldrain.com/u/NP87NGA2
+Dataset: pixeldrain.com/u/VvT693oy
+
+feralbois v2.
+Dataset: pixeldrain.com/u/Jc3svbHe
+Fluff Trained: pixeldrain.com/u/V6cosxNn
+NAI Trained: pixeldrain.com/u/kS25QCQY
+
+# Nanaki/RedX,III LoRA
+`Based off of yiffye, but seems to work with other checkpoints. Trigger word is "redxiii"`
+
+	pixeldrain.com/u/YpsVqcpJ
+
+# Tsukino (Monster Hunter Stories)
+
+	pixeldrain.com/u/FYtiu8P6
+
+# Waai Fu (Arknights)
+	My 4th try (holy fuck) at it and i wont probably try this anymore, this was done on Hollowstrawberry's lora trainer: https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb
+	Trained with 61 images at 768 resolution for 5 repeats and 10 epochs, used flip_aug and min_snr_ganma, 2e-4 unet/1e-4 text econder lr, batch size 2.
+	Getting waai fu right is a nightmare and i think part of the problem is the models not being good at it, i only tested with 7thanimev3c: https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_C.safetensors but if someone has a merge with a furry model and it looks better on those please do tell me.
+	More ammount of time went into pruning this time around, i decided to swap 1girl for furry female since leaving it before was detrimental, other than that the minimum tags to prompt her are "waai fu, furry female, tiger ears, body fur", if you want her glasses add "orange-tinted eyewear, round eyewear" and for her default outfir use "default china dress, capelet, pelvic curtain, elbow gloves, orange belts", add or remove "animal nose" to positive/negative prompts depending on what you want. Additionally you can use tiger girl, tiger tail to help prompt the tail but expect random tails around and tail limbs, i honestly dunno how to fix those.
+
+	https://mega.nz/folder/c5NhgYZA#Uj6VXv7AJAyUkpEA0DcnaA
+
+# Princess Luna + Twilight Sparkle
+
+	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
+
+# Steve Martin Style
+Removed rentry and second pixeldrain link since the link to epoch 14 was down. Reuploaded again.
+	
+	https://pixeldrain.com/u/cmZbPM6C
+	https://pixeldrain.com/u/X5juJVzB
+	"SteveMartinsArt style"
+
+	Probably so-so, didn't test it well enough
+
+# Digby (Animal Crossing)
+
+	https://files.catbox.moe/vjhxcv.safetensors
+
+# Able Sisters (Animal Crossing)
+
+	Trained on SD 1.5: https://files.catbox.moe/1zno17.safetensors
+	Trained on NAI: https://files.catbox.moe/79u1qa.safetensors
+	> I suppose you use the e621 tags for each sister?
+	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
+
+# 3D Midna (trained on Fluffyrock lion low-lr e22 offset-noise e7)
+	https://files.catbox.moe/88ov7p.safetensors
+
+# Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
+
+	https://pastebin.com/U7pGcJZ1
+
+# Nomax (artist)
+
+	Use "by nomax".
+	https://mega.nz/file/LMx23CyC#zDSz7AtD9ZX-UM582bTm0XsP8xLAywBbIVDqJj6mIkU
+
+# Fluffy64
+
+	https://files.catbox.moe/9k1snp.safetensors
+
+# Shiron (Legendz)
+
+	https://mega.nz/folder/50FVVAbS#gMDnVIgmcPCQ4OWyhRewFw
+
+# Lycanroc
+
+	https://rentry.org/4o2mc
+
+# Rauru (Zelta TotK)
+Trained on Fluffyrock
+
+	https://drive.google.com/drive/folders/1yddB7y6NWBIKkCC2eSEwBaDlBRvs8r2f
+
+# Urethral
+> I tried including all possible urethral scenarios in the dataset (tentacles, rods, penis in penis, tongue, arm) but im afraid im gonna have to make one for each. The results are a lot more coherent then base fluffyrock, but still fucky.
+V1:	https://mega.nz/file/XMYAFRBR#-PEJn6h1cGhwIGwPGM5PLmBZYL4LZnqP-BsM4g2fF98
+
+>So here it the urethral penetraion lora, use with "urethpen" tag among others, for example "penetration,urethral, urethral penetration, urethral bulge, urethralpen" will get the job done. Trained on fluffyrock lr-e27 with 350+ images (did some cleaning up), over 11k+ steps.
+V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
+
+# Pup Mask
+>trigger word is pup_mask with the underscore
+
+	https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM
+
+# Beverage in Sheath
+	https://mega.nz/file/20AQHbST#3Aoq574cCq1eJkVMNJuBU9cTnMmL6lYQR0DklCYj5xo
+
+# Artist o2o (Oekaki Kemono, slight pixelation)
+
+	https://files.catbox.moe/zpat2q.safetensors
+
+# Peachpunch11 (Triggerword "umaishiru")
+
+	https://files.catbox.moe/erjbb4.safetensors
+
+# Arceus LoRA
+
+	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
+
+# suitonb
+
+	https://pixeldrain.com/u/eotc2W6C
+
+# Feraligatr
+
+	https://files.catbox.moe/g76s3b.safetensors
+>"feraligatr" and "blue body, tan belly, yellow eyes, 5 fingers, claws, sharp teeth, thick tail, spines" seems to help it stay on target.
+
+# Silvally (Pokémon)
+
+	https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
+>  I included two iterations of it cause I got decent results on both of them, but I mainly use the 000018 version. Keyword is just 'silvally'.
+
+# KX' LoRAs
+
+Yzmuya (Artist)
+
+	https://files.catbox.moe/hrfdmu.safetensors
+> Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "yzmstyle" (I couldn't use the artist's name since it's already in fluffyrock and it provides awful results) 
+
+	https://files.catbox.moe/0fvf7j.safetensors
+> I increased the threshold for the image tagger and added/replaced a small part of the dataset with generated images - the improvement is minimal, but it's there. It mainly works better when used with lower weights, compared to the previous versions. Activation token is still "yzmstyle"
+
+	V1.19: https://files.catbox.moe/7c8v0i.safetensors
+
+	V2.9: https://files.catbox.moe/cms3mu.safetensors
+
+Viosgit (Artist)
+
+	https://files.catbox.moe/7v1mps.safetensors
+>Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3 at 768x768 resolution, clip skip 2. The activation token is "viosgitstyle".
+>It's slightly undertrained compared to my yzmuya lora but I can't really do much about it - 90% of the image dataset has text all over it and mouths and details start to get fucked up. There's also quite a bit of jpeg artifacts generation, but that gets mostly fixed during upscaling. Also no nudes in the training because the artist just doesn't do them afaik
+
+maro no oheya (Artist) 
+
+	https://files.catbox.moe/su5ct6.safetensors
+> Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution
+>The activation word is "maro"
+
+evil_jia / neutral_jia / jianeutral (Artist)
+
+	https://files.catbox.moe/krn6va.safetensors
+>Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution.
+>Activation token is "jiastyle"
+
+Kaminosaki Shiten (Artist)
+
+	https://files.catbox.moe/vd1s4d.safetensors
+>Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "kaminosakistyle" (I couldn't just use the artist's name in this one either).
+>The dataset comes mostly from their two furry focused doujins. I will definitely go back to this one after sifting through the artist's twitter/pixiv pics
+
+Mauzy (Artist)
+
+	https://files.catbox.moe/gxdngd.safetensors
+>Trained on fluffyrock lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is still mauzystyle
+
+Kita / KitaKettu (Artist)
+>Trained on fluffyrock-lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is "kitastyle"
+
+	https://files.catbox.moe/cehi21.safetensors
+
+Rocky Rickaby (Lackadaisy)
+
+	https://files.catbox.moe/8dj7dr.safetensors
+>Activation token is "ldrocky", trained at 512*512 resolution, clip skip 1.
+
+Webber (Don't Starve)
+>activation token is "webber"; I honestly don't expect it to be particularly versatile, there isn't a lot of variety in the dataset. 
+
+	https://files.catbox.moe/kfnk44.safetensors
+
+Calvin "Freckle" Allen McMurray (Lackadaisy)
+>Activation token is ldcalvin
+
+	https://files.catbox.moe/bk1xqq.safetensors
+
+# Xenomorphs
+
+	https://pixeldrain.com/u/3zaypdh5
+> Trained on Fluffyrock e53 offset noise e38 for 15 epochs at 10 repeats with clip skip 1.
+>Activation token is "xenomorph", other tokens like "black body, sharp teeth, long tail" make it more accurate. I also like "glistening body, wet, saliva". I use 0.7-1.0 weight.
+
+# Captain Gantu (Lilo and Stitch)
+
+	https://pixeldrain.com/u/s7DfbDJG
+
+# Minerva Campbell (Adventure Time)
+
+	https://files.catbox.moe/l4fnta.safetensors
+
+# Noivern (Pokemon)
+
+	https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
+
+# Fizz (League of Legends)
+
+	V2: https://files.catbox.moe/c45f9c.zip
+	V3 - FluffyRock: https://files.catbox.moe/h6r871.zip
+	V3 - YiffyMix: https://files.catbox.moe/1q1mz3.zip
+
+# Tulin (Zelda Tears of the Kingdom)
+
+	https://mega.nz/folder/AiEQ0CJT#oVffy-tL9HzrtfRzY-TlrQ
+
+# Klonoa
+
+	https://huggingface.co/nadanainone/tondelora/tree/main
+
+# cryptid-creations (Artist)
+
+Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+Activation token is "cryptid".
+
+	https://pixeldrain.com/u/SF5iRffS
+# Catti (Deltarune)
+
+	https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
+
+# Terriermon (Digimon)
+Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+
+	https://pixeldrain.com/u/SmH7bgTs
+# Zorak (Space Ghost)
+
+	https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
+
+# Swampert (Pokémon)
+
+Has been taken down, reupload by >59516011, thanks anon
+	
+	https://files.catbox.moe/hcft0y.safetensors
+
+# Kicks (Animal Crossing)
+
+	V1: https://pixeldrain.com/u/7G1Mpthg
+	V2: https://pixeldrain.com/u/Bkp6UD5p
+# Kha'Zix (League of Legends)
+>also make sure to use all of these tags so you can get his anatomy more accurately:
+>khazix, insect, purple exoskeleton, antennae, spikes, green eyes, insect wings, red skin, red body, claws, sharp teeth, brown fur
+
+	LoRA: https://pixeldrain.com/u/aVDqbBNN
+	Dataset: https://pixeldrain.com/u/whXDQFBz
+
+# Yuji Uekawa (Sonic Artist)
+>Yuji Uekawa's Sonic style LoRA trained on Fluffyrock megares terminal snr vpred e116 e89.
+
+>Typical tags: by yuji uekawa, sega, sonic the hedgehog \(series\), official art
+
+	https://files.catbox.moe/ntcp6y.safetensors
+
+V2:
+>Yuji Uekawa style lora, v2. Also useful for getting on-model sonic characters. Trigger "by yuji uekawa"
+
+	https://files.catbox.moe/r92ldc.safetensors
+
+# Ichi Inukai (Manmosu Marimo)
+Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+
+	https://mega.nz/folder/J6c0GZCT#oBsCILW-X108fwdiRp9L-w
+
+# Lucy (Legend of Lucy - Webcomic)
+
+	https://files.catbox.moe/k9i6ro.rar
+
+# Female POV Taker / Bottom
+
+	https://files.catbox.moe/mgchby.safetensors
+
+# Emma (Insignificant Otters - Webcomic)
+
+	https://files.catbox.moe/jytnda.rar
+
+# Iris (Scalie Schoolie - Webcomic)
+
+	https://files.catbox.moe/37xlqn.rar
+
+# Rosianna Rabbit (Rosianna Rabbit - Webcomic)
+
+	https://files.catbox.moe/rrq311.rar
+
+# Alex (What's Better Than This? - Webcomic by RushEloc)
+
+	https://files.catbox.moe/9vah4z.rar
+
+# Berry Wabeet (Artist slb)
+
+	https://files.catbox.moe/fclqa7.rar
+
+# Sadie (artist Coekj)
+
+	https://files.catbox.moe/c5nc6d.rar
+
+# Helbaa (artist Smutbooru)
+
+	https://files.catbox.moe/e67jh6.rar
+
+# Shasta (ShastaNeedsBooze by Mamabliss)
+
+	https://files.catbox.moe/0jdlzr.rar
+
+# Willy (Blow Me Paws by Oddjuice)
+
+	https://files.catbox.moe/54lpqq.rar
+
+# Gwen Martin (Gwen Geek by Joaoppereiraus)
+
+	https://files.catbox.moe/xu2gog.rar
+
+# dripdry (by herro)
+
+	https://files.catbox.moe/ra7oj5.rar
+
+# edna (school days by krezz karavan)
+
+	https://files.catbox.moe/ydmap7.rar
+
+# Matz (by matzzacre)
+
+	https://files.catbox.moe/red94x.rar
+
+# clarice (starhell by pokyuii)
+
+	https://files.catbox.moe/rxckve.rar
+
+# lana (by pulp)
+
+	https://files.catbox.moe/pj785p.rar
+
+# Solterv/Solturb (Artist)
+
+	https://files.catbox.moe/s7d1uh.safetensors
+
+# Substitute (Pokemon)
+
+	https://files.catbox.moe/azuqh3.safetensors
+
+# Mating Press V2 (Concept, Reupload)
+
+	https://files.catbox.moe/iozmy8.safetensors
+
+# The Conductor (A Hat in Time)
+
+	https://files.catbox.moe/5gjbry.safetensors
+
+# Rasha (Pokemon OC)
+
+	https://drive.google.com/drive/folders/1WvQjUsVja2MRL-12lubJm2zzFfJgNH1w
+
+# Narupajin creepy miku doll (fluffy edition)
+
+	https://files.catbox.moe/dqcoxw.safetensors
+
+# Anubia (Potionomics)
+
+	https://files.catbox.moe/xdftan.safetensors
+
+# Ducktales Character LoRAs
+
+**Magica De Spell**
+
+https://civitai.com/models/150647/magica-de-spell-or-ducktales
+
+	Direct DL V1.0:
+	https://civitai.com/api/download/models/168810?type=Model&format=SafeTensor
+
+**Goldie O'Gilt**
+Third Lora, I apparently know enough about what I'm doing. (Version 2)
+
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very.
+
+Trained on a 70/30 mix of SFW animation frames and NSFW e621 art, so use e621 tags!
+
+Recommended Lora Weight for V2: 0.5 - 0.7
+Recommended Lora Weight for V1: 0.4 - 0.6
+
+
+V1 isn't that bad; V2 however, will give you more consistent results.
+
+Main Tags:
+
+goldie o'gilt, ducktales, beak, duck, green eyes, eyebrows, blonde hair, mature female, eye bags, eyelashes, scut tail, white skin, orange legs, webbed feet
+
+Reinforcement SFW Tags: (Includes different outfits)
+
+roll bangs, low ponytail, swoop bangs, hair bun, tan pants, tan vest, satchel, backpack, dress shirt, white skin, boots, orange dress, earrings, bracelets, emerald necklace, heels
+
+Reinforcement NSFW Tags:
+
+breasts, genitals, nipples, pink nipples, nude, pussy, white body, cleavage, seductive, green underwear, green bra, green bikini
+
+I recommend when trying to generate SFW, NSFW or specific outfits, put the opposite tags into negative prompts.
+
+For Example:
+
+Positive: swoop bangs, hair bun, orange dress, heels, earrings, bracelets, emerald necklace
+
+Negative: roll bangs, low ponytail, tan pants, tan vest, satchel, backpack, dress shirt, boots
+
+https://civitai.com/models/153522/goldie-ogilt-or-ducktales-2017
+
+	Direct DL V1.0:
+	https://civitai.com/api/download/models/172198?type=Model&format=SafeTensor
+	Direct DL V2.0:
+	https://civitai.com/api/download/models/172727?type=Model&format=SafeTensor
+
+**Della Duck (Ducktales)**
+https://civitai.com/models/149490/della-duck-or-ducktales-2017
+First Lora, I barely know what I'm doing. (Version 2)
+
+This Lora is trained on Indigo Mix v60, It's probably fine with other e6 based checkpoints, your mileage may very.
+
+Trained on a 60/40 mix of SFW animation frames and NSFW e621 art, so use e621 tags!
+
+It's pure rng to generate her prosthetic leg correctly, you can try increasing the weight of (prosthetic leg) or (cybernetic leg) but you would probably have a better time inpainting it.
+
+Recommended Lora Weight for V2: 0.6 - 0.8
+Recommended Lora Weight for V1: 0.7 - 1
+
+Main Tags:
+
+della duck, ducktales, duck, beak, bird, white skin, white body, long hair, hair, white hair, female, prosthetic leg, cybernetic leg, orange legs, webbed feet, scut tail
+
+Reinforcement SFW Tags:
+
+clothed, clothing, goggles on head, white skin, brown flight jacket, brown flight helmet, goggles, teal scarf, tan shorts, headband, devil costume, fake horns, red shorts, red sweater
+
+Reinforcement NSFW Tags:
+
+medium breasts, breasts, genitals, nipples, nude, pussy, white body, 
+
+	Catbox: https://files.catbox.moe/96uzxq.safetensors
+	Civitai Direct Link: https://civitai.com/api/download/models/177590?type=Model&format=SafeTensor
+
+**Daisy Duck (LeMans42)**
+
+	https://files.catbox.moe/i8114i.safetensors
+
+**Daisy Duck (Modern Ducktales)**
+https://civitai.com/models/171618/daisy-duck-or-ducktales-2017
+
+Fourth Lora, I get it.
+
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+PurrfectlyAI's Daisy Duck does a more Quack Pack style Daisy and is pretty good, so I recommend checking it out if you haven't already!
+
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+daisy duck, ducktales, beak, white skin, white hair, black centered bow, black headband, rounded bangs, hair bun, eyeliner, pink eyeshadow, teal eyeshadow, black eyes, orange legs, scut tail, short hair, shoulder length hair, bangs
+
+Reinforcement SFW Tags:
+
+clothed, clothing, sequin dress, pink dress, pink trench coat, black heels, teal purse, black choker
+
+Reinforcement NSFW Tags:
+
+breasts, genitals, nipples, nude, pussy, white body, 
+
+	https://files.catbox.moe/qh5gtu.safetensors
+
+**Lena Sabrewing**
+https://civitai.com/models/176975/lena-sabrewing-or-ducktales-2017
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+lena sabrewing, ducktales, duck, beak, scut tail, white skin, white hair, pink highlights, short hair, eyeliner, purple eyeshadow, pink eyeshadow, orange legs, webbed feet,
+
+Reinforcement SFW Tags:
+
+clothed, clothing, long sleeves, teal dress shirt, striped shirt, black shorts, sneakers, pajamas, light green shirt, bracelet, bra strap
+
+	https://files.catbox.moe/1uj3n3.safetensors
+
+**Scrooge McDuck**
+https://civitai.com/models/183570/scrooge-mcduck-or-ducktales-2017
+This Lora is trained on Indigo Mix v75, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+This is the most limited dataset used out of all of my Loras but it's good enough..
+
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+scrooge mcduck, male, duck, ducktales, beak, white skin, white hair, orange legs, webbed feet, black eyes, 
+
+Reinforcement SFW Tags:
+
+clothed, clothing, red coat, black top hat, footwear, bottomless, featureless crotch, cane, pince-nez, 
+
+Reinforcement NSFW Tags:
+
+genitals, nipples, nude, penis, balls, white body, 
+
+	Catbox: https://files.catbox.moe/7zxype.safetensors
+	CivitAI: https://civitai.com/api/download/models/208235?type=Model&format=SafeTensor
+
+**Webby Vanderquack**
+https://civitai.com/models/188500/webby-vanderquack-or-ducktales-2017
+This Lora is trained on Indigo Mix v90, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point. Some showcased images are generated with EasyFluff V11.
+
+
+This character is underage, Do not post or cross-post NSFW.
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags:
+
+webby vanderquack, ducktales, duck, beak, scut tail, white skin, white hair, short hair, eyeliner, orange legs, webbed feet, black eyes,
+
+Reinforcement SFW Tags:
+
+clothed, clothing, pink bow, bow (feature), hair clip, bow accessory, blue vest, pink dress shirt, long sleeves, short sleeves, purple skirt, backpack   
+
+(All images are upscaled x2 using Hires. fix with 4x_foolhardy_Remacri as the upscaler)
+
+	https://civitai.com/api/download/models/211703?type=Model&format=SafeTensor
+
+# sake kemosalmon (Artist)
+
+	https://files.catbox.moe/21wmi0.safetensors
+
+# hooves-art/lunar47/snuddy mix (artists)
+
+	https://files.catbox.moe/hlp1qz.safetensors
+
+# Aer0 Zer0/welost/pyroxtra (artists)
+
+	https://files.catbox.moe/9vije9.safetensors
+
+# kiwihermit (artist)
+
+>I did a captionless kiwihermit iA3 for fluffyrock
+	https://files.catbox.moe/m5xomh.safetensors
+	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
+	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
+
+# manmosu marimo (artist)
+
+	https://files.catbox.moe/fy0kdd.safetensors
+
+# 3d, by onsenanon, onsen
+>That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
+>Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
+
+	V1: https://files.catbox.moe/rzqx5o.safetensors
+
+	V2: https://files.catbox.moe/xqtef0.safetensors
+
+# Sandshrew (Pokemon)
+
+	https://files.catbox.moe/nsm68r.safetensors
+
+# Anatomically Correct Pony (Reupload from CivitAI)
+>This lora at 0.5 or so combined with easyfluff is fucking insane for degenerate pony consumption
+
+	https://files.catbox.moe/iry3pt.safetensors
+
+# James Hardiman (Artist)
+Trained on Easter e17
+
+	https://files.catbox.moe/w1zcnc.safetensors
+
+# Rouge-ify LoRA (Rouge the Bat Clothing Concept)
+
+	https://files.catbox.moe/77as09.safetensors
+
+# Emaciated (Concept)
+
+	https://files.catbox.moe/p0yico.safetensors
+
+# Livia (Dreamy Pride - Character)
+
+	https://files.catbox.moe/jk8x6d.safetensors
+
+# Internal Machinery (Concept)
+Useful tags; robot, android, machine, translucent body, uterus, endoskeleton 
+
+	https://files.catbox.moe/yjqjmd.safetensors
+
+# Transparent Style (Concept)
+Used to achieve a similar look to the above, I am unsure if you want both or only one of them.
+https://civitai.com/models/103068?modelVersionId=112482
+
+	Direct DL V1.1: https://civitai.com/api/download/models/112482?type=Model&format=SafeTensor
+
+# Lilith (Character - MLP OC?)
+https://files.catbox.moe/lyxii8.png
+https://files.catbox.moe/mp25tm.png
+	
+	https://files.catbox.moe/haasf3.safetensors
+
+# Weaver (Artist)
+
+	https://files.catbox.moe/ybtl9h.safetensors
+
+# Spike (MLP - Character)
+
+	V1: https://files.catbox.moe/39piua.safetensors
+>Includes the Spike XL lora and 25 variations of one of my favorite gens.
+	
+	https://files.catbox.moe/pvc5lr.rar
+
+# DaftPatriot (Artist)
+
+	https://files.catbox.moe/2c99hq.safetensors
+
+# Skeleslime (Concept)
+
+	https://files.catbox.moe/6p6mvf.safetensors
+
+# Gnolls (Concept - Character)
+
+	https://files.catbox.moe/qgslox.safetensors
+
+# Manizu (Artist)
+
+	https://files.catbox.moe/t8mluy.safetensors
+
+# Majora's Mask (Concept - Character)
+
+	https://files.catbox.moe/2fc26k.safetensors
+
+# Moki (Artist)
+
+	https://files.catbox.moe/soiacp.safetensors
+
+# Bimbo Lips (Concept)
+Taken from /d/ apparently
+
+	https://files.catbox.moe/eilxna.safetensors
+
+# Avery (Character by Fiddleafox)
+
+	https://mega.nz/folder/dOsVDBQT#ppLtPptaYQ-fi2hnyA3cGg
+
+# Alexi (Artist)
+Reupload from /h/
+
+	https://files.catbox.moe/ksxzd2.safetensors
+
+# Realistic TMNT (Character)
+Reupload from CivitAI
+
+	MichelAngelo:
+	https://files.catbox.moe/ld7l4a.safetensors
+	Donatello:
+    https://files.catbox.moe/xcz6gz.safetensors
+    Leonardo:
+    https://files.catbox.moe/762764.safetensors
+    Raphael:
+    https://files.catbox.moe/3tgfq2.safetensors
+
+# The Siren (The Binding of Isaac)
+
+	https://files.catbox.moe/n1intg.safetensors
+
+# Gnar (League of Legends)
+
+	https://files.catbox.moe/rhtss5.safetensors
+
+# Snatcher (A Hat in Time)
+>Yeah, I think I'll just leave the LoRA as-is. Came out surprisingly well for the first attempt, but let me know what (you) think and if it needs any adjustments. Trigger word is "ahitsnatcher"
+
+	https://files.catbox.moe/cbj2s9.safetensors
+
+# dragon_longsword's LoRAs
+Dragonite (Pokemon):
+Activation keyword is "dragonite", trained on Easyfluff
+
+	https://files.catbox.moe/c4asqm.safetensors
+
+Hisuian Typhlosion (Pokemon):
+>Trained on fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors, activation token is "hisuian typhlosion"
+
+	https://files.catbox.moe/na259m.safetensors
+
+Newmouf - Mawshots (Concept)
+>Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
+
+	https://files.catbox.moe/8loti1.safetensors
+
+# Single BING Image trained LoRAs
+Fantasy Style - Sitting at Bonfire - Warm Lighting (Concept / Style)
+
+	https://files.catbox.moe/fio25x.safetensors
+
+Warhammer Fantasy Ink Painting
+
+	https://files.catbox.moe/ix0m9x.safetensors
+
+Japanese Kimono Kemono
+
+	https://files.catbox.moe/ij2gmt.safetensors
+
+Pop Art? Style
+
+	https://files.catbox.moe/kaa9ok.safetensors
+
+# Cream the Rabbit (Sonic)
+https://civitai.com/models/166801
+
+>I am helping a friend test their new LORA. He is doing a v2 of one he released early last week. Does anyone want to beta test with me?
+>he said it was ok to share this and that he is working on an SDXL version soon.
+
+Trigger word: "Cream The Rabbit"
+
+Helpful Prompt: "Cream The Rabbit, 1girl, solo, orange_dress, blue_necktie, orange_and_yellow_shoes, white_socks, white_gloves, gold_buttons, white_collar"
+
+	Catbox Beta: https://files.catbox.moe/rp6m91.safetensors
+	CivitAI DL V1.0: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
+	CivitAI DL V2.0: https://civitai.com/api/download/models/198684?type=Model&format=SafeTensor
+
+# The フギミ LoRA Collection
+
+	https://rentry.org/83o5t
+
+# AI Toolkit Sliders (Utility)
+Cool-Warm Slider (Utility)
+>The idea with this LoRA is that the stronger negative you set the weight the cooler the colors and the stronger positive the weight the warmer the colors. The numbers up the top in the plot are the LoRA strength values, so you can go much higher and lower than you would with a normal LoRA.
+>This was trained using the slider LoRA training script available at https://github.com/ostris/ai-toolkit
+
+	https://files.catbox.moe/fmlexi.safetensors
+
+Colorfulness Slider LoRA v1
+See above for a rough explanation, positive weight for more color, negative weight for less.
+
+	https://files.catbox.moe/jq7wau.safetensors
+
+Breast size slider LoRA v1
+>Turned out more like a curviness slider, but oh well. Values up the top of the plot are the LoRA strengths; this works with both positive and negative weights at much higher values than normal. Negative is smaller breasts, positive is larger.
+>The plot prompt had no breast size tags in it; I haven't yet tested how they affect the LoRA.
+
+	https://files.catbox.moe/nl8i4l.safetensors
+Breast size slider LoRA v1 Alt
+>And a version that doesn't go quite as big, but affects the overall composition a lot less.
+
+	https://files.catbox.moe/036d34.safetensors
+
+Anti-Countershading Slider LoRA v1
+>Higher = less countershading
+>Lower = more countershading
+>Can go higher than 1 and lower than -1 without burning.
+
+	https://files.catbox.moe/d8e38j.safetensors
+
+Alt version trained on Easyfluff V10 Prerelease
+
+	https://files.catbox.moe/dm2lbu.safetensors
+
+Penis size slider LoRA v1
+>As per previous.
+>Higher = bigger penis
+>Lower = smaller penis
+>Can go above 1, and below -1.
+
+	https://files.catbox.moe/2pkhgi.safetensors
+
+Dark-light theme slider LoRA v1
+>This will change your composition, so it needs to be part of your genning process, not a post-gen/regen fix-up kind of thing.
+
+	https://files.catbox.moe/kohflx.safetensors
+
+Anti-blush LoRA v1
+>A quicky before I go to bed. This is more powerful than my previous ones, wouldn't recommend going much above 1 or below -1. Higher = less blush, lower = more blush.
+
+	https://files.catbox.moe/64hscs.safetensors
+
+Simple to Detailed Background slider
+>This one is more of a curiosity. An attempt at simple background to detailed background. The tags seem far too biased to provide any smooth detail variation.
+
+	https://files.catbox.moe/epkod9.safetensors
+
+# Naoko (alvh-omega)
+>Recommend using the LoRA at 0.7 weights.
+>Catbox with some of the tags she has for you to mess around with https://files.catbox.moe/5llwj5.png
+``by pixelsketcher, by meesh, by personalami, high quality, highres, absurdres, detailed background, cherry blossoms, cloud, sunset, BREAK
+ <lora:naokotest5:0.7>, naoko, red highlights, kitsune, 9 tails, multi tail, red markings, white fur, white body, black eyes, bell collar, nude, nipples, wet pussy, fangs, open mouth, huge breasts, large areola, erect nipples, sagging breasts, puffy nipples, mature female, 
+Negative prompt: easynegative, boring_e621_v4, bwu, dfc, ubbp, updn, sepia, dark, amputee, multi balls, multi penis, blurry face, poorly drawn face, poorly drawn hands, blurry hands, blurry, simple background, disfigured, mutant, ugly, absorption vore, assimilation, docking, multi limb,
+Steps: 20, Sampler: Restart, CFG scale: 7, Seed: 860553435, Size: 600x800, Model hash: 821628644e, Model: EasyFluffV11.2, Denoising strength: 0.5, CFG Rescale: 0.7, Auto Color Fix Strength: 0.2, Hires upscale: 2, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Lora hashes: "naokotest5: 36497ef79c2a", Version: v1.6.0``
+>Trained on outfit tags bikini, crop top, booty shorts, kimono, boots, tank top, graphic shirt. Object tags fan, beer, whiskey.
+
+	V1: https://files.catbox.moe/uqumxo.safetensors
+	V2: https://files.catbox.moe/uwzd14.safetensors
+
+# Dog Species LoRAs
+Bulldog Anthro
+https://civitai.com/models/173684/bulldog-anthro
+>It's a basic LORA to create some Anthro Female Bulldogs, i really like the overall look of Molosser/Molossus dog (Pitbulls,Mastiffs and Great Dane's). It's still very crude, made mostly of Bing images because of the lack of females on E621.net (it's mostly males like Spike from Tom & Jerry or Dribble from Warioware). Most of times looks like a pitbull with a dropped cheeks. The images used for creation are SAFE (Bing IC).
+
+	https://civitai.com/api/download/models/195021?type=Model&format=SafeTensor
+
+Schnauzer Anthro
+https://civitai.com/models/178524/schnauzer-anthro
+>As the name says it's a Furry version from a Schnauzer dog (i dunno if the normal version or the toy one), good to make some hipster characters or girls with moustaches and beards.
+>Made with images from Bing IC curated to display mostly of the characteriscts of the race (it look's like your grandpa).
+
+	https://civitai.com/api/download/models/200391?type=Model&format=SafeTensor
+
+Fila Anthro
+https://civitai.com/models/181071/fila-anthro
+>Brazilian Fila Dogs
+
+	https://civitai.com/api/download/models/203214?type=Model&format=SafeTensor
+
+# James "Jim" Hardiman
+
+	https://files.catbox.moe/c9hkyw.rar
+
+# Jellymon (Digimon)
+
+	https://files.catbox.moe/stp2lj.safetensors
+
+# Pixzapix (Artist)
+>No activation token, but i tried to tag everything like solo/duo/comic/monochrome so it's easier to prevent it from getting confused and making stuff like that, since a lot of his work is comics and duos
+>other common tags are puffy anus, perching position, size difference, gynomorph, equine penis, mating press
+
+	https://files.catbox.moe/1hb04f.safetensors
+
+# Helga (Character, World Flipper)
+Regular Costume
+
+	https://files.catbox.moe/5kkocf.safetensors
+
+Proud/Beast Costume
+
+	https://files.catbox.moe/7v2xox.safetensors
+
+## LORAs from the Discord
+
+# Various Characters (FinalEclipse's Trash Pile)
+	• Dawn Bellwether (Zootopia)
+	• Esix (e621 mascot)
+	• Fidget (Elysian Tail)
+	• Freya Crescent (Final Fantasy)
+    • Gadget Hackwrench (Rescue Rangers)
+    • Gazelle (Zootopia)
+    • Human Male x Female Anthro
+    • Jenna (Balto)
+    • Juno (Beastars)
+    • Katia Managan (Prequel webcomic)
+    • Krystal (Star Fox)
+    • Kurama - Female (Naruto)
+    • Kurama - Male (Naruto)
+    • Lamb (Cult of the Lamb)
+    • Maid Marian (Robin Hood)
+    • Master Tigress (Kung Fu Panda)
+    • Millie (Helluva Boss)
+    • Nicole Watterson (The Amazing World of Gumball)
+    • Porsha Crystal (Sing 2)
+    • Rivet (Ratchet and Clank)
+    • Roxanne (FNAF)
+    • Toriel (Undertale)
+    • Tristana (League of Legends)
+    • Vicar Amelia (Bloodborne)
+    https://mega.nz/folder/1m51RTjI##ZmcA4WUuskdXq0ggQCs8BQ (OLD)
+	https://drive.google.com/drive/folders/1B41fkQ6RwEWamfc5YE4yC8ZQVz-DUUEF
+
+# BulkedUp
+    Here is a LoRA, BulkedUp, that was made with Kohya's GUI. The purpose of this LoRA was to create bigger buff dudes on different Stable Diffusion models. I personally use between 0.2 to 0.5 strength, with 0.2 strength adding a bit of muscle and 0.5 going even bigger. Compared to the Hypernetworks I have worked on, I believe that LoRAs are a great alternative for training with shorter training time and better generations. However, from what I've seen on how this LoRA behaves, it seems to reflect the art style of its respective artist that it was trained on at 0.6 strength and above. Due to this discovery, I will provide the training dataset for the LoRA in the link.
+
+    Using default E621 tags with spaces, like huge muscles, works really well with the LoRA
+
+    One thing I would like to mention about this LoRA is that if it output dudes that are too huge or have bizarre anatomy, sending them to img2img or inpaint with high denoising strength (between 0.4-0.7) could really help fix them.
+
+
+Here is the link to the LoRA, model formula, training dataset, and images of the examples:
+
+	NOTE: The merged model the LoRA was trained on requires the VAE, vae-ft-mse-840000-ema-pruned.ckpt, from stabilityai 
+	https://mega.nz/folder/BRVVSYZT##hc4dSxLbjXPZQ5EEGh973A
+
+# Protogens
+	protogen - Obsolete version trained on 2400 steps
+
+	protogenv2 - Newer version trained on roughly 3200 steps
+
+	protogenv2-0004 and protogen-0005 - If standard v2 feels too overfitted/overtrained to you, use these
+
+	Activation keywords are:
+
+	protogen, protogen visor, protogen face
+
+Link:
+
+	https://mega.nz/folder/C2R2ESCT##uwszxIuh6fYm4iq6xu3WsQ
+
+# Mr. Wolf (The Bad Guys)
+	Mr. Wolf from The Bad Guys, but he's a LoRA now.
+	
+	Responds very well to higher weighting, like :1.3 or :1.2. The LoRA is trained at 704 resolution, so it works best at that size.
+
+	Issues: It needs testing on the paws, something seems to be up with them. Also his suit usually doesn't make sense if you look too closely
+
+	Also, yes it does nsfw.
+
+	This model is trained on Gay621
+
+	pixeldrain.com/u/PnmW8Zoe
+
+	mega.nz/file/315EiDCD##bsH75Mh00i7Ts6chY99rQI9gP__DJpidbqDd2MbdVPs
+
+# Wizzikt
+	~300 images from Wizzikt.
+	Download link: pixeldrain.com/u/yqadCyMz
+
+# beeg wolf wife generator (Sligarthetiger)
+
+	My first attempt at a LoRA. This is LoRA Trained on 150 works by Sligarthetiger at around 4000 steps for 6 epochs. Contains two versions.
+
+
+	v2 is trained on Lawlas Yiffy Mix. It isn't as stable as v3, however is more accurate to the training dataset I feel.
+
+	v3 is trained on a certain anime model. More coherent and stable and personally probably better, although sometimes isn't too accurate to the data at times.
+
+
+	I recommend using both and keeping v2 at a weight of around 0.10 or 0.15.
+
+	As it a style LoRA, other character LoRAs work as well.
+
+	Instructions:
+
+	Simply select the LoRA through whatever way you usually would through the A111 extension or its native support. No activation keywords needed, it should activate on its own.
+
+	Link:
+
+	https://mega.nz/folder/vuJUyaAa##ncWjDuMmnQmFoPLf0dw-YA
+
+# SnowskauCharr
+	Trained on ye-18
+	pixeldrain.com/u/KGwp6dAc
+
+# Cervids
+	https://pixeldrain.com/u/3a6yvbTD
+
+# Various (Penis Lineup, Kass, Krystal, Loona, Protogen, Puro, Spyro, Toothless
+	https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA
+
+# Puffin's LoRAs
+Pic taken 2023/05/16
+![Puffin's Stuff](https://files.catbox.moe/9uqnzq.png)
+
+Looking them over, some of these are likely the same ones posted before ITT, currently filed under "Birds" up above. Gonna leave it up, for posterity's sake.
+Some of these are Lycoris files; check out [this extension](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) if you encounter problems.
+
+	Tweetfur: https://civitai.com/api/download/models/11442?type=Model&format=SafeTensor&size=full&fp=fp16
+	Puffin: https://civitai.com/api/download/models/11432?type=Model&format=SafeTensor&size=full&fp=fp16
+	Anthro Griffin: https://civitai.com/api/download/models/30044?type=Model&format=SafeTensor&size=full&fp=fp16
+	Mae Borowski (Night in the Woods): https://civitai.com/api/download/models/30127?type=Model&format=SafeTensor&size=full&fp=fp16
+	Marie Itami (Brand New Animal): https://civitai.com/api/download/models/30940?type=Model&format=SafeTensor&size=full&fp=fp16
+	Bea Santello (Night in the Woods): https://civitai.com/api/download/models/31668?type=Model&format=SafeTensor&size=full&fp=fp16
+	Cockatiel: https://civitai.com/api/download/models/11446?type=Model&format=SafeTensor&size=full&fp=fp16
+	Anthro Birds: https://civitai.com/api/download/models/32214?type=Model&format=SafeTensor&size=full&fp=fp16
+	Rito (Species, BotW): https://civitai.com/api/download/models/41394?type=Model&format=SafeTensor
+	Falco (Star Fox): https://civitai.com/api/download/models/42650?type=Model&format=SafeTensor
+	Coco Bandicoot: https://civitai.com/api/download/models/57895?type=Model&format=SafeTensor
+	Elora (Spyro): https://civitai.com/api/download/models/58081?type=Model&format=SafeTensor
+	Zorayas (Elden Ring): https://civitai.com/api/download/models/59321?type=Model&format=SafeTensor
+	Tempest Shadow (MLP): https://civitai.com/api/download/models/62278?type=Model&format=SafeTensor
+	Secretary Bird: https://civitai.com/api/download/models/63229?type=Model&format=SafeTensor
+	Anthro Corvids: https://civitai.com/api/download/models/64462?type=Model&format=SafeTensor
+
+# Cynfall's LoRAs
+
+https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
+
+	Brooklyn (gargoyles) USE Brooklyn (gargoyles)
+	Bathym USE bathym
+    Blaidd USE Blaidd (elden ring)
+    Batzz USE demon lord dragon batzz 
+    Barrel USE barrel (live a hero)
+    Exveemon USE exveemon
+    Death USE death (puss in boots)
+    Dire USE Dire (fortnite)
+    Fox Mccloud USE Fox Mccloud
+    Fenrir USE fenrir (housamo)
+    Garmr USE garmr
+    Freddy USE freddy (dislyte)
+    Guilmon USE guilmon
+    Horkeu kamui USE horkeu kamui (tas)
+    Incineroar USE incineroar
+    Jon talbain USE jon talbain
+    Law USE law (sdorica)
+    Leomon USE leomon
+    Macan USE macan (tas)
+    Maliketh USE Maliketh (elden ring)
+    Meowscles USE meowscles
+    Mountain USE mountain (arknights)
+    Nasus USE nasus (lol)
+    Nimbus USE nimbus (world flipper)
+    Renekton USE renekton
+    Seth USE set (tas)
+    Shirou Ogami USE Shirou ogami
+    Simba USE simba
+    Skavens USE skaven
+    Steel USE steel (balto)
+    Tadatomo USE tadatomo
+    Volibear USE volibear
+    Vortex USE Vortex (helluva boss)
+    Wargreymon USE wargreymon
+    Warwick USE warwick (lol)
+    Weregarurumon USE weregarurumon 
+    Wolf O'Donnell USE Wolf O'Donnell
+
+# Feral on Female
+	https://mega.nz/folder/hbgTWYTa#4rngMt0MEhMAw6D02t-coQ
+
+# Valstrix's Gathering Hub (Monster Hunter and more)
+	https://drive.google.com/drive/folders/1N3QB9oAGJIv4dLNzEIvNQj7LkKrS6_y4
+
+# Slugcats (RainWorld)
+
+From: https://civitai.com/models/94795/slugcats-rainworld-wip
+https://civitai.com/api/download/models/101116?type=Model&format=SafeTensor
+	
+## Assorted Random Stuff
+
+###Artist comparisons
+(Not embedded due to filesize)
+Comparison of Base SD-Artist - Furry artist combos (done on an older furry model, likely YiffAnything)
+	
+	https://files.catbox.moe/fs3blo.jpg
+
+thebigslick/syuro/anchee/raiji/redrusker/burgerkiss/blushbrush Prompt Matrix comparison (done on a Fluffyrock-Crosskemono 70/30 merge)
+	
+	https://mega.nz/file/fw0ggaaQ#nGpCzW7C7u3Q5w7sr15azX7GO8jdSBRTyjqsKriv60A
+
+Vixen in Swimsuit artist examples (Model:  0.3(acidfur_v10) + 0.7(0.5(fluffyrock-576-704-832-960-1088-lion-low-lr-e22-offset-noise-e7) + 0.5(fluffusion_r1_e20_640x_50)) .safetensors) (DL link can be found above)
+
+	https://mega.nz/folder/kPEjUaDB#n-IIguEypQkfnfvig0EH4w
+
+Artist examples using Toriel as an example (0.5 (0.7fluffyrock0.3crosskemono) + 0.5 fluffusion)
+
+	https://mega.nz/folder/vAhT1CjQ#6jDFFA4VDWpZTnrgSeEevQ
+
+Big artist comparison
+
+	https://files.catbox.moe/hi3crm.pdf
+
+EasyFluff Comparisons
+https://rentry.org/easyfluffcomparison/
+
+EasyFluff V11.2 Comparison
+
+	Prompt used:
+	by <artist>,  a nude male anthro coyote standing in the water, mesa, canyon, rocks, sheath, penis tip, balls, partially submerged, (worm's-eye view,:0.9) (hazel eyes:1.1), looking at viewer, tail,
+	BREAK (masterpiece, best quality:1.2),  pinup,
+	Negative prompt: EasyNegative, boring_e621_fluffyrock_v4
+	Steps: 35, Seed: 3945749951, Sampler: DPM++ 2M SDE Karras, CFG scale: 6, Size: 512x768, Batch: 6x1, Parser: Full parser, Model: EasyFluffV11.2, Model hash: 821628644e, VAE: vae-ft-mse-840000-ema-pruned, Backend: Original, Version: 5142b2a, Operations: txt2img; hires; txt2img; hires; txt2img; hires; txt2img; hires, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Hires upscale: 1.5, Hires resize: 0x0, Hires size: 768x1152, Denoising strength: 0.4, Latent sampler: DPM++ 2M SDE Karras, Image CFG scale: 6, Token merging ratio hr: 0.5, Dynamic thresholding enabled: True, Mimic scale: 7, Threshold percentile: 100
+
+	https://files.catbox.moe/yeiuv1.jpg
+
+0.6(fluffyrock-576-704-832-960-1088-lion-low-lr-e209-terminal-snr-e182) + 0.4(furtasticv20_furtasticv20) Comparison
+https://pixeldrain.com/u/xUVfbjdc
+
+	Prompt used:	
+	(by artist:1.3), pupils, eyebrows, turf, walking, (front view), standing, full-length portrait, model sheet,
+	BREAK
+	(white fur, black fur, grey fur, snow leopard:1.3), anthro, solo, male, (muscular:1.0), long tail, (anus, butt), (big balls, ball tuft, (penis), (thick penis), big penis, veiny penis), looking at viewer, seductive, smile,
+	Negative prompt: boring_e621, kemono, young, cub, (hair, neon hair, long hair), female, woman, boobs, girly, (wolf, fox, bear, stripes:1.3), (yellow fur, grey fur, pink fur, blue fur:1.4), canine cock, multiple tails, handpaw, feral, sharp teeth, fangs, tired, black eyelashes, black sclera, (human lips:1.9), vore, simple background, ubbp, bwu, updn, (eyes closed, narrowed eyes), macro, grass, snow, outside,
+	Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2147328661, Size: 704x704, Model hash: 96bf03cefa, Model: 0.6(fluffyrock-576-704-832-960-1088-lion-low-lr-e209-terminal-snr-e182) + 0.4(furtasticv20_furtasticv20),
+
+
+### Different LORA sliders - what do they mean?
+![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
+
+	Flick on the master switch, pick lora from the drop down, drag the slider. Flick the other switch for dual sliders. Speaking very loosely, the top slider and bottom slider affect how much the lora changes the result's shape and coloring.
+
+	Have a demonstration, picrel. Asked for a jackal in a kitchen making pizza on a mixed model (mostly anythingfurry), using a lora to try to make the jackal into a Lucario.
+
+	UNet alone needed a lot of weight, but colors the figure like a Lucario without changing the figure's body much.
+	TEnc alone makes the jackal gain Lucario characteristics without being Lucairo; specifically we see the hips and "shorts" turning into clothing.
+	Both going beyond 1 starts changing the scene, probably applying training data too strongly. Both going negative turned the jackal into a fox and made a mess of features.
+
+###What about samplers?
+![Sampler Examplesv3](https://files.catbox.moe/1xj5bo.png)
+
+    SDE is normally used at lower steps than other samplers.
+    12 steps in SDE have around the same effect as 20 steps in other samplers.
+
+    I mostly tend to use the DPM++ 2m Karras or DPM++ SDE Karras samplers, with 20 or 12 steps respectively for testing and playing around, and 35 and 20 for "serious" (lol) prompting.
+
+    Euler a at 20 steps is also pretty good at prompt testing, and DDIM, from what others in these threads say, is good for fur-looking fur.
+
+    Like any aspect when it comes to SD, there is no rught answer that always works, however.
+
+### Script for comparing models
+>>54395615
+	dropping by from /g/ to drop a random technical guide for comparing the similarity of different models.
+	Script source is https://huggingface.co/JosephusCheung/ASimilarityCalculatior, the documentation for said script however is pretty attrocious, so I made my own.
+
+>Okay, thanks? What am I supposed to do with this?
+	It might be helpful for figuring out if a model is similar enough for a LoRA to still work, it could help with determining if a model is worth merging into a different model, it could help with identifying models that were used in the merging of a different model where the author refuses to share the recipe, etc.
+
+	Anyways, hope it helps someone.
+
+### Wildcards
+
+	Use either the Wildcard or Dynamic prompts extensions!
+	List of wildcards: https://rentry.org/NAIwildcards
+	Dynamic prompts wildcards: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections
+	(Work even without the dynamic prompts extension if you prefer the older one, just grab the .txt files.
+
+### OpenPose Model
+	For use in Blender; allows for posing for use in the ControlNet extension.
+
+	https://toyxyz.gumroad.com/l/ciojz
+
+### "What does ControlNet weight and guidance mean?"
+![ControlNet Weight and Guidance Rate](https://files.catbox.moe/tjy2jq.png)
+
+### Img2Img examples
+![Raw doodle](https://files.catbox.moe/jd6bfp.png) ![Final result](https://files.catbox.moe/ahz9is.png)
+https://imgbox.com/g/tdpJerkXh6
+
+![Newer example showcasing workflow](https://files.catbox.moe/bk6ww7.png)
+
+### E621 Tagger Model for use in WD Tagger
+!!NEW!! Zack3D's tagger model (see below) is quite old by now; Thessalo has made a newer, better model which sadly has not been adapted to WD Tagger and the like just yet.
+Link to the model: https://huggingface.co/Thouph/eva02-clip-vit-large-7704/tree/main
+Batch inference script for use with Thessalo's Tagger model: https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI
+
+Reminder that the prior GitHub repo has been discontinued; delete the extension's folder and install https://github.com/picobyte/stable-diffusion-webui-wd14-tagger instead, which reportedly works even with WebUI 1.6.
+**The patch below seems to NOT BE NEEDED anymore as of Oct 17th 2023 if you are using the picobyte repo. Download only the Convnext V2 model, and place it as described.**
+
+	The WD Tagger extension as-is only generates Danbooru tags, which is great when training on NAI and other anime-based models. For models based on e621, the tags may need to be changed accordingly. For that reason, you can use the following model instead of the WD one.
+![E621 Tagger](https://files.catbox.moe/9mv03e.png)
+
+	Convnext V2: https://pixeldrain.com/u/iNMyyi2w
+	Patched WD1.4: https://cdn.discordapp.com/attachments/1065785788698218526/1067966541699743845/stable-diffusion-webui-wd14-tagger.zip
+	Mirror for Patch: https://pixeldrain.com/u/NA5fvUcJ
+
+	If you encounter problems while using the convnext model, try unchecking "Sort alphabetically" in the extension
+	Older Deepdanbooru Model: https://pixeldrain.com/u/XTcj5GHz
+![Older Deepdanbooru model](https://files.catbox.moe/wenphe.png)
+
+### e621 artist wildcard
+Most modern models were trained on the majority if not all of E621.
+You can grab a .csv containing all e621 tags from https://e621.net/db_export/ and filter for Category 1.
+Here is an artist listing of the entirety of e621, sorted by number of posts (dated mid Oct. 2023): https://files.catbox.moe/mjs8jh.txt
+
+All artists from fluffyrock.csv sorted by number of posts: https://files.catbox.moe/vtch6n.txt
+
+### Upscaler Model Database
+Recommendations are Lollypop and Remacri. Put in models/ESRGAN
+https://upscale.wiki/wiki/Model_Database
+
+### Catbox Script for easier prompt sharing
+[![What it looks like](https://files.catbox.moe/idavtf.png)](https://files.catbox.moe/idavtf.png)
+```This userscript adds functionality to upload to Catbox directly from 4chan, and to view metadata for Stable Diffusion, and now TavernAI, in JPEGs and PNGs.```
+
+https://gist.github.com/catboxanon/ca46eb79ce55e3216aecab49d5c7a3fb
+Follow the instructions in the GitHub to install the userscript.
+
+	IGNORE THE BELOW; catboxanon added /trash/ support on the main repo. Leaving the fork up for anyone that already downloaded it from there, will just maintain it so it is the same as the original from now on.
+	https://gist.github.com/AIDungeonTester2/237d2984b7547a8a9ba02cdf72b0446d
+	Follow the instructions in the GitHub to install the userscript. Forked from the original repository to add support for /trash/.
+
+### LoCon/LoHA Training Script / DAdaptation Guide
+	https://rentry.co/dadaptguide
+
+[![Click me for larger view](https://files.catbox.moe/8cc2wc.png)](https://files.catbox.moe/8cc2wc.png)
+[![Click me for larger view](https://files.catbox.moe/ws1565.png)](https://files.catbox.moe/ws1565.png)
+[![Click me for larger view](https://files.catbox.moe/23uvxw.png)](https://files.catbox.moe/23uvxw.png)
+[![Click me for larger view](https://files.catbox.moe/1lli41.png)](https://files.catbox.moe/1lli41.png)
+[![Click me for larger view](https://files.catbox.moe/44e33j.png)](https://files.catbox.moe/44e33j.png)
+
+Script: files.catbox.moe/tqjl6o.json
+Gallery: imgur.com/a/pIsYk1i
+www.sdcompendium.com
+
+### Script for building a prompt from a lora's metadata tags
+Place into your WebUI base folder. Run with the following command:
+python .\loratags.py .\model\lora\<YOURLORA>.safetensors
+https://pastebin.com/S7XYxZT1
+
+### Example workflows
+Text2Image to Inpaint to SD Upscale Example:
+![Example Workflow](https://files.catbox.moe/ylnaby.jpg)
+
+Using ControlNet to work from sketches:
+>Usually I start with a pretty rough sketch and describe the sketch in the prompt, along with whatever style I want. Then I'll gen until I get one that's the general idea of what I want, then img2img that a few dozen times and pick the best one out of that batch. I'll also look through all the other ones for parts that I like from each. It could be a paw here or a nose there, or even just a particular glint of light I like. I'll composite the best parts together with photoshop and sometimes airbrush in certain things I want, then img2img again. When I get it close enough to the finished product I'll do the final upscale.
+
+>Picrel is a gif of another one I've posted here that shows what these iterations can look like
+
+![Sketch to genned image](https://files.catbox.moe/jgxwnq.gif)
+
+>I use lineart controlnet with no preprocessor (just make sure your sketch is white-lines-on-black-background or use the invert processor.) Turn the control weight down a bit. The rougher the sketch, the lower your control weight should be. Usually around 0.3-0.7 is a good range.
+>Couldn't you theoretically use the lineart preprocessor to turn an image into a sketch, and then make adjustments to it there if you want to add or remove features?
+>Good call, that's exactly what I did with part 3 of the mouse series. Mouse part is mine, the rest is preprocessor.
+
+![Adding sketches to preprocessir](https://files.catbox.moe/pbcd6r.png)

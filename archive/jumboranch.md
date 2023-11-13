@@ -102,9 +102,12 @@ You can reach me for contact at eighttenten@proton.me for questions, logs, or co
 
 ![Bear-Chan](https://files.catbox.moe/o5yyz9.png)
 ***
+->The barber fucked up teenage Mishka's hair, and decided to show off how sharp bear teeth are~<-
 ![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg)
 ***
-![Pretty lil She-Bear fishing!](https://files.catbox.moe/xnnyt1.jpg)
+->Hanging out with one of her many distant cousins, who miiight look up to her a little bit.<-
+!['Cousin' or clone?!](https://files.catbox.moe/4lwtlm.jpg)
 ***
-![More cheeky Mishka cute brat!](https://files.catbox.moe/6mdesk.jpg)
+->Shhh.. Mishka's real hair color isn't white! She dyes it, one of her better kept secrets.<-
+![Other girls forced her to try a 'girlier' hairstyle.](https://files.catbox.moe/cy17vy.jpg)
 ***

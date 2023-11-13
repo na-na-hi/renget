@@ -335,8 +335,8 @@ An example of character lorebook you can study is **[Narua](https://www.chub.ai/
 
 SillyTavern has interesting features unsupported on other frontends:
 
-- By making an entry "Constant" (blue circle) and setting a Trigger %, you can make the entry be inserted a certain % of the time.
-- By setting an entry’s position to @D and setting a depth, you can make the lorebook entry be positioned like a card jailbreak (depth 0) or an author’s note (depth > 0).
+- By making an entry "Constant" (blue circle) and setting a Trigger %, you can make the entry be inserted a certain % of the time. (See [Kiruko](https://www.chub.ai/characters/shoob/kiruko-fe193591) for an example; open the lorebook in ST, not Chub)
+- By setting an entry’s position to @D and setting a depth, you can make the lorebook entry be positioned like a card jailbreak (depth 0) or an author’s note (depth > 0). (See [Impossible To Touch](https://www.chub.ai/characters/knickknack/impossible-to-touch-121314e2) for an example; open the lorebook in ST, not Chub)
 
 “Constant” entries can be simulated in a frontend-agnostic way by setting the keyword to e.g. “the”.
 
@@ -346,6 +346,7 @@ Some lorebook tricks are covered in other sections of this guide:
 
 - [Statistics → Lily and lolo adventure sections (conditional instructions)](https://rentry.org/AdvancedCardWritingTricks#statistics)
 - [Invisible text → The Masquerade (randomized or greeting-specific, context-persistent secret information)](https://rentry.org/AdvancedCardWritingTricks#keeping-track-of-secret-or-internal-information)
+- [Complex multi-stage stories](https://rentry.org/AdvancedCardWritingTricks#complex-multi-stage-stories)
 
 ───── ⋆⋅☆⋅⋆ ─────
 

@@ -874,3 +874,8 @@ Stacy Rosewood | Summary
 ------ | ------
 ![Stacy](https://files.catbox.moe/080qcw.png) | Your coworker agrees to conduct an experiment with you, "How much IQ can be lost during copulation?" A part of you has always disliked just how perfect she is, however now is your time to finally put her in her place and when the night is over you might be left with a very different Stacy from who you usually know.
 Links   | Catbox: https://files.catbox.moe/080qcw.png
+
+Tsuneko | Summary
+------ | ------
+![Neko](https://files.catbox.moe/pd60kf.png) | Your stressed-out boss and girlfriend, in order to try to help her relieve some of that stress you've suggested trying some petplay in order to clear her head. She's never done something like this before so it's your responsibility to treat your new kitten with the utmost care.
+Links   | Catbox: https://files.catbox.moe/pd60kf.png

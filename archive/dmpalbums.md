@@ -1,5 +1,22 @@
 # /g/dmp albums
 
+### 32 Traditional Mongolian Basket Weaving Songs
+![img](https://i.imgur.com/T7x4kiu.jpg)
+Theme: Boardcore: Songs based on the boards from everyones favorite cambodian scrapbooking BBS, released November 12, 2023
+
+YouTube:
+https://www.youtube.com/watch?v=7A3ijVrHDYY&list=PLX-8BeqU7bbxtPsC9Orn48KjYC3IfUj5D
+https://www.youtube.com/watch?v=_PBCW_Hf3WU (full album)  
+Bandcamp:
+https://dmppresents.bandcamp.com/album/32-traditional-mongolian-basket-weaving-songs
+Download FLAC:
+https://www.mediafire.com/file/gx0jdxkhqrdq792/
+Download MP3:
+https://www.mediafire.com/file/t172ldc0x8gzrnj/
+Download WAV:
+https://www.mediafire.com/file/qq8ooem3erfr25f/
+
+
 
 ### Genres Are a Social Construct
 ![img](https://i.imgur.com/nRqrxOh.png)

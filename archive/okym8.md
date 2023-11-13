@@ -118,6 +118,7 @@
 [TOR] Montage (Rebecca Weber, Pax, Emilia Busujima, and minor appearances of Ryu-Kishi, Mirror Devil, The Doctor, Rosethorn, and Mercy): https://rentry.org/rv6ma
 [TOR] The Tournament Continues!: https://rentry.org/yngpn
 [TOR] Faith Kang in: The VIP Box (ft. Anthony Chang): https://rentry.org/4ezcv
+[TOR] The Tournament Part Three!: https://rentry.org/hpe3v
 [ATK] The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D: https://rentry.org/2ngq2
 [SOL] Rosethorn gives another boring generic school thing (Rosethorn, Class 1-D): https://pastebin.com/Ksn0zJ31
 [ILQ] Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru),  Flying Force, Mirror Devil, The Boys, Class-1D): https://rentry.org/v74ss
