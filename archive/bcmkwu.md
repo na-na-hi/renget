@@ -1,4 +1,29 @@
 ▶NEW CLIPS
+>42nd fights off hohol assault groups at Robotown
+https://files.catbox.moe/lrir5t.MP4
+>1487th regiment pummel hohols in Avdeevka with FPV drones
+https://files.catbox.moe/9j9ous.mp4
+>hohol positions in Krynki, Kherson get FABd
+https://files.catbox.moe/50rowj.MP4
+>Hohol armor and combat bicycles get FPV droned
+https://files.catbox.moe/cvclns.mp4
+>TOS-1A Flamethrowers create hell for the hohols at the Krynki, Kherson bridgehead
+https://files.catbox.moe/3v6pz8.mp4
+>hohols unsuccessfully try to run from Russian drone grenades
+https://files.catbox.moe/385yw1.mp4
+>Storm Shadow gets shot down and the debris almost hits camerman
+https://files.catbox.moe/b58hls.MP4
+>"Brave" assault group captures hohol trench near Kremennaya
+https://files.catbox.moe/olt6sv.mp4
+>Sudoplatov FPV drones hit hohol trenches and dugouts
+https://files.catbox.moe/m7icuz.mp4
+>Akhmat & the 4th brigade of the 2AK storm hohol positions near Bakhmut
+https://files.catbox.moe/g1t4du.mp4
+>hohols get fucked up by RU drones near Bakhmut (not comfy)
+https://files.catbox.moe/02c15b.mp4
+https://files.catbox.moe/olzdxn.mp4
+>Soldiers of the 20th send a damaged M113 to its maker
+https://files.catbox.moe/dt3g6r.mp4
 >Hoholina says ukrainian men will have to compete with men around the world for their attention
 https://files.catbox.moe/302hlm.mp4
 >Around 30 AFU demilitarized and denazified soldiers only in 2 videos

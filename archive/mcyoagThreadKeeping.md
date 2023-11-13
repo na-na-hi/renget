@@ -347,8 +347,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
-https://rentry.org/NoctiBecomesA20thCenturyWarlord
+>Tournament Part 3
+https://rentry.org/hpe3v
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -839,6 +839,8 @@ https://rentry.org/6t4giv
 https://rentry.org/4ezcv
 >Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
 https://rentry.org/NoctiBecomesA20thCenturyWarlord
+>Tournament Part 3
+https://rentry.org/hpe3v
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

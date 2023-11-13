@@ -34,3 +34,6 @@
 
 !!!info tooca/lapi
 	![](https://files.catbox.moe/xtlg4y.png)
+
+!!!info booker
+	yeah, i do imagine booker would smell sweet, especially since a ribombee's diet is high in sugar

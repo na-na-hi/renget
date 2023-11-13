@@ -13,7 +13,6 @@ Unnamed Ghosts N Goblins pasta|*Ghosts N Goblins*|[(link)](https://arch.b4k.co/v
 *Pokémon Setting Sun* (WIP)|*Pokémon Sun*|[(link)](https://rentry.org/z7h42t)
 *Shinto*|*Friday Night Funkin' Lullaby*|[(link)](https://rentry.org/shintopasta)
 *PokeParamon.net*|*Pokémon*|[(link)](https://rentry.org/pokeparamon)
-*street fighter: champion of fighters*|*Street Fighter*|[(link)](https://docs.google.com/document/d/117mDKk0rdETONdVOxxoDmDejhPmvLZND5GZc_NRYoeI/edit)
 Unnamed Undertale pasta|*Undertale*|[(link)](https://arch.b4k.co/vg/thread/418715034/#418828296)
 *Wario Land 4: Fool's Demise*|*Wario Land 4*|[(link)](https://rentry.org/foolsdemise)
 *Weird 3DS Mario Mod*|*Super Mario 3D Land*|[(link)](https://rentry.org/weird3dsmario)
@@ -164,3 +163,5 @@ Title|Link
 *Chester Cheeta N64 Trollpasta*|[(link)](https://archive.4plebs.org/x/thread/35215590/#q35215846)
 *Nigker*|[(link)](https://arch.b4k.co/vg/thread/444971476/#445032027)
 Unnamed Mario Party DS pasta|[(link)](https://rentry.org/5hs3en)
+*street fighter: champion of fighters*|[(link)](https://docs.google.com/document/d/117mDKk0rdETONdVOxxoDmDejhPmvLZND5GZc_NRYoeI/edit)
+*Spoiled.dll*|[(edited)](https://rentry.org/spoileddllrewriterewrite), [(original)](https://rentry.org/spoileddllrewrite)

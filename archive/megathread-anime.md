@@ -23,6 +23,18 @@
 
 &nbsp;
 
+# 📑 ➜ Archive of Knowledge
+
+### 📒 [AniDB](https://anidb.net/)
+- Remarkable not-for-profit anime database, offers you a wealth of information on the latest releases and much more.
+- [URL Safety Results](https://www.urlvoid.com/scan/anidb.net/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 ➜ Direct Downloads
 
 ### 🔗 [Anime Time](https://www.animetime.pw/)

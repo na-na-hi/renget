@@ -809,14 +809,14 @@ New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> Shiori <- (JP Release Date: Year 6, November)
-Kasumi was great in arena before and just gets better with this 6*. 
-- UB+: TBD
-- CB:  TBD
-- Arena: TBD
-- PvE: TBD
-- TBD
+She's finally got hope, but how often will she realistically get to UB?
+- UB+: Increased damage dealt, increased perma P.Atk buff. New effects include two separate damage calculations on UB+, each of which now debuff.
+- CB: If there is somewhere that Shiori should be seen, it would be CB. Having a backliner that can pump out  consistent damage, debuffing and buffing self while having a lot of TP restoration to self means that Shiori will be able to UB more often than most other backline physical units. She'll most likely see usage against single target bosses, but it'll be completely about her UB landing every few actions. Other units can help her with the less than stellar P.Crit stats, but there are quite a few units to help support her in this department. 
+- Arena: Probably not worth it, she's pure damage and not terribly tanky. Not going to eat hits and dish out damage, more likely to simply explode.
+- PvE: See above.
+- Archers are notorious for being shit, especially because of buff ranges. However, there is a certain boss in November that could mean we see Shiori do well. Other than that, it really becomes a question of how unusable the likes of Christina/Muimi/Djeeta and other frontline units become against certain bosses. in the future. When that does happen, Shiori will be a good consideration for comps. With quite a few nodes, is not terribly difficult to farm the shards for her.
 
 Bond story priority: Luxury (Relevant units: None)
-Max level Unit priority:  
-New player Unit priority: 
+Max level Unit priority:  High
+New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)

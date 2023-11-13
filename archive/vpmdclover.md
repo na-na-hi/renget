@@ -32,14 +32,14 @@ Stumpy | M | Shroomish | N/A | Clover Guild Native Member | [???](https://rentry
 ??? | M | Tropius | N/A | Clover Guild Member | [Quirky/Serious](https://rentry.org/vpmdcloverpb#tropius)
 Nida | F | Nidorina | Poochyena (Pochi, M, Naive/Relaxed, Native) | Clover Guild Native Member | [Gentle/Calm](https://rentry.org/vpmdcloverpb#nidapochi)
 Topa | M | Sableye | Hydreigon (Hendrix, M, Native) | Clover Guild Native Member | [???](https://rentry.org/vpmdcloverpb#topahendrix)
-Cheesecake | M | Wooper | Politoed (Apple, F, Timid),  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
+Cheesecake | M | Wooper | Politoed (Apple, F, Timid) &  Corphish (Etouffee, M, Hasty/Rash) | Clover Guild Member | [Relaxed](https://rentry.org/vpmdcloverpb#cheesecakeapple)
 Makky | M | Makuhita | Meditite (Asana, F, Haughty, Native) | Clover Guild Member | [Energetic](https://rentry.org/vpmdcloverpb#makkyasana)
 Nine | M | Ninetales | Persian (Luka, M, Native) | Clover Guild Member(?) | [???](https://rentry.org/vpmdcloverpb#ninetalesluka)
 Maxi | M | Trubbish | Joltik (Maddi, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#maximaddi)
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
 Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
-Adrian | M | Umbreon | N/A | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrian)
+Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrian)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
@@ -237,6 +237,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
 * Adrian the Umbreon
 	* [Adrian Origin](https://pastebin.com/tLSf0AN5)
+	* [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1) *Not on Table*
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -643,6 +644,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7)
 * {||} [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
 * {||} [The New Celeb of Sahara Town ch.5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5)
+* {||} [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

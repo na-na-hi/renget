@@ -54,6 +54,14 @@ Unnamed Undertale pasta|Undertale|[(link)](https://arch.b4k.co/vg/thread/4187150
 *Super Mario Brothers 3: The Encore*|Super Mario Bros. 3|[(link)](https://rentry.org/smb3encore)
 *Kirby's Anomaly* (WIP)|Kirby's Adventure|[(link)](https://rentry.org/KirbysAnomaly)
 *Mario Paint Time Capsule*|Mario Paint|[(link)](https://rentry.org/mptc)
+*Skinned State*|*Super Mario 64*|[(link)](https://rentry.org/skinnedstate)
+*Goosebumps: The Masked Mutant's Devastation*|*Goosebumps: Attack of the Mutant*|[(link)](https://rentry.org/maskedmutant)
+*Walking Specimen*|*Elden Ring*|[(link)](https://rentry.org/walkingspecimen)
+Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*, various others|[(part 1)](https://rentry.org/ewq95), [(part 2)](https://rentry.org/7v3xn)
+*Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
+*New Record*|*Mario Kart 64*|[(link)](https://rentry.org/qg9ky)
+*Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)
+*Ananke* (WIP)|Original|[(original)](https://rentry.org/yqwwz), [(edited)](https://rentry.org/3x9akw)
 
 ##.exe pastas
 Title|Link
@@ -83,6 +91,13 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
+*Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
+*Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
+*Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
+*Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
+*A Dame's Great Scoop* (Mario.exe)|[(link)](https://rentry.org/adamesgreatscoop)
+*Subjugation* (Sonic.exe)|[(link)](https://rentry.org/ye5n2)
+*ORBOT'S ARCHIVAL* (Sonic.exe)|[(link)](https://rentry.org/orbotsarchival)
 
 ##Rewrites
 Title|Link
@@ -120,6 +135,10 @@ Metanon's rewrites|[(Curse)](https://rentry.org/o6sxz), [(Lovely)](https://rentr
 *THE START OF A DARKER SUNSHINE* (Sonic2.exe)|[(link)](https://rentry.org/sonic2exereimagined)
 *SM64DS 09.11.03* (C-N64)|[(link)](https://rentry.org/091103)
 *Travel with Me* (Mr Virtual)|[(link)](https://rentry.org/travelwithme)
+*Metallic Frenzy* (Karrie) (WIP)|[(link)](https://rentry.org/metallicfrenzy)
+*SPEEDY HOG 7* (Hog)|[(link)](https://rentry.org/spho7hedge)
+*Satanos* (WIP)|[(link 1)](https://rentry.org/hiqzp), [(link 2)](https://rentry.org/egts6)
+*DLL Rewrite Rewrite* |[(link)](https://rentry.org/spoileddllrewriterewrite)
 
 ##Shitpastas
 Title|Link
@@ -137,7 +156,5 @@ Title|Link
 *LETS GO HUNTING FOR SHADOWS*|[(link)](https://rentry.org/9g4vr)
 *Nostalgia Critic Shitpasta*|[(link)](https://arch.b4k.co/vg/thread/430926869/#431001036)
 *Chester Cheeta N64 Trollpasta*|[(link)](https://archive.4plebs.org/x/thread/35215590/#q35215846)
-
-I have the edit codes hi!
-
-![It's a me, a mario](https://files.catbox.moe/6vckrs.png)
+*Nigker*|[(link)](https://arch.b4k.co/vg/thread/444971476/#445032027)
+Unnamed Mario Party DS pasta|[(link)](https://rentry.org/5hs3en)
