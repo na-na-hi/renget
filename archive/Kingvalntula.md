@@ -37,3 +37,4 @@ Image| Name | Description | Link | Based on
 
 ***
 I have 2 chub accounts cause I forgot the password to my first one
+based on [this template](https://rentry.org/botmaker_template/edit) made by [Darkfantasy](https://rentry.org/Darkfantasy109)

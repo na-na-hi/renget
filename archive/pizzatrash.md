@@ -1,19 +1,16 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/60406900
-Latest Aggie: https://aggie.io/zxavvl7bj8
+Latest thread: https://boards.4chan.org/trash/thread/60840099
+Latest Aggie: https://aggie.io/4o2z65ipfy
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
 #####MEGA
-
+https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
 https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I Deservioli 🍕
-https://mega.nz/file/7mYASSQI#gD6UxAkxIPMylLAxJmZGSoMekkHCvXHF_SVgV1_zoOQ Pizza.Tower.v1.0.3.rar
-https://mega.nz/file/bFhQ0LLa#ga3tVIL1c07uXWmzZD9QbWYFsulLIirjKL_sdINmcxU PizzaTower_GM2CLEANSED.yyz
-https://mega.nz/file/vRQDkCaC#BdDHebvKasQaBiaHhniN8S4uVkm8q71p27-AIrgi73A i am jerking off.nsp
 https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
 https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
-https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
+
 
 #####Threads
 
@@ -75,6 +72,8 @@ https://desuarchive.org/trash/thread/59869297 /pizzatrash/ 56
 https://desuarchive.org/trash/thread/60017461 /pizzatrash/ 57
 https://desuarchive.org/trash/thread/60219415 /pizzatrash/ 58
 https://desuarchive.org/trash/thread/60406900 /pizzatrash/ 59
+https://desuarchive.org/trash/thread/60611109 /pizzatrash/ 60
+https://desuarchive.org/trash/thread/60840099 /pizzatrash/ 61
 
 #####Aggie
 
@@ -124,3 +123,7 @@ https://aggie.io/e7zfbi0sno /pizzatrash/ Aggie #33: St. Louis-Style Edition
 https://aggie.io/zxavvl7bj8 /pizzatrash/ Aggie #34: Al Taglio Edition
 https://aggie.io/mixzodcbap /pizzatrash/ Aggie #35: Detroit-Style Edition
 https://aggie.io/czifsvkubg /pizzatrash/ Aggie #36: Friday the 13th Edition
+https://aggie.io/phxxndic6q /pizzatrash/ Aggie #37: Stomboli Edition
+https://aggie.io/1rovl1i68e /pizzatrash/ Aggie #38: SCARED SHITLESS!
+https://aggie.io/dnuhnyuhij /pizzatrash/ Aggie #39: NNN Edition
+https://aggie.io/4o2z65ipfy /pizzatrash/ Aggie #40: Caprese Edition

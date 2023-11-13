@@ -78,7 +78,7 @@ What am I trying to achieve with `GPT-AP-4+` version right now (will be released
 ☑️ 15. Maximize characterization while adhering to their established descriptions. | 
 ☑️ 16. The AI should be encouraged to generate additional contexts independently from user's input. | 
 
-> **Comment on the Progress Map:** All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to share it with me and I'll attempt to incorporate it.
+> **Comment on the Progress Map:** All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to [DM me](https://img2.reactor.cc/pics/post/MissIcyArt-Anime-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Neco-Arc-8008185.jpeg) and I'll attempt to incorporate it.
 ######
 - - -
 ##### Will You Enjoy These Prompts?

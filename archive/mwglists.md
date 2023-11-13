@@ -41,6 +41,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Israeli President says mein kampf "found" in a childrens living room justifies killing of Palestinian kids
 * 44 yo commercial pilot takes magic mushrooms, asks "am I dead?" then attempts to stop engines midflight
 * Makhachkala Airport in southern Russia's Republic of Dagestan hosting a spontanous pogrom
 * All female spacewalk on ISS results in second lost tool bag in orbit, again.

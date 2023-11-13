@@ -545,3 +545,7 @@ files.catbox.moe/1d65zi.mp4
 files.catbox.moe/aghxbi.mp4 
 files.catbox.moe/0ihzo4.MP4
 files.catbox.moe/crgkzu.mp4
+>Hamas tiktok edit (ADDED NOV 12th)
+https://files.catbox.moe/9s7szz.mp4
+>Hamas 007 smooth paragliding operator (ADDED NOV 12th)
+https://files.catbox.moe/u2r4nv.webm
