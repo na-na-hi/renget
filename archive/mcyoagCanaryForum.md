@@ -1,1 +1,1 @@
-We're all dead. Come back later.
+niggers tongue my anus

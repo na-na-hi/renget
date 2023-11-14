@@ -34,7 +34,7 @@
 💩 1377x | 1377x-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 KickassTorrents | kickasstorrents-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 The Pirate Bay | thepiratebay-org | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
-💩 TheRarBg | therarbg-com ◘ therarbg-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+💩 TheRarBg | therarbg-com / therarbg-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
 
@@ -46,8 +46,8 @@ The Pirate Bay | thepiratebay-org | **Unethical conduct**: (*Terrible regulation
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 :---- | :---- | :----
-AniMixPlay | animixplay-city ◘ animixplay-best ◘ animixplay-fun ◘ animixplay-solutions ◘ animixplay-name ◘ animixplay-tube ◘ animixplay-watch ◘ animixplay-movie  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
-Zoro | zorox-to ◘ zoro-se ◘ zoroanime-se ◘ zoro-tv-site ◘ zoro-uno ◘ zoroto-online ◘ zoroanime-org ◘ zoroo-net ◘ zoro-com-de ◘ zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+AniMixPlay | animixplay-city / animixplay-best / animixplay-fun / animixplay-solutions / animixplay-name / animixplay-tube / animixplay-watch / animixplay-movie  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+Zoro | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
 
@@ -101,8 +101,11 @@ YTS | yts-mx | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspec
 Get Into PC | getintopc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 Karan PC | karanpc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 Portable4PC | portable4pc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
-SadeemPC | sadeempc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 S0ft4PC | s0ft4pc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+SadeemPC | sadeempc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+Sample Drive | sampledrive-in | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+VFXdownload | vfxdownload-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+VFXDownloads | vfxdownloads-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;
 

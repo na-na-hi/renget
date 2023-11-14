@@ -12,15 +12,19 @@ https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
 https://www.youtube.com/watch?v=w1utY0z9g00
 https://www.youtube.com/watch?v=qVY5qmQVrMo
 
+\>Huohuo Trailer — "Night of Thrills" 
+https://www.youtube.com/watch?v=ZK8qfeSOUv4
+https://www.youtube.com/watch?v=FOVHylL_zW8
+
 \>Myriad Celestia Trailer — "An Exorcism at Fyxestroll Garden"
 https://www.youtube.com/watch?v=ysyo7uNTvfs
 https://www.youtube.com/watch?v=bMqzzG9CXq0
 
-\>Current Character Banner (Sunset Clause, Butterfly on Swordtip || Topaz, Seele + Guinaifen, Luka, Sushang)
-https://www.hoyolab.com/article/22556268
+\>Current Character Banner (Bloom in Gloom || Huohuo (Abundance: Wind) + Dan Heng, Arlan, Serval)
+https://www.hoyolab.com/article/22976557
 
-\>Current Light Cone Banner (Brilliant Fixation, Bygone Reminiscence || Worrisome, Blissful (The Hunt), In the Night (The Hunt))
-https://www.hoyolab.com/article/22556289
+\>Current Light Cone Banner (Brilliant Fixation || Night of Fright (Abundance))
+https://www.hoyolab.com/article/22976611
 
 \>New Drip Marketing:
 \>"Extraterrestrial Satellite Communication" Ruan Mei (5\* Ice Harmony)

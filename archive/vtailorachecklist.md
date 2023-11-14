@@ -2,8 +2,10 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/12/23)
-	**Added Pixela Project 'Pixela Fantasy' members**
+!!! warning Quick Update (11/14/23)
+	**Added Atelier Live, V-Dere, MariNasu, MeltyPlus and OTAHOO Project**
+	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
+	**Updated a few placements**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -152,11 +154,13 @@ Hinata Mashu | - | - | -
 
 ## -> EIEN <-
 !!! info Available Loras without the need of updates and have been tested.
-	Riifu Evergreen, Kilia Kurayami, Skye Shinryu
+	Riifu Evergreen, Kilia Kurayami (current), Skye Shinryu (v1)
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Kiki Lockheart | X | X | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Kiki Lockheart | X | X | X | V2 Testing
+Kilia Kurayami | X | - | X | V2 Testing (Current lora is fine but might as well you know?)
+Skye Shinryu | X | - | X | V2 Testing 
 Zumi Dokumi | - | - | -
 Mirri Saffire | - | - | -
 Blaise Shinryu | - | - | -
@@ -720,7 +724,7 @@ Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -
 HORI 07 | - | - | -
 
-## -> KoMETA <-
+## -> KoMETA (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -811,7 +815,7 @@ Utakata Memory | - | - | -
 Nekonogi Bell | - | - | -
 Chrono Lock | - | - | -
 
-## -> Upd8 <-
+## -> Upd8 (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Oda Nobuhime
 
@@ -860,7 +864,7 @@ Pua Himawari | - | - | -
 Milliardo Beercraft | - | - | -
 Sorin Sorrel | - | - | -
 
-## -> PITAPAT <-
+## -> PITAPAT (Defunct) <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
@@ -1091,6 +1095,26 @@ Benikaba Sakura | - | - | -
 Chitose Moe | - | - | -
 Amairo Marina | - | - | -
 
+## -> OTAHOO Project <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Ywuria | - | - | -
+Gira Makoto | - | - | -
+Anneru Nekogami | - | - | -
+Katsumi Shiori | - | - | -
+Hano Hirai | - | - | -
+Yana Shitachi | - | - | -
+Akanari Matoi | - | - | -
+Inoue Kye | - | - | -
+Sumiko Hayashi | - | - | -
+Pan | - | - | -
+Sakura Yumekawa | - | - | -
+Erian Osamu | - | - | -
+Daychu | - | - | -
+
 ## -> Project Yoru <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
@@ -1195,6 +1219,16 @@ Izanami Mikoto | - | - | -
 Tsukiyo Miho | - | - | -
 Arane Hannya | - | - | -
 
+## -> MeltyPlus (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Kamashiro Natsume | - | - | -
+Hanamori Healthy | - | - | -
+Hourei Tenten | - | - | -
+
 ## -> Project F <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
@@ -1220,6 +1254,25 @@ Indira Naylarissa | - | - | -
 Silvia Valleria | - | - | -
 Ymelia Meiru | - | - | -
 Yuura Yozakura | - | - | -
+
+## -> Atelier Live <-
+!!! info Available Loras without the need of updates and have been tested.
+	Artemis of the Blue
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Chai | - | - | -
+Nana Nanatsuki | - | - | -
+Tsubaki Sinensis | - | - | -
+Himey | - | - | -
+Rosuuri | - | - | -
+Mari the Hybrid | - | - | -
+Europa | - | - | -
+Klaeia | - | - | -
+Kanizawa Kani | - | - | -
+Kuzuryu Io | - | - | -
+Anya Pandaria | - | - | -
+Yamane Chiika | - | - | -
 
 ## -> AuroraLiveVR <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1296,6 +1349,17 @@ Casino Usagi | - | - | -
 Noujiru Tagiru | - | - | -
 Ebisu Touka | - | - | -
 
+## -> MariNasu <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Kaname Mahiro | - | - | -
+Toma Rin | - | - | -
+Otonoha Naho | - | - | -
+Suzuna Subaru | - | - | -
+
 ## -> Virtuality Project <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
@@ -1358,6 +1422,16 @@ X'Flare | - | - | -
 BΣretta X'Rain | - | - | -
 Lamuril Ragna X' | - | - | -
 
+## -> V-Dere <-
+!!! info Available Loras without the need of updates and have been tested.
+	Elia Stellaria
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Airi Viridis | - | - | -
+Mozumi Pichi | X | X | -
+Kirispica | - | - | -
+
 ## -> NHOT BOT <-
 !!! info Available Loras without the need of updates and have been tested.
 	Kagura Mea, Hiseki Erio,
@@ -1388,9 +1462,9 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
-Mozumi Pichi | X | X | - | Really needs a new one after full debut
 Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
 Towa Rui | X | - | X | -
+Ace Taffy | X | - | X | ???
 Kirsche Verstahl | X | - | X | -
 Eira Woolcott | X | - | X | -
