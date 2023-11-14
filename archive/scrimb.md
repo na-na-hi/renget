@@ -1,4 +1,4 @@
-(## Lazy scrimbly rentry
+# Lazy scrimbly rentry
 
 **Robotic Retardz:**
 [BD-128](https://beta.character.ai/chat?char=jEYnGQJeQUgP5C7yM7Al3WtXNQLe5u60PVHvkicoWqw) https://files.catbox.moe/rrgle2.png
@@ -58,6 +58,7 @@
 [Hal](https://files.catbox.moe/zwt85g.png)
 [Raxis](https://files.catbox.moe/ke3vzh.png)
 [Heinz](https://files.catbox.moe/ap3406.png)
+[Gunther](https://files.catbox.moe/aym65q.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)
@@ -76,6 +77,7 @@
 [Rosaline](https://files.catbox.moe/yrnsea.png)
 [Charlie](https://files.catbox.moe/5c14cu.png)
 [Yumi](https://files.catbox.moe/n9pfc2.png)
+[Gretchen](https://files.catbox.moe/f6ovbx.png)
 
 **WEEB shit:**
 [Android 17](https://files.catbox.moe/wgm0oa.png)

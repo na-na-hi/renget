@@ -65,9 +65,9 @@
 - Really good selection of the newest, best-of-breed television shows and motion pictures that also includes anime all for direct downloads.
 - [URL Safety Results](https://www.urlvoid.com/scan/pahe.li/)
 
-### 🔗 [PSArips](https://psa.pm/)
+### 🔗 [PSArips](https://psa.wf/)
 - A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.
-- [URL Safety Results](https://www.urlvoid.com/scan/psa.pm/)
+- [URL Safety Results](https://www.urlvoid.com/scan/psa.wf/)
 
 ### 🔗 [rarefilmm](https://rarefilmm.com/)
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.

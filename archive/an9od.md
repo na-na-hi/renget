@@ -42,7 +42,7 @@ Linoone offered a salute to both Pokémons before he disappeared up stairs to th
 ---
 Suggested BGM : https://www.youtube.com/watch?v=0hTf0BVAiQU
  
- 
+
 
 ->CLOVER GUILD PRESENTS<-
  
@@ -54,7 +54,7 @@ Suggested BGM : https://www.youtube.com/watch?v=0hTf0BVAiQU
 
 ->GRASS CONTINENT, CAPIM TOWN, LLIAM’S OFFICE<-
  
- 
+  ![Scene](https://cloverguild.com/booru/data/posts/736_ab724cd9e8602d48.png)
 
 Solid Linoone closed the large double doors behind him as he entered the Guildmaster’s office. It was evening, so the room was dimly lit, save for the soft fire light of some suspended lanterns that Lliam recently ignited. The silhouette of a Meowstic was seated behind a large desk with stacks of documents scattered all over it. Linoone’s figure, slightly illuminated by the lanterns' flames, stood upright in front of Lliam in the middle of the room with his front paws behind his back, similar to a soldier in resting position.
 

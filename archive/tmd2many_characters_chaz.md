@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 8 | **Experience to Next Level:** 55/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 420₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 320₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -72,7 +72,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed | Tier **2** | 4/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Speed | Tier **2** | 7/9 | ▮▮▮▮▮▮▮▯▯
 
 
 **INVENTORY (4 slots)**
@@ -83,7 +83,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
-2. ~~Oran Berry~~ | ~~Heals the user for 10HP.~~
+2. Oran Berry | Heals the user for 10HP.
 3. Bread | Food item.
 4. TM124 Fling | Teaches move Fling.
 
