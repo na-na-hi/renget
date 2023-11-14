@@ -72,17 +72,20 @@ Takes around 40 seconds with the gradio script after the first gen, at 70 sampli
 #### The master test
 ```python 
 import torch
-torch.cuda.is_available()
-print(torch.tensor([1., 2.], device='cuda'))
+print(torch.cuda.is_available())
+a = torch.tensor([1., 2.], device='cuda')
+b = torch.tensor([3., 4.], device='cuda')
+print(a + b)
 ```
-If ROCm supports your GPU and everything is working fine, you should see the following output:
+If ROCm supports your GPU and everything is working fine, you should see the following output or similar:
 ```
 True
-tensor([1., 2.], device='cuda:0')
+tensor([4., 6.], device='cuda:0')
 ```
 Now, this can fail in multiple ways (perhaps even more, these are documented as of now):
 - **Outputs False on the first line, throws an exception on the second**: Either ROCm or the ROCm-compatible PyTorch wasn't installed correctly.
 - **hipErrorNoBinaryForGpu**: compile PyTorch from source. See below
+- **Segmentation fault (core dumped)** - Uh oh. TODO documentation
 6.) Running `python scripts/txt2img.py` or any of the other scripts depending on your vram should now work and use the gpu.
 
 ## Building PyTorch from source

@@ -21,7 +21,7 @@ https://files.catbox.moe/b50my0.png
 Cultell
 Vorarephilia Hikkikomoro goblin who's decided to make {{user}} her home.
 Tags: Forced vore, forced endosoma, feet, lustful & slothful, uncouth & shy. 
-https://files.catbox.moe/6j2eat.png
+https://files.catbox.moe/lh3a23.png
 
 Din Ma
 OC (Totally not inspired by anyone plz do not shame.)

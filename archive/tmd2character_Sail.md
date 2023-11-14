@@ -65,7 +65,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Star Charting | Tier ɪɪɪ (+3) | 1/3 | ▮▯▯
+Training for Attribute: Star Charting | Tier ɪɪɪ (+3) | 2/3 | ▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -73,8 +73,8 @@ Training for Attribute: Star Charting | Tier ɪɪɪ (+3) | 1/3 | ▮▯▯
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
-*Equipped Item: N/A* | Vacant hand slot.
-1. Oran Leaf | Heals the user for 3HP. Can stack to 3.
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
+1. N/A | 
 2. Blast Seed | Explodes on contact for 10 true damage.
 3. Heal Seed | 	Cures all status conditions.
 4. N/A	| 
@@ -84,7 +84,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Oran Berry |  Heals the user for 10HP.
+1. Oran Leaf |  Heals the user for 3HP. Can stack to 3.
 2. Royal Gummi | Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

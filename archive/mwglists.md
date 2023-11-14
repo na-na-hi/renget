@@ -7,30 +7,34 @@ The anons of /MWG/ who also do contain honorable anons from the above organizati
 https://en.wikipedia.org/wiki/State-sponsored_Internet_propaganda
 
 # Archive
-Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matter my own personal preference. Infographics, movies, reactions, duplicates and non related are removed, pngs are converted to jpg. *(links may go down, more will come.)*
+Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matter my own personal preference. *(links may go down, more will come.)*
+
+Removals : Images that depict child pornography, personally identifiable information or copyrighted material not permitted under fair use doctrine are removed. Infographics, movies, reactions, duplicates and non related are removed, pngs are converted to jpg. Specific image removal requests can be submitted in any /mwg/ thread.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived.moe.
 
 - September Archive - 250 MB - 1,500 images
-- https://anonymfile.com/OxdQ/mwg-archive-23-09-sept.zip
+- https://pixeldrain.com/u/A6Kik3zt
 
 - October Archives
 - Week 1 - 3.6 GB - 20,500 images
-- https://anonymfile.com/Kd7g/mwg-archive-23-10-oct-wk1.zip
+- https://pixeldrain.com/u/NoG59dun
 - Week 2 - 1.6 GB - 9,300 images
-- https://anonymfile.com/rrA4/mwg-archive-23-10-oct-wk2.zip
+- https://pixeldrain.com/u/qgWvZ1dZ
 - Week 3 - 1.6 GB - 8,500 images
-- https://anonymfile.com/JVYX/mwg-archive-23-10-oct-wk3.zip
+- https://pixeldrain.com/u/Kp2Vjb91
 - Week 4 - coming soon
 
 4chan_AI_Terror on twatter has been uploading /mwg/ memes.  Until the October archives are fully up, I have an archive of his memes below.
 
 - 4chan_AI_Terror archive - 650 MB - 3,500 images - Mostly from the first week of Nov and last 2 weeks of Oct.
-- https://anonymfile.com/06kb/4chan-ai-terror-to-7-nov-4pm.zip
+- https://pixeldrain.com/u/XC5GtQWi
 
 As an additional academical and educational archival resource, here is the Handbook of Hate Memes.
 *We have this book thanks to the St Lucas School of Arts in Antwerp, the European Observatory of Online Hate (EOOH) and the European Union for co-funding this project.*
-- https://anonymfile.com/OLAX/eooh-h-o-h-memes.pdf
+- https://pixeldrain.com/u/YDsAiaca
 
 *( Disclaimer; These images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
+
+> Under the Microsoft Services Agreement, all meme Content created with bing are owned by the poster that used bing to generate them and then posted them in a /mwg/ thread, and remains their responsibility.  By posting these bing generated meme Content on /mwg/ they granted any other user permission on a "worldwide basis, to use, save, record, reproduce, broadcast, transmit, share and display" their meme Content. By doing so, the poster represents and warrants that for the duration of posting they have all the rights necessary for Your Content that is uploaded, stored or shared and that the collection, use and retention of the posters meme Content won't violate any law or rights of others.
 
 # Ideas
 For these /MWG/ anons who may be experiencing temporary non-inspiration or wish to have more ideas for memes to generate, here is a list.  The challenge here is how to translate these ideas/events into a single picture, while being funny, incisive and damning.

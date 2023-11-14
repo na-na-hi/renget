@@ -696,4 +696,43 @@ Dear god. With how rabid irl KPOP fans are I can’t even begin to imagine what 
 
 >pictures of his fans spread-assholes begging him to “breed” them
 He should go all "artsy" and make an album cover where it is nothing but a collage of all the pictures of his fans' spread holes all together to form a picture of himself.
+
+---
+Hot Knot by anonymous
+
+Had a semi-internet related greentext I wrote for /awoo/ that might fit better here
+
+>"Anon! Hey Anon!"
+>oh god
+>here comes my wolf roommate, and I mentally prepare myself for whatever psychic damage I know he's about to inflict upon me
+>wherever he gets this excited over something it's never good
+>I turn my head from the brainless tv program I was vegging out to and my worst fears are confirmed
+>First, my roommate was wasted. As I could infer from the nigh empty bottle of bourbon in his hand
+>or well, that's how I would usually tell if he wasn't the level of 'fucked up' that comes with its own aura. I'd smelled the alcohol long before I looked at him
+>Second, he was stark naked. only a backwards baseball cap sat atop my roomies head, with ear holes cut out for his canine features
+>Third, and the most egregious in my eyes. He was painfully erect
+>so erect that I was pulled back from the bizarre situation as the errant thought crossed my mind of how long he must have been prepping himself around the corner to show me this
+>and what was 'this'?
+>my roommate cradles his knotted cock in between a hotdog bun, a bottle of ketchup in the other hand
+>"Hey, hey! Wanna hotdog?" he spouts enthusiastically, before hovering the ketchup over his dick
+>the bottle lets out the saddest puttering noise I've ever heard as my roommate squeezes the condiment over himself
+>the mixture is watery at first, clearly not having been shaken, before a sloppy torrent of red ejects from the bottle and coats his member
+>Cyprus himself would be in awe at my stoicism as I watch my roommate spatter heinz 57 all over his cock and balls, his drunkenness not lending itself well to accuracy
+>the only noise that fills the room is the quiet drone of the tv and the intermittent sputtering of the poor condiment bottle
+>"Eh? eh!? get it?" my roommate gestures at his dick
+>The bun is no longer visible under the soggy pile of ketchup on his crotch
+>I close my eyes and inhale deeply
+>new social media trend blowing up across anthro centric platforms
+>the act of wolves and various canids 'raw dogging' their friends
+>can be properly done to any non-canine anthro but is seen most frequently done to humans, and of course it's recorded for their reaction
+>would be inconsequential enough to you
+>except you unfortunately know the most popular 'influencer' in on the trend
+>your roommate
+>ever since his videos started hitting tens of thousands of likes and reshares, your life has turned into a hotdog themed hell
+>can't even look at hotdogs or sausage the same way anymore
+>walking down the condiment isle in the store gives you borderline PTSD attacks
+>all because some fuckin' lonely anthros love watching you blow up on your roommate
+>comments left on your roommates videos constantly calling you cute and professing their desire to see you 'eat' the hotdog
+>if your roommate insists on reading one more lurid fanfic esque comment about you and him to your face you're gonna start having to pay him back for it somehow
+
 ---

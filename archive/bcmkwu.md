@@ -1,4 +1,24 @@
 ▶NEW CLIPS
+>machine gunner distracts hohol tank, then it gets blown up by a Russian one
+https://files.catbox.moe/qgs2iz.MP4
+>40 neo-nazi larpers denazified by TOS-1A barrage at Krynki
+https://files.catbox.moe/vwsoxj.mp4
+>Bakhmut 2.0: Avdeevka in ruins
+https://files.catbox.moe/apg71e.MP4
+>mortally-wounded hohol begs comrade for help, he tells him to fuck off
+https://files.catbox.moe/3f8qfn.mp4
+>Testing new remote-controlled Kornet system in the Zaporozhye area
+https://files.catbox.moe/e3lr18.MP4
+>BOBR song (with subtitles)
+https://files.catbox.moe/sn9ifi.mp4
+>hohol TV openly wants zaluzhny to replace zelensky
+https://files.catbox.moe/wdf4xo.mp4
+>new remote sentry gun by Lobaev Arms
+https://files.catbox.moe/ga3fed.mp4
+>cargo ship in Odessa hit by KH-31P Anti-Radiation Missile
+https://files.catbox.moe/fn1ntr.mp4
+>Siberian FPV crew wrecks hohols
+https://files.catbox.moe/2aoivw.mp4
 >42nd fights off hohol assault groups at Robotown
 https://files.catbox.moe/lrir5t.MP4
 >1487th regiment pummel hohols in Avdeevka with FPV drones
