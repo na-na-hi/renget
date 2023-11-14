@@ -26,6 +26,9 @@ you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth a
 * [Guides](https://rentry.org/sdhassan#random-guides)
 
 Changelog:
+
+- `Nov 11th - 2023` - 
+	-[Added Patreon release for Mobile Detection model)](https://rentry.org/sdhassan#patreon-posts)
 - `Sep 14th - 2023` - 	
 	- [Added release update for SDXL NSFW model)](https://rentry.org/sdhassan#SDXL-finetuning)
 - `Sep 14th - 2023` - 	
@@ -170,17 +173,10 @@ There will still be public releases but the content will be different for public
 
 ## Recent Patreon releases
 
-# New Hassan Fantasy Style Model released to Patreon early access: 
-[Post here with instructions](https://www.patreon.com/posts/79976271)
-[Sample images](https://imgur.com/a/RZSvx3a)
+# [Release] YoloV8 Custom trained Phone detection model: 
+[Post here with instructions](https://www.patreon.com/posts/92836511)
+![Sample image](https://i.imgur.com/rAKZ973.png)
 
-Use our discord bot to generate NSFW images using HassanBlend models. This is patreon only members right now while it's in test mode while we determine running costs etc.
-
-1: Go to our discord server https://discord.gg/sdmodelers
-2: Go to the #sdbot channel
-3: Type /draw and choose all your options
-
-Sample: ![sample](https://i.imgur.com/tYB1agN.png)
 
 Summary of the hypernetworks I've released below and how they look on HassanBlend1.5 being released
 *chavgirlshassan,  

@@ -7,9 +7,9 @@ This Baltoy was discovered by Lilac around some alien ruins. It doesn't know muc
 ---- | ----
 **Origin:** Unkown | **Guild Role/Occupation:** Bomb
 **Species:** Baltoy | **Affiliation:** Lilac
-**Level:** 6 | **Experience to Next Level:** 5/60
+**Level:** 6 | **Experience to Next Level:** 30/60
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 49₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 349₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -47,11 +47,11 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 15 IQ points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    2/10 IP | ▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. | 2
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A

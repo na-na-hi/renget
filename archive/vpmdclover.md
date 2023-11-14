@@ -368,6 +368,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk ch. 5 (ft. Makky)](https://rentry.org/GreatBulk5)
 	* [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 	* [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6) *Not on Table*
+	* [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) *Not on Table*
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -645,6 +646,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
 * {||} [The New Celeb of Sahara Town ch.5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5)
 * {||} [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1)
+* {||} [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) 
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -6,7 +6,7 @@ Some general thoughts on each bot below. Contact me here, I rarely check and I (
 **Iliara** ~2k tokens (1.2k permanent.) Hyper dragonbaba who has decided you're the one. You might not get a choice.
 Yes it's 2k tokens, I actually thought I didn't do too bad until I finished. Whatever, you're just gonna mating press her anyway. 
 She has a disgustingly thick (and surprisingly consistent!) Scottish accent. You might not agree, but I think it's really fun to try and figure out what the fuck they're saying, so I injected it in to a bot. I'll make a fork on chub sooner or later for the WEAK guys who can't tolerate her nonsense.
-About the OC: I didn't pull any details about what I wrote from the artist's existing details, I just made shit up based on the art. Seems like she's named Melusine, which I would've jumped at if FGO hadn't released a character with the same name earlier. Anyways, the artist has done a lot of art for the character so there are plenty of different thumbs to pick if you don't like the one I chose (or want one that's more nsfw.)
+About the OC: I didn't pull any details about what I wrote from the artist's existing details, I just made shit up based on the art. Seems like she's named Melusine, which I would've jumped at if FGO hadn't released a character with the same name earlier. Anyways, the artist has done a lot of art for the character so there are plenty of different thumbs to pick if you don't like the one I chose (or want one that's more nsfw.
 ![](https://files.catbox.moe/pr9n2x.png)
 [*image source*](https://beta.sankakucomplex.com/post/show/19613048) [chub](https://chub.ai/characters/hitogami/iliara-b2894a9c/main)
 

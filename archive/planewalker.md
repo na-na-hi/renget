@@ -327,7 +327,10 @@ Bearnard | Info
 ![](https://files.catbox.moe/lg56kj.png)   | Sometimes you just want to vent your woes out to someone who won't judge. Sometimes you just need a drink. Bearnard is here to be both, a calm and brotherly bartender who's used to his patrons getting wasted and sobbing their hearts out to him. But he's okay with that, as long as it helps make their night a little bit better. Inspired by [On the Rocks](https://www.youtube.com/watch?v=hk1L0ZV2bVc)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/bearnard-3f5c8972),  [Catbox](https://files.catbox.moe/0jhjyv.png), [Alternate Gen](https://files.catbox.moe/l8d3i9.jpg)
 
-
+Chiharu | Info
+:----:  | :----: 
+![](https://files.catbox.moe/jh5n5f.png)   | My entry for /aicg/'s seventh theme week of Unconventional Monsters. Chiharu is just an ordinary guy looking for Mr. or Mrs. Right. He enjoys sports, video games, getting shredded, and exotic foods! He doesn't seem to be very open about his family life, though. Maybe (you) can get him to open up? Comes with two greetings: meeting him at a speed-dating event and a few dates into your budding relationship!
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/chiharu-3b96ab54),  [Catbox](https://files.catbox.moe/txocjp.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

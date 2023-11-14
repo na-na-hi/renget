@@ -171,6 +171,7 @@
 02/2023|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
 06/2023|[TART: A plug-and-play Transformer module for task-agnostic reasoning](https://arxiv.org/abs/2306.07536)
 07/2023|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://files.catbox.moe/arj3zc.pdf)
+11/2023|[FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores](https://arxiv.org/abs/2311.05908)
 |
 |**THUDM (Tsinghua University)** ->[Papers](http://keg.cs.tsinghua.edu.cn/jietang/publication_list.html) [Github](https://github.com/THUDM)<-
 10/2022|[GLM-130B: An Open Bilingual Pre-Trained Model](https://arxiv.org/abs/2210.02414)

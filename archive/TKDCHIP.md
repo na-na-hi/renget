@@ -551,3 +551,5 @@ https://files.catbox.moe/9s7szz.mp4
 https://files.catbox.moe/u2r4nv.webm
 >QUDS SNIPER KINO (ADDED NOV 13th)
 files.catbox.moe/ama5xz.mp4
+>NEW HAMAS RPG KINO THE JEW FEARS THE RED TRIANGLE (ADDED NOV 13th)
+https://files.catbox.moe/vtgt58.mp4

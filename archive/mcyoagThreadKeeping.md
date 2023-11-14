@@ -265,52 +265,84 @@ Page 1
 ***
 
 ```
->Marines
->Pokoko-koko-pokokoko
->>90882196
->Grace Sol
->>90882412
->Mioka
->>90888481
->Tenot Metzenbam
->>90878677
->Saint Timothy Morgenstern
+https://rentry.org/OnePieceMPCompile
+edit code: warmpiss
+
+>World Government
+Saint Timothy Morgenstern
 >>90876987
+Pippin Smallings
+>>90906441
+
+>Marines
+Pokoko-koko-pokokoko
+>>90882196
+Grace Sol
+>>90882412
+Mioka
+>>90888481
+Tenot Metzenbam
+>>90878677
+Yamome
+>>90905233
+Admiral Troika Margrave
+>>90914249
 
 >Pirates
->Abraham the Slayer
+Abraham the Slayer
 >>90887262
->Funeda
+Funeda
 >>90888116
->Edward
+Edward
 >>90879870
->Amaranthy
->>90879066
->Taiyo Umi
+Amaranthy
+>>90898563
+Taiyo Umi
 >>90872673
->Lonicera
+Lonicera
 >>90872507
->Melia Busujima
+Melia Busujima
 >>90872254
+Thomas "Blue Tom" Roberts
+>>90892576
+Wednesday
+>>90893458
+Asraol
+>>90903293
+Sora Tenshi
+>>90905795
 
 >Seven Warlords
->Atla
+Atla
 >>90887983
->Rosa
+Rosa
 >>90879507
+Idia
+>>90911712
+
+>Four Emperors
+Big Hand Robur
+>>90912254
+Geiger
+>>90913088
 
 >Revolutionaries
->Baster
+Baster
 >>90879850
->Doctor Marvelous
+Doctor Marvelous
 >>90871851
+Roque D. Kasbah
+>>90898285
 
 >Bounty Hunters
-
->Linel Rytal
+Linel Rytal
 >>90874461
->Chester Chainsaw
->>90873772
+Chester Chainsaw
+>>90897753
+"Big Guy", Stargazing Skyscraper
+>>90891785
+Olly Percy
+>>90911376
 ```
 
 ***
@@ -324,6 +356,8 @@ https://pastebin.com/3s0V8dLk
 https://pastebin.com/v6r8urD9
 >O Captain, Where Art Thou?
 https://rentry.org/qrxqzd
+>What if he died?
+https://pastebin.com/JsMxJkVr
 ```
 
 #MHA

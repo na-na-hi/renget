@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 11/11/23: Red Good Edition**
+**Last updated: 13/11/23: Cinderella Edition**
 
 ***
 

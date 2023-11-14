@@ -18,12 +18,8 @@ https://rentry.org/chastegenfaq
 \>Lock Tracker
 https://rentry.org/chastegenlocktracker
 
-\>Our friends
-https://boards.4chan.org/d/catalog#s=analgen
-https://boards.4chan.org/soc/catalog#s=chastity
-
 \>Guide to Nipple Orgasms
-https://files.catbox.moe/ehzzwk.pdf
+https://files.catbox.moe/yt2xxx.pdf
 ***
 [TOC6]
 ***

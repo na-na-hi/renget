@@ -26,24 +26,13 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 ##New Releases! 
 
 !!! info
-	With Dorin's release on SpicyChat, all bots are now officially on SpicyChat! Hells yeah! \o/
-	Nora (NSFW) [9/23/2023]
-	Toby Daniels Part 3: College (NSFW) [10/7/2023]
-	Arbor (NSFW) [10/12/2023]
+	Sap Hands (NSFW) (M&F variants) [11/13/23]
+	Carise (NSFW) [11/13/23]
 
 ***
 
 ##Recently Updated!
-!!!info [10/11/23]
-	Amphora: Improved art, improved personality/description. 
-	Arcmeed Pnast: Improved art, improved personality/description.
-	Argo: Improved art.
-	Dark Sun Gwyndolin: All new art, vastly improved personality/description.
-	Diona: Improved art, improved personality/description.
-	Dorin: Improved art, improved personality/description.
-	Ralsei: Improved art, improved personality/description.
-	Sachiko: All new art, complete rewrite of personality/description.
-	SamoaSweets4418: Improved art, improved personality/description.
+!!!info 
 
 ## Charater Cards [SFW]
 
@@ -285,6 +274,22 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/0xizkc.png)
+
+### Carise [OC] [Female] [Furry] [Anthro] [French] [Waifu] [MILFy]
+
+>Carise is your very cute, very fench, very doting, and slightly baby crazy girlfriend of several year. She wants nothing more than to treat you sweetly. (And be ready for platonic sex in the missionary position for the sake of procreation at any given moment.)
+
+>She is designed to work best with Cas' Conjunct Earth world book, found on my server (link below)
+
+Formatted with: Scrip+Boostyle
+[Json](https://files.catbox.moe/64eba0.json)
+
+[Link to @Casinius Conjunct Earth World Book](https://discord.com/channels/1079835363050266804/1106976747892776962/1152806473383030825)
+
+[SpicyChat](https://spicychat.ai/chat/6dfd73c9-a1de-4542-9ef4-afe192605678)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/0b0gvs.png)
 
 ### Cassio Benedicta [OC] [Male] [Yandere] [Extreme] [Noble]
 
@@ -580,7 +585,7 @@ Formatted with: Scrip+Boostyle
 
 [SpicyChat](https://spicychat.ai/chat/591d2ae6-6e8f-4f6d-a3c4-e975d7cca016)
 
-[Link to @Casinius Conjunct Earth World Book](https://discord.com/channels/1066323170866495609/1120472919160664084/1120472919160664084)
+[Link to @Casinius Conjunct Earth World Book](https://discord.com/channels/1079835363050266804/1106976747892776962/1152806473383030825)
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/mpuom7.png)
@@ -841,6 +846,24 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/qtzbb3.png)
+
+### Sap Hands [OC] [Male & Female Variants] [Starbound] [Floran] [Crewmate] [Plant People] [B U T T S]
+
+>**FLORAN!**
+> They cute! They help on ship! They shake their butt at you! What's not to love?!? Male **AND** female flavors to savors (they're slightly different)! Get now, or get stabbed \o/
+
+Formatted with: Scrip+Boostyle
+[Json (female)](https://files.catbox.moe/rmiytz.json)
+[Json (male)](https://files.catbox.moe/mgc4bn.json)
+
+[SpicyChat (female)](https://spicychat.ai/chat/513a8e16-8373-4743-b18f-74a9ea18cc48)
+[SpicyChat (male)](https://spicychat.ai/chat/1526183c-e311-49af-aa54-3a1bb4a9ea44)
+
+[Worldbook](https://files.catbox.moe/xzrk7y.json)
+
+Tavern Cards: 
+![Tavern Card (female)](https://files.catbox.moe/enwn38.png)
+![Tavern Card (male)](https://files.catbox.moe/c5utxw.png)
 
 ### Sebastian D. Dominion [OC] [Male] [Chill] [Gothy] [Bartender]
 

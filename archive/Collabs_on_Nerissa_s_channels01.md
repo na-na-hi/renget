@@ -61,6 +61,9 @@
 ####![](https://files.catbox.moe/f9inkg.png) November 2023
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
+|2023-11-04|[![ 【Minecraft】It's time for the hololive Sports Festival! 🎼](https://i.ytimg.com/vi/Ov2gY2ZuJQg/mqdefault_live.jpg)](https://www.youtube.com/watch?v=Ov2gY2ZuJQg) |N/A| ~3h34 |Hololive 2023 Minecraft sports Festival|
+|2023-11-06|[![【Terraria】Hard Mode - let's fine resources! (Open VC and world) 🎼](https://i.ytimg.com/vi/njdsF0ksYB4/mqdefault_live.jpg)](https://www.youtube.com/watch?v=njdsF0ksYB4) |Shiori & Bijou| ~2h59 |VC & Impromptu collab|
+|2023-11-10|[![【WATCHALONG】Barbie: Princess and the Pauper with Advent!!🎼](https://i.ytimg.com/vi/im3P5xgqdzQ/mqdefault_live.jpg)](https://www.youtube.com/watch?v=im3P5xgqdzQ) |Shiori, Bijou & FWMC| ~1h58 |Advent group watchalong|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

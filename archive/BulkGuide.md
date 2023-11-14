@@ -143,7 +143,7 @@ Sex: N/A
 Ability: Run Away
 Location: ~~Sand Continent~~ Grass Continent
 Distinctive Features: Wears a pair of teashade glasses, tinted silver. Tends to hide in the storage of his "talent", such as in backpacks, bags, etc.
-This outlaw may seem dimunitive and harmless, but do not be fooled. He is a cunning manipulator with a high degree of battle acumen and intellect, "managing" other outlaws and coaching them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
+This outlaw may seem dimunitive and harmless, but do not be fooled. He has a high degree of battle acumen and intellect, and typically "manages" other outlaws and coaches them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
 
 He believes himself to be an intelligent puppetmaster, although that is far from the truth. One merely has to witness his two-faced behavior to see behind his mask – he tries to be polite to Pokemon he wants things from and attempts to butter them up, but he's also infamous for the verbal abuse he hurls towards “talent” and subordinates who he thinks are underperforming. However, he *is* legitimately smart when it comes to tactics and combat, and has turned even the worst battlers into competent threats. 
 
@@ -164,18 +164,29 @@ Location: Grass Continent
 He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive, but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on, which wound up being a house bombing.
 
 
-Thicket:
+Thicket (Floette):
 Bounty: 100 Poke
 Rank: E
 Wanted For: Bootlegging, Selling Alcohol Without a License
 Sex: Female
-Ability:
+Ability: Flower Veil
 Location: Grass Continent
 Having been kicked out from a long family line of vintners, she had a home constructed and geared up to sell her goods in Capim, only to find out she needed a license to do so. Outraged by the price, perceiving the requirement as an insult to her craft, and her belief that brewing booze is an Arceus given right led her to become a bootlegger, instead. She brews both conventional alcohol alongside more "unique" items, the most notable of which being the Cheri Bomb - by fermenting Blast Seeds and Cheri Berries together, and filling a hollowed out apricorn with the juice, she created an explosive more powerful than the former. Just shake it, throw it, and watch a whole room of enemies fly away from the blast!
 
 Thicket also has a deep love for flora, especially flowers, and any mistreatment of the latter makes her upset. She tends to trip up offenders with vines or spray them with hallucinogenic gas the first few times, but repeat offenders have been known to have their houses spontaneously explode or catch on fire while they're gone. She joined up with Nickel after he and Cobalt transported a barrel full of Cheri Bomb juice to the house of a Mudbray who had been grazing on Capim Town's flowers.
 
 Her business relations with Nickel can be best described as the two mutually using each other. Nickel gets a home base and a share of Thicket's income, while she gets some muscle that can help around her home and do the things she's too small and weak to do herself.
+
+Dewalt (Drilbur):
+Bounty: 500 Poke
+Rank: D
+Wanted For: Theft, Breaking and Entering
+Sex: Male
+Ability: Sand Rush
+Location: Grass Continent
+He started out as a customer of Thicket's, but when Team Corvidae crashed her business in an attempt to arrest Cobalt and Nickel, he stepped into action. He joined their gang after the fact, pledging to use his strength to act as a bodyguard. He's oddly polite for an outlaw and thief, having scolded Team Corvidae for "causing a fuss" with their antics.
+
+
 
 #####Independent Outlaws:
 ~~"Iron Wing" (Hawlucha)~~:
@@ -235,7 +246,7 @@ Triple Kick
 Double Team
 
 ~~The Shah (Kingambit)~~:
-Bounty: ~~20,000~~ ~25,000~ ~35,000~ 40,000 Poke
+Bounty: ~~20,000~~ ~~25,000~~ ~~35,000~~ 40,000 Poke
 Rank: ~★~ ★★
 Wanted For: Murder, Terrorism, Robbery, Theft, Unlawful Annexation of Land
 Sex: Male
@@ -250,6 +261,17 @@ Ultimately, it was one of his own sons, Shamshir, who led to his downfall. With 
 The Shah, in spite of his strength, was an extremely unskilled battler. Asana compared his movements to reading an open book, and due to her agility, she was the greatest obstacle out between her team, Shamshir, and Bismuth, only being defeated due to her fatigue and a Quick Seed wearing off at an inopportune time. If he didn't think of himself as infallible and actually took time to refine his fighting style, the Shah could've wiped the floor with everyone easily.
 
 ##The Others:
+
+#####Team Corvidae:
+Dee (Rookidee):
+Sex: Female
+Ability: Keen Eye
+She's the leader of the team, and is known for her recklessness. Her and Smoliv are bounty hunters, although they struggle a lot more compared to other, stronger groups.
+
+Smoliv:
+Sex: Male
+Ability: Harvest
+In contrast to Dee, Smoliv is shy and slightly cowardly, usually taking up a role as support. His usual tactics involve him spraying glue-like oil onto his enemies to restrict their mobility, although he's a surprisingly competent battler if he's backed into a corner. 
 
 #####Team Watchers:
 Espathra:

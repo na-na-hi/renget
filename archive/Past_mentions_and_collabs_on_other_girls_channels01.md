@@ -40,6 +40,7 @@
 |2023-10-04|[Timestamp](https://www.youtube.com/watch?v=ik_wZAooaGg&t=1655s)| **Mentions** - Kiara mentioned Nerissa during an off collab ASMR stream with Noel. She tells Noel that she was surprised and happy that someone else had an unusual tongue like she did.|
 |2023-10-21|[Link](https://www.youtube.com/watch?v=D_uuZW2nknY)| **Collab** - Nerissa collabed with Kiara for a stream reviewing and rating cars that viewers submitted via Twitter.|
 |2023-11-01|[Initial appearance](https://www.youtube.com/watch?v=rl2qEUQK6GQ&t=5347) ![](https://files.catbox.moe/4jc013.png) [Start of active participation](https://www.youtube.com/watch?v=rl2qEUQK6GQ&t=5817) | **Impromptu collab** - Nerissa joined the Minecraft White Team practice stream VC a bit after waking up, though she didn't talk much beyond greeting the Senpai present. ![](https://files.catbox.moe/0kt3mp.png) After a while, once the JP Senpai departed and she has woken up properly, Nerissa began to actively chat with the remaining English-speaking members (Kiara, Mumei and Kaela). After Mumei and Kaela left, she remained to chat with Kiara even more one-on-one.|
+|2023-11-13|[Timestamp](https://www.youtube.com/watch?v=69Vq1PH-9fY&t=5739)|**Apperance** - Nerissa appeared (as a recording) on the Kiara and Ririka Shark Tank collab with a business proposition for them.|
 
 ###### 💀 Calliope
 |Date|Link|Nature & Notes|

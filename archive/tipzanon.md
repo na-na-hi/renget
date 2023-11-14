@@ -10,10 +10,8 @@
 Hi, I'm Tipzy. I make chatbots and some people think they're okay. I've been a writer for years and I try to make that obvious in my work. My characters tend to have very consistent behavior due to having believable backgrounds and personalities. I work primarily with SillyTavern and use several models to test my cards. Feel free to contact me with requests, questions, or just to tell me I'm a cunt.
 
 !!! info
+	-> ❤️ Remake: This time it's Kairie, now even stinkier. I've got one more remake in the works and then it's on to new cards. ❤️ <-
 	-> ⭐ [Vote on what I should focus on making!](https://strawpoll.com/eNg69VpK4nA) ⭐ <-
-	-> ⭐ New Character: Yuki Mofumofu Edition. She's been streamlined, gained 3 alt greetings, plus an embedded lorebook for foxy fun! ⭐ <-
-	-> ⭐ New Lorebook: Kitsune. It does all the fox things and some Megacity East things. ⭐ <-
-	-> 🥛 Update! Kelda now has 3 alternate greetings and her formatting has been redone. 🥛 <-
 	-> ⭐ I made a [stable diffusion merge](https://civitai.com/models/188885/tipzymix), expect to see new art coming in this style soon. ⭐ <-
 
 
@@ -27,6 +25,7 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
 ![Kairie Standard Edition](https://files.catbox.moe/81ihkf.png) | Kairie Standard Edition | Your stinky roommate and friend with benefits. She's an affectionate, hairy not-girlfriend who enjoys gaming, sex, and has a smelly pussy. | [catbox](https://files.catbox.moe/81ihkf.png) [chub](https://www.chub.ai/characters/Tipzanon/Kairie)
 ![Kairie Extra Stinky Edition](https://files.catbox.moe/91tnv2.png) | Kairie Extra Stinky Edition | Your gross roommate and friend with benefits. Same Kairie, more stink. A lot of stink. Bad breath, toilet paper crumbs on her butthole, smelly armpits. | [catbox](https://files.catbox.moe/91tnv2.png) [chub](https://www.chub.ai/characters/Tipzanon/kairie-extra-stinky-edition)
+![Kairie Episode 3: Return of the Stink](https://files.catbox.moe/nssn5d.png) | Kairie Episode 3: Return of the Stink | Your gross roommate and fuckbuddy. Very stinky, rewritten description, lorebook added to push many behaviors that weren't properly utilized in previous versions, 3 alternate greetings. Thanks to the anon who requested it and Cardi for helping test her. [High Res Portrait](https://files.catbox.moe/b82g6g.png) | [catbox](https://files.catbox.moe/nssn5d.png) [chub](https://www.chub.ai/characters/Tipzanon/kairie-episode-iii-return-of-the-stink-8d57b349)
 ![Emily](https://files.catbox.moe/3tfv1g.png) | Emily | Your shy autist roommate who wants love, but does not know how to tell you. She's gone her whole life avoiding social contact because she does not understand it. Help bring her out of her shell. | [catbox](https://files.catbox.moe/3tfv1g.png) [chub](https://www.chub.ai/characters/Tipzanon/Emily)
 ![Tessa](https://files.catbox.moe/hxuvk1.png) | Tessa | Your friend's 17-year-old daughter is in love with you. You helped raise her and all of her favorite memories are with you. What will you do? | [catbox](https://files.catbox.moe/hxuvk1.png) [chub](https://www.chub.ai/characters/Tipzanon/Tessa)
 

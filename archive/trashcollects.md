@@ -185,10 +185,10 @@ https://www.seaart.ai/models/detail/ac3c26ac1ff19c18dc840f3b8e162c25
 	https://pixeldrain.com/u/3YXax5DP
 
 ### PC 98 Model
- 	 https://mega.nz/file/uJkQBbKL##qVI95nOJkkMAjPQXBsvPZA9bTSaF5gOv0IA0XCjdE2E
+ 	 https://mega.nz/file/uJkQBbKL#qVI95nOJkkMAjPQXBsvPZA9bTSaF5gOv0IA0XCjdE2E
 
 ### Low-Poly
-	mega.nz/file/PAcABRrS##tFCWwWyyatquNvrzLIUqPkrpYJhsS9nEjpY0mv4SNKM
+	mega.nz/file/PAcABRrS#tFCWwWyyatquNvrzLIUqPkrpYJhsS9nEjpY0mv4SNKM
 
 ### Fluffusion
 [![Fluffusion Protoype r10 e7 640x](https://files.catbox.moe/7d1t7y.png)](https://files.catbox.moe/qkvf3r.png)

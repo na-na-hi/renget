@@ -128,7 +128,9 @@
 * [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
 * [Anon Art Dump MEGA](https://mega.nz/folder/wrFyWZAB#5BHMyjPzlM-NV_74B78dAQ)
 * [LittlePMStuff](https://mega.nz/folder/43kxAQZC#JiUVRjtLV2MhdxzLdKnMqg)
+* [Shimeji Archive](https://docs.google.com/spreadsheets/d/1IAgzEiaFkngEZloEIuv7X33sK3WFewp7zSSr3eSIUwE)
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
+* [KanKan Google Drive](https://drive.google.com/drive/folders/1kLFKpJGdzFReoDtlc32e2E128Vh2x9Fo)
 * [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
 * [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
 * [Hong Lu VA Twitch](https://www.twitch.tv/kim88toki)
@@ -167,4 +169,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Made separate section for Q&As and interviews, added more links.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
 11/10-11/23: Added Limbus Company Unused Cutscene link. Added A Better Tutorial for Limbus Company link.
-11/13/23: Added new RR guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive. ![lol&](https://files.catbox.moe/7dmu76.png)

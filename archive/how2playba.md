@@ -566,7 +566,7 @@ One-time per battle skills can happen once in every battle.
 E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times. 
 
 >Daily and weekly missions
-Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is decent, although I don't do it personally. 
+Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5 AP? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is decent, although I don't do it personally. 
  
 The weekly missions reset on Sunday (the reset from Sunday to Monday). 
 
