@@ -49,7 +49,9 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
+https://playeternalreturn.com/posts/news/1566 (Twitch Drops, ~11/30)
 https://event.playeternalreturn.com/newcharacter/Leni (Play as Leni Event, ~12/6)
+https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
 
 \>Codes
 https://coupons.tnra.ro/
@@ -61,4 +63,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>453434663
+\>\>454240589

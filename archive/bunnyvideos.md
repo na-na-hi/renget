@@ -49,6 +49,9 @@
 [JPN/ENG] Senta: https://www.youtube.com/@sentachannel8992
 - < 1K
 
+[JPN/ENG] Shannon, Bell: https://youtube.com/@user-td6vk2jh2g
+- Shannon the Flemish Giant and Bell the Continental Giant, 1K+
+
 [JPN] Koko: https://www.youtube.com/@user-zv2dp8zc3t
 - bunny eating ASMR, < 1K
 

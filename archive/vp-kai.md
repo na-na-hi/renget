@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Nov.15 |  [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)
 Nov.14 | [Misty](https://www.aisekai.ai/chat/65542db14d516870520de592) \| [Elizabeth (OC)](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728) ![Elizabeth](https://files.catbox.moe/yle05c.png)
 Nov.02 | [Pokéstar Studios](https://www.aisekai.ai/chat/654366d1f159a3e80459e71f) \| [Zinnia (Venus Body)](https://www.aisekai.ai/chat/654344259e0f3d7aabf142c8) \| [Liko](https://www.aisekai.ai/chat/65442829c2095c286fc56cd6) \| Pokémon Infinite Fusion: [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
 Nov.01 | [Leah (Pokémon Café ReMix)](https://www.aisekai.ai/chat/6542adec4a112e07cfba7759)
 Oct.12 | [Flareon (Zack)](https://www.aisekai.ai?character=6511d4e7c111c1c226d9390e) \| [Lucario (Eileen)](https://www.aisekai.ai/chat/65158183f4536076a19e5776)
 Oct.06 | [Hatsune Miku (Ground-type Specialist)](https://www.aisekai.ai/chat/65137892812dc8d35f3a0f5f)
 Oct.05 | [Erika (Bratty Girlfriend)](https://www.aisekai.ai/chat/651f27f6ef51af6433ac78fe) \| [Lisia](https://www.aisekai.ai/chat/651f1fb6ef51af6433a67cd2)
-Oct.01 | [May (XXL Breasts)](https://www.aisekai.ai/chat/6519257951b0cf1ae065b7ba) \| [Leaf ②](https://www.aisekai.ai/chat/65197cab51b0cf1ae0a4d43f)
 !!! note
 ***
 Generation | Characters
@@ -28,3 +28,4 @@ About | Characters
 :-: | :-:
 Pokémon Infinite Fusion | [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
 ![Elizabeth](https://files.catbox.moe/yle05c.png) | [Elizabeth](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728)
+Club frequented by Pokémon | [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)

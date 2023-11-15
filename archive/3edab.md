@@ -40,7 +40,7 @@ Follow the installation in the docs.
 To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
 
 #Robust Archiver (ytarchive alternative)
-Last Updated: 11/10/23 (mm/dd/yy)
+Last Updated: 11/15/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Edge)
@@ -159,9 +159,13 @@ class Stream:
     def restart(self):
         pretty_print(
             '<' + time.strftime("%H:%M:%S", time.localtime()) + '> ' + self.id + ' ended prematurely, starting again!')
-        self.video.process = self.video.restart()
+        self.data['status'] = "Started"
+        self.video.process.terminate()
+        self.video.process = Process(target=self.video.start)
+        self.video.process.start()
         if not self.data['chat']:
             self.chat.process = Process(target=self.chat.start)
+            self.chat.process.start()
 
     def kill(self):
         self.video.process.terminate()
@@ -213,11 +217,6 @@ class Video:
                 '\n<' + time.strftime("%H:%M:%S", time.localtime()) + "> " + self.id + ": Stream ended with " + str(
                     self.data['frags']) + " frags.")
             self.data['status'] = "Processing"
-
-    def restart(self):
-        self.data['status'] = "Started"
-        self.process.terminate()
-        return Process(target=self.start)
 
     @staticmethod
     def sleeptimer(n):
@@ -367,10 +366,10 @@ class ArchiveConfig:
             "\t0: Don't update any modules for me.",
             "\t1: Only update yt_dlp and chat_downloader modules for me.",
             "\t2: Update all modules for me. (yt_dlp, chat_downloader, python-slugify, and schedule)"]),
-        ConfigItem("SCANNER", "streamers", "NanashiMumei,NerissaRavencroft",
+        ConfigItem("SCANNER", "streamers", "NanashiMumei",
                    ["List the @Name for YouTube streamers you want to archive.",
                     "Exclude the @ prefix in your response.",
-                    "Examples: (Default is NanashiMumei,NerissaRavencroft)",
+                    "Examples: (Default is NanashiMumei)",
                     "\tNanashiMumei\n\tNanashiMumei,NerissaRavencroft\n\tKosekiBijou,ui_shig,penguinz0"],
                    lambda x: "".join(x.split())),
         ConfigItem("SCANNER", "streamtimer", "1", ["How many minutes would you like between each scan for new streams?",

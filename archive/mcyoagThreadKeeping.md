@@ -380,7 +380,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is once again building up strength!
+>Feral Art
+>>90932810
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -1047,6 +1048,8 @@ https://pastebin.com/4CFMctzq
 https://rentry.org/nai7zs
 >Pathfinder (Arika, Fumie)
 https://rentry.org/e5wpk
+>Sudden Storm (Misao, Arika, Chie, and minor cameos of Fumie and Yuzu.)
+https://rentry.org/AMGSuddenStorm
 
 Artfags:
 >Misao (In and out of costume)

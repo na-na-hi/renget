@@ -13,15 +13,6 @@ Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [TOC2]
 
 ##Upcoming Characters
-###1.5
-
-Argenti | Links
------- | ------
-![Argenti](https://cdn.discordapp.com/attachments/1137374640239542294/1167143769880141924/1302.png?ex=654d0e57&is=653a9957&hm=055b7bcb23cf0906bd8039548b6aac201144322fa607a906071d683f9b908f5d&) ✦✦✦✦✦ - ![Physical](https://cdn.discordapp.com/attachments/1137374640239542294/1167144925251514368/IconAttributePhysical_1.png?ex=654d0f6a&is=653a9a6a&hm=e64dcd695afa9b047d40710709ec25f5c6d774d28428101384a57021f5910dab&) Physical - ![Erudition](https://cdn.discordapp.com/attachments/1137374640239542294/1167559327721193472/mage.png?ex=654e915b&is=653c1c5b&hm=b2a634aca160d14bdffcb64817257101c7e52a21ef149f1bfc83c36da0763368&) Erudition | [FOLDER](https://mega.nz/folder/d7tGCBTC#QKyRQfUYja9AE_n50Xsbag)  - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1302/argenti?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1302)
-**Huohuo** | **Links**
-![Huohuo](https://cdn.discordapp.com/attachments/1137374640239542294/1167143769645269032/1217.png?ex=654d0e57&is=653a9957&hm=82c3c9466c7f399e2caaeff3105d6d742985c8033cdf87284da684fd1f48ad8f&) ✦✦✦✦✦ - ![Wind](https://cdn.discordapp.com/attachments/1137374640239542294/1167146436400533574/IconAttributeWind.png?ex=654d10d2&is=653a9bd2&hm=a6965090adfea25b97cd813387dcc8c20dbf0ead11acd66f4789baefc06bb3ca&) Wind - ![Abundance](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328086110289/priest.png?ex=654e915c&is=653c1c5c&hm=e0bddf5b693826f735ed10ac5c8ac71e744919bce056edc08d50f8fa3b5bfd86&) Abundance | [FOLDER](https://mega.nz/folder/Amd0TDDS#ooSx_-lZA9mtC1NAfDf8xg) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1217/huohuo?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1217)
-**Hanya** | **Links**
-![Hanya](https://cdn.discordapp.com/attachments/1137374640239542294/1167143769456529418/1215.png?ex=654d0e57&is=653a9957&hm=3301bbfb5ff09210f35184c69f54f07c581d3c96387a8bc33a853a32ed25cb74&) ✦✦✦✦ - ![Physical](https://cdn.discordapp.com/attachments/1137374640239542294/1167144925251514368/IconAttributePhysical_1.png?ex=654d0f6a&is=653a9a6a&hm=e64dcd695afa9b047d40710709ec25f5c6d774d28428101384a57021f5910dab&) Physical - ![Harmony](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328677494956/shaman.png?ex=654e915c&is=653c1c5c&hm=32da174a881bdd037ee2804b4123cef7cb9b3a840ebfea9723def3243ba62bb9&) Harmony | [FOLDER](https://mega.nz/folder/R6dWxaxY#Y_dzH5obaKmpzWb-Jmzq6A) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1215/hanya?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1215)
 
 ###1.6
 

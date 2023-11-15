@@ -8,7 +8,6 @@ Memory is a really good way to keep your story on track; By your story text alon
 
 ***Other guide: [memory guide](https://rentry.org/memory-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
 *[My personal preset—Truthfully (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
--> You can ask me a question in [#ai-writing-help (click to join)](https://discord.gg/novelai) <-
 
 ##Context
 

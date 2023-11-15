@@ -103,7 +103,7 @@ Now that you're in the main menu screen, perform the following loop.
 **1. Identities**
 You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah. Each Identity has 3 regular skills, and a defensive skill. Your deck consists of 3 skill 1s, 2 skill 2s, and 1 skill 3. You have infinite defensive skills, and they can be activated anytime. Each Identity also has a regular passive and a support passive.
 
-You can level up your Identities (IDs) by using XP Tickets. The maximum Identity level is 35. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork, a new watchable story, and a small Lunacy reward. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
+You can level up your Identities (IDs) by using XP Tickets. The maximum Identity level is 40. You can also upgrade them in a different way, using a process called Uptying which requires Thread. Think of it as promotions. This gives them new skills, improves their speed rolls, gives them passives, and gives them better general stats. Uptying is a huge power boost; don't use unuptied Identities just because they have a higher rarity. If you Uptie an Identity to tier 3, you get new artwork, a new watchable story, and a small Lunacy reward. 000 Identities get pretty animated artwork. The maximum Uptie level is Uptie 4.
 
 **2. E.G.O**
 You obtain E.G.O from the gacha, Dispensary, and Battle Pass. This is the equivalent of weapons or special moves in other gachas. There are 5 slots for each of the 5 rarities: ZAYIN, TETH, HE, WAW and ALEPH. At the moment, there are only E.G.Os up to HE level. Each one invokes a different attack and costs a different amount of Sin resources. You gain one Sin every time you use a skill of that Sin affinity, unless otherwise specified. Using an E.G.O also costs Sanity, and the Sanity is only spent once you use it to attack.
@@ -164,11 +164,9 @@ As for E.G.O, rather than being converted into shards, it'll be removed from the
 The pity, called "Yisang [Ideality]", is industry standard at 200 single rolls, or 20 ten rolls. You get 1 Ideality (pity) point per roll. Once you hit 200 Ideality on a rateup banner, you can exchange it for one 000 Identity or E.G.O on the banner. Pity is not shared between banners.
 
 **7. Battle Pass**
-The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins, a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track. You get the rewards from the paid track up to your current level once you buy it, excluding the post level 60 bonuses.
+The Battle Pass (BP) is the best thing to buy by far. The current Battle Pass price is $11. When a new Season begins, a new Battle Pass is introduced with it. You can check the duration of the current Season/Battle Pass on the Battle Pass page. The Battle Pass has a free track and a paid track. You get the rewards from the paid track up to your current level once you buy it. The Battle Pass bonus rewards past level 120 are retroactive. If you buy the Battle Pass beyond level 120, you can retroactively claim the accumulated bonus rewards in addition to the free rewards you already claimed.
 
-You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 60 gives you Nominable Egoshard Crates. This is the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section. 
-
-Be aware that the Battle Pass *bonuses* past level 60 are **not** retroactive. You will not get the extra Egoshard Crates even if you buy the Battle Pass beyond level 60. To get the most value for the Battle Pass, buy it before you pass level 60.
+You level the BP by completing missions and going through Mirror Dungeons. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 120 gives you Nominable Egoshard Crates. This is the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section. 
 
 **8. Daily Rolls**
 An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% of the price, but you only get to do so with paid Lunacy, which is different from regular Lunacy.
@@ -187,29 +185,30 @@ You can buy the following currency:
 Note that on your first purchase you'll receive double the Lunacy.
 
 **11. Other**
-You can buy the Monthly Extraction Pack for $10, the Monthly Training Packs for $31, the New Manager's Onboarding Pack for $22, and the Season 3 Orientation Supplies for $60.
+You can buy the Weekly Extraction Pack for $7, Monthly Extraction Pack for $10, the Monthly Training Packs for $31, the New Manager's Onboarding Pack for $22, and the Season 3 Settler Supplies for $60.
 
 **12. Summary**
 If you want to do 10-rolls on limited banners, go for the monthly packs. If you want to do daily rolls, go for the standalone Lunacy packs. Monthly Lunacy has the best ratio of Lunacy per dollar, but make sure to notice the "free" in "free Lunacy per day". You cannot do the cheap daily Extraction with "free" Lunacy.
 Type | Lunacy (free) | Price \[$\]| Rolls(raw) | Rolls(daily) | Rolls(raw)/$ | Rolls(daily)/$
 :----: | :----: | :----: | :----: | :----: | :----: | :----:
-Monthly | 1300(1170) | 3 | 10 | 19 | ==3.(3)== | 6.(3)
-Monthly | 2600(1950) | 7 | 20 | 65 | 2.86 | 9.29
-Standalone | 70 | 1 | 0.54 | 5.38 | 0.54 | 5.38
-Standalone (first) | 140 | 1 | 1.08 | 10.76 | 1.08 | 10.76
-Standalone | 294 | 4 | 2.26 | 22.6 | 0.565 | 5.65
-Standalone (first) | 588 | 4 | 4.52 | 45.23 | 1.13 | 11.3
-Standalone | 1014 | 12 | 7.8 | 78 | 0.65 | 6.5
-Standalone (first) | 2028 | 12 | 15.6 | 156 | 1.3 | 13
-Standalone | 2470(323) | 24 | 19 | 167.64 | 0.792 | 6.985
-Standalone (first) | 4294 | 24 | 33.03 | 330.31 | 1.376 | 13.76
-Standalone | 4103 | 42 | 31.56 | 315.62 | 0.751 | 7.514
-Standalone (first) | 8206 | 42 | 63.12 | 631.23 | 1.503 | 15.028
-Standalone | 8336 | 80 | 64.12 | 641.23 | 0.802 | 8.015
-Standalone (first) | 16672 | 80 | 128.25 | 1282.46 | 1.603 | ==16.03==
+Monthly Lunacy Batch | 1300(1170) | 3 | 10 | 19 | ==3.(3)== | 6.(3)
+Monthly Lunacy Supply| 2600(1950) | 7 | 20 | 65 | 2.86 | 9.29
+Standalone Lunacy | 70 | 1 | 0.54 | 5.38 | 0.54 | 5.38
+Standalone Lunacy (first) | 140 | 1 | 1.08 | 10.76 | 1.08 | 10.76
+Standalone Lunacy Bundle | 294 | 4 | 2.26 | 22.6 | 0.565 | 5.65
+Standalone Lunacy Bundle (first) | 588 | 4 | 4.52 | 45.23 | 1.13 | 11.3
+Standalone Lunacy Bouquet | 1014 | 12 | 7.8 | 78 | 0.65 | 6.5
+Standalone Lunacy Bouquet (first) | 2028 | 12 | 15.6 | 156 | 1.3 | 13
+Standalone Lunacy Crate | 2470(323) | 24 | 19 | 167.64 | 0.792 | 6.985
+Standalone Lunacy Crate (first) | 4294 | 24 | 33.03 | 330.31 | 1.376 | 13.76
+Standalone Lunacy Mound | 4103 | 42 | 31.56 | 315.62 | 0.751 | 7.514
+Standalone Lunacy Mound (first) | 8206 | 42 | 63.12 | 631.23 | 1.503 | 15.028
+Standalone Lunacy Hoard | 8336 | 80 | 64.12 | 641.23 | 0.802 | 8.015
+Standalone Lunacy Hoard (first) | 16672 | 80 | 128.25 | 1282.46 | 1.603 | ==16.03==
+Weekly Extraction Pack | 273 | 7 | 7.1 | 26 | 1.01 | 3.71
 Monthly Extraction Pack | 650 | 10 | 15 | 21.(6) | 1.5 | 2.1(6)
 Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
-Orienteer Supplies | 5040 | 60 | 78.77 | 417.69 | 1.313 | 6.962
+Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
 **1. What is the best way to farm Egoshards?**
@@ -222,7 +221,7 @@ You can farm as much as you want if you have the Enkephalin (energy) or Lunacy t
 You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-60 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you have 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
+Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you have 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
 
 In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
 
@@ -326,12 +325,12 @@ MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
 
 **4. Thread & EXP Luxcavation**
-The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have three levels: 8, 18, and 28. Thread stages have two levels: 20 and 30. The higher the level, the higher the rewards.
+The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have four levels: 8, 18, 28 and ??. Thread stages have three levels: 20, 30 and ??. The higher the level, the higher the rewards.
 
 You don't get much Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavation bonuses without much worry if you're starving for XP.
 
 **5. Refraction Railway**
-Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with an extra banner based on turn count and completion time that can be used in virtual dick measuring contests. You have until the end of the Season to get the shiniest banner.
+Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with a banner based on turn count and completion time that can be used in virtual dick measuring contests. The shiniest banner is no longer obtainable because Season 2 has ended, so you **WILL** be kicked from the group.
 ![BannerOrBricked](https://files.catbox.moe/m0vm5b.png)
 The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
 
@@ -372,4 +371,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
-11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
+11/15/23: UpdatING for Season 3. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #39 (Monday, 06 November 2023, 16:45 UTC)<-
+->Last updated on thread #40 (Wednesday, 15 November 2023, 15:15 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -8,7 +8,7 @@
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
-- [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate)
+- [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate. SINCE V005, AVERI IS HERE, TOO!!!!!)
 
 - [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
