@@ -427,6 +427,10 @@ v50:
 	Model: https://pixeldrain.com/u/71ZWunuG
 	Yaml: https://pixeldrain.com/u/aoxveaCu
 
+### 0.7(Bacchusv31)+0.3(5050(BB95v11+Furtastic2))-pruned.safetensors
+
+	https://pixeldrain.com/u/WLcp8sTU
+
 ## Galleries
 
 # FluffAnon's Generations
@@ -1504,6 +1508,10 @@ Regular Costume
 Proud/Beast Costume
 
 	https://files.catbox.moe/7v2xox.safetensors
+
+# Hyperpenetration (Concept)
+
+	https://files.catbox.moe/1fkaaw.safetensors
 
 ## LORAs from the Discord
 

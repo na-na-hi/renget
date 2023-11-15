@@ -1427,3 +1427,57 @@ Rentry for past days: https://rentry.org/sggoi
 >Finally she walks out of the store with you, a pretty smile on her face.
 >"Hey, let's go get some ice cream." She says to you.
 >You sigh playfully, then follow-up with a rather playful, yet sarcastic joke: "Only if you don't get any on your new glasses, those were expensive!"
+
+***
+
+## Day 29 - Monochrome Shiori
+
+>You sit up on your bed, your eyes are blank, your hair's a mess.
+>You drag yourself off and slink yourself to the bathroom
+>You stare at a mirror with dead eyes
+>Life has lost it's meaning a very long time ago.
+>Every time you gazed at the mirror, you would reminisce about the past briefly.
+>Goals, ambition, a drive to be better
+>You used to have all of that.
+>Now the colour in your life has all but faded, a monochrome black and white.
+>Life is but a mere script
+>Wake up, eat food, go to work, come home, eat food, shower and finally sleep.
+>Repeat every single day, unchanging, unfeeling.
+>Your reflection gazes back at you, eyes dead cold.
+>"Perhaps this is enough?"
+>You mused for a while, staring at your empty reflection and it staring back at an empty husk of a person.
+>As you lay down in bed, the thoughts of ending it all fresh in your brain
+>Your eyelids close, your mind begins to drift.
+>Then it begins to play
+>A lone piano, in a world of black and white.
+>You're pretty sure you're dreaming, and you raise your hand, trying to slap yourself awake
+>However all motion stops as the piano continues to play
+>Whatever exists in your chest, begins to pound slowly
+>A feeling you thought had long been forgotten is being stirred
+>A chair appears behind you, and your body automatically goes through the motions of sitting
+>Around you, you begin to see apparitions, however they mean no harm to you at all
+>The ghostly images of farmers putting down their tools and sitting down
+>Knights would appear, resting their swords in the endless darkness that could be called the "ground." and kneeling
+>Creatures that you could not begin to understand the shape of would rest on their stomachs
+>Young men and women would also join in
+>Before you knew it, these ghostly beings had completely surrounded the lone piano.
+>A new tune begins to play, and everyone solemnly listens, no words are spoken during the entire performance.
+>A light begins to shine down on the piano, and you make out the ghostly figure of a girl
+>The source of the piano seems to be coming from the girl.
+>You're unsure of why this dream had begun, at first you wanted to leave and end it, but as the piano continued to play, your long forgotten feelings had begun to return.
+>You feel yourself losing your sense of time, and before you know it, the final tune had been played.
+>The apparitions around you, and all around the piano all stood up in unison
+>There was no sound, but you could see them all clapping, some even bowing before the girl.
+>One by one, they fade away, as if to resume their duties prior to the performance.
+>In the end it's just you, however as you begin to stand up, a single tear drop falls
+>Landing on the pitch black darkness, the dream is suddenly illuminated
+>A grassy field with a stage in the center, a lone piano stood proudly
+>As you look around you, a small voice is heard directly in your mind.
+>"Thank you for listening."
+>Your eyes suddenly open and you sit up
+>You're back in your reality
+>You get up and rush for the bathroom to wash your face of the sweat you feel
+>Then you look up in the mirror and see it
+>For once, in the longest time since you could ever remember
+>Your eyes look more alive than ever before
+>The monochrome world that you had lived in had finally started to show just the tiniest bit of colour.

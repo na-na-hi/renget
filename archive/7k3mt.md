@@ -1,11 +1,12 @@
 ->[![.](https://cdn.discordapp.com/attachments/1137374640239542294/1167953400680415373/title_1.png?ex=6550005e&is=653d8b5e&hm=c8dc4569e38c6a472254fdccf36e791a8da535f9a7c3b83611e887a3095fe395&)](https://rentry.co/7k3mt)<-
 
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
+[Link to the whole MEGA Folder](https://mega.nz/fm/47tk3YoK)
 
 **==LAST UPDATED:==** 14/11/23 [>[CHANGELOG]<](https://rentry.co/uvkrso)
 **==CURRENT BETA VERSION:== 1.6 v.0** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=16) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-1-6/?lang=EN)
 !!! note
-    If you have any questions, suggestions to improve the rentry, or if you notice any errors or missing information, please send them to my [Retrospring](https://retrospring.net/@erikahhrna), and I'll try to answer as quickly as I can!
+    If you have any questions, suggestions to improve the rentry, or if you notice any errors or missing information, please send them to my [Retrospring](https://retrospring.net/@erikahhrna), and I'll try to answer as quickly as I can! 
     
 !!! info
     **Table of Content:**
@@ -79,6 +80,8 @@ Dracula | Fenghuang
 **Stephen** | **Tuitiao**
 ![???](https://cdn.discordapp.com/attachments/1137374640239542294/1167856510181851156/image_3-modified_1.png?ex=654fa621&is=653d3121&hm=2145e84506f1295ee86dd1e6de537e09931cef4b18ae825e5db1b289c0031222&) ??? - ??? - ??? |![???](https://cdn.discordapp.com/attachments/1137374640239542294/1167856509946957945/image_4-modified_1.png?ex=654fa621&is=653d3121&hm=83149850056f4a98997785eb12f4c2ac43429c0ed329fd28ce8fb75ed8ccc669&) ??? - ??? - ???
 
-##Released Characters [WORK IN PROGRESS]
+##Released Characters
+->[![Go to Released Characters](https://cdn.discordapp.com/attachments/1137374640239542294/1174107155838804060/Solid_Light_Gray_Purple_-_Hex_8E88A3_-_Plain_Light_Gray_Purple-modified_1_1_1.png?ex=6566637f&is=6553ee7f&hm=dc65d4c5c92b0c654e585a3f5a111e519b42393d5f104a48691cb9cf15ba08c3&)](https://rentry.co/qc5b26)<-
+
 ##Sources
 [Mero](https://t.me/merlin_impact), [Blednaya](https://t.me/blednayaleaks_hsr), [Stepleaker](https://t.me/stepleaker), [videre](https://t.me/videreleaks), [otchims](https://t.me/otchims_leaks), [Dim](https://twitter.com/dimbreath?lang=en), [h2tr_](https://twitter.com/c2tr_?lang=en), [Affelious](https://twitter.com/AffeliousIII), [HertaStation](https://t.me/HertaStationUA), Nya222, yarik, [HSRReddit](https://t.me/hsrreddit), ThorisIlian, Mystos, Hiro420

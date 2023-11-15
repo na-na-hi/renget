@@ -553,3 +553,18 @@ https://files.catbox.moe/u2r4nv.webm
 files.catbox.moe/ama5xz.mp4
 >NEW HAMAS RPG KINO THE JEW FEARS THE RED TRIANGLE (ADDED NOV 13th)
 https://files.catbox.moe/vtgt58.mp4
+>OCT 7 KIKES FRIENDLY FIRE (ADDED NOV 14th)
+files.catbox.moe/skwk6k.mp4
+>GAZA REMAINS STEADFAST  (ADDED NOV 14th)
+files.catbox.moe/2tutxk.mp4
+>SMOKIN TANKS  (ADDED NOV 14th)
+files.catbox.moe/vtgt58.mp4
+>HOSTAGE DIED IN AIRSTRIKE  (ADDED NOV 14th)
+files.catbox.moe/67gol7.mp4
+>HEZB  (ADDED NOV 14th)
+files.catbox.moe/ikyvdj.MP4
+files.catbox.moe/cu9sze.mp4
+files.catbox.moe/ncsexw.mp4 
+files.catbox.moe/km2hvx.mp4
+files.catbox.moe/aghxbi.mp4
+files.catbox.moe/4uvktx.mp4

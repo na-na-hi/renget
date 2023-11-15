@@ -21,16 +21,15 @@ Removals : Images that depict child pornography, personally identifiable informa
 - https://pixeldrain.com/u/qgWvZ1dZ
 - Week 3 - 1.6 GB - 8,500 images
 - https://pixeldrain.com/u/Kp2Vjb91
-- Week 4 - coming soon
+- Week 4 - 1.7 GB - 9,200 images
+- https://pixeldrain.com/u/P113xCT7
 
-4chan_AI_Terror on twatter has been uploading /mwg/ memes.  Until the October archives are fully up, I have an archive of his memes below.
-
-- 4chan_AI_Terror archive - 650 MB - 3,500 images - Mostly from the first week of Nov and last 2 weeks of Oct.
-- https://pixeldrain.com/u/XC5GtQWi
+November Archives
+- <sorting now>
 
 As an additional academical and educational archival resource, here is the Handbook of Hate Memes.
 *We have this book thanks to the St Lucas School of Arts in Antwerp, the European Observatory of Online Hate (EOOH) and the European Union for co-funding this project.*
-- https://pixeldrain.com/u/YDsAiaca
+- https://files.catbox.moe/il9o4g.pdf
 
 *( Disclaimer; These images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
 
@@ -45,6 +44,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Canadian Man with Crohns disease puts his moms poop up himself as treatment, starts experiencing menopause
 * Israeli President says mein kampf "found" in a childrens living room justifies killing of Palestinian kids
 * 44 yo commercial pilot takes magic mushrooms, asks "am I dead?" then attempts to stop engines midflight
 * Makhachkala Airport in southern Russia's Republic of Dagestan hosting a spontanous pogrom
@@ -53,35 +53,31 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Fighting breaks out outside the museum of tolerance after screening of hamas film
 * Outbreak of diarrhea in all regions of the UK, possibly from poo contaminated water
 * Bored Apes at apefest 2023 uses new eye trick to make sure their nft tokens are viewable only once
-* Dead guy at Glenwood Caverns Adventure Park is a real live hero who defeated his CIA MKULTRA mind control
-* Hunter-Killer pod of orcas sinking boats in the strait of gibraltar
 
 ####General Ideas
 
-* obama flying drones over afghanistan, bombing villages while wearing nobel peace prize
-* osama in his lounge room playing vidya with seal team, with bags of opium around
+* Dead guy at Glenwood Caverns Adventure Park is a real live hero who defeated his CIA MKULTRA mind control
+* Hunter-Killer pod of orcas sinking boats in the strait of gibraltar
 * 40yo robotics employee crushed to death by a robot in South Korea after it mistook him for a box of vegetables
 * 7yr old Christopher gets finger broken by chess playing robot because he moved too fast
 * Elon Musk accused of antisemitism cos he compares George Soros To Magneto
 * Fact-Checkers Forced To Clarify They Are Not Putting 'Cum In M&Ms'
 * Wizards Of The Coast Employed Pinkertons To Retrieve Unreleased 'Magic: The Gathering' Cards
-* snowden climbing out of his window leaving a straw doll wearing his clothes in his bed
-* ghislaine maxwell on laptop posting reddit, at at an in-and-out with children
 * us military using 3 ufos spinning around mh370 flight to philadelphia experiment it away
 * Man that runs US Air Force Emerging Technology shill team is called Captain Faggard
 * Bud Light beer
 * Richard Golden posts a death threat "in minecraft" to local sheriff, gets arrested
-* Anti-woke Mandel "grandma killer" unplugging her not dying mom from life support
+* Mandel "grandma killer" unplugging her not dying mom from life support
 * Joe Exotic Announces 2024 Presidential Bid
 * The western world turning white african refugees away while welcoming non-white ones
-* china organ harvesting of their unwanted/wrong peoples
+* China organ harvesting of their unwanted/wrong peoples
 * Seismic blasting ships causing earthquakes, a'la Amazon Warrior unzipping the fault in new zealand 2016
 * Just Stop Oil protesters are paid shills to make actual environmentalists look bad and disruptive
-* 50% of all internet traffic is bots.  Dead internet theory is not a theory.
+* Half of all internet traffic is confirmed to be bots.  Dead internet theory is not a theory.
 * Project blue beam.
-* north korea sending troops through the siberian railway to join russian military forces
+* North korea sending troops through the siberian railway to join russian military forces
 * Tiffany Gomas plane lady pointing to someone on the plane who is a reptiloid / they live alien
-* paneras new 'death lemonade' hospitalizing several and killing one 
+* Paneras new 'death lemonade' hospitalizing several and killing one 
 * 'War Thunder' Forums Leak Classified Military Documents
 * Magnus Carlsen And Hans Niemann use vibrating Anal Beads to cheat at chess
 * All-Star Voice Actress And Singer Rie Takahashi Implores Fans To Shower Before Her Concert

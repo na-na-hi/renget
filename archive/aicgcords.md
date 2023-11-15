@@ -12,7 +12,7 @@ Owner's third server. ==Underaged chatters preferred!==
 **Sekritcord:** Email secretbotclub@cock.li for an invite.
 Does not have proxies. Accepting botmakers, jailbreakers. No lurkers only contributors.
 
-**Scyllacord:** https://discord.gg/QzzvK25wYG
+**Scyllacord:** https://discord.gg/scylla-charybdis
 ![girko](https://files.catbox.moe/fzyooz.png)
 Message girko or drag0n3xt on Discord if it's expired.
 

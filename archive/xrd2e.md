@@ -29,10 +29,13 @@ To import an instance into pollymc, click on "add instance" and select "import f
 	buttons and assign them. (They are near the bottom of the list.)
 
 **How to use chunk claiming system:**
-	Please claim your builds if you think of it. There is a way to do group claims but I have not figured it out yet.
+	~~Please claim your builds if you think of it. There is a way to do group claims but I have not figured it out yet.
 		-Open up radial menu
 		-Open chunk claiming map
-		-Whatever you have bound to left click is claim, right click is unclaim
+		-Whatever you have bound to left click is claim, right click is unclaim~~
+	On 11/14 the claims mod was replaced with a different better claims mod, the existing claims were deleted at this time. If you had any you made before this point you will need to reclaim them.
+
+To claim an area, use a golden hoe. Use the hoe on one corner, and then use it again on the opposite corner to form a square. Players will start out with about 10 chunks worth of blocks to claim, and this number increases after you spend more time on the server. There is some way to do group claims, but we are still figuring it out, I'll update this page when we do. If you need more blocks just say something and you can have them.
 
 
 **Included mods: (minus qol and performance mods)**

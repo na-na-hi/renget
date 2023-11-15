@@ -62,24 +62,25 @@ The following list is for new players to target, as some units are amazing - But
 **Christina** - Requires 6* & Max investment. Some TLs may require X.Chris bonds as well, so be careful when reviewing TLs. But an amazing physical damage dealer
 **Muimi** - She's definitely back in action, but Muimi requires absolute max investment in order to become relevant. Still worth the S tier rating.
 **Labyrista** - Thanks to her Unique Equip, rocketed straight back to dominance in CB. Requires max investment, but well worth it.
-**Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used.
-**Princess Hiyori** - CB staple that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE.
+**Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used. Requires a lot of team support.
 
 ### ->A Tier - Good for low levels, great for for Max-high levels<-
 **Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
 **Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
 **Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Good CB usage in April, needs more continued usage to stay relevant or move up in worth.
 **Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
+**クローチェ (Croce)** -  Good specialist in multi-target physical damage, but does have a huge drawback if she runs out of her battery resource. Needs team support and is a pure damage dealer. No Unique Equip yet.
+**ライラエル(Lyrael?)** - 
 
 ### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
-**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. 
-**Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
-**クローチェ (Croce)** -  Good specialist in mutl-target physical damage, but does have a huge drawback if she runs out of her battery resource. Needs team support and is a pure damage dealer. No Unique Equip yet.
+**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way.
+**Princess Hiyori** - Physical damage dealer that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE and has been somewhat left behind in recent months. Still useful, but not as featured these days.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
 **Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
+**Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
 
 ### ->D tier - Not worth rolling for at this time<-
 **Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.

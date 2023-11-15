@@ -86,9 +86,13 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90784451
 >Pang Jing
 >>90829445
-
-
-
+>Bai Cheng
+>>90928405
+```
+***
+Page 2
+***
+```
 >ANCESTORS
 >Xū, Void Parisian
 >>90768739
@@ -107,11 +111,6 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >Meng Zhen, Free Deus Ex Machina
 >>90825484
 
-```
-***
-Page 2
-***
-```
 >WRITEFAGS
 >First Fight (Gyldenwulf)
 https://rentry.org/FirstFight
@@ -381,8 +380,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Tournament Part 3
-https://rentry.org/hpe3v
+MHA is once again building up strength!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -566,6 +564,15 @@ https://rentry.org/iptpr
 >Holden Deckard
 >>90913931
 
+>VILLAINS (Villain Name):
+>Turncoat Agency:
+>Keiichi Tano HN Racer V / VN Getaway
+>>88926925
+>Tenshi Chisio HN Caduceus / VN Sawbones
+>>88927453
+>Jack Dunn HN Three-Sixty / VN The Asset
+>>88931192
+
 ```
 ***
 Page 4
@@ -616,14 +623,6 @@ Page 4
 >Edmund Muller VN Mercury
 >>88923191
 
->Turncoat Agency:
->Keiichi Tano HN Racer V / VN Getaway
->>88926925
->Tenshi Chisio HN Caduceus / VN Sawbones
->>88927453
->Jack Dunn HN Three-Sixty / VN The Asset
->>88931192
-
 >Revolutionaries:
 >Momotaro Tachibana VN Nebulous Storm
 >>88376954
@@ -633,6 +632,8 @@ Page 4
 >>88435130
 >Miriam Slowburn Hakase VN Prologing Evil: Big Hat (NPC)
 >>88736960
+>Kester Greenfield
+>>90921671
 
 >Vigilantes:
 >Helene Lysingen VN Noctiluca
