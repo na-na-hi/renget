@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=FOVHylL_zW8
 https://www.youtube.com/watch?v=ysyo7uNTvfs
 https://www.youtube.com/watch?v=bMqzzG9CXq0
 
+\>A Moment Among the Stars — "H-Hello, I'm Huohuo." 
+https://www.youtube.com/watch?v=ZahX2evhmcI
+https://www.youtube.com/watch?v=iXQ9xdgiP78
+
 \>Current Character Banner (Bloom in Gloom || Huohuo (Abundance: Wind) + Dan Heng, Arlan, Serval)
 https://www.hoyolab.com/article/22976557
 
@@ -39,8 +43,10 @@ https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e20230330154031
 
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift
-KBQBEP3L8823 
-PT8TF72MQ93X
+5S9BND25CRBK 
+SOULWLT4EB
+ELFNQLUST8
+ELFNPWQ7ZB
 STARRAILGIFT
 
 \>/hsrg/ Tools & Resources

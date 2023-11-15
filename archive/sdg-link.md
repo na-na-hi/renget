@@ -55,15 +55,14 @@ https://cloud.vast.ai/create/
 	---------------------------
 ##Try online without registration
 ###txt2img
-https://pixai.art
-https://huggingface.co/spaces/stabilityai/stable-diffusion
-https://huggingface.co/spaces/google/sdxl
 https://www.mage.space
 https://frosting.ai
+https://huggingface.co/spaces/stabilityai/stable-diffusion
+https://huggingface.co/spaces/google/sdxl
 https://tensor.art
+https://pixai.art
 https://playgroundai.com
 https://getimg.ai
-https://www.patience.ai
 https://beta.dreamstudio.ai
 https://dezgo.com
 https://pornpen.ai
@@ -317,5 +316,5 @@ https://civitai.com/user/Pleased_Chomusuke
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 11th - https://pastebin.com/FzBtt3vm
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 15th - https://pastebin.com/vbkqsARG
 *(PWAnon, I really dig the chibi animations!)*

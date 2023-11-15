@@ -64,6 +64,7 @@ https://t.me/operativnoZSU
 https://t.me/ermaka2022
 https://t.me/vert_i_call 
 https://t.me/ButusovPlus 
+https://t.me/valerii_markus
 https://t.me/informnapalm 
 https://t.me/ukrnastup
 https://t.me/privatnamemarnya
