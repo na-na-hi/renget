@@ -46,7 +46,7 @@ https://youtu.be/mYYmMht45hg
 https://youtu.be/PaOMF-g1ZWU
 
 >SNS:
-https://youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ
+https://www.youtube.com/@VestiaZeta
 https://twitter.com/vestiazeta
 
 >Zeta's cute noises compilation:
@@ -56,7 +56,7 @@ https://youtu.be/eYYMGJMCxVA
 
 >Fanarts:
 https://twitter.com/hashtag/Zetacrylic
-(azure-gallery is dead)
+https://www.pixiv.net/en/tags/ベスティア・ゼータ
 
 >OP Template:
 https://rentry.org/v7_op/raw

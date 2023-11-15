@@ -2,22 +2,21 @@
 
 ->![Funny](https://files.catbox.moe/4rop19.png)<-
 
-## ->🎃[Recently added to the archive: 11/8/2023](https://youtu.be/WCl7mShf8TY)🍂<-
+## ->🎃[Recently added to the archive: 11/15/2023](https://youtu.be/WCl7mShf8TY)🍂<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
 ->
-(***Series Entry!***) [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
-[Apple of Her Eye (Novelization) Chapter 1](https://docs.google.com/document/d/e/2PACX-1vT9XwpPB80BHw13OMbIeJL_aFu_i7SdrOGxLYgAvy9xZfIriDaN-c5SJJJwuvGQurVcQh9frMpoInnw/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
-[Apple of Her Eye (Novelization) Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTFOGH0MUksaxP8_uL-h8ZS0yCNBiVomJuJggWL762QD-grl4O_9dgHM7p0FotF3h8aXisxvjDSE-7L/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
-[Apple of Her Eye (Novelization) Chapter 3](https://docs.google.com/document/d/e/2PACX-1vSetGDO1l8kCXtCTXoecmqMwzcNizmc7m83tUM4WK9ZUDN_1EoxF66yYsZUEjIuzdsuj-bT6enmRUMU/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
-[Apple of Her Eye (Novelization) Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSexkswg9ReUvSgoFH4RM11vWr_Fwo4Hyd5ZzGPwKBAG1inUTUjQlcbOIIkyiwJV9pi1sonru_T4jSS/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
-[Apple of Her Eye (Novelization) Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSetGDO1l8kCXtCTXoecmqMwzcNizmc7m83tUM4WK9ZUDN_1EoxF66yYsZUEjIuzdsuj-bT6enmRUMU/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
-[HoloShorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Various Chuubas, NSFW, Wedgie Fetish, several short stories within)
-[Coco's Eggs](https://docs.google.com/document/d/e/2PACX-1vSkDOGgKvaNYVZLsPYgG5wvUV-_W5IFycCIwOXyK1TCxU_rsx_I-8ucBnRB0XoViXbolHBhi0809U2I/pub) (Coco, NSFW, Egg-laying Fetish)
-[EXCESS](https://docs.google.com/document/d/e/2PACX-1vRVgbpRKKoM1sYW08glC0PQ0pKwAW-k1JsvGQjNwe3bColeKaQN0CPF8ZVI9aa6u07QNbz9l2icBd1S/pub) (Elira, Selen, SFW, Cyberpunk, Light Drama, Foreplay)
-[Soft as Lion's Fur](https://docs.google.com/document/d/e/2PACX-1vSJv3SmrjlY-0yn9ss-Eh8Y5Ya3c5wFZTp2Xjd80301M2MUr5LtYX5t0QzMPfwgTD59lbeVAmGP-eXB/pub) (Botan, NSFW, Fluff, Failed Pregnancy, Emotional)
-[Fuwawa with Mococo.](https://rentry.co/ex762t) (Fuwawa, Mococo, NSFW, UOHHH, Forced(?))
-[Shelter](https://docs.google.com/document/d/e/2PACX-1vQmx13QCZB8R9LeM5edXddbL_MjYi_ST1vGiwdWTWr0R47taCIhBhq8LxW7PpS450i6aB_Malv5bjcv/pub) (Tokodori Hajime, Fuwa/Moco, omorashi, ABDL, ageplay)
+(***Series Entry!***) [Fujo Fantasies - Chapter 3: Bloom and Doom](https://docs.google.com/document/d/e/2PACX-1vQ00MhfvVELmXCB6w66KLynsXzERhV1cx9wW1w_byXjZnvP47VZYoSmhaz4Hk4MBL_RV3rQYpC2fZfb/pub) (Bae, IRyS, Mori, Fauna) 
+(***Series Entry!***) [First Train and Kafka Stop Twenty Four: P.E.T.](https://docs.google.com/document/d/e/2PACX-1vSW_Gukrt6pzriGUWgcmEsKfL1Tep7CfhnKBQpMRff1MBd7mwAoHLN7zNLec5dN8VcQMFp_oMLIPSKh/pub) (Iofi, NSFW, Molestation)
+[Ero Trap Dungeon Derived Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vTo1_MPQFpCj_sbney-QI3nKx33y065MzgRyLXerJT5lXYOIezFiOD3a1BLGOmTaInik1BlhLNgPvju/pub) (Coco, various Hololive members ,NSFW, Greentext Compilation)
+[A-Chan Wedgie Help](https://rentry.org/76umn) (A-Chan, NSFW, Wedgie Fetish, OL)
+[Hypothermia](https://docs.google.com/document/u/0/d/e/2PACX-1vSfwu6oRgsmipGnv-HGc8eU1QJvT4xKPeaUWf_eMEBH5B-I-gCCR26Kulw_cC6RLuJTG1JNBC_WKbhS/pub) (Unknown Chuuba, SFW, Poetry, Suicidal Ideation, Parasocial)
+[Fauna Fart Fic (FFF)](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub) (Fauna, NSFW, ***Fart Fetish***, Smell Fetish)
+[Last Stardust Chapter One: Preemptive Strike](https://docs.google.com/document/d/e/2PACX-1vT3rD4oT3ilQvm98_yTPjSUcsI2vH7AIAiK8itBotEldDRQ6JVcXzKeikOnbn8wntaEvqQCUBilNoN9/pub) (Botan,Risu, AZKi, SFW, military)
+[Untitled Sodor Isekai](https://docs.google.com/document/d/e/2PACX-1vTzkKVDCgpaTCxCAaSGf96VO7-q8o3U0d_a1asMWxwgSoy7yYLOVg0p-t8WbT8phDDZ_VJLZbiLHFvB/pub) (AZKi, Projekt Melody, Thomas The Tank Engine, Crack, isekai?, very mild ecchi humor)
+[Holologs](https://docs.google.com/document/d/e/2PACX-1vRs_F0PiVWhlYSfdTX75FO0k3jrSRkwho2gdC4Uxh5c9LeShrKJGvMAU77wNII-rPlmE14XusMP6x07/pub) (Several Chuubas, SFW, Comedy, Compilation)
+[Pale Blue Pt. II - SIDE A](https://docs.google.com/document/d/e/2PACX-1vRucM4T4nNwdzhnMXehLKO1teUdbuZIgGS-PAHP8Bv5RNG9dT2A0ZbtVP7fuUzzO37ZERo5aomCeXRh/pub) (Suisei, Anon, A-chan, Sora, SFW, Drama, Incest, Romance, Identity)
+[HoloShorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Various Chuubas, NSFW, Wedgie Fetish, several short stories within, updated)
 <-
 
 
@@ -1195,8 +1194,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [CM - Laplus' Senpai 2](https://docs.google.com/document/d/e/2PACX-1vSEsi2NijvsrYeTxJjVq7sQS5LqLbc9ZNuv8ypOoUB1obfUOr95mcGsJvOps61IILVmPpTpcIs7Gsi7/pub) (Laplus Darkness, NSFWish, Wedgie, Comedy)
 [Wedgie Wars](https://docs.google.com/document/d/e/2PACX-1vS-I-wMEONVzuEWSHlGPsAdlB9K4kTqv51bnkut2Cw5JfOA3c62SW-Z8ZFUmOCEYLeNOBiLg5hrxLvi/pub) (Selen Tatsuki, NSFW, childhood friends, wedgie)
 [Tetris Rage](https://docs.google.com/document/d/e/2PACX-1vSr0QMTAikWMCS57P3jPcOKQGfVj-CPqaZP196ZnL9g-mMW_KalU2bEfkf_ZxfWGQ-n-v47dJUD_E0y/pub) (Suisei, Miko, NSFWish, wedgie, tetris, short story)
-[Fujo Fantasies Ch. 1](https://docs.google.com/document/d/e/2PACX-1vQpNQ8GpA1-5pynyLwz_PeNPFAEqSWrR3fP7ITHusXuwTeMzSH1hyKiMeNfIaIRgC5ZTQ2O3ONiVQpY/pub) (Bae, IRyS, Mori, Ayame, mention of Takane, SFW-ish, High School AU, Fujoshis)
-[Fujo Fantasies - Chatper 2: A Roll Of The Die](https://docs.google.com/document/d/e/2PACX-1vQvPXAsB-IFweNjC8_NBP4YpDRVNKjGKGWErBhiAYzqh5Dpz9ZiEpdqn7-I22sfmFHTaED8iraQZaME/pub) (Bae, IRyS, Mori, Ayame, SFW, Highschool AU, Fujoshi) ^
+(***Series Entry!***) [Fujo Fantasies](https://rentry.co/VTCFFSS#fujo-fantasies) (Bae, IRyS, Mori, Ayame, mention of Takane, SFW-ish, High School AU, Fujoshis)
 [Woolcraft](https://gmyza.blogspot.com/2023/04/woolcraft-eira-woolcott-mf.html) (Eira Woolcott, SFW, M/F)
 [The Wettest Ink](https://docs.google.com/document/d/e/2PACX-1vQDHfs0GhmvlJvfTkmZXbGdDROs6qC4AcjiKw4IuaLyw_UbbpxPQVWoYn8LFJrAosMcs2wPUEUhgPv9/pub) (Ninomae Ina'nis, NSFW, Comedy, Smell, Cunnilingus, Emotionless Sex)
 [Rushia the Second](https://docs.google.com/document/d/e/2PACX-1vR0JD8tLtd9XTVvUQu3VQmtwQSYa1qMzZztEoAoC3ZHUI-OXnuRpYBf70ckQsp_erYavkQeK6IuGMzH/pub) (Rushia, NSFW, /become/, abuse, corruption)
@@ -1307,6 +1305,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Suisei's Doppelganger Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vQ8j3cYOL77mCjXV05ZD0Ix8LxGB7crXrr8B5HGOdU3nFISj8zJtPgAXJJdMqC9NY3K-wIFTO8dRUVe/pub) (Suisei, Ao, Drama, Mystery, SFW, Compilation)
 [The Nutcracker](https://docs.google.com/document/d/e/2PACX-1vQjaqnMeTpsfuKIdUuOVwLDj80A8H455kXY9rtvXVnuzglaNP7TXgsi1pOlsOT9YhMDKDRNHlRSMDt3/pub) (Hakos Baelz, SFW)
 [Pale Blue - Pt. I](https://docs.google.com/document/d/e/2PACX-1vS1yv3mlxKnchEDkD3WwhUrcrFKXBPhfIJ_ken9tJeoezIpYErTOxpwCvIied9nXAxvJ5H96wnVR4Ys/pub) (Suisei, A-Chan, Several Others, SFW, Drama, Incest, Romance)
+[Pale Blue Pt. II - SIDE A](https://docs.google.com/document/d/e/2PACX-1vRucM4T4nNwdzhnMXehLKO1teUdbuZIgGS-PAHP8Bv5RNG9dT2A0ZbtVP7fuUzzO37ZERo5aomCeXRh/pub) (Suisei, Anon, A-chan, Sora, SFW, Drama, Incest, Romance, Identity) ^
 [31 Days of Shiori for Holoctober!](https://rentry.org/sggoi) (Holoctober, Shiori Novella, Anthology, multiple stories ranging fron Fluff to NSFW, ongoing)
 [Light the Fire - 01](https://rentry.org/dwkmr) (Advent, Horror, Adventure, Schizophrenia)
 [Distress Signal](https://rentry.org/8gduo) (Jelly Hoshiumi, NSFW, Living Clothes, Corruption)

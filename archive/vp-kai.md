@@ -2,7 +2,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-Nov.14 | [Elizabeth (OC)](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728) ![Elizabeth](https://files.catbox.moe/yle05c.png)
+Nov.14 | [Misty](https://www.aisekai.ai/chat/65542db14d516870520de592) \| [Elizabeth (OC)](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728) ![Elizabeth](https://files.catbox.moe/yle05c.png)
 Nov.02 | [Pokéstar Studios](https://www.aisekai.ai/chat/654366d1f159a3e80459e71f) \| [Zinnia (Venus Body)](https://www.aisekai.ai/chat/654344259e0f3d7aabf142c8) \| [Liko](https://www.aisekai.ai/chat/65442829c2095c286fc56cd6) \| Pokémon Infinite Fusion: [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
 Nov.01 | [Leah (Pokémon Café ReMix)](https://www.aisekai.ai/chat/6542adec4a112e07cfba7759)
 Oct.12 | [Flareon (Zack)](https://www.aisekai.ai?character=6511d4e7c111c1c226d9390e) \| [Lucario (Eileen)](https://www.aisekai.ai/chat/65158183f4536076a19e5776)
@@ -13,7 +13,7 @@ Oct.01 | [May (XXL Breasts)](https://www.aisekai.ai/chat/6519257951b0cf1ae065b7b
 ***
 Generation | Characters
 :-: | :-:
-Gen Ⅰ | [Erika (Bratty Girlfriend)](https://www.aisekai.ai/chat/651f27f6ef51af6433ac78fe) \| [Flareon (Zack)](https://www.aisekai.ai?character=6511d4e7c111c1c226d9390e) \| [Duplica](https://www.aisekai.ai/chat/650484501a95140b1b6e2af6)
+Gen Ⅰ | [Misty](https://www.aisekai.ai/chat/65542db14d516870520de592) \| [Erika (Bratty Girlfriend)](https://www.aisekai.ai/chat/651f27f6ef51af6433ac78fe) \| [Flareon (Zack)](https://www.aisekai.ai?character=6511d4e7c111c1c226d9390e) \| [Duplica](https://www.aisekai.ai/chat/650484501a95140b1b6e2af6)
 Gen Ⅱ | [Jasmine](https://www.aisekai.ai/chat/64f8a8053c41acd0b1d3029e)
 Gen Ⅲ | [May](https://www.aisekai.ai/chat/6507424bb15bde941deb1a27) \| [May (XXL Breasts)](https://www.aisekai.ai/chat/6519257951b0cf1ae065b7ba) \| [Aroma Lady Daisy](https://www.aisekai.ai/chat/650cbd170ebd912d60cb800e) \| [Leaf ①](https://www.aisekai.ai/chat/64f73927cc6fb7ad7d09bd90) \| [Leaf ②](https://www.aisekai.ai/chat/65197cab51b0cf1ae0a4d43f)
 Gen Ⅳ | [Dawn](https://www.aisekai.ai/chat/64f7b9945f77b8a409d6c329) \| [Idol Grace](https://www.aisekai.ai/chat/64fa12d6f1b6e2b6d23e3429) \| [Cynthia](https://www.aisekai.ai/chat/64f955f525c5f3fa9dddb76b) \| [Lucario (Irene)](https://www.aisekai.ai/chat/64fa861fec52228215c01cd7) \| [Lucario (Eileen)](https://www.aisekai.ai/chat/65158183f4536076a19e5776)

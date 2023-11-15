@@ -410,6 +410,7 @@
 [First Train and Kafka: Stop 19](https://docs.google.com/document/d/e/2PACX-1vQoy9w2STuOzF_9FsJ1PwLaetdsVlHujCUGQzBpRiJQGtMUq6O03C9g49bfukLWQr_QmIdR5xKRlQ_9/pub) (anthology series, (you), Suisei, underage sex)
 [First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
 [First Train and Kafka Stop Twenty Seven: Doll of Building Blocks](https://docs.google.com/document/d/e/2PACX-1vQf7GEqqCB8ufcXRU72Utag8HMZ5o57_aoQn3vti5vfIXX21uI6dwqOy0de4ci57pQWdyzosmHio0rb/pub) (Civia, incest, MDLB, light omorashi, breastfeeding, underage)
+[First Train and Kafka Stop Twenty Four: P.E.T.](https://docs.google.com/document/d/e/2PACX-1vSW_Gukrt6pzriGUWgcmEsKfL1Tep7CfhnKBQpMRff1MBd7mwAoHLN7zNLec5dN8VcQMFp_oMLIPSKh/pub) (Iofi, NSFW, Molestation)
 
 #####->*Your Time Is Gonna "Come"*<-
 >Kronii has always been wiping the floor with you anytime she catches you doing your time-travelling shenanigans, but after getting a random helping hand, you're thinking you can do something about her smug attitude and her alarmingly juicy tittes and booty.
@@ -580,3 +581,18 @@
 [Balse Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
 [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
 [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)
+
+##### -> Apple of Her Eye <-
+>Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.
+
+[Apple of Her Eye (Novelization) Chapter 1](https://docs.google.com/document/d/e/2PACX-1vT9XwpPB80BHw13OMbIeJL_aFu_i7SdrOGxLYgAvy9xZfIriDaN-c5SJJJwuvGQurVcQh9frMpoInnw/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTFOGH0MUksaxP8_uL-h8ZS0yCNBiVomJuJggWL762QD-grl4O_9dgHM7p0FotF3h8aXisxvjDSE-7L/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 3](https://docs.google.com/document/d/e/2PACX-1vSetGDO1l8kCXtCTXoecmqMwzcNizmc7m83tUM4WK9ZUDN_1EoxF66yYsZUEjIuzdsuj-bT6enmRUMU/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+[Apple of Her Eye (Novelization) Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSexkswg9ReUvSgoFH4RM11vWr_Fwo4Hyd5ZzGPwKBAG1inUTUjQlcbOIIkyiwJV9pi1sonru_T4jSS/pub) (Suisei, Sora, Marine, NSFW, sexual abuse)
+
+##### -> Fujo Fantasies<-
+> Anon Hawkes is a brand new member of the Student Council following his arrival to Aurelia Academy and subsequent poaching by the President, Ayame. Finding himself roped into joining the Relationship Appreciation Club - which desperately required a fourth member to stay afloat - he's subjected to both the world of hardcore yaoi and the awkward girls within who call the place home.
+
+[Fujo Fantasies Ch. 1](https://docs.google.com/document/d/e/2PACX-1vQpNQ8GpA1-5pynyLwz_PeNPFAEqSWrR3fP7ITHusXuwTeMzSH1hyKiMeNfIaIRgC5ZTQ2O3ONiVQpY/pub) (Bae, IRyS, Mori, Ayame, mention of Takane, SFW-ish, High School AU, Fujoshis)
+[Fujo Fantasies - Chapter 2: A Roll Of The Die](https://docs.google.com/document/d/e/2PACX-1vQvPXAsB-IFweNjC8_NBP4YpDRVNKjGKGWErBhiAYzqh5Dpz9ZiEpdqn7-I22sfmFHTaED8iraQZaME/pub) (Bae, IRyS, Mori, Ayame, SFW, Highschool AU, Fujoshi) ^
+[Fujo Fantasies - Chapter 3: Bloom and Doom](https://docs.google.com/document/d/e/2PACX-1vQ00MhfvVELmXCB6w66KLynsXzERhV1cx9wW1w_byXjZnvP47VZYoSmhaz4Hk4MBL_RV3rQYpC2fZfb/pub) (Bae, IRyS, Mori, Fauna) ^

@@ -8,7 +8,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 9 | **Experience to Next Level:** 90/25
-**Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
+**Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 1,055₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
@@ -33,7 +33,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Absorb | 2BP | 5AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
-Water Gun | 6BP | 4AP | ≥2 | Water | Special | No secondary effect.
+Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
 Acid Armor | 0BP | 4AP | -	 | 	Poison | Status | The User's Defense is increased by 2.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -72,7 +72,7 @@ Training for Attribute: Star Charting | Tier ɪɪɪ (+3) | 2/3 | ▮▮▯
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
+*Worn/Held Item: N/A* | 
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. N/A | 
 2. Blast Seed | Explodes on contact for 10 true damage.
