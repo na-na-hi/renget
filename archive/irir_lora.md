@@ -439,6 +439,51 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 
 ***
 
+## SDXL
+学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。TEが二つあるせいでTE込みの学習が激ムズらしい。
+現状マルゼン式(タグの集約)は良くない感じ。タグは消さずに残すべし。
+
+### 学習に使うウェイト
+SDXL base推奨。ほかの物だと汚くなる。
+
+Dim16/Alpha4,OpimizerはDAdaptLion,stepsは大体4000-5000。
+sd_xl_base_1.0
+![Image](https://files.catbox.moe/esqq7w.jpg)
+
+kohakuXLBeta_beta7Pro
+![Image](https://files.catbox.moe/v00k4d.jpg)
+
+### SD1.5との比較
+1.5
+![Image](https://files.catbox.moe/2chn95.jpg)
+絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
+
+XL
+![Image](https://files.catbox.moe/360sev.jpg)
+ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
+
+1.5
+![Image](https://files.catbox.moe/m1rpco.jpg)
+ヘイローも文字も溶けた見慣れた光景。
+
+XL
+![Image](https://files.catbox.moe/oqol6r.jpg)
+腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。
+ヘイローも安定。目もadetailer、hires.fixありの1.5よりきれい。素晴らしい。
+
+### 画風
+ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。学習に使ったcheckpointはKohakuXL
+
+KohakuXL
+![Image](https://files.catbox.moe/cw0r0e.jpg)
+
+KohakuXLに学習したLoRA0.85でマージ
+![Image](https://files.catbox.moe/n540ds.jpg)
+![Image](https://files.catbox.moe/02v23b.jpg)
+画風は近くなったけど品質が下がった気がする。
+
+***
+
 ## その他
 ### キャラLoRAの最適解？
 - 教師画像はできるだけ多く(50枚以上)

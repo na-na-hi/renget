@@ -4,11 +4,10 @@ Edit of https://rentry.org/telosint2022
 
 *NEWS*
 https://t.me/ukr_pics (/uhg/ telegram, translation of videos)
-https://t.me/truexanewsua (largest news telegram channel, publish a lot of exclusive videos)
-https://t.me/u_now (second largest)
-https://t.me/V_Zelenskiy_official (self-explanatory)
-https://t.me/uniannet (Ukrainian media)
-https://t.me/TCH_channel (Ukrainian media)
+https://t.me/truexanewsua (largest news telegram channel)
+https://t.me/u_now (2nd largest news telegram channel)
+https://t.me/lachentyt (largest blogger)
+https://t.me/vanek_nikolaev (2nd largest blogger)
 https://t.me/kievreal1 (Kyiv local channel)
 https://t.me/kharkivlife (Kharkiv)
 https://t.me/mariupolnow (Mariupol)
@@ -16,10 +15,12 @@ https://t.me/xydessa (Odesa)
 https://t.me/hueviyherson (Kherson)
 https://t.me/eto_zp (Zaporizhzhia)
 https://t.me/dnipro (Dnipro)
+https://t.me/V_Zelenskiy_official (self-explanatory)
 
 *GROUPS*
 https://t.me/CinCAFU (Commander-in-chief of the AFU)
 https://t.me/ua_dshv (Airborne assault troops of the AFU)
+https://t.me/AFUStratCom
 https://t.me/SBUkr (Security Service of Ukraine)
 https://t.me/ab3army (Azov Special Operations)
 https://t.me/MaksymZhorin (ex-commander of the AZOV regiment, now a major of the Armed Forces, deputy commander of the 3rd OSHBr)
@@ -32,12 +33,22 @@ https://t.me/DIUkraine (GUR)
 https://t.me/k_2_54 (Combat group K-2 54 OMBr)
 https://t.me/umftteam ("Signum" unit)
 https://t.me/stanislav_osman (call sign "Osmán", 24 OSHB "Aidar")
-https://t.me/AFUStratCom
+https://t.me/valerii_markus
 https://t.me/BUAR110ombr 
 https://t.me/ogshb8
 https://t.me/wolfspackgroup
 
 *OTHER*
+https://t.me/ermaka2022 (Head of the Office of the President of Ukraine)
+https://t.me/dsns_telegram (State Emergency Service of Ukraine)
+https://t.me/bahshiddemon (Bakhmut situation)
+https://t.me/ssternenko (youtuber, far-right activist)
+https://t.me/a_shtirlitz (posts confirmed dead russian officers)
+https://t.me/Tsaplienko (journalist)
+https://t.me/ButusovPlus (journalist)
+https://t.me/operativnoZSU (OSINT)
+https://t.me/okoo_ukraine (OSINT)
+https://t.me/vert_i_call (Yermak henchman)
 https://t.me/ukrbavovna (war footage)
 https://t.me/+h8-HTHhUp6I2ZWEy (war footage)
 https://t.me/+CfR2239RY-ljZjYy (war footage)
@@ -54,29 +65,16 @@ https://t.me/pidrozdilshadowoficial (drones)
 https://t.me/prytulafoundation (drones)
 https://t.me/BaluHUB (drones)
 https://t.me/aerobomber (drones)
-https://t.me/bahshiddemon (Bakhmut situation)
-https://t.me/vanek_nikolaev
-https://t.me/lachentyt
-https://t.me/ssternenko
-https://t.me/a_shtirlitz 
-https://t.me/Tsaplienko
-https://t.me/operativnoZSU
-https://t.me/ermaka2022
-https://t.me/vert_i_call 
-https://t.me/ButusovPlus 
-https://t.me/valerii_markus
-https://t.me/informnapalm 
-https://t.me/ukrnastup
-https://t.me/privatnamemarnya
-https://t.me/ukrchan 
-https://t.me/okoo_ukraine
-https://t.me/UaOnlii 
-https://t.me/voynareal
-https://t.me/insiderUKR
-https://t.me/+V8VPwRkVmO9mODBi 
-https://t.me/tgsn_ua
-https://t.me/ukraina_novosti 
-https://t.me/dsns_telegram
+https://t.me/informnapalm (International intelligence community InformNapalm)
+https://t.me/UaOnlii (news)
+https://t.me/voynareal (news)
+https://t.me/insiderUKR (news)
+https://t.me/+V8VPwRkVmO9mODBi (news)
+https://t.me/tgsn_ua (news)
+https://t.me/ukraina_novosti (news)
+https://t.me/uniannet (news outlet)
+https://t.me/TCH_channel (news outlet)
+https://t.me/censor_net (news outlet)
 
 ##RUSSIAN CHANNELS
 https://t.me/s/strelkovii (telegram of Igor Strelkov, ex-FSB and former commander of all separatist forces in Donbass)

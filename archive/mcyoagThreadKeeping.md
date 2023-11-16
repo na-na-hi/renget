@@ -292,8 +292,6 @@ Towa Kadowaki
 >Pirates
 Abraham the Slayer
 >>90887262
-Funeda
->>90888116
 Edward
 >>90879870
 Amaranthy
@@ -324,6 +322,8 @@ Rosa
 >>90879507
 Idia
 >>90911712
+Funeda
+>>90945509
 
 >Four Emperors
 Big Hand Robur
@@ -369,6 +369,8 @@ https://pastebin.com/JsMxJkVr
 https://rentry.org/znkrq
 >A Meeting Marred
 https://rentry.org/8o5g6
+>A Pirate's Life For Her
+https://rentry.org/7463i
 
 ```
 

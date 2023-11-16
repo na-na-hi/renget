@@ -93,6 +93,8 @@ Eddy writefag 3:
 https://pastebin.com/VihVaVt9
 Chester Chainsaw Helps (?) Some Marines! (Chester Chainsaw)
 https://rentry.org/t35wa
+A Meeting Marred
+https://rentry.org/8o5g6
 
 ##ART
 *VGH* KINOOOOOOO
