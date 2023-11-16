@@ -393,8 +393,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Feral Art
->>90932810
+>A serpent amongst heroes and dragons (Yamata):
+https://rentry.org/mah6d
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -893,6 +893,8 @@ https://rentry.org/4ezcv
 https://rentry.org/NoctiBecomesA20thCenturyWarlord
 >Tournament Part 3
 https://rentry.org/hpe3v
+>A serpent amongst heroes and dragons (Yamata):
+https://rentry.org/mah6d
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
@@ -1965,121 +1967,6 @@ Writefags (Continued):
 https://controlc.com/62f522dc
 >The Morning After [Feat. Setsuko Mishima]
 https://controlc.com/dc48dcea
-```
-#The Facility
-
-***
-Page 1
-***
-```
->Facility ControlC:
-https://controlc.com/8cb08486
-
-Rules:
-> Getting out: Mass Breakout, you start with 4 Heat Points + Military Mobilization is a mandatory option but still reduces your Super Heat by 1.
-> Don't take Breach of Secrecy.
-> You can take the "Stay" option.
-> Don't use the points from Potential in the build.
-> Your build could have been from any Facility, as Mass Breakout means that builds from every Facility have the opportunity to interact. They might also go on missions together if they chose to stay.
-> You can choose to experience the revelation for your Facility or not.
-
->Facility Recent Events:
-```
-***
-Page 2
-***
-```
-Relationship Charts:
->Eyespy
-https://archive.4plebs.org/tg/post/87849817
->Juggernaut
-https://archive.4plebs.org/tg/post/87854991
->Ghost
-https://archive.4plebs.org/tg/post/87857976
->Arditi
-https://pastebin.com/DV8yhwpJ
->Princess
-https://controlc.com/94047954
->Kaylee
-https://pastebin.com/fstRwMnz
->Witch
-https://controlc.com/be0dfcdb
->No.Miss
-https://archive.4plebs.org/tg/post/88027898
->Sierra's Log
-https://pastebin.com/srC3At2M
->Blindspot
-https://desuarchive.org/tg/thread/88136954#88140179
->Farmhouse
-https://controlc.com/a4180695
->Spider
-https://pastebin.com/syrGH2Wx
-
-Writefags:
->Facility Postescape 1 (Juggernaut, mentions of Ghost)
-https://pastebin.com/SSWYTeZs
->Debrief over takeout (Juggernaut, Ghost, mentions of Jejune)
-https://pastebin.com/4nvyVjjB
->Skipping Town (Juggernaut, Ghost, Jejune, Princess)
-https://pastebin.com/MVxs0DMK
->Freedom at Last (Nuke)
-https://pastebin.com/s9zDunnE
->Joyride (Eyespy)
-https://pastebin.com/zDk7hMbn
->Matrix post escape, with a temporary car (Matrix)
-https://pastebin.com/100YfEsd
->The Mongoose (Arditi)
-https://pastebin.com/rR1Z1X2q
->The Gospel According to Bob (Barbara)
-https://controlc.com/08d58523
->A Chance Encounter (Arditi, Project C-008001-M-APW/E)
-https://pastebin.com/kgkhhtS0
->Reminiscing (Deep-Dive, Bloodhound, Horseshoe, Soul Eater)
-https://controlc.com/87dd0ea3
->Transcript (Project C-008001-M-AWP/E)
-https://archive.4plebs.org/tg/post/88011000
->Projecting (Barbara)
-https://controlc.com/799689b2
->Behemoth a day out V2 (Behemoth)
-https://controlc.com/9012c90b
->Matsuda, Major Incident Logs (Including Mentions from Farmhouse, Behemoth, No.Miss, Matrix, Nuke, Nikitai, Hammer, Legion, Juggernaut, Duet, Proxy, Arditi)
-https://pastebin.com/7LnpP7Ex
->Exodus (Barbara)
-https://controlc.com/21f9a395
->Brandon's Bad Day
-https://controlc.com/522959e7
->Breakfast At Rileys (Arditi & Nikitai)
-https://pastebin.com/bTMLn6sN
->Freedom (Sierra Alpha)
-https://pastebin.com/tLjErAuV
->Delayed Briefing (The Major, Project C-008001-M-APW/E, Nikitai, Arditi, No.Miss, Tiger)
-https://controlc.com/65700231
->An average job for the Foundation (Louis, Duma)
-https://controlc.com/abb8decb
->Interview (Eyespy)
-https://pastebin.com/rbBAS80n
->Keep on Truckin' (Barbara, brief appearance by Duma)
-https://controlc.com/b6a5a975
->Audit 1 (Duma "Auditor" Abbas, John Q. "Everyman" Public, mentions of Barbara, mention of Louis "Unseen" White)
-https://pastebin.com/AFAEBpN3
-```
-***
-Page 3
-***
-```
-Writefags (Continued):
->The Life of Pablo (Farmhouse)
-https://controlc.com/d4962606
->The Flight of the Witch (Witch)
-https://controlc.com/1cd08ac6
->Dear Diary (Blindspot, most other Center Builds)
-https://controlc.com/002547bb
->HAIL_KNIGHT_OF_SETH:FLESH_RECORDS/(FINAL) (Project C-008001-M-APW/E, Arditi, Nikitai, Duet, Princess, Nuke)
-https://pastebin.com/aQUta8K9
->Strophaios (Hermes)
-https://controlc.com/382859e7
->Girls Trip (Eyespy, Juggernaut, Princess)
-https://pastebin.com/6C3JrCSx
 ```
 #Worm (Reboot)
 

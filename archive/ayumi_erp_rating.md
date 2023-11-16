@@ -9,6 +9,8 @@ This ranking table contains a rating of different LLMs, which tries to determine
 - Other Rankings/Comparisons:
     - [The Crestfall Project - Leaderboard](https://rentry.org/ndcbq#leaderboard)
     - u/WolframRavenwolf on reddit
+        - [LLM Comparison/Test: 2x 34B Yi (Dolphin, Nous Capybara) vs. 12x 70B, 120B, ChatGPT/GPT-4 by 
+u/WolframRavenwolf](https://www.reddit.com/r/LocalLLaMA/comments/17vcr9d/llm_comparisontest_2x_34b_yi_dolphin_nous/)
         - [Huge LLM Comparison/Test: 39 models tested (7B-70B + ChatGPT/GPT-4) by 
 u/WolframRavenwolf](https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/)
         - [Huge LLM Comparison/Test: Part II (7B-20B) Roleplay Tests by u/WolframRavenwolf](https://www.reddit.com/r/LocalLLaMA/comments/17kpyd2/huge_llm_comparisontest_part_ii_7b20b_roleplay/)

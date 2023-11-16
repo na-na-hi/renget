@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/ojZ3ni.png) <-
+-> ![](https://a.imagem.app/olE8Ue.png) <-
 
 # 🧭 ➜ [Megathread](https://rentry.co/megathread) / **All Purpose**
  

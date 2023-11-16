@@ -21,6 +21,8 @@ Pokoko-koko-pokokoko
 https://archive.4plebs.org/tg/post/90882196
 Yamome
 https://archive.4plebs.org/tg/post/90905233
+Towa Kadowaki
+https://archive.4plebs.org/tg/post/90934112
 
 Pirates:
 Melia
@@ -43,6 +45,10 @@ Asraol
 https://archive.4plebs.org/tg/post/90903293
 Sora Tenshi
 https://archive.4plebs.org/tg/post/90905795
+Goose D. Robur
+https://archive.4plebs.org/tg/post/90931699
+Captain Hog Scoville of The Rockin' Heart Pirates
+https://archive.4plebs.org/tg/post/90933927
 
 Seven Warlords:
 Rosa
@@ -55,6 +61,8 @@ https://archive.4plebs.org/tg/post/90911712
 Four Emperors:
 Big Hand Robur
 https://archive.4plebs.org/tg/post/90912254
+Ox Garrett
+https://archive.4plebs.org/tg/post/90929641
 
 Revolutionary:
 Dr Marvelous

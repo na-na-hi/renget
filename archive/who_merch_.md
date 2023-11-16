@@ -4,9 +4,6 @@
 	https://twitter.com/hololive_goods 
 	https://merch-matome.com/
 
-**Council 3D showcase merch (Latern for Mumei)** (Order period ends 13th November 1800 JST)
-https://shop.hololivepro.com/products/hololiveen_council_3d2023
-
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
@@ -113,3 +110,6 @@ https://shop.hololivepro.com/en/products/hololiveen_beegsmolcouncilrys
 
 **Council 2nd Anniversary Merch (Bangles)** (Order period ends 25th September 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
+
+**Council 3D showcase merch (Latern for Mumei)** (Order period ends 13th November 1800 JST)
+https://shop.hololivepro.com/products/hololiveen_council_3d2023

@@ -876,6 +876,7 @@ A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca): https://rent
 Faith Kang in: The VIP Box (ft. Anthony Chang): https://rentry.org/4ezcv
 Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu): https://rentry.org/NoctiBecomesA20thCenturyWarlord
 Tournament Part 3: https://rentry.org/hpe3v
+A serpent amongst heroes and dragons (Yamata): https://rentry.org/mah6d
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
