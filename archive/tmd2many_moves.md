@@ -142,7 +142,7 @@ Dragon Darts | 5 BP | 7 AP | ≥2 | Dragon | Physical | Hits twice. Hits two Opp
 **Dragon Energy** | 8 BP | 8 AP | ≥2 | Dragon | Special | The Move's damage is increased by 1 for every 10 HP the User has. 
 Dragon Hammer | 9 BP | 7 AP | ≥2 | Dragon | Physical | No secondary effect.
 Dragon Pulse | 9 BP | 7 AP | ≥2 | Dragon | Special | No secondary effect.
-Dragon Rage | - | 7 AP | ≥2 | Dragon | Special | Deals 12 damage. Not affected by STAB, Stat increases or decreases, or Type Effectiveness except for immunities.
+Dragon Rage | - | 7 AP | ≥2 | Dragon | Special | Deals 8 damage. Not affected by STAB, Stat increases or decreases, or Type Effectiveness except for immunities.
 Dragon Rush | 10 BP | 8 AP | ≥6 | Dragon | Physical | 16-20; The Opponent Flinches.
 Dragon Tail | 6 BP | 5 AP | ≥3 | Dragon | Physical | The User throws the Opponent.
 Drain Punch | 7 BP | 6 AP | ≥2 | Fighting | Physical | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.

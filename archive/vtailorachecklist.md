@@ -89,7 +89,7 @@ Suzune Nia | - | - | -
 Pengin Pina | - | - | -
 Rikudou Yura | - | - | -
 Kamizuki Naki | - | - | -
-Anon Non | - | - | -
+Anon Non | X | - | X
 Ushio Sumi | - | - | -
 Shikami Lana | - | - | -
 Akane Jun | - | - | -
@@ -502,7 +502,7 @@ Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Otokado Ruki | - | - | -
 Kujo Ringo | - | - | -
-Syusetu Kohaku | - | - | -
+Syusetu Kohaku | X | - | X
 Tulsi-Nightmare Madness IV | X | X | -
 Hinahoshi Airu | - | - | -
 Audrey Mina | - | - | -
@@ -1464,6 +1464,7 @@ Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
 Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
+Nanobites | X | X | - | -
 Towa Rui | X | - | X | -
 Ace Taffy | X | - | X | ???
 Kirsche Verstahl | X | - | X | -

@@ -225,6 +225,7 @@
 10/2023|[LLark: A Multimodal Foundation Model for Music](https://arxiv.org/abs/2310.07160)
 10/2023|[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)
 10/2023|[Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents](https://arxiv.org/abs/2310.19923)
+11/2023|[Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -423,6 +424,7 @@
 11/2023|[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)
 11/2023|[Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization](https://arxiv.org/abs/2311.01544)
 11/2023|[Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs](https://arxiv.org/abs/2311.02262)
+11/2023|[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

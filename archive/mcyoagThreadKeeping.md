@@ -286,6 +286,8 @@ Yamome
 >>90905233
 Admiral Troika Margrave
 >>90914249
+Towa Kadowaki
+>>90934112
 
 >Pirates
 Abraham the Slayer
@@ -310,6 +312,10 @@ Asraol
 >>90903293
 Sora Tenshi
 >>90905795
+Goose D. Robur
+>>90931699
+Hog Scoville
+>>90933927
 
 >Seven Warlords
 Atla
@@ -323,7 +329,9 @@ Idia
 Big Hand Robur
 >>90912254
 Geiger
->>90913088
+>>90930135
+Ox Garrett
+>>90929641
 
 >Revolutionaries
 Baster
@@ -357,6 +365,11 @@ https://pastebin.com/v6r8urD9
 https://rentry.org/qrxqzd
 >What if he died?
 https://pastebin.com/JsMxJkVr
+>First Class (Saint Timothy Morgenstern, Tenot Metzenbam, Grace Sol, Mioka, Sora Tenshi mentioned)
+https://rentry.org/znkrq
+>A Meeting Marred
+https://rentry.org/8o5g6
+
 ```
 
 #MHA

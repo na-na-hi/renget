@@ -93,6 +93,7 @@
 |24/08/2023|[Timestamp #1](https://youtu.be/ILrxzxosEvk?t=4182) [Timestamp #2](https://youtu.be/ILrxzxosEvk?t=4359)|**Streamer-chat interactions** during Shiori's Needy Streamer Overload stream. Some greetings after a raid and Nerissa invited Shiori to watch Perfect Blue - nothing groundbreaking.|
 |03/09/2023|[Link](https://www.youtube.com/watch?v=i1QwdpHnB4Y&t=625s)|**Summary video** - Short video about the fanfic reading from the ASMR Fanfic reading stream from 10/08/2023.|
 |09/09/2023|[Timestamp #1](https://youtu.be/O4oabHyDIlg?t=3305) [Timestamp #2](https://youtu.be/O4oabHyDIlg?t=3701) [Timestamp #3 - Start of the third sequence](https://youtu.be/O4oabHyDIlg?t=3873) [Timestamp #4 - Third interaction proper](https://youtu.be/O4oabHyDIlg?t=3937) [Timestamp #5](https://youtu.be/O4oabHyDIlg?t=7898) [Timestamp #6 - Confirmation that Shiori will partake to the 4th Terraria strem's VC](https://youtu.be/O4oabHyDIlg?t=9714)|**Mentions & Streamer-chat interactions** - Numerous back-and-forth interactions and mentions with Nerissa by Shiori during her SOS: A Wonderful Life from 10/08/2023. Also confirmation that she will participate to the forth Terraria stream.|
+|2023-11-14|[Timestamp](https://www.youtube.com/watch?v=_BOI9_TU_YA&t=3800)|**Streamer-chat interactions & VC** - Nerissa was backseating Shiori during the latter's playthrough of FAITH Chapter 3, initially in chat only but eventually popped into VC for a brief moment.|
 
 ###### 🗿 Bijou
 |Date|Link|Nature & Notes|

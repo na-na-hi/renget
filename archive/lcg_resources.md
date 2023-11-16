@@ -150,7 +150,7 @@
 This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](https://rentry.org/akg_resources) because it is very well made.
 
 ## Contact
-Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something; I read every thread.
+Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
 
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.

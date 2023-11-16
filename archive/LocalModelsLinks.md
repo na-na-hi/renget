@@ -27,7 +27,6 @@
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
 [ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
-[Rentry Archive](https://archive.is/f8UGT)|From before 09/2023 cleanup  
 |
 **Learn**|
 [Andre Karpathy YT](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
@@ -77,6 +76,7 @@
 [Medusa](https://github.com/FasterDecoding/Medusa)|Uses attention heads to serve as the draft model instead for speculative decoding
 [DejaVu](https://github.com/FMInference/DejaVu)|Context sparsity for efficient inference leading to large speedups (6x vs HF transformers) 
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
+[REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
 |
 **Non-LLM Local Models**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
@@ -89,8 +89,8 @@
 [Set-of-Mark](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
 [CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
-[SALMONN](https://github.com/bytedance/SALMONN)|Audio instruction tuned multimodal LLM (Whisper+BEATS+Vicuna)
-[Faster Whisper](https://github.com/guillaumekln/faster-whisper)|Whisper using CTranslate2, 4 times faster and 8bit support
+[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
+[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
 [Anticipation](https://github.com/jthickstun/anticipation)|Text-to-Music based on anticipatory infilling (MIDI currently)

@@ -356,7 +356,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 This is shamelessly copied from the [/akg/ Newcutie Guide Rentry](https://rentry.org/akgnewcutieguide) because it is very well made.
 
 ## Contact
-Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post. Don't worry about me missing something; I read every thread.
+Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
 
 ## Changelog 
 9/22-23/23: Created and then pulled an all-nighter to finish V.1.

@@ -11,7 +11,7 @@
 ##&nbsp;->2023<-
 - 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;It's Pizza Time! Edition
 - 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
-- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
+- 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[879]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
 
 - 649&nbsp;&nbsp;[archiveofsins.com/h/thread/7641843/](https://archiveofsins.com/h/thread/7641843/)&nbsp;&nbsp;&nbsp;&nbsp;(02.11.2023 20:34)&nbsp;&nbsp;[843]&nbsp;#&nbsp;Moe~Moe-kyuun.... Edition
 - 648&nbsp;&nbsp;[archiveofsins.com/h/thread/7637831/](https://archiveofsins.com/h/thread/7637831/)&nbsp;&nbsp;&nbsp;&nbsp;(30.10.2023 23:45)&nbsp;&nbsp;[902]&nbsp;#&nbsp;Photoshop time Edition

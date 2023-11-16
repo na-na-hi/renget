@@ -18,3 +18,5 @@ asha, realistic foxgirl | [possibly rabid](https://files.catbox.moe/bdbbqn.png)
 fellor, lentil salesman | [fellor](https://files.catbox.moe/my8z29.png)
 maisa, fox in a box | [save her](https://files.catbox.moe/qxtik1.png)
 FOXLIFE | [FOXLIFE](https://files.catbox.moe/yg7l4o.png)
+
+come to rentry.org/wmudds
