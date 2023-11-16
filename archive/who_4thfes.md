@@ -34,11 +34,11 @@ Streaming+ VOD. Check the cat site for the SPWN VOD torrent. BD is now avalible 
 _______________________________
 
 ##Song clips
-|Song|Part of the|Performing Members|Live clip|Live X BD clip|
+|Song|Part of the|Performing Members|BD clip| Live VOD clip|
 |----|---|-----|---|---|
-|Supercell - My Dearest |Holo Fes Day 1 concert| Nanashi Mumei|[![](https://files.catbox.moe/0byar8.png)](https://files.catbox.moe/2datzo.mp4) |[Link](https://cldup.com/WFzKaTxCbb.mp4)|
-|アンジュルム(Angerme ) - スキちゃん/Suki-chan |Holo Fes Day 1 concert |Amelia Watson, Nanashi Mumei, Ninomae Ina'nis, Takanashi Kiara|[![](https://files.catbox.moe/nm0w4p.png)](https://files.catbox.moe/u9azvf.mp4) |[Link](https://cldup.com/gazBscnXHq.mp4)|
-|deco\*27 - ゴーストルール/Ghost Rule| holo\*27 stage (Day 2 of the Fes) | Nanashi Mumei, Takanashi Kiara |[![](https://files.catbox.moe/vx78j8.png)](https://files.catbox.moe/xxq309.mp4) |[Link](https://cldup.com/PKuoXIJL5X.mp4)|
+|Supercell - My Dearest |Holo Fes Day 1 concert| Nanashi Mumei|[![](https://files.catbox.moe/0byar8.png)](https://files.catbox.moe/l4dafi.webm)|[Link](https://files.catbox.moe/2datzo.mp4) |
+|アンジュルム(Angerme ) - スキちゃん/Suki-chan |Holo Fes Day 1 concert |Amelia Watson, Nanashi Mumei, Ninomae Ina'nis, Takanashi Kiara|[![](https://files.catbox.moe/nm0w4p.png)](https://files.catbox.moe/jke0st.webm) |[Link](https://files.catbox.moe/u9azvf.mp4)|
+|deco\*27 - ゴーストルール/Ghost Rule| holo\*27 stage (Day 2 of the Fes) | Nanashi Mumei, Takanashi Kiara |[![](https://files.catbox.moe/vx78j8.png)](https://files.catbox.moe/5f3b28.webm) |[Link](https://files.catbox.moe/xxq309.mp4)|
 
 **BD clips download**
 [Link](https://gofile.io/d/jKEKjd)

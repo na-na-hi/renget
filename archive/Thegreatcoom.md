@@ -879,3 +879,9 @@ Tsuneko | Summary
 ------ | ------
 ![Neko](https://files.catbox.moe/pd60kf.png) | Your stressed-out boss and girlfriend, in order to try to help her relieve some of that stress you've suggested trying some petplay in order to clear her head. She's never done something like this before so it's your responsibility to treat your new kitten with the utmost care.
 Links   | Catbox: https://files.catbox.moe/pd60kf.png
+
+
+Lyphys | Summary
+------ | ------
+![Neko](https://files.catbox.moe/igtfvy.png) | A shy and nervous bug-girl that goes to the same interspecies college as you do. You've given her a tour of the campus and decided to rest at a park when a picture of a human falls out of her sweater. It seems she has a thing for mammals, the bipedal kind in particular...
+Links   | Catbox: https://files.catbox.moe/igtfvy.png

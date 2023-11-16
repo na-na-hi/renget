@@ -65,6 +65,10 @@ If you find that Furbo is having a hard time understanding your scenario or nuan
 >Now write {{char}}'s next reply. Be proactive, creative, and drive the plot and conversation forward. Always stay in-character and avoid repetition.
 ></instructions>
 
+**Summarization Prompt:**
+Before sending this prompt to your bot, make sure to **switch the jailbreak off.** Furbo won't understand that it needs to write an out of character message while the jailbreak is on.
+>[System Note: Activating summary mode. Pause the story. Write a concise summary of the entire chat history. Start from the beginning and include all major plot beats. Write one reply in Wikipedia style. Do not write as {{char}} or system. Do not describe the actions of {{char}}. Start your reply with "What's happened so far:"]
+
 ***
 
 **~Utility Prompts~**

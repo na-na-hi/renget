@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-11-11)==<-
+->==(Updated 2023-11-16)==<-
 ***
 [TOC2]
 ***
@@ -57,6 +57,9 @@ https://rentry.org/lmg-13b-showdown
 
 https://old.reddit.com/user/WolframRavenwolf/submitted/?sort=new
 - linked [here](https://desuarchive.org/g/thread/96895763#96898926), llm comparison with ST roleplay tests
+
+https://snombler.neocities.org/logs
+- some tests of various llms specifically for long-form roleplay, performed by a botmaker
 
 
 

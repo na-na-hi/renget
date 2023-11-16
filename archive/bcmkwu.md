@@ -1,4 +1,32 @@
 ▶NEW CLIPS
+>Fires in occupied Toretsk, DNR after arrivals
+https://files.catbox.moe/pask4i.mp4
+>hohol degenerates remove Pushkin Monument
+https://files.catbox.moe/usmd34.mp4
+>Performance of "Russian Vityaz" at the Dubai Airshow 2023
+https://files.catbox.moe/lovlk7.MP4
+>FPV drones wreck AFU positions in buildings
+https://files.catbox.moe/jshkr1.mp4
+>TOS burns AFU positions near Klescheevka
+https://files.catbox.moe/umv9pr.mp4
+>Russians bombard AFU before assaulting them near kupyansk, AFU flees
+https://files.catbox.moe/8hpol5.mp4
+>arty smokes hohol positions near robotown
+https://files.catbox.moe/16wxoj.MP4
+>brutal grenade drops on AFU in Bakhmut
+https://files.catbox.moe/tfrpkj.MP4
+>hohol base in Krasnoye, Kharkov destroyed by arty
+https://files.catbox.moe/wlxyq8.mp4
+> FAB-1500 UMPK dropped on AFU in Ivanovo, Kherson
+https://files.catbox.moe/jtsam1.mp4
+>assault on the industrial zone in the south of Avdeevka
+https://files.catbox.moe/4oas1h.mp4
+>new clip of Spetsnaz working during the 2022 assault on Mariupol
+https://files.catbox.moe/yl4yjb.MP4
+>AFU air defense forces destroyed in Pyatohatki
+https://files.catbox.moe/hp986g.mp4
+>AFU armor column tried to attack Novoprokopovka and got destroyed
+https://files.catbox.moe/csoyw7.mp4
 >machine gunner distracts hohol tank, then it gets blown up by a Russian one
 https://files.catbox.moe/qgs2iz.MP4
 >40 neo-nazi larpers denazified by TOS-1A barrage at Krynki

@@ -47,7 +47,7 @@ General rule of thumb for the farmable S-rank suits is they need SS-tier or high
 become good.
 
 With the way the game is currently going full fotm with the powercreep and S-rank releases,
-if you can roll a new DPS S-rank on release, you're *probably* set for 6-8 months (depending
+if you can roll a new DPS S-rank *on release*, you're *probably* set for 6-8 months (depending
 on Mihoyo's weather choices - early  game, you can just fling shit at the wall, later, you'll need
 proper supports built,) but the era when you could get 2+ years of service out of a DPS
 seems to be long gone.
@@ -55,6 +55,7 @@ seems to be long gone.
 !!!info
 	This section is intended more as a list of the available characters and the abbreviations
 	commonly used to refer to them, to cut down on the spam of "Hey, what does X mean?"
+	If you need a tardlist, use the most recent CN one.
 	
 
 &nbsp;
@@ -134,11 +135,11 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Mobius/Aponia (assuming you have 7TR.)  ~~Really wants the KoC.~~  Wants the *Seven*
 &nbsp;&nbsp;&nbsp;&nbsp;*Thunders* divine key, it reworks her ult to stop the buff clock during the cinematic.  Don't
 &nbsp;&nbsp;&nbsp;&nbsp;even bother rolling for Benares anymore, 7TR was paired with Zhenyi on its first banner,
-&nbsp;&nbsp;&nbsp;&nbsp;and 2-3pc Handel is also good.
+&nbsp;&nbsp;&nbsp;&nbsp;and 2-3pc Handel is also good.  Toilet status with LV Luna's release, S0 beats SSS HoT.
 
 *Herrscher of Origin* (HoO) / Limited (free in 6.4)
 &nbsp;&nbsp;&nbsp;&nbsp;Thanks to the chinks for rioting about the recent wave of back-to-back-to-back S-ranks,
-&nbsp;&nbsp;&nbsp;&nbsp;we finally got an IMG primary DPS unit for 'free'.  Had a 50% refund gear banner in 6.4
+&nbsp;&nbsp;&nbsp;&nbsp;we finally got an IMG primary DPS unit for 'free'.  Also had a 50% refund gear banner in 6.4
 &nbsp;&nbsp;&nbsp;&nbsp;(they never rerun these sort of release promotions,) so all everyone needed was
 &nbsp;&nbsp;&nbsp;&nbsp;her weapon and 2pc since we also got a pick-a-stigma box - in exchange for this
 &nbsp;&nbsp;&nbsp;&nbsp;largess, they baited people to pull for S2, since it's a fair bit stronger than usual, and if
@@ -209,7 +210,9 @@ seems to be long gone.
 *Herrscher of Truth* (HoTr/Shin-Bronya) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Sidegrade AE/Fischl replacement that requires 3-4/4 to compete with either in fire/lightning.
 &nbsp;&nbsp;&nbsp;&nbsp;Mainly intended for the 3 S-rank 12/12 kompu team (kompu weather fucking sucks, but
-&nbsp;&nbsp;&nbsp;&nbsp;is still doable without the whale squad.)
+&nbsp;&nbsp;&nbsp;&nbsp;is still doable without the whale squad.)  Already potentially on the way out, too, given that
+&nbsp;&nbsp;&nbsp;&nbsp;Mihoyo is moving towards type-exclusive supports (Sushang/Luna) and away from generalists
+&nbsp;&nbsp;&nbsp;&nbsp;like HoTr and AE.
 &nbsp;
 #####Himeko
 **B-valks**
@@ -281,16 +284,16 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;completely burn through her SP.  This, plus her new sakura judah PRI makes
 &nbsp;&nbsp;&nbsp;&nbsp;her...a support bitch for Rimestar.  I mad.
 
-*Luna Kindred* (LK)
+*Luna Kindred* (LK)						/ Luna
 &nbsp;&nbsp;&nbsp;&nbsp;Smashes enemies with a giant axe.  Unfortunately merely decent, not
 &nbsp;&nbsp;&nbsp;&nbsp;fantastic - Bio Phys is a tough niche for everyone other than chink birds.
 &nbsp;&nbsp;&nbsp;&nbsp;Easy to rank up through open world rewards.
 
 *Starlight Astrologos* (SA)			/ Zhuge
-&nbsp;&nbsp;&nbsp;&nbsp;Cannon wife.  First off-field QTE unit, super useful with varied on-hit support 
-&nbsp;&nbsp;&nbsp;&nbsp;stigs (JST/Newt B, etc.)  Wants either her Zither or TP's Hekate PRI.  Mandatory 
+&nbsp;&nbsp;&nbsp;&nbsp;Cannon wife (bigamy is a man's romance.)  First off-field QTE unit, super useful with varied 
+&nbsp;&nbsp;&nbsp;&nbsp;on-hit support stigs (JST/Newt B, etc.)  Wants either her Zither or TP's Hekate PRI.  Mandatory 
 &nbsp;&nbsp;&nbsp;&nbsp;phys support if you only have short duration on-hit buff stigs (Newton/PP Mei/etc.)
-&nbsp;&nbsp;&nbsp;&nbsp;Second line now due to Griseo and Carole.
+&nbsp;&nbsp;&nbsp;&nbsp;~~Second line now due to Griseo and Carole.~~Tertiary choice due to Prommy.
 &nbsp;
 **S-valks**
 *Violet Executer* (VE/TP)				/ Dorm / Farmable (AW)
@@ -298,12 +301,21 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Excellent ST-mecha physical dps.  Needs SS-rank, core 5.  Eats Jizo and DXY alive in
 &nbsp;&nbsp;&nbsp;&nbsp;memorial/abyss.  With Hekate PRI and SSS-rank, she still does well enough vs bosses
 &nbsp;&nbsp;&nbsp;&nbsp;that mihoyo went out of their way to trash her (extra adds w/boss Aponia) to push
-&nbsp;&nbsp;&nbsp;&nbsp;Hare.
+&nbsp;&nbsp;&nbsp;&nbsp;Hare (newfags need not apply - SSS rank would take the better part of a year to grind.)
 
 *Celestial Hymn* (CH)					/ Dorm / Farmable (AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Critical physical supporter, especially with her endgame PRI weapon.  Impair and succ 
 &nbsp;&nbsp;&nbsp;&nbsp;on ultimate, impair on switch, and a number of damage passives.  Made farmable in 4.6,
 &nbsp;&nbsp;&nbsp;&nbsp;and displaced by HoS as mandatory.
+
+*Lunar Vow: Crimson Love* (LV)	/ Luna (Terihag) / Limited
+&nbsp;&nbsp;&nbsp;&nbsp;Damn, what a monkey's paw - we finally get another Teri suit after all these years, and
+&nbsp;&nbsp;&nbsp;&nbsp;fanchuan decides to indulge in his age-progression fetish (Hagseo next patch, too.)  Strong
+&nbsp;&nbsp;&nbsp;&nbsp;dps/support, PSY lightning bleed? (wtf?)  For all the grousing, she's snappy to play (outside of
+&nbsp;&nbsp;&nbsp;&nbsp;missing QTE and having to self charge her eviscerators,) and has a long breach buit into her ult.
+&nbsp;&nbsp;&nbsp;&nbsp;Hits fast, so Judah is a not-terrible single-target option for her, but a lot of her support value
+&nbsp;&nbsp;&nbsp;&nbsp;is tied up in her T+B stigs.  First unit where the elemental damage affixes on stig aren't a DPS loss.
+&nbsp;&nbsp;&nbsp;&nbsp;All Teris are both best girls and cannon wives (AU versions of the same girl aren't cheating - fite me)
 &nbsp;
 #####Fu Hua
 **A-valks**
@@ -333,22 +345,23 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;stat inflation needing more multipliers.  Margrave is available in foundry, but it seems like
 &nbsp;&nbsp;&nbsp;&nbsp;the new trend is using 2x elemental specific (if not valk specific,) supports going forwards.
 
-*Herrscher of Sentience* (HoS/Shiki-chan)		/ Chuu Hua / Limited
+*Herrscher of Sentience* (HoS/Shiki-chan)		/ Chuu Hua / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Neo Night Squire (i.e. OP), on the heels of another Bio Phys - was intended to be a CH
 &nbsp;&nbsp;&nbsp;&nbsp;powercreep, actually powercrept all Bio Phys DPS.  Multi-weapon user, so tons of new
 &nbsp;&nbsp;&nbsp;&nbsp;and flashy animations.  Free gather, forced t-frac on dodge + team sp, impair, and high 
 &nbsp;&nbsp;&nbsp;&nbsp;damage make her the current best Bio Phys.  Wants her gloves, but not necessarily
 &nbsp;&nbsp;&nbsp;&nbsp;her stigmata (Sirin A/Dirac/Dirac work for dps, and Gluttony/Mei PP/Newton work for
 &nbsp;&nbsp;&nbsp;&nbsp;support, but you'll want full swords vs mobs/bosses with adds/dps with extended damage 
-&nbsp;&nbsp;&nbsp;&nbsp;windows.)  Put in 6.4 battle pass, so either she's getting creeped soon, ~~or we're getting~~
-&nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept by HoRb Seele, but since we
-&nbsp;&nbsp;&nbsp;&nbsp;still don't have a newer bio phys unit, HoS can still fill a dps niche, and you'll need HoS
-&nbsp;&nbsp;&nbsp;&nbsp;to support DPS HoRb.
+&nbsp;&nbsp;&nbsp;&nbsp;windows.)  ~~Put in 6.4 battle pass, so either she's getting creeped soon,  or we're getting~~
+&nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept as phys support by HoRb Seele,
+&nbsp;&nbsp;&nbsp;&nbsp;but they decided to release a new DK for her, so currently, brick HoS is still the only workable
+&nbsp;&nbsp;&nbsp;&nbsp;bio phys dps unit.  (We'll see if brick becomes a literal brick, given that they might just
+&nbsp;&nbsp;&nbsp;&nbsp;pretend she doesn't exist in boss rotation)
 &nbsp;
 #####Kallen
 **A-valks**
 *Imayoh Ritual* (IR)
-&nbsp;&nbsp;&nbsp;&nbsp;Awakened unit, mecha ST-melee physical with some I-frames.  Falls behind quickly.
+&nbsp;&nbsp;&nbsp;&nbsp;Awakened unit, mecha ST-melee physical with some I-frames.  Old and busted.
 &nbsp;&nbsp;&nbsp;&nbsp;If you're getting instakilled in Elysian Realm, know that IR's I-frames aren't *real*
 &nbsp;&nbsp;&nbsp;&nbsp;I-frames - she just moves her hitbox upwards, out of reach of most enemies.  Clock
 &nbsp;&nbsp;&nbsp;&nbsp;fucker can instakill you due to being so tall.
@@ -375,12 +388,13 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;elemental solo team.  Really dead as a support these days.
 &nbsp;
 **S-valks**
-*Argent Knight Artemis* (AKA)			/ Dorm
+*Argent Knight Artemis* (AKA)			/ Farmable (AW) / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Ara ara and tits.  Solid damage output and constantly freezes enemies, but has no time-
 &nbsp;&nbsp;&nbsp;&nbsp;fracture, so falls behind in time-attack stages like memorial.  Must have her scythe - 
-&nbsp;&nbsp;&nbsp;&nbsp;doubly so now, since Skadi PRI covers her SP problems.  Dead.
+&nbsp;&nbsp;&nbsp;&nbsp;doubly so now, since Skadi PRI covers her SP problems.  Was finally made farmable -
+&nbsp;&nbsp;&nbsp;&nbsp;years after any value was squeezed out of her.
 
-*Fallen Rosemary* (FR)				/ Farmable (AW+AL)
+*Fallen Rosemary* (FR)				/ Farmable (AW+AL) / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Quantum lightning semi-support type.  Similar function to BD+JST, but better for more
 &nbsp;&nbsp;&nbsp;&nbsp;drawn out fights.  Due to being farmable, needs SS-rank minimum.  Gear and frags were
 &nbsp;&nbsp;&nbsp;&nbsp;readily available before 4.6 through battlepass or by spending resonators.  Needs the scythe.
@@ -389,8 +403,8 @@ seems to be long gone.
 *Spina Astrea* (SpA)				/ Limited (partial upgrade available from Elysian Realm)
 &nbsp;&nbsp;&nbsp;&nbsp;The "generous" second S-rank of patch 5.5 - only has AKA as an abyss boss rn.  Crystal sink
 &nbsp;&nbsp;&nbsp;&nbsp;unless you don't have HoF+Mobius, and probably will be spending event bait into the future
-&nbsp;&nbsp;&nbsp;&nbsp;for rank up chips.  If you're a newfag, you should probably skip her for HoFi - even at SS-rank
-&nbsp;&nbsp;&nbsp;&nbsp;she feels a little too close to S-rank HoFi to recommend.  Dead now with the release of Sirin -
+&nbsp;&nbsp;&nbsp;&nbsp;for rank up chips.  If you're a newfag, you should skip her for ~~HoFi~~Sirin - even at SS-rank
+&nbsp;&nbsp;&nbsp;&nbsp;she feels a little too close to ~~S-rank HoFi~~S1 Sirin to recommend.  Dead with the release of Sirin -
 &nbsp;&nbsp;&nbsp;&nbsp;she's both horribly expensive and still worse in comparison.  Rita Rossweisse pleases old men 
 &nbsp;&nbsp;&nbsp;&nbsp;for B-chips.
 &nbsp;
@@ -399,28 +413,28 @@ seems to be long gone.
 *Swallowtail Phantasm* (SP)
 &nbsp;&nbsp;&nbsp;&nbsp;Only A-rank physical quantum type in the game, get used to playing her.  Usability
 &nbsp;&nbsp;&nbsp;&nbsp;maxes out at SS-rank.  Needs SN's PRI scythe at higher ranks, (why would you
-&nbsp;&nbsp;&nbsp;&nbsp;pull on an S-rank gear supply for an S-rank you don't have?) but is old and dying
-&nbsp;&nbsp;&nbsp;&nbsp;outside of the rare Tonatiuh weather.  Cute butt got Xinnie'd.
+&nbsp;&nbsp;&nbsp;&nbsp;pull on an S-rank gear supply for an S-rank you don't have?) but is old and dead
+&nbsp;&nbsp;&nbsp;&nbsp;especially since Susannah is phys (bleed) quantum and much newer.  Cute butt got Xinnie'd.
 &nbsp;
 **S-valks**
-*Herrscher of Rebirth* (HoRb)		/ Limited
-&nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS) as phys supporter, and MPE as psy phys dps, Deereele is a
-&nbsp;&nbsp;&nbsp;&nbsp;new mixed phys main support/psy dps.  Motif stig wise, she's another B-locked
-&nbsp;&nbsp;&nbsp;&nbsp;valk, but since she's a herrscher, you can move Senti's set over to her to patch the gap - 
-&nbsp;&nbsp;&nbsp;&nbsp;note that in phys bleed comps, her motif is still worse than 2pc holmes.
-
-*Stygian Nymph* (SN)					/ Dorm (as of v5.0)
+*Stygian Nymph* (SN)					/ Farmable (AL) / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Was a do-all semi-powercreep character.  AOE as light seele, ST as dark seele.  Released just 
 &nbsp;&nbsp;&nbsp;&nbsp;after Twilight Paladin (do you see a pattern here?)  Needs her scythe and full Allan Poe,
 &nbsp;&nbsp;&nbsp;&nbsp;but is neutral to most enemies, so could brute force almost any low temp +phys abyss weather
-&nbsp;&nbsp;&nbsp;&nbsp;with proper team composition.  Shilled in BP 5.0-5.1, so dying outside memorial.
+&nbsp;&nbsp;&nbsp;&nbsp;with proper team composition.  Old and dead outside of collection autism.
 
-*Starchasm Nyx* (SeX/SX/Nyx/etc.) / SEELE / Limited
+*Starchasm Nyx* (SeX/SX/Nyx/etc.) / SEELE / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Sidegrade ice to HoR/AKA - if you don't have either, she can fill both their roles;  less
 &nbsp;&nbsp;&nbsp;&nbsp;useful if you already have both geared, though.  Might be important in the future if
-&nbsp;&nbsp;&nbsp;&nbsp;abyss gets spammed with linked mobs.  Can use Ana and Skadi, but they aren't
-&nbsp;&nbsp;&nbsp;&nbsp;comparable to her fullset.  Gets pushed out of most of her ice weathers (but not quantum
-&nbsp;&nbsp;&nbsp;&nbsp;Tonatiuh or Hellmaru (if you use kot)) by Boobnya, victim of the new, high speed powercreep.
+&nbsp;&nbsp;&nbsp;&nbsp;abyss gets spammed with linked mobs.  Motif stigs are available in foundry.
+&nbsp;&nbsp;&nbsp;&nbsp;Got pushed out of most of her ice weathers (but not quantum Tonatiuh)
+&nbsp;&nbsp;&nbsp;&nbsp;by Boobnya, victim of the new, high speed powercreep.
+
+*Herrscher of Rebirth* (HoRb)       / Limited
+&nbsp;&nbsp;&nbsp;&nbsp;Replacement for Senti (HoS) as phys supporter, and MPE as psy phys dps, Deereele is a
+&nbsp;&nbsp;&nbsp;&nbsp;new mixed phys main support/psy dps.  Motif stig wise, she's another B-locked
+&nbsp;&nbsp;&nbsp;&nbsp;valk, but since she's a herrscher, you can move Senti's set over to her to patch the gap.
+&nbsp;&nbsp;&nbsp;&nbsp;As far as DPS usage, you still need a second impair source, so HoS still has value.
 &nbsp;
 #####Durandal
 **A-valks**
@@ -432,7 +446,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;ownership pushes her out.  Sieg Goose.
 &nbsp;
 **S-valks**
-*Bright Knight Excelcius* (BKE)		/ Dorm
+*Bright Knight Excelcius* (BKE)		/ Farmable (AL) / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;AOE Physical mecha DPS, but hogs the field, so needs SA and full Dante/Dirac/
 &nbsp;&nbsp;&nbsp;&nbsp;Zorro for the 3pc impair effect to be comparable to TP/SN (unless you have her new fast
 &nbsp;&nbsp;&nbsp;&nbsp;rotation/nuke lance + HoS.)  Can skip boss phases by spiking them.  Favored child of MiHoYo's 
@@ -600,7 +614,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;as DPS though.)  Her kit has integrated shield-break bonuses, so you'll get hardlocked
 &nbsp;&nbsp;&nbsp;&nbsp;score-wise vs ice without her.
 
-*Dreamweaver*  / Hare (Mistletain Schariac) / Limited
+*Dreamweaver*  / Hare (Mistletain Schariac/Skinwalker) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;New mech phys DPS notCecilia to replace BKE and TP.  Uses a new weapon type (likely to become
 &nbsp;&nbsp;&nbsp;&nbsp;more frequent as they try to keep players from stat-sticking with their older PRIs,) so you
 &nbsp;&nbsp;&nbsp;&nbsp;either get her weapon or just skip entirely and use the foundry javelin and Elysia set w/Dante M.
@@ -609,7 +623,7 @@ seems to be long gone.
 *Miracle Magical Girl* / Sirin / Farmable
 &nbsp;&nbsp;&nbsp;&nbsp;Sirinfags won, Queenfags lost.  Farmable mecha fire for ignite shill weathers with a farmable
 &nbsp;&nbsp;&nbsp;&nbsp;G4 fire motif set - her chakram/scissors are a massive chunk of her damage, so roll for them
-&nbsp;&nbsp;&nbsp;&nbsp;and farm the rest.  Congrats to the Sirinfags for avoiding the poison touch of the Hagdev.
+&nbsp;&nbsp;&nbsp;&nbsp;and farm the rest.  Replaces SpA due to both cheapness and a better upwards ceiling.
 &nbsp;&nbsp;&nbsp;&nbsp;Sirin Did Nothing Wrong
 
 &nbsp;
@@ -854,10 +868,10 @@ LoW 2 Egg
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;available, less important.  You'd be better off getting AE/HoTr instead.
 &nbsp;
 &nbsp;
-With the current state of powercreep, *IMO* you should focus on getting a good general support stigmata set
-(Turganev) and farming fragments for the newer A-rank support suits (mix in a new gacha main DPS to taste.)
-With how fast JewHoYo is ramping the powercreep/char replacement rate, support gear currently has the longest
-lifespan, since it can be used on multiple shill bosses that all want different main dps valks.
+With the current state of powercreep, *IMO* you should focus on getting a good *NEW* main DPS fully geared, then
+some general support stigmatas (Turganev T+B are currently the most useful generics) and farming fragments for 
+whichever A-rank support works with your shiny new DPS.  With how fast JewHoYo is ramping the powercreep/char
+replacement rate, multi-use stigs/valks are a must.
 
 Try to restrain your dumber whale urges, unless you just want a reason to shit up the thread at eos.
 
@@ -894,6 +908,7 @@ but offrates, you're probably going to get fucked.
 &nbsp;
 ####Notes
 Links are in the thread header - use them.
+Don't feed the schizos
 You will be thrown into the endgame unprepared, you will lose points, and you will be happy
 Shit changes fast these days, so always get multiple opinions.
 Split rate ups are the devil.

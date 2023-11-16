@@ -1,4 +1,4 @@
--> Last update: 2023-09-28 ->
+-> Last update: 2023-11-16 ->
 
 # /horg/ - Horror Games General 
 
@@ -106,11 +106,13 @@ Official (and unofficial) places you can get these games.
 
 -> ![Resident Evil](https://i.imgur.com/Cv7j2rb.jpg) <-
 
-[Alan Wake 1](https://store.steampowered.com/app/108710/Alan_Wake/) & [American Nightmare](https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/) [▶️](https://www.youtube.com/results?search_query=Alan Wake+gameplay)
+[Alan Wake 1](https://store.steampowered.com/app/108710/Alan_Wake/), [American Nightmare](https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/) & [Alan Wake 2](https://store.epicgames.com/en-US/p/alan-wake-2) [▶️](https://www.youtube.com/results?search_query=Alan Wake+gameplay)
+[Aliens: Dark Descent](https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/) [▶️](https://www.youtube.com/results?search_query=aliens+dark+descent+gameplay)
 [Alien Isolation](https://store.steampowered.com/app/214490/Alien_Isolation/) [▶️](https://www.youtube.com/results?search_query=Alien+Isolation+gameplay)
 [Condemned 1: Criminal Origins](https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/) & [2: Bloodshot](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/Condemned%202%20-%20Bloodshot%20(USA,%20Europe)%20(En,Fr,Es,It).zip) [(via Xenia)](https://xenia.jp/download/) [▶️](https://www.youtube.com/results?search_query=Condemned+gameplay)
 [Control](https://store.steampowered.com/app/870780/Control_Ultimate_Edition/) [▶️](https://www.youtube.com/results?search_query=Control+gameplay)
 [Days Gone](https://store.steampowered.com/app/1259420/Days_Gone/) [▶️](https://www.youtube.com/results?search_query=days+gone+gameplay)
+[Dead by Daylight](https://store.steampowered.com/app/381210/Dead_by_Daylight/) [▶️](https://www.youtube.com/results?search_query=dead+by+daylight+gameplay) `play the free characters first before you sink money into dlc`
 [Dead Rising 1](https://store.steampowered.com/app/427190/DEAD_RISING/), [2](https://store.steampowered.com/app/45740/Dead_Rising_2/) & [2:OTR](https://store.steampowered.com/app/45770/Dead_Rising_2_Off_the_Record/), [3](https://store.steampowered.com/app/265550/Dead_Rising_3_Apocalypse_Edition/) [▶️](https://www.youtube.com/results?search_query=dead+rising+gameplay)
 [Dead Space 1 Original](https://store.steampowered.com/app/17470/Dead_Space_2008/) & [Remake](https://store.steampowered.com/app/1693980/Dead_Space/), [2](https://store.steampowered.com/app/47780/Dead_Space_2/) & [3](https://store.steampowered.com/app/1238060/Dead_Space_3/) [▶️](https://www.youtube.com/results?search_query=dead+space+gameplay)
 [Deadly Premonition: Director's Cut](https://store.steampowered.com/app/247660/Deadly_Premonition_The_Directors_Cut/) + [PC fixes](https://www.pcgamingwiki.com/wiki/Deadly_Premonition:_Director%27s_Cut) [▶️](https://www.youtube.com/results?search_query=Deadly+Premonition+gameplay)
@@ -130,6 +132,7 @@ Official (and unofficial) places you can get these games.
 [The Callisto Protocol](https://store.steampowered.com/app/1544020/The_Callisto_Protocol/) [▶️](https://www.youtube.com/results?search_query=Callisto Protocol+gameplay) `spiritual successor to Dead Space`
 [The Evil Within 1](https://store.steampowered.com/app/268050/The_Evil_Within/) & [2](https://store.steampowered.com/app/601430/The_Evil_Within_2/) [▶️](https://www.youtube.com/results?search_query=The Evil Within+gameplay)
 [The Last Of Us 1](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/) [▶️](https://www.youtube.com/results?search_query=The Last Of Us+gameplay)
+[The Texas Chainsaw Massacre](https://store.steampowered.com/app/1433140/The_Texas_Chain_Saw_Massacre/) [▶️](https://www.youtube.com/results?search_query=texas+chainsaw+massacre+gameplay)
 
 ### Survival horror - Retro classic era
 
@@ -350,7 +353,7 @@ Lighthearted, cartoonish, kids-friendly or fun takes on horror tropes, etc. perf
 [Castlevania: Kid Dracula](https://vimm.net/vault/?p=list&q=kid+dracula) [▶️](https://www.youtube.com/results?search_query=Kid Dracula+gameplay)
 [Evil Twin](https://www.myabandonware.com/game/evil-twin-cyprien-s-chronicles-dy8) [▶️](https://www.youtube.com/results?search_query=Evil Twin+gameplay)
 [Gregory Horror Show](https://vimm.net/vault/67370) [▶️](https://www.youtube.com/results?search_query=Gregory Horror Show+gameplay)
-[Luigi's Mansion](https://vimm.net/vault/?p=list&q=Luigi%27s%20Mansion) [▶️](https://www.youtube.com/results?search_query=Luigi's Mansion+gameplay)
+[Luigi's Mansion](https://vimm.net/vault/?p=list&q=Luigi%27s%20Mansion), [Luigi's Mansion 2](https://romsfun.com/roms/3ds/luigis-mansion-dark-moon.html) & [Luigi's Mansion 3](https://nsw2u.com/luigis-mansion-3-switch-nsp-nsz-xci-6) [▶️](https://www.youtube.com/results?search_query=Luigi's Mansion+gameplay)
 [MediEvil](https://vimm.net/vault/?p=list&q=Medievil) [▶️](https://www.youtube.com/results?search_query=MediEvil+gameplay)
 [Ghosts 'n Goblins](https://vimm.net/vault/?p=list&q=ghost+goblin) [▶️](https://www.youtube.com/results?search_query=Ghosts 'n Goblins+gameplay), [Ghouls 'n Ghosts](https://vimm.net/vault/?p=list&q=Ghouls%20%27n%20Ghosts) [▶️](https://www.youtube.com/results?search_query=Ghouls 'n Ghosts+gameplay), [Demon's Crest](https://vimm.net/vault/?p=list&q=Demon%27s%20Crest) [▶️](https://www.youtube.com/results?search_query=Demon's Crest+gameplay) & [Maximo](https://vimm.net/vault/?p=list&q=Maximo)  [▶️](https://www.youtube.com/results?search_query=Maximo+gameplay)
 [Splatterhouse: Wanpaku Graffiti](https://vimm.net/vault/?p=list&q=splatterhouse+wanpaku) [▶️](https://www.youtube.com/results?search_query=Splatterhouse: Wanpaku Graffiti+gameplay)
