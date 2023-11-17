@@ -26,6 +26,9 @@ https://shop.hololivepro.com/products/hololiveen_3dacrylicstand
 **Hololive EN New Year Kimono acrylic stands**
 https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
 
+**Council half year anniversary merch (badges & towel) rerun**
+https://shop.hololivepro.com/en/products/hololiveen_rerun2023\
+
 >**HoloSummer**
 **Merch**
 Keychains and assorted goods

@@ -213,10 +213,6 @@
 - Immerse yourself in a vast and diverse collection of full HD movies and TV shows, all available for free streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/ridomovies.tv/)
 
-### 🐐 [Seez](https://seez.su/)
-- Keep track of, explore, and stream all of your movies and TV shows.
-- [URL Safety Results](https://www.urlvoid.com/scan/seez.su/)
-
 ### 🐐 [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)

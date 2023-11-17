@@ -454,22 +454,14 @@ kohakuXLBeta_beta7Pro
 ![Image](https://files.catbox.moe/v00k4d.jpg)
 
 ### SD1.5との比較
-1.5
-![Image](https://files.catbox.moe/2chn95.jpg)
-絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
 
-XL
-![Image](https://files.catbox.moe/360sev.jpg)
-ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
+SD Version | Image | Description
+ ------ | ------ | ------
+1.5 | ![Image](https://files.catbox.moe/2chn95.jpg) | 絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
+XL | ![Image](https://files.catbox.moe/360sev.jpg) | ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
+1.5 | ![Image](https://files.catbox.moe/m1rpco.jpg) | いつも通り破綻だらけ
+XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5よりきれい。素晴らしい。
 
-1.5
-![Image](https://files.catbox.moe/m1rpco.jpg)
-ヘイローも文字も溶けた見慣れた光景。
-
-XL
-![Image](https://files.catbox.moe/oqol6r.jpg)
-腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。
-ヘイローも安定。目もadetailer、hires.fixありの1.5よりきれい。素晴らしい。
 
 ### 画風
 ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。学習に使ったcheckpointはKohakuXL
@@ -480,12 +472,18 @@ KohakuXL
 KohakuXLに学習したLoRA0.85でマージ
 ![Image](https://files.catbox.moe/n540ds.jpg)
 ![Image](https://files.catbox.moe/02v23b.jpg)
-画風は近くなったけど品質が下がった気がする。
+画風はSD1.5以上に近くなったけど品質が下がった気がする。
+
+余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟なのかなぁ
+
+### スペックについて
+余裕はあまりないが推論・学習ともにVRAM8GBでできる。XLやるなら4060Ti(16GB)、4070(ti)、4090がよさそう。
+メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
 
 ***
 
 ## その他
-### キャラLoRAの最適解？
+### キャラLoRAの最適解(SD1.X)
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
 - 4000-6000steps,Dim64/Alpha8-16

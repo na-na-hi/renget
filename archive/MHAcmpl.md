@@ -115,6 +115,7 @@ Ludolf Raphael Victorius HN "Fair Marshal": https://archive.4plebs.org/tg/post/8
 Rodion Popo HN "Overman": https://archive.4plebs.org/tg/post/89015229
 Taichi Kyoryu HN Cretaceous King, Saurus: https://desuarchive.org/tg/thread/89500858/#89508780
 Kurogane Keisho HN Yoshizumi: https://desuarchive.org/tg/thread/89500858/#89507063
+Atsushi Yamamoto: https://desuarchive.org/tg/thread/90944069/#90954666
 
 ### Villains
 >Night Parade
@@ -611,6 +612,8 @@ Mio shielding from Ashleigh: https://archive.4plebs.org/tg/post/89202204
 Mio scolding Sandy: https://archive.4plebs.org/tg/post/89271894
 Explode: https://archive.4plebs.org/tg/post/89278521
 I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
+MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
+
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
 Seiryu: https://archive.4plebs.org/tg/post/89176407
@@ -627,8 +630,9 @@ Sunlight Man: https://archive.4plebs.org/tg/post/89300955
 Yako: https://archive.4plebs.org/tg/post/89324798  
 Aspara: https://archive.4plebs.org/tg/post/89401642 
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
-Spark: https://desuarchive.org/tg/thread/90010470/#90018257
-
+Spark: https://archive.4plebs.org/tg/post/90018257
+Drone: https://archive.4plebs.org/tg/post/90953377
+Faith: https://desuarchive.org/tg/thread/90944069/#90953377
 ***
 
 ## WRITEFAGS
@@ -877,6 +881,8 @@ Faith Kang in: The VIP Box (ft. Anthony Chang): https://rentry.org/4ezcv
 Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu): https://rentry.org/NoctiBecomesA20thCenturyWarlord
 Tournament Part 3: https://rentry.org/hpe3v
 A serpent amongst heroes and dragons (Yamata): https://rentry.org/mah6d
+Blooming of Tears (Rosethorn, Yamata): https://rentry.org/qggn4
+Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force): https://rentry.org/3c7tf
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
