@@ -62,9 +62,9 @@ Its growls are pitiful like they are filled with despair and worry, a fear of lo
 
 Her limbs feel weak, as this melancholy continues bleeding in her heart…
 
-Before her consciousness fades, Orochi has to think about her reason for coming to this school. To want and yearn for the position of hero. She was born strong (or so she thought), and more fortunate than others. Wasn’t the duty of the strong to protect the others? Keep them out of warm? Shield the weak?
+Before her consciousness fades, Orochi has to think about her reason for coming to this school. To want and yearn for the position of hero. She was born strong (or so she thought), and more fortunate than others. Wasn’t the duty of the strong to protect the others? Keep them out of harm? Shield the weak?
 
-Then what is she doing here? She can’t shield herself, much less anyone. How can someone like her save the innocents, if she can’t save herself? *‘I’m such a scam. Those who said I entered her by nepotism, that I wasn’t fit to be a hero… were right. They were right. I shouldn’t have been here at all.’*
+Then what is she doing here? She can’t shield herself, much less anyone. How can someone like her save the innocents, if she can’t save herself? *‘I’m such a scam. Those who said I entered here by nepotism, that I wasn’t fit to be a hero… were right. They were right. I shouldn’t have been here at all.’*
 
 Now is too late to give up, lest she breaks the hearts of her friends for giving up, and leave them at the wolves’ mercy. She can’t give up now, not by option, but by the lack of it. One should bear the cross they build for themselves. If only she had realized this weakness of hers earlier…
 

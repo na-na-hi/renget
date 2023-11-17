@@ -21,8 +21,12 @@
 ⠀
 - - -
 ######
+#####-> Added the [Quick Replies](https://rentry.org/CharacterProvider-Quick-Replies) page, prompts, and files. <-
+
+###
+- - -
+######
 !!! Danger Prompts marked with a 'Scrapped' tag will be migrated to the [Graveyard](CharacterProvider-Graveyard) page.
-!!! Note I am working on a baseline modifiable prompt, so you can only include the things you need in them. GPT first, then Claude.
 !!! Note All the popular prompts are moving to their own pages for convenience. Grammatic mistakes are being fixed.
 ######
 - - -
