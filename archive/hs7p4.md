@@ -11,6 +11,7 @@
 * [2023-04-25: "The Princess Bride" watchalong](https://files.catbox.moe/wx3m2q.m4a)
 * [2023-06-17: Tired and delirious, Japan](https://files.catbox.moe/nqbfg4.m4a)
 * [2023-08-26: Reheating soup for HoloSummerFes (postponed)](https://files.catbox.moe/wnzgmg.m4a)
+* [2023-11-16: Catchup with eepy rat in Japan for 2 weeks](https://files.catbox.moe/1wbiy3.m4a)
 
 **This list is incomplete. Some spaces which are missing:**
 

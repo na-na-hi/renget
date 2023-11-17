@@ -1,6 +1,5 @@
 # **/lcg/ Resources**
--> ![Tippy](https://files.catbox.moe/346fe2.png) <-
-***
+-> ![Tippy](https://files.catbox.moe/q5bo51.png) <-
 !!! danger Disclaimer
 	Do not repost this on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance.](https://files.catbox.moe/gyofcn.webp)
 [TOC]
@@ -122,7 +121,7 @@
 * [Lobotomy Corporation Screenshot Let's Play](https://lparchive.org/Lobotomy-Corporation/)
 * [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/)
 * [Divegrass page](https://implyingrigged.info/wiki//lcg/)
-* [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/4j7b6j.rar)
+* [~~Dreaming Current Porn~~ Zena Cat Archive (Does not contain the below Zenakots and vice versa)](https://files.catbox.moe/venlue.rar)
 * [Library of Zena](https://drive.google.com/drive/folders/1nWU-o_FuSpBsNqFsUpAvn-D9pZEjEq6Y)
 * [More Zenas](https://mega.nz/folder/46EhXZTK#GKIUf9dTa6o2jL5DAfb72A)
 * [Other Kots MEGA](https://mega.nz/folder/L11lAZzL#GLsoeDrErznrsX_dkDHm2w)
@@ -170,3 +169,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
 11/10-11/23: Added Limbus Company Unused Cutscene link. Added A Better Tutorial for Limbus Company link.
 11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/15/23: Updated PMkots archive. ![헤](https://files.catbox.moe/207ryd.png)

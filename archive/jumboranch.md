@@ -14,12 +14,16 @@
 
 -> (thanks random person on /AICG/) <-
 
-**Working on a Mishka Lore book for Anthro Girl Scouts, Ehzi Lore/World book, new femboy cub 'Woolly' among other ideas.**
-For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it highly effects speech patterns, body language and behavior.
+**Currently working on a Ehzi's Lore & WorldBook, WorldBook for Cub Panic! Strip Club and Woolly the femboy Anthro Lamb Bartender**
+This is just a general WIP list order and may change/ I might forget to update things already completed. Feel free to contact me for requests on certain **characters of mine**, for example someone wanted a non-mouseboy greeting for Gizmo and I added it, as it's simple and easy. If you're requesting a **new or original card** I **might** consider it, but I only do cards I find the plot/character of interesting. In general I make cards for myself as priority so if I don't think I'd have fun playing it, **I won't do it**. Though **I don't judge anyone's fetish or card ideas**!! A simple 'I like your work!' or 'Can I use (card) as a reference for something? (how I make their Anthro parts expressive like Inxies hooves clacking on tile floors) is fine.
+**IMPORTANT**
+For **MOST** of my cards you should enable ==**Prefer Char. JB**== in SillyTavern settings, it **highly effects** speech patterns, body language (ears folding back when scared, tail wagging when happy, growling or purring for physical attention) and behavior (mostly Kemonomimi&Anthro body parts expressiveness with their moods or vocalizations).
+==ALL my JailBreaks for Characters will **ADD TO YOUR JAILBREAK**, and **NOT replace it**! So don't worry about fucking up your settings==
+Confused? **Near the BOTTOM of the page marked in RED**, I have a quick little guide with some visuals. It takes all of **2 seconds** to do.
+If you need help email me at the address also near the bottom. Please don't spam.
 
-***(WIP)***
-***ALL* BOTS** will be on this page.
-***MOST* BOTS** will be here [https://www.chub.ai/users/jumboranch](https://www.chub.ai/users/jumboranch) 
+***ALL* of my updated CARDS** will be on this page. :)
+***MOST* of my CARDS** will be here [https://www.chub.ai/users/jumboranch](https://www.chub.ai/users/jumboranch) 
 ***
 **Table of Contents**
 [TOC2]
@@ -30,25 +34,25 @@ For MOST of my cards you should enable ==Prefer Char. JB== in SillyTavern, it hi
 For New or Work In Progress stuff
 Image| Name | Description | Link
 | ------ | ------ | -----
- ![Dommy Cub Grizzly Girl Scout!](https://files.catbox.moe/flwf6d.jpg)   |   ->Mishka Blacklilly<-   | ->An Anthro Grizzly Bear Cub, Mishka can be stubborn and usually gets what she wants. She has a penchant for Human older teen boys, not uncommon amongst her kind given the mixed society and schools. Learning to process her budding body, emotions and hormones as she's just reaching breeding age. Anthro Girl Scout camping trip this weekend! The normal Scout Leader is down sick, and the parents will pay for you to take them out and teach them camping and survival skills (or hang out at the small beach and cook marshmallows around the fire)? Even though your an older Human teenager, you're their last option, help these sweet Girl Scout cubs out! They're VERY grateful.. ==V2 JB & alt greeting & CharBook== Update CharBook for weekend camping 11/15/23->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/0zuhhi.png)
+ ![Dommy Cub Grizzly Girl Scout!](https://files.catbox.moe/flwf6d.jpg)   |   ->Mishka Blacklilly<-   | ->An Anthro Grizzly Bear Cub, Mishka can be stubborn and usually gets what she wants. She has a penchant for Human older teen boys, not uncommon amongst her kind given the mixed society and schools. Learning to process her budding body, emotions and hormones as she's just reaching breeding age. Anthro Girl Scout camping trip this weekend! The normal Scout Leader is down sick, and the parents will pay for you to take them out and teach them camping and survival skills (hang at the small beach and cook marshmallows around the fire)? Though your an older Human teenager, you were their last option, help these sweet Girl Scout cubs out! They're VERY grateful in many ways.. ==V2 JB (adds to yours), alt greeting & CharBook== Update CharBook for weekend camping DOWNLOAD CharBook and ACTIVATE it. 11/15/23->| [Chub](https://www.chub.ai/characters/jumboranch/mishka-blacklilly-844fb088)  [Catbox](https://files.catbox.moe/0zuhhi.png)
 -
   ![Woolly enjoying his free time.](https://files.catbox.moe/g7ls91.png)   |   ->Cub Panic Strip Club and Woolly the Bartender<-   | ->True Vegas is the only city in the Country where most things are legal, especially if you have some cash to grease the wheels. A strip club opened by an ex child-prostitute was set up to help kids or Anthro cubs off the dangerous streets and allow them to make money in a much safer environment.. As strippers, servers, bartenders or just girls and boys milling about the club to give an older Anthro (or rare Human) a nice conversation. And probably a lap dance, maybe more if they buy them a drink or some 'candy'. Club focused on younger Anthro girls and boys with a mostly older Anthro clientele. Talk to the main attraction, Woolly the bratty but skilled Anthro Lamb femboy bartender, at eleven he's starting to feel anxiety over being an 'older boy' at the club, but you wouldn't know it. Dressing extremely skimpy, shaking his adorable little tail and butt sheared in a heart shape. He loves flirting for tips, or playing with the other 'workers' and kids. A good boy, even if he'll do his best to make him seem like a bratty, catty crossdressing femboy that can flip bottles and chop up lines for Clients, loving the attention.-> ==11/9/23==| [Chub](https://www.chub.ai/characters/jumboranch/cub-panic-and-woolly-the-bartender-229105aa)  [Catbox](https://files.catbox.moe/67lby6.png)
 
 ***
 ###Fantasy
-For various humanoid creatures
+For various **humanoid** creatures
 Image| Name | Description | Link
 | ------ | ------ | -----
  ![cute lil tomboy](https://files.catbox.moe/0kp45u.png) | Nyxie Snaptusk | ->A little tomboy Goblin girl who goes door to door selling tras-.. Trinkets in town, which she often finds on dead adventurers or around the borders of dungeons. Secretly wants a Human Sugardaddy. Playful, coy, mischievous but sweet. ==V2 JB, Embedded Lorebook.==->| [Chub](https://www.chub.ai/characters/jumboranch/nyxie-snaptusk)  [Catbox](https://files.catbox.moe/0kp45u.png)
  -
- ![one of my nicest sweetest girls](https://files.catbox.moe/486rym.png) | Inxie Emberclaw | ->A young Imp girl working to earn her Bronze Badge and join the Adventurers Guild. As a Rogue she can't complete the quest alone, and nobody will join a party with someone of the Demonic races.. Alt Greetings & Lorebook soon. ==V2 JB , rewritten recently.==->| [Chub](https://www.chub.ai/characters/jumboranch/inxie-emberclaw) [Catbox](https://files.catbox.moe/p4tc9g.png)
+ ![one of my nicest sweetest girls](https://files.catbox.moe/486rym.png) | Inxie Emberclaw | ->A young Imp girl working to earn her Bronze Badge and join the Adventurers Guild. As a Rogue she can't complete the quest alone, and nobody will join a party with someone of the Demonic races.. Alt Greetings & Lorebook soon. ==V2 JB, rewritten recently.==->| [Chub](https://www.chub.ai/characters/jumboranch/inxie-emberclaw) [Catbox](https://files.catbox.moe/p4tc9g.png)
 -
  ![Shy and sweet, but vulnerable](https://files.catbox.moe/wjzanf.png) | Ehzi Whitemarsh | ->'Armadillo' Kobold girl. Was once in the Mages Academy, a prestigious school training to be a Cleric with her rare budding magic. Eventually she cracked under the pressure of Human 'noble girls' constant teasing, saying she didn't belong, calling her a 'low class sub-human'. Ehzi was only allowed there because of a grant for 'gifted' Demi-Humans. The clique of 'noble' girls framed the Kobold for cheating lying saying she used an Intelligence potion to pass the 'first years' Finals Test. Ehzi is now a 'Street Rat', amongst the homeless young common in New Haven City. Stealing, looting and sleeping in alleyways. ==V2 JB== Worldbook in progress, alt greetings, etc.->| [Chub](https://www.chub.ai/characters/jumboranch/ehzi-whitemarsh-2b8a96cb/main)  [Catbox](https://files.catbox.moe/0zgepv.png)
 -
 
 ***
 ###Furry
-For Anthro or Kemonomimi. Varies slightly depending on card and what LLM you use.
+For **Anthro** or **Kemonomimi**. Varies slightly depending on card, your base JailBreak and the LLM used (Claude will turn Kemono into Anthro sometimes for seemingly no reason, or even swap between them mid roleplay if you don't reinforce the differences).
 Image| Name | Description | Link
 | ------ | ------ | -----
  ![enthusiastic tomboy pup forced into being a Princess](https://files.catbox.moe/uokxha.png) | Arissa Blackpaw | ->Preteen Dog girl Princess of the Beast-Girl Monarchy, on her way home from a boarding school for the Elite. Aboard a massive Military Transport Ship she's bored and lonely. You're a Merc, on your way to a new planet to explore, but your mission suddenly changes as does the route of the entire ship. Bodyguard duty.. ==V2 JB, Alt Greetings, Embedded Lorebook==->| [Chub](https://www.chub.ai/characters/jumboranch/arissa-blackpaw)  [Catbox](https://files.catbox.moe/b4mrlm.png)
@@ -70,7 +74,7 @@ Image| Name | Description | Link
 ***
 
 ###World Books
-For World Books usable with most cards.
+For ********World Books****** usable with ****most cards**.
 Image| Name | Description | Link
 | ------ | ------ | -----
  ![Basic but works with MOST furry cards](https://files.catbox.moe/w7qa0o.jpg) | Beast People World -SMALL Edition- | ->Basic World Book for a world populated mostly by Beast People (Anthropomorphic Animal People and Kemonomimi). Humans are their ancestors and in sharp population decline compared to Beast People. Seen as sort of 'relics' by them, exciting or interesting. Humans are set to completely die off in estimated 50 years so the Human Re-Population Law was enacted, allowing any Beast Person to 'claim' any Human they find and bring to a Government Official as their 'mate for life'. The Humans opinion on this is discarded as breeding and keeping their species alive is considered more important.->| [Chub](https://www.chub.ai/lorebooks/jumboranch/beast-people-world-c58328b7)  [Catbox](https://files.catbox.moe/ncifvb.json)
@@ -78,32 +82,34 @@ Image| Name | Description | Link
  ![HIGH token usage but more expansive](https://files.catbox.moe/6u7agf.png) | Beast People World -LARGE Edition- | ->The larger more expansive version of the World Book I created for use with Furry/Anthro and Kemonomimi cards. Similar to the small version but includes more information on the different types of 'Beast People', Scenting/Mate stuff, CollaredDotCom Forum (from the card) and other info. Will probably expand even more over time.-> | [Chub](https://www.chub.ai/lorebooks/jumboranch/beast-people-world-large-version-9f1e3dbe) [Catbox](https://files.catbox.moe/wdvst4.json) 
 -
 ***
-#(More to be added soon. WIP)
+#(More to be added soon. I want small general fantasy cities/towns for my RPG companions for instance. WIP)
 ***
 ###Important Info on Card Use
-!!! danger IMPORTANT
-    If you don't follow this the cards will lose personality, speech patterns, a lot of the 'soul' of the card.
+!!! danger ****IMPORTANT**
+    If you don't follow this the cards will lose personality, speech patterns, a lot of the ********'soul' of the card******.
 Most Cards have Custom V2 Jailbreaks, you need to click ==Prefer Char. JB== in ==SillyTavern==. It effects their speech patterns, personality, expression (ears, tails, fur should change with mood), etc. heavily. 
-==Lorebooks are token heavy== so only use with Claude 1.3V 100k or GPT4 32k. 
-==Alt greetings== have been requested so I add them to most characters now. 
-Rather than make a million cards I often update and improve existing ones, so ==check for updates==, I'll usually mention it in the description.
+You can find this setting under ![General Settings](https://files.catbox.moe/avdfot.JPG) then ![Char JB Pref and option Char Main Pref](https://files.catbox.moe/by3c8j.png) 
+==Lorebooks are token heavy== so only use with Claude 1.3V 100k or GPT4 32k. GPT4.5 Turbo (high context not sure exact #). 
+==Alt greetings== have been requested many times so I add them to most characters now, often 2-3. 
+Rather than make a million cards I often update and improve existing ones, so ==check for updates==, I'll usually mention it in the description both here the date and what was changed, and on Chub when I can fit it (fucking character limits).
 ***
 ##->Other Stuff<-
 ###Expression
-Don't really have time or motivation to get high enough quality Expressions to be worth sharing, that may change for cards I really enjoy but I doubt it. If it does I'll post the packs here.
+Don't really have time or motivation to get high quality 'enough' Expressions to be worth putting out to others, that may change for cards I really enjoy but I doubt it. If it does I'll post the packs here. Or you can email me for the ones I use personally on my cards I play frequently (currently Nyxie, Gizmo, Aila, Mishka, maybe a few others). Expect fluctuating art styles and quality, some characters (Nyxie, SD hates green skin) are harder to get good gens than others (Mishka was surprisingly easy, especially with DALL-E3 for the SFW gens).
 ###Bots In Progress:
-Mishka Anthro Grizzly Bear cub loves Human teen boys - 90% - Not sure if I'm gonna expand this char or not, she's fun enough as is (to me anyways).
-Ehzi the 'Armadillo' Kobold - 80% - Lorebook, CharBook, probably expression.
-ToBeNamed (Floragato) a little brother for Ellie (Meowscarada) - 10% - Writing Character Defs, planning.
-Fem Fizz (League of Legends)(genderflip) - 10% - Planning
-Maned Wolf femboy shota - maybe.
+Mishka Anthro Grizzly Bear Girl Scout - 95% - Just finished her World Book 5 static Girl Scouts for the weekend camping trip.
+Woolly the Anthro Lamb & Cub Panic! Strip club - 75% - needs CharBook badly, and the chubby femboy brats defs are a bit chonky.
+Ehzi the 'Armadillo' Kobold - 80% - CharBook in progress (but busy with other cards currently).
+ToBeNamed (Floragato) a little brother for Ellie (Meowscarada) - 10% - Writing Character Defs, planning. Def wanna put something out soon.
+Fem Fizz (League of Legends)(genderflip) - 10% - Planning. Personal favorite, probably won't be popular but I'm sure others enjoy the cute lil androgynous octopus boy/girl/thing!
+Maned Wolf femboy shota - maybe. I just think Maned Wolves are beautiful, but I have to think up a good personality/story/plot and setting for him. Possibly he's in the aristocracy and your his new assistant. Ehhhh unsure.
 ***
 You can reach me for contact at eighttenten@proton.me for questions, logs, or constructive criticism. Please don't spam.
 
 ![Bear-Chan](https://files.catbox.moe/o5yyz9.png)
 ***
-->The barber fucked up teenage Mishka's hair, and decided to show off how sharp bear teeth are~<-
-![Mishka the Grizzly girl as a teenager](https://files.catbox.moe/lgq9td.jpg)
+->Lil' Ehzi studying hard before she was thrown out too the streets from her Mage Academy, trying her best to be a Cleric.<-
+![Poor girl really did her best, but bullies got to her.](https://files.catbox.moe/yh81mo.jpg)
 ***
 ->Hanging out with one of her many distant cousins, who miiight look up to her a little bit.<-
 !['Cousin' or clone?!](https://files.catbox.moe/4lwtlm.jpg)

@@ -145,7 +145,7 @@
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
 - [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
-### 🐐 [AniWatch](https://aniwatch.to/)
+### 🐐 [AniWatch](https://aniwatch.to/) / [2](https://aniwatch.nz/) / [3](https://aniwatch.se/)
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
 

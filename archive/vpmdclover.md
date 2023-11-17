@@ -52,7 +52,6 @@ Bullet | M | Noivern | Indeedee (Mimi, F, Careful, Native) | Rescue Team/Clover 
 Kina | F | Audino | N/A | Clover Guild Medic | [Rash](https://rentry.org/vpmdcloverpb#kina)
 N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/vpmdcloverpb#sableye)
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
-N/A | M | Bagon | Lurantis (Orchid, M, Adamant, Native, Outsider) | Clover Guild Member | [Lonely](https://rentry.org/vpmdcloverpb#bagonorchid)
 Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
 Acrab | M | Krabby | N/A | Clover Guild Member | [Hasty](https://rentry.org/vpmdcloverpb#acrab)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)
@@ -661,3 +660,20 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 ###[All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
 
 //Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, Zangoose, and Dragonair
+
+Propositions :
+
+1. In the character table, add a new link called something like "Stories where X is a Main character". And this link will essentially contain stories made by the author of this character.
+
+2. Re-write the "general info" paragraph to be a short blurb about what CloverGuild is, and put it at the top. It should be the first thing people should see (along with the "where to start" link)
+
+
+3. Remove "list of stories sorted by author". It's a huge, repetitive list that can already be accessed by proposition 1.
+
+4. Remove the table sorting the stories by categories. It is a relic of the past from when we first started writing, it is no longer needed, it's repetitive and takes a lot of space. The categories are kind of meaningless too.
+
+5. Remove the affinity chart image. It's outdated and hard to maintain. It can be added to the "clover guild quick lore reference" anyway.
+
+6. Remove the story timeline image for the same reason as proposition 5.
+
+7. Remove cloverguild art gallery link. Outdated, we already have the booru and that page takes ages to load.

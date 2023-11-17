@@ -187,7 +187,7 @@ For Prose, just use: `----`
 `[ Knowledge: Naomi; Type: female spy ]`
 
 ##Special keys
-Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain, [see this to learn more](https://naidb.miraheze.org/wiki/Using_Regex) - But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
+Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain — But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
 
 - *Goal:* **Exact matching**
     - *Answer: (s) -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
