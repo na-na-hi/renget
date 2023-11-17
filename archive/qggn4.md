@@ -1,14 +1,14 @@
 #Blooming of Tears
 
-She knew something was wrong when that girl was so quiet and aloof in class. It never was in Orochi's system to slack off, not without doing everything she had to do first, this way she could say she finished her lessons of the day.
+She knew something was wrong when that girl was so quiet and aloof in class. It never was in Orochi's system to slack off, not without doing everything she had to do first, this way she could say she finished her lessons of the day before goofing around.
 
-When she, of all people, slept in class, as the classroom teacher, she should’ve known better. For a hard-working student, no matter how problematic, to slack off suddenly? Something has to be wrong.
+When she, of all people, slept in class, Rosethornm as the classroom teacher should’ve known better. A hard-working student, no matter how problematic, slacking off so suddenly? Something had to be wrong.
 
-There aren’t other explanations. *‘I should’ve read the signs better. The fact not even those hyperactive dragon heads were doing anything, they…’* While no one dared to say it to the girl’s face, even the adults, everyone saw those dragoon heads as pets permanently attached to the girl.
+There aren’t other explanations. *‘I should’ve read the signs better. The fact not even those hyperactive dragon heads were doing anything, they…’* While no one dared to say it to the girl’s face, even the adults, everyone saw those dragon heads as pets permanently attached to the girl.
 
 While her exposure to the girl was limited to the classroom only and some other events, she never saw those dragon heads as anything but active and searching for problems or beef with anything that breathed near them.
 
-They were limb, almost lifeless. *‘What type of teacher ignores a sign so obvious?’* Rosethorn bites the inner wall of her left cheek. Uneasiness breathing in as the more she thinks of it, the worse things become.
+They were limp, almost lifeless. *‘What type of teacher ignores a sign so obvious?’* Rosethorn bites the inner wall of her left cheek. Uneasiness breathing in as the more she thinks of it, the worse things become.
 
 While her classroom is anything but pacific, given the run-down of some of her students with villains, she never thought that a girl like Orochi would clash against one of them. Worse, one like Hitomi aka “Feral”.
 
@@ -16,11 +16,11 @@ She saw herself a lot in the young girl. When she was her age, they weren’t so
 
 She had to have to live in society, lest one got hurt. Rosethorn feels sick thinking about it now. *“Orochi is a strong girl, she can deal with her problems herself, right?”* The curse of their society, of bottling problems until they reach a breaking point.
 
-Everyone, including her family, must’ve thought the girl would make good use of her quirk’s name, “Headstrong Hydra”, to go through her problems and rise. After all, that girl was as close of a determinator as you can get with a sliver of sanity left.
+Everyone, including her family, must’ve thought the girl would make good use of her quirk’s name, “Headstrong Hydra”, to go through her problems and rise. After all, the girl was as close of a determinator as you can get with a sliver of sanity left.
 
 She was crazy, but not reckless. This is why it came as a surprise to see her loafing around in class, ignoring everything around her. Until then, it was nothing out of the ordinary, all students have a point where they refuse to do anything in class for a time, it is a normal behavior.
 
-The surprise came when her father, Yamamoto Orochi, called Shiketsu asking **where** his daughter went. Of course, Karaburan almost had a heart attack when hearing those words. The girl attended school and exited it, but hasn’t come home.
+The surprise came when her father, Yamamoto Atsushi, called Shiketsu asking **where** his daughter went. Of course, Karaburan almost had a heart attack when hearing those words. The girl attended school and exited it, but hasn’t come home.
 
 While it is normal for others, Orochi never had shown this behavior to their family, not without calling before to warn them of anything she would be doing. *‘With a mother like Nabiki, I can’t blame her for always calling home.’*
 
@@ -36,13 +36,13 @@ You are expected to deal with things on your own and suppress anything else from
 
 She… walked at random. That is never a good sign. Her only option was to follow suit and go asking around establishments if they saw a girl with three tails that ended in dragon heads.
 
-Glod bless Orochi for her discernible appearance impossible to miss. ‘If she was a normal student, tracking her down would be near impossible.’ If this disgusts or brings discomfort to herself, Rosethorn doesn’t show it on her face.
+Glod bless Orochi for her discernible appearance impossible to miss. *‘If she was a normal student, tracking her down would be near impossible.’* If this disgusts or brings discomfort to herself, Rosethorn doesn’t show it on her face.
 
 Wearing a perfect poker face with a smile, cultivated through years of experience and service. Even then, it cannot hide or shield her heart from the doubts and darkness. From her mutant students, even if Orochi's appearance is not monstrous or strange, she is harmful.
 
-Hazardous to others even if she doesn’t mean to. The amount of control over herself, discipline, and kindness to not just go around and hurt others exceeds an excruciating amount. Not only she is poisonous, but she also has three dragon heads that can dismember a person like it is a sandwich.
+Hazardous to others even if she doesn’t mean to. The amount of control over herself, discipline, and kindness to not just go around and hurt others exceeds an excruciating amount. Not only is she poisonous, but she also has three dragon heads that can dismember a person like it is a sandwich.
 
-She always kept them under control and kept her distance from others, and her quirk was not a problem for everyone else. One of the worst cases of functional mutation she had seen in her life, yet she managed to pull it through with a smile and wish to be a hero.
+She always kept them under control and kept her distance from others, and her quirk was not a problem for everyone else. One of the worst cases of functional mutation she had seen, yet she managed to pull it through with a smile and wish to be a hero.
 
 *‘That girl should’ve snapped long ago. Yet she didn’t, only now… girl, you should’ve at least told me, or your family!’* Rosethorn Never would scream at a girl who may have snapped, it would only cause things to become worse, but for someone so mindful, to ignore such basic acts of humanity and emotion… it is not good.
 
@@ -70,7 +70,7 @@ The sun had already fallen out of the skies. The cicadas sing their song on a de
 
 A night that becomes colder by the minute, a reminder that the winter season draws close. In a deserted park, Rosethorn walks. This is where Orochi was last seen. This wild goose chase went on for too long now, three hours tracking this girl. 
 
-*‘I assured Kanburan, and Atsushi Nabiki that she had it under control, she would find her student.’* The loud sound of a snake hissing comes to her ears. The hissing was directed at her. Rosethorn turns on her heel to stare at the source of the hisses. 
+*‘I assured Kanburan, and Atsushi Nabiki that I had it under control, I would find her student.’* The loud sound of a snake hissing comes to her ears. The hissing was directed at her. Rosethorn turns on her heel to stare at the source of the hisses. 
 
 On an isolated bench near a vending machine, Orochi is there, her eyes vacant, two tails limp on the bench, while the middle one hisses at her. Desperate and aggressive hisses, like an animal cornered against a wall.
 
@@ -134,6 +134,7 @@ The shakings stop, the dragon head going still. It drops her arm and looks up. I
 
 [Bravy Girl](https://www.youtube.com/watch?v=f0HSEc8sAJU&ab_channel=Kappashiro)
 
+
 Rosethorn stops before Orochi, hands placed on the unconscious girl’s shoulders. “Hey, Orochi. Wake up, people are searching for you, your parents are worried sick about  you.” Rosethorn dry swallow.
 
 It may take some more to wake up Orochi… She shakes her body a little, controlling the speed and strength to not make her startled when she wakes up.
@@ -176,9 +177,9 @@ Her tears staining Rosethorn’s clothes, as the Top Ten Hero stops her own tear
 
 “I… thought I was strong,  but my strength couldn’t do anything to Feral. I was so weak… so weak. I made them worry about me when they had their own problems too… I thought I was a good friend, but what friend can’t protect her friends?”
 
-Rosethorn holds Orochi’s close, the tears of the girl don’t stop falling her voice wet and barely audible between sobs and grasps for air. “I thought I could protect the weak… but I can protect anyone… I… am a failure. I can’t hold my promises. I.  I. I!”
+Rosethorn holds Orochi close, the tears of the girl don’t stop falling, her voice wet and barely audible between sobs and grasps for air. “I thought I could protect the weak… but I can protect anyone… I… am a failure. I can’t hold my promises. I.  I. I!”
 
-Orochi's voice choked on tears as she cried, bringing Rosethorn closer to her as she cried, a heartbreaking feeling coming along with each sob her student let out, her and Orochi’s hearts alike.
+Orochi's voice choked on tears as she cried, bringing Rosethorn closer to her as Orochi cried, a heartbreaking feeling coming along with each sob her student let out, her and Orochi’s hearts alike.
 
 A painful emotion of impotency, of making everything wrong, wanting to do better but unable to. “Orochi… Chris's life, Kaylee… all of this class is a mess, I’m sad to say this, but things are escalating far from the control of one or two people.” 
 

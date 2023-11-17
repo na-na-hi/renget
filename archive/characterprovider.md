@@ -19,11 +19,7 @@
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
-- - -
 ######
-#####-> Added the [Quick Replies](https://rentry.org/CharacterProvider-Quick-Replies) page, prompts, and files. <-
-
-###
 - - -
 ######
 !!! Danger Prompts marked with a 'Scrapped' tag will be migrated to the [Graveyard](CharacterProvider-Graveyard) page.
@@ -35,6 +31,8 @@
 > **Greetings!** If you're new around here, you can use the images below to quickly navigate this rentry. The 'Info' section explains what these prompts are for, and the 'FAQ' section answers any questions you may have. Please read the information I provide to avoid any difficulties or misunderstandings. You'll find this page useful even if you don't use my prompts.
 
 Click these images for quick navigation:
+
+-> [![](https://files.catbox.moe/88yvkb.png)](https://rentry.org/CharacterProvider-Quick-Replies) <-
 
 -> [![](https://files.catbox.moe/26svcm.png)](#choose-your-gpt-prompt) ⠀ [![](https://files.catbox.moe/45722y.png)](#choose-your-claude-prompt)<-
 

@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 425₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 475₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -60,13 +60,13 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: Phantasm  | Tier **ɪ** (+1) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
+Attribute: Phantasm  | Tier **ɪɪ** (+2) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Phantasm **ɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Phantasm **ɪɪ** | Tier **ɪɪɪ** | 2/3 | ▮▮▯
 
 
 **INVENTORY (4 slots)**
@@ -76,7 +76,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Crystal | A crystal flaked from the back of an outlaw Crustle. Worth 50P each.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

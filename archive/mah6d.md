@@ -58,7 +58,7 @@ Her right and left hydrea heads fall to the ground, whereas her middle one rests
 
 Can they feel sadness? The normally hyperactive and sassy ones are… on the ground, limb, not even hissing at anything that comes close by… it looks like they gave up too. The only head left who hasn’t given up, rubs itself against her back.
 
-Its growls are pitiful like they are filled with despair and worry, a fear of losing something, but what? Is she seeing or hearing things? ‘You guys never acted this way before…’ They were always independent, or dependent, on her. Unless she took direct control of them, they would never do something like that willingly.
+Its growls are pitiful like they are filled with despair and worry, a fear of losing something, but what? Is she seeing or hearing things? ‘You guys never acted this way before…’ They would always act as she wished them to or act on their own, without her input or control. Unless she took direct control of them, they would never do something like that willingly.
 
 Her limbs feel weak, as this melancholy continues bleeding in her heart…
 

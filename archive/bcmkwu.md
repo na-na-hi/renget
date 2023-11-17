@@ -1,4 +1,31 @@
 ▶NEW CLIPS
+>Russians send explosive-filled MT-LB through a minefield
+https://files.catbox.moe/25ek83.mp4
+>Sudoplatov FPV drones nailing AFU positions
+https://files.catbox.moe/zg96nh.mp4
+>Spetsnaz of "South" group operate mortars/drones towards Artemovsk
+https://files.catbox.moe/hufe71.mp4
+>Byelorussian Polonez-M MLRS enters service with the rocket-artillery brigade
+https://files.catbox.moe/30u2rx.mp4
+>Yasnenskoye missile formation in Orenburg re-equipped with Avangard system
+https://files.catbox.moe/m2rxrk.mp4
+>Akhmat FPV drones massacre hohols at Klescheevka
+https://files.catbox.moe/5ygymc.MP4
+>FPV drones hit AFU personnel directly
+https://files.catbox.moe/zo0d21.mp4
+>hohol reinforcements shelled at Robotown
+https://files.catbox.moe/r30n2j.mp4
+>Russians stop AFU advance on Zaporozhye Front, area west of Rabotino
+https://files.catbox.moe/yb32v3.mp4
+>Russian tanks are quietly working on the positions of the Ukrainian Armed Forces on the outskirts of Avdeevka
+Part1: https://files.catbox.moe/y2cpvb.mp4
+Part2: https://files.catbox.moe/1aaa04.mp4
+>Russian armour and stormtroopers are advancing in battle in the Bilohorivka area
+https://files.catbox.moe/ymi25q.mp4
+>Russian incendiary shells fried positions of the Ukrainian Armed Forces near Novomykhailivka.
+https://files.catbox.moe/je70ei.mp4
+>In Avdeevka, Russian airforce pours FABs on the strongpoints of the Ukrainian Armed Forces
+https://files.catbox.moe/9gfirl.MP4
 >Fires in occupied Toretsk, DNR after arrivals
 https://files.catbox.moe/pask4i.mp4
 >hohol degenerates remove Pushkin Monument

@@ -2,18 +2,18 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 15/11/23: MP Rapi Edition**
+**Last updated: 17/11/23: Flashback Edition**
 
 ***
 
 ##Server: NA
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
-| NIKG     | ==**6459**==  | 6     | 32/32   | SEIAN   | PERMISSION |                                 |
+| NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
-| NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
+| NIKGERS  | ==**368**==   | 6     | 29/32   | POLUS    | PERMISSION |                                 |
 | NIKKERZ  | ==**466**==   | 6     | 32/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
@@ -31,7 +31,7 @@
 
 | Name     | ID            | Level | Members | Leader  | Join       | Reqs/Notes                 |
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
-| NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
+| NIKG     | ==**4893**== | 6     | 31/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |

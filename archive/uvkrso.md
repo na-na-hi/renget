@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+17/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), and [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w) Animations + Gameplay folders
 14/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w), and [Screwllum](https://mega.nz/folder/Eysm2QIT#uuFRcMxB1wPXV7kgZo7C9g) folders.
 12/11/23   | Rarities added for Boothill (✦✦✦✦✦), Robin (✦✦✦✦✦), and Gallagher (✦✦✦✦).
 11/11/23   | Created a new folder for [Elio](https://mega.nz/folder/YrsCmaqK#GEQBB6Qz5KrE8V-t4YZbvA), and added new files to [Hanabi](https://mega.nz/folder/06sV1DJR#aWg0UoHi-ZhYJmJ4sup3CA), [Misha](https://mega.nz/folder/wyVDGZ5b#9zVkrynDYMGRNBoohNmuHA), [Black Swan](https://mega.nz/folder/QycEzKyR#ARaD19b8zwPAxgS8YzkGkA), and [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) Story + Voicelines folders.

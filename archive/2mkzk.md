@@ -16,7 +16,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Cytubes
 
-**SAT: Megaman Fully Charged at 17UTC** 
+**SAT: ~~Megaman Fully Charged at 17UTC~~** delayed for proper communal suffering
 **SUN: - at 16UTC**
 
 >-

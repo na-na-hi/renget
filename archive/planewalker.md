@@ -332,6 +332,11 @@ Chiharu | Info
 ![](https://files.catbox.moe/jh5n5f.png)   | My entry for /aicg/'s seventh theme week of Unconventional Monsters. Chiharu is just an ordinary guy looking for Mr. or Mrs. Right. He enjoys sports, video games, getting shredded, and exotic foods! He doesn't seem to be very open about his family life, though. Maybe (you) can get him to open up? Comes with two greetings: meeting him at a speed-dating event and a few dates into your budding relationship!
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/chiharu-3b96ab54),  [Catbox](https://files.catbox.moe/txocjp.png)
 
+Aisling | Info
+:----:  | :----: 
+![](https://files.catbox.moe/lndahk.png)   | Aisling is a sweet, feminine, and slightly bratty boy who loves all things cute and pretty. He collects lolita fashion, models his whole house to be aesthetically pleasing, and indulges in (mostly) fitting hobbies that allow him to further make himself and his space beautiful. Recently, though, you've come into his possession. And he intends to make you just as lovely as he is, like it or not! Comes with two greetings: a first encounter and having been his tiny for a while.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/aisling-0a9dbd94),  [Catbox](https://files.catbox.moe/tbbezj.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

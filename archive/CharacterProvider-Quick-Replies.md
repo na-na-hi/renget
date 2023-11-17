@@ -8,6 +8,8 @@
 ##### **Info:**
 These prompts modify your messages with OOC requests. `Quick Replies` insert selected prompts in your message with a press of a button and send it.
 
+> **Comment:** Quick Replies with pre-made prompts is a great way to pace your story. You can stop and focus on a dialog with a certain character, or request a short visual/sensory information.
+
 ##### How do I use Quick Replies?
 Open the `Extentions` tab in SillyTavern's interface, click on the `Quick Reply` menu, and select `Enable Quick Replies`. Then type in a number of buttons and insert the promts you want. You can also download the presets below. These files include all actions with a special button to quickly switch between the 'Sexual' and 'Casual' presets.
 
@@ -16,7 +18,7 @@ To send a message with the chosen prompt simply type in the message you want to 
 ####
 - - -
 ##### Fast setup:
-[⬇️ DOWNLOAD QR PRESETS](https://files.catbox.moe/dzciqw.zip) (Work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
+[⬇️ DOWNLOAD QR PRESETS](https://files.catbox.moe/dzciqw.zip) (These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
 
 ##### Installation:
 Extract the files from the downloaded zip archive into `SillyTavern-staging\public\QuickReplies`
@@ -26,9 +28,6 @@ Go to 'User Settings' -> 'Chat/Message Handling' and **turn off** 'Show <tags> i
 
 ##### Note:
 If you don't want any "indication" for the sent prompt injections in your messages, delete the icon and text before the <request> in the custom message. I've added two linebreaks to separate your message from the "indicator". If you are using the presets, when trying to switch to a different set (e.g., 'Casual Actions'), make sure your message field is empty, or it will send the message you've typed instead of switching to a different preset.
-
-!!! NOTE
-	**SUGGESTION FOR ST DEVELOPERS:** This feature would work significantly better if there was an option to turn on "Replace the JB with custom message" instead of using this for text insertions that may contradict JBs or be ignored on some LLMs completely. This would make the chatting experience more flexible. Especially if the "replacement" prompt would stay attached to the message it was sent with so we can swipe and save nerves and tokens. If you've used DungeonAI, you know what I am talking about. This is an obvious feature most of the front-ends lack.
 
 ####
 - - -

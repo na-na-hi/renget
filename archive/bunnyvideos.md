@@ -29,7 +29,7 @@
 - 10K+
 
 [JPN/ENG] Gajumaru: https://www.youtube.com/@gajumaru
-- giant sleepy French Lop, 5K+
+- sleepy giant French Lop, 5K+
 
 [JPN/ENG] Jabba: https://www.youtube.com/@jabbatherabbit7506
 - Flemish Giant home life, 50K+
@@ -38,7 +38,7 @@
 - 1K+
 
 [JPN/ENG] Mugi, Mimi: https://www.youtube.com/@bunny_mugi_channel
-- 100K+
+- Netherland Dwarfs, 100K+
 
 [JPN/ENG] Omochi, Miru: https://www.youtube.com/@fluffys2020
 - 50K+
