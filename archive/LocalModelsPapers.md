@@ -44,8 +44,9 @@
 09/2023|[Uncovering mesa-optimization algorithms in Transformers](https://arxiv.org/abs/2309.05858)
 10/2023|[Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 10/2023|[SpecTr: Fast Speculative Decoding via Optimal Transport](https://arxiv.org/abs/2310.15141)
+11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 |
-|**OpenAI (EA Coup 11/2023)** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
+|**OpenAI (EA coup as of 11/2023)** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
 01/2020|[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
@@ -58,7 +59,7 @@
 05/2023|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
 10/2023|[Improving Image Generation with Better Captions (DALL·E 3)](https://files.catbox.moe/e7jl5b.pdf)
 |
-|**Deepmind (Now Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
+|**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 12/2021|[Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
 12/2021|[Improving language models by retrieving from trillions of tokens (RETRO)](https://arxiv.org/abs/2112.04426)

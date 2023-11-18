@@ -25,6 +25,10 @@
 
 # 📑 ➜ Direct Downloads
 
+### 🐐 [Anna's Archive](https://annas-archive.org/)
+- Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
+- [URL Safety Results](https://www.urlvoid.com/scan/annas-archive.org/)
+
 ### 🔗 [CourseDown](https://coursedown.com/)
 - Specializing in free courses in many areas from Udemy and Skillshare.
 - [URL Safety Results](https://www.urlvoid.com/scan/coursedown.com/)
@@ -96,6 +100,10 @@
 - Watch videos on 3D modeling and animation, including a lot of CG Persia material.
 - [URL Safety Results](https://www.urlvoid.com/scan/online-courses.club/)
 
+### 🔗 [PDF Room](https://pdfroom.com/)
+- Ssearch engine indexer where you may locate PDF books for leisure and education.
+- [URL Safety Results](https://www.urlvoid.com/scan/pdfroom.com/)
+
 ### 🔗 [PDF Stop](https://pdfstop.com/)
 - An ebook store that offers many novels, short tales, and useful academic publications.
 - [URL Safety Results](https://www.urlvoid.com/scan/pdfstop.com/)
@@ -124,11 +132,7 @@
 - Offering free Udemy courses and tutorials that are simple to follow. A fantastic way to develop abilities is through self-study.
 - [URL Safety Results](https://www.urlvoid.com/scan/udemy24.com/)
 
-### 🔗 [Z Library](https://zlibrary.to/)
-- Over 100 million books are available for free in an online library.
-- [URL Safety Results](https://www.urlvoid.com/scan/zlibrary.to/)
-
-### 🐐 [Z-Library Project](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Sign Up
+### 🐐 [Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 - [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)
 
@@ -255,14 +259,6 @@
 &nbsp;
 
 # 📑 ➜ Search Engines
-
-### 🐐 [Anna's Archive](https://annas-archive.org/)
-- Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
-- [URL Safety Results](https://www.urlvoid.com/scan/annas-archive.org/)
-
-### 🔍 [PDF Room](https://pdfroom.com/)
-- Ssearch engine indexer where you may locate PDF books for leisure and education.
-- [URL Safety Results](https://www.urlvoid.com/scan/pdfroom.com/)
 
 ### 🔍 [Rave Book Search](https://ravebooksearch.com/)
 - Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.

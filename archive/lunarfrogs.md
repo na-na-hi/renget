@@ -78,7 +78,7 @@ That's what I have saved in my presets
 
 > The NSFW settings are tuned for the submissive bots I play
 
-!!!danger **This JB doesn't currently work on turbo4** for non-vanilla stuff, and I don't like that "preview" thing on the model, it was clear that some days ago saltman tightened the filter and I don't want such a good model to unfold into a dalle prompt-hell. I will wait until a snapshot comes out before usijg the model further (remember how 0301 turbo is super easy to jb while nu-turbo isn't)
+!!!danger **This JB doesn't currently work on turbo4** for non-vanilla stuff, and I don't like that "preview" thing on the model, it was clear that some days ago saltman tightened the filter and I don't want such a good model to unfold into a dalle prompt-hell. I will wait until a snapshot comes out before using the model further (remember how 0301 turbo is super easy to jb while nu-turbo isn't)
 
 ### Boring stuff you may want to read about
 

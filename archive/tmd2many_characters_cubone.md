@@ -9,10 +9,10 @@
 *->One Evolution->*
 *->Marowak / Alolan Marowak->*
 
-*Intelligence: ?/5*
-*Creativity: ?/5*
-*Initiative: ?/5*
-*Emotional Strength: ?/5*
+*Intelligence: 4/5*
+*Creativity: 3/5*
+*Initiative: 3/5*
+*Emotional Strength: 2/5*
 *Social Skills: 1/5*
 
 ***
@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Associate | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Unknown Tribe | **Favorite Color:** Unknown
-**Level:** 6 | **Experience to Next Level:** 5/60 | **Alignment:** Unknown
+**Level:** 6 | **Experience to Next Level:** 5/60 | **Alignment:** Marrow Tribe
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -51,7 +51,7 @@ Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 | ɴᴏ ʙᴏɴᴜs | 5 AP
+Speed | 1 | Speed Tier ɪ | 5 AP
 
 ***
 
@@ -62,7 +62,7 @@ Mud-Slap | 2 BP | 4 AP | ≥2 | ![Ground-Type](https://archives.bulbagarden.net/
 Tail Whip | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Defense is decreased by 1. The User may select additional targets to have their Defense decreased by 1 at the cost of 2 AP each.
 Growl | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Attack is decreased by 1. The User may select additional targets to have their Attack decreased by 1 at the cost of 2 AP each.
 None | - | - | - | - | - | N/A
-Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ??? | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/vNDknMKWjUwXKAQTdTrKcYSk) | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
 
@@ -102,7 +102,7 @@ Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
-Currently Training for Stat: Speed | **1** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 ***
 

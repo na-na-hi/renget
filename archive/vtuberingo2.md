@@ -55,6 +55,7 @@ Skunkieloo - https://youtu.be/iyQE27r7fBM ; https://youtu.be/v8pOiAOgb-Y
 skylarkuamva - https://www.twitch.tv/skylarkuamva/clip/ExquisiteBlueConsoleCorgiDerp-L3zVCLHfvSc1AGqZ?filter=clips&range=all&sort=time; https://www.twitch.tv/skylarkuamva/clip/ResilientSaltyCroissantCurseLit-eDP32AVozCIfscgQ?filter=clips&range=all&sort=time; https://www.twitch.tv/skylarkuamva/clip/ResoluteOpenReubenDuDudu-ZNYcUVzMDuPmE8l_?featured=false&filter=clips&range=7d&sort=time
 Ikine Tomeru - https://www.youtube.com/watch?v=AcLWdEbPQ5k&t=80s
 Nyanners - https://files.catbox.moe/2rj5n8.mp4
+SuzuTails - https://x.com/Vtuberfartclips/status/1724312703127486911?s=20
 
 **Choco**
 Mori Calliope - https://youtu.be/nzukVcF4Tfw
@@ -78,6 +79,7 @@ Kobo Kanaeru - https://youtu.be/GGRJOMF8Qfw, https://www.youtube.com/watch?v=Hfs
 Scarle Yonaguni - https://www.youtube.com/watch?v=v4FFc8P9K8s, https://www.youtube.com/watch?v=J0LpqKp93I8, https://www.youtube.com/watch?v=7qowvhB7AX0
 Nyanners - https://youtu.be/GC4idq6vJyY
 Takanashi Kiara - https://streamable.com/qr7wwc
+Selen Tatsuki - https://www.youtube.com/live/33PPNW-6fm0?si=VnwLD4vKzIEHheLR&t=3723
 
 **Vomit**
 Akai Haato - https://youtu.be/UDNpNdcruVM

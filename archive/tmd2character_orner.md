@@ -15,7 +15,7 @@ Pokémon's Ability | Description
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*130/400 points to Normal Rank*<-
+->*165/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -58,7 +58,8 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
-Attribute: Sea Snake  |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
+Attribute: Sea Snake |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
+Attribute: Sailing |  Tier **ɪ** | Orner knows the basics of seafaring.
 Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar

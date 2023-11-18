@@ -474,6 +474,7 @@ KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | やっぱり学習モデルはSDXL Baseじゃないとダメやね
 
 余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟？
+ただしHassakuXLはTEをガッツリ弄ってるらしく、実際にKohakuXLで一切反応しないキャラ名にも多少反応する。
 
 ### SDXL 1024 vs 512
 SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
@@ -484,7 +485,7 @@ Resolution | Image | Description
 1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 
 512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 違いが分からん
 
-学習速度重視なら1024未満でいいかも
+ぱっと見ていい感じかもしれないがかなり破綻しやすくなるので低解像度の学習は非推奨。
 
 
 ### スペックについて

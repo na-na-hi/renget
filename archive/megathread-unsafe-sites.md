@@ -55,6 +55,18 @@ Zoro | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-onli
 
 &nbsp;
 
+# 📚 ➜ Books
+
+📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
+:---- | :---- | :----
+Z-Library Project | zlibrary-to  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 🎮 ➜ Games
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**

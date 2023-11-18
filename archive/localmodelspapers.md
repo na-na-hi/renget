@@ -44,6 +44,7 @@
 09/2023|[Uncovering mesa-optimization algorithms in Transformers](https://arxiv.org/abs/2309.05858)
 10/2023|[Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 10/2023|[SpecTr: Fast Speculative Decoding via Optimal Transport](https://arxiv.org/abs/2310.15141)
+11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 |
 |**OpenAI (EA coup as of 11/2023)** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
