@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 475₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,11 +46,11 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 2 points to spend.
-    2/10 +2 IP | ▮▮▯▯▯▯▯▯▯▯▯▯
+    You have 21 points to spend.
+    33/10 +2 IP | ▮▮▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Hex Maniac | The User is attuned to all things mystical and arcane. | 2 IP
+1. Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 2 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | N/A
@@ -60,7 +60,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: Phantasm  | Tier **ɪɪ** (+2) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
+Attribute: Phantasm  | Tier **ɪɪɪ** (+3) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar

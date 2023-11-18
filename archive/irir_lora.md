@@ -480,12 +480,15 @@ KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://fi
 SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
 Resolution | Image | Description
  ------ | ------ | ------
-1024 | ![Image](https://files.catbox.moe/a27k6m.jpg) | -　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
+1024 | ![Image](https://files.catbox.moe/a27k6m.jpg) | -　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
 512 | ![Image](https://files.catbox.moe/091iq8.jpg) | ほとんど変わらない。微妙に品質下がった？
 1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 
-512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 違いが分からん
+512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 髪の描き方が変化した
 
-ぱっと見ていい感じかもしれないがかなり破綻しやすくなるので低解像度の学習は非推奨。
+上記のサンプルでは良いが実際のところ以下のように破綻しやすくなるので低解像度の学習は非推奨。
+Resolution | Image | Description
+ ------ | ------ | ------
+512 | ![Image](https://files.catbox.moe/u3khe8.jpg) | SD1.5かな？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
 
 
 ### スペックについて

@@ -116,6 +116,9 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Montecore (小萌★スタジオ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/12255896) [[Booth]](https://erowi.booth.pm) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04275.html) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99000290) [[Pixiv]](https://www.pixiv.net/en/users/205834) [[Twitter]](https://twitter.com/erowi) <-
 
+**Updated**
+[[Booth]](https://erowi.booth.pm/items/3326845) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ345818.html) : Fate Grand Order - Jeanne d'Arc -Alter- **Updated with Santa Lily & Lancer (Samurai Remnant)**
+
 [[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko & Nikadou Peiko
 [[Booth]](https://erowi.booth.pm/items/4348476) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ437939.html) : Original - NAIsya
 ***

@@ -883,6 +883,7 @@ Tournament Part 3: https://rentry.org/hpe3v
 A serpent amongst heroes and dragons (Yamata): https://rentry.org/mah6d
 Blooming of Tears (Rosethorn, Yamata): https://rentry.org/qggn4
 Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force): https://rentry.org/3c7tf
+A Carp (Sunlight Man, Yamata): https://rentry.org/gz4k5
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

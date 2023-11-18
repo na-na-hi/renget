@@ -73,10 +73,6 @@
 - Focusing on resources from a variety of programs for 3D modeling, animation, motion graphics, video editing, and texturing.
 - [URL Safety Results](https://www.urlvoid.com/scan/gfxdomain.co/)
 
-### 🔗 [KoLomPC](https://kolompc.com/)
-- Comprehensive platform dedicated to PC and Android software and games, offering a plethora of free download links.
-- [URL Safety Results](https://www.urlvoid.com/scan/kolompc.com/)
-
 ### 🐐 [LRepacks](https://lrepacks.net/) • Russian UI
 - Numerous portable applications and utilities that are well-liked by users for more than ten years.
 - [URL Safety Results](https://www.urlvoid.com/scan/lrepacks.net/)

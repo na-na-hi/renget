@@ -115,8 +115,15 @@ At temp 0 the AI gets as deterministic as it can get.
 
 ### Formatting
 
+#### Fix the codeblock
+
+If you are using three backticks as prefill, you can close the <thinking> codeblock by adding this to your regex settings (the three cubes on SillyTavern):
+![yum](https://files.catbox.moe/1nua52.png)
+
+Alternatively you can try hide thinking
+
 #### Hide <thinking>
-Add this to your regex settings (the three cubes on SillyTavern)
+Add this to your regex settings 
 ![u](https://files.catbox.moe/6vbrrl.png)
 
 Yep, these settings only hide the codeblock from your view, the text inside is actually kept and occupies Context tokens if you continue the conversation or export your chat to agnai/venus.

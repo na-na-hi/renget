@@ -153,7 +153,8 @@ Always run full teams (6 students).
 Supports =/= DPS. They SUPPORT you by bringing CC. They do not deal damage. 
 
 For PvE (normal and hard missions, bounties, commissions) you want AOE units. If you're having trouble with a boss, bring in a strong single target (ST) DPS instead.
-At the start you run an evasion tank like Yuuka or Tsubaki, who are the best at tanking damage early on. Eimi is also a solid option thanks to her self-heal EX and very solid damage early on. The damage type of ur tank doesn't matter too much however, since their job is to tank damage (yes, really). After you get access to T4 bags, you can run more orthodox tanks like Hoshino or Haruka (or Tsubaki, because she's still really good).
+At the start you run an evasion tank like Yuuka or Tsubaki, who are the best at tanking damage early on. Eimi is also a solid option thanks to her self-heal EX and very solid damage early on. The damage type of ur tank doesn't matter too much however, since their job is to tank damage. PvE mobs deal neutral damage, so armour types don't matter either. 
+After you get access to T4 bags, you can run more orthodox tanks like Hoshino or Haruka (or Tsubaki, because she's still really good).
 The best healer in the game is currently Koharu (3\*), but the 2nd best is Serina (1\*). Having a low cost EX heal AND a **free** heal on their basic skills make both of them a really solid option.
 
 Put ur tank in position 2 or 3, because if you put her on the edges there's a bigger chance your unit on the other side takes aggro.

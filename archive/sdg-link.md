@@ -316,5 +316,5 @@ https://civitai.com/user/Pleased_Chomusuke
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 15th - https://pastebin.com/vbkqsARG
+Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 18th - https://pastebin.com/2CFqLXTR
 *(PWAnon, I really dig the chibi animations!)*

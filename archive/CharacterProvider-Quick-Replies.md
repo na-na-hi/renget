@@ -1,6 +1,6 @@
 ![](https://files.catbox.moe/dlphjz.png)
 ## Quick replies
-*Current version: 1.0 | (17.11.2023)*
+*Current version: 1.2 | (18.11.2023)*
 
 ==These prompts are experimental!==
 - - -
@@ -18,7 +18,7 @@ To send a message with the chosen prompt simply type in the message you want to 
 ####
 - - -
 ##### Fast setup:
-[⬇️ DOWNLOAD QR PRESETS](https://files.catbox.moe/dzciqw.zip) (These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
+[⬇️ DOWNLOAD QR PRESETS V1.2](https://files.catbox.moe/mswo2s.zip) (These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
 
 ##### Installation:
 Extract the files from the downloaded zip archive into `SillyTavern-staging\public\QuickReplies`
@@ -56,14 +56,19 @@ If you don't want any "indication" for the sent prompt injections in your messag
 `[ ]` Place Quick-reply before the Prompt *(Places custom message in the beginning of your message)*
 
 - - -
+!!! For some reason `🗪 Chat` may not work as intended with some character cards and a JB turned on. Maybe the problem is the example messages from a card. 
+- - -
 **Casual Actions:**
 Button name | Custom message | Description
  | | 
-🗪 Chat | 🗪 <Request: Provide only an answer from the character. Exclude any narration. Be concise.> | Useful when you want to chat with the character in the middle of the story and get a fast reply.
-👁 Look Around | 👁 Looking around... <Request: Pause the story. I look around. What do I see?> | Provides information about surroundings on command.
-👁 Look at | 👁 Looking at... <Request: Pause the story and provide only the visual descriptions starting with 'You see...' If it's a text, read it. If it's an object, explain its details.> | Describes an object you are looking at.
-⮞ Be Passive | ⮞ Skipping Turn... <Request: User is taking a passive role. Make the character decide what to do next, or express an idea.> | Makes characters to take initiative.
-⯮ Step-by-step | ⯮ Observing... <Request: Explain the next characters' actions step-by-step.> |  Makes AI to write more detailed actions.
+🗪 Chat | 🗪 <Request: Provide only an answer from the character and nothing more. Exclude any narration in the style of a messenger chat within a quotation.> | Useful when you want to chat with the character in the middle of the story and get a fast reply.
+👁 Look Around | 👁 Looking around... <Request: Pause. Provide only surrounding descriptions as the narrator and nothing more. Is there something interesting?> | Provides information about surroundings on command.
+⊹ Look At | ⊹ Looking at... <Request: Pause. Provide only the visual descriptions starting with 'You see...' as the narrator and nothing more. If it's a text, read it. If it's an object, explain its details.> | Describes an object you are looking at.
+✿ Be Passive | ✿ Skipping Turn... <Request: The User is taking a passive role. Make the character decide what to do next, or express an idea.> | Makes characters to take initiative.
+⊷ Step-By-Step | ⊷ Observing... <Request: Explain the next characters' actions step-by-step.> |  Makes AI to write more detailed actions.
+≈ Result | <Request: Pause. Reply to this message only as the narrator. Describe the result of the User's action and what I feel. Write only 4 sentences. Write only sensory and visual info.> | Useful when you want only to know the result of your action.
+⏭ Next Scene | ⏭ Skipping the scene... <Request: Pass some time and skip the story to the next scene. Tell what happened between the scenes, change the location and make an opening to hook the User. Write a short paragraph.> | Skips current scene, changes lokation and makes an intro.
+🖼 Open a Map | 🖼 Opening a map... <Request: Pause. Reply to this message only as the narrator. Create a map of the surroundings with {{random: 3, 4, 5, 6, 7, 8}} places to visit. Present it in a table: Location name with a suitable emoji [Location], brief description [Description], and possible interactions that are relevant to the current goal [Related].> | Gives you relevant locations to visit presenting them in a table.
 
 - - -
 **Sexual Actions:**
