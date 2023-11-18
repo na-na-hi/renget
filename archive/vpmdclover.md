@@ -238,6 +238,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [Adrian Origin](https://pastebin.com/tLSf0AN5)
 	* [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1) *Not on Table*
 	* [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2) *Not on Table*
+	* [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3) *Not on Table*
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -648,6 +649,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1)
 * {||} [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) 
 * {||} [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2)
+* {||} [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

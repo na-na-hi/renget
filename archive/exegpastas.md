@@ -94,6 +94,7 @@ Unnamed journal pasta|[(link)](https://files.catbox.moe/x3mgau.png)
 *Kudzu*|[(link)](https://archive.4plebs.org/x/thread/35215590/#35329455)
 *Child from the Unknown*|[(link)](https://rentry.org/ChildfromtheUnknown)
 *Dreams*|[(link)](https://arch.b4k.co/vg/thread/448507093/#448630642)
+*Me, Slayer of Demons, Very Suicidal*|[(link)](https://rentry.org/MSDVS)
 
 ##Rewritten by /exeg/
 Title|Link

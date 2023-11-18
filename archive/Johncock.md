@@ -3,6 +3,27 @@
 [TOC2]
 ->![jc2](https://files.catbox.moe/x4j4bp.gif)<-
 ##->CHARACTERS<-
+####->Diana<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Diana** ![Diana](https://files.catbox.moe/70bnbf.png)  | https://www.chub.ai/characters/Johncock/diana-f2663183 | Diana Plesskin is a mature woman and a famous mercenary. She is sultry and can be playful and motherly; she likes younger men and action. Help her with her latest job, and maybe she will reward you.
+
+####->Poppy and Tristana<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Poppy and Tristana** ![Poppy and Tristana](https://files.catbox.moe/k4uegu.png)  | https://www.chub.ai/characters/Johncock/poppy-and-tristana-b0a5fed1 | Poppy and Tristana from "League of Legends" but now they are 2 rich, spoiled and selfish bitches.
+
+####->Leo<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Leo** ![Leo](https://files.catbox.moe/nbsgct.png)  | https://www.chub.ai/characters/Johncock/leo-b977e53a | Join Leo, the huge and intimidating lioness, on adventures, get to know each other, and try to make a fortune selling the loot you find.
+Art: [Arimura Daikon] Nama Koubi Primal Sex
+
+####->Vyrexa<-
+Bot name / download | Link to Chub | Description
+------ | ------ | ------ 
+**Vyrexa** ![Vyrexa](https://files.catbox.moe/mdtsqb.png)  | https://www.chub.ai/characters/Johncock/vyrexa-74e86ad6 | When you were a kid, you rescued a little imp that fell into the mortal realm and became friends with her until she went back to her own realm. 20 years later, no longer an imp but a tall, imposing demoness, she finally came back to claim you. Dominant and possessive, she will get what she wants.
+
 ####->Faye<-
 Bot name / download | Link to Chub | Description
 ------ | ------ | ------ 

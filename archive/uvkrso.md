@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+18/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) Gameplay folder, and [Boothill](https://mega.nz/folder/pvNmjaIQ#4-SXdKUXviwVNlAwAW3fpg) Misc. + Story+Voicelines folders.
 17/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), and [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w) Animations + Gameplay folders
 14/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w), and [Screwllum](https://mega.nz/folder/Eysm2QIT#uuFRcMxB1wPXV7kgZo7C9g) folders.
 12/11/23   | Rarities added for Boothill (✦✦✦✦✦), Robin (✦✦✦✦✦), and Gallagher (✦✦✦✦).

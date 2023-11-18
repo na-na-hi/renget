@@ -9,6 +9,8 @@
 'Battery'
 **Bounch**
 'Bounce'
+**Concoosion**
+'Concussion'
 **Devloper**
 'Developer'
 **Doot**
@@ -37,5 +39,9 @@
 **Peekayks**
 *Alt: Peekecks*
 'Pickaxe'
+**Vehycle**
+'Vehicle'
+**Vilayger**
+'Villager'
 **Wotah**
 'Water'

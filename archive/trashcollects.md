@@ -1524,6 +1524,13 @@ Proud/Beast Costume
 
 	https://files.catbox.moe/1fkaaw.safetensors
 
+# Prerendered 3D (Style)
+>Best prompts for it:
+>preren, (3d \(artwork\):1.2)
+>and if you want a little more of that plastic-y look, turn it up to a 1.2. It holds together surprisingly well. Really appreciate Harkness and that other anon pushing me over the skill barrier. Feel free to give any feedback as making these style Lora’s is gonna be a new addiction.
+
+	https://pixeldrain.com/u/DjuM3WuL
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -209,19 +209,19 @@ Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 **1. What is the best way to farm Egoshards?**
 You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
 * Doing one MD2H (Mirror Dungeon 2 Hard Mode) a week
-* Farming as much MD2 (Mirror Dungeon 2) as you want
+* Farming as much MD2 (Mirror Dungeon 2) as you want, just one a day is good
 * Collecting all Mirror Dungeon Weekly Bonuses
 * Doing your missions (daily, weekly, seasonal)
 
-You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes.
+You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Just one Mirror Dungeon a day is good, and more than two Mirror Dungeon runs a day is not necessary. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD2.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-Yes, especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you have 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that subsequent refills cost extra Lunacy. 
+If you plan on doing two or more Mirror Dungeons a day, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you have 150 max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. Note that these calculations don't include the Battle Pass XP you get from the MD2H Weekly Bonus.
 
 In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely if you are dedicated enough.
 
 **3. What should I shard (spark) first, and when?**
-If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, preferably both if it applies. You should avoid sharding 00 Identities because they are easy to roll on or off-banner, as you are guaranteed one 00 Identity for every 10-roll. 
+If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, ones marked as Event/current Season, preferably both if it applies. You should avoid sharding 00 Identities because they are easy to roll on or off-banner, as you are guaranteed one 00 Identity for every 10-roll. If you are serious about rolling as like as possible, feel free to do this anyways.
 
 As for when to shard, it is best to wait right before the Season ends in case you get spooked when rolling. But if you *really* want something now, whether it be for the Railway or something else, you can do it whenever you have the Egoshard Crates to justify it.
 
