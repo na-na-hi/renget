@@ -128,7 +128,7 @@
 - Over 100 million books are available for free in an online library.
 - [URL Safety Results](https://www.urlvoid.com/scan/zlibrary.to/)
 
-### 🐐 [Z-Library Project](https://singlelogin.re/) • Sign Up
+### 🐐 [Z-Library Project](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 - [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)
 

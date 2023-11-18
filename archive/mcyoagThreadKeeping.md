@@ -395,10 +395,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Blooming of Tears (Rosethorn, Yamata)
-https://rentry.org/qggn4
->Have Faith (artfag)
->>90953377
+>Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force)
+https://rentry.org/3c7tf
+>A Carp (Sunlight Man, Yamata):
+https://rentry.org/gz4k5
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links please)
 archive.4plebs.org/tg/thread/90806343/
@@ -901,6 +901,10 @@ https://rentry.org/hpe3v
 https://rentry.org/mah6d
 >Blooming of Tears (Rosethorn, Yamata)
 https://rentry.org/qggn4
+>Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force)
+https://rentry.org/3c7tf
+>A Carp (Sunlight Man, Yamata):
+https://rentry.org/gz4k5
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

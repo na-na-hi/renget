@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Scouts of the 1st Army Corps continue to cover dugouts and firing points of the Ukrainian Armed Forces, developing an offensive near Donetsk.
+https://files.catbox.moe/4wwhmz.mp4
 >Russians send explosive-filled MT-LB through a minefield
 https://files.catbox.moe/25ek83.mp4
 >Sudoplatov FPV drones nailing AFU positions

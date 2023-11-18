@@ -431,6 +431,11 @@ v50:
 
 	https://pixeldrain.com/u/WLcp8sTU
 
+### BBroFurrymix V4.0
+>Courtesy of an anon from /b/
+
+	https://pixeldrain.com/u/oRtJ9CRy
+
 ## Galleries
 
 # FluffAnon's Generations
@@ -438,6 +443,12 @@ v50:
 
 # Yttreia's Stuff
 	https://mega.nz/folder/mb5ACDhQ##o1VQjNnuXzhp0dKH6Aza7Q
+
+# Quad-Artist combos
+>250 hand-picked quad-artist combos, out of ~2800, each genned with 6 different scenarios for a total of 1500 raw gens.
+>Best viewed by resizing your window so that each row has 6 (or a multiple of it) images.
+
+	https://mega.nz/folder/YyIlhIzI#fr38ge0n-1M0AeBuwzjPNw
 
 ## LORAs
 

@@ -445,13 +445,12 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 
 ### 学習に使うウェイト
 SDXL base推奨。ほかの物だと汚くなる。
-
 Dim16/Alpha4,OpimizerはDAdaptLion,stepsは大体4000-5000。
-sd_xl_base_1.0
-![Image](https://files.catbox.moe/esqq7w.jpg)
 
-kohakuXLBeta_beta7Pro
-![Image](https://files.catbox.moe/v00k4d.jpg)
+SDXL Checkpoint | Image | Description
+ ------ | ------ | ------
+sd_xl_base_1.0 | ![Image](https://files.catbox.moe/esqq7w.jpg) | rentry君画像サイズ調整できないので適当な文章で調整。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
+kohakuXL_beta7Pro | ![Image](https://files.catbox.moe/v00k4d.jpg) | 色がおかしい。
 
 ### SD1.5との比較
 
@@ -460,24 +459,36 @@ SD Version | Image | Description
 1.5 | ![Image](https://files.catbox.moe/2chn95.jpg) | 絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
 XL | ![Image](https://files.catbox.moe/360sev.jpg) | ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
 1.5 | ![Image](https://files.catbox.moe/m1rpco.jpg) | いつも通り破綻だらけ
-XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5よりきれい。素晴らしい。
+XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5より良い。素晴らしい。　　　　　　　　　　　　　　　　　　　　　　　　　-
 
 
 ### 画風
-ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。学習に使ったcheckpointはKohakuXL
+ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。OptimizerはAdamW8bit、Dim8Alpha4。
+SDXL Checkpoint | Image | Description
+ ------ | ------ | ------
+kohakuXL | ![Image](https://files.catbox.moe/aq490s.jpg) | 
+KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/1qrb6c.jpg) | 画風は近いけど品質が・・・
+KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/jp5b77.jpg) | 品質低下を抑えつつある程度変わった
+kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | XLもヘイローは得意ではない模様。なぜミカのヘイローはある程度できるのに比較的単純な形状のナギサはできないのか。とはいえ1.5よりははるかにマシだが。　　　　　　　　　　　　　　　-
+KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | ゴミ。SD1.5のほうが圧倒的にマシ。
+KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | やっぱり学習モデルはSDXL Baseじゃないとダメやね
 
-KohakuXL
-![Image](https://files.catbox.moe/cw0r0e.jpg)
+余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟？
 
-KohakuXLに学習したLoRA0.85でマージ
-![Image](https://files.catbox.moe/n540ds.jpg)
-![Image](https://files.catbox.moe/02v23b.jpg)
-画風はSD1.5以上に近くなったけど品質が下がった気がする。
+### SDXL 1024 vs 512
+SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
+Resolution | Image | Description
+ ------ | ------ | ------
+1024 | ![Image](https://files.catbox.moe/a27k6m.jpg) | -　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
+512 | ![Image](https://files.catbox.moe/091iq8.jpg) | ほとんど変わらない。微妙に品質下がった？
+1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 
+512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 違いが分からん
 
-余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟なのかなぁ
+学習速度重視なら1024未満でいいかも
+
 
 ### スペックについて
-余裕はあまりないが推論・学習ともにVRAM8GBでできる。XLやるなら4060Ti(16GB)、4070(ti)、4090がよさそう。
+余裕はあまりないが推論・学習(unet_only有効)ともにVRAM8GBでできる。XLやるなら4060Ti(16GB)、4070(Ti)、4090、4070 Ti SUPER(VRAM16GBで2024年発売予定？)がよさそう。
 メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
 
 ***

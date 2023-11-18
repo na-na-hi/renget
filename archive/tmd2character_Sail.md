@@ -58,14 +58,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+Attributes | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Star Charting **ɪɪ** | Tier **ɪɪɪ** (+3) | 3/3 | ▮▮▮
+Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | 3/3 | ▮▮▮
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Star Charting | Tier ɪɪɪ (+3) | 2/3 | ▮▮▯
+
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

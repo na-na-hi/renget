@@ -862,6 +862,12 @@ Your decisions may not be entirely influenced by what your character might want 
 	- Monpower may be lost or destroyed in events, or even acquired if things happen successfully.
 
 ### Expansion & Map
+- Green represents The Clan Council.
+- Gold represents Rantrum.
+- Red represents Ho'oha.
+- Blue represents the Ava-lu Empire.
+- Pink represents the Liokio Dynasty.
+
 ![Conquer and claim!](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/TYXvIoebcmcGtJxxpBTvGVBF)
 
 ### Events

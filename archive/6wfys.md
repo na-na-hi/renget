@@ -1,5 +1,5 @@
 #N'wahman's Bag of Mods for Lazy SSE Newcomers Who Detest Wabbajack Shittery (NBMLSNWDWS)
-updated October 2023
+updated November 2023
 
 [TOC]
 
@@ -152,7 +152,7 @@ Yggdrasil Music and SoundFX - we wuz (vi)kingz music. It's decent stuff, combat 
 
 XPMSSE - the default all-in-one skeleton replacer most character mods use as a base. It [Requires](https://www.nexusmods.com/skyrimspecialedition/mods/44252) [Several](https://www.nexusmods.com/skyrimspecialedition/mods/54720) [Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/60363). 
 *note: I **highly** recommend using the now available Basic version and leaving weapon styles to IED! You will not need the above script patches with Basic.*
-FK's Diverse Racial Skeletons - I consider this a must. There's a synthesis patcher if you're too lazy to update your race records. You'll want Improved Camera to really *feel* like a manlet/chad/quadruped.
+FK's Diverse Racial Skeletons - I consider this a must. There's a synthesis patcher if you're too lazy to update your race records. You'll want Improved Camera to really *feel* like a manlet/chad/quadruped. Make sure to load the plugin early as possible to avoid overriding gameplay changes, if using the Synthesis patcher.
 Faster HDT-SMP - It's up to date and has all the latest fixes. It's really not that difficult to get set up.
 
 ###Farming Equipment and Overgrown Housecats
@@ -171,13 +171,18 @@ Check out [this article](https://www.nexusmods.com/skyrimspecialedition/articles
 
 ####Bodies and Textures:*
 
-For aspiring penis havers: You have two main body options - Vanilla and Schlongs of Skyrim ([AE update](https://www.loverslab.com/files/file/20136-sos-ae/) and [Original](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) available on Loverslab). The two main skins, Tempered Skins and Skysight skins, now worth with both. I also recommend True Faces - better normal maps for either skin.
+For aspiring penis havers: You have two main body options - Vanilla, and Schlongs of Skyrim ([AE update](https://www.loverslab.com/files/file/20136-sos-ae/) and [Original](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) available on Loverslab). The two main skins, Tempered Skins and Skysight skins, now worth with both. I also recommend True Faces - better normal maps for either skin.
+*Note: The New Gentleman is apparently a drop-in replacement for SoS. Probably worth switching to if your setup has bugs with armor slots! It supports SoS textures.*
 *Note on HIMBO™:* - Luckily for men, there is only one male bodyslide standard, and it supports SoS textures. If you want bodyslide for men, you will use HIMBO, you will like it, and you will find armors. The same cannot always be said for female armors due to the variety of choices. It is fucking ugly though and made by some sort of homosexual, so keep that in mind.
 
 For aspiring milk producers: Besides vanilla, your main body options are BHUNP and CBBE. CBBE has more armors so it's what I use. Each has dozens of textures, find a waifu whose look you like in the general and ask what skin they're using. There are no good vanilla textures, blame the coomers.
 *Note:* 3BA is CBBE with jiggly bits. TBD is CBBE, with bigger jigglers. Textures are compatible between the three, Bodyslides less so. All three CBBE variants as well as BHUNP support Bodyslide - but comparatively few armors are retrofitted to BHUNP so search around and make sure you can find enough you like before committing to it over a CBBE variant. For whatever reason BHUNP armors are regularly like 5 gigs for no reason.
 
 Your face textures will wildly impact the look of your characters so pick well and pick it first. You can, of course, switch textures anytime, just keep this in mind.
+
+*Honorable Mentions*
+BnP - RSV patch - This, along with all of its requirements, finally distributes Diverse™ textures in a somewhat compatible manner to different races in game. Muscular orcs, fat imperial bitches, etc. I do not prefer its face textures and normals over some standalone ones, but it is cool and you can always replace player textures if you feel so inclined.
+OBody NG - Distributes bodyslides in your folders, following rules that can be set in config files, to NPCs (and your player!) This requires all of your armors and bodies to be built in bodyslide with morphs, but it is a very cool and performant solution to body diversity. NG is standalone and does not require a bunch of tranny sex mods to function, which is excellent.
 
 ####Hair:
 
@@ -459,7 +464,7 @@ Water Mod ENB Displacement Textures - Very lightweight water tweak that makes EN
 Mari's Flora - Awesome textures for just about all flowers and plants. Couple of options for each as well.
 *and/or* Cathedral - 3D (whatever) - I use several of these to override Mari's just for flavor. 
 Simplicity of Snow - This lets you avoid going down the absurd BDS (Better Dynamic Snow, not the sanction stuff) rabbit hole while fixing a lot of vanilla snow weirdness.
-Player Spell (And Weapon) Lighting - Most anons use ENB light for this feature, you can if you like, but I actually prefer this implementation for simplicity and the visuals playing more nicely with skin.
+Player Spell (And Weapon) Lighting - Most anons use ENB light for this feature, you can if you like, but I actually prefer this implementation for simplicity and the visuals playing more nicely with skin. If you do use ENB, you may want to scale down the light radiuses significantly.
 
 ###Weather and ENB:
 
@@ -481,7 +486,7 @@ Azurite Weathers - More modern take on Cathedral weathers, an old standby that f
 Pi-Cho - Built off of legacy shaders from Silent Horizons, the screenarchery standby since forever, this is the gold standard for balancing characters and environment. If you don't use it, anons will complain about your skin and tell you that you should play LE instead.
 
 Silent Horizons 2 - Universal Core - Rebuilt from scratch for gameplay first. The sharpening and color space control are second to none and it can actually adapt to just about any weather. Excellent performance and visuals. I wouldn't touch anything else besides Berserkyr or 'Cho for gameplay in 2023 (if you are running hardware from 2023.)
-*or* The Enhancer - Same concept but much older and less advanced color and light control. It also has dogshit SSS out of the box. I would just do Community Shaders if you want lighting features but can't run SH2.
+*or* The Enhancer - Same concept but much older and less advanced color and light control. It also has dogshit SSS out of the box, and l00 is a snowflake who keeps comments off so people don't bitch about his awful default settings. I would just run Community Shaders if you want a lightweight visual upgrade but can't run SH2.
 
 Ljoss - This has phenomenal performance while still supporting some new-ish features like Particle lights. If you need locked 60 FPS on a potato, optimize your game first then install this with .347 binaries or slightly newer.
 
@@ -498,7 +503,7 @@ Seasonal Weathers Framework - Sucks to waste 2 hours waiting for DinduLOD to gen
 Frostfall - Seasons - if you use sunhelm or something gay this won't help but if you are a real gamer and use Frostfall you need this so you don't end up chilling naked in the snow in Falkreath hold without freezing your johnson off.
 
 ###Note on Community Shaders
-Community shaders is an alternative processing pipeline to ENB that retains vanilla image settings. By itself it doesn't do much but it has addons that replicate many formerly ENB-only features like grass lighting, particle lights (!), etc. The whole suite has a fraction of the performance cost of ENB so I would highly recommend it for gameplay with light screenarchery especially for 4k enjoyers. It is also easier to get a consistent imagespace than something like NAT which relies heavily on mesh and texture settings to be "correct" on EVERYTHING.  You can tweak lighting with Reshade although you obviously won't have the same control over water, skin, etc as ENB offers.
+Community shaders is an alternative processing pipeline to ENB that retains vanilla image settings. By itself it doesn't do much but it has addons that replicate many formerly ENB-only features like grass lighting, particle lights (!), etc. The whole suite has a fraction of the performance cost of ENB so I would highly recommend it for gameplay with light screenarchery especially for 4k enjoyers. It is also easier to get a consistent imagespace than something like NAT which relies heavily on mesh and texture settings to be "correct" on EVERYTHING.  You can tweak lighting with Reshade although you obviously won't have the same control over water, skin, etc as ENB offers. For my septims, I would wait until Subsurface Scattering releases to switch if screenarchering.
 
 
 ###Models and Textures:
@@ -532,14 +537,16 @@ Do note that anything that says MCO, ADXP or whatever will not work unless you h
 "This is what "guides" have come to, huh?" - Anon
 "Why didn't you fags just create a Wabbajack pack" - Anon, after not reading the title
 "I'm a returning player and these three (guides) saved me from 20h of researching shit myself." - Anon
-"man you are just full of dogshit advice, why the fuck did you feel qualified to write a guide on anything again?" - Anon
+"man you are just full of dogshit advice, why the fuck did you feel qualified to write a guide on anything again?" - Anon, after pointing out a typo
 ["how dare you"](https://files.catbox.moe/kush7t.jpg) - Anon
-"can't see shit" - Anon
+"can't see shit" - Anon, after installing Lux
+"most of this list is terrible" - Anon, after smoking a rock
 
 ##Links
+
+Discord - [https://discord.gg/ywnbaw](https://www.nexusmods.com/skyrimspecialedition/mods/41145)
 
 *These go a little more in depth on stuff I skim over. That said, RTFM when installing anything.*
 Combat guide - https://rentry.co/smpbi
 Gameplay guide - https://rentry.co/5moa4 (take this with a grain of salt)
 Gear guide - https://rentry.co/66gvs
-Discord - [https://discord.gg/ywnbaw](https://www.nexusmods.com/skyrimspecialedition/mods/41145)
