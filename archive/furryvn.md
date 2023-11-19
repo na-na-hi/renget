@@ -1,5 +1,8 @@
 # /fvn/ Lists
 
+!!! warning Editing Guidelines
+	This pastebin is open to everyone to edit. After you've finished editing, enter the edit code and hit "Save". Please do not type anything in the "New edit code" and "New url" fields.
+
 ##Table of Contents
 
 [TOC3]
@@ -25,16 +28,26 @@ This list is meant for FVNs that are still fairly early in development, but show
 Title | Status | Tags | Link(s) 
 :----: | :-----: | :----: | :------: 
 Coda | Demo | mostly straight, human MC, romance | [itch.io](https://codanon.itch.io/coda-demo), [Twitter](https://twitter.com/CodaVn)
+Kobold Festival | WIP | gay, straight, furry MC, romance, RPG, lane-based card battles |[itch.io](https://mousecat.itch.io/kobold-festival)
 
 ***
 
-!!! info Can't find anything that interests you?
-    Perhaps [Furry Game Index](https://furrygames.top/en/list-v.html) (not by us) can fix that.
+!!! Note Couldn't find anything that interests you?
+	Perhaps [Furry Game Index](https://furrygames.top/en/list-v.html) (not by us) can fix that.
+
+***
+
+!!! Info Have ideas for a new list?
+	Share them in the thread!
 
 ***
 
 ###Changelog
->>November 18, 2023
+>November 19, 2023
+>- Added Kobold Festival
+>- Added Editing Guideline and "Have ideas for a new list?"
+
+>November 18, 2023
 >- First-ever edition
 >- Added Arches, The Smoke room and Unofficial Tora Route.
 >- Fixed the link to the Echo twitter

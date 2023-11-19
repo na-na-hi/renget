@@ -1,6 +1,6 @@
 # The Crestfall Project
 
-The Crestfall Project is an experimental set of text-to-text LLM LoRAs built to diversify and enhance the LLMs ability to generate fetish content (ERP, story, adventure, etc). Currently, the majority of the dataset is based on (638, at the point of writing) carefully curated stories from [the moe datasets](https://rentry.org/ashh2), but more diversity is planned, either as a combined LoRA or as multiple LoRAs each with its own focus.
+The Crestfall Project is an experimental set of text-to-text LLM LoRAs built to diversify and enhance the LLMs ability to generate fetish content (ERP, story, adventure, etc). Currently, the majority of the dataset is based on (638, at the point of writing) carefully curated stories from e.g. [the moe datasets](https://rentry.org/ashh2), but more diversity is planned, either as a combined LoRA or as multiple LoRAs each with its own focus.
 
 The peft (LoRA) adapters, as well as many merges can be found on [HuggingFace](https://huggingface.co/crestf411).
 

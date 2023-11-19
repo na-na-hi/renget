@@ -1,3 +1,11 @@
+######"FNF Late Night Wurk, VERY Trace-able Drawings! Bawhahahar ^ ^"
+######https://youtu.be/-9dPTc5Lr0A (NOT FULLY ARCHIVED!)
+
+- Dave is drawing BF on speakers, currently not known for what is it for.
+- Dave stated that the person that was picked up from the modding community was a great pick.
+- Dave said that the one thing many musicians don't keep in mind is how the song should feel like specific to the character.
+- Dave said that a lot of the stuff that doesn't get used for the game will probably be things that will end up in the artbook, he additionally said that he does his work more properly rather than doing everything under the same FLA.
+
 ######"FNF misc work: Vitamin D Deficiency Hours Stream"
 ######https://youtu.be/ENEbMlbG43o
 

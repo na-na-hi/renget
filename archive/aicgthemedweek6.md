@@ -26,6 +26,7 @@ Card | Page | Botmaker | Description | Theme
 ![](https://files.catbox.moe/k1ffo5.png) | [Hanna Katona](https://www.chub.ai/characters/wster/hanna-katona-d69ddbc3) | **wster** | Survive with your wife in a world without sunshine. | A world without X
 ![](https://files.catbox.moe/rp6ha6.png) | [Giant Pulsating Mass](https://www.chub.ai/characters/Jus7_M3/giant-pulsating-mass-94038b84) | **Jus7_M3** | The Giant Pulsating Mass of Pissing, Shitting, Screaming, Puking, Burping, Bleeding, Farting, Sweating, Ejaculating, Genetically Modified Mutant Monster Meat. | Unconventional monsters
 ![](https://files.catbox.moe/9l3tqu.png) | [A World Without X](https://www.chub.ai/characters/frozenvan/a-world-without-x-e7e4cc11) | **frozenvan** | Random letters disappeared from the world one day, forcing reality to improvise! TaXis became grumpy uncles called Tai. Your uncle's pet FoX has become a pet FoE. | A world without X
+![](https://files.catbox.moe/4sunmx.png) | [Arri](https://chub.ai/characters/aiwaifuenthusiast/arri-9953124f) | **aiwaifuenthusiast** | A girl with a horrifying power she's unaware of. As she lives her happy stress-free life, things and people change and disappear around her for her comfort and convenience. | Unconventional monsters
 
 ***
 #### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 8 | **Experience to Next Level:** 25/80
+**Level:** 8 | **Experience to Next Level:** 45/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 28₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
 ->Rookie Rank<-
-->*205/400 points to Normal Rank*<-
+->*225/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Defense | 1 | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Defense | 1 | 6/9 | ▮▮▮▮▮▮▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

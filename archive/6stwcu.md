@@ -4,7 +4,7 @@
 
 You can find my first 1-2 hour impressions that I wrote up here if you're interested, but I'll probably re-iterate some of it in this review: https://pastebin.com/AZFCx7sc
 
-Previous headsets I've owned and used have been the Oculus Rift, HTC Vive & Vive Pro 1 (with and without the GearVR lens mod), Oculus Quest 1, & Valve Index. The Index has been my daily driver for the last 4 years and it has literally been held together by duct tape for the past year or two so I figured it was time to upgrade. My main focus is on social VR (VRChat) so feel free to keep that in mind during the review. Also this review was written on November 9th, 2023 which is about a month since I first got it so some things I bring up may become outdated/irrelevant in the next couple months.
+Previous headsets I've owned and used have been the Oculus Rift, HTC Vive & Vive Pro 1 (with and without the GearVR lens mod), Oculus Quest 1 & 2, & Valve Index. The Index has been my daily driver for the last 4 years and it has literally been held together by duct tape for the past year or two so I figured it was time to upgrade. My main focus is on social VR (VRChat) so feel free to keep that in mind during the review. Also this review was written on November 9th, 2023 which is about a month since I first got it so some things I bring up may become outdated/irrelevant in the next couple months.
 
 ## Brief Overview - What is it?
 

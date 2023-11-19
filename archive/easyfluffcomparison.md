@@ -38,3 +38,7 @@ https://files.catbox.moe/32x54o.jpg
 Prompt: (by <artist>:1.2), a female (elf:1.1) girl worshipping a (canine penis:1.1), slim body, (blue eyes),(blonde ponytail), humanoid pointy ears, nipples,( penis on face:1.1), (penis awe:1.1), penis worship, disembodied penis, erection, female focus, human on anthro,
 BREAK (canine penis, sheath, big balls, knot, big penis, red penis:1.2), (musk, musk clouds, musky cock,:1.1)
 Negative prompt: boring_e621_fluffyrock_v4, (humanoid penis, fellatio, penis in mouth,:1.1) (black nose:1.0)
+
+## Male-centric artist examples
+full resolution: https://files.catbox.moe/1wk85z.jpg
+base prompt: https://files.catbox.moe/th0k0m.png

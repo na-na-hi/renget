@@ -15,11 +15,12 @@ Previous Thread: >>123456789 \[**Update with previous thread**\]
 \>FAQ
 https://rentry.org/chastegenfaq 
 
-\>Lock Tracker
+\>Lock Tracker & Guide
 https://rentry.org/chastegenlocktracker
 
 \>Guide to Nipple Orgasms
-https://files.catbox.moe/yt2xxx.pdf
+(PDF) https://files.catbox.moe/fizs7o.pdf
+(Audio) https://files.catbox.moe/uheaeu.zip
 ***
 [TOC6]
 ***
