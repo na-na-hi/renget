@@ -1851,17 +1851,6 @@ All artists from fluffyrock.csv sorted by number of posts: https://files.catbox.
 Recommendations are Lollypop and Remacri. Put in models/ESRGAN
 https://upscale.wiki/wiki/Model_Database
 
-### Catbox Script for easier prompt sharing
-[![What it looks like](https://files.catbox.moe/idavtf.png)](https://files.catbox.moe/idavtf.png)
-```This userscript adds functionality to upload to Catbox directly from 4chan, and to view metadata for Stable Diffusion, and now TavernAI, in JPEGs and PNGs.```
-
-https://gist.github.com/catboxanon/ca46eb79ce55e3216aecab49d5c7a3fb
-Follow the instructions in the GitHub to install the userscript.
-
-	IGNORE THE BELOW; catboxanon added /trash/ support on the main repo. Leaving the fork up for anyone that already downloaded it from there, will just maintain it so it is the same as the original from now on.
-	https://gist.github.com/AIDungeonTester2/237d2984b7547a8a9ba02cdf72b0446d
-	Follow the instructions in the GitHub to install the userscript. Forked from the original repository to add support for /trash/.
-
 ### LoCon/LoHA Training Script / DAdaptation Guide
 	https://rentry.co/dadaptguide
 

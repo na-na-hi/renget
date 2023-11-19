@@ -75,13 +75,13 @@ Item Name | Description
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Clear Gummi | Ice Types like this.
 
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
 1. Dragon Gem | Powers up Dragon Type moves, once.
-2. Clear Gummi | Ice Types like this.
+2. Used TM81
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

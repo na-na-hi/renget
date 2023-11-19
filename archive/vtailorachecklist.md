@@ -5,6 +5,7 @@
 !!! warning Quick Update (11/19/23)
 	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
 	**Updated a few placements**
+	**Added upcoming Phase Connect chuubas and Added (X) indicator to corpos that are either fully complete or completed until new members are announced**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -42,6 +43,11 @@ Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
 Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
+Saya Sairroxs | - | - | - | Teased, debut December 17th
+Runie Ruse | - | - | - | Teased, debut December 17th
+Hikanari Hina | - | - | - | Teased, debut December 17th
+Eimi Isami | - | - | - | Teased, debut December 17th
+Muu Muyu | - | - | - | Teased, debut December 17th
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -93,7 +99,7 @@ Ushio Sumi | - | - | -
 Shikami Lana | - | - | -
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
-Mako Sameshima | - | - | -
+Mako Sameshima | X | - | X
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -173,7 +179,7 @@ Nanimo Navi | - | - | -
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Yumeno Akari | - | - | -
-Shiranami Ramune | - | - | -
+Shiranami Ramune | X | - | X
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -331,7 +337,7 @@ Shirose Aio | - | - | -
 Ryuoki Chaki | - | - | -
 Sakuya Azusa | - | - | -
 
-## -> VReverie <-
+## -> VReverie (X) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Ophelia Midnight, Hotaru Iora, Nova Aokami, Lilrya Prisvielle, Cheri Lupina, Rana Ianna, Erika Byakko, Akiko Sushi, Salmon Lordette
 !!! note 100%! PERFECT (for now)
@@ -560,7 +566,7 @@ Spectra Libitina | - | - | -
 Zeli Zuimu | - | - | -
 Misma Ryzing | - | - | -
 
-## -> Megalight Production <-
+## -> Megalight Production (X) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Hien Madoka, Suzuka Stella
 !!! note 100%! PERFECT
@@ -873,7 +879,7 @@ Karen von Nachtigall | - | - | -
 Meena Caleano | - | - | -
 Taya Rex | - | - | -
 
-## -> PixelLink <-
+## -> PixelLink (X) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Raki Kazuki, Lottie Shinju, Chiaki Katsumi, Miuna Usako, Nebi Nebu,
 !!! note 100%! PERFECT (for now)
@@ -1071,11 +1077,11 @@ Igni Redmond | - | - | -
 Kara | - | - | -
 Nantako Naru | - | - | -
 
-## -> Sedai One (Defunct) <-
+## -> Sedai One (Defunct) (X) <-
 !!! info Available Loras without the need of updates and have been tested.
 	Aimi Hada, Anastasia White, Aono Nemo, Lily Endou
-!!! note 100%! PERFECT(x)
-	(x) Gen 2 not exactly done, but they barely even got to do anything so its probably not possible to do them.
+!!! note 100%! PERFECT(v)
+	(v) Gen 2 not exactly done, but they barely even got to do anything so its probably not possible to do them.
 
 
 ## -> VOICE-ORE <-

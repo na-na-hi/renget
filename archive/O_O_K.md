@@ -1,10 +1,14 @@
 #Monke Stories
 ######monkeys fucking humans fucking monkeys fucking humans fucking monkeys fucking humans fucking monkeys fucking humans monkes fucking humans fucking monkes fucking humans fucking 
+
 >I Am The Apeman 
 https://archiveofourown.org/works/29291556/chapters/71931105
 
 >Comptetition
 https://git.io/Js8yM
+
+>Human Touch
+https://archiveofourown.org/works/51088984
 
 >Treetop Temptations
 https://archiveofourown.org/works/33973453
@@ -31,10 +35,6 @@ https://www.furaffinity.net/view/36113255/
 
 >Journey to Monke Island
 https://archiveofourown.org/works/36595708
-
->Dixie's Dong Country
-https://www.furaffinity.net/view/41924393/
-https://rentry.org/dixiedong
 
 >Dixie's Fancy Feet
 https://www.furaffinity.net/view/38637327/

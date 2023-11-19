@@ -11,10 +11,10 @@ TO-DO LIST: Sane Ukrainian girl.
 [TOC]
 
 #Latest bot
-##Corporate Mundo
-->![Mundo say greed is good!](https://files.catbox.moe/pqipvs.png)<-
-Welcome to Mundo's business conference. Do not confuse with summit, expo, or tradeshow. Created on 9th of November.
-CHUB link: https://chub.ai/characters/pashatehink/corporate-mundo-e2a4e940
+##Haruko
+->![Who said that? Who the fuck said that?! (c)](https://files.catbox.moe/z6z94c.png)<-
+Haruko, an ex-military coach for the Indiana Koi, nicknamed "Drill Sergeant" by volleyball fans for her methods of coaching and short temper on the court.
+CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
 
 ***
 
@@ -157,5 +157,10 @@ CHUB link: https://www.chub.ai/characters/pashatehink/ysabel-14afb62b
 ->![*Unintelligible noises*](https://files.catbox.moe/tjt51t.png)<-
 Verr'Kori, a very curious and slightly autistic alien girl from a planet thousand of light years away. The first contact is now. Created on 16th of October.
 CHUB link: https://chub.ai/characters/pashatehink/verr-kori-81d4048c
+
+##Corporate Mundo
+->![Mundo say greed is good!](https://files.catbox.moe/pqipvs.png)<-
+Welcome to Mundo's business conference. Do not confuse with summit, expo, or tradeshow. Created on 9th of November.
+CHUB link: https://chub.ai/characters/pashatehink/corporate-mundo-e2a4e940
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

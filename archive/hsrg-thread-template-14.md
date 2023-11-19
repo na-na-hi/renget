@@ -46,7 +46,7 @@ https://hsr.hoyoverse.com/gift
 5S9BND25CRBK 
 SOULWLT4EB
 ELFNQLUST8
-ELFNPWQ7ZB
+US9SND24U8FB
 STARRAILGIFT
 
 \>/hsrg/ Tools & Resources

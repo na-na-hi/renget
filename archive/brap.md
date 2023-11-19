@@ -100,6 +100,9 @@ Once everything is correctly setup, do the Asuka test in order to ensure that ev
 
 After this, you're done. There are guides on prompting, inpainting and everything in the Hentai Diffusion General threads on /h/. I highly recommend you go there to expand your knowledge on Stable Diffusion. You will need to figure out how prompting works in order to follow this guide. Stable DIffusion prompt tags roughly resemble the Danbooru ones, so I recommend opening up Danbooru and entering the specific tags you want from there. Make sure you've prefaced your prompts with "masterpiece, best quality" as well as inputted the negative prompts.
 
+
+![Dat Ass](https://files.catbox.moe/bf0t1g.png)
+
 ## Generation:
 
 #### Step 5: Additional Installs
@@ -144,7 +147,7 @@ This is your main model that you'll be generating on. The best model that I alwa
 Before you hit the generate button, we need to select all the appropriate settings to get the best quality images. The settings I use are below and I advise you to copy them.
 
 **Sampler:** DPM++ 3M SDE Karras (DPM++ 2M Karras also works well)
-**Hires Fix:** Enable Hires Fix. Set Upscaler to None. Hires steps to 0. Denoising Strength to 0.4. Upscale by 1.5.
+**Hires Fix:** Enable Hires Fix. Set Upscaler to None. Hires steps to 0. Denoising Strength to 0.4. Upscale by 2 (It may take a while. Upscaling by 1.5 is faster but the image may be more prone to errors.)
 **Refiner:** Do not use.
 **Width and Height:** For square images do 768x768. For portrait images do 512x768 and for landscape images 768x512.
 **Batch Count and Batch Size:** Batch count is however many images you want to generate with that one prompt, it is rare that you'll get the perfect image first try so I always recommend generating multiple images. I always keep Batch Size to 1 because it always makes generation take longer if I increase it.
@@ -165,7 +168,7 @@ I mentioned earlier in the guide about the negative prompt, which needs to be co
 ###### Positive Prompt:
 The first tags you need for the positive prompt are tags that tell the AI that it needs to be generating a high quality image. I personally just use **masterpiece, best quality** as my two quality tags.
 
-After that, it's entirely Danbooru tags. The Fart LoRA as well as most models use Danbooru's tags for tagging the images during training. If you want to learn how to prompt, simply go to danbooru and copy all the tags that are used on that site and they'll work here. Danbooru is important because they enforce detailed tagging on all their images, unlike all other booru websites. Be wary of how Danbooru tags its images, as they will be important in your prompting. For instance, if you want a character to have brown shoes, **brown shoes** will not work as a prompt. Because of Danbooru rules, if you want a character to have brown shoes you instead need to put **brown footwear, shoes** in your prompt. Be wary of things like this, you can study the Danbooru tags here or by clicking on random images on the site.
+After that, it's entirely Danbooru tags. The Fart LoRA as well as most models use Danbooru's tags for tagging the images during training. If you want to learn how to prompt, simply go to danbooru and copy all the tags that are used on that site and they'll work here. Danbooru is important because they enforce detailed tagging on all their images, unlike all other booru websites. Be wary of how Danbooru tags its images, as they will be important in your prompting. For instance, if you want a character to have brown shoes, **brown shoes** will not work as a prompt. Because of Danbooru rules, if you want a character to have brown shoes you instead need to put **brown footwear, shoes** in your prompt. Be wary of things like this, you can study the Danbooru tags [here](https://danbooru.donmai.us/wiki_pages/tag_groups) or by clicking on random images on the site.
 
 The two most important tags you should probably put first are the ones that denote how many characters are in your image. If you want to generate an image of just one girl the tags are **1girl, solo**. For 2 girls use **2girls, multiple girls** and for more girls just increase the number on the **2girls** tag to **3girls** and **4girls** and etc.
 
@@ -195,3 +198,17 @@ This is the same as img2img except you get to highlight a specific area and the 
 2. The Ultimate Fart LoRA has a plethora of issues that I have been made aware of after extensive use. Firstly, it seems to dislike clothing that covers the ass and has a bias towards giving the character a bare ass with panties. You can prevent this by putting extra weight on the specific item of clothing that is covering the character's ass. But make sure that this weight is less than or equal to the weight for the fart tags otherwise your fart effect will not show up over the character's clothing. Secondly, the gas effects are likely to mess up quite frequently. You'll commonly see gas effects emitting from the pussy or from places that don't make sense, or they'll fire off in the wrong direction. The strangest of all that happens quite frequently are gas effects that fire from the hands, I do not understand why that happens lol. Sometimes the gas effect won't come out of the person's ass but just be a random cloud near the character. These things just happen because AI is imperfect, just keep generating and you'll get images that look right. Thirdly, you have yellow clothing appearing quite often. This will usually happen if you don't specify the colour of the clothing the character is wearing. Even still, yellow panties in particular is a common occurence. I have noted that the issue of yellow clothing appears more often with other models and less on Kotosmix. If you generate a nude character, sometimes it may be better to not use the **anus** and **pussy** tags because they can often fuck up. Sometimes just using the **nude** tag is better. A common issue you may also notice is the AI generating two characters when you specifically prompted for just one. This happens because of the facefarting images used in the dataset in order to try and get facefarting to work. One easy way to avoid generating multiple characters is to simply reduce the width to 512 which gives no room for another character to generate. Unfortunately, while I wanted this LoRA to do facefarting, the reality is that it doesn't do it very well. It will likely have to be its own LoRA at some point.
 
 3. As mentioned in the Ultimate Fart LoRA Civitai page, there are extra tags that may work better for certain images you're trying to generate. Use **facefarting** when generating an image where a character farts on another character's face. Use **sittingfart** when a character is sitting down. Use **povfart** if the character is fully facing away from the viewer and the gas effect needs to spread out in both directions. Use **frontfart** if the character is full facing towards the viewer and the gas effect needs to spread out in both directions but not in front of the character. You can use **straining** to assist in characters who are in discomfort when releasing a fart and you can use **bloated belly** to assist in giving characters a big belly.
+
+4. As of the current version, there are a few things the LoRA can't do. Firstly, it can't do Burping. Burping will probably come in Version 2 whenever I complete it. As mentioned in the 2nd tip, the LoRA currently struggles with facefarting. My LoRA also cannot do scat. Scat is against the TOS of CivitAI. There are ways of doing Scat, as I've seen many AI generated scat images on Pixiv that look pretty good. I'm not too interested in scat, so I am not sure how to do it optimally. Maybe in time, I'll figure it out. There are some things I personally decided to omit from this LoRA. Stuff like text and onomatopoeia can easily be edited in with your editing software of choice. Belly rumbling effects were also emitted and can be edited in. If I included these things, it would've harmed the LoRA overall anyways.
+
+![Gassy Patty](https://files.catbox.moe/x87g01.png)
+
+## End of the Guide:
+Thank you for reading the guide, hopefully this better educates you on how I make the stuff I make. I'm sorry for the wall of text. My intent with this is very much that if you ever got stuck, you'd CTRL+F and find exactly what it is you're struggling with and find the solution. It's also necessary because I can't spend all my time helping people, so the guide is bloated (heh) with all the necessary information I can think of.
+
+Not only is it fun to generate new stuff, but the stuff I'm generating is going to be trained as part of a Version 2 of this LoRA. Version 2 should hopefully cut down on the errors and inconsistencies. I don't know how long it will take but likely many months still.
+
+You can check out my socials here:
+
+[Twitter](https://twitter.com/Poweressed)
+[Pixiv](https://www.pixiv.net/en/users/19988624)

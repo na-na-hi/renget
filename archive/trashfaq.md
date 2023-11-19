@@ -47,6 +47,10 @@ This userscript adds functionality to upload to Catbox directly from 4chan, and 
 https://gist.github.com/catboxanon/ca46eb79ce55e3216aecab49d5c7a3fb
 Follow the instructions in the GitHub to install the userscript.
 
+Some anon posted an updated version of the script that allows use on desuarchive.
+Link: 
+https://pixeldrain.com/u/4ddZvW41
+
 Left click the download arrow to download an image. Right click it to show the metadata in-browser.
 Downloaded catbox images can be opened in the WebUI's PNG Info tab to look at the metadata, and move it over to txt2img/img2img.
 

@@ -110,7 +110,8 @@ Rura "The Meteor" Taurus: aspie carnosaur who loves tekken and coyo!
 https://www.youtube.com/@rura_taurus
 Sunset "wolf in sheep clothes" Radiance: /choc/ favorite who loves Tekken. Mains JP
 https://www.youtube.com/@SunsetVT
-
+Anahita "Last Idolshowdown player" Levia: literal 2hu who seems to really be in love with idol showdown. The touhu vtuber pipeline is real
+https://www.twitch.tv/anahitalevia
 JP Indies:
 
 ![The Crimsom Dragon of Punching Death ](https://files.catbox.moe/5pnyo9.png)

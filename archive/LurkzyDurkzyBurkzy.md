@@ -8,7 +8,3 @@
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ->![imf2](https://i.imgur.com/Z5OYDDT.gif)<-
-
-!!! -> Initial Logs <-
-	
-->![Log1](https://files.catbox.moe/g8waad.png)<-

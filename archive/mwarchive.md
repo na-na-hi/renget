@@ -45,6 +45,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
 * Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
 * Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast
 * Snoop Dogg announces he’s giving up Weed for Health reasons

@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 17/11/23: Flashback Edition**
+**Last updated: 19/11/23: Stove Edition**
 
 ***
 
@@ -31,13 +31,13 @@
 
 | Name     | ID            | Level | Members | Leader  | Join       | Reqs/Notes                 |
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
-| NIKG     | ==**4893**== | 6     | 31/32   | DEXTRA  | PERMISSION |                            |
+| NIKG     | ==**4893**== | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |       BASED BASED BASED                   |
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB | ==**29940**== | 3 | 31/32 | CUNNYGOD | PERMISSION | for newcuties |
+| KUNNYHUB | ==**29940**== | 3 | 32/32 | CUNNYGOD | PERMISSION | for newcuties |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

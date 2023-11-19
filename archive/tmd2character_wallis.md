@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 9 | **Experience to Next Level:** 10/90
+**Level:** 9 | **Experience to Next Level:** 30/90
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 315₽ | **Glorious Gold:** 0 Bars
 
@@ -24,7 +24,7 @@ Pokémon's Ability | Description
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
-->*205/400 points to Normal Rank*<-
+->*225/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
