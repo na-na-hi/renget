@@ -35,7 +35,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No Secondary Effect
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Vine Whip | 5BP | 5AP | ≥2 | Grass | Physical | No Secondary Effect
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Mega Drain | 4BP | 6AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**

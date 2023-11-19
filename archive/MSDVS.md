@@ -56,7 +56,7 @@ He takes one swipe at me, misses, and his arms break off due to his maimed joint
 
 “YOU FOUL MORTAL! YOUR DEVIOUS TRICKERY HAS LEFT ME AS A SHELL OF MY FORMER SHELF! WHAT DO YOU HAVE TO SAY FOR YOURSELF WEAKLING?”
 
-“Your name is kinda gay and cringe lol.”
+“Your name is kinda gay and cringe.”
 
 Slamming the sole of my shoe down on Neptune’s head I take pride in the fact that though I did not kill myself today, my shear passion and will, my indomitable human spirit, to end my life, led to the death of a demon. Spending the next couple of minutes staring at Neptune’s rotting corpse I came to the conclusion that life is worth living, that there are plenty of good reasons for one to continue.
 

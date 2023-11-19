@@ -2,8 +2,7 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/14/23)
-	**Added Atelier Live, V-Dere, MariNasu, MeltyPlus and OTAHOO Project**
+!!! warning Quick Update (11/19/23)
 	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
 	**Updated a few placements**
 
@@ -80,11 +79,11 @@ Tetsuya Kazune | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Hoshifuri Iku | - | - | -
-Tokimori Aoi | - | - | -
-Ibuki Meno | - | - | -
-Kamishiro Rita | - | - | -
-Araka Luto | - | - | -
+Hoshifuri Iku | X | - | X
+Tokimori Aoi | X | - | X
+Ibuki Meno | X | - | X
+Kamishiro Rita | X | - | X
+Araka Luto | X | - | X
 Suzune Nia | - | - | -
 Pengin Pina | - | - | -
 Rikudou Yura | - | - | -
@@ -246,7 +245,7 @@ Kazami Ryo | - | - | -
 Hiragi Ayaka | - | - | -
 Asakura Hinata | - | - | -
 Kazami Yuika | - | - | -
-Otodama Tamako | - | - | -
+Otodama Tamako | X | - | X
 Ishikari Akari | - | - | -
 Oshiro Mashiro | - | - | -
 Yamaguro Nekuro | - | - | -
@@ -646,7 +645,7 @@ Uka | - | - | -
 Keke | - | - | -
 Hunger | - | - | -
 Yog | - | - | -
-Kiyuu | - | - | -
+Kiyuu | X | - | X
 Karisa | - | - | -
 Sybil | - | - | -
 Girimi | - | - | -
@@ -761,7 +760,7 @@ Malcom Bell | - | - | -
 Shura | - | - | -
 Terumi Koizumi | - | - | -
 Ash Ekrixi | - | - | -
-Xiulan Long | - | - | -
+Xiulan Long | X | - | X
 Nunki | - | - | -
 Abigail Marina | - | - | -
 Vallini Laudo | - | - | -
@@ -1005,7 +1004,7 @@ Superpretty TAKOPERO | - | - | -
 Meraki Keimii | - | - | -
 Akemi Arlin | - | - | -
 Nezumi Elze | - | - | -
-Umino Ciala | - | - | -
+Umino Ciala | X | - | X
 Mycara Melony | - | - | -
 Cerafine Mikael | - | - | -
 Ardalita Lilibelle | - | - | -
@@ -1469,3 +1468,6 @@ Towa Rui | X | - | X | -
 Ace Taffy | X | - | X | ???
 Kirsche Verstahl | X | - | X | -
 Eira Woolcott | X | - | X | -
+Tomoe Umari | X | - | X | -
+MariMari | X | - | X | -
+Babalu Osi | X | - | X | -

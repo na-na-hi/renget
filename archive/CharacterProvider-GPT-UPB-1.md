@@ -95,7 +95,7 @@ Top-P:             0.95
 > \- "I want the amount of semen to be exaggerated and excessive during orgasms."
 [...]
 ETC.
-GPT will include the kinks you want in its replies. If you are tired from genericl output this is a good way to spice things up. Some requests work but some don't.
+GPT will include the kinks you want in its replies. If you are tired from generic output this is a good way to spice things up. Some requests work but some don't.
 #####
 - - -
 ##### Glossary (NSFW)

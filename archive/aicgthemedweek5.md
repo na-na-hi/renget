@@ -5,8 +5,7 @@
 #### -> Here is the collection of cards submitted for the fifth themed bot challenge, listed in no particular order <-
 ***
 -> ![](https://files.catbox.moe/jzjfcn.jpg) <-
--> PLACEHOLDER IMAGE <-
-### ->Gothic horror <-
+### -> Gothic horror <-
 ***
 Card | Page | Botmaker | Description | Extra
 ------ | ------ | ------ | ----- | -----

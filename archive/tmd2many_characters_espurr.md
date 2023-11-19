@@ -62,7 +62,7 @@ Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
 Flash | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
-Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ??? | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
 
@@ -114,7 +114,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
-2. Trawl Orb | Randomly gives 1 item to the user from the floor of the dungeon.
+2. TM107 Shock Wave | A TM which contains the Move Shock Wave. It holds a holographic sheen, imparting electrical information.
 3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 

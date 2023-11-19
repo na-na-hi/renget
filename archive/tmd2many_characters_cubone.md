@@ -112,7 +112,7 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | N/A
-1. Empty | None
+1. TM12 Water Gun | A TM containing instructions for the move Water Gun.
 2. Empty | None
 3. Empty | None
 4. Empty | None
@@ -131,7 +131,7 @@ Item Name | Description
 ###### RP/Quest Storage (∞ slots)
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | None | None
+RP Item | Kick-Me Sign | A slip of paper with a Hitmonlee rune, indicating the reader should kick at its' location, given to Cubone by Mohka. Cubone seems to think it's a heartfelt gift.
 Key Item | None | None
 
 ***
