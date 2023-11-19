@@ -450,6 +450,8 @@ v50:
 
 	https://mega.nz/folder/YyIlhIzI#fr38ge0n-1M0AeBuwzjPNw
 
+Artist list as a .txt: https://files.catbox.moe/7ky7fb.txt
+
 ## LORAs
 
 # LORAs from /hdg/

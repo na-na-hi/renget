@@ -53,6 +53,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
+[[Booth]](https://witchcraft130.booth.pm/items/5238626) : Vocaloid - Kagamine Rin
 [[Booth]](https://witchcraft130.booth.pm/items/5084228) : Touhou - Hakurei Reimu -Limited-
 [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01032944.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1859938) : Kantai Collection - Luigi Torelli (UIT-25 / I-504)
 [[DLSite]](https://www.dlsite.com/home/work/=/product_id/RJ01015129.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1816379) : Kantai Collection - USS B45 Colorado
@@ -166,6 +167,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/529662) : Kantai Collection - Javelin
 [[Fantia]](https://fantia.jp/products/511835) : Kantai Collection - Tamanami
 [[Fantia]](https://fantia.jp/products/498308) : Kantai Collection - Shigure Kai San -Summer-
 [[Fantia]](https://fantia.jp/products/483310) : Kantai Collection - Shigure Kai San

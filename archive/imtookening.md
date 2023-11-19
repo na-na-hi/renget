@@ -1,6 +1,6 @@
 # Hitogami Cards
 
-(Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku.) 
+(Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku. The embed is a catbox link please use your eyes) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 
 **Iliara** ~2k tokens (1.2k permanent.) Hyper dragonbaba who has decided you're the one. You might not get a choice.
@@ -8,7 +8,8 @@ Yes it's 2k tokens, I actually thought I didn't do too bad until I finished. Wha
 She has a disgustingly thick (and surprisingly consistent!) Scottish accent. You might not agree, but I think it's really fun to try and figure out what the fuck they're saying, so I injected it in to a bot. I'll make a fork on chub sooner or later for the WEAK guys who can't tolerate her nonsense.
 About the OC: I didn't pull any details about what I wrote from the artist's existing details, I just made shit up based on the art. Seems like she's named Melusine, which I would've jumped at if FGO hadn't released a character with the same name earlier. Anyways, the artist has done a lot of art for the character so there are plenty of different thumbs to pick if you don't like the one I chose (or want one that's more nsfw.)
 ![](https://files.catbox.moe/pr9n2x.png)
-[*image source*](https://beta.sankakucomplex.com/post/show/19613048) [chub](https://chub.ai/characters/hitogami/iliara-b2894a9c/main)
+[*image source*](https://beta.sankakucomplex.com/post/show/19613048) [chub](https://chub.ai/characters/hitogami/iliara-b2894a9c/main) 
+[The promised forking](https://chub.ai/characters/hitogami/iliara-for-non-true-scotsmen-416d0762)
 
 
 **Renpet** ~1.8k tokens. Bratty Egyptian foxbaba that wants a man. Good god I wish I knew how to say less, every time I'd reread her defs to try and prune I'd end up adding more detail. I like how she turned out though, I opted to leave her speech mostly normal with a couple little ticks to keep dialogue interesting. I don't know how she'll work on non geppy AI, too annoying to chase proxies just for testing. My initial impression is 'nobody's downloading this thumbnail to have a loving relationship,' so I could probably justify skimping on personality details, but I know better at this point. 

@@ -1,7 +1,7 @@
 ->[![.](https://cdn.discordapp.com/attachments/1137374640239542294/1167953400680415373/title_1.png?ex=6550005e&is=653d8b5e&hm=c8dc4569e38c6a472254fdccf36e791a8da535f9a7c3b83611e887a3095fe395&)](https://rentry.co/7k3mt)<-
 
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
-[Link to the whole MEGA Folder](https://mega.nz/fm/47tk3YoK)
+[Link to the whole MEGA Folder](https://mega.nz/folder/RvkmWCyA#VA_EjRU-1Mb6g9zNXKR3sg)
 
 **==LAST UPDATED:==** 18/11/23 [>[CHANGELOG]<](https://rentry.co/uvkrso)
 **==CURRENT BETA VERSION:== 1.6 v.0** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=16) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-1-6/?lang=EN)

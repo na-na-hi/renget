@@ -577,6 +577,7 @@ Kaylee vs. Rockhorn: https://desuarchive.org/tg/thread/90541648/#90542401
 Yui, Snady, Orochi and Chihiro, hoge: https://desuarchive.org/tg/thread/90744924/#90754470
 Top 10 Hero Chart: https://desuarchive.org/tg/thread/90930751/#90932056
 Feral: https://desuarchive.org/tg/thread/90930751/#90932810
+Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://desuarchive.org/tg/post/90972837/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -632,7 +633,6 @@ Aspara: https://archive.4plebs.org/tg/post/89401642
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
 Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
-Faith: https://desuarchive.org/tg/thread/90944069/#90953377
 ***
 
 ## WRITEFAGS
@@ -884,6 +884,7 @@ A serpent amongst heroes and dragons (Yamata): https://rentry.org/mah6d
 Blooming of Tears (Rosethorn, Yamata): https://rentry.org/qggn4
 Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force): https://rentry.org/3c7tf
 A Carp (Sunlight Man, Yamata): https://rentry.org/gz4k5
+Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil): https://rentry.org/doysdm
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

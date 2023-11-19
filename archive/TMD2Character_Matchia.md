@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 9 | **Experience to Next Level:** 10/90
+**Level:** 9 | **Experience to Next Level:** 30/90
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 440 ₽ | **Glorious Gold:** 0 Bars
 
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*155/400 points to Normal Rank*<-
+->*175/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

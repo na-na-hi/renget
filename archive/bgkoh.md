@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 9 | **Experience to Next Level:** 35/90
+**Level:** 9 | **Experience to Next Level:** 55/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 569₽ | **Glorious Gold:** 0 Bars
 
@@ -31,7 +31,7 @@ Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
+Fire Fang | 6 BP | 5 AP | ≥2 | Fire | Physical | 16-18; The Opponent is afflicted with Burn. 19-20; The Opponent Flinches.
 Growl | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
@@ -76,7 +76,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 2. Apple | Gives +2 to any outside-combat-action.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.

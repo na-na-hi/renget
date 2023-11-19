@@ -10,7 +10,7 @@ This prompt is experimental and needs testing. You can try it out, but I recomme
 - - -
 
 #####[⬇️ DOWNLOAD PROMPTS AND PRESET](https://files.catbox.moe/cgb8kr.zip)
-!!! danger Please note, that these prompts intended to use with this preset, because it includes additional sections.
+!!! danger Please note that these prompts are intended to be used with this preset because of additional sections.
 
 ##### **How do I use this?**
 1. Download settings.

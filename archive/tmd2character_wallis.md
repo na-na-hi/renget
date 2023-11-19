@@ -33,7 +33,7 @@ Health Points | 1 | Level 9 (21HP) | 23HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
-Special Defense | 0 | Special Defense Tier **ɪ** | +1 Special Mitigation
+Special Defense | 0 | Special Defense Tier **ɪɪ** | +2 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**

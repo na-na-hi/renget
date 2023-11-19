@@ -33,8 +33,34 @@ Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.tw
 ---
 #Unofficial Vod Archives 
 
-##Spreadsheet for indie Vods: [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=192451850):
+##Spreadsheet for indie Vods (Outdated and wont be updated anymore): [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=192451850):
 
+---
+
+##[Nyanners](https://www.twitch.tv/Nyanners)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | 100% Complete Nyanners Vod Archive starting from her vtuber debut (2022-07-17). Im still working on this so it will stay up to date.
+
+##[Grimmi](https://www.twitch.tv/grimmivt)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share and will make sure future vods added to this are safe to share as well. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these. Im still working on this so it will stay up to date.
+ Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods. This Speadsheet will likely only be updated every few months.
+
+##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods. Im still working on this so it will stay up to date.
+Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
+Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
+
+## [Collection of random vods that people shared in /lig/](https://boards.4channel.org/vt/)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Archive of random /lig/ger vods| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8OUeSxyior37q7O4Lhujs9) | if you want anything added on there feel free to send me vod links to my archive related email account (psobb1302@gmail.com) and i can add them.
+
+---
  
 ##[Anny](https://www.twitch.tv/anny)
 Content|Link|Description 
@@ -76,30 +102,10 @@ Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4At
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)
 
-
-##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
-Content|Link|Description 
--------|-------|------- 
-Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods
-Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
-Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
-
 ##[Fillian Alt Channel Vods](https://www.twitch.tv/filianislost/)
 Content|Link|Description 
 -------|-------|------- 
 Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_SVQRtJpbCUpoEdw4G5xi9) | Incomplete archive, these are vods another anon posted on mega i just reuploaded these for archivals sake.
-
-##[Grimmi](https://www.twitch.tv/grimmivt)
-Content|Link|Description 
--------|-------|------- 
-Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share. If you need newer Vods that got muted or something feel free to request them using the mail in the last section of this rentry as long as they are safe to share, i can upload them. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these.
- Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods
-
----
-##[Nyanners](https://www.twitch.tv/Nyanners)
-Content|Link|Description 
--------|-------|------- 
-Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | Nyanners Vod Archive starting from her vtuber debut (2022-07-17), still working on this so it will stay up to date.
 
 ##[Hime Hajime](https://www.twitch.tv/hajime)
 Content|Link|Description 
@@ -111,7 +117,7 @@ Mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?l
 ##[Lord Aethelstan](https://www.twitch.tv/lordaethelstan)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)| 
+Unofficial? Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)| 
 
 
 ##[Nina Saotome](https://www.twitch.tv/ninaninin)
@@ -133,7 +139,6 @@ Content|Link|Description
 Content|Link|Description 
 -------|-------|------- 
 (Unofficial) Filian Vod Archive: | [Link](https://www.youtube.com/@filianvods)
-
 
 
 ---

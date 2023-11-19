@@ -7,16 +7,16 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 9 | **Experience to Next Level:** 5/90
+**Level:** 9 | **Experience to Next Level:** 25/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*80/400 points to Normal Rank*<-
+->*100/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

@@ -6,16 +6,16 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 9 | **Experience to Next Level:** 40/90
+**Level:** 9 | **Experience to Next Level:** 60/90
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 1465₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1910₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*165/400 points to Normal Rank*<-
+->*185/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -31,7 +31,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Swagger | - | 4AP | >5 | Normal | Status | The Opponent's Attack is increased by 2. The Opponent is afflicted with Confusion.
-Aqua Tail | 9BP | 7AP | ≥3 *Trained* | Water | Physical | No secondary effect. 
+Aqua Tail | 9BP | 7AP *Trained* | ≥3  | Water | Physical | No secondary effect. 
 Poison Tail | 5 BP | 5 AP | ≥2 | Poison | Physical | 18-20; Increased Crit Ratio. 19-20; The Opponent is afflicted with Poison.
 Switcheroo | - | 4AP | - | Dark | Status | The User swaps Worn/Held Items with the Opponent.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -71,7 +71,7 @@ Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Mystic Scarf | +2 damage to Water Type moves.
-*Equipped Item: Sitrus Berry | Heals 20 HP.
+*Equipped Item: Eᴍᴘᴛʏ | Vacant hand slot.
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -80,8 +80,8 @@ Item Name | Description
 **STORAGE (2 slots)**
 Item Name | Description
 ------ | :----: 
-1. Shadow Gummi | Ghost Types like this.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Dragon Gem | Powers up Dragon Type moves, once.
+2. Clear Gummi | Ice Types like this.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

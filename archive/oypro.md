@@ -7,9 +7,9 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 9 | **Experience to Next Level:** 15/90
+**Level:** 9 | **Experience to Next Level:** 35/90
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 275₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 505₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -17,7 +17,7 @@ Pokémon's Ability | 	Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*195/400 points to Normal Rank*<-
+->*225/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -62,13 +62,13 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
-Attribute: Illusory | Tier **ɪ** (+1) | Skill with illusion manifestations
+Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪ** | 1/3 | ▯▯▯
+Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
@@ -78,17 +78,17 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Empty| A vacant inventory slot
+1. Empty | A vacant inventory slot
 2. Ban Seed | Causes Disabled upon consumption
 3. Heal Seed | Cures all status conditions.
-4. Oran Leaf x2| Heals the user for 3HP. Can stack to 3.
+4. Empty | A vacant inventory slot
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
 	Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----:
-1. Pecha Berry | Cures the user. Heals Poison.
+1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
