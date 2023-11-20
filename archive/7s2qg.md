@@ -1,3 +1,4 @@
+## Official Hive Video Channel List
 This is a list of videos uploaded to the hive_offcl YouTube (or equivalent) channel.
 ### JAN
 ==WE'RE MOVING TO JAPAN==
@@ -91,46 +92,15 @@ The clique films themselves getting ready for the tournament and stream for the 
 Sober, no-makeup video during which Minnie and Hailey address their new relationships and ambiguously apologize for flouting the dating ban. However they make no mention of breaking up with their significant others
 ### SEP
 ==MERGER ANNOUNCEMENT==
-The Boys™ make the first of many cameos
+The Boys™ make the first of many cameos. Maybe they really did make their own channel per thread discussions who knows
 ==Provisional Hero Licenses: What they are, how they work==
 The clique (mostly Max and Minnie) explains how a regular Japanese kid becomes a fully-fledged hero and discusses why the license exam is being opened up to freshmen
 ==Hero License Exam post-mortem + related girl talk==
 The clique crash at Hailey's penthouse to talk about the exam, bitch about their relationships (Faith keeps covering her mouth right before talking), and gossip about various other tangentially related issues
 ### OCT
-==ASMR || tinker with me in kyoto once again <3==
+==ASMR || tinker with me in kyoto #3 <3==
 Faith hard-carries the channel but breaks off about halfway through to reveal that she's dating Chris
 ==The much-deserved retail therapy video (LA edition)==
 The clique goes shopping in LA and reconnects briefly with some old acquaintances over the weekend
 ### DUBIOUSLY CANON SECTION
-###### MONTH n
-==[E] Walking for LV in Paris!!!==
-Edie films a solo vlog (she makes a lot of them these days)
-==[BxM] WE'RE PREGNANT==
-Minnie and Bobby announce that they're expecting. Also features a recording of Minnie revealing it to the rest of the clique over a call
-==[HxH] A Day @ Challenger Agency==
-Hailey records herself visiting Hifumi's office. Everyone there is visibly terrified by her but are doing their best to put on a brave front before the camera. She later has lunch with Hifumi and ends the video there
-==[HIVE] EOM Wrap-Up #96==
-The clique meets for brunch in Kyoto
-###### MONTH n+1
-==[CxF] [HxH] Just to be clear...==
-Faith and Hailey reveal their pregnancies as well but emphasize that they're not doing "like, a weird pregnancy pact thing or anything like that"
-==[M] This quarter's hero news without the bulls%&t==
-Max does an update on the most scintillating gossip that's been going on in East/Southeast Asia over the past 3 months. At the end she says abruptly "Yes I'm pregnant. No the father isn't in the picture. End of story." and shuts off the camera
-==[BxM] Month #3 Wrap-up!==
-Minnie discusses ultrasounds, home renovations and maternity clothes. Also advertises her personal channel where she's been uploading weekly updates. Further commits to dragging Max, Faith and Hailey into keeping their followers updated on how their own pregnancies are progressing
-==[E] A day at one of Tokyo's most promising fashion startups==
-What it says on the tin. The camera cuts out two-thirds of the way through and when it comes back on, Edie explains that she got caught in the middle of a villain attack and had to help stop it. She got a free scarf out of it though
-==[HIVE] EOM Wrap-Up #97==
-The clique meets for brunch in Kyoto
-###### MONTH n+2
-==[CxF] Tech/QM Update==
-Chris and Faith discuss what they've been doing lately in their respective fields. Segues into what Faith's been eating lately and ends with her showing off her ridiculous collection of health supplements as Chris shakes his head
-==[HxH] GRWM for Date Night==
-Hailey does a GRWM, bitches about her weight gain, and goes out for dinner with Hifumi
-==[M] explore hanoi w/ max==
-Max recaps her three-week sojourn back to Vietnam
-==[HIVE] Monthly pregnancy update! (EOM #98)==
-The clique gathers to discuss what's been happening re: their bumps lately. Minnie does most of the talking. Edie is there, looking annoyed, but later takes a picture for the other four, again at Minnie's instigation. Then they go for brunch
-###### MONTH n+3
-==[HIVE] Maternity shopping (everyone say THANK YOU EDIE)==
-The clique goes shopping for maternity clothes. Edie stuffs most of their bags into her pocket dimension and also makes a bunch of good suggestions
+https://rentry.org/rw4wzd

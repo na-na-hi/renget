@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>VT-40 FPV drone strikes on a Swedish Stridsvagn 122 tank, two Ukrainian vehicles and two armoured vehicles, one of which is an American M1124 MaxxPro
+https://files.catbox.moe/2anx6z.mp4
+>The first mass use of the RBK-500 with UMPC kits. The delivery was made to AFU near Staromayorsky, Donetsk
+https://files.catbox.moe/kfffdx.mp4
 >hohols release another trailer—this time a Crimea offensive 
 https://files.catbox.moe/3qqkzq.mp4 
 https://files.catbox.moe/s2gsif.mp4 (Russian edit) 

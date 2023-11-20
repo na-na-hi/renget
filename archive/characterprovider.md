@@ -28,11 +28,13 @@
 - - -
 ######
 ## Notice board
-**GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
+• **Custom CSS Added:** Disables crappy buttons in and fixes inconsistences. You can see changes and copypaste them from the [Custom CSS](https://rentry.org/CharacterProvider-Custom-CSS) page 
 
-**GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+• **GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
 
-**Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
+• **GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+
+• **Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
 ######
 - - -
 ######

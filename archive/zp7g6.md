@@ -161,7 +161,7 @@ More info about the comparison table and preview images can be found in the **[A
 :------:|:------:
 ![](https://files.catbox.moe/cbd766.jpg) | ![](https://files.catbox.moe/hdek3g.jpg)
 [Namako (Takorin)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DAVmEBbR) | [Nanameyomi](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fQ1l1QwI)
-![](https://files.catbox.moe/d05yym.jpg) | ![](https://files.catbox.moe/d05yym.jpg)
+![](https://files.catbox.moe/d05yym.jpg) | ![](https://files.catbox.moe/2ibdkn.jpg)
 [Nanja](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LQkwzbbI) | [Nezumin](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GUtnHBBL)
 ![](https://files.catbox.moe/9dp0hx.jpg) | ![](https://files.catbox.moe/ysc9e3.jpg)
 [Niko (Tama)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eIkCwJwQ) | [NLO (Nanashi)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bd0XmYZZ)
@@ -170,7 +170,7 @@ More info about the comparison table and preview images can be found in the **[A
 ### O
 [ObserverZ (Cloaking19)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GEkUAbKS) | [Ogipote](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LA0W0Rab)
 :------:|:------:
-![](https://files.catbox.moe/2km72b.jpg) | ![](https://files.catbox.moe/2km72b.jpg)
+![](https://files.catbox.moe/2km72b.jpg) | ![](https://files.catbox.moe/lisujo.jpg)
 [Oke Yazawa](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/KI023SjZ) | [Onion](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XI90nBbZ)
 ![](https://files.catbox.moe/vmsd87.jpg) | ![](https://files.catbox.moe/yo10hf.jpg)
 [Opossumachine](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/iB1zTQAI) | [Orenjipiru](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fItRkLLL)

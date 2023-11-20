@@ -83,6 +83,62 @@ https://www.youtube.com/watch?v=9jBgGY2Ww9Q
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  NITTER/X/TWITTER RECENTS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Sikhs Rally in San Francisco towards Israel Embassy.
+https://nitter.net/NyJagdeepsingh/status/1725996396116107498#m
+
+>Israeli Embassy Los Angeles
+https://nitter.net/ShareefaEnergy/status/1726662285844971687#m
+
+>Massive protest near the Israeli embassy in Amman.
+https://nitter.net/AblaAbdelhadi76/status/1724449241106411757#m
+
+>Around 25k people are participating in a #FreePalestineFromIsrael protest- first they protested before the USA embassy & slowly moving to Protest before Israel Embassy
+https://nitter.net/Media_Tak1/status/1725609047506719119#m
+
+>Hundreds of angry pro-Palestine protesters try to storm the U.S. embassy in the Philippines in protest of the Biden administration's complicity in Israeli war crimes.
+https://nitter.net/QudsNen/status/1724686913225822631#m
+
+>Attempted attack on Israeli embassy in Tokyo ????. A Japanese man posted on Twitter (X) that ”Israel is bad," and six hours later, he crashed his car into a security barricade in front of the Israeli ???? embassy in Tokyo.
+https://nitter.net/AkimotoThn/status/1725065968198812030#m
+
+>Israeli embassy in Tokyo
+https://nitter.net/jacksonhinklle/status/1720835537576071342#m
+
+>Enormous crowds in Belfast, united in a march to the U.S. Consulate
+https://nitter.net/QudsNen/status/1720817971436605605#m
+
+
+>Protestors in Jordan tried to reach the US embassy
+https://nitter.net/OSINTNic/status/1713306742262501655#m
+>Hezbollah's attacks on the Lebanese-Palestinian border today are considered the most severe since the beginning of the war, whether by using Burkan missiles, which turned the Baranit barracks into a junk yard, or by using kamikaze drones while intensifying the Kornet missile attacks, targeting occupation army troops and damaging its vehicles, let alone sniping operations. This development has been noticed after blinding the enemy on its northern front by destroying most of its radars, censors and cameras.. etc, and taking advantage of the IDF's lack of long-war capacity by engaging progressively, along with a very essential factor, which is a significant development in dealing with the Israeli UAV attacks
+https://nitter.net/DD_Geopolitics/status/1726648631007277413#m
+>The #Israel'i army uses patients as human shields." Head of the Burns Department at AlShifa Complex
+https://nitter.net/QudsNen/status/1726276978419052623#m
+
+>David Oren Baruch, the director of the Israeli Mount Herzl Military Cemetery, says that they have a funeral every hour or hour and a half and that they buried 50 Israeli soldiers within 48 hours.
+https://nitter.net/QudsNen/status/1726322680029196571#m
+
+>A new Israeli official investigation concluded that the Israeli military was responsible for killing revelers at the Nova Music festival on October 7.
+https://nitter.net/QudsNen/status/1726191433164661061#m
+
+>BBC: Israel has tampered with evidence, manipulated video, lied to the public and provided no evidence that al-Shifa Hospital was a command centre for Hamas
+https://nitter.net/broseph_stalin/status/1725481914562121794#m
+
+>Satellite images obtained by Al Jazeera show a decrease in the number of Israeli army vehicles on the northwest axis of Gaza from 383 on November 3rd to 295 vehicles on November 8th, consistent with the numbers announced by Abu Ubaida for the vehicles destroyed by the Qassam Brigades.
+https://twitter.com/warfareanalysis/status/1723810796214358451 (embed)
+
+>Haaretz newspaper military analyst Amos Hareil:
+>Israel is facing three crises in Gaza: So far, military superiority has not been evident on the battlefield and it has not been able to surrender Hamas
+https://nitter.net/Sprinter00000/status/1724711325069177211#m
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OLD
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 >Australia
 https://nitter.net/jacksonhinklle/status/1719424043168809237#m
 
@@ -129,15 +185,6 @@ https://nitter.net/DD_Geopolitics/status/1715061673239933332#m
 https://nitter.net/zhang_heqing/status/1714890452661424626#m
 >Pro-Palestinian protesters have BLOCKED a train station in London with a sit-in.
 https://nitter.net/jacksonhinklle/status/1719473090856431698#m
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-OLD
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 >Warsaw, Poland.

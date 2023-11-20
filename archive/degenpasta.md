@@ -16,6 +16,7 @@ VAE (Important): https://rentry.org/sdvae
 Controlnet: https://rentry.org/dummycontrolnet
 Animation: https://rentry.org/AnimAnon
 Samplers: https://stable-diffusion-art.com/samplers/
+Block Merging: https://rentry.org/BlockMergeExplained
 
 >>> Models/Embeddings/Characters/Celebs/Prompts/fetish content <<<
 https://civitai.com

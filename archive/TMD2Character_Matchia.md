@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*175/400 points to Normal Rank*<-
+->*190/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -49,7 +49,7 @@ Eᴍᴘᴛʏ | Description
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
-	15 IQ to be spent.
+	35 IQ to be spent.
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0

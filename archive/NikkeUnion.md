@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 19/11/23: Stove Edition**
+**Last updated: 20/11/23: Stove Edition**
 
 ***
 
@@ -23,7 +23,7 @@
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ | ==**20186**== | 1    | 5/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ | ==**20186**== | 1    | 6/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***

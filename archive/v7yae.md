@@ -441,7 +441,7 @@ Squeezing inside the cramped space, Christopher sighed as Inigo shut them in. "S
 
 "It's okay, I know he means well," Faith laughed. She leaned against Christopher's shoulder as the photo booth hummed to life.
 
-"Hello lovebirds! Welcome to the Tunnel of Love!" boomed Inigo's recorder announcer voice from the speakers.
+"Hello lovebirds! Welcome to the Tunnel of Love!" boomed Inigo's recorded announcer voice from the speakers.
 
 Christopher dropped his head into his hands with a groan. This was even worse than he'd imagined.
 
