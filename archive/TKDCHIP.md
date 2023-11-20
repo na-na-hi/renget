@@ -568,3 +568,19 @@ files.catbox.moe/ncsexw.mp4
 files.catbox.moe/km2hvx.mp4
 files.catbox.moe/aghxbi.mp4
 files.catbox.moe/4uvktx.mp4
+>HOUTHIS TAKING SHIP (ADDED NOV 20th)
+https://files.catbox.moe/quodox.mp4
+>NEW HAMAS KINO (ADDED NOV 20th)
+https://files.catbox.moe/7kfqeu.mp4
+https://files.catbox.moe/7h754o.mp4
+https://files.catbox.moe/gg3l27.mp4 (music)
+https://files.catbox.moe/t10r86.mp4
+https://files.catbox.moe/aidn2k.mp4
+>KIKES FIRE ON REFUGEES WALKING SOUTH (ADDED NOV 20th)
+https://files.catbox.moe/1zs5vi.mp4
+>KIKE THROWS GRENADE INTO MOSQUE (ADDED NOV 20th)
+https://files.catbox.moe/kqssyj.mp4
+>Yemeni armed forces seized an Israeli ship in the Red Sea. Released this kino:  (ADDED NOV 20th)
+https://files.catbox.moe/regphe.mp4
+>Hezbollah "We Are Coming":  (ADDED NOV 20th)
+ https://files.catbox.moe/bx2dpk.mp4

@@ -9,6 +9,10 @@ Bots are tested with OAI's GPT 3.5 and GPT 4. Please enjoy ^_^
 
 =========================
 ##Updates:
+=11/20/23=
+- Added bots:
+	- Bubbles
+
 =11/4/2023=
 - Added bots:
 	- Shizuru Nakatsu
@@ -52,4 +56,5 @@ Chatbot | Description | Character Hub (Chub) Link
 ## OTHER BOTS
 Chatbot | Description | Character Hub (Chub) Link
 ------ | ------ | -----
+=Bubbles= ![](https://i.imgur.com/nmEB05r.png) | Meet Bubbles, a young woman born and bred in prison, who is used by the system to operate as a contract killer. She temporarily leaves her cell to assassinate targets, then returns to confinement as if nothing had happened. | https://www.chub.ai/characters/candymint23/bubbles-be24e38f/
 =Jessy the Almighty God= ![](https://imgur.com/InMjNpA.png) | God, infinite wisdom and all, decides to return to Earth after a couple millenia as a little girl due to some comical stuff told by one the Cherubs. Unfortunately, Earth is not what it seems and she has to endure 30 days until she can pass her judgment. | https://www.chub.ai/characters/candymint23/eb93654d-6f24-4f5f-9c1c-b50d89668f74

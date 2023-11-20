@@ -17,7 +17,7 @@
 >**IniGOAT**: ...but im boooored
 >**IniGOAT**: btw, where's sando?
 >**NothingPersonnel**: he dipped
->**SunlightManleist**: said he was getting somethng for his mother
+>**SunlightManliest**: said he was getting somethng for his mother
 >**IniGOAT**: what a wholesome dude
 
 Inigo pocketed his phone. The afternoon sun filtered in through the blinds of Hoge's dorm room, bathing everything in a warm golden glow. Hoge sat atop her white bedspread, textbooks and notebooks spread out neatly around her. Across from her, Inigo lounged casually with Gigan napping by the window. He groaned dramatically, "I can't take it anymore! They're killing us with all these tests. I'm about to start a protest. I say we make out in front of the principal's office until she cancels them!"
@@ -528,7 +528,7 @@ Inigo whooped triumphantly, following her inside. As the lights switched on, he 
 
 "I made six recordings and Faith and Christopher only got through one of them."
 
-**"Hello lovebirds! Welcome to the Tunnel of Love Part II! Now that you've kissed, it's time for the real fun to begin!" boomed Inigo's recorder announcer voice from the booth's speakers.**
+**"Hello lovebirds! Welcome to the Tunnel of Love Part II! Now that you've kissed, it's time for the real fun to begin!" boomed Inigo's recorded announcer voice from the booth's speakers.**
 
 ***
 ***

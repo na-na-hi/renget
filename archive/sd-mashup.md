@@ -3,6 +3,9 @@ Check out the guide here: https://rentry.org/voldy
 or rentry.org/nai-speedrun
 
 >New
+NAI 3.0 https://novelai.net/image
+waiting for leaks but hopes are low
+
 extra lora
 https://gitgud.io/gayshit/makesomefuckingporn#lora-list
 

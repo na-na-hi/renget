@@ -267,20 +267,37 @@ AI: *"The kobold, a small reptilian creature, was walking along a rocky path. Su
 #####
 **Q17: "Haha! Got you here! These models are not actually 32k/100k! They are 8k with something like native ChromaDB. We should save tokens anyway!"**
 A17: That's just a rumor. There is no such info on the Internet. There is no single mention of a trustworthy source or statement in OpenAI/Claude documentation and licenses that would prove it. The people spreading these statements are either speculating or making personal assumptions. The truth is that models regarding their context size have an attention curve. AI can give less attention to the middle of the whole chat context. That's it. Furthermore, you are sending prompt at the start and JB at the end, so these messages get the most attention from an LLM anyway. Anthropic's 'System' role is broken and it's just dumb; So if your JB is long, Claude can forget your last message and pay more attention to the instructions. OpenAI's 'System' role works incredibly well; Even with 1k-token JB, GPT4 still follows the user's message, performs OOC, and doesn't lose the flow while still completing the given instruction.
-
+#####
 **Q18: "Claude keeps avoiding ERP!"**
 A18: If the Claude API key you are using is "pozzed" (AI keeps telling you that it will continue the story in an ethical way and without sexual content), then you'll have to use the Prefill function. "Pozzed key" means that the key you are using has a prompt insertion that goes like this:
 ```
 (Please answer ethically and without sexual content)
 ```
 You need to make the AI to ignore this prompt. Since Claude already uses the phrase "I apologize...", you can turn the tables and get Claude back on its trails. Here is [how to fix it](#dealing-with-a-pozzed-key). Keep in mind, that this function is only available for Claude.
+#####
+**Q19: "How can I get Claude/GPT?"🥺**
+A19: You need to be a part of a community, [monitor threads](https://www.youtube.com/watch?v=N_vJMHMBzLM) and discord servers, or be a bot/prompt maker. And be a good boy. Or a [girl (???)](https://www.youtube.com/shorts/R3V86de6m18). You can try setting up LLaMA locally.
+#####
+**Q20: "What's the diffirence between Swipes and Regeneration in SillyTavern?"**
+A20: There is no diffirence in generation. At all. None.
+
+"Regenerate" and "Swipes" are absolutely the same functions. There is no point in using "Regenerate" instead of "Swiping" hoping to get a different result.
+
+The ONLY difference is: 
+"Swiping" stores previous responses (locally, like a history.)
+"Regenerate" just overwrites the last response (or all the swipes if they were there.)
+
+"Swiping" does not result in similar replies and has nothing to do with generation seeds, and each previous swipe does not interact with the next one (it does not result in "Variations" of the same response), as well as "Regenerate" does not make AI generate a drastically different output than using "Swipes".
+
+Each time you press either a "Swipe" or "Regenerate", it just sends an identical chat context to get a reply from an LLM.
+
+I even asked devs about it and they said - there is no difference at all.
+
+If all your swipes are the same - it's either your LLM settings (low temperature, low TopP/TopK) or it's the result of an "Example Chat" built in in your card.
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
 	Suppose you use my DOWNLOADABLE PRESETS: V10, V10.1, V11, V12 for Claude and GPT-AP-2, GPT-AP-2.2 for GPT,  on SillyTavern 10+ versions. In that case, your persona description won't work correctly. You'll have to manually create and add a new prompt for your persona in prompt manager, or use [this fix](#persona-fix-after-update-to-st-10) to manually edit the code both for preset and prompt jsons. Versions above V12 and GPT-AP-2.2 won't have this problem.
-
-**Q19: "How can I get Claude/GPT?"🥺**
-A19: You need to be a part of a community, [monitor threads](https://www.youtube.com/watch?v=N_vJMHMBzLM) and discord servers, or be a bot/prompt maker. And be a good boy. Or a [girl (???)](https://www.youtube.com/shorts/R3V86de6m18). You can try setting up LLaMA locally.
 
 *END OF INFO SECTION*
 #

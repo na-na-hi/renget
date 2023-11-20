@@ -5,18 +5,18 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/11/16-23/11/19 (yy/mm/dd)
+##23/11/23-23/11/26 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()** 
 **FRI: Megaman Legends 2 at 3UTC (Parsec)** 
 **SAT: Terranigma at 3UTC (Telemelt)**
-**SUN: Boktai 3 at 19UTC* (Telemelt)** 
+**SUN: Minemelt at 18:30UTC* (Minecraft)** 
 
 ##Cytubes
 
-**SAT: ~~Megaman Fully Charged at 17UTC~~** delayed for proper communal suffering
+**SAT: Megaman Fully Charged at 18:30UTC** 
 **SUN: - at 16UTC**
 
 >-

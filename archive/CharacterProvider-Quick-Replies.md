@@ -17,8 +17,8 @@ To send a message with the chosen prompt simply type in the message you want to 
 
 ####
 - - -
-##### Fast setup:
-[⬇️ DOWNLOAD QR PRESETS V1.4](https://files.catbox.moe/9n12t6.zip) (These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
+##### [⬇️ DOWNLOAD QR PRESETS V1.4](https://files.catbox.moe/9n12t6.zip)
+(These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
 
 ##### Installation:
 Extract the files from the downloaded zip archive into `SillyTavern-staging\public\QuickReplies`
@@ -73,7 +73,7 @@ ID | Button name | Custom message | Description
  |  |  **Examples:** I lay down and let her get into position. / I lean back and watch her undress. / I give the smith my hammer and watch him do the job.  | 
 6 | ≈ Result | <Request: Pause. Reply to this message only as the narrator. Describe the result of the User's action and what does the User feel. Write only 4 sentences. Write only sensory and visual info.> | Useful when you want only to know the result of your action or get descriptions of touching something.
  |  |  **Examples:** I grab and fondle her [...] / I swing my bat and send him flying. / I push the button without hesitation.  | 
-7 | ⏭ Next Scene | ⏭ Skipping the scene... <Request: Pass some time and skip the story to the next scene. Tell what happened between the scenes, change the location and make an opening to hook the User. Write a short paragraph.> | Skips current scene, changes lokation and makes an intro.
+7 | ⏭ Next Scene | ⏭ Skipping the scene... <Request: Pass some time and skip the story to the next scene. Tell what happened between the scenes, change the location and make an opening to hook the User. Write a short paragraph.> | Skips current scene, changes location and makes an intro.
  |  |  **Examples:** I stand up and allow her lead the way. / I leave her and go back to the counter.  | 
 8 | 🖼 Open a Map | 🖼 Opening a map... <Request: Pause. Reply to this message only as the narrator. Create a map of the surroundings with {{random: 3, 4, 5, 6, 7, 8}} places to visit. Present it in a table: Location name with a suitable emoji [Location], brief description [Description], and possible interactions that are relevant to the current goal [Related].> | Gives you relevant locations to visit presenting them in a table.
  |  |  **Examples:** I walk out and look around the market in search of supplements for my quest. / I search for a place to spend a night. / I look for hot single mommies in my area. | 
