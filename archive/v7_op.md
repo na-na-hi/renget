@@ -12,6 +12,9 @@ https://youtu.be/38fJIy2FoDg
 >Debut VOD:
 https://youtu.be/FbTMYv7B0Ag
 
+>3D Debut VOD:
+https://youtu.be/6-PlITA_VWg
+
 >Zeta's Lore Video:
 https://youtu.be/_7fB-7ZkQGQ
 
@@ -35,6 +38,9 @@ https://youtu.be/WDueRRGIKzw
 
 >Cover song - スロウダウナー(Slow Downer) 【Anya Melfissa × Vestia Zeta】:
 https://youtu.be/o3pdZzvnUWY
+
+>Cover song - Identity 【Omaru Polka × Vestia Zeta】:
+https://youtu.be/_6PuE-xCRwE
 
 >id:entity by Hololive ID gen 3:
 https://youtu.be/sWB2jpd333Q

@@ -88,7 +88,7 @@
 >- Feels a need to prove herself to others.
 >- Slightly pessimistic/paranoid at times.
 >- **Speech**: Often tends towards terseness. Can occasionally talk at length about subjects she's interested in, but not to strangers.
->- **Garb**: Always seen wearing a somewhat worn Dodge Scarf, dyed in a pallet matching her own colors. Owns a wool traveling cloak.
+>- **Garb**: Always seen wearing a somewhat worn Cover Scarf, dyed in a pallet matching her own colors. Owns a wool traveling cloak.
 
 ###Booker/Sneasel
 >(The following is subject to change, but probably won't change very much)

@@ -8,7 +8,7 @@ Archives & Other Resources: https://pastebin.com/wETipqYw
 AllSync: https://cyoaarchive.com/main
 Multiplayer Compilations: https://pastebin.com/10QhjhCt
 In Case of Emergency, Break Glass: https://rentry.org/mcyoagCanary
-Threadslave Rentry: https://rentry.org/mcyoagThreadKeeping (Edit Code: Threadslave Notes!)
+Threadslave Rentry: https://rentry.org/ThreadKeeping (Edit Code: Threadslave Notes!)
 [INSERT EDITION] Edition
 Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 ```
@@ -126,6 +126,8 @@ https://rentry.org/o28z44
 https://rentry.org/o8x42
 >Toil: (Heng)
 https://rentry.org/TOILING
+>The Abyss Expedition (Boneless Old Man, Magikarp, Mei, Lan, Xū, Dónall, Daiyu)
+https://rentry.org/3xmtq
 ```
 ***
 Page 3

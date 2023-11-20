@@ -45,6 +45,7 @@
 10/2023|[Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 10/2023|[SpecTr: Fast Speculative Decoding via Optimal Transport](https://arxiv.org/abs/2310.15141)
 11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
+11/2023|[Automatic Engineering of Long Prompts](https://arxiv.org/abs/2311.10117)
 |
 |**OpenAI (EA coup as of 11/2023)** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -428,6 +429,7 @@
 11/2023|[Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization](https://arxiv.org/abs/2311.01544)
 11/2023|[Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs](https://arxiv.org/abs/2311.02262)
 11/2023|[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)
+11/2023|[DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines](https://arxiv.org/abs/2311.10418)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

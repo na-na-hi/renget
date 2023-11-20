@@ -76,6 +76,12 @@ Meadow Harðardóttir: https://desuarchive.org/tg/post/90976221/
 Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
 Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90976942/
 Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
+Li Yinzhen "Jiangshi": https://desuarchive.org/tg/thread/90977623/#90978093
+Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/90977623/#90978639
+Nekiro Nishi "Jupiter": https://desuarchive.org/tg/thread/90977623/#90981069
+Atsushi Akane "Blast Burn": https://desuarchive.org/tg/thread/90977623/#90984028
+Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/thread/90977623/#90985289
+
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
@@ -583,6 +589,8 @@ Yui, Snady, Orochi and Chihiro, hoge: https://desuarchive.org/tg/thread/90744924
 Top 10 Hero Chart: https://desuarchive.org/tg/thread/90930751/#90932056
 Feral: https://desuarchive.org/tg/thread/90930751/#90932810
 Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://desuarchive.org/tg/post/90972837/
+mirror devil no comment stamp: https://desuarchive.org/tg/thread/90977623/#90984861
+doodle of the boys: https://desuarchive.org/tg/thread/90987083/#90988176
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -890,6 +898,11 @@ Blooming of Tears (Rosethorn, Yamata): https://rentry.org/qggn4
 Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force): https://rentry.org/3c7tf
 A Carp (Sunlight Man, Yamata): https://rentry.org/gz4k5
 Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil): https://rentry.org/doysdm
+MHA 1.9 part 2 : Ryu-kishi; Maru(maru); Archangel; Last Rite and Reaper in the bonus scene.: https://rentry.org/82ucsq
+Dragon to Dragon Communication (Yamamoto, Yamata): https://rentry.org/ug2kk
+A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?)): https://rentry.org/v7yae
+Penumbra (Challenger, Marrow, Tomi): https://rentry.org/MHApenumbra
+
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

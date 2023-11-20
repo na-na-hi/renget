@@ -34,7 +34,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/jyzc21.png) | Yamamomo | Your cute magical mascot! Be careful what you feed him, though.  | [Catbox link](https://files.catbox.moe/jyzc21.png)
 
 ###Divided Skies Universe
-Cards for the /aicg/ worldbuilding project "Divided Skies". More to come. 
+Cards for the /aicg/ worldbuilding project "Divided Skies". 
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/4xyhcs.png) | Shula | A so-called Loreweaver in training. Hailing from the Arabian-inspired lands of Nadira, Loreweavers have the power to bring stories to life with their magic. However, there are some stories that are deemed too dangerous to be told. And Shula got her hands on one such story... | [Catbox link](https://files.catbox.moe/4xyhcs.png)

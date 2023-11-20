@@ -1,5 +1,5 @@
 # The /wg/ Rentry
--> *"Congratulations to the winners of this year's Writing Rumble!" - Anonymous* <-
+-> *"Good luck to the anons joining the Winter Writing War!" - Anonymous* <-
 __________________________________________________________________________________________________________________________________________________________________
 
 **Note to whoever's baking:** You'll need up to four images. Since you're the one who's baking, they can be whatever you want; just make sure they're about chuubas, they have some sort of theme (ex. all pics of Mel, all pics of Botan, all pics of Umisea members, etc.), and they're not NSFW (and/or coombait).  That's one image for the OP, and two for the Story Anchor and Story Recap. You'll need the extra image for the Writing Contest anchor/Voting Form post if there's a contest going on. 
@@ -20,6 +20,23 @@ One last thing. Please always double check the spelling of the Rentry link! It's
 This is the writing thread, for all of your fanfiction needs and desires. Check the archives below for everything the thread has put out so far, ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
 
 Collective works so far are available in the archive:
+https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qzPvU7GgJv6fXdAPmmIv6Qt9H5d5Fzg/exec
+
+"Isn't this just you fuckers writing fanfiction?"
+Yes.
+
+Previous thread: **(link to previous thread, then a brief summary of that thread)**
+/wg/ rentry: https://rentry.org/wgrentry/
+
+## /wg/ OP (Contest Version) 
+
+**Subject field:** 
+/wg/ - Writing General - Winter Writing War NUMBER HERE Edition
+
+**Comment Field:**
+This is the writing thread, for all of your fanfiction needs and desires. We’re currently hosting the /vt/ Writing Rumble - Winter Writing War, a friendly competition for the holiday season! The info page & contest archive can be found here: https://rentry.org/VTWRWWW
+
+Check the main archive below for everything the thread has put out so far, ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
 https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qzPvU7GgJv6fXdAPmmIv6Qt9H5d5Fzg/exec
 
 "Isn't this just you fuckers writing fanfiction?"
@@ -54,43 +71,6 @@ There were **X** stories posted last thread.
 
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)
-
-## /wg/ OP (Contest Version) 
-
-**The contest is over! (for now) See you next time!**
-
-**Subject field:** 
-/wg/ - Writing General - Contest Edition
-
-**Comment Field:**
-This is the writing thread, for all of your fanfiction needs and desires. We’re currently hosting the /vt/ Writing Rumble, a writing contest for the whole board to get involved in. The info page & contest archive can be found here: rentry.org/WGWC
-
-Check the main archive below for everything the thread has put out so far, ranging from SFW to NSFW, fluff to tragedy, small literary works and shitposts alike!
-https://script.google.com/macros/s/AKfycbxZVzygb0QjJ6hksAEYzCbLCegxsjhui97BB73qzPvU7GgJv6fXdAPmmIv6Qt9H5d5Fzg/exec
-
-"Isn't this just you fuckers writing fanfiction?"
-Yes.
-
-Previous thread: **(link to previous thread, then a brief summary of that thread)**
-/wg/ rentry: https://rentry.org/wgrentry/
-
-## /wg/ Writing Rumble Voting Form 
-
-**(voting for this year's contest has concluded!)**
-
-The voting form for /wg/'s Writing Rumble is already up! Check it out (it has a nice picture of Subaru at the bottom): https://docs.google.com/forms/d/e/1FAIpQLSdlEP3lOlGJI42lNOAcrM1Lr0rGcxZAGhdF7sl371xLhYsbTg/viewform?usp=sf_link
-
-Voting closes on the 4th of September, 11:59PM UTC -12 to give you guys some extra time to read.
-
-## /wg/ Writing Rumble Story Anchor 
-
-**(only use when there's a contest happening; I guess we don't need it anymore since submissions are closed?)**
-
-/VT/ WRITING RUMBLE STORY ANCHOR
-Reply to this post with your contest submissions.
-
-Submissions are now open, and close on 08/25. Rules, submitted stories and other information can be found at: 
-rentry.org/WGWC
 
 ## Special Section: Why OP Is a Faggot
 
