@@ -7,9 +7,9 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 8 | **Experience to Next Level:** 15/80
+**Level:** 8 | **Experience to Next Level:** 30/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 296₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -67,7 +67,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 speed tier 1 completed i think i have this right
@@ -82,7 +82,7 @@ Item Name | Description
 1. Oran Berry | Heals the User for 10HP.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
 3. Persim Berry | Cures Confusion.
-4. Oran Leaf x1 | Heals the User for 3HP. Can stack to 3.
+4. Empty | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

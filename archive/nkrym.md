@@ -28,7 +28,7 @@ Your strokes were slow and hard, your mind focused on savouring every time the p
 If this had been just for fun you would have ended the spanking soon after this point, but this wasn't just the usual spanking session with your kinky girlfriend – it wasn't rare for her to act bratty for the sake of receiving penalties from time to time, but she needed actual punishment today. You leaned over towards her head. "Look at me. You're having fun, aren't you?" Ayame gave you an unsure smile as her red eyes gazed at the face of her beloved tormentor. 
 
 "Not having fun? Oh well. Remember, this isn't a fun little spanking to get you aroused for what comes after." You sighed.
-"How hard can it be to not burn a meal you've made before? I warned you to not forget the time at your PC while dinner is in the oven again, and you promised you wouldn't. I'll smack that careless attitude right out of you so I can trust your promises again, and get back to penalizing you when we're just playing. That'll be fun for both of us so I'd rather do that too, understood?" You gave her an extra strong taste of the paddle for emphasis.
+"How hard can it be to not burn a meal you've made before? I warned you to not forget the time while dinner is in the oven again, and you promised you wouldn't. I'm doing this so I can trust your promises again and we can go back to roleplaying and mere penalties. That'll be more fun for both of us, understood?" You gave her an extra strong taste of the paddle for emphasis.
 
 "Ouch...I'm sorry, I just didn't rem- OW!" A pair of hits on both her left cheeks interrupted the petite oni's words.
 

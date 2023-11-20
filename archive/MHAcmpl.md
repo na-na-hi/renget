@@ -71,6 +71,11 @@ Johanna Hilt HN "The Gauntlet Hero, Weiss Schwarz": https://archive.4plebs.org/t
 Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
 Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
 The Rest: https://rentry.org/vx255
+>>U-A, Class 3-B
+Meadow Harðardóttir: https://desuarchive.org/tg/post/90976221/
+Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
+Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90976942/
+Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983

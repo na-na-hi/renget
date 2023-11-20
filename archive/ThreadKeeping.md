@@ -393,18 +393,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil)
-https://rentry.org/doysdm
-Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow)
+>MHA 1.9 part 2 (Ryu-kishi; Maru(maru); Archangel; Last Rite)
+https://rentry.org/82ucsq
+>Dragon to Dragon Communication (Yamamoto, Yamata):
+https://rentry.org/ug2kk
+>A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?))
+https://rentry.org/v7yae
+>Penumbra (Challenger, Marrow, Tomi)
+https://rentry.org/MHApenumbra
+>>90978093
+Jiangshi
 >>90972837
-Meadow Harðardóttir
->>90976221
-Madoka Mikan
->>90976388
-Kyutaro Tanabe
->>90976942
-Itō Sukemochi
->>90973632
+Cormelia
+>>90978639
+Blast Burn
+>>90984028
+Jocko Homo
+>>90985289
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -912,6 +917,16 @@ https://rentry.org/qggn4
 https://rentry.org/3c7tf
 >A Carp (Sunlight Man, Yamata):
 https://rentry.org/gz4k5
+>Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil)
+https://rentry.org/doysdm
+>MHA 1.9 part 2 (Ryu-kishi; Maru(maru); Archangel; Last Rite)
+https://rentry.org/82ucsq
+>Dragon to Dragon Communication (Yamamoto, Yamata):
+https://rentry.org/ug2kk
+>A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?))
+https://rentry.org/v7yae
+>Penumbra (Challenger, Marrow, Tomi)
+https://rentry.org/MHApenumbra
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

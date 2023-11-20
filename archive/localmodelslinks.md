@@ -44,15 +44,15 @@
 |
 **LLM Inferencing**|
 [Text Gen WebUI](https://github.com/oobabooga/text-generation-webui)|Frontend to most GPU/CPU model backends
-[Text Gen Extensions](https://github.com/oobabooga/text-generation-webui-extensions)|Various additional features for WebUI  
+[Text Gen XTTS](https://github.com/kanttouchthis/text_generation_webui_xtts)|Extension to WebUI with XTTSv2 support
 |
 [llama.cpp](https://github.com/ggerganov/llama.cpp)|Main CPU inferencing development with GPU acceleration (GGUF models)
 [kobold.cpp](https://github.com/LostRuins/koboldcpp)|llama.cpp fork with Kobold UI and additional features (with support for older GGML models)
 |
-[SillyTavern](https://github.com/Cohee1207/SillyTavern)|Frontend that is a heavily modified TavernAI fork 
-[TextSynth Server](https://bellard.org/ts_server)|[Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard) closed source CPU/GPU inferencing tool
-|
 [exllama2](https://github.com/turboderp/exllamav2)|Inference library for local LLM with new quant style (70B llama2 on 24GB VRAM)
+[TabbyAPI](https://github.com/theroyallab/tabbyAPI)|FASTAPI application for exllama2 backend (best loader for it possibly) 
+|
+[SillyTavern](https://github.com/SillyTavern/SillyTavern)|Frontend that is a heavily modified TavernAI fork 
 [vllm](https://github.com/vllm-project/vllm)|Inference library with fast inferencing and PagedAttention for kv management
 |
 **LLM Tools**|
@@ -87,7 +87,7 @@
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Set-of-Mark](https://github.com/microsoft/som)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
-[Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS)|Fast Text-to-Speech with conditional flow matching (can train model with custom dataset)
+[StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
 [CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support

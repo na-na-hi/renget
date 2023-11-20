@@ -348,7 +348,7 @@ Each Character starts the game with 4 Base AP, which determines how many actions
 
 The AP cost of any given Attacking Move is based on its mainline PP cost. Stat-increasing or decreasing Moves have their cost determined by their overall effectiveness. (See [Status Moves](https://rentry.co/tmd2many_rules#status-moves)) Status Condition Moves may have a flat cost associated with them. Some Moves may cost more than others at similar power due to their Additional Effects. 
 
-Moves that have a higher AP cost than the Character's AP Pool can be Trained to be used even when they lack the AP to use them. (See [Training](https://rentry.co/tmd2many_rules#training)) In these cases, the Move's AP value is ignored and instead costs their total AP Pool, meaning they can ONLY afford to use that Move on a given turn, taking no other actions.
+Moves that have a higher AP cost than the Character's AP Pool can be Trained to be used even when they [lack the AP to use them](https://rentry.co/tmd2many_rules#missing-ap-penalty). (See [Training](https://rentry.co/tmd2many_rules#training)) In these cases, the Move's AP value is ignored and instead costs their total AP Pool, meaning they can [ONLY afford to use *that* Move on a given turn, taking no other actions](https://rentry.co/tmd2many_rules#missing-ap-penalty).
 
 #### Single-Turn Actions
 

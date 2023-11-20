@@ -25,9 +25,9 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 9 | **Experience to Next Level:** 70/90 | **Alignment:** True Neutral
+**Level:** 10 | **Experience to Next Level:** 0/100 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 729₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 989₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 
@@ -38,7 +38,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 ->Rookie Rank<-
-->*155/400 points to Normal Rank*<-
+->*195/400 points to Normal Rank*<-
 ->![A means to an end.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -60,7 +60,7 @@ Move | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | -- | - | :-: | :-: | ---------
 Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
-Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
+Shock Wave | 6 BP | 5 AP | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 Flash | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -114,7 +114,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
-2. TM107 Shock Wave | A TM which contains the Move Shock Wave. It holds a holographic sheen, imparting electrical information.
+2. Shattered TM107 Shock Wave | A TM which contained the Move Shock Wave. A long, jagged line goes down the middle, like a lightning bolt.
 3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
@@ -142,7 +142,7 @@ Key Item | None | None
 *Espurr is not the strongest Pokemon, but that doesn't mean they keep Moves without a use.*
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-None | - | - | - | - | - | This Move does not exist yet.
+Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
 None | - | - | - | - | - | This Move does not exist yet.
 
 ***

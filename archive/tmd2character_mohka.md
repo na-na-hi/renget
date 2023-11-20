@@ -9,16 +9,16 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 35/70
+**Level:** 7 | **Experience to Next Level:** 60/70
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1090₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1310₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Rookie Rank<-
-->*165/400 points to Normal Rank*<-
+->*200/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

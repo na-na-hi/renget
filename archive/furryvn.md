@@ -16,6 +16,7 @@ Title | Status | Tags | Link(s)
 Arches | Finished | gay, furry MC, psychological horror, no sexual content | [itch.io](https://echoproject.itch.io/arches), [Twitter](https://twitter.com/EchoTheVN)
 Dawn Chorus | WIP | gay, bara, twink, romance | [itch.io](https://dawn-chorus.itch.io/dawn-chorus)
 Echo | Finished | gay, staight, furry MC, psychological horror | [itch.io](https://echoproject.itch.io/echo), [Twitter](https://twitter.com/EchoTheVN)
+Minotaur Hotel | WIP | gay, straight, bara, RPG | [itch.io](https://minoh.itch.io/minotaur-hotel), [Twitter](https://twitter.com/MinoHotel)
 Morenatsu | Tora's route coming soon | gay, bara, twink, romance, human MC | [Original Engine](https://www.mediafire.com/file/dko6fnpbgq3hl7e/Morenatsu_Latest_Version.rar/file), [Ren'Py port](https://www.furaffinity.net/view/26153752/)
 Morenatsu – Unofficial Torahiko Route | Finished | gay, bara, romance, human MC | [Reddit page](https://www.reddit.com/r/MorenatsuGame/comments/111v3uo/announcement_morenatsu_torahikos_route/), [English download](https://drive.google.com/drive/folders/1IDphCj24FrIUwmYKL3dJrPzxoqQJ7jG6)
 Snoot Game | Finished | straight, romance, human MC, scalie | [Official website](https://snootgame.xyz)
@@ -43,6 +44,9 @@ Kobold Festival | WIP | gay, straight, furry MC, romance, RPG, lane-based card b
 ***
 
 ###Changelog
+>November 20, 2023
+>- Added Minotaur Hotel
+
 >November 19, 2023
 >- Added Kobold Festival
 >- Added Editing Guideline and "Have ideas for a new list?"

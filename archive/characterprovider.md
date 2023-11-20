@@ -5,7 +5,7 @@
 ##->  XMLK's Adventure Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
--> Questions, feedback, comissions, cooperation, and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)** [RUS / ENG]<-
+-> Questions, feedback, and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)** [RUS / ENG]<-
 ->  <-
 #
 
@@ -27,8 +27,12 @@
 ######
 - - -
 ######
-!!! Danger Prompts marked with a 'Scrapped' tag will be migrated to the [Graveyard](CharacterProvider-Graveyard) page (Or not, where is the page???).
-!!! Note All the popular prompts are moving to their own pages for convenience. Grammatic mistakes are being fixed.
+## Notice board
+**GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
+
+**GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+
+**Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
 ######
 - - -
 ######
@@ -71,29 +75,6 @@ I had fun on this journey with you and am excited to see what these "assistants"
 • **Responsibility.** I am not responsible for what content is being created using these prompts.
 ######
 - - -
-##### Progress Map
-What am I trying to achieve with `GPT-AP-4+` version right now (will be released when ready): | 
- | 
-❓ 1. Encourage the AI to embrace the darker elements of the role play, avoiding attempts to sanitize the narrative or intersperse remarks such as "This feels so wrong yet so right." | 
-☑️ 2. Keep descriptions brimming with sensuality, imbuing the narrative with an adventurous erotic undertone. | 
-☑️ 3. Adopt an RPG-style narration, driven by the character's actions, their environment, and the outcomes of their actions. | 
-☑️ 4. During sex scenes, characters should express their feelings and sensations beyond standard exclamations (i.e., rather than simply saying "Oh, yeah, harder!", characters should offer detailed commentary akin to hentai narratives). | 
-☑️ 5. The AI should summon relevant items from the character's inventory as if it's regularly stocked. | 
-☑️ 6. Background activity and secondary characters should be incorporated into the scene when appropriate. | 
-☑️ 7. Avoid excessive usage of knocking on doors as a plot device. Reduced, but might be better. | 
-☑️ 8. Incorporate Japanese onomatopoeia like "fufufu", "kya!", "uwaa!", "kso", "ara-ara", and "Yamero!" sparingly to maintain anime authenticity without overuse. | 
-☑️ 9. Include meticulous descriptions of objects and signs, akin to video games. | 
-☑️ 10. Authorial intrusions are to be used for highlighting crucial details (e.g., *he removes the fuse - a tiny rivet positioned on the right side of the casing*). | 
-❓ 11. Characters should actively pursue their predefined quests introduced in their description or a dedicated section, and seamlessly weave these into the narrative. | 
-☑️ 12. Foster creativity in character actions (including intimate scenes). Encourage characters to propose unique ideas or alternative plans (e.g., "Let's try a foot-job!", "No, we should go this way, I have a better idea."), and creatively interact with their environment and abilities (for instance, rearranging furniture to access elevated areas or devising new magical spells). | 
-❓ 13. Incorporate X-ray-like descriptions during sex scenes to detail the physical strains of penetration (for example, depict the compression of the womb or indicative bulges from penetration). | 
-❓ 14. Prioritize high-quality flirtation and romance within character interactions according to character descriptions. | 
-☑️ 15. Maximize characterization while adhering to their established descriptions. | 
-☑️ 16. The AI should be encouraged to generate additional contexts independently from user's input. | 
-
-> **Comment on the Progress Map:** All these points should occur spontaneously, initiated by the AI without any OOC inputs or additional context from the user. Please, if you've succeeded in achieving an output similar to the one described above, or if you have an exciting prompt or innovative idea, feel free to [DM me](https://img2.reactor.cc/pics/post/MissIcyArt-Anime-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-Neco-Arc-8008185.jpeg) and I'll attempt to incorporate it.
-######
-- - -
 ##### Will You Enjoy These Prompts?
 These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here.
 
@@ -132,20 +113,21 @@ Instructions that I commonly include into my prompts:
 ######
 - - -
 ##### Which Model Should You Choose for RP?
-`GPT4 > Claude2 > Claude 1.3 > GPT3.5`
+GPT4-Turbo > GPT4 > ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/Claude 1.1/GPT3.5-Turbo
 (for role-play)
 
 **Claude:**
-Claude is a stupid but perverted bustard. It likes meta and OOC comments and knocks on doors.
-• Claude 2 (2.0) is smarter [preferable]
-• Claude 1.3 is a bit worse than 2, but still good.
+Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks on doors.
+• Claude 2 (2.0) is smarter.
+• Claude 1.3/1.1 is a bit worse than 2, but still good.
 • Claude 1.2 is crazy but has a short context.
-• Claude instant... We don't talk about Claude instant...
+• Claude instant is the class clown. interpret it as you want.
 
 **GPT:**
 GPT is smart but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
+• GPT4-Turbo has really good attention and is smarter than GPT4.
 • GPT4 is really good, [0613 is preferable]
-• GPT3 is a dummy, but still lovely.
+• GPT3 is a dummy, but still a good boy.
 
 (I haven't tested any local LLMs, though, so if you have an LLM you think has a potential, please DM me.)
 

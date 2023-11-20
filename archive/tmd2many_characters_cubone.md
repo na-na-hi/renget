@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Associate | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Unknown Tribe | **Favorite Color:** Unknown
-**Level:** 6 | **Experience to Next Level:** 5/60 | **Alignment:** Marrow Tribe
+**Level:** 6 | **Experience to Next Level:** 25/60 | **Alignment:** Marrow Tribe
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -38,7 +38,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 ***
 
 ->Rookie Rank<-
-->*40/400 points to Normal Rank*<-
+->*60/400 points to Normal Rank*<-
 ->![Some manner of merit badge..?](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
