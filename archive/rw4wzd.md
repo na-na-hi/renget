@@ -5,7 +5,7 @@ Edie films a solo vlog (she makes a lot of them these days)
 ==[BxM] WE'RE PREGNANT==
 Minnie and Bobby announce that they're expecting. Also includes: the obligatory pregnancy test clip (+ Bobby crying and/or picking Minnie up), Minnie and Bobby informing their families, Minnie informing the clique over a call
 ==[HxH] A Day @ Challenger Agency==
-Hailey records herself visiting Hifumi's office. Everyone there is visibly terrified by her but are doing their best to put on a brave front before the camera. She later has lunch with Hifumi and ends the video there
+Hailey records herself visiting Hifumi's office. Everyone there is visibly terrified of her but are doing their best to put on a brave front before the camera. She later has lunch with Hifumi and ends the video there
 ==[HIVE] EOM Wrap-Up #96==
 The clique meets for brunch in Kyoto
 ##### MONTH n+1
@@ -40,27 +40,47 @@ See prior
 ##### MONTH n+4
 ==[M] This quarter's hero news without the bulls%&t==
 See prior
+==[CxF] DITL~==
+Faith and Chris take the day off ft. Chris hugging Faith from behind while she's washing the dishes; a quick montage of them visiting various people; and ends in a restaurant? or something
+==[E] Met Gala Vlog==
+Edie does glamorous stuff outside of Japan
 ==[HIVE] EOM #100 🎉🎉🎉==
 The clique goes to some Caribbean resort for a week to celebrate this completely arbitrary anniversary ft. Hailey looking on enviously as Edie sips from a glass of wine
 ##### MONTH n+5
+==[BxM] Clean with me at home in TX! + baby shower & gender reveal==
+Minnie cleans the house. There's a party after
+==[HxH] Pregnancy advice I've received and what I think of it==
+Hailey calls in the rest of the clique to roast the worst offenders
+==[E] Copenhagen vlog==
+See prior
 ==[HIVE] Monthly pregnancy update! (EOM #101)==
-Back to your regularly scheduled programming
+Back to your regularly scheduled programming. Lots of talk about maternity clothes I guess
 ##### MONTH n+6
-==[HIVE] The one where we do an ill-advised pre-pregnancy clothes try-on challenge==
+==[CxF] Cool stuff we did lately==
+What it says on the tin. Tech-related, also maybe some quirk research?
+==[HIVE] The one where we do an ill-advised pre-pregnancy try-on challenge==
 What it says on the tin
+==[M] 2 months in vietnam==
+Max goes home for a bit
 ==About Bobby==
-Minnie recaps Bobby's fight with Umbra surrounded by the clique and ends off with a picture of him giving a thumbs-up from his hospital bed. Also doubles up as an unofficial EOM #102
+Minnie recaps Bobby's fight with Umbra surrounded by the clique and ends off with a picture of him giving a thumbs-up from his hospital bed. Also doubles up as EOM #102
 ##### MONTH n+7
 ==[M] This quarter's hero news without the bulls%&t==
 See prior
 ==[BxM] Finally had our babymoon!==
 Bobby and Minnie go to a big city (NYC?) for his interview re: Umbra
+==[E] Maternity clothes primer==
+Edie explains maternity clothes and splices in testimonies from the others throughout. Disclaimer: "I have never been and have no plans to ever be pregnant so stop asking"
 ==[BxM] If you're watching this I'm in labor==
 What it says on the tin
 ==[HIVE] Entering the Home Stretch (EOM #103)==
 Minnie does a baby reveal and presides over the end-of-month wrap-up from her hospital bed. Max bitches about being overdue
 ##### MONTH n+8
+==[M] boyfriend reveal==
+Max intros Junichi as The Father. Cuts to black abruptly with the explanation "having a baby brb"
 ==[HIVE] Birthday x3!==
 Compilation of Max, Faith and Hailey's labor videos or something
 ==[HIVE] THE BEST PREGNANCY TIKTOK COMPILATION (NOT CLICKBAIT)==
 Compilation of pregnancy-related clips from the setting's TikTok/Vine-equivalent
+==[HIVE] Things they don't tell you about being a first-time mom (EOM #104)==
+Edie is there too. For moral support

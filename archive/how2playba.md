@@ -234,9 +234,10 @@ Farming a hard node for equipments is better than the normal counterpart.
 Don't ever farm for BDs, the drop chance (2-5%) is abysmal. 
 
 Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. t5 boots drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. See below for an example. 
-
 ![19-1 drop rate](https://i.imgur.com/Z8Ws5DJ.png) 
 (drop chance for 19-1) 
+
+It's better to farm the equipment on their respective tier instead of trying to farm a higher one. E.g. don't farm t6 watch stages if you're trying to level up their watch from t3 to t4. 
 
 >Should I swipe my stages?
 Yes.

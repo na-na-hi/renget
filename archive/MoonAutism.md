@@ -2,10 +2,12 @@
 ->![moontato](https://files.catbox.moe/9bg9dv.png) <-
 
 ==**Karaoke**==
--[Archived](https://www.holosite.me/song/search.html) - Click on the options tab and click on ムーナ then search for the song you want, only for Archived Karaokes. 
+- [Archived](https://www.holosite.me/song/search.html) - Click on the options tab and click on ムーナ then search for the song you want, only for Archived Karaokes. 
+- [Playlist](https://youtube.com/playlist?list=PLdcktSYecSKfKCc1OW7-U1VMQxV5VrjTA) 
 
 -Unarchived 
 - [Stash](https://stash.sussy.moe/karaoke/moona/) 
+- [rby](https://rbyp01.vercel.app/Hololive/Moona%20Hoshinova/) 
 - [Mega](https://mega.nz/folder/XRYD2RRC#6vVkatVFR39LwZAKKgJTTA) 
 - [Ayam Penyet](https://ayampenyet.my.id/moona/)
 >For ones that aren't in the links just search on nyaa/pirates and hope it's not dead. 

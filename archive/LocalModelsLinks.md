@@ -44,7 +44,7 @@
 |
 **LLM Inferencing**|
 [Text Gen WebUI](https://github.com/oobabooga/text-generation-webui)|Frontend to most GPU/CPU model backends
-[Text Gen XTTS](https://github.com/kanttouchthis/text_generation_webui_xtts)|Extension to WebUI with XTTSv2 support
+[WebUI Extensions](https://github.com/oobabooga/text-generation-webui-extensions)|Most notable XTTSv2 and SD 
 |
 [llama.cpp](https://github.com/ggerganov/llama.cpp)|Main CPU inferencing development with GPU acceleration (GGUF models)
 [kobold.cpp](https://github.com/LostRuins/koboldcpp)|llama.cpp fork with Kobold UI and additional features (with support for older GGML models)

@@ -36,9 +36,6 @@ https://rentry.org/sdmodels
 https://rentry.org/berrymix
 https://rentry.org/embeddings
 
->A merge with anime elements with a focus on characters, design, and effects, for quality superhero content.
-https://rentry.org/slimy_bastard
-
 >Guides
 Voldy: https://rentry.org/voldy
 NovelAi: https://rentry.org/sdg_FAQ

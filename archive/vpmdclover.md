@@ -370,6 +370,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 	* [The Great Bulk Interlude 3 (ft. Makky)](https://rentry.org/GreatBulkInter3) 
 	* [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6) *Not on Table*
 	* [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) *Not on Table*
+	* [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1) *Not on Table*
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -650,6 +651,7 @@ Row | Guild Adventures | Character Descriptions/Introductions/Questionnaires | O
 * {||} [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) 
 * {||} [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2)
 * {||} [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
+* {||} [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1)
 
 ###[Clover Guild Art Gallery](https://rentry.org/cloverart)
 ###[Clover Guild Art Booru](https://cloverguild.com/booru)

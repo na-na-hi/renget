@@ -1,4 +1,36 @@
 ▶NEW CLIPS
+>Situation south of Avdeevka
+https://files.catbox.moe/xsw33v.mp4
+>Turkish Kirpi armored vehicle drowned in mud
+https://files.catbox.moe/bswq6j.mp4
+>Hohol feels bloated in a minefield
+https://files.catbox.moe/xtjcin.MP4
+>hohols decided to show valor and not to scatter
+https://files.catbox.moe/pyal9k.MP4
+>Hohols got droned in Zaporozhye direction
+https://files.catbox.moe/wi75di.mp4
+>rare footage of a Mi-35M using Ataka ATGM on hohol armor
+https://files.catbox.moe/x4ed2i.mp4
+>artillery working on AFU fortifications in the border area of Sumy and Kharkov
+https://files.catbox.moe/ecbh5w.mp4
+>Magnesium rain over Avdeevka
+https://files.catbox.moe/deyuac.MP4
+>work of Russian armor in the avdeevka industrial zone
+https://files.catbox.moe/l60fx5.mp4
+>Current landscape of Marinka
+https://files.catbox.moe/vtu37o.mp4
+>Sparta's latest FPV drone work
+https://files.catbox.moe/r1xhrs.mp4
+>Hohol shows aftermath of FAB-250s and FAB-500
+https://files.catbox.moe/olqwds.mp4
+>BOBR FPVs raining havoc on AFU towards Orekhov
+https://files.catbox.moe/6nf8kn.mp4
+>POV: Hohol Highway of Death
+https://files.catbox.moe/k5jo8s.mp4
+>Thermal drone grenade drops on retreating hohols
+https://files.catbox.moe/8l0ih0.mp4
+>kino montage of Russian artillery and rockets
+https://files.catbox.moe/m83v19.mp4
 >VT-40 FPV drone strikes on a Swedish Stridsvagn 122 tank, two Ukrainian vehicles and two armoured vehicles, one of which is an American M1124 MaxxPro
 https://files.catbox.moe/2anx6z.mp4
 >The first mass use of the RBK-500 with UMPC kits. The delivery was made to AFU near Staromayorsky, Donetsk

@@ -81,5 +81,5 @@ https://files.catbox.moe/dzl7lb.png or https://www.chub.ai/characters/koikoikoih
 
 ![...??](https://files.catbox.moe/qpwtm9.png)
 *Nawfa, a Sister of the Order of the Rabbit. Quite a strange girl.*
-(Contains embedded lorebook and four intros.)
-https://files.catbox.moe/qpwtm9.png or https://www.chub.ai/characters/koikoikoihat/nawfa-e9f2ac47/
+(Contains embedded lorebook and four intros. Fixed up intros 3 and 4. Removed example dialogue.)
+https://files.catbox.moe/4yx7x0.png or https://www.chub.ai/characters/koikoikoihat/nawfa-e9f2ac47/

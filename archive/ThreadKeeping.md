@@ -48,6 +48,8 @@ Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
 >>90738966
 >Qiang Wei, attracted to a spear? sounds kinda gay
 >>90760925
+>Chao Shi Pien
+>>90992614
 
 >ELDERS
 >The Boneless Old Man, who clearly has bones just look at the picture cmon
@@ -98,7 +100,7 @@ Page 2
 >>90768739
 >Shu Shihan… I dunno, I got nothing for this one
 >>90678581
->Magikarp. It’s a fucking magikarp do I need to give it a title? Maybe Yasha can add him to his collection
+>Magikarp. It’s a fucking magikarp do I need to give it a title?
 >>90681699
 >Zhihao Cheng, Ace Attorney
 >>90712377
@@ -395,23 +397,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->MHA 1.9 part 2 (Ryu-kishi; Maru(maru); Archangel; Last Rite)
-https://rentry.org/82ucsq
->Dragon to Dragon Communication (Yamamoto, Yamata):
-https://rentry.org/ug2kk
->A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?))
-https://rentry.org/v7yae
->Penumbra (Challenger, Marrow, Tomi)
-https://rentry.org/MHApenumbra
->>90978093
-Jiangshi
->>90972837
-Cormelia
->>90978639
-Blast Burn
->>90984028
-Jocko Homo
->>90985289
+>The Boys™ streaming
+https://rentry.org/2fguw
+>The Clique™ channel (update)
+https://rentry.org/7s2qg
+>DA BOYS (artfag)
+>>90988176
+>Animata
+>>90990850
+>Synthesis
+>>90992108
+>Meadow (update)
+>>90992377
+>Top Smile (update)
+>>90992508
+>Ichimaki (update)
+>>90994440
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -929,6 +931,10 @@ https://rentry.org/ug2kk
 https://rentry.org/v7yae
 >Penumbra (Challenger, Marrow, Tomi)
 https://rentry.org/MHApenumbra
+>The Boys™ streaming
+https://rentry.org/2fguw
+>The Clique™ channel (update)
+https://rentry.org/7s2qg
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

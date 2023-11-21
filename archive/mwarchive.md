@@ -18,23 +18,32 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - https://pixeldrain.com/u/A6Kik3zt
 
 - October Archives
-- Week 1 - 3.6 GB - 20,500 images
+- Part 1 - 3.6 GB - 20,500 images
 - https://pixeldrain.com/u/NoG59dun
-- Week 2 - 1.6 GB - 9,300 images
+- Part 2 - 1.6 GB - 9,300 images
 - https://pixeldrain.com/u/qgWvZ1dZ
-- Week 3 - 1.6 GB - 8,500 images
+- Part 3 - 1.6 GB - 8,500 images
 - https://pixeldrain.com/u/Kp2Vjb91
-- Week 4 - 1.7 GB - 9,200 images
+- Part 4 - 1.7 GB - 9,200 images
 - https://pixeldrain.com/u/P113xCT7
 
 - November Archives
-- < cleaning up >
+- Part 1 - 1.7 GB - 9,500 images
+- https://pixeldrain.com/u/iSM5QYTa
 
-As an additional academical and educational archival resource, here is the Handbook of Hate Memes.
+For the study of memetic propaganda, here are some academical and educational pdfs.
+
+The Handbook of Hate Memes - This document studies why and how hate memes are effective.
 *We have this book thanks to the St Lucas School of Arts in Antwerp, the European Observatory of Online Hate (EOOH) and the European Union for co-funding this project.*
-- https://pixeldrain.com/u/YDsAiaca
+- https://files.catbox.moe/il9o4g.pdf
 
-*( Disclaimer; These images are works of fiction and if you take these seriously, you are a fool.  The archives are of works not created by or representative of the beliefs/thoughts of the creator of this list, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
+The Power of Memes - This document contains several academical works on memes collected in one volume.
+- https://files.catbox.moe/zubbpu.pdf
+
+The DALLE-2 Prompt Book - This reference document was intended for the previous version of DALLE-2, before Chatgpt was integrated into DALLE-3, but it still is useful as a general reference.
+- https://files.catbox.moe/s7wdhi.pdf
+
+*( Disclaimer; These archived images are works of fiction and if you take these seriously, you are a fool.  These images are not created by or representative of the beliefs/thoughts of the creator of this archive, and only serve the purpose of preserving history and as an insight in the social mind. The internet is becoming a place where individualism is being stamped out, which means archives such as this one serve as a valuable repository of free individual thought that should be protected from the tide of indiscriminate censorship. )*
 
 # Ideas
 For these /MWG/ anons who may be experiencing temporary non-inspiration or wish to have more ideas for memes to generate, here is a list.  The challenge here is how to translate these ideas/events into a single picture, while being funny, incisive and damning.
