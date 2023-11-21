@@ -110,10 +110,8 @@ https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en
 Win10+ has native support for .img, .iso, and other archive formats, just double click to mount and then run Setup.exe.
  
 **Activating Office**
-https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases
-Download, unzip with 7zip, run the activator, done.
- 
-Note: As this is a KMS server emulator, there is a chance of it getting flagged by Defender or another antivirus as PUA/malware. Be aware of this down the road and that you may need to whitelist it in your AV or download the latest version of KMS and run activation again.
+https://massgrave.dev/ohook.html
+Download, run the activator, done.
  
 Alternatively, just use Office online if your needs are minimal.
 https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web

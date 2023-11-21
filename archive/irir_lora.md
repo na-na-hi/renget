@@ -514,15 +514,18 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 4.できたLoRAを先程マージしてできたモデルにマージ
 5.納得がいくまで3-4を繰り返す
 
-ということでReLoRAをやってみた。
-教師画像はいつものやつらを19829枚用意。画像DL時にartistタグを取り除いたDanbooruタグ方式のキャプションも作成。
-画像リサイズで16分、latentキャッシュに一時間かかった。
+### 実践
+学習中...	記事は後日更新予定
+
+教師画像はいつものやつらをn枚用意。
+画像DL時にartistタグを取り除いたDanbooruタグ方式のキャプションも作成。
+Danbooruスコアが6点以上のものにhigh quality、n点以上にmasterpieceをつけた。
 学習モデルは秘伝のタレ(非公開モデル)。~~某ゲームはファンアートが豊富で機械学習に便利や!~~
 
 学習設定:
 `SD1.x,1epoch,Dim:128,Alpha:24,768x768,BatchSize:6,Optimizer:Adamw8bit,LR:8E-05,LR Scheduler:constant_with_warmup,C3Lier`
 
-学習中...	記事は後日更新予定
+
 
 ***
 

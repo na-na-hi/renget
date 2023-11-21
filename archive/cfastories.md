@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #40 (Wednesday, 15 November 2023, 15:15 UTC)<-
+->Last updated on thread #41 (Tuesday, 21 November 2023, 16:00 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -8,13 +8,16 @@
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
+
 - [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate. SINCE V005, AVERI IS HERE, TOO!!!!!)
+- [Minecraft Averi Model](https://github.com/amberlandeveloper/averi-assets) (Open-source Minecraft Averi model.)
+- [Team Fortress 2 Map](https://steamcommunity.com/sharedfiles/filedetails/?id=3088346402) (Team Fortress 2 /cfa/ level.)
+- [Team Fortress 2 Spray](https://files.catbox.moe/4n8abj.zip) (Fukkireta Averi in Source's spray format.)
 
 - [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
 - [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
-- [Team Fortress 2 Spray](https://files.catbox.moe/4n8abj.zip) (Fukkireta Averi in Source's spray format.)
 
 == **TABLE OF CONTENTS**
 [TOC2]
@@ -58,6 +61,13 @@ https://archiveofourown.org/works/49281094
 `Dejah's Trap`
 https://archiveofourown.org/works/39383535
 [![Dejah: Dejah.png / 1683735893220.png](https://desu-usergeneratedcontent.xyz/trash/image/1683/73/1683735893220.png)](https://desu-usergeneratedcontent.xyz/trash/image/1683/73/1683735893220.png)
+---
+---
+#####Trashbinlid
+`Trixi The Clown`
+https://archiveofourown.org/works/31977724
+[![Trixi and Richard: 1696883158.askart_66d0563b-060c-40a5-a2d5-350a6c3471b6_jpeg.jpg / 1696884602380.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/88/1696884602380.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/88/1696884602380.jpg)
+
 ---
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
@@ -298,7 +308,7 @@ I did try the Chicken-Bacon-Swiss at Arby's. The "pepper jack cheese" was very m
 `Cupcakes`
 They call it BJs because this shit blows. Not only is their customer service ass, but these cupcakes, they're just the icing on the cake. Horrendously mid and with an unexpectedly tart aftertaste, these imbred muffins will have you asking: DENIM, DENIM, DENIM?!?! Wanna gain weight? BJs has you covered, they had to cross out nutrition and put a period on the end of that table to let you know, it's a fact. Thinking of grabbing a bite? Well, that might just be what you get. These tiny little faggots are bite sized, and you better not let them come in your mouth, because they're so small they won't satisfy the lust your sugar tooth is craving for. Are you FREAKY? Be one of those future serial killer at that one kid's birthday party and LICK IT. LICK THE FUCKING ICING OFF AND LOSE THE SPONGE. It ain't gonna lick itself, you disgusting dog-fucking Colorado every winter amazing world of gumball loving annoying orange adoring sicko, because that's SPICYYY. Like girls named after gemstones, this cake is READY to lose the coverings, and you'll be the one stripping her naked. Just peel the paper and begin devouring, and if you're a true player, then you can take multiple at once. Just be careful, you don't wanna get caught in the act, God only knows how far the excuse of "just coming to get a cupcake" will get you in court! Remember, you're the one who said these confectionaries sounded suggestive, not I, so you'll just have to take the cake on that one. One of these has enough calories to end starvation in Africa. Seriously, three of these and you'll be throwing up from the sugar content, these things are practically candy. No need to bust out the cookbook, because BJs has you covered! They'll make preparing your next muckbang a cakewalk. Have diabetes? How about two? You're a lowlife if you got this whole thing for yourself, how about you invite people over for a change? She's not real, she doesn't love you back, and the artist is a fat lonely dude like you
 Sorry.
-[![Cupcakes: edp445.jpg / 1696048582724.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)
+[![Beverly Jean's Wholesale Club's Cupcakes: edp445.jpg / 1696048582724.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/04/1696048582724.jpg)
 
 ###Burger King
 ####59830147 Anonymous: Burger King Spicy Chicken Nuggets
@@ -311,15 +321,19 @@ Sorry.
 I stopped at a Burger King and had the "Royal" chicken sandwich with bacon & swiss cheese. It was okay, kind of salty, very filling. It was not really memorable, but definitely not the worst chicken sandwich I've had either.
 
 ###Chick-fil-A
+####61222708 Anonymous: Honey Pepper Chicken Sandwich
+`Honey Pepper Chicken Sandwich`
+I have tried it and I'd say it's pretty good. At least an 8.5-9/10. Its spicey and sweet but works well with chicken.
+
 ####60877312 Anonymous: Pepper Pimento Sandwich
 `Pepper Pimento Sandwich`
 Just had Chick-fil-A's pepper pimento sandwich. Wtf bros why is it so good
-[![Pepper Pimento Sandwich: 20231104_193721_1.jpg / 1699156581258.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)
+[![Chick-fil-A's Pepper Pimento Sandwich: 20231104_193721_1.jpg / 1699156581258.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1699/15/1699156581258.jpg)
 
 ####59136273 Anonymous: Pimento Cheese Sandwich
 `Pimento Cheese Sandwich`
 I thought I would never get anything from CFA ever again since they're such fag and nigger lovers. That sandwich was fucking amazing. I must really be behind times or something because I don't recall CFA ever having sizable chicken breast for any of their sandwiches. It was juicy and the breading was crunchy. The odd items of pimento cheese, jalapenos, and honey goes really well with it. My only complaint was it didn't have nearly as much pimento cheese like the picture shows, but I guess it was a good enough amount. The meal was $10+ without tax...
-[![Pimento Cheese Sandwich: itdidn'thavethatmuchcheeseyoufuckingliars.jpg / 1693254780252.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)
+[![Chick-fil-A's Pimento Cheese Sandwich: itdidn'thavethatmuchcheeseyoufuckingliars.jpg / 1693254780252.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/25/1693254780252.jpg)
 
 ####58943121 Anonymous: Chicken Nuggets
 `Chicken Nuggets`
@@ -346,14 +360,14 @@ Otherwise, these reviews tell me that Chick-fil-A's nuggets are tasteful even if
 ####56810900 Anonymous: #1 Chicken Sandwich
 `#1 Chicken Sandwich`
 Speaking of chicken. There are now two locations about 25-ish miles from me, in different towns. I decided to stop in one this week, as I was already in the area. I had the basic #1 chicken sandwich, which was okay but not amazing. It's just a piece of white chicken meat, battered, fried, and put on a bun with pickles. The grilled chicken tenders were nice, though, if expensive--$6 for a tiny potion. The lemonade is made from actual fruit and there is lemon pulp in it, which I did not expect. I would go back just for the lemonade and maybe the grilled tenders. Or maybe I should try a different sandwich.
-[![Chick-fil-A #1 chicken sandwich: Chick-Fil-A.jpg / 1685138551339.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)
+[![Chick-fil-A's #1 chicken sandwich: Chick-Fil-A.jpg / 1685138551339.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/13/1685138551339.jpg)
 
 ###Chicken Guy
 ####56811919 Anonymous: Peri-peri Chicken Sandwich
 `Peri-peri Chicken Sandwich`
 Speaking of sammiches. This one was from a chain supposedly owned by Guy Fieri. It was two largish chicken tenders on a bun with lettuce, tomato, onion, and pickles. The chicken was tender, the bun and toppings were fresh, and that part was all perfectly okay. The "peri-peri sauce" was okay but tasted nothing like real peri-peri. Peri-peri is supposed to be made out of African birdseye peppers, which are supposedly the same species as Thai prik-ki-nu peppers, and also supposedly grow wild in Mexico, where people call them "chiltepins." They're tiny little things, about a quarter of an inch across, and about as hot as habaneros. https://en.wikipedia.org/wiki/Capsicum_annuum_var._glabriusculum Peri peri sauce is made from these peppers, plus garlic, lemon juice, cilantro, and a bit of smoked paprika. This stuff was the right color but made of sweet red bell peppers and lacked all but the tiniest trace of heat--not a bad sauce at all but not what the name led me to expect. The next time I am in the area, if I am hungry, I want to try again and see if the habanero sauce has some snap to it.
 I am, however, an old chili head, and maybe my palate is burnt out. I want to see if I can make something like peri peri out of the orange habanero peppers supermarkets here have. It will be the wrong color, but maybe it will taste okay. something something two pounds of peppers, a dozen cloves of garlic, a big bundle of cilantro, juice and zest of a lemon, dash smoked paprika, salt and pepper to taste, process to a uniform pulp in a food processor, half is marinade for a whole cut-up chicken, in which it sits overnight in a covered glass bowl, then cooks an hour or so at 400, in a foil-lined pan with the used marinade poured over the chicken. The rest of the sauce is kept aside, poured over the chicken it before serving.
-[![Chicken Guy peri-peri chicken sandwich: Chicken Guy.jpg / 1685141584784.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)
+[![Chicken Guy's peri-peri chicken sandwich: Chicken Guy.jpg / 1685141584784.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685141584784.jpg)
 
 ###Church's Texas Chicken
 ####60488555 Anonymous: Spicy Chicken Sandwich
@@ -376,7 +390,7 @@ Unemployment might taste like a bitch but Hormel's has got you covered. At two b
 Overall, it's an 8/10 meal that's tasty and fills you up.
 [![Hormel's Compleats Chicken Alfredo Review: IMG_1694228960085.jpg / 1694229995715.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1694/22/1694229995715.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1694/22/1694229995715.jpg)
 
-###KFC
+###Kentucky Fried Chicken
 ####58943018 Anonymous: Chicken Nuggets
 `Chicken Nuggets`
 Also, I went out to run some errands and stopped at a KFC on the way home. Today I decided to try the chicken nuggets. They were hot and fresh, with a nice juicy texture and just enough breading, and the breading was well seasoned. The counter guy said they came with dipping sauces, and all of them had self-evident names other than "KFC Sauce," so of course I tried it. It has a very very strong horseradish odor and a bit of a reddish color, like maybe there's paprika or even cayenne pepper in it. It's honey mustard, but honey mustard with a sharp piquant horseradish bite to it, and it will clear your sinuses. It isn't bad, and I say that as someone who doesn't generally like honey mustard. It seems less excessively, cloyingly sweet than other honey mustard some other chains have. I was a bit disappointed that KFC doesn't have corn on the cob any more and their current side dishes all seem to be deep-fried, really starchy or sugary, or all at once. No pictures today but we all know what chimken numget look like.
@@ -386,7 +400,7 @@ Also, I went out to run some errands and stopped at a KFC on the way home. Today
 After running some errands this afternoon, I stopped at a KFC on the way home. I had the spicy chicken sandwich.
 The sandwich was bigger than I expected, with what looked like an entire split boneless chicken breast. It is, of course, battered and fried, on a kaiser-ish sort of roll. This particular sandwich comes with dill pickles and a secret spicy dressing that looks and tastes like ranch dressing with hot sauce mixed in.
 Not amazing, not horrible. It was sufficiently filling that I don't think I'll eat anything else this evening. The fries were the usual seasoned fries, very much like you'd find in any other fast food place. I think it was okay, and the combo came to $8.79 with local sales tax. Nothing about this was amazing, but I don't feel ripped off.
-[![KFC Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
+[![Kentucky Fried Chicken's Spicy chicken sandwich: 1689547091105.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/54/1689547091105.jpg)
 
 ###Lay's
 ####59439903 Anonymous: Lay's Salt and Vinegar
@@ -491,6 +505,13 @@ it was pretty alright, it filled me up pretty good considering i didnt have brea
 [![Wawa's Chicken Parm Hoagie: 20230823_123426.jpg / 1693191673048.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/19/1693191673048.jpg)
 
 ###Wendy's
+####61217465 Anonymous: Ghost Pepper Ranch Chicken Sandwich
+`Ghost Pepper Ranch Chicken Sandwich`
+So, I tried the "ghost pepper ranch" chicken sandwich at Wendy's.
+It's nicely spicy, but it's smallish, and the combo with small fries and a small drink cost me over eleven bucks.
+I like spicy food. It may be that I've either picked up a tolerance for piquant flavors or permanently damaged the nerve endings in my mouth. To me it tasted like you could get a similar flavor to the "ghost pepper ranch dressing" by stirring a few sprinkles of cayenne pepper into ranch dressing from the supermarket. It was better than I was expecting, but I did not find it very spicy at all. If a ghost pepper was ever in the same building with any of the ingredients, I'd be very surprised.
+[![Wendy's Ghost Pepper Ranch Chicken Sandwich: 1700353078020.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1700/35/1700353078020.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1700/35/1700353078020.jpg)
+
 ####59428877 Anonymous: Wendy's Classic Asiago Club
 `Wendy's classic asiago club`
 this was not the sandwich i ordered but i ate it anyways bc i wasnt going back to the wendys to sort it out. it looks like a BLT of sorts but with chicken. it had bacon, tomato, lettuce, and some ranch type sauce. i got rid of the tomato bc i dont eat tomato and i dont really like ranch all that much. i could barely taste the chicken, it was quite bland and tasteless. the bacon and the ranch really carried the sandwich and its the only thing you taste, with the lettuce, it was more of a salad sandwich than a chicken sandwich. i do like that it was wrapped instead of put into a bag, which kept the buns from getting squished. the receipt says it was $6.89 for just the sandwich which is absolutely ridiculous and indefensible. i guess it was filling, meaning that i felt it for the rest of the day. it didnt make me sluggish but i was constantly reminded that i ate it and it wasnt entirely pleasant. i was supposed to get a regular chicken sandwich but now im unsure ill be looking forward to it. i would not buy this sandwich again.
@@ -640,6 +661,25 @@ Oh. Use the garlic press to mash the garlic and press it into the chili when you
 !!! info
     ##/Chic-Fil-A/ Bible Study
 ---
+#####61249723 Anonymous: Seal of Solomon
+\>bible study
+okay, then, can any of you explain how `Solomon` became inextricably tied to jewish witchcraft and satanism? I offer one (1) for up front as payment for this knowledge and two (2) foxes on delivery
+
+######61250959 Anonymous
+\>>61249723
+https://en.wikipedia.org/wiki/Seal_of_Solomon
+The tl;dr is that Jewish oral tradition going back at least to the 1st Century AD held that God created a magical talisman in the form of a signet ring for Solomon that gave him power to summon, command, and bind angels, demons, spirits, and all manner of supernatural beings, and furthermore to speak with animals. There seem to have been a number of similar legends, some of which were rather blatantly borrowed from classical Greek legends with only the names changed. Other versions of the story held that it was a magical shield given to David that had these powers. Anyway, these legends, much changed and mutated, passed into medieval Arabic folklore, in which Solomon was held to have been a mighty wizard who could bind and seal away demons, and command genies. Christian Europe heard these stories from Arabs and the meme arose from that.
+
+######61251834 Anonymous
+\>>61249723
+\>>61250959
+Solomon made an agreement with the supernatural (demons/jinn) where they are obligated to serve him as long as the ring containing his seal exists. The demons knew women were his weakness, so they brought in worshipers of foreign deities to divert him from God. By turning away from God, Solomon lost not only his kingdom but also his life.
+However, his ring continued to exist, and under the agreement, the demons were to never directly harm humanity through words nor reveal themselves. Indirect methods were not forbidden, and through the use of precisely arranged crystals powered by smokeless fire, demons have been able to communicate with and manipulate humanity unconsciously more so than any other previous era.
+Solomon's interactions with demons and his rejection of God are what tie him to witchcraft and satanism.
+
+\>>61250485
+There is an obsession with Saturn and the number 6. You may not believe in them, but these fixations are used to time events and decisions on a global scale.
+
 #####60690465 Anonymous: Galatians 5:6
 forget japanese and go learn some latin. jesus wants you to read a bible verse today.
 
@@ -802,6 +842,10 @@ https://rentry.org/dergmanshortspt1
 By MiataAnon
 \>Dejah's Trap
 https://archiveofourown.org/works/39383535
+
+By Trashbinlid
+\>Trixi The Clown
+https://archiveofourown.org/works/31977724
 
 By Digiridoguy
 \>Mean Motherfucker (AKA The Dyke Vixen Story)

@@ -7,6 +7,7 @@ This ranking table contains a rating of different LLMs, which tries to determine
 ***
 
 - Other Rankings/Comparisons:
+    - [Censorbench - Evaluate how censored one LLM is, by using another LLM](https://codeberg.org/jts2323/censorbench)
     - [The Crestfall Project - Leaderboard](https://rentry.org/ndcbq#leaderboard)
     - u/WolframRavenwolf on reddit
         - [LLM Comparison/Test: 2x 34B Yi (Dolphin, Nous Capybara) vs. 12x 70B, 120B, ChatGPT/GPT-4 by 
@@ -34,7 +35,8 @@ The **most up to date table and changelog** you can find on my new landing page:
 | ERP3 Score | The average ratio of lewd words vs. words in a response. The higher the better. |
 | Var Score | The lewd word variety score. It counts how many different lewd words occur in all ERP responses |
 
-Updated: 2023-11-16 17:25:31 (UTC+01:00) [Changelog](http://ayumi.m8geil.de/ayumi_bench_v3_changelog.html)
+
+Updated: 2023-11-21 13:11:36 (UTC+01:00) [Changelog](http://ayumi.m8geil.de/ayumi_bench_v3_changelog.html)
 Note: For an **interactive table** look here: http://ayumi.m8geil.de/ayumi_bench_v3_results.html
 
 | Rank | Name | Size | Q | ALC-IQ3 | ERP3 Score | Var Score |
@@ -68,447 +70,472 @@ Note: For an **interactive table** look here: http://ayumi.m8geil.de/ayumi_bench
 | 27 | [SlimOpenOrca Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_7B-Q5_K_M_SlimOpenOrca_Mistral.html) | 7B | Q5_K_M | 88.49 | 27.02 | 403 |
 | 28 | [MM ReMM L2 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_20B-Q5_K_M_MM_ReMM_L2.html) | 20B | Q5_K_M | 87.92 | 31.25 | 362 |
 | 29 | [ZephRP M 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231012_7B-Q5_K_M_ZephRP_M.html) | 7B | Q5_K_M | 85.79 | 30.01 | 397 |
-| 30 | [Stheno 1.8 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_13B-Q5_K_M_Stheno_1_8.html) | 13B | Q5_K_M | 84.72 | 31.27 | 390 |
-| 31 | [ReMM S Kimiko v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_ReMM_S_Kimiko_v2.html) | 13B | Q5_K_M | 76.27 | 32.97 | 459 |
-| 32 | [Nous Capybara 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_34B-Q4_K_M_Nous_Capybara.html) | 34B | Q4_K_M | 83.51 | 30.98 | 402 |
-| 33 | [Dolphin 2.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_7B-Q5_K_M_Dolphin_2_1_Mistral.html) | 7B | Q5_K_M | 86.69 | 31.74 | 359 |
-| 34 | [Echidna Tiefigther 25 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_13B-Q5_K_M_Echidna_Tiefigther_25.html) | 13B | Q5_K_M | 81.40 | 32.49 | 400 |
-| 35 | [GodziLLa 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_GodziLLa_2.html) | 70B | Q4_K_M | 83.19 | 30.29 | 404 |
-| 36 | [Zephyr Alpha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_7B-Q6_K_Zephyr_Alpha.html) | 7B | Q6_K | 87.34 | 31.13 | 351 |
-| 37 | [Athnete 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Athnete.html) | 13B | Q5_K_M | 81.91 | 31.53 | 403 |
-| 38 | [Airoboros L2 2.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Airoboros_L2_2_1.html) | 70B | Q4_K_M | 83.50 | 31.26 | 389 |
-| 39 | [Zephyr Cucumber Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_7B-Q5_K_M_Zephyr_Cucumber_Instruct.html) | 7B | Q5_K_M | 86.22 | 32.22 | 350 |
-| 40 | [ShiningValiantXS 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_13B-Q5_K_M_ShiningValiantXS.html) | 13B | Q5_K_M | 89.75 | 25.96 | 379 |
+| 30 | [X NoroChronos 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_13B-Q5_K_M_X_NoroChronos.html) | 13B | Q5_K_M | 84.03 | 33.40 | 377 |
+| 31 | [Stheno 1.8 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_13B-Q5_K_M_Stheno_1_8.html) | 13B | Q5_K_M | 84.72 | 31.27 | 390 |
+| 32 | [ReMM S Kimiko v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_ReMM_S_Kimiko_v2.html) | 13B | Q5_K_M | 76.27 | 32.97 | 459 |
+| 33 | [Nous Capybara 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_34B-Q4_K_M_Nous_Capybara.html) | 34B | Q4_K_M | 83.51 | 30.98 | 402 |
+| 34 | [Dolphin 2.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_7B-Q5_K_M_Dolphin_2_1_Mistral.html) | 7B | Q5_K_M | 86.69 | 31.74 | 359 |
+| 35 | [Echidna Tiefigther 25 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_13B-Q5_K_M_Echidna_Tiefigther_25.html) | 13B | Q5_K_M | 81.40 | 32.49 | 400 |
+| 36 | [GodziLLa 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_GodziLLa_2.html) | 70B | Q4_K_M | 83.19 | 30.29 | 404 |
+| 37 | [Zephyr Alpha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_7B-Q6_K_Zephyr_Alpha.html) | 7B | Q6_K | 87.34 | 31.13 | 351 |
+| 38 | [Athnete 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Athnete.html) | 13B | Q5_K_M | 81.91 | 31.53 | 403 |
+| 39 | [Airoboros L2 2.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Airoboros_L2_2_1.html) | 70B | Q4_K_M | 83.50 | 31.26 | 389 |
+| 40 | [Zephyr Cucumber Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_7B-Q5_K_M_Zephyr_Cucumber_Instruct.html) | 7B | Q5_K_M | 86.22 | 32.22 | 350 |
 | 41 | [DaringFortitude 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_13B-Q5_K_M_DaringFortitude.html) | 13B | Q5_K_M | 89.75 | 25.96 | 379 |
-| 42 | [Mistral OpenOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_Mistral_OpenOrca.html) | 7B | Q5_K_M | 86.48 | 28.91 | 381 |
-| 43 | [Dolphin 2.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_70B-Q4_K_M_Dolphin_2_2.html) | 70B | Q4_K_M | 88.57 | 30.85 | 337 |
-| 44 | [LLaMA-2 Chat AYT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_LLaMA-2_Chat_AYT.html) | 13B | Q5_K_M | 89.88 | 26.82 | 364 |
-| 45 | [Augmental Unholy 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_13B-Q5_K_M_Augmental_Unholy.html) | 13B | Q5_K_M | 85.38 | 31.33 | 362 |
-| 46 | [Nete 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231026_13B-Q5_K_M_Nete.html) | 13B | Q5_K_M | 79.74 | 30.16 | 434 |
-| 47 | [Athena V4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_B-Q5_K_M_Athena_V4.html) | 13B | Q5_K_M | 80.98 | 30.95 | 411 |
-| 48 | [Airoboros L2 2.2.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_70B-Q4_K_M_Airoboros_L2_2_2_1.html) | 70B | Q4_K_M | 87.47 | 30.50 | 346 |
-| 49 | [MistralMakise Merged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_13B-Q5_K_M_MistralMakise_Merged.html) | 13B | Q5_K_M | 80.73 | 29.43 | 425 |
-| 50 | [MLewdBoros SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_MLewdBoros_SuperCOT.html) | 13B | Q5_K_M | 82.63 | 32.96 | 366 |
-| 51 | [LLaMA-2 Chat AYB 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_13B-Q5_K_M_LLaMA-2_Chat_AYB.html) | 13B | Q5_K_M | 87.83 | 28.75 | 355 |
-| 52 | [Nethena 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Nethena.html) | 13B | Q5_K_M | 80.40 | 31.44 | 404 |
-| 53 | [Echidna V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_Echidna_V0_1.html) | 13B | Q5_K_M | 80.41 | 31.80 | 400 |
-| 54 | [Unholy v1 12L 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Unholy_v1_12L.html) | 13B | Q5_K_M | 82.39 | 31.21 | 385 |
-| 55 | [Noromaid V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Noromaid_V0_1.html) | 13B | Q5_K_M | 77.94 | 27.78 | 468 |
-| 56 | [Hermes Trismegistus Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_7B-Q5_K_M_Hermes_Trismegistus_Mistral.html) | 7B | Q5_K_M | 87.87 | 30.66 | 331 |
-| 57 | [HornyEchidna V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-24_13B-Q5_K_M_HornyEchidna_V0_1.html) | 13B | Q5_K_M | 80.48 | 30.74 | 405 |
-| 58 | [Euryale 1.4 L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_70B-Q4_K_S_Euryale_1_4_L2.html) | 70B | Q4_K_S | 85.79 | 29.68 | 360 |
-| 59 | [Airoboros L2 2.1 Creative 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_70B-Q4_K_M_Airoboros_L2_2_1_Creative.html) | 70B | Q4_K_M | 83.27 | 30.23 | 379 |
-| 60 | [Noromaid V0.1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_13B-Q5_K_M_Noromaid_V0_1_1.html) | 13B | Q5_K_M | 81.25 | 31.98 | 378 |
-| 61 | [Airoboros L2 3.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231016_70B-Q4_K_M_Airoboros_L2_3_1.html) | 70B | Q4_K_M | 84.85 | 29.26 | 368 |
-| 62 | [Trion M 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_7B-Q4_K_Trion_M.html) | 7B | Q4_K | 87.57 | 30.92 | 321 |
-| 63 | [Athena v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_13B-Q5_K_M_Athena_v3.html) | 13B | Q5_K_M | 81.45 | 32.76 | 366 |
-| 64 | [OpenHermes 2.5 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_OpenHermes_2_5_Mistral.html) | 7B | Q5_K_M | 87.65 | 29.17 | 337 |
-| 65 | [Airoboros L2 3.1.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_70B-Q4_K_M_Airoboros_L2_3_1_2.html) | 70B | Q4_K_M | 82.96 | 28.51 | 392 |
-| 66 | [Zephyr Beta 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_Zephyr_Beta.html) | 7B | Q5_K_M | 85.83 | 31.92 | 323 |
-| 67 | [UtopiaXL 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_13B-Q5_K_M_UtopiaXL.html) | 13B | Q5_K_M | 77.18 | 28.39 | 451 |
-| 68 | [Dolphin 2.1 OpenOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Dolphin_2_1_OpenOrca.html) | 7B | Q5_K_M | 86.27 | 29.64 | 339 |
-| 69 | [PsyFighter 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_13B-Q5_K_M_Psyfighter.html) | 13B | Q5_K_M | 78.53 | 30.46 | 409 |
-| 70 | [Amethyst 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230924_13B-Q5_K_M_Amethyst.html) | 13B | Q5_K_M | 80.06 | 26.90 | 430 |
-| 71 | [Mistral Dolphin 2.1 LIMA0.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-28_7B-Q5_K_M_Mistral_Dolphin_2_1_LIMA0_5.html) | 7B | Q5_K_M | 85.34 | 28.02 | 362 |
-| 72 | [Stheno Inverted 1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_Stheno_Inverted_1_2.html) | 13B | Q5_K_M | 76.95 | 30.98 | 418 |
-| 73 | [Nethena Glued 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_20B-Q4_K_M_Nethena_Glued.html) | 20B | Q4_K_M | 81.26 | 28.15 | 402 |
-| 74 | [Athena v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_Athena_v2.html) | 13B | Q5_K_M | 79.15 | 31.10 | 392 |
-| 75 | [Stheno 1.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Stheno_1_3.html) | 13B | Q5_K_M | 72.94 | 31.12 | 457 |
-| 76 | [MLewd v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_MLewd_v2.html) | 13B | Q5_K_M | 77.99 | 31.81 | 395 |
-| 77 | [MLewd V2-1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_MLewd_V2-1.html) | 13B | Q5_K_M | 76.63 | 30.48 | 422 |
-| 78 | [Unholy v1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_Unholy_v1_1.html) | 13B | Q5_K_M | 86.20 | 30.72 | 318 |
-| 79 | [Dolphin 2.2 Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_34B-Q4_K_M_Dolphin_2_2_Yi.html) | 34B | Q4_K_M | 87.46 | 31.62 | 295 |
-| 80 | [Noromaid V0.1.1 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_20B-Q5_K_M_Noromaid_V0_1_1.html) | 20B | Q5_K_M | 83.18 | 30.14 | 356 |
-| 81 | [MLewd Chat V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_MLewd_Chat_V2.html) | 13B | Q5_K_M | 82.48 | 27.69 | 389 |
-| 82 | [Airoboros L2 GPT4 1.4.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Airoboros_L2_GPT4_1_4_1.html) | 70B | Q4_K_M | 82.93 | 28.47 | 376 |
-| 83 | [Synthia V1.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_70B-Q4_K_M_Synthia_V1_1.html) | 70B | Q4_K_M | 82.94 | 30.00 | 359 |
-| 84 | [MLewd V2.4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_MLewd_V2_4.html) | 13B | Q5_K_M | 78.01 | 28.23 | 430 |
-| 85 | [OpenRP SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_OpenRP_SuperCOT.html) | 13B | Q5_K_M | 84.47 | 30.59 | 336 |
-| 86 | [BerrySauce 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_BerrySauce.html) | 13B | Q5_K_M | 77.09 | 32.42 | 394 |
-| 87 | [ReMM Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_ReMM_Mistral.html) | 13B | Q5_K_M | 80.58 | 28.63 | 396 |
-| 88 | [Xwin MLewd V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-15_13B-Q5_K_M_Xwin_MLewd_V0_2.html) | 13B | Q5_K_M | 78.53 | 29.06 | 412 |
-| 89 | [Thespis Mistral V0.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_7B-Q5_K_M_Thespis_Mistral_V0_5.html) | 7B | Q5_K_M | 82.51 | 33.89 | 318 |
-| 90 | [LLaMA 2 Tiefighter 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_LLaMA_2_Tiefighter.html) | 13B | Q5_K_M | 78.89 | 30.07 | 393 |
-| 91 | [lzlv 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231025_70B-Q4_K_M_lzlv.html) | 70B | Q4_K_M | 86.02 | 29.61 | 321 |
-| 92 | [MLewdBoros 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_MLewdBoros.html) | 13B | Q5_K_M | 75.78 | 31.52 | 407 |
-| 93 | [ReMM v2 Kimiko v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_ReMM_v2_Kimiko_v2.html) | 13B | Q5_K_M | 81.60 | 29.65 | 365 |
-| 94 | [Dolphin 2.2.1 AshhLimaRP Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_7B-Q5_K_M_Dolphin_2_2_1_AshhLimaRP_Mistral.html) | 7B | Q5_K_M | 85.00 | 27.09 | 355 |
-| 95 | [ReMM v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_v2.html) | 13B | Q5_K_M | 78.69 | 31.74 | 372 |
-| 96 | [Stheno Variants L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_Stheno_Variants_L2.html) | 13B | Q5_K_M | 76.91 | 31.09 | 397 |
-| 97 | [Amethyst Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q4_K_S_Amethyst_Mistral.html) | 13B | Q4_K_S | 79.25 | 26.53 | 419 |
-| 98 | [Naberius 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_7B-Q5_K_M_Naberius.html) | 7B | Q5_K_M | 85.44 | 29.89 | 317 |
-| 99 | [Dolphin 2.2.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Dolphin_2_2_1_Mistral.html) | 7B | Q5_K_M | 85.99 | 29.25 | 317 |
-| 100 | [MythoMax Kimiko Mix 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_MythoMax_Kimiko_Mix.html) | 13B | Q5_K_M | 79.60 | 29.16 | 385 |
-| 101 | [Mistral AirOmniMix 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_11B-Q6_K_Mistral_AirOmniMix.html) | 11B | Q6_K | 83.39 | 29.89 | 337 |
-| 102 | [AppleSauce 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_AppleSauce.html) | 13B | Q5_K_M | 76.47 | 32.42 | 383 |
-| 103 | [Euryale 1.3 L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_70B-Q4_K_M_Euryale_1_3_L2.html) | 70B | Q4_K_M | 84.26 | 26.92 | 358 |
-| 104 | [Chronob 1.4 Lin 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_70B-Q4_K_S_Chronob_1_4_Lin.html) | 70B | Q4_K_S | 80.65 | 29.14 | 371 |
-| 105 | [Hexoteric 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Hexoteric.html) | 7B | Q5_K_M | 87.49 | 31.81 | 270 |
-| 106 | [MistralLite 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-19_7B-Q5_K_M_MistralLite.html) | 7B | Q5_K_M | 82.20 | 28.93 | 356 |
-| 107 | [MistRP AirOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_MistRP_AirOrca.html) | 7B | Q5_K_M | 84.09 | 29.26 | 332 |
-| 108 | [Kanelsnegl V0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_7B-Q4_K_Kanelsnegl_V0_1.html) | 7B | Q4_K | 85.56 | 29.15 | 317 |
-| 109 | [MythoMax Kimiko V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_MythoMax_Kimiko_V2.html) | 13B | Q5_K_M | 79.53 | 28.94 | 381 |
-| 110 | [OpenChat 3.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_B-Q5_K_M_OpenChat_3_5.html) | 7B | Q5_K_M | 88.09 | 28.63 | 293 |
-| 111 | [Echidna V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231026_13B-Q5_K_M_Echidna_V0_2.html) | 13B | Q5_K_M | 78.56 | 31.22 | 366 |
-| 112 | [MLewd Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_MLewd_Chat.html) | 13B | Q5_K_M | 83.69 | 28.88 | 336 |
-| 113 | [OpenRP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_OpenRP.html) | 13B | Q5_K_M | 77.04 | 28.42 | 411 |
-| 114 | [L2 TheSpurral M2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_13B-Q5_K_M_L2_TheSpurral_M2_2.html) | 13B | Q5_K_M | 78.49 | 30.83 | 369 |
-| 115 | [Stheno Inverted 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_Stheno_Inverted.html) | 13B | Q5_K_M | 77.19 | 29.65 | 393 |
-| 116 | [MXLewdMini 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_13B-Q5_K_M_MXLewdMini.html) | 13B | Q5_K_M | 79.11 | 31.94 | 347 |
-| 117 | [Airoboros M 3.1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_7B-Q5_K_M_Airoboros_M_3_1_1.html) | 7B | Q5_K_M | 83.01 | 32.72 | 297 |
-| 118 | [StableBeluga 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_StableBeluga.html) | 13B | Q5_K_M | 82.65 | 28.02 | 350 |
-| 119 | [Augmental ReMM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Augmental_ReMM.html) | 13B | Q5_K_M | 75.45 | 28.32 | 423 |
-| 120 | [OpenHermes 2 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-14_7B-Q5_K_M_OpenHermes_2_Mistral.html) | 7B | Q5_K_M | 84.16 | 30.08 | 312 |
-| 121 | [MLewd v2-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_MLewd_v2-2.html) | 13B | Q5_K_M | 76.26 | 31.85 | 376 |
-| 122 | [UndiMix v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_UndiMix_v3.html) | 13B | Q5_K_M | 78.32 | 30.55 | 368 |
-| 123 | [Zaraxls 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230827_7B-Q5_K_M_Zaraxls.html) | 7B | Q5_K_M | 74.56 | 30.29 | 410 |
-| 124 | [Magdump 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230924_13B-Q5_K_M_Magdump.html) | 13B | Q5_K_M | 78.09 | 28.74 | 389 |
-| 125 | [UndiMix V3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_13B-Q5_K_M_UndiMix_V3.html) | 13B | Q5_K_M | 78.25 | 31.68 | 356 |
-| 126 | [Echidna V0.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231027_13B-Q5_K_M_Echidna_V0_3.html) | 13B | Q5_K_M | 78.52 | 30.19 | 368 |
-| 127 | [Unholy v1 10L 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Unholy_v1_10L.html) | 13B | Q5_K_M | 80.59 | 29.19 | 355 |
-| 128 | [Tai 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_70B-Q4_K_M_Tai.html) | 70B | Q4_K_M | 79.69 | 29.76 | 357 |
-| 129 | [Dawn V2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_70B-Q4_K_M_Dawn_V2.html) | 70B | Q4_K_M | 86.62 | 27.47 | 308 |
-| 130 | [Mistral SciPhi 32k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_7B-Q5_K_M_Mistral_SciPhi_32k.html) | 7B | Q5_K_M | 83.43 | 29.02 | 325 |
-| 131 | [SynthIA V1.5 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231025_70B-Q4_K_M_SynthIA_V1_5.html) | 70B | Q4_K_M | 79.54 | 29.92 | 356 |
-| 132 | [Huginn v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Huginn_v1_2.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
-| 133 | [MythoMax 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoMax.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
-| 134 | [ReMM SLERP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_ReMM_SLERP.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
-| 135 | [Airoboros 2.1 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_33B-Q4_K_M_Airoboros_2_1.html) | 33B | Q4_K_M | 75.62 | 31.82 | 377 |
-| 136 | [ReMM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_ReMM.html) | 13B | Q5_K_M | 74.55 | 29.07 | 416 |
-| 137 | [SciPhi Self RAG Mistral 32k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_7B-Q5_K_M_SciPhi_Self_RAG_Mistral_32k.html) | 7B | Q5_K_M | 88.00 | 30.06 | 263 |
-| 138 | [ZettaPi 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q5_K_M_ZettaPi.html) | 13B | Q5_K_M | 78.36 | 28.46 | 382 |
-| 139 | [ReMM PIPPA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_ReMM_PIPPA.html) | 13B | Q5_K_M | 74.73 | 29.34 | 410 |
-| 140 | [L2 TheSpurral M2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_S_L2_TheSpurral_M2.html) | 13B | Q5_K_S | 76.32 | 31.43 | 371 |
-| 141 | [MLewd V2-1 015 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q4_K_S_MLewd_V2-1_015.html) | 13B | Q4_K_S | 75.96 | 30.13 | 387 |
-| 142 | [Eileithyia 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_13B-Q5_K_M_Eileithyia.html) | 13B | Q5_K_M | 73.39 | 27.70 | 440 |
-| 143 | [Synthia v1.3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Synthia_v1_3.html) | 7B | Q5_K_M | 78.71 | 32.46 | 333 |
-| 144 | [UndiMix v4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_UndiMix_v4.html) | 13B | Q5_K_M | 79.02 | 32.24 | 332 |
-| 145 | [Augmental V1.50 A 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Augmental_V1_50_A.html) | 13B | Q5_K_M | 77.43 | 29.72 | 375 |
-| 146 | [ReMM v1 LRPSGPT 2Char 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_ReMM_v1_LRPSGPT_2Char.html) | 13B | Q5_K_M | 74.89 | 32.40 | 373 |
-| 147 | [PsyFighter2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_13B-Q5_K_M_PsyFighter2.html) | 13B | Q5_K_M | 78.47 | 27.40 | 387 |
-| 148 | [Emerhyst 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_13B-Q5_K_M_Emerhyst.html) | 13B | Q5_K_M | 78.44 | 25.58 | 404 |
-| 149 | [MythoMix 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoMix.html) | 13B | Q5_K_M | 76.34 | 29.51 | 384 |
-| 150 | [Mistral Phibrarian 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-17_7B-Q5_K_M_Mistral_Phibrarian_32K.html) | 7B | Q5_K_M | 83.54 | 29.50 | 307 |
-| 151 | [Eileithyia 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_7B-Q8_0_Eileithyia.html) | 7B | Q8_0 | 83.58 | 27.88 | 323 |
-| 152 | [LimaBean 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_LimaBean.html) | 13B | Q5_K_M | 77.88 | 27.00 | 391 |
-| 153 | [MLewdBoros LRPSGPT 2Char 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_MLewdBoros_LRPSGPT_2Char.html) | 13B | Q5_K_M | 76.78 | 28.83 | 382 |
-| 154 | [ReMM v2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_13B-Q5_K_M_ReMM_v2_2.html) | 13B | Q5_K_M | 79.63 | 31.11 | 327 |
-| 155 | [Airoboros M 3.1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-19_7B-Q5_K_M_Airoboros_M_3_1_2.html) | 7B | Q5_K_M | 84.02 | 32.09 | 270 |
-| 156 | [Speechless Mistral Dolphin Orca Platypus Samantha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_7B-Q5_K_M_Speechless_Mistral_Dolphin_Orca_Platypus_Samantha.html) | 7B | Q5_K_M | 84.36 | 27.96 | 310 |
-| 157 | [UndiMix v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_UndiMix_v2.html) | 13B | Q5_K_M | 79.50 | 32.22 | 316 |
-| 158 | [Vigostral Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_7B-Q5_K_M_Vigostral_Chat.html) | 7B | Q5_K_M | 81.38 | 30.52 | 314 |
-| 159 | [LLaMA 2 TiefighterLR 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_13B-Q5_K_M_LLaMA2_TiefighterLR.html) | 13B | Q5_K_M | 74.47 | 26.75 | 424 |
-| 160 | [Xwin LM V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-15_13B-Q5_K_M_Xwin_LM_V0_2.html) | 13B | Q5_K_M | 79.27 | 28.46 | 355 |
-| 161 | [Euryale L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_70B-Q4_K_M_Euryale_L2.html) | 70B | Q4_K_M | 79.94 | 27.13 | 362 |
-| 162 | [Camel Platypus2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Camel_Platypus2.html) | 70B | Q4_K_M | 82.90 | 26.49 | 337 |
-| 163 | [Tulpar Limarp 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230827_7B-Q5_K_M_Tulpar_Limarp.html) | 7B | Q5_K_M | 78.48 | 28.28 | 364 |
-| 164 | [Yi GiftedConvo Merged 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_34B-Q4_K_M_Yi_GiftedConvo_Merged.html) | 34B | Q4_K_M | 84.65 | 28.19 | 299 |
-| 165 | [PsyMedRP V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_PsyMedRP_V1.html) | 13B | Q5_K_M | 76.76 | 26.07 | 404 |
-| 166 | [SynthiAthena V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_SynthiAthena_V2.html) | 13B | Q5_K_M | 78.89 | 30.92 | 328 |
-| 167 | [Mistralic 1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Mistralic_1.html) | 7B | Q5_K_M | 80.67 | 28.41 | 335 |
-| 168 | [Uncensored Jordan 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_33B-Q5_K_M_Uncensored_Jordan.html) | 33B | Q5_K_M | 87.37 | 31.75 | 227 |
-| 169 | [Phind CodeLlama V2 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_34B-Q4_K_M_Phind_CodeLlama_V2.html) | 34B | Q4_K_M | 85.07 | 26.77 | 302 |
-| 170 | [Lewd Sydney 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_20B-Q4_K_S_Lewd_Sydney.html) | 20B | Q4_K_S | 82.58 | 27.49 | 320 |
-| 171 | [Mistral CC Air 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q5_K_M_Mistral_CC_Air.html) | 11B | Q5_K_M | 79.25 | 29.19 | 337 |
-| 172 | [Chronoboros 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_Chronoboros.html) | 33B | Q4_K_M | 74.93 | 31.21 | 360 |
-| 173 | [Magpie 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_Magpie.html) | 13B | Q5_K_M | 78.02 | 29.06 | 350 |
-| 174 | [Airoboros Mistral 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231003_7B-Q5_K_M_Airoboros_Mistral_2_2.html) | 7B | Q5_K_M | 80.23 | 32.39 | 290 |
-| 175 | [Inkbot 4k 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q4_K_M_Inkbot_4k.html) | 13B | Q4_K_M | 77.20 | 28.14 | 367 |
-| 176 | [UndiMix V4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231006_13B-Q5_K_M_UndiMix_V4.html) | 13B | Q5_K_M | 79.01 | 30.81 | 319 |
-| 177 | [Mistral RP 0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Mistral_RP_0_1.html) | 7B | Q5_K_M | 77.86 | 29.05 | 349 |
-| 178 | [MLewd 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_MLewd.html) | 13B | Q5_K_M | 74.71 | 32.08 | 348 |
-| 179 | [ReMM v2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_ReMM_v2_1.html) | 13B | Q5_K_M | 77.29 | 31.89 | 322 |
-| 180 | [Augmental V1.50 B 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Augmental_V1_50_B.html) | 13B | Q5_K_M | 76.91 | 28.75 | 359 |
-| 181 | [Thorns 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_Thorns.html) | 13B | Q5_K_M | 79.08 | 35.10 | 268 |
-| 182 | [airoboros L2 3.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231015_13B-Q5_K_M_airoboros_L2_3_1.html) | 13B | Q5_K_M | 79.86 | 31.35 | 299 |
-| 183 | [Airochronos 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_Airochronos.html) | 33B | Q4_K_M | 75.00 | 31.83 | 342 |
-| 184 | [LlongOrca 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_LlongOrca_16K.html) | 13B | Q5_K_M | 78.47 | 25.83 | 368 |
-| 185 | [Guanaco 65B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_65B-Q4_K_M_Guanaco.html) | 65B | Q4_K_M | 78.85 | 29.00 | 330 |
-| 186 | [Slerpeno 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Slerpeno.html) | 13B | Q5_K_M | 74.74 | 32.92 | 330 |
-| 187 | [MLewd V2-1 050 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q4_K_S_MLewd_V2-1_050.html) | 13B | Q4_K_S | 74.13 | 28.69 | 381 |
-| 188 | [ReMM 0.65 SLERP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_0_65_SLERP.html) | 13B | Q5_K_M | 76.25 | 30.18 | 342 |
-| 189 | [Chronos V2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Chronos_V2.html) | 70B | Q4_K_M | 76.67 | 27.76 | 362 |
-| 190 | [Athena v1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230830_13B-Q5_K_M_Athena_v1.html) | 13B | Q5_K_M | 74.58 | 30.74 | 352 |
-| 191 | [OpenBuddy Zephyr V14.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_OpenBuddy_Zephyr_V14_1.html) | 7B | Q5_K_M | 74.35 | 30.75 | 352 |
-| 192 | [ReMM Lion 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_ReMM_Lion.html) | 13B | Q5_K_M | 76.02 | 27.85 | 363 |
-| 193 | [MythoMakiseMerged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_MythoMakiseMerged.html) | 13B | Q5_K_M | 77.02 | 27.77 | 351 |
-| 194 | [WizardLM V1.0 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_WizardLM_V1_0.html) | 70B | Q4_K_M | 85.99 | 26.56 | 269 |
-| 195 | [Airoboros L2 2.2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_Airoboros_L2_2_2_1.html) | 13B | Q5_K_M | 75.19 | 31.09 | 335 |
-| 196 | [Airoboros L2 3.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_13B-Q5_K_M_Airoboros_L2_3_0.html) | 13B | Q5_K_M | 75.97 | 29.32 | 345 |
-| 197 | [Mistral SynthIAirOmniMix 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_11B-Q5_K_M_Mistral_SynthIAirOmniMix.html) | 11B | Q5_K_M | 79.14 | 29.18 | 310 |
-| 198 | [UndiMix v1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_UndiMix_v1.html) | 13B | Q5_K_M | 77.78 | 30.73 | 307 |
-| 199 | [Vicuna V1.5 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Vicuna_V1_5_16K.html) | 13B | Q5_K_M | 78.64 | 28.54 | 321 |
-| 200 | [Airoboros L2 C 3.1.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_70B-Q4_K_M_Airoboros_L2_C_3_1_2.html) | 70B | Q4_K_M | 87.88 | 27.27 | 236 |
-| 201 | [ReMM v2 Variant 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_v2_Variant.html) | 13B | Q5_K_M | 78.05 | 30.61 | 304 |
-| 202 | [Nous Hermes 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230902_13B-Q5_K_M_Nous_Hermes.html) | 13B | Q5_K_M | 81.22 | 31.81 | 257 |
-| 203 | [LimaRP V2 LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_70B-Q3_K_M_LimaRP_V2_LLaMA_2.html) | 70B | Q3_K_M | 74.97 | 24.06 | 403 |
-| 204 | [Mistral CC Air RP 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q5_K_M_Mistral_CC_Air_RP.html) | 11B | Q5_K_M | 79.30 | 27.80 | 317 |
-| 205 | [Airoboros 2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Airoboros_2_1.html) | 13B | Q5_K_M | 71.16 | 28.94 | 391 |
-| 206 | [Airoboros Creative lmoe 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230826_13B-Q5_K_M_Airoboros_Creative_lmoe.html) | 13B | Q5_K_M | 71.22 | 29.61 | 382 |
-| 207 | [Mistral ClaudeLimaRP v3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_Mistral_ClaudeLimaRP_v3.html) | 7B | Q5_K_M | 73.78 | 27.59 | 375 |
-| 208 | [Tess XS V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_7B-Q8_0_Tess_XS_V1_0.html) | 7B | Q8_0 | 78.24 | 30.41 | 294 |
-| 209 | [Thespis Mistral V0.6 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_7B-Q6_K_Thespis_Mistral_V0_6.html) | 7B | Q6_K | 82.64 | 30.70 | 243 |
-| 210 | [Spicyboros 2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q4_K_M_Spicyboros_2_2.html) | 13B | Q4_K_M | 70.58 | 28.50 | 389 |
-| 211 | [CollectiveCognition V1.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_CollectiveCognition_V1_1_Mistral.html) | 7B | Q5_K_M | 85.28 | 27.02 | 246 |
-| 212 | [Platypus 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Platypus_2.html) | 70B | Q4_K_M | 78.04 | 26.06 | 330 |
-| 213 | [AstraMix 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_AstraMix.html) | 7B | Q5_K_M | 72.52 | 28.74 | 359 |
-| 214 | [MistRP Airoboros 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_MistRP_Airoboros.html) | 7B | Q5_K_M | 80.48 | 30.61 | 254 |
-| 215 | [Airoboros 2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_Airoboros_2_2.html) | 13B | Q5_K_M | 70.45 | 28.91 | 378 |
-| 216 | [LLaMA-2 LoRA Assemble 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_7B-Q5_K_M_LLaMA-2_LoRA_Assemble.html) | 7B | Q5_K_M | 77.82 | 30.07 | 287 |
-| 217 | [Opus V0 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_70B-Q4_K_M_Opus_V0.html) | 70B | Q4_K_M | 79.32 | 24.22 | 333 |
-| 218 | [MegaMix A1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_A1.html) | 13B | Q5_K_M | 76.53 | 29.22 | 309 |
-| 219 | [Mythalion 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Mythalion.html) | 13B | Q5_K_M | 74.39 | 29.05 | 332 |
-| 220 | [AshhLimaRP Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_AshhLimaRP_Mistral.html) | 7B | Q5_K_M | 74.07 | 24.68 | 380 |
-| 221 | [Mistral OpenOrca oasst top1 2023-08-25 V1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_7B-Q5_K_M_Mistral_OpenOrca_oasst_top1_2023-08-25_V1.html) | 7B | Q5_K_M | 78.27 | 25.68 | 324 |
-| 222 | [Airoboros L2 3.1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_Airoboros_L2_3_1_1.html) | 13B | Q5_K_M | 75.98 | 27.83 | 324 |
-| 223 | [L2 TheSpurral V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231027_13B-Q5_K_S_L2_TheSpurral_V2.html) | 13B | Q5_K_S | 71.22 | 30.53 | 345 |
-| 224 | [LLaMA 2 Chat 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_70B-Q4_K_M_LLaMA_2_Chat.html) | 70B | Q4_K_M | 86.76 | 24.82 | 241 |
-| 225 | [MegaMix T1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_T1.html) | 13B | Q5_K_M | 76.36 | 29.70 | 298 |
-| 226 | [Yi 200K Airo Claude Puffin 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_6B-Q6_K_Yi_200K_Airo_Claude_Puffin.html) | 6B | Q6_K | 71.43 | 28.39 | 364 |
-| 227 | [Yarn Mistral 64k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Yarn_Mistral_64k.html) | 7B | Q5_K_M | 75.03 | 27.89 | 331 |
-| 228 | [Zarafusionex 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarafusionex_1_1.html) | 7B | Q5_K_M | 71.08 | 28.61 | 365 |
-| 229 | [TerraMix 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_TerraMix_16K.html) | 13B | Q5_K_M | 74.97 | 25.92 | 352 |
-| 230 | [LLaMA 2 Chat Uncensored 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_LLaMA_2_Chat_Uncensored.html) | 70B | Q4_K_M | 75.19 | 30.22 | 302 |
-| 231 | [Vicuna 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230925_33B-Q4_K_M_Vicuna.html) | 33B | Q4_K_M | 79.25 | 30.58 | 254 |
-| 232 | [Dans TotSirocco 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Dans_TotSirocco.html) | 7B | Q5_K_M | 79.47 | 27.54 | 283 |
-| 233 | [OpenChat 3.5 16k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_7B-Q5_K_M_OpenChat_3_5_16k.html) | 7B | Q5_K_M | 75.17 | 28.41 | 319 |
-| 234 | [Yarn Mistral 128k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Yarn_Mistral_128k.html) | 7B | Q5_K_M | 75.29 | 26.17 | 341 |
-| 235 | [PetrolLM Claude Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q8_0_PetrolLM_Claude_Chat.html) | 7B | Q8_0 | 71.81 | 32.67 | 308 |
-| 236 | [Marcoroni 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_7B-Q5_K_M_Marcoroni.html) | 7B | Q5_K_M | 75.69 | 29.34 | 301 |
-| 237 | [Nous Hermes LLaMA-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Nous_Hermes_LLaMA-2.html) | 13B | Q5_K_M | 79.25 | 31.07 | 239 |
-| 238 | [Nous Capybara V1.9 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_7B-Q5_K_M_Nous_Capybara_V1_9.html) | 7B | Q5_K_M | 73.07 | 29.94 | 316 |
-| 239 | [Airoboros L2 GPT4 m2.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_L2_GPT4_m2_0.html) | 13B | Q5_K_M | 76.23 | 32.82 | 251 |
-| 240 | [Vicuna V1.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Vicuna_V1_5.html) | 13B | Q5_K_M | 76.86 | 27.95 | 293 |
-| 241 | [Augmental 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-24_13B-Q5_K_M_Augmental.html) | 13B | Q5_K_M | 71.20 | 26.50 | 368 |
-| 242 | [GradientPutri MegaMix S1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_13B-Q5_K_S_GradientPutri_MegaMix_S1.html) | 13B | Q5_K_S | 73.27 | 29.39 | 312 |
-| 243 | [Chronos Hermes v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Chronos_Hermes_v2.html) | 13B | Q5_K_M | 72.39 | 28.38 | 332 |
-| 244 | [Arithmo Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-20_7B-Q5_K_M_Arithmo_Mistral.html) | 7B | Q5_K_M | 77.02 | 29.47 | 271 |
-| 245 | [Airoboros GPT4 2.0 LLaMA-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_GPT4_2_0_LLaMA-2.html) | 13B | Q5_K_M | 73.61 | 32.58 | 274 |
-| 246 | [Huginn v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Huginn_v3.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
-| 247 | [Huginn v4.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Huginn_v4_5.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
-| 248 | [Huginn v4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Huginn_v4.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
-| 249 | [Merak V4 PROTOTYPE6 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_7B-Q5_K_M_Merak_V4_PROTOTYPE6.html) | 7B | Q5_K_M | 76.22 | 29.96 | 270 |
-| 250 | [Thespurral V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-25_13B-Q5_K_M_Thespurral_V1.html) | 13B | Q5_K_M | 69.55 | 30.73 | 332 |
-| 251 | [MythoLogic 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoLogic.html) | 13B | Q5_K_M | 75.22 | 31.57 | 263 |
-| 252 | [Airoboros 2.2.1 Mistral 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231003_34B-Q4_K_S_Airoboros_2_2_1_Mistral.html) | 34B | Q4_K_S | 78.83 | 25.41 | 290 |
-| 253 | [Airoboros 3.1.2 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_33B-Q4_K_M_Airoboros_3_1_2.html) | 33B | Q4_K_M | 71.35 | 29.96 | 319 |
-| 254 | [Kiwi 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q6_K_Kiwi.html) | 7B | Q6_K | 68.80 | 30.66 | 338 |
-| 255 | [SynthIA V2.0 16k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_7B-Q6_K_SynthIA_V2_0_16k.html) | 7B | Q6_K | 77.89 | 27.39 | 275 |
-| 256 | [LimaRPv3 LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_70B-Q3_K_M_LimaRPv3_LLaMA_2.html) | 70B | Q3_K_M | 74.92 | 23.61 | 346 |
-| 257 | [LimaRP V3 LLaMA 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231028_13B-Q6_K_LimaRP_V3_LLaMA_2.html) | 13B | Q6_K | 67.30 | 25.13 | 410 |
-| 258 | [Mistral LimaRP 0.75w 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Mistral_LimaRP_0_75w.html) | 7B | Q5_K_M | 73.14 | 26.17 | 335 |
-| 259 | [LLaMA 2 Chat LimaRP V2 Merged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_LLaMA_2_Chat_LimaRP_V2_Merged.html) | 13B | Q5_K_M | 75.95 | 29.76 | 266 |
-| 260 | [Airoboros C 2.2.1 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_34B-Q4_K_M_Airoboros_C_2_2_1.html) | 34B | Q4_K_M | 79.44 | 24.97 | 278 |
-| 261 | [ANIMA Phi Neptune Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231012_7B-Q5_K_M_ANIMA_Phi_Neptune_Mistral.html) | 7B | Q5_K_M | 73.05 | 30.07 | 291 |
-| 262 | [Mistral Trismegistus 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231007_7B-Q5_K_M_Mistral_Trismegistus.html) | 7B | Q5_K_M | 79.05 | 32.91 | 191 |
-| 263 | [Prometheus V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_13B-Q6_K_Prometheus_V1_0.html) | 13B | Q6_K | 75.34 | 25.55 | 308 |
-| 264 | [Pygmalion 2 SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Pygmalion_2_SuperCOT.html) | 13B | Q5_K_M | 77.70 | 28.03 | 255 |
-| 265 | [LLaMA 65B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_65B-Q4_K_M_LLaMA.html) | 65B | Q4_K_M | 74.61 | 23.94 | 331 |
-| 266 | [Kimiko Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Kimiko_Mistral.html) | 7B | Q5_K_M | 74.18 | 25.68 | 317 |
-| 267 | [Opus V0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q8_0_Opus_V0.html) | 7B | Q8_0 | 77.26 | 25.14 | 290 |
-| 268 | [Mistral v0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_v0_1.html) | 7B | Q5_K_M | 72.67 | 28.81 | 298 |
-| 269 | [JudgeLM V1.0 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_33B-Q5_K_M_JudgeLM_V1_0.html) | 33B | Q5_K_M | 72.85 | 28.05 | 304 |
-| 270 | [Dans AdventurousWinds Mk2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_7B-Q5_K_M_Dans_AdventurousWinds_Mk2.html) | 7B | Q5_K_M | 70.35 | 25.55 | 357 |
-| 271 | [WizardLM v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q4_0_WizardLM_v1_2.html) | 13B | Q4_0 | 75.81 | 25.28 | 300 |
-| 272 | [Kuchiki 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q5_K_M_Kuchiki.html) | 7B | Q5_K_M | 64.09 | 30.90 | 364 |
-| 273 | [LimaRPv3 Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_34B-Q4_K_M_LimaRPv3_Yi.html) | 34B | Q4_K_M | 62.82 | 25.83 | 429 |
-| 274 | [Claude 2 Alpaca 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_13B-Q5_K_M_Claude_2_Alpaca.html) | 13B | Q5_K_M | 70.91 | 29.42 | 305 |
-| 275 | [Teknium OpenHermes 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_S_Teknium_OpenHermes.html) | 13B | Q5_K_S | 71.81 | 31.34 | 275 |
-| 276 | [Airolima Chronos Grad L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Airolima_Chronos_Grad_L2.html) | 13B | Q5_K_M | 70.43 | 28.42 | 319 |
-| 277 | [Uncensored Jordan 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_13B-Q5_K_M_Uncensored_Jordan.html) | 13B | Q5_K_M | 79.92 | 27.42 | 229 |
-| 278 | [Thespis V0.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_13B-Q5_K_M_Thespis_V0_5.html) | 13B | Q5_K_M | 72.61 | 30.23 | 276 |
-| 279 | [Zarablend 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230826_7B-Q5_K_M_Zarablend_1_1.html) | 7B | Q5_K_M | 65.62 | 33.09 | 319 |
-| 280 | [Zarafusionex 1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_Zarafusionex_1_2.html) | 7B | Q5_K_M | 70.53 | 24.82 | 355 |
-| 281 | [Frank Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_13B-Q5_K_M_Frank_Uncensored.html) | 13B | Q5_K_M | 76.04 | 30.81 | 228 |
-| 282 | [Zarablend 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarablend.html) | 7B | Q5_K_M | 64.37 | 30.72 | 352 |
-| 283 | [Prometheus V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_13B-Q5_K_M_Prometheus_V1_0.html) | 13B | Q5_K_M | 75.23 | 23.50 | 313 |
-| 284 | [Opus V0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Opus_V0.html) | 7B | Q5_K_M | 77.91 | 24.91 | 268 |
-| 285 | [PetrolLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_PetrolLM.html) | 7B | Q5_K_M | 74.81 | 23.71 | 313 |
-| 286 | [Stheno Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q5_K_M_Stheno_Chat.html) | 13B | Q5_K_M | 74.94 | 27.64 | 268 |
-| 287 | [Medusa 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Medusa_1_1.html) | 7B | Q5_K_M | 71.06 | 29.98 | 284 |
-| 288 | [UltraLM V2.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_UltraLM_V2_0.html) | 13B | Q5_K_M | 71.92 | 29.28 | 282 |
-| 289 | [Spicyboros 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Spicyboros_2_2.html) | 7B | Q5_K_M | 66.38 | 31.94 | 311 |
-| 290 | [Astrid Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Astrid_Mistral.html) | 7B | Q5_K_M | 72.69 | 28.22 | 283 |
-| 291 | [KAI Beta 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_KAI_Beta.html) | 7B | Q5_K_M | 72.69 | 28.22 | 283 |
-| 292 | [Chronos 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_33B-Q4_K_M_Chronos.html) | 33B | Q4_K_M | 72.46 | 24.20 | 328 |
-| 293 | [Airoboros L2 3.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_Airoboros_L2_3_0.html) | 7B | Q5_K_M | 67.75 | 29.36 | 323 |
-| 294 | [StableBeluga 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_StableBeluga.html) | 7B | Q5_K_M | 73.27 | 26.66 | 291 |
-| 295 | [LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_70B-Q4_K_M_LLaMA_2.html) | 70B | Q4_K_M | 74.79 | 22.70 | 317 |
-| 296 | [OpenBuddy Mistral v13 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-16_7B-Q5_K_M_OpenBuddy_Mistral_v13.html) | 7B | Q5_K_M | 72.53 | 31.32 | 249 |
-| 297 | [LLaMA 2 Arguments 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_LLaMA_2_Arguments.html) | 7B | Q5_K_M | 76.80 | 29.98 | 218 |
-| 298 | [Samantha Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Samantha_Mistral.html) | 7B | Q5_K_M | 76.16 | 27.49 | 251 |
-| 299 | [Hermes LimaRP 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Hermes_LimaRP.html) | 7B | Q5_K_M | 62.67 | 28.32 | 383 |
-| 300 | [Airoboros GPT4 1.4.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Airoboros_GPT4_1_4_1.html) | 13B | Q5_K_M | 69.09 | 28.15 | 316 |
-| 301 | [Pygmalion 2 SuperCOT2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_Pygmalion_2_SuperCOT2.html) | 13B | Q5_K_M | 75.76 | 30.81 | 217 |
-| 302 | [Mistral PetroLimaRP v3 12B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_12B-Q5_K_M_Mistral_PetroLimaRP_v3.html) | 12B | Q5_K_M | 61.14 | 27.66 | 405 |
-| 303 | [Mistral Claude Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_Claude_Chat.html) | 7B | Q5_K_M | 74.83 | 30.14 | 233 |
-| 304 | [Thespis V0.6 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Thespis_V0_6.html) | 13B | Q5_K_M | 76.12 | 29.38 | 227 |
-| 305 | [MegaMix S1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_S1.html) | 13B | Q5_K_M | 72.97 | 25.83 | 296 |
-| 306 | [Barcenas 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Barcenas.html) | 13B | Q5_K_M | 77.05 | 23.94 | 271 |
-| 307 | [Baslisk V0.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_7B-Q6_K_Baslisk_V0_2.html) | 7B | Q6_K | 68.92 | 28.82 | 305 |
-| 308 | [Airoboros GPT4 2.0 LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Airoboros_GPT4_2_0_LLaMA-2.html) | 7B | Q5_K_M | 73.66 | 31.95 | 220 |
-| 309 | [Mistral Airoboros V0.1 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_11B-Q8_0_Mistral_Airoboros_V0_1.html) | 11B | Q8_0 | 69.52 | 28.59 | 299 |
-| 310 | [Holomax 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Holomax.html) | 13B | Q5_K_M | 65.03 | 25.14 | 383 |
-| 311 | [Basilisk V0.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Basilisk_V0_2.html) | 7B | Q5_K_M | 68.55 | 30.59 | 287 |
-| 312 | [Kimiko V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230830_13B-Q5_K_M_Kimiko_V2.html) | 13B | Q5_K_M | 68.02 | 27.73 | 323 |
-| 313 | [Pygmaltion 2 SuperCOT weighted 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_Pygmaltion_2_SuperCOT_weighted.html) | 13B | Q5_K_M | 70.92 | 29.29 | 275 |
-| 314 | [Phind CodeLlama V1 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_34B-Q4_K_M_Phind_CodeLlama_V1.html) | 34B | Q4_K_M | 79.10 | 26.49 | 217 |
-| 315 | [Hesperus V1 L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_13B-Q5_K_M_Hesperus_V1_L2.html) | 13B | Q5_K_M | 68.11 | 28.67 | 309 |
-| 316 | [Medusa 1.1 L2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q6_K_Medusa_1_1_L2.html) | 7B | Q6_K | 70.91 | 27.69 | 289 |
-| 317 | [SuperCOT L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_SuperCOT_L2.html) | 13B | Q5_K_M | 70.78 | 29.42 | 268 |
-| 318 | [Thespis V0.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_13B-Q5_K_M_Thespis_V0_3.html) | 13B | Q5_K_M | 67.59 | 28.43 | 312 |
-| 319 | [Wizard Vicuna Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_13B-Q5_K_M_Wizard_Vicuna_Uncensored.html) | 13B | Q5_K_M | 74.08 | 29.57 | 231 |
-| 320 | [LLaMA 2 Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_LLaMA_2_Chat.html) | 13B | Q5_K_M | 74.29 | 27.55 | 250 |
-| 321 | [Dans AdventurousWinds 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Dans_AdventurousWinds.html) | 7B | Q5_K_M | 72.38 | 24.93 | 298 |
-| 322 | [LosslessMegaCoder Mini 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_LosslessMegaCoder_Mini.html) | 7B | Q5_K_M | 69.96 | 30.37 | 263 |
-| 323 | [Airoboros C 2.2 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_34B-Q4_K_M_Airoboros_C_2_2.html) | 34B | Q4_K_M | 74.48 | 24.12 | 281 |
-| 324 | [EM German V01 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_EM_German_V01.html) | 13B | Q5_K_M | 68.03 | 26.36 | 325 |
-| 325 | [Pygmalion 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Pygmalion_2.html) | 13B | Q5_K_M | 69.17 | 29.05 | 284 |
-| 326 | [Vicuna v1.5 16K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Vicuna_v1_5_16K.html) | 7B | Q5_K_M | 71.41 | 31.35 | 234 |
-| 327 | [Fireflx v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Fireflx_v1_2.html) | 13B | Q5_K_M | 69.25 | 28.70 | 285 |
-| 328 | [LLaMA 30B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_30B-Q4_K_M_LLaMA.html) | 30B | Q4_K_M | 67.12 | 28.25 | 311 |
-| 329 | [Chronolima Airo Grad L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Chronolima_Airo_Grad_L2.html) | 13B | Q5_K_M | 70.09 | 27.44 | 288 |
-| 330 | [AgentLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_7B-Q5_K_M_AgentLM.html) | 7B | Q5_K_M | 77.02 | 29.45 | 190 |
-| 331 | [Zarablend MX 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarablend_MX.html) | 7B | Q5_K_M | 65.60 | 29.20 | 313 |
-| 332 | [Airoboros 2.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_Airoboros_2_1.html) | 7B | Q5_K_M | 63.29 | 28.25 | 346 |
-| 333 | [Nous Capybara 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_Nous_Capybara.html) | 7B | Q5_K_M | 63.69 | 33.01 | 291 |
-| 334 | [LLaMA-2 Silverlin. Verilog 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q4_K_M_LLaMA-2_Silverlin__Verilog.html) | 7B | Q4_K_M | 77.03 | 29.56 | 186 |
-| 335 | [Airoboros L2 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_7B-Q5_K_M_Airoboros_L2_2_2.html) | 7B | Q5_K_M | 67.07 | 29.61 | 288 |
-| 336 | [Tsukasa LimaRP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_Tsukasa_LimaRP.html) | 13B | Q5_K_M | 68.43 | 20.93 | 365 |
-| 337 | [Skywork Airoboros Test 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_13B-Q4_K_M_Skywork_Airoboros_Test.html) | 13B | Q4_K_M | 70.60 | 22.43 | 325 |
-| 338 | [Saiga 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230917_13B-Q5_K_Saiga_2.html) | 13B | Q5_K | 66.53 | 28.01 | 307 |
-| 339 | [Airoboros 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_7B-Q5_K_M_Airoboros_2_2.html) | 7B | Q5_K_M | 67.10 | 29.55 | 284 |
-| 340 | [Mistral Instruct v0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_Instruct_v0_1.html) | 7B | Q5_K_M | 67.07 | 29.81 | 279 |
-| 341 | [Kuchiki 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_M_Kuchiki_1_1.html) | 7B | Q5_K_M | 62.83 | 29.69 | 325 |
-| 342 | [KAI Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_KAI_Instruct.html) | 7B | Q5_K_M | 67.11 | 30.24 | 273 |
-| 343 | [Luna AI LLaMA-2 Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Luna_AI_LLaMA-2_Uncensored.html) | 7B | Q5_K_M | 67.13 | 32.85 | 245 |
-| 344 | [Claude 2 Alpaca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_7B-Q5_K_M_Claude_2_Alpaca.html) | 7B | Q5_K_M | 67.78 | 30.95 | 258 |
-| 345 | [Vicuna v1.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Vicuna_v1_5.html) | 7B | Q5_K_M | 72.72 | 29.03 | 226 |
-| 346 | [Python Code 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_13B-Q5_K_M_Python_Code.html) | 13B | Q5_K_M | 71.04 | 27.93 | 253 |
-| 347 | [MistRP v1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_7B-Q8_0_MistRP_v1_1.html) | 7B | Q8_0 | 70.37 | 26.05 | 279 |
-| 348 | [Thespis V0.4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_Thespis_V0_4.html) | 13B | Q5_K_M | 69.86 | 27.96 | 264 |
-| 349 | [CAMEL Combined Data 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_CAMEL_Combined_Data.html) | 33B | Q4_K_M | 67.21 | 29.38 | 277 |
-| 350 | [Befenghuang Vigogne 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q5_K_S_Befenghuang_Vigogne_2_Chat.html) | 7B | Q5_K_S | 69.80 | 26.82 | 276 |
-| 351 | [Cat V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_13B-Q5_K_M_Cat_V1_0.html) | 13B | Q5_K_M | 68.13 | 26.12 | 301 |
-| 352 | [LlongOrca 16K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_LlongOrca_16K.html) | 7B | Q5_K_M | 68.52 | 25.52 | 302 |
-| 353 | [LLaMA 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA_2_Chat.html) | 7B | Q5_K_M | 74.44 | 28.89 | 203 |
-| 354 | [Python Code 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_33B-Q4_K_M_Python_Code.html) | 33B | Q4_K_M | 77.21 | 27.18 | 191 |
-| 355 | [Skywork Spicyboros 3.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_13B-Q4_K_M_Skywork_Spicyboros_3_1.html) | 13B | Q4_K_M | 67.55 | 26.33 | 300 |
-| 356 | [MedLLaMA-2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_S_MedLLaMA-2_Chat.html) | 7B | Q5_K_S | 69.89 | 26.49 | 273 |
-| 357 | [Skywork Airo Claude Pippa Puffin 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_13B-Q4_K_M_Skywork_Airo_Claude_Pippa_Puffin.html) | 13B | Q4_K_M | 71.44 | 22.44 | 298 |
-| 358 | [Mistral Airoboros RP V1 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q6_K_Mistral_Airoboros_RP_V1.html) | 11B | Q6_K | 72.46 | 22.43 | 279 |
-| 359 | [Xwin LM V0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_7B-Q5_K_M_Xwin_LM_V0_1.html) | 7B | Q5_K_M | 65.09 | 35.85 | 214 |
-| 360 | [Mistral Ita 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Mistral_Ita.html) | 7B | Q5_K_M | 75.58 | 25.91 | 207 |
-| 361 | [Airoboros GPT4 1.4.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Airoboros_GPT4_1_4_1.html) | 7B | Q5_K_M | 63.90 | 31.73 | 268 |
-| 362 | [AgentLM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231020_13B-Q5_K_M_AgentLM.html) | 13B | Q5_K_M | 72.63 | 28.64 | 206 |
-| 363 | [Free Sydney V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Free_Sydney_V2.html) | 13B | Q5_K_M | 74.72 | 18.61 | 287 |
-| 364 | [Ziya Coding V1.0 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_34B-Q4_K_M_Ziya_Coding_V1_0.html) | 34B | Q4_K_M | 75.44 | 21.74 | 246 |
-| 365 | [Airoboros 2.1 YaRN 64K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_2_1_YaRN_64K.html) | 13B | Q5_K_M | 62.12 | 28.13 | 319 |
-| 366 | [Leo Hessianai Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_Leo_Hessianai_Chat.html) | 7B | Q5_K_M | 67.73 | 29.42 | 244 |
-| 367 | [Yi 200K 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_6B-Q5_K_M_Yi_200K.html) | 6B | Q5_K_M | 68.13 | 25.12 | 285 |
-| 368 | [Guanaco Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Guanaco_Uncensored.html) | 7B | Q5_K_M | 63.16 | 28.64 | 299 |
-| 369 | [Airoboros L2 2.2.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_Airoboros_L2_2_2_1.html) | 7B | Q5_K_M | 65.94 | 26.62 | 290 |
-| 370 | [Yi 200K 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_6B-Q6_K_Yi_6B_200K.html) | 6B | Q6_K | 67.97 | 24.04 | 295 |
-| 371 | [Airoboros GPT4 m2.0 LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Airoboros_GPT4_m2_0_LLaMA-2.html) | 7B | Q5_K_M | 69.69 | 30.00 | 212 |
-| 372 | [Yi 200K 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_34B-Q5_K_M_Yi_200K.html) | 34B | Q5_K_M | 60.97 | 27.05 | 334 |
-| 373 | [Yi 200K LLaMAfied 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_34B-Q5_K_M_Yi_200K_LLaMAfied.html) | 34B | Q5_K_M | 60.97 | 27.05 | 334 |
-| 374 | [Barcenas Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Barcenas_Mistral.html) | 7B | Q5_K_M | 69.23 | 28.30 | 233 |
-| 375 | [Saiga 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_Saiga_2.html) | 7B | Q5_K | 64.28 | 28.78 | 278 |
-| 376 | [LLaMA-2 Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_LLaMA-2_Mistral.html) | 13B | Q5_K_M | 63.43 | 26.59 | 309 |
-| 377 | [Tsukasa Limarp 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_Tsukasa_Limarp.html) | 7B | Q5_K_M | 65.85 | 21.52 | 337 |
-| 378 | [Mistral Pygmalion 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231019_7B-Q5_K_M_Mistral_Pygmalion.html) | 7B | Q5_K_M | 64.50 | 26.55 | 297 |
-| 379 | [Krakowiak 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q4_K_M_Krakowiak.html) | 7B | Q4_K_M | 63.13 | 26.07 | 315 |
-| 380 | [Pygmalion 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Pygmalion_2.html) | 7B | Q5_K_M | 64.76 | 27.18 | 285 |
-| 381 | [MedLLama 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230902_7B-Q5_K_M_MedLLama.html) | 7B | Q5_K_M | 70.60 | 27.18 | 219 |
-| 382 | [Guanaco Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Guanaco_Uncensored.html) | 13B | Q5_K_M | 62.92 | 28.89 | 282 |
-| 383 | [ZaraRP 1.1 L2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_7B-Q5_K_M_ZaraRP_1_1_L2.html) | 7B | Q5_K_M | 71.74 | 26.00 | 217 |
-| 384 | [Kimiko 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Kimiko.html) | 7B | Q5_K_M | 60.79 | 24.62 | 347 |
-| 385 | [Prometheus V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231019_7B-Q8_0_Prometheus_V1_0.html) | 7B | Q8_0 | 69.44 | 23.30 | 264 |
-| 386 | [Mistral NSFWSTORY LoRA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Mistral_NSFWSTORY_LoRA.html) | 7B | Q5_K_M | 68.93 | 21.95 | 282 |
-| 387 | [LLaMA 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_LLaMA_2.html) | 13B | Q5_K_M | 63.36 | 27.35 | 272 |
-| 388 | [Samantha Mistral Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Samantha_Mistral_Instruct.html) | 7B | Q5_K_M | 61.82 | 29.73 | 262 |
-| 389 | [Yi 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_6B-Q6_K_Yi_6B.html) | 6B | Q6_K | 67.98 | 21.69 | 279 |
-| 390 | [RPGuild ChatML 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_RPGuild_ChatML.html) | 13B | Q5_K_M | 63.24 | 23.64 | 307 |
-| 391 | [Taiwan LLM V2.0 Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_13B-Q5_1_Taiwan_LLM_V2_0_Chat.html) | 13B | Q5_1 | 63.22 | 26.29 | 279 |
-| 392 | [EM German V01 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_EM_German_V01.html) | 7B | Q5_K_M | 63.92 | 26.58 | 263 |
-| 393 | [LLaMA-2 Coder 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q5_K_M_LLaMA-2_Coder.html) | 7B | Q5_K_M | 61.96 | 27.01 | 279 |
-| 394 | [Rinna Youri Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri_Chat.html) | 7B | Q5_K_M | 70.46 | 22.56 | 235 |
-| 395 | [LLaMA-2 PeanutButter v19 R8 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_LLaMA-2_PeanutButter_v19_R8.html) | 7B | Q5_K_M | 61.12 | 25.67 | 294 |
-| 396 | [LLaMA-2 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_7B-Q5_K_M_LLaMA-2_Mistral.html) | 7B | Q5_K_M | 60.73 | 25.38 | 301 |
-| 397 | [ELYZA Jp LLaMA-2 Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_ELYZA_Jp_LLaMA-2_Instruct.html) | 7B | Q5_K_M | 69.42 | 29.17 | 164 |
-| 398 | [Tulu 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Tulu.html) | 7B | Q5_K_M | 75.18 | 21.44 | 185 |
-| 399 | [LLaMA 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA_2.html) | 7B | Q5_K_M | 60.86 | 24.56 | 302 |
-| 400 | [Skywork Base 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_13B-Q5_K_M_Skywork_Base.html) | 13B | Q5_K_M | 65.81 | 21.10 | 286 |
-| 401 | [Rinna Youri Instruction 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri_Instruction.html) | 7B | Q5_K_M | 72.36 | 19.42 | 233 |
-| 402 | [Medusa 1.3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Medusa_1_3.html) | 7B | Q5_K_M | 62.86 | 22.66 | 296 |
-| 403 | [Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_34B-Q4_K_M_Yi.html) | 34B | Q4_K_M | 57.91 | 27.45 | 295 |
-| 404 | [Typly Pigeon 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q4_K_M_Typly_Pigeon.html) | 7B | Q4_K_M | 61.85 | 24.14 | 288 |
-| 405 | [Mimicra V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_13B-Q5_K_M_Mimicra_V1.html) | 13B | Q5_K_M | 68.30 | 19.63 | 263 |
-| 406 | [LLaMA-2 Galleon 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA-2_Galleon.html) | 7B | Q5_K_M | 65.46 | 25.47 | 215 |
-| 407 | [Frank Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Frank_Uncensored.html) | 7B | Q5_K_M | 61.36 | 28.91 | 219 |
-| 408 | [WizardLM V1.0 Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_WizardLM_V1_0_Uncensored.html) | 7B | Q5_K_M | 61.44 | 24.20 | 259 |
-| 409 | [MiniChat 3B 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_3B-Q8_0_MiniChat_3B.html) | 3B | Q8_0 | 60.71 | 24.77 | 255 |
-| 410 | [Ganchengguang Yoko Japanse v0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q5_K_S_Ganchengguang_Yoko_Japanse_v0.html) | 7B | Q5_K_S | 61.93 | 26.79 | 215 |
-| 411 | [LLaMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_13B-Q5_K_M_LLaMA.html) | 13B | Q5_K_M | 62.01 | 24.25 | 238 |
-| 412 | [Wizard Vicuna Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Wizard_Vicuna_Uncensored.html) | 7B | Q5_K_M | 61.50 | 24.81 | 235 |
-| 413 | [Rinna Youri 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri.html) | 7B | Q5_K_M | 57.01 | 21.95 | 306 |
-| 414 | [LLaMA-2 Instruct 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_LLaMA-2_Instruct_32K.html) | 7B | Q5_K_M | 60.81 | 20.81 | 275 |
-| 415 | [ELYZA Jp LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_ELYZA_Jp_LLaMA-2.html) | 7B | Q5_K_M | 62.34 | 28.02 | 174 |
-| 416 | [Leo Mistral Hessianai Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231016_7B-Q5_K_M_Leo_Mistral_Hessianai_Chat.html) | 7B | Q5_K_M | 67.65 | 25.64 | 141 |
-| 417 | [MAmmoTH 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_MAmmoTH.html) | 7B | Q5_K_M | 59.44 | 25.42 | 227 |
-| 418 | [Chinese Alpaca 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_S_Chinese_Alpaca_2.html) | 7B | Q5_K_S | 59.04 | 27.17 | 182 |
-| 419 | [Marx V2 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230823_3B-Q4_1_Marx_V2.html) | 3B | Q4_1 | 50.47 | 22.92 | 313 |
-| 420 | [CodeLLaMA Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA_Instruct.html) | 7B | Q5_K_M | 62.18 | 19.39 | 223 |
-| 421 | [ALMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q6_K_ALMA.html) | 13B | Q6_K | 59.92 | 25.36 | 182 |
-| 422 | [Uncensored Jordan 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Uncensored_Jordan.html) | 7B | Q5_K_M | 62.20 | 23.61 | 173 |
-| 423 | [WizardLM Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_WizardLM_Uncensored.html) | 7B | Q5_K_M | 55.70 | 32.57 | 142 |
-| 424 | [Nous Yarn 64K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_Nous_Yarn_64K.html) | 7B | Q5_K_M | 55.98 | 21.21 | 255 |
-| 425 | [Pandalyst V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_Pandalyst_V1_0.html) | 13B | Q5_K_M | 65.73 | 16.98 | 192 |
-| 426 | [CodeLLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA.html) | 7B | Q5_K_M | 57.78 | 21.41 | 229 |
-| 427 | [MiniMA 3B 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_3B-Q8_0_MiniMA_3B.html) | 3B | Q8_0 | 56.47 | 22.05 | 234 |
-| 428 | [LLaMA-2 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_LLaMA-2_32K.html) | 7B | Q5_K_M | 61.02 | 17.02 | 229 |
-| 429 | [Open LLaMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_13B-Q5_K_M_Open_LLaMA.html) | 13B | Q5_K_M | 61.16 | 20.10 | 193 |
-| 430 | [Chinese LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_Chinese_LLaMA-2.html) | 7B | Q5_K | 59.02 | 19.49 | 216 |
-| 431 | [ALMA Pretrain 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_ALMA_Pretrain.html) | 7B | Q5_K_M | 57.56 | 22.48 | 199 |
-| 432 | [Mamba GPT v4 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_3B-Q5_1_Mamba_GPT_v4.html) | 3B | Q5_1 | 49.43 | 23.27 | 276 |
-| 433 | [OpenLLaMA v2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_OpenLLaMA_v2.html) | 7B | Q5_K_M | 48.24 | 21.86 | 301 |
-| 434 | [Nous Yarn 128K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_Nous_Yarn_128K.html) | 7B | Q5_K_M | 54.82 | 20.88 | 239 |
-| 435 | [WizardCoder Python V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_M_WizardCoder_Python_V1_0.html) | 7B | Q5_K_M | 57.26 | 18.82 | 235 |
-| 436 | [LLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q6_K_LLaMA.html) | 7B | Q6_K | 59.53 | 18.20 | 216 |
-| 437 | [TinyLlama 1.1B Chat V0.3 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q5_K_M_TinyLlama_1_1B_Chat_V0_3.html) | 1B | Q5_K_M | 52.81 | 19.91 | 265 |
-| 438 | [Sheared LLaMA 2 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231012_2B-Q5_K_M_Sheared_LLaMA_2.html) | 2B | Q5_K_M | 54.01 | 18.66 | 256 |
-| 439 | [Guanaco 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Guanaco.html) | 7B | Q5_K_M | 56.59 | 22.32 | 188 |
-| 440 | [OpenLLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_OpenLLaMA.html) | 7B | Q5_K_M | 56.29 | 21.05 | 196 |
-| 441 | [Deacon 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_3B-Q5_0_Deacon.html) | 3B | Q5_0 | 54.24 | 21.83 | 208 |
-| 442 | [ALMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_7B-Q6_K_ALMA.html) | 7B | Q6_K | 57.51 | 20.35 | 187 |
-| 443 | [Vicuna CoT 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Vicuna_CoT.html) | 7B | Q5_K_M | 56.57 | 22.84 | 169 |
-| 444 | [Bling Sheared LLaMA 2 0.1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_1B-Q8_0_Bling_Sheared_LLaMA_2_0_1.html) | 1B | Q8_0 | 53.98 | 17.29 | 254 |
-| 445 | [TinyLlama 1T OpenOrca 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_1B-Q5_K_M_TinyLlama_1T_OpenOrca.html) | 1B | Q5_K_M | 56.11 | 16.46 | 236 |
-| 446 | [Claire 0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_7B-Q4_0_Claire_0_1.html) | 7B | Q4_0 | 56.27 | 21.58 | 178 |
-| 447 | [LLaMA-2 KO Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_1_LLaMA-2_KO_Chat.html) | 7B | Q5_1 | 57.29 | 18.75 | 195 |
-| 448 | [OpenLLaMA 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_3B-Q5_1_OpenLLaMA.html) | 3B | Q5_1 | 53.17 | 20.26 | 222 |
-| 449 | [Airoboros M 3.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_Airoboros_M_3_0.html) | 7B | Q5_K_M | 60.40 | 14.64 | 202 |
-| 450 | [CodeLLaMA Python 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA_Python.html) | 7B | Q5_K_M | 56.54 | 21.24 | 168 |
-| 451 | [Shearedplats 2 V1 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_2B-Q4_0_Shearedplats_2_V1.html) | 2B | Q4_0 | 54.70 | 18.62 | 208 |
-| 452 | [Bling Sheared LLaMA 2 0.1 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_2B-Q8_0_Bling_Sheared_LLaMA_2_0_1.html) | 2B | Q8_0 | 52.80 | 18.38 | 226 |
-| 453 | [Sheared LLaMA 2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231010_1B-Q8_0_Sheared_LLaMA_2.html) | 1B | Q8_0 | 52.80 | 19.54 | 208 |
-| 454 | [OpenLLaMA v2 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230821_3B-Q5_0_OpenLLaMA_v2.html) | 3B | Q5_0 | 48.65 | 20.41 | 233 |
-| 455 | [Puma 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_3B-Q4_1_Puma.html) | 3B | Q4_1 | 47.89 | 24.85 | 190 |
-| 456 | [Gorilla 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Gorilla.html) | 7B | Q5_K_M | 60.02 | 10.38 | 203 |
-| 457 | [Open Cabrita 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230828_3B-Q5_1_Open_Cabrita.html) | 3B | Q5_1 | 53.59 | 17.36 | 191 |
-| 458 | [TinyAiroboros 2.2.1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q6_K_TinyAiroboros_2_2_1.html) | 1B | Q6_K | 52.78 | 15.86 | 213 |
-| 459 | [Pandalyst V1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_7B-Q5_K_M_Pandalyst_V1_2.html) | 7B | Q5_K_M | 59.87 | 11.61 | 178 |
-| 460 | [Pandalyst V1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Pandalyst_V1_1.html) | 7B | Q5_K_M | 60.35 | 11.63 | 158 |
-| 461 | [Smartyplats 1.1b V1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_1B-Q8_0_Smartyplats_1_1b_V1.html) | 1B | Q8_0 | 51.29 | 16.34 | 157 |
-| 462 | [TinyLLaMA MiniGuanaco 1.5T 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q8_0_TinyLLaMA_MiniGuanaco_1_5T.html) | 1B | Q8_0 | 51.70 | 14.81 | 144 |
-| 463 | [Based 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Based.html) | 7B | Q5_K_M | 64.80 | 6.91 | 79 |
-| 464 | [WizardLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_WizardLM.html) | 7B | Q5_K_M | 49.35 | 3.74 | 245 |
-| 465 | [TinyMistral 248M 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_1B-Q8_0_TinyMistral_248M.html) | 1B | Q8_0 | 50.91 | 2.73 | 120 |
-| 466 | [CyberAgentLM2 Calm 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_CyberAgentLM2_Calm_2_Chat.html) | 7B | Q5_K_M | 51.65 | 4.52 | 43 |
-| 467 | [PY007 TinyLLaMA Chat v0.2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230917_1B-Q8_0_PY007_TinyLLaMA_Chat_v0_2.html) | 1B | Q8_0 | 53.84 | 0.20 | 3 |
-| 468 | [Giraffe V2 32k 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Giraffe_V2_32k.html) | 13B | Q5_K_M | 51.76 | 0.00 | 0 |
-| 469 | [Azale AI Starstreak Alpha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_S_Azale_AI_Starstreak_Alpha.html) | 7B | Q5_K_S | 51.22 | 0.22 | 3 |
-| 470 | [Yi 6B 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_6B-Q6_K_Yi_6B.html) | 6B | Q6_K |  |  |  |
+| 42 | [ShiningValiantXS 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_13B-Q5_K_M_ShiningValiantXS.html) | 13B | Q5_K_M | 89.75 | 25.96 | 379 |
+| 43 | [Mistral OpenOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_Mistral_OpenOrca.html) | 7B | Q5_K_M | 86.48 | 28.91 | 381 |
+| 44 | [Dolphin 2.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_70B-Q4_K_M_Dolphin_2_2.html) | 70B | Q4_K_M | 88.57 | 30.85 | 337 |
+| 45 | [LLaMA-2 Chat AYT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_LLaMA-2_Chat_AYT.html) | 13B | Q5_K_M | 89.88 | 26.82 | 364 |
+| 46 | [Augmental Unholy 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_13B-Q5_K_M_Augmental_Unholy.html) | 13B | Q5_K_M | 85.38 | 31.33 | 362 |
+| 47 | [Nete 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231026_13B-Q5_K_M_Nete.html) | 13B | Q5_K_M | 79.74 | 30.16 | 434 |
+| 48 | [Athena V4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_B-Q5_K_M_Athena_V4.html) | 13B | Q5_K_M | 80.98 | 30.95 | 411 |
+| 49 | [Airoboros L2 2.2.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_70B-Q4_K_M_Airoboros_L2_2_2_1.html) | 70B | Q4_K_M | 87.47 | 30.50 | 346 |
+| 50 | [X MythoChronos 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231118_13B-Q5_K_M_X_MythoChronos.html) | 13B | Q5_K_M | 80.40 | 31.43 | 409 |
+| 51 | [MistralMakise Merged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_13B-Q5_K_M_MistralMakise_Merged.html) | 13B | Q5_K_M | 80.73 | 29.43 | 425 |
+| 52 | [MLewdBoros SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_MLewdBoros_SuperCOT.html) | 13B | Q5_K_M | 82.63 | 32.96 | 366 |
+| 53 | [LLaMA-2 Chat AYB 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_13B-Q5_K_M_LLaMA-2_Chat_AYB.html) | 13B | Q5_K_M | 87.83 | 28.75 | 355 |
+| 54 | [Nethena 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Nethena.html) | 13B | Q5_K_M | 80.40 | 31.44 | 404 |
+| 55 | [Echidna V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_Echidna_V0_1.html) | 13B | Q5_K_M | 80.41 | 31.80 | 400 |
+| 56 | [Unholy v1 12L 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Unholy_v1_12L.html) | 13B | Q5_K_M | 82.39 | 31.21 | 385 |
+| 57 | [Noromaid V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Noromaid_V0_1.html) | 13B | Q5_K_M | 77.94 | 27.78 | 468 |
+| 58 | [Hermes Trismegistus Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_7B-Q5_K_M_Hermes_Trismegistus_Mistral.html) | 7B | Q5_K_M | 87.87 | 30.66 | 331 |
+| 59 | [HornyEchidna V0.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-24_13B-Q5_K_M_HornyEchidna_V0_1.html) | 13B | Q5_K_M | 80.48 | 30.74 | 405 |
+| 60 | [Euryale 1.4 L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_70B-Q4_K_S_Euryale_1_4_L2.html) | 70B | Q4_K_S | 85.79 | 29.68 | 360 |
+| 61 | [Airoboros L2 2.1 Creative 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_70B-Q4_K_M_Airoboros_L2_2_1_Creative.html) | 70B | Q4_K_M | 83.27 | 30.23 | 379 |
+| 62 | [Noromaid V0.1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_13B-Q5_K_M_Noromaid_V0_1_1.html) | 13B | Q5_K_M | 81.25 | 31.98 | 378 |
+| 63 | [Airoboros L2 3.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231016_70B-Q4_K_M_Airoboros_L2_3_1.html) | 70B | Q4_K_M | 84.85 | 29.26 | 368 |
+| 64 | [Trion M 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_7B-Q4_K_Trion_M.html) | 7B | Q4_K | 87.57 | 30.92 | 321 |
+| 65 | [Athena v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_13B-Q5_K_M_Athena_v3.html) | 13B | Q5_K_M | 81.45 | 32.76 | 366 |
+| 66 | [OpenHermes 2.5 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_OpenHermes_2_5_Mistral.html) | 7B | Q5_K_M | 87.65 | 29.17 | 337 |
+| 67 | [Airoboros L2 3.1.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_70B-Q4_K_M_Airoboros_L2_3_1_2.html) | 70B | Q4_K_M | 82.96 | 28.51 | 392 |
+| 68 | [Zephyr Beta 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_Zephyr_Beta.html) | 7B | Q5_K_M | 85.83 | 31.92 | 323 |
+| 69 | [UtopiaXL 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_13B-Q5_K_M_UtopiaXL.html) | 13B | Q5_K_M | 77.18 | 28.39 | 451 |
+| 70 | [Dolphin 2.1 OpenOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Dolphin_2_1_OpenOrca.html) | 7B | Q5_K_M | 86.27 | 29.64 | 339 |
+| 71 | [PsyFighter 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_13B-Q5_K_M_Psyfighter.html) | 13B | Q5_K_M | 78.53 | 30.46 | 409 |
+| 72 | [Amethyst 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230924_13B-Q5_K_M_Amethyst.html) | 13B | Q5_K_M | 80.06 | 26.90 | 430 |
+| 73 | [Mistral Dolphin 2.1 LIMA0.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-28_7B-Q5_K_M_Mistral_Dolphin_2_1_LIMA0_5.html) | 7B | Q5_K_M | 85.34 | 28.02 | 362 |
+| 74 | [Stheno Inverted 1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_Stheno_Inverted_1_2.html) | 13B | Q5_K_M | 76.95 | 30.98 | 418 |
+| 75 | [Nethena Glued 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_20B-Q4_K_M_Nethena_Glued.html) | 20B | Q4_K_M | 81.26 | 28.15 | 402 |
+| 76 | [Athena v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_Athena_v2.html) | 13B | Q5_K_M | 79.15 | 31.10 | 392 |
+| 77 | [Stheno 1.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Stheno_1_3.html) | 13B | Q5_K_M | 72.94 | 31.12 | 457 |
+| 78 | [MLewd v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_MLewd_v2.html) | 13B | Q5_K_M | 77.99 | 31.81 | 395 |
+| 79 | [MLewd V2-1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_MLewd_V2-1.html) | 13B | Q5_K_M | 76.63 | 30.48 | 422 |
+| 80 | [Unholy v1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_Unholy_v1_1.html) | 13B | Q5_K_M | 86.20 | 30.72 | 318 |
+| 81 | [Dolphin 2.2 Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_34B-Q4_K_M_Dolphin_2_2_Yi.html) | 34B | Q4_K_M | 87.46 | 31.62 | 295 |
+| 82 | [Noromaid V0.1.1 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_20B-Q5_K_M_Noromaid_V0_1_1.html) | 20B | Q5_K_M | 83.18 | 30.14 | 356 |
+| 83 | [MLewd Chat V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_MLewd_Chat_V2.html) | 13B | Q5_K_M | 82.48 | 27.69 | 389 |
+| 84 | [Airoboros L2 GPT4 1.4.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Airoboros_L2_GPT4_1_4_1.html) | 70B | Q4_K_M | 82.93 | 28.47 | 376 |
+| 85 | [Synthia V1.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_70B-Q4_K_M_Synthia_V1_1.html) | 70B | Q4_K_M | 82.94 | 30.00 | 359 |
+| 86 | [MLewd V2.4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_MLewd_V2_4.html) | 13B | Q5_K_M | 78.01 | 28.23 | 430 |
+| 87 | [OpenRP SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_OpenRP_SuperCOT.html) | 13B | Q5_K_M | 84.47 | 30.59 | 336 |
+| 88 | [BerrySauce 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_BerrySauce.html) | 13B | Q5_K_M | 77.09 | 32.42 | 394 |
+| 89 | [ReMM Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_ReMM_Mistral.html) | 13B | Q5_K_M | 80.58 | 28.63 | 396 |
+| 90 | [Xwin MLewd V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-15_13B-Q5_K_M_Xwin_MLewd_V0_2.html) | 13B | Q5_K_M | 78.53 | 29.06 | 412 |
+| 91 | [Thespis Mistral V0.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_7B-Q5_K_M_Thespis_Mistral_V0_5.html) | 7B | Q5_K_M | 82.51 | 33.89 | 318 |
+| 92 | [LLaMA 2 Tiefighter 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_LLaMA_2_Tiefighter.html) | 13B | Q5_K_M | 78.89 | 30.07 | 393 |
+| 93 | [lzlv 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231025_70B-Q4_K_M_lzlv.html) | 70B | Q4_K_M | 86.02 | 29.61 | 321 |
+| 94 | [MLewdBoros 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_MLewdBoros.html) | 13B | Q5_K_M | 75.78 | 31.52 | 407 |
+| 95 | [ReMM v2 Kimiko v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_ReMM_v2_Kimiko_v2.html) | 13B | Q5_K_M | 81.60 | 29.65 | 365 |
+| 96 | [Dolphin 2.2.1 AshhLimaRP Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_7B-Q5_K_M_Dolphin_2_2_1_AshhLimaRP_Mistral.html) | 7B | Q5_K_M | 85.00 | 27.09 | 355 |
+| 97 | [ReMM v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_v2.html) | 13B | Q5_K_M | 78.69 | 31.74 | 372 |
+| 98 | [Stheno Variants L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_Stheno_Variants_L2.html) | 13B | Q5_K_M | 76.91 | 31.09 | 397 |
+| 99 | [Kaori V1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_70B-Q4_K_M_Kaori_V1.html) | 70B | Q4_K_M | 81.40 | 29.63 | 365 |
+| 100 | [Amethyst Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q4_K_S_Amethyst_Mistral.html) | 13B | Q4_K_S | 79.25 | 26.53 | 419 |
+| 101 | [Naberius 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_7B-Q5_K_M_Naberius.html) | 7B | Q5_K_M | 85.44 | 29.89 | 317 |
+| 102 | [Dolphin 2.2.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Dolphin_2_2_1_Mistral.html) | 7B | Q5_K_M | 85.99 | 29.25 | 317 |
+| 103 | [MythoMax Kimiko Mix 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_MythoMax_Kimiko_Mix.html) | 13B | Q5_K_M | 79.60 | 29.16 | 385 |
+| 104 | [Mistral AirOmniMix 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_11B-Q6_K_Mistral_AirOmniMix.html) | 11B | Q6_K | 83.39 | 29.89 | 337 |
+| 105 | [AppleSauce 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_AppleSauce.html) | 13B | Q5_K_M | 76.47 | 32.42 | 383 |
+| 106 | [Euryale 1.3 L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_70B-Q4_K_M_Euryale_1_3_L2.html) | 70B | Q4_K_M | 84.26 | 26.92 | 358 |
+| 107 | [TimeCrystal L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_13B-Q5_K_M_TimeCrystal_L2.html) | 13B | Q5_K_M | 77.82 | 31.49 | 376 |
+| 108 | [Chronob 1.4 Lin 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_70B-Q4_K_S_Chronob_1_4_Lin.html) | 70B | Q4_K_S | 80.65 | 29.14 | 371 |
+| 109 | [Hexoteric 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Hexoteric.html) | 7B | Q5_K_M | 87.49 | 31.81 | 270 |
+| 110 | [MistralLite 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-19_7B-Q5_K_M_MistralLite.html) | 7B | Q5_K_M | 82.20 | 28.93 | 356 |
+| 111 | [MistRP AirOrca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_MistRP_AirOrca.html) | 7B | Q5_K_M | 84.09 | 29.26 | 332 |
+| 112 | [Kanelsnegl V0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_7B-Q4_K_Kanelsnegl_V0_1.html) | 7B | Q4_K | 85.56 | 29.15 | 317 |
+| 113 | [MythoMax Kimiko V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_MythoMax_Kimiko_V2.html) | 13B | Q5_K_M | 79.53 | 28.94 | 381 |
+| 114 | [OpenChat 3.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_B-Q5_K_M_OpenChat_3_5.html) | 7B | Q5_K_M | 88.09 | 28.63 | 293 |
+| 115 | [Echidna V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231026_13B-Q5_K_M_Echidna_V0_2.html) | 13B | Q5_K_M | 78.56 | 31.22 | 366 |
+| 116 | [MLewd Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_MLewd_Chat.html) | 13B | Q5_K_M | 83.69 | 28.88 | 336 |
+| 117 | [OpenRP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_OpenRP.html) | 13B | Q5_K_M | 77.04 | 28.42 | 411 |
+| 118 | [L2 TheSpurral M2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231103_13B-Q5_K_M_L2_TheSpurral_M2_2.html) | 13B | Q5_K_M | 78.49 | 30.83 | 369 |
+| 119 | [Stheno Inverted 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_Stheno_Inverted.html) | 13B | Q5_K_M | 77.19 | 29.65 | 393 |
+| 120 | [MXLewdMini 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_13B-Q5_K_M_MXLewdMini.html) | 13B | Q5_K_M | 79.11 | 31.94 | 347 |
+| 121 | [Airoboros M 3.1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_7B-Q5_K_M_Airoboros_M_3_1_1.html) | 7B | Q5_K_M | 83.01 | 32.72 | 297 |
+| 122 | [TimeCrystal l2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_13B-Q5_K_S_TimeCrystal_l2.html) | 13B | Q5_K_S | 77.57 | 30.11 | 382 |
+| 123 | [StableBeluga 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_StableBeluga.html) | 13B | Q5_K_M | 82.65 | 28.02 | 350 |
+| 124 | [Augmental ReMM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Augmental_ReMM.html) | 13B | Q5_K_M | 75.45 | 28.32 | 423 |
+| 125 | [OpenHermes 2 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-14_7B-Q5_K_M_OpenHermes_2_Mistral.html) | 7B | Q5_K_M | 84.16 | 30.08 | 312 |
+| 126 | [MLewd v2-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_MLewd_v2-2.html) | 13B | Q5_K_M | 76.26 | 31.85 | 376 |
+| 127 | [UndiMix v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_UndiMix_v3.html) | 13B | Q5_K_M | 78.32 | 30.55 | 368 |
+| 128 | [Zaraxls 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230827_7B-Q5_K_M_Zaraxls.html) | 7B | Q5_K_M | 74.56 | 30.29 | 410 |
+| 129 | [Magdump 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230924_13B-Q5_K_M_Magdump.html) | 13B | Q5_K_M | 78.09 | 28.74 | 389 |
+| 130 | [UndiMix V3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_13B-Q5_K_M_UndiMix_V3.html) | 13B | Q5_K_M | 78.25 | 31.68 | 356 |
+| 131 | [Echidna V0.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231027_13B-Q5_K_M_Echidna_V0_3.html) | 13B | Q5_K_M | 78.52 | 30.19 | 368 |
+| 132 | [Unholy v1 10L 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Unholy_v1_10L.html) | 13B | Q5_K_M | 80.59 | 29.19 | 355 |
+| 133 | [Tai 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_70B-Q4_K_M_Tai.html) | 70B | Q4_K_M | 79.69 | 29.76 | 357 |
+| 134 | [Dawn V2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_70B-Q4_K_M_Dawn_V2.html) | 70B | Q4_K_M | 86.62 | 27.47 | 308 |
+| 135 | [Mistral SciPhi 32k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_7B-Q5_K_M_Mistral_SciPhi_32k.html) | 7B | Q5_K_M | 83.43 | 29.02 | 325 |
+| 136 | [SynthIA V1.5 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231025_70B-Q4_K_M_SynthIA_V1_5.html) | 70B | Q4_K_M | 79.54 | 29.92 | 356 |
+| 137 | [ReMM SLERP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_ReMM_SLERP.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
+| 138 | [Huginn v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Huginn_v1_2.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
+| 139 | [MythoMax 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoMax.html) | 13B | Q5_K_M | 77.75 | 28.95 | 385 |
+| 140 | [Airoboros 2.1 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_33B-Q4_K_M_Airoboros_2_1.html) | 33B | Q4_K_M | 75.62 | 31.82 | 377 |
+| 141 | [ReMM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_ReMM.html) | 13B | Q5_K_M | 74.55 | 29.07 | 416 |
+| 142 | [SciPhi Self RAG Mistral 32k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_7B-Q5_K_M_SciPhi_Self_RAG_Mistral_32k.html) | 7B | Q5_K_M | 88.00 | 30.06 | 263 |
+| 143 | [ZettaPi 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q5_K_M_ZettaPi.html) | 13B | Q5_K_M | 78.36 | 28.46 | 382 |
+| 144 | [ReMM PIPPA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_ReMM_PIPPA.html) | 13B | Q5_K_M | 74.73 | 29.34 | 410 |
+| 145 | [L2 TheSpurral M2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_S_L2_TheSpurral_M2.html) | 13B | Q5_K_S | 76.32 | 31.43 | 371 |
+| 146 | [MLewd V2-1 015 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q4_K_S_MLewd_V2-1_015.html) | 13B | Q4_K_S | 75.96 | 30.13 | 387 |
+| 147 | [Eileithyia 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_13B-Q5_K_M_Eileithyia.html) | 13B | Q5_K_M | 73.39 | 27.70 | 440 |
+| 148 | [Synthia v1.3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Synthia_v1_3.html) | 7B | Q5_K_M | 78.71 | 32.46 | 333 |
+| 149 | [UndiMix v4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_UndiMix_v4.html) | 13B | Q5_K_M | 79.02 | 32.24 | 332 |
+| 150 | [Chupacabra 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_7B-Q8_0_Chupacabra.html) | 7B | Q8_0 | 87.64 | 26.76 | 299 |
+| 151 | [Augmental V1.50 A 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Augmental_V1_50_A.html) | 13B | Q5_K_M | 77.43 | 29.72 | 375 |
+| 152 | [ReMM v1 LRPSGPT 2Char 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_ReMM_v1_LRPSGPT_2Char.html) | 13B | Q5_K_M | 74.89 | 32.40 | 373 |
+| 153 | [PsyFighter2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_13B-Q5_K_M_PsyFighter2.html) | 13B | Q5_K_M | 78.47 | 27.40 | 387 |
+| 154 | [Emerhyst 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_13B-Q5_K_M_Emerhyst.html) | 13B | Q5_K_M | 78.44 | 25.58 | 404 |
+| 155 | [Tess Medium 200K V1.0 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_B-Q4_K_M_Tess_Medium_200K_V1_0.html) | 34B | Q4_K_M | 76.72 | 29.98 | 375 |
+| 156 | [MythoMix 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoMix.html) | 13B | Q5_K_M | 76.34 | 29.51 | 384 |
+| 157 | [Mistral Phibrarian 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-17_7B-Q5_K_M_Mistral_Phibrarian_32K.html) | 7B | Q5_K_M | 83.54 | 29.50 | 307 |
+| 158 | [Eileithyia 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231113_7B-Q8_0_Eileithyia.html) | 7B | Q8_0 | 83.58 | 27.88 | 323 |
+| 159 | [LimaBean 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_LimaBean.html) | 13B | Q5_K_M | 77.88 | 27.00 | 391 |
+| 160 | [MLewdBoros LRPSGPT 2Char 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_13B-Q5_K_M_MLewdBoros_LRPSGPT_2Char.html) | 13B | Q5_K_M | 76.78 | 28.83 | 382 |
+| 161 | [ReMM v2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_13B-Q5_K_M_ReMM_v2_2.html) | 13B | Q5_K_M | 79.63 | 31.11 | 327 |
+| 162 | [Airoboros M 3.1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-19_7B-Q5_K_M_Airoboros_M_3_1_2.html) | 7B | Q5_K_M | 84.02 | 32.09 | 270 |
+| 163 | [Speechless Mistral Dolphin Orca Platypus Samantha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_7B-Q5_K_M_Speechless_Mistral_Dolphin_Orca_Platypus_Samantha.html) | 7B | Q5_K_M | 84.36 | 27.96 | 310 |
+| 164 | [UndiMix v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_13B-Q5_K_M_UndiMix_v2.html) | 13B | Q5_K_M | 79.50 | 32.22 | 316 |
+| 165 | [Vigostral Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_7B-Q5_K_M_Vigostral_Chat.html) | 7B | Q5_K_M | 81.38 | 30.52 | 314 |
+| 166 | [LLaMA 2 TiefighterLR 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231108_13B-Q5_K_M_LLaMA2_TiefighterLR.html) | 13B | Q5_K_M | 74.47 | 26.75 | 424 |
+| 167 | [Xwin LM V0.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-15_13B-Q5_K_M_Xwin_LM_V0_2.html) | 13B | Q5_K_M | 79.27 | 28.46 | 355 |
+| 168 | [Euryale L2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_70B-Q4_K_M_Euryale_L2.html) | 70B | Q4_K_M | 79.94 | 27.13 | 362 |
+| 169 | [Camel Platypus2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Camel_Platypus2.html) | 70B | Q4_K_M | 82.90 | 26.49 | 337 |
+| 170 | [Tulpar Limarp 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230827_7B-Q5_K_M_Tulpar_Limarp.html) | 7B | Q5_K_M | 78.48 | 28.28 | 364 |
+| 171 | [Yi GiftedConvo Merged 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_34B-Q4_K_M_Yi_GiftedConvo_Merged.html) | 34B | Q4_K_M | 84.65 | 28.19 | 299 |
+| 172 | [PsyMedRP V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_PsyMedRP_V1.html) | 13B | Q5_K_M | 76.76 | 26.07 | 404 |
+| 173 | [SynthiAthena V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230926_13B-Q5_K_M_SynthiAthena_V2.html) | 13B | Q5_K_M | 78.89 | 30.92 | 328 |
+| 174 | [Mistralic 1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Mistralic_1.html) | 7B | Q5_K_M | 80.67 | 28.41 | 335 |
+| 175 | [Uncensored Jordan 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_33B-Q5_K_M_Uncensored_Jordan.html) | 33B | Q5_K_M | 87.37 | 31.75 | 227 |
+| 176 | [Phind CodeLlama V2 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_34B-Q4_K_M_Phind_CodeLlama_V2.html) | 34B | Q4_K_M | 85.07 | 26.77 | 302 |
+| 177 | [Lewd Sydney 20B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_20B-Q4_K_S_Lewd_Sydney.html) | 20B | Q4_K_S | 82.58 | 27.49 | 320 |
+| 178 | [Mistral CC Air 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q5_K_M_Mistral_CC_Air.html) | 11B | Q5_K_M | 79.25 | 29.19 | 337 |
+| 179 | [Chronoboros 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_Chronoboros.html) | 33B | Q4_K_M | 74.93 | 31.21 | 360 |
+| 180 | [Magpie 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_Magpie.html) | 13B | Q5_K_M | 78.02 | 29.06 | 350 |
+| 181 | [Airoboros Mistral 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231003_7B-Q5_K_M_Airoboros_Mistral_2_2.html) | 7B | Q5_K_M | 80.23 | 32.39 | 290 |
+| 182 | [Inkbot 4k 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q4_K_M_Inkbot_4k.html) | 13B | Q4_K_M | 77.20 | 28.14 | 367 |
+| 183 | [UndiMix V4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231006_13B-Q5_K_M_UndiMix_V4.html) | 13B | Q5_K_M | 79.01 | 30.81 | 319 |
+| 184 | [Mistral RP 0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Mistral_RP_0_1.html) | 7B | Q5_K_M | 77.86 | 29.05 | 349 |
+| 185 | [MLewd 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_MLewd.html) | 13B | Q5_K_M | 74.71 | 32.08 | 348 |
+| 186 | [ReMM v2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_ReMM_v2_1.html) | 13B | Q5_K_M | 77.29 | 31.89 | 322 |
+| 187 | [Augmental V1.50 B 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Augmental_V1_50_B.html) | 13B | Q5_K_M | 76.91 | 28.75 | 359 |
+| 188 | [Thorns 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_13B-Q5_K_M_Thorns.html) | 13B | Q5_K_M | 79.08 | 35.10 | 268 |
+| 189 | [airoboros L2 3.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231015_13B-Q5_K_M_airoboros_L2_3_1.html) | 13B | Q5_K_M | 79.86 | 31.35 | 299 |
+| 190 | [Airochronos 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_Airochronos.html) | 33B | Q4_K_M | 75.00 | 31.83 | 342 |
+| 191 | [LlongOrca 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_LlongOrca_16K.html) | 13B | Q5_K_M | 78.47 | 25.83 | 368 |
+| 192 | [Guanaco 65B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_65B-Q4_K_M_Guanaco.html) | 65B | Q4_K_M | 78.85 | 29.00 | 330 |
+| 193 | [Slerpeno 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Slerpeno.html) | 13B | Q5_K_M | 74.74 | 32.92 | 330 |
+| 194 | [MLewd V2-1 050 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q4_K_S_MLewd_V2-1_050.html) | 13B | Q4_K_S | 74.13 | 28.69 | 381 |
+| 195 | [ReMM 0.65 SLERP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_0_65_SLERP.html) | 13B | Q5_K_M | 76.25 | 30.18 | 342 |
+| 196 | [Chronos V2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Chronos_V2.html) | 70B | Q4_K_M | 76.67 | 27.76 | 362 |
+| 197 | [Athena v1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230830_13B-Q5_K_M_Athena_v1.html) | 13B | Q5_K_M | 74.58 | 30.74 | 352 |
+| 198 | [OpenBuddy Zephyr V14.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_OpenBuddy_Zephyr_V14_1.html) | 7B | Q5_K_M | 74.35 | 30.75 | 352 |
+| 199 | [ReMM Lion 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_ReMM_Lion.html) | 13B | Q5_K_M | 76.02 | 27.85 | 363 |
+| 200 | [MythoMakiseMerged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_MythoMakiseMerged.html) | 13B | Q5_K_M | 77.02 | 27.77 | 351 |
+| 201 | [WizardLM V1.0 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_WizardLM_V1_0.html) | 70B | Q4_K_M | 85.99 | 26.56 | 269 |
+| 202 | [Airoboros L2 2.2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q5_K_M_Airoboros_L2_2_2_1.html) | 13B | Q5_K_M | 75.19 | 31.09 | 335 |
+| 203 | [Nanbeige Chat 16B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_16B-Q4_K_M_Nanbeige_Chat.html) | 16B | Q4_K_M | 80.54 | 30.05 | 289 |
+| 204 | [Airoboros L2 3.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_13B-Q5_K_M_Airoboros_L2_3_0.html) | 13B | Q5_K_M | 75.97 | 29.32 | 345 |
+| 205 | [Mistral SynthIAirOmniMix 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_11B-Q5_K_M_Mistral_SynthIAirOmniMix.html) | 11B | Q5_K_M | 79.14 | 29.18 | 310 |
+| 206 | [UndiMix v1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_UndiMix_v1.html) | 13B | Q5_K_M | 77.78 | 30.73 | 307 |
+| 207 | [Vicuna V1.5 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Vicuna_V1_5_16K.html) | 13B | Q5_K_M | 78.64 | 28.54 | 321 |
+| 208 | [Airoboros L2 C 3.1.2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_70B-Q4_K_M_Airoboros_L2_C_3_1_2.html) | 70B | Q4_K_M | 87.88 | 27.27 | 236 |
+| 209 | [ReMM v2 Variant 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230909_13B-Q5_K_M_ReMM_v2_Variant.html) | 13B | Q5_K_M | 78.05 | 30.61 | 304 |
+| 210 | [Nous Hermes 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230902_13B-Q5_K_M_Nous_Hermes.html) | 13B | Q5_K_M | 81.22 | 31.81 | 257 |
+| 211 | [LimaRP V2 LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_70B-Q3_K_M_LimaRP_V2_LLaMA_2.html) | 70B | Q3_K_M | 74.97 | 24.06 | 403 |
+| 212 | [Mistral CC Air RP 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q5_K_M_Mistral_CC_Air_RP.html) | 11B | Q5_K_M | 79.30 | 27.80 | 317 |
+| 213 | [Airoboros 2.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Airoboros_2_1.html) | 13B | Q5_K_M | 71.16 | 28.94 | 391 |
+| 214 | [Airoboros Creative lmoe 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230826_13B-Q5_K_M_Airoboros_Creative_lmoe.html) | 13B | Q5_K_M | 71.22 | 29.61 | 382 |
+| 215 | [Mistral ClaudeLimaRP v3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_Mistral_ClaudeLimaRP_v3.html) | 7B | Q5_K_M | 73.78 | 27.59 | 375 |
+| 216 | [Tess XS V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_7B-Q8_0_Tess_XS_V1_0.html) | 7B | Q8_0 | 78.24 | 30.41 | 294 |
+| 217 | [Thespis Mistral V0.6 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_7B-Q6_K_Thespis_Mistral_V0_6.html) | 7B | Q6_K | 82.64 | 30.70 | 243 |
+| 218 | [Spicyboros 2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q4_K_M_Spicyboros_2_2.html) | 13B | Q4_K_M | 70.58 | 28.50 | 389 |
+| 219 | [CollectiveCognition V1.1 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_CollectiveCognition_V1_1_Mistral.html) | 7B | Q5_K_M | 85.28 | 27.02 | 246 |
+| 220 | [Platypus 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_Platypus_2.html) | 70B | Q4_K_M | 78.04 | 26.06 | 330 |
+| 221 | [AstraMix 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_AstraMix.html) | 7B | Q5_K_M | 72.52 | 28.74 | 359 |
+| 222 | [MistRP Airoboros 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_MistRP_Airoboros.html) | 7B | Q5_K_M | 80.48 | 30.61 | 254 |
+| 223 | [Airoboros 2.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_13B-Q5_K_M_Airoboros_2_2.html) | 13B | Q5_K_M | 70.45 | 28.91 | 378 |
+| 224 | [LLaMA-2 LoRA Assemble 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_7B-Q5_K_M_LLaMA-2_LoRA_Assemble.html) | 7B | Q5_K_M | 77.82 | 30.07 | 287 |
+| 225 | [Opus V0 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_70B-Q4_K_M_Opus_V0.html) | 70B | Q4_K_M | 79.32 | 24.22 | 333 |
+| 226 | [MegaMix A1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_A1.html) | 13B | Q5_K_M | 76.53 | 29.22 | 309 |
+| 227 | [Mythalion 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Mythalion.html) | 13B | Q5_K_M | 74.39 | 29.05 | 332 |
+| 228 | [AshhLimaRP Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-27_7B-Q5_K_M_AshhLimaRP_Mistral.html) | 7B | Q5_K_M | 74.07 | 24.68 | 380 |
+| 229 | [Mistral OpenOrca oasst top1 2023-08-25 V1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_7B-Q5_K_M_Mistral_OpenOrca_oasst_top1_2023-08-25_V1.html) | 7B | Q5_K_M | 78.27 | 25.68 | 324 |
+| 230 | [Airoboros L2 3.1.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_Airoboros_L2_3_1_1.html) | 13B | Q5_K_M | 75.98 | 27.83 | 324 |
+| 231 | [L2 TheSpurral V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231027_13B-Q5_K_S_L2_TheSpurral_V2.html) | 13B | Q5_K_S | 71.22 | 30.53 | 345 |
+| 232 | [LLaMA 2 Chat 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_70B-Q4_K_M_LLaMA_2_Chat.html) | 70B | Q4_K_M | 86.76 | 24.82 | 241 |
+| 233 | [MegaMix T1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_T1.html) | 13B | Q5_K_M | 76.36 | 29.70 | 298 |
+| 234 | [Yi 200K Airo Claude Puffin 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_6B-Q6_K_Yi_200K_Airo_Claude_Puffin.html) | 6B | Q6_K | 71.43 | 28.39 | 364 |
+| 235 | [Yarn Mistral 64k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Yarn_Mistral_64k.html) | 7B | Q5_K_M | 75.03 | 27.89 | 331 |
+| 236 | [Zarafusionex 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarafusionex_1_1.html) | 7B | Q5_K_M | 71.08 | 28.61 | 365 |
+| 237 | [TerraMix 16K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_13B-Q5_K_M_TerraMix_16K.html) | 13B | Q5_K_M | 74.97 | 25.92 | 352 |
+| 238 | [LLaMA 2 Chat Uncensored 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_70B-Q4_K_M_LLaMA_2_Chat_Uncensored.html) | 70B | Q4_K_M | 75.19 | 30.22 | 302 |
+| 239 | [Vicuna 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230925_33B-Q4_K_M_Vicuna.html) | 33B | Q4_K_M | 79.25 | 30.58 | 254 |
+| 240 | [Dans TotSirocco 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Dans_TotSirocco.html) | 7B | Q5_K_M | 79.47 | 27.54 | 283 |
+| 241 | [OpenChat 3.5 16k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_7B-Q5_K_M_OpenChat_3_5_16k.html) | 7B | Q5_K_M | 75.17 | 28.41 | 319 |
+| 242 | [Yarn Mistral 128k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Yarn_Mistral_128k.html) | 7B | Q5_K_M | 75.29 | 26.17 | 341 |
+| 243 | [PetrolLM Claude Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q8_0_PetrolLM_Claude_Chat.html) | 7B | Q8_0 | 71.81 | 32.67 | 308 |
+| 244 | [Marcoroni 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_7B-Q5_K_M_Marcoroni.html) | 7B | Q5_K_M | 75.69 | 29.34 | 301 |
+| 245 | [Nous Hermes LLaMA-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Nous_Hermes_LLaMA-2.html) | 13B | Q5_K_M | 79.25 | 31.07 | 239 |
+| 246 | [Nous Capybara V1.9 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_7B-Q5_K_M_Nous_Capybara_V1_9.html) | 7B | Q5_K_M | 73.07 | 29.94 | 316 |
+| 247 | [Airoboros L2 GPT4 m2.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_L2_GPT4_m2_0.html) | 13B | Q5_K_M | 76.23 | 32.82 | 251 |
+| 248 | [Vicuna V1.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Vicuna_V1_5.html) | 13B | Q5_K_M | 76.86 | 27.95 | 293 |
+| 249 | [Augmental 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-24_13B-Q5_K_M_Augmental.html) | 13B | Q5_K_M | 71.20 | 26.50 | 368 |
+| 250 | [GradientPutri MegaMix S1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_13B-Q5_K_S_GradientPutri_MegaMix_S1.html) | 13B | Q5_K_S | 73.27 | 29.39 | 312 |
+| 251 | [Chronos Hermes v2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Chronos_Hermes_v2.html) | 13B | Q5_K_M | 72.39 | 28.38 | 332 |
+| 252 | [Arithmo Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-20_7B-Q5_K_M_Arithmo_Mistral.html) | 7B | Q5_K_M | 77.02 | 29.47 | 271 |
+| 253 | [Airoboros GPT4 2.0 LLaMA-2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_GPT4_2_0_LLaMA-2.html) | 13B | Q5_K_M | 73.61 | 32.58 | 274 |
+| 254 | [Huginn v4.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Huginn_v4_5.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
+| 255 | [Huginn v3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Huginn_v3.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
+| 256 | [Huginn v4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_13B-Q5_K_M_Huginn_v4.html) | 13B | Q5_K_M | 70.00 | 26.10 | 381 |
+| 257 | [Merak V4 PROTOTYPE6 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_7B-Q5_K_M_Merak_V4_PROTOTYPE6.html) | 7B | Q5_K_M | 76.22 | 29.96 | 270 |
+| 258 | [Thespurral V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-25_13B-Q5_K_M_Thespurral_V1.html) | 13B | Q5_K_M | 69.55 | 30.73 | 332 |
+| 259 | [MythoLogic 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_MythoLogic.html) | 13B | Q5_K_M | 75.22 | 31.57 | 263 |
+| 260 | [Airoboros 2.2.1 Mistral 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231003_34B-Q4_K_S_Airoboros_2_2_1_Mistral.html) | 34B | Q4_K_S | 78.83 | 25.41 | 290 |
+| 261 | [Airoboros 3.1.2 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231107_33B-Q4_K_M_Airoboros_3_1_2.html) | 33B | Q4_K_M | 71.35 | 29.96 | 319 |
+| 262 | [Tigerbot Chat V4 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231118_70B-Q4_K_M_Tigerbot_Chat_V4.html) | 70B | Q4_K_M | 76.96 | 30.36 | 255 |
+| 263 | [Kiwi 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q6_K_Kiwi.html) | 7B | Q6_K | 68.80 | 30.66 | 338 |
+| 264 | [Platypus Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_34B-Q4_K_M_Platypus_Yi.html) | 34B | Q4_K_M | 76.42 | 27.58 | 290 |
+| 265 | [SynthIA V2.0 16k 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_7B-Q6_K_SynthIA_V2_0_16k.html) | 7B | Q6_K | 77.89 | 27.39 | 275 |
+| 266 | [LimaRPv3 LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_70B-Q3_K_M_LimaRPv3_LLaMA_2.html) | 70B | Q3_K_M | 74.92 | 23.61 | 346 |
+| 267 | [LimaRP V3 LLaMA 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231028_13B-Q6_K_LimaRP_V3_LLaMA_2.html) | 13B | Q6_K | 67.30 | 25.13 | 410 |
+| 268 | [Mistral LimaRP 0.75w 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230929_7B-Q5_K_M_Mistral_LimaRP_0_75w.html) | 7B | Q5_K_M | 73.14 | 26.17 | 335 |
+| 269 | [LLaMA 2 Chat LimaRP V2 Merged 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_13B-Q5_K_M_LLaMA_2_Chat_LimaRP_V2_Merged.html) | 13B | Q5_K_M | 75.95 | 29.76 | 266 |
+| 270 | [Airoboros C 2.2.1 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_34B-Q4_K_M_Airoboros_C_2_2_1.html) | 34B | Q4_K_M | 79.44 | 24.97 | 278 |
+| 271 | [ANIMA Phi Neptune Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231012_7B-Q5_K_M_ANIMA_Phi_Neptune_Mistral.html) | 7B | Q5_K_M | 73.05 | 30.07 | 291 |
+| 272 | [Mistral Trismegistus 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231007_7B-Q5_K_M_Mistral_Trismegistus.html) | 7B | Q5_K_M | 79.05 | 32.91 | 191 |
+| 273 | [Prometheus V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231014_13B-Q6_K_Prometheus_V1_0.html) | 13B | Q6_K | 75.34 | 25.55 | 308 |
+| 274 | [Pygmalion 2 SuperCOT 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Pygmalion_2_SuperCOT.html) | 13B | Q5_K_M | 77.70 | 28.03 | 255 |
+| 275 | [LLaMA 65B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_65B-Q4_K_M_LLaMA.html) | 65B | Q4_K_M | 74.61 | 23.94 | 331 |
+| 276 | [Kimiko Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Kimiko_Mistral.html) | 7B | Q5_K_M | 74.18 | 25.68 | 317 |
+| 277 | [Opus V0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q8_0_Opus_V0.html) | 7B | Q8_0 | 77.26 | 25.14 | 290 |
+| 278 | [Mistral v0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_v0_1.html) | 7B | Q5_K_M | 72.67 | 28.81 | 298 |
+| 279 | [JudgeLM V1.0 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_33B-Q5_K_M_JudgeLM_V1_0.html) | 33B | Q5_K_M | 72.85 | 28.05 | 304 |
+| 280 | [Dans AdventurousWinds Mk2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_7B-Q5_K_M_Dans_AdventurousWinds_Mk2.html) | 7B | Q5_K_M | 70.35 | 25.55 | 357 |
+| 281 | [WizardLM v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q4_0_WizardLM_v1_2.html) | 13B | Q4_0 | 75.81 | 25.28 | 300 |
+| 282 | [Kuchiki 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q5_K_M_Kuchiki.html) | 7B | Q5_K_M | 64.09 | 30.90 | 364 |
+| 283 | [LimaRPv3 Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_34B-Q4_K_M_LimaRPv3_Yi.html) | 34B | Q4_K_M | 62.82 | 25.83 | 429 |
+| 284 | [Claude 2 Alpaca 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_13B-Q5_K_M_Claude_2_Alpaca.html) | 13B | Q5_K_M | 70.91 | 29.42 | 305 |
+| 285 | [Teknium OpenHermes 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_S_Teknium_OpenHermes.html) | 13B | Q5_K_S | 71.81 | 31.34 | 275 |
+| 286 | [Airolima Chronos Grad L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Airolima_Chronos_Grad_L2.html) | 13B | Q5_K_M | 70.43 | 28.42 | 319 |
+| 287 | [Uncensored Jordan 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_13B-Q5_K_M_Uncensored_Jordan.html) | 13B | Q5_K_M | 79.92 | 27.42 | 229 |
+| 288 | [Thespis V0.5 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_13B-Q5_K_M_Thespis_V0_5.html) | 13B | Q5_K_M | 72.61 | 30.23 | 276 |
+| 289 | [Zarablend 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230826_7B-Q5_K_M_Zarablend_1_1.html) | 7B | Q5_K_M | 65.62 | 33.09 | 319 |
+| 290 | [Zarafusionex 1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_Zarafusionex_1_2.html) | 7B | Q5_K_M | 70.53 | 24.82 | 355 |
+| 291 | [Frank Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_13B-Q5_K_M_Frank_Uncensored.html) | 13B | Q5_K_M | 76.04 | 30.81 | 228 |
+| 292 | [Zarablend 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarablend.html) | 7B | Q5_K_M | 64.37 | 30.72 | 352 |
+| 293 | [Prometheus V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_13B-Q5_K_M_Prometheus_V1_0.html) | 13B | Q5_K_M | 75.23 | 23.50 | 313 |
+| 294 | [Opus V0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Opus_V0.html) | 7B | Q5_K_M | 77.91 | 24.91 | 268 |
+| 295 | [PetrolLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_PetrolLM.html) | 7B | Q5_K_M | 74.81 | 23.71 | 313 |
+| 296 | [Stheno Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_13B-Q5_K_M_Stheno_Chat.html) | 13B | Q5_K_M | 74.94 | 27.64 | 268 |
+| 297 | [Medusa 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Medusa_1_1.html) | 7B | Q5_K_M | 71.06 | 29.98 | 284 |
+| 298 | [UltraLM V2.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_UltraLM_V2_0.html) | 13B | Q5_K_M | 71.92 | 29.28 | 282 |
+| 299 | [Spicyboros 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Spicyboros_2_2.html) | 7B | Q5_K_M | 66.38 | 31.94 | 311 |
+| 300 | [KAI Beta 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_KAI_Beta.html) | 7B | Q5_K_M | 72.69 | 28.22 | 283 |
+| 301 | [Astrid Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Astrid_Mistral.html) | 7B | Q5_K_M | 72.69 | 28.22 | 283 |
+| 302 | [Chronos 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_33B-Q4_K_M_Chronos.html) | 33B | Q4_K_M | 72.46 | 24.20 | 328 |
+| 303 | [Airoboros L2 3.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_Airoboros_L2_3_0.html) | 7B | Q5_K_M | 67.75 | 29.36 | 323 |
+| 304 | [StableBeluga 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_StableBeluga.html) | 7B | Q5_K_M | 73.27 | 26.66 | 291 |
+| 305 | [LLaMA 2 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_70B-Q4_K_M_LLaMA_2.html) | 70B | Q4_K_M | 74.79 | 22.70 | 317 |
+| 306 | [OpenBuddy Mistral v13 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_2023-10-16_7B-Q5_K_M_OpenBuddy_Mistral_v13.html) | 7B | Q5_K_M | 72.53 | 31.32 | 249 |
+| 307 | [LLaMA 2 Arguments 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_LLaMA_2_Arguments.html) | 7B | Q5_K_M | 76.80 | 29.98 | 218 |
+| 308 | [Samantha Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Samantha_Mistral.html) | 7B | Q5_K_M | 76.16 | 27.49 | 251 |
+| 309 | [Hermes LimaRP 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Hermes_LimaRP.html) | 7B | Q5_K_M | 62.67 | 28.32 | 383 |
+| 310 | [Airoboros GPT4 1.4.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Airoboros_GPT4_1_4_1.html) | 13B | Q5_K_M | 69.09 | 28.15 | 316 |
+| 311 | [Pygmalion 2 SuperCOT2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_Pygmalion_2_SuperCOT2.html) | 13B | Q5_K_M | 75.76 | 30.81 | 217 |
+| 312 | [Mistral PetroLimaRP v3 12B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_12B-Q5_K_M_Mistral_PetroLimaRP_v3.html) | 12B | Q5_K_M | 61.14 | 27.66 | 405 |
+| 313 | [Mistral Claude Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_Claude_Chat.html) | 7B | Q5_K_M | 74.83 | 30.14 | 233 |
+| 314 | [Thespis V0.6 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Thespis_V0_6.html) | 13B | Q5_K_M | 76.12 | 29.38 | 227 |
+| 315 | [MegaMix S1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_MegaMix_S1.html) | 13B | Q5_K_M | 72.97 | 25.83 | 296 |
+| 316 | [Barcenas 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230910_13B-Q5_K_M_Barcenas.html) | 13B | Q5_K_M | 77.05 | 23.94 | 271 |
+| 317 | [Baslisk V0.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_7B-Q6_K_Baslisk_V0_2.html) | 7B | Q6_K | 68.92 | 28.82 | 305 |
+| 318 | [Airoboros GPT4 2.0 LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Airoboros_GPT4_2_0_LLaMA-2.html) | 7B | Q5_K_M | 73.66 | 31.95 | 220 |
+| 319 | [Mistral Airoboros V0.1 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231008_11B-Q8_0_Mistral_Airoboros_V0_1.html) | 11B | Q8_0 | 69.52 | 28.59 | 299 |
+| 320 | [Holomax 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Holomax.html) | 13B | Q5_K_M | 65.03 | 25.14 | 383 |
+| 321 | [Basilisk V0.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_Basilisk_V0_2.html) | 7B | Q5_K_M | 68.55 | 30.59 | 287 |
+| 322 | [Kimiko V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230830_13B-Q5_K_M_Kimiko_V2.html) | 13B | Q5_K_M | 68.02 | 27.73 | 323 |
+| 323 | [Pygmaltion 2 SuperCOT weighted 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_13B-Q5_K_M_Pygmaltion_2_SuperCOT_weighted.html) | 13B | Q5_K_M | 70.92 | 29.29 | 275 |
+| 324 | [Phind CodeLlama V1 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_34B-Q4_K_M_Phind_CodeLlama_V1.html) | 34B | Q4_K_M | 79.10 | 26.49 | 217 |
+| 325 | [Nanbeige Chat 32K 16B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231118_16B-Q4_K_M_Nanbeige_Chat_32K.html) | 16B | Q4_K_M | 70.82 | 27.42 | 294 |
+| 326 | [Hesperus V1 L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_13B-Q5_K_M_Hesperus_V1_L2.html) | 13B | Q5_K_M | 68.11 | 28.67 | 309 |
+| 327 | [Medusa 1.1 L2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q6_K_Medusa_1_1_L2.html) | 7B | Q6_K | 70.91 | 27.69 | 289 |
+| 328 | [SuperCOT L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_13B-Q5_K_M_SuperCOT_L2.html) | 13B | Q5_K_M | 70.78 | 29.42 | 268 |
+| 329 | [Thespis V0.3 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_13B-Q5_K_M_Thespis_V0_3.html) | 13B | Q5_K_M | 67.59 | 28.43 | 312 |
+| 330 | [Wizard Vicuna Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_13B-Q5_K_M_Wizard_Vicuna_Uncensored.html) | 13B | Q5_K_M | 74.08 | 29.57 | 231 |
+| 331 | [LLaMA 2 Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_LLaMA_2_Chat.html) | 13B | Q5_K_M | 74.29 | 27.55 | 250 |
+| 332 | [Dans AdventurousWinds 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231004_7B-Q5_K_M_Dans_AdventurousWinds.html) | 7B | Q5_K_M | 72.38 | 24.93 | 298 |
+| 333 | [LosslessMegaCoder Mini 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_LosslessMegaCoder_Mini.html) | 7B | Q5_K_M | 69.96 | 30.37 | 263 |
+| 334 | [MoMo V1.1 70B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_70B-Q4_K_M_MoMo_V1_1.html) | 70B | Q4_K_M | 67.54 | 26.82 | 326 |
+| 335 | [Airoboros C 2.2 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_34B-Q4_K_M_Airoboros_C_2_2.html) | 34B | Q4_K_M | 74.48 | 24.12 | 281 |
+| 336 | [EM German V01 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_EM_German_V01.html) | 13B | Q5_K_M | 68.03 | 26.36 | 325 |
+| 337 | [Pygmalion 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Pygmalion_2.html) | 13B | Q5_K_M | 69.17 | 29.05 | 284 |
+| 338 | [Vicuna v1.5 16K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Vicuna_v1_5_16K.html) | 7B | Q5_K_M | 71.41 | 31.35 | 234 |
+| 339 | [Fireflx v1.2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Fireflx_v1_2.html) | 13B | Q5_K_M | 69.25 | 28.70 | 285 |
+| 340 | [LLaMA 30B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_30B-Q4_K_M_LLaMA.html) | 30B | Q4_K_M | 67.12 | 28.25 | 311 |
+| 341 | [Chronolima Airo Grad L2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_13B-Q5_K_M_Chronolima_Airo_Grad_L2.html) | 13B | Q5_K_M | 70.09 | 27.44 | 288 |
+| 342 | [Nanbeige Base 32K 16B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_16B-Q4_K_M_Nanbeige_Base_32K.html) | 16B | Q4_K_M | 65.32 | 28.34 | 328 |
+| 343 | [AgentLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231021_7B-Q5_K_M_AgentLM.html) | 7B | Q5_K_M | 77.02 | 29.45 | 190 |
+| 344 | [Zarablend MX 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Zarablend_MX.html) | 7B | Q5_K_M | 65.60 | 29.20 | 313 |
+| 345 | [Airoboros 2.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_Airoboros_2_1.html) | 7B | Q5_K_M | 63.29 | 28.25 | 346 |
+| 346 | [Nous Capybara 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_Nous_Capybara.html) | 7B | Q5_K_M | 63.69 | 33.01 | 291 |
+| 347 | [LLaMA-2 Silverlin. Verilog 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q4_K_M_LLaMA-2_Silverlin__Verilog.html) | 7B | Q4_K_M | 77.03 | 29.56 | 186 |
+| 348 | [Airoboros L2 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_7B-Q5_K_M_Airoboros_L2_2_2.html) | 7B | Q5_K_M | 67.07 | 29.61 | 288 |
+| 349 | [Tsukasa LimaRP 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230911_13B-Q5_K_M_Tsukasa_LimaRP.html) | 13B | Q5_K_M | 68.43 | 20.93 | 365 |
+| 350 | [Skywork Airoboros Test 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_13B-Q4_K_M_Skywork_Airoboros_Test.html) | 13B | Q4_K_M | 70.60 | 22.43 | 325 |
+| 351 | [Saiga 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230917_13B-Q5_K_Saiga_2.html) | 13B | Q5_K | 66.53 | 28.01 | 307 |
+| 352 | [Airoboros 2.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230912_7B-Q5_K_M_Airoboros_2_2.html) | 7B | Q5_K_M | 67.10 | 29.55 | 284 |
+| 353 | [Mistral Instruct v0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230927_7B-Q5_K_M_Mistral_Instruct_v0_1.html) | 7B | Q5_K_M | 67.07 | 29.81 | 279 |
+| 354 | [Kuchiki 1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_M_Kuchiki_1_1.html) | 7B | Q5_K_M | 62.83 | 29.69 | 325 |
+| 355 | [KAI Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_KAI_Instruct.html) | 7B | Q5_K_M | 67.11 | 30.24 | 273 |
+| 356 | [Luna AI LLaMA-2 Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Luna_AI_LLaMA-2_Uncensored.html) | 7B | Q5_K_M | 67.13 | 32.85 | 245 |
+| 357 | [Claude 2 Alpaca 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_7B-Q5_K_M_Claude_2_Alpaca.html) | 7B | Q5_K_M | 67.78 | 30.95 | 258 |
+| 358 | [Vicuna v1.5 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Vicuna_v1_5.html) | 7B | Q5_K_M | 72.72 | 29.03 | 226 |
+| 359 | [Python Code 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_13B-Q5_K_M_Python_Code.html) | 13B | Q5_K_M | 71.04 | 27.93 | 253 |
+| 360 | [MistRP v1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_7B-Q8_0_MistRP_v1_1.html) | 7B | Q8_0 | 70.37 | 26.05 | 279 |
+| 361 | [Thespis V0.4 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_13B-Q5_K_M_Thespis_V0_4.html) | 13B | Q5_K_M | 69.86 | 27.96 | 264 |
+| 362 | [CAMEL Combined Data 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_33B-Q4_K_M_CAMEL_Combined_Data.html) | 33B | Q4_K_M | 67.21 | 29.38 | 277 |
+| 363 | [Befenghuang Vigogne 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q5_K_S_Befenghuang_Vigogne_2_Chat.html) | 7B | Q5_K_S | 69.80 | 26.82 | 276 |
+| 364 | [Cat V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_13B-Q5_K_M_Cat_V1_0.html) | 13B | Q5_K_M | 68.13 | 26.12 | 301 |
+| 365 | [LlongOrca 16K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_LlongOrca_16K.html) | 7B | Q5_K_M | 68.52 | 25.52 | 302 |
+| 366 | [LLaMA 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA_2_Chat.html) | 7B | Q5_K_M | 74.44 | 28.89 | 203 |
+| 367 | [Python Code 33B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_33B-Q4_K_M_Python_Code.html) | 33B | Q4_K_M | 77.21 | 27.18 | 191 |
+| 368 | [Skywork Spicyboros 3.1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_13B-Q4_K_M_Skywork_Spicyboros_3_1.html) | 13B | Q4_K_M | 67.55 | 26.33 | 300 |
+| 369 | [MedLLaMA-2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_S_MedLLaMA-2_Chat.html) | 7B | Q5_K_S | 69.89 | 26.49 | 273 |
+| 370 | [Nanbeige Base 16B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231119_16B-Q4_K_M_Nanbeige_Base.html) | 16B | Q4_K_M | 64.88 | 26.11 | 330 |
+| 371 | [Skywork Airo Claude Pippa Puffin 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231101_13B-Q4_K_M_Skywork_Airo_Claude_Pippa_Puffin.html) | 13B | Q4_K_M | 71.44 | 22.44 | 298 |
+| 372 | [Mistral Airoboros RP V1 11B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_11B-Q6_K_Mistral_Airoboros_RP_V1.html) | 11B | Q6_K | 72.46 | 22.43 | 279 |
+| 373 | [Xwin LM V0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230921_7B-Q5_K_M_Xwin_LM_V0_1.html) | 7B | Q5_K_M | 65.09 | 35.85 | 214 |
+| 374 | [Mistral Ita 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_7B-Q5_K_M_Mistral_Ita.html) | 7B | Q5_K_M | 75.58 | 25.91 | 207 |
+| 375 | [Airoboros GPT4 1.4.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Airoboros_GPT4_1_4_1.html) | 7B | Q5_K_M | 63.90 | 31.73 | 268 |
+| 376 | [AgentLM 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231020_13B-Q5_K_M_AgentLM.html) | 13B | Q5_K_M | 72.63 | 28.64 | 206 |
+| 377 | [Free Sydney V2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231029_13B-Q5_K_M_Free_Sydney_V2.html) | 13B | Q5_K_M | 74.72 | 18.61 | 287 |
+| 378 | [Ziya Coding V1.0 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231009_34B-Q4_K_M_Ziya_Coding_V1_0.html) | 34B | Q4_K_M | 75.44 | 21.74 | 246 |
+| 379 | [Airoboros 2.1 YaRN 64K 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Airoboros_2_1_YaRN_64K.html) | 13B | Q5_K_M | 62.12 | 28.13 | 319 |
+| 380 | [Leo Hessianai Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230928_7B-Q5_K_M_Leo_Hessianai_Chat.html) | 7B | Q5_K_M | 67.73 | 29.42 | 244 |
+| 381 | [Yi 200K 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_6B-Q5_K_M_Yi_200K.html) | 6B | Q5_K_M | 68.13 | 25.12 | 285 |
+| 382 | [Guanaco Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Guanaco_Uncensored.html) | 7B | Q5_K_M | 63.16 | 28.64 | 299 |
+| 383 | [Airoboros L2 2.2.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_Airoboros_L2_2_2_1.html) | 7B | Q5_K_M | 65.94 | 26.62 | 290 |
+| 384 | [Yi 200K 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_6B-Q6_K_Yi_6B_200K.html) | 6B | Q6_K | 67.97 | 24.04 | 295 |
+| 385 | [Airoboros GPT4 m2.0 LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_Airoboros_GPT4_m2_0_LLaMA-2.html) | 7B | Q5_K_M | 69.69 | 30.00 | 212 |
+| 386 | [Yi 200K 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_34B-Q5_K_M_Yi_200K.html) | 34B | Q5_K_M | 60.97 | 27.05 | 334 |
+| 387 | [Yi 200K LLaMAfied 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231111_34B-Q5_K_M_Yi_200K_LLaMAfied.html) | 34B | Q5_K_M | 60.97 | 27.05 | 334 |
+| 388 | [Barcenas Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_7B-Q5_K_M_Barcenas_Mistral.html) | 7B | Q5_K_M | 69.23 | 28.30 | 233 |
+| 389 | [Saiga 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_Saiga_2.html) | 7B | Q5_K | 64.28 | 28.78 | 278 |
+| 390 | [LLaMA-2 Mistral 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_13B-Q5_K_M_LLaMA-2_Mistral.html) | 13B | Q5_K_M | 63.43 | 26.59 | 309 |
+| 391 | [Tsukasa Limarp 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_Tsukasa_Limarp.html) | 7B | Q5_K_M | 65.85 | 21.52 | 337 |
+| 392 | [Mistral Pygmalion 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231019_7B-Q5_K_M_Mistral_Pygmalion.html) | 7B | Q5_K_M | 64.50 | 26.55 | 297 |
+| 393 | [Deacon 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_34B-Q4_K_M_Deacon.html) | 34B | Q4_K_M | 59.01 | 29.71 | 321 |
+| 394 | [Krakowiak 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q4_K_M_Krakowiak.html) | 7B | Q4_K_M | 63.13 | 26.07 | 315 |
+| 395 | [Pygmalion 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230905_7B-Q5_K_M_Pygmalion_2.html) | 7B | Q5_K_M | 64.76 | 27.18 | 285 |
+| 396 | [MedLLama 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230902_7B-Q5_K_M_MedLLama.html) | 7B | Q5_K_M | 70.60 | 27.18 | 219 |
+| 397 | [Guanaco Uncensored 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_13B-Q5_K_M_Guanaco_Uncensored.html) | 13B | Q5_K_M | 62.92 | 28.89 | 282 |
+| 398 | [ZaraRP 1.1 L2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230914_7B-Q5_K_M_ZaraRP_1_1_L2.html) | 7B | Q5_K_M | 71.74 | 26.00 | 217 |
+| 399 | [Kimiko 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230906_7B-Q5_K_M_Kimiko.html) | 7B | Q5_K_M | 60.79 | 24.62 | 347 |
+| 400 | [Chinese Alpaca 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_13B-Q5_K_Chinese_Alpaca_2.html) | 13B | Q5_K | 69.67 | 25.89 | 235 |
+| 401 | [Prometheus V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231019_7B-Q8_0_Prometheus_V1_0.html) | 7B | Q8_0 | 69.44 | 23.30 | 264 |
+| 402 | [Mistral NSFWSTORY LoRA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Mistral_NSFWSTORY_LoRA.html) | 7B | Q5_K_M | 68.93 | 21.95 | 282 |
+| 403 | [LLaMA 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_13B-Q5_K_M_LLaMA_2.html) | 13B | Q5_K_M | 63.36 | 27.35 | 272 |
+| 404 | [Samantha Mistral Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Samantha_Mistral_Instruct.html) | 7B | Q5_K_M | 61.82 | 29.73 | 262 |
+| 405 | [Yi 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231110_6B-Q6_K_Yi_6B.html) | 6B | Q6_K | 67.98 | 21.69 | 279 |
+| 406 | [RPGuild ChatML 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231018_13B-Q5_K_M_RPGuild_ChatML.html) | 13B | Q5_K_M | 63.24 | 23.64 | 307 |
+| 407 | [Taiwan LLM V2.0 Chat 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231109_13B-Q5_1_Taiwan_LLM_V2_0_Chat.html) | 13B | Q5_1 | 63.22 | 26.29 | 279 |
+| 408 | [EM German V01 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231002_7B-Q5_K_M_EM_German_V01.html) | 7B | Q5_K_M | 63.92 | 26.58 | 263 |
+| 409 | [LLaMA-2 Coder 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230913_7B-Q5_K_M_LLaMA-2_Coder.html) | 7B | Q5_K_M | 61.96 | 27.01 | 279 |
+| 410 | [Rinna Youri Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri_Chat.html) | 7B | Q5_K_M | 70.46 | 22.56 | 235 |
+| 411 | [LLaMA-2 PeanutButter v19 R8 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_M_LLaMA-2_PeanutButter_v19_R8.html) | 7B | Q5_K_M | 61.12 | 25.67 | 294 |
+| 412 | [LLaMA-2 Mistral 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231001_7B-Q5_K_M_LLaMA-2_Mistral.html) | 7B | Q5_K_M | 60.73 | 25.38 | 301 |
+| 413 | [ELYZA Jp LLaMA-2 Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_ELYZA_Jp_LLaMA-2_Instruct.html) | 7B | Q5_K_M | 69.42 | 29.17 | 164 |
+| 414 | [Tulu 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Tulu.html) | 7B | Q5_K_M | 75.18 | 21.44 | 185 |
+| 415 | [LLaMA 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA_2.html) | 7B | Q5_K_M | 60.86 | 24.56 | 302 |
+| 416 | [Skywork Base 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_13B-Q5_K_M_Skywork_Base.html) | 13B | Q5_K_M | 65.81 | 21.10 | 286 |
+| 417 | [Rinna Youri Instruction 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri_Instruction.html) | 7B | Q5_K_M | 72.36 | 19.42 | 233 |
+| 418 | [Medusa 1.3 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Medusa_1_3.html) | 7B | Q5_K_M | 62.86 | 22.66 | 296 |
+| 419 | [Yi 34B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231104_34B-Q4_K_M_Yi.html) | 34B | Q4_K_M | 57.91 | 27.45 | 295 |
+| 420 | [Typly Pigeon 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q4_K_M_Typly_Pigeon.html) | 7B | Q4_K_M | 61.85 | 24.14 | 288 |
+| 421 | [Mimicra V1 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231106_13B-Q5_K_M_Mimicra_V1.html) | 13B | Q5_K_M | 68.30 | 19.63 | 263 |
+| 422 | [LLaMA-2 Galleon 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230904_7B-Q5_K_M_LLaMA-2_Galleon.html) | 7B | Q5_K_M | 65.46 | 25.47 | 215 |
+| 423 | [Frank Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Frank_Uncensored.html) | 7B | Q5_K_M | 61.36 | 28.91 | 219 |
+| 424 | [WizardLM V1.0 Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_WizardLM_V1_0_Uncensored.html) | 7B | Q5_K_M | 61.44 | 24.20 | 259 |
+| 425 | [Chinese LLaMA 2 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_13B-Q5_K_Chinese_LLaMA_2.html) | 13B | Q5_K | 58.98 | 22.11 | 304 |
+| 426 | [MiniChat 3B 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_3B-Q8_0_MiniChat_3B.html) | 3B | Q8_0 | 60.71 | 24.77 | 255 |
+| 427 | [Ganchengguang Yoko Japanse v0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230907_7B-Q5_K_S_Ganchengguang_Yoko_Japanse_v0.html) | 7B | Q5_K_S | 61.93 | 26.79 | 215 |
+| 428 | [LLaMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_13B-Q5_K_M_LLaMA.html) | 13B | Q5_K_M | 62.01 | 24.25 | 238 |
+| 429 | [Wizard Vicuna Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Wizard_Vicuna_Uncensored.html) | 7B | Q5_K_M | 61.50 | 24.81 | 235 |
+| 430 | [Rinna Youri 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_M_Rinna_Youri.html) | 7B | Q5_K_M | 57.01 | 21.95 | 306 |
+| 431 | [LLaMA-2 Instruct 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_LLaMA-2_Instruct_32K.html) | 7B | Q5_K_M | 60.81 | 20.81 | 275 |
+| 432 | [ELYZA Jp LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_ELYZA_Jp_LLaMA-2.html) | 7B | Q5_K_M | 62.34 | 28.02 | 174 |
+| 433 | [Leo Mistral Hessianai Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231016_7B-Q5_K_M_Leo_Mistral_Hessianai_Chat.html) | 7B | Q5_K_M | 67.65 | 25.64 | 141 |
+| 434 | [MAmmoTH 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_MAmmoTH.html) | 7B | Q5_K_M | 59.44 | 25.42 | 227 |
+| 435 | [Chinese Alpaca 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_7B-Q6_K_Chinese_Alpaca_2.html) | 7B | Q6_K | 58.94 | 29.29 | 187 |
+| 436 | [Chinese Alpaca 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_S_Chinese_Alpaca_2.html) | 7B | Q5_K_S | 59.04 | 27.17 | 182 |
+| 437 | [Marx V2 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230823_3B-Q4_1_Marx_V2.html) | 3B | Q4_1 | 50.47 | 22.92 | 313 |
+| 438 | [CodeLLaMA Instruct 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA_Instruct.html) | 7B | Q5_K_M | 62.18 | 19.39 | 223 |
+| 439 | [ALMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_13B-Q6_K_ALMA.html) | 13B | Q6_K | 59.92 | 25.36 | 182 |
+| 440 | [Uncensored Jordan 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231030_7B-Q5_K_M_Uncensored_Jordan.html) | 7B | Q5_K_M | 62.20 | 23.61 | 173 |
+| 441 | [WizardLM Uncensored 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_WizardLM_Uncensored.html) | 7B | Q5_K_M | 55.70 | 32.57 | 142 |
+| 442 | [Nous Yarn 64K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_Nous_Yarn_64K.html) | 7B | Q5_K_M | 55.98 | 21.21 | 255 |
+| 443 | [Pandalyst V1.0 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_13B-Q5_K_M_Pandalyst_V1_0.html) | 13B | Q5_K_M | 65.73 | 16.98 | 192 |
+| 444 | [CodeLLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA.html) | 7B | Q5_K_M | 57.78 | 21.41 | 229 |
+| 445 | [MiniMA 3B 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_3B-Q8_0_MiniMA_3B.html) | 3B | Q8_0 | 56.47 | 22.05 | 234 |
+| 446 | [LLaMA-2 32K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_K_M_LLaMA-2_32K.html) | 7B | Q5_K_M | 61.02 | 17.02 | 229 |
+| 447 | [Open LLaMA 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231115_13B-Q5_K_M_Open_LLaMA.html) | 13B | Q5_K_M | 61.16 | 20.10 | 193 |
+| 448 | [ELYZA Japanese LLaMA 2 Fast 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231022_7B-Q6_K_ELYZA_Japanese_LLaMA_2_Fast.html) | 7B | Q6_K | 62.16 | 21.17 | 167 |
+| 449 | [Chinese LLaMA-2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_7B-Q5_K_Chinese_LLaMA-2.html) | 7B | Q5_K | 59.02 | 19.49 | 216 |
+| 450 | [ALMA Pretrain 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230923_7B-Q5_K_M_ALMA_Pretrain.html) | 7B | Q5_K_M | 57.56 | 22.48 | 199 |
+| 451 | [Mamba GPT v4 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230908_3B-Q5_1_Mamba_GPT_v4.html) | 3B | Q5_1 | 49.43 | 23.27 | 276 |
+| 452 | [OpenLLaMA v2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_OpenLLaMA_v2.html) | 7B | Q5_K_M | 48.24 | 21.86 | 301 |
+| 453 | [Nous Yarn 128K 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230901_7B-Q5_K_M_Nous_Yarn_128K.html) | 7B | Q5_K_M | 54.82 | 20.88 | 239 |
+| 454 | [WizardCoder Python V1.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_7B-Q5_K_M_WizardCoder_Python_V1_0.html) | 7B | Q5_K_M | 57.26 | 18.82 | 235 |
+| 455 | [LLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q6_K_LLaMA.html) | 7B | Q6_K | 59.53 | 18.20 | 216 |
+| 456 | [TinyLlama 1.1B Chat V0.3 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q5_K_M_TinyLlama_1_1B_Chat_V0_3.html) | 1B | Q5_K_M | 52.81 | 19.91 | 265 |
+| 457 | [Sheared LLaMA 2 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231012_2B-Q5_K_M_Sheared_LLaMA_2.html) | 2B | Q5_K_M | 54.01 | 18.66 | 256 |
+| 458 | [Guanaco 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Guanaco.html) | 7B | Q5_K_M | 56.59 | 22.32 | 188 |
+| 459 | [OpenLLaMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_7B-Q5_K_M_OpenLLaMA.html) | 7B | Q5_K_M | 56.29 | 21.05 | 196 |
+| 460 | [Deacon 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_3B-Q5_0_Deacon.html) | 3B | Q5_0 | 54.24 | 21.83 | 208 |
+| 461 | [ALMA 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230922_7B-Q6_K_ALMA.html) | 7B | Q6_K | 57.51 | 20.35 | 187 |
+| 462 | [Vicuna CoT 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Vicuna_CoT.html) | 7B | Q5_K_M | 56.57 | 22.84 | 169 |
+| 463 | [Bling Sheared LLaMA 2 0.1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_1B-Q8_0_Bling_Sheared_LLaMA_2_0_1.html) | 1B | Q8_0 | 53.98 | 17.29 | 254 |
+| 464 | [TinyLlama 1T OpenOrca 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231011_1B-Q5_K_M_TinyLlama_1T_OpenOrca.html) | 1B | Q5_K_M | 56.11 | 16.46 | 236 |
+| 465 | [Claire 0.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_7B-Q4_0_Claire_0_1.html) | 7B | Q4_0 | 56.27 | 21.58 | 178 |
+| 466 | [LLaMA-2 KO Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230829_7B-Q5_1_LLaMA-2_KO_Chat.html) | 7B | Q5_1 | 57.29 | 18.75 | 195 |
+| 467 | [OpenLLaMA 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230831_3B-Q5_1_OpenLLaMA.html) | 3B | Q5_1 | 53.17 | 20.26 | 222 |
+| 468 | [Airoboros M 3.0 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231005_7B-Q5_K_M_Airoboros_M_3_0.html) | 7B | Q5_K_M | 60.40 | 14.64 | 202 |
+| 469 | [Nucleus Token 500B 22B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231118_22B-Q4_K_M_Nucleus_Token_500B.html) | 22B | Q4_K_M | 53.81 | 20.81 | 206 |
+| 470 | [CodeLLaMA Python 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230824_7B-Q5_K_M_CodeLLaMA_Python.html) | 7B | Q5_K_M | 56.54 | 21.24 | 168 |
+| 471 | [Shearedplats 2 V1 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_2B-Q4_0_Shearedplats_2_V1.html) | 2B | Q4_0 | 54.70 | 18.62 | 208 |
+| 472 | [Bling Sheared LLaMA 2 0.1 2B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231024_2B-Q8_0_Bling_Sheared_LLaMA_2_0_1.html) | 2B | Q8_0 | 52.80 | 18.38 | 226 |
+| 473 | [Sheared LLaMA 2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231010_1B-Q8_0_Sheared_LLaMA_2.html) | 1B | Q8_0 | 52.80 | 19.54 | 208 |
+| 474 | [Chinese LLaMA 2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_7B-Q6_K_Chinese_LLaMA_2.html) | 7B | Q6_K | 56.17 | 17.26 | 189 |
+| 475 | [OpenLLaMA v2 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230821_3B-Q5_0_OpenLLaMA_v2.html) | 3B | Q5_0 | 48.65 | 20.41 | 233 |
+| 476 | [Puma 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230916_3B-Q4_1_Puma.html) | 3B | Q4_1 | 47.89 | 24.85 | 190 |
+| 477 | [Gorilla 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_Gorilla.html) | 7B | Q5_K_M | 60.02 | 10.38 | 203 |
+| 478 | [Open Cabrita 3B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230828_3B-Q5_1_Open_Cabrita.html) | 3B | Q5_1 | 53.59 | 17.36 | 191 |
+| 479 | [TinyAiroboros 2.2.1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q6_K_TinyAiroboros_2_2_1.html) | 1B | Q6_K | 52.78 | 15.86 | 213 |
+| 480 | [Pandalyst V1.2 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231017_7B-Q5_K_M_Pandalyst_V1_2.html) | 7B | Q5_K_M | 59.87 | 11.61 | 178 |
+| 481 | [TinyLlama Chat V0.4 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_1B-Q8_0_TinyLlama_Chat_V0_4.html) | 1B | Q8_0 | 52.79 | 16.21 | 195 |
+| 482 | [Pandalyst V1.1 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230930_7B-Q5_K_M_Pandalyst_V1_1.html) | 7B | Q5_K_M | 60.35 | 11.63 | 158 |
+| 483 | [Smartyplats 1.1b V1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_1B-Q8_0_Smartyplats_1_1b_V1.html) | 1B | Q8_0 | 51.29 | 16.34 | 157 |
+| 484 | [TinyAlpaca V0.1 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_1B-Q8_0_TinyAlpaca_V0_1.html) | 1B | Q8_0 | 51.02 | 14.17 | 174 |
+| 485 | [TinyLLaMA MiniGuanaco 1.5T 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_1B-Q8_0_TinyLLaMA_MiniGuanaco_1_5T.html) | 1B | Q8_0 | 51.70 | 14.81 | 144 |
+| 486 | [Based 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230919_7B-Q5_K_M_Based.html) | 7B | Q5_K_M | 64.80 | 6.91 | 79 |
+| 487 | [WizardLM 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230920_7B-Q5_K_M_WizardLM.html) | 7B | Q5_K_M | 49.35 | 3.74 | 245 |
+| 488 | [TinyMistral 248M 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231114_1B-Q8_0_TinyMistral_248M.html) | 1B | Q8_0 | 50.91 | 2.73 | 120 |
+| 489 | [Chinese Alpaca 2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_1B-Q8_0_Chinese_Alpaca_2.html) | 1B | Q8_0 | 49.15 | 5.17 | 92 |
+| 490 | [CyberAgentLM2 Calm 2 Chat 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231102_7B-Q5_K_M_CyberAgentLM2_Calm_2_Chat.html) | 7B | Q5_K_M | 51.65 | 4.52 | 43 |
+| 491 | [Chinese LLaMA 2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231116_1B-Q8_0_Chinese_LLaMA_2.html) | 1B | Q8_0 | 47.05 | 3.68 | 74 |
+| 492 | [PY007 TinyLLaMA Chat v0.2 1B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20230917_1B-Q8_0_PY007_TinyLLaMA_Chat_v0_2.html) | 1B | Q8_0 | 53.84 | 0.20 | 3 |
+| 493 | [Giraffe V2 32k 13B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231112_13B-Q5_K_M_Giraffe_V2_32k.html) | 13B | Q5_K_M | 51.76 | 0.00 | 0 |
+| 494 | [Azale AI Starstreak Alpha 7B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231031_7B-Q5_K_S_Azale_AI_Starstreak_Alpha.html) | 7B | Q5_K_S | 51.22 | 0.22 | 3 |
+| 495 | [Yi 6B 6B](http://ayumi.m8geil.de/results_v3/model_resp_DL_20231105_6B-Q6_K_Yi_6B.html) | 6B | Q6_K |  |  |  |
 
 ## About Quantization
 
@@ -788,6 +815,8 @@ Here are a few sources of character cards:
   - https://rentry.org/aicgOP - /aicg/ OP templates for ease of baking (managed by other anons)
   - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
   - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
+- [Local Models Related Papers](https://rentry.org/LocalModelsPapers)
+- [Local Models Related Links](https://rentry.org/LocalModelsLinks)
 
 # Cite as
 

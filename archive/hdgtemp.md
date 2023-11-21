@@ -1,6 +1,6 @@
-Old: >>XXXXXXX
-
 X Edition
+
+Previous Thread: >>XXXXXXX
 
 >WEBUI SETUP
 Nvidia: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
@@ -20,7 +20,7 @@ LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://l
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 
-4chanX Catbox/NAI userscript: https://rentry.org/hdgcb
+4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
 Booru: https://aibooru.online
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif

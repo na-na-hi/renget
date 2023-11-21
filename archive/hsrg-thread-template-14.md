@@ -44,8 +44,6 @@ https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e20230330154031
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift
 5S9BND25CRBK 
-SOULWLT4EB
-ELFNQLUST8
 US9SND24U8FB
 JT8BPUJMURUP
 KB9A7VJ5VQW7
