@@ -1156,12 +1156,30 @@ Cons:
 - Can only offer protecting to a single unit
 
 ### ->Fallen Prescia<-
-**TBD**
-TBD
--> ![Fallen Prescia]() <-
+**Good perma support/damage unit with some good crit buffs and TP restoration. Lack of debuff and squishy stats, but can definitely help buff teams. Will shine when units can crit very often. Not a must spark, but will bolster your comp flexibility.**
+For CB, the idea is to have her buff the P.Crit Chance of nearby teammates by 10% while increasing the crit damage received by enemies damaged by her S1. She's got the flying effect like other Alter Maiden girls, which can protect her from various kinds of damage and CC. With the same TP restoration as X.Miyako and a way to heal, her niche will revolve around wanting more offense in your team and getting debuffs elsewhere. While she lacks a P.Def debuff, the crit buffs she pumps out are quite nice. What's a bit odd, is that her AAs deal magic damage, but her S1 and UB deal physical damage take both M.Crit & P.Crit chance into consideration for this. Not too hindering, but it does mean her AAs are significantly weaker in comps with p.def debuffs.
+ For arena players, she's an okay pick. The AOE CC on S1 helps as it cannot be mitigated by a barrier/shield, or dodged. She can dodge snares with her flying state. While not spectacular, it does have its uses.
+-> ![Fallen Prescia](https://redive.estertion.win/card/full/126131.webp) <-
 
 Pros:
-- TBD
+- Increases P.Crit chance on UB, increase based on number of targets to raise
+- Increases P.Crit damage by 2% x number of targets + 1% on UB
+- S1 cannot miss (Bind lands no matter if the unit has a shield/barrier, or the damage is dodged)
+- Flying state allows her to dodge CC and being targeted in most scenarios (including some arena comps)
+- S2 has TP Restoration, HP restoration and P.Crit chance increase to units in range
+- S2 increases Crit damage taken by enemy 
+- HP restoration increases based on her M.Atk for S2
+- Flying state allows her to dodge CC and being targeted in most scenarios (can dodge Rairai UB stun, MS.Kasumi snare) 
+- AOE bind on S2 
 
 Cons:
-- TBD
+- No P.Def debuff
+- Squishy base stats
+- Can be reliant on crits for optimal usage
+- No shields for friendlies or self
+- Does not deal great damage by herself
+- Crit damage buffs are only 12s
+- No stat buffs outside of crit
+- Odd positioning for buffs given current meta units 
+- 220 range may not reach Djeeta, Muimi, L.Muimi in most cases, but does reach up to O.Laby.
+- Does not reach most backline archer units, aside from Arisa.

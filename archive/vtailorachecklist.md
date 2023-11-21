@@ -2,7 +2,7 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/19/23)
+!!! warning Quick Update (11/21/23)
 	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
 	**Updated a few placements**
 	**Added upcoming Phase Connect chuubas and Added (X) indicator to corpos that are either fully complete or completed until new members are announced**
@@ -90,9 +90,9 @@ Tokimori Aoi | X | - | X
 Ibuki Meno | X | - | X
 Kamishiro Rita | X | - | X
 Araka Luto | X | - | X
-Suzune Nia | - | - | -
-Pengin Pina | - | - | -
-Rikudou Yura | - | - | -
+Suzune Nia | X | - | X
+Pengin Pina | X | - | X
+Rikudou Yura | X | - | X
 Kamizuki Naki | - | - | -
 Anon Non | X | - | X
 Ushio Sumi | - | - | -

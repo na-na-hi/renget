@@ -72,15 +72,18 @@ Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
 Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
 The Rest: https://rentry.org/vx255
 >>U-A, Class 3-B
-Meadow Harðardóttir: https://desuarchive.org/tg/post/90976221/
+Meadow Harðardóttir: https://desuarchive.org/tg/post/90992377/
 Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
-Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90976942/
+Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90994440/
 Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
 Li Yinzhen "Jiangshi": https://desuarchive.org/tg/thread/90977623/#90978093
 Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/90977623/#90978639
 Nekiro Nishi "Jupiter": https://desuarchive.org/tg/thread/90977623/#90981069
 Atsushi Akane "Blast Burn": https://desuarchive.org/tg/thread/90977623/#90984028
-Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/thread/90977623/#90985289
+Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/post/90992508/
+Chiba Chiyo "Animata": https://desuarchive.org/tg/post/90990850/
+Nobiko Midorima "Synthesis": https://desuarchive.org/tg/post/90992108/
+Nekiro Nishi: https://desuarchive.org/tg/post/90997317/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -902,7 +905,8 @@ MHA 1.9 part 2 : Ryu-kishi; Maru(maru); Archangel; Last Rite and Reaper in the b
 Dragon to Dragon Communication (Yamamoto, Yamata): https://rentry.org/ug2kk
 A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?)): https://rentry.org/v7yae
 Penumbra (Challenger, Marrow, Tomi): https://rentry.org/MHApenumbra
-
+The Boys™ streaming: https://rentry.org/2fguw
+The Clique™ channel: https://rentry.org/7s2qg
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

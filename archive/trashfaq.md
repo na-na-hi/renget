@@ -2,6 +2,10 @@
 
 [TOC2]
 
+## (Some) Artist Tags
+Furry artist tags (community spreadsheet): https://cryptpad.fr/sheet/#/2/sheet/edit/JzqLNo3G+B+YXzPeBrkje-sU/
+Real artist tags: https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit#gid=2005893444
+
 ## Local or Online?
 Local installation is recommended since it allows for the most freedom.
 Local requires a GPU with a minimum of 4GB VRAM.

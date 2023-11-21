@@ -197,6 +197,10 @@
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - [URL Safety Results](https://www.urlvoid.com/scan/myflixerz.to/)
 
+### ▶️ [Nites TV](https://nites.is/)
+- Streaming platform for watching movies and TV shows online in exceptional full HD quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/nites.is/)
+
 ### ▶️ [OnionPlay](https://onionplay.se/) / [2](https://onionplay.network/)
 - Find all your favorite movies and TV shows and get access to the biggest blockbusters.
 - [URL Safety Results](https://www.urlvoid.com/scan/onionplay.se/)

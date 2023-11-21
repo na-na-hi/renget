@@ -165,6 +165,7 @@
 10/2023|[CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680)
 10/2023|[LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery](https://arxiv.org/abs/2310.18356)
 10/2023|[FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313)
+11/2023|[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)
@@ -430,6 +431,10 @@
 11/2023|[Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs](https://arxiv.org/abs/2311.02262)
 11/2023|[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)
 11/2023|[DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines](https://arxiv.org/abs/2311.10418)
+11/2023|[Token-level Adaptation of LoRA Adapters for Downstream Task Generalization](https://arxiv.org/abs/2311.10847)
+11/2023|[Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
+11/2023|[MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](https://arxiv.org/abs/2311.11501)
+11/2023|[LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](https://arxiv.org/abs/2311.12023)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

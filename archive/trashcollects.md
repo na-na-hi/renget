@@ -1533,6 +1533,11 @@ Proud/Beast Costume
 
 	https://pixeldrain.com/u/DjuM3WuL
 
+# Squat Toilet (Concept)
+>Trigger: squatoile, squat toilet, toilet use.
+	
+	https://files.catbox.moe/01vrpd.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

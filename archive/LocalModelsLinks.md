@@ -61,6 +61,7 @@
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [LoRAShear](https://github.com/microsoft/lorashear)|Structurally prune LLMs via dependency graphs
+[LQ-LoRA](https://github.com/HanGuo97/lq-lora)|Improvement over QLoRA with variable bitrate quantization 
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.

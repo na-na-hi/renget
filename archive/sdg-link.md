@@ -312,6 +312,7 @@ https://civitai.com/user/obinna7713
 https://civitai.com/user/AI_Art_Factory
 https://civitai.com/user/weed
 https://civitai.com/user/Pleased_Chomusuke
+https://civitai.com/user/doombatz
 
 !!! info
 	---------------------------
