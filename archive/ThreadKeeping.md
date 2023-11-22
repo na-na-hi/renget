@@ -446,12 +446,28 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Bullying with kindness (Capture Cloth, Yamata)
-https://rentry.org/oebs9
->Trip to school (Meadow)
-https://pastebin.com/geBb3M22
->Yunikon, the Brilliant Hero (U.A. Teacher)
->>90998494
+American Enforcer?
+>Brightly
+>>91006966
+
+Hifumi 'Fired Up' Stamp
+>>91008290
+
+New Retired Hero:
+>Atsushi Nabiki/HN: Shelong (NPC)
+>>91008430
+
+New Non-Retired Hero:
+>Tosuke Jinai HN Compound
+>>91016593
+
+Missed 3-B Student Builds (We still missing anyone?):
+>Madoka Mikan HN Heartbeat
+https://rentry.org/eesb8
+>Itō Sukemochi HN Warpden
+>>90973632
+>Li Yinzhen, Jiangshi
+>>90978093
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -571,12 +587,17 @@ Class 3-B (U.A.)
 >>90994440
 >Nekiro Nishi
 >>90997317
+>Madoka Mikan HN Heartbeat
+https://rentry.org/eesb8
+>Itō Sukemochi HN Warpden
+>>90973632
+>Li Yinzhen, Jiangshi
+>>90978093
 
 PRO HEROES
 U.A. Teachers:
 >Yunikon, the Brilliant Hero
 >>90998494
-
 ```
 
 ***
@@ -618,6 +639,8 @@ Page 4
 >>89508780
 >Kurogane Keisho HN Yoshizumi
 >>89507063
+>Tosuke Jinai HN Compound
+>>91016593
 
 >Shiketsu Teachers:
 > Anzu Nishima HN Karaburan

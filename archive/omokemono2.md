@@ -282,6 +282,10 @@ If an outdated page gets updated, it loses its outdated status
 	- [Fanbox](https://udonko3.fanbox.cc/)
   	- [Kemono](https://kemono.party/fanbox/user/60295808?o=0)
 
+- Mia_hatori__/羽鳥みあ
+	- [Fanbox](https://gute-nacht-07.fanbox.cc/)
+  	- [Kemono](https://kemono.su/fanbox/user/15726724?q=%E3%81%8A%E3%81%97%E3%81%A3%E3%81%93)
+
 ## Pee + Scat Artists
 *Those artists draw scat but most of them separate the scat from the non-scat so it should be safe
 *Reminder that this list is primary for pee content ; if the artist's scat content greatly overshadows their pee content (ex: coprophagia, hyperscat, or 10 scat pictures for 1 pee picture ), please reconsider if it's a good idea to add them to the list*
@@ -354,6 +358,9 @@ When adding new artists, link to their Patreon/fanbox/whatever, specify to which
 
 - AlphaHyudou
     - [Patreon](https://patreon.com/AlphaHyoudou) (Pee-Focused)
+
+- mumumu_gaman
+	- [Fanbox](https://mumumugaman.fanbox.cc/) (Pee-Focused)
 
 - キリステ/kirisute-buruma
 	- [Fantia](https://fantia.jp/fanclubs/492911) (Pee+Scat)

@@ -847,3 +847,54 @@ Fuwawa's natto braps...
 >A hot and humid gas sprays into the back of Anon's airway and his mind starts slipping away into euphoria
 
 -> * * * <-
+
+## >>62610540
+
+>be (You)
+>oversee dance practice for the holos
+>watch them. that Sora girl's moving it like crazy
+>the rest of the girls ain't half bad
+>and of them got their midriffs out
+>holyfuck.jpg
+>just imagine all the sweat dripping down their stomachs
+>you want to just grab any one of them and run your tongue from their belly button up to their chest
+>drink yourself some of that sweet, sweet nectar
+>*SLUUUUURRRPPPPPPP*
+>but there's one girl who doesn't have her midriff out
+>it's that Suisei chick
+>she's got a sweat absorbent shirt on that's real thin
+>so thin, she might as well not have it there at all
+>ohfuckme.jpg
+>imagine all the sweat that shirt will soak up
+>just run your tongue up along the fabric, tracing those abs, her ribs...
+>shit, does she even wear a bra?
+>nah, man. her tits are too small for that
+>so every time she bends and sways her hips to the beat, you can bet her nipples are rubbing on the fabric
+>fuck
+>there's no way.
+>there's no fucking way you can let her get outta here.
+>not without getting a single. fucking. lick.
+
+>>62649356
+
+>Suisei feels like her training clothes show a bit too much so she goes with double layers
+>The second she arrives and sees your face, she knows she has made a grave mistake.
+>She forgot her Boyfriend's smell fetish
+>Like a patient predator, you wait through the rehearsal. Suisei cant afford to not give her all so she cant just bolt
+>the girls finish. the gymnasium stinks good.
+>and yet you stalk. Suisei is desperate to go and change, but the girls either stop her to talk or use the small changing room before she can get to it
+>Finally its Aki and her. She jumps in, thinking you wont act if Aki is around. However, the elf winks and leaves without changing
+>Suisei watches in despair as you enter the changing room.
+>She REEKS, and is time to pay the tribute
+>Damn cheeky idol, tempting you with her smell... correction is needed
+>Suisei triying to pull you away as you sneak your face inbetween the layers of clothes
+>sniffing and licking all over her body as she's both mortified and horny as fuck
+>armpits, ass, crotch, navel, neck, every single part of her body is molested
+>the room is hot and stuffy, so the clothes get soaked with her idol sweat.
+>By far, the strongest smells come from her crotch (where pubes concentrate all the sweat) and her armpits
+>wip out your dong. Naizuru, rubbing it over her crotch, footjob, pitjob
+>put it inbetween her hot stomach and the weird undershirt. Nut all over her navel
+>Armpits, pubes, her flat chest. ITs all covered in your nut and secured by the layers of clothes.
+>Relish in the fermentation of your cum and Suisei's body odor
+
+-> * * * <-

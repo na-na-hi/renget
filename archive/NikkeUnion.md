@@ -2,7 +2,9 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 21/11/23: Dead Week Edition**
+**Last updated: 22/11/23: Dead Week Edition**
+
+!!!info Time until Union Raid S11: https://timee.io/20231124T0300?tl=NikkeUnionRaid11
 
 ***
 
@@ -19,7 +21,7 @@
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | CLOSED |                                 |
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
-| P愛ZURI   | ==**4983**==  | 6     | 30/32   | TAMA     | PERMISSION |                                 |
+| P愛ZURI   | ==**4983**==  | 6     | 31/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |

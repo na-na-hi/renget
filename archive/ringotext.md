@@ -220,6 +220,7 @@
 | [>>10381431](#10381431) | Gura, Korone, Ina, Sana | brap |
 | [>>34283810](#34283810) | Marine | brap |
 | [>>35733450](#35733450) | Gura | choco |
+| [>>36104099](#36104099) | Lia, Airi | brap, choco, ringo |
 | [>>>/d/10424251](#d10424251) | Fauna | choco |
 | [>>37544668](#37544668) | Sana | brap |
 | [>>>/d/10452042](#d10452042) | n/a | burp, brap |
@@ -265,6 +266,7 @@
 | [>>60458001](https://rentry.org/ringotext2#60458001) | Sora | brap |
 | [>>60535326](https://rentry.org/ringotext2#60535326) | Fuwawa | brap |
 | [>>>/d/10794882](https://rentry.org/ringotext2#d10794882) | Selen | brap |
+| [>>62610540](https://rentry.org/ringotext2#62610540) | Suisei | sweat, smell |
 
 ## >>249165
 
@@ -2525,6 +2527,40 @@ The smell is intense and erotic, shitstink mixed with the musk and pheromones po
 ## >>35733450
 
 Man this thread makes me horny. I'd cook her the best meals and provide her with food that would give her stools with the best consistency. I cook a mean porridge. Quick oats with vanilla yoghurt, and pieces of apple on top. Then I would fuck her ass while she shits. She could push my dick out with her shit and I'd cum in her turds. Then take her longest shit log and deepthroat her with it. Push it down her throat with my dick while fistfucking her ravaged hemorrhoidal shithole. Then I'd suck the freshest remains out of her gaping winking fartbox and wear a shit eating grin. I am THE cure to IBS.
+
+-> [[top]](#ringo-greentext) <-
+-> * * * <-
+
+## >>36104099
+
+Airi had no idea what she was getting into with the cheese eating collab. Lia had tried to put it off, but the wolf was too persistent.
+Lia's stomach was already bothering her just at the thought of having to eat cheese, but knowing her chat would find out her dark secret about her lactose intolerance would be even worse.
+To start off Airi gave Lia a few small cheeses, just to whet her palette, then began moving onto the big hitters
+>this Asiago is a recommendation of Panko!
+Lia could immediately feel the effects as her already aggravated intestines began to contract
+>wasn't that good Lia? I think she likes it chat!
+Lia contorted her face into a smile while holding her stomach
+>ok this next one is a gorgonzola, it should have a very earthy taste
+thinking on her feet, Lia waited until Airi started reading something in chat to lean forward a bit and let out a silent fart. Unfortunately for her, her intestinal tract was too inflamed for a silent one and she let out a loud FRRRRRT
+>...Lia...was that...oh god it was! that smells so bad! oh my eyes burn!
+Lia sank into her seat and tried her best to laugh it off before taking another piece of cheese and asking the easily distracted pon about it
+>yeah that's uhh cranberry goat cheese...you may not like it though
+Trying to chew it up as fast as she could, Lia accidentally swallowed a piece of cranberry whole and began coughing. She tried her best to clench her sphincter, but it was no use as she let out a long wet brap right as she coughed up the cranberry
+>oh god that one sounded wet...what are you guys spamming? panty check? I guess
+before Lia had any idea what was going on, Airi was pulling the waistband of her Freddy Fazbear panties
+>that's bad...your mom is gonna kill you, or make you clean that up yourself...maybe we should stop
+angry, embarrassed, and afraid of her mother's wrath, Lia snapped at the pon wolf
+>shut the fuck up you bitch! this wasn't even my idea you did this! oh my god I'm so fucking pissed off collab done!
+in a fit of rage she slammed the keyboard with her fist hoping to hit the button that ends her stream, but missed. Thinking it was over, Lia got up from her chair carefully and began walking bowlegged very slowly towards her bedroom door so as not to disturb anything.
+Airi sat there thinking to herself before deciding to retaliate against the bratty zoomer "no one calls me a bitch..." she said under her breath,
+>I'm sorry Lia let me help you!
+Airi got up from her chair and came up behind Lia before making a gun with her hands "kanchō!" she yelled abruptly before jabbing Lia's butt with two fingers put together.
+The sheer force and surprise caused Lia to go pale and begin seeing spots. Airi laughed at her misfortune but soon realized what she did was a mistake.
+Lia gripped her stomach and squatted down before messing herself on her new floor. A rush of brown liquid quickly filled her pants as the noise of her rancid sloppy farts ripped through the air and began running down her legs forming a puddle at her feet followed by a stream of urine.
+The bratty zoomer sat there a moment catching her breath, "Lia are you ok, what was that? I'm coming up."
+Rinmama made her way to Lia's door and opened it only to be hit by the stench of her daughter's bowel movements
+>all over my new hardwood floors, Lia!? Do I have to buy you diapers or something!? What happened!?
+>Airi quickly ran over to the computer and forcibly turned it off before helping the still gassy and sensitive Lia to the bathroom.
 
 -> [[top]](#ringo-greentext) <-
 -> * * * <-

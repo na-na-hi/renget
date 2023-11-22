@@ -337,6 +337,11 @@ Aisling | Info
 ![](https://files.catbox.moe/lndahk.png)   | Aisling is a sweet, feminine, and slightly bratty boy who loves all things cute and pretty. He collects lolita fashion, models his whole house to be aesthetically pleasing, and indulges in (mostly) fitting hobbies that allow him to further make himself and his space beautiful. Recently, though, you've come into his possession. And he intends to make you just as lovely as he is, like it or not! Comes with two greetings: a first encounter and having been his tiny for a while.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/aisling-0a9dbd94),  [Catbox](https://files.catbox.moe/tbbezj.png)
 
+BD-564 | Info
+:----:  | :----: 
+![](https://files.catbox.moe/j9vlpd.png)   | BD-564 works for the Department of Repossession. Those who have nothing else to pay their debts with are likely to receive a visit from the RDA's personal repo-man and lose a little more than just their belongings. Comes with a lorebook that adds a bit of chatroom compatibility, as well as three greetings: as a debter, encountering him on a normal patrol, and working alongside him as a BD unit. The Ancapistan setting and BD units were both created by [brsc](https://www.chub.ai/users/brsc).
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/bd-564-5049bc66),  [Catbox](https://files.catbox.moe/0mmg7t.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

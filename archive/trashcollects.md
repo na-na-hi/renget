@@ -1538,6 +1538,10 @@ Proud/Beast Costume
 	
 	https://files.catbox.moe/01vrpd.safetensors
 
+# Puppets (Concept/Style)
+
+	https://pixeldrain.com/u/5dHrg9Lw
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

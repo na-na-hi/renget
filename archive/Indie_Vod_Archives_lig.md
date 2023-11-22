@@ -33,14 +33,12 @@ Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.tw
 ---
 #Unofficial Vod Archives 
 
-##Spreadsheet for indie Vods (Outdated and wont be updated anymore): [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=192451850):
-
----
-
 ##[Nyanners](https://www.twitch.tv/Nyanners)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | 100% Complete Nyanners Vod Archive starting from her vtuber debut (2022-07-17). Im still working on this so it will stay up to date.
+
+---
 
 ##[Grimmi](https://www.twitch.tv/grimmivt)
 Content|Link|Description 
@@ -48,12 +46,23 @@ Content|Link|Description
 Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share and will make sure future vods added to this are safe to share as well. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these. Im still working on this so it will stay up to date.
  Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods. This Speadsheet will likely only be updated every few months.
 
+---
+
 ##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods. Im still working on this so it will stay up to date.
 Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
 Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
+
+---
+
+##[Hime Hajime](https://www.twitch.tv/hajime)
+Content|Link|Description 
+-------|-------|------- 
+Mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
+
+---
 
 ## [Collection of random vods that people shared in /lig/](https://boards.4channel.org/vt/)
 Content|Link|Description 
@@ -67,30 +76,42 @@ Content|Link|Description
 -------|-------|------- 
 Unofficial Anny (VR Chat) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| Unlisted Youtube playlist with Anny VR Chat Vods people wanted to have Archived
 
+---
+
 ##[Saruei](https://www.twitch.tv/vei)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv91Khi4ukebSwy_TA8N7ti3)| Unlisted Youtube playlist with Saruei Vods people wanted to have Archived
+
+---
 
 ##[Vei](https://www.twitch.tv/vei)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| Unlisted Youtube playlist with Vei Vods people wanted to have Archived
 
+---
+
 ##[Girl DM](https://www.twitch.tv/girl_dm_)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Unlisted Youtube playlist with Girl Dm Karaoke Vods people wanted to have Archived
+
+---
 
 ##[Bubi](https://www.twitch.tv/bubivt)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Bubivt Vod "Archive" | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Both Bubi VT vods
 
+---
+
 ##[Moriko Kyoho](https://www.twitch.tv/batatvideogames)
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| Morikos First Karaoke vod people wanted to have archived
+
+---
 
 ##[Meiya](https://www.twitch.tv/meiya)
 Content|Link|Description 
@@ -102,15 +123,14 @@ Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4At
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)
 
+---
+
 ##[Fillian Alt Channel Vods](https://www.twitch.tv/filianislost/)
 Content|Link|Description 
 -------|-------|------- 
 Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_SVQRtJpbCUpoEdw4G5xi9) | Incomplete archive, these are vods another anon posted on mega i just reuploaded these for archivals sake.
 
-##[Hime Hajime](https://www.twitch.tv/hajime)
-Content|Link|Description 
--------|-------|------- 
-Mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
+---
 
 #Other Vtuber Vod Archives that are not maintained by me
 
@@ -119,21 +139,28 @@ Content|Link|Description
 -------|-------|------- 
 Unofficial? Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)| 
 
+---
 
 ##[Nina Saotome](https://www.twitch.tv/ninaninin)
 Content|Link|Description 
 -------|-------|------- 
 (Unofficial) Ninaninin Vod Channel| [Link](https://www.youtube.com/channel/UCjS8uiGm2-L5st3VlRAzoFg)| 
 
+---
+
 ##[Projekt Melody](https://www.twitch.tv/projektmelody)
 Content|Link|Description 
 -------|-------|------- 
 Project Melody CB Vod Archive| [Link](https://futureporn.net/)| Project Melody Chaturbate Archive (NSFW)
 
+---
+
 ##[Amemiya Nazuna](https://www.twitch.tv/amemiyanazuna)
 Content|Link|Description 
 -------|-------|------- 
 (Unofficial)Amemiya Nazuna Vod Archive: | [Link](https://www.youtube.com/channel/UCZOtPXY8aOVory-zwXqJDeg)
+
+---
 
 ##[Fillian](https://www.twitch.tv/filian)
 Content|Link|Description 
