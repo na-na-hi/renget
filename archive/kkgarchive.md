@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7661373/](https://boards.4chan.org/h/thread/7661373/)**&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;#&nbsp;Losers Edition!
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7667911/](https://boards.4chan.org/h/thread/7667911/)**&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;#&nbsp;Chika Host of The Nightmare Edition
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,6 +9,7 @@
 ---
 
 ##&nbsp;->2023<-
+- 654&nbsp;&nbsp;[archiveofsins.com/h/thread/7667911/](https://archiveofsins.com/h/thread/7667911/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Chika Host of The Nightmare Edition
 - 653&nbsp;&nbsp;[archiveofsins.com/h/thread/7661373/](https://archiveofsins.com/h/thread/7661373/)&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Losers Edition!
 - 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[1027]&nbsp;#&nbsp;It's Pizza Time! Edition
 - 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[1001]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!

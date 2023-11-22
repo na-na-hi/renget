@@ -2,21 +2,15 @@
 
 ->![Funny](https://files.catbox.moe/4rop19.png)<-
 
-## ->🎃[Recently added to the archive: 11/15/2023](https://youtu.be/WCl7mShf8TY)🍂<-
+## ->🎃[Recently added to the archive: 11/21/2023](https://youtu.be/WCl7mShf8TY)🍂<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
 ->
-(***Series Entry!***) [Fujo Fantasies - Chapter 3: Bloom and Doom](https://docs.google.com/document/d/e/2PACX-1vQ00MhfvVELmXCB6w66KLynsXzERhV1cx9wW1w_byXjZnvP47VZYoSmhaz4Hk4MBL_RV3rQYpC2fZfb/pub) (Bae, IRyS, Mori, Fauna) 
-(***Series Entry!***) [First Train and Kafka Stop Twenty Four: P.E.T.](https://docs.google.com/document/d/e/2PACX-1vSW_Gukrt6pzriGUWgcmEsKfL1Tep7CfhnKBQpMRff1MBd7mwAoHLN7zNLec5dN8VcQMFp_oMLIPSKh/pub) (Iofi, NSFW, Molestation)
-[Ero Trap Dungeon Derived Greentext and Discussion](https://docs.google.com/document/d/e/2PACX-1vTo1_MPQFpCj_sbney-QI3nKx33y065MzgRyLXerJT5lXYOIezFiOD3a1BLGOmTaInik1BlhLNgPvju/pub) (Coco, various Hololive members ,NSFW, Greentext Compilation)
-[A-Chan Wedgie Help](https://rentry.org/76umn) (A-Chan, NSFW, Wedgie Fetish, OL)
-[Hypothermia](https://docs.google.com/document/u/0/d/e/2PACX-1vSfwu6oRgsmipGnv-HGc8eU1QJvT4xKPeaUWf_eMEBH5B-I-gCCR26Kulw_cC6RLuJTG1JNBC_WKbhS/pub) (Unknown Chuuba, SFW, Poetry, Suicidal Ideation, Parasocial)
-[Fauna Fart Fic (FFF)](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub) (Fauna, NSFW, ***Fart Fetish***, Smell Fetish)
-[Last Stardust Chapter One: Preemptive Strike](https://docs.google.com/document/d/e/2PACX-1vT3rD4oT3ilQvm98_yTPjSUcsI2vH7AIAiK8itBotEldDRQ6JVcXzKeikOnbn8wntaEvqQCUBilNoN9/pub) (Botan,Risu, AZKi, SFW, military)
-[Untitled Sodor Isekai](https://docs.google.com/document/d/e/2PACX-1vTzkKVDCgpaTCxCAaSGf96VO7-q8o3U0d_a1asMWxwgSoy7yYLOVg0p-t8WbT8phDDZ_VJLZbiLHFvB/pub) (AZKi, Projekt Melody, Thomas The Tank Engine, Crack, isekai?, very mild ecchi humor)
-[Holologs](https://docs.google.com/document/d/e/2PACX-1vRs_F0PiVWhlYSfdTX75FO0k3jrSRkwho2gdC4Uxh5c9LeShrKJGvMAU77wNII-rPlmE14XusMP6x07/pub) (Several Chuubas, SFW, Comedy, Compilation)
-[Pale Blue Pt. II - SIDE A](https://docs.google.com/document/d/e/2PACX-1vRucM4T4nNwdzhnMXehLKO1teUdbuZIgGS-PAHP8Bv5RNG9dT2A0ZbtVP7fuUzzO37ZERo5aomCeXRh/pub) (Suisei, Anon, A-chan, Sora, SFW, Drama, Incest, Romance, Identity)
-[HoloShorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Various Chuubas, NSFW, Wedgie Fetish, several short stories within, updated)
+(***Series Entry!***) [HoloFantasy - Chapter 7, Pt. 8 (END) ~ An Earnest Plea](https://docs.google.com/document/d/e/2PACX-1vTEzwvpmgFW1ZmK90mpalNhmvWuK1nO3tVi7yWBl603nGBufXOsOn3PmYu4Zlx9KKL2N87Q7wYZYkFk/pub) (Coco, Polka, Fubuki, Marine, Kanata, Ina, Yagoo, SFW, Fluff, Fantasy Adventure, Arc End)
+(***Series Entry!***) [Fantasy/High Chapter 1](https://docs.google.com/document/d/e/2PACX-1vRWSae9rmYbCf7aLE_bkwvRDAYiPSCbD7oWUt2zj29hsO54JrPStq6MliGP2psL_Biodl-f8ylfwxG0/pub) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)
+[Shiori Wife Story](https://rentry.co/26n6ot) (Shiori, SFW, Fluff/Romance)
+[31 Days With Bae](https://docs.google.com/document/d/e/2PACX-1vTGG7X5Hyxqs2rg9VtVMqaCw12LxR2-gAWbQXwfguKlIWWea_bj1k_-COs6pWBV7zYp06-A1zFQkhH1/pub) (Hakos Belz, SFW, Fluff, Small Cameos)
+[Living on The Edge](https://docs.google.com/document/d/e/2PACX-1vTvbrL_LfcfPIGRPS_Fbgs--7nxIt7h7jJDE12w41p5HaRAf9A7uavEOvDeBofPjqwzyWwxIr7-ivw8/pub) (Ceres Fauna, NSFW, Masturbation)
 <-
 
 

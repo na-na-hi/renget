@@ -25,3 +25,7 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [Last Stardust Chapter One: Preemptive Strike](https://docs.google.com/document/d/e/2PACX-1vT3rD4oT3ilQvm98_yTPjSUcsI2vH7AIAiK8itBotEldDRQ6JVcXzKeikOnbn8wntaEvqQCUBilNoN9/pub) (Botan,Risu, AZKi, SFW, military)
 [Untitled Sodor Isekai](https://docs.google.com/document/d/e/2PACX-1vTzkKVDCgpaTCxCAaSGf96VO7-q8o3U0d_a1asMWxwgSoy7yYLOVg0p-t8WbT8phDDZ_VJLZbiLHFvB/pub) (AZKi, Projekt Melody, Thomas The Tank Engine, Crack, isekai?, very mild ecchi humor)
 [Holologs](https://docs.google.com/document/d/e/2PACX-1vRs_F0PiVWhlYSfdTX75FO0k3jrSRkwho2gdC4Uxh5c9LeShrKJGvMAU77wNII-rPlmE14XusMP6x07/pub) (Several Chuubas, SFW, Comedy, Compilation)
+[Shiori Wife Story](https://rentry.co/26n6ot) (Shiori, SFW, Fluff/Romance)
+[31 Days With Bae](https://docs.google.com/document/d/e/2PACX-1vTGG7X5Hyxqs2rg9VtVMqaCw12LxR2-gAWbQXwfguKlIWWea_bj1k_-COs6pWBV7zYp06-A1zFQkhH1/pub) (Hakos Belz, SFW, Fluff, Small Cameos)
+[Living on The Edge](https://docs.google.com/document/d/e/2PACX-1vTvbrL_LfcfPIGRPS_Fbgs--7nxIt7h7jJDE12w41p5HaRAf9A7uavEOvDeBofPjqwzyWwxIr7-ivw8/pub) (Ceres Fauna, NSFW, Masturbation)
+(***Series link***) [Fantasy/High](https://rentry.co/VTCFFSS#fantasyhigh) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)

@@ -30,6 +30,7 @@
 [HoloFantasy - Chapter 7, Pt. 5 ~ Knight in Blackest Armor](https://docs.google.com/document/d/e/2PACX-1vTGcUdKDco3g8lJ-w-qykRaDVsWijFHXLLMTNHVH-0BRpHvIHB8foqo7KTYJV6WTcJxQsil9T5OQ9T1/pub) 
 [HoloFantasy - Chapter 7, Pt. 6 ~ Finally Together](https://docs.google.com/document/u/4/d/e/2PACX-1vRRSHFa3NYnJGZ8rFtVFE2luSj_fJdRkKxtRUo_ABMtjDrwVUl09aO1tQwHq7j6Em1a7sW8x-Sizgb1/pub) (Coco, Polka, Marine, Ina, Rushia, Noel, Kanata, Fubuki, Shien, Roberu, SFW, Action/Adventure, Fantasy)
 [HoloFantasy - Chapter 7, Pt. 7 ~ Distant Longing](https://docs.google.com/document/d/e/2PACX-1vS2XffUv80rBRe9dRfpSYRHFeuonDuMhpOD3mrmgFSS1rUJVmThDUpHmPgjDHIHjNfXgXw_HsiT5xA6/pub) (Coco, Polka, Marine, Fubuki, Ina, Kanata, Noel, SFW, Drama)
+[HoloFantasy - Chapter 7, Pt. 8 (END) ~ An Earnest Plea](https://docs.google.com/document/d/e/2PACX-1vTEzwvpmgFW1ZmK90mpalNhmvWuK1nO3tVi7yWBl603nGBufXOsOn3PmYu4Zlx9KKL2N87Q7wYZYkFk/pub) (Coco, Polka, Fubuki, Marine, Kanata, Ina, Yagoo, SFW, Fluff, Fantasy Adventure, Arc End)
 [HoloFantasy / Pure Black PT 1 ~ Petty Thief](https://docs.google.com/document/d/e/2PACX-1vQltgfTOA1MBLlTLG06IYa-ZGd328ZG-mslu_qzrPy-692A8a4obMP9bJM4eROOY_yh420ylzZSc9AQ/pub) (Noel, Bibi, SFW, Action-Adventure, Gore, Snuff) 
 [Holofantasy EXTRA - Daydream Hour 1](https://docs.google.com/document/u/3/d/e/2PACX-1vTw06DtyHka4FqFVz-HMzgZiEUwYfGsn6ljuTRrxiGCWZ1mngvrXwboMGlX4UcRWfHXINmBHxDZft-B/pub) (Short, SFW, comedy)
 [Holofantasy EXTRA - Daydream Hour 2](https://docs.google.com/document/d/e/2PACX-1vTW1vW1R4fuTKqwmX2OUp9SAjJUZT9-SXDygu8cMQ1_8wWPYS3zbxuwSjMnUApSRjyTMOqJ1Zi88ky-/pub) (Short, SFW, comedy)
@@ -596,3 +597,8 @@
 [Fujo Fantasies Ch. 1](https://docs.google.com/document/d/e/2PACX-1vQpNQ8GpA1-5pynyLwz_PeNPFAEqSWrR3fP7ITHusXuwTeMzSH1hyKiMeNfIaIRgC5ZTQ2O3ONiVQpY/pub) (Bae, IRyS, Mori, Ayame, mention of Takane, SFW-ish, High School AU, Fujoshis)
 [Fujo Fantasies - Chapter 2: A Roll Of The Die](https://docs.google.com/document/d/e/2PACX-1vQvPXAsB-IFweNjC8_NBP4YpDRVNKjGKGWErBhiAYzqh5Dpz9ZiEpdqn7-I22sfmFHTaED8iraQZaME/pub) (Bae, IRyS, Mori, Ayame, SFW, Highschool AU, Fujoshi) ^
 [Fujo Fantasies - Chapter 3: Bloom and Doom](https://docs.google.com/document/d/e/2PACX-1vQ00MhfvVELmXCB6w66KLynsXzERhV1cx9wW1w_byXjZnvP47VZYoSmhaz4Hk4MBL_RV3rQYpC2fZfb/pub) (Bae, IRyS, Mori, Fauna) ^
+
+##### -> Fantasy/High <-
+>Following Anon's plucking from his world for a fight with a Noel he doesn't recognize by a mysterious force, he finds himself in a brand new world - one far more advanced than his own. With nothing to go on, he ventures into the very first building he sees ahead of him - Cover High. Meeting Transfer Student and co. within, join the two protagonists as they work together and learn about eachother's worlds along the way.
+
+[Fantasy/High Chapter 1](https://docs.google.com/document/d/e/2PACX-1vRWSae9rmYbCf7aLE_bkwvRDAYiPSCbD7oWUt2zj29hsO54JrPStq6MliGP2psL_Biodl-f8ylfwxG0/pub) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)

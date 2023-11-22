@@ -7,6 +7,9 @@
 **Table of Contents**
 [TOC2]
 ***
+!!! note
+	For my most recent prompts, check out my [Furbo Prompts.](https://rentry.org/crustcrunchgpt#gpt4-turbo-prompts-111523-the-furbo-prompts-utility) I use these for both Claude, GPT4, and GPT4-turbo.
+***
 -> ![me and claude](https://files.catbox.moe/dyutsx.png) <-
 ## Introduction
 These jailbreaks are primarily based on the [Break complex tasks into subtasks](https://docs.anthropic.com/claude/docs/break-tasks-into-subtasks) section of the Claude documentation. Essentially, prompts are more effective when broken down into subtasks— in this case, bullet lists.

@@ -2,6 +2,7 @@
 !!! note
 	->20 Nov: Published v1 of my GPT preset.<-
 	->21 Nov: Added instructions for when {{user}} writes intangible text such as inner thoughts/feelings, lies. Also modified to be more initiative.<-
+	->22 Nov: Changed default Temp and Top-P<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -10,7 +11,7 @@
 ###->Download<-
 !!! note Notes
 	->The default word count range is between 200-300. This can be adjusted by clicking on the "Output" add-on in the Prompt Manager chain and modifying it as needed.<-
-->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/wxq8kn.zip)<-
+->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/akxi10.zip)<-
 ***
 ###->Multi-model chats<-
 !!! danger

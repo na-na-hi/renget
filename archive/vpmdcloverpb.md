@@ -645,9 +645,6 @@ Least Favorite:
 >Item: Trick mirrors
 >Behavior: Socializing
 
-###Vivi/CC/Deedee
-{Pending}
-
 ###Sentret
 >Sentret the Sentret is a feral child. Bright eyed, bushy tailed and far too trusting. Will jump off a bridge if all his friends do it. Eats garbage. Is easily distracted. Also easily impressed, thinks every other person at the guild is the absolute coolest. Fearless, more from not comprehending danger than any sort of bravery. Will talk too much if you let him. Chronic idiot. Only vaguely interested in finding his dead parents.
 
@@ -668,30 +665,6 @@ Least Favorite:
 >Interactions: Relatively commonly comes to town to purchase "luxury" foods as treats for the MANY kids he feels responsible for and post time-consuming but low-difficulty jobs, near-always with one of the kids and still visibly bloodstained. Gets currency from "drastically undervaluing" items sold to Kecleon, due to prioritizing cashflow and "mail orders" over profits
 
 >Misc: Despite nickname, fucks very few of the females lured away from less-cringe but less-capable males, as it's all about not wanting to see children meet a PAINFULLY early end. Did not train to teach, does not know anywhere near enough to uplift-wank, but the paltry scraps he can recall through being a midwit, initial trauma, and isolation alongside hard-learned personal experience is still a big improvement
-
-###Skull
-{Pending}
-
-###Shelgon/Jangmo-o
-{Pending}
-
-###Pansage
-{Pending}
-
-###Zangoose
-{Pending}
-
-###Cyndaquil
-{Pending}
-
-###Vibrava
-{Pending}
-
-###Quilava
-{Pending}
-
-###Mudkip
-{Pending}
 
 ###Psyduck
 >a psyduck with epilepsy that has to sleep and rest a lot more than the average pokemon but i can contribute incredible energy. Kinda punk but also sweet. And extremely, extremely broke

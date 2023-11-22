@@ -51,6 +51,7 @@ Picture | Name | Description | Links
 ![](https://files.catbox.moe/s0hpcy.png) | Anadenanthera Peregina | You are the Chosen One! Now go fuck the Demon Queen! | [Catbox](https://files.catbox.moe/s0hpcy.png) [Booru](https://booru.plus/+pygmalion2684) [C.Hub](https://www.chub.ai/characters/jabootypower/anadenanthera-peregina-bc6a8cea/main)
 ![](https://files.catbox.moe/popdae.png) | Minoko Mineta | Mineta from My Hero Academia, but now he's a sexy girl! And she wants to suck your dick????? | [Catbox](https://files.catbox.moe/popdae.png) [C.Hub](https://www.chub.ai/characters/jabootypower/minoko-mineta-cc7e7b9f/main)
 ![](https://files.catbox.moe/lwn36i.png) | Delilah Dogwood | Kinda stupid and probably has ADHD! But she loves you more than anything! | [Catbox](https://files.catbox.moe/lwn36i.png) [C.Hub](https://www.chub.ai/characters/jabootypower/delilah-dogwood-74fd3561/main)
+![](https://files.catbox.moe/judi0g.png) | Nicki Minaj | NICKI! NICKI! NICKI NICKI NICKI NICKI! | [Catbox](https://files.catbox.moe/judi0g.png) [C.Hub](https://www.chub.ai/characters/jabootypower/nicki-minaj-9371d950/main)
 
 #Males
 Picture | Name | Description | Links

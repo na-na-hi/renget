@@ -1,3 +1,4 @@
+-> [![wave2](https://cloverguild.com/booru/data/posts/425_d4a8bced85721e82.png) ](https://cloverguild.com/booru/post/424) <-
 #Intro to the Clover Guild (F.A.Q.)
 
 [TOC2]

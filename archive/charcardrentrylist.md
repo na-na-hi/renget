@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png), [Delilah](https://files.catbox.moe/lwn36i.png), [Minoko Mineta](https://files.catbox.moe/popdae.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Carnage](https://files.catbox.moe/m1b53c.png), [Gretchen](https://files.catbox.moe/f6ovbx.png), [Günther](https://files.catbox.moe/aym65q.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Karinn Nine](https://files.catbox.moe/4j707y.png), [Snow White - Lonesome Pioneer](https://files.catbox.moe/gqpxbt.png), [Lt. Erika Bogue](https://files.catbox.moe/ifyfu8.png), [Snow White - Innocent Days](https://files.catbox.moe/jbc8zh.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Verr'Kori](https://files.catbox.moe/tjt51t.png), [Haruko](https://files.catbox.moe/z6z94c.png), [Corporate Mundo](https://files.catbox.moe/pqipvs.png)|
@@ -30,7 +31,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Sap Hands (M)](https://files.catbox.moe/c5utxw.png), [Sap Hands (F)](https://files.catbox.moe/enwn38.png), [Carise](https://files.catbox.moe/0b0gvs.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Chiharu](https://files.catbox.moe/txocjp.png), [Bearnard](https://files.catbox.moe/0jhjyv.png), [Aisling](https://files.catbox.moe/tbbezj.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Woolly SoftStatic](https://files.catbox.moe/67lby6.png)|[Mishka Blacklilly](https://files.catbox.moe/0zuhhi.png)
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Delilah](https://files.catbox.moe/lwn36i.png), [Minoko Mineta](https://files.catbox.moe/popdae.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kai'Sa](https://files.catbox.moe/76ye9j.png), [Cara](https://files.catbox.moe/cr8ww3.png), [Bimu](https://files.catbox.moe/37dvca.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Impossible To Touch](https://files.catbox.moe/5txti0.png), [Blatta](https://files.catbox.moe/u63glw.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
