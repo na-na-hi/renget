@@ -559,7 +559,6 @@ Page 3
 Students (Cont.)
 
 Class 3-B (U.A.)
->>90988176
 >Animata
 >>90990850
 >Synthesis

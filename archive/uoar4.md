@@ -153,5 +153,6 @@ _______
 |Bae's Yakusoku no Kizuna Cover| [Background Easter egg](https://www.youtube.com/watch?v=40WoArsMQgQ)|
 |Kiara's Pineapple|[As herself(3D)](https://www.youtube.com/watch?v=WuvtwRYkOU0)|
 |Mori's INTERNET YAMERO|[Easter egg](https://www.youtube.com/watch?v=Lp5n-YS22tY)|
+|Noel's Gyudon Carnival| [Hootsie as Easter egg (with La+'s Karasu)](https://www.youtube.com/watch?v=65HJRp_GAig)|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->

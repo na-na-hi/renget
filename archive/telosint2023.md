@@ -33,6 +33,7 @@ https://t.me/DIUkraine (GUR)
 https://t.me/k_2_54 (Combat group K-2 54 OMBr)
 https://t.me/umftteam ("Signum" unit)
 https://t.me/stanislav_osman (call sign "Osmán", 24 OSHB "Aidar")
+https://t.me/bakhmutskyy (call sign "Balu", 210 OSB "Berlingo", Bakhmut direction)
 https://t.me/valerii_markus
 https://t.me/BUAR110ombr 
 https://t.me/ogshb8
@@ -48,6 +49,7 @@ https://t.me/Tsaplienko (journalist)
 https://t.me/ButusovPlus (journalist)
 https://t.me/operativnoZSU (OSINT)
 https://t.me/okoo_ukraine (OSINT)
+https://t.me/kordon1991 (OSINT)
 https://t.me/vert_i_call (Yermak henchman)
 https://t.me/ukrbavovna (war footage)
 https://t.me/+h8-HTHhUp6I2ZWEy (war footage)

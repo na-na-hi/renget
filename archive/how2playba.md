@@ -453,21 +453,22 @@ It's fine to skip a shop if you don't need anything from it that month. Try to l
 >Material Synthesis (the normal one)
 **Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Gifts >= Shiny (orange mats) > Rest**
 
-**Don't do the tier 2 and 3 nodes if you're still strapped for mats.** If you need to ask if you have enough: you don't.
+**Don't do the tier 2 and 3 nodes if you're still strapped for mats.** If you need to ask if you have enough: you don't. I personally only throw in mats if they have an excess of 200. 
 
 In case it wasn't clear yet: you get furniture to cap the energy generation from your cafe. 
 
-If you want to go to node 2: use t1-2 mats you don't care about. Not crafting mats.
+If you want to go to node 2: use t1-2 mats you don't care about. Not crafting keystones.
 
 For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Shiny > Abundance (credits) > Radiant > Mystic (elephs) > The Rest**
 The only reason to farm t3 nodes at this point is for the gifts, you'll have enough of everything else to spend it on getting here. 
-You can spin the wheel with the Radiant, Abundancs, and Mystic options for more entertaining results. I personally always get assmad doing them, but they are very entertaining. 
+You can spin the wheel with the Radiant, Abundance, and Mystic options for more entertaining results. I personally always get assmad doing them, but they are very entertaining. 
 
 >Material Fusion (the new one)
 Trading your garbage away for the freshest sneaks
 **Do not get the raffle ticket**, the choice ticket is the one you want. Raffle tickets are just another gacha, if you prefer to get them seek help. 
 
 You can dump mats from useless schools (like Red Winter, Shanghai, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
+
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
 >Maxing out affection/bond/relationship level with crafting 
@@ -476,7 +477,7 @@ It's a small guide on maximising your wife's affection level (the autistic minma
 
 >Misc. info
 Feel free to use the speedup tickets, you'll have a billion of them lying around. 
-There has never been a 2x event on the crafting chamber, so there's no point in saving your crafting materials up. 
+There has never been a 2x event on the crafting chamber, so there's no point in saving your keystones. 
 
 ## Events
 (the story ones, not 2x ones)

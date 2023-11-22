@@ -126,6 +126,7 @@
 11/2023|[Emu Edit: Precise Image Editing via Recognition and Generation Tasks](https://arxiv.org/abs/2311.10089)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
+12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 05/2021|[EL-Attention: Memory Efficient Lossless Attention for Generation](https://arxiv.org/abs/2105.04779)
 01/2022|[DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale](https://arxiv.org/abs/2201.05596)
 03/2022|[DeepNet: Scaling Transformers to 1,000 Layers](https://arxiv.org/abs/2203.00555)
