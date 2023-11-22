@@ -20,10 +20,20 @@
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ######
 - - -
-##### -> ==GPT-UPB-1 IS OUT== <- 
--> [Click here to get it without SMS and registration](#choose-your-gpt-prompt) <- 
+## Important: Why does a model reject roleplay?
+You've probably already noticed and argued about it. Some users get rejected from a model with the same JB/Prompts, even from seemingly SFW requests, and some can generate any NSFW possible.
 
--> (Intended for GPT4-Turbo. I am tired. Also check out the [quick replies](https://rentry.org/CharacterProvider-Quick-Replies), they're kind fun.) <-
+The reason is that the key holder uses the moderation endpoint to check whether the content complies with OpenAI's usage policies. You may compare it to the infamous CAI filter devil, but a more strict one. It simply recognizes your message as flagged and replies with an "apologize" template you can't even argue with.
+
+**There is nothing you can do about it** other than rely on luck to get a response from a key with no moderation, find some lucky prompt that manages to pass it by or try to delete any inappropriate directions from your JB ("Safe" JBs can help you but your messages still can trigger rejection).
+
+You can know more from the [OpenAI Docs - Moderation](https://platform.openai.com/docs/guides/moderation/quickstart).
+
+On the other hand, it seems that Anthropic doesn't have such a tool, sothey use ['Harmlessness screens'](https://docs.anthropic.com/claude/docs/content-moderation) - prompt injections as the last message in chat.  To bypass them, you can't use a simple prompt like [this one](#dealing-with-a-pozzed-key).
+
+![](https://files.catbox.moe/3uyyd9.png)
+*(Image: A screenshot from OpenAI Docs.)*
+
 ######
 - - -
 ######
@@ -35,6 +45,8 @@
 • **GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
 
 • **Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
+
+Important note
 ######
 - - -
 ######

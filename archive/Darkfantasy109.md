@@ -14,7 +14,7 @@ Almost all my bots use images I've taken from the internet. The ones whose sourc
 ***
 
 !!! warning CURRENT STATUS
-	->**SEMI-HIATUS**<-
+	->**HIATUS**<-
     ->He's come again, he's gone again.<-
 	->Whether I'm active or in hiatus, I always check my burner regardless. I love and appreciate all email, no matter how extraneous it might be, so don't be shy if you want to hit me up! darkfantasy109@proton.me<-
 **Table of Contents**

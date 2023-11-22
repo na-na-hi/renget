@@ -18,7 +18,7 @@
 | Kalafina - Magia | -> [![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8) <- |5m25|
 | DECO\*27 - The Vampire (English cover) |-> [![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw) <-|3m14|
 | Down By The River (Baldur's Gate 3) | -> [![](https://i.ytimg.com/vi/8j3wK1DXhrs/mqdefault.jpg)](https://www.youtube.com/watch?v=8j3wK1DXhrs) <- |2m38|
-| MOKA☆ - Lilium | -> [![](https://i.ytimg.com/vi/-GUdYPelG8c/mqdefault.jpg)](https://www.youtube.com/watch?v=-GUdYPelG8c) <- |4m18|
+| MOKA☆ - Lilium | -> [![](https://i.ytimg.com/vi/-GUdYPelG8c/mqdefault.jpg)](https://www.youtube.com/watch?v=-GUdYPelG8c) <- |4m17|
 
 #####Collab Songs
 | Song | Link | Duration |

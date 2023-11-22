@@ -47,7 +47,7 @@
 11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 11/2023|[Automatic Engineering of Long Prompts](https://arxiv.org/abs/2311.10117)
 |
-|**OpenAI (EA coup as of 11/2023)** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
+|**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
 01/2020|[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
@@ -452,3 +452,4 @@
 09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.is/keLl0)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
+11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.ph/Tch3H)

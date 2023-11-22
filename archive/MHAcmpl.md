@@ -72,6 +72,7 @@ Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
 Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
 The Rest: https://rentry.org/vx255
 >>U-A, Class 3-B
+Yunikon, the Brilliant Hero (U.A. Teacher): https://desuarchive.org/tg/post/90998494/
 Meadow Harðardóttir: https://desuarchive.org/tg/post/90992377/
 Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
 Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90994440/
@@ -907,6 +908,8 @@ A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Reb
 Penumbra (Challenger, Marrow, Tomi): https://rentry.org/MHApenumbra
 The Boys™ streaming: https://rentry.org/2fguw
 The Clique™ channel: https://rentry.org/7s2qg
+Bullying with kindness (Capture Cloth, Yamata): https://rentry.org/oebs9
+Trip to school (Meadow): https://pastebin.com/geBb3M22
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

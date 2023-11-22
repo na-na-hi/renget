@@ -37,10 +37,10 @@ Botmaker | Category | New Bots | Updated Bots
 [Luneose](https://rentry.org/luneose) | Misc |[Luci](https://files.catbox.moe/wur1wk.png)|
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Karla](https://files.catbox.moe/nv4rwd.png)|[Karla](https://files.catbox.moe/nv4rwd.png) [MV]
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||[Kairie](https://files.catbox.moe/nssn5d.png)
 [CptPants](https://rentry.org/CptPants) | Misc ||

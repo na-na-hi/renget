@@ -11,7 +11,7 @@
 ###->Download<-
 !!! note Notes
 	->The default word count range is between 200-300. This can be adjusted by clicking on the "Output" add-on in the Prompt Manager chain and modifying it as needed.<-
-->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/akxi10.zip)<-
+->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/nmt8ej.zip)<-
 ***
 ###->Multi-model chats<-
 !!! danger

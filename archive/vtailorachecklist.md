@@ -2,7 +2,7 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/21/23)
+!!! warning Quick Update (11/22/23)
 	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
 	**Updated a few placements**
 	**Added upcoming Phase Connect chuubas and Added (X) indicator to corpos that are either fully complete or completed until new members are announced**
@@ -93,9 +93,9 @@ Araka Luto | X | - | X
 Suzune Nia | X | - | X
 Pengin Pina | X | - | X
 Rikudou Yura | X | - | X
-Kamizuki Naki | - | - | -
+Kamizuki Naki | X | - | X
 Anon Non | X | - | X
-Ushio Sumi | - | - | -
+Ushio Sumi | X | - | X
 Shikami Lana | - | - | -
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
@@ -1434,7 +1434,7 @@ Lamuril Ragna X' | - | - | -
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Airi Viridis | - | - | -
-Mozumi Pichi | X | X | -
+Mozumi Pichi | X | X | X
 Kirispica | - | - | -
 
 ## -> NHOT BOT <-
@@ -1471,7 +1471,7 @@ Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
 Nanobites | X | X | - | -
 Towa Rui | X | - | X | -
-Ace Taffy | X | - | X | ???
+Ace Taffy | X | - | X | -
 Kirsche Verstahl | X | - | X | -
 Eira Woolcott | X | - | X | -
 Tomoe Umari | X | - | X | -
