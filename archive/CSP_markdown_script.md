@@ -7,7 +7,7 @@
 	- You now have csp asset store markdown in your clipboard formatted properly, thumbnail and all.
 	- Deleted assets still need to be handled manually for now
 
-```
+```js
 // ==UserScript==
 // @name         CSP Markdown conversion
 // @version      1.3
@@ -103,6 +103,58 @@
 })();
 
 ```
+
+## Wishlist checker
+- CSP Wishlist fulfillment checker. Just go to wishlist and if a link is in yellow its already added.
+```js
+// ==UserScript==
+// @name         CSP Wishlist crosschecker
+// @version      1
+// @description  Highlight CSP links from CSP_368476 on Brush Wishlist
+// @match        https://rentry.org/Brush_Wishlist
+// @match        https://rentry.org/Brush_Wishlist/edit
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Fetch CSP_368476 page content
+    fetch('https://rentry.org/csp_368476')
+        .then(response => response.text())
+        .then(cspPageContent => {
+            // Extract CSP links from CSP_368476 page content
+            const cspLinks = getCspLinks(cspPageContent);
+
+            // Highlight matching links on Brush Wishlist page
+            highlightMatchingLinks(cspLinks);
+        });
+
+    // Function to extract CSP links from page content
+    function getCspLinks(pageContent) {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(pageContent, 'text/html');
+        const links = doc.querySelectorAll('a[href*="https://assets.clip-studio.com"]');
+
+        return Array.from(links).map(link => link.href);
+    }
+
+    // Function to highlight matching links on Wishlist page
+    function highlightMatchingLinks(cspLinks) {
+        const wishlistLinks = document.querySelectorAll('a[href*="https://assets.clip-studio.com"]');
+
+        wishlistLinks.forEach(link => {
+            if (cspLinks.includes(link.href)) {
+                // Customize the highlight style as needed
+                link.style.backgroundColor = 'yellow';
+                link.style.color = 'red';
+            }
+        });
+    }
+
+})();
+```
+
 
 -> [**[TOP]**]() ->
 !!! danger

@@ -5,8 +5,6 @@
 |--|--|--|
 |[![img](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png?width=256&s=f0e3a92cc6665b3dcbe9e3eae7e0656f9db62c74)](https://discord.gg/sdmodelers)  | [![img](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/hassanblend) | [![img](https://i.imgur.com/VjXudEc.png)](https://ko-fi.com/sdhassan) [![img](https://gcdn.thunderstore.io/live/repository/icons/HolloFox_TS-Patreon_Plugin-1.0.2.png.128x128_q95.png)](https://www.patreon.com/sd_hassan/membership)|
 
-you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth address
-
 ### Quicklinks: 
 
 * [Latest Setup](https://rentry.org/sdhassan#current-setup)
@@ -26,7 +24,10 @@ you can also donate crypto to `0x9efd05EdC97155C66C80AB9A7EFE8C1fa13dBC3f` eth a
 * [Guides](https://rentry.org/sdhassan#random-guides)
 
 Changelog:
-
+- `Nov 21th - 2023` - 
+	-[Patreon release of Controlnet Instagram POSES)](https://rentry.org/sdhassan#patreon-posts)
+- `Nov 21th - 2023` - 
+	-[Added HassanSDXL release publicly for checkpoint and LORA)](https://civitai.com/user/sdhassan/models)
 - `Nov 11th - 2023` - 
 	-[Added Patreon release for Mobile Detection model)](https://rentry.org/sdhassan#patreon-posts)
 - `Sep 14th - 2023` - 	
@@ -92,74 +93,31 @@ Changelog:
 
 
 ### SDXL Finetuning 
-First release of my NSFW SDXL Checkpoint+ Lora available for [Ultimate Patreon supporters!](https://www.patreon.com/sd_hassan)
+First release of my NSFW SDXL Checkpoint+ Lora available! [Ultimate Patreon supporters!](https://civitai.com/user/sdhassan/models)
+What's Inside the Release?
 
----
-license: cc
----
-# NSFW Model Release: Starting base model to improve Accuracy on Female Anatomy
+[Pruned SDXL NSFW checkpoint](https://civitai.com/models/207597/hassansdxl?modelVersionId=233750)
 
-I am excited to announce the release of our SDXL NSFW model! This release has been specifically trained for improved and more accurate representations of female anatomy. 
-As always, our dedication lies in bringing high-quality and state-of-the-art models to our users so this model is far from complete, it's simply the first version of early access while I continue refining it.
+[LORA](https://civitai.com/models/207712/hassansdxl-lora?modelVersionId=233880): Can be used independently or combined with the checkpoint.
 
-## 🔐 Exclusive Early Access for Ultimate Tier Patrons
-
-I value your support, and as a token of appreciation, I am giving **exclusive early access** to the Ultimate Tier Patrons.
-
-- **How to get access?** If you are an Ultimate Tier Patron, you can get started right away!
-  1. Head over to our Patreon: [https://www.patreon.com/sd_hassan](https://www.patreon.com/sd_hassan)
-  2. Ensure that you are subscribed as an Ultimate Tier Supporter.
-  3. Request access by providing huggingface with the same email address you used for supporting us on Patreon.
-
-## 📦 What's Inside the Release?
-
-- **13GB Model Checkpoint**: Gain access to the model's comprehensive checkpoint, allowing for advanced deployments, fine-tuning, and custom integrations.
-  
-- **Multiple Variations of LORA**: Can be used independently or combined with the checkpoint.
-
-- **See Samples** you can see samples from the model here in my Patron post https://www.patreon.com/posts/sdxl-training-89256045
-- Note that I have used simply the prompts I have trained, these examples can be vastly improved by using more positive prompts, negative prompts or extra tools such as Controlnet/Adetailer
-
-## ✨ Features
-
-- Enhanced accuracy on female anatomy representations.
-- State-of-the-art model performance on NSFW content classification and generation.
-- Fine-tuned on a diverse dataset ensuring comprehensive and respectful representations.
-
-## 🚀 Quickstart
-
-Once you've received your exclusive download link:
-1. Download the model checkpoint and desired LORA variation.
-2. Integrate into your HuggingFace environment, such as comfyui or a stable diffusion webui like Automatics/Vlads/Invoke etc
-3. Start using the model for your applications!
-
-## 📜 Terms of Use
-
-- This model is for local use only. There is no sponsorship with this model and only when the model is actually released may agreements be made with independent companies
-- Ensure compliance with all applicable laws and regulations when using the model.
-- Respect the privacy and rights of individuals when using or sharing generated content.
-
-## 🙏 Thank You!
-
-Your support is instrumental in pushing the boundaries of AI research. 
-I'm deeply grateful to our community and especially to our Ultimate Tier and other tier Supporters for making this possible. Together, we are shaping the future!
-
-For any queries or support, reach out to me on Patron or Discord.
-
----
+See Samples you can see samples from the models here or on Civitai: [https://imgchest.com/p/ej7mm3pj97d](https://imgchest.com/p/ej7mm3pj97d)
 
 
-
-
-[Latest patreon public post here regarding my training of SDXL NSFW with Samples included](https://www.patreon.com/posts/89256045)
-Training is pretty complete, in testing now, examples on the post shared. Patreons will gain early access first then it will release free to all
-
-### 2.1 Finetuning 
-
-[Latest blog post here regarding my training of SD2.1](https://www.patreon.com/posts/sd2-1-update-81883581)
-Training is pretty complete, in testing now, examples on the post shared. Patreons will gain early access first then it will release free to all
 
 ### Patreon Posts: 
+
+[Nov 21st 2023](https://www.patreon.com/posts/release-hassan-93283936): [Release] Hassan Instagram style POSES
+Pack contents
+* 50 x Open pose 
+* 50 x Depth pose
+* 50 x Canny pose
+* 50 x Lineart pose
+I have thousands of instagram images of various people that I've converted into ControlnetPoses.
+
+I have multiple packs being created of poses, the first pack here contains 200 poses. Each pose is available in 4 controlnet styles so for one pose you can load it across multiple controlnets.
+
+![Pose sample](https://i.imgur.com/JHukQv9.png)
+
 
 !!!info Patreon members now will receive custom embeddings / hypernetworks and models that I release
 	- Exclusive content that won't be public at various tiers and steps per tier

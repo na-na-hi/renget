@@ -2,7 +2,7 @@
 	# 3D Assets
 !!! danger
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
-[**[edit this rentry here]**](https://rentry.org/CSP_3D/edit)<-
+[**[edit this rentry here]**](https://rentry.org/CSP_3D/edit) [**[plaintext for backing up]**](https://rentry.org/CSP_3D/raw)<-
 [Back to hub](https://rentry.org/CSP_materials)
 !!! info
     - create a canvas 2000x2000, put the 3d model there, save, ez

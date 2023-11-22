@@ -331,3 +331,86 @@ https://rentry.org/iy2du
 >The Tournament Begins (Yamata, Archangel, Recoil, Maru(maru), Ryu-Kishi, Yako, Drone, Sunlight Man, Capture Cloth, Orbit, Crazy Train, Hydra, and various other minor appearances)
 https://rentry.org/d5urh
 +Extended Edition https://rentry.org/mcymhatournament
+----------------------------------------------------------------------------------------------------------------------------
+Page 6
+----------------------------------------------------------------------------------------------------------------------------
+>Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru), Challenger, Flying Force, Mirror Devil, The Boys, Class-1D)
+https://rentry.org/v74ss
+>Out of Place, Just in Time(Last Rite, Archangel, Ryu-kishi, Desolator)
+https://rentry.org/sdtpu
+>Refocus (Mirror Devil, Desolator)
+https://rentry.org/os5np
+>Outing (Hivemind)
+https://rentry.org/vpsbz
+>The Presence of a Phantom (featuring who?)
+https://rentry.org/literallywho
+>Montage (Rebecca Weber, Pax, Emilia Busujima, and minor appearances of Ryu-Kishi, Mirror Devil, The Doctor, Rosethorn, and Mercy)
+https://rentry.org/rv6ma
+>Battle Against a (Fake) Dragon (Remake) (Feral, Yamata. Cameo of Flying Force, Capture Cloth and Mirror Devil):
+https://rentry.org/ssh6r
+> Dinner and a Show (Nightmare, Nox, Pax, Mercy) 
+https://rentry.org/iengx
+>Mirror's Visit (Yamata, Mirror Devil)
+https://rentry.org/wzxtzs
+>Inigo and Hoge Literally Just Talking About Nothing - (Ryu-kishi, Maru(maru)): 
+https://rentry.org/JustTalking
+>A Dance with the Devil in the Pale Moonlight(Last Rite, Android, Yamata, Desolator)
+https://rentry.org/4gvka
+>Serpentine Fire Overture (Seiryu, Honoken, Magnum Shrimp, Flamingal)
+https://rentry.org/dcvxso
+>A Mother's Worries (Orochi's mother, Yamata, Mirror Devil Cameo):
+https://rentry.org/epoic
+>I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
+https://rentry.org/o8si2
+>At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
+https://rentry.org/z2sqy
+>Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
+https://controlc.com/a4a6767d
++Alternate Link: https://rentry.org/HxH-5
+>The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow):
+https://rentry.org/bnu9t
+----------------------------------------------------------------------------------------------------------------------------
+Page 7
+----------------------------------------------------------------------------------------------------------------------------
+>Faith Kang in: SummerFest Aside (Drone, The hivemind)
+https://rentry.org/8rzuy
+>The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
+https://rentry.org/akrst
+>Attack of Titans (Flying Force, Maddox)
+https://rentry.org/fwfpv
+>Misadventures at the Dojo Part 2: Wildfire (Yako, Maru(maru), Yamata, Last Rite, Drekus, and other minor appearances)
+https://rentry.org/DojoMisadventure2
+>Fourth of July in Japan(1-D, Rosethorn)
+https://rentry.org/wvogc
+>Maxine Nguyen in: Smoke Break (Radius, Marrow, others)
+https://rentry.org/7vudv
+>A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
+https://rentry.org/y4fad
+>Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
+https://rentry.org/8k3mk
+>Gossip 7 (Hivemind)
+https://rentry.org/3ihws
+>Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
+https://rentry.org/4457t
+>The Doctor Is In (Emilia, Rebecca, Hifumi, Mio, Chihiro)
+https://pastebin.com/kKsXgLwW
+>Do Unto Others (Last Rite, Android)
+https://rentry.org/5ud7y
+>Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
+https://rentry.org/wyny7
+>Official Hive Video Channel List (The Clique)
+https://rentry.org/7s2qg
+>Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
+https://rentry.org/bga3m
+>DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
+https://rentry.org/f5xpe
+>Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
+https://rentry.org/svwyy
+>Wrong Answers (Mirror Devil, Challenger):
+https://rentry.org/umx6c
+>Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
+https://rentry.org/udt96
+>I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
+https://rentry.org/uzu56
+>Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
+https://rentry.org/4i5gm

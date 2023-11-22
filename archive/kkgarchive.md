@@ -10,7 +10,7 @@
 
 ##&nbsp;->2023<-
 - 653&nbsp;&nbsp;[archiveofsins.com/h/thread/7661373/](https://archiveofsins.com/h/thread/7661373/)&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Losers Edition!
-- 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;It's Pizza Time! Edition
+- 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[1027]&nbsp;#&nbsp;It's Pizza Time! Edition
 - 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[1001]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!
 - 650&nbsp;&nbsp;[archiveofsins.com/h/thread/7646355/](https://archiveofsins.com/h/thread/7646355/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 09:52)&nbsp;&nbsp;[879]&nbsp;#&nbsp;"We're gonna learn about dead themes" Edition
 

@@ -1,4 +1,4 @@
-#Паша Техник
+#Паша Техинк
 ->![Rentry? In 2023?](https://files.catbox.moe/4zxsfh.gif)<-
 !!! note haha numbers go up
 ***

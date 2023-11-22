@@ -3,6 +3,8 @@
 
 Date | Content added
 ------ | ------
+21/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w), and [Aventurine](https://mega.nz/folder/NiFC3JAZ#h--JqhjsZGPJPDQyvr9AJQ) Misc. folder.
+20/11/23   | Added new files to [Sunday](https://mega.nz/folder/hzsxCShK#DZ9bXVgOfvggBiOVgKdz2Q), and [Acheron](https://mega.nz/folder/g2snRJiR#BIfdv-PyZYHVNC6XHZSq7Q) Misc. + Story+Voicelines folders, and added new files to [Firefly](https://mega.nz/folder/AjE2iBTA#KuyAL6isydEOauOqV0AaSg) Story + Voicelines folder.
 18/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) Gameplay folder, and [Boothill](https://mega.nz/folder/pvNmjaIQ#4-SXdKUXviwVNlAwAW3fpg) Misc. + Story+Voicelines folders.
 17/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), and [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w) Animations + Gameplay folders
 14/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w), and [Screwllum](https://mega.nz/folder/Eysm2QIT#uuFRcMxB1wPXV7kgZo7C9g) folders.

@@ -5,6 +5,9 @@
 -> Cute Draws! <-
 -> https://rentry.org/SmileyDraws <-
 
+-> NAI Artists Styles <-
+-> https://rentry.org/SmileyNAIArtists <-
+
 ***
 
 ## Who?

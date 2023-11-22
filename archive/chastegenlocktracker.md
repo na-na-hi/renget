@@ -29,5 +29,8 @@ _(Updated 21-Nov-2023)_
 | nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
 | unlockely | https://chaster.app/sessions/3lDKYIN3DiZRI0tf | === |
 | OttawaCuckold | https://chaster.app/sessions/SK9LJkjYLf5v2igc | === |
+| Djfaggotloser | https://chaster.app/sessions/geL77jUoHdQpMLdh | === |
+| Latexfurryfan | https://chaster.app/sessions/SfSxcnzfjRYag6S9 | 07-Dec-2023 |
+| tryingsss | https://chaster.app/sessions/XNi6AA04oO3HdzyG | === |
 |  |  |  |
 |  |  |  |

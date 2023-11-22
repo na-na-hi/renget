@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 20/11/23: Stove Edition**
+**Last updated: 21/11/23: Dead Week Edition**
 
 ***
 
@@ -23,7 +23,7 @@
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ | ==**20186**== | 1    | 6/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ | ==**20186**== | 1    | 8/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -37,7 +37,7 @@
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN    | CLOSED |  for midcuties                      |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
-| CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
+| CUNNYSSI | ==**25331**== | 6     | 32/32   | NEPBOI  | PERMISSION |                            |
 | KUNNYHUB | ==**29940**== | 3 | 32/32 | CUNNYGOD | PERMISSION | Casual/newcuties welcome |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 

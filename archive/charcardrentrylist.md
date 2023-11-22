@@ -18,8 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Nawfa](https://files.catbox.moe/4yx7x0.png)|[Nawfa](https://files.catbox.moe/4yx7x0.png) [MV]
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Carnage](https://files.catbox.moe/m1b53c.png), [Gretchen](https://files.catbox.moe/f6ovbx.png), [Günther](https://files.catbox.moe/aym65q.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[Karinn Nine](https://files.catbox.moe/4j707y.png), [Snow White - Lonesome Pioneer](https://files.catbox.moe/gqpxbt.png), [Lt. Erika Bogue](https://files.catbox.moe/ifyfu8.png), [Snow White - Innocent Days](https://files.catbox.moe/jbc8zh.png)|
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[Verr'Kori](https://files.catbox.moe/tjt51t.png), [Haruko](https://files.catbox.moe/z6z94c.png), [Corporate Mundo](https://files.catbox.moe/pqipvs.png)|
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Nawfa](https://files.catbox.moe/4yx7x0.png)|[Nawfa](https://files.catbox.moe/4yx7x0.png) [MV]
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Tsuneko](https://files.catbox.moe/pd60kf.png), [Lyphys](https://files.catbox.moe/igtfvy.png), [Stacy Rosewood](https://files.catbox.moe/080qcw.png)|
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Iliara](https://files.catbox.moe/pr9n2x.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[The Dollhouse](https://files.catbox.moe/6y48kt.png), [Akari-chan](https://files.catbox.moe/60jvda.png), [Reina](https://files.catbox.moe/heprgj.png), [SCP-8963](https://files.catbox.moe/ec9ert.png)|
@@ -31,12 +33,11 @@ Botmaker | Category | New Bots | Updated Bots
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Delilah](https://files.catbox.moe/lwn36i.png), [Minoko Mineta](https://files.catbox.moe/popdae.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Kai'Sa](https://files.catbox.moe/76ye9j.png), [Cara](https://files.catbox.moe/cr8ww3.png), [Bimu](https://files.catbox.moe/37dvca.png)|
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Impossible To Touch](https://files.catbox.moe/5txti0.png), [Blatta](https://files.catbox.moe/u63glw.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Gretchen](https://files.catbox.moe/f6ovbx.png), [Günther](https://files.catbox.moe/aym65q.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Snow White - Lonesome Pioneer](https://files.catbox.moe/gqpxbt.png), [Lt. Erika Bogue](https://files.catbox.moe/ifyfu8.png), [Snow White - Innocent Days](https://files.catbox.moe/jbc8zh.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Luci](https://files.catbox.moe/wur1wk.png)|
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Karla](https://files.catbox.moe/nv4rwd.png)|[Karla](https://files.catbox.moe/nv4rwd.png) [MV]
+[SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Alpaca](https://rentry.org/AlpacaBots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
@@ -58,7 +59,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
-[SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||

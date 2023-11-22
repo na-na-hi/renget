@@ -2,7 +2,7 @@
 	# Deleted Assets
 !!! danger
 -> **This is a publicly editable rentry. The edit code is `4chan`. **
-[**[edit this rentry here]**](https://rentry.org/CSP_Deleted/edit)<-
+[**[edit this rentry here]**](https://rentry.org/CSP_Deleted/edit) [**[plaintext for backing up]**](https://rentry.org/CSP_Deleted/raw)<-
 [Back to hub](https://rentry.org/CSP_materials)
 
 !!! info 

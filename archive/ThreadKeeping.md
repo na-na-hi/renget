@@ -155,6 +155,55 @@ https://rentry.org/iot7xi
 
 ```
 
+#Danmachi (Reboot?)
+***
+Page 1
+***
+```
+>Familias
+Mammon, God of "Beauty" (3/7)
+>>90927905 
+Otto Smarbeline, lvl 5 Halfling Hypnotist
+>>90922315 
+Oakly, lvl 6 Elf Adventurer
+>>90927607 
+Gen Immu, lvl 2 Human Mage (Debt Slave)
+>>90936418 
+
+Athena, Goddes of Wisdom (3/5)
+>>90926917 
+Olivia Koskela, lvl 4 Demi Human Brawler
+>>90921630 
+Tomo Hidekazu, lvl 2 Human Adventurer
+>>90927231 
+Meliadne Dys, lvl 4 Demi Human Hunter
+>>90944730 
+
+Lassie, Goddess of Servitude and Duty (4/5)
+>>90931660 
+Cerise Chartreuse, lvl 4 Elf Alchemist
+>>90939192 
+Lotta Jonsadottir, lvl 4 Human Sentinel
+>>90941336 
+Berry, lvl 6 Demi Human Landsknecht
+>>90942856 
+Kyara Hikoichi, lvl 5 Half Dwarf Fighter
+>>90942940 
+
+>Adventurers
+Secks Havr, lvl 4 Dwarf Sex Haver
+>>90927245 
+Nesha Arrim, lvl 5 Amazonian Adventurer
+>>90927560 
+Simon, lvl 3 Demi Human Monster Hunter
+>>90943572 
+Saffron, lvl 4 Feline Chef
+>>90943797
+
+>Writefags
+Daily Life in the City of Orario (feat. Olivia & Tomo, Berry & Kyara, Gen & Mammon)
+https://rentry.org/tyutc
+```
 #Dark City
 ***
 Page 1
@@ -397,23 +446,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Boys™ streaming
-https://rentry.org/2fguw
->The Clique™ channel (update)
-https://rentry.org/7s2qg
->DA BOYS (artfag)
->>90988176
->Animata
->>90990850
->Synthesis
->>90992108
->Meadow (update)
->>90992377
->Top Smile (update)
->>90992508
->Ichimaki (update)
->>90994440
-
+>Bullying with kindness (Capture Cloth, Yamata)
+https://rentry.org/oebs9
+>Trip to school (Meadow)
+https://pastebin.com/geBb3M22
+>Yunikon, the Brilliant Hero (U.A. Teacher)
+>>90998494
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -518,7 +556,35 @@ Page 2
 Page 3
 ***
 ```
->PRO HEROES (Hero Name):
+Students (Cont.)
+
+Class 3-B (U.A.)
+>>90988176
+>Animata
+>>90990850
+>Synthesis
+>>90992108
+>Meadow
+>>90992377
+>Top Smile
+>>90992508
+>Ichimaki
+>>90994440
+>Nekiro Nishi
+>>90997317
+
+PRO HEROES
+U.A. Teachers:
+>Yunikon, the Brilliant Hero
+>>90998494
+
+```
+
+***
+Page 4
+***
+```
+>PRO HEROES (Cont):
 >Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
 >>88425908
 >Yuusei Atsushi HN Spring Dragon Hero: Seiryu
@@ -608,7 +674,7 @@ https://rentry.org/iptpr
 
 ```
 ***
-Page 4
+Page 5
 ***
 ```
 >VILLAINS (Villain Name):
@@ -707,7 +773,7 @@ Page 4
 >>88984422
 ```
 ***
-Page 5
+Page 6
 ***
 ```
 Writefags:
@@ -719,97 +785,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru), Challenger, Flying Force, Mirror Devil, The Boys, Class-1D)
-https://rentry.org/v74ss
->Out of Place, Just in Time(Last Rite, Archangel, Ryu-kishi, Desolator)
-https://rentry.org/sdtpu
->Refocus (Mirror Devil, Desolator)
-https://rentry.org/os5np
->Outing (Hivemind)
-https://rentry.org/vpsbz
->The Presence of a Phantom (featuring who?)
-https://rentry.org/literallywho
->Montage (Rebecca Weber, Pax, Emilia Busujima, and minor appearances of Ryu-Kishi, Mirror Devil, The Doctor, Rosethorn, and Mercy)
-https://rentry.org/rv6ma
->Battle Against a (Fake) Dragon (Remake) (Feral, Yamata. Cameo of Flying Force, Capture Cloth and Mirror Devil):
-https://rentry.org/ssh6r
-> Dinner and a Show (Nightmare, Nox, Pax, Mercy) 
-https://rentry.org/iengx
->Mirror's Visit (Yamata, Mirror Devil)
-https://rentry.org/wzxtzs
->Inigo and Hoge Literally Just Talking About Nothing - (Ryu-kishi, Maru(maru)): 
-https://rentry.org/JustTalking
->A Dance with the Devil in the Pale Moonlight(Last Rite, Android, Yamata, Desolator)
-https://rentry.org/4gvka
->Serpentine Fire Overture (Seiryu, Honoken, Magnum Shrimp, Flamingal)
-https://rentry.org/dcvxso
->A Mother's Worries (Orochi's mother, Yamata, Mirror Devil Cameo):
-https://rentry.org/epoic
->I feel like I'm dissolving (Reaper, Big Hat, cameos of the boys idk)
-https://rentry.org/o8si2
->At Midnight We Meet, and We Are Many (Marrow, Ryu-kishi, Nebulous Storm, Yako)
-https://rentry.org/z2sqy
->Hifumi x Hailey: Chapter 5 - The Glass Maze (Hifumi, Hailey, Magnum Shrimp)
-https://controlc.com/a4a6767d
-+Alternate Link: https://rentry.org/HxH-5
-```
-
-***
-Page 6
-***
-```
-Writefags (Cont.)
->The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow):
-https://rentry.org/bnu9t
->Faith Kang in: SummerFest Aside (Drone, The hivemind)
-https://rentry.org/8rzuy
->The Five Fight (Desolator, Maddox, Nox, Rosethorn, Smokin' Sexy, Seiryu, Honoken, Majestic, Popsy, Mirror Devil, Flying Force, Ryu-kishi):
-https://rentry.org/akrst
->Attack of Titans (Flying Force, Maddox)
-https://rentry.org/fwfpv
->Misadventures at the Dojo Part 2: Wildfire (Yako, Maru(maru), Yamata, Last Rite, Drekus, and other minor appearances)
-https://rentry.org/DojoMisadventure2
->Fourth of July in Japan(1-D, Rosethorn)
-https://rentry.org/wvogc
->Maxine Nguyen in: Smoke Break (Radius, Marrow, others)
-https://rentry.org/7vudv
->A Festival from Another Side (Forget-Me-Not, Blackout, Reaper, Drekus, and cameos from several people from 1-D and 3-D)
-https://rentry.org/y4fad
->Mirror's Aftermath (Desolator, Mirror Devil, Smokin' Sexy, Rosethorn):
-https://rentry.org/8k3mk
->Gossip 7 (Hivemind)
-https://rentry.org/3ihws
->Dragon's Visit (Ryu-kishi, Mirror Devil, Challenger, Hivemind, Capture Cloth, Yamata)
-https://rentry.org/4457t
->The Doctor Is In (Emilia, Rebecca, Hifumi, Mio, Chihiro)
-https://pastebin.com/kKsXgLwW
->Do Unto Others (Last Rite, Android)
-https://rentry.org/5ud7y
->Purrfect Day (Bakeneneko, Capture Cloth, The Boys™)
-https://rentry.org/wyny7
->Official Hive Video Channel List (The Clique)
-https://rentry.org/7s2qg
->Reading to A Friend (Mirror Devil, Flying Force, Capture Cloth, Ryu-kishi)
-https://rentry.org/bga3m
->DDI: The Case of the Favorite Cookie (Ryu-kishi, Marrow, Maru(maru), Yako)
-https://rentry.org/f5xpe
->Hoge at the Hospital (Marumaru, Mirror Devil, briefly Smokin' Sexy)
-https://rentry.org/svwyy
->Wrong Answers (Mirror Devil, Challenger):
-https://rentry.org/umx6c
->Hospital Ruminations: (Flying Force, Mirror Devil, The Doctor, various 1-D)
-https://rentry.org/udt96
-```
-
-***
-Page 7
-***
-```
-Writefags (Cont.)
->I Shall Fear No Evil(Last Rite, Mirror Devil, Popsy, Rosethorn)
-https://rentry.org/uzu56
->Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
-https://rentry.org/4i5gm
 >Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
 https://rentry.org/4c3pf
 >Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
@@ -851,7 +826,7 @@ https://rentry.org/o2f25
 
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (cont.)
@@ -891,7 +866,7 @@ https://rentry.org/b2mhn
 https://rentry.org/xxk2h
 ```
 ***
-Page 9
+Page 8
 ***
 ```
 Writefags (final)
@@ -935,7 +910,15 @@ https://rentry.org/MHApenumbra
 https://rentry.org/2fguw
 >The Clique™ channel (update)
 https://rentry.org/7s2qg
-
+>Bullying with kindness (Capture Cloth, Yamata)
+https://rentry.org/oebs9
+>Trip to school (Meadow)
+https://pastebin.com/geBb3M22
+```
+***
+Page 9
+***
+```
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
