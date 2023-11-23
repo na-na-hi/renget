@@ -64,7 +64,7 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Sort of. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.Os are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for current and upcoming Extractions and Events [here.](https://lcbcountdown.carrd.co/)
+We currently get new IDs/E.G.O every week. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.Os are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
 
 **16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
@@ -372,4 +372,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
 11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
-11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
+11/22/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)

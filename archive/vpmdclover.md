@@ -62,6 +62,7 @@ N/A | F | Sableye | N/A | Clover Guild Alchemist | [Impish](https://rentry.org/v
 Archie | F | Archeops | N/A | Inventor/Biologist/Clover Guild Affiliated | [Quirky](https://rentry.org/vpmdcloverpb#archie)
 Casey | F | Raboot | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#casey)
 Acrab | M | Krabby | N/A | Clover Guild Member | [Hasty](https://rentry.org/vpmdcloverpb#acrab)
+N/A | M | Bagon | Lurantis (Orchid, M, Serious, Native, Outsider) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#bagonorchid)
 Jimmy | M | Gimmighoul | N/A | Clover Guild Member | [Brave](https://rentry.org/vpmdcloverpb#jimmy)
 Percival | M | Corviknight | N/A | Clover Guild Explorer/Transport | [Naïve](https://rentry.org/vpmdcloverpb#percival)
 "Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F, Native) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrothazel)
@@ -73,7 +74,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#nigel)
 ??? | ? | Psyduck | ??? | Clover Guild Member |  [???](https://rentry.org/vpmdcloverpb#psyduck)
 
-[Archived Characters Table](https://rentry.org/pmdg_clover_archived)
+[Proposed Characters Table](https://rentry.org/pmdg_clover_proposed)
 [Minor Characters (NPCs) Table](https://rentry.org/pmdg_clover_minor)
 
 ### Writing
@@ -337,7 +338,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
     * [Fallen World Mystery Dungeon Part 2](https://rentry.org/FallenPT2)
 
 #### List of Stories Sorted by Time Published
-* [One-prompt-per-mon large list](https://arch.b4k.co/vp/thread/53370806/#q53371755)
+* [First Character Prompts](https://rentry.org/1stCharacterPrompt)
 * [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) **Non-Canon (Draft) Story**
 * [Map (ft. Booker)](https://rentry.org/e9e5p)
 * [Gathering (Draft)](https://arch.b4k.co/vp/thread/53376952/#q53379517) **Non-Canon (Draft) Story**
@@ -531,5 +532,3 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
  - [Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264)
  - [/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
  - [All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
-
-//Some known members that are not in the character list yet as they haven't made an official debut in the threads: Scorbunny, Zangoose, and Dragonair

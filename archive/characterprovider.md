@@ -9,16 +9,32 @@
 ->  <-
 #
 
--> [![](https://files.catbox.moe/mmqz9k.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/m2rhtm.png)](https://boosty.to/xmlk/donate)<-
+-> [![](https://files.catbox.moe/mmqz9k.png)](#how-to-use-and-recommendations)<-
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
-# 
-
-
 ⠀
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
+⠀
+⠀
 ######
+- - -
+####⠀-> Donations keep me motivated: <-
+
+-> ![hm****e](https://files.catbox.moe/ftk8t1.png) ![fa****rn](https://files.catbox.moe/30xz4d.png)<-
+-> Number of Special Kobolds: **2** <-
+-> *Art by me. "..." - in progress* <-
+
+-> Boosty: https://boosty.to/xmlk/donate <-
+-> USDT: TVSzA5aFUmgaoa81aFzQooxKcmyYhDu1rs <-
+-> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
+-> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-
+
+-> Write your nickname with the donation so I can name your kobold. <-
+
+#
+
+
 - - -
 ## Important: Why does a model reject roleplay?
 You've probably already noticed and argued about it. Some users get rejected from a model with the same JB/Prompts, even from seemingly SFW requests, and some can generate any NSFW possible.
@@ -2685,3 +2701,6 @@ Image | Name/Link | Description
 -> *Have chat with bots, enjoy role-play.* ->
 -> *Know, I will search and post what I discover,* -> 
 -> *- XMLK* ->
+# 
+- - -
+-> Add +45.000 to the views counter. It was reset after the rentry theft. ->

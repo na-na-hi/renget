@@ -12,8 +12,9 @@ Images sponsored by Tatsumaki and Fubuki.
 
 Most of the artists were tested with different prompts to find an optimal result.
 
-!!! info
+!!! note
      NSFW is not my priority, so I will be adding samples more slowly.
+	All generations were generated with a x2 strength {{TAG}}. (I don't know if it is exactly x2, but I can't think of a better way to explain it now).
 
 ### [Doppel (Bonnypir)](https://danbooru.donmai.us/posts?tags=doppel_(bonnypir))
 It's not 100% true to the original style, but it's one of my favorite results even though you need a little bit of trickery to get good results.
@@ -39,3 +40,19 @@ It is somewhat... difficult to handle from time to time, but most of the time it
 ### [shexyo](https://danbooru.donmai.us/posts?tags=shexyo)
 It likes to generate cute outfits if small boobs, and likes more lewd one for big boobs, no more to say.
 ![shexyo](https://files.catbox.moe/1mo1u8.png)
+
+### [ray-k](https://danbooru.donmai.us/posts?tags=ray-k)
+The art style from that game... yeah. Returns pretty good results without much effort lol.
+![ray-k](https://files.catbox.moe/4t2rak.png)
+
+### [toraishi_666](https://danbooru.donmai.us/posts?tags=toraishi_666)
+It can mimic the style, but the model becomes too schizo most of the time.
+![toraishi_666](https://files.catbox.moe/jjj3tw.png)
+
+### [asanagi](https://danbooru.donmai.us/posts?tags=Asanagi)
+Nice... and lewd.
+![asanagi](https://files.catbox.moe/8e71z7.png)
+
+### [zankuro](https://danbooru.donmai.us/posts?tags=zankuro)
+A rather... cute style. May generate lolis if not specified (Loli Fubuki was not something I wanted to see today).
+![zankuro](https://files.catbox.moe/oyvdcq.png)

@@ -86,7 +86,7 @@ Bounty: ~~3,500~~ ~~5,000~~ 7,000 Poke
 Rank: ~~B~~ ~~A~~ S
 Wanted for: Murder, Caravan Robbery, Assault, Fraud
 Sex: Male
-Ability: Rain Dish
+Ability: Swift Swim
 Distinctive Features: Wears a worn, brown poncho. Speaks in a slow, tired voice, and has a distinctive scar running down most of his left arm. He's also lankier and a bit taller than most of his species, giving him a distinct, reedy-looking appearance.
 Held Item: Depends on the situation. He wears a Mach Ribbon when he knows he has to fight out in the open, so that's what he's seen with most often.
 Location: Sand Continent

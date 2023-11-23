@@ -65,7 +65,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-
+Training for Attribute: Scavenging | Tier **ɪ** | 1/3  | ▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

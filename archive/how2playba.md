@@ -1,5 +1,7 @@
 # /bag/ Newfag guide
-How to play the game for the completely retarded. Not just a reroll guide. Scroll to the bottom for my last edit date.
+No, it is not too late to play the game. The best time to start is now. 
+Not just a reroll guide. 
+Scroll to the bottom for my last edit date. This is still relevant and not outdated.
 
 [TOC] 
 
@@ -14,6 +16,8 @@ How to play the game for the completely retarded. Not just a reroll guide. Scrol
 
 
 ## Downloading/Setting up the game
+!!! info
+Skip if you own a phone 
 
 JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.BlueArchive&hl=en_US&gl=JP&pli=1) | [App Store](https://apps.apple.com/jp/app/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/id1515877221) | [QooApp](https://apps.qoo-app.com/ja/app/12252)
 
@@ -585,6 +589,13 @@ E.g. I can stack Akane's EX skill DEF down with Maki's basic skill, and sAzusa's
 There is some nuance here: sHoshino's ATK buff EX stacks with Himari/Kotama's ATK buff EX for example, but generally (de)buffs in the same skill slot don't stack. 
 
 # FAQ
+>Is it too late to play? 
+No.
+
+>When is a good time to start? 
+The best time to start was yesterday, the second best time to start is right now. This holds true for any bonsai game. 
+If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
+
 > I'm AP capped! What do I spend it on?
 You spend it on whatever campaign is currently running (the pink banner). If it's a dead week (e.g. only 2x scrimmages) it's:
 Hard missions > Normal missions > Commissions.
@@ -594,13 +605,6 @@ Commissions are only worth it during campaign events, and only if you can farm t
 You pretend nothing's wrong and do the same what you're already doing.
 You can get pink reports in the Joint Exercise Shop, and you can get reports AND credits from the Mastery Certificate Shop. 
 There's also technically the reports you can buy in the normal shop for credits, but those are a scam. 
-
->Is it too late to play? 
-No.
-
->When is a good time to start? 
-The best time to start was yesterday, the second best time to start is right now. This holds true for any bonsai game. 
-If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
 
 >I just missed the X banner, will she get a rerun?
 Students attached to a story event get a rerun, including limited units. Otherwise the chance is pretty slim.
