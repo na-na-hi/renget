@@ -131,6 +131,8 @@ Rodion Popo HN "Overman": https://archive.4plebs.org/tg/post/89015229
 Taichi Kyoryu HN Cretaceous King, Saurus: https://desuarchive.org/tg/thread/89500858/#89508780
 Kurogane Keisho HN Yoshizumi: https://desuarchive.org/tg/thread/89500858/#89507063
 Atsushi Yamamoto: https://desuarchive.org/tg/thread/90944069/#90954666
+Atsushi Nabiki/HN: Shelong: https://desuarchive.org/tg/post/91008430/
+Tosuke Jinai HN Compound: https://desuarchive.org/tg/post/91016593/
 
 ### Villains
 >Night Parade
@@ -149,6 +151,7 @@ Luccione (NPC): https://desuarchive.org/tg/thread/90136269/#90146415
 Momotaro Tachibana VN "Nebulous Storm": https://archive.4plebs.org/tg/post/88376954 (further information at https://controlc.com/9cfc38a8)
 Junichi Takagi VN "Marrow": https://archive.4plebs.org/tg/post/88435130 (further information at https://pastebin.com/27Pruk8a)
 Kazuma Oomori VN "Charlatan": https://archive.4plebs.org/tg/post/88669394 (further information at https://rentry.org/otbq4)
+Kester Greenfield: https://desuarchive.org/tg/post/90921671/
 >Vigilantes
 Helene Lysingen VN "Noctiluca": https://archive.4plebs.org/tg/post/88197005
 Takigawa Shion VN "Shapeless Blade: Aquarius": https://archive.4plebs.org/tg/post/88209069 (further information at https://controlc.com/9427985f)
@@ -187,6 +190,7 @@ Endless Horizons Ltd.: https://rentry.org/iptpr
 Emilia Busujima: https://desuarchive.org/tg/thread/89347009/#89349231
 Detective Risa Date https://desuarchive.org/tg/thread/90646041/#90657164
 Holden Deckard https://archive.4plebs.org/tg/thread/90912459/#q90913931
+Brightly: https://desuarchive.org/tg/post/91006966/
 
 ### Holding Area for Non-Canon Builds/Shitpost Builds/Illustrative Builds
 Shinji Kanashimi: https://archive.4plebs.org/tg/post/88219042 (further information at https://controlc.com/5525da8b)
@@ -595,6 +599,7 @@ Feral: https://desuarchive.org/tg/thread/90930751/#90932810
 Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://desuarchive.org/tg/post/90972837/
 mirror devil no comment stamp: https://desuarchive.org/tg/thread/90977623/#90984861
 doodle of the boys: https://desuarchive.org/tg/thread/90987083/#90988176
+Hifumi 'Fired Up' Stamp: https://desuarchive.org/tg/post/91008290/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

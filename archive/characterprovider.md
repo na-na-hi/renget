@@ -21,7 +21,7 @@
 - - -
 ####⠀-> Donations keep me motivated: <-
 
--> ![hm****e](https://files.catbox.moe/ftk8t1.png) ![fa****rn](https://files.catbox.moe/30xz4d.png)<-
+-> ![hm****e](https://files.catbox.moe/gfn76x.png) ![fa****rn](https://files.catbox.moe/qg3hgt.png)<-
 -> Number of Special Kobolds: **2** <-
 -> *Art by me. "..." - in progress* <-
 

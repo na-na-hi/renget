@@ -8,6 +8,7 @@ https://github.com/LostRuins/koboldcpp/releases/latest
 Download one of these models (the biggest you can run, larger files can be split between CPU/GPU but are slower):
 XWin-MLewd: https://huggingface.co/TheBloke/Xwin-MLewd-13B-V0.2-GGUF/tree/main
 Athena V3: https://huggingface.co/TheBloke/Athena-v3-GGUF/tree/main  
+Echidna: https://huggingface.co/TheBloke/Echidna-13B-v0.3-GGUF/tree/main
 
 (In 1.48, use ContextShift instead of SmartContext, it's fine to check both boxes)
 Open koboldcpp.exe and make your settings look like this, then click Launch:  

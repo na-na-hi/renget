@@ -65,7 +65,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Scavenging | Tier **ɪ** | 1/3  | ▮▯▯
+Training for Attribute: Foraging | Tier **ɪ** (+1) | 1/3  | ▮▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -95,6 +95,7 @@ Type | Item Name | Description
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item |+Rope | A strong and sturdy rope. Used for rope stuff. About 7 feet long.
 RP Item |11 Ball of Yarn| A Bunch of Yarn that probably belong to a Sprigatito. Maybe knit something with it?
+RP Item | Seashells | A collecting of seashell find along the shoreline.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

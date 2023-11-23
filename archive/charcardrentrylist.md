@@ -37,6 +37,7 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Karla](https://files.catbox.moe/nv4rwd.png)|[Karla](https://files.catbox.moe/nv4rwd.png) [MV]
+[Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
@@ -71,7 +72,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
 [CoomDoomer](https://rentry.org/coomerdoomerden) | Misc ||
-[Maestro](https://rentry.org/MaestroBots) | Misc ||
 [OAnon](https://rentry.org/OAnon-AK) | Arknights ||
 [Gigasad](https://rentry.org/gigasad) | Misc ||
 [RitsusForehead](https://rentry.org/Ritsusforehead) | Misc ||

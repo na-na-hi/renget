@@ -65,10 +65,11 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
 
 ---
 #Ways to contact me if needed
-If you have questions or something check below for ways to contact me if needed
+If you have questions or something, check below for ways to contact me if needed
 
 Content|Link|Description 
 -------|-------|------- 
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
 Email|[Link]()| Psobb1302@gmail.com
+Discord |[Link]()| Earthes1302

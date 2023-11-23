@@ -31,12 +31,12 @@ Alternatively you can use [vodvod.top](https://vodvod.top) to recover the m3u8 l
 Simply type in the channels name and click on the link, if its grayed out, it means either the vod got deleted or the stream is still online.
 
 ---
- #Ways to contact me if needed
-
-This vod archival guide should cover anything you might need to know about vod archiving (For Twitch and youtube) but If you still need help with vod archiving or have questions you can either contact me through the 4chan IRC on rizon, Links fot it can be found here:
+#Ways to contact me if needed
+If you have questions or something, check below for ways to contact me if needed
 
 Content|Link|Description 
 -------|-------|------- 
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
 Email|[Link]()| Psobb1302@gmail.com
+Discord |[Link]()| Earthes1302

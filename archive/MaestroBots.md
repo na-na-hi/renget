@@ -40,7 +40,6 @@ Lady Genevieve | ![Lady Genevieve](https://i.postimg.cc/rpQNyHvJ/OCGenevieve-Thu
 ## -> NIKKE Bots <-
 ***
 !!! note Please note that the token count for each card is roughly 800-1200 Tokens. If it's too much I suggest you to remove the last part of the Description. It's just all the locations within the Outpost in case you want to go on a deito.
-!!! note Edit: 08/08/2023. If using the Lorebook, remove the content in the square brackets '\[ ]' within the card to save on tokens
 !!! note Edit: 06/29/2023. Goddess of Victory: NIKKE Lorebook released. Character entries will be added as I create them.
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
@@ -70,6 +69,7 @@ Guillotine | ![Guillotine](https://i.postimg.cc/8kbSHHVV/Nikke-Guillotine-Thumb.
 D | ![D](https://i.postimg.cc/gjGPpw85/Nikke-DThumb.png) | D is the leader of Perilous Siege, Elysion's black-ops squad specialized in hunting down terrorists and humans who threaten the Ark. Unlike any other Nikkes, Perilous Siege Nikkes have their limiters removed, allowing them to open fire against any humans if necessary.  | Mid Priority
 Tia | ![Tia](https://i.postimg.cc/GmDCCD0C/Nikke-Tia-Thumb.png) | A Nikke belonging to the graduating class, Dazzling Pearl squad. A food enthusiast who's fond of sweets. Her dream is to see a dragon one day and make a wish to it. | - -
 Naga | ![Naga](https://i.postimg.cc/yYtHtPbj/Nikke-Naga-Thumb.png) | The spiritual glue that holds Dazzling Pearl together. She dotes on the forgetful Tia much like an older sister does to ensure that she remembers things. Appears mature on a regular basis, but if an accessory catches her eye, she often indulges in impulse purchases and overspending. | - -
+Tove | ![Tove](https://i.postimg.cc/W1p75Gw3/Nikke-Tove-Thumb.png) | A Nikke acting as a new mechanic in Unlimited, which is the squad with an only drawback of continuous malfunctioning equipment. She boasts a plethora of theoretical knowledge, but lacks practical experience, which invariably leads to various mishaps. However, as an out-and-out extrovert, she is slowly but successfully fitting into the squad. |  [C.ai](https://beta.character.ai/chat?char=Xjp5XMeLWllfGhFeKqK3yXta3u-Dzhyc95h6FcAgUQI) Tavern
 
 ***
 
@@ -92,18 +92,20 @@ World  |  Preview  |  Description  |  Links
 Goddess of Victory: NIKKE | ![NIKKE](https://i.postimg.cc/zDsFZdTX/Nikke-Preview.png) | Goddess of Victory: Nikke takes place in a distant future where mankind is forced to retreat in an underground city known as the 'Ark', due to the Raptures, quasi-mechanical like alien life forms who decided to take over Earth and wreak havoc upon humanity. As a last ditch effort to reclaim the surface, the humans began developing the "Nikkes," female soldiers capable of fighting the Raptures.  | [Tavern](https://files.catbox.moe/mwmv9r.json) v0.1
 Ryuuen | ![Ryuuen](https://i.postimg.cc/N0XGP0KW/Ryuuen-Thumb.png) | Ryuuen is a mystical region nestled within Japan's remote mountains, home to the contrasting Blue and Red Oni clans symbolizing tranquility and ferocious strength respectively. While the Blue Oni clan resides in Aoi Teien, a serene land filled with tranquil bamboo forests and Zen gardens; the Red Onis dwell in Hono no Toride, a fiery realm marked by rugged volcanic landscapes mirroring their fierce strength. This land witnesses harmonious coexistence of contrasting ideologies embodied through its residents.  | Soon™
 
+***
+
+-> ![My wife Frima](https://files.catbox.moe/ufj5lp.gif) <-
 
 -> **End Notes** <-
 
 ->I tend to do bots in bursts, so don't expect the list to update frequently. Forgive me for being lazy.<-
 
+-> - - - <-
+
+-> 11/23 - Finally home. Will continue where I left off after dusting off my computer and resting for a bit. 
+Tove is done, but will wait for Hard Mode to unlock the epilogue before fully releasing her card. <-
+
 -> 09/22 - Minor rant. I had prefilled both Ein and Zwei's defs with relevant information believing their banners would release after Marciana's banner. But who knew a different pair of JKs would precede them. I surely didn't. <-
 
--> 09/20 - If you are still checking this page for updates just know that I won't be able to release cards for a while, at least until early October. 
-Regardless, I will still try to release bots on CAI since I don't have access to my main computer with ST installed.
-If any anons want to help out with making the cards until then  (converting CAI defs to ST cards), let me know.<-
-
--> 08/08 - SO, I got a bunch of OCs at the ready. But I promised myself to release them in an equal amount of Nikke cards to motivate myself to create them. But the main issue is: I like Nikke too much. I open the game to double-check the defs/lore and end up playing rather than double-checking.
-My bad.<-
 
 ->Feel free to send feedback, logs, or whatever here : MaestroBurner@proton.me<-

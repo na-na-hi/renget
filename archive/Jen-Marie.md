@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Cooking | Tier **ɪ** (+1) | Making tasty things, tastier!
-Training for Attribute: Cooking | Tier **ɪɪ** (+2) | 2/3 | ▮▮▯
+Attribute: Cooking | Tier **ɪɪ** (+2) | The Addictive Flavor of Love
 Training for Attribute: Flying | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 
 
