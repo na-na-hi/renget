@@ -3,7 +3,7 @@
 
 | Discord group | HuggingFace Profile | Support me |
 |--|--|--|
-|[![img](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png?width=256&s=f0e3a92cc6665b3dcbe9e3eae7e0656f9db62c74)](https://discord.gg/sdmodelers)  | [![img](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/hassanblend) | [![img](https://i.imgur.com/VjXudEc.png)](https://ko-fi.com/sdhassan) [![img](https://gcdn.thunderstore.io/live/repository/icons/HolloFox_TS-Patreon_Plugin-1.0.2.png.128x128_q95.png)](https://www.patreon.com/sd_hassan/membership)|
+|[![img](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png?width=256&s=f0e3a92cc6665b3dcbe9e3eae7e0656f9db62c74)](https://discord.gg/4va8Y947wQ)  | [![img](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/hassanblend) | [![img](https://i.imgur.com/VjXudEc.png)](https://ko-fi.com/sdhassan) [![img](https://gcdn.thunderstore.io/live/repository/icons/HolloFox_TS-Patreon_Plugin-1.0.2.png.128x128_q95.png)](https://www.patreon.com/sd_hassan/membership)|
 
 ### Quicklinks: 
 

@@ -1,10 +1,6 @@
 ![TheBirbIsSlightlyDeterminedIdkLol](https://media.discordapp.net/attachments/663876575757860914/1157600065007931412/Portrait.png?ex=65193292&is=6517e112&hm=ba1df1168f428375fb27a7f4dd1180bb54d550c57c8fe39be0e03da4e35dfda0&=) 
 
 ###Angus ♂
-I've awoken in this unfamiliar world, but not as a human but as a... bird!? Not just that, I no longer have hands; I've shrunk down and can't remember who I am!
-
-"'Tis not good at all..." I break out in a cold sweat.
-
 This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real, it seems," I muttered.
 · | ->· ->
 ---- | ----
@@ -68,7 +64,7 @@ Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 5/9 | ▮▮▮▮▮▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -79,7 +75,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
 2. Stun Seed | Causes *Petrified* on consumption.
-3. Clear Gummi | Gives +10 IQ points to Ice-Types. Gives +5 to other types. Are you sure this isn't ice?
+3. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

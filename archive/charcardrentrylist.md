@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png), [Woolly SoftStatic](https://files.catbox.moe/67lby6.png)|[Mishka Blacklilly](https://files.catbox.moe/0zuhhi.png)
 [Planewalker](https://rentry.org/planewalker) | Misc |[BD-564](https://files.catbox.moe/0mmg7t.png), [Chiharu](https://files.catbox.moe/txocjp.png), [Bearnard](https://files.catbox.moe/0jhjyv.png), [Aisling](https://files.catbox.moe/tbbezj.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png), [Luci](https://files.catbox.moe/wur1wk.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png), [Delilah](https://files.catbox.moe/lwn36i.png), [Minoko Mineta](https://files.catbox.moe/popdae.png)|
@@ -32,7 +33,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Johncock](https://rentry.org/Johncock) | Misc |[Leo](https://files.catbox.moe/nbsgct.png), [Diana](https://files.catbox.moe/70bnbf.png), [Poppy and Tristana](https://files.catbox.moe/k4uegu.png), [Vyrexa](https://files.catbox.moe/mdtsqb.png)|
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[HDoom ](https://files.catbox.moe/kya9h1.png), [Nikko](https://files.catbox.moe/xi2pad.png), [Ilulu](https://files.catbox.moe/vd1izx.png), [Miyako and Hana](https://files.catbox.moe/1vfvat.png)|
 [Muricanpie](https://rentry.co/mpcs) | Misc |[Sap Hands (M)](https://files.catbox.moe/c5utxw.png), [Sap Hands (F)](https://files.catbox.moe/enwn38.png), [Carise](https://files.catbox.moe/0b0gvs.png)|
-[JumboRanch](https://rentry.org/jumboranch) | Furry |[Woolly SoftStatic](https://files.catbox.moe/67lby6.png)|[Mishka Blacklilly](https://files.catbox.moe/0zuhhi.png)
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Impossible To Touch](https://files.catbox.moe/5txti0.png), [Blatta](https://files.catbox.moe/u63glw.png)|
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)

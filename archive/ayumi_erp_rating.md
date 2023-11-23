@@ -7,6 +7,7 @@ This ranking table contains a rating of different LLMs, which tries to determine
 ***
 
 - Other Rankings/Comparisons:
+    - **[BestERP Community ratings for AI character, role-playing and story-telling services and models](https://besterp.ai/s/models)**
     - [Censorbench - Evaluate how censored one LLM is, by using another LLM](https://codeberg.org/jts2323/censorbench)
     - [The Crestfall Project - Leaderboard](https://rentry.org/ndcbq#leaderboard)
     - u/WolframRavenwolf on reddit

@@ -9,7 +9,7 @@
 
 * Max New Tokens are limited by NovelAI itself. This means you will never receive more than 150 tokens in one response from the AI, even if you set it higher in Agnai. You can, however, select the ‘continue’ or ‘respond again’ options while in the chat.
 
-* Max Context Length will always be at 3000 tokens for Kayra. This is because the API is on the lowest subscription tier, which limits how much Kayra can remember. On higher tiers, however, Kayra can remember much more, so if you pay for it, remember to adjust the Max Context Length to fit.
+* Max Context Length will always be at 3000 tokens for Kayra. This is because on the lowest subscription tier, Kayra's memory is limited to 3000. On higher tiers, however, Kayra can remember much more, so if you pay for it, remember to adjust the Max Context Length to fit.
 
 * System prompts are just copy and pastes of my personal system prompt. Technically, NovelAI doesn’t actually need them because of how it works, but you can include it anyway if you want.
 
@@ -47,7 +47,7 @@ How {{char}} speaks: {{example_dialogue}}
 
 [ Title: Dialogue between {{char}} and {{user}} ]
 [ Tags: conversation, online roleplay ]
-[ Genre: romance, drama, comedy, erotica ]
+[ Genre: romance, drama, comedy ]
 [ Style: vivid, evocative, advanced, deliberate, loquacious ]
 \***
 Summary: {{scenario}}
@@ -74,7 +74,7 @@ Temperature: 1.09
 CFG Scale: 1 (disabled)
 Phrase Repetition Penalty: Very Light
 
-Top P: 0.97
+Top P: 0.969
 Top K: 0 (disabled)
 Top A: 0.09
 Top G: 0 (disabled)
@@ -97,41 +97,6 @@ Top P
 CFG Scale (disabled)
 Tok K (disabled)
 Microstat (disabled)
-Top G (disabled)
-
-***
-
-### Talker C (Sillytavern ver.)
-
-***
-
-Temperature: 1.5
-CFG Scale: 1 (disabled)
-Phrase Repetition Penalty: Very Light
-
-Top P: 0.75
-Top K: 10
-Top A: 0.08
-Top G: 0 (disabled)
-Microstat Tau: 0 (disabled)
-Microstat LR: 0 (disabled)
-Tail Free Sampling: 0.967
-Typical P: 0.975
-Repetition Penalty: 2.25
-Repetition Penalty Range: 8000
-Repetition Penalty Slope: 0.09
-Frequency Penalty: 0
-Presence Penalty: 0.005
-
-#### Sampler Order:
-Top K
-Typical P
-Temperature
-Top P
-Tail Free Sampling
-Top A
-CFG Scale (disabled)
-Microstat Tau (disabled)
 Top G (disabled)
 
 ***
@@ -163,7 +128,7 @@ How {{char}} speaks: {{example_dialogue}}
 
 [ Title: Dialogue between {{char}} and {{user}} ]
 [ Tags: conversation, online roleplay ]
-[ Genre: romance, drama, comedy, erotica ]
+[ Genre: romance, drama, comedy ]
 [ Style: vivid, evocative, advanced, deliberate, loquacious ]
 \***
 Summary: {{scenario}}
@@ -194,7 +159,7 @@ Temperature: 1.16
 CFG Scale: 1 (disabled)
 Phrase Repetition Penalty: Medium
 
-Top P: 1 (disabled)
+Top P: 0
 Top K: 175
 Top A: 1 (disabled)
 Top G: 0 (disabled)
