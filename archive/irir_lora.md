@@ -517,7 +517,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 ### 実践
 
 - データセットの準備
-教師画像はいつものやつらを44418枚用意。合計ファイルサイズは126GB
+教師画像はいつものやつらを44417枚用意。合計ファイルサイズは126GiB
 画像DL時にartistタグを取り除いたDanbooruタグ方式のキャプションも作成。
 キャプションにDanbooruスコアが6点以上のものにhigh quality、18点以上にbest quality、60点以上にmasterpieceを追加。
 ちなみに、DLで四時間、リサイズで40分、latentキャッシュで二時間もかかった。
@@ -526,7 +526,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 学習モデルは秘伝のタレ(非公開モデル)。
 
 学習設定:
-`SD1.x,1epoch,Dim:128,Alpha:24,768x768,BatchSize:6,Optimizer:Adamw8bit,LR:8E-05,LR Scheduler:constant_with_warmup,C3Lier`
+`SD1.x,Dim:128,Alpha:24,解像度:768,バッチサイズ:5,オプティマイザ:Adamw8bit,LRスケジューラ:constant,C3Lier`
 
 学習中...	記事は後日更新予定
 

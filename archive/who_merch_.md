@@ -27,7 +27,7 @@ https://shop.hololivepro.com/products/hololiveen_3dacrylicstand
 https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
 
 **Council half year anniversary merch (badges & towel) rerun**
-https://shop.hololivepro.com/en/products/hololiveen_rerun2023\
+https://shop.hololivepro.com/en/products/hololiveen_rerun2023
 
 >**HoloSummer**
 **Merch**

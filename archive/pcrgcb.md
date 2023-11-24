@@ -5,6 +5,7 @@
 ## General Resources for all Stages
 [gamewith](https://gamewith.jp/pricone-re/article/show/426786)
 [しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1sDmYlgYdbB5_Dr0x9g4cfxX4dRlL9IEaWE949m5oTyQ/edit#gid=790984515)
+[Chink Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRC36QSNhbz_ay6R90OPbb3FSlI4zLC17mEfkuDUjOSZhoCFsox5gtP2VQh3VWZnhvG1gfZYJTkm971/pubhtml)
 
 
 ## Stage 1&2 90 seconds carryover
@@ -73,7 +74,7 @@ Labyrista 5★ R31 FULL, EX 5/5/5
 [B2 Magic 40-41m - 1 manual input](https://www.youtube.com/watch?v=GfY5-F-KrMo)
 ![](https://pomf2.lain.la/f/hh8u4hgg.png)
 Tested with:
-Christmas Yori 5★ Lv289 R30 FULL, EX 5/5/5 **NEEDS X.CHRIS BONDS TO NOT MISS THE LAST UB**
+Christmas Yori 5★ Lv289 R30 FULL, EX 5/5/5 
 Warlock Djeeta 5★ Lv289 R30 FULL, EX 5/5/5
 Ceremonial Illya 4★ Lv289 R30 FULL, EX 5/5/5
 Lyrael 4★ R30 FULL, EX 5/5/5
@@ -146,6 +147,7 @@ Creditta 5★ R31 FULL, EX 5/5/5
 ## Stage 4 manual
 ### Boss 1
 [B1 Magic 59-62m](https://youtu.be/3W7WamWp8qg)
+[B1 Magic 69-72m](https://www.youtube.com/watch?v=a5U68AwOkIU) (Nearly all manual timings)
 ### Boss 2
 
 
@@ -153,7 +155,15 @@ Creditta 5★ R31 FULL, EX 5/5/5
 [B3 Physical 64m](https://www.youtube.com/watch?v=F5cPW1mrNuA)
 
 ### Boss 4
-
+[B4 Magic 56-58m](https://www.youtube.com/watch?v=3JIyf9AvRH4)
+![B4 Magicl 56-58m](https://pomf2.lain.la/f/itvkskve.png)
+Tested with:
+P.Anna　☆5 RANK31 Full　UE1 Lv290　EX 5-5-5 (Works worth R30 Full)
+W.Djeeta　☆5 RANK30 Full　EX 5-5-5
+Homare　☆5 RANK30 Full　EX 5-5-5
+Ass.Maho (Explorer)　☆5 RANK31 Full UE1 Lv290 EX 5-5-5
+O.Yuki　☆5 RANK30 Full　UE1 Lv240　EX 5-5-5 (Works with 30 Full, UE1 Lvl290)
+![B4 Magic 56-58m TL](https://pomf2.lain.la/f/pgp7der9.png)
 
 ### Boss 5
 

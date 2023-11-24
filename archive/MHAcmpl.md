@@ -85,6 +85,7 @@ Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/post/909925
 Chiba Chiyo "Animata": https://desuarchive.org/tg/post/90990850/
 Nobiko Midorima "Synthesis": https://desuarchive.org/tg/post/90992108/
 Nekiro Nishi: https://desuarchive.org/tg/post/90997317/
+Katsumi Hachizaki: https://rentry.org/HeartMHA
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -636,6 +637,7 @@ Mio scolding Sandy: https://archive.4plebs.org/tg/post/89271894
 Explode: https://archive.4plebs.org/tg/post/89278521
 I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
 MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
+Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -915,6 +917,10 @@ The Boys™ streaming: https://rentry.org/2fguw
 The Clique™ channel: https://rentry.org/7s2qg
 Bullying with kindness (Capture Cloth, Yamata): https://rentry.org/oebs9
 Trip to school (Meadow): https://pastebin.com/geBb3M22
+Musical Exploration (Nekiro): https://pastebin.com/9TGVy46L
+Dare Prompt Fill (The Clique): https://rentry.org/c84dp
+Rosethorn Date (Ryu-Kishi, Rosethorn): https://rentry.org/bwr7m5
+Friends 3 (Capture Cloth, Android): https://rentry.org/mcagp
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

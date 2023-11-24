@@ -77,3 +77,16 @@ Quite clean styling with a noticeable taste for lips.
 ### [megateru](https://danbooru.donmai.us/posts?tags=megateru)
 It has a rather odd consistency and takes on the style in a variety of ways, you decide whether you like it or not.
 ![megateru](https://files.catbox.moe/5ct8pq.png)
+
+### [jasony](https://danbooru.donmai.us/posts?tags=jasony)
+It's kind of hard to get specific poses with this... probably just skill issue ngl. The artist likes bikinis, the model probably handles better generations with them.
+![jasony](https://files.catbox.moe/5xxczx.png)
+
+### [greatm8](https://danbooru.donmai.us/posts?tags=greatm8)
+It tries to imitate the 2D/3D style of the artist in a curious but successful way, I'll probably use it more lol.
+![greatm8](https://files.catbox.moe/qesvjh.png)
+
+### [ratatatat74](https://danbooru.donmai.us/posts?tags=ratatatat74)
+I love this style and the model knows how to handle it quite well.... it didn't take me long to get good generations.
+[NSFW Generations](https://files.catbox.moe/n5161b.png)
+![ratatatat74](https://files.catbox.moe/b4p42y.png)
