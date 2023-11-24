@@ -25,20 +25,25 @@ stage 3 routes with no seasonals
 ## Stage 4 auto / full SET
 videos:
 [Fuji (Wisteria)](https://www.youtube.com/watch?v=GFBVw0vQjNg)
+[Vash](https://www.youtube.com/watch?v=JCUhjBK2KWk)
+
+![autonovembervash](https://pomf2.lain.la/f/g7o8ukid.png)
+
 
 ## Stage 4 semi auto
 videos:
+[Vash](https://www.youtube.com/watch?v=9Gv56b7mmcQ)
 
 ### Boss 1
-[B1 Magic 52-53m - 0 manual inputs](https://docs.google.com/spreadsheets/d/1sDmYlgYdbB5_Dr0x9g4cfxX4dRlL9IEaWE949m5oTyQ/edit#gid=1449292534&range=D1)
-![](https://pomf2.lain.la/f/ney30tdy.png)
+[B1 Magic 54m - 0 manual inputs](https://www.youtube.com/watch?v=dCRSyxsR1QM)
+![](https://pomf2.lain.la/f/8nqpclt.png)
 Tested with:
 Summer Yui 3★ Lv289 R30 FULL, EX 5/5/5
 Summer Neneka 3★ Lv289 R30 FULL, EX 5/5/5
 Lyrael 4★ Lv289 R30 FULL, EX 5/5/5
 Princess Kyaru 5★ R30 FULL, EX 5/5/5
 Student Kyaru 5★ R30 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/j4shut2.png)
+![](https://pomf2.lain.la/f/s5oxb12.png)
 
 [B1 Physical 48m - 0 manual inputs](https://www.youtube.com/watch?v=-7ErMdLe0nc)
 ![](https://pomf2.lain.la/f/mskiazbx.png)
@@ -93,25 +98,16 @@ School Suzuna 5★ R30 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/acs1sc9w.png)
 
 ### Boss 4
-[B4 Physical 57m - 0 manual inputs](https://docs.google.com/spreadsheets/d/1sDmYlgYdbB5_Dr0x9g4cfxX4dRlL9IEaWE949m5oTyQ/edit#gid=1742465964&range=B1)
-![](https://pomf2.lain.la/f/88is1ua5.png)
-Tested with:
-Summer Mimi 3★ Lv289 R30 FULL, EX 5/5/5
-Croce 5★ Lv289 R31 FULL, EX 5/5/5
-Liberator Nozomi 4★ Lv289 R31 FULL, EX 5/5/5
-Princess Kokkoro 4★ R30 FULL, EX 5/5/5
-Labyrista 5★ R31 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/1sdhy1e.png)
 
-[B4 Physical 58-60m - 2 manual inputs](https://www.youtube.com/watch?v=H8Zz3bLzQSs)
-![](https://pomf2.lain.la/f/cx4nwcwn.png)
+[B4 Physical 60-62m - 0 manual inputs](https://www.youtube.com/watch?v=EuazgIDIhFE)
+![](https://pomf2.lain.la/f/u8b4412y.png)
 Tested with:
 Summer Mimi 4★ Lv289 R30 FULL, EX 5/5/5
 Croce 5★ Lv289 R31 FULL, EX 5/5/5
 Liberator Nozomi 5★ Lv289 R31 FULL, EX 5/5/5
-Princess Kokkoro 5★ R30 FULL, EX 5/5/5
+Princess Kokkoro 5★ R31 FULL, EX 5/5/5
 Labyrista 5★ R31 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/y10r2swr.png)
+![](https://pomf2.lain.la/f/y8eaujh7.png)
 
 ### Boss 5
 [B5 Magic 51m - 0 manual inputs](https://www.youtube.com/watch?v=mw9WSeNrpfI)
@@ -124,25 +120,16 @@ Ameth 5★ R31 FULL, EX 5/5/5
 Student Kyaru 5★ R30 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/2t4vh8f2.png)
 
-[B5 Physical 56-59m - 2 manual inputs](https://www.youtube.com/watch?v=NGRyZBc6yQk)
-![](https://pomf2.lain.la/f/1nmqp7dg.png)
+[B5 Physical 56-59m - 0 manual inputs](https://www.youtube.com/watch?v=yvFSHKRaDJ0)
+![](https://pomf2.lain.la/f/2pagib8i.png)
 Tested with:
 Princess Kokkoro 4★ Lv289 R31 FULL, EX 5/5/5
 Labyrista 4★ Lv289 R31 FULL, EX 5/5/5
 Shiori 6★ Lv289 R31 FULL, EX 5/5/5
 Ranger Shiori 5★ R31 FULL, EX 5/5/5
 Creditta 5★ R31 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/nmcso9as.png)
+![](https://pomf2.lain.la/f/w7v18vl2.png)
 
-[B5 Physical 50-51m - 0 manual inputs](https://youtu.be/G7_0W20a4nM)
-![](https://pomf2.lain.la/f/r9zw0h5w.png)
-Tested with:
-Princess Kokkoro 3★ Lv289 R31 FULL, EX 5/5/5
-Labyrista 5★ Lv289 R31 FULL, EX 5/5/5
-Shiori 6★ Lv289 R31 FULL, EX 5/5/5
-Ranger Shiori 5★ R31 FULL, EX 5/5/5
-Creditta 5★ R31 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/6v9c43jc.png)
 
 ## Stage 4 manual
 ### Boss 1

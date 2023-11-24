@@ -81,7 +81,7 @@ Lugnica Lorebook | (19/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 22/11/2023 | https://files.catbox.moe/zlap9d.json
+Claude | 24/11/2023 | https://files.catbox.moe/684lkj.json
 GPT-4 | 07/11/2023 | https://files.catbox.moe/s3gdrd.json
 
 

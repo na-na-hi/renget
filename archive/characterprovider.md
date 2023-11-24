@@ -35,24 +35,6 @@
 #
 
 
-- - -
-## Important: Why does a model reject roleplay?
-You've probably already noticed and argued about it. Some users get rejected from a model with the same JB/Prompts, even from seemingly SFW requests, and some can generate any NSFW possible.
-
-The reason is that the key holder uses the moderation endpoint to check whether the content complies with OpenAI's usage policies. You may compare it to the infamous CAI filter devil, but a more strict one. It simply recognizes your message as flagged and replies with an "apologize" template you can't even argue with, like this:
-
-`I am sorry, but I can't answer this request because it violates OpenAI's use case policies.`
-
-**There is nothing you can do about it** other than rely on luck to get a response from a key with no moderation, find some lucky prompt that manages to pass it by or try to delete any inappropriate directions from your JB ("Safe" JBs can help you but your messages still can trigger rejection).
-
-Please note that my prompts for GPT are made for the keys with no moderation, so they all have explicit directions that will most likely trigger the template response. Before setting up my prompt, check if it's possible to get any NSFW response on the proxy you have access to with a simple JB that explicitly makes AI write sexual stuff.
-
-You can know more from the [OpenAI Docs - Moderation](https://platform.openai.com/docs/guides/moderation/quickstart).
-
-On the other hand, it seems that Anthropic doesn't have such a tool; instead, they use ['Harmlessness screens'](https://docs.anthropic.com/claude/docs/content-moderation) - prompt injections as the last message in chat.  To bypass them, you **can** just use a simple prompt like [this one](#dealing-with-a-pozzed-key).
-
-![](https://files.catbox.moe/3uyyd9.png)
-*(Image: A screenshot from OpenAI Docs.)*
 
 ######
 - - -
@@ -111,7 +93,7 @@ I had fun on this journey with you and am excited to see what these "assistants"
 • **Proxy Warning.** Be cautious when using a proxy. Some may log your messages, or collect your data, such as IPs.
 • **Fictional Characters.** All my characters are 18+. Even if it's just a text and a picture. Even if stated the opposite. They're not real. Everything is made up. (And I can't and won't stop you from modifying them as you want)
 • **Responsibility.** I am not responsible for what content is being created using these prompts.
-######
+#####
 - - -
 ##### Will You Enjoy These Prompts?
 These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here.
@@ -190,6 +172,23 @@ Example 2. Kobold caught pickpocketting:
 ![](https://files.catbox.moe/47kash.png)
 *(Image: Output examples from GPT-4-32K-0301, 2-nd message.)*
 
+#####
+**Q0: GPT avoids ERP. Why?**
+A0: You've probably already noticed and argued about it. Some users can't get NSFW content from specific models, while others have no trouble. If you're NOT GETTING replies at all, the key holder might be using [Moderation Endpoint](https://platform.openai.com/docs/guides/moderation/quickstart) or a content filter that moderates the model's OUTPUT. It's VERY rare, but it can happen.
+
+Please note that there are no filters that change the model's output. The model tries to "filter" itself according to its training, nothing more.
+
+If you get a message saying your request violates policies while using a JB, you're doing something wrong or... I don't know. Some proxies may have issues with NSFW chats, while others don't. Maybe. I don't know why this happens. If you're faced with this, check if everything you do is per the instructions provided with the prompts, or try finding other "Jailbreaks" made specifically to trick a model into generating NSFW, like the famous "Meow, Meow" JB. Some of my prompts also use prefills and fake AI messages for this purpose.
+
+If you've faced these problems:
+\- First, ensure you are using the prompts per instructions. (Maybe you've turned something off or on.)
+\- Check if you are using the right model. (Some models are more strict than others.)
+\- Check if you set the context size correctly. (If it's too low, some valuable info may be lost.)
+\- Some custom proxy builds may contain "surprises."
+
+On the other hand, Anthropic uses ['Harmlessness screens'](https://docs.anthropic.com/claude/docs/content-moderation) - prompt injections as the last message in chat. Bypassing them with prefill is simple. You can use a simple prompt like [this one](#dealing-with-a-pozzed-key).
+
+#####
 **Q1: "Why use XML? I think it's just schizo-prompting!"** 
 A1: Claude and GPT have been specifically trained to understand XML tags (or any other Sequence Enclosure). Segmenting your prompt into <sections> makes it easier for AI to comprehend. Why don't we use brackets, then? It's because prompts and character cards contain much information, and we want to structure it for AI. XML tags, as well as headings, help us to clearly define sections. Here are some sources: [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/defensive_measures/xml_tagging), [OpenAI Documents](https://platform.openai.com/docs/guides/gpt-best-practices/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input), [Anthropic Documents](https://docs.anthropic.com/claude/docs/constructing-a-prompt).
 

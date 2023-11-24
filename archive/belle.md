@@ -1,11 +1,19 @@
-**devon** 
+![](https://images-ext-2.discordapp.net/external/BctBZa6IS_CWzTpENdT8RJo2oYak4yl9nn4EAX7ZExo/https/dl.dropbox.com/s/etxsqhu1ioi5aen/88260B0E-4CB6-4132-AE7F-87301D377C8E.gi)
 
-17 she/they black
+``` python 
+꒰ devon ꒱ / rio!!
+19 she/they blk enby muslim ⋆࿐
 
-do not req me if non black, on kpop twt mainly, we was previously mutuals. these dont apply if i follow first.
+dni -16 or zionist kys
+```
+***
 
-only groups i like are aespa stayc tbz bts & a few more girl groups. ++ snh48 wayv mark jaehyun chenle doie.
-
-i like horror movies, shows, fashion, animanga, art, pluggnb, spiderman movies!! sage levi & **<noel3**
-
-i ♥ ariana normani megan ts marina lolo zouaï doja kali cochise saint jhn fantasy carti tinashé bibi harisu boa **+**
+``` python
+♥︎ football movies reading f1
+chn48 bandori nugu ggs etc
+* kpop & football centered
+```
+ 
+`
+more interests listed
+` [here](https://rentry.co/sulIi)

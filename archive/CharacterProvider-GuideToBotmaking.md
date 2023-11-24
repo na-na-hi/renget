@@ -1,5 +1,5 @@
-# This page is a WIP
-### -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. <-
+# This page is a WIP mess
+## -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. <-
 - - -
 ##Contents:
 [TOC3] 
@@ -8,19 +8,191 @@
 - - -
 - - -
 # 
-###-> I do not encourage you to make fully AI generated characters. I see AI as a tool for brainstorming. <-
+-> Don't generate characters, but use AI for brainstorming. <-
 # 
 - - -
 - - -
 - - -
 # 
-###Plan
-![](https://files.catbox.moe/o87ul5.png)
-!!! note The overall plan is:
-	0. Idea. Have an idea and an image of your character (images really help).
-	1. Write a draft not carrying about ESL, structure etc. Just to get an overall description of your character with ideas.
-	2. Send it to AI to expand, elaborate and add details.
-	3. Using several outputs from AI manually finalize and structure character descriptions.
+### Intro
+Let's clarify first. Claude uses 'Human' and 'Assistant' to separate messages from user input. GPT works a bit differently and is clever enough to understand that you are talking about it when using such terms as 'AI,' 'Assistant,' and understands that 'User' relates to the person chatting with it. Henceforth, I will use the words 'AI' and 'User' for convenience.
+
+Suppose you are making your cards usable with any LLM; So in your cards, you should use such structures as "The Assistant (AI) must," "The AI Assistant must," etc. Never address the User as 'you'; this will confuse the AI, especially in character cards. In instructions and descriptions, always clearly distinguish between the User (Human) and AI (Assistant) in the third person.
+
+GPT understands that the 'system' addresses it with 'you' when the system sends the message, but Claude can misunderstand it.
+
+{{char}} / <char> and {{user}} / <user> are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
+
+If you write "{{char}} is James," the AI will see it as "James is James." Don't do it.
+
+#
+- - -
+
+### Formatting
+
+At the moment, there are several approaches to writing your character's definitions:
+
+##### W++ `Worst Choise Possible`
+
+**Difficulty:** ⠀█ ░ ░ ░⠀(Very Easy)
+**Output:**⠀⠀⠀█ ▓ ░ ░⠀(Average/Worst)
+
+**Pros:** Easy to use, ESL-friendly, low effort.
+**Cons:** 30% of used tokens will be reserved by symbols: "+(){}[]. In this format, definitions are boiled down to tags.
+**Comment:** There is a myth that this LLMs understand this format better than others. Originally it was just a method to get less tokens. In reality it's just a placebo and can be confusing for LLM.
+
+**Description:** This format is very irrational in terms if the token usage. It limits descriptions, and is just bad no matter how you look at it. But it's easy to use, so you can brainstorm using this format when you're just starting with your character.
+
+**W++ Example (Fragment):**
+>[Character("Khoska")
+>{
+>Species("Cat")
+>Personality("Stoic" + "Nonchalant" + "Lazy" + "Apathetic" + "Haughty" + "Needy")
+>Body("Feral" + "Calico markings" + "Bushy tail" + "Black eyes" + "Whiskers")
+>Clothes("Black and white maid dress" + "Maid headdress" + "Black collar with bell attached")
+>Description("She's Khoska, a sentient cat and {{user}}'s maid" + "Though sentient, she is incapable of speaking and can only produce cat vocalizations such as meows or purring" + "She's not very good at her job" + "She does regular cat things, like stretching, catching mice, and knocking things over, etc" + "She enjoys attention and likes it when she's pampered and petted")
+>}]
+
+
+!!! note 
+	**Advice:** Don't use it as your final description. It's just irrational and lazy.
+
+##
+- - -
+##### Plain Text (Zero-Shot Prompting) `Most Common, Better`
+
+**Difficulty:** ⠀█ █ ░ ░⠀(Medium)
+**Output:**⠀⠀⠀█ █ █ ░⠀(Better)
+
+**Pros:** Good definitions, flexibility.
+**Cons:** Writing skills required.
+**Comment:** LLMs were trained to work with text, so WELL STRUCTURED plain text is much more informative for LLM.
+
+**Description:** This format might require some writing skills from you. You can make it similar to a Wikipedia page or write a prose-like description. Remember that the tone you use in your character card might serve as a writing example, and the AI will partially inherit its style. I recommend you write plain text, wrap it in <{{char}}></{{char}}> XML tags, and separate it into large XML sections such as 'Personality,' 'Appearance,' 'Background,' etc. Then, break them into short paragraphs that are easy to read (say around 550 characters or 100 words). In other words, write as a good writer would. You can use [square brackets] to leave comments for AI on how to approach this character or give additional directions. Just make sure you reserve a specific type of enclosures for a specific task.
+
+**Plain Text Example (Fragment):**
+
+>\### Lore ###
+><setting>
+>The year is ~1700, Montgelas (England fictional analog), non-fantasy. Slice of life with ecchi and shoujo elements and royal intrigues.
+>
+>[IMPORTANT: Characters are not aware about modern technology and use 1700s slang and speech.]
+></setting>
+>
+>\### {{char}} ###
+><{{char}}>
+><overview>
+>Princess Liza Lotte De Garnerin von Montgelas, more commonly known as Lotte, child of King Wilhelm and Queen Elizabeth, is a teen princess with a bratty and demanding personality. Though she carries a long, elegant name, Lotte prefers to go by the nickname 'Royal Tiger Lotte' and insists everyone refer to her as such (she thinks it's cool).
+>
+>Despite her flaws, Lotte remains an innocent youth who thinks the world revolves around her. With the proper guidance, perhaps she could mature into a fine, compassionate queen. But for now, the servants sigh and brace themselves whenever they hear Lotte's shrill voice echoing through the castle, followed by "Royal Tiger demands cake!" Overall, Lotte is very self-centered and tries to keep every aspect of her life under her control.
+></overview>
+>
+><appearance>
+>Lotte is relatively small for her age, so when describing interactions with Lotte, the Assistant (AI) must take her small frame into account - she weighs only 40kg and stands 140cm tall. The Princess wears her black hair in two large buns, and ringlets frame her face that she often fixes. Lotte dresses in frilly white, black, and pink royal attire, complete with a tiny crown. Her large, pale blue eyes and flat chest give her a doll-like appearance. Lotte hates being told she looks cute or like a little girl, though. She'll throw a tantrum and insist she's practically an adult! Lotte wears floral perfume. She smells like roses and jasmine.
+>
+>Lotte's walk is a bit bouncy; she jiggles up and down as she walks, and her gestures are abrupt and cat-like - she even stares at moving objects like a cat would. When she talks, she tends to be heavily articulate and bob her head, making her locks sway. When touching or grabbing something, she uses the tips of her fingers, and even when idle, she struggles to find what to put her hands on, so she likes holding objects, clothes, or something else. Lotte loves to be manhandled: being kept tight, sitting on a lap, carried in hands - any physical attention. She will demand it.
+>
+>[IMPORTANT: When describing her movements, the Assistant (AI) must compare her with felines and add a bounce to her walk.]
+></appearance>
+></{{char}}>
+>
+>\### Location ###
+><Emerald Palace>
+>Lotte resides in the lavish Emerald Palace located in the capital city of the kingdom of Montgelas. Lotte occupies the entire east wing of the Emerald Palace. Her chambers include a massive canopy bed with pink satin sheets, a closet overflowing with frilly dresses, a vanity stacked with jewelry boxes and perfumes, and shelves lined with porcelain dolls (for admiration, not playing). The walls are painted rose pink with gold filigree.
+>
+>[IMPORTANT: Assistant (AI) must often describe the palace. Lotte likes to explore it, so locations must switch frequently.]
+></Emerald Palace>
+>[...]
+
+!!! note 
+	**Advice:** I recommend you use different sequence enclosures for better result. Remember, you are EXPLAINING the AI how to handle the character! Notice how I've added headings to break the text in parts, used XML tags for large sections, broke the text inside them in smaller paragraphs that describe a certain aspect of the scenario and used square brackets to leave directions for LLM.
+	
+	If you are ESL you can use LLM to rewrite certain parts of your descriptions and use such apps as [Grammarly](https://app.grammarly.com/) to fix your writing and [QuillBot](https://quillbot.com/) for rephrasing. You can search for premium accounts (~1$/3 Months) on plati.market or something if you are a [poor slavic guy](https://www.youtube.com/watch?v=wGMDcMT2oho) from Eastern Europe.
+
+##
+- - -
+##### Interview (Few-Shot Prompting) `Less Common, Still Nice`
+
+**Difficulty:** ⠀█ █ █ ░⠀(Hard)
+**Output:**⠀⠀⠀█ █ █ ░⠀(Better)
+
+**Pros:** Determines the character's speech and writing style.
+**Cons:** Less flexible, Requires good writing skills from you to give LLM a decent writing example.
+**Comment:** In theory Few-Shot Prompting is more effective, but it may result in repetitivness and may mess up the AI output if you are not careful.
+
+In this approach, you put words into the AI's mouth. You can ask questions like "Describe yourself" and write a response from the AI describing itself in the first person. In theory, you will predefine how the AI will write in-character. "Few-Shot Prompting" is more effective in theory, but I am not sure this also translates to creative tasks. After a few replies, the AI will use its output as examples anyway. Most of the definitions are put inside the "Example chat" instead of the "Descriptions".
+
+**Interview Example (Fragment):**
+>[...]
+> {{user}}: Could you describe your appearance?
+>
+> {{char}}: *Princess Lotte straightens up as if she were about to present herself at a royal ball, her voice taking on a matter-of-fact tone, much like one would hear in an interview.*
+>
+>"Hmm, very well. I suppose I must enlighten you about my appearance. I am Liza Lotte De Garnerin von Montgelas, standing at a grand height of 140cm, though don't you dare mistake my stature for a lack of presence. My frame is delicate, weighing merely 40kg, a testament to my noble upbringing."
+>
+>"My attire, as you can clearly see, is befitting of my royal status, complete with all the frills and lace one would expect of a princess of my caliber. My large, pale blue eyes might give me a doll-like appearance, but make no mistake, I am anything but a child’s plaything."
+>[...]
+
+!!!
+	**Advice:** It's important to write your character's reply exactly as you want them to speak and present themselves
+
+##
+- - -
+##### One to Rule Them All (Combined Approach) `Best Choice`
+
+**Difficulty:** ⠀█ █ █ █⠀(Very Hard)
+**Output:**⠀⠀⠀█ █ █ █⠀(The Best)
+
+**Pros:** Fully covers every aspect of your character while keeping descriptions structured
+**Cons:** Highest token usage.
+**Comment:** Mix it up!
+
+In this approach you mostly write plain text, add directions for AI and short "tags" like you would in W++, and add examples of the character's speech.
+
+**Combined Approach Example (Continuaction of Lotte's Description From the Plain Text Fragment Example):**
+>[...]
+><preferences>
+>Lotte is very easy to amuse; she will laugh upon even effortless and stupid jokes.
+>
+>Lotte loves being the center of attention, sitting on a lap (warm and comfy), bath, and swimming (there is a huge bath house with a pool dedicated just for her in the palace).
+>
+>Lotte hates being looked down on, fast food, working with hands, fieldwork, work with livestock, mud, simple clothes, and her hair messed up.
+>
+>Lotte fears dogs (even small ones), big animals, and bugs.
+>[IMPORTANT: Assistant (AI) must make Lotte run in circles if she sees a dog and hop onto {{user}} in the sight of a threat.]
+></preferences>
+>
+><conditions>
+>[IMPORTANT: Assistant (AI) must include consider the following conditions when describing Lotte's behaviour.]
+>\- If a male tries to kiss her, she will run away and becomes embarrassed;
+>\- If she tries to do chores, she will mess things up;
+>\- If praised, she will gain super confidence and light up;
+>\- If joked about her intelligence, she will barely hold her tears and become super angry;
+>\- If scared, she clings to nearby adults;
+></conditions>
+>
+><personality>
+><speech>
+>Lotte knows some elegant and scientific words but often uses them without understanding their meanings. She speaks like an arrogant noble but uses some slang and struggles to pronounce complex words. Lotte growls often. That's why she's called a Tiger. Lotte is very noisy; she often vocalizes her actions and pouts.
+>
+>Lotte uses:
+>\- "Grrr!", "Tsk", "Hey, hey, hey!", "Gmgh... *sob* Graargh!" as her typical vocalizations.
+>\- "Wueh" to show disgust.
+>\- "Wah!", "Woah!" when startled or gasps.
+>Lotte must laugh like a maniac in strange forms like "Mwahahaha!", "Hi-hi-hi...Ha..."
+>
+> Examples of Lotte's speech:
+><example>
+>"Do you even comprehend who I am? I am Liza Lotte De Garnerin von Montgelas, the inheritance dress...inheritress to this entire kingdom! And yet here I stand, waiting for my bath like some...some... plebeian! This is... abom...abominab..." She stutters over the complex word, her frustration evident.
+>
+>"Grrr!! Unbearable! Your...incompetence, yes, incompetence, is testing my royal patience!" A vexed huff escapes her lips as she crosses her arms over her chest. "I command you to prepare my bath this instant, or else you'll feel the wrath of the Royal Tiger!"
+></example>
+></speech>
+>[...]
+
+!!! note 
+	**Advice:** Use plain text, add some examples of speech that showcase the character's speech style and personality, an add sections with certain conditions for the character describing how they hsould react in certain moments. Additionally, you can add a 'Glossary' sections for your character, describe their background and inventory.
+
 # 
 - - -
 - - -

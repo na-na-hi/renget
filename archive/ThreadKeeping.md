@@ -446,17 +446,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Katsumi Hachizaki:
-https://rentry.org/HeartMHA
+Sandatsu Build Update: (Should he be in the villain list now?)
+>>91030425
 
->Musical Exploration (Nekiro)
-https://pastebin.com/9TGVy46L
->Dare Prompt Fill (The Clique)
-https://rentry.org/c84dp
->Rosethorn Date (Ryu-Kishi, Rosethorn)
-https://rentry.org/bwr7m5
->Friends 3 (Capture Cloth, Android)
-https://rentry.org/mcagp
+New Pro Hero:
+Yosuke Shirai HN The Lustrous Hero, Wavelength
+>>91032513
+
+>In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
+https://rentry.org/i8rd9
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -526,7 +524,7 @@ Page 2
 >Kyoda Hiro HN Overdose (Held Back)
 >>88193619
 >Sandatsu Owari
->>88192177
+>>91030425
 >Sally McCathy HN Last Rite
 >>88810810
 >Takara Tame HN Android
@@ -561,9 +559,9 @@ Page 2
 Page 3
 ***
 ```
-Students (Cont.)
+>Students (Cont.)
 
-Class 3-B (U.A.)
+>Class 3-B (U.A.)
 >Animata
 >>90990850
 >Synthesis
@@ -585,10 +583,26 @@ https://rentry.org/eesb8
 >Katsumi Hachizaki:
 https://rentry.org/HeartMHA
 
-PRO HEROES
-U.A. Teachers:
+>PRO HEROES
+>U.A. Teachers:
 >Yunikon, the Brilliant Hero
 >>90998494
+
+>Shiketsu Teachers:
+> Anzu Nishima HN Karaburan
+>>88189414
+> Aiko Aimi HN Motivational Hero: Rosethorn
+>>88190438
+>Pierre Vachon HN The Gentle Way Hero: Ippon
+>>88205924
+>Masanori Kitamura HN Hijack
+>>88219956
+>Yasashi Koibito HN The Laser Hero - Majestic
+>>88231509
+>Junko Hongo HN The Overly-Enthusiastic Tokusatsu Hero, LocaLoca (NPC)
+>>88745486
+>Omura Tadao HN Deceptive Hero, Conman
+>>88754723
 ```
 
 ***
@@ -632,23 +646,8 @@ Page 4
 >>89507063
 >Tosuke Jinai HN Compound
 >>91016593
-
->Shiketsu Teachers:
-> Anzu Nishima HN Karaburan
->>88189414
-> Aiko Aimi HN Motivational Hero: Rosethorn
->>88190438
->Pierre Vachon HN The Gentle Way Hero: Ippon
->>88205924
->Masanori Kitamura HN Hijack
->>88219956
->Yasashi Koibito HN The Laser Hero - Majestic
->>88231509
->Junko Hongo HN The Overly-Enthusiastic Tokusatsu Hero, LocaLoca (NPC)
->>88745486
->Omura Tadao HN Deceptive Hero, Conman
->>88754723
-
+Yosuke Shirai HN The Lustrous Hero, Wavelength
+>>91032513
 
 >SUPPORTERS:
 >Lady Astoria Belmont
@@ -941,6 +940,8 @@ https://rentry.org/c84dp
 https://rentry.org/bwr7m5
 >Friends 3 (Capture Cloth, Android)
 https://rentry.org/mcagp
+>In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
+https://rentry.org/i8rd9
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

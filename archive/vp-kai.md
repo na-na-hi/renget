@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Nov.24 | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
 Nov.21 | [Olivia](https://www.aisekai.ai/chat/655d9941e746f0bb9d18c66b)
 Nov.19 | [Pheromosa (XXL Breasts)](https://www.aisekai.ai/chat/655ac2d2164b5ab264ab1872)
 Nov.16 | [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283)
 Nov.15 |  [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)
 Nov.14 | [Misty](https://www.aisekai.ai/chat/65542db14d516870520de592) \| [Elizabeth (OC)](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728) ![Elizabeth](https://files.catbox.moe/yle05c.png)
 Nov.02 | [Pokéstar Studios](https://www.aisekai.ai/chat/654366d1f159a3e80459e71f) \| [Zinnia (Venus Body)](https://www.aisekai.ai/chat/654344259e0f3d7aabf142c8) \| [Liko](https://www.aisekai.ai/chat/65442829c2095c286fc56cd6) \| Pokémon Infinite Fusion: [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
-Nov.01 | [Leah (Pokémon Café ReMix)](https://www.aisekai.ai/chat/6542adec4a112e07cfba7759)
 !!! note
 ***
 Generation | Characters
@@ -29,3 +29,4 @@ About | Characters
 Pokémon Infinite Fusion | [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
 ![Elizabeth](https://files.catbox.moe/yle05c.png) | [Elizabeth](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728)
 Club frequented by Pokémon | [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62) \| [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283)
+SakuraFM bot ported and un-ESL'd | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)

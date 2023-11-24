@@ -1540,7 +1540,11 @@ Proud/Beast Costume
 
 # Puppets (Concept/Style)
 
-	https://pixeldrain.com/u/5dHrg9Lw
+	V1: https://pixeldrain.com/u/5dHrg9Lw
+
+>Alright, here’s the 85% less cursed puppet lora. mpuppet is the trigger prompt though I’m not sure how much you need it.
+
+	V2 (now 20% less cursed): https://pixeldrain.com/u/vCJujfze
 
 ## LORAs from the Discord
 
