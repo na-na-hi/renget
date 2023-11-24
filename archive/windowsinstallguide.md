@@ -197,7 +197,8 @@ Only disable items that you understand what they do and what they will affect wh
  
 ######Step 9 (Optional): Removing extraneous icons from Explorer's navigation pane
  
-Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can copy and paste the following reg values into Notepad, save it as a text file, rename it to .reg, then run it and restart Explorer.
+Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can copy and paste the section with whichever icon you want  to remove into Notepad and save it as a text file, rename it to .reg, then run it and restart 
+Explorer. Repeat with additional icons you want to remove.
 You will end up with a simplified Explorer listing of just C:\ D:\ E:\ etc ala Win9x all those decades ago.
 This pairs well with Step 6 if you moved all your user folders to D:\ or another partition.
 

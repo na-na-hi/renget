@@ -43,6 +43,7 @@ Image | Name | Description | Links
 ##Male Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![Julien](https://files.catbox.moe/gqpvdk.png)   | **Julien** | (V2) 4 greetings. A flowery, romantic big bro set in the French countryside. He loves his dear sibling, though he has a bit of a troubled history... AnyPOV. | [chub](https://www.chub.ai/characters/crustcrunch/julien-40290707), [catbox](https://files.catbox.moe/gqpvdk.png)
 ![POTO](https://files.catbox.moe/13c4uo.png)   | **Phantom** | (V2) Lorebook + 3 greetings. The Opera Ghost himself. Greetings are ChristinePOV, RaoulPOV, and AmbiguousPOV. | [chub](https://www.chub.ai/characters/crustcrunch/the-phantom-of-the-opera-26a4648c/main), [catbox](https://files.catbox.moe/13c4uo.png)
 ![winnie](https://files.catbox.moe/d6ysjw.png)   | **Prince Winslow** | (V2) Lorebook + 5 greetings. Something of a companion bot for "Prince Lawrence." This time, Winslow is your younger brother. He's rude, blunt, and sometimes aggressive... | [chub](https://www.chub.ai/characters/crustcrunch/prince-winslow-ac91c4ab), [catbox](https://files.catbox.moe/d6ysjw.png)
 ![erika](https://files.catbox.moe/q76824.png)   | **Erika** | (V2) 7 greetings. MixedPOV (easy to edit.) Yandere femboy based off the artwork of Koyashaka's OC, Envy Elika. | [chub](https://www.chub.ai/characters/crustcrunch/erika-9748da67/main), [catbox](https://files.catbox.moe/q76824.png)

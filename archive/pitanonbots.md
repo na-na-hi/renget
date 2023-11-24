@@ -25,6 +25,7 @@ Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https:
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
+Sidney | (23/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/sidney-7c14da2a/main) | ![](https://files.catbox.moe/qbgteh.png)
 Bimu | (12/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/bimu-42e062d9) | ![](https://files.catbox.moe/37dvca.png)
 Yukina | (06/7/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Yukina) | ![](https://files.catbox.moe/mygjfp.png)
 Mimi | (16/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Mimi) | ![](https://files.catbox.moe/oj6a0v.png)
@@ -880,3 +881,4 @@ Yukina | https://files.catbox.moe/8zxvyu.zip https://files.catbox.moe/79v01c.zip
 Mackenzie | https://files.catbox.moe/bdgb1i.zip https://files.catbox.moe/qk7sn5.zip
 Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip
 Bimu | https://files.catbox.moe/61qg4d.zip
+Sidney | https://files.catbox.moe/x0cthi.zip https://files.catbox.moe/s1mv4b.rar

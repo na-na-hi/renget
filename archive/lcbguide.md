@@ -325,7 +325,7 @@ MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
 
 **4. Thread & EXP Luxcavation**
-The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have five levels: 8, 18, 28, 33 and ??. Thread stages have three levels: 20, 30 and 40. The higher the level, the higher the rewards.
+The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have five levels: 8, 18, 28, 33 and 38. Thread stages have three levels: 20, 30 and 40. The higher the level, the higher the rewards.
 
 You don't get much Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavations without much worry if you're starving for XP.
 
@@ -373,4 +373,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
 11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
 11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
-11/22/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/23/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)

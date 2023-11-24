@@ -1,5 +1,4 @@
 # Welcome to Hassans Page!
-![logo](https://i.imgur.com/sawLoWT.png)
 
 | Discord group | HuggingFace Profile | Support me |
 |--|--|--|
@@ -24,6 +23,8 @@
 * [Guides](https://rentry.org/sdhassan#random-guides)
 
 Changelog:
+- `Nov 23rd - 2023` - 
+	-[Patreon release of Stability Video generation Runpod Notebook)](https://rentry.org/sdhassan#patreon-posts)
 - `Nov 21th - 2023` - 
 	-[Patreon release of Controlnet Instagram POSES)](https://rentry.org/sdhassan#patreon-posts)
 - `Nov 21th - 2023` - 
@@ -105,6 +106,9 @@ See Samples you can see samples from the models here or on Civitai: [https://img
 
 
 ### Patreon Posts: 
+[Nov 23rd 2023](https://www.patreon.com/posts/93417237): [Stability Video Generation](https://www.patreon.com/posts/93417237) -  [RUNPOD.io](https://runpod.io?ref=351mnsv2) cloud notebook in Jupyter format.
+Allows you to run video generation from Stability in the cloud. Hasn't been tested on vast.ai or kaggle but technically should work. Will not work on Colab due to colab's limitation of the local url's generated. 
+
 
 [Nov 21st 2023](https://www.patreon.com/posts/release-hassan-93283936): [Release] Hassan Instagram style POSES
 Pack contents

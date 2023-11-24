@@ -1,4 +1,43 @@
 ▶NEW CLIPS
+>Russia bringing out its own cluster munitions have begun to inflict heavy losses among Ukrainian infantry
+https://files.catbox.moe/ura1ui.mp4
+https://files.catbox.moe/kiawss.mp4
+>9K115 Metis ATGM operator destroys an AFU pickup truck in Artemivsk direction
+https://files.catbox.moe/2paqlp.MP4
+>FPV drone flew into a Russian dugout but failed to work, Russians beat it with a shovel
+https://files.catbox.moe/18pgmg.MP4
+>BOBR: interception of enemy FPV video signal and courtesy return visit.
+https://files.catbox.moe/ua7yfo.mp4
+>BOBR defeat of the Ukrainian Armed Forces pickup truck
+https://files.catbox.moe/v0q458.mp4
+>BOBR hit on BTR-4E "Bucephalus" of the Armed Forces of Ukraine.
+https://files.catbox.moe/6f8fyj.mp4
+>hoholina in trench
+https://files.catbox.moe/1amg8l.mp4
+>AFU chops the frozen ground at -6C
+https://files.catbox.moe/kh21wn.mp4
+>Tests of new Russian drone bomber capable of dropping up to 5 munitions with a total mass of up to 3.5 kilograms
+https://files.catbox.moe/57w3kr.mp4
+>Russian RBK-500 attacks the positions of the Ukrainian Armed Forces in Avdeevka
+https://files.catbox.moe/72towv.mp4
+>Artemov direction
+https://files.catbox.moe/vviinc.mp4
+>Assault actions of "Pyatnashka" fighters in the area of Avdeevka industrial zone
+https://files.catbox.moe/xmvvp9.mp4
+>Bringing two Georgians into the basement.
+https://files.catbox.moe/64s23b.mp4
+>RBK-500 being used in Avdeevka
+https://files.catbox.moe/pidv4c.mp4
+>Avdeevka forest belt clustered
+https://files.catbox.moe/t639tj.webm
+>Killer kay-ACK attempting landing near Krynki
+https://files.catbox.moe/q1x1ab.webm
+>Avdeevka / Krynki holol fort BTFOed
+https://files.catbox.moe/p37lc0.webm
+>Ukrainian recruitment officers snatched a man with violence in front of his wife who could do nothing to help her husband.
+https://files.catbox.moe/q5helo.mp4
+>27 night-vision FPV hits:
+https://files.catbox.moe/x923u3.mp4
 >Situation south of Avdeevka
 https://files.catbox.moe/xsw33v.mp4
 >Turkish Kirpi armored vehicle drowned in mud

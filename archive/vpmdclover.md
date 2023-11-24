@@ -304,6 +304,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
     * [Sterling's Purpose ch. 4](https://rentry.org/bdc4o)
 	* [Sterling's Purpose ch. 5](https://rentry.org/m36g2z)
 	* [Sterling's Purpose ch. 6](https://rentry.org/thu62)
+	* [Sterling's Purpose ch. 7](https://rentry.org/933py)
 * Stumpy the Shroomish
 	* [The New Celeb of Sahara Town ch. 1 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh1)
 	* [The New Celeb of Sahara Town ch. 2 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh2) 
@@ -524,6 +525,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
 * [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1)
 * [Sterling's Purpose ch. 6](https://rentry.org/thu62)
+* [Sterling's Purpose ch. 7](https://rentry.org/933py)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

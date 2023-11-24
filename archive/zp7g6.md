@@ -99,7 +99,7 @@ More info about the comparison table and preview images can be found in the **[A
 ### H
 [Hamada](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/fckilSYB) | [Henreader](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jAlhTKia)
 :------:|:------:
-![](https://files.catbox.moe/4526vp.jpg) | ![](https://files.catbox.moe/d79bgz.jpg)
+![](https://files.catbox.moe/omx0bq.jpg) | ![](https://files.catbox.moe/d79bgz.jpg)
 [Henrybird](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/Oc1TSIhK) | [Highlow](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/PdsnhBBY)
 ![](https://files.catbox.moe/7ra0rl.jpg) | ![](https://files.catbox.moe/k8j6qm.jpg)
 [Hiro Hiroki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2Zk1yT6B) | []()

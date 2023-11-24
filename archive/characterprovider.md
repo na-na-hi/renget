@@ -30,7 +30,7 @@
 -> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
 -> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-
 
--> Write your nickname with the donation (>10$) so I can name your kobold. <-
+-> Write your nickname with the donation so I can name your kobold (for >10$ tips). <-
 
 #
 
@@ -122,15 +122,14 @@ Instructions that I commonly include into my prompts:
 - Environments descriptions.
 - Introduction of supporting characters.
 - Maintainment of character integrity.
-- Incorporation of humor.
 - Showcases of character abilities frequently.
 - Introduction of interactive objects and props.
-- Introduction of events.
+- Introduction of events. (not always)
 - Usage of characters' inventories.
-- Sexualization and objectification of the characters.
 - Descriptions of interactions/objects/labels.
 - User-centered narration.
-- Additions of silliness, sarcasm, and wittiness.
+- Additions of silliness, sarcasm, and wittiness. (not always)
+- Longer novel-like responces (not always)
 - ~~Inclusion of telepathic squirrels for comic relief.~~
 
 >**Comment on feedback:** Many anons have directly messaged me about the significant improvements in storytelling and characterizing their characters. If given the option, I highly recommend using GPT instead of Claude. I understand that the 12+ versions of the Claude prompt can be confusing, so I suggest either version 10.1 (which focuses on inventiveness and interesting events) or version 12 (which has more inventiveness and fewer events). The recommended versions are marked with a star. The reason for so many versions is because of experimentation and many anons requesting to try out every version and subversion to provide feedback. I am grateful for the constant feedback and suggestions from several anons on improving the prompts.

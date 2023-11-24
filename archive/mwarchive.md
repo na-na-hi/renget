@@ -54,6 +54,11 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, were told to shut up or face court martial
+* Mystery Pnuemonia, aka Covid 2 is currently "tearing through" schools in China
+* Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
+* UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
+* Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks
 * Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
 * Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
 * Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast
@@ -63,13 +68,13 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Boycott of McDonalds for supplying Israeli troops results in 60 ppl being charged with Sedition in Malaysia
 * Chinese "Spamouflage"/"Dragonbridge" disinfo campaign attacking the west with 100's of thousands of sockpuppets
 * Canadian man suffering from Crohns put his moms poop up himself as treatment, started experiencing menopause.
+
+####General Ideas
+
 * Israeli President says mein kampf found in a childrens living room justifies killing of Palestinian kids
 * 44 yo commercial pilot takes magic mushrooms, asks "am I dead?" then attempts to stop engines midflight
 * All female spacewalk on ISS results in second lost tool bag in orbit, again.
 * Douglass Mackey going to prison for 10 yrs for posting a meme of hillary clinton
-
-####General Ideas
-
 * Makhachkala Airport in southern Russia's Republic of Dagestan hosting a spontanous pogrom
 * "Carepods" AI powered human-free doctors offices that draw your blood, swab your throat and diagnose you
 * Fighting breaks out outside the museum of tolerance after screening of hamas film

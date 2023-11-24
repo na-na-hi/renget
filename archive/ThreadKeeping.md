@@ -446,28 +446,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-American Enforcer?
->Brightly
->>91006966
+>Katsumi Hachizaki:
+https://rentry.org/HeartMHA
 
-Hifumi 'Fired Up' Stamp
->>91008290
-
-New Retired Hero:
->Atsushi Nabiki/HN: Shelong (NPC)
->>91008430
-
-New Non-Retired Hero:
->Tosuke Jinai HN Compound
->>91016593
-
-Missed 3-B Student Builds (We still missing anyone?):
->Madoka Mikan HN Heartbeat
-https://rentry.org/eesb8
->Itō Sukemochi HN Warpden
->>90973632
->Li Yinzhen, Jiangshi
->>90978093
+>Musical Exploration (Nekiro)
+https://pastebin.com/9TGVy46L
+>Dare Prompt Fill (The Clique)
+https://rentry.org/c84dp
+>Rosethorn Date (Ryu-Kishi, Rosethorn)
+https://rentry.org/bwr7m5
+>Friends 3 (Capture Cloth, Android)
+https://rentry.org/mcagp
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -593,6 +582,8 @@ https://rentry.org/eesb8
 >>90973632
 >Li Yinzhen, Jiangshi
 >>90978093
+>Katsumi Hachizaki:
+https://rentry.org/HeartMHA
 
 PRO HEROES
 U.A. Teachers:
@@ -891,7 +882,7 @@ https://rentry.org/xxk2h
 Page 8
 ***
 ```
-Writefags (final)
+Writefags (cont.)
 >Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
 https://rentry.org/e7cszt
 >Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
@@ -941,6 +932,16 @@ https://pastebin.com/geBb3M22
 Page 9
 ***
 ```
+Writefags (final)
+>Musical Exploration (Nekiro)
+https://pastebin.com/9TGVy46L
+>Dare Prompt Fill (The Clique)
+https://rentry.org/c84dp
+>Rosethorn Date (Ryu-Kishi, Rosethorn)
+https://rentry.org/bwr7m5
+>Friends 3 (Capture Cloth, Android)
+https://rentry.org/mcagp
+
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 

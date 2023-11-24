@@ -4,23 +4,31 @@
 
 -> [Go back to the Main Page](https://rentry.org/joint_operation_center) ->
 
-## Available for purchase
+## Limited availability
+##### Physical goods
+||||
+|-----|-----|-----|
+|[!["Nerissa Ravencroft Birthday Celebration 2023" Merch Complete Set](https://files.catbox.moe/rp9h3f.webp) -> hololive production OFFICIAL SHOP $76 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966328540) -> [Geek Jack $81 USD](https://shop.geekjack.net/products/nerissa-ravencroft-birthday-celebration-2023-merch-complete-set) <- -> Order Period: until Monday, December 25, 2023 3AM (CT) <- |[!["Nerissa Ravencroft Birthday Celebration 2023" "Tea Party with Nerissa" Framed Art Board](https://files.catbox.moe/iw7716.webp) -> hololive production OFFICIAL SHOP $21 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966361308) -> [Geek Jack $22 USD](https://shop.geekjack.net/products/nerissa-ravencroft-birthday-celebration-2023-tea-party-with-nerissa-framed-art-board) <- -> Order Period: until Monday, December 25, 2023 3AM (CT) <- |[!["Nerissa Ravencroft Birthday Celebration 2023" Nerissa-Motif T-shirt](https://files.catbox.moe/h2134i.webp) -> hololive production OFFICIAL SHOP $24 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966394076) -> [Geek Jack $26 USD](https://shop.geekjack.net/products/nerissa-ravencroft-birthday-celebration-2023-nerissa-motif-t-shirt) <- -> Order Period: until Monday, December 25, 2023 3AM (CT) <- |
+|[!["Nerissa Ravencroft Birthday Celebration 2023" Nerissa's Ribbon-Style Keychain](https://files.catbox.moe/7xplf6.webp) -> hololive production OFFICIAL SHOP $18 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966426844) -> [Geek Jack $18 USD](https://shop.geekjack.net/products/nerissa-ravencroft-birthday-celebration-2023-nerissas-ribbon-style-keychain) <- -> Order Period: until Monday, December 25, 2023 3AM (CT) <- |[!["Nerissa Ravencroft Birthday Celebration 2023" Matching Pin Badge](https://files.catbox.moe/9ft3la.webp) -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966459612) -> [Geek Jack $7 USD](https://shop.geekjack.net/products/nerissa-ravencroft-birthday-celebration-2023-matching-pin-badge) <- -> Order Period: until Monday, December 25, 2023 3AM (CT) <- |
 
-### Hololive Shop
-|||
-|-----|-----|
-[![hololive Sports Festival Voice Pack](https://files.catbox.moe/ld13tm.webp)](https://shop.hololivepro.com/en/products/hololive_sportsfestival_voicepack?variant=44163472916700)|[![hololive English -Advent- Horror Voice Drama "The Manor"](https://files.catbox.moe/q0jaal.png)](https://shop.hololivepro.com/en/products/hololiveen_advent_horrorvoicedrama)|
-[![Starting Voice](https://files.catbox.moe/n23m9f.png)](https://shop.hololivepro.com/en/products/starting-voice-nerissa-ravencroft)|![](https://files.catbox.moe/inm4ky.png)
+
+## Always available for purchase
+
+##### Digital goods
+||||
+|-----|-----|-----|
+[![Situation Voice Pack "Tea Party with Nerissa" (Japanese＆English)](https://files.catbox.moe/4lh34c.webp) -> hololive production OFFICIAL SHOP <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966492380) -> [Geek Jack](https://shop.geekjack.net/collections/nerissa-ravencroft/products/nerissa-ravencroft-birthday-celebration-2023-situation-voice-tea-party-with-nerissajapanese-english) <- -> $7 USD <-|[![hololive Sports Festival Voice Pack](https://files.catbox.moe/ld13tm.webp)](https://shop.hololivepro.com/en/products/hololive_sportsfestival_voicepack?variant=44163472916700)-> $7 USD <-|[![hololive English -Advent- Horror Voice Drama "The Manor"](https://files.catbox.moe/q0jaal.png)](https://shop.hololivepro.com/en/products/hololiveen_advent_horrorvoicedrama)-> $7 USD <-|
+|[![Starting Voice](https://files.catbox.moe/n23m9f.png)](https://shop.hololivepro.com/en/products/starting-voice-nerissa-ravencroft)-> $7 USD <-|
 
 
-### Other
+##### Physical goods
 |Date / Occasion| Preview | Information |
 |-----|-----|-----|
 | October 2023 ![](https://files.catbox.moe/4jc013.png) Halloween &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![](https://files.catbox.moe/nidu92.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Amazon: ![](https://files.catbox.moe/4jc013.png)  [🇺🇸 hololive English -Advent- Halloween 2023 (White) T-Shirt](https://amazon.com/dp/B0CLGP7C9B) ![](https://files.catbox.moe/4jc013.png)  [🇺🇸 hololive English -Advent- Halloween 2023 (Black) T-Shirt](https://amazon.com/dp/B0CLGPCS24) ![](https://files.catbox.moe/4jc013.png) [🇺🇸 hololive English -Advent- Halloween 2023 (Black) Pullover Hoodie](https://amazon.com/dp/B0CLGNQZ8Q) ![](https://files.catbox.moe/4jc013.png)  [🇺🇸 hololive English -Advent- Halloween 2023 (Gray) Pullover Hoodie](https://amazon.com/dp/B0CLGNPRCZ) ![](https://files.catbox.moe/4jc013.png)  [🇬🇧 hololive English -Advent- Halloween 2023 (White) T-Shirt](https://amazon.co.uk/dp/B0CLGPSR47) ![](https://files.catbox.moe/4jc013.png)  [🇬🇧 hololive English -Advent- Halloween 2023 (Black) T-Shirt](https://amazon.co.uk/dp/B0CLGMKS36) ![](https://files.catbox.moe/4jc013.png) [🇬🇧 hololive English -Advent- Halloween 2023 (Black) Pullover Hoodie](https://amazon.co.uk/dp/B0CLGNS8SV) ![](https://files.catbox.moe/4jc013.png)  [🇬🇧 hololive English -Advent- Halloween 2023 (Gray) Pullover Hoodie](https://amazon.co.uk/dp/B0CLGMH8ZK)
 
 
 ## Sold out
-### Hololive Shop
-|||
-|-----|-----|
-|[![hololive English -Advent- Debut Celebration](https://files.catbox.moe/jxq0s8.jpg)](https://shop.hololivepro.com/en/products/hololiveen_advent_debut)|![](https://files.catbox.moe/inm4ky.png)|
+##### Physical goods
+||||
+|-----|-----|-----|
+|[!["Nerissa Ravencroft Birthday Celebration 2023" Merch Complete Set Limited Edition (includes handwritten autograph)](https://files.catbox.moe/rp9h3f.webp) -> hololive production OFFICIAL SHOP $76 USD <-](https://shop.hololivepro.com/en/products/nerissaravencroft_bd2023?variant=44224966328540) -> [Geek Jack $81 USD](https://shop.geekjack.net/collections/nerissa-ravencroft/products/nerissa-ravencroft-birthday-celebration-2023-merch-complete-set-limited-edition) <- |![](https://files.catbox.moe/2o7n9q.png)|![](https://files.catbox.moe/2o7n9q.png)|
