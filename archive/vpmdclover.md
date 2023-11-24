@@ -50,7 +50,7 @@ Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmd
 Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrian)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
-Sterling | M | Clamperl | N/A | Outsider | [???](https://rentry.org/vpmdcloverpb#sterling)
+Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
 Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
 N/A | F | Minun | Raichu (M, Native) | Clover Guild Gardener/Bounty Hunter | [Jolly](https://rentry.org/vpmdcloverpb#minunraichu)
 Charm/Smokey | F | Charmander | Natu (M, Native) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmnatu)

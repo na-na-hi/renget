@@ -794,6 +794,7 @@ Big thanks go to:
 - [Ali:Chat Lite - https://rentry.co/kingbri-chara-guide](https://rentry.co/kingbri-chara-guide)
 - [Ali:Chat Style - https://rentry.co/alichat](https://rentry.co/alichat)
 - [How to write in PList (Python list) + Ali:Chat - https://rentry.co/plists_alichat_avakson](https://rentry.co/plists_alichat_avakson)
+- [Moth's personal findings and tips on Tavern bot building](https://rentry.org/MothsBotMakingStuff)
 - [Chai's Pygmalion Character Creation & Writing Tips - https://rentry.org/chai-pygmalion-tips](https://rentry.org/chai-pygmalion-tips)
 - [How to make a character - https://rentry.org/create-a-character-for-fucking-idiots](https://rentry.org/create-a-character-for-fucking-idiots)
 - [Avakson's Character Editor - https://avakson.github.io/character-editor/](https://avakson.github.io/character-editor/)

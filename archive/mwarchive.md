@@ -54,8 +54,9 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
-* IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, were told to shut up or face court martial
-* Mystery Pnuemonia, aka Covid 2 is currently "tearing through" schools in China
+* IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, told shut up or face court martial
+* Mystery Pnuemonia, aka Covid 2, "tearing through" schools in China, WHO calls for masking and social distancing
+* New York state gets new law allowing kidnap, mandatory treatment and quarantine of people without notice for any infection
 * Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
 * UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
 * Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks

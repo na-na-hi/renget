@@ -139,7 +139,7 @@ The next morning, Christopher was jolted awake by an alert from his phone. He bl
 
 >**IniGOAT:** Alright people, today's the DAY! Everyone know your positions?
 There was a flurry of responses:
->**Hiro001:** yup got the cake ready!
+>**Hiro001:** yup got the food ready!
 >**SunlightManliest:** locked n loaded bro lets do this
 >**spookyscaryskeletons:** how many times do i have to say yes
 >**(++AK++):** yes omg so excited

@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 9 | **Experience to Next Level:** 25/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

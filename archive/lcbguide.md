@@ -284,9 +284,9 @@ Every character, except for Abnormalities, has Sanity (SP). Sanity starts at 0 a
 Sanity increases after winning a clash based on the clash count, defeating an enemy whose level was higher than the unit's, and after an ally defeats an enemy whose level was higher than the unit's. Passives and skill effects can also increase Sanity. Sanity decreases when the level of the defeated ally is higher than the unit's and decreases based on the level difference. E.G.O also cost Sanity.
 
 **4. Battle Types**
-There are two types of battles: human battles and Abnormality battles. As the names imply, the battle type depends on whether you are fighting humans or Abnormalities. If you are fighting both humans and Abnormalities at the same time, it will be an Abnormality battle. In the Refraction Railway, every battle is an Abnormality battle, regardless of the enemy type.
+There are two types of battles: human battles and Abnormality battles. As the names imply, the battle type usually depends on whether you are fighting humans or Abnormalities. Human battles are what you will encounter most often, and are commonly found in the main story and EXP Luxcavation. In human battles, you drag the chain across the dashboard to select skills. Outside of things like aggro and certain E.G.O, you cannot manipulate targeting and clashes in human battles.
 
-Human battles are what you will encounter most often, and are commonly found in the main story and EXP Luxcavation. In human battles, you drag the chain across the dashboard to select skills. Outside of things like aggro and certain E.G.O, you cannot manipulate targeting and clashes in human battles. Abnormality battles are commonly found in Thread Luxcavation, Dungeons, and the Refraction Railway. In Abnormality battles, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots.
+Abnormality battles are commonly found in Thread Luxcavation, Dungeons, boss fights and the Refraction Railway. In Abnormality battles, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots. It goes without saying that Abnormality battles are much more interesting to play because you have more control over targeting.
 
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list, so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released, and I don't want to do that or rely on other websites for opinions, because I only trust the opinions of anonymous retards. There are many other tier lists and resources for you to use if you need a full one.
@@ -373,4 +373,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
 11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
 11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
-11/23/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/23-24/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)

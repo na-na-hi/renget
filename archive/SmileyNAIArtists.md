@@ -16,6 +16,15 @@ Most of the artists were tested with different prompts to find an optimal result
      NSFW is not my priority, so I will be adding samples more slowly.
 	All generations were generated with a x2 strength {{TAG}}. (I don't know if it is exactly x2, but I can't think of a better way to explain it now).
 
+## How to use
+The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
+
+It is also possible to "combine" styles between two or three artists, I leave this to your experimentation as it would be impossible to test and organize each one individually.
+
+## Glossary
+Easy way to go from one point in the list to another.
+[TOC3]
+
 ### [Doppel (Bonnypir)](https://danbooru.donmai.us/posts?tags=doppel_(bonnypir))
 It's not 100% true to the original style, but it's one of my favorite results even though you need a little bit of trickery to get good results.
 [NSFW Generations](https://files.catbox.moe/5g8bkz.png)
@@ -56,3 +65,15 @@ Nice... and lewd.
 ### [zankuro](https://danbooru.donmai.us/posts?tags=zankuro)
 A rather... cute style. May generate lolis if not specified (Loli Fubuki was not something I wanted to see today).
 ![zankuro](https://files.catbox.moe/oyvdcq.png)
+
+### [cutesexyrobutts](https://danbooru.donmai.us/posts?tags=cutesexyrobutts)
+The art style is quite marked and aesthetically... cool, but it fucks up the hands basically every time and in most generations includes a malformed watermark.
+![cutesexyrobutts](https://files.catbox.moe/z48v0v.png)
+
+### [kagami hirotaka](https://danbooru.donmai.us/posts?tags=kagami_hirotaka)
+Quite clean styling with a noticeable taste for lips.
+![kagami hirotaka](https://files.catbox.moe/6nqkrd.png)
+
+### [megateru](https://danbooru.donmai.us/posts?tags=megateru)
+It has a rather odd consistency and takes on the style in a variety of ways, you decide whether you like it or not.
+![megateru](https://files.catbox.moe/5ct8pq.png)
