@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 19th November. All dates dd/mm.
+!!! Note Last updated: 25th November. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -144,6 +144,7 @@ Club ID | Club Name | Club Status
 623 | Mesugaki | Open as of 28/10
 2496 | AbydosCycling | Open as of 06/11
 6098 | Comfy | Open as of 16/09
+6289 | FlatIsJustice | Open as of 23/11
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -154,7 +155,6 @@ Club ID | Club Name | Club Status
 2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
 4722 | JointRaid | Full as of 03/02
-6289 | FlatIsJustice | Full as of 03/11
 
 ***
 
@@ -162,13 +162,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 29/10
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 22/11
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

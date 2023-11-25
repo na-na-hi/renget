@@ -3,6 +3,7 @@
 ### Songs
 ->Members<- | ->Date<- | ->Youtube<-
 ---- | ---- | ----
+->🔱-> | ->2023-11-25<- | [![cover](https://files.catbox.moe/vwykp3.jpg)  Tokyo Wabi-Sabi Lullaby](https://www.youtube.com/watch?v=D7XANR5cacE)
 ->🔱🏴‍☠️-> | ->2023-11-12<- | [![cover](https://files.catbox.moe/pzse40.jpg)  SHINKIRO](https://www.youtube.com/watch?v=9ehwhQJ50gs)
 ->🔱-> | ->2023-09-11<- | [![cover](https://files.catbox.moe/1u7f7e.jpg)  Kyoufuu All Back (強風オールバック)](https://www.youtube.com/watch?v=qMQ4P-vI3JI)
 ->🔱🐙⚓️🏴‍☠️🎣-> | ->2023-08-13<- | [![cover](https://files.catbox.moe/sd6zvi.jpg)  おーしゃんうぇーぶ・Party☆らぃ](https://www.youtube.com/watch?v=2v_BFL-kuWs)

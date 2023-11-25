@@ -36,6 +36,16 @@ videos:
 [Eruru](https://youtu.be/vJNUqMpxwvE)
 
 ### Boss 1
+[B1 Magic 56m - 0 manual inputs](https://www.youtube.com/watch?v=k6EAs60STXY)
+![](https://pomf2.lain.la/f/sxdwa70c.png)
+Tested with:
+Summer Yui 3★ Lv289 R30 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv289 R30 FULL, EX 5/5/5
+Lyrael 5★ Lv289 R30 FULL, EX 5/5/5
+Ameth 5★ R31 FULL, EX 5/5/5
+Princess Kyaru 5★ R30 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/uiuhds9y.png)
+
 [B1 Magic 54m - 0 manual inputs](https://www.youtube.com/watch?v=dCRSyxsR1QM)
 ![](https://pomf2.lain.la/f/8nqpclt.png)
 Tested with:

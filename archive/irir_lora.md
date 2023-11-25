@@ -503,7 +503,7 @@ Resolution | Image | Description
 
 ---
 
-## なんちゃってReLoRA
+## sd-scriptsでReLoRA?
 !!! warning 注意！！
 	ここでのReLoRAは本来のものとは異なり、sd-scriptsで手法を真似しただけなのでご了承を。
 
@@ -513,7 +513,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 つまり、一般向けのグラボで二次絵SDXLとかNSFW特化モデルが作れる。
 
 
-手順は以下の通り。
+手順は以下の通り[（ソース）](https://dskjal.com/deeplearning/lora.html)
 1.LoRAで学習する
 2.できたLoRAを元のモデルにマージ
 3.マージしたモデルでLRを下げてLoRAで学習

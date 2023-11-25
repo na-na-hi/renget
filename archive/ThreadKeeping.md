@@ -377,6 +377,8 @@ Idia
 >>90911712
 Funeda
 >>90945509
+>Syke
+>>91039421
 
 >Four Emperors
 Big Hand Robur
@@ -446,15 +448,14 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Sandatsu Build Update: (Should he be in the villain list now?)
->>91030425
+Sandatsu Artfag (Freedom and Awakening)
+>>91035194
+Student Vigilante Artfag
+>>91040871
 
-New Pro Hero:
-Yosuke Shirai HN The Lustrous Hero, Wavelength
->>91032513
-
->In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
-https://rentry.org/i8rd9
+Writefag:
+The Most Complex Piece Anon Has Ever Written? (3-B)
+https://rentry.org/at8vz
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -892,7 +893,7 @@ https://rentry.org/b9ge4v
 https://rentry.org/h5izt6
 >Renaissance (Desolator, Luccione, Mauler):
 https://rentry.org/rfyv4
->A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca)
+>A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca, Marrow)
 https://rentry.org/6t4giv
 >Faith Kang in: The VIP Box (ft. Anthony Chang)
 https://rentry.org/4ezcv
@@ -941,7 +942,9 @@ https://rentry.org/bwr7m5
 >Friends 3 (Capture Cloth, Android)
 https://rentry.org/mcagp
 >In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
-https://rentry.org/i8rd9
+>https://rentry.org/i8rd9
+The Most Complex Piece Anon Has Ever Written? (3-B)
+https://rentry.org/at8vz
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

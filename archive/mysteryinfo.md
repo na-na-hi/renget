@@ -1,1 +1,1 @@
-I am aware but I have been puking for 3 hours straight and have been generally unwell all day.
+Still sick.

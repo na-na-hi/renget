@@ -65,7 +65,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Foraging | Tier **ɪ** (+1) | 1/3  | ▮▯▯
+Training for Attribute: Foraging | Tier **ɪ** (+1) | 2/3  | ▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

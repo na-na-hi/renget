@@ -18,10 +18,8 @@ v casual abt the sport so :3
 ```
 ***
 ``` python
-▹ pll sex ed dynasty gossip girl 13rw
-the witcher moonknight the handmaiden 
-bottoms black swan spiderman twilight 
-harry potter dystopian trilogies +more
-▹ one piece hxh kny death note madomagi
-banana fish yoi tawog adventure time etc
+♪ ldr mitski sza melanie pinkpantheress
+yeat ken carson hxd gng carti travis scott 
+dsavage brent faiyaz frank ocean the nbhd 
+the internet deftones the smiths weezer etc
 ```

@@ -38,6 +38,7 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
 [AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Karla](https://files.catbox.moe/nv4rwd.png)|[Karla](https://files.catbox.moe/nv4rwd.png) [MV]
+[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
@@ -60,7 +61,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
-[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||

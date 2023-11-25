@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Geran night attack on Kiev (25th November 2023)
+https://files.catbox.moe/0gp9q0.mp4
 >UA negotiator talks about how deal with Russia was finalised back in 2022
 https://files.catbox.moe/lfmiqb.mp4
 >UAF offensive in the Orekhov region THD

@@ -5,6 +5,8 @@
 -> Main <-
 -> https://rentry.org/SmileyTatsu <-
 
+---
+
 ## Uh?
 Rentry to list authors that perform decently in the latest NAI image generation model.
 Images sponsored by Tatsumaki and Fubuki.
@@ -17,13 +19,15 @@ Most of the artists were tested with different prompts to find an optimal result
 	All generations were generated with a x2 strength {{TAG}}. (I don't know if it is exactly x2, but I can't think of a better way to explain it now).
 
 ## How to use
-The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
+The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== or =={{%ARTIST% (style)}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
 
 It is also possible to "combine" styles between two or three artists, I leave this to your experimentation as it would be impossible to test and organize each one individually.
 
 ## Glossary
 Easy way to go from one point in the list to another.
 [TOC3]
+
+---
 
 ### [Doppel (Bonnypir)](https://danbooru.donmai.us/posts?tags=doppel_(bonnypir))
 It's not 100% true to the original style, but it's one of my favorite results even though you need a little bit of trickery to get good results.

@@ -21,8 +21,8 @@
 - - -
 ####⠀-> Donations keep me motivated: <-
 
--> ![hm****e](https://files.catbox.moe/gfn76x.png) ![fa****rn](https://files.catbox.moe/qg3hgt.png) ![bo****ge](https://files.catbox.moe/2ue7oh.png)<-
--> Number of Special Kobolds: **3** <-
+-> ![hm****e 10$](https://files.catbox.moe/gfn76x.png) ![fa****rn](https://files.catbox.moe/qg3hgt.png) ![bo****ge](https://files.catbox.moe/2ue7oh.png) ![su****le](https://files.catbox.moe/rg694z.png) ![ka****ki](https://files.catbox.moe/rg694z.png)<-
+-> Number of Special Kobolds: **5** <-
 -> *Art by me. "..." - in progress* <-
 
 -> Boosty: https://boosty.to/xmlk/donate <-
@@ -30,7 +30,7 @@
 -> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
 -> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-
 
--> Write your nickname with the donation so I can name your kobold (for >10$ tips). <-
+-> Write your nickname with the donation so I can name your kobold (for >12$ tips). <-
 
 #
 
