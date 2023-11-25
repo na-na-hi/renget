@@ -82,7 +82,7 @@ Item Name | Description
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

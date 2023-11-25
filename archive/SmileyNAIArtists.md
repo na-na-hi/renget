@@ -90,3 +90,7 @@ It tries to imitate the 2D/3D style of the artist in a curious but successful wa
 I love this style and the model knows how to handle it quite well.... it didn't take me long to get good generations.
 [NSFW Generations](https://files.catbox.moe/n5161b.png)
 ![ratatatat74](https://files.catbox.moe/b4p42y.png)
+
+### [40hara](https://danbooru.donmai.us/posts?tags=40hara)
+Nice style that the model has no difficulty in recreating.
+![40hara](https://files.catbox.moe/w97miw.png)

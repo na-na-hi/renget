@@ -1546,6 +1546,12 @@ Proud/Beast Costume
 
 	V2 (now 20% less cursed): https://pixeldrain.com/u/vCJujfze
 
+# PC-98 - EasyFluff (Style)
+>pc98 is the trigger word
+>Then like I said, turn it up to 1.3-1.5 to get some of the effects.
+
+	https://pixeldrain.com/u/Yjjmc8kB
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

@@ -33,6 +33,7 @@ videos:
 ## Stage 4 semi auto
 videos:
 [Vash](https://www.youtube.com/watch?v=9Gv56b7mmcQ)
+[Eruru](https://youtu.be/vJNUqMpxwvE)
 
 ### Boss 1
 [B1 Magic 54m - 0 manual inputs](https://www.youtube.com/watch?v=dCRSyxsR1QM)

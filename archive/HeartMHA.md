@@ -1,6 +1,8 @@
 ![kyun](https://static.zerochan.net/Kokonose.%22Konoha%22.Haruka.full.1984109.jpg)
 >Name
 Katsumi Hachizaki
+>Hero Name
+High Tension Hero - Heartbreak
 >Career
 Hero Student 
 >Type

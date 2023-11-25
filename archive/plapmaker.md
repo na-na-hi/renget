@@ -31,6 +31,8 @@ Bots | Description
 ![Thicc Krieger Guardsman](https://files.catbox.moe/ygy2cz.png) | **Kriegerin** - Private Grossmilcher is a soldier deployed with the Death Korps of Krieg Imperial Guard regiment alongside your regiment. Get to know her, and suck on her big fat titties. -> https://www.chub.ai/characters/Anonymous/kriegerin-ef1d8c9e ->
 |
 ![Genderbent Crossdresser](https://files.catbox.moe/1uxdjt.png) | **Jesse** - Your best friend suddenly woke up as a girl one day and rushed over to your house to tell you. It's kinda odd he already had women's clothes ready to go, though... -> https://www.chub.ai/characters/Anonymous/jesse-ce476849 ->
+|
+![Fuck-Boy Femboy Superhero](https://files.catbox.moe/oss40b.png) | **Fuck-Boy** - The local femboy superhero! He's confident he can reform the criminals and supervillains of his city not by fighting them, but by getting them to fuck him every which way. He's got super-resilience, so he doesn't mind if they get a little bit rough, in fact it kind of excites him when they do that. -> https://www.chub.ai/characters/Anonymous/fuck-boy-5578af9a ->
 
 ###Fun JB
 Insert this as an Author's Note, set its depth to 1
