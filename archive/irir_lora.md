@@ -503,9 +503,15 @@ Resolution | Image | Description
 
 ---
 
-## ReLoRA
+## なんちゃってReLoRA
+!!! warning 注意！！
+	ここでのReLoRAは本来のものとは異なり、sd-scriptsで手法を真似しただけなのでご了承を。
+
+本来のReLoRAは情報が少なすぎてやり方がわからん。
+
 ReLoRAとは、LoRAを利用してウェイトをファインチューンや事前学習をするもの。
 つまり、一般向けのグラボで二次絵SDXLとかNSFW特化モデルが作れる。
+
 
 手順は以下の通り。
 1.LoRAで学習する
@@ -526,7 +532,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 学習モデルは秘伝のタレ(非公開モデル)。
 
 学習設定:
-`SD1.5, Dim:128, Alpha:24, 解像度:768, バッチサイズ:5, オプティマイザ:Adamw8bit, LRスケジューラ:constant, C3Lier(LoCon), cache_latents, gradient_checkpointing`
+`SD1.5, Dim:128, Alpha:24, 解像度:768, バッチサイズ:5, オプティマイザ:Adamw8bit, LRスケジューラ:constant、constant_with_wamupまたはcosine_with_restart, C3Lier(LoCon), cache_latents, gradient_checkpointing`
 
 学習中...	記事は後日更新予定
 

@@ -32,15 +32,30 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Website](https://www.jgshe.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/AuroraLiveVR)
 
+- BlueJump EN (JP & KR)
+	- [Twitter](https://twitter.com/bluejump_EN)
+	- [Website](https://www.bluejump.net/)
+
 - bondEN
 	- [Twitter](https://twitter.com/bondliver_en)
 	- [Website](https://bond-live.com/en/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Bond_EN)
 
+- Cyberlive/Aetheria (Defunct)
+	- [Cyberlive Twitter](https://twitter.com/cyberlivecorp)
+	- [Aetheria Twitter](https://twitter.com/aetheriapro)
+	- [Cyberlive Website](https://www.cyberlivecorp.com/) (Defunct)
+	- [Aetheria Website](https://www.aetheriaproject.com) (Defunct)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Aetheria)
+
 - EIEN Project
 	- [Twitter](https://twitter.com/EIENproj)
 	- [Website](http://eien-project.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/EIEN_Project)
+
+- Globie
+	- [Twitter](https://twitter.com/globiesocial)
+	- [Website](https://globie.net/)
 
 - HeavenRend
 	- [Twitter](https://twitter.com/heavenrendtv)
@@ -131,17 +146,24 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Facebook](https://www.facebook.com/people/Projek-Hikayat/100065035449385)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Projek_Hikayat)
 
+- Re:HOPE
+	- [Twitter](https://twitter.com/ReHOPE_Corp)
+
 - Realcorp
 	- [Twitter](https://twitter.com/RealCorpTV)
 	- [Website](https://www.realcorp.tv/)
 
-- Shirayuri Productions
+- Shirayuri Productions (Defunct)
 	- [Twitter](https://twitter.com/ShirayuriPro)
-	- [Website](https://www.shirayuripro.com/)
+	- [Website](https://www.shirayuripro.com/) (Defunct)
 
-- Star☆Ring
+- Specialite
+	- [Twitter](https://twitter.com/Specialite_EN)
+	- [Website](https://reality-studios.inc/en/)
+
+- Star☆Ring (Defunct)
 	- [Twitter](https://twitter.com/StarRing_Vpro)
-	- [Website](https://www.starring.co.jp/)
+	- [Website](https://www.starring.co.jp/) (Defunct)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Star%E2%98%86Ring)
 
 - Tomopulse (Defunct)

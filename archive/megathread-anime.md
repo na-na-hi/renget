@@ -145,6 +145,10 @@
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
 - [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
+### ▶️ [Anitaku](https://anitaku.to/)
+- Because it is so simple, all you have to do is choose an episode and begin viewing.
+- [URL Safety Results](https://www.urlvoid.com/scan/anitaku.to/)
+
 ### 🐐 [AniWatch](https://aniwatch.to/) / [2](https://aniwatch.nz/) / [3](https://aniwatch.se/)
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
@@ -160,10 +164,6 @@
 ### ▶️ [Enime](https://enime.moe/)
 - A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
 - [URL Safety Results](https://www.urlvoid.com/scan/enime.moe/)
-
-### ▶️ [Gogoanime](https://gogoanime.gr/)
-- Because it is so simple, all you have to do is choose an episode and begin viewing.
-- [URL Safety Results](https://www.urlvoid.com/scan/gogoanime.gr/)
 
 ### ▶️ [Kaido](https://kaido.to/)
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.
