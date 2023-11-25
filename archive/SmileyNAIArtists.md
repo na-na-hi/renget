@@ -94,3 +94,11 @@ I love this style and the model knows how to handle it quite well.... it didn't 
 ### [40hara](https://danbooru.donmai.us/posts?tags=40hara)
 Nice style that the model has no difficulty in recreating.
 ![40hara](https://files.catbox.moe/w97miw.png)
+
+### [usa37107692](https://danbooru.donmai.us/posts?tags=usa37107692)
+Pretty unique style, the model can understand it well but usually has a few problems with the hands, but I'm surprised how well it works lol.
+![usa37107692](https://files.catbox.moe/4w50u7.png)
+
+### [bee_(deadflow)](https://danbooru.donmai.us/posts?tags=bee_(deadflow))
+I did not specify any outfit in the prompt and these were the results. Enjoy.
+![bee_(deadflow)](https://files.catbox.moe/rtr7f3.png)

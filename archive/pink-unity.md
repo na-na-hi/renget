@@ -146,6 +146,34 @@ Some examples include but are not limited to:
 *Deals Casino* (JP): https://www.youtube.com/@dealscasino
 *Toma* (EN): https://www.twitch.tv/toma
 *Feria S. Roserilette* (JP): https://www.youtube.com/@user-we3cd4ii8q
+*Nemesis* (EN): https://www.youtube.com/@NemesisXDFP
+*Kamiya Neco* (JP): https://www.youtube.com/@necokami3
+*Yume Kuzukawa* (EN): https://www.twitch.tv/yumekuzukawa
+*Tsumuka Aisha* (JP): https://www.youtube.com/@tsumukaaisha
+*Gabu Rieru of Aogiri High School* (JP): https://www.youtube.com/@rieru0830
+*Camila* (EN): https://www.twitch.tv/camila
+*Rioriodayo* (EN): https://www.twitch.tv/rioriodayo
+*Senba Crow* (JP): https://www.youtube.com/@senba_crow
+*Ichinoha Ribbon* (JP): https://www.youtube.com/@IchinohaRibbon
+*Iroha at /pink/ for the joshus. Sirayuki Iroha* (JP): https://www.youtube.com/@irohach.168
+*Yumemakura Yuu* (JP): https://www.youtube.com/@yuuyuuVTuber
+*Hiiro Kuma* (JP): https://www.youtube.com/@Hiiro_Kuma
+*Amora Lumina of Eien* (EN): https://www.youtube.com/@AmoraLumina
+*Amase Momo* (JP): https://www.youtube.com/@amasemomo
+*Rulia Hoshina* (JP): https://www.youtube.com/@ruliahoshinach.7607
+*Anko Kisaki from 774* (JP): https://www.youtube.com/@Anko_Kisaki
+*Felicia Lulufleur* (JP): https://www.youtube.com/@FeliciaLulufleur
+*Himemiya Reinya* (JP): https://www.youtube.com/@reinya_nya
+*Ariru* (EN): https://www.twitch.tv/ariru_
+*Amahane Hina* (JP): https://www.youtube.com/@hinach.7782
+*Yuna (or Yuki?) of Duo Leveling. Another pink/blue twin pair* (EN): https://www.youtube.com/@DuoLeveling
+*Bun-mii* (EN): https://www.twitch.tv/bun_mii
+*Meicha* (EN): https://www.twitch.tv/meicha
+*Clay More* (JP): https://www.youtube.com/@C_More_oo
+*Sakuraba Neria* (JP): https://www.youtube.com/@sakurabaneria9410
+*Akarun* (JP): https://www.youtube.com/@Akarunch
+*Nineteen* (JP): https://www.twitch.tv/ninete_en
+*Minya September* (JP): https://www.twitch.tv/minyaseptember
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -157,6 +185,11 @@ Some examples include but are not limited to:
 *Aure Miya* (ID): https://www.youtube.com/@YoRIAureMiyach
 *Yukkin* (JP): https://www.youtube.com/@ykn0911v
 *Hikari Hira* (JP): https://www.youtube.com/@Hikari_Hira
+*Sato Ramune* (JP): https://www.twitch.tv/310ramune
+*Klouvette* (EN): https://www.twitch.tv/klouvette
+*Riria Hikari* (JP): https://www.youtube.com/@RiriaHikari
+*CeciHime* (EN): https://www.twitch.tv/cecihimevt
+*Hinano Ui* (JP): https://www.youtube.com/@HinanoUi
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
@@ -190,6 +223,7 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Kisaka Toriama* (EN): https://www.twitch.tv/kisakatoriama
 *Punkalopi* (EN): https://www.youtube.com/@Punkalopi
 *Hinano Tachibana* (JP): https://www.youtube.com/@hinanotachiba7
+*Amaki Pururu* (JP): https://www.twitch.tv/amakipururu
 
 ###Pink Accented:
 Defined below.
@@ -198,6 +232,8 @@ Defined below.
 *Lia* (EN): https://www.youtube.com/@RinkouAshelia
 *Fukumaki Yuka* (JP): https://www.youtube.com/@yfukumaki_ch
 *Ayunda Risu* (ID): https://www.youtube.com/@AyundaRisu
+*Suko* (EN): https://www.twitch.tv/suko
+*Otokagi Mero* (JP): https://www.youtube.com/@otokagimero
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

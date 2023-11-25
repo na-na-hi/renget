@@ -9,7 +9,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 9 | **Experience to Next Level:** 90/50
 **Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 1,275₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1,215₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -77,14 +77,14 @@ Item Name | Description
 1. N/A | 
 2. Blast Seed | Explodes on contact for 10 true damage.
 3. Heal Seed | 	Cures all status conditions.
-4. N/A	| 
+4. Oran Leaf | Heals the user for 3HP. Can stack to 3.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Oran Leaf |  Heals the user for 3HP. Can stack to 3.
+1.  Royal Gummi|  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 2. Royal Gummi | Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

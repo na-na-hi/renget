@@ -7,8 +7,8 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
 **Level:** 8 | **Experience to Next Level:** 55/80
-**Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 730₽ [100₽ in Bank] | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
+**Pokécoin:** 50₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -75,7 +75,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
 2. Stun Seed | Causes *Petrified* on consumption.
-3. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

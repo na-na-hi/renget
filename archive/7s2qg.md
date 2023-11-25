@@ -102,5 +102,7 @@ The clique crash at Hailey's penthouse to talk about the exam, bitch about their
 Faith hard-carries the channel but breaks off about halfway through to reveal that she's dating Chris
 ==The much-deserved retail therapy video (LA edition)==
 The clique goes shopping in LA and reconnects briefly with some old acquaintances over the weekend
+==🎃🎃🎃HALLOWEEN LFG🎃🎃🎃==
+The clique shows off their Halloween costumes
 ### DUBIOUSLY CANON SECTION
 https://rentry.org/rw4wzd

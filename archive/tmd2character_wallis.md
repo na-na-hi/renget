@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 9 | **Experience to Next Level:** 35/90
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 535₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 495₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -91,8 +91,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
 1. Empty | Empty inventory slot.
-2. Empty | Empty inventory slot.
-3. Empty | Empty inventory slot.
+2. Brown Gummi (Half) | Gives +5? IQ points to Ground-Types. Gives +3? to other types. Tastes like sweet root vegetable.
+3. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
 4. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 
 **STORAGE (2 slots)**

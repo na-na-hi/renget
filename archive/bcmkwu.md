@@ -1,4 +1,13 @@
 ▶NEW CLIPS
+>UA negotiator talks about how deal with Russia was finalised back in 2022
+https://files.catbox.moe/lfmiqb.mp4
+>UAF offensive in the Orekhov region THD
+https://files.catbox.moe/obyb4r.m4v
+https://files.catbox.moe/pqc0vo.mp4
+>lancets wreck 2 SPGs, tank, howitzer, and Rapira
+https://files.catbox.moe/r9d33k.mp4
+>Russians detonate 500kg bomb in tunnel dug under hohols in Avdeevka
+https://files.catbox.moe/qeqnjx.mp4
 >Russia bringing out its own cluster munitions have begun to inflict heavy losses among Ukrainian infantry
 https://files.catbox.moe/ura1ui.mp4
 https://files.catbox.moe/kiawss.mp4

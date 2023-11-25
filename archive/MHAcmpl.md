@@ -134,6 +134,7 @@ Kurogane Keisho HN Yoshizumi: https://desuarchive.org/tg/thread/89500858/#895070
 Atsushi Yamamoto: https://desuarchive.org/tg/thread/90944069/#90954666
 Atsushi Nabiki/HN: Shelong: https://desuarchive.org/tg/post/91008430/
 Tosuke Jinai HN Compound: https://desuarchive.org/tg/post/91016593/
+Yosuke Shirai HN The Lustrous Hero, Wavelength: https://desuarchive.org/tg/post/91032513/
 
 ### Villains
 >Night Parade
@@ -181,6 +182,7 @@ Dr Isaac Ivanov VN "Drekus"/Project D-44: https://archive.4plebs.org/tg/post/886
 Miriam Slowburn Hakase VN "Prolonging Evil: Big Hat" (NPC): https://archive.4plebs.org/tg/post/88736960
 Ume Hattori VN "Broad Daylight": https://archive.4plebs.org/tg/post/88926931
 John Doe VN "Green Door": https://archive.4plebs.org/tg/post/89018740
+Sandatsu Build Update: https://desuarchive.org/tg/post/91030425/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -921,6 +923,8 @@ Musical Exploration (Nekiro): https://pastebin.com/9TGVy46L
 Dare Prompt Fill (The Clique): https://rentry.org/c84dp
 Rosethorn Date (Ryu-Kishi, Rosethorn): https://rentry.org/bwr7m5
 Friends 3 (Capture Cloth, Android): https://rentry.org/mcagp
+In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn): https://rentry.org/i8rd9
+U-A, Class 3-B: https://rentry.org/at8vz
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

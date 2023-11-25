@@ -92,14 +92,14 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----:
 Attribute: Gravitational Potential | **ᴍᴀx** (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature. 
-Attribute: Artifice | Tier **ɪ** (+1) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
+Attribute: Artifice | Tier **ɪ** (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
 Battle Attribute: ??? | - | - 
 
 ***
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Artifice | Tier **ɪɪ** | 2/3 | ▮▮▯
+Training for Attribute: Artifice | Tier **ɪɪɪ** | 1/3 | ▮▯▯
 Training for Attribute: Foraging | Tier **ɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯

@@ -526,7 +526,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 学習モデルは秘伝のタレ(非公開モデル)。
 
 学習設定:
-`SD1.x,Dim:128,Alpha:24,解像度:768,バッチサイズ:5,オプティマイザ:Adamw8bit,LRスケジューラ:constant,C3Lier`
+`SD1.5, Dim:128, Alpha:24, 解像度:768, バッチサイズ:5, オプティマイザ:Adamw8bit, LRスケジューラ:constant, C3Lier(LoCon), cache_latents, gradient_checkpointing`
 
 学習中...	記事は後日更新予定
 
