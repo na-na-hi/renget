@@ -596,6 +596,11 @@ No.
 The best time to start was yesterday, the second best time to start is right now. This holds true for any bonsai game. 
 If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
 
+>How do you choose your student wife
+You don't choose her. She chooses you. 
+The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll just know when it happens.
+
+
 > I'm AP capped! What do I spend it on?
 You spend it on whatever campaign is currently running (the pink banner). If it's a dead week (e.g. only 2x scrimmages) it's:
 Hard missions > Normal missions > Commissions.

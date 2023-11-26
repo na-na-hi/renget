@@ -62,6 +62,7 @@ The other list can be found here: [List of Secondary NPCs](https://rentry.co/tmd
 Name | Origin | Pokémon | Occupation | Affiliation 
 :----: | :----: | :----: | :----: | :----:
 [Coiling Appetence, Scour Devour](https://rentry.co/tmd2character_scour) | Native | Ekans | Clan Elder | Clan Morion
+[Crystal Like Law](https://rentry.org/tmd2noble_crystallikelaw) | Native | Glimmora | Bishop | Ho'oha Priest
 [Elm Chopper, Fiftyfold Fatherer](https://rentry.co/tmd2character_woody) | Native | Haxorus | Clan Elder | Clan Almandine 
 [Ever Lifting](https://rentry.co/tmd2many_nobles_ever_lifting) | Native | Reuniclus | Bishop | Ho'oha Priest
 [Fourth Of H░░ Name](https://rentry.co/tmd2many_characters_fohn) | Native | Meowstic | Archivist | House Esper

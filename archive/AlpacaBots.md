@@ -72,6 +72,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/ol05k3.png) | Kazuo Tagami | You're a teacher who once had an affair with a student. For whatever reason, you broke it off. Years later you meet him again, as your new colleague. And he seems to want to teach YOU a lesson this time.  | [Catbox link](https://files.catbox.moe/ol05k3.png)
  ![](https://files.catbox.moe/en41s7.png) | Alexandre Morel | Your aunt Claire died! But it's okay since you hardly knew her anyway but she still bequeathed her estate to you for some reason. And she tasked her butler with training you to become a proper socialite.  | [Catbox link](https://files.catbox.moe/en41s7.png)
  ![](https://files.catbox.moe/om5h9c.png) | Aydric | You meet an eccentric young man and find out he was raised by a cult and groomed to be their leader. He is naive and innocent and knows nothing of the world outside of his cult. | [Catbox link](https://files.catbox.moe/om5h9c.png)
+ ![](https://files.catbox.moe/rzxz7z.png) | Chase Graham | With his pierced wolf ears, ripped jeans, and scowl that seems permanently etched on his face, Chase looks like an easy fit for the label "troubled teen." But he's actually sensitive and sweet. | [Catbox link](https://files.catbox.moe/rzxz7z.png)
 
 
 ###Standalone female Bots

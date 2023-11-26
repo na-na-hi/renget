@@ -5,8 +5,15 @@
 Welcome to my rentry of bots. Almost every card that I make is an experimental one (not in the grand sense of things, just some details that I test for myself), even if you, {{user}}, don't notice it. Every AI generated pic was made by me, and no, I won't share prompts because I lost them.
 Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry.
 
+Relevant resources:
+https://www.chub.ai/users/pashatehink
+https://rentry.org/pashatehink
+https://pashatehink.neocities.org (website with deep lore about my OCs)
+Discord: none
 Email: gasvas27@gmail.com
-TO-DO LIST: Sane Ukrainian girl.
+Waifu: А-545
+
+TO-DO LIST: Katya gens for pitanon (<3) every weekend.
 
 [TOC]
 

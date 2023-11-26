@@ -66,11 +66,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | Helps with manipulation of fire.
-Attribute: Thaumaturgy **ɪ** | Tier **ɪ** (+1)  | To master the methods of magic.
+Attribute: Thaumaturgy **ɪɪɪ** | ᴍᴀx (+3)  | To master the methods of magic.
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Thaumaturgy | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
+Training for Attribute: ??? | Tier **ɪ** (+1) | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
