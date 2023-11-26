@@ -14,10 +14,10 @@ My main characters in the Clover Guild are Team Brave (Booker the human-turned R
 
 ###Team Brave
 
+One of the founding teams of the Clover Guild, Team Brave consists of the shy human-turned-Ribombee Booker and his tomboyish partner Sneasel. Despite being opposites in almost every way, the two of them have completed many missions and gradually developed a deep affection for each other.
+
 -> ![Team Brave](https://cloverguild.com/booru/data/posts/789_4e27aecc792317f7.png) <-
 -> *Art by Ninetales-anon* <-
-
-One of the founding teams of the Clover Guild, Team Brave consists of the shy human-turned-Ribombee Booker and his tomboyish partner Sneasel. Despite being opposites in almost every way, the two of them have completed many missions and gradually developed a deep affection for each other.
 
 ####Booker
 
@@ -70,7 +70,7 @@ The Clover Guild inspired me to learn how to draw digitally with a mouse, and ge
 
 This is a list of all my stories. They’re listed by chronological order instead of release date, but each story’s publishing date is also provided. Although the guild project’s timeline is not particularly concrete, I tried organizing the stories in a way that made sense.
 
-Also note that I have a sort of anthology called “Booker’s Journal; or, My Time at Capim” (https://rentry.org/RibombeeJournal), which was my attempt at making one single page to hold a bunch of slice-of-life stories. I may cancel that idea and split the included stories up into individual pages, but for now, I'll keep it as is. The individual stories are included individually in this list.
+Also note that I have a sort of anthology called “Booker’s Journal; or, My Time at Capim” (https://rentry.org/RibombeeJournal), which was my attempt at making one single page to hold a bunch of slice-of-life stories. I may cancel that idea and split the included stories up into individual pages, but for now, I'll keep it as is. The journal stories are included individually in this list.
 
 ###A Ribombee’s Arrival
 - https://rentry.org/RibombeeArrival
@@ -152,7 +152,7 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Genre/Themes**: Drama?
 - **Published**: 4-14-23
 
-###Thunder Dome
+###Enter the Federation — Thunder Dome
 - https://rentry.org/RibombeeThunder
 - **Synopsis**: My entry to the “Enter the Federation” project. Booker, Sneasel, Charm, and Natu team up to complete the Federation’s test. They delve deep into their most dangerous dungeon yet, battling powerful enemies and their own anxieties.
 - **Word Count**: ~15,300
@@ -240,6 +240,6 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Word Count**: ~37,800 total
 - **Featured Characters**: Phanpy, Torchic, Totodile, Cyndaquil, Cooper, Testa, Booker, Sneasel, Chespin, Wooper, Lliam, Charm, Jimmy, Ross, Toge, Kaiji, Kris, Dewott
 - **Timeline Placement**: Shortly after “Reunion”
-- **Required Reading**: “Reunion” (https://rentry.org/72x5v); in addition, note that this story contains spoilers for Pokemon Mystery Dungeon: Rescue Team
+- **Required Reading**: “Reunion” (https://rentry.org/72x5v) ... in addition, note that this story contains spoilers for Pokemon Mystery Dungeon: Rescue Team
 - **Genre/Themes**: Action, Drama, Pathos, Mystery
 - **Published**: 6-11-23 (Part 1)

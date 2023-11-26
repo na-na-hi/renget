@@ -603,6 +603,8 @@ Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://desuarchive.
 mirror devil no comment stamp: https://desuarchive.org/tg/thread/90977623/#90984861
 doodle of the boys: https://desuarchive.org/tg/thread/90987083/#90988176
 Hifumi 'Fired Up' Stamp: https://desuarchive.org/tg/post/91008290/
+Sandatsu Artfag (Freedom and Awakening): https://desuarchive.org/tg/post/91035194/
+Student Vigilante Artfag: https://desuarchive.org/tg/post/91040871/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -924,7 +926,7 @@ Dare Prompt Fill (The Clique): https://rentry.org/c84dp
 Rosethorn Date (Ryu-Kishi, Rosethorn): https://rentry.org/bwr7m5
 Friends 3 (Capture Cloth, Android): https://rentry.org/mcagp
 In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn): https://rentry.org/i8rd9
-U-A, Class 3-B: https://rentry.org/at8vz
+The Most Complex Piece Anon Has Ever Written? (3-B) : https://rentry.org/at8vz
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

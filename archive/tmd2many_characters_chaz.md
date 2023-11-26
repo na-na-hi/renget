@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 8 | **Experience to Next Level:** 75/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 320₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 170₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -65,14 +65,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Speed | Tier 1 (+1) | 1/3 | ▮▯▯
+Attribute: Speed | Tier 2 (+1) | 2/3 | ▮▮▯
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed | Tier **2** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Speed | Tier **3** | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**
@@ -101,6 +101,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+Cosmetic Item | White Scarf | A fabric to be shaped and died to the user's liking
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

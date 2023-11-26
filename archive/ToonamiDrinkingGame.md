@@ -17,14 +17,24 @@ Take a shot every time:
     -Steve Blum Fast Food/theme restaurant
 -Someone mentions how one of the drinking games is fatal
 
-My Adventures with Superman
--Clark spills spaghetti
--Clark swaps outfits
--Lois does something to inspire the lust of tomboyfags
--Lois acts unreasonably
--Jimmy talks about a conspiracy
--A legacy villain is reintroduced
--Superman goes supermansaiyan
+Demon slayer
+-Taisho secret
+-Nezuko is cute 
+-Nezuko kicks something
+-Tomioka is ugly and gay
+-Tanjiro says Nezuko 
+-Tanjiro references he has a family
+-Tanjiro or Inosuke does a backflip
+-Tanjiro cries
+-Inosuke tries to fight one of his allies
+-Inosuke gets a name wrong
+-Zenitsu hits on a girl
+-Zenitsu screams
+-Demons are assholes
+-someone breaks a bone
+-A demon slayer gets their head popped or otherwise dies
+-potato art appears
+Hard mode: -someone uses a breath
 
 Doctor Soap
 -they invent something new
@@ -98,18 +108,3 @@ Naruto Shippuden:
 -A hokage is shown or referenced
 -A ninja walks on water, up a tree, or side of a mountain
 -Someone does/uses something overly impractical
-
-My Hero Academia S6
--Deku cries
--Deku hurts himself using his power
--All Might transforms
--Plus Ultra is yelled
--Someone says why they want to be a hero
--Frog girl says ribbit
--Bakugo acts like a bitch
--This little purple fuck says something perverted
--Deku spergs out over anything
--You recognize what a character is a reference to
--There's costume talk
--OH MY SEVEN QUIRKS
--Doctor Robotnik appears
