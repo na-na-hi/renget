@@ -70,7 +70,9 @@ William "Billy" Dustice HN "King Billy": https://archive.4plebs.org/tg/post/8819
 Johanna Hilt HN "The Gauntlet Hero, Weiss Schwarz": https://archive.4plebs.org/tg/post/88195437
 Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
 Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
+Norman Smith HN Whatabout: https://desuarchive.org/tg/post/91046080/
 The Rest: https://rentry.org/vx255
+
 >>U-A, Class 3-B
 Yunikon, the Brilliant Hero (U.A. Teacher): https://desuarchive.org/tg/post/90998494/
 Meadow Harðardóttir: https://desuarchive.org/tg/post/90992377/
@@ -183,6 +185,9 @@ Miriam Slowburn Hakase VN "Prolonging Evil: Big Hat" (NPC): https://archive.4ple
 Ume Hattori VN "Broad Daylight": https://archive.4plebs.org/tg/post/88926931
 John Doe VN "Green Door": https://archive.4plebs.org/tg/post/89018740
 Sandatsu Build Update: https://desuarchive.org/tg/post/91030425/
+"Blank": https://desuarchive.org/tg/post/91050726/
+Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
+"Mammogar": https://desuarchive.org/tg/post/91051410/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -194,6 +199,7 @@ Emilia Busujima: https://desuarchive.org/tg/thread/89347009/#89349231
 Detective Risa Date https://desuarchive.org/tg/thread/90646041/#90657164
 Holden Deckard https://archive.4plebs.org/tg/thread/90912459/#q90913931
 Brightly: https://desuarchive.org/tg/post/91006966/
+Dr. Seto Kawata: https://desuarchive.org/tg/post/91051432/
 
 ### Holding Area for Non-Canon Builds/Shitpost Builds/Illustrative Builds
 Shinji Kanashimi: https://archive.4plebs.org/tg/post/88219042 (further information at https://controlc.com/5525da8b)

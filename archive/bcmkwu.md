@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>The now-captured Avdeevka industrial zone
+https://files.catbox.moe/lm0k9s.mp4
+>Ukrainians retreating into the southern residential area of avdeevka
+https://files.catbox.moe/4wd2ct.mp4
 >Geran night attack on Kiev (25th November 2023)
 https://files.catbox.moe/0gp9q0.mp4
 >UA negotiator talks about how deal with Russia was finalised back in 2022

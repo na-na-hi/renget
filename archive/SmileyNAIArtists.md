@@ -19,7 +19,7 @@ Most of the artists were tested with different prompts to find an optimal result
 	All generations were generated with a x2 strength {{TAG}}. (I don't know if it is exactly x2, but I can't think of a better way to explain it now).
 
 ## How to use
-The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== or =={{%ARTIST% (style)}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
+The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== or =={{%ARTIST% (style)}}== or =={{Artist: %ARTIST%}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
 
 It is also possible to "combine" styles between two or three artists, I leave this to your experimentation as it would be impossible to test and organize each one individually.
 
@@ -105,4 +105,36 @@ Pretty unique style, the model can understand it well but usually has a few prob
 
 ### [bee_(deadflow)](https://danbooru.donmai.us/posts?tags=bee_(deadflow))
 I did not specify any outfit in the prompt and these were the results. Enjoy.
+I recommend using the tags ==bee, animal, wings, tail== to avoid failed generations as the word bee often confuses NAI.
 ![bee_(deadflow)](https://files.catbox.moe/rtr7f3.png)
+
+### [dev_dev(0614)](https://danbooru.donmai.us/posts?tags=dev_(dev0614))
+Probably one of the styles that gave me the least trouble overall. Recommended :DumbSmile:
+![dev_(dev0614)](https://files.catbox.moe/mp9m8l.png)
+
+### [riyo_(lyomsnpmp)](https://danbooru.donmai.us/posts?tags=riyo_(lyomsnpmp))
+Silly artist style. The model has some problems imitating his style while giving decent results.
+In case you want the chibi style, I recommend adding these tags to the promp and generating several times ==chibi, absurdres==, add ==1girl== to the prompt if your generation is of single characters.
+![riyo_(lyomsnpmp)](https://files.catbox.moe/22fhng.png)
+
+### [Konpeto](https://danbooru.donmai.us/posts?tags=Konpeto)
+The model suffers a bit with this style, especially with the hands, but overall it handles well. As a bonus, I love how NAI always goes horny mode when watching Fubuki.
+![Konpeto 1](https://files.catbox.moe/8t5v7x.png)
+
+### [alexi_(tits!)](https://danbooru.donmai.us/posts?tags=alexi_(tits!))
+Style focused on large breasts, it took a little to get Tatsumaki's anatomy decently, Fubuki on the other hand... well.
+![alexi_(tits!)](https://files.catbox.moe/bqbk11.png)
+
+### [pepe_(jonasan)](https://danbooru.donmai.us/posts?tags=pepe_(jonasan))
+Artist style of milfs here. I expected it to be more difficult to use, but it's probably the easiest of the whole list so far. Also new personal favorite.
+I took a little more time with the second generation of Fubuki to... test the capabilities of the model.
+![pepe_(jonasan)](https://files.catbox.moe/hsk29m.png)
+
+### [tianliang_duohe_fangdongye](https://danbooru.donmai.us/posts?tags=tianliang_duohe_fangdongye)
+Another favorite style to add to the list... easy to use but seems to be more focused on small bodies and can become watermarked in unspecific generations.
+If your character has a chest that is not small or flat, add the tag ==medium breast== or ==big breast== to get the results you expect.
+![tianliang_duohe_fangdongye](https://files.catbox.moe/hag7p3.png)
+
+### [shikuta_maru](https://danbooru.donmai.us/posts?tags=shikuta_maru)
+This style is one of the best that gets the anatomy of both Fubuki and Tatsumaki just right. How is this being a day of adding favorites to my list.
+ ![shikuta_maru](https://files.catbox.moe/c9y5yx.png)

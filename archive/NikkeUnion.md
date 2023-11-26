@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 23/11/23: Warm Urine Edition**
+**Last updated: 26/11/23: Warm Urine Edition**
 
 !!!info Time until Union Raid S11: https://timee.io/20231124T0300?tl=NikkeUnionRaid11
 
@@ -20,12 +20,12 @@
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | CLOSED |                                 |
-| 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
+| 404TH    | ==**4033**==  | 6     | 31/32   | YUKIKAZE | PERMISSION |                                 |
 | P愛ZURI   | ==**4983**==  | 6     | 31/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ | ==**20186**== | 1    | 10/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ | ==**20186**== | 1    | 12/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -41,7 +41,7 @@
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 6     | 32/32   | NEPBOI  | PERMISSION |                            |
 | KUNNYHUB | ==**29940**== | 3 | 32/32 | CUNNYGOD | PERMISSION | Casual/newcuties welcome |
-| WANGERS | ==**33386**== | 1 | 5/20 | SYLFEYN | PERMISSION | Casual/newcuties welcome |
+| WANGERS | ==**33386**== | 1 | 11/20 | SYLFEYN | PERMISSION | Casual/newcuties welcome |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

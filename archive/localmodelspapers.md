@@ -82,6 +82,7 @@
 09/2023|[Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797)
 10/2023|[Large Language Models as Analogical Reasoners](https://arxiv.org/abs/2310.01714)
 10/2023|[Controlled Decoding from Language Models](https://arxiv.org/abs/2310.17022)
+10/2023|[A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)

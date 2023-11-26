@@ -448,14 +448,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Sandatsu Artfag (Freedom and Awakening)
->>91035194
-Student Vigilante Artfag
->>91040871
+>Norman Smith HN Whatabout
+>>91046080
+>Dr. Seto Kawata
+>>91051432
+>"Blank"
+>>91050726
+>Kōkishin Yuuki VN Shoggoth
+>>91050987
+>"Mammogar"
+>>91051410
 
-Writefag:
-The Most Complex Piece Anon Has Ever Written? (3-B)
-https://rentry.org/at8vz
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -579,7 +582,7 @@ Page 3
 https://rentry.org/eesb8
 >Itō Sukemochi HN Warpden
 >>90973632
->Li Yinzhen, Jiangshi
+>Li Yinzhen HN Jiangshi
 >>90978093
 >Katsumi Hachizaki:
 https://rentry.org/HeartMHA
@@ -588,6 +591,8 @@ https://rentry.org/HeartMHA
 >U.A. Teachers:
 >Yunikon, the Brilliant Hero
 >>90998494
+>Dr. Seto Kawata
+>>91051432
 
 >Shiketsu Teachers:
 > Anzu Nishima HN Karaburan
@@ -722,6 +727,12 @@ Page 5
 >>88926931
 >JOHN DOE VN GREEN DOOR
 >>89018740
+>"Blank"
+>>91050726
+>Kōkishin Yuuki VN Shoggoth
+>>91050987
+>"Mammogar"
+>>91051410
 
 >Horrific 5:
 >Samuel Wilson VN Desolator

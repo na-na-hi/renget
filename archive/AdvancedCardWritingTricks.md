@@ -749,6 +749,8 @@ I hope that others will be inspired to write ambitious cards like that.
 
 (More will be written in this section when I am more experienced with Impossible To Touch’s techniques and confident enough to explain them simply.)
 
+[The Rite of Belwick](https://chub.ai/characters/asterisms/the-rite-of-belwick-f402d86c) is another one you might want to try and study, everything I've written about Impossible To Touch applies, but I would say it is a lot easier to understand its internal workings.
+
 ───── ⋆⋅☆⋅⋆ ─────
 
 [**Jump to table of contents ⤴**](https://rentry.org/AdvancedCardWritingTricks#advanced-card-writing-tricks)

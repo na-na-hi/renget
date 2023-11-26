@@ -21,7 +21,7 @@
 - - -
 ####⠀-> Donations keep me motivated: <-
 
--> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/rg694z.png)<-
+-> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png)<-
 -> Number of Special Kobolds: **5** <-
 -> *Art by me. "..." - in progress* <-
 

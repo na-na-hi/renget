@@ -1,4 +1,5 @@
 ![](https://files.catbox.moe/pr0u6d.png)
+***
 #Argalia's Bots
 ***
 
@@ -6,12 +7,10 @@
 ->You can find my chub here: https://www.chub.ai/users/argalia<-
 ->If you want to contact me for any reason: blue.reverberation@proton.me<-
 
-While I make my bots with malepov in mind, they can be used with either gender PC. I write in third person & present tense; if you prefer second person go ahead and edit the starting message, I really don't care. I generate all card art myself. Catbox links are always provided, check chub to read defs before downloading if you're interested in that sort of thing.
-Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. Or skip straight to the sex, that works too if it's your cup of tea.
+I write in third person & present tense; if you prefer first or second person go ahead and edit the starting message. Pretty much all of my bots are SFW, with potential for slow burn to turn NSFW. Or skip straight to the sex; that works too if it's your cup of tea.
+I generate all card/background art myself unless otherwise noted.
+Catbox links are always provided, check chub to read defs before downloading if you're interested in that sort of thing.
 Logs of any kind are welcome, as are requests. The latter I will most certainly be slow in finishing, so keep that in mind.
-
-~~I fine-tune for GPT4 personally, but I make sure to test public releases on Turbo & Claude.~~
-**Update:** I test mainly on Turbo now, if it works there it works everywhere.
 
 [TOC2]
 ***
@@ -20,7 +19,7 @@ Logs of any kind are welcome, as are requests. The latter I will most certainly 
 Mages are born usually one in every ~10,000 humans (the parents can be any mix) and humans aren't able to become mages through training. Some humans utilize technological magic that's fueled by the soul gems of deceased mages, although it's not widely popular. As you can guess, there's always been a conflict between humans and mages.
 The land is split into five regions: central, northern, southern, western, and eastern. Mages from each land usually have a certain personality and if they've lived in one land for an extended period of time they'll start to show characteristics from that region.
 
-While cards work very well on their own, I recommend taking a look at the new lorebook.
+While cards work very well on their own, I recommend taking a look at the lorebook.
 Lorebook   |  [Chub](https://www.chub.ai/lorebooks/argalia/Syngrapha)  [Catbox](https://files.catbox.moe/kk3vcj.json) 
 
 Percival Thorne | Description
@@ -30,18 +29,18 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/Percival) . [Catbox](ht
 
 Gawain Winters | Description
 :----:  | :----: 
-![Gawain](https://files.catbox.moe/ta07kv.png)   | Gawain, also known as "Star Forger", is a gallant knight whose infectious enthusiasm and unwavering dedication have earned him both admiration and respect. Driven by a passion for chivalry and boundless curiosity, he eagerly tackles every challenge and adventure that crosses his path.
+![Gawain](https://files.catbox.moe/ta07kv.png)   | Gawain, also known as "Star Forger", is a gallant knight whose infectious enthusiasm and dedication have earned him both admiration and respect. Driven by a passion for chivalry, he eagerly tackles every challenge and adventure that crosses his path.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/Gawain) . [Catbox](https://files.catbox.moe/hq14vz.png)
 
 Merlin | Description
 :----:  | :----: 
 ![Merlin](https://files.catbox.moe/bjci8d.png)   | Merlin presents himself as a gentle apothecary, ever ready to lend a helping hand in his quiet town. Combining simple magic with herbal remedies, he wins the hearts of the townsfolk. However, beneath his innocent facade, one can't help but wonder... is there more to him than meets the eye?
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Merlin) . [Catbox](https://files.catbox.moe/qhoife.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Merlin) . [Catbox](https://files.catbox.moe/qhoife.png) . [Background](https://files.catbox.moe/6l0s5z.png)
 
 Yves | Description
 :----:  | :----: 
 ![Yves](https://files.catbox.moe/boqwo7.png)   | Yves, an ancient eastern mage, dedicates her life to killing the Great Mage to claim his title. Her polite speech masks her beast-like behavior, but the illusion is always ruined when she starts a fight immediately. Oh yeah, she also likes to eat coal.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Yves) . [Catbox](https://files.catbox.moe/l75xp2.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Yves) . [Catbox](https://files.catbox.moe/l75xp2.png) . [Background](https://files.catbox.moe/jxok0u.png)
 
 Blanc and Noir | Description
 :----:  | :----: 
@@ -55,22 +54,28 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Cat
 
 ***
 
+##Coming Soon
+Placeholder. Something big goes here.
+
+***
+
+
 ##Modern Japan
 Tokyo (mostly), but with a film noir occult stylization to it. Unfortunately, as of right now only Ichitora has a lorebook attached, but I have plans to rework Mikoto into the overall lore better and add a lorebook to Ryuunosuke too.
 
 Mikoto Amami | Description
 :----:  | :----: 
-![Mikoto](https://files.catbox.moe/x6t5th.png)   | Mikoto is an up-and-coming actor from a small theater company, who firmly believes success in the entertainment industry is meant for him. As his director, the nature of your relationship with him is yours to determine. Lead him to stardom, corrupt him, or... perhaps you're interested in something else entirely?
-Links   |  [Chub](https://www.chub.ai/characters/argalia/Mikoto) . [Catbox](https://files.catbox.moe/kgyvom.png)
+![Mikoto](https://files.catbox.moe/x6t5th.png)   | Mikoto is an up-and-coming actor from a small theater company, who firmly believes success in the entertainment industry is meant for him. As his director, the nature of your relationship with him is yours to determine. Lead him to stardom, corrupt him, or...perhaps you're interested in something else entirely?
+Links   |  [Chub](https://www.chub.ai/characters/argalia/Mikoto) . [Catbox](https://files.catbox.moe/kgyvom.png) . [Background](https://files.catbox.moe/fur3mk.png)
 
 Ryunosuke Sasaki | Description
 :----:  | :----: 
-![Ryunosuke](https://files.catbox.moe/idxwqo.png)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?"
+![Ryunosuke](https://files.catbox.moe/idxwqo.png)   | A small white note rests on your desk. It ends with an elegant signature, the words reading "███, you were a bit sloppy tonight. I trust you'll entertain me better next time?" (Detective PoV only for now. I may come back to this.)
 Links   |  [Chub](https://www.chub.ai/characters/argalia/ryunosuke-sasaki-b2d8183e) . [Catbox](https://files.catbox.moe/jxh57r.png)
 
 Ichitora Hoshino | Description
 :----:  | :----: 
-![Ichitora](https://files.catbox.moe/zj9qsq.png)   | Ichitora is a homicide detective with exceptional skills for his young age. Explore the world, solve crimes, or be a criminal yourself with an extended lorebook for the setting. V2 card that features six different intros for an immersive experience.
+![Ichitora](https://files.catbox.moe/zj9qsq.png)   | Ichitora is a homicide detective with exceptional skills for his young age. Explore the world, solve crimes, or be a criminal yourself with an extended lorebook for the setting. V2 card that features six different intros.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2cc) . [Catbox](https://files.catbox.moe/0oxqsm.png)
 
 ***
@@ -92,9 +97,19 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/cyril-kravitz-a49fda13)
 
 ##Changelog
 
+27.11 - Added Various Backgrounds + Added Fanart Section
 31.10 - Added Cyril Kravtiz (new)
-22.10 - Added Percival background, fixed up a few things
+22.10 - Added Percival Background, fixed up a few things
 03.10 - Added Li Xiaoyu (new)
-01.10 - (finally) added a changelog and reformatted some stuff
+01.10 - (finally) added a Changelog and reformatted some stuff
+
+***
+
+##Fanart
+
+>A Percival I requested from [Lunare](https://www.chub.ai/users/lunare). Thank you so much!
+![Percival Lunare](https://files.catbox.moe/ngunli.png)
+
+***
 
 ![](https://files.catbox.moe/ui3ses.png)
