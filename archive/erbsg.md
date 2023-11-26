@@ -11,7 +11,7 @@ https://playeternalreturn.com/posts/news/1582 (1.9 Patch Notes)
 https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
-https://www.youtube.com/watch?v=J8z5CavPCYY
+https://www.youtube.com/watch?v=KqDLrvrl_p0
 
 \>[New Character] Leni - Eternal Return
 https://www.youtube.com/watch?v=57kSs-F-wRY
@@ -63,4 +63,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>454240589
+\>\>455213704

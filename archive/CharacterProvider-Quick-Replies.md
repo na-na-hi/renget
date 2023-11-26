@@ -62,7 +62,7 @@ If you don't want any "indication" for the sent prompt injections in your messag
 ID | Button name | Custom message | Description
  | | | 
 1 | 🗪 Chat | 🗪 <Request: Provide only an answer from the character and nothing more. Exclude any narration in the style of a messenger chat within a quotation.> | Useful when you want to chat with the character in the middle of the story and get a fast reply. Turn off JB if the AI keeps writing a lot.
- |  |  **Examples:** "[...] What do you think about it?" / "Wanna hang out?" / Basically, just speak with your character. | 
+ |  |  **Examples (Your possible message to to press the button with):** "[...] What do you think about it?" / "Wanna hang out?" / Basically, just speak with your character. | 
 2 | 👁 Look Around | 👁 Looking around... <Request: Pause. Provide only surrounding descriptions as the narrator and nothing more. Is there something interesting?> | Provides information about surroundings on command.
  |  |  **Examples:** I stand in the middle of the library. / I hear a strange noise from behind... / I feel a tap on my shoulder... | 
 3 | ⊹ Look At | ⊹ Looking at... <Request: Pause. Provide only the visual descriptions starting with 'You see...' as the narrator and nothing more. If it's a text, read it. If it's an object, explain its details.> | Describes an object you are looking at.

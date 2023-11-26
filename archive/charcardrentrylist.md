@@ -18,41 +18,41 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Cuteanon](https://rentry.org/cuteanon) | Misc |[Shy Guy](https://files.catbox.moe/jn7sxp.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Chase](https://files.catbox.moe/rzxz7z.png)|
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png), [Tsuneko](https://files.catbox.moe/pd60kf.png), [Lyphys](https://files.catbox.moe/igtfvy.png), [Stacy Rosewood](https://files.catbox.moe/080qcw.png)|
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Julien](https://files.catbox.moe/gqpvdk.png)|
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png), [Kai'Sa](https://files.catbox.moe/76ye9j.png), [Cara](https://files.catbox.moe/cr8ww3.png), [Bimu](https://files.catbox.moe/37dvca.png)|
-[JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png), [Woolly SoftStatic](https://files.catbox.moe/67lby6.png)|[Mishka Blacklilly](https://files.catbox.moe/0zuhhi.png)
-[Planewalker](https://rentry.org/planewalker) | Misc |[BD-564](https://files.catbox.moe/0mmg7t.png), [Chiharu](https://files.catbox.moe/txocjp.png), [Bearnard](https://files.catbox.moe/0jhjyv.png), [Aisling](https://files.catbox.moe/tbbezj.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png), [Luci](https://files.catbox.moe/wur1wk.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png), [Delilah](https://files.catbox.moe/lwn36i.png), [Minoko Mineta](https://files.catbox.moe/popdae.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Carnage](https://files.catbox.moe/m1b53c.png), [Gretchen](https://files.catbox.moe/f6ovbx.png), [Günther](https://files.catbox.moe/aym65q.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Karinn Nine](https://files.catbox.moe/4j707y.png), [Snow White - Lonesome Pioneer](https://files.catbox.moe/gqpxbt.png), [Lt. Erika Bogue](https://files.catbox.moe/ifyfu8.png), [Snow White - Innocent Days](https://files.catbox.moe/jbc8zh.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[The Dollhouse](https://files.catbox.moe/6y48kt.png), [Akari-chan](https://files.catbox.moe/60jvda.png), [Reina](https://files.catbox.moe/heprgj.png), [SCP-8963](https://files.catbox.moe/ec9ert.png)|
-[Pashatehink](https://rentry.org/pashatehink) | Misc |[Verr'Kori](https://files.catbox.moe/tjt51t.png), [Haruko](https://files.catbox.moe/z6z94c.png), [Corporate Mundo](https://files.catbox.moe/pqipvs.png)|
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Nawfa](https://files.catbox.moe/4yx7x0.png)|[Nawfa](https://files.catbox.moe/4yx7x0.png) [MV]
-[Hitogami](https://rentry.org/imtookening/) | Hags (Young) |[Iliara](https://files.catbox.moe/pr9n2x.png)|
-[Johncock](https://rentry.org/Johncock) | Misc |[Leo](https://files.catbox.moe/nbsgct.png), [Diana](https://files.catbox.moe/70bnbf.png), [Poppy and Tristana](https://files.catbox.moe/k4uegu.png), [Vyrexa](https://files.catbox.moe/mdtsqb.png)|
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc |[HDoom ](https://files.catbox.moe/kya9h1.png), [Nikko](https://files.catbox.moe/xi2pad.png), [Ilulu](https://files.catbox.moe/vd1izx.png), [Miyako and Hana](https://files.catbox.moe/1vfvat.png)|
-[Muricanpie](https://rentry.co/mpcs) | Misc |[Sap Hands (M)](https://files.catbox.moe/c5utxw.png), [Sap Hands (F)](https://files.catbox.moe/enwn38.png), [Carise](https://files.catbox.moe/0b0gvs.png)|
-[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Impossible To Touch](https://files.catbox.moe/5txti0.png), [Blatta](https://files.catbox.moe/u63glw.png)|
-[KingValntula](https://rentry.org/Kingvalntula) | Furry |[Gelidus](https://files.catbox.moe/gglrr4.png)|
-[AVAKSon](https://rentry.co/avakson_library) | Misc |[Dan Heng](https://files.catbox.moe/1d2wgt.png)|[Tamamo-no-Mae](https://files.catbox.moe/y2ofoq.png)
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc |[Karla](https://files.catbox.moe/nv4rwd.png)|[Karla](https://files.catbox.moe/nv4rwd.png) [MV]
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png)|
+[JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[BD-564](https://files.catbox.moe/0mmg7t.png)|
+[Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png)|
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Carnage](https://files.catbox.moe/m1b53c.png)|
+[GGR89](https://rentry.org/ggr89) | Misc |[Karinn Nine](https://files.catbox.moe/4j707y.png)|
+[Argalia](https://rentry.org/gayanon) | Malebots ||
+[Genoo](https://rentry.org/295se) | Sizeplay ||
+[Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
+[Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
+[Johncock](https://rentry.org/Johncock) | Misc ||
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
+[Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
-[Tipzanon](https://rentry.co/tipzanon) | Misc ||[Kairie](https://files.catbox.moe/nssn5d.png)
+[KnickKnack](https://rentry.org/knickknackkered) | Misc ||
+[Tipzanon](https://rentry.co/tipzanon) | Misc ||
+[KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
+[AVAKSon](https://rentry.co/avakson_library) | Misc ||
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||
-[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Nono](https://rentry.org/NonoRoom) | Misc ||
-[Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Kirbish34](https://rentry.org/kirbish34) | Cunny/Misc ||
 [Nicenshady](https://rentry.org/nicenshady) | Misc ||
 [Hedona](https://rentry.org/hedona) | Misc ||

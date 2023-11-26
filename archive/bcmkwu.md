@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>The 70th Guards Motorized Rifle Regiment 42 holds the defense of the front section entrusted to it together with neighboring units of the Russian Army
+https://files.catbox.moe/smz87i.mp4
 >The now-captured Avdeevka industrial zone
 https://files.catbox.moe/lm0k9s.mp4
 >Ukrainians retreating into the southern residential area of avdeevka

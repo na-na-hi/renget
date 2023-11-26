@@ -1,5 +1,5 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/f71mii.jpg)  <-
+-> ![](https://files.catbox.moe/q1y5fc.jpg)  <-
 
 ##Changelog:
 ==2023.10.31-30==
@@ -191,7 +191,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Ex-members:**
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
-**Tomori Kusunoki 楠木ともり**==[2]==|Tomoriru,Tomo-chan|Dec. 22, 1999|[Official WEB](https://kusunokitomori.com) / [Agency WEB](https://www.sma.co.jp/s/sma/artist/441) / [Fan WEB](https://smavoice.jp/s/sma03/artist/45) / [TW](https://twitter.com/tomori_kusunoki) / [YT](https://www.youtube.com/c/tomorikusunoki)|[📷](https://www.sma.co.jp/images/15/63c/dfd8d6807d1a9af267e39131cda3d.jpg)
+[**Tomori Kusunoki 楠木ともり**](https://youtu.be/GU4Hw-xbBNo) ==[2]==|Tomoriru,Tomo-chan|Dec. 22, 1999|[Official WEB](https://kusunokitomori.com) / [Agency WEB](https://www.sma.co.jp/s/sma/artist/441) / [Fan WEB](https://smavoice.jp/s/sma03/artist/45) / [TW](https://twitter.com/tomori_kusunoki) / [YT](https://www.youtube.com/c/tomorikusunoki)|[📷](https://www.sma.co.jp/images/15/63c/dfd8d6807d1a9af267e39131cda3d.jpg)
 
 **Note:**
 - ==[1]== Chiemi Tanaka's birth year is not revealed to the public (despite Google analytics erroneously suggesting that she was born in 1997), however allegedly leaked academic documents from her junior high school track and field records reveal that she was indeed born in 1994. [source from 5ch thread](https://fate.5ch.net/test/read.cgi/lovelive/1541687063/?v=pc) [leaked docs](http://web.archive.org/web/20131009130358/http://plaza3.dws.ne.jp/~aklahori127/k-19shizukani2.htm)
@@ -217,18 +217,20 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Notes:**
 - ==[1]==Nako Misaki's birth year is undisclosed. In a radio interview however she has stated that she is "around the same age" as Nagisa Aoyama, leading people to speculate that she is born around 1998-1999. [src1](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [src2](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2)[src3](https://febri.jp/topics/llss_1/2/). The Chinese moegirl wiki gives an birth year of 1999. [src3](https://mzh.moegirl.org.cn/%E5%B2%AC%E5%A5%88%E5%AD%90)
 - ==[2]== [Unofficial twitter source for other ages](https://twitter.com/Reiwa_0609/status/1524572216981024768?s=20)
-- ~~==[3]== [source for liyuu original name](https://archive.is/lQN3N) (highlighted post)~~ Source is dubious.
+- ~~==[3]== [source for liyuu original name](https://archive.is/lQN3N) (highlighted post)~~
 - ==[4]== [Kuma-chan is too based to have her own SNS](https://media.tenor.com/yAeCZn8nv6UAAAAd/ookuma-wakana-wakana-ookuma.gif)
 
 ###💮⛅ Hasunosora Seiyuu ⛅💮###
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
-**Nozomi Nirei 楡井 希実** |Nonsuke|May 11, XXXX|[Agency WEB](https://holypeak.com/talent/voice-actor-women/楡井-希実/) / [TW](https://twitter.com/NozomiNirei)|[📷](https://holypeak.com/wp-content/uploads/2022/03/%E6%A5%A1%E4%BA%95.jpg)
+**Nozomi Nirei 楡井 希実** |Nonsuke|May 11, 2001 ==[1]==|[Agency WEB](https://holypeak.com/talent/voice-actor-women/楡井-希実/) / [TW](https://twitter.com/NozomiNirei)|[📷](https://holypeak.com/wp-content/uploads/2022/03/%E6%A5%A1%E4%BA%95.jpg)
 **Kokona Nonaka 野中 ここな** |Kokona|Jan. 28, 2006|[Agency WEB](https://www.amuse.co.jp/artist/A8878/index.html) / [TW](https://twitter.com/cocona_nonaka) /  [==Former SG Page==](https://archive.is/5ohJ3)|[📷](https://www.amuse.co.jp/artist/355b638d2ae5c62d8102fe825078833e7f88e717.jpg)
 **Nina Hanamiya 花宮 初奈** |Ui-chan|October 24 ,XXXX|[Agency WEB](https://www.aoni.co.jp/search/hanamiya-niina.html) / [TW](https://twitter.com/hanamiya_nina)|[📷](https://www.aoni.co.jp/search/items/hanamiya-nina.jpg)
 **Kotoko Sasaki 佐々木 琴子** |Kocchan|Aug. 28, 1998|[Agency WEB](http://stylecube.jp/talents/kotoko/index.html) / [TW](https://twitter.com/ssk_ktk828) / [IG](https://www.instagram.com/sasaki_kotoko828/) / [==Former 乃木坂46 Page==](https://archive.is/EopEN )|[📷](https://stylecube.jp/_src/1441/img20230301111234534964.jpg)
-**Kanna Kan 菅 叶和**|Kankan|November 19, XXXX|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷](https://haikyo.co.jp/photo/13093.jpg?date(file(/photo/13093.jpg))?)
+**Kanna Kan 菅 叶和**|Kankan|November 19, 2001|[Agency WEB](https://haikyo.co.jp/profile/profile.php?ActorID=13093) / [TW](https://twitter.com/kannkannna)|[📷](https://haikyo.co.jp/photo/13093.jpg?date(file(/photo/13093.jpg))?)
 **Kona Tsukine 月音 こな**|Konachi|Aug 20, 2003|[Agency WEB](https://apollobay.jp/talent/月音こな/) / [TW](https://twitter.com/KonaTsukine) / [TK](https://tiktok.com/@tuknekona)|[📷](https://apollobay.jp/wp-content/uploads/tukine1-scaled.jpg)
+
+-==[1]==  [source from older profile information](https://fate.5ch.net/test/read.cgi/lovelive/1684150029/l50?v=pc)
 
 ###🙌🎆 Other/Supporting Seiyuu 🎆 / 🙌###
 
@@ -375,7 +377,7 @@ Teku Teku Aqours
 Hakodate - https://nyaa.si/view/1046487
 
 **Aqours Club**
-Kotatsu Special - https://nyaa.si/view/1123830
+ **Kotatsu Special - https://nyaa.si/view/1123830**
 2021 - https://nyaa.si/view/1404666
 2020 - https://nyaa.si/view/1305015
 2019 - https://nyaa.si/view/1179494
@@ -404,8 +406,9 @@ Kotatsu Special - https://nyaa.si/view/1123830
 2019-02-17 CYaRon @ Osaka - https://nyaa.si/view/1119993
 2019-03-01 Unit Battle Finals @ Tokyo - https://nyaa.si/view/1123881
 2019-03-03 Unit Battle Finals @ Tokyo - https://nyaa.si/view/1123882
-Unofficial compilation - https://nyaa.si/view/1612786
- 
+Compliation - [x265 1080p](https://nyaa.si/view/1708403)
+Compilation #2 - [link (mixed formats)](https://nyaa.si/view/1612786)
+
 **Aqours ONLINE LoveLive! Blu-ray Memorial BOX**
 https://nyaa.si/view/1425656
 
@@ -552,7 +555,8 @@ Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGIC
 ###Hasunosora
 ####CONCERTS/LIVES/VODs
 Hasunosora 1st Live Tour ~RUN! CAN! FUN!~
-Fukuoka D1D2 - [raw 1080p](https://nyaa.si/view/1733097) ![](https://files.catbox.moe/c95yx7.gif)
+Fukuoka D1D2 - [raw 1080p](https://nyaa.si/view/1733097) 
+Tokyo D1D2 - [raw 1080p](https://nyaa.si/view/1745487) ![](https://files.catbox.moe/c95yx7.gif)
 
 ####EVENTS/PERFORMANCES/MISC 
 OPENING LIVE EVENT～Bloom the Dream～ : [1080p](https://nyaa.si/view/1702233)

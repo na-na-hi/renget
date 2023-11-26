@@ -36,6 +36,16 @@ videos:
 [Eruru](https://youtu.be/vJNUqMpxwvE)
 
 ### Boss 1
+[B1 Magic 57m - 0 manual inputs](https://www.youtube.com/watch?v=DyljEG788A0)
+![](https://pomf2.lain.la/f/ulweps2.png)
+Tested with:
+Summer Yui 3★ Lv289 R30 FULL, EX 5/5/5
+Summer Neneka 3★ Lv289 R30 FULL, EX 5/5/5
+Lyrael 4★ Lv289 R30 FULL, EX 5/5/5
+Princess Kyaru 5★ R30 FULL, EX 5/5/5
+Student Kyaru 5★ R30 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/026ef697.png)
+
 [B1 Magic 56m - 0 manual inputs](https://www.youtube.com/watch?v=k6EAs60STXY)
 ![](https://pomf2.lain.la/f/sxdwa70c.png)
 Tested with:
@@ -161,7 +171,7 @@ W.Djeeta　☆5 RANK30 Full　EX 5-5-5
 Homare　☆5 RANK30 Full　EX 5-5-5
 Ass.Maho (Explorer)　☆5 RANK31 Full UE1 Lv290 EX 5-5-5
 O.Yuki　☆5 RANK30 Full　UE1 Lv240　EX 5-5-5 (Works with 30 Full, UE1 Lvl290)
-![B4 Magic 56-58m TL](https://pomf2.lain.la/f/pgp7der9.png)
+![B4 Magic 56-58m TL](https://pomf2.lain.la/f/9cag4a8r.png)
 
 ### Boss 5
 

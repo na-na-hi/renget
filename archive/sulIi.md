@@ -7,7 +7,7 @@ tbz bts riize enha p1h shinee nct & more
 
 ``` python
 ⚽︎ arsenal & realmadrid #LOCKEDIN
-enjoyer of psg barca lfc juve etc
+enjoyer of psg utd barca lfc juve etc
 v casual abt the sport so :3
 ```
 ***

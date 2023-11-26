@@ -81,25 +81,14 @@ Tetsuya Kazune | - | - | -
 
 ## -> Prism Project <-
 !!! info Available Loras without the need of updates and have been tested.
-	Miyoshino Shiki, Nagare Sara, Amami Ami, Oumiya Emma, Tsubame Kou, Nana Asteria
+	Miyoshino Shiki, Nagare Sara, Amami Ami, Oumiya Emma, Tsubame Kou, Nana Asteria, Hoshifuri Iku, Tokimori Aoi, Ibuki Meno, Kamishiro Rita, Araka Luto, Suzune Nia, Rikudou Yura, Kamizuki Naki, Non Anon, Ushio Sumi, Shikami Lana, Mako Sameshima V2 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Hoshifuri Iku | X | - | X
-Tokimori Aoi | X | - | X
-Ibuki Meno | X | - | X
-Kamishiro Rita | X | - | X
-Araka Luto | X | - | X
-Suzune Nia | X | - | X
-Pengin Pina | X | - | X
-Rikudou Yura | X | - | X
-Kamizuki Naki | X | - | X
-Anon Non | X | - | X
-Ushio Sumi | X | - | X
-Shikami Lana | - | - | -
+Pengin Pina | X | X | -
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
-Mako Sameshima | X | - | X
+Mako Sameshima V1 | - | - | -
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -122,20 +111,18 @@ Michimata Batoya | - | - | -
 
 ## -> 774inc <-
 !!! info Available Loras without the need of updates and have been tested.
-	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra,
+	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra, Tsukinoki Tirol, Kazami Kuku,
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Inaba Haneru | - | - | -
 Souya Ichika | - | - | -
 Hinokuma Ran | - | - | -
-Kazami Kuku | X | - | X
 Yunohara Izumi | - | - | -
 Seshima Rui | - | - | -
 Hira Hikari | - | - | -
 Oura Rukako | - | - | -
 Konan Mia | - | - | -
-Tsukinoki Tirol | X | - | X
 Inari Kuromu | - | - | -
 Umori Hinako | - | - | -
 Momono Yurari | - | - | -
@@ -159,13 +146,10 @@ Hinata Mashu | - | - | -
 
 ## -> EIEN <-
 !!! info Available Loras without the need of updates and have been tested.
-	Riifu Evergreen, Kilia Kurayami (current), Skye Shinryu (v1)
+	Riifu Evergreen, Kilia Kurayami, Skye Shinryu
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Kiki Lockheart | X | X | X | V2 Testing
-Kilia Kurayami | X | - | X | V2 Testing (Current lora is fine but might as well you know?)
-Skye Shinryu | X | - | X | V2 Testing 
 Zumi Dokumi | - | - | -
 Mirri Saffire | - | - | -
 Blaise Shinryu | - | - | -
@@ -174,12 +158,11 @@ Nanimo Navi | - | - | -
 
 ## -> VSPO <-
 !!! info Available Loras without the need of updates and have been tested.
-	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto
+	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto, Shiranami Ramune
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Yumeno Akari | - | - | -
-Shiranami Ramune | X | - | X
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -240,7 +223,7 @@ Nagase Yuka | - | - | -
 
 ## -> Brave Group <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Otodama Tamako
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -251,7 +234,6 @@ Kazami Ryo | - | - | -
 Hiragi Ayaka | - | - | -
 Asakura Hinata | - | - | -
 Kazami Yuika | - | - | -
-Otodama Tamako | X | - | X
 Ishikari Akari | - | - | -
 Oshiro Mashiro | - | - | -
 Yamaguro Nekuro | - | - | -
@@ -501,13 +483,12 @@ Nika Linh Lan | - | - | -
 
 ## -> Vee + VeeMusic <-
 !!! info Available Loras without the need of updates and have been tested.
-	Anshinin Misa, Chikuwa, 
+	Anshinin Misa, Chikuwa, Syusetu Kohaku
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Otokado Ruki | - | - | -
 Kujo Ringo | - | - | -
-Syusetu Kohaku | X | - | X
 Tulsi-Nightmare Madness IV | X | X | -
 Hinahoshi Airu | - | - | -
 Audrey Mina | - | - | -
@@ -573,11 +554,10 @@ Misma Ryzing | - | - | -
 
 ## -> OWOzu <-
 !!! info Available Loras without the need of updates and have been tested.
-	RakkunVT (Raakkun), KarmaVT (KarmaVT_), Chessi (Chessivt), Emi Kukis (Emikukis), SiriVT (sirivtuber)
+	RakkunVT (Raakkun), KarmaVT (KarmaVT_), Chessi (Chessivt), Emi Kukis (Emikukis), SiriVT (sirivtuber), Hetto (Hettozu)
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Hetto (Hettozu) | - | - | -
 Nott (Nott_VT) | - | - | -
 Shuby (Shubyuwu) | - | - | -
 Kendo Murft (kendomurft) | - | - | -
@@ -604,7 +584,7 @@ Hoshikuzu Orion | - | - | - | Might be Impossible
 
 ## -> VirtuaReal <-
 !!! info Available Loras without the need of updates and have been tested.
-	Nana7mi Nana, Miki, Mahiru, Hoshimi, Shaun, Yua, Chiyuu, Joi, Rhea, Koxia, Sui, Lingyuan Yousa, Karon, Azusa, Kero, Bing Tang, Qiang - 徵呛呛, Remi, Reine, Yukie,
+	Nana7mi Nana, Miki, Mahiru, Hoshimi, Shaun, Yua, Chiyuu, Joi, Rhea, Koxia, Sui, Lingyuan Yousa, Karon, Azusa, Kero, Bing Tang, Qiang - 徵呛呛, Remi, Reine, Yukie, Kiyuu, 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -651,7 +631,6 @@ Uka | - | - | -
 Keke | - | - | -
 Hunger | - | - | -
 Yog | - | - | -
-Kiyuu | X | - | X
 Karisa | - | - | -
 Sybil | - | - | -
 Girimi | - | - | -
@@ -753,7 +732,7 @@ Lavi F. Arseille | - | - | -
 
 ## -> Amber Glow <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Xiulan Long
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -766,7 +745,6 @@ Malcom Bell | - | - | -
 Shura | - | - | -
 Terumi Koizumi | - | - | -
 Ash Ekrixi | - | - | -
-Xiulan Long | X | - | X
 Nunki | - | - | -
 Abigail Marina | - | - | -
 Vallini Laudo | - | - | -
@@ -991,7 +969,7 @@ Anya A. Marshall | - | - | -
 
 ## -> Pixela Project <-
 !!! info Available Loras without the need of updates and have been tested.
-	N/A
+	Umino Ciala, 
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -1010,7 +988,6 @@ Superpretty TAKOPERO | - | - | -
 Meraki Keimii | - | - | -
 Akemi Arlin | - | - | -
 Nezumi Elze | - | - | -
-Umino Ciala | X | - | X
 Mycara Melony | - | - | -
 Cerafine Mikael | - | - | -
 Ardalita Lilibelle | - | - | -
@@ -1429,12 +1406,11 @@ Lamuril Ragna X' | - | - | -
 
 ## -> V-Dere <-
 !!! info Available Loras without the need of updates and have been tested.
-	Elia Stellaria
+	Elia Stellaria, Mozumi Pichi
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Airi Viridis | - | - | -
-Mozumi Pichi | X | X | X
 Kirispica | - | - | -
 
 ## -> NHOT BOT <-
@@ -1470,10 +1446,3 @@ Keriki Mara | X | X | - | -
 Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
 Nanobites | X | X | - | -
-Towa Rui | X | - | X | -
-Ace Taffy | X | - | X | -
-Kirsche Verstahl | X | - | X | -
-Eira Woolcott | X | - | X | -
-Tomoe Umari | X | - | X | -
-MariMari | X | - | X | -
-Babalu Osi | X | - | X | -

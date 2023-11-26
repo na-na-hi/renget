@@ -1,6 +1,6 @@
 ## Minimalistic Custom CSS
 *Current version: 1.4 | (21.11.2023)*
-*No backgrounds only.*
+*No backgrounds only. Author's note window will show through AI settings due to opacity.*
 - - -
 ####
 #### Result:
@@ -23,7 +23,7 @@
 13 - Sidebars have hover opacity.
 
 ##### **Code**
-!!! Copypaste this text from the code block below into `User Settings` -> `Custom CSS` and press `Reload Interface`
+!!! Copypaste this text from the code block below into `User Settings` -> `Custom CSS` and press `Reload Chat`
 ```css
 #left-nav-panel,#right-nav-panel{opacity:.5;transition:.1s linear;max-width:500px}#left-nav-panel:hover,#right-nav-panel:hover{opacity:1;transition:.1s linear}.mes_text p,.range-block{margin-bottom:15px}#chat,#left-nav-panel,#quickReplyBar,#right-nav-panel,#send_form,#top-bar{border:0!important}#left-nav-panel{margin-top:0!important}#send_form{padding-bottom:15px!important;padding-top:15px!important}#quickReplyBar{padding-bottom:10px!important}table{background-color:var(--black30a);border-style:none}tr:nth-child(2n){background-color:var(--grey10)}th{background-color:#282828}td,th{border:1px solid #323232!important;color:var(--grey70)}#right-nav-panel,#top-bar,.drawer-content{box-shadow:none!important;border-radius:0}::-webkit-scrollbar{width:14px}::-webkit-scrollbar-thumb{background-color:#232323!important;border-radius:0;box-shadow:none}#send_textarea{color:var(--SmartThemeEmColor)!important}::placeholder{color:var(--SmartThemeBodyColor)!important;text-align:left!important}body.big-avatars .avatar img{border-radius:7px}.avatar img,.hotswapAvatar img{box-shadow:none!important}#extensions_settings .inline-drawer-toggle.inline-drawer-header,#extensions_settings2 .inline-drawer-toggle.inline-drawer-header,#user-settings-block h4,h4{background-image:none!important}body{background-color:var(--SmartThemeBlurTintColor)}.mes_text p{line-height:160%;font-size:15px}.range-block-title{text-align:left}body.big-avatars .avatar{align-items:start}#ReverseProxyWarningMessage{display:none!important}hr{background-image:none;background-color:var(--SmartThemeBorderColor);margin:15px 0}
 ```
