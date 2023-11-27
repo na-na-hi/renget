@@ -94,7 +94,8 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 
 [[Booth]](https://kuroyuzu.booth.pm/items/5248746) [[Fantia]](https://fantia.jp/products/527894) : Original - Mitsuki Nozomi
 **Updated**
-[[Booth]](https://kuroyuzu.booth.pm/items/3452658) [[Fantia]](https://fantia.jp/products/206245) : Original - Haruyoshi Ruriri
+[[Booth]](https://kuroyuzu.booth.pm/items/4150536) [[Fantia]](https://fantia.jp/products/322724) : Original - Irivelda Belfond 1.05
+[[Booth]](https://kuroyuzu.booth.pm/items/3452658) [[Fantia]](https://fantia.jp/products/206245) : Original - Haruyoshi Ruriri 1.01
 ***
 -> **Kynokoru (キノコル)** <-
 -> [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44045.html) [[Iwara]](https://ecchi.iwara.tv/users/kynokoru) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99014900) [[Pixiv]](https://www.pixiv.net/en/users/542190) [[Twitter]](https://twitter.com/kynokoru) <-
@@ -218,6 +219,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yokechi (よけち)** <-
 -> [[Booth]](https://yokechiya.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/372247) [[Twitter]](https://twitter.com/yokechi02) <-
 
+[[Booth]](https://yokechiya.booth.pm/items/5285628) : Azur Lane - Owari -Gal- [[Bowlroll R18 Parts]](https://bowlroll.net/file/310176)
 [[Booth]](https://yokechiya.booth.pm/items/1852110) : Original - Saraka
 ***
 -> **Zy0n7** <-

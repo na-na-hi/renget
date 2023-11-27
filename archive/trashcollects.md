@@ -1552,6 +1552,13 @@ Proud/Beast Costume
 
 	https://pixeldrain.com/u/Yjjmc8kB
 
+# Aardman/Claymation (Style)
+>Aardman/general claymation style
+>Trigger is “aardstyle”
+>The “real” prompt isn’t a must, but it’s recommended. Turning the weight on the Lora to 1.2 and higher emphasizes the clay look but the eyes start to get a little funky.
+
+	https://files.catbox.moe/acy6ap.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

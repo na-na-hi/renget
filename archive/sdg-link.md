@@ -318,5 +318,5 @@ https://civitai.com/user/doombatz
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon (^_^) and other thread bakers - November 18th - https://pastebin.com/2CFqLXTR
-*(PWAnon, I really dig the chibi animations!)*
+Cut'n'paste for PWChefAnon and other thread bakers - November 18th - https://pastebin.com/2CFqLXTR
+*(PWAnon, gratz on the new kitten! ≽^•⩊•^≼)*

@@ -18,7 +18,7 @@ This is my tried and tested modular setup that can be combined with other prompt
 ***
 ## -> OpenAI Prompts <-
 #### ->  V2 - RODES (Role Objective Details Example Sense) <-
-->[![Presets](https://files.catbox.moe/4tv713.png)](https://files.catbox.moe/vbq3fs.json)<-
+->[![Presets](https://files.catbox.moe/4tv713.png)](https://files.catbox.moe/4airc3.json)<-
 
 ###### Main Prompt - System
 ``` 
@@ -35,7 +35,6 @@ Objective:
 Details:
 -  {{char}} must respond with dialogues, actions, and thoughts.
 -  USE onomatopoeia for grunts, growl, screams, moans, and other sounds. Use logic in discerning the right onomatopoeia to use for the current situation.
-	e.g. Mmm-ahh. Uggggghhhh!!. A-aahh.. Uh-uhh. Hngggh! Kyaaahh~!..
 -  UTILIZE all five senses to describe scenario within {{char}}'s dialogue. 
 -  All {{char}} dialog are enclosed by quote. Actions and thoughts are enclosed by asterisk. 
 -  This is a slow burn story. Take it slowly and avoid rushing for conclusions. 
@@ -122,7 +121,7 @@ REGEX: ` (\[META\b[^\]]*\])[^\[]*\[/META\] `
 ***
 ## -> Claude Prompts <-
 #### ->  V2 - RODES (Role Objective Details Example Sense) <-
-->[![Presets](https://files.catbox.moe/4tv713.png)](https://files.catbox.moe/vbq3fs.json)<-
+->[![Presets](https://files.catbox.moe/4tv713.png)](https://files.catbox.moe/4airc3.json)<-
 
 ###### Main Prompt - System
 ``` 
@@ -139,7 +138,6 @@ Objective:
 Details:
 -  {{char}} must respond with dialogues, actions, and thoughts.
 -  USE onomatopoeia for grunts, growl, screams, moans, and other sounds. Use logic in discerning the right onomatopoeia to use for the current situation.
-	e.g. Mmm-ahh. Uggggghhhh!!. A-aahh.. Uh-uhh. Hngggh! Kyaaahh~!..
 -  UTILIZE all five senses to describe scenario within {{char}}'s dialogue. 
 -  All {{char}} dialog are enclosed by quote. Actions and thoughts are enclosed by asterisk. 
 -  This is a slow burn story. Take it slowly and avoid rushing for conclusions. 

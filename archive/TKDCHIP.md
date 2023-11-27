@@ -584,3 +584,19 @@ https://files.catbox.moe/kqssyj.mp4
 https://files.catbox.moe/regphe.mp4
 >Hezbollah "We Are Coming":  (ADDED NOV 20th)
  https://files.catbox.moe/bx2dpk.mp4
+>HOUTHIS TAKING SHIP WITH HELO  (ADDED NOV 27th)
+https://files.catbox.moe/ngv681.mp4
+>Al-Qassam / Israeli Ceasefire Hostage Exchange  (ADDED NOV 27th)
+https://files.catbox.moe/qo6dwv.mp4
+>KIKES FIRE ON REFUGEES WALKING SOUTH  (ADDED NOV 27th)
+https://files.catbox.moe/1zs5vi.mp4
+>KIKE THROWS GRENADE INTO MOSQUE  (ADDED NOV 27th)
+https://files.catbox.moe/kqssyj.mp4
+>SCHOOL BOMBING AFTERMATH  (ADDED NOV 27th)
+files.catbox.moe/8yvbfa.mp4
+>OCT 7 KIKES FRIENDLY FIRE ON THEIR OWN CITIZENS  (ADDED NOV 27th)
+files.catbox.moe/skwk6k.mp4
+>Hostage release  (ADDED NOV 27th)
+files.catbox.moe/10to0t.mp4
+>idf getting ambushed by sniper and machine gun fire  (ADDED NOV 27th)
+https://files.catbox.moe/aidn2k.mp4
