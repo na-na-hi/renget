@@ -15,6 +15,7 @@ https://t.me/odesa (Odesa)
 https://t.me/hueviyherson (Kherson)
 https://t.me/eto_zp (Zaporizhzhia)
 https://t.me/dnipro (Dnipro)
+https://t.me/Crimeanwind (Crimea)
 https://t.me/V_Zelenskiy_official (self-explanatory)
 
 *GROUPS*

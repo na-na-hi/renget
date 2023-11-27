@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 8 | **Experience to Next Level:** 75/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 170₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 85₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -38,7 +38,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 ROCK SMASH | 4BP | 6AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Endure | 0BP | 4AP | ≥2 | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
-Focus Energy | - | 4 AP	| - | Normal | Status | The User's Crit Ratio is increased by 2.
+Fling | ØBP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; Damage varies. Effect varies.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -84,15 +84,15 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3. Bread | Food item.
-4. TM124 Fling | Teaches move Fling.
+3. Dense Rock | Does 2 true damage to a target, is lobbed.
+4. 
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Bread | Food item.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
@@ -102,6 +102,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 Cosmetic Item | White Scarf | A fabric to be shaped and died to the user's liking
+RP item | Shattered TM (TM Fling) | Taught the move Fling
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

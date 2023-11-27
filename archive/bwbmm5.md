@@ -168,6 +168,7 @@
 /skitzy/i;boards:trash;op:no
 /((?:>>\d(?:(?!>>\d)[^])*){4})(?=.*^\>$)/is;boards:trash;op:no;file:yes
 /she fucks shotas/i;boards:trash;op:no
+/(?=.*\d\n(| )smash)(?=.*\d\n(| )pass)/ims;boards:trash;op:no
 
 /hypersmegma/i;boards:trash;op:no
 /(c\wck|purity)f\wg/i;boards:trash;op:no

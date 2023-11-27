@@ -27,15 +27,16 @@ Botmaker | Category | New Bots | Updated Bots
 [Planewalker](https://rentry.org/planewalker) | Misc |[BD-564](https://files.catbox.moe/0mmg7t.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Carnage](https://files.catbox.moe/m1b53c.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Karinn Nine](https://files.catbox.moe/4j707y.png)|
-[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
+[Argalia](https://rentry.org/gayanon) | Malebots ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
+[Scrimbly](https://rentry.org/scrimb) | Misc ||
+[GGR89](https://rentry.org/ggr89) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
@@ -48,7 +49,6 @@ Botmaker | Category | New Bots | Updated Bots
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [CptPants](https://rentry.org/CptPants) | Misc ||
 [AVAKSon](https://rentry.co/avakson_library) | Misc ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Nuggest](https://rentry.org/Nuggest) | Misc ||
 [Onaholesama](https://rentry.org/onaholesama) | Furry ||
 [Homunculus Shop](https://rentry.co/homunculus_shop) | Misc ||

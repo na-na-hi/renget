@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 22-Nov-2023)_
+_(Updated 26-Nov-2023)_
 
 !!! note
     Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -14,7 +14,6 @@ _(Updated 22-Nov-2023)_
 | User | URL | Expiration |
 | -- | -- | -- |
 | Delv | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2023 |
-| stuggles | https://chaster.app/sessions/HfUibc1uEcIq3GyK |  === |
 | arcybee | https://chaster.app/sessions/7kUSK1IZIAz4vNIH |  === |
 | cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  === |
 | Nyum | https://chaster.app/sessions/nBUQZylXrXqglbfK |  01-Dec-2023 |
@@ -30,6 +29,9 @@ _(Updated 22-Nov-2023)_
 | unlockely | https://chaster.app/sessions/3lDKYIN3DiZRI0tf | === |
 | OttawaCuckold | https://chaster.app/sessions/SK9LJkjYLf5v2igc | === |
 | Djfaggotloser | https://chaster.app/sessions/geL77jUoHdQpMLdh | === |
-| tryingsss | https://chaster.app/sessions/XNi6AA04oO3HdzyG | === |
+| tryingsss | https://chaster.app/sessions/yPip7LixsQMudNZf | === |
 | usernyaame | https://chaster.app/sessions/Zlt0mY4evkEqaxtQ | === |
+| EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
+| McHastex | https://chaster.app/sessions/X6Ucs2NPSLEUKBlR | === |
+|  |  |  |
 |  |  |  |

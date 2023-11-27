@@ -10,7 +10,7 @@
 
 ##&nbsp;->2023<-
 - 655&nbsp;&nbsp;[archiveofsins.com/h/thread/7673892/](https://archiveofsins.com/h/thread/7673892/)&nbsp;&nbsp;&nbsp;&nbsp;(25.11.2023 14:11)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Why the fuck it's set to roastie by default? Edition!
-- 654&nbsp;&nbsp;[archiveofsins.com/h/thread/7667911/](https://archiveofsins.com/h/thread/7667911/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Chika Host of The Nightmare Edition
+- 654&nbsp;&nbsp;[archiveofsins.com/h/thread/7667911/](https://archiveofsins.com/h/thread/7667911/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;&nbsp;[852]&nbsp;#&nbsp;Chika Host of The Nightmare Edition
 - 653&nbsp;&nbsp;[archiveofsins.com/h/thread/7661373/](https://archiveofsins.com/h/thread/7661373/)&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;&nbsp;[881]&nbsp;#&nbsp;Losers Edition!
 - 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[1027]&nbsp;#&nbsp;It's Pizza Time! Edition
 - 651&nbsp;&nbsp;[archiveofsins.com/h/thread/7646560/](https://archiveofsins.com/h/thread/7646560/)&nbsp;&nbsp;&nbsp;&nbsp;(06.11.2023 12:39)&nbsp;&nbsp;[1001]&nbsp;#&nbsp;SCORING SUM FAKING GOAL Edition!

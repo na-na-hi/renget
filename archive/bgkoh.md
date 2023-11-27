@@ -61,7 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Stat: Speed **ɪ** | first stage (+0 AP) | 
+Stat: Speed **ɪɪ** | Second stage (+0 AP) | 
 Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his flamse
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
@@ -77,7 +77,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
-2. Apple | Gives +2 to any outside-combat-action.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 
@@ -94,7 +94,8 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important
+Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important. (Currently held by Lilac)
+RP item | Paper and Charcoal | Nothing important, Ishmael is putting letters on them to help Lilac to read english
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

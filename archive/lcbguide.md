@@ -74,13 +74,19 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 No. All story content in the game can be beaten with the default Identities and E.G.O. Reroll if you want to start with specific ones.
 
 **2. Who do I reroll for?**
-Try to get two Identities on this list. It's unlikely but possible to get 3. Do not bother rerolling for E.G.O.
+I have listed what most people consider to be the most "meta" Identity for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get one or two Identities on this list. Do not bother rerolling for E.G.O.
 - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
 - ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
 - ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) W Corp. L3 Cleanup Agent Ryōshū
 - ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
 - ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) Effloresced E.G.O::Spicebush Yi Sang
 - ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) Tingtang Gang Gangleader Hong Lu
+- ![Seven Assoc. South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) Seven Assoc. South Section 4 Faust
+- ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) Dieci Association South Section 4 Rodion
+- ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) R Corp. 4th Pack Reindeer Ishmael
+- ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) Zwei Association South Section 4 Gregor
+- ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) R Corp. 4th Pack Rhino Meursault
+- ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp) Seven Association South Section 6 Director Outis
 The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O.
 
 **3. How do I reroll?**
@@ -161,7 +167,7 @@ The Battle Pass, or Limbus Pass (BP) is the best thing to buy by far. The curren
 
 You level the BP by completing missions, going through Mirror Dungeons, or using paid Lunacy. The rewards from the BP include Lunacy, E.G.O, Thread, Egoshards, XP Tickets, Enkephalin Boxes, and Battle Announcers. Leveling the BP past 120 gives you Nominable Egoshard Crates. This is the best reason to buy the BP. You earn 1 per level without the BP, and 3 if you have bought the BP. The significance of this is elaborated on in the Farming section. 
 
-There is also the Limbus Pass "Package", which is different from the regular Limbus pass. The Limbus Pass Package includes the Battle Pass, a Level Boost IV Ticket, a cosmetic paypig banner and 10 Battle Pass levels upon purchase. This can only be bought with paid Lunacy, which in turn can only be bought with real money. So it's something like $30, it's not really worth it unless you really want the funny banner.
+There is also the Limbus Pass "Package", which is different from the regular Limbus pass. The Limbus Pass Package includes the Battle Pass, a Level Boost IV Ticket, a cosmetic paypig banner, and 10 Battle Pass levels upon purchase. This can only be bought with paid Lunacy, which in turn can only be bought with real money. So it's something like $30, it's not really worth it unless you really want the funny banner.
 
 **8. Daily Rolls**
 An important aspect for evaluating the prices below is the daily roll. You get to perform a single Extraction once a day on each available banner for 10% of the price, but you only get to do so with paid Lunacy, which is different from regular Lunacy.
@@ -206,6 +212,8 @@ Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
 Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
+In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
+
 **1. What is the best way to farm Egoshards?**
 You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
 * Doing one MD2H (Mirror Dungeon 2 Hard Mode) a week
@@ -213,7 +221,7 @@ You can farm as much as you want if you have the Enkephalin (energy) or Lunacy t
 * Collecting all Mirror Dungeon Weekly Bonuses
 * Doing your missions (daily, weekly, seasonal)
 
-You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Just one Mirror Dungeon a day is good, and more than two Mirror Dungeon runs a day is not necessary. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD2.
+You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MD2H is enough, and more than two Mirror Dungeon runs a day is not necessary. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD2.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
 If you plan on doing two or more Mirror Dungeons a day, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MD2H Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
@@ -294,8 +302,8 @@ I'm not going to make a full tier list, because it would require me to update it
 The following are what most consider to be the best IDs and E.G.O in the game. The ordering past the first 4 IDs should be considered very loose because again, I don't know how to make a good tier list. Hover over the images for the name of the ID/E.G.O.
 
 **000 IDs**
-R Corp Ishmael needs to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required.
- - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
+R Corp Ishmael and Meursault need to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required.
+ - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
 L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. Both of them, G Outis and Shi Don are good picks for MD2H. KK Hong Lu doesn't roll very well in MD2H but his skill 2 absolutely decimates slash weak enemies. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
@@ -373,4 +381,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
 11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
 11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
-11/23-24/23: Updated for new chapter part. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/23-24/23: Updated for new chapter part.
+11/26/23: Added preface to farming section and updated both tier lists. ![lol&](https://files.catbox.moe/7dmu76.png)

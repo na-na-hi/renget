@@ -281,9 +281,9 @@
 - The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
 - [URL Safety Results](https://www.urlvoid.com/scan/englishtorrent.co/)
 
-### 🧲 [EZTV](https://eztv.re/)
+### 🧲 [EZTV](https://eztv.li/) / [2](https://eztvstatus.org/)
 - Here you may find and watch new episodes of your favorite TV shows every day.
-- [URL Safety Results](https://www.urlvoid.com/scan/eztv.re/)
+- [URL Safety Results](https://www.urlvoid.com/scan/eztv.li/)
 
 ### 🧲 [WatchSoMuch](https://watchsomuch.to/)
 - A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.

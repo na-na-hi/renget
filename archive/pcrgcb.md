@@ -171,9 +171,10 @@ W.Djeeta　☆5 RANK30 Full　EX 5-5-5
 Homare　☆5 RANK30 Full　EX 5-5-5
 Ass.Maho (Explorer)　☆5 RANK31 Full UE1 Lv290 EX 5-5-5
 O.Yuki　☆5 RANK30 Full　UE1 Lv240　EX 5-5-5 (Works with 30 Full, UE1 Lvl290)
-![B4 Magic 56-58m TL](https://pomf2.lain.la/f/9cag4a8r.png)
+![B4 Magic 56-58m TL](https://pomf2.lain.la/f/vv6hk10.png)
 
 ### Boss 5
 
 ## Carryover / Overflow
 [Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3W9B86aXZPSyMmlr_H0C6T5)
+![CO/OF](https://pomf2.lain.la/f/fwbuwhul.png)
