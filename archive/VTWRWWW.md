@@ -53,6 +53,7 @@ If you need help with getting started on a story or happen to be void of any ide
 - If you’re short on ideas, start by imagining a scene you want to see played out with a chuuba and building your story around it. What's the setting? How do you get your characters to that scene? What happens after it?
 - Ask the thread. We can recommend stories that did particular aspects well, or bounce ideas off of each other and generally assist you in crafting a story.
 - The best way to improve is to just start writing and receive some feedback. Don’t be afraid to throw your hat in the ring, we all had to start somewhere. Who knows, you might be better than you think, and good enough to take a shot at the title of champion.
+- If you need help with getting a beta reader the thread's writers have their emails listed on a link in the main archive. Check it out, if they're on there they're open to getting emailed for helping you with beta reading.
 
 
 #####*/wg/'s prompt archive*
@@ -62,6 +63,10 @@ https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vR5ZggiHWXX_WSqCC5bvPR2QeLFG
 !!! note Any further questions or requests can be posted in the thread or sent to: AshenParty@protonmail.com
 
 ###Contest archive
-Here will be everything submitted for the contest during the submission period.  Contest tags will be in **bold** in order to help find them.
+Here will be everything submitted for the contest during the submission period.  Contest tags will be in **bold** in order to help find them, though sfw and nsfw will still be separate for ease of browsing.
 
--Coming Soon-
+####SFW Archive
+--Coming Soon--
+
+####NSFW Archive
+[A cozy evening in the foxhole.](https://rentry.org/w5esx2)  (Fubuki, **NSFW**, **Fluff**)

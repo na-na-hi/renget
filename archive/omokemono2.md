@@ -132,6 +132,10 @@ If an outdated page gets updated, it loses its outdated status
 	- [Fanbox](https://kaimu.fanbox.cc/)
 	- [Kemono](https://kemono.party/fanbox/user/32309614)
 
+- **Hikewne** (There is nothing on the Kemono page)
+	- [Patreon](https://patreon.com/hikewne)
+	- [Kemono](https://kemono.su/patreon/user/55836099)
+
 
 ## Not Pee-focused Artists 
 *Those artists draw pee occasionally and/or as a "bonus"*
@@ -352,9 +356,6 @@ If an outdated page gets updated, it loses its outdated status
 ## Artist not yet on Kemono
 *A man can dream...*
 When adding new artists, link to their Patreon/fanbox/whatever, specify to which category they belong to and don't forget to tag.
-
-- Hikewne
-    - [Patreon](https://patreon.com/hikewne) (Pee-Focused)
 
 - AlphaHyudou
     - [Patreon](https://patreon.com/AlphaHyoudou) (Pee-Focused)

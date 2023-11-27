@@ -54,6 +54,7 @@ Content|Link|Description
 Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods. Im still working on this so it will stay up to date.
 Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
 Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
+Deadly Premonition |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv90IC_eHkAxMRACFe_DDviV)| Deadly Premonition Playlist (Completed)
 
 ---
 

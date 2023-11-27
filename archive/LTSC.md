@@ -13,8 +13,6 @@ We will begin by optimizing the Windows image and removing unnecessary component
 
 Read the [/fwt/ paste](https://rentry.org/fwt) for a more general overview of Windows.
 
-[Download](https://rentry.org/LTSC/pdf) this guide as PDF.
-
 ***
 !!! danger This guide loads screenshot images from a third-party site: Imgur.
 
@@ -427,7 +425,7 @@ Once installed launch their respective control panels and configure everything.
 You should disable their **background services** after so they don't run in the background doing nothing.
 ***
 ### Install a firewall
-We don't want anything connecting to the internet without our consent, I highly recommend you install one of the firewalls mentioned [above](#before-installing-windows) and familiarize yourself with the one that suits you best. They are all lightweight, fairly easy to use and will be your first line of defense.
+Nowadays, almost all malware tries to phone home so we don't want anything connecting to the internet without our consent, I highly recommend you install one of the firewalls mentioned [above](#before-installing-windows) and familiarize yourself with the one that suits you best. They are all lightweight, fairly easy to use and will be your first line of defense.
 
 #### About Windows Firewall
 Even though they can both work together, you don't need **Windows Firewall** to be enabled to use firewalls like Simplewall or Tinywall because they use the [Windows Filtering Platform (WFP)](https://learn.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page) which is the underlying technology the Windows Firewall rests upon. 

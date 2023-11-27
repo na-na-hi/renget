@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/State-sponsored_Internet_propaganda
 
 # Archive
 Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matter my own personal preference.
-*(Links WILL go down, more are already prepared. Monitor /mwg/ threads for archive mentions.)*
+*( Links WILL go down, more are already prepared. Monitor /mwg/ threads for archive mentions. )*
 
 Removals : Images that depict child pornography, personally identifiable information or copyrighted material not permitted under fair use doctrine are removed. Image removal requests can be submitted in any /mwg/ thread, mention the word archive in your request.
 
@@ -30,6 +30,12 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - November Archives
 - Part 1 - 1.7 GB - 9,500 images
 - https://pixeldrain.com/u/iSM5QYTa
+- Part 2
+- < collecting and sorting >
+
+- Additional Archive of /POL/ memes from non-MWG threads
+- October to November - 1 GB - 5,200 images
+- https://pixeldrain.com/u/dbFX6hea
 
 For the study of memetic propaganda, here are some academical and educational pdfs.
 
@@ -54,6 +60,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Aircraft navigation systems in the Middle East face mysterious ongoing hacks leading to major flight problems
 * IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, told shut up or face court martial
 * Mystery Pnuemonia, aka Covid 2, "tearing through" schools in China, WHO calls for masking and social distancing
 * New York state gets new law allowing kidnap, mandatory treatment and quarantine of people without notice for any infection
@@ -66,12 +73,12 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Snoop Dogg announces he’s giving up Weed for Health reasons
 * Apple, Disney, Lionsgate, IBM and Comcast pull all advertising from Xitter after reports of antisemitic content
 * ex-CIA agent of 25 years says Reptilians walk amongst us and hold positions of power
-* Boycott of McDonalds for supplying Israeli troops results in 60 ppl being charged with Sedition in Malaysia
-* Chinese "Spamouflage"/"Dragonbridge" disinfo campaign attacking the west with 100's of thousands of sockpuppets
-* Canadian man suffering from Crohns put his moms poop up himself as treatment, started experiencing menopause.
 
 ####General Ideas
 
+* Boycott of McDonalds for supplying Israeli troops results in 60 ppl being charged with Sedition in Malaysia
+* Chinese "Spamouflage"/"Dragonbridge" disinfo campaign attacking the west with 100's of thousands of sockpuppets
+* Canadian man suffering from Crohns put his moms poop up himself as treatment, started experiencing menopause.
 * Israeli President says mein kampf found in a childrens living room justifies killing of Palestinian kids
 * 44 yo commercial pilot takes magic mushrooms, asks "am I dead?" then attempts to stop engines midflight
 * All female spacewalk on ISS results in second lost tool bag in orbit, again.

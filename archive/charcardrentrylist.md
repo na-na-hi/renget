@@ -18,24 +18,24 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Scrimbly](https://rentry.org/scrimb) | Misc |[BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png), [BD-564](https://files.catbox.moe/0mmg7t.png)|
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[Shy Guy](https://files.catbox.moe/jn7sxp.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Chase](https://files.catbox.moe/rzxz7z.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Julien](https://files.catbox.moe/gqpvdk.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[BD-564](https://files.catbox.moe/0mmg7t.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png)|
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Nicki Minaj](https://files.catbox.moe/judi0g.png)|
+[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
-[Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
-[Scrimbly](https://rentry.org/scrimb) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||

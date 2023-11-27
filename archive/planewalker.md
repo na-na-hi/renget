@@ -342,6 +342,11 @@ BD-564 | Info
 ![](https://files.catbox.moe/j9vlpd.png)   | BD-564 works for the Department of Repossession. Those who have nothing else to pay their debts with are likely to receive a visit from the RDA's personal repo-man and lose a little more than just their belongings. Comes with a lorebook that adds a bit of chatroom compatibility, as well as three greetings: as a debter, encountering him on a normal patrol, and working alongside him as a BD unit. The Ancapistan setting and BD units were both created by [brsc](https://www.chub.ai/users/brsc).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/bd-564-5049bc66),  [Catbox](https://files.catbox.moe/0mmg7t.png)
 
+Felix | Info
+:----:  | :----: 
+![](https://files.catbox.moe/sqg1y4.png)   | Felix is a socially awkward but overall nice bat boy who has a fascination with punk culture, even if he's kinda bad at the whole "punk" part. Maybe you can help him with that, or maybe you can just chill and have a nice time together. Comes with three greetings: a crash into hello, Felix wanting to go to a rave, and Felix wanting to show you his secret hang-out spot.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/felix-47dd8b3b),  [Catbox](https://files.catbox.moe/tsyc91.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

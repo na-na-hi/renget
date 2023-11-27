@@ -9,7 +9,8 @@
 _(Updated 26-Nov-2023)_
 
 !!! note
-    Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
+    - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
+    - __Need to update or remove your lock from the list?__ Post in thread (preferred), or message me on [chaster](https://chaster.app/user/Delv) or [Discord](https://discord.com/users/230024106400022528).
 
 | User | URL | Expiration |
 | -- | -- | -- |

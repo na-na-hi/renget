@@ -36,15 +36,16 @@ videos:
 [Eruru](https://youtu.be/vJNUqMpxwvE)
 
 ### Boss 1
-[B1 Magic 57m - 0 manual inputs](https://www.youtube.com/watch?v=DyljEG788A0)
-![](https://pomf2.lain.la/f/ulweps2.png)
+
+[B1 Magic 58-60m - 0 manual inputs](https://www.youtube.com/watch?v=gZkW75d5040)
+![](https://pomf2.lain.la/f/cu8p8zrq.png)
 Tested with:
 Summer Yui 3★ Lv289 R30 FULL, EX 5/5/5
-Summer Neneka 3★ Lv289 R30 FULL, EX 5/5/5
+Summer Neneka 5★ Lv289 R30 FULL, EX 5/5/5
 Lyrael 4★ Lv289 R30 FULL, EX 5/5/5
 Princess Kyaru 5★ R30 FULL, EX 5/5/5
 Student Kyaru 5★ R30 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/026ef697.png)
+![](https://pomf2.lain.la/f/g86tmied.png)
 
 [B1 Magic 56m - 0 manual inputs](https://www.youtube.com/watch?v=k6EAs60STXY)
 ![](https://pomf2.lain.la/f/sxdwa70c.png)

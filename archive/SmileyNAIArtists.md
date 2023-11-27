@@ -138,3 +138,48 @@ If your character has a chest that is not small or flat, add the tag ==medium br
 ### [shikuta_maru](https://danbooru.donmai.us/posts?tags=shikuta_maru)
 This style is one of the best that gets the anatomy of both Fubuki and Tatsumaki just right. How is this being a day of adding favorites to my list.
  ![shikuta_maru](https://files.catbox.moe/c9y5yx.png)
+
+### [nyuu_(manekin-eko)](https://danbooru.donmai.us/posts?tags=nyuu_(manekin-eko))
+NAI struggles a bit to generate coherent poses but follows the style well enough.
+![nyuu_(manekin-eko)](https://files.catbox.moe/fbvkaw.png)
+
+### [akatsuki_myuuto](https://danbooru.donmai.us/posts?tags=akatsuki_myuuto)
+One of the easiest styles to handle with simple prompts.
+![akatsuki_myuuto](https://files.catbox.moe/hxcz72.png)
+
+### [mimonel](https://danbooru.donmai.us/posts?tags=mimonel)
+The artist draws mostly hentai, take that into mind.
+![mimonel](https://files.catbox.moe/7aovox.png)
+
+### [fan_no_hitori](https://danbooru.donmai.us/posts?tags=fan_no_hitori)
+I don't know how faithful the style is to the original... but it gives good results so it doesn't matter.
+![fan_no_hitori](https://files.catbox.moe/bwe961.png)
+
+### [aitsuwu](https://danbooru.donmai.us/posts?tags=aitsuwu)
+Quite simple style and without much complexity to work with.
+![aitsuwu](https://files.catbox.moe/0ep42b.png)
+
+### [as109](https://danbooru.donmai.us/posts?tags=as109)
+Style that likes to mark the nipples through the clothes and also give a small breast to Fubuki.
+![as109](https://files.catbox.moe/ou8ywr.png)
+
+### [alphonse_(white_datura)](https://danbooru.donmai.us/posts?tags=alphonse_(white_datura))
+Most likely he will fuck up one of the two hands in the generation, but style is so good that it doesn't really matter that much lol.
+![alphonse_(white_datura)](https://files.catbox.moe/n203vl.png)
+
+### [vanripper](https://danbooru.donmai.us/posts?tags=vanripper)
+Helltaker artist, pretty cool style with the problem that one hand can have more than 10 fingers at a time.
+![vanripper](https://files.catbox.moe/3kcg60.png)
+
+### [bb_(baalbuddy)](https://danbooru.donmai.us/posts?tags=bb_(baalbuddy))
+Comic book style, expect mostly black and white generations.
+![bb_(baalbuddy)](https://files.catbox.moe/9yrlxq.png)
+
+### [focke_wulf](https://danbooru.donmai.us/posts?tags=focke_wulf)
+The first image of Tatsumaki is probably one of my favorite generations in as long as I've been making this list. If your character has a medium/large breast, specify in the prompt ==big breast== or ==medium breast==, not entirely necessary but recommended.
+![focke_wulf](https://files.catbox.moe/1ik46q.png)
+
+### [moisture_(chichi)](https://danbooru.donmai.us/posts?tags=moisture_(chichi))
+If you like thick bodies and milfs, this is probably your style, also holy fuck was it hard to get a non-lewd generation for Fubuki.
+[NSFW Generations](https://files.catbox.moe/ay2deg.png)
+![moisture_(chichi)](https://files.catbox.moe/qrs85h.png)

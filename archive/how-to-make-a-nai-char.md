@@ -4,6 +4,14 @@
 
 ***
 
+## Intro
+
+***
+
+Please note that this is mainly complied information from the [NovelAI Docs](https://docs.novelai.net/doc.html), the [Sillytavern Docs](https://docs.sillytavern.app/usage/api-connections/novelai/#tips-and-faqs-for-using-novelai-with-sillytavern) and the NAI discord server.
+
+***
+
 ## Presets
 
 ***

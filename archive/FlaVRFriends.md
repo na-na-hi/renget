@@ -20,6 +20,8 @@ S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twi
 Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and privated all her stuff but has come back from the pipkin. Sena's Friend.
 Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
 Saltea Kichee|[Youtube](https://www.youtube.com/@Saltea_Kichee) [Twitter](https://twitter.com/SalteaKichee)|Likes baking, bread and has interacted a lot, from making drawings to chatting with Minna.
+Cublala|[Twitch](https://www.twitch.tv/cublala) [Twitter](https://twitter.com/cublala)|Cub/Bear themed, softspoken. Former FlaVR. In a vtuber group called 2D2U with Rem.
+Rem Rorschach|[Twitch](https://www.twitch.tv/aramintaaminthe) [Twitter](https://twitter.com/AmintheAraminta)|Extreme tangent rambler. Hetalia, Project Moon and AI enthusiast. Former FlaVR. In a vtuber group called 2D2U with Cublala.
 
 ---
 
@@ -34,6 +36,7 @@ Temp-Tempai|[Youtube](https://www.youtube.com/@tempflavr) [Twitter](https://twit
 Mixin Dog|[Youtube](https://www.youtube.com/@mixinhorror) [Twitter](https://twitter.com/MixinDog)|Pippa fan. Streams sometimes, acquainted with Mixie. Barks.
 Donutello D'Merlot|[Youtube](https://www.youtube.com/@DonutDMerlot) [Twitter](https://twitter.com/DonutDMerlot)|Former OG Donna's account turned personal account by Donut after OG donna "died".
 Support|[Youtube](https://www.youtube.com/@exsoutien) [Twitter](https://twitter.com/fuwamoco_vaxx/)|Former FlaVR support that decided to distance himself completely.
+Auxiliary Character|[Youtube](https://www.youtube.com/@auxchar) [Twitter](https://twitter.com/auxchar)|FlaVR AI tinkerer, has made several voice models for FlaVR chuubas, and has done several AI covers with them.
 
 ##We do not talk about m★Preg
 ~~Read the historical archive for info.~~

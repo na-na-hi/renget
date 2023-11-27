@@ -52,7 +52,7 @@ You need to have at least one friend added. If you want more friends, go to the 
 4. Use that code on Steam and follow the instructions.
 
 **11. Should I exchange Egoshards for Thread?**
-No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyway, so you should just wait if you need Thread.
+No. It's not worth it if you're a new player. If you farm a *lot*, it might be worth it to convert some Egoshards. Otherwise, it's advised against doing so. Half of your Egoshards are converted to Thread at the start of a new Season anyway, so you should just wait or farm Thread Luxcavation if you need Thread.
 
 **12. Are past events and stories completely gone until reruns?**
 Only the Event rewards. Both the chapter 3.5 and 4.5 Events happen directly after the previous chapter, and you are required to complete them because they are plot-relevant. You just don't have to deal with the annoying resource collection aspect and lose out on the rewards. Other Events that had stories attached but were just login Events like Dante's Notes allow you to watch the story in the theater at any time. The only Event you can't rewatch ingame is the [April Fools Event](https://www.youtube.com/watch?v=fSJ_N1hIBYU).
@@ -64,14 +64,14 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Sort of. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every week. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced on Fridays. Skills for announced IDs/E.G.Os are posted with the patch notes the following Monday before the banner is added after maintenance. Keep in mind that Korea is a day ahead for most of you. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
+We currently get new IDs/E.G.O every week. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays. Identities that are considered too spoilery for a recently released chapter will instead have their trailers posted the following Thursday. Skills for announced IDs/E.G.Os are posted with the patch notes on Monday before the banner is added after maintenance. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
 
 **16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
 
 ## Rerolling
 **1. Do I need to reroll?**
-No. All story content in the game can be beaten with the default Identities and E.G.O. Reroll if you want to start with specific ones.
+No. All story content in the game can be beaten with the default Identities and E.G.O. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
 I have listed what most people consider to be the most "meta" Identity for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get one or two Identities on this list. Do not bother rerolling for E.G.O.
@@ -87,11 +87,12 @@ I have listed what most people consider to be the most "meta" Identity for each 
 - ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) Zwei Association South Section 4 Gregor
 - ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) R Corp. 4th Pack Rhino Meursault
 - ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp) Seven Association South Section 6 Director Outis
+
 The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O.
 
 **3. How do I reroll?**
 Rerolling is extremely easy, and the developers have intentionally made it easy so players can start with what they want.
-1. You need either a phone or an emulator. An emulator allows you to run multiple instances. You cannot reroll on Steam.
+1. You need either a phone or an emulator. An emulator allows you to run multiple instances. I recommend [Bluestacks](https://www.bluestacks.com/) or [LDplayer](https://www.ldplayer.net/). You cannot reroll on Steam.
 2. Boot up the game.
 3. Create a new guest account.
 4. Play through the tutorial. Please read through it at least once.
@@ -101,9 +102,10 @@ Now that you're in the main menu screen, perform the following loop.
 1. Claim Lunacy and tickets from your mailbox.
 2. Claim Lunacy from beating the prologue.
 3. Do 20 rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it if you are happy with what you got in your first 20 rolls.
-4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam.
+4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam. Do not skip this part if you want to keep the account.
 5. If you want to reroll: click settings\->account\->close account button.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
+
 ## Monetization & Gacha
 **1. Identities**
 You obtain Identities from the gacha and Dispensary. This is the main thing you'll be rolling for; it's the equivalent of other gacha's units. There are three rarities, denoted by the number of 0s. The lowest value is 0 and the highest value is 000. The naming is related to the Kabbalah. Each Identity has 3 regular skills, and a defensive skill. Your deck consists of 3 skill 1s, 2 skill 2s, and 1 skill 3. The deck will refresh once all skills have been used. Skill 3 is unlocked once they are Uptied to tier 3. You have infinite defensive skills, and they can be activated anytime. Each Identity also has a regular passive and a support passive. Regular (in combat) passives can only be used when a unit is currently in battle, and support passives can only be used when a unit is in the party but not on the field. Every passive has an activation requirement that requires a certain amount of Resonance or Sin resources.
@@ -212,7 +214,7 @@ Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
 Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
-In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
+In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass, which is leveled by doing missions and Mirror Dungeons. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
 
 **1. What is the best way to farm Egoshards?**
 You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
@@ -331,6 +333,7 @@ MD1 (Unlocked after chapter 2) | 3 | 10 | 15
 MD2 (Unlocked after chapter 4) | 5 | 30 | 45
 MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
+That last part might look off but it is less efficient to claim each bonus individually.
 
 **4. Thread & EXP Luxcavation**
 The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have five levels: 8, 18, 28, 33 and 38. Thread stages have three levels: 20, 30 and 40. The higher the level, the higher the rewards.
@@ -382,4 +385,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
 11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
 11/23-24/23: Updated for new chapter part.
-11/26/23: Added preface to farming section and updated both tier lists. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/27/23: Added preface to farming section and updated both tier lists. ![lol&](https://files.catbox.moe/7dmu76.png)

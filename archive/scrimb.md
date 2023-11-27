@@ -79,6 +79,8 @@
 [Charlie](https://files.catbox.moe/5c14cu.png)
 [Yumi](https://files.catbox.moe/n9pfc2.png)
 [Gretchen](https://files.catbox.moe/f6ovbx.png)
+[BD-612-D](https://files.catbox.moe/alqwro.png)
+[BD-10003](https://files.catbox.moe/6fgyjt.png)
 
 **WEEB shit:**
 [Android 17](https://files.catbox.moe/wgm0oa.png)

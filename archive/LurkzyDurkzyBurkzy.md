@@ -13,6 +13,3 @@
 ***
 ###->Old Claude Preset<-
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/otb24u.zip)<-
-***
-->*Did a quick test log, it still outputs WALLS of text but nothing some TLC and trimming can't fix*<-
-![Test](https://i.imgur.com/s0E0qbn.jpg)
