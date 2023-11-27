@@ -204,7 +204,7 @@
 `MAX: Same place as last time?`
 `INIGO: Yeah.`
 
-`She nods and brushes past him without a word. INIGO withdraws from the throng and resumes hunting for HOGE. He passes a lavishly-decorated table in the middle of the lawn, with NOAH's prize flowers scattered at painstaking intervals along its exorbitant length. Each chair has a name-card placed in front of it. With a sad smile, he stops behind one of the chairs and drags a finger over the name SANDATSU OWARI before moving away. As he passes SALLY and NOAH, he sees that she's surrounded by a bunch of her fellow churchgoers, whom INIGO was obliged to invite as well. A MIDDLE-AGED WOMAN is holding forth at length on childrearing.`
+`She nods and brushes past him without a word. INIGO withdraws from the throng and resumes hunting for HOGE. He passes a lavishly-decorated table in the middle of the lawn, with NOAH's prize flowers scattered at painstaking intervals along its exorbitant length. Each chair has a name-card placed in front of it. As he passes SALLY and NOAH, he sees that she's surrounded by a bunch of her fellow churchgoers, whom INIGO was obliged to invite as well. A MIDDLE-AGED WOMAN is holding forth at length on childrearing.`
 
 `MIDDLE-AGED WOMAN: - crucial that your hips are wide enough, dearie. And breast milk - why, I'd swear by it, I really would. Wouldn't want your babies to go hungry, would we?`
 

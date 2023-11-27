@@ -346,7 +346,7 @@
 `FAITH: He'd better not.`
 `EDIE: Yeah, he'd better not.`
 
-`They're sitting in a loose circle around MINNIE's bed. Outside, EDIE can hear a hundred voices shouting over one another, overlapping and mingling in a raucous chorus of celebration. Some are familiar; others less so. For a brief instant, she almost fancies that she can hear SANDATSU OWARI talking, but the moment soon passes.`
+`They're sitting in a loose circle around MINNIE's bed. Outside, EDIE can hear a hundred voices shouting over one another, overlapping and mingling in a raucous chorus of celebration. Some are familiar; others less so.`
 
 `HAILEY: Hifumi just beat Majo Shimā the other day.`
 `MAX, sarcastically: Oh, really? I didn't know that.`

@@ -1,0 +1,49 @@
+#Gooseneck Silver
+
+A humble young Nord from the deep north of Skyrim is a pipsqueak who would rather count coins and look at words in a scroll of law than pick up a sword or bow. Where the cold wind blew without remorse and few luxuries, once in a while the brave souls of traders would venture into the little hamlet before one could reach winter hold.
+
+Then it was downhill from where the Cat people had wares.
+
+and Young Goose had little coin, but there is a benefit to trading and haggling with Khajit at a young age; it makes you one of the best merchants in all of the village. As the years went on and Goose became older and had more money from chores, work, and selling things to travelers, he slowly raised enough cash to buy a magical spell, leading to his acceptance at the college of winter hold.
+
+From there on Goose would study law, business and general magic not the best in the world but no where near incompetent, as the years stretched on Goose would make the worst mistake of his life he got a little to close to a Khajit woman that would guard the traveling caravan and would not shut up about Khajit women driving the town crazy leading to his banishment after he was put in charge of making sure the finance for a new statue in the collage didn't go over budget, which he did but it was a pure white marble Khajit woman Mage, which would have been fine if he didn't get rid of the already commissioned art sketch under the guise of strengthening relations instead of a Nordic woman to a Khajit woman not knowing the original commission was for the head master wife and his gift to her as a anniversary present, under the cover of night Goose Ran for his life.
+
+After running away from the now-lighting and fire-filled collage, Goose found a weird, strange fork in his pocket in his pants, and after receiving the fork, his gut feelings would seem to get stronger as if something was urging him to walk a certain way. After weeks of following his guts, he was led to the bottom of the throat of the world and saw five strange hooded figures who only wrote on paper to communicate, and after a while, they hit off! Going to a local inn, the small group bonded over topics spoken only in writing, with the 5 greybeards with no where to go for being banished for having 'no self control' and a new friend who bonded over their unique  'Tastes' as a temporary thing decided to travel with Goose.
+
+After a couple of months of walking from city to city, the Married Band of Adventures grows in money from raiding old draugr dungeons, good old merchant work, and more money. Why not more men? The Skyrim woods were dangerous and full of unknowns; a scouting party would be a good addition to his band of adventures! After his decision to increase his band, his gut feelings began to strengthen again, and like before, he followed it, leading him to an elf scouting party mercenary's camp.
+
+After asking to meet with the party commander, Goose and the commander hit off like gold on a dragon's hoard. After talking about Elven and Khajit women and some drinks, the group of scouts were under the command of Silver for as long as he could pay them a decent wage and keep wine or mead flowing!
+
+Sadly, all things come to an end as the Arch Mage wants revenge for embarrassing Goose all that time ago and has put a hit on Goose and hired some bandits and petty thieves to assassinate Goose, proving the Scouting party immediately useful by allowing the party to dodge and wave through the trees and ruins to avoid the many hungry and desperate for gold bastards.
+
+As the weeks went by and Goose and his men escaped to the coast of how the wars in Tamriel have gotten worse from orc warbands, a Dummer woman, General Caligate, an Argonian, and so much more made a bid for the throne; nonetheless, it matters not to Goose; he just needs to escape Skyrim.
+ 
+As the dock yards of Windhelm came ever closer, Goose knew it was time to say goodbye to his ancestral home, with his men close behind him and gold gathered from months of dungeon raiding, buying and selling good and plain old looting of bandit camps and corpses.
+
+The ship was massively armored with thick planks, giant sails to catch the maximum amount of wind, and the sound of many boots stomping on the ground like a well-oiled machine where every cog had its own use and place to keep this magnificent ship running in tip-top shape.
+
+Letting his guts lead him again, he stands in front of a female Argonian Captain brokering a deal, and not long after a playful bant there, a playful insult there, and a couple drinks of mead, soon enough Goose and his party are singing sea shanty's with the crew and the promise of gold, and the person with the mind to increase it, the Argonian Captain, was more than happy to join as 'temporary' privateers for a while.
+
+As the ship headed out to sea, luckily nothing more than a few rough storms and other troubles arrived at life at sea until, on a sunny morning, the cries of a war horn pierced the air in a deep rumble, an Oman of death and ruin to all that heard it. As the morning mist almost shades and hides the pirate ships, giving the illusion that they are above death itself by displaying them as the fabled ghost ships of ancient sailors of old, as the mist began to dissipate, showing the clearly mortally operated and controlled ships, giving the illusion that they are above death itself by displaying them as the fabled ghost ships of ancient sailors of old, as the mist began to dissipate, showing the clearly mortally operated and controlled ships, fear began to dwindle.
+
+Surrounded by all sides by five massive ships, circling our boat like sharks who smelled blood in the water, looking for the opportunistic opening to attack and seize victory, reaping its rewards and glory as slowly they circle closer and closer as our Argonian captain men kicked into high gear, pulling out bows, spells, and swords in organized and disciplined defensive positions, waiting for the inevitable battle.
+
+As the Tongues looked at the situation and carefully walked up to the back, front, and sides of the ship in a way that would control the boat to not flip over or spiral out of control, holding their proper posture as they sucked in a breath, the air around them shook and seemed to break under their wills as a small whisper broke the air of silence as everyone looked at the powerful Tongues, unsure what they were doing but not Goose Neck Silver as he took a sip of mead.
+
+The air broke like the tip of a whip as they shouted their **THU'UM** as the force spread apart the water, causing it to look like a great water elemental itself was angry as the **THU'UM** traveled towards its targets, the ships. Once it made contact, any man who was in front of the force of the initial wave split apart like straw, and together with the ships, they fared no better, breaking apart and thus spraying small wood chips and needles at great speed, tearing apart any saviors and rendering their bodies with splinters.
+
+The small tidal waves made short work to rid the few torn-up and battered pirates, consuming them into a watery grave. As the waters settled back into place, there was a stiff silence; only the calls of birds flying and the rocking of the boat penetrated the silence. Just a minute passed before the pirate crew and the Scouts roared in joy, complementing and singing at the Tongues quick work along with their destructive power.
+
+Staying around, the pirates decide to fish for treasure. Since it was the Tongues and the pirates under contract, Goose Silver received 50% of the loot. The strange gut feeling came once again, as if a divine or maybe even daedric influence were guiding him to his fate. Goose walked towards a chest, opening up to reveal a Ring of Phynaster! A gift from a god, it has to be, but which one?
+
+A week later, the crew was near the shores of war-torn Tamriel, landing in a dock yard in a town. There was no hiding the frustration in the air; it was spreading like a sickness. The constant shouting on price gouging, drinks overpriced, bread not in stock, and legionaries not being paid their wages—the smell of revolt was all but nigh.
+
+Heading into a tavern, Goose, his Tongues, Scouts, and his Pirate Captain take a seat about to say goodbye before a strong, rough Imperial officer sat down with a slam on the chair with a scream. Feeling daring, Goose walks forth and sits with the officer.
+
+Desperate and angry while also not caring who knew, the officer explained how his men had gone over a month without pay and were at their wit's end. the town's governor, he was sure pocketing the money for himself and screwing over everyone from the farmer to the solider. Goose, feeling bold and a bit daring, asked the question that sealed his fate. He asked how much it would take for the Legionaries to become his after some drink and food the officer gave in. Using the gold Goose gained from Skyrim and the pirate ships, his tongues sank.
+
+One day later, Goose ordered a blockade and his men to march down the streets as a well-oiled machine. The legion marched surprisingly with little to no resistance, as Goose was just another warlord making his claim, but to Goose Neck Silver, this was his most important day of his life. As he walked into the town hall, he thought of it deep within himself.
+
+Why was he taking power? for money? No, he could be a merchant for power. Maybe, but there's more. FUCK IT!  he knows himself; he wants Khajit's! If that means he must administer a realm, create laws to reduce corruption, and plow the seeds of prosperity for its economy and culture, then so be it! even if he must fight all the warlords to gain his prize!
+
+As Goose sat on the town hall chair, acting as his new throne, he smiled at the madness.

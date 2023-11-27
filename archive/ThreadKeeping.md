@@ -19,6 +19,95 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
+#White-Gold Warlord
+
+***
+Page 1
+***
+```
+https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
+
+> For years since the Oblivion Crisis war has dominated Tamriel
+> But the final battle of the Imperial Interregnum as dictated by Prophecy has appeared
+> Whoever sits upon the Ruby Throne for Three days will be the Successor of the Septims
+> The universality of signs from the Daedra, Gods, and supernatural phenomena has forced all true contenders here
+> There can be only one Emperor...
+
+>>> Rules
+> - Shattered Amulet is off-limits, reserved for the one who can hold the Heart of the Imperial City for three 'Days' {Each day is a progression of events}
+> - Build placement influence starting location on the Imperial Island
+> - Alliances are allowed but are tenuous and CAN be sabotaged
+> - Relics and Honour-Choices may be taken with re-flavoring
+> - Most of the Build will contribute to the fight, maintenance, or the aftermath
+> - General strategic plans with the build are much appreciated
+> - In-general banter and direction will be taken to influence events as much as manageable 
+
+>DAY 1: >>91045750
+>DAY 2: >>91051656
+>DAY 3: >>91059073
+```
+***
+Page 2
+***
+```
+>Dance-With-Rain
+>>91029201 
+https://rentry.org/Dance-With-Rain
+>General Caligate
+>>91029566 
+>Grenel the Fat
+>>91008045 
+>Endehm, Hero from the High Seas
+>>91040632 
+>Lilinah
+>>91017590 
+>Isaelene Nesis V
+https://rentry.org/wwb8r
+>Ruga the Doom
+>>91018514 
+>Nishtar
+>>91029761 
+https://rentry.org/DancerNishtar
+>Octavian Caerulus
+>>91011580 
+>Captain Commander Farvad Torn
+>>91010103 
+>Atrael Elsinore
+>>91033157 
+>Ysmir The Giant
+>>91011679 
+>The Cobra King
+>>91013685 
+>Goose Neck Silver
+>>91014861 
+>Vivie Herrvan
+>>91015282 
+>Al-Rahj
+>>91016152 
+>An-Xleel
+>>91018001 
+>Magnus Septim II
+>>91022003 
+>Kasha Shadowtail
+>>91023277 
+>Briarheart "Durcorach the Second"
+>>91028033 
+>Anumaril
+>>91028398 
+>ANCALAGA
+>>91028873 
+>Cassynder Mero
+>>91029257 
+>Sareem
+>>91030191 
+>Euryale
+>>91030235 
+>Vanillius Philidus
+>>91034314 
+>"Talos"
+>>91034824 
+```
+
 #Kill the Heavens
 
 ***
@@ -448,16 +537,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Norman Smith HN Whatabout
->>91046080
->Dr. Seto Kawata
->>91051432
->"Blank"
->>91050726
->Kōkishin Yuuki VN Shoggoth
->>91050987
->"Mammogar"
->>91051410
+Recharging.
 
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)

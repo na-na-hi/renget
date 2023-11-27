@@ -327,9 +327,12 @@ The ONLY difference is:
 
 Each time you press either a "Swipe" or "Regenerate", it just sends an identical chat context to get a reply from an LLM.
 
-I even asked devs about it and they said - there is no difference at all.
+I even asked the devs about it and they said - there is no difference at all.
 
 If all your swipes are the same - it's either your LLM settings (low temperature, low TopP/TopK) or it's the result of an "Example Chat" built in in your card.
+
+**Q21: "I've updated ST, and Claude sends an empty 'Human:' in the beginning (Can be seen in CMD)."**
+A21: It's not a problem. Claude won't work without it because API needs the prompt (your whole conversation) to start with "\n\nHuman:" at the beginning. If you delete it from the ST code, you'll get an API error.
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
