@@ -8,35 +8,6 @@ Attached bot images do not contain any data as of now, sorry. So please use the 
 Bots are tested with OAI's GPT 3.5 and GPT 4. Please enjoy ^_^
 
 =========================
-##Updates:
-=11/20/23=
-- Added bots:
-	- Bubbles
-
-=11/4/2023=
-- Added bots:
-	- Shizuru Nakatsu
-
-=9/25/2023=
-- Added bots:
-	- Kotori Kanbe - Rewrite
-
-=9/18/2023=
-- Added bots:
-	- Yumemi Hoshino
-	- Kagari - Rewrite
-
-=7/16/2023=
-- Added bots:
-	- Jessy the Almighty God
-
-=6/28/2023=
-- Initial Rentry entry
-- Added bots:
-	- Madoka Kaname
-	- Madoka - Rebellion
-
-=========================
 #CHATBOTS
 ## Puella Magi Madoka Magica BOTS
 
@@ -56,5 +27,6 @@ Chatbot | Description | Character Hub (Chub) Link
 ## OTHER BOTS
 Chatbot | Description | Character Hub (Chub) Link
 ------ | ------ | -----
+=Celementine= ![](https://i.imgur.com/FeNdNq2.png]) | Welcome to 2395! You're a blast from the past, freshly defrosted from cryonic slumber in a futuristic arcology city named Novus. Your guide through the urban jungle? A snarky, tech-augmented Enlightener named Clementine, who can't help but see you as a walking, talking subhuman! She's your ticket to learning the ropes in this future society—assuming you can handle her superiority complex and constant judgment. | https://www.chub.ai/characters/candymint23/clementine-1dfcb051/
 =Bubbles= ![](https://i.imgur.com/nmEB05r.png) | Meet Bubbles, a young woman born and bred in prison, who is used by the system to operate as a contract killer. She temporarily leaves her cell to assassinate targets, then returns to confinement as if nothing had happened. | https://www.chub.ai/characters/candymint23/bubbles-be24e38f/
 =Jessy the Almighty God= ![](https://imgur.com/InMjNpA.png) | God, infinite wisdom and all, decides to return to Earth after a couple millenia as a little girl due to some comical stuff told by one the Cherubs. Unfortunately, Earth is not what it seems and she has to endure 30 days until she can pass her judgment. | https://www.chub.ai/characters/candymint23/eb93654d-6f24-4f5f-9c1c-b50d89668f74

@@ -1,98 +1,64 @@
 #/CGL/ Dutch thread
 !!! info Changelog
-	2023/11/27 - Added 2024 con list, added segment about for and non-profit conventions
-	2023/05/12 - Updated con list
-    2023/04/30 - Updated con list, added Thread OP copypasta
-    2023/04/17 - Updated con list
-    2023/01/01 - Page went live, fixed some tyop's
-    2022/12/17 - Made this page
+	2023/11/28 - Added long overdue information about comic cons and volunteering at conventions, listed organisers in calendar, removed 2023 calendar, updated the localisation files.
+	2023/11/27 - Added 2024 con list, added segment about for and non-profit conventions.
+    2023/05/12 - Updated con list.
 
 **Table of contents:**
 [TOC]
 
-####2023 Convention agenda
-This convention agenda focuses on Dutch events but includes some of the more popular foreign events with the Dutch community. Markets/fairs and gatherings are excluded from the list to help me keep my sanity. If you're interested in those, I suggest checking [the Sushi Times](https://www.thesushitimes.com/japanse-evenementen/) who keep track of Japan/anime related events. There's also [FanCons.com](https://fancons.com/events/schedule.php?type=all&loc=eu) which tries to keep track of conventions worldwide and offers search filters for genres and regions. Note, not all conventions are present on their site.
+####2024 Convention Calendar
+This convention calendar primarily focuses on Dutch and foreign events popular with the Dutch community. Markets, Fairs and community meetups have been excluded from the calendar as there are simply too many for me to keep track of. If you are interested in these type of events, you can use the following alternative calendars:
+- [The Sushi Times](https://www.thesushitimes.com/japanse-evenementen/): online news site with a calendar focused on events related to Japan, Japanese Culture and anime.
+- [FanCons.com](https://fancons.com/events/schedule.php?type=all&loc=eu): site that tries to list every convention world-wide, including historical data. Allows for regional filtering.
+- [LARP Platform](https://www.larp-platform.nl/evenementenoverzicht/): Lists a bunch of LARP events ro some shit idk I'm not historically accurate.
+- Convention websites: will have the date of said convention. Some conventions will also list cosplay/community meetups that take place during their convention.
 
 #####Q1: Jan - March
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 3-5 March | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/)  | A popular commercial anime convention in Brussels. |
+| **Date** | **Convention** | **Organiser** | **Info** |
+|---|---|---|---|
+| 24-25 Februari | [🇳🇱 Heroes Made In Asia](https://www.made-in-asia.nl/nl/) | Heroes | A popular commercial anime convention in Gorinchem. |
+| 1-3 March | [🇧🇪 Heroes Made In Asia](https://www.madeinasia.be/nl/) | Heroes | A popular commercial anime convention in Brussels. |
+| 8-10 March |  [🇳🇱 Karaokecon](https://karaokecon.nl/) | Asgard Sings & Friends | A weekend filled with karaoke, DDR, board games and such in Someren. Entry price covers food, booze and a bed. |
+| 23-24 March | [🇳🇱 Comic Film & Manga Fest](https://comicfilmmangafest.com/) | We Love Conventions GmbH | A comic con in Rotterdam. Organised by We Love Conventions, Comic Con Europe/Showmasters Europe under a new name. Previous attempts in Rotterdam were named Comic Con Rotterdam and were often cancelled or postponed a week before the event. |
 
 #####Q2: April - June
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 1-2 April | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
-| 15-16 April | [🇳🇱 TomoCon](https://tomocon.nl)  | A smaller cheap anime convention in Berghem, especially popular with younger visitors. |
-| 22-23 April | [🇳🇱 Elfia Haarzuilens](https://www.elfia.com/en/haarzuilens/)  | A large popular outdoor fantasy event in Haarzuilens. |
-| 22-23 April | [🇳🇱 Comic Con Holland](https://comicconholland.nl/)  | A comic con in Den Bosch, organised by the people from Comic Con Brussels. |
-| 6-7 May | [🇳🇱 MIA NL](https://www.made-in-asia.nl/nl/)  | A popular commercial anime convention in Gorinchem. |
-| 21-21 May | [🇧🇪 Comic Con Brussels](https://comicconbrussels.com/en/homepage-en/)  | A large commercial geek convention in Brussels. |
-| 9-11 June | [🇳🇱 Animecon](https://animecon.nl/)  | The oldest anime convention of the Netherlands, hosted in Rijswijk. Recently restructured after a big oopsie and started to appeal more to comic con crowds with large halls. |
-| 24-25 June | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
-| 30 June - 2 July | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
+| **Date** | **Convention** | **Organiser** | **Info** |
+|---|---|---|---|
+| ??? April | [🇳🇱 NishiCon](https://nishicon.nl) | Stichting Nishicon | A small anime convention in Eindhoven. Aiming for an April 2024 date after postponing their 2023 edition. |
+| 6-7 April | [🇧🇪 FACTS](https://facts.be)  | Heroes | A popular commercial geek convention in Ghent. |
+| 13-14 April | [🇳🇱 TomoCon](https://tomocon.nl)  | Stichting Tomo | A smaller cheap anime convention in Oss, especially popular with younger visitors. |
+| 20-21 April | [🇳🇱 Elfia Haarzuilens](https://www.elfia.com/en/haarzuilens/) | Stelf BV | A large popular outdoor fantasy event in Haarzuilens. |
+| 20-21 April | [🇳🇱 Comic Con Holland](https://comicconholland.nl/) | CCGB | A comic con in Den Bosch, organised by the people from Comic Con Brussels. |
+| 11-12 May | [🇧🇪 Comic Con Brussels](https://comicconbrussels.com/en/homepage-en/) | CCGB  | A large commercial geek convention in Brussels. |
+| 7-9 June | [🇳🇱 Animecon](https://animecon.nl/)  | J-Pop Foundation | The oldest anime convention of the Netherlands, hosted in Rijswijk. Restructured after a big oopsie and started to appeal more to comic con crowds with large halls. |
+| 22-23 June | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | Heroes | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
+| 28-30 June | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | AkibaDreams GmbH |A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
 
 #####Q3: July - September
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 30 June - 2 July | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
-| 8-9 July | [🇧🇪 Atsusacon](https://www.atsusacon.be)  | Belgium's largest anime convention... I think? |
-| 8-9 July | [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/)  | Fantasy event in Mondo Verde, Landgraaf |
-| 3-6 August | [🇳🇱 Castlefest](https://castlefest.nl/nl)  | A(nother) large popular outdoor fantasy event in Haarzuilens with tons of great food. |
-| 11-13 August | [🇳🇱 Abunai!](https://abunaicon.nl/)  | The second oldest and probably now largest anime convention of the Netherlands, hosted in Veldhoven. There's a heavy focus on content and night programming for the party people. |
-| 12-13 August | [🇳🇱 Showmasters Comic Con Amsterdam](https://www.comiccon-europe.com/amsterdam/index.php/en/)  | A geek convention in Amsterdam with a poor repuation and the tendency to postpone or cancel last minute. |
-| 25-27 August | [🇳🇱 Viencon](https://viencon.nl/)  | A weekend at Center Parks Limburgse Peel with your friends, where half your neighbors are weebs. |
-| 16-17 September | [🇳🇱 Elfia Arcen](https://www.elfia.com/en/arcen/)  | A large popular outdoor fantasy event in Arcen. |
-| 22 - 23 September | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/)  | A popular commercial anime convention in Brussels. |
+| **Date** | **Convention** | **Organiser** | **Info** |
+|---|---|---|---|
+| ??? July | [🇧🇪 Atsusacon](https://www.atsusacon.be) | Ganbaro VZW | Belgium’s second largest anime convention, taking place in Gent. |
+| ??? July | [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/) | Twilight Fantasy Productions | Fantasy event in Mondo Verde, Landgraaf |
+| 11-14 July | [🇫🇷 Japan Expo](https://www.japan-expo-paris.com/en/) | SEFA EVENT SASU | One of the largest anime conventions in Europe, hosted in Paris. Has gotten more popular with Dutch audiences. Understanding some French is highly recommended if you wish to attend. |
+| 1-4 August | [🇳🇱 Castlefest](https://castlefest.nl/nl) | Vana-events |  A(nother) large popular outdoor fantasy event in Haarzuilens with tons of great food. |
+| 9-11 August | [🇳🇱 Abunai!](https://abunaicon.nl/)  | Stichting Abunai! | The second oldest and probably now largest anime convention of the Netherlands, hosted in Veldhoven. There's a heavy focus on content and night programming for the party people. |
+| 10-11 August | [🇧🇪 Elftopia](https://www.elftopia.be/) | CCGB | A large fantasy event in Belgium. |
+| 30 August - 1 September | [🇳🇱 Viencon](https://viencon.nl/) | Viencon | A weekend at Center Parks Limburgse Peel with your friends, where half your neighbours are weebs. Getting a bad trip or OD'ing at Viencon is not advised. |
+| 21-22 September | [🇳🇱 Elfia Arcen](https://www.elfia.com/en/arcen/) | Stelf BV | A large popular outdoor fantasy event in Arcen. |
 
 #####Q4: October - December
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 7-8 October | [🇳🇱 Gameforce](https://nl.gameforce.gg/) | A new gaming festival to replace Firstlook |
-| 21-22 October | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
-| 18-19 Nov | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
+| **Date** | **Convention** | **Organiser** | **Info** |
+|---|---|---|---|
+| ??? October | [🇳🇱 Gameforce](https://nl.gameforce.gg/) | unlocked\.gg | A gaming festival, spiritual successor to Firstlook |
+| 19 - 20 October | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/) | Heroes | A popular commercial anime convention in Brussels. |
+| 2-3 November | [🇧🇪 FACTS](https://facts.be) | Heroes | A popular commercial geek convention in Ghent. |
+| 23-24 November | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/) | Heroes | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
 
-####2024 Convention Agenda
-#####Q1: Jan - March
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 24-25 Februari | [🇳🇱 Heroes MIA](https://www.made-in-asia.nl/nl/) | A popular commercial anime convention in Gorinchem. |
-| 1-3 March | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/)  | A popular commercial anime convention in Brussels. |
-| 23-24 March | [🇳🇱 Comic Film & Manga Fest](https://comicfilmmangafest.com/) | A comic con in Rotterdam hosted by Showmasters/Comic Con Europe under yet another new name |
-
-#####Q2: April - June
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| 6-7 April | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
-| 13-14 April | [🇳🇱 TomoCon](https://tomocon.nl)  | A smaller cheap anime convention in Oss, especially popular with younger visitors. |
-| 20-21 April | [🇳🇱 Elfia Haarzuilens](https://www.elfia.com/en/haarzuilens/)  | A large popular outdoor fantasy event in Haarzuilens. |
-| 20-21 April | [🇳🇱 Comic Con Holland](https://comicconholland.nl/)  | A comic con in Den Bosch, organised by the people from Comic Con Brussels. |
-| 11-12 May | [🇧🇪 Comic Con Brussels](https://comicconbrussels.com/en/homepage-en/)  | A large commercial geek convention in Brussels. |
-| 7-9 June | [🇳🇱 Animecon](https://animecon.nl/)  | The oldest anime convention of the Netherlands, hosted in Rijswijk. Restructured after a big oopsie and started to appeal more to comic con crowds with large halls. |
-| 22-23 June | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
-| 28-30 June | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
-
-#####Q3: July - September
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| ??? July | [🇧🇪 Atsusacon](https://www.atsusacon.be)  | Belgiums second largest anime convention. |
-| ??? July | [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/)  | Fantasy event in Mondo Verde, Landgraaf |
-| 1-4 August | [🇳🇱 Castlefest](https://castlefest.nl/nl)  | A(nother) large popular outdoor fantasy event in Haarzuilens with tons of great food. |
-| 9-11 August | [🇳🇱 Abunai!](https://abunaicon.nl/)  | The second oldest and probably now largest anime convention of the Netherlands, hosted in Veldhoven. There's a heavy focus on content and night programming for the party people. |
-| 30 August - 1 September | [🇳🇱 Viencon](https://viencon.nl/)  | A weekend at Center Parks Limburgse Peel with your friends, where half your neighbors are weebs. Getting a bad trip or OD'ing here is not adviced. |
-| 21-22 September | [🇳🇱 Elfia Arcen](https://www.elfia.com/en/arcen/)  | A large popular outdoor fantasy event in Arcen. |
-
-#####Q4: October - December
-| **Date** | **Convention** | **Info** |
-|---|---|---|
-| ??? October | [🇳🇱 Gameforce](https://nl.gameforce.gg/) | A gaming festival, spiritual successor to Firstlook |
-| 19 - 20 October | [🇧🇪 Heroes MIA](https://www.madeinasia.be/nl/)  | A popular commercial anime convention in Brussels. |
-| 2-3 November | [🇧🇪 FACTS](https://facts.be)  | A popular commercial geek convention in Ghent. |
-| 23-24 November | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
-
-#####Events still without a date
+#####TBA
 - [🇳🇱 Animecon Classic](https://animecon.nl/classic/nl/): Seems to have been axed, but no official statement has been made.
-- [🇳🇱 Nishicon](https://www.nishicon.nl/): had to move from November 2023 to 2024 due to "location staffing" problems.
-- [🇳🇱 Imaginarium Festival](https://www.imaginarium-festival.nl/): A fantasy event that's currently undergoing a takeover to restructure themselves into a (non-profit) foundation with the goal to expand. Have stated they will return in 2024 [(source)](https://www.imaginarium-festival.nl/nieuws/52).
+- [🇳🇱 Imaginarium Festival](https://www.imaginarium-festival.nl/): A fantasy event that's currently undergoing a takeover to restructure themselves into a (non-profit) foundation with the goal to expand. Have stated they will return in 2024. [(source)](https://www.imaginarium-festival.nl/nieuws/52).
+- [🇳🇱 OpaTullyCon](https://www.youtube.com/watch?v=yqhKGBWvyqM): Exclusive convention for boomers.
 
 ####Other Convention stuff
 #####I need help picking a convention that suits me
@@ -102,22 +68,40 @@ This convention agenda focuses on Dutch events but includes some of the more pop
 | **I just want to hang with friends** | **I want to buy merch** |
 | Hanging with friends is something you can do at any convention. If you're looking for something cheap TomoCon and the many TomoFairs will be perfect to hang and entertain each other. Heroes Dutch Comic Con usually has a lot of geek culture fandom/cosplay meetups. | **Anime fans** are best off at Animecon (Regular) which has the largest dealer room. Heroes MIA and TomoFair also offer plenty of dealers which is great if you aren't looking for anything specific. If you are looking for artists Abunai! is definitely the place to go with their large artist alley. **Geeks** are best off at Heroes Dutch Comic Con, but beware of bootlegs.  **Fantasy fans** are best off at Castlefest and Elfia. |
 
+#####Why are there so many similarly named Comic Cons? Are they all the same or what?
+As geek culture took off, multiple groups have been trying to make a profit by hosting geek culture related conventions. While in the US the term “Comic Con” is a registered trademark, the EU deemed “Comic Con” to be too generic. Because of this everyone is allowed to call their event a comic con. This often leads to confusion with visitors thinking 2 different comic cons from different parties are somehow related.
+
+As of writing this segment, there are 3 parties active in the Netherlands who host conventions with “Comic Con” in the title:
+- [Heroes](https://www.heroes.live), by [EasyFairs](https://www.easyfairs.com): Company active throughout Europe. They took over Dutch Comic Con after the original [founder passed away in 2016](https://www.facebook.com/DutchComicCon/photos/a.297628883733264/655821244580691/?type=3). Heroes currently organises *Dutch Comic Con*, *Made In Asia* and *FACTS*. Their reputation is decent with visitors, but declining among dealers and artists due to rising costs and rampant bootleg sales competing with legitimate dealers.
+- [We Love Conventions](weloveconventions.com), (previously *Comic Con Europe* and originally *Showmasters*): Active in the Netherlands and Germany, their events originally started as *Showmasters* events, mostly known in the UK for *MCM*. Later, likely due to Brexit, they went under the umbrella of *Comic Con Europe* and now *We Love Conventions*. Their Dutch events have a poor reputation due to guests not showing up, having little dealers and flat out cancelling conventions a week in advance. Events they organise include *Amsterdam Comic Con*, *Comic Film & Manga Fest* and several German comic cons.
+- [Comic Con Group Belgium](https://comicconbelgium.be/): CCGB branched out to the Netherlands in 2023 with *Holland Comic Con*. The community response was positive, but only time will tell if they can keep their reputation up. Conventions they organise include *Holland Comic Con*, *Comic Con Brussels*, *Elftopia* and *Japan Con Brussels*.
+
 #####What's the deal with commercial and non-profit conventions and why should I care?
 Non-profit conventions are run by foundations that consist entirely of (unpaid) volunteers. These foundations are not allowed to make any profit and as such every euro they receive has to be spent on their convention and/or foundation goal. Foundation goals will typically include the promotion of Japanese or geek culture and investing into the weeb or geek community. As a foundation, they are also required to be transparent about their finances, especially if they have a (cultural) [ANBI status](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/bijzondere_regelingen/goede_doelen/algemeen_nut_beogende_instellingen/wat_is_een_anbi).
 
-Commercial (for-profit) conventions on the other hand are run by a professional team of paid employees. Their main goal is to make a profit to keep their investors and shareholders happy. These conventions will often use unpaid volunteers for lesser tasks, but offer a better volunteer compensation for their time. Between the two there is no "good" or "bad" as both types manage to create appealing conventions with different styles:
+Commercial (for-profit) conventions on the other hand are run by a professional team of paid employees. Their main goal is to make a profit to keep their investors and shareholders happy. These conventions often use large halls with a focus on dealers and special guests. They also use unpaid volunteers for lesser tasks, but offer better volunteer compensation for their time when compared to non-profit conventions.
+
+There is no "good" or "bad" or real competition between them as they both focus on offering a different experience. But just to compare and help make you decide which you prefer to visit or feel alright volunteering for:
 
 | **Non-Profits** | **Commercial/For-Profit** |
 |---|---|
-| Lower entry price | Higher entry price | 
-| Focused more on content and culture | Focused more on size, dealers and special guests |
-| Not allowed to make any profit | Active focus on making a profit |
+| Lower entry price | Higher entry price |
+| Focused more on content, community and culture | Focused more on size, dealers and special guests |
+| Not allowed to make any profit, required to invest all income into their convention| Active focus on making a profit |
 | Cheaper dealer and artist tables | Expensive dealer and artist tables |
 | Fewer visitors (usually up to 12k) | More visitors (usually up to 60k) |
-| Genuine care for community and visitor well-being | Little care for community or visitor well-being |
-| Fully organized and executed by (unpaid) volunteers | Organized by paid staff, executed with help from unpaid volunteers |
+| Fully organised and executed by (unpaid) volunteers | Organised by paid staff, executed with help from unpaid volunteers |
 | Little compensation for volunteers | Better compensations for volunteers |
 
+#####To Volunteer Or To Not Volunteer
+In my personal experience, volunteering is an excellent way to experience conventions in a different way. Not only that, but contributing to the success of a convention offers you a lot of pride and fulfillment. It also grants you a way of meeting new people. If that sounds like something you would enjoy, try volunteering as one of the following functions at conventions:
+- Staffing/Crew: The people working year-round to organise a convention and spend the convention hard at work.
+- Support/Super Gopher: Assistants to staff/crew, performing specialised tasks during the convention and sometimes year-round.
+- Steward: The unsung heroes in charge of visitor safety, crowd control, line management and conflict resolve.
+- Gopher: The other unsung heroes who carry stuff around, prepare event rooms, assist event holders and all kinds of smaller yet necessary tasks.
+Of course, you can also host events or work for a dealer or artist if that's more your thing.
+
+Now, volunteering isn't just all sunshine and rainbows. For example, staffing has you constantly deal with a limited budget, less competent/motivated volunteers draining your energy, ideas not being listened to, and dealing with visitors who are in a dark place or went through a traumatic experience. Stewards are pretty much always understaffed and working overtime. Gophering tends to tougher than most people think and sometimes you are given tasks that just don't fit you at all despite being promised you wouldn't. And of course, your compensation tends to be mediocre at best, especially at the non-profits. Once more, the community and visitors can also be harsh or flat out evil. This is especially true for those with higher functions. I'm not saying you shouldn't care about your visitors, but if you can't compartmentalise or deal with criticism you will have a bad time as staff or crew if your function requires you to deal with visitors.
 
 #####General advice for visiting (Dutch) conventions
 - **For foreigners...** Dutch conventions are typically hosted in English and have plenty of English speaking volunteers available. French and German are often also taught to those in high school, but don't expect any "proper conversations" from the average Henk. The public transport system is extremely reliable in the Netherlands, fully integrated with Google Maps and requires the use of loose tickets or a [OV Chipkaart](https://www.ov-chipkaart.nl/everything-about-travelling/different-types-of-passenger/tourists.htm). Our infrastructure is also friendly towards cyclists and those walking. And finally, if you walk on the red bicycle paths we will run you over to colour the path a deeper shade of red with your blood.
@@ -130,18 +114,21 @@ Commercial (for-profit) conventions on the other hand are run by a professional 
 - **Bring a small EDC kit along.** Powerbank, pain killers, medication, emergency sewing supply, tube of superglue and such are items you can easily fit in your pocket or a small pouch and will save your ass when in a pinch.
 
 ####Thread, Discord and OP things
+#####Why are the threads so slow or dead?
+Simply put, /cgl/ has always been a niche board even by 4chan standards. Around 2018, the mods started banning all instances of dropping (user)names on /cgl/. This change in moderation rendered the discussion of community drama impossible, despite said drama being the main appeal for most users on /cgl/ and acted as a gateway for new people to discover the board and 4chan as a whole. As such, today /cgl/'s daily posts are down by ~80% when compared to 2018 ([source](https://4stats.io/)). Many /cgl/ users have also moved their discussions to private chat groups, Discord servers, [lolcow](lolcow.farm) and the now defunct Pretty Ugly Little Liars ([archive mirror](https://archive.ph/2020.07.25-195450/https://prettyuglylittleliar.net/)).
+
 #####Dutch Gulls Discord
-We have a Discord server [(invite here)](https://discord.gg/QAYNyfY) which is open to anyone to join. However keep in mind 4chan isn't Discord and vice versa. We like to keep things comfy in our little hangout and access to the Discord is a privilege, not a right. Behaving like a toxic prick, manchild, /pol/tard or harassing or targeting members will get you banned. Ban appeals can be performed by email, ban evasion will result in a permaban. 
+We have a Discord server [(invite here)](https://discord.gg/QAYNyfY) which is open to anyone to join. However keep in mind 4chan isn't Discord and vice versa. We like to keep things comfy in our little hangout and access to the Discord is a privilege, not a right. While discussing dramu is allowed, you are expected to keep things civil. Behaving like a toxic prick, manchild, /pol/tard or harassing or targeting members will get you banned. Ban appeals can be performed by email, ban evasion will result in a permaban.
 
 #####Contacting OP
 You can contact me at dutchthreadop \[apenlul\] gmail.com or on Discord.
 
-####What happened to the old duthgulls.nl website?
-I used to run multiple websites on the same hosting package which I got for my private website and email. This meant for each additional site I wanted to add I only had to pay for the domain name. Sadly, the hosting company doubled their prices and changed policies and effective January 1st 2023 requires separate hosting packages for each site. The cost this would add even when moving hosts combined with the drop in use of the site and loss of motivation to keep it updated lead me to decide to cancel it. 2016-2022, it was fun while it lasted!
+#####What happened to the old duthgulls.nl website?
+I've had a hosting package for my personal website for over a decade, and said package allowed me to add an infinite amount of additional domains at the cost of just a domain name.  Sadly, on January 1st 2023 the hosting company doubled the price for a hosting package and limited each package to a single domain name. This meant I would had to spend 4x the original price just for these 2 websites. As the website was just a glorified convention calendar I deemed it unworthy of continuing.
 
-I did download a backup of the site and databases and also had the Internet Archive make one final snapshot before I took the site offline. This snapshot can be found at https://web.archive.org/web/20221215132318/https://dutchgulls.nl/
+If you need to retrieve any information, the Internet Archive has a [full archive of the website](https://web.archive.org/web/20221215132318/https://dutchgulls.nl/) and I made sure to download a full backup of the site in case I ever change my mind. The dutchgulls.nl I kept and simply forwards you to this rentry guide.
 
-##Thread OP copypasta
+#####Thread OP copypasta
 ```
 Previous thread: >>[thread_id]
 >[Recap items go here]

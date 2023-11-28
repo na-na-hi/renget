@@ -1190,7 +1190,7 @@
 	(arakaluto, long hair, red hair, ahoge, butterfly hair ornament, head wings, purple eyes, pointy ears, jewelry, demon girl, fake wings, demon tail, (frilled collar, detached collar:1.2), black sleeveless dress, red dress, (gradient dress, vertical stripes:1.3), black elbow gloves, black footwear)
 -> [MEGA](https://mega.nz/folder/9y1HEJDA#IS4St6Aup0mJTKh0IX4iCg/file/lu9E2BxI) <-
 
-#### -> (Gen1) Hoshifuri Iku <-
+#### -> (Gen 1) Hoshifuri Iku <-
 !!! info 2 Outfits!!
 !!! note Recommended weight: 0.75
 !!! info Example Prompt
@@ -2268,7 +2268,7 @@
 ### -> Amber Glow <-
 -> ![AMBER GLOW](https://files.catbox.moe/cxyj9r.png) <-
 ***
-#### -> (Amber Glow) Xiulan Long <-
+#### -> Xiulan Long <-
 !!! info When prompting her from behind, be sure to add (back tattoo, dragon tattoo:1.3) into the tag, this adds her back tattoo into the output. Horn shape can be RNG since it tries to make them sprout from the sides of the head instead of the top, you can try (asymmetrical horns, mismatched horns, uneven horns) in negatives or adding (curled horns:0.6) if you want
 !!! note Recommended weight: 0.8
 !!! info Example Prompt

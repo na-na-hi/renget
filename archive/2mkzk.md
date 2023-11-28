@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/11/23-23/11/26 (yy/mm/dd)
+##23/11/30-23/12/03 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()** 
-**FRI: Megaman Legends 2 at 3UTC (Parsec)** 
+**FRI: Rock Maiden FC at 3UTC (Parsec)** 
 **SAT: Terranigma at 3UTC (Telemelt)**
-**SUN: Minemelt at 18:30UTC* (Minecraft)** 
+**SUN: Golden SUN: The Lost Age at 19UTC* (Telemelt)** 
 
 ##Cytubes
 

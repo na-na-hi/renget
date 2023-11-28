@@ -5,15 +5,15 @@
 
 !!! info -> [Click here for a compact and organized version of the list!](https://rentry.org/anonstardewmodstldr) <-
 
-Last added mod/update 231121
+Last added mod/update 231128
 Updated Localization Files 230111
 
 **Newest additions:**
 Loli Vincent seasonal portraits, MilkTheVillagers - with Morgan, 
 **Recent updates:**
-Morgan marriage mod (230719), Trinnie marriage mod (230429), Cat Ashley (230321), Mouse Jas marriage portraits (230321), Trinnie marriage mod (230223), Improved Trinnie (230429), Anthro Morgan (230209), Ashley and Spooky mod, Shota Harvey, Leo to Kuruminha, Loli Leah megapack, Anon's Functional Modpack,
+Anon's dialogue edits (231128), Morgan marriage mod (230719),
 **Recent reuploads**
-Jas marriage mod (230929), Trinnie marriage mod (221127), Slime Girls (221127), Pearl and Phoenix portraits (221127), Improved Trinnie (221103), Hot Pam 1.5 (221020), Oppai Valley (221020), Horny Girls of Stardew Valley (221020)
+Jas marriage mod (230929),
 
 ->[\[Jump to the bottom\]](https://rentry.org/anonstardewmods#mod-recommendations)->
 
@@ -59,10 +59,17 @@ https://files.catbox.moe/beek85.zip
 ![Image description](https://files.catbox.moe/d7wu8e.png)
 "Here's the Vincent NPC Adventures mod, hope his +1 speed and +100 max stamina buffs prove to be useful. If there's any issues report back and don't forget to protect the potato."
 https://files.catbox.moe/gjuqjb.zip
->(CP) Anon's dialogue edits
+
+>(CP) Anon's dialogue edits **(Updated)** 231128
 ![Image description](https://files.catbox.moe/5621vm.png)
-https://files.catbox.moe/1t1ggy.7z - For SVE. Edited out Morgan's retarded pronoun AIDS and removed almost all of Sophia's annoying stuttering + "silly" nickname.
-https://files.catbox.moe/aw0wlf.7z - For Ridgeside. Edited out the troon shit.
+>Ridgeside Village:
+Sean is an infertile dude now, Lenny is straight, Jeric doesn't hit on you, Belinda/Raeriyala lesbomancy toned down
+>Stardew Valley Expanded:
+Morgan is a girl, Sophia doesn't stutter or use silly as nickname, Scarlett's fag dads are now really close friends.
+Also includes a version without the Sophia changes if you like annoying stuttering.
+Requires the original mods. Updated for SVE 1.14.24 & RSV 2.5.3.
+https://files.catbox.moe/2rrlw9.7z
+
 >Leo to Kuruminha mod **(Updated)** 221224
 ![Image description](https://files.catbox.moe/q2u1qm.png)
 Update adds missing kiss and flower dance sprites and fixes her loli version's breathing animation. Turns Leo into Kuruminha. Mod has adult and loli version (change with Generic Mod Config, adult by default), dialogue is pretty much the same but with changed name and pronoun. Report back if there's any missed dialogue changes. Some extra portraits are included in case anyone wants to make her a standalone NPC.

@@ -466,6 +466,7 @@ SD Version | Image | Description
 XL | ![Image](https://files.catbox.moe/360sev.jpg) | ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
 1.5 | ![Image](https://files.catbox.moe/m1rpco.jpg) | いつも通り破綻だらけ
 XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5より良い。素晴らしい。　　　　　　　　　　　　　　　　　　　　　　　　　-
+Animagine-XL-2.0 | ![Image](https://files.catbox.moe/5bb5z9.jpg) | 💯💮
 
 
 ### 画風
@@ -475,7 +476,7 @@ SDXL Checkpoint | Image | Description
 kohakuXL | ![Image](https://files.catbox.moe/aq490s.jpg) | 
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/1qrb6c.jpg) | 画風は近いけど品質が・・・
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/jp5b77.jpg) | 品質低下を抑えつつある程度変わった
-kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | XLもヘイローは得意ではない模様。なぜミカのヘイローはある程度できるのに比較的単純な形状のナギサはできないのか。とはいえ極端な破綻をする1.5よりははるかにマシだが。追記:checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
+kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | ゴミ。SD1.5のほうが圧倒的にマシ。
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | やっぱり学習モデルはSDXL Baseじゃないとダメやね
 

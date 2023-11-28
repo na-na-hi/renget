@@ -26,6 +26,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Julien](https://files.catbox.moe/gqpvdk.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png)|
+[Candymint23](https://rentry.co/candymint23) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
@@ -39,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
-[Candymint23](https://rentry.co/candymint23) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||

@@ -4,6 +4,7 @@
 ***
 !!! warning Quick Update (11/28/23)
 	**Updated a few placements**
+	**Added some comments to a few of the more prominent complaints**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -17,17 +18,18 @@
 ***
 ## -> Production Kawaii <-
 !!! info Available Loras without the need of updates and have been tested.
-	Reina Sun, Nene Amano, Charlotte Suzu, Isla Coleman, Namiji Freesia, Shee Icho, Lua Asuka, Aletta Sky, Peony Aeria, Miryu Kotofuji, Aruru Gray
+	Reina Sun, Nene Amano, Charlotte Suzu, Isla Coleman, Namiji Freesia, Shee Icho, Aletta Sky, Peony Aeria, Miryu Kotofuji, Aruru Gray
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Hana Flores | - | - | -
-Neena Makurano | - | - | -
-Sava Safari | X | X | -
-Oceane Otoishi | - | - | -
-Yuno Hanaki | - | - | -
-Ran Tsukiha | - | - | -
-Kaya Nishikino | - | - | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Hana Flores | - | - | - | -
+Neena Makurano | - | - | - | -
+Lua Asuka  | X | X | - | Current One is decent but really likes making her hair completely blonde that I'm just gonna mark it for fixing kek
+Sava Safari | X | X | - | Slightly fried
+Oceane Otoishi | - | - | - | -
+Yuno Hanaki | - | - | - | -
+Ran Tsukiha | - | - | - | -
+Kaya Nishikino | - | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -35,7 +37,7 @@ Kaya Nishikino | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Fuura Yuri | X | X | -
+Fuura Yuri | X | X | - | Fried as all hell, please make a new one if you can.
 Remilia Nephys | X | X | -
 Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
@@ -63,9 +65,9 @@ Matara Kan  | X | X | - | Early bakes weren't perfect (ex. Her antennae turn int
 !!! info Available Loras without the need of updates and have been tested.
 	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana, Matsuro Meru, 
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Inukai Purin | - | - | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Inukai Purin | - | - | - | YOU CANT TAUNT ME WITH A PURIN LORA AND NOT GIVE IT TO ME SIR, DONT THINK I DIDNT SEE IT.
 Hoshino Charlotte | - | - | -
 Umiushi Urara | - | - | -
 Yazaki Kallin | - | - | -
@@ -81,9 +83,9 @@ Tetsuya Kazune | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Miyoshino Shiki, Nagare Sara, Amami Ami, Oumiya Emma, Tsubame Kou, Nana Asteria, Hoshifuri Iku, Tokimori Aoi, Ibuki Meno, Kamishiro Rita, Araka Luto, Suzune Nia, Rikudou Yura, Kamizuki Naki, Non Anon, Ushio Sumi, Shikami Lana, Mako Sameshima V2 
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Pengin Pina | X | X | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Pengin Pina | X | X | - | Hair struggles and sleeve struggles mostly, otherwise its fine.
 Akane Jun | - | - | -
 Kitashiro Yuki | - | - | -
 Mako Sameshima V1 | - | - | -
@@ -100,8 +102,8 @@ Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updat
 !!! info Available Loras without the need of updates and have been tested.
 	Amano Pikamee, Hikasa Tomoshika, Jitomi Monoe, Haneuzu Miuneru
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Daimonji Ryugon | - | - | -
 Zengaku Sanparo | - | - | -
 Uemine Noruju | - | - | -
@@ -111,8 +113,8 @@ Michimata Batoya | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra, Tsukinoki Tirol, Kazami Kuku,
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Inaba Haneru | - | - | -
 Souya Ichika | - | - | -
 Hinokuma Ran | - | - | -
@@ -158,17 +160,17 @@ Nanimo Navi | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto, Shiranami Ramune
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Yumeno Akari | X | - | X
-Yano Kuromu | - | - | -
+Yano Kuromu | - | - | - | poor ccc anon, you just made akari and then they announce a new one is joining..
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Hizuki Miu | X | X | -
 Nemurime Charo | - | - | -
 Kumaboshi Mahiru | - | - | -
@@ -212,8 +214,8 @@ Tenrai Calvus | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Domyoji Cocoa
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Matsunaga Iori | - | - | -
 Sumeragi Miona | - | - | -
 Ashizawa Saki | - | - | -
@@ -224,8 +226,8 @@ Nagase Yuka | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Otodama Tamako
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Sakuragi Miria | - | - | -
 Yumesaki Kaede | - | - | -
 Domyoji Haruto | - | - | -
@@ -247,8 +249,8 @@ Minazuki Natsuki | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Kaf, Rim, Harusaruhi, Isekaijoucho, Koko
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Valis Chino | - | - | -
 Valis Myu | - | - | -
 Valis Neffy | - | - | -
@@ -260,8 +262,8 @@ Valis Vitte | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Hizuki Yui, Konkon Aria, Yozuna Niu, Tentei Forte
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Shibuya HAL | - | - | -
 Shirayuki Reid | - | - | -
 Aruse Inu | - | - | -
@@ -279,8 +281,8 @@ Hiiragi Tsurugi | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Shiratama Utano
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Ohga Ruki | - | - | -
 Kohaku Nuino | - | - | -
 Hoshii Mikuri | - | - | -
@@ -291,8 +293,8 @@ Momotsuki Hagu | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	浠Mizuki (MizukiVtuberTW)
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 汐Seki (SekiVtuberTW)  | - | - | -
 KSP channel (KSPKSP01) | - | - | -
 響 Hibiki (HibikiVtuberTW) | - | - | -
@@ -304,8 +306,8 @@ KSP channel (KSPKSP01) | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Hanakumo Rin, Koinoya Mai
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Amanohoshi Chiroru | - | - | -
 Hal Rayon Vert | - | - | -
 Shiduki Sena | - | - | -
@@ -328,8 +330,8 @@ Sakuya Azusa | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Shishigami Leona | X | X | -
 Mizugame Mia | - | - | -
 Sumeragi Rose | - | - | -
@@ -382,8 +384,8 @@ Kuryu Isana | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Dennou Shojo Siro, Yamato Iori
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Merry Milk | - | - | -
 Carro Pino | - | - | -
 Mokota Mememe | - | - | -
@@ -404,8 +406,8 @@ Nanahoshi Milily | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Aki Rinco, Xingxi Seki, Li Dousha, Kaoru
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
 Kurenai Akane | - | - | -
 Ayana Nana | - | - | -
 Shirakami Haruka | - | - | -
@@ -432,9 +434,9 @@ Natsu Tsurugi | - | - | -
 !!! info Available Loras without the need of updates and have been tested.
 	Alchemilla Menace, Inami Yoki
 
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Ayame Hylo | - | - | -
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Ayame Hylo | - | - | - | Agency version preferably but anything goes.
 Kurohana Inori | - | - | -
 Iekushi Chapipi | - | - | -
 Utano Pandora | - | - | -
