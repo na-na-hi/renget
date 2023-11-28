@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>Waking up Ukrainians 
+https://files.catbox.moe/f927e1.MP4 
+>homemade remote-controlled PKT MG 
+https://files.catbox.moe/xvx2iw.MP4 
+>Orban on the current situation of the war 
+https://files.catbox.moe/zvvtgx.mp4 
+>Russians saving injured Ukrainian 
+https://files.catbox.moe/5vackl.mp4 
 >The 70th Guards Motorized Rifle Regiment 42 holds the defense of the front section entrusted to it together with neighboring units of the Russian Army
 https://files.catbox.moe/smz87i.mp4
 >The now-captured Avdeevka industrial zone

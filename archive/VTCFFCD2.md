@@ -29,3 +29,7 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [31 Days With Bae](https://docs.google.com/document/d/e/2PACX-1vTGG7X5Hyxqs2rg9VtVMqaCw12LxR2-gAWbQXwfguKlIWWea_bj1k_-COs6pWBV7zYp06-A1zFQkhH1/pub) (Hakos Belz, SFW, Fluff, Small Cameos)
 [Living on The Edge](https://docs.google.com/document/d/e/2PACX-1vTvbrL_LfcfPIGRPS_Fbgs--7nxIt7h7jJDE12w41p5HaRAf9A7uavEOvDeBofPjqwzyWwxIr7-ivw8/pub) (Ceres Fauna, NSFW, Masturbation)
 (***Series link***) [Fantasy/High](https://rentry.co/VTCFFSS#fantasyhigh) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)
+[Meat is Murder](https://rentry.org/t9nz5c) (Mumei, Fauna, SFW, Chuuba Abuse, Forced Cannibalism)
+[A Cozy Evening in the Fox Hole](https://rentry.org/w5esx2) (Fubuki, NSFW)
+[Hawk's Wedgie Perch](https://rentry.org/tizvp) (Lui, NSFW, Wedgie Fetish, Greentext)
+[Kiara Sits On Your Face](https://rentry.org/fze77) (Kiara, NSFW, Femdom, Smell Fetish)

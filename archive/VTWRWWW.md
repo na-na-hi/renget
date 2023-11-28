@@ -23,7 +23,7 @@ This is *still* a board-wide fanfiction writing contest hosted by /wg/. Though t
  * Tragedy
  * Fluff
  * Action
- * Under 5k (Tag if the fic you're submitting is under 5,000 words; **I will be verifying this via word-counter**, )
+ * Under 5k (Tag if the fic you're submitting is under 5,000 words; **I will be verifying this via word-counter**, though if you submit a short fic without the tag I'll ask and tag in the under 5k tag for this archive if you want your fic to enter.)
 5. If you've already published your fic anywhere else prior to the contest period, it is not eligible to enter the contest. *Yes this means something like Tower of Tattle would have been allowed but not say a fic you published in ao3 back in 2020.*
 
 #####*How do I submit my story?*

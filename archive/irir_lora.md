@@ -475,7 +475,7 @@ SDXL Checkpoint | Image | Description
 kohakuXL | ![Image](https://files.catbox.moe/aq490s.jpg) | 
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/1qrb6c.jpg) | 画風は近いけど品質が・・・
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/jp5b77.jpg) | 品質低下を抑えつつある程度変わった
-kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | XLもヘイローは得意ではない模様。なぜミカのヘイローはある程度できるのに比較的単純な形状のナギサはできないのか。とはいえ極端な破綻をする1.5よりははるかにマシだが。　　　　　　　　　　　　　　　-
+kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | XLもヘイローは得意ではない模様。なぜミカのヘイローはある程度できるのに比較的単純な形状のナギサはできないのか。とはいえ極端な破綻をする1.5よりははるかにマシだが。追記:checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | ゴミ。SD1.5のほうが圧倒的にマシ。
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | やっぱり学習モデルはSDXL Baseじゃないとダメやね
 
@@ -530,11 +530,79 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 
 - 学習
 学習モデルは秘伝のタレ(非公開モデル)。
+学習が終わったら仕上げにメモリアルの画像を学習->マージを二回繰り返す。
 
 学習設定:
 `SD1.5, Dim:128, Alpha:24, 解像度:768, バッチサイズ:5, オプティマイザ:Adamw8bit, LRスケジューラ:constant、constant_with_wamupまたはcosine_with_restart, C3Lier(LoCon), cache_latents, gradient_checkpointing`
+### 結果
+解像度はいずれも640x896。
+TurquoiseMix_v0.9が学習元、Turquoise_finalが最終epochでTurqoiseが仕上げ後。
+`Prompt: "1girl, solo, yuuka \(blue archive\), outdoors, hands up, upper body, blue sky" Negative prompt: "worst quality, lowres"`
+![Image](https://files.catbox.moe/iyjuxq.webp)
+指が良くなった・・・？
 
-学習中...	記事は後日更新予定
+`Prompt: "1girl, solo, masterpiece, absurdres, mika \(blue archive\), pink hair, single hair bun, long hair, halo, yellow eyes, outdoors, looking at viewer, town, smile, coat, blurry background" Negative prompt: "worst quality, lowres"`
+![Image](https://files.catbox.moe/37jngt.webp)
+
+`Prompt: "1girl, solo, masterpiece, absurdres, forest, looking at viewer, rio \(blue archive\), halo, dress, light rays, upper body" Negative prompt: "worst quality, lowres, no humans"`
+![Image](https://files.catbox.moe/gwbyki.webp)
+
+`Prompt: "1girl, solo, absurdres, looking at viewer, haruka \(blue archive\), halo, beach, blue sky, upper body" Negative prompt: "worst quality, lowres, no humans, nude"`
+![Image](https://files.catbox.moe/2rkgfx.webp)
+マイナーキャラ(データセット内に186枚)なのに意外と反応してる
+
+学習初期は品質が低下するが後期は改善。
+...実際には品質がブレまくって扱いづらい。プロンプトを盛らないと安定しない印象がある。
+
+枚数の多いキャラは名前だけで出る。
+シャープネスが向上してフィルムグレインが発生するようになった。
+
+#### Checkpointのマージでブレの抑制
+品質のブレが激しいため、MBWを用いて別の秘伝のタレを混ぜた。[レシピ](https://files.catbox.moe/whypra.webp)
+TurquoiseMix_v1.2がマージ元、Turquoise_finalが最終epochで、Turqoiseが仕上げ後、Turquoise_aがマージ後。
+`Prompt: "1girl, masterpiece, absurdres, hoshino \(blue archive\), smile, outdoors, day, halo, heterochromia, looking at viewer" Negative prompt: "worst quality, lowres"`
+![Image](https://files.catbox.moe/czk63j.webp)
+
+`Prompt: "1girl, masterpiece, absurdres, karin \(blue archive\), dark-skinned female, yellow eyes, halo, kimono, new year, blurry background, outdoors, looking at viewer" Negative prompt: "worst quality, lowres"`
+![Image](https://files.catbox.moe/9yconu.webp)
+
+`Prompt: "1girl, masterpiece, absurdres, asuna \(blue archive\), shirt, summer, blue sky, popsicle, holding, smile, outdoors, cloud" Negative prompt: "worst quality, lowres, nude, sex"`
+![Image](https://files.catbox.moe/w27tm5.webp)
+
+`Prompt: "1girl, masterpiece, absurdres, hanako \(blue archive\), pink hair, green eyes, halo, shirt, summer, blue sky, popsicle, holding, smile, outdoors, cloud" Negative prompt: "worst quality, lowres, nude, sex"`
+![Image](https://files.catbox.moe/1ttccf.webp)
+
+キャラの再現度を落とさずに品質が改善した。
+
+### まとめ
+LoRA無しで多くのブルアカキャラを出せるようになったが品質が安定せずなんとも言えない微妙な結果になった。NSFWに至ってはグレースケール化連発か破綻で使い物にならない。指も改善した気がする程度。
+学習元を変えるかハイパーパラメータを調整するべきかな。
+
+~~学習元がきれい(小並感)~~
+おまけ: データセット内で登場頻度の高いキャラTOP20
+``` text
+ユウカ(2364)
+アスナ(2301)
+シロコ(1722)
+トキ(1637)
+コハル(1597)
+リオ(1455)
+ハナコ(1387)
+ホシノ(1258)
+ヒナ(1240)
+キサキ(1235)
+カリン(1162)
+イチカ(1135)
+ミカ(1129)
+アロナ(1122)
+アリス(1096)
+ミユ(1094)
+ハスミ(1059)
+プラナ(969)
+マリー(937)
+ウイ(788)
+```
+
 
 ***
 

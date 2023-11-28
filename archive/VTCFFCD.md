@@ -1,17 +1,14 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/4rop19.png)<-
+->![Funny](https://files.catbox.moe/h7lymb.png)<-
 
-## ->🎃[Recently added to the archive: 11/21/2023](https://youtu.be/WCl7mShf8TY)🍂<-
+## ->❄️[Recently added to the archive: 11/28/2023](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
-->
-(***Series Entry!***) [HoloFantasy - Chapter 7, Pt. 8 (END) ~ An Earnest Plea](https://docs.google.com/document/d/e/2PACX-1vTEzwvpmgFW1ZmK90mpalNhmvWuK1nO3tVi7yWBl603nGBufXOsOn3PmYu4Zlx9KKL2N87Q7wYZYkFk/pub) (Coco, Polka, Fubuki, Marine, Kanata, Ina, Yagoo, SFW, Fluff, Fantasy Adventure, Arc End)
-(***Series Entry!***) [Fantasy/High Chapter 1](https://docs.google.com/document/d/e/2PACX-1vRWSae9rmYbCf7aLE_bkwvRDAYiPSCbD7oWUt2zj29hsO54JrPStq6MliGP2psL_Biodl-f8ylfwxG0/pub) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)
-[Shiori Wife Story](https://rentry.co/26n6ot) (Shiori, SFW, Fluff/Romance)
-[31 Days With Bae](https://docs.google.com/document/d/e/2PACX-1vTGG7X5Hyxqs2rg9VtVMqaCw12LxR2-gAWbQXwfguKlIWWea_bj1k_-COs6pWBV7zYp06-A1zFQkhH1/pub) (Hakos Belz, SFW, Fluff, Small Cameos)
-[Living on The Edge](https://docs.google.com/document/d/e/2PACX-1vTvbrL_LfcfPIGRPS_Fbgs--7nxIt7h7jJDE12w41p5HaRAf9A7uavEOvDeBofPjqwzyWwxIr7-ivw8/pub) (Ceres Fauna, NSFW, Masturbation)
-<-
+->[Meat is Murder](https://rentry.org/t9nz5c) (Mumei, Fauna, SFW, Chuuba Abuse, Forced Cannibalism)
+[A Cozy Evening in the Fox Hole](https://rentry.org/w5esx2) (Fubuki, NSFW)
+[Hawk's Wedgie Perch](https://rentry.org/tizvp) (Lui, NSFW, Wedgie Fetish, Greentext)
+[Kiara Sits On Your Face](https://rentry.org/fze77) (Kiara, NSFW, Femdom, Smell Fetish)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-

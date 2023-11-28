@@ -233,6 +233,7 @@
 10/2023|[SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)
 10/2023|[Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents](https://arxiv.org/abs/2310.19923)
 11/2023|[Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919)
+11/2023|[UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -437,6 +438,7 @@
 11/2023|[Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 11/2023|[MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](https://arxiv.org/abs/2311.11501)
 11/2023|[LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](https://arxiv.org/abs/2311.12023)
+11/2023|[Token Recycling for Efficient Sequential Inference with Vision Transformers](https://arxiv.org/abs/2311.15335)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

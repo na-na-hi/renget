@@ -26,13 +26,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Julien](https://files.catbox.moe/gqpvdk.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png)|
-[JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Argalia](https://rentry.org/gayanon) | Malebots ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
+[JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||

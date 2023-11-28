@@ -28,7 +28,7 @@ Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)
 Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
 Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
 Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
-
+Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch.tv/grimmivt
 
 ---
 #Unofficial Vod Archives 
