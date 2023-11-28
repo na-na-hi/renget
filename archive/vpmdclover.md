@@ -110,6 +110,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2)
 	* [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
 	* [Team Moonshine: Troubled Sleep (pt. 1) (ft. Adrian)](https://rentry.org/moonshinesleep1)
+	* [Team Moonshine: Troubled Sleep (pt. 2) (ft. Adrian)](https://rentry.org/moonshinesleep2)
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -531,6 +532,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Sterling's Purpose ch. 7](https://rentry.org/933py)
 * [Team Moonshine: Troubled Sleep (pt. 1) (ft. Adrian)](https://rentry.org/moonshinesleep1)
 * [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
+* [Team Moonshine: Troubled Sleep (pt. 2) (ft. Adrian)](https://rentry.org/moonshinesleep2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

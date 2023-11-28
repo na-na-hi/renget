@@ -287,6 +287,8 @@ https://rentry.org/weirdbutfunjailbreaksandprompts
 https://rentry.org/jinxbreaks
 - collection of jailbreaks to set the tone of a roleplay
 
+Another entertaining [/aicg/](https://boards.4channel.org/wsg/catalog#s=aicg)
+
 ##### ~Tech stuff~
 https://github.com/CncAnon1/TurboFinetuneRP
 - how to fine-tune gpt-3.5-turbo-0613 for roleplay

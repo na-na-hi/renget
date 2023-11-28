@@ -2,10 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/22/23)
-	**Gonna move Artemis of the Blue to Atelier Live, Elia Stellaria and Mozumi Pichi to V-Dere next LoRA Rentry update, they are in the indies section for now.**
+!!! warning Quick Update (11/28/23)
 	**Updated a few placements**
-	**Added upcoming Phase Connect chuubas and Added (X) indicator to corpos that are either fully complete or completed until new members are announced**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -162,7 +160,8 @@ Nanimo Navi | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Yumeno Akari | - | - | -
+Yumeno Akari | X | - | X
+Yano Kuromu | - | - | -
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -855,7 +854,7 @@ Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Karen von Nachtigall | - | - | -
 Meena Caleano | - | - | -
-Taya Rex | - | - | -
+Taya Rex | X | - | X
 
 ## -> PixelLink (X) <-
 !!! info Available Loras without the need of updates and have been tested.

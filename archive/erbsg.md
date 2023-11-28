@@ -49,7 +49,6 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1566 (Twitch Drops, ~11/30)
 https://event.playeternalreturn.com/newcharacter/Leni (Play as Leni Event, ~12/6)
 https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
 

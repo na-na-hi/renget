@@ -45,6 +45,7 @@ https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
 >DAY 1: >>91045750
 >DAY 2: >>91051656
 >DAY 3: >>91059073
+>DAY 4: >>91070426
 ```
 ***
 Page 2
@@ -537,8 +538,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Recharging.
-
+>Sticky Situation (Yamata):
+https://rentry.org/bnihv
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -666,6 +667,8 @@ https://rentry.org/eesb8
 >>90978093
 >Katsumi Hachizaki:
 https://rentry.org/HeartMHA
+>Cormelia Busujima
+>>90978639
 
 >PRO HEROES
 >U.A. Teachers:
@@ -1034,8 +1037,10 @@ https://rentry.org/bwr7m5
 https://rentry.org/mcagp
 >In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
 >https://rentry.org/i8rd9
-The Most Complex Piece Anon Has Ever Written? (3-B)
+>The Most Complex Piece Anon Has Ever Written? (3-B)
 https://rentry.org/at8vz
+>Sticky Situation (Yamata):
+https://rentry.org/bnihv
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

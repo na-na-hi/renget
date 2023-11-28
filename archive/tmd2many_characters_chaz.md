@@ -84,7 +84,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3. Dense Rock | Does 2 true damage to a target, is lobbed.
+3.  | 
 4. 
 
 **STORAGE (2 slots)**

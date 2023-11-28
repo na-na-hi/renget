@@ -44,7 +44,7 @@
 >
 !!! Note Impersonation
 >[Write your NEXT reply in first-person ONLY as {{user}}, adhering to the instructions provided in <META>. Avoid narrating, acting, speaking, or thinking on behalf of {{char}}. Avoid purple prose. Omit schizo ramblings. Limit your reply further to only 25 words. Start the next reply with the following: '...']
-!!! Note Author's Note (In-chat @ Depth 2) [?](https://files.catbox.moe/auj234.png)[!](https://arca.live/b/characterai/86469978)
+!!! Note Author's Note (In-chat @ Depth 2) [?](https://files.catbox.moe/b47v4b.png)[!](https://files.catbox.moe/zp5qhw.png)[?](https://files.catbox.moe/auj234.png)[!](https://arca.live/b/characterai/86469978)
 >[{{user}} is schizophrenic and hears voices inside their head. In between {{char}}'s next reply, insert long schizo ramblings in bold capital letters **LIKE THIS**, that can only be heard by {{user}}. The voices inside {{user}}'s head will often encourage {{user}} to do weird, out of place, and inappropriate things. They will also comment on <Persona>. Nobody but {{user}} can hear these thoughts. Also, at the very bottom of the reply, provide 4 choices for {{user}} to take in continuing the plot and conversation forward, using the following format:
 >___
 >```

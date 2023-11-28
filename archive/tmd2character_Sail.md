@@ -61,11 +61,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 Attributes | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | 3/3 | ▮▮▮
+Attribute: Foraging | Tier **ɪ** (+1) | 1/3  | ▮▯▯
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Foraging | Tier **ɪ** (+1) | 2/3  | ▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

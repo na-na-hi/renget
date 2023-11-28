@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7673892/](https://boards.4chan.org/h/thread/7673892/)**&nbsp;&nbsp;&nbsp;&nbsp;(25.11.2023 14:11)&nbsp;#&nbsp;Why the fuck it's set to roastie by default? Edition!
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7679196/](https://boards.4chan.org/h/thread/7679196/)**&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 07:20)&nbsp;#&nbsp;GREG TIME Edition!
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,6 +9,7 @@
 ---
 
 ##&nbsp;->2023<-
+- 656&nbsp;&nbsp;[archiveofsins.com/h/thread/7679196/](https://archiveofsins.com/h/thread/7679196/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 07:20)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;GREG TIME Edition!
 - 655&nbsp;&nbsp;[archiveofsins.com/h/thread/7673892/](https://archiveofsins.com/h/thread/7673892/)&nbsp;&nbsp;&nbsp;&nbsp;(25.11.2023 14:11)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Why the fuck it's set to roastie by default? Edition!
 - 654&nbsp;&nbsp;[archiveofsins.com/h/thread/7667911/](https://archiveofsins.com/h/thread/7667911/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;&nbsp;[852]&nbsp;#&nbsp;Chika Host of The Nightmare Edition
 - 653&nbsp;&nbsp;[archiveofsins.com/h/thread/7661373/](https://archiveofsins.com/h/thread/7661373/)&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;&nbsp;[881]&nbsp;#&nbsp;Losers Edition!

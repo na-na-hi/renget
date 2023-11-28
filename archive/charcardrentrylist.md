@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Karmin](https://files.catbox.moe/kwnf8z.png), [Chase](https://files.catbox.moe/rzxz7z.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png)|
@@ -67,7 +68,6 @@ Botmaker | Category | New Bots | Updated Bots
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||
 [Horcocks](https://rentry.org/horcocks) | Fantasy/Sci-fi ||
-[Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Norquinal](https://rentry.org/norquinal/) | Mostly furry ||
 [Honeyanon](https://rentry.org/honeyanon) | Malebots ||
 [Scrmgn](https://rentry.org/scrmgn) | Misc ||
