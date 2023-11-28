@@ -43,7 +43,6 @@
 
 ## Guides
 * [/lcg/ Guide](https://rentry.org/lcbguide)
-* [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
 * [Anon's RR2 150 Turn Guide](https://rentry.org/b29eu)
 * [Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 * [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
@@ -137,6 +136,7 @@
 * [Outis/Binah VA Twitch](https://www.twitch.tv/miggang_ster)
 
 ## Outdated & Abandoned
+* [The Totally Definitive MD2 Hard Guide](https://docs.google.com/document/d/1zi5xzaOvngYJc3htwqN1MsngJu6QDu8kf3RFQiPn0As)
 * [Yet Another Limbus Company Tier List](https://null-machine.github.io/limbus-company-roll-analyzer/)
 * [The Totally Definitive Sub-120 Railway Guide](https://docs.google.com/document/d/1v3RiEDxIe9uPXU15RlnNfoQxTMyXHYvBAC8E8RCxH2M)
 * [The Totally Definitive Hell's Chicken Speedfarming Guide](https://docs.google.com/document/d/14nrxByHC45Wi8nRVaMZAxQ37r3dz7ykn9YUYswBUwW0)
@@ -168,5 +168,6 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/31/23: Made separate section for Q&As and interviews, added more links.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
 11/10-11/23: Added Limbus Company Unused Cutscene link. Added A Better Tutorial for Limbus Company link.
-11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive.
 11/15/23: Updated PMkots archive. ![헤](https://files.catbox.moe/207ryd.png)
+11/27/23: Moved MD2H link to outdated section. ![lol&](https://files.catbox.moe/7dmu76.png)

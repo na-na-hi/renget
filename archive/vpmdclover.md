@@ -27,6 +27,7 @@ Beast | M | Munchlax | N/A | Clover Guild Native Chef | [Serious](https://rentry
 N/A | M | Phanpy | Cyndaquil (M, Human), Torchic (F, Human) & Totodile (M, Human) | Clover Guild Member | [Serious](https://rentry.org/vpmdcloverpb#phanpy-and-pals)
 N/A | M | Chespin | Wooper (M, Native) | Clover Guild Chief of Cozy | [Quiet](https://rentry.org/vpmdcloverpb#chespinwooper)
 Ross | M | Smeargle | N/A | Clover Guild Member | [Insomniac](https://rentry.org/vpmdcloverpb#ross)
+Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
 N/A | M | Togetic | Dewott (M, Human, Former Partner) | Clover Guild "Secret" Quartermaster | [Timid](https://rentry.org/vpmdcloverpb#togetic)
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | A-Vulpix | Sandshrew (Cassie, F, Native) & Fletchling (Bean, M, Human) | Clover Guild Native Member/Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
@@ -47,11 +48,11 @@ Maxi | M | Trubbish | Joltik (Maddi, F, Native) | Clover Guild Member | [???](ht
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
 Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
-Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrian)
+Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
+Yung | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#yungsara)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
-Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.org/vpmdcloverpb#tybo)
 N/A | F | Minun | Raichu (M, Native) | Clover Guild Gardener/Bounty Hunter | [Jolly](https://rentry.org/vpmdcloverpb#minunraichu)
 Charm/Smokey | F | Charmander | Natu (M, Native) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmnatu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle, Native) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
@@ -243,6 +244,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6)
 	* [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4)
 	* [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1)
+	* [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -528,6 +530,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Sterling's Purpose ch. 6](https://rentry.org/thu62)
 * [Sterling's Purpose ch. 7](https://rentry.org/933py)
 * [Team Moonshine: Troubled Sleep (pt. 1) (ft. Adrian)](https://rentry.org/moonshinesleep1)
+* [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -20,13 +20,12 @@ Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Karmin](https://files.catbox.moe/kwnf8z.png), [Chase](https://files.catbox.moe/rzxz7z.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
-[Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png), [BD-564](https://files.catbox.moe/0mmg7t.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png)|
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[Shy Guy](https://files.catbox.moe/jn7sxp.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc |[Julien](https://files.catbox.moe/gqpvdk.png)|
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink |[Sidney](https://files.catbox.moe/qbgteh.png)|
 [JumboRanch](https://rentry.org/jumboranch) | Furry |[Alexis](https://files.catbox.moe/scj7jp.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Lucette](https://files.catbox.moe/ch4jfl.png)|
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
@@ -34,6 +33,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
+[Luneose](https://rentry.org/luneose) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||

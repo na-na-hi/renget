@@ -11,9 +11,10 @@ dni -16 or zionist kys
 ``` python
 ♥︎ football movies reading f1
 chn48 bandori nugu ggs etc
-* kpop & football centered
+* kpop & football centered *
 ```
  
-`
-more interests listed
-` [here](https://rentry.co/sulIi)
+``` python
+i really tweet about whatever :3
+may go ia often ... priv @lulumeion 
+```

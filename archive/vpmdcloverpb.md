@@ -274,6 +274,9 @@ Ross (M), Smeargle
 >Ability: Insomnia (probably)
 >Moves: Sketch (hasn't figured it out yet)
 
+###Tybo
+>Tybo is a male Skitty, native to the pokemon world. Prior to his entry into the Clover Guild, he was an isolationist living alone in a cabin in an arctic area. He’s pretty greedy, and tends to loot “abandoned” places he finds and sells them. He never steals anything where there are people around and doesn’t like stealing from someone unless he sees them as a shitty person or if the place is abandoned, or just in a general state of chaos where someone stealing another’s belongings is of least concern. He tends to not think too much ahead and acts in the moment, he’s also really lucky when it comes to staying out of trouble, he most goes with the flow and silently observes whatever drama is going down at the moment, although he never gossips about it and keeps all his knowledge to himself. Tybo isn’t very malicious, but he’s far from being an angel.
+
 ###Togetic
 [Togetic personality in full (Read This)](https://rentry.org/w4ygz)
 >Extremely shy and tends to keep to himself. Can get easily flustered if pulled into a conversation or is in a crowded area with a lot of noise. However will always lend a helping hand when asked, unless the request is joining an adventuring team, in which case he needs heavy convincing to join. Can be seen as cold by other guild members due to how he avoids interacting with people, but he does care about keeping his fellow guild members safe and healthy. Terrified of being on adventuring teams due to his incompetence and clumsiness in fights, and also always has bad luck with using metronome.
@@ -485,12 +488,15 @@ Biography generated!
 ###Taslean
 >This is Taslean, he was possessed by a ghost Pokémon during a mission. Some shit I haven't thought of yet happened and now the ghost can't leave, so both consciousnesses share the same body.
 
-###Adrian
+###Adrian/Enny/Vileplume/Bellossom
 >Usually pretty chill, but he has a lot of pent up rage that bursts out on occasion.
 >He's very easily pissed off by people. He doesn't usually yell, but he'll pop snide remarks and give glares to show his distaste for something or someone.
 >While he might come off stand offish, he really does care about people deep down.
 >He just pushes most people away out of fear. His nature really shows when people get close to him. He's bad at expressing any feelings besides his anger
 >He's got a satchel and a defense scarf right now. Mostly because I like the design personally.
+
+###Yung/Sara
+[See linked](https://arch-img.b4k.co/vp/1701020936661.png)
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
@@ -521,9 +527,6 @@ TL;DR greentext below
 ###Sterling
 Q&A Page: https://forms.gle/VLm5RHZBhoadTD7u5 *Please read all released chapters before commenting.*
 >Sterling, a young and timid Clamperl thrown into the mystifying world of Pokémon, carries the weight of an traumatic past. His existence, once human, took a turn when he found himself reborn as a Clamperl following an event involving his family... Despite his timid nature, Sterling harbors an inner determination to face challenges and grow. The unfamiliar world he finds himself in demands resilience, and he grapples with his newfound identity as a Pokémon. He wishes to be more like his mother who was always kind and loving. His past is marred by a strained relationship with his family, particularly his father. Sterling also battles insecurities rooted in his past, being bullied and abused by others irl, his NEET like personality ruining his social life before transforming.
-
-###Tybo
->Tybo is a male Skitty, native to the pokemon world. Prior to his entry into the Clover Guild, he was an isolationist living alone in a cabin in an arctic area. He’s pretty greedy, and tends to loot “abandoned” places he finds and sells them. He never steals anything where there are people around and doesn’t like stealing from someone unless he sees them as a shitty person or if the place is abandoned, or just in a general state of chaos where someone stealing another’s belongings is of least concern. He tends to not think too much ahead and acts in the moment, he’s also really lucky when it comes to staying out of trouble, he most goes with the flow and silently observes whatever drama is going down at the moment, although he never gossips about it and keeps all his knowledge to himself. Tybo isn’t very malicious, but he’s far from being an angel.
 
 ###Minun/Raichu
 {Pending}

@@ -45,7 +45,7 @@ Summer Neneka 5★ Lv289 R30 FULL, EX 5/5/5
 Lyrael 4★ Lv289 R30 FULL, EX 5/5/5
 Princess Kyaru 5★ R30 FULL, EX 5/5/5
 Student Kyaru 5★ R30 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/g86tmied.png)
+![](https://pomf2.lain.la/f/00jhjzh4.png)
 
 [B1 Magic 56m - 0 manual inputs](https://www.youtube.com/watch?v=k6EAs60STXY)
 ![](https://pomf2.lain.la/f/sxdwa70c.png)

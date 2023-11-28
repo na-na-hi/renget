@@ -12,9 +12,9 @@ Some Pokemon might think he's an idiot due to his loud, reckless demeanour, but 
 
 Makuhita is also implied to have anger issues a couple of times, although he has so much control over them most of the time, it appears he has none at all. The only time he became truly irate was when he confronted the [Shah](https://rentry.org/GreatBulk6) – there is nothing Makky hates more than those who abuse their power, and that Pokemon was the personification of all he stood against.
 
-Makuhita is a slow, yet sturdy brawler whose style is slowly developing into one featuring grappling and throws. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize non-physical attacks. For example, if Asana hit him with a few bolts of Confusion, she could beat him very easily.
+Makuhita is a slow, yet sturdy brawler whose style relies on a mixture of Arm Thrusts and wrestling moves, relying heavily on grappling. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize non-physical attacks. For example, if Asana hit him with a few bolts of Confusion, she could beat him very easily.
 
-He is currently attempting to learn how to sense Aura, although his overly active mind is a great detriment to it. He only managed the feat once, and even then, its range was only an arm's length away from himself.
+He is currently attempting to learn how to sense Aura, although his overly active mind is a great detriment to it. He can only get it to work after concentrating, and even then, it fails some of the time. The range and sensitivity of his Sensing is terrible, too – he can barely make anything out, and can only feel out Auras around an arm's length away from himself.
 
 Moveset:
 Arm Thrust
@@ -30,7 +30,7 @@ A harsh and haughty, yet competitive and driven Meditite who is a gifted Aura Se
 
 Her relationship with Makuhita started as being tense, bordering on outright antagonistic, due to how their personalities conflicted. She saw him as a boorish, oafish dolt who almost ate her out of house and home and regarded his attempts at concealing his origin with suspicion, but she slowly warmed up to him. Nowadays, he's more like a brother in her eyes.
 
-Due to being a Sensor at birth, she grew up with a sense of pride and superiority to others around her. However, due to the realities of adult life, she had to take caravan work to make ends meet, and there, her pride morphed into arrogance. It's only due to Makuhita that it's slowly beginning to melt away, but a part of her doesn't want to leave it behind - her arrogance was her shield against the world around her, and without it, she'd feel defenseless. However, thanks to her time in Redkiln, she's slowly learning to lower her guard around others, and even made a couple of friends there.
+Due to being a Sensor at birth, she grew up with a sense of pride and superiority to others around her. However, due to the realities of adult life, she had to take caravan work to make ends meet, and there, her pride morphed into arrogance. It's only due to Makuhita that it melted away, allowing her to make genuine friends in Roserade and Sonora.
 
 Her fighting style is a skilled mixture of both psychic and physical combat. She can dish out tons of damage, but she can't take it in return.
 
@@ -43,11 +43,11 @@ Psybeam
 Aura Abilities:
 Long-Ranged Sensing (Can sense for quite a long distance. She started out being unable to sense the more intricate details of Auras, but has overcome this issue as of Part 3.)
 
-Crude Expression (Can aura-boost limbs and moves, although the latter tires her out greatly)
+Basic Expression (Can aura-boost limbs and moves)
 
 ##The Bad:
 #####Team Verdant:
-"Cacturne the Unbreakable":
+~~"Cacturne the Unbreakable"~~:
 Bounty: 30,000 Poke
 Rank: ★
 Wanted for: Murder, Caravan Robbery, Assault
@@ -63,6 +63,8 @@ He ran away from home with Merry/Sonora due to their romance being considered un
 Cacturne also has two different sides to him, depending on who someone is. He couldn't care less about “outsiders” or his victims, owing to the mentality his tribe imparted onto him in his childhood – to him, it's only himself and his kin that matter. He's unfaultingly loyal to those he considers “kin”, and if any of them betray him, it cuts into his soul deeply. He's also known for lacking a filter in social situations, making jokes that more thin-skinned Pokemon might find offensive.
 
 Cacturne has no professional “education” in fighting, but he has over a decade and a half of experience, and he's known for using dirty tricks in his fights. The most notable of these is a Pin Missile to the eyes, although he also likes to shoot Bullet Seeds when his opponents least expect it.
+
+He turned himself in after Sonora and Team Yin-Yang convinced him to surrender, with them citing how badly his isolation hurt him. However, this was only after a prolonged fight between the latter, where he came face to face with Makuhita. After he used Bulk Up, Makuhita slowly pushed back against Cacturne, using a Force Palm to disable his arm and disarming him of his bag to prevent item use. However, as he locked Cacturne's remaining arm, Lombre fired upon him, saving his boss from yet another tight spot in his career.
 
 Moveset:
 Pin Missile
@@ -86,7 +88,18 @@ One day, as he was being chased out of another town, he bumped into Cacturne, wh
 
 His defeat by Asana in Part 1 unveiled a few more character traits of his – his self-judgmental nature, his ability to retain grudges, and his loyalty towards the few Pokemon he trusts. Motivated by his humiliation, he trained himself up and became just as much of a force to be feared as Cacturne, all within the span of three months.
 
-He's close enough to Cacturne that he considers him like a brother to himself.
+When Team Yin-Yang confronted Team Verdant, he fought Asana. The conflict shown him as a tactical, adaptive battler, shifting his strategies as the battle went on. When Sonora convinced Cacturne to stand down, he warned him not to believe her, as he thought her and her companions were tricking him – in his mind, this was a conspiracy to claim the thirty grand on his head, that they'd then split three ways. This opinion of his is only further reinforced by his background as a conman, which made him jaded and prone to second-guessing the intentions of others. The whole reason why he bonded with Cacturne in the first place was because he was filterless and had no need to lie. If he said something, Lombre knew he meant it.
+
+Cacturne didn't listen, and furthermore, he gave orders to Lombre not to shoot Sonora. He hesitantly complied, although he warned Makuhita and Asana that he wouldn't forget what they did – he stated he'd murder them both the next time they seen him, angered by what he saw as them psychologically manipulating someone that was so close to him, he saw them as a brother.
+
+In battle, Lombre is very dangerous if his opponents are unprepared. His aim with his Bubble Beams is top-notch, whether from a distance or up close. His Giga Drain roots can be used to keep opponents away from him, he can use Energy Ball on groups or stronger Pokemon, and his Ice Beam can shoot Flying-types right out of the sky. His Mach Ribbon and Swift Swim make him an extremely speedy opponent, and his ability to stay cool under pressure renders him dangerous no matter how badly hurt, angry, or demoralized he is.
+
+However, he has quite a few distinct weaknesses. He doesn't have Rain Dance, as its activation time is too slow for his tastes, so he has to rely on Rainy Orbs to utilize his Ability. They're in limited supply, and as Asana demonstrated in her second battle against him, he can be disarmed of them or have them destroyed. Utilizing both Swift Swim and his Mach Ribbon *does* speed him up to absurd levels, but this tires him out much faster than normally.
+
+Lombre is also a very frail fighter, having to rely on evasion and Giga Drain in order to keep himself going in longer battles. His unarmed combat skills are also lackluster, at least for the moment – a more experienced fighter who can keep up with his increased speed could easily overwhelm him.
+
+Either way, he's pretty tough for a middle-aged salesman.
+
 Moveset:
 Bubble Beam (Lombre can adjust the velocity, shape, and penetration power of it)
 Giga Drain (Lombre expels roots from a hand. He can use them to whip people, or use them to perform Giga Drain proper)
@@ -99,7 +112,8 @@ Enhanced Smell: Lombre has a sense of smell on par with canine Pokemon, gained f
 
 #####The Flock:
 ~~Foi (Galarian Farfetch'd)~~:
-Bounty: ~~4,000~~ 6,000 Poke, plus 1,000 for each accomplice brought in
+Bounty:
+ ~~4,000~~ 6,000 Poke, plus 1,000 for each accomplice brought in
 Rank: ~~A~~ S
 Wanted For: Extortion, Theft, Assault, Caravan Robbery
 Sex: Male
@@ -159,8 +173,7 @@ Sex: N/A
 Ability: Run Away
 Location: ~~Sand Continent~~ Grass Continent
 Distinctive Features: Wears a pair of teashade glasses, tinted silver. Tends to hide in the storage of his "talent", such as in backpacks, bags, etc.
-This outlaw may seem dimunitive and harmless, but do not be fooled. He has a high degree of battle acumen and intellect,
- and typically "manages" other outlaws and coaches them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
+This outlaw may seem dimunitive and harmless, but do not be fooled. He has a high degree of battle acumen and intellect, and typically "manages" other outlaws and coaches them in combat. He bounces around from accomplice to accomplice as they succumb to injury or capture, his dimunitive size allowing him to escape with ease. He has a higher bounty than other outlaws of his rank, due to both his role as a mastermind, and his numerous escapes.
 
 He believes himself to be an intelligent puppetmaster, although that is far from the truth. One merely has to witness his two-faced behavior to see behind his mask – he tries to be polite to Pokemon he wants things from and attempts to butter them up, but he's also infamous for the verbal abuse he hurls towards “talent” and subordinates who he thinks are underperforming. However, he *is* legitimately smart when it comes to tactics and combat, and has turned even the worst battlers into competent threats. 
 
@@ -178,7 +191,7 @@ Wanted For: Theft, Assault
 Sex: Male
 Ability: Limber
 Location: Grass Continent
-He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive, but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on, which wound up being a house bombing.
+He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive, but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on which wound up being a house bombing.
 
 
 Thicket (Floette):
@@ -229,6 +242,7 @@ Rank: S
 Wanted For: Assault, Theft, Property Destruction
 Ability: Anger Point
 Distinctive Features: He has black fur, unlike most Tauros, and is also able to shoot flame from his horns.
+Location: Sand Continent
 This Pokemon got his moniker not only from his pyrokinetic abilities, but also from his extremely violent and aggressive temperment – he has been known to start fights over the slightest of issues. Makuhita and Asana tried pursuing him once, following him into what was formerly the Shah's lands. He was captured by Shamshir's men the day before Team Yin-Yang arrived and sent to the capital for judgement, although the political upheaval in the region has left his fate uncertain.
 
 
@@ -241,7 +255,8 @@ Ability: Run Away
 Distinctive Features: None
 Held Item: ~~Sneak Scarf~~ Ripped off by Asana.
 Location: Sand Continent
-Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden, even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
+Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden,
+ even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
 
 He was only captured through the efforts of Asana and her skill at sensing Aura - what she saw was a slightly timid thief who, in spite of his poor battling skills, was unpredictable in a fight, owing to a bag of items and tricks. 
 
@@ -273,9 +288,9 @@ The Shah started out as the chief of the Crossed Blades tribe living in the moun
 
 He was able to keep “his” land through the power of his army and the absurd amount of raw strength he possessed, being able to cut through solid steel as if it were air. Many bounty hunting teams and organizations tried to take him down, but none could. The only one that got even close to it was the Smith's Rebellion, which he only survived through via underhanded means.
 
-Ultimately, it was one of his own sons, Shamshir, who led to his downfall. With him being taught compassion by Bismuth and emboldened by Makuhita, he led Team Yin-Yang, Bismuth, and his troops into the capital to dethrone his father. Due to their greater unity, they performed far better than they had any right to. Seeing the disarray, the civilians of the capital realized that the Shah and his army wasn't invulnerable and worked with Shamshir's men, storming the palace and defeating the Shah after Asana had faltered.
+Ultimately, it was one of his own sons, Shamshir, who led to his downfall. With him being taught compassion by Bismuth and emboldened by Makuhita, he led Team Yin-Yang, Bismuth, and his troops into the capital to dethrone his father. Due to their greater unity, they performed far better than they had any right to. Seeing the disarray, the civilians of the capital realized that the Shah and his army weren't invulnerable and worked with Shamshir's men, storming the palace and defeating the Shah after Asana had faltered.
 
-The Shah, in spite of his strength, was an extremely unskilled battler. Asana compared his movements to reading an open book, and due to her agility, she was the greatest obstacle out between her team, Shamshir, and Bismuth, only being defeated due to her fatigue and a Quick Seed wearing off at an inopportune time. If he didn't think of himself as infallible and actually took time to refine his fighting style, the Shah could've wiped the floor with everyone easily.
+The Shah, in spite of his strength, was an extremely unskilled battler. To Asana, reading his movements was like looking into an open book, and due to her agility, she was the greatest obstacle out between her team, Shamshir, and Bismuth, only being defeated due to her fatigue and a Quick Seed wearing off at an inopportune time. If he didn't think of himself as infallible and actually took time to refine his fighting style, the Shah could've wiped the floor with everyone effortlessly.
 
 ##The Others:
 
@@ -294,8 +309,7 @@ In contrast to Dee, Smoliv is shy and slightly cowardly, usually taking up a rol
 Espathra:
 Sex: Female
 Ability: Speed Boost
-She's a blind Sensor, and the team's leader. Her role was primarily to find hidden passages and details others would miss, via using her ability to detect changes in the environment. Her philosophy behind Aura is different compared
- to others due to her not being a fighter, focusing more on finding hidden meanings and revealing that which is concealed. She's quite old, being 87 years of age as of Part 3.
+She's a blind Sensor, and the team's leader. Her role was primarily to find hidden passages and details others would miss, via using her ability to detect changes in the environment. Her philosophy behind Aura is different compared to others due to her not being a fighter, focusing more on finding hidden meanings and revealing that which is concealed. She's quite old, being 87 years of age as of Part 3.
 
 Indeedee:
 Sex: Male
@@ -373,7 +387,7 @@ The guard Captain of the caravan that Mawile, Rhydon, and Jolteon all work at. H
 Polteageist:
 Sex: N/A
 Ability: Cursed Body
-He's a potter from Redkiln who was, at one point, a perfectionist. The pot he lives in is noticably shoddier than others of his kind - he was tricked by a green, lanky stranger into buying a counterfeit to evolve into, 20 years before the events of Part 3. He also describes himself as one of the few Pokemon on the Sand Continent who can make good porcelain.
+He's a potter from Redkiln who was, at one point, a perfectionist. The pot he lives in is noticably shoddier than others of his kind - he was tricked by Lombre into buying a counterfeit to evolve into 20 years before the events of Part 3. He also describes himself as one of the few Pokemon on the Sand Continent who can make good porcelain.
 
 Sonora, aka "Merry" (Maractus):
 Sex: Female
@@ -382,9 +396,12 @@ She's an ex-outlaw living in Redkiln, although you wouldn't be able to guess tha
 
 She always had an aversion to bloodshed and killing, and was known for the means she went to in order to preserve the lives of her victims, including dipping into her own medical supplies to save them. However, she couldn't avoid it entirely. The few deaths that she did cause filled her with a great sense of guilt, prompting her to turn herself in. She tried to convince Cacturne to go along to her, but he was so set in the mentality he was raised with that he couldn't conceive of anything better than the life of crime he lived.
 
-In spite of her mirthful exterior, she's weighed down by her remorse for her past, and feels guilty for leaving her ex-husband behind. She still keeps the Gold Ribbon he gave her as a sign of their union – she's still unable to let go of him after all the years they've spent apart.
+In spite of her mirthful exterior, she's weighed down by her remorse for her past, and feels guilty for leaving her ex-husband behind. She still keeps the Gold Ribbon he gave her as a sign of their union
+ – she's still unable to let go of him after all the years they've spent apart.
 
 Sonora was known for having many different disguises and aliases in her time as a bandit. Opuntia and Cochemia were two such names she was known by, but the closest thing to a true name that she has is “Merry” - a nickname Cacturne gave her that only the two of them are supposed to know.
+
+In Part 7 and the Cacturne Special, a bit of her fighting style was revealed – she used dance-like movements to evade her foes, and either used Petal Dance to wear down groups by attrition, or Solar Beams as a ranged attack. In spite of her cutesy looks, she relies on extreme firepower above all else.
 
 Mienfoo, aka the Sourdough Supremacist:
 Sex: Male
@@ -458,4 +475,6 @@ The naming schemes of Bisharp and Pawniard that are a part of the tribes of the 
 
 Sneak Scarves can muffle a Pokemon's Aura signature, although it doesn't completely erase it. It makes it harder for Sensors to detect them, although the better they are at detecting environmental changes, the easier it is for them to detect Scarf users. For example, Asana's sensitivity in regards to the details of Aura wasn't the best circa Part 3, so the only reason she detected Thievul was because she was specifically looking for things that were out of the ordinary. In contrast, someone like KFC would've been able to detect Thievul easier, while Espathra would have been able to pick him out with ease due to her highly specialized skills as a Sensor.
 
-The tribe Cacturne hails from is foreign to the Sand Continent, only having immigrated there in the past few hundred years.
+Thirsty Desert Tribes:
+
+There are multiple tribes living in the Thirsty Desert, the two of them being the Saguaro and the Cholla. The former is made up of entirely Cacturne, and they are foreign to the Sand Continent, only having arrived a couple hundred years ago. The Cholla, on the other hand, are a mixed population of Maractus and Cacturne, although the latter have shorter brims on their hats than those of the Saguaro.

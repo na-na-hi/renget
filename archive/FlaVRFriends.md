@@ -21,7 +21,7 @@ Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitte
 Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
 Saltea Kichee|[Youtube](https://www.youtube.com/@Saltea_Kichee) [Twitter](https://twitter.com/SalteaKichee)|Likes baking, bread and has interacted a lot, from making drawings to chatting with Minna.
 Cublala|[Twitch](https://www.twitch.tv/cublala) [Twitter](https://twitter.com/cublala)|Cub/Bear themed, softspoken. Former FlaVR. In a vtuber group called 2D2U with Rem.
-Rem Rorschach|[Twitch](https://www.twitch.tv/aramintaaminthe) [Twitter](https://twitter.com/AmintheAraminta)|Extreme tangent rambler. Hetalia, Project Moon and AI enthusiast. Former FlaVR. In a vtuber group called 2D2U with Cublala.
+Rem Rorschach|[Twitch](https://www.twitch.tv/rorschach_em) [Twitter](https://twitter.com/rorschach_em)|Extreme tangent rambler. Hetalia, Project Moon and AI enthusiast. Former FlaVR. In a vtuber group called 2D2U with Cublala.
 
 ---
 

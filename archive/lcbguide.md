@@ -64,7 +64,7 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Sort of. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We currently get new IDs/E.G.O every week. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays. Identities that are considered too spoilery for a recently released chapter will instead have their trailers posted the following Thursday. Skills for announced IDs/E.G.Os are posted with the patch notes on Monday before the banner is added after maintenance. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
+We currently get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 5 a.m. EST. Maintenance begins every Wednesday at 9 p.m. EST and ends at 11 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays. Identities that are considered too spoilery for a recently released chapter will instead have their trailers posted the following Thursday. Skills for announced IDs/E.G.Os are posted with the patch notes on Monday before the banner is added after maintenance. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
 
 **16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
@@ -333,7 +333,6 @@ MD1 (Unlocked after chapter 2) | 3 | 10 | 15
 MD2 (Unlocked after chapter 4) | 5 | 30 | 45
 MD2H (Unlocked after chapter 4) | 18 | 30 | 150
 MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
-That last part might look off but it is less efficient to claim each bonus individually.
 
 **4. Thread & EXP Luxcavation**
 The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have five levels: 8, 18, 28, 33 and 38. Thread stages have three levels: 20, 30 and 40. The higher the level, the higher the rewards.

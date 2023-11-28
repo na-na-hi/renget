@@ -35,7 +35,7 @@ The maned growlithe had stood up, his visage looking sterner:
 
 “Bill. Hang in there a second for me, okay?”
 
-“You want me to calm down?!", the orange growlithe spits out. "After telling me you’re dead you expect me to fucking calm—!”
+“You want me to calm down?!", the orange growlithe spits out. "After telling me you’re dead you expect me to calm—!”
 
 “I CAN REMEMBER!”, Gill cuts in, raising his voice and making the other creature flinch slightly. He carries on:
 
@@ -99,7 +99,7 @@ For the first time this week, Bill has a strange urge to smile.
 
 His muzzle appears to suppress the feeling, however. He exhales deeply as he stands up on his four legs a bit more confidently. As though readying himself, his stare grows just as assertive. The calm, raspy voice that comes out of him is completely non-confrontational:
 
-“You listen to me now. Do you want to know what I think? This is all still bullshit and you’ll be hard pressed to change my mind about it. The way I see it, there have to be two outcomes: either we’re *both* dead or we’re *both* alive. I’d rather believe that a bomb went off inside my apartment and I died painlessly. I’d also rather believe that this is all a fabrication of your mind as EMTs haul your body to Intensive Care in one piece. Occam’s Razor works better for me on the latter.
+“You listen to me now. Do you want to know what I think? I think that this is all still bullshit. Unfortunately you’ll be hard pressed to change my mind about it. The way I see it, there have to be two outcomes: either we’re both dead or we’re both alive. I’d rather believe that a bomb went off inside my apartment and I died painlessly. I’d also rather believe that this is all a fabrication of your mind as EMTs haul your body to Intensive Care in one piece. Occam’s Razor works better for me on the latter.
 
 You said it yourself. You claim that there’s a large gap in your memory where you felt like you were having an empty dream? I could say the same exact thing myself. As far as I can see, I cannot call our circumstances any different. Until I can confirm that hypothesis, there’s no way I’m going to call you dead. Not a chance.
 
