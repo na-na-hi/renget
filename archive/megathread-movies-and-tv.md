@@ -53,10 +53,6 @@
 - Concentrate on downloading the newest Korean dramas as is original soundtracks.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
 
-### 🔗 [GojoMovies](https://gojomovies.lol/)
-- Website that offers the most recent direct download links for your preferred TV shows, films, and other media.
-- [URL Safety Results](https://www.urlvoid.com/scan/gojomovies.lol/)
-
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)

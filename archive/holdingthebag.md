@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 25th November. All dates dd/mm.
+!!! Note Last updated: 29th November. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -107,14 +107,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Open as of 14/11
 6488 | Kanimochi | Open as of 26/10
 10625 | Vrillionaires | Open as of 06/10
-11162 | VaniVitamins | Open as of 07/11
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
+6 | Arona#1 | Full as of 26/11
 90 | Bullies | Full as of 18/09
 244 | Cute&Funny | Full as of 10/11
 286 | カニ (Kani - crab for dekinais) | Full as of 24/10
@@ -132,6 +131,7 @@ Club ID | Club Name | Club Status
 8192 | Mesugaki | Full as of 17/10
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
+11162 | VaniVitamins | Full as of 28/11
 11830 | TummyArchive | Full as of 10/11
 12395 | 中出しの幸せ (cumshot happiness) | Full as of 10/11
 

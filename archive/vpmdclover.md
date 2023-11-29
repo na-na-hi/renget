@@ -49,7 +49,7 @@ Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://ren
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
 Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
 Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
-Yung | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#yungsara)
+Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#yungsara)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)

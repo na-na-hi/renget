@@ -268,9 +268,9 @@ Inventory: item - short description
 
 ###### Others
 You can create more or frankenstein any existing flavor. I will list down some notable examples
-Tsuwu's infobox
 https://rentry.org/jinxbreaks
 https://rentry.org/weirdbutfunjailbreaksandprompts
+https://rentry.org/MyuuTastic - Infobox , Statblocks, SFX, and more
 
 ***
 ## -> Prompt Order <-

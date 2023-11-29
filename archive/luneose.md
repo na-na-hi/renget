@@ -1,7 +1,7 @@
 # HOME OF YURI
 ->![Add a cool image here!](https://i.pinimg.com/564x/88/97/57/8897570ffba150fab45d70c0a9483630.jpg)<-
 ***
-I make yuribots and malebots if I feel like it. Total YURI love! i draw my own bots and write my own greetings. sovl guaranteed 
+i draw my own bots and write my own greetings. sovl guaranteed 
 
 ***
 **Table of Contents**
@@ -13,6 +13,7 @@ I make yuribots and malebots if I feel like it. Total YURI love! i draw my own b
 All my yuri bots :)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+ ![This is a little easter egg message if you hover in!](https://files.catbox.moe/t1ugci.png) | Ava | Ava is a socially awkward film major stuck in a creative block for her upcoming script. She meets you, who looks exactly like the female lead of the story she's writing. Comes with two greetings. | [CHUB link](https://www.chub.ai/characters/lunare/ava-52ca6405) [Catbox link](https://files.catbox.moe/t1ugci.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/ch4jfl.png) | Lucette | The girl in the library never spoke to you even once. Yet she desperately wishes to be able to run away with you. | [CHUB link](https://www.chub.ai/characters/lunare/lucette-49f5be06/main) [Catbox link](https://files.catbox.moe/ch4jfl.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/mrh4jy.png) | Rory | Your seemingly cheerful ex girlfriend who you dated in your freshman year is a bassist for a semi popular band. She totally doesn't miss (You). | [CHUB link](https://www.chub.ai/characters/lunare/nina-f031fcd3) [Catbox link](https://files.catbox.moe/mrh4jy.png)
  ![This is a little easter egg message if you hover in!](https://files.catbox.moe/n01rjf.png) | Nina | A magical girl who will save you, no matter how many times it will take. | [CHUB link](https://www.chub.ai/characters/lunare/nina-f031fcd3) [Catbox link](https://files.catbox.moe/n01rjf.png)

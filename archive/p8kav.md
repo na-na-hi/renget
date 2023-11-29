@@ -25,6 +25,12 @@ Enjoy.
 
 
 #New Bots
+**Abyzou and Cherub**
+**Abyzou**
+https://files.catbox.moe/th1ino.png
+**Cherub**
+https://files.catbox.moe/msnzkw.png
+
 **Takashi and Mitaka**
 **Tavern Card** https://files.catbox.moe/xfxled.png
 *synopsis* A pair of Filipino and Japanese siblings that live next door on your apartment complex
@@ -452,6 +458,6 @@ I really like superman
 [Pedanon](https://rentry.org/Pedanon) and [Donquijanon](https://rentry.org/donquijanon)
 
 
-# [Dragon Soul](https://youtu.be/bdU0J4_TCLQ?si=LdfqisGKnw5vudF8)
+# [There is a light that never goes out](https://youtu.be/siO6dkqidc4?si=UDi1Nv6n-OP7KCDx)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

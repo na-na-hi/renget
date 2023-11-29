@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Footage of abandoned Leopard 1
+https://files.catbox.moe/u7kofr.mp4
 >Waking up Ukrainians 
 https://files.catbox.moe/f927e1.MP4 
 >homemade remote-controlled PKT MG 

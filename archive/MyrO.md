@@ -32,11 +32,11 @@ Durability
 Cooking
 ★★
 Arcane
-★★
+★★★
 Alchemical
-★★
+★★★
 Dark
-★★
+★★★
 Charisma
 ★★★★
 
@@ -52,4 +52,18 @@ Myr keeps his tail obscured within his long coat and uses its needle-like tip to
 
 He picked up the art of hexes, curses, enchanting, and progressed with alchemy during his time as a [Doublethink]. His dream is to be able to perform complex transmutations or apply the effects of potions with but a touch of his finger tips. For now he can do some basic ones like rusting metal or water into a weak wine. He's not a strong mage but instead has a wide toolbox of abilities to pick from.
 
--> ![](https://img3.gelbooru.com/images/41/f2/41f2c8e1a991bc0e7ff51686b5173091.jpg) <-
+-> ![Meet Alchemistress Myra!](https://img3.gelbooru.com/images/77/5a/775aee1952c864c6107795df2fb80210.jpg) <-
+
+-> **About Myra** <-
+!!! Info Not entirely fleshed out yet!
+
+-> **Changelog** <-
+- Added [Doublethink]
+- Added [Divergence]
+- Added [Femininity]
+- Added [Potionholic]
+- Added [Soul Split]
+- Lost [The Apprentice] x3
+- Gained one rank in Alchemy
+- Gained one rank in Arcane
+- Gained one rank in Dark

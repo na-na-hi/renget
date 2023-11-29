@@ -96,7 +96,7 @@ Mio finished her bowl with delight, letting out a satisfied puff, and so did you
 
 Mio looked inside herself and gathered some courage. She couldn’t look at you in the eyes.
 
-“Why did you go over the trouble of brining me here?”
+“Why did you go over the trouble of bringing me here?”
 
 Mio’s question didn’t bother you, so you replied in full honesty.
 
