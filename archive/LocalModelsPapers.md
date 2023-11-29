@@ -439,6 +439,7 @@
 11/2023|[MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](https://arxiv.org/abs/2311.11501)
 11/2023|[LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](https://arxiv.org/abs/2311.12023)
 11/2023|[Token Recycling for Efficient Sequential Inference with Vision Transformers](https://arxiv.org/abs/2311.15335)
+11/2023|[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

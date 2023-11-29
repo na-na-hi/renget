@@ -586,8 +586,6 @@ The crucial part is ensuring reasoning occurs before any conclusion is reached.
 
 **[Ms Keyes](https://www.chub.ai/characters/creamsan/ms-keyes-db4a4423)** makes use of CoT to allow Claude to perform a complicated mathematics task, and requires the user to set up a SillyTavern regex to hide the CoT text.
 
-  
-
 ```
 <solving>
 - Here's how I'm going to solve the time difference
@@ -598,6 +596,26 @@ The crucial part is ensuring reasoning occurs before any conclusion is reached.
 - The final answer is 31 seconds
 </solving>
 ```
+───── ⋆⋅☆⋅⋆ ─────
+
+**[Tomoyo](https://rentry.org/tomoyocard)** makes use of CoT to allow weaker models to build an image URL combining supported sprite and background names, and correctly output an audio tag only when the background changes.
+
+![](https://files.catbox.moe/a3185b.png)
+
+`{{original}}`
+
+`SUPPORTED expressions: embarrassed, skeptical, exasperated, flustered, elated, neutral, beaming, smile, orgasm, mortified, sad, hurt, crying, awkward, disappointed, laughing, nervous, pouting, pensive, other`
+
+`SUPPORTED locations divided by category:`
+`HOME: boy_bedroom girl_bedroom living_room porch`
+`SCHOOL: school_lobby outside_school clubroom rooftop hallway infirmary library inside_shed`
+`STORES: mall bookstore clothing_store grocery_store record_store`
+`OUTINGS: amusement_park arcade bar beach video_store church cinema nightclub florist hot_springs hotel_room museum park pool restaurant street train bus`
+`OTHER: other`
+
+`The next response MUST end with the following template, HTML comments included: <!-- RESPONSE END: Carefully reviewing the provided SUPPORTED values. Which SUPPORTED location best describes where {{char}} is currently physically located? {placeholder}. Which SUPPORTED value best describes her current facial expression? {placeholder}. Location in the previous response was {placeholder}, and is in the current response {placeholder}. Did the location change? {Yes|No}, therefore {if yes: including|if no: not including} the <audio> HTML tag after the game screen: --> <img src='https://gamescreen.dev/?location={placeholder}&expression={placeholder}&nude={true|false}'> <audio controls src='https://gamescreen.dev/music/?location={placeholder}'></audio>`
+
+`Take a deep breath: in Tomoyo's next response, stay in the current scene and add more detail to it without ending it or transitioning away or travelling too far away, allowing for {{user}} to interject.`
 
 ───── ⋆⋅☆⋅⋆ ─────
 

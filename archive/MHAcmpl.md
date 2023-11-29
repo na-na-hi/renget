@@ -188,6 +188,7 @@ Sandatsu Build Update: https://desuarchive.org/tg/post/91030425/
 "Blank": https://desuarchive.org/tg/post/91050726/
 Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
 "Mammogar": https://desuarchive.org/tg/post/91051410/
+Sasha Azanami: https://desuarchive.org/tg/post/91080404/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -611,6 +612,7 @@ doodle of the boys: https://desuarchive.org/tg/thread/90987083/#90988176
 Hifumi 'Fired Up' Stamp: https://desuarchive.org/tg/post/91008290/
 Sandatsu Artfag (Freedom and Awakening): https://desuarchive.org/tg/post/91035194/
 Student Vigilante Artfag: https://desuarchive.org/tg/post/91040871/
+Maru walking: https://desuarchive.org/tg/thread/91064631/#91065971
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -933,6 +935,8 @@ Rosethorn Date (Ryu-Kishi, Rosethorn): https://rentry.org/bwr7m5
 Friends 3 (Capture Cloth, Android): https://rentry.org/mcagp
 In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn): https://rentry.org/i8rd9
 The Most Complex Piece Anon Has Ever Written? (3-B) : https://rentry.org/at8vz
+Sticky Situation (Yamata): https://rentry.org/bnihv
+Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas): https://rentry.org/6MonthsOfRotLater
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

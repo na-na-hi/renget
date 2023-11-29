@@ -1,4 +1,16 @@
 ▶NEW CLIPS
+>Z Sapper units using drone to de-mine a liberated vilage
+https://files.catbox.moe/otyf8v.mp4
+>Russian paratroopers storm another AFU stronghold in the Bakhmut direction and capture 4 piggers
+https://files.catbox.moe/70y2ri.mp4
+>Krab SPG hit with Lancet
+https://files.catbox.moe/yr4vw3.mp4
+>The city of Sumy has failed to supply mobilization resources to the AFU
+https://files.catbox.moe/b1n8j6.mp4
+>Hoholina on AFU training
+https://files.catbox.moe/7s9t12.mp4
+>White Wolves, Kremensky Forest, Group O
+https://files.catbox.moe/ss40tw.mp4
 >Footage of abandoned Leopard 1
 https://files.catbox.moe/u7kofr.mp4
 >Waking up Ukrainians 

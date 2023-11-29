@@ -29,19 +29,9 @@ https://shop.hololivepro.com/en/products/hololiveen_nyacrylicstand
 **Council half year anniversary merch (badges & towel) rerun**
 https://shop.hololivepro.com/en/products/hololiveen_rerun2023
 
->**HoloSummer**
-**Merch**
-Keychains and assorted goods
-https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
-\>**Order period ended/sold out**
-Acrylic diorama 
-https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
-Acrylic Stand (Swimsuit)
-https://shop.hololivepro.com/en/products/hololivesummer2023_acrylicstand_ssp?variant=44007949533404
-Acrylic Stands (Yukata) 
-https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
+**hololive Closet acrylic stand (Casual outfit)**
+https://shop.hololivepro.com/products/hololivecloset_nanashimumei_1
 
-\* * *
 - - -
 ##Games
 **Groove Coaster**
@@ -116,3 +106,15 @@ https://shop.hololivepro.com/en/products/hololiveen_council_an2nd
 
 **Council 3D showcase merch (Latern for Mumei)** (Order period ends 13th November 1800 JST)
 https://shop.hololivepro.com/products/hololiveen_council_3d2023
+
+>**HoloSummer**
+\>**Order period ended/sold out**
+Keychains and assorted goods
+https://shop.hololivepro.com/products/hololivesummer2023_goodsvol1
+Acrylic diorama 
+https://shop.hololivepro.com/en/products/hololivesummer2023_goodsvol2
+Acrylic Stand (Swimsuit)
+https://shop.hololivepro.com/en/products/hololivesummer2023_acrylicstand_ssp?variant=44007949533404
+Acrylic Stands (Yukata) 
+https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
+\* * *

@@ -30,6 +30,7 @@ Enjoy.
 https://files.catbox.moe/th1ino.png
 **Cherub**
 https://files.catbox.moe/msnzkw.png
+![Double](https://files.catbox.moe/qmwvpl.jpg)
 
 **Takashi and Mitaka**
 **Tavern Card** https://files.catbox.moe/xfxled.png

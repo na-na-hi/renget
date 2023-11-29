@@ -538,8 +538,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Sticky Situation (Yamata):
-https://rentry.org/bnihv
+>Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
+https://rentry.org/6MonthsOfRotLater
+>Sasha Azanami
+>>91080404
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -854,6 +856,8 @@ Page 5
 >>89012707
 >Yoshiro
 >>89338457
+>Sasha Azanami
+>>91080404
 
 >Night Parade:
 >Cammy Link VN Karma
@@ -1041,6 +1045,8 @@ https://rentry.org/mcagp
 https://rentry.org/at8vz
 >Sticky Situation (Yamata):
 https://rentry.org/bnihv
+>Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
+https://rentry.org/6MonthsOfRotLater
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

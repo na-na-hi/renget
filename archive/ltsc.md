@@ -568,9 +568,8 @@ Pay attention that for some of the options you have to select the correct settin
 It's finally time to connect to the Internet and launch Windows Update.
 
 >I don't want to update, updates only add bloat/bugs, I'll just run this 2019 build of LTSC
-First off, that's wrong. Second of all, **no sane person** should forego updates or run an outdated system if they care about their **security**.
-Even if in this guide we have disabled **automatic** Windows Updates, it is merely to get better control of when those updates happen and not have Windows Update routinely pinging outside IP addresses and running in the background. 
-It is still **highly recommended** to keep your Windows system up-to-date with the latest security and bug fixes and let Windows Update run on a monthly basis.
+You should still update up to a certain point, unless Microsoft starts doing silly updates to change and break stuff in the future. 
+Even if in this guide we have disabled **automatic** Windows Updates, it is merely to get better control of when those updates happen and not have Windows Update routinely pinging outside IP addresses and running in the background. I still **recommend** to keep your Windows system up-to-date with the latest security and bug fixes.
 
 ### Update manually
 If you don't want to connect to Windows Update, or completely disabled it then I suggest you download update packs separately from the [official Microsoft repository](https://www.catalog.update.microsoft.com/) by doing a search for "21H2 x64". At the time of writing this guide these are the cumulative updates you're likely receive for 21H2:

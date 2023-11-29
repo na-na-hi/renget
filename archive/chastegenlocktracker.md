@@ -14,12 +14,12 @@ _(Updated 27-Nov-2023)_
 
 | User | URL | Expiration |
 | -- | -- | -- |
-| Delv | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2023 |
+| Delv | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2024 |
 | arcybee | https://chaster.app/sessions/7kUSK1IZIAz4vNIH |  === |
 | cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  === |
 | Nyum | https://chaster.app/sessions/nBUQZylXrXqglbfK |  01-Dec-2023 |
 | Nepu | https://chaster.app/sessions/jHAs1e0NOFnmQksZ | === |
-| kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Dec-2023 |
+| kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Jan-2024 |
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | 0 Thread(s) |
 | 00dest | https://chaster.app/sessions/upH38x5Zixzyek4S |  19-Dec-2023 |
 | Spaday | https://chaster.app/sessions/VVFRwZ5OrbL6cFk9 | === |

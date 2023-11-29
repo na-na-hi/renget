@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Karmin](https://files.catbox.moe/kwnf8z.png), [Chase](https://files.catbox.moe/rzxz7z.png)|
@@ -60,7 +61,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Chefseru](https://rentry.org/chefseru) | Misc ||
 [AnonDoofus](https://rentry.org/dpg2w) | Misc/Futa ||
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
-[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
