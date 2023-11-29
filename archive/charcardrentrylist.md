@@ -25,7 +25,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Scrimbly](https://rentry.org/scrimb) | Misc |[BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png)|
 [Cuteanon](https://rentry.org/cuteanon) | Misc |[Shy Guy](https://files.catbox.moe/jn7sxp.png)|
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Annie & Miribeth](https://files.catbox.moe/pijmjm.png)|
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
@@ -34,6 +33,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crikey](https://rentry.org/crikeyscorner) | Misc ||
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||

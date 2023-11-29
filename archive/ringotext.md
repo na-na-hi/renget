@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Are You Gwak'ing Your Pants?](https://archiveofourown.org/works/51912754/)* | Kronii, Fauna | choco, ringo |
 | *[Evangeline](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub)* | Fauna | brap, smell |
 | *[Holoshorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Series)* | Various | wedgie, sweat, smell |
 | *[Shelter](https://docs.google.com/document/d/e/2PACX-1vQmx13QCZB8R9LeM5edXddbL_MjYi_ST1vGiwdWTWr0R47taCIhBhq8LxW7PpS450i6aB_Malv5bjcv/pub)* | Hajime, Fuwawa, Mococo | ringo, diaper |

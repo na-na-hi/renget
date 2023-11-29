@@ -31,17 +31,21 @@ That depends entirely on taste, but I can at least recommend a few from a techni
 
 ## Recent update 
 !!! info
+	11/29/2023
+	- simd (6 videos)
+	- ろいろい (1 video)
+	- MMDpasta (1 video)
+	- Asteria MMDVR (1 video)
+	- Eat Up VRMMD (2 videos)
+	- makuraVR (4 videos)
+	- 刺身クリーム (1 video)
+
+## Previous update
+!!! info 
 	11/8/2023
 	- simd (2 videos)
 	- MMDpasta (1 video)
 	- makuraVR (1 video)
-
-## Previous update
-!!! info 
-	10/31/2023
-	- simd (New, 5 videos)
-	- うすぐら (2 videos)
-	- makuraVR (3 videos)
 
 ## The Collection
 

@@ -36,6 +36,7 @@ Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch
 ##[Nyanners](https://www.twitch.tv/Nyanners)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/@NyannersVODs)| Nyanners official vod channel, has several missing vods
 Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | 100% Complete Nyanners Vod Archive starting from her vtuber debut (2022-07-17). Im still working on this so it will stay up to date.
 
 ---
@@ -43,6 +44,7 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 ##[Grimmi](https://www.twitch.tv/grimmivt)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/@GrimmiVault)| Grimmis official vod channel, has several missing vods
 Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share and will make sure future vods added to this are safe to share as well. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these. Im still working on this so it will stay up to date.
  Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods. This Speadsheet will likely only be updated every few months.
 
@@ -61,7 +63,8 @@ Deadly Premonition |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv90I
 ##[Hime Hajime](https://www.twitch.tv/hajime)
 Content|Link|Description 
 -------|-------|------- 
-Mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
+Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| Himes official vod channel, has several missing vods
+Playlist with a mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
 
 ---
 
@@ -82,6 +85,7 @@ Unofficial Anny (VR Chat) Vod Archive | [Link](https://www.youtube.com/playlist?
 ##[Saruei](https://www.twitch.tv/vei)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/@SarueiArchive)|
 Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv91Khi4ukebSwy_TA8N7ti3)| Unlisted Youtube playlist with Saruei Vods people wanted to have Archived
 
 ---
@@ -89,6 +93,7 @@ Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PL
 ##[Vei](https://www.twitch.tv/vei)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/@veibaevods)|
 Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| Unlisted Youtube playlist with Vei Vods people wanted to have Archived
 
 ---
@@ -96,6 +101,7 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 ##[Girl DM](https://www.twitch.tv/girl_dm_)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
 Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Unlisted Youtube playlist with Girl Dm Karaoke Vods people wanted to have Archived
 
 ---
@@ -110,6 +116,7 @@ Unofficial Bubivt Vod "Archive" | [Link](https://www.youtube.com/playlist?list=P
 ##[Moriko Kyoho](https://www.twitch.tv/batatvideogames)
 Content|Link|Description 
 -------|-------|------- 
+Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
 Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| Morikos First Karaoke vod people wanted to have archived
 
 ---
@@ -176,7 +183,8 @@ Content|Link|Description
 -------|-------|------- 
 Nyaa| [Link](https://nyaa.si/) | This website has several Hololive and others Vods
 Holopirates| [Link](https://mogu.holopirates.moe/)| Hololive Vods
-Vod Archival Thread in /t/| [Link](https://boards.4chan.org/t/thread/1226338)| You request Archives for vods here from several People
+Vod Archival Thread in /t/| [Link](https://boards.4chan.org/t/thread/687343/welcome-to-torrents)| You can request Archives for vods here from several people. The threads usually named "Hololive and other Vtuber archives:"
+Ragtag Archive| [Link](https://archive.ragtag.moe/)| This website has several Youtube Vod channels content archived
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
 

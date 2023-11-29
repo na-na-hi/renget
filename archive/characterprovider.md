@@ -19,7 +19,7 @@
 ⠀
 ######
 - - -
-####⠀-> Donations keep me motivated: <-
+####⠀-> A barrel full of kobolds <-
 
 -> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png)<-
 -> Number of Special Kobolds: **5** <-
@@ -30,7 +30,7 @@
 -> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
 -> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-
 
--> Write your nickname with the donation so I can name your kobold (for >12$ tips). <-
+-> Write your nickname with the donation so I can name your kobold and shove them into the barrel (for >12$ tips). <-
 
 #
 
@@ -223,6 +223,16 @@ The LLM version you are using might be a dummy. Specific versions of LLM, such a
 The character card you're using may have needed to be better defined. I have come across character cards where the term 'you' refers to both the AI and the User. It's crucial to remember that these character cards are part of the context. If they are defined ambiguously, it can cause confusion for the LLM. 50/50, we're all here ESL boys and girls (???), so if English isn't your first language, let the LLM revise your character card based on your directions. A well-defined character card usually ranges from about 800 to 2000 tokens or more, especially if it's complicated.
 
 Your initial message may contain actions or speeches for your character, which might confuse the LLM as it often tries to replicate actions it has performed in the past. If you'd like to learn more about it, I recommend googling [few-shot prompting](https://www.promptingguide.ai/techniques/fewshot).
+
+Also maybe you've come across a moment in the story, where a reply from your character is the most possible thing that can happen. Most likely the situation looks like this:
+
+
+**User:** "Aaand I'll give you... THAT." *I show her a bottle triumphantly.*
+**System:** [[...] and AI must write 80 words [...]]
+**AI:** "What is this?" *Aked Alice.*
+-Ai continues its response with you explaining what the bottle is.-
+
+It probably tries to write 75 more words or so as per the instruction, and the most possible continuation is the explanation of the mysterious bottle. That's my theory. Try excluding suspense from your message. It might help.
 #####
 **Q6: "AI loops and doesn't want to move the story forward. Why?"**
 A6: This one is straightforward. The AI often needs more context, and hence, it struggles to determine the appropriate course of action. This is particularly noticeable during sexual scenes where the setting typically comprises two characters and a bed. By incorporating additional context or modifying the environment, the AI can be guided out of its loop. The first few messages in a chat are good because they're usually embedded with clear context. If you're looking for ways to prevent **format loops**, you might want to [check this out](#how-to-prevent-format-loops).

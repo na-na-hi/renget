@@ -369,9 +369,8 @@ The goal of PvP is to match your attack type with the enemy's armour type, while
 Use [the following tierlist](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#) to build your team around. 
 General advice is to use a double tank setup + Shun, with good supports. Tsubaki and Yuuka are usually your goto. 
 
-
 You can skip the battle if you don't like to be in pain. 
-The pvp coin reset takes place 10 hours after the daily reset. Which is why it's better to do your pvp battles AFTER the pvp coin reset, so you can redeem the highest rank you achieved that day. 
+The pvp coins claim reset takes place 10 hours after the daily reset, which is why it's better to do your pvp battles AFTER the pvp coin reset. This is because your rewards are dependant on what rank you are at that exact moment. Basically do pvp at the same time as your 'login after X' daily mission.
 No, you can not turn off the auto button in battle. 
 
 ## Shop

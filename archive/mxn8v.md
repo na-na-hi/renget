@@ -337,3 +337,45 @@ As they all settled down on the couch, Mia leaned over and kissed Mark on the ch
 Mark grinned, feeling a warm sense of acceptance. The pups, exhausted from their antics, curled up beside them, and Mia rested her head on Mark's shoulder. It was a moment of quiet bliss, a snapshot of the unconventional yet lovable family they were becoming.
 
 And so, in the cozy chaos of the living room, filled with the sounds of contented puppy snores and Mia's laughter, Mark couldn't help but feel grateful for the unexpected joy that had entered his life. Little did he know that the rollercoaster of love and laughter was only just beginning.
+
+>10: The Sisterly Invasion
+
+The peaceful atmosphere of the house was disrupted by the sudden arrival of Mia's sisters, Bella and Clara. Mark had heard tales of their visits, but nothing could have prepared him for the whirlwind that ensued.
+
+The doorbell rang, and Mark opened it to find two energetic Shiba Inus practically bouncing into the house. Bella, the older sister, had a mischievous twinkle in her eye, while Clara, the younger one, was all smiles. They greeted Mark with enthusiastic hugs, and he couldn't help but feel a little overwhelmed.
+
+"Mark, darling, it's so wonderful to finally meet you!" Bella exclaimed, her excitement bordering on theatrical.
+
+Clara chimed in, "Mia has told us all about you. We're here to inspect the new addition to the family!"
+
+Mark, trying to maintain his composure, welcomed them inside. Little did he know that the next few hours would be a rollercoaster of comedic mishaps.
+
+The sisters immediately took charge, inspecting every nook and cranny of the house as if it were a crime scene. They commented on the choice of furniture, the color scheme, and even the arrangement of the potted plants. Mark felt like he was under scrutiny, with his every move being judged.
+
+Bella, always the prankster, decided to playfully interrogate Mark. "So, Mark, what are your intentions with our dear sister? You better treat her right, or we might have to organize a Shiba Inu protest!"
+
+Mark, feeling the pressure, stammered out a nervous response, "I-I assure you, I only have the best intentions. Mia means the world to me."
+
+Clara, with a mischievous glint in her eye, nudged Bella. "Oh, I think he's genuine. Look at that blush! He's like a tomato!"
+
+Embarrassed, Mark tried to steer the conversation away from his personal life. "So, um, Mia mentioned you both are quite the culinary experts. Do you have any favorite recipes?"
+
+The sisters exchanged sly looks, and Bella grinned, "Oh, we're not just experts; we're culinary goddesses! You see, we have a sacred recipe for the world's best Shiba Inu-approved cookies!"
+
+Before Mark could react, they were already rummaging through the kitchen, leaving flour and sugar in their wake. The kitchen soon resembled a baking war zone, with ingredients scattered everywhere. Mark attempted to assist, but the sisters insisted on their own unique techniques, which involved a lot of tail-wagging and enthusiastic singing.
+
+As the chaos unfolded, the pups, thoroughly entertained, joined the festivities. Cookie dough covered their fur, turning them into tiny, walking confections. Mark couldn't help but laugh at the adorable mess they created.
+
+As the sisters finally pulled the trays of cookies from the oven, they presented Mark with their creation. The cookies, shaped like tiny Shiba Inus, had an uncanny resemblance to the mischievous trio. The absurdity of the situation had Mark in stitches.
+
+The day continued with endless laughter and playful banter. The sisters, with their infectious energy, made Mark feel like part of the family. They shared stories, played games, and even convinced Mark to participate in a makeshift talent show, showcasing his questionable dance moves.
+
+In the evening, as they sat in the living room surrounded by cookie crumbs and pup-shaped treats, Mia's sisters exchanged knowing glances. Bella spoke up, "Mark, we might have been a tad overwhelming today, but we just wanted to make sure you fit into our crazy family."
+
+Clara added, "And it looks like you've passed the test! Welcome to the clan, Mark!"
+
+Mark, feeling a mix of relief and affection, smiled. "Thank you, Bella and Clara. Today has been... an adventure, to say the least."
+
+Mia, who had been resting and recovering, emerged from her room, her eyes sparkling with gratitude. "Mark, you survived the sisterly invasion! I knew you'd handle it like a champ."
+
+As the night descended, the house echoed with laughter and warmth. Mark realized that amidst the chaos and comedic mishaps, he had found not just a partner in Mia but a whole family that embraced him with open paws.
