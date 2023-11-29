@@ -8,6 +8,7 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
 https://playeternalreturn.com/posts/news/1582 (1.9 Patch Notes)
+https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
 https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)

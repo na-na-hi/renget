@@ -1,6 +1,8 @@
 # tsukasa
 
-!!! note new mistral 7b tune is out https://huggingface.co/ludis/tsukasa-7b-lora
+!!! note new 120b tune is out https://huggingface.co/ludis/tsukasa-120b-qlora
+
+list of all models: https://huggingface.co/ludis
 
 log paste! https://rentry.org/tsukasa13blogs
 

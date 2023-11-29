@@ -1,7 +1,7 @@
 # /bag/ Newfag guide
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
-Scroll to the bottom for my last edit date. This is still relevant and not outdated.
+Scroll to the bottom for my last edit date. This guide is still relevant and not outdated.
 
 [TOC] 
 
@@ -491,6 +491,13 @@ Fill it in, it'll tell you what to do.
 >Important stuff to know 
 The highest bonus will be saved, so if you 1\* a quest stage with the max bonus then 3\* it with a different team, you can sweep the stage and get the highest bonus. This also works vice versa (first 3\*, then 1\* with max bonus). 
 
+Example:
+Stage 1 drops 20x and 15y. 
+Team with 100% bonus for x clears stage 1 with 1\*
+Stage 1 now drops 40x and 15y (1\*)
+Team with 100% bonus for y clears stage 1 with 3\*
+Stage 1 now drops 40x and 30y (3\*)
+
 You unlock the welfare/free unit by doing the story missions (the very 1st one). Do this before you farm the quest stages.
 
 >I'm a newbie and there's an event going on, but I can only clear up to stage X. What do I do? 
@@ -524,7 +531,7 @@ Bounties/Scrimmages: **if and only if (I.F.F) you buy the monthlies**, you can s
 Buy out the new player gems first, the numbers are crazy. 
 If you're planning on being a dolphin, like all gacha games the best value pakejis are the monthly/bimonthly ones. More bounty tickets, making scrimmages AP free, and a good pyro income.
 
-The 1 dollar Serika is nice, but pretty unneeded. It's incredibly worth if you're planning on maxing her out and spending big, as it saves a lot of AP farming the nodes. 
+The 1 dollar Serika is nice, but pretty unneeded. 
 
 I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two. 
 
