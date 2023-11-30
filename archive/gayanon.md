@@ -54,8 +54,13 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Cat
 
 ***
 
-##Coming Soon
-Placeholder. Something big goes here.
+##Edda - New Bot 30.11
+Collaboration project with Enoch. I shall...write more here at a later date.
+
+Ephraim | Description
+:----:  | :----: 
+image later   | Ephraim is one of the leading researchers working on Project Fulminare. Overworking to a fault, he hopes to save humanity with ideas less extreme than those of a certain someone. V2 card with 5 greeting scenarios.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/ephraim-da9ffd47) . [Catbox](https://files.catbox.moe/wghyx0.png) . [Backgrounds](https://catbox.moe/c/ml9pky)
 
 ***
 
@@ -80,7 +85,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Standalone - New Bot 31.10
+##Standalone
 Is exactly what it says.
 
 Li Xiaoyu | Description
@@ -97,6 +102,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/cyril-kravitz-a49fda13)
 
 ##Changelog
 
+30.11 - Added Ephraim (new)
 27.11 - Added Various Backgrounds + Added Fanart Section
 31.10 - Added Cyril Kravtiz (new)
 22.10 - Added Percival Background, fixed up a few things

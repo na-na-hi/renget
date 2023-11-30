@@ -1559,6 +1559,11 @@ Proud/Beast Costume
 
 	https://files.catbox.moe/acy6ap.safetensors
 
+# Vyrn (Granblue Fantasy)
+> Activation keyword is the same as the e621 keyword: "vyrn"
+
+	https://files.catbox.moe/0wa9ty.zip
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

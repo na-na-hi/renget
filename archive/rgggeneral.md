@@ -13,9 +13,11 @@ Welcome to /rggg/, the only thread on /vg/ where yakuza and private detectives a
 
 >Judgment, Lost Judgment/ TAKAYUKI YAGAMI SAGA - https://store.steampowered.com/app/2058180/Judgment/ https://store.steampowered.com/app/2058190/Lost_Judgment/
 
->Ryu ga Gotoku Kenzan!, Like a Dragon: Ishin!/ FEUDAL JAPAN SAGA -  https://romspure.cc/roms/sony-playstation-3/ryu-ga-gotoku-kenzan/ https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
+>Ryu ga Gotoku Kenzan!, Like a Dragon: Ishin!/ EDO/FEUDAL JAPAN SAGA -  https://romspure.cc/roms/sony-playstation-3/ryu-ga-gotoku-kenzan/ https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
 
 >Kurohyō: Ryū ga Gotoku Shinshō, Kurohyō 2: Ryū ga Gotoku Ashura hen/TATSUYA UKYO SAGA - https://cdromance.com/psp/kurohyou-ryu-ga-gotoku-shinshou/ https://cdromance.com/psp/kurohyou-2-ryu-ga-gotoku-ashura-hen/
+
+>Fist of the North Star: Lost Paradise/ KENSHIRO SAGA - https://www.playstation.com/en-gb/games/fist-of-the-north-star-lost-paradise/
 
 >Question for the thread: 
 ???

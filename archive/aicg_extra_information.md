@@ -287,6 +287,9 @@ https://rentry.org/weirdbutfunjailbreaksandprompts
 https://rentry.org/jinxbreaks
 - collection of jailbreaks to set the tone of a roleplay
 
+https://de3.neocities.org
+- dalle-3 image showcase pulled from proxies
+
 Another entertaining [/aicg/](https://boards.4channel.org/wsg/catalog#s=aicg)
 
 ##### ~Tech stuff~

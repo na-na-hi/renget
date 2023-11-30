@@ -613,6 +613,9 @@ Hifumi 'Fired Up' Stamp: https://desuarchive.org/tg/post/91008290/
 Sandatsu Artfag (Freedom and Awakening): https://desuarchive.org/tg/post/91035194/
 Student Vigilante Artfag: https://desuarchive.org/tg/post/91040871/
 Maru walking: https://desuarchive.org/tg/thread/91064631/#91065971
+Junichi: https://desuarchive.org/tg/post/91082748/
+Sandatsu's Hidden Form: https://desuarchive.org/tg/post/91082759/
+Sandatsu: https://desuarchive.org/tg/post/91082769/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -937,6 +940,10 @@ In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn): https://ren
 The Most Complex Piece Anon Has Ever Written? (3-B) : https://rentry.org/at8vz
 Sticky Situation (Yamata): https://rentry.org/bnihv
 Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas): https://rentry.org/6MonthsOfRotLater
+To the rescue 1.5: https://rentry.org/awore
+Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki): https://rentry.org/yz972
+Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva): https://rentry.org/den5q
+A chance of fate, or just a single misstep? (Arena, Yamata): https://rentry.org/7q425
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

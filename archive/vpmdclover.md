@@ -104,13 +104,10 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 #### List of Stories Sorted by Author
 * Acrab the Krabby
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
-* Adrian the Umbreon
-	* [Adrian Origin](https://pastebin.com/tLSf0AN5)
-	* [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1)
-	* [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2)
-	* [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
-	* [Team Moonshine: Troubled Sleep (pt. 1) (ft. Adrian)](https://rentry.org/moonshinesleep1)
-	* [Team Moonshine: Troubled Sleep (pt. 2) (ft. Adrian)](https://rentry.org/moonshinesleep2)
+* [Adrian the Umbreon](https://rentry.org/UmbreonAnon) (Also has a homepage! You should look at it!)
+	* [A New Life as an Umbreon](https://rentry.org/AdrianOrigin)
+	* [Adrian's New Team](https://rentry.org/TeamMoonshine)
+	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -518,21 +515,18 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
 * [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
 * [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
-* [Adrian Origin](https://pastebin.com/tLSf0AN5)
+* [A New Life as an Umbreon (ft. Adrian)](https://rentry.org/AdrianOrigin)
 * [The Great Bulk ch. 6 (ft. Makky)](https://rentry.org/GreatBulk6)
 * [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7)
 * [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
 * [The New Celeb of Sahara Town ch.5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5)
-* [Adrian's New Team (pt. 1)](https://rentry.org/teamadrian1)
+* [Adrian's New Team](https://rentry.org/TeamMoonshine)
 * [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4) 
-* [Adrian's New Team (pt. 2)](https://rentry.org/teamadrian2)
-* [Adrian's New Team (pt. 3)](https://rentry.org/teamadrian3)
 * [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1)
 * [Sterling's Purpose ch. 6](https://rentry.org/thu62)
 * [Sterling's Purpose ch. 7](https://rentry.org/933py)
-* [Team Moonshine: Troubled Sleep (pt. 1) (ft. Adrian)](https://rentry.org/moonshinesleep1)
+* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 * [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
-* [Team Moonshine: Troubled Sleep (pt. 2) (ft. Adrian)](https://rentry.org/moonshinesleep2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

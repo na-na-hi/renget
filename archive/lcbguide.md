@@ -34,7 +34,7 @@ Yes. There are only 3 rarity tiers, and you can currently clear all content with
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled/unptied Identities, or Identities that are very weak against the enemy. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
 
 **8. Does this game have supports?**
-Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and during a specific story dungeon. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
+Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and during two story dungeons. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **9. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
