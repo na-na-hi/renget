@@ -1,7 +1,7 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/60840099
-Latest Aggie: https://aggie.io/4o2z65ipfy
+Latest thread: https://boards.4chan.org/trash/thread/61498002
+Latest Aggie: https://aggie.io/o83ts72_0_
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -74,6 +74,10 @@ https://desuarchive.org/trash/thread/60219415 /pizzatrash/ 58
 https://desuarchive.org/trash/thread/60406900 /pizzatrash/ 59
 https://desuarchive.org/trash/thread/60611109 /pizzatrash/ 60
 https://desuarchive.org/trash/thread/60840099 /pizzatrash/ 61
+https://desuarchive.org/trash/thread/61077180 /pizzatrash/ 62
+https://desuarchive.org/trash/thread/61293962 /pizzatrash/ 63
+https://desuarchive.org/trash/thread/61498002 /pizzatrash/ 64
+
 
 #####Aggie
 
@@ -127,3 +131,5 @@ https://aggie.io/phxxndic6q /pizzatrash/ Aggie #37: Stomboli Edition
 https://aggie.io/1rovl1i68e /pizzatrash/ Aggie #38: SCARED SHITLESS!
 https://aggie.io/dnuhnyuhij /pizzatrash/ Aggie #39: NNN Edition
 https://aggie.io/4o2z65ipfy /pizzatrash/ Aggie #40: Caprese Edition
+https://aggie.io/e3upodxwgh /pizzatrash/ Aggie #40... or is it 47?!
+https://aggie.io/o83ts72_0_ /pizzatrash/ Aggie #41: Black Friday Edition

@@ -22,11 +22,16 @@ https://rentry.org/pcrgMTLguide (Not broken)
 1. Go to https://www.dmm.com/ a DMM account. (Make sure it isn't the EN version)
 2. Go to the https://dmg.priconne-redive.jp/ and click the giant pink button
 3. To grab the latest DMM version installer, click the Orange button on the right
-	1. If you already have the DMM client, skip to step 6
+	1. If you already have the DMM client and profile setup, skip to step 6
 4. After installing, log in with your previously created DMM credentials
-5. Return to the Princess Connect browser page and click the giant pink button again
-6. Choose the blue option to start your Princess Connect download in the DMM Player App
-7. Once it finishes downloading, you can launch it from the Myゲーム page.
+5. In the DMM client, click on your profile at the top right > プロフィール to finish creating a DMM profile
+6. Return to the Princess Connect browser page and click the giant pink button again
+7. Choose the blue option to start your Princess Connect download in the DMM Player App
+8. Once it finishes downloading, you can launch it from the Myゲーム page.
+
+Error notes:
+- If you cannot finish your DMM profile registration because the Orange registration button does nothing, turn off your ad blocker or use a browser without one.
+- If you receive an installation error noting that access was denied, you need to run DMM as an admin.
 
 Note: Remember you can use Salted emails by adding a "+" at the end of your email followed by numbers or whatever salt you want to use.
 

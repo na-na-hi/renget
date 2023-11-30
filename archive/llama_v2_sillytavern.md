@@ -40,13 +40,15 @@ Fine-tuned models are modified versions of the original LLaMA, tailored for spec
 
 The **most popular Llama 2 model for roleplay/character chat** is [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF). I would recommend the [4\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.Q4_K_M.gguf). Alternatively, pick the [5\_K\_M quantized version](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF/resolve/main/mythomax-l2-13b.Q5_K_M.gguf) if you are willing to put up with mildly slower speeds for a slight quality boost (if you don't have 12GB+ VRAM you will get slowdowns on higher quants of 13b)
 
-Most notable 7b models based off Llama are Mistral finetunes. Mistral is a base model that came out after the original release of Llama 2, and it has solid performance for 7b, with many claiming it punches above its weight class and is almost as good as 13b (with a bigger context window to boot). A notable Mistral 7b model for roleplay/character chat is [Toppy 7b](https://huggingface.co/Undi95/Toppy-M-7B-GGUF). Your best bet would be the [GGUF version](https://huggingface.co/Undi95/Toppy-M-7B-GGUF), specifically 6_K quantized or higher, if you have the VRAM for 8 bit.
+Most notable 7b models based off Llama are Mistral finetunes. Mistral is a base model that came out after the original release of Llama 2, and it has solid performance for 7b, with many claiming it punches above its weight class and is almost as good as 13b (with a bigger context window to boot). The most notable Mistral 7b model for roleplay/character chat is [Toppy 7b](https://huggingface.co/Undi95/Toppy-M-7B-GGUF). Your best bet would be the [GGUF version](https://huggingface.co/Undi95/Toppy-M-7B-GGUF), specifically 6_K quantized or higher, if you have the VRAM.
 
 - ### What is quantization and what do the numbers mean?
 
-_Quantization reduces model size by rounding numbers. **Fewer bits mean more information loss**, so choose at least a 3\_K\_L model, and not 2-bit. 4\_K\_M and 5\_K\_M are very close to uncompressed fp16 models but require less space. If you have under 10GB VRAM, and want to balance speed with quality, I would go for **_4\_K\_S_**_._ If unsure, go for_ **_4\_K\_M_**_, the most common quantization, or_ **_5\_K\_M_**_._ (If you have the VRAM / are willing to tolerate slower speeds if you don't have the VRAM)
+_Quantization reduces model size by rounding numbers. **Fewer bits mean more information loss**, so choose at least a 3\_K\_L model, and not 2-bit. 4\_K\_M and 5\_K\_M are very close to uncompressed fp16 models but require less space. If you have under 10GB VRAM, and want to balance speed with quality, I would go for **_4\_K\_S_**_._ For 13b, if unsure, go for_ **_4\_K\_M_**_, the most common quantization, or_ **_5\_K\_M_**_._ (If you have the VRAM / are willing to tolerate slower speeds if you don't have the VRAM)
 
 _"K_S" is Small, "K_M" is Medium, and "K_L" is Large._
+
+For 7b, it makes the most sense to go no lower than 5_K_M.
 
 ## Step 3. Download the latest SillyTavern release
 
@@ -56,7 +58,6 @@ _"K_S" is Small, "K_M" is Medium, and "K_L" is Large._
 ## Step 4. Launch Koboldcpp
 
 Open koboldcpp.exe. This is how we will be locally hosting the LLaMA model.
-
 
 ### Important Settings
 
@@ -78,16 +79,15 @@ Select your model and with CuBLAS enabled if you’re a NVIDIA user. Then hit �
 
 Go to your SillyTavern folder and run ‘UpdateAndStart.bat’.
 
-![](https://files.catbox.moe/hid98g.png)
+![](https://files.catbox.moe/b8bga8.png)
 
-After that you can click ‘Connect’, and if everything went well, you’re connected to the model!
+After that you can click ‘Connect’ with the correct kobold API link, and if everything went well, you’re now connected to the model!
 
-**Before we start importing characters,** you might want to try setting your Advanced Formatting settings to be following a custom instruction setup (Instruct Mode). In the past, Simple-Proxy was considered the best template, but 'Lightning' is a more modern choice. You may want to experiment with this since Simple-Proxy assumes the user wants detailed and verbose outputs, but in my opinion Lightning is a good generalist template to start with. 
-(screenshot is before Lightning was added to SillyTavern, but should be available in the list)
+**Before we start importing characters,** you might want to try setting your Advanced Formatting settings to be following a custom instruction setup (Instruct Mode). In the past, Simple-Proxy was considered the best template, but 'Alpaca' is a more modern choice. You may want to experiment with this since Simple-Proxy assumes the user wants detailed and verbose outputs, but in my opinion Alpaca is a good generalist template to start with. ChatML models will generally require ChatML use; this guide's recommendations of models are of those that do not use ChatML.
 
-![](https://files.catbox.moe/ortq3q.png)
+![](https://files.catbox.moe/pxg2qf.png)
 
-After clicking the top right icon, you’re able to import characters and start chats with the cards you’ve imported:
+This is a typical Alpaca instruct preset which should be a solid configuration for most models.
 
 ![](https://files.catbox.moe/30c04m.png)
 
@@ -95,22 +95,21 @@ In this tab, hit the upload character button to upload a character card (usually
 
 _(Be mindful of the very unfiltered cards on that website; you’ve been warned)_
 
-[Here’s a simple card I made of that one Family Guy bit.](https://files.catbox.moe/hnbk8p.png)
-
 After that, you can select a card, and it will begin a new chat.
 
-These are the default settings \[Default-TavernAI] for the presets on the left; mainly, I would ensure that your Context Size matches what you set in kobold. 
+These are good settings that should reasonably work across different models on the latest koboldcpp:
 
-![](https://files.catbox.moe/9940vn.png)
+![](https://files.catbox.moe/kcfrba.png)
 
-- EDIT: There is no longer a Default-TavernAI preset. I would recommend starting with "Miro Gold"; this is a special Mirostat preset that has gained popularity. Mirostat tries to go for an 'average' amount of creativity without being too creative (incoherent) or too boring (repetitive); YMMV.
+Here are the most important things to know about Sampler settings:
 
-Response Length is a hard limit of how many tokens a single response is allowed to have. The other settings here are **hyperparameters**, which are quite advanced and require some manual tinkering if you want to get experimental. Temperature impacts the variability of your outputs the most, while the repetition penalty might need an increase if you notice that the model is gravitating towards the same phrases over and over (1.0-1.2 is a reasonable range, but be careful not to overdo it).
+- 'Response' is a hard limit of how many tokens a single response is allowed to have. 
+- Temperature changes the confidence of the model's initial scores for each word. If you go lower than 1.0, the model will increase the chance of already probable words. If you go higher than 1.0, the chances of less likely scores will be more probable. Values of 1.25-1.75 seem like the sweetspot.
+- Min P controls the word diversity based on how likely each word is compared to the most probable one. For instance, if you set Min P to 0.1, only words at least 1/10th as likely as the top choice will be considered during generation; the rest will be discarded.
 
 ——————————————————————————————————————————————————————————————————
 
 And that’s about it for basic use of LLaMA & SillyTavern for character chats!
-
 
 # Other Tips
 
@@ -128,6 +127,7 @@ And that’s about it for basic use of LLaMA & SillyTavern for character chats!
 - This guide is by no means comprehensive, and tries to avoid being overly technical. SillyTavern is not the only frontend; other methods to host llama exist as well (text-generation-webui for example); this is simply the easiest way to start using and experimenting with local language models.
 - Keeping your monitor(s) plugged into your integrated GPU instead of your discrete GPU will save you some VRAM if you're GPU poor.
 - Experimenting is essential if you want the best results in general for local models, but the defaults provided here are based on my own experience.
+- [Here’s a simple card I made of that one Family Guy bit.](https://files.catbox.moe/hnbk8p.png)
 
 Things I might add later:
 

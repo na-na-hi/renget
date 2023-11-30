@@ -2,9 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 26/11/23: Warm Urine Edition**
-
-!!!info Time until Union Raid S11: https://timee.io/20231124T0300?tl=NikkeUnionRaid11
+**Last updated: 30/11/23: Warm Urine Edition**
 
 ***
 
@@ -25,7 +23,7 @@
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 4    | 32/32    | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ | ==**20186**== | 1    | 12/20    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ | ==**20186**== | 2    | 13/25    | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
