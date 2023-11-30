@@ -41,14 +41,13 @@
 - Users may get easily pdf magazines in practically every category for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/downmagaz.net/)
 
+### 🔗 [ebook-hunter](https://ebook-hunter.org/)
+- This fantastic website offers a vast collection of PDF and EPUB ebooks that you can search for absolutely free.
+- [URL Safety Results](https://www.urlvoid.com/scan/ebook-hunter.org/)
+
 ### 🔗 [eBooks and Texts](https://archive.org/details/texts)
 - Find almost 20 million freely accessible books and materials, totaling over 10PB!
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
-
-### 🔗 [eBookShelve](https://ebookshelve.top/)
-- The joy of reading has brought book lovers together, and now anybody can browse and download a wide variety of books in different genres.
-- To download, copy the Base64-encoded hash and decoded it with [this tool](https://www.urlvoid.com/base64-online/).
-- [URL Safety Results](https://www.urlvoid.com/scan/ebookshelve.top)
 
 ### 🔗 [ForCoder](https://forcoder.su/) / [2](https://coderprog.com/) / [3](https://scanlibs.com/)
 - It focuses on IT and programming books, which are available for free download.

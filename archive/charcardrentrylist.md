@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
@@ -39,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
-[GGR89](https://rentry.org/ggr89) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Johncock](https://rentry.org/Johncock) | Misc ||

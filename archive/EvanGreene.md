@@ -77,8 +77,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Grass Gummi | iq booster
+1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
+2. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

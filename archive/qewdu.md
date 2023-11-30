@@ -21,7 +21,7 @@ https://www.mediafire.com/view/ejsydund031gvij
 https://www.mediafire.com/view/ze04zllyaylcy12
 
 - Making the Halo move with the head
-https://www.mediafire.com/view/2o0qbbgfogtrbdd
+https://files.catbox.moe/jfrdxj.jpg
 
 - Animation Swapping
 https://files.catbox.moe/lje7gr.jpg

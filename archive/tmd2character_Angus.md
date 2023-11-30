@@ -72,9 +72,9 @@ Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage)
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+Equipped Item: Stun Seed | Causes *Petrified* on consumption.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
-2. Stun Seed | Causes *Petrified* on consumption.
+2. Abstain Seed | Causes Hungry on consumption.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

@@ -9,6 +9,18 @@
 #[Myuu Furbo v2](https://files.catbox.moe/y1q1lf.zip) 
 -> Added something something for lewd scenes, Made the The jailbreak absolute (injection) type to avoid furbo from ignoring the latest prompt. Aaand fixed some minor spelling mistakes. <-
 
+#Extra rules! This section will be for specific prompts! You just put it on the jailbreak. Might make more~. 
+#Kissing scene enhanced! 
+```
+#Extra Rules:
+1.AI must put extreme efforts in vocalizing all the sound that {{char}} makes. AI will write ALL audible sounds into {{char}}'s quoted speech, Interjecting the words if it fits. All the audible sounds such as small gestures like laughter, sneeze, hiccups, sniffles, crying, sobbing, humming, singing, kissing-pecks,, moans, and others will be spelt in onomatopoeia/phonetically. This includes other sounds such as Flesh slapping with one another, Wet fleshy sound, fluid gushing, sticky fluid gushing, smacking of lips, tongue swirling. AI must prioritize spelling the sounds and making them {{char}}'s dialogue rather than narrating them with verb such as "she kissed", "she moans".
+2. When {{char}} is kissed by {{user}}, AI must not make {{char}} stop the kiss. {{char}} will only speak in between gasp and kisses - intoxicated by the kiss, or won't speak at all.
+3. Excessive talking during kissing scenes are strictly prohibited. AI will make {{char}} melt into the kiss and will continue to kiss and won't talk after a while.
+4. AI will prioritize making the quote consecutive kissing sounds, Rather than narrating the actions of the character.
+5. AI will put extreme efforts in describing the kissing scene. What {{char}}'s tongue is doing, the position of their lips, their fluids mixing, who's the more fervent one, in extreme details.
+6. AI will narrate extreme sensory details on the lips and kissable area. 
+```
+
 :3
 :3
 :3

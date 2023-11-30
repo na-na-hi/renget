@@ -32,6 +32,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 1/28/1 | 1 day | #SQ04 Blast Seed Bomber | A detective in town wants you to catch a 'mon.
 1/29/1 | 1 day | #04 Watcher's Reverie | Dreams are such strange places: even stranger places to visit consciously.
 1/30/1 | 2 days | #05 The Foreshore Turnabout | Time to steal back an entire boat!
+2/3/1 | 1 day | #SQ05 Local Treasures | Artifacts, Salandits, and Bandits...
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -78,3 +79,6 @@ Deep in your dreams, you find yourself somewhere familiar that you don't quite r
 One by one, you "wake up," until you're down to last the struggling to leave the dream. As the final member of your group begins clawing back to reality, her parting words tell you that she'll watch over all of you, as best as she can. And with that statement, you're all awake. With her fate unknown, you can only hope that the Voice of Life escaped the dark clutches of the malevolent force. 
 
 !!! (10/17/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #05 The Foreshore Turnabout
+
+!!! info (11/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ05 Local Treasures
+After meeting the dubiously-titled Professor Salandit and his assistant, he hires your group to seek out a lost tablet from the Marrow Tribe that was stolen by bandits. Retrieving the old text, a recounting of the tribe's foundation, Salandit offers payment and suggests that he'll consider hiring you for more assistance. Although the mission was a success, and you've established some connections, you can't help but feel there's something off about the whole ordeal...

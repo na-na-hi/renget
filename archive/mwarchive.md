@@ -60,6 +60,8 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Before becoming the Unabomber, Ted K. went through CIA funded MK-Ultra program during university years
+* Henry Kissinger, now dead at 100, predicted to take upper management position in hell
 * Aircraft navigation systems in the Middle East face mysterious ongoing hacks leading to major flight problems
 * IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, told shut up or face court martial
 * Mystery Pnuemonia, aka Covid 2, "tearing through" schools in China, WHO calls for masking and social distancing
@@ -70,12 +72,12 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
 * Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
 * Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast
-* Snoop Dogg announces he’s giving up Weed for Health reasons
-* Apple, Disney, Lionsgate, IBM and Comcast pull all advertising from Xitter after reports of antisemitic content
-* ex-CIA agent of 25 years says Reptilians walk amongst us and hold positions of power
 
 ####General Ideas
 
+* Snoop Dogg announces he’s giving up Weed for Health reasons
+* Apple, Disney, Lionsgate, IBM and Comcast pull all advertising from Xitter after reports of antisemitic content
+* ex-CIA agent of 25 years says Reptilians walk amongst us and hold positions of power
 * Boycott of McDonalds for supplying Israeli troops results in 60 ppl being charged with Sedition in Malaysia
 * Chinese "Spamouflage"/"Dragonbridge" disinfo campaign attacking the west with 100's of thousands of sockpuppets
 * Canadian man suffering from Crohns put his moms poop up himself as treatment, started experiencing menopause.

@@ -46,6 +46,8 @@ https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
 >DAY 2: >>91051656
 >DAY 3: >>91059073
 >DAY 4: >>91070426
+>DAY 5: >>91082651
+
 ```
 ***
 Page 2
@@ -538,10 +540,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
-https://rentry.org/6MonthsOfRotLater
->Sasha Azanami
->>91080404
+Artwork:
+Junichi
+>>91082748
+Sandatsu's Hidden Form
+>>91082759
+Sandatsu
+>>91082769
+
+New Writefags
+>To the rescue 1.5
+https://rentry.org/awore
+>Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki)
+https://rentry.org/yz972
+>Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva)
+https://rentry.org/den5q
+>A chance of fate, or just a single misstep? (Arena, Yamata):
+https://rentry.org/7q425
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -737,7 +752,7 @@ Page 4
 >>89507063
 >Tosuke Jinai HN Compound
 >>91016593
-Yosuke Shirai HN The Lustrous Hero, Wavelength
+>Yosuke Shirai HN The Lustrous Hero, Wavelength
 >>91032513
 
 >SUPPORTERS:
@@ -1047,6 +1062,14 @@ https://rentry.org/at8vz
 https://rentry.org/bnihv
 >Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
 https://rentry.org/6MonthsOfRotLater
+>To the rescue 1.5
+https://rentry.org/awore
+>Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki)
+https://rentry.org/yz972
+>Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva)
+https://rentry.org/den5q
+>A chance of fate, or just a single misstep? (Arena, Yamata):
+https://rentry.org/7q425
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

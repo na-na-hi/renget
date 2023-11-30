@@ -531,7 +531,7 @@ Theme:
 Name: Talia Myr Lynn
 Notes: Elfzokutaur who is horny, horny, and also a rather capable adventurer with connections in many a place.
 Data: https://rentry.co/TaliaMyrlinn
-Theme:  https://www.youtube.com/watch?v=FBzkBmh9Ebs         ( :
+Theme:  https://www.youtube.com/watch?v=FBzkBmh9Ebs 
 
 Name:	Tera (and Gaia)
 Note:	2 out of 10 Kitsune Marionettes created to assist the Great Wilds mainly through the DarkFae. These two are smitten sadists skilled in nature and trickery.

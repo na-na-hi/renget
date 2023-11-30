@@ -197,3 +197,10 @@ Head spinning, you drag yourself out from under her desk and get to your feet, s
 As you sit in the driver's seat, rubbing your arms and fixing your hair, you wonder if the last hour was just an intense hallucination. It would be nothing short of surreal for the relationship between manager and talent to have taken such a turn...but Kiara’s smell is still baked into your nostrils, and the Pavlovian effect that has on your dick isn’t reassuring. You start the ignition and drive back home. A thought lingers in the back of your mind like a small briar; the five months delay you communicated was a conservative estimate. Knowing the incredible lethargy in which Japanese business' operate, it's likely to be more like eight months, if not a full year.
 
 You wonder, with perverse curiosity, how Kiara would react to such news.
+
+–
+–
+
+-> *Art courtesy of a drawanon from /wg/* <-
+
+-> ![Stenchou](https://files.catbox.moe/x3z91i.png) <-
