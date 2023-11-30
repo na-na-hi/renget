@@ -199,7 +199,7 @@ These apps are **required** for certain components to work:
 - Search (breaks search feature in the Start Menu if removed)
 - ShellExperienceHost (required for the Task Bar)
 - StartMenuExperienceHost (required for the Start Menu)
-- Windows.ClientCBS (required for a few things like Settings panel)
+- Windows.ClientCBS (required for a few things such as the Settings panel)
 - ImmersiveControl Panel (required for the Settings panel)
 
 What you remove depends entirely on your goals, if you want a minimal installation then remove everything except the list above, if you want the Store keep AAD Broker Plugin, Accounts Control, if you use a printer keep the printer apps, if you want to use Xbox features the Xbox app etc.
@@ -212,7 +212,7 @@ For Optional Features, I disable the following as I don't have a use for SMB and
 
 -> ![oo-optional](https://i.imgur.com/bvLTuaf.png) <-
 
-For **Windows Services** we can do a lot of optimization and reduce our system's footprint, but we also have to be careful about which services we disable as it can easily break features. For this guide, I suggest **not disabling** anything. We will optimize Services later in the guide in a live environment so we can have a more granular control over things. 
+For **Windows Services** we can do a lot of optimization and reduce our system's footprint, but we also have to be careful about which services we disable as it can easily break features. For this part, I suggest **not disabling** any Services yet. We will optimize Services later in the guide in a live environment so we can have a more granular control over things. 
 Press **Cancel** anytime to skip a dialog.
 
 Optimize-Offline will apply further tweaks, do some cleaning and compression and then generate the ISO in a new folder called **Optimize-Offline_CREATIONDATE** together with some logs.
@@ -430,7 +430,7 @@ Nowadays, almost all malware tries to phone home so we don't want anything conne
 #### About Windows Firewall
 Even though they can both work together, you don't need **Windows Firewall** to be enabled to use firewalls like Simplewall or Tinywall because they use the [Windows Filtering Platform (WFP)](https://learn.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page) which is the underlying technology the Windows Firewall rests upon. 
 
-You should note however that if you still have **Windows Firewall** enabled that it can take precedence over the other firewalls, and most importantly that in its default configuration pretty much any software can introduce and remove rules from it (think of BitTorrent clients for instance, or Steam), sometimes even without your knowledge. **Windows Filtering Platform** has several layers that traffic goes through and some layers have higher priority over others as shown in the [documentation](https://learn.microsoft.com/en-us/windows/win32/fwp/filter-arbitration) ("Network traffic traverses sub-layers from the highest priority to the lowest priority. "). This is a complicated technical topic, I recommend you read these simplewall issues [here](https://github.com/henrypp/simplewall/issues/254) and [here](https://github.com/henrypp/simplewall/issues/689) if you're interested.
+You should note however that if you still have **Windows Firewall** enabled that it can take precedence over the other firewalls, and most importantly that in its default configuration pretty much any software can introduce and remove rules from it, sometimes even without your knowledge. **Windows Filtering Platform** has several layers that traffic goes through and some layers have higher priority over others as shown in the [documentation](https://learn.microsoft.com/en-us/windows/win32/fwp/filter-arbitration) ("Network traffic traverses sub-layers from the highest priority to the lowest priority. "). This is a complicated technical topic, I recommend you read these simplewall issues [here](https://github.com/henrypp/simplewall/issues/254) and [here](https://github.com/henrypp/simplewall/issues/689) if you're interested.
 
 
 -> ![gpo02](https://i.imgur.com/6nffqOz.png) <-
@@ -553,15 +553,15 @@ To minimize the damage once we connect to the internet and launch Windows Update
 Search the Start Menu for **"Group Policy"** or open Run and launch **gpedit.msc**.
 
 Navigate to ```Computer Configuration > Administrative Templates > All Settings```.
-Press the first column of the list that appears to **order** everything by name, go through the list and:
+Press the first column of the list that appears to **order** everything alphabetically, go through the list and:
 
 **Disable** the following:
 -> ![gpo01](https://i.imgur.com/MJ7RduG.png) <-
 Disabling **Windows Updates** here makes it so Windows will only check for updates manually when we press the button to do so.
 
 **Enable** the following:
--> ![gpo02](https://i.imgur.com/aYdCx8A.png) <-
 Pay attention that for some of the options you have to select the correct setting in the drop-down menu after enabling them such as "Prevent Pre-Launching" for Microsoft Edge or "[0] Security [Enterprise Only]" for **Allow Telemetry**.
+-> ![gpo02](https://i.imgur.com/aYdCx8A.png) <-
 
 ***
 ## Update Windows

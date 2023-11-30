@@ -1,5 +1,3 @@
-#Umbreon-Anon's Rentry Page
-
 Hello, I'm Umbreon-Anon. I'm copying Ribombee-anon's page because his shit is really fucking good and it looks sick as fuck. Hope you all like my writing and my autistic artwork.
 
 All stories listed here are part of Clover Guild. Learn more at https://cloverguild.com/

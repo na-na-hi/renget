@@ -59,7 +59,7 @@ Collaboration project with Enoch. I shall...write more here at a later date.
 
 Ephraim | Description
 :----:  | :----: 
-image later   | Ephraim is one of the leading researchers working on Project Fulminare. Overworking to a fault, he hopes to save humanity with ideas less extreme than those of a certain someone. V2 card with 5 greeting scenarios.
+![Ephraim](https://files.catbox.moe/lr2yzw.png)   | Ephraim is one of the leading researchers working on Project Fulminare. Overworking to a fault, he hopes to save humanity with ideas less extreme than those of a certain someone. V2 card with 5 greeting scenarios.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/ephraim-da9ffd47) . [Catbox](https://files.catbox.moe/wghyx0.png) . [Backgrounds](https://catbox.moe/c/ml9pky)
 
 ***

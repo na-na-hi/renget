@@ -32,6 +32,9 @@ https://shop.hololivepro.com/en/products/hololiveen_rerun2023
 **hololive Closet acrylic stand (Casual outfit)**
 https://shop.hololivepro.com/products/hololivecloset_nanashimumei_1
 
+**HoloEN 1st Concert Connect the World Blu-ray** (Order period ends 25th December 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_bluray
+
 - - -
 ##Games
 **Groove Coaster**
