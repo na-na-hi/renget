@@ -58,10 +58,12 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
-Attributes | Next Tier Bonus | Progress (Numerical) | Progress Bar
------- | :----: | :----: | :----:
-Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | 3/3 | ▮▮▮
-Attribute: Foraging | Tier **ɪ** (+1) | 1/3  | ▮▯▯
+
+Attributes | Tier Bonus | Description
+------ | :----: | :----: 
+Stat: Special Defense | Tier **ɪ** | +1 Physical Mitigation
+Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | Ease of navigating the sea by using the stars under the night sky.
+Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature.
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Completion | Progress (Numerical) | Progress Bar
@@ -84,7 +86,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1.  Royal Gummi|  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
+1. Royal Gummi |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 2. Royal Gummi | Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

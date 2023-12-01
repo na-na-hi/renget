@@ -3,7 +3,7 @@
 ==[E] Walking for LV in Paris!!!==
 Edie films a solo vlog (she makes a lot of them these days)
 ==[BxM] WE'RE PREGNANT==
-Minnie and Bobby announce that they're expecting. Also includes: the obligatory pregnancy test clip (+ Bobby crying and/or picking Minnie up), Minnie and Bobby informing their families, Minnie informing the clique over a call
+Minnie and Bobby announce that they're expecting. Also includes: the obligatory pregnancy test clip (+ Bobby crying and/or picking Minnie up), Minnie and Bobby informing their families, Minnie informing the clique over brunch
 ==[HxH] A Day @ Challenger Agency==
 Hailey records herself visiting Hifumi's office. Everyone there is visibly terrified of her but are doing their best to put on a brave front before the camera. She later has lunch with Hifumi and ends the video there
 ==[HIVE] EOM Wrap-Up #96==

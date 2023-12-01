@@ -616,6 +616,7 @@ Maru walking: https://desuarchive.org/tg/thread/91064631/#91065971
 Junichi: https://desuarchive.org/tg/post/91082748/
 Sandatsu's Hidden Form: https://desuarchive.org/tg/post/91082759/
 Sandatsu: https://desuarchive.org/tg/post/91082769/
+sandatsu origin: https://desuarchive.org/tg/post/91092900/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -944,6 +945,11 @@ To the rescue 1.5: https://rentry.org/awore
 Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki): https://rentry.org/yz972
 Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva): https://rentry.org/den5q
 A chance of fate, or just a single misstep? (Arena, Yamata): https://rentry.org/7q425
+Gossip 8: https://rentry.org/xqthh
+A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken): https://rentry.org/ondcwi
+Visiting an Old Friend (Yamamoto): https://rentry.org/cvwhb
+THE SECRET LIFE OF SANDATSU OWARI: https://rentry.org/2v4te
+A poem for Orochi: https://desuarchive.org/tg/post/91100938/
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

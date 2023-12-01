@@ -14,11 +14,8 @@ https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=KqDLrvrl_p0
 
-\>[New Character] Leni - Eternal Return
-https://www.youtube.com/watch?v=57kSs-F-wRY
-
-\>Lumiapedia - Leni
-https://www.youtube.com/watch?v=-fjn3buOAbY
+\>[New Character] Tsubame
+https://www.youtube.com/watch?v=LaTdRGL7NEk
 
 \>Prison Guard Abigail
 https://www.youtube.com/watch?v=if96JB1mnx8

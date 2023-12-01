@@ -427,6 +427,8 @@ v50:
 	Model: https://pixeldrain.com/u/71ZWunuG
 	Yaml: https://pixeldrain.com/u/aoxveaCu
 
+For added realism, try using Furtastic's negative embeddings (found [here](https://rentry.org/trashcollects#furtastic-v20)).
+
 ### 0.7(Bacchusv31)+0.3(5050(BB95v11+Furtastic2))-pruned.safetensors
 
 	https://pixeldrain.com/u/WLcp8sTU

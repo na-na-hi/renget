@@ -60,6 +60,7 @@
 [Heinz](https://files.catbox.moe/ap3406.png)
 [Gunther](https://files.catbox.moe/aym65q.png)
 [Carnage](https://files.catbox.moe/m1b53c.png)
+[Oskar](https://files.catbox.moe/8u31ni.png)
 
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)

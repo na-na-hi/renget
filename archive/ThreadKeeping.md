@@ -47,6 +47,7 @@ https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
 >DAY 3: >>91059073
 >DAY 4: >>91070426
 >DAY 5: >>91082651
+>Day 6: >>91091642
 
 ```
 ***
@@ -540,23 +541,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Artwork:
-Junichi
->>91082748
-Sandatsu's Hidden Form
->>91082759
-Sandatsu
->>91082769
+New Artfag:
+>sandatsu origin
+>>91092900
 
-New Writefags
->To the rescue 1.5
-https://rentry.org/awore
->Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki)
-https://rentry.org/yz972
->Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva)
-https://rentry.org/den5q
->A chance of fate, or just a single misstep? (Arena, Yamata):
-https://rentry.org/7q425
+New Poem!?:
+>A poem for Orochi
+>>91100938
+
+New Writefags:
+>Gossip 8
+https://rentry.org/xqthh
+>A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken)
+https://rentry.org/ondcwi
+>Visiting an Old Friend (Yamamoto):
+https://rentry.org/cvwhb
+>THE SECRET LIFE OF SANDATSU OWARI
+https://rentry.org/2v4te
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -1070,6 +1071,14 @@ https://rentry.org/yz972
 https://rentry.org/den5q
 >A chance of fate, or just a single misstep? (Arena, Yamata):
 https://rentry.org/7q425
+>Gossip 8
+https://rentry.org/xqthh
+>A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken)
+https://rentry.org/ondcwi
+>Visiting an Old Friend (Yamamoto):
+https://rentry.org/cvwhb
+>THE SECRET LIFE OF SANDATSU OWARI
+https://rentry.org/2v4te
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
