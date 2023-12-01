@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Emmeline](https://files.catbox.moe/msfdt4.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png), [BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
@@ -34,7 +35,6 @@ Botmaker | Category | New Bots | Updated Bots
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
-[Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||

@@ -14,7 +14,6 @@ if you want add /nigger/i;boards:trash but that will overreach if you browse any
 
 /-trash/
 
-/Fj/
 
 Hide text-based shitposting by enabling Fappe Tyme, which can be done either by pressing F on your keyboard or from the dropdown menu on the upper right of your screen. 
 add '/(>>\d+\s+){10,}/ to general in order to filter massreply spam

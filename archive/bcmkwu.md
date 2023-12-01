@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>Russians are chased by a FPV drone and narrowly avoid being hit 
+https://files.catbox.moe/4kmgyy.mp4
+>Device called "The Linguist"broadcasts calls of surrender in both Russian and Ukrainian 
+https://files.catbox.moe/lpjxv7.mp4 
+>Russian soldiers have made an alarm to detect FPV and grenade dropping drones
+https://files.catbox.moe/sev9hi.mp4 
 >Asterovich on march 2022 peace deal
 https://files.catbox.moe/h61nvo.mp4
 >missile strikes on Coke Plant tunnels

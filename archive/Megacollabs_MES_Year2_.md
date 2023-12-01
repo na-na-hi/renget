@@ -36,7 +36,7 @@ Rather being a normal POV, Mori's stream had an early discussion in Vchat with t
 | 2022-11-03|  [holoweEN Episode 3: Ophanim [Ninomae Ina'nis, Nanashi Mumei, Ouro Kronii]](https://www.youtube.com/watch?v=OR9pvITHH24) |
 
 #####HoloEN Advent Calendar 2022
-[Link to Calendar Page proper](https://holoen-advent.com)
+[Link to Calendar Page proper](https://holoen-advent.com/2022)
 | Date | Link|
 |------|-----|
 | 2022-12-02| [Day 2](https://www.youtube.com/watch?v=2eKj_CORh5I)|

@@ -3,10 +3,10 @@ https://imgur.com/a/XLyHOh3
 
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/0FEJbcp.png)
-Mr. November Edition
+![suggested OP image]()
+ Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>452371878
+Last thread: >>456062493
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,14 +36,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Halloween Friday is over; enjoy the Spooky prompts! Last: >>451730056
+\>Write prompts for next week's theme, Giant Robots and Mechas Friday! >>456190168
  
 ▶News
-\>(11/01) NAI needs more novelshills https://anlatan.ai/jobs
-\>(10/31) BIDEN... BLAST! https://ai.gov/actions/
-\>(10/25) Vistory, a challenger to AI Roguelite, to appear? https://linktr.ee/\_pexel
-(10/20) Anlatan updates Novel Diffusion Anime to V2 https://novelai.net/updates
-(10/01) DALL-E 3 now """available""" through Bing Creator AI https://www.bing.com/create
+(11/17-22) SAM ALTMAN FIRED, HIRED, THEN REHIRED: https://archive.is/Zb6zB / https://archive.is/2lmPO / https://archive.is/HZIcW
+(11/15) Anlatan releases NAI Diffusion V3: https://blog.novelai.net/introducing-novelai-diffusion-anime-v3-6d00d1c118c3
+(11/09) Saga updates with GPT-4-Turbo (and GPT-3.5-Turbo-1106)
+(11/06) OAI unveils GPT-4-Turbo, GPTs https://openai.com/blog/new-models-and-developer-products-announced-at-devday
+(11/01) NAI needs more novelshills: https://anlatan.ai/jobs
 
 
 #Perma-Template

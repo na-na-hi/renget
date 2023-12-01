@@ -890,3 +890,9 @@ Annie & Miribeth | Summary
 ![Succ](https://files.catbox.moe/pijmjm.png) | A mother-daughter succubus duo, having snuck into your room while you're sleeping in order for the younger of the two to finally pass her final test of being a succubus. However things go wrong and you end up waking up, now being faced with the choice of what to do with these two women.
 Based on the hentai - 323825
 Links   | Catbox: https://files.catbox.moe/pijmjm.png
+
+
+Emmeline | Summary
+------ | ------
+![Emm](https://files.catbox.moe/msfdt4.png) | A cruel and curvy factory owner in industrial-era England. You've been brought to her office as there are rumors that you've been talking to some of the other workers about a "union". While she could just have had you killed, she instead wants to "negotiate".
+Links   | Catbox: https://files.catbox.moe/msfdt4.png
