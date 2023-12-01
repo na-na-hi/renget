@@ -299,13 +299,13 @@ Rosethorn sat at her temporary desk within the NQC building. She was on the phon
 
 Rosethorn hung up the phone and leaned back in her chair. She was tired but overall satisfied. The majority of her hero students had passed the grueling licensed exam. Just a bit more paperwork and she could call it a day. There was a light knock on the door. Rosethorn looked up to see her student, Nyoro Hoge, standing there holding a stack of papers. The young girl bowed politely.
 
-"I have evaluation papers you wanted, sensei," Hoge said, stepping forward to place them on Rosethorn's desk.
+"I have the evaluation papers you wanted, sensei," Hoge said, stepping forward to place them on Rosethorn's desk.
 
 Rosethorn smiled lightly at her diligent student. "Sasuga. You had all week to do this. Shouldn't you be resting and recovering with the others, Nyoro-san?"
 
-"My injuries were not as severe. I decided to get my tasks done early," Hoge replied calmly.
+"My injuries were not as severe. I decided to get my tasks done early," Hoge replied calmly, yet Rosethorn could hear the fatigue in the young girl's timid voice.
 
-"I see. Well, please follow me to the infirmary," Rosethorn took the pages from Hoge and headed for the door. Rosethorn's heels clicked down the hallway of NQC Medical Wing, the fluorescent lights glinting off the polished floor. Hoge followed behind her, the girl's presence barely noticeable against the stark walls. Few words passed between them. 
+"I see. Now that you're done. I'll accompany you back. Please follow me to the infirmary," Rosethorn took the pages from Hoge and headed for the door. Rosethorn's heels clicked down the hallway of NQC Medical Wing, the fluorescent lights glinting off the polished floor. Hoge followed behind her, the girl's presence barely noticeable against the stark walls. Few words passed between them. 
 
 She spared a glance at her reticent student, a swell of pride rising within her chest.  Hoge had once again exceeded expectations. Rosethorn had her doubts about the class representative at the start of the year but Hoge's drive was an ember that couldn't be smothered, and it carried through the entire class.
 

@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>Asterovich on march 2022 peace deal
+https://files.catbox.moe/h61nvo.mp4
+>missile strikes on Coke Plant tunnels
+https://files.catbox.moe/blc39n.mp4
+>VDV counterattack and destroy the hohols near Verbovoye, another Leopard 2 threw the turret
+https://files.catbox.moe/ynm6q9.mp4
+>The coomer of Kremenaya
+https://files.catbox.moe/8ub25d.mp4
+>New wave anihilation at Krinky
+https://files.catbox.moe/xy299o.mp4
+>Leopard 2A4 hit BOBR in Zaporozhye direction
+https://files.catbox.moe/mrubed.mp4
+>Footage of abandoned Leopard 1
+https://files.catbox.moe/u7kofr.mp4
 >Z Sapper units using drone to de-mine a liberated vilage
 https://files.catbox.moe/otyf8v.mp4
 >Russian paratroopers storm another AFU stronghold in the Bakhmut direction and capture 4 piggers

@@ -29,7 +29,7 @@
   - **STORES:** mall, bookstore, clothing store, grocery store, florist
   - **OUTINGS:** hotel room, museum, nature park, amusement park, arcade, beach, club, pool, street, train, bar, church, cinema, hot springs, restaurant
 
-- The jacketless outfit is used in your house and Tomoyo's, but if you prefer that she wears it everywhere you can add `&casual=true` to every image URL. The beach and pool backgrounds will always have the bikini sprite set. You can use it anywhere by adding `&bikini=true` to image URLs, though. The nude sprite set will be used at any time that Tomoyo gets naked, or on the hot_springs background. The URL parameter for it is `nude=true`.
+- The jacketless outfit is used in your house and Tomoyo's, but if you prefer that she wears it everywhere you can add `&jacketless=true` to every image URL. The beach and pool backgrounds will always have the bikini sprite set. You can use it anywhere by adding `&bikini=true` to image URLs, though. The nude sprite set will be used at any time that Tomoyo gets naked, or on the hot_springs background. The URL parameter for it is `nude=true`.
 
 ### Sprites
 

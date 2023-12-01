@@ -12,6 +12,10 @@ https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
 https://www.youtube.com/watch?v=w1utY0z9g00
 https://www.youtube.com/watch?v=qVY5qmQVrMo
 
+\>Argenti Trailer — "Chivalric Romances" 
+https://www.youtube.com/watch?v=PhqU5X_sMPA
+https://www.youtube.com/watch?v=i6kCF9tZDkg
+
 \>Huohuo Trailer — "Night of Thrills" 
 https://www.youtube.com/watch?v=ZK8qfeSOUv4
 https://www.youtube.com/watch?v=FOVHylL_zW8
@@ -39,7 +43,7 @@ https://www.hoyolab.com/article/22658473
 https://www.hoyolab.com/article/22658541
 
 \>Daily check-in (With a new 7-day Check-in event)
-https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true
+https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311
 
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift

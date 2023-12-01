@@ -47,7 +47,7 @@
 - 50K+
 
 [JPN/ENG] Rin: https://www.youtube.com/@usaginorin
-- 1K+
+- Netherland Dwarf, 1K+
 
 [JPN/ENG] Senta: https://www.youtube.com/@sentachannel8992
 - < 1K
