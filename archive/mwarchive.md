@@ -60,6 +60,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Jewish campus org, Hillel paid people to place 'I love Hamas' stickers all over University of British Colombia
 * Before becoming the Unabomber, Ted K. went through CIA funded MK-Ultra program during university years
 * Henry Kissinger, now dead at 100, predicted to take upper management position in hell
 * Aircraft navigation systems in the Middle East face mysterious ongoing hacks leading to major flight problems

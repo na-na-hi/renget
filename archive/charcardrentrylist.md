@@ -18,6 +18,7 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Capucine](https://files.catbox.moe/vugats.png), [Karmin](https://files.catbox.moe/kwnf8z.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Emmeline](https://files.catbox.moe/msfdt4.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png), [BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
@@ -26,13 +27,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
-[Alpaca](https://rentry.org/AlpacaBots) | Misc |[Karmin](https://files.catbox.moe/kwnf8z.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Felix](https://files.catbox.moe/tsyc91.png)|
-[Cuteanon](https://rentry.org/cuteanon) | Misc |[Shy Guy](https://files.catbox.moe/jn7sxp.png)|
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
+[Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||

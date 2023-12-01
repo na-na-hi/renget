@@ -195,6 +195,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
     * [Grandma's Cookies (ft. Margaret the Lilligant)](https://rentry.org/o4cme)
 	* [Smoke Break 3 (ft. Debby)](https://rentry.org/SmokeBreak3)
     * [Cyndaquil's Christmas (ft. Debby)](https://arch.b4k.co/vp/thread/54522203/#54540338)
+	* [Christmas Special (ft. Debby)](https://rentry.org/pmdgcs)
 * Elm the Duskull
 	* [Branching Out (ft. Elm)](https://rentry.org/branching)
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
@@ -527,6 +528,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Sterling's Purpose ch. 7](https://rentry.org/933py)
 * [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 * [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
+* [Christmas Special (ft. Debby)](https://rentry.org/pmdgcs)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

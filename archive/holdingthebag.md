@@ -110,7 +110,6 @@ Club ID | Club Name | Club Status
 90 | Bullies | Open as of 30/11
 1674 | BlueB@lled | Open as of 01/12
 6488 | Kanimochi | Open as of 26/10
-8192 | Mesugaki | Open as of 30/11
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 29/11
 
@@ -130,6 +129,7 @@ Club ID | Club Name | Club Status
 6294 | Lucklets | Full as of 12/04
 6665 | F2Poor | Full as of 10/11
 6786 | Enuji | Full as of 30/09
+8192 | Mesugaki | Full as of 01/12
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
 11162 | VaniVitamins | Full as of 28/11
@@ -142,7 +142,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 623 | Mesugaki | Open as of 28/10
-2496 | AbydosCycling | Open as of 06/11
+2496 | AbydosCycling | Open as of 01/12
 6098 | Comfy | Open as of 16/09
 6289 | FlatIsJustice | Open as of 23/11
 

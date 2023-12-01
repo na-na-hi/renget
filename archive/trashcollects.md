@@ -460,16 +460,68 @@ Artist list as a .txt: https://files.catbox.moe/7ky7fb.txt
 	 https://gitgud.io/gayshit/makesomefuckingporn
 
 # Malo LORA
+MEGA is inaccessible. If anyone has a backup, post in the thread and I will re-add.
+
 	https://mega.nz/folder/GPBn2SSD##eBwvVC89ASh4Yq9hUQP6HA
 
 # Mokochi/Neferpitou (among others) LORAs apparently taken from /h/
-	https://mega.nz/folder/mIVB1CwL##ZEt4Kg2Q8Y5WMR-piNXwfg/folder/HNlUwQAR
+MEGA is inaccessible. If anyone has a list of contents and/or backups, post in the thread and I will re-add.
 
-# Ber00, Elora, Fredina, Quotefox, Ralsei Meme, Rikose, Syuro, Hariet (Mario Odyssey), Double Deck, Volcarona, Claire (The Summoning) in the style of Anonymouse
-	https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
+~~https://mega.nz/folder/mIVB1CwL##ZEt4Kg2Q8Y5WMR-piNXwfg/folder/HNlUwQAR
+
+# Elora, Fredina, Hariet (Mario Odyssey) and others
+- Characters:
+	- Claire (The Summoning)
+	- Fredina's Nightclub
+	- Hariet (Mario Odyssey)
+	- Rat God (Mad Rat Dead)
+	- Elora (Spyro)
+	- Volcarona (Pokemon)
+- Styles:
+	- 80's Anime (Anitoon)
+	- Battle Franky/Brafya
+	- Ber00
+	- Double Deck
+	- Lollipopcon
+	- Quotefox
+	- Rikose
+	- Syuro
+
+https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
 
 # Pokemon, Kikurage, Sindoll, Tsampikos and Hizake among many others (Professor Harkness)
 ~~https://mega.nz/folder/zr4AgC4Y##jIa0G6J5xDdRi2lZ2YNJ5w~~ DEAD
+- Characters:
+	- Zeraora
+	- Zoroark
+	- Braixen
+	- Charizard
+	- Chloe von Einzbern (Fate)
+	- Delphox
+	- Gardevoir
+	- Lopunny
+	- Lucario
+	- Lugia
+	- Meowscarada
+	- Ichigo (Tokyo Mew Mew)
+	- Mewtwo
+	- Mienshao
+	- Ankha / Nile (Animal Crossing)
+	- Raboot
+	- Rubbish Fox
+	- Salazzle
+	- Scorbunny
+	- Secretary Bird
+	- Isabelle / Shizue (Animal Crossing)
+	- Tinkaton
+	- Waaifu
+	- Typhlosion
+- Styles:
+	- Hizake
+	- Kikurage (Full)
+	- Kikurage (Inukoro)
+	- Sindoll
+	- Tsampikos
 
 Reupload: https://pixeldrain.com/l/HY8deXMB
 I scraped together all the LoRAs I think are from him. If I missed any, or there are some missing, post in the thread so I can add them here - if not the LoRAs themselves, then as a list of which ones are still missing. Maybe some anons, or the Prof himself, are willing to share the missing ones.
@@ -487,70 +539,421 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 	https://files.catbox.moe/ypgbd4.7z
 
 # Midna LORA from /h/
-	https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
+- Characters:
+	- Midna (TLoZ TP)
+	- Ranni (Elden Ring)
+- Styles:
+	- Abmayo
+	- Afrobull
+	- as109
+	- azasuke
+	- bartolemeobari
+	- boa (brianoa)
+	- gus (clarkii)
+	- houtengeki
+	- ishikei
+	- kabu (niniko2ko)
+	- mayo_riyo
+	- menma (enaic31)
+	- nadegata
+	- riichu
+	- sugimori ken
+	- wanaca
 
-# Various Styles
+https://mega.nz/folder/ZwFDWa6Z##xJuLqs2QXCDrvZqx7reYfw/folder/Bo9gnCxY
+
+# Various LoRAs, mostly anime based
+- Concepts:
+	- Astartes (WH40K)
+	- Broken / Fucked Silly
+	- Implied Fellatio
+	- Middle Finger
+- Characters:
+	- Me!Me!Me!
+	- Miokofune
+	- Mushoku Tensei (eris greyrat, sylphiette, roxy migurdia, ghislaine dedoldia, lillia greyrat, zenith greyrat)
+	- Tsukimi Eiko
+- Styles:
+	- aaaa (quad-a)
+	- alamander
+	- asanagi
+	- bacun
+	- bluethebone
+	- borscht
+	- cancer (zjcconan)
+	- cheshirrr
+	- chii (tsumami-tsumamare)
+	- chikinan-tarou
+	- cirenk
+	- cremanata
+	- datcravat
+	- david-liu
+	- ddari
+	- dkajart
+	- donguri suzume
+	- doyora
+	- drcockula
+	- ekaki
+	- elliemaplefox
+	- ennuigrl
+	- enpe
+	- fangxiang cuoluan
+	- faustsketcher
+	- fernando correa
+	- flou art
+	- formicid
+	- freng
+	- fumio (rsqkr)
+	- gagaimo
+	- gamenamepuipui
+	- arouma
+	- genek
+	- gil-elvgren
+	- guweiz
+	- hadashi no kenji
+	- henken
+	- henreader
+	- hiramoto akira
+	- hiroe rei
+	- hisha (kan moko)
+	- horikoshi kouhei
+	- iago maia
+	- ice reizou
+	- ilya kushinov
+	- inkerton-kun
+	- j.k
+	- jakuson-z
+	- jun navigabi
+	- junjunforever
+	- kaamin (mariarose753)
+	- kafun
+	- kajin (kajinman)
+	- kame (kamepan44231)
+	- kaoming
+	- katsu (24791909)
+	- khyle
+	- klimspree
+	- koohiitei shinbo
+	- kotoyama
+	- kurasuke
+	- kuroimori
+	- lamsass
+	- lasterk
+	- lilandy
+	- lk149
+	- lm (legoman)
+	- makaroll
+	- maydaykiki
+	- melowh
+	- minillustration
+	- misawa hiroshi
+	- mizumori keiichi
+	- moshimoshibe
+	- murata yuusuke
+	- nakkar
+	- nanatsuta
+	- nat the lich
+	- nezulet
+	- noodlenood
+	- oda non
+	- omar dogan
+	- op na yarou
+	- oroborus
+	- pako (pakosun)
+	- pinapo 25
+	- potg (piotegu)
+	- rabbit (wlsdnjs950)
+	- raichiyo33
+	- rizdraws
+	- robaato
+	- rodrigo yoshimiya
+	- ruttu ruttu
+	- ryan domonica
+	- ryusei-r
+	- sakura yuki (clochette)
+	- sanuki (kyoudashya)
+	- satou kuuki
+	- satou shouji
+	- shimakazi1152
+	- shindol
+	- squeezable
+	- tabisumika
+	- takeda hiromitsu
+	- takehiko inoue
+	- tenobe
+	- terufuu
+	- tomaco sunderland
+	- ujac
+	- usa37107692
+	- ushiyama ame
+	- wamudraws
+	- xaxaxa
+	- yamakita higashi
+	- yamashita shunya
+	- yohan1754 (free-style)
+	- yomu (sgt epper)
+	- yoshida akihiko
+	- yoshikawa tatsuya
+	- yoshimon
+	- yotsumi shiro
+	- yukoring
+	- yurun
+	- zako (arvinry
+	- Hades (Game)
+	- Kajiri Kamui Kagura (VN - seems to be based on Dies Irae, neat)
+	- Kizumonogatari
+	- samdoesart (sam yang)
+
 	https://mega.nz/folder/ctl1FYoK##BYlpywutnH4psbEcxsbLLg
 
 # Amad, Kishibe, Pochincoff
-	https://mega.nz/folder/8uZFTBRK##HdBiUFsXvAbuRZC9Agg_fw
+- Styles:
+	- Amad no Moto
+	- CLANG
+	- Kishibe
+	- Pochincoff
+
+https://mega.nz/folder/8uZFTBRK##HdBiUFsXvAbuRZC9Agg_fw
 
 # Binah, Felicia, Meicrackmon, Taokaka
-	https://mega.nz/folder/NugFxBTD##7E7mnrOnPvn0DJrBl7hntw
+- Characters:
+	- Aisha Clan-Clan (Outlaw Star)
+	- Binah (Lobotomy Corporation)
+	- Felicia (Nightstalkers)
+	- Ghislaine Dedoliav (Mushoku Tensei)
+	- Meicrackmon (Digimon)
+	- Taokaka (BlazBlue)
+
+https://mega.nz/folder/NugFxBTD#7E7mnrOnPvn0DJrBl7hntw
 
 # Moths, Pokemon (Style), Mai Shiranui (DubAnon) (New Link)
-	https://mega.nz/folder/RqwWzKJI##cL3aVloimycDgqrqqejyUg
+- Concepts:
+	- Floor-Length Hair
+- Styles:
+	- Pokemon
+	- Shantae and the Pirate's Curse
+- Characters:
+	- Almeida (Granblue)
+	- Anila (Granblue)
+	- Eunectes (Arknights)
+	- Eure (Elf-san wa Yaserarenai)
+	- Kumbhira (Granblue
+	- Miia (Monster Musume)
+	- Moth Anthro
+	- Narmaya (Granblue)
+	- Robin (Iconoclasts)
+	- Rosalina (Mario
+	- Saiki Kusuo (Saiki Kusuo no Psi-nan)
+	- Shiranui Mai (Fatal Fury)
+	- Sorceress (Dragon's Crown)
+
+https://mega.nz/folder/RqwWzKJI##cL3aVloimycDgqrqqejyUg
 
 # Another Fredina LORA
 # 42160 Steps
-	https://www.mediafire.com/file/0ljg5z2iyfxc0p8/BIMBOFREDDY_42160_lora.ckpt/file
+~~https://www.mediafire.com/file/0ljg5z2iyfxc0p8/BIMBOFREDDY_42160_lora.ckpt/file~~ DEAD
 # 80920 Steps
-	https://www.mediafire.com/file/jh31keiazl6jscl/BIMBOFREDDY_80920_lora.ckpt/file
+~~https://www.mediafire.com/file/jh31keiazl6jscl/BIMBOFREDDY_80920_lora.ckpt/file~~ DEAD
 
 # Matuura's Fox Girl (removed from CivitAI)
-	Triggerword is matuurafox
-	https://pixeldrain.com/u/XxyWEbDV
+>Triggerword is matuurafox
+https://pixeldrain.com/u/XxyWEbDV
 
 # Splatoon Characters, Various Pokemon (Froslass, Jirachi, Toxicroak...), Youjomodoki (style) (AmmoniaM)
-	https://mega.nz/folder/WLonVYKB##_zFftVxaUW8iXmKk8jXHZw
+- Characters:
+	- Bisharp
+	- Froslass
+	- Jirachi
+	- Toxicroak
+	- Toxtricity
+	- Victini
+	- Callie (Splatoon)
+	- Marie (Splatoon)
+	- Pearl (Splatoon)
+	- Marina (Splatoon)
+	- Shiver (Splatoon)
+	- Frye (Splatoon)
+- Styles:
+	- youjomodoki
+
+https://mega.nz/folder/WLonVYKB##_zFftVxaUW8iXmKk8jXHZw
 
 # Miraheze (Ankha, Lopunny, Argonians)
-	https://aids.miraheze.org/wiki/LoRAs
+- Characters
+	- Ankha, Animal Crossing
+	- Cynthia, Pokémon
+	- Delia Ketchum, Pokémon
+	- Felix Argyle, Re:Zero
+	- Hex Maniac, Pokémon
+	- Jessie, Pokémon
+	- L, Death Note
+	- Lana's Mom, Pokémon
+	- Link, The Legend of Zelda: Breath of the Wild
+	- Lopunny, Pokémon
+	- Misa Amane, Death Note
+	- N, Pokémon
+	- Natsuki, Doki Doki Literature Club
+	- Panty Anarchy, Panty & Stocking with Garterbelt
+	- Rin Tezuka, Katawa Shoujo
+	- Rouge the Bat, Sonic
+- Styles
+	- Argonians, The Elder Scrolls
+	- Danganronpa
+	- Death Note
+	- Dross
+	- Goblin
+	- Magicami
+	- Party Games, Derpixon
+	- Wolf Girl With You, seismic
+https://aids.miraheze.org/wiki/LoRAs
 
 # Pale Kemono (Amari Akitsune)
-	https://mega.nz/folder/LBgmgYiT##p4ynaa4zMC5B8xnSvktf5w
+https://mega.nz/folder/LBgmgYiT##p4ynaa4zMC5B8xnSvktf5w
 
 # Better Scalies
-	https://pixeldrain.com/u/VJTZFfui
+https://pixeldrain.com/u/VJTZFfui
 
 # Ayabemiso
-	https://files.catbox.moe/x4mqae.safetensors
+https://files.catbox.moe/x4mqae.safetensors
 
 # Shortstacks, Coco Bandicoot, Elora, Midna, Mirko, Priscilla, Ranni, Gwynever Dress, Goblins, Mothgirls, Yordles, PlantPenetrator, Pochincoff, tangobat, wamudraws
-	https://mega.nz/folder/IPM2ERrL##a6Zti0k0G7FZmQz2AfCgrg/folder/tatCTY5L
+- Characters:
+	- Nina (Breath of Fire III)
+	- Riju (BotW
+	- Aika (Skies of Arcadia)
+	- Alcina Dimitrescu (Resident Evil 8)
+	- Bayonetta
+	- Noelle Silva (Black Clover)
+	- Chie Satonaka (Persona 4)
+	- Coco Bandicoot
+	- Deis (Breath of Fire)
+	- Dokkaebi (Rainbow Six)
+	- Doronjo (Yatterman)
+	- Dorothy (Big O)
+	- Elora (Spyro)
+	- Fuu (Samurai Champloo)
+	- Gwynevere (Dark Souls)
+	- Nobara (Jujutsu Kaisen)
+	- Machi Komacine (Hunter X Hunter)
+	- Makoto (Persona 5)
+	- Malon (OoT)
+	- Megaman Girls (Aile, Alia, Ciel, Layer, Leviathan, Roll Caskett, Tron Bonne)
+	- Menat (Street Fighter)
+	- Merlwyb (Final Fantasy XIV)
+	- Midna
+	- Mirabel Garlick (Hogwarts Legacy)
+	- Mirko (My Hero Academia)
+	- Mitsuru (Persona 3)
+	- Momo (Breath of Fire)
+	- Mt Lady (My Hero Academia
+	- Nico (Devil May Cry 5)
+	- Nikki (Swapnote)
+	- Noriko (Gunbuster)
+	- Oboro (Taimanin Asagi)
+	- Overwatch Girls (Mercy, Sombra)
+	- Pramanix (Arknights)
+	- Professor Sada (Pokemon S and V)
+	- RandomGirlPack (Juri SF VI, Cynthia Pokemon, Hilda Pokemon, Jessie Pokemon, Beelstarmon Digimon, Samus Metroid, Mirko MHA)
+	- Sae (Persona 5)
+	- Shantae
+	- Sheik (Zelda)
+	- SoulsWaifus (Priscilla, DS3 Firekeeper, Plain Doll, Melina, Ranni, Maiden in Black)
+	- Tier Harribel (Bleach)
+	- Tsunade (Naruto)
+
+https://mega.nz/folder/IPM2ERrL#a6Zti0k0G7FZmQz2AfCgrg
 
 # Majmajor
-	https://mega.nz/folder/vRRhxZ6T##lUoVgvJ5qZZflIVHH6oqyg
+https://mega.nz/folder/vRRhxZ6T##lUoVgvJ5qZZflIVHH6oqyg
 
 # Blowup Doll Concept
-	https://mega.nz/folder/HtZBDJBR##fjzIGR-Le1KIEZCx94ntsw
+- Characters:
+	- Poison (Final Fight)
+- Concepts:
+	- Blowup Doll
+	- Cocoon
+	- Kumapantsu
+	- Loveletter
+	- Pantybulge
+	- Smalljob
+https://mega.nz/folder/HtZBDJBR##fjzIGR-Le1KIEZCx94ntsw
 
 # Human art by Shinodage and Pestil (Keyword is "pestino")
-	https://mega.nz/file/vQVCVKZa##3KLu3mrq443BlgSGkJlULHKkK1PQZVbe-LRaNlkp2ko
+https://mega.nz/file/vQVCVKZa##3KLu3mrq443BlgSGkJlULHKkK1PQZVbe-LRaNlkp2ko
 
 # Assorted HDG characters and LORAs
-	https://mega.nz/folder/TZElCCIL##OEutCsJPD0G5lXPXLGgfcQ
+- Embeddings:
+	- blackwhiplash
+	- captainjerkpants
+	- cham22 (chamchami)
+	- citrus doodles
+	- coffeelove
+	- eigaka
+	- gats
+	- grayimpact
+	- greatm8
+	- ikuchan
+	- johndoe
+	- jujunaught
+	- kabos
+	- korotsuke
+	- krekkov
+	- metalowl
+	- nuclearwasabi
+	- rizdras
+	- torathi
+	- zako
+	- zankuro
+- Characters:
+	- Aoi Inuyama (Yurucamp)
+	- Asa Mitaka & Yoru (Chainsawman)
+	- Asui Tsuyu (My Hero Academia)
+	- Black Gold Saw (Black Rock Shooter)
+	- Black Rock Shooter
+	- Boss (Pizza Thot)
+	- Chariot (Black Rock Shooter)
+	- Chiaki Oogaki (Yurucamp)
+	- Command Grab (Nuclear Wasabi)
+	- Daisy (Mario)
+	- Dead Master (Black Rock Shooter)
+	- Galko
+	- Hex Maniac (Pokemon)
+	- Kobayashi (Maid Dragon)
+	- Lana (Pokemon)
+	- Lana's Mom (Digimon)
+	- Lenora (Pokemon)
+	- Melony (Pokemon)
+	- Nagatoro
+	- Oleana (Pokemon)
+	- Otako (Oshiete! Galko-chan)
+	- Peach (Mario)
+	- Penny (Pokemon)
+	- Pineapple (Pizza Thot)
+	- Rosalina (Mario)
+	- Saya Endou (Dagashi Kashi)
+	- Sazaki Kaoruko (Gundam Build Fighters Try)
+	- Spider Gwen (Spiderverse)
+	- Strength (Black Rock Shooter
+	- Tips (Pizza Thot)
+
+https://mega.nz/folder/TZElCCIL##OEutCsJPD0G5lXPXLGgfcQ
 
 # Ranamon
-	https://mega.nz/folder/lRZ1ja5Y##f4O0o36egRB_M5fM6wHPOQ
+https://mega.nz/folder/lRZ1ja5Y##f4O0o36egRB_M5fM6wHPOQ
 
 # Birds
-	https://mega.nz/folder/XZ0ETKwC##A3jEZoXJr60Pdwxh-gUgqw
+- Anthro Birds (Winged Arms Only Option)
+- Cockatiel
+- Griffin
+- Puffins!
+- Secretary Birds
+- Tweetfur
+https://mega.nz/folder/XZ0ETKwC##A3jEZoXJr60Pdwxh-gUgqw
 
 # Guangjian Huang (@hgjart)
-	### About keywords: No particulars. I removed the artist name to make it implicit. It works very well with "armor" and "weapon" since most pictures include at least one of those tags. I think "greek" will also set off a couple of images.
-	Epoch 6: https://files.catbox.moe/asbbkh.safetensors
-	Epoch 12: https://files.catbox.moe/fpdliw.safetensors
+>About keywords: No particulars. I removed the artist name to make it implicit. It works very well with "armor" and "weapon" since most pictures include at least one of those tags. I think "greek" will also set off a couple of images.
+Epoch 6: https://files.catbox.moe/asbbkh.safetensors
+Epoch 12: https://files.catbox.moe/fpdliw.safetensors
 
 # Cervina 7 (readme+Epochs 1-15)
 	https://files.catbox.moe/dousfo.txt
@@ -578,113 +981,173 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 	https://files.catbox.moe/i5w4ws.safetensors
 
 #Fursuits
-	https://rentry.org/sxmpm
+https://rentry.org/sxmpm
 
 # Udders (from /d/)
-	https://mega.nz/folder/yVA3TbRQ##-SjPY7UuosLhSMF6KdY2jQ
+https://mega.nz/folder/yVA3TbRQ##-SjPY7UuosLhSMF6KdY2jQ
 
 # Bubsy
-	Keyword: Bubsy the Bobcat
-	pixeldrain.com/u/a1gfqRcj
+>Keyword: Bubsy the Bobcat
+pixeldrain.com/u/a1gfqRcj
 
-	Possibly a different LoRA, maybe the same:
-	https://files.catbox.moe/l8ki1o.safetensors
+Possibly a different LoRA, maybe the same:
+https://files.catbox.moe/l8ki1o.safetensors
 
 # kame_3t (Artist), Nanachi (Made In Abyss), Zankuro (Artist) + Various Furry Artists (among others)
+- Concepts:
+	- Plant Clothing
+	- Sarashi, Fundoshi
+	- Slime Girls
+- Characters:
+	- Mashiro (Layers of White) (THAT moth doujin. You know the one)
+	- Midori (Nakagami Takashi)
+	- Nanachi (Made in Abyss)
+	- Prushka (Made in Abyss)
+	- Kiss-Shot (Monogatari Series)
+	- Suika Ibuki (Touhou)
+	- Tsuchinoko (Kemono Friends)
+	- Kosuzu Motoori (Touhou)
+	- Junko (Touhou)
+	- Danzaburou-danuki (Kemono Friends)
+	- Jo'on Yorigami (Touhou)
+	- Shion Yorigami (Touhou)
+	- Shinobu Oshino (Monogatari Series)
+	- Prushka (Made in Abyss)
+	- Nanachi (Made in Abyss)
+	- Cerberus (Kemono Friends)
+	- Sukuna Shinmyoumaru (Touhou)
+	- Seija Kijin (Touhou)
+	- Paimon (Genshin)
+	- Boku no Pico (dunno)
+	- Nina Kosaka (VTuber)
+	- Maemi Tenma (VTuber)
+	- Abigail Williams (Fate)
+	- Pipkin Pippa (VTuber)
+	- Selen Tatsuki (VTuber)
+	- Emilico (Shadows House)
+	- Kate Shadow (Shadows House)
+	- Hiroi Kikuri (Bocchi the Rock)
+	- Fallenshadow (VTuber)
+- Styles:
+	- Akai Sashimi
+	- Fishine
+	- Koishi Chikasa
+	- Opossummachine
+	- Spacezin
+	- typh
+	- Zankuro
+	- navigavi
+	- ike (altitude attitude)
+	- Ryusei Hashida
+	- ransusan
+	- kuroshiro
+	- metata
+	- kionant
+	- massakasama
+	- turnip kabura
+	- mdf_an
+	- Sindoll
+	- Crayon
+	- ibukichi
+	- Gomennasai
+	- kame_3t
+	- alkemanubis
+	- Takana Kusao
+	- kakure eria
+	- cromachina
+	- curss
+	- ZUN
 
-	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/PoZQgLQC
-	https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/30wnQL4K
+https://mega.nz/folder/OoYWzR6L##psN69wnC2ljJ9OQS2FDHoQ/folder/PoZQgLQC
 
 !!NEW!! Added Zankuro style LoRA
 >zankuro style lora trained on fluffyrock terminal-snr-vpred-e132
 >it should work on easyfluff versions 9 through 11. it is very jank with humans but counter-intuitively works very well with furry even though the dataset is like 90% human
 
-	https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/35Ri0bhC
-
 # Trish the Opossum
-	Activated with "Trish the opossum"
-	pixeldrain.com/u/t8b7cpJb
+>Activated with "Trish the opossum"
+pixeldrain.com/u/t8b7cpJb
 
 # Honovy
-	https://mega.nz/file/nRojlLyR##4FCf5ep5tE7aqZKzPHvqN6MrPJM5RZ5Lio5BT5isplg
+https://mega.nz/file/nRojlLyR#4FCf5ep5tE7aqZKzPHvqN6MrPJM5RZ5Lio5BT5isplg
 
 # OoT (Style)
-	v1:
-	https://files.catbox.moe/mjm6v2.7z
+v1:
+https://files.catbox.moe/mjm6v2.7z
 
-	155 images of varying aspect with bucketing for 256 to 768. Tagging was rather haphazard and manual, not following any particular convention except to give a general idea of the content and associate it with "ocarinaoftime", "n64", "3d", etc.
-	Example:
-	>screenshot of nintendo 64 game released 1997, legend of zelda: ocarina of time, n64style, adult link, blue eyes, pointy ears, hat, blonde hair, 3d, long nose, green tunic, solo, ocarinaoftime, n64, lowpoly
-	Characters included: Link, Impa, Malon, Nabooru, Ruto, Zelda. Ruto may have overfitted results for "monster girl", but lowering the strength or using a character LORA fixes it. Training uses 0.1 offset noise. Currently trying to determine best checkpoint out of 250+ but it seems epoch 64 was a good one.
+>155 images of varying aspect with bucketing for 256 to 768. Tagging was rather haphazard and manual, not following any particular convention except to give a general idea of the content and associate it with "ocarinaoftime", "n64", "3d", etc.
+>Example:
+>screenshot of nintendo 64 game released 1997, legend of zelda: ocarina of time, n64style, adult link, blue eyes, pointy ears, hat, blonde hair, 3d, long nose, green tunic, solo, ocarinaoftime, n64, lowpoly
+>Characters included: Link, Impa, Malon, Nabooru, Ruto, Zelda. Ruto may have overfitted results for "monster girl", but lowering the strength or using a character LORA fixes it. Training uses 0.1 offset noise. Currently trying to determine best checkpoint out of 250+ but it seems epoch 64 was a good one.
 
-	v2:
-	https://files.catbox.moe/eh9o6h.7z
+v2:
+https://files.catbox.moe/eh9o6h.7z
 
 # Horror
-	https://files.catbox.moe/tzmb9k.safetensors
+https://files.catbox.moe/tzmb9k.safetensors
 
 # Captain Amelia (Treasure Planet), Krogan (Mass Effect) InCase (Artist), canvassolaris (Artist)
+- Styles:
+	- canvassolaris
+	- inCase
+- Characters:
+	- Krogans (Mass Effect)
+	- Samara (Mass Effect)
+	- Captain Amelia (Treasure Planet)
 
-	https://mega.nz/folder/AfJxXSJB#0hFD5Qt850iee907MNnzrQ
+https://mega.nz/folder/AfJxXSJB#0hFD5Qt850iee907MNnzrQ
 
 # No-Swift, Miles-DF, Ruaidri
-	I uploaded my Ruaidri and Miles-DF LoRAs alongside my No-Swift LoRA. All are trained on top of Gay621 and untested elsewhere. No-Swift and Ruaidri are activated with "by no-swift" and "by ruaidri" respectively (in line with Gay621's conventions).
-	Miles-DF was the first one I made and I didn't know what I was doing, so there's no activation keyword -- it still kind of works, but it's somewhat shit. I don't actually like his art style so I'm unlikely to ever remake it either.
-	https://pixeldrain.com/l/cPaQ8ZLF
+>I uploaded my Ruaidri and Miles-DF LoRAs alongside my No-Swift LoRA. All are trained on top of Gay621 and untested elsewhere. No-Swift and Ruaidri are activated with "by no-swift" and "by ruaidri" respectively (in line with Gay621's conventions).
+>Miles-DF was the first one I made and I didn't know what I was doing, so there's no activation keyword -- it still kind of works, but it's somewhat shit. I don't actually like his art style so I'm unlikely to ever remake it either.
+https://pixeldrain.com/l/cPaQ8ZLF
 
 # Rustle (Artist)
-	https://files.catbox.moe/adei36.safetensors
+https://files.catbox.moe/adei36.safetensors
 
 # Apimiku
-	v1: https://files.catbox.moe/nr2vqs.safetensors
-	v2: https://files.catbox.moe/0wpcp4.safetensors
-
-# inCase
-	https://mega.nz/folder/JTI3FByR##YKrzupCKSUIh5eCabqz3Hw
+v1: https://files.catbox.moe/nr2vqs.safetensors
+v2: https://files.catbox.moe/0wpcp4.safetensors
 
 # Blaze the Cat
-	https://mega.nz/folder/OvQBVChb##TNJAPKVbrsBgTc1-D_j4IA
+https://mega.nz/folder/OvQBVChb##TNJAPKVbrsBgTc1-D_j4IA
 
 # Stylized 3D Anime LoRA
-	https://files.catbox.moe/4yzumd.safetensors
+https://files.catbox.moe/4yzumd.safetensors
 
 # Narse, Skygracer, Jay Nailor, Raiji, Zourik (Artists)
-	Use keyword "<artist>mix"
-	https://mega.nz/folder/VhtQEQjL#mmR6mOsl1u12XY-QtCngBA
+>Use keyword "<artist>mix"
+https://mega.nz/folder/VhtQEQjL#mmR6mOsl1u12XY-QtCngBA
 
 # Sagitta (Yu-Gi-Oh!)
-	https://mega.nz/folder/xoEHHZ5K#F6wEzK9LN0bdpvX-opLIlw
+https://mega.nz/folder/xoEHHZ5K#F6wEzK9LN0bdpvX-opLIlw
 
 # Mergingbois
-v4:
-
-	https://pixeldrain.com/u/Q4v8WuXu
+v4:	https://pixeldrain.com/u/Q4v8WuXu
 v5b:
-
-	Dataset:pixeldrain.com/u/LmiK3PH1
+	Dataset: pixeldrain.com/u/LmiK3PH1
 	Fluff Trained: pixeldrain.com/u/XC6FgTVT
-	NAI Trained: mediafire.com/file/ikbsqolr8mucmot nai.zip
+	NAI Trained: ~~mediafire.com/file/ikbsqolr8mucmot nai.zip~~ DEAD
 	NAI was uploaded to mediafire as pixeldrain was failing to finish the upload for some reason
 
 # Mei_Panda (Turning Red)
-	V1: https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
+V1: https://mega.nz/file/2ccESITS#jycEdw8G2iM4jHUyWma4XuuGBmwiL_dPELf2WXRLxRY
 
 > This (new) one was trained at a higher res with better tagging. I only use easyfluff but it was trained on an older fluffyrock model so it might be fine to use on other models.
 
-	V2: https://files.catbox.moe/07yudj.rar
+V2: https://files.catbox.moe/07yudj.rar
 
 # Feral Horses (from /vt/ of all places?)
 
-	https://pixeldrain.com/u/6rZMY2AT
+https://pixeldrain.com/u/6rZMY2AT
 
 # Roll (Mega-Man)
-``
-Responds to typical roll db tags + "rollchan".``
-
-	https://files.catbox.moe/wdl1zk.safetensors
+>Responds to typical roll db tags + "rollchan".``
+https://files.catbox.moe/wdl1zk.safetensors
 
 # Feralbois
-`C'mon with another gift, I threw a bunch of feral pics into the lora colab and out popped this. Feralbois v1. Trained on NAI with E621 tags. The dataset covers quite a bit though you may get mixed results on the anthro on feral positions. Its also a bit biased to felines...I was a lion king kid.`
+>C'mon with another gift, I threw a bunch of feral pics into the lora colab and out popped this. Feralbois v1. Trained on NAI with E621 tags. The dataset covers quite a bit though you may get mixed results on the anthro on feral positions. Its also a bit biased to felines...I was a lion king kid.`
+
 Lora: pixeldrain.com/u/NP87NGA2
 Dataset: pixeldrain.com/u/VvT693oy
 
@@ -694,74 +1157,746 @@ Fluff Trained: pixeldrain.com/u/V6cosxNn
 NAI Trained: pixeldrain.com/u/kS25QCQY
 
 # Nanaki/RedX,III LoRA
-`Based off of yiffye, but seems to work with other checkpoints. Trigger word is "redxiii"`
+>Based off of yiffye, but seems to work with other checkpoints. Trigger word is "redxiii"`
 
-	pixeldrain.com/u/YpsVqcpJ
+pixeldrain.com/u/YpsVqcpJ
 
 # Tsukino (Monster Hunter Stories)
 
-	pixeldrain.com/u/FYtiu8P6
+pixeldrain.com/u/FYtiu8P6
 
 # Waai Fu (Arknights)
-	My 4th try (holy fuck) at it and i wont probably try this anymore, this was done on Hollowstrawberry's lora trainer: https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb
-	Trained with 61 images at 768 resolution for 5 repeats and 10 epochs, used flip_aug and min_snr_ganma, 2e-4 unet/1e-4 text econder lr, batch size 2.
-	Getting waai fu right is a nightmare and i think part of the problem is the models not being good at it, i only tested with 7thanimev3c: https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_C.safetensors but if someone has a merge with a furry model and it looks better on those please do tell me.
-	More ammount of time went into pruning this time around, i decided to swap 1girl for furry female since leaving it before was detrimental, other than that the minimum tags to prompt her are "waai fu, furry female, tiger ears, body fur", if you want her glasses add "orange-tinted eyewear, round eyewear" and for her default outfir use "default china dress, capelet, pelvic curtain, elbow gloves, orange belts", add or remove "animal nose" to positive/negative prompts depending on what you want. Additionally you can use tiger girl, tiger tail to help prompt the tail but expect random tails around and tail limbs, i honestly dunno how to fix those.
+>My 4th try (holy fuck) at it and i wont probably try this anymore, this was done on Hollowstrawberry's lora trainer: https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb
+>Trained with 61 images at 768 resolution for 5 repeats and 10 epochs, used flip_aug and min_snr_ganma, 2e-4 unet/1e-4 text econder lr, batch size 2.
+>Getting waai fu right is a nightmare and i think part of the problem is the models not being good at it, i only tested with 7thanimev3c: https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_C.safetensors but if someone has a merge with a furry model and it looks better on those please do tell me.
+>More ammount of time went into pruning this time around, i decided to swap 1girl for furry female since leaving it before was detrimental, other than that the minimum tags to prompt her are "waai fu, furry female, tiger ears, body fur", if you want her glasses add "orange-tinted eyewear, round eyewear" and for her default outfir use "default china dress, capelet, pelvic curtain, elbow gloves, orange belts", add or remove "animal nose" to positive/negative prompts depending on what you want. Additionally you can use tiger girl, tiger tail to help prompt the tail but expect random tails around and tail limbs, i honestly dunno how to fix those.
 
-	https://mega.nz/folder/c5NhgYZA#Uj6VXv7AJAyUkpEA0DcnaA
+https://mega.nz/folder/c5NhgYZA#Uj6VXv7AJAyUkpEA0DcnaA
 
 # Princess Luna + Twilight Sparkle
+- Characters:
+	- Princess Luna (MLP)
+	- Twilight Sparkle, both anime and realistic (MLP)
+- Styles:
+	- Racoonsan
 
-	https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
+https://mega.nz/folder/P65mjRha#7IuB1oWZpi5zrXwrdz6ENg
 
 # Steve Martin Style
 Removed rentry and second pixeldrain link since the link to epoch 14 was down. Reuploaded again.
 	
-	https://pixeldrain.com/u/cmZbPM6C
-	https://pixeldrain.com/u/X5juJVzB
-	"SteveMartinsArt style"
+https://pixeldrain.com/u/cmZbPM6C
+https://pixeldrain.com/u/X5juJVzB
+"SteveMartinsArt style"
 
 	Probably so-so, didn't test it well enough
 
 # Digby (Animal Crossing)
 
-	https://files.catbox.moe/vjhxcv.safetensors
+https://files.catbox.moe/vjhxcv.safetensors
 
 # Able Sisters (Animal Crossing)
-
-	Trained on SD 1.5: https://files.catbox.moe/1zno17.safetensors
-	Trained on NAI: https://files.catbox.moe/79u1qa.safetensors
-	> I suppose you use the e621 tags for each sister?
-	Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
+Trained on SD 1.5: https://files.catbox.moe/1zno17.safetensors
+Trained on NAI: https://files.catbox.moe/79u1qa.safetensors
+> I suppose you use the e621 tags for each sister?
+>Yeah, sable able, mabel able, and labelle. I combine booru tags and autotags in my loras, it's extra pruning work but it seems to do the job.
 
 # 3D Midna (trained on Fluffyrock lion low-lr e22 offset-noise e7)
-	https://files.catbox.moe/88ov7p.safetensors
+https://files.catbox.moe/88ov7p.safetensors
 
 # Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
+Nnnnnope. Going to copy it straight from the 'bin. https://pastebin.com/U7pGcJZ1
 
-	https://pastebin.com/U7pGcJZ1
+Cartoon and Comics
+----------------------------------------------------------------------------------------------------------------
+1.) brandy and mr. whiskers (Brandy Harrington) Lora: https://anonfiles.com/dbR5Y0q9z3/Brandy_Harrington_rar or https://shorturl.at/dQTU6
+    Keywords list: https://files.catbox.moe/v1fpez.txt
+ 
+2.) rock-a-doodle (goldie pheasant) Lora: https://anonfiles.com/p2c6Zeqdzf/goldie_pheasant_rar or https://shorturl.at/ceUVW
+    Keywords list: https://files.catbox.moe/mb0s5t.txt
+ 
+3.) Talespin (Rebecca Cunningham) Lora: https://anonfiles.com/P0k9Z8q5zf/Rebecca_Cunningham_rar or 
+     https://shorturl.at/iswST
+    Keywords list: https://files.catbox.moe/lgnodo.txt
+ 
+4.) oliver_and_company (Rita) Lora: https://anonfiles.com/sdh1b3r5z9/Rita_disney_rar or https://shorturl.at/txALT
+    Keywords list: https://files.catbox.moe/zmes0n.txt
+ 
+5.) animaniacs (slappy squirrel) Lora: https://anonfiles.com/DeFeZ0q5ze/slappy_squirrel_rar or https://shorturl.at/clQUW
+    Keywords list: https://files.catbox.moe/ppl0zs.txt
+ 
+6.) wakfu (miranda) Lora: https://anonfiles.com/Y3gbb4r3z6/miranda_rar or https://shorturl.at/kvxV8
+    Keywords list: https://files.catbox.moe/dy0pyo.txt
+ 
+7.)  las_vacaciones_de_vicky (vicky) Lora: https://anonfiles.com/h7hfb6r9z6/vicky_las_vacaciones_de_vicky_rar or 
+     https://shorturl.at/ahBRY
+    Keywords list: https://files.catbox.moe/kxj8i4.txt
+ 
+8.)  la_pavita_pechugona (pavita pechugona) Lora: https://anonfiles.com/1cl1r2r0z3/pavita_pechugona_rar or https://shorturl.at/ghC48
+    Keywords list: https://files.catbox.moe/8lxk49.txt
+ 
+9.)  heathcliff_and_the_catillac_cats (cleo catillac) Lora: https://anonfiles.com/x2jdrdr2zf/cleo_catillac_rar or 
+      https://shorturl.at/irADE
+    Keywords list: https://files.catbox.moe/z95470.txt
+ 
+10.)  tiny toon adventures (julie bruin) Lora: https://anonfiles.com/o8lfrer8z5/julie_bruin_rar or https://shorturl.at/inwA2
+    Keywords list: https://files.catbox.moe/eyva4j.txt
+ 
+11.)  arthur (series) (Molly MacDonald) Lora: https://anonfiles.com/s0l1rbrbze/Molly_MacDonald_rar or 
+      https://shorturl.at/hnpOP
+    Keywords list: https://files.catbox.moe/53v06b.txt
+ 
+12.)  the looney tunes show (patricia bunny) Lora: https://anonfiles.com/mfk3rdrfzc/patricia_bunny_rar or 
+    https://shorturl.at/kCKX7
+    Keywords list: https://files.catbox.moe/3bqc72.txt
+ 
+13.)  Duckman (Bernice Florence) Lora: https://anonfiles.com/dbTfg6ucz2/bernice_florence_rar or 
+       https://shorturl.at/jsGPQ
+    Keywords list: https://files.catbox.moe/76u1od.txt
+ 
+14.)  bojack horseman (Beatrice Horseman) Lora: https://anonfiles.com/o8hdhcu7z1/beatrice_horseman_rar or https://shorturl.at/mAGKN
+    Keywords list: https://files.catbox.moe/d9ojjf.txt
+ 
+15.)  An American Tail (Bridget) Lora: https://anonfiles.com/J2h4h1ucza/Bridget_An_American_Tail_rar or https://shorturl.at/fYZ13
+    Keywords list: https://files.catbox.moe/s4bhme.txt
+ 
+16.)  Miracle Star (Chun-Ni) Lora: https://anonfiles.com/Jav1hbu7ze/_Miracle_Star_Chun_Ni_rar or https://shorturl.at/hnGIN
+    Keywords list: https://gofile.io/d/O797xm
+ 
+17.)  road rovers (colleen) Lora: https://anonfiles.com/N738h2u7z9/colleen_road_rovers_rar or https://shorturl.at/atTU5
+    Keywords list: https://gofile.io/d/9FPVOP
+ 
+18.)  tuff puppy (counting cougar) Lora: https://anonfiles.com/v363hdubzd/counting_cougar_tuff_puppy_rar or https://shorturl.at/juDNU
+    Keywords list: https://gofile.io/d/FdeDiY
+ 
+18.)  get along gang (dotty dog) Lora: https://anonfiles.com/l7V9h9u1z7/dotty_dog_get_along_gang_rar or https://shorturl.at/dOPT3
+    Keywords list: https://gofile.io/d/fvBfO0
+ 
+19.) Tiny Toon Adventures (Margot Mallard) Lora: https://anonfiles.com/L5a1i9u5z4/Margot_Mallard_rar or https://shorturl.at/fDJW1
+    Keywords list: https://gofile.io/d/c30sha
+ 
+20.)  pebble and the penguin (marina) Lora: https://anonfiles.com/N7bdibu8zc/marina_pebble_and_the_penguin_rar or https://shorturl.at/fopN9
+    Keywords list: https://gofile.io/d/ojXMI4
+ 
+21.)  Learning With Pibby (Melira) Lora: https://anonfiles.com/Y3c3i2u7z8/Melira_Learning_With_Pibby_rar or https://shorturl.at/opxAE
+    Keywords list: https://gofile.io/d/xha2IL
+ 
+22.)  The Great Mouse Detective (Miss Kitty) Lora: https://anonfiles.com/15c3iduez6/Miss_Kitty_The_Great_Mouse_Detective_rar or https://shorturl.at/dxES6
+  Keywords list: https://gofile.io/d/s8ebQ3
+ 
+23.) Looney Tunes (Miss Cougar) Lora: https://anonfiles.com/C2eci4uez5/Miss_Cougar_Looney_Tunes_rar or https://shorturl.at/uwGO0
+  Keywords list: https://gofile.io/d/Nk5pEE
+ 
+24.) star trek (m'ress) Lora: https://anonfiles.com/v5g6i3u0z9/m_ress_star_trek_rar or https://shorturl.at/pzMRS
+  Keywords list: https://gofile.io/d/5GvT15
+ 
+25.) TUFF Puppy (Mrs Katswell) Lora: https://anonfiles.com/Gb3fieu3z2/Mrs_Katswell_TUFF_Puppy_rar or https://shorturl.at/kmwDZ
+  Keywords list: https://gofile.io/d/swfhYS
+ 
+26.) Peepoodo (Mrs Bunny) Lora: https://anonfiles.com/s388ieu0z0/Mrs_Bunny_Peepoodo_rar or https://shorturl.at/moHZ6
+  Keywords list: https://gofile.io/d/oLtkkK
+ 
+27.) Chowder (Panini) Lora: https://anonfiles.com/x1Adi2u9z5/Panini_Chowder_rar or https://shorturl.at/apwN9
+  Keywords list: https://gofile.io/d/lWo3zt
+ 
+28.) oban star racers (para-dice) Lora: https://anonfiles.com/I4Aaieufze/para_dice_oban_star_racers_rar or https://shorturl.at/mxBGO
+  Keywords list: https://gofile.io/d/f8b7zA
+ 
+29.) Secret Squirrel (Penny the Squirrel) Lora: https://anonfiles.com/VcJaibuaz7/Penny_the_Squirrel_Secret_Squirrel_rar or https://shorturl.at/W1237
+  Keywords list: https://gofile.io/d/tNZlSE
+ 
+30.) Dog City (rosie o'gravy) Lora: https://anonfiles.com/h9a7j2u2z3/rosie_o_gravy_rar or https://shorturl.at/jAIMX
+  Keywords list: https://gofile.io/d/IoOkvf
+ 
+31.) Courage the Cowardly Dog (Shirley_the_Medium) Lora: https://anonfiles.com/46odjeuez2/Shirley_the_Medium_Courage_the_Cowardly_Dog_rar or https://shorturl.at/fghQ1
+  Keywords list: https://gofile.io/d/b30L1V
+ 
+32.)  An Extremely Goofy Movie (sylvia marpole) Lora: https://anonfiles.com/2912jau2zb/sylvia_marpole_An_Extremely_Goofy_Movie_rar or https://shorturl.at/awIR3
+  Keywords list: https://gofile.io/d/oMUDst
+ 
+33.)  Rescue Rangers (Tammy Squirrel) Lora: https://anonfiles.com/fa14jdu3ze/Tammy_Squirrel_Rescue_Rangers_rar or https://shorturl.at/ikEP7
+  Keywords list: https://gofile.io/d/BW6Vsj
+ 
+34.)  Tom and Jerry (Toodles Galore) Lora: https://anonfiles.com/F23djauczc/Toodles_Galore_Tom_and_Jerry_rar or https://shorturl.at/izIP9
+  Keywords list: https://gofile.io/d/ESnJzk
+ 
+35.)  gassy's gas 'n_stuff (karla) Lora: https://anonfiles.com/QfEfj2u8zc/karla_gassy_s_gas_n_stuff_rar or https://shorturl.at/klqP2
+  Keywords list: https://gofile.io/d/SEbtZF
+ 
+36.)  Squirrel and Hedgehog (Officer Yeou) Lora: https://anonfiles.com/I7Iej5uczf/Officer_Yeou_Squirrel_and_Hedgehog_rar or https://shorturl.at/nzCFO
+  Keywords list: https://gofile.io/d/bfRibe
+ 
+37.) foster's home for imaginary friends (eurotrish) Lora: https://anonfiles.com/V6xdi5ubzc/eurotrish_foster_s_home_for_imaginary_friends_rar or https://shorturl.at/jCFN3
+  Keywords list: https://gofile.io/d/LOhGgb
+ 
+38.) ok ko (fink) Lora: https://anonfiles.com/X7x0icu1z1/fink_ok_ko_rar or https://shorturl.at/fjqD4
+  Keywords list: https://gofile.io/d/5X5hPa
+ 
+39.) happy tree friends (flaky) Lora: https://anonfiles.com/c6y0iduaz2/flaky_happy_tree_friends_rar or https://shorturl.at/bBPZ4
+  Keywords list: https://gofile.io/d/C5dP7o
+ 
+40.) my gym partner’s a monkey (nurse gazelle) Lora: https://anonfiles.com/i502i1u8z4/nurse_gazelle_my_gym_partner_s_a_monkey_rar or https://shorturl.at/aprB2
+  Keywords list: https://gofile.io/d/QPDwZH
+ 
+41.) happy tree friends (giggles) Lora: https://anonfiles.com/j6c0k3uazf/giggles_happy_tree_friends_rar or https://shorturl.at/fuvCS
+  Keywords list: https://gofile.io/d/tytCA9
+ 
+42.)  bojack horseman (hollyhock) Lora: https://anonfiles.com/O4c6kcu9z5/hollyhock_bojack_horseman_rar or https://shorturl.at/jrMR4
+  Keywords list: https://gofile.io/d/EDlmdw
+ 
+43.)  TaleSpin (Katie Dodd) Lora: https://anonfiles.com/Sec4k5ufz2/Katie_Dodd_TaleSpin_rar or https://shorturl.at/cnGRU
+  Keywords list: https://gofile.io/d/bmXrRa
+ 
+44.)  goof_troop (lisa) Lora: https://anonfiles.com/3bc0k0ubz6/lisa_goof_troop_rar or https://shorturl.at/hlF36
+  Keywords list: https://gofile.io/d/yIPqAL
+ 
+45.)  Disney (magica de spell) Lora: https://anonfiles.com/o9zek2u5z5/magica_de_spell_Disney_rar or https://shorturl.at/dswLS
+  Keywords list: https://gofile.io/d/AD3ka2
+
+46.) Clone High (Geldamore) Lora: https://shorturl.at/rsBCJ
+    Keywords list: https://anonfiles.com/M3Hfb9xfz7/Geldamore_txt
+ 
+47.) flash gordon (lysa the lizard queen) Lora: https://shorturl.at/htzA9
+    Keywords list: https://anonfiles.com/ofI0b9x4ze/lysa_the_lizard_queen_txt
+ 
+48.) Mighty Mouse: The New Adventures (Madame_marsupial) Lora: https://shorturl.at/kstyJ
+    Keywords list: https://anonfiles.com/h2I4b9x9z5/Madame_marsupial_txt
+ 
+49.)  A Kitty Bobo Show (Maggie) Lora: https://shorturl.at/aktRX
+   Keywords list: https://anonfiles.com/P0L2c6x3ze/Maggie_txt
+ 
+50.)  the Mighty Ducks (Mallory McMallard) Lora: https://shorturl.at/hoDKV
+   Keywords list: https://anonfiles.com/P2Ifb6x7z5/mallory_mcmallard_txt
+ 
+51.) Llama Llama (mama_llama) Lora: https://shorturl.at/muBDO
+   Keywords list: https://anonfiles.com/baI2b3x7z2/mama_llama_txt
+ 
+52.) hayop ka! (Marie) Lora: https://shorturl.at/yDPS2
+   Keywords list: https://anonfiles.com/T0H1bfx4z5/Marie_txt
+ 
+53.) The Amazing World of Gumball (mary_senicourt) Lora: https://shorturl.at/gwzI2
+   Keywords list: https://anonfiles.com/m9nbf108z3/mary_senicourt_txt
+ 
+54.) skippy: adventures in bushtown (matilda) Lora: https://shorturl.at/irABS
+   Keywords list: https://anonfiles.com/77Idbbxezd/matilda_txt 
+ 
+55.) Oddballs (Maz_Scare-ah) Lora: https://shorturl.at/xBGRX
+   Keywords list: https://anonfiles.com/TdB1c0xfza/Maz_Scare_ah_txt
+ 
+56.) shinbone alley (Mehitabel) Lora: https://shorturl.at/bjksM
+   Keywords list: https://anonfiles.com/x1I7bcx5zb/Mehitabel_txt
+ 
+57.) BoJack Horseman (mia_mckibben) Lora: https://shorturl.at/oIMY4
+   Keywords list: https://anonfiles.com/97Efbcxcz8/mia_mckibben_txt
+ 
+58.) Aladdin (mirage) Lora: https://shorturl.at/uFJOV
+   Keywords list: https://anonfiles.com/ScB3cdx4z8/mirage_aladdin_txt
+ 
+59.) Teenage Mutant Ninja Turtles (Mona Lisa) Lora: https://shorturl.at/gtwzM
+   Keywords list: https://anonfiles.com/qbIeb6x8z6/Mona_Lisa_txt
+ 
+60.) The Ballad of Nessie (Nessie) Lora: https://shorturl.at/mDTX2
+   Keywords list: https://anonfiles.com/85I2b1x9zd/Nessie_txt
+ 
+61.) Hotel Transylvania (Olga) Lora: https://shorturl.at/fkmN1
+   Keywords list: https://anonfiles.com/ncIdb7x9ze/Olga_Hotel_Transylvania_txt
+ 
+62.) Mighty Mouse (Pearl_Pureheart) Lora: https://shorturl.at/npzH1
+https://anonfiles.com/i9I7bfx3z7/Pearl_Pureheart_txt
+ 
+63.) rick and morty (Ponietta) Lora: https://shorturl.at/asyF1
+   Keywords list: https://anonfiles.com/R9E7bdxbz1/Ponietta_txt
+ 
+64.) Elinor Wonders Why (Ranger_Rabbit) Lora: https://shorturl.at/fivHP
+   Keywords list: https://anonfiles.com/j3I8bcx0z5/Elinors_Mom_Ranger_Rabbit_txt
+ 
+65.) Heyyy, It's The King. (Sheena) Lora: https://shorturl.at/pzI12
+   Keywords list: https://anonfiles.com/PbH5bfx3z2/Sheena_txt
+ 
+66.) CatDog (Shriek Dubois) Lora: https://shorturl.at/hnFNR
+   Keywords list: https://anonfiles.com/A8I6b5xezd/shriek_txt
+ 
+67.) Balto (Stella) Lora: https://shorturl.at/aoCW1
+   Keywords list: https://anonfiles.com/c2b3d9x6z2/Stella_txt
+ 
+68.) underdog (Sweet Polly Purebred) Lora: https://shorturl.at/gqtEI
+   Keywords list: https://anonfiles.com/raI4b2x7z4/Sweet_polly_txt
+ 
+69.) looney tunes (the_body) Lora: https://shorturl.at/lyzT1
+   Keywords list: https://anonfiles.com/gfIab1x9za/the_body_looney_tunes_txt
+ 
+70.) Usagi Yojimbo (Tomoe_Ame) Lora: https://shorturl.at/dfL09
+   Keywords list: https://anonfiles.com/D2Ifb9x2z2/Tomoe_Ame_txt
+ 
+71.) Rock and Rule (Angel) Lora: https://shorturl.at/eimN2
+   Keywords list: https://anonfiles.com/L0Hbb0x1z8/angel_txt
+ 
+72.) Garfield (Arlene) Lora: https://bit.ly/3JhQOUb
+   Keywords list: https://anonfiles.com/kdIab3xaz7/Arlene_txt
+ 
+73.) juniper lee (beatrice) Lora: https://bit.ly/443l5xT
+   Keywords list: https://anonfiles.com/d1Icbcxez8/beatrice_rabbit_txt
+ 
+74.) bottom's butte (beverly) Lora: https://bit.ly/3Xd7HVL
+   Keywords list: https://anonfiles.com/t9I8bbxez7/Beverly_txt
+ 
+75.) Tiny Toon Adventures (big boo) Lora: https://bit.ly/3N96xpL
+   Keywords list: https://anonfiles.com/J0Hdbexbz6/big_boo_txt
+ 
+76.) Tiny Toon Adventures (bimbette) Lora: https://bit.ly/43Ye41k
+   Keywords list: https://anonfiles.com/ZbHebcx7zd/bimbette_txt
+ 
+77.) Jellystone (Brain) Lora: https://bit.ly/440Gs2W
+   Keywords list: https://anonfiles.com/Q0H8b9x1zb/Brain_txt
+ 
+78.) Animalympics (Brenda Springer) Lora: https://bit.ly/3JgOmxc
+   Keywords list: https://anonfiles.com/adI0bdx1z8/Brenda_Springer_txt
+ 
+79.) We Rob Carrot Patches (Bunny) Lora: https://bit.ly/3qMfEoR
+   Keywords list: https://anonfiles.com/y3I9b1x8z9/Bunny_from_bunny_and_claude_txt
+ 
+80.) Dog City (Candace_Dane) Lora: https://bit.ly/3qMfEoR
+   Keywords list: https://anonfiles.com/w7I8b4xbzf/Candace_Dane_txt
+ 
+81.) The Amazing World of Gumball (Chichi_Mom) Lora: https://bit.ly/3XaQUm9
+   Keywords list: https://anonfiles.com/WaH1b5x2z1/Chichi_Mom_txt
+ 
+82.) Blinky Bill (Daisy Dingo) Lora: https://bit.ly/3XaJGi4
+   Keywords list: https://anonfiles.com/48I3bdxez4/Daisy_Dingo_txt
+ 
+83.) fritz the cat (Dee_Dee) Lora: https://bit.ly/3Ph3lv1
+   Keywords list: https://anonfiles.com/07Iab1x8zd/Dee_Dee_txt
+ 
+84.)  bonkers (fawn deer) Lora: https://bit.ly/43KeRmL
+   Keywords list: https://anonfiles.com/E8I2b9x3z9/fawn_deer_txt
+ 
+85.) Swat kats (felina_feral) Lora: https://bit.ly/3X8Q09W
+   Keywords list: https://anonfiles.com/U3Becexdza/felina_feral_swat_kats_txt
+ 
+86.) Arthur (fern_walters) Lora: https://bit.ly/46aWWY4
+   Keywords list: https://anonfiles.com/16I3b4x0zd/fern_walters_txt
+ 
+87.) Johnny Bravo (fluffy_werewolf) Lora: https://bit.ly/43IMNQV
+   Keywords list: https://anonfiles.com/gfH1b4xczf/fluffy_werewolf_txt
+ 
+88.) Skunk Fu (fox) Lora: https://bit.ly/3NvN2Jp
+   Keywords list: https://anonfiles.com/e4Idb5x4zd/fox_skunk_fu_txt
+ 
+89.) Adventures of the Gummi Bears (Grammi_gummi) Lora: https://bit.ly/3N9b5fP
+   Keywords list: https://anonfiles.com/mcIbbdxbze/Grammi_gummi_txt
+ 
+90.) Looney tunes ( Hatta Mari) Lora: https://bit.ly/3NcntMb
+   Keywords list: https://anonfiles.com/W1Fbb7x8z5/Hatta_Mari_v2_txt
+ 
+91.) Regular Show (hilary) Lora: https://bit.ly/3Xfk17V
+   Keywords list:  https://anonfiles.com/23I2b6xcz7/hilary_txt
+ 
+92.) Arthur (Jane_read) Lora: https://bit.ly/42E9UL2
+   Keywords list:  https://anonfiles.com/ffedu9z2z9/Jane_read_txt
+ 
+93.)  bucky o hare (jenny) Lora: https://bit.ly/3Na9F4Q
+   Keywords list:  https://anonfiles.com/5bI7b9x7z2/jenny_bucky_o_hare_txt
+ 
+94.)  Droopy Dog (Leggy_lamb) Lora: https://bit.ly/3X8RnW8
+   Keywords list:  https://anonfiles.com/p8I5bax7zc/Leggy_lamb_txt
+
+95.) Back at the Barnyard (Abby the Cow) Lora: https://bit.ly/3NzHP1U
+    Keywords list: https://anonfiles.com/ud4ft7z6zf/Abby_cow_txt
+ 
+96.) The Barkleys (Agnes Barkley) Lora: https://bit.ly/44pBrku
+    Keywords list: https://anonfiles.com/2341t5zcz8/agnes_barkley_txt
+ 
+97.) Eek! The Cat (Alice) Lora: https://bit.ly/3XwZziX
+    Keywords list: https://anonfiles.com/4d4dt6z7z1/Alice_Dog_txt
+ 
+98.) tmnt 2012 (Alopex) Lora: https://bit.ly/44ojO4Q
+    Keywords list: https://anonfiles.com/t84ftazcz2/Alopex_txt
+ 
+99.) Tiny Toon Adventures (Arnolda) Lora: https://bit.ly/3NyIHDW
+    Keywords list: https://anonfiles.com/v247t4zdze/Arnolda_txt
+ 
+100.) Rocko's Modern Life (bev_bighead) Lora: https://bit.ly/3XvgKS2
+    Keywords list: https://anonfiles.com/xe41t7zez6/bev_bighead_txt
+ 
+101.) Zootopia (bonnie_hopps) Lora: https://bit.ly/3Xvg7Ig
+    Keywords list: https://anonfiles.com/wd40tdzcz0/bonnie_hopps_txt
+ 
+102.) DuckTales (Boom-Boom Beagle) Lora: https://bit.ly/3XyhxSw
+    Keywords list: https://anonfiles.com/y742tazaz7/boom_boom_beagle_txt
+ 
+103.) Courage the Cowardly Dog (Bunny) Lora: https://bit.ly/46pBFtV
+    Keywords list: https://anonfiles.com/0d49t6z3z8/Bunny_courage_txt
+ 
+104.) Stop Bullying Now! (cassandra) Lora: https://bit.ly/44s6AnL
+    Keywords list: https://anonfiles.com/zc4at8z9z5/cassandra_stop_bullying_now_txt
+ 
+105.) Fritz the Cat (Charlene) Lora: https://bit.ly/3XsWTTG
+    Keywords list: https://anonfiles.com/1b4btaz5zc/Charlene_txt
+ 
+106.) Rocko's Modern Life (Claudette_wallaby) Lora: https://bit.ly/3Xyhy92
+    Keywords list: https://anonfiles.com/3149t7z2zc/Claudette_wallaby_txt
+ 
+107.) Darkwing Duck (Clovis) Lora: https://bit.ly/3r6tVgh
+    Keywords list: https://anonfiles.com/5f48tbz2zd/Clovis_txt
+ 
+108.) Squirrel Boy (Darlene) Lora: https://bit.ly/44s6FI5
+    Keywords list: https://anonfiles.com/6547tczcz1/Darlene_txt
+ 
+109.) Goof Troop (Debbie) Lora: https://bit.ly/46w4GnF
+    Keywords list: https://anonfiles.com/8447t1zdz0/Debbie_txt
+ 
+110.) Johnny Test (Dutchy) Lora: https://bit.ly/3Xz9vJ4
+    Keywords list: https://anonfiles.com/7440t2z4z3/Dutchy_txt
+ 
+111.) Rocko's Modern Life (Elkie) Lora: https://bit.ly/46ttInn
+    Keywords list: https://anonfiles.com/9f48tcz9z2/Elkie_txt
+ 
+112.) Starfox (fara_phoenix) Lora: https://bit.ly/3r6tVwN
+    Keywords list: https://anonfiles.com/A047t9z9z4/fara_phoenix_txt
+ 
+113.) Pogo Special Birthday Special (Miss Ma'm'selle Hepzibah) Lora: https://bit.ly/3Nonm00
+    Keywords list: https://anonfiles.com/Lb4ctaz3z4/Miz_Ma_m_selle_Hepzibah_txt
+ 
+114.) fosters home for imaginary friends (hiccy burp kitty) Lora: https://bit.ly/442PXiB
+    Keywords list: https://anonfiles.com/C44etcz9z0/Hiccy_Burp_Kitty_txt
+ 
+115.) Chicken Little (Hollywood_abby) Lora: https://bit.ly/3NxzoUH
+    Keywords list: https://anonfiles.com/D848t0zezf/Hollywood_abby_txt
+ 
+116.) mao mao heroes of pure heart (Honey_squirrel) Lora: https://bit.ly/3piXs60
+    Keywords list: https://anonfiles.com/Ef4dt8z9ze/Honey_squirrel_txt
+ 
+117.) CatDog (Ingrid) Lora: https://bit.ly/44kjcNy
+    Keywords list: https://anonfiles.com/F843t5zdza/Ingrid_txt
+ 
+118.) The Amazing World of Gumball (Jamie Russo) Lora: https://bit.ly/44nfAdH
+    Keywords list: https://anonfiles.com/Ia4ct3zbzd/jamie_russo_txt
+ 
+119.) Stop Bullying Now! (kb) Lora: https://bit.ly/3PB4Wvx
+    Keywords list: https://anonfiles.com/G84et1zbz6/kb_stop_bullying_now_txt
+ 
+120.) TaleSpin (Kitten_Kaboodle) Lora: https://bit.ly/3JAfpUp
+    Keywords list: https://anonfiles.com/H24etdz8z9/Kitten_Kaboodle_txt
+ 
+121.) Rocko's Modern Life (Love_Spanked_Bunny) Lora: https://bit.ly/3JCM2R8
+    Keywords list: https://anonfiles.com/J64dt8zdz6/Love_Spanked_Bunny_txt
+ 
+122.) Chico Chica Boumba (Miss Boumba) Lora: https://bit.ly/3PC2QvB
+    Keywords list: https://anonfiles.com/K243t4z8z9/Miss_Boumba_txt
+ 
+123.)  T.U.F.F. Puppy (Miss Hopper) Lora: https://bit.ly/433dG0Q
+    Keywords list: https://anonfiles.com/Sa43t1z9za/Miss_Hopper_txt
+ 
+124.) The Complex Adventures of Eddie Puss (Mother_puss) Lora: https://bit.ly/3piXzOY
+    Keywords list: https://anonfiles.com/N84atdz1z3/Mother_puss_txt
+ 
+125.) Courage the Cowardly Dog (mrs_bon) Lora: https://bit.ly/3Pz4I8e
+    Keywords list: https://anonfiles.com/P14ct4z8z7/mrs_bon_txt
+ 
+126.) Rise of the Teenage Mutant Ninja Turtles (mrs_cuddles) Lora: https://bit.ly/3pk4pDT
+    Keywords list: https://anonfiles.com/Oe47t2z8zb/mrs_cuddles_txt
+ 
+127.) My Life as a Teenage Robot (ms_tammers) Lora: https://bit.ly/3JDFQIW
+    Keywords list: https://anonfiles.com/Q14ctbz5ze/ms_tammers_txt
+ 
+128.) Super Robot Monkey Team Hyperforce Go! (nikitah) Lora: https://bit.ly/3JAKVBE
+    Keywords list: https://anonfiles.com/Rb46tcz2z8/nikitah_txt
+ 
+129.) Rocko's Modern Life (Paula_Hutchison) Lora: https://bit.ly/44kjd44
+    Keywords list: https://anonfiles.com/Ve49taz6z7/Paula_Hutchison_txt
+ 
+130.) ollie and scoops (Poopsie) Lora: https://bit.ly/3pk4tDD
+    Keywords list: https://anonfiles.com/W349t7z7z2/Poopsie_txt
+ 
+131.)  T.U.F.F. Puppy (rachel o'foxy) Lora: https://bit.ly/3plECv1
+    Keywords list: https://anonfiles.com/c655t4zdzc/rachel_o_foxy_txt
+ 
+132.)  The Barkers (roza_barboskina) Lora: https://bit.ly/3JATLzg
+    Keywords list: https://anonfiles.com/a251tezfz9/roza_barboskina_txt
+ 
+133.)  Max & Ruby (Ruby_Rabbit) Lora: https://bit.ly/3pk4w2h
+    Keywords list: https://anonfiles.com/Zf4ct6z3z5/Ruby_Rabbit_txt
+ 
+134.) Rocko's Modern Life (Sheila_fox) Lora: https://bit.ly/3XsYrwY
+    Keywords list: https://anonfiles.com/f757tczfz1/Sheila_fox_txt
+ 
+135.) Scaredy Squirrel (sue_squirrel) Lora: https://bit.ly/430SUPf
+    Keywords list: https://anonfiles.com/h95et4z8z2/sue_squirrel_txt
+ 
+136.) The Amazing World of Gumball (Teri) Lora: https://bit.ly/44pXYxB
+    Keywords list: https://anonfiles.com/gc53t9zcz1/Teri_txt
+ 
+137.) The Barkleys (terry_barkley) Lora: https://bit.ly/3XvhbvK
+    Keywords list: https://anonfiles.com/i855t8zfz5/terry_barkley_txt
+ 
+138.) Back at the Barnyard (Veronica) Lora: https://bit.ly/43acE2R
+    Keywords list: https://anonfiles.com/j852t8zezb/Veronica_txt
+ 
+139.) Roger Rabbit (Winnie Weasel) Lora: https://bit.ly/444AE8Z
+    Keywords list: https://anonfiles.com/kb5ft6zazf/Winnie_Weasel_txt
+ 
+140.) Fritz the Cat (Winston) Lora: https://bit.ly/46tuOQ1
+    Keywords list: https://anonfiles.com/l553tez2z0/Winston_the_fox_txt
+
+Television and Film
+----------------------------------------------------------------------------------------------------------------
+ 
+1.) McDonald's (Birdie the Early Bird) Lora: https://bit.ly/3XaQPPn
+   Keywords list: https://anonfiles.com/O4H3bex0z5/Birdie_txt
+ 
+2.) COWEY Energy Drink (COWEY) Lora: https://bit.ly/42MRO9L
+   Keywords list: https://anonfiles.com/KbH9bbx6z2/Cowey_txt
+ 
+3.) Mongrels (Destiny) Lora: https://bit.ly/3p6G6sG
+   Keywords list: https://anonfiles.com/H3H0b3xazf/Destiny_txt
+ 
+4.) Meet the feebles (heidi) Lora: https://bit.ly/3NyEe5p
+   Keywords list: https://anonfiles.com/S5Mccexdzb/heidi_txt
+ 
+Traditional Games
+----------------------------------------------------------------------------------------------------------------
+ 
+1.) Magic: The Gathering card (Ink-Eyes) Lora: https://shorturl.at/tFOP5
+    Keywords list: https://anonfiles.com/22N9cex6zc/Ink_eyes_txt
+ 
+ 
+Anime and Manga
+----------------------------------------------------------------------------------------------------------------
+1.) bagi_the_monster_of_mighty_nature (bagi) Lora: https://pixeldrain.com/u/hLv1nmdg or https://shorturl.at/qsIQZ
+    Keywords list: https://files.catbox.moe/4cz6i9.txt
+ 
+2.) dragon ball super (Sorrel) Lora: https://anonfiles.com/J2FbZ7q6za/Sorrel_rar or https://shorturl.at/HNPX2
+    Keywords list: https://files.catbox.moe/sc18ty.txt
+ 
+3.) PaRappa The Rapper (Paula Fox) Lora: https://anonfiles.com/rfB3i3u1z4/Paula_Fox_PaRappa_The_Rapper_rar or https://shorturl.at/qKY13
+    Keywords list: https://files.catbox.moe/biakdu.txt
+ 
+4.)  anisava (jenny) Lora: https://anonfiles.com/yec4kcu2z0/jenny_anisava_rar or https://shorturl.at/yzJ26
+    Keywords list: https://files.catbox.moe/cg6p0z.txt
+ 
+5.) sherlock hound (mrs_hudson) Lora: https://shorturl.at/gDNR1
+   Keywords list: https://anonfiles.com/X3H7bax0zf/mrs_hudson_txt
+ 
+6.) Outlaw Star (Silgrian) Lora: https://shorturl.at/uvFK2
+   Keywords list:  https://anonfiles.com/R2Heb8x7z8/Silgrian_txt
+ 
+7.) Catnapped! (ChuChu) Lora: https://bit.ly/3Cvfzsa
+   Keywords list: https://anonfiles.com/r9Ffbex5zf/chuchu_txt
+ 
+8.) tenchi muyo (elma) Lora: https://bit.ly/3XaTZTf
+Keywords list:  https://anonfiles.com/YfHfbdxdze/elma_tenchi_muyo_txt
+ 
+Video Game
+----------------------------------------------------------------------------------------------------------------
+ 
+1.) Pokemon (xerneas) Lora: https://pixeldrain.com/u/xLrHmh3C or https://shorturl.at/ejGU5
+    Keywords list: https://files.catbox.moe/c4wrby.txt
+ 
+2.) Conkers Bad Fur Day (Berri) Lora: https://anonfiles.com/g5c6Zbq6zc/Berri_Conkers_Bad_Fur_Day_rar or https://shorturl.at/gszJ3
+    Keywords list: https://files.catbox.moe/hihnha.txt
+ 
+3.) toonstruck (ms.fortune) Lora: https://anonfiles.com/D4b4Z9qez9/ms_fortune_rar or https://shorturl.at/blNY0
+    Keywords list: https://files.catbox.moe/ztgfdn.txt
+ 
+4.) Um Jammer Lammy (Lammy and Rammy) Lora: https://anonfiles.com/H0F5Z0q1z4/Um_Jammer_Lammy_rar or https://shorturl.at/ahGQZ
+    Keywords list: https://files.catbox.moe/zydrpp.txt
+ 
+6.) .hack (mia) Lora: https://anonfiles.com/xah9b8r3z1/mia_from_hack_rar or https://shorturl.at/rEINT
+    Keywords list: https://files.catbox.moe/vqhmq7.txt
+ 
+7.)  deltarune (catti) Lora: https://anonfiles.com/uelerdr4ze/catti_rar or https://shorturl.at/uCMNY
+    Keywords list: https://files.catbox.moe/06hip0.txt
+ 
+8.)  Tail Concerto (Alicia pris) Lora: https://anonfiles.com/VfY2gau5z8/Alicia_pris_rar or https://shorturl.at/klmR5
+    Keywords list: https://files.catbox.moe/tpy95y.txt
+ 
+9.)  spyro (Bianca) Lora: https://anonfiles.com/N8eah5u5za/SPYRO_BIANCA_rar or https://shorturl.at/oLQ68
+    Keywords list: https://files.catbox.moe/culu3k.txt
+ 
+10.)  animal crossing (bonbon) Lora: https://anonfiles.com/P0d4h3ucz7/bonbon_animal_crossing_rar or https://shorturl.at/vDGV9
+    Keywords list: https://files.catbox.moe/ryjjvy.txt
+ 
+11.)  Donkey Kong (candy kong) Lora: https://anonfiles.com/t4t6hcuaz4/candy_kong_rar or https://shorturl.at/adluP
+    Keywords list: https://gofile.io/d/9gso9w
+ 
+12.)  crash bandicoot (Pasadena O'Possum) Lora: https://anonfiles.com/C1Aci0udz7/Pasadena_O_Possum_crash_bandicoot_rar or https://shorturl.at/hBT27
+    Keywords list: https://files.catbox.moe/4ujtv5.txt
+ 
+13.)  Spyro (sheila) Lora: https://anonfiles.com/Kac4jfu4zb/sheila_spyro_rar or https://shorturl.at/cCHW5
+    Keywords list: https://files.catbox.moe/aapjit.txt
+ 
+14.)  Five Nights at Freddy's (Vanny) Lora: https://anonfiles.com/B33ejfuezc/Vanny_Five_Nights_at_Freddy_s_rar or https://shorturl.at/DRXZ2
+    Keywords list: https://files.catbox.moe/i2b14z.txt
+ 
+15.)   PaRappa The Rapper (Katy Kat) Lora: https://anonfiles.com/D7c1k1u1zc/Katy_Kat_PaRappa_The_Rapper_rar or https://shorturl.at/fklQ5
+    Keywords list: https://files.catbox.moe/9tqxrc.txt
+
+16.) Star Fox (Lucy_hare) Lora: https://shorturl.at/ruV39
+    Keywords list: https://anonfiles.com/88Dab0x8zf/Lucy_hare_txt
+  
+17.) beware the shadowcatcher (Maude) Lora: https://shorturl.at/zAXZ5
+   Keywords list: https://anonfiles.com/V1H4bax3z5/Maude_Beware_of_the_shadowcatcher_txt
+ 
+18.) legend of zelda wind waker (Medli) Lora: https://shorturl.at/vUW38
+   Keywords list: https://anonfiles.com/m7D0b5x0z9/Medli_txt
+ 
+19.) Animal Crossing (Megumi) Lora: https://shorturl.at/cJQRZ
+   Keywords list: https://anonfiles.com/64aad2xfz7/Megumi_txt
+ 
+20.) Animal Crossing (opal) Lora: https://shorturl.at/uIY89
+   Keywords list: https://anonfiles.com/V1D8bcx6z3/opal_elephant_txt
+ 
+21.) sly cooper (penelope) Lora: https://shorturl.at/nBMPT
+   Keywords list: https://anonfiles.com/X4C9b1x3z5/Penelope_mouse_txt
+ 
+22.)  animal crossing (Rosie) Lora: https://shorturl.at/sCHIT
+   Keywords list: https://anonfiles.com/97I8b4x3z5/Rosie_txt
+ 
+23.) beware the shadowcatcher (sam) Lora: https://shorturl.at/hkoty
+   Keywords list: https://anonfiles.com/U3H1bex5zf/sam_txt
+ 
+24.) Donkey Kong (tiny_kong) Lora: https://shorturl.at/fyHV5
+   Keywords list: https://anonfiles.com/BbI7b4xez3/tiny_kong_txt
+ 
+25.) crash bandicoot (Yaya_panda) Lora: https://shorturl.at/giBH8
+   Keywords list: https://anonfiles.com/C8Iab1xbzf/Yaya_panda_txt
+ 
+26.) ratchet and clank (angela cross) Lora: bit.ly/442n71d
+   Keywords list: https://anonfiles.com/w5D8bfxdz8/Angela_cross_txt
+ 
+27.)  Daigasso! Band Brothers (barbara the bat) Lora: https://bit.ly/3Jfr4Yo
+   Keywords list: https://anonfiles.com/s2Ibb6x9z3/barbara_the_bat_txt
+ 
+28.)  animal crossing (bella) Lora: https://bit.ly/3N3QWri
+   Keywords list: https://anonfiles.com/v0I5bcxczd/bella_mouse_txt
+ 
+29.)  animal crossing (bluebear) Lora: https://bit.ly/3NcdtSX
+   Keywords list: https://anonfiles.com/u6I5b6xfz5/bluebear_txt
+ 
+30.)  Little Tail (Chocolat Gelato) Lora: https://bit.ly/3N7Yr0F
+   Keywords list: https://anonfiles.com/f6I8b6xfzf/chocolat_gelato_txt
+ 
+31.)  Donkey Kong (dixie_kong) Lora: https://bit.ly/3CvSipU
+   Keywords list: https://anonfiles.com/zcIdb6xez6/dixie_kong_txt
+ 
+32.)  Donkey Kong (kalypso) Lora: https://bit.ly/3Xd8jdT
+   Keywords list: https://anonfiles.com/w2Oecax0z6/kalypso_txt
+
+33.) chicken little Ace in Action (Foxy Loxy) Lora: https://bit.ly/46q11YB
+    Keywords list: https://anonfiles.com/K7C5tdz3z4/Foxy_loxy_txt
+ 
+34.) Moshi Monsters (Frau Now BrownKau) Lora: https://bit.ly/46pBG0X
+    Keywords list: https://anonfiles.com/B545t9zez5/frau_now_brownkau_txt
+ 
+35.) Spy Fox (Monkey_penny) Lora: https://bit.ly/3JBYS2f
+    Keywords list: https://anonfiles.com/M846tbz9zf/Monkey_penny_txt
+ 
+36.) jak and daxter (ottsel_tess) Lora: https://bit.ly/3PIToGC
+    Keywords list: https://anonfiles.com/Td45t3zdzc/ottsel_tess_txt
+ 
+37.) Super Farm (Pamela) Lora: https://bit.ly/3PxoOjd
+    Keywords list: https://anonfiles.com/U742t4z2z5/Pamela_txt
+ 
+38.) Little Tail (Princess Terria) Lora: https://bit.ly/3piXA5u
+    Keywords list: https://anonfiles.com/X14at6zazc/Princess_Terria_txt
+ 
+39.) Spy Fox (RussianBlue) Lora: https://bit.ly/3pk4x6l
+    Keywords list: https://anonfiles.com/Yc45t4zeze/Russian_Blue_txt
+ 
+40.) legend of zelda (saki) Lora: https://bit.ly/44pX6cj
+    Keywords list: https://anonfiles.com/be54tcz9zd/Saki_txt
+ 
+41.) Cuphead (Sergeant O'Fera) Lora: https://bit.ly/434PNFS
+    Keywords list: https://anonfiles.com/d25atezaz0/sergent_fera_txt
+ 
+42.)  Ty (Shazza) Lora: https://bit.ly/436x8tk
+    Keywords list: https://anonfiles.com/e359t2zaz7/Shazza_the_Dingo_txt
+
+43.)  the man from the window (mama rabbit) Lora: https://bit.ly/434cPNk
+    Keywords list: https://anonfiles.com/T06cu3z4zb/Mama_rabbit_txt
+  
+Internet OCS and Webcomics
+----------------------------------------------------------------------------------------------------------------
+1.) james_m_hardiman (onyx) Lora: https://pixeldrain.com/u/2N2gHVpc or https://shorturl.at/iFKVX
+    Keywords list: https://files.catbox.moe/z67urg.txt
+ 
+2.) vg_cats (aeris) Lora: https://pixeldrain.com/u/LMWatB1Y or https://shorturl.at/dBPS9
+    Keywords list: https://files.catbox.moe/42fbz1.txt
+ 
+3.) alexthecatte (alex marx) Lora: https://pixeldrain.com/u/aZy7MPhZ or https://shorturl.at/cAIJ6
+    Keywords list: https://files.catbox.moe/g0zf6s.txt
+ 
+4.) lackadaisy (ivy pepper) Lora: https://anonfiles.com/GcMcY1qfz7/ivy_pepper_rar or https://shorturl.at/xERW3
+    Keywords list: https://files.catbox.moe/tjdvka.txt
+ 
+5.) fox-pop (Harriet Chesnut) Lora: https://anonfiles.com/04d2Z8q4z8/harriet_chesnut_rar or https://shorturl.at/cvFTV
+    Keywords list: https://files.catbox.moe/f3bybf.txt
+ 
+6.) ncs (keeshee) Lora: https://anonfiles.com/Y4F4Z0q1z9/keeshee_rar or https://shorturl.at/bdkm7
+    Keywords list: https://files.catbox.moe/fstnvo.txt
+ 
+7.) Shima Planet Dolan (Shima Luan) Lora: https://anonfiles.com/A5G9Z9q1zb/shima_luan_rar or https://shorturl.at/dfhxH
+    Keywords list: https://files.catbox.moe/3a335g.txt
+ 
+8.)  teer (marika) Lora: https://anonfiles.com/t9N2r5r3z1/marika_rar or https://shorturl.at/dUVZ1
+    Keywords list: https://files.catbox.moe/g8yo6c.txt
+ 
+9.)  simplifypm (cass) Lora: https://anonfiles.com/Ibv0h5u0zd/cass_simplifypm_rar or https://shorturl.at/xFR45
+    Keywords list: https://gofile.io/d/TrPOJm
+ 
+10.) crackiepipe (denisse) Lora: https://anonfiles.com/Bf6ah0u1z0/_denisse_crackiepipe_rar or https://shorturl.at/dfmuN
+    Keywords list: https://gofile.io/d/53lpEc
+ 
+11.) simplifypm (piko) Lora: https://anonfiles.com/W0P0ifu7zc/piko_simplifypm_rar or https://shorturl.at/glrwA
+    Keywords list: https://files.catbox.moe/1ufuid.txt
+ 
+12.) poppy opossum (poppy opossum) Lora: https://anonfiles.com/Jde1j5ueze/poppy_opossum_rar or https://shorturl.at/agvKT
+    Keywords list: https://files.catbox.moe/le1jv1.txt
+ 
+13.) the-minuscule-task (rue) Lora: https://anonfiles.com/P5dcj3u0z4/rue_the_minuscule_task_rar or https://shorturl.at/de089
+    Keywords list: https://files.catbox.moe/jj8rlm.txt
+ 
+14.) hot topic (sweetypuss) Lora: https://anonfiles.com/K8q0j3u8z2/sweetypuss_hot_topic_rar or https://shorturl.at/zKL47
+    Keywords list: https://files.catbox.moe/fgzid8.txt
+ 
+15.)  ponehanon (claire) Lora: https://anonfiles.com/M3x2i5udz8/claire_ponehanon_rar or https://shorturl.at/jkmtO
+    Keywords list: https://files.catbox.moe/iig8ld.txt
+ 
+16.)  Litterbox Comics (fran ) Lora: https://anonfiles.com/t5yci4ucz3/fran_Litterbox_Comics_rar or https://shorturl.at/bdoO7
+    Keywords list: https://files.catbox.moe/c1ghbr.txt
+ 
+17.)  las lindas (geecku) Lora: https://anonfiles.com/m7A0i6u2zc/geecku_las_lindas_rar or https://shorturl.at/uNORX
+    Keywords list: https://files.catbox.moe/rrws6p.txt
+
+18.) Rocky Rakoon (PJ) Lora: https://shorturl.at/fioE5
+   Keywords list: https://anonfiles.com/a5H5b7x0z4/PJ_dog_txt
+ 
+19.) Dairy_air (Dairy_air) Lora: https://bit.ly/3p6Brae
+   Keywords list: https://anonfiles.com/N9H4bfxfz1/Dairy_air_txt 
+
+https://pastebin.com/U7pGcJZ1
 
 # Nomax (artist)
-
-	Use "by nomax".
-	https://mega.nz/file/LMx23CyC#zDSz7AtD9ZX-UM582bTm0XsP8xLAywBbIVDqJj6mIkU
+>Use "by nomax".
+https://mega.nz/file/LMx23CyC#zDSz7AtD9ZX-UM582bTm0XsP8xLAywBbIVDqJj6mIkU
 
 # Fluffy64
-
-	https://files.catbox.moe/9k1snp.safetensors
+https://files.catbox.moe/9k1snp.safetensors
 
 # Shiron (Legendz)
-
-	https://mega.nz/folder/50FVVAbS#gMDnVIgmcPCQ4OWyhRewFw
+https://mega.nz/folder/50FVVAbS#gMDnVIgmcPCQ4OWyhRewFw
 
 # Lycanroc
+https://rentry.org/4o2mc
 
-	https://rentry.org/4o2mc
+https://pixeldrain.com/u/nd6TsgVa
+https://pixeldrain.com/u/e8apQjqc
+https://pixeldrain.com/u/M6Y4XAt2
+https://pixeldrain.com/u/7pcw3khC
 
 # Rauru (Zelta TotK)
 Trained on Fluffyrock
-
-	https://drive.google.com/drive/folders/1yddB7y6NWBIKkCC2eSEwBaDlBRvs8r2f
+https://drive.google.com/drive/folders/1yddB7y6NWBIKkCC2eSEwBaDlBRvs8r2f
 
 # Urethral
 > I tried including all possible urethral scenarios in the dataset (tentacles, rods, penis in penis, tongue, arm) but im afraid im gonna have to make one for each. The results are a lot more coherent then base fluffyrock, but still fucky.
@@ -772,280 +1907,231 @@ V2: https://mega.nz/file/2AIkDCgI#AyBBVHF4nUyBmGYDHzVaYej2H0bBjfv32NAVTwRSAdI
 
 # Pup Mask
 >trigger word is pup_mask with the underscore
-
-	https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM
+~~https://mega.nz/file/a5pERLKI#_AK9J42JQu3brSLfbSSPHoP6hiystSFNjmLWMLQcbLM~~ DEAD
 
 # Beverage in Sheath
-	https://mega.nz/file/20AQHbST#3Aoq574cCq1eJkVMNJuBU9cTnMmL6lYQR0DklCYj5xo
+https://mega.nz/file/20AQHbST#3Aoq574cCq1eJkVMNJuBU9cTnMmL6lYQR0DklCYj5xo
 
 # Artist o2o (Oekaki Kemono, slight pixelation)
-
-	https://files.catbox.moe/zpat2q.safetensors
+https://files.catbox.moe/zpat2q.safetensors
 
 # Peachpunch11 (Triggerword "umaishiru")
-
-	https://files.catbox.moe/erjbb4.safetensors
+https://files.catbox.moe/erjbb4.safetensors
 
 # Arceus LoRA
-
-	https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
+https://mega.nz/folder/F9cVRB4D#rakUinNRiZcfXs8Q401NOA
 
 # suitonb
-
-	https://pixeldrain.com/u/eotc2W6C
+https://pixeldrain.com/u/eotc2W6C
 
 # Feraligatr
-
-	https://files.catbox.moe/g76s3b.safetensors
+https://files.catbox.moe/g76s3b.safetensors
 >"feraligatr" and "blue body, tan belly, yellow eyes, 5 fingers, claws, sharp teeth, thick tail, spines" seems to help it stay on target.
 
 # Silvally (Pokémon)
-
-	https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
+https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
 >  I included two iterations of it cause I got decent results on both of them, but I mainly use the 000018 version. Keyword is just 'silvally'.
 
 # KX' LoRAs
-
 Yzmuya (Artist)
 
-	https://files.catbox.moe/hrfdmu.safetensors
+https://files.catbox.moe/hrfdmu.safetensors
 > Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "yzmstyle" (I couldn't use the artist's name since it's already in fluffyrock and it provides awful results) 
 
-	https://files.catbox.moe/0fvf7j.safetensors
+https://files.catbox.moe/0fvf7j.safetensors
 > I increased the threshold for the image tagger and added/replaced a small part of the dataset with generated images - the improvement is minimal, but it's there. It mainly works better when used with lower weights, compared to the previous versions. Activation token is still "yzmstyle"
 
-	V1.19: https://files.catbox.moe/7c8v0i.safetensors
+V1.19: https://files.catbox.moe/7c8v0i.safetensors
 
-	V2.9: https://files.catbox.moe/cms3mu.safetensors
+V2.9: https://files.catbox.moe/cms3mu.safetensors
 
 Viosgit (Artist)
 
-	https://files.catbox.moe/7v1mps.safetensors
+https://files.catbox.moe/7v1mps.safetensors
 >Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3 at 768x768 resolution, clip skip 2. The activation token is "viosgitstyle".
 >It's slightly undertrained compared to my yzmuya lora but I can't really do much about it - 90% of the image dataset has text all over it and mouths and details start to get fucked up. There's also quite a bit of jpeg artifacts generation, but that gets mostly fixed during upscaling. Also no nudes in the training because the artist just doesn't do them afaik
 
 maro no oheya (Artist) 
 
-	https://files.catbox.moe/su5ct6.safetensors
+https://files.catbox.moe/su5ct6.safetensors
 > Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution
 >The activation word is "maro"
 
 evil_jia / neutral_jia / jianeutral (Artist)
 
-	https://files.catbox.moe/krn6va.safetensors
+https://files.catbox.moe/krn6va.safetensors
 >Trained on fluffyrock-576-704-832-lion-low-lr-e18-offset-noise-e3.safetensors, clip skip 2 at 576x576 resolution.
 >Activation token is "jiastyle"
 
 Kaminosaki Shiten (Artist)
 
-	https://files.catbox.moe/vd1s4d.safetensors
+https://files.catbox.moe/vd1s4d.safetensors
 >Trained on fluffyrock at 768x768 resolution, clip skip 2. The activation token is "kaminosakistyle" (I couldn't just use the artist's name in this one either).
 >The dataset comes mostly from their two furry focused doujins. I will definitely go back to this one after sifting through the artist's twitter/pixiv pics
 
 Mauzy (Artist)
 
-	https://files.catbox.moe/gxdngd.safetensors
+https://files.catbox.moe/gxdngd.safetensors
 >Trained on fluffyrock lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is still mauzystyle
 
 Kita / KitaKettu (Artist)
 >Trained on fluffyrock-lion-low-lr-e85-terminal-snr-e58 at 512x512 resolution, clip skip 1. Trigger word is "kitastyle"
 
-	https://files.catbox.moe/cehi21.safetensors
+https://files.catbox.moe/cehi21.safetensors
 
 Rocky Rickaby (Lackadaisy)
 
-	https://files.catbox.moe/8dj7dr.safetensors
+https://files.catbox.moe/8dj7dr.safetensors
 >Activation token is "ldrocky", trained at 512*512 resolution, clip skip 1.
 
 Webber (Don't Starve)
 >activation token is "webber"; I honestly don't expect it to be particularly versatile, there isn't a lot of variety in the dataset. 
 
-	https://files.catbox.moe/kfnk44.safetensors
+https://files.catbox.moe/kfnk44.safetensors
 
 Calvin "Freckle" Allen McMurray (Lackadaisy)
 >Activation token is ldcalvin
 
-	https://files.catbox.moe/bk1xqq.safetensors
+https://files.catbox.moe/bk1xqq.safetensors
 
 # Xenomorphs
-
-	https://pixeldrain.com/u/3zaypdh5
+https://pixeldrain.com/u/3zaypdh5
 > Trained on Fluffyrock e53 offset noise e38 for 15 epochs at 10 repeats with clip skip 1.
 >Activation token is "xenomorph", other tokens like "black body, sharp teeth, long tail" make it more accurate. I also like "glistening body, wet, saliva". I use 0.7-1.0 weight.
 
 # Captain Gantu (Lilo and Stitch)
-
-	https://pixeldrain.com/u/s7DfbDJG
+https://pixeldrain.com/u/s7DfbDJG
 
 # Minerva Campbell (Adventure Time)
-
-	https://files.catbox.moe/l4fnta.safetensors
+https://files.catbox.moe/l4fnta.safetensors
 
 # Noivern (Pokemon)
-
-	https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
+https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
 
 # Fizz (League of Legends)
-
-	V2: https://files.catbox.moe/c45f9c.zip
-	V3 - FluffyRock: https://files.catbox.moe/h6r871.zip
-	V3 - YiffyMix: https://files.catbox.moe/1q1mz3.zip
+V2: https://files.catbox.moe/c45f9c.zip
+V3 - FluffyRock: https://files.catbox.moe/h6r871.zip
+V3 - YiffyMix: https://files.catbox.moe/1q1mz3.zip
 
 # Tulin (Zelda Tears of the Kingdom)
-
-	https://mega.nz/folder/AiEQ0CJT#oVffy-tL9HzrtfRzY-TlrQ
+https://mega.nz/folder/AiEQ0CJT#oVffy-tL9HzrtfRzY-TlrQ
 
 # Klonoa
-
-	https://huggingface.co/nadanainone/tondelora/tree/main
+https://huggingface.co/nadanainone/tondelora/tree/main
 
 # cryptid-creations (Artist)
+>Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+>Activation token is "cryptid".
+https://pixeldrain.com/u/SF5iRffS
 
-Not a LoRA, but a LoKR; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
-Activation token is "cryptid".
-
-	https://pixeldrain.com/u/SF5iRffS
 # Catti (Deltarune)
-
-	https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
+https://mega.nz/file/eJcXHZKQ#DWti2NSFtTBEuX19DwBpRil4n3G2K0jcybue0wxXrXE
 
 # Terriermon (Digimon)
-Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+>Not a LoRA, but a Lycoris; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+https://pixeldrain.com/u/SmH7bgTs
 
-	https://pixeldrain.com/u/SmH7bgTs
 # Zorak (Space Ghost)
-
-	https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
+https://mega.nz/file/wm1VmDBB#nbRj8FDJCBZGneqnYw2s6a9Lt6mMvQ6tmw7HMrnRcXM
 
 # Swampert (Pokémon)
-
-Has been taken down, reupload by >59516011, thanks anon
-	
-	https://files.catbox.moe/hcft0y.safetensors
+>Has been taken down, reupload by >59516011, thanks anon
+https://files.catbox.moe/hcft0y.safetensors
 
 # Kicks (Animal Crossing)
+V1: https://pixeldrain.com/u/7G1Mpthg
+V2: https://pixeldrain.com/u/Bkp6UD5p
 
-	V1: https://pixeldrain.com/u/7G1Mpthg
-	V2: https://pixeldrain.com/u/Bkp6UD5p
 # Kha'Zix (League of Legends)
 >also make sure to use all of these tags so you can get his anatomy more accurately:
 >khazix, insect, purple exoskeleton, antennae, spikes, green eyes, insect wings, red skin, red body, claws, sharp teeth, brown fur
-
-	LoRA: https://pixeldrain.com/u/aVDqbBNN
-	Dataset: https://pixeldrain.com/u/whXDQFBz
+LoRA: https://pixeldrain.com/u/aVDqbBNN
+Dataset: https://pixeldrain.com/u/whXDQFBz
 
 # Yuji Uekawa (Sonic Artist)
 >Yuji Uekawa's Sonic style LoRA trained on Fluffyrock megares terminal snr vpred e116 e89.
-
 >Typical tags: by yuji uekawa, sega, sonic the hedgehog \(series\), official art
-
-	https://files.catbox.moe/ntcp6y.safetensors
+https://files.catbox.moe/ntcp6y.safetensors
 
 V2:
 >Yuji Uekawa style lora, v2. Also useful for getting on-model sonic characters. Trigger "by yuji uekawa"
-
-	https://files.catbox.moe/r92ldc.safetensors
+https://files.catbox.moe/r92ldc.safetensors
 
 # Ichi Inukai (Manmosu Marimo)
-Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
-
-	https://mega.nz/folder/J6c0GZCT#oBsCILW-X108fwdiRp9L-w
+>Not a LoRA, but a LyCORIS; requires https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris to be installed via Extensions.
+https://mega.nz/folder/J6c0GZCT#oBsCILW-X108fwdiRp9L-w
 
 # Lucy (Legend of Lucy - Webcomic)
-
-	https://files.catbox.moe/k9i6ro.rar
+https://files.catbox.moe/k9i6ro.rar
 
 # Female POV Taker / Bottom
-
-	https://files.catbox.moe/mgchby.safetensors
+https://files.catbox.moe/mgchby.safetensors
 
 # Emma (Insignificant Otters - Webcomic)
-
-	https://files.catbox.moe/jytnda.rar
+https://files.catbox.moe/jytnda.rar
 
 # Iris (Scalie Schoolie - Webcomic)
-
-	https://files.catbox.moe/37xlqn.rar
+https://files.catbox.moe/37xlqn.rar
 
 # Rosianna Rabbit (Rosianna Rabbit - Webcomic)
-
-	https://files.catbox.moe/rrq311.rar
+https://files.catbox.moe/rrq311.rar
 
 # Alex (What's Better Than This? - Webcomic by RushEloc)
-
-	https://files.catbox.moe/9vah4z.rar
+https://files.catbox.moe/9vah4z.rar
 
 # Berry Wabeet (Artist slb)
-
-	https://files.catbox.moe/fclqa7.rar
+https://files.catbox.moe/fclqa7.rar
 
 # Sadie (artist Coekj)
-
-	https://files.catbox.moe/c5nc6d.rar
+https://files.catbox.moe/c5nc6d.rar
 
 # Helbaa (artist Smutbooru)
-
-	https://files.catbox.moe/e67jh6.rar
+https://files.catbox.moe/e67jh6.rar
 
 # Shasta (ShastaNeedsBooze by Mamabliss)
-
-	https://files.catbox.moe/0jdlzr.rar
+https://files.catbox.moe/0jdlzr.rar
 
 # Willy (Blow Me Paws by Oddjuice)
-
-	https://files.catbox.moe/54lpqq.rar
+https://files.catbox.moe/54lpqq.rar
 
 # Gwen Martin (Gwen Geek by Joaoppereiraus)
-
-	https://files.catbox.moe/xu2gog.rar
+https://files.catbox.moe/xu2gog.rar
 
 # dripdry (by herro)
-
-	https://files.catbox.moe/ra7oj5.rar
+https://files.catbox.moe/ra7oj5.rar
 
 # edna (school days by krezz karavan)
-
-	https://files.catbox.moe/ydmap7.rar
+https://files.catbox.moe/ydmap7.rar
 
 # Matz (by matzzacre)
-
-	https://files.catbox.moe/red94x.rar
+https://files.catbox.moe/red94x.rar
 
 # clarice (starhell by pokyuii)
-
-	https://files.catbox.moe/rxckve.rar
+https://files.catbox.moe/rxckve.rar
 
 # lana (by pulp)
-
-	https://files.catbox.moe/pj785p.rar
+https://files.catbox.moe/pj785p.rar
 
 # Solterv/Solturb (Artist)
-
-	https://files.catbox.moe/s7d1uh.safetensors
+https://files.catbox.moe/s7d1uh.safetensors
 
 # Substitute (Pokemon)
-
-	https://files.catbox.moe/azuqh3.safetensors
+https://files.catbox.moe/azuqh3.safetensors
 
 # Mating Press V2 (Concept, Reupload)
-
-	https://files.catbox.moe/iozmy8.safetensors
+https://files.catbox.moe/iozmy8.safetensors
 
 # The Conductor (A Hat in Time)
-
-	https://files.catbox.moe/5gjbry.safetensors
+https://files.catbox.moe/5gjbry.safetensors
 
 # Rasha (Pokemon OC)
-
-	https://drive.google.com/drive/folders/1WvQjUsVja2MRL-12lubJm2zzFfJgNH1w
+https://drive.google.com/drive/folders/1WvQjUsVja2MRL-12lubJm2zzFfJgNH1w
 
 # Narupajin creepy miku doll (fluffy edition)
-
-	https://files.catbox.moe/dqcoxw.safetensors
+https://files.catbox.moe/dqcoxw.safetensors
 
 # Anubia (Potionomics)
-
-	https://files.catbox.moe/xdftan.safetensors
+https://files.catbox.moe/xdftan.safetensors
 
 # Ducktales Character LoRAs
 
@@ -1215,185 +2301,153 @@ clothed, clothing, pink bow, bow (feature), hair clip, bow accessory, blue vest,
 	https://civitai.com/api/download/models/211703?type=Model&format=SafeTensor
 
 # sake kemosalmon (Artist)
-
-	https://files.catbox.moe/21wmi0.safetensors
+https://files.catbox.moe/21wmi0.safetensors
 
 # hooves-art/lunar47/snuddy mix (artists)
 
-	https://files.catbox.moe/hlp1qz.safetensors
+https://files.catbox.moe/hlp1qz.safetensors
 
 # Aer0 Zer0/welost/pyroxtra (artists)
 
-	https://files.catbox.moe/9vije9.safetensors
+https://files.catbox.moe/9vije9.safetensors
 
 # kiwihermit (artist)
-
 >I did a captionless kiwihermit iA3 for fluffyrock
-	https://files.catbox.moe/m5xomh.safetensors
-	best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
-	I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
+>best used at 0.9 strength. In general, it produces very vibrant colors and thickass lines, though it doesn't agree with bad-hands negatives
+>I'll have to do an X/Y plot over all the epochs, that's the 4000 step one
+https://files.catbox.moe/m5xomh.safetensors
 
 # manmosu marimo (artist)
-
-	https://files.catbox.moe/fy0kdd.safetensors
+https://files.catbox.moe/fy0kdd.safetensors
 
 # 3d, by onsenanon, onsen
 >That style of aesthetic 3D that DALL-E 3 does well, for fluffyrock vpred.
 >Tagging a mountain of shit for onsenanon 3D v2, if someone wants to generate quality explicit augmentation data (img2img your favorites) for characters to be accurately rendered with this style, please do so. Training without bucketing because bingslop is 1024x1024.
-
-	V1: https://files.catbox.moe/rzqx5o.safetensors
-
-	V2: https://files.catbox.moe/xqtef0.safetensors
+V1: https://files.catbox.moe/rzqx5o.safetensors
+V2: https://files.catbox.moe/xqtef0.safetensors
 
 # Sandshrew (Pokemon)
-
-	https://files.catbox.moe/nsm68r.safetensors
+https://files.catbox.moe/nsm68r.safetensors
 
 # Anatomically Correct Pony (Reupload from CivitAI)
 >This lora at 0.5 or so combined with easyfluff is fucking insane for degenerate pony consumption
-
-	https://files.catbox.moe/iry3pt.safetensors
+https://files.catbox.moe/iry3pt.safetensors
 
 # James Hardiman (Artist)
-Trained on Easter e17
-
-	https://files.catbox.moe/w1zcnc.safetensors
+>Trained on Easter e17
+https://files.catbox.moe/w1zcnc.safetensors
 
 # Rouge-ify LoRA (Rouge the Bat Clothing Concept)
-
-	https://files.catbox.moe/77as09.safetensors
+https://files.catbox.moe/77as09.safetensors
 
 # Emaciated (Concept)
-
-	https://files.catbox.moe/p0yico.safetensors
+https://files.catbox.moe/p0yico.safetensors
 
 # Livia (Dreamy Pride - Character)
-
-	https://files.catbox.moe/jk8x6d.safetensors
+https://files.catbox.moe/jk8x6d.safetensors
 
 # Internal Machinery (Concept)
-Useful tags; robot, android, machine, translucent body, uterus, endoskeleton 
-
-	https://files.catbox.moe/yjqjmd.safetensors
+>Useful tags; robot, android, machine, translucent body, uterus, endoskeleton 
+https://files.catbox.moe/yjqjmd.safetensors
 
 # Transparent Style (Concept)
 Used to achieve a similar look to the above, I am unsure if you want both or only one of them.
 https://civitai.com/models/103068?modelVersionId=112482
-
-	Direct DL V1.1: https://civitai.com/api/download/models/112482?type=Model&format=SafeTensor
+Direct DL V1.1: https://civitai.com/api/download/models/112482?type=Model&format=SafeTensor
 
 # Lilith (Character - MLP OC?)
 https://files.catbox.moe/lyxii8.png
 https://files.catbox.moe/mp25tm.png
-	
-	https://files.catbox.moe/haasf3.safetensors
+
+https://files.catbox.moe/haasf3.safetensors
 
 # Weaver (Artist)
-
-	https://files.catbox.moe/ybtl9h.safetensors
+https://files.catbox.moe/ybtl9h.safetensors
 
 # Spike (MLP - Character)
-
-	V1: https://files.catbox.moe/39piua.safetensors
+V1: https://files.catbox.moe/39piua.safetensors
 >Includes the Spike XL lora and 25 variations of one of my favorite gens.
-	
-	https://files.catbox.moe/pvc5lr.rar
+https://files.catbox.moe/pvc5lr.rar
 
 # DaftPatriot (Artist)
-
-	https://files.catbox.moe/2c99hq.safetensors
+https://files.catbox.moe/2c99hq.safetensors
 
 # Skeleslime (Concept)
-
-	https://files.catbox.moe/6p6mvf.safetensors
+https://files.catbox.moe/6p6mvf.safetensors
 
 # Gnolls (Concept - Character)
-
-	https://files.catbox.moe/qgslox.safetensors
+https://files.catbox.moe/qgslox.safetensors
 
 # Manizu (Artist)
-
-	https://files.catbox.moe/t8mluy.safetensors
+https://files.catbox.moe/t8mluy.safetensors
 
 # Majora's Mask (Concept - Character)
-
-	https://files.catbox.moe/2fc26k.safetensors
+https://files.catbox.moe/2fc26k.safetensors
 
 # Moki (Artist)
-
-	https://files.catbox.moe/soiacp.safetensors
+https://files.catbox.moe/soiacp.safetensors
 
 # Bimbo Lips (Concept)
 Taken from /d/ apparently
-
-	https://files.catbox.moe/eilxna.safetensors
+https://files.catbox.moe/eilxna.safetensors
 
 # Avery (Character by Fiddleafox)
-
-	https://mega.nz/folder/dOsVDBQT#ppLtPptaYQ-fi2hnyA3cGg
+https://mega.nz/folder/dOsVDBQT#ppLtPptaYQ-fi2hnyA3cGg
 
 # Alexi (Artist)
 Reupload from /h/
-
-	https://files.catbox.moe/ksxzd2.safetensors
+https://files.catbox.moe/ksxzd2.safetensors
 
 # Realistic TMNT (Character)
 Reupload from CivitAI
 
-	MichelAngelo:
-	https://files.catbox.moe/ld7l4a.safetensors
-	Donatello:
-    https://files.catbox.moe/xcz6gz.safetensors
-    Leonardo:
-    https://files.catbox.moe/762764.safetensors
-    Raphael:
-    https://files.catbox.moe/3tgfq2.safetensors
+MichelAngelo:
+https://files.catbox.moe/ld7l4a.safetensors
+
+Donatello:
+https://files.catbox.moe/xcz6gz.safetensors
+
+Leonardo:
+https://files.catbox.moe/762764.safetensors
+
+Raphael:
+https://files.catbox.moe/3tgfq2.safetensors
 
 # The Siren (The Binding of Isaac)
-
-	https://files.catbox.moe/n1intg.safetensors
+https://files.catbox.moe/n1intg.safetensors
 
 # Gnar (League of Legends)
-
-	https://files.catbox.moe/rhtss5.safetensors
+https://files.catbox.moe/rhtss5.safetensors
 
 # Snatcher (A Hat in Time)
 >Yeah, I think I'll just leave the LoRA as-is. Came out surprisingly well for the first attempt, but let me know what (you) think and if it needs any adjustments. Trigger word is "ahitsnatcher"
-
-	https://files.catbox.moe/cbj2s9.safetensors
+https://files.catbox.moe/cbj2s9.safetensors
 
 # dragon_longsword's LoRAs
 Dragonite (Pokemon):
 Activation keyword is "dragonite", trained on Easyfluff
-
-	https://files.catbox.moe/c4asqm.safetensors
+https://files.catbox.moe/c4asqm.safetensors
 
 Hisuian Typhlosion (Pokemon):
 >Trained on fluffyrock-576-704-832-960-1088-lion-low-lr-e27.safetensors, activation token is "hisuian typhlosion"
-
-	https://files.catbox.moe/na259m.safetensors
+https://files.catbox.moe/na259m.safetensors
 
 Newmouf - Mawshots (Concept)
 >Use with around .40 to .45 weight as it can be a bit strong. Triggers on mouf, mouth shot, mouth focus, gaping mouth, open mouth
-
-	https://files.catbox.moe/8loti1.safetensors
+https://files.catbox.moe/8loti1.safetensors
 
 # Single BING Image trained LoRAs
 Fantasy Style - Sitting at Bonfire - Warm Lighting (Concept / Style)
-
-	https://files.catbox.moe/fio25x.safetensors
+https://files.catbox.moe/fio25x.safetensors
 
 Warhammer Fantasy Ink Painting
-
-	https://files.catbox.moe/ix0m9x.safetensors
+https://files.catbox.moe/ix0m9x.safetensors
 
 Japanese Kimono Kemono
-
-	https://files.catbox.moe/ij2gmt.safetensors
+https://files.catbox.moe/ij2gmt.safetensors
 
 Pop Art? Style
-
-	https://files.catbox.moe/kaa9ok.safetensors
+https://files.catbox.moe/kaa9ok.safetensors
 
 # Cream the Rabbit (Sonic)
 https://civitai.com/models/166801
@@ -1405,69 +2459,76 @@ Trigger word: "Cream The Rabbit"
 
 Helpful Prompt: "Cream The Rabbit, 1girl, solo, orange_dress, blue_necktie, orange_and_yellow_shoes, white_socks, white_gloves, gold_buttons, white_collar"
 
-	Catbox Beta: https://files.catbox.moe/rp6m91.safetensors
-	CivitAI DL V1.0: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
-	CivitAI DL V2.0: https://civitai.com/api/download/models/198684?type=Model&format=SafeTensor
+Catbox Beta: https://files.catbox.moe/rp6m91.safetensors
+CivitAI DL V1.0: https://civitai.com/api/download/models/187652?type=Model&format=SafeTensor
+CivitAI DL V2.0: https://civitai.com/api/download/models/198684?type=Model&format=SafeTensor
 
 # The フギミ LoRA Collection
-
-	https://rentry.org/83o5t
+- Styles:
+	- average-hanzo
+	- feral lemma
+	- inner key
+	- kinhasu
+	- kuroboshi kouhaku
+	- mentha
+	- musouduki
+	- possummachine
+	- tsukushi akihito
+- Characters:
+	- chipettes
+	- faputa
+- Mixture:
+	- oseron
+	- porforever
+...as well as a fuckton of NAI-based LoRAs.
+https://rentry.org/83o5t
 
 # AI Toolkit Sliders (Utility)
 Cool-Warm Slider (Utility)
 >The idea with this LoRA is that the stronger negative you set the weight the cooler the colors and the stronger positive the weight the warmer the colors. The numbers up the top in the plot are the LoRA strength values, so you can go much higher and lower than you would with a normal LoRA.
 >This was trained using the slider LoRA training script available at https://github.com/ostris/ai-toolkit
-
-	https://files.catbox.moe/fmlexi.safetensors
+https://files.catbox.moe/fmlexi.safetensors
 
 Colorfulness Slider LoRA v1
 See above for a rough explanation, positive weight for more color, negative weight for less.
-
-	https://files.catbox.moe/jq7wau.safetensors
+https://files.catbox.moe/jq7wau.safetensors
 
 Breast size slider LoRA v1
 >Turned out more like a curviness slider, but oh well. Values up the top of the plot are the LoRA strengths; this works with both positive and negative weights at much higher values than normal. Negative is smaller breasts, positive is larger.
 >The plot prompt had no breast size tags in it; I haven't yet tested how they affect the LoRA.
+https://files.catbox.moe/nl8i4l.safetensors
 
-	https://files.catbox.moe/nl8i4l.safetensors
 Breast size slider LoRA v1 Alt
 >And a version that doesn't go quite as big, but affects the overall composition a lot less.
-
-	https://files.catbox.moe/036d34.safetensors
+https://files.catbox.moe/036d34.safetensors
 
 Anti-Countershading Slider LoRA v1
 >Higher = less countershading
 >Lower = more countershading
 >Can go higher than 1 and lower than -1 without burning.
-
-	https://files.catbox.moe/d8e38j.safetensors
+https://files.catbox.moe/d8e38j.safetensors
 
 Alt version trained on Easyfluff V10 Prerelease
-
-	https://files.catbox.moe/dm2lbu.safetensors
+https://files.catbox.moe/dm2lbu.safetensors
 
 Penis size slider LoRA v1
 >As per previous.
 >Higher = bigger penis
 >Lower = smaller penis
 >Can go above 1, and below -1.
-
-	https://files.catbox.moe/2pkhgi.safetensors
+https://files.catbox.moe/2pkhgi.safetensors
 
 Dark-light theme slider LoRA v1
 >This will change your composition, so it needs to be part of your genning process, not a post-gen/regen fix-up kind of thing.
-
-	https://files.catbox.moe/kohflx.safetensors
+https://files.catbox.moe/kohflx.safetensors
 
 Anti-blush LoRA v1
 >A quicky before I go to bed. This is more powerful than my previous ones, wouldn't recommend going much above 1 or below -1. Higher = less blush, lower = more blush.
-
-	https://files.catbox.moe/64hscs.safetensors
+https://files.catbox.moe/64hscs.safetensors
 
 Simple to Detailed Background slider
 >This one is more of a curiosity. An attempt at simple background to detailed background. The tags seem far too biased to provide any smooth detail variation.
-
-	https://files.catbox.moe/epkod9.safetensors
+https://files.catbox.moe/epkod9.safetensors
 
 # Naoko (alvh-omega)
 >Recommend using the LoRA at 0.7 weights.
@@ -1477,94 +2538,77 @@ Simple to Detailed Background slider
 Negative prompt: easynegative, boring_e621_v4, bwu, dfc, ubbp, updn, sepia, dark, amputee, multi balls, multi penis, blurry face, poorly drawn face, poorly drawn hands, blurry hands, blurry, simple background, disfigured, mutant, ugly, absorption vore, assimilation, docking, multi limb,
 Steps: 20, Sampler: Restart, CFG scale: 7, Seed: 860553435, Size: 600x800, Model hash: 821628644e, Model: EasyFluffV11.2, Denoising strength: 0.5, CFG Rescale: 0.7, Auto Color Fix Strength: 0.2, Hires upscale: 2, Hires steps: 20, Hires upscaler: 4x_foolhardy_Remacri, Lora hashes: "naokotest5: 36497ef79c2a", Version: v1.6.0``
 >Trained on outfit tags bikini, crop top, booty shorts, kimono, boots, tank top, graphic shirt. Object tags fan, beer, whiskey.
-
-	V1: https://files.catbox.moe/uqumxo.safetensors
-	V2: https://files.catbox.moe/uwzd14.safetensors
+V1: https://files.catbox.moe/uqumxo.safetensors
+V2: https://files.catbox.moe/uwzd14.safetensors
 
 # Dog Species LoRAs
 Bulldog Anthro
 https://civitai.com/models/173684/bulldog-anthro
 >It's a basic LORA to create some Anthro Female Bulldogs, i really like the overall look of Molosser/Molossus dog (Pitbulls,Mastiffs and Great Dane's). It's still very crude, made mostly of Bing images because of the lack of females on E621.net (it's mostly males like Spike from Tom & Jerry or Dribble from Warioware). Most of times looks like a pitbull with a dropped cheeks. The images used for creation are SAFE (Bing IC).
-
-	https://civitai.com/api/download/models/195021?type=Model&format=SafeTensor
+https://civitai.com/api/download/models/195021?type=Model&format=SafeTensor
 
 Schnauzer Anthro
 https://civitai.com/models/178524/schnauzer-anthro
 >As the name says it's a Furry version from a Schnauzer dog (i dunno if the normal version or the toy one), good to make some hipster characters or girls with moustaches and beards.
 >Made with images from Bing IC curated to display mostly of the characteriscts of the race (it look's like your grandpa).
-
-	https://civitai.com/api/download/models/200391?type=Model&format=SafeTensor
+https://civitai.com/api/download/models/200391?type=Model&format=SafeTensor
 
 Fila Anthro
 https://civitai.com/models/181071/fila-anthro
 >Brazilian Fila Dogs
-
-	https://civitai.com/api/download/models/203214?type=Model&format=SafeTensor
+https://civitai.com/api/download/models/203214?type=Model&format=SafeTensor
 
 # James "Jim" Hardiman
-
-	https://files.catbox.moe/c9hkyw.rar
+https://files.catbox.moe/c9hkyw.rar
 
 # Jellymon (Digimon)
-
-	https://files.catbox.moe/stp2lj.safetensors
+https://files.catbox.moe/stp2lj.safetensors
 
 # Pixzapix (Artist)
 >No activation token, but i tried to tag everything like solo/duo/comic/monochrome so it's easier to prevent it from getting confused and making stuff like that, since a lot of his work is comics and duos
 >other common tags are puffy anus, perching position, size difference, gynomorph, equine penis, mating press
-
-	https://files.catbox.moe/1hb04f.safetensors
+https://files.catbox.moe/1hb04f.safetensors
 
 # Helga (Character, World Flipper)
 Regular Costume
-
-	https://files.catbox.moe/5kkocf.safetensors
+https://files.catbox.moe/5kkocf.safetensors
 
 Proud/Beast Costume
-
-	https://files.catbox.moe/7v2xox.safetensors
+https://files.catbox.moe/7v2xox.safetensors
 
 # Hyperpenetration (Concept)
-
-	https://files.catbox.moe/1fkaaw.safetensors
+https://files.catbox.moe/1fkaaw.safetensors
 
 # Prerendered 3D (Style)
 >Best prompts for it:
 >preren, (3d \(artwork\):1.2)
 >and if you want a little more of that plastic-y look, turn it up to a 1.2. It holds together surprisingly well. Really appreciate Harkness and that other anon pushing me over the skill barrier. Feel free to give any feedback as making these style Lora’s is gonna be a new addiction.
-
-	https://pixeldrain.com/u/DjuM3WuL
+https://pixeldrain.com/u/DjuM3WuL
 
 # Squat Toilet (Concept)
 >Trigger: squatoile, squat toilet, toilet use.
-	
-	https://files.catbox.moe/01vrpd.safetensors
+https://files.catbox.moe/01vrpd.safetensors
 
 # Puppets (Concept/Style)
-
-	V1: https://pixeldrain.com/u/5dHrg9Lw
+V1: https://pixeldrain.com/u/5dHrg9Lw
 
 >Alright, here’s the 85% less cursed puppet lora. mpuppet is the trigger prompt though I’m not sure how much you need it.
-
-	V2 (now 20% less cursed): https://pixeldrain.com/u/vCJujfze
+V2 (now 20% less cursed): https://pixeldrain.com/u/vCJujfze
 
 # PC-98 - EasyFluff (Style)
 >pc98 is the trigger word
 >Then like I said, turn it up to 1.3-1.5 to get some of the effects.
-
-	https://pixeldrain.com/u/Yjjmc8kB
+https://pixeldrain.com/u/Yjjmc8kB
 
 # Aardman/Claymation (Style)
 >Aardman/general claymation style
 >Trigger is “aardstyle”
 >The “real” prompt isn’t a must, but it’s recommended. Turning the weight on the Lora to 1.2 and higher emphasizes the clay look but the eyes start to get a little funky.
-
-	https://files.catbox.moe/acy6ap.safetensors
+https://files.catbox.moe/acy6ap.safetensors
 
 # Vyrn (Granblue Fantasy)
 > Activation keyword is the same as the e621 keyword: "vyrn"
-
-	https://files.catbox.moe/0wa9ty.zip
+https://files.catbox.moe/0wa9ty.zip
 
 ## LORAs from the Discord
 

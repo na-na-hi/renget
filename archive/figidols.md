@@ -26,6 +26,14 @@ Towa "twappers" "twappity" "tower of Babylon" "tortelini" "torment" "topaz" "two
 https://www.youtube.com/watch?v=qHOn2cNXQ0A
 Choco " THE MASTER  "  Sensei:  hololewd erolive going for Dhalsim
 https://www.youtube.com/live/zwn2qan7iQA
+Shion "Correction needed"  "MEsugaki": the OG brat going hard with cammy. 
+https://www.youtube.com/watch?v=HGC78j5h374
+Mel 'banpire" "Masters": OG Lewdtuber going with Ken who she calls dad.
+https://www.youtube.com/watch?v=tzdylXxab4o
+Sora "Christmas miracle" : The first holo also tried her hand at fightan. 
+https://www.youtube.com/live/cQPbBl-8WZ0
+Ririka "The bully"  "Gyaru|" : Regloss chuuba going juri which is oddly fitting for the theme of her branch gen. 
+https://www.youtube.com/watch?v=BCnu64mKSjk
 Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 

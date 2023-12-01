@@ -1,7 +1,7 @@
 #####Current Info
 
 Latest thread: https://boards.4chan.org/trash/thread/61498002
-Latest Aggie: https://aggie.io/o83ts72_0_
+Latest Aggie: https://aggie.io/tekc1jfjdo
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -133,3 +133,4 @@ https://aggie.io/dnuhnyuhij /pizzatrash/ Aggie #39: NNN Edition
 https://aggie.io/4o2z65ipfy /pizzatrash/ Aggie #40: Caprese Edition
 https://aggie.io/e3upodxwgh /pizzatrash/ Aggie #40... or is it 47?!
 https://aggie.io/o83ts72_0_ /pizzatrash/ Aggie #41: Black Friday Edition
+https://aggie.io/tekc1jfjdo /pizzatrash/ Aggie #42: Panettone Edition

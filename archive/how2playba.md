@@ -16,8 +16,6 @@ Scroll to the bottom for my last edit date. This guide is still relevant and not
 
 
 ## Downloading/Setting up the game
-!!! info
-Skip if you own a phone 
 
 JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.BlueArchive&hl=en_US&gl=JP&pli=1) | [App Store](https://apps.apple.com/jp/app/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/id1515877221) | [QooApp](https://apps.qoo-app.com/ja/app/12252)
 

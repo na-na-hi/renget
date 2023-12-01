@@ -51,6 +51,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/qfn2dl.png) | Amber | Your friendly rival. Multiple greetings allow you to choose between starting your journey together, meeting up after being trainers for some time, or meeting her for the first time. | [Catbox link](https://files.catbox.moe/qfn2dl.png)
  ![](https://files.catbox.moe/y7jutw.png) | Kamui | Your asshole rival. Multiple greetings. | [Catbox link](https://files.catbox.moe/y7jutw.png)
  ![](https://files.catbox.moe/ko45uy.png) | Yvette | Your asshole rival. Multiple greetings. | [Catbox link](https://files.catbox.moe/ko45uy.png)
+![](https://files.catbox.moe/vugats.png) | Capucine | Yvette's naive younger sister needs help. | [Catbox link](https://files.catbox.moe/vugats.png)
 
 ###Standalone male bots
 Each has his own story and personality

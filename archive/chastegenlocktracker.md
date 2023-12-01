@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 27-Nov-2023)_
+_(Updated 01-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -20,7 +20,7 @@ _(Updated 27-Nov-2023)_
 | Nyum | https://chaster.app/sessions/nBUQZylXrXqglbfK |  01-Dec-2023 |
 | Nepu | https://chaster.app/sessions/jHAs1e0NOFnmQksZ | === |
 | kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Jan-2024 |
-| intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | 0 Thread(s) |
+| intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
 | 00dest | https://chaster.app/sessions/upH38x5Zixzyek4S |  19-Dec-2023 |
 | Spaday | https://chaster.app/sessions/VVFRwZ5OrbL6cFk9 | === |
 | porrov | https://chaster.app/sessions/n5xifPVFPJ1r5NC4 | 01-Dec-2023 |
@@ -32,5 +32,7 @@ _(Updated 27-Nov-2023)_
 | usernyaame | https://chaster.app/sessions/Zlt0mY4evkEqaxtQ | === |
 | EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
 | McHastex | https://chaster.app/sessions/X6Ucs2NPSLEUKBlR | === |
+| sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
+| LittleEngine | https://chaster.app/sessions/2aUP1HsTfsEC8NWd | === |
 |  |  |  |
 |  |  |  |
