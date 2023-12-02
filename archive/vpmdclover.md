@@ -244,6 +244,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Great Bulk Interlude 4 (ft. Makky)](https://rentry.org/GreatBulkInter4)
 	* [Team Verdant Special: The Broke-Heart Cowboy (ft. Makky)](https://rentry.org/GreatBulkSpecial1)
 	* [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
+	* [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -529,6 +530,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 * [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
 * [Christmas Special (ft. Debby)](https://rentry.org/pmdgcs)
+* [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

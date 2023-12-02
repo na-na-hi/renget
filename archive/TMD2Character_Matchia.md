@@ -10,7 +10,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 **Species:** Mienfoo | **Affiliation:** Team Stardust
 **Level:** 9 | **Experience to Next Level:** 30/90
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 440 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 428 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

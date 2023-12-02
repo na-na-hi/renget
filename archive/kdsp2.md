@@ -42,7 +42,7 @@ https://www.deviantart.com/samaster/art/Cursed-Shoe-Shop-Introduction-943996973
 Fate of Beck: Mrs. Hancock's Dating Game (Original Work) by SAmaster
 https://www.deviantart.com/samaster/gallery/87911870/mrs-hancock-s-dating-game
 
-Fate Of Beck: Ninja Minisode (Original Work) by SAmaster | Completed: 2023-04-29
+Fate Of Beck: Ninja Minisodes (Original Work) by SAmaster | Completed: 2023-04-29
 https://www.deviantart.com/samaster/art/Ninja-Minisode-Part-1-939565468
 
 Lindsey’s Maturity (Original Work) by FLIMBO | Completed: 2020-07-07
@@ -57,6 +57,9 @@ https://archiveofourown.org/works/37795558/
 Big Bang Bimbos (Persona 5) by Kin12 | Completed: 2023-02-09
 https://archiveofourown.org/works/45715912/
 https://justpaste.it/clcxi (alt link)
+
+A Phantom's Halloween (Persona 5) by Kin12 | Completed: 2023-11-04
+https://archiveofourown.org/works/51354703/
 
 Bimbo Awareness (Persona 5) by Kin12 | Completed: 2023-03-12
 https://archiveofourown.org/works/45699232/
@@ -86,8 +89,11 @@ Sae Niijima (Persona 5) by Kin12 | Completed: 2022-08-02
 https://archiveofourown.org/works/45753328/
 https://justpaste.it/6o7rs (alt link)
 
-Strings & Kings (Persona 5) by Kin12 | Completed:2023-07-02
+Strings & Kings (Persona 5) by Kin12 | Completed: 2023-07-02
 https://archiveofourown.org/works/48297010/
+
+Welcum to the Rose Room, Trickster (Persona 5) by BlazzterBlaster and NotGeno | Completed: 2023-11-23
+https://archiveofourown.org/works/51786928/
 
 Pixar Sexy Shorts (Pixar) by annonfan224 | Completed: 2021-07-09
 https://archiveofourown.org/works/28766307/

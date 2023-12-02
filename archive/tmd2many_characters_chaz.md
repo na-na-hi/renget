@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
 **Level:** 8 | **Experience to Next Level:** 75/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 85₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 60₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

@@ -29,15 +29,16 @@ This document is subject to change / expand as I experiment with more jailbreaks
 ## Claude 2.1 Prompts
 
 1. [Readme](https://rentry.org/crustcrunchJB/edit#readme)
-2. [Download](https://rentry.org/crustcrunchJB/edit#download)
-3. [v4 Updates](https://rentry.org/crustcrunchJB/edit#v4-updates)
-4. [Jailbreak Edits](https://rentry.org/crustcrunchJB/edit#potential-jailbreak-edits-you-may-want)
-5. [Main Prompts](https://rentry.org/crustcrunchJB/edit#main-prompts)
-6. [Utility Prompts](https://rentry.org/crustcrunchJB/edit#utility-prompts)
-7. [Custom Prompts](https://rentry.org/crustcrunchJB/edit#custom-prompts)
-8. [Prompt Order](https://rentry.org/crustcrunchJB/edit#prompt-order)
-9. [Squash System Messages](https://rentry.org/crustcrunchJB/edit#check-squash-system-messages)
-10. [Card Edits (only for older versions)](https://rentry.org/crustcrunchJB/edit#card-edits-only-for-v1-and-v2)
+2. [How to Import](https://rentry.org/crustcrunchJB/edit#how-to-import-the-json-file)
+3. [Download](https://rentry.org/crustcrunchJB/edit#download)
+4. [v4 Updates](https://rentry.org/crustcrunchJB/edit#v4-updates)
+5. [Jailbreak Edits](https://rentry.org/crustcrunchJB/edit#potential-jailbreak-edits-you-may-want)
+6. [Main Prompts](https://rentry.org/crustcrunchJB/edit#main-prompts)
+7. [Utility Prompts](https://rentry.org/crustcrunchJB/edit#utility-prompts)
+8. [Custom Prompts](https://rentry.org/crustcrunchJB/edit#custom-prompts)
+9. [Prompt Order](https://rentry.org/crustcrunchJB/edit#prompt-order)
+10. [Squash System Messages](https://rentry.org/crustcrunchJB/edit#check-squash-system-messages)
+11. [Card Edits (only for older versions)](https://rentry.org/crustcrunchJB/edit#card-edits-only-for-v1-and-v2)
 
 ### readme:
 This is the prompt setup I am using to test Claude 2.1 as of 11/28/23. This was tested on the latest version of Silly Tavern staging, up to that date. I cannot guarantee this preset will work as intended on older versions of Silly Tavern.
@@ -65,6 +66,14 @@ If you don't want to download/import, keep reading the guide below Card Edits. A
 !!! danger KNOWN ISSUES:
 	Claude 2.1 likes to wrap the prose in asterisks. If you do not want him to do this, simply edit the asterisks out of your chat history until he gets the hang of it. Properly formatted example dialogue helps with this as well. Hopefully v4 will fix this.
 	If your responses are getting cut off, this is likely an issue with your proxy. Make sure your "Max Response Length (tokens)" (set to 800 by default) does not exceed your proxy's "maxOutputTokensAnthropic" setting.
+
+***
+
+### How to Import the .json File
+
+![how to import](https://files.catbox.moe/0wnjk1.png)
+
+In Silly Tavern, open the AI Response Configuration panel. Under the "Chat Completion Presets" drop-down menu at the top, click the "Import preset" button (pictured above.) Then, select the .json file. And you're done!
 
 ***
 

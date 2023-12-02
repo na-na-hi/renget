@@ -1188,18 +1188,19 @@ Cons:
 ### ->Christmas Pecorine<-
 **Tanky mage frontliner with TP restoration skill and a debuff on UB. Similar to Monika 6* and Nuuka in comps past, very scary potential for CB. Looks ok for Arena defense, but no CC.**
 At first glance, X.Peco looks pretty whatever overall. However, her buffs and TP restore reach all the way back to Summer Neneka and Regular Neneka. In addition, this the first magic unit that is a tank, with TP restoration. Comparable to Noire Kuuka, in the sense that she tanks hits and buffs the party. Nuuka provides more offensive buffs and offers more shred, but cannot protect her teammates and only buffs 1 unit. X.Peco's buffs are fully defensive, which means her role is about debuffing the enemy and keeping her teammates alive. In some cases, this does give her more flexibility compared to Nuuka, who needs to be the one tanking every hit, like vs goblin.
-X.Peco could be seen against other bosses, as she buffs the defenses of her teammates, can heal the lowest HP target and applies damage cuts to herself. The most important part of this is that her debuff ism on UB, because of how much TP magic teams can gain from sources such as W.Djeeta, Giliya, Neneka & S.Neneka. UBs can be used whenever, as opposed to skills which have limited usage over the course of a fight. 
-A quick thought on Arena, but she could see usage in defense stall teams with all of the defensive buffs and damage cuts she has. Very scary prospect
+X.Peco could be seen against other bosses, as she buffs the defenses of her teammates, can heal the lowest HP target and applies damage cuts to herself. The most important part of this is that her debuff is on UB, because of how much TP magic teams can gain from sources such as W.Djeeta, Giliya, Neneka & S.Neneka. UBs can be used whenever, as opposed to skills which have limited usage over the course of a fight. 
+A quick thought on Arena, but she could see usage in defense stall teams with all of the defensive buffs and damage cuts she has. V
 -> ![X.Peco](https://redive.estertion.win/card/full/127931.webp) <-
 
 Pros:
-- Pos 1 tank that can eat hits for mage teams, allowing
+- Pos 1 tank that can eat hits for mage teams
 - Small TP restoration 
 - M.def shred on UB
 - Buffs from S1/2 reach all mid mages (Giliya, X.Akari, X.Yori, W.Djeeta, etc...) and S.Neneka, Neneka
 - Good opeining action (TP restoration 1st action)
 - Good skill loop (S2 > AA > S1 > AA > S2 > AA > S1)
 - Defensive reaching multiple units 
+- Defensive buffs allow you to run squishier, high damage units 
 
 Cons:
 - No offensive buffs (M.Crit chance, M.Crit damage, M.Atk)

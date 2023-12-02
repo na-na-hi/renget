@@ -17,6 +17,9 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Concept art of a hypothetical "Wapeach" have been revealed by Waluigi's creator, designed during the GCN era
+https://www.instagram.com/p/C0TpKyDSfOy/
+https://www.instagram.com/p/C0UBB6tSxgB/
 「!」MK8D Wave 6 Patch Notes
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/26098/~/how-to-update-mario-kart-8-deluxe
 「!」Paper Mario: The Thousand-Year Door Revealed

@@ -72,6 +72,11 @@ There were **X** stories posted last thread.
 (Story Title) (Link to post in previous thread)
 Tags: (just copy-paste what the author put in their original post)
 
+## Winter War Anchor Post 
+
+CONTEST STORY ANCHOR
+For any stories you want to enter into the contest, reply to this post!
+
 ## Special Section: Why OP Is a Faggot
 
 1. tl;dr

@@ -46,11 +46,11 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 25 IQ points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 1 IQ points to spend.
+    1/10 IP | ▮▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Skywords | The User has a natural skill at navigating with the help of stars. Warp Seeds are more likely to be useful. | 1 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -86,8 +86,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Royal Gummi |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
-2. Royal Gummi | Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
+1. Eᴍᴘᴛʏ  |  Description
+2. Eᴍᴘᴛʏ  |  Description
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
