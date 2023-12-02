@@ -78,7 +78,7 @@ Unofficial Archive of random /lig/ger vods| [Link](https://www.youtube.com/playl
 ##[Anny](https://www.twitch.tv/anny)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Anny (VR Chat) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| Unlisted Youtube playlist with Anny VR Chat Vods people wanted to have Archived
+Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| Unlisted Youtube playlist with mostly Anny VR Chat Vods people wanted to have Archived and some other vods
 
 ---
 
@@ -142,6 +142,11 @@ Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PL
 
 #Other Vtuber Vod Archives that are not maintained by me
 
+##Random assortment of indie Vod archives
+Content|Link|Description 
+-------|-------|------- 
+Random assortment of /lig/ger vods on archive.org: | [Link](https://archive.org/details/@fellowpettanenjoyer?)| Another anon posted that link in /lig/ so i thought i might as well add this account here.
+
 ##[Lord Aethelstan](https://www.twitch.tv/lordaethelstan)
 Content|Link|Description 
 -------|-------|------- 
@@ -175,9 +180,16 @@ Content|Link|Description
 -------|-------|------- 
 (Unofficial) Filian Vod Archive: | [Link](https://www.youtube.com/@filianvods)
 
-
 ---
 
+##[Rainhoe](https://www.twitch.tv/rainhoe)
+Content|Link|Description 
+-------|-------|------- 
+(Unofficial) rainhoe Vod Archive (1): | [Link](https://www.youtube.com/@rainhoevods5864)|The oldest channel, has some old stuff but has not been updated for a year
+(Unofficial) rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|Newer than the above, has not been updated in a while
+(Unofficial) rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|Newest channel, currently active but does not have old vods
+
+---
 #Other Sources for Vods (Hololive vods etc):
 Content|Link|Description 
 -------|-------|------- 
@@ -185,6 +197,7 @@ Nyaa| [Link](https://nyaa.si/) | This website has several Hololive and others Vo
 Holopirates| [Link](https://mogu.holopirates.moe/)| Hololive Vods
 Vod Archival Thread in /t/| [Link](https://boards.4chan.org/t/thread/687343/welcome-to-torrents)| You can request Archives for vods here from several people. The threads usually named "Hololive and other Vtuber archives:"
 Ragtag Archive| [Link](https://archive.ragtag.moe/)| This website has several Youtube Vod channels content archived
+Archive Org| [Link](https://archive.org)| Other people use this website to archive random Vtuber vods sometimes, so if youre looking for specific vods this might be of use
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
 
@@ -197,4 +210,3 @@ Content|Link|Description
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
 Email|[Link]()| Psobb1302@gmail.com
-Discord |[Link]()| Earthes1302

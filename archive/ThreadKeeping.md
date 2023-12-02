@@ -781,6 +781,11 @@ https://rentry.org/iptpr
 >Jack Dunn HN Three-Sixty / VN The Asset
 >>88931192
 
+>Pax Organization:
+>Eugene Kurtz VN Pax and Mercy
+>>88984432
+>Nightmare
+>>88984422
 ```
 ***
 Page 5
@@ -883,11 +888,6 @@ Page 5
 >Luccione
 >>90146415
 
->Pax Organization:
->Eugene Kurtz VN Pax and Mercy
->>88984432
->Nightmare
->>88984422
 ```
 ***
 Page 6

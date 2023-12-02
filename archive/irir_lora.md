@@ -498,7 +498,8 @@ Resolution | Image | Description
 512 | ![Image](https://files.catbox.moe/u3khe8.jpg) | SD1.5かな？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
 
 ### SDXLのPCスペック
-余裕はあまりないが推論・学習(unet_only有効)ともにVRAM8GBでできる。XLやるなら4060Ti(16GB)、4070(Ti)、4090、4070 Ti SUPER(VRAM16GBで2024年発売予定？)がよさそう。
+余裕はないが推論・学習(unet_only有効)ともにVRAM8GBでできる。TE込みのSDXL LoRA回すなら最低でも3060(12GB)、できれば4060Ti(16GB)、4070(Ti)、4090、4070 Ti SUPER(VRAM16GBで2024年発売予定？)がよさそう。
+TE込みだとVRAM8GBでは絶対にあふれて1step44秒、5000stepsで二日半かかる。待てないことはないけど・・・まあ厳しいっすねw
 メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
 生成はComfyUIかFooocusがAUTOMATIC1111より省メモリで良い。Fooocusは最低4GBのVARMと8GBのRAMでできるらしい。
 
@@ -524,7 +525,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 ### 実践
 
 - データセットの準備
-教師画像はいつものやつらを44417枚用意。合計ファイルサイズは126GiB
+教師画像はblue_archiveタグが付いた画像を44417枚用意。合計ファイルサイズは126GiB
 画像DL時にartistタグを取り除いたDanbooruタグ方式のキャプションも作成。
 キャプションにDanbooruスコアが6点以上のものにhigh quality、18点以上にbest quality、60点以上にmasterpieceを追加。
 ちなみに、DLで四時間、リサイズで40分、latentキャッシュで二時間もかかった。

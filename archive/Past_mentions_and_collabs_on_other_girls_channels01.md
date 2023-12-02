@@ -9,7 +9,7 @@
 	---
 	| Year | Month |
 	|-|-----|
-	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01/#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01/#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01/#october-2023) - [November](https://rentry.org/Collabs_on_Nerissa_s_channels01/#november-2023)
+	|**2023** | [August](https://rentry.org/Collabs_on_Nerissa_s_channels01#august-2023) - [September](https://rentry.org/Collabs_on_Nerissa_s_channels01#september-2023) - [October](https://rentry.org/Collabs_on_Nerissa_s_channels01#october-2023) - [November](https://rentry.org/Collabs_on_Nerissa_s_channels01#november-2023) - [December](https://rentry.org/Collabs_on_Nerissa_s_channels01#december-2023)
 
 !!!note -> ![Image description](https://files.catbox.moe/f9inkg.png) [Collabs on other holomems channels & mentions in 2023 (sorted by year and by branch)](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)  ![Image description](https://files.catbox.moe/f9inkg.png)<-
 	[TOC2]

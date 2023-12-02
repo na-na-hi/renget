@@ -24,6 +24,8 @@ The first original song is currently in the making, see [trailer](https://www.yo
 | DECO\*27 - The Vampire (English cover) |-> [![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw) <-|3m14|
 | Down By The River (Baldur's Gate 3) | -> [![](https://i.ytimg.com/vi/8j3wK1DXhrs/mqdefault.jpg)](https://www.youtube.com/watch?v=8j3wK1DXhrs) <- |2m38|
 | MOKA☆ - Lilium | -> [![](https://i.ytimg.com/vi/-GUdYPelG8c/mqdefault.jpg)](https://www.youtube.com/watch?v=-GUdYPelG8c) <- |4m17|
+| 7th cover (mentioned, in progress) | TBA | TBD |
+| 8th cover (mentioned, in progress) | TBA | TBD |
 
 #####Collab Songs
 | Song | Link | Duration |
