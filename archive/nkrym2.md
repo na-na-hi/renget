@@ -1,10 +1,14 @@
+!!! info Want to know more? 
+    *This story works on its own, but if you want to know what you did with Ayame beforehand you can find out at https://rentry.org/nkrym*
+
+
 #The Oni's Rebellion
 
 
 
-*34 seconds...
+34 seconds...
 33 seconds...
-32 seconds...*
+32 seconds...
 
 "Dinner's ready, just in time to save my ass! And your stomach, hopefully."
 Ayame hurried to your seat at the dinner table with a proud expression, her red eyes fixed you.

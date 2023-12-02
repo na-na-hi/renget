@@ -86,3 +86,7 @@ You managed to leave the kitchen, and the little oni to her cooking devices. It 
  
  
 "Only 20 minu- I mean, as you wish sir." Ayame bowed her head and got to work, understanding your message andcontrolling herself. She wasn't ignorant of boundaries after all, she just liked pushing them a bit too much; she needed to learn where the border between being bratty and being ill-trained was, between fun penalty and ugly punishment.
+
+
+!!! info This is only the first part!
+     *Read on at https://rentry.org/nkrym2 to find out what happens next!*

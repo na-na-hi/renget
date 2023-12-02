@@ -28,13 +28,14 @@ Botmaker | Category | New Bots | Updated Bots
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
 [Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
+[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
+[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
+[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Planewalker](https://rentry.org/planewalker) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Genoo](https://rentry.org/295se) | Sizeplay ||
-[PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
-[Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
@@ -43,7 +44,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
-[DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||

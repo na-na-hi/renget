@@ -5,7 +5,7 @@
 ->Yo<- 
 ->We are so back<-
 I make cards. Super ESL so there will be typos, strange sentence structures and all kinds of different mistakes all over the cards. Optimization is painful as well.
-All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude and GPT-4 on Silly Tavern
+All bots are only tested with ~~Slaude(**RIP my sweet prince**)~~ Claude 2 ~~and GPT-4(**I don't use it anymore sorry**)~~ on Silly Tavern
 You can also find some of my cards in [CHUB](https://www.chub.ai/users/playalundra), I however will upload all of my cards here.
 If you want to contact me for a reason or another, here is my e-mail: playalundra@proton.me
 Card art on most of my cards is made by my amazing friend [Silver Surfer Anon](https://rentry.org/SilverSurfer) ![He's a cool nice dude](https://files.catbox.moe/k4om3c.png)
@@ -144,17 +144,20 @@ Well written, I romanced Fiddlesticks which was fun. I hate LoL but it has some 
 -> ============== <-
 
 ## "News"
+*Pretending I'm important enough to have "news section".*
 
 Projects: ==Top Priority==
-**Ghost girl**. Halloween, but not sure if I will finish.
+~~**Ghost girl**. Halloween, but not sure if I will finish.~~ **Benched**
 ==**Little girl**==. One of my favorite characters, gotta make a card.
-**Self-card**. As a botmaker, this is required to do sooner or later.
+**Self-card**. As a botmaker, this is required sooner or later.
 **Fempov Shota**. Lack of them makes me sad. Variety is spice of life.
 **Kanna card**. Been a thing I should make for a while.
 
-Pretending I'm important enough to have "news section".
+**Project GuP**
 Shortened Project GuP to just Anzio school. A whole Girls und Panzer universe would be absolutely painful to implement and would take way too many tokens even with a lorebook. Just looking at Ooarai and the amount of characters it has was just depressing. Maybe one day someone can make it work, but I don't see many GuP cards sadly.
-**YOU**, please make GuP cards.
+*YOU*, please make GuP cards. I liked the 
+
+
 
 
 That's all.

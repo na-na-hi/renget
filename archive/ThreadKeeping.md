@@ -48,6 +48,7 @@ https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
 >DAY 4: >>91070426
 >DAY 5: >>91082651
 >Day 6: >>91091642
+>Day 7: >>91102274
 
 ```
 ***
@@ -541,23 +542,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Artfag:
->sandatsu origin
->>91092900
-
-New Poem!?:
->A poem for Orochi
->>91100938
-
-New Writefags:
->Gossip 8
-https://rentry.org/xqthh
->A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken)
-https://rentry.org/ondcwi
->Visiting an Old Friend (Yamamoto):
-https://rentry.org/cvwhb
->THE SECRET LIFE OF SANDATSU OWARI
-https://rentry.org/2v4te
+>Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan)
+https://rentry.org/oyfco
+>Steam
+https://rentry.org/rya79
+>Mirror's Mentor (Mirror Devil, Smokin' Sexy)
+https://rentry.org/qycta
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -1079,6 +1069,12 @@ https://rentry.org/ondcwi
 https://rentry.org/cvwhb
 >THE SECRET LIFE OF SANDATSU OWARI
 https://rentry.org/2v4te
+>Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan)
+https://rentry.org/oyfco
+>Steam
+https://rentry.org/rya79
+>Mirror's Mentor (Mirror Devil, Smokin' Sexy)
+https://rentry.org/qycta
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
