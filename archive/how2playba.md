@@ -373,10 +373,11 @@ No, you can not turn off the auto button in battle.
 
 ## Shop
 The place where u buy stuff and rub Sora's forehead.
+**The only items that rotate in the shop are the artifacts in the credit store.** 
 
 >Normal shop (or credit shop) 
 Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Buy the enhancement stones *only if you need them*.
-Buying the activity reports with credits is kind of bad (as in really bad). 
+Buying the activity reports with credits is kind of bad (as in really bad), so don't do that. 
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
@@ -392,11 +393,10 @@ I personally recommend buying stuff for the current and next raid.
 
 - "idk what to buy, which BDs/technotes do I pick?" 
 
-
 Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. 
 
 >PvP shop
-**Save ur shit, maybe buy Utaha. Maybe.**
+**Save ur shit for AP drinks, maybe buy Utaha. Maybe.**
 
 In general you want to save up your coins so you get to buy out the pvp drinks during events. If there's a girl that appeals to you feel free to buy her. Utaha is the most 'meta' character in this shop, as her UG makes her a top pvp support. She requires a lot of investment however. 
 Don't buy the reports or credits, they really really suck. You can buy the drinks and farm commissions for a better efficiency 
@@ -413,10 +413,10 @@ In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT wit
 I'll go over every item, just know that this shop is a lot more nuanced. You can pick anything and it'd be decent. 
 
 - Artifacts
-I don't recommend buying out the artifacts. Even though you can't get these artifacts through bounty, there are a lot of events where you can farm them. You also get an okayish chunk through raids.
+I don't recommend buying out the artifacts, except when you absolutely need to. Even though you can't get these artifacts through bounty, there are a lot of events where you can farm them. You also get an okayish chunk through raids.
 
 - Reports
- The safest option if don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
+The safest option if don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
 
 - Shards
 Tsurugi > Eimi > Sumire. 
@@ -426,10 +426,10 @@ If you buy them out, eventually you'll no longer need to buy them too. Eventuall
 
 - Fusion stones 
 With the fusion stones you can convert a surplus of a certain type of mat into a different mat in the crafting chamber (the 2nd one). It really helps bridging the gaps in your stash at a decent price.
-I'm personally using the gold ones to convert gifts into the ones I need, but most of the time you won't need these things. They're very handy when you need them, so having a decent stack of them can come in handy (don't buy the grey ones though) 
+I'm personally using the gold ones to convert gifts into the ones I need, but most of the time you won't need these things. They're very handy when you need them, so having a decent stack of them can come in handy (don't buy the grey ones though). About 40 of each would be my recommendation. 
 
 - Secret tech note 
-They're okay. If you need them they're handy, and I buy them occasionally too. 
+They're okay. If you need them they're handy. I buy them occasionally too. 
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert) 
@@ -611,7 +611,7 @@ You don't choose her. She chooses you.
 The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll just know when it happens.
 
 > I'm AP capped! What do I spend it on?
-You spend it on whatever campaign is currently running (the pink banner). If it's a dead week (e.g. only 2x scrimmages) it's:
+You spend it on whatever event is currently running. If it's a dead week (e.g. only 2x scrimmages) it's:
 Hard missions > Normal missions > Commissions.
 Commissions are only worth it during campaign events, and only if you can farm the orange report, which are available at level H+. The credit commissions are decent too, so if ur poor you can sweep them. 
 

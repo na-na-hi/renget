@@ -18,9 +18,10 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Catherine](https://files.catbox.moe/2yje7l.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Capucine](https://files.catbox.moe/vugats.png), [Karmin](https://files.catbox.moe/kwnf8z.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Emmeline](https://files.catbox.moe/msfdt4.png)|
-[Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png), [BD-612-D](https://files.catbox.moe/alqwro.png), [BD-10003](https://files.catbox.moe/6fgyjt.png)|
+[Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
@@ -38,7 +39,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
-[Vanillanon](https://rentry.org/bingbingwahoo) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||

@@ -72,3 +72,6 @@
 
 [JPN] Usa: https://www.youtube.com/@usao-usao
 - lots of videos outside and digging, 50K+
+
+[ZHO] NiNi: https://www.youtube.com/@user-yr8rs8uz5r
+- bunny ASMR, < 1K

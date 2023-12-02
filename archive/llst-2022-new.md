@@ -28,7 +28,7 @@
 **Events tracker:**
 [Ramen Events tracker](https://ramen.events/)
 ↳ [LL Events Index](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHeBJDlTfg5HbIoIef9OYwJdN_BLdmLJWzJ9D2BOwUfAdPrKc6ICfobUylCosSVd27Nu9PeCoqUbSW/pubhtml)
-[Love Live Events TW](https://twitter.com/loveliveevents) (Caution: can be inaccurate/out of date)
+[LLFans calendar (JP)](https://ll-fans.jp/articles/calendar)
 
 **Official Sites:**
 [µ's](https://www.lovelive-anime.jp/otonokizaka/worldwide/)
