@@ -28,11 +28,11 @@ If you want to make a card like those below, the easiest way is to use the cardm
 There are other options available, but this is by far the easiest and requires the least work. (For those that need more control, here's a PSD for a template: https://files.catbox.moe/oqd0in.psd)
 If you want to specifically make a Den of Sin card, I recommend using an existing lorebook as a base and simply editing the existing entries with your character of choice. DoS characters follow a fairly strict format that works pretty well, though experimentation is always something you can try. Maybe you can find a better format, who knows?
 
-###Den of Sin: The Prompt
+###Den of Sin: The Prompt: Remastered
 >Science truly is marvelous. Thanks to incredible advancements in a field so advanced it might as well be magic, people can now create entire dimensions entirely with their mind. World peace was declared minutes later as it was realized this could be directly used for fucking, or for things that aid in having more time for fucking.
 >
 >[Note: Intended to be used with the import of a specific custom lorebook before playing. I have not had good results with the default model, so choose your favorite before playing as well.]
-https://prompts.aidg.club/1908
+https://aetherroom.club/6468
 
 ###Utilities
 Link | Name | Description | Date Added | Updated?

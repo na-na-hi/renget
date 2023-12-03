@@ -21,13 +21,13 @@ The leaked NAI model (V1) was based on the [original Stable Diffusion](https://g
 - New inpainting model
 - Focuses on tags placed closer to the start of the prompt (per https://docs.novelai.net/image/models.html#novelai-diffusion-anime-v3)
 - **Produces much better imagery overall**
-- **Recognizes and responds to many more tags overall**
+- **Recognizes and responds to many more tags overall** (`x-ray` is a good examples of this -- previously impossible with V1)
 
 # How
 #### How do I use this model?
 1. Visit https://novelai.net and register an account.
 2. Purchase a subscription ("**Manage Account**" on homepage) or some virtual currency (Anlas, via https://novelai.net/image).
-	- Unless you're just trying this out or expect to generate very few images, it is highly recommended to purchase the highest subscription tier (Opus). This is $25 USD, but as a special perk, it provides unlimited generations for gens that are 1 megapixel in size. 
+	- Unless you're just trying this out or expect to generate very few images, it is highly recommended to purchase the highest subscription tier (Opus). This is $25 USD, but as a special perk, it provides unlimited generations for gens that are 1 megapixel in size (the default portrait, landscape, and square resolutions). 
 3. Generate images.
 
 More information on how to use the model can be found in NAI's official docs. https://docs.novelai.net/image.html
@@ -63,7 +63,7 @@ As indicated by code from the 2022 leak, NAI had filtered all `comic` and `koma`
 It is estimated to be sometime during Summer 2023.
 
 #### Is metadata embedded in NAI generated images?
-NovelAI embeds metadata in both a PNG text field, and the alpha channel. They also sign these images with [Ed25519](https://en.wikipedia.org/wiki/EdDSA#Ed25519), a public-key cryptography algorithm, used to verify if images have been tampered with. This is done with a public key NAI provides, which signs the pixel data and embedded metadata of the image.
+NovelAI embeds metadata in both a PNG text field, and the alpha channel. They also sign these images with [Ed25519](https://en.wikipedia.org/wiki/EdDSA#Ed25519), a public-key cryptography algorithm, used to verify if images have been tampered with. This is done with NAI's private key, which signs the pixel data and embedded metadata of the image, and can be verified with their public key they provide.
 The alpha channel metadata implementation is directly based on the [stealth pnginfo extension](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo).
 Their signature implementation is made publicly available to verify generated images. https://github.com/NovelAI/novelai-image-metadata
 
@@ -107,9 +107,9 @@ Very unlikely. They have been advised by lawyers it is a legal risk.
 This is a bonus section with some helpful information about the web UI extension, found here: https://github.com/Metachs/sdwebui-nai-api
 
 #### Tip 1: img2img inpainting
-In NAI's UI, inpainting is only provided via their inpainting model. For technical reasons due to how the inpainting model architecture is designed, using this mode will replace the content of the desired area **in it's entirety**. Scribbling or drawing over the desired masked area will not influence the result. While this is very useful for perfect seams and prompt-only directed work, it is not useful for those that prefer redrawing and inpainting with a chosen denoise strength.
+In NAI's UI, inpainting is only provided via their inpainting model. For technical reasons due to how the inpainting model architecture is designed, using this mode will replace the content of the desired area **in it's entirety**. Scribbling or drawing over the desired masked area will not influence the result. While this is very useful for perfect seams and prompt-only directed work, it is not useful for those that prefer redrawing and "inpainting" with a chosen denoise strength.
 
-Using the web UI extension, inpainting can be performed using not only NAI's inpainting model, but also utilizing the traditional "img2img inpainting" workflow the web UI provides, which allows for scribbling/redrawing, a custom denoise strength, and to only affect the masked region.
+Using the web UI extension, inpainting can be performed using not only NAI's inpainting model, but also utilizing the traditional "img2img inpainting" workflow the web UI provides, which allows for scribbling/redrawing, a custom denoise strength, while only affecting a masked region.
 
 To use this mode, you must change the `NAI Inpainting` setting, found under the `NAI API Generation` accordion in the img2img tab.
 ![image](https://files.catbox.moe/j96rac.png)

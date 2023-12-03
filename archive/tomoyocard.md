@@ -10,6 +10,8 @@
 
 ##### Examples
 
+[Chatlogs](https://chatlogs.neocities.org/?cards=Tomoyo)
+
 ![](https://files.catbox.moe/dmlk70.png)![](https://files.catbox.moe/ncbuoh.png)![](https://files.catbox.moe/0twjz0.png)![](https://files.catbox.moe/t7qpiz.png)
 
 ### Tips / Common issues

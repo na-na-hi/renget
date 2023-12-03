@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Hohols getting droned (NOT COMFY)
+https://files.catbox.moe/qpjsdt.mp4
+>The larp continues
+https://files.catbox.moe/dxbr4a.mp4
 >Russians are chased by a FPV drone and narrowly avoid being hit 
 https://files.catbox.moe/4kmgyy.mp4
 >Device called "The Linguist"broadcasts calls of surrender in both Russian and Ukrainian 

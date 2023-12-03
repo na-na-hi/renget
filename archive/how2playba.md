@@ -321,7 +321,7 @@ Welcome to the endgame content of BA, the biweekly PREMIER source of BDs, techno
 The first thing you want to do is join a club. The second thing is borrowing the strongest unit for the raid. Congrats you just beat the raid.
 
 Read up on what the boss does and how to tackle it with [the raid guide.](https://docs.google.com/document/u/0/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0)
-Alternatively look up some clears or guides on YouTube. E.g. "Blue Archive Binah Guide". 
+Alternatively look up some clears or guides on YouTube. E.g. "Blue Archive Binah Guide". The [/bag/ banner guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) also has a "cope" section for some raids. 
 
 Up to HC you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
 Don't try EX without a mock battle if ur below the recommended level.
