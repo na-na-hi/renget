@@ -617,6 +617,7 @@ Junichi: https://desuarchive.org/tg/post/91082748/
 Sandatsu's Hidden Form: https://desuarchive.org/tg/post/91082759/
 Sandatsu: https://desuarchive.org/tg/post/91082769/
 sandatsu origin: https://desuarchive.org/tg/post/91092900/
+Stage team: https://desuarchive.org/tg/thread/91101836/#91107742
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -950,6 +951,9 @@ A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cl
 Visiting an Old Friend (Yamamoto): https://rentry.org/cvwhb
 THE SECRET LIFE OF SANDATSU OWARI: https://rentry.org/2v4te
 A poem for Orochi: https://desuarchive.org/tg/post/91100938/
+Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan): https://rentry.org/oyfco
+Steam: https://rentry.org/rya79
+Mirror's Mentor (Mirror Devil, Smokin' Sexy): https://rentry.org/qycta
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

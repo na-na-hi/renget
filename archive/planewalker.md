@@ -347,6 +347,17 @@ Felix | Info
 ![](https://files.catbox.moe/sqg1y4.png)   | Felix is a socially awkward but overall nice bat boy who has a fascination with punk culture, even if he's kinda bad at the whole "punk" part. Maybe you can help him with that, or maybe you can just chill and have a nice time together. Comes with three greetings: a crash into hello, Felix wanting to go to a rave, and Felix wanting to show you his secret hang-out spot.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/felix-47dd8b3b),  [Catbox](https://files.catbox.moe/tsyc91.png)
 
+Luca | Info
+:----:  | :----: 
+![](https://files.catbox.moe/ecyaal.png)   | Your older brother Luca ran away from home to escape the parents that had been abusing him. But not before promising he would come back for you. Ten years later, and he's suddenly re-appeared in your life with intentions of making up for lost time. Comes with three greetings: meeting after the funeral of your parents, reuniting in a coffee shop, and finding him through a professional detective.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/luca-27e6a3a9),  [Catbox](https://files.catbox.moe/34gmon.png)
+
+Sylas | Info
+:----:  | :----: 
+![](https://files.catbox.moe/19zr6y.png)   | A curious plague has begun creeping through the town Sylas Blackwell calls home. Being the upstanding doctor that he is, he's taken it upon himself to search for the cure and possibly squabble with some priests in the process. Comes with three greetings: Sylas requesting your help for research, spousal POV in which you've caught the plague, and a religious POV where the church has asked you to get his help.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sylas-cb30e0f9),  [Catbox](https://files.catbox.moe/dkvv8u.png)
+
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

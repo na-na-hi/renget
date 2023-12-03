@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 7 | **Experience to Next Level:** 60/70
+**Level:** 8 | **Experience to Next Level:** 10/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1310₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1570₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -24,7 +24,7 @@ Bulletproof | The User is immune to ball and bomb Moves.
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 5 (20HP) | 20HP
-Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
+Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Defense | 0 | Special Defense Tier ɪ | +1 Special Mitigation
@@ -48,7 +48,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 37 points to spend.
+    You have 51 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -78,8 +78,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
+1. Big Apple | Gives +4 to any outside-combat-action.
+2. Refined Pearl (x3) | Three refined, misshapen pearls. They may be worth something. (15,14,20)
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -88,8 +88,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Unrefined Pearl (x3) | Three unrefined, misshapen pearls. They need some work, but could be worth something eventually.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Dew Gummi | Gives +10 IQ points to Bug-Types. Gives +5 to other types. Tastes like honeydew.
+2. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

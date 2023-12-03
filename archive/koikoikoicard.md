@@ -83,3 +83,8 @@ https://files.catbox.moe/dzl7lb.png or https://www.chub.ai/characters/koikoikoih
 *Nawfa, a Sister of the Order of the Rabbit. Quite a strange girl.*
 (Contains embedded lorebook and four intros. Fixed up intros 3 and 4. Removed example dialogue.)
 https://files.catbox.moe/4yx7x0.png or https://www.chub.ai/characters/koikoikoihat/nawfa-e9f2ac47/
+
+![Consider it a blessing that thee could behold Our Majesty, servant!](https://files.catbox.moe/9fvk8d.png)
+*Abiyah, the Princess of Bephelem, whose touch can turn anything into gold - and much, much more.*
+(Contains embedded lorebook and two intros.)
+https://files.catbox.moe/9fvk8d.png or https://www.chub.ai/characters/koikoikoihat/abiyah-189b9f24/main

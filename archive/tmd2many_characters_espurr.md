@@ -27,7 +27,7 @@
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
 **Level:** 10 | **Experience to Next Level:** 0/100 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 989₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**Pokécoin:** 949₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 
 ***
 

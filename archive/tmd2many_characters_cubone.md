@@ -98,7 +98,7 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: None | N/A | 0/3 | ▯▯▯
+Training for Attribute: Stealth | 1 | 2/3 | ▯▯▯
 Training for Attribute: None | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
@@ -113,7 +113,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | N/A
 1. TM12 Water Gun | A TM containing instructions for the move Water Gun.
-2. Empty | None
+2. Big Apple | Gives +4 to any outside-combat-action.
 3. Empty | None
 4. Empty | None
 
@@ -123,8 +123,8 @@ Item Name | Description
 *Extra inventory slots separate from Cubone's normal inventory.*
 Item Name | Description
 ------ | :----: 
-1. Empty | None
-2. Empty | None
+1. Mago Berry |  A moderately sweet flavor. The curvier it is, the better its taste becomes. (1 Sweet)
+2. Iapapa Berry | A moderately sour flavor. (1 Sour)
 
 ***
 
@@ -132,7 +132,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 RP Item | Kick-Me Sign | A slip of paper with a Hitmonlee rune, indicating the reader should kick at its' location, given to Cubone by Mohka. Cubone seems to think it's a heartfelt gift.
-Key Item | None | None
+RP Item | Leaf Backpack | A haphazard sack made with sturdy vines and leaves.
 
 ***
 

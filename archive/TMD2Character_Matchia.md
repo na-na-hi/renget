@@ -8,9 +8,9 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 9 | **Experience to Next Level:** 30/90
+**Level:** 9 | **Experience to Next Level:** 45/90
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 428 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 478 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

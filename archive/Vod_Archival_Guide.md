@@ -39,4 +39,3 @@ Content|Link|Description
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
 Email|[Link]()| Psobb1302@gmail.com
-Discord |[Link]()| Earthes1302

@@ -18,6 +18,8 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Abiyah](https://files.catbox.moe/9fvk8d.png)|
+[Planewalker](https://rentry.org/planewalker) | Misc |[Luca](https://files.catbox.moe/34gmon.png), [Sylas](https://files.catbox.moe/dkvv8u.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Hikari](https://litter.catbox.moe/vxa80c.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Catherine](https://files.catbox.moe/2yje7l.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Capucine](https://files.catbox.moe/vugats.png)|
@@ -28,12 +30,12 @@ Botmaker | Category | New Bots | Updated Bots
 [GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
 [Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
 [Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
-[Donquijanon](https://rentry.org/donquijanon) | Misc |[Mallory](https://files.catbox.moe/7bt5vv.png)|
+[Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
-[Planewalker](https://rentry.org/planewalker) | Misc ||
+[Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
 [Pashatehink](https://rentry.org/pashatehink) | Misc ||
@@ -41,11 +43,9 @@ Botmaker | Category | New Bots | Updated Bots
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
 [SmileyTatsu](https://rentry.org/SmileyTatsu) | Misc ||
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc ||
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
-[Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
