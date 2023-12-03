@@ -189,6 +189,7 @@ Sandatsu Build Update: https://desuarchive.org/tg/post/91030425/
 Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
 "Mammogar": https://desuarchive.org/tg/post/91051410/
 Sasha Azanami: https://desuarchive.org/tg/post/91080404/
+Reika Umi: https://desuarchive.org/tg/post/91119597/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -618,6 +619,7 @@ Sandatsu's Hidden Form: https://desuarchive.org/tg/post/91082759/
 Sandatsu: https://desuarchive.org/tg/post/91082769/
 sandatsu origin: https://desuarchive.org/tg/post/91092900/
 Stage team: https://desuarchive.org/tg/thread/91101836/#91107742
+Updated Clique Relationship Chart + Moodboard: https://desuarchive.org/tg/post/91118077/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -954,6 +956,8 @@ A poem for Orochi: https://desuarchive.org/tg/post/91100938/
 Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan): https://rentry.org/oyfco
 Steam: https://rentry.org/rya79
 Mirror's Mentor (Mirror Devil, Smokin' Sexy): https://rentry.org/qycta
+Updated Clique Relationship Chart + Moodboard: https://rentry.org/b6chp
+
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

@@ -210,7 +210,7 @@
 !!! info 2 Outfits!!
 !!! note Recommended weight: 0.75
 !!! info Example Prompt
-	(clauvio, long hair, grey hair, messy hair, blue eyes, mouse girl, mouse ears, sleep mask, mask on head, off shoulder, balck shirt, barefoot)
+	(clauvio, long hair, grey hair, messy hair, blue eyes, mouse girl, mouse ears, sleep mask, mask on head, off shoulder, black shirt, barefoot)
 -> [Catbox](https://files.catbox.moe/v3q9tr.safetensors) <-
 
 #### -> CookieswirlC <-
