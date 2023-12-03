@@ -577,7 +577,7 @@ One-time per battle skills can happen once in every battle.
 E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times. 
 
 >Daily and weekly missions
-Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5 AP? That's a steal. Doing the weekly commission is incredibly worth. 3 orange reports for 75 AP is decent, although I don't do it personally. 
+Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5 AP? That's a steal. Doing the weekly commission is kind of decent (3 orange reports for 75 AP), although I don't do it personally. 
  
 The weekly missions reset on Sunday (the reset from Sunday to Monday). 
 
@@ -601,7 +601,7 @@ The best time to start was yesterday, the second best time to start is right now
 If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
 
 >How grindy is BA? 
-It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just log in for 5-10 minutes do your dailies and log off. 
+It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just log in for 5-10 minutes, do your dailies, and log off. 
 From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. 
 
 You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on it. 

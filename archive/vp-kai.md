@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Dec.03 | [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)
 Nov.28 | [Cynthia ("Highschooler")](https://www.aisekai.ai/chat/65669193ad6b31d7de3b6a22)
 Nov.24 | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
 Nov.21 | [Olivia](https://www.aisekai.ai/chat/655d9941e746f0bb9d18c66b)
 Nov.19 | [Pheromosa (XXL Breasts)](https://www.aisekai.ai/chat/655ac2d2164b5ab264ab1872)
 Nov.16 | [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283)
 Nov.15 |  [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)
-Nov.14 | [Misty](https://www.aisekai.ai/chat/65542db14d516870520de592) \| [Elizabeth (OC)](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728) ![Elizabeth](https://files.catbox.moe/yle05c.png)
 !!! note
 ***
 Generation | Characters
@@ -30,3 +30,4 @@ Pokémon Infinite Fusion | [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?cha
 ![Elizabeth](https://files.catbox.moe/yle05c.png) | [Elizabeth](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728)
 Club frequented by Pokémon | [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62) \| [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283)
 SakuraFM bot ported and un-ESL'd | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
+Become a producer, or simply a Pokémon Idol fan | [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)

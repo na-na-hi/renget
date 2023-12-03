@@ -183,3 +183,8 @@ The first image of Tatsumaki is probably one of my favorite generations in as lo
 If you like thick bodies and milfs, this is probably your style, also holy fuck was it hard to get a non-lewd generation for Fubuki.
 [NSFW Generations](https://files.catbox.moe/ay2deg.png)
 ![moisture_(chichi)](https://files.catbox.moe/qrs85h.png)
+
+### [kame (kamepan44231)](https://danbooru.donmai.us/posts?tags=kame_(kamepan44231))
+You can generate fumos, you don't need more.
+Prompt for the fumos: =={{{kame (kamepan44231), no humans, chibi, jitome, fumo (doll)}}}, portrait==. I recommend the use of ==1girl, solo== for better results.
+![kame (kamepan44231)](https://files.catbox.moe/cwzebo.png)

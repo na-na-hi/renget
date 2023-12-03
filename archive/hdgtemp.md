@@ -14,7 +14,7 @@ NovelAI: https://rentry.org/hdg-nai-v3
 >RESOURCES
 Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 
-Models/LoRAs: https://civitai.com/ | https://rentry.org/5exa3 | https://gitgud.io/gayshit/makesomefuckingporn
+Models/LoRAs: https://civitai.com/ | https://gitgud.io/gayshit/makesomefuckingporn | https://rentry.org/5exa3
 Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https://rentry.org/59xed3
 
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups
@@ -23,8 +23,8 @@ LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://l
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 
+Boorus: https://aibooru.online | https://booru.plus/+hdg
 4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
-Booru: https://aibooru.online
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 

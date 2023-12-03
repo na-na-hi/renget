@@ -1,4 +1,5 @@
 # NovelAI Diffusion V3
+-> **https://novelai.net** <-
 
 **Table of Contents**
 [TOC1]
