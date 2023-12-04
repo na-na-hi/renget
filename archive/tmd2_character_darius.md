@@ -7,9 +7,9 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** No clue.
 **Species:** Larvitar | **Affiliation:** Team Ruckus
-**Level:** 8 | **Experience to Next Level:**70/90
+**Level:** 8 | **Experience to Next Level:**85/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1254₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1304₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

@@ -167,7 +167,7 @@ He's the younger brother of the Twins, known for his dimwittedness, poor aim, an
 #####Nickel's Gang
 Nickel (Roaming Gimmighoul):
 Bounty: 1,000 Poke
-Rank: D
+Rank: ~~D~~ C
 Wanted For: Conspiracy to commit assault, theft, and robbery
 Sex: N/A
 Ability: Run Away
@@ -179,19 +179,19 @@ He believes himself to be an intelligent puppetmaster, although that is far from
 
 His motive, above all else, is **greed.** He wants to become as rich as possible, and this avarice is only quadrupled whenever Gimmighoul Coins are involved. This defining character flaw of his often causes him to throw out sound logic and judgement whenever money is involved.
 
-He has left the Sand Continent for the Grass Continent, and is building up a gang there.
+He has left the Sand Continent for the Grass Continent, and is building up a gang there. His group is growing fast, and his robbery of Miss Tsareena has caused a few eyes to fall upon him.
 
 Moveset:
 Irrelevant.
 
 Cobalt (Clobbopus):
-Bounty: 300 Poke
-Rank: E
+Bounty: 500 Poke
+Rank: ~~E~~ D
 Wanted For: Theft, Assault
 Sex: Male
 Ability: Limber
 Location: Grass Continent
-He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive, but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on which wound up being a house bombing.
+He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on which wound up being a house bombing.
 
 
 Thicket (Floette):
@@ -216,7 +216,27 @@ Ability: Sand Rush
 Location: Grass Continent
 He started out as a customer of Thicket's, but when Team Corvidae crashed her business in an attempt to arrest Cobalt and Nickel, he stepped into action. He joined their gang after the fact, pledging to use his strength to act as a bodyguard. He's oddly polite for an outlaw and thief, having scolded Team Corvidae for "causing a fuss" with their antics.
 
+Ampere (Wattrel):
+Bounty: 300 Poke
+Rank: D
+Wanted For: Theft, Breaking and Entering, Assault
+Sex: Female
+Ability: Wind Power
+Location: Grass Continent
+Ampere is an easily excitable daredevil who joined Nickel's gang in order to go on high-stake robberies. She's rather fragile, but she can rain down electricity from the sky and can be rather creative when the mood strikes her.
 
+Shanks (Galar Slowbro):
+Bounty: 5,000 Poke
+Rank: S
+Wanted For: Theft, Assault, Breaking and Entering, Property Destruction, Murder, Littering
+Sex: Male
+Ability: Quick Draw
+Location: Grass Continent
+Shanks is an enigma. No one knows where he came from, but he's left behind a trail of crimes in his wake. He forced himself into Nickel's gang after admiring how violent they were. He's a highly eccentric individual, known for falling asleep and snacking at the most inopportune times. However, this and his goofy looks conceal a far more fierce, ruthless fighter. He speaks very little, and when he does, he usually says the bare minimum, rarely using any big words at all.
+
+In combat, he's a juggernaut that can take and dish out extreme amounts of damage, but in return, he's very slow on his feet. However, this doesn't mean he's helpless – his Ability, Quick Draw, allows him to move and fire his Shellder arm extremely quickly, far outpacing the rest of his body.
+
+The effect of this is most easily demonstrated in his debut in Interlude 5. He blocked a kick Tsareena made towards his front nearly instantly with his shell, but when she started side-stepping him in order to strike out of his guard, he had trouble with her and was forced to wait until she slipped up.
 
 #####Independent Outlaws:
 ~~"Iron Wing" (Hawlucha)~~:

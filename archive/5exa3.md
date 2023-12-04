@@ -18,6 +18,7 @@
 	- [Auto1111](https://github.com/Seshelle/CFG_Rescale_webui)
 	- [comfyui](https://github.com/comfyanonymous/ComfyUI_experiments)
 - Quality tags aren't trained but if you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
+	- If you use the LyCo it has quality tags
 
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) and just add it the way you add LoRA

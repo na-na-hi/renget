@@ -4,37 +4,37 @@ Street Hololive 6:
 
 ![Soon](https://files.catbox.moe/48je4t.jpg)
 
-Inugami "Paradise" Korone: Future EVO Japan SF6 winner and future global #1 JP player. Mains a Plat JP.
+Inugami "Paradise" Korone: Future EVO Japan SF6 winner and future global #1 JP player. Highest Current Rank on Street Fighter 6 (As of December 1 2023): Plat 1 JP
 https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q
-Shishiron "Eagle Eye" Botan: Lion who mains Marisa, currently playing Plat Blanks too.
+Shishiron "Eagle Eye" Botan: Lion who mains Marisa, currently playing Plat Blank and lily too. HC Rank: Plat 2 Lily 
 https://www.youtube.com/@ShishiroBotan
-Oozora "The Jaw" Subaru : Platinum Duck who mains Kimberly.
+Oozora "The Jaw" Subaru : Aiming for the title of strongest holo. HC Rank: Diamond 1 Kimberly. 
 https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA
-Himemori "Queen of Argies" Luna: Zero year old baby who mains Ryu.
+Himemori "Queen of Argies" Luna: Zero year old baby who mains Ryu. HCR: ???
 https://www.youtube.com/@himemoriluna
-Omaru "Plagacci" Polka: Clown who mains THE GIEF.
+Omaru "Plagacci" Polka: Clown who mains THE GIEF. HC Rank: Bronze 3 Zangief.
 https://www.youtube.com/@Omarupolka
-Usada " The Comedian" Pekora: /Numbers/' eternal champion who mains E.Honda
+Usada " The Comedian" Pekora: /Numbers/' eternal champion who mains E.Honda. HC Rank: Gold 1 E Honda
 https://www.youtube.com/@usadapekora
-Hakui  "The Ruler of Eden"  Koyori : HoloX coyote who go in the street train. Probably going Manon. 
+Hakui  "The Ruler of Eden"  Koyori : HoloX coyote who go in the street train. Probably going Manon but went with Monke.  HC Rank: Gold 1 Blanka. 
  https://www.youtube.com/watch?v=Pgjp0oGQRfg
-Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. Interested in Manon as well. 
+Shirogane "The Siren " Noel:  Just trying, no main yet. Flare will soon follow, probably. Interested in Manon as well. HC Rank: ???
 https://www.youtube.com/watch?v=MP0l2VXsq0k
-A.K.I "Nerf me pls" Rosenthal:  newbie choosing Aki to begin her journey.  
+A.K.I "Nerf me pls" Rosenthal:  newbie choosing Aki to begin her journey.  HC Rank: Iron 1 A.K.I
 https://www.youtube.com/watch?v=-XlEjQsSHhE
-Towa "twappers" "twappity" "tower of Babylon" "tortelini" "torment" "topaz" "twop" "Choppa" "Donto smoke": Maining lily.  
+Towa "twappers" "twappity" "tower of Babylon" "tortelini" "torment" "topaz" "twop" "Choppa" "Donto smoke": Twop. HC Rank: Silver 2 lily
 https://www.youtube.com/watch?v=qHOn2cNXQ0A
-Choco " THE MASTER  "  Sensei:  hololewd erolive going for Dhalsim
+Choco " THE MASTER  "  Sensei:  hololewd erolive going for Dhalsim: HCR: Rookie 2 Dhalsim
 https://www.youtube.com/live/zwn2qan7iQA
-Shion "Correction needed"  "MEsugaki": the OG brat going hard with cammy. 
+Shion "Correction needed"  "MEsugaki": the OG brat going hard with cammy. HC Rank: Gold 5 Cammy
 https://www.youtube.com/watch?v=HGC78j5h374
-Mel 'banpire" "Masters": OG Lewdtuber going with Ken who she calls dad.
+Mel 'banpire" "Masters": OG Lewdtuber going with Ken who she calls dad. HC Rank: Ken Silver 3
 https://www.youtube.com/watch?v=tzdylXxab4o
-Sora "Christmas miracle" : The first holo also tried her hand at fightan. 
+Sora "Christmas miracle" : The first holo also tried her hand at fightan.  HC Rank: Rookie 4 Chun li 
 https://www.youtube.com/live/cQPbBl-8WZ0
-Ririka "The bully"  "Gyaru|" : Regloss chuuba going juri which is oddly fitting for the theme of her branch gen. 
+Ririka "The bully"  "Gyaru" : Regloss chuuba going juri which is oddly fitting for the theme of her branch gen.  HCR: Bronze 4 Juri
 https://www.youtube.com/watch?v=BCnu64mKSjk
-Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. 
+Calliope  "Purple Drink" Mori: Needs no introduction - Probably the only true fighting EN. She plays mostly GGS. HCR: not even playing 
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 
 NijiEN:

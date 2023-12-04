@@ -57,6 +57,10 @@
 - Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
+### 🔗 [LightAudio](https://web.ligaudio.ru/) • Russian UI
+- Discover and access music from various sources to effortlessly download it in the highest quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/web.ligaudio.ru/)
+
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 - Superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available on leading file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/sittingonclouds.net/)
@@ -72,6 +76,10 @@
 &nbsp;
 
 # 📑 ➜ Browser Apps
+
+### 🌐 [320YTMp3](https://320ytmp3.info/)
+- Effortlessly download high-quality MP3 music from YouTube at maximum quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/320ytmp3.info/)
 
 ### 🌐 [BestMP3Converter](https://www.bestmp3converter.com/)
 - Enables you to obtain audio files from YouTube videos without charge in 320kbps quality.

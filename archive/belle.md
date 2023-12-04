@@ -16,5 +16,6 @@ chn48 bandori nugu ggs etc
  
 ``` python
 i really tweet about whatever :3
-may go ia often 
-```
+may go ia often
+``` 
+more stuff if u care [here](https://rentry.co/sulIi)

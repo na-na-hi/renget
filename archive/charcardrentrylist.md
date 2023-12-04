@@ -28,12 +28,12 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
-[Sull](https://rentry.org/p8kav)   | Mostly cunny |[Cherub](https://files.catbox.moe/msnzkw.png), [Abyzou](https://files.catbox.moe/th1ino.png)|
-[Luneose](https://rentry.org/luneose) | Misc |[Ava](https://files.catbox.moe/t1ugci.png)|
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Luneose](https://rentry.org/luneose) | Misc ||
+[Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||

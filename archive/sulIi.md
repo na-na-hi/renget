@@ -25,9 +25,13 @@ the internet deftones the smiths etc
 ```
 ***
 ``` python
-▹ pll sex ed 13rw the witcher moonknight
-bottoms twilight black swan thm spiderman
-harry potter dystopian trilogies & moree
-▹ one piece hxh kny death note madomagi
-banana fish yoi tawog adventure time etc
+▹ pll sex ed 13 rzns why dynasty the witcher 
+2gether rebelde moonknight the white lotus 
+bottoms twilight saga black swan mcu/dceu 
+harry potter dystopian trilogies handmaiden
+anything produced by c. nolan
+
+▹ one piece hxh kny death note madomagi bsd
+k-on tokyo ghoul banana fish yuri on ice
+tawog adventure time teen titans etc
 ```

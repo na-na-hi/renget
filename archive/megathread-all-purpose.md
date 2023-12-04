@@ -134,9 +134,9 @@
 - Great search engine for the present day that indexes all different kinds of files from the web.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentz2.nz/)
 
-### 🧲 [SolidTorrents](https://solidtorrents.to/)
+### 🧲 [SolidTorrents](https://solidtorrents.eu/)
 - DHT-based torrent search engine that strives to make discovering and downloading torrents simple for anybody.
-- [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.to/)
+- [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.eu/)
 
 &nbsp;
 
