@@ -30,8 +30,9 @@
 |
 **Learn**|
 [Andre Karpathy YT](https://www.youtube.com/@AndrejKarpathy/videos)|In-depth videos of LLM construction from one of OpenAI's founding members
+[LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
-[Math Intro to DL](https://arxiv.org/abs/2310.20360)|Textbook with focus on ANN and algorithms 
+[Math Intro to DL](https://arxiv.org/abs/2310.20360)|Textbook with focus on neural networks and algorithms 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
 [ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary

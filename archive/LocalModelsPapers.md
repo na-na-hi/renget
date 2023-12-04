@@ -46,6 +46,7 @@
 10/2023|[SpecTr: Fast Speculative Decoding via Optimal Transport](https://arxiv.org/abs/2310.15141)
 11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 11/2023|[Automatic Engineering of Long Prompts](https://arxiv.org/abs/2311.10117)
+12/2023|[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses](https://arxiv.org/abs/2312.00763)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -235,6 +236,7 @@
 11/2023|[Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919)
 11/2023|[UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599)
 11/2023|[YUAN 2.0: A Large Language Model with Localized Filtering-based Attention](https://arxiv.org/abs/2311.15786)
+12/2023|[Making Large Multimodal Models Understand Arbitrary Visual Prompts (ViP-LLaVA)](https://arxiv.org/abs/2312.00784)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -441,6 +443,7 @@
 11/2023|[LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning](https://arxiv.org/abs/2311.12023)
 11/2023|[Token Recycling for Efficient Sequential Inference with Vision Transformers](https://arxiv.org/abs/2311.15335)
 11/2023|[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442)
+12/2023|[GIFT: Generative Interpretable Fine-Tuning Transformers](https://arxiv.org/abs/2312.00700)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

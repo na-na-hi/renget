@@ -17,11 +17,11 @@ https://www.youtube.com/watch?v=KqDLrvrl_p0
 \>[New Character] Tsubame
 https://www.youtube.com/watch?v=LaTdRGL7NEk
 
+\>Mister Elegante Alonso
+https://www.youtube.com/watch?v=osn_6l3j9_k
+
 \>Prison Guard Abigail
 https://www.youtube.com/watch?v=if96JB1mnx8
-
-\>Archaeologist Arda
-https://www.youtube.com/watch?v=ji_JHrMTvDw
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4

@@ -200,6 +200,7 @@ https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-
 https://rentry.org/lora-training-science
 ###ComfyUI Workflows
 https://comfyworkflows.com
+https://comfy.icu
 ###AI Porn Guide
 https://gitgud.io/gayshit/makesomefuckingporn
 ###Block Merging

@@ -18,7 +18,9 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
-[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Abiyah](https://files.catbox.moe/9fvk8d.png)|
+[KnickKnack](https://rentry.org/knickknackkered) | Misc |[Marco](https://files.catbox.moe/iavqss.png)|[Apprentice Lyra](https://files.catbox.moe/mpunwd.png)
+[Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Abiyah](https://files.catbox.moe/gth8e5.png)|[Abiyah](https://files.catbox.moe/gth8e5.png) [MV]
+[Pashatehink](https://rentry.org/pashatehink) | Misc |[K-4T](https://files.catbox.moe/at68rt.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Luca](https://files.catbox.moe/34gmon.png), [Sylas](https://files.catbox.moe/dkvv8u.png)|
 [Genoo](https://rentry.org/295se) | Sizeplay |[Hikari](https://litter.catbox.moe/vxa80c.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Catherine](https://files.catbox.moe/2yje7l.png)|
@@ -38,7 +40,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Donquijanon](https://rentry.org/donquijanon) | Misc ||
 [Darkfantasy](https://rentry.org/Darkfantasy109) | Misc ||
 [Cuteanon](https://rentry.org/cuteanon) | Misc ||
-[Pashatehink](https://rentry.org/pashatehink) | Misc ||
 [Crustcrunch](https://rentry.org/crustcrunch) | Misc ||
 [JumboRanch](https://rentry.org/jumboranch) | Furry ||
 [Maestro](https://rentry.org/MaestroBots) | Misc ||
@@ -46,7 +47,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Hitogami](https://rentry.org/imtookening/) | Hags (Young) ||
 [Johncock](https://rentry.org/Johncock) | Misc ||
 [Muricanpie](https://rentry.co/mpcs) | Misc ||
-[KnickKnack](https://rentry.org/knickknackkered) | Misc ||
 [Tipzanon](https://rentry.co/tipzanon) | Misc ||
 [KingValntula](https://rentry.org/Kingvalntula) | Furry ||
 [CptPants](https://rentry.org/CptPants) | Misc ||

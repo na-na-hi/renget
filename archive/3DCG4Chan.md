@@ -20,7 +20,7 @@ Search " 3d custom girl " on https://sukebei.nyaa.si or https://nyaa.si or just 
 
 Mods go in the "arcs" folder inside the TDCG game folder. Saves go inside /Documents/TechArts3D/TDCG/. Poses go inside /TDCG/pose/.
 When installing mods, it's a good idea to only install one or only a few at a time, and then test.
-That makes it easier to remove mods that you don't want (or cause crashes) without having to guess which mod out of a hendred you just installed is the culprit.
+That makes it easier to remove mods that you don't want (or cause crashes) without having to guess which mod out of a hundred you just installed is the culprit.
 
 If you are looking for a mod, read these first:
 [[3dcg.info.tm/wiki/3DCG_Mods_Reference_Site]](https://web.archive.org/web/20161208221637/http://3dcg.info.tm/wiki/3DCG_Mods_Reference_Site)

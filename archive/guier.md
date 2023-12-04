@@ -228,7 +228,7 @@ Telemetry Overview | https://support.robertsspaceindustries.com/hc/en-us/article
 !!! info FYI "Pledges" refer to everything bought on the website: ships, paints, FPS gear, merchandise, etc.
 >**[What is a Warbond Pledge?](https://rentry.org/guier/#what-is-a-warbond-pledge)**
 >**[Exchange and Buy Ships for Store Credit](https://rentry.org/guier/#exchanging-and-buy-ships-for-store-credit)**
->**[Buy Back Pledges(WIP)](https://rentry.org/guier/#buy-back-pledgeswip)**
+>**[Buying Back Pledges(WIP)](https://rentry.org/guier/#buying-back-pledgeswip)**
 >**[Can I Gift Pledges?(WIP)](https://rentry.org/guier/#can-i-gift-pledgeswip)**
 >**[What are CCU's?(WIP)](https://rentry.org/guier/#what-are-ccuswip)**
 >**[Ship Insurance and Pledge FPS Weapon/Armor](https://rentry.org/guier/#ship-insurance-and-pledge-fps-weaponarmor)**
@@ -236,7 +236,7 @@ Telemetry Overview | https://support.robertsspaceindustries.com/hc/en-us/article
 ***
 ###->What is a Warbond Pledge?<-
 
-**->[Official Warbond FAQ](https://support.robertsspaceindustries.com/hc/en-us/articles/360043504053-What-is-a-Warbond-Pledge)<-**
+**->[Official Warbond Overview](https://support.robertsspaceindustries.com/hc/en-us/articles/360043504053-What-is-a-Warbond-Pledge)<-**
 
 Warbond pledges are special promotions usually held during a new concept ship or vehicle sale. They offer a slightly cheaper option for the concept pledge along with LTI insurance. **Warbond pledges can only be bought with new money, no store credit.** You can gift pledges bought with store credit (with a few eceptions).
 
@@ -244,39 +244,38 @@ Warbond pledges are special promotions usually held during a new concept ship or
 
 ###->Exchange and Buy Ships for Store Credit<-
 
-->[**Official Ship Store Credit FAQ**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013173287-Spend-Store-Credit)<-
+->[**Official Ship Store Credit Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013173287-Spend-Store-Credit)<-
 
 !!! danger You cannot gift pledges purchased with any store credit, nor use store credit on physical merchandise.
-
-You can exchange bought pledges on the website for **store credit** based on their purchased value in USD, also known as "melting," which you can then freely use on the store page on any other pledge **that is not warbond.** 
-
->Melted pledges will be placed into your "**buybacks**", located on the "**My Hangar**" tab on your account.
+!!! warning Melting ships that have been upgraded through the CCU chain will only place the initial pledge into buybacks and not the upgrades.
+!!! info You will not be charged tax when using store credit to buy pledges.
+This system works similar to what Steam has. You can exchange pledges on the website for **store credit** based on their purchased value in USD, also known as "melting," which you can then freely use the credit on the store page on any other pledge (that is not warbond). Melted pledges will be placed into your "**buybacks**", located on the "**My Hangar**" tab on your account. 
 
 ->![Exchanging Pledge](https://files.catbox.moe/84uvdp.png)<-
 
 Your store credit is displayed on your account overview on the top right of the RSI website. ![Store Credit](https://files.catbox.moe/tc21j5.png)
-!!! info You will not be charged tax when using store credit to buy pledges.
+
 When you want to use your store credit to purchase a pledge, it's as simple as going through the same process of adding it to the shopping cart, and on the right under "Cart Summary," you have the option of adding store credit to the amount that the pledge is worth in USD. 
 
 >You can also use new money alongside store credit to make up any differences.
 
-->![Using store credit on a pledge](https://files.catbox.moe/bxp34v.png)<-
 
-###->Buy Back Pledges(WIP)<-
-!!! danger WIP
+->![Using store credit on a pledge](https://files.catbox.moe/bxp34v.png)<-
+###->Buying Back Pledges(WIP)<-
+->[**Official Pledge BuyBack Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013195207-Pledge-Buy-Back-tool)<-
 
 ###->Can I Gift Pledges?(WIP)<-
 !!! danger WIP
-->[**Official Gifting FAQ**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs)<-
+->[**Official Gifting Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs)<-
 
 ###->What are CCU's?(WIP)<-
 !!! danger WIP
-->[**Official CCU FAQ**](https://support.robertsspaceindustries.com/hc/en-us/articles/115010056848-Ship-Upgrades-CCUs-)<-
+->[**Official CCU Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115010056848-Ship-Upgrades-CCUs-)<-
 
 
 ####->Ship Insurance and Pledge FPS Weapon/Armor<-
 
-->[**Official Ship Insurance FAQ**](https://support.robertsspaceindustries.com/hc/en-us/articles/360000093467-Ship-Insurance-FAQs)<-
+->[**Official Ship Insurance Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/360000093467-Ship-Insurance-FAQs)<-
 
 You would have noticed that ships and ground vehicles on the pledge store all come with "insurance". Since we are only concerned with what that means for you in the game right now, to put it bluntly, **insurance does not matter, and wont until an actual "live" release of the game.**
 
@@ -393,6 +392,9 @@ In your report, it is also recommended to have video recordings (preferably) or 
 **[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)**
 ###->Which Starter Pack Should I Choose?<-
 ***
+!!!info There are more, expensive ships sold as game packages, but I don't recommend them as potential purchase options with real money.
+
+->**https://robertsspaceindustries.com/store/pledge/browse/game-packages/**<-
 
 When deciding on buying a game pack, you should take into consideration:
 >How much you are willing to spend? 
@@ -400,7 +402,7 @@ When deciding on buying a game pack, you should take into consideration:
 >Does the starter ship you might pick accommodate the gameplay loops you are interested in?
 Or, just get what you think looks cool; that simple.
 
-->**Each starter pack will include**<-
+**Each starter pack will include:**
 
 ->![starter pack](https://files.catbox.moe/3wlklo.png)<-
 
@@ -411,13 +413,9 @@ Or, just get what you think looks cool; that simple.
 - [X] **Star Citizen Digital Download** - Game access to the Persistent Universe. SQ42 does not come with starter packs and is not available to be purchased separately at the moment.
 
 - [X] **Starting Money** - Self explanatory. 
-!!! note Reminder that you can rent and buy ships in-game, and you don't need more than the minimum $45 pack to do so.
 
 !!! note Freefly events come with a discount on starter packs
 
-There are more, expensive ships sold as game packages, but I don't recommend them as potential purchase options with real money.
-
-https://robertsspaceindustries.com/store/pledge/browse/game-packages/
 $45 Starter Packs: | Breakdown: 
 ----- | ----
 ![Aurora MR](https://files.catbox.moe/uloecp.png)  | The Aurora is really showing its age, but still remains comfy. ->->**In-game Price = 184,900 aUEC** ->->**Pros:** ->-> >It has room for 2 more weapons when you can afford them. ->-> >It's tiny, walkable interior, while not amazing, will allow you to do entry level box delivery missions. ->-> >Slightly faster max speed compared to the Mustang. ->-> >A bed that allows you to log out in the ship, and return later where you left off. ->->**Cons:**->-> >Weakest total DPS. ->-> >3SCU. ->-> >Doesn't handle well in atmosphere.->->**Thoughts:**->-> The Aurora will always have a soft spot in many backers hearts, but its in desperate need of a rework.
@@ -428,7 +426,7 @@ $45 Starter Packs: | Breakdown:
 $60+ Starter Packs: | Breakdown: 
 ----- | ----
 ![Pisces C8X](https://files.catbox.moe/91tpeq.png) | I don't really know how I feel about the Carrack's snub being sold as a starter ship. ->->**In-game Price = 406,000 aUEC** ->->**Pros:**->-> >More spacious interior compared to the previous 2 ships.->-> >2 extra seats for anyone who wants to tag along. ->->  >Comes stock with weapons on all its hardpoints, unlike the Mustang/Aurora. ->-> >Has the standard 4 SCU of cargo. ->-> >Massive hydrogen fuel tank and efficiency. ->->**Cons:** ->-> >No bed. ->-> >Weak shielding. ->-> >The worst total health pool on this list. ->-> >Maneuverability and DPS sits in-between the Aurora/Mustang, not terrible, not great. ->-> **Thoughts:** ->->I would not recommend you use the Pisces for any sort of combat, only cargo hauling or just general traversal.
-![Cutter](https://files.catbox.moe/sbomw2.png) | The Cutter is a very solid starter ship, definitely one to heavily consider. ->->**In-game Price = 675,000 aUEC** ->->**Pros:**->-> >Comfy interior. ->-> >A bed, along with other smaller amenities. ->-> >Standard 4 SCU of cargo. ->-> >Can fit a small vehicle like the [STV](https://starcitizen.tools/STV)->-> >Room to upgrade DPS by replacing the stock loadout with weapon size increases. ->-> >Second largest quantum and hydrogen fuel capacity on this list. ->-> >Largest total health pool out of any ship listed here. ->-> **Cons:** ->-> >Shielding is the same as the Pisces, bad. ->-> >Terrible maneuverability. ->-> **Thoughts:** ->-> You cant go wrong with this ship. The Cutter is probably one of the best looking in this list imo, more so than it being a fighter at least.
+![Cutter](https://files.catbox.moe/sbomw2.png) | The Cutter is a very solid starter ship, definitely one to heavily consider. ->->**In-game Price = 675,000 aUEC** ->->**Pros:**->-> >Comfy interior. ->-> >A bed, along with other smaller amenities. ->-> >Standard 4 SCU of cargo. ->-> >Can fit a small vehicle like the [STV](https://starcitizen.tools/STV)->-> >Room to upgrade DPS by replacing the stock loadout with weapon size increases. ->-> >Second largest quantum and hydrogen fuel capacity on this list. ->-> >Largest total health pool out of any ship listed here. ->-> **Cons:** ->-> >Shielding is the same as the Pisces, bad. ->-> >Terrible maneuverability. ->-> **Thoughts:** ->-> You cant go wrong with this as a starter ship.
 ![100i](https://files.catbox.moe/4ggkyo.png) | If the Cutter wasn't much of a looker, then maybe the 100i might interest you.  ->->**In-game Price = 654,000 aUEC** ->-> **Pros:** ->-> >Stylish ->-> >Fantastic cockpit view on par with the Mustang. ->->>Decent DPS if you upgrade up a size on its stock weapons. ->-> >Extremely efficient hydrogen fuel scoop. ->-> >Good maneuverability. ->-> >Has a bed. ->-> **Cons:** ->-> >Very small hydrogen fuel tank. ->-> >Only 2SCU, worst by far. ->-> >Slowest max speed on this list. ->-> >Weak shields. ->-> >Health pool on par with the Aurora. ->-> **Thoughts:** ->-> I don't have much to say for Origin ships, but this one is on my radar as a comfy daily driver.
 ![Avenger Titan](https://files.catbox.moe/thk0c2.png) | Another great starting ship to compete with the Cutter, but only if you decide the extra $$ is justified.->->**In-game Price = 785,600 aUEC**  ->-> **Pros:** ->-> >8 SCU of cargo. ->-> >Best DPS output of all the single seater ships listed here. ->-> >Decent interior with a bed. ->-> >Tanky ->->**Cons:** ->-> >Maneuverability is bad, almost on par with the Cutter->-> >Can only fit the ground buggy in its interior cargo bay ->-> **Thoughts:** ->-> If I had to choose a starter all over again, it would be the Avenger Titan. It's a great step up from the Mustang regarding cargo and ship combat capabilities.
 ![Gatac Syulen](https://files.catbox.moe/rbrl5c.png) | The first and honestly the best looking alien starter ship in the game. ->->**In-game Price = N/A yet**  ->-> **Pros:** ->-> >Very unique looking design. ->-> >Fantastic interior and exterior animations. ->-> >Comfortable living quarters, along with a suit locker and weapon rack. ->-> >6 SCU ->-> >The largest quantum and hydrogen fuel capacity in this list. ->-> >Solid firepower, with 3 s3 hardpoints ->-> >Sound design is great. ->-> **Cons:** ->-> >Quite large for a starter ship. ->-> **Neutral:** ->-> >Has to take-off and land like a rocket. Currently the only ship in game to be designed like this. ->-> **Thoughts:** ->-> This is the best looking ship on this list imo by far. It's massive fuel tanks make it great to explore the entire Stanton system right off the bat.

@@ -1,4 +1,4 @@
-MMD Rentry Pastebin V1.009 - 2023
+MMD Rentry Pastebin V1.010 - 2023
 ####-> About MMD <-
 MMD (MikuMikuDance) is a 3D animation software. It uses a system of bones and keyframes to create animation. It runs on DirectX 9, and uses Bullet physics.
 MME (MikuMikuEffects) is a plugin for MMD. It can load FX files onto models, which add effects to it.
@@ -105,6 +105,7 @@ The license key can be found all over the internet.
 [[MQO]](https://github.com/nutti/blender-mqo)
 [[SFM]](https://github.com/REDxEYE/SourceIO)
 [[XPS]](https://github.com/johnzero7/XNALaraMesh)
+[[IBP]](https://pastebin.com/whGY9rfS) : Inverse Bone Poser 0.2 [[ReadMe]](https://archived.moe/e/thread/2817756/#2821139)
 
 **Other Conversion Tools**
 [[How to use the Unity-MMD Converter]](https://forum.ripper.store/topic/11201/booth-model-to-mmd/2)

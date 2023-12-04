@@ -18,10 +18,10 @@ TO-DO LIST: Katya gens for pitanon (<3) every weekend.
 [TOC]
 
 #Latest bot
-##Haruko
-->![Who said that? Who the fuck said that?! (c)](https://files.catbox.moe/z6z94c.png)<-
-Haruko, an ex-military coach for the Indiana Koi, nicknamed "Drill Sergeant" by volleyball fans for her methods of coaching and short temper on the court.
-CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
+##K-4T
+->![This android rises...](https://files.catbox.moe/at68rt.png)<-
+K-4T — a state-of-art android enforcer with an extremely short trigger whose razor-sharp tongue is filtered through the "PG-13 muzzle" to be safe and harmless at all times. Lisette Enterprise warns: taking the mask off is highly discouraged and may be deadly.
+CHUB link: https://www.chub.ai/characters/pashatehink/k-4t-a9a02660
 
 ***
 
@@ -169,5 +169,10 @@ CHUB link: https://chub.ai/characters/pashatehink/verr-kori-81d4048c
 ->![Mundo say greed is good!](https://files.catbox.moe/pqipvs.png)<-
 Welcome to Mundo's business conference. Do not confuse with summit, expo, or tradeshow. Created on 9th of November.
 CHUB link: https://chub.ai/characters/pashatehink/corporate-mundo-e2a4e940
+
+##Haruko
+->![Who said that? Who the fuck said that?! (c)](https://files.catbox.moe/z6z94c.png)<-
+Haruko, an ex-military coach for the Indiana Koi, nicknamed "Drill Sergeant" by volleyball fans for her methods of coaching and short temper on the court.
+CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

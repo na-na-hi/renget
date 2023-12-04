@@ -1013,7 +1013,6 @@ https://files.catbox.moe/l8ki1o.safetensors
 	- Shion Yorigami (Touhou)
 	- Shinobu Oshino (Monogatari Series)
 	- Prushka (Made in Abyss)
-	- Nanachi (Made in Abyss)
 	- Cerberus (Kemono Friends)
 	- Sukuna Shinmyoumaru (Touhou)
 	- Seija Kijin (Touhou)

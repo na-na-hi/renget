@@ -600,3 +600,26 @@ files.catbox.moe/skwk6k.mp4
 files.catbox.moe/10to0t.mp4
 >idf getting ambushed by sniper and machine gun fire  (ADDED NOV 27th)
 https://files.catbox.moe/aidn2k.mp4
+
+
+
+
+
+>HOUTHIS TAKING SHIP WITH HELO
+https://files.catbox.moe/ngv681.mp4 (embed)
+>NEW HAMAS KINO
+https://files.catbox.moe/nyx2gr.MP4 (embed)
+>War Crimes Of Idf
+https://files.catbox.moe/owetfy.mp4 (embed) New
+>Ceasefire Hostage Exchange
+https://files.catbox.moe/5pki0k.MP4 (embed) 7th
+>Crowds Cheering For The Resistance
+https://files.catbox.moe/17edvo.mp4 (embed)
+>KIKES FIRE ON REFUGEES WALKING SOUTH
+https://files.catbox.moe/1zs5vi.mp4 (embed)
+>KIKE THROWS GRENADE INTO MOSQUE
+https://files.catbox.moe/kqssyj.mp4 (embed)
+>SCHOOL BOMBING AFTERMATH
+files.catbox.moe/8yvbfa.mp4 (embed)
+>OCT 7 KIKES FRIENDLY FIRE ON THEIR OWN CITIZENS
+files.catbox.moe/skwk6k.mp4 (embed)
