@@ -31,7 +31,7 @@ Tybo | M | Skitty | N/A | Clover Guild Native Member |  [Greedy](https://rentry.
 N/A | M | Togetic | Dewott (M, Human, Former Partner) | Clover Guild "Secret" Quartermaster | [Timid](https://rentry.org/vpmdcloverpb#togetic)
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | A-Vulpix | Sandshrew (Cassie, F, Native) & Fletchling (Bean, M, Human) | Clover Guild Native Member/Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
-Smith | M | Skourpi | Furret (F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
+Smith | M | Skorupi  | Furret (F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
 Bill | M | Growlithe | Hisuian Growlithe (Gill, M, Human) | Clover Guild Counselor | [???](https://rentry.org/vpmdcloverpb#gillbill)
 N/A | F | Pikachu | Ampharos (M, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Bounty Hunter |[Docile](https://rentry.org/vpmdcloverpb#clarasmoke)
@@ -290,7 +290,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Sableye's History](https://rentry.org/zyw8t)
 * Sentret the Sentret
 	* [SENTRET: Sentret the Sentret (Sentret, Sentret) (ft. Sentret)](https://pastebin.com/C7G3EsBs)
-* Smith the Skorupi
+* Smith the Skorupi 
 	* [Wanderer (ft. Smith)](https://rentry.org/cxhk8)
     * [Smith's Personality Blurb](https://rentry.org/hap2d)
 	* [Tales of the Grind pt. 1 (ft. Smith)](https://rentry.org/34ww5)

@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Another shot down German Leopard 2A4 with a "Kontakt-1" armor on the Zaporozhye direction
+https://files.catbox.moe/pc7lpv.mp4
 >Hohols getting droned (NOT COMFY)
 https://files.catbox.moe/qpjsdt.mp4
 >The larp continues

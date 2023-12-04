@@ -230,7 +230,7 @@ Blackout: https://rentry.co/9ev7t
 Mahoudeva: https://rentry.co/dbitv
 Archangel: https://rentry.org/hgkmz
 Maru: https://controlc.com/6c88b849
-Spherethirst's Builds: https://controlc.com/843ce0cc / https://controlc.com/132d927a
+Spherethirst's Builds: https://controlc.com/843ce0cc / https://controlc.com/132d927a / https://rentry.org/b6chp
 King Billy: https://pastebin.com/6WZTEra0
 Aspara: https://controlc.com/905a656c
 Mirror Devil: https://rentry.org/ivm3c

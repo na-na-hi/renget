@@ -60,6 +60,9 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Bombardments, Past infrastructure removals and supply restrictions now giving Gazans a water crisis
+* New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
+* Chicago police report a 11,000% increase in arrests since 2021 of Venezuelan migrants (2,500% increase since 2022)
 * Jewish campus org, Hillel paid people to place 'I love Hamas' stickers all over University of British Colombia
 * Before becoming the Unabomber, Ted K. went through CIA funded MK-Ultra program during university years
 * Henry Kissinger, now dead at 100, predicted to take upper management position in hell
@@ -70,12 +73,12 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
 * UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
 * Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks
-* Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
-* Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
-* Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast
 
 ####General Ideas
 
+* Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
+* Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
+* Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast
 * Snoop Dogg announces he’s giving up Weed for Health reasons
 * Apple, Disney, Lionsgate, IBM and Comcast pull all advertising from Xitter after reports of antisemitic content
 * ex-CIA agent of 25 years says Reptilians walk amongst us and hold positions of power
