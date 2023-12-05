@@ -1099,7 +1099,7 @@
 !!! info V1 has Base outfit + Swimsuit look while V2 has the new goddess moth look. You might need to look in the lora's metadata or something to figure out the swimsuit tags though..
 !!! note Recommended weight: V1: 0.7 | V2: 0.55
 !!! info Example Prompt
-	V1 (Base): (yuzudef, long hair, blonde hair, antennae, hair ribbon, yellow eyes, moth girl, arthropod girl, bare shoulders, fur trim, japanese clothes, cleavage, orange dress, long sleeves, wide sleeves, black skirt, black thighhighs, large breasts) 
+	V1 (Base): (yuzudef, long hair, blonde hair, antennae, hair ribbon, yellow eyes, moth girl, arthropod girl, bare shoulders, fur trim, japanese clothes, cleavage, orange dress, long sleeves, wide sleeves, black skirt, black thighhighs) 
 	V2: (sanagiyuzu, short hair, blonde hair, antennae, yellow eyes, moth girl, detached collar, bare shoulders, white dress, detached sleeves, wide sleeves, pelvic curtain, black footwear)
 ##### -> V1 <-
 -> [Civitai](https://civitai.com/models/203710/sanagi-yuzu-vtuber-lora) <-

@@ -49,6 +49,8 @@
 |12/09/2023|[Timestamp](https://youtu.be/aoa6BFc8wMU?t=5246)| **Totsu call-in** - Call-in during the totsumachi portion of Calliope's 3rd Year Anniversary|
 |2023-10-07|[Timestamp](https://www.youtube.com/watch?v=DJfTr9BsO2Y&t=12454s)| **VC** - Nerissa joins Calliope's open VC during a Suika stream along with Shiori.|
 |2023-10-10|[Timestamp](https://www.youtube.com/watch?v=YKIZnQZTetM&t=13560s)| **VC** - Nerissa joins Calliope's open VC Minecraft stream for a brief 3 minutes until the stream ends, promises Calliope to visit her in Minecraft at later date for a longer period.|
+|2023-11-?| TODO | **Collab** - Monopoly collab|
+|2023-12-13|[Timestamp](https://www.youtube.com/watch?v=fXaQoiNoI1g&t=721s)| **Impromptu collab** - Nerissa joins Calliope's open VC Stardew Valley stream for near it's beginning and ends up playing for the entire remaining duration of the stream (almost five hours). At first Shiori is also present and stays for a while, then retired for the night. Then, after some time a sick Bijou joins and also stays with Nerissa and Calliope until the end of the stream.|
 
 ###### 🐙 Ina
 |Date|Link|Nature & Notes|
@@ -173,7 +175,7 @@
 ###### 🌂🕸 Meloco Kyoran 
 |Date|Link|Nature & Notes|
 |---|---|---|
-|2023-10-28|[Link](https://www.youtube.com/watch?v=Br0VLrl-IWM&t=9950s) | **Birthday totsu call-in** - Nerissa calls in to congratulate Meloco Kyoran on her birthday.|
+|2023-10-28|[Timestamp](https://www.youtube.com/watch?v=Br0VLrl-IWM&t=9950s) | **Birthday totsu call-in** - Nerissa calls in to congratulate Meloco Kyoran on her birthday.|
 
 
 ->[Go back to the TOC](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)->

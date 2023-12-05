@@ -88,6 +88,10 @@ Nobiko Midorima "Synthesis": https://desuarchive.org/tg/post/90992108/
 Nekiro Nishi: https://desuarchive.org/tg/post/90997317/
 Katsumi Hachizaki: https://rentry.org/HeartMHA
 
+>>Class 1-C
+Isabella Nesis: https://desuarchive.org/tg/post/91129775/
+Okimoto Chisaka: https://desuarchive.org/tg/post/91130422/
+
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
@@ -957,7 +961,10 @@ Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan): https://
 Steam: https://rentry.org/rya79
 Mirror's Mentor (Mirror Devil, Smokin' Sexy): https://rentry.org/qycta
 Updated Clique Relationship Chart + Moodboard: https://rentry.org/b6chp
-
+Sticky Situation 2 (Umi, Yamata): https://rentry.org/2qnet
+The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose): https://rentry.org/the-world-is-yours
+Isekai 3.0?: https://rentry.org/zuq78
+1-C Seating Chart and Writefag: https://desuarchive.org/tg/thread/91122683/#91130426
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

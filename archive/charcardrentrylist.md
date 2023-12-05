@@ -27,13 +27,13 @@ Botmaker | Category | New Bots | Updated Bots
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Capucine](https://files.catbox.moe/vugats.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Emmeline](https://files.catbox.moe/msfdt4.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png)|
-[Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
-[Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[Argalia](https://rentry.org/gayanon) | Malebots ||
+[Crikey](https://rentry.org/crikeyscorner) | Misc ||
 [GGR89](https://rentry.org/ggr89) | Misc ||
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||

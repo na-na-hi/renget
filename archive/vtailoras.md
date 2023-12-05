@@ -633,7 +633,7 @@
 !!! info Four Outfits!! and You can add (skin fang, fang) if you care
 !!! note Recommended weight: 0.65
 !!! info Example Prompt
-	(short hair, blue hair, hair ornament, hair behind ear, purple eyes, grey hoodie, white jacket, long sleeves, armband, school uniform, black skirt, (miniskirt:1.4), white pleated skirt, mole on thigh, black socks, white footwear, medium breasts)
+	(short hair, blue hair, hair ornament, hair behind ear, purple eyes, grey hoodie, white jacket, long sleeves, armband, school uniform, black skirt, (miniskirt:1.4), white pleated skirt, mole on thigh, black socks, white footwear)
 -> [Civitai](https://civitai.com/models/21944/nishizono-chigusa-nijisanji) <-
 
 #### -> (Niji-IN/EN) Noor <-
@@ -1536,7 +1536,7 @@
 #### -> (Crosspiece) Shisui Kiki <-
 !!! note Recommended weight: 1
 !!! info Example Prompt
-	(shisuikiki, long hair, purple hair, white streaked hair, side ponytail, ahoge, hair ornament, red eyes, detached collar, black sleeveless dress, short dress, detached sleeves, long sleeves, frills, purple bow, yellow belt, purple skirt, thigh strap, black footwear, small breasts)
+	(shisuikiki, long hair, purple hair, white streaked hair, side ponytail, ahoge, hair ornament, red eyes, detached collar, black sleeveless dress, short dress, detached sleeves, long sleeves, frills, purple bow, yellow belt, purple skirt, thigh strap, black footwear)
 -> [Civitai](https://civitai.com/models/105773/shisui-kiki) <-
 
 #### -> (HoneyStrap) Sougetsu Eli <-

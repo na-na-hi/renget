@@ -1,5 +1,5 @@
 ## Towabaker's Bakery
-Ecchi warning for the card images in this rentry, browse in public at your own risk. All bots are standard tavern cards. Treat all bots as templates for your own tuning, rather than perfectly polished representations of a given character. I recommend removing the jailbreak at the start of the custom JB cards if you have your own Jailbreak active.
+NSFW warning for the card images in this rentry, browse in public at your own risk. All images are standard tavern cards. Treat all cards as templates for your own tuning, rather than perfectly polished representations of a given character. I recommend removing the jailbreak at the start of the 'custom JB' cards if you have your own Jailbreak active.
 
 *UPDATE 6/2023 - Most of these cards (up to Suisei in the holo section, the other sections are mixes) are optimized for pyg rather than other backends. They work well with 3.5 but if you want to save on tokens consider deleting some example chats and making the descriptions richer instead.*
 

@@ -134,7 +134,9 @@ Read the top right on the first sheet for instruction.
 >I want both banner units, what should I do? 
 If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
 
-## Banner Guide 
+## Banner Guide
+Global follows the JP schedule reasonably tight, see [the banner list for all the upcoming banners](https://bluearchive.wiki/wiki/Banner_List).
+
 [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [image version (slightly outdated)](https://i.imgur.com/x9zZMMW.jpg) 
 [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
 [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
@@ -277,9 +279,9 @@ If you think she's cute it's also cool to redeem.
 Your daily mats farm. 
 
 School > Damage type (red) > Environment mood 
-The bonuses are team-wide, so make sure to bring an actual good (ST) DPS for the rangers. E.g. Aru and Azusa. 
+The bonuses are team-wide, so make sure to bring a good (ST) DPS for the rangers. E.g. Aru and Azusa. 
 Blue units work too. 
-The black ranger's special skill makes the target receive extra damage, so you could try to cleanse it with someone like Mari. 
+The black ranger's special skill makes the target receive 50% extra damage, so you could try to cleanse it with someone like Mari. 
 
 With a well timed CC you can cancel the rangers' special ability, so if you start to get melted make sure to use ur CC abilities to cancel their skills!
 ![CC in BA](https://i.imgur.com/dRYPRoE.png)
@@ -311,13 +313,13 @@ Any DPS you'd use for (urban) Shiro & Kuro works here. Think about Izuna, Haruna
 ## Scrimmages
 The place you get mats to upgrade ur Exclusive Weapon (EW)/Unique Equipment (UE).
 If you're not sure how to tackle it look at a youtube video. A common tactic uses Serina EX to reposition Tsubaki into their team, preventing most aoe from hitting your backline. 
-Not worth farming until you clear at the very least B. When you hit ultra lategame you can start skipping out on them, but once you start hitting 5\*s on your students they become really annoying so don't neglect scrims too much. 
+Not worth farming until you clear at the very least B, and even then only once you start hitting 5\*s on your students. When you hit ultra lategame you can start skipping out on them, but don't neglect it too much. 
 
 Feel free to skip during farmable events. 
 With the small monthly you reduce the AP cost per ticket by 5, and with the big monthly you reduce it by 10. Buying both means that scrims become free to do.  
 
 ## Total Assault (Raid)
-Welcome to the endgame content of BA, the biweekly PREMIER source of BDs, technotes, and elephs.
+Welcome to the endgame content of BA, the biweekly *PREMIER* source of BDs, technotes, and elephs.
 The first thing you want to do is join a club. The second thing is borrowing the strongest unit for the raid. Congrats you just beat the raid.
 
 Read up on what the boss does and how to tackle it with [the raid guide.](https://docs.google.com/document/u/0/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0)
@@ -330,6 +332,7 @@ If you're a pro raid gamer, it's good practice to set a time you'll stop resetti
 
 If you need to change formation in the middle of ur raid battle, you can close the app/quit the game and start Blue Archive again. This way you won't lose ur ticket, your attempt will stay active, AND you get to change ur team/positioning/starting EX skills. 
 This works in mock battles and actual runs. 
+In JP there is a button for this. 
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 
@@ -351,17 +354,17 @@ If you don't know what to do against a gimmick, look at a few videos. If it's on
 You can borrow students for this challenge, so being in a club is very helpful if you want to get a good score.
 There are no rankings (like raids), and higher scores simply give you more coins/credits per clear.
 
-The tickets for Joint Firing Drill work differently than the ones for raids. Unlike with raids, you will not waste a ticket by retreating in battle. You'll only waste it if you give up entirely (in the stage menu) or the sixty minute timer on the ticket runs out.
+The tickets for Joint Firing Drill (JFD) work differently than the ones for raids. Unlike with raids, you will not waste a ticket by retreating in battle. You'll only waste the ticket if you give up entirely (in the stage menu) or the sixty minute timer on the ticket runs out.
 Once you have used up an entire ticket (3 clears), you are able to sweep your remaining tickets.
 
-It's not worth it to hyperinvest into someone for just the exercise. Just take the L, do a lower difficulty, and move on.
+It's not worth it to hyperinvest into someone for only the JFD. Just take the L, do a lower difficulty, and move on.
 
 If you're feeling lazy you can auto stage 1/2/3. 
 
 Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy.
 
 ## Tactical Challenge (PvP)
-!!!warning VERY FRUSTRATING GAMEMODE, BE AWARE 
+!!!warning VERY FRUSTRATING GAMEMODE, BEWARE 
 
 The goal of PvP is to match your attack type with the enemy's armour type, while mismatching their attack type with your armour type. 
 Use [the following tierlist](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#) to build your team around. 
@@ -382,25 +385,26 @@ Buying the activity reports with credits is kind of bad (as in really bad), so d
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
 Otherwise bring Serina to 2\*. After that? You post your roster in the /bag/ general and ask for help. It's faster that way. 
-Don't use ur elephs for farmable characters if you can, they're quite literally farmable.
+Don't use ur elephs for [farmable characters](https://rentry.co/how2playba#farmable-units) if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
 ![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/goX8KDM.png)
+
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 
 - "idk what to buy, which BDs/technotes do I pick?" 
 
-Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. 
+Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot of meta students. You'll always be needing their mats. Always. 
 
 >PvP shop
 **Save ur shit for AP drinks, maybe buy Utaha. Maybe.**
 
 In general you want to save up your coins so you get to buy out the pvp drinks during events. If there's a girl that appeals to you feel free to buy her. Utaha is the most 'meta' character in this shop, as her UG makes her a top pvp support. She requires a lot of investment however. 
 Don't buy the reports or credits, they really really suck. You can buy the drinks and farm commissions for a better efficiency 
-Consider bringing Shizuko to 3* when a Shirokuro raid is approaching. 
+Consider bringing Shizuko to 3\* when a Shirokuro raid is approaching. 
 
 If you ever want to unlock any of the 3\*s available that's fine, theyre just very very niche. Don't expect them to be good. 
 
@@ -416,7 +420,7 @@ I'll go over every item, just know that this shop is a lot more nuanced. You can
 I don't recommend buying out the artifacts, except when you absolutely need to. Even though you can't get these artifacts through bounty, there are a lot of events where you can farm them. You also get an okayish chunk through raids.
 
 - Reports
-The safest option if don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you can skip them in favour of the other options. 
+The safest option if you don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you usually skip them in favour of the other options. 
 
 - Shards
 Tsurugi > Eimi > Sumire. 
@@ -452,7 +456,7 @@ It's fine to skip a shop if you don't need anything from it that month. Try to l
 ## Crafting Chamber
 
 >Material Synthesis (the normal one)
-**Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Gifts >= Shiny (orange mats) > Rest**
+**Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Flower (gifts) >= Shiny (orange mats) > Rest**
 
 **Don't do the tier 2 and 3 nodes if you're still strapped for mats.** If you need to ask if you have enough: you don't. I personally only throw in mats if they have an excess of 200. 
 
@@ -460,20 +464,20 @@ In case it wasn't clear yet: you get furniture to cap the energy generation from
 
 If you want to go to node 2: use t1-2 mats you don't care about. Not crafting keystones.
 
-For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Shiny > Abundance (credits) > Radiant > Mystic (elephs) > The Rest**
+For the T3 node (only do this if ur a oldfag/whale): **Diamond (secret tech note) > Flower > Radiant > Shiny > Abundance (credits) > Mystic (elephs) > The Rest**
 The only reason to farm t3 nodes at this point is for the gifts, you'll have enough of everything else to spend it on getting here. 
 You can spin the wheel with the Radiant, Abundance, and Mystic options for more entertaining results. I personally always get assmad doing them, but they are very entertaining. 
 
 >Material Fusion (the new one)
 Trading your garbage away for the freshest sneaks
-**Do not get the raffle ticket**, the choice ticket is the one you want. Raffle tickets are just another gacha, if you prefer to get them seek help. 
+**Do not get the raffle ticket**, the choice ticket is the one you want. Raffle tickets give you a random item, if you prefer these seek help. 
 
-You can dump mats from useless schools (like Red Winter, Shanghai, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
+You can dump excessive mats from useless schools (like Red Winter, Shanghai, Arius, and SRT) into a better one. The useless schools only have 1-2 characters you want to max out anyway. Gaps in your artifact stash can also be helped bridged. 
 
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
 >Maxing out affection/bond/relationship level with crafting 
-Use https://rentry.org/bondarchive [image version](https://i.imgur.com/zMOdCsg.png)
+Use https://rentry.org/bondarchive [(image version)](https://i.imgur.com/zMOdCsg.png)
 
 It's a small guide on maximising your wife's affection level (the autistic minmax way), and it has some neat info as well. I'd recommend skimming through it at least once. 
 
@@ -503,11 +507,12 @@ You unlock the welfare/free unit by doing the story missions (the very 1st one).
 - Buy out the high priority stuff from the shop first (Artifacts > BDs > Technotes > whatever > Furniture)
 - Buy from T4 -> T1.
 
-Always try to go for a cafe upgrade if you can.
 
 What you're supposed to do is a case by case scenario though, since some events are pretty shit to farm, or some artifacts and schools are worse than others. You can always ask in the thread 
 
-You're pretty fucked regardless, so gl bro
+Always try to go for a cafe upgrade before you do event stuff if you can.
+
+Regardless, you're pretty fucked so gl bro
 
 >I have X shards of this event's welfare unit but I can't claim her wtf! 
 DO THE STORY MISSIONS 
@@ -522,7 +527,7 @@ If you want a specific guide, use:
 ![how to hoard AP guide](https://i.imgur.com/Dkfc0EV.png)
 [(the old one for preservation sake)](https://i.imgur.com/nq3vsPW.png) 
 
-Bounties/Scrimmages: **if and only if (I.F.F) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 6 tickets you lose out on. 
+Bounties/Scrimmages: **if and only if (I.F.F.) you buy the monthlies**, you can save those extra tickets by not doing your bounties for a fat bonus during rate ups. Be aware that your free daily tickets will go to waste, but the bonus you get outweighs the 6 tickets you lose out on. 
 
 ## Whaling for dummies
 ![pakeji value](https://i.imgur.com/IIrB9LU.png)
@@ -531,14 +536,11 @@ If you're planning on being a dolphin, like all gacha games the best value pakej
 
 The 1 dollar Serika is nice, but pretty unneeded. 
 
-I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two. 
+I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two.
 
 ## Misc. stuff
 You can rub people's heads after you unlock their L2Ds. This also counts for NPCs (e.g. Arona, Sora, Rin)
 Yes. You really can. 
-
->Banners
-Global follows the JP schedule reasonably tight, see [the banner list for all the upcoming banners](https://bluearchive.wiki/wiki/Banner_List).
 
 >XP
 1 AP = 1 XP. Your level is tied to how much AP you spend, so there's no real way to level up faster. 

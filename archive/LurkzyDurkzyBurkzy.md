@@ -9,8 +9,11 @@
 ->**Discord**: lurkzn<-
 ->![imf2](https://i.imgur.com/Z5OYDDT.gif)<-
 ***
+###->Comprehensive guide on importing presets into ST<-
+->![HelpMe](https://files.catbox.moe/izgdto.png)<-
+***
 ###->Collection of ALL my public Claude Presets<-
-->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/ksucrk.zip)<-
+->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)<-
 ***
 ###->GPT Preset<-
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/9ilrby.zip)<-
