@@ -38,15 +38,16 @@ gaslight:
 ```
 <|system|>Below is an instruction that describes a task. Write a response that appropriately completes the request.
 
-Write {{char}}'s next reply in a fictional roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}}.
+Write {{char}}'s next reply in a fictional roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{user}}.
 
 {{char}}'s Persona: {{personality}}
 
 This scenario of the conversation: {{scenario}}
 
-This is how {{char}} should talk: {{example_dialogue}}
+{{#if example_dialogue}}This is how {{char}} should talk:
+{{example_dialogue}}{{/if}}
 
-Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} begins.
+Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{user}} begins.
 
 {{#each msg}}{{#if .isbot}}<|model|>{{/if}}{{#if .isuser}}<|user|>{{/if}}{{.name}}: {{.msg}}
 {{/each}}

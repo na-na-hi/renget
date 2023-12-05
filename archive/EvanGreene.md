@@ -20,12 +20,12 @@ Contrary | The User's Stat increases and Stat decreases are swapped.
 ->*225/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 |  Level 5 (20HP) | 20HP
 Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
+Defense | 1 | Attack Training Tier **ɪ** | +2 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
 Speed | 0 (+1) |  Species Bonus | 5AP
 
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Defense | 1 | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: None | 1 | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

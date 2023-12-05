@@ -66,6 +66,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
+Training for Attribute: Sailing | Tier **ɪɪɪ** | 1/3 | ▮▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description

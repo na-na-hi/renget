@@ -17,11 +17,11 @@ https://www.youtube.com/watch?v=KqDLrvrl_p0
 \>[New Character] Tsubame
 https://www.youtube.com/watch?v=LaTdRGL7NEk
 
+\>Pixel Art Tia
+https://www.youtube.com/watch?v=mH0xyiS5Ous
+
 \>Mister Elegante Alonso
 https://www.youtube.com/watch?v=osn_6l3j9_k
-
-\>Prison Guard Abigail
-https://www.youtube.com/watch?v=if96JB1mnx8
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4
@@ -47,8 +47,6 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://event.playeternalreturn.com/2023/superblackfriday (Daily Missions/Login Event/Skin Sale, ~11/30 & ~12/6)
-https://event.playeternalreturn.com/newcharacter/Leni (Play as Leni Event, ~12/6)
 https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
 
 \>Codes

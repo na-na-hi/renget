@@ -91,7 +91,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 Attributes | Tier Bonus | Description
 ------ | :----: | :----:
 Attribute: Gravitational Potential | **ᴍᴀx** (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
-Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature. 
+Attribute: Foraging | Tier **ɪɪ** (+2) | Skill in scavenging for useful food items and materials found in nature. 
 Attribute: Artifice | Tier **ɪɪ** (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
 Battle Attribute: ??? | - | - 
 
@@ -100,7 +100,7 @@ Battle Attribute: ??? | - | -
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier **ɪɪɪ** | 1/3 | ▮▯▯
-Training for Attribute: Foraging | Tier **ɪɪ** | 1/3 | ▮▯▯
+Training for Attribute: Foraging | Tier **ɪɪ** | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -124,8 +124,8 @@ Item Name | Description
 *Extra inventory slots separate from Espurr's normal inventory.*
 Item Name | Description
 ------ | :----: 
-1. Empty | None
-2. ~~Shattered TM135 Flash~~ | A TM which contained the Move Flash. A long, jagged crack spirals down the flat of the disc.
+1. Wiki Berry | None
+2. Wiki Berry | None 
 
 ***
 

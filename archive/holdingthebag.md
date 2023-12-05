@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 1st December. All dates dd/mm.
+!!! Note Last updated: 5th December. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -98,7 +98,7 @@ Club ID | Club Name | Club Status
 2627 | ガチリセマラ勢 | Full as of 22/10
 2699 | CHADS | Full as of 09/07
 6358 | ヒナまつり | Full as of 10/08
-13107 | アオダマ | Open as of 19/10
+13107 | アオダマ | Full as of 19/10
 20269 | BigBoiClub | Full as of 22/10
 
 ***
@@ -107,7 +107,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-90 | Bullies | Open as of 30/11
+90 | Bullies | Open as of 02/12
 1674 | BlueB@lled | Open as of 01/12
 6488 | Kanimochi | Open as of 26/10
 10625 | Vrillionaires | Open as of 06/10
@@ -162,13 +162,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 05/12
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 22/11
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

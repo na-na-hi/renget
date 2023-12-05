@@ -46,6 +46,9 @@ Auto1111 | ComfyUI
 :----: | :----:
 ![](https://files.catbox.moe/wyrzme.png)   | ![](https://files.catbox.moe/wzmv5u.png)
 
+### Fixing washed out artists
+I'll make a grid later on options for this
+[color enhance script](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git)
 
 ## You don't want to use the method above?
 - Toggle refiner and set the checkpoint you want

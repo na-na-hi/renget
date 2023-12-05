@@ -18,23 +18,23 @@ Don't spam edits to keep yourself on the top of the list, I will keep watch and 
 
 Botmaker | Category | New Bots | Updated Bots
 ------ | ------ | ------ | ------
+[Genoo](https://rentry.org/295se) | Sizeplay |[Hikari](https://files.catbox.moe/fj56v2.png)|[Hikari](https://files.catbox.moe/fj56v2.png) [MV]
 [KnickKnack](https://rentry.org/knickknackkered) | Misc |[Marco](https://files.catbox.moe/iavqss.png)|[Apprentice Lyra](https://files.catbox.moe/mpunwd.png)
 [Koikoikoi](https://rentry.org/koikoikoicard) | Misc |[Abiyah](https://files.catbox.moe/gth8e5.png)|[Abiyah](https://files.catbox.moe/gth8e5.png) [MV]
 [Pashatehink](https://rentry.org/pashatehink) | Misc |[K-4T](https://files.catbox.moe/at68rt.png)|
 [Planewalker](https://rentry.org/planewalker) | Misc |[Luca](https://files.catbox.moe/34gmon.png), [Sylas](https://files.catbox.moe/dkvv8u.png)|
-[Genoo](https://rentry.org/295se) | Sizeplay |[Hikari](https://litter.catbox.moe/vxa80c.png)|
 [Vanillanon](https://rentry.org/bingbingwahoo) | Misc |[Catherine](https://files.catbox.moe/2yje7l.png)|
 [Alpaca](https://rentry.org/AlpacaBots) | Misc |[Capucine](https://files.catbox.moe/vugats.png)|
 [Thegreatcoom](https://rentry.org/Thegreatcoom) | Misc |[Emmeline](https://files.catbox.moe/msfdt4.png)|
 [Scrimbly](https://rentry.org/scrimb) | Misc |[Oskar](https://files.catbox.moe/8u31ni.png)|
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
-[GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
 [Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
 [Pitanon](https://rentry.org/pitanonbots) | Misc/Stink ||
+[GGR89](https://rentry.org/ggr89) | Misc ||
 [Luneose](https://rentry.org/luneose) | Misc ||
 [Sull](https://rentry.org/p8kav)   | Mostly cunny ||
 [Candymint23](https://rentry.co/candymint23) | Misc ||

@@ -6,7 +6,7 @@
 ## [/g/aicg/](https://boards.4channel.org/g/catalog#s=aicg)
 - https://rentry.org/cai-list - large list of bots and botmakers; cai and rentries with cards; tools and manuals; `current`
 - https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
-- https://rentry.org/aicgthemedweeks - small list of bots; cards only; themed bots from the botmaking events; `current`
+- https://rentry.org/aicgthemedweeks - large list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
 - https://rentry.org/dividedskies - small list of bots; themed bots from a worldbuilding project; `current`
 - https://rentry.org/crimsonfuture - small list of bots; themed bots from a worldbuilding project; `current`
@@ -29,7 +29,7 @@
 [](the issue requiring the remark was referenced here https://arch.b4k.co/vg/thread/437251661#437285621)
 
 ## [/trash/Collared/](https://boards.4chan.org/trash/catalog#s=/collared/)
-- https://rentry.org/Collared-CAI - small list of bots; cai and cards; tools and manuals; `current`
+- https://rentry.org/Collared-CAI - small list of bots; cai and cards; tools and manuals; *deprecated*
 
 ***
 Too old, for historical purposes only:
