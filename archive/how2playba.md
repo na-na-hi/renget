@@ -387,7 +387,7 @@ Don't use ur elephs for farmable characters if you can, they're quite literally 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/edrBC8o.png)
+![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/goX8KDM.png)
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
 
@@ -473,7 +473,8 @@ You can dump mats from useless schools (like Red Winter, Shanghai, and SRT) into
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
 >Maxing out affection/bond/relationship level with crafting 
-Use https://rentry.org/bondarchive 
+Use https://rentry.org/bondarchive [image version](https://i.imgur.com/zMOdCsg.png)
+
 It's a small guide on maximising your wife's affection level (the autistic minmax way), and it has some neat info as well. I'd recommend skimming through it at least once. 
 
 >Misc. info
@@ -549,6 +550,10 @@ MAX level is current level cap + 1 xp off the next level (e.g. if the cap is 20,
 The max level is 10 below 3\*, 20 at 3-4\*, and 100 at 5\*. 
 [The wiki's affection calculator](https://bluearchive.wiki/wiki/Affection) is a pretty good resource to calculate ur affection with. Make sure to actually scroll down. 
 [There's also the korean version](https://arona.ai/calc/favor) of the calculator, and there's *also* a [spreadsheet that provides a detailed breakdown of how affection works](https://docs.google.com/spreadsheets/d/1dmB2v7zeR3ja-tjUW92oawNaNGYB1FVtIrE4K8hXE2A) 
+
+>Maxing out affection/bond/relationship level
+Use https://rentry.org/bondarchive [(image version)](https://i.imgur.com/zMOdCsg.png)
+Very useful!
  
 >Friends
 Need a friend or two?
@@ -563,7 +568,6 @@ For the Schale areas: at rank 10 you unlock receiving choice tickets on top of t
 The max rank for an area is 12.
 Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. 
 When you get a BONUS, it means that students receives double affection point. At Lesson Area 10 it's 15, 11 it's 20, and 12 it's 25. 
-
  
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.

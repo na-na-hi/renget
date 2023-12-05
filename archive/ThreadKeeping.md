@@ -49,6 +49,8 @@ https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
 >DAY 5: >>91082651
 >Day 6: >>91091642
 >Day 7: >>91102274
+>Day 8: >>91117368
+>Day 9: >>91134596
 
 ```
 ***
@@ -542,12 +544,21 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan)
-https://rentry.org/oyfco
->Steam
-https://rentry.org/rya79
->Mirror's Mentor (Mirror Devil, Smokin' Sexy)
-https://rentry.org/qycta
+New Writefags:
+>Sticky Situation 2 (Umi, Yamata):
+https://rentry.org/2qnet
+>The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
+https://rentry.org/the-world-is-yours
+>Isekai 3.0?
+https://rentry.org/zuq78
+
+1-C Builds:
+>Isabella Nesis
+>>91129775
+>Okimoto Chisaka
+>>91130422
+>1-C Seating Chart and Writefag
+>>91130426
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -646,6 +657,8 @@ Page 2
 >>89284218
 >Kagami Reina
 >>89605669
+>Norman “Norm” Smith HN Whatabout
+>>91046080
 
 ```
 ***
@@ -1075,6 +1088,10 @@ https://rentry.org/oyfco
 https://rentry.org/rya79
 >Mirror's Mentor (Mirror Devil, Smokin' Sexy)
 https://rentry.org/qycta
+>Sticky Situation 2 (Umi, Yamata):
+https://rentry.org/2qnet
+>The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
+https://rentry.org/the-world-is-yours
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

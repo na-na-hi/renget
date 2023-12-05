@@ -495,8 +495,8 @@ Biography generated!
 >He just pushes most people away out of fear. His nature really shows when people get close to him. He's bad at expressing any feelings besides his anger
 >He's got a satchel and a defense scarf right now. Mostly because I like the design personally.
 
-###Yung/Sara
-[See linked](https://arch-img.b4k.co/vp/1701020936661.png)
+###Jung/Sara
+[See linked](https://cloverguild.com/booru/data/posts/1117_9f4a60a293e74196.jpg)
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy

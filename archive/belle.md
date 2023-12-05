@@ -4,7 +4,7 @@
 ꒰ devon ꒱ / rio!!
 19 she/they blk enby muslim ⋆࿐
 
-dni -16 or zionist kys
+dni -16 or israel pitier/zionist kys
 ```
 ***
 

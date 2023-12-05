@@ -2,9 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (11/28/23)
-	**Updated a few placements**
-	**Added some comments to a few of the more prominent complaints**
+!!! warning Quick Update (12/04/23)
+	**Added New Chuubas**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -244,6 +243,13 @@ Gabu Rieru | - | - | -
 Etra | - | - | -
 Harusama Urame | - | - | -
 Minazuki Natsuki | - | - | -
+Kumanui Miel | - | - | -
+Reina Ronronea | - | - | -
+Ibuki Björn | - | - | -
+Taring Hu | - | - | -
+Obari Luca | - | - | -
+Pippa Pebblesworth | - | - | -
+Sarugaku Leon Jr. | - | - | -
 
 ## -> Kamitsubaki Studio <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -652,6 +658,10 @@ Urushiha | - | - | -
 Hajime | - | - | -
 Kurau | - | - | -
 Garu | - | - | -
+Pako | - | - | -
+Nagisa | - | - | -
+Hihi | - | - | -
+Yukisyo | - | - | -
 Sakura Haruka | - | - | -
 Nanako | - | - | -
 Zuya Naxi | - | - | -
@@ -1097,6 +1107,18 @@ Pan | - | - | -
 Sakura Yumekawa | - | - | -
 Erian Osamu | - | - | -
 Daychu | - | - | -
+
+## -> Lightmotif <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Lunywoo | - | - | -
+Mona Euphelia | - | - | -
+Finstey | - | - | -
+Jinja | - | - | -
+Nayami | - | - | -
 
 ## -> Project Yoru <-
 !!! info Available Loras without the need of updates and have been tested.

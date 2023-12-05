@@ -66,8 +66,9 @@ Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | Ease of navigating the 
 Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature.
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
-Training | Completion | Progress (Numerical) | Progress Bar
+Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -61,3 +61,6 @@ It's worth just shoving your existing LoRA into EasyFluff and seeing what works.
 
 ![](https://files.catbox.moe/iuz0da.png)
 ![](https://files.catbox.moe/c735vp.png)
+
+### Training on furry models
+[mega with guide and model](https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI)

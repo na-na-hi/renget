@@ -602,7 +602,7 @@ This mission is a salvager's dream come true. For a **150k aUEC fee**, the missi
 
 The caveat with this mission is that you **can't share it with your party members like with most other missions**; they either have to pay the 150k fee or just simply hop in a multicrew ship together while you plot the course. As this can technically be solo'd, you do have to travel very far out, and it is also a hotspot for PvP as others fight for control over these wrecks, so it's best that you get a group going with a ship large enough to take the journey and the goods back.
 ***
-####Dynamic Event Missions
+####->Dynamic Event Missions<-
 Dynamic Event's missions encourage server wide participation, either to work together against a large enemy faction in PvA (PvP if you chose to join them) or a dedicated PvP zone (like Jumptown) for big payouts. These operate on a specific schedule that CIG will announce in a dedicated forum post. When they are active, the mission can be accessed under **"Priority"** in the contracts manager.
 
 - **[XenoThreat - Assault on Stanton](https://robertsspaceindustries.com/comm-link/transmission/18510-XenoThreat-For-New-Players)**
@@ -614,10 +614,22 @@ The goal of this event is to protect and restock a UEE Javelin Destroyer docked 
 You and everyone who participates do this by taking 3 unique types of cargo from Starfarer wrecks in space nearby back to Jericho. Occasionally, a XenoThreat Idris will harass the docked javelin, and if you don't fend it back, the event can fail. When the requirements for delivering the cargo have been met, the final phase begins with a massive fight between the now restocked friendly Javelin vs. XenoThreat.
 
 - **[Jumptown](https://robertsspaceindustries.com/comm-link/transmission/19156-Jumptown-21)**
-!!! danger WIP
 
+This dynamic event was inspired by emergent gameplay that happened in 2019 when a drug spawning outpost on the moon Yela called "[Jumptown](https://starcitizen.tools/Jumptown)" had a bug that caused it to provide more drugs than intended, and what followed was a huge influx of players flocking to this small little outpost to get their hands on the valuable cargo and fight off anyone who wanted a cut. CIG has tried to recapture that lightning in a bottle with a little twist in this event. 
+
+It's fairly straight forward: 1 outpost will start infinitely spawning small drug boxes on 4 different locations around the system that you and the rest of the server who decide to join in fight over. There is a lawful and unlawful side to this event.
+
+Lawful requires you to have no crimestat and will task you to take the drug boxes to the nearest LEO station on the planet Jumptown spawns at for a bonus payout. The unlawful route first requires you to have a crimestat of any level, then you take the mission from Ruto for a small fee to bring the drugs to an unlawful trading outpost for a bonus.
 - **[Siege of Orison](https://robertsspaceindustries.com/comm-link/transmission/18748-Siege-Of-Orison)**
-!!! danger WIP
+!!! warning You cannot fly your own ship to the events location, it will force despawn it and leave you to fall to your death.
+
+This event mission will call on the entire server to go to the city of Orison on the planet Crusader and retake multiple floating platforms near the city currently being occupied by the pirate faction  "[9 Tails](https://starcitizen.tools/Nine_Tails)". You cannot necessarily "join" 9 Tails, but if you attack any other players during the event, you will be branded as a "9 Tails sympathizer", and doing so will place a mark on you for anyone else on your platform.
+
+SoO begins by sending everyone who accepted the mission to the roof of the Crusader show room to catch a shuttle that takes you to the first of 4 platforms to retake from the attacking faction. The progression between each platform is linear, and in order to advance, **you have to defeat 1 enemy lieutenant per platform**. 
+
+Each lieutenant holds a data-pad containing a **4-digit code** that is needed to unlock that specific platform's many cargo containers spread around. These containers hold plenty of ammo and medical supplies inside them, but most importantly, there is an **IFFI** in one of these containers that you need to find and disable in order to turn off that platform's hostile AA defense.
+
+When you defeat all 4 of the lieutenants on their respective platforms, the ringleader of the siege will entice you to fight him on a docked cargo barge. Killing him and disabling the final IFFI will complete the event.
 ***
 ***
 ###->Useful 3rd Party Tools<-

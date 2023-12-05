@@ -116,6 +116,10 @@ In the end you only have yourself and your studentwife to push yourselves and ke
 Remember this is a marathon, not a race. Move at your own pace.
 Godspeed you magnificent autists.
 
+### Image Summary by anon
+Here's an image version made by another baggot that provides a gist of whatever was written here, with less autism.
+![bag affection guide](https://i.imgur.com/zMOdCsg.png)
+
 ### References and Other Materials
 https://bluearchive.wiki/wiki/Affection
 https://bluearchive.wikiru.jp/?%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB

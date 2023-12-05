@@ -237,6 +237,7 @@
 11/2023|[UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599)
 11/2023|[YUAN 2.0: A Large Language Model with Localized Filtering-based Attention](https://arxiv.org/abs/2311.15786)
 12/2023|[Making Large Multimodal Models Understand Arbitrary Visual Prompts (ViP-LLaVA)](https://arxiv.org/abs/2312.00784)
+12/2023|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

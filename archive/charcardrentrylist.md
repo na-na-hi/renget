@@ -30,6 +30,7 @@ Botmaker | Category | New Bots | Updated Bots
 [Crikey](https://rentry.org/crikeyscorner) | Misc |[Ysilde and Delynther](https://files.catbox.moe/0653xi.png)|
 [Argalia](https://rentry.org/gayanon) | Malebots |[Ephraim](https://files.catbox.moe/wghyx0.png)|
 [GGR89](https://rentry.org/ggr89) | Misc |[Warden Tatsuta](https://files.catbox.moe/ee69bw.png), [Warden Tenryuu](https://files.catbox.moe/boeach.png)|
+[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Foxboats](https://rentry.org/foxboats) | Furry / Misc ||
 [PlayAlundra](https://rentry.co/PlayAlundra) | Misc ||
 [DyingWarrior](https://rentry.org/Dyingwarrior) | Misc ||
@@ -63,7 +64,6 @@ Botmaker | Category | New Bots | Updated Bots
 [Frozenvan](https://rentry.org/frozenvan) | Misc ||
 [123123232](https://rentry.org/g2u47) | Sizeplay ||
 [UncleMarr](https://rentry.org/umarr) | Misc ||
-[Lobsterchan](https://rentry.org/lobsterchan) | Misc ||
 [Vanilla](https://rentry.org/q9gsx) | Maids ||
 [AmmoniaM](https://rentry.org/mmu5g) | Cunny / Furry ||
 [VinceLavali](https://rentry.org/vincelavali) | Cunny ||

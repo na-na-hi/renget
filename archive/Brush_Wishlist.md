@@ -128,7 +128,7 @@
  ----: | :----: | :----: | :----:
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **3D Beach Set (3Dビーチセット)** | [1935755](https://assets.clip-studio.com/en-us/detail?id=1935755) | **80 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/57/1935755/thumbnail?1658416538)
-**Hair Brush Set (一発髪の毛ブラシセット)** | [1816272](https://assets.clip-studio.com/en-us/detail?id=1816272) | **100 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/62/1816272/thumbnail?1642740902)
+**Custom Paper Chain 3D Rev2 (カスタム紙鎖 3D rev2)** | [1960403](https://assets.clip-studio.com/en-us/detail?id=1960403) | **==20 GOLD==** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/03/04/1960403/thumbnail?1670027927)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

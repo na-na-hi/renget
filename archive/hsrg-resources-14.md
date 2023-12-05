@@ -6,7 +6,7 @@
 [Pastebin](https://pastebin.com/58y36fMk) | HSR beginner guide
 [Hoyolab Wiki](https://wiki.hoyolab.com/pc/hsr/aggregate/character) | miHoYo Wiki
 [Hoyolab Map](https://act.hoyolab.com/sr/app/interactive-map/index.html) | miHoYo Interactive Map
-[Enkanomiya](https://enka.network/) | Character Card Creator
+[Enkanomiya](https://enka.network/?hsr) | Character Card Creator
 [Honkai: Star Rail Asset Archives](https://drive.google.com/drive/folders/1BIkcfgJzCWMsCP9E6qLGmgG5wrrgbK44) | Asset Archives
 [r/HonkaiStarRail_leaks Rentry](https://rentry.co/7k3mt) | Upcoming Characters
 
@@ -19,6 +19,7 @@
 [Honey Hunter](https://hsr.honeyhunterworld.com/) | Datamining
 [Hakush.in](https://hsr.hakush.in/) | Datamining
 [Project Yatta](https://hsr.yatta.top/en) | Datamining
+[Fribbels Honkai Star Rail optimizer & relic scorer](https://fribbels.github.io/hsr-optimizer/) | Optimizer & Relic Scorer
 [Star Rail Station](https://starrailstation.com/) | Warp Tracker, Ascension Planner
 [Pom.moe](https://pom.moe) | Warp Tracker, Timeline
 [StarDB](https://stardb.gg/) | Achievement Tracker, Free Jade Alerts

@@ -52,7 +52,7 @@ Generally any artist with around 100 images or more on Danbooru is recognized. A
 There are some helpful comparisons generated via NAI found on [another Rentry](https://rentry.org/NAIDv3artisttagtestoverview) (~600 artists) and [MEGA](https://mega.nz/folder/dZ1RVJDK#jdO5hfJtWvICDGyFZFxMHA) (~7k artists).
 
 #### What characters are recognized by NAI?
-Characters seem to be recognized that have at least around 50 images. Providing related general tags can help push this in the correct direction for obscure characters. Danbooru has a useful utility for this. https://danbooru.donmai.us/related_tag
+Characters seem to be recognized that have at least around 50 images. Providing related general tags can help push this in the correct direction for obscure characters. Danbooru has a useful utility for this. https://danbooru.donmai.us/related_tag (this notably supports entering more than just 1 tag)
 
 #### What concepts are recognized by NAI?
 The more images with a concept posted on Danbooru, the better. For it to be easily triggerable, 500-1k images minimum is ideal. Related tags are also important for obscure concepts.
@@ -78,6 +78,12 @@ Tags such as `@_@` ([wiki page](https://danbooru.donmai.us/wiki_pages/@_@), usag
 - `unfinished`
 - `flat color` (if you prefer something a bit closer to "realistic" texture without specifying it explicitly)
 - `anime screencap` (most of this on Danbooru is low quality)
+
+#### What is NAI's "Enhance" feature?
+This is analogous to the web UI's "hires fix" feature. Enhance, by default, will upscale your image by a factor of x1.5, and perform img2img on it with a  denoise strength of `0.5`. The rationale for doing this is to improve generation resolution and (potentially) detail, while being able to preserve composition of the image (generating from nothing at higher resolutions tends to cause the model to "hallucinate" due to going beyond what resolutions the model was trained on). 
+
+#### Why does it seem like part of my prompt is being ignored?
+This may be due to the fact you've overloaded your prompt with too many terms or conflicting tags, but also potentially due to what seems to be a bug in NAI's tokenizer. NAI supports up to 225 tokens, but these are split up into chunks of 75. Anons have noticed that the tokens between and at these chunks, corresponding to `74`, `75`, `76`, `149`, `150`, and `151`, get ignored. This can be partially remedied by restructuring your prompt to be below 74 tokens (so no chunking happens at all), or replacing the tokens within this token chunking area with a series of commas, like `, , ,`
 
 #### What is the cutoff date for training data NAI used?
 It is estimated to be sometime during Summer 2023.
@@ -141,5 +147,5 @@ In NAI's UI, inpainting is only provided via their inpainting model. For technic
 
 Using the web UI extension, inpainting can be performed using not only NAI's inpainting model, but also utilizing the traditional "img2img inpainting" workflow the web UI provides, which allows for scribbling/redrawing, a custom denoise strength, while only affecting a masked region.
 
-To use this mode, you must change the `NAI Inpainting` setting, found under the `NAI API Generation` accordion in the img2img tab.
+To use this mode, you must change the `NAI Inpainting` setting to `img2img`, found under the `NAI API Generation` accordion in the img2img tab.
 ![image](https://files.catbox.moe/j96rac.png)

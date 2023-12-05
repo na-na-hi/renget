@@ -6,7 +6,7 @@ Memory is a really good way to keep your story on track; By your story text alon
 
 [TOC2]
 
-***Other guide: [memory guide](https://rentry.org/memory-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
+***Other guide: [lorebook guide](https://rentry.org/lorebook-guide), [co-writing guide](https://rentry.org/co-writing-guide)***
 *[My personal preset—Truthfully (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ##Context
