@@ -1,4 +1,3 @@
-`ыив@Бtb╢ef`
 ---
 !!! Note OpenAI Model
 >gpt-3.5-turbo-16k
@@ -44,7 +43,7 @@
 >
 !!! Note Impersonation
 >[Write your NEXT reply in first-person ONLY as {{user}}, adhering to the instructions provided in <META>. Avoid narrating, acting, speaking, or thinking on behalf of {{char}}. Avoid purple prose. Omit schizo ramblings. Limit your reply further to only 25 words. Start the next reply with the following: '...']
-!!! Note Author's Note (In-chat @ Depth 2) [?](https://files.catbox.moe/b47v4b.png)[!](https://files.catbox.moe/zp5qhw.png)[?](https://files.catbox.moe/auj234.png)[!](https://arca.live/b/characterai/86469978)
+!!! Note Author's Note (In-chat @ Depth 2) [?](https://files.catbox.moe/b47v4b.png)[R](https://desuarchive.org/_/search/text/https%3A%2F%2Ffiles.catbox.moe%2Fzp5qhw.png/)
 >[{{user}} is schizophrenic and hears voices inside their head. In between {{char}}'s next reply, insert long schizo ramblings in bold capital letters **LIKE THIS**, that can only be heard by {{user}}. The voices inside {{user}}'s head will often encourage {{user}} to do weird, out of place, and inappropriate things. They will also comment on <Persona>. Nobody but {{user}} can hear these thoughts. Also, at the very bottom of the reply, provide 4 choices for {{user}} to take in continuing the plot and conversation forward, using the following format:
 >___
 >```
@@ -55,7 +54,7 @@
 >4. 
 >```
 >The provided choices must be enclosed within triple ` marks.]
-
+[?](https://files.catbox.moe/noqxcw.png)
 ###### ==OAI → Claude==
 ```
 system: → Human: / H:
@@ -63,5 +62,5 @@ assistant: → Assistant: / A:
 user: → Human: / H:
 ```
 ---
-[?](https://files.catbox.moe/123hwd.png)[!](https://files.catbox.moe/95jn6n.json)[!](https://rentry.org/tomoyocard)
+[?](https://files.catbox.moe/123hwd.png)[!](https://files.catbox.moe/95jn6n.json)[T](https://rentry.org/tomoyocard)
 -> ![уwЁiqvh@Ёw@gqve@if·fKKK](https://files.catbox.moe/digxns.png) ->

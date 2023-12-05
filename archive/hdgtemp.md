@@ -12,7 +12,7 @@ Optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Opti
 NovelAI: https://rentry.org/hdg-nai-v3
 
 >RESOURCES
-Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
+WebUI Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 
 Models/LoRAs: https://civitai.com/ | https://gitgud.io/gayshit/makesomefuckingporn | https://rentry.org/5exa3
 Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https://rentry.org/59xed3

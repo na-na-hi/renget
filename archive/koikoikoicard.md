@@ -87,4 +87,4 @@ https://files.catbox.moe/4yx7x0.png or https://www.chub.ai/characters/koikoikoih
 ![Consider it a blessing that thee could behold Our Majesty, servant!](https://files.catbox.moe/9fvk8d.png)
 *Abiyah, the Princess of Bephelem, whose touch can turn anything into gold - and much, much more.*
 (Contains embedded lorebook and three intros.)
-https://files.catbox.moe/gth8e5.png or https://www.chub.ai/characters/koikoikoihat/abiyah-189b9f24/main
+https://files.catbox.moe/46febq.png or https://www.chub.ai/characters/koikoikoihat/abiyah-189b9f24/main

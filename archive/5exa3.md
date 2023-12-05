@@ -13,17 +13,19 @@
 	- [11.2 yaml](https://huggingface.co/zatochu/EasyFluff/raw/main/EasyFluffV11.2.yaml) right here for you
 	- If you got nothing but brown; something went wrong at this step
 - CFG rescale
-	- this can make your gens more warm and beige
-	- sometimes having it on makes no difference and sometimes its a requirement 
 	- [Auto1111](https://github.com/Seshelle/CFG_Rescale_webui)
 	- [comfyui](https://github.com/comfyanonymous/ComfyUI_experiments)
+	- CFG 7 // Rescale 0.7 
+	- this can make your gens more warm and beige
+	- sometimes having it on makes no difference and sometimes its a requirement 
 - Quality tags aren't trained but if you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
 	- If you use the LyCo it has quality tags
 
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) and just add it the way you add LoRA
 - [artist wildcards](https://pixeldrain.com/u/UPZvZtQV)
-	-  Artist combo [Gallery view](https://catbox.moe/c/6etv3n#)
+	- [by x portrait examples](https://rentry.org/yxwiu) (working on this)
+	-  Artist combos [Gallery view](https://catbox.moe/c/6etv3n#)
 - [e621 tags](https://pixeldrain.com/u/TyiryrZB)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
 	- Settings > Tag Autocomplete > Extra filename

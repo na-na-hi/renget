@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=KqDLrvrl_p0
 \>[New Character] Tsubame
 https://www.youtube.com/watch?v=LaTdRGL7NEk
 
+\>Lumiapedia - Tsubame
+https://www.youtube.com/watch?v=MGkKkqv0B30
+
 \>Pixel Art Tia
 https://www.youtube.com/watch?v=mH0xyiS5Ous
 

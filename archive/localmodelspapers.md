@@ -47,6 +47,7 @@
 11/2023|[UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://arxiv.org/abs/2311.09257)
 11/2023|[Automatic Engineering of Long Prompts](https://arxiv.org/abs/2311.10117)
 12/2023|[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses](https://arxiv.org/abs/2312.00763)
+12/2023|[Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -238,6 +239,7 @@
 11/2023|[YUAN 2.0: A Large Language Model with Localized Filtering-based Attention](https://arxiv.org/abs/2311.15786)
 12/2023|[Making Large Multimodal Models Understand Arbitrary Visual Prompts (ViP-LLaVA)](https://arxiv.org/abs/2312.00784)
 12/2023|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+12/2023|[OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

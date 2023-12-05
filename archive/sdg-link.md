@@ -30,6 +30,7 @@ https://medium.com/intel-analytics-software/stable-diffusion-with-intel-arc-gpus
 ###CPU
 http://rentry.org/cputard
 https://rentry.org/webui-cpu
+https://github.com/rupeshs/fastsdcpu
 ###Apple CPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
 !!! info
@@ -315,6 +316,7 @@ https://civitai.com/user/AI_Art_Factory
 https://civitai.com/user/weed
 https://civitai.com/user/Pleased_Chomusuke
 https://civitai.com/user/doombatz
+https://civitai.com/user/LHV
 
 !!! info
 	---------------------------

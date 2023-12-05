@@ -279,10 +279,6 @@
 - Easy to use design that makes it simple to locate the audiobook you want to listen to.
 - [URL Safety Results](https://www.urlvoid.com/scan/appaudiobooks.com/)
 
-### ▶️ [Audio Books & Poetry](https://archive.org/details/audio_bookspoetry)
-- Free poetry and book audio recordings from Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
-- [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
-
 ### 🐐 [AudioAZ](https://audioaz.com/)
 - Provides a sizable library of audiobooks that may be downloaded or listened to internet by anybody. 
 - [URL Safety Results](https://www.urlvoid.com/scan/audioaz.com/)

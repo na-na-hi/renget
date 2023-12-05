@@ -69,4 +69,7 @@
 > NP Damage Comparison Spreadsheets:
 - [NP Damage Comparison (NA)](https://docs.google.com/spreadsheets/d/1p1OSVrIZ37eV-ttzZgZdyADTGXiFLP7JtBFdzh1TFIo/edit#gid=7073242)
 
+> Another Future SQ page: 
+- [FGO Savings](https://www.fgosavings.com/)
+
 -> ![/alter/a](https://files.catbox.moe/ndufj3.png) ->
