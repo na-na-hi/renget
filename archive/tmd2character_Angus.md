@@ -1,4 +1,4 @@
-![TheBirbHasRealJordans](https://media.discordapp.net/attachments/1179923625265090610/1180253612736266340/image.png?ex=657cbfd5&is=656a4ad5&hm=63a961164c36807276fa95f8b80378758d8841abf91ccb1713c27635de35d4e2&=&format=webp&quality=lossless&width=520&height=671) 
+![TheBirbHasRealJordans](https://media.discordapp.net/attachments/663876575757860914/1157600065007931412/Portrait.png?ex=657d6492&is=656aef92&hm=e5d68de22486333d47e1e7bd0aa29310562d1080d6ca4f5ab34045f76c16d13a&=&format=webp&quality=lossless) 
 
 ###Angus ♂
 This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real, it seems," I muttered.

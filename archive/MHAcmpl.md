@@ -39,7 +39,7 @@ Son Jugo HN "Aspara": https://archive.4plebs.org/tg/post/88239137
 Ashleigh Katsuragi HN "Blackout": https://archive.4plebs.org/tg/post/88268251 (further information at https://controlc.com/39a2773c)
 Atsushi Orochi HN "Hard to Destroy Lizard Hero - Yamata": https://archive.4plebs.org/tg/post/88273479 (further information at https://controlc.com/48f0874f)
 >>>Government Sponsored
-Sandatsu Owari HN "Reaper": https://archive.4plebs.org/tg/post/88192177 (further information at https://rentry.org/akhke)
+Sandatsu Owari HN "Reaper": https://archive.4plebs.org/tg/post/88192177 (further information at https://rentry.org/Reaped-Quirks)
 >>>Sophomores (Held Back)
 Yui Sagara HN "The Binding Hero, Capture Cloth": https://archive.4plebs.org/tg/post/88383012
 Kyoda Hiro HN "Overdose": https://archive.4plebs.org/tg/post/88193619

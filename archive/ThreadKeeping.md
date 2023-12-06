@@ -544,8 +544,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Popsy and Kampai Talk Show Meme Edit Video?
-https://files.catbox.moe/n6fh5b.mp4
+>Reaper Rising (Reaper, Drekus, Overdose)
+https://rentry.org/reaper-rising
+>Spherethirst Isekai
+https://rentry.org/s8558
+>MHA Isekai 3.2
+https://rentry.org/4eama
+
+>Satoru Tani 
+>>91149772
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -1087,6 +1094,12 @@ https://rentry.org/zuq78
 https://rentry.org/qd6pk
 >Isekai (Inigo Side Story)
 https://rentry.org/abr3m
+>Reaper Rising (Reaper, Drekus, Overdose)
+https://rentry.org/reaper-rising
+>Isekai (Spherethirst Side Story)
+https://rentry.org/s8558
+>MHA Isekai 3.2
+https://rentry.org/4eama
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

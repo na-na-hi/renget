@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/11/30-23/12/03 (yy/mm/dd)
+##23/12/06-23/12/10 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()** 
-**FRI: Rock Maiden FC at 3UTC (Parsec)** 
+**FRI: Megaman 3 (Java) at 3UTC (Parsec)** 
 **SAT: Terranigma at 3UTC (Telemelt)**
-**SUN: Golden SUN: The Lost Age at 19UTC* (Telemelt)** 
+**SUN: Minemelt at 18:30UTC* (Telemelt)** 
 
 ##Cytubes
 
 **SAT: Megaman Fully Charged at 18:30UTC** 
-**SUN: Megaman Fully Charged at 17UTC**
+**SUN: - at 17UTC**
 
 >-
 nothing

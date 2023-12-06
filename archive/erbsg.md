@@ -53,7 +53,7 @@ https://playeternalreturn.com/fankit
 https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
 
 \>Codes
-https://coupons.tnra.ro/
+https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1
 
 \>/erbsg/ friends
 https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn-Ww
@@ -62,4 +62,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>455929128
+\>\>456909239

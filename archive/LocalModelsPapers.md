@@ -49,19 +49,6 @@
 12/2023|[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses](https://arxiv.org/abs/2312.00763)
 12/2023|[Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)
 |
-|**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
-07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
-04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
-01/2020|[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
-05/2020|[Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
-01/2022|[Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
-03/2022|[Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
-07/2022|[Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
-03/2023|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
-04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
-05/2023|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
-10/2023|[Improving Image Generation with Better Captions (DALL·E 3)](https://files.catbox.moe/e7jl5b.pdf)
-|
 |**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 12/2021|[Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446)
@@ -85,6 +72,8 @@
 10/2023|[Large Language Models as Analogical Reasoners](https://arxiv.org/abs/2310.01714)
 10/2023|[Controlled Decoding from Language Models](https://arxiv.org/abs/2310.17022)
 10/2023|[A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
+12/2023|[Gemini: A Family of Highly Capable Multimodal Models](https://files.catbox.moe/g7nn73.pdf)
+12/2023|[AlphaCode 2 Technical Report](https://files.catbox.moe/lqpb7g.pdf)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -170,6 +159,19 @@
 10/2023|[LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery](https://arxiv.org/abs/2310.18356)
 10/2023|[FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313)
 11/2023|[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
+|
+|**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
+07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+04/2019|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
+01/2020|[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+05/2020|[Language Models are Few-Shot Learners (GPT-3)](https://arxiv.org/abs/2005.14165)
+01/2022|[Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+03/2022|[Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
+07/2022|[Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
+03/2023|[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+04/2023|[Consistency Models](https://arxiv.org/abs/2303.01469)
+05/2023|[Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
+10/2023|[Improving Image Generation with Better Captions (DALL·E 3)](https://files.catbox.moe/e7jl5b.pdf)
 |
 |**Hazy Research (Stanford)** ->[Papers](https://cs.stanford.edu/people/chrismre/#papers) [Blog](https://hazyresearch.stanford.edu/blog)<-
 10/2021|[Efficiently Modeling Long Sequences with Structured State Spaces (S4)](https://arxiv.org/abs/2111.00396)

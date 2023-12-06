@@ -728,6 +728,3 @@
     - 003&nbsp;&nbsp;[desuarchive.org/trash/thread/54588356/](https://desuarchive.org/trash/thread/54588356/)&nbsp;&nbsp;&nbsp;&nbsp;(21.02.2023 21:36)&nbsp;&nbsp;[316]
     - 002&nbsp;&nbsp;[desuarchive.org/trash/thread/54491959/](https://desuarchive.org/trash/thread/54491959/)&nbsp;&nbsp;&nbsp;&nbsp;(17.02.2023 18:09)&nbsp;&nbsp;[320]
     - 001&nbsp;&nbsp;[desuarchive.org/trash/thread/54448036/](https://desuarchive.org/trash/thread/54448036/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2023 20:46)&nbsp;&nbsp;[102]
-
-&nbsp;
-->![](https://files.catbox.moe/8az5il.jpg)<-

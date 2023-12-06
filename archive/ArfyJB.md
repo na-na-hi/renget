@@ -1,7 +1,5 @@
 # Modular JB for Claude and GPT4
 ** Update 11/26 - V2 using RODES format to utilize Claude 2.1s addition of System Prompts **
-** Update 11/18 -Modified OAI JB for more RP flavor and filter bypass using META and RegEx **
-** Update 11/6 - Works with GPT4 Turbo 128k (GPT4-1106) **
 
 [TOC]
 

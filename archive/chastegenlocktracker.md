@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 04-Dec-2023)_
+_(Updated 06-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -32,6 +32,6 @@ _(Updated 04-Dec-2023)_
 | McHastex | https://chaster.app/sessions/X6Ucs2NPSLEUKBlR | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
 | LittleEngine | https://chaster.app/sessions/2aUP1HsTfsEC8NWd | === |
-| BunnyFoxx | https://chaster.app/sessions/PpfZ04vXZMRjiWhW | === |
+| BunnyFoxx | https://chaster.app/sessions/ic3q1tNWmWwpQie8 | === |
 |  |  |  |
 |  |  |  |
