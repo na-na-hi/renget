@@ -544,21 +544,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefags:
->Sticky Situation 2 (Umi, Yamata):
-https://rentry.org/2qnet
->The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
-https://rentry.org/the-world-is-yours
->Isekai 3.0?
-https://rentry.org/zuq78
-
-1-C Builds:
->Isabella Nesis
->>91129775
->Okimoto Chisaka
->>91130422
->1-C Seating Chart and Writefag
->>91130426
+>Popsy and Kampai Talk Show Meme Edit Video?
+https://files.catbox.moe/n6fh5b.mp4
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -784,6 +771,8 @@ https://rentry.org/iptpr
 >>90657164
 >Holden Deckard
 >>90913931
+>Brightly
+>>91006966
 
 >VILLAINS (Villain Name):
 >Turncoat Agency:
@@ -1092,6 +1081,12 @@ https://rentry.org/qycta
 https://rentry.org/2qnet
 >The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
 https://rentry.org/the-world-is-yours
+>Isekai 3.0?
+https://rentry.org/zuq78
+>Isekai 3.1.
+https://rentry.org/qd6pk
+>Isekai (Inigo Side Story)
+https://rentry.org/abr3m
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

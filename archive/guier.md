@@ -162,7 +162,7 @@ IAE Freefly Schedule 2023 - https://robertsspaceindustries.com/comm-link/transmi
 **[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)**
 ***
 ***
-##->Star Citizens Gameplay Performance<-
+###->Star Citizens Gameplay Performance<-
 !!! note CIG's new in-house-built ["Gen12 Renderer"](https://www.youtube.com/watch?v=SV9_chUpDgc) has fully replaced CryEngine's legacy rendering engine as of 3.18, and work continues to integrate the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825), and various other optimizations to help improve client performance overall.
 >**[System Recommendations](https://rentry.org/guier/#system-recommendations)
 >[Additional Performance Notes](https://rentry.org/guier/#additional-performance-notes)
@@ -172,7 +172,7 @@ It's a given that, as this project is still undergoing heavy development, there 
 
 Note that the servers themselves are always under constant strain 24/7, so lag, desync and stuttering are very much commonplace. There's also a common misconception that the servers performance affects your games FPS, [this is false](https://files.catbox.moe/eca1vl.png).
 ***
-#####System Recommendations
+####System Recommendations
 !!! danger INSTALLING STAR CITIZEN ON A SSD IS MANDATORY. NO EXCEPTIONS.
 !!! warning Despite 16GB of RAM being the minimum required, **it's heavily recommended** to either upgrade to 32GB of RAM, or set up a pagefile to allocate a certain portion of your SSD to act as system memory for **a much better experience**. Read more about pagefiles [here](https://support.robertsspaceindustries.com/hc/en-us/articles/360000083387-Out-of-memory-errors-set-your-pagefile)
 !!! note [Here](https://www.youtube.com/watch?v=H9zUwbXApbE) is a video on building a PC around Star Citizen.
@@ -185,7 +185,7 @@ Official Resources: | Links:
 ![Reccomendations](https://files.catbox.moe/908lmz.png)
 
 ***
-#####Additional Performance Notes
+####Additional Performance Notes
 
 
 1. Turn off or lower the Volumetric cloud settings to help with the main landing zones bad performance.
@@ -203,7 +203,7 @@ Official Resources: | Links:
 5. It's recommended by CIG to delete the "shaders" folder in "%localappdata%\Star Citizen" and rebuild a fresh one when a new major patch goes live, or if you are having graphical issues. You will have to recompile the shaders for each new location you visit as you play.
 ***
 ***
-#####How to Display Your FPS/Ping
+####How to Display Your FPS/Ping
 Open the game console with the **tilde key** (the key right above TAB), and type `r_displayinfo` followed by the number `1`, `2` or `3` (`0` turns it off). 
 
 Example with `r_displayinfo 1`:
@@ -212,7 +212,7 @@ Example with `r_displayinfo 1`:
 `2` will display session info, and `3` will display additional GPU debugging information. That additional info is useful to have in screenshots when submitting bug reports on the [Issue Council](https://rentry.org/guier/#the-issue-council).
 ***
 ***
-#####The Telemetry
+####The Telemetry
 !!! info This website may take some time loading.
 The live Telemetry tool will provide you with an insight into your PC setup's performance, based on average FPS metrics recorded by tracking tools, allowing you to monitor your in-game experience.
 
@@ -224,7 +224,7 @@ Telemetry Overview | https://support.robertsspaceindustries.com/hc/en-us/article
 
 ***
 ***
-## ->Pledge Store/Grey Market Overview & FAQ(WIP)<-
+### ->Pledge Store/Grey Market Overview & FAQ(WIP)<-
 !!! info FYI "Pledges" refer to everything bought on the website: ships, paints, FPS gear, merchandise, etc.
 >**[What is a Warbond Pledge?](https://rentry.org/guier/#what-is-a-warbond-pledge)**
 >**[Exchange and Buy Ships for Store Credit](https://rentry.org/guier/#exchanging-and-buy-ships-for-store-credit)**
@@ -234,7 +234,7 @@ Telemetry Overview | https://support.robertsspaceindustries.com/hc/en-us/article
 >**[Ship Insurance and Pledge FPS Weapon/Armor](https://rentry.org/guier/#ship-insurance-and-pledge-fps-weaponarmor)**
 >**[Grey Market FAQ(WIP)](https://rentry.org/guier/#grey-market-faqwip)**
 ***
-###->What is a Warbond Pledge?<-
+####->What is a Warbond Pledge?<-
 
 **->[Official Warbond Overview](https://support.robertsspaceindustries.com/hc/en-us/articles/360043504053-What-is-a-Warbond-Pledge)<-**
 
@@ -242,7 +242,7 @@ Warbond pledges are special promotions usually held during a new concept ship or
 
 ->![warbond example](https://files.catbox.moe/motchq.png)<-
 
-###->Exchange and Buy Ships for Store Credit<-
+####->Exchange and Buy Ships for Store Credit<-
 
 ->[**Official Ship Store Credit Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013173287-Spend-Store-Credit)<-
 
@@ -261,14 +261,14 @@ When you want to use your store credit to purchase a pledge, it's as simple as g
 
 
 ->![Using store credit on a pledge](https://files.catbox.moe/bxp34v.png)<-
-###->Buying Back Pledges(WIP)<-
+####->Buying Back Pledges(WIP)<-
 ->[**Official Pledge BuyBack Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013195207-Pledge-Buy-Back-tool)<-
 
-###->Can I Gift Pledges?(WIP)<-
+####->Can I Gift Pledges?(WIP)<-
 !!! danger WIP
 ->[**Official Gifting Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115013325608-Gifting-FAQs)<-
 
-###->What are CCU's?(WIP)<-
+####->What are CCU's?(WIP)<-
 !!! danger WIP
 ->[**Official CCU Overview**](https://support.robertsspaceindustries.com/hc/en-us/articles/115010056848-Ship-Upgrades-CCUs-)<-
 
@@ -284,7 +284,7 @@ If your ship is lost or destroyed during while playing, you can simply reclaim i
 !!! danger Regarding unique FPS weapons/armors purchased from the website (or included in starter packs), there is no current method of getting them back if you die and your corpse is looted or gone. [CIG is currently working on an in-game method for unique item recovery](https://youtu.be/D51OYxWHZaI?t=631), but until then, don't bother.
 
 ->![fps gear](https://files.catbox.moe/w4411y.png)<-
-###The Grey Market(WIP)
+####The Grey Market(WIP)
 !!! danger WIP
 ***
 ***

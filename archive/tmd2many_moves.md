@@ -408,7 +408,7 @@ Retaliate | 7 BP | 8 AP | ≥2 | Normal | Physical | If an Ally was KO'd last ro
 **Return** | 10 BP | 6 AP | ≥2 | Normal | Physical | Each round, the Move's BP is decreased by 2 until 6 BP.
 Revelation Dance | 9 BP | 7 AP | ≥2 | Normal | Special | Changes Type based on the User's Primary Type.
 **Revenge** | 6 BP | 8 AP | ≥2 | Fighting | Physical | If the User was damaged last round, the Move's damage is increased by 6.
-**Reversal** | - | 6 AP | ≥2 | Fighting | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 16 BP.
+**Reversal** | - | 6 AP | ≥2 | Fighting | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 12 BP.
 Rising Voltage | 7 BP | 6 AP | ≥2 | Electric | Special | While in Electric Terrain, BP is increased by 7.
 **Roar of Time** | 15 BP | 8 AP | ≥2 | Dragon | Special | Halts the very motion of time itself. Room-Hitter.
 **Rock Blast** | 1D10 | 6 AP | - | Rock | Physical | Multi-Hit; Roll 1D10.

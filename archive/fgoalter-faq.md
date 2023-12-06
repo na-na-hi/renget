@@ -72,4 +72,7 @@
 > Another Future SQ page: 
 - [FGO Savings](https://www.fgosavings.com/)
 
+> Upcoming Rate Ups by Servant:
+- [Upcoming >Banners by Servant](https://docs.google.com/spreadsheets/d/1rKtRX3WK9ZpbEHhDTy7yGSxYWIav1Hr_KhNM0jWN2wc/edit#gid=1369880713)
+
 -> ![/alter/a](https://files.catbox.moe/ndufj3.png) ->

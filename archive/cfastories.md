@@ -1,10 +1,10 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #42 (Tuesday, 28 November 2023, 19:15 UTC)<-
+->Last updated on thread #43 (Tuesday, 05 December 2023, 18:45 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
-- [/Chic-Fil-A/ Aggie part tri](https://aggie.io/cfatw279pr) (Collaborative drawing canvas.)
+- [/Chic-Fil-A/ Aggie part tri Valhalla edition](https://aggie.io/cfatw279pr) (Collaborative drawing canvas.)
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
@@ -12,8 +12,7 @@
 - [Morgan's Skate Club](https://spacedimsum.itch.io/morgansskateclub) (SpaceDimSum's /HMoFA/ Skate. SINCE V005, AVERI IS HERE, TOO!!!!!)
 - [Minecraft Averi Model](https://github.com/amberlandeveloper/averi-assets) (Open-source Minecraft Averi model.)
 - [Team Fortress 2 Spray](https://files.catbox.moe/4n8abj.zip) (Fukkireta Averi in Source's spray format.)
-- [Team Fortress 2 Level (Workshop)](https://steamcommunity.com/sharedfiles/filedetails/?id=3088346402) (Team Fortress 2 /cfa/ level. Steam workshop link.)
-- [Team Fortress 2 Level (Direct)](https://files.catbox.moe/9mrw39.zip) (Team Fortress 2 /cfa/ level. Catbox link.)
+- [Team Fortress 2 Level](https://steamcommunity.com/sharedfiles/filedetails/?id=3088346402) (Team Fortress 2 /cfa/ level.)
 
 - [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
@@ -382,6 +381,12 @@ its alright, better than the main competition like kfc and popeyes for sure, but
 id put it in between burger king and chickfila, being closer to burger king on the scale. but its way overpriced for what it is
 [![Culver's spicy chicken sandwich: 20230819_144945.jpg / 1692472067106.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1692/47/1692472067106.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1692/47/1692472067106.jpg)
 
+###Domino's
+####61542772 Anonymous: Domino's Mushroom and Onion Pizza
+2 DAY OLD `DOMINOS MUSHROOM AND ONION PIZZA REVIEW:`
+Shit's aight. I like the way domino's seasons their crust, shit's okay and I like it. I ate it cold and it was good except the onions, those were too cold to eat, like they were fucking raw and slimy and they were gross. The mushrooms were fine though, but the cheese and the crust on leftover pizza is always baller.
+[![Domino's Mushroom and Onion Pizza: petesa.jpg / 1701513888820.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1701/51/1701513888820.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1701/51/1701513888820.jpg)
+
 ###Hormel Foods
 ####59416987 Anonymous: Chicken Alfredo
 `Hormel's Compleats Chicken Alfredo Review:`
@@ -481,6 +486,28 @@ It wasn't horrible, and the red beans and rice I ordered on the side was pretty 
 [![Popeyes's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
 
 ###Publix
+####61590196 Anonymous: Publix's Turkey Dinner
+`>PUBLIX TURKEY DINNER REVIEW`:
+If you're from the american south, particularly florida, you probably know Publix sells a good turkey dinner with all the fixes at a decent price. It's no $5 Costco rotisserie, but retailers price gouge this shit during Thanksgiving, so you'll take what you can get.
+
+>TURKEY
+Savory. Juicy as fuck, and you can't mess up cooking it either because it comes with a timer. Turkey isn't hard to digest really, and the gravy will help you out.
+
+>STUFFING
+Savory, that's all l can say. Publix created a freak of nature by making a mostly breadcrumb side dish that wasnt dry as fuck.
+
+>MARSHMALLOW DELIGHT
+This shit is so fucking contriversial I don't understand it. Is it a side dish? A desert? Nobody knows, but the marshmallows are good and the coconut fuckers are of a very off putting texture. Also it's sweet as fuck, very overwhelming. It doesn't come out good either.
+
+>CRANBERRY RELISH
+Sweet taste while eating, tart after taste but it tastes so zesty you can't get enough of it. Fucking brilliant. Unfortunately this one hurts your slul if you eat too much of it.
+
+>CRANBERRY SAUCE (ocean spray)
+Sweet and moist. Shit was like a jellied juice, a bouncy gelitain in a can to be sliced and devoured.
+
+10/10 will do again cause this shit is convenient as fuck.
+[![Publix's Turkey Dinner:  welcome to supper terminal.jpg / 1701669398283.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1701/66/1701669398283.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1701/66/1701669398283.jpg)
+
 ####59988560 Anonymous: Fried Chicken
 `>Publix one day old fried chicken review:`
 

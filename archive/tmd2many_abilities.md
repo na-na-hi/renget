@@ -111,7 +111,7 @@ Grass Pelt | While in Grassy Terrain, the User's Defense is increased by 3.
 Grassy Surge | The User may summon Grassy Terrain once per battle.
 Grim Neigh | If the User lands a finishing blow, their Special Attack is increased by 1.
 Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 instead. The User is immune to Moves and Abilities that would cause them to flee.
-**Gulp Missile** | When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. The User's Basic Attack is replaced with Gulp Missile. 
+**Gulp Missile** | The User's Basic Attack is replaced with Gulp Missile. When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. 
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
 Hadron Engine | At the start of the battle, Miraidon's Special Attack is increased by 1. Miraidon may summon Electric Terrain as a free Action once per battle.
 **Harvest** | If a Berry was used last turn, there is a 50% chance they will find a Berry Leaf, 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.

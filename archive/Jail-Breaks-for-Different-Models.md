@@ -2,7 +2,7 @@
 
 ->If you have a Jail Break you want added to this rentry just tell me and I'll add it here.<-
 
-->==(updated 2023-11-04)==<-
+->==(updated 2023-12-05)==<-
 ***
 [TOC2] 
 ***
@@ -10,6 +10,12 @@
 https://rentry.org/CoT_Jailbreaks
 
 https://rentry.org/vfqow (Character providers new rentry)
+
+https://rentry.org/LurkzyDurkzyBurkzy
+
+https://rentry.co/crustcrunch
+
+https://rentry.org/ArfyJB
 
 
 ***
@@ -20,19 +26,11 @@ https://rentry.org/pitanonbots#claude-rp-prompts
 
 https://rentry.org/fumblebum
 
-https://rentry.org/CoT_Jailbreaks
-
 https://rentry.org/ClaudeJB
 
 https://dumb.one/gpt/prompts/my-tavern-prompts-claude.md
 
-https://rentry.org/ArfyJB
-
-https://rentry.org/LurkzyDurkzyBurkzy
-
 https://rentry.org/myuclyutsu
-
-https://rentry.co/crustcrunchJB
 
 https://rentry.org/lunarfrogs
 
