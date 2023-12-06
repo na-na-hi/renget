@@ -582,6 +582,7 @@
 [Balse Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
 [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
 [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)
+[Blackbean (Balsa Prequel)](https://docs.google.com/document/d/e/2PACX-1vT6-m204WnIpX8yvXmu96udw60iLx99xtdNY0JRj0wrueYndzmx9sGCYeyHdtRUbV9nBOPEEgRddwRi/pub) (Botan, Towa, Fubuki, fantasy)
 
 ##### -> Apple of Her Eye <-
 >Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.

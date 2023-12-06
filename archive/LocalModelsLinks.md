@@ -89,10 +89,9 @@
 |
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
-[Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+|
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
 [OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning with tone color and voice style manipulation
-[CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
@@ -100,16 +99,21 @@
 [Anticipation](https://github.com/jthickstun/anticipation)|Text-to-Music based on anticipatory infilling (MIDI currently)
 [Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
-[lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
-[nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
+|
+[Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
+[LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
+[lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
+[nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
-[Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
-[AgentTuning](https://github.com/THUDM/AgentTuning)|Dataset, tuning strategy, premade weights for generalized Agent models on par with GPT 3.5
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
+|
+[Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
+[PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM) 
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets

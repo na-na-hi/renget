@@ -641,8 +641,8 @@ Here are some of the most popular 3rd party tools that you may find yourself usi
 Description: | Link: 
 ---- | ----
 **Star Citizen Wiki:** | [https://starcitizen.tools](https://starcitizen.tools)
-**General Purpose Website(s) for Trading Logistics, ->-> Ore Locations, Refining Calculator, Commodity Prices, etc:** | [https://sc-trade.tools/home](https://sc-trade.tools/home) ->->https://uexcorp.space/trade
-**Detailed Overview of the Stanton System, ->-> Including Multiple Navigation Methods to every POI**: | https://verseguide.com/
+**General Purpose Websites for Trading Logistics, ->->Refinery Calculator, Commodity Prices, etc:** |  [https://sc-trade.tools/home]( https://sc-trade.tools/home)->->https://uexcorp.space/->->https://www.gallog.co/
+**Detailed Overview of the Stanton System,->-> Including Multiple Navigation Methods to Every POI**: | https://verseguide.com/
 **Universal Item Finder:** | https://finder.cstone.space/
 **Ship Loadout/DPS Calculator**: | https://www.erkul.games/
 

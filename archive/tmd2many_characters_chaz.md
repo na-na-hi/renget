@@ -11,7 +11,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 9 | **Experience to Next Level:** 15/90
+**Level:** 9 | **Experience to Next Level:** 55/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 110₽ | **Glorious Gold:** 0 Bars
 

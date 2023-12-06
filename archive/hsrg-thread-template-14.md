@@ -16,23 +16,11 @@ https://www.youtube.com/watch?v=qVY5qmQVrMo
 https://www.youtube.com/watch?v=PhqU5X_sMPA
 https://www.youtube.com/watch?v=i6kCF9tZDkg
 
-\>Huohuo Trailer — "Night of Thrills" 
-https://www.youtube.com/watch?v=ZK8qfeSOUv4
-https://www.youtube.com/watch?v=FOVHylL_zW8
+\>Current Character Event Banners: "Thorns of Scented Crown", "Contract Zero" (Argenti, Silver Wolf + Hanya, Lynx, Asta)
+https://www.hoyolab.com/article/23404231
 
-\>Myriad Celestia Trailer — "An Exorcism at Fyxestroll Garden"
-https://www.youtube.com/watch?v=ysyo7uNTvfs
-https://www.youtube.com/watch?v=bMqzzG9CXq0
-
-\>A Moment Among the Stars — "H-Hello, I'm Huohuo." 
-https://www.youtube.com/watch?v=ZahX2evhmcI
-https://www.youtube.com/watch?v=iXQ9xdgiP78
-
-\>Current Character Banner (Bloom in Gloom || Huohuo (Abundance: Wind) + Dan Heng, Arlan, Serval)
-https://www.hoyolab.com/article/22976557
-
-\>Current Light Cone Banner (Brilliant Fixation || Night of Fright (Abundance))
-https://www.hoyolab.com/article/22976611
+\>Current Light Cone Event Banners: (Brilliant Fixation, Bygone Reminiscence || An Instant Before A Gaze (Erudition), Incessant Rain (Nihility))
+https://www.hoyolab.com/article/23404282
 
 \>New Drip Marketing:
 \>"Extraterrestrial Satellite Communication" Ruan Mei (5\* Ice Harmony)
@@ -47,6 +35,7 @@ https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e20230330154031
 
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift
+9TRB7C2LDQBP (NEW)
 5S9BND25CRBK 
 US9SND24U8FB
 JT8BPUJMURUP

@@ -12,8 +12,8 @@
 - 659&nbsp;&nbsp;[archiveofsins.com/h/thread/7690835/](https://archiveofsins.com/h/thread/7690835/)&nbsp;&nbsp;&nbsp;&nbsp;(03.12.2023 23:29)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Rest in archives edition
 - 658&nbsp;&nbsp;[archiveofsins.com/h/thread/7679548/](https://archiveofsins.com/h/thread/7679548/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 10:49)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Lazy people are lazy edition
 - 657&nbsp;&nbsp;[archiveofsins.com/h/thread/7679533/](https://archiveofsins.com/h/thread/7679533/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 10:43)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Lazy people are lazy edition
-- 656&nbsp;&nbsp;[archiveofsins.com/h/thread/7679196/](https://archiveofsins.com/h/thread/7679196/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 07:20)&nbsp;&nbsp;[899]&nbsp;#&nbsp;GREG TIME Edition!
-- 655&nbsp;&nbsp;[archiveofsins.com/h/thread/7673892/](https://archiveofsins.com/h/thread/7673892/)&nbsp;&nbsp;&nbsp;&nbsp;(25.11.2023 14:11)&nbsp;&nbsp;[860]&nbsp;#&nbsp;Why the fuck it's set to roastie by default? Edition!
+- 656&nbsp;&nbsp;[archiveofsins.com/h/thread/7679196/](https://archiveofsins.com/h/thread/7679196/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 07:20)&nbsp;&nbsp;[898]&nbsp;#&nbsp;GREG TIME Edition!
+- 655&nbsp;&nbsp;[archiveofsins.com/h/thread/7673892/](https://archiveofsins.com/h/thread/7673892/)&nbsp;&nbsp;&nbsp;&nbsp;(25.11.2023 14:11)&nbsp;&nbsp;[859]&nbsp;#&nbsp;Why the fuck it's set to roastie by default? Edition!
 - 654&nbsp;&nbsp;[archiveofsins.com/h/thread/7667911/](https://archiveofsins.com/h/thread/7667911/)&nbsp;&nbsp;&nbsp;&nbsp;(22.11.2023 04:00)&nbsp;&nbsp;[852]&nbsp;#&nbsp;Chika Host of The Nightmare Edition
 - 653&nbsp;&nbsp;[archiveofsins.com/h/thread/7661373/](https://archiveofsins.com/h/thread/7661373/)&nbsp;&nbsp;&nbsp;&nbsp;(18.11.2023 09:18)&nbsp;&nbsp;[881]&nbsp;#&nbsp;Losers Edition!
 - 652&nbsp;&nbsp;[archiveofsins.com/h/thread/7654970/](https://archiveofsins.com/h/thread/7654970/)&nbsp;&nbsp;&nbsp;&nbsp;(13.11.2023 17:03)&nbsp;&nbsp;[1027]&nbsp;#&nbsp;It's Pizza Time! Edition
@@ -728,3 +728,6 @@
     - 003&nbsp;&nbsp;[desuarchive.org/trash/thread/54588356/](https://desuarchive.org/trash/thread/54588356/)&nbsp;&nbsp;&nbsp;&nbsp;(21.02.2023 21:36)&nbsp;&nbsp;[316]
     - 002&nbsp;&nbsp;[desuarchive.org/trash/thread/54491959/](https://desuarchive.org/trash/thread/54491959/)&nbsp;&nbsp;&nbsp;&nbsp;(17.02.2023 18:09)&nbsp;&nbsp;[320]
     - 001&nbsp;&nbsp;[desuarchive.org/trash/thread/54448036/](https://desuarchive.org/trash/thread/54448036/)&nbsp;&nbsp;&nbsp;&nbsp;(15.02.2023 20:46)&nbsp;&nbsp;[102]
+
+&nbsp;
+->![](https://files.catbox.moe/8az5il.jpg)<-

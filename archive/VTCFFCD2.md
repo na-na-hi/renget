@@ -33,3 +33,6 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [A Cozy Evening in the Fox Hole](https://rentry.org/w5esx2) (Fubuki, NSFW)
 [Hawk's Wedgie Perch](https://rentry.org/tizvp) (Lui, NSFW, Wedgie Fetish, Greentext)
 [Kiara Sits On Your Face](https://rentry.org/fze77) (Kiara, NSFW, Femdom, Smell Fetish)
+[The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, NSFW, under 5k)
+[Holoslavia: Operation Nimrod Ch. 1](https://docs.google.com/document/d/e/2PACX-1vTDXSmvz1NfRgQ1asHrUxUp3XmPww4ze5AYuwaM6qUDR8_RPPtqy0edkYzDf3ltPbYbwzGWLU5yacDG/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes)
+[Holoslavia: Operation Nimrod Ch. 2](https://docs.google.com/document/d/e/2PACX-1vTywI7eVAG2hdFDcAZ40237lOglgWk4S901B5fKV_DVbfDXxhnAtg2SLuTXw7WN67t4VOK3Fsq76YJe/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes) ^

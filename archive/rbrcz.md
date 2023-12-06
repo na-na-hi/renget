@@ -2,7 +2,7 @@
 !!! note Updated as of Patch 3.21.1
 ***
 !!! note If you are new to star citizen, check out this [Introduction & Overview](https://rentry.org/guier/) on the game
-!!! note I'm active on the /vm/ thread, so feel free to point out useful resources you wish to be added here or if something is outdated, links are broken, or wrong.
+!!! note I'm active on the /vm/ thread, so feel free to point out useful resources you think should be added here, or if something is outdated or the links are broken.
 !!! warning Shop data is no longer available in the games files as of 3.20, so websites like https://finder.cstone.space/, https://uexcorp.space/, and https://www.erkul.games/ (dps calculator works fine) have to resort to manually updating it themselves for the time being. Expect outdated pricing information from these websites going forward early after a patch drops.
 # -> Categories <-
 ***
@@ -45,9 +45,10 @@ Name: | Links:
 Description: | Links:
 ----- | ----
 **Wiki:** | [https://starcitizen.tools/](https://starcitizen.tools/)
-**General Purpose Website(s) for Trading Logistics, Ore Locations, Refining Calculator, Commodity Prices, etc:** |  [https://sc-trade.tools/home]( https://sc-trade.tools/home)    ->-> https://uexcorp.space/ ->-> https://fleetyards.net/
-**Detailed Overview of the Stanton System, Including Multiple Navigation Methods to POI:** | https://verseguide.com/ (Very Detailed)  ->-> https://www.odysseyinterstellar.org/odyssey/planets 
+**General Purpose Website(s) for Trading Logistics, Refining Calculator, Commodity Prices, etc:** |  [https://sc-trade.tools/home]( https://sc-trade.tools/home)->-> https://uexcorp.space/->-> https://www.gallog.co/
+**Useful Star Citizen Overview Website** | https://fleetyards.net/
 **Universal Item Finder:** | https://finder.cstone.space/
+**Overview of the Stanton System, Including Multiple Navigation Methods to every POI:** | https://verseguide.com/ (Very Detailed)  ->-> https://www.odysseyinterstellar.org/odyssey/planets 
 **Comprehensive List of Every Ship, Ground Vehicle, Components, FPS Weapons and Their Stats:** | https://tanx0r.org/
 **Armory Builder (Armor Locations, Price and Drop Rates):** | https://armory.thespacecoder.space
 **Extensive FPS Weapon Data Spreadsheet (Calculating Tool Locked Behind a 2€ Paywall):** |https://docs.google.com/spreadsheets/d/1geR2tkbnyxxiF2d_1ufaTY_Sot2ghVYPeBHCPyjxhGU/

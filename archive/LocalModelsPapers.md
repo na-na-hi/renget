@@ -240,6 +240,8 @@
 12/2023|[Making Large Multimodal Models Understand Arbitrary Visual Prompts (ViP-LLaVA)](https://arxiv.org/abs/2312.00784)
 12/2023|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 12/2023|[OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
+12/2023|[Sequential Modeling Enables Scalable Learning for Large Vision Models (LVM)](https://arxiv.org/abs/2312.00785)
+12/2023|[Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -447,6 +449,7 @@
 11/2023|[Token Recycling for Efficient Sequential Inference with Vision Transformers](https://arxiv.org/abs/2311.15335)
 11/2023|[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442)
 12/2023|[GIFT: Generative Interpretable Fine-Tuning Transformers](https://arxiv.org/abs/2312.00700)
+12/2023|[PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models](https://arxiv.org/abs/2312.02429)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

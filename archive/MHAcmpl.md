@@ -624,6 +624,7 @@ Sandatsu: https://desuarchive.org/tg/post/91082769/
 sandatsu origin: https://desuarchive.org/tg/post/91092900/
 Stage team: https://desuarchive.org/tg/thread/91101836/#91107742
 Updated Clique Relationship Chart + Moodboard: https://desuarchive.org/tg/post/91118077/
+Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -967,6 +968,7 @@ Isekai 3.0?: https://rentry.org/zuq78
 1-C Seating Chart and Writefag: https://desuarchive.org/tg/thread/91122683/#91130426
 Isekai 3.1: https://rentry.org/qd6pk
 Isekai (Inigo Side Story): https://rentry.org/abr3m
+https://rentry.org/reaper-rising: (Reaper, Drekus, Overdose) 
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

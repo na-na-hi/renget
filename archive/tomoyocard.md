@@ -4,9 +4,9 @@
 
 ### What's in the card?
 
-| [catbox](https://files.catbox.moe/nveb9d.png) |   |
+| [catbox](https://files.catbox.moe/967tv5.png) - [chub](https://www.chub.ai/characters/tomoyo/tomoyo-zero-setup-turbo-compatible-vn-0dca4eb1 ) |   |
 | --- | --- |
-| [![](https://files.catbox.moe/nveb9d.png)](https://files.catbox.moe/nveb9d.png) | *Your sister's cute friend, a lover of all things nostalgic, invites you to hang out in town.*  -> ->   -> -> 0 setup required.  -> ->   -> -> 7 expressions, 4 outfits.  -> ->   -> ->  32 backgrounds from the PC-98 games [Kakyuusei](https://exhentai.org/g/632654/4d4a894de2/), [Doukyuusei](https://exhentai.org/g/550911/3d1e461062/), [Doukyuusei 2](https://exhentai.org/g/632397/e7331dcbd8/), [Marine Rouge](https://e-hentai.org/g/567044/43a421711f/), [YU-NO](https://e-hentai.org/g/2004416/1462b58c93/), [Tsumo Baka Nisshi](https://e-hentai.org/g/552408/8b945f5fd7/).   -> ->   -> ->  32 Future Funk and Vaporwave music tracks.  -> ->   -> -> **Works on Silly/Risu/Agnai, Turbo, Claude and GPT4!** If the background is wrong or it forgot the audio tag on background change, regen. If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (or increase max tokens if it cuts off randomly). |
+| [![](https://files.catbox.moe/967tv5.png)](https://files.catbox.moe/967tv5.png) | *Your sister's cute friend, a lover of all things nostalgic, invites you to hang out in town.*  -> ->   -> -> 0 setup required.  -> ->   -> -> 7 expressions, 4 outfits.  -> ->   -> ->  32 backgrounds from the PC-98 games [Kakyuusei](https://exhentai.org/g/632654/4d4a894de2/), [Doukyuusei](https://exhentai.org/g/550911/3d1e461062/), [Doukyuusei 2](https://exhentai.org/g/632397/e7331dcbd8/), [Marine Rouge](https://e-hentai.org/g/567044/43a421711f/), [YU-NO](https://e-hentai.org/g/2004416/1462b58c93/), [Tsumo Baka Nisshi](https://e-hentai.org/g/552408/8b945f5fd7/).   -> ->   -> ->  32 Future Funk and Vaporwave music tracks.  -> ->   -> -> **Works on all frontends, Turbo, Claude and GPT4!** If the background is wrong or it forgot the audio tag on background change, regen. If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (or increase max tokens if it cuts off randomly). |
 
 ##### Examples
 
@@ -16,11 +16,9 @@
 
 ### Tips / Common issues
 
-- If the background is wrong or it forgot the audio tag on background change, regen.
+- If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (**or increase max tokens to 500 if it cuts off randomly**).
 
-- If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (or increase max tokens if it cuts off randomly).
-
-- If you're having trouble doing NSFW on OpenAI, try switching to the 0301 snapshots of Turbo/GPT4, or try moving `{{original}}` from the top of the card jailbreak to the bottom. I recommend a temperature of 0.7, and rep/freq penalties of 0.2.
+- If you're having trouble doing NSFW on OpenAI, try switching to the 0301 snapshots of Turbo/GPT4.
 
 - The card uses HTML to hide all background/sprites except for the last one. If you don't like this behavior, remove the `<style>` tag from the greeting. This is also useful to take screenshots.
   - If you load a long, existing chat, you'll need to either scroll up to the greeting to re-enable the image hiding or copypaste the style tag into a recent message.

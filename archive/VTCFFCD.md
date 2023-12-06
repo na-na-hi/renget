@@ -2,13 +2,13 @@
 
 ->![Funny](https://files.catbox.moe/h7lymb.png)<-
 
-## ->❄️[Recently added to the archive: 11/28/2023](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 12/06/2023](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
-->[Meat is Murder](https://rentry.org/t9nz5c) (Mumei, Fauna, SFW, Chuuba Abuse, Forced Cannibalism)
-[A Cozy Evening in the Fox Hole](https://rentry.org/w5esx2) (Fubuki, NSFW)
-[Hawk's Wedgie Perch](https://rentry.org/tizvp) (Lui, NSFW, Wedgie Fetish, Greentext)
-[Kiara Sits On Your Face](https://rentry.org/fze77) (Kiara, NSFW, Femdom, Smell Fetish)<-
+->(***Series entry!***) [Blackbean (Balsa Prequel)](https://docs.google.com/document/d/e/2PACX-1vT6-m204WnIpX8yvXmu96udw60iLx99xtdNY0JRj0wrueYndzmx9sGCYeyHdtRUbV9nBOPEEgRddwRi/pub) (Botan, Towa, Fubuki, fantasy)
+[The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, NSFW, under 5k)
+[Holoslavia: Operation Nimrod Ch. 1](https://docs.google.com/document/d/e/2PACX-1vTDXSmvz1NfRgQ1asHrUxUp3XmPww4ze5AYuwaM6qUDR8_RPPtqy0edkYzDf3ltPbYbwzGWLU5yacDG/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes)
+[Holoslavia: Operation Nimrod Ch. 2](https://docs.google.com/document/d/e/2PACX-1vTywI7eVAG2hdFDcAZ40237lOglgWk4S901B5fKV_DVbfDXxhnAtg2SLuTXw7WN67t4VOK3Fsq76YJe/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes) ^<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1198,7 +1198,6 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Like We Never Knew Eachother](https://rentry.org/3qzbd) (Nanashi Mumei, SFW, Childhood Friend, Bittersweet)
 [Aqua's Order](https://rentry.co/rhyrp) (Aqua, SFW, Greentext, Comedy)
 [Carbon Monoxide Poisoning](https://docs.google.com/document/d/e/2PACX-1vQ3khMmKPiypOpldB17ZTQmBX_P07Q7vanyD4rEpeD1bJN2KkqEVNurYxDPNsKAk02iT7-ck1j7Xin7/pub) (Bae, SFW)
-[Holoslavia: Operation Nimrod - I](https://docs.google.com/document/d/e/2PACX-1vTVqSKG5pBisIRCo8fty-nQVReosQH5dTMFYj0KzC4VfYZUbepRl5piNiz-MiXOI9jDCO4fTWrN80ph/pub) (Subaru, Suisei, Korone, Botan, Hololive, NSFW, Comedy, Action, Drama, War Crimes)
 [The Scent of Lavender](https://rentry.org/TSoL) (Suisei, NSFW, Smell Fetish, Underwear Sniffing)
 [Suisei wants to marry (You)](https://docs.google.com/document/d/e/2PACX-1vQYwlo61wpj6qvYqt-pCZ61h9_prD3yenPz2FLEIwIkFY4ZjCG8L3n3qTNBbcDa4CwPTVn-cEnG65RT/pub) (Suisei, SFW)
 [Untitled /wawa/ hornyfic](https://rentry.co/oadmm) (Kiara, NSFW, Short)
