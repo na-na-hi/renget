@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 9 | **Experience to Next Level:** 35/90
+**Level:** 9 | **Experience to Next Level:** 75/90
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 505₽ | **Glorious Gold:** 0 Bars
 

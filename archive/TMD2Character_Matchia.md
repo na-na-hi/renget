@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 9 | **Experience to Next Level:** 45/90
+**Level:** 9 | **Experience to Next Level:** 85/90
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 478 ₽ | **Glorious Gold:** 0 Bars
 
@@ -72,7 +72,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Defense Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Defense Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 5/9 | ▮▮▮▮▮▯▯▯▯
 Stat: Defense **ɪ** | Tier **ɪ** (+1 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

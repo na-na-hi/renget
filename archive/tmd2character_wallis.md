@@ -1,5 +1,5 @@
 ->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters)**<-
-![Wallis](https://media.discordapp.net/attachments/396824776762720266/1148728490254946384/Wallis_Debut.png) 
+![](https://media.discordapp.net/attachments/396824776762720266/1148728490254946384/Wallis_Debut.png) 
 
 ### Wallis ♀ ☆
 Wallis struggled to understand pokemon during her time as a human, yet she finds herself stuck in a world with nothing else but pokemon.
@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 9 | **Experience to Next Level:** 50/90
+**Level:** 10 | **Experience to Next Level:** 0/100
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 545₽ | **Glorious Gold:** 0 Bars
 
@@ -39,18 +39,18 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Surf | 4BP | 6AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
-Mud Shot | 5BP | 6AP | ≥2 | Ground | Special | The next round, the Opponent's Speed is decreased by 1.
-Rock Throw | 5BP | 5AP | ≥3 | Rock | Physical | No secondary effect.
-Wide Guard | - | 4AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
-Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Surf | 4BP | 6AP | ≥2 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png) | ![](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The User can surf over certain distances. Room-Hitter.
+Mud Shot | 5BP | 6AP | ≥2 | ![](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The next round, the Opponent's Speed is decreased by 1.
+Rock Throw | 5BP | 5AP | ≥3 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png) | ![](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
+Wide Guard | - | 4AP | - | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png) | ![](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
+Basic Attack | 4BP | 4AP | ≥2 | ![](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
 Earthquake | Opponent using Dig; The Move's damage is increased by 5. Room-Hitter; Damages Allies.
-Rock Smash | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.

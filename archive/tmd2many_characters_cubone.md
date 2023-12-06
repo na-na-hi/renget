@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Associate | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Unknown Tribe | **Favorite Color:** Unknown
-**Level:** 6 | **Experience to Next Level:** 25/60 | **Alignment:** Marrow Tribe
+**Level:** 7 | **Experience to Next Level:** 5/70 | **Alignment:** Marrow Tribe
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -61,7 +61,7 @@ Move | Base Power | Action Points | Accuracy | Type | Property | Description
 Mud-Slap | 2 BP | 4 AP | ≥2 | ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The target's Accuracy is decreased by 1.
 Tail Whip | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Defense is decreased by 1. The User may select additional targets to have their Defense decreased by 1 at the cost of 2 AP each.
 Growl | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Attack is decreased by 1. The User may select additional targets to have their Attack decreased by 1 at the cost of 2 AP each.
-None | - | - | - | - | - | N/A
+Bone Club | 7 BP | 6 AP | ≥2 |  ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | 19-20; The Opponent Flinches... don't you actually need a club to use this?
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/vNDknMKWjUwXKAQTdTrKcYSk) | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***

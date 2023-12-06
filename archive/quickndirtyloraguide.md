@@ -18,7 +18,7 @@ to install the Prodigy Optimizer (like  DAdadaption before it, it regulates the 
 	$base_res: Leave at 640 for most modern models; if you train on base SD 1.5 or other smaller res models, change back to 512
 	$batch_size: The higher you can go, the faster you train. Depends on your available VRAM, I have 8 GB and 2 is my limit when training with size 2.
 	$net_dim: The higher you set it, the larger the resulting LoRA file will be. For characters, lower dim of 8 or 16 should be enough, for styles go higher (or so I've heard)
-	$optimizer: Leave as Prodigy unless you want to experiment with the others. The default should be AdamW8bit
+	$optimizer: Leave as Prodigy unless you want to experiment with the others. The default should be AdamW8bit. As stated on the sd-scripts installation page, you will need to install bitsandbytes for 8bit optimizers when using Windows, check the related section.
 	$enable_vpred: Ignore, does not work. The relevant values have been manually added. If you want to train on non-vpred models, make sure to remove the following arguments from further below in the script:
 		    --v_parameterization
 			--zero_terminal_snr

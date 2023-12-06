@@ -68,7 +68,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 1/9 | ▮▯▯▯▯▯▯▯▯
+Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

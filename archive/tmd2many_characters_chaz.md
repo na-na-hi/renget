@@ -35,7 +35,7 @@ Speed | 3 |  +2AP | 6AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-ROCK SMASH | 4BP | 6AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+ROCK SMASH | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
 Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Endure | 0BP | 4AP | ≥2 | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
 Fling | ØBP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; Damage varies. Effect varies.

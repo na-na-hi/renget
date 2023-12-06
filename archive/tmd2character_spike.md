@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 9 | **Experience to Next Level:** 25/90
+**Level:** 9 | **Experience to Next Level:** 65/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
 

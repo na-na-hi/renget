@@ -60,6 +60,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Former CFIUS Security guys house raided, explodes, gets announced dead, socials scrubbed, he goes online to keep posting
 * Investigations committee cant see any footage along the Gaza wall from Hamas attack, because cameras somehow disappeared
 * New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
 * Chicago police report a 11,000% increase in arrests since 2021 of Venezuelan migrants (2,500% increase since 2022)

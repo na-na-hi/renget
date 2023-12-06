@@ -1,4 +1,4 @@
-![TheBirbIsSlightlyDeterminedIdkLol](https://media.discordapp.net/attachments/663876575757860914/1157600065007931412/Portrait.png?ex=65193292&is=6517e112&hm=ba1df1168f428375fb27a7f4dd1180bb54d550c57c8fe39be0e03da4e35dfda0&=) 
+![TheBirbHasRealJordans](https://media.discordapp.net/attachments/1179923625265090610/1180253612736266340/image.png?ex=657cbfd5&is=656a4ad5&hm=63a961164c36807276fa95f8b80378758d8841abf91ccb1713c27635de35d4e2&=&format=webp&quality=lossless&width=520&height=671) 
 
 ###Angus ♂
 This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real, it seems," I muttered.
@@ -6,7 +6,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 55/80
+**Level:** 9 | **Experience to Next Level:** 15/90
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
 **Pokécoin:** 50₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
 
@@ -20,7 +20,7 @@ Pokémon's Ability | Description
 
 Stat | Points: 2 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 20HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation

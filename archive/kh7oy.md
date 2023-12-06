@@ -18,7 +18,7 @@ Future Release Dates:
 
 Current News Links:
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
-https://www.youtube.com/watch?v=9rR1eLi2Fks
+https://www.youtube.com/watch?v=OY_v1w9ALC8
 https://dtimes.jp/post-512278/
 「!」Concept art of a hypothetical "Walpeach" have been revealed by Waluigi's creator, designed during the GCN era
 https://www.instagram.com/p/C0TpKyDSfOy/

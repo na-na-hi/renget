@@ -965,6 +965,8 @@ Sticky Situation 2 (Umi, Yamata): https://rentry.org/2qnet
 The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose): https://rentry.org/the-world-is-yours
 Isekai 3.0?: https://rentry.org/zuq78
 1-C Seating Chart and Writefag: https://desuarchive.org/tg/thread/91122683/#91130426
+Isekai 3.1: https://rentry.org/qd6pk
+Isekai (Inigo Side Story): https://rentry.org/abr3m
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

@@ -50,7 +50,7 @@ Description: | Links:
 **Universal Item Finder:** | https://finder.cstone.space/
 **Comprehensive List of Every Ship, Ground Vehicle, Components, FPS Weapons and Their Stats:** | https://tanx0r.org/
 **Armory Builder (Armor Locations, Price and Drop Rates):** | https://armory.thespacecoder.space
-**Extensive FPS Weapon Data Spreadsheet (Calculating Tools Locked Behind a 2€ Paywall):** | https://docs.google.com/spreadsheets/d/1yywS-sqVXvoWr9kfKP_QBoqJV1xUavR3M9xhdwA-2yo/edit#gid=46886580
+**Extensive FPS Weapon Data Spreadsheet (Calculating Tool Locked Behind a 2€ Paywall):** |https://docs.google.com/spreadsheets/d/1geR2tkbnyxxiF2d_1ufaTY_Sot2ghVYPeBHCPyjxhGU/
 **CCU Game/Funding Visualizer:** | https://ccugame.app/
 **Detailed Progress Tracker:** | https://shinytracker.app/
 **Unofficial Roadmap to Dynamic Server Meshing:** | https://sc-server-meshing.info/ ->-> https://sc-server-meshing.info/wiki (Mobile Friendly)

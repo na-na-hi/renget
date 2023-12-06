@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 8 | **Experience to Next Level:** 45/80
+**Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 28₽ | **Glorious Gold:** 0 Bars
 
@@ -22,7 +22,7 @@ Contrary | The User's Stat increases and Stat decreases are swapped.
 
 Stat | Points: 2 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 |  Level 5 (20HP) | 20HP
+Health Points | 0 |  Level 9 (21HP) | 21HP
 Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Attack Training Tier **ɪ** | +2 Physical Mitigation
