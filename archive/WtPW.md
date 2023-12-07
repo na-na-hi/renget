@@ -77,7 +77,7 @@ The exploration yesterday, it went okay, I think. I know how a Mystery Dungeon w
 
 Later today, I'm assigned with Gus again and two new guys, Chespin and Wooper. I remembered Chespin because at the library there's a section labeled "Adventure Logs", which tells the story of the members of the guild. I saw that he published a lot of his adventures, the most out of everyone! 
 
-Last night, I woke up and went to the toilet. It's a bit dark to see, but I can manage to find where to go. On my way back, however, I saw a figure, red eyes with yellow sclera staring back at me. I can't make out who they are, but I can hear their voice clearly: "The Red one has entered the board; the game shall commence." I still can't understand what that means, but it does make me feel uneasy, also, they—
+Last night, I woke up and went to the toilet. It's a bit dark to see, but I can manage to find where to go. On my way back, however, I saw a figure, red eyes with yellow sclera staring back at me. I can't make out who they are, but I can hear their voice clearly: "The Red one has entered the board; the game shall commence." I still can't understand what that means, but it does make me feel uneasy, also, they 
 
 "Dahlia!" KFC suddenly calls out my name, "Guildmaster wants to see you."
 "Huh?" I quickly hid my diary inside my pillow and went to Lliam's office. 
@@ -124,4 +124,4 @@ What on earth is this guy... "Th-thank you so much, G-guildmaster Lliam. I'll be
 
 I look at Lliam, and he looks dead serious. "...Huh?"
 
-**Chapter 1 End**
+[Chapter 1 End]

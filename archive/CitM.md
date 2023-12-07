@@ -2,7 +2,7 @@ Clash in the Mind
 A Clover Guild Story
 By Meowstic-anon
 
-It's a peaceful, quiet afternoon in the Guildhall. At this time, most of the members of the guild are off to do their daily job requests from the Job Bulletin Board. A beautiful orange light from outside shines through the windows and illuminates the entire library. On one of the tables, Macom the Guild's Mareep Researcher, is minding himself as he reads through the report from his adventures with the Guildmaster and others at Crystal Cave a while ago. 
+It's a peaceful, quiet afternoon in the Guildhall. At this time, most of the members of the guild are off to do their daily job requests from the Job Bulletin Board. A beautiful orange light from outside shines through the windows and illuminates the entire library. On one of the tables, Macom the Guild's Mareep Researcher, is minding himself as he reads through the report from his adventures with the Guildmaster and others at Crystal Cave a few days ago. 
 
 Aside from Macom, four other Pokemon were in the library. One of them is Booker, the Ribombee. He's taking a nap in a bowl filled with cotton after his usual job requests with his partner, Sneasel. Speaking of which, she's behind Charm's shoulders as they read through a book that they randomly selected from the shelf. Natu, on the other hand, is quietly staring at the door for some reason, and it has already been a couple minutes since!
 

@@ -357,6 +357,10 @@ Sylas | Info
 ![](https://files.catbox.moe/19zr6y.png)   | A curious plague has begun creeping through the town Sylas Blackwell calls home. Being the upstanding doctor that he is, he's taken it upon himself to search for the cure and possibly squabble with some priests in the process. Comes with three greetings: Sylas requesting your help for research, spousal POV in which you've caught the plague, and a religious POV where the church has asked you to get his help.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sylas-cb30e0f9),  [Catbox](https://files.catbox.moe/dkvv8u.png)
 
+The Scrap King | Info
+:----:  | :----: 
+![](https://files.catbox.moe/uf3rwf.png)   | In the distant future where most of humanity has perished, a lone robot boy struggles to build a safehaven for humans that he can protect with his own two hands. He doesn't remember his name, but wanderers have taken to calling him "The Scrap King". Comes with three greetings for human personas, android personas, and one neutral one where you're already working together. Loosely inspired by [The Trash-Heap Princess and Apostrophe](https://www.youtube.com/watch?v=Dp1SQgc6X98)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/the-scrap-king-7bee340),  [Catbox](https://files.catbox.moe/j2qtyh.png)
 
 Shameful Codespawn | Info
 :----:  | :----: 

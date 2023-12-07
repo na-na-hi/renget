@@ -50,6 +50,7 @@ Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???]
 Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
 Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
+Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -208,6 +209,8 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) **Non-Canon (Draft) Story**
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
     * [Anxiety (ft. Gus) [Temp title]](https://rentry.org/mgeaa) **In-Dev Early Draft Story**
+* Hans the Dragonair
+	* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -533,6 +536,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Christmas Special (ft. Debby)](https://rentry.org/pmdgcs)
 * [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 * [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
+* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

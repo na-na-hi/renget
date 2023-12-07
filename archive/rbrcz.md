@@ -64,8 +64,8 @@ Description: | Links:
 Description: | Links:
 ---- | ----
 **Mining Wiki:** | [https://starcitizen.tools/Guide:Mining](https://starcitizen.tools/Guide:Mining)
+**Dedicated Mining Resources Website:** | https://regolith.rocks/
 **Mining Cheat Sheets:** | https://redmonstergaming.com/mining-cheat-sheets/
-**Comprehensive Mining Update Spreadsheet Post 3.19:** | https://docs.google.com/spreadsheets/d/1venWXTClRnybgDc9Q86EvsKijVSHwZS7GJM0Roe3JP4/edit#gid=1054304570
 **Aaron Halo Route Planner:** | https://cstone.space/resources/knowledge-base/36-refinery-to-aaron-halo-mining-routes
 
 ***

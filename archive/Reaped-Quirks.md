@@ -12,10 +12,10 @@ Healing Quirk
 -Rejuvenation
 -Stockpile
 -Self service
--Fast
+-Fast  (XP)
 -8 Points of Quirk Refinement
 
- 25 Points
+17 Points
 
 !!!note
 	**Quirk:「Branching Grasp」**
@@ -30,7 +30,7 @@ Body Manipulation Quirk
 -Concentration
 -Quantity
 
-15 Points
+10 Points
 
 
 !!! note
@@ -42,14 +42,14 @@ Body Manipulation Quirk
 
 Brainwashing Quirk
 -Touch
--Long
+-Long (XP)
 -Possessed
--Detailed
+-Detailed (XP)
 -Unlimited
 -Hivemind
 -4 Points of Quirk Refinement
 
-27 Points
+19 Points
 
 !!! note
 	**Quirk:「Separate」**
@@ -62,11 +62,11 @@ Object Manipulation Quirk
 -True Psychokinesis
 -Quality (Structural integrity)
 -Permanent
--Large
+-Large (XP)
 -Tactile
 -4 Points of Quirk Refinement
 
-18 Points
+14 Points
 
 !!! note「Separate」 can't be applied with arms  from 「Branching Grasp」
 
@@ -82,10 +82,10 @@ Projection Quirk
 -Large
 -Full
 -Materialization
--Shape
+-Shape (XP)
 -1 Point of Quirk Refinement
 
-18 Points
+8 Points
 
 
 !!!note
@@ -103,7 +103,7 @@ Body Enhancement Quirk
 -Stockpile
 -1 Point of Quirk Refinement
 
-13 Points
+14 Points
 
 !!!note
 	**Quirk:「Bloodthirst」**
@@ -119,7 +119,7 @@ Body Enhancement Quirk
 -Emotion
 -Stockpile
 
-11 Points
+12 Points
 
 !!! note
 	**Quirk:「Psychokinesis」**
@@ -131,11 +131,11 @@ Object Manipulation Quirk
 -True Psychokinesis (Can move any matter with your mind) - 2000kg
 -Function: Movement
 -Duration: Concentration
--Quantity: Large
--Range: Long
--Extra: Weight Limit x2
+-Quantity: Large (XP)
+-Range: Long (XP)
+-Extra: Weight Limit x2 (XP)
 
-21 Points
+11 Points
 
 !!! note
 
@@ -149,9 +149,9 @@ Type: Emitter/Transformation
 Function: Rejuvenation
 Method: Stockpile
 Range: Short
-Speed: Fast
+Speed: Fast (XP)
 
-18 Points
+13 Points
 
 -Construct
 -Type: Emitter
@@ -160,10 +160,10 @@ Speed: Fast
 -Control: Complete
 -Duration: Complete
 -Size: Medium
--Range: Medium
+-Range: Medium (XP)
 -Extras: Feedback
 
-11 Points
+9 Points
 
 
 !!! note

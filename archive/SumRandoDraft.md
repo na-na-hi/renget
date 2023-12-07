@@ -26,5 +26,3 @@ This section might/ought be removed because it's a bit "too much" and heavily fo
 If previous section gets removed, this one will be linked to the "agree to disagree" part. 
 * Then lastly, he asks why the door at the lower basement is locked then Lliam reveals it's an underground pond with cave systems surrounding it. Lliam sometimes uses it as shortcuts to reach a certain area faster, though exploring the caves itself is dangerous as it has links to some hidden mystery dungeons that hasn't reached the surface and they're quite tough so he locks it up for safety reasons. 
 * Then it should be nightfall after all the talking and the guild members should return to the guild with bottles in hand (does it take 1 day or several days? I haven't read the stories yet sorry.)
-
-May edit as you wish (same pass as main rentry)

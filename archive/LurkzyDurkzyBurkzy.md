@@ -23,6 +23,8 @@
 ->==Genned using Lasagna Balls==<-
 ->![Log2](https://files.catbox.moe/7219ue.jpg)<-
 ***
+->![Log3](https://files.catbox.moe/18a4zt.jpg)<-
+***
 ->==Genned using John Cena v3==<-
 ->![Log1](https://files.catbox.moe/tmv5ub.png)<-
 ***

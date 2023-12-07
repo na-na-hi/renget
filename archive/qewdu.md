@@ -136,6 +136,7 @@ CH0215 = Swimsuit Miyako
 CH0216 = Swimsuit Moe **(Sprite Only)**
 CH0217 = Swimsuit Saki
 CH0218 = Swimsuit Miyu
+CH0219 = Swimsuit Eimi
 CH0222 = Nagusa **(Sprite Only)**
 CH0224 = Renge
 CH0225 = Kikyo
