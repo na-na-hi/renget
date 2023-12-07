@@ -2,11 +2,9 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 03/12/23: End Edition**
+**Last updated: 07/12/23: Mica Edition**
 
-!!!danger Leaving a list of ALL unions that have made a presence in the thread over the past year. Are they 100%, purebred, true /nikg/? I don't know, nor do I care anymore because apparently this list causes more trouble than it's worth. Pick a union you like and join it. Now shut up, drama-posting is stupid. Don't you have better things to do?
-
-!!!info I'll keep my script running to automatically update the information below periodically. 
+!!!info Updates will be paused/slower for a short bit (Recovering from hardware failure).
 
 ***
 
@@ -18,17 +16,16 @@
 | UOOOH    | ==**13720**== | 6     | 31/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | OPEN       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 29/32   | POLUS    | PERMISSION |                                 |
-| NIKKERZ  | ==**466**==   | 6     | 30/32   | ALPHABVR | PERMISSION |                                 |
+| NIKKERZ  | ==**466**==   | 6     | 31/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 31/32   | KAKARO   | PERMISSION |                                 |
-| MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
-| N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | CLOSED     |                                 |
+| MILKKERS | ==**1491**==  | 6     | 32/32   | PLOT     | PERMISSION |                                 |
+| N1KKAS   | ==**1888**==  | 6     | 31/32   | SAUCY    | PERMISSION     |                                 |
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
 | P愛ZURI   | ==**4983**==  | 6     | 31/32   | TAMA     | PERMISSION |                                 |
 | NIKKEKU  | ==**334**==   | 5     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 5     | 32/32   | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ  | ==**20186**== | 2     | 14/25   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
-| TOGEMURA | ==**10050**== | 6     | 32/32   | THERAS   | PERMISSION |                                 |
+| ROBUTTZ  | ==**20186**== | 2     | 16/25   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -42,10 +39,10 @@
 | PREFECT  | ==**6554**==  | 6     | 31/32   | THIL    | PERMISSION |                            |
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN  | PERMISSION |                            |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
-| LUSITANO | ==**10302**== | 6     | 31/32   | ANGUSPT | OPEN       |                            |
-| CUNNYSSI | ==**25331**== | 5     | 31/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB  | ==**29940**== | 4     | 31/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
-| WANGERS  | ==**33386**== | 2     | 13/25   | SYLFEYN | PERMISSION | Casual/newcuties welcome   |
+| LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
+| CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
+| KUNNYHUB  | ==**29940**== | 4     | 32/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
+| WANGERS  | ==**33386**== | 2     | 15/25   | SYLFEYN | PERMISSION | Casual/newcuties welcome   |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

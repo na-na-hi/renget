@@ -1,5 +1,5 @@
 # The meta list of various Claude links
-->==(Updated 2023-10-07)==<-
+->==(Updated 2023-11-21)==<-
 
 !!! note
     Although currently there's no way to continue abusing Claude on Slack for free, wageslaving anons with access to Slack over their corporate network can still employ these solutions for work or SFW hobby purposes because RP frontends with editing, swiping, prompt templates, etc. are more convenient.
@@ -22,7 +22,7 @@ https://claude.ai
 - "*Claude\.ai is currently in open beta and usage of the platform may be limited for unpaid users.*"
 ###### Clewd
 https://rentry.org/slaude2
-- Clewd connects SillyTavern to claude.ai
+- Clewd connects SillyTavern to claude\.ai
 ***
 ##### Current stuff
 ###### Coping with Slaude
@@ -34,6 +34,9 @@ https://rentry.org/hn3bd
 ###### Hoping with Slaude
 https://rentry.org/slaudehope
 - Spermack, 3.4-4K Context, Unfiltered Response from Claude
+###### Clewd by teralomaniac
+https://rentry.org/teralomaniac_clewd
+- forked from h-a-s-k/clewd
 ***
 ***
 ***

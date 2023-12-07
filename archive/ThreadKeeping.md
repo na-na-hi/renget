@@ -907,53 +907,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
-https://rentry.org/4c3pf
->Understanding (Mirror Devil, Maru (maru), Smokin' Sexy):
-https://rentry.org/cucs2
->Misadventures at the Dojo Part 2.5: Aftermath (Drekus, Karma, Feral, Aquarius, Walpurgis, Nebulous Storm, Midas)
-https://rentry.org/DojoMisadventureExtra
->Stimulation (Seiryu, Honoken, Karma, Fluegel, Rika Eichi, Popsy)
-https://rentry.org/g6f8r
->The Tournament Continues!
-https://rentry.org/yngpn
->Last Visit (Yamata, Mirror Devil, Capture Cloth)
-https://rentry.org/xpxk6
->Kaga - Intermission (Ryukishi, Fight Man, Class 1-E, Yamata, Maru(maru))
-https://rentry.org/r5v7e
->Sandatsu is a Receiver
-https://rentry.org/dfkw5
->Leaving the Hospital (Mirror Devil, Ryu-kishi, Maru (maru)):
-https://rentry.org/wzi4x
->Crush...2 (Hivemind, Mirror Devil (mentioned)):
-https://rentry.org/6rwmw
->Moving up in the World
-https://rentry.org/esiz3
->Dragon's Visit: Other Side (Ryu-kishi, Curie, Capture Cloth, Archangel, Floor, Impakt, Marrow, Maddox, Radius, Yamata, Overdose, Midas, Drekus, Maru(maru), a bunch of cameos)
-https://rentry.org/rzimh
->A Hard Conversation (Mirror Devil, Drone, Arena)
-https://rentry.org/kmx3ty
->Mirror's Date (Noctiluca, Drone, Recoil, Spark, Mirror Devil, Challenger, Sunlight Man, Ryu-kishi, Maru (Maru)):
-https://rentry.org/7u3dpb
->Boomping (Gossip)
-https://rentry.org/uv6mh
->A Lesson on Two's  (Hijack, Class 1-D)
-https://rentry.org/n8noh
->Kraftwerk Hero Agency - Internship Application - Takeda Hifumi
-https://rentry.org/InternshipApplicationTakedaHifumi
->Too Good to Be True (Capture Cloth, Yamata)
-https://rentry.org/z7ize
->City Of Silver Gray (Popsy, Seiryu, Noctiluca)
-https://rentry.org/o2f25
-
-```
-***
-Page 7
-***
-```
-Writefags (cont.)
->The Pencil (Ryu-kishi, Maru(maru), Mirror Devil)
-https://rentry.org/sdtvh
 >Hitomi-chan's First Date (Feral, Drekus, Reaper)
 https://rentry.org/2tu8m
 >"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marrow)
@@ -988,7 +941,7 @@ https://rentry.org/b2mhn
 https://rentry.org/xxk2h
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (cont.)
@@ -1038,10 +991,10 @@ https://rentry.org/oebs9
 https://pastebin.com/geBb3M22
 ```
 ***
-Page 9
+Page 8
 ***
 ```
-Writefags (final)
+Writefags (cont.)
 >Musical Exploration (Nekiro)
 https://pastebin.com/9TGVy46L
 >Dare Prompt Fill (The Clique)
@@ -1096,6 +1049,12 @@ https://rentry.org/reaper-rising
 https://rentry.org/s8558
 >MHA Isekai 3.2
 https://rentry.org/4eama
+```
+***
+Page 9
+***
+```
+Writefags (final)
 >Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
 https://rentry.org/znbnka
 
@@ -1104,7 +1063,6 @@ https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the rentry
 ```
-
 # Naruto (Second Reboot)
 ***
 Page 1

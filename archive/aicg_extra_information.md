@@ -27,13 +27,13 @@ https://github.com/kwaroran/RisuAI/wiki
 https://github.com/Cohee1207/SillyTavern
 https://rentry.org/aicg4retards
 https://docs.sillytavern.app
-- frontend for many AI services; local install; feature rich + extensions
+- frontend for many AI services; local install; very feature rich + many extensions
 
 ![](https://files.catbox.moe/witert.png)
 
 ##### Chub Venus
 https://venus.chub.ai
-- british frontend for some AI services; online version only; common bot catalogue with extreme numberfagging; offers paid access to own llm
+- british frontend for many AI services; online version only; common bot catalogue with extreme numberfagging; offers paid access to own llm
 
 ![](https://files.catbox.moe/8y0ox3.png)
 
@@ -45,13 +45,13 @@ https://venus.chub.ai
 
 ##### Booruplus
 https://booru.plus/+pygmalion
-- updated regularly; cards; oldest and still popular; minimalistic
+- still fully usable; cards; oldest and no longer popular; minimalistic
 
 ![](https://files.catbox.moe/ev83ug.png)
 
 ##### Chub
 (https://www.characterhub.org) https://www.chub.ai
-- updated regularly; cards, lorebooks, llms; feature rich
+- widely used; cards, lorebooks (llms no more); feature rich
 
 ![](https://files.catbox.moe/aheqjx.png)
 
@@ -257,11 +257,21 @@ https://rentry.org/AnotherSillyGuide
 https://rentry.org/82b9c (*borrowed from /CHAG/*)
 
 ##### Miku\.gg
+https://miku.gg
 https://docs.miku.gg
-https://rentry.org/mikugg
-- frontend for OAI and Kobold; local install and online demo; TTS and very rich Expressions support; own bot format
+- frontend for OAI and Kobold; local install and online demo; TTS and very rich Expressions support; own bot format; VN experience
 
 ![](https://files.catbox.moe/uwxk54.png)
+
+##### Maid
+https://github.com/MaidFoundation/Maid
+- Android (and PC) frontend for actual localchads
+
+##### Amica 
+https://github.com/semperai/amica
+- frontend for various APIs; VRM 3d models support with TTS and STT; waifu experience
+
+![](https://files.catbox.moe/geq3eh.png)
 
 ##### TavernAI
 https://github.com/TavernAI/TavernAI

@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-10-21)==<-
+->==(Updated 2023-12-07)==<-
 ***
 [TOC2]
 ***
@@ -27,8 +27,8 @@ Edit: 22 Apr 2023 11:04 UTC
 https://rentry.org/oaicards
 
 Pub: [23 Apr 2023 No.92969512](https://desuarchive.org/g/thread/92968243/#92969512)
-Edit: 30 Jul 2023 11:15 UTC
-- 7862 words, 42 minutes read
+Edit: 03 Oct 2023 19:07 UTC
+- 7892 words, 42 minutes read
 
 *"A little explanation with an example on how Silly reads a card, and some general tips on prompting AI."*
 ***
@@ -55,8 +55,8 @@ Edit: -
 https://rentry.org/SillyT_Lorebook
 
 Pub: [13 Jun 2023 No.94033910](https://desuarchive.org/g/thread/94031350/#94033910)
-Edit: 12 Sep 2023 11:33 UTC
-- 2103 words, 12 minutes read
+Edit: 27 Sep 2023 11:36 UTC
+- 2101 words, 12 minutes read
 
 *"A how-to on Lorebooks. What they are, how to use them, with examples."*
 ***
@@ -66,8 +66,8 @@ Edit: 12 Sep 2023 11:33 UTC
 https://rentry.org/NG_CharCard
 
 Pub: [12 Jul 2023 No.94641345](https://desuarchive.org/g/thread/94640653/#94641345)
-Edit: 24 Aug 2023 11:23 UTC
-- 3906 words, 22 minutes read
+Edit: 27 Sep 2023 11:36 UTC
+- 3904 words, 22 minutes read
 
 *"Pointers for Creating Character Cards for Silly Tavern and other frontends"*
 ***
@@ -75,8 +75,8 @@ Edit: 24 Aug 2023 11:23 UTC
 https://rentry.org/AdvancedCardWritingTricks
 
 Pub: [21 Oct 2023 No.96826991](https://desuarchive.org/g/thread/96826807/#96826991)
-Edit: 21 Oct 2023 18:01 UTC
-- 5742 words, 33 minutes read
+Edit: 30 Nov 2023 17:44 UTC
+- 6350 words, 37 minutes read
 
 *"Can be considered an up-to-date guide on nearly every modern technique."*
 ***
@@ -106,7 +106,7 @@ https://rentry.org/lobstersgpt
 5. How to swiftly and easily create world books
 https://rentry.org/ClaudeWorldbooks
 [07 Sep 2023 No.95850671](https://desuarchive.org/g/thread/95849071/#95850671)
-*"Method for quickly creating world books via Claude.ai or the API"*
+*"Method for quickly creating world books via Claude\.ai or the API"*
 ***
 ***
 ***
