@@ -11,7 +11,7 @@
 
 !!! note ➜ Bookmark this URL
 	- ✅ This **Megathread is often updated** and subject to rigorous quality control checks.
-    - Visit both our [**r/Piracy**](https://www.reddit.com/r/Piracy/) and [**r/torrents**](https://www.reddit.com/r/torrents/) subreddits for all the sailing discussions.
+    - Visit our [r/Piracy](https://www.reddit.com/r/Piracy/), [r/Torrents](https://www.reddit.com/r/torrents/), or [Lemmy](https://lemmy.dbzer0.com/c/piracy) communities for all the sailing discussions.
 
 !!! danger ➜ Disclaimer
 	- In the Megathread, trustworthy links that were formerly safe may occasionally turn hazardous.
@@ -86,11 +86,11 @@
 &nbsp;
 
 # 📑 ➜ Other Treasures
-
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
+### 📁 [Porn Dude](https://theporndude.com/)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.moe/)

@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>Sudoplatov night vision FPV drone kino in Krynki
+https://files.catbox.moe/8xe4mh.mp4
+>Ukrainians start speaking Russian when shelled
+https://files.catbox.moe/o264ob.mp4
+>Self made delivery/evac bot for soldiers in Avdeevka
+https://files.catbox.moe/lq5tyh.mp4
+>Bradley being evacuted by Russians in the Adveevka direction
+https://files.catbox.moe/jsrygx.MP4
 >Another shot down German Leopard 2A4 with a "Kontakt-1" armor on the Zaporozhye direction
 https://files.catbox.moe/pc7lpv.mp4
 >Hohols getting droned (NOT COMFY)

@@ -1,4 +1,4 @@
-#->Elysian Realm recommended builds 7.0<- 
+#->Elysian Realm recommended builds 7.1<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
 Added 'Remarks' for brief description of some precautions
 
@@ -9,6 +9,10 @@ Added 'Remarks' for brief description of some precautions
 translated from 月光中心
 
 click image to jump to valk
+
+!!! info 7.1 Phase 1
+
+[![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)
 
 !!! info 7.0 Phase 1
 [![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay_1)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
@@ -70,6 +74,92 @@ click image to jump to valk
 
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
+
+#->Cosmic Expression parry<-
+->![ceparry](https://i.imgur.com/CD8UsFP.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Anchor of the Voyage: Interstellar | Van Gogh set
+
+Cost | Effect
+------ | ------
+0 | Pishacha
+15 | Melee ATK breach
+15 | Weapon type DMG bonus
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+SA | BKE | Utility
+SS | BR | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Fragile Friend / Out of Reach
+1st Shop | Forbidden Seed / Out of Reach
+16F | Key to the Deep / Out of Reach 
+
+##->Ego Signets<-
+ Meteorite 陨霈 | Starlight 星闪 | Dazzle 耀驰 | Anchor 泊锚 | Shining Blade 烁刃
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | No | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kosmos1 | Ultimate, basic ATK, evasion, shieldbreak damage, time extension are the key choices, recommended to pick all enhanced, must pick at least breach
+2nd | Mobius1 | Both TDMs, CD reduction, vulnerability are the key choices, unlock nexus 
+2nd | Eden1 |  Both damage boosts, starting SP are the key choices, unlock nexus; can pick vulnerability from enhanced
+2nd | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, can pick both silver generation(buy from early shop), unlock nexus 
+Optional | Kalpas2 | Both damage boosts, vulnerability, HP cap up are the key choices, unlock nexus; can also pick Griseo Red Yellow, Sakura both damage boosts, Vill-V 1 as reinforcement
+
+!!! info Rotation : tap weapon active, hold evasion to use up KE, basic ATK to replenish KE, tap weapon active again and repeat; recommended to swap sigil on 6F, roll Kosma on 7F
+
+#->Cosmic Expression basic<-
+->![cebasic](https://i.imgur.com/n0JLYlM.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Anchor of the Voyage: Interstellar | Van Gogh set
+
+Cost | Effect
+------ | ------
+0 | Pishacha
+15 | Melee ATK breach
+15 | Weapon type DMG bonus
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+SA | BKE | Utility
+BR | SS | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Fragile Friend / Out of Reach
+1st Shop | Forbidden Seed / Out of Reach
+16F | Heavy as a Million Lives / Out of Reach 
+
+##->Ego Signets<-
+ Dazzle 耀驰 | Anchor 泊锚 | Meteorite 陨霈 | Starlight 星闪 |  Shining Blade 烁刃
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | No | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kosmos1 | Ultimate, basic ATK, evasion, vulnerability, time extension are the key choices, must pick at least breach, recommended to also pick TDM
+2nd | Mobius1 | Both TDMs, CD reduction, vulnerability are the key choices, unlock nexus 
+2nd | Su1 |  Both combo boosts, vulnerability are the key choices, can pick TDM, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts are the key choices, can pick both silver generation(buy from early shop), unlock nexus 
+Optional | Griseo2 | Red Yellow Black are the key choices, don't need nexus; can also pick Eden both damage boosts, Vill-V 3 2 as reinforcement
+
+!!! info Rotation : evade > basic > combo  > ultimate > evade > basic > combo > 2 sets of basic+combo > ultimate > repeat; recommended to swap sigil on 6F, roll Kosma on 7F
 
 #->Lunar Vow: Crimson Love basic<-
 ->![lvbas](https://i.imgur.com/0v6oNMy.png)<-

@@ -135,11 +135,12 @@ Read the top right on the first sheet for instruction.
 If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
 
 ## Banner Guide
-Global follows the JP schedule reasonably tight, see [the banner list for all the upcoming banners](https://bluearchive.wiki/wiki/Banner_List).
+Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. 
 
-[/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [image version (slightly outdated)](https://i.imgur.com/x9zZMMW.jpg) 
-[Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
-[stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
+For the actual guides, use any of the following:
+- [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [(image version)](https://files.catbox.moe/z7om92.jpg) 
+- [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
+- [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.

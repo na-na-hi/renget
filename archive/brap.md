@@ -149,7 +149,7 @@ Before you hit the generate button, we need to select all the appropriate settin
 **Sampler:** DPM++ 3M SDE Karras (DPM++ 2M Karras also works well)
 **Hires Fix:** Enable Hires Fix. Set Upscaler to None. Hires steps to 0. Denoising Strength to 0.4. Upscale by 2 (It may take a while. Upscaling by 1.5 is faster but the image may be more prone to errors.)
 **Refiner:** Do not use.
-**Width and Height:** For square images do 768x768. For portrait images do 512x768 and for landscape images 768x512.
+**Width and Height:** For square images do either 768x768 or 512x512 depending on the model you're using. For portrait images do 512x768 and for landscape images 768x512.
 **Batch Count and Batch Size:** Batch count is however many images you want to generate with that one prompt, it is rare that you'll get the perfect image first try so I always recommend generating multiple images. I always keep Batch Size to 1 because it always makes generation take longer if I increase it.
 **CFG Scale:** I recommend setting this to 7, it has always worked best for me.
 **Seed:** Always have this set to -1, which does a random seed. The dice icon will automatically set the seed to -1 when pressed. You will keep generating the same image unless this is set to -1.

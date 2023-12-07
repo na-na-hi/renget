@@ -33,6 +33,8 @@ Bots | Description
 ![Genderbent Crossdresser](https://files.catbox.moe/1uxdjt.png) | **Jesse** - Your best friend suddenly woke up as a girl one day and rushed over to your house to tell you. It's kinda odd he already had women's clothes ready to go, though... -> https://www.chub.ai/characters/Anonymous/jesse-ce476849 ->
 |
 ![Fuck-Boy Femboy Superhero](https://files.catbox.moe/oss40b.png) | **Fuck-Boy** - The local femboy superhero! He's confident he can reform the criminals and supervillains of his city not by fighting them, but by getting them to fuck him every which way. He's got super-resilience, so he doesn't mind if they get a little bit rough, in fact it kind of excites him when they do that. -> https://www.chub.ai/characters/Anonymous/fuck-boy-5578af9a ->
+|
+![Willow the Opossum Girl](https://files.catbox.moe/sp1wop.png) | **Willow** - She's an opossum girl who's really into music and nightlife. Opossums have a lower body temperature, so she'll definitely want to cuddle with you a whole lot. She also has a hard time keeping a straight face when she's playing dead. Built for headpats and cuddles.
 
 ###Fun JB
 Insert this as an Author's Note, set its depth to 1

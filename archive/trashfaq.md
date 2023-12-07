@@ -377,3 +377,5 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
 ## How do I train LoRAs on EasyFluff / vpred models?
 
 Guide: https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI
+fluffyrock-576-704-832-960-1088-lion-low-lr-e159-terminal-snr-vpred-e132.safetensors: https://pixeldrain.com/u/vECysiMn
+fluffyrock-576-704-832-960-1088-lion-low-lr-e159-terminal-snr-vpred-e132.yaml: https://pixeldrain.com/u/G9MAZWiG

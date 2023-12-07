@@ -623,3 +623,12 @@ https://files.catbox.moe/kqssyj.mp4 (embed)
 files.catbox.moe/8yvbfa.mp4 (embed)
 >OCT 7 KIKES FRIENDLY FIRE ON THEIR OWN CITIZENS
 files.catbox.moe/skwk6k.mp4 (embed)
+
+
+>Resistance fighters detonate a high-impact explosive device on an IOF bulldozer in Tulkarem
+https://files.catbox.moe/3w9etv.mp4
+
+>Hamas Kino
+files.catbox.moe/8btevk.mp4 New
+files.catbox.moe/2il1dw.mp4 New
+https://files.catbox.moe/b7wnz8.MP4 Newest

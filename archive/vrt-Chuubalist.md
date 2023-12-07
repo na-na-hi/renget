@@ -85,6 +85,11 @@
 [Streaming Twitch](https://www.twitch.tv/hesperavt)
 [Twitter](https://twitter.com/HesperaVT)<-
 
+->**Iomi Io**
+![Iomi Io](https://i.warosu.org/data/vt/img/0640/01/1701898333850454.jpg)
+[Streaming Twitch](https://www.twitch.tv/iomi_io)
+[Twitter](https://twitter.com/iomi_IO)<-
+
 ->**Jean Faymas**
 ![Jean Faymas](https://warosu.org/data/vt/img/0527/91/1688615480627343.png)
 [Streaming Twitch](https://www.twitch.tv/jeanfaymas)

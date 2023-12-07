@@ -33,7 +33,8 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
 	[spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
 	- 20B:
-	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- AliCat's current fav for chatting. Uniquely realistic chatting experience! Works best with a character named "Sydney".
+	[Rose-20B](https://huggingface.co/tavtav/Rose-20B) <- AliCat's current favorite for ERP and a great overall model. As a warning, it may turn SFW scenarios/situations into NSFW (which some people will find as a bonus).
+	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
 	
 ***
 #Leaderboard
@@ -78,5 +79,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 
 #### Other Links
 - The 'Ayumi' Inofficial LLM ERP Model Rating: https://rentry.co/ayumi_erp_rating
+- BestERP: https://besterp.ai/s/models
+- Large Language Model (LLM) List | PygWiki: https://wikia.schneedc.com/llm/llm-models
 - My character creation guide for RP chat bots: https://rentry.co/alichat
 - Trappu's Rentry for up to date PList + Ali:Chat bots: https://rentry.org/TrappusRentry

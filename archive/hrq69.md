@@ -46,5 +46,8 @@ https://github.com/mdovgialo/steam-vr-wheel/releases
 A few regulars still use this, it's not as good as a real wheel with FFB, but it's better than a controller.
 
 #####Extra tweaks:
+Generating a LUT curve for your wheel can help improve force feedback if you're using a wheel.
+https://www.racedepartment.com/downloads/lut-generator-for-ac.9740/
+
 Race department has a list of recommended tweaks you can look at as well, but a lot of these come down to personal taste.
 https://www.racedepartment.com/downloads/assetto-corsa-vr-guide.19037/

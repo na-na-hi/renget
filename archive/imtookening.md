@@ -2,6 +2,13 @@
 
 (Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku. The embed is a catbox link please use your eyes) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
+#Disclaimer: AWS *will* abandon character details and speech tics, and your Claude JB will have a huge effect on how these bots perform. Sorry but that's outside my area of expertise, you're on your own. 
+
+**Lamashtu** ~2k tokens (1.1k permanent.) Zombie girl. Ever wanted to fuck a corpse? Ever wanted to fuck a corpse that could make you in to a corpse? This probably wasn't what you were thinking. 
+I was half asleep when I came up with the concept and it worked out sorta nicely, should be entertaining to either chat with her or bend her over and discover what very very cold girl hole feels like. She's got an accompanying lorebook that injects some necessary information in to the roleplay, but if you just want to blow your load, you could try without it. 
+You like my lore though, right anon? 
+![](https://files.catbox.moe/nls7yk.png)
+[*Image source*](https://beta.sankakucomplex.com/post/show/5938421) [chub](https://chub.ai/characters/hitogami/lamashtu-31b19c01/main) [lorebook](https://chub.ai/lorebooks/hitogami/lamashtu-lore-8e0465a7)
 
 **Iliara** ~2k tokens (1.2k permanent.) Hyper dragonbaba who has decided you're the one. You might not get a choice.
 Yes it's 2k tokens, I actually thought I didn't do too bad until I finished. Whatever, you're just gonna mating press her anyway. 

@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 5th December. All dates dd/mm.
+!!! Note Last updated: 6th December. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -109,7 +109,6 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 90 | Bullies | Open as of 02/12
 1674 | BlueB@lled | Open as of 01/12
-6488 | Kanimochi | Open as of 26/10
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 29/11
 
@@ -127,6 +126,7 @@ Club ID | Club Name | Club Status
 3640 | DFC | Full as of 10/11
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
+6488 | Kanimochi | Full as of 05/12
 6665 | F2Poor | Full as of 10/11
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 01/12
@@ -144,7 +144,7 @@ Club ID | Club Name | Club Status
 623 | Mesugaki | Open as of 28/10
 2496 | AbydosCycling | Open as of 01/12
 6098 | Comfy | Open as of 16/09
-6289 | FlatIsJustice | Open as of 23/11
+6289 | FlatIsJustice | Open as of 05/12
 
 ##### Full
 Club ID | Club Name | Club Status
