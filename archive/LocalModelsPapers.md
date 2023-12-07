@@ -452,6 +452,7 @@
 11/2023|[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442)
 12/2023|[GIFT: Generative Interpretable Fine-Tuning Transformers](https://arxiv.org/abs/2312.00700)
 12/2023|[PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models](https://arxiv.org/abs/2312.02429)
+12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -469,4 +470,5 @@
 09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.is/keLl0)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
-11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.ph/Tch3H)
+11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.is/Tch3H)
+11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)

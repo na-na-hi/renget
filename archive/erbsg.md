@@ -51,6 +51,7 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
+https://event.playeternalreturn.com/newcharacter/70th/Tsubame/?hl=en-US (Play as Tsubame Event, ~1/3)
 
 \>Codes
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1

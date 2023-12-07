@@ -22,11 +22,11 @@
 	- If you use the LyCo it has quality tags
 
 ##Oh, so you want anime?
-- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) and just add it the way you add LoRA
-- [artist wildcards](https://pixeldrain.com/u/UPZvZtQV)
+- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) and just add it the way you add LoRA
+- [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
 	- [by x portrait examples](https://rentry.org/yxwiu) (working on this)
 	-  Artist combos [Gallery view](https://catbox.moe/c/6etv3n#)
-- [e621 tags](https://pixeldrain.com/u/TyiryrZB)
+- [a5a e621 tags](https://files.catbox.moe/e6jc6i.csv)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
 	- Settings > Tag Autocomplete > Extra filename
 - Clip skip -1 is recommended but -2 is fine
@@ -34,11 +34,19 @@
 - Starting with a natural language prompt and refining with tags is recommended
 - It is receptive to booru and e621 tags
 
+** Putting the previous versions here out of convenience**
+- hll6.3_a4
+	- [lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors)
+	- [Wildcards](https://pixeldrain.com/u/UPZvZtQV)
+	- [e621 tags](https://pixeldrain.com/u/TyiryrZB)
+
+
 ### Comfyui
 - Connect your checkpoint to `Model sampling Discrete` then `RescaleCFG`
 	- sampling: V_prediction
 
 ### Using 2d or photo realism tags
+> "Try adding (anime screencap) or (fine art) to prompt. It often makes things better"
 Image is not mine
 -> ![](https://files.catbox.moe/hvemyz.png) <-
 

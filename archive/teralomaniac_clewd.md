@@ -65,14 +65,14 @@
 - 当要转折或代替角色行动时，建议你的角色输出后换行（shift+enter）两次后再描述。
 - 某些XML tags可以截断claude的输出，例如<META>和<EOT>等，claude在输出这些tags时输出会被立即截断。
 
-##自用预设 V4.1：
+##自用预设 V4.2：
 !!! info [版本说明与历史破限](https://rentry.org/teralomaniac_jb_history)
-> clewd 4.6(7)/PreOC以及酒馆1.10.7以上专用，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
-!!! info 预设下载：[V4.1 hotfix](https://files.catbox.moe/wlotaw.json)
+> clewd4.6(12)以及酒馆1.10.7以上专用，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
+!!! info 预设下载：[V4.2](https://files.catbox.moe/ebnq1i.json)
 >
 > 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC，随机事件需要手动开关，其余为自适应，使用参考笔记）
 
-##测试预设 V4.2：
+##测试预设（V4.3 coming soon...）：
 > 当前版本4.2beta3
 > 
 > [酒馆预设V4.2beta3](https://files.catbox.moe/ax88zt.json) 须clewd 4.6(12)以及酒馆1.10.7以上，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)

@@ -61,8 +61,8 @@
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
+[QuIP#](https://github.com/Cornell-RelaxML/quip-sharp)|2/4bit weight quantization with improvements over the original QuIP method 
 [LoRAShear](https://github.com/microsoft/lorashear)|Structurally prune LLMs via dependency graphs
-[LQ-LoRA](https://github.com/HanGuo97/lq-lora)|Improvement over QLoRA with variable bitrate quantization 
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.

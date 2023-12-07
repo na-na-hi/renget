@@ -205,6 +205,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
+	* [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
 * Gus the Oshawott
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) **Non-Canon (Draft) Story**
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
@@ -537,6 +538,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 * [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
 * [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
+* [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

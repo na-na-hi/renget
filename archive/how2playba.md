@@ -262,6 +262,9 @@ As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted))
 
 >What hard nodes should I farm?
 ![hard nodes to farm](https://i.imgur.com/DEJLISD.png)
+If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
+Example: you prioritise farming Iori (unowned) > Chise (owned) 
+
 Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/htmlview#), check it out for a more detailed explanation on farmable units.
 
 >Should I farm a unit I don't own?
