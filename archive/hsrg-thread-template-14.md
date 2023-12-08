@@ -8,6 +8,10 @@ https://hsr.hoyoverse.com/en-us/home
 \>1.5 Preview Page
 https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
 
+\>TGA Candidacy Video: A Story That Never Grows Dull 
+https://www.youtube.com/watch?v=zlOnfjtTBic
+https://www.youtube.com/watch?v=BFCBuPHcjaY
+
 \>Version 1.5 Trailer - "The Crepuscule Zone" 
 https://www.youtube.com/watch?v=w1utY0z9g00
 https://www.youtube.com/watch?v=qVY5qmQVrMo

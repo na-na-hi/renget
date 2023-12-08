@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/bymdfQ.png) <-
+-> ![](https://a.imagem.app/oCjFy2.png) <-
 
 # 📜 ➜ **Megathread**
 

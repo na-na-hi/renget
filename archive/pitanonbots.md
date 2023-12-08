@@ -25,6 +25,7 @@ Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https:
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
+Erica | (8/12/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/erica-32d0a015/main) | ![](https://files.catbox.moe/zr9q1h.png)
 Sidney | (23/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/sidney-7c14da2a/main) | ![](https://files.catbox.moe/qbgteh.png)
 Bimu | (12/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/bimu-42e062d9) | ![](https://files.catbox.moe/37dvca.png)
 Yukina | (06/7/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Yukina) | ![](https://files.catbox.moe/mygjfp.png)

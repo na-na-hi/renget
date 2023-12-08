@@ -17,10 +17,11 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Super Mario Bros. Wonder wins "Best Family Game" at The Game Awards 2023
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
 https://www.youtube.com/watch?v=OY_v1w9ALC8
 https://dtimes.jp/post-512278/
-「!」Concept art of a hypothetical "Walpeach" have been revealed by Waluigi's creator, designed during the GCN era
+「!」Concept art of a hypothetical "Wapeach" have been revealed by Waluigi's creator, designed during the GCN era
 https://archive.is/0TCrF
 https://archive.is/fK3Ts
 「!」MK8D Wave 6 Patch Notes

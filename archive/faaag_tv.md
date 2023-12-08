@@ -15,6 +15,7 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 https://ntv4.mov3.co/hls/ntv.m3u8
 >TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
+https://tbs4.mov3.co/hls/tbs.m3u8
 >Tokyo MX
 https://mov3.co/tokyomx/
 >unlisted WNI stream running nonstop for the last 3 years
