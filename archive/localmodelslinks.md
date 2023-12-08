@@ -2,11 +2,11 @@
 ->/lmg/<- | ->Accelerate<-
 ------ | ------
 **Guides**|
-[Quick Start Guide](https://archive.is/NzXae)|Outdated. Basic how to set up Nvidia/AMD/CPU inferencing 
+[Quick Start Guide](https://rentry.org/lmg-spoonfeed-guide)|Anon's tutorial for getting models running locally 
 [SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
-[LM Tuning Guide](https://rentry.org/llm-training)|Training, Finetuning, and LoRa/QLoRa information 
+[LM Tuning Guide](https://rentry.org/llm-training)|Training, finetuning, and LoRa/QLoRa information 
 [LM Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
-[LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a [$1k 3xP40 setup](https://rentry.org/Mikubox-Triple-P40)
+[LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a $1k 3xP40 [setup](https://rentry.org/Mikubox-Triple-P40)
 |
 **Models**|
 [TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
@@ -57,7 +57,7 @@
 [vllm](https://github.com/vllm-project/vllm)|Inference library with fast inferencing and PagedAttention for kv management
 |
 **LLM Tools**|
-[Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning Tool for various architectures with integrated support for flash attention and rope scaling 
+[Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning tool for various architectures with integrated support for flash attention and rope scaling 
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
@@ -82,13 +82,9 @@
 [LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)|Autoregressive decoding without need of draft model or slowdown from token acceptance rate 
 |
 **Non-LLM Local Models**|
-[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
-[Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI 
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI. User submitted [workflows](https://comfyworkflows.com)
 [Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
-|
-[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
-[Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
+[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 |
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
 [OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning with tone color and voice style manipulation
@@ -101,10 +97,12 @@
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
+[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [CogVLM](https://github.com/THUDM/CogVLM)|Visual language model that uses a trainable visual expert module
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
+[Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)|Text or Image-to-3D Model Textured Meshes via gaussian splatting 
@@ -112,6 +110,7 @@
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
 |
+[Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
 [PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM) 
 |

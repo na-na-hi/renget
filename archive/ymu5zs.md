@@ -1,44 +1,188 @@
-#**Extended List of /hmofa/ Story Updates from Edition #2609 - #2709**
+#**Extended List of Story Updates from edition #2609 - #2773**
 
--> Text File Version: https://files.catbox.moe/e0yi2y.txt ->
--> /hmofa/ Masterbin: https://rentry.org/hmofa ->
--> Contact: azuhmier@gmail.com (Questions or Suggestions?) ->
+Text File Version: https://files.catbox.moe/e0yi2y.txt
+/hmofa/ Masterbin: https://rentry.org/hmofa
+Contact: azuhmier@gmail.com (Questions or Suggestions?)
 
----------#2709 [Sun 15 Oct 2023 19:43:54]
-
-By Tarrabah
-`The Voice of a Demon (Ch. 3)`
-https://archiveofourown.org/works/50268811
-
-By Wizdoggo
-`Tips to Date a Single Mom Shiba Inu (Part 8)`
-https://rentry.org/mxn8v
-
----------#2706 [Thu 12 Oct 2023 19:13:20]
-
-By MrFanMan42
-`Survivors of a Shattered World (Ch. 9)`
-https://archiveofourown.org/works/39609141
-
-By YellowNoteAnon
-`Bed of Snakes (Ch. 6)`
-https://archiveofourown.org/works/31197068
-
-By Tacticool_Dad
-`Unlikely Meetings (Ch. 16)`
-https://archiveofourown.org/works/46924471
-
----------#2704 [Tue 10 Oct 2023 19:20:27]
+---------#2772 [ Thu 02 Nov 2023 16:18:27 ]
 
 By HomeTome
 `Loveless Incantation (Ch. 16)`
 https://archiveofourown.org/works/42671709
 
----------#2703 [Mon 09 Oct 2023 22:37:05]
+By YellowNoteAnon
+`Red Vignette`
+https://archiveofourown.org/works/52093405
 
-By Hills_of_mud
-`Forgotten Places (Ch. 9)`
+---------#2770 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Regguj
+`Natasha`
+https://archiveofourown.org/works/52066309
+
+---------#2769 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Hills_of_Mud
+`Forgotten Places (Ch. 12 & 13)`
 https://archiveofourown.org/works/46543378
+
+---------#2768 [ Thu 02 Nov 2023 16:18:27 ]
+
+By TheBulletFarm
+`The Life of the Contractor (Ch. 3)`
+https://archiveofourown.org/works/51825376
+
+By Tarrabah
+`Voice of a Demon (Ch. 4)`
+https://archiveofourown.org/works/50268811
+
+---------#2767 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Anonymous
+`I Am Reptar`
+https://rentry.org/b3ibm
+
+---------#2766 [ Thu 02 Nov 2023 16:18:27 ]
+
+By TheSignalRemains
+`Wilderness Hearts (ch. 9)`
+https://archiveofourown.org/works/36365845/chapters/131475556
+
+---------#2765 [ Thu 02 Nov 2023 16:18:27 ]
+
+By PapaDelta
+`Lessons on Bearing Fruit`
+https://archiveofourown.org/works/51948940
+
+---------#2764 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Thraxeth
+`Foxy Firsts`
+https://www.sofurry.com/view/2077637
+
+---------#2763 [ Thu 02 Nov 2023 16:18:27 ]
+
+By DesperateWinter
+`Spare in the Trunk (Ch. 18)`
+https://archiveofourown.org/works/43485082
+
+By Wizdoggo
+`Tips to Date a Single Mom Shiba Inu (Part 10)`
+https://rentry.org/mxn8v
+
+---------#2761 [ Thu 02 Nov 2023 16:18:27 ]
+
+By YellowNoteAnon
+`Bed of Snakes (Ch. 7)`
+https://archiveofourown.org/works/31197068
+
+---------#2760 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Anonymous
+`Untitled Georgian (era) Fox`
+https://rentry.org/svsca
+
+---------#2758 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Kaktus_nsfw
+`Novus Ad Astra`
+https://archiveofourown.org/works/51830005
+
+By TRINITY-CANCELLATION
+`This little bunny brat.`
+https://pastebin.com/PkccXVfS
+
+---------#2757 [ Thu 02 Nov 2023 16:18:27 ]
+
+By ThisIsARealAccount
+`Vipers, Nights, and French Fries (Ch. 5)`
+https://archiveofourown.org/works/39895998
+
+---------#2756 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Tacticool_Dad
+`Unlikely Meetings (Ch. 18)`
+https://archiveofourown.org/works/46924471
+
+---------#2753 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Pittsburghwizardmoneygang
+`A Letter From Dad`
+https://archiveofourown.org/works/50357536
+
+By MrFanMan42
+`Survivors of a Shattered World (Ch. 9)`
+https://archiveofourown.org/works/39609141
+
+---------#2745 [ Thu 02 Nov 2023 16:18:27 ]
+
+By JacklinMauer
+`Crawling through a Sunset Oblivion (Ch. 17)`
+https://archiveofourown.org/works/30172095
+
+By HomeTome
+`Emotional Support Human (Ch. 3)`
+https://archiveofourown.org/works/47832940
+
+---------#2743 [ Thu 02 Nov 2023 16:18:27 ]
+
+By DoubleCenterfold
+`Strange Deviations (Ch. 9)`
+https://archiveofourown.org/works/36537091
+
+---------#2740 [ Thu 02 Nov 2023 16:18:27 ]
+
+By SpaceDimSum
+`Morgan's Skate Club (v0.0.5)`
+https://spacedimsum.itch.io/morgansskateclub
+
+---------#2737 [ Thu 02 Nov 2023 16:18:27 ]
+
+By Mattariel
+`Of Void (Ch. 10)`
+https://archiveofourown.org/works/45532363
+
+---------#2728 [ Thu 02 Nov 2023 16:18:27 ]
+
+By SweatshirtWearingViper
+`Greasy Fluffgal`
+https://archiveofourown.org/works/51267823
+
+---------#2726 [ Tue 31 Oct 2023 03:43:29 ]
+
+By YellowNoteAnon
+`Batfowl`
+https://archiveofourown.org/works/51247108/chapters/129489859/
+
+---------#2722 [ Sat 28 Oct 2023 00:18:37 ]
+
+By AberrantGunman
+`A Night Out`
+https://archiveofourown.org/works/51154042
+
+---------#2721 [ Thu 26 Oct 2023 22:39:37 ]
+
+By Spaceface404
+`Prey (Ch. 10)`
+https://archiveofourown.org/works/48868201
+
+---------#2714 [Fri 20 Oct 2023 19:49:08]
+
+By SweatshirtWearingViper
+`My Petrochemical Romance (Ch. 6)`
+https://archiveofourown.org/works/44438539
+
+---------#2712 [Thu 19 Oct 2023 08:30:16]
+
+By Kaktus_nsfw
+`Bug in the Stars (Ch. 13 [Cont. from “Provided neither side is on high-alert.”])`
+https://archiveofourown.org/works/36819391
+
+---------#2710 [Mon 16 Oct 2023 21:15:30]
+
+By Gifted_Debt
+`Grocery Run`
+https://archiveofourown.org/works/50865058
 
 ---------#2695 [Mon 02 Oct 2023 14:11:10]
 
@@ -49,7 +193,7 @@ https://archiveofourown.org/works/46223224
 ---------#2694 [Sun 01 Oct 2023 15:38:18]
 
 By PapaDelta
-`Supermoon Media`
+`Supermoon Me`
 https://archiveofourown.org/works/42672645/chapters/127387813
 `My Little Huntress`
 https://archiveofourown.org/works/42672645/chapters/127470883
@@ -83,23 +227,11 @@ By NeverAnon
 `A Ninja Fox in New York City (Ch. 12)`
 https://archiveofourown.org/works/42704202
 
-By Spaceface404
-`Prey (Ch. 9)`
-https://archiveofourown.org/works/48868201
-
-By SweatshirtWearingViper
-`My Petrochemical Romance (Ch. 5)`
-https://archiveofourown.org/works/44438539
-
 ---------#2682 [Thu 21 Sep 2023 10:24:03]
 
 By CloudyDaze322
 `Sub-Etheral`
 https://archiveofourown.org/works/50217388
-
-By TheSignalRemains
-`Wilderness Hearts (Ch. 8)`
-https://archiveofourown.org/works/36365845
 
 ---------#2681 [Wed 20 Sep 2023 14:03:09]
 
@@ -217,10 +349,6 @@ https://rentry.org/thecougarandthezoomer
 
 ---------#2637 [Sun 13 Aug 2023 22:52:54]
 
-By ThisIsARealAccount
-`Vipers, Nights, and French Fries (Ch. 4)`
-https://archiveofourown.org/works/39895998
-
 By ROTHY
 `Furry Knight Heat! 2`
 https://www.sofurry.com/view/2037330
@@ -261,10 +389,6 @@ https://rentry.org/ur9gz
 
 ---------#2615 [Wed 26 Jul 2023 16:36:16]
 
-By Kaktus_nsfw
-`Bug in the Stars (Ch. 12 [Cont. from "The ship immediately beamed to life."])`
-https://archiveofourown.org/works/36819391
-
 By Anonymous
 `A Night to Remember`
 https://rentry.org/hivn3
@@ -292,3 +416,213 @@ https://archiveofourown.org/works/48739096
 By Driss1
 `Pencroft's Plight With Piracy`
 https://archiveofourown.org/works/47010958
+
+---------#2600 [Fri 14 Jul 2023 00:52:13]
+
+By LiveIron
+`Jagwife and BoatAnon's Beeg Beech Vaycay (Ch. 3):`
+https://archiveofourown.org/works/46309102
+
+
+---------#2595 [Mon 10 Jul 2023 14:02:22]
+
+By Mountlear
+`Bedside Manner`
+https://archiveofourown.org/works/48487228
+
+---------#2593 [Sat 08 Jul 2023 23:57:13 ]
+
+By Anonymer_Beobachter
+`Untitled Green That Got Out of Hand (Updated)`
+https://rentry.org/ktymx (dead link)
+https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/rentry-ktymx
+
+---------#2588 [Wed 05 Jul 2023 01:47:10]
+
+By LiveIron
+`Stars and Stripes:`
+https://archiveofourown.org/works/48351448
+
+---------#2586 [Mon 03 Jul 2023 22:40:14]
+
+By Anonymous
+`Anon's Friendship With a Gym Lioness`
+https://rentry.org/4x664
+
+---------#2583 [Sun 02 Jul 2023 09:21:19]
+
+By Anonymous
+`Smexy Time With a Lioness`
+https://rentry.org/Smexytimewithalioness
+
+---------#2581 [Fri 30 Jun 2023 22:56:59]
+
+By ROTHY
+`Furry Knight Heat!`
+https://www.sofurry.com/view/2014490
+
+---------#2579 [Thu 29 Jun 2023 09:11:21]
+
+By LiveIron
+`Emerald on the River (Ch. 3) [Complete]`
+https://archiveofourown.org/works/47406985
+
+---------#2574 [Sun 25 Jun 2023 20:35:59 ]
+
+By ThisIsARealAccount
+`Of Crimson Scales (Ch. 4)`
+https://archiveofourown.org/works/43701771
+
+By IntergalacticFlyingToaster
+`Chronicles of the Resistance (Ch. 21)`
+https://archiveofourown.org/works/33250798
+
+---------#2572 [Fri 23 Jun 2023 22:08:51]
+
+By HomeTome
+`Detective Anon`
+https://archiveofourown.org/works/47953339/chapters/121251031
+
+By Wizdoggo
+`Communist Canine Chronicles: Katyusha's House of Red (Ch. 10) [Complete]`
+https://rentry.org/zv83z
+
+---------#2569 [Wed 21 Jun 2023 15:17:19]
+
+By DesperateWinter
+`A Game of Skill`
+https://archiveofourown.org/works/48034120
+
+---------#2566 [ Mon 19 Jun 2023 12:16:17]
+
+By Sample_Family
+`RBHOS: Baking`
+https://archiveofourown.org/works/47970421
+
+---------#2565 [Sun 18 Jun 2023 11:26:56]
+
+By HomeTome
+`I Just Want Some Sleep!`
+https://archiveofourown.org/works/47953339
+
+---------#2564 [Sat 17 Jun 2023 16:08:04]
+
+By SweatshirtWearingViper
+`Snakes Can't Skate (Ch. 2)`
+https://archiveofourown.org/works/42264711
+
+---------#2559 [Wed 14 Jun 2023 01:55:55]
+
+By NameChangeDaily
+`Deer to my Heart (Ch. 15) [Complete]`
+https://archiveofourown.org/works/35634802
+
+---------#2558 [Tue 13 Jun 2023 11:44:09 ]
+
+By spicyhazard
+`Love Can Be Confusing`
+https://archiveofourown.org/works/46530355
+
+---------#2555 [Sun 11 Jun 2023 12:23:02]
+
+By Cobalt_Blue_Sphere
+`New Assignment (Ch. 10)`
+https://archiveofourown.org/works/28328127
+
+By Anonymous
+`Into The Unknown (Ch. 2)`
+https://rentry.org/rmizo
+
+---------#2550 [Wed 07 Jun 2023 13:42:37]
+
+By TheAxolotl
+`Unlikely Harmony`
+https://archiveofourown.org/works/47709172
+
+---------#2537 [Sat 27 May 2023 17:23:19]
+
+By Anonymous
+`/HMOFA/ S.T.A.L.K.E.R/EFT Story`
+https://rentry.org/rmizo
+
+---------#2535 [Fri 26 May 2023 13:56:49]
+
+By MiataAnon
+`Dejah's Trap (Ch. 15) [Complete]`
+https://archiveofourown.org/works/39383535
+
+By AlephKeller
+`Kintsugi`
+https://archiveofourown.org/works/47141308
+
+---------#2528 [Sun 21 May 2023 17:20:56]
+
+By LiveIron
+`Onyx in the Dunes (Ch. 2)`
+https://archiveofourown.org/works/46808233
+
+---------#2525 [Fri 19 May 2023 13:18:13]
+
+By TheSignalRemains
+`Blood in the Dark`
+https://archiveofourown.org/works/47282515
+
+---------#2508 [Mon 08 May 2023 16:58:42 ]
+
+By Narric
+`Second Hand Anomalies (Ch. 5)`
+https://archiveofourown.org/works/45575185
+
+---------#2495 [Sat 29 Apr 2023 09:43:41]
+
+By LiveIron
+`Spider Slayer`
+https://archiveofourown.org/works/46776454
+
+---------#2495 [Sat 29 Apr 2023 09:43:41]
+
+By HomeTome
+`Sonnie's Dulling`
+https://archiveofourown.org/works/46803106
+
+---------#2490 [Tue 25 Apr 2023 16:49:15]
+
+By Lurking_Edgelord
+`Europa Infinita: A Journey Across the Stars (Ch. 6)`
+https://archiveofourown.org/works/44727502
+
+---------#2489 [Mon 24 Apr 2023 21:14:02]
+
+By Tacticool_Dad
+`FCP After Hours (Ch. 3)`
+https://archiveofourown.org/works/46128964
+
+---------#2484 [Fri 21 Apr 2023 00:59:34]
+
+By LiveIron
+`Untitled College Story (Ch. 5)`
+https://archiveofourown.org/works/42973101
+
+---------#2483 [Thu 20 Apr 2023 14:39:30]
+
+By Bnonymous
+`Into the Wildlands (Ch. 25) [Complete]`
+https://archiveofourown.org/works/41366103
+
+---------#2480 [Tue 18 Apr 2023 18:07:49]
+
+By Doublespace
+`Here's your story, Asshole (Ch. 11)`
+https://archiveofourown.org/works/41174880
+
+---------#2466 [Sun 09 Apr 2023 16:39:36]
+
+By VanillaTin
+`Lop and Ochō: Sisters at War`
+https://archiveofourown.org/works/46352428
+
+---------#2462 [Thu 06 Apr 2023 22:09:22]
+
+By ColonTwo
+`My Waspfu (Ch. 3)`
+https://archiveofourown.org/works/28431948

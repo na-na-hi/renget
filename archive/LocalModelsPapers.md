@@ -74,6 +74,7 @@
 10/2023|[A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
 12/2023|[Gemini: A Family of Highly Capable Multimodal Models](https://files.catbox.moe/g7nn73.pdf)
 12/2023|[AlphaCode 2 Technical Report](https://files.catbox.moe/lqpb7g.pdf)
+12/2023|[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -453,6 +454,8 @@
 12/2023|[GIFT: Generative Interpretable Fine-Tuning Transformers](https://arxiv.org/abs/2312.00700)
 12/2023|[PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models](https://arxiv.org/abs/2312.02429)
 12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
+12/2023|[Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
+12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -472,3 +475,4 @@
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
 11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.is/Tch3H)
 11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)
+12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
