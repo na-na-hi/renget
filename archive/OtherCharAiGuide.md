@@ -6,6 +6,8 @@ If you're scrolling through and thinking "I'm not reading all that", then just r
 
 !!! warning The more they mess with the website the less stable all Ai's seem to be getting. I hope it all is still relevant but at this point ¯\_(ツ)_/¯
 
+I also made a guide for Aisekai https://rentry.org/AisekaiGuide
+
 [TOC]
 
 Within the guides you’re told about being able to use the terms {{user}} and {{char}} to refer to yourself and the Ai respectively. This is all about how they work and the potential to make a character using no example conversations or speech. The character used in any examples is this one:

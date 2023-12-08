@@ -157,7 +157,7 @@ Gumshoos waited patiently for Cacturne to get close to him. When he did, he rais
 
 Cacturne shoved Gumshoos off of him with his single working arm, then aimed for his gut with a Sucker Punch – his opponent blocked it with an arm, but it still injured him some. “I know how much you love playing dirty,” Gumshoos told Cacturne. “I am going to show you a dirty trick of my own.” He threw a Blinker Seed towards Cacturne, the criminal's vision growing dark.
 
-Cacturne listened carefully to the numerous sounds Gumshoos made – the sound of his feet moving on the cave floor, the sounds he made he moved his body, and so on. A rush of air let him know that Gumshoos was attacking him again. Lombre moved out of the way and fired a Bullet Seed towards the source of the noise, hearing his opponent grunt as the seeds hit him. He was hit.
+Cacturne listened carefully to the numerous sounds Gumshoos made – the sound of his feet moving on the cave floor, the sounds he made he moved his body, and so on. A rush of air let him know that Gumshoos was attacking him again. Cacturne moved out of the way and fired a Bullet Seed towards the source of the noise, hearing his opponent grunt as the seeds hit him. He was hit.
 
 Cacturne focused on fighting defensively while he was blinded, listening in for any attacks and firing towards where he last heard Gumshoos. He only managed to land his shots a few times, but it was good enough for him. He was still kicking, and his vision was returning – it was time to finish off the last of the intruders that dared to step into his home.
 
