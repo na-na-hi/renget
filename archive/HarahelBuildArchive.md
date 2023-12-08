@@ -615,6 +615,10 @@ Note:
 Data:	https://textbin.net/zklywkwrna
 Music:	https://www.youtube.com/watch?v=6FsWwIaxMho
 
+Name: Yilian
+Note: A support attached to Liliat, profile currently in development.
+Data: https://rentry.org/vgfwa
+Music: https://www.youtube.com/watch?v=v47KZwY5Ih0
 
 Name:	Yulia Esca (of the Esca Clan)
 Note:	Ice cream Princess/Heir of the Esca clan, Yuki Onna who watch over the western Nocturne mountain range. Fledgling adventurer and talented artist.

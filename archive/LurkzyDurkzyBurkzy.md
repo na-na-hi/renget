@@ -32,3 +32,5 @@
 ***
 ###->Mixed Logs (Using Claude and GPT within the same chat)<-
 ->![Log5](https://files.catbox.moe/k39b3q.png)<-
+***
+->![Log6](https://files.catbox.moe/h1s08g.png)<-

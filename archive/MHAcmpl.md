@@ -627,6 +627,7 @@ Stage team: https://desuarchive.org/tg/thread/91101836/#91107742
 Updated Clique Relationship Chart + Moodboard: https://desuarchive.org/tg/post/91118077/
 Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
+Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -974,6 +975,8 @@ Reaper Rising (Reaper, Drekus, Overdose): https://rentry.org/reaper-rising
 Spherethirst Isekai: https://rentry.org/s8558
 MHA Isekai 3.2: https://rentry.org/4eama
 Call me from the future, past (Yamata, Blast Burn, Arena, Radius): https://rentry.org/znbnka
+Holden On To A Blank (Holden Deckard, Blank): https://rentry.org/nfkvx3
+
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

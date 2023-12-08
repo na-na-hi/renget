@@ -19,509 +19,43 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
-#White-Gold Warlord
-
+#Fate/Arena
 ***
 Page 1
 ***
 ```
-https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
+>SETTING:
+>>91166208
 
-> For years since the Oblivion Crisis war has dominated Tamriel
-> But the final battle of the Imperial Interregnum as dictated by Prophecy has appeared
-> Whoever sits upon the Ruby Throne for Three days will be the Successor of the Septims
-> The universality of signs from the Daedra, Gods, and supernatural phenomena has forced all true contenders here
-> There can be only one Emperor...
+>"GAMEPLAY" CONT:
+>Each day will be broken up into 3 "updates" each over a period of 8 hours, where anons can change the builds decision. I will elaborate more on what affects rolls and such if needed.
+>It will begin on next Thursday.
 
->>> Rules
-> - Shattered Amulet is off-limits, reserved for the one who can hold the Heart of the Imperial City for three 'Days' {Each day is a progression of events}
-> - Build placement influence starting location on the Imperial Island
-> - Alliances are allowed but are tenuous and CAN be sabotaged
-> - Relics and Honour-Choices may be taken with re-flavoring
-> - Most of the Build will contribute to the fight, maintenance, or the aftermath
-> - General strategic plans with the build are much appreciated
-> - In-general banter and direction will be taken to influence events as much as manageable 
+>RULES (First Draft):
+https://rentry.org/FateArenaRule1
 
->DAY 1: >>91045750
->DAY 2: >>91051656
->DAY 3: >>91059073
->DAY 4: >>91070426
->DAY 5: >>91082651
->Day 6: >>91091642
->Day 7: >>91102274
->Day 8: >>91117368
->Day 9: >>91134596
+>BUILDS:
+>Servants
+>Diomedes (Saber)
+https://archive.4plebs.org/tg/thread/91152881/#91160188
+>Red Riding Hood (Saber)
+https://archive.4plebs.org/tg/thread/89890471/#89891785
+>Arsene Lupin (Assassin)
+>>91167979
+>Less (Assassin)
+>>91168037
 
-```
-***
-Page 2
-***
-```
->Dance-With-Rain
->>91029201 
-https://rentry.org/Dance-With-Rain
->General Caligate
->>91029566 
->Grenel the Fat
->>91008045 
->Endehm, Hero from the High Seas
->>91040632 
->Lilinah
->>91017590 
->Isaelene Nesis V
-https://rentry.org/wwb8r
->Ruga the Doom
->>91018514 
->Nishtar
->>91029761 
-https://rentry.org/DancerNishtar
->Octavian Caerulus
->>91011580 
->Captain Commander Farvad Torn
->>91010103 
->Atrael Elsinore
->>91033157 
->Ysmir The Giant
->>91011679 
->The Cobra King
->>91013685 
->Goose Neck Silver
->>91014861 
->Vivie Herrvan
->>91015282 
->Al-Rahj
->>91016152 
->An-Xleel
->>91018001 
->Magnus Septim II
->>91022003 
->Kasha Shadowtail
->>91023277 
->Briarheart "Durcorach the Second"
->>91028033 
->Anumaril
->>91028398 
->ANCALAGA
->>91028873 
->Cassynder Mero
->>91029257 
->Sareem
->>91030191 
->Euryale
->>91030235 
->Vanillius Philidus
->>91034314 
->"Talos"
->>91034824 
-```
-
-#Kill the Heavens
-
-***
-Page 1
-***
-```
-Rentry: https://rentry.org/KTHSWEEP (edit code: ihatetribulationlightning)
-Card Template: https://files.catbox.moe/bgwmn0.xcf
-Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
-
->DISCIPLES
->Yasha, Pokémon Trainer
->>90675954
->Ming Ming, Capitalism, Ho!
->>90678460
->Zheng Hao, Magic Fingers
->>90687745
->Nobu, Operation Martial Storm
->>90688350
->Yexin, possible furry build
->>90689295
->Lord Charles Maynard, Opioid Addict
->>90698018
->Heng Zhiqiang, Ultimate Kuudere
->>90711509
->Dónall, Hare-oic Rabbit
->>90738966
->Qiang Wei, attracted to a spear? sounds kinda gay
->>90760925
->Chao Shi Pien
->>90992614
-
->ELDERS
->The Boneless Old Man, who clearly has bones just look at the picture cmon
->>90673589
->Dong Do, A real fishy guy
->>90674074
->Xiu Yi, Hot Woman (literally)
->>90674739
->Guan Chāo, didn’t listen to his pastor’s warnings
->>90817387
->Gyldenwulf, least violent cultivation protagonist
->>90675021
->Huang Yu, Bald Born-Again Buddhist
->>90676526
->Shu Luxing, Dumbledysphoria
->>90678374
->Moriko, Catnip Addict
->>90678657
->Morgain Blackheart, Tumblr Sexyman
->>90680439
->Jian, Split Personality (haha get it split like with a sword)
->>90680789
->Mei Lan, least hypercompetent maid
->>90691913
->Wen Lifen, Slaanesh’s Strongest Soldier
->>90696265
->Lei Daiyu, Band Girl
->>90696383
->Leanne Pierpoint, Red Flag Raiser
->>90705408
->Kay Lee, Crossover Episode
->>90709507
->Xicotl, how come your mom lets you have THREE gods? 
->>90750577
->Lan Jiangmei, The Martial Realm’s Next Masterchef
->>90784451
->Pang Jing
->>90829445
->Bai Cheng
->>90928405
-```
-***
-Page 2
-***
-```
->ANCESTORS
->Xū, Void Parisian
->>90768739
->Shu Shihan… I dunno, I got nothing for this one
->>90678581
->Magikarp. It’s a fucking magikarp do I need to give it a title?
->>90681699
->Zhihao Cheng, Ace Attorney
->>90712377
->Po Kong, The World’s Strongest Cultivator
->>90738598
->Chenrezig Bodhisattva, didn’t read the Bodhisattva Precepts
->>90743192
->Fen Jiange, looks suspiciously like Wen Lifen
->>90803915
->Meng Zhen, Free Deus Ex Machina
->>90825484
-
->WRITEFAGS
->First Fight (Gyldenwulf)
-https://rentry.org/FirstFight
->A Blade With No Sheath (Jian)
-https://rentry.org/xgtgdc
->Night Chores (Mei Lan, Xu)
-https://rentry.org/dpfk5
->The Circus is in Town (Morgain Blackheart)
-https://pastebin.com/5ZmCW69k
->A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
-https://rentry.org/o28z44
->Musings (Xiu)
-https://rentry.org/o8x42
->Toil: (Heng)
-https://rentry.org/TOILING
->The Abyss Expedition (Boneless Old Man, Magikarp, Mei, Lan, Xū, Dónall, Daiyu)
-https://rentry.org/3xmtq
-```
-***
-Page 3
-***
-```
->RELATIONSHIP CHARTS
->Jian’s Diary
-https://rentry.org/76xvfc
->Xiu Yi
-https://rentry.org/9sa6m
->Yasha
-https://rentry.org/fecd5
->Ming Ming
-https://rentry.org/xnz7aa
->Lei Daiyu
-https://rentry.org/DaiyuChart
->The Boneless Old Man
-https://rentry.org/kgtam
->Zheng
-https://rentry.org/rvcrb
->Kay Lee
-https://rentry.org/iot7xi
-
-```
-
-#Danmachi (Reboot?)
-***
-Page 1
-***
-```
->Familias
-Mammon, God of "Beauty" (3/7)
->>90927905 
-Otto Smarbeline, lvl 5 Halfling Hypnotist
->>90922315 
-Oakly, lvl 6 Elf Adventurer
->>90927607 
-Gen Immu, lvl 2 Human Mage (Debt Slave)
->>90936418 
-
-Athena, Goddes of Wisdom (3/5)
->>90926917 
-Olivia Koskela, lvl 4 Demi Human Brawler
->>90921630 
-Tomo Hidekazu, lvl 2 Human Adventurer
->>90927231 
-Meliadne Dys, lvl 4 Demi Human Hunter
->>90944730 
-
-Lassie, Goddess of Servitude and Duty (4/5)
->>90931660 
-Cerise Chartreuse, lvl 4 Elf Alchemist
->>90939192 
-Lotta Jonsadottir, lvl 4 Human Sentinel
->>90941336 
-Berry, lvl 6 Demi Human Landsknecht
->>90942856 
-Kyara Hikoichi, lvl 5 Half Dwarf Fighter
->>90942940 
-
->Adventurers
-Secks Havr, lvl 4 Dwarf Sex Haver
->>90927245 
-Nesha Arrim, lvl 5 Amazonian Adventurer
->>90927560 
-Simon, lvl 3 Demi Human Monster Hunter
->>90943572 
-Saffron, lvl 4 Feline Chef
->>90943797
-
->Writefags
-Daily Life in the City of Orario (feat. Olivia & Tomo, Berry & Kyara, Gen & Mammon)
-https://rentry.org/tyutc
-```
-#Dark City
-***
-Page 1
-***
-```
-Dark City Rentry: https://rentry.org/6s6ga
-editcode: dcedit
-
->Vampires
-Quentin King
->>90813275
-Alicia de Ville
->>90795982 
->The Doctor
->>90882939
-
->Werewolves
-Caroline Hayward
->>90795982
-Olaf Godwinson
->>90798918
-Scott Caledonia
->>90810327
-
->Fae
-Emilia Shadowsong
->>90807058
-
->C’Thulid
-Greed
->>90804698
-Child of the Void
->>90862836
-
->Fallen
-Zander Merrick
->>90793746
-Joshua Morningstar
->>90803360
-Conquest
->>90804242
-War
->>90805330
-
->Demon
-Cherie Fonseca
->>90795982
-
->Zombie
-Natalie Windsor
->>90795982
-Sweeney
->>90803521
-
->Dragon
-Senna Netherclaw
->>90802630
-
->Experiment
-“Tom”
->>90814045
-Evan Harker
->>90819287
-Death
->>90819847
-Mister Smith
->>90821429
-Famine
->>90847598
-
->Humans
-Crow
->>90815217
-Owen
->>90820406
-Number 7
->>90820998
-Pestilence
->>90847663
-Ted Zion
->>90861070
-```
-***
-Page 2
-***
-```
->Writefags
-Tom's writefag: https://rentry.org/ah4ve
-Zander Merrick Goes Crazy (Zander): https://rentry.org/7iz48b
-Roastie squad writefag: https://rentry.org/cmqdq
-Cloud 9 (Famine, Death): https://rentry.org/3rqdx
-Evan Harker's Awakening: https://rentry.org/v7w22
-Ennui: https://pastebin.com/Ypj15YhN (embed)
-Where Wolf? (part 1): https://rentry.org/z3fag#L-1-1
-War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
-The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
-The Doctor's Intrudoction?: https://rentry.org/yd2rtw
-Where Wolf? (part 2, the big club kerfuffel): https://rentry.org/qrp8g
-
->Relationship Charts:
-Conquest: https://rentry.org/g6frmh
-Olaf's relationship chart: https://rentry.org/irg4x
-
->Tier List
-Tier Maker: https://tiermaker.com/create/dark-city-mp-2-906356
-```
-
-#One Piece
-***
-Page 1
-***
-
-```
-https://rentry.org/OnePieceMPCompile
-edit code: warmpiss
-
->World Government
-Saint Timothy Morgenstern
->>90876987
-Pippin Smallings
->>90906441
-
->Marines
-Pokoko-koko-pokokoko
->>90882196
-Grace Sol
->>90882412
-Mioka
->>90888481
-Tenot Metzenbam
->>90878677
-Yamome
->>90905233
-Admiral Troika Margrave
->>90914249
-Towa Kadowaki
->>90934112
-
->Pirates
-Abraham the Slayer
->>90887262
-Edward
->>90879870
-Amaranthy
->>90898563
-Taiyo Umi
->>90872673
-Lonicera
->>90872507
-Melia Busujima
->>90872254
-Thomas "Blue Tom" Roberts
->>90892576
-Wednesday
->>90893458
-Asraol
->>90903293
-Sora Tenshi
->>90905795
-Goose D. Robur
->>90931699
-Hog Scoville
->>90933927
-
->Seven Warlords
-Atla
->>90887983
-Rosa
->>90879507
-Idia
->>90911712
-Funeda
->>90945509
->Syke
->>91039421
-
->Four Emperors
-Big Hand Robur
->>90912254
-Geiger
->>90930135
-Ox Garrett
->>90929641
-
->Revolutionaries
-Baster
->>90879850
-Doctor Marvelous
->>90871851
-Roque D. Kasbah
->>90898285
-
->Bounty Hunters
-Linel Rytal
->>90874461
-Chester Chainsaw
->>90897753
-"Big Guy", Stargazing Skyscraper
->>90891785
-Olly Percy
->>90911376
-```
-
-***
-Page 2
-***
-```
-Writefags:
->Eddy writefag
-https://pastebin.com/3s0V8dLk
->Eddy writefag 2
-https://pastebin.com/v6r8urD9
->O Captain, Where Art Thou?
-https://rentry.org/qrxqzd
->What if he died?
-https://pastebin.com/JsMxJkVr
->First Class (Saint Timothy Morgenstern, Tenot Metzenbam, Grace Sol, Mioka, Sora Tenshi mentioned)
-https://rentry.org/znkrq
->A Meeting Marred
-https://rentry.org/8o5g6
->A Pirate's Life For Her
-https://rentry.org/7463i
+>Masters
+>Sabile Sabanto
+>>91166738
+>Peter Little (Mind of Steel)
+>>91167151
+>Shiori Medoruma (Mind of Steel)
+>>91167587
+>Lizrich von Einzbern
+>>91168111 (You)
+>Mundi Pishdar & His wife Naela
+>>91168251
 
 ```
 
@@ -544,11 +78,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
-https://rentry.org/znbnka
+New Supporter Student Build (Not really new, but he flew under the radar a couple threads back so here he is).
+>Satoru Tani (Student)
+>>91149772
 
->Meme Video of Popsy and Kampai (Not really new, but I forgot to showcase it, so here it is.)
-https://files.catbox.moe/n6fh5b.mp4
+New Writefag
+>I Need A Hero(ine)...! (Satoru Tani)
+https://rentry.org/ynbmqo
+
+New Artfag
+>cringekino clickbait
+>>91169301
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -776,6 +316,9 @@ https://rentry.org/iptpr
 >>90913931
 >Brightly
 >>91006966
+>Satoru Tani (Student)
+>>91149772
+
 
 >VILLAINS (Villain Name):
 >Turncoat Agency:
@@ -1057,12 +600,524 @@ Page 9
 Writefags (final)
 >Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
 https://rentry.org/znbnka
+>Holden On To A Blank (Holden Deckard, Blank)
+https://rentry.org/nfkvx3
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the rentry
 ```
+
+#Kill the Heavens
+
+***
+Page 1
+***
+```
+Rentry: https://rentry.org/KTHSWEEP (edit code: ihatetribulationlightning)
+Card Template: https://files.catbox.moe/bgwmn0.xcf
+Tiermaker Template: https://tiermaker.com/create/kth-multiplayer-906356
+
+>DISCIPLES
+>Yasha, Pokémon Trainer
+>>90675954
+>Ming Ming, Capitalism, Ho!
+>>90678460
+>Zheng Hao, Magic Fingers
+>>90687745
+>Nobu, Operation Martial Storm
+>>90688350
+>Yexin, possible furry build
+>>90689295
+>Lord Charles Maynard, Opioid Addict
+>>90698018
+>Heng Zhiqiang, Ultimate Kuudere
+>>90711509
+>Dónall, Hare-oic Rabbit
+>>90738966
+>Qiang Wei, attracted to a spear? sounds kinda gay
+>>90760925
+>Chao Shi Pien
+>>90992614
+
+>ELDERS
+>The Boneless Old Man, who clearly has bones just look at the picture cmon
+>>90673589
+>Dong Do, A real fishy guy
+>>90674074
+>Xiu Yi, Hot Woman (literally)
+>>90674739
+>Guan Chāo, didn’t listen to his pastor’s warnings
+>>90817387
+>Gyldenwulf, least violent cultivation protagonist
+>>90675021
+>Huang Yu, Bald Born-Again Buddhist
+>>90676526
+>Shu Luxing, Dumbledysphoria
+>>90678374
+>Moriko, Catnip Addict
+>>90678657
+>Morgain Blackheart, Tumblr Sexyman
+>>90680439
+>Jian, Split Personality (haha get it split like with a sword)
+>>90680789
+>Mei Lan, least hypercompetent maid
+>>90691913
+>Wen Lifen, Slaanesh’s Strongest Soldier
+>>90696265
+>Lei Daiyu, Band Girl
+>>90696383
+>Leanne Pierpoint, Red Flag Raiser
+>>90705408
+>Kay Lee, Crossover Episode
+>>90709507
+>Xicotl, how come your mom lets you have THREE gods? 
+>>90750577
+>Lan Jiangmei, The Martial Realm’s Next Masterchef
+>>90784451
+>Pang Jing
+>>90829445
+>Bai Cheng
+>>90928405
+>Smile in Shadow
+>>91160779
+
+```
+***
+Page 2
+***
+```
+>ANCESTORS
+>Xū, Void Parisian
+>>90768739
+>Shu Shihan… I dunno, I got nothing for this one
+>>90678581
+>Magikarp. It’s a fucking magikarp do I need to give it a title?
+>>90681699
+>Zhihao Cheng, Ace Attorney
+>>90712377
+>Po Kong, The World’s Strongest Cultivator
+>>90738598
+>Chenrezig Bodhisattva, didn’t read the Bodhisattva Precepts
+>>90743192
+>Fen Jiange, looks suspiciously like Wen Lifen
+>>90803915
+>Meng Zhen, Free Deus Ex Machina
+>>90825484
+
+>WRITEFAGS
+>First Fight (Gyldenwulf)
+https://rentry.org/FirstFight
+>A Blade With No Sheath (Jian)
+https://rentry.org/xgtgdc
+>Night Chores (Mei Lan, Xu)
+https://rentry.org/dpfk5
+>The Circus is in Town (Morgain Blackheart)
+https://pastebin.com/5ZmCW69k
+>A Boneless Old Man and a Young Doctor (Zheng Hao and The Boneless Old Man)
+https://rentry.org/o28z44
+>Musings (Xiu)
+https://rentry.org/o8x42
+>Toil: (Heng)
+https://rentry.org/TOILING
+>The Abyss Expedition (Boneless Old Man, Magikarp, Mei, Lan, Xū, Dónall, Daiyu)
+https://rentry.org/3xmtq
+```
+***
+Page 3
+***
+```
+>RELATIONSHIP CHARTS
+>Jian’s Diary
+https://rentry.org/76xvfc
+>Xiu Yi
+https://rentry.org/9sa6m
+>Yasha
+https://rentry.org/fecd5
+>Ming Ming
+https://rentry.org/xnz7aa
+>Lei Daiyu
+https://rentry.org/DaiyuChart
+>The Boneless Old Man
+https://rentry.org/kgtam
+>Zheng
+https://rentry.org/rvcrb
+>Kay Lee
+https://rentry.org/iot7xi
+
+```
+
+#White-Gold Warlord
+
+***
+Page 1
+***
+```
+https://rentry.org/WGWLSWEEP (password: WGWLSWEEP)
+
+> For years since the Oblivion Crisis war has dominated Tamriel
+> But the final battle of the Imperial Interregnum as dictated by Prophecy has appeared
+> Whoever sits upon the Ruby Throne for Three days will be the Successor of the Septims
+> The universality of signs from the Daedra, Gods, and supernatural phenomena has forced all true contenders here
+> There can be only one Emperor...
+
+>>> Rules
+> - Shattered Amulet is off-limits, reserved for the one who can hold the Heart of the Imperial City for three 'Days' {Each day is a progression of events}
+> - Build placement influence starting location on the Imperial Island
+> - Alliances are allowed but are tenuous and CAN be sabotaged
+> - Relics and Honour-Choices may be taken with re-flavoring
+> - Most of the Build will contribute to the fight, maintenance, or the aftermath
+> - General strategic plans with the build are much appreciated
+> - In-general banter and direction will be taken to influence events as much as manageable 
+
+>DAY 1: >>91045750
+>DAY 2: >>91051656
+>DAY 3: >>91059073
+>DAY 4: >>91070426
+>DAY 5: >>91082651
+>Day 6: >>91091642
+>Day 7: >>91102274
+>Day 8: >>91117368
+>Day 9: >>91134596
+
+```
+***
+Page 2
+***
+```
+>Dance-With-Rain
+>>91029201 
+https://rentry.org/Dance-With-Rain
+>General Caligate
+>>91029566 
+>Grenel the Fat
+>>91008045 
+>Endehm, Hero from the High Seas
+>>91040632 
+>Lilinah
+>>91017590 
+>Isaelene Nesis V
+https://rentry.org/wwb8r
+>Ruga the Doom
+>>91018514 
+>Nishtar
+>>91029761 
+https://rentry.org/DancerNishtar
+>Octavian Caerulus
+>>91011580 
+>Captain Commander Farvad Torn
+>>91010103 
+>Atrael Elsinore
+>>91033157 
+>Ysmir The Giant
+>>91011679 
+>The Cobra King
+>>91013685 
+>Goose Neck Silver
+>>91014861 
+>Vivie Herrvan
+>>91015282 
+>Al-Rahj
+>>91016152 
+>An-Xleel
+>>91018001 
+>Magnus Septim II
+>>91022003 
+>Kasha Shadowtail
+>>91023277 
+>Briarheart "Durcorach the Second"
+>>91028033 
+>Anumaril
+>>91028398 
+>ANCALAGA
+>>91028873 
+>Cassynder Mero
+>>91029257 
+>Sareem
+>>91030191 
+>Euryale
+>>91030235 
+>Vanillius Philidus
+>>91034314 
+>"Talos"
+>>91034824 
+```
+
+#Danmachi (Reboot?)
+***
+Page 1
+***
+```
+>Familias
+Mammon, God of "Beauty" (3/7)
+>>90927905 
+Otto Smarbeline, lvl 5 Halfling Hypnotist
+>>90922315 
+Oakly, lvl 6 Elf Adventurer
+>>90927607 
+Gen Immu, lvl 2 Human Mage (Debt Slave)
+>>90936418 
+
+Athena, Goddes of Wisdom (3/5)
+>>90926917 
+Olivia Koskela, lvl 4 Demi Human Brawler
+>>90921630 
+Tomo Hidekazu, lvl 2 Human Adventurer
+>>90927231 
+Meliadne Dys, lvl 4 Demi Human Hunter
+>>90944730 
+
+Lassie, Goddess of Servitude and Duty (4/5)
+>>90931660 
+Cerise Chartreuse, lvl 4 Elf Alchemist
+>>90939192 
+Lotta Jonsadottir, lvl 4 Human Sentinel
+>>90941336 
+Berry, lvl 6 Demi Human Landsknecht
+>>90942856 
+Kyara Hikoichi, lvl 5 Half Dwarf Fighter
+>>90942940 
+
+>Adventurers
+Secks Havr, lvl 4 Dwarf Sex Haver
+>>90927245 
+Nesha Arrim, lvl 5 Amazonian Adventurer
+>>90927560 
+Simon, lvl 3 Demi Human Monster Hunter
+>>90943572 
+Saffron, lvl 4 Feline Chef
+>>90943797
+
+>Writefags
+Daily Life in the City of Orario (feat. Olivia & Tomo, Berry & Kyara, Gen & Mammon)
+https://rentry.org/tyutc
+```
+#Dark City
+***
+Page 1
+***
+```
+Dark City Rentry: https://rentry.org/6s6ga
+editcode: dcedit
+
+>Vampires
+Quentin King
+>>90813275
+Alicia de Ville
+>>90795982 
+>The Doctor
+>>90882939
+
+>Werewolves
+Caroline Hayward
+>>90795982
+Olaf Godwinson
+>>90798918
+Scott Caledonia
+>>90810327
+
+>Fae
+Emilia Shadowsong
+>>90807058
+
+>C’Thulid
+Greed
+>>90804698
+Child of the Void
+>>90862836
+
+>Fallen
+Zander Merrick
+>>90793746
+Joshua Morningstar
+>>90803360
+Conquest
+>>90804242
+War
+>>90805330
+
+>Demon
+Cherie Fonseca
+>>90795982
+
+>Zombie
+Natalie Windsor
+>>90795982
+Sweeney
+>>90803521
+
+>Dragon
+Senna Netherclaw
+>>90802630
+
+>Experiment
+“Tom”
+>>90814045
+Evan Harker
+>>90819287
+Death
+>>90819847
+Mister Smith
+>>90821429
+Famine
+>>90847598
+
+>Humans
+Crow
+>>90815217
+Owen
+>>90820406
+Number 7
+>>90820998
+Pestilence
+>>90847663
+Ted Zion
+>>90861070
+```
+***
+Page 2
+***
+```
+>Writefags
+Tom's writefag: https://rentry.org/ah4ve
+Zander Merrick Goes Crazy (Zander): https://rentry.org/7iz48b
+Roastie squad writefag: https://rentry.org/cmqdq
+Cloud 9 (Famine, Death): https://rentry.org/3rqdx
+Evan Harker's Awakening: https://rentry.org/v7w22
+Ennui: https://pastebin.com/Ypj15YhN (embed)
+Where Wolf? (part 1): https://rentry.org/z3fag#L-1-1
+War - https://rentry.org/e3c2i (War, Conquest, Death, Famine, Pestilence)
+The Call of a Lamb - https://rentry.org/hy5eh4 (War, Conquest)
+The Doctor's Intrudoction?: https://rentry.org/yd2rtw
+Where Wolf? (part 2, the big club kerfuffel): https://rentry.org/qrp8g
+
+>Relationship Charts:
+Conquest: https://rentry.org/g6frmh
+Olaf's relationship chart: https://rentry.org/irg4x
+
+>Tier List
+Tier Maker: https://tiermaker.com/create/dark-city-mp-2-906356
+```
+
+#One Piece
+***
+Page 1
+***
+
+```
+https://rentry.org/OnePieceMPCompile
+edit code: warmpiss
+
+>World Government
+Saint Timothy Morgenstern
+>>90876987
+Pippin Smallings
+>>90906441
+
+>Marines
+Pokoko-koko-pokokoko
+>>90882196
+Grace Sol
+>>90882412
+Mioka
+>>90888481
+Tenot Metzenbam
+>>90878677
+Yamome
+>>90905233
+Admiral Troika Margrave
+>>90914249
+Towa Kadowaki
+>>90934112
+
+>Pirates
+Abraham the Slayer
+>>90887262
+Edward
+>>90879870
+Amaranthy
+>>90898563
+Taiyo Umi
+>>90872673
+Lonicera
+>>90872507
+Melia Busujima
+>>90872254
+Thomas "Blue Tom" Roberts
+>>90892576
+Wednesday
+>>90893458
+Asraol
+>>90903293
+Sora Tenshi
+>>90905795
+Goose D. Robur
+>>90931699
+Hog Scoville
+>>90933927
+
+>Seven Warlords
+Atla
+>>90887983
+Rosa
+>>90879507
+Idia
+>>90911712
+Funeda
+>>90945509
+>Syke
+>>91039421
+
+>Four Emperors
+Big Hand Robur
+>>90912254
+Geiger
+>>90930135
+Ox Garrett
+>>90929641
+
+>Revolutionaries
+Baster
+>>90879850
+Doctor Marvelous
+>>90871851
+Roque D. Kasbah
+>>90898285
+
+>Bounty Hunters
+Linel Rytal
+>>90874461
+Chester Chainsaw
+>>90897753
+"Big Guy", Stargazing Skyscraper
+>>90891785
+Olly Percy
+>>90911376
+```
+
+***
+Page 2
+***
+```
+Writefags:
+>Eddy writefag
+https://pastebin.com/3s0V8dLk
+>Eddy writefag 2
+https://pastebin.com/v6r8urD9
+>O Captain, Where Art Thou?
+https://rentry.org/qrxqzd
+>What if he died?
+https://pastebin.com/JsMxJkVr
+>First Class (Saint Timothy Morgenstern, Tenot Metzenbam, Grace Sol, Mioka, Sora Tenshi mentioned)
+https://rentry.org/znkrq
+>A Meeting Marred
+https://rentry.org/8o5g6
+>A Pirate's Life For Her
+https://rentry.org/7463i
+
+```
+
 # Naruto (Second Reboot)
 ***
 Page 1

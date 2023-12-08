@@ -162,7 +162,7 @@ If an outdated page gets updated, it loses its outdated status
 	- [Kemono/Fanbox](https://kemono.party/fanbox/user/6102855)
 	- [Kemono/Fantia](https://kemono.party/fantia/user/29051)
 
-- camonome (Artist is dead...):
+- camonome (Artist is ALIVE... Just needs updates):
 	- [Fanbox](https://camonome.fanbox.cc/)
 	- [Fanita](https://fantia.jp/fanclubs/138122)
 	- [Kemono/Fanbox](https://kemono.party/fanbox/user/8814278)(Updated)

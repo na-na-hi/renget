@@ -63,8 +63,7 @@ Auto1111 | ComfyUI
 - Optionally put [this LoRA](https://civitai.com/models/104477/de-anime-er) into the prompt and set it to around -.6
 
 ### Fixing washed out artists
-(Under construction)
-[color enhance script](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git)
+> ※ I have yet to notice the same dulling effect on comfyui
 Auto1111 | rescale
 :----: | :----:
 no fix | ![](https://files.catbox.moe/vw0g7i.png)
@@ -73,6 +72,9 @@ Auto fix:1 | ![](https://files.catbox.moe/rk1nqr.png)
 Auto:.7/Script:.7 | ![](https://files.catbox.moe/w8p8ry.png)
 EF Funner edition | ![](https://files.catbox.moe/jie41g.png)
 
+ComfyUI | Rescale
+:----: | :----:
+No fix | ![](https://files.catbox.moe/os23sv.png)
 
 ## 2D~3D~Real tagging
 -> ![](https://files.catbox.moe/eizig7.png) <-

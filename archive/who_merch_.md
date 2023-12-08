@@ -1,10 +1,10 @@
 # Nanashi Mumei merchandise
-!!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them) and memberships are the best ways to support them. 
+!!!Info The rule of thumb for  holomems is that customised merch (anniversary, birthday, etc; things they are clearly designed or have a lot of input by them), voice packs and memberships are the best ways to support them. 
 	If you are in Japan these are good xeeter account/websites to track goods being sold physically:
 	https://twitter.com/hololive_goods 
 	https://merch-matome.com/
 
-**Hololive 5th Fes Capture the Moment 16-17th March 2024 (JST) Start 1830 **
+**Hololive 5th Fes *Capture the Moment* 16-17th March 2024 (JST) Start 1830 **
 *Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0230 PST)*
 https://hololivesuperexpo2024.hololivepro.com/tickets
 https://hololivesuperexpo2024.hololivepro.com/en/tickets

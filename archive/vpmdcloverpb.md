@@ -346,7 +346,9 @@ Ross (M), Smeargle
 >Gets along very well with Cassie, due to their shared love of cute accessories.
 
 ###Gill/Bill
-{Pending}
+>Gill is optimistic and outgoing to a fault. Probably extremely so. No matter how, he'll always try to bring the best out of people. As a human, he worked any menial job that paid well.
+
+>Bill is cautious and more methodical, always looking towards the heuristics and processes behind a situation. He has a powerful drive once he's decided on something. Even though he is shy to most and sardonic to Gill because of the ridiculous circumstances, he is ultimately a caring individual. Psychology student.
 
 ###Pikachu
 >Pikachu (name pending) is a bashful-natured human-turned-Pokémon who comes off as a bit of a dense airhead. She's someone with incredibly good intentions, but her naivete, gullibleness and tendency to catastrophise and panic over the most minor of problems means her efforts often come off as clumsy at best and flat-out dangerous at its worst. Despite her naturally spacey, silly, and sometimes stupid demeanour, she's surprisingly perceptive at times and tends to be one of the more worrisome types out of the Clover Guild. She's a crybaby at times, too. She's got a lot of knowledge about Pokémon, but it's less of the useful combat stuff and more like tons of extremely obscure trivia which she's more than happy to ramble to you about, but gets incredibly embarrassed when you point out that she's rambling

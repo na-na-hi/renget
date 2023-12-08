@@ -17,11 +17,11 @@ Neiomi Cielo|[Youtube](https://www.youtube.com/@neiomicielo) [Twitter](https://t
 Roza Coatl|[Youtube](https://www.youtube.com/@GiniMercury) [Twitter](https://www.youtube.com/@GiniMercury)|Shapeshifter theme. Former Lucid streamer turned Indie. Nyana's Friend.
 Kerimara|[Youtube](https://www.youtube.com/@kerimaravt) [Twitter](https://twitter.com/kerimaravt)|Flamingo. One of Sena's many wives.
 S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twitter.com/isaboatvtuber)|Singer. Boat theme. One of Sena's many wives.
-Tommie Ch.|[Youtube](https://www.youtube.com/@TommieVT) [Twitter](https://twitter.com/teenytommie)|Tomato Rat. Got hit with the massive pipkin and privated all her stuff but has come back from the pipkin. Sena's Friend.
+Mimsie|[Youtube](https://www.youtube.com/@zxtsubou) [Twitch](https://www.twitch.tv/z_etsubou) [Twitter](https://twitter.com/zetsubouism) [Website](menhera.pro)|Formerly Tomato Rat (Tommie Ch.), now bnnuy/dog thing. Occasional menhera bouts. Likes retro games. Sena's Friend.
 Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
 Saltea Kichee|[Youtube](https://www.youtube.com/@Saltea_Kichee) [Twitter](https://twitter.com/SalteaKichee)|Likes baking, bread and has interacted a lot, from making drawings to chatting with Minna.
-Cublala|[Twitch](https://www.twitch.tv/cublala) [Twitter](https://twitter.com/cublala)|Cub/Bear themed, softspoken. Former FlaVR. In a vtuber group called 2D2U with Rem.
-Rem Rorschach|[Twitch](https://www.twitch.tv/rorschach_em) [Twitter](https://twitter.com/rorschach_em)|Extreme tangent rambler. Hetalia, Project Moon and AI enthusiast. Former FlaVR. In a vtuber group called 2D2U with Cublala.
+Cublala|[Twitch](https://www.twitch.tv/cublala) [Twitter](https://twitter.com/cublala)|Cub/Bear themed, softspoken. Formerly Jubilee Jonagold/Stela Fritter of FlaVR. In a vtuber group called 2D2U with Rem.
+Rem Rorschach|[Twitch](https://www.twitch.tv/rorschach_em) [Twitter](https://twitter.com/rorschach_em)|Extreme tangent rambler. Hetalia, Project Moon and AI enthusiast. Formerly Araminta Aminthe of FlaVR. In a vtuber group called 2D2U with Cublala.
 
 ---
 

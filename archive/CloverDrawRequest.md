@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+1. Flamenwerfer meme ft. Mr. Gible & Hans.
+
 1. Booker dressed as a captain x-com operative https://files.catbox.moe/q2qu9e.png
 
 1. Booker and Sneasel eating pizza. Booker is sitting at the little pizza saver/table.
