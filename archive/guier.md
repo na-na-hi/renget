@@ -8,11 +8,11 @@
 ->[Jump straight to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)<-
 
 
-I intend for this guide to serve as a point of reference for new people interested in Star Citizen and making sure it is always updated to represent the current state of the game. **Don't feel like you need to read everything here to get started**; just skim through what you think might be of interest. I won't be covering the planned features and mechanics CIG has yet to release in any sort of depth.
+The goals of this page are to serve as a point of reference for new people interested in delving into Star Citizen while also making sure it is constantly updated to represent the current state of the game. **Don't feel like you need to read everything here to get started**; just skim through what you think might be of interest. I won't be covering the planned features and mechanics that CIG has yet to release in any sort of depth, as they are not relevant.
 
-If you prefer a video format, I can link you to the most recently updated one I could find [here](https://www.youtube.com/watch?v=-O7AzkcRr2I). 
+If you prefer a Star Citizen guide in a video format, I can link you to the most recently updated one I could find [here](https://www.youtube.com/watch?v=-O7AzkcRr2I). 
 
-The downside to these YouTube tutorials for an alpha project like Star Citizen is the fact that frequent updates can drastically change core aspects of the game without warning, leaving these tutorials outdated and muddying the search results. Newer players shouldn't be expected to know if what they are watching is even relevant anymore. That's why I decided to make a Star Citizen guide on rentry—to avoid that issue.
+The downside to these YouTube tutorials for an alpha project like Star Citizen is the fact that frequent updates can drastically change core aspects of the game without warning, leaving these tutorials outdated and muddying the search results. That's why I decided to make a Star Citizen guide on rentry—to avoid that issue.
 
 ->![meme](https://files.catbox.moe/qlkd54.gif)<-
 
@@ -26,8 +26,9 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 **[What is there to do in-game?](https://rentry.org/guier/#what-is-there-to-do-in-game)** | **[Pledge Store Overview & FAQ(WIP)](https://rentry.org/guier/#pledge-store-overview-faqwip)** | **[The In-Game Tutorial](https://rentry.org/guier/#the-in-game-tutorial)** | 
 **[Should I consider playing the game?](https://rentry.org/guier/#should-i-consider-playing-the-game)** | **[The Many Different Testing Environments](https://rentry.org/guier/#the-many-different-testing-environments)** | **[Best Way To Start Making Money?(WIP)](https://rentry.org/guier/#best-way-to-start-making-moneywip)** 
 **[Freefly Events](https://rentry.org/guier/#freefly-events)**  | **[The Public Roadmap](https://rentry.org/guier/#the-public-roadmap)** | **[Upgrading Your Ship](https://rentry.org/guier/#upgrading-your-ship)** 
-| **[The Issue Council](https://rentry.org/guier/#the-issue-council)** | **[PvA Content](https://rentry.org/guier/#pva-content)** 
-| **[The Mobi-Glass(WIP)](https://rentry.org/guier/#the-mobi-glass)** | **[Useful 3rd Party Tools](https://rentry.org/guier/#useful-3rd-party-tools)**  
+| **[The Issue Council](https://rentry.org/guier/#the-issue-council)** | **[Crime & Punishment](https://rentry.org/guier/edit#crime-punishment)**
+| **[Arena Commander](https://rentry.org/guier/#arena-commander)** | **[PvA Content](https://rentry.org/guier/#pva-content)** 
+| **[The Mobi-Glass(WIP)](https://rentry.org/guier/#the-mobi-glass)** | **[Useful 3rd Party Tools](https://rentry.org/guier/#useful-3rd-party-tools)** 
 
 ***
 ***
@@ -48,16 +49,16 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 ***
 ####->What Is Star Citizen/SQ42?<-
 
-Star Citizen is an ambitious kickstarter videogame project built on a fork of the CryEngine (now officially dubbed StarEngine) that consists of an MMO and singleplayer space opera. First announced on October 10th, 2012, at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign finished, CIG transferred the project to their own website, where it continues fundraising today through ship sales—or "pledges," if you will.
+Star Citizen is an ambitious kickstarter videogame project built on a fork of the CryEngine (now officially dubbed StarEngine) that consists of an MMO and singleplayer space opera, first announced on October 10th, 2012, at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the project to their own website, where it continues fundraising today primarily through ship sales—or "pledges," if you will.
 
-The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive space sim open world PvPvE sandbox, that is currently still in its alpha development phase. The PU currently consists of 100 player cap servers and one explorable star system called **Stanton** and is home to:
+The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive open world space sim  PvPvE sandbox, that is currently still in its alpha development phase. The PU consists of 100 player cap servers and one explorable star system called **Stanton** that is home to:
 >3 Planets.
 >1 Gas giant.
 >4 Handcrafted explorable cities per planet, including a floating city in the gas giant.
 >12 Moons, 3 in orbit per planet.
 >4 Orbital stations, and 16 more within [Lagrange points](https://starcitizen.tools/Lagrangian_point).
-Along with outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, [a prison](https://starcitizen.tools/Prison), and an outlaw station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens, flying around in your ship, or walking in first person. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've listed in detail further down. 
-As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core networking technology](https://youtu.be/cVvp1b7thzw?t=65) to have multiple game servers to work simultaneously in a "server mesh" ([recently unveiled a working prototype here](https://youtu.be/xKWa4WoTkV4?t=5140)) that allows for more star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
+Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens, flying around in your ship, or walking in first person. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further on here. 
+As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://youtu.be/cVvp1b7thzw?t=65) to allow multiple game servers to work simultaneously in a "server mesh" ([recently unveiled a working prototype here](https://youtu.be/xKWa4WoTkV4?t=5140)) that will enable for far more content such as more star systems and players within the same game shard, and far better server performance. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
 
 **[Squadron 42](https://starcitizen.tools/Squadron_42)** is a cinematic single-player campaign that takes place in the [Vega](https://starcitizen.tools/Vega_system) and [Odin](https://starcitizen.tools/Odin_system) Star Systems, set before the events of the persistent universe. Chris Roberts said himself that SQ42 will be "this generation's wing commander", and has, for the most part, been the main development focus of CIG. SQ42 boasts an impressive A-list Hollywood cast with actors such as Gary Oldman, Mark Hamill, Gillian Anderson, Mark Strong, Andy Serkis, John Rhys-Davies, and more. 
 
@@ -65,9 +66,9 @@ As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https:
 ***
 ***
 ###->What is there to do in-game?<-
-There is actually quite a bit to do right now, **assuming the servers cooperate**. I will list out the current professions and different types of missions here, with a summary for each, and let you decide on what sounds more appealing.
+There is actually quite a bit to do right now, **assuming the servers cooperate**. I will list out the current professions here, with a brief summary for each, and let you decide on what sounds more appealing.
 
-!!! note Missions can be accessed in your Mobi-Glass's contract manager app. Try them all to see what you like, and don't burn yourself out on just doing one mindless grind for money. You can do all of these solo.
+!!! note Missions can be accessed in your Mobi-Glass's "Contract" manager app. Try them all to see what you like, and don't burn yourself out on just doing one mindless grind for money. These can all be done solo.
 
 - **[Mining](https://starcitizen.tools/Mining)**
 
@@ -79,7 +80,7 @@ You start by going to a planet, moon, or asteroid belt, scanning for mineable de
 
 Salvage in Star Citizen was recently introduced earlier this year in patch 3.18. You can solo salvage with the [Vulture](https://starcitizen.tools/Vulture) or multicrew in the [Reclaimer](https://starcitizen.tools/Reclaimer). There are salvage claims (legal or illegal) in the contracts manager that require you to pay a small fee for the rights and location of the derelict ship, or you can salvage any player abandoned ships you find loitering around.
 
-The 2 current steps to this profession right now are stripping valuable components, weapons, or cargo from a derelict ship, then scraping off its hull with your salvage ship and being rewarded with "[Recyclable Material Composite](https://starcitizen.tools/Recycled_Material_Composite)," to be sold. Breaking down ships into pieces and grinding them for refinable materiel "structural salvage", is slated for patch 3.22 at the end of this year.
+The 3 current steps to this profession right now are stripping components, weapons, and cargo from a derelict ship, then scraping off its hull with your salvage ship and being rewarded with valuable "[Recyclable Material Composite](https://starcitizen.tools/Recycled_Material_Composite)," to be sold. Afterwards, you break down the ship into multiple pieces and start disintegrating the ship parts and that will reward you with Construction Material.
 
 - **[Cargo Hauling](https://starcitizen.tools/Cargo)**
 
@@ -97,7 +98,7 @@ These places are generally hotspots for PvP, (a popular one being [Brio's Breake
 
 - **[Bounty Hunting Missions](https://starcitizen.tools/Bounty_hunting)**
 
-Bounty hunting is very accessible to anyone, being one of the fastest way's of earning money, but also very barebones and repetitive. While it's called "bounty hunting", how it currently works would be more considered "assassination" missions. 
+Bounty hunting is very accessible, being one of the fastest way's of earning money, but also very barebones and repetitive. While it's called "bounty hunting", how it currently works would be more considered "assassination" missions. 
 
 They start off by first requiring you to gain your certification (go to the marker and kill the ship) before you can begin doing more of the same to build up your reputation and receive contracts for multiple or larger ships with a bigger payout. **This also extends to PvP player bounties**, which will have you hunt others across the system that have a crimestat rating of 3+.
 
@@ -105,7 +106,7 @@ They start off by first requiring you to gain your certification (go to the mark
 !!! danger These are broken as of 3.21.1
 Being the majority of where the FPS content takes place, these missions are fairly straightforward and accessible to anyone right off the bat. You are taken to small underground facilities, or "bunkers," on certain planets and moons (or floating platforms on [Crusader](https://starcitizen.tools/Crusader)) to do FPS combat vs AI. 
 
-These missions come in different flavors of what essentially boils down to killing braindead AI, or killing braindead AI that comes in waves. This can get really repetitive, but the payoff is pretty good the more reputation you gain to build up the difficulty level. There's also lootboxes in the facilities.
+Bunker missions come in different flavors of what essentially boils down to killing braindead AI, or killing braindead AI that comes in waves. This can get really repetitive, but the payoff is pretty good the more reputation you gain to build up the difficulty level. There's also lootboxes in the facilities.
 
 - **[Piracy](https://starcitizen.tools/Piracy)**
 
@@ -133,7 +134,7 @@ There is only one ship in the game that can refuel at the moment, the [Starfarer
 
 If you have seen Star Citizen pop up recently and wanted to give it a try, I will always recommend you do so during a freefly event. Freefly events will allow you to play the game for free within a certain period of time (usually 1-2 weeks) and will lend you some ships to try out as well, along with discounts on starter packs.
 
-But is it worth your money right now? As someone who "plays" Star Citizen regularly, solo and in groups, and has walked new people through the process a few times already, I'm going to have to say that **Star Citizen isn't worth spending any real cash on until they rework the mobi-glass/starmap at the very least**. If you do decide that you want to spend money, grab a $45 game pack; you don't need more than that. Don't listen to retards who say otherwise.
+But is it worth your money right now? As someone who "plays" Star Citizen regularly, solo and in groups, and has walked new people through the process a few times already, I'm going to have to say that **Star Citizen isn't worth spending any real cash on until they rework the mobi-glass at the very least**. If you do decide that you want to spend money, grab a $45 game pack; you don't need more than that. Don't listen to retards who say otherwise.
 
 Star Citizen is more of a tech demo project than an actual game. It's not something you can really devote time and energy to every day and expect results, especially with the occasional database wipe. So that being said, if you are not a very patient person, don't bother playing and just occasionally check back on the project every few months or so until you think it's in a better spot to try out.
 ***
@@ -146,7 +147,6 @@ Events: | Description:
 [Foundation Festival](https://starcitizen.tools/Foundation_Festival)  -> -> Starts in early June for around 2–3 weeks. | A new player focused event that will reward you and frequent players utilizing their [Guide System](https://starcitizen.tools/Guide_System) on the website.
 [IAE](https://starcitizen.tools/Intergalactic_Aerospace_Expo)  -> ->Starts in mid-November and goes on for 2 weeks. | Biggest event of the year that will display/sell every ship they have ever sold, and distributes event unique skins for the winners of the [ship showdown contest](https://starcitizen.tools/Ship_Showdown) held every September. 
 
-IAE Freefly Schedule 2023 - https://robertsspaceindustries.com/comm-link/transmission/19596-Intergalactic-Aerospace-Expo-2953-Free-Fly
 
 **You are able to rent and try out all ships in display during the Invictus/IAE event for free**. All ships on sale during the event come with 10-years insurance and warbond CCU deals for select ships from each manufacturer.
 ***
@@ -377,7 +377,11 @@ When submitting bug reports, it's best to provide a detailed recount on how you 
 In your report, it is also recommended to have video recordings (preferably) or screenshots of when the issue happens, and include system debugging information by typing "`r_displayinfo 2`" (or `3` for more info) in the games console (open with the **tilde** key) along with the session QR code "`r_displaysessioninfo 1`" to have in your videos/screenshots so that developers have a much easier time tracking down the problem.
 ***
 ***
-###The Mobi-Glass
+###->Arena Commander<-
+!!! danger WIP
+***
+***
+###->The Mobi-Glass<-
 !!! danger WIP
 ***
 ***
@@ -584,6 +588,7 @@ If you are doing shorter, more frequent quantum travel jumps around a moon's orb
 Ships components and weapons can either be bought in shops such as Cousin Crows, Platinum Bay, CenterMass and other shops or salvaged off of wrecks. **All weapon sizes can be salvaged right now** – with the biggest ones being Size 5. However, **only Size 1 and 2 components can be salvaged**.
 
 ***
+###->Crime & Punishment<-
 ***
 ###->PvA Content<-
 [Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)

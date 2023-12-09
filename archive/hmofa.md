@@ -294,9 +294,6 @@ https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-paste
 `Two Fennecs in an Overcoat`
 https://raw.githubusercontent.com/Azuhmier/hmofa/master/archive_7/ghostbin-paste_MmT6W
 
-`Unnamed Sergal Encounter`
-https://rentry.org/cupf6
-
 `Untitled` (Shark story)
 https://git.io/Js8yN
 
@@ -327,9 +324,6 @@ https://git.io/Js8yF
 
 `What if Anon could overpower his ancient lewd dragonwife!?`
 https://rentry.org/anon-overpowers-dragonwife
-
-`Wolf Smooching`
-https://rentry.org/Wolfu_smooching
 
 `Yes You May` (May x Anon)
 https://git.io/Js8Sx
@@ -1950,6 +1944,16 @@ https://git.io/J3M2v
 
 `No Escape`
 https://git.io/J3hM2
+
+‌
+
+---
+
+---
+#####Dapz
+
+`Wolfu Smooching`
+https://archiveofourown.org/works/42645402
 
 ‌
 

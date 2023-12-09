@@ -628,6 +628,7 @@ Updated Clique Relationship Chart + Moodboard: https://desuarchive.org/tg/post/9
 Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
+cringekino clickbait: https://desuarchive.org/tg/post/91169301/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -976,6 +977,9 @@ Spherethirst Isekai: https://rentry.org/s8558
 MHA Isekai 3.2: https://rentry.org/4eama
 Call me from the future, past (Yamata, Blast Burn, Arena, Radius): https://rentry.org/znbnka
 Holden On To A Blank (Holden Deckard, Blank): https://rentry.org/nfkvx3
+I Need A Hero(ine)...! (Satoru Tani): https://rentry.org/ynbmqo
+A Night of Fate (Yamata, Nabiki): https://rentry.org/tu4y9
+??? (Nekiro, Heartbeat): https://rentry.org/7thz79
 
 
 ### First Test

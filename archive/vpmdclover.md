@@ -90,6 +90,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
  	- [Clover Guild (ch1.5) Q&A](https://rentry.org/ChrPromptThreeHalf)
  	- [Clover Guild (ch1.5.2) Q&A](https://rentry.org/chrpromptfourhalfredux)
  - [Clover Guild Aggie-revealed lore, misc. questions, and errata.](https://rentry.org/omc8d)
+ - [Locations Reference](https://rentry.org/CloverLocations)
 
 #### Colaborative Writing Projects
 ##### Enter the Federation

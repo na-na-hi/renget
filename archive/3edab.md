@@ -40,7 +40,7 @@ Follow the installation in the docs.
 To use it, the laziest way is just to do `yt-dlp [URL]` in command prompt and it will automatically pick the highest quality-lowest bitrate version of the stream, this will tend to be VP9/OPUS versions of the streams (if available). If you wish to use the (most likely) stream original quality, you would instead use `yt-dlp [URL] -f 299+140`.
 
 #Robust Archiver (ytarchive alternative)
-Last Updated: 11/15/23 (mm/dd/yy)
+Last Updated: 12/08/23 (mm/dd/yy)
 
 This archiver is a Python script that:
 * Automatically downloads cookies from specified browser. (Default Edge)
@@ -149,10 +149,6 @@ class Stream:
         self.video.process.start()
         self.chat.process.start()
 
-    def stop(self):
-        self.video.process.join(5)
-        self.chat.process.join(5)
-
     def state(self):
         return self.data['status']
 
@@ -161,11 +157,12 @@ class Stream:
             '<' + time.strftime("%H:%M:%S", time.localtime()) + '> ' + self.id + ' ended prematurely, starting again!')
         self.data['status'] = "Started"
         self.video.process.terminate()
-        self.video.process = Process(target=self.video.start)
+        self.video.process = Process(target=self.video.start, args=(False,))
         self.video.process.start()
-        if not self.data['chat']:
-            self.chat.process = Process(target=self.chat.start)
-            self.chat.process.start()
+        self.data['chat'] = False
+        self.chat.process.terminate()
+        self.chat.process = Process(target=self.chat.start)
+        self.chat.process.start()
 
     def kill(self):
         self.video.process.terminate()
@@ -180,7 +177,7 @@ class Video:
         self.data = data
         self.data['frags'] = 0
 
-    def start(self):
+    def start(self, overwrite=True):
         ydl_opts = {
             'quiet': True,
             'cookiefile': 'cookies.txt',
@@ -190,7 +187,7 @@ class Video:
             'ignoreerrors': True,
             'wait_for_video': (60, 120),
             'outtmpl': self.outtmpl,
-            'overwrites': True,
+            'overwrites': overwrite,
             'socket_timeout': 300,
             'noprogress': True,
             'progress_hooks': [lambda d: self.progress(d)],
@@ -323,7 +320,7 @@ class Athena:
         self.list[id] = Stream(id, title)
 
     def remove(self, id):
-        self.list[id].stop()
+        self.list[id].kill()
         del self.list[id]
 
     def ids(self):

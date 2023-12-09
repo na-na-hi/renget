@@ -1,4 +1,4 @@
-#**Extended List of Story Updates from edition #2609 - #2773**
+#**Extended List of Story Updates from edition #2462 - #2773**
 
 Text File Version: https://files.catbox.moe/e0yi2y.txt
 /hmofa/ Masterbin: https://rentry.org/hmofa
@@ -208,13 +208,6 @@ By VigorousTVP
 `Mark of Shame (Ch. 9)`
 https://archiveofourown.org/works/43496038
 
----------#2691 [ Thu 28 Sep 2023 18:21:30]
-
-By Mattariel
-`Of Void (Ch. 9)`
-https://archiveofourown.org/works/45532363
-https://www.sofurry.com/view/2054659
-
 ---------#2685 [Sat 23 Sep 2023 06:55:23]
 
 By PapaDelta
@@ -317,6 +310,7 @@ https://archiveofourown.org/works/49647613
 
 By Kaktus_nsfw
 `A Lord's Change of Plans`
+[][]
 https://archiveofourown.org/works/49451926
 
 ---------#2646 [Mon 21 Aug 2023 16:07:02]

@@ -2609,6 +2609,20 @@ https://files.catbox.moe/acy6ap.safetensors
 > Activation keyword is the same as the e621 keyword: "vyrn"
 https://files.catbox.moe/0wa9ty.zip
 
+# Female Turians (Mass Effect)
+> It can produce differen color variants ("faceplate" is responsible for the bone plating all over the body as well)
+> Most of the dataset was light or brown skin with light faceplate variant as the most numerous and lore accurate. Dark skin with dark plates were used mostly by fanarts. So they are not as simple to achieve
+> Don't forget to negate "breasts, tail, hair, lips, ears, navel etc", sometimes something does slip through. Use flat-chested and scalie to decrease chances of getting tits or navel. By playing with armor tag you can make clothing more or less turianish
+> Sometimes it doesn't draw leg spikes or back carapace, so expect some inpainting
+> Vetra nyx, nyreen kandros and cidera nyx tags were in a dataset, so it kinda knows the characters. Don't forget to give Vetra her "visor"
+> I did test only with solo pics, tho duo and sex pix were in the dataset as well, try them yourself
+> Doesn't have any special trigger word, just use tags "turian, female, alien, mass effect"
+> Works around 0.7-0.9 weight
+Weight grid: https://files.catbox.moe/vdd9el.jpg
+Coloring grid: https://files.catbox.moe/jy9zjp.jpg
+Vetra Nyx example pic: https://files.catbox.moe/8050o5.png
+LORA itself: https://files.catbox.moe/a9xyq0.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

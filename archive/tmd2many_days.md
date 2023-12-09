@@ -33,6 +33,8 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 1/29/1 | 1 day | #04 Watcher's Reverie | Dreams are such strange places: even stranger places to visit consciously.
 1/30/1 | 2 days | #05 The Foreshore Turnabout | Time to steal back an entire boat!
 2/3/1 | 1 day | #SQ05 Local Treasures | Artifacts, Salandits, and Bandits...
+2/10/1 | 2 days | #SQ05 Ruined Trial | Visiting and visited, what could go wrong?
+2/13/1 | 1 day | #05 Echoing Forest | Darkness all around. That's concerning.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -82,3 +84,8 @@ One by one, you "wake up," until you're down to last the struggling to leave the
 
 !!! info (11/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ05 Local Treasures
 After meeting the dubiously-titled Professor Salandit and his assistant, he hires your group to seek out a lost tablet from the Marrow Tribe that was stolen by bandits. Retrieving the old text, a recounting of the tribe's foundation, Salandit offers payment and suggests that he'll consider hiring you for more assistance. Although the mission was a success, and you've established some connections, you can't help but feel there's something off about the whole ordeal...
+
+!!! info (12/02/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ06 Ruined Trial
+The group visits the Marrow Tribe after an invitation from Cubone. There, they shop and interact with the locals, while Mohka, Dustin, Wallis, Kaz, Darius, and Matchia decide to take an early trial meant for the tribe's newcomers to prove themselves. However, when they enter, Darius, Kaz, Wallis, and Matchia are lead astray by the lingering spirit of Chien-Pao, known to the locals as the Blade, and Kaz strikes a deal with the beast for their safety...
+
+!!! (12/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #06 Echoing Forest

@@ -92,7 +92,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Kuroyuzu (神楽坂柚)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/25049012) [[Booth]](https://kuroyuzu.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/5838) [[Twitter]](https://twitter.com/k1468) [[Website]](http://black-yuzunyan.lolipop.jp/) <-
 
-[[Booth]](https://kuroyuzu.booth.pm/items/5248746) [[Fantia]](https://fantia.jp/products/527894) : Original - Mitsuki Nozomi
 **Updated**
 [[Booth]](https://kuroyuzu.booth.pm/items/4150536) [[Fantia]](https://fantia.jp/products/322724) : Original - Irivelda Belfond 1.05
 [[Booth]](https://kuroyuzu.booth.pm/items/3452658) [[Fantia]](https://fantia.jp/products/206245) : Original - Haruyoshi Ruriri 1.01
@@ -104,8 +103,6 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ***
 -> **lovecelebi** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/29825475) [[Booth]](https://lovecelebi.booth.pm/) [[Twitter]](https://twitter.com/lovecelebi) <-
-
-[[Booth]](https://lovecelebi.booth.pm/items/4982022) : Blue Archive - Arona
 ***
 -> **MDJSN** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/50789229) [[Booth]](https://mdjsn.booth.pm/) [[DeviantArt]](https://www.deviantart.com/mdjsn) [[Iwara]](https://ecchi.iwara.tv/users/mdjsn) [[Twitter]](https://twitter.com/MDJSN810) <-
@@ -219,12 +216,14 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yokechi (よけち)** <-
 -> [[Booth]](https://yokechiya.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/372247) [[Twitter]](https://twitter.com/yokechi02) <-
 
-[[Booth]](https://yokechiya.booth.pm/items/5285628) : Azur Lane - Owari -Gal- [[Bowlroll R18 Parts]](https://bowlroll.net/file/310176)
 [[Booth]](https://yokechiya.booth.pm/items/1852110) : Original - Saraka
 ***
 -> **Zy0n7** <-
 -> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
 
+[[Gumroad]](https://zy0n7.gumroad.com/l/oknjub) : Dragon Maid - Tohru (+VRC / Blend / SFM)
+[[Gumroad]](https://zy0n7.gumroad.com/l/gopor) : Pokemon - Meowscarada (+VRC / Blend / SFM)
+[[Gumroad]](https://zy0n7.gumroad.com/l/hpflo) : Made in Abyss - Reg (+VRC / Blend / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/bjsmqq) : Cyberpunk - Rebecca (+VCR / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/vqnyl) : Dragon Maid - Elma (+VRC / SFM / Blend)
 [[Gumroad]](https://zy0n7.gumroad.com/l/uojut) : Dragon Maid - Lucoa (+PMX / VRC / SFM / Blend)
