@@ -44,6 +44,22 @@ https://archive.4plebs.org/tg/thread/89890471/#89891785
 >>91167979
 >Less (Assassin)
 >>91168037
+>Miura Anjin
+>>91169176
+>Fredricka II of Prussia.
+>>91170045
+>Zarathustra
+>>91170483
+>Leonardo Torres Quevedo
+>>91174891
+>Apollo 12 Lily Alter
+>>91172571
+>Frederick Townsend Ward
+>>91172690
+>Mochizuki Chiyome (Archer) (Stray Servant?)
+https://archive.4plebs.org/tg/thread/87135712/#87143309
+>Sir Adrian Carton de Wiart
+>>91176060
 
 >Masters
 >Sabile Sabanto
@@ -53,11 +69,26 @@ https://archive.4plebs.org/tg/thread/89890471/#89891785
 >Shiori Medoruma (Mind of Steel)
 >>91167587
 >Lizrich von Einzbern
->>91168111 (You)
+>>91168111
 >Mundi Pishdar & His wife Naela
 >>91168251
 
+
+>Victor Van Bokhoven
+>>91171086
+>Ronem Nadab
+>>91171877
+>Narisawa Enko
+>>91175882
+>Victory "Vex" Anne Gunn
+>>91176654
+
+Writefags:
+>As the River Flows (Shiori)
+https://rentry.org/qvay7
 ```
+
+
 
 #MHA
 
@@ -85,6 +116,10 @@ New Supporter Student Build (Not really new, but he flew under the radar a coupl
 New Writefag
 >I Need A Hero(ine)...! (Satoru Tani)
 https://rentry.org/ynbmqo
+>A Night of Fate (Yamata, Nabiki):
+https://rentry.org/tu4y9
+>??? (Nekiro, Heartbeat)
+https://rentry.org/7thz79
 
 New Artfag
 >cringekino clickbait
@@ -602,6 +637,12 @@ Writefags (final)
 https://rentry.org/znbnka
 >Holden On To A Blank (Holden Deckard, Blank)
 https://rentry.org/nfkvx3
+>I Need A Hero(ine)...! (Satoru Tani)
+https://rentry.org/ynbmqo
+>A Night of Fate (Yamata, Nabiki):
+https://rentry.org/tu4y9
+>??? (Nekiro, Heartbeat)
+https://rentry.org/7thz79
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

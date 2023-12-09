@@ -245,6 +245,7 @@
 12/2023|[OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 12/2023|[Sequential Modeling Enables Scalable Learning for Large Vision Models (LVM)](https://arxiv.org/abs/2312.00785)
 12/2023|[Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
+12/2023|[StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://archive.is/cHoct)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -273,6 +274,7 @@
 10/2022|[Truncation Sampling as Language Model Desmoothing](https://arxiv.org/abs/2210.15191)
 10/2022|[DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation](https://arxiv.org/abs/2210.07558)
 11/2022|[An Algorithm for Routing Vectors in Sequences](https://arxiv.org/abs/2211.11754)
+11/2022|[MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/abs/2211.15841)
 12/2022|[Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
 12/2022|[Parallel Context Windows Improve In-Context Learning of Large Language Models](https://arxiv.org/abs/2212.10947)
 12/2022|[Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689)

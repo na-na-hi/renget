@@ -1,6 +1,6 @@
 #**/HMoFA/ Masterbin**
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) <-
--> Last updated at #2633 ( Fri 08/11/23 11:16:08 ETC ) <-
+-> Last updated at #2772 ( Fri 12/08/23 19:09:18 ETC ) <-
 
 == **LINKS**
 - [Masterbin](https://rentry.org/hmofa)
@@ -9,7 +9,6 @@
 - [/HMoFA/ Games](https://docs.google.com/document/d/1HZSVPdzcNr17vmXQTdLLI2nvdg-X1ltmtW1NQvDqvgw) (Maintainer: fwappriciator@gmail.com)
 - [/HMoFA/ Masterdump of Doujinshi](https://docs.google.com/document/d/12v1kzQnaeCRVIiXISNxXXFZiCfvuwUcFESL0DIVo9nE) (Maintainer: fwappriciator@gmail.com)
 - [Resource Bin](https://rentry.org/hmofa4)
-- [Furchan Thread](https://furchan.net/fg/res/4225.html)
 - [Collared Masterbin](https://rentry.org/collared)
 - [ADHG Masterbin](https://rentry.org/ADHG)
 - ["Source Code"](https://github.com/Azuhmier/hmofa)
@@ -179,6 +178,9 @@ https://git.io/Js8Sv
 `Hyena-chan`
 https://git.io/Js8Sl
 
+`I Am Reptar`
+https://rentry.org/b3ibm
+
 `In the Heat of the Crimson Queen`
 https://git.io/JZ9X3
 
@@ -304,6 +306,9 @@ https://rentry.org/zh9so
 `Untitled Cyberpunk Story`
 https://rentry.org/2v8zy
 
+`Untitled Georgian (era) Fox`
+https://rentry.org/svsca
+
 `Untitled Power Armor Mantis Story`
 https://rentry.org/nggp6
 
@@ -419,6 +424,7 @@ https://www.sofurry.com/view/1768714
 https://archiveofourown.org/works/41692053
 
 `Duck Tail`
+https://archiveofourown.org/works/49937551
 https://www.sofurry.com/view/1724752
 
 `Forging Thoth's Daughter: Teaser`
@@ -428,13 +434,14 @@ https://www.sofurry.com/view/1914957 (ch.2)
 `Haunting Noire`
 https://www.sofurry.com/view/1662041
 
-`HMOFA Weekly Newsletter`
+`HMOFA Weekly Newsletter` (/hmofa/ herald)
 https://www.sofurry.com/view/2034359 (archive)
 https://files.catbox.moe/hyqeal.pdf (Nov. 12, issue 1)
 https://files.catbox.moe/6hnlxo.pdf (Nov. 19, issue 2)
 https://files.catbox.moe/c0ixz4.pdf (issue 3)
 https://files.catbox.moe/kck2v1.pdf (issue 4, part 1)
 https://files.catbox.moe/u8u789.pdf (issue 4, part 2)
+https://drive.google.com/file/d/1PuW50It3HGRbI2-2aP31paO4g8c9elf_/view?pli=1 (issue 5)(summer edition)
 
 `I WILL SAVE YOU!`
 https://www.sofurry.com/view/1663017
@@ -547,6 +554,16 @@ https://www.sofurry.com/view/1710562
 ---
 
 ---
+#####AberrantGunman
+
+`A Night Out`
+https://archiveofourown.org/works/51154042
+
+‌
+
+---
+
+---
 #####ACrazyWizard
 
 `Student of the Sultry Tome`
@@ -556,6 +573,16 @@ https://www.sofurry.com/view/1337033
 `The Mare with the Black Blade`
 https://git.io/JZ910
 https://www.sofurry.com/view/1329819
+
+‌
+
+---
+
+---
+#####AFRM
+
+`First Hunt`
+https://archiveofourown.org/works/49798648
 
 ‌
 
@@ -857,9 +884,9 @@ https://git.io/J3jtZ
 #####AngryWino
 
 `SPACE PIRATE FERRETS`
-https://git.io/Js3Sc (Part 3)
-https://git.io/Js3SO (Part 2)
-https://git.io/Js3St (Part 1)
+https://poneb.in/iWwn7dpG (Part 1)
+https://poneb.in/vJKJmr8m (Part 2)
+https://poneb.in/K7kFp9qW (Part 3)
 
 ‌
 
@@ -1202,6 +1229,16 @@ https://blokfort.com/silk-and-dagger/
 ---
 
 ---
+#####BluePawpadCult
+
+`Saturday Proposal`
+https://archiveofourown.org/works/49465687
+
+‌
+
+---
+
+---
 #####Bnonymousposter
 
 `Into The Wildlands`
@@ -1255,7 +1292,8 @@ https://git.io/J39yv
 ---
 #####BoxCrate
 
-`Electrgluxe!`
+`Electroluxe!`
+https://archiveofourown.org/works/48233518
 https://www.sofurry.com/view/1967472 (ch. 1)
 https://www.sofurry.com/view/1975115 (ch. 2)
 https://www.sofurry.com/view/1980068 (ch. 3)
@@ -1263,6 +1301,7 @@ https://www.sofurry.com/view/1986146 (ch. 4)
 https://www.sofurry.com/view/1998163 (ch. 5)
 https://www.sofurry.com/view/2013295 (ch. 6)
 https://www.sofurry.com/view/2029010 (ch. 7)
+https://www.sofurry.com/view/2043527 (ch. 8)
 
 `Instinct`
 https://www.sofurry.com/view/1804861 (ch. 1)
@@ -2125,6 +2164,9 @@ https://www.sofurry.com/view/1964602 (ch. 12)
 https://www.sofurry.com/view/1978754 (ch. 13)
 https://www.sofurry.com/view/1982840 (ch. 14)
 https://www.sofurry.com/view/1997732 (ch. 15)
+https://www.sofurry.com/view/2062363 (ch. 16)
+https://www.sofurry.com/view/2066351 (ch. 17)
+https://www.sofurry.com/view/2077310 (ch. 18)
 
 ‌
 
@@ -2275,6 +2317,7 @@ https://www.sofurry.com/view/1818444 (ch. 5)
 https://www.sofurry.com/view/1825053 (ch. 6)
 https://www.sofurry.com/view/1879881 (ch. 7)
 https://www.sofurry.com/view/1948603 (ch. 8)
+https://www.sofurry.com/view/2071780 (ch. 9)
 
 ‌
 
@@ -2652,6 +2695,16 @@ https://git.io/J3hRo
 ---
 
 ---
+#####Forgothrax
+
+`The Greatest of These`
+https://archiveofourown.org/works/49895068
+
+‌
+
+---
+
+---
 #####Foxymilkies
 
 `Mating Season`
@@ -2690,7 +2743,7 @@ https://git.io/JZ9iy
 https://archiveofourown.org/works/30614837
 https://git.io/JZ96v
 
-`The Muzzler Chronicles`
+`The Muzzler Chronicles` (Fritewag's collection of shorts)
 https://archiveofourown.org/works/36934978
 
 ‌
@@ -2702,6 +2755,16 @@ https://archiveofourown.org/works/36934978
 
 `A Central Suburban Breeze`
 https://git.io/J39yu
+
+‌
+
+---
+
+---
+#####Gifted_Debt
+
+`Grocery Run`
+https://archiveofourown.org/works/50865058
 
 ‌
 
@@ -2980,6 +3043,7 @@ https://www.sofurry.com/view/1910015 (ch. 2)
 https://archiveofourown.org/works/47832940
 https://www.sofurry.com/view/2001280 (ch. 1)
 https://www.sofurry.com/view/2002323 (ch. 2)
+https://www.sofurry.com/view/2072322 (ch. 3)
 
 `Love is a Feline`
 https://archiveofourown.org/works/43260876
@@ -3002,6 +3066,8 @@ https://www.sofurry.com/view/1985395 (ch. 11)
 https://www.sofurry.com/view/1999701 (ch. 12)
 https://www.sofurry.com/view/2023995 (ch. 13)
 https://www.sofurry.com/view/2033802 (ch. 14)
+https://www.sofurry.com/view/2055209 (ch. 15)
+https://www.sofurry.com/view/2079940 (ch. 16)
 
 `Paula Wolf`
 https://archiveofourown.org/works/34203898
@@ -3011,6 +3077,10 @@ https://www.sofurry.com/view/1864631 (part 3)
 
 `Sonnie's Dulling`
 https://archiveofourown.org/works/46803106
+
+`Wired for Affection`
+https://archiveofourown.org/works/49647613
+https://www.sofurry.com/view/2042327
 
 -> **=== Tales from the /Trash/bin ===** <-
 `Detective Anon`
@@ -3064,17 +3134,6 @@ https://www.sofurry.com/view/1883666 (ch. 2)
 `A Mole in the Community`
 https://git.io/J3pWd
 
-`Altruistic Intent`
-https://archiveofourown.org/works/30398889
-https://git.io/JZ96k
-https://www.sofurry.com/view/1398687 (ch. 1-3)
-https://www.sofurry.com/view/1443681 (ch. 4)
-https://www.sofurry.com/view/1482333 (ch. 5)
-https://www.sofurry.com/view/1500686 (ch. 6)
-https://www.sofurry.com/view/1544348 (ch. 7)
-https://www.sofurry.com/view/1565440 (ch. 8)
-https://www.sofurry.com/view/1725680 (ch. 9)
-
 `Dalamadur GF Short Greentext`
 https://git.io/J3pWi
 
@@ -3086,13 +3145,6 @@ https://www.sofurry.com/view/1383376
 `Hand in Hand` (Annabelle Mightypoohead fic)
 https://git.io/JZ9K4
 https://www.sofurry.com/view/1613412
-
-`My Obsession`
-https://archiveofourown.org/works/30398577 (Revised)
-https://git.io/JZ91q
-https://git.io/JZ9PL
-https://www.sofurry.com/view/1349757 (COMPLETE)
-https://www.sofurry.com/view/1611308 (Revised)
 
 `Necromouser`
 https://git.io/JZ916
@@ -3113,6 +3165,26 @@ https://git.io/J3pWr
 
 `Wish for an Anon Husbando`
 https://git.io/J3pW7
+
+-> **=== My Obsession ===** <-
+`Altruistic Intent`
+https://archiveofourown.org/works/30398889
+https://git.io/JZ96k
+https://www.sofurry.com/view/1398687 (ch. 1-3)
+https://www.sofurry.com/view/1443681 (ch. 4)
+https://www.sofurry.com/view/1482333 (ch. 5)
+https://www.sofurry.com/view/1500686 (ch. 6)
+https://www.sofurry.com/view/1544348 (ch. 7)
+https://www.sofurry.com/view/1565440 (ch. 8)
+https://www.sofurry.com/view/1725680 (ch. 9)
+https://www.sofurry.com/view/2050230 (ch. 10)
+
+`My Obsession`
+https://archiveofourown.org/works/30398577 (Revised)
+https://git.io/JZ91q
+https://git.io/JZ9PL
+https://www.sofurry.com/view/1349757 (COMPLETE)
+https://www.sofurry.com/view/1611308 (Revised)
 
 ‌
 
@@ -3467,6 +3539,14 @@ https://git.io/J3hRA
 ---
 #####Kaktus-Nsfw
 
+`A Bandit Queen's Catch`
+https://archiveofourown.org/works/49984786
+https://www.sofurry.com/view/2047642
+
+`A Lord's Change of Plans`
+https://archiveofourown.org/works/49451926
+https://www.sofurry.com/view/2039294
+
 `Alien Intimacy`
 https://archiveofourown.org/works/28670883
 https://git.io/JZ9Xd
@@ -3499,6 +3579,7 @@ https://www.sofurry.com/view/1978015 (ch. 9)
 https://www.sofurry.com/view/1978016 (ch. 10)
 https://www.sofurry.com/view/2001373 (ch. 11)
 https://www.sofurry.com/view/2029254 (ch. 12)
+https://www.sofurry.com/view/2061767 (ch. 13)
 
 `Deathroll in Dade`
 https://archiveofourown.org/works/24306580?view_adult=true
@@ -3577,10 +3658,15 @@ https://www.sofurry.com/view/1965993 (ch. 51)
 https://www.sofurry.com/view/1983752 (ch. 52)
 https://www.sofurry.com/view/2026366 (ch. 53)
 https://www.sofurry.com/view/2034076 (ch. 54)
+https://www.sofurry.com/view/2046459 (ch. 55)
 
 `Mountains aren’t so Bad` (Mountain goat or something)
 https://git.io/JZ9XS
 https://www.sofurry.com/view/1502297
+
+`Novus Ad Astra`
+https://archiveofourown.org/works/51830005
+https://www.sofurry.com/view/2076207
 
 `Rat’s Den` (Not-skaven/Rat girl)
 https://archiveofourown.org/works/21056648
@@ -4109,6 +4195,8 @@ https://www.sofurry.com/view/1982336 (ch. 5)
 https://www.sofurry.com/view/2000747 (ch. 6)
 https://www.sofurry.com/view/2021319 (ch. 7)
 https://www.sofurry.com/view/2034393 (ch. 8)
+https://www.sofurry.com/view/2054659 (ch. 9)
+https://www.sofurry.com/view/2069826 (ch. 10)
 
 -> **=== Candace being Candace ===** <-
 `Cages`
@@ -4287,9 +4375,6 @@ https://www.sofurry.com/view/1767391 (ch. 2)
 https://www.sofurry.com/view/1772418 (ch. 3)
 https://www.sofurry.com/view/1776069 (ch. 4)
 https://www.sofurry.com/view/1788402 (ch. 5)
-
-`The Muzzler Chronicles`
-https://archiveofourown.org/works/36934978
 
 `We Didn't Start the Fire`
 https://catbox.moe/c/mxs6cc
@@ -4617,6 +4702,14 @@ https://www.sofurry.com/view/1663142
 `The illegality of booping`
 https://git.io/Js8DU
 
+`The Pits`
+https://git.io/JZ96d
+https://www.sofurry.com/view/1663702
+
+`The Skinnymen of The Forest`
+https://www.sofurry.com/view/1487209
+
+-> **=== Leaves of Fall ===** <-
 `The Leaves of Fall`
 https://git.io/JZ9XY
 https://www.sofurry.com/view/1479078 (prologue)
@@ -4678,15 +4771,11 @@ https://www.sofurry.com/view/1709350 (Act 3, part 25)
 https://www.sofurry.com/view/1711497 (Act 3, part 26)
 https://www.sofurry.com/view/1712931 (Epilogue)
 
+`The Leaves of Fall audiobook (Act 1)(by Anonymous)`
+https://mega.nz/folder/fYl0RAaY#ToBG4oMtaI9mpuEGQ733fw
+
 `The Leaves of Fall: Autumn Flowers`
 https://www.sofurry.com/view/1645232
-
-`The Pits`
-https://git.io/JZ96d
-https://www.sofurry.com/view/1663702
-
-`The Skinnymen of The Forest`
-https://www.sofurry.com/view/1487209
 
 ‌
 
@@ -4732,12 +4821,15 @@ https://www.sofurry.com/view/1797945
 https://www.sofurry.com/view/1915890
 https://archiveofourown.org/works/42856260
 
-`Natural Twenty`
-https://archiveofourown.org/works/42672645/chapters/118648129
-https://www.sofurry.com/view/2027498
-
-`Orange Mocha Frappuccino!`
-https://archiveofourown.org/works/42672645/chapters/120197230
+`Lessons on Bearing Fruit`
+https://archiveofourown.org/works/51948940
+https://www.sofurry.com/view/2077574 (ch. 1)
+https://www.sofurry.com/view/2077577 (ch. 2)
+https://www.sofurry.com/view/2077581 (ch. 3)
+https://www.sofurry.com/view/2077585 (ch. 4)
+https://www.sofurry.com/view/2077586 (ch. 5)
+https://www.sofurry.com/view/2077588 (ch. 6)
+https://www.sofurry.com/view/2077593 (ch. 7)
 
 `So Many Miles Away`
 https://archiveofourown.org/works/48823594/chapters/123163903
@@ -4750,20 +4842,46 @@ https://www.sofurry.com/view/1837651
 `Summoning a Little Mischief`
 https://archiveofourown.org/works/49118134
 
+`The Full Treatment 3: Coffee, Clothes, and a Little Red Rose`
+https://archiveofourown.org/works/49984762
+https://www.sofurry.com/view/2047634
+
 `Triplet Caution 2: Holiday Humbling`
 https://archiveofourown.org/works/43836307
 https://www.sofurry.com/view/1936557
 
+`Wolfy Strangers and Hidden Dangers`
+https://archiveofourown.org/works/50265952
+https://www.sofurry.com/view/2052780
+
 -> **=== Garden of Greens ===** <-
 `Disturbance in the Neighborhood`
+https://archiveofourown.org/works/42672645/chapters/120907492
 https://www.sofurry.com/view/2030356
 
 `Garden of Greens`
 https://www.sofurry.com/view/1912563
 https://archiveofourown.org/works/42672645
 
+`My Little Huntress`
+https://archiveofourown.org/works/42672645/chapters/127470883
+https://www.sofurry.com/view/2055735
+
+`Natural Twenty`
+https://archiveofourown.org/works/42672645/chapters/118648129
+https://www.sofurry.com/view/2027498
+
+`Orange Mocha Frappuccino!`
+https://archiveofourown.org/works/42672645/chapters/120197230
+https://www.sofurry.com/view/2055735
+
+`Supermoon Me`
+https://archiveofourown.org/works/42672645/chapters/127387813
+https://www.sofurry.com/view/2055229
+
 `Wifwolf Gets Her Woof Back`
 https://archiveofourown.org/works/42672645/chapters/114573241
+https://www.sofurry.com/view/2023664
 
 ‌
 
@@ -4842,6 +4960,16 @@ https://www.sofurry.com/view/1754591
 
 `We're in a Relationship?`
 https://git.io/JsqEN
+
+‌
+
+---
+
+---
+#####Pittsburghwizardmoneygang
+
+`A Letter From Dad`
+https://archiveofourown.org/works/50357536
 
 ‌
 
@@ -5081,6 +5209,16 @@ https://www.sofurry.com/view/1640829
 `End of Active Obligated Service`
 https://archiveofourown.org/works/28149387
 https://git.io/JZ91m
+
+‌
+
+---
+
+---
+#####Regguj
+
+`Natasha`
+https://archiveofourown.org/works/52066309
 
 ‌
 
@@ -5828,7 +5966,7 @@ https://git.io/J3h0S
 https://spacedimsum.itch.io/bread
 
 `Morgan's Skate Club`
-https://spacedimsum.itch.io/morgansskateclub (v0.0.4+1)
+https://spacedimsum.itch.io/morgansskateclub (v0.0.5)
 
 ‌
 
@@ -5847,6 +5985,7 @@ https://git.io/J3Mu7
 https://archiveofourown.org/works/36930181
 
 `Prey`
+https://archiveofourown.org/works/48868201
 https://git.io/J3Mub
 
 `Shelby`
@@ -6038,6 +6177,10 @@ https://www.sofurry.com/view/1695239 (ch. 10)
 https://www.sofurry.com/view/1700307 (ch. 11)
 https://www.sofurry.com/view/1701716 (ch. 12)
 https://www.sofurry.com/view/1703199 (ch. 13)
+https://www.sofurry.com/view/1701716 (ch. 14)
+https://www.sofurry.com/view/1703199 (ch. 15)
+https://www.sofurry.com/view/2039571 (ch. 16)
+https://www.sofurry.com/view/2039579 (ch. 17)
 
 `Magic Cities and Fireflies`
 https://www.sofurry.com/view/1914447
@@ -6267,6 +6410,9 @@ https://git.io/JsqEB
 `Dreamcatcher: A Wendigo Story`
 https://archiveofourown.org/works/42749496
 
+`Greasy Fluffgal`
+https://archiveofourown.org/works/51267823
+
 `My Petrochemical Romance`
 https://archiveofourown.org/works/44438539
 
@@ -6351,6 +6497,16 @@ https://git.io/JsIZ6
 
 `War Wives Pt 2`
 https://git.io/JsIZr
+
+‌
+
+---
+
+---
+#####Tarrabah
+
+`Voice of a Demon`
+https://archiveofourown.org/works/50268811
 
 ‌
 
@@ -6444,6 +6600,16 @@ https://archiveofourown.org/works/47709172
 ---
 
 ---
+#####TheBulletFarm
+
+`The Life of the Contractor`
+https://archiveofourown.org/works/51825376
+
+‌
+
+---
+
+---
 #####TheShotgunScout
 
 `BE PREPARED`
@@ -6488,10 +6654,21 @@ https://archiveofourown.org/works/43701771
 https://archiveofourown.org/works/43932543
 
 `Vipers, Nights, and French Fries`
-https://archiveofourown.org/works/39895998 (Ch. 1)
+https://archiveofourown.org/works/39895998
 https://www.fanfiction.net/s/14112773/1/Vipers-Nights-and-French-Fries (ch. 1)
 https://www.fanfiction.net/s/14112773/2/Vipers-Nights-and-French-Fries (ch. 2)
 https://www.fanfiction.net/s/14112773/3/Vipers-Nights-and-French-Fries (ch. 3)
+https://www.fanfiction.net/s/14112773/4/Vipers-Nights-and-French-Fries (ch. 4)
+
+‌
+
+---
+
+---
+#####Thraxeth
+
+`Foxy Firsts`
+https://www.sofurry.com/view/2077637
 
 ‌
 
@@ -6701,6 +6878,16 @@ https://git.io/Js81P
 ---
 
 ---
+#####TRINITY-CANCELLATION
+
+`This little bunny brat`
+https://pastebin.com/PkccXVfS
+
+‌
+
+---
+
+---
 #####Uechtl (HTL)
 
 `Alko's Proposal`
@@ -6776,6 +6963,16 @@ https://www.sofurry.com/view/1624674
 
 `The Mark of Shame`
 https://archiveofourown.org/works/43496038
+
+‌
+
+---
+
+---
+#####WannabeSmutWriter
+
+`The Cougar And The Zoomer`
+https://rentry.org/thecougarandthezoomer
 
 ‌
 
@@ -6984,6 +7181,9 @@ https://rentry.org/zv83z
 `The Kash'gons Chronicles`
 https://rentry.org/oebpx
 
+`Tips to Date a Single Mom Shiba Inu`
+https://rentry.org/mxn8v
+
 ‌
 
 ---
@@ -7027,8 +7227,14 @@ https://archiveofourown.org/works/45087229
 ---
 #####YellowNoteAnon
 
+`Batfowl`
+https://archiveofourown.org/works/51247108/chapters/129489859/
+
 `Bed of Snakes`
 https://archiveofourown.org/works/31197068
+
+`Red Vignette`
+https://archiveofourown.org/works/52093405
 
 ‌
 

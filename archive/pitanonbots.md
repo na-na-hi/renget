@@ -883,3 +883,4 @@ Mackenzie | https://files.catbox.moe/bdgb1i.zip https://files.catbox.moe/qk7sn5.
 Ruri | https://files.catbox.moe/omzzjc.zip https://files.catbox.moe/x1vjef.rar https://files.catbox.moe/pvt63k.zip
 Bimu | https://files.catbox.moe/61qg4d.zip
 Sidney | https://files.catbox.moe/x0cthi.zip https://files.catbox.moe/s1mv4b.rar
+Erica | https://files.catbox.moe/3jdkyy.rar

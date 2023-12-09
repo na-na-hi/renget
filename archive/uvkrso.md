@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+08/12/23   | Moved Robin and Boothill to the "Unreleased Character" section and added their paths and types.
 05/12/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg) Misc. and Gameplay folders
 21/11/23   | Added new files to [Dr.Ratio](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) , [Ruan Mei](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg), [Xueyi](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w), and [Aventurine](https://mega.nz/folder/NiFC3JAZ#h--JqhjsZGPJPDQyvr9AJQ) Misc. folder.
 20/11/23   | Added new files to [Sunday](https://mega.nz/folder/hzsxCShK#DZ9bXVgOfvggBiOVgKdz2Q), and [Acheron](https://mega.nz/folder/g2snRJiR#BIfdv-PyZYHVNC6XHZSq7Q) Misc. + Story+Voicelines folders, and added new files to [Firefly](https://mega.nz/folder/AjE2iBTA#KuyAL6isydEOauOqV0AaSg) Story + Voicelines folder.

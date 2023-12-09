@@ -89,16 +89,16 @@ You can always ask /bag/ for advice.
 You get 1 ten roll, which guarantees a 3\* unit of a set pool.
 ![Startdash pool](https://i.imgur.com/vJqP5Yo.png)
 
+>How do I reroll? (global only) 
+![How to reroll](https://i.imgur.com/t3kHH0w.png)
+Menu Tab (top right) > Account > Reset account
+For JP the method is outlined [here](https://bluearchive.wiki/wiki/Rerolling). 
+
 >Should I reroll?
 For your waifu? Of course. But besides that? 
 
 Rerolling makes the game easier, but the game is pretty easy as is. It's like going from normal difficulty to easy. 
 I personally didn't reroll and don't recommend it, but I have the advantage of being a day 1 player (and a dolphin that buys the monthlies). The reward for having a fully meta roster is also pretty negligible (3 extra rolls from raids every month and maybe 10 extra rolls if you're rank 1 pvp).
-
->How do I reroll? (global only) 
-![How to reroll](https://i.imgur.com/t3kHH0w.png)
-Menu Tab (top right) > Account > Reset account
-For JP the method is outlined [here](https://bluearchive.wiki/wiki/Rerolling).
 
 >Is there pity? What's a spark
 There are 2 ways in gacha games to get a banner unit: spark and pity. With a spark you roll X amount of times (200 in BA) before you can redeem a guaranteed copy of the unit. With pity for every roll past Y rolls without getting a highest star unit you get an increased chance to roll one, up to a 100%.

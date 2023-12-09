@@ -10,7 +10,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Species:** Snivy | **Affiliation:** None
 **Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 28₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 3₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -79,7 +79,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
 2. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Oran Leaf | Heals the user for 3HP. Can stack to 3.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

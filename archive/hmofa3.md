@@ -1,6 +1,6 @@
 #**/HMoFA/ Outerbin**
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) <-
--> Last updated at #2633 ( Fri 08/11/23 11:16:08 ETC ) <-
+-> Last updated at #2772 ( Fri 12/08/23 19:09:18 ETC ) <-
 
 == **LINKS**
 - [Masterbin](https://rentry.org/hmofa)
@@ -9,8 +9,8 @@
 - [/HMoFA/ Games](https://docs.google.com/document/d/1HZSVPdzcNr17vmXQTdLLI2nvdg-X1ltmtW1NQvDqvgw) (Maintainer: fwappriciator@gmail.com)
 - [/HMoFA/ Masterdump of Doujinshi](https://docs.google.com/document/d/12v1kzQnaeCRVIiXISNxXXFZiCfvuwUcFESL0DIVo9nE) (Maintainer: fwappriciator@gmail.com)
 - [Resource Bin](https://rentry.org/hmofa4)
-- [Furchan Thread](https://furchan.net/fg/res/4225.html)
 - [Collared Masterbin](https://rentry.org/collared)
+- [ADHG Masterbin](https://rentry.org/ADHG)
 
 == **KEY** 
 - SEARCHING TAGS -> ctrl-f ;tag;
@@ -19,7 +19,6 @@
 - $ = *story is complete* 
 
 
-- [ADHG Masterbin](https://rentry.org/ADHG)
 - ["Source Code"](https://github.com/Azuhmier/hmofa)
 - [Program that will replace the "Sourcce Code"](https://github.com/Azuhmier/ohmfa) (WIP)
 
@@ -156,8 +155,17 @@ https://www.sofurry.com/view/601634
 ---
 #####Baseline
 
+`Baseline's Library`
+https://pastebin.com/2eipTcDe
+
+`Incident 682/D`
+[][;SCP;]
+https://pastebin.com/pde0u45g
+*A D-Class person manages to escape, but encounters what's likely to be the worst possible thing.*
+
+-> **=== Stranded ===** <-
 `Stranded`
-[][]
+[;scalie;][]
 https://pastebin.com/C2pmJzma (part 1)
 https://pastebin.com/k7LJ417J (part 2)
 https://pastebin.com/eYnGbvMH (part 3)
@@ -173,6 +181,14 @@ https://pastebin.com/RDeCkRzm (part 12)
 https://pastebin.com/7mDKuh2L (part 13)
 https://pastebin.com/uHEG5Tci (part 14)
 *some dragon chick ends up in the wrong house. She's probably not a fool. It was an accident.*
+
+`Stranded Rewrite`
+https://pastebin.com/dYDHP6Ki (part 1)
+https://pastebin.com/z8nH1y2Z (part 2)
+https://pastebin.com/z02q8e0j (part 3)
+https://pastebin.com/yEX45gs0 (part 4)
+https://pastebin.com/cu0DcnyL (part 5)
+https://pastebin.com/cu0DcnyL (part 6)
 
 ‌
 

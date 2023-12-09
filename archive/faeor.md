@@ -396,3 +396,252 @@
 >you didn't imagine that
 >yes you'd see him then
 >he pulled you into a hug that threatened your ribs
+
+>next shift you paid for the shirt, told your lie
+>no one batted an eye
+>Roxy was seen as a prop by most of the staff
+>hell most didn't even know how weird he got
+>usually you were front row and center for that
+>thank God management never picked up any quirks
+>you had occasionally sat down with Roxy and laid out rules to protect him
+>tonight might be a discussion on borrowing 
+>the store staff almost didn't buy the lie
+>in fact, you almost got in trouble for possible theft
+>trying to do the honest thing got you in more hot water than if you had just ignored it
+>oh well
+>the mall didn't have too many mechanic/custodian/night guards so you were a valuable commodity 
+>after putting out various fires across the mall in the evening you took a small break
+>Roxanne was doing a show for all of like three kids
+>but he seemed happy
+>you'd have to help him tune the guitar a little tonight
+>it sounded off
+>amazing to think a pizza chain built a robot dexterous enough to play guitar
+>then just kept that technology to themselves
+>thankfully the labor force wasn't flooded with Fazbear robots
+>he really was a technical marvel
+>but you wouldn't want to praise him too much
+>at least openly
+>one time he ended up wanting you to pat his head
+>you had to give him the headpat the one time
+>but you refused to say he was a “good boy” 
+>thank God this place never had interior cameras
+>still, you took a moment to savor the job
+>as shitty as the neighborhood around it had become
+>as emptied out as the place seemed
+>for every crack that seemed to pop up when you sealed another
+>it was peaceful
+>half decent money
+>and experience 
+>last one sounded sort of like a boomer thing but you legitimately had to learn plumbing on the fly like a medic wrist deep in a chest cavity 
+>multiple showers later you could proudly admit you did that
+>you could understand why pride was a big thing to Roxy
+>he really did like being the best 
+>sometimes got a little too competitive about it but not the worst hang up
+>you still wondered about his build
+>watching him on stage from next to the pretzel stand, he just moved so differently than you'd imagine
+>he was just so limber
+>despite his weight and height he could move like a dancer 
+>and there was another mid air split that rattled the stage
+>you'd have to slip down there tonight and inspect the bolts
+>you made small talk with the pretzel stand lady as you ate
+>your dinner was a small box of nuggets and cheese
+>with a lemonade to wash it down
+>not the wisest choice for a meal but it was there and fast
+>otherwise you'd sit down at the Chinese buffet for an hour
+>then it would be worth the money
+>but you didn't want to just be openly spending an hour doing nothing at this job
+>management was lax but not that lax
+>pretzel lady, Carol, was a bit older
+>friendly sort all things considered, she'd been at the mall for a decade or so 
+>retail day in and out wasn't for you
+>people could be tiring 
+>Carol sometimes could come off at too friendly though
+>you could swear when she playfully ruffled your hair that Roxanne’s head instantly snapped to look over to you
+>you didn't know how to react to that but Carol went back to gossip and Roxanne seemed to soften back up
+>you were the only one that seemed to catch that
+>when you started it was hard to imagine a robot could emote like a human 
+>but that was definitely a look
+>no idea why
+>it felt defensive
+>maybe you read too much into it
+>he did end up finishing his set and the mall was close to closing for the night
+>part of the reason you took break around this tine was because it was last call for food
+>you got the cord ready to charge up Roxy and he sat down next to you on the edge of the stage
+>”so who was that?”
+>who was who?
+>”the woman that touched you?”
+>so you hasn't imagined that earlier
+>well Carol was just a coworker
+>she ran the pretzel stand
+>she worked around him all the time 
+>”oh OK. I don't usually pay attention to your coworkers.”
+>he just decided now he needed to mess with your hair 
+>you checked around to make sure you weren't getting stares before letting him though
+>”she really shouldn't do that.”
+>clawed dexterous fingers went about fixing your hair
+>at least until he was satisfied 
+>you didn't feel much different
+>he released your head and once you were sure everything around was closed down, you pulled a thick blanket from under the stage
+>you went across the stage and grabbed his electric guitar 
+>you'd tune it back up and then you'd grab a nap while Roxanne recharged
+>he approved and went into sleep mode to charge faster
+>your phone went off and you stretched
+>you realized Roxanne wasn't where he went to sleep mode and you grew a little concerned
+>how do you lose a giant robot that slept next to you
+>you got up and looked around 
+>scanning the stage, you saw nothing
+>you folded the blanket and threw it back under the stage
+>you called out with no response
+>well that was concerning 
+>you called out again
+>he was probably doing something mischievous 
+>but you worried about possibly a malfunction 
+>there still was stuff you felt you didn't know about his machinery 
+>so you started checking the obvious spots
+>then when that turned up nothing you checked the less obvious spots
+>it's not like he'd have a reason to walk into the bathroom or a kitchen area
+>you eventually found him near the theater
+>he looked spooked that he found him
+>like he was trying to hide something
+>you weren't really great at security because you just decided to write it off
+>what trouble could he get up to?
+>so the next evening Carol was asking if you'd known who went through her locker in the back of the pretzel place
+>she said stuff was not where she placed it the night before
+>everything looked like it had been rummaged through
+>you asked if anything had been stolen and thankfully no
+>you'd keep an eye out tonight and swore it wouldn't happen again
+>you tried not to make it obvious you were staring daggers at the robot wolf on stage
+>after hours you confronted him
+>it didn't take a detective to realize what happened
+>there were only two of you in the mall last night and you had passed out for a while
+>Roxy was a bit taken aback
+>he looked a little defeated
+>he mumbled something down at the ground and you insisted he speak up
+>this wasn't something that could be brushed over
+>if something like this happened again you'd maybe be fired
+>that made him shoot back up
+>”fired?”
+>yeah, as in no job here
+>he pulled you into a hug and started frantically apologizing 
+>you felt like a teddy bear held by an upset child
+>you'd swear he was acting like you would be executed 
+>when he finally regained his composure he set you back down
+>was he… crying?
+>what the hell was Fazbear building over there?
+>you had to be firm though
+>no more nonsense like that or your job was on the line
+>you could be easily replaced
+>”you aren't replaceable.”
+>you were unaccustomed to him like this 
+>he had leaned forward and now poked your chest with one finger
+>”you aren't expendable, got it?”
+>he'd gone from looking guilty to the closest thing to anger you'd ever seen
+>it was your turn to shrink back a little
+>you'd never seen that glare before
+>ok fine fine you weren't replaceable 
+>but if he kept rummaging like that you'd probably get kicked to the curb either for the security breach or because he was acting quirky
+>it would come down on your head
+>that calmed him down and he apologized 
+>you did have to ask again just what he was doing with Carol's locker?
+>he'd never done that before
+>he finally replied clearly this time
+>”I just wanted to make sure she wouldn't hurt you.”
+>hurt you?
+>your backbone returned after the dress down
+>you didn't have to speak so much as he read the intent on your face
+>”you know.”
+>no
+>no you didn't know
+>he wasn't helping his case
+>finally he dismissed everything with a wave of his hand
+>”fine, I promise not to rummage through Carol's locker again. now come on, don't you want to sleep with me?”
+>the wolf plopped down on the edge of the stage and tried giving a smile
+>well this didn't answer things but he wasn't being forthcoming
+>pressing him now probably wouldn't get much more
+>so you'd play along
+>however, you couldn't rest 
+>he looked disappointed, even pouted to the best of his ability
+>why did he know how to pout
+>”why not?”
+>the lobby lighting in the theater needed to be fixed
+>management actually splurged and you had to replace a bunch of bulbs
+>you figured tonight would be a good time for it since the place would be empty and you didn't have to worry about your ladder being in the way
+>he could rest
+>”nope. let's go change lightbulbs.”
+>you figured that would be the response you'd get
+>you wouldn't push the subject
+>he would tag along regardless 
+>at least he promised no more weird shit
+>your job was secure
+>hopefully Carol would drop the locker thing
+>if not you'd have to think up a convincing lie
+>but you really didn't have one
+>maybe a kid snuck into the mall?
+>she could easily check that
+>as far as she knew you were the only suspect
+>most people didn't bother spending much 1 on 1 time with Roxanne as you did
+>blaming another staff member would be shitty
+>you didn't like everyone here but the last thing you wanted was anyone fired
+>spooky ghost?
+>possible
+>for now you just hoped she dropped it
+>you'd grabbed the bulbs and the ladder
+>with any luck this would be done quickly 
+>Roxanne set up the ladder at the first sign with burnt out bulbs
+>you climbed and started going to work
+>occasionally you'd have him flick the lights to see what flashed on
+>you were able to work pretty fast
+>within 20 minutes you had done 4 signs completely
+>on the 5th you got all the way up and lost your footing
+>falling backward, you tried and failed to reach out for anything
+>instead of smashing your spine on the floor, you realized you'd been scooped up
+>Roxanne looked down at you nonchalant, like he didn't just save your back
+>he set you back on the ladder and let you go back to work
+>that gesture was appreciated 
+>you probably wouldn't be completely crippled but damn that would have at least hurt
+>he just held you up like nothing
+>well, you'd never be hearing the end of it about working alone now
+>he kept watch from below and he'd hand up spare bulbs as you went
+>within an hour the theater signs looked pristine 
+>they needed cleaning but that was more on some hapless employee not manning the popcorn machine
+>so now you could rest a little
+>he insisted on carrying the ladder and got excited when you decided to nap
+>God he was strange
+>well whatever
+>while you took his word you were still a little suspicious 
+>you'd use his leg as a pillow
+>it wasn't the most comfortable position but he wouldn't get up to mischief without waking you
+>when you suggested it he turned into a stammering mess briefly before regaining his composure 
+>the stage experience probably helped 
+>it wasn't exactly professional behavior between coworkers but again, you really needed to make sure he didn't do anything he and you would regret
+>you grabbed your blanket and plugged him in and you both got some rest 
+>your ploy worked and he didn't move thankfully
+>he didn't immediately turn back on but the second you tried to rise an arm shot forward and held you by your chest to his thigh 
+>he didn't even open his eyes
+>must have felt the pressure 
+>but was he still resting?
+>you had no idea 
+>he didn't let go
+>well whatever
+>you relaxed and stayed where you were
+>the rest of your shift was spent pressed to Roxanne’s lap
+>he didn't seem to want to move
+>well, he didn't get into trouble
+>the mall was safe
+>it was a win at least
+>he only really relaxed around sun up
+>his leg was not the worst pillow
+>surprisingly soft thanks to the fur
+>you still didn't understand his construction 
+>but it did feel good on your neck
+>you didn't know why he was so insistent you stayed there
+>so you asked
+>he finally opened his eyes
+>”you needed rest and I wanted to make sure you got it.”
+>but work?
+>”aren't you here to make sure I'm working as intended?”
+>what did that have to do with this?
+>”well a rockstar can't have his groupie too tired to work”
+>the word he was looking for was roadie
+>roadies were support staff
+>”groupie”
