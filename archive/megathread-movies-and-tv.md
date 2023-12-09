@@ -89,9 +89,9 @@
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
 - [URL Safety Results](https://www.urlvoid.com/scan/123chill.to/)
 
-### 🐐 [BFLIX](https://bflix.gs/)
+### ▶️ [BFlix](https://bflix.sx/)
 - Online movie streaming service and economical method to watch your favorite films and TV episodes.
-- [URL Safety Results](https://www.urlvoid.com/scan/bflix.gs/)
+- [URL Safety Results](https://www.urlvoid.com/scan/bflix.sx/)
 
 ### ▶️ [BingeWatch](https://bingewatch.to/)
 - Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.

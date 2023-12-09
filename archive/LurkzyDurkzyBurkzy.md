@@ -1,7 +1,7 @@
 #Lurkzn's GPT-1106 and Claude 2/2.1 Presets
+######->Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
-######->Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)<-
 ->![img2](https://i.imgur.com/Z5OYDDT.gif)<-
 ***
 ##->Claude Presets<-

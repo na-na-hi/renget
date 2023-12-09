@@ -31,7 +31,7 @@ Assistant: Hi
 
 Assistant: Human
 ```
-    AI会认为你一次性输入了`Hello\n\nHuman: Claude`，它一次性回应了`Hi\n\nAssistant: Human`。这就导致格式的混乱，可能使AI输出不符合Stop Sequences格式的Human或Assistant
+    AI会对特殊标签`\n\nHuman:`和`\n\nAssistant:`（Stop Sequences）产生错误理解，可能使AI输出不符合Stop Sequences格式的Human或Assistant（Stop Sequences仅限在一个competition中完整输出才有效），导致最终输出中出现Human:或Assistant:
 
   - 同时Claude与GPT不同，只有Human和Assistant两种role，而非GPT的user、assistant和system三种，因此只能将system与user合并到Human，避免出现要求被写在Assistant内，导致AI认为自己提出了要求的情况
 
@@ -100,7 +100,7 @@ Assistant:
 	   - `<|curtail|>`：将相邻的空白符全部合并为一个\n（一般用于消除两个提示间的空行）
        - `<|padtxt|>`  将padtxt用占位符替换<|padtxt|>标签所在位置
 
-6. **API模式功能说明**（β测中，功能更新与调整将以小更新推送，暂时不更改版本号）
+6. **API模式功能说明**（版本4.6(12)）
 > 能为API提供xmlPlot与FullColon格式预处理以及设置api_rProxy镜像来绕过API地域限制，酒馆ProxyPassword换成apikey开启API模式
    - `xmlPlot` 提供格式预处理，功能与使用cookie类似，API模式有以下独有功能：
        - 智能首尾：相比酒馆原版逻辑，`xmlPlot`会自动判断role顺序来添加首尾的`\n\nHuman:`和`\n\nAssistant:`，使OAI格式也能做到claude格式下的Assistant Prefix，同时claude2.1下第一个role为user以外时自动启用sys-prompt；
@@ -108,6 +108,20 @@ Assistant:
        - `<|reverseHA|>` 提示中任意位置包含该标签即可开启，反转所有`Assistant`和`Human`，结合FullColon可以做到role反转破限 ~~克劳德：成为人类~~
        - `<|padtxt|>`  包含该标签时才会在api启用padtxt，并用占位符替换<|padtxt|>标签所在位置
    - `FullColon` 相比使用cookie，仅在第一个role不为Human或最后的role不为Assistant时生效，用于解除role顺序的限制
+
+7.  **Clewd API模式与酒馆的简要异同**（版本4.6(12)）
+> 注意：酒馆与Clewd最终发送内容均为OpenAI初始格式转换而来，这里仅说明Clewd与酒馆在 OAI to Claude 转换上的差异
+   - **酒馆逻辑**
+        - 非2.1时，提示词首位加上`\n\nHuman:`和`\n\nAssistant:`（开启Exclude Assistant suffix时不添加`\n\nAssistant:`，但必须手动添加最后的`\n\nAssistant:`保证最后的role为Assistant），user转换为`\n\nHuman:`前缀，assistant转化为`\n\nAssistant:`前缀，示例对话中为`\n\nH:`和`\n\nA:`，system转换为`\n\n`（无前缀）
+        - 2.1时，相比非2.1会使用系统提示，规则为第一个user或assistant之前的所有system转换为`\n\n`并用作系统提示，剩下的部分按非2.1格式处理
+   - **Clewd逻辑**（默认开启xmlPlot和FullColon，部分功能可用特殊标签开启或关闭）
+        - 非2.1时，连续的system和user合并为一个`\n\nHuman:`前缀，连续的assistant合并为一个`\n\nAssistant:`前缀，示例对话中为`\n\nH:`和`\n\nA:`（示例对话无合并）最后添加首位的`\n\nHuman:`，**并判断最后一个role是否为Assistant（`\n\nHuman:`和`\n\nAssistant:`谁在最后），如果不是则末尾添加`\n\nAssistant:`（相当于自动判断的Exclude Assistant suffix功能）**
+        - 2.1时，相比非2.1会使用系统提示，规则为第一个user或assistant之前的所有system转换为`\n\n`并用作系统提示（该部分同酒馆）**但剩下的部分按非2.1格式处理时，不会为首位添加`\n\nHuman:`**
+    - **Clewd解决的问题**
+        - role合并等xmlPlot预处理功能（同cookie，详见 3.`xmlPlot`为什么要进行role合并 与 5.`xmlPlot`具体功能说明）
+        - Exclude Assistant suffix的自动判断
+        - FullColon绕过role顺序限制（详见 6.API模式功能说明）
+        - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.6修改版
 - Clewd 4.6(12) fixed: 优化xmlPlot以及api提示词处理逻辑；在无可用cookie时启用apiKey-Only模式

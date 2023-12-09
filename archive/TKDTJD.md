@@ -409,3 +409,21 @@ https://nitter.net/smith51_a/status/1713546675258610106#m
 
 >London
 https://twitter.com/hzomlot/status/1713165378648420652
+
+>Latest News Of Israeli / Palestinian War 12/23
+>Retired IDF Maj. General Yitzhak Brick:
+“All of our missiles, the ammunition, the precision-guided bombs, all the airplanes and bombs, it’s all from the U.S. The minute they turn off the tap, you can’t keep fighting. You have no capability. … Everyone understands that we can’t fight this war without the United States. Period.”
+https://nitter.net/aaronjmate/status/1731740083299230059#m     12/4/23
+
+>“Israeli” newspaper Yedioth Ahronoth: The “Israeli” army was unable to “cleanse” ???? Gaza City and its vicinities during 59 days of war, so it is unable to “cleanse” Khan Yunis and its vicinities in a shorter period of time, and this will put it under greater pressure.
+https://nitter.net/angeloinchina/status/1731954753654178216#m     12/5/23
+
+>Israeli general Gadi Eizenkot, the originator of the Dahiya doctrine, which entails the mass bombing of civilians, cries at the funeral of his son, Gal Meir Eizenkot, who was killed in northern Gaza.
+https://twitter.com/Lowkey0nline/status/1733072801332924749     12/8/23
+
+>Over 5,000 Israeli occupation soldiers have been wounded by Palestinian resistance gunfire since October 7, according to Israeli daily Yedioth Ahronoth
+https://nitter.net/QudsNen/status/1733411226581901335#m     12/9/23
+
+>Oy Vey Edition 
+>Christian Nationalism is not only a danger to our Country, it’s a danger to Christianity itself. Our film will be coming to theaters In February. Watch the trailer here.
+https://twitter.com/robreiner/status/1732884566879461422     12/7/23

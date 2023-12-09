@@ -1,4 +1,4 @@
--> Last update: 2023-11-16 ->
+-> Last update: 2023-12-09 ->
 
 # /horg/ - Horror Games General 
 
@@ -183,7 +183,7 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 
 -> ![Sweet Home](https://i.imgur.com/qLxTrI9.jpg) <-
 
-[Clock Tower 1](https://vimm.net/vault/6123) (1995) [▶️](https://www.youtube.com/results?search_query=Clock Tower+gameplay) `PS1 version has mouse support`
+[Clock Tower 1](https://vimm.net/vault/6123) (1995), [2 & Ghost Head](https://vimm.net/vault/?p=list&system=PS1&q=Clock+Tower) [▶️](https://www.youtube.com/results?search_query=Clock Tower+gameplay) `PS1 versions have mouse support`
 [Laplace No Ma](https://cdromance.com/snes-rom/laplaces-demon-english-patched/) (1987-1995) [▶️](https://www.youtube.com/results?search_query=Laplace No Ma+gameplay)
 [Project Firestart](https://www.myabandonware.com/game/project-firestart-5q6) (1989) [▶️](https://www.youtube.com/results?search_query=Project Firestart+gameplay)
 [Splatterhouse 1](https://www.myabandonware.com/search/q/Splatterhouse), [2](https://vimm.net/vault/2356) & [3](https://vimm.net/vault/2357) (1988-1993) [▶️](https://www.youtube.com/results?search_query=Splatterhouse+gameplay)
@@ -204,7 +204,7 @@ Aka, mostly fixed angles, tank controls, pre-rendered backgrounds, limited resou
 [Tormented Souls](https://store.steampowered.com/app/1367590/Tormented_Souls/) [▶️](https://www.youtube.com/results?search_query=Tormented Souls+gameplay)
 
 Others:
-[Haunted PS1 Demo Discs](https://hauntedps1.itch.io/) [(Wik)i](https://en.wikipedia.org/wiki/Haunted_PS1) [▶️](https://www.youtube.com/results?search_query=Haunted PS1 Demo+gameplay) `compilations of indie horror demos inspired by low poly PS1 aesthetics`
+[Haunted PS1 Demo Discs](https://hauntedps1.itch.io/) [(Wiki)](https://en.wikipedia.org/wiki/Haunted_PS1) [▶️](https://www.youtube.com/results?search_query=Haunted PS1 Demo+gameplay) `compilations of indie horror demos inspired by low poly PS1 aesthetics`
 [Puppet Combo Store](https://puppetcombo.com/#games) [(Wiki)](https://en.wikipedia.org/wiki/Puppet_Combo) [▶️](https://www.youtube.com/results?search_query=Puppet Combo+gameplay) ([Murder House](https://store.steampowered.com/app/1064460/Murder_House/) [▶️](https://www.youtube.com/results?search_query=Murder House+gameplay), [Nun Massacre](https://puppetcombo.itch.io/nun-massacre) [▶️](https://www.youtube.com/results?search_query=Nun Massacre+gameplay), etc.) `indie studio specialized in developing and publishing low poly horror games, typically slasher-inspired`
 Individual demos/vaporware developers to check out: Banned Memories, Becrowned, Code: Dino-H, Compound Fracture, Echoes of the Living, Endless Blue, Heartworm, Hollowbody, Lake Haven, MalformationAB's Ground Zero, Paracusia, Post Trauma, Protagoras Bleeds, Simulacrum, The Devil, The Lunar Effect, The Pale... `few games in this scene end up getting finished commercial products, most will likely never become more than vaporware demos or game jam prototypes, but can be worth following dev progress on Twitter/YouTube...`
 
@@ -247,7 +247,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Fobia - St. Dinfna Hotel](https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/) [▶️](https://www.youtube.com/results?search_query=Fobia - St. Dinfna Hotel+gameplay) `RE7-inspired`
 [Fran Bow](https://store.steampowered.com/app/362680/Fran_Bow/) [▶️](https://www.youtube.com/results?search_query=Fran Bow+gameplay) `point and click`
 [GOHOME](https://store.steampowered.com/app/1334840/GOHOME/) [▶️](https://www.youtube.com/results?search_query=GOHOME+gameplay)
-[Golden Light](https://store.steampowered.com/app/1245430/Golden_Light/) [▶️](https://www.youtube.com/results?search_query=Golden Light+gameplay) `FPS, rouge-like`
+[Golden Light](https://store.steampowered.com/app/1245430/Golden_Light/) [▶️](https://www.youtube.com/results?search_query=Golden Light+gameplay) `FPS, rogue-like`
 [Hatred](https://store.steampowered.com/app/341940/Hatred/) [▶️](https://www.youtube.com/results?search_query=Hatred+gameplay) `isometric, twin-sticks shooter`
 [Hello? Hell... o?](https://vgperson.com/games/hellohello.htm) [▶️](https://www.youtube.com/results?search_query=Hello? Hell... o?+gameplay)
 [HellSign](https://store.steampowered.com/app/606500/HellSign/) [▶️](https://www.youtube.com/results?search_query=HellSign+gameplay)
@@ -373,7 +373,7 @@ Zombie/horror spin-offs of popular series, like Red Dead Redemption: Undead Nigh
 [Half Life 2: Nightmare House 2](https://www.moddb.com/mods/nightmare-house-2) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Nightmare House 2+gameplay)
 [Half-Life 2: Underhell](https://www.moddb.com/mods/underhell) [▶️](https://www.youtube.com/results?search_query=Half-Life 2: Underhell+gameplay)
 [Left 4 Dead 2: Resident Evil series re-creation campaigns](https://steamcommunity.com/sharedfiles/filedetails/?id=769892999) [▶️](https://www.youtube.com/results?search_query=Left 4 Dead 2: Resident Evil Campaign+gameplay)
-[Penumbra: Necrologue](https://www.moddb.com/mods/penumbra-necrologue), [Twilight of The Archaic](https://www.moddb.com/mods/penumbra-twilight-of-the-archaic) [▶️](https://www.youtube.com/results?search_query=Penumbra: Necrologue+gameplay) `requires a copy of Amnesia TDD`
+[Penumbra: Necrologue](https://www.moddb.com/mods/penumbra-necrologue), [Twilight of The Archaic](https://www.moddb.com/mods/penumbra-twilight-of-the-archaic) [▶️](https://www.youtube.com/results?search_query=Penumbra: Necrologue+gameplay) `requires a copy of Amnesia TDD` + [Prisoner of Fate](https://www.moddb.com/mods/penumbra-prisoner-of-fate) `requires a copy of SOMA`
 [Resident Evil: Survivor Redux (Remake)](http://aydanwatkins.x10host.com/) [▶️](https://www.youtube.com/results?search_query=Resident Evil: Survivor Redux+gameplay) + [Containment](http://aydanwatkins.x10host.com/) [▶️](https://www.youtube.com/results?search_query=Resident Evil Containment mod+gameplay) ([T](https://twitter.com/ClassicREMods)) - [REVisited](https://www.moddb.com/mods/resident-evil-revisited) [▶️](https://www.youtube.com/results?search_query=Resident Evil revisited mod+gameplay) ([T](https://twitter.com/re_revisited)) - [RE1.5](http://re123.bplaced.net/board/viewforum.php?f=28) [▶️](https://www.youtube.com/results?search_query=Resident Evil: 1.5+gameplay)
 [SCP Containment Breach](https://www.scpcbgame.com) & [Mods](https://www.moddb.com/games/scp-containment-breach/mods) [▶️](https://www.youtube.com/results?search_query=SCP Containment Breach+gameplay)
 [Silent Hill: Alchemilla (SH2-inspired, using HL2's Source engine)](https://www.moddb.com/mods/alchemilla-mod) [▶️](https://www.youtube.com/results?search_query=Half Life 2: Alchemilla+gameplay) & [Silent Hills: P.T. Demo Remake in Unreal Engine](https://lutris.net/games/unreal-pt/) [▶️](https://www.youtube.com/results?search_query=unreal silent hill PT remake+gameplay)
