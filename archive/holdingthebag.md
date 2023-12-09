@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 7th December. All dates dd/mm.
+!!! Note Last updated: 9th December. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -106,7 +106,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-90 | Bullies | Open as of 02/12
 1674 | BlueB@lled | Open as of 01/12
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 29/11
@@ -115,6 +114,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Full as of 26/11
+90 | Bullies | Full as of 08/12
 244 | Cute&Funny | Full as of 10/11
 286 | カニ (Kani - crab for dekinais) | Full as of 24/10
 343 | M8ingPressers | Full as of 03/04
@@ -140,7 +140,9 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+477 | BunnyChasers | Open as of 08/12
 623 | Mesugaki | Open as of 28/10
+2115 | FunnyDorks | Open as of 08/12
 2496 | AbydosCycling | Open as of 07/12
 6098 | Comfy | Open as of 16/09
 6289 | FlatIsJustice | Open as of 05/12
@@ -149,9 +151,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
-477 | BunnyChasers | Full as of 24/10
 1631 | CHADS | Full as of 04/09
-2115 | FunnyDorks | Full as of 23/07
 2267 | SpinHinaSpin | Full as of 31/07
 4722 | JointRaid | Full as of 03/02
 

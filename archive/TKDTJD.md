@@ -427,3 +427,15 @@ https://nitter.net/QudsNen/status/1733411226581901335#m     12/9/23
 >Oy Vey Edition 
 >Christian Nationalism is not only a danger to our Country, it’s a danger to Christianity itself. Our film will be coming to theaters In February. Watch the trailer here.
 https://twitter.com/robreiner/status/1732884566879461422     12/7/23
+
+>The Israeli soldier who took official approval from the competent authorities in the IDF to blow up an entire building in Gaza in order to give it as a "birthday gift" to his two-year-old daughter yesterday was killed by Hamas.
+https://nitter.net/Megatron_ron/status/1733418511391731811#m 12/9/23
+
+>Idf War Crimes Folder Updated 
+https://pastebin.com/E3ATjpvV     12/9/23
+
+>As I just promised, the app is back on play store, and it went back to the old link with the same count over 100k downloads, here is the link to share it guys  Thanks based Italian news gathering anon :)   
+https://nitter.net/NoThanksBoycott/status/1732818632621588959#m     12/9/23 and link posted 12/7/23
+
+>>Starbucks is closing down some locations, and is already pulling out of Malaysia.
+https://nitter.net/MonitorX99800/status/1732784387106963906#m  12/7/23

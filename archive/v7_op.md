@@ -1,7 +1,7 @@
 A thread dedicated to our very cute Secret Agent of Hololive Indonesia,
 Vestia Zeta! [spoiler]she's not sus btw[/spoiler]
 
-[insert edition here] edition
+[insert edition here] Edition
 
 >Schedule:
 https://youtu.be/38fJIy2FoDg

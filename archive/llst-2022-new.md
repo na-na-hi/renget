@@ -1,5 +1,5 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/q1y5fc.jpg)  <-
+-> ![](https://files.catbox.moe/gp5sjo.jpg)  <-
 
 ##Changelog:
 ==2023.10.31-30==

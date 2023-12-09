@@ -28,17 +28,17 @@ This document is subject to change / expand as I experiment with more jailbreaks
 ***
 ## Claude 2.1 Prompts
 
-1. [Readme](https://rentry.org/crustcrunchJB/edit#readme)
-2. [How to Import](https://rentry.org/crustcrunchJB/edit#how-to-import-the-json-file)
-3. [Download](https://rentry.org/crustcrunchJB/edit#download)
-4. [v4 Updates](https://rentry.org/crustcrunchJB/edit#v4-updates)
-5. [Jailbreak Edits](https://rentry.org/crustcrunchJB/edit#potential-jailbreak-edits-you-may-want)
-6. [Main Prompts](https://rentry.org/crustcrunchJB/edit#main-prompts)
-7. [Utility Prompts](https://rentry.org/crustcrunchJB/edit#utility-prompts)
-8. [Custom Prompts](https://rentry.org/crustcrunchJB/edit#custom-prompts)
-9. [Prompt Order](https://rentry.org/crustcrunchJB/edit#prompt-order)
-10. [Squash System Messages](https://rentry.org/crustcrunchJB/edit#check-squash-system-messages)
-11. [Card Edits (only for older versions)](https://rentry.org/crustcrunchJB/edit#card-edits-only-for-v1-and-v2)
+1. [Readme](https://rentry.org/crustcrunchJB/#readme)
+2. [How to Import](https://rentry.org/crustcrunchJB/#how-to-import-the-json-file)
+3. [Download](https://rentry.org/crustcrunchJB/#download)
+4. [v4 Updates](https://rentry.org/crustcrunchJB/#v4-updates)
+5. [Jailbreak Edits](https://rentry.org/crustcrunchJB/#potential-jailbreak-edits-you-may-want)
+6. [Main Prompts](https://rentry.org/crustcrunchJB/#main-prompts)
+7. [Utility Prompts](https://rentry.org/crustcrunchJB/#utility-prompts)
+8. [Custom Prompts](https://rentry.org/crustcrunchJB/#custom-prompts)
+9. [Prompt Order](https://rentry.org/crustcrunchJB/#prompt-order)
+10. [Squash System Messages](https://rentry.org/crustcrunchJB/#check-squash-system-messages)
+11. [Card Edits (only for older versions)](https://rentry.org/crustcrunchJB/#card-edits-only-for-v1-and-v2)
 
 ### readme:
 This is the prompt setup I am using to test Claude 2.1 as of 11/28/23. This was tested on the latest version of Silly Tavern staging, up to that date. I cannot guarantee this preset will work as intended on older versions of Silly Tavern.

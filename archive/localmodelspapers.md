@@ -458,6 +458,7 @@
 12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
 12/2023|[Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
 12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
+12/2023|[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://archive.is/xQyvx)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -478,3 +479,4 @@
 11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.is/Tch3H)
 11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
+12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)

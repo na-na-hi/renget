@@ -64,6 +64,13 @@
 [QuIP#](https://github.com/Cornell-RelaxML/quip-sharp)|2/4bit weight quantization with improvements over the original QuIP method 
 [LoRAShear](https://github.com/microsoft/lorashear)|Structurally prune LLMs via dependency graphs
 |
+**Local LLM Research**|
+[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
+[DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
+[PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
+[REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
+[EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
+|
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
 [LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
@@ -72,14 +79,6 @@
 [Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
 [DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
-|
-**Local LLM Research**|
-[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
-[DejaVu](https://github.com/FMInference/DejaVu)|Context sparsity for efficient inference leading to large speedups (6x vs HF transformers) 
-[PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
-[REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
-[DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
-[LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)|Autoregressive decoding without need of draft model or slowdown from token acceptance rate 
 |
 **Non-LLM Local Models**|
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI. User submitted [workflows](https://comfyworkflows.com)

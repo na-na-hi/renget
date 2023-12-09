@@ -64,14 +64,14 @@ I'd advice you to do the same even if you don't reroll, just so you have somethi
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
 
-Your very first roll guarantees a single (3\*) student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll.
+Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll.
 ![no, you can't get Ako on your 10th roll.](https://i.imgur.com/0nMJLHD.png)
-Rolling in 10s guarantees at least one (2\*) student so it's better to roll in multis.
+Rolling in 10s guarantees at least one 2\* student so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
 
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
-Made by /bag/:
+Made by /bag/ (also works on JP):
 ![Reroll targets](https://i.imgur.com/tmi8QuB.png)
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 
@@ -85,14 +85,14 @@ You can always ask /bag/ for advice.
 >What about good units who are only blue or gold (1 or 2 star)?
 ![Good 1/2 Star Students](https://i.imgur.com/GKg29v0.png)
 
->What can I get from the Startdash (the paid ticket)?
-You get 1 ten roll, which guarantees a 3\* unit of a set pool.
-![Startdash pool](https://i.imgur.com/vJqP5Yo.png)
-
 >How do I reroll? (global only) 
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)
 Menu Tab (top right) > Account > Reset account
 For JP the method is outlined [here](https://bluearchive.wiki/wiki/Rerolling). 
+
+>What can I get from the Startdash (the paid ticket)?
+You get 1 ten roll, which guarantees a 3\* unit of a set pool.
+![Startdash pool](https://i.imgur.com/vJqP5Yo.png)
 
 >Should I reroll?
 For your waifu? Of course. But besides that? 
@@ -121,7 +121,7 @@ It depends on whether you like or want the other girl too (if applicable).
 
 >I just got a ten roll ticket! Do they expire?
 No.
-The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries, and the 10 roll ticket you get from the Elimination raid.
+The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries and the 10 roll ticket you get from the Elimination (3 colour) raid.
 You get a notification if something in your inventory expires soon.
 
 >I got the banner unit at my 200th roll. Do I claim her or do I get the other banner unit that I don't have?
@@ -440,7 +440,8 @@ I'm personally using the gold ones to convert gifts into the ones I need, but mo
 They're okay. If you need them they're handy. I buy them occasionally too. 
 
 >Mastery Certificate/Expert Permit shop
-(After you hit MAX level, 1 AP = 1 Mastery Cert) 
+(After you hit MAX level, 1 AP = 1 Mastery Cert)
+![expert permit priority](https://files.catbox.moe/awlx5q.png) 
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
 Credits > Limited Elephs (that you need) > Pins (if you need) > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.

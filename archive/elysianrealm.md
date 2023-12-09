@@ -12,10 +12,10 @@ click image to jump to valk
 
 !!! info 7.1 Phase 1
 
-[![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)
+[![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)
 
 !!! info 7.0 Phase 1
-[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay_1)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
+[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay_1)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
 
 
 [Luna Vow: Crimson Love basic](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)
@@ -173,9 +173,9 @@ Bloodied Casket: Tough Love | Sweet Dreams set
 
 Cost | Effect
 ------ | ------
-0 | Cruising Tribunal
-15 | Weapon type breach
-15 | Max HP DMG buff
+0 | Pishacha
+15 | Melee ATK breach
+15 | Weapon type DMG bonus  
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -1881,21 +1881,20 @@ Domain of Ego: Flawless Return | Flower of Origin set
 
 Cost | Effect
 ------ | ------
-0 | Cruising Tribunal
-5 | Weapon active vulnerability 
-10 | Support type DMG boost
-15 | Max HP DMG boost 
+0 | Pishacha
+5 | Max SP+30
+10 | Same type TDM bonus
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-AE | BKE | Utility
-BR | AE/RC | Damage
+BKE | VC | Utility
+BR | AE | Damage
 
 Time | Sigil 
 ------ | ------ 
-Start | Mad King's Mask / The Lonely Moon
-1st Shop | Rainbow of Absence / The Lonely Moon
-16F | Tin Flask/ Dreamful Gold 
+Start | Mad King's Mask / An Old Pal's Legacy 
+1st Shop | Rainbow of Absence / An Old Pal's Legacy 
+16F | Tin Flask/An Old Pal's Legacy 
 
 ##->Ego Signets<-
 First Bloom 初绽 | First Journey 初程 |  First Awakening 初醒  | First Encounter 初见 | First Yearning 初念 
@@ -1908,11 +1907,11 @@ Priority | Signet | Details
 ------ | ------ | ------
 1st | Kalpas1 | Both damage boosts, HP cap up are the key choices, can pick vulnerability, unlock nexus; can pick Burden, TDM from enhanced
 2nd | Griseo1 | Red (buy from shop) Yellow Black are the key choices, unlock nexus 
-2nd | Kevin2 | Breach, both damage boosts are the key choices, can pick SP, unlock nexus 
-2nd | Pardofelis1 | HPSP cap up, both damage boosts are the key choices, unlock nexus 
-Optional | Su2 | Both combo boosts, vulnerability, TDM are the key choices, don't need nexus; can also pick Vill-V 5 3,  Sakura TDM, vulnerability , Eden both damage boosts as reinforcement
+2nd | Kevin2 | Breach, both damage boosts are the key choices, unlock nexus 
+2nd | Pardofelis1 | HPSP cap up, both damage boosts are the key choices, unlock nexus; can pick breach from enhanced
+Optional | Vill-V2 | 2 5 3 are the key choices, individual is fine, nexus is better; can also pick Sakura vulnerability, TDM as reinforcement 
 
-!!! info Can buy Su's damage reduction in shop if needed; if triggering revive too easily can pick Kalpas2 to maintain damage buffs; recommended to swap sigil on 5F
+!!! info If dying easily, can pick Kalpas2 to preserve damage boost; recommended to swap sigil on 5F
 
 #->Herrscher of Human: Ego fast ulti<-
 ->![hohulti1](https://i.imgur.com/ivCy9A1.png)<-
@@ -1969,20 +1968,19 @@ Purana Phantasma: Nighteye | Cecilia: Youth set
 
 Cost | Effect
 ------ | ------
-5 | Weapon active vulnerability 
-10 | Combo vulnerability 
-15 | Weapon type breach
+15 | Melee ATK breach
+15 | Weapon type DMG bonus  
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-BKE | VKE | Utility
+BKE | VC | Utility
 AE | BR | Damage
 
 Time | Sigil 
 ------ | ------ 
 Start | Gold Goblet/Dreamful Gold
 1st Shop | Light as a Bodhi Leaf / Dreamful Gold 
-16F | Heavy as a Million Lives/Dreamful Gold
+16F | Heavy as a Million Lives/Falling in Past Light 
 
 ##->Ego Signets<-
  Cat's Eyes 猫眼 | Hidden Claws 隐爪 | Tailpiece 刃尾 | Nighteye 夜瞳 | Phantasma 幻梦
@@ -1994,11 +1992,11 @@ Priority | Signet | Details
 ------ | ------ | ------
 1st | Eden1 | Both damage boosts, SP recovery, starting SP are the key choices, unlock nexus 
 2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus; must pick at least breach, can pick vulnerability 
+2nd | Griseo1 | Red(buy from shop) Black Yellow are the key choices, unlock nexus
 2nd | Pardofelis1 | Both damage boosts, both silver generation, HPSP cap up are the key choices, unlock nexus; can pick breach from enhanced
-2nd | Kalpas1 | Both damage boosts, HP cap up are the key choices, can pick vulnerability; recommended to pick Burden, TDM from enhanced 
-Optional | Griseo1 | Red(buy from shop) Black Yellow are the key choices, unlock nexus; can also pick Vill-V 2 3,  Aponia1 (6 4 5) as reinforcement
+Optional | Kalpas1 | Both damage boosts, HP cap up are the key choices, can pick vulnerability; recommended to pick Burden, TDM from enhanced; can also pick Vill-V 2 3 , Aponia1 (6 4 5) as reinforcement
 
-!!! info After getting Kalpas1 nexus, reduce HP at shop; Cecilia: Youth > N-EX TB + Willows M > N-EX TB + Welt M > Willows set, not recommended to use Bastet; recommended to swap sigil on 5F
+!!! info After getting Kalpas1 nexus, reduce HP at shop; Cecilia: Youth > N-EX TB + Willows M > N-EX TB + Welt M > Willows set; recommended to swap sigil on 5F
 
 
 
