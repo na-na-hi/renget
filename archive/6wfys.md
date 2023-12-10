@@ -16,6 +16,8 @@ This guide is currently targeting game version 1.6.640. Almost everything works 
 
 The author formerly recommended [Downgrading from 1.6.640.](https://www.nexusmods.com/skyrimspecialedition/mods/57618) Most mods originally included in this list have either been updated to this version or feature complete alternatives have been made since AE was released. I will be marking essential (imo) SKSE mods that have yet to be replaced with **Æ**, and SKSE mods that have been made compatible with *all* versions with **NG**. [github page for the curious.](https://github.com/CharmedBaryon/CommonLibSSE-NG) Keep in mind that many of these mods will have FOMOD installers or separate downloads for SE or AE.
 
+Regarding 1.6.1130: Unless you were somehow dead set on paying for mods, downgrade to 1.6.640.
+
 SKSE will throw an error if it detects an incompatible version of a SKSE mod and will provide the .dll name. Use this to troubleshoot any versioning issues.
 
 ##Fixes/Requirements
@@ -83,7 +85,7 @@ Sprint Tweaks - to taste. sets sprint to hold rather than toggle, and adds BOTW 
 Better Jumping - sprint jump, double jump, etc. [sound patch](https://www.nexusmods.com/skyrimspecialedition/mods/44041) needed if using with CGO.
 Wade in Water Redone - finally has animations thanks to EVG Conditional Idles.
 S.M.C. - Skyrim Motion Control - This one is super cool. Dynamic acceleration, deceleration, slope speed adjustments etc. 
-*note: Skyrim Souls compatibility is in .ini - leave it off! If it feels weird otherwise, just halve the ramp-up values and double the stopping force value.*
+*note: This has been completely reworked and Skyrim Souls RE compatibility works now. If updating, just remember to delete your old configs.*
 
 ###Miscellaneous
 Rumble - super cool mod that hooks into game events to provide controller feedback. Check .ini - rain and footsteps are way overtuned OOTB (for my gamepads at least).

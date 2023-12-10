@@ -8,7 +8,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Species:** Rufflet | **Affiliation:** N/A
 **Level:** 9 | **Experience to Next Level:** 15/90
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
-**Pokécoin:** 50₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 250₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -64,7 +64,7 @@ Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

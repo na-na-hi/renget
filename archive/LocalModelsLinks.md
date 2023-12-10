@@ -11,9 +11,11 @@
 **Models**|
 [TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
+[OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
+[Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
+| 
 [HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
 [Ayumi ERP Benchmark](http://ayumi.m8geil.de/index.html)|Ranks models by how well they adhere to character cards, as well as lewd word variety/amount
-[OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
@@ -115,9 +117,9 @@
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
-[Music AI Voice](https://huggingface.co/QuickWick/Music-AI-Voices)|For use with RVC or SVC audio voice cloning 
 [Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
 [ERP Forum Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
 [VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 [dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
-[Data-Juicer](https://github.com/alibaba/data-juicer)|Dataset preparation tool with support for mulitmodal data
+[lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 
+[Data-Juicer](https://github.com/alibaba/data-juicer)|Dataset preparation tool with support for multimodal data

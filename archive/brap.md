@@ -141,6 +141,10 @@ This is your main model that you'll be generating on. The best model that I alwa
 [Kotosmix](https://civitai.com/models/5245)
 [Toonify](https://civitai.com/models/36281)
 
+  __Update 10/12/2023:__ Another great way to do cartoon-style pics is to use the Thicker Lines LoRA. Since Kotosmix works very well, it's much better to keep Kotosmix as the checkpoint model and use LoRAs for the style instead. This LoRA will transform Kotosmix into cartoon-style art and it does the fart effect much better so I recommend it.
+
+[Thicker Lines](https://civitai.com/models/140359/)
+
 #### Step 6: Prompting and Generating
 
 ##### Prompt Settings:

@@ -71,7 +71,7 @@
 
 `Both wore stockings and heels, as well as flowery gloves.`
 
-`"It's been a while Drekus. Those girls are pretty cute. Heheh." A voice called out from a speaker. "You're good to enter, sweethearts."`UUndernder
+`"It's been a while Drekus. Those girls are pretty cute. Heheh." A voice called out from a speaker. "You're good to enter, sweethearts."`
 
 `Inigo giggled behind his fan, "Oh you. I bet you say that to all the girls."`
 

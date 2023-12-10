@@ -246,6 +246,7 @@
 12/2023|[Sequential Modeling Enables Scalable Learning for Large Vision Models (LVM)](https://arxiv.org/abs/2312.00785)
 12/2023|[Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 12/2023|[StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://archive.is/cHoct)
+12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -455,7 +456,6 @@
 11/2023|[Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization](https://arxiv.org/abs/2311.16442)
 12/2023|[GIFT: Generative Interpretable Fine-Tuning Transformers](https://arxiv.org/abs/2312.00700)
 12/2023|[PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models](https://arxiv.org/abs/2312.02429)
-12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
 12/2023|[Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
 12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
 12/2023|[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://archive.is/xQyvx)

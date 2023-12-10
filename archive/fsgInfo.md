@@ -21,7 +21,7 @@ Group passwords: /dsg/ and erg
 - https://docs.google.com/document/d/1X57UrBP6agjk1heiYS7fOzhK67TYDXAoTvRHOFwoabc/pub
 
 ####BLOODBORNE
-- https://docs.google.com/document/d/1XgIU8H04uF8L7OY-CfAu1qLS8AACYcX6Fxyeidl3IkI/pub
+- https://docs.google.com/document/d/1TlAjZSvmE979gbayTvpioT72n5A7_bUjMNCLuOatJTQ/pub
 
 ####DEMON'S SOULS 2009
 - https://pastebin.com/tehcGm75 
@@ -36,5 +36,5 @@ Group passwords: /dsg/ and erg
 - https://pastebin.com/G8zw0sc3 
 
 ####ARMORED CORE
-[>>>/vg/acg](https://boards.4channel.org/vg/catalog#s=acg)
+[>>>/m/acg](https://boards.4channel.org/m/catalog#s=acg)
 - AC6 Parts List: https://docs.google.com/spreadsheets/d/1YLPD_x-NSLkOPQJUR-WHoHipE4UI01Nz/edit#gid=1521007424

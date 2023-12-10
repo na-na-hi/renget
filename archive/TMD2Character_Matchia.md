@@ -33,7 +33,7 @@ Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Fake Out | 4 BP | 7(-3) AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Reversal | - | 46AP | ≥2 | ![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png) | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 12 BP.
+Reversal | - | 6AP | ≥2 | ![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png) | Physical | BP dependent on the User's current HP percentage. Full HP; 2 BP. ¾ HP; 4 BP. ½ HP; 8 BP. ¼ HP; 12 BP.
 Detect | - | 4 AP | - | ![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png) | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Meditate | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | Status | The User's Attack is increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | ![???-Type](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.

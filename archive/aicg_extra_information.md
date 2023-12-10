@@ -102,6 +102,9 @@ https://character-tools.srjuggernaut.dev/character-editor
 https://www.notion.so/
 - markdown wiki website with great UX, great to organize project ideas, has live editing and section-commenting so can be used for collaboration
 
+https://pollinations.ai
+- allows to use links for prompting to integrate free imagegen into a bot
+
 ***
 
 !!! info
