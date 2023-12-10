@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Battles near Artyomovsk: AGTM units destroy militant infantry
+https://files.catbox.moe/9qgyzo.mp4
+>Female AFU soldier requests evacuation, but there is none
+https://files.catbox.moe/hmny9p.mp4
 >Krynki 3.0 kayACK
 https://files.catbox.moe/dtkpdr.mp4
 https://files.catbox.moe/d2zffo.mp4

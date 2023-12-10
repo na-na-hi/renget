@@ -6,7 +6,7 @@
 
 ***
 !!! warning
-    All of these prompts are meant for GPT-4.
+    All of these prompts are meant for GPT-4 and Azure GPT-4, I haven't tested them on Furbo.
 	I don't have any extreme fetishes so, quite frankly, I don't know how filter-proof they are.
 	Everything is arbitrary and I don't know what I'm doing.
 

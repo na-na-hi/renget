@@ -7,9 +7,9 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 8 | **Experience to Next Level:** 70/80
+**Level:** 9 | **Experience to Next Level:** 5/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 296₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 496₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -21,7 +21,7 @@ Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 8 (20 HP) | 20HP
+Health Points | 0 | Level 9 (21 HP) | 21HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
@@ -67,10 +67,10 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
-speed tier 1 completed i think i have this right
+speed tier 2 completed i think i have this right
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

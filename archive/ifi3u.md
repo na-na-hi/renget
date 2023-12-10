@@ -311,8 +311,9 @@ Inigo entered the bathroom. Junichi broody voice came out the other side, he sou
 >Junichi: No. You busy?
 >Inigo: Kinda.. I'm at the arcade. Want me to come over?
 >Junichi: Nah. Where does Takeda live? I need to talk to him.
+>[...]
 
-Inigo left the bathroom after combing his hair a few times. He wondered what Joon and Hifumi are up to. 
+Inigo left the bathroom after combing his hair a few times. He wondered what Joon and Hifumi were up to. 
 ***
 
 After resolving the odd phone call, Inigo wandered back to the arcade craving some mindless gaming to decompress. Immediately he spotted Orochi in front of a gachapon machine, softly cursing under her breath as she turned the crank over and over. She's still here?

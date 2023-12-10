@@ -6,7 +6,7 @@ Ouu... I can't emphasise the importance of ***steering*** enough—It can't be t
 [TOC2]
 
 ***Other guide:  [lorebook guide](https://rentry.org/lorebook-guide), [memory guide](https://rentry.org/memory-guide)***
-*[My personal preset—Truthfully (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
+*[My personal preset—Truthfully v9 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ####Spelling and Grammar
 

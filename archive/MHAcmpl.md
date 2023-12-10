@@ -980,7 +980,8 @@ Holden On To A Blank (Holden Deckard, Blank): https://rentry.org/nfkvx3
 I Need A Hero(ine)...! (Satoru Tani): https://rentry.org/ynbmqo
 A Night of Fate (Yamata, Nabiki): https://rentry.org/tu4y9
 ??? (Nekiro, Heartbeat): https://rentry.org/7thz79
-
+Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others): https://rentry.org/ifi3u
+The Proposal for a Showdown (Yamata, 108 Stars Gang): https://rentry.org/h23ps
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

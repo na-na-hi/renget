@@ -7,9 +7,9 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 9 | **Experience to Next Level:** 65/90
+**Level:** 9 | **Experience to Next Level:** 80/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 270₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -65,7 +65,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
 
 
 **INVENTORY (4 slots)**

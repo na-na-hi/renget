@@ -1,7 +1,5 @@
 # tsukasa
 
-!!! danger NEW PASTE https://rentry.org/tsukasamodel/
-
 list of all models: https://huggingface.co/ludis
 
 log paste! https://rentry.org/tsukasa13blogs

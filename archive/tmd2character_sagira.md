@@ -13,9 +13,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 9 | **Experience to Next Level:** 55/90
+**Level:** 10 | **Experience to Next Level:** 0/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 492₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 692₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -27,7 +27,7 @@ Magician | When using Attacking Moves, the User steals an Item from their Oppone
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 3 | Species Bonus | +3 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
@@ -82,15 +82,15 @@ Item Name | Description
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Gold Gummi | Gives +10 IQ points to Psychic-Types. Gives +5 to other types. Tastes like steeped tea.
+2. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
@@ -99,6 +99,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Pile of used Blast Seeds | A pile of gathered Blast Seeds, all burnt and mostly spent.
+RP Item | Chargestone Shavings | Energy used to course through this.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

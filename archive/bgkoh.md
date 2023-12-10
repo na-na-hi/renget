@@ -7,9 +7,9 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 10 | **Experience to Next Level:** 5/100
+**Level:** 10 | **Experience to Next Level:** 20/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 569₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 769₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -66,7 +66,7 @@ Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his fla
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪ** | Tier **ɪɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**

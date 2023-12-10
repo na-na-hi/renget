@@ -6,6 +6,7 @@
 ***
 ##->Claude Presets<-
 ->Shoutout to **RobbieTheFella** for archiving and sharing it <3<-
+->I highly recommend ==LasagnaBalls== and ==John Cena v3==, but feel free to play around with the others!<-
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)<-
 ***
 ##->GPT-1106 Preset<-

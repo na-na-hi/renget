@@ -66,7 +66,7 @@ I had perfected dig, but if I wanted to win the Acceptance Trial, I knew I’d h
 
 Every time I even thought of using ember a nervous and queasy feeling rose in my gut, so I never tried to use it. “(I guess it's now or never,)” I thought while pushing the uneasiness in my stomach down. I finally built up enough courage and deeply inhaled and let the heat build-up. In one continuous motion, I lunged forward and exhaled. Instead of several small flames spewing out of my mouth, as I had expected, a single, minuscule cinder came out of my beak, followed by a giant ball of fire that swallowed my entire being. 
 
->*I will never forget that pain. * 
+>*I will never forget that pain.* 
 
 It felt like someone smeared tomato berries into my eyes, nose, and mouth. It felt like someone had shattered my bones and plucked my feathers. It felt like a million thunderbolts descended from the sky striking my soul. That experience lasted all of one second, though it felt like a thousand lifetimes before I was finally overwhelmed and fainted. 
 

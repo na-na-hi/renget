@@ -24,8 +24,8 @@ I'll supply you with the requirements and links in order. You are expected to **
 			- slower, split between RAM and VRAM (VRAM is optional)
 			- CUDA/ROCm supported for increased performance, but not required
 			- arguably the simplest option
-	- **GPU Inference:** [text-gen-webui](https://github.com/oobabooga/text-generation-webui)
-	- **CPU Inference:** [KoboldCPP](https://github.com/LostRuins/koboldcpp)
+	- **GPU Inference with CUDA/ROCm:** [text-gen-webui](https://github.com/oobabooga/text-generation-webui)
+	- **CPU/GPU Inference (CUDA/ROCm optional):** [KoboldCPP](https://github.com/LostRuins/koboldcpp)
 	- There are other back ends in active development. This guide uses text-gen-webui, but I have no strong opinion on which is "best." text-gen-webui can also use CPU inference, but KoboldCPP is much more lightweight.
 4. [SillyTavern](https://github.com/SillyTavern/SillyTavern). This is our front end. Also see the [docs](https://docs.sillytavern.app/).
 	- This is technically optional. both text-gen-webui and KoboldCPP have a webui. But SillyTavern is a very feature-rich and useful front-end.
