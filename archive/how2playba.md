@@ -43,7 +43,8 @@ There is also a tell on the app icon which one is the censored one.
 This will mostly cover emulator only problems. 
 
 If you experience crashes while playing the game, you should fiddle around in the settings menu. Try the following one at a time:
-- Adjust CPU/Memory allocation to High (e.g. 4 Cores and 4 GB respectively) 
+- Make sure you're playing on the 64-bit instance of your emulator 
+- Crank up the CPU/Memory allocation in the emulator settings 
 - Lower in-game framerate and quality 
 - Switch between software and hardware decoding 
 
@@ -331,6 +332,7 @@ Alternatively look up some clears or guides on YouTube. E.g. "Blue Archive Binah
 
 Up to HC you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
 Don't try EX without a mock battle if ur below the recommended level.
+You can do EX at level 70, INS at level 80, and Torment after 2 years of playing. 
 
 If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over.
 
@@ -437,7 +439,7 @@ With the fusion stones you can convert a surplus of a certain type of mat into a
 I'm personally using the gold ones to convert gifts into the ones I need, but most of the time you won't need these things. They're very handy when you need them, so having a decent stack of them can come in handy (don't buy the grey ones though). About 40 of each would be my recommendation. 
 
 - Secret tech note 
-They're okay. If you need them they're handy. I buy them occasionally too. 
+They're okay. If you need them they're handy. I always buy them, but I'm 2 years into the game.  
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert)

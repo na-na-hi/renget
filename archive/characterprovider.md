@@ -96,9 +96,12 @@ I had fun on this journey with you and am excited to see what these "assistants"
 #####
 - - -
 ##### Will You Enjoy These Prompts?
-These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, or extreme violence. Characters will stay true to their descriptions. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here.
 
-The responses with these prompts are not CAI-like; they are more like the interactive novel ones.
+**Short answer:** If you like cringy and ecchi anime, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
+
+**Longer answer:** These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, serious Hearts of Iron/Warhammer adventures or extreme violence. Characters will stay true to their descriptions and may be more witty. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here. (Some prompts has more focus on sex.)
+
+The responses with these prompts are not CAI-like; they are more like the interactive novel ones or movie script-like.
 
 Instructions that I commonly include into my prompts:
 - Environments descriptions.
@@ -111,10 +114,10 @@ Instructions that I commonly include into my prompts:
 - Descriptions of interactions/objects/labels.
 - User-centered narration.
 - Additions of silliness, sarcasm, and wittiness. (not always)
-- Longer novel-like responces (not always)
+- Longer novel-like responses (not always)
 - ~~Inclusion of telepathic squirrels for comic relief.~~
 
->**Comment on feedback:** Many anons have directly messaged me about the significant improvements in storytelling and characterizing their characters. If given the option, I highly recommend using GPT instead of Claude. I understand that the 12+ versions of the Claude prompt can be confusing, so I suggest either version 10.1 (which focuses on inventiveness and interesting events) or version 12 (which has more inventiveness and fewer events). The recommended versions are marked with a star. The reason for so many versions is because of experimentation and many anons requesting to try out every version and subversion to provide feedback. I am grateful for the constant feedback and suggestions from several anons on improving the prompts.
+>**Comment on feedback:** Many anons have directly messaged me about the significant improvements in storytelling and characterizing their characters. If given the option, I highly recommend using GPT instead of Claude. I understand that the 12+ versions of the Claude prompt can be confusing, so I suggest either version 10.1 (which focuses on inventiveness and interesting events) or version 12 (which has more inventiveness and fewer events), or trying GPT prompts on Claude, they are better defined. The recommended versions are marked with a star. The reason for so many versions is because of experimentation and many anons requesting to try out every version and subversion to provide feedback. I am grateful for the constant feedback and suggestions from several anons on improving the prompts.
 
 ######
 - - -
@@ -135,14 +138,19 @@ Instructions that I commonly include into my prompts:
 GPT4-Turbo > GPT4 > ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/Claude 1.1/GPT3.5-Turbo
 (for role-play)
 
-**Claude:**
+**Pressure testing: Ability to retrieve information (model attention):**\*
+
+![](https://files.catbox.moe/omznk1.png)
+*I cannot verify the veracity and accuracy of these evaluations.
+
+**Claude:** (High burstiness, low attention)
 Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks on doors.
 • Claude 2 (2.0) is smarter.
 • Claude 1.3/1.1 is a bit worse than 2, but still good.
 • Claude 1.2 is crazy but has a short context.
 • Claude instant is the class clown. interpret it as you want.
 
-**GPT:**
+**GPT:** (Low burstiness, high attention)
 GPT is smart but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
 • GPT4-Turbo has really good attention and is smarter than GPT4.
 • GPT4 is really good, [0613 is preferable]

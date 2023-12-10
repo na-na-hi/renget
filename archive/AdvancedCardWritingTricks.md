@@ -643,7 +643,7 @@ In order to simulate probabilities, you have to repeat options, e.g. `{{random: 
 
 **When used in character defs/prompts, the value is rerolled with every generation.**
 
-**When used inside the greeting, the value is rolled once, at the start of the chat. (`{{random}}` and `{{roll}}` in greetings are not yet supported on Venus and Agnai.)**
+**When used inside the greeting, the value is rolled once, at the start of the chat. (`{{random}}` and `{{roll}}` in greetings are now SUPPORTED on ALL FRONTENDS.)**
 
 Check out the [“Randomness and probability” themed week](https://rentry.org/aicgthemedweek3) for ideas.
 

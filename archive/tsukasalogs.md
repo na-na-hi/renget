@@ -1,7 +1,5 @@
 # tsukasa logs
 
-!!! danger new paste https://rentry.org/tsukasalogs
-
 !!! note main paste https://rentry.org/tsukasamodel
 
 ![fox](https://feen.us/u125a2.gif)

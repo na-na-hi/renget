@@ -1,8 +1,7 @@
 # tsukasa
 
-list of all models: https://huggingface.co/ludis
-
-log paste! https://rentry.org/tsukasa13blogs
+!!! info log paste: https://rentry.org/tsukasalogs
+!!! info list of all models (with quants): https://huggingface.co/ludis
 
 ![fox](https://feen.us/u125a2.gif)
 
@@ -10,6 +9,8 @@ https://huggingface.co/ludis/tsukasa-120b-qlora (goliath 120b tune)
 https://huggingface.co/ludis/tsukasa-13b-qlora-limarp (llama2 13b tune)
 https://huggingface.co/ludis/tsukasa-7b-lora (mistral 0.1 7b tune)
 https://huggingface.co/ludis/tsukasa-limarp-7b (llama2 7b tune)
+
+the prompts and gen settings below aren't like concrete they differ based on what kind of character you use and if it's a group chat etc, if you find a system prompt that works nice or a UJB or some good gen settings email me.
 
 ## silly tavern prompts
 
@@ -30,7 +31,7 @@ Write {{char}}'s next reply in a fictional roleplay chat between {{char}} and {{
 Then the roleplay chat between {{char}} and {{user}} begins.
 ```
 
-![st](https://feen.us/mssr4i.png)
+![st](https://feen.us/4ck88b.png)
 
 ## agnai prompts
 
@@ -55,21 +56,20 @@ Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{u
 <|model|>{{post}}
 ```
 
-![agnai](https://feen.us/qqvq0n.png)
+![agnai](https://feen.us/mwqtai.png)
 
 ## gen settings
 
 add `<|user|>`, `<|system|>`, and `<|model|>` to custom stopping strings
 
-recommended starting point gen settings for 120b: https://feen.us/fr64ef.json
-
 ![agnai](https://feen.us/04f3ph.png)
 ![st](https://feen.us/8lma2q.png)
 
+recommended starting point gen settings for 120b:
+https://feen.us/fr64ef.json (you can import this into ST)
+`temperature=1.0, Repetition penalty=1.0, top-p=1, top-k=4, Min P=0.05, Top A=0, Tail Free Sampling=1.0, Epsilon Cutoff=0, Eta Cutoff=0, Frequency/Presence Penalty=0, Microstat Tau=0`
+recommended starting point for 13b model (i haven't tested it on 120b):
 `temperature=0.75, Repetition penalty=~1.18, top-p=1, top-k=0, Tail Free Sampling=0.85, Repetition penalty range=0, Microstat Tau=0, Microstat LR (ETA)=1`
-
-^ this is a good starting point works pretty well, there is probably something better and it differs per card, if you find good gen settings pls email me
-i find temp, tfs, and rep pen has greatest impact on output quality
 
 ## limarp
 
