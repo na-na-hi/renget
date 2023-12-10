@@ -3,7 +3,7 @@
 
 #A New Life as an Umbreon
 
-Day 1
+###Day 1
  
 Life had finally been going good for Adrian. He was finally going back to the gym, his job was working well, and he was expecting to hear from a recruiter at the police academy soon. Of course, all these good things couldn’t be happening without some cosmic force making all of his efforts in life totally pointless. This cosmic force finally showed its hand on the day that Adrian awoke in the middle of a forest in the middle of the afternoon.
  
@@ -15,7 +15,7 @@ Now things made perfect sense. Waking up in the middle of nowhere, not rememberi
  
 “GOD FUCKING DAMMIT!” He shouted into the uncaring sky.
  
-Day 2
+###Day 2
  
 Adrian spent the previous day figuring out how exactly to move as a quadruped. He also had the lovely experience of learning that he was now naturally nocturnal, meaning all of that effort he’d spent trying to fix his sleep schedule was worthless too. His frustration just continually grew. This might’ve been a dream come true for him during his childhood, but he hadn’t even played a Pokemon game in years. He’d grown out of that. He had responsibilities as an adult, and this stupid fantasy world was taking him away from that.
  
@@ -23,7 +23,7 @@ Had to focus on the present, though. Adrian’s second day of wandering through 
  
 Loneliness was starting to set in as well. He hadn’t seen anyone except the wild pokemon that he did his best to avoid and a traveling merchant he couldn’t buy anything from. He missed his family. He missed his friends. His simple job, and his warm bed. He didn’t value them as a human, but he desired them so much now.
  
-Day 3
+###Day 3
  
 Waking up to the sight of the sun setting wasn’t the best feeling. Still, Adrian had to get up and get moving.
  
@@ -31,13 +31,13 @@ This was the day he finally stumbled on a small town, and finally figured out a 
  
 He was also able to pick up a few skills in fighting as well. His umbreon form was starting to feel much more natural. While he was usually outnumbered and not very skilled, the wild pokemon were usually pretty stupid or too slow to catch him. Adrian also wasn’t taking bounties, so he wasn’t facing anything too high above his current grade.
  
-Day 15
+###Day 15
  
 Adrian now had a pretty decent income and a small, but decent reputation with some of the local villages and towns. After spending some mornings in the local inns, he’d heard mention of a guild in a place called Capim Town that was hiring explorers. Apparently, the pokemon in this guild were a little odd though. Constantly made weird inside jokes, used words that only they understood. Still, this guild was offering more consistent work than local bulletin boards and bartenders.
  
 Adrian pooled some of his money together, purchased some supplies for the road, and set out for Capim Town to find this strange guild.
  
-Day 18
+###Day 18
  
 At last, Adrian had made his way to Capim town. These past few weeks had been so lonely for him. Hopefully here, he could get a little bit more revenue and maybe find a way back? It’s a long shot, but he’d do what it takes to get home.
  

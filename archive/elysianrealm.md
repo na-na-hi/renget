@@ -1,4 +1,4 @@
-#->Elysian Realm recommended builds 7.1<- 
+1#->Elysian Realm recommended builds 7.1<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
 Added 'Remarks' for brief description of some precautions
 
@@ -12,10 +12,10 @@ click image to jump to valk
 
 !!! info 7.1 Phase 1
 
-[![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)
+[![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![horbde](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)
 
 !!! info 7.0 Phase 1
-[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![horbde1](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay_1)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
+[![lvwep](https://i.imgur.com/8wbNTxL.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-weapon)[![skvalk](https://i.imgur.com/kGOiYOc.png)](https://rentry.org/ElysianRealm#shadow-knight)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![vkevalk](https://i.imgur.com/YXfUQE2.png)](https://rentry.org/ElysianRealm/#vermillion-knight-eclipse)[![ssulti](https://i.imgur.com/wyRgTG4.png)](https://rentry.org/ElysianRealm#sugary-starburst-ulti)[![iovalk](https://i.imgur.com/V3AxDfn.png)](https://rentry.org/ElysianRealm/#infinite-ouroboros)[![sirincha](https://i.imgur.com/eGTr9CR.png)](https://rentry.org/ElysianRealm#miracle-magical-girl-charged)[![promvalk](https://i.imgur.com/nsvgRYa.png)](https://rentry.org/ElysianRealm#terminal-aide-0017)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)
 
 
 [Luna Vow: Crimson Love basic](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)
@@ -387,9 +387,9 @@ Life Harvester's Path: Shared Destiny | Seele: Herrscher of Rebirth set
 
 Cost | Effect
 ------ | ------
-0 | Cruising Tribunal
-15 | Weapon type breach
-15 | Max HP DMG boost 
+0 | Pishacha
+15 | Melee ATK breach
+15 | Weapon type DMG bonus  
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -400,7 +400,7 @@ Time | Sigil
 ------ | ------ 
 Start | Forget-Me-Not / Tsukimi Himiko
 1st Shop | Mad King's Mask / An Old Pal's Legacy 
-16F | Tin Flask/Boundless Logos
+16F | Tin Flask/ Tsukimi Himiko
 
 ##->Ego Signets<-
  Decay 凋换 |  Soothingness 安愈 | Shared Destiny 生灭 | Spirits 万灵  | Rising Sun 朝曦
@@ -410,13 +410,13 @@ Start | Forget-Me-Not / Tsukimi Himiko
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Sakura1 | Vulnerability, TDM, evasion +1 are the key choices, unlock nexus
+1st | Sakura2 | Vulnerability, TDM, evasion +1, evasion reset are the key choices, unlock nexus
 2nd | Kalpas2 |  Both damage boosts, vulnerability are the key choices, unlock nexus
 2nd | Su1 | Vulnerability, TDM, both combo boosts are the key choices, unlock nexus;  must pick at least breach, can pick vulnerability from enhanced
 2nd | Mobius1 | Both TDMs, vulnerability are the key choices, unlock nexus; can pick Dead 
-2nd | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus; can also pick Griseo Red Yellow as reinforcement
+Optional | Pardofelis1 | HP/SP cap up, both damage boosts are the key choices, unlock nexus; can also pick Griseo Red Yellow as reinforcement
 
-!!! info Dodge at start then use basic ATKs to charge the bar, then use combo ATK, and ultimate whenever available;  Soul shaper build is also decent; if have Griseo Red, only tap weapon skill once; recommended to swap sigil on 5F
+!!! info Dodge at start then use basic ATKs to charge the bar, then use combo ATK, and ultimate whenever available; if have Griseo Red, only tap weapon skill once; recommended to swap sigil on 5F
 
 #->Herrscher of Rebirth Decay<-
 ->![horbde1](https://i.imgur.com/UcYNSai.png)<-
@@ -937,10 +937,10 @@ Prophetic Dreams: Self-Fulfilling | Alexandra set
 
 Cost | Effect
 ------ | ------
-0 | Cruising Tribunal
-5 | Weapon active vulnerability 
-10 | Support type DMG boost
-15 | Max HP DMG boost 
+0 | Pishacha
+5 | Max SP+30
+5 | Summoned unit TDM bonus
+10 | Same type TDM bonus
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -961,13 +961,13 @@ Start | Forbidden Seed / The Lonely Moon
 ##-> Signets<- 
 Priority | Signet | Details
 ------ | ------ | ------
-1st | Mobius2 | Both TDMs, vulnerability are the key choices, unlock nexus; can pick phys DMG, vulnerability from enhanced
+1st | Mobius2 | Both TDMs, vulnerability are the key choices; recommended to pick all enhanced
 2nd | Kevin1 | Breach, both damage boosts are the key choices, unlock nexus 
 2nd | Vill-V1 | 5 3 2 are the key choices, unlock nexus 
-2nd | Griseo1 | Red Yellow Black are the key choices, unlock nexus 
-Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus; can also pick Su both combo boosts (60 combos must be complemented by the other signets) as reinforcement
+2nd | Griseo1 | Red(buy in shop) Yellow Black are the key choices, unlock nexus 
+Optional | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus
 
-!!! info Su signets can help with damage reduction; recommended to swap sigil on 5F
+!!! info Don't take the breach buff since there is no melee ATK; recommended to swap sigil on 6F, roll Mobius on 7F
 
 #->Dreamweaver flag<-
 ->![dwflag1](https://i.imgur.com/hxQFPr3.png)<-
@@ -1065,10 +1065,10 @@ Twirling Glaze: Lustrous Bloom | Aladdin set
 
 Cost | Effect
 ------ | ------
-0 | Cruising Tribunal
-5 | Weapon active vulnerability 
-10 | Combo vulnerability 
-15 | Weapon type breach
+0 | Pishacha
+5 | Max SP+30
+10 | Combo ATK vulnerability
+15 | Weapon type DMG bonus  
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
@@ -1078,24 +1078,24 @@ SS | BR/SA | Damage
 Time | Sigil 
 ------ | ------ 
 Start | Gold Goblet / Dreamful Gold 
-1st Shop | Pseudo Miracle / Falling in Past Light 
-16F | Faraway Ship/ Dreamful Gold 
+1st Shop | Fragile Friend / Out of Reach
+16F | Faraway Ship / Out of Reach
 
 ##->Ego Signets<-
 Dappled Shade 娑影 | Luster 辉彩 | Rarities 财珍 | Whimsy 奇思 | Tambourine 铃舞
 :-: | :-: | :-: | :-: | :-: 
-**Start** | 2nd | Optional | No | No 
+**Start** | Optional | Optional | No | No 
 
 ##-> Signets<-
 Priority | Signet | Details
 ------ | ------ | ------
 1st | Eden1 | Both damage boosts, starting SP are the key choices , unlock nexus 
-2nd | Vill-V1 | 3 1 2 6 are the key choices; must pick at least breach from enhanced, can pick phys DMG
-2nd | Kosma1 | Ultimate, basic ATK, evasion, shieldbreak damage, are the key choices, unlock nexus 
-2nd | Pardofelis1 | Both damage boosts, HP/SP cap up are the key choices, unlock nexus
-Optional | Griseo1 | Red(buy from shop) Black are the key choices, don't need nexus; can also pick Kalpas vulnerability, Sakura vulnerability, TDM as reinforcement 
+2nd | Kosma1 | Ultimate, basic ATK, evasion, shieldbreak damage, time extension are the key choices, must pick at least breach, can pick TDM
+2nd | Vill-V1 | 3 1 2 6 are the key choices, unlock nexus 
+2nd | Griseo1 | Red Black are the key choices, unlock nexus 
+Optional | Pardofelis1 | Both damage boosts are the key choices, can pick both silver generation(buy from early shop), unlock nexus; can also pick Kalpas vulnerability , Sakura vulnerability as reinforcement 
 
-!!! info Recommended to swap sigils on 5F; if having trouble can reset for Luster on 2F; after getting enough Vill-V, swap to Kosma 4* support sigil to help with stacks
+!!! info Recommended to swap sigils on 5F; bleed damage is not counted as melee or ranged so the breach buff is not taken; if having difficulty then reset for Luster on 2F
 
 #->Valkyrie Quicksand weapon<-
 ->![vqvalk1](https://i.imgur.com/GChXfup.png)<-

@@ -57,9 +57,9 @@
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)
 
-### 🔗 [Pahe](https://pahe.li/)
+### 🔗 [Pahe](https://pahe.me/)
 - Really good selection of the newest, best-of-breed television shows and motion pictures that also includes anime all for direct downloads.
-- [URL Safety Results](https://www.urlvoid.com/scan/pahe.li/)
+- [URL Safety Results](https://www.urlvoid.com/scan/pahe.me/)
 
 ### 🔗 [PSArips](https://psa.wf/)
 - A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.
@@ -100,10 +100,6 @@
 ### ▶️ [Cataz](https://cataz.to/)
 - One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/cataz.to)
-
-### 🐐 [Cinehub](https://cinehub.wtf/)
-- Rapid loading times and a plethora of benefits, users can indulge in a vast array of high-quality movies and TV series.
-- [URL Safety Results](https://www.urlvoid.com/scan/cinehub.wtf)
 
 ### ▶️ [DopeBox](https://dopebox.to/)
 - Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages.
@@ -277,9 +273,9 @@
 - The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
 - [URL Safety Results](https://www.urlvoid.com/scan/englishtorrent.co/)
 
-### 🧲 [EZTV](https://eztv.li/) / [2](https://eztvstatus.org/)
+### 🧲 [EZTV](https://eztvx.to/) / [2](https://eztvstatus.org/)
 - Here you may find and watch new episodes of your favorite TV shows every day.
-- [URL Safety Results](https://www.urlvoid.com/scan/eztv.li/)
+- [URL Safety Results](https://www.urlvoid.com/scan/eztvx.to/)
 
 ### 🧲 [WatchSoMuch](https://watchsomuch.to/)
 - A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.

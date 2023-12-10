@@ -17,7 +17,6 @@
 	- [comfyui](https://github.com/comfyanonymous/ComfyUI_experiments)
 	- `CFG 7 = Rescale 0.7`
 	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), you can test lowering rescale as on some images it makes little difference
-- Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
 
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) and just add it the way you add LoRA
@@ -61,6 +60,8 @@ Auto1111 | ComfyUI
 - "human" in prompt
 - "anthro, fluff, fur" sometimes in negatives
 - Optionally put [this LoRA](https://civitai.com/models/104477/de-anime-er) into the prompt and set it to around -.6
+- Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
+- [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC)
 
 ### Fixing washed out artists
 > ※ I have yet to notice the same dulling effect on comfyui

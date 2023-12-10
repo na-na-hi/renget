@@ -362,6 +362,18 @@ The Scrap King | Info
 ![](https://files.catbox.moe/uf3rwf.png)   | In the distant future where most of humanity has perished, a lone robot boy struggles to build a safehaven for humans that he can protect with his own two hands. He doesn't remember his name, but wanderers have taken to calling him "The Scrap King". Comes with three greetings for human personas, android personas, and one neutral one where you're already working together. Loosely inspired by [The Trash-Heap Princess and Apostrophe](https://www.youtube.com/watch?v=Dp1SQgc6X98)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/the-scrap-king-7bee340),  [Catbox](https://files.catbox.moe/j2qtyh.png)
 
+Amanda | Info
+:----:  | :----: 
+![](https://files.catbox.moe/2d1wo5.png)   | Amanda is one of many living dolls created to assist Project Fulminare in the preservation of what's left of humanity. Simultaneously innocent to the world around her yet conditioned to accept the chaos of life within the bunker, all she wants to do is help and learn. My persona for RPs with [Enoch's](https://www.chub.ai/users/Enoch) Tzadik and [Argalia's](https://www.chub.ai/users/argalia) Ephraim. Comes with a picture diary JB based off of the one in [Crustcrunch's](https://www.chub.ai/users/crustcrunch) Julien. Comes with three greetings: Running into her at the bunker, testing, and fellow doll pov. Probably the only female bot I'll ever make. Maybe.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/amanda-a70a4616),  [Catbox](https://files.catbox.moe/j3w44i.png), [Alt gen 1](https://files.catbox.moe/m4n84k.jpg), [Alt gen 2](https://files.catbox.moe/x7600k.jpg), [Alt gen 3](https://files.catbox.moe/7pqrm0.jpg), [Alt gen 4](https://files.catbox.moe/q65j4g.jpg)
+
+Amandus | Info
+:----:  | :----: 
+![](https://files.catbox.moe/wjt6a1.png)   | Literally just a male fork of Amanda for little brother enjoyers. Apparently I can't get this image to shrink to the same size as the others unless there's more text here. That's kind of dumb. But thank you for enjoying my bots, it makes me happy to know things I make are making other people happy.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/amandus-c085df1c),  [Catbox](https://files.catbox.moe/apr2d6.png), [Alt gen 1](https://files.catbox.moe/nfahno.jpg), [Alt gen 2](https://files.catbox.moe/5intg4.jpg), [Alt gen 3](https://files.catbox.moe/34zlc1.jpg), [Alt gen 4](https://files.catbox.moe/urqv71.jpg)
+
+
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

@@ -2,6 +2,54 @@
 ## ->AKA: The Big Spoon<-
 ->*open wide and say "ah ah mistress"*<-
 
+## 0. Bare-Bones How-To
+I'll supply you with the requirements and links in order. You are expected to **read** all the installation instructions and documentation on your own.
+1. Get 8gb VRAM for a decent experience, 4gb at the absolute minimum.
+	- At least DDR5
+	- You **can** use multiple GPUs
+	- Preferably NVIDIA RTX 20xx or newer. GTX 16xx can work too.
+	- If you insist on AMD, one of the cards listed [here (Windows)](https://rocm.docs.amd.com/en/latest/release/windows_support.html#windows-supported-gpus) or [here (Linux)](https://rocm.docs.amd.com/en/latest/release/gpu_os_support.html#linux-supported-gpus)
+	- Get up-to-date drivers for your GPU. 
+	- If NVIDIA, get cuda libraries. If on Windows, see [here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html). If on Linux, use your distribution's official packages. Google to find them. I don't advise manually downloading and installing them unless your distribution truly does not have packages for your hardware.
+	- If on AMD and using a supported card, get [ROCm](https://rocm.docs.amd.com/en/latest/).
+2. Get 16gb RAM (preferably DDR4 or newer). 8gb at the absolute minimum.
+3. [Git](https://git-scm.com/). If using Linux, use your distribution's package manager. If your distribution does not have official packages for Git, install a better distribution.
+4. We need a back end to load and use local models. 
+	- Our options are:
+		1.  using GPU inference
+			- faster, entirely in VRAM, requires CUDA/ROCm and a modern-enough GPU, as specified above.
+			- Needs 6gb VRAM minimum
+			- Slightly more complex to get up and running
+		2. using CPU/RAM with GPU acceleration
+			- slower, split between RAM and VRAM (VRAM is optional)
+			- CUDA/ROCm supported for increased performance, but not required
+			- arguably the simplest option
+	- **GPU Inference:** [text-gen-webui](https://github.com/oobabooga/text-generation-webui)
+	- **CPU Inference:** [KoboldCPP](https://github.com/LostRuins/koboldcpp)
+	- There are other back ends in active development. This guide uses text-gen-webui, but I have no strong opinion on which is "best." text-gen-webui can also use CPU inference, but KoboldCPP is much more lightweight.
+4. [SillyTavern](https://github.com/SillyTavern/SillyTavern). This is our front end. Also see the [docs](https://docs.sillytavern.app/).
+	- This is technically optional. both text-gen-webui and KoboldCPP have a webui. But SillyTavern is a very feature-rich and useful front-end.
+5. Your first model. You'll get all your models from [huggingface](https://huggingface.co/). The model you can use depends upon your available memory, minus the overhead of your OS.
+	Available memory | GPU only | CPU/RAM and GPU
+	-|-|-
+	7GB | [Mistral 7B GPTQ](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GPTQ) | [Mistral 7b GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) 
+	11GB | [Echinda 13B GPTQ](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GPTQ) | [Echidna 13B GGUF](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GGUF)
+	24GB | [Nous-Capybara 34B GPTQ](https://huggingface.co/TheBloke/Nous-Capybara-34B-GPTQ) | [Nous-Capybara 34B GGUF](https://huggingface.co/TheBloke/Nous-Capybara-34B-GGUF) *Can work with as little as 15GB if using smaller quantization*
+	46GB | [Euryale 70B GPTQ](https://huggingface.co/TheBloke/Euryale-1.4-L2-70B-GPTQ) | [Euryale 70B GGUF](https://huggingface.co/TheBloke/Euryale-1.4-L2-70B-GGUF) *can work with as little as 32GB if using smaller quantization*
+	
+	- The above pages give detailed instructions on how to download and run the model, as well as what 4-bit, Q4_K_M, etc. mean.
+	- Take note of what the **prompt format** of the model is.
+	- **I AM NOT SAYING THESE MODELS ARE THE BEST IN THEIR WEIGHT CLASS. YOU SHOULD TRY OTHER MODELS AND FORM YOUR OWN OPINION.**
+	- **GPTQ is a deprecated format. Once you get comfortable with loading and running models, you should switch to exl2. Unfortunately, while TheBloke provides excellent documentation, he does not upload models in that format.**
+		- for example, a 70B 2.4 bpw exl2 quant caan be run on 24gb vram
+
+6. Once you have loaded the model in the back end of your choice, connect it to SillyTavern using the API link provided by the back end. You can now use the LLM.
+	- Don't forget to enable the API in text-gen-webui or KoboldCPP.
+	- Make sure you use the prompt format for the model. 
+	- Problems? Note all error messages provided by the web ui as well as the terminal output. Search for the error messages on google and the github documentation and issues pages. **/lmg/ should be your very last resort**
+	- Update SillyTavern and text-gen-webui with git. text-gen-webui also comes with an update script. With KoboldCPP, you'll have to download a new release, and re-build (if on Linux).
+	- Know how to revert with git. Pulling can sometimes break things.
+
 ## 1. Introduction
 This guide was created to quickly provide newcomers to /lmg/ with all the necessary links to begin working with local models. **This is not a comprehensive tutorial. It is a starting point.**
 After reading this guide, you will know the following:
@@ -51,6 +99,8 @@ I'm going to be breaking character and spoonfeeding some basic concepts:
 	Llama 1 models and LLama 2 models, respectively. Llama 2 models are newer (duh) and have a higher native context size (how much the model can remember) than Llama 1 models. **Note:** for the longest time, there were no general purpose models between 13b and 70b. That has since changed. L1 models are worth looking into later on.
 3. **2bit, 4bit, 6bit, 8bit, FP16, Q2, Q3, Q4, Q8 **
 	This refers to the quantization of the model. I am a brainlet, but as I understand it, it refers to how compressed the original model is. Compression lowers memory requirements, but also lowers the quality of output. From my own experience, you should use whatever quant that lets you load the largest parameter model you can. Basically, a lobotomized 70b is better than a 13b. **BUT THAT'S JUST MY OPINION.**
+4. **exl2 and 2.4 bpw, 3.0 bpw, 5.0 bpw, etc.**
+	Same as the above, but for the exl2 format. After succesfully loading and running your first model, you should definitely use exl2 format if you are able. **A 2.4 bpw 70b model can fit on 24gb of vram!**
 
 For your first model, go ahead and use **Echinda 13b**. It offers a good baseline of what to expect from other models of its size. If you have 12gb of vram, get it [here](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GPTQ). Otherwise, get it [here](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GGUF).
 
@@ -64,7 +114,7 @@ Generally speaking, the table on the [gguf page of a model](https://huggingface.
 
 ->**NOTE:** *There are other, newer, better formats than GPTQ for GPU-only inference. Particularly, Exl2. But [TheBloke](https://huggingface.co/TheBloke), for whatever reason, doesn't quantize and upload models in that format. And because each of his uploads provide such good documentation, we will use GPTQ for our training example.*<-
 
-Once the model is downloaded, follow the instructions on uploading it. Keep the model page tab open in your browser.
+Once the model is downloaded, follow the instructions on loading it into text-gen-webui. Keep the model page tab open in your browser.
 Start SillyTavern. Connect it to your text-gen-webui API.
 Go back to the model page. Take careful note of the **[prompt template](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GGUF#provided-files)**.
 It is critical that you understand how to use the formatting tab in SillyTavern to correctly apply the prompt template.

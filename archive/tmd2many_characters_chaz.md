@@ -93,7 +93,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Bread | Food item.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Shattered TM (TM Fling) | Taught the move Fling
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
@@ -102,7 +102,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 Cosmetic Item | White Scarf | A fabric to be shaped and died to the user's liking
-RP item | Shattered TM (TM Fling) | Taught the move Fling
+RP item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

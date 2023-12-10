@@ -41,7 +41,7 @@ https://archive.4plebs.org/tg/thread/91152881/#91160188
 >Red Riding Hood (Saber)
 https://archive.4plebs.org/tg/thread/89890471/#89891785
 >Arsene Lupin (Assassin)
->>91167979
+>>91177599
 >Less (Assassin)
 >>91168037
 >Miura Anjin
@@ -52,28 +52,30 @@ https://archive.4plebs.org/tg/thread/89890471/#89891785
 >>91170483
 >Leonardo Torres Quevedo
 >>91174891
->Apollo 12 Lily Alter
->>91172571
+>Apollo 12 - Alter (Shielder)
+>>91180964
 >Frederick Townsend Ward
 >>91172690
 >Mochizuki Chiyome (Archer) (Stray Servant?)
 https://archive.4plebs.org/tg/thread/87135712/#87143309
 >Sir Adrian Carton de Wiart
 >>91176060
+>Khutulun (Rider)
+>>91178304
+>Nursery Rhyme (Caster)
+>>91180407
 
->Masters
+>Masters:
 >Sabile Sabanto
 >>91166738
 >Peter Little (Mind of Steel)
 >>91167151
->Shiori Medoruma (Mind of Steel)
->>91167587
+>Shiori Medoruma
+>>91178581
 >Lizrich von Einzbern
 >>91168111
 >Mundi Pishdar & His wife Naela
 >>91168251
-
-
 >Victor Van Bokhoven
 >>91171086
 >Ronem Nadab
@@ -82,10 +84,20 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91175882
 >Victory "Vex" Anne Gunn
 >>91176654
+>Shoat Silver
+>>91177965
+>Emilia Shadowsong
+>>91179162
+>Slasher
+>>91179743
+>Livya Caern
+>>91181163
 
-Writefags:
+>Writefags:
 >As the River Flows (Shiori)
 https://rentry.org/qvay7
+
+Tierlist Maker: https://tiermaker.com/create/fate-arena-906356
 ```
 
 
@@ -109,21 +121,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Supporter Student Build (Not really new, but he flew under the radar a couple threads back so here he is).
->Satoru Tani (Student)
->>91149772
-
 New Writefag
->I Need A Hero(ine)...! (Satoru Tani)
-https://rentry.org/ynbmqo
->A Night of Fate (Yamata, Nabiki):
-https://rentry.org/tu4y9
->??? (Nekiro, Heartbeat)
-https://rentry.org/7thz79
-
-New Artfag
->cringekino clickbait
->>91169301
+>Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others)
+https://rentry.org/ifi3u
+>The Proposal for a Showdown (Yamata, 108 Stars Gang):
+https://rentry.org/h23ps
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -643,6 +645,10 @@ https://rentry.org/ynbmqo
 https://rentry.org/tu4y9
 >??? (Nekiro, Heartbeat)
 https://rentry.org/7thz79
+>Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others)
+https://rentry.org/ifi3u
+>The Proposal for a Showdown (Yamata, 108 Stars Gang):
+https://rentry.org/h23ps
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
