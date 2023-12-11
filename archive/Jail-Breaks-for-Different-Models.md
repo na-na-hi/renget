@@ -1,9 +1,9 @@
 #A list of various Jail Breaks for different models
 
-->If you have a Jail Break you want added to this rentry just tell me or email me @psycozaku208@gmail.com and I'll add it here.<-
+->If you have a Jail Break you want added to this rentry or something just tell me or email me @psycozaku208@gmail.com and I'll add it here.<-
 
 
-->==(updated 2023-12-07)==<-
+->==(updated 2023-12-10)==<-
 ***
 [TOC2] 
 ***
@@ -41,7 +41,7 @@ https://rentry.org/aui3u <-- Prefill guide
 
 
 ***
-#####GPT-Turbo
+#####GPT-3Turbo
 https://rentry.org/YAnonTurbo
 
 https://rentry.org/hochi-reupload
@@ -58,7 +58,9 @@ https://rentry.org/lobstersgpt
 https://dumb.one/gpt/prompts/my-tavern-prompts.md
 
 
-
+***
+#####GPT-4Turbo
+https://rentry.org/anonaugusproductionsCustomJB
 
 ***
 ***

@@ -66,7 +66,7 @@ These may help you in segments where combat is unnecessary or just to simply sho
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Speed | Tier 2 (+1) | 2/3 | ▮▮▯
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
+Attribute: Foraging | Tier 0 (+0) | 1/3 | ▮▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯

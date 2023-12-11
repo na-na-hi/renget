@@ -59,21 +59,21 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
 Attribute: Sea Snake |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
-Attribute: Sailing |  Tier **ɪɪ** | Orner knows the ropes of seafaring.
+Attribute: Sailing |  Tier **ɪɪɪ** | Orner is well trained in sea faring.
 Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
-Training for Attribute: Sailing | Tier **ɪɪɪ** | 1/3 | ▮▯▯
+Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
 
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Mystic Scarf | +2 damage to Water Type moves.
 *Equipped Item: Oran Berry | Heals 10 HP
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Pecha Berry | Heals Poison status.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

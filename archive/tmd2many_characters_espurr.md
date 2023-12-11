@@ -100,7 +100,7 @@ Battle Attribute: ??? | - | -
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier **ɪɪɪ** | 1/3 | ▮▯▯
-Training for Attribute: Foraging | Tier **ɪɪ** | 3/3 | ▮▮▮
+Training for Attribute: Foraging | Tier **ɪɪɪ** | 1/3 | ▮▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -126,7 +126,7 @@ Item Name | Description
 ------ | :----: 
 1. Wiki Berry | None
 2. Wiki Berry | None 
-Oran Leaf
+Colbur Berry
 
 ***
 

@@ -1,5 +1,5 @@
 # /SCG/ - Star Citizen Info & Resources
-!!! note Updated as of Patch 3.21.1
+!!! note Updated as of LIVE Patch 3.21.1
 ***
 !!! note If you are new to star citizen, check out this [Introduction & Overview](https://rentry.org/guier/) on the game
 !!! note I'm active on the /vm/ thread, so feel free to point out useful resources you think should be added here, or if something is outdated or the links are broken.
@@ -52,6 +52,7 @@ Description: | Links:
 **Comprehensive List of Every Ship, Ground Vehicle, Components, FPS Weapons and Their Stats:** | https://tanx0r.org/
 **Armory Builder (Armor Locations, Price and Drop Rates):** | https://armory.thespacecoder.space
 **Extensive FPS Weapon Data Spreadsheet (Calculating Tool Locked Behind a 2€ Paywall):** |https://docs.google.com/spreadsheets/d/1geR2tkbnyxxiF2d_1ufaTY_Sot2ghVYPeBHCPyjxhGU/
+***The SCodex:*** | https://scodex.garga.net/scodex/LIVE
 **CCU Game/Funding Visualizer:** | https://ccugame.app/
 **Detailed Progress Tracker:** | https://shinytracker.app/
 **Unofficial Roadmap to Dynamic Server Meshing:** | https://sc-server-meshing.info/ ->-> https://sc-server-meshing.info/wiki (Mobile Friendly)

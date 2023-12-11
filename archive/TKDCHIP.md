@@ -654,3 +654,6 @@ https://files.catbox.moe/orlocp.MOV  12/10/23
 
 >Female Hostages Released Comparison From Hamas VS Israeli Hostages Released From Terrorist Zionists Testimony: 
 https://files.catbox.moe/lweh9b.MOV  12/10/23
+
+>Hamas Speech About Israeli Soldiers 
+https://files.catbox.moe/rh75dj.mp4  12/10/23

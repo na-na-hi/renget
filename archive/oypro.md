@@ -70,6 +70,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
+Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ■▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
@@ -81,7 +82,7 @@ Item Name | Description
 1. Empty | A vacant inventory slot
 2. Ban Seed | Causes Disabled upon consumption
 3. Heal Seed | Cures all status conditions.
-4. Empty | A vacant inventory slot
+4. Apple | Gives +2 to any outside-combat-action.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -89,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Custap Berry | A sweet, creamy flavor. Has a hard exterior. (3 Sweet, 1 Bitter)
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.

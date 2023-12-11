@@ -90,7 +90,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----:
-Attribute: ??? | - | - 
+Attribute: Stealth | 1 | - 
 Attribute: ??? | - | - 
 Battle Attribute: ??? | - | - 
 
@@ -99,7 +99,7 @@ Battle Attribute: ??? | - | -
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: Stealth | 1 | 2/3 | ▯▯▯
-Training for Attribute: None | N/A | 0/3 | ▯▯▯
+Training for Attribute: Foraging | 0 | 1/3 | ▯▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -111,11 +111,11 @@ Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: None* | N/A
+*Equipped Item: Wooden Stick x1* | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
 1. TM12 Water Gun | A TM containing instructions for the move Water Gun.
 2. Big Apple | Gives +4 to any outside-combat-action.
-3. Empty | None
-4. Empty | None
+3. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
+4. Oran Leaf x1 | Heals the user for 3HP. Can stack to 3.
 
 ***
 

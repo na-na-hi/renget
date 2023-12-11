@@ -437,5 +437,23 @@ https://pastebin.com/E3ATjpvV     12/9/23
 >As I just promised, the app is back on play store, and it went back to the old link with the same count over 100k downloads, here is the link to share it guys  Thanks based Italian news gathering anon :)   
 https://nitter.net/NoThanksBoycott/status/1732818632621588959#m     12/9/23 and link posted 12/7/23
 
->>Starbucks is closing down some locations, and is already pulling out of Malaysia.
+>Starbucks is closing down some locations, and is already pulling out of Malaysia.
 https://nitter.net/MonitorX99800/status/1732784387106963906#m  12/7/23
+
+>Israeli occupation soldiers share a video of themselves proudly setting fire to food and water supplies in the besieged Shujaeya neighborhood east of Gaza City. 
+https://nitter.net/QudsNen/status/1733762540511903889#m  12/10/23
+
+>The Syrian Ministry of Endowments issues a fatwa prohibiting the purchase of western made goods. 
+https://nitter.1d4.us/ME_Observer_/status/1733618451917197413#m  12/9/23
+
+>BREAKING | The Israeli Ministry of Health says that Israeli hospitals have treated 10,584 soldiers and settlers since the beginning of the war, with 131 reported killed.
+https://nitter.net/QudsNen/status/1733916586069639293#m  12/10/23
+
+>Lebanon decides to close all public administrations, public institutions and municipalities tomorrow, Monday, in response to the global call for #Gaza and in solidarity with the #Palestinian people and the Lebanese border villages.
+https://nitter.1d4.us/ME_Observer_/status/1733915805694189666#m  12/10/23
+
+>Hezbollah MP Hassan Fadlallah: The Israeli air strikes in southern Lebanon represent a new escalation. We will respond with new qualitative strikes, whether in the nature of the weapons used or the targeted sites.
+https://twitter.com/WarMonitors/status/1733914323003506705  12/10/23
+
+>The Saudi Arabian Air Force launched a series of airstrikes in Yemen, local media reported
+https://twitter.com/Sprinter00001/status/1733952865310265695  12/10/23

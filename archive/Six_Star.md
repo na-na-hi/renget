@@ -820,3 +820,16 @@ Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority:  High
 New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
+
+## -> Inori <- (JP Release Date: Year 6, December)
+Another unit that was good in Arena before, but this just helps her even more as a 1st position unit.
+- UB+: Increased UB damage. New effects include her burn damage increased based on her P.Atk, increasing her P.Atk & P.Crit Rate permanently 
+- CB: Most likely will not see any usage here. Short version is that she offers nothing to anything relevant to CB bosses, unless we need to use burn damage one day.
+- Arena: Inori has one of the fastest stuns in the game, but was fairly squishy and offered a bit less when compared to other units. Now that her UB+ gives her an opportunity to apply burn and get stronger of the course of longer fights, she'll pose a massive threat outside of simply being a stun/knocback bot, or just a "win the 1st action" unit. These kind of DOTs ignore defensive stats typically, so she'll be a great choice into tanky units as well. Inori has been meta since UE release, so this is simply expanding on her usage.
+- PvE: Unless burn damage is required for a fight, won't see too much usage outside of maybe Dimensional Luna Tower comps. 
+- Like Kasumi before her, Inori's importance in the Arena metas will only grow. Depending on how tanky she can get from other units and her 6 star stats, she will certainly become a defensive staple and potentially a wall breaker for tankier units. So long as they're not shielded of course, but there are ways of dealing with shields. Very scary unit to deal with. Reminder that she has TP Boost on her UE, so you'll need to farm that up.
+
+Bond story priority: Luxury (Relevant units: None)
+Max level Unit priority:  High
+New player Unit priority: Med
+[Return to Top](https://rentry.org/Six_Star)

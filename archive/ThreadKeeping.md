@@ -64,6 +64,8 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91178304
 >Nursery Rhyme (Caster)
 >>91180407
+>The King of All Cats
+>>91186085
 
 >Masters:
 >Sabile Sabanto
@@ -92,6 +94,8 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91179743
 >Livya Caern
 >>91181163
+>Kinjiro Kajiba
+>>91185546
 
 >Writefags:
 >As the River Flows (Shiori)
@@ -121,11 +125,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefag
->Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others)
-https://rentry.org/ifi3u
->The Proposal for a Showdown (Yamata, 108 Stars Gang):
-https://rentry.org/h23ps
+>Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
+https://rentry.org/xu8f5e
+>Impakt Art
+>>91192484
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -649,6 +652,8 @@ https://rentry.org/7thz79
 https://rentry.org/ifi3u
 >The Proposal for a Showdown (Yamata, 108 Stars Gang):
 https://rentry.org/h23ps
+>Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
+https://rentry.org/xu8f5e
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
