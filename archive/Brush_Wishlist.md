@@ -68,6 +68,7 @@
 **Webtoon work line drawing pen (웹툰작업선화펜)** |[2006182](https://assets.clip-studio.com/en-us/detail?id=2006182)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/61/2006182/thumbnail)
 **Hair brushes (髪ブラシ)** |[1747737](https://assets.clip-studio.com/en-us/detail?id=1747737)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/77/1747737/thumbnail)
 **Mountain Rough Pen (お山ラフペン)** |[1969165](https://assets.clip-studio.com/en-us/detail?id=1969165)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/91/1969165/thumbnail)
+**Information volume UP with one stroke / Penetration brushes - 30 types (一筆で情報量UP／浸透ブラシ-30種)** | [2047059](https://assets.clip-studio.com/en-us/detail?id=2047059) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/70/2047059/thumbnail?1701612204)
 
 ### 20 clippy
  Name | Store Link | Price | Thumbnail

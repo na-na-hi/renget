@@ -8,7 +8,7 @@
 https://huggingface.co/ludis/tsukasa-120b-qlora (goliath 120b tune)
 https://huggingface.co/ludis/tsukasa-13b-qlora-limarp (llama2 13b tune)
 https://huggingface.co/ludis/tsukasa-7b-lora (mistral 0.1 7b tune)
-https://huggingface.co/ludis/tsukasa-limarp-7b (llama2 7b tune)
+https://huggingface.co/ludis/tsukasa-limarp-7b (llama2 7b tune, only this one has limarp in the name but they're all tuned on limarp)
 
 the prompts and gen settings below aren't like concrete they differ based on what kind of character you use and if it's a group chat etc, if you find a system prompt that works nice or a UJB or some good gen settings email me.
 

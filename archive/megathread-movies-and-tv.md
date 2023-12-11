@@ -209,6 +209,10 @@
 - Immerse yourself in a vast and diverse collection of full HD movies and TV shows, all available for free streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/ridomovies.tv/)
 
+### ▶️ [Ripper+](https://rmovies.obinode.app/)
+- Discover the ultimate online movie-watching experience. Unparalleled in comparison to any other available platform.
+- [URL Safety Results](https://www.urlvoid.com/scan/rmovies.obinode.app/)
+
 ### 🐐 [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
