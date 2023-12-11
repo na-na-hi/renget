@@ -77,9 +77,3 @@ A: です.
 ---
 
 ![desu](https://files.catbox.moe/7ofhvn.jpg)
-
----
-
-*in a time of universal AI alignment, kissing is a revolutionary act*
-
-![deus](https://files.catbox.moe/y36hq8.jpg)

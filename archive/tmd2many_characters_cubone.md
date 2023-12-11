@@ -23,11 +23,11 @@
 
 · | ->·<- | ->·->
 ---- | ---- | 
-**Origin:** ??? | **Guild Role:** Associate | **Nature:** Quiet
-**Species:** Cubone | **Affiliation:** Unknown Tribe | **Favorite Color:** Unknown
-**Level:** 7 | **Experience to Next Level:** 5/70 | **Alignment:** Marrow Tribe
+**Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
+**Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
+**Level:** 7 | **Experience to Next Level:** 30/70 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
-**Pokécoin:** 150₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
+**Pokécoin:** 350₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
 ***
 
@@ -46,7 +46,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 #### ->Stats<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 5 (20 HP) | 20 HP
+Health Points | 0 | Level 7 (20 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
@@ -98,8 +98,8 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Stealth | 1 | 2/3 | ▯▯▯
-Training for Attribute: Foraging | 0 | 1/3 | ▯▯▯
+Training for Attribute: Stealth | 1 | 2/3 | ▮▮▯
+Training for Attribute: Foraging | 0 | 1/3 | ▮▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -111,7 +111,7 @@ Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: Wooden Stick x1* | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
+*Equipped Item: Wooden Stick x1* | Cubone, that's a stick.
 1. TM12 Water Gun | A TM containing instructions for the move Water Gun.
 2. Big Apple | Gives +4 to any outside-combat-action.
 3. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?

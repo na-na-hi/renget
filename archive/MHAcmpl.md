@@ -629,6 +629,7 @@ Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
 cringekino clickbait: https://desuarchive.org/tg/post/91169301/
+Impakt Art: https://desuarchive.org/tg/post/91192484/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -982,6 +983,8 @@ A Night of Fate (Yamata, Nabiki): https://rentry.org/tu4y9
 ??? (Nekiro, Heartbeat): https://rentry.org/7thz79
 Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others): https://rentry.org/ifi3u
 The Proposal for a Showdown (Yamata, 108 Stars Gang): https://rentry.org/h23ps
+Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
+https://rentry.org/xu8f5e
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

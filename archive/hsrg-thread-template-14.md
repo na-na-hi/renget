@@ -2,6 +2,11 @@
 
 Previous: 
 
+\>Version 1.6 "Crown of the Mundane and Divine" Special Program live on December 15, 19:30 (CST+8), 11:30 (GMT+0), 7:30 (EDT-4)
+https://www.twitch.tv/honkaistarrail
+https://www.youtube.com/watch?v=3TkHmjV0hf8
+https://www.youtube.com/watch?v=uSt1p2BG5EM (JP)
+
 \>Download
 https://hsr.hoyoverse.com/en-us/home
 
@@ -20,10 +25,10 @@ https://www.youtube.com/watch?v=qVY5qmQVrMo
 https://www.youtube.com/watch?v=PhqU5X_sMPA
 https://www.youtube.com/watch?v=i6kCF9tZDkg
 
-\>Current Character Event Banners: "Thorns of Scented Crown", "Contract Zero" (Argenti, Silver Wolf + Hanya, Lynx, Asta)
+\>Current Character Banners: "Thorns of Scented Crown", "Contract Zero" (Argenti, Silver Wolf + Hanya, Lynx, Asta)
 https://www.hoyolab.com/article/23404231
 
-\>Current Light Cone Event Banners: (Brilliant Fixation, Bygone Reminiscence || An Instant Before A Gaze (Erudition), Incessant Rain (Nihility))
+\>Current Light Cone Banners: (Brilliant Fixation, Bygone Reminiscence || An Instant Before A Gaze (Erudition), Incessant Rain (Nihility))
 https://www.hoyolab.com/article/23404282
 
 \>New Drip Marketing:
@@ -39,14 +44,8 @@ https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e20230330154031
 
 \>Redeemable Codes
 https://hsr.hoyoverse.com/gift
-9TRB7C2LDQBP (NEW)
+9TRB7C2LDQBP
 5S9BND25CRBK 
-US9SND24U8FB
-JT8BPUJMURUP
-KB9A7VJ5VQW7
-ST9T6DKLVRGX
-YTRB6VKMVRZB
-4BQSPDKLVQFF
 STARRAILGIFT
 
 \>/hsrg/ Tools & Resources

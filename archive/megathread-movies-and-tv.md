@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oCEQpN.png) <-
+-> ![](https://a.imagem.app/oLTNIV.png) <-
 
 # 🎦 ➜ [Megathread](https://rentry.co/megathread) / **Movies & TV**
  
@@ -85,9 +85,9 @@
 
 # 📑 ➜ Streaming
 
-### ▶️ [123Movies](https://123chill.to/)
+### ▶️ [123Chill](https://123chill.site/)
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
-- [URL Safety Results](https://www.urlvoid.com/scan/123chill.to/)
+- [URL Safety Results](https://www.urlvoid.com/scan/123chill.site/)
 
 ### ▶️ [BFlix](https://bflix.sx/)
 - Online movie streaming service and economical method to watch your favorite films and TV episodes.
@@ -185,7 +185,7 @@
 - Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)
 
-### ▶️ [MyFlixer](https://myflixerz.to/) / [2](https://myflixer.today/) / [3](https://myflixertv.to/) / [4](https://myflixer.it/) / [5](https://myflixer.pw/)
+### ▶️ [MyFlixer](https://myflixerz.to/) / [2](https://myflixer.today/) / [3](https://myflixertv.to/) / [4](https://myflixer.pw/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - [URL Safety Results](https://www.urlvoid.com/scan/myflixerz.to/)
 

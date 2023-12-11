@@ -457,3 +457,23 @@ https://twitter.com/WarMonitors/status/1733914323003506705  12/10/23
 
 >The Saudi Arabian Air Force launched a series of airstrikes in Yemen, local media reported
 https://twitter.com/Sprinter00001/status/1733952865310265695  12/10/23
+
+>World Wide Strike For #Gaza 
+>The city of Jenin in the occupied West Bank heeds the calls for a global strike in protest of the ongoing Israeli genocide campaign in Gaza.            #Strike For Gaza
+https://nitter.net/QudsNen/status/1734179122253881445#m  12/11/23
+
+>The city of Irbid in Jordan heeds the calls for a global strike in protest of the ongoing Israeli genocide campaign in Gaza. #Strike For Gaza
+https://nitter.net/QudsNen/status/1734167073071181920#m  12/11/23
+
+>"Shame on you! Shame on you!" 
+>Pro-Palestine protesters in Manhattan shout at Starbucks for their complicity in Israeli war crimes. #Strike For Gaza
+https://nitter.net/QudsNen/status/1734175891612135779#m  12/11/23
+
+>Hundreds of shopkeepers in Istanbul shut down their businesses, heeding the calls for a global strike in protest of the ongoing Israeli genocide of the Palestinian people in Gaza. #Strike For Gaza
+https://nitter.net/QudsNen/status/1734185196163825846#m  12/11/23
+
+>Ships anchored in the ports of Beirut and Tripoli in Lebanon beep their horns in solidarity with Gaza on the global day of the #Strike For Gaza.
+https://nitter.net/QudsNen/status/1734188618703335806#m  12/11/23
+
+>Full commitment to the comprehensive strike in the cities of the West Bank, #Jerusalem, Jordan and #Lebanon
+https://nitter.1d4.us/ME_Observer_/status/1734112450239152221#m  12/11/23

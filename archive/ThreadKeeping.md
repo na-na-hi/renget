@@ -48,8 +48,6 @@ https://archive.4plebs.org/tg/thread/89890471/#89891785
 >>91169176
 >Fredricka II of Prussia.
 >>91170045
->Zarathustra
->>91170483
 >Leonardo Torres Quevedo
 >>91174891
 >Apollo 12 - Alter (Shielder)
@@ -82,8 +80,6 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91171086
 >Ronem Nadab
 >>91171877
->Narisawa Enko
->>91175882
 >Victory "Vex" Anne Gunn
 >>91176654
 >Shoat Silver
@@ -104,7 +100,11 @@ https://rentry.org/qvay7
 Tierlist Maker: https://tiermaker.com/create/fate-arena-906356
 ```
 
-
+These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
+>Zarathustra
+>>91170483
+>Narisawa Enko
+>>91175882
 
 #MHA
 

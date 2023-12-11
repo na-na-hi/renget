@@ -657,3 +657,6 @@ https://files.catbox.moe/lweh9b.MOV  12/10/23
 
 >Hamas Speech About Israeli Soldiers 
 https://files.catbox.moe/rh75dj.mp4  12/10/23
+
+>Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
+https://files.catbox.moe/60irf4.mp4
