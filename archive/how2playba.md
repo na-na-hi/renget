@@ -84,7 +84,7 @@ Roll until you get 10 points (taken from https://www.youtube.com/watch?v=45dwbZz
 You can always ask /bag/ for advice.
 
 >What about good units who are only blue or gold (1 or 2 star)?
-![Good 1/2 Star Students](https://i.imgur.com/GKg29v0.png)
+![Good 1/2 Star Students](https://i.imgur.com/oy2vOz5.png)
 
 >How do I reroll? (global only) 
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)
@@ -443,7 +443,7 @@ They're okay. If you need them they're handy. I always buy them, but I'm 2 years
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert)
-![expert permit priority](https://files.catbox.moe/awlx5q.png) 
+![expert permit priority](https://i.imgur.com/gZ2b8lv.png) 
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
 Credits > Limited Elephs (that you need) > Pins (if you need) > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.
@@ -614,14 +614,14 @@ The best time to start was yesterday, the second best time to start is right now
 If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
 
 >How grindy is BA? 
-It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just log in for 5-10 minutes, do your dailies, and log off. 
-From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. 
+It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just do your dailies and log off. Dailies can take 5-10 minutes. 
+From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. The sweep mechanic helps a lot in this regard.
 
-You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on it. 
+You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on it. 
 
 >How do you choose your student wife
 You don't choose her. She chooses you. 
-The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll just know when it happens.
+The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll know when it happens. Yes, I am being cringe.
 
 > I'm AP capped! What do I spend it on?
 You spend it on whatever event is currently running. If it's a dead week (e.g. only 2x scrimmages) it's:

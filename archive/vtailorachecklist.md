@@ -2,8 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (12/04/23)
-	**Added New Chuubas**
+!!! warning Quick Update (12/11/23)
+	**Updated info**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -54,7 +54,7 @@ Muu Muyu | - | - | - | Teased, debut December 17th
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Apricot/Froot | X | X | -
+Apricot/Froot | X | X | X | Testing new one (12/11)
 Hime Hajime | - | - | -
 GeegaVS | X | X | - | Her VShojo outfit LoRA is a little scuffed, will need to be updated later.
 Kuro Kurenai  | - | - | -
@@ -352,7 +352,7 @@ Marumochi Tsukimi | - | - | -
 Nekono Yukino | - | - | -
 Kulaku Lie | - | - | -
 Yumekawa Kanau | - | - | -
-Amakawa Hano | - | - | -
+Amakawa Hano | X | - | X
 Tsukushi Aria | - | - | -
 Bisui Syuka | - | - | -
 Coucourua Creil | - | - | -
@@ -959,6 +959,8 @@ Dacapo | - | - | -
 Schneider | - | - | -
 Baabel | - | - | -
 Effy | - | - | -
+Eileennoir | - | - | -
+Evalia | - | - | -
 
 ## -> Polygon Project <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1074,7 +1076,7 @@ Nantako Naru | - | - | -
 
 ## -> VOICE-ORE <-
 !!! info Available Loras without the need of updates and have been tested.
-	Mikeneko (v1+v3)
+	Mikeneko (v1+v3), Amatsuka Uto,
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
@@ -1467,5 +1469,12 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
 Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
-Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout (out now) and Christmas outfit https://tinyurl.com/SNCHout (not out yet) )
+Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout and Christmas outfit https://tinyurl.com/SNCHout )
 Nanobites | X | X | - | -
+Avispa Nectarinia | X | - | X | -
+Rainhoe | X | - | X | -
+Luluna Rina | X | - | X | -
+Fairy Ichika | X | - | X | -
+Filian | X | - | X | Testing new lora
+Bazeelle | X | - | X | -
+Camila | X | - | X | -

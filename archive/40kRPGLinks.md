@@ -1,11 +1,16 @@
 ###Use #=(Game Initial/Name) to find specific games
-ENIGMA T
+###How to Decode Links: 
+Use an Enigma decrypter set to these settings: 
+https://imgur.com/a/CYtNLAH
+ENIGMA T-Tirpitz
 UKW 4 16
  i 15 7 
 iv 11 13
 iii 18 6
+Foreign Characters Included
 
-Prefix: mxbdx://mpr.lkaelthvu.atq/yfaq/
+Add this prefix to the coded strings below and paste into the decrypter: 
+mxbdx://mpr.lkaelthvu.atq/yfaq/
 # #=Dark Heresy 1st Edition= #=DH1e
 Dark Heresy - Core Rulebook
 2te181m27q0n5w8/pfzz_atphym_%2528rqhp%2529.njs/vhtd
@@ -52,17 +57,24 @@ Lathe Worlds
 Radical's Handbook
 1im9p63ongzxvzd/vymv_qzimxr_%2528kcaltdnqmb%2529_-_zquvglb%2527y_asulktbb.xvs/jowl
 
+Salvation Demands Sacrifice
+2euejp2oz925dvq/cojjeufqb_utfmwez_xxuelmvtb.fzh/lyot
+
 Timeline
 rg9isw940tobw0o/mopn_isctct_%2528igkaprjdav%2529_-_bqritueq.buw/zzaa
 
 Vehicles
 ia831tvytse16d0/uyjhugso.mgb/jzot
 
->Adventures & Campaigns
-Black Sepulchre
+# #Dark Heresy Adventures #=DH1e Adventures
+Apostasy Gambit 01 - Black Sepulchre
 g37rz0sec1oydpr/mdx_bq_mzwoqkyaqtyptr.upe/lvwn
 
-Edge of Darkness
+Apostasy Gambit 02 - Church of the Damned
+
+Apostasy Gambit 03 - The Chaos Commandment
+
+Mini-venture - Edge of Darkness
 qvxp9r5sbls6kvl/fqcw_athpix_%2528upgbrgpm%2529_-_kpyi_wp_zxjoztfp.nfs/kxdx
 
 Haarlock Saga 01 - Tattered Fates
@@ -77,10 +89,7 @@ y2tiv1dhq502kbc/mopn_isctct_%2528lnaasjim%2529_-_%2528muhzczjv_03%2529_zqwu_aexc
 Purge the Unclean
 qjyyr63v9uje54w/mopn_isctct_%2528lnaasjim%2529_-_gawof_ckr_sukqrkw.skd/scqv
 
-Salvation Demands Sacrifice
-2euejp2oz925dvq/cojjeufqb_utfmwez_xxuelmvtb.fzh/lyot
-
-Shattered Hope
+Mini-venture - Shattered Hope
 052zyt1o4efw8o8/ywoy_ihcsoh_%2528shbtmhmf%2529_-_xpnvbxmix_yizt.fbz/sxqg
 
 # #=Only War= #=OW
@@ -120,9 +129,95 @@ y7easjrh9p2zeqw/ekgm_kjh_-_xucnpmjqi_ykiuli.azt/hhqr
 Shield of Humanity
 244qw630kdryx1o/spnk_xqc_-_earmzx_bs_iqgrmkvj.dbl/muaq
 
+# #=Rogue Trader #=RT
+Rogue Trader - Core Rulebook
+a7vc27kz83d60ri/zmwxo_bcnnth_%2528ogqy%2529.aen/lgor
+
+Battlefleet Koronus
+y0808uqjqib03oh/jrzsh_mghumq_-_yp09_-_dprlfdxqkxj_bweiumv_%2528lts%2529.skd/scqv
+
+Edge of the Abyss
+
+
+Faith and Coin
+xhvzfhg9nxby02y/plltz_ehhxwt_vsjup_nmv_tpeg.fzh/lyot
+
+GM Kit
+i1bo7x9x2tkqx7l/oabca_ucjgpy_%2528kcaltdnqmb%2529_-_oqvb_xlgene%2527q_mxo.rpk/ugmw
+
+Hostile Acquisitions
+wt9o7neh1gsaqtz/plltz_ehhxwt_-_iyzugor_htadvnoihkzq_%2528qmb%2529.rpk/ugmw
+
+Into the Storm
+mbwjgbhrts6vx0g/mzrpt_kqujys_%2528ahvhorqxwc%2529_-_vsfw_ear_qvwcv.dqu/suvr
+
+Koronus Bestiary
+j1gxon4eiuvnf72/q11_-_plltz_ehhxwt_-_eir_oktksax_kbnftwwc%2528nwjevneml%2529.nac/sjwl
+
+Navis Primer
+w0te996rucko1mq/oabca_ucjgpy_-_amfhz_vyknkz.oum/pobt
+
+Quickstart - Drydock
+hcmyoaxdja26ymm/icmnqsj.njs/vhtd
+
+Quickstart - Tau Character Guide
+3mxf3qgy5guj1no/qexjs_xiwutq_rpq_abxtuxcfn_niokt.fbz/sxqg
+
+Quickstart - The Dark Kin
+mhvk0b4kc5m2uua/eih_bncs_tgp_vw.aen/lgor
+
+Stars of Inequity
+4gfv8bkpeuikbz7/plltz_ehhxwt_rrcat_lp_llfjzufj_jnbkbgaf.dqu/suvr
+
+The Soul Reaver
+y5kozd8fceu2onc/zea_esdi_qtnntt.beu/xwix
+
+Timeline - Epoch Koronus
+tbgqrv750ep1j2a/oabca_ucjgpy_%2528kcaltdnqmb%2529_-_xozjy_jwjkznf_-_njagjzc_kz_zuw_discdax.isz/cvkr
+
+# #=Rogue Trader Adventures= #=RT Adventures
+Adventure - Lure of the Expanse
+tjwajpk42m2abq2/qexjs_xiwutq_-_te03_-_phad_lp_bsf_idfluyn.kjs/vjhl
+
+Fall of Solace 3 - Shedding Light
+12g83aq8zp8jkrf/jrzsh_mghumq_-_ivycejqi_owzsj.yxp/ttfn
+
+Adventure - Twilight Crusade
+w8moidhnf27ht5b/qexjs_xiwutq_-_rnhtgimv_xzzwpzn.zgp/wgdm
+
+Adventure (Lure of the Expanse Expansion) - Traitor's Nexus 
+so38efrfmm97cui/qexjs_xiwutq_%2528upgbrgpm%2529_-_bzqeltm%2527g_xngnf.skd/scqv
+
+Black Pearl 1 - Forsaken Bounty
+g044l5gkq0j0wwv/jrzsh_mghumq_%2528lnaasjim%2529_-_xkwhqbbs_vwmehv.jjb/dztm
+
+Black Pearl 2 - Dark Frontier
+0ty1ftx7hzkyrxd/plltz_ehhxwt_%2528dsgvxkss%2529_-_pqnh_pmwxxutu.skd/scqv
+
+Warpstorm Trilogy 1 - The Frozen Reaches
+54k8vuibnnoeggw/plltz_ehhxwt_-_sr06_-_lbd_xefrfr_srlrina_%2528bgv%2529.nfs/kxdx
+
+Warpstorm Trilogy 2 - Citadel of Skulls
+8zhbq8lyziqlxye/mzrpt_kqujys_-_fjuxwri_ge_whiaby_%2528krz%2529.jjb/dztm
+
+Warpstorm Trilogy 3 - Fallen Suns
+vcdqm2rt1ejji1i/pb08_-_nncmcygqa_3_-_vstfda_gplx_%2528zbp%2529.ckl/puhg
+
 # #=Wrath & Glory= #=WANG
 Wrath & Glory (Cubicle 7) - Replacement link, not sure if this is everything that was in the old 0bin page:
 https://mega.nz/file/R50AkKrS#EP_M1YmbuYe-eXY3jSUelBJ7QeLbIMCWxkQ4oDSk3R4
+
+Adventure - Dark Tides
+
+
+Adventure - Blessings Unheralded
+
+
+Adventure - Rain of Mercy
+
+
+Adventure - The Graveyard Shift
+
 
 # #=Imperium Maledictum= #=IM
 Imperium Maledictum Core

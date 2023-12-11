@@ -637,6 +637,7 @@ files.catbox.moe/xwn30j.mp4  12/08/23
 files.catbox.moe/ud1ayn.mp4  12/08/23
 files.catbox.moe/1efz4r.mp4  12/9/23
 files.catbox.moe/14y0sl.mp4 (DRONE FOOTAGE INCLUDED)  12/10/23
+files.catbox.moe/qsib09.mp4  12/11/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -659,4 +660,4 @@ https://files.catbox.moe/lweh9b.MOV  12/10/23
 https://files.catbox.moe/rh75dj.mp4  12/10/23
 
 >Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
-https://files.catbox.moe/60irf4.mp4
+https://files.catbox.moe/60irf4.mp4  12/11/23

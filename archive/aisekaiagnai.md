@@ -72,6 +72,10 @@ Oh also, this https://rentry.org/Using_Mythomax_on_Agnai_and_some_reccomended_se
 
 --- edit---
 
+https://rentry.co/lunarFrogs
+
+---
+
 From another Anon, regarding prompts:
 
 for mythomax

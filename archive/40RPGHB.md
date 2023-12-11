@@ -18,8 +18,8 @@ https://www.mediafire.com/file/anf8j3niqsmax7b
 >Mars Needs Women (v1.9.3) - Mechanicus Skitarii and Taghmata for Only War
 https://www.mediafire.com/file/ijuhfvyoxcuv9fj
 
->Fear and Loathing in the Eastern Fringe (v1.7.53) - More playable Xenos for Rogue Trader
-https://www.mediafire.com/file/x3gqrbiqg6yrdsn
+>Fear and Loathing in the Eastern Fringe (v1.8.0) - More playable Xenos for Rogue Trader
+https://www.mediafire.com/file/o5fb04iq6uixb1l
 
 >The Fringe is Yours! v 1.11.0 - even more xenos, Knights, and Horus Heresy gear for Rogue Trader
 https://www.mediafire.com/file/nk2pgslp3awxvvp
@@ -91,11 +91,12 @@ https://drive.google.com/file/d/156GIcVM2e2H8USw7PiMNKShL_Yabqqzl/view
 improved point-buy and randomized characteristic system
 https://drive.google.com/file/d/1mswTqKLnqlwRQ5huasDntjo0CDY3qk-1/view
 
->Bellum Inter Barbatos
+>Bellum Inter Barbatos v1.1
 >Mediafire
-https://www.mediafire.com/file/fczmq2mx24edv5x/BELLUM_INTER_BARBATOS_1.0.pdf/file
+https://www.mediafire.com/file/bufs9fy9puicp2g/BELLUM_INTER_BARBATOS_V1.1.pdf/file
 >MEGA
-https://mega.nz/file/KvJiGCLZ#26I5zMbG1QH-qXzRH51kAah46YeGoFc1ovZu7W2qt8k
+https://mega.nz/file/2q4TBLIQ#nCHw2pJyBAEU0iNLEo5GJxPGRMEFKaXhk4vF_BkvLaM
+
 #<Non-/tg/ Homebrew>
 >Discord/Ordo Discordia
 https://drive.google.com/drive/folders/0B3fifQ6yLuJUVDhLQl9Yb3dFWGs

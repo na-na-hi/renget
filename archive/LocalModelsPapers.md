@@ -459,6 +459,7 @@
 12/2023|[Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
 12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
 12/2023|[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://archive.is/xQyvx)
+12/2023|[SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -480,3 +481,4 @@
 11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
+12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)

@@ -17,11 +17,12 @@ TO-DO LIST: Katya gens for pitanon (<3) every weekend.
 
 [TOC]
 
-#Latest bot
-##K-4T
-->![This android rises...](https://files.catbox.moe/at68rt.png)<-
-K-4T — a state-of-art android enforcer with an extremely short trigger whose razor-sharp tongue is filtered through the "PG-13 muzzle" to be safe and harmless at all times. Lisette Enterprise warns: taking the mask off is highly discouraged and may be deadly.
-CHUB link: https://www.chub.ai/characters/pashatehink/k-4t-a9a02660
+#Latest bot (Rework)
+##Pesky Narrators
+->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
+Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
+CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
+Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
 
 ***
 
@@ -48,6 +49,11 @@ CHUB link: https://www.chub.ai/characters/pashatehink/Katyusha
 Shotacon Katya, a sequel and a closure to her character arc. The longest bot in the making, because I couldn't decide on a scenario. The first draft was her raping the {{user}}, paralyzing him beforehand, but it was proven to be a bit hard to do with the amount of filters. Created on 9th of June. No experiment.
 CHUB link: https://www.chub.ai/characters/pashatehink/Aza
 
+##K-4T
+->![This android rises...](https://files.catbox.moe/at68rt.png)<-
+K-4T — a state-of-art android enforcer with an extremely short trigger whose razor-sharp tongue is filtered through the "PG-13 muzzle" to be safe and harmless at all times. Lisette Enterprise warns: taking the mask off is highly discouraged and may be deadly.
+CHUB link: https://www.chub.ai/characters/pashatehink/k-4t-a9a02660
+
 ***
 
 #My other cards, oldest-to-newest
@@ -68,9 +74,10 @@ Tyrone Spicey, the RPG-ish card about a random nigga time-traveling into the ear
 CHUB link: https://www.chub.ai/characters/pashatehink/tyrone-spicey 
 
 ##Pesky Narrators
-->![Ark love! Malice love!](https://files.catbox.moe/x9l4b1.png)<-
-Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. An experiment on creating duo bots. Positive result, some anons hail it as a staple for those types of cards.
+->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
+Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
 CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
+Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
 
 ##G.O.D. Simulator
 ->![Todd is God. Get it?](https://files.catbox.moe/u53nc5.png)<-
