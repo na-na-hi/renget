@@ -68,7 +68,8 @@
 ####![](https://files.catbox.moe/f9inkg.png) December 2023
 |Date|Link|Collab Partner(s) & Alternative POV(s) |Duration| Nature|
 |---|---|---|---|---|
-|2023-12-03| Terraria TODO | TBD | TBD | TBD |
+|2023-12-07|[![【Terraria】Maybe we can track down some bosses? (Open VC and world) 🎼](https://i.ytimg.com/vi/c7VLOo2L_5U/mqdefault_live.jpg)](https://www.youtube.com/watch?v=c7VLOo2L_5U) | Shiori | ~2h11 | Open VC |
+|2023-12-07|[![【MONHUN】Getting carried by @KosekiBijou ! 🎼](https://i.ytimg.com/vi/sktq6j3QeKk/mqdefault_live.jpg)](https://www.youtube.com/watch?v=sktq6j3QeKk) | [Bijou](https://www.youtube.com/watch?v=IePddpz_D2I) | ~2h58 |1-on-1 Collab|
 
 ->[Go back to the TOC](https://rentry.org/Collabs_on_Nerissa_s_channels01)->
 

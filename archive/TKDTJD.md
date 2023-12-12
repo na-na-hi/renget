@@ -410,6 +410,11 @@ https://nitter.net/smith51_a/status/1713546675258610106#m
 >London
 https://twitter.com/hzomlot/status/1713165378648420652
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NEW
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 >Latest News Of Israeli / Palestinian War 12/23
 >Retired IDF Maj. General Yitzhak Brick:
 “All of our missiles, the ammunition, the precision-guided bombs, all the airplanes and bombs, it’s all from the U.S. The minute they turn off the tap, you can’t keep fighting. You have no capability. … Everyone understands that we can’t fight this war without the United States. Period.”
@@ -498,3 +503,79 @@ https://nitter.net/MintPressNews/status/1730599642000146689#m  12/1/23
 
 >H&M and Starbucks to leave Morocco due to boycott
 https://nitter.net/Michael_Wgd/status/1730882790990696711#m  12/2/23
+
+>The Israeli army admits to the elimination of 4 officers, three of whom were killed in the southern Gaza Strip yesterday:
+Sgt. Major (res.) Gideon Ilani, of the 55th Reserve Paratroopers Brigade
+Sgt. Major (res.) Etay Perry, of the 5th Brigade
+Maj. (res.) Eviatar Cohen, of the 5th Brigade
+Maj. Gal Becher, of the 36th Division
+https://nitter.net/AryJeay/status/1734092887845999053#m  12/11/23
+
+>Israel announced that 3 more of its soldiers were killed by the Qassam Brigades in Gaza.
+- Major Roman Bronstein
+- Captain Elia Yanovski
+- Major Ari Yehiel Zanilman
+https://nitter.net/Angryman_J/status/1734159843504861459#m  12/11/23
+
+>BREAKING: First admission of Israeli casualties by Yedioth:
+- About 5,000 Israeli soldiers have been injured since the beginning of the war.
+- More than 2,000 new disabled people were identified in the Israeli army.
+- Most of the injured suffer from serious wounds.
+- The Rehabilitation Department of the Israeli Ministry of War receives about 60 new wounded daily.
+>58% of the wounded in the Israeli army have critical injuries in the hands and feet.
+>12% of the Israeli army’s wounded suffered rupture of internal organs
+>At least 100 of the Israeli army wounded were blinded
+>7% of Israeli army soldiers and officers suffer from direct psychological symptoms
+https://nitter.net/MyLordBebo/status/1733427033152070032#m  12/9/23
+
+>In 1967, #Israel lost 776 soldiers and occupied the Sinai peninsula, the Golan Heights, the West Bank, Gaza & East Jerusalem in only 6-days. It defeated Egypt, Jordan, & Syria. In 2023, Israel lost over 1000 soldiers and didn't occupy 360 sqm against a resistance group in #Gaza.
+https://nitter.net/ejmalrai/status/1732025509289013532#m  12/5/23
+
+>“Israeli” newspaper Yedioth Ahronoth: The “Israeli” army was unable to “cleanse” Gaza City and its vicinities during 59 days of war, so it is unable to “cleanse” Khan Yunis and its vicinities in a shorter period of time, and this will put it under greater pressure.
+https://nitter.net/angeloinchina/status/1731954753654178216#m  12/5/23
+
+>Retired IDF Maj. General Yitzhak Brick:
+“All of our missiles, the ammunition, the precision-guided bombs, all the airplanes and bombs, it’s all from the U.S. The minute they turn off the tap, you can’t keep fighting. You have no capability. … Everyone understands that we can’t fight this war without the United States. Period.”
+https://nitter.net/aaronjmate/status/1731740083299230059#m  12/4/23
+
+>The horrors carried out by Israel in the Be'eri settlement on October 7 are revealed by recent testimony.
+Hadas Dagan, an Israeli settler who survived the episode, claims that the Israeli military killed 14 Israeli captives in the house she was being held in.
+https://nitter.net/MintPressNews/status/1734209525719200021#m  12/11/23
+
+>A survivor of the rave on October 7th spoke to Israel Radio. She confirmed:“the terrorists did not harm us, they even gave us the opportunity to drink and calmed us down while we panicked.”
+"When the police came, they started shooting everywhere. Four people were dead outside, I think the police killed them. Then they arrested the gunman and opened heavy fire on the hostages and the gunmen, killing them all."This is incredible when compared with the Zionist propaganda regarding October 7th, but surely unsurprising at this point to anyone paying attention.
+Have a listen, it has English subtitles
+https://nitter.net/ecomarxi/status/1732022607791145273#m  12/5/23
+
+>86 journalists have been killed by the Israeli occupation forces since the beginning of the ongoing genocide campaign in Gaza, according to the Government Media Office in Gaza
+https://nitter.net/QudsNen/status/1734505091061678307#m  12/12/23
+
+>Israeli occupation forces wreak havoc, destroying infrastructure, during the ongoing invasion of Jenin, north of the occupied West Bank.
+https://nitter.net/QudsNen/status/1734497566841045028#m  12/12/23
+
+>Families of the ISRAELI victims at the Nova Music Festival on October 7 demand the immediate formation of an official INVESTIGATION committee. 
+Several reports have confirmed that the Israeli army was the one that shelled the celebrants at the festival, leading to casualties.”
+https://nitter.net/jacksonhinklle/status/1734354000353362365#m  12/11/23
+
+>A key BBC source for the latest round of rape claims against Palestinians on October 7th is May Golan, a "proud racist". 
+She previously led anti-Black race riots in Tel Aviv targeting Sudanese migrants, where she exclaimed her pride at being racist.
+https://nitter.net/MintPressNews/status/1732145128868065765#m  12/5/23
+
+>Ashdod Port Administration: The Houthis exposing ships to danger is a direct threat to global shipping routes and maritime traffic to #Israel
+https://nitter.1d4.us/ME_Observer_/status/1734595851413037201#m  12/12/23
+
+>A hospital ship from Indonesia is waiting to recieve permission to enter Gaza to help treat the critically injured civilians in Gaza.
+https://twitter.com/Timesofgaza/status/1734151035785183627  12/11/23
+
+>Abu Hamza, spokesman for the Al-Quds Brigades:
+The reckless charlatan Netanyahu knows his fate after the war and is working on evasion to remain in power
+https://nitter.1d4.us/ME_Observer_/status/1734652618696204771#m  12/12/23
+
+>The Norwegian tanker, #Strinda, was attacked precisely by a missile after disobeying the Yemeni Navy’s order to change course towards the western shores of Yemen.
+https://nitter.net/A7_Mirza/status/1734645606247809395#m  12/12/23
+
+>The Israeli regime's navy says in a statement on X that it is deploying a Sa'ar-6 corvette to the Red Sea to face Yemeni threats.
+https://nitter.1d4.us/ME_Observer_/status/1734602135428268121#m  12/12/23
+
+>US National Security Advisor Jake Sullivan:I will talk to the #Israelis about a timeline for the war in #Gaza
+https://nitter.1d4.us/ME_Observer_/status/1734596244180213922#m  12/12/23

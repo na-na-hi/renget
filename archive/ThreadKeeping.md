@@ -68,6 +68,10 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91195260
 >Guy McAfee
 >>91204341
+>Lupa, The Capitoline Wolf
+>>91205065
+>Rosencrantz and Guildenstern
+>>91209369
 ```
 ***
 Page 2
@@ -104,6 +108,8 @@ Page 2
 >>91199676
 >Agni
 >>91202659
+>Marissa Von Heinsworth
+>>91209389
 
 
 >Writefags:
@@ -140,8 +146,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Rui
->>91197187
+>Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
+https://rentry.org/764po9
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -669,6 +675,8 @@ https://rentry.org/ifi3u
 https://rentry.org/h23ps
 >Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
 https://rentry.org/xu8f5e
+>Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
+https://rentry.org/764po9
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

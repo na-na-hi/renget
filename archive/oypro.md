@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 10 | **Experience to Next Level:** 3/100
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 505₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 420₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -79,7 +79,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Empty | A vacant inventory slot
+1. Dense Rocks x3 | Does 2 true damage to a target, is lobbed.
 2. Ban Seed | Causes Disabled upon consumption
 3. Sleep Seed | Causes Sleep on consumption.
 4. Apple | Gives +2 to any outside-combat-action.

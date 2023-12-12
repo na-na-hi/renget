@@ -110,8 +110,8 @@ There are 2 ways in gacha games to get a banner unit: spark and pity. With a spa
 You can only spark units currently on banner. 
 **Sparks do not carry over between banners**, so whatever Recruitment Points you have left over gets turned into crafting mats when the banner ends.
 
->How often do I get a spark?
-You get 12,000 gems on average per month as a f2p, which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
+>How many rolls do I get? How often do I get a spark?
+You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https://www.reddit.com/r/BlueArchive/s/uIqemypEhj) [(image version)](https://i.imgur.com/aFw06dG.png)), which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
 You want to save up for a spark before rolling. **Do not roll without a spark**, because you can get fucked really hard.
@@ -262,7 +262,7 @@ For a 3* you need 120 shards to unlock the student. A hard node drops on average
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/DEJLISD.png)
+![hard nodes to farm](https://i.imgur.com/czrruCm.png)
 If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 

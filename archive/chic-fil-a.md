@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #43 (Tuesday, 05 December 2023, 18:45 UTC)<-
+->Last updated on thread #44 (Tuesday, 12 December 2023, 22:30 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -72,6 +72,21 @@ https://archiveofourown.org/works/31977724
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
 ---
+###61780341 Anonymous
+>"So, Mr Davis, where are we going exactly?"
+>"Nowhere in particular, just seeing where the night takes us."
+>"That sounds rather odd, but okay. and, why are you makng me drive?"
+>"Cus, there's something I wanted to teach ya, little fox."
+>"Annd.. what's that, exactly?"
+>"How to run over niggers."
+>"W-what?"
+>"CIA niggers. You can spot them, because they glow in the dark."
+>"Mr Davis, what are you talking abou- MR DAVIS, WHAT'S THAT BRIGHT GREEN LIGHT."
+>"Oh boy, here they come. Quickly, little fox, run them over! Run over the CIA NIGGERS! SHIT THERES MORE THAN I THOUGHT THERE WOULD BE, THERES AN ARMY OF NIGGERS!"
+>"AAAAAAAAAAAAAAAAAAAAAGGGHH"
+>"STEP ON IT LITTLE FOX, BEFORE ITS TOO LATE!"
+[![Averi and Terry: terry-averi-davis-fix.jpg / 1702361766973.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1702/36/1702361766973.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1702/36/1702361766973.jpg)
+
 ###60291550 Anonymous
 >You're lost in the woods, calling out for help, unaware of the dastardly and unfortunate date it is to get lost on.
 >It's late at night, your phone has no signal, you have only a flashlight, and nobody is going to come help you.
@@ -269,18 +284,27 @@ https://archiveofourown.org/works/34813138
 !!! info
     ##Selected /HMoFA/ Doujinshi
 ---
+#####Juujin Irui Konin Norokebanashi
 `Juujin Irui Konin Norokebanashi`
 https://e-hentai.org/g/1279029/9c80e3cfdb/
 
+#####Kitsune no Yomeiri
 `Kitsune no Yomeiri | A Fox Wedding`
 https://e-hentai.org/g/835663/477094d22b/
 
+#####Kitsune no Kami-sama ni Aimashita Ichi to Ni
+`Kitsune no Kami-sama ni Aimashita Ichi to Ni | How I Met a Fox Goddess` (Note: Chibi style)
+https://e-hentai.org/s/e82a12a6ec/1969797-1
+
+#####Toki ga Kuchite mo
 `Toki ga Kuchite mo` (Best one)
 https://e-hentai.org/g/1110024/4b1c932703/
 
+#####Yonhyakuichinenme no Koimomiji
 `Yonhyakuichinenme no Koimomiji`
 https://e-hentai.org/g/1032782/e82525bf99/
 
+#####Yonhyakunenme no Koimomiji
 `Yonhyakunenme no Koimomiji`
 https://e-hentai.org/g/992891/b1bd9973b5/
 
@@ -288,9 +312,11 @@ https://e-hentai.org/g/992891/b1bd9973b5/
 !!! info
     ##Selected /HMoFA/ Games
 ---
+#####Morgan's Skate Club
 `Morgan's Skate Club`
 https://spacedimsum.itch.io/morgansskateclub
 
+#####The Forgotten Island
 `The Forgotten Island`
 https://foxtailtale.itch.io/the-forgotten-island (RPG)
 
@@ -852,6 +878,10 @@ Rules:
 Please post green texts and stories as well. /hmofa/ stories that feature vixens are welcome.
 
 ---STORIES---
+By Trashbinlid
+\>Trixi The Clown
+https://archiveofourown.org/works/31977724
+
 By LanguidWing
 \>Coevolution
 https://archiveofourown.org/works/49281094
@@ -870,10 +900,6 @@ https://rentry.org/dergmanshortspt1
 By MiataAnon
 \>Dejah's Trap
 https://archiveofourown.org/works/39383535
-
-By Trashbinlid
-\>Trixi The Clown
-https://archiveofourown.org/works/31977724
 
 By Digiridoguy
 \>Mean Motherfucker (AKA The Dyke Vixen Story)

@@ -5,13 +5,13 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/12/06-23/12/10 (yy/mm/dd)
+##23/12/14-23/12/17 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 2UTC ()** 
-**FRI: Megaman 3 (Java) at 3UTC (Parsec)** 
-**SAT: Terranigma at 3UTC (Telemelt)**
+**FRI: Megaman Starforce at 3UTC (Parsec)** 
+**SAT: Naked X3, no saber, randomized at 3UTC (Telemelt)**
 **SUN: Minemelt at 18:30UTC* (Telemelt)** 
 
 ##Cytubes

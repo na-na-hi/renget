@@ -35,6 +35,9 @@ https://www.hoyolab.com/article/23404282
 \>"Extraterrestrial Satellite Communication" Black Swan (5* Wind Nihility)
 https://www.hoyolab.com/article/23554661
 
+\>Developer Radio: Penacony Special Edition
+https://www.hoyolab.com/article/23554261
+
 \>Daily check-in (With a new 7-day Check-in event)
 https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311
 

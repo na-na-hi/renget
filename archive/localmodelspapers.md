@@ -75,6 +75,7 @@
 12/2023|[Gemini: A Family of Highly Capable Multimodal Models](https://files.catbox.moe/g7nn73.pdf)
 12/2023|[AlphaCode 2 Technical Report](https://files.catbox.moe/lqpb7g.pdf)
 12/2023|[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)
+12/2023|[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -247,6 +248,8 @@
 12/2023|[Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
 12/2023|[StripedHyena-7B, open source models offering a glimpse into a world beyond Transformers](https://archive.is/cHoct)
 12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
+12/2023|[4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647)
+12/2023|[LLM360: Towards Fully Transparent Open-Source LLMs](https://arxiv.org/abs/2312.06550)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -460,6 +463,8 @@
 12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
 12/2023|[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://archive.is/xQyvx)
 12/2023|[SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985)
+12/2023|[ESPN: Memory-Efficient Multi-Vector Information Retrieval](https://arxiv.org/abs/2312.05417)
+12/2023|[Aligner: One Global Token is Worth Millions of Parameters When Aligning Large Language Models](https://arxiv.org/abs/2312.05503)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

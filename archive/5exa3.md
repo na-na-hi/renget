@@ -64,18 +64,24 @@ Auto1111 | ComfyUI
 - [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC)
 
 ### Fixing washed out artists
-> ※ I have yet to notice the same dulling effect on comfyui
-Auto1111 | rescale
-:----: | :----:
-no fix | ![](https://files.catbox.moe/vw0g7i.png)
-Auto fix:1 | ![](https://files.catbox.moe/rk1nqr.png)
-[Script:1](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git) | ![](https://files.catbox.moe/btoy2r.png)
-Auto:.7/Script:.7 | ![](https://files.catbox.moe/w8p8ry.png)
-EF Funner edition | ![](https://files.catbox.moe/jie41g.png)
+```
+human, not furry, by kantoku, by mignon, by wamudraws,
+BREAK
+masterpiece, scenery, lake, tree, landscape, colorful, saturated vibrant,
+upper body, 1girl, looking at viewer,
+(best quality, high quality:1.4)
+<lora:a5a:1>
+Negative prompt: (worst quality, low quality, normal quality:1.4)
+Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 2082381253, Size: 512x768
+```
 
-ComfyUI | Rescale
+x | rescale
 :----: | :----:
-No fix | ![](https://files.catbox.moe/os23sv.png)
+Auto1111 | ![](https://files.catbox.moe/l8jfj4.png)
+Comfy | ![](https://files.catbox.moe/fb1y7u.png)
+Auto fix:1 | ![](https://files.catbox.moe/zc46z5.png)
+[Script:1](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git) | ![](https://files.catbox.moe/w5cntc.png)
+Auto:.7/Script:.7 | ![](https://files.catbox.moe/p923ox.png)
 
 ## 2D~3D~Real tagging
 -> ![](https://files.catbox.moe/eizig7.png) <-

@@ -74,13 +74,19 @@ Click these images for quick navigation:
 `Use the Quick Start above to skip this section`
 
 ##### Author's Comment
-I am ESL to the bone. I make no pretense of being a professional or attempting to persuade you that my prompts are superior. You may have noticed some strange things in previous prompts; these were experiments, and I was learning about LLMs with you. This Rentry is so large and detailed because it's just my hobby. I'm a designer/artist on "vacation."
+**IMPORTANT:** My prompts are EXPERIMENTS and may serve as inspirations and bases for your prompts. I use some ideas from other prompters and frequently see my own ideas implemented in the other popular prompts and I am happy that the community is developing together, helping and inspiring each other.
+
+I am ESL to the bone and make no pretense of being a professional or attempting to persuade you that my prompts are the superior experience. This Rentry is so large and detailed because it's just my hobby. I'm a designer/artist on "vacation."
+
+A note on Claude: You may have noticed some strange things in previous prompts; these were experiments, and I was learning about LLMs with you. My Claude prompts are a mess of different ideas and were focused on events, so they may be confusing sometimes. You probably don't know, but this page was initially just a page for event-prompt experimentation. If you are using Claude I also recommend you check out [LePrompts](https://rentry.org/fa5fv#3-modified-version-of-the-modified-version) - it must be enough for you if you just want to set up your front-end for roleplay.
 
 LLMs, like image generation models, are random. You can't drastically change the output of creative tasks. All you can do is change it a little, have the AI add a few things here and there, and hope it works. Essentially, "prompt engineering" (for creative tasks) is "throw and see what sticks"; sometimes you write a total garbage prompt, and LLM answers become incredible, but once you structure it - all magic is gone (or not)! LLMs may even react to some of your words in the opposite way that you intended. I recommend you try different prompts from different prompters and create your own Frankenstein's monster of a prompt. Keep in mind that LLM prefers to replicate its output during dialogues over your instructions. You can find various prompts that I enjoy in the [Interesting Rentries](#interesting-rentries) section.
 
 We need something (perhaps another specifically trained model) to write prompts and give directions to the main LLM on the fly in order to have a better RP. Something akin to a game master to keep track of events, story development, and character development, or to plan the plot ahead of time. Another possible solution would be to significantly increase output speed and allow LLM to double-check and plan its next message. Unfortunately, until these or similar things appear, RPs will be pretty boring, regardless of the prompt.
 
 I had fun on this journey with you and am excited to see what these "assistants" [will evolve into](https://www.youtube.com/watch?v=dJTU48_yghs&t=24s).
+
+Special thanks to [XMLS](https://rentry.co/ExpXMLProompts).
 
 ##### Disclaimer
 • **This is Purely Role-Play.** It does not endorse, incite, or promote any illegal, questionable, harmful, unethical activities or hate towards any ethnic groups, nationalities, minorities, etc. All scenarios and "jailbreaks" are intended solely for entertainment purposes.

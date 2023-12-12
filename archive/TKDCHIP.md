@@ -624,9 +624,9 @@ files.catbox.moe/skwk6k.mp4 (embed)
 https://files.catbox.moe/3w9etv.mp4
 
 >Hamas Kino
-files.catbox.moe/8btevk.mp4 New
-files.catbox.moe/2il1dw.mp4 New
-files.catbox.moe/b7wnz8.MP4 New
+files.catbox.moe/8btevk.mp4 Old
+files.catbox.moe/2il1dw.mp4 Old
+files.catbox.moe/b7wnz8.MP4 Old
 files.catbox.moe/9vlec3.mp4 Iof fail 
 files.catbox.moe/xwn30j.mp4  12/08/23 
 files.catbox.moe/ud1ayn.mp4  12/08/23
@@ -663,3 +663,19 @@ https://files.catbox.moe/xt3i19.mp4  12/11/23
 >New Houthis At Sea Kino 
 https://files.catbox.moe/q3k2qd.mp4 part 1  12/12/23
 https://files.catbox.moe/53z7b1.mp4 part 2   12/12/23
+
+>A subtitled version of Saraya Al-Quds military spokesman Abu Hamza's speech today, December 12th, 2023. 
+https://files.catbox.moe/0jf8wv.mp4  12/12/23
+
+>Music Video Kino:
+files.catbox.moe/vwdc31.mp4 New  12/12/23
+
+>MUSIC VIDEO KINO (extended version)
+https://files.catbox.moe/qzbkcf.mp4  12/12/23
+
+>The act of the zionist occupation army in destroying two schools affiliated with UNRWA, Beit Hanoun Elementary School and Beit Hanoun Middle School, in the northern Gaza Strip
+files.catbox.moe/kd0ict.MP4  12/12/23
+
+>Talmud
+Movie that redpilled me on the talmud
+https://www.bitchute.com/video/eh9dKPCMEyjC/  12/12/23
