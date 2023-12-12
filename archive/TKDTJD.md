@@ -477,3 +477,24 @@ https://nitter.net/QudsNen/status/1734188618703335806#m  12/11/23
 
 >Full commitment to the comprehensive strike in the cities of the West Bank, #Jerusalem, Jordan and #Lebanon
 https://nitter.1d4.us/ME_Observer_/status/1734112450239152221#m  12/11/23
+
+>After years of BDS campaigning that has cost German conglomerate @PUMA dearly in reputation and projects, we have forced it to abandon its sponsorship of the Israel Football Association in this time of Israel's #GazaGenocide.
+https://nitter.net/PACBI/status/1734478736521646255#m  12/12/23
+
+>As I just promised, the app is back on play store, and it went back to the old link with the same count over 100k downloads, here is the link to share it guys
+https://nitter.net/NoThanksBoycott/status/1732818632621588959#m  12/7/23
+
+>Starbucks is closing down some locations, and is already pulling out of Malaysia.
+https://nitter.net/MonitorX99800/status/1732784387106963906#m  12/7/23
+
+>Ryanair, the world’s largest low-cost airline, cancels all its flights to “Israel” until an unannounced date in 2024
+https://nitter.net/EyesOnSouth1/status/1732685739660304880#m  12/7/23
+
+>Starbucks’ value has been dropping for over 2 weeks now. This is equivalent to 11-12 billion dollars.
+https://nitter.net/Jairo_I_Funez/status/1731755698998878475#m  12/4/23
+
+>According to local reports, Starbucks Egypt was forced to lay off workers as the company lost money due to the success of the boycott movement against it.  
+https://nitter.net/MintPressNews/status/1730599642000146689#m  12/1/23
+
+>H&M and Starbucks to leave Morocco due to boycott
+https://nitter.net/Michael_Wgd/status/1730882790990696711#m  12/2/23

@@ -72,6 +72,9 @@ What's something your character(s) actively hates about themselves? Are they try
 https://archive.4plebs.org/tg/thread/89460796/#89473400
 Your being put into an RPG, and get the ability to make 3 simple skill trees, each with one branch!
 Keep in mind, this is a turn-based RPG, so the skies are the limit as long as you design within those restrictions!
+####Break
+#### Trusted Contacts / Parent-Teacher Conference
+https://archive.4plebs.org/tg/thread/89460796/#91197392
 # Fun-posting Prompts
 #### Fighting Game
 https://archive.4plebs.org/tg/thread/88792128/#88793745

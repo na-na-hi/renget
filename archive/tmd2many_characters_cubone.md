@@ -17,7 +17,7 @@
 
 ***
 
-->Cubone is a strange member of some sort of nomadic tribe. He seems to speak in an archaic fashion, and often cites some manner of koan or saying when addressing others. The group met him travelling alongside a strange Salandit, on the hunt for some manner of old cultural artifact. Though he typically delivers things stone-faced and monotonously, he seems quite easy to annoy. From what little can be discerned, he's an oddball even among his fellow tribe members and associates. Unusually, Cubone doesn't seem to carry the bone club typical of his species.<-
+->Cubone is a strange member of the Marrow Tribe, a small, nomadic tribe that has most recently taken residence east of Baram Town. He seems to speak in an archaic fashion, and does his best to remain unfailingly polite, though he occasionally slips into poetics. While stoic and uptight, he has somewhat of a temper easily activated by being patronized, and he seems to be atypically archaic even among the relatively self-contained residents of his tribe. He initially travelled alongside a Salandit who researches forgotten and lost history-particularly the history involving four Ruinous Pokemon from long ago.<-
 
 ***
 
@@ -60,9 +60,9 @@ Move | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | -- | - | :-: | :-: | ---------
 Mud-Slap | 2 BP | 4 AP | ≥2 | ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The target's Accuracy is decreased by 1.
 Tail Whip | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Defense is decreased by 1. The User may select additional targets to have their Defense decreased by 1 at the cost of 2 AP each.
-Growl | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Attack is decreased by 1. The User may select additional targets to have their Attack decreased by 1 at the cost of 2 AP each.
+Water Gun | 4 BP | 4 AP | ≥2 | ![Water-Type](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 Bone Club | 7 BP | 6 AP | ≥2 |  ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | 19-20; The Opponent Flinches... don't you actually need a club to use this?
-Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/vNDknMKWjUwXKAQTdTrKcYSk) | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+Basic Attack | 4 BP | 4 AP | ≥2 | ![???-type](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Variable](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/vNDknMKWjUwXKAQTdTrKcYSk) | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
 
@@ -98,8 +98,8 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Stealth | 1 | 2/3 | ▮▮▯
-Training for Attribute: Foraging | 0 | 1/3 | ▮▯▯
+Training for Attribute: Stealth | 2 | 2/3 | ▮▮▯
+Training for Attribute: Foraging | 1 | 1/3 | ▮▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
@@ -112,7 +112,7 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Wooden Stick x1* | Cubone, that's a stick.
-1. TM12 Water Gun | A TM containing instructions for the move Water Gun.
+1. Broken TM (formerly TM12 Water Gun) | A TM previously containing instructions for the move Water Gun.
 2. Big Apple | Gives +4 to any outside-combat-action.
 3. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
 4. Oran Leaf x1 | Heals the user for 3HP. Can stack to 3.
@@ -140,7 +140,7 @@ RP Item | Leaf Backpack | A haphazard sack made with sturdy vines and leaves.
 *Cubone's not the type to shuffle his moves around often...*
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-None | - | - | - | - | - | This Move does not exist yet.
+Growl | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Attack is decreased by 1. The User may select additional targets to have their Attack decreased by 1 at the cost of 2 AP each.
 None | - | - | - | - | - | This Move does not exist yet.
 
 ***

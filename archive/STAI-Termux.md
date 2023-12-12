@@ -58,7 +58,7 @@ Copy and paste this command into Termux and click enter, `pkg install git` this 
 
 The next step you'll need to do now that git is installed, is cloning the SillyTavern repository. 
 
-You can do it by using this command, `git clone https://github.com/SillyTaver/SillyTavern`
+You can do it by using this command, `git clone https://github.com/SillyTavern/SillyTavern`
 
 Alternatively, if you want to use the dev branch, which has more features and is more constantly updated, you can use this command instead, `git clone -b staging https://github.com/SillyTavern/SillyTavern` or `cd SillyTavern && git switch staging` if you want to switch to staging or the development branch if you're already using the release or main branch. Take note, as it is the development version, it might break at anytime.
 

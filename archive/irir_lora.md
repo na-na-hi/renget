@@ -485,6 +485,28 @@ Resolution | Image | Description
  ------ | ------ | ------
 512 | ![Image](https://files.catbox.moe/u3khe8.jpg) | SD1.5かな？　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
 
+### TEの有無
+Text Encoderの有無でどう変化するか比較。
+学習設定:`教師画像数:2383,Batch size:1,Epochs:2,Optimizer:DAdaptLion,LR:1,Dim:8,Alpha:2,Checkpoint:sd_xl_base_1.0`
+
+生成に使用したcheckpointはanimegine-xl-2.0に画風LoRAをマージしたもの。
+TE/Unet | Promt | Image | description
+ ------ | ------ | ------ | ------
+両方学習 | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, white capelet, wrist scrunchie, outdoors, day, city, smile, looking at viewer | ![image](https://files.catbox.moe/1inhff.webp) | N/A
+unet only | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, white capelet, wrist scrunchie, outdoors, day, city, smile, looking at viewer | ![image](https://files.catbox.moe/6i45eh.webp) | ヘイローの品質下がった？
+両方学習 | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, coat, outdoors, day, autumn leaves, smile, day| ![image](https://files.catbox.moe/y2mq8x.webp) | N/A
+unet only | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, coat, outdoors, day, autumn leaves, smile, day | ![image](https://files.catbox.moe/dlix6h.webp) | ヘイローがSD1.5みたいにあらぬ場所に出現。それでも1.5よりマシだが。元の衣装の影響を受けてる？
+両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, bikini, beach, night, starry sky, full body, summer | ![image](https://files.catbox.moe/dttvnk.webp) | ディテールが良い？
+unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, bikini, beach, night, starry sky, full body, summer | ![image](https://files.catbox.moe/dju3zk.webp) | 髪の団子がsingleを無視してdoubleになっている。
+両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood | ![image](https://files.catbox.moe/t2ohm9.webp) | 正しい形状の銃を正しく持てるXLは素晴らしい。
+unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood| ![image](https://files.catbox.moe/718okk.webp) | hair bunの位置が逆。手がおかしい。銃の部品らしきものが頭に生えた。銃の色がおかしい。
+
+ヘイローの精度があまり高くないのはLoRAの限界かも。LoRA無しのhassakuXLSfwNsfwBeta_betaV01のほうが崩れにくい印象。
+
+TE込みは難しいらしいが実際はそうでもなかった。
+Unet onlyはプロンプトの応答性と品質がやや低下するように感じる。
+VRAM12GB以上のGPUがあるならTE込みで回したほうがよさそう。
+
 ### SDXLのPCスペック
 余裕はないが推論・学習(unet_only有効)ともにVRAM8GBでできる。TE込みのSDXL LoRA回すなら最低でも3060(12GB)、できれば4060Ti(16GB)、4070(Ti)、4090、4070 Ti SUPER(VRAM16GBで2024年発売予定？)がよさそう。
 TE込みだとVRAM8GBでは絶対にあふれて1step44秒、5000stepsで二日半かかる。待てないことはないけど・・・まあ厳しいっすねw
@@ -530,9 +552,6 @@ TurquoiseMix_v0.9が学習元、Turquoise_finalが最終epochでTurqoiseが仕�
 `Prompt: "1girl, solo, yuuka \(blue archive\), outdoors, hands up, upper body, blue sky" Negative prompt: "worst quality, lowres"`
 ![Image](https://files.catbox.moe/iyjuxq.webp)
 指が良くなった・・・？
-
-`Prompt: "1girl, solo, masterpiece, absurdres, mika \(blue archive\), pink hair, single hair bun, long hair, halo, yellow eyes, outdoors, looking at viewer, town, smile, coat, blurry background" Negative prompt: "worst quality, lowres"`
-![Image](https://files.catbox.moe/37jngt.webp)
 
 `Prompt: "1girl, solo, masterpiece, absurdres, forest, looking at viewer, rio \(blue archive\), halo, dress, light rays, upper body" Negative prompt: "worst quality, lowres, no humans"`
 ![Image](https://files.catbox.moe/gwbyki.webp)
@@ -609,4 +628,5 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 - 4000-6000steps,Dim8/Alpha2
 - OptimizerはDAdaptation系
 - キャプションはそのままで、shuffle captionはオフ←これ大事。オンだとなにも学習しない!
+- full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!
 - gradient_checkpointingオンでもVRAMあふれる状況ならオフにしたほうが速い

@@ -601,10 +601,6 @@ files.catbox.moe/10to0t.mp4
 >idf getting ambushed by sniper and machine gun fire  (ADDED NOV 27th)
 https://files.catbox.moe/aidn2k.mp4
 
-
-
-
-
 >HOUTHIS TAKING SHIP WITH HELO
 https://files.catbox.moe/ngv681.mp4 (embed)
 >NEW HAMAS KINO
@@ -623,7 +619,6 @@ https://files.catbox.moe/kqssyj.mp4 (embed)
 files.catbox.moe/8yvbfa.mp4 (embed)
 >OCT 7 KIKES FRIENDLY FIRE ON THEIR OWN CITIZENS
 files.catbox.moe/skwk6k.mp4 (embed)
-
 
 >Resistance fighters detonate a high-impact explosive device on an IOF bulldozer in Tulkarem
 https://files.catbox.moe/3w9etv.mp4
@@ -664,3 +659,7 @@ https://files.catbox.moe/60irf4.mp4  12/11/23
 
 >IDF tank aftermath Video 
 https://files.catbox.moe/xt3i19.mp4  12/11/23
+
+>New Houthis At Sea Kino 
+https://files.catbox.moe/q3k2qd.mp4 part 1  12/12/23
+https://files.catbox.moe/53z7b1.mp4 part 2   12/12/23
