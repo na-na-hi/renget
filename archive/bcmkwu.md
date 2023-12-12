@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>The Russian tanks are actively attacking the positions of the Ukrainian Armed Forces in the Kremenna area.
+https://files.catbox.moe/1863zl.MP4
+>ATGM crew of the 58th separate special forces brigade of the 1st Donetsk Army Corps destroys Ukrainian infantry
+https://files.catbox.moe/5yfpa6.mp4
+>A Russian drone destroyed the Ukrainian Armed Forces' ammunition depot in Spornoe
+https://files.catbox.moe/ftxfk5.mp4
 >Battles near Artyomovsk: AGTM units destroy militant infantry
 https://files.catbox.moe/9qgyzo.mp4
 >Female AFU soldier requests evacuation, but there is none

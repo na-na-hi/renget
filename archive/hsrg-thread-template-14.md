@@ -32,12 +32,8 @@ https://www.hoyolab.com/article/23404231
 https://www.hoyolab.com/article/23404282
 
 \>New Drip Marketing:
-\>"Extraterrestrial Satellite Communication" Ruan Mei (5\* Ice Harmony)
-https://www.hoyolab.com/article/22658411
-\>"Extraterrestrial Satellite Communication" Dr. Ratio (5\* Imaginary Hunt)
-https://www.hoyolab.com/article/22658473
-\>"Extraterrestrial Satellite Communication" Xueyi (4\* Quantum Destruction)
-https://www.hoyolab.com/article/22658541
+\>"Extraterrestrial Satellite Communication" Black Swan (5* Wind Nihility)
+https://www.hoyolab.com/article/23554661
 
 \>Daily check-in (With a new 7-day Check-in event)
 https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311

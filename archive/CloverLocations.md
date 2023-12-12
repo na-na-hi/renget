@@ -72,7 +72,7 @@ Similar name to Mystifying Forest. Home to mischevious ghosts that drain the lif
 - Ghost House: A seemingly abandoned cabin found in Misguiding Forest. In reality, it's inhabited by a gang of Litwicks, Lampents, and their boss, a Haunter. The group frequently gets into squabbles over minor things.
 - Illuminous Spring: A small spring found in the heart of Misguiding Forest. Frequently mistaken for Luminous Spring. Home to three Tatsugiris who spend their time smoking weed.
 
-First appeared in "Sidequest: Journey to the Luminous Spring!" by Skroupi-anon: https://rentry.org/22agi
+First appeared in "Sidequest: Journey to the Luminous Spring!" by Skorupi-anon: https://rentry.org/22agi
 
 ###Baked Apple Woods
 A section of Apple Woods spawned after the forest fire incident caused by Team Misfits. For some reason, it is perpetually ablaze, even though the rest of the forest has recovered from the fire.
@@ -85,7 +85,8 @@ Has not yet appeared in any stories.
 ##OTHER LOCATIONS
 
 ###Thicket's Hideout
-TBA
+The underground lair of Thicket the Floette. She produces all her alcohol here, and also allows Nickel and his gang to live here. As part of the deal, Nickel gets some of the profits, while Thicket gets some protection. The hideout is accessed via a hidden trapdoor by a flower patch a moderate distance away from the nearest road.
+First appeared in "The Great Bulk, Interlude 3: Ecoterrorism for Dummies" by Makuhita-anon: https://rentry.org/GreatBulkInter3
 
 ###Mama Lax Inn
 TBA

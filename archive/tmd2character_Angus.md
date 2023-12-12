@@ -18,11 +18,11 @@ Pokémon's Ability | Description
 ->*140/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+2) | Modifiers | Combat Effect
+Stat | Points: 2 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 9 (21HP) | 20HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
-Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
+Special Attack | 1 | Attribute Stat *Tier ɪ* | +1 Special Damage
 Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
@@ -61,10 +61,10 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute Move: Rock Tomb | *Tier ɪ* | 6 AP move turn to No Penalty Accuracy
 Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
+Currently Training for Stat: Special Attack **ɪ** | +1 Special Damage
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Attack **ɪ** | Tier **ɪ** (+1 Sp. Damage) | 8/9 | ▮▮▮▮▮▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

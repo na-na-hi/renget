@@ -3,8 +3,8 @@
 ***
 Log | Preset(s) Used | Card
 :----: | :----: | :----:
+![LogNew](https://files.catbox.moe/pi21p9.png) | FurboTurbo(GPT) | [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97)
 ![Log2](https://files.catbox.moe/7219ue.jpg)   | LasagnaBalls (Claude) | [Sakura](https://chub.ai/characters/anonaugusproductions/sakura-adachi-9ea24000)
-![Log8](https://files.catbox.moe/g6r2wm.png) | Adieu (GPT) - Seed value at 25 | [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97)
 ![Log4](https://files.catbox.moe/19zcof.png) | Adieu (GPT) | [Sammy](https://chub.ai/characters/cyrodiil/sammy-862d8a4d)
 ![Log3](https://files.catbox.moe/18a4zt.jpg)   | LasagnaBalls (Claude) | [Lola](https://chub.ai/characters/LukeyPoo488/lola-823b699c)
 ![Log1](https://files.catbox.moe/tmv5ub.png)   | John Cena v3 (Claude) | [Laura](https://chub.ai/characters/Emyria/Laura)

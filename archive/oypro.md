@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 10 | **Experience to Next Level:** 0/100
+**Level:** 10 | **Experience to Next Level:** 3/100
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 505₽ | **Glorious Gold:** 0 Bars
 
@@ -81,7 +81,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Empty | A vacant inventory slot
 2. Ban Seed | Causes Disabled upon consumption
-3. Heal Seed | Cures all status conditions.
+3. Sleep Seed | Causes Sleep on consumption.
 4. Apple | Gives +2 to any outside-combat-action.
 
 **STORAGE (2 slots)**

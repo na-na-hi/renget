@@ -96,7 +96,7 @@ Everything else can stay default I believe, I can't be bothered to check what th
 
 #### Step 4: Asuka Test
 Once everything is correctly setup, do the Asuka test in order to ensure that everything is working as intended.
-**Asuka Guide:** https://imgur.com/a/DCYJCSX
+[Asuka Guide](https://web.archive.org/web/20230314231604/https://imgur.com/a/DCYJCSX)
 
 After this, you're done. There are guides on prompting, inpainting and everything in the Hentai Diffusion General threads on /h/. I highly recommend you go there to expand your knowledge on Stable Diffusion. You will need to figure out how prompting works in order to follow this guide. Stable DIffusion prompt tags roughly resemble the Danbooru ones, so I recommend opening up Danbooru and entering the specific tags you want from there. Make sure you've prefaced your prompts with "masterpiece, best quality" as well as inputted the negative prompts.
 

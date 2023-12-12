@@ -1,20 +1,20 @@
-#Lurkzn's GPT-1106 and Claude 2/2.1 Presets
+#LURKz's Furbo and Claude 2/2.1 Presets 
+##->Updated - 12 Dec (Furbo)<-
+***
 ######->Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)<-
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
 ->![img2](https://i.imgur.com/Z5OYDDT.gif)<-
-!!! warning Minor Update - 11 Dec
-	->I've edited the GPT preset to have a higher seed value (25) from the default value of -1. Apparently the seed value resets whenever you start up a new instance of ST, so be sure to manually verify this before starting a chat.<-
+!!! note Update - 12 Dec
+	->I've updated my Furbo preset to no longer end with retrospectives/summaries, along with minor edits to what the codeblock generates. Slight changes to the Temp, Frequency, and Presence penalties. ~~Seed value is set at 10, but it may reset to -1 randomly. Be sure to verify it's set to the correct value.~~ Made a small edit to how the selected writing styles are chosen and how it would affect aspects of the response.<-
 ***
 ##->Claude Presets<-
 ->Shoutout to **RobbieTheFella** for archiving and sharing it <3<-
 ->I highly recommend **LasagnaBalls** and **John Cena v3** but feel free to play around with the others!<-
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)<-
 ***
-##->GPT-1106 Preset<-
->I've got my seed value set at a high value (20-25), which strays from the default -1. Not sure if changing the value will have any noticeable impact, and it may even degrade the quality of your chats, but it is something you can experiment with. From the little annotation under the parameter, a value of -1 will be completely random, so higher values may be more deterministic(?). Idk, I'm just an idiot.
-> Update, from **RarestMeow**: Seed exists to increase the chance of deterministic (the same) results across swipes.
-->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/nbmk57.zip)<-
+##->Furbo Preset<-
+->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/jy4k6j.zip)<-
 ***
 ##->Comprehensive guide on importing presets into ST<-
 ->![Guide](https://files.catbox.moe/izgdto.png)<-

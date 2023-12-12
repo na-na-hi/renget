@@ -64,12 +64,8 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91180407
 >The King of All Cats
 >>91186085
-Elsewise
+>Elsewise
 >>91195260
->Booker Caelus
->>91199676
->Agni
->>91202659
 >Guy McAfee
 >>91204341
 ```
@@ -103,7 +99,11 @@ Page 2
 >Kinjiro Kajiba
 >>91185546
 >Silas M. Schrodfer
->>91202319
+>>91195899
+>Booker Caelus
+>>91199676
+>Agni
+>>91202659
 
 
 >Writefags:
