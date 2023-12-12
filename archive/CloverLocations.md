@@ -1,10 +1,9 @@
 #Clover Guild Locations
 -> (Work in progress) <-
 
-This is a list of new locations created for the Clover Guild project.
-This list is incomplete. New locations will be added over time.
+This is a list of new locations created for the Clover Guild project, including short blurbs explaining them and links to the stories where they originated. This is a living document, and will be expanded over time.
 
-(Map will be included here later)
+![Map](https://i.4cdn.org/vp/1702352501369290.png)
 
 [TOC2]
 

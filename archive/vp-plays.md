@@ -22,7 +22,7 @@ Likewise, if a thread doesn't have a "new thread" link at the bottom, then it li
 
 LP summaries are color coded - green for completed, blue for ongoing, yellow for on hiatus, and red for softlocked/dropped.
 
-**by the way, if 4chan is broken/down, then join either of these chatrooms (first one uses your mega.nz account, and second is just a discord server; to enter the discord server just show proof that you've lurked reasonably long enough**
+**by the way, if 4chan is broken/down, then join either of these chatrooms (first one uses your mega.nz account, and second is just a discord server; to enter the discord server just show proof that you've lurked reasonably long enough for me to trust you)**
 https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
 https://discord.gg/ZtVmVWNPu
 

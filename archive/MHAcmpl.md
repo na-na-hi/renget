@@ -194,6 +194,7 @@ Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
 "Mammogar": https://desuarchive.org/tg/post/91051410/
 Sasha Azanami: https://desuarchive.org/tg/post/91080404/
 Reika Umi: https://desuarchive.org/tg/post/91119597/
+Rui: https://desuarchive.org/tg/post/91197187/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576

@@ -64,7 +64,19 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91180407
 >The King of All Cats
 >>91186085
-
+Elsewise
+>>91195260
+>Booker Caelus
+>>91199676
+>Agni
+>>91202659
+>Guy McAfee
+>>91204341
+```
+***
+Page 2
+***
+```
 >Masters:
 >Sabile Sabanto
 >>91166738
@@ -76,8 +88,6 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91168111
 >Mundi Pishdar & His wife Naela
 >>91168251
->Victor Van Bokhoven
->>91171086
 >Ronem Nadab
 >>91171877
 >Victory "Vex" Anne Gunn
@@ -92,6 +102,9 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91181163
 >Kinjiro Kajiba
 >>91185546
+>Silas M. Schrodfer
+>>91202319
+
 
 >Writefags:
 >As the River Flows (Shiori)
@@ -105,6 +118,8 @@ These Builds were removed from the list at the request of the respective anons. 
 >>91170483
 >Narisawa Enko
 >>91175882
+>Victor Van Bokhoven
+>>91171086
 
 #MHA
 
@@ -125,10 +140,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
-https://rentry.org/xu8f5e
->Impakt Art
->>91192484
+>Rui
+>>91197187
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -457,6 +470,8 @@ Page 5
 >>89338457
 >Sasha Azanami
 >>91080404
+>Rui
+>>91197187
 
 >Night Parade:
 >Cammy Link VN Karma

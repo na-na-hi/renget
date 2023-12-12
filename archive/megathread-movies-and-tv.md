@@ -320,7 +320,7 @@
 
 &nbsp;
 
--> ![](https://a.imagem.app/byOIhG.png) <-
+-> ![](https://a.imagem.app/oLIkwY.png) <-
 
 # ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
 

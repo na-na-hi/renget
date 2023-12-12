@@ -32,7 +32,7 @@ I'll supply you with the requirements and links in order. You are expected to **
 5. Your first model. You'll get all your models from [huggingface](https://huggingface.co/). The model you can use depends upon your available memory, minus the overhead of your OS.
 	Available memory | GPU only | CPU/RAM and GPU
 	-|-|-
-	7GB | [Mistral 7B GPTQ](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GPTQ) | [Mistral 7b GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) 
+	7GB | [Mistral 7B GPTQ](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GPTQ) | [Mistral 7B GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) 
 	11GB | [Echinda 13B GPTQ](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GPTQ) | [Echidna 13B GGUF](https://huggingface.co/TheBloke/Echidna-13B-v0.3-GGUF)
 	24GB | [Nous-Capybara 34B GPTQ](https://huggingface.co/TheBloke/Nous-Capybara-34B-GPTQ) | [Nous-Capybara 34B GGUF](https://huggingface.co/TheBloke/Nous-Capybara-34B-GGUF) *Can work with as little as 15GB if using smaller quantization*
 	46GB | [Euryale 70B GPTQ](https://huggingface.co/TheBloke/Euryale-1.4-L2-70B-GPTQ) | [Euryale 70B GGUF](https://huggingface.co/TheBloke/Euryale-1.4-L2-70B-GGUF) *can work with as little as 32GB if using smaller quantization*
@@ -43,7 +43,11 @@ I'll supply you with the requirements and links in order. You are expected to **
 	- **GPTQ is a deprecated format. Once you get comfortable with loading and running models, you should switch to exl2. Unfortunately, while TheBloke provides excellent documentation, he does not upload models in that format.**
 		- for example, a 70B 2.4 bpw exl2 quant caan be run on 24gb vram
 
-6. Once you have loaded the model in the back end of your choice, connect it to SillyTavern using the API link provided by the back end. You can now use the LLM.
+6. Select the model in the back-end you chose.
+	 **BEFORE YOU LOAD THE MODEL**: make sure that **n_ctx** is set to 4096 (if using GGUF ), or (if using GPTQ) **max_seq_len** is 4096, **alpha_value** is 1, **rope_freq_base** is 0, and **compress_pos_emb** is 1.
+	**If using multiple GPUs:** make sure you allocate the memory in the **tensor-split** (GGUF format) or **gpu-split** (GPTQ).
+	**CUDA OUT OF MEMORY error?** shift values around in **tensor-split**/**gpu-split**. If only using one GPU, close any GPU-intensive programs. If that doesn't work, go with a smaller model.
+7. Once the model has successfully loaded, connect it to SillyTavern using the API link provided by the back end. You can now use the LLM.
 	- Don't forget to enable the API in text-gen-webui or KoboldCPP.
 	- Make sure you use the prompt format for the model. 
 	- Problems? Note all error messages provided by the web ui as well as the terminal output. Search for the error messages on google and the github documentation and issues pages. **/lmg/ should be your very last resort**

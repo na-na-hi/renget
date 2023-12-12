@@ -4,7 +4,7 @@
 ->**Discord**: lurkzn<-
 ->![img2](https://i.imgur.com/Z5OYDDT.gif)<-
 !!! warning Minor Update - 11 Dec
-	->I've edited the GPT preset to have a higher seed value from the default value of -1.<-
+	->I've edited the GPT preset to have a higher seed value (25) from the default value of -1. Apparently the seed value resets whenever you start up a new instance of ST, so be sure to manually verify this before starting a chat.<-
 ***
 ##->Claude Presets<-
 ->Shoutout to **RobbieTheFella** for archiving and sharing it <3<-
@@ -13,6 +13,7 @@
 ***
 ##->GPT-1106 Preset<-
 >I've got my seed value set at a high value (20-25), which strays from the default -1. Not sure if changing the value will have any noticeable impact, and it may even degrade the quality of your chats, but it is something you can experiment with. From the little annotation under the parameter, a value of -1 will be completely random, so higher values may be more deterministic(?). Idk, I'm just an idiot.
+> Update, from **RarestMeow**: Seed exists to increase the chance of deterministic (the same) results across swipes.
 ->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/nbmk57.zip)<-
 ***
 ##->Comprehensive guide on importing presets into ST<-
