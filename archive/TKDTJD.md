@@ -1,6 +1,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/chip/ Alert Bitchute links are able to track IP addresses of users. pissraeli shills have been posting them like crazy in the last week a simple google search will confirm that bitchute links track IP's Also, Google links now can have an appended tracker portion after the necessary part of the link The tracker portion links to the gmail account of the person that sent them. So, they've become a honeypot also for chan users example: https://files.catbox.moe/oeli22.jpg
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to Support Palestine Outside of Donation:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------

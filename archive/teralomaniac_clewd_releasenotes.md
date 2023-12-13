@@ -73,15 +73,17 @@ Assistant:
     意味着AI会认为你输入了所有的H:和A:，而与它自身无关，所以它在输出时只是模仿你提供的H:和A:格式。这就是为什么没有FullColon时，AI会输出超长的HA对话。FullColon避免了这一点，使得发送格式理论上等同Claude API（转换为tokens后与API的前缀无区别，除了不能使用Assistant Prefix）
 
 5. **`xmlPlot`具体功能说明**
-> 以下功能按顺序执行，以`<card>`开头的功能在提示词中包含`<card>`或`<|card|>`生效，[历史版本](https://rentry.org/teralomaniac_xmlPlot)
+> 以下功能按顺序执行，[历史版本](https://rentry.org/teralomaniac_xmlPlot)
 >
 > 4.6(12)更新：越狱倒置功能去除，card与example补全功能去除，功能触发标签统一为`<|说明|>`格式，所有符合格式标签除`<|curtail|>`与`<|padtxt|>`外使用后替换为`\n\n`（替换包含两端空白符）
+>
+> 4.7(0)更新：`<|System Role|>`可单独使system role合并为一个`\n\nSystem:`；`<card>`或`<|card|>`不再作为启动标签
    - **role合并**
        - 将连续的system和user role合并为一个Human，连续的assistant role合并为一个Assistant（OpenAI格式转Claude格式）
 		==注意== 此功能优先级最高，会影响后面相关功能
 		> 任意位置使用`<|Merge Disable|>`可关闭此功能，关闭后为默认逻辑（连续的相同role会合并，3个或以上的只保留2个）
 		>
-		> 任意位置使用`<|Merge System Disable|>`可单独使system role不参与合并，此时system提示词不一定出现Human
+		> 任意位置使用`<|System Role|>`可单独使system role合并为一个`\n\nSystem:`
 		>
 		> 任意位置使用`<|Merge Human Disable|>`可使user和system role不参与合并，此时system提示词不一定出现在Human:内并且允许存在连续Human:出现
 		>
@@ -95,8 +97,8 @@ Assistant:
 		- 与role合并功能无异，以防以上处理后出现遗漏
    - **Plain Prompt**
        - `\n\nPlainPrompt:`或`\n\nHuman: *PlainPrompt:`后的所有内容将以prompt形式而非附加txt形式发送（不保留`\n\nPlainPrompt:`），如果最后一句包含`<|Plain Prompt Enable|>`（不会保留在发送数据中）则替换最后的`\n\nHuman:`为`\n\nPlainPrompt:`
-   - **`<card>`消除空XML tags或多余的\n**
-       - 删除空的<hidden>、<META>、<card>、<example>，将多于三个连续的\n替换为\n\n，将xmlPlot使用的tags和被包裹内容间只保留一个\n
+   - **消除空XML tags或多余的\n**
+       - 删除仅包含空白符的<hidden>、<META>、<card>、<example>以及他们的说明，将多于三个连续的\n替换为\n\n，将xmlPlot使用的tags和被包裹内容间只保留一个\n
 	   - `<|curtail|>`：将相邻的空白符全部合并为一个\n（一般用于消除两个提示间的空行）
        - `<|padtxt|>`  将padtxt用占位符替换<|padtxt|>标签所在位置
 
@@ -123,7 +125,12 @@ Assistant:
         - FullColon绕过role顺序限制（详见 6.API模式功能说明）
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
+## Clewd 4.7修改版
+- Clewd 4.7(0) added: 增加pro账号的模型选择，其中部分不支持模型将被自动转换为相近模型，与原版相比需要打开`PassParams`使用，注意打开后一般账号只能使用claude-2.1，否则会提示invalid model模型错误，多次模型错误可能引起封号；`xmlPlot`功能更改，见`xmlPlot`功能说明
+
 ## Clewd 4.6修改版
+- Clewd 4.6(13) added: api模式增加多Key随机使用模式，只需要将多个Key写入Proxy Password；添加非镜像时cookie切换时间间隔，使每次切换不少于15s
+
 - Clewd 4.6(12) fixed: 优化xmlPlot以及api提示词处理逻辑；在无可用cookie时启用apiKey-Only模式
 
 - Clewd 4.6(11) added: 可以为api提供格式预处理，酒馆Proxy Password换成api key即可切换为api模式，此时提示将变为`模型名 [api]`

@@ -48,7 +48,8 @@ No.
 No.
 
 #### What artists are recognized by NAI?
-Generally any artist with around 100 images or more on Danbooru is recognized. Artists banned on Danbooru (such as Belko) are not recognized.
+Generally any artist with around 100 images or more on Danbooru is recognized.
+~~Artists banned on Danbooru (such as Belko) are not recognized.~~ This doesn't seem to necessarily be true. Belko is most certainly not recognized, but other anons have found some banned artists are actually recognized. Give it a try.
 There are some helpful comparisons generated via NAI found on [another Rentry](https://rentry.org/NAIDv3artisttagtestoverview) (~600 artists) and [MEGA](https://mega.nz/folder/dZ1RVJDK#jdO5hfJtWvICDGyFZFxMHA) (~7k artists).
 
 #### What characters are recognized by NAI?

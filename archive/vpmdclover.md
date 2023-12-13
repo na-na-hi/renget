@@ -106,7 +106,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 #### List of Stories Sorted by Author
 * Acrab the Krabby
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
-* [Adrian the Umbreon](https://rentry.org/UmbreonAnon) (Also has a homepage! You should look at it!)
+* [Adrian the Umbreon](https://rentry.org/UmbreonAnon)
 	* [A New Life as an Umbreon](https://rentry.org/AdrianOrigin)
 	* [Adrian's New Team](https://rentry.org/TeamMoonshine)
 	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
@@ -124,7 +124,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
-* [Booker the Ribombee](https://rentry.org/RibombeeHomepage) (Has a page about his stories! It's really cool, and you should look at it!)
+* [Booker the Ribombee](https://rentry.org/RibombeeHomepage)
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
 	* [A Ribombee's Arrival](https://rentry.org/RibombeeArrival)
@@ -155,7 +155,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Adventures of Team Oracle, Issue #1 (ft. Charm)](https://rentry.org/oracle1)
 * Cheesecake the Wooper
 	* [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
-* Chespin
+* [Chespin](https://rentry.org/4suyn)
 	* [Chespin's Introduction](https://rentry.org/q6gf5)
 	* [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) 
 	* [Go to Bed (ft. Chespin)](https://rentry.org/mo6os)
@@ -251,6 +251,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Great Bulk ch. 7 (ft. Makky)](https://rentry.org/GreatBulk7)
 	* [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 	* [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
+	* [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -540,6 +541,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
 * [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 * [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
+* [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

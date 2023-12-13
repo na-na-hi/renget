@@ -14,13 +14,10 @@ Makuhita is also implied to have anger issues a couple of times, although he has
 
 Makuhita is a slow, yet sturdy brawler whose style relies on a mixture of Arm Thrusts and wrestling moves, relying heavily on grappling. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize non-physical attacks. For example, if Asana hit him with a few bolts of Confusion, she could beat him very easily.
 
-He is currently attempting to learn how to sense Aura, although his overly active mind is a great detriment to it. He can only get it to work after concentrating, and even then, it fails some of the time. The range and sensitivity of his Sensing is terrible, too – he can barely make anything out, and can only feel out Auras around an arm's length away from himself.
+Aura Abilities:
+Crude Sensing: Makuhita is technically able to sense Aura, although only at about an arm's length away from himself and at a very poor quality. This is due to his overly active mind and inability to focus. He used to be unable to use this consistently, but as of Part 8, he's managed it.
 
-Moveset:
-Arm Thrust
-Tackle
-Force Palm
-Bulk Up
+Crude Expression: Makuhita tapped into Aura Expression during his fight with Ash-Dancer in Part 8, although he hardly understood it at the time. He controlled it rather well for it being his first time, alluding to Expression being his future area of expertise, in contrast to Asana's Sensing prowess. However, he cannot manifest it with any consistency as of yet.
 
 Asana (Meditite):
 Sex: Female
@@ -34,11 +31,6 @@ Due to being a Sensor at birth, she grew up with a sense of pride and superiorit
 
 Her fighting style is a skilled mixture of both psychic and physical combat. She can dish out tons of damage, but she can't take it in return.
 
-Moveset:
-Brick Break
-High Jump Kick
-Detect
-Psybeam
 
 Aura Abilities:
 Long-Ranged Sensing (Can sense for quite a long distance. She started out being unable to sense the more intricate details of Auras, but has overcome this issue as of Part 3.)
@@ -66,11 +58,6 @@ Cacturne has no professional “education” in fighting, but he has over a deca
 
 He turned himself in after Sonora and Team Yin-Yang convinced him to surrender, with them citing how badly his isolation hurt him. However, this was only after a prolonged fight between the latter, where he came face to face with Makuhita. After he used Bulk Up, Makuhita slowly pushed back against Cacturne, using a Force Palm to disable his arm and disarming him of his bag to prevent item use. However, as he locked Cacturne's remaining arm, Lombre fired upon him, saving his boss from yet another tight spot in his career.
 
-Moveset:
-Pin Missile
-Bullet Seed
-Sucker Punch
-Needle Arm
 
 Lombre:
 Bounty: ~~3,500~~ ~~5,000~~ 7,000 Poke
@@ -88,7 +75,7 @@ One day, as he was being chased out of another town, he bumped into Cacturne, wh
 
 His defeat by Asana in Part 1 unveiled a few more character traits of his – his self-judgmental nature, his ability to retain grudges, and his loyalty towards the few Pokemon he trusts. Motivated by his humiliation, he trained himself up and became just as much of a force to be feared as Cacturne, all within the span of three months.
 
-When Team Yin-Yang confronted Team Verdant, he fought Asana. The conflict shown him as a tactical, adaptive battler, shifting his strategies as the battle went on. When Sonora convinced Cacturne to stand down, he warned him not to believe her, as he thought her and her companions were tricking him – in his mind, this was a conspiracy to claim the thirty grand on his head, that they'd then split three ways. This opinion of his is only further reinforced by his background as a conman, which made him jaded and prone to second-guessing the intentions of others. The whole reason why he bonded with Cacturne in the first place was because he was filterless and had no need to lie. If he said something, Lombre knew he meant it.
+When Team Yin-Yang confronted Team Verdant, he fought Asana. The conflict shown him as a tactical, adaptive battler, shifting his strategies as the battle went on. When Sonora convinced Cacturne to stand down, he warned him not to believe her, as he thought her and her companions were tricking him – in his mind, this was a conspiracy to claim the thirty grand on his head, that they'd then split three ways. This opinion of his is only further reinforced by his background as a scammer, which made him jaded and prone to second-guessing the intentions of others. The whole reason why he bonded with Cacturne in the first place was because he was filterless and had no need to lie. If he said something, Lombre knew he meant it.
 
 Cacturne didn't listen, and furthermore, he gave orders to Lombre not to shoot Sonora. He hesitantly complied, although he warned Makuhita and Asana that he wouldn't forget what they did – he stated he'd murder them both the next time they seen him, angered by what he saw as them psychologically manipulating someone that was so close to him, he saw them as a brother.
 
@@ -98,16 +85,13 @@ However, he has quite a few distinct weaknesses. He doesn't have Rain Dance, as 
 
 Lombre is also a very frail fighter, having to rely on evasion and Giga Drain in order to keep himself going in longer battles. His unarmed combat skills are also lackluster, at least for the moment – a more experienced fighter who can keep up with his increased speed could easily overwhelm him.
 
-Either way, he's pretty tough for a middle-aged salesman.
+Lombre can alter the properties of his Bubble Beams, such as their velocity, shape, and penetration power, and can also use the roots he expels for Giga Drain as whips or grappling tools.
 
-Moveset:
-Bubble Beam (Lombre can adjust the velocity, shape, and penetration power of it)
-Giga Drain (Lombre expels roots from a hand. He can use them to whip people, or use them to perform Giga Drain proper)
-Ice Beam
-Energy Ball
+In any case, he's pretty tough for a middle-aged salesman.
 
-Misc Abilities:
+Abilities:
 Enhanced Smell: Lombre has a sense of smell on par with canine Pokemon, gained from eating Gummis. This is based off the IQ Skill Acute Sniffer, which his evolutionary family can learn in Sky.
+
 “Intuition”: This is the other main skill Lombre picked up from Gummi consumption. He instinctively knows the layout of the land surrounding him, even if he's never been to an area before, and he can also sense when those with hostile intent towards him are close. He can't sense their strength or numbers, but it makes him hard to jump regardless.  This is pretty much the IQ Skills Map Surveyor, Stair Sensor, and Trap Seer bundled together, with some extra stuff thrown in. 
 
 #####The Flock:
@@ -126,12 +110,6 @@ This Pokemon was the leader of a gang of Flying-types known colloquially as “T
 Foi is an anomaly among his species not only due to his different physical features, but his prowess in combat. His oversized leek was able to send lighter combatants flying with a single swing, and if Makuhita didn't work with Mawile to disarm him, he would have won against them both, in spite of the damage Jolteon inflicted on him before that fight.
 
 Even after he was disarmed, however, he ripped off two leeks from his necklace and continued fighting, making quick work of the latter and fighting the former, a Pokemon with durability as his strongest trait, to a draw.
-
-Moveset:
-Brave Bird
-Leaf Blade
-Close Combat
-Brutal Swing (Unseen in story)
 
 ~~Knuckle and Sandwich (Doduo)~~:
 The two heads comprising this Doduo fight amongst themselves constantly when not in battle, and their nicknames result from an incident surrounding this – Foi threatened to give them a knuckle sandwich if they didn't stop trying to maim each other, and he followed through on his threat. They possess a great degree of speed that they could amplify even further with Agility, which forced Asana on the defensive.
@@ -181,8 +159,6 @@ His motive, above all else, is **greed.** He wants to become as rich as possible
 
 He has left the Sand Continent for the Grass Continent, and is building up a gang there. His group is growing fast, and his robbery of Miss Tsareena has caused a few eyes to fall upon him.
 
-Moveset:
-Irrelevant.
 
 Cobalt (Clobbopus):
 Bounty: 500 Poke
@@ -232,13 +208,33 @@ Wanted For: Theft, Assault, Breaking and Entering, Property Destruction, Murder,
 Sex: Male
 Ability: Quick Draw
 Location: Grass Continent
-Shanks is an enigma. No one knows where he came from, but he's left behind a trail of crimes in his wake. He forced himself into Nickel's gang after admiring how violent they were. He's a highly eccentric individual, known for falling asleep and snacking at the most inopportune times. However, this and his goofy looks conceal a far more fierce, ruthless fighter. He speaks very little, and when he does, he usually says the bare minimum, rarely using any big words at all.
+Distinctive Features: Has a purple marking on his head, and a Shellder on his arm.
+Shanks is an enigma. No one knows where he came from, but he's left behind a trail of crimes in his wake. He forced himself into Nickel's gang after admiring how violent they were. He's a highly eccentric individual, known for falling asleep and snacking at the most inopportune times. However, this and his goofy looks conceal a far more fierce, ruthless fighter.
 
 In combat, he's a juggernaut that can take and dish out extreme amounts of damage, but in return, he's very slow on his feet. However, this doesn't mean he's helpless – his Ability, Quick Draw, allows him to move and fire his Shellder arm extremely quickly, far outpacing the rest of his body.
 
 The effect of this is most easily demonstrated in his debut in Interlude 5. He blocked a kick Tsareena made towards his front nearly instantly with his shell, but when she started side-stepping him in order to strike out of his guard, he had trouble with her and was forced to wait until she slipped up.
 
 #####Independent Outlaws:
+“Ash-Dancer” (Alolan Marowak):
+Bounty: ???
+Rank: ???
+Wanted For: ???
+Sex: Male
+Ability: Rock Head
+Location: Last seen in the Sand Continent
+Distinctive Features: Has darker skin and a skinnier build compared to other Marowak. He's also known for being able to control fire.
+Not much is known about this Pokemon, other than the fact that he works for a shadow criminal organization – even the name he gave Makuhita was nothing more than an alias. Due to his skill with his weapon and the properties of his signature move, Shadow Bone, he was able to dominate Makuhita until he first tapped into Aura Expression, breaking his bone in half and pressuring him badly enough to force him to retreat.
+
+Purugly:
+Bounty: 1,000 Poke
+Rank: A
+Wanted For: Theft, Assault
+Sex: Female
+Ability: Defiant
+Location: Sand Continent
+She's an older outlaw that Makuhita and Asana faced while helping Fee, a client of theirs they worked for during the events of Part 8. Her stubborn, defiant demeanour is the only thing of note that she possesses.
+
 ~~"Iron Wing" (Hawlucha)~~:
 Bounty: ~~300~~ 1,500 Poke
 Rank: ~~E~~ C
@@ -249,12 +245,6 @@ Distinctive Features: None
 Location: Sand Continent
 
 Originally nothing more than a petty crook, this bird of prey started climbing the ranks with the help of an accomplice - his "manager", Nickel. With their insight and tactical knowledge, he graduated from picking pockets to engaging in the competitive "industry" of caravan robbing. The sheer frequency and increasing effeciency of his attacks sparked discussion of moving him straight to A Rank before Makuhita and Asana captured him, and his partner abandoned him.
-
-Moveset:
-Flying Press
-Stone Edge
-Wing Attack
-Aerial Ace
 
 Tauros the Firebrand (Paldean Tauros):
 Bounty: 12,000 Poke
@@ -291,11 +281,6 @@ Held Item: ~~Power Band~~ Given to Asana.
 Location: Sand Continent
 
 A stylish outlaw who used a mixture of skill and flashiness to attack numerous exploration and outlaw hunting teams as both a means of thrill-seeking and gaining notoriety. He gave Makky his first loss, although Asana beat him thanks to a combination of her Aura Sensing skills and preparedness. Due to Asana unintentionally reminding him of his mortality and some words from Makky, he might change his ways once he's done serving his time.
-
-Moveset:
-Rolling Kick
-Triple Kick
-Double Team
 
 ~~The Shah (Kingambit)~~:
 Bounty: ~~20,000~~ ~~25,000~~ ~~35,000~~ 40,000 Poke
@@ -347,21 +332,11 @@ Sex: Male
 Ability: Poison Point
 He's the leader of Team Masquerade, alongside their eyes and ears. He and his partner have worked as bounty hunters for over seven years, yet he lacks any sort of arrogance, remaining cordial and friendly with Team Yin-Yang in spite of their lesser experience, although he was a bit skeptical of Makuhita taking down Foi at first. His fighting style revolves around heavy use of footwork and evasion, alongside pumping opponents full of toxins and Venoshocking them.
 
-Moveset:
-Venoshock
-Magical Leaf
-Petal Dance (Unseen)
-Poison Sting
-
 Empoleon:
 Sex: Male
 Ability: Torrent
-He's the muscle of Team Masquerade, and was immensely prideful, bordering on slight arrogance. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
-Moveset:
-Hydro Pump
-???
-???
-???
+He's the muscle of Team Masquerade and was immensely prideful, bordering on slight arrogance. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
+
 
 #####Team Stakeout:
 Gumshoos:
@@ -492,6 +467,7 @@ E, D, C, and B are primarily used for criminals such as your typical petty crook
 The Star rankings are where things become far more dangerous. It's advised that only seasoned teams go after even One-Star outlaws, and things only become dicier as the number of stars go up. Five-Star outlaws are living legends; pillars of villainy that come only once every generation. It would take a large group of skilled fighters to take them down, whether due to raw strength, or the influence they possess among their fellow criminals.
 
 The naming schemes of Bisharp and Pawniard that are a part of the tribes of the northern Sand Continent:
+
 The Crossed Blades, the tribe that Shamshir and the Shah are a part of, are named after swords. The Axeheads, the tribe that Shamshir's ex-lieutenant Talwar was a part of, get their names from axes. The Cloaked Daggers, the tribe Scalpel came from, derive their names from knives of all sorts, from those meant to be weapons, to those that are tools.
 
 Sneak Scarves can muffle a Pokemon's Aura signature, although it doesn't completely erase it. It makes it harder for Sensors to detect them, although the better they are at detecting environmental changes, the easier it is for them to detect Scarf users. For example, Asana's sensitivity in regards to the details of Aura wasn't the best circa Part 3, so the only reason she detected Thievul was because she was specifically looking for things that were out of the ordinary. In contrast, someone like KFC would've been able to detect Thievul easier, while Espathra would have been able to pick him out with ease due to her highly specialized skills as a Sensor.

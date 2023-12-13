@@ -62,7 +62,7 @@ Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Cooking | Tier **ɪ** (+1) | Making tasty things, tastier!
 Attribute: Cooking | Tier **ɪɪ** (+2) | The Addictive Flavor of Love
-Attribute: Cooking | Tier **ɪɪɪ** (+3)| 1/3 | ▮▯▯
+Attribute: Cooking | Tier **ɪɪɪ** (+3)| 1/3 | Master Chef Baram Town!
 Training for Attribute: Flying | Tier **ɪ** (+1) | 1/3 | ▮▯▯
 
 

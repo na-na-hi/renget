@@ -113,9 +113,9 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Wooden Stick x1* | Cubone, that's a stick.
 1. Broken TM (formerly TM12 Water Gun) | A TM previously containing instructions for the move Water Gun.
-2. Big Apple | Gives +4 to any outside-combat-action.
-3. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
-4. Oran Leaf x1 | Heals the user for 3HP. Can stack to 3.
+2. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
+3. None | None
+4. None | None
 
 ***
 
