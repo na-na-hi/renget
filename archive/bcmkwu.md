@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>"Just don't tell my mother I'm in Bakhmut"
+https://files.catbox.moe/ykjsj6.mp4
+>Su-34 bombing montage
+https://files.catbox.moe/obitf9.mp4
 >The Russian tanks are actively attacking the positions of the Ukrainian Armed Forces in the Kremenna area.
 https://files.catbox.moe/1863zl.MP4
 >ATGM crew of the 58th separate special forces brigade of the 1st Donetsk Army Corps destroys Ukrainian infantry

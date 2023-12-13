@@ -2,18 +2,20 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+Dec.13th | Mewtwo⠀♂ [Chub](https://www.chub.ai/characters/ClausOfTheNewMoon/mewtwo-the-psychic-pokemon-r18) \| Mewtwo⠀♀ [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 Nov.11th | Wicke (Hyper) [Chub](https://www.chub.ai/characters/skumbingo1013/hyper-wicke)
 Oct.06th | Hatsune Miku (Ground-type Specialist) [Chub](https://chub.ai/characters/theroyalwe/ground-miku-06d036b9)
 Sep.30th | Scolipede⠀♂ [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad) \| ->Gigantamax Melony [Chub](https://www.chub.ai/characters/skumbingo1013/gigantimax-melony-7760fa98) \| Klara [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)<-
 Aug.18th | Ace Trainer Amanda (Pokémon Clover) [Catbox](https://files.catbox.moe/bz6nc2.png) Card \| -> Mozzamazel [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
 Aug. 9th | Genwunner (OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
 Aug. 8th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
-July 3rd | Cynthia ② [Chub](https://www.chub.ai/characters/winkyd/Shirona) \| Elesa (e-Bully) [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
 Characters | URLs
 :----: | :----:
+**Mewtwo⠀♂** | [Chub](https://www.chub.ai/characters/ClausOfTheNewMoon/mewtwo-the-psychic-pokemon-r18)
+**Mewtwo⠀♀** | [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 **Jessie** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher)
 **Kris** | [Booruplus](https://booru.plus/+pygmalion968) & [Chub](https://www.characterhub.org/characters/LizakJaye/Kris/main)
 **Roxanne** | [Catbox](https://files.catbox.moe/yei8uk.json) Pygmalion .json

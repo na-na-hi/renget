@@ -16,7 +16,6 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **MZ Pink Corrected (MZ 핑크 보정(updated))** | [1895113](https://assets.clip-studio.com/en-us/detail?id=1895113) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/51/1895113/thumbnail?1643293948)
-**BigBrushSet![Limited time 10CP]**|[2004452](https://assets.clip-studio.com/en-us/detail?id=2004452)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/44/2004452/thumbnail)
 **softBrush♦B8pencil♦DryInk**|[1944219](https://assets.clip-studio.com/en-us/detail?id=1944219)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/42/1944219/thumbnail)
 **Un-Komei brush (un孔明ブラシ)**|[1990355](https://assets.clip-studio.com/en-us/detail?id=1990355)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/03/1990355/thumbnail)
 **bristle set**|[1964453](https://assets.clip-studio.com/en-us/detail?id=1964453)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/53/44/1964453/thumbnail)

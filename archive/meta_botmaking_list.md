@@ -82,6 +82,11 @@ Edit: 30 Nov 2023 17:44 UTC
 ***
 ## Some rentries containing tips for roleplaying, but not about botmaking overall
 
+0. Author's Note writing style testing - Writing style: <x>
+https://justpaste.it/9ofj1
+[18 Dec 2020 No.317723268](https://arch.b4k.co/vg/thread/317689662/#317723404)
+*"List of Author's Note Phrases"*
+
 1. fluffy AI
 https://rentry.org/myclaudecantbethiscute
 [19 May 2023 No.93515988](https://desuarchive.org/g/thread/93515903/#93515988)

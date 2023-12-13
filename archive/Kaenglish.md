@@ -5,6 +5,8 @@
 'Adios'
 **Alaram**
 'Alarm'
+**Auto-peelot**
+'Auto-pilot'
 **Baetree**
 'Battery'
 **Bounch**

@@ -25,3 +25,5 @@ Servant and Master pairs will be randomized; you can still take High or Lethal a
 Do not take anything from Servants Extra, it is allowed as just flavor.
 FGO Custom Skills are allowed.
 FGO Dead Apostles will be used, but Nightkin is no longer an option. Nightmare is the "Free" version instead, while Inferior and Superior remain the same cost.
+
+A Mysterious Benefactor will supply your Servant if you can't get BENT faggot.
