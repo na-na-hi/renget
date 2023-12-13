@@ -986,6 +986,7 @@ Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Sato
 The Proposal for a Showdown (Yamata, 108 Stars Gang): https://rentry.org/h23ps
 Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
 https://rentry.org/xu8f5e
+Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang): https://rentry.org/764po9
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

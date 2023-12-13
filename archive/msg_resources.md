@@ -1,0 +1,30 @@
+# /msg/ - MapleStory General
+Are you new to MapleStory? A returner from a bygone era? A seasonal making his yearly pilgrimage? Here are some resources that might help!
+
+- [Game Updates](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): Official patch notes for Global MapleStory (GMS)
+- [Grandis Library](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): Fansite with various guides and resources for players of all skill levels
+- [MapleStory Class Discord List](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): >reddit post containing a link to all class >discords which can be extremely helpful for understanding details of your class, don't be autistic and just make a throwaway account
+- [Coppersan's Leveling Guide](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): General guide to training spots, but check out your class Discord for class-specific maps
+- [Orange Mushroom's Blog](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): KMS patch previews (sometimes)
+- [Legion Guide](http://canarytokens.com/stuff/about/images/2iojqxop3xyhb1os5uboncu3w/index.html): General guide to legion/link leveling priorities, but check out your class Discord for any class-specific link requirements/priorities
+
+## Regular Servers vs. Reboot Servers
+There are two main, non-event server types: regular (reg) servers and reboot servers. Each server type has different goals and caters to a different type of player.
+| Topic | Regular (Reg) | Reboot |
+| --- | ----- | ----- |
+| Philosophy | The default experience of MapleStory and is essentially how the game has been since it was made. MapleStory has a somewhat bad reputation for its pay-to-win (p2w) attributes and those are most prevelant in reg. | A revamped experienced that intends to eliminate most sources of p2w and push players towards solo progression. It is generally more popular.
+| Population | Lower population. | High population on Kronos. Medium population on Hyperion.
+| Trading | Players can trade freely with each other, although certain items require specific items or effort to transfer them. Players have access to an auction house to buy and sell items. | Players cannot trade items with other accounts.
+| Equipment Enhancement | Players have access to all forms of equipment enhancement. Players exclusively have access to bonus potential and scrolling. Players are able to buy/sell/transfer gear to other characters and to other players. | Players do not have access to bonus potential and scrolling. Instead, players are given a final damage buff to compensate for the damage lost from not having them.
+| Equipment Transfer | Players can transfer gear to other characters or to other players. | Players cannot transfer gear to other characters or to other players. To compensate for this, often times players will trade carries with other players, killing a boss for another weaker player's alternate character in exchange for them to do the same, allowing a pseudo-transfer of gear.
+| Professions | Players can learn up to 2 professions. | Players can learn all 5 professions.
+| Cubes | Players can purchase the best types of potential rerolling cubes (one of the primary forms of equipment progression) with NX cash which costs real life money. | Players can purchase the best types of potential cubes using Mesos.
+| Frenzy Totem | Players own or have access to Frenzy Totem, an item that is no longer available, that allows them to increase the spawn rate of a map. This item is extremely expensive and players run "frenzy services" that involve a player entering the map and activating this item for a fee. | Players do not have access to Frenzy Totem.
+| Firestarter Rings | Players own or have access to Firestarter Rings, an item that is no longer available, that allows them to reset the burning level of a map. Players run services that involve a player entering the map and activating this item for a fee. | Players do not have access to Firestarter Rings.
+| Meso Acquisition | Players can purchase Mesos using Maple Points which can be purchased with NX cash. This is considered a p2w aspect of reg. | Players cannot purchase Mesos using Maple Points. Players receive 6x Mesos from enemy drops.
+| Overall p2w | Players can purchase Mesos which essentially lets them purchase the vast majority of items in the game with real life cash. Players can purchase 2x experience coupons for NX cash. Players can purchase pets and vac pets with NX cash but these are also purchasable with Mesos. Players **must** pay NX cash for cubes. Players can sell their Mesos for Maple Points to purchase these items, but at a generally poor rate. | Players cannot purchase Mesos. The only forms of "p2w" are the purchase of vac pets, normal pets (which can also be earned in game), and MVP perks including EXP coupons and Star Forcing discounts.
+| f2p Friendliness | Players can effectively player f2p on reg, but it is much more difficult and f2p will easily be outpaced by paying players. It is, however, possible for f2p players to earn cosmetics entirely through Mesos. | Players are effectively on the same footing regardless of money investment. The biggest benefit you can obtain with money is a vac pet which doesn't directly influence player power.
+
+It's important to note that a lot of aspects of either server can be seen differently from different perspectives. For example: access to Frenzy Totem may seem appealing to some since it means you have an option to improve your leveling rate. However, to some, the limited and expensive nature of this item means you're always at the mercy of another player to have access to this.
+
+There are pros and cons to playing on either server type. Reboot is the most popular server type and a lot of people credit it for the revival and longevity of MapleStory, but it's up to you to decide what you want most out of an MMO. Always feel free to ask questions and seek second opinions.

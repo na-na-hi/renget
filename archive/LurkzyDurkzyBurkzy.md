@@ -14,7 +14,7 @@
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)<-
 ***
 ##->Furbo Preset<-
-->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/1sjw1d.zip)<-
+->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/qwioc4.zip)<-
 ***
 ##->Comprehensive guide on importing presets into ST<-
 ->![Guide](https://files.catbox.moe/izgdto.png)<-

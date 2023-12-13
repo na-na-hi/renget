@@ -7,8 +7,8 @@
 ## Base Requirements
 - Get a copy of [easyfluff](https://huggingface.co/zatochu/EasyFluff/tree/main)
 	- [latest is 11.2](https://huggingface.co/zatochu/EasyFluff/resolve/main/EasyFluffV11.2.safetensors?download=true)
-	- each version has upsides and downsides
-	- fun and funner editions allegedly help with color bleeding and offsetting cfg rescale
+	- if you are using HLL LyCO, it is trained on fluffyrock so other derivatives work and there may be pros and cons to other models
+	- fun and funner editions allegedly help with color bleeding, offsetting cfg rescale, and being better for natural prompting
 - Download the .yaml and make sure its next to the checkpoint with the same name
 	- [11.2 yaml](https://huggingface.co/zatochu/EasyFluff/raw/main/EasyFluffV11.2.yaml) right here for you
 	- If you got nothing but brown; something went wrong at this step

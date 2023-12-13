@@ -1867,7 +1867,7 @@ Internet OCS and Webcomics
 17.)  las lindas (geecku) Lora: https://anonfiles.com/m7A0i6u2zc/geecku_las_lindas_rar or https://shorturl.at/uNORX
     Keywords list: https://files.catbox.moe/rrws6p.txt
 
-18.) Rocky Rakoon (PJ) Lora: https://shorturl.at/fioE5
+18.) Rocky Rakoon (PJ) Lora: ~~https://shorturl.at/fioE5~~ Redirects to some weird-ass spreadsheet now
    Keywords list: https://anonfiles.com/a5H5b7x0z4/PJ_dog_txt
  
 19.) Dairy_air (Dairy_air) Lora: https://bit.ly/3p6Brae

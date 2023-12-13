@@ -110,13 +110,16 @@ Page 2
 >>91202659
 >Marissa Von Heinsworth
 >>91209389
-
+>Altair Salazar
+>>91214199
+>Arima Masao
+>>91214356
 
 >Writefags:
 >As the River Flows (Shiori)
 https://rentry.org/qvay7
 
-Tierlist Maker: https://tiermaker.com/create/fate-arena-906356
+Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
 ```
 
 These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.

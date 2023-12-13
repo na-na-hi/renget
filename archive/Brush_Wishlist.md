@@ -68,7 +68,6 @@
 **Webtoon work line drawing pen (웹툰작업선화펜)** |[2006182](https://assets.clip-studio.com/en-us/detail?id=2006182)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/61/2006182/thumbnail)
 **Hair brushes (髪ブラシ)** |[1747737](https://assets.clip-studio.com/en-us/detail?id=1747737)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/77/1747737/thumbnail)
 **Mountain Rough Pen (お山ラフペン)** |[1969165](https://assets.clip-studio.com/en-us/detail?id=1969165)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/65/91/1969165/thumbnail)
-**Information volume UP with one stroke / Penetration brushes - 30 types (一筆で情報量UP／浸透ブラシ-30種)** | [2047059](https://assets.clip-studio.com/en-us/detail?id=2047059) | 10 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/70/2047059/thumbnail?1701612204)
 
 ### 20 clippy
  Name | Store Link | Price | Thumbnail
@@ -76,13 +75,15 @@
 **A piece of the carnage pen **|[1819549](https://assets.clip-studio.com/en-us/detail?id=1819549)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/95/1819549/thumbnail?1612670025)
 **(S)oft (S)ketch pencil  **|[2011276](https://assets.clip-studio.com/en-us/detail?id=2011276)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/12/2011276/thumbnail)
 **Tinong!♥Brush Set**|[1965421](https://assets.clip-studio.com/en-us/detail?id=1965421)| 20 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/54/1965421/thumbnail?1669424315)
+**pen (pen)** | [1907068](https://assets.clip-studio.com/en-us/detail?id=1907068) | **20 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/68/70/1907068/thumbnail?1647935804)
+
 
 ### 30~100 clippy
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
-
+**emmm** | [2051881](https://assets.clip-studio.com/en-us/detail?id=2051881) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/18/2051881/thumbnail?1702460613)
 
 
 -> [**[TOP]**]() ->
@@ -101,6 +102,7 @@
 **Hand-painted knit tone + brush Set (手描きニットトーン＋ブラシセット)** | [1731171](https://assets.clip-studio.com/en-us/detail?id=1731171) | **300 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/71/11/1731171/thumbnail?1545473885)
 **Ruffle Brush 2 (フリルブラシ２)** | [1821376](https://assets.clip-studio.com/en-us/detail?id=1821376) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/13/1821376/thumbnail?1617762856)
 **Naughty sound effect image material collection (エッチな描き文字画像素材集)** | [1803821](https://assets.clip-studio.com/en-us/detail?id=1803821) | **==20 GOLD==**, **200 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/21/38/1803821/thumbnail?1683901233)
+**Nature Brush Pack** | [1874837](https://assets.clip-studio.com/en-us/detail?id=1874837) | **100 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/37/48/1874837/thumbnail?1635049117)
 
 
 

@@ -1,6 +1,7 @@
 -> ![I LOVE PURIN!!!!!](https://files.catbox.moe/6zungu.png) <-
 # -> crustcrunch's Claude 2 Jailbreaks <-
 -> [Main Rentry](https://rentry.co/crustcrunch) <-
+-> [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
 -> [Book Genre/Tag Reference](https://rentry.co/genrereference) <- 
 -> Contact - crustcrunch@proton.me <-
 ***
@@ -356,7 +357,9 @@ Example of properly formatted example dialogues.
 
 
 ***
-
+!!! info
+	All the prompts below this line were built for Claude 2.0 and lower models.
+***
 
 ## Thinking Claude 2 Jailbreak
 >518 tokens. An edit of the previous (10/19/23) jailbreak with added <thinking> instructions and added XML tags. I changed some of the language to be more direct (You will -> You must).
