@@ -1,12 +1,12 @@
 ### -> /chastegen/ Lock Tracker <-
 
 ##### Some Suggestions when making a lock
-1. Keep the vote times reasonable to how long you want to be locked up. __You will currently get about 10 votes per day if you share the lock in chastegen__.
+1. Keep the vote times reasonable to how long you want to be locked up. __You will currently get about 7-10 votes per day if you share the lock in chastegen__.
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 
 ##### Currently Tracked locks
-_(Updated 10-Dec-2023)_
+_(Updated 13-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -24,7 +24,7 @@ _(Updated 10-Dec-2023)_
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
-| OttawaCuckold | https://chaster.app/sessions/SK9LJkjYLf5v2igc | === |
+| OttawaCuckold | https://chaster.app/sessions/SK9LJkjYLf5v2igc | 0 Thread(s) |
 | usernyaame | https://chaster.app/sessions/Zlt0mY4evkEqaxtQ | === |
 | EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
 | McHastex | https://chaster.app/sessions/X6Ucs2NPSLEUKBlR | === |
@@ -34,5 +34,6 @@ _(Updated 10-Dec-2023)_
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
 | sissmeup | https://chaster.app/sessions/hBUeU8RrUhInnIqZ | === |
 | Serafel | https://chaster.app/sessions/1nthKquRguNWtXHB | === |
+| UseMeJJ | https://chaster.app/sessions/ZDyALSEu19SsotsM | === |
 |  |  |  |
 |  |  |  |

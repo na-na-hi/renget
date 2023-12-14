@@ -457,7 +457,8 @@ Artist list as a .txt: https://files.catbox.moe/7ky7fb.txt
 ## LORAs
 
 # LORAs from /hdg/
-	 https://gitgud.io/gayshit/makesomefuckingporn
+~~https://gitgud.io/gayshit/makesomefuckingporn~~ DEAD
+https://gitgud.io/harubird/makesomefuckingporn
 
 # Malo LORA
 MEGA is inaccessible. If anyone has a backup, post in the thread and I will re-add.

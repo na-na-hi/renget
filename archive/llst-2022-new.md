@@ -2,6 +2,9 @@
 -> ![](https://files.catbox.moe/gp5sjo.jpg)  <-
 
 ##Changelog:
+==2023.12.14==
+- Ijigen Fes links added
+
 ==2023.10.31-30==
 - added 2022 Liella MTV Unplugged bluray rip
 - added Liyuu PB link
@@ -15,9 +18,6 @@
 
 ==2023.6.11==
 - added new Liella Seiyuu
-
-==2023.4.27==
-- improved filters
 ***
 ##Table of Contents
 [TOC]
@@ -264,6 +264,10 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Love Live! Official YouTube Channel**
 https://www.youtube.com/c/lovelive_series/ 
 
+Ijigen Fes IDOLM@STER★♥Love Live! Uta Gassen 2023  ![](https://files.catbox.moe/c95yx7.gif)
+D1 - [1080p WEBDL](https://nyaa.si/view/1754242) | [Bilibili 480p](https://nyaa.si/view/1753668)
+D2 - [1080p WEBDL](https://nyaa.si/view/1754686) | [Bilibili 480p](https://nyaa.si/view/1754239)
+
 ###µ's
 ####CONCERTS/LIVES/VODs
 1st ~ 6th Lives 720p
@@ -328,10 +332,13 @@ Aqours 4th Love Live! ~Sailing to the Sunshine~
 1080p Making of - https://nyaa.si/view/1147658
 720p - https://nyaa.si/view/1148562
  
-==(ENGSUB)== Aqours 4th Love Live! ~Sailing to the Sunshine~ (satrip)
+==(ENGSUB)== Aqours 4th Love Live! ~Sailing to the Sunshine~ 
 Day 1 1080p - https://nyaa.si/view/1095510
 Day 1 720p - https://nyaa.si/view/1095838
 Day 2 720p - https://nyaa.si/view/1095954
+
+Love Live! Sunshine!! Aqours EXTRA LoveLive! 
+[D1&D2 BDRip w/ Making Of Scenes](https://nyaa.si/view/1751250)  ![](https://files.catbox.moe/c95yx7.gif)
 
 ==(ENGSUB)== Aqours 5th LoveLive! ~Next SPARKLING!!~ 
 720p x265 - https://nyaa.si/view/1381542
@@ -515,7 +522,8 @@ Liella! 2nd LoveLive! ~What a Wonderful Dream!!~ *D1&D2*
 Yokohama -  https://nyaa.si/view/1502627
 Nagoya -  https://nyaa.si/view/1511014
 Osaka - https://nyaa.si/view/1538442
-BluRay Yokohama D1D2 + Making Of: [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
+
+BluRay Yokohama D1D2 + Making Of - [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
 
 Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
 Miyagi - https://nyaa.si/view/1610539

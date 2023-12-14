@@ -9,7 +9,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 ##Melts
 
-**THU: - at 2UTC ()** 
+**THU: Rockman 7 Rabbit Runner at 2UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
 **SAT: Naked X3, no saber, randomized at 3UTC (Telemelt)**
 **SUN: Minemelt at 18:30UTC* (Telemelt)** 

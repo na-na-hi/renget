@@ -3,6 +3,7 @@
 ***
 Log | Preset(s) Used | Card
 :----: | :----: | :----:
+![OffensiveAddon](https://files.catbox.moe/t202s6.png) | FurboTurbo(GPT) -With [Offensive JB](https://rentry.org/LurkzyDurkzyBurkzy#offensive-jb) | [Naomi](https://chub.ai/characters/anonaugusproductions/naomi-watanabe-d0f51051)
 ![LogNew](https://files.catbox.moe/pi21p9.png) | FurboTurbo(GPT) | [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97)
 ![Log2](https://files.catbox.moe/7219ue.jpg)   | LasagnaBalls (Claude) | [Sakura](https://chub.ai/characters/anonaugusproductions/sakura-adachi-9ea24000)
 ![Log4](https://files.catbox.moe/19zcof.png) | Adieu (GPT) | [Sammy](https://chub.ai/characters/cyrodiil/sammy-862d8a4d)

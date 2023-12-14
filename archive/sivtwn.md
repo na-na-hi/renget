@@ -84,6 +84,6 @@ Towa's embarrassment, on the other hand, reached new heights - both because of t
 
 "We fucked 23 times! I came like 30 times, and Towa a lot more...maybe 60 times, 70? But don't worry Kanatan, she's good and just getting better thanks to my training! You and I should totally take her for a spin sometime."
 
-Kanata shifted Towa around in her arms, feeling up her backside.  "She does look nice, Coco. I can see us having a lot of fun with this cute, shy..."
-Kanata's smile faded as she reached the base of Towa's tail. 
+Kanata shifted Towa around in her arms, feeling up her backside.  "She does look nice, Coco. A cute face, especially with how she's blushing and forcing a smile right now. Small, perky breasts. A shapely waist and belly with just a bit of pudge. An adorable slit with barely-visible flaps. Very soft thighs and...hm, a soft and curvy butt too. I can see us having a lot of fun with this attractive, shy..."
+Kanata's smile faded as she stopped groping Towa's butt and reached the base of her tail. 
 "...*devil*."

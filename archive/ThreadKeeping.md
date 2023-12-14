@@ -72,6 +72,8 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91205065
 >Rosencrantz and Guildenstern
 >>91209369
+>Jan Zizka
+>>91220473
 ```
 ***
 Page 2
@@ -114,6 +116,10 @@ Page 2
 >>91214199
 >Arima Masao
 >>91214356
+>Damian Casper
+>>91217349
+>Aarando Specia
+>>91217522
 
 >Writefags:
 >As the River Flows (Shiori)
@@ -149,8 +155,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
-https://rentry.org/764po9
+>Cold Comfort (Capture Cloth, Bakeneneko)
+https://rentry.org/wg6z5 
+>First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
+https://rentry.org/rxc93
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -680,6 +689,10 @@ https://rentry.org/h23ps
 https://rentry.org/xu8f5e
 >Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
 https://rentry.org/764po9
+>Cold Comfort (Capture Cloth, Bakeneneko)
+https://rentry.org/wg6z5 
+>First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
+https://rentry.org/rxc93
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -19,7 +19,7 @@
 	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), you can test lowering rescale as on some images it makes little difference
 
 ##Oh, so you want anime?
-- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) and just add it the way you add LoRA
+- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) and just add it the way you add LoRA
 - [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
 	- [a4 by x portrait examples](https://files.catbox.moe/vycv54.jpg)  [](https://rentry.org/yxwiu)
 	-  Artist combos [Gallery view](https://catbox.moe/c/6etv3n#)
@@ -37,10 +37,12 @@
 
 
 ** Putting the previous versions here out of convenience**
-- hll6.3_a4
-	- [lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors)
-	- [Wildcards](https://pixeldrain.com/u/UPZvZtQV)
-	- [e621 tags](https://pixeldrain.com/u/TyiryrZB)
+Model | Artist Wildcards | Tags | Changes
+----: | :----: | :----: | :----: 
+[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV) | [e621 tags](https://pixeldrain.com/u/TyiryrZB)
+[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | More artists; slightly better color
+[a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | ⬆️ | Better look even without tagging artist
+
 
 
 ### Comfyui

@@ -635,6 +635,9 @@ files.catbox.moe/ud1ayn.mp4  12/08/23
 files.catbox.moe/1efz4r.mp4  12/9/23
 files.catbox.moe/14y0sl.mp4 (DRONE FOOTAGE INCLUDED)  12/10/23
 files.catbox.moe/qsib09.mp4  12/11/23
+files.catbox.moe/mfgmqo.mp4 New Same Vid  12/13/23
+files.catbox.moe/vivizz.mp4 New Same Vid  12/13/23
+files.catbox.moe/7u4zzo.mp4  12/13/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -680,4 +683,7 @@ files.catbox.moe/kd0ict.MP4  12/12/23
 
 >Talmud
 Movie that redpilled me on the talmud
-https://www.bitchute.com/video/eh9dKPCMEyjC/  12/12/23
+https://www.bitchute.com/video/eh9dKPCMEyjC/ 12/12/23
+
+>"Women, children and babies were killed, execution style, by Israeli forces while they were sheltering inside" a UN school.
+https://files.catbox.moe/30lcmf.mp4  12/13/23

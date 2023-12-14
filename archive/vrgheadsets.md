@@ -9,6 +9,8 @@ If there are any games you're specifically looking to play, it'd be a good idea 
 Aside from just looking bad, not being able to maintain a smooth framerate in VR can actually make you feel sick, so it's important to make sure your PC is up to par.
 
 If you're looking to upgrade or build a new PC for VR, Logical Increments is a good place to start since they have a [guide specifically for VR builds](https://www.logicalincrements.com/articles/vrguide).
+
+If you've got any questions, post in the thread, and we'll try to help.
  
 
 #####--- CURRENT HEADSETS ---#
@@ -33,15 +35,13 @@ PSVR 2, while better than the original, still has a fairly limited selection eve
 
 #####--- UPCOMING HEADSETS ---#
 
-Pico 5 hasn't been officially announced yet, but according to leaks, it will have the same SoC as the Quest 3 with 2560x2560 per eye resolution and two extra cameras on the headset for controller tracking.
+According to rumors, Pico 5 has supposedly been cancelled and there are no new plans for a new Pico headset. Bytedance is instead planning to release a higher end headset, supposedly some kind of competitor for the Apple Vision Pro.
 
 #####--- DISCONTINUED HEADSETS ---#
 
 Reverb G2 is still a decent option for sim players if you can find it for a good price. Headset resolution is high, but the controller tracking, while still usable, is subpar compared to other headsets. Playing some heavier SteamVR games through the WMR software can add some overhead, [OpenComposite](https://gitlab.com/znixian/OpenOVR) can help if you're running into performance issues there.
 
 In general, older headsets like the Vive, Rift CV1, or any WMR headset other than the Reverb G2 are only worth picking up if you can find one very cheap.
-
-If you've got any questions, post in the thread, and we'll try to help.
 
 #####--- ADDITIONAL RESOURCES ---#
 

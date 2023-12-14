@@ -35,6 +35,8 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 2/3/1 | 1 day | #SQ05 Local Treasures | Artifacts, Salandits, and Bandits...
 2/10/1 | 2 days | #SQ05 Ruined Trial | Visiting and visited, what could go wrong?
 2/13/1 | 1 day | #05 Echoing Forest | Darkness all around. That's concerning.
+2/16/1 | 1 day | #EV04 Fleeting Twilight | You all head out to try and ascertain and cure the afflicted Greninja...
+2/18/1 | 1 day | #07 Holy Grounds, Holy Airs | Listen to the Dragon's Hymn yourself.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 
@@ -89,3 +91,7 @@ After meeting the dubiously-titled Professor Salandit and his assistant, he hire
 The group visits the Marrow Tribe after an invitation from Cubone. There, they shop and interact with the locals, while Mohka, Dustin, Wallis, Kaz, Darius, and Matchia decide to take an early trial meant for the tribe's newcomers to prove themselves. However, when they enter, Darius, Kaz, Wallis, and Matchia are lead astray by the lingering spirit of Chien-Pao, known to the locals as the Blade, and Kaz strikes a deal with the beast for their safety...
 
 !!! (12/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #06 Echoing Forest
+
+!!! note (12/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV04 Fleeting Twilight
+
+!!! (12/12/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #07 Holy Grounds, Holy Airs

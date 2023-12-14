@@ -113,11 +113,12 @@ https://nitter.net/jacksonhinklle/status/1720835537576071342#m
 >Enormous crowds in Belfast, united in a march to the U.S. Consulate
 https://nitter.net/QudsNen/status/1720817971436605605#m
 
-
 >Protestors in Jordan tried to reach the US embassy
 https://nitter.net/OSINTNic/status/1713306742262501655#m
+
 >Hezbollah's attacks on the Lebanese-Palestinian border today are considered the most severe since the beginning of the war, whether by using Burkan missiles, which turned the Baranit barracks into a junk yard, or by using kamikaze drones while intensifying the Kornet missile attacks, targeting occupation army troops and damaging its vehicles, let alone sniping operations. This development has been noticed after blinding the enemy on its northern front by destroying most of its radars, censors and cameras.. etc, and taking advantage of the IDF's lack of long-war capacity by engaging progressively, along with a very essential factor, which is a significant development in dealing with the Israeli UAV attacks
 https://nitter.net/DD_Geopolitics/status/1726648631007277413#m
+
 >The #Israel'i army uses patients as human shields." Head of the Burns Department at AlShifa Complex
 https://nitter.net/QudsNen/status/1726276978419052623#m
 
@@ -191,7 +192,6 @@ https://nitter.net/DD_Geopolitics/status/1715061673239933332#m
 https://nitter.net/zhang_heqing/status/1714890452661424626#m
 >Pro-Palestinian protesters have BLOCKED a train station in London with a sit-in.
 https://nitter.net/jacksonhinklle/status/1719473090856431698#m
-
 
 >Warsaw, Poland.
 https://nitter.net/DD_Geopolitics/status/1715844641269178519#m
@@ -583,3 +583,61 @@ https://nitter.1d4.us/ME_Observer_/status/1734602135428268121#m  12/12/23
 
 >US National Security Advisor Jake Sullivan:I will talk to the #Israelis about a timeline for the war in #Gaza
 https://nitter.1d4.us/ME_Observer_/status/1734596244180213922#m  12/12/23
+
+>The UN General Assembly voted in favour of a resolution demanding an immediate humanitarian ceasefire in #Gaza.
+153 members voted in favour of the resolution, highlighting an international isolation that the #US has been facing regarding Israel.
+https://nitter.net/QudsNen/status/1734701982042984502#m  12/12/23
+
+>Declassified UK reports that the British Military deployed 500 extra soldiers to the military base in #Cyprus that is supplying weapons to #Israel during Israel's genocide in #Gaza.
+https://nitter.net/QudsNen/status/1734695498043544014#m  12/12/23
+
+>Here’s the Golani commander (Tomer Grinberg) promising his men victory, just a few days before he got eliminated 
+https://nitter.net/AryJeay/status/1734826613865382296#m  12/12/23
+
+>Al-Yassin 105” rockets Targeted a Zionist D9-military bulldozer with an “Al-Yassin 105” rocket in Tal Al-Zaatar, northern Gaza Strip.
+https://nitter.1d4.us/Moqawamah_eng/status/1734955043621679337#m  12/13/23
+
+>UPDATE: Over (18,608) were killed, and (50,594) were injured in the Gaza Strip as a result of the Israeli genocidal war since October 7th.
+https://nitter.net/QudsNen/status/1734988640906858589#m  12/13/23
+
+>BREAKING The Government Media Office: Journalists Ahmed Abu Abseh and Hanan Ayad were killed as a result of Israeli bombardments on the Gaza Strip, bringing the total number of killed journalists to (89) since the beginning of the war on Gaza.
+https://nitter.net/QudsNen/status/1734989169611444502#m  12/13/23
+
+>Soroka Hospital in Beersheba:Within 24 hours, we received 49 "Israeli" soldiers injured as a result of the battles in Gaza
+https://x.com/AoR3138/status/1735013547615085035?s=20  12/13/23
+
+>Israeli Channel 12 reported, this evening, Wednesday, The #Israeli occupation authorities are examining the possibility of deploying security personnel on the #Egyptian side of the Rafah crossing in order to ensure that members of the #Hamas movement do not “escape” or “smuggle” #Israeli hostages held by the resistance factions to #Egypt.
+https://nitter.net/ME_Observer_/status/1735015619341291772#m  12/13/23
+
+>Lebanon: Islamic Resistance: Our mujahideen targeted a gathering of Zionist occupation soldiers in the vicinity of the Al-Dhahira site with appropriate weapons.
+https://nitter.net/ME_Observer_/status/1734939919645061570#m  12/13/23
+
+>Urgent | Yedioth Ahronoth, citing sources in the Israeli army: It is impossible to destroy the Shujaiya battalion affiliated with Hamas by bombing from the air.
+https://twitter.com/AJABreaking/status/1734844545857139034  12/13/23
+
+>Urgent | Israeli Channel 13: Gantz believes that Israel must find an opportunity to move the negotiation process forward again
+https://twitter.com/AJABreaking/status/1735007290527187040  12/13/23
+
+>"Women, children and babies were killed, execution style, by Israeli forces while they were sheltering inside" a UN school.
+https://twitter.com/AlanRMacLeod/status/1734908969158619247  12/13/23
+
+>Two journalists killed in an Israeli airstrike on the Gaza Strip, bringing the total number of journalists killed by Israel since October the 7th to 89
+https://nitter.net/warfareanalysis/status/1735020273680928806#m  12/13/23
+
+>The average rate of children killed in modern war is 6 to 8% of the casualties. In Gaza, it's 42%
+https://nitter.net/LeeCamp/status/1734949675596173556#m  12/13/23
+
+>After murdering more than 17.000 people in 2 months including more than 5000 children and hundreds of United Nations workers and medical staff, Netanyahu is outraged with the international community and the International Criminal Court for accusing Israel of war crimes. 
+https://nitter.net/angeloinchina/status/1733106050671489030#m  12/8/23
+
+>Lebanon, dog victim of Zionists shelling
+https://nitter.net/angeloinchina/status/1733108019431661952#m  12/8/23
+
+>Palestinians trying to save a donkey who was buried in an airstrike
+https://nitter.net/jakeshieldsajj/status/1732862208047276276#m  12/7/23
+
+>Scandal-stained Israeli ‘rescue’ group fuels October 7 fabrications @MaxBlumenthal exposes the fabulism and corruption of ZAKA, a group founded by a serial rapist known as the "Haredi Jeffrey Epstein" Blinken and Biden repeatedly echo ZAKA's bogus tales
+https://nitter.net/TheGrayzoneNews/status/1732456680938504547#m  12/6/23
+
+>Josh Paul resigned from the State Dept over sending arms to Israel. “I have heard from actually so many hundreds of colleagues at this point who support what I did,” he says. “They are finding what is happening both a moral disaster and a policy disaster for the United States.”
+https://nitter.net/amanpour/status/1731745533474074663#m  12/4/23
