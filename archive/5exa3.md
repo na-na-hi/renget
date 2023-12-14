@@ -39,21 +39,23 @@
 ** Putting the previous versions here out of convenience**
 Model | Artist Wildcards | Tags | Changes
 ----: | :----: | :----: | :----: 
-[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV) | [e621 tags](https://pixeldrain.com/u/TyiryrZB)
+[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
 [a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | More artists; slightly better color
 [a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | ⬆️ | Better look even without tagging artist
 
 
 
 ### Comfyui
-- Connect your checkpoint to `Model sampling Discrete` then `RescaleCFG`
+- Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)
 	- sampling: V_prediction
+
+You can also take the image I have below and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
 
 ### Drag and drop starter workflows
 > ※ Will likely have to change the vae and lora
 Auto1111 | ComfyUI
 :----: | :----:
-![](https://files.catbox.moe/wyrzme.png)   | ![](https://files.catbox.moe/wzmv5u.png)
+![](https://files.catbox.moe/tihaoh.png)   | ![](https://files.catbox.moe/mojsq3.png)
 
 ### You don't want to use the method above?
 - Toggle refiner and set the checkpoint you want

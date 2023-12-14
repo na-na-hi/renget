@@ -146,7 +146,7 @@ Shortly after falling asleep, Hans woke up because of the door loudly slamming o
 
 "CALM THE FUCK DOWN!" Snapped Hans, only to get quickly embarrassed a moment after, "U- uh... S- sorry about that, what happened?"  
 
-Mr. Gible took a few deep breaths and went back to his usual calm demeanor, "What part of 'I fucked up' do you not understand, Hans?" he sighed, "I managed to get into the garden and tried to look through a window, but some blue thing with a smiley face came out of a pond and repeatedly said 'Chest Pain', i think it was calling out for someone! it must be a codename..."
+Mr. Gible took a few deep breaths and went back to his usual calm demeanor, "What part of 'I fucked up' do you not understand, Hans?" he sighed, "I managed to get into the garden and tried to look through a window, but some blue thing with a smiley face came out of a pond and repeatedly said 'Chest Pain', i think it was calling out for someone... It must be a codename!
 
 Hans gasped, "C- Codename!? B- But why would they use something like that?" 
 

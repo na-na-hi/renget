@@ -187,7 +187,7 @@ This is the bonsai part.
 For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten, Hieronymus, and Greg).
 Once you have more resources you can branch out to a wider roster.
 
-**You only need 2 healers and tanks at the start**. Because you need to use at most 2 teams in the missions, limit urself to just 2. Because their attack types don't matter you only need to swap around the DPS.
+**You only need 2 healers and tanks at the start**, since you need to use at most 2 teams in the missions. Their attack types don't matter either, you only need to use the right DPS.
 
 A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
 
@@ -218,32 +218,32 @@ From 3* to UE50 it costs 2400 elephs.
 No. At most you brick yourself by levelling the worse characters.
 
 ## Normal and Hard missions
-Puzzle gaming. Look at youtube videos or [use the wiki](https://bluearchive.wiki/wiki/Missions) if you don't know how to solve a puzzle.
+Puzzle gaming. Look at youtube videos (e.g. "Blue Archive Mission 3-5") or [use the wiki](https://bluearchive.wiki/wiki/Missions) if you don't know how to solve a puzzle (lol).
 
-**Your goal is to go as far as you can in the normal mode for the cafe upgrades.** They drop every 3 areas at mission 5 and boost your daily AP recovery (this means 3-5, 6-5, ...). It's fine to 1\* a few missions, first time rewards don't care about ur stars. 
+**Your goal is to go as far as you can in the normal mode for the cafe upgrades.** They drop every 3 areas at mission 5 and boost your daily AP recovery (this means 3-5, 6-5, ...). It's fine to 1\* a few missions, first time rewards only need the clear. 
 
 **Don't forget to actually upgrade your cafe and max out the comfort level.**
 ![Ranking up the cafe](https://i.imgur.com/WgMiJXG.png)
 (you can press that button) 
 More comfort = more AP/energy. 
 
-Recommended levels are a meme, ignore them. You can clear missions 10-20 levels underneath the recommended levels. 
+Recommended levels are a meme for missions, ignore them. You can beat missions 10-20 levels underneath the recommended levels. 
 
 You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
 If you have trouble with the boss you can charge ur EX bar to 10 the battle before.
 
-A personal recommendation is to use Tactical Supports. They can carry a lot of the missions by themselves. 
+I'd recommendat using Tactical Supports. They can carry a lot of the missions by themselves. 
 
 If you hit a limit with your progression, switch over from normal to hard mode. Do the same until you hit a wall there. Alternatively, drain ur AP and get a few extra levels (1 AP = 1 XP) before trying the same stage again.
 You can refresh a hard node once a day for 3 extra sweeps. This is handy during rateup events, but generally not advised as it costs pyros. 
-Farming a hard node for equipments is better than the normal counterpart.
+Farming a hard node for equipments is better than its normal counterpart.
 Don't ever farm for BDs, the drop chance (2-5%) is abysmal. 
 
-Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. t5 boots drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. See below for an example. 
+Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. t5 boots drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. Example:
 ![19-1 drop rate](https://i.imgur.com/Z8Ws5DJ.png) 
 (drop chance for 19-1) 
 
-It's better to farm the equipment on their respective tier instead of trying to farm a higher one. E.g. don't farm t6 watch stages if you're trying to level up their watch from t3 to t4. 
+It's better to farm the equipment on their respective tier instead of trying to farm a higher one. E.g. don't farm t6 watch stages if you're trying to level up their watch from t3 -> t4. 
 
 >Should I swipe my stages?
 Yes.

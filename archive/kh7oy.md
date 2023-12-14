@@ -7,9 +7,6 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Super Mario Bros Wonder has officially released!
-「!」 WarioWare Move It has officially released!
-「!」 Mario Kart 8 Deluxe Booster Course Pass Waves have finally finished!
 「!」 Super Mario RPG REMAKE has officially released!
 
 Future Release Dates:

@@ -9,6 +9,7 @@
 **Calculators**
 * [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM)
 * [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0)
+* [Damage Calculator](https://docs.google.com/spreadsheets/d/1sWfIs9IsRT6PQ7vhSC-jWs8u44vjShGatV6YCFaUXQ4)
 * [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
 * [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
 * [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas)
@@ -170,4 +171,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/10-11/23: Added Limbus Company Unused Cutscene link. Added A Better Tutorial for Limbus Company link.
 11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive.
 11/15/23: Updated PMkots archive. ![헤](https://files.catbox.moe/207ryd.png)
-11/27/23: Moved MD2H link to outdated section. ![lol&](https://files.catbox.moe/7dmu76.png)
+11/27/23: Moved MD2H link to outdated section.
+12/13/23: Added new damage calcuator link. ![lol&](https://files.catbox.moe/7dmu76.png)

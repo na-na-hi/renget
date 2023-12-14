@@ -79,9 +79,9 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Dense Rocks x3 | Does 2 true damage to a target, is lobbed.
+1. Dense Rocks x2 | Does 2 true damage to a target, is lobbed.
 2. Ban Seed | Causes Disabled upon consumption
-3. Sleep Seed | Causes Sleep on consumption.
+3. Tasty Honey | Gives +20 IQ points to any type upon consumption. Just like it says in the name.
 4. Apple | Gives +2 to any outside-combat-action.
 
 **STORAGE (2 slots)**

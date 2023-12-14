@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 9th December. All dates dd/mm.
+!!! Note Last updated: 14th December. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -106,7 +106,6 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-1674 | BlueB@lled | Open as of 01/12
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 29/11
 
@@ -120,6 +119,7 @@ Club ID | Club Name | Club Status
 343 | M8ingPressers | Full as of 03/04
 777 | Soras5Head | Full as of 25/03
 984 | Sneed | Full as of 03/04
+1674 | BlueB@lled | Full as of 10/12
 2065 | paizuri | Full as of 03/04
 2188 | ChibiThighs | Full as of 14/05
 3640 | DFC | Full as of 10/11

@@ -4,6 +4,9 @@
 !!! danger Disclaimer
 	Do not repost this guide on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance](https://files.catbox.moe/gyofcn.webp)
 [TOC]
+!!! warning Disclaimer 2
+    hnnnghhh danteh i havent updated the guide yet to reflect the new mirror dungeon 3 update hnnghhh, all mirror dungeons have been merged into one and there is no hard mode until next weeks update, i dont think the rewards have changed though hnnnghhh
+
 ## FAQ
 **1. What is Limbus Company?**
 Ligma Company is a game developed by Project Type-Moon, the developers of Colonoscopy Corporation and Legend of Ruinia. It's about reimagined literary characters living in a dystopian hellhole called ~~South Korea~~ The City, hired by the titular Sugma Company to scour the ruins in search of Golden Boughs for an as-yet unspecified goal, while driving a bus that runs on human lives.
@@ -386,3 +389,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/23-24/23: Updated for new chapter part.
 11/27/23: Added preface to farming section and updated both tier lists.
 12/8/23: Fixed and updated some minor things. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/13/23: hnnghh danteehhh please wait while i update the mirror dungeon sections im eepy
