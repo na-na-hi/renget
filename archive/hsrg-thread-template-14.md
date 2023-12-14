@@ -32,11 +32,12 @@ https://www.hoyolab.com/article/23404231
 https://www.hoyolab.com/article/23404282
 
 \>New Drip Marketing:
-\>"Extraterrestrial Satellite Communication" Black Swan (5* Wind Nihility)
+\>"Extraterrestrial Satellite Communication" Black Swan (5\* Wind Nihility)
 https://www.hoyolab.com/article/23554661
-
-\>Developer Radio: Penacony Special Edition
-https://www.hoyolab.com/article/23554261
+\>"Extraterrestrial Satellite Communication" Sparkle (5\* Quantum Harmony)
+https://www.hoyolab.com/article/23589650
+\>"Extraterrestrial Satellite Communication" Misha (4* Ice Destruction)
+https://www.hoyolab.com/article/23590332
 
 \>Daily check-in (With a new 7-day Check-in event)
 https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311

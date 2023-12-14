@@ -1,7 +1,7 @@
 -> [Main page](https://rentry.org/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
--> ![](https://files.catbox.moe/ae3h71.png)  <-
+-> ![](https://files.catbox.moe/key7pv.png)  <-
 ##->  XMLK's Adventure Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 

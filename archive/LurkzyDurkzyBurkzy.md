@@ -2,8 +2,6 @@
 ##->Updated - 14 Dec (Furbo)<-
 !!! note Updates 
 	->14 Dec - Improvements to NSFW handling. Instructions regarding prose usage has been added.<-
-!!! danger 
-	->Uploaded the wrong updated preset. If you've downloaded my Furbo preset within the last 3-4 hours of the last edit of this Rentry, please re-download. Thanks! <3<-
 ***
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 
@@ -18,7 +16,7 @@
 ->[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)<-
 ***
 ##->Furbo Preset<-
-->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/3j3ru2.zip)<-
+->[![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/7h5gge.zip)<-
 ***
 ##->Comprehensive guide on importing presets into ST<-
 ->![Guide](https://files.catbox.moe/izgdto.png)<-

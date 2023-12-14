@@ -987,6 +987,8 @@ The Proposal for a Showdown (Yamata, 108 Stars Gang): https://rentry.org/h23ps
 Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
 https://rentry.org/xu8f5e
 Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang): https://rentry.org/764po9
+Cold Comfort (Capture Cloth, Bakeneneko): https://rentry.org/wg6z5 
+First Battle - The Heat of Combat (Orochi, 108 Stars Gang): https://rentry.org/rxc93
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

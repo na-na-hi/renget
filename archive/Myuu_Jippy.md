@@ -1,4 +1,5 @@
 #Heyaa~ Tap here for [Claude!](https://www.rentry.org/MyuuTastic)
+#For [Gemini](https://rentry.org/Myuu-Gemini)
 
 #Myuu's GPT Prompts.
 ->==Only GPT turbo for now! Will make for others.==<-

@@ -12,85 +12,60 @@ Negative:
 nsfw,
 (worst quality, low quality, normal quality:1.4)
 ```
+`Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 6, Seed: 8675309, Size: 512x768`
+!!! warning 
+	a5a, a5b
+-> ![](https://files.catbox.moe/7hmzl6.png) <-
+> by 40hara, by abmayo , by airi mii , by akagi \(fmttps\) , by akamoku , by alina becker, by alp , by an yasuri , by animeflux , by anyannko 
+
+-> ![](https://files.catbox.moe/q6dlsr.png) <-
+> by aono shimo , by artst digital art , by artst illustration , by arutera , by asada hachi , by ashraely , by aslindsamure , by asutora , by atdan, by atte nanakusa 
+
+-> ![](https://files.catbox.moe/emumwk.png) <-
+> by avante92 , by axsen , by aztodio , by betabeet , by bikupan , by blue-senpai , by bluefield , by bob \(bobtheneet\) , by boris \(noborhys\) , by brmameng 
+ 
+-> ![]() <-
+> 
+
+-> ![]() <-
+> 
+
+-> ![]() <-
+> 
+
+-> ![]() <-
+> 
+
+-> ![]() <-
+> 
+
+-> ![]() <-
+> 
 
 
+!!! warning 
+	a5
 -> ![](https://files.catbox.moe/e13ru3.png) <-
-by aquacos
-by haneame
-by nikumikyo
-by fumihiko \(fu mihi ko\)
-by yakou
-by merunyaa
-by kakure eria
-by dikko
-by casino \(casinoep\)
-by kase daiki
+> by aquacos, by haneame, by nikumikyo, by fumihiko \(fu mihi ko\), by yakou, by merunyaa, by kakure eria, by dikko, by casino \(casinoep\), by kase daiki 
+
 -> ![](https://files.catbox.moe/qa6u3m.png) <-
-by hana bunny
-by asakuraf
-by vahn yourdoom
-by unfairr
-by ohisashiburi
-by kukie-nyan
-by niliu chahui
-by hews
-by bigrbear
-by dagashi \(daga2626\)
+> by hana bunny, by asakuraf, by vahn yourdoom, by unfairr, by ohisashiburi, by kukie-nyan, by niliu chahui, by hews, by bigrbear, by dagashi \(daga2626\)
+
 -> ![](https://files.catbox.moe/i50bag.png) <-
-by ru zhai
-by akasaai
-by metal owl \(aden12\)
-by chouzuki maryou
-by nekokoyoshi
-by varniskarnis
-by scottie \(phantom2\)
-by sciamano240
-by takomayuyi
-by waterring
+> by ru zhai, by akasaai, by metal owl \(aden12\), by chouzuki maryou, by nekokoyoshi, by varniskarnis, by scottie \(phantom2\), by sciamano240, by takomayuyi, by waterring
+
 -> ![](https://files.catbox.moe/4jjov3.png) <-
-by murakami suigun
-by kantoku
-by shirogane
-by tokyo0131
-by sunhyun
-by deaver
-by afrobull
-by fantasyfactory
-by nassukun
-by nyantcha
+>by murakami suigun, by kantoku, by shirogane, by tokyo0131, by sunhyun, by deaver, by afrobull, by fantasyfactory, by nassukun, by nyantcha
+
 -> ![](https://files.catbox.moe/ofb11i.png) <-
-by rin yuu
-by toraishi 666
-by jeneral
-by suujiniku
-by aza miyuko
-by dishwasher1910
-by sabamen
-by yuano
-by b-ginga
-by kairunoburogu
+>by rin yuu, by toraishi 666, by jeneral, by suujiniku, by aza miyuko, by dishwasher1910, by sabamen, by yuano, by b-ginga, by kairunoburogu
+
 -> ![](https://files.catbox.moe/15g4lg.png) <-
-by kou mashiro
-by donguri suzume
-by mikan \(chipstar182\)
-by lillly
-by sage joh
-by ke-ta
-by magowasabi
-by yuuki hagure
-by amashiro natsuki
-by ishikei
+> by kou mashiro, by donguri suzume, by mikan \(chipstar182\), by lillly, by sage joh, by ke-ta, by magowasabi, by yuuki hagure, by amashiro natsuki, by ishikei
+
 -> ![](https://files.catbox.moe/349t9u.png) <-
-by jadf
-by shennai misha
-by seraziel
-by pottsness
-by belko
-by kaede \(sayappa\)
-by nagishiro mito
-by pepper0
-by as109
-by tonarikeru
+> by jadf, by shennai misha, by seraziel, by pottsness, by belko, by kaede \(sayappa\), by nagishiro mito, by pepper0, by as109, by tonarikeru
+
 -> ![](https://files.catbox.moe/hy67v0.png) <-
 by felutiahime
 by cutesexyrobutts
