@@ -7,6 +7,8 @@
 > Please, don't forget the "tan takattatotan" and the "la lalalala".
 
 > Deadline is for mid-December. I'm thinking of releasing the track on 12/22, the day the anime ended.
+!!! warning
+	Last call for submissions. Please send your vocal tracks before this Wednesday, December 20th.
 Song, Instrumental and Lyrics: https://files.catbox.moe/2tvbzl.zip (41.7 MB)
 
 ***

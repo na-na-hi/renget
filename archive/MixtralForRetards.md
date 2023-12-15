@@ -5,10 +5,11 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 **Grab latest Kobold:**
 >https://github.com/LostRuins/koboldcpp/releases/
 
-**Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality loss really starts dropping off under 4bit.:
 
-![Image description](https://i.imgur.com/AA1xKHV.png)
+**Grab the model**
+Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly with Kobold and make the model schizo, use something like the Q5_0 instead.) If you can fit the entire thing into VRAM then speeds will be much better but quality loss really starts dropping off under 4bit.:
+
+![](https://i.imgur.com/AA1xKHV.png)
 
 >https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/tree/main
 
@@ -20,13 +21,31 @@ Prompt processing is not optimized for moe yet so: >Turn BLAS batch size to "Don
 
 **Disable repetition penalty, frequency penalty and don't use mirostat on whatever frontend your using such as SillyTavern.**
 
-**Use Alpaca formatting.**
-Its official formatting actually performs worse than alpaca.
+**Use Alpaca or its official formatting.**
+Its official formatting actually performs worse than alpaca according to some, you can try both. 
 
+Official:
+INPUT: 
+" </s> [INST]" 
+OUTPUT: 
+" [/INST]"
+Without the quotation marks and make sure the spaces are respected.
 
-"### Instruction: | ### Response:" Without the quotation marks and separator. Instruction for input, Response for output.
+Alpaca:
+INPUT: 
+"### Instruction: "
+OUTPUT: 
+"### Response: " 
+Without the quotation marks and make sure the spaces are respected.
+
+Some suggested settings for Mixtral creative use. For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you could probably find a balance between creative and correct. You can increase context up to 32K if you have the ram. Explanation here: >https://desuarchive.org/g/thread/97905814/#q97911503
+![](https://i.imgur.com/2Q3J9VQ.png)
 
 It will work just like that but for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
+
+
+Btw, llama.cpp apparently recently got a x3 speedup for mixtral if you want to use that instead: >https://github.com/ggerganov/llama.cpp
+
 
 **Mixtral common pratfalls:**
 Using 2bit (at least atm, maybe that will eventually change.) 
@@ -35,8 +54,11 @@ Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtra
 
 Using rep penalty / frequency penalty, same as above.
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. Begin them with:
-"### Instruction: | ### Response:" Without the quotation marks and separator. Instruction before the users part and response before the characters.
+**Silly Tavern being Silly Tavern**
+
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. Begin them the same as the formatting section depending if is supposed to be you instructing (INPUT) or the model responding (OUTPUT).
+
+Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 
 **Mixtral Examples:**
 >https://imgur.com/a/YvekXt8

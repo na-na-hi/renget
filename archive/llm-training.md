@@ -3,16 +3,7 @@
 
 ->**Written by [Alpin](https://github.com/AlpinDale)**<-
 ->**Inspired by [/hdg/'s LoRA train rentry](https://rentry.org/lora_train)**<-
-!!!warning This guide will be updated gradually, as we'll move the trainer from the Pygmalion trainer to [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl). 
-
-The Table of Content on rentry is terrible, so I'll be linking to the different main sections here:
-
-- [Training from Scratch](https://rentry.org/llm-training#training-from-scratch)
-- [Native Fine-Tuning](https://rentry.org/llm-training#native-fine-tuning)
-- [LoRA](https://rentry.org/llm-training#low-rank-adaptation-lora_1)
-- [QLoRA](https://rentry.org/llm-training#qlora)
-- [Training Hyperparameters](https://rentry.org/llm-training#training-hyperparameters)
-- [Interpreting the Learning Curves](https://rentry.org/llm-training#interpreting-the-learning-curves)
+!!!warning This guide is being slowly updated. We've already moved to the axolotl trainer.
 
 ---
 
@@ -22,27 +13,15 @@ The Table of Content on rentry is terrible, so I'll be linking to the different 
 
 ## The Basics
 
+The most common architecture used for language modeling is the Transformer architecture, introduced by Vaswani et al. in the famous paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762). We won't go into the specifics of the architecture here, as we'd have to discuss all the older technologies that led to and contributed to its creation. Transformers allow us to train Large Language Models (LLMs) with incredible reasoning capabilities, while keeping the architecture simple enough for a novice in machine learning to get started on training/playing around with them.
 
-A modern Large Language Model (LLM) is trained using the [Transformers](https://github.com/huggingface/transformers) library, which leverages the power of the [Transformer network architecture](https://arxiv.org/abs/1706.03762). This architecture has revolutionized the field of natural language processing and is widely adopted for training LLMs. Python, a high-level programming language, is commonly used for implementing LLMs, making them more accessible and easier to comprehend compared to lower-level frameworks such as [OpenXLA's IREE](https://github.com/openxla/iree) or [GGML](https://github.com/ggerganov/ggml). The intuitive nature of Python allows researchers and developers to focus on the logic and algorithms of the model without getting caught up in intricate implementation details.
+The most common language used for training and building Transformer models is Python, a very high-level (i.e. further away from raw machine code) language. This makes it easy for the layman to get familiar with the process. The most popular library in use is the [HuggingFace Transformers](https://github.com/huggingface/transformers), which serves as the backbone of almost every LLM trainer today. 
 
-This rentry won't go over pre-training LLMs (training from scratch), but rather fine-tuning and low-rank adaptation (LoRA) methods. Pre-training is prohibitively expensive, and if you have the compute for it, you're likely smart enough not to need this rentry at all.
+LLMs are, in essence, a lossy form of text compression. We create tensors (multi-dimensional matrices) with random values and parameters, then feed them an exorbitant amount of text data (in terabytes!) so they can learn the relationship between all the data and recognize patterns between them. All these patterns are stored in the tensors we've randomly initialized as probabilities - the model learns how probable it is for a specific word to be followed by another one, and so on. A very high-level definition of LLMs would be "compressing the probability distribution of a language, such as English, into a collection of matrices."
 
-### Using LLMs
+For example, if you input: "How are" into the LLM, it'll calculate how probable the next word is. For example, it may assign a probability of 60% to "you?", 20% "things", and so on.
 
-There are quite a few guides for using LLMs either locally on your PC or using a cloud computing service (often for a fee). Transformers models hosted on [HuggingFace](https://huggingface.co) are the easiest to run, and several UIs offer inference for them:
-
-- [Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)
-- [KoboldAI](https://github.com/henk717/KoboldAI)
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-
-The compute requirement for the model can be calculated by multiplying the amount of space your model occupies on your hard disk by a factor of 1.2. Source: [Transformer Math 101](https://blog.eleuther.ai/transformer-math/#total-inference-memory)
-
-For instance, let's consider the LLaMA 7B model, which occupies approximately 13.5 GB of storage space. To estimate the required VRAM for inference, we can multiply this value by 1.2, resulting in approximately 16.2 GB. This additional 20% accounts for overhead and the memory necessary for context token processing. It's important to note that the overhead will vary significantly based on the model's context size. The estimation assumes a model with an `n_ctx` (context size) of 2048.
-
-In traditional attention mechanisms, the memory usage for context scales quadratically. However, newer techniques such as [Flash Attention](https://arxiv.org/abs/2205.14135) allow for linear scaling, reducing the memory footprint.
-
-**Further reading**:
-- [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/)
+The random initialization discussed above is largely not applicable to us, as it's *very* expensive (we're talking about millions of dollars for the larger models). This rentry will go over *fine-tuning* the models - that is, taking a pre-trained model and feeding it a small amount of data, usually a few MBs, to align its behaviour towards whatever downstream task you have in mind. For example, if you want a coding assistant model, you would fine-tune the model on coding examples, and so on.
 
 ### The Transformer architecture
 
@@ -59,15 +38,15 @@ The best source is, of course, the [Attention Is All You Need](https://arxiv.org
 ***
 ## Training Basics
 
-There's essentially three (3) approaches to training LLMs: pre-training, fine-tuning, and LoRA. 
+There's essentially three (3) approaches to training LLMs: pre-training, fine-tuning, and LoRA/Q-LoRA.
 
 ### Pre-training
 
-Pre-training involves several steps. First, a massive dataset of text data, often in terabytes, is gathered. Next, a model architecture is chosen or created specifically for the task at hand. Additionally, a tokenizer is trained to appropriately handle the data, ensuring that it can efficiently encode and decode text. The dataset is then pre-processed using the tokenizer's vocabulary, converting the raw text into a format suitable for training the model. This step involves tokenizing the text, mapping tokens to their corresponding IDs, and incorporating any necessary special tokens or attention masks. Once the dataset is pre-processed, it is ready to be used for the pre-training phase.
+Pre-training involves several steps. First, a massive dataset of text data, often in terabytes, is gathered. Next, a model architecture is chosen or created specifically for the task at hand. Additionally, a tokenizer is trained to appropriately handle the data, ensuring that it can efficiently encode and decode text. The dataset is then pre-processed using the tokenizer's vocabulary, converting the raw text into a format suitable for training the model. This step involves mapping tokens to their corresponding IDs, and incorporating any necessary special tokens or attention masks. Once the dataset is pre-processed, it is ready to be used for the pre-training phase.
 
 During pre-training, the model learns to predict the next word in a sentence or to fill in missing words by utilizing the vast amount of data available. This process involves optimizing the model's parameters through an iterative training procedure that maximizes the likelihood of generating the correct word or sequence of words given the context.
 
-To accomplish this, the pre-training phase typically employs a variant of the self-supervised learning technique. The model is presented with partially masked input sequences, where certain tokens are intentionally hidden, and it must predict those missing tokens based on the surrounding context. By training on massive amounts of data in this manner, the model gradually develops a rich understanding of language patterns, grammar, and semantic relationships. This specific approach is for [Masked Language Modeling](https://huggingface.co/docs/transformers/main/tasks/masked_language_modeling). The most commonly used method, however, is [Causal Language Modeling](https://huggingface.co/docs/transformers/main/tasks/language_modeling). Unlike masked language modeling, where certain tokens are masked and the model predicts those missing tokens, causal language modeling focuses on predicting the next word in a sentence given the preceding context.
+To accomplish this, the pre-training phase typically employs a variant of the self-supervised learning technique. The model is presented with partially masked input sequences, where certain tokens are intentionally hidden, and it must predict those missing tokens based on the surrounding context. By training on massive amounts of data in this manner, the model gradually develops a rich understanding of language patterns, grammar, and semantic relationships. This specific approach is for [Masked Language Modeling](https://huggingface.co/docs/transformers/main/tasks/masked_language_modeling). The most commonly used method today, however, is [Causal Language Modeling](https://huggingface.co/docs/transformers/main/tasks/language_modeling). Unlike masked language modeling, where certain tokens are masked and the model predicts those missing tokens, causal language modeling focuses on predicting the next word in a sentence given the preceding context.
 
 This initial pre-training phase aims to capture general language knowledge, making the model a proficient language encoder. But, unsurprisingly, it lacks specific knowledge about a particular task or domain. To bridge this gap, a subsequent fine-tuning phase follows pre-training.
 
@@ -77,7 +56,7 @@ This initial pre-training phase aims to capture general language knowledge, maki
 
 The process of fine-tuning involves several key steps. Firstly, a task-specific dataset is gathered, consisting of labeled examples relevant to the desired task. For example, if the task is instruct-tuning, a dataset of instruction-response pair is gathered. The fine-tuning dataset size is significantly smaller than the sets typically used for pre-training.
 
-Next, the pre-trained model is initialized with its previously learned parameters and architecture. The model is then trained on the task-specific dataset, optimizing its parameters to minimize a task-specific loss function. This loss function quantifies the difference between the model's predictions and the true labels provided in the dataset.
+Next, the pre-trained model is initialized with its previously learned parameters. The model is then trained on the task-specific dataset, optimizing its parameters to minimize a task-specific loss function (i.e. how "off" the model was from the desired result). 
 
 During fine-tuning, the parameters of the pre-trained model are adjusted using gradient-based optimization algorithms such as [stochastic gradient descent (SGD)](https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31) or [Adam](https://arxiv.org/abs/1412.6980). The gradients are computed by backpropagating the loss through the model's layers, allowing the model to learn from its mistakes and update its parameters accordingly.
 
@@ -87,24 +66,20 @@ To enhance the fine-tuning process, additional techniques can be employed, such 
 
 Fine-tuning is computationally expensive, requiring hundreds of GBs of VRAM for training multi-billion parameter models. To solve this specific problem, a new method was proposed: Low-Rank Adaptation. Compared to fine-tuning OPT-175B with Adam, LoRA can reduce the number of trainable parameters by 10,000 times and the GPU memory requirements by over 3 times. Refer to the paper [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) and the HuggingFace [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) blog post.
 
-A 3x memory requirement reduction is still in the realm of unfeasible for the average consumer. Fortunately, a new LoRA training method was introduced very recently: Quantized Low-Rank Adaptation (QLoRA). It leverages the [bitsandbytes](https://github.com/timdettmers/bitsandbytes) library for on-the-fly and near-lossless quantization of language models and applies it to the LoRA training procedure. This results in **massive** reductions in memory requirement - enabling the training of models as large as 65 billion parameters on 2x NVIDIA RTX 3090s! For comparison, you would normally require over 16x A100-80GB GPUs for fine-tuning a model of that size class; the associated cost would be tremendous. 
+A 3x memory requirement reduction is still in the realm of unfeasible for the average consumer. Fortunately, a new LoRA training method was introduced: Quantized Low-Rank Adaptation (QLoRA). It leverages the [bitsandbytes](https://github.com/timdettmers/bitsandbytes) library for on-the-fly and near-lossless quantization of language models and applies it to the LoRA training procedure. This results in **massive** reductions in memory requirement - enabling the training of models as large as 70 billion parameters on 2x NVIDIA RTX 3090s! For comparison, you would normally require over 16x A100-80GB GPUs for fine-tuning a model of that size class; the associated cost would be tremendous.
 
 This next sections of this rentry will focus on the fine-tuning and LoRA/QLoRA methods.
 ***
 
-## Training from Scratch
-
-[Weights and Biases](https://wandb.ai) very recently released a whitepaper guide for training LLMs from scratch. You can read it [here](https://files.catbox.moe/6x8ct9.pdf).
-
-## Native Fine-tuning
+##  Fine-tuning
 
 As explained earlier, fine-tuning can be expensive, depending on the model size you choose. You typically want at least 6B/7B parameters. We'll go through some options for acquiring training compute.
 
 ### Training Compute
 
-Depending on your model and dataset size, the memory requirement will vary. You can, once again, refer to EleutherAI's [Transformer Math 101](https://blog.eleuther.ai/transformer-math) blog post for detailed, but easy to understand, calculations. 
+Depending on your model and dataset size, the memory requirement will vary. You can refer to EleutherAI's [Transformer Math 101](https://blog.eleuther.ai/transformer-math) blog post for detailed, but easy to understand, calculations. 
 
-You will want to fine-tune a model of *at least* the 6B/7B class. Some popular options are [GPT-J 6B](https://huggingface.co/EleutherAI/gpt-j-6b), [LLaMA 7B](https://huggingface.co/huggyllama/llama-7b), [Pythia-6.9B DeDuped](https://huggingface.co/EleutherAI/pythia-6.9b-deduped), etc. This size class typically requires memory in the 160~192GB range. Your options, essentially, boil down to:
+You will want to fine-tune a model of *at least* the 7B class. Some popular options are [Llama-2 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf) and [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1), etc. This size class typically requires memory in the 160~192GB range. Your options, essentially, boil down to:
 
 - Renting GPUs from cloud services; e.g. [Runpod](https://runpod.io), [VastAI](https://vast.ai), [Lambdalabs](https://lambdalabs.com), and [Amazon AWS Sagemaker](https://aws.amazon.com/sagemaker/).
 Out of the four examples, VastAI is the cheapest (but also the least reliable), while Amazon Sagemaker is the most expensive. I recommend using either Runpod or Lambdalabs. 
@@ -127,7 +102,7 @@ You'll want to outline a structure for your dataset. Essentially, you want:
 
 - **Data Diversity**: You don't want your models to *only* do one very specific task. In our assumed use-case, we're training a chat model, but this doesn't mean the data would only be about one *specific* type of chat/RP. You will want to diversify your training samples, include all kinds of scenarios so that your model can learn how to generate outputs for various types of input.
 
-- **Dataset size**: Unlike LoRAs or Soft Prompts, you'll want a relatively large amount of data. This is, of course, not on the same level as pre-training datasets. As a rule of thumb, make sure you have **at least** 100 MiB of data for your fine-tune. It's incredibly difficult to overtrain your model, so it's always a good idea to stack more data. 
+- **Dataset size**: Unlike LoRAs or Soft Prompts, you'll want a relatively large amount of data. This is, of course, not on the same level as pre-training datasets. As a rule of thumb, make sure you have **at least** 10 MiB of data for your fine-tune. It's incredibly difficult to overtrain your model, so it's always a good idea to stack more data. 
 
 - **Dataset quality**: The quality of your data is incredibly important. You want your dataset to reflect how the model should turn out. If you feed it garbage, it'll spit out garbage.
 
@@ -230,158 +205,40 @@ FROM foo;
 >>>
 ```
 
-### Clustering the dataset
-
-You can use clustering as an effective tool in achieving data diversity by grouping similar data points together and thus increasing the probability of creating diversity for the fine-tuning dataset. If you have a rather small dataset, you can ignore this step entirely. For absurdly large fine-tune datasets, it's important to apply clustering techniques to isolate unnecessary or noisy data from your overall dataset.
-
-The framing of the clustering problem would be different for each use-case. When you start your data clustering experiments, you'll have to figure out what variables you want to use. There's many ways to cluster data, so you'll have to decide on one that works the best. 
-
-The clustering problem is very difficult to implement. You should consider using the [K-means clustering](https://www.kernel-operations.io/keops/_auto_tutorials/kmeans/plot_kmeans_torch.html) techniques from PyTorch.
-
 
 ### Minimizing the noise
-The best language models are stochastic, which makes it difficult to predict their behaviour, even if the input prompt remains the same. This can, on occasion, result in low-quality and undesirable outputs. You will want to make sure your dataset is cleaned out of unwanted elements. This is doubly important if your data source is synthetic, i.e. generating by GPT-4/3. You might want to truncate or remove the mention of phrases such as "As an AI language model...", "harmful or offensive content...", "...trained by OpenAI...", etc. [This script](https://huggingface.co/datasets/ehartford/wizard_vicuna_70k_unfiltered/blob/main/optional_clean.py) by [ehartford](https://huggingface.co/ehartford) is a good filter for this specific task.
+The best language models are stochastic, which makes it difficult to predict their behaviour, even if the input prompt remains the same. This can, on occasion, result in low-quality and undesirable outputs. You will want to make sure your dataset is cleaned out of unwanted elements. This is doubly important if your data source is synthetic, i.e. generating by GPT-4/3. You might want to truncate or remove the mention of phrases such as "As an AI language model...", "harmful or offensive content...", "...trained by OpenAI...", etc. [This script](https://huggingface.co/datasets/ehartford/wizard_vicuna_70k_unfiltered/blob/main/optional_clean.py) by [ehartford](https://huggingface.co/ehartford) is a good filter for this specific task. You can also refer to the [gptslop](https://github.com/AlpinDale/gptslop) repo.
 
-### Preparing dataset for tokenization
-Now, you'll want have to decide how you want to train the model: supervised or unsupervised. For unsupervised training, you'll generally add your dataset to a jsonline file (2048 tokens per line, depending on the base model), and place each sequence inside a `text` key value. If you're doing supervised training, you'll generally want two keys instead: `input` and `output`, though this is can be an arbitrary name. The `input` would act as the prompt you'll be giving the model, and the `output` would be what the model is expected to generate when faced with such an input. 
 
-Once you're done, save your dataset to a `.jsonl` file.
+### Starting the training run
 
-### Generating train and validation splits
-Not all training scripts require doing this, as they usually generate the validation split automatically. Some, however, might require this step (such as the [PygmalionAI training code](https://github.com/PygmalionAI/training-code). 
+We will use the [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) trainer for fine-tuning, as it's simple to use and has all the features we need.
 
-As a general rule of thumb, you should split off 0.1% or 0.01% (depending on how large your dataset is) of your data to use as the validation set. Here's a sample code for splitting your dataset:
-```py
-import random
-import argparse
-import jsonlines
+If you're using cloud computing services, like RunPod, you likely have all the requirements necessary. 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Split data into training and validation sets.")
-    parser.add_argument("--input", type=str, help="Input file to split.")
-    parser.add_argument("--split_ratio", type=str, help="Ratio of data to use for training and validation sets in the format 'train_ratio,val_ratio'")
-    args = parser.parse_args()
+1. Clone the repository and install requirements:
+```sh
+git clone https://github.com/OpenAccess-AI-Collective/axolotl && cd axolotl
 
-    # Parse the split ratios
-    try:
-        train_ratio, val_ratio = [float(x) for x in args.split_ratio.split(",")]
-    except ValueError:
-        print("Invalid split_ratio format. Please use 'train_ratio,val_ratio'")
-        exit()
-
-    # Check that the ratios are valid
-    if train_ratio <= 0 or val_ratio <= 0:
-        print("Invalid ratios. train_ratio and val_ratio must be greater than 0.")
-        exit()
-
-    total_ratio = train_ratio + val_ratio
-
-    with jsonlines.open(args.input, 'r') as fin, \
-            jsonlines.open("train.jsonl", 'w') as train_out, \
-            jsonlines.open("val.jsonl", 'w') as val_out:
-        for line in fin:
-            r = random.uniform(0, total_ratio)
-            if r < train_ratio:
-                train_out.write(line)
-            else:
-                val_out.write(line)
-
+pip3 install packaging
+pip3 install -e '.[flash-attn,deepspeed]'
 ```
-Save this as a python file, and run it with the command `python3 foobar.py --input /path/to/dataset.jsonl --split_ratio 0.99,0.01`. This should give you two files: `train.jsonl` and `val.jsonl`. The validation set is randomly selected from the sequences in the dataset file.
 
-### Tokenizing the dataset
-Depending on what training code you use, you might not need to do this step. Some, though, require a pre-processed dataset that is converted to Apache PyArrow format. One example is the [PygmalionAI training code](https://github.com/PygmalionAI/training-code). The reason for this is typically because the dataset is too big, and you don't want to run the processing step every time you restart a run.
+This will install axolotl, and then we're ready to begin finetuning.
 
-Let's assume you're using the Pygmalion training code. Once you have your train and validation splits, clone the training code `git clone https://github.com/PygmalionAI/training-code`, install the requirements by running `pip install -r requirements.txt` inside the cloned directory. Assuming your base model is RedPajama 3B, you'll run:
+Axolotl takes all the options for training in a single `yaml` file. There are already some sample configs in the `examples` directory, for various different models.
+
+For this example, we'll train the Mistral model using QLoRA method, which should make it possible on a single 3090 GPU. To start the run, simply execute this command:
 
 ```sh
-python3 ./preparation/tokenize_data.py \
-  --input-file '/path/to/train.jsonl' \
-  --output-file '/path/to/train.arrow' \
-  --tokenizer-path 'togethercomputer/RedPajama-INCITE-Base-3B-v1' \
-  --max-length 2048
-
-python3 ./preparation/tokenize_data.py \
-  --input-file '/path/to/eval.jsonl' \
-  --output-file '/path/to/eval.arrow' \
-  --tokenizer-path 'togethercomputer/RedPajama-INCITE-Base-3B-v1' \
-  --max-length 2048
+accelerate launch -m axolotl.cli.train examples/mistral/config.yml
 ```
+And congrats! You just trained Mistral! The example config uses a very small dataset, which should take very little time to train on. 
 
-This will produce two `.arrow` files in your specified output directory. Keep in mind that tokenized arrow files can take over 5x the amount of disk space jsonline files would. Another thing to note is that the tokenizer script in PygmalionAI training code assumes the `prompt` and `generation` keys instead of the more traditional `input` and `output`. You can either modify the training code by replacing instances of `prompt` with `input` and the same for the `generation`, or you could change the key names in your dataset instead.
+To use a custom dataset, you'll want to properly format it into a `JSONL` file. Axolotl takes many different formats, you can find examples [here](https://github.com/OpenAccess-AI-Collective/axolotl#dataset). You can then edit the `qlora.yml` file and point it to your dataset. The full explanation for all the config options are [here](https://github.com/OpenAccess-AI-Collective/axolotl#config), make sure you click on the expand button to see all of them!
 
-### Starting the fine-tune run
+You know how to train a model now, but let's go through some very important info in the next sections. We'll begin with explaining what LoRA actually is, and why it's effective.
 
-You're now ready to start fine-tuning. Let's assume, for the sake of simplicity, that you're fine-tuning [RedPajama 3B Base](https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1).  If you're not on Google TRC, you can use a single A100-80G. Model parallelism is incredibly difficult to get working, so you'll be the most comfortable with a single GPU. You can start a train run with the PygmalionAI code by running this script in the root `training-code/` directory:
-
-```sh
-#!/usr/bin/env bash
-
-export OMP_NUM_THREADS=4
-export WANDB_PROJECT="project-name"
-
-OUTPUT_DIR="/data/checkpoints/$WANDB_PROJECT"
-
-MODEL_NAME='EleutherAI/togethercomputer/RedPajama-INCITE-Base-3B-v1'
-TRAIN_DATASET="/data/$WANDB_PROJECT/train.arrow"
-EVAL_DATASET="/data/$WANDB_PROJECT/eval.arrow"
-
-BSZ=8
-
-accelerate launch \
-    './training/hf_trainer.py' \
-    --model_name_or_path "$MODEL_NAME" \
-    --train_file "$TRAIN_DATASET" \
-    --eval_file "$EVAL_DATASET" \
-    --output_dir "$OUTPUT_DIR" \
-    --report_to "wandb" \
-    --do_train --do_eval \
-    --ddp_find_unused_parameters false \
-    --optim 'adamw_torch_fused' \
-    --seed 42 --data_seed 42 \
-    --logging_first_step true --logging_steps 1 \
-    --dataloader_num_workers 1 \
-    --per_device_train_batch_size "$BSZ" --per_device_eval_batch_size "$BSZ" \
-    --fp16 true \
-    --evaluation_strategy "steps" --eval_steps 128 \
-    --save_strategy "steps" --save_steps 128 \
-    --save_total_limit 2 \
-    --gradient_accumulation_steps 8 \
-    --learning_rate 1.0e-5 \
-    --lr_scheduler_type "cosine" \
-    --warmup_steps 64 \
-    --num_train_epochs 1 \
-    $@
-```
-
-**Explanation of each flag**:
-
-- `--model_name_or_path`: specify the model name (huggingface path) or local directory path.
-- `--train_file`: your pre-processed and tokenized training file.
-- `--eval_file`: your pre-processed and tokenized validation file.
-- `--output_dir`: the output directory for your model checkpoints.
-- `--report_to`: what service to use for real-time logging and reporting of the train run.
-- `--do_train`: perform train. 
-- `--do_eval`: perform evaluation using the validation dataset.
-- `--ddp_find_unused_parameters false`: disables distributed data parallel, ensuring all parameters are properly synced during backpropagation.
-- `--optim` what optimizer to use for training.
-- `--seed` and `--data_seed`: set a seed number for controlling the randomness in the train run, which includes shuffling the data, weight initialization, etc. Setting a seed ensures that good runs are reproducible. Set to `-1` for a random number to be used.
-- `--logging_first_step`: only prints logs for the first training step to prevent cluttering the console.
-- `--dataloader_num_workers`: the number of CPU cores to use for loading the datasets.
-- `--per_device_train_batch_size`: the batch size for the training process. Higher means more memory usage.
-- `--per_device_eval_batch_size`: the batch size for the evaluation process. Higher means more memory usage.
-- `--fp16`: the precision to use for training. In this case, float-point 16bits.
-- `--evaluation_strategy`: what strategy to use for evaluation. In this case, evaluated based on the specified number of steps.
-- `--save_strategy`: what strategy to use for saving model checkpoints. Useful for resuming an interrupted run from a saved checkpoint.
-- `--save_total_limit`: the total number of checkpoints to keep in the output directory.
-- `--gradient_accumulation_steps`: the number of gradient accumulation steps. You should set this as a factor of the total batch size.
-- `--learning_rate`:  specify the learning rate for the optim algorithm. Too high and it would be unstable, too low and the model might converge slowly or get stuck in suboptimal solutions.
-- `--lr_scheduler_type "cosine"`: set the scheduler for dynamically adjusting the learning rate. The 'cosine' or 'CosineAnnealingLR scheduler' reduces learning rate following a cosine-shaped schedule.
-- `--warmup_steps`: start the learning rate at a lower value than the specified one, and gradually reach the assigned value by the number of steps specified with this flag.
-- `--num_train_epochs`: how many times should the train run cycle through the data. 1 would mean once, and 2 would mean go through the entire dataset twice.
-
-
-This is not the end, though. You will need to pay close attention to the loss curves to diagnose whether your model is, at any point, underfit, overfit or well-fit. And for why did we choose those specific numbers in the flags above. Future sections will discuss these in detail, you can use the Table of Contents to navigate. If everything went smoothly, you'll have the latest checkpoint saved in your specified output directory. You can now upload your newly fine-tuned model to HuggingFace! Congrats.
 ***
 
 ## Low-Rank Adaptation (LoRA)
@@ -393,94 +250,6 @@ LoRA is a training method designed to expedite the training process of large lan
 3. Integration with Attention Layers: LoRA matrices are typically incorporated into the attention layers of the original model. Additionally, the adaptation scale parameter allows control over the extent to which the model adjusts to new training data.
 4. Memory efficiency: LoRA's improved memory efficiency opens up the possibily of running fine-tune tasks on less than 3x the required compute for a native fine-tune.
 
-### Overview
-The general flow of a LoRA fine-tune run is as follows:
-
-- Instantiate a base model.
-- Create a configuration (`LoraConfig`) where you define LoRA-specific parameters.
-- Wrap the base model with `get_peft_model()` to get a trainable `PeftModel`.
-- Train the `PeftModel` as you normally would train the base model.
-
-#### Loraconfig
-Allows you to control how LoRA is applied to the base model through the following parameters:
-- `r`: the rank of the update matrices, expressed in integers. Lower rank results in smaller update matrices with fewer trainable parameters.
-- `lora_target_modules`: The modules (for example, attention blocks) to apply to the LoRA update matrices.
-- `alpha`: LoRA scaling factor.
-- `bias`: Specifies if the `bias` parameters should be trained. Can be `none`, `all`, or `lora_only`. Not applicable to LLaMA models.
-- `modules_to_save`: List of modules apart from LoRA layers to be set as trainable and saved in the final checkpoint. These typically include model's custom head that is randomly initialized for the fine-tuning task.
-- `layers_to_transform`: List of layers to be transformed by LoRA. If not specified, all layers in `target_modules` are transformed.
-- `layers_pattern`: Pattern to match layer names in `target_modules`, if `layers_to_transform` is specified. By default `PeftModel` will look at common layer pattern (`layers, h, blocks,` etc.), use it for exotic and custom models.
-
-
-
-### The Dataset
-The dataset gathering process is very similar to [the process for a full fine-tune](https://rentry.org/llm-training#gathering-a-dataset). Unlike a fine-tune, you could get away with less training samples, of course. You can refer to the [native fine-tuning guide](https://rentry.org/llm-training#fine-tuning_1) for the full details on the various steps.
-
-### LoRA fine-tuning
-The LoRA training procedure is quite similar to the fine-tuning process that we went through in the previous section. The only differences being that you will need to specify a few more hyperparameters exclusive to LoRA.
-
-You can use the [PygmalionAI training code](https://github.com/PygmalionAI/training-code) for LoRA training. Assuming you have your dataset ready and have chosen a pretrained model to fine-tune, you can perform the following steps to set up an environment for training:
-#### Setting up the environment
-
-1. Install a python version manager. You can use either [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://asdf-vm.com/). For the purpose of this guide, we'll do asdf.
-2. Install `asdf` by following [the official guide](https://asdf-vm.com/guide/getting-started.html).
-3. Add the python plugin by running `asdf plugin add python`, install the required version by running `asdf python install 3.10.8`, activate with `asdf global python 3.10.8`
-4. Create a virtual python environment: `python -m venv /custom/path/to/venv`.
-5. Activate the venv by running `source /custom/path/to/venv/bin/activate` (you can deactivate by simply running `deactivate`).
-6. Clone the repository: `git clone https://github.com/PygmalionAI/training-code && cd training-code`
-7. Install requirements `pip install -r requirements.txt`.
-8. Install additional requirements by running `pip install wandb xformers`.
-
-#### Starting the run
-
-Run the following example script, written for LLaMA models:
-
-```sh
-#!/usr/bin/env bash
-
-export OMP_NUM_THREADS=4
-export WANDB_PROJECT="project-name"
-
-OUTPUT_DIR="/path/to/output/$WANDB_PROJECT"
-
-MODEL_NAME='huggyllama/llama-7b'
-TRAIN_DATASET="/path/to/train.arrow"
-EVAL_DATASET="/path/to/eval.arrow"
-
-BSZ=8
-
-accelerate launch \
-    './training/hf_trainer.py' \
-    --model_name_or_path "$MODEL_NAME" \
-    --train_file "$TRAIN_DATASET" \
-    --eval_file "$EVAL_DATASET" \
-    --output_dir "$OUTPUT_DIR" \
-    --optim "adamw_torch_fused" \
-    --report_to "wandb" \
-    --ddp_find_unused_parameters false \
-    --bf16 true \
-    --do_train --do_eval \
-    --evaluation_strategy "steps" --eval_steps 80 \
-    --save_strategy "steps" --save_steps 80 \
-    --save_total_limit 2 \
-    --per_device_train_batch_size "$TRAIN_BSZ" --per_device_eval_batch_size "$EVAL_BSZ" \
-    --gradient_accumulation_steps 64 \
-    --learning_rate 5.0e-5 \
-    --lr_scheduler_type "constant_with_warmup" \
-    --warmup_steps 8 \
-    --num_train_epochs 1 \
-    --seed 42 --data_seed 42 \
-    --logging_first_step true \
-    --logging_steps 1 \
-    --dataloader_num_workers 1 \
-    --model_load_delay_per_rank 0 \
-    --use_lora --lora_rank 128 --lora_alpha 256 --lora_target_modules 'up_proj,down_proj,q_proj,v_proj,k_proj,o_proj,embed_tokens,lm_head' \
-    --gradient_checkpointing true \
-    --use_xformers \
-    $@
-```
-
-You might notice it's quite similar to the fine-tuning script, but with a few additions. Let's go through them.
 
 ### LoRA hyperparameters
 
@@ -546,7 +315,7 @@ There are, however, three (or 4, if your model has biases) outliers. They do not
 - **Output Layer** `lm_head`: The output layer of a language modeling LLM. It's responsible for generating predictions or scores for the next token based on the learned representations from the *preceding* layers. Placed at the bottom. **Important to target if your dataset has custom syntax.**
 
 ## QLoRA
-QLoRA (Quantized Low Rank Adapters) is an efficient finetuning approach that reduces memory usage while maintaining high performance for large language models. It enables the finetuning of a 65B parameter model on a single 48GB GPU, while preserving full 16-bit finetuning task performance.
+QLoRA (Quantized Low Rank Adapters) is an efficient finetuning approach that reduces memory usage while maintaining high performance for large language models. It enables the finetuning of a 65B parameter model on a single 48GB GPU, while preserving full 16-bit fine-tuning task performance.
 
 The key innovations of QLoRA include:
 
@@ -555,83 +324,12 @@ The key innovations of QLoRA include:
 - Double quantization to reduce the average memory footprint by quantizing the quantization constants.
 - Paged optimizers to effectively manage memory spikes during the finetuning process.
 
-The best-performing model family resulting from QLoRA, called [Guanaco](https://huggingface.co/timdettmers/guanaco-33b-merged), outperforms most models. It achieves 99.3% of the performance level of ChatGPT while requiring only 24 hours of finetuning on a single GPU.
-
-QLoRA enables the finetuning of more than 1,000 models, allowing for a detailed analysis of instruction following and chatbot performance across various datasets, model types (LLaMA, T5), and model scales. The approach consistently achieves state-of-the-art results, even with smaller models than previous state-of-the-art methods.
-
-The research team also provides a detailed analysis of chatbot performance using both human and GPT-4 evaluations. GPT-4 evaluations prove to be a cost-effective alternative to human evaluation. Additionally, the study highlights the limitations of current chatbot benchmarks in accurately evaluating chatbot performance. For more details, [read the paper](https://arxiv.org/abs/2305.14314).
-
-### Dataset structure
-The training procedure for QLoRA will be mostly similar to LoRA with some small changes. Namely, you don't need to pre-process your dataset. You will, however, need to have your dataset in, ideally, jsonlines format. It's recommended to create a jsonlines file with `input-output` objects. Here's an example:
-
-```json
-{"input": "<|system|>Assistant, engage instruction following and question answering mode. You are bound to generating text, and cannot perform any other actions.<|user|>What is the main component of hydrogen peroxide, and can you provide a detailed explanation of its molecular structure and chemical properties while also considering the impact of environmental factors on its stability and reactivity?<|model|>", "output": "The main component of hydrogen peroxide is H2O2, which is a simple molecule consisting of two hydrogen atoms and two oxygen atoms. The molecular structure of hydrogen peroxide is characterized by a single bond between the two oxygen atoms, and each oxygen atom is also bonded to a hydrogen atom. The molecule has a bent structure due to the lone pairs of electrons on the oxygen atoms.\nHydrogen peroxide is a powerful oxidizing agent and can react with a wide range of substances, including metals, organic compounds, and inorganic compounds. When hydrogen peroxide reacts with another substance, it typically loses one of its oxygen atoms, forming water and an oxygen molecule. This reaction is exothermic and can release a significant amount of energy.\nThe stability and reactivity of hydrogen peroxide can be affected by environmental factors such as temperature, pH, and the presence of other substances. At higher temperatures, hydrogen peroxide can decompose more rapidly, which can be dangerous. Acidic or basic conditions can also affect the stability of hydrogen peroxide, and it can react with other substances such as metals or organic compounds to form potentially hazardous products.\nIn summary, hydrogen peroxide is a powerful oxidizing agent with a simple molecular structure consisting of two hydrogen atoms and two oxygen atoms. Its reactivity and stability can be influenced by environmental factors such as temperature, pH, and the presence of other substances."}
-```
-Once you have your dataset, generate a train-eval split. You can use the script provided [here](https://rentry.org/llm-training#generating-train-and-validation-splits). Once you have your dataset, place them in a directory you can easily remember. 
-
-### QLoRA fine-tuning
-#### Setting up the environment
-
-You can follow the LoRA guide's environment setup guide up until step 6. Clone this repo instead:
-- `git clone https://github.com/artidoro/qlora && cd qlora`
-- `pip install -r requirements.txt`
-
-#### Add support for custom dataset
-The official QLoRA code has built-in support for multiple open-source datasets, but you can easily use a custom dataset, assuming you've formatted the data in the `input-output` object pair format. Otherwise, you'll need to manually add support (which isn't very hard).
-
-### Start the train run
-
-You can start your run with this example script:
-
-```sh
-export WANDB_PROJECT="qlora-33b"
-export HF_DATASETS_CACHE="/path/to/cache/directory"
-python qlora.py \
-    --model_name_or_path huggyllamma/llama-33b \
-    --output_dir ./metharme-33b \
-    --dataset /path/to/dataset/directory \
-    --dataset-format input-output \
-    --train_on_source True \
-    --learning_rate 0.000075 \
-    --warmup_steps 0 \
-    --num_train_epochs 1 \
-    --do_train True \
-    --do_eval True \
-    --do_mmlu_eval False \
-    --bf16 True \
-    --bits 16 \
-    --source_max_len 2500 \
-    --target_max_len 2500 \
-    --per_device_train_batch_size 1 \
-    --gradient_accumulation_steps 1 \
-    --logging_first_step true --logging_steps 1 \
-    --save_steps 100 \
-    --eval_steps 10 \
-    --save_strategy steps \
-    --save_total_limit 2 \
-    --data_seed 41 \
-    --per_device_eval_batch_size 1 \
-    --fp16_full_eval \
-    --evaluation_strategy steps \
-    --max_memory_MB 48000 \
-    --optim paged_adamw_32bit \
-    --report_to "wandb" \
-```
-You might be seeing a couple of new hparams. Let's quickly go through them:
-
-- `--train_on_source`: Whether to train on the `input` field of your dataset as well as the `output`. This is set to false by default as a design choice, but we generally want to train on the input as well.
-- `--bits`: The datatype used for the linear layer computations. Options are `16`, `8`, and `4`. Higher values results in more memory requirement but better results.
-- `--source_max_length`: The maximum number of tokens to be taken into account in the `input` field; sequences that exceed this value will be truncated.
-- `--target_max_len`: The maximum number of tokens to be taken into account in the `output` field; sequences that exceed this value will be truncated.
-- `--max_memory_MB`: The maximum amount of memory to use per GPU. Use this if you're running on multi-GPU setups to prevent overloading a single GPU.
-- `--optim paged_adamw_32bit`: Performs automatic page-to-page transfers between the CPU and GPU for error-free GPU processing in the scenario where the GPU occasionally runs out-of-memory. Saves memory.
-
-Read the following sections for an explanation of other relevant hyperparameters, as well as guides for interpreting the learning curves,
+In the next sections, we'll try and go through what all the training hyperparameters, aka configs, do.
 
 ## Training Hyperparameters
 Training hyperparameters play a crucial role in shaping the behaviour and performance of your models. These hparams are settings that guide the training process, determining how the model learns from the provided data. Selecting appropriate hparams can significantly impact the model's convergence, generalization, and overall effectiveness.
 
-In this section, I'll try and explain the key training hparams that require careful consideration during the training phase. We'll go over concepts like batch size, epochs, learning rate, regularization, and more. By gaining a deep understanding of these hparams and their effects, you will be equipped to fine-tune and optimize your models effectively, ensuring optimal performance in various machine learning tasks. So let's dive in and unravel the mysteries behind training hparams.
+In this section, we'll try and explain the key training hparams that require careful consideration during the training phase. We'll go over concepts like batch size, epochs, learning rate, regularization, and more. By gaining a deep understanding of these hparams and their effects, you will be equipped to fine-tune and optimize your models effectively, ensuring optimal performance in various machine learning tasks. So let's dive in and unravel the mysteries behind training hparams.
 
 ### Batch Size and Epoch
 
@@ -748,6 +446,16 @@ Let's learn how to configure the learning rate now.
 - Too slow? If the learning rate is too small, you may notice that the model's training progress is slow, and it takes a long time to converge or make noticeable improvements. In cases like this, consider increasing the learning rate to speed up the learning process.
 - Too fast? If the learning rate is too large, the model may learn too quickly, leading to unstable results. Signs of a too high `lr` include wild fluctuations in loss or accuracy during training. If you observe this behaviour, consider decreasing the `lr`.
 - Iteratively adjust the learning rate: Based on the observations in steps 3 and 4, iteratively adjust the learning rate and re-run the training process. Gradually narrow down the range of learning rates that produce the best performance.
+
+A general-purpose formula for calculating the learning rate is:
+
+`base_lr * sqrt(supervised_tokens_in_batch / pretrained_bsz)`
+
+The `base_lr` refers to the pre-trained model's learning rate. In case of Mistral, this is 5e-5. `supervised_tokens_in_batch` refers the total number of supervised tokens (axolotl reports this number once you start training), dividing that by total number of steps (also reported by axolotl) divided by the total number of epochs; i.e. `total_supervised_tokens / (num_steps / num_epochs)`. The `pretrained_bsz` refers to the original batch size of the base model. In case of Mistral and Llama, this is 4,000,000 (4 millions). For example, let's assume we are training Mistral with a dataset that contains 2 million supervised tokens, and we're training on a single GPU at batch size 1. Let's also assume this takes 350 steps. The final formula would look like this:
+
+`5e-5 * sqrt(2000000/(350/1) / 4000000) = 0.00000189` (1.89e-6)
+
+For reference, the base learning rate for Llama-2 models is 3e-4.
 
 
 ### Gradient Accumulation

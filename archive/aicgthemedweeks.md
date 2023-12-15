@@ -19,4 +19,5 @@
 ## -> [Mental illness](https://rentry.co/aicgthemedweek4) <-
 ## -> [Gothic horror](https://rentry.co/aicgthemedweek5) <-
 ## -> [A world without X + Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
+## -> CHRISTMAS EVENT ONGOING <-
 ***

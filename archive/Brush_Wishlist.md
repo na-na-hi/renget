@@ -83,6 +83,9 @@
 **Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
 **emmm** | [2051881](https://assets.clip-studio.com/en-us/detail?id=2051881) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/81/18/2051881/thumbnail?1702460613)
+**Bubble** | [1918420](https://assets.clip-studio.com/en-us/detail?id=1918420) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/84/1918420/thumbnail?1665862733)
+**Bubble #2** | [1940454](https://assets.clip-studio.com/en-us/detail?id=1940454) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/04/1940454/thumbnail?1665862796)
+**Bubble #3** | [1940713](https://assets.clip-studio.com/en-us/detail?id=1940713) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/07/1940713/thumbnail?1665862812)
 
 
 -> [**[TOP]**]() ->

@@ -8,8 +8,8 @@ Story Title | Author
 ---|---
 (True) [My little brother's friend](https://rentry.org/cd3ris) | *by KnightoCuppo* 
 (True) My nephew's first blowjob! | *by FoxyLady*|
-(True) My Uncle's Little Secret...|*by UncleAnon*|
-Foxfamily breakfast! |*by Aronimoose*|
+(True) The Christmas I fell in love with you.|*by UncleAnon*|
+Foxfamily breakfast! |*by Miyuyun*|
 ~~(True) My friend's son... I had so much fun with him.~~ |*by Suisexxx*|
 	-> BANNED BY ADMIN - Reason: This is a community of love, not abuse! <-
 (True) [I starred in an AV when I was in middle school](https://rentry.org/hc9x5) | *by Anonymous*|
@@ -18,3 +18,5 @@ Ride in the backseat. | *by FoxyLady*|
 The boys at the pool. | *by FoxyLady*|
 A walk in the park. | *by FoxyLady*|
 My prince in the yellow hat. | *by FoxyLady*|
+I'll show you mine, so show me yours! | *by FattoCatto*|
+(True) Wrestling like beetles, or how I met my wife. | *by DancingCarrot*

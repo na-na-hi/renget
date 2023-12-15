@@ -155,6 +155,7 @@ Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks 
 • Claude 1.3/1.1 is a bit worse than 2, but still good.
 • Claude 1.2 is crazy but has a short context.
 • Claude instant is the class clown. interpret it as you want.
+[Know more about long context on Claude >>](https://www.anthropic.com/index/claude-2-1-prompting)
 
 **GPT:** (Low burstiness, high attention)
 GPT is smart but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.

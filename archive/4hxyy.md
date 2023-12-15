@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 336 - Motherly Father Edition: https://desuarchive.org/trash/thread/61855462/
 Thread 335 - Gerudo Gal Edition: https://desuarchive.org/trash/thread/61518647/
 Thread 334 - Shopping Spree Edition: https://desuarchive.org/trash/thread/61345190/
 Thread 333 - Youthful Exuberance Edition: https://desuarchive.org/trash/thread/61011630/

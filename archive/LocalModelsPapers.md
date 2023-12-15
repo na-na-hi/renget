@@ -162,6 +162,7 @@
 10/2023|[LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery](https://arxiv.org/abs/2310.18356)
 10/2023|[FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313)
 11/2023|[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
+12/2023|[ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
