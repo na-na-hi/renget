@@ -69,7 +69,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 
 ## Rerolling
 **1. Do I need to reroll?**
-No. All story content can be beaten with the default Identities. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
+No. Most, if not all story content can be beaten with the default Identities. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
 I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get one or two Identities on this list. Do not bother rerolling for E.G.O.
@@ -231,18 +231,18 @@ If you plan on doing daily Mirror Dungeon runs, and especially if you have the B
 
 In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely *if* you are dedicated enough. A lot of people skip every banner and save all their Lunacy for the Walpurgisnacht Extraction, and just shard everything else.
 
-**3. What should I shard (spark) first, and when?**
-If you want to get the most out of your Egoshards, you can either focus on Identities and E.G.O in the tier list, and or ones marked as Event/current Season, preferably both.
+**3. What should I shard first, and when?**
+If you want to get the most out of your Egoshards, you should focus on Identities and E.G.O in the tier list and ones marked as Event/current Season, preferably both if applicable.
 
 As for when to shard, it is technically best to wait right before the Season ends in case you get spooked when rolling. But if you really want something now you can do it whenever, it doesn't matter that much.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
 This largely depends on how many Egoshards you have for that Sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot, or you'll be sitting on 600 extra Egoshards you have no use for.
 
-As for Random Egoshard Crates, open them whenever. They get halved at the end of the Season anyway.
+As for Random Egoshard Crates, open them whenever. They also get halved at the end of the Season anyway.
 
 **5. What are sharding delays?**
-The Seasonal Dispensary rules and the Walpurgisnacht limited Extraction Event will add a 3–4 month delay to sharding specific Identities and E.G.O depending on when you started playing. Identities and E.G.O with a Season or Event tag from the last Season will not be shardable until the next Season. For Walpurgisnacht, Identities and E.G.O featured in the currently ongoing Walpurgisnacht Extraction cannot be sharded. However, during the next Walpurgisnacht Event, Identities & E.G.O from previous Walpurgis Night Extractions will be made shardable during the Event period. For more information, see the Walpurgisnacht and Season sections.
+The Seasonal Dispensary rules and the Walpurgisnacht limited Extraction Event will add a 3–4 month delay to sharding specific Identities and E.G.O. Identities and E.G.O with a Season or Event tag from the last Season will not be shardable until the next Season. For Walpurgisnacht, Identities and E.G.O featured in the currently ongoing Walpurgisnacht Extraction cannot be sharded. However, during the next Walpurgisnacht Event, Identities & E.G.O from previous Walpurgis Night Extractions will be made shardable during the Event period. For more information, see the Walpurgisnacht and Season sections.
 
 ## Seasons
 **1. Season Info**
@@ -318,7 +318,7 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 5 chapters + the prologue and two plot-relevant Events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from Events and the Battle Pass, and most people use them when new story releases so they can complete it all in one day and go back to shitposting.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 5 chapters + the prologue and two plot-relevant Events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from Events and the Battle Pass, and most people use them when new story releases so they can complete it all in one sitting and go back to shitposting.
 
 **2. Story Dungeons**
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can leave and resume later.
@@ -387,4 +387,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/23-24/23: Updated for new chapter part.
 11/27/23: Added preface to farming section and updated both tier lists.
 12/8/23: Fixed and updated some minor things.
-12/14/23: Updated to reflect the new Mirror Dungeon update. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/15/23: Updated to reflect the new Mirror Dungeon update. ![lol&](https://files.catbox.moe/7dmu76.png)

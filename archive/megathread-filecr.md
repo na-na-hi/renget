@@ -12,5 +12,5 @@ To ensure the safety of your systems, it is essential to exercise due diligence.
 
 &nbsp;
 
-📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
+📜 ❮ Return to [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) / [2](https://rentry.co/megathread)
 ---

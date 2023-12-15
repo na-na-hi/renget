@@ -420,40 +420,99 @@ NEW
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >Latest News Of Israeli / Palestinian War 12/23
+>According to local reports, Starbucks Egypt was forced to lay off workers as the company lost money due to the success of the boycott movement against it.  
+https://nitter.net/MintPressNews/status/1730599642000146689#m  12/1/23
+
+>H&M and Starbucks to leave Morocco due to boycott
+https://nitter.net/Michael_Wgd/status/1730882790990696711#m  12/2/23
+
 >Retired IDF Maj. General Yitzhak Brick:
 “All of our missiles, the ammunition, the precision-guided bombs, all the airplanes and bombs, it’s all from the U.S. The minute they turn off the tap, you can’t keep fighting. You have no capability. … Everyone understands that we can’t fight this war without the United States. Period.”
 https://nitter.net/aaronjmate/status/1731740083299230059#m     12/4/23
 
+>Starbucks’ value has been dropping for over 2 weeks now. This is equivalent to 11-12 billion dollars.
+https://nitter.net/Jairo_I_Funez/status/1731755698998878475#m  12/4/23
+
+>Josh Paul resigned from the State Dept over sending arms to Israel. “I have heard from actually so many hundreds of colleagues at this point who support what I did,” he says. “They are finding what is happening both a moral disaster and a policy disaster for the United States.”
+https://nitter.net/amanpour/status/1731745533474074663#m  12/4/23
+
 >“Israeli” newspaper Yedioth Ahronoth: The “Israeli” army was unable to “cleanse” ???? Gaza City and its vicinities during 59 days of war, so it is unable to “cleanse” Khan Yunis and its vicinities in a shorter period of time, and this will put it under greater pressure.
 https://nitter.net/angeloinchina/status/1731954753654178216#m     12/5/23
 
->Israeli general Gadi Eizenkot, the originator of the Dahiya doctrine, which entails the mass bombing of civilians, cries at the funeral of his son, Gal Meir Eizenkot, who was killed in northern Gaza.
-https://twitter.com/Lowkey0nline/status/1733072801332924749     12/8/23
+>In 1967, #Israel lost 776 soldiers and occupied the Sinai peninsula, the Golan Heights, the West Bank, Gaza & East Jerusalem in only 6-days. It defeated Egypt, Jordan, & Syria. In 2023, Israel lost over 1000 soldiers and didn't occupy 360 sqm against a resistance group in #Gaza.
+https://nitter.net/ejmalrai/status/1732025509289013532#m  12/5/23
 
->Over 5,000 Israeli occupation soldiers have been wounded by Palestinian resistance gunfire since October 7, according to Israeli daily Yedioth Ahronoth
-https://nitter.net/QudsNen/status/1733411226581901335#m     12/9/23
+>A survivor of the rave on October 7th spoke to Israel Radio. She confirmed:“the terrorists did not harm us, they even gave us the opportunity to drink and calmed us down while we panicked.”
+"When the police came, they started shooting everywhere. Four people were dead outside, I think the police killed them. Then they arrested the gunman and opened heavy fire on the hostages and the gunmen, killing them all."This is incredible when compared with the Zionist propaganda regarding October 7th, but surely unsurprising at this point to anyone paying attention.
+Have a listen, it has English subtitles
+https://nitter.net/ecomarxi/status/1732022607791145273#m  12/5/23
+
+>A key BBC source for the latest round of rape claims against Palestinians on October 7th is May Golan, a "proud racist". 
+She previously led anti-Black race riots in Tel Aviv targeting Sudanese migrants, where she exclaimed her pride at being racist.
+https://nitter.net/MintPressNews/status/1732145128868065765#m  12/5/23
+
+>Scandal-stained Israeli ‘rescue’ group fuels October 7 fabrications @MaxBlumenthal exposes the fabulism and corruption of ZAKA, a group founded by a serial rapist known as the "Haredi Jeffrey Epstein" Blinken and Biden repeatedly echo ZAKA's bogus tales
+https://nitter.net/TheGrayzoneNews/status/1732456680938504547#m  12/6/23
+
+>82% of all U.S.-based respondents, incl. almost all assistant profs (98 %), said they self-censor when they speak professionally about the Israeli-Palestinian issue. 81 % of those said they primarily held back their criticism of Israel vs 11% of Palestinians.
+https://nitter.net/jannisgrimm/status/1732368725343375462#m  12/6/23
 
 >Oy Vey Edition 
 >Christian Nationalism is not only a danger to our Country, it’s a danger to Christianity itself. Our film will be coming to theaters In February. Watch the trailer here.
 https://twitter.com/robreiner/status/1732884566879461422     12/7/23
 
->The Israeli soldier who took official approval from the competent authorities in the IDF to blow up an entire building in Gaza in order to give it as a "birthday gift" to his two-year-old daughter yesterday was killed by Hamas.
-https://nitter.net/Megatron_ron/status/1733418511391731811#m 12/9/23
-
->Idf War Crimes Folder Updated 
-https://pastebin.com/E3ATjpvV     12/9/23
-
 >As I just promised, the app is back on play store, and it went back to the old link with the same count over 100k downloads, here is the link to share it guys  Thanks based Italian news gathering anon :)   
-https://nitter.net/NoThanksBoycott/status/1732818632621588959#m     12/9/23 and link posted 12/7/23
+https://nitter.net/NoThanksBoycott/status/1732818632621588959#m  12/7/23
 
 >Starbucks is closing down some locations, and is already pulling out of Malaysia.
 https://nitter.net/MonitorX99800/status/1732784387106963906#m  12/7/23
 
->Israeli occupation soldiers share a video of themselves proudly setting fire to food and water supplies in the besieged Shujaeya neighborhood east of Gaza City. 
-https://nitter.net/QudsNen/status/1733762540511903889#m  12/10/23
+>Ryanair, the world’s largest low-cost airline, cancels all its flights to “Israel” until an unannounced date in 2024
+https://nitter.net/EyesOnSouth1/status/1732685739660304880#m  12/7/23
+
+>Palestinians trying to save a donkey who was buried in an airstrike
+https://nitter.net/jakeshieldsajj/status/1732862208047276276#m  12/7/23
+
+>Instagram is actively shadowbanning pro-Palestinian content
+https://nitter.net/CensoredMen/status/1732856544637628805#m  12/7/23
+
+>Israeli general Gadi Eizenkot, the originator of the Dahiya doctrine, which entails the mass bombing of civilians, cries at the funeral of his son, Gal Meir Eizenkot, who was killed in northern Gaza.
+https://twitter.com/Lowkey0nline/status/1733072801332924749     12/8/23
+
+>After murdering more than 17.000 people in 2 months including more than 5000 children and hundreds of United Nations workers and medical staff, Netanyahu is outraged with the international community and the International Criminal Court for accusing Israel of war crimes. 
+https://nitter.net/angeloinchina/status/1733106050671489030#m  12/8/23
+
+>Lebanon, dog victim of Zionists shelling
+https://nitter.net/angeloinchina/status/1733108019431661952#m  12/8/23
+
+>"La Casa de Papel" famous actress Itziar Ituño described what is happening in Gaza as a genocide committed by Israel against Gaza during a large protest in support of Palestine in the town of Guernica, northern Spain.
+https://nitter.net/QudsNen/status/1733212990776758762#m  12/8/23
+
+>Over 5,000 Israeli occupation soldiers have been wounded by Palestinian resistance gunfire since October 7, according to Israeli daily Yedioth Ahronoth
+https://nitter.net/QudsNen/status/1733411226581901335#m     12/9/23
+
+>The Israeli soldier who took official approval from the competent authorities in the IDF to blow up an entire building in Gaza in order to give it as a "birthday gift" to his two-year-old daughter yesterday was killed by Hamas.
+https://nitter.net/Megatron_ron/status/1733418511391731811#m 12/9/23
+
+>Idf War Crimes Folder Updated 
+https://pastebin.com/E3ATjpvV  12/9/23
 
 >The Syrian Ministry of Endowments issues a fatwa prohibiting the purchase of western made goods. 
 https://nitter.1d4.us/ME_Observer_/status/1733618451917197413#m  12/9/23
+
+>BREAKING: First admission of Israeli casualties by Yedioth:
+- About 5,000 Israeli soldiers have been injured since the beginning of the war.
+- More than 2,000 new disabled people were identified in the Israeli army.
+- Most of the injured suffer from serious wounds.
+- The Rehabilitation Department of the Israeli Ministry of War receives about 60 new wounded daily.
+>58% of the wounded in the Israeli army have critical injuries in the hands and feet.
+>12% of the Israeli army’s wounded suffered rupture of internal organs
+>At least 100 of the Israeli army wounded were blinded
+>7% of Israeli army soldiers and officers suffer from direct psychological symptoms
+https://nitter.net/MyLordBebo/status/1733427033152070032#m  12/9/23
+
+>Israeli occupation soldiers share a video of themselves proudly setting fire to food and water supplies in the besieged Shujaeya neighborhood east of Gaza City. 
+https://nitter.net/QudsNen/status/1733762540511903889#m  12/10/23
 
 >BREAKING | The Israeli Ministry of Health says that Israeli hospitals have treated 10,584 soldiers and settlers since the beginning of the war, with 131 reported killed.
 https://nitter.net/QudsNen/status/1733916586069639293#m  12/10/23
@@ -487,26 +546,9 @@ https://nitter.net/QudsNen/status/1734188618703335806#m  12/11/23
 >Full commitment to the comprehensive strike in the cities of the West Bank, #Jerusalem, Jordan and #Lebanon
 https://nitter.1d4.us/ME_Observer_/status/1734112450239152221#m  12/11/23
 
->After years of BDS campaigning that has cost German conglomerate @PUMA dearly in reputation and projects, we have forced it to abandon its sponsorship of the Israel Football Association in this time of Israel's #GazaGenocide.
-https://nitter.net/PACBI/status/1734478736521646255#m  12/12/23
-
->As I just promised, the app is back on play store, and it went back to the old link with the same count over 100k downloads, here is the link to share it guys
-https://nitter.net/NoThanksBoycott/status/1732818632621588959#m  12/7/23
-
->Starbucks is closing down some locations, and is already pulling out of Malaysia.
-https://nitter.net/MonitorX99800/status/1732784387106963906#m  12/7/23
-
->Ryanair, the world’s largest low-cost airline, cancels all its flights to “Israel” until an unannounced date in 2024
-https://nitter.net/EyesOnSouth1/status/1732685739660304880#m  12/7/23
-
->Starbucks’ value has been dropping for over 2 weeks now. This is equivalent to 11-12 billion dollars.
-https://nitter.net/Jairo_I_Funez/status/1731755698998878475#m  12/4/23
-
->According to local reports, Starbucks Egypt was forced to lay off workers as the company lost money due to the success of the boycott movement against it.  
-https://nitter.net/MintPressNews/status/1730599642000146689#m  12/1/23
-
->H&M and Starbucks to leave Morocco due to boycott
-https://nitter.net/Michael_Wgd/status/1730882790990696711#m  12/2/23
+>Families of the ISRAELI victims at the Nova Music Festival on October 7 demand the immediate formation of an official INVESTIGATION committee. 
+Several reports have confirmed that the Israeli army was the one that shelled the celebrants at the festival, leading to casualties.”
+https://nitter.net/jacksonhinklle/status/1734354000353362365#m  12/11/23
 
 >The Israeli army admits to the elimination of 4 officers, three of whom were killed in the southern Gaza Strip yesterday:
 Sgt. Major (res.) Gideon Ilani, of the 55th Reserve Paratroopers Brigade
@@ -521,35 +563,18 @@ https://nitter.net/AryJeay/status/1734092887845999053#m  12/11/23
 - Major Ari Yehiel Zanilman
 https://nitter.net/Angryman_J/status/1734159843504861459#m  12/11/23
 
->BREAKING: First admission of Israeli casualties by Yedioth:
-- About 5,000 Israeli soldiers have been injured since the beginning of the war.
-- More than 2,000 new disabled people were identified in the Israeli army.
-- Most of the injured suffer from serious wounds.
-- The Rehabilitation Department of the Israeli Ministry of War receives about 60 new wounded daily.
->58% of the wounded in the Israeli army have critical injuries in the hands and feet.
->12% of the Israeli army’s wounded suffered rupture of internal organs
->At least 100 of the Israeli army wounded were blinded
->7% of Israeli army soldiers and officers suffer from direct psychological symptoms
-https://nitter.net/MyLordBebo/status/1733427033152070032#m  12/9/23
-
->In 1967, #Israel lost 776 soldiers and occupied the Sinai peninsula, the Golan Heights, the West Bank, Gaza & East Jerusalem in only 6-days. It defeated Egypt, Jordan, & Syria. In 2023, Israel lost over 1000 soldiers and didn't occupy 360 sqm against a resistance group in #Gaza.
-https://nitter.net/ejmalrai/status/1732025509289013532#m  12/5/23
-
->“Israeli” newspaper Yedioth Ahronoth: The “Israeli” army was unable to “cleanse” Gaza City and its vicinities during 59 days of war, so it is unable to “cleanse” Khan Yunis and its vicinities in a shorter period of time, and this will put it under greater pressure.
-https://nitter.net/angeloinchina/status/1731954753654178216#m  12/5/23
-
->Retired IDF Maj. General Yitzhak Brick:
-“All of our missiles, the ammunition, the precision-guided bombs, all the airplanes and bombs, it’s all from the U.S. The minute they turn off the tap, you can’t keep fighting. You have no capability. … Everyone understands that we can’t fight this war without the United States. Period.”
-https://nitter.net/aaronjmate/status/1731740083299230059#m  12/4/23
-
 >The horrors carried out by Israel in the Be'eri settlement on October 7 are revealed by recent testimony.
 Hadas Dagan, an Israeli settler who survived the episode, claims that the Israeli military killed 14 Israeli captives in the house she was being held in.
 https://nitter.net/MintPressNews/status/1734209525719200021#m  12/11/23
 
->A survivor of the rave on October 7th spoke to Israel Radio. She confirmed:“the terrorists did not harm us, they even gave us the opportunity to drink and calmed us down while we panicked.”
-"When the police came, they started shooting everywhere. Four people were dead outside, I think the police killed them. Then they arrested the gunman and opened heavy fire on the hostages and the gunmen, killing them all."This is incredible when compared with the Zionist propaganda regarding October 7th, but surely unsurprising at this point to anyone paying attention.
-Have a listen, it has English subtitles
-https://nitter.net/ecomarxi/status/1732022607791145273#m  12/5/23
+>A hospital ship from Indonesia is waiting to recieve permission to enter Gaza to help treat the critically injured civilians in Gaza.
+https://twitter.com/Timesofgaza/status/1734151035785183627  12/11/23
+
+>On the day of the worldwide strike for Gaza, demonstrators yell in support of Palestine outside the US Mission to the United Nations.
+https://nitter.net/MintPressNews/status/1734326105635520911#m  12/11/23
+
+>After years of BDS campaigning that has cost German conglomerate @PUMA dearly in reputation and projects, we have forced it to abandon its sponsorship of the Israel Football Association in this time of Israel's #GazaGenocide.
+https://nitter.net/PACBI/status/1734478736521646255#m  12/12/23
 
 >86 journalists have been killed by the Israeli occupation forces since the beginning of the ongoing genocide campaign in Gaza, according to the Government Media Office in Gaza
 https://nitter.net/QudsNen/status/1734505091061678307#m  12/12/23
@@ -557,19 +582,8 @@ https://nitter.net/QudsNen/status/1734505091061678307#m  12/12/23
 >Israeli occupation forces wreak havoc, destroying infrastructure, during the ongoing invasion of Jenin, north of the occupied West Bank.
 https://nitter.net/QudsNen/status/1734497566841045028#m  12/12/23
 
->Families of the ISRAELI victims at the Nova Music Festival on October 7 demand the immediate formation of an official INVESTIGATION committee. 
-Several reports have confirmed that the Israeli army was the one that shelled the celebrants at the festival, leading to casualties.”
-https://nitter.net/jacksonhinklle/status/1734354000353362365#m  12/11/23
-
->A key BBC source for the latest round of rape claims against Palestinians on October 7th is May Golan, a "proud racist". 
-She previously led anti-Black race riots in Tel Aviv targeting Sudanese migrants, where she exclaimed her pride at being racist.
-https://nitter.net/MintPressNews/status/1732145128868065765#m  12/5/23
-
 >Ashdod Port Administration: The Houthis exposing ships to danger is a direct threat to global shipping routes and maritime traffic to #Israel
 https://nitter.1d4.us/ME_Observer_/status/1734595851413037201#m  12/12/23
-
->A hospital ship from Indonesia is waiting to recieve permission to enter Gaza to help treat the critically injured civilians in Gaza.
-https://twitter.com/Timesofgaza/status/1734151035785183627  12/11/23
 
 >Abu Hamza, spokesman for the Al-Quds Brigades:
 The reckless charlatan Netanyahu knows his fate after the war and is working on evasion to remain in power
@@ -593,6 +607,10 @@ https://nitter.net/QudsNen/status/1734695498043544014#m  12/12/23
 
 >Here’s the Golani commander (Tomer Grinberg) promising his men victory, just a few days before he got eliminated 
 https://nitter.net/AryJeay/status/1734826613865382296#m  12/12/23
+
+>Chilean police use water cannon against peaceful protesters, who gathered in front of the US embassy in Santiago to show support for Palestine.
+https://nitter.net/QudsNen/status/1734573200527245670#m  12/12/23
+
 
 >Al-Yassin 105” rockets Targeted a Zionist D9-military bulldozer with an “Al-Yassin 105” rocket in Tal Al-Zaatar, northern Gaza Strip.
 https://nitter.1d4.us/Moqawamah_eng/status/1734955043621679337#m  12/13/23
@@ -627,20 +645,11 @@ https://nitter.net/warfareanalysis/status/1735020273680928806#m  12/13/23
 >The average rate of children killed in modern war is 6 to 8% of the casualties. In Gaza, it's 42%
 https://nitter.net/LeeCamp/status/1734949675596173556#m  12/13/23
 
->After murdering more than 17.000 people in 2 months including more than 5000 children and hundreds of United Nations workers and medical staff, Netanyahu is outraged with the international community and the International Criminal Court for accusing Israel of war crimes. 
-https://nitter.net/angeloinchina/status/1733106050671489030#m  12/8/23
+>A protest is taking place now at the German consulate in #NYC in protest against the crackdown on Palestinians in #Germany.
+https://nitter.net/QudsNen/status/1735066213380747366#m  12/13/23
 
->Lebanon, dog victim of Zionists shelling
-https://nitter.net/angeloinchina/status/1733108019431661952#m  12/8/23
-
->Palestinians trying to save a donkey who was buried in an airstrike
-https://nitter.net/jakeshieldsajj/status/1732862208047276276#m  12/7/23
-
->Scandal-stained Israeli ‘rescue’ group fuels October 7 fabrications @MaxBlumenthal exposes the fabulism and corruption of ZAKA, a group founded by a serial rapist known as the "Haredi Jeffrey Epstein" Blinken and Biden repeatedly echo ZAKA's bogus tales
-https://nitter.net/TheGrayzoneNews/status/1732456680938504547#m  12/6/23
-
->Josh Paul resigned from the State Dept over sending arms to Israel. “I have heard from actually so many hundreds of colleagues at this point who support what I did,” he says. “They are finding what is happening both a moral disaster and a policy disaster for the United States.”
-https://nitter.net/amanpour/status/1731745533474074663#m  12/4/23
+>Jan Fran, who currently hosts Question Everything on the ABC explains how Zionists control the media in Australia by sending journalists and political editors on junkets to Israel.
+https://nitter.net/pepedownunder/status/1734898344206729319#m  12/13/23
 
 >Lebanon: Islamic Resistance: We targeted a gathering of occupation soldiers in the vicinity of the Shomera Barracks, the Lebanese town of Tarbikha, with appropriate weapons.
 https://nitter.1d4.us/ME_Observer_/status/1735236090498306365#m  12/14/23
@@ -682,3 +691,9 @@ https://nitter.1d4.us/ME_Observer_/status/1735416050198458534#m  12/14/23
 
 >The naval forces of the Yemeni Armed Forces, carried out a military operation against the container ship "Mercy Gibraltar," heading to the israeli entity. It was targeted with a suicide drone, resulting in a direct hit. This targeting operation came after the ship's crew refused to respond to the calls of the Yemeni naval forces. Over the past 48 hours, the Yemeni Armed Forces successfully prevented the passage of several ships destined for the Israeli entity.
 https://nitter.net/AryJeay/status/1735390328230711569#m  12/14/23
+
+>EU staff sit-in outside the European Commission headquarters in Brussels demanding an immediate ceasefire in Gaza.
+https://nitter.net/QudsNen/status/1735315598165340283#m  12/14/23
+
+>Hundreds of Jordanians gathered Wednesday near the #US embassy in #Amman to protest against the American support for the genocide in #Gaza and to call their government to end contracts allowing the #US army to use Jordanian military bases.
+https://nitter.net/QudsNen/status/1735089165203570788#m  12/14/23

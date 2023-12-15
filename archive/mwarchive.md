@@ -60,6 +60,10 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Zionist USA schoolteacher flips out and threatens 12yo student with beheading cos she dislikes the Israeli flag
+* Hacker group, Cyberniggers claim to have internal US DoD documents and access to US Army online dashboard
+* ABC News Reporter who debunked Pizzagate now pleading guilty to multiple child rape charges
+* Yemeni military launches explosive drone at Dutch cargo ship headed for Israel, after they refused to stop
 * Former CFIUS Security guys house raided, explodes, gets announced dead, socials scrubbed, he goes online to keep posting
 * Investigations committee cant see any footage along the Gaza wall from Hamas attack, because cameras somehow disappeared
 * New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
@@ -71,12 +75,12 @@ The list shall change - removals as anons make memes, additions from suggestions
 * IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, told shut up or face court martial
 * Mystery Pnuemonia, aka Covid 2, "tearing through" schools in China, WHO calls for masking and social distancing
 * New York state gets new law allowing kidnap, mandatory treatment and quarantine of people without notice for any infection
-* Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
-* UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
-* Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks
 
 ####General Ideas
 
+* Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
+* UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
+* Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks
 * Israeli army helicopters shot up anyone moving, including Israeli festivalgoers during Hamas attack
 * Thousands of AI chatbot girlfriends are gone as Forever Voices CEO gets arrested for self arson and terrorism
 * Sailors blast death metal in an effort to ward off anti-human orca gangs off portugal/spanish coast

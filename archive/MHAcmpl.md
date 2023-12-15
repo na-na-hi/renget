@@ -631,7 +631,7 @@ Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
 cringekino clickbait: https://desuarchive.org/tg/post/91169301/
-Impakt Art: https://desuarchive.org/tg/post/91192484/
+Young Impakt Art: https://desuarchive.org/tg/post/91192484/
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!

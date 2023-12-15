@@ -84,7 +84,7 @@ Roll until you get 10 points (taken from https://www.youtube.com/watch?v=45dwbZz
 You can always ask /bag/ for advice.
 
 >What about good units who are only blue or gold (1 or 2 star)?
-![Good 1/2 Star Students](https://i.imgur.com/oy2vOz5.png)
+![Good 1/2 Star Students](https://i.imgur.com/nixPYgA.png)
 
 >How do I reroll? (global only) 
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)

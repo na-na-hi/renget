@@ -650,6 +650,9 @@ https://files.catbox.moe/rx0w59.MOV  12/10/23
 >Hezbollah Kino 
 https://files.catbox.moe/6k4qe0.mp4  12/09/23
 
+>Al-Quds Kino Footage 
+files.catbox.moe/m56e47.mp4  12/15/23
+
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
 
@@ -687,3 +690,6 @@ https://www.bitchute.com/video/eh9dKPCMEyjC/ 12/12/23
 
 >"Women, children and babies were killed, execution style, by Israeli forces while they were sheltering inside" a UN school.
 https://files.catbox.moe/30lcmf.mp4  12/13/23
+
+>Funny Israeli Cope about The On Going War
+https://files.catbox.moe/dr9rzo.mp4  12/14/23

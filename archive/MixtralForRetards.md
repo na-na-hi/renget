@@ -1,13 +1,16 @@
 #How to mixtral for retards
 
-Have at least 40GB-ish VRAM / RAM total. The more VRAM the faster.
+Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 **Grab latest Kobold:**
 >https://github.com/LostRuins/koboldcpp/releases/
 
-**Grab mixtral-8x7b-instruct-v0.1.Q5_0.gguf:** 
+**Grab the model**
+Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality loss really starts dropping off under 4bit.:
+
+![Image description](https://i.imgur.com/AA1xKHV.png)
+
 >https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/tree/main
-And I mean Q5_0 not Q5_K_M. Something is wrong with K quants and they are dumber.
 
 In kobold set model to the model...
 Under the tokens tab set Rope Base to 1000000 (that is 1 Million for those that put 100k then complain)
@@ -26,8 +29,7 @@ Its official formatting actually performs worse than alpaca.
 It will work just like that but for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
 
 **Mixtral common pratfalls:**
-Using below 5bit (at least atm, apparently quants work differently for moe models.) 
-(*This may be fixed now and lower quants might be worth using. If so Q3_K should be possible with about 20 GBs: https://github.com/ggerganov/llama.cpp/pull/4406#issuecomment-1855151885*)
+Using 2bit (at least atm, maybe that will eventually change.) 
 
 Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtral retarded.
 
