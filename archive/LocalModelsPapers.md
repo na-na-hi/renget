@@ -76,6 +76,7 @@
 12/2023|[AlphaCode 2 Technical Report](https://files.catbox.moe/lqpb7g.pdf)
 12/2023|[Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/abs/2312.04474)
 12/2023|[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
+12/2023|[Bad Students Make Great Teachers: Active Learning Accelerates Large-Scale Visual Understanding](https://arxiv.org/abs/2312.05328)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -445,6 +446,7 @@
 10/2023|[Mixture of Tokens: Efficient LLMs through Cross-Example Aggregation](https://arxiv.org/abs/2310.15961)
 10/2023|[Personas as a Way to Model Truthfulness in Language Models](https://arxiv.org/abs/2310.18168)
 10/2023|[Atom: Low-bit Quantization for Efficient and Accurate LLM Serving](https://arxiv.org/abs/2310.19102)
+10/2023|[QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795)
 11/2023|[AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models](https://arxiv.org/abs/2311.01305)
 11/2023|[FlashDecoding++: Faster Large Language Model Inference on GPUs](https://arxiv.org/abs/2311.01282)
 11/2023|[Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization](https://arxiv.org/abs/2311.01544)
@@ -465,6 +467,8 @@
 12/2023|[SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985)
 12/2023|[ESPN: Memory-Efficient Multi-Vector Information Retrieval](https://arxiv.org/abs/2312.05417)
 12/2023|[Aligner: One Global Token is Worth Millions of Parameters When Aligning Large Language Models](https://arxiv.org/abs/2312.05503)
+12/2023|[CBQ: Cross-Block Quantization for Large Language Models](https://arxiv.org/abs/2312.07950)
+12/2023|[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

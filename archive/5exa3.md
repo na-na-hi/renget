@@ -21,7 +21,8 @@
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) and just add it the way you add LoRA
 - [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
-	- [a4 by x portrait examples](https://files.catbox.moe/vycv54.jpg)  [](https://rentry.org/yxwiu)
+	- [a4 by x portrait examples](https://files.catbox.moe/vycv54.jpg)  
+	- [WIP Rentry](https://rentry.org/yxwiu)
 	-  Artist combos [Gallery view](https://catbox.moe/c/6etv3n#)
 - [a5a e621 tags](https://files.catbox.moe/e6jc6i.csv)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 

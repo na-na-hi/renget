@@ -1,5 +1,5 @@
 # /SCG/ - Star Citizen Info & Resources
-!!! note Updated as of LIVE Patch 3.21.1
+!!! note Updated as of LIVE Patch 3.22
 ***
 !!! note If you are new to star citizen, check out this [Introduction & Overview](https://rentry.org/guier/) on the game
 !!! note I'm active on the /vm/ thread, so feel free to point out useful resources you think should be added here, or if something is outdated or the links are broken.
@@ -11,11 +11,11 @@
 #### ->Latest Patch Notes<-
 Environment: | Patch Notes:
 ----- | -----
-**LIVE**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-21-1-live-patch-notes/6395777
+**LIVE**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-22-0-live-patch-notes
 **PTU**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048?page=1&sort=newest
 
 **- Known Issues** 
-https://support.robertsspaceindustries.com/hc/en-us/articles/360056254754-Star-Citizen-Alpha-3-21-1-Known-Issues
+https://support.robertsspaceindustries.com/hc/en-us/articles/360056254754-Star-Citizen-Alpha-3-22-Known-Issues
 **- PTU FAQ**   
 https://support.robertsspaceindustries.com/hc/en-us/articles/115013195927-Public-Test-Universe-PTU-FAQ
 !!! note Since each testing channel requires you to have multiple instances of the game installed on your PC, it can take up a lot of storage space. There are a few different tricks you can do to save space while swapping between these different environments.

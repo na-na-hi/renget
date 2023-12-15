@@ -28,10 +28,25 @@ Rank: Newbie.
 >>Password is BigFatMilkers123 btw
 >dude what the fuck is wrong with you why aren't the admins banning your ass
 
+>>>dude what the fuck is wrong with you why aren't the admins banning your ass
+>>By MoeLester
+>>Our new admin has their priorities straight lol
+
 >>>By (DELETED USER)
 >>>[MediaIce](https://rentry.org/uv6o9s)
 >>By RipperRapper
 >>You are a GOD! Thanks a bunch.
+
+>>By Sharkunny
+>>God that was a good wank.
+
+>>>God that was a good wank.
+>>By AmeSame
+>>Forgot to switch accounts, you big goober?
+
+>>>Forgot to switch account, you big goober?
+>>By Sharkunny
+>>Oh nyooo
 
 ->Page 3<-
 

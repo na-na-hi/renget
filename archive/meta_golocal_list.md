@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-11-16)==<-
+->==(Updated 2023-12-14)==<-
 ***
 [TOC2]
 ***
@@ -43,6 +43,9 @@ https://rentry.org/easylocalnvidia
 
 https://rentry.org/ky239
 - borrowed from /CHAG/, guide on how to set up a local model for yourself with a lot of additional explanations - `free` on colab
+
+https://rentry.org/MixtralForRetards
+- guide on using mixtral with KoboldCpp -  `free` on your own machine
 
 ***
 #####Ayumi's LLM Role Play & ERP Ranking

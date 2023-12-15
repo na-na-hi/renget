@@ -228,7 +228,7 @@ use examples that have the same format as the original message. make casual refe
 `{{char}}:(Holding: stone) *taking careful aim, testbot throws the stone at the beehive, knocking it to the ground*`
 
 
-Thats it. I've had this basis work for tracking stuff like clothing worn, locations and "trust" on the *Housesitting with Cream the Rabbit* bot.
+Thats it. I've had this basis work for tracking stuff like clothing worn, locations and "trust" on the *[Housesitting with Cream the Rabbit](https://www.aisekai.ai/chat/6546ff2ff70381da9ec04409)* bot.
 The key part is being consistent so the Ai is able to pick up on what you want to achieve. It's not going to work 100% of the time so sometimes you will need to edit the post to put it back on track.
 
 

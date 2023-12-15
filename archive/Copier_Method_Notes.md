@@ -7,6 +7,9 @@
 
 [TOC2]
 
+!!! note
+	I plan to update this soon (maybe after December)
+
 ## Preface
 I don't know much about the deep end of all of this to speak out on anything that hasn't been said before but I wanted to take some notes on what I learned from the sources above in hopes that someone more knowledgeable can do a better write-up.
 
@@ -14,14 +17,18 @@ Also a warning that the data previews below may be considered NSFW.
 
 >Can you train style/character/concepts with this?
 **Character**
-Emanon talks about character training in their notes linked up top. I have tested this for OCs but I only tried out Honey Select and trained color and features but not outfits.
-I felt like the flexibility was pretty good. I trained a character with two toned hair and it was still able to account for that with alternate hairstyles.
+Emanon talks about character training in their notes linked up top. I do stuff slightly different from Emanon and eventually I will fix this guide up to talk on that.
+- I felt like the flexibility was pretty good. I trained a character with two toned hair and it was still able to account for that with alternate hairstyles.
+- I still needed to tag various things in training and in prompts
+	- Training a LeCO and merging with a character LoRA could help force details
+- Works no matter where you get the dataset from. I have tried HS2, KK2, and personal drawings
 
 **Concept**
 If it's something like glasses or adjusting facial features. Yes.
 
 **Style**
-Creating photo and image affects is easy enough but I am not sure this could be done to learn an artistic style easily
+Creating photo and image affects is easy enough but I am not sure this could be done to learn an artistic style easily.
+
 
 >What are the benefits?
 - Small datasets required for simple concepts

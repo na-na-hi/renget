@@ -1,6 +1,6 @@
 #Heyaa~ Tap here for [Claude!](https://www.rentry.org/MyuuTastic)
 #Here for [Furbo](https://rentry.org/Myuu_Jippy)
-
+!!!note These is just so that there's something to use while I make a stable jailbreak!
 #Myuu's Gemini Prompts.
 ->==Gemini Prompta!.==<-
 !!!note Below will be the Gemini prompts. Or~ You can have the preset! It's the exact thing as my Furbo prompts but mildly re-written!
@@ -10,7 +10,7 @@
 ![Warning](https://files.catbox.moe/m2f8kc.jpg)
 !!!danger To avoid impersonation! and I guess Improve character playing, Put these as custom stopping strings.
 ```
-["user", "system", "model"]
+["user:", "system:", "model:"]
 ```
 ![stopp](https://files.catbox.moe/mhoiaq.png)
 #Extra rules! This section will be for specific prompts! You just put it on the jailbreak. Might make more~. 

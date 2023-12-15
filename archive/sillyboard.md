@@ -9,7 +9,7 @@
 > **music** 
 >> **GHOST** [heis](https://rentry.org/heis),  [popia](https://rentry.org/popia), [secondo](https://rentry.org/secondo), [seethelight](https://rentry.org/seethelight), [imcrucified](https://rentry.co/imcrucified), [*mountainghoul*](https://rentry.org/mountainghoul), [*maryonacross*](https://rentry.org/maryonacross),   [**emeritusiv**](https://rentry.org/emeritusiv)
 
->> **STARSET** [transmissions](https://rentry.org/transmissions), [mydemons](https://rentry.org/mydemons), [antigravity](https://rentry.org/antigravity), [unbecoming](https://rentry.org/unbecoming), [*earthrise*](https://rentry.org/earthrise), [*dustinbates*](https://rentry.org/dustinbates), [downplay](https://rentry.org/downplay), [mnqn](https://rentry.org/mnqn)
+>> **STARSET** [transmissions](https://rentry.org/transmissions), [mydemons](https://rentry.org/mydemons), [unbecoming](https://rentry.org/unbecoming), [*earthrise*](https://rentry.org/earthrise), [*dustinbates*](https://rentry.org/dustinbates)
 
 >> **GRANDSON** [**grandson**](https://rentry.org/grandson), [wedidit](https://rentry.org/wedidit), [deathofanoptimist](https://rentry.org/deathofanoptimist), [kissbang](https://rentry.org/kissbang), [bills](https://rentry.org/bills), [bloodwater](https://rentry.org/bloodwater) 
 

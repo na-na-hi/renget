@@ -30,4 +30,4 @@ Latest post | What does it taste like?  *by NotMatsuri69*|
 
 Off Topic | For everything that isn't related to the rest of the forum.
 ---|---
-Latest post | How do I cook one minute rice *by ChammerAndHammers*|
+Latest post | How do I cook one minute rice *by HaHaHaaton*|

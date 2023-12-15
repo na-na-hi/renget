@@ -41,7 +41,6 @@ Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 >>>/d/nai
 >>>/g/sdg
 >>>/x/succgen
->>>/vt/vtai
 >>>/aco/sdg
 >>>/trash/sdg
 ```

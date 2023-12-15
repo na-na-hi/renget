@@ -1,4 +1,5 @@
 >>> Local install <<<
+Automatic1111: https://github.com/automatic1111/stable-diffusion-webui
 SD.Next (Better Automatic1111 fork): https://github.com/vladmandic/automatic
 ComfyUI (Node-based): https://rentry.org/comfyui
 Mac: http://drawthings.ai (settings: all compute units, enable metal flash)

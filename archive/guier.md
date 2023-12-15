@@ -1,5 +1,5 @@
 # /SCG/ - A Star Citizen Beginner Introduction & Overview 
-!!! note Updated as of patch 3.21.1
+!!! note Updated as of patch 3.22
 !!! warning Page still in WIP
 ***
 !!! danger I want to set your expectations going forward here; this game is by no means anywhere near complete. CIG and their database vendor have been struggling since the introduction of the [Persistent Entity Streaming](https://starcitizen.tools/Persistent_Entity_Streaming) backend technology in patch 3.18, making server performance much worse along with many inventory issues. Take this into account while reading through the document.

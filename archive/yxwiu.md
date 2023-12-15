@@ -3,7 +3,7 @@
 Positive:
 ```
 [by x]
-humanoid, [y focus], portrait, looking at viewer, straight-on,  white shirt,
+human, not furry,  female focus, portrait, looking at viewer, straight-on,  white shirt,
 sfw, 
 (best quality, high quality:1.4) 
 ```
@@ -14,7 +14,7 @@ nsfw,
 ```
 `Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 6, Seed: 8675309, Size: 512x768`
 !!! warning 
-	a5a, a5b
+	New to a5a/a5b
 -> ![](https://files.catbox.moe/7hmzl6.png) <-
 > by 40hara, by abmayo , by airi mii , by akagi \(fmttps\) , by akamoku , by alina becker, by alp , by an yasuri , by animeflux , by anyannko 
 
@@ -24,23 +24,59 @@ nsfw,
 -> ![](https://files.catbox.moe/emumwk.png) <-
 > by avante92 , by axsen , by aztodio , by betabeet , by bikupan , by blue-senpai , by bluefield , by bob \(bobtheneet\) , by boris \(noborhys\) , by brmameng 
  
--> ![]() <-
-> 
+-> ![](https://files.catbox.moe/rf4ng7.png) <-
+> by byoru , by cad \(caddo\) , by cait aron , by chelodoy , by chunie , by cle masahiro , by club3 , by conditional dnp, by cooliehigh , by criin 
+
+-> ![](https://files.catbox.moe/nuuznr.png) <-
+> by dandon fuga , by dermar , by desertkaiju , by diathorn , by dimwitdog , by dokuro deluxe , by donburi \(donburikazoku\) , by doppel , by dragonfu , by eltonel 
+
+-> ![](https://files.catbox.moe/w2kvrr.png) <-
+> by enako , by enigi09 , by ett , by fellatrix , by fluffydango , by foxyreine , by frumples , by fukuro daizi , by geewhy , by giotto di bondone 
+
+-> ![](https://files.catbox.moe/7dky9y.png) <-
+> by gomzi , by gsusart , by hajin , by harigane shinshi , by hatsuzuki 527 , by hekiga \(freelot\) , by honjou raita , by horosuke , by hoshima mika , by hu dako 
+
+-> ![](https://files.catbox.moe/9ubxt3.png) <-
+> by hxxg , by hyattlen , by icomochi , by ie \(raarami\) , by ikemeru19 , by inno-sjoa , by jagoo , by jairou , by janong , by jellytits-7 
+
+-> ![](https://files.catbox.moe/m9g72n.png) <-
+> by kishiyo , by kloah , by kokuchuutei , by konnyaku \(kk-monmon\) , by konomi \(kino konomi\) , by konoshige \(ryuun\) , by kozou \(soumuden\) , by ku roiko , by kunaboto , by lolita channel 
+
+-> ![](https://files.catbox.moe/7r6qyp.png) <-
+> by johnfoxart , by joy ride , by junkpuyo , by kamiyama aya , by kanabun , by kataku musou , by kawasaki aya , by kemuri haku , by kenket , by kimmy77 
 
 -> ![]() <-
-> 
+> by lonbluewolf , by luminyu , by luu \(cosplayer\) , by lvlirror , by magnetus , by makio \(makiomeigenbot\) , by malberrybush , by mamimi \(mamamimi\) , by mark gavatino , by masayo \(gin no ame\) 
 
 -> ![]() <-
-> 
+> by masuyama ryou , by maya g , by megadeko , by miazi , by midori foo , by minust , by misaka 12003-gou , by misekai 555 , by miso souperstar , by mm \(mm chair\) 
 
 -> ![]() <-
-> 
+> by mo \(kireinamo\) , by mochirong , by monikano , by morisobo , by moyu marginal , by muke \(fz064\) , by muryotaro , by n.g. , by nagatsukiin , by nagu 
 
 -> ![]() <-
-> 
+> by naidong \(artist\) , by naufaldreamer , by ndgd , by negom , by nia \(nia4294\) , by nian \(zhanian\) , by null \(nyanpyoun\) , by ogami kazuki , by onabe no shime , by oni-noboru 
 
 -> ![]() <-
-> 
+>by onono imoko , by pandea work , by parsley-f , by pierre-auguste renoir , by polyle , by pongldr , by puuzaki puuna , by r-mk , by rajii , by raphael 
+
+-> ![]() <-
+>by ratatooey , by reiq , by rembrandt , by riz , by romarom , by rosuuri , by rtil , by sakimichan , by saltyxodium , by samneco 
+
+-> ![]() <-
+>by sana!rpg , by sandro botticelli , by sanuki \(kyoudashya\) , by satoupote , by seibear , by seneto , by shibori kasu , by shibuya kaho , by shimizu akina , by shpo 
+
+-> ![]() <-
+>by sicmop , by spectrumshift , by sugihara anri , by sulcate , by sunna \(nilsunna\) , by sunnysideup , by suoiresnu , by takanashihanari , by takeda hiromitsu , by tamada heijun 
+
+-> ![]() <-
+>by tanaka mana , by taran fiddler , by tinnies , by titian , by tk8d32 , by totesfleisch8 , by truegrave9 , by uno ryoku , by valtor , by vincent van gogh 
+
+-> ![]() <-
+>by vinnegal , by wacchi , by wizzikt , by wlop , by xretakex , by xter , by yakou , by yaneko uta , by yasuyuki , by yd \(orange maru\) 
+
+-> ![]() <-
+>by yoshikawa aimi , by yuuka nonoko , by zakusi , by zanamaoria , by zen33n , by zumi \(zumidraws\) 
 
 
 !!! warning 

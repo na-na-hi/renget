@@ -614,11 +614,13 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 
 ## その他
 ### キャラLoRAの最適解(SD1.X)
+- 学習に使うウェイトはanimefull
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
 - 4000-6000steps,Dim64/Alpha8-16
 - 畳み込み層はほぼ影響ないのでconv_dimとかの指定はいらない
-- OptimizerはDAdaptation系
+- OptimizerはDAdaptation系(LR=1)
+- IN04-07,OUT03-06だけでいい
 - キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい
 
 ### キャラLoRAの最適解(SDXL)
@@ -626,7 +628,7 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
 - 4000-6000steps,Dim8/Alpha2
-- OptimizerはDAdaptation系
-- キャプションはそのままで、shuffle captionはオフ←これ大事。オンだとなにも学習しない!
+- OptimizerはDAdaptation系(LR=1)
+- キャプションはそのままで、shuffle captionはオフ
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!
 - gradient_checkpointingオンでもVRAMあふれる状況ならオフにしたほうが速い

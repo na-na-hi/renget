@@ -22,7 +22,7 @@ ex) Visual Novel Mode
 ![Image description](https://cdn.discordapp.com/attachments/1177997891462246440/1182603989376835664/001.png?ex=65854cca&is=6572d7ca&hm=6894e152d78fb19ef483037dcffadf4a43476ca0f5bff019940221722d011395&)
 
 *Option (Random event Lorebook for Silly)
-https://drive.proton.me/urls/ARK9XZPHF4#2NuFesPOqe5x
+https://drive.proton.me/urls/C41YA15EKC#T5pdWHfD0gdz
 
 ## 2. Risu user:
 (1) download

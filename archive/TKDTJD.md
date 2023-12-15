@@ -641,3 +641,44 @@ https://nitter.net/TheGrayzoneNews/status/1732456680938504547#m  12/6/23
 
 >Josh Paul resigned from the State Dept over sending arms to Israel. “I have heard from actually so many hundreds of colleagues at this point who support what I did,” he says. “They are finding what is happening both a moral disaster and a policy disaster for the United States.”
 https://nitter.net/amanpour/status/1731745533474074663#m  12/4/23
+
+>Lebanon: Islamic Resistance: We targeted a gathering of occupation soldiers in the vicinity of the Shomera Barracks, the Lebanese town of Tarbikha, with appropriate weapons.
+https://nitter.1d4.us/ME_Observer_/status/1735236090498306365#m  12/14/23
+
+>Hezbollah published a new video showing their attacks from December 11th, targeting a number of IOF sites on the border. The first scene shows Hezbollah destroying Unit 300’s command room in the Shomera barracks.
+https://twitter.com/AryJeay/status/1735237357954019426  12/14/23
+
+>According to American local media, a Warner Robins teacher has been arrested after threatening to behead a 7th-grade student who said that she thinks that having Israel’s flag in classroom is offensive.
+https://nitter.net/QudsNen/status/1735253407277986252#m  12/14/23
+
+>Activists and grassroots groups are calling for a global strike on Monday, December 18, 2023, that includes all aspects of public life in solidarity with the Palestinian people, and to demand an immediate ceasefire in Gaza. #StrikeForGaza
+https://nitter.net/QudsNen/status/1735287468268609579#m  12/14/23
+
+>(1,400) soldiers, the majority of whom are reserve forces, participate in the military operation on #Jenin camp over the course of two days. The operation will continue, perhaps longer than Operation House and Garden, and therefore it will be the largest and longest operation since the second #Palestinian Intifada.
+https://nitter.1d4.us/ME_Observer_/status/1735192257421054379#m  12/14/23
+
+>Yedioth Ahronoth: It is difficult to describe the massive explosion in the Shujaiya ambush carried out by the #Hamas movement. It is an oppressive horror that dominates the body and mind, during which the screams of #Israeli army soldiers were heard.
+https://nitter.1d4.us/ME_Observer_/status/1735235513882198495#m  12/14/23
+
+>CONFIRMED: Yemeni Naval sources told Al-Jazeera: AnsarAllah ordered a cargo ship, which was sailing in the Red Sea towards israeli ports, to change its course. The ship is on its way to a port off the coast of Yemen.
+https://nitter.net/AryJeay/status/1735300644800499974#m  12/14/23
+
+>Al-Qassam (Hamas) announced in the past 40 minutes: Targeting of 7 Merkava tanks Joint-operation with Al-Quds Brigades, shelling forces in Khan Yunis with heavy mortars, with confirmed casualties (helicopters spotted)
+https://nitter.net/AryJeay/status/1735288106062868666#m  12/14/23
+
+>Israelis are burning after Yemen detained another ship that was headed towards israeli ports It’s like music to my ears.
+https://nitter.net/AryJeay/status/1735309468936630591#m  12/14/23
+https://nitter.net/pic/orig/media%2FGBUOwnyWMAAJNoK.jpg  12/14/23
+
+>Large areas of the Gaza Strip are once again plunging into a telecom and internet outage due to the depletion of fuel resources necessary to operate telecommunications lines.
+https://nitter.net/QudsNen/status/1735339771625443497#m  12/14/23
+
+>The Israeli army has published this photo claiming to show weapons confiscated during the 3-day offensive in Jenin refugee camp.
+According to local and media sources, all of the items in the photo are in fact plastic toys for children, except for 3 pistols and hunting rifles.
+https://nitter.net/QudsNen/status/1735388374846906837#m  12/14/23 
+
+>Iraq: Al-Mayadeen correspondent: Bombing targeted American forces at Ain al-Assad base in western #Iraq
+https://nitter.1d4.us/ME_Observer_/status/1735416050198458534#m  12/14/23
+
+>The naval forces of the Yemeni Armed Forces, carried out a military operation against the container ship "Mercy Gibraltar," heading to the israeli entity. It was targeted with a suicide drone, resulting in a direct hit. This targeting operation came after the ship's crew refused to respond to the calls of the Yemeni naval forces. Over the past 48 hours, the Yemeni Armed Forces successfully prevented the passage of several ships destined for the Israeli entity.
+https://nitter.net/AryJeay/status/1735390328230711569#m  12/14/23

@@ -41,7 +41,7 @@ You may use one of the following methods to migrate your EmuNAND to a new SD car
 10. Once the emuNAND dumping procedure is done, plug your new SD card into your PC.
 11. Click on the `File` tab and select `Open file`.
 12. Select your emuNAND dump.
-13. Click on the `Options` tab.
+13. Click on the `Tools` tab.
 14. Select `Emunand Creation Tool (RAWNAND, FULL NAND)`.
 15. Make sure that the `SD Partition` option is selected.
 16. Select your SD card in the `Select target disk:` area, and press `Create emuNAND`.

@@ -7,7 +7,8 @@
 Story Title | Author
 ---|---
 (True) [My little brother's friend](https://rentry.org/cd3ris) | *by KnightoCuppo* 
-(True) My Auntie's Little Secret... |*by UncleAnon*|
+(True) My nephew's first blowjob! | *by FoxyLady*|
+(True) My Uncle's Little Secret...|*by UncleAnon*|
 Foxfamily breakfast! |*by Aronimoose*|
 ~~(True) My friend's son... I had so much fun with him.~~ |*by Suisexxx*|
 	-> BANNED BY ADMIN - Reason: This is a community of love, not abuse! <-

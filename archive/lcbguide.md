@@ -4,9 +4,6 @@
 !!! danger Disclaimer
 	Do not repost this guide on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance](https://files.catbox.moe/gyofcn.webp)
 [TOC]
-!!! warning Disclaimer 2
-    hnnnghhh danteh i havent updated the guide yet to reflect the new mirror dungeon 3 update hnnghhh, all mirror dungeons have been merged into one and there is no hard mode until next weeks update, i dont think the rewards have changed though hnnnghhh
-
 ## FAQ
 **1. What is Limbus Company?**
 Ligma Company is a game developed by Project Type-Moon, the developers of Colonoscopy Corporation and Legend of Ruinia. It's about reimagined literary characters living in a dystopian hellhole called ~~South Korea~~ The City, hired by the titular Sugma Company to scour the ruins in search of Golden Boughs for an as-yet unspecified goal, while driving a bus that runs on human lives.
@@ -20,9 +17,7 @@ A great story, characters, and setting. On top of that, jank, but fun gameplay t
 Also note that, unlike other gachas, we have a set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over. Also, the gacha system is an in-universe thing and important to the plot, and even the way you upgrade units and grind for resources is explained in the lore with autistic detail.
 
 **5. What should I be doing during early game?**
-Go through the story at your own pace. Once you complete chapter 2 you will have Luxcavation and Mirror Dungeons unlocked. Mirror Dungeons have Weekly Bonuses that grant you Lunacy and Battle Pass XP. Luxcavation is how you farm XP tickets and Thread to upgrade your Identities and E.G.Os. Collect all your Weekly Bonuses and farm resources in Luxcavation to upgrade your units if you're having a hard time. Don't do Lunacy refills during early game, because your maximum Enkephalin (energy) isn't going to be high enough to justify it. Either wait for your Enkephalin to replenish or use Enkephalin boxes in the meantime.
-
-You can worry about farming Battle Pass XP and Egoshard Crates after you have completed chapter 4. If you want to know what to do after early game, (after you have completed chapter 4) please view the Farming and Activities sections of this guide.
+Go through the story at your own pace. Once you complete chapter 2 you will have Luxcavation and Mirror Dungeons unlocked. Mirror Dungeons have Weekly Bonuses that grant you Lunacy and Battle Pass XP. Luxcavation is how you farm XP tickets and Thread to upgrade your Identities and E.G.Os. Collect all your Weekly Bonuses and farm resources in Luxcavation to upgrade your units if you're having a hard time. Don't do Lunacy refills during early game, because your maximum Enkephalin (energy) isn't going to be high enough to justify it. Either wait for your Enkephalin to replenish or use Enkephalin boxes in the meantime. If you want to know what to do after early game, please view the Farming and Activities sections of this guide.
 
 **5. This game has a required reading list?**
 Yes. They're not necessary to understand the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger, and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are canon comics and novels set in the Project Moon Universe.
@@ -74,7 +69,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 
 ## Rerolling
 **1. Do I need to reroll?**
-No. All story content in the game can be beaten with the default Identities and E.G.O. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
+No. All story content can be beaten with the default Identities. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
 I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get one or two Identities on this list. Do not bother rerolling for E.G.O.
@@ -217,19 +212,22 @@ Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
 Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
+!!! warning Disclaimer 2
+    With the December 13 update, all Mirror Dungeons have been merged into one. The rewards are the same as MD2. There is currently no hard mode, but it will be re-added with the December 20 update. Sit tight, manager-nim.
+
 In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass, which is leveled by doing missions and Mirror Dungeons. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
 
 **1. What is the best way to farm Egoshards?**
 You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
-* Doing one MD2H (Mirror Dungeon 2 Hard Mode) a week
-* Farming as much MD2 (Mirror Dungeon 2) as you want (optional but will net you lots of crates)
+* Doing one Mirror Dungeon Hard Mode (MDH) a week
+* Farming as many Mirror Dungeons (MDs) as you want (optional but will net you lots of crates)
 * Collecting all Mirror Dungeon Weekly Bonuses
 * Doing your missions (daily, weekly, seasonal)
 
-You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MD2H is enough, and more than two Mirror Dungeon runs a day is not necessary. Don't bother with farming MD1 if you haven't unlocked MD2 yet; just do your 3 weekly runs to grab your Weekly Bonuses until you have MD2 unlocked. Do not do more than one MD2H a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD2.
+You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MDH is enough, and more than two Mirror Dungeon runs a day is not necessary. Do not do more than one MDH a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-If you plan on doing daily Mirror Dungeon runs, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MD2H Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
+If you plan on doing daily Mirror Dungeon runs, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MDH Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
 
 In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely *if* you are dedicated enough. A lot of people skip every banner and save all their Lunacy for the Walpurgisnacht Extraction, and just shard everything else.
 
@@ -311,7 +309,7 @@ R Corp Ishmael and Meursault need to be at Uptie 4. It is also recommended that 
  - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. Both of them, Hook Lu, G Outis and Shi Don are good picks for MD2H. KK Hong Lu doesn't roll  well in MD2H but his skill 2 can absolutely decimate slash weak enemies during early game. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
+L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. Both of them, Hook Lu, G Outis and Shi Don are good picks for ~~MD2H~~. KK Hong Lu doesn't roll  well in ~~MD2H~~ but his skill 2 can absolutely decimate slash weak enemies during early game. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Hook Office Fixer Hong Lu](https://files.catbox.moe/coki2s.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
@@ -326,16 +324,16 @@ The main draw of the game. If you beat battles in 10 turns or less, you'll get a
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can leave and resume later.
 
 **3. Mirror Dungeons**
-The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. Each Mirror Dungeon (excluding the first Mirror Dungeon) has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and you will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5 regardless of completion level.
+The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. The Mirror Dungeon has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and you will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5 regardless of completion level.
 
-Mirror Dungeon 2 Hard (MD2H) has its own separate Weekly Bonus that can be collected once a week. This bonus does not grant Lunacy. Without the bonus, the cost and rewards are the same as in MD2 normal. Completing MD2H allows you to collect all three normal Weekly Bonuses at once, but you need to use up at least one regular Weekly Bonus to collect the MD2H Weekly Bonus.
+Mirror Dungeon Hard (MDH) has its own separate Weekly Bonus that can be collected once a week. This bonus does not grant Lunacy. Without the bonus, the cost and rewards are the same as in normal. Completing MDH allows you to collect all three normal Weekly Bonuses at once, but you need to use up at least one regular Weekly Bonus to collect the MDH Weekly Bonus.
 
+The rewards for hard mode will presumably be the same as MD2H.
 Type | Module Cost | BP XP (No Bonus) | BP XP (Bonus)
 :----: | :----: | :----: | :----:
-MD1 (Unlocked after chapter 2) | 3 | 10 | 15
-MD2 (Unlocked after chapter 4) | 5 | 30 | 45
-MD2H (Unlocked after chapter 4) | 18 | 30 | 150
-MD2H (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
+MD (Unlocked after chapter 2) | 5 | 30 | 45
+MDH (Unlocked after chapter 2) | 18 | 30 | 150
+MDH (Unlocked after chapter 4) | 18 | 30 | 225 (All 4 Weekly Bonuses)
 
 **4. Thread & EXP Luxcavation**
 The first tier of each is unlocked sometime during chapter 2. Both can be either fought normally or skipped for extra Module cost if you hate farming. Skipping a Luxcavation gives 50% less for the Modules spent but 50% more for the individual run. It is more advisable to skip Thread Luxcavation over EXP Luxcavation, because Thread Luxcavation has daily bonuses. EXP stages have five levels: 8, 18, 28, 33 and 38. Thread stages have three levels: 20, 30 and 40. The higher the level, the higher the rewards.
@@ -388,5 +386,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
 11/23-24/23: Updated for new chapter part.
 11/27/23: Added preface to farming section and updated both tier lists.
-12/8/23: Fixed and updated some minor things. ![lol&](https://files.catbox.moe/7dmu76.png)
-12/13/23: hnnghh danteehhh please wait while i update the mirror dungeon sections im eepy
+12/8/23: Fixed and updated some minor things.
+12/14/23: Updated to reflect the new Mirror Dungeon update. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -2,7 +2,7 @@
 **XXX** Edition
 
 Launch trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
-Release trailer: https://www.youtube.com/watch?v=_TmGocqpY0Y
+Release trailer: https://www.youtube.com/watch?v=qVw5M42LwZo
 
 \>News:
 Patch 5: https://baldursgate3.game/news/patch-5-now-live_99
@@ -25,9 +25,6 @@ https://www.nexusmods.com/baldursgate3/
 \>A: Yes. You get additional content, BUT there are points where if you've chosen to resist the Urge and/or don't complete quests the "right" way, you'll have to pass additional checks to avoid losing companions.
 \>Q: Are there any consequences to tadpolemaxing?
 \>A: [spoiler]No, you can consume as many tadpoles as you want without consequence. HOWEVER, if you consume the Astral-Touched Tadpole you'll suffer some cosmetic changes.[/spoiler]
-
-\>Misc:
-\>If you're updating from EA, delete your saves at "%localappdata%\Larian Studios\Baldur's Gate 3\PlayerProfiles\" before playing.
 
 \>Polls:
 \>Romance: https://strawpoll.com/NMnQ5kJXYn6

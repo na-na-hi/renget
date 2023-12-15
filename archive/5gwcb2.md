@@ -23,7 +23,7 @@ Rank: Newbie.
 >>Pics or it didn't happen. 
 >>Please, anything??
 >>For scientific purposes.
->Go fuck a horse you fucking retard. 
+>Go fuck a cactus you fucking retard. 
 
 >>By (DELETED USER)
 >>I'm sorry dude, how did you find the video?

@@ -309,12 +309,17 @@ Another entertaining [/aicg/](https://boards.4channel.org/wsg/catalog#s=aicg)
 https://github.com/CncAnon1/TurboFinetuneRP
 - how to fine-tune gpt-3.5-turbo-0613 for roleplay
 
-https://github.com/Buhankoanon/OAI_API_Checker (outdated: doesn't check alternative oai orgs and treats billing_not_active keys as dead)
-https://github.com/CncAnon1/kkc (more up to date)
--  OpenAI key checkers
+https://github.com/Buhankoanon/OAI_API_Checker
+- outdated: doesn't check alternative oai orgs and treats billing_not_active keys as dead
+
+https://github.com/CncAnon1/kkc
+-  more up to date; OpenAI key checker
 
 https://github.com/Definetelynotbranon/Anthropic_API_Checker/
 - Claude/Anthropic key checker
+
+https://github.com/kingbased/keychecker
+- universal key checker
 
 https://rentry.org/55py9
 - a bunch of papers and findings relevant to AI chatbots, not just to llms

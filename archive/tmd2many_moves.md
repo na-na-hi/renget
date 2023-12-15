@@ -89,7 +89,7 @@ Bulldoze | 6 BP | 6 AP | ≥11 | Ground | Physical | The next round, the Opponen
 Bullet Punch | 4 BP | 5 (-1) AP | ≥2 | Steel | Physical | Priority. AP cost decreased by 1.
 **Bullet Seed** | 1D10 | 6 AP | - | Grass | Physical | Multi-Hit; Roll 1D10.
 Burn Up | 12 BP | 8 AP | ≥2 | Fire | Special | Fire-Type; Thaws User, loses Fire-Type. 
-Burning Jealousy | 7 BP | 6 AP | ≥2 | Fire | Special | If the Opponent's Stats have increased last round, they are afflicted with *Burn*.
+Burning Jealousy | 7 BP | 6 AP | ≥2 | Fire | Special | If the Opponent's Stats were increased last round, they are afflicted with *Burn*.
 Ceaseless Edge | 6 BP | 6 AP | ≥3 | Dark | Physical | The Opponent is afflicted with *Splintered*.
 Charge Beam | 5 BP | 6 AP | ≥3 | Electric | Special | 6-20; The User's Special Attack is increased by 1.
 **Chatter** | 6 BP | 5 AP | ≥2 | Flying | Special | 14-20; The Opponent is afflicted with *Confusion*.
@@ -468,8 +468,8 @@ Snap Trap | 4 BP | 6 AP | ≥2 | Grass | Physical | The Opponent is afflicted wi
 Snarl | 4 BP | 7 AP | ≥11 | Dark | Special | The Opponents' Special Attack is decreased by 1. Spread.
 Snipe Shot | 8 BP | 6 AP | ≥2 | Water | Special | 18-20; Increased Crit Ratio. Ignores Focus-drawing effects.
 Snore | 5 BP | 5 AP | ≥2 | Normal | Special | 14-20; The Opponent Flinches. Fails if the User is not afflicted with *Sleep*.
-Solar Beam | 12 BP | 7 AP | ≥2 | Grass | Physical | While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. Hits 1 round after the Move is used.
-Solar Blade | 12 BP | 7 AP | ≥2 | Grass | Physical | While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. Hits 1 round after the Move is used.
+Solar Beam | 12 BP | 7 AP | ≥2 | Grass | Physical | Hits 1 round after the Move is used. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. 
+Solar Blade | 12 BP | 7 AP | ≥2 | Grass | Physical | Hits 1 round after the Move is used. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Rain](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. 
 Sonic Boom | - | 6 AP | ≥3 | Normal | Special | Deals 9 damage. Not affected by STAB, Stat increases or decreases, or Type Effectiveness except for immunities.
 **Spacial Rend** | 10 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. Cuts through the fabric of space.
 Spark | 6 BP | 5 AP | ≥2 | Electric | Physical | 14-20; The Opponent is afflicted with *Paralysis*.
@@ -496,7 +496,7 @@ Strange Steam | 9 BP | 7 AP | ≥2 | Fairy | Special | 16-20; The Opponent is af
 Strength | 8 BP | 6 AP | ≥2 | Normal | Physical | The User can lift certain objects.
 Struggle Bug | 5 BP | 6 AP | ≥2 | Bug | Special | The Opponent's Special Attack is decreased by 1.
 Submission | 8 BP | 6 AP | ≥5 | Fighting | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
-Sucker Punch | 7 BP | 5 (-1) AP | ≥2 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
+Sucker Punch | 7 BP | 5 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the Opponent's Ability.
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 
@@ -559,7 +559,7 @@ Windbolt Storm | 10 BP | 8 AP | ≥11 | Electric | Special | 14-20; The Opponent
 Wing Attack | 6 BP | 4 AP | ≥2 | Flying | Physical | No secondary effect.
 **Wood Hammer** | 12 BP | 8 AP | ≥4 | Grass | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Wrap | 1 BP | 6 AP | ≥3 | Normal | Physical | The Opponent is afflicted with *Wrapped*.
-**Wring Out** | - | 8 AP | ≥2 | Normal | Special | The Move's BP is decreased by 2 every round they take damage.
+**Wring Out** | 10 BP | 8 AP | ≥2 | Normal | Special | The Move's BP is decreased by 2 every round the Opponent takes damage.
 X-Scissor | 8 BP | 6 AP | ≥2 | Bug | Physical | 18-20; Increased Crit Ratio.
 Zap Cannon | 10 BP | 8 AP | ≥11 | Electric | Special | The Opponent is afflicted with *Paralysis*.
 Zen Headbutt | 8 BP | 6 AP | ≥3 | Psychic | Physical | 16-20; The Opponent is afflicted with *Flinch*.
@@ -1053,3 +1053,15 @@ Z-Crystal | Name | Base Power | Action Points | Accuracy | Type | Property | Des
 ![Cover Them In Glitter That Will Never Wash Off!](https://archives.bulbagarden.net/media/upload/b/b6/Bag_Fairium_Z_Sprite.png)Fairium | Twinkle Tackle | ??? | ??? | - | Fairy | ??? | No secondary effect.
 
 ***
+
+Aerial Ace | 6 BP | 5 AP | - | Flying | Physical | No secondary effect.
+Electro Shot | 12 BP | 8 AP | ≥2 | Electric | Special | Hits 1 round after the Move is used. While in [Rain](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. The User's Special Attack is increased by 1.
+Tera Starstorm | 12 BP | 8 AP | ≥2 | Normal | Special | If the User is in Stellar Form; Spread. 
+Fickle Beam | 8 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. 
+Burning Bulwark | - | 4 AP | - | Fire | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Burned*.
+Thunderclap | 9 BP | 5 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
+Mighty Cleave | 10 BP | 7 AP | ≥2 | Rock | Physical | Ignores Protect Moves.
+Tachyon Cutter | 5 BP | 8 AP | - | Steel | Special | Hits twice.
+Hard Press | 10 BP | 8 AP | ≥2 | Steel | Physical | The Move's BP is decreased by 2 every round the Opponent takes damage.
+Dragon Cheer | - | 4 AP | - | Dragon | Status | The User's Crit Ratio is increased by 1. The User may select 1 additional Ally to have their Crit Ratio increased by 1 at the cost of 2 AP. If the User is Dragon-Type, their own Crit Ratio is increased by 2.
+Alluring Voice | 8 BP | 6 AP | ≥2 | Fairy | Special | If the Opponent's Stats were increased last round, they are afflicted with *Confused*.

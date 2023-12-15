@@ -74,6 +74,8 @@ https://archive.4plebs.org/tg/thread/87135712/#87143309
 >>91209369
 >Jan Zizka
 >>91220473
+>Joey Jabroni
+>>91225701
 ```
 ***
 Page 2
@@ -107,7 +109,7 @@ Page 2
 >Silas M. Schrodfer
 >>91195899
 >Booker Caelus
->>91199676
+>>91225713
 >Agni
 >>91202659
 >Marissa Von Heinsworth
@@ -120,6 +122,14 @@ Page 2
 >>91223665
 >Aarando Specia
 >>91217522
+>Damian Casper
+>>91223665
+>John Doe
+>>91224368
+>Eulalia Sadowski
+>>91227238
+>Robert Butz
+>>91229069
 
 >Writefags:
 >As the River Flows (Shiori)
@@ -155,11 +165,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Cold Comfort (Capture Cloth, Bakeneneko)
-https://rentry.org/wg6z5 
->First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
-https://rentry.org/rxc93
-
+>Sandy & Mio Laughing
+>>91224363
+>Kaori Kaoru
+>>91229075
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -490,6 +499,8 @@ Page 5
 >>91080404
 >Rui
 >>91197187
+>Kaori Kaoru
+>>91229075
 
 >Night Parade:
 >Cammy Link VN Karma

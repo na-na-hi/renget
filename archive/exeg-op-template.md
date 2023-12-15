@@ -39,8 +39,9 @@ https://files.catbox.moe/61ew8a.txt
 https://rentry.org/exegpastas
 https://rentry.org/4chanpastas
 
->Sonic Hedgehog 11 Fan Page
-https://sh11fanpage.neocities.org/
+>Slender the Arrival
+https://www.slenderarrival.com
+https://store.steampowered.com/app/252330/Slender_The_Arrival/
 
 >Room Template
 https://rentry.org/exeg-op-template/raw

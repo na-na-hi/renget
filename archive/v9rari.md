@@ -130,4 +130,4 @@ Why did it only happen to me?
 
 Why do my legs tingle for that monster?
 
-And just like that, the video ends. Years of trauma encapsulated in 4 minutes and 12 seconds, and neatly packed in 86MB.
+And just like that, the video ends. Years of trauma encapsulated in 4 minutes and 12 seconds, and neatly packed in 16MB.
