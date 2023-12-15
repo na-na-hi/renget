@@ -4,6 +4,9 @@
 	https://twitter.com/hololive_goods 
 	https://merch-matome.com/
 
+**Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**
+https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
+
 **Hololive 5th Fes *Capture the Moment* 16-17th March 2024 (JST) Start 1830 **
 *Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0230 PST)*
 https://hololivesuperexpo2024.hololivepro.com/tickets

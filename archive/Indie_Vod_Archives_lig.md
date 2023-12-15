@@ -45,7 +45,7 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@GrimmiVault)| Grimmis official vod channel, has several missing vods
-Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods up to 2023-11-03 (Incomplete) I made sure these are safe to share and will make sure future vods added to this are safe to share as well. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these. Im still working on this so it will stay up to date.
+Unofficial Grimmi vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-22yafABc1PHQQXlseOx6s)| Unlisted Youtube playlist with vods. I will make sure these are safe to share and edit them if needed and will make sure future vods added to this are safe to share as well. I have all of these vods saved locally as well for archivals sake in case they go down due to youtubes stupid copyright music system, i can reupload these. Im still working on this so it will stay up to date.
  Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods. This Speadsheet will likely only be updated every few months.
 
 ---

@@ -76,12 +76,12 @@ None | N/A
 ***
 
 #### ->Special Bonuses<-
-!!! note 0 IQ points to spend.
-	0/10 | ▯▯▯▯▯▯▯▯▯▯
+!!! note 7 IQ points to spend.
+	3/10 | ▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 ??? | ??? | 0 IP
-Eᴍᴘᴛʏ | Description. | 0 IP
+Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 3 IP
 Eᴍᴘᴛʏ | Description. | 0 IP
 Eᴍᴘᴛʏ | Description. | 0 IP
 Eᴍᴘᴛʏ | Description. | 0 IP

@@ -2624,6 +2624,11 @@ Coloring grid: https://files.catbox.moe/jy9zjp.jpg
 Vetra Nyx example pic: https://files.catbox.moe/8050o5.png
 LORA itself: https://files.catbox.moe/a9xyq0.safetensors
 
+# Kanga (Winnie the Pooh)
+>“Kanga” is the trigger word. Keep in mind it’s barely tested so it may be wonky but I’m getting some good results. Time for bed now. Enjoy the wholesome kangaroo mom.
+>Oh! And don’t forget to check the Lora’s metadata for training captions. There weren’t many, but there are a couple like “kangaroo” and “marsupial” that are worth pasting into the gen prompt.
+https://files.catbox.moe/h6m44t.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

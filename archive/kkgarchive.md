@@ -10,7 +10,7 @@
 
 ##&nbsp;->2023<-
 - 661&nbsp;&nbsp;[archiveofsins.com/h/thread/7705834/](https://archiveofsins.com/h/thread/7705834/)&nbsp;&nbsp;&nbsp;&nbsp;(12.12.2023 21:02)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Fantasy! This time for real! Edition
-- 660&nbsp;&nbsp;[archiveofsins.com/h/thread/7697745/](https://archiveofsins.com/h/thread/7697745/)&nbsp;&nbsp;&nbsp;&nbsp;(08.12.2023 01:35)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Time to relax edition
+- 660&nbsp;&nbsp;[archiveofsins.com/h/thread/7697745/](https://archiveofsins.com/h/thread/7697745/)&nbsp;&nbsp;&nbsp;&nbsp;(08.12.2023 01:35)&nbsp;&nbsp;[913]&nbsp;#&nbsp;Time to relax edition
 - 659&nbsp;&nbsp;[archiveofsins.com/h/thread/7690835/](https://archiveofsins.com/h/thread/7690835/)&nbsp;&nbsp;&nbsp;&nbsp;(03.12.2023 23:29)&nbsp;&nbsp;[1025]&nbsp;#&nbsp;Rest in archives edition
 - 658&nbsp;&nbsp;[archiveofsins.com/h/thread/7679548/](https://archiveofsins.com/h/thread/7679548/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 10:49)&nbsp;&nbsp;[935]&nbsp;#&nbsp;Lazy people are lazy edition
 - 657&nbsp;&nbsp;[archiveofsins.com/h/thread/7679533/](https://archiveofsins.com/h/thread/7679533/)&nbsp;&nbsp;&nbsp;&nbsp;(28.11.2023 10:43)&nbsp;&nbsp;[1]&nbsp;#&nbsp;Lazy people are lazy edition

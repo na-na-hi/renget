@@ -372,6 +372,10 @@ Amandus | Info
 ![](https://files.catbox.moe/wjt6a1.png)   | Literally just a male fork of Amanda for little brother enjoyers. Apparently I can't get this image to shrink to the same size as the others unless there's more text here. That's kind of dumb. But thank you for enjoying my bots, it makes me happy to know things I make are making other people happy.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/amandus-c085df1c),  [Catbox](https://files.catbox.moe/apr2d6.png), [Alt gen 1](https://files.catbox.moe/nfahno.jpg), [Alt gen 2](https://files.catbox.moe/5intg4.jpg), [Alt gen 3](https://files.catbox.moe/34zlc1.jpg), [Alt gen 4](https://files.catbox.moe/urqv71.jpg)
 
+The Royal Bunny Harem | Info
+:----:  | :----: 
+![](https://files.catbox.moe/bxsgbw.png)   | (You) are the ruler of the kingdom of K'hayta, with all the stress and bullshit that entails. But it's not all politics and trade negotiations, because you also have your loyal harem of six bunny boys! All of which have their own goals and interests. Quite literally needs the lorebook to function properly, so please get the V2 version. Comes with a general greeting and one for each of the boys.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/the-royal-bunny-harem-81f00fb2),  [Catbox](https://files.catbox.moe/cs8ott.png), [Thyme](https://files.catbox.moe/uiyu9i.jpg), [Mint](https://files.catbox.moe/ezjajz.jpg), [Ginger](https://files.catbox.moe/3qs6f5.jpg), [Saffron](https://files.catbox.moe/shlnb4.jpg), and [Cayenne](https://files.catbox.moe/wfof3f.jpg)
 
 
 Shameful Codespawn | Info

@@ -195,6 +195,7 @@ Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
 Sasha Azanami: https://desuarchive.org/tg/post/91080404/
 Reika Umi: https://desuarchive.org/tg/post/91119597/
 Rui: https://desuarchive.org/tg/post/91197187/
+Kaori Kaoru: https://desuarchive.org/tg/post/91229075/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -631,6 +632,7 @@ Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
 cringekino clickbait: https://desuarchive.org/tg/post/91169301/
 Impakt Art: https://desuarchive.org/tg/post/91192484/
+Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

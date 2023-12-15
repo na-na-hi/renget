@@ -137,7 +137,16 @@ https://rentry.org/qvay7
 
 Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
 ```
+***
+Page 3
+***
+```
+>DAWN OF THE FIRST DAY (DAY 1 PART 1)
+>>91231156
+>Day 1 Part 1
+>>91234693
 
+```
 These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
 >Zarathustra
 >>91170483

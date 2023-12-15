@@ -553,7 +553,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Seeded**: The Afflicted Area drains 2 HP from everyone inside until they move.
 	- **Silenced**: For 3 rounds, the Afflicted is unable to speak or use Sound Moves.
 	- **Aqua Ring**: For 2 rounds, the Afflicted heals 1 HP every turn. Can be Baton Passed. Lasts 6 rounds.
-	- **Heal Block**: The Afflicted is unable to heal or be healed by Moves or effects caused by Moves. Lasts 5 rounds.
+	- **Heal Block**: The Afflicted is unable to heal or be healed by Moves or effects caused by Moves. Lasts 3 rounds.
 	- **Invisible**: The Afflicted is unable to be seen until using an Item, Move, or directly interacting with another Pokémon. 
 	- **Blinker**: The Afflicted randomly selects a target, Allied or Opponent. Lasts 3 rounds.
 	- **Exposed**: The Afflicted is not immune to Normal and Ghost-Type Moves. The Afflicted's Evasion increases are ignored.

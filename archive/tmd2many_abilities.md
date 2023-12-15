@@ -263,7 +263,7 @@ Stamina | When the User is hit by a Move, their Defense is increased by 1.
 **Stance Change** | When the User uses an attacking Move, their Attack and Special Attack Stats are increased by 2 Stat Points, and their Defense and Special Defense Stats are decreased by 2 Stat Points. When the User uses King's Shield, the opposite is true.
 Static | When the User is hit by a Physical Move with a roll less than or equal to 6, the Opponent is Paralyzed.
 Steadfast | When the User Flinches, their Speed is increased by 1.
-**Steam Engine** | The User
+**Steam Engine** | When the User is damaged by a Fire or Water-Type Move, their Speed is increased by 1. Speed-based rolls outside of combat have advantage.
 Steelworker | The User's Steel-Type Moves have STAB.
 Steely Spirit | The User and three Allies' Steel-Type Moves have their damage increased by 3. This Ability stacks with itself.
 Stench | When an Opponent is hit by the User with a roll of or above 19, the Opponent Flinches.

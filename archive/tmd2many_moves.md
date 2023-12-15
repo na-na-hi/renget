@@ -35,6 +35,7 @@ Air Slash | 8 BP | 6 AP | ≥2 | Flying | Special | 14-20; The Opponent Flinches
 **Anchor Shot** | 8 BP | 6 AP | ≥2 | Steel | Physical | The Opponent is afflicted with *Immobile*.  
 Ancient Power | 6 BP | 8 AP | ≥2 | Rock | Special | 19-20; The User's Attack, Special Attack, Defense, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1.
 Apple Acid | 8 BP | 6 AP | ≥2 | Grass | Special | The Opponent's Special Defense is decreased by 1.
+Alluring Voice | 8 BP | 6 AP | ≥2 | Fairy | Special | If the Opponent's Stats were increased last round, they are afflicted with *Confused*.
 Aqua Cutter | 7 BP | 6 AP | ≥2 | Water | Physical | 18-20; Increased Crit Ratio.
 Aqua Jet | 4 BP | 5 (-1) AP | ≥2 | Water | Physical | Priority. AP cost decreased by 1.
 Aqua Step | 8 BP | 6 AP | ≥2 | Water | Physical | The User's Evasion is increased by 1.
@@ -137,6 +138,7 @@ Double-Edge | 10 BP | 8 AP | ≥2 | Normal | Physical | [Recoil](https://rentry.
 **Draco Meteor** | 6 BP | 8 AP | ≥3 | Dragon | Special | The User's Special Attack is decreased by 2. Room-Hitter.
 Dragon Ascent | 12 BP | 8 AP | ≥2 | Flying | Physical | The User's Defense and Special Defense are decreased by 2.
 Dragon Breath | 6 BP | 5 AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with *Paralysis*.
+Dragon Cheer | - | 4 AP | - | Dragon | Status | The User's Crit Ratio is increased by 1. The User may select 1 additional Ally to have their Crit Ratio increased by 1 at the cost of 2 AP. If the User is Dragon-Type, their own Crit Ratio is increased by 2.
 Dragon Claw | 8 BP | 6 AP | ≥2 | Dragon | Physical | No secondary effect.
 Dragon Darts | 5 BP | 7 AP | ≥2 | Dragon | Physical | Hits twice. Hits two Opponents if possible.
 **Dragon Energy** | 8 BP | 8 AP | ≥2 | Dragon | Special | The Move's damage is increased by 1 for every 10 HP the User has. 
@@ -162,6 +164,7 @@ Echoed Voice | 4 BP | 6 AP | ≥2 | Normal | Special | Each consecutive use, BP 
 Egg Bomb | 10 BP | 8 AP | ≥6 | Normal | Physical | No secondary effect.
 Electro Ball | 10 BP | 6 AP | ≥2 | Electric | Special | The Move's damage is decreased by the Opponent's Speed Stat.
 Electro Drift | 10 BP | 8 AP | ≥2 | Fighting | Physical | The Move's Super-Effective damage is increased by 3.
+Electro Shot | 12 BP | 8 AP | ≥2 | Electric | Special | Hits 1 round after the Move is used. While in [Rain](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. The User's Special Attack is increased by 1.
 Electroweb | 5 BP | 6 AP | ≥11 | Electric | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. Spread.
 Ember | 4 BP | 4 AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Endeavor | - | - | ≥2 | ??? | ??? | ???
@@ -181,6 +184,7 @@ False Swipe | 4 BP | 4 AP | ≥2 | Normal | Physical | The Move is unable to KO 
 Feint | 3 BP | 7 (-2) AP | ≥2 | Normal | Physical | Priority. Nullifies Protect Moves.
 **Feint Attack** | 6 BP | 5 AP | - | Dark | Physical | Ignores effects dependent on Physical contact.
 Fell Stinger | 5 BP | 5 AP | ≥2 | Bug | Physical | If the Opponent is KO'd, the User's Attack is increased by 3.
+Fickle Beam | 8 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. 
 Fiery Dance | 8 BP | 6 AP | ≥2 | Fire | Special | 10-20; The User's Special Attack is increased by 1.
 Fiery Wrath | 9 BP | 8 AP | ≥11 | Dark | Special | 16-20; The Opponent Flinches. Spread.
 Final Gambit | - | 8 AP | ≥2 | Fighting | Special | The User's current HP is calculated for damage. The User faints.
@@ -238,6 +242,7 @@ Gunk Shot | 10 BP | 8 AP | ≥5 | Poison | Physical | 14-20; The Opponent is aff
 Gust | 4 BP | 4 AP | ≥2 | Flying | Special | Opponent using Fly, Bounce; The Move's BP is increased by 4.
 Gyro Ball | 1 BP | 4 AP | ≥2 | Steel | Physical | The Move's BP is increased by the Opponent's Speed Stat.
 Hammer Arm | 10 BP | 8 AP | ≥3 | Fighting | Physical | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
+Hard Press | 10 BP | 8 AP | ≥2 | Steel | Physical | The Move's BP is decreased by 2 every round the Opponent takes damage.
 Head Charge | 10 BP | 8 AP | ≥2 | Normal | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Head Smash | 12 BP | 8 AP | ≥4 | Rock | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Headbutt | 7 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The Opponent Flinches. Outside of battle; can shake trees.
@@ -249,7 +254,7 @@ Heavy Slam | - | 7 AP | ≥2 | Steel | Physical | Uses the User's HP Stat in dam
 Hex | 6 BP | 5 AP | ≥2 | Ghost | Special | If the Opponent has Major Status Condition, BP is increased by 6.
 Hidden Power | 6 BP | 5 AP | ≥2 | Normal | Special | Unown; Move is Super-Effective. Other; Type dependent on User.
 High Horsepower | 9 BP | 7 AP | ≥2 | Ground | Physical | No secondary effect.
-High Jump Kick | 12 BP | 7 AP | ≥3 | Fighting | Physical | If the Move misses, the User loses ½ of their Max HP.
+High Jump Kick | 12 BP | 8 AP | ≥3 | Fighting | Physical | If the Move misses, the User loses ½ of their Max HP.
 Hold Back | 4 BP | 4 AP | ≥2 | Normal | Physical | The Move is unable to KO the Opponent.
 Horn Attack | 7 BP | 6 AP | ≥2 | Normal | Physical | No secondary effect.
 Horn Drill | - | 8 AP | ≥15 | Normal | Physical | If the Opponent's Level is lower than the User's, they are OHKO'd.
@@ -312,6 +317,7 @@ Magma Storm | 10 BP | 8 AP | ≥6 | Fire | Special | The Opponent is *Trapped*.
 Magnet Bomb | 6 BP | 5 AP | - | Steel | Physical | No secondary effect.
 **Magnitude** | - | 5 AP | ≥2 | Ground | Physical | 1-2; 1 BP. 3-10; 4 BP. 11-15; 5 BP. 16-19; 6 BP. 20; 7 BP. Room-Hitter.
 **Make It Rain** | 6 BP | 8 AP | ≥3 | Steel | Special | The User's Special Attack is decreased by 1. Costs 1₽ to use. Room-Hitter.
+Malignant Chain | 10 BP | 8 AP | ≥2 | Poison | Special | 16-20; The Opponent is afflicted with *Poisoned*.
 Mega Drain | 4 BP | 6 AP | ≥2 | Grass | Special | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
 Mega Kick | 10 BP | 8 AP | ≥5 | Normal | Physical | No secondary effect.
 Mega Punch | 8 BP | 6 AP | ≥4 | Normal | Physical | No secondary effect.
@@ -321,6 +327,7 @@ Metal Claw | 5 BP | 5 AP | ≥2 | Steel | Physical | 19-20; The User's Attack is
 Meteor Assault | 15 BP | 8 AP | ≥2 | Fighting | Physical | The User is afflicted with *Recharging*.
 Meteor Beam | 10 BP | 7 AP | ≥3 | Rock | Special | The User's Special Attack is increased by 1. Hits 1 round after the Move is used.
 Meteor Mash | 9 BP | 7 AP | ≥3 | Steel | Physical | 16-20; The User's Attack is increased by 1.
+Mighty Cleave | 10 BP | 7 AP | ≥2 | Rock | Physical | Ignores Protect Moves.
 Mind Blown | 15 BP | 8 AP | ≥2 | Fire | Special | The User loses ½ of their Max HP.
 Mirror Coat | - | 6 AP | ≥2 | Psychic | Special | The User deals the Opponent's Special damage increased by 10.
 Mirror Shot | 7 BP | 6 AP | ≥4 | Steel | Special | 14-20; The Opponent's Accuracy is decreased by 1.
@@ -385,6 +392,7 @@ Prismatic Laser | 16 BP | 7 AP | ≥2 | Psychic | Special | The User is afflicte
 Psybeam | 6 BP | 5 AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with *Confusion*.
 Psychic | 9 BP | 7 AP | ≥2 | Psychic | Special | 19-20; The Opponent's Special Defense is decreased by 1.
 Psychic Fangs | 8 BP | 6 AP | ≥2 | Psychic | Physical | Ignores and nullifies Screen Moves.
+Psychic Noise | 7 BP | 6 AP | ≥6 | Psychic | Special | The Opponent is afflicted with [*Heal Block*](https://rentry.org/tmd2many_rules#status-effects).
 Psycho Boost | 14 BP | 8 AP | ≥3 | Psychic | Special | The User's Special Attack is decreased by 2.
 Psycho Cut | 7 BP | 6 AP | ≥2 | Psychic | Physical | 18-20; Increased Crit Ratio.
 Psyshield Bash | 7 BP | 6 AP | ≥3 | Psychic | Physical | The User's Defense is increased by 1.
@@ -496,25 +504,30 @@ Strange Steam | 9 BP | 7 AP | ≥2 | Fairy | Special | 16-20; The Opponent is af
 Strength | 8 BP | 6 AP | ≥2 | Normal | Physical | The User can lift certain objects.
 Struggle Bug | 5 BP | 6 AP | ≥2 | Bug | Special | The Opponent's Special Attack is decreased by 1.
 Submission | 8 BP | 6 AP | ≥5 | Fighting | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
-Sucker Punch | 7 BP | 5 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
+Sucker Punch | 7 BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Sunsteel Strike | 10 BP | 8 AP | ≥2 | Steel | Physical | The User ignores the Opponent's Ability.
+Supercell Slam | 10 BP | 8 AP | ≥2 | Electric | Physical | If the Move misses, the User loses ½ of their Max HP.
 **Super Fang** | - | 7 AP | ≥3 | Normal | Physical | Deals 4 true damage to the Opponent. Does not ignore Type immunities.
 Superpower | 10 BP | 8 AP | ≥2 | Fighting | Physical | The User's Attack and Defense are decreased by 1. 
 **Surf** | 4 BP | 6 AP | ≥2 | Water | Special | The User can surf over certain distances. Room-Hitter.
 **Surging Strikes** | 3D6+6 | 6 AP | ≥3 | Water | Physical | Always hits 3 times; Roll 3D6. The Move is always a Critical Hit. Misses if more than one roll is ≥3.
 Swift | 6 BP | 5 AP | ∞ | Normal | Special | Never misses.
 Synchronoise | 12 BP | 6 AP | ≥8 | Psychic | Special | If the Opponent shares a Type with the User, deals damage. Spread.
+Tachyon Cutter | 5 BP | 8 AP | - | Steel | Special | Hits twice.
 Tackle | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 **Tail Slap** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Take Down | 9 BP | 7 AP | ≥4 | Normal | Physical | [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
 Techno Blast | 12 BP | 8 AP | ≥2 | Normal | Special | Changes Type according to the held Drive.
+Temper Flare | 7 BP | 6 AP | ≥2 | Fire | Physical | If the User's last Move missed, damage is increased by 5.
 ~~Tera Blast~~ | ~~8 BP~~ | ~~6 AP~~ | ~~≥2~~ | ~~Normal~~ | ~~???~~ | ~~Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem.~~
+~~Tera Starstorm | 12 BP | 8 AP | ≥2 | Normal | Special | If the User is in Stellar Form; Spread. ~~
 Terrain Pulse | 5 BP | 7 AP | ≥2 | Normal | Special | While in Terrain, the Move's damage is increased by 5. The Move's Type changes according to the Terrain.
 Thief | 6 BP | 5 AP | ≥2 | Dark | Physical | The User steals the Opponent's Item.
 Thrash | 10 BP | 7 AP | ≥2 | Normal | Physical | If another Move is used within 3 rounds of using the Move, the User is afflicted with *Disabled*.
 Throat Chop | 8 BP | 6 AP | ≥2 | Dark | Physical | The Opponent is afflicted with *Silenced*.
 Thunder | 10 BP | 8 AP | ≥7 | Electric | Special | 16-20; The Opponent is afflicted with *Paralysis*. While in [Rain](https://rentry.co/tmd2many_rules#weather), never misses.
 Thunder Cage | 8 BP | 6 AP | ≥3 | Electric | Special | The Opponent is afflicted with *Trapped*.
+Thunderclap | 9 BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Thunder Fang | 7 BP | 6 AP | ≥2 | Electric | Physical | 16-18; The Opponent is afflicted with *Paralysis*. 19-20; The Opponent is afflicted with *Flinch*.
 Thunder Punch | 8 BP | 6 AP | ≥2 | Electric | Physical | 19-20; The Opponent is afflicted with *Paralysis*.
 Thunder Shock | 4 BP | 5 AP | ≥2 | Electric | Special | 19-20; The Opponent is afflicted with *Paralysis*.
@@ -533,6 +546,7 @@ Twin Beam | 4 BP | 7 AP | ≥2 | Psychic | Special | Hits 2 times; Roll 2D20.
 Twineedle | 2 BP | 6 AP | ≥2 | Bug | Physical | Hits 2 times; Roll 2D20. 16-20; The Opponent is afflicted with *Poison*.
 Twister | 4 BP | 6 AP | ≥2 | Dragon | Special | 16-20; The Opponent Flinches. Opponent using Fly or Bounce; Damage is increased by 4.
 **U-Turn** | 7 BP | 6 AP | ≥2 | Bug | Physical | Ignores Battlefield Hazards. Effects of *Wrapped* and *Stuck* are removed.
+Upper Hand | 6 BP | 5 AP | ≥2 | Fighting | Physical | If the Opponent used a Priority Move last round, they are afflicted with *Flinch*.
 Uproar | 9 BP | 7 AP | ≥2 | Normal | Special | The User is afflicted with *Insomnia*.
 V-Create | 18 BP | 8 AP | ≥2 | Fire | Physical | The User's Defense, Special Defense, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are decreased by 1.
 Vacuum Wave | 4 BP | 5 (-1) AP | ≥2 | Fighting | Special | Priority. AP cost decreased by 1.
@@ -594,6 +608,7 @@ Belly Drum | - | 4 AP | - | Normal | Status | The User's Attack is increased to 
 Bestow | - | 4 AP | - | Normal | Status | The User gives their Worn/Held Item to the Opponent. If used with an Item, the User gives their Item to an Ally with the AP cost decreased by 1. Ignores Protect Moves.
 Block | - | 4 AP | - | Normal | Status | The Opponent is afflicted with *Immobile*.  
 Bulk Up | - | 4 AP | - | Fighting | Status | The User's Attack and Defense are increased by 1. 
+Burning Bulwark | - | 4 AP | - | Fire | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Burned*.
 Calm Mind | - | 4 AP | - | Psychic | Status | The User's Special Attack and Special Defense are increased by 1.
 Camouflage | - | 4 AP | - | Normal | Status | The User changes Type according to the environment and Terrain.
 Captivate | - | 4 AP | ≥2 | Normal | Status | If the User is the opposite gender, the Opponent's Special Attack is decreased by 2.
@@ -1053,15 +1068,3 @@ Z-Crystal | Name | Base Power | Action Points | Accuracy | Type | Property | Des
 ![Cover Them In Glitter That Will Never Wash Off!](https://archives.bulbagarden.net/media/upload/b/b6/Bag_Fairium_Z_Sprite.png)Fairium | Twinkle Tackle | ??? | ??? | - | Fairy | ??? | No secondary effect.
 
 ***
-
-Aerial Ace | 6 BP | 5 AP | - | Flying | Physical | No secondary effect.
-Electro Shot | 12 BP | 8 AP | ≥2 | Electric | Special | Hits 1 round after the Move is used. While in [Rain](https://rentry.co/tmd2many_rules#weather), hits immediately. While in [Harsh Sunlight](https://rentry.co/tmd2many_rules#weather), [Fog](https://rentry.co/tmd2many_rules#weather), [Snow](https://rentry.co/tmd2many_rules#weather), or [Sandstorm](https://rentry.co/tmd2many_rules#weather), damage is decreased by 6. The User's Special Attack is increased by 1.
-Tera Starstorm | 12 BP | 8 AP | ≥2 | Normal | Special | If the User is in Stellar Form; Spread. 
-Fickle Beam | 8 BP | 8 AP | ≥2 | Dragon | Special | 18-20; Increased Crit Ratio. 
-Burning Bulwark | - | 4 AP | - | Fire | Status | Protect. For the Opponent's round, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use. If the User is attacked with a Physical Move, the Opponent is afflicted with *Burned*.
-Thunderclap | 9 BP | 5 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
-Mighty Cleave | 10 BP | 7 AP | ≥2 | Rock | Physical | Ignores Protect Moves.
-Tachyon Cutter | 5 BP | 8 AP | - | Steel | Special | Hits twice.
-Hard Press | 10 BP | 8 AP | ≥2 | Steel | Physical | The Move's BP is decreased by 2 every round the Opponent takes damage.
-Dragon Cheer | - | 4 AP | - | Dragon | Status | The User's Crit Ratio is increased by 1. The User may select 1 additional Ally to have their Crit Ratio increased by 1 at the cost of 2 AP. If the User is Dragon-Type, their own Crit Ratio is increased by 2.
-Alluring Voice | 8 BP | 6 AP | ≥2 | Fairy | Special | If the Opponent's Stats were increased last round, they are afflicted with *Confused*.
