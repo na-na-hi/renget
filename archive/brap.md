@@ -15,8 +15,6 @@ You will need a decent-to-good computer in order to run stable diffusion. If you
 **RAM:** According to the guides, you need 16GB or more of RAM. Apparently even 8GB won't cut it.
 **VRAM:** The amount of VRAM you have is determined by your GPU. If your VRAM is too low, you may get out of memory errors when generating images. Pretty much, the more VRAM your GPU has, the better.
 
-(Obviously you'll want a good CPU for CPU generation, however you'll need a good CPU regardless).
-
 Make sure you've saved up a good amount of storage space for the installation of Stable Diffusion, NovelAI and for all the images you will be generating. It is also recommended you put your webui folder into a short file path and outside of a UAC protected folder (such as Program Files, etc.) In my case, I just have it at C:/webui
 
 ### Cloud Installation (Optional):

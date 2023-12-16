@@ -2862,6 +2862,11 @@ https://pixeldrain.com/u/xUVfbjdc
 	Negative prompt: boring_e621, kemono, young, cub, (hair, neon hair, long hair), female, woman, boobs, girly, (wolf, fox, bear, stripes:1.3), (yellow fur, grey fur, pink fur, blue fur:1.4), canine cock, multiple tails, handpaw, feral, sharp teeth, fangs, tired, black eyelashes, black sclera, (human lips:1.9), vore, simple background, ubbp, bwu, updn, (eyes closed, narrowed eyes), macro, grass, snow, outside,
 	Steps: 22, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2147328661, Size: 704x704, Model hash: 96bf03cefa, Model: 0.6(fluffyrock-576-704-832-960-1088-lion-low-lr-e209-terminal-snr-e182) + 0.4(furtasticv20_furtasticv20),
 
+https://files.catbox.moe/5ylrek.pdf
+
+	furry, (((fur))), male, digital_art, (completely nude:1.3), penis, foreskin, testicles, scrotum, (detailed background, outside, city streets), in front of shop, walking, on footpath, crowd, exhibitionism, cumdrip, looking at viewer, by
+	Negative prompt: worst quality, low quality, multi limb, boring_e621_v4, sepia, simple background, monochrome, muscular, boring_e621_fluffyrock_v4
+	Steps: 30, Sampler: DPM++ 2M SDE Karras, CFG scale: 7.5, Seed: 1959977494, Size: 600x600, Model hash: d66e4da0d7, Model: EasyFluffV11.1, VAE hash: c6a580b13a, VAE: vae-ft-mse-840000-ema-pruned.ckpt, CFG Rescale: 0.4, Version: 1.6.1
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

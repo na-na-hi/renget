@@ -144,7 +144,7 @@ Instructions that I commonly include into my prompts:
 GPT4-Turbo > GPT4 > ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/Claude 1.1/GPT3.5-Turbo
 (for role-play)
 
-**Pressure testing: Ability to retrieve information (model attention):**\*
+**Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
 
 ![](https://files.catbox.moe/omznk1.png)
 *I cannot verify the veracity and accuracy of these evaluations.

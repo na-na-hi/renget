@@ -1,7 +1,9 @@
 # The (unofficial) Wakfu MMO rentry
 -> A directory of all kinds of player-made guides and tools... <-
--> Updated for 1.81 <-
 -> created by Demetrios (Discord: @3xzl | Ankama: yagen#7767) <-
+
+-> Last updated: **2023.12.16** <-
+-> Added 3 new entries: Chachastuce, WakForge & an Eniripsa guide <-
 !!! note Links marked with 🇫🇷 means the website's content is in French
 	Make sure you have a translator ready. Most Chromium browsers (Google Chrome, Opera GX, Brave Browser, etc.) come included with a built-in translator.
 ***
@@ -25,7 +27,7 @@ Masqueraider|[Owlite's guide to the Masqueraider](https://www.wakfu.com/en/forum
 Sram|N/A
 Ouginak|[Evagreen Ch.'s Ouginak guide](https://www.youtube.com/watch?v=KWPSOCVTIjQ)
 Iop|[Dragon Pig's Single-Target PvE Iop Guide](https://www.wakfu.com/en/forum/45-iop/201029-dragon-pig-single-target-pve-iop-guide-last-updated-5-25-20)
-Eniripsa|N/A
+Eniripsa|[Raff's Eniripsa Healer guide](https://youtu.be/jcX37uaRGUY)
 Feca|[Tokki's The Squire's Big Book](https://www.wakfu.com/en/forum/49-feca/241229-guide-squire-big-book)
 Sadida|N/A
 Enutrof|N/A
@@ -63,14 +65,17 @@ Rogue|N/A
 - [Enurado questline](https://www.wakfu.com/en/forum/143-guides/172356-quest-guide-enurado-main-quest)
 ***
 ## Tools
-### For advanced players
-- [WakfuCalc](https://sites.google.com/view/wakfucalc/en) - a set of tools for theorycrafting, written in Google Sheets
-- [Suspect & Genn's damage calculator](https://docs.google.com/spreadsheets/d/1seteStfWd0STBH6FOmlgnhK1TY-f7tu7qAHRFa8kbhY/edit?usp=sharing) - written in Google Sheets, need to make a copy in order to use the sheet
 ### Gear builder
-- [ZenithWakfu](https://www.zenithwakfu.com/) - Note: the builder's interface isn't fully translated (e.g. mastery tooltips), and slightly buggy as well
+- [**WakForge [NEW]**](https://wakforge.org/) - A working Wakfu gear builder that's in full English? With an autobuilder??? No way! Sublimations are still WIP. 
+- [ZenithWakfu](https://www.zenithwakfu.com/) - Builder interface isn't fully translated (e.g. mastery tooltips), and slightly buggy as well
+### Horde tracker
+- [**Chachastuce  [NEW]**](http://chachastuce.fr/index_en.html) - Fan-made companion app, there's also the [Discord server](https://discord.com/invite/kgFsvPQk6Y) since this app can only run on Windows machines.
 ### Professions
 - [Craftkfu](https://craftkfu.waklab.fr/) - crafting calculator
 - [Koro's crafting professions leveling calculator](https://www.wakfu.com/en/forum/117-crafting/240100-crafting-professions-leveling-calculator) - written in Microsoft Excel
+### For advanced players
+- [WakfuCalc](https://sites.google.com/view/wakfucalc/en) - a set of tools for theorycrafting, written in Google Sheets
+- [Suspect & Genn's damage calculator](https://docs.google.com/spreadsheets/d/1seteStfWd0STBH6FOmlgnhK1TY-f7tu7qAHRFa8kbhY/edit?usp=sharing) - written in Google Sheets, need to make a copy in order to use the sheet
 ***
 ## Resources
 - [Allocating more RAM in the game](https://www.wakfu.com/en/mmorpg/news/announcements/1459515-allocate-more-ram-improve-performance) - while the launcher automatically sets the optimal RAM usage for your computer, you can learn more about allocating more in this link.
