@@ -76,5 +76,8 @@ Also if RPing with a character card make sure "Always add character's name to pr
 
 Other than that its smart enough to understand pretty much anything you tell it for your use case. Want for it to write in story format but not write dialogue for you? Want it to respond with only 1 paragraph and / or only as a certain character?  Want to build a entire RPG / VN with a stats / inventory system for it to keep track of?  Just tell it to.
 
+**Guide for running Mixtral on vast.ai from another anon:**
+>https://rentry.org/mixtral_vastai_for_dummies
+
 **Mixtral Examples:**
 >https://imgur.com/a/YvekXt8

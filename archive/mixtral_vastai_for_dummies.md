@@ -52,9 +52,12 @@ wget https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/resolve/mai
 
 ![](https://files.catbox.moe/npopr8.png)
 
-- AI Response Configuration: I chose the preset randomly and don't particularly recommend it. However, Make sure Mirostat Mode is 0 (other settings reported to work poorly on Mixtral) and Ban EOS Token unticked (otherwise Mixtral will always continue generating until your response max tokens, in schizo ways)
+- AI Response Configuration: Here are some recommended settings from the [MixtralForRetards rentry.](https://rentry.org/MixtralForRetards) The most important parts are:
+	- Make sure Mirostat Mode: 0 (other settings reported to work poorly on Mixtral) 
+	- Ban EOS Token: unticked (otherwise Mixtral will always continue generating until your response max tokens, in schizo ways).
+	- Repetition Penalty 1, Repetition Penalty Slope 0 (higher settings reported to cause schizo replies)
 
-![](https://files.catbox.moe/4m14cy.png)
+![](https://files.catbox.moe/56cax4.png)
 
 
 ## Method without SSH (not recommended)

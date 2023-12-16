@@ -196,6 +196,7 @@
 09/2023|[GPT Can Solve Mathematical Problems Without a Calculator (MathGLM)](https://arxiv.org/abs/2309.03241)
 10/2023|[AgentTuning: Enabling Generalized Agent Abilities for LLMs (AgentLM)](https://arxiv.org/abs/2310.12823)
 11/2023|[CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079)
+12/2023|[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)

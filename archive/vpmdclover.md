@@ -142,6 +142,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Gone (ft. Booker)](https://rentry.org/RibombeeGone)
 	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem)
+	* [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4) **Non-Canon (Draft) Story**
@@ -542,6 +543,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 * [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
 * [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
+* [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

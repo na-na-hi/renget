@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10803762 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10847906 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -268,6 +268,8 @@
 | [>>60535326](https://rentry.org/ringotext2#60535326) | Fuwawa | brap |
 | [>>>/d/10794882](https://rentry.org/ringotext2#d10794882) | Selen | brap |
 | [>>62610540](https://rentry.org/ringotext2#62610540) | Suisei | sweat, smell |
+| [>>>/d/10841181](https://rentry.org/ringotext2#d10841181) | Kronii, Haachama | choco |
+| [>>>/d/10848699](https://rentry.org/ringotext2#d10848699) | Calli | brap |
 
 ## >>249165
 

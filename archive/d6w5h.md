@@ -1,4 +1,4 @@
-![Skitty](https://i.ibb.co/gJxyPyN/Skitty.jpg) 
+![Skitty](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/ybWxlxeuBYklBbrTakyYlyLL)
 
 ### ??? ♀
 A determined-looking Skitty, with no name to speak of, apparently. For now.

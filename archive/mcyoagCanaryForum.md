@@ -1,1 +1,1 @@
-niggers tongue my anus
+In case shit goes down.

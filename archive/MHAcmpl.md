@@ -991,6 +991,7 @@ https://rentry.org/xu8f5e
 Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang): https://rentry.org/764po9
 Cold Comfort (Capture Cloth, Bakeneneko): https://rentry.org/wg6z5 
 First Battle - The Heat of Combat (Orochi, 108 Stars Gang): https://rentry.org/rxc93
+Showdown - The Burning Will (Yamata,108 Gang): https://rentry.org/7o8mq
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

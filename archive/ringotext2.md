@@ -898,3 +898,36 @@ Fuwawa's natto braps...
 >Relish in the fermentation of your cum and Suisei's body odor
 
 -> * * * <-
+
+## >>>/d/10841181
+
+>Kronii rushes to the bathroom after the stream ends because her butthole is aching for relief after almost an hour of spicy noodles
+>Haachama quickly follows behind her as she needs the potty too
+>Godchama and the time warden fighting over who gets to use the toilet first while the other likely won't find another toilet in time
+>Kronii manages to worm her way in first but feels her breasts groped before she can get her pants off
+>Can't focus on disrobing while being groped and thus blows out a huge load of shit into her pants
+>Some of it more solid, some of it more diarrhea
+>All while the Godchama has accepted her face already
+>Impossible to tell if her mess is more accidental or purposeful but her panties quickly swell with shit as well
+>More solid since her noodles weren't as spicy as Kronii's
+>Kronii gives up and lets loose the rest of her shit as it leaks from her panties and down the back of her thighs
+
+-> * * * <-
+
+## >>>/d/10848699
+
+>Mori getting ready for her new album
+>wants to add a personal touch to the melody
+>tier 6 membership frame goes up: "Recording SICK Beats for my New Album!"
+>starts off with some light chit chat and catches everyone up to her progress
+>from the new background and acoustics of her voice, viewers quickly pick up that this stream is happening in her bathroom
+>"So yeah, it's going pretty well but one of the songs needs more bass. And there's something I've been meaning to try out."
+>Mori carefully balances the mic on the rim of the bathtub, pulls up her dress, and hovers her fat ass over it
+>"Let's this how this sounds..."
+>she pushes out a massive bassy fart that nearly blows the mic into the tub
+>the sound quality is excellent and the viewers can basically hear her cheeks slapping together as it drones on
+>"Oh SHIT, that was loud. Sorry to all the headphone users!"
+>spends the rest of the stream trying out new positions in the bathroom, then mixing those sounds into the track under the vocals
+>months later thousands of unknowing fans rate that song as their favorite
+
+-> * * * <-
