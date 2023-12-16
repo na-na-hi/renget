@@ -2008,6 +2008,9 @@ https://files.catbox.moe/l4fnta.safetensors
 # Noivern (Pokemon)
 https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
 
+>I've been reworking on some of my loras that have been put on the trashcollects rentry, training them on a vpred model since they're pretty much meta now, starting with Noivern. It's far from perfect since it's still inconsistent with coloring, but it's significantly better than what I was getting with the one on the rentry right now.
+V3: https://mega.nz/file/EzcA0AxZ#tscC8ohtZiCP3fImlq2oXfhq_nj3Yqo7Micl5w1gN3E
+
 # Fizz (League of Legends)
 V2: https://files.catbox.moe/c45f9c.zip
 V3 - FluffyRock: https://files.catbox.moe/h6r871.zip

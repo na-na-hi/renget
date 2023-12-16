@@ -7,7 +7,7 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly with Kobold and make the model schizo, use something like the Q5_0 instead.) If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
+Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly with Kobold and make the model schizo, use something like the Q5_0 instead. I've also seen some oddities that the K quant for 6bit is worse than 5bit.) If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
 
 ![](https://i.imgur.com/AA1xKHV.png)
 
@@ -21,12 +21,12 @@ Context size depends on how much ram you have but 32k is what it was trained up 
 
 Prompt processing is not optimized for moe yet so: >Turn BLAS batch size to "Dont Batch BLAS"
 
-**Disable repetition penalty, frequency penalty and don't use mirostat on whatever frontend your using such as SillyTavern.**
+**Disable repetition penalty, frequency penalty and don't use mirostat on whatever frontend your using such as SillyTavern. 1.00 rep pen == off.**
 
 ---
 
-**Use Alpaca or its official formatting.**
-Its official formatting actually performs worse than alpaca according to some, you can try both. 
+**Use its official formatting or Alpaca.**
+Seen people saying one or the other was better for different tasks, you can try both. 
 (On ST these are under the big A on top. Change the Context Template to either Mixtral or Alpaca.)
 
 (Under Instruct Mode Sequences for ST):
@@ -49,6 +49,7 @@ Without the quotation marks and make sure the spaces are respected.
 
 Some suggested settings for Mixtral for creative use. For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you can probably find a balance between creative and correct. You can increase context up to 32K if you have the ram.
 ![](https://i.imgur.com/2Q3J9VQ.png)
+(The Ban EOS Token part depends on what you want as it will trail off without it checked (up to the response length) but might also end its response early with it.)
 
 It will work just like that but for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
 

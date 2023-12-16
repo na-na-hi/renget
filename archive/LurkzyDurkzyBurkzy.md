@@ -14,7 +14,7 @@
 ->I recommend **LasagnaBalls** and **John Cena v3** for Claude, but feel free to play around with the others!<-
 Claude | Furbo
 :----: | :----:
-[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pbgxda.zip)
+[![Download](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Download2](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/q9e1rf.zip)
 
 ***
 ####->Comprehensive guide on importing presets into ST<-

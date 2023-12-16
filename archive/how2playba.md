@@ -396,7 +396,7 @@ Don't use ur elephs for [farmable characters](https://rentry.co/how2playba#farma
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/goX8KDM.png)
+![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/wBDFItJ.png)
 
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
@@ -617,7 +617,7 @@ If you're playing the game for a specific girl, I'd still suggest playing now ev
 It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just do your dailies and log off. Dailies can take 5-10 minutes. 
 From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. The sweep mechanic helps a lot in this regard.
 
-You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on it. 
+You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on. 
 
 >How do you choose your student wife
 You don't choose her. She chooses you. 

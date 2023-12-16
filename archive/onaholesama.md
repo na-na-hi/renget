@@ -25,7 +25,8 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![KAA-MEE-LEEEON](https://files.catbox.moe/oky9sh.png) | Zhen | perfect dick sucking height (and kung fu stuff) | [CHUB link]()
+![¡Hasta la muerte!](https://files.catbox.moe/7bm4z4.png) | Kitty Softpaws | a cat is fine, too | [CHUB link](https://www.chub.ai/characters/onaholesama/kitty-softpaws-3fd89d09/main)
+![KAA-MEE-LEEEON](https://files.catbox.moe/oky9sh.png) | Zhen | perfect dick sucking height (and kung fu stuff) | [CHUB link](https://www.chub.ai/characters/onaholesama/zhen-6202d354)
 ![DO YOU KNOW HOW HARD IT IS TO GET CHEESE OUT OF FUR IN A SONIC SHOWER?!](https://files.catbox.moe/8cbrlf.png) | Dr. T'ana | acerbic hag Caitian from The Lower Decks | [CHUB link](https://www.chub.ai/characters/onaholesama/dr-t-ana-1489961b)
 ![MRRROW!](https://files.catbox.moe/15k2vg.png) | Lyxra | semi-feral anthro serval girl gets trapped in your cage | [CHUB link](https://www.chub.ai/characters/onaholesama/lyxra-49efe18b)
 ![montageparody](https://files.catbox.moe/i2z7cb.png) | Bensley | border collie gamer that desperately needs to go outside | [CHUB link](https://www.chub.ai/characters/onaholesama/bensley-8f0d78ec)

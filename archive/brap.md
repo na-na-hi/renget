@@ -54,25 +54,9 @@ Native: https://rentry.org/sd-nativeisekaitoo
 Docker: https://rentry.org/sdamd
 Onnx: https://rentry.org/ayymd-stable-diffustion-v1_4-guide
 
-**CPU Guide (not recommended):** http://rentry.org/cputard
-
-(I highly recommend GPU over CPU, I will be covering Nvidia GPU diffusion in this guide.)
-
 If you are using a Nvidia GPU, you will need to install CUDA. I think you need the latest version of Microsoft Visual Studio too, though I'm not too sure.
 
-#### Step 2: Install a model.
-**Guides:**
-For this guide, I will be installing the leaked NovelAI model which is a very good model for anime-styled art. There are a wide variety of models out there which can provide different results. For the best results with Ultimate Fart LoRA, we will be using the Kotosmix model. However right now, install the NovelAI model since you will need it to test that your install of Stable Diffusion is working properly with the Asuka test. Once it's confirmed that your install of Stable Diffusion is working properly, you can delete the NovelAI model if you wish. You may want to hold onto it somewhere though, since the leaked NovelAI model is the best model for training LoRAs.
-
-**Installing NovelAI Model (Requires torrenting software):**
-https://rentry.org/voldy (Go to NovelAI Setup tab)
-https://rentry.org/nai-speedrun
-
-(You only need to download the "animefull-final-pruned" folder and "animevae pt" file. Don't download the full 52GB package, you'll just be wasting your time and bandwidth.)
-
-A VAE is required for your generated images to have better lighting. You must keep the VAE even if you decide to uninstall the NovelAI model, a VAE is a necessity for image generation. You can replace the VAE with another VAE if you feel the NovelAI VAE isn't good enough for you. All VAEs must go in the /notebooks/sd/stable-diffusion-webui/models/VAE folder.
-
-#### Step 3: Setup launch parameters.
+#### Step 2: Setup launch parameters.
 Stealing from https://rentry.org/nai-speedrun :
 
 If you have **2GB of VRAM** or less, you will need to use **--lowvram**
@@ -82,7 +66,7 @@ That being said however, if your GPU is on the crappier side you may want to try
 
 There's also deepdanbooru, a useful tool for getting danbooru tags which you can get simply by adding **--deepdanbooru** to your webui-user.bat file.
 
-When running webui-user.bat for the first time, it will take a long time to setup everything. Just be patient. When it's ready, it'll give you an IP link that you must put into your browser and that's the webui for Stable DIffusion which you'll be using to generate your images. 
+When running webui-user.bat for the first time, it will take a long time to setup everything. Just be patient. When it's ready, it'll give you an IP link that you must put into your browser and that's the webui for Stable Diffusion which you'll be using to generate your images. 
 
 ##### Settings:
 These are the most important settings you should change before starting to generate images.
@@ -92,18 +76,11 @@ These are the most important settings you should change before starting to gener
 
 Everything else can stay default I believe, I can't be bothered to check what the actual default settings are and they always change it every update anyways.
 
-#### Step 4: Asuka Test
-Once everything is correctly setup, do the Asuka test in order to ensure that everything is working as intended.
-[Asuka Guide](https://web.archive.org/web/20230314231604/https://imgur.com/a/DCYJCSX)
-
-After this, you're done. There are guides on prompting, inpainting and everything in the Hentai Diffusion General threads on /h/. I highly recommend you go there to expand your knowledge on Stable Diffusion. You will need to figure out how prompting works in order to follow this guide. Stable DIffusion prompt tags roughly resemble the Danbooru ones, so I recommend opening up Danbooru and entering the specific tags you want from there. Make sure you've prefaced your prompts with "masterpiece, best quality" as well as inputted the negative prompts.
-
-
 ![Dat Ass](https://files.catbox.moe/bf0t1g.png)
 
 ## Generation:
 
-#### Step 5: Additional Installs
+#### Step 3: Additional Installs
 Before we get straight into generating, there's some extra stuff that needs installing first. I will also use this section to explain the different types of models you'll encounter when making AI generated art.
 
 ##### Negative Embeddings and the Negative Prompt:
@@ -143,7 +120,7 @@ This is your main model that you'll be generating on. The best model that I alwa
 
 [Thicker Lines](https://civitai.com/models/140359/)
 
-#### Step 6: Prompting and Generating
+#### Step 4: Prompting and Generating
 
 ##### Prompt Settings:
 Before you hit the generate button, we need to select all the appropriate settings to get the best quality images. The settings I use are below and I advise you to copy them.
@@ -182,7 +159,7 @@ If you need help with tagging at any point, simply look at the example images on
 
 At this point, you are now fully ready to start generating fart art. If you generate any images that are good but require slight editing, take a look at Step 7.
 
-#### Step 7: Editing Images
+#### Step 5: Editing Images
 Utilizing the img2img tab, we can make edits to images we've created to fix those minor annoying errors that are preventing your image from being perfect. After generating your image on the txt2img tab, you may see 6 icons that appear below your generated images. You can hover over them and they'll tell you what they do. The 4th one takes your image and all your prompt information over to the img2img tab. The 5th one does the same but takes you to the inpaint tab. Before we begin, make sure that you set your seed back to -1 since it also copies over the specific seed of your generated image.
 
 Before running img2img or inpaint, you may want to use editing software to make "rough fixes" to your image that the AI will use to fix the image properly. For instance, if you want to fix a gas effect you can create rough clouds in PaintNET/Photoshop (or use [pre-made gas effects](https://files.catbox.moe/debinq.zip)) and then inpaint the area you've edited and the AI will fix it proper. This is how you edit your way into making the perfect image. Start with a rough edit of the image with PaintNET or Photoshop and then highlight that area with inpainting and the AI will apply the proper fix.
@@ -193,7 +170,7 @@ Img2Img generation takes an existing image and changes it up entirely, depending
 ##### Inpaint:
 This is the same as img2img except you get to highlight a specific area and the AI will only apply changes to the specific area highlighted and leave the rest untouched. For most editing work, you'll need to set the "Masked content" setting to **original** instead of **fill**.
 
-#### Step 8: Helpful Extra Information
+#### Step 6: Helpful Extra Information
 
 1. When you open Stable Diffusion, you can press the blue box button under the Generate button and this will restore all the prompt information you had last session. This should help save you time, but don't forget to set the seed to random again.
 

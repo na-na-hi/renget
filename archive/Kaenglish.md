@@ -41,6 +41,8 @@
 **Peekayks**
 *Alt: Peekecks*
 'Pickaxe'
+**Radder**
+'Radar'
 **Ultimayte**
 'Ultimate'
 **Vehycle**

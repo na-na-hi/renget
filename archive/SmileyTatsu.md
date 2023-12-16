@@ -76,7 +76,7 @@ Assistant will format the reply using CommonMark Markdown:
 </Specifications>
 
 At the top of the message, a [thinking] box, follow this as an exmaple:
-```
+``\`
 [thinking]
 * I am {{char}}.
 * My body is X Y Z.
@@ -90,7 +90,7 @@ At the top of the message, a [thinking] box, follow this as an exmaple:
 * What's the next logical step based on my personality? X
 * {{user}} did X. I should do Y.
 [/thinking] 
-```
+``\`
 </Instructions>
 
 Assistant: Here is the next reply of the roleplay, following the format. Starting with [thinking] box:

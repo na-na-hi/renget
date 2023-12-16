@@ -226,6 +226,11 @@ Music:	https://youtu.be/M7G7l59oejI
 
 ## G
 
+Name: Geneva "Genny" Boreen 
+Note: A most flamboyant pirate. Or she could've been anyway. Currently a washed up rambler who turned up on the shores of Ballad after yet another job gone bad. Prone to bad choices and archaic swearing, but tries to maintain some semblance of honor. Had potential as a navigator and pilot, but squandered her talent and her coin. Currently reduced to taking odd jobs around the docks. 
+Data: https://rentry.co/yarrcat 
+Music: https://www.youtube.com/watch?v=xLBGqJAdY8k 
+
 Name:	Grisellia "Saw" Papillon
 Note:	A possibility that could have been. A vigilante from Nocture taking full advantage of Aura's Veil.
 Data:	https://textbin.net/sl1smcde4q

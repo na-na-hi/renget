@@ -7,6 +7,7 @@
 !!! info
 	- Remove entry when it is uploaded
 	- [Markdown extraction button](https://rentry.org/CSP_markdown_script) userscript that extracts all the necessary info already formatted and ready to past on any given asset store link.
+	- [Script to highlight already filled requests](https://rentry.org/CSP_markdown_script#wishlist-checker)
 [TOC2]
 ***
 
