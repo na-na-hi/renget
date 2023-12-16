@@ -243,3 +243,13 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Required Reading**: “Reunion” (https://rentry.org/72x5v) ... in addition, note that this story contains spoilers for Pokemon Mystery Dungeon: Rescue Team
 - **Genre/Themes**: Action, Drama, Pathos, Mystery
 - **Published**: 6-11-23 (Part 1)
+
+###A Midwinter Feud
+- https://rentry.org/RibombeeMidwinter
+- **Synopsis**: It’s the holiday season, but a feud between Sneasel and her nemesis threatens to damage more than just the festive mood. Can Booker broker peace, or will Christmas be ruined?
+- **Word Count**: ~11,800
+- **Featured Characters**: Booker, Sneasel, Taillow, Chespin, Wooper, Toge
+- **Timeline Placement**: Midwinter (obviously); likely occurs somewhere around 10 months after the Gathering (assuming the Gathering occurred in late winter or early spring)
+- **Suggested Reading**: The Echo Chamber (https://rentry.org/RibombeeEcho), Learning to Fly Ch. 1-3 (https://rentry.org/RibombeeFly1), In the Dead of Night (https://rentry.org/RibombeeJournal#in-the-dead-of-night), The Shine of a Sneasel’s Gem (https://rentry.org/RibombeeGem)
+- **Genre/Themes**: Holiday, Drama, Romance
+- **Published**: 12-15-23

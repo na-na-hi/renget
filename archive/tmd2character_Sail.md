@@ -7,7 +7,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 9 | **Experience to Next Level:** 90/65
+**Level:** 10 | **Experience to Next Level:** 100/65
 **Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 1,415₽ | **Glorious Gold:** 0 Bars
 
@@ -32,7 +32,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Absorb | 2BP | 5AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
-Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
+Dragon Breath | 6BP | 5AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with Paralysis.
 Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
 Acid Armor | 0BP | 4AP | -	 | 	Poison | Status | The User's Defense is increased by 2.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -104,5 +104,5 @@ RP Item | Seashells | A collecting of seashell find along the shoreline.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
 Eᴍᴘᴛʏ | Description

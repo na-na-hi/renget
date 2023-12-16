@@ -697,3 +697,36 @@ https://nitter.net/QudsNen/status/1735315598165340283#m  12/14/23
 
 >Hundreds of Jordanians gathered Wednesday near the #US embassy in #Amman to protest against the American support for the genocide in #Gaza and to call their government to end contracts allowing the #US army to use Jordanian military bases.
 https://nitter.net/QudsNen/status/1735089165203570788#m  12/14/23
+
+>BREAKING: Yemenis have reportedly seized the Bulgarian ship Reun off the coast of Yemen.The Ansarullah movement has also hit 2 ships with drones. The US is desperately asking more countries to send its warships. Because it is unable to deal with the Houthis alone.
+https://twitter.com/IranObserver0/status/1735605852583657834?  12/15/23
+
+>The Israeli army admits to the elimination of a 3rd officer today, in the northern Gaza Strip: Master Sgt. (res.) Tomer Shlomo Myara, 28, of the Combat Engineering Corps' 710th Battalion
+https://nitter.net/AryJeay/status/1735653223212454304#m  12/15/23
+
+>Statement by the Yemeni Armed Forces Spox, Yahya Sarae:
+The Yemeni Armed Forces announce targeting 2 container ships, “MSC Alanya” & “MSC PALATIUM III,” headed towards israeli ports, with anti-ship ballistic missiles. The operation aims to defend the oppressed Palestinian people currently facing killing, destruction, and siege in the Gaza Strip.
+This operation follows the refusal of their crews to respond to the warnings and messages issued by the Yemeni naval forces.
+
+We reassure all ships heading to ports worldwide, except Israeli ports, that they will face no harm. They are advised to keep their identification systems open. The Yemeni Armed Forces will not hesitate to target any ship that violates the principles outlined in our previous statements.
+
+We affirm our commitment to preventing all ships destined for Israeli ports from navigating in the Arabian and Red Seas until the needs of our steadfast brothers in Gaza for food and medicine are met.
+https://nitter.net/AryJeay/status/1735654875902443574#m  12/15/23
+
+>JUST IN - Shipping giant Maersk pauses all voyages through the Red Sea despite two American aircraft carrier groups in the region.
+https://nitter.net/disclosetv/status/1735688777295614336#m  12/15/23
+
+>The Israeli occupation forces severely beat the photojournalist Mustafa Al-Kharouf (Anadolu Agency photographer) in Wadi Al-Juz in occupied Jerusalem while he was doing media coverage.
+https://nitter.net/QudsNen/status/1735657128524697629#m  12/15/23
+
+>Breaking :“Al Jazeera photojournalist Samer Abu Daqqa dies after being left to bleed for 5 hours as a result of the Israeli bombing on a school in Khan Yunis. Israel’s military prevented ambulances from reaching him or any of the injured at the school.
+https://nitter.net/QudsNen/status/1735726002204979476#m  12/15/23
+
+>Press sources: Defense media journalist Rami Badir and two of his colleagues got martyred in the same area where the Al Jazeera crew was targeted near Farhana School in Khan Yunis.
+https://nitter.1d4.us/ME_Observer_/status/1735730713868067090#m  12/15/23
+
+>BREAKING IRGC releases video of their conversation with the US Navy Before the aircraft carrier Eisenhower left the Persian Gulf. The IRGC forced the US Navy to land its helicopters on deck and leave the Persian Gulf without provocations
+https://twitter.com/IranObserver0/status/1735672011068707039  12/15/23
+
+>BIG SUMMARY of all resistance operations today, December 15, against US-israeli forces
+https://nitter.net/AryJeay/status/1735783154873516085#m  12/15/23

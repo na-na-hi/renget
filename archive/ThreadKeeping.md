@@ -134,6 +134,10 @@ Page 2
 >Writefags:
 >As the River Flows (Shiori)
 https://rentry.org/qvay7
+>First Round Failure (Vex, Ward, mystery mages)
+https://rentry.org/cohks
+>Jan's Wish (Jan, Marissa)
+https://rentry.org/k5tzu7
 
 Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
 ```
@@ -174,10 +178,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Sandy & Mio Laughing
->>91224363
->Kaori Kaoru
->>91229075
+>Showdown - The Burning Will (Yamata,108 Gang)
+https://rentry.org/7o8mq
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -713,6 +715,8 @@ https://rentry.org/764po9
 https://rentry.org/wg6z5 
 >First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
 https://rentry.org/rxc93
+>Showdown - The Burning Will (Yamata,108 Gang)
+https://rentry.org/7o8mq
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

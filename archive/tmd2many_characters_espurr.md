@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Independent | **Favorite Color:** Yellow
-**Level:** 10 | **Experience to Next Level:** 55/100 | **Alignment:** True Neutral
+**Level:** 10 | **Experience to Next Level:** 60/100 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
 **Pokécoin:** 1124₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 

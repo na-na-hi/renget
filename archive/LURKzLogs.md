@@ -3,12 +3,5 @@
 ***
 Log | Preset(s) Used | Card
 :----: | :----: | :----:
-![OffensiveAddon](https://files.catbox.moe/t202s6.png) | FurboTurbo(GPT) -With [Offensive JB](https://rentry.org/LurkzyDurkzyBurkzy#offensive-jb) | [Naomi](https://chub.ai/characters/anonaugusproductions/naomi-watanabe-d0f51051)
-![LogNew](https://files.catbox.moe/pi21p9.png) | FurboTurbo(GPT) | [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97)
-![Log2](https://files.catbox.moe/7219ue.jpg)   | LasagnaBalls (Claude) | [Sakura](https://chub.ai/characters/anonaugusproductions/sakura-adachi-9ea24000)
-![Log4](https://files.catbox.moe/19zcof.png) | Adieu (GPT) | [Sammy](https://chub.ai/characters/cyrodiil/sammy-862d8a4d)
-![Log3](https://files.catbox.moe/18a4zt.jpg)   | LasagnaBalls (Claude) | [Lola](https://chub.ai/characters/LukeyPoo488/lola-823b699c)
-![Log1](https://files.catbox.moe/tmv5ub.png)   | John Cena v3 (Claude) | [Laura](https://chub.ai/characters/Emyria/Laura)
-![Log5](https://files.catbox.moe/k39b3q.png) | Adieu (GPT), LasagnaBalls (Claude) | [Hannah](https://chub.ai/characters/lurkinginpines/hannah-778334b8)
-![Log6](https://files.catbox.moe/8l4fr3.png) | Adieu (GPT), LasagnaBalls (Claude) | [Aiko](https://chub.ai/characters/CliqueDOS/aiko-6dfa91e4)
-![Log7](https://files.catbox.moe/t3a7ws.png) | Adieu (GPT), John Cena v3 (Claude) | [Becky](https://chub.ai/characters/lurkinginpines/becky-41a891c1)
+![LogNew](https://files.catbox.moe/owextr.png) | DildoWielder(GPT) - With OOC command for response #12 | [Melissa](https://chub.ai/characters/FrogTheSlut/melissa-47186a97)
+![Log2](https://files.catbox.moe/m5iizo.png) | DildoWielder (GPT) - With [OffensiveJB](https://rentry.org/LurkzyDurkzyBurkzy#offensive-jb) and a OOC command for response #10 | [Naomi - By anonaugusproductions](https://chub.ai/characters/anonaugusproductions/naomi-watanabe-d0f51051)

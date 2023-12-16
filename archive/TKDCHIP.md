@@ -638,6 +638,9 @@ files.catbox.moe/qsib09.mp4  12/11/23
 files.catbox.moe/mfgmqo.mp4 New Same Vid  12/13/23
 files.catbox.moe/vivizz.mp4 New Same Vid  12/13/23
 files.catbox.moe/7u4zzo.mp4  12/13/23
+files.catbox.moe/ui19e6.mp4 New  12/15/23
+files.catbox.moe/kal1gb.mp4 New   12/15/23
+https://files.catbox.moe/gqrf8o.mp4 12/15/23  
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -693,3 +696,10 @@ https://files.catbox.moe/30lcmf.mp4  12/13/23
 
 >Funny Israeli Cope about The On Going War
 https://files.catbox.moe/dr9rzo.mp4  12/14/23
+
+>The Israeli occupation forces severely beat the photojournalist Mustafa Al-Kharouf (Anadolu Agency photographer) in Wadi Al-Juz in occupied Jerusalem while he was doing media coverage.
+https://files.catbox.moe/aepdjp.mp4 Part 1 12/15/23
+https://files.catbox.moe/8r78pz.mp4 Part 2  12/15/23
+
+>IDF: Three hostages "mistakenly" killed by IDF 
+https://files.catbox.moe/4zkm6b.mp4  12/15/23
