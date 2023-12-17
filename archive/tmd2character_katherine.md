@@ -8,9 +8,9 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Constructor/Engineer
 **Species:** Bounsweet | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 70/80
+**Level:** 9 | **Experience to Next Level:** 40/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 15₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 515₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -22,7 +22,7 @@ Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Specie bonus; Level 8 (20HP) | 24 HP
+Health Points | 1 | Specie bonus; Level 9 (21HP) | 25 HP
 Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ʙᴏɴᴜs | +1 Physical Mitigation

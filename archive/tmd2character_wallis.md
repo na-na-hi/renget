@@ -15,9 +15,9 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 10 | **Experience to Next Level:** 20/100
+**Level:** 10 | **Experience to Next Level:** 70/100
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 745₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1245₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -93,7 +93,7 @@ Item Name | Description
 1. Empty | Empty inventory slot.
 2. Brown Gummi (Half) | Gives +5? IQ points to Ground-Types. Gives +3? to other types. Tastes like sweet root vegetable.
 3. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
-4. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
+4. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

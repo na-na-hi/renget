@@ -13,16 +13,16 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 10 | **Experience to Next Level:** 0/100
+**Level:** 11 | **Experience to Next Level:** 0/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 692₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1,192₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 
 ->Rookie Rank<-
-->*195/400 points to Normal Rank*<-
+->*260/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -40,7 +40,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Scratch | 4BP | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
 Tail Whip | - | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Ember | 4BP | 5AP | ≥2 | ![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Burn*.
-None | - | - | - | - | - | N/A
+Howl | - | 4 AP | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The User's Attack is increased by 1. The User may select additional Allies to have their Attack increased by 1 at the cost of 2 AP each.
 Basic Attack | 4BP | 4AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -82,7 +82,7 @@ Item Name | Description
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

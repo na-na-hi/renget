@@ -9,21 +9,21 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 8 | **Experience to Next Level:** 65/80
+**Level:** 9 | **Experience to Next Level:** 35/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1720₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2220₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Rookie Rank<-
-->*200/400 points to Normal Rank*<-
+->*265/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 8 (20HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
@@ -69,7 +69,8 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Stat: DEFENSE **ɪ** | Tier **ɪ** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
+Stat: DEFENSE **ɪ** | Tier **ɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

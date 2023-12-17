@@ -25,9 +25,9 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 7 | **Experience to Next Level:** 45/70 | **Alignment:** Lawful Good
+**Level:** 8 | **Experience to Next Level:** 25/80 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
-**Pokécoin:** 350₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
+**Pokécoin:** 850₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
 ***
 
@@ -38,7 +38,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 ***
 
 ->Rookie Rank<-
-->*60/400 points to Normal Rank*<-
+->*125/400 points to Normal Rank*<-
 ->![Some manner of merit badge..?](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -46,12 +46,12 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 #### ->Stats<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 7 (20 HP) | 20 HP
+Health Points | 0 | Level 8 (20 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 | Speed Tier ɪ | 5 AP
+Speed | 2 | Speed Tier ɪ | 5 AP
 
 ***
 

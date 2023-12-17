@@ -46,8 +46,6 @@ Some suggested settings for Mixtral for creative use, more Temperature = more "c
 It will work just like that but for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
 
 
-Btw, llama.cpp apparently recently got a x3 speedup for mixtral if you want to use that instead: >https://github.com/ggerganov/llama.cpp
-
 ---
 
 **Mixtral common pratfalls:**

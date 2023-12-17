@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>POV: SBU porks in Kherson attacked with a drone
+https://files.catbox.moe/2ojtvv.mp4
+>Ukrainian council meeting ends with a bang
+https://files.catbox.moe/a67cik.mp4
 >"Just don't tell my mother I'm in Bakhmut"
 https://files.catbox.moe/ykjsj6.mp4
 >Su-34 bombing montage

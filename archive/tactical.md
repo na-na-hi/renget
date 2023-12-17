@@ -1,4 +1,4 @@
--> Last update: 2023-12-03 ->
+-> Last update: 2023-12-17 ->
 # /&Tactical/ 
 ---
 
@@ -412,8 +412,7 @@ Download and extract the archive to the game directory, where the exe is located
 [-> Watch YouTube gameplay <- ](https://www.youtube.com/results?search_query=Hideous+Destructor+gameplay)
 
 !!! note 1. Doom IWADs:
->Download [original Doom files via /&tg/ repo](https://pixeldrain.com/l/bk982HLa)
->Download [original Doom files via another MEGA mirror](https://mega.nz/folder/fp8RURaY#mKUAzGW1Q8J8v1R1P2ns4g)
+>Download [original Doom files via MEGA mirror](https://mega.nz/folder/fp8RURaY#mKUAzGW1Q8J8v1R1P2ns4g)
 
 Needed to run the HDest mod. Recommend using "doom_complete.pk3", because that includes Doom, Doom 2, TNT, Plutonia, Sigil, Master Levels, and No Rest for the Living in one file. Tell GZDoom to run that as your IWAD. This has the advantage of being able to find the coach gun (double-barrel) while playing Doom.
 
@@ -483,6 +482,9 @@ anything that is activated instantly from inventory such as radsuits, shieldcore
 press jump with your back to a wall
 if you aren't particularly light you won't really get any vertical benefit out of it, but in certain situations you can use it to climb even higher than normal
 i tend to find it primarily useful for getting a horizontal boost near the end of a fall to roll the landing and take less fall damage
+
+!!! note 7. Ballistic data on all calibers
+https://docs.google.com/spreadsheets/d/1DxKY58U5bre_Q1Ht8F7pP-kso9YTkC5YrFdxdDxaKEI
 
 #### Insurgency (2007-2018) - MP-only PvP & PvE
 
@@ -1348,7 +1350,7 @@ Silent Storm Gold edition includes the Silent Storm: Sentinels expansion.
 
 >Download [original X-COM files required to run OpenXcom via /&tg/ repo](https://pixeldrain.com/l/bk982HLa)
 
->Download [OpenXcom Enhanced](https://openxcom.org/forum/index.php/topic,5258.0.html) [(enhanced fork, more info here)](https://openxcom.org/forum/index.php/topic,5251.0.html)
+>Download [OpenXcom Extended](https://openxcom.org/forum/index.php/topic,5258.0.html) [(enhanced fork, more info here)](https://openxcom.org/forum/index.php/topic,5251.0.html)
 >Alternatively, download [OpenXcom installer via project website](https://openxcom.org/git-builds/) (base version of the project, might be outdated)
 
 More information about OpenXcom on [OpenXcom wiki](https://www.ufopaedia.org/index.php/OpenXcom)

@@ -103,7 +103,7 @@ Bounty hunting is very accessible, being one of the fastest way's of earning mon
 They start off by first requiring you to gain your certification (go to the marker and kill the ship) before you can begin doing more of the same to build up your reputation and receive contracts for multiple or larger ships with a bigger payout. **This also extends to PvP player bounties**, which will have you hunt others across the system that have a crimestat rating of 3+.
 
 - **[FPS "Bunker" Missions](https://starcitizen.tools/Category:Bunker_missions)**
-!!! danger These are broken as of 3.21.1
+
 Being the majority of where the FPS content takes place, these missions are fairly straightforward and accessible to anyone right off the bat. You are taken to small underground facilities, or "bunkers," on certain planets and moons (or floating platforms on [Crusader](https://starcitizen.tools/Crusader)) to do FPS combat vs AI. 
 
 Bunker missions come in different flavors of what essentially boils down to killing braindead AI, or killing braindead AI that comes in waves. This can get really repetitive, but the payoff is pretty good the more reputation you gain to build up the difficulty level. There's also lootboxes in the facilities.

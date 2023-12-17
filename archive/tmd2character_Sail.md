@@ -7,16 +7,16 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 10 | **Experience to Next Level:** 100/65
+**Level:** 11 | **Experience to Next Level:** 110/15
 **Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 1,415₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1,915₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Rookie Rank<-
-->*200/400 points to Normal Rank*<-
+->*265/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

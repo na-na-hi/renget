@@ -7,9 +7,9 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 10 | **Experience to Next Level:** 20/100
+**Level:** 10 | **Experience to Next Level:** 75/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 769₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1269₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

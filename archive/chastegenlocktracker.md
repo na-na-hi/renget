@@ -16,7 +16,6 @@ _(Updated 16-Dec-2023)_
 | -- | -- | -- |
 | Delv | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2024 |
 | cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  === |
-| Nepu | https://chaster.app/sessions/jHAs1e0NOFnmQksZ | === |
 | kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Jan-2024 |
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
 | 00dest | https://chaster.app/sessions/upH38x5Zixzyek4S |  19-Dec-2023 |

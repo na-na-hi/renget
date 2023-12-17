@@ -632,7 +632,6 @@ Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
 cringekino clickbait: https://desuarchive.org/tg/post/91169301/
 Young Impakt Art: https://desuarchive.org/tg/post/91192484/
-Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -670,6 +669,7 @@ Explode: https://archive.4plebs.org/tg/post/89278521
 I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
 MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
 Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
+Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -992,6 +992,7 @@ Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang): https://rentry.org
 Cold Comfort (Capture Cloth, Bakeneneko): https://rentry.org/wg6z5 
 First Battle - The Heat of Combat (Orochi, 108 Stars Gang): https://rentry.org/rxc93
 Showdown - The Burning Will (Yamata,108 Gang): https://rentry.org/7o8mq
+There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver): https://rentry.org/wwyh7
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
