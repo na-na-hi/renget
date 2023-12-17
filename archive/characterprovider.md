@@ -13,6 +13,9 @@
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 ⠀
+
+-> ![UPB2](https://files.catbox.moe/2im7ug.gif) <-
+-> "When it's done" <-
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
@@ -40,9 +43,9 @@
 - - -
 ######
 ## Notice board
-• **Custom CSS Added:** 
+• **Custom CSS V2 Added:** 
 
-![](https://files.catbox.moe/587ecp.gif)
+![](https://files.catbox.moe/7er70p.gif)
 
 Disables crappy buttons in and fixes inconsistences. You can see changes and copypaste them from the [Custom CSS](https://rentry.org/CharacterProvider-Custom-CSS) page 
 

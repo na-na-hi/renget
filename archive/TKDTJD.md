@@ -812,3 +812,40 @@ https://nitter.net/ME_Observer_/status/1736107110436319625#m  12/16/23
 
 >BREAKING| Media coverage: "Hamas senior representative Osama Hamdan: The Israeli Nazi-like army, which declared war to free the detainees, is the one also that kills its detainees! Netanyahu and Israeli leaders have not achieved a single goal in #Gaza and their dreams and fantasies will never come true."
 https://nitter.net/QudsNen/status/1736133798104912287#m  12/16/23
+
+>Hezbollah has already carried out 4 DEADLY operations since this morning:
+
+- Targeted a fortified position of IOF soldiers at Baraka Risha site, using appropriate weapons at 8:30AM. There are confirmed injuries.
+
+- Targeted a military force in the vicinity of Hanita site with appropriate weapons at 9:00AM, with confirmed casualties, 
+
+- Targeted a group of 4 IOF soldiers as they entered an eastern Sa’sa position at 9:50AM, using appropriate weapons, resulting in confirmed injuries among them.
+
+- Targeted a gathering of IOF soldiers in the Adathir forest with appropriate weapons at 10:30AM, inflicting direct injuries.
+https://nitter.net/AryJeay/status/1736340488326631696#m  12/17/23
+
+>The courtyard of Al-Shifa Hospital in Gaza turned into a mass graves after the Israeli occupation forces killed hundreds of Palestinians and prevented the transportation of their bodies to bury them.
+https://nitter.1d4.us/QudsNen/status/1736327954144129091#m  12/17/23
+
+>Israeli Channel 13:
+The shipping company "OCL" in Hong Kong announces that it will stop receiving goods to and from #Israel immediately until further notice
+https://nitter.net/ME_Observer_/status/1736344657993277860#m  12/17/23
+
+>Al-Quds Brigades: 
+Our fighters engaged in fierce clashes with IOF soldiers using machine guns, causing significant injuries. We also targeted 3 military vehicles with Tandem rockets in the advancing axis of Sheikh Radwan neighborhood.
+https://nitter.net/AryJeay/status/1736373427198402871#m  12/17/23
+
+>Suez Canal Authority: 55 ships have been redirected away from the Red Sea and toward the Cape route around Africa since November 19th
+https://nitter.net/EyesOnSouth1/status/1736368110070911223#m  12/17/23
+
+>Occupied Palestine: Islamic Jihad Movement: No matter what alliances the occupation establishes, whether military, security, normalization, whether public or otherwise, victory is for our people.
+https://nitter.net/ME_Observer_/status/1736407169405190323#m  12/17/23
+
+>Hezbollah: We targeted a new command headquarters near the Evin Menachem settlement and caused a number of deaths and injuries.
+https://nitter.net/ME_Observer_/status/1736407553725149447#m  12/17/23
+
+>During a complete telecom outage, the Israeli army committed inhumane acts against Palestinians who were injured and sick while seeking refuge in the yards of Kamal Idwan hospital.
+https://nitter.1d4.us/QudsNen/status/1736436280043401593#m  12/17/23
+
+>The Israeli army admits to the elimination of an officer in the Gaza Strip: Staff Sgt. Boris Dunavetski, 21, of the 401st Armored Brigade's 46th Battalion. Another soldier of the 46th Battalion was seriously wounded in the same incident.
+https://nitter.net/AryJeay/status/1736442939382137066#m  12/17/23

@@ -7,7 +7,7 @@
 ##->https://www.chub.ai/users/Nuggest<-
 Trying to create interesting scenarios and adventures. Most of my cards are SFW and focus on saviorfagging. Please don't hurt my daughters, Anon...
 
-I usually set up my cards like novel intros. ==There's a much higher chance that my bots will go shizo than others.== Example dialogue will usually mitigated that problem. Or simply put something like **[You are forbidden from controlling {{user}} or writing his dialogue.]** into the Jailbreak. My formatting differs from card to card because I'm always playing around to find best practices and optimize my cards for the model I'm maining while creating them. Some of my cards may not work properly with weaker models → use at your own discretion.
+I usually set up my cards like novel intros. ==There's a much higher chance that my bots will go shizo than others.== Example dialogue will usually mitigated that problem. Or simply put something like **[You are forbidden from controlling {{user}} or writing his dialogue]** into Jailbreak. Some of my cards may not work properly with weaker models → use at your own discretion.
 
 Reviews and Logs are appreciated: chuckssucknfuck@proton.me
 I'm open to bot requests, though I do not make femdom, netorare, and male/futa cards.
@@ -15,15 +15,15 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 [TOC3]
 
 !!! warning
-    On a hiatus. In the mood to return to the botmakie business. Got proxy access from a mysterious benefactor. Thanks. Still on the fence on whether I should dive back into the sewer. -Nuggest, 05.09.23
+    Not dead. Thinking about returning to the botmakie business. Maybe gonna release a card once in a while, dunno. Not gonna bother with testing and example dialogue though. -Nuggest, 17.12.23
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Recent Updates:
+	17.12.23: Added new card 'Merry'
 	06.11.23: Added new card 'Yumi' under Unreleased Cards
 	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
 	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
 	09.09.23: Added new card 'Chae-won'
-	06.09.23: Updated 'Cluckette' to v1.1 and moved to Bots
 
 
 ***
@@ -31,6 +31,8 @@ I'm open to bot requests, though I do not make femdom, netorare, and male/futa c
 ####Bots
 |  |  | 
 | ------ | ------ |
+| **Merry** | https://www.chub.ai/characters/Nuggest/merry-f9eca582/main |
+| ![Merry](https://files.catbox.moe/9ohcpx.png) | **A frightened Christmas Elf Girl in a box winds up in your lonely home on Christmas Eve. In this story, Christmas elves are not willing helpers but slaves. After years of slaving away, Merry managed to escape by hiding in one of Santa's presents.** [v1.0, Claude 2, 17.12.23] *Alternate greeting available without the poetry.* |
 | **Chae-won** | https://www.chub.ai/characters/Nuggest/chae-won-b11d3ceb |
 | ![Chae-won](https://files.catbox.moe/284puf.png) | **Based on a true story. Chae-won (fictional name) is a homeless and emancipated North Korean woman living in the South Pyongyang Province. At the brink of death, she collapses on a cornfield. You are a Western foreigner who finds her by mere chance. You know what to do...** [v1.0, Claude 2, 09.09.23] *You might want to remove the example dialogue to add more randomness. Original story: https://youtu.be/Xh4CtTGAzKw?si=1LHYR0rzE98QJf0M* |
 | **Cluckette** | https://www.chub.ai/characters/Nuggest/cluckette-ce956c53 |

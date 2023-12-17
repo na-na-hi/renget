@@ -6,16 +6,16 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 9 | **Experience to Next Level:** 15/90
+**Level:** 9 | **Experience to Next Level:** 65/90
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
-**Pokécoin:** 250₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 750₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
  Sheer Force | The User's Moves with secondary effects have their damage increased by 3. Secondary effects are removed.
 
 ->Rookie Rank<-
-->*140/400 points to Normal Rank*<-
+->*205/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+3) | Modifiers | Combat Effect

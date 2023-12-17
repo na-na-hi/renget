@@ -113,7 +113,7 @@ Here is the next reply of the roleplay, following the format. Starting with [thi
 
 I recommend the use of Regex to delete the "thinking box"
 ```
-Find Regex: /(\[thinking].*\[\/thinking])/is
+Find Regex: /(```\n?){0,3}(\[thinking].*\[\/thinking])(\n```){0,3}/is
 Replace With: (empty)
 Only Fomat Display: Disabled
 ```

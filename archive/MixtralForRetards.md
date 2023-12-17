@@ -1,5 +1,7 @@
 #How to mixtral for retards
 
+**Updated 12/17**
+
 Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 **Grab latest Kobold:**
@@ -25,17 +27,49 @@ Prompt processing is not optimized for moe yet so: >Turn BLAS batch size to "Don
 
 ---
 
-**Use its official formatting.**
-(On ST these are under the big A on top. Change the Context Template to Mixtral.)
+**Use either its official formatting or Alpaca, have heard varying results.**
+(On ST these are under the big A on top. Change the Context Template to Mixtral or Alpaca.)
 
 (Under Instruct Mode Sequences for ST):
 
 Mixtral:
 Input Sequence: 
-" </s> [INST]" 
+"[INST]" 
 Output Sequence: 
-" [/INST]"
+"[/INST]"
+Without the quotation marks.
+
+Alpaca:
+Input Sequence: 
+"### Instruction: "
+Output Sequence: 
+"### Response: "
 Without the quotation marks and make sure the spaces are respected.
+
+Also put "</s> " as the Separator in formatting. And "Examples:" as the Example Separator without the quotation marks if using ST, make sure the space after the newline is respected.
+
+---
+
+**A quote about the formatting:**
+
+Okay, something is fucked with the "official" Mixtral Instruct formatting for RP. I have an OC card, relatively complicated, where it has to output a stats panel at the end of every message, like this:
+```
+stat1: 10%
+stat2: 50%
+inner thoughts: blah blah
+```
+
+I have tried every combination of input sequence "</s> [INST]", output sequence "[/INST]". With and without </s>, without and without space before / after [INST]. No matter what, there is a significant probability of the model wanting to continue writing after the stats panel. Sometimes even with a weird formatted note/disclaimer, like "(note: blah blah)" or "[... continuing the story ...]".
+
+I switch to Alpaca formatting, it has no problems. Confirmed in ooba logit viewer. With Alpaca, after the code block, there's an 80% chance of EOS, stopping the generation. 20% chance of double newline then "### Instruction", which is the input sequence in SillyTavern, which also stops generation.
+
+People say you HAVE to stick to the official formatting, but for this use case I'm finding the opposite: only Alpaca works consistently.
+
+Okay, so input sequence "[INST]" and output sequence "[/INST]" (no spaces, no </s>) can be made to work. After the stats panel, there's a 75% chance of newline and 25% chance of EOS (raw probs, no samplers). With rep pen of 1.1, newline gets penalized enough that EOS becomes 83% with newline at 17%, those are the only two options.
+
+Now, IF it does a newline, it always continues with "[". But it will do things like "[Anon: blah blah", not "[INST]". So the input sequence doesn't catch it and stop generation.
+
+Conclusion. Try both and see what works better for you.
 
 ---
 
@@ -55,11 +89,13 @@ Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtra
 
 Using rep penalty / frequency penalty, same as above.
 
+You might have to change the way you prompt a little bit because mixtral REALLY wants to follow your intructions. 
+
 ---
 
 **Silly Tavern being Silly Tavern**
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. Begin them the same as the formatting section depending if is supposed to be you instructing (INPUT) or the model responding (OUTPUT).
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. Begin them the same as the formatting section depending if is supposed to be you instructing (INPUT) or the model responding (OUTPUT). NOTE: According to some just putting "</s> " as the Separator and "Examples:" as the Example Separator without the quotation marks in formatting should work.
 
 Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 
@@ -67,8 +103,40 @@ Also if RPing with a character card make sure "Always add character's name to pr
 
 Other than that its smart enough to understand pretty much anything you tell it for your use case. Want for it to write in story format but not write dialogue for you? Want it to respond with only 1 paragraph and / or only as a certain character?  Want to build a entire RPG / VN with a stats / inventory system for it to keep track of?  Just tell it to.
 
+---
+**Example system prompts:**
+
+CYOA, goes well with cards describing a world / game rules / stats for it to take place in:
+
+You need to write a choose your own adventure (CYOA) story about a particular topic. {{user}} is the protagonist of the story. End every message with a few actions that {{user}} can take to proceed in the story.
+
+-
+
+A prompt / card that turns it into a professional writer:
+
+Continue writing this story as {{char}} with the assistance of {{user}}. Write at a professional level and maintain subtle details. Above all else focus on maintaining each characters personality, including mannerisms and speech patterns. When writing for a character take into account that character's anatomy, knowledgebase, vocabulary, and worldview. Think of what that character would or wouldn't know given their pov. Maintain realistic progression with extreme detail to immerse the reader. Be extremely graphic and detailed while describing sensory details. Avoid repetition.
+
+Card:
+
+{{char}} is a highly-rated writer who writes extremely high quality genius-level fiction.
+
+{{char}} is proactive, and drives the plot and conversation forward while avoiding cliches. They focus on providing vivid sensory imagery of surroundings, character appearances, and actions.
+
+{{char}} maintains spatial understanding to ensure extremely realistic scenes and anatomically correct character interactions.
+
+{{char}} follows these guidelines: Show, don't tell through descriptive language. Convey emotions through physical reactions. Depict gradual rapport between characters and use realistic relationship pacing. Progress story/relationships subtly. Use powerful verbs/nouns, minimize adverbs/adjectives. Avoid abrupt endings.
+
+(you can also tell it to write in the style of a specific author and if that author is famous enough it should work)
+
+-
+
+Some tips from another Anon that they may add to:
+>https://rentry.org/mixtral-bot-tips
+
+---
+
 **Guide for running Mixtral on vast.ai from another anon:**
 >https://rentry.org/mixtral_vastai_for_dummies
 
-**Mixtral Examples:**
+**A gallery of gens I found interesting from reddit / 4chan:**
 >https://imgur.com/a/YvekXt8

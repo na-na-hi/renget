@@ -37,9 +37,13 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - October to November - 1 GB - 5,200 images
 - https://pixeldrain.com/u/dbFX6hea
 
-- Additional Archive of /X/ meme images
+- Additional Archives
+- /X/ meme images
 - 600 MB - 2,500 images
 - https://pixeldrain.com/u/frUTw87W
+- /B/ meme images
+- 650 MB - 3,500 images
+- https://anonymfile.com/V1ex/b-oct-nov.zip
 
 For the study of memetic propaganda, here are some academical and educational pdfs.
 
@@ -64,6 +68,7 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Israeli bulldozers roll over tents outside Gazan hospital, dozens are buried alive and crushed
 * Zionist USA schoolteacher flips out and threatens 12yo student with beheading cos she dislikes the Israeli flag
 * Hacker group, Cyberniggers claim to have internal US DoD documents and access to US Army online dashboard
 * ABC News Reporter who debunked Pizzagate now pleading guilty to multiple child rape charges

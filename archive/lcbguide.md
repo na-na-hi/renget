@@ -72,7 +72,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 No. Most, if not all story content can be beaten with the default Identities. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
-I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get one or two Identities on this list. Do not bother rerolling for E.G.O.
+I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get two or three Identities on this list. Do not bother rerolling for E.G.O.
 - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
 - ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
 - ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) W Corp. L3 Cleanup Agent Ryōshū

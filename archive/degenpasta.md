@@ -36,11 +36,5 @@ OP Pasta: https://rentry.org/degenpasta
 Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 
 >>> Related boards (their OP may have additional resources) <<<
->>>/h/hdg
->>>/e/sdg
->>>/d/nai
->>>/g/sdg
->>>/x/succgen
->>>/aco/sdg
->>>/trash/sdg
+>>>/h/hdg >>>/e/sdg >>>/d/nai >>>/g/sdg >>>/x/succgen >>>/aco/sdg >>>/trash/sdg
 ```

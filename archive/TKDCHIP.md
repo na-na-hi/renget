@@ -233,6 +233,10 @@ https://files.catbox.moe/fjojuu.MP4
 https://files.catbox.moe/8on34b.MP4
 >Hezbollah Rocket Attack on Mount Dov
 https://files.catbox.moe/qy6tr6.mp4
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+October 2023 War Starts Between Israel and Hamas 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >PALESTINIAN CHILD CHARRED WITH BURST HEAD (Oct 10th)
 https://files.catbox.moe/25aw66.mp4
 >Peak Clownworld: IDF taunt using Israel flag with homo trim
@@ -437,6 +441,10 @@ https://files.catbox.moe/fxdla7.mov
 https://files.catbox.moe/o15wu5.mp4
 https://files.catbox.moe/7y3sev.mp4
 https://files.catbox.moe/gdua4f.jpg
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+November 2023 Israel / Hamas War
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >YEMENI ROCKETS HIT ISRAEL, UNKNOWN CITY (ADDED NOV 1st)
 https://files.catbox.moe/ygmkoo.mp4
 >Hamas drone direct hit on kikerats  (ADDED NOV 1st)
@@ -603,8 +611,9 @@ files.catbox.moe/10to0t.mp4
 >idf getting ambushed by sniper and machine gun fire  (ADDED NOV 27th)
 https://files.catbox.moe/aidn2k.mp4
 
->HOUTHIS TAKING SHIP WITH HELO
-https://files.catbox.moe/ngv681.mp4 (embed)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+December 2023 Israel / Hamas War 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >NEW HAMAS KINO
 https://files.catbox.moe/nyx2gr.MP4 (embed)
 >War Crimes Of Idf
@@ -621,15 +630,17 @@ https://files.catbox.moe/kqssyj.mp4 (embed)
 files.catbox.moe/8yvbfa.mp4 (embed)
 >OCT 7 KIKES FRIENDLY FIRE ON THEIR OWN CITIZENS
 files.catbox.moe/skwk6k.mp4 (embed)
-
 >Resistance fighters detonate a high-impact explosive device on an IOF bulldozer in Tulkarem
 https://files.catbox.moe/3w9etv.mp4
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hamas Video's 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Hamas Kino
-files.catbox.moe/8btevk.mp4 Old
-files.catbox.moe/2il1dw.mp4 Old
-files.catbox.moe/b7wnz8.MP4 Old
-files.catbox.moe/9vlec3.mp4 Iof fail 
+files.catbox.moe/8btevk.mp4 12/05/23
+files.catbox.moe/2il1dw.mp4 12/06/23
+files.catbox.moe/b7wnz8.MP4 12/07/23
+files.catbox.moe/9vlec3.mp4  12/08/23
 files.catbox.moe/xwn30j.mp4  12/08/23 
 files.catbox.moe/ud1ayn.mp4  12/08/23
 files.catbox.moe/1efz4r.mp4  12/9/23
@@ -643,7 +654,7 @@ files.catbox.moe/kal1gb.mp4 New   12/15/23
 https://files.catbox.moe/gqrf8o.mp4 12/15/23  
 https://files.catbox.moe/lqh1ch.mp4 New  12/16/23
 
->>New Hamas Media Video 
+>New Hamas Media Video 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
 
 >New Hamas rocket M90:
@@ -654,32 +665,50 @@ https://files.catbox.moe/wk7xm4.MOV  12/10/23
 https://files.catbox.moe/kdnha9.MOV  12/10/23
 https://files.catbox.moe/rx0w59.MOV  12/10/23
 
+>Hamas Speech About Israeli Soldiers 
+https://files.catbox.moe/rh75dj.mp4  12/10/23
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hezbollah Videos 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Hezbollah Kino 
 https://files.catbox.moe/6k4qe0.mp4  12/09/23
 files.catbox.moe/3vjhxt.mp4 New  12/16/23
+files.catbox.moe/acv20y.mp4 New  12/17/23
+
+>New Hezbollah Mashup Video 
+https://files.catbox.moe/orlocp.MOV  12/10/23
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Al-Quds Brigades Videos 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >Al-Quds Kino Footage 
 files.catbox.moe/m56e47.mp4  12/15/23
 files.catbox.moe/m56e47.mp4 New  12/16/23
 
->New Hezbollah Mashup Video 
-https://files.catbox.moe/orlocp.MOV  12/10/23
-
->Female Hostages Released Comparison From Hamas VS Israeli Hostages Released From Terrorist Zionists Testimony: 
-https://files.catbox.moe/lweh9b.MOV  12/10/23
-
->Hamas Speech About Israeli Soldiers 
-https://files.catbox.moe/rh75dj.mp4  12/10/23
-
 >Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
 https://files.catbox.moe/60irf4.mp4  12/11/23
 
->IDF tank aftermath Video 
-https://files.catbox.moe/xt3i19.mp4  12/11/23
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Houthis Videos 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >New Houthis At Sea Kino 
 https://files.catbox.moe/q3k2qd.mp4 part 1  12/12/23
 https://files.catbox.moe/53z7b1.mp4 part 2   12/12/23
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+News Clips and Videos 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Female Hostages Released Comparison From Hamas VS Israeli Hostages Released From Terrorist Zionists Testimony: 
+https://files.catbox.moe/lweh9b.MOV  12/10/23
+
+>IDF tank aftermath Video 
+https://files.catbox.moe/xt3i19.mp4  12/11/23
 
 >A subtitled version of Saraya Al-Quds military spokesman Abu Hamza's speech today, December 12th, 2023. 
 https://files.catbox.moe/0jf8wv.mp4  12/12/23

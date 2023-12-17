@@ -90,7 +90,6 @@ Kanata's smile faded as she stopped groping Towa's butt and reached the base of 
 
 
 
-
 !!! border between parts
     .
     . 
@@ -100,18 +99,35 @@ Kanata's smile faded as she stopped groping Towa's butt and reached the base of 
     .
 
 
+"Well yes but I'm not evil or anything! I'm neutral, you know!" Towa looked Kanata in the eyes and folded her hands pleadingly, but she only got a cold stare in response. As the angel and the devil looked each other in the eyes, Kanata's face began to shine and she spread her wings - they had been pitifully small before, but had grown much wider and longer. The angel would have looked beautiful - if not for the many eyes that began to open on her slowly-spinning halo. 
+Looking into the angel's eyes, Towa felt her heart beating more erratic and stronger than a human heart ever could. She felt itchy where her horns and wings would be if she unleashed herself. Her body was ready, her eyes began to light up with green hellfire, her instinct screamed at her to prepare for battle...but Towa managed to surpressed the urge, just in time. She had sworn to never been a violent devil, to leave hell and all that it stood for behind. And this wasn't just some random loyalist, either - this was Coco's close friend. 
+
+Kanata wondered whether Towa was more of a weakling or more of a coward. But she couldn't exactly go around and harm innocents, so she decided to grant the devil in her arms mercy - for now.
+"Neutral? We'll see about that...don't try anything now, or it'll be over with you." Kanata's sounded as menacing as she looked as she knelt and lowered her arms.
+Towa didn't offer any rebuttal or resistance as she was put on the floor like a doll, her naked back and butt coming in contact with the cold ground.
+
+"Lay on your stomach."
+
+Towa obeyed, laying down as submissively as she could. Now her other side felt like it was freezing, but she did not dare to move or talk; only her thoughts were racing. What was Kanata planning? Was fighting back the only way to get out of this, after all? Would Coco help her little devil slut out? 
+
+"Spread out your arms and legs, then lay still." 
+
+Towa's thought process was interrupted as she quickly obeyed the command, stretching her arms and legs from her as if she was tied to the X-cross in the bedroom again. Towa being humiliated by being made to lie on the floor in one of the most pathetic poses possible was very arousing in principle, but the potential for actual violence ruined the mood for all three.
+
+Coco's brows had furrowed and her tail had stopped moving, but she had not interfered s ofar.
 
 
 
-"Well yes but I'm not evil or anything! I'm neutral, you know!" Towa looked Kanata in the eyes and folded her hands pleadingly, but she only got a cold stare in response. 
 
-"Oh yes? We'll see about that. Spread out your arms and legs, then don't move or say anything - or you'll be in big trouble." Kanata's voice was monotone and strict-sounding, and she moved very slowly as she lowered her arms and knees, laying Towa down on the ground.
- Towa felt her heart beating more erratically than a human's ever could, and her instincts told her to prepare for battle, but she surpressed them. She had never been a violent person, and this wasn't just some random loyalist - this was Coco's friend. 
-Towa obeyed the command, stretching her arms and legs from her as if she was tied to the X-cross in the bedroom again. It made her feel vulnerable in multiple ways; the only thing Towa had going for her was Coco's sympathy. But while the dragon's tail was now still and tense, she didn't move or talk - she looked more curious than anything. Coco knew Kanata, so maybe that was a good sign.
+
+!!! Steinbruch unten
+    Bedien dich
+
+
+
+
 
 "Coco, I'm hungry. Make dinner, please."
-
-"Are you sure, Kanatan? If you want Towa to leave fine, but she is damn nice! She may be a devil but that doesn't mean she's-"
 
 "You don't know devils. You're not from Heaven or Hell." Kanata's eyes narrowed to slits as she stared down her roommate. The dragon was much larger, but the angel was more imposing - Towa did not dare to move a centimetre. 
 "If Towa isn't evil, I won't hurt her. Now go. Make. Dinner." The angel pointed towards the kitchen door without breaking eye contact.
