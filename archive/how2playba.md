@@ -272,7 +272,10 @@ Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/
 Yes. With enough shards you can redeem her through the student list. The caveat being that it can take several months before you can actually redeem a specific student. 
 
 >Do I prioritise unlocking all the characters or should I max out the good characters first? 
-Up to you. There are good arguments for both options, it's very dependant. 
+Up to you. There are good arguments for both options, it's very dependant. I personally lean on maxing out the good units first. 
+
+>Should I keep farming a unit I maxed out? 
+No. 
 
 >Should I redeem X?
 Eh.

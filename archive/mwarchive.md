@@ -33,9 +33,13 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - Part 2 - 1.6 GB - 7,500 images
 - https://pixeldrain.com/u/pihroCdD
 
-- Additional Archive of /POL/ memes from non-MWG threads
+- /POL/ memes from non-MWG threads
 - October to November - 1 GB - 5,200 images
 - https://pixeldrain.com/u/dbFX6hea
+
+- Additional Archive of /X/ meme images
+- 600 MB - 2,500 images
+- https://pixeldrain.com/u/frUTw87W
 
 For the study of memetic propaganda, here are some academical and educational pdfs.
 

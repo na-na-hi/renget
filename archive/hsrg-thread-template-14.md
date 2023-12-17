@@ -2,14 +2,15 @@
 
 Previous: 
 
-\>LIVESTREAM CODES EXPIRED
-
 \>Version 1.6 "Crown of the Mundane and Divine" Special Program
 https://www.youtube.com/watch?v=3TkHmjV0hf8
-https://www.youtube.com/watch?v=uSt1p2BG5EM (JP)
+https://www.youtube.com/watch?v=uSt1p2BG5EM
 
 \>Download
 https://hsr.hoyoverse.com/en-us/home
+
+\>1.6 Preview Page
+https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
 
 \>1.5 Preview Page
 https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html

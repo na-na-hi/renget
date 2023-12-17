@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-12-15)==<-
+->==(Updated 2023-12-17)==<-
 ***
 [TOC2]
 ***
@@ -46,6 +46,7 @@ https://rentry.org/ky239
 
 https://rentry.org/MixtralForRetards
 - model-specific guide on using Mixtral with KoboldCpp -  `free` on your own machine
+(see https://desuarchive.org/g/thread/97942495#97942574 explanation of why it might actually be suboptimal)
 
 https://rentry.org/mixtral_vastai_for_dummies
 - model-specific guide on how to set up Mixtral for yourself or for others with KoboldCpp - `paid`
