@@ -25,7 +25,7 @@ https://github.com/kwaroran/RisuAI/wiki
 
 ##### SillyTavern
 https://github.com/Cohee1207/SillyTavern
-https://rentry.org/aicg4retards [as of 2023-12-16 the original is deleted; see archived version here https://archive.is/AdL3H (most likely outdated)]
+https://rentry.org/aicg4retards [as of 2023-12-16 the original is deleted; see the archived version https://archive.is/AdL3H or a mirror https://rentry.org/Tavern4Retards ]
 https://docs.sillytavern.app
 - frontend for many AI services; local install; very feature rich + many extensions
 

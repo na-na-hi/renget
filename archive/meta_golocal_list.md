@@ -67,6 +67,8 @@ https://old.reddit.com/user/WolframRavenwolf/submitted/?sort=new
 https://snombler.neocities.org/logs
 - some tests of various llms specifically for long-form roleplay, performed by a botmaker
 
+https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+- stolen from /lmg/, looks like a foundation models ranking
 
 
 ***

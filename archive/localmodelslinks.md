@@ -14,7 +14,7 @@
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
 | 
-[HF LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)|Automated LLM testing but don't take it too seriously
+[Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 [Ayumi ERP Benchmark](http://ayumi.m8geil.de/index.html)|Ranks models by how well they adhere to character cards, as well as lewd word variety/amount
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |

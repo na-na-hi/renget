@@ -14,7 +14,7 @@ Foxfamily breakfast! |*by Miyuyun*|
 	-> BANNED BY ADMIN - Reason: This is a community of love, not abuse. Flagged for deletion. <-
 (True) [I starred in an AV when I was in middle school](https://rentry.org/hc9x5) | *by Anonymous*|
 The Boy and the Queen |*by 12incher12Yo*|
-	-> BANNED BY ADMIN - Reason: Underage, please send a message to admin KikkeriKock to appeal it. <-
+	-> BANNED BY ADMIN - Reason: Underage, please send a message to admin ChickenButt to appeal it ;). <-
 Ride in the backseat. | *by FoxyLady*|
 The boys at the pool. | *by FoxyLady*|
 A walk in the park. | *by FoxyLady*|

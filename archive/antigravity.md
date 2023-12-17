@@ -17,7 +17,7 @@
 ![](https://64.media.tumblr.com/ec2162352527353a9e028c37d8e5b327/4ee7d7a140f9564f-a3/s75x75_c1/76803d699d46eef1892851887c01bfe0a85de4fe.gifv)*[C](https://www.allaboutbirds.org/guide/American_Crow/overview)rows*
 ![](https://mikejima.crd.co/assets/images/shadow/d72a3a68.gif?v=05e9d6fa) *[S](https://en.wikipedia.org/wiki/Pomacea_bridgesii)nails* `(this specific species)`
 
--> I'm currently working on drawing what I look like in headspace . . . I will put that here when I finish ! ! <-
+-> If you're interested, click [here](https://media.discordapp.net/attachments/1126920051325419581/1185682363338985582/aphelios_real_part_fucking_three.png?ex=65907fc0&is=657e0ac0&hm=d79840356076bc1e9db8e3cda220af53fbd8de6af38760e6b6ae395c08ecbaba&=&format=webp&quality=lossless&width=780&height=662) to see what I look like in headspace ! ! ! <-
 
 -> I literally do not give a fuck about doubles, IRL, kin, or fellow introject I don't care talk to me now <-
 -> ~~`(unless ur a GRRRR DNI IF UR A DOUBLE mf, its time to take your meds)`~~ <-

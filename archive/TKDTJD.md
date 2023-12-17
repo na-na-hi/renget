@@ -730,3 +730,85 @@ https://twitter.com/IranObserver0/status/1735672011068707039  12/15/23
 
 >BIG SUMMARY of all resistance operations today, December 15, against US-israeli forces
 https://nitter.net/AryJeay/status/1735783154873516085#m  12/15/23
+
+>BREAKING| Families of Israeli detainees in #Gaza protest right now in front of the Kirya in Tel Aviv calling for a deal with the Palestinian resistance. The protest comes after Israel's military announced that it killed three detainees in Gaza.
+https://nitter.net/QudsNen/status/1735779434907738302#m  12/15/23
+
+>SCANDAL UPDATE: After examination by israeli media, the 3 alleged prisoners who were friendly fired & killed by the IOF yesterday, were waving WHITE flags. The israeli soldiers killed 2 of them, and shot the 3rd after he yelled said, "HELP!" in Hebrew. This story STINKS.
+https://nitter.net/AryJeay/status/1736000123291750895#m  12/16/23
+
+>The number of military operations carried out by the Islamic Resistance in #Lebanon against the positions of the Zionist enemy and its troop concentrations since the beginning of the aggression on #Gaza until 12/14/2023 was
+509 operations targeted 58 enemy military sites and barracks
+These are statistics about the nature and type of weapons used in operations:
+- 209 operations using guided missiles
+- 131 artillery shelling operations
+- 48 soldiers’ sniping operations
+- 43 missile launcher operations
+- 35 operations with “Burkan” missiles
+- 20 air defense launches
+- 14 direct weapons operations
+- 9 attack operations with drones
+https://nitter.1d4.us/ME_Observer_/status/1735937054570066313#m  12/16/23
+
+>French MP Thomas Porte demands that French nationals fighting with the Isreali occupation forces must be referred to justice on charges of committing war crimes in Gaza. According to the French website Europe 1, there are more than 4,000 French people fighting in Gaza. It is noteworthy that the nationality law in France stipulates that a holder of French nationality may not work for an army of a foreign country, and if he does so, his nationality will be withdrawn immediately.
+https://nitter.1d4.us/QudsNen/status/1736003097170681968#m  12/16/23
+
+>Israeli Occupation forces arrest journalist Hatem Hamdan and seized his vehicle, near Nablus.”
+https://nitter.1d4.us/QudsNen/status/1736000258297995335#m  12/16/23
+
+>Saudi Arabia was behind the war on #Yemen and participated in the brainwashing of the Islamic world in media and mosques for the war on #Syria and in joint cooperation rooms with American and European forces and intelligence against the countries that refuse to normalize with #Israel. In full synchronization with Western media for the propaganda. If you had any doubts about these wars, Al Aqsa Flood today is removing the veil off the hypocrites and criminals of the Arab world.
+https://nitter.1d4.us/ME_Observer_/status/1736031234390655382#m  12/16/23
+
+>Walla Hebrew website: The first batch of commercial shipments loaded with fresh foodstuffs arrive from Dubai to #Israel, through the new alternative land bridge to the Red Sea, through Dubai ports, passing through Saudi Arabia and Jordan. The length of the alternative bridge is (two thousand kilometers) and the journey takes two days.
+https://nitter.1d4.us/ME_Observer_/status/1736022210886672572#m  12/16/23
+
+>“Time is running out for israeli prisoners”
+https://nitter.net/AryJeay/status/1736040451952513364#m  12/16/23
+
+>Reuters: The French transport company CMA CGM announces the cessation of the transit of all container shipments from the Red Sea.
+https://nitter.1d4.us/ME_Observer_/status/1736041959821652252#m  12/16/23
+
+>A well-known Israeli real estate company, Harei Zahav, recognized for constructing hundreds of illegal settlements in the #WestBank , is promoting the establishment of a settlement over the rubble of #Gaza after ethnically cleansing it.
+https://nitter.1d4.us/QudsNen/status/1736078971626741867#m  12/16/23
+
+>Commander of the Coastal Defense Brigade in the #Yemen-i Armed Forces, Major General Mohammad Al-Qadri : A third phase will start against the Israeli enemy if aggression against Gaza continues
+https://nitter.1d4.us/ME_Observer_/status/1736082455491137697#m  12/16/23
+
+>Israel's military buried patients and displaced civilians alive in the courtyard of Kamal Idwan Hospital in northern #Gaza then ran over them with bulldozers.
+https://nitter.1d4.us/QudsNen/status/1736091459235803445#m  12/16/23
+
+>With the escalation of security threats, Maersk and Hapag-Lloyd  announced the suspension of their routes to the Red Sea as well.
+https://nitter.1d4.us/ME_Observer_/status/1736087874091536850#m  12/16/23
+
+>Hezbollah release video of ATGM attack against "Israeli" military barracks
+https://twitter.com/AoR3138/status/1736097205788750088?s=20  12/16/23
+
+>Israeli Minister of War Yoav Galant: The Shujaiya neighborhood is a neighborhood filled with terror, and the battles there are always violent. Al Mashhad reporter Mohammad Balousha was shot by an Israeli sniper, and he is reportedly bleeding and has lost connection due to telecom outage.
+https://nitter.net/QudsNen/status/1736112419418620233#m  12/16/23
+
+>Hamas executed the Al Aqsa flood operation after re-establishing relations with the #Syrian state , the only Arab government that officially armed Palestinian factions , offered training camps, as well as facilitated flights to Iran for military training. 
+
+There is a reason why all the pro-Israel a
+Western media was against the Syrian state on the same program as the Arab states that normalized with Israel and currently support it, as well as the Arab states that host giant American military bases that are used to wage war on Arabs, and waged global jihad on #Syria. 
+
+The mosques were in sync with the White House narrative.Nothing is a coincidence. The alliances are clear. We all know who hosts Americans and who supports Israel in the region. Everything makes perfect sense.
+https://nitter.net/ME_Observer_/status/1736112249914159338#m  12/16/23
+
+>Yemen announces the third phase, it will strike ships heading to Israel with torpedo missiles or other missiles able to sink cargo ships.
+https://twitter.com/IranObserver0/status/1735974891143250252  12/16/23
+
+>Netanyahu: We are fighting fierce battles in Jabalia and Shuja'iya, during which we lost a number of our fighters
+
+Netanyahu: Military pressure is necessary to return the detainees and win the war
+
+Netanyahu: The release of the kidnapped people will be through military and diplomatic efforts
+
+Conclusion: Netanyahu tells #Hamas that there will be no comprehensive ceasefire in exchange for a new deal
+
+Netanyahu: The #Gaza Strip will be demilitarized and under #Israeli control after the elimination of #Hamas
+
+Netanyahu: I told #Israeli negotiators that military pressure helps press for the return of the kidnapped
+https://nitter.net/ME_Observer_/status/1736107110436319625#m  12/16/23
+
+>BREAKING| Media coverage: "Hamas senior representative Osama Hamdan: The Israeli Nazi-like army, which declared war to free the detainees, is the one also that kills its detainees! Netanyahu and Israeli leaders have not achieved a single goal in #Gaza and their dreams and fantasies will never come true."
+https://nitter.net/QudsNen/status/1736133798104912287#m  12/16/23

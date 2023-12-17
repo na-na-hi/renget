@@ -145,11 +145,12 @@ Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
 Page 3
 ***
 ```
->DAWN OF THE FIRST DAY (DAY 1 PART 1)
+>DAWN OF THE FIRST DAY
 >>91231156
 >Day 1 Part 1
 >>91234693
-
+>Day 1 Part 2
+>>91245467
 ```
 These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
 >Zarathustra
@@ -178,8 +179,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Showdown - The Burning Will (Yamata,108 Gang)
-https://rentry.org/7o8mq
+>There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
+https://rentry.org/wwyh7
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -717,6 +718,8 @@ https://rentry.org/wg6z5
 https://rentry.org/rxc93
 >Showdown - The Burning Will (Yamata,108 Gang)
 https://rentry.org/7o8mq
+>There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
+https://rentry.org/wwyh7
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

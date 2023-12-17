@@ -45,7 +45,7 @@
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
 
-### 🔗 [Dhokla](https://dhokla.net/#!/)
+### 🔗 [Dhokla](https://dhokla.net/) / [2](https://vadapav.mov/)
 - No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/dhokla.net/)
 

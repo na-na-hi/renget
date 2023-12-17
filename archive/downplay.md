@@ -10,7 +10,7 @@
 -> ![](https://64.media.tumblr.com/46f8baaf3f2948ceac605b1b09c845ce/716df9ac9403f9e9-a0/s250x400/e29e61955709adaf92db3b3d89c354a90ba1129a.gifv) <-
 -> ***[A](https://roing.us/)phelios.*** ![](https://64.media.tumblr.com/c9e14d13f8b37ea95e72cb6cf6f565e7/be5456b81def8a82-8d/s75x75_c1/ef168a4f745014259e23f6a379f67c387d4c2536.gifv) [I](https://www.leagueoflegends.com/en-au/champions/aphelios/) ☆ [II](https://leagueoflegends.fandom.com/wiki/Rakan/LoL) ★ [III](https://hades.fandom.com/wiki/Zagreus) ☆ [IV](https://dishonored.fandom.com/wiki/Corvo_Attano) ★ [V](https://howlscastle.fandom.com/wiki/Howl_Jenkins_Pendragon)   <-
 
--> ***[V](https://rentry.co/downplay)****amp* + ***[H](https://rentry.co/downplay)****e* <-
+-> ***[V](https://pronouns.cc/@blood.of.reptile/APHELIOS%20.%20CORVO%20.%20HOWL)****amp* + ***[H](https://cdn.discordapp.com/attachments/1126920051325419581/1183655955896991844/506cb81a1d1b428e54c6edcb38b35451.png?ex=65892083&is=6576ab83&hm=892d0319623920235c0f489f1b22155f3ff397fad1c89be5566ed26592b30328&)****e* <-
 
 -> ![](https://64.media.tumblr.com/8eb3db8dc14e2833fadd65b2d914f75c/716df9ac9403f9e9-86/s250x400/a8f4a40fc564e8da8b47b6c0273961dad8189303.gifv) <-
 

@@ -30,9 +30,6 @@ sdsfxt26u58gscr/vi12_-_iegw_ymqtke_-_lpwke_lp_qumcqeu_%2528wtp%2529.kjs/vjhl
 Book of Judgement
 xcrfela2xodfgfq/bncs+rpywfu+-+rud+wlke+ge+qzzwqunze+(qmb).rpk/ugmw
 
-Church of the Damned
-j3lxegwde42x66s/mopn+isctct+-+lvcsfu+ku+rxk+pqvgrz+(wtp).kjs/vjhl
-
 Creatures Anathema
 lido9dysyafz6k8/fqcw_athpix_%2528fylbfdhrsc%2529_-_lnbbfnjna_kwlollaw.taz/ckhd
 
@@ -65,14 +62,15 @@ rg9isw940tobw0o/mopn_isctct_%2528igkaprjdav%2529_-_bqritueq.buw/zzaa
 
 Vehicles
 ia831tvytse16d0/uyjhugso.mgb/jzot
-
 # #Dark Heresy Adventures #=DH1e Adventures
 Apostasy Gambit 01 - Black Sepulchre
 g37rz0sec1oydpr/mdx_bq_mzwoqkyaqtyptr.upe/lvwn
 
 Apostasy Gambit 02 - Church of the Damned
+j3lxegwde42x66s/mopn+isctct+-+lvcsfu+ku+rxk+pqvgrz+(wtp).kjs/vjhl
 
 Apostasy Gambit 03 - The Chaos Commandment
+9b8ya89pcus0kg2/ghqm_eagzku_yzw_uiswx_zlnquwufrei.buw/zzaa
 
 Mini-venture - Edge of Darkness
 qvxp9r5sbls6kvl/fqcw_athpix_%2528upgbrgpm%2529_-_kpyi_wp_zxjoztfp.nfs/kxdx
@@ -91,6 +89,114 @@ qjyyr63v9uje54w/mopn_isctct_%2528lnaasjim%2529_-_gawof_ckr_sukqrkw.skd/scqv
 
 Mini-venture - Shattered Hope
 052zyt1o4efw8o8/ywoy_ihcsoh_%2528shbtmhmf%2529_-_xpnvbxmix_yizt.fbz/sxqg
+# #=Dark Heresy 2nd Edition= #=DH2e
+Dark Heresy 2e Core Rulebook
+https://files.catbox.moe/cgjgxl.pdf
+
+Adventure - Seeds of Heresy
+y6f2kev3bytq5jv/vymv_qzimxrkytez_ku_mrwxxp_orv.zgp/wgdm
+
+Character Sheet
+https://www.mediafire.com/file/yiqm17lnocsgyvc/Dark_Heresy_PC_Sheet.pdf/file
+
+Enemies Beyond
+2msq2b9lk6t9ahs/mopn_isctct_2pj_ychlgka_-_rsxrebn_vqskzj.jjb/dztm
+
+Enemies Within
+5n850dmhcncun38/ghqm_eagzku_2vx_wbhrjkm_-_qmkfvir_loiiyz.rlv/byeg
+
+Enemies Without
+3klsflhhee9e2sd/fqcw_athpix_2vc_dq_-_dmqnlxx_svoxwmx.kjs/vjhl
+
+Forgotten Gods
+ef1jq9k4bh8zphk/vymv_qzimxr_-_mlsmwusqm_zgbw.azt/hhqr
+
+GM Book
+bee384rgcfjssnb/fqcw_athpix_ig_kwko.gjo/mvfb
+
+NPC Vehicle Sheet
+https://www.mediafire.com/file/d1xqm4whw0m575l/dark_heresy_npc__vehicle_sheets.pdf/file
+
+Quickstart Character Creation
+https://www.mediafire.com/file/9eymtio4wr0ybv1/Dark_Heresy_Character_Creation_Supplement_%2528web%2529.pdf/file
+
+Quickstart Character Creation (Enemies Within Options)
+https://www.mediafire.com/file/yqcs8flonjukgc1/enemies_within_character_creation_supplement_web.pdf/file
+
+# #=Black Crusade= #=BC
+Black Crusade Core Rulebook
+mmhmvjjgdfxm3wo/dd_mqfjbntqa.beu/xwix
+
+Tome of Blood
+oxiqhrcy2y55qfp/zlts_sw_nzgbb.aen/lgor
+
+Tome of Decay
+yf65blqiempx7do/%255ghfbhgcgga_dd%255elknq_ko_pftph.ckl/puhg
+
+Tome of Excess
+3h9yib5vyjzaart/zlts_sw_mslwfr.lql/ukqk
+
+Tome of Fate
+eo4n24fdcfe4ah9/ti04_-_zlts_sw_ohew.kcc/ngqq
+
+GM Kit
+e2otomcbtpd30ts/goedw_vhdinbt_mg%2527x_okv_tgpbtrf.zgp/wgdm
+
+Adventure - Hand of Corruption
+p8kxz3x5sngqqnt/goedw_vhdinbt_icqe_lp_xgmnzfftqe.kjs/vjhl
+
+Fall of Solace 1 - Binding Contracts
+swoc61uvie3spao/goedw_vhdinbt_-_kjqekmz_tprlbpiy.fbz/sxqg
+
+# #=Deathwatch= #=DW
+Deathwatch - Core Rulebook
+v3jibfjpk6hl0rt/fheuafwylv_-_ujtr_afortgpb.azt/hhqr
+
+The Achilus Assault
+3zqwqcnbwizuc4o/ianxyahelz_-_eir_rzmwiax_xrnlnfx.kjs/vjhl
+
+The Emperor's Chosen
+a0kvmwltly9ltd4/fheuafwylv_-_rid_rjhqefzx_tktuqx_feblzrgp.xvs/jowl
+
+First Founding
+je8z7x88dqlkrxt/voqmqkjkoz_-_mgsal_lkcmvqwh_etiduheagj.nfs/kxdx
+
+Honour the Chapter
+4lle8vthda9hnjx/fheuafwylv_-_zjzwty_rxk_tkxaonc.buw/zzaa
+
+The Jericho Reach
+9r67zskdfl4xk45/gyozennxvr_yzw_xttjypl_ekulg.azt/hhqr
+
+Mark of the Xenos
+rdjq44a2evcu1u8/gopeeybth_40j_-_xwmeiorsux_-_qumb_wp_fft_truqp.nfs/kxdx
+
+The Outer Reach
+eierh3mikbpy9vw/ianxyahelz_eir_kfrrw_zfxjy.ckl/puhg
+
+Rites of Battle
+zq52wgr1cq89y5t/gyozennxvr_-_qspyr_yn_hxrvix.oum/pobt
+
+Adventure - Ark of Lost Souls
+s0ahf55m6r9tich/mtybikhesa_uqp_jc_tktr_gfacw.azt/hhqr
+
+Adventure - The Emperor Protects
+fix8yex5dz8x0ds/vx03_-_ianxyahelz_-_eir_dngrwgm_ystfqkxa_%2528bgv%2529.nfs/kxdx
+
+Adventure - Know No Fear
+r8p24b8jvljlvkw/voqmqkjkoz-svjx-fk-uquw-npssru.zgp/wgdm
+
+Adventure - The Nemesis Incident
+9v386ez8s8id2zi/key_soraefk_lvlzbtzl_%2528kdx%2529.fvm/eetr
+
+Adventure - Oblivion's Edge
+ntfs47o4a1nalqm/ofjaaxdhp%252l_bdbhygkag_kpyi_%2528wrt%2529.zgp/wgdm
+
+Adventure - Rising Tempest
+55cn8wnqvzktqgm/fheuafwylv_thajqi_rrqdfwl_-_zg10.zgp/wgdm
+
+Fall of Solace 2 - Falling Star
+h0tc8r3b4v3tgsk/mtybikhesa_-_ujntzltyq_-_phncegc_uiww.kjs/vjhl
+
 
 # #=Only War= #=OW
 Core Rulebook

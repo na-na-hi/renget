@@ -7,7 +7,7 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly with Kobold and make the model schizo, use something like the Q5_0 instead. I've also seen some oddities that the K quant for 6bit is worse than 5bit.) If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
+Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly and make the model schizo, use something like the Q5_0 instead. I've also seen some oddities that the K quant for 6bit is worse than 5bit. NOTENOTE: Apparently this might be a issue with just llama.cpp? I'd play it safe and still use the non K quants until we have a solid answer.) If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
 
 ![](https://i.imgur.com/AA1xKHV.png)
 
@@ -25,9 +25,8 @@ Prompt processing is not optimized for moe yet so: >Turn BLAS batch size to "Don
 
 ---
 
-**Use its official formatting or Alpaca.**
-Seen people saying one or the other was better for different tasks, you can try both. 
-(On ST these are under the big A on top. Change the Context Template to either Mixtral or Alpaca.)
+**Use its official formatting.**
+(On ST these are under the big A on top. Change the Context Template to Mixtral.)
 
 (Under Instruct Mode Sequences for ST):
 
@@ -38,16 +37,9 @@ Output Sequence:
 " [/INST]"
 Without the quotation marks and make sure the spaces are respected.
 
-Alpaca:
-Input Sequence: 
-"### Instruction: "
-Output Sequence: 
-"### Response: " 
-Without the quotation marks and make sure the spaces are respected.
-
 ---
 
-Some suggested settings for Mixtral for creative use. For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you can probably find a balance between creative and correct. You can increase context up to 32K if you have the ram.
+Some suggested settings for Mixtral for creative use, more Temperature = more "creativity". For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you can probably find a balance between creative and correct. You can increase context up to 32K if you have the ram.
 ![](https://i.imgur.com/2Q3J9VQ.png)
 (The Ban EOS Token part depends on what you want as it will trail off without it checked (up to the response length) but might also end its response early with it.)
 

@@ -31,7 +31,18 @@ That depends entirely on taste, but I can at least recommend a few from a techni
 
 ## Recent update 
 !!! info
-	11/29/2023
+	**12/16/2023**
+	- Yain (**New**, 7 videos)
+	- 今人(imajin) (**New**, 1 video)
+	- うすぐら (5 videos)
+	- 刺身クリーム (1 video)
+	- ろいろい (1 video)
+	- makuraVR (1 video)
+	- Unsorted Videos (3 videos)
+
+## Previous update
+!!! info 
+	**11/29/2023**
 	- simd (6 videos)
 	- ろいろい (1 video)
 	- MMDpasta (1 video)
@@ -39,13 +50,6 @@ That depends entirely on taste, but I can at least recommend a few from a techni
 	- Eat Up VRMMD (2 videos)
 	- makuraVR (4 videos)
 	- 刺身クリーム (1 video)
-
-## Previous update
-!!! info 
-	11/8/2023
-	- simd (2 videos)
-	- MMDpasta (1 video)
-	- makuraVR (1 video)
 
 ## The Collection
 
@@ -141,6 +145,12 @@ https://pixeldrain.com/l/rnFkcAcf
 
 **simd** - https://www.iwara.tv/profile/simdroid - Free
 https://pixeldrain.com/l/gDdJmhvN
+
+**Yain** - https://fantia.jp/fanclubs/78613 - Paid
+https://pixeldrain.com/l/MK3bYam5
+
+**今人(imajin)** - https://fantia.jp/fanclubs/498610 - Paid
+https://pixeldrain.com/l/3YU5VxVN
 
 **Unsorted Videos** - Random assortment, may or may not have a source. You can ask.
 https://pixeldrain.com/l/9dkMJ8gJ

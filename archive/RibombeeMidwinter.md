@@ -433,7 +433,7 @@ Sneasel frowned. “Hey, I... I can’t help it, okay? Taillow’s just so annoy
 
 Sneasel stood there and listened to me, her ear and her tail feathers slowly drooping in sadness. Once I was done, she crossed her arms and bowed her head, wondering what to do. She was stubborn, but she respected me and usually was willing to hear me out. I could only hope this incident, and my admonition, would knock some sense into her and help her end this conflict. Meanwhile, Taillow kept hovering above us, unwilling to descend and get any closer to Sneasel’s claws, and Toge stood off to the side and watched the scene nervously, idly clutching at his scarf. For a while, the only sound was the chilly wind and the flapping of Taillow’s wings.
 
-At long last, Sneasel looked up at the and opened and shut her mouth for a few moments, struggling to spit out what she wanted to say. Finally, she steeled herself and said, “I’m sorry.”
+At long last, Sneasel looked up at the bird and stammered for a few moments, struggling to spit out what she wanted to say. Finally, she steeled herself and said, “I’m sorry.”
 
 That seemed to surprise Taillow. Her eyes went wide, and she slowly lowered herself down to the fence. “You are?” she asked as she landed beside me. “Really?”
 

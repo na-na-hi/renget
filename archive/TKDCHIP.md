@@ -641,6 +641,10 @@ files.catbox.moe/7u4zzo.mp4  12/13/23
 files.catbox.moe/ui19e6.mp4 New  12/15/23
 files.catbox.moe/kal1gb.mp4 New   12/15/23
 https://files.catbox.moe/gqrf8o.mp4 12/15/23  
+https://files.catbox.moe/lqh1ch.mp4 New  12/16/23
+
+>>New Hamas Media Video 
+https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -652,9 +656,11 @@ https://files.catbox.moe/rx0w59.MOV  12/10/23
 
 >Hezbollah Kino 
 https://files.catbox.moe/6k4qe0.mp4  12/09/23
+files.catbox.moe/3vjhxt.mp4 New  12/16/23
 
 >Al-Quds Kino Footage 
 files.catbox.moe/m56e47.mp4  12/15/23
+files.catbox.moe/m56e47.mp4 New  12/16/23
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -701,5 +707,19 @@ https://files.catbox.moe/dr9rzo.mp4  12/14/23
 https://files.catbox.moe/aepdjp.mp4 Part 1 12/15/23
 https://files.catbox.moe/8r78pz.mp4 Part 2  12/15/23
 
+>BREAKING IRGC releases video of their conversation with the US NavyBefore the aircraft carrier Eisenhower left the Persian Gulf.
+The IRGC forced the US Navy to land its helicopters on deck and leave the Persian Gulf without provocations
+files.catbox.moe/6p8s7e.mp4 New  12/15/23
+
 >IDF: Three hostages "mistakenly" killed by IDF 
 https://files.catbox.moe/4zkm6b.mp4  12/15/23
+
+>Fren made videos TKD: The Movie | Rammstine x Palestein
+files.catbox.moe/w5fvi8.mp4  12/16/23
+https://www.bitchute.com/video/p54cBLQK9Gqd/  12/16/23
+
+>Kino accumulation of zionist terrorist delete operation 
+https://files.catbox.moe/17rocn.MOV  12/16/23
+
+>Kike media admitting it’s impossible to contain 
+https://files.catbox.moe/ha95vq.MOV  12/16/23
