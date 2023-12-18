@@ -301,6 +301,10 @@
 - Encyclopedia for ROMs and ISOs, where you may download heaps of games.
 - [URL Safety Results](https://www.urlvoid.com/scan/romspedia.com/)
 
+### 🔗 [ROMSPURE.CC](https://romspure.cc/)
+- Explore over 30,000 verified roms, including 3000 pre-patched and 5000 fan-translations.
+- [URL Safety Results](https://www.urlvoid.com/scan/romspure.cc/)
+
 ### 🐐 [RomUlation](https://www.romulation.org/)
 - Retro console games on your PC. Relive your childhood right now.
 - [URL Safety Results](https://www.urlvoid.com/scan/romulation.org/)

@@ -60,7 +60,19 @@ Zoro | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-onli
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 :---- | :---- | :----
-Z-Library Project | zlibrary-to  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+Z-Library Project | zlibrary-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 🕹️ ➜ Emulators
+
+📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
+:---- | :---- | :----
+CoolROM | coolrom-cc / coolrom-com-au / coolroms-games | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;
 

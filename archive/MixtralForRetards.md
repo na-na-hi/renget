@@ -15,6 +15,9 @@ Download one of the quants according to what you can fit in your VRAM / RAM. (NO
 
 >https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/tree/main
 
+![](https://i.imgur.com/DlGcFhx.png)
+Try to use at least Q5 if you can, its MUCH better than Q4 as you can see. Lower PPL = better.
+
 ---
 
 In kobold set model to the model...
@@ -50,7 +53,7 @@ Also put "</s> " as the Separator in formatting. And "Examples:" as the Example 
 
 ---
 
-**A quote about the formatting:**
+**A quote about the formatting and why I changed it:**
 
 Okay, something is fucked with the "official" Mixtral Instruct formatting for RP. I have an OC card, relatively complicated, where it has to output a stats panel at the end of every message, like this:
 ```
@@ -95,7 +98,7 @@ You might have to change the way you prompt a little bit because mixtral REALLY 
 
 **Silly Tavern being Silly Tavern**
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. Begin them the same as the formatting section depending if is supposed to be you instructing (INPUT) or the model responding (OUTPUT). NOTE: According to some just putting "</s> " as the Separator and "Examples:" as the Example Separator without the quotation marks in formatting should work.
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s> " as the Separator and "Examples:" as the Example Separator without the quotation marks in formatting should work.
 
 Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 
@@ -130,7 +133,7 @@ Card:
 
 -
 
-Some tips from another Anon that they may add to:
+Some tips from another Anon that others may add to:
 >https://rentry.org/mixtral-bot-tips
 
 ---

@@ -157,10 +157,12 @@ Komakaze_Helmet_SG = Rabu
 npcs-np0144 = JTF Mob
 EN0001 = Phrenapates
 EN0002 = Shiroko (Terror)
-NP0032_spr = Aoi **(Portrait Only)**
-NP0040_spr = GSC President **(Portrait Only)**
-NP0090_spr = Sakurako (Leotard) **(Portrait Only)**
+NP0032_spr = Aoi **(Sprite Only)**
+NP0040_spr = GSC President **(Sprite Only)**
+NP0090_spr = Sakurako (Leotard) **(Sprite Only)**
+NP0129, 130, 131 = Decacnuy (Ein, Sof, Ohr) **(Sprite Only)**
 NP0149, 0150, 0152, 0156, 0157 = Vol5. Part 1 Hyakiyakko Mobs
+
 
 #**Anyone else not listed can be found by searching the character's name** within the game's files or has not been added to this list yet. These are the ones I have looked into so far.
 -> ![Cute NMGK](https://files.catbox.moe/8gndgg.png) <-

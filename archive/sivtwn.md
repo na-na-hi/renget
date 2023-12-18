@@ -88,61 +88,51 @@ Kanata shifted Towa around in her arms, feeling up her backside.  "She does look
 Kanata's smile faded as she stopped groping Towa's butt and reached the base of her tail. 
 "...*devil*."
 
+####(Part 2 of ?)
 
+"Well yes but I'm not evil or anything! I'm neutral, you know!"
+Towa looked Kanata in the eyes and folded her hands pleadingly, but she only got a cold stare in response. As the angel and the devil looked each other in the eyes, Kanata's face began to shine and she spread her wings - they had been pitifully small before, but had grown much wider and longer. The angel would have looked beautiful - if not for the many eyes that began to open on her slowly-spinning halo. 
 
-!!! border between parts
-    .
-    . 
-    .
-    .
-    . 
-    .
-
-
-"Well yes but I'm not evil or anything! I'm neutral, you know!" Towa looked Kanata in the eyes and folded her hands pleadingly, but she only got a cold stare in response. As the angel and the devil looked each other in the eyes, Kanata's face began to shine and she spread her wings - they had been pitifully small before, but had grown much wider and longer. The angel would have looked beautiful - if not for the many eyes that began to open on her slowly-spinning halo. 
-Looking into the angel's eyes, Towa felt her heart beating more erratic and stronger than a human heart ever could. She felt itchy where her horns and wings would be if she unleashed herself. Her body was ready, her eyes began to light up with green hellfire, her instinct screamed at her to prepare for battle...but Towa managed to surpressed the urge, just in time. She had sworn to never been a violent devil, to leave hell and all that it stood for behind. And this wasn't just some random loyalist, either - this was Coco's close friend. 
+Looking into the angel's eyes, Towa felt her heart beating more erratic and stronger than a human heart ever could. She felt itchy where her horns and wings would be if she unleashed herself. Her body was ready, her eyes began to light up with green hellfire, her instinct screamed at her to prepare for battle...but Towa surpressed the urge, just in time. She had sworn to never be a violent devil, to leave hell and all that it stood for behind. And this wasn't just some random loyalist, either - this was Coco's close friend. Towa lowered her eyes, their fire extinguished.
 
 Kanata wondered whether Towa was more of a weakling or more of a coward. But she couldn't exactly go around and harm innocents, so she decided to grant the devil in her arms mercy - for now.
-"Neutral? We'll see about that...don't try anything now, or it'll be over with you." Kanata's sounded as menacing as she looked as she knelt and lowered her arms.
-Towa didn't offer any rebuttal or resistance as she was put on the floor like a doll, her naked back and butt coming in contact with the cold ground.
+"Neutral? We'll see about that...don't try anything now, or it'll be over with you." Kanata's sounded as menacing as she looked as she knelt and lowered her arms. Towa didn't offer any rebuttal or resistance as she was put on the floor like a doll, her naked back and butt coming in contact with the cold ground.
 
 "Lay on your stomach."
 
 Towa obeyed, laying down as submissively as she could. Now her other side felt like it was freezing, but she did not dare to move or talk; only her thoughts were racing. What was Kanata planning? Was fighting back the only way to get out of this, after all? Would Coco help her little devil slut out? 
 
-"Spread out your arms and legs, then lay still." 
+"Spread your limbs. Then lay still." 
 
-Towa's thought process was interrupted as she quickly obeyed the command, stretching her arms and legs from her as if she was tied to the X-cross in the bedroom again. Towa being humiliated by being made to lie on the floor in one of the most pathetic poses possible was very arousing in principle, but the potential for actual violence ruined the mood for all three.
+Towa's thought process was interrupted as she quickly obeyed the command, stretching her arms and legs out as if she were tied to the X-cross in the bedroom again. Towa being humiliated by being made to lie on the floor in one of the most pathetic poses possible should have been very arousing, but the potential for actual violence ruined the mood for all three.
 
-Coco's brows had furrowed and her tail had stopped moving, but she had not interfered s ofar.
+Coco's brows had furrowed and her tail had stopped moving as soon as Kanata's mood had changed, but Coco's ignorance of divine politics and her trust in Kanata had kept her silent - until now. 
+"Come on, pissy prideful tenshi! If you want Towa to leave, fine. But don't judge her in the name of God or something - she's a good girl, ya know? I trust her, and I'm not a naive dumbass. Not all devils-"
 
+The dragon was much larger and spoke much louder, but even without seeing the scene Towa could tell that the angel was somehow more imposing. Kanata placed her right foot on Towa's back and tail before shifting her attention to Coco. Towa groaned, feeling her tail squished and her body pressed against the floor as Kanata fixed Towa to the floor as strongly as she could. At least Kanata wasn't very heavy. 
 
+"Coco...you just forgot, didn't you? The one rule, the one I told you right from the start?" Kanata stared into the dragon's eyes, reading her roommate like a book. Coco was often worse at hiding what a mess she could be than Kanata was herself...stupid sexy dragon.
 
+After a few seconds, Coco's eyes and mouth sprang open in shock only to go back to a feigned normal - just like Kanata expected. The dragon avoided the angel's gaze as she tried to shuffle past Kanata into the kitchen, speaking in a voice that was very high-pitched and cutesy for her standards. Few, if any, male dragons could have tamed Coco so successfully that she would have sound meek like this.
+"Well...I don't know all this heaven and hell stuff, you know?" Towa had never heard Coco like this before, and it caught her attention despite the circumstances. "I'm a dragon from overseas, so how about I make us some nice burgers while you and Towa sort out your differen- OWWW! KANATA, PLEASE! OW! FUCK!"
 
+Kanata had stopped Coco in her tracks, grabbing Coco by the naked pussy and giving its top part a hearty squeeze. 
+"Don't play dumb. There was one rule - no creatures from hell. Did you forget it, or was this harlot just too hot?"
 
-!!! Steinbruch unten
-    Bedien dich
+"Ahh...I forgot, 100%! You just made up lots more rules when it became necessary, y'know? No males over 18, no males under 18, no one dressed up as a banana, no one dressed up as an axolotl, no whores pretending to be one of your favourite 3D waifus, no...OWWW!!! I MEAN IDOLS! One of your amazing, admirable, awesome idols!" Coco caught her breath, continuing with a bit more calm. "Look, I'm sorry! It was my fault. Just have some mercy on Towa...and my clit, too. Kanatan, this isn't how you usually are!"
 
+"That's because this situation is far from usual, Coco. I'm sorry." Kanata didn't look too kindly at Coco, but she released the dragon's punished pussy from her grip. "Go into the kitchen and make those burgers. I'll get to your punishment after I deal with the devil." 
+Towa heard the loud slap Kanata delivered to Coco's ass before it disappeared into the kitchen. Even though she couldn't tell how much of it was playful and how much was genuine punishment, hearing Coco scream and beg awakened something in Towa that made her ignore the foot on her naked back, the position she was in and even the danger for a moment.
 
+Once Coco had left, one hand closing the kitchen door and one between her legs, Kanata knelt down next to the prostrate devil. She shoved her right hand between Towa and the floor to grab Towa's left breast; Towa braced for a painful squeeze like the one Coco's crotch had been subjected to, but the grip was only mildly strong and painful.
 
+"Let's see your Evil, hm? Maybe your heart is neutral enough to not burst."
 
+Towa controlled herself as best as she could, closing her eyes and clenching her teeth as her life flashed before her eyes - was her heart of Evil? She had never really done much in hell. In the human world she had been mischievous, cowardly and selfish a few times...but that wasn't especially evil, wasn't it? That's just how humans were, Towa told herself. It would be unfair to jud-
 
-"Coco, I'm hungry. Make dinner, please."
+"aaaAAAHHHAHAHAHAHAHA! OH MY GOD, WHAT'S THIS? PLEASE, HAHA, STOP! PLEASE! AAAHAHAHAHAHAHA!" Towa's thoughts were rudely interrupted as she felt like legions of the softest feathers imaginable were passing over her body, making her laugh harder than she ever had. It was like wave after wave of an unbelievably brutal tickle assault on her whole body, something Towa was vulnerable to anyway.
+It was much worse than the ones Coco had used to justify a need to "correct" Towa's "disrespectful attitude" - usually by spanking Towa's butt bright red, or torturing her most sensitive areas with clamps that felt much more evil than Towa. Kanata's divine tickle torture felt so much worse, in fact, that Towa escaped it by fainting after only thirteen seconds. 
 
-"You don't know devils. You're not from Heaven or Hell." Kanata's eyes narrowed to slits as she stared down her roommate. The dragon was much larger, but the angel was more imposing - Towa did not dare to move a centimetre. 
-"If Towa isn't evil, I won't hurt her. Now go. Make. Dinner." The angel pointed towards the kitchen door without breaking eye contact.
+Kanata, puzzled by the devil's reaction, removed her hand from Towa's left breast. Towa's elegant mediums were almost as fun to grope as Coco's massive milkers, and the begging just now had tickled Kanata's fancy. But the angel didn't have a hard time pushing those thoughts to the back of her head, given what had just happened. Why had her divine judgment worked like this on Towa? Had Coco been right - was this really a not especially evil devil?
 
-After a second, Coco's tail drooped as she lost the contest of staring and will. "Fine...you two sort your heaven and hell stuff out while I make burgers. But I like" - Coco's eyes met Towa's pleading ones - "I like Towa. And I'm not naive, y'know?"
-
-With that, Coco marched off, closing the kitchen door behind her. Kanata looked down at Towa, sternly but calmly. Then she knelt down next to the devil, placing her right hand on Towa's left breast.
-"Let's see your Evil, hm? Maybe your claim was truthful enough for your heart to not burst."
-
-Towa controlled herself as best as she could, closing her eyes and clenching her teeth as her life flashed before her eyes - was she Evil? She had never really done much in hell...in the human world she had been mischievous, cowardly and selfish a few times...but that wasn't especially evil, wasn't it? That's just how humans were, Towa told herself. It would be unfair to jud-
-
-"aaaAAAHHHAHAHAHAHAHA! OH MY GOD, WHAT'S THIS? PLEASE, HAHA, STOP! PLEASE! AAAHAHAHAHAHAHA!" Towa's thoughts were rudely interrupted as she felt like a swarm of the softest feathers of all time were passing over her body, making her feel laugh harder than she ever had. It was like wave after wave of an unbelievably brutal tickle assault on her whole body.
-It was much worse than the ones Coco had used to justify a need to "correct" Towa's "disrespectful attitude" - usually by spanking Towa's butt bright red or torturing her most sensitive areas with clamps that felt more evil than she ever did. Kanata's divine tickle torture felt so much worse, in fact, that Towa fainted before the urge to move around had taken over fully.
-
-Kanata, puzzled by the devil's reaction, removed her hand from Towa's left breast. Towa's breasts looked even better now that her nipples were hard, but Kanata pushed that thought to the back of her head. Why had her divine judgment only tickled Towa? Had Coco been right - was this really a rare, non-Evil devil?
-The small angel touched Towa all over, trying to focus on her sixth sense rather than sight and touch. But there was still no Evil to be found. 
-
-Kanata stood up and took a step back in both senses. Was this actually...good news? She had technically purged any Evil as she was required to, and having to observe this unusual case was a perfect reason to keep an eye and more on Coco's newest catch.
+The small angel touched Towa all over, trying to focus on her sixth sense rather than sight and touch. But there was still no Evil to be found. Kanata stood up and took a step back, in the corridor and in her mind. Was this actually...good news? She had technically purged any Evil as she was required to, and having to observe this unusual case was a perfect reason to keep an eye on Coco's newest catch, and more. She couldn't exactly be friends on equal terms with a devil, but she could certainly oversee and discipline one...
