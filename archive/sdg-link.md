@@ -13,6 +13,8 @@ https://rentry.org/comfyui
 ###Automatic1111 forks
 https://github.com/anapnoe/stable-diffusion-webui-ux
 https://github.com/vladmandic/automatic
+###Other UI
+https://github.com/lllyasviel/Fooocus
 ###AMD GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 https://github.com/lshqqytiger/stable-diffusion-webui-directml
@@ -321,5 +323,5 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - November 18th - https://pastebin.com/2CFqLXTR
+Cut'n'paste for PWChefAnon and other thread bakers - December 18th - https://pastebin.com/qmAjLhFt
 *(PWAnon, gratz on the new kitten! ≽^•⩊•^≼)*

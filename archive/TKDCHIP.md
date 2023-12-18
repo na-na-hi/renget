@@ -651,11 +651,18 @@ files.catbox.moe/vivizz.mp4 New Same Vid  12/13/23
 files.catbox.moe/7u4zzo.mp4  12/13/23
 files.catbox.moe/ui19e6.mp4 New  12/15/23
 files.catbox.moe/kal1gb.mp4 New   12/15/23
-https://files.catbox.moe/gqrf8o.mp4 12/15/23  
-https://files.catbox.moe/lqh1ch.mp4 New  12/16/23
+files.catbox.moe/gqrf8o.mp4 12/15/23  
+files.catbox.moe/lqh1ch.mp4 New  12/16/23
+files.catbox.moe/t899i7.mp4 New  12/17/23
+IDF convoy cooked by an Kornet ATGM
+files.catbox.moe/n0ncpm.mp4 New  12/18/23
+Squad size IDF toasted by yassin 105 
+files.catbox.moe/rohjn1.mp4 New  12/18/23
 
 >New Hamas Media Video 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
+You arrived late… Mission had already been accomplished.
+https://files.catbox.moe/dywtuw.mp4  12/18/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -752,3 +759,6 @@ https://files.catbox.moe/17rocn.MOV  12/16/23
 
 >Kike media admitting it’s impossible to contain 
 https://files.catbox.moe/ha95vq.MOV  12/16/23
+
+>Houthis spokesman saying they are not afraid al jazeera interview.
+files.catbox.moe/m1xspu.mp4  12/18/23

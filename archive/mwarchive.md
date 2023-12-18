@@ -43,7 +43,7 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - https://pixeldrain.com/u/frUTw87W
 - /B/ meme images
 - 650 MB - 3,500 images
-- https://anonymfile.com/V1ex/b-oct-nov.zip
+- https://pixeldrain.com/u/jSKLL5hU
 
 For the study of memetic propaganda, here are some academical and educational pdfs.
 
@@ -78,15 +78,15 @@ The list shall change - removals as anons make memes, additions from suggestions
 * New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
 * Chicago police report a 11,000% increase in arrests since 2021 of Venezuelan migrants (2,500% increase since 2022)
 * Jewish campus org, Hillel paid people to place 'I love Hamas' stickers all over University of British Colombia
+
+####General Ideas
+
 * Before becoming the Unabomber, Ted K. went through CIA funded MK-Ultra program during university years
 * Henry Kissinger, now dead at 100, predicted to take upper management position in hell
 * Aircraft navigation systems in the Middle East face mysterious ongoing hacks leading to major flight problems
 * IDF officers in the 8200 intel unit attempted to warn about impending Hamas attack, told shut up or face court martial
 * Mystery Pnuemonia, aka Covid 2, "tearing through" schools in China, WHO calls for masking and social distancing
 * New York state gets new law allowing kidnap, mandatory treatment and quarantine of people without notice for any infection
-
-####General Ideas
-
 * Goldstein of the Defense Digital Service of the US DoD says 175 million IP addresses given out for cyber defense
 * UK disabled people were secretly put on a 'Do Not Resusiscate' list to die off during Covid
 * Air Crash investigator Murdock says the industry is 'covering up' a staggering amount of vaxxed pilot heart attacks
