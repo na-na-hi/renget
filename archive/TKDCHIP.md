@@ -659,10 +659,12 @@ files.catbox.moe/n0ncpm.mp4 New  12/18/23
 Squad size IDF toasted by yassin 105 
 files.catbox.moe/rohjn1.mp4 New  12/18/23
 
->New Hamas Media Video 
+>New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
 You arrived late… Mission had already been accomplished.
 https://files.catbox.moe/dywtuw.mp4  12/18/23
+Al Qassam Brigades releases footage of three Israeli detainees 
+files.catbox.moe/2o0ebj.MP4  12/18/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -685,6 +687,10 @@ files.catbox.moe/acv20y.mp4 New  12/17/23
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
+
+>New Hezbollah Media Videos 
+Hezbollah: The resistance movements will not abandon their responsibilities
+https://files.catbox.moe/7uc2ni.mp4  12/18/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -762,3 +768,7 @@ https://files.catbox.moe/ha95vq.MOV  12/16/23
 
 >Houthis spokesman saying they are not afraid al jazeera interview.
 files.catbox.moe/m1xspu.mp4  12/18/23
+
+>Another massacre against Palestinian civilians in Khan Yunis on the hands of zionist terrorists 
+https://twitter.com/WarMonitors/status/1736820568542920857  12/18/23
+https://files.catbox.moe/peawg5.mp4  12/18/23

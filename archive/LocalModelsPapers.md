@@ -471,6 +471,7 @@
 12/2023|[Aligner: One Global Token is Worth Millions of Parameters When Aligning Large Language Models](https://arxiv.org/abs/2312.05503)
 12/2023|[CBQ: Cross-Block Quantization for Large Language Models](https://arxiv.org/abs/2312.07950)
 12/2023|[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987)
+12/2023|[Weight subcloning: direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

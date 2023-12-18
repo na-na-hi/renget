@@ -40,8 +40,8 @@
 ** Putting the previous versions here out of convenience**
 Model | Artist Wildcards | Tags | Changes
 ----: | :----: | :----: | :----: 
-[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
-[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | More artists; slightly better color
+[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
+[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
 [a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | ⬆️ | Better look even without tagging artist
 
 

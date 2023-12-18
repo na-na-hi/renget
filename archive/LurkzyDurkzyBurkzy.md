@@ -1,8 +1,10 @@
 #LURKz's Furbo and Claude 2/2.1 Presets 
 ##->Updated - 18 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
+!!! danger Regex
+	->Didn't realise until now, but the RegEx wasn't displayed right due to how Rentry handles backticks. This has been fixed.<-
 !!! note Updates 
-	->16 Dec - DildoWielder (Furbo). Made the preset *slightly* more user friendly, allowing better customisation. Token size has been reduced by a few hundreds, and now comes with a toggleable prompt labelled ==SEXO== (Disabled by default), which usecase should be self-explanatory, as well as ==JB==, that can be used traditionally (i.e. enforce speech patterns) or for OOC commands (i.e. Simulating Discord DM's in a specific format). Statboxes have also been restructured, and it's purpose has been more clearly defined. {{random}} has been used to decide how responses end.<-
+	->16 Dec - DildoWielder (Furbo). Made the preset *slightly* more user friendly, allowing better customisation. Token size has been reduced by a few hundreds, and now comes with a toggleable prompt labelled ==SEXO== (Disabled by default), which usecase should be self-explanatory (Lewdify responses/Initiate sexual acts), as well as ==JB==, that can be used traditionally (i.e. enforce speech patterns) or for OOC commands (i.e. Simulating Discord DM's in a specific format). Statboxes have also been restructured, and it's purpose has been more clearly defined. {{random}} has been used to decide how responses end.<-
 	->17 Dec - DildoWielder (Furbo). No major changes, just added my own OCD method for formatting the response to be fully italicised in ==PREFERENCES==.<-
 !!! warning 
 	-> 18 Dec - Added an experimental preset tab, for new things I'm trying out. The furbo preset will be a stable version as always, with the experimental version containing slight modifications to assess how certain words, or instructions affect output. Feel free to try it out for yourself, and any feedback (Positive or Negative) can be sent to my discord or email.<-
@@ -27,7 +29,7 @@ Claude | Furbo | Experimental (Furbo)
 ->This will hide the codeblock in {{char}}'s responses, but will still be eating up tokens. This is purely if you find the codeblock distracting, and serves no other purpose besides reducing visual clutter. **THIS ONLY APPLIES FOR MY FURBO PRESET.**<-
 Config | Code
 :----: | :----:
-![RegEx](https://files.catbox.moe/6aifym.png)   | /```[\s\S]*?```/g
+![RegEx](https://files.catbox.moe/6aifym.png)   | /\```[\s\S]*?```/g
 
 ***
 ###-> Misc JB for Furbo<-

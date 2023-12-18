@@ -11,7 +11,7 @@
 -> ![](https://64.media.tumblr.com/42f4dbb5dd83f499e2fbcae16e60a4a8/f651789587d2564c-e5/s75x75_c1/e2f14c9403ec86d25118d9c4ae9655ec042626a3.gifv) <-
 
 >> **GAMES**
-> **League of Legends**, **Baldurs Gate 3**, **DnD**, **Hades**, **Dishonored**, **Devilman**, **Silent Hill**, *Lethal company*, *The Blind Prophet*, *Fear and Hunger*, *POSTAL*, Persona (fndm dni.), Genshin (fndm dni.), Terraria, L4D2, Darkest Dungeon, Prey, My Singing Monsters, Slime Rancher, Sun Haven, Stardew Valley, Katana ZERO, OFF, Hylics, Roblox, Mortal Kombat, Street Fighter, TLoZ, IDV (fndm dni.), Apex Legends, Resident Evil, Minecraft, FNaF, DBH, 
+> ***CRY OF FEAR*** **League of Legends**, **Baldurs Gate 3**, **DnD**, **Hades**, **Dishonored**, **Devilman**, **Silent Hill**, *Lethal company*, *The Blind Prophet*, *Fear and Hunger*, *POSTAL*, Persona (fndm dni.), Genshin (fndm dni.), Terraria, L4D2, Darkest Dungeon, Prey, My Singing Monsters, Slime Rancher, Sun Haven, Stardew Valley, Katana ZERO, OFF, Hylics, Roblox, Mortal Kombat, Street Fighter, TLoZ, IDV (fndm dni.), Apex Legends, Resident Evil, Minecraft, FNaF, DBH, 
 
 >> **MOVIES / SHOWS**
 > **American Psycho** (not in the "hes just like me" sigma loser way), **Howl's Moving Castle**, **Saw**, **Arcane**, **MLP**, **Gemini Home Entertainment**, **Invader Zim** *Mad God*, *A Cure For Wellness*, Midsommar, I + ATSV, Trigun,  Evangelion, Lego Monkie Kid, The Collector, The Boys, Hostel, Deadman Wonderland, Love Death and Robots, Reanimator, Balto

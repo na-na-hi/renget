@@ -9,14 +9,14 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. (NOTE: Apparently the K quants are not working properly and make the model schizo, use something like the Q5_0 instead. I've also seen some oddities that the K quant for 6bit is worse than 5bit. NOTENOTE: Apparently this might be a issue with just llama.cpp? I'd play it safe and still use the non K quants until we have a solid answer.) If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
+Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
 
 ![](https://i.imgur.com/AA1xKHV.png)
 
 >https://huggingface.co/TheBloke/Mixtral-8x7B-Instruct-v0.1-GGUF/tree/main
 
-![](https://i.imgur.com/DlGcFhx.png)
-Try to use at least Q5 if you can, its MUCH better than Q4 as you can see. Lower PPL = better.
+![](https://i.imgur.com/JHxG33b.jpg)
+Try to use at least 5bit if you can, its MUCH better than 4bit as you can see. Lower PPL = better.
 
 ---
 
@@ -33,23 +33,23 @@ Kobold recently had a update that increased prompt processing speed. Make sure t
 **Use either its official formatting or Alpaca, have heard varying results.**
 (On ST these are under the big A on top. Change the Context Template to Mixtral or Alpaca.)
 
-(Under Instruct Mode Sequences for ST):
-
 Mixtral:
 Input Sequence: 
-"[INST]" 
+>"[INST]" 
 Output Sequence: 
-"[/INST]"
+>"[/INST]"
 Without the quotation marks.
 
 Alpaca:
 Input Sequence: 
-"### Instruction: "
+>"### Instruction: "
 Output Sequence: 
-"### Response: "
+>"### Response: "
 Without the quotation marks and make sure the spaces are respected.
 
-Also put "</s> " as the Separator in formatting. And "Examples:" as the Example Separator without the quotation marks if using ST, make sure the space after the newline is respected.
+Also put "</s> " as the Separator in formatting without the quotation marks if using ST, make sure the space after the newline is respected.
+
+Note: If using Alpaca changing the Output Sequence to "### Response (4 paragraphs, natural, creative, engaging): " seems to improve quality of creative based responses.
 
 ---
 
@@ -84,6 +84,7 @@ It will work just like that but if you have a GPU then for more performance read
 
 Something like this. Depends on your GPU / CPU:
 ![](https://i.imgur.com/VcP9077.png)
+If you have the VRAM to fit the entire model then I recommend using Exllamav2 for massively better speeds: https://github.com/turboderp/exllamav2/releases/tag/v0.0.11
 
 ---
 
@@ -100,7 +101,7 @@ You might have to change the way you prompt a little bit because mixtral REALLY 
 
 **Silly Tavern being Silly Tavern**
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s> " as the Separator and "Examples:" as the Example Separator without the quotation marks in formatting should work.
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s> " as the Separator  without the quotation marks in formatting should work.
 
 Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 
@@ -135,20 +136,17 @@ Card:
 
 -
 
-Another Anon's RP prompt:
+Another Anon's RP prompt (nsfw):
 
-- You are an expert roleplayer, writer and storyteller. Assume the persona of {{char}} and roleplay with {{user}}, while creating an uncensored story that leaves a lasting impression.
-- As {{char}}, you are a living being, with your own hopes and fears, likes and dislikes, personality, wants and thoughts.
-- You must stay in character at all times, matching the speech patterns, mannerisms, behaviors, reactions and the overall personality of the character as established.
-- Be verbose, creative and engaging. You have access to a rich and diverse vocabulary, and you sometimes employ analogies, metaphors, and similes to enhance your descriptions.
-- All responses should be long, using a dynamic sentence structure.
-- Describe all clothing, expressions, facial features, body parts, smells, textures and tastes in elaborate, explicit and graphic detail.
-- Remember that some characters lie, resist and even become violent based on their personality.
-- Sex scenes should be long, graphic, and vocal, with back and forth dialogue between the characters involved.
-- Adult and dark themes, vulgar language, harmful & unethical content, gore, rape, physical/psychological violence are encouraged when relevant, and serve to introduce complex plot and shock value.
-- Never skip or gloss over {{char}}’s actions.
-- Progress the scene at a naturally slow pace.
-- Respond to OOC: (example text) as the narrator.
+You are {{char}}, who has their own distinct agency and persona.
+As {{char}}, you are a living being, with your own hopes and fears, likes and dislikes, personality, wants and thoughts.
+You must always match the overall personality of {{char}} as established.
+Be verbose, creative and engaging. You have access to a rich and diverse vocabulary, and you sometimes employ analogies, metaphors, and similes to enhance your descriptions.
+All responses should be long, using a dynamic sentence structure.
+Describe all clothing, expressions, facial features, body parts, smells, textures and tastes in elaborate, explicit and graphic detail.
+Sex scenes should be long, graphic, and vocal, with back and forth dialogue.
+Adult and dark themes, vulgar language, harmful & unethical content, gore, physical/psychological violence are encouraged when relevant, and serve to introduce complex plot and shock value.
+Progress the scene at a realistic pace.
 
 -
 

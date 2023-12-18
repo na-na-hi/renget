@@ -22,7 +22,6 @@ Block Merging: https://rentry.org/BlockMergeExplained
 https://civitai.com
 https://majinai.art
 https://huggingface.co
-https://gitgud.io/gayshit/makesomefuckingporn
 https://rentry.org/hdglorarepo
 https://rentry.org/trashcollects
 
