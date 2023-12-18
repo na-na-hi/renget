@@ -1,4 +1,11 @@
 ▶NEW CLIPS
+>AS-90 burn
+https://files.catbox.moe/846a04.mp4
+>Dual POV T-64 explosion
+>Marines:
+https://files.catbox.moe/f3ugop.MP4
+>AFU:
+https://files.catbox.moe/5lnae2.mp4
 >POV: SBU porks in Kherson attacked with a drone
 https://files.catbox.moe/2ojtvv.mp4
 >Ukrainian council meeting ends with a bang

@@ -993,6 +993,7 @@ Cold Comfort (Capture Cloth, Bakeneneko): https://rentry.org/wg6z5
 First Battle - The Heat of Combat (Orochi, 108 Stars Gang): https://rentry.org/rxc93
 Showdown - The Burning Will (Yamata,108 Gang): https://rentry.org/7o8mq
 There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver): https://rentry.org/wwyh7
+Showdown - Friendship Endures (Yamata, 108 gang): https://rentry.org/8f9ei
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

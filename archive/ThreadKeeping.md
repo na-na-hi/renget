@@ -179,8 +179,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
-https://rentry.org/wwyh7
+>Showdown - Friendship Endures (Yamata, 108 gang)
+https://rentry.org/8f9ei
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -720,6 +720,8 @@ https://rentry.org/rxc93
 https://rentry.org/7o8mq
 >There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
 https://rentry.org/wwyh7
+>Showdown - Friendship Endures (Yamata, 108 gang)
+https://rentry.org/8f9ei
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

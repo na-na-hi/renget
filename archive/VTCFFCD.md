@@ -2,13 +2,20 @@
 
 ->![Funny](https://files.catbox.moe/h7lymb.png)<-
 
-## ->❄️[Recently added to the archive: 12/06/2023](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 12/18/2023](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
-->(***Series entry!***) [Blackbean (Balsa Prequel)](https://docs.google.com/document/d/e/2PACX-1vT6-m204WnIpX8yvXmu96udw60iLx99xtdNY0JRj0wrueYndzmx9sGCYeyHdtRUbV9nBOPEEgRddwRi/pub) (Botan, Towa, Fubuki, fantasy)
-[The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, NSFW, under 5k)
-[Holoslavia: Operation Nimrod Ch. 1](https://docs.google.com/document/d/e/2PACX-1vTDXSmvz1NfRgQ1asHrUxUp3XmPww4ze5AYuwaM6qUDR8_RPPtqy0edkYzDf3ltPbYbwzGWLU5yacDG/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes)
-[Holoslavia: Operation Nimrod Ch. 2](https://docs.google.com/document/d/e/2PACX-1vTywI7eVAG2hdFDcAZ40237lOglgWk4S901B5fKV_DVbfDXxhnAtg2SLuTXw7WN67t4VOK3Fsq76YJe/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes) ^<-
+->(***Series entry!***) [Blackbean Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTrgdRLbfE4K-KNO4AJ-0ULyjMF3Vl0jmdWfpqIXs_6489IviIvwp2M1J1AHRcB8WeG_CUoPZVkJau_/pub) (Towa, Botan, Watame, Mio, Fubuki, Fantasy)
+(***Series entry!***) [Blackbean Chapter 3](https://docs.google.com/document/d/e/2PACX-1vR3hp5NUBmlnqe49pHnfHg0Uvpn2v1yRq-xZpGQdsp38xOiFMTLes2FbAlPsXObjbZOyrMMX7_nBzCI/pub) (Botan, Fubuki, Towa, Shiori, Fantasy)
+(***Series entry!***) [Blackbean Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSmIDLIncIDZn8Cp8bObaT9KHSljsQzxrLRbx3nHazaip5EigKCtt4fhZdLccmI7tmf6PqKVX9WS0yJ/pub) (Towa, Botan, Watame, Shiori, Mio, Fubuki, Fantasy)
+(***Series entry!***) [Blackbean Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQ-ZnsyLs-jm-5qWWeOKxOYXprky0o2VewzwPxc397ROw3u3eqJAAryzaze_zGdiqW1jKccyF7WsgpF/pub) (Towa, Botan, Mio, Fubuki, Fantasy)
+[Shiori's fucking monologue](https://rentry.co/agkab) (Shiori, NSFW, Monologue, Comedy)
+[Holomoms](https://docs.google.com/document/d/e/2PACX-1vRwbjPSqY3I64grZl_y3_V_KnNoinOqObqUZs8Yf4kODT_paFY98wCZOZFlIuQgNLphHgi9I7vOF5o4/pub) (Luna, Subaru, Bijou, Choco, Mio, Kaela, SFW, Fluff, Greentext)
+[Sanding your deck with Subaru/Showering with Subaru](https://rentry.org/62x6xg) (Subaru, SFW/NSFW)
+[Heaven, Hell and the USDA](https://rentry.org/sivtwn) (Coco, Towa, Kanata, NSFW, Yuri, BDSM)
+[Kissing the Homies Goodnight](https://archiveofourown.org/works/48582526/chapters/122545975) (Park Dona, NSFW, Drunk Sex, Femdom, Paizuri)
+[Holoturismo Ch.3 - Starting Line](https://docs.google.com/document/d/e/2PACX-1vTPFkL2PWyNtQAvMqpCdsyKYnc8iBcNwtIH_mPO1zGA3600EU2DDAQ4Imdn228VEv_I3tJhHpJ9cmnL/pub) (Kiryu Coco, SFW, Action, Drama, Car autismo)
+[Holoslavia: Operation Nimrod Landing Page](https://rentry.org/Holoslavia) (Landing Page)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -822,6 +829,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Holo Valley Prelude](https://docs.google.com/document/d/e/2PACX-1vTnOIL07MT1xbr68Dqu338VhLezO4f0SFpqrST3bnOKs1zA50rZBs0uURfqTNRFvvDdC14Pg-2yPuET/pub) (Yagoo, SFW, eventual NSFW)
 [Holoturismo: Green Flag](https://docs.google.com/document/d/e/2PACX-1vQMk5IVPgIAS8up2w5uxAg367OQssB__eOYrW1INBz3c5mEyeMW0ekPpPTaIaId6LFxcEzB-SlmOUFN/pub) (Sora, SFW, Action, Drama, Car autismo)
 [Holoturismo Ch 2 - Turnkey](https://docs.google.com/document/u/2/d/e/2PACX-1vT0UANfsrEAW7yhGNdQzKsZ8G1_RuX3enuIX5-5B4bvFacmHX11u6AGdr79iCNiuxdIfKCJWvk_yS5K/pub) (Sora, SFW, /o/) ^
+[Holoturismo Ch. 3 - Starting Line](https://docs.google.com/document/d/e/2PACX-1vTPFkL2PWyNtQAvMqpCdsyKYnc8iBcNwtIH_mPO1zGA3600EU2DDAQ4Imdn228VEv_I3tJhHpJ9cmnL/pub) (Kiryu Coco, SFW, Action, Drama, Car autismo) ^
 [Cover High: Lotus Festival](https://docs.google.com/document/d/e/2PACX-1vTp2qmUKcdyfwW0VPYCHl0nj_XTleqJBU2QPdHsqYW4Wj8sVDZTA6G64q9jglPFtL8FH1GwNr3gB1jb/pub) (Matsuri, Izuri, Marine, OC, SFW, Fluff, Drama, Eventual Friends to Lovers, Potential NSFW in future chapters, Fan Chapter) 
 [Cover High: Lotus Festival - Language of Love](https://docs.google.com/document/d/e/2PACX-1vS-QoWFNuG2ejORAJG5vLSN4-xjwZXbZ4xSd2Gh9Fx7DL3CBaUSwuayWDfWv9kmeGJo33NJgH5xG08H/pub) (Matsuri, Izuru, Fubuki, Fluff, Angst, Friends to Lovers, Comedy, Drama, Fan Project)
 [Cover High: Lotus Festival - Kataomoi](https://docs.google.com/document/d/e/2PACX-1vTjF2C8CfgIFSPHJJgluCOszIaYM4MTCxGm-pgTdVrxn2E9PA-k6oXBQLaiD1HynrP759QS1t1e9dP3/pub) (Matsuri/OC, Izuru, Fubuki, Fluff, Angst, Friends to Lovers, Drama, Comedy.) ^

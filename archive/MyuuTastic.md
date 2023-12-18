@@ -1,5 +1,6 @@
 #Heyaa~ Tap here for [GPT-Turbo](https://rentry.org/Myuu_Jippy)
-
+!!!danger ALL my jailbreaks are inject types! ST messes this up when importing but Position should be absolute, with the depth of 4!
+![Warning](https://files.catbox.moe/m2f8kc.jpg)
 # Myuu's modular archive for Flavor text.
 
 !!!note Or~You can Download my personal preset! The same as below, but designed with moan guides. Wwwww

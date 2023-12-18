@@ -24,9 +24,10 @@ In kobold set model to the model...
 Under the tokens tab set Rope Base to 1000000 (that is 1 Million for those that put 100k then complain)
 Context size depends on how much ram you have but 32k is what it was trained up to.
 
-Prompt processing is not optimized for moe yet so: >Turn BLAS batch size to "Dont Batch BLAS"
+Kobold recently had a update that increased prompt processing speed. Make sure to get the latest.
 
 **Disable repetition penalty, frequency penalty and don't use mirostat on whatever frontend your using such as SillyTavern. 1.00 rep pen == off.**
+
 
 ---
 
@@ -80,8 +81,10 @@ Some suggested settings for Mixtral for creative use, more Temperature = more "c
 ![](https://i.imgur.com/2Q3J9VQ.png)
 (The Ban EOS Token part depends on what you want as it will trail off without it checked (up to the response length) but might also end its response early with it.)
 
-It will work just like that but for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
+It will work just like that but if you have a GPU then for more performance read the guide on CuBLAS / GPU layers and such: >https://github.com/LostRuins/koboldcpp/wiki 
 
+Something like this. Depends on your GPU / CPU:
+![](https://i.imgur.com/VcP9077.png)
 
 ---
 

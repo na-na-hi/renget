@@ -36,3 +36,10 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, NSFW, under 5k)
 [Holoslavia: Operation Nimrod Ch. 1](https://docs.google.com/document/d/e/2PACX-1vTDXSmvz1NfRgQ1asHrUxUp3XmPww4ze5AYuwaM6qUDR8_RPPtqy0edkYzDf3ltPbYbwzGWLU5yacDG/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes)
 [Holoslavia: Operation Nimrod Ch. 2](https://docs.google.com/document/d/e/2PACX-1vTywI7eVAG2hdFDcAZ40237lOglgWk4S901B5fKV_DVbfDXxhnAtg2SLuTXw7WN67t4VOK3Fsq76YJe/pub) (Subaru, Suisei, Korone, Botan, NSFW, Comedy, Drama, Action, War Crimes) ^
+[Shiori's fucking monologue](https://rentry.co/agkab) (Shiori, NSFW, Monologue, Comedy)
+[Holomoms](https://docs.google.com/document/d/e/2PACX-1vRwbjPSqY3I64grZl_y3_V_KnNoinOqObqUZs8Yf4kODT_paFY98wCZOZFlIuQgNLphHgi9I7vOF5o4/pub) (Luna, Subaru, Bijou, Choco, Mio, Kaela, SFW, Fluff, Greentext)
+[Sanding your deck with Subaru/Showering with Subaru](https://rentry.org/62x6xg) (Subaru, SFW/NSFW)
+[Heaven, Hell and the USDA](https://rentry.org/sivtwn) (Coco, Towa, Kanata, NSFW, Yuri, BDSM)
+[Kissing the Homies Goodnight](https://archiveofourown.org/works/48582526/chapters/122545975) (Park Dona, NSFW, Drunk Sex, Femdom, Paizuri)
+[Holoturismo Ch.3 - Starting Line](https://docs.google.com/document/d/e/2PACX-1vTPFkL2PWyNtQAvMqpCdsyKYnc8iBcNwtIH_mPO1zGA3600EU2DDAQ4Imdn228VEv_I3tJhHpJ9cmnL/pub) (Kiryu Coco, SFW, Action, Drama, Car autismo)
+[Holoslavia: Operation Nimrod Landing Page](https://rentry.org/Holoslavia) (Landing Page)

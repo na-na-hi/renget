@@ -583,6 +583,10 @@
 [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
 [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)
 [Blackbean (Balsa Prequel)](https://docs.google.com/document/d/e/2PACX-1vT6-m204WnIpX8yvXmu96udw60iLx99xtdNY0JRj0wrueYndzmx9sGCYeyHdtRUbV9nBOPEEgRddwRi/pub) (Botan, Towa, Fubuki, fantasy)
+[Blackbean Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTrgdRLbfE4K-KNO4AJ-0ULyjMF3Vl0jmdWfpqIXs_6489IviIvwp2M1J1AHRcB8WeG_CUoPZVkJau_/pub) (Towa, Botan, Watame, Mio, Fubuki, Fantasy)
+[Blackbean Chapter 3](https://docs.google.com/document/d/e/2PACX-1vR3hp5NUBmlnqe49pHnfHg0Uvpn2v1yRq-xZpGQdsp38xOiFMTLes2FbAlPsXObjbZOyrMMX7_nBzCI/pub) (Botan, Fubuki, Towa, Shiori, Fantasy)
+[Blackbean Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSmIDLIncIDZn8Cp8bObaT9KHSljsQzxrLRbx3nHazaip5EigKCtt4fhZdLccmI7tmf6PqKVX9WS0yJ/pub) (Towa, Botan, Watame, Shiori, Mio, Fubuki, Fantasy)
+[Blackbean Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQ-ZnsyLs-jm-5qWWeOKxOYXprky0o2VewzwPxc397ROw3u3eqJAAryzaze_zGdiqW1jKccyF7WsgpF/pub) (Towa, Botan, Mio, Fubuki, Fantasy)
 
 ##### -> Apple of Her Eye <-
 >Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.

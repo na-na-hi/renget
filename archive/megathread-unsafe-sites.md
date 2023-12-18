@@ -30,7 +30,7 @@
 # 🧭 ➜ All Purpose
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 💩 1377x | 1377x-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 KickassTorrents | kickasstorrents-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 The Pirate Bay | thepiratebay-org | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
@@ -46,7 +46,7 @@ TorrentLite | torrentlite-org | **Unethical conduct**: (*Terrible regulation, an
 # ⭐ ➜ Anime
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 AniMixPlay | animixplay-city / animixplay-best / animixplay-fun / animixplay-solutions / animixplay-name / animixplay-tube / animixplay-watch / animixplay-movie  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 Zoro | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
@@ -59,7 +59,7 @@ Zoro | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-onli
 # 📚 ➜ Books
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 Z-Library Project | zlibrary-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
@@ -71,7 +71,7 @@ Z-Library Project | zlibrary-to | **Fake clone**: (*Crafted with cunning intent 
 # 🕹️ ➜ Emulators
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 CoolROM | coolrom-cc / coolrom-com-au / coolroms-games | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;
@@ -83,7 +83,7 @@ CoolROM | coolrom-cc / coolrom-com-au / coolroms-games | **Unethical conduct**: 
 # 🎮 ➜ Games
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 AIMHAVEN | aimhaven-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 ApunKaGames | apunkagames-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 Crohasit | crohasit-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
@@ -109,7 +109,7 @@ Worldofpcgames | worldof-pcgames-net | **Unethical conduct**: (*Terrible regulat
 # 🎦 ➜ Movies & TV
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 YTS | yts-mx | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
@@ -121,7 +121,7 @@ YTS | yts-mx | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspec
 # ⚙️ ➜ Software
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
-:---- | :---- | :----
+------ | ------ | ------
 CrackedFully | crackedfully-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 FTUApps | ftuapps-dev | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 Get Into PC | getintopc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
