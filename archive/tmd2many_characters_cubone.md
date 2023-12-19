@@ -123,8 +123,8 @@ Item Name | Description
 *Extra inventory slots separate from Cubone's normal inventory.*
 Item Name | Description
 ------ | :----: 
-1. Mago Berry |  A moderately sweet flavor. The curvier it is, the better its taste becomes. (1 Sweet)
-2. Iapapa Berry | A moderately sour flavor. (1 Sour)
+1. None |  None
+2. None | None
 
 ***
 
@@ -132,7 +132,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 RP Item | Kick-Me Sign | A slip of paper with a Hitmonlee rune, indicating the reader should kick at its' location, given to Cubone by Mohka. Cubone seems to think it's a heartfelt gift.
-RP Item | Leaf Backpack | A haphazard sack made with sturdy vines and leaves.
+None  | None | None
 
 ***
 

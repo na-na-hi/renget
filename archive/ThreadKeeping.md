@@ -151,6 +151,8 @@ Page 3
 >>91234693
 >Day 1 Part 2
 >>91245467
+>When Peasants Attack
+>>91262912
 ```
 These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
 >Zarathustra
@@ -179,8 +181,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Showdown - Friendship Endures (Yamata, 108 gang)
-https://rentry.org/8f9ei
+MHA lurks
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/

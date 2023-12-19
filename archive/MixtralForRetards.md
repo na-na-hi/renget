@@ -31,14 +31,45 @@ Kobold recently had a update that increased prompt processing speed. Make sure t
 ---
 
 **Use either its official formatting or Alpaca, have heard varying results.**
+
+A anon made some presets for Silly Tavern that seem to work well if you just want to download these and put the in the corresponding folders  (and then select them under the big A on top of ST):
+
+/SillyTavern/public/context/Mixtral-Roleplay.json
+>https://files.catbox.moe/l2vze6.json
+
+/SillyTavern/public/instruct/Mixtral-Roleplay.json
+>https://files.catbox.moe/yy0s1o.json
+
+/SillyTavern/public/TextGen Settings/Mixtral-Roleplay.json
+>https://files.catbox.moe/0esacl.json
+
 (On ST these are under the big A on top. Change the Context Template to Mixtral or Alpaca.)
+
+Otherwise:
+
+Mixtral Story String:
+>"<s> [INST] {{#if system}}{{system}}\n{{/if}}{{#if wiBefore}}{{wiBefore}}\n{{/if}}{{#if description}}{{description}}\n{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}\n{{/if}}{{#if scenario}}Scenario: {{scenario}}\n{{/if}}{{#if wiAfter}}{{wiAfter}}\n{{/if}}{{#if persona}}{{persona}}\n{{/if}}[/INST]"
+
+Remove the quotation marks while respecting the spaces.
+
+(Under Instruct Mode Sequences for ST):
 
 Mixtral:
 Input Sequence: 
->"[INST]" 
+>" [INST] " 
 Output Sequence: 
->"[/INST]"
-Without the quotation marks.
+>" [/INST] "
+
+First Output Sequence:
+>"\\n\n"
+
+Separator Sequence: 
+>"</s>"
+
+Stop Sequence: 
+>"</s>"
+
+Remove the quotation marks while respecting the spaces.
 
 Alpaca:
 Input Sequence: 
@@ -47,9 +78,7 @@ Output Sequence:
 >"### Response: "
 Without the quotation marks and make sure the spaces are respected.
 
-Also put "</s> " as the Separator in formatting without the quotation marks if using ST, make sure the space after the newline is respected.
-
-Note: If using Alpaca changing the Output Sequence to "### Response (4 paragraphs, natural, creative, engaging): " seems to improve quality of creative based responses.
+Note: If using Alpaca changing the Last Output Sequence to "### Response (4 paragraphs, natural, creative, engaging): " seems to improve quality of creative based responses.
 
 ---
 
@@ -91,7 +120,7 @@ If you have the VRAM to fit the entire model then I recommend using Exllamav2 fo
 **Mixtral common pratfalls:**
 Using 2bit (at least atm, maybe that will eventually change.) 
 
-Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtral retarded.
+Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtral dumb.
 
 Using rep penalty / frequency penalty, same as above. NOTE: Apparently Mixtral is just extremely sensitive to rep pen compared to other models. You can use them but at very small values otherwise things go haywire and have the opposite effect.
 
@@ -101,7 +130,7 @@ You might have to change the way you prompt a little bit because mixtral REALLY 
 
 **Silly Tavern being Silly Tavern**
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s> " as the Separator  without the quotation marks in formatting should work.
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s>" as the Separator without the quotation marks in formatting should work.
 
 Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 

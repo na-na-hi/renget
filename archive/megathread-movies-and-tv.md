@@ -217,6 +217,10 @@
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
 
+### ▶️ [ShowboxMovies](https://www.showboxmovies.net/)
+- Experience the ultimate online movie-watching journey like never before. Unmatched in to other platforms.
+- [URL Safety Results](https://www.urlvoid.com/scan/showboxmovies.net/)
+
 ### ▶️ [Smashystream](https://embed.smashystream.com/)
 - Watch any movies or TV series you want, whenever you want, thanks to the power of the internet!
 - [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)

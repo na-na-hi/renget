@@ -80,7 +80,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Dense Rocks x2 | Does 2 true damage to a target, is lobbed.
-2. Ban Seed | Causes Disabled upon consumption
+2. Confuse Wand | Casts a spell to Confuse the target.
 3. Empty | A vacant inventory space
 4. Apple | Gives +2 to any outside-combat-action.
 
@@ -90,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Custap Berry | A sweet, creamy flavor. Has a hard exterior. (3 Sweet, 1 Bitter)
+2. Empty | A vacant storage slot
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.

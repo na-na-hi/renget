@@ -84,8 +84,8 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Oran Berry | Heals the user for 10HP.
-3.  Spicy Seed | Causes Burn on consumption. (500P when sold)
-4. 
+3.  Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
+4.  Stick (x2)
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -7,7 +7,7 @@
 **Model: Mixtral-3.75bit**
 **Hardware: RTX 3090**
 
-Blocking API URL: ```https://races-expenses-territory-condos.trycloudflare.com```
+Server URL: ~~```https://races-expenses-territory-condos.trycloudflare.com```~~ (Died, will restart later when I'm home.)
 ***
 **Story string:**
 ```

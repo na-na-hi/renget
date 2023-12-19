@@ -14,7 +14,7 @@
 
 -> ![](https://64.media.tumblr.com/8eb3db8dc14e2833fadd65b2d914f75c/716df9ac9403f9e9-86/s250x400/a8f4a40fc564e8da8b47b6c0273961dad8189303.gifv) <-
 
--> [![](https://64.media.tumblr.com/d563e0636285b3919ed8b477d9bbdcac/9a5e59d4a20102aa-6d/s75x75_c1/a514a5c93521064070370e2d5e814740c469827f.gifv)](https://rentry.co/beyondthemachine) . [![](https://64.media.tumblr.com/a8274ae0d5362a0eb19a89aecf3046b9/f651789587d2564c-a4/s75x75_c1/ac3b58a9d07320b5d3e1363afa2084c204c274cd.gifv)](https://rentry.co/diggingitout) . [![](https://mikejima.crd.co/assets/images/shadow/b7b41ed3.gif?v=05e9d6fa)](https://rentry.co/antigravity) . [![](https://mikejima.crd.co/assets/images/shadow/a2f34444.gif?v=05e9d6fa0)](https://rentry.co/shadowwithyou) <-
+-> [![](https://64.media.tumblr.com/d563e0636285b3919ed8b477d9bbdcac/9a5e59d4a20102aa-6d/s75x75_c1/a514a5c93521064070370e2d5e814740c469827f.gifv)](https://rentry.co/beyondthemachine) . [![](https://64.media.tumblr.com/a8274ae0d5362a0eb19a89aecf3046b9/f651789587d2564c-a4/s75x75_c1/ac3b58a9d07320b5d3e1363afa2084c204c274cd.gifv)](https://rentry.co/diggingitout) . [![](https://media.discordapp.net/attachments/1171875531004837998/1186490633641267241/4e4683c1.gif?ex=65937082&is=6580fb82&hm=bd790918d7f76319e0b9ff5379df04a8714aa2678f9c6f2a38ea10fa82758219&=&width=25&height=25)](https://rentry.co/antigravity) . [![](https://media.discordapp.net/attachments/1171875531004837998/1186481260365893632/a2f34444.gif?ex=659367c8&is=6580f2c8&hm=48f65d3ff49e174aab80434ec2cebe7554f76a4a2c7b9790e0ac9c0f8259b72a&=&width=25&height=25)](https://rentry.co/shadowwithyou) <-
 
 
 

@@ -12,7 +12,7 @@ I swear a lot, as well as use slurs `I CAN RECLAIM.` ~~*only the f slur and t sl
 DID sys host splitroject :P, my sources are on the [first page](https://rentry.co/downplay).
 I am critical of *all* of my interests, and you should be too.
 
--> ![](https://64.media.tumblr.com/09012edbc0b3438ab0771d25aa68d7dc/37221ecbab8edd94-cf/s75x75_c1/0e1d8cc971a93b95c17d71b374d140243f9307fc.gifv) <-
+-> ![](https://media.discordapp.net/attachments/1171875531004837998/1186490634064896052/5d21d0b3.gif?ex=65937083&is=6580fb83&hm=529913fc7f3a5d997a98e2f2caa6f4558c55b971ab8f1ba78217183abb542c06&=&width=62&height=62) <-
 
 -> Basic [d](https://dni-criteria.carrd.co/)ni criteria. ->
 -> You start shit and are surprised when I engage. ->

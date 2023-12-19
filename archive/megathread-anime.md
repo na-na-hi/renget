@@ -49,10 +49,6 @@
 - Search from thousands of encoded anime titles that are offered in 720p and 1080p.
 - [URL Safety Results](https://www.urlvoid.com/scan/animeout.xyz/)
 
-### 🔗 [Animesenpai4u](https://www.animesenpai4u.com/)
-- Destination that offers anime series and movies in either English Dubbed or Subbed.
-- [URL Safety Results](https://www.urlvoid.com/scan/animesenpai4u.com/)
-
 ### 🔗 [ChauThanh](https://chauthanh.info/)
 - Download anime, drama, and soundtracks for free. Get high-quality files and links for more than 5000 series. 
 - [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
@@ -73,9 +69,9 @@
 - Offering direct download anime with dual English audio tracks. Torrents also available.
 - [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
 
-### 🔗 [Ripcrabbyanime](https://ripcrabbyanime.in/)
+### 🔗 [Ripcrabbyanime](https://ripcrabbyanime.com/)
 - Popular titles freely available, from classic favorites to the newest releases, which serves as a community for anime aficionados.
-- [URL Safety Results](https://www.urlvoid.com/scan/ripcrabbyanime.in/)
+- [URL Safety Results](https://www.urlvoid.com/scan/ripcrabbyanime.com/)
 
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - Easy-to-navigate site and a large collection of anime series, including downloads from some of the most popular subbers.
@@ -217,10 +213,6 @@
 ### 🧲 [AniDex](https://anidex.info/)
 - Tracker and indexer that caters to multiple languages and media, but is mostly used and known by English anime fansub groups.
 - [URL Safety Results](https://www.urlvoid.com/scan/anidex.info/)
-
-### 🧲 [AnimeK](https://animek.fun/)
-- Website that offers magnet links and torrents, including the ability to watch it on other well-known destinations.
-- [URL Safety Results](https://www.urlvoid.com/scan/animek.fun/)
 
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Easy, clutter-free torrent tracker where you may find the newest Japanese anime-related torrents as well as some drama, manga, and music.

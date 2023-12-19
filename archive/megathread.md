@@ -94,3 +94,12 @@
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.moe/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+⚓ ❮ Return to [**r/Piracy**](https://www.reddit.com/r/Piracy/), [**r/Torrents**](https://www.reddit.com/r/torrents/), or [**Lemmy**](https://lemmy.dbzer0.com/c/piracy)
+---

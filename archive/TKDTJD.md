@@ -849,3 +849,74 @@ https://nitter.1d4.us/QudsNen/status/1736436280043401593#m  12/17/23
 
 >The Israeli army admits to the elimination of an officer in the Gaza Strip: Staff Sgt. Boris Dunavetski, 21, of the 401st Armored Brigade's 46th Battalion. Another soldier of the 46th Battalion was seriously wounded in the same incident.
 https://nitter.net/AryJeay/status/1736442939382137066#m  12/17/23
+
+>The M/V Swan Atlantic chemical tanker was hit by an unidentified object during an attack on the ship in the #RedSea, but none of the crew members were injured, the vessel’s Norwegian owner, Inventor Chemical Tankers, tells Reuters
+https://nitter.net/ME_Observer_/status/1736707447165768020#m  12/18/23
+
+>The United Kingdom Maritime Trade Operations reports 4 incidents near #Yemen during the past few hours
+https://nitter.net/ME_Observer_/status/1736704602693616123#m  12/18/23
+
+>Hamas published the following: You arrived late… Mission had already been accomplished.
+https://nitter.net/AryJeay/status/1736699599010619416#m  12/18/23
+
+>Al-Quds Brigades, this morning: We have seized an israeli quadcopter drone "EVO Max 4T" type belonging to an Infantry unit, east of Khan Yunis.
+https://nitter.net/AryJeay/status/1736708554101334191#m  12/18/23
+
+>Targeted a truck carrying a large number of IOF soldiers in Beit Lahia with a "TBG" explosive. Afterwards, they engaged in combat with them using machine guns, confirming inflicting casualties, including both dead and injuries.
+https://nitter.net/AryJeay/status/1736737297251328303#m  12/18/23
+
+>Statement by the Yemeni Armed Forces’ spox, Yahya Sarae:
+
+- We have targeted 2 ships affiliated with the Zionists.
+
+- First ship, "SWAN ATLANTIC," was loaded with oil, while the 2nd ship, "MSC Clara," carried containers. Both were targeted by naval drones after their crews ignored the calls of the Yemeni naval forces.
+
+- The Yemeni armed forces reassure all ships heading to ports worldwide, excluding Israeli ports, that they will not be harmed. All vessels are advised to keep their identification systems open.
+
+- The Yemeni armed forces reiterate their commitment to targeting any ship that violates their previous statements. They emphasize their ongoing prevention of all ships, regardless of nationality, from heading to Israeli ports in the Arabian and Red Seas. This will persist until the necessary supplies for our steadfast brothers in Gaza, including food and medicine, are allowed entry.
+https://nitter.net/AryJeay/status/1736739300153201048#m  12/18/23
+
+>Al-Manar correspondent regarding Hezbollah targeting of 2 Iron dome batteries:
+
+- Hezbollah will not tolerate any attempt by the enemy to extend its aggression outside the military operations area. That is why Hezbollah sent a strong message by adding a new name and target to its list. 
+
+- This target is situated approximately 7km away from the Lebanese-Palestinian border, involving Iron Dome platforms near the Kabri settlement. 
+
+- Hezbollah emphasizes in its message, "There will be no tolerance for any attempt to evade or persist in aggression on Lebanese territory beyond the designated military operations zone at the borders."
+https://nitter.net/AryJeay/status/1736766645341753516#m  12/18/23
+
+>BREAKING: Health officials in Gaza: 151 Palestinians have been killed, and 313 others injured due to the massacres committed by the Israeli forces in the past hours; Jabaliya witnessed the highest number of casualties.
+https://nitter.1d4.us/QudsNen/status/1736757817820737688#m  12/18/23
+
+>The israeli army admits to the elimination of 3 officers in the Gaza Strip:
+
+- Cpt. Yarin Gahali, 22, a platoon commander in the Givati Brigade's reconnaissance unit.
+
+- Cpt. (res.) Netanel Silberg, 33, a team commander in the Combat Engineering Corps' Yahalom unit.
+
+- Sgt. First Class (res.) Lidor Yosef Karavani, 23, of the Combat Engineering Corps' 8163rd Battalion.
+https://nitter.net/AryJeay/status/1736790299593080928#m  12/18/23
+
+>The moment Hizbullah hit “Kiryat Shmona” in response to the IOF’s targeting of a home in south Lebanon during a funeral procession
+https://nitter.net/IbnRiad/status/1736815183836889100#m  12/18/23
+
+>Hezbollah confirms: The launch of a rocket salvo towards Al-Khalsa (AKA occupied Kiryat Shmona), in response to the IOF targeting of the funeral procession in Aita al-Shaab.
+https://nitter.net/AryJeay/status/1736813978519556099#m  12/18/23
+
+>Media coverage: "Al Qassam Brigades releases footage of three Israeli detainees, who say that they were founders of Israel’s military and calling for freeing them as soon as possible." Breaking
+https://nitter.1d4.us/QudsNen/status/1736806972903895160#m  12/18/23
+
+>Defective Israeli artillery shells targeted Al-Nassir Hospital, resulting in numerous injuries among the thousands of displaced people seeking refuge in its courtyard.
+https://nitter.1d4.us/QudsNen/status/1736822354498449435#m  12/18/23
+
+>Another massacre against Palestinian civilians in Khan Yunis on the hands of zionist terrorists 
+https://twitter.com/WarMonitors/status/1736820568542920857  12/18/23
+
+>UNRWA: #Israel displaced 1.9 million #Gazans from their homes, the largest forced displacement of #Palestinians since 1948.
+https://nitter.net/ME_Observer_/status/1736825697786528015#m  12/18/23
+
+>Media coverage: "Al Qassam Brigades releases footage of three Israeli detainees, who say that they were founders of Israel’s military and calling for freeing them as soon as possible." Breaking
+https://nitter.1d4.us/QudsNen/status/1736806972903895160#m  12/18/23
+
+>BREAKING: The British BP petroleum (shipping) company, following the footsteps of shipping giants Maersk, Swiss-based MSC & French group CMA CGM, announced the cessation of sailing in the Red Sea, due to Yemen’s warnings.Evergreen also confirmed that it had temporarily suspended import/export to israel.More than half of the shipping lines in the Red Sea have been halted, thanks to israel’s genocide.
+https://nitter.net/AryJeay/status/1736758460606276083#m  12/18/23

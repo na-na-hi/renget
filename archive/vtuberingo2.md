@@ -32,7 +32,6 @@ Athena Bambina  - https://youtu.be/5gxwOaLbMcY?t=11220, https://youtu.be/PZfEKi2
 pinkbuta - https://youtu.be/6x5i4PhCZf4 (timestamps in comments)
 Nekomata Mel - https://www.youtube.com/watch?v=erZHk8EBGL0
 Ookami Mio - https://www.youtube.com/watch?v=ALe94EEqKys & https://files.catbox.moe/56frl9.mp4
-Shiranui Flare - https://www.youtube.com/watch?v=9v61XbYySVs&t=21s
 Ouro Kronii -https://streamable.com/7i00rf
 Stella Luna - https://www.tiktok.com/@stellalunavt/video/7107761600722914603?lang=en
 Epel Evelyn - https://twitter.com/EpelEvelyn/status/1541008545990070273?s=20&t=CDAs-lPF9WPskGL9cJklNQ
@@ -45,7 +44,7 @@ Mumuguru - https://mega.nz/file/HyoBmIwC#Wjg8m9Iyhx8X-KdNdTM7eMcZmFc5AyRy5zy0Qct
 LumiiMari - https://www.youtube.com/watch?v=rI31YzGLtZE; https://www.youtube.com/watch?v=PzIwUUFaptQ; https://www.youtube.com/watch?v=qXW4y8EZATc; https://www.youtube.com/watch?v=VeLFLfWYRVg; https://www.youtube.com/watch?v=UYL239Z4v5M; https://www.youtube.com/watch?v=PEr9MSw2v60; https://www.youtube.com/watch?v=hKfx22XvMTE; https://www.youtube.com/watch?v=8DAWeVc13pc; https://www.youtube.com/watch?v=FOEhgxanf2E; https://youtu.be/Tk8amw-FoP4
 Gemuyo - https://twitter.com/Vtuberfartclips/status/1590589748535775232?s=20&t=988uef8HzuvSauvnVRRblA
 Juna Unagi - https://files.catbox.moe/12mftx.mp4
-Rune Hanekawa - https://www.twitch.tv/runehanekawa/clip/ManlyAbstemiousDolphinFloof-DGJ2AcKLE-b489Zs; https://www.twitch.tv/runehanekawa/clip/KawaiiStormyMeerkatPhilosoraptor-3tju62_I41V0_Mop?filter=clips&range=7d&sort=time; https://thisvid.com/videos/girl-vtuber-farting-burp; https://www.twitch.tv/runehanekawa/clip/RespectfulPrettiestArtichokePrimeMe-XMNnw92DaC8BTjJK?filter=clips&range=7d&sort=time; https://www.youtube.com/watch?v=d39CW4Fuaow
+Rune Hanekawa - https://thisvid.com/videos/girl-vtuber-farting-burp/ ; https://thisvid.com/videos/vtuber-fart-compilation3/ ; https://twitter.com/Vtuberfartclips/status/1689184759858278401?s=20
 Pomu Rainpuff (dubious) - https://streamable.com/bkrx2f
 Yuko Yurei - https://www.youtube.com/watch?v=n9Ank-Adx9w&t=8622s; https://files.catbox.moe/i1tfr8.mp4
 Rena Anggraeni - https://youtube.com/shorts/IDKAlPKDoyQ?feature=share
@@ -80,11 +79,13 @@ Scarle Yonaguni - https://www.youtube.com/watch?v=v4FFc8P9K8s, https://www.youtu
 Nyanners - https://youtu.be/GC4idq6vJyY
 Takanashi Kiara - https://streamable.com/qr7wwc
 Selen Tatsuki - https://www.youtube.com/live/33PPNW-6fm0?si=VnwLD4vKzIEHheLR&t=3723
+Yuzuki Choco - https://files.catbox.moe/uvrubt.webm
 
 **Vomit**
 Akai Haato - https://youtu.be/UDNpNdcruVM
 Ookami Mio - https://www.youtube.com/watch?v=HIcsNWE1Msg; https://www.youtube.com/watch?v=X037YiByj_Q
 Momosuzu Nene - https://www.youtube.com/watch?v=Bz4Y3kSo-2w; https://www.youtube.com/watch?v=Utb1hs_mPYc
+Enno Yami - https://www.youtube.com/watch?v=aog9xt21mSg; https://www.youtube.com/watch?v=lWus2FPAdtk; https://www.youtube.com/watch?v=Y0ifKxW01sk; https://www.youtube.com/watch?v=WIvgFEMV0Xw; https://www.youtube.com/watch?v=lOC2pepAFtQ
 
 **Stomach Sounds**
 Shirogane Noel - https://www.youtube.com/watch?v=UzgkXcWYyT8, https://www.youtube.com/watch?v=k0_yWY9DRDU
@@ -95,3 +96,4 @@ Yukihana Lamy - https://www.youtube.com/watch?v=Z1X_jj9fpMo
 Ceres Fauna - https://youtu.be/QDKW1OzsxJc; https://www.youtube.com/watch?v=WFgAwc5w-kY
 Ouro Kronii - https://www.youtube.com/watch?v=uY_SqechQJI
 Tsunomaki Watame - https://twitter.com/tsunomakiwatame/status/1653477860987011072?s=46&t=OQ2gmYdSJ-ypvoiIS-yS9g
+Shiori Novella - https://www.youtube.com/watch?v=S9mHmGz5s9U

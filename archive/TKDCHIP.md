@@ -712,6 +712,9 @@ Houthis Videos
 https://files.catbox.moe/q3k2qd.mp4 part 1  12/12/23
 https://files.catbox.moe/53z7b1.mp4 part 2   12/12/23
 
+>New Houthis Media Videos 
+Houthis spokesman saying they are not afraid al jazeera interview.
+files.catbox.moe/m1xspu.mp4 New  12/18/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 News Clips and Videos 
@@ -766,9 +769,5 @@ https://files.catbox.moe/17rocn.MOV  12/16/23
 >Kike media admitting it’s impossible to contain 
 https://files.catbox.moe/ha95vq.MOV  12/16/23
 
->Houthis spokesman saying they are not afraid al jazeera interview.
-files.catbox.moe/m1xspu.mp4  12/18/23
-
 >Another massacre against Palestinian civilians in Khan Yunis on the hands of zionist terrorists 
-https://twitter.com/WarMonitors/status/1736820568542920857  12/18/23
 https://files.catbox.moe/peawg5.mp4  12/18/23
