@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #44 (Tuesday, 12 December 2023, 22:30 UTC)<-
+->Last updated on thread #45 (Tuesday, 19 December 2023, 10:15 UTC)<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -15,6 +15,7 @@
 - [Team Fortress 2 Level](https://steamcommunity.com/sharedfiles/filedetails/?id=3088346402) (Team Fortress 2 /cfa/ level.)
 
 - [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
+- [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
 - [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
@@ -322,6 +323,66 @@ https://foxtailtale.itch.io/the-forgotten-island (RPG)
 
 ---
 !!! info
+    ##/Chic-Fil-A/ Food Recipes
+---
+#####60368998 Anonymous: Americanized Chinese Chicken
+`Americanized Chinese Chicken`
+Chinese cuisine has uncountable ways to prepare chicken, and many regional variations. If she is making Americanized Chinese food, odds are that it's probably going to be boneless skinless chicken thighs sliced up, coated with cornstarch, and browned rapidly in sesame oil with minced ginger and chopped garlic and onions, then put in some broccoli, fresh peas in the pod, and carrot slices go in, maybe with some shredded cabbage, and get stir-fried rapidly and warmed through without overcooking them. Once they're warmed through and the broccoli is just starting to soften and blanch a tiny bit, they get coated with that Chinese takeout brown chicken sauce that is a mixture of oyster sauce, shiaoxing wine, and chicken stock, with just a pinch of brown sugar, simmered a bit and thickened with cornstarch. Coat with the sauce, heat through, put it on a platter and serve it up with rice or maybe noodles. This is more Cantonese than anything else, and it's the kind of thing they serve at a gorillion Chinese restaurants in the US and Canada. It's a nice, nourishing, savory dish as-is, and the adventurous can add hot peppers.
+
+#####59080339 Anonymous: Chicken with Adobo Seasoning
+`Chicken with Adobo Seasoning`
+Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.
+
+######59081144 Anonymous
+\>>59080339
+We /ck/ nao. When you get a seasoning mix like that, shake the container. If the contents feel light and fluffy in spite of the container being full, then it is all or mostly herbs and spices. Salt is much denser and a mix that is high in salt will feel heavy by comparison. If you shake the container and it feels like it's full of ball bearings, then the contents are mostly salt. This is not a bad thing in and of itself, but know what you're working with, know what you're buying. When you cook for fox gf, she'll thank you.
+
+What would you cook for fox gf? Fried chicken, I suppose. Or hard boiled eggs.
+
+#####58729062 Anonymous: Chicken Parmigiana
+`Chicken Parmigiana`
+When I was much, much younger, I worked in a few different restaurants. The typical chicken parmagiana recipe was something like:
+
+flattened chicken breast
+coating (can be batter, egg-and-milk wash + bread crumbs, flour, even rolled in cornmeal)
+deep fry to render the chicken fully cooked and the coating crisp and golden brown
+put on a steel broiler platter
+coat top surface with tomato sauce of some kind (can be marinara sauce, arrabiata, even pizza sauce)
+cheese goes on top (usually shredded mozzarella, parmesan, or a mixture, but you can find places using anything from asiago to provolone)
+put under gas broiler to melt the cheese and begin to brown the melted cheese just a little on the high spots
+
+Typically it's served with a salad and a portion of a pasta dish.
+
+Also works on sliced eggplant, zucchini, pounded veal cutlet, etc.
+
+I wonder whether focks would appreciate Italian food.
+
+#####58728832 Anonymous: Thin Parmesan Chicken
+`Thin Parmesan Chicken`
+Basically Parmesan chicken, but instead you cut thigh meat into thin slices.
+Mix the mayo, Italian style bread crumbs, and Parmesan cheese like normal, but then put your thin slices onto a cookie tray with generous butter and top with a thin layer of the parmesan crusting.
+Bake @350 degrees farenheit until the top is brown.
+Eat them like potato chips.
+
+#####56812358 Anonymous: White Chicken Chili
+`White Chicken Chili`
+Okay. This is off the top of my head and is maybe less a recipe than a set of heuristics that point in a chili-ish direction. Try:
+one pound of boneless chicken thighs. Cut them up. The dark meat is more flavorful than the white meat, that's why.
+A couple tablespoons of bacon grease, if you have some. If not, butter or any cooking oil will do.
+One medium sized onion, minced finely. I like to use a "mandolin" style slicer, then chop up the thin slices.
+Four to six jalapeno peppers, cut into thin round slices. The "mandolin" type slicer is good for this too.
+Two peeled cloves of garlic and a garlic press. You will press the garlic into the chili but don't squeeze it yet.
+Half a cup of flour.
+Half a cup of fine cornmeal, the kind they call "harina de maiz" or "masa harina" in Mexican grocery stores. If you can't get it, regular cornmeal.
+One 14 tg 15 ounce can of cooked white canneloni beans, navy beans, or similar, because chicken chili is white.
+Salt and pepper to taste. And a teaspoon of chili powder, or to taste.
+Once the chicken, onions, and peppers are cut up, start heating the oil or grease in the bottom of a big Dutch oven or casserole pan. This is gonna be a one-pot dish. While the oil is heating coat all the pieces of chicken thoroughly with the flour and when the oil is hot, put the coated chicken pieces, one or two at a time, into the oil. We want to brown them all a bit on the outside, caramelize that flour a bit. As they're all getting brown, add the onions and peppers, and brown them too. You will want to move them around with a wooden spoon for this. When the onions are caramelized, add the canned beans and the seasonings. Stir thoroughly, get all the chicken pieces coated with it. Bring it to a boil, but be careful to stir it frequently. Don't let it scorch. Whisk the cornmeal in a bit at a time and then put the cover on the pan, put it in the oven, and simmer it four hours at 275. Serve with cornbread and green beans.
+
+Oh. Use the garlic press to mash the garlic and press it into the chili when you add the salt, pepper, and chili powder. It generally comes out looking something like this when it's done, but with jalapeno slices. Depending on your tolerance for capsaicin, minced green bell pepper is a permissible substitution. And all the seasonings can be adjusted up or down for your preferences. I might go up to a tablespoon of chili powder in something like this, but I know there are people who would react badly to more than a pinch.
+[![Finished product: white chicken chili.jpg / 1685142814254.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685142814254.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685142814254.jpg)
+
+---
+!!! info
     ##/Chic-Fil-A/ Food Reviews
 ---
 ###Arby's
@@ -583,6 +644,12 @@ Overall, I recommend giving it a try.
 [![Wendy's Maple Bacon Chicken Croissant Sandwich: 2764_medium_US_en.png / 1693091842115.png](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)](https://desu-usergeneratedcontent.xyz/trash/image/1693/09/1693091842115.png)
 
 ###[Non-specific]
+####61931108 Anonymous: Chicken drumstick
+`BIRD REVIEW`:
+THEY DON'T LIVE IN A SOCIETY, I REFUSE TO LIVE IN A SOCIETY, LIKE THE BIRDS I FLY ABOVE YOUR SYSTEMS, UNLIKE THE BIRDS I AM ONE.
+10 SCORE
+[![Bird review: thigh.jpg / 1702917505639.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1702/91/1702917505639.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1702/91/1702917505639.jpg)
+
 ####60365200 Anonymous: Chicken Manicotti
 `chicken manicotti review:`
 i fucked up and it wants out
@@ -652,65 +719,6 @@ Weirdly, I haven't had chicken in several days. I should thaw some more out this
 Most dsperate alcoholics run to what appears in Super Bowl adverts: Bud Weiser, Corona, and other bottles of piss. But this bottle of piss is not like those other bottles of piss, and in a couple of swigs this beer will have you stomping on turtles and screaming "VIVA IL RE, VIVA IL DUCE" to save the princess, of course. However, this is a fox thread, so when buying alcohol I made sure the alcohol content was low enough to the point where a baby could drink it and not sustain heavy brain damage. The alc/vol is %5.0 so you won't get drunk from it but a fox perhaps might get slightly tipsy, which is a good thing. Unfortunately, this beer is not so cheap, but you are getting a stronger lager with a crisp taste. It might have "nastro" in the title, but this beer is not nasty at all. In fact, on a water to piss scale from one to ten, it scores a solid 5, where Corona would get a 10 and Bud Light an 11, way past the piss point, where 10 is literal piss. I feel life I could drink 8 of these while operating heavy machinery and not kill anyone because despite it's higher alcohol content than more popular beers, it doesn't taste like it wants you dead. I feel like perhaps one of you creepy ass cunts could pour a few of these into a trough and then get a fox drunk enough to reenact that scene from lady n da tramp with you. Make some capellini and slap some classico onto that shit, maybe chop up a few tomatos and put em in that shit to increase the juiciness, bring you back to those gravies the women used to make. Just imagine the shenanigans you could get into, you sick fuck, and realize your actions have consequences when you get rabies or whatever. Honestly, my head hurts like a bitch and I probably need some fucking water. I've been putting off too much shit in my life at this point and honestly resorting to writing shitty food revers in threads filled with borderline bestiality isn't gonna help. God, I need help bros. The beer is good though.
 [![Peroni Nastro Azzurro: Детская бутылочка.jpg / 1693652072492.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1693/65/1693652072492.jpg)
 
----
-!!! info
-    ##/Chic-Fil-A/ Food Recipes
----
-#####60368998 Anonymous: Americanized Chinese Chicken
-`Americanized Chinese Chicken`
-Chinese cuisine has uncountable ways to prepare chicken, and many regional variations. If she is making Americanized Chinese food, odds are that it's probably going to be boneless skinless chicken thighs sliced up, coated with cornstarch, and browned rapidly in sesame oil with minced ginger and chopped garlic and onions, then put in some broccoli, fresh peas in the pod, and carrot slices go in, maybe with some shredded cabbage, and get stir-fried rapidly and warmed through without overcooking them. Once they're warmed through and the broccoli is just starting to soften and blanch a tiny bit, they get coated with that Chinese takeout brown chicken sauce that is a mixture of oyster sauce, shiaoxing wine, and chicken stock, with just a pinch of brown sugar, simmered a bit and thickened with cornstarch. Coat with the sauce, heat through, put it on a platter and serve it up with rice or maybe noodles. This is more Cantonese than anything else, and it's the kind of thing they serve at a gorillion Chinese restaurants in the US and Canada. It's a nice, nourishing, savory dish as-is, and the adventurous can add hot peppers.
-
-#####59080339 Anonymous: Chicken with Adobo Seasoning
-`Chicken with Adobo Seasoning`
-Yesterday evening I sprinkled some chimken with off-brand adobo seasoning I got at a Big Lots and baked it. Foil lined covered pan. Start with cold oven, put food in, turn to 400, hour and twenty minutes. I think it came out okay. Some would say I overcook chicken a bit, but it didn't dry it out, and I want to be sure it's fully cooked. The proteins in poultry--seafood too--are more readily broken down by common bacteria than the proteins in beef, and bacteria can grow and spread very rapidly on them. So I try to be very cautious and always either use or freeze chicken immediately after buying it, and always cook it very, very thoroughly. It came out saltier than I expected. This spice mix must have more salt in it than I thought it did. But it was okay, and most of the fat drained out of it as it cooked. Lining the pan with foil greatly simplifies cleanup, and I am a lazy, lazy man.
-
-######59081144 Anonymous
-\>>59080339
-We /ck/ nao. When you get a seasoning mix like that, shake the container. If the contents feel light and fluffy in spite of the container being full, then it is all or mostly herbs and spices. Salt is much denser and a mix that is high in salt will feel heavy by comparison. If you shake the container and it feels like it's full of ball bearings, then the contents are mostly salt. This is not a bad thing in and of itself, but know what you're working with, know what you're buying. When you cook for fox gf, she'll thank you.
-
-What would you cook for fox gf? Fried chicken, I suppose. Or hard boiled eggs.
-
-#####58729062 Anonymous: Chicken Parmigiana
-`Chicken Parmigiana`
-When I was much, much younger, I worked in a few different restaurants. The typical chicken parmagiana recipe was something like:
-
-flattened chicken breast
-coating (can be batter, egg-and-milk wash + bread crumbs, flour, even rolled in cornmeal)
-deep fry to render the chicken fully cooked and the coating crisp and golden brown
-put on a steel broiler platter
-coat top surface with tomato sauce of some kind (can be marinara sauce, arrabiata, even pizza sauce)
-cheese goes on top (usually shredded mozzarella, parmesan, or a mixture, but you can find places using anything from asiago to provolone)
-put under gas broiler to melt the cheese and begin to brown the melted cheese just a little on the high spots
-
-Typically it's served with a salad and a portion of a pasta dish.
-
-Also works on sliced eggplant, zucchini, pounded veal cutlet, etc.
-
-I wonder whether focks would appreciate Italian food.
-
-#####58728832 Anonymous: Thin Parmesan Chicken
-`Thin Parmesan Chicken`
-Basically Parmesan chicken, but instead you cut thigh meat into thin slices.
-Mix the mayo, Italian style bread crumbs, and Parmesan cheese like normal, but then put your thin slices onto a cookie tray with generous butter and top with a thin layer of the parmesan crusting.
-Bake @350 degrees farenheit until the top is brown.
-Eat them like potato chips.
-
-#####56812358 Anonymous: White Chicken Chili
-`White Chicken Chili`
-Okay. This is off the top of my head and is maybe less a recipe than a set of heuristics that point in a chili-ish direction. Try:
-one pound of boneless chicken thighs. Cut them up. The dark meat is more flavorful than the white meat, that's why.
-A couple tablespoons of bacon grease, if you have some. If not, butter or any cooking oil will do.
-One medium sized onion, minced finely. I like to use a "mandolin" style slicer, then chop up the thin slices.
-Four to six jalapeno peppers, cut into thin round slices. The "mandolin" type slicer is good for this too.
-Two peeled cloves of garlic and a garlic press. You will press the garlic into the chili but don't squeeze it yet.
-Half a cup of flour.
-Half a cup of fine cornmeal, the kind they call "harina de maiz" or "masa harina" in Mexican grocery stores. If you can't get it, regular cornmeal.
-One 14 tg 15 ounce can of cooked white canneloni beans, navy beans, or similar, because chicken chili is white.
-Salt and pepper to taste. And a teaspoon of chili powder, or to taste.
-Once the chicken, onions, and peppers are cut up, start heating the oil or grease in the bottom of a big Dutch oven or casserole pan. This is gonna be a one-pot dish. While the oil is heating coat all the pieces of chicken thoroughly with the flour and when the oil is hot, put the coated chicken pieces, one or two at a time, into the oil. We want to brown them all a bit on the outside, caramelize that flour a bit. As they're all getting brown, add the onions and peppers, and brown them too. You will want to move them around with a wooden spoon for this. When the onions are caramelized, add the canned beans and the seasonings. Stir thoroughly, get all the chicken pieces coated with it. Bring it to a boil, but be careful to stir it frequently. Don't let it scorch. Whisk the cornmeal in a bit at a time and then put the cover on the pan, put it in the oven, and simmer it four hours at 275. Serve with cornbread and green beans.
-
-Oh. Use the garlic press to mash the garlic and press it into the chili when you add the salt, pepper, and chili powder. It generally comes out looking something like this when it's done, but with jalapeno slices. Depending on your tolerance for capsaicin, minced green bell pepper is a permissible substitution. And all the seasonings can be adjusted up or down for your preferences. I might go up to a tablespoon of chili powder in something like this, but I know there are people who would react badly to more than a pinch.
-[![Finished product: white chicken chili.jpg / 1685142814254.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685142814254.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1685/14/1685142814254.jpg)
 ---
 !!! info
     ##/Chic-Fil-A/ Bible Study

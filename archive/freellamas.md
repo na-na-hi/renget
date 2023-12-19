@@ -10,7 +10,7 @@
 Server URL: ~~```https://races-expenses-territory-condos.trycloudflare.com```~~ (Died, will restart later when I'm home.)
 ***
 **Story string:**
-```
+```bash
 <s> [INST] {{#if system}}{{system}}
 {{/if}}{{#if wiBefore}}{{wiBefore}}
 {{/if}}{{#if description}}{{description}}
@@ -18,12 +18,12 @@ Server URL: ~~```https://races-expenses-territory-condos.trycloudflare.com```~~ 
 {{/if}}{{#if scenario}}Scenario: {{scenario}}
 {{/if}}{{#if wiAfter}}{{wiAfter}}
 {{/if}}{{#if persona}}{{persona}}
-{{/if}}[/INST]
+{{/if}}[/INST] 
 ```
 
 **Chat start:**
-```
-</s> [INST] The chat begins. [/INST]
+```bash
+</s> [INST] The chat begins. [/INST] 
 ```
 
 **Example Separator: Empty**
@@ -44,7 +44,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 - Assume {{user}} may lie, forget things or say nonsense. Call them out when this happens.
 ```
 
-**Sequences for this model:**
+**Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
 Output Sequence: "  [/INST] "
 Separator: "</s>"
@@ -52,7 +52,7 @@ Separator: "</s>"
 ***
 **Recommended parameters for this model:**
 ```go
-Context: [10k]
+Context: [10k] - if ST does not allow exactly 10k, adjust to less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.6 - 0.8] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
 Rep. pen: [1.00 - 1.07] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
