@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-12-17)==<-
+->==(Updated 2023-12-19)==<-
 ***
 [TOC2]
 ***
@@ -20,6 +20,9 @@ https://rentry.org/colabfreellamas
 
 https://rentry.org/koboldcpp_colab_guide
 - guide on how to set up a local model for yourself or for others with KoboldCpp - `free` on colab
+
+https://docs.sillytavern.app/usage/local-llm-guide/how-to-use-a-self-hosted-model
+- from SillyTavern docs, guide on how to set up a local model for yourself to be used in SillyTavern - `free` on your own machine
 
 ***
 #####More guides

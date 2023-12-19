@@ -9,7 +9,7 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit:
+Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. NOTE: K-QUANTS ARE STILL HAVING ISSUES. DON'T USE THEM. Use something like Q5_0.
 
 ![](https://i.imgur.com/AA1xKHV.png)
 
@@ -130,7 +130,7 @@ You might have to change the way you prompt a little bit because mixtral REALLY 
 
 **Silly Tavern being Silly Tavern**
 
-Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s>" as the Separator without the quotation marks in formatting should work.
+Apparently SillyTavern has multiple formatting issues but the main one is that card's sample messages need to use the correct formatting otherwise you might get repetition errors. The Smilely Face "you" section seems to have the same issue. NOTE: According to some just putting "</s>" as the Separator without the quotation marks in formatting should work. NOTENOTE: Still see example messages giving people issues. People have had luck using Alpaca formatting and putting Example: as the example separator so that or just moving them onto the card description might be the way to go.
 
 Also if RPing with a character card make sure "Always add character's name to prompt" is checked under formatting, though this might confuse it if using a open ended story format instead of a exchange between characters, the same for any model.
 

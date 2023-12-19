@@ -16,7 +16,7 @@
 
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/t771ed.zip) | [![Experimental](https://files.catbox.moe/8ge8ej.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://litter.catbox.moe/dwp16g.zip) | [![Experimental](https://files.catbox.moe/8ge8ej.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ***
 ####->Comprehensive guide on importing presets into ST<-
@@ -37,9 +37,8 @@ Config | Code
 ->ENSURE the Jailbreak prompt is attributed to "System", not "User" or "AI".<-
 ![Note](https://files.catbox.moe/337c5p.png)
 
-->[Example Log - With the new DildoWielder update](https://files.catbox.moe/m5iizo.png)<-
 ->**Cards this could work on:** Characters with abnormal speech patterns, or are comedy centric, such as:<-
-->> [Naomi - By anonaugusproductions](https://chub.ai/characters/anonaugusproductions/naomi-watanabe-d0f51051)<-
+->> [Naomi](https://chub.ai/characters/anonaugusproductions/naomi-watanabe-d0f51051)<-
 
 ->**Param specifications**<-
 ```

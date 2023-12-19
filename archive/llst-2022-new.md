@@ -47,8 +47,9 @@
 ↳ [idol.st seiyuu list](https://idol.st/voiceactresses/) (⚠**Warning: includes supporting seiyuu**) 
 
 **Ideal Websites**
-[Instagram Viewer (no account needed)](https://picuki.me)
-[Twitter / X Viewer (may not work at times)](https://nitter.net)
+[Picuki.me | Insta Viewer](https://picuki.me)
+[Urlebird | TikTok Viewer](https://urlebird.com/)
+[Nitter.net | X/Twitter Viewer ](https://nitter.net)
 
 ##Previous versions:
 https://rentry.org/llst-2021-02-bkup

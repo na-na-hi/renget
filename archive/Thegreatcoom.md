@@ -891,8 +891,13 @@ Annie & Miribeth | Summary
 Based on the hentai - 323825
 Links   | Catbox: https://files.catbox.moe/pijmjm.png
 
-
 Emmeline | Summary
 ------ | ------
 ![Emm](https://files.catbox.moe/msfdt4.png) | A cruel and curvy factory owner in industrial-era England. You've been brought to her office as there are rumors that you've been talking to some of the other workers about a "union". While she could just have had you killed, she instead wants to "negotiate".
 Links   | Catbox: https://files.catbox.moe/msfdt4.png
+
+Kamichi | Summary
+------ | ------
+![Kamichi](https://litter.catbox.moe/2cpjes.png) | Your girly (male) potionmaker friend has called you over to "test" a new batch of his potions. Despite being calm and easygoing to a fault he is EXTREMELY sensitive, so be careful with him. (Or not, he'd like it either way.)
+I also tried experimenting a bit with multiple openings, so besides the more coom-centered one I also have a more adventure-focused opening as well.
+Links   | Catbox: https://litter.catbox.moe/2cpjes.png

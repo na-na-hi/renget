@@ -4,10 +4,10 @@
 
 #### Currently serving:
 
-**Model: Mixtral-3.75bit**
+**Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ~~```https://races-expenses-territory-condos.trycloudflare.com```~~ (Died, will restart later when I'm home.)
+Server URL: ```https://races-expenses-territory-condos.trycloudflare.com```
 ***
 **Story string:**
 ```bash
@@ -23,7 +23,7 @@ Server URL: ~~```https://races-expenses-territory-condos.trycloudflare.com```~~ 
 
 **Chat start:**
 ```bash
-</s> [INST] The chat begins. [/INST] 
+</s> [INST] The chat begins.  
 ```
 
 **Example Separator: Empty**
@@ -46,16 +46,17 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 
 **Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
-Output Sequence: "  [/INST] "
+Output Sequence: " [/INST] "
+Last Output Sequence: " (Stay in character) [/INST] "
 Separator: "</s>"
 
 ***
 **Recommended parameters for this model:**
 ```go
-Context: [10k] - if ST does not allow exactly 10k, adjust to less not more
+Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.6 - 0.8] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.00 - 1.07] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
+Rep. pen: [1.02 - 1.07] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: [8888] - how many previous tokens to scan for repetition
 Min_p: [0.02] - minimum percentage of a token to be selected compared to the best token
 Top_k: [40] - top number of best tokens to select from

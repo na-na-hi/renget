@@ -472,6 +472,8 @@
 12/2023|[CBQ: Cross-Block Quantization for Large Language Models](https://arxiv.org/abs/2312.07950)
 12/2023|[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention](https://arxiv.org/abs/2312.07987)
 12/2023|[Weight subcloning: direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
+12/2023|[Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462)
+12/2023|[PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU∗](https://files.catbox.moe/ks8exf.pdf)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
