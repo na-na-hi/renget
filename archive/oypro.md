@@ -33,7 +33,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Scratch | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect
-Sucker Punch | 7BP | 5 (-1) AP | ≥2 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
+Sucker Punch | 7BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Hone Claws | 0BP | 4AP | - | Dark | Status | The users Attack and Accuracy are increased by 1
 ==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.

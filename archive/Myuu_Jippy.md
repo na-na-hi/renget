@@ -1,6 +1,7 @@
 #Heyaa~ Tap here for [Claude!](https://www.rentry.org/MyuuTastic)
-#For [Gemini](https://rentry.org/Myuu-Gemini)
-
+#Gemini currently sbeve
+!!!danger ALL my jailbreaks are inject types! ST messes this up when importing but Position should be absolute, with the depth of 4! This is to give the ai 2-5 dialogues before continuing the roleplay. That way, it won't reply to previous messages or lag behind!
+![Warning](https://files.catbox.moe/m2f8kc.jpg)
 #Myuu's GPT Prompts.
 ->==Only GPT turbo for now! Will make for others.==<-
 !!!note Below will be the GPT-4 Turbo prompts. Or~ You can have the preset! It's the exact thing below but kinda better? I dunno

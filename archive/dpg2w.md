@@ -10,6 +10,7 @@
 ***
 Date | Update Notes | New Cards
 :---- | :----: | ----:
+20/10/23 | aaaaaa | Past few months have been hell. On the plus side, new GPU - fiddling with some local models and trying to pick up where I left off with my fourth set of cards. Planning to re-visit my earlier stuff and re-write 'em. Fingers crossed, get the last few things on Vol.4 finished before New Years, start reworking Vol.1 after.
 ~~15/10/23~~ 20/10/23 | 0/12 Published | Small update; I ain't dead, nor quit. Few more WIPs up on Vol.4 / Really need to get around to final touches on Vol.3, and publishing them to Chub eventually. / Also need to fix the sizes of Vol.2 cards, some of 'em got cropped on Chub /)w(\
 07/09/23 | 0/12 Published | A few WIPs on the Volume Four, WIP rentry linked above; check 'em out if you don't mind: 1)Unfinished + Mostly untested char definitions, 2) Unfinished art.
 19/08/23 | 12/12 Published | Petronia, Norirna. / Extra Bonus Card: Kirishima. / I have officially given up trying to get a decent looking and derivative SD-gen for Norirna's art. Quite a bit of Vol.4 is already written, *just need to continue suffering through SD hell.*

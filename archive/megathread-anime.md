@@ -29,6 +29,18 @@
 - Remarkable not-for-profit anime database, offers you a wealth of information on the latest releases and much more.
 - [URL Safety Results](https://www.urlvoid.com/scan/anidb.net/)
 
+### 📒 [AniList](https://anilist.co/)
+- Cutting-edge anime platform of the future! Keep tabs on, spread the word, and explore your beloved anime and manga creations.
+- [URL Safety Results](https://www.urlvoid.com/scan/anilist.co/)
+
+### 📒 [KITSU](https://kitsu.io/)
+- Anime database that diligently ensures you stay well-informed about what to watch and when.
+- [URL Safety Results](https://www.urlvoid.com/scan/kitsu.io/)
+
+### 📒 [MyAnimeList](https://myanimelist.net/)
+- Bustling hub for anime and manga enthusiasts worldwide. Immerse yourself in the lively online community.
+- [URL Safety Results](https://www.urlvoid.com/scan/myanimelist.net/)
+
 &nbsp;
 
 ---

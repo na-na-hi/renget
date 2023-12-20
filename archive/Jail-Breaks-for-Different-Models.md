@@ -3,7 +3,7 @@
 ->If you have a Jail Break you want added to this rentry or something just tell me or email me @psycozaku208@gmail.com and I'll add it here.<-
 
 
-->==(updated 2023-12-10)==<-
+->==(updated 2023-12-19)==<-
 ***
 [TOC2] 
 ***
@@ -17,6 +17,8 @@ https://rentry.org/LurkzyDurkzyBurkzy
 https://rentry.co/crustcrunch
 
 https://rentry.org/ArfyJB
+
+https://rentry.org/SmileyTatsu#smiley-jailbreak
 
 
 ***

@@ -67,7 +67,7 @@ Auto1111 | ComfyUI
 - "anthro, fluff, fur" sometimes in negatives
 - Optionally put [this LoRA](https://civitai.com/models/104477/de-anime-er) into the prompt and set it to around -.6
 - Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
-- [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC)
+- [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC) | [rentry](https://rentry.org/easyfluffcomparison/)
 
 ## Optional and Additional
 

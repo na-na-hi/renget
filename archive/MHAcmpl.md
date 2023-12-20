@@ -994,6 +994,8 @@ First Battle - The Heat of Combat (Orochi, 108 Stars Gang): https://rentry.org/r
 Showdown - The Burning Will (Yamata,108 Gang): https://rentry.org/7o8mq
 There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver): https://rentry.org/wwyh7
 Showdown - Friendship Endures (Yamata, 108 gang): https://rentry.org/8f9ei
+tournament fallout (The Clique): https://rentry.org/cb5b29
+The death of her innocence (Yamata, 108 Gang): https://rentry.org/gfwgx
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
