@@ -377,6 +377,11 @@ The Royal Bunny Harem | Info
 ![](https://files.catbox.moe/bxsgbw.png)   | (You) are the ruler of the kingdom of K'hayta, with all the stress and bullshit that entails. But it's not all politics and trade negotiations, because you also have your loyal harem of six bunny boys! All of which have their own goals and interests. Quite literally needs the lorebook to function properly, so please get the V2 version. Comes with a general greeting and one for each of the boys.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/the-royal-bunny-harem-81f00fb2),  [Catbox](https://files.catbox.moe/cs8ott.png), [Thyme](https://files.catbox.moe/uiyu9i.jpg), [Mint](https://files.catbox.moe/ezjajz.jpg), [Ginger](https://files.catbox.moe/3qs6f5.jpg), [Saffron](https://files.catbox.moe/shlnb4.jpg), and [Cayenne](https://files.catbox.moe/wfof3f.jpg)
 
+Brand | Info
+:----:  | :----: 
+![](https://litter.catbox.moe/fa2j3r.png)   | My entry for /aicg/'s Christmas theme week. Brand never had a chance in life, or so he thinks. With a drunken father that beat him for every failed match sale and a town that turned up their noses at him. So after nearly freezing to death selling matches on Christmas Eve, he finally decides to indulge in a bit of vengeance. Partially (and loosely) inspired by [Flames of The Yellow Phosphorus](https://www.youtube.com/watch?v=J0ceA2XZqDA) and, of course, The Little Match Girl. Comes with a greeting where you first find him after he's set his house ablaze and another where you're on the run together.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/brand-976442c9),  [Catbox](https://litter.catbox.moe/imnbq9.png)
+
 
 Shameful Codespawn | Info
 :----:  | :----: 

@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ```https://races-expenses-territory-condos.trycloudflare.com```
+Server URL: ```https://subjective-emperor-mortality-np.trycloudflare.com``` (might randomly die, ooba has been unstable)
 ***
 **Story string:**
 ```bash
@@ -68,10 +68,10 @@ https://rentry.org/llm-settings
 #### How to use:
 
 ##### 1. Proxy menu:
- ![proxy-menu](https://files.catbox.moe/3w4lns.png)
+ ![proxy-menu](https://files.catbox.moe/1x3pdz.png)
 
 ##### 2. Advanced menu:
- ![classic](https://files.catbox.moe/eq9kvd.png)
+ ![classic](https://files.catbox.moe/7mj83y.png)
 
 
 ***

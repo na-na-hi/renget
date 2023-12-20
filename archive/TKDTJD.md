@@ -920,3 +920,73 @@ https://nitter.1d4.us/QudsNen/status/1736806972903895160#m  12/18/23
 
 >BREAKING: The British BP petroleum (shipping) company, following the footsteps of shipping giants Maersk, Swiss-based MSC & French group CMA CGM, announced the cessation of sailing in the Red Sea, due to Yemen’s warnings.Evergreen also confirmed that it had temporarily suspended import/export to israel.More than half of the shipping lines in the Red Sea have been halted, thanks to israel’s genocide.
 https://nitter.net/AryJeay/status/1736758460606276083#m  12/18/23
+
+>Iranian analyst:
+The Ansarullah (Houthi) movement successfully used its anti-ship ballistic missile with a range of 300 km on a moving target at 25 knots and made history. 
+
+- We have anti-ship ballistic missiles with a range of 1,500 km that have not yet been unveiled.
+
+- The missile streaks in outer space with a speed of Mach 8 and can hit moving targets with pinpoint accuracy
+
+- Hostile aircraft carriers and warships no longer have security at a distance of 1,500 kilometers
+https://nitter.net/IranObserver0/status/1736848653145321548#m  12/18/23
+
+>Hostile aircraft carriers and warships no longer have security at a distance of 1,500 kilometers
+https://nitter.net/IranObserver0/status/1736848653145321548#m  12/18/23
+
+>Reuters: An official in the Ansar Allah Houthi group: Our position on the #Palestinian issue will not change regardless of the formation of a naval alliance.
+https://nitter.net/ME_Observer_/status/1737040240882135105#m  12/19/23
+
+>Al-Qassam (Hamas) Our fighters engaged in clashes with a special Zionist force consisting of 12 soldiers using automatic weapons. Next, we targeted the rescue force with anti-personnel explosives resulting in casualties among them, in Sheikh Radwan.
+https://nitter.net/AryJeay/status/1737082937596694846#m  12/19/23
+
+>Civil defense members search for missing people under the rubble of the Zaroub family home which was bombed by Israeli occupation warplanes in Rafah, southern Gaza.
+https://nitter.1d4.us/QudsNen/status/1737081334483317161#m  12/19/23
+
+>Spokesman for the Ministry of Health in Gaza, Dr. Ashraf Al-Qudra: “Only 413 wounded people left Gaza to get medical treatment abroad, which represents less than 1% of the infections, and 1.8 million people in shelter centers are at risk of famine and epidemics.”
+https://nitter.1d4.us/QudsNen/status/1737083113224744983#m  12/19/23
+
+>The ZIM shipping company owned by a Zionist businessman increased the price of container transportation from $100 to $450, following the difficulties it is facing.
+https://nitter.net/AryJeay/status/1737107940434424311#m  12/19/23
+
+>Breaking | Health officials in Gaza: "Al-Ahli Baptist Hospital is out of service due to the targeting and siege by the Israeli troops, along with the arrest of several medical personnel, patients, and displaced individuals."
+https://nitter.1d4.us/QudsNen/status/1737116513545720028#m  12/19/23
+
+>Initial investigation and testimonial reports from October 7th confirm that Israeli tanks were shooting indiscriminately at houses, resulting in the deaths of settlers.
+https://nitter.1d4.us/QudsNen/status/1737124092895973585#m  12/19/23
+
+>A report in the Emirati newspaper "Al Ain": 
+AnsarAllah Yemen will also use explosive-laden boats, in addition to missiles & drones, in their attacks against ships [inteded for israel] in the Red Sea and the Gulf of Aden.
+
+The article also states that Yemeni specialized experts are tweaking & finishing the uncompleted technical equipment necessary to use anti-ship ballistic missiles more effectively and reducing its inaccuracies.
+https://nitter.net/AryJeay/status/1737120876225540362#m  12/19/23
+
+>The israeli army admits to the elimination of another officer today in the Gaza Strip:
+
+- Sergeant first class (res.) Maoz Fenigstein, 25, from the 551st Brigade's 7008th Battalion.
+
+Official death toll since the ground invasion of Gaza (by the IOF), 132 soldiers/officers.
+https://nitter.net/AryJeay/status/1737143014269591976#m  12/19/23
+
+>Starvation in Gaza is on the rise. Children and families wait in long lines for food, amid escalating warnings that Palestinians in Gaza are on the brink of an imminent disaster if aid does not enter soon.
+https://nitter.1d4.us/QudsNen/status/1737136764601397557#m  12/19/23
+
+>Al-Quds Brigades (PIJ) published scenes of the artillery & rocket launches targeting IOF army’s supply line in the areas east of Khan Yunis. 
+
+In the footage, helicopters were spotted evacuating the casualties.
+https://nitter.net/AryJeay/status/1737166887140626614#m  12/19/23
+
+>Al-Qassam (Hamas) Succesfully detonated a building where 7 Zionist soldiers were fortified, east of Khan Younis, causing casualties between both dead and injured.
+https://nitter.net/AryJeay/status/1737159873006063995#m  12/19/23
+
+>Al-Qassam (Hamas) Targeted a special Zionist force in the Tal al-Zaatar area, north of the Gaza Strip, with a "TBG" explosive, confirming the killing of 8 Zionist soldiers.
+https://nitter.net/AryJeay/status/1737171793822015760#m  12/19/23
+
+>Foreign fighters are observed among the Israeli army in this footage, showing three Ukrainian soldiers fighting alongside the Israeli army in Gaza.
+https://nitter.1d4.us/QudsNen/status/1737172745954247005#m  12/19/23
+
+>According to Politico, 19 countries joined the US-led coalition in the Red Sea, but 9 of them refuse to have their names published, including Arab countries.
+https://nitter.net/AryJeay/status/1737199273614188790#m  12/19/23
+
+>Palestinian Islamic Jihad (PIJ) published a visual message by a Zionist prisoners to their Zionist leaders. “You want to receive our corpses.”
+https://nitter.net/AryJeay/status/1737212167756157098#m  12/19/23

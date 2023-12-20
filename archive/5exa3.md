@@ -37,6 +37,7 @@
 	- worst quality, low quality
 
 
+
 ** Putting the previous versions here out of convenience**
 Model | Artist Wildcards | Tags | Changes
 ----: | :----: | :----: | :----: 
@@ -68,6 +69,20 @@ Auto1111 | ComfyUI
 - Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
 - [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC)
 
+## Optional and Additional
+
+### Negative embeddings 
+
+Embeddings made for furry models specifically. 
+
+Embedding | Effect
+----: | :----
+[Boring e621](https://huggingface.co/FoodDesert/boring_e621/blob/main/fluffyrock/boring_e621_fluffyrock_v4.pt) | Easynegative 
+[bwu](https://civitai.com/models/187118?modelVersionId=210124) | blurry, watermark, unrealistic
+[dfc](https://civitai.com/models/187118?modelVersionId=210141) | dull, flat, color
+[ubbp](https://civitai.com/models/187118?modelVersionId=210123) | unbelievably bad body parts
+[updn](https://civitai.com/models/187118?modelVersionId=210143) | ultra-saturated, painting, drawing, 
+
 ### Fixing washed out artists
 ```
 human, not furry, by kantoku, by mignon, by wamudraws,
@@ -88,7 +103,7 @@ Auto fix:1 | ![](https://files.catbox.moe/zc46z5.png)
 [Script:1](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git) | ![](https://files.catbox.moe/w5cntc.png)
 Auto:.7/Script:.7 | ![](https://files.catbox.moe/p923ox.png)
 
-## 2D~3D~Real tagging
+### 2D~3D~Real tagging
 -> ![](https://files.catbox.moe/eizig7.png) <-
 
 ## LoRA

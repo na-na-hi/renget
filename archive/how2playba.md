@@ -486,11 +486,6 @@ You can dump excessive mats from useless schools (like Red Winter, Shanghai, Ari
 
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
->Maxing out affection/bond/relationship level with crafting 
-Use https://rentry.org/bondarchive [(image version)](https://i.imgur.com/zMOdCsg.png)
-
-It's a small guide on maximising your wife's affection level (the autistic minmax way), and it has some neat info as well. I'd recommend skimming through it at least once. 
-
 >Misc. info
 Feel free to use the speedup tickets, you'll have a billion of them lying around. 
 There has never been a 2x event on the crafting chamber, so there's no point in saving your keystones. 
@@ -592,10 +587,19 @@ Very important to keep in mind is that you can ignore the recommended level. Unt
 One-time per battle skills can happen once in every battle.
 E.g. You're doing 1-4 with Tsubaki, and in 1-4 there are 3 enemies you have to fight. For every fight in 1-4 she can proc her heal once for a total of three times. 
 
+>Maxing out affection/bond/relationship level with crafting 
+Use https://rentry.org/bondarchive [(image version)](https://i.imgur.com/zMOdCsg.png)
+
+It's a small guide on maximising your wife's affection level (the autistic minmax way), and it has some neat info as well. I'd recommend skimming through it at least once. 
+
 >Daily and weekly missions
 Doing stage 1 of commissions for the daily mission is pretty worth. 20 mastery certificates for the price of 5 AP? That's a steal. Doing the weekly commission is kind of decent (3 orange reports for 75 AP), although I don't do it personally. 
  
 The weekly missions reset on Sunday (the reset from Sunday to Monday). 
+
+You can save weekly missions for several days during the week, in case you want to claim it on Friday instead of Tuesday (e.g. saving the extra AP to use on 2x hard instead of 2x normals). It doesn't carry over to another week though, so use it before the weekly reset. 
+
+It's worth it to do the 20x missions + 3x hard nodes daily, even during 2x commissions. 
 
 >Birthdays/holidays 
 If you switch out from the L2D, on (birth/holi)days your assistant gives you a unique dialogue if you tap her. 

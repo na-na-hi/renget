@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 16-Dec-2023)_
+_(Updated 19-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -18,7 +18,6 @@ _(Updated 16-Dec-2023)_
 | cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  === |
 | kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Jan-2024 |
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
-| 00dest | https://chaster.app/sessions/upH38x5Zixzyek4S |  19-Dec-2023 |
 | Spaday | https://chaster.app/sessions/VVFRwZ5OrbL6cFk9 | === |
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
@@ -32,5 +31,6 @@ _(Updated 16-Dec-2023)_
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
 | sissmeup | https://chaster.app/sessions/hBUeU8RrUhInnIqZ | === |
 | Serafel | https://chaster.app/sessions/1nthKquRguNWtXHB | === |
+| Gallant | https://chaster.app/sessions/8s3pD8Zq9raUDgNc | 25-Dec-2023 |
 |  |  |  |
 |  |  |  |

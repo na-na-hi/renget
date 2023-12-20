@@ -481,6 +481,7 @@ MEGA is inaccessible. If anyone has a list of contents and/or backups, post in t
 - Styles:
 	- 80's Anime (Anitoon)
 	- Battle Franky/Brafya
+	- Bill Presing (Playing Cards)
 	- Ber00
 	- Double Deck
 	- Lollipopcon
@@ -1931,6 +1932,7 @@ https://files.catbox.moe/g76s3b.safetensors
 # Silvally (Pokémon)
 https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
 >  I included two iterations of it cause I got decent results on both of them, but I mainly use the 000018 version. Keyword is just 'silvally'.
+Remade: https://mega.nz/folder/ky0kXIIB#XBCO5QIXtdIrfdwRWfYpmg
 
 # KX' LoRAs
 Yzmuya (Artist)
@@ -2010,6 +2012,7 @@ https://mega.nz/folder/pUQGBYxb#zyMOHIKSMWCHWUsErR8T5Q
 
 >I've been reworking on some of my loras that have been put on the trashcollects rentry, training them on a vpred model since they're pretty much meta now, starting with Noivern. It's far from perfect since it's still inconsistent with coloring, but it's significantly better than what I was getting with the one on the rentry right now.
 V3: https://mega.nz/file/EzcA0AxZ#tscC8ohtZiCP3fImlq2oXfhq_nj3Yqo7Micl5w1gN3E
+Remade: https://mega.nz/folder/ky0kXIIB#XBCO5QIXtdIrfdwRWfYpmg
 
 # Fizz (League of Legends)
 V2: https://files.catbox.moe/c45f9c.zip
@@ -2870,6 +2873,11 @@ https://files.catbox.moe/5ylrek.pdf
 	furry, (((fur))), male, digital_art, (completely nude:1.3), penis, foreskin, testicles, scrotum, (detailed background, outside, city streets), in front of shop, walking, on footpath, crowd, exhibitionism, cumdrip, looking at viewer, by
 	Negative prompt: worst quality, low quality, multi limb, boring_e621_v4, sepia, simple background, monochrome, muscular, boring_e621_fluffyrock_v4
 	Steps: 30, Sampler: DPM++ 2M SDE Karras, CFG scale: 7.5, Seed: 1959977494, Size: 600x600, Model hash: d66e4da0d7, Model: EasyFluffV11.1, VAE hash: c6a580b13a, VAE: vae-ft-mse-840000-ema-pruned.ckpt, CFG Rescale: 0.4, Version: 1.6.1
+
+>I regenned my artist collection word document thing because I figured I could with dynamic prompts.
+>Also there's more artists now thanks to 4 artist combo anon providing them.
+>I think this will be the final version for a while, details of further improvements and changes outlined in the PDF.
+https://www.mediafire.com/file/g7y2i8u239k9zut/Working_artists_redemption_arc_edition.pdf/file
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

@@ -699,10 +699,10 @@ Al-Quds Brigades Videos
 >Al-Quds Kino Footage 
 files.catbox.moe/m56e47.mp4  12/15/23
 files.catbox.moe/m56e47.mp4 New  12/16/23
-
 >Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
 https://files.catbox.moe/60irf4.mp4  12/11/23
-
+>Al-Quds Brigades (PIJ) published scenes of the artillery & rocket launches targeting IOF army’s supply line in the areas east of Khan Yunis. 
+https://a.cockfile.com/YpMLLT.mp4  12/19/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -771,3 +771,12 @@ https://files.catbox.moe/ha95vq.MOV  12/16/23
 
 >Another massacre against Palestinian civilians in Khan Yunis on the hands of zionist terrorists 
 https://files.catbox.moe/peawg5.mp4  12/18/23
+
+>Al Qassam hit 10 IOF soldiers at once!
+https://files.catbox.moe/q1svze.mp4 New  12/19/23
+
+>Al-Qassam Brigades destroy a IDF Merkva tank with Al-Yassin 105
+https://files.catbox.moe/8a7rkn.mp4 New  12/19/23
+
+>Foreign fighters are observed among the Israeli army in this footage, showing three Ukrainian soldiers fighting alongside the Israeli army in Gaza.
+https://a.cockfile.com/vxceVr.mp4 New  12/19/23

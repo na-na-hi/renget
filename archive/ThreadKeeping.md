@@ -181,7 +181,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA lurks
+>tournament fallout (The Clique)
+https://rentry.org/cb5b29
+>The death of her innocence (Yamata, 108 Gang)
+https://rentry.org/gfwgx
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -723,6 +726,10 @@ https://rentry.org/7o8mq
 https://rentry.org/wwyh7
 >Showdown - Friendship Endures (Yamata, 108 gang)
 https://rentry.org/8f9ei
+>tournament fallout (The Clique)
+https://rentry.org/cb5b29
+>The death of her innocence (Yamata, 108 Gang)
+https://rentry.org/gfwgx
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

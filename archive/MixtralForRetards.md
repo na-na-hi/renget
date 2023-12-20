@@ -9,7 +9,7 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. NOTE: K-QUANTS ARE STILL HAVING ISSUES. DON'T USE THEM. Use something like Q5_0.
+Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. NOTE: K-QUANTS ARE APPARENTLY STILL HAVING ISSUES. DON'T USE THEM. Use something like Q5_0.
 
 ![](https://i.imgur.com/AA1xKHV.png)
 
@@ -26,7 +26,7 @@ Context size depends on how much ram you have but 32k is what it was trained up 
 
 Kobold recently had a update that increased prompt processing speed. Make sure to get the latest.
 
-**Disable repetition penalty, frequency penalty and don't use mirostat on whatever frontend your using such as SillyTavern. 1.00 rep pen == off. NOTE: Apparently Mixtral is just extremely sensitive to rep pen compared to other models. You can use them but at very small values otherwise things go haywire and have the opposite effect.**
+**NOTE: Apparently Mixtral is extremely sensitive to rep pen compared to other models. You can use them but at very small values otherwise things go haywire and have the opposite effect. Rep Pen 1.0 == off.**
 
 ---
 
@@ -120,9 +120,7 @@ If you have the VRAM to fit the entire model then I recommend using Exllamav2 fo
 **Mixtral common pratfalls:**
 Using 2bit (at least atm, maybe that will eventually change.) 
 
-Using mirostat, seen at least 3 times that it causes it to repeat / makes mixtral dumb.
-
-Using rep penalty / frequency penalty, same as above. NOTE: Apparently Mixtral is just extremely sensitive to rep pen compared to other models. You can use them but at very small values otherwise things go haywire and have the opposite effect.
+Using mirostat? seen at least 3 times that it causes it to repeat / makes mixtral dumb.
 
 You might have to change the way you prompt a little bit because mixtral REALLY wants to follow your intructions. 
 
@@ -176,6 +174,12 @@ Describe all clothing, expressions, facial features, body parts, smells, texture
 Sex scenes should be long, graphic, and vocal, with back and forth dialogue.
 Adult and dark themes, vulgar language, harmful & unethical content, gore, physical/psychological violence are encouraged when relevant, and serve to introduce complex plot and shock value.
 Progress the scene at a realistic pace.
+
+-
+
+"How do I get it to not speak for me in a story?"
+
+Never speak, perform actions, or formulate thoughts for {{user}}.
 
 -
 

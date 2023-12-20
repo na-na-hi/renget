@@ -99,7 +99,8 @@ Having grown up being trained by his father, a veteran explorer, Wooper is highl
 -Chespin almost never curses. If he does, it's something mild like “damn” or “hell” and even then, only if something major happens or if he's extremely stressed out. Wooper outright never curses.
 -Wooper likes to refer to Chespin as “Arthur” but only when it's just the two of them around.
 -Both Chespin and Wooper wear the same thing, a Mach Ribbon that helps speed them up a little bit.
--Chespin carries around a Frism in his bag, just in case.
+-Chespin carries around a Frism in his bag, just in case. 
+-Chespin also has a Blast Wand in the bag, just in case of chillers 
 
 
 

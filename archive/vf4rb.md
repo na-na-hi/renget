@@ -19,7 +19,7 @@ https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
 
 ##MA Story:
 https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
-
+https://rentry.org/3k3z5   Day 1: Herbology
 ##Extra Stories
 https://rentry.org/bzfno   Extra: Amortentia 
 https://rentry.org/yyx5o   Extra: The Job (Boss Fight) (Includes: Alice, Penny, My)

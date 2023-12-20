@@ -1,8 +1,10 @@
 #LURKz's Furbo and Claude 2/2.1 Presets 
-##->Updated - 19 Dec (Furbo)<-
+##->Updated - 20 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! note Updates 
 	-> 19 Dec - **LovellStreak** (Furbo). Rearranged the prompt ordering, with {{user}}'s persona and the Scenario placed just before the chat. {{char}}'s description and personality has been placed after the chat history. Added a system prompt directly below the chat history to give AI a brief overview of what it needs to analyse and then construct, with this being reinforced in ==FINAL_RESPONSE==. Prompts that can be edited to cater to your specifications are labelled with ==[Edit]==, and the prompt labelled ==\==SEXO\=\=== can be used to lewdify responses (push AI into more sexual scenes, or initiate and develop sexual scenes further).<-
+
+	-> 20 Dec - **LovellStreak** (Furbo). Reordered certain instructions in ==\==PREFERENCES\=\=== to give them higher weightage, and modified how AI should decide on Acts in the codeblock. Responses have been promising so far, and results, seen in [Logs](https://rentry.org/LURKzLogs), seem good!<-
 !!! warning 
 	-> 18 Dec - An experimental DL link has been added in the Downloads table.<-
 ***
@@ -16,7 +18,7 @@
 
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://litter.catbox.moe/dwp16g.zip) | [![Experimental](https://files.catbox.moe/8ge8ej.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/gq17y2.zip) | [![Experimental](https://files.catbox.moe/8ge8ej.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ***
 ####->Comprehensive guide on importing presets into ST<-
