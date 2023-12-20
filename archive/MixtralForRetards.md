@@ -30,7 +30,7 @@ Kobold recently had a update that increased prompt processing speed. Make sure t
 
 ---
 
-**Use either its official formatting or Alpaca, have heard varying results.**
+**Use either its official formatting or Alpaca, have heard varying results. I find that just the default Alpaca presets work perfectly fine.**
 
 A anon made some presets for Silly Tavern that seem to work well if you just want to download these and put the in the corresponding folders  (and then select them under the big A on top of ST):
 

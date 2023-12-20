@@ -39,6 +39,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Koi V4 Download](https://drive.google.com/file/d/1ZnOHVz-NJpkEIx_NQwDgW6mUAMCBUZN-/view)
 ## Kromer Konundrum (Original)
 [Kromer Konundrum Download](https://mega.nz/file/wsNzwCSC#65sSasnOc43l4POm3lI-t9ugh-1Hm7DfYdiW-skq6IA)
+## Mario's Madness
+[Leaked V2 Build](https://www.mediafire.com/file/s4zwofkwq7l7voi/MM+V2.zip/file)
 ## Mid-Fight Masses
 [Mid-Fight Masses](https://gamebanana.com/dl/561718)
 [Mid-Fight Masses Kade Engine Port](https://www.mediafire.com/file/tatlq4h2o9ps5l0/Sarvente%2527s_Mid-Fight_Masses_%2528KE%2529.rar/file)

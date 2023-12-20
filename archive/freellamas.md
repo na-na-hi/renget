@@ -9,6 +9,7 @@
 
 Server URL: ```https://subjective-emperor-mortality-np.trycloudflare.com``` (might randomly die, ooba has been unstable)
 ***
+-> *Mixtral is very sensitive to prompt format. Make sure to configure everything correctly.* <-
 **Story string:**
 ```bash
 <s> [INST] {{#if system}}{{system}}
@@ -23,7 +24,7 @@ Server URL: ```https://subjective-emperor-mortality-np.trycloudflare.com``` (mig
 
 **Chat start:**
 ```bash
-</s> [INST] The chat begins.  
+</s> [INST] The chat begins.
 ```
 
 **Example Separator: Empty**
@@ -58,8 +59,7 @@ New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.6 - 0.8] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
 Rep. pen: [1.02 - 1.07] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: [8888] - how many previous tokens to scan for repetition
-Min_p: [0.02] - minimum percentage of a token to be selected compared to the best token
-Top_k: [40] - top number of best tokens to select from
+Min_p: [0.02] - minimum chance of a token to be selected compared to the best token
 Do_sample: [On]
 ```
 https://rentry.org/llm-settings
@@ -91,7 +91,7 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 ##### How to host your own proxy
 Because I won't keep hosting forever. This is experimental and will stop any day.
 On your own machine/rented VM: https://rentry.org/hostfreellamas
-On Google Colab for free (13B or lower only): https://rentry.org/colabfreellamas
+On Google Colab for free - Import this into Google Colab: https://files.catbox.moe/j0uqtg.ipynb - Frostwind-10.7B - 16k ctx, alpaca prompt format.
 
 ##### Contact
 sandwich4093@proton.me

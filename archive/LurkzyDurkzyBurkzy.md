@@ -17,10 +17,10 @@
 [TOC3]
 ***
 ###->Presets<-
-
+	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/eboz1c.zip) | [![Experimental](https://files.catbox.moe/8ge8ej.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/mrdmvl.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/mrdmvl.zip)
 
 ***
 ####->Comprehensive guide on importing presets into ST<-
