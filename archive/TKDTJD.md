@@ -990,3 +990,10 @@ https://nitter.net/AryJeay/status/1737199273614188790#m  12/19/23
 
 >Palestinian Islamic Jihad (PIJ) published a visual message by a Zionist prisoners to their Zionist leaders. “You want to receive our corpses.”
 https://nitter.net/AryJeay/status/1737212167756157098#m  12/19/23
+
+>Definite proof foreign fighters are urkainian 
+https://files.catbox.moe/b3jso2.jpg New  12/20/23
+
+>Rumble Links for those concerned about Bitchute:
+Short 25 Minute "Bang Bang" Edit https://rumble.com/v41wa3q-tkd-the-movie-rammstine-x-palestein-shorter-bang-bang-edit.html
+Extended 1 Hour+ Edit https://rumble.com/v41w9vl-tkd-the-movie-rammstine-x-palestein.html

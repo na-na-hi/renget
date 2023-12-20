@@ -658,6 +658,8 @@ IDF convoy cooked by an Kornet ATGM
 files.catbox.moe/n0ncpm.mp4 New  12/18/23
 Squad size IDF toasted by yassin 105 
 files.catbox.moe/rohjn1.mp4 New  12/18/23
+Hamas clashes with IOF vehicles & soldiers on the axes of Khan Yunis.
+files.catbox.moe/2t13gl.mp4 New  12/20/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -665,6 +667,8 @@ You arrived late… Mission had already been accomplished.
 https://files.catbox.moe/dywtuw.mp4  12/18/23
 Al Qassam Brigades releases footage of three Israeli detainees 
 files.catbox.moe/2o0ebj.MP4  12/18/23
+We made with our hands what we harvest your heads with 
+https://files.catbox.moe/e7g2s8.mp4 New  12/20/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -695,14 +699,15 @@ https://files.catbox.moe/7uc2ni.mp4  12/18/23
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 >Al-Quds Kino Footage 
 files.catbox.moe/m56e47.mp4  12/15/23
 files.catbox.moe/m56e47.mp4 New  12/16/23
->Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
+Urgent Al-Quds Brigades Broadcasts Scenes Of Its Fighters Targeting Occupation Army Tanks East Of The Shuja’iya Neighborhood From Zero Distance
 https://files.catbox.moe/60irf4.mp4  12/11/23
->Al-Quds Brigades (PIJ) published scenes of the artillery & rocket launches targeting IOF army’s supply line in the areas east of Khan Yunis. 
-https://a.cockfile.com/YpMLLT.mp4  12/19/23
+Al-Quds Brigades (PIJ) published scenes of the artillery & rocket launches targeting IOF army’s supply line in the areas east of Khan Yunis. 
+https://files.catbox.moe/fpy9sb.mp4 New  12/19/23
+Scenes from the detonation of a barrel bomb on a Zionist foot force and a military bulldozer east of the Shujaiya neighborhood
+files.catbox.moe/4j3jvm.mp4 New  12/20/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -780,3 +785,13 @@ https://files.catbox.moe/8a7rkn.mp4 New  12/19/23
 
 >Foreign fighters are observed among the Israeli army in this footage, showing three Ukrainian soldiers fighting alongside the Israeli army in Gaza.
 https://a.cockfile.com/vxceVr.mp4 New  12/19/23
+
+>Idf Terrorist bombing Rafah hospital caught live on camera by the news
+https://files.catbox.moe/4j3jvm.mp4  12/20/23
+
+>Israeli minister calls for genocide in Gaza:
+"I don't care about Gaza... for all I care, they can go out and swim in the sea!" I want to see dead bodies of terrorists around Gaza."
+files.catbox.moe/qb9tgo.mp4 New  12/20/23
+
+>Definite proof foreign fighters are urkainian 
+https://files.catbox.moe/b3jso2.jpg New  12/20/23

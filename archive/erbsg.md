@@ -7,7 +7,7 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1612 (1.10 Patch Notes)
+https://playeternalreturn.com/posts/news/1633 (1.11 Patch Notes)
 https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
 https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
@@ -50,8 +50,9 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1567 (ER Lab Barbara Emotes, ~12/31)
-https://event.playeternalreturn.com/newcharacter/70th/Tsubame/?hl=en-US (Play as Tsubame Event, ~1/3)
+https://playeternalreturn.com/posts/news/1567 Barbara Emotes, ~12/31)
+https://event.playeternalreturn.com/newcharacter/70th/Tsubame/?hl=en-US (Tsubame Event, ~1/3)
+https://playeternalreturn.com/posts/news/1634 (Drops, ~1/3)
 
 \>Codes
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1

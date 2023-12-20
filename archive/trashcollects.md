@@ -2877,7 +2877,8 @@ https://files.catbox.moe/5ylrek.pdf
 >I regenned my artist collection word document thing because I figured I could with dynamic prompts.
 >Also there's more artists now thanks to 4 artist combo anon providing them.
 >I think this will be the final version for a while, details of further improvements and changes outlined in the PDF.
-https://www.mediafire.com/file/g7y2i8u239k9zut/Working_artists_redemption_arc_edition.pdf/file
+Males: https://www.mediafire.com/file/g7y2i8u239k9zut/Working_artists_redemption_arc_edition.pdf/file
+Females: https://www.mediafire.com/file/mbg5rk9c34h243y/Working_artists_cooties_edition.pdf/file
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
