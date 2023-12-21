@@ -13,16 +13,28 @@
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 ⠀
-
--> ![Kobbo?](https://files.catbox.moe/2im7ug.gif) <-
--> "When it's done" <-
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
 ⠀
 ######
 - - -
-####⠀-> A barrel full of kobolds <-
+######
+-> ![](https://files.catbox.moe/uyv9qy.png) <-
+#### -> Holiday Vacation. <-
+-> If you know any solution to change the GPT writing to be more engaging, on-point, and witty, please send it to me.  I am really tired. <-
+
+-> *- Happy Holidays!* <-
+######
+- - -
+######
+
+-> ![Kobbo Prompt. (struggling with GPT writing style)](https://files.catbox.moe/2im7ug.gif) <-
+-> "When it's done" <-
+
+######
+- - -
+####⠀-> Donations Keep Me Motivated <-
 
 -> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png)<-
 -> Number of Special Kobolds: **5** <-
@@ -2719,12 +2731,13 @@ Image | Name/Link | Description
 - - -
 # 
 
--> ![](https://files.catbox.moe/jlosra.jpg) <-
+-> ![](https://th.bing.com/th/id/OIG.eONpgvMK7LURr_YYo2np?pid=ImgGn) <-
+
 
 # 
 - - -
 -> *❝Adventurers that reached the bottom of these pages, I offer thee [a hug of grandest kind.](https://www.youtube.com/watch?v=BUh3Hj2-cCo)* <-
--> *Behold! The lizards fair, three precious scaly maidens, a wondrous sight to soothe the troubled mind.*❞ <-
+-> *Behold! The lizards fair, an Xmas scaly maiden, a wondrous sight to soothe the troubled mind.*❞ <-
 
 -> *From thy devoted kobold lover,* ->
 -> *Have chat with bots, enjoy role-play.* ->
@@ -2732,4 +2745,7 @@ Image | Name/Link | Description
 -> *- XMLK* ->
 # 
 - - -
+-> P.S. ->
 -> Add +45.000 to the views counter. It was reset after the rentry theft. ->
+-> All images, except for pixel-art avatars are AI-generated with my fixes or works of other artists. ->
+-> All my prompts are free to use, reuse, share, edit, and modify. Credits are welcome but not required. ->

@@ -692,6 +692,9 @@ https://nitter.1d4.us/ME_Observer_/status/1735416050198458534#m  12/14/23
 >The naval forces of the Yemeni Armed Forces, carried out a military operation against the container ship "Mercy Gibraltar," heading to the israeli entity. It was targeted with a suicide drone, resulting in a direct hit. This targeting operation came after the ship's crew refused to respond to the calls of the Yemeni naval forces. Over the past 48 hours, the Yemeni Armed Forces successfully prevented the passage of several ships destined for the Israeli entity.
 https://nitter.net/AryJeay/status/1735390328230711569#m  12/14/23
 
+>The Israeli occupation army fabricated this picture, claiming they have abducted resistance fighters from inside the Kamal Edwan Hospital in northern Gaza and forced "to raise their arms and surrender".
+After scrutiny, a trainee doctor, Nasr Imad Al-Madhoun, and a nurse working at the hospital were identified. https://nitter.net/QudsNen/status/1735366216510816314#m  12/14/23
+
 >EU staff sit-in outside the European Commission headquarters in Brussels demanding an immediate ceasefire in Gaza.
 https://nitter.net/QudsNen/status/1735315598165340283#m  12/14/23
 
@@ -915,6 +918,15 @@ https://twitter.com/WarMonitors/status/1736820568542920857  12/18/23
 >UNRWA: #Israel displaced 1.9 million #Gazans from their homes, the largest forced displacement of #Palestinians since 1948.
 https://nitter.net/ME_Observer_/status/1736825697786528015#m  12/18/23
 
+>Over 25,000 Palestinians killed in Gaza, hundreds missing: EuroMed
+https://nitter.net/TheCradleMedia/status/1736771533920509992#m  12/18/23
+
+>Israel kills 300 in West Bank since start of Gaza war
+https://nitter.net/TheCradleMedia/status/1736817776864493712#m  12/18/23
+
+>The Archbishop of Westminster says he believes the IDF were directly responsible for the deliberate killing of two innocent churchgoers in Gaza.He describes the incident as a "cold-blooded killing.
+https://nitter.net/CensoredMen/status/1736806745748680713#m  12/18/23
+
 >Media coverage: "Al Qassam Brigades releases footage of three Israeli detainees, who say that they were founders of Israel’s military and calling for freeing them as soon as possible." Breaking
 https://nitter.1d4.us/QudsNen/status/1736806972903895160#m  12/18/23
 
@@ -988,6 +1000,18 @@ https://nitter.1d4.us/QudsNen/status/1737172745954247005#m  12/19/23
 >According to Politico, 19 countries joined the US-led coalition in the Red Sea, but 9 of them refuse to have their names published, including Arab countries.
 https://nitter.net/AryJeay/status/1737199273614188790#m  12/19/23
 
+>The Israeli financial newspaper Globes reported that Israeli shipping companies have lost around 23% of their market value, representing a loss of billions of dollars.
+https://nitter.net/IranObserver0/status/1737189549829128294#m  12/19/23
+
+>Price of container transportation in and out of Israel increases fourfold due to Yemeni operations.
+https://nitter.net/TheCradleMedia/status/1737123964365774957#m  12/19/23
+
+>Eight major companies have alredy suspended their shipments to and from Israeli ports due to the growing risks. Maersk, Hapag-Lloyd, CMA CGM, MSC, OOCL, Euronav and BP have been joined by Taiwan-based Evergreen Line. 
+https://nitter.net/rybar_force/status/1737147535901204910#m  12/19/23
+
+>In 73 days, Israel deliberately targeted and killed 97 journalists in Gaza.
+https://nitter.net/sahouraxo/status/1737137498529149227#m  12/19/23
+
 >Palestinian Islamic Jihad (PIJ) published a visual message by a Zionist prisoners to their Zionist leaders. “You want to receive our corpses.”
 https://nitter.net/AryJeay/status/1737212167756157098#m  12/19/23
 
@@ -1052,5 +1076,8 @@ https://nitter.net/ME_Observer_/status/1737605222808121485#m  12/20/23
 
 >As American politicians dance to the drums of war against Gaza, MintPress News unveils the top recipients of Israel lobby money of all time.
 https://nitter.net/MintPressNews/status/1737564229098525129#m  12/20/23
+
+>Malaysia just banned Israeli shipping giant ZIM from entering its ports. The decision follows a mass campaign to block a ZIM ship. Malaysia also banned any ship enroute to Israel from docking in its ports or any ships flying an Israeli flag
+https://nitter.net/broseph_stalin/status/1737369105865290129#m  12/20/23
 
 >

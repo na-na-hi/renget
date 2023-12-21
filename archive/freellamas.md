@@ -91,7 +91,7 @@ Nope. I have no interest in your ahh ahh mistress loli smut. I store nothing, no
 ##### How to host your own proxy
 Because I won't keep hosting forever. This is experimental and will stop any day.
 On your own machine/rented VM: https://rentry.org/hostfreellamas
-On Google Colab for free - Import this into Google Colab: https://files.catbox.moe/j0uqtg.ipynb - Frostwind-10.7B - 16k ctx, alpaca prompt format.
+On Google Colab for free - Import this into Google Colab: https://files.catbox.moe/77vood.ipynb - Frostwind-10.7B - 11k ctx, alpaca prompt format - temp 0.75, min_p 0.04, rep_pen 1.03
 
 ##### Contact
 sandwich4093@proton.me

@@ -12,7 +12,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
 **SAT: Naked X6 or Naked X3 rando or Z4 boost or at 3UTC (Telemelt)**
-**SUN: Minemelt at 18:30UTC* (Minecraft)** maybe, check later
+**SUN: - at 19UTC* (Minecraft)** maybe some filler if someone is alive
 
 ##Cytubes
 

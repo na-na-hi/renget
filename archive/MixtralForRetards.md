@@ -5,8 +5,7 @@
 Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 **Grab latest Kobold:**
->https://github.com/LostRuins/koboldcpp/releases/
-
+>https://github.com/kalomaze/koboldcpp/releases/tag/faster-pp-mixtral-kcpp
 
 **Grab the model**
 Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. NOTE: K-QUANTS ARE APPARENTLY STILL HAVING ISSUES. DON'T USE THEM. Use something like Q5_0.
@@ -33,6 +32,16 @@ Kobold recently had a update that increased prompt processing speed. Make sure t
 **Use either its official formatting or Alpaca, have heard varying results. I find that just the default Alpaca presets work perfectly fine.**
 
 Several Anon's made presets for Silly Tavern that seem to work well if you just want to download these and put the in the corresponding folders  (and then select them under the big A on top of ST):
+
+**Mixtral-Simple:**
+>/SillyTavern/public/context/Mixtral-Simple.json
+https://files.catbox.moe/b6034u.json
+
+>/SillyTavern/public/instruct/Mixtral-Simple.json
+https://files.catbox.moe/jn7475.json
+
+>/SillyTavern/public/TextGen Settings/Mixtral-Simple.json
+https://files.catbox.moe/54myfu.json
 
 **Mixtral-Test:**
 

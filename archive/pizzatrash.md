@@ -1,6 +1,6 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/61716367
+Latest thread: https://boards.4chan.org/trash/thread/61906110
 Latest Aggie: https://aggie.io/s6gl3v2fzb
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
@@ -78,6 +78,7 @@ https://desuarchive.org/trash/thread/61077180 /pizzatrash/ 62
 https://desuarchive.org/trash/thread/61293962 /pizzatrash/ 63
 https://desuarchive.org/trash/thread/61498002 /pizzatrash/ 64
 https://desuarchive.org/trash/thread/61716367 /pizzatrash/ 65
+https://desuarchive.org/trash/thread/61906110 /pizzatrash/ 66
 
 
 #####Aggie

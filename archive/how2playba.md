@@ -547,6 +547,64 @@ The 1 dollar Serika is nice, but pretty unneeded.
 
 I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two.
 
+## Main story stuff (spoiler free) 
+(WIP)
+Every episode grants 60 gems.
+
+Ordered by release date:
+Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
+
+You can also read it by volume. 
+
+Volume 1 has 2 chapters
+-	Chapter 1 has 20 episodes
+-	Chapter 2 has 20 episodes
+
+Total: 2400 gems 
+
+Volume 2 has 2 chapters
+-	Chapter 1 has 20 episodes
+-	Chapter 2 has 25 episodes
+
+Total: 2700 gems
+
+Volume 3 has 2 chapters
+-	Chapter 1 has 17 episodes
+-	Chapter 2 has 20 episodes
+-	Chapter 3 has 25 episodes
+-	Chapter 4 has 27 episodes
+
+Total: 5340 gems
+
+Volume 4 has 2 chapters
+-	Chapter 1 has 20 episodes
+-	Chapter 2 has 24 episodes
+
+Total: 2640 gems
+
+Volume F has 4 chapters and 3 side-contents
+-    Chapter 1 has 15 episodes 
+-    Chapter 2 has 21 episodes 
+    - Side content 1 has 16 episodes 
+-    Chapter 3 has 16 episodes 
+    - Side content 2 has 9 episodes 
+-    Chapter 4 has 12 episodes 
+    - Side content 3 has 6 episodes 
+
+Total: TBD
+
+Volume 5 has 1 chapter
+-	Chapter 1 has 26 episodes
+
+Total: 1560 gems
+
+>WTF I'm stuck in the story help! It's at volume 3 chapter 3 episode 24 (v3 c3 e24) 
+[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
+
+>What does D.U. mean?
+District of Utnapishtim.
+
+
 ## Misc. stuff
 You can rub people's heads after you unlock their L2Ds. This also counts for NPCs (e.g. Arona, Sora, Rin)
 Yes. You really can. 
@@ -663,9 +721,6 @@ I wish they did too.
 >I can't beat X what do I do? 
 Go on youtube and look at a video. You'll find that is the answer to a lot of problems in life. 
 
->WTF I'm stuck in the story help! It's at volume 3 chapter 3 episode 24 (v3 c3 e24) 
-[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
-
 >What is UE / EW? 
 Unique Equipment, or Exclusive Weapon in Global. 
 It's the gun. 
@@ -694,9 +749,6 @@ If you wish to start in a different region for Global, you'll need to set your V
 >When did X change get added 
 You'll have to manually look for it. 
 Go to https://bluearchive.wiki/wiki/Events, open an event, and underneath Event Summary > details you can find new additions.
-
->What does D.U. mean?
-District of Utnapishtim.
 
 >Where is the AV room? (Hanako mission)
 Schale office > Schale theatre room. It's bottom left. 

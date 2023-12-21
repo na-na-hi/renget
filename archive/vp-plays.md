@@ -26,6 +26,8 @@ LP summaries are color coded - green for completed, blue for ongoing, yellow for
 https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
 https://discord.gg/ZtVmVWNPu
 
+**PSA: Please be considerate of others, and never reply to bait/trolling/shitflinging posts. It creates an ugly mess that people have to see and scroll through when trying to check the archive, while also motivating the shitposter to return while making you look retarded. The report button exists, use it so that the shitposting will hopefully be deleted before a newfag replies to it.**
+
 [TOC2]
 
 ##Rejuvenation V13

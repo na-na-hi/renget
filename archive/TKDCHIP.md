@@ -787,7 +787,10 @@ https://files.catbox.moe/8a7rkn.mp4 New  12/19/23
 https://a.cockfile.com/vxceVr.mp4 New  12/19/23
 
 >Idf Terrorist bombing Rafah hospital caught live on camera by the news
-https://files.catbox.moe/4j3jvm.mp4  12/20/23
+ files.catbox.moe/llhj8i.mp4 12/20/23
+
+>Israeli occupation forces bombed with heavy fire belts on the vicinity of the Kuwait Specialized Hospital.
+files.catbox.moe/pa2ax6.mp4   12/20/23
 
 >Israeli minister calls for genocide in Gaza:
 "I don't care about Gaza... for all I care, they can go out and swim in the sea!" I want to see dead bodies of terrorists around Gaza."
