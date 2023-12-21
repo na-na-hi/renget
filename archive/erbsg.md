@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=MGkKkqv0B30
 \>Pixel Art Tia
 https://www.youtube.com/watch?v=mH0xyiS5Ous
 
-\>Mister Elegante Alonso
-https://www.youtube.com/watch?v=osn_6l3j9_k
+\>Candy Cane Hyejin & Ludolph
+https://www.youtube.com/watch?v=R-WSAqnygVE
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4

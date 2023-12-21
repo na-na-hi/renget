@@ -1,5 +1,5 @@
 #LURKz's Furbo and Claude 2/2.1 Presets 
-##->Updated - 20 Dec (Furbo)<-
+##->Updated - 21 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
 	-> For now, this preset will be geared towards storyline with a hint of NSFW, as opposed to Coom (Incest, NTR, Voyeurism etc...). This will not be the preset to use if you're after a quick coom. However, if you like Saviorfagging, Adventure/Fantasy, Slowburns, Survival etc..., this will be better suited for you!<-
@@ -7,8 +7,6 @@
 	-> 19 Dec - **LovellStreak** (Furbo). Rearranged the prompt ordering, with {{user}}'s persona and the Scenario placed just before the chat. {{char}}'s description and personality has been placed after the chat history. Added a system prompt directly below the chat history to give AI a brief overview of what it needs to analyse and then construct, with this being reinforced in ==FINAL_RESPONSE==. Prompts that can be edited to cater to your specifications are labelled with ==[Edit]==, ~~and the prompt labelled ==\==SEXO\=\=== can be used to lewdify responses (push AI into more sexual scenes, or initiate and develop sexual scenes further).~~<-
 
 	-> 20 Dec - **LovellStreak** (Furbo). Reordered certain instructions in ==\==PREFERENCES\=\=== to give them higher weightage, and modified how AI should decide on Acts in the codeblock. Responses have been promising so far, and results, seen in [Logs](https://rentry.org/LURKzLogs), seem good! I've deleted my ==\==SEXO\=\=== prompt, as I felt it wasn't good enough and disoriented too much from the storyline. It may or may not be added back, based on whether I want my preset to focus more on storyline (Adventure/Fantasy) as opposed to just straight Coom/Sexual responses.<-
-!!! warning 
-	-> 18 Dec - An experimental DL link has been added in the Downloads table.<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -20,7 +18,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xms2fy.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xms2fy.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/slzdz6.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/slzdz6.zip)
 
 ***
 ####->Comprehensive guide on importing presets into ST<-

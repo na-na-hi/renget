@@ -19,7 +19,7 @@ So, we will fix this by telling the AI about what's going on, for example:
 
 >  The story so far: An urchin thief girl named Vin has been recruited by Kelsier, a "charismatic" man who seems to have powers that should be impossible. And he said she has them too. She reluctantly joins his crew of elite thieves in their insane plot to overthrow the Final Empire, an oppressive regime that has reigned for a thousand years.
 
-However, its useful did not stop there! If you are someone like me who doesn't like to write a long opening prose, or constant steering in the beginning.  
+However, its usefulness did not stop there! If you are someone like me who doesn't like to write a long opening prose, or constant steering in the beginning.  
 It's possible—if not, more optimized—to just straight up tell the AI on what the story is about:
 
 > Summary: In a circle of awful men, there is an app called "Date Service" that is being passed around. The app lets users select anyone in the area and the app will take care of the rest—apparently, his family members are being selected left and right... Can Ken break the hypnosis and bring them back before their personalities are completely erased?
@@ -47,9 +47,16 @@ Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's ho
 
 **Examples:**
 
-> [ Title: There are impostors among us; Tags: spaceship, accusation, fixing ship, murder mystery; Genre: detective ]
+> [ Tags: Las Vegas casino, disruptive technology, pragmatic boss, gambling industry, quantum computer, cheaters, face-to-face encounter, mind game ]
+> Summary: The first commercially available quantum computer is out on the market, and it's about to change the way casinos do their business. Can Edwin Rutledge, a casino owner of Babylon, protect his business from an impending threat?
 
-> [ Tags: adventure guild, fantasy world ]
+> [ Tags: anthropomorphic animals, town setting, supernatural item, detective protagonist, cat protagonist, sarcastic humor, nsfw, monster attacks ]
+> Summary: In the city of Kitteridge, where many non-humans live together along with cats, wolves, foxes, and birds, there is a magical wall that protects them from monsters outside the wall. Qwilleran is a young trainee detective who often teases because of his age. One day when he was on patrol, he found an unusual sticky notepad that can make anything written on it become real... Can Qwilleran stop the troublemaker before the town is destroyed, or will he use this power for himself?
+
+> [ Tags: urchin protagonist, animal pov, mistaken for magical species, imposter syndrome, medieval fantasy setting, trio of humans and animals, rescue mission, lying ]
+> Summary: A usual steal-from-the-fishmonger goes disastrously wrong as he's chased by a magical bounty hunter. He seeks refuge in a familiar store, only to be chosen by a young wizard boy. Can this tuxedo tom convince everyone that he's a familiar in order to keep his newfound sanctuary, and how can he rescue his companion from the looming danger?
+
+> [ Title: There are impostors among us; Tags: spaceship, accusation, fixing ship, murder mystery; Genre: detective ]
 
 > [ Tags: zombie, resource management, clueless, oblivious, profanity; Genre: post-apocalyptic, survival ]
 

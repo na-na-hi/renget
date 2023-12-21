@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oLq8wm.png) <-
+-> ![](https://a.imagem.app/oEUdOQ.png) <-
 
 # ☣️ ➜ [Megathread](https://rentry.co/megathread) / **Unsafe Sites**
  

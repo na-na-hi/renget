@@ -1,7 +1,7 @@
 # /bag/ Newfag guide
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
-Scroll to the bottom for my last edit date. This guide is still relevant and not outdated.
+Scroll to the bottom for my last edit date. This guide is not outdated.
 
 [TOC] 
 
@@ -326,7 +326,7 @@ Not worth farming until you clear at the very least B, and even then only once y
 Feel free to skip during farmable events. 
 With the small monthly you reduce the AP cost per ticket by 5, and with the big monthly you reduce it by 10. Buying both means that scrims become free to do.  
 
-## Total Assault (Raid)
+## Total Assault (Raid) & Grand Raid (Raid 2)
 Welcome to the endgame content of BA, the biweekly *PREMIER* source of BDs, technotes, and elephs.
 The first thing you want to do is join a club. The second thing is borrowing the strongest unit for the raid. Congrats you just beat the raid.
 
@@ -337,7 +337,7 @@ Up to HC you can borrow someone's hypercarry who can beat the raid by herself, j
 Don't try EX without a mock battle if ur below the recommended level.
 You can do EX at level 70, INS at level 80, and Torment after 2 years of playing. 
 
-If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over.
+If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over. My advice is 15-20 minutes before the ticket ends .
 
 If you need to change formation in the middle of ur raid battle, you can close the app/quit the game and start Blue Archive again. This way you won't lose ur ticket, your attempt will stay active, AND you get to change ur team/positioning/starting EX skills. 
 This works in mock battles and actual runs. 
@@ -354,6 +354,10 @@ In battle, at the top left of your screen it shows if it's a mock battle. If the
 >Should I save my raid coins? 
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
 You don't lose your coins after a refresh. 
+
+>in Grand Raids/Elimination Raids I saw that there's a 10 roll ticket, does it expire? 
+Yes. The ticket expires on the last day of the next month after the raid. So it has a limit of around 40 days. 
+Example: the ticket from the Grand Raid of February expires on the 31st of March. 
 
 ## Joint Firing Drill/Joint Exercise 
 !!! Warning LOOK AT A YOUTUBE VIDEO

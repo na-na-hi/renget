@@ -1,7 +1,10 @@
 #Co-writing guide
-Hello! What is this guide about? It's about steering! ...As in, when you write with the AI itself, in NovelAI's editor; I know, I know... There are many flashy buttons in there, *'Ooh, what's memory? What do I put in the Lorebook?'* And I may have written guides on them. But it's nothing compared to how you write!
+Hello! What is this guide about? It's about steering! ...As in, when you write with the AI itself, in NovelAI's editor... I can't emphasize the importance of ***steering*** enough—YOU are responsible for the story's quality;  
+there are features like *Lorebook, Author's Note*, but those are NOTHING, they serve zero purpose! if your writing is bad.
 
-Ouu... I can't emphasise the importance of ***steering*** enough—It can't be taught! It relies on experience. In fact, it is at the core of how the AI itself operates. It'll ripple through everything you do, like how you write a Memory or Lorebook, the *output* you get from the AI. And in a way, this skill will come to you naturally, as you use the AI more and more. 
+No one can improve your writing except yourself.  
+Put in an effort to police/monitor your context, make sure that your input is not breaking the flow,  and push the AI towards good writing.  
+Here's some more technical advice:
 
 [TOC2]
 
@@ -35,10 +38,8 @@ It will allow you to see further into the model itself, clicking on an output wi
 
 And did you know? That you can see more than 10 tokens at a time!
 
-- Enable Debug Mode: 
-Top left, Click on profile image -\> At the bottom, try to find  _Version 7?4?e?4_, Can be hard to spot -\> Spam left click until you see "Debug settings enabled." popup.
-- Setting -\> Debug -\> Raise **Logprobs Count** to *30* or values that you want!
-- Make the list more compact:
+- [Enable Debug Mode (click to see how)](https://docs.novelai.net/text/UserSettings/debug.html):, and raise **Logprobs Count** to *30* or values that you want!
+- You can also make the list more compact:
 Setting -\> Theme -\> scroll down -\> Open *Custom CSS*  -\> Paste `#editor-toolbox {line-height: 12px;}` (or other values) -\> Apply!
 
 Also  
@@ -52,18 +53,20 @@ If you are doing any intense/focus NovelAI session, you would probably be better
 - **Advanced** tab \-> **Current Context**.
 
 Take a looong look at what's in the context. If you fail to understand this, you *won't* understand how the AI does fundamentally work.  
-I am saying this because you need to understand that there is nothing special about Memory, Lorebook, or Author's Note. They are ***all*** just a part of context—A Lorebook entry is not a special piece of context nor is it an instruction. Imagine a context as a piece of paper, your current story: the storytext, will take a majority of your page, and your active entry will be placed at the top.   
+I am saying this because you need to understand that there is nothing special about Memory, Lorebook, or Author's Note. They are ***all*** just a part of context—A Lorebook entry is not a special piece of context nor is it an instruction. It's just a text that pretended to be part of Storytext. Plus, the default Author's Note is an intrusion on the Storytext. Very untruthful!
 
 Storytext has limitation, once you hit the max size. The oldest text will be gone and gone to make a room for newer text.  
-The larger your Memory/Lorebooks are, the less room for storytext, scene's memorization will be shorter.
+The larger your Memory/Lorebooks are, the less room for storytext, scene's memorization will be shorter... If you are on lower tier that is, you don't need to care you if you are on Scroll or Opus.  
 
 #####Tools
 
-The strategy for managing the context are here: **[Lorebook](https://rentry.org/lorebook-guide)**, **[Memory](https://rentry.org/memory-guide)**. I already wrote a guide on them, but yes, they're a mere reference (for the AI). When using these two, it should be only because you hit the context limit. Since these entries will allow you to connect the thread across context regardless of how far you write.  
-It's very much possible to write a story without relying on these tools. That is usually the case if I'm not aiming to write a long story! But once you hit the max active storytext, you will be starting to re-establish things that have already been told or correct the AI to keep up the consistency: using Lorebook and Memory will help.
+Always, use,  **[Memory](https://rentry.org/memory-guide)**! If you know anything about how NLP or token sequencing work, you will know that the very first token is extremely important for how the AI interprets the rest of the context. Not only does it help the AI, it also helps you as a storyteller.
+
+It's very much possible to write a story without relying on **[Lorebook](https://rentry.org/lorebook-guide)** tools. That is usually the case if I'm not aiming to write a long story! But once you hit the max active Storytext, you will be starting to re-establish things that have already been told or correct the AI to keep up the consistency: using Lorebook will help.
 
 Then, there is **Module**. Using Module is like... turning a generalist AI into a specialist.  
-Module right now is all about writing style, and pattern. If you are on Euterpe you can train your own custom module, or pick one of the default module—NovelAI is taken to a whole new level with the module that complement your writing—On the other hand, if the module is mostly irrelevant or out-of-focus from your story, it's going to hinder the AI, so you might as well just stick to no-modules.
+Module right now is DEAD, maybe they will add back custom module some day. Or some new update!  
+~~NovelAI is taken to a whole new level with the module that complement your writing—On the other hand, if the module is mostly irrelevant or out-of-focus from your story, it's going to hinder the AI, so you might as well just stick to no-modules.~~
 
 Another thing that I want to mention is **Output Length**, it's on the 3rd tab of the right panel. Default being `160` characters, or about 40–60 tokens, is pretty much fine. But if you find yourself editing too much, try switching to `40` characters. And if you were spamming Send a little bit too much, switch to a higher length.
 ‎
@@ -71,11 +74,16 @@ Another thing that I want to mention is **Output Length**, it's on the 3rd tab o
 Lastly, being **Preset**.  
 Some people are confused about what it does, or have a completely wrong idea—But to explain. Basically at any given output token. The AI has a long list of words that it was considering, and your preset select one word out of that list.
 
-> `I don't _?_ (love, hate, care, want, ..., dance, die)`
+> `I don't _?_ (know, remember, want, think, ..., give, expect)`
 > Each layer in the preset will cut them down, to the final pool.
-> `I don't _?_ (love, hate, care)`
+> `I don't _?_ (know, remember, want)`
 > Then, one word will be randomly pick from the final pool, each word have its own probability.
-> `I don't` *`hate`* ` _?_ (you, cats, woman, ...)`—repeat.
+> `I don't` *`remember`* ` _?_ (much, the, how, ...)`—repeat.
 
-Each preset has its own strategy; just read the blurb and see how you feel about its output—Keep in mind that the blurb is how the preset makers feel about his/her own presets, could be accurate, could be unscientific.  
-See default presets or get a custom preset from [#content-sharing](https://discord.gg/novelai).
+You can stick to the top tokens for the-best-performance-from-the-model, or  you can also *doubt* the model and pick the unexpected.  
+Each preset has its own strategy; how much do you want to trust the model, or how much unconventional you want you output to be.  
+(You can, of course, switch between them. Stick to performance presets, then switch to variety presets if AI struggle. Or use interesting preset, and switch to consistence presets if AI won't stick to context.)
+
+Other factors are: CFG 1.11+ (Produce unnatural prose, but god tier context recall), Repetition Penalty (Too high, and your performance is damaged. Too low, and you get repetition.)
+
+See default presets or get a custom preset from [/aids/ wiki](https://aids.miraheze.org/wiki/Presets) or [#content-sharing](https://discord.gg/novelai).

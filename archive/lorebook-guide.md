@@ -94,7 +94,7 @@ These are insider knowledge and official tags that are confirmed to work well. A
 	- **Gear:** Weapons or equipment. Favor fantasy rpg.
 	- **Weapons:** Specifically stated weapons.
 - **Allies:**/**Enemies:** can  be used for relationships  like `name (friend)`, `Reen (brother)`, `Rat-Empire (former member)`, etc.
-- **Appearance:** What the physical traits of the characters are. ()
+- **Appearance:** What the physical traits of the characters are. 
 	- **Skin:**/**Hair:**/**Eyes:**/**Size:**/**Weight:**/**Height:**  Use these if your Appearance is getting too large.
 - **Occupation:** Character's job.
 	- **Class:** Fancy rpg class.
@@ -154,7 +154,6 @@ Yup, that's it—==Name: *Who they are + extra context.*==
     If you want to, you can use snippets to define relationship! And with how our key works, it will be triggered automatically when both name appear in the story—uses term *'Relations'* in Prefix instead.
     > **Vin** and **Reen**: Their relationship is odd. Reen helps Vin willingly, but she always whines about Reen helping her despite asking for it.
     Key: `/(?=.*?\b(Vin)\b)(?=.*?\b(Reen)\b)/si`
-     ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎^ You see?
     You use this exact format of key, names in () can be written interchangeably. (Learn Regex more at 'Special Keys' section, as well as troubleshooting, like excessive highlighting.)
 
 !!! warning Using Snippets with Attribute

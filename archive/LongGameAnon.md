@@ -9,6 +9,7 @@ Here is my burner: LongGameAnon@proton.me
 I love hearing feedback, seeing logs and hearing what you liked.
 -----------
 ## Latest Update
+(12/20/2023): **new character** Added my Seasonal Bots  Peppermint, Fright Night Game and WWE 2020 Presidential Debate
 (8/17/2023): Added my biggest effort bot Sarah -Texting Edition-
 (7/23/2023): Added a 2 guides for Local Models
 (7/23/2023): Added **new character** Gaymer Dad
@@ -42,6 +43,20 @@ Sarah -Road Trip Edition- | Info
 Sarah -Texting Edition- | Info
 :----:  | :----: 
 ![Sarah Texting Edition](https://files.catbox.moe/isitux.png)   | Long distance texting with Sarah while she is at college. Sends you back contextual pictures and memes....can you survive?  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/sarah-texting-edition-d3de191a), [png](https://avatars.charhub.io/avatars/LongGameAnon/sarah-texting-edition-d3de191a/chara_card_v2.png?alt_ver=texting)
+
+-----------------
+##Seasonal/Event bots
+Peppermint | Info
+:----:  | :----: 
+![Peppermint](https://i.imgur.com/jwZlPem.png)  |  Peppermint is one of Santa's elves who snuck away to see the human world. You find her snacking on cookies at your house. **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/peppermint-3a195445),  [png](https://avatars.charhub.io/avatars/LongGameAnon/peppermint-3a195445/chara_card_v2.png?nocache=0.3915246322247896)
+
+Fright Night Game | Info
+:----:  | :----: 
+![Fright Night Game](https://i.imgur.com/LqODAnQ.jpg)  |  Welcome to the spookiest game you'll play with chatbots. In this game you will be rated on 4 classic horror categories: Fear, Realism, Irony, Creativity.  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/fright-night-game-8fc98d00),  [png](https://avatars.charhub.io/avatars/LongGameAnon/fright-night-game-8fc98d00/chara_card_v2.png?nocache=0.22613968312210164)
+
+WWE 2020 Presidential Debate | Info
+:----:  | :----: 
+![Fright Night Game](https://i.imgur.com/tQHVI4I.png)  |  In this Alternative History, presidential debates are held at WrestleMania.  **[Links]** [Chub](https://www.chub.ai/characters/LongGameAnon/wwe-2020-presidential-debate-56fbe7d6),  [png](https://avatars.charhub.io/avatars/LongGameAnon/wwe-2020-presidential-debate-56fbe7d6/chara_card_v2.png?nocache=0.8408580716818781)
 
 -----------------
 ##Other bots
