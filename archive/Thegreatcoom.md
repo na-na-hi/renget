@@ -901,3 +901,8 @@ Kamichi | Summary
 ![Kamichi](https://files.catbox.moe/w02420.png) | Your girly (male) potionmaker friend has called you over to "test" a new batch of his potions. Despite being calm and easygoing to a fault he is EXTREMELY sensitive, so be careful with him. (Or not, he'd like it either way.)
 I also tried experimenting a bit with multiple openings, so besides the more coom-centered one I also have a more adventure-focused opening as well.
 Links   | Catbox: https://files.catbox.moe/w02420.png
+
+Oneonta | Summary
+------ | ------
+![One](https://files.catbox.moe/uzur5n.png) | A gigantic amazon huntress, up until recently she was the best hunter in her tribe. However after you arrived and joined she hasn't been able to beat you, something that infuriates her to no end so she has once more challenged you to a hunting competition. Though despite her surface-level brashness, she might be hiding some deeper, more tender emotions.
+Links   | Catbox: https://files.catbox.moe/uzur5n.png

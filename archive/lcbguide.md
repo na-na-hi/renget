@@ -16,7 +16,7 @@ A great story, characters, and setting. On top of that, jank, but fun gameplay t
 
 Also note that, unlike other gachas, we have a set of 12 static characters, for whom we roll for different "outfits" that change how the characters behave in-game. This means that the characters are going to be well-developed and play important roles throughout the story, instead of being introduced and forgotten constantly, like is the case with other gachas. Each character is designed to appeal to a specific niche, so you will likely have at least one character to waifu/husbandofag over. Also, the gacha system is an in-universe thing and important to the plot, and even the way you upgrade units and grind for resources is explained in the lore with autistic detail.
 
-**5. What should I be doing during early game?**
+**4. What should I be doing during early game?**
 Go through the story at your own pace. Once you complete chapter 2 you will have Luxcavation and Mirror Dungeons unlocked. Mirror Dungeons have Weekly Bonuses that grant you Lunacy and Battle Pass XP. Luxcavation is how you farm XP tickets and Thread to upgrade your Identities and E.G.Os. Collect all your Weekly Bonuses and farm resources in Luxcavation to upgrade your units if you're having a hard time. Don't do Lunacy refills during early game, because your maximum Enkephalin (energy) isn't going to be high enough to justify it. Either wait for your Enkephalin to replenish or use Enkephalin boxes in the meantime. If you want to know what to do after early game, please view the Farming and Activities sections of this guide.
 
 **5. This game has a required reading list?**
@@ -212,9 +212,6 @@ Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
 Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
-!!! warning Disclaimer 2
-    With the December 13 update, all Mirror Dungeons have been merged into one. The rewards are the same as MD2. There is currently no hard mode, but it will be re-added with the December 20 update. Sit tight, manager-nim.
-
 In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass, which is leveled by doing missions and Mirror Dungeons. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
 
 **1. What is the best way to farm Egoshards?**
@@ -309,7 +306,7 @@ R Corp Ishmael and Meursault need to be at Uptie 4. It is also recommended that 
  - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
-L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. Both of them, Hook Lu, G Outis and Shi Don are good picks for ~~MD2H~~. KK Hong Lu doesn't roll  well in ~~MD2H~~ but his skill 2 can absolutely decimate slash weak enemies during early game. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
+L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. KK Hong Lu doesn't roll well but his skill 2 can absolutely decimate slash weak enemies during early game. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Hook Office Fixer Hong Lu](https://files.catbox.moe/coki2s.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
@@ -318,17 +315,18 @@ Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's S
 
 ## Activities
 **1. Story**
-The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 5 chapters + the prologue and two plot-relevant Events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, aswell as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from Events and the Battle Pass, and most people use them when new story releases so they can complete it all in one sitting and go back to shitposting.
+The main draw of the game. If you beat battles in 10 turns or less, you'll get an EX rank, which unlocks extra Lunacy rewards. Costs raw Enkephalin. There are currently 5 chapters + the prologue and two plot-relevant Events. Beating the first two chapters is important, as it automatically upgrades all your base Identities and E.G.O to Uptie 3, as well as unlocks the main farming modes. If you are out of Enkephalin but want to continue the story immediately, open an Enkephalin Box or do an Enkephalin refill. You get many Enkephalin Boxes from Events and the Battle Pass, and most people use them when new story releases so they can complete it all in one sitting and go back to shitposting.
 
 **2. Story Dungeons**
 The final level of a chapter. You go through a series of rooms in order to obtain the Golden Bough. Costs Enkephalin Modules to enter. Contains Abnormality battles on top of your regular combat encounters. Very long, but you can leave and resume later.
 
 **3. Mirror Dungeons**
-The farming stage. Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. The Mirror Dungeon has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and you will only have to spend Modules at the end if you wish to collect the rewards. On top of the usual rewards, you also have three Weekly Bonuses, each granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5 regardless of completion level.
+The farming mode. The current Mirror dungeon changes every Season to reflect the current chapter's content. The current Mirror Dungeon is "Mirror of the Lake". The Mirror Dungeon has five floors, with a final boss for each floor. At the end of every floor, you can choose an E.G.O gift, which grants you perks for the current Mirror Dungeon run, which is tied with one Mounting Trial, which are buffs for the enemies you face. You will encounter shops, rest stops and event nodes alongside regular combat encounters. In the regular Mirror Dungeon, your Identities are automatically set to max level, but their Uptie level is preserved. In Mirror Dungeon Hard, your actual levels are used. In both Mirror Dungeons, you gain more starting cost and Starlight by using Identities you have not used in a while. Cost is used in shop nodes, and starlight is used to purchase starter buffs, which are permanent upgrades for the current season's Mirror Dungeon. Get more Starlight by completing Mirror Dungeon runs. The starter buffs are reset when the Mirror Dungeon is changed the following season.
 
-Mirror Dungeon Hard (MDH) has its own separate Weekly Bonus that can be collected once a week. This bonus does not grant Lunacy. Without the bonus, the cost and rewards are the same as in normal. Completing MDH allows you to collect all three normal Weekly Bonuses at once, but you need to use up at least one regular Weekly Bonus to collect the MDH Weekly Bonus.
+Only one Mirror Dungeon expedition can be carried out at a time; if you want to enter a different Mirror Dungeon while an expedition is in progress, you need to clear or forfeit the ongoing expedition first. The Mirror Dungeon has two difficulty modes: Normal and Hard. You can start any Mirror Dungeon for free, and you will only have to spend Modules at the end if you wish to collect the rewards. The rewards are based on completion level. On top of the usual rewards, you also have three Weekly Bonuses, each granting you 250 lunacy and multiplying the Mirror Dungeon rewards by 1.5 regardless of completion level.
 
-The rewards for hard mode will presumably be the same as MD2H.
+Mirror Dungeon Hard (MDH) has its own separate Weekly Bonus that can be collected once a week. This bonus does not grant Lunacy. Without the bonus, the cost and rewards are the same as in normal. Completing MDH allows you to collect all three normal Weekly Bonuses at once, but you need to use up at least one regular Weekly Bonus to collect the MDH Weekly Bonus. 
+
 Type | Module Cost | BP XP (No Bonus) | BP XP (Bonus)
 :----: | :----: | :----: | :----:
 MD (Unlocked after chapter 2) | 5 | 30 | 45
@@ -387,4 +385,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/23-24/23: Updated for new chapter part.
 11/27/23: Added preface to farming section and updated both tier lists.
 12/8/23: Fixed and updated some minor things.
-12/15/23: Updated to reflect the new Mirror Dungeon update. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/15/23: Updated to reflect the new Mirror Dungeon.
+12/21/23: Updated for hard mode also the FAQ was ordered wrong all this fucking time. ![lol&](https://files.catbox.moe/7dmu76.png)

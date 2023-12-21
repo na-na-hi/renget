@@ -140,6 +140,9 @@ https://www.youtube.com/channel/UCSmgeorzXa5ht-PKyFr8vhA
 creepy bunny imouto parasite
 https://www.twitch.tv/yuiidere
 https://twitter.com/yuiidere
+>Suraya Mousouzoku
+Unfiction Vtuber. Newscaster from an alternate history.
+https://twitter.com/QWIL_Newscast
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko

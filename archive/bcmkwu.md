@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>6+ minutes of combat footage filmed by a drone in the Kremennaya forest
+https://files.catbox.moe/vkbe5x.mp4
+>former US general doesn't even hide the "to the last hohol" policy anymore
+https://files.catbox.moe/72ehvf.mp4
+>10 fpv hits on tanks/ifvs/apcs
+https://files.catbox.moe/oidfeg.mp4
+>AFU recruitment ad for couples "ZSU brings families together"
+https://files.catbox.moe/nsjvlh.mp4
 >AS-90 burn
 https://files.catbox.moe/846a04.mp4
 >Dual POV T-64 explosion

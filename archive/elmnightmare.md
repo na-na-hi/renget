@@ -443,3 +443,6 @@ One last tear dripped off his face and mixed with the pool of vomit on the floor
 ***(I’m never using Dream Eater again!)***
 
 Later, a rumour about a cursed spirit screaming and banging on the walls in the dead of the night became a popular ghost story among the guild.
+
+!!! note Note
+	It was only after publishing this story that I realized Dream Eater is a Psychic attack instead of Ghost. My bad!

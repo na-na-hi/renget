@@ -74,3 +74,4 @@ Here will be everything submitted for the contest during the submission period. 
 [The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, **NSFW, under 5k**)
 [Shiori's Fucking Monologue](https://rentry.org/edsur)  **NSFW**, Shiori, Monologue, Comedy, **Under 5k**
 [Heaven, Hell and the USDA](https://rentry.org/sivtwn)  **NSFW**, Coco, Towa, Kanata, lesbian, bdsm, **under 5k**
+[Homely relief.](https://rentry.org/vshcu)   Ookami Mio, **NSFW**, fluff. **Untagged under 5k**

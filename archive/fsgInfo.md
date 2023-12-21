@@ -38,3 +38,6 @@ Group passwords: /dsg/ and erg
 ####ARMORED CORE
 [>>>/m/acg](https://boards.4channel.org/m/catalog#s=acg)
 - AC6 Parts List: https://docs.google.com/spreadsheets/d/1YLPD_x-NSLkOPQJUR-WHoHipE4UI01Nz/edit#gid=1521007424
+
+#####The Archives - Repository of lore documents, interviews, art and more of DeS, DaS, BB development
+- https://drive.google.com/drive/folders/1MsqQvo7nQGzeifTMbAV5e0gL-5hshof_

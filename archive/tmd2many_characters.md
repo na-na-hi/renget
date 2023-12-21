@@ -24,7 +24,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Bomb](https://rentry.org/tmd2many_characters_Bomb) | ??? | Baltoy | Bomb! | Team Ruckus
 [Brook](https://rentry.co/oypro) | Ex-Human (Amnesia) | Zorua (Unovan) | N/A | Team Clover Force
 [Cress](https://rentry.co/tmd2character_Cress) | Ex-Human (Anamnesis) | Cinderace | Navigator | Team Stylish
-[Cubone](https://rentry.co/tmd2many_characters_cubone) | ??? | Cubone | Associate | Unknown Tribe
+[Cubone](https://rentry.co/tmd2many_characters_cubone) | ??? | Cubone | Butler | Marrow Tribe
 [Darius](https://rentry.co/tmd2_character_darius) | Ex-Human (Amnesia) | Larvitar | N/A | Team Ruckus
 [Dustin](https://rentry.co/dustinonenuttyactor) | Ex-Human (Anamnesis) | Bagon | N/A | Team Ruckus
 [Espurr](https://rentry.co/tmd2many_characters_espurr) | ??? | Espurr | N/A | Team Stardust
@@ -64,6 +64,7 @@ Name | Origin | Pokémon | Occupation | Affiliation
 [Coiling Appetence, Scour Devour](https://rentry.co/tmd2character_scour) | Native | Ekans | Clan Elder | Clan Morion
 [Crystal Like Law](https://rentry.org/tmd2noble_crystallikelaw) | Native | Glimmora | Bishop | Ho'oha Priest
 [Elm Chopper, Fiftyfold Fatherer](https://rentry.co/tmd2character_woody) | Native | Haxorus | Clan Elder | Clan Almandine 
+[Enigma](https://rentry.co/tmd2many_characters_enigma) | Native | Dewgong | Songstress | House Oasis
 [Ever Lifting](https://rentry.co/tmd2many_nobles_ever_lifting) | Native | Reuniclus | Bishop | Ho'oha Priest
 [Fourth Of H░░ Name](https://rentry.co/tmd2many_characters_fohn) | Native | Meowstic | Archivist | House Esper
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
