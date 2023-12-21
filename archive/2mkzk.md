@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/12/14-23/12/17 (yy/mm/dd)
+##23/12/21-23/12/24 (yy/mm/dd)
 
 ##Melts
 
-**THU: Rockman 7 Rabbit Runner at 2UTC ()** 
+**THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
-**SAT: Naked X2 or Z4 boost at 3UTC (Telemelt)**
-**SUN: Minemelt at 18:30UTC* (Minecraft)** 
+**SAT: Naked X6 or Naked X3 rando or Z4 boost or at 3UTC (Telemelt)**
+**SUN: Minemelt at 18:30UTC* (Minecraft)** maybe, check later
 
 ##Cytubes
 
-**SAT: Megaman Fully Charged at 18:30UTC** 
-**SUN: - at 17UTC**
+**SAT: Megaman Fully Charged at 19UTC** 
+**SUN: Rockman: Hoshi ni Negai o at 17UTC**
 
 >-
 nothing

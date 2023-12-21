@@ -7,7 +7,7 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2680* | Last image filter update: */hmofa/ thread #2606*
+#######Last word filter update: */hmofa/ thread #2787* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -176,6 +176,7 @@
 /\d\nhere's your white(| human) male/i;boards:trash;op:no 
 /copedfag/i;boards:trash;op:no
 /fucks furbois/i;boards:trash;op:no
+/(?=.\*(why you))(?=.\*(never post my art))/ims;boards:trash;op:no
 /(?=.\*artists)(?=.\*not your friend)/ims;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
 /((?:>>\d(?:(?!>>\d)[^])\*){6})(?=.\*^\\>$)/is;boards:trash;op:no;file:yes
@@ -225,7 +226,7 @@
 /shitspic/i;boards:trash;op:no
 /apeshley/i;boards:trash;op:no
 /(?=.\*r\/teenagers)(?=.\*spic)/ims;boards:trash;op:no
-/(known as|go by|aka) xcube/i;boards:trash;op:no
+/xcube/i;boards:trash;op:no
 /@Foxymilkies/i;boards:trash;op:no
 /(?=.\*tw[ia]tter)(?=.\*2002)/ims;boards:trash;op:no
 /femcunt/i;boards:trash;op:no

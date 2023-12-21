@@ -81,7 +81,7 @@ Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90994440/
 Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
 Li Yinzhen "Jiangshi": https://desuarchive.org/tg/thread/90977623/#90978093
 Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/90977623/#90978639
-Nekiro Nishi "Jupiter": https://desuarchive.org/tg/thread/90977623/#90981069
+Nekiro Nishi "Jupiter": https://rentry.org/i2nzb
 Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/post/90992508/
 Chiba Chiyo "Animata": https://desuarchive.org/tg/post/90990850/
 Nobiko Midorima "Synthesis": https://desuarchive.org/tg/post/90992108/

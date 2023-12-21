@@ -1,6 +1,6 @@
 #How to mixtral for retards
 
-**Updated 12/18**
+**Updated 12/20**
 
 Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
@@ -32,20 +32,48 @@ Kobold recently had a update that increased prompt processing speed. Make sure t
 
 **Use either its official formatting or Alpaca, have heard varying results. I find that just the default Alpaca presets work perfectly fine.**
 
-A anon made some presets for Silly Tavern that seem to work well if you just want to download these and put the in the corresponding folders  (and then select them under the big A on top of ST):
+Several Anon's made presets for Silly Tavern that seem to work well if you just want to download these and put the in the corresponding folders  (and then select them under the big A on top of ST):
 
-/SillyTavern/public/context/Mixtral-Roleplay.json
->https://files.catbox.moe/l2vze6.json
+**Mixtral-Test:**
 
-/SillyTavern/public/instruct/Mixtral-Roleplay.json
->https://files.catbox.moe/yy0s1o.json
+>/SillyTavern/public/context/Test-Mixtral.json
+https://files.catbox.moe/kg20w2.json
 
-/SillyTavern/public/TextGen Settings/Mixtral-Roleplay.json
->https://files.catbox.moe/0esacl.json
+>/SillyTavern/public/instruct/Test-Mixtral.json
+https://files.catbox.moe/l3uxyn.json
 
-(On ST these are under the big A on top. Change the Context Template to Mixtral or Alpaca.)
+>/SillyTavern/public/TextGen Settings/Test-Mixtral.json
+https://files.catbox.moe/54myfu.json
+
+**Mixtral-Roleplay V2:**
+
+>/SillyTavern/public/context/Mixtral-Roleplay v2.json
+https://files.catbox.moe/cpogzc.json
+
+>/SillyTavern/public/instruct/Mixtral-Roleplay v2.json
+https://files.catbox.moe/kh7xyy.json
+
+>/SillyTavern/public/TextGen Settings/Mixtral-Roleplay v2.json
+https://files.catbox.moe/hjlo3e.json
+
+**The first version of Mixtral-Roleplay:**
+>/SillyTavern/public/context/Mixtral-Roleplay.json
+https://files.catbox.moe/l2vze6.json
+
+>/SillyTavern/public/instruct/Mixtral-Roleplay.json
+https://files.catbox.moe/yy0s1o.json
+
+>/SillyTavern/public/TextGen Settings/Mixtral-Roleplay.json
+https://files.catbox.moe/0esacl.json
+
+---
+
+>Set "Example Messages Behavior" to "Never include examples" in User Settings of Silly Tavern.
+>Set Context (tokens) in "Text Completion Presets" to the same as the context you loaded the model with.
 
 Otherwise:
+
+(On ST these are under the big A on top. Change the Context Template to Mixtral or Alpaca.)
 
 Mixtral Story String:
 >"<s> [INST] {{#if system}}{{system}}\n{{/if}}{{#if wiBefore}}{{wiBefore}}\n{{/if}}{{#if description}}{{description}}\n{{/if}}{{#if personality}}{{char}}'s personality: {{personality}}\n{{/if}}{{#if scenario}}Scenario: {{scenario}}\n{{/if}}{{#if wiAfter}}{{wiAfter}}\n{{/if}}{{#if persona}}{{persona}}\n{{/if}}[/INST]"
@@ -114,6 +142,8 @@ It will work just like that but if you have a GPU then for more performance read
 Something like this. Depends on your GPU / CPU:
 ![](https://i.imgur.com/VcP9077.png)
 If you have the VRAM to fit the entire model then I recommend using Exllamav2 for massively better speeds: https://github.com/turboderp/exllamav2/releases/tag/v0.0.11
+If you don't but you know how to read I suggest using llama.cpp instead, it just recently got a big speedup for prompt processing if you can fit part of the model on VRAM:
+https://github.com/ggerganov/llama.cpp
 
 ---
 

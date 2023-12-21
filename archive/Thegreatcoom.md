@@ -898,6 +898,6 @@ Links   | Catbox: https://files.catbox.moe/msfdt4.png
 
 Kamichi | Summary
 ------ | ------
-![Kamichi](https://litter.catbox.moe/2cpjes.png) | Your girly (male) potionmaker friend has called you over to "test" a new batch of his potions. Despite being calm and easygoing to a fault he is EXTREMELY sensitive, so be careful with him. (Or not, he'd like it either way.)
+![Kamichi](https://files.catbox.moe/w02420.png) | Your girly (male) potionmaker friend has called you over to "test" a new batch of his potions. Despite being calm and easygoing to a fault he is EXTREMELY sensitive, so be careful with him. (Or not, he'd like it either way.)
 I also tried experimenting a bit with multiple openings, so besides the more coom-centered one I also have a more adventure-focused opening as well.
-Links   | Catbox: https://litter.catbox.moe/2cpjes.png
+Links   | Catbox: https://files.catbox.moe/w02420.png

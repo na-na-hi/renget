@@ -1,6 +1,6 @@
 #==More /sdg/ links==
 !!! note 
-	This page contains all the links (and even more that couldn't fit) in the opening posts for /sdg/ threads on https://boards.4channel.org/g/
+	This page contains all the links (and even more that couldn't fit) in the opening posts for /sdg/ threads on https://boards.4chan.org/g/
 [TOC2]
 !!! info
 	---------------------------
@@ -35,6 +35,7 @@ https://rentry.org/webui-cpu
 https://github.com/rupeshs/fastsdcpu
 ###Apple CPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
+https://stable-diffusion-art.com/install-mac/
 !!! info
 	---------------------------
 ##Run Cloud Hosted Instance

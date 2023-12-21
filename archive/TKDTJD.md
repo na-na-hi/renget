@@ -996,4 +996,61 @@ https://files.catbox.moe/b3jso2.jpg New  12/20/23
 
 >Rumble Links for those concerned about Bitchute:
 Short 25 Minute "Bang Bang" Edit https://rumble.com/v41wa3q-tkd-the-movie-rammstine-x-palestein-shorter-bang-bang-edit.html
-Extended 1 Hour+ Edit https://rumble.com/v41w9vl-tkd-the-movie-rammstine-x-palestein.html
+Extended 1 Hour+ Edit https://rumble.com/v41w9vl-tkd-the-movie-rammstine-x-palestein.html  12/20/23
+
+>Al-Quds Brigades: 
+We targeted 2 IOF military vehicles with Tandem rockets in the Al-Mughraqa area in the central Gaza Strip.
+https://nitter.net/AryJeay/status/1737428109794681132#m  12/20/23
+
+>Bel Trew was one of the first to spread the lie that “the heads of 40 Israeli beheaded babies, which was spread in all Western media outlets and social media pages, without no evidence, later Bell published a tweet on the X website in which she retracted her adoption of the fake news in an misleading post saying that her tweet was “short and unclear”
+https://nitter.1d4.us/QudsNen/status/1737432200440684623#m  12/20/23
+
+>Israeli minister calls for genocide in Gaza:
+"I don't care about Gaza... for all I care, they can go out and swim in the sea!" I want to see dead bodies of terrorists around Gaza."
+https://nitter.1d4.us/QudsNen/status/1737428945883009115#m  12/20/23
+
+>Israeli occupation forces bombed with heavy fire belts on the vicinity of the Kuwait Specialized Hospital.
+https://nitter.1d4.us/QudsNen/status/1737449423888662664#m  12/20/23
+
+>Chinese military ships in the Red Sea refused to help the cargo ships of the Zionist regime in Bab al-Mandab strait. The US tried to form a naval coalition against Yemen with extensive propaganda, but ultimately faced a heavy failure.
+https://nitter.net/AryJeay/status/1737452633034567922#m  12/20/23
+
+>AnsarAllah leader, Abdulmalek Houthi:
+The Americans are partners with the Zionists in all their crimes from the first moment. They sent their military experts for management and planning and provided them with thousands of destructive bombs.
+https://nitter.net/AryJeay/status/1737463534596796796#m  12/20/23
+
+>AnsarAllah leader, Abdulmalek Houthi:
+The US has transformed its bases in the region to be a support for the Zionists, and all its weapons depots, even those in the Arab countries, have been used to support the Israelis.
+https://nitter.net/AryJeay/status/1737463152265064561#m  12/20/23
+
+>HOLY SH*T: Hamas just published a video showing clashes with IOF vehicles & soldiers on the axes of Khan Yunis. Many scenes of APCs and tanks getting ROASTED
+https://nitter.net/AryJeay/status/1737480684774576308#m  12/20/23
+
+>Al-Qassam (Hamas)
+Engaged in a confrontation with an IOF infantry force in the Saraya area in Gaza City, and Hamas fighters confirmed the killing of 4 IOF soldiers with others injured.
+https://nitter.net/AryJeay/status/1737503795280486557#m  12/20/23
+
+>EPAL: Protestors stand up in front of the Spanish parliament, Madrid. In solidarity with Palestinians and Gaza.
+https://nitter.1d4.us/QudsNen/status/1737494450589372742#m  12/23/20
+
+>Complete telecommunication outage has persisted in the Gaza Strip for the past 12 hours.
+https://nitter.1d4.us/QudsNen/status/1737554327844397259#m  12/20/23
+
+>Hamas: Our “harvest” in the last 72h.
+An infographic showing the casualties of the IOF by Hamas. Some notable features:
+- 25 Soldiers killed & 1 by sniping
+- 41 military vehicles targeted (incl tanks)
+- 7 point-blank range operations
+- 2 booby-trapped tunnel operations
+https://nitter.net/AryJeay/status/1737582363230540035#m  12/20/23
+
+>Several direct rocket impacts in Kiryat Shmona, by Hezbollah
+https://nitter.net/AryJeay/status/1737606716563546177#m  12/20/23
+
+>Lebanon: Islamic Resistance: We bombed Kiryat Shmona with Katyusha rockets in response to the enemy’s continued targeting of villages and civilian homes.
+https://nitter.net/ME_Observer_/status/1737605222808121485#m  12/20/23
+
+>As American politicians dance to the drums of war against Gaza, MintPress News unveils the top recipients of Israel lobby money of all time.
+https://nitter.net/MintPressNews/status/1737564229098525129#m  12/20/23
+
+>

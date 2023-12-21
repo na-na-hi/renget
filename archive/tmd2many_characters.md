@@ -67,7 +67,7 @@ Name | Origin | Pokémon | Occupation | Affiliation
 [Ever Lifting](https://rentry.co/tmd2many_nobles_ever_lifting) | Native | Reuniclus | Bishop | Ho'oha Priest
 [Fourth Of H░░ Name](https://rentry.co/tmd2many_characters_fohn) | Native | Meowstic | Archivist | House Esper
 [General Razor, Blade Breaker](https://rentry.co/GeneralofSteel) | Native | Bisharp | Clan Elder | Clan Hematite
-[Golden Touch](https://rentry.org/tmd2nobles_goldentouch) | Native | Absol | Nobility | Rantrum Domini
+[Rose Gold](https://rentry.org/tmd2nobles_rosegold) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini
 [Lilac](https://rentry.co/tmd2character_lilac) | Native | Delibird | Merchant | Unaffiliated
 [Roaring, Burning Darkness](https://rentry.co/tmd2character_RoaringBurningDarkness) | Native | Roaring Moon | Bishop | Ho'oha Priest

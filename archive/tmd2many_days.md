@@ -83,6 +83,9 @@ Deep in your dreams, you find yourself somewhere familiar that you don't quite r
 One by one, you "wake up," until you're down to last the struggling to leave the dream. As the final member of your group begins clawing back to reality, her parting words tell you that she'll watch over all of you, as best as she can. And with that statement, you're all awake. With her fate unknown, you can only hope that the Voice of Life escaped the dark clutches of the malevolent force. 
 
 !!! (10/17/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #05 The Foreshore Turnabout
+On the shores of a black sandy beach, you're here to steal back a ship and everything on it! You certainly don't have your sea legs, much less any experience under the belt with your new forms, but now is the time to be tested by fire! Or water, or grass. Semantics, really. You all quickly board the vessel and wrestle control from the Sprigatitos swarming the decks of the craft, moving throughout the various levels to uncover the strange secrets and find any stowaways. 
+
+Meanwhile, the cave has you find that traitorous Turning Trails, accompanied by that Meowscarada that fled on the same ship your group is taking back. With a loud rumbling, the ship slides off the shore and floats once more. Taking the opportunity, everyone regroups and flees, nearly being caught by the impressively fast trickster cat. As you sail away successfully, you can't help but wonder what they needed this for. An... ultimate treasure?
 
 !!! info (11/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #SQ05 Local Treasures
 After meeting the dubiously-titled Professor Salandit and his assistant, he hires your group to seek out a lost tablet from the Marrow Tribe that was stolen by bandits. Retrieving the old text, a recounting of the tribe's foundation, Salandit offers payment and suggests that he'll consider hiring you for more assistance. Although the mission was a success, and you've established some connections, you can't help but feel there's something off about the whole ordeal...
@@ -93,5 +96,9 @@ The group visits the Marrow Tribe after an invitation from Cubone. There, they s
 !!! (12/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #06 Echoing Forest
 
 !!! note (12/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV04 Fleeting Twilight
+The gaggle of ghosts and the 'mons you rescued from the ashen forest have decided upon trying to break into the quarantine house that keeps Skipper the Froakie's mother. Against better judgement, most of you head in to ascertain what exactly is causing the affliction. Trying all you might, it only seems Skipper, his friends, and the bar's ghostly regulars are rewarded for their bravery with... the sight of Skipper's mother attempting to end the little Froakie. This... is more than just a normal disease.
 
 !!! (12/12/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #07 Holy Grounds, Holy Airs
+Hired by the elders of the clans, you're all tasked with ferrying a large offering (one that requires multiple 'mons to even lift it) across the stretch of the Dragonhymn, a holy site for many within these lands. Howling wind buffets you at every step you take, and your group struggles to keep everything from flying away. It doesn't particularly help that the ferals of the dungeon, something that they did not inform you of, seem keen on making everything incredibly difficult. As you battle your way through against nature and foe, you arrive at an impasse, when the only way is up.
+
+Taking the chance, you ride the winds up with the plated offering, landing safely above. Quickly, you learn that it must be deposited into the wind tunnel, and you watch your hard work literally swept away by the winds. It seems that had always been the intention. Shortly afterwards, a mesmerizing sight streaks across the sky... a falling meteor... followed by an explosion in Baram!
