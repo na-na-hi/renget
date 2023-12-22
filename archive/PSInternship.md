@@ -186,7 +186,7 @@ Akagi glanced around at all the kids and scratched her head. "And I'm Akagi Sanp
 
 "Where's the rest of the Popsy agency?" the blonde boy asked eagerly.
 
-"I don't think there's any room for us in here," Yui said. "We're supposed to stay with you during the week for a month."
+"I don't think there's any room for us in here," Yui said. "We're supposed to stay with you for a month."
 
 "Uh, frankly this is it- and we'll get bunkbeds or something," Akagi said with a sigh. 
 

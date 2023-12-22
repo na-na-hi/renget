@@ -73,9 +73,7 @@
 > 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC，随机事件需要手动开关，其余为自适应，使用参考笔记）
 
 ##测试预设 V4.3：
-> 当前版本4.3beta2
-> 
-> [酒馆预设V4.3beta2](https://files.catbox.moe/mrghxp.json) 须clewd 4.7(0)以及酒馆1.10.7以上，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
+> 最新测试预设：[4.3betaX](https://discord.com/channels/1134557553011998840/1185059580552675378)
 > 
 > [Risu预设4.0beta1](https://files.catbox.moe/mb1dro.json) Risu可以不用最新的clewd，但由于NSFW和越狱只有一个开关，所以NSFW没有写入，如需要推荐自行写在你的personal里面
 >

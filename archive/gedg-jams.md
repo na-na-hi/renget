@@ -11,3 +11,5 @@
 ->
 ![none can stop the slam jam](https://i.imgur.com/3D2Ve19.jpg)
 <-
+
+[The compendium](https://rentry.org/gedg)

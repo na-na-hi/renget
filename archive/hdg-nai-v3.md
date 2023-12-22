@@ -84,7 +84,12 @@ Tags such as `@_@` ([wiki page](https://danbooru.donmai.us/wiki_pages/@_@), usag
 This is analogous to the web UI's "hires fix" feature. Enhance, by default, will upscale your image by a factor of x1.5, and perform img2img on it with a  denoise strength of `0.5`. The rationale for doing this is to improve generation resolution and (potentially) detail, while being able to preserve composition of the image (generating from nothing at higher resolutions tends to cause the model to "hallucinate" due to going beyond what resolutions the model was trained on). 
 
 #### Why does it seem like part of my prompt is being ignored?
-This may be due to the fact you've overloaded your prompt with too many terms or conflicting tags, but also potentially due to what seems to be a bug in NAI's tokenizer. NAI supports up to 225 tokens, but these are split up into chunks of 75. Anons have noticed that the tokens between and at these chunks, corresponding to `74`, `75`, `76`, `149`, `150`, and `151`, get ignored. This can be partially remedied by restructuring your prompt to be below 74 tokens (so no chunking happens at all), or replacing the tokens within this token chunking area with a series of commas, like `, , ,`
+This may be due to the fact you've overloaded your prompt with too many terms or conflicting tags, but also potentially due to what seems to be a bug in NAI's tokenizer.
+
+~~NAI supports up to 225 tokens, but these are split up into chunks of 75. Anons have noticed that the tokens between and at these chunks, corresponding to `74`, `75`, `76`, `149`, `150`, and `151`, get ignored. This can be partially remedied by restructuring your prompt to be below 
+74 tokens (so no chunking happens at all), or replacing the tokens within this token chunking area with a series of commas, like `, , ,`~~
+
+**This bug has now been fixed as of 2023-12-21.** https://boards.4chan.org/h/thread/7719716#p7720067
 
 #### What is the cutoff date for training data NAI used?
 It is estimated to be sometime during Summer 2023.

@@ -2,7 +2,7 @@
 
 Welcome to the Game and Engine Development General or [/gedg/](https://boards.4channel.org/g/gedg) Compendium.
 
-We have a [wiki](https://wiki.installgentoo.com/wiki/Gedg)! If you find a helpful resource, make sure to add it there.
+We have a [wiki](https://wiki.installgentoo.com/wiki/Gedg)! If you find a helpful resource, make sure to add it there. 
 
 Also check out our IRC channel [#/g/gedg on rizon](https://qchat.rizon.net/?channels=/g/gedg)!
 
@@ -17,6 +17,18 @@ paste your code here
 Feel free to post about what you are working on by sharing code, pics, or [making webms](https://wiki.installgentoo.com/wiki/WebM).  The feedback will drive you to keep working! The general is also receptive to in depth conversations on emulation and modding, but you should take questions like "what roms are best?" or "what emulator should I use and how do I configure it?" to [/emugen/](https://boards.4channel.org/vg/emugen).
 
 If you want relevant resources or other additions to the compendium,  ask FroggyGreen !!UYKMqlVW9eC who maintains it. Strong disagreements about the contents of the compendium amongst posters or with Froggy can be handled by holding a vote of what should and shouldn't be present. In the worst case scenario, the markdown file can be easily taken and other posters can branch out with what they think is best. 
+
+New thread template
+
+>/gedg/ Wiki: https://wiki.installgentoo.com/wiki/Gedg
+>IRC: irc.rizon.net #/g/gedg
+>Previous Progress Day: https://rentry.org/gedg-jams
+>/gedg/ Compendium: https://rentry.org/gedg
+>/agdg/: >>>/vg/agdg
+>previous:  previous thread here
+>Requesting Help
+>-Problem Description: Clearly explain the issue you're facing, providing context and relevant background information.
+>-Relevant Code or Content: If applicable, include relevant code, configuration, or content related to your question. Use code tags.
 
 A lot of the links use rentry.org, if .org is down try .co instead.
 

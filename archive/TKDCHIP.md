@@ -798,3 +798,15 @@ files.catbox.moe/qb9tgo.mp4 New  12/20/23
 
 >Definite proof foreign fighters are urkainian 
 https://files.catbox.moe/b3jso2.jpg New  12/20/23
+
+>Hezbollah publishes scenes of the targeting of the “Avivim” settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border.
+https://pomf2.lain.la/f/kx03kepb.webm New  12/21/23
+
+>7 Ukrainian fighters who were fighting for the Israeli occupation forces in the Shuja’iya neighborhood were killed on December 14, after they were spotted on Hassanein Street.
+https://files.catbox.moe/yc0q0f.mp4 New  12/21/23
+
+>A comparison between Al-Qassam and IDF combat footage
+https://files.catbox.moe/9zwmeh.mp4 New  12/21/23
+
+>#Watch.. Scenes of a Zionist officer sniping with a Qassam “Ghoul” rifle east of the Jabalia camp in the northern Gaza Strip #Al-Aqsa_Flood
+https://files.catbox.moe/rfvtag.mp4  12/21/23

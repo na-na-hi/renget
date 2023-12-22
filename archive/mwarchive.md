@@ -33,6 +33,10 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - Part 2 - 1.6 GB - 7,500 images
 - https://pixeldrain.com/u/pihroCdD
 
+- December Archives
+- Part 1 - 2.1 GB - 9,100 images
+- https://pixeldrain.com/u/8nzpjwVp
+
 - /POL/ memes from non-MWG threads
 - October to November - 1 GB - 5,200 images
 - https://pixeldrain.com/u/dbFX6hea

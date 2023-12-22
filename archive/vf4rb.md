@@ -1,39 +1,39 @@
 #Margaret Megamelon's /hpgg/ writing.
 
 ##Main Story: 
-https://rentry.org/kuwby 	Day 0: The Sorting Ceremony (Includes: "dyke"anon, Haitham)
-https://rentry.org/exvx2 	 Day 1: Potions (Includes: My)
-https://rentry.org/bamt3 	Day 2.1: The Swim (Includes: Amelia, Haitham)
-https://rentry.org/wawos 	Day 2.2: The Toad (Includes: Alice)
-https://rentry.org/4h5ve 	 Day 3: The Swan Escaped (Includes: Hannah, Alice, Rout)
-https://rentry.org/uwuqc 	Day 4: DADA (Includes: Hannah, My, Roman )
-https://rentry.org/ohmbo   Day 5: Hogsmeade 
-https://rentry.org/iha5df    Day 6: Astrolonomy (Includes: My, Fitness Club)
-https://rentry.org/8odhg    Day 7: Transfiguration (Includes: My)
-https://rentry.org/6nsom   Day 8: Charms (Includes: Elizabeth)
-https://rentry.org/3445a    Day 9: Herbology (Includes: My, Rout)
-https://rentry.org/nuasvt   Day 10: The Lecture (Includes: Fitness Club, Alice)
-https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
-https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
-https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
+2 https://rentry.org/kuwby 	Day 0: The Sorting Ceremony (Includes: "dyke"anon, Haitham)
+3 https://rentry.org/exvx2 	 Day 1: Potions (Includes: My)
+4 https://rentry.org/bamt3 	Day 2.1: The Swim (Includes: Amelia, Haitham)
+6 https://rentry.org/wawos 	Day 2.2: The Toad (Includes: Alice)
+7 https://rentry.org/4h5ve 	 Day 3: The Swan Escaped (Includes: Hannah, Alice, Rout)
+8 https://rentry.org/uwuqc 	Day 4: DADA (Includes: Hannah, My, Roman )
+9 https://rentry.org/ohmbo   Day 5: Hogsmeade 
+11 https://rentry.org/iha5df    Day 6: Astrolonomy (Includes: My, Fitness Club)
+17 https://rentry.org/8odhg    Day 7: Transfiguration (Includes: My)
+18 https://rentry.org/6nsom   Day 8: Charms (Includes: Elizabeth)
+19 https://rentry.org/3445a    Day 9: Herbology (Includes: My, Rout)
+21 https://rentry.org/nuasvt   Day 10: The Lecture (Includes: Fitness Club, Alice)
+26 https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
+27 https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
+28 https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
 
 ##MA Story:
-https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
-https://rentry.org/3k3z5   Day 1: Herbology (Includes: Elizabeth)
+30 https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
+31 https://rentry.org/3k3z5   Day 1: Herbology (Includes: Elizabeth)
 ##Extra Stories
-https://rentry.org/bzfno   Extra: Amortentia 
-https://rentry.org/yyx5o   Extra: The Job (Boss Fight) (Includes: Alice, Penny, My)
-https://rentry.org/x3ifp     Extra: The Grey Arts (Includes: Adrian)
-https://rentry.org/caeua   Extra: I'd RATher die (Starring: Someone, Includes: Megamelons)
-https://rentry.org/bm2v9 Extra: You forced my hand. (Starring: Someone, Includes: Megamelons)
-https://rentry.org/nyema  Extra: Gryffindor vs Hufflepuff (Includes: Amelia, Haitham, Ava, Matthew, Elizabeth, Heather, Alice)
-https://rentry.org/9xd48   Extra: A brief history of Megamelons
-https://rentry.org/ztsww   Extra: Saving Penthesilia Parley (Includes: Many anons)
-https://rentry.org/4cpmwk Extra: Midnight Walk (Starring: My)
-https://rentry.org/n35aak Extra: A Peaceful Nap (Includes: My)
-https://rentry.org/p75bi Extra: Florana's Gift (Includes: Florana, Haitham)
-https://rentry.org/4i89a Extra: A Strange Concoction (Includes: Amelia, Faolan, Garland)
+1 https://rentry.org/bzfno   Extra: Amortentia 
+5 https://rentry.org/yyx5o   Extra: The Job (Boss Fight) (Includes: Alice, Penny, My)
+10 https://rentry.org/x3ifp     Extra: The Grey Arts (Includes: Adrian)
+12 https://rentry.org/caeua   Extra: I'd RATher die (Starring: Someone, Includes: Megamelons)
+13 https://rentry.org/bm2v9 Extra: You forced my hand. (Starring: Someone, Includes: Megamelons)
+15 https://rentry.org/nyema  Extra: Gryffindor vs Hufflepuff (Includes: Amelia, Haitham, Ava, Matthew, Elizabeth, Heather, Alice)
+16 https://rentry.org/9xd48   Extra: A brief history of Megamelons
+20 https://rentry.org/ztsww   Extra: Saving Penthesilia Parley (Includes: Many anons)
+23 https://rentry.org/4cpmwk Extra: Midnight Walk (Starring: My)
+24 https://rentry.org/n35aak Extra: A Peaceful Nap (Includes: My)
+25 https://rentry.org/p75bi Extra: Florana's Gift (Includes: Florana, Haitham)
+29 https://rentry.org/4i89a Extra: A Strange Concoction (Includes: Amelia, Faolan, Garland)
 
 ##One time
-https://rentry.org/mt832  Extra: A Blessing in Disguise (Starring: Margaret's parents) *WARNING: Romance, kissing* 
-https://rentry.org/v94ys  Extra: ??? *WARNING: Bullying*  only added for archiving's sake, I did NOT enjoy writing this at all.
+22 https://rentry.org/mt832  Extra: A Blessing in Disguise (Starring: Margaret's parents) *WARNING: Romance, kissing* 
+14 https://rentry.org/v94ys  Extra: ??? *WARNING: Bullying*  only added for archiving's sake, I did NOT enjoy writing this at all.

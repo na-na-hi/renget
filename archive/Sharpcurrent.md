@@ -28,6 +28,8 @@ Stat: Attack  |  Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Attribute: Tracking | Tier  **ɪɪ** | 2/3 | ▮▮▯
 Attribute: Foraging | Tier **ɪɪ**| 2/3 | ▮▮▯
 Attribute: Precision Shooting | Tier **ɪɪɪ** | 3/3 | Fully Trained
+Training for Move: Snipe Shot | ᴛʀᴀɪɴᴇᴅ | 5/5 | Fully Trained
+Training for Move: Acrobatics | Tier **ɪɪɪ** | 3/5 | ▮▮▮▯▯
 
 ### Misc. Information
 Below is information not necessarily important to playing as a Noble.

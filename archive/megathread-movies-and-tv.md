@@ -25,10 +25,6 @@
 
 # 📑 ➜ Direct Downloads
 
-### 🐐 [50TB: Part 1](https://mega.nz/folder/iYQ3SYbA#_o9eO4o1eiCd8QsCTU7iUw)
-- Extraordinary selection of movies ready for instant access through the MEGA file service.
-- [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)
-
 ### 🐐 [17TB: Criterion Collection](https://mega.nz/folder/Jk8RjIBA#_dTNthUX3LL7OwSaauqIpw)
 - Incredible assortment of classic films, accessible for lightning-fast direct download thanks to the MEGA file service.
 - [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)

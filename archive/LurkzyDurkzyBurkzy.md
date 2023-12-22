@@ -1,12 +1,12 @@
-#LURKz's Furbo and Claude 2/2.1 Presets 
-##->Updated - 21 Dec (Furbo)<-
+#LURKz's Furbo and Claude 2/2.1 Presets
+##->%darkgreen%Updated%% - 21 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
 	-> For now, this preset will be geared towards storyline with a hint of NSFW, as opposed to Coom (Incest, NTR, Voyeurism etc...). This will not be the preset to use if you're after a quick coom. However, if you like Saviorfagging, Adventure/Fantasy, Slowburns, Survival etc..., this will be better suited for you!<-
 !!! note Updates 
 	-> 20 Dec - **LovellStreak** (Furbo). Reordered certain instructions in ==\==PREFERENCES\=\=== to give them higher weightage, and modified how AI should decide on Acts in the codeblock. Responses have been promising so far, and results, seen in [Logs](https://rentry.org/LURKzLogs), seem good! I've deleted my ==\==SEXO\=\=== prompt, as I felt it wasn't good enough and disoriented too much from the storyline. It may or may not be added back, based on whether I want my preset to focus more on storyline (Adventure/Fantasy) as opposed to just straight Coom/Sexual responses.<-
 
-	-> 21 Dec - **TenWishes** (Furbo). I don't even know. Where am I?<-
+	-> 21 Dec - **TenWishes** (Furbo). ~~I don't even know. Where am I?~~ Modified instructions to prevent {{char}} from assuming {{user}}'s actions/dialogues in order to progress the story-arc.<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -14,27 +14,27 @@
 ***
 [TOC3]
 ***
-###->Presets<-
+####%green%->Presets<-%%
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/0ozyxt.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/0ozyxt.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/615fax.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/615fax.zip)
 
 ***
-####->Comprehensive guide on importing presets into ST<-
+#####%lightgreen%->Comprehensive guide on importing presets into ST<-%%
 ->![Guide](https://files.catbox.moe/izgdto.png)<-
 ***
-####->Hiding the codeblock<-
+#####%lightgreen%->Hiding the codeblock<-%%
 ->This will hide the codeblock in {{char}}'s responses, but will still be eating up tokens. This is purely if you find the codeblock distracting, and serves no other purpose besides reducing visual clutter. **THIS ONLY APPLIES FOR MY FURBO PRESET.**<-
 Config | Code
 :----: | :----:
 ![RegEx](https://files.catbox.moe/6aifym.png)   | /\```[\s\S]*?```/g
 
 ***
-###-> Misc JB for Furbo<-
+###%green%-> Misc JB for Furbo<-%%
 ->*Some random JB's I've frankenstied that can be used in addition to my preset for very specific scenarios and cards, featuring my trademark overbloated and unoptimized flair.*<-
 ***
-####->**Offensive**<-
+####%lightgreen%->**Offensive**<-%%
 ->**Important Note!**<-
 ->ENSURE the Jailbreak prompt is attributed to "System", not "User" or "AI".<-
 ![Note](https://files.catbox.moe/337c5p.png)

@@ -5,13 +5,13 @@
 
 !!! info -> [Click here for a compact and organized version of the list!](https://rentry.org/anonstardewmodstldr) <-
 
-Last added mod/update 231128
+Last added mod/update 231221
 Updated Localization Files 230111
 
 **Newest additions:**
 Loli Vincent seasonal portraits, MilkTheVillagers - with Morgan, 
 **Recent updates:**
-Anon's dialogue edits (231128), Morgan marriage mod (230719),
+Ashley and Spooky mod (231221), Beebz mod (231221), Anon's dialogue edits (231128), Morgan marriage mod (230719),
 **Recent reuploads**
 Jas marriage mod (230929),
 
@@ -78,10 +78,12 @@ https://files.catbox.moe/2o1rsw.zip
 ![kuruminha](https://files.catbox.moe/qbtcot.png)
 Allows you to 'adopt' Kuruminha (turning her into a roommate but with wife dialogue) by gifting an item called Second Key, which you can buy from Pierre once you reach 10 hearts with her. Only includes new marriage dialogue, Leo's old dialogue, events and schedule is unmodified so things may clash a little.
 https://files.catbox.moe/kg8n3x.zip
->Beebz mod
+
+>Beebz mod **(Updated)** 231221
 ![beebz](https://files.catbox.moe/l0rgmp.PNG)
-"there's 5 events and some hidden content. enjoy marrying the rude brat. merry christmas."
-https://files.catbox.moe/boqsut.zip
+"1 more event, Ashley's sauna support, some mod crossover dialogue, and minor improvements and bug fixes."
+https://files.catbox.moe/cwe6a3.zip
+
 >Loli Haley megapack
 ![loli haley](https://files.catbox.moe/3wjnn5.png)
 Use GenericModConfig or edit the config file to change portraits.
@@ -138,10 +140,12 @@ https://files.catbox.moe/ux5m3f.zip
 Contains all loli Penny portraits and sprites, including anthro. Includes freckles and some touched up portraits. Read the README.
 [Full preview pic](https://files.catbox.moe/5mfq7a.png)
 https://files.catbox.moe/hywusk.zip
->Ashley and Spooky mod  **(Updated)** 230120
+
+>Ashley and Spooky mod  **(Updated)** 231221
 ![BOO](https://files.catbox.moe/cqzr1p.png)
-A small bugfix. "Made an update for the Ashley and Spooky mod, it adds a few outfits, three heart events, a few interactions with the Beebz mod and a sauna. Once you unlock the sauna Ashley, Spooky, Recette, Tear and Madotsuki will hang out in it on wednesdays". Jas now included.
-https://files.catbox.moe/qmygik.7z
+Small update for Ashley and Spooky, it fixes the couple schedule issues with the newest Beebz mod update.
+https://files.catbox.moe/cr1mtq.7z
+
 >Anon's Spooky booba portraits and sprites 
 ![BOOba](https://files.catbox.moe/rjh4oe.PNG)
 You need the base Ashley and Spooky mod.

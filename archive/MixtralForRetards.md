@@ -38,20 +38,9 @@ Several Anon's made presets for Silly Tavern that seem to work well if you just 
 https://files.catbox.moe/b6034u.json
 
 >/SillyTavern/public/instruct/Mixtral-Simple.json
-https://files.catbox.moe/jn7475.json
+https://files.catbox.moe/nsfxac.json
 
 >/SillyTavern/public/TextGen Settings/Mixtral-Simple.json
-https://files.catbox.moe/54myfu.json
-
-**Mixtral-Test:**
-
->/SillyTavern/public/context/Test-Mixtral.json
-https://files.catbox.moe/kg20w2.json
-
->/SillyTavern/public/instruct/Test-Mixtral.json
-https://files.catbox.moe/l3uxyn.json
-
->/SillyTavern/public/TextGen Settings/Test-Mixtral.json
 https://files.catbox.moe/54myfu.json
 
 **Mixtral-Roleplay V2:**
@@ -60,20 +49,10 @@ https://files.catbox.moe/54myfu.json
 https://files.catbox.moe/cpogzc.json
 
 >/SillyTavern/public/instruct/Mixtral-Roleplay v2.json
-https://files.catbox.moe/kh7xyy.json
+https://files.catbox.moe/x1pwmf.json
 
 >/SillyTavern/public/TextGen Settings/Mixtral-Roleplay v2.json
 https://files.catbox.moe/hjlo3e.json
-
-**The first version of Mixtral-Roleplay:**
->/SillyTavern/public/context/Mixtral-Roleplay.json
-https://files.catbox.moe/l2vze6.json
-
->/SillyTavern/public/instruct/Mixtral-Roleplay.json
-https://files.catbox.moe/yy0s1o.json
-
->/SillyTavern/public/TextGen Settings/Mixtral-Roleplay.json
-https://files.catbox.moe/0esacl.json
 
 ---
 
@@ -142,7 +121,8 @@ Conclusion. Try both and see what works better for you.
 
 ---
 
-Some suggested settings for Mixtral for creative use, more Temperature = more "creativity". For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you can probably find a balance between creative and correct. You can increase context up to 32K if you have the ram.
+Some suggested settings for Mixtral for creative use, more Temperature = more "creativity". For logic tests / coding you might want to use something like top k 1 to get rid of the "randomness" instead though you can probably find a balance between creative and correct. You can increase context up to 32K if you have the ram. NOTE: I suggest using Dynamic Temp and Noisy Sampling if your backend supports it. It works really well for Mixtral: https://www.reddit.com/r/LocalLLaMA/comments/180b673/i_need_people_to_test_my_experiment_dynamic/
+https://github.com/ggerganov/llama.cpp/issues/3483
 ![](https://i.imgur.com/2Q3J9VQ.png)
 (The Ban EOS Token part depends on what you want as it will trail off without it checked (up to the response length) but might also end its response early with it.)
 

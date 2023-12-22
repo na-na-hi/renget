@@ -931,3 +931,22 @@ Fuwawa's natto braps...
 >months later thousands of unknowing fans rate that song as their favorite
 
 -> * * * <-
+
+## >>64550099
+
+I probably wouldn't let Fuwa fart into my mouth. But I would let Moco blast her girly ass gas right down my gullet. Actually, I'd let Fuwa do it too. Actually, I'd let both of them shit down my throat. I'd deep throat mocos turds without even a tear running down my eye, because those turrds were made by her cute little abusable, bullyable tummy. I'd squeeze her tummy like she was a tube of toothpaste. My tongue the toothbrush.
+
+-> * * * <-
+
+## >>64656903
+
+I want to bury my nose deep in Moco-chan's crack and wait.
+I hope there's a day in the near future where she gets over her fear of Natto and starts eating it like her sister, leading to lots of bloating and loud, embarrassing farts as her stomach starts to get used to the fermented bean. They wouldn't even be super stinky, but just enough to make sure there's no mistake that it was her releasing her gas into the air.
+
+-> * * * <-
+
+## >>64900339
+
+i want to suck a wet bubbly fart directly out of Gura's asshole. You know the kind, feels wet and hot, stains the panties a bit, bubbles up from the asshole and through the pussy lips, and smells like sulfuric vegetable garbage. I want to suck one of those out of her butthole, then push my tongue into her colon and search for more. I'd love to get her to push like she's trying to do a shit while my tongue is buried in her tight little bum. I i push it in far enough perhaps even the tip of my tongue might touch something solid. Striking literal gold. Delicious shark nuggets. You might think that's gross, but this is the cutest girl that has EVER existed, and if you wouldn't show your love by accepting her most precious private gifts, you are a homosexual.
+
+-> * * * <-

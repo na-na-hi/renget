@@ -1080,4 +1080,69 @@ https://nitter.net/MintPressNews/status/1737564229098525129#m  12/20/23
 >Malaysia just banned Israeli shipping giant ZIM from entering its ports. The decision follows a mass campaign to block a ZIM ship. Malaysia also banned any ship enroute to Israel from docking in its ports or any ships flying an Israeli flag
 https://nitter.net/broseph_stalin/status/1737369105865290129#m  12/20/23
 
->
+>The occupation army announced the death of Sergeant Levi Jehasi as a result of a missile attack on a house where #Israeli forces were holed up in #Gaza.
+- The first photo of Levi taken by the occupation army
+- The second photo of Levi taken by the resistance
+
+It is noteworthy that the operation was documented by Al-Qassam on 11/11/2023, meaning more than a month ago
+The occupation, with its censorship policy, delayed announcing his death until today
+https://nitter.net/ME_Observer_/status/1737810964660068774#m  12/21/23
+
+>BREAKING: The US has backed down from plans to attack the Houthis after threats of all-out war by 2 million troops of the Yemeni Ansarullah group. According to the Associated Press (AP), military ships from the US-led alliance will be positioned to provide air defence umbrellas to as many ships as possible at any given time. Basically, they will fire missiles worth $2 million to intercept a $2,000 Yemeni drone.
+https://twitter.com/IranObserver0/status/1737806086323712121?  12/21/23
+
+>Press coverage: “Hebrew sources: #Hamas fighters infiltrated areas that the army felt - until two weeks ago - were safe.”
+https://twitter.com/ME_Observer_/status/1737734875590131977  12/21/23
+
+>GAZA IS FIGHTING BACK
+Even after 75 days of genocide against Palestinians, Hamas is still firing rockets at the Israeli occupation in the Gaza envelope all the way to Tel Aviv. I thought Hamas was “crippled” and are “mass surrendering”? Doesn’t look like it.
+https://nitter.net/HadiNasrallah/status/1737799255388049895#m  12/21/23
+
+>Lebanon: Al-Manar correspondent: Enemy warplanes launch an air strike on the town of Kafr Kila in southern #Lebanon
+https://nitter.net/ME_Observer_/status/1737838650224980335#m  12/21/23
+
+>Al-Qassam Brigades: Our mujahideen were able to snipe two Zionist soldiers in the vicinity of the Palestine Mosque in #Gaza City and confirm that they were seriously injured in the head and fell from the vehicles.
+https://nitter.net/ME_Observer_/status/1737855120501878953#m  12/21/23
+
+>The revenue of Eilat marine port has reportedly dropped by 80% due to the Houthis' closure of the Red Sea in protest of Israel's inhumane blockade on Gaza.
+https://nitter.1d4.us/QudsNen/status/1737866783585914966#m  12/21/23
+
+>Breaking | The Euro-Med Human Rights Monitor: "We have received reports that the Israeli army has stormed the Dahyan School in the Sheikh Radwan neighborhood in western Gaza, detaining and leading men. There are concerns about the Israeli army carrying out field executions around the Sheikh Radwan"
+https://nitter.1d4.us/QudsNen/status/1737868422388633954#m  12/21/23
+
+>Lebanon: The Islamic Resistance announces the targeting of the “Metulla” and “Ramot Naftali” settlements with missile weapons and damaged of a number of residential buildings there.
+https://nitter.net/ME_Observer_/status/1737877168158319011#m  12/21/23
+
+>Hamas: We tried to keep them alive but Netanyahu insisted on killing them
+https://nitter.net/AryJeay/status/1737877758619906089  12/21/23
+
+>The highlights of the speech of the spokesman for the Martyr Izz al-Din al-Qassam Brigades, Abu Ubaida, a few minutes ago :
+https://nitter.net/ME_Observer_/status/1737880910891020515  12/21/23
+
+>Unconditional American support for Israel, coupled with American impunity, is enabling it to commit more crimes against humanity. Palestinians analyst Marwan Bishara, on Al-Jazeera English, discusses how the U.S. government is facilitating Israel in committing these crimes and observes the changing standards and values.
+https://nitter.1d4.us/QudsNen/status/1737905662590361941#m  12/21/23
+
+>Exclusive sources for the “Quds News Network”: 7 Ukrainian fighters who were fighting for the Israeli occupation forces in the Shuja’iya neighborhood were killed on December 14, after they were spotted on Hassanein Street.
+https://nitter.1d4.us/QudsNen/status/1737929346248007881#m  12/21/23
+
+>"Israeli" losses announced by the resistance today:
+- 41 soldiers wounded/dead
+- 15 vehicles damaged/destroyed 
+- 8 tanks damaged/destroyed
+- 1 drone downed
+https://twitter.com/AoR3138/status/1737937378105344249  12/21/23
+
+>Iran: President Ebrahim Raisi: The first step that must be taken by Islamic countries is to sever relations with the Zionist entity
+https://nitter.net/ME_Observer_/status/1737934554789249191#m  12/21/23
+
+>Activists call for a global day of action on January 13 to demand a ceasefire in Gaza.
+https://nitter.1d4.us/QudsNen/status/1737949551888076982#m  12/21/23
+
+>Bahrainis protest against their government participating in the naval coalition defending "Israeli" ships
+https://nitter.net/AoR3138/status/1737950881532751936#m  12/21/23
+
+>Reports on the Israeli pilots involved in the airstrikes that targeted hospitals and civilians in Gaza have been published by Nournews.
+Tal Zahavi, pictured on the left, boasting over 23 years in the Israeli Air Force, has been involved in air operations against civilians in Gaza for the past 73 days, including the bombing of Deir al-Balah's residential areas on October 19 and November 7, and the bombing of Rafah on October 26 and December 12, leading to the tragic killing of at least 675 Palestinians, including 230 children.
+
+Guy Isaac Alon, pictured on the right, has also been actively involved in the last 73 days, participating in the bombing of two hospitals, namely Gaza's Baptist Hospital and Al-Shifa Hospital. He also played a role in the bombing of six mosques, Al Amal Hospital in Khan Yunis, as well as other densely populated civilian areas, resulting in the tragic killing of at least 500 Palestinians, including 165 children.
+https://nitter.net/MintPressNews/status/1737832949935149536#m  12/21/23

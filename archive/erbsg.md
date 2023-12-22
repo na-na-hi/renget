@@ -9,7 +9,6 @@ https://store.steampowered.com/app/1049590/Eternal_Return/
 \>News
 https://playeternalreturn.com/posts/news/1633 (1.11 Patch Notes)
 https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
-https://event.playeternalreturn.com/ER_Season2 (Season 2 Hub)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=KqDLrvrl_p0
@@ -51,8 +50,9 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://playeternalreturn.com/posts/news/1567 Barbara Emotes, ~12/31)
-https://event.playeternalreturn.com/newcharacter/70th/Tsubame/?hl=en-US (Tsubame Event, ~1/3)
+https://event.playeternalreturn.com/newcharacter/70th/Tsubame (Tsubame Event, ~1/3)
 https://playeternalreturn.com/posts/news/1634 (Drops, ~1/3)
+https://playeternalreturn.com/posts/news/1636 (Holiday, ~1/18)
 
 \>Codes
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1

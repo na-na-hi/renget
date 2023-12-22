@@ -49,10 +49,6 @@
 
 # 📑 ➜ Direct Downloads
 
-### 🔗 [Anime Time](https://www.animetime.pw/)
-- Anime encoding and direct downloads in high quality for all anime lovers.
-- [URL Safety Results](https://www.urlvoid.com/scan/animetime.pw/)
-
 ### 🔗 [Anime Tosho](https://animetosho.org/)
 - Free, fully automated service that mirrors most Nyaa and Tokyo Toshokan torrents onto several direct download file hosting providers.
 - [URL Safety Results](https://www.urlvoid.com/scan/animetosho.org/)
@@ -88,10 +84,6 @@
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - Easy-to-navigate site and a large collection of anime series, including downloads from some of the most popular subbers.
 - [URL Safety Results](https://www.urlvoid.com/scan/tokyoinsider.com/)
-
-### 🔗 [ToonWorld4All](https://toonworld4all.me/)
-- Complete concentration on kid-friendly anime, cartoons, and television programmes with subtitles in English and Hindi.
-- [URL Safety Results](https://www.urlvoid.com/scan/toonworld4all.me/)
 
 &nbsp;
 

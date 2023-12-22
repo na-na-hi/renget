@@ -187,9 +187,9 @@
 - Japanes and Korean reader that is speedy and has a large library of comics, including manga, and webtoons.
 - [URL Safety Results](https://www.urlvoid.com/scan/bato.to/)
 
-### 🌸 [ComicK](https://comick.app/)
+### 🌸 [ComicK](https://comick.cc/) / [2](https://comick.ink/)
 - Very quick, free reader with a huge comics database including manga, manhua, and manhwa!
-- [URL Safety Results](https://www.urlvoid.com/scan/comick.app/)
+- [URL Safety Results](https://www.urlvoid.com/scan/comick.cc/)
 
 ### 🌸 [MangaLife](https://manga4life.com/)
 - Huge collection for all genres is available on an ad-free manga website where readers may read thousands of manga.

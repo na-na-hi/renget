@@ -3,38 +3,39 @@ now back up after the incident has cooled off; probably not going to be updated 
 **Table of Contents**
 [TOC2]
 ##Foreword
-I've decided that the previous thread archive was messy and kind of a pain to scroll through, even with thread numbers, so I've decided to make something a bit more organized. I've decided to move this to rentry.org for several reasons;
-1: no filter means I don't have to fugging bypass it whenever I want to make a vulgar subtitle (and so I can tell Nigger to go fuck himself for being a gay fucking leaf who kept raiding my threads)
-2: fancy formatting
-3: I'll be able to provide links to skip to a certain LP instead of having to scroll through older stuff
-goals for this were:
->add table of contents to allow quick access to recent content
->give each LP a proper summary, including the following: game name, status, description, and notable events
->revise thread subtitles because some are less funny than others
-I think I've accomplished all 3 of those goals with this complete rewriting. 28k characters (as of initially posting this archive) and I'm pretty sure half are subtitles/LP summaries/whatever
+Well, there was a foreword here, but it was mostly just referencing the changes from a pastebin that barely any lurkers have lurked enough to remember (before it was abandoned and basically just left there in old threads that still used it). The main reasons I chose to use this site instead of pastebin were:
+>interface looked cooler
+>no censorship so I can make subtitles use whatever funny words I want them to
+>access to fancy formatting
+>and most importantly, the ability to add a table of contents to alleviate scrolling
 
-If anything seems out of order, then sorry about that, it's just that sometimes I go back to a game in the middle of a LP for some reason or another, or I put a run on hiatus to do something else. If you come across a link to a thread that isn't in the archive, then there's a few possible explanations for that:
-1: The thread in question got raided by underageb&s, schizos, something I'm not mentioning as to not tempt fate, or any combination of those.
+Anyways, welcome to the /vp/ plays thread archive, containing pretty much every noteworthy LP done on this board (excluding totally irredeemable games and LPs that died due to boredom or drama). LPs are listed in chronological order; threads are numbered and labeled in the order they take place in.
+
+If anything seems out of order, then sorry about that, it's just that sometimes I go back to a game in the middle of a LP for some reason or another (usually burning out from one game or hitting a roadblock that kills momentum), or if I put a run on hiatus to do something else.
+
+If you come across a link to a thread that isn't in the archive, then there's a few possible explanations for that:
+1: The thread in question got raided by underageb&s, schizos, something I'm not mentioning as to not tempt fate, manchildren who get angry when someone is sick of their shit, or any combination of those. I won't hide threads for having just a few of these such shitposts but if it seriously gets in the way of thread readability than I'll probably pull them if there isn't a good reason to keep them.
 2: The link was to a thread for a LP that was dropped quickly due to the game either being bland and not interesting enough, or it was unplayably broken.
-3: The link was to a LP that got purged from the pastebin (but not arch.b4k.co) during that DELETE FUCKING EVERYTHING spree after the desolation shitfest. Might overlap with threads removed due to reason 2, if it's not detergent/desolation.
-4: The thread didn't really have any notable content in it. Usually threads that were mostly stalling for writefag, or threads that didn't get bumped for long enough for me to continue. cough trailer/leak season cough
+3: The link was to a LP that got purged from the original pastebin during that DELETE FUCKING EVERYTHING spree after the desolation shitfest. Might overlap with threads removed due to reason 2, if it's not detergent/desolation.
+4: The thread didn't really have any notable content in it. Usually these were threads that were mostly just stalling for writefag, or threads that didn't get bumped for long enough for me to continue, such as if it was during leak/trailer season.
+If it's not linked here, then it probably still exists on some 4chan archive that covers /vp/, **but by looking for it on your own, you agree that you accept the risk of running into particularly bad threads (see missing thread explanation 1) or dead-end LPs.**
 Likewise, if a thread doesn't have a "new thread" link at the bottom, then it likely died because it wasn't bumped in time for me to make a new thread.
 
 LP summaries are color coded - green for completed, blue for ongoing, yellow for on hiatus, and red for softlocked/dropped.
 
-**by the way, if 4chan is broken/down, then join either of these chatrooms (first one uses your mega.nz account, and second is just a discord server; to enter the discord server just show proof that you've lurked reasonably long enough for me to trust you)**
+**by the way, if 4chan is broken/down, then join either of these chatrooms (first one uses your mega.nz account, and second is just a discord server; to enter the discord server just show proof that you've lurked reasonably long enough for me to trust you; only rule is don't be a faggot)**
 https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
 https://discord.gg/ZtVmVWNPu
 
-**PSA: Please be considerate of others, and never reply to bait/trolling/shitflinging posts. It creates an ugly mess that people have to see and scroll through when trying to check the archive, while also motivating the shitposter to return while making you look retarded. The report button exists, use it so that the shitposting will hopefully be deleted before a newfag replies to it.**
+**PSA: Please be considerate of others by NEVER replying to bait/trolling/shitflinging posts. It creates an ugly mess that people have to see and scroll through when trying to check the archive, while also motivating the shitposter to return while making you look retarded. The report button exists, so use it so that the shitposting will hopefully be deleted before a newfag replies to it.**
 
 [TOC2]
 
 ##Rejuvenation V13
 !!! note Status: Completed
-    The LP that started it all. Probably the definition of Early Installment Weirdness - I feel like this had a bit too many forced memes, inconsistencies, disregarded GETs, tripfag drama, questionable decisions, cheese, ragequits, etc. for my liking, but maybe it's just because I was a still-underage shitposter who could still lurk just a bit more. Mostly sparked by discussions in the Reborn threads in late april 2022 about its spiritual successor, and then people making OC involving the game sparked my interest in playing the game for /vp/.
+    The LP that started it all. Probably the definition of Early Installment Weirdness - I feel like this had a bit too many forced memes, inconsistencies, disregarded GETs, tripfag drama, questionable decisions, cheese, ragequits, etc. for my liking, but maybe it's just because I was a still-underage shitposter who could still lurk just a bit more. Mostly sparked by discussions in the Reborn threads in late april 2022 about its spiritual successor, and then people making original content involving the game sparked my interest in playing the game for /vp/.
 	
-	In hindsight, I do find it kinda funny how these threads have somewhat mirrored Rejuvenation's development - starting as a shitty knockoff of Reborn, with a bunch of things that seemed like good ideas at the time but later became cringeworthy in hindsight, with the threads gradually becoming their own thing after enough time. Or if you're more cynical, it could be that these threads were always shit and that the new ones are just a bit less shitty in comparison. Realistically, I'm probably going to start from scratch when v13.5 comes out and start a new save, giving newbros an opportunity to catch up.
+	In hindsight, I do find it kinda funny how these threads have somewhat mirrored Rejuvenation's development - starting as a shitty knockoff of Reborn, with a bunch of things that seemed like good ideas at the time but later became cringeworthy in hindsight, with the threads gradually becoming their own thing after enough time; before eventually a few years of nothing happening involving Rejuvenation before the update that basically killed /vp/ plays. Or if you're more cynical, then it could be that you think these threads were always shit and that the new ones are just a bit less shitty in comparison.
 	
 	Also probably the longest LP I've done, at 63+ threads. Some notable moments include:
 	>The trips GET involving injecting any uber (I chose rayquaza) which ended up as mostly flamebait when it wasn't jobbing, likely being the reason I didn't use it much (hey, at least it got a cameo in Exile parts 22 and 34)
@@ -153,8 +154,8 @@ https://arch.b4k.co/vp/thread/52259578/ 15 victory road broke
     Also includes the cutscene that combined the writer's barely disguised fetish, extreme cutscene stupidity, and shitty rewards for completing a terribly executed slog - the three things I hate the most in fangames - to cause me to ragequit, which caused an incident that lead to an anon taking up a tripcode and continuing after I burned out. It's technically a dragon monotype if you include pangolins, kaijus, and assorted reptiles as "dragons".
    
     Like the Wack threads, this playthrough also had some overlap with other LPs; in this case, the latter 2 threads overlapped with Pokemon Opal, albiet the short scrapped playthrough I did before I burnt out because the game didn't get good until like 12 hours in or whatever.
-    If wagiedos doesn't return by the time I hear about the next Empire update I'll probably redo this playthrough and experience the clusterfuck myself.
 !!! danger also if you didn't see the disclaimer next to the second empire playthrough, you really should not play this shit
+    if you're retarded enough to ignore the many warnings on this page not to play this, then you honestly deserve the suffering
 
 https://arch.b4k.co/vp/thread/51366462/ 1 emergency landing
 https://arch.b4k.co/vp/thread/51368760/ 2 writefag pls
@@ -322,7 +323,7 @@ if anyone thinks they can salvage this, check the mega folder's wack save backup
 
 ##Rejuvenation: Kaizoshit Edition
 !!! note Status: Completed (thank fucking god this is over)
-    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a kaizo hack of Rejuvenation v13. I guess it'll keep us occupied long enough for writefag to return and for v13.5 to release. Currently being done by Wagiedos.
+    This was supposed to be a LP of Rejuvenation's first published version, but that didn't last long enough to get past the title screen because the game crashed on launch, with or without debug mode. Instead, someone posted a download link for what's basically a kaizo hack of Rejuvenation v13. I guess it kept us occupied long enough for writefag to return and for v13.5 to release (editing in december 2023; that update was a huge fucking letdown). Currently being done by Wagiedos.
     Oh, and the modder disabled tailwind (for the player only) which is LITERALLY 1984, alongside a vast assortment of other bullshit like adding pulse3 for certain opposing pokemon only (gives them all their abilities at once), blatantly illegal EVs, cancerous lack of item availability while opponents freely get high tier items, etc. while freely giving high tier pokemon, pseudo-legendaries, legendaries, mythicals, etc. to opposing teams, while sabotaging player access to items or actually usable pokemon.
 !!! danger DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
     DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT DO NOT DOWNLOAD THIS SHIT
@@ -359,8 +360,8 @@ https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
 
 ##Wagiedos's Desolation Nuzlocke
 !!! note Status: Completed
-    It's a nuzlocke of Desolation ran by the other main tripfag, Wagiedos. Hopefully this attempt won't cause Wagie to ragequit due to padding and shitty mapping.
-    There's pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause will apply instead.
+    It's a nuzlocke of Desolation ran by the other main tripfag at the time, Wagiedos. This was actually completeable, surprisingly, even with RNG issues.
+    Run was done pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause was applied instead.
 
 https://arch.b4k.co/vp/thread/54113040/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54115313/ 2 obligatory ghost area
@@ -382,7 +383,8 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 
 ##Reborn Multi-LP
 !!! note Status: Completed
-    It's a reborn LP, except we have like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
+    It's a reborn LP, except we had like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
+    Likely the only multi-LP that didn't have any major incidents. 
 
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
@@ -414,49 +416,8 @@ https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
 https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
-##Empire Multi-LP
-!!! danger Status: it's fucking over, also allegedly this caused Wagiedos to commit suicide which likely started the threads' death spiral
-    We tried playing pretentious political """satire""" & societal criticism: the fangame again, despite my countless warnings.
-    Expect literally everything to be changed for no reason, cancerous pacing issues, stallfaggotry on half of all generic trainers, and most of the pokemon basically just becoming fakemon wearing the skin of mons they used to be.
-    There's a reason most of the players dropped out before the third badge. **Please do not play this shit ever, and it is (You)r duty to report and ignore anyone shilling this garbage**
+## Endless Trash
+!!! info Status: Ongoing
+    It's a fangame named after the average post quality of /vp/.
 
-https://arch.b4k.co/vp/thread/54459801/ 1 opening pandora's box
-https://arch.b4k.co/vp/thread/54467380/ 2 dude weed lmao
-https://arch.b4k.co/vp/thread/54471901/ 3 nice op, retard
-https://arch.b4k.co/vp/thread/54478434/ 4 a huge and desolate map
-https://arch.b4k.co/vp/thread/54485576/ 5 THE MAD BULL IS COMING
-https://arch.b4k.co/vp/thread/54489115/ 6 the writer's barely disguised fetish
-https://arch.b4k.co/vp/thread/54497333/ 7 checked
-https://arch.b4k.co/vp/thread/54506876/ 8 obligatory oversized city map
-https://arch.b4k.co/vp/thread/54524291/ 9 more puzzle and shitmap hell
-https://arch.b4k.co/vp/thread/54535690/ 10 north is going to get raped in prison
-https://arch.b4k.co/vp/thread/54541474/ 11 retarded puzzle hell
-https://arch.b4k.co/vp/thread/54548761/ 12 the fucking macguffins are ruining everything and HOLY SHIT HEXES GET
-
-##/vp/ plays Bingo/filler content while waiting for something better
-!!! note Status: Concluded
-   This was basically just trying to make filler LP-grade games bearable by playing Bingo with the squares being common tropes & cliches in fangames.
-!!! danger also there's probably several good reasons most of these struggled to last more than a few threads
-
-https://arch.b4k.co/vp/thread/54597569/ eternalorder1 shit game ragequit speedrun any%
-https://arch.b4k.co/vp/thread/54604396/ uranium1 retard makes worst fangame designs, asked to cease and desist
-https://arch.b4k.co/vp/thread/54623584/ uranium2 /vp/ try not to respond to obvious trolls/shills challenge (impossible)
-https://arch.b4k.co/vp/thread/54636740/ uranium3 orevald dies from shitty fakemon designs, again
-https://arch.b4k.co/vp/thread/54651587/ detergent1 autism
-https://arch.b4k.co/vp/thread/54656958/ detergent2 fun fact, the faggot modder behind this goes by the name "low effort"
-https://arch.b4k.co/vp/thread/54664566/ detergent3 literally empire
-https://arch.b4k.co/vp/thread/54670452/ detergent4 asset theft my beloved
-https://arch.b4k.co/vp/thread/54675739/ detergent5 more kaizoshit i guess
-https://arch.b4k.co/vp/thread/54682608/ detergent6 it's finally over
-https://arch.b4k.co/vp/thread/54695331/ realidea1 is it really that hard to not break what isn't broken
-https://arch.b4k.co/vp/thread/54700010/ realidea2 boobies
-https://arch.b4k.co/vp/thread/54707624/ realidea3 many milfs but not enough writefags
-https://arch.b4k.co/vp/thread/54719646/ realidea4 that was fast
-https://arch.b4k.co/vp/thread/54730680/ gaia1 man this is dated
-https://arch.b4k.co/vp/thread/54744384/ gaia2 that was faster (final filler thread for now)
-
-##Rejuvenation v13.5 Multi-LP
-!!! danger Status: ![set sail](https://pic8.co/sh/DyuHzS.png)
-    This LP was full of tripfag drama, shitty bait, retards falling for said bait, shills ruining shit, retards whining about someone deciding that sometimes the best option is to hit the bricks, etc. Don't even bother looking for the threads on an archive, as it's really not worth the time and there wasn't even any writefaggotry/drawfaggotry produced as a redeeming factor.
-    And regarding the game itself; the update was pretty much full of fucking nothing; it's just map changes of varying necessity; and on the balancing side, easy shit was nerfed further while stuff that actually needed to be changed got to stay the same or even made way harder than it was in v13.
-    If you really give a shit about the new/rewritten story content just play it yourself instead of trying to keep up with a lets play of the game on what is possibly one of the worst platforms for such a text-heavy game with Essentials' dialog display system.
+https://arch.b4k.co/vp/thread/55105248/ 1

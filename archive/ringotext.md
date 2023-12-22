@@ -8,6 +8,8 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Comfort Assistants: Full Moon](https://rentry.org/cagqk)* | Moona | brap, choco |
+| *[No Time for the Toilet](https://archiveofourown.org/works/52353919)* | Kronii, Haachama | ringo, choco |
 | *[Are You Gwak'ing Your Pants?](https://archiveofourown.org/works/51912754/)* | Kronii, Fauna | choco, ringo |
 | *[Evangeline](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub)* | Fauna | brap, smell |
 | *[Holoshorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Series)* | Various | wedgie, sweat, smell |
@@ -270,6 +272,10 @@
 | [>>62610540](https://rentry.org/ringotext2#62610540) | Suisei | sweat, smell |
 | [>>>/d/10841181](https://rentry.org/ringotext2#d10841181) | Kronii, Haachama | choco |
 | [>>>/d/10848699](https://rentry.org/ringotext2#d10848699) | Calli | brap |
+| [>>64550099](https://rentry.org/ringotext2#64550099) | Fuwawa, Mococo | brap, choco |
+| [>>64656903](https://rentry.org/ringotext2#64656903) | Mococo | brap |
+| [>>64900339](https://rentry.org/ringotext2#64900339) | Gura | brap, choco |
+
 
 ## >>249165
 
