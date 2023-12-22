@@ -7,7 +7,7 @@ Lady Enigma was the middle child of a few siblings under the current patriarch o
 **Origin:** Native | **Occupation:** Songstress
 **Species:** Dewgong | **Faction Affiliation:** Ava'lu Empire
 **Level:** 48 | **House:** House Oasis
-**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Worn Item:** *N/A* | **Clothing:** *A black cape draped across her back, fastened around her neck with a prominent jewel, making her resemble her namesake berry.*
 
 Important Info | Description
 ---- | ----

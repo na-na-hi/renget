@@ -18,7 +18,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xk5dkg.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xk5dkg.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/ccaacq.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/ccaacq.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

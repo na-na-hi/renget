@@ -5,7 +5,7 @@
 
 !!! info 本教程内容及Clewd修改版为原创，限 [Claude破限群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DMbVO8GPhUtu-Kr3vKdZ1fGyNZz2j0VH&authKey=vANqh0NzT3EqbTQpI3TP%2BCp0Z1cpdxHlAMRJFQajRvEc1%2BmPX03Bq7vH6TaYgERU&noverify=0&group_code=704819371) | [类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)  内可无需注明出处，其余任何形式引用请附带此网址
 
-!!! note 目前更新版本4.6，功能说明及历史版本请查看 [Release Notes](https://rentry.org/teralomaniac_clewd_ReleaseNotes)
+!!! note 目前更新版本4.7，功能说明及历史版本请查看 [Release Notes](https://rentry.org/teralomaniac_clewd_ReleaseNotes)
 
 ## Clewd配置
 ##### 准备工作

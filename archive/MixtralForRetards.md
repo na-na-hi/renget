@@ -1,6 +1,6 @@
 #How to mixtral for retards
 
-**Updated 12/20**
+**Updated 12/22**
 
 Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
@@ -47,14 +47,22 @@ https://files.catbox.moe/nsfxac.json
 https://files.catbox.moe/54myfu.json
 
 **Mixtral-Roleplay V2:**
-
 >/SillyTavern/public/context/Mixtral-Roleplay v2.json
+https://files.catbox.moe/f3z91r.json
+>/SillyTavern/public/instruct/Mixtral-Roleplay v2.json
+https://files.catbox.moe/hhf17a.json
+
+Using dynamic temp and noise sampling.
+
+**Mixtral-Roleplay:**
+
+>/SillyTavern/public/context/Mixtral-Roleplay.json
 https://files.catbox.moe/cpogzc.json
 
->/SillyTavern/public/instruct/Mixtral-Roleplay v2.json
+>/SillyTavern/public/instruct/Mixtral-Roleplay.json
 https://files.catbox.moe/x1pwmf.json
 
->/SillyTavern/public/TextGen Settings/Mixtral-Roleplay v2.json
+>/SillyTavern/public/TextGen Settings/Mixtral-Roleplay.json
 https://files.catbox.moe/hjlo3e.json
 
 ---

@@ -166,7 +166,7 @@ Some examples include but are not limited to:
 *Himemiya Reinya* (JP): https://www.youtube.com/@reinya_nya
 *Ariru* (EN): https://www.twitch.tv/ariru_
 *Amahane Hina* (JP): https://www.youtube.com/@hinach.7782
-*Yuna (or Yuki?) of Duo Leveling. Another pink/blue twin pair* (EN): https://www.youtube.com/@DuoLeveling
+*Yuna* (EN): https://www.youtube.com/@DuoLeveling
 *Bun-mii* (EN): https://www.twitch.tv/bun_mii
 *Meicha* (EN): https://www.twitch.tv/meicha
 *Clay More* (JP): https://www.youtube.com/@C_More_oo
@@ -174,6 +174,26 @@ Some examples include but are not limited to:
 *Akarun* (JP): https://www.youtube.com/@Akarunch
 *Nineteen* (JP): https://www.twitch.tv/ninete_en
 *Minya September* (JP): https://www.twitch.tv/minyaseptember
+*Amatsuka Eru* (JP): https://www.youtube.com/@Ama_Eru
+*Remuchii* (EN): https://www.twitch.tv/remuchii
+*Momotsuki Hagu* (JP): https://www.youtube.com/@HAGUch
+*Sakura* (JP): https://www.youtube.com/@sakupi
+*Koito Amuno* (JP): https://www.youtube.com/@KoitoAmuno
+*Lyrica* (EN): https://www.youtube.com/@LyricaCh
+*Mimya* (EN): https://www.youtube.com/@xmimya
+*Houo Reina* (JP): https://www.youtube.com/@reina_startune
+*Nobara* (JP): https://www.youtube.com/@AsmrNobara
+*Inksie* (EN): https://www.twitch.tv/inksie
+*Hoozuki Iriya* (JP): https://www.youtube.com/@hoozukiiriya
+*RLuo* (CN): https://www.youtube.com/@RLuo_0820
+*Marasy Chan* (JP): https://www.youtube.com/@marasychan
+*Ichigo Inuzuka* (JP): https://www.youtube.com/@inuzuka15
+*Pepero Nakajima* (JP): https://www.youtube.com/@PeperoNakajima
+*Ageha Himeragi* (JP): https://www.youtube.com/@HimeragiAgeha
+*Koffie* (EN): https://www.twitch.tv/koffie_ch
+*Metorial* (EN): https://www.twitch.tv/metorial
+*Ganba Ruuko* (JP): https://www.youtube.com/@ganbaruuko
+*Umi Kyoku* (EN): https://www.youtube.com/@UmiKyoku
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -190,12 +210,19 @@ Some examples include but are not limited to:
 *Riria Hikari* (JP): https://www.youtube.com/@RiriaHikari
 *CeciHime* (EN): https://www.twitch.tv/cecihimevt
 *Hinano Ui* (JP): https://www.youtube.com/@HinanoUi
+*Twee* (EN): https://www.twitch.tv/twee
+*Sakuya Azusa* (JP): https://www.youtube.com/@sakuyaazusach.2115
+*Yamakuma Una* (EN): https://www.twitch.tv/yamakumauna
+*Kurumi* (JP): https://www.youtube.com/@IonKurumi
+*Hanahime Mei* (EN): https://www.youtube.com/@HanahimeMei
+*Runie Ruse* (EN): https://www.youtube.com/@RunieRuse
 
 ###Purplish Pink:
 *Hyakumantenbara Salome* (JP): https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
 *Maria Marionette* (EN): https://www.youtube.com/@MariaMarionette
 *Ruki* (CN): https://space.bilibili.com/420249427
-*Sushidog* (EN): https://www.twitch.tv/sushidog 
+*Sushidog* (EN): https://www.twitch.tv/sushidog
+*Kocha* (JP): https://www.youtube.com/@kochaCH
 
 ###Pink Men:
 *Tsukishita Kaoru* (JP): https://www.youtube.com/@TsukishitaKaoru
@@ -224,6 +251,8 @@ Defined as vtubers whose hair is around half *solid* pink (Not highlights or und
 *Punkalopi* (EN): https://www.youtube.com/@Punkalopi
 *Hinano Tachibana* (JP): https://www.youtube.com/@hinanotachiba7
 *Amaki Pururu* (JP): https://www.twitch.tv/amakipururu
+*Abyss Song Syndrome* (JP): https://www.youtube.com/@A_S_Syndrome
+*Nyantasia* (JP): https://www.youtube.com/@nyamafujianzu
 
 ###Pink Accented:
 Defined below.
@@ -234,6 +263,7 @@ Defined below.
 *Ayunda Risu* (ID): https://www.youtube.com/@AyundaRisu
 *Suko* (EN): https://www.twitch.tv/suko
 *Otokagi Mero* (JP): https://www.youtube.com/@otokagimero
+*Plum Pickled* (EN): https://www.youtube.com/@plumpickledch
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

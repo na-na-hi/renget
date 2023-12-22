@@ -526,4 +526,4 @@ Then continue story further using created template as the writing instruction.
 
 #### ACKNOWLEDGEMENT
 !!! info 
-	a huge thanks to **[Hmage](https://dumb.one/gpt/)** who introduced me to CoT back in LGAcord in summer of 2023. his passion to AI, dedication and knowledge are *remarkable*, as well as patience to my stupidity. that rentry is essentially a decapsulation, review and meta-analysis of everything I have learned from him and studied on my own. if not for him - that rentry would have never existed, and CoT would fall to obscurity 🐎🐔
+	a huge thanks to **[Hmage](https://dumb.one/gpt/)** who introduced me to CoT back in LGAcord in summer of 2023. his passion to AI, dedication and knowledge are *remarkable*, as well as patience to my stupidity. that rentry is essentially a decapsulation, review and meta-analysis of everything I have learned from him and studied on my own. if not for him - that rentry would have never existed 🐎🐔

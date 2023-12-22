@@ -1,51 +1,33 @@
 ->/hsrg/ - Honkai: Star Rail General->
 
-Previous: 
+Previous: >>
 
-\>Version 1.6 "Crown of the Mundane and Divine" Special Program
-https://www.youtube.com/watch?v=3TkHmjV0hf8
-https://www.youtube.com/watch?v=uSt1p2BG5EM
+\>Download - https://hsr.hoyoverse.com/en-us/home
 
-\>Download
-https://hsr.hoyoverse.com/en-us/home
+\>1.6 Preview Page - https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
 
-\>1.6 Preview Page
-https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
+\>Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms"
+https://www.youtube.com/watch?v=zLbGzCuxLy4
+https://www.youtube.com/watch?v=OZjpTFdJp0E
 
-\>1.5 Preview Page
-https://act.hoyoverse.com/sr/event/e20231018version-5kx3qh/index.html
+\>Version 1.6 Trailer - "Crown of the Mundane and Divine"
+https://www.youtube.com/watch?v=Y02F-UtpiVw
+https://www.youtube.com/watch?v=EOn_MGgOWYs
 
 \>TGA Candidacy Video: A Story That Never Grows Dull 
 https://www.youtube.com/watch?v=zlOnfjtTBic
 https://www.youtube.com/watch?v=BFCBuPHcjaY
 
-\>Version 1.5 Trailer - "The Crepuscule Zone" 
-https://www.youtube.com/watch?v=w1utY0z9g00
-https://www.youtube.com/watch?v=qVY5qmQVrMo
+\>Current Character Banners: (Argenti, Silver Wolf + Hanya, Lynx, Asta) - https://www.hoyolab.com/article/23404231
 
-\>Argenti Trailer — "Chivalric Romances" 
-https://www.youtube.com/watch?v=PhqU5X_sMPA
-https://www.youtube.com/watch?v=i6kCF9tZDkg
-
-\>Current Character Banners: "Thorns of Scented Crown", "Contract Zero" (Argenti, Silver Wolf + Hanya, Lynx, Asta)
-https://www.hoyolab.com/article/23404231
-
-\>Current Light Cone Banners: (Brilliant Fixation, Bygone Reminiscence || An Instant Before A Gaze (Erudition), Incessant Rain (Nihility))
-https://www.hoyolab.com/article/23404282
+\>Current Light Cone Banners: An Instant Before A Gaze (Erudition), Incessant Rain (Nihility) - https://www.hoyolab.com/article/23404282
 
 \>New Drip Marketing:
-\>"Extraterrestrial Satellite Communication" Black Swan (5\* Wind Nihility)
-https://www.hoyolab.com/article/23554661
-\>"Extraterrestrial Satellite Communication" Sparkle (5\* Quantum Harmony)
-https://www.hoyolab.com/article/23589650
-\>"Extraterrestrial Satellite Communication" Misha (4* Ice Destruction)
-https://www.hoyolab.com/article/23590332
+\>Black Swan (5\* Wind Nihility) - https://www.hoyolab.com/article/23554661
+\>Sparkle (5\* Quantum Harmony) - https://www.hoyolab.com/article/23589650
+\>Misha (4\* Ice Destruction) - https://www.hoyolab.com/article/23590332
 
-\>Daily check-in (With a new 7-day Check-in event)
-https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311
-
-\>Redeemable Codes
-https://hsr.hoyoverse.com/gift
+\>Redeemable Codes - https://hsr.hoyoverse.com/gift
 9TRB7C2LDQBP
 5S9BND25CRBK 
 STARRAILGIFT

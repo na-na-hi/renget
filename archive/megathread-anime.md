@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oEUSYW.png) <-
+-> ![](https://a.imagem.app/oImKUG.png) <-
 
 # ⭐ ➜ [Megathread](https://rentry.co/megathread) / **Anime**
  
@@ -211,7 +211,6 @@
 
 ### 🧲 [Anime Time](https://animetime.cc/)
 - Great place that provides torrents and magnet links and has an easy-to-use search feature
-- Not to be confused with [Anime Time](https://www.animetime.pw/) above ↑ in [Direct Downloads](https://rentry.co/megathread-anime#1-direct-downloads)
 - [URL Safety Results](https://www.urlvoid.com/scan/animetime.cc/)
 
 ### 🧲 [AniDex](https://anidex.info/)

@@ -78,7 +78,11 @@ Assistant:
 > 4.6(12)更新：越狱倒置功能去除，card与example补全功能去除，功能触发标签统一为`<|说明|>`格式，所有符合格式标签除`<|curtail|>`与`<|padtxt|>`外使用后替换为`\n\n`（替换包含两端空白符）
 >
 > 4.7(0)更新：`<|System Role|>`可单独使system role合并为一个`\n\nSystem:`；`<card>`或`<|card|>`不再作为启动标签
-   - **role合并**
+>
+> 4.7(1)更新：正则改为分三次执行，用order属性区分
+	- **一次正则替换**
+		- 格式`<regex order=1>"正则表达式" : "替换内容"<\/regex>`，例如`<regex order=1>"/a/gm" : "b"<\/regex>`意味将正则表达式/a/gm找到的内容替换为b
+   - **一次role合并**
        - 将连续的system和user role合并为一个Human，连续的assistant role合并为一个Assistant（OpenAI格式转Claude格式）
 		==注意== 此功能优先级最高，会影响后面相关功能
 		> 任意位置使用`<|Merge Disable|>`可关闭此功能，关闭后为默认逻辑（连续的相同role会合并，3个或以上的只保留2个）
@@ -91,10 +95,12 @@ Assistant:
     - **自由深度插入**
 		- 格式`/<@(\d+)>.*?</@\1>`，例如`<@1>Hello world</@1>`意味着将Hello world插入深度1（最后的Assistant之下），如果`@2`就是插入深度2（倒数第二个Human之下），依次类推。注意这里的深度与酒馆的深度不同，是经过role合并后的深度
         ==注意== *由于PrevAssistant与PrevHuman的逻辑较为混乱，现在这两种tags将被转换为`<@1>`和`<@2>`使用*
-    - **正则替换**
-		- 格式`<regex>"正则表达式" : "替换内容"<\/regex>`，例如`<regex>"/a/gm" : "b"<\/regex>`意味将正则表达式/a/gm找到的内容替换为b
+    - **二次正则替换（默认）**
+		- 格式`<regex>"正则表达式" : "替换内容"<\/regex>`或者`<regex order=2>"正则表达式" : "替换内容"<\/regex>`，除顺序外与一次无异
 	- **二次role合并**
 		- 与role合并功能无异，以防以上处理后出现遗漏
+	- **三次正则替换**
+		- 格式`<regex order=3>"正则表达式" : "替换内容"<\/regex>`，除顺序外与一次无异
    - **Plain Prompt**
        - `\n\nPlainPrompt:`或`\n\nHuman: *PlainPrompt:`后的所有内容将以prompt形式而非附加txt形式发送（不保留`\n\nPlainPrompt:`），如果最后一句包含`<|Plain Prompt Enable|>`（不会保留在发送数据中）则替换最后的`\n\nHuman:`为`\n\nPlainPrompt:`
    - **消除空XML tags或多余的\n**
@@ -126,6 +132,8 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.7修改版
+- Clewd 4.7(1) added: 当酒馆中模型选择"claude-2.0"或"claude-2.1"时，会自动轮换到对应模型cookie，选择其他任意模型则默认不更换，酒馆换模型后的第一次请求clewd可能会提示轮询中（Polling）报错，为正常现象；`xmlPlot`功能更改，见`xmlPlot`功能说明
+
 - Clewd 4.7(0) added: 增加pro账号的模型选择，其中部分不支持模型将被自动转换为相近模型，与原版相比需要打开`PassParams`使用，注意打开后一般账号只能使用claude-2.1，否则会提示invalid model模型错误，多次模型错误可能引起封号；`xmlPlot`功能更改，见`xmlPlot`功能说明
 
 ## Clewd 4.6修改版
