@@ -26,8 +26,6 @@ In kobold set model to the model...
 Under the tokens tab set Rope Base to 1000000 (that is 1 Million for those that put 100k then complain)
 Context size depends on how much ram you have but 32k is what it was trained up to.
 
-Kobold recently had a update that increased prompt processing speed. Make sure to get the latest.
-
 **NOTE: Apparently Mixtral is extremely sensitive to rep pen compared to other models. You can use them but at very small values otherwise things go haywire and have the opposite effect. Rep Pen 1.0 == off.**
 
 ---

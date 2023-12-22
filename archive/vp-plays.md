@@ -1,5 +1,5 @@
 # /VP/ PLAYS THREAD ARCHIVE
-now back up after the incident has cooled off; probably not going to be updated until there's anything new that's worth providing archive links for
+now back up after the incident has cooled off; probably not going to be updated with new threads for a very long time
 **Table of Contents**
 [TOC2]
 ##Foreword
@@ -23,11 +23,15 @@ Likewise, if a thread doesn't have a "new thread" link at the bottom, then it li
 
 LP summaries are color coded - green for completed, blue for ongoing, yellow for on hiatus, and red for softlocked/dropped.
 
-**by the way, if 4chan is broken/down, then join either of these chatrooms (first one uses your mega.nz account, and second is just a discord server; to enter the discord server just show proof that you've lurked reasonably long enough for me to trust you; only rule is don't be a faggot)**
+**If for you want to contact me, join either or both of these chatrooms. (first one uses your mega.nz account, and second is just a discord server; to enter the discord server's main channels just show proof that you've lurked reasonably long enough for me to trust you; only rule is don't be a faggot)**
 https://mega.nz/chat/1ZtT3CIA#eFDiNoRiELFvxCy1epGLxQ
 https://discord.gg/ZtVmVWNPu
 
-**PSA: Please be considerate of others by NEVER replying to bait/trolling/shitflinging posts. It creates an ugly mess that people have to see and scroll through when trying to check the archive, while also motivating the shitposter to return while making you look retarded. The report button exists, so use it so that the shitposting will hopefully be deleted before a newfag replies to it.**
+If you want to access the archive of pretty much any original content made related to the LPs that's of decent quality or higher; then use this link for the mega folder.
+https://mega.nz/folder/YR9mUALL#z6LqTPdLLSfCvC_XylDKXg
+
+See anything missing, or want to add something to it? Use this link, it's a one way file uploading link that doesn't require an account.
+https://mega.nz/filerequest/QiKdiJPXAXw
 
 [TOC2]
 
@@ -384,7 +388,7 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 ##Reborn Multi-LP
 !!! note Status: Completed
     It's a reborn LP, except we had like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
-    Likely the only multi-LP that didn't have any major incidents. 
+    Likely the only multi-LP that wasn't known for filler content or major incidents. Probably started the downfall of the general due to the obvious problems associated with multiple people tripfagging at once.
 
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
@@ -415,3 +419,5 @@ https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
 https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
 https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
+
+And then all hell broke loose. I think there's some kind of phobia for this but whatever it is, it clearly doesn't count as a phobia anymore because the problem described in the phobia was actually real and something to be justifiably worried about.

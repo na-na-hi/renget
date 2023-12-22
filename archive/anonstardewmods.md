@@ -5,11 +5,11 @@
 
 !!! info -> [Click here for a compact and organized version of the list!](https://rentry.org/anonstardewmodstldr) <-
 
-Last added mod/update 231221
+Last added mod/update 231222
 Updated Localization Files 230111
 
 **Newest additions:**
-Loli Vincent seasonal portraits, MilkTheVillagers - with Morgan, 
+Monster Girls Set, Loli Vincent seasonal portraits, MilkTheVillagers - with Morgan, 
 **Recent updates:**
 Ashley and Spooky mod (231221), Beebz mod (231221), Anon's dialogue edits (231128), Morgan marriage mod (230719),
 **Recent reuploads**
@@ -311,6 +311,9 @@ https://files.catbox.moe/ywhtgd.zip
 
 ##Deleted from Nexus for whatever reason
 ->[\[Back to the top\]](https://rentry.org/anonstardewmods#top)->
+>Monster Girls Set (For CP and Adopt 'n' Skin)
+![Image description](https://files.catbox.moe/lq39i7.png)
+https://files.catbox.moe/d8rytg.zip
 >Seasonal r63 bachelors
 ![Image description](https://files.catbox.moe/q4p5nr.png)
 https://files.catbox.moe/djk4v9.7z

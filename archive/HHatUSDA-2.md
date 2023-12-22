@@ -1,8 +1,6 @@
 ==Previous part: https://rentry.org/HHatUSDA-1==
 
-#Heaven, Hell and the USDA 2
-
-#Divine Intervention
+#Heaven, Hell and the USDA 2: Divine Intervention
 
 "Well yes, but I'm not evil or anything! I'm neutral, you know!" Towa pleaded as she looked Kanata in the eyes and folded her hands, but she only got a cold stare in response. 
 Towa shifted herself around in Kanata's arms to make herself look as non-threatening and pitiful as possible as Kanata's face began to shine and she spread her wings. They had been pitifully small before, but now grew to be much wider and longer. The angel would have looked more beautiful than dangerous - if it wasn't for the many eyes that began to open on her star-shaped halo.

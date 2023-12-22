@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ~~```https://subjective-emperor-mortality-np.trycloudflare.com```~~
+Server URL: ```https://because-imperial-oxide-pop.trycloudflare.com```
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
 **Story string:**

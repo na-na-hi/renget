@@ -1,6 +1,4 @@
-#Heaven, Hell and the USDA 1
-
-#Bottom on Bottom
+#Heaven, Hell and the USDA 1: Bottom on Bottom
 
 "Come on you fucking devil, get your tongue up in there!" the dragon shouted, both amused and aroused.
 

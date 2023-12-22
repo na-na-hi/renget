@@ -669,6 +669,8 @@ Al Qassam Brigades releases footage of three Israeli detainees
 files.catbox.moe/2o0ebj.MP4  12/18/23
 We made with our hands what we harvest your heads with 
 https://files.catbox.moe/e7g2s8.mp4 New  12/20/23
+Scenes of targeting a foot force consisting of 5 soldiers with an anti-fortification missile and clashing with it northwest of Beit Lahia city
+https://files.catbox.moe/kwfq39.mp4  12/22/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -695,6 +697,10 @@ https://files.catbox.moe/orlocp.MOV  12/10/23
 >New Hezbollah Media Videos 
 Hezbollah: The resistance movements will not abandon their responsibilities
 https://files.catbox.moe/7uc2ni.mp4  12/18/23
+Hezbollah publishes scenes of the targeting of the “Avivim” settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border.
+https://files.catbox.moe/ojrqgu.webm  12/21/23
+Hezbollah published a video showing scenes of the targeting of a group of israelis in the Doviv area, achieving a direct hit causing for casualties. This was in response to the targeting of a civilian woman in south Lebanon.
+https://files.catbox.moe/xnpu0s.mp4  12/22/23 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -808,5 +814,21 @@ https://files.catbox.moe/yc0q0f.mp4 New  12/21/23
 >A comparison between Al-Qassam and IDF combat footage
 https://files.catbox.moe/9zwmeh.mp4 New  12/21/23
 
->#Watch.. Scenes of a Zionist officer sniping with a Qassam “Ghoul” rifle east of the Jabalia camp in the northern Gaza Strip #Al-Aqsa_Flood
+>Watch.. Scenes of a Zionist officer sniping with a Qassam “Ghoul” rifle east of the Jabalia camp in the northern Gaza Strip #Al-Aqsa_Flood
 https://files.catbox.moe/rfvtag.mp4  12/21/23
+
+>Leaked footage from a IOF soldier's camera shows the moment that two of them were directly hit with an anti-personnel shell in Shuja'iyya in northern Gaza
+files.catbox.moe/nuotaz.mp4 New  12/21/23
+files.catbox.moe/prhb00.mp4 New   12/21/23  
+
+>Hezbollah publishes scenes of the targeting of the “Avivim” settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border.
+https://files.catbox.moe/ojrqgu.webm  12/21/23
+
+>A million march took place in the Yemeni capital of Sanaa under the slogan, “The coalition to protect 'israeli' ships does not intimidate us.”
+files.catbox.moe/fusqx3.mp4 New  12/22/23
+
+>Scenes of targeting a foot force consisting of 5 soldiers with an anti-fortification missile and clashing with it northwest of Beit Lahia city
+https://files.catbox.moe/kwfq39.mp4  12/22/23
+
+>Fren posted video 
+files.catbox.moe/1bkvcm.mp4 New  12/22/23

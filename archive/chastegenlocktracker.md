@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 19-Dec-2023)_
+_(Updated 22-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -32,5 +32,6 @@ _(Updated 19-Dec-2023)_
 | sissmeup | https://chaster.app/sessions/hBUeU8RrUhInnIqZ | === |
 | Serafel | https://chaster.app/sessions/1nthKquRguNWtXHB | === |
 | Gallant | https://chaster.app/sessions/8s3pD8Zq9raUDgNc | 25-Dec-2023 |
+| ARealGamerBoi | https://chaster.app/sessions/ACRZfa3Dx3DufrWt | Until they finish ALL their chores |
 |  |  |  |
 |  |  |  |
