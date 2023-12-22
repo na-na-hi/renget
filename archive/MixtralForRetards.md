@@ -8,7 +8,10 @@ Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 >https://github.com/kalomaze/koboldcpp/releases/tag/faster-pp-mixtral-kcpp
 
 **Grab the model**
-Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. NOTE: K-QUANTS ARE APPARENTLY STILL HAVING ISSUES. DON'T USE THEM. Use something like Q5_0.
+Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. 
+
+NOTE: K-QUANTS SEEM TO BE THE SOURCE OF ISSUES FOR ALOT OF PEOPLE. DON'T USE THEM. Use something like Q5_0.
+![](https://i.imgur.com/OM0Uq2X.png)
 
 ![](https://i.imgur.com/AA1xKHV.png)
 

@@ -1,5 +1,9 @@
 # HLL Artists Grid
 
+
+[TOC2]
+
+
 Positive:
 ```
 [by x]
@@ -13,8 +17,7 @@ nsfw,
 (worst quality, low quality, normal quality:1.4)
 ```
 `Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 6, Seed: 8675309, Size: 512x768`
-!!! warning 
-	New to a5a/a5b
+## A5A/A5B
 -> ![](https://files.catbox.moe/7hmzl6.png) <-
 > by 40hara, by abmayo , by airi mii , by akagi \(fmttps\) , by akamoku , by alina becker, by alp , by an yasuri , by animeflux , by anyannko 
 
@@ -79,8 +82,7 @@ nsfw,
 >by yoshikawa aimi , by yuuka nonoko , by zakusi , by zanamaoria , by zen33n , by zumi \(zumidraws\) 
 
 
-!!! warning 
-	a5
+## A5
 -> ![](https://files.catbox.moe/e13ru3.png) <-
 > by aquacos, by haneame, by nikumikyo, by fumihiko \(fu mihi ko\), by yakou, by merunyaa, by kakure eria, by dikko, by casino \(casinoep\), by kase daiki 
 

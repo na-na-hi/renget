@@ -415,9 +415,3 @@ https://arch.b4k.co/vp/thread/54421868/ 26 why did fern have to be brought back
 https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
 https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
-
-## Endless Trash
-!!! info Status: Ongoing
-    It's a fangame named after the average post quality of /vp/.
-
-https://arch.b4k.co/vp/thread/55105248/ 1

@@ -8,5 +8,5 @@
 ***
 
 ->![](https://file.garden/ZRdM4mec0nPTUJSr/Rentry%20stuff/have_you_ever_had_a_gay_thought.png)<-
--> [back](https://rentry.co/sodabottle) <-
+-> [back](/liam) <-
 ->![](https://file.garden/ZRdM4mec0nPTUJSr/Rentry%20stuff/coolness%20(1).png)<-

@@ -401,7 +401,7 @@
 
 `EDIE waits for them to settle down. She knots her hands together, rehashes her talking points in her head, and takes a deep breath.`
 
-`EDIE: So, it turns out that the Brit isn't as much of a woman as we thought she was.`
+`EDIE: So, it turns out that Atsushi isn't as much of a woman as we thought she was.`
 
 `Four blank faces stare right back at her until the penny drops.`
 

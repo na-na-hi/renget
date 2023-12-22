@@ -21,10 +21,7 @@
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) and just add it the way you add LoRA
 - [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
-	- [a4 by x portrait examples](https://files.catbox.moe/vycv54.jpg) , [a5a expansion pack](https://mega.nz/file/xWIDlDqZ#ZBVMWubzZV1y_9ufieJEftY2GPZ-ZxiDy0R0N2pcaT8)
-	- [WIP Rentry](https://rentry.org/yxwiu)
-	-  Artist combos [Gallery view](https://catbox.moe/c/6etv3n#)
-- [a5a e621 tags](https://files.catbox.moe/e6jc6i.csv)
+- [HLL/e621 tags](https://files.catbox.moe/e6jc6i.csv)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
 	- Settings > Tag Autocomplete > Extra filename
 - Clip skip -1 is recommended but -2 is fine
@@ -39,13 +36,11 @@
 
 
 ** Putting the previous versions here out of convenience**
-Model | Artist Wildcards | Tags | Changes
-----: | :----: | :----: | :----: 
-[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
-[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
-[a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | ⬆️ | Better look even without tagging artist
-
-
+Model | Artist Wildcards | Artist Examples | Tags | Changes
+----: | :----: | :----: | :----: | :----
+[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [Examples](https://files.catbox.moe/vycv54.jpg), [Combos](https://catbox.moe/c/6etv3n#) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
+[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
+[a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [WIP Rentry](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
 
 ### Comfyui
 - Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)

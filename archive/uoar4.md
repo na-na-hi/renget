@@ -44,6 +44,7 @@ _______
 |Holotori dance video of Niccori Survey Team Theme / にっこり^^調査隊のテーマ (Originally part of [Lui's Birthday Live](https://www.youtube.com/watch?v=nlfGHej2OyA&t=2290))| [![](https://files.catbox.moe/82a0j3.jpg)](https://www.youtube.com/watch?v=4LLS_nWntyI)|
 |HOLOTORI Dance! (First Holotori unit song) \| [Streaming options outside of Youtube](https://cover.lnk.to/HOTOLORIDance)| [![](https://files.catbox.moe/htqjon.jpg)](https://www.youtube.com/watch?v=BcO9bZavHRg)|
 |Holotori dance video of Sekai / セカイ(Originally part of [Lui's Birthday Live](https://www.youtube.com/watch?v=nlfGHej2OyA&t=2614)) |[![](https://files.catbox.moe/ntelqw.jpg)](https://www.youtube.com/watch?v=rTjuiBjd234)|
+|Promise Christmas Medley 2023| [![](https://files.catbox.moe/bwj6av.jpg)](https://www.youtube.com/watch?v=UlsBfDYw2nk)|
 
 ######Music from the 3D showcase
 ->[![Link](https://files.catbox.moe/52ecmx.jpg)](https://www.youtube.com/watch?v=HTgzc9_uAaY)<-

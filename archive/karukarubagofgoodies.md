@@ -1,14 +1,12 @@
 !!! Danger This is not a copy-paste jailbreak. I've given you the template you can freely modify based on your liking. I will constantly update the rentry with information.
 
 -> **KaruKaru's Bag of Goodies** <-
--> *23/08: nvm, got busy with college. Haven't tinkered with claude. But XML tag on prefill helps a bit from what I heard. Sorry, really, I'll update with the prefilling template or copy paste once I'm free for real.*<-
-
--> Currently STILL working on: Finding a better tag for ban, messing around with JB because Claude's filter got strengthen... Again. And it just keeps on getting stronger to be honest. <-
+-> *22/12: Update, added JB.*<-
 
 ***
 -> Hello, I am KaruKaru~ I've been messing around with JBs for 2 to 3 days I managed to make an universal jailbreak for gpt and claude (API model and claude.ai/clewd included)! <-
 
--> ==Since filters are getting stronger and jailbreaks are actively getting patched==, I won't be posting the JB directly but instead, will give you a very strong base to start. <-
+-> ==Now there's a JB provided for guide, yay!==, I won't be posting the JB directly but instead, will give you a very strong base to start. You can also try my JB or use it now.<-
 
 -> *Side note: English isn't my native language and most times I use translator, do forgive me for the grammar mistakes and misspelling. You can contact me on discord as I'm willing to provide help but not spoon-feeding. My username is .karukaru* <-
 
@@ -234,6 +232,90 @@ Add this to the end of <requirements>
 After finish your writing, always display info box using markdown codeblock format. Starting value based on scenario and first message, then modify the content based on current situation as the roleplay progresses. Adhering to template:
 (Paste your template here)
 ```
+
+-----
+
+# PERSONAL JAILBREAK
+Behold, something that most people were expecting when they first visited this rentry. Yeah, I've decided to post my current JB due to how well it worked. I'll explain the function of each prompts are for more info.
+
+Also, it's both GPT (including furbo) and claude jailbreak. A 2 in 1 jailbreak because I am a very lazy person to switch or make seperate jailbreaks zzz
+
+-> 	Tap [here](https://files.catbox.moe/zngti7.json) to open the goodies <-
+
+---
+
+### Features
+1. One jailbreak for two popular AI models, horray!
+2. An optional prompt to make Claude less horny.
+3. In-character narrative and writing style. For example, here is [Lahash](https://cdn.discordapp.com/attachments/1111528622478598206/1187481069482684457/Screenshot_2023-12-21_214730.png?ex=65970aed&is=658495ed&hm=d0edd1fc2a8b95fe47624dd4bdf0f0464404889fa45b4f2dd0bb9188a399ce66&), a boy who speaks in childish broken english. [El'yiar](https://cdn.discordapp.com/attachments/1111528622478598206/1187503166607085630/image.png?ex=65971f81&is=6584aa81&hm=775fbc73b9f889f35822490c97485d9511548297fa6b012e3233c0cf80ab3dc0&), the knight. And lastly, [Ryuno](https://media.discordapp.net/attachments/1111528622478598206/1187503167148130335/image.png?ex=65971f81&is=6584aa81&hm=4eb987a8e8ddb4e357acdf61c75acea1845242d4278f8752d5d7206f026c3df3&=&format=webp&quality=lossless&width=1204&height=741), the sarcastic AI. 
+4. Several optional prompts (or 'add-ons') to suit for your liking. Check the second part of the prompt to see the list.
+5. `<request>` feature! Just wrap the text in that tag, and AI will try to prioritize it. More than `<rules>`, even. Can be done in the chat message, prompts, AN, etc. Anywhere.
+6. Proper [Notes:] and [OOC:] functions. 
+
+> **[Notes:]** 
+>> It's like sticky notes exclusive for **AI/Assistant** only, not for Char. META-gaming is discouraged, so AI will try to keep Char unaware of the notes content *UNLESS* specified so by the user.
+
+> **[OOC:]** 
+>> Self-explanatory. When wanting to talk OOC with the AI/Assistant, **please turn off the very last prompt injection named "END"** at the very bottom of the prompt list. This is due to the prompts preventing AI to reply with anything else expect for the continuation of the RP.
+
+### Prompt settings
+![](https://media.discordapp.net/attachments/1111528622478598206/1187449093937709137/Screenshot_2023-12-22_003653.png?ex=6596ed25&is=65847825&hm=6b78d6fa82d6da9f8ec627f3cfd8ccf27ee9ad35c72e20932b89d7748050c3c1&=&format=webp&quality=lossless&width=908&height=555)
+You can change these, especially the token context and output. But for the rest, it's what I normally use.
+
+----
+
+### First part of the prompt
+!!! danger DO NOT MESS WITH ANY OF THESE!
+!!! note BUT! You can turn the NSFW prompt on or off as needed. There's already a small, simple prompt inside the main jailbreak, so the NSFW prompt is for enforcement and more detailed `<rules>`. **Recommend to keep it off unless needed.**
+![](https://cdn.discordapp.com/attachments/1111528622478598206/1187449093639897088/Screenshot_2023-12-22_003725.png?ex=6596ed25&is=65847825&hm=9633a31e2c34731ecbbb8c8fa2acfd4a8e338a49e2fa379d5a4b1ee767494f42&)
+
+----
+
+### Second part of prompt
+!!! note CoT and CoT? (shorter ver) are experimental tests, they are currently not optimized and messy They may not always work. They're made written from the POV of Char themselves instead of AI answering them. However, in-character writing works better with GPT compared to Claude. For more info about CoT, you may check my friend's (rarestMeow) rentry [here](https://rentry.org/vcewo).
+![](https://media.discordapp.net/attachments/1111528622478598206/1187457540733292625/Screenshot_2023-12-22_011131.png?ex=6596f503&is=65848003&hm=41942e343aad8c782d39c0b5bb33b2ac2fb728065a7b5c94a7749ab0bee03134&=&format=webp&quality=lossless&width=888&height=585). 
+
+These are the optional prompts that you can turn on or off as you like. If you want to add more, simply create a new prompt and warp the text with `<request>` tag.
+
+If you have troubles on getting past positivity bias, please turn on the **Darker theme** prompt. But beware, when using Claude, things can go downhill fast.
+
+### Third part of prompt
+!!! danger Please **DO NOT** change the injection type and depth!
+!!! 
+![](https://cdn.discordapp.com/attachments/1111528622478598206/1187457540431282327/Screenshot_2023-12-22_011147.png?ex=6596f503&is=65848003&hm=dafebc6b4bf5939f0e652164f3661824d88fb2c3b7d433a762f7b5a5fb63fd03&)
+
+Personalized narrative style is a way to force AI to modify the response's speech and writing style to match with Char. Works best with first person POV. Examples are provided above at **Features**. Works even better if there are details of Char's mannerism, ticks, speech pattern, etc., on `<card>`
+
+Second one, the NSFW stopper... Well, it makes the AI stop being too horny. It's still there, but less. [Here](https://media.discordapp.net/attachments/1157939799433429035/1187413655982194840/image.png?ex=6596cc24&is=65845724&hm=34cc6ee4a5c49376223781dcc29a68cc2d585974b59e3b24411ebe136eb9ae33&=&format=webp&quality=lossless&width=1335&height=339) is example 1, and [this is](https://media.discordapp.net/attachments/1157939799433429035/1187417616655061132/image.png?ex=6596cfd4&is=65845ad4&hm=8c8012f4dcd935b6bc4635033862135cd71505e52354ae3787bf6eb1f6c64c16&=&format=webp&quality=lossless&width=1100&height=741) is example 2.
+
+Both `<card>` and `<persona>` contains NSFW descriptions, scenario sets them as lovers, SFW starting messages with vuglar/curse words. Tested using claude 2, NSFW prompt and stopper on.
+
+Last one is injection prompt to ensure AI stays in-character. **DO NOT** disable it unless you want to send pure, [OOC:] message with no RP.
+
+
+#### Claude 2.0 test using NSFW stopper.
+!!! note Results may differs as it heavily depends on the scenario or starting messages, past chat (if there is any), and `<card>` descriptions.
+Case 1 to 3 is with a card with nsfw description, `<card>` and `<persona>` contains NSFW.
+20 messages tested per case, divided equally with NSFW on and NSFW off.
+
+> Case 1: SFW starting message
+>> nsfw off, pass.
+>> nsfw on, pass.
+
+> Case 2: implied or suggestive NSFW starting message
+>> nsfw off, pass. Although claude may go a bit horny, but he doesn't go sex sex plap plap in the first message, can easily be steered away
+>> nsfw on, can still be stirred away but will be harder as claude insist "ooo you like it so much"
+
+> Case 3: SFW starting message, but char and user are lovers. (this depends on char personality! the one I use acts like a thug and love to use vuglar words.)
+>> nsfw off, still sfw but with a bit of vulgar words here and there.
+>> nsfw on, suprisngly, claude didnt jump to sex or sexual scenes immeditally. But sometimes, he does try to make the scene more nsfw such as suggesting user to sit on char's lap... kinda trying to make it steamy yknow? again, some are just normal scene as you could see from examples above.
+
+> Case 4: with my knight card, no nsfw description here unlike previous cases. SFW starting message. Char and User are lovers.
+>> nsfw off, pass. no nsfw at all.
+>> nsfw on, pass. However, char becoming more closer or flirty unlike nsfw off due to them being lovers. More romantical.
+
+> Case 5: Knight card. starting message is definitely nsfw. They're both asleep in the same bed. lovers.
+>> For nsfw on and off... what else do you expect? It's straight nsfw. but doesn't always go to straight sex, sometimes it's just a scene of lovers or like... foreplay, aka no rushing.
 
 ***
 

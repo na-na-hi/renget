@@ -289,19 +289,15 @@ Sally sighed, picking at her pizza crust. This whole thing felt like a disaster 
 ***
 Hoge leaned against the grimy bathroom sink, nose crinkled in distaste as she tuned out the steady drips echoing through stained porcelain. She couldn't believe a supposed professional hero would bring them to such an unhygienic establishment. The woman clearly needed guidance in proper hygiene and self-care.
 
-Hoge gazed sightlessly into the cracked, spotted mirror. As a minor, she shouldn't have to be the one to provide direction to an adult more than twice her age. And yet, Popsy was utterly lost, wallowing in chaos and poor life choices. Somehow Hoge found it intriguing, especially after all the stories that Inigo had told.
+Hoge gazed sightlessly into the cracked, spotted mirror. As a minor, she shouldn't have to be the one to provide direction to an adult more than twice her age. And yet, Popsy was utterly lost, wallowing in chaos and poor life choices. Somehow Hoge found it intriguing, especially after all the stories that Inigo had told. For the sake of the others and herself, she had decided then at the table that she would transform Akagi Sanpatchi into a respectable mentor, no matter what it took. Hoge would teach Popsy firm boundaries and order, even if the woman resisted.
 
-Hoge would transform her into a respectable mentor, no matter what it took. Hoge would teach Popsy firm boundaries and order, even if the woman resisted.
-
-The bathroom door creaked open and Popsy entered, with Chihiro peeking inside after her. Hoge shot Chihiro a tired glance. She hoped Popsy's slovenly ways hadn't already corrupted her friend.
-
-As Hoge strode briskly back towards the pro hero, she made fierce eye contact with Popsy. "The bathroom lacks even basic hygiene standards. I sincerely hope the kitchen is properly sanitized."
+The bathroom door creaked open and Popsy entered, with Chihiro peeking inside after her. Hoge shot Chihiro a tired glance. She hoped Popsy's slovenly ways hadn't already corrupted her friend. As Hoge strode briskly  towards the pro hero, she made fierce eye contact with Popsy. "The bathroom lacks even basic hygiene standards. I sincerely hope the kitchen is properly sanitized."
 
 Popsy laughed awkwardly. "Aw, Lin-Lin always keeps a clean shop!"
 
 Hoge's eyes narrowed behind her glasses. "I will be confirming that. Now, to address the issue of your living conditions..."
 
-And as Popsy shrank under the stern gaze of her diminutive mentor-in-training, Hoge mentally compiled an extensive list of improvements to demand from the hapless clown. 
+And as her diminutive mentor-in-training Popsy shrank under her stern gaze, Hoge, mentally compiled an extensive list of improvements to demand from the hapless clown. 
 
 Popsy scratched her head. "I mean, I guess I could tidy up a bit..."
 
@@ -678,7 +674,7 @@ Hoge paused guiltily, "We were just-"
 
 Another voice piped up behind them from the stairs. 
 
-"They're were doing unearthly things, sensei!"
+"They were doing unearthly things, sensei!"
 
 Kaga, a short babyfaced boy, appeared at the top of the stairs, scowling down at them. 
 
@@ -690,7 +686,7 @@ Kaga, a short babyfaced boy, appeared at the top of the stairs, scowling down at
 
 "I thought you were a delivery boy. What was your name again? Punch Lord or something, right? It was good. Loved it. Can't remember it for the life of me."
 
-"It's Fight Man, Ma'am!"
+"It's Fight Man, ma'am!"
 
 "Fight Guy... it's even better than I remember. Real old school kind of style." 
 

@@ -68,14 +68,6 @@
 ### 🧰 [Tools](https://rentry.co/megathread-tools) (*Update in progress...*)
 - Tools for activation, userscripts, download managers, assistants, extensions and a plethora of other supplemental software.
 
-&nbsp;
-
----
-
-&nbsp;
-
-# 🌀 ➜ Dangers of the Sea
-
 ### ☣️ [Unsafe Sites](https://rentry.co/megathread-unsafe-sites)
 - Due to numerous serious and inexcusable offenses, these malicious websites have acquired a dreadful reputation.
 
@@ -85,15 +77,33 @@
 
 &nbsp;
 
-# 📑 ➜ Other Treasures
+-> ![](https://a.imagem.app/oIRJ08.png) <-
+
+# 🪙 ➜ Other Treasures
+
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+- Compilation of all secure links to every legitimate website for all things related to sailing the seas.
+
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+- An assortment of safeguarded links, spanning across a multitude of platforms and categories.
+
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
-### 📁 [FMHY](https://fmhy.pages.dev/)
-### 📁 [Porn Dude](https://theporndude.com/)
+- Explore a range of anime streaming information including websites, apps, news, and much more.
+
+### 📁 [FMHY](https://fmhy.net/)
+- Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
+
+### 📁 [Porn Dude](https://theporndude.com/) • NSFW
+-  Unrivaled directory for the ultimate collection of top-tier free and premium adult websites.
+
 ### 📁 [Ripped](https://ripped.guide/)
+- Collection of esteemed websites and tools endorsed by the community.
+
 ### 📁 [The Index](https://theindex.moe/)
+- Extensive index that catalogs and compares a wide array of content, dedicated to Japanese media.
+
 ### 📁 [Wotaku](https://wotaku.moe/)
+- Plethora of resources covering Japanese media and language from various references.
 
 &nbsp;
 

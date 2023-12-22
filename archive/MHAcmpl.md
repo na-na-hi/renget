@@ -997,6 +997,9 @@ There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, A
 Showdown - Friendship Endures (Yamata, 108 gang): https://rentry.org/8f9ei
 tournament fallout (The Clique): https://rentry.org/cb5b29
 The death of her innocence (Yamata, 108 Gang): https://rentry.org/gfwgx
+Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight Man): https://rentry.org/PSInternship
+Law-Abiding Hero (Mirror Devil, Smokin' Sexy): https://rentry.org/uoezz
+Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil): https://rentry.org/6cgfyo
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

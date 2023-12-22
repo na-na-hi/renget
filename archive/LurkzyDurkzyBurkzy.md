@@ -1,4 +1,4 @@
-#LURKz's Furbo and Claude 2/2.1 Presets
+#%darkred%LURKz's%% Furbo and Claude 2/2.1 Presets
 ##->%darkgreen%Updated%% - 21 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
@@ -14,27 +14,27 @@
 ***
 [TOC3]
 ***
-####%green%->Presets<-%%
+####->Presets<-
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/615fax.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/615fax.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xk5dkg.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/xk5dkg.zip)
 
 ***
-#####%lightgreen%->Comprehensive guide on importing presets into ST<-%%
+#####->Comprehensive guide on importing presets into ST<-
 ->![Guide](https://files.catbox.moe/izgdto.png)<-
 ***
-#####%lightgreen%->Hiding the codeblock<-%%
+#####->Hiding the codeblock<-
 ->This will hide the codeblock in {{char}}'s responses, but will still be eating up tokens. This is purely if you find the codeblock distracting, and serves no other purpose besides reducing visual clutter. **THIS ONLY APPLIES FOR MY FURBO PRESET.**<-
 Config | Code
 :----: | :----:
 ![RegEx](https://files.catbox.moe/6aifym.png)   | /\```[\s\S]*?```/g
 
 ***
-###%green%-> Misc JB for Furbo<-%%
+###-> Misc JB for Furbo<-
 ->*Some random JB's I've frankenstied that can be used in addition to my preset for very specific scenarios and cards, featuring my trademark overbloated and unoptimized flair.*<-
 ***
-####%lightgreen%->**Offensive**<-%%
+####->**Offensive**<-
 ->**Important Note!**<-
 ->ENSURE the Jailbreak prompt is attributed to "System", not "User" or "AI".<-
 ![Note](https://files.catbox.moe/337c5p.png)
