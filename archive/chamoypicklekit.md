@@ -1,1 +1,1 @@
-chamoy pickle kit
+chamoy pickle kit [YUM](https://rentry.org/jellyfishfield)

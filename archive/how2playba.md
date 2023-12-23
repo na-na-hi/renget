@@ -21,7 +21,7 @@ JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.Blu
 
 Global - [Play Store](https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en_US&gl=US) | [App Store](https://apps.apple.com/us/app/blue-archive/id1571873795) | [QooApp](https://apps.qoo-app.com/en/app/12252)
 
-Global may require a VPN to play, as it is region-locked. JP is region-locked for payments. The only server to avoid would be Korea's server as raids are much, much, MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
+Global may require a VPN to play, as it is [region-locked](https://twitter.com/EN_BlueArchive/status/1456909220058566656). JP is region-locked for payments. The only server to avoid would be Korea's server as raids are much, much, MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
 
 You can't choose which server your start on, so if you wish to start somewhere else you'll need a VPN for it. See 'How do servers work? What server am I in' for more. 
 
@@ -51,8 +51,8 @@ If you experience crashes while playing the game, you should fiddle around in th
 Disclaimer: I used to use Bluestacks5, but now I'm using LDPlayer9.
 You can always switch emulators if nothing works.
 
->I'm getting "Server failed to process request. Returning to title screen.", what do I do?
-Certain countries are blocked from playing Blue Archive, hop on a VPN if you are in one.
+>I keep getting "Server failed to process request. Returning to title screen.", what do I do?
+[Certain countries are blocked from playing Blue Archive](https://twitter.com/EN_BlueArchive/status/1456909220058566656), hop on a VPN if this applies to you.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## (Re)rolling
@@ -83,7 +83,7 @@ Roll until you get 10 points (taken from https://www.youtube.com/watch?v=45dwbZz
 
 You can always ask /bag/ for advice.
 
->What about good units who are only blue or gold (1 or 2 star)?
+>What about units who are only blue or gold (1 or 2 star)?
 ![Good 1/2 Star Students](https://i.imgur.com/nixPYgA.png)
 
 >How do I reroll? (global only) 
@@ -122,11 +122,11 @@ It depends on whether you like or want the other girl too (if applicable).
 
 >I just got a ten roll ticket! Do they expire?
 No.
-The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries and the 10 roll ticket you get from the Elimination (3 colour) raid.
-You get a notification if something in your inventory expires soon.
+The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries and the 10 roll ticket you get from the Grand Raid.
+You get a notification if something in your inventory expires soon, and you can see when they expire in your inventory and in the gacha menu.
 
 >I got the banner unit at my 200th roll. Do I claim her or do I get the other banner unit that I don't have?
-Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so if you don't want the other units on banner claiming the banner unit is totally fine. That being said, having a bigger roster gives you more options and some units increase drops during certain events.
+Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so if you don't want the other unit(s) on banner claiming the banner unit is totally fine. That being said, I recommend claiming an unowned unit. Having a bigger roster gives you more options and some units increase drops during certain events.
 
 >Is there a good planner for banners?
 https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226
@@ -599,7 +599,7 @@ Volume 5 has 1 chapter
 Total: 1560 gems
 
 >WTF I'm stuck in the story help! It's at volume 3 chapter 3 episode 24 (v3 c3 e24) 
-[Hieronymus clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
+[Example clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
 
 >What does D.U. mean?
 District of Utnapishtim.
@@ -636,7 +636,7 @@ Any AP that crosses the max limit (999) gets sent to your bank. It expires in 7 
 For the Schale areas: at rank 10 you unlock receiving choice tickets on top of the regular drops when you're doing your lessons. Pretty neat
 The max rank for an area is 12.
 Increasing ur Total Area Rank also unlocks extra daily lesson tickets, in case you didn't realise. There's a 7th ticket you can unlock at rank 80. 
-When you get a BONUS, it means that students receives double affection point. At Lesson Area 10 it's 15, 11 it's 20, and 12 it's 25. 
+At Lesson Area <10 you get 15 relationship points, Area 11 it's 20, and 12 it's 25.  When you get a BONUS, it means that students receives double the points. 
  
 >Normal Missions
 The XP your students are supposed to get when you manually farm a node gets converted into a grey activity report while sweeping. At certain breakpoints this gets converted into a higher tier report.

@@ -55,6 +55,15 @@ Auto1111 | ComfyUI
 ![](https://files.catbox.moe/tihaoh.png)   | ![](https://files.catbox.moe/mojsq3.png)
 
 ### You don't want to use the method above?
+
+**EPS version**
+[**LS_Kerberos model**](https://huggingface.co/latent-space-dreams/LS_Kerberos/blob/main/LS_Kerberos.safetensors)
+>A mix of EasyFluff, HLL, and LS Vividus.
+- It's all baked in so you can skip the above steps
+- Has some issues with hands unless specified
+- A more standard 1.5 base resolution than EF has as vPRED
+***
+**Raw furry model wrangling**
 - Toggle refiner and set the checkpoint you want
 - Get Adetailer and and toggle separate checkpoint in the inpainting drop-down
 	- leave it on easyfluff for things that aren't faces
@@ -63,6 +72,11 @@ Auto1111 | ComfyUI
 - Optionally put [this LoRA](https://civitai.com/models/104477/de-anime-er) into the prompt and set it to around -.6
 - Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
 - [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC) | [rentry](https://rentry.org/easyfluffcomparison/)
+Example | &nbsp;
+:----: | :----:
+![](https://files.catbox.moe/9ex2b7.png?height=150&width=150) | ![](https://files.catbox.moe/8f0n2e.png)
+
+
 
 ## Optional and Additional
 
@@ -90,7 +104,7 @@ Negative prompt: (worst quality, low quality, normal quality:1.4)
 Steps: 20, Sampler: Euler, CFG scale: 7, Seed: 2082381253, Size: 512x768
 ```
 
-x | rescale
+&nbsp; | rescale
 :----: | :----:
 Auto1111 | ![](https://files.catbox.moe/l8jfj4.png)
 Comfy | ![](https://files.catbox.moe/fb1y7u.png)

@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>Ukrainians to the Canary Islands
+https://files.catbox.moe/hh141a.mp4
+>Sparta drones
+https://files.catbox.moe/kjj9fp.mp4
+>Escort drones
+https://files.catbox.moe/sj0ku0.mp4
+>Hi Drone; Bye Hohol
+https://files.catbox.moe/gvdcah.mp4
 >Life in an Ukrainian trench
 https://files.catbox.moe/l1kdac.mp4
 >AFU abandoning burning Leopard 2A6 hit by artillery
