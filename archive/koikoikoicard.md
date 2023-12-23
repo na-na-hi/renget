@@ -88,3 +88,8 @@ https://files.catbox.moe/4yx7x0.png or https://www.chub.ai/characters/koikoikoih
 *Abiyah, the Princess of Bephelem, whose touch can turn anything into gold - and much, much more.*
 (Contains embedded lorebook and three intros.)
 https://files.catbox.moe/46febq.png or https://www.chub.ai/characters/koikoikoihat/abiyah-189b9f24/main
+
+![Hey there, boyo.](https://files.catbox.moe/361qqq.png)
+*Belessunu, the Last Hero, whose travels are truly endless.*
+(Contains embedded lorebook and seven intros.)
+https://files.catbox.moe/361qqq.png or https://www.chub.ai/characters/koikoikoihat/belessunu-a032b445/main

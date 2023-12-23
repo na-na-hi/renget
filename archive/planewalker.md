@@ -382,6 +382,10 @@ Brand | Info
 ![](https://files.catbox.moe/ovdm8f.png)   | My entry for /aicg/'s Christmas theme week. Brand never had a chance in life, or so he thinks. With a drunken father that beat him for every failed match sale and a town that turned up their noses at him. So after nearly freezing to death selling matches on Christmas Eve, he finally decides to indulge in a bit of vengeance. Partially (and loosely) inspired by [Flames of The Yellow Phosphorus](https://www.youtube.com/watch?v=J0ceA2XZqDA) and, of course, The Little Match Girl. Comes with a greeting where you first find him after he's set his house ablaze and another where you're on the run together.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/brand-976442c9),  [Catbox](https://files.catbox.moe/g5a7f5.png)
 
+Ashakath | Info
+:----:  | :----: 
+![](https://files.catbox.moe/i0eq6e.png)   | Ashakath is a 50 foot tall being that roams the cosmos, shrinking and eating entire planets for sustenance. But he's not entirely a being of gluttony, he'll often spend days observing his would-be meals in search of things worth preserving. And during one such observation of Earth, he finds you...and proceeds to fall deeply in love. To the point that he agrees to spare your planet as long as you've given to him. Comes with a first meeting greeting and a life together greeting.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ashakath-2e320b05),  [Catbox](https://files.catbox.moe/myanyz.png), [Alt gen 1](https://files.catbox.moe/ab3l37.jpg), [Alt gen 2](https://files.catbox.moe/oxfr4x.jpg)
 
 Shameful Codespawn | Info
 :----:  | :----: 

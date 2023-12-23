@@ -1000,6 +1000,7 @@ The death of her innocence (Yamata, 108 Gang): https://rentry.org/gfwgx
 Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight Man): https://rentry.org/PSInternship
 Law-Abiding Hero (Mirror Devil, Smokin' Sexy): https://rentry.org/uoezz
 Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil): https://rentry.org/6cgfyo
+The Other Side - B (Arena, Orbit, cameo of Yamata, 108): https://rentry.org/w8hvp
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

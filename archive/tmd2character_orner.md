@@ -8,7 +8,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 10 | **Experience to Next Level:** 70/100
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 840₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 345₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,7 +46,7 @@ Glare | Orner looks straight into your soul, freezing you in place.
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 2 points to spend.
-    3/10 IP | ▮▮▮▮▮▮▯▯▯▯
+    6/10 IP | ▮▮▮▮▮▮▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Sales Pitch | The User can sell Items for 10% more in shops.	| 40 IQ	| 3 IP
@@ -59,7 +59,7 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
 Attribute: Sea Snake |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
-Attribute: Sailing |  Tier **ɪɪɪ** | Orner is well trained in sea faring.
+Attribute: Sailing |  Tier **ɪɪɪ** | Orner has well trained sea legs, without the legs.
 Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar
@@ -71,10 +71,10 @@ Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Eᴍᴘᴛʏ | Vacant inventory slot.
-*Equipped Item: Eᴍᴘᴛʏ | Vacant inventory slot.
-1. Pecha Berry | Heals Poison status.
-2. Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
+*Worn/Held Item: Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
+*Equipped Item: Pecha Berry | Heals Poison status.
+1. Shadow Gummi | Ghost Types like these.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

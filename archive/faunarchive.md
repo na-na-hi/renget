@@ -974,5 +974,16 @@ Set list (stream starts at 1:27):
 
 [warosu](https://boards.4channel.org/vt/thread/61694712#p61697655)
 
+##### Imomushi stream
+was censored and superchat part is lost forever. sorry
+
+##### Christmas karaoke
+[2023-12-22](https://youtu.be/hClcyJTy_Ec)
+
+[magnet](magnet:?xt=urn:btih:c7c6dca11fe2bebacbca1681c25ef76d6efe21c3&dn=%5B20231222%5D%20Unarchived%20Christmas%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
+[gofile](https://gofile.io/d/Q9zMjo)
+[audio only](https://mega.nz/file/NpYiVaQJ#EBWF7RudBBIRfq2bC3u_qVHum8RMfueSb381f22LdE0)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

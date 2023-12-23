@@ -74,7 +74,7 @@
 **Bubble** | [1918420](https://assets.clip-studio.com/en-us/detail?id=1918420) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/84/1918420/thumbnail?1665862733)
 **Bubble #2** | [1940454](https://assets.clip-studio.com/en-us/detail?id=1940454) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/04/1940454/thumbnail?1665862796)
 **Bubble #3** | [1940713](https://assets.clip-studio.com/en-us/detail?id=1940713) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/07/1940713/thumbnail?1665862812)
-
+**Or did you brush (やたかブラシ)** | [1952649](https://assets.clip-studio.com/en-us/detail?id=1952649) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/26/1952649/thumbnail?1682591668)
 
 -> [**[TOP]**]() ->
 

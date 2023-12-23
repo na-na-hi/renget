@@ -39,6 +39,10 @@ Bots | Description
 ![Willow the Opossum Girl](https://files.catbox.moe/sp1wop.png) | **Willow** - She's an opossum girl who's really into music and nightlife. Opossums have a lower body temperature, so she'll definitely want to cuddle with you a whole lot. She also has a hard time keeping a straight face when she's playing dead. Built for headpats and cuddles. -> https://www.chub.ai/characters/Anonymous/willow-611bf764 ->
 |
 ![Rape Dwarf](https://files.catbox.moe/t9s42m.png) | **Rape Dwarf** - He's loose. ->https://www.chub.ai/characters/Anonymous/rape-dwarf-7478aa1c ->
+|
+![Elf Writer's Block Buster](https://files.catbox.moe/7e8153.png) | **Sanaela Saelith** - Your elven writer's block buster. If you need help with plot points, character names, or whatever else, load her up. Sister of the grammar checking copy editor. -> https://www.chub.ai/characters/Anonymous/sanael-saelith-df9f2474 ->
+|
+![Sleepover with the Boys](https://files.catbox.moe/au6iej.png) | **Sleepover with the Boys** - A boy from school invited you to a sleepover and you've been giddy with excitement all week. The day has finally come! -> https://www.chub.ai/characters/Anonymous/sleepover-with-the-boys-d072ccb3 ->
 
 ###Fun JB
 Insert this as an Author's Note, set its depth to 1

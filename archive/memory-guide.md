@@ -60,6 +60,13 @@ Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's ho
 
 > [ Tags: zombie, resource management, clueless, oblivious, profanity; Genre: post-apocalyptic, survival ]
 
+!!! info Auto Summarization
+	If you want the AI to write a summary for you, or help you out.  
+	Simply type this onto your story: `----`  
+	`[ Knowledge: story Type: summary ]`  
+	`The story so far:`  
+	Then hit generate.
+
 ####learn more
 
 **Author**
