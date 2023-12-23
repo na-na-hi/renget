@@ -664,9 +664,9 @@ Inigo whirled around, face flaming. "P-Popsy-sensei! We were just, uh..."
 
 Hoge sighed, flushing as she turned her attention to Popsy, her expression annoyed.
 
-Popsy planted her fists on her hips, glaring sternly. Although her eyes twinkled.
+Popsy planted her fists on her hips, glaring sternly. 
 
-"As your teacher I got a duty to nurture budding talents, not budding romance!" She wagged a finger at them. "I might have to stick you two in different corners for the whole internship!"
+"As your teacher I got a duty to nurture budding talents, not budding romance!" She wagged a finger at them. "I'm gonna have to stick you two in different corners for the whole month!"
 
 Inigo immediately protested. "No! Don't do that! We're working hard, I swear!" He grabbed Hoge's hand supportively. "Right? She just took a tumble and I caught her."
 
@@ -676,7 +676,7 @@ Another voice piped up behind them from the stairs.
 
 "They were doing unearthly things, sensei!"
 
-Kaga, a short babyfaced boy, appeared at the top of the stairs, scowling down at them. 
+Kaga, a short babyfaced boy, appeared at the top of the stairs, scowling down at them.  "Unearthly things!"
 
 "Can it kid, nobody likes a tattletale! And who in the blazes are you?" Popsy pointed.
 
@@ -684,7 +684,7 @@ Kaga, a short babyfaced boy, appeared at the top of the stairs, scowling down at
 
 "Oh yeah!" She ran her finger through her hair. 
 
-"I thought you were a delivery boy. What was your name again? Punch Lord or something, right? It was good. Loved it. Can't remember it for the life of me."
+"I thought you were a delivery boy. What was your hero name again? Punch Lord or something, right? It was good. Loved it. Can't remember it for the life of me."
 
 "It's Fight Man, ma'am!"
 

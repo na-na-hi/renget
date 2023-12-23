@@ -1,8 +1,62 @@
-#**Extended List of Story Updates from edition #2462 - #2773**
+#**Extended List of Story Updates from edition #2462 - #2790**
 
-Text File Version: https://files.catbox.moe/e0yi2y.txt
+Text File Version: https://files.catbox.moe/hr2m9f.txt
 /hmofa/ Masterbin: https://rentry.org/hmofa
 Contact: azuhmier@gmail.com (Questions or Suggestions?)
+
+---------#2790 [ Fri 22 Dec 2023 ]
+
+By Hills_of_Mud
+`Forgotten Places (Ch. 15)`
+https://archiveofourown.org/works/46543378
+
+By Spaceface404
+`Prey (Ch. 11)`
+https://archiveofourown.org/works/48868201
+
+---------#2788 [ Wed 20 Dec 2023 15:44:53 ]
+
+By TriAnnulment
+`Logs of the Erebus`
+https://archiveofourown.org/works/52392448
+`This Little Bunny Brat`
+https://archiveofourown.org/works/52185499
+
+---------#2785 [ Mon 18 Dec 2023 13:11:41 ]
+
+By Bed_Man
+`The Queen's Kiss in: An Eggsellent Job`
+https://archiveofourown.org/works/52338868
+
+---------#2783 [ Sat 16 Dec 2023 20:18:29 ]
+
+By spicyhazard
+`The Snerd (Ch. 8)`
+https://archiveofourown.org/works/46939222
+
+---------#2780 [ Thu 14 Dec 2023 06:03:08 ]
+
+By Hoss
+`Road to the Olympics`
+https://archiveofourown.org/works/52241662
+
+---------#2779 [ Wed 13 Dec 2023 08:53:46 ]
+
+By Regguj
+`Natasha (Ch. 8 & 9)`
+https://archiveofourown.org/works/52066309
+
+---------#2777 [ Mon 11 Dec 2023 22:01:30 ]
+
+By SouthwesternCrunchwrap
+`A New Herd`
+https://www.sofurry.com/view/2081397
+
+---------#2776 [ Mon 11 Dec 2023 08:31:17 ]
+
+By Kaktus_nsfw
+Bug in the Stars (Ch. 14 [Cont. from "A warm mist began to proliferate into the room."])
+https://archiveofourown.org/works/36819391
 
 ---------#2772 [ Thu 02 Nov 2023 16:18:27 ]
 
@@ -14,17 +68,6 @@ By YellowNoteAnon
 `Red Vignette`
 https://archiveofourown.org/works/52093405
 
----------#2770 [ Thu 02 Nov 2023 16:18:27 ]
-
-By Regguj
-`Natasha`
-https://archiveofourown.org/works/52066309
-
----------#2769 [ Thu 02 Nov 2023 16:18:27 ]
-
-By Hills_of_Mud
-`Forgotten Places (Ch. 12 & 13)`
-https://archiveofourown.org/works/46543378
 
 ---------#2768 [ Thu 02 Nov 2023 16:18:27 ]
 
@@ -87,10 +130,6 @@ https://rentry.org/svsca
 By Kaktus_nsfw
 `Novus Ad Astra`
 https://archiveofourown.org/works/51830005
-
-By TRINITY-CANCELLATION
-`This little bunny brat.`
-https://pastebin.com/PkccXVfS
 
 ---------#2757 [ Thu 02 Nov 2023 16:18:27 ]
 
@@ -160,23 +199,11 @@ By AberrantGunman
 `A Night Out`
 https://archiveofourown.org/works/51154042
 
----------#2721 [ Thu 26 Oct 2023 22:39:37 ]
-
-By Spaceface404
-`Prey (Ch. 10)`
-https://archiveofourown.org/works/48868201
-
 ---------#2714 [Fri 20 Oct 2023 19:49:08]
 
 By SweatshirtWearingViper
 `My Petrochemical Romance (Ch. 6)`
 https://archiveofourown.org/works/44438539
-
----------#2712 [Thu 19 Oct 2023 08:30:16]
-
-By Kaktus_nsfw
-`Bug in the Stars (Ch. 13 [Cont. from “Provided neither side is on high-alert.”])`
-https://archiveofourown.org/works/36819391
 
 ---------#2710 [Mon 16 Oct 2023 21:15:30]
 
@@ -208,6 +235,13 @@ By VigorousTVP
 `Mark of Shame (Ch. 9)`
 https://archiveofourown.org/works/43496038
 
+---------#2691 [ Thu 28 Sep 2023 18:21:30]
+
+By Mattariel
+`Of Void (Ch. 9)`
+https://archiveofourown.org/works/45532363
+https://www.sofurry.com/view/2054659
+
 ---------#2685 [Sat 23 Sep 2023 06:55:23]
 
 By PapaDelta
@@ -237,12 +271,6 @@ https://archiveofourown.org/works/28149387
 By idontwantthis
 `Altruistic Intent (Ch. 10)`
 https://archiveofourown.org/works/30398889
-
----------#2671 [Mon 11 Sep 2023 15:22:14]
-
-By spicyhazard
-`The Snerd (Ch. 8)`
-https://archiveofourown.org/works/46939222
 
 ---------#2670 [Sun 10 Sep 2023 16:33:06]
 
@@ -310,7 +338,6 @@ https://archiveofourown.org/works/49647613
 
 By Kaktus_nsfw
 `A Lord's Change of Plans`
-[][]
 https://archiveofourown.org/works/49451926
 
 ---------#2646 [Mon 21 Aug 2023 16:07:02]

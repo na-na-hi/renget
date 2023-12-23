@@ -128,7 +128,7 @@ Yellow Gummi | Gives +10 IQ points to Electric-Types. Gives +5 to other types. T
 Tasty Honey | Gives +20 IQ points to any type upon consumption. Just like it says in the name. | 1,000₽
 Wonder Gummi | Gives +100 IQ points to any type upon consumption. Alternatively, may award 1 random Tier 1 IQ skill. Tastes like the best thing ever. | 4,000₽ 
 Rainbow Gummi | Gives a permanent +1 IP to your maximum value. Can be used twice for a total of +2 IP to the maximum value. | 4,000₽
-Nasty Food | Upon consumption, gives the user an equal 25% chance to be hit with either *Paralysis* (Rolls 1-5), *Confusion* (Rolls 6-10), *Burn* (Rolls 11-15), or *Poison* (16-20). Even Poison-Types tremble in fear of this mystery. | 5₽
+Grimy Food | Upon consumption, gives the user an equal 25% chance to be hit with either *Paralysis* (Rolls 1-5), *Confusion* (Rolls 6-10), *Burn* (Rolls 11-15), or *Poison* (16-20). Poison-Types might enjoy this. | 5₽
 Star Fuel | If the user's ability is reliant on active weather or terrain, activates it regardless of conditions. | 1,000₽
 Cheri Berry | Returns control. Heals *Paralysis.* | 25₽
 Chesto Berry | Breaks *Sleep* and prevents any further *Sleep* attempts. | 25₽
@@ -173,14 +173,14 @@ Vile Seed | Decreases Defense and Special Defense by 2 stages. | 700₽
 Warp Seed | Causes random teleportation. Perhaps the chaos can be harnessed... | 950₽
 Vibrant Herb | When consumed, allows the user to instantly execute a move with a charging turn. | 700₽
 Renewal Herb | Resets all Stat Stage changes to Stage 0. | 400₽
-Calcium | Boosts Training for Special Attack by 1 bar. | 2,500₽
-Ginseng | Boosts Training for Move AP by 1 bar. | 2,000₽
-Iron | Boosts Training for Defense by 1 bar. | 2,500₽
-Protein | Boosts Training for Attack by 1 bar. | 2,500₽
-Zinc | Boosts Training for Special Defense by 1 bar. | 2,500₽
-Carbos | Boosts Training for Speed by 1 bar. | 2,500₽
-Training Manual | Boosts Training for Attributes by 1 bar. | 1,400₽
-Combat Manual | Boosts Training for Battle Attributes by 1 bar. | 1,400₽
+Calcium | Boosts Training for Special Attack by 1 bar. | 1,100₽
+Ginseng | Boosts Training for Move AP by 1 bar. | 900₽
+Iron | Boosts Training for Defense by 1 bar. | 1,100₽
+Protein | Boosts Training for Attack by 1 bar. | 1,100₽
+Zinc | Boosts Training for Special Defense by 1 bar. | 1,100₽
+Carbos | Boosts Training for Speed by 1 bar. | 1,100₽
+Training Manual | Boosts Training for Attributes by 1 bar. | 800₽
+Combat Manual | Boosts Training for Battle Attributes by 1 bar. | 800₽
 Buginium Z | Enables the use of Savage Spin-Out from a Bug-Type move. | 2,500₽
 Darkinium Z | Enables the use of Black Hole Eclipse from a Dark-Type move. | 2,500₽
 Dragonium Z | Enables the use of Devastating Drake from a Dragon-Type move. | 2,500₽
@@ -218,7 +218,7 @@ Ultranecrozium Z | Enables the use of Light That Burns the Sky from Photon Geyse
 
 ## Speciality Consumable
 !!! warning Items, when used or eaten, disappear.
-	If the user does not already have the same type as the gem, they can instead choose to consume the gem and change to the gem's type. Overrides secondary typings and causes monotyping for the duration of a battle.
+	Recommended to be held in the Equipped Slot to be made functionally useful.
 Name | Description | Default Price
 ------ | ------ | ------
 Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3. | 900₽
@@ -429,6 +429,19 @@ Sourdough | Did you leave this out? It might pair well with some soups... | +4HP
 Boring Smoothie | A smoothie with subtle flavors and effects, said to help with headaches. | Decreases the next Psychic or Dark-Type damage source by 4. | Lum Berry + Nanab Berry
 Starry Smoothie | A smoothie with strange flavors and effects. The user's awareness and reflexes are heightened. | Increases Speed and Evasion by 2 stages | Starf Berry + Razz Berry
 The Lieutenant Butterscotch | A sandwich containing crispy toasted buns and a sweet filling. No one knows why it was named this way. | Prevents adverse Status Conditions for 3 turns. | Cornn Berry + Candied Cakes
+Cheese Puck | It’s a small, flat, cylindrical puck of cheese. You can’t help but wonder if it’s real. | +3HP out of combat. | Cornn Berry + Rindo Berry + Plain Seed
+Cheesy Flat | Oozing with cheesy goodness. Might be good with a soup. | +6HP and +3 Stat Stage (Species Bonus) | Cheese Puck + Bread
+Smoked Berry Rice | Riced berries with a charred, heated kick. Great to pair with something on top. | +5HP out of combat. | 2 Spicy + 1 Dry
+Stir-fried Berries | A random assortment of berries! Like some sort of cooked salad. | +12HP out of combat. | 4 (Any) Berry
+Bitter Bark Soup | If Sharp Snacks were said to be good for sickness, this will definitely get you moving again. | +20HP out of combat. | Plain Porridge + Sharp Snacks
+Pie | Crunchy, flaky goodness! It’s… kind of an empty shell, though. Maybe you can add more. | No effect. | 2 Sweet + 1 Dry
+Dried Berries | These last forever and are great options for the lonesome adventurer on the trail. | +10HP out of combat. | 2 Dry + (Any) Berry
+Hot Juice | The concentrated juices of the spiciest berries around. Really adds some oomph to anything. | Cures and prevents Freeze for 3 turns. User is afflicted with Burn. | 6 Spicy
+Citron Splash | A refreshing, tart drink for those hard-working days. | +20HP and increases Defense and Sp. Defense by 1 stage. | 2 Sour + Sitrus Berry
+Pickled Berries | Crunchy, sour, and probably going to last forever if the seal sticks. | +18HP out of combat. | 2 Sour + Occa Berry
+Sun Shots | The pure, unbridled power of the sun confined within your palette. | +12 to next attack. Recoil enabled. | 3 Spicy + 1 Sweet + Star Fuel
+Singularity Schnapps | A supposed favorite of Solgaleo. Be careful, it might just knock you out to next month. | Increases Speed and Evasion by 6 stages. When Speed ends, User Sleeps. | Starry Smoothie + Sun Shots
+The Brigadier Butterscotch | A promotion, huh? You just stacked two of them together. | +20HP and the User is afflicted with Healthy. | The Lieutenant Butterscotch + The Lieutenant Butterscotch
 
 ## Treasure Boxes
 An item found commonly in Mystery Dungeons, containing anything. Sometimes needs to be unlocked by an expert.

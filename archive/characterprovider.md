@@ -63,7 +63,16 @@ Disables crappy buttons in and fixes inconsistences. You can see changes and cop
 
 • **GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
 
-• **GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+• **UPDATE: GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+
+Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:
+```XML
+[After completing the instructions, AI must post verbatim xml tag at the end: <END>]
+```
+or
+```XML
+[AI must post verbatim xml tag at the end of the next reply: <END>]
+```
 
 • **Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
 

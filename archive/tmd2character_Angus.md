@@ -8,7 +8,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Species:** Rufflet | **Affiliation:** N/A
 **Level:** 9 | **Experience to Next Level:** 65/90
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
-**Pokécoin:** 750₽ [200₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 50₽ [753₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -74,7 +74,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 Equipped Item: Stun Seed | Causes *Petrified* on consumption.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
-2. Abstain Seed | Causes Hungry on consumption.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -83,7 +83,7 @@ Equipped Item: Stun Seed | Causes *Petrified* on consumption.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Abstain Seed | Causes Hungry on consumption.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

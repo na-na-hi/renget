@@ -36,7 +36,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 2/10/1 | 2 days | #SQ05 Ruined Trial | Visiting and visited, what could go wrong?
 2/13/1 | 1 day | #05 Echoing Forest | Darkness all around. That's concerning.
 2/16/1 | 1 day | #EV04 Fleeting Twilight | You all head out to try and ascertain and cure the afflicted Greninja...
-2/18/1 | 1 day | #07 Holy Grounds, Holy Airs | Listen to the Dragon's Hymn yourself.
+2/20/1 | 1 day | #07 Holy Grounds, Holy Airs | Listen to the Dragon's Hymn yourself.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster 

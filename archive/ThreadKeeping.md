@@ -181,10 +181,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight Man)
-https://rentry.org/PSInternship
->Law-Abiding Hero (Mirror Devil, Smokin' Sexy):
-https://rentry.org/uoezz
+>Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil)
+https://rentry.org/6cgfyo
+>The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
+https://rentry.org/w8hvp
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -734,6 +734,10 @@ https://rentry.org/gfwgx
 https://rentry.org/PSInternship
 >Law-Abiding Hero (Mirror Devil, Smokin' Sexy):
 https://rentry.org/uoezz
+>Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil)
+https://rentry.org/6cgfyo
+>The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
+https://rentry.org/w8hvp
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

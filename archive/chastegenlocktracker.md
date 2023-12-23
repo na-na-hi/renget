@@ -22,7 +22,6 @@ _(Updated 22-Dec-2023)_
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
-| OttawaCuckold | https://chaster.app/sessions/SK9LJkjYLf5v2igc | 0 Thread(s) |
 | usernyaame | https://chaster.app/sessions/Zlt0mY4evkEqaxtQ | === |
 | EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
 | McHastex | https://chaster.app/sessions/X6Ucs2NPSLEUKBlR | === |

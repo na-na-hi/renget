@@ -1,6 +1,6 @@
 #**/HMoFA/ Masterbin**
 -> Contact: azuhmier@gmail.com (Questions or Suggestions?) <-
--> Last updated at #2772 ( Fri 12/08/23 19:09:18 ETC ) <-
+-> Last updated at #2772 ( Fri 12/22/23 19:45:28 ETC ) <-
 
 == **LINKS**
 - [Masterbin](https://rentry.org/hmofa)
@@ -20,6 +20,20 @@
 
 !!! info
     ##masterbin
+---
+
+---
+#####(TRINITY-CANCELLATION)
+
+`Logs of the Erebus`
+https://archiveofourown.org/works/52392448
+
+`This little bunny brat`
+https://archiveofourown.org/works/52185499
+https://pastebin.com/PkccXVfS (dead)
+
+‌
+
 ---
 
 ---
@@ -1183,6 +1197,10 @@ https://www.sofurry.com/view/1613479 (ch. 4)
 https://www.sofurry.com/view/1643895 (ch. 5)
 https://www.sofurry.com/view/1676790 (ch. 6)
 https://www.sofurry.com/view/1679785 (ch. 7)
+
+`The Queen's Kiss in: An Eggsellent Job`
+https://archiveofourown.org/works/52338868
+https://www.sofurry.com/view/2083382
 
 `Wake Me Up Before You Boko`
 https://archiveofourown.org/works/30068379
@@ -3093,6 +3111,16 @@ https://archiveofourown.org/works/47953339/chapters/121251031
 `I Just Want Some Sleep!`
 https://archiveofourown.org/works/47953339/chapters/120905014
 https://www.sofurry.com/view/2003861
+
+‌
+
+---
+
+---
+#####Hoss
+
+`Road to the Olympics`
+https://archiveofourown.org/works/52241662
 
 ‌
 
@@ -5951,6 +5979,16 @@ https://www.sofurry.com/view/1840640 (ch. 18)
 ---
 
 ---
+#####SouthwesternCrunchwrap
+
+`A New Herd`
+https://www.sofurry.com/view/2081397 (ch. 1)
+
+‌
+
+---
+
+---
 #####Space_Weasel
 
 `Human Inspection Day 1`
@@ -6876,16 +6914,6 @@ https://git.io/J3M2P
 
 `Adventures of #A0382916`
 https://git.io/Js81P
-
-‌
-
----
-
----
-#####TRINITY-CANCELLATION
-
-`This little bunny brat`
-https://pastebin.com/PkccXVfS
 
 ‌
 

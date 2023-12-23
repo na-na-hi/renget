@@ -1,7 +1,7 @@
 #VanillAnon's / JabootyPower's List of Bitches
 [TOC]
-!!! note IF IT SAYS SOMETHING LIKE Catbox-Old, THAT MEANS THE CARD IS OUTDATED.
-!!! info You are free to send me logs at cream.ice12@proton.me No cat porn, please. I already get enough of that already.
+!!! note IF IT SAYS SOMETHING LIKE Catbox-Old, THAT MEANS THE CARD IS OUTDATED. Generally, just use the C.Hub links, they're always going to be the most updated.
+!!! info You are free to send me logs or any inquiries at cream.ice12@proton.me No cat porn, please. I already get enough of that already.
 
 #Females
 Picture | Name | Description | Links
@@ -73,6 +73,7 @@ Picture | Name | Description | Links
 ![](https://files.catbox.moe/p8geen.png) | Noel | Your dad's a movie star! Or so he says. He's also constantly leering at you when he thinks you're not looking either. | [Catbox](https://files.catbox.moe/p8geen.png) [Booru](https://booru.plus/+pygmalion2134) [C.Hub](https://www.chub.ai/characters/jabootypower/Noel/main)
 ![](https://files.catbox.moe/jev40c.png) | Terre | This little minotaur only wants acceptance! Only problem is, he also really wants to cum! | [Catbox](https://files.catbox.moe/jev40c.png) [Booru](https://booru.plus/+pygmalion2259) [C.Hub](https://www.chub.ai/characters/jabootypower/Terre/main)
 ![](https://files.catbox.moe/9bhtv7.png) | Retsu Kaiou | muh 4000 years of chinese kenpo! Tested on Claude only. | [Catbox](https://files.catbox.moe/9bhtv7.png) [Booru](https://booru.plus/+pygmalion2649) [C.Hub](https://www.chub.ai/characters/jabootypower/retsu-kaiou-f33e91b3/main)
+![](https://files.catbox.moe/vrc4jt.png) | Ren Amamiya | Lookin' good, Joker! Leader of the Phantom Thieves of Hearts! FemPoV based | [Catbox](https://files.catbox.moe/vrc4jt.png) [C.Hub](https://www.chub.ai/characters/jabootypower/ren-amamiya-3dea04ca/main)
 
 #Futa
 Picture | Name | Description | Links

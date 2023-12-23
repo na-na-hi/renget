@@ -476,6 +476,7 @@
 12/2023|[PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://arxiv.org/abs/2312.12456)
 12/2023|[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
 12/2023|[Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/abs/2312.12728)
+12/2023|[A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties](https://arxiv.org/abs/2312.13764)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

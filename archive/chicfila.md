@@ -1,0 +1,1 @@
+[![Averi: 1571280430.fiddleafox_twitter-in-stream_tall___vfrgtr.png / 1676353589918.png]( https://desu-usergeneratedcontent.xyz/trash/image/1676/35/1676353589918.png )](https://desu-usergeneratedcontent.xyz/trash/image/1676/35/1676353589918.png)

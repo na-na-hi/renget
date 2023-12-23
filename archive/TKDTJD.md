@@ -1146,3 +1146,111 @@ Tal Zahavi, pictured on the left, boasting over 23 years in the Israeli Air Forc
 
 Guy Isaac Alon, pictured on the right, has also been actively involved in the last 73 days, participating in the bombing of two hospitals, namely Gaza's Baptist Hospital and Al-Shifa Hospital. He also played a role in the bombing of six mosques, Al Amal Hospital in Khan Yunis, as well as other densely populated civilian areas, resulting in the tragic killing of at least 500 Palestinians, including 165 children.
 https://nitter.net/MintPressNews/status/1737832949935149536#m  12/21/23
+
+>In a joint-operation between Al-Quds Brigades & Al-Qassam Brigades, they managed to kill and wound 4 IOF soldiers, after storming their building in the axis east of Jabalia.
+https://nitter.net/AryJeay/status/1738180841853927679#m  12/22/23
+
+>The Manager of the Eilat Port: 
+Eilat port activity has dropped by 85% since the beginning of the attacks by Yemen’s AnsarAllah in the Red Sea.
+https://nitter.net/AryJeay/status/1738177371180597575#m  12/22/23
+
+>A preliminary picture of the exceptional and largest public demonstration in the capital, Sana’a, in a march: “The coalition to protect (Israeli) ships does not intimidate us.” #YEMEN
+https://nitter.net/ME_Observer_/status/1738189401379795358#m  12/22/23
+
+>Israeli occupation forces assault worshippers and block their access to the Al-Aqsa Mosque compound in occupied Jerusalem for the weekly Friday prayer.
+https://nitter.1d4.us/QudsNen/status/1738150491517776024#m  12/22/23
+
+>Sources to 'Quds Network': Israel has rejected an official Russian request to establish a field hospital in southern Gaza to assist in treating the wounded. Instead, the Israeli response was to persuade Russia to assist in the displacement of Gaza residents to Egypt by providing medical and humanitarian services on the Egyptian side of the border and exerting pressure on Egypt to accept. However, Russia rejected the proposal.
+https://nitter.1d4.us/QudsNen/status/1738195175850025094#m  12/22/23
+
+>BREAKING 
+France is reportedly withdrawing from Operation Prosperity Guardian, a US-led naval coalition against the Houthis 
+According to US-based maritime experts, the French navy wants to escort EU ships in the Red Sea, while the US still has no clue what to do with the coalition
+https://twitter.com/IranObserver0/status/1738181837485183279  12/22/23
+
+>BREAKING 
+US Navy says they don’t have enough warships to start Operation Prosperity Guardian against the Houthis 
+According to John Konrad (maritime journalist), the US has built 24 littoral combat ships to be used for combat in coastal areas, but the US has refused to deploy them.The Houthis' anti-ship ballistic missiles and drones are a concern for the US
+https://twitter.com/IranObserver0/status/1738218656868217157?  12/22/23
+
+>Israeli admit their failure to Hezbollah
+Israeli newspaper Yedioth Ahronot: "Israel's deputy foreign minister admitted in a press conference that they had failed in the face of Hezbollah's military tactics : 'We thought Hezbollah would retreat north of the Litani, but what happened is we retreated beyond the Bets River.'"
+https://nitter.net/Sprinter99800/status/1738220146085241299#m  12/22/23
+
+>Islamic Resistance in Iraq:
+Targeted a sensitive target in the Mediterranean Sea a few days ago, with appropriate weapons, and achieved a direct hit.
+https://nitter.net/AryJeay/status/1738258738534908410#m  12/22/23
+
+>Hezbollah published a video showing scenes of the targeting of a group of israelis in the Doviv area, achieving a direct hit causing for casualties. This was in response to the targeting of a civilian woman in south Lebanon.
+https://nitter.net/AryJeay/status/1738265647165886763#m  12/22/23
+
+>CONFIRMED: Islamic Resistance in Iraq targeted the israeli Karish gas field in the Mediterranean sea.
+https://nitter.net/AryJeay/status/1738273454749634808#m  12/22/23
+
+>The israeli army admits to the elimination of an officer & the seriously wounding of another, in a Hezbollah rocket attack this morning from Lebanon on the Shtula area:
+- Sgt. Amit Hod Ziv, 19, of the 188th Armored Brigade's 71st Battalion
+https://nitter.net/AryJeay/status/1738231470442029302#m  12/22/23
+
+>Hezbollah has so far carried out 6 operations today:
+- Targeted a group of israeli soldiers near Shomera barracks
+- Targeted the Shomera barracks
+- Targeted an IOF infantry force near Metulla
+- Targeted a group of israeli soldiers & officers in Even Menachem, with confirmed casualties.
+- Targeted a group of IOF soldiers & military vehicles in Al-Manara site
+- Targeted an IOF command & control center near Kfar Kila
+https://nitter.net/AryJeay/status/1738226501705764937#m  12/22/23
+
+>UNRWA: 90% of Gaza Strip residents have been internally displaced.
+https://nitter.1d4.us/QudsNen/status/1738272838237176279#m  12/22/23
+
+>Israeli media released footage of Israeli soldiers turning a mosque in Gaza into a military site after destroying it.
+https://nitter.1d4.us/QudsNen/status/1738311348050628693#m  12/22/23
+
+>BREAKING 
+Thousands of mobilised Yemenis with weapons gathered in Yemen's Sa'ana to support the Ansarullah (houthis)They are warning the US that their naval coalition does not scare the Yemenis. The US will face a more united nation than they did in Afghanistan or Vietnam
+https://twitter.com/IranObserver0/status/1738202642344526055  12/22/23
+
+>BIG SUMMARY of all resistance operations today, December 22, against (US)-israeli forces
+
+Qassam Brigades:
+- (Partially) destroyed 1 Merkava tank, 1 APC, and 1 military D9-bulldozer in various combat zones.
+- Targeted an IOF infantry force with an anti-personnel explosive device, followed by engaging with the remaining members, resulting in casualties, east of Khan Yunis.
+- Targeted an IOF infantry force of 5 soldiers, inside a building with "Yassin 105" rockets.
+
+Al-Quds Brigades:
+- Shelled an IOF command center in the Zana’a area, east of Khan Yunis, with a rocket barrage.
+- Shelled military gatherings east of Al-Qarm roundabout in northern Gaza with a barrage of 60mm mortars.
+- Shot down a Zionist drone in the skies over central Gaza.
+- Shelled military positions & soldier crowds in Abu Holi checkpoint, and the vicinity of farms in the southern axis with mortars.
+- Shelled military gatherings near the Abu Hureira Mosque and Abu Nawareh land in the Zana’a area, east of Khan Yunis, with a rocket barrage and mortars.
+- (Partially) destroyed 2 Merkava tanks in various combat zones.
+- Shelled military formations and military vehicles with a barrage of mortars, south of Deir al-Balah.
+- Carried our an intensive artillery attack on IOF gathering points where soldiers were stationed, in the Abu Holi axis, with dozens of heavy-caliber mortars.
+- In a joint operation with Al-Qassam Brigades, they inflicted casualties on 4 IOF soldiers, including deaths and injuries, after storming their building, in the eastern axis of Jabalia.
+
+Mujahideen Brigades:
+- Targeted military vehicles, and clashed with IOF soldiers penetrating the axis of Sheikh Radwan neighborhood, using appropriate weapons. Achieving confirmed casualties.
+- Shelled the Faraheen site, east of Khan Younis, with heavy-caliber mortars (with video).
+
+ Martyr Abu Ali Mustafa Brigades:
+- Clashed with IOF forces penetrating the Sheikh Radwan axis & targeted military vehicles with RPGs.
+- Al-Aqsa Martyrs Brigades:
+- Targeted a Merkava tank with a tandem rocket, in the Al-Mahatta area of Khan Younis.
+- Shelled military gatherings, on the axis of Khan Younis, with heavy-caliber mortars.
+
+Hezbollah:
+- Targeted a group of israeli soldiers near Shomera barracks
+- Targeted the Shomera barracks
+- Targeted an IOF infantry force near Metulla
+- Targeted a group of israeli soldiers & officers in Even Menachem, with confirmed casualties.
+- Targeted a group of IOF soldiers & military vehicles in Al-Manara site
+- Targeted an IOF command & control center near Kfar Kila.
+
+Islamic Resistance in Iraq:
+- Targeted an important objective in the occupied Um al-Rashrash (Eilat) with Shahed-101 suicide drones.
+- Targeted the israeli Karish gas field in the Mediterranean sea a few days ago with suitable weapons (drones), achieving a direct hit.
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1738312185070137485#m  12/22/23
+
+>The UN Security Council approved a decision, which started as a call to impose a ceasefire to stop the nonstop Israeli genocide in Gaza, but turned into focusing on increasing humanitarian aid to the besieged strip.
+https://nitter.1d4.us/QudsNen/status/1738346062740382068#m  12/22/23

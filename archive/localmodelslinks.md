@@ -101,6 +101,7 @@
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [CogVLM/Agent](https://github.com/THUDM/CogVLM)|Visual language model with GUI understanding for agent capabilities 
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 

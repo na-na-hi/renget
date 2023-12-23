@@ -2,17 +2,16 @@
 ---
 ___
 ___
-#### *Last updated on:* 7/12/2023 (MM/DD/YYYY)
+#### *Last updated on:* 12/22/2023 (MM/DD/YYYY)
+
+- [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
+
+#### *Previously:*
+
 
 - [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was added
 
 - [Doujin] *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM)* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0)* were added
-
-#### *Previously:*
-
-- [Story] *[Two](https://www.sofurry.com/view/1879358) [stories](https://www.sofurry.com/view/1958908/)* by Mahlzeit were added
-
-- [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 2)](https://rentry.org/sfbf5)* was updated
 
 On December 17, 2020, Pastebin went full retard and nuked most explicit pastes, including [the original Monster Hunter Doujin/Smut Index](http://web.archive.org/web/20200530234448/https://pastebin.com/kHh6uSQu). Later down the line, some pastes were restored. A MEGA backup of most Pastebin stories and doujins can be found in their appropriate sections.
 
@@ -443,6 +442,10 @@ The writefag thought [the original](http://pastebin.com/e7WrW9Cv) was rough arou
 #### *[Tobi-Kadachi's Release [M Human x M Tobi-Kadachi]](https://pastebin.com/UF1hgDEc)*
 
 A monster needs to cum real badly.
+
+#### *[Into the Wilds [M Human x F Anthro Palociraptor]](https://rentry.org/32ia4)*
+
+The announcement of the next installment in the series, Wilds, brings forth a new nameless mount who's eager to learn with the help of her assigned hunter. Ongoing and clean -- *for now*.
 
 ---
 

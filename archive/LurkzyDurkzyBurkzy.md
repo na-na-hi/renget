@@ -1,4 +1,4 @@
-#%darkred%LURKz's%% Furbo and Claude 2/2.1 Presets
+#%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2/2.1 Presets
 ##->%darkgreen%Updated%% - 21 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
@@ -18,7 +18,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/ccaacq.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/ccaacq.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/cs124k.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/cs124k.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

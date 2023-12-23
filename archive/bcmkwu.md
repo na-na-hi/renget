@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>Life in an Ukrainian trench
+https://files.catbox.moe/l1kdac.mp4
+>AFU abandoning burning Leopard 2A6 hit by artillery
+https://files.catbox.moe/r0g2it.mp4
+>Russian drones hunting AFU at night
+https://files.catbox.moe/673x99.mp4
+>FAB-1500 landing on troop concentration on the right bank of the Dnieper
+https://files.catbox.moe/dvg0lo.MP4
+>Geran makes a loud arrival to Kiev
+https://files.catbox.moe/ygzlk4.mp4
+>RVBIED MT-LB escorted by a drone does massive area demining
+https://files.catbox.moe/8aauyu.mp4
+>Polish Mercenary wounded and abandoned captured near Krynki village
+https://files.catbox.moe/o535xh.mp4
 >6+ minutes of combat footage filmed by a drone in the Kremennaya forest
 https://files.catbox.moe/vkbe5x.mp4
 >former US general doesn't even hide the "to the last hohol" policy anymore

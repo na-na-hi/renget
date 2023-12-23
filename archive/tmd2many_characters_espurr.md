@@ -124,9 +124,9 @@ Item Name | Description
 *Extra inventory slots separate from Espurr's normal inventory.*
 Item Name | Description
 ------ | :----: 
-1. Wiki Berry | None
-2. Wiki Berry | None 
-Colbur Berry
+1. Colbur Berry | None
+2. Sourdough | +4HP for the duration of the battle.
+
 
 ***
 

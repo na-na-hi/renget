@@ -645,3 +645,317 @@
 >the word he was looking for was roadie
 >roadies were support staff
 >”groupie”
+
+>Roxy was insistent on the groupie nickname
+>why, you didn't know
+>but eventually you dropped it
+>he took that as a sign to start calling you that
+>thank God he confined it to off the clock hours from then on
+>a new issue had arose in the mall the next day or so
+>more like opportunity 
+>the mall couldn't get a Santa for an affordable rate
+>you had no idea if the Santa's unionized or whatever
+>might be the mall being cheap again
+>your janitorial/maintenence shifts during December would be instead be dedicated to being the mall Santa
+>every mall had to have one
+>they even just handed you some sort of slap dash red felt dress for the elf
+>you held up the giant dress and asked who the elf was, Andre the Giant
+>but you knew
+>they knew
+>cheap as ever
+>well, at least Roxanne was good with kids
+>you'd need the help 
+>you were shocked they even went through the effort of a dress
+>granted, it was red basic fabric with a white collar around the whole thing
+>Roxy eyed it suspiciously 
+>afraid it would hurt his cool image
+>if you were dressing as Santa he was putting on the dress
+>when he rolled his eyes you knew you'd won
+>”fine… but I'm not an elf.”
+>he was much too tall for that 
+>as long as he put on the outfit he could call himself Jesus for all you cared
+>”I'm going as Mrs. Claus.”
+>ok the kids were going to wonder why Mrs. Claus was a giant wolf
+>”they'd wonder why Santa had a giant wolf elf.”
+>ok
+>it was petty but he had as much a point
+>he poked your chest
+>”plus I wasn't going to let Santa have top billing. this is a co-production”
+>you pondered if it was too late to pluck some manlet up for elf duty
+>Danny at the Foot Locker was small enough
+>just pick him up and then you'd have a helper 
+>it could be that easy
+>Roxanne interrupted the kidnapping plan
+>”also a consideration, my pointy ears are in the wrong place to be an elf. yeah, Mrs. Claus is just a better idea.”
+>he rested his hands on his hips awaiting your concession
+>this was only going to end if you bestowed Mrs. Claus on him
+>kidnapping looked better than dealing with his smug grin
+>the alternative was he'd pull the puppy dog routine
+>it was rarer
+>but he'd pull it
+>you'd seen it just once when you wouldn't brush his hair out
+>why was he even ok with wearing a dress?
+>he insisted he was a he whenever possible
+>”well, you asked. bit different than just saying I'm Roxanne”
+>but 
+>he waved a clawed hand
+>”you know what I mean. Roxanne might be the best but I'm the best Roxanne.”
+>well whatever that meant
+>”I'm doing you a favor and the least you can do is say I co-own this north pole.”
+>his thumb gestured behind him to the small snowy display tree and fake reindeer 
+>fine
+>if that's what it took
+>he could be Mrs. Claus
+>”see, I knew you could do it,” he grinned
+>yep, you knew that would happen
+>got what he wanted
+>so he took the dress and slid it over 
+>it was a simple strapless affair
+>after all it was a budget thing
+>he realized it was super tight at the hips
+>how?
+>he was a guy
+>guy robot
+>it went down to the middle of his thigh
+>he struggled for a second then used a single claw on each side of the dress to open a vertical slit that allowed his legs to breath a little
+>you weren't going to lecture him on mall property 
+>as long as it got results 
+>the first day the mall set up for Christmas felt like any other
+>you'd helped hang up giant snowflakes and the radio was tuned to Christmas music 24/7 but otherwise there wasn't a dramatic shift at the place
+>your shift as Santa began fairly early
+>uneventful 
+>the Mrs. Claus bit was seen through quickly enough
+>they were kids, not blind
+>Roxy was still good to them though
+>the Mrs. Claus act wasn't helped by the addition of an electric guitar 
+>though his instrumental versions of some Christmas music were appreciated over hearing jingle bells again
+>he sat down near the tree, cross legged and focusing on the instrument and then to whatever kid scrambled up to you
+>then back to a quiet rendition of Little Drummer Boy or Rudolph the Red Nosed Reindeer 
+>he even played it softer than usual, a feat you didn't realize he was capable of
+>Roxy usually didn't do things softer
+>he loved the crowds and would try to get them energetic 
+>but here he understood the atmosphere and played accordingly
+>your heart wasn't completely in this at first but some of the kids were actually making you feel optimistic 
+>sure there were a few brats
+>but the vibe was… actually cheerful
+>a more cynical sort might chalk the children's cheer up to wanting gifts
+>but maybe they were just happy for the season
+>you'd bought candy out of pocket for them and it just felt… right
+>you hadn't felt nostalgic for Christmas before but the whole situation made you look back fondly
+>a lot of upheaval in your life
+>but here it sort of clicked
+>it felt correct
+>not that you weren't needed around here but this was different than scrubbing toilets
+>after the day and your shift you allowed yourself to pull the beard and fake glasses off
+>you didn't bring a spare set of clothes so you'd do the security shift as Santa
+>everyone left and soon enough it was Roxy and you again tonight
+>you had to admit the new chair by the tree was comfortable 
+>you might nap in it
+>Roxanne had other plans and your lap and the chair were threatened by what felt like a ton of wolf robot
+>”oh come on, they got to sit in your lap and ask you for stuff,” he protested as you tried to push him off
+>he relented but not without you shoving him back
+>you really had to put your weight behind it
+>explaining the physical difference between little Timmy and a robot you had to look up to would fall on deaf ears
+>what mattered was he wasn't getting what someone else had and he felt it was an injustice in this world
+>he even did a little mock sniveling
+>you knew that was fake
+>all a trick to garner sympathy 
+>you got up and made sure nothing was broken on you or the chair
+>he'd gone from dejected to pouty within seconds
+>you had to point out the chair was not as sturdy as the stage and that was your mistake
+>he picked you up by the sides and moved you to sit on the stage and sat down on your lap, trapping you
+>he seemed to exert more control to not just crush you outright
+>”now where were we~”
+>he glanced over his shoulder to make sure you were alive and continued
+>”well I could use a new amp…”
+>that was frankly shocking
+>it was simple and straightforward 
+>”but I'm not all that greedy. why ask for things?”
+>his tail wagged 
+>beating you in the face a few times 
+>he raised a hand and you wondered just where he found mistletoe?
+>how the hell did he know about mistletoe?
+>he released your legs and stood up, dangling the green decoration above your head
+>his grin was triumphant 
+>surely this was victory
+>Roxanne had planned this
+>it was brilliant
+>the amp request to catch you off guard then he suckered punched you with this festive obligation 
+>”I really am the best,” he congratulated himself
+>he was busy patting himself on the back when you chimed in and remarked you were both guys
+>”and I'm clearly in a dress so it's fine right?”
+>when you handed him the dress you didn't expect it to be weaponized against you
+>”aren't we husband and wife? aren't we supposed to kiss? come on, you know you want to”
+>he was either confused on how stage personas worked or-
+>no, he wasn't confused
+>he leaned in close, leading you to lean back in response
+>the smile hadn't left his face because he felt victorious 
+>you tried to counter with office decorum
+>coworkers shouldn't do this
+>”you gonna tell HR?”
+>the other hand not holding the mistletoe lifted your chin up with one finger
+>”you look better without the beard”
+>you were trying to work out how to get out of this
+>you were pretty sure he could just take a kiss 
+>but he was wanting you to make the move
+>fine
+>you went to give him a peck on the cheek when his hand stopped your chin
+>”c'mon rock stars don't get kissed like grandma do they?”
+>his eyes were focused on yours
+>you had a feeling he wouldn't take no
+>well he might
+>but you felt strongly discouraged 
+>the claws helped
+>he grinned 
+>teeth
+>your eyes darted there
+>finally, you caved
+>you really were an enabler 
+>you gave him a kiss and he leaned into it
+>no tongue, he wasn't that forceful 
+>but he seemed to savor it
+>you relaxed a little and kept the kiss going 
+>maybe after this he would be satisfied 
+>at least this wasn't bad
+>but this was only a one time thing only
+>you'd have to put your foot down
+>he pushed you back onto the stage and the mistletoe was tossed aside
+>the kiss kept going
+>your resistance was waning
+>eventually you ended up admitting defeat by planting an arm around Roxy's shoulder
+>you could hear his tail wagging
+>his tongue slipped past your lips and he locked fingers with your free hand
+>this was wrong but you couldn't help yourself 
+>fuck it
+>this was a Christmas bonus
+>you'd just have to keep this to yourself 
+>but this was a one time thing
+>as nice as it was it could get you in trouble
+>Roxanne liked the attention at least
+>when your hand softly pet the back of his head he shivered and pinned you to the stage
+>that was what made him break the kiss
+>”sorry, I got a little excited there for a second”
+>his eyes were half lidded
+>you kissed him on the snout 
+>you'd give him this for Christmas 
+>at least
+>he enjoyed the company and maybe you did too
+>you didn't know if this would make things more awkward 
+>probably would 
+>he released you and pulled back
+>you regained your breath and sat up
+>so maybe this Christmas could be good
+>Roxanne was on cloud nine 
+>you were conflicted
+>but he did look happy and you didn't want to spoil things tonight
+>eventually you'd have to set your foot down
+>you two couldn't just make out in the mall like teenagers 
+>”not bad for a guy right?”
+>he wanted permission, a reward
+>his eyes were no longer cloudy but bright and expectant
+>as much as it pained you you had to let him down gently
+>you did like it but…
+>he planted a clawed finger over your lips
+>”unless the next words out of your mouth are how I'm the best you've ever had we aren't spoiling the moment.”
+>he wasn't taking no 
+>you hoped this wouldn't be an issue
+>it would be but you hoped it wouldn't be
+>you were optimistic 
+>the mall didn't need to know you got an erection 
+>Roxanne was fighting the urge to jump you
+>you'd given him an erection and he was less concerned with the mall finding out
+>but he was content with being the best kiss you'd ever had
+>for now
+>he allowed you up off the stage, satisfied with himself 
+>he'd won in his mind
+>and maybe you just sort of allowed that
+>you probably should be more assertive with him but he'd been pleasant to be around
+>so you had a soft spot for him
+>it was just hard to reconcile with all the strangeness of the situation 
+>he allowed you space but followed you around
+>he was absolutely beaming
+>you tried not to guess why
+>you knew
+>he was practically gloating 
+>there was no way you weren't hearing the end of this
+>so you got an erection
+>you'd never hear the goddamn end of this
+>hopefully Roxanne didn't notice that
+>Roxy had noticed it
+>if he looked triumphant on the exterior, he was giddy as a school girl
+>he'd gotten the reaction he'd dreamed of
+>ever since you'd started working around the mall he'd been excited at all the attention you'd given him
+>he was crushing on your for awhile
+>after all you thought he was the best
+>you'd said so
+>he went over that memory 
+>this was worth wearing the dress and stealing that plant for
+>his masterful plan had all come together
+>he was busy patting himself on the back while walking the mall 
+>there was that little hiccup that was the pretzel homewrecker
+>but that didn't derail his plans 
+>you went about your business and relaxed without the sexual tension 
+>that was about the most action you'd gotten in ages 
+>if he'd kept going you might have done something stupid
+>thankfully, he seemed content with a kiss
+>Roxy wasn't 
+>but he was patient 
+>eventually he'd get you
+>Roxy wasn't even paying attention to what you were doing
+>he was on autopilot as he dwelled on the kiss
+>he'd never kissed before
+>kissing was amazing
+>he wanted more kissing
+>among other things
+>there was some stuff he was aware of
+>the horny thing
+>he was aware you made him want something
+>but didn't have a grasp of it
+>in a person that would be chalked up to instincts outpacing his knowledge 
+>there was the urge
+>burning hot in his core
+>he just needed to know more
+>he knew you felt something similar based off how hard you'd felt under your costume earlier
+>so he figures he'd just ask
+>”why did kissing make me hot?”
+>he was aware couples kissed but not the next step
+>he knew there were steps but he was a musical robot expected to interact with kids
+>sex ed wasn't high up on his programming
+>he had the equipment for it but not why
+>you were hoping to avoid the question
+>in Roxanne’s mind this was vital
+>he needed the next step
+>he'd be the best at it but he just needed to know what it was
+>surely there'd be more
+>Roxy felt the next step involved how hot he felt then
+>he was legitimately curious
+>you wanted to avoid the question
+>distracting yourself with work was only going so far
+>he looked to you eagerly
+>of course he didn't know
+>but how'd he know about kissing?
+>"I saw couples doing it."
+>right
+>not like people were fucking in the mall
+>this circled back to you not wanting to be the one to teach the mall attraction the birds and the bees
+>he wouldn't buy the stork lie
+>so you tried deflecting
+>why did he even want to know?
+>he snatched you up and had his arms hooked under your armpits
+>"now if you want down you'll have to tell me"
+>fine
+>you knew he could out last you
+>so fine
+>sex
+>you'd have sex
+>he flipped you around in his grip and eyed you suspiciously
+>"explain"
+>no
+>"I'm putting you on the tree then"
+>this was ridiculous
+>you tried wiggling out of his arms but he kept you tight in his grip
+>he was walking over to the mall tree and you finally gave up
+>you'd explain sex
+>he needed to set you down though
+>"no funny business."
+>you tried bolting the second he set you down and he grabbed your collar
