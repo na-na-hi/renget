@@ -1,5 +1,5 @@
 #%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2/2.1 Presets
-##->%darkgreen%Updated%% - 21 Dec (Furbo)<-
+##->%darkgreen%Updated%% - 24 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
 	-> For now, this preset will be geared towards storyline with a hint of NSFW, as opposed to Coom (Incest, NTR, Voyeurism etc...). This will not be the preset to use if you're after a quick coom. However, if you like Saviorfagging, Adventure/Fantasy, Slowburns, Survival etc..., this will be better suited for you!<-
@@ -18,7 +18,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/cs124k.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/cs124k.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/30fgsh.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/30fgsh.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

@@ -2306,6 +2306,32 @@ clothed, clothing, pink bow, bow (feature), hair clip, bow accessory, blue vest,
 
 	https://civitai.com/api/download/models/211703?type=Model&format=SafeTensor
 
+**Huey, Dewey and Louie Duck**
+https://civitai.com/models/213107/huey-duck-dewey-duck-louie-duck-or-ducktales-2017
+Eighth, Ninth and Tenth Lora in one!
+
+This Lora is trained on Indigo Mix v90, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+These characters are underage, Do not post or cross-post NSFW.
+
+Recommended Lora Weight: 0.5 - 0.7
+
+Main Tags for Huey Duck:
+
+huey duck, ducktales, duck, beak, scut tail, white skin, white hair, orange legs, webbed feet, black eyes, red hat, headwear, red clothing, red shirt, bottomless
+
+Main Tags for Dewey Duck:
+
+dewey duck, ducktales, duck, beak, scut tail, white skin, white hair, orange legs, webbed feet, black eyes, blue shirt, blue clothing, long sleeves, bottomless
+
+Main Tags for Louie Duck:
+
+louie duck, ducktales, duck, beak, scut tail, white skin, white hair, orange legs, webbed feet, black eyes, half-closed eyes, green clothing, green hoodie, bottomless
+
+(All images are upscaled x2 using Hires. fix with 4x_foolhardy_Remacri as the upscaler)
+
+Direct DL: https://civitai.com/api/download/models/240062?type=Model&format=SafeTensor
+
 # sake kemosalmon (Artist)
 https://files.catbox.moe/21wmi0.safetensors
 
@@ -2879,6 +2905,7 @@ https://files.catbox.moe/5ylrek.pdf
 >I think this will be the final version for a while, details of further improvements and changes outlined in the PDF.
 Males: https://www.mediafire.com/file/g7y2i8u239k9zut/Working_artists_redemption_arc_edition.pdf/file
 Females: https://www.mediafire.com/file/mbg5rk9c34h243y/Working_artists_cooties_edition.pdf/file
+Base SD Artists: https://www.mediafire.com/file/mnqv47mgji4baa4/Working_artists_real_artists_edition.pdf/file
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

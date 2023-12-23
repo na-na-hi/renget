@@ -132,7 +132,7 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.7修改版
-- Clewd 4.7(1) added: 当酒馆中模型选择"claude-2.0"或"claude-2.1"时，会自动轮换到对应模型cookie，选择其他任意模型则默认不更换，酒馆换模型后的第一次请求clewd可能会提示轮询中（Polling）报错，为正常现象；`xmlPlot`功能更改，见`xmlPlot`功能说明
+- Clewd 4.7(1) added: 当酒馆中模型选择"claude-2.0"或"claude-2.1"时，会自动轮换到对应模型cookie，选择其他任意模型则默认不更换，酒馆换模型后的第一次请求clewd可能会提示轮询中（Polling）报错，为正常现象；增加第三方反代api接入：第三方反代地址填入api_rProxy，酒馆Proxy Password填入格式`3rdKey: 第三方反代api密码`；`xmlPlot`功能更改，见`xmlPlot`功能说明
 
 - Clewd 4.7(0) added: 增加pro账号的模型选择，其中部分不支持模型将被自动转换为相近模型，与原版相比需要打开`PassParams`使用，注意打开后一般账号只能使用claude-2.1，否则会提示invalid model模型错误，多次模型错误可能引起封号；`xmlPlot`功能更改，见`xmlPlot`功能说明
 

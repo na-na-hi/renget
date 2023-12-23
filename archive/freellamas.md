@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ~~```https://because-imperial-oxide-pop.trycloudflare.com```~~
+Server URL: ~~```https://march-using-drives-mastercard.trycloudflare.com```~~
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
 **Story string:**
@@ -48,7 +48,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 **Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
 Output Sequence: " [/INST] "
-Last Output Sequence: " (please stay in character, avoid repetition) [/INST] "
+Last Output Sequence: " (please reply in character, sensible length) [/INST] "
 Separator: "</s>"
 
 ***
@@ -56,10 +56,10 @@ Separator: "</s>"
 ```go
 Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
-Temperature: [0.6 - 0.8] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.02 - 1.1] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
+Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
+Rep. pen: [1.03 - 1.1] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
 Rep. pen range: [8888] - how many previous tokens to scan for repetition
-Min_p: [0.02] - minimum chance of a token to be selected compared to the best token
+Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
 ```
 https://rentry.org/llm-settings
