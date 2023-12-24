@@ -8,7 +8,7 @@ Here's some more technical advice:
 
 [TOC2]
 
-***Other guide:  [lorebook guide](https://rentry.org/lorebook-guide), [memory guide](https://rentry.org/memory-guide)***
+***Other guide: [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide), [author note](https://rentry.org/an-guide)***  
 *[My personal preset—Truthfully v9 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ####Spelling and Grammar
@@ -40,7 +40,7 @@ And did you know? That you can see more than 10 tokens at a time!
 
 - [Enable Debug Mode (click to see how)](https://docs.novelai.net/text/UserSettings/debug.html):, and raise **Logprobs Count** to *30* or values that you want!
 - You can also make the list more compact:
-Setting -\> Theme -\> scroll down -\> Open *Custom CSS*  -\> Paste `#editor-toolbox {line-height: 12px;}` (or other values) -\> Apply!
+Setting -\> Theme -\> scroll down -\> Open *Custom CSS*  -\> Paste `#editor-toolbox {line-height: 10.5px; font-size: 10.5px;}` (or other values) -\> Apply!
 
 Also  
 If you are doing any intense/focus NovelAI session, you would probably be better off using shortcuts than reaching for Send or Retry button. 
@@ -84,6 +84,6 @@ You can stick to the top tokens for the-best-performance-from-the-model, or  you
 Each preset has its own strategy; how much do you want to trust the model, or how much unconventional you want you output to be.  
 (You can, of course, switch between them. Stick to performance presets, then switch to variety presets if AI struggle. Or use interesting preset, and switch to consistence presets if AI won't stick to context.)
 
-Other factors are: CFG 1.11+ (Produce unnatural prose, but god tier context recall), Repetition Penalty (Too high, and your performance is damaged. Too low, and you get repetition.)
+Other factors are: CFG 1.11+ (Produce unnatural prose, but god tier context recall), Repetition Penalty (Too high, and your performance is damaged. Too low, and you get repetition or require manual editing.)
 
 See default presets or get a custom preset from [/aids/ wiki](https://aids.miraheze.org/wiki/Presets) or [#content-sharing](https://discord.gg/novelai).

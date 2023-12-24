@@ -598,6 +598,11 @@ Volume 5 has 1 chapter
 
 Total: 1560 gems
 
+Completing volume F gives you a new login screen, and so does reading the epilogue of Volume 4 chapter 2. 
+
+>can I change back my login screen? 
+No. 
+
 >WTF I'm stuck in the story help! It's at volume 3 chapter 3 episode 24 (v3 c3 e24) 
 [Example clear](https://youtu.be/lwA4emYpp_k), every newbie gets stuck on that. I'd recommend attempting it at level 40-50
 

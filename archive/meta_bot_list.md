@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2023-12-14)==<-
+->==(Updated 2023-12-24)==<-
 ***
 [TOC2]
 ***
@@ -9,6 +9,7 @@
 - https://rentry.org/aicgthemedweeks - large list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
 - https://rentry.org/fulminarerebuild - small list of bots; themed bots from a worldbuilding project; `current`
+- https://rentry.org/botmakersecretsanta - small list of bots; themed bots from a botmaking event; `current`
 - https://rentry.org/dividedskies - small list of bots; themed bots from a worldbuilding project; *deprecated*
 - https://rentry.org/crimsonfuture - small list of bots; themed bots from a worldbuilding project; *deprecated*
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*

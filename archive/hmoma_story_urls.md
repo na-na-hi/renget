@@ -242,6 +242,7 @@ https://rentry.org/MooMilkies (Bull Milk Greentexts by anonymous & /bara/hmoma/W
 https://rentry.org/Mattthecat (Matt the Cat by anonymous)
 https://rentry.org/owoffice (Old Office Wolf by anonymous)
 https://rentry.org/gd734hgs (An Unconventional Yeen GF by anonymous)
+https://rentry.org/ArmWrestler (Scranton Arm Wrestling by anonymous)
 https://www.sofurry.com/view/1075837 (Fractions of Happiness by Fawayne)
 https://www.sofurry.com/view/111469 (Sly and Tricky by DarwentheOrca)
 https://www.sofurry.com/view/1663150 (The Master by Bizmass)

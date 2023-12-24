@@ -104,9 +104,6 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
 
-###Try SDXL v1.0 online for free
-https://clipdrop.co/stable-diffusion
-
 ###Guides for running SDXL on ComfyUI
 https://aituts.com/comfyui-sdxl/
 
@@ -220,6 +217,7 @@ https://rentry.org/sdg_FAQ
 ###Prompting Tips
 https://rentry.org/hdgpromptassist
 ###Dreambooth
+https://tryolabs.com/blog/2022/10/25/the-guide-to-fine-tuning-stable-diffusion-with-your-own-images
 https://github.com/smy20011/dreambooth-gui
 https://github.com/ShivamShrirao/diffusers/tree/main/examples/dreambooth
 https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb

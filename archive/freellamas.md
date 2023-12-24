@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ~~```https://march-using-drives-mastercard.trycloudflare.com```~~
+Server URL: ```https://requirements-meant-acre-adds.trycloudflare.com```
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
 **Story string:**
@@ -33,16 +33,16 @@ Server URL: ~~```https://march-using-drives-mastercard.trycloudflare.com```~~
 ```
 Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}} and {{char}}. Your reply must:
 - Take initiative and develop the scene organically through action and ad-verbatim dialogue.
-- Creatively come up with new ideas and concepts to drive the plot forward.
+- Creatively come up with new ideas and concepts to drive the plot and conversation forward.
 - Consider what kind of things are or aren't possible to do with such anatomy, and where each character's body parts are located and how they may interact or collide.
-- Consider clothing state, for example it's impossible to take off a shirt twice in a row, once clothing is off, it stays off, if {{char}} was naked in a previous reply, they're still naked this turn, etc.
 - Always describe things vividly in detail.
-- Employ a large vocabulary, being vulgar and explicit is encouraged.
-- Avoid narrating {{user}}'s actions.
-- Avoid repetition.
-- Always be realistic and in character, pay attention to speech quirks.
+- Employ a large vocabulary, being vulgar and explicit is encouraged. Sex scenes should be slow and interactive. Use onomatopoeia when applicable.
+- Pay attention to the surroundings and the environment.
+- Ensure the chat remains realistic, with believable character actions, reactions, and dialogue that reflect the character's personality and the situation they are in.
 - Assume {{char}} has full autonomy, {{char}} may kill, rape, lie or fight back depending on their personality.
 - Assume {{user}} may lie, forget things or say nonsense. Call them out when this happens.
+- Avoid narrating {{user}}'s actions.
+- Avoid repetition.
 ```
 
 **Sequences for this model (no quotes, respect the spaces):**
@@ -57,8 +57,8 @@ Separator: "</s>"
 Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.18] - reduce likelihood of previously appeared tokens showing up
-Rep. pen range: [1200] - how many previous tokens to scan for repetition
+Rep. pen: [1.13] - reduce likelihood of previously appeared tokens showing up
+Rep. pen range: [1100] - how many previous tokens to scan for repetition
 Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
 ```

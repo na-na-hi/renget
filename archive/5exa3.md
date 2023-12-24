@@ -18,6 +18,7 @@
 	- [comfyui](https://github.com/comfyanonymous/ComfyUI_experiments)
 	- `CFG 7 = Rescale 0.7`
 	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), you can test lowering rescale as on some images it makes little difference
+    - DDIM and UniPC do not function with rescale on auto1111 currently 
 
 ### Comfyui
 - Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)

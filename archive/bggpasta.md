@@ -26,7 +26,7 @@ https://www.nexusmods.com/baldursgate3/
 \>Q: Are there any consequences to tadpolemaxing?
 \>A: [spoiler]No, you can consume as many tadpoles as you want without consequence. HOWEVER, if you consume the Astral-Touched Tadpole you'll suffer some cosmetic changes.[/spoiler]
 \>Q: Should I enable Karmic Dice?
-\>A: When Karmic Dice is enabled (it is by default), the game will avoid streaks of very low or very high rolls, both for you and the enemy. This will skew rolls leading to increased volatility. It is recommended to disable Karmic Dice if you're specializing in having high skills or high AC.
+\>A: Karmic Dice will avoid streaks of very low or very high rolls, both for you and the enemy. It is recommended to disable it if you're specializing. 
 
 \>Polls:
 \>Romance: https://strawpoll.com/NMnQ5kJXYn6
