@@ -1,3 +1,5 @@
+!!!note I'm ip blocked on 4chan, i think ip range or something something. I'm mostly active in discord (either scylla or ST server)... so if you don't like that, contact me through my burner if you have questions, if you wanna send death encouraging messages, or if you have problems or questions you want me to answer. myukuuuuu@proton.me 
+
 #Heyaa~ Tap here for [Claude!](https://www.rentry.org/MyuuTastic)
 #Gemini currently sbeve
 !!!danger ALL my jailbreaks are inject types! ST messes this up when importing but Position should be absolute, with the depth of 4! This is to give the ai 2-5 dialogues before continuing the roleplay. That way, it won't reply to previous messages or lag behind!

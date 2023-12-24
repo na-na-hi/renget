@@ -1,5 +1,7 @@
 # le.. prompts!
 
+->![merry christmas](https://files.catbox.moe/55zijy.gif)<-
+
 !!! info
 	spare gepetto proxy, ma'am?
 	leprompts@proton.me
