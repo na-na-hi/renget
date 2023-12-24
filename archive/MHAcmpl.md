@@ -1001,6 +1001,8 @@ Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight
 Law-Abiding Hero (Mirror Devil, Smokin' Sexy): https://rentry.org/uoezz
 Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil): https://rentry.org/6cgfyo
 The Other Side - B (Arena, Orbit, cameo of Yamata, 108): https://rentry.org/w8hvp
+Language Barrier (Madoka, Nekiro): https://rentry.org/Language_Barrier
+Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people): https://rentry.org/oeyupk
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

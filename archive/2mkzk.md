@@ -17,7 +17,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 ##Cytubes
 
 **SAT: Megaman Fully Charged at 19UTC** 
-**SUN: Rockman: Hoshi ni Negai o at 17UTC**
+**SUN: Rockman: Hoshi ni Negai o at 19UTC**
 
 >-
 nothing

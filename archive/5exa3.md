@@ -61,7 +61,7 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 	- `best quality, high quality`
 	- `normal quality`
 	- `worst quality, low quality`
-- Some additional tags to keep in mind but not use unless it becomes an issue
+- Some optional tags to keep in mind. They are not essential.
 	- Human, not furry, 5 fingers
 	- Anthro, furry, fluff, tuft, paws, slit pupils
 
@@ -102,7 +102,8 @@ Example | &nbsp;
 
 ### Negative embeddings 
 
-Embeddings made for furry models specifically. 
+> Embeddings made for furry models specifically. 
+This doesn't mean you can't use non-furry embeddings
 
 Embedding | Effect
 ----: | :----
@@ -134,6 +135,13 @@ Auto:.7/Script:.7 | ![](https://files.catbox.moe/p923ox.png)
 
 ### 2D~3D~Real tagging
 -> ![](https://files.catbox.moe/eizig7.png) <-
+
+### Version comparison
+Consider this a mild wip since I don't have all the models downloaded and I want to decide which versions I should grid along with a few ideal and fair prompts.
+>1girl, human (no quality tags)
+![](https://files.catbox.moe/qu4pjr.webp)
+>1girl, human, amazing background, woman looking over at lanterns (no quality tags)
+![](https://files.catbox.moe/a4nxaz.webp)
 
 ## LoRA
 ### Nai Trained LoRA

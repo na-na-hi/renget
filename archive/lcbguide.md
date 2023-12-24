@@ -22,7 +22,7 @@ Go through the story at your own pace. Once you complete chapter 2 you will have
 **5. This game has a required reading list?**
 Yes. They're not necessary to understand the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger, and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are canon comics and novels set in the Project Moon Universe.
 [MEGA with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
-[Recommended Translations](https://rentry.org/ligmabooks)
+[Recommended Translations](https://rentry.org/limbisbooks)
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **6. Is this game F2P friendly/generous?**
@@ -386,4 +386,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/27/23: Added preface to farming section and updated both tier lists.
 12/8/23: Fixed and updated some minor things.
 12/15/23: Updated to reflect the new Mirror Dungeon.
-12/21/23: Updated for hard mode also the FAQ was ordered wrong all this fucking time. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/21/23: Updated for hard mode also the FAQ was ordered wrong all this fucking time.
+12/24/23: Updated Limbus book Rentry link merry Christmas faggot ![lol&](https://files.catbox.moe/7dmu76.png)

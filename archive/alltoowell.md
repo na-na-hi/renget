@@ -1,1 +1,1 @@
-Huy haha joke lng tong link pra aesthetic dude
+ten minute ver [###](https://rentry.org/jellyfishfield)

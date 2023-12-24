@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 8 | **Experience to Next Level:** 25/80 | **Alignment:** Lawful Good
+**Level:** 8 | **Experience to Next Level:** 45/80 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 850₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 

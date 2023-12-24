@@ -1,4 +1,5 @@
-->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-![Daddy's Girl](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lPhqaJTsQWvkrZwuqhtjyLlO)
+->**[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)**<-
+->![Trustworthy Individual](https://files.catbox.moe/epwayg.png)<-
 ### Orner ♀
 Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketchy fellow. Talks big but hasn't been in real fights. Thinks she's a dragon. Probably a year old. Sspeakss like thiss. Currently wrangling a bunch of insane critters after being spacially displaced.
 
@@ -49,8 +50,8 @@ Glare | Orner looks straight into your soul, freezing you in place.
     6/10 IP | ▮▮▮▮▮▮▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Sales Pitch | The User can sell Items for 10% more in shops.	| 40 IQ	| 3 IP
-2. Coin Haggler | The User can buy Items for 10% less in shops.	| 40 IQ	| 3 IP
+1. Sales Pitch | The User can sell Items for 10% more in shops.	| 3 IP
+2. Coin Haggler | The User can buy Items for 10% less in shops.	|  3 IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -59,7 +60,7 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
 Attribute: Sea Snake |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
-Attribute: Sailing |  Tier **ɪɪɪ** | Orner has well trained sea legs, without the legs.
+Attribute: Sailing |  **ᴍᴀx** | Orner has well trained sea legs, without the legs.
 Battle Attribute: EXAMPLE  | N/A
 
 Training | Completion | Progress (Numerical) | Progress Bar

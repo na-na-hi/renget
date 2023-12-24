@@ -72,6 +72,9 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* Three Chinese anti-piracy navy ships ignore non-Chinese cargo ships distress calls as they are raided by Yemeni pirates
+* European science journal publishes study showing patients with long covid have had their DNA genome altered
+* Journal 'Nature' study says it is dangerous to 'do your own research' and to trust mainstream media and not ask questions
 * Israeli bulldozers roll over tents outside Gazan hospital, dozens are buried alive and crushed
 * Zionist USA schoolteacher flips out and threatens 12yo student with beheading cos she dislikes the Israeli flag
 * Hacker group, Cyberniggers claim to have internal US DoD documents and access to US Army online dashboard
@@ -79,12 +82,12 @@ The list shall change - removals as anons make memes, additions from suggestions
 * Yemeni military launches explosive drone at Dutch cargo ship headed for Israel, after they refused to stop
 * Former CFIUS Security guys house raided, explodes, gets announced dead, socials scrubbed, he goes online to keep posting
 * Investigations committee cant see any footage along the Gaza wall from Hamas attack, because cameras somehow disappeared
-* New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
-* Chicago police report a 11,000% increase in arrests since 2021 of Venezuelan migrants (2,500% increase since 2022)
-* Jewish campus org, Hillel paid people to place 'I love Hamas' stickers all over University of British Colombia
 
 ####General Ideas
 
+* New Zealand health worker leaks clot shot statistics showing mortality rates, gets arrested and internet data scrubbed
+* Chicago police report a 11,000% increase in arrests since 2021 of Venezuelan migrants (2,500% increase since 2022)
+* Jewish campus org, Hillel paid people to place 'I love Hamas' stickers all over University of British Colombia
 * Before becoming the Unabomber, Ted K. went through CIA funded MK-Ultra program during university years
 * Henry Kissinger, now dead at 100, predicted to take upper management position in hell
 * Aircraft navigation systems in the Middle East face mysterious ongoing hacks leading to major flight problems

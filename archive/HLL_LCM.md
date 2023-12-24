@@ -2,7 +2,8 @@
 
 [TOC2]
 !!! note These grids could be better but my main goal was to show a minimal prompt with each artist to show their impact on backgrounds/clothing/character without much emphasis. 
-	Topwear/bottomwear messed with my main goal but I was also trying my best to stay SFW.
+	- Topwear/bottomwear messed with my main goal but I was also trying my best to stay SFW.
+	- I used quality tags but please remember that for some artist mixes this can make results worse 
 
 Positive:
 ```

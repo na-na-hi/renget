@@ -212,6 +212,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) **Non-Canon (Draft) Story**
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
     * [Anxiety (ft. Gus) [Temp title]](https://rentry.org/mgeaa) **In-Dev Early Draft Story**
+	* [For T'nite (ft. Gus)](https://rentry.org/OshawottForTnite)
 * Hans the Dragonair
 	* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 * Jimmy the Gimmighoul
@@ -544,6 +545,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
 * [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 * [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
+* [For T'nite (ft. Gus)](https://rentry.org/OshawottForTnite)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

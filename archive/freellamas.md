@@ -57,8 +57,8 @@ Separator: "</s>"
 Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.03 - 1.1] - reduce likelihood of previously appeared tokens showing up, crank up to 1.2 at sign of repetition
-Rep. pen range: [8888] - how many previous tokens to scan for repetition
+Rep. pen: [1.18] - reduce likelihood of previously appeared tokens showing up
+Rep. pen range: [1200] - how many previous tokens to scan for repetition
 Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
 ```

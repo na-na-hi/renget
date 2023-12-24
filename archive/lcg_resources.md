@@ -62,7 +62,7 @@
 * [So, you want to know Project Moon lore?](https://files.catbox.moe/tgo7m4.png)
 * [Required Reading MEGA](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 * [Lobotomy Corporation Artbook (All languages)](https://mega.nz/folder/Ey0RFBKT#1siorKpaKBmRZ1-QuUITtg)
-* [Recommended Translations](https://rentry.org/ligmabooks)
+* [Recommended Translations](https://rentry.org/limbisbooks)
 * [Wonderlab](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/Mg003CjK)
 * [Distortion Detective](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/RhtACaRa)
 * [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
@@ -116,6 +116,8 @@
 * [Project Moon TTRPG](https://drive.google.com/drive/folders/15nMYLz0sB5xWUiSOG4oN6IsteRJjpdZk)
 * [Book of Fixers: The Fixer RPG](https://archive.4plebs.org/tg/thread/76610447/)
 * [Limbus Company Character Generator](https://en.shindanmaker.com/1163956)
+* [Limbus Company Slot Machine/Art Ideas?](https://slot-maker.com/slot/952cba69-4874-41b2-8a19-c0d984850dd1/)
+* [Translations for above](https://rentry.org/4ttve)
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
 * [Library of Ruina Dialogue Bug Fixes Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2993072469)
 * [Lobotomy Corporation Optimization Mod](https://www.nexusmods.com/lobotomycorporation/mods/57)
@@ -144,6 +146,7 @@
 * [A Base Sinners Sub-120 RR Guide](https://docs.google.com/document/d/17nAAc9IUTcI3kdZpvpIY4vBQ7DyrX_czkTJylWjATJk)
 * [Team Optimizer 1.15](https://docs.google.com/spreadsheets/d/15RGTMKZqyjolvCSxlY44PDlZpd0MEH6tjY8a8mQCpEM)
 * [Ligmus schizotheorycrafting](https://rentry.org/ligmatheories)
+* [Old Recommended Translations](https://rentry.org/ligmabooks)
 * [Ligma Guide](https://rentry.org/ligmaguide)
 
 ## Credits
@@ -172,4 +175,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/13/23: Added new RR guide link, KanKan archive 2 and Shimeji archive.
 11/15/23: Updated PMkots archive. ![헤](https://files.catbox.moe/207ryd.png)
 11/27/23: Moved MD2H link to outdated section.
-12/13/23: Added new damage calcuator link. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/13/23: Added new damage calcuator link.
+12/26/23: Switched out recommended translations link and added Limbus slotmaker links merry Christmas faggot ![lol&](https://files.catbox.moe/7dmu76.png)

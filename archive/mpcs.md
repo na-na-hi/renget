@@ -34,7 +34,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 ##Recently Updated!
 !!!info 
 
-## Charater Cards [SFW]
+## Character Cards [SFW]
 
 ### Alana Sang [OC] [Female] [Soldier] [Antagonist]
 
@@ -95,7 +95,7 @@ Formatted with: Scrip+Boostyle
 
 ***
 
-## Charater Cards [NSFW]
+## Character Cards [NSFW]
 
 ### Aelura [OC] [Furry] [Scalie] [Female] [Dommy Mommy] [NEW]
 

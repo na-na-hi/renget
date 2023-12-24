@@ -6,7 +6,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 9 | **Experience to Next Level:** 65/90
+**Level:** 9 | **Experience to Next Level:** 85/90
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
 **Pokécoin:** 50₽ [753₽ in Bank] | **Glorious Gold:** 0 Bars
 
@@ -20,7 +20,7 @@ Pokémon's Ability | Description
 
 Stat | Points: 2 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 20HP
+Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 1 | Attribute Stat *Tier ɪ* | +1 Special Damage
 Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation
@@ -84,7 +84,7 @@ Equipped Item: Stun Seed | Causes *Petrified* on consumption.
 Item Name | Description
 ------ | :----: 
 1. Abstain Seed | Causes Hungry on consumption.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Magma Macaroni | It's not actually made of magma, but it sure can feel like it! | Increases Attack by 2 stages.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
