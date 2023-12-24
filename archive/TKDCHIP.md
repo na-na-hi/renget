@@ -671,6 +671,9 @@ We made with our hands what we harvest your heads with
 https://files.catbox.moe/e7g2s8.mp4 New  12/20/23
 Scenes of targeting a foot force consisting of 5 soldiers with an anti-fortification missile and clashing with it northwest of Beit Lahia city
 https://files.catbox.moe/kwfq39.mp4  12/22/23
+THE LONG AWAITED VIDEO IS HERE: Mujahideen Brigades published the video of their Anti-Air Defense Unit targeting a Zionist helicopter with a SAM-7 missile, hitting it directly.
+https://files.catbox.moe/q950zj.mp4  12/23/23
+
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -714,6 +717,8 @@ Al-Quds Brigades (PIJ) published scenes of the artillery & rocket launches targe
 https://files.catbox.moe/fpy9sb.mp4 New  12/19/23
 Scenes from the detonation of a barrel bomb on a Zionist foot force and a military bulldozer east of the Shujaiya neighborhood
 files.catbox.moe/4j3jvm.mp4 New  12/20/23
+WATCH: Saraya Al-Quds (PIJ) published a video showing a successful sniping operation on israeli soldier(s).
+https://files.catbox.moe/kcqiqt.MP4  12/23/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -832,3 +837,18 @@ https://files.catbox.moe/kwfq39.mp4  12/22/23
 
 >Fren posted video 
 files.catbox.moe/1bkvcm.mp4 New  12/22/23
+
+>Mean while on the galaxy leader .... 
+https://files.catbox.moe/0014zb.mp4 New  12/23/23
+
+>Testimony from Gaza stating that Israel's military carries out mass executions
+https://files.catbox.moe/ya2fm5.mp4 New  12/23/23
+
+>Testimony by 2 released prisoners from Gaza:
+https://files.catbox.moe/key9ag.mp4 New  12/23/23
+
+>No aftermack!
+files.catbox.moe/rkv2mw.mp4 New  12/23/23
+
+>The Triangle - arrives at the West Bank: Scenes of the targeting of the occupation forces and clashing with them in the popular housing neighborhood - #Nablus
+https://files.catbox.moe/kh9hgf.mp4  12/23/23

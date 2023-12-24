@@ -582,7 +582,7 @@ Volume 4 has 2 chapters
 
 Total: 2640 gems
 
-Volume F has 4 chapters and 3 side-contents
+Volume F has 4 chapters and 3 side contents
 -    Chapter 1 has 15 episodes 
 -    Chapter 2 has 21 episodes 
     - Side content 1 has 16 episodes 

@@ -1,5 +1,5 @@
 # This page is a WIP mess
-## -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. <-
+## -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. Don't take it seriously it is more of a sketch than a guide.<-
 - - -
 ##Contents:
 [TOC3] 

@@ -457,3 +457,40 @@ https://rentry.org/z7ize
 https://rentry.org/o2f25
 >The Pencil (Ryu-kishi, Maru(maru), Mirror Devil)
 https://rentry.org/sdtvh
+----------------------------------------------------------------------------------------------------------------------------
+Page 9
+----------------------------------------------------------------------------------------------------------------------------
+>Hitomi-chan's First Date (Feral, Drekus, Reaper)
+https://rentry.org/2tu8m
+>"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marrow)
+https://rentry.org/TheTalkAndBully
+>Drone's Mirror (Drone, Mirror Devil):
+https://rentry.org/e3gx4a
+>The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl)
+https://rentry.org/r4nhp
+>Date Gossip
+https://rentry.org/f78w2
+>Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako)
+https://rentry.org/6p6na
+>The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D 
+https://rentry.org/2ngq2
+>The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
+https://rentry.org/fuisbz
+>Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man)
+ https://rentry.org/5cxcb3
+>Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
+https://rentry.org/y4cam
+>Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): 
+https://rentry.org/k2f3c
+>The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva)
+https://rentry.org/t97vwn
+>Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
+https://rentry.org/rkhpv
+>Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
+https://rentry.org/ewwu9
+>Boys in a Comic Store (The Boys, Bakeneneko, Capture Cloth, Blackout)
+https://rentry.org/b2mhn
+>Sunlight Man vs. Umbra (Sunlight Man, Challenger, Flying Force, Spark)
+https://rentry.org/xxk2h
+>Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
+https://rentry.org/e7cszt

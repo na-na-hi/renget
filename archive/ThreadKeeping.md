@@ -181,10 +181,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil)
-https://rentry.org/6cgfyo
->The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
-https://rentry.org/w8hvp
+>Language Barrier (Madoka, Nekiro):
+https://rentry.org/Language_Barrier
+>Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
+https://rentry.org/oeyupk
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -550,46 +550,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Hitomi-chan's First Date (Feral, Drekus, Reaper)
-https://rentry.org/2tu8m
->"The Talk" (Spark, Recoil, Drone, Radius, Arena, Challenger, Sunlightman, Mirror Devil, Marrow)
-https://rentry.org/TheTalkAndBully
->Drone's Mirror (Drone, Mirror Devil):
-https://rentry.org/e3gx4a
->The Theme Park Episode (Yako, Maru(maru), Fight Man, Hyōtetsu, Bunraku, Yokawaii, Mire Girl)
-https://rentry.org/r4nhp
->Date Gossip
-https://rentry.org/f78w2
->Do Not be Afraid (Last Rite, Rosethorn, Maru(Maru), Orochi, Yako)
-https://rentry.org/6p6na
->The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke, Bogey), mentions of 1-D 
-https://rentry.org/2ngq2
->The Investigation Continues (Mirror Devil, Last Rite, Noctiluca):
-https://rentry.org/fuisbz
->Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man)
- https://rentry.org/5cxcb3
->Alone On A Friday Night? God, you're pathetic. (Maru(Maru))
-https://rentry.org/y4cam
->Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): 
-https://rentry.org/k2f3c
->The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva)
-https://rentry.org/t97vwn
->Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu)
-https://rentry.org/rkhpv
->Mirror's Drone (Miracle, Drone, Recoil, Arena, Spark, Radius, Maru (Maru), Mirror Devil):
-https://rentry.org/ewwu9
->Boys in a Comic Store (The Boys, Bakeneneko, Capture Cloth, Blackout)
-https://rentry.org/b2mhn
->Sunlight Man vs. Umbra (Sunlight Man, Challenger, Flying Force, Spark)
-https://rentry.org/xxk2h
-```
-***
-Page 7
-***
-```
-Writefags (cont.)
->Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
-https://rentry.org/e7cszt
 >Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
 https://rentry.org/2bovid
 >Desolator's Last Stand (Desolator):
@@ -634,7 +594,7 @@ https://rentry.org/oebs9
 https://pastebin.com/geBb3M22
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (cont.)
@@ -694,10 +654,10 @@ https://rentry.org/s8558
 https://rentry.org/4eama
 ```
 ***
-Page 9
+Page 8
 ***
 ```
-Writefags (final)
+Writefags (cont.)
 >Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
 https://rentry.org/znbnka
 >Holden On To A Blank (Holden Deckard, Blank)
@@ -738,6 +698,17 @@ https://rentry.org/uoezz
 https://rentry.org/6cgfyo
 >The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
 https://rentry.org/w8hvp
+>Language Barrier (Madoka, Nekiro):
+https://rentry.org/Language_Barrier
+>Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
+https://rentry.org/oeyupk
+```
+***
+Page 9
+***
+```
+Writefags (final)
+Soon
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

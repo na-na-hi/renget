@@ -7,10 +7,12 @@
 	-> 20 Dec - **LovellStreak** (Furbo). Reordered certain instructions in ==\==PREFERENCES\=\=== to give them higher weightage, and modified how AI should decide on Acts in the codeblock. Responses have been promising so far, and results, seen in [Logs](https://rentry.org/LURKzLogs), seem good! I've deleted my ==\==SEXO\=\=== prompt, as I felt it wasn't good enough and disoriented too much from the storyline. It may or may not be added back, based on whether I want my preset to focus more on storyline (Adventure/Fantasy) as opposed to just straight Coom/Sexual responses.<-
 
 	-> 21 Dec - **TenWishes** (Furbo). ~~I don't even know. Where am I?~~ Modified instructions to prevent {{char}} from assuming {{user}}'s actions/dialogues in order to progress the story-arc.<-
+
+	-> 24 Dec - **TenWishes** (Furbo). %red%127.0.0.1:8080%%. Replaced two words with two different words in the statbox. Improves dialogue and narration by 100% (Source: www.google.com)<- 
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
-->![img2](https://i.imgur.com/Z5OYDDT.gif)<-
+->![img2](https://media2.giphy.com/media/l2SpQUmrIEbGF0Q4E/giphy.gif?cid=ecf05e477lujneav13bsy7vx73cno4690jhjtbkasrax8y8k&ep=v1_gifs_search&rid=giphy.gif&ct=g)<-
 ***
 [TOC3]
 ***
@@ -18,7 +20,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/30fgsh.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/30fgsh.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/34ndnq.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/34ndnq.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

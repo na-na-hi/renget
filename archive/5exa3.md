@@ -3,6 +3,7 @@
 
 [TOC2]
 
+*** 
 
 ## Base Requirements
 - Get a copy of [easyfluff](https://huggingface.co/zatochu/EasyFluff/tree/main)
@@ -18,35 +19,52 @@
 	- `CFG 7 = Rescale 0.7`
 	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), you can test lowering rescale as on some images it makes little difference
 
+### Comfyui
+- Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)
+	- sampling: V_prediction
+You can also take the image I have [below](https://rentry.org/5exa3/edit#drag-and-drop-starter-workflows) and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) and just add it the way you add LoRA
 - [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
 - [HLL/e621 tags](https://files.catbox.moe/e6jc6i.csv)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
 	- Settings > Tag Autocomplete > Extra filename
-- Clip skip -1 is recommended but -2 is fine
-- Prompt a few artists like `by x` or even `by x, by y, by z`
-- Starting with a natural language prompt and refining with tags is recommended
-- It is receptive to booru and e621 tags
-- The LyCO has quality tags
-	- best quality, high quality
-	- normal quality
-	- worst quality, low quality
-
-
-
-** Putting the previous versions here out of convenience**
+***
 Model | Artist Wildcards | Artist Examples | Tags | Changes
 ----: | :----: | :----: | :----: | :----
 [a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [Examples](https://files.catbox.moe/vycv54.jpg), [Combos](https://catbox.moe/c/6etv3n#) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
-[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
-[a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [WIP Rentry](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
+[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg), [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
+[a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b), [~~WIP Rentry~~](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
 
-### Comfyui
-- Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)
-	- sampling: V_prediction
 
-You can also take the image I have below and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+#### What settings?
+- Clip skip:
+	- `-1`
+	- -2 is fine
+- Resolution:
+	- `578 ~ 1088`
+	- It's pretty generous about handling lower and higher resolutions.
+	- 512x768 still viable but I mainly only do that for batch tests
+	- My drag and drops have about as high as I have tested without issue
+- Tagging system:
+	- HLL lets you use `Danbooru/e621`
+
+**Prompting:**
+- Prompting artists is generally essential 
+	- `by x`
+	- `by x, by y, by z` or `by [x|y|z]` for artist mixes
+- EF base recommends prompting natural language and refining with tags
+	- Anecdotally I prefer the other way around
+	- Depending on your base EF model some have different ratios of understanding tags vs natural language
+- The LyCO has quality tags
+	- `best quality, high quality`
+	- `normal quality`
+	- `worst quality, low quality`
+- Some additional tags to keep in mind but not use unless it becomes an issue
+	- Human, not furry, 5 fingers
+	- Anthro, furry, fluff, tuft, paws, slit pupils
+
 
 ### Drag and drop starter workflows
 > ※ Will likely have to change the vae and lora
@@ -65,10 +83,12 @@ Auto1111 | ComfyUI
 ***
 **Raw furry model wrangling**
 - Toggle refiner and set the checkpoint you want
-- Get Adetailer and and toggle separate checkpoint in the inpainting drop-down
-	- leave it on easyfluff for things that aren't faces
-- "human" in prompt
-- "anthro, fluff, fur" sometimes in negatives
+- Adetailer
+	- "Inpainting" > "Use separate checkpoint" > "Use separate CLIP skip"
+	- leave adetailer on the furry model for anything it handles better
+- Prompt
+	- Positive: `human`
+	- Negative: `anthro, tuft, fluff, fur, slit pupils`
 - Optionally put [this LoRA](https://civitai.com/models/104477/de-anime-er) into the prompt and set it to around -.6
 - Quality tags aren't trained in base EF. If you feel you need them then [this LoRA](https://civitai.com/models/127533?modelVersionId=151790) exists
 - [Base EasyFluff artist examples](https://mega.nz/folder/YQMhHDqa#czASBKMNvoaPqJgH3sLo-w/folder/RMk1xBzC) | [rentry](https://rentry.org/easyfluffcomparison/)

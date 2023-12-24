@@ -121,6 +121,7 @@ _______
 | 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO  『2023-10-28』|[![](https://files.catbox.moe/s2uasv.jpg)](magnet:?xt=urn:btih:30e74b5aeab6d1271a06864c855547c2a35e686f&dn=%5B20231029%5D%20Unarchived%20Halloween%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/9gaff1.txt|
 | 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥  『2023-11-06』| [![](https://files.catbox.moe/8rg907.jpg)](magnet:?xt=urn:btih:2ef6e648bbbaa8b76c9ad85e342ed7357251b1f0&dn=%5B20231107%5D%20Unarchived%20Guitar%20Hero%20III%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/vcu8dl.txt|
 | 【UNARCHIVED 歌枠】Turkey Day Karaoke !! 『2023-11-23』| [![](https://files.catbox.moe/7tin77.jpg)](magnet:?xt=urn:btih:a28e55fdcba92b86c74b75a6aa63766063c29516&dn=%5B20231124%5D%20Unarchived%20Turkey%20Day%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0z8uhw.txt|
+| 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !!  『2023-12-24』|[![](https://files.catbox.moe/i9jj44.jpg)](https://www.youtube.com/watch?v=196LbN_Td2c)|Placeholder|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -128,7 +129,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#8 |#45 | #7 |60 |
+|#8 |#46 | #7 |61 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

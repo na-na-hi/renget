@@ -1254,3 +1254,198 @@ https://nitter.net/AryJeay/status/1738312185070137485#m  12/22/23
 
 >The UN Security Council approved a decision, which started as a call to impose a ceasefire to stop the nonstop Israeli genocide in Gaza, but turned into focusing on increasing humanitarian aid to the besieged strip.
 https://nitter.1d4.us/QudsNen/status/1738346062740382068#m  12/22/23
+
+>Iran’s President Raisi:
+The forced migration of the people of Gaza is on the agenda of the Americans
+
+The most important goals are the ceasefire and the lifting of the blockade of Gaza and the opening of crossings and the creation of a fund to help the people of Gaza and prevent the forced displacement of the people of Gaza.
+https://nitter.net/AryJeay/status/1738531981766361294#m  12/23/23
+
+>EXCLUSIVE | Israel informs Egypt it will occupy border regardless of its reaction
+https://nitter.1d4.us/QudsNen/status/1738536685527306261#m  12/23/23
+
+>They buy media mercenaries to defend Israel
+https://nitter.net/ME_Observer_/status/1738423286411694510#m  12/23/23
+
+>Senior AnsarAllah official:
+
+When attempting to intercept a Yemeni ballistic missile, israel needs about $5 million for the Arrow-3 interceptor missile.
+
+Sometimes, their AD system launches more than one missile at a single target. Similarly, intercepting a Yemeni cruise missile or a drone, which costs no more than $2,000, requires an israeli, American, or Saudi to use a Patriot or THAAD interceptor missile, each ranging from 2-3 million dollars, and sometimes multiple missiles are launched at a single target.
+
+(Economic warfare at its finest )
+https://nitter.net/AryJeay/status/1738541363694592265#m  12/23/23
+
+>The daily suffering of people of Gaza to get water, which has become scarce due to the ongoing Israeli siege on the Strip.
+https://nitter.1d4.us/QudsNen/status/1738519554823725278#m  12/23/23
+
+>Al-Qassam (Hamas) announced a MAJOR operation:
+
+We managed to ambush & neutralize 4 enemy jeeps in a well-prepared ambush in Juhur al-Dik, central Gaza. 
+
+We detonated a complex field of anti-personnel and anti-armor mines, crushing the force, resulting in the death of all its members. Additionally, an IOF tank rushed to the scene, we also destroyed with a Yasin-105 rocket. 
+
+The rescue & evacuation forces in the operation area were targeted with the "Rajoom" rockets and heavy-caliber mortars. 
+
+Zionist ambulances & vehicles were observed transporting the casualties from the site.
+https://nitter.net/AryJeay/status/1738554730345857224#m  12/23/23
+
+>Yemen: Huzam al Assad, member of Ansarallah shura Council : "Is the issue of the soldiers' diapers true?  I thought it was a joke"
+https://nitter.net/ME_Observer_/status/1738573048721105277#m  12/23/23
+
+>News Coverage | The Washington Post, analyzing satellite images of Gaza, reports: "The destruction in Gaza is unprecedented in this century, and what the Israeli army has demolished in northern Gaza over the past 7 weeks is twice the number of buildings destroyed in Aleppo over 3 years."
+https://nitter.1d4.us/QudsNen/status/1738575941331198242#m  12/23/23
+
+>Reuters: Israel-affiliated merchant vessel hit by aerial vehicle off India
+https://www.reuters.com/markets/commodities/israel-affiliated-merchant-vessel-hit-by-aerial-vehicle-off-india-uk-firm-2023-12-23/  12/23/23
+
+>According to exclusive sources, members of EU states expressed their annoyance after an Israeli official described the EU’s role as “pay but don’t play” regarding Gaza’s future following the aggression.
+https://nitter.1d4.us/QudsNen/status/1738584918471426101#m  12/23/23
+
+>The Yemenis turned the israeli ‘Galaxy Leader’ ship into an entertainment place
+https://nitter.net/AryJeay/status/1738584984225550781#m  12/23/23 
+
+>Reminder: I still see people from the Resistance circle use the term “Houthi” which is wrong. The correct term is ‘AnsarAllah’ as stated by the leader of the group.
+
+ One of the main strategies used by the main stream media to tarnish the image of the Islamic Resistance is to label the wars waged in Islamic countries, like Yemen as “racial” or “religious”. By specifically emphasizing "The Houthis," they seek to confine and falsely attribute the prevailing sentiment of the majority of Yemeni people to a confined faction.
+https://nitter.net/AryJeay/status/1738598934795186365#m  12/23/23
+
+>Saudi report:
+In recent days, the Houthis in #Yemen have begun planting large quantities of mines south of the coastal city of Hodeidah, in preparation for any response following their attacks in the Red Sea.
+https://nitter.net/ME_Observer_/status/1738605526408122774#m  12/23/23
+
+>Dozens of innocent lives, including children and women, fell victim today to the nonstop barrage of Israeli airstrikes, artillery bombardments, and indiscriminate shootings by invading troops.
+https://nitter.1d4.us/QudsNen/status/1738606886037991605#m  12/23/23
+
+>They got -
+https://twitter.com/ME_Observer_/status/1738604019633823954  12/23/23
+
+>The coalition is officially useless: Preliminary reports of an attack against a ship in the Bab el Mandab strait, towards the Red Sea.
+https://nitter.net/AryJeay/status/1738619625825313151#m  12/23/23
+
+>The israeli army admits to the elimination of 5 officers in the Gaza Strip over the weekend:
+
+- Staff Sgt. Nir Rafael Kananian, 20, of the Givati Brigade's reconnaissance unit
+
+- Staff Sgt. Birhanu Kassie, 20, of the Givati Brigade's reconnaissance unit
+
+- Cpt. Oshri Moshe Butzhak, 22, a team commander in the Nahal Brigade's reconnaissance unit
+
+- Master Sgt. (res.) Shay Termin, 26, of the 55th Reserve Paratroopers Brigade's 6623rd Battalion
+
+- Warrant Officer (res.) Alexander Shpits, 41, of the 55th Reserve Paratroopers Brigade's 6623rd Battalion
+
+Another 5 soldiers/officers were also “seriously wounded”
+https://nitter.net/AryJeay/status/1738617156625940933#m  12/23/23
+
+>A settler was fleeing towards a shelter during a rocket attack, falls down the stairs and gets a wound in the shape of the Palestinian map.
+Even the geographical map of Palestine inflicts pain upon the israelis.
+https://nitter.net/AryJeay/status/1738619108835397891#m  12/23/23
+
+>Media coverage | The 'Al Qassam Brigades' say to have reactivated two American-made missiles, each weighing 2 tons, which did not detonate after being dropped on residential areas in Gaza by the Israeli aircrafts. The brigade utilized them today to target 5 Israeli tanks, resulting in confirmed casualties.
+https://nitter.1d4.us/QudsNen/status/1738642902018859288#m  12/23/23
+
+>"They entered our main hall and rained us with bullets"
+
+A terrible testimony from Gaza stating that Israel's military carries out mass executions.
+https://nitter.1d4.us/QudsNen/status/1738656448807088492#m  12/23/23
+
+>WATCH: Testimony by 2 released prisoners from Gaza:
+
+The resistance allowed us to play sports and taught children new games, including "Warq Al-Shadah" (playing cards). They nicknamed one of us "Salsabeel," and women are considered sacred queens among them. 
+
+One person even placed a towel on his hands so as not to touch me when we played "hand-to-hand combat."
+https://nitter.net/AryJeay/status/1738658321710588128#m  12/23/23
+
+>Al-Qassam (Hamas)
+We are engaged in intense armed clashes with heavily armed mechanized IOF forces infiltrating a common axis north of Gaza. 
+
+Our fighters succesfully resisted a reinforced IOF force using Yassin-105s and "TBG" explosives, resulting in several casualties and we heard their soldiers cry.
+https://nitter.net/AryJeay/status/1738676275550507246#m  12/23/23
+
+>Walla :
+Over 50% (86 out of 155) of the houses in Kibbutz Manara in northern Israel have been destroyed by Hezbollah rocket fire from #Lebanon.
+
+Approximately 80,000 Israelis have been forced to evacuate their homes in northern #Israel alone.
+https://nitter.net/ME_Observer_/status/1738685864165703939#m  12/23/23
+
+>The Government Media Office: Today, Israel killed journalist number 100 during the offensive on Gaza and journalism.
+https://nitter.1d4.us/QudsNen/status/1738688088027676854#m  12/23/23
+
+>WATCH: Saraya Al-Quds (PIJ) published a video showing a successful sniping operation on israeli soldier(s).
+https://nitter.net/AryJeay/status/1738506599713341832#m  12/23/23
+
+>THE LONG AWAITED VIDEO IS HERE:
+Mujahideen Brigades published the video of their Anti-Air Defense Unit targeting a Zionist helicopter with a SAM-7 missile, hitting it directly.
+https://nitter.net/AryJeay/status/1738536639922626700#m  12/23/23
+
+>The Triangle - arrives at the West Bank: 
+Scenes of the targeting of the occupation forces and clashing with them in the popular housing neighborhood - #Nablus
+https://nitter.net/ME_Observer_/status/1738694279403286839#m  12/23/23
+
+>BIG SUMMARY of all resistance operations today, December 23, against (US)-israeli forces
+
+Al-Qassam Brigades:
+A total of ~50 israeli soldiers were either killed/wounded today.
+
+-Inflicted significant casualties among IOF soldiers, both killed and wounded, in the Jabaliya Al-Balad area north of Gaza, using explosive devices, Yasin-105s & "TBG" anti-personnel and fortification explosives.
+
+-Detonated an explosive-laden tunnel targeting a special israeli force in the Juhr Al-Dik area, also targeting their rescue forces with heavy-caliber mortars, causing casualties.
+
+- Ambushed & engaged 4 IOF soldiers from point-blank range in the Qassasib neighborhood in Jabaliya Camp.
+
+- Destroyed 5 Merkava tanks, killing & injuring all crew members, by repurposing two unexploded 2-ton bombs dropped by IOF warplanes.
+
+- Shelled IOF field command rooms in the southern axis of Gaza City with heavy-caliber mortars.
+
+- Targeted 2 military vehicles with Yasin-105s in Sheikh Radwan neighborhood, Gaza City.
+
+- Ambushed an IOF soldier at point-blank range in Sheikh Radwan neighborhood, Gaza City.
+
+- Ambushed 4 military jeeps in a well-prepared ambush in the Juhr Al-Dik area, using explosive devices, resulting in crushing the force and killing all its members. Additionally, a Merkava tank rushing to the scene was also destroyed by a Yasin 105. The rescue & evacuation forces in the operation area were also targeted with the "Rajoom" rockets and heavy-caliber mortars. 
+
+- Destroyed an IOF armored personnel carrier (APC) with a Yassin-105, north of Khan Yunis, causing it to catch fire.
+
+- Succesfully targeted 2 IOF soldiers with an RPG in Khan Yunis, resulting in their immediate death and turning them into pieces.
+
+- Shelled an IOF army gathering east of Khan Yunis with mortars.
+
+- Targeted an IOF infantry force with an anti-personnel and other explosive devices, finishing off using machine guns, causing casualties between killed and wounded east of the Juhr Al-Dik area.
+
+- Targeted the infiltrated forces in the Juhr Al-Dik area, with the "Rajoom" 114mm short-range rockets
+
+Al-Quds Brigades:
+
+- Shelled military vehicle movements east of Rafah with heavy-caliber mortars, causing direct and confirmed hits.
+
+- Targeted a Merkava tank with a "Tandem" rocket, around the Abu Sharakh roundabout in the northern axis of Gaza.
+
+- Shelled military concentrations in the Umm Al-Mahd area east of Khan Yunis with heavy-caliber 60mm mortars.
+
+- Shelled military concentrations in the Zanna’a area, east of Khan Yunis, with mortars.
+
+- Shelled an IOF field command center in the Zanna’a area east of Khan Yunis with mortars.
+
+- Shelled military vehicles, east of Rafah, with a barrage of mortars of various of other types of rockets, including Badr-1 IRAM rockets.
+
+Martyr Omar Al-Qassem forces:
+
+- Clashed with israeli soldiers in the central axis of Khan Younis, firing an anti-personnel RPGs, hitting them directly.
+
+- Clashed with the israeli soldiers that infiltrated Abu Holi Street, and managed to launch several mortars at "Kissufim."
+
+- Clashed with invasion forces in central Khan Younis, using automatic rifles, hand grenades, anti-tank weapons, and explosive devices, successfully killing a number of IOF soldiers. The fighters withdrew safely.
+
+- Ambushed IOF forces in Sheikh Radwan neighborhood, north of the Gaza Strip, using machine guns & anti-tank rockets, forcing them to retreat and call for heavy artillery support, but their forces withdrew to their bases after inflicting severe losses.
+
+Al-Aqsa Martyrs Brigades:
+
+- Blew up 2 IOF military vehicles in the Sheikh Radwan neighborhood in Gaza City.
+
+- Shelled a gathering of IOF tanks, east of Khan Younis with 120mm mortars.
+
+- Clashed with the IOF forces in the Al-Balad axis, in the center of Khan Younis, with heavy barrages of bullets and RPGs.
+
+Martyr Abu Ali Mustafa Brigades:
+- Clashed with IOF forces penetrating the eastern Jabalia al-Balad axis in northern Gaza.
+https://nitter.net/AryJeay/status/1738694854408859998#m  12/23/23
