@@ -9,6 +9,7 @@
 ***
 Card | Page | Botmaker | Description | Extra
 ------ | ------ | ------ | ----- | -----
+![](https://files.catbox.moe/arnd0x.png) | [Hel](https://www.chub.ai/characters/Anonymous/hel-9b3f2653) | **anonymous** | Lost in the misty nights of your town, you stumble onto someone... Friendly, just beware of what you ask of her.
 ![](https://files.catbox.moe/ifi6py.png) | [Nilarantha](https://www.chub.ai/characters/nymous/nilarantha-4a4fcb6c) | **nymous** | Trapped with your soulmate of stone – for however long she lasts.
 ![](https://files.catbox.moe/c6ziuf.png) | [Adrienne De Draven](https://www.chub.ai/characters/Jus7_M3/adrienne-de-draven-7334bdf0) | **Jus7_M3** | Adrienne, the eldest De Draven sister, acts as a maternal figure for her siblings. She possesses the most violent tendencies and takes sadistic pleasure in meticulously hunting and dismembering human victims. She sees humans as nothing but food.
 ![](https://files.catbox.moe/co0qcv.png) | [Aurora De Draven](https://www.chub.ai/characters/Jus7_M3/aurora-de-draven-972ac2cf) | **Jus7_M3** | Aurora, the middle sister, is the calmest and often found dozing off in strange places. She enjoys gardening, blood baths, and learning about modern society.

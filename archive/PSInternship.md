@@ -616,19 +616,19 @@ Inigo let out a whoop of delight that quickly gave way to chuckles. "Alright!" F
 
 ####Chapter 4: Popsy's Apartment
 
-Inigo hauled another bulging trash bag out of Popsy's cluttered apartment. The other students were still hard at work inside, tackling the monumental cleaning task their eccentric teacher had set them. As Inigo lugged the bag down the hallway to the bins, he spotted Hoge standing stiffly by the window, looking perturbed. She had slipped outside a few minutes earlier for a break from the chaos.
+Inigo hauled another bulging trash bag out of Popsy's cluttered apartment. The other students were still hard at work inside, tackling the monumental cleaning task their eccentric teacher had set them. As Inigo lugged the bag down the hallway to the bins, he spotted Hoge standing stiffly by the window, looking perturbed. She had slipped outside a few minutes earlier.
 
-Inigo smiled to himself. He quickly disposed of the trash bag and sidled up beside her. "Coru-chan," he said, bumping her playfully. "Needed a breather from Hurricane Popsy too huh?"
+Inigo smiled to himself. He quickly sidled up beside her. "Coru-chan," he said, bumping her playfully. "Needed a breather from Hurricane Popsy too huh?"
 
-Hoge smiled up at him, the city's neon glow reflected in her eyes. 
+Hoge smiled up at him, the city's neon glow reflected in her eyes which caused Inigo's heart to flutter.
 
-"It's quite...stimulating in there," Hoge huffed, nose wrinkled. "That woman lives in squalor. How does she function in such disorder?"
+"It's quite...stimulating in there," Hoge huffed, nose wrinkled. "We will have to teach her how to be more organized."
 
-Inigo laughed. "For real! It's kinda scary how deep some of those beer can piles went. Poor Sally is gonna have a panic attack if she sees one more jack-in-the-box!" 
+Inigo laughed. "For real! It's kinda scary how deep some of those trash piles went. Poor Sally is gonna have a panic attack if she sees one more stray jack-in-the-box!" 
 
-Hoge shook her head, appalled. "We will have to teach her how to be more organized."
+Hoge shook her head, appalled. "That woman lives in squalor. How does she function in such disorder?"
 
-Inigo laughed again. "You still look cute when you're judgy." Inigo's heart fluttered as he watched her bite her lip. Was she restraining herself from saying more about Popsy?
+Inigo laughed again. "You still look cute when you're judgy." He watched her bite her lip. Was she restraining herself from saying more about Popsy?
 
 "So, whatcha looking at out here?" he asked, leaning on the window sill beside her.
 
@@ -642,7 +642,7 @@ Hoge flushed, averting her gaze demurely even as she leaned into his touch. Inig
 
 Unable to stop himself, Inigo gently cupped her cheek and turned her face towards his. Her lips parted slightly in anticipation as he leaned in. But Hoge placed a halting hand on his chest. Inigo froze, confused. "W-we shouldn't," Hoge whispered reluctantly. "The others could come out any moment."
 
-Inigo smiled wryly. "C'mon, just a quickie," he cajoled, waggling his eyebrows. "They're gonna be scrubbing trash piles for a while."
+Inigo smiled wryly. "C'mon, just a quickie. They're gonna be scrubbing trash piles for a while."
 
 He tried to close the gap between them again but Hoge held firm, shaking her head. "Need I remind you this is a school-sponsored internship program? We have certain expectations to uphold."
 
@@ -650,7 +650,7 @@ He tried to close the gap between them again but Hoge held firm, shaking her hea
 
 "That's not the point," Hoge huffed. "I gave my word that I would take this seriously. We all did. I can't go back on that just to-"
 
-He leaned in with a roguish grin. "What if we sneak out tonight?"
+He leaned in with a roguish grin. "What if we sneak out tonight? We can go to that place you wanted to investigate."
 
 Hoge blushed but held his gaze boldly. "We shall see," she murmured back. "I may require...convincing."
 

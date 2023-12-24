@@ -1,5 +1,5 @@
 #[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/gp5sjo.jpg)  <-
+-> ![](https://files.catbox.moe/azigx3.jpg)  <-
 
 ##Changelog:
 ==2023.12.14==
@@ -47,7 +47,7 @@
 ↳ [idol.st seiyuu list](https://idol.st/voiceactresses/) (⚠**Warning: includes supporting seiyuu**) 
 
 **Ideal Websites**
-[Picuki.me | Insta Viewer](https://picuki.me)
+[Picuki | Insta Viewer](https://picuki.com)
 [Urlebird | TikTok Viewer](https://urlebird.com/)
 [Nitter.net | X/Twitter Viewer ](https://nitter.net)
 

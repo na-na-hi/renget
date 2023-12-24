@@ -22,7 +22,7 @@ a. First, go to the extracted folder and edit CMD_FLAGS.txt file as below:
 ```
 - For local-only use:
 ```
---api
+--api --listen
 ```
 b. Second, run start_windows.bat or start_linux.sh depending on your OS. If you get complaints about missing conda or some weird binaries, install them and add their 'bin' directory to your Environment Variables (on both Windows and Linux).
 

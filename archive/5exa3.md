@@ -17,7 +17,8 @@
 	- [Auto1111](https://github.com/Seshelle/CFG_Rescale_webui)
 	- [comfyui](https://github.com/comfyanonymous/ComfyUI_experiments)
 	- `CFG 7 = Rescale 0.7`
-	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), you can test lowering rescale as on some images it makes little difference
+	- Higher rescale can make images [duller](https://rentry.org/5exa3#fixing-washed-out-artists), 
+	- Adjust rescale depending on the prompt, you can often get away with below 0.7
     - DDIM and UniPC do not function with rescale on auto1111 currently 
 
 ### Comfyui
@@ -115,6 +116,10 @@ Embedding | Effect
 [updn](https://civitai.com/models/187118?modelVersionId=210143) | ultra-saturated, painting, drawing, 
 
 ### Fixing washed out artists
+
+Allegedly the CFG rescale extension does not work with `DDIM` in Auto but if you like your results then you may want to consider dropping down to 0 on euler or any other sampler as an alternative.
+In all honesty while I do in this guide tell you what tools and settings are standard in base requirements, depending on the checkpoint/prompt/artist CFG doesn't need to be at 0.7 for every image as long as you get results you like.
+
 ```
 human, not furry, by kantoku, by mignon, by wamudraws,
 BREAK
@@ -133,6 +138,7 @@ Comfy | ![](https://files.catbox.moe/fb1y7u.png)
 Auto fix:1 | ![](https://files.catbox.moe/zc46z5.png)
 [Script:1](https://git.mmaker.moe/mmaker/sd-webui-color-enhance.git) | ![](https://files.catbox.moe/w5cntc.png)
 Auto:.7/Script:.7 | ![](https://files.catbox.moe/p923ox.png)
+DDIM | ![](https://files.catbox.moe/goveob.png)
 
 ### 2D~3D~Real tagging
 -> ![](https://files.catbox.moe/eizig7.png) <-
