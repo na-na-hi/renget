@@ -48,7 +48,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 **Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
 Output Sequence: " [/INST] "
-Last Output Sequence: " (please reply in character, sensible length) [/INST] "
+Last Output Sequence: " (please reply vividly in character, sensible length) [/INST] "
 Stop Sequence: "</s>"
 Separator: "</s>"
 

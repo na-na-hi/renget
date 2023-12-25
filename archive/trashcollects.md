@@ -2332,6 +2332,29 @@ louie duck, ducktales, duck, beak, scut tail, white skin, white hair, orange leg
 
 Direct DL: https://civitai.com/api/download/models/240062?type=Model&format=SafeTensor
 
+**Violet Sabrewing**
+https://civitai.com/models/243400/violet-sabrewing-or-ducktales-2017
+Eleventh Lora, duck-adjacent.
+
+This Lora is trained on Indigo Mix v90, It's probably fine with other e6 based checkpoints, your mileage may very. Use the tags below or use my prompts as a starting point.
+
+
+This character is underage, Do not post or cross-post NSFW.
+
+Recommended Lora Weight: 0.4 - 0.6
+
+Main Tags:
+
+violet sabrewing, hummingbird, beak, purple skin, black eyes, blue eyeshadow, ponytail, curled hair, black hair, beak, freckles, eyelashes, purple legs, 2 toes, avian feet, beak, tail feathers
+
+Reinforcement SFW Tags:
+
+clothed, clothing, hair tie, green shirt, long sleeves, turtleneck, black pants, sweater
+
+(All images are upscaled x2 using Hires. fix with 4x_foolhardy_Remacri as the upscaler)
+
+Direct DL: https://civitai.com/api/download/models/274635?type=Model&format=SafeTensor
+
 # sake kemosalmon (Artist)
 https://files.catbox.moe/21wmi0.safetensors
 

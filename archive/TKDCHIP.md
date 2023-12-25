@@ -664,6 +664,12 @@ Hamas Kino Footage
 https://files.catbox.moe/q0eb76.mp4 New  12/24/23
 New hamas kino footage 
 https://files.catbox.moe/r2doqt.mp4 New  12/24/23
+Video by Hamas (Al-Qassam) showing launches of several rockets towards occupied territories
+files.catbox.moe/nugmsq.mp4 New  12/25/23
+HOLY MOLY: Hamas published a new video showing the targeting of a special IOF force consisting of 10 soldiers inside a building in Juhr al-Dik with an anti-fortified TBG explosive.
+https://files.catbox.moe/kkn3tj.mp4  12/25/23
+Scenes from the detonation of a minefield in a precise ambush of 4 enemy command jeeps in the Juhr al-Dik area in the central Gaza Strip, targeting the rescue forces that arrived at the scene to evacuate the dead.
+https://files.catbox.moe/slhjbf.mp4  12/25/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -677,7 +683,8 @@ Scenes of targeting a foot force consisting of 5 soldiers with an anti-fortifica
 https://files.catbox.moe/kwfq39.mp4  12/22/23
 THE LONG AWAITED VIDEO IS HERE: Mujahideen Brigades published the video of their Anti-Air Defense Unit targeting a Zionist helicopter with a SAM-7 missile, hitting it directly.
 https://files.catbox.moe/q950zj.mp4  12/23/23
-
+Hamas published scenes of their mortar launches demolishing military concentrations in the areas of incursion in the Gaza Strip.
+https://files.catbox.moe/djnb9t.mp4  12/25/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -699,7 +706,6 @@ files.catbox.moe/3vjhxt.mp4 New  12/16/23
 files.catbox.moe/acv20y.mp4 New  12/17/23
 Video | Scenes from the Islamic Resistance targeting the Avivim settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border, in support of our steadfast Palestinian people in the Gaza Strip and in support of their brave and honorable resistance, and in response to the repeated Zionist attacks on villages and civilian homes.
 https://files.catbox.moe/0d1v0v.MP4 New  12/24/23
-
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -731,6 +737,12 @@ A scene of an enemy soldier being ambushed and wounded from a distance from zero
 https://files.catbox.moe/08g7ug.mp4  12/24/23
 Scenes of mortar fire by the Al-Quds Brigades, which smashed enemy vehicles and bulldozers on the eastern edge of the city of Rafah.
 https://files.catbox.moe/3dwd50.mp4  12/24/23
+Saraya Al-Quds Brigades published a video showing the of military vehicles and soldiers east of Gaza. 
+https://files.catbox.moe/4rrcrw.mp4  12/25/23
+New kino
+https://files.catbox.moe/4cymic.mp4  12/25/23
+Here is a bulldozer getting wrecked 
+https://files.catbox.moe/zv4f2f.mp4  12/25/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 

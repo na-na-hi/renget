@@ -20,6 +20,7 @@ Image | Name | Description | Links
 ##Female Bots
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
+![Yua](https://files.catbox.moe/05o778.png)   | **Yua** | (V2) A Himedere turned Tsundere having a hard time in university. Includes custom JB and lorebook for the attitude tracker-- make sure Scan Depth is 1, Match Whole Words is on, and Recursive Scanning is off. Made for BirdyToes for Secret Santa 2023. | [chub](https://www.chub.ai/characters/crustcrunch/yua-9b350b6d/main), [catbox](https://files.catbox.moe/05o778.png)
 ![Kitten~](https://files.catbox.moe/xam4y0.png)   | **xXkawaiiKittenxX** | (V2) A kawaii desu Discord kitten who sends you pictures~! nya <3 Includes a custom JB and Lorebook to work properly. Only tested on GPT4 in SillyTavern. Requires some wrangling if she sends you the wrong picture or starts to spam you. | [chub](https://www.chub.ai/characters/crustcrunch/xxkawaiikittenxx-6626b71e/main), [catbox](https://files.catbox.moe/xam4y0.png)
 ![Twoey](https://files.catbox.moe/15aarh.png)   | **Audrey II** | Your strange houseplant has taken on the form of a human girl, and demands blood! | [chub](https://www.chub.ai/characters/crustcrunch/audrey-ii-d74cbbaf/main), [catbox](https://files.catbox.moe/15aarh.png)
 ![sexy lady big tall](https://files.catbox.moe/anpft4.png)   | **Natsuko** | (V2) 2 greetings. Your tall, bratty kouhai who likes to bully you. | [chub](https://www.chub.ai/characters/crustcrunch/natsuko-602e0138/main), [catbox](https://files.catbox.moe/anpft4.png)
