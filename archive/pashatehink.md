@@ -17,12 +17,11 @@ TO-DO LIST: Katya gens for pitanon (<3) every weekend.
 
 [TOC]
 
-#Latest bot (Rework)
-##Pesky Narrators
-->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
-Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
-CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
-Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
+#Latest bot
+##Jennifer
+->!['Cause this is thriller! Thriller night! (c)](https://files.catbox.moe/dyejk4.png)<-
+A Secret Santa bot for Themeanon. Jennifer, a "weird loner" counselor of the Ivanho Summer Camp, looking for a purpose in life and much preferring cigarettes to kids any time of the day. Created on 25th of December, 2023. 
+CHUB link: https://chub.ai/characters/pashatehink/jennifer-8ab82a28
 
 ***
 
@@ -73,11 +72,10 @@ C.AI link: https://beta.character.ai/chat?char=-OgnMXEuAN0_vnw4j9nOrAtgYhUXxSCsi
 Tyrone Spicey, the RPG-ish card about a random nigga time-traveling into the early days of the USA. Can't say much about him, because I don't remember much, except the fact that he was somewhat broken for several months. Created on 15th of April. An experiment on creating RPG-like cards.
 CHUB link: https://www.chub.ai/characters/pashatehink/tyrone-spicey 
 
-##Pesky Narrators
-->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
-Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
-CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
-Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
+##Pesky Narrators (Original)
+->![Malice loves Ark!](https://files.catbox.moe/lvr01p.png)<-
+Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. 
+CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
 
 ##G.O.D. Simulator
 ->![Todd is God. Get it?](https://files.catbox.moe/u53nc5.png)<-
@@ -181,5 +179,11 @@ CHUB link: https://chub.ai/characters/pashatehink/corporate-mundo-e2a4e940
 ->![Who said that? Who the fuck said that?! (c)](https://files.catbox.moe/z6z94c.png)<-
 Haruko, an ex-military coach for the Indiana Koi, nicknamed "Drill Sergeant" by volleyball fans for her methods of coaching and short temper on the court.
 CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
+
+##Pesky Narrators (Rework)
+->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
+Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
+CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
+Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

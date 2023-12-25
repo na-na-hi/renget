@@ -3,8 +3,8 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
-Dec.20th | [Red (Starting Journey)](https://c.ai/c/QAnjDtkdIsxdGaSX3NqYhWcGL7Up8IIijGxH5-Xncsk) \| [Kris](https://c.ai/c/CejBdARNNQFneXTHJiEDcD04sfOxpeO0N0G1L5XJJnw) \| [Ailey](https://c.ai/c/N9IX6I9QMywN5OVOoCEOuxKfRdNpTfRY0AO20Jh7y4s)
-Dec.19th | [Kieran (Champion)](https://c.ai/c/NZ6XFhji35aVBAgn1ZFsYv9qxA-Yf1Z8fCiwtL6RYFU)
+Dec.24th | [Pokémon News Room](https://c.ai/c/wJisDGfKkwD1py5cro0qHh2YEuBFrRm5unyd7uRkLJY)
+->Dec.23rd<- 〜 ->Dec.17th<- | [Red (Starting Journey)](https://c.ai/c/QAnjDtkdIsxdGaSX3NqYhWcGL7Up8IIijGxH5-Xncsk) \| [Kris](https://c.ai/c/CejBdARNNQFneXTHJiEDcD04sfOxpeO0N0G1L5XJJnw) \| [Ailey](https://c.ai/c/N9IX6I9QMywN5OVOoCEOuxKfRdNpTfRY0AO20Jh7y4s) \| [Kieran (Champion)](https://c.ai/c/NZ6XFhji35aVBAgn1ZFsYv9qxA-Yf1Z8fCiwtL6RYFU)
 ->Dec.16th<- 〜 ->Dec.03rd<- | [Guzma (Post-Game)](https://c.ai/c/N8wgxtfFw7bWKeJ38bUJ5c88U95ohj3Q8e_TkjypPUo) \| [Elaine (Masters)](https://c.ai/c/Ekonmz8tpDhXOJOznPXrFogLzwtSsiGK7dYm3J3VOA8) \| [Pokémon Idol Manager](https://c.ai/c/gt5LrnlVk-h9l9youPyPqhm9w9Plsm4G8Q-RnTTiKao)
 ->Nov.30th<- 〜 ->Nov.24th<- | [Hex Maniac Honoka](https://c.ai/c/aovxjOmsegs7wR5bq2odl1ClNJ1J-lzNnSIsEAsMyLI) \| [AZ & Floette](https://c.ai/c/72f2Dg_wTKoZ0IXODQYZfshToNbQ_TF0pft0nXP5raw)
 ->Nov.18th<- 〜 ->Nov.12th<- | [Pokémon Host Club](https://c.ai/c/XKe8U5tgoS66DH3i-VXMqE4k8smlZPaZfQ_1vOX96l4) \| [Pokémon Hostess Club](https://c.ai/c/v4-vARgSoNr_BuAYeVD4ZRGyfrudx3FWont0f_yU68Y)
@@ -53,7 +53,7 @@ Description | Characters
 Pokémon Clover | [Keksandra](https://c.ai/c/JnqeujNbplACafq693N8p_dTREYr4Bxi6hvgpGy8ESM) \| [Amanda (Ace Trainer)](https://c.ai/c/ROxPysBqDWkRSMu_aYeD03I4QxYPAC70kdk-hsJrFuc) \| [Mozzamazel](https://c.ai/c/CWWuSZfBnjD__ilcAvgCII7_ZM63gOCHIJ9d6lnQ26w)
 4chan parody browsed by Pokémon | [The PokéBoard](https://c.ai/c/lpBVnVAiFRULM8W6gUXwsqEcVj_VkJ7aGSJckPbH-Qw)
 Club frequented by Pokémon | [Pokémon Host Club](https://c.ai/c/XKe8U5tgoS66DH3i-VXMqE4k8smlZPaZfQ_1vOX96l4) & [Hostess Club](https://c.ai/c/v4-vARgSoNr_BuAYeVD4ZRGyfrudx3FWont0f_yU68Y) \| [Poké-Club](https://c.ai/c/LYehtAUBhixR1lpwpNymyaU4AfXY1YQmNMYZHjvMWeg)
-OCs | [Yvette (Smug Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI) \| [Ivy (You are a Pokémon, and she wants to catch you)](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c) \| [Pokémon Idol Manager](https://c.ai/c/gt5LrnlVk-h9l9youPyPqhm9w9Plsm4G8Q-RnTTiKao)
+OCs | [Yvette (Smug Trainer)](https://c.ai/c/SeTtsAs3X84HIX4vN4XJ1K0Aw6UU3_ijcn9vUjNJwUI) \| [Ivy (You are a Pokémon, and she wants to catch you)](https://c.ai/c/A0t8X1rR79Eg-8KtA4zWob3FN2AAQJfJinHEw8xce2c) \| [Pokémon Idol Manager](https://c.ai/c/gt5LrnlVk-h9l9youPyPqhm9w9Plsm4G8Q-RnTTiKao) \| [Pokémon News Room](https://c.ai/c/wJisDGfKkwD1py5cro0qHh2YEuBFrRm5unyd7uRkLJY)
 PokéTuber |  [CandyEvie](https://c.ai/c/WWd8lvSitvyCKE-jeUHx7A2_7Tk1gec4ObcXpieIqC4)
 Pokémon Infinite Fusion | [Beessom (Beedrill+Bellossom)](https://c.ai/c/4NYGotrjnxGfuRUABCARKNcg1OulQCKXKhEu8A7bOrw) \| [Marogle (Marowak+Smeargle)](https://c.ai/c/xgNAVDcJN2ZMnGEmi8ZlEh3ShQJ7nHJaAUqKT23Al2E) \| [Pidgesol (Pidgeot + Absol)](https://c.ai/c/eCcI9SNJin6Y9HQVHF2Tc-uNMwh485vpnLmr5wF2FB4) \| [Snorpunny (Snorlax+Lopunny)](https://c.ai/c/Q9UKM_bdjU7_tSbRewbumpz3SYE13dvhqVtaP4IbVQU) \| [Houncario (Houndoom+ Lucario)](https://c.ai/c/bJlgazBy3N5h8T3Wg8TcZQUj-WJkAkqVrAKVpo05fsw) \| [Champtan (Machamp+Tangrowth)](https://c.ai/c/VXI36pxgL8CHjB2Flp5gmbzurn7a3yy1NV2HqhVn6qY) \| [Snoodra (Snorlax+Goodra)](https://c.ai/c/DleIYogGGeTK1_4HV18a_SB7caCO8tYf4BACCf7xklg) \| [Glisvile (Weavile+Gliscor)](https://c.ai/c/0LE1Qzs-EtYnXVPtI6FWe13T8PEAzxf5Ys1LaRDb2ZA)
 Angels of Death character as a Pokémon OC | [Rachel Gardner](https://c.ai/c/IdBcFPVDTL_k1io0wMESeBbzG9U25Dq2s6zsReMU2UY)

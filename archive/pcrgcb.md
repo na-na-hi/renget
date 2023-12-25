@@ -43,15 +43,26 @@ New Years Misato 5★ Lv292 R31 FULL, EX 5/5/5
 
 ![](https://pomf2.lain.la/f/unthqdnd.png)
 
-[B1 Physical 47-48m - 0 manual](https://youtu.be/DnRQ2CnpOdI)
-![](https://pomf2.lain.la/f/k0jxqfwy.png)
+[B1 Physical 52-55m - 0 manual](https://www.youtube.com/watch?v=i7GbIZUYv5k)
+![](https://pomf2.lain.la/f/zpmgdsl.png)
+Tested with: 
+Croce 4★ Lv292 R31 FULL, EX 5/5/5
+Christmas Yukari 3★ Lv292 R30 FULL, EX 5/5/5
+Labyrista 5★ Lv292 R30 FULL, EX 5/5/5
+Ameth 5★ Lv292 R30 FULL, EX 5/5/5
+Creditta 5★ Lv292 R31 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/cj3fs1ar.png)
+
+[B1 Physical 48-49m - 0 manual](https://www.youtube.com/watch?v=5Yzktd6OdJA)
+![](https://pomf2.lain.la/f/hqi4nvul.png)
 Tested with: 
 Summer Kokkoro 6★ Lv292 R31 FULL, EX 5/5/5
 Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
 New Years Misato 5★ Lv292 R31 FULL, EX 5/5/5
 HatsuneShiori 5★ Lv292 R31 FULL, EX 5/5/5
 Creditta 5★ R31 Lv292 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/g5d82hnt.png)
+![](https://pomf2.lain.la/f/k0ulgig.png)
 
 [B1 Magic 48-49m - 0 manual](https://gamewith.jp/pricone-re/article/show/419093)
 ![](https://pomf2.lain.la/f/2aispa4o.png)
@@ -65,6 +76,35 @@ Ameth 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/f8i6sg03.png)
 
 ### Boss 2
+[B2 Magic 49m - 0 manual inputs](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=1565539494&range=C5:C47)
+![](https://pomf2.lain.la/f/xxdzt4r.png)
+Tested with: 
+New Years Neneka 5★ Lv292 R31 FULL, EX 5/5/X
+Summer Ranpha 5★ Lv292 R31 FULL, EX 5/5/5
+Misora 5★ Lv292 R31 FULL, EX 5/5/5 **needs highest ATK**
+Ameth 5★ Lv292 R31 FULL, EX 5/5/5
+Transfer Student Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/mt130af.png)
+
+[B2 Physical 46m - 0 manual](https://www.youtube.com/watch?v=5k__uHrP6Bo)
+![](https://pomf2.lain.la/f/bnf2y2i5.png)
+Tested with: 
+Summer Mimi 5★ Lv292 R30 FULL, EX 5/5/5
+Croce 5★ Lv292 R31 FULL, EX 5/5/5
+Princess Kokkoro 5★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
+Stage Kurumi 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/oal2vda6.png)
+
+[B2 Physical 46-47m - 1 manual input](https://gamewith.jp/pricone-re/article/show/364694)
+![](https://pomf2.lain.la/f/p7n3v3v.png)
+Tested with: 
+Muimi 6★ Lv292 R31 FULL, EX 5/5/5
+Croce 5★ Lv292 R31 FULL, EX 5/5/5
+Princess Kokkoro 5★ Lv292 R31 FULL, EX 5/5/5
+Ameth 5★ Lv292 R31 FULL, EX 5/5/5
+Festival Yuni 3★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/7ahzc89h.png)
 
 
 ### Boss 3
@@ -99,24 +139,76 @@ Princess Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/73o2j3w.png)
 
 ### Boss 4
+[B4 Magic 47m - 0 manual](https://www.youtube.com/watch?v=ituyINLqjKQ)
+![](https://pomf2.lain.la/f/ay54eg9i.png)
+Tested with: 
+Noir Kuuka 3★ Lv292 R31 FULL, EX 5/5/5
+Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv292 R31 FULL, EX 5/5/5
+Lyrael 5★ Lv292 R31 FULL, EX 5/5/5
+Princess Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/e5tebf8i.png)
 
+[B4 Physical 43m - 0 manual](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=1742465964&range=B5:B47)
+![](https://pomf2.lain.la/f/p71v2zr.png)
+Tested with: 
+Christmas Jun 4★ Lv292 R31 FULL, EX 5/5/5
+Princess Kokkoro 5★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
+Shiori 6★ Lv292 R31 FULL, EX 5/5/5
+Ranger Shiori 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/5d29qvgy.png)
 
 ### Boss 5
+[B5 Physical 54m - 1 manual input --- 53m FULL SET](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=2111905137&range=D5:D22)
+![](https://pomf2.lain.la/f/wmj1o9n9.png)
+Tested with: 
+Liberator Muimi 4★ Lv292 R31 FULL, EX 5/5/5
+Halloween Tomo 5★ Lv292 R31 FULL, EX 5/5/5
+Liberator Nozomi 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Chika 5★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
+
+FULL SET = 53.5m
+41 Tomo > Tomo OFF
+31 Tomo after S1 > Tomo SET = 54m
+
+[B5 Physical 54-55m - 0 manual](https://www.youtube.com/watch?v=Uo9YQ2ot1L4)
+![](https://pomf2.lain.la/f/mveswd22.png)
+Tested with: **Can't test this**
+Overload Peco 5★ Lv292 R31 FULL, EX 5/5/5
+Christmas Ayane 5★ Lv292 R31 FULL, EX 5/5/5
+Halloween Tomo 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Chika 5★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/l4emaeq5.png)
+
+
+[B5 Physical 54-55m - 0 manual](https://www.youtube.com/watch?v=PH9hOPsla8k)
+![](https://pomf2.lain.la/f/wxbitgi8.png)
+Tested with: **Can't test this**
+Overload Peco 5★ Lv292 R31 FULL, EX 5/5/5
+Christmas Ayane 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Rei 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Chika 5★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/y1utkwiu.png)
+
 
 
 
 ## Stage 4 manual
 ### Boss 1
-[B1 Physical 63-64m](https://www.youtube.com/watch?v=7pr_XIKizSw)
+[B1 Physical 65m](https://www.youtube.com/watch?v=ptLyQFYr3ak)
 
 ### Boss 2
 [B2 Magic 54m](https://www.youtube.com/watch?v=Fh45vLCkkxo)
 
 ### Boss 3
-[B3 Magic 48m](https://www.youtube.com/watch?v=AynVBogszgA)
+[B3 Magic 50m](https://www.youtube.com/watch?v=fXg_kcE4lxY)
 
 ### Boss 4
-
+[B4 Magic 52-55m](https://www.youtube.com/watch?v=wTlA3W3cJsQ)
 
 ### Boss 5
 

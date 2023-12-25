@@ -423,7 +423,7 @@ Sally leaped on top of fortune telling machine and aimed. "I think... I can get 
  
 Popsy clicked her tongue. "Do be careful dear! We have a deposit on the rides! That's one warning!" She bounced away, cackling as a flustered Yui tried to wrap her in thread.
 
-Inigo flew after the bouncing Popsy. Hoge shot her a look of disapproval before disappearing. "Please don't cause us to fail, McCathy."
+"Nice shooting!" Inigo grinned and rushed passed Sally. Hoge shot her a look of disapproval before disappearing. "Please don't cause us to fail, McCathy."
 
 Sally growled, "What the heck am I supposed to do? She's too fast." Chihiro patted her shoulder from behind. "Don't give up."
 

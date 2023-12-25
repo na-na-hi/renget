@@ -322,6 +322,9 @@ Ship Tierlist but it's in text 4: https://archive.4plebs.org/tg/post/89193140
 Decision Making: https://desuarchive.org/tg/thread/89750940/#89761757
 DDR tierlist: https://desuarchive.org/tg/thread/89909909/#89915649
 Hug tierlist: https://desuarchive.org/tg/thread/90157143/#90168689
+Killer tier: https://desuarchive.org/tg/thread/91316254/#91318320
+Delinquent tierlist: https://desuarchive.org/tg/thread/91316254/#91317870
+Has killed tierlist: https://desuarchive.org/tg/thread/91316254/#91317922
 
 ***
 
@@ -1003,6 +1006,8 @@ Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosetho
 The Other Side - B (Arena, Orbit, cameo of Yamata, 108): https://rentry.org/w8hvp
 Language Barrier (Madoka, Nekiro): https://rentry.org/Language_Barrier
 Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people): https://rentry.org/oeyupk
+Kaylee in Wonderland, Part Two!: https://rentry.org/69nav
+Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

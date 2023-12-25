@@ -91,7 +91,7 @@ If you copy my way of thinking then you should have at least 4 presets:
 **Thinking**
 The <thinking> part cannot be removed, it allows the AI to formulate {{char}}'s response, it even works as a transparent screen for me to see what the AI is picking/feeling from {{user}}'s input and what not. This way I actually know what to modify in my message instead of going blind and swiping 40.000 times.
 This CoT method is actually recommended by [Anthropic™](https://docs.anthropic.com/claude/docs/give-claude-room-to-think-before-responding)
->Why 4?
+>Why 3?
 If the AI thinks more than 6 times it may become very stuborn on its char defs, which may lead to dry and looping messages instead of bending to {{user}}'s will (OAI models in particular become very assertive and positive).
 If the AI doesn't think, it may ignore char defs and go with wathever the LLM thinks should be the next word in your chat.
 

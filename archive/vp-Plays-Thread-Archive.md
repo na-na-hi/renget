@@ -232,3 +232,8 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[3]** *Rejected...*](https://arch.b4k.co/vp/thread/55055670/)
 [**[4]** *Tripfags start finishing the game*](https://arch.b4k.co/vp/thread/55066920/)
 [**[5]** *Everyone finishes, except for Wagie. Thanks Musk*](https://arch.b4k.co/vp/thread/55100896/)
+
+###->Post Tectonic Filler threads<-
+!!! info **Wagie got sent in a vacation, so while we wait for the Ashen Frost devs to fix their game, we play whatever**
+[**[1]** *Holy Sexo legendaries*](https://arch.b4k.co/vp/thread/55116276/)
+[**[2]**](https://arch.b4k.co/vp/thread/55126019/)

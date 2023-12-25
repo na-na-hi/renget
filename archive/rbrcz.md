@@ -85,7 +85,7 @@ Description: | Links:
 ----- | ----
 **StarJump (2D Fleetviewer):**  | https://hangar.link/
 **Starship 42 (3D Fleetviewer):**  | https://www.starship42.com/
-!!! note These are the websites that people use to show off their fleets in the threads. Provided examples.
+!!! note These are the websites that anons use to show off their fleets in the threads. Provided examples.
 ->StarJump:<- | ->Starship 42:<-
 ----- | ----
 ![Not my fleet btw](https://files.catbox.moe/jrj51m.png) | ![Still not my fleet btw](https://files.catbox.moe/c11yfy.png)
