@@ -374,7 +374,7 @@ It's not worth it to hyperinvest into someone for only the JFD. Just take the L,
 
 If you're feeling lazy you can auto stage 1/2/3. 
 
-Look at the [shop section](https://rentry.org/how2playba#shop) if you want details on what to buy.
+Look at the [shop section](https://rentry.org/how2playba#shop) if you need advice on what to buy.
 
 ## Tactical Challenge (PvP)
 !!!warning VERY FRUSTRATING GAMEMODE, BEWARE 
@@ -511,8 +511,8 @@ Stage 1 now drops 40x and 30y (3\*)
 
 You unlock the welfare/free unit by doing the story missions (the very 1st one). Do this before you farm the quest stages.
 
->I'm a newbie and there's an event going on, but I can only clear up to stage X. What do I do? 
-- Do the story and farm the highest stage tier you can do
+>I can only clear up to stage X. What do I do? 
+- Do the story and farm the highest stage tier you can sweep (again, go to https://justin163.com/planner/events)
 - Buy out the high priority stuff from the shop first (Artifacts > BDs > Technotes > whatever > Furniture)
 - Buy from T4 -> T1.
 
@@ -522,6 +522,9 @@ What you're supposed to do is a case by case scenario though, since some events 
 Always try to go for a cafe upgrade before you do event stuff if you can.
 
 Regardless, you're pretty fucked so gl bro
+
+>The event features characters from the main story, but I haven't read that part yet. What do I do?
+Do the event missions, but skip the story. You get the gem rewards and occassionally a welfare unit too, and you can always read the story later. Go to Story > Replay > Event Story.
 
 >I have X shards of this event's welfare unit but I can't claim her wtf! 
 DO THE STORY MISSIONS 

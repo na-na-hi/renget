@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7718687/](https://boards.4chan.org/h/thread/7718687/)**&nbsp;&nbsp;&nbsp;&nbsp;(21.12.2023 01:23)&nbsp;#&nbsp;Bold Chika Edition
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7724890/](https://boards.4chan.org/h/thread/7724890/)**&nbsp;&nbsp;&nbsp;&nbsp;(25.12.2023 14:04)&nbsp;#&nbsp;Christmas Edition
 
 [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,7 +9,8 @@
 ---
 
 ##&nbsp;->2023<-
-- 663&nbsp;&nbsp;[archiveofsins.com/h/thread/7718687/](https://archiveofsins.com/h/thread/7718687/)&nbsp;&nbsp;&nbsp;&nbsp;(21.12.2023 01:23)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Bold Chika Edition
+- 664&nbsp;&nbsp;[archiveofsins.com/h/thread/7724890/](https://archiveofsins.com/h/thread/7724890/)&nbsp;&nbsp;&nbsp;&nbsp;(25.12.2023 14:04)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Christmas Edition
+- 663&nbsp;&nbsp;[archiveofsins.com/h/thread/7718687/](https://archiveofsins.com/h/thread/7718687/)&nbsp;&nbsp;&nbsp;&nbsp;(21.12.2023 01:23)&nbsp;&nbsp;[799]&nbsp;#&nbsp;Bold Chika Edition
 - 662&nbsp;&nbsp;[archiveofsins.com/h/thread/7711018/](https://archiveofsins.com/h/thread/7711018/)&nbsp;&nbsp;&nbsp;&nbsp;(16.12.2023 03:38)&nbsp;&nbsp;[913]&nbsp;#&nbsp;Early Crimbo Edition
 - 661&nbsp;&nbsp;[archiveofsins.com/h/thread/7705834/](https://archiveofsins.com/h/thread/7705834/)&nbsp;&nbsp;&nbsp;&nbsp;(12.12.2023 21:02)&nbsp;&nbsp;[923]&nbsp;#&nbsp;Fantasy! This time for real! Edition
 - 660&nbsp;&nbsp;[archiveofsins.com/h/thread/7697745/](https://archiveofsins.com/h/thread/7697745/)&nbsp;&nbsp;&nbsp;&nbsp;(08.12.2023 01:35)&nbsp;&nbsp;[913]&nbsp;#&nbsp;Time to relax edition

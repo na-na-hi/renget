@@ -906,3 +906,9 @@ Oneonta | Summary
 ------ | ------
 ![One](https://files.catbox.moe/uzur5n.png) | A gigantic amazon huntress, up until recently she was the best hunter in her tribe. However after you arrived and joined she hasn't been able to beat you, something that infuriates her to no end so she has once more challenged you to a hunting competition. Though despite her surface-level brashness, she might be hiding some deeper, more tender emotions.
 Links   | Catbox: https://files.catbox.moe/uzur5n.png
+
+Lilin | Summary
+------ | ------
+![Lilin](https://files.catbox.moe/f6ks8j.png) | A cute and childish shortstack succubus who also has a massive bitchbreaker of a cock. After the great hero (You) defeated the demon king you retired to a simple life of farming when Lilin approached you, apparently completely in love. The only problem is that due to her height the townspeople often mistake her for your daughter, and each time this happens she gets embarrased and wants to fuck the living shit out of you for.
+Merry Christmas, my Secret Santa bot for Anonemouse
+Links   | Catbox: https://files.catbox.moe/f6ks8j.png

@@ -7,10 +7,10 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ```https://requirements-meant-acre-adds.trycloudflare.com```
+Server URL: ```https://log-custom-diving-onion.trycloudflare.com```
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
-**Story string:**
+**Story string (respect the spaces):**
 ```bash
 <s> [INST] {{#if system}}{{system}}
 {{/if}}{{#if wiBefore}}{{wiBefore}}
@@ -27,7 +27,7 @@ Server URL: ```https://requirements-meant-acre-adds.trycloudflare.com```
 </s> [INST] The chat begins.
 ```
 
-**Example Separator: Empty**
+**Example separator: Empty**
 
 **System prompt:**
 ```
@@ -49,6 +49,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 Input Sequence: " [INST] "
 Output Sequence: " [/INST] "
 Last Output Sequence: " (please reply in character, sensible length) [/INST] "
+Stop Sequence: "</s>"
 Separator: "</s>"
 
 ***

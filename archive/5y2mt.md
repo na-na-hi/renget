@@ -15,10 +15,10 @@
 
 	>==Audio== 
 	
-	>==Karaoke Clips== 
-	> - **11/07 - Added**
-	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/5y2mt/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)
-	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/5y2mt/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0)
+	>==Karaoke Clips==
+	> - **12/25 - Added**
+	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/5y2mt/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)
+	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/5y2mt/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -492,7 +492,7 @@ Somebody To Love - Queen | https://files.catbox.moe/qcw93v.mp4     |    https://
 [Go back to the top](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
 ------ | ------ | ------
-Mountain Dew - The Stanley Brothers   |  https://files.catbox.moe/pr0m65.mp4     |    https://cldup.com/biWcAcj2Qr.mp4 
+Mountain Dew - In the Style of Grandpa Jones   |  https://files.catbox.moe/pr0m65.mp4     |    https://cldup.com/biWcAcj2Qr.mp4 
 Stars - Les Miserables   | https://files.catbox.moe/xhlhp5.mp4      |     https://cldup.com/6MAyd2iCJ8.mp4
 It's All Coming Back to Me Now - Celine Dion   | https://files.catbox.moe/97ihom.mp4      |     https://cldup.com/cUd0xFcH-d.mp4
 Drunk - Ed Sheeran   | https://files.catbox.moe/lfi9qc.mp4       |    https://cldup.com/onGaNw9FUl.mp4
@@ -504,7 +504,7 @@ Leave It All to Me - Miranda Cosgrove   | https://files.catbox.moe/nuyay9.mp4   
 Wait for It - Hamilton   |  https://files.catbox.moe/yaw9jh.mp4      |      https://cldup.com/xtgVLhOTOV.mp4
 She Used To Be Mine - Sara Bareilles   |  https://files.catbox.moe/pm9qrs.mp4   |   https://cldup.com/_5vMm6oIjo.mp4
 Baby One More Time - Britney Spears   |  https://files.catbox.moe/ssfu10.mp4      |     https://cldup.com/QtlsUQZQv5.mp4
-Mountain Dew - The Stanley Brothers   |  https://files.catbox.moe/qidb6h.mp4   |      https://cldup.com/ge867nCB9s.mp4
+Mountain Dew - In the Style of Grandpa Jones   |  https://files.catbox.moe/qidb6h.mp4   |      https://cldup.com/ge867nCB9s.mp4
 Eye of the Tiger - Survivor   | https://files.catbox.moe/hyo0pn.mp4     |    https://cldup.com/f4O926nIrh.mp4
 Man in the Mirror - Michael Jackson   | https://files.catbox.moe/4sgoyo.mp4      |      https://cldup.com/rzXQnsH7G0.mp4
 Love Story - Taylor Swift   | https://files.catbox.moe/1fwb5b.mp4       |    https://cldup.com/aAnoCP--pg.mp4
@@ -785,7 +785,7 @@ Poems, Prayers And Promises - John Denver  | https://files.catbox.moe/s2ladp.mp4
 [Go back to the top](https://rentry.org/5y2mt)
 Song | Catbox | Cloudup
 ------ | ------ | ------
-Mountain Dew - The Stanley Brothers   |  https://files.catbox.moe/d1sjx4.mp4    |   https://cldup.com/8diR5LtsiX.mp4
+Mountain Dew - In the Style of Grandpa Jones   |  https://files.catbox.moe/d1sjx4.mp4    |   https://cldup.com/8diR5LtsiX.mp4
 Never Gonna Give You Up - Rick Astley   |   https://files.catbox.moe/20g9vu.mp4   |   https://cldup.com/rMpBFPWu23.mp4
 December - Neck Deep   |  https://files.catbox.moe/ho1wbn.mp4    |   https://cldup.com/CL3UsOWjEa.mp4
 Once Upon a December - Anastasia   |  https://files.catbox.moe/0iv3az.mp4    |   https://cldup.com/p5auWYpLRP.mp4
@@ -956,7 +956,7 @@ Rudolph the Red-Nosed Reindeer  | https://files.catbox.moe/eegt7b.mp4  |   https
 Frosty the Snowman  | https://files.catbox.moe/bs0577.mp4  |   https://cldup.com/y4A7OZYTPF.mp4
 My Immortal - Evanescence  | https://files.catbox.moe/4pj8sj.mp4  |   https://cldup.com/BpvQS3fvfp.mp4
 It's All Coming Back to Me Now - Celine Dion  | https://files.catbox.moe/b9o7fg.mp4  |   https://cldup.com/FsK3E-qNtr.mp4
-Mountain Dew - The Stanley Brothers  | https://files.catbox.moe/tbwrfp.mp4  |   https://cldup.com/l2UF2w_Cx4.mp4
+Mountain Dew - In the Style of Grandpa Jones  | https://files.catbox.moe/tbwrfp.mp4  |   https://cldup.com/l2UF2w_Cx4.mp4
 The Only Exception - Paramore  | https://files.catbox.moe/rxraz3.mp4  |   https://cldup.com/_tFwfXwBxS.mp4
 Give Me Love - Ed Sheeran  | https://files.catbox.moe/bj8hxy.mp4  |    https://cldup.com/Ymgd1_wZdi.mp4
 Sono Saki e - RIRIKO (Acapella)  | https://files.catbox.moe/29x39q.mp4  |   https://cldup.com/AlVtZsmxKQ.mp4
@@ -1251,7 +1251,7 @@ I Miss You - Blink-182   |  https://files.catbox.moe/vguux9.mp4    |   https://c
 The Best Day Ever - The SpongeBob SquarePants Movie   |   https://files.catbox.moe/uha9xj.mp4   |   https://cldup.com/qIu7tXkxZd.mp4
 Ocean Man - Ween   |  https://files.catbox.moe/cm6vos.mp4    |   https://cldup.com/Oz_Y_LljsI.mp4
 Good Riddance - Green Day   |   https://files.catbox.moe/ipfaf6.mp4   |   https://cldup.com/ci1sKZnPUu.mp4
-Mountain Dew - The Stanley Brothers   |  https://files.catbox.moe/oy2fvr.mp4    |   https://cldup.com/LSCTVDPFwI.mp4
+Mountain Dew - In the Style of Grandpa Jones   |  https://files.catbox.moe/oy2fvr.mp4    |   https://cldup.com/LSCTVDPFwI.mp4
 Jolene - Dolly Parton   |   https://files.catbox.moe/8gwm5c.mp4   |   https://cldup.com/98Z5mUUvdg.mp4
 We Will Rock You - Queen   |   https://files.catbox.moe/cedgj9.mp4   |   https://cldup.com/xAvUjImGUr.mp4
 Edelweiss - The Sound of Music   |  https://files.catbox.moe/ftk50v.mp4    |   https://cldup.com/YV-LAjVJAQ.mp4
@@ -1407,6 +1407,57 @@ Through the Fire and Flames - DragonForce | https://files.catbox.moe/sfzrne.mp4 
 Cliffs of Dover - Eric Johnson |  https://files.catbox.moe/wf8mr5.mp4 |  https://cldup.com/3nzEeRzEWL.mp4
 Paint It, Black - The Rolling Stones | https://files.catbox.moe/dghp5s.mp4  |  https://cldup.com/TvOKeBYJrs.mp4
 
+***
+######『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+--- | ---  | ---
+Teenage Dirtbag - Wheatus | https://files.catbox.moe/8f0mrq.mp4  |  https://cldup.com/5xv5rILSUk.mp4
+Holding Out for a Hero - Jennifer Saunders (Shrek 2 ver) | https://files.catbox.moe/zi2e4s.mp4  | https://cldup.com/iizhA90rZv.mp4 
+Omigod You Guys - Legally Blonde The Musical | https://files.catbox.moe/jklmtt.mp4  |  https://cldup.com/6TR7PdAUTv.mp4
+Hero - Enrique Iglesias | https://files.catbox.moe/nutm0s.mp4  |  https://cldup.com/8FZ59CXsmo.mp4
+Do You Know (The Ping Pong Song) - Enrique Iglesias | https://files.catbox.moe/vpaxyr.mp4  |  https://cldup.com/lkhrrcnJMo.mp4
+Sparks Fly - Taylor Swift | https://files.catbox.moe/dnixvb.mp4  |  https://cldup.com/BIaT_dlhAv.mp4
+A Thousand Miles - Vanessa Carlton | https://files.catbox.moe/56w2yd.mp4  |  https://cldup.com/_YIivGgNij.mp4
+Goofy Goober Rock - SpongeBob SquarePants | https://files.catbox.moe/4buuih.mp4  |  https://cldup.com/8Y2fXjwFkC.mp4
+One Time - Justin Bieber |  https://files.catbox.moe/uht7qf.mp4 |  https://cldup.com/frEBb75oHy.mp4
+Cotton Eye Joe - Rednex | https://files.catbox.moe/ha516s.mp4  |  https://cldup.com/shQOU83vmH.mp4
+Mountain Dew - In the Style of Grandpa Jones |  https://files.catbox.moe/jce8em.mp4 |  https://cldup.com/023nog5wYc.mp4
+American Pie - Don McLean | https://files.catbox.moe/skfqu7.mp4  |  https://cldup.com/gGpWinWH9m.mp4
+Threw It on the Ground - The Lonely Island |  https://files.catbox.moe/kkvaa4.mp4 |  https://cldup.com/dE41mU2zCY.mp4
+I'm on a Boat - The Lonely Island & T-Pain | https://files.catbox.moe/7i7660.mp4  |  https://cldup.com/TwfO7j9yM5.mp4
+It's My Life / Confessions Part II - Glee | https://files.catbox.moe/chxdhn.mp4  |  https://cldup.com/R2byL_YhBN.mp4
+The Downfall of Us All - A Day To Remember | https://files.catbox.moe/rjdgr8.mp4  |  https://cldup.com/Pww1rxI0hv.mp4
+Welcome to My Life - Simple Plan | https://files.catbox.moe/gjd41e.mp4  |  https://cldup.com/GkCXZB79cG.mp4
+I'm Already There - Lonestar | https://files.catbox.moe/gxutwd.mp4  |  https://cldup.com/gEXrVRvDhI.mp4
+
+
+
+***
+######『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+--- | ---  | ---
+The Twelve Days of Christmas | https://files.catbox.moe/gv9jz9.mp4  |  https://cldup.com/19e5hhOF0R.mp4
+Feliz Navidad - Jose Feliciano | https://files.catbox.moe/za7xxo.mp4  |  https://cldup.com/Q9o00MpMGm.mp4
+Jingle Bells | https://files.catbox.moe/op18e0.mp4  |  https://cldup.com/IroWmD_6q3.mp4
+Let It Snow! Let It Snow! Let It Snow! | https://files.catbox.moe/kmu5yg.mp4  |  https://cldup.com/o1zHITIZQ8.mp4
+Rudolph the Red-Nosed Reindeer - Gene Autry | https://files.catbox.moe/r3dd9q.mp4  |  https://cldup.com/Fb7xsbhzAw.mp4
+Frosty the Snowman | https://files.catbox.moe/dsvgss.mp4  |  https://cldup.com/zrhxOXlU-3.mp4
+Up on the House Top | https://files.catbox.moe/vh1vrn.mp4  |  https://cldup.com/NvfQWhj4U3.mp4
+My Favorite Things - The Sound of Music | https://files.catbox.moe/u8a0ab.mp4  |  https://cldup.com/93oh42L3n0.mp4
+Drummer Boy - Justin Bieber & Busta Rhymes | https://files.catbox.moe/p3bwx1.mp4  |  https://cldup.com/5w4WPwIliE.mp4
+**I** Wish You a Merry Christmas |  https://files.catbox.moe/84m8ys.mp4 |  https://cldup.com/5IaVED5CFI.mp4
+Santa Claus Is Coming to Town - Frank Sinatra | https://files.catbox.moe/kgsfqc.mp4  |  https://cldup.com/qawAlrpxdf.mp4
+Santa Baby - Eartha Kitt | https://files.catbox.moe/oh4udh.mp4 |  https://cldup.com/C9Ghc5TGlN.mp4
+Winter Wonderland - Bing Crosby |  https://files.catbox.moe/6ixjsa.mp4 |  https://cldup.com/-678Y2DhY4.mp4
+Last Christmas - Taylor Swift | https://files.catbox.moe/7caajh.mp4  |  https://cldup.com/fTPEClV9J4.mp4
+All I Want For Christmas Is You - Mariah Carey | https://files.catbox.moe/in0im2.mp4  |  https://cldup.com/Dn0vUTGtzg.mp4
+You're A Mean One, Mr. Grinch | https://files.catbox.moe/6mm0ss.mp4  |  https://cldup.com/A_JSqewzRk.mp4
+Padoru | https://files.catbox.moe/lldqti.mp4  |  https://cldup.com/JU5q6_JhYR.mp4
+Grandma Got Run Over by a Reindeer - Elmo & Patsy |  https://files.catbox.moe/o6r5xd.mp4 |  https://cldup.com/cC1uTA7nnU.mp4
+Mistletoe - Justin Bieber | https://files.catbox.moe/170cxo.mp4  |  https://cldup.com/UyIS_HoAMx.mp4
+Drummer Boy - Justin Bieber & Busta Rhymes | https://files.catbox.moe/wfuf79.mp4  |  https://cldup.com/h4P6U_x0hk.mp4
 
 ***
 ***
@@ -1474,7 +1525,7 @@ Jack Sparrow - The Lonely Island  『x3\*』 |  https://files.catbox.moe/dwq4if.
 Thnks fr th Mmrs - Fall Out Boy 『x2』 | https://files.catbox.moe/fdh2fj.mp4
 YMCA - Village People 『x2』 | https://files.catbox.moe/x9ewql.mp4
 Love Story - Taylor Swift 『x2』 | https://files.catbox.moe/gycls7.mp4
-Mountain Dew - The Stanley Brothers 『x2』 | https://files.catbox.moe/3dr5in.mp4
+Mountain Dew - In the Style of Grandpa Jones 『x2』 | https://files.catbox.moe/3dr5in.mp4
 Blank Space - Taylor Swift 『x2』  |  https://files.catbox.moe/1556qd.mp4
 Baby One More Time - Britney Spears 『x2』 | https://files.catbox.moe/2gor4e.mp4
 A New Start『x17』 | https://files.catbox.moe/4plpq7.mp4

@@ -5,7 +5,7 @@
 ## General Resources for all Stages
 [gamewith](https://gamewith.jp/pricone-re/article/show/431266)
 [しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=790984515)
-
+[chink sheet]() 
 
 
 ## Stage 1&2 90 seconds carryover
@@ -26,10 +26,12 @@ stage 3 routes with no seasonals
 ## Stage 4 auto / full SET
 videos:
 [はやと](https://youtu.be/T_v9ORelir0)
-
+[Vash](https://youtu.be/mdRezTBeEK8)
+![vashauto12](https://pomf2.lain.la/f/3n85osui.png)
 
 ## Stage 4 semi auto
 videos:
+[Vash](https://youtu.be/DTxB0VVVnTM)
 
 ### Boss 1
 [B1 Physical 59-61m - 0 manual](https://www.youtube.com/watch?v=fDm3vi7ZN2c)
@@ -76,25 +78,25 @@ Ameth 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/f8i6sg03.png)
 
 ### Boss 2
-[B2 Magic 49m - 0 manual inputs](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=1565539494&range=C5:C47)
-![](https://pomf2.lain.la/f/xxdzt4r.png)
+[B2 Magic 51m - 0 manual inputs](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=1565539494&range=F5:F47)
+![](https://pomf2.lain.la/f/s0dpnpe.png)
 Tested with: 
 New Years Neneka 5★ Lv292 R31 FULL, EX 5/5/X
 Summer Ranpha 5★ Lv292 R31 FULL, EX 5/5/5
 Misora 5★ Lv292 R31 FULL, EX 5/5/5 **needs highest ATK**
 Ameth 5★ Lv292 R31 FULL, EX 5/5/5
 Transfer Student Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/mt130af.png)
+![](https://pomf2.lain.la/f/gfxh0ke1.png)
 
-[B2 Physical 46m - 0 manual](https://www.youtube.com/watch?v=5k__uHrP6Bo)
-![](https://pomf2.lain.la/f/bnf2y2i5.png)
+[B2 Physical 47-49m - 1 manual input](https://www.youtube.com/watch?v=BBVuFI2si_A)
+![](https://pomf2.lain.la/f/rxrpo8am.png)
 Tested with: 
 Summer Mimi 5★ Lv292 R30 FULL, EX 5/5/5
 Croce 5★ Lv292 R31 FULL, EX 5/5/5
-Princess Kokkoro 5★ Lv292 R31 FULL, EX 5/5/5
+Princess Kokkoro 3★ Lv292 R31 FULL, EX 5/5/5
 Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
 Stage Kurumi 5★ R31 Lv292 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/oal2vda6.png)
+![](https://pomf2.lain.la/f/ic3rn1c.png)
 
 [B2 Physical 46-47m - 1 manual input](https://gamewith.jp/pricone-re/article/show/364694)
 ![](https://pomf2.lain.la/f/p7n3v3v.png)
@@ -195,7 +197,15 @@ Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/y1utkwiu.png)
 
 
-
+[B5 Magic 42-44m - 0 manual](https://www.youtube.com/watch?v=qfaWpsntbJ4)
+![](https://pomf2.lain.la/f/8ctesop.png)
+Tested with: 
+Christmas Peco 5★ Lv292 R31 FULL, EX 5/5/5
+Christmas Akari 5★ Lv292 R31 FULL, EX 5/5/5
+Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Yuki 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Illya 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/uq8epimd.png)
 
 ## Stage 4 manual
 ### Boss 1
@@ -211,6 +221,6 @@ Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
 [B4 Magic 52-55m](https://www.youtube.com/watch?v=wTlA3W3cJsQ)
 
 ### Boss 5
-
+[B5 Physical 59m](https://www.youtube.com/watch?v=V3l6QSTJV5w)
 ## Carryover / Overflow
 [Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3UXghaVh8bCRnUpZinU7JFm)

@@ -27,9 +27,9 @@ Dates are based on EST
 	>==Audio== 
 	
 	>==Chapters== 
-	> - **11/07 - Added**
-	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg](https://rentry.org/irdxq/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)  
-	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/irdxq/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0) 
+	> - **12/25 - Added**
+	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/irdxq/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)  
+	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/irdxq/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c) 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -1152,7 +1152,7 @@ CHAPTER00NAME=Opening
 CHAPTER01=00:01:07.000
 CHAPTER01NAME=Start
 CHAPTER02=00:01:12.800
-CHAPTER02NAME=01. Mountain Dew - The Stanley Brothers
+CHAPTER02NAME=01. Mountain Dew - In the Style of Grandpa Jones
 CHAPTER03=00:04:58.500
 CHAPTER03NAME=02. Stars - Les Miserables
 CHAPTER04=00:09:17.000
@@ -1184,7 +1184,7 @@ CHAPTER16NAME=11. Baby One More Time - Britney Spears
 CHAPTER17=01:01:22.000
 CHAPTER17NAME=zzz
 CHAPTER18=01:02:57.000
-CHAPTER18NAME=12. Mountain Dew - The Stanley Brothers
+CHAPTER18NAME=12. Mountain Dew - In the Style of Grandpa Jones
 CHAPTER19=01:09:51.000
 CHAPTER19NAME=13. Eye of the Tiger - Survivor
 CHAPTER20=01:14:06.000
@@ -1684,7 +1684,7 @@ CHAPTER44NAME=Welcome to the Black Parade - My Chemical Romance (Acapella)
 CHAPTER45=02:03:35.000
 CHAPTER45NAME=Landslide - Fleetwood Mac (Acapella)
 CHAPTER46=02:06:08.000
-CHAPTER46NAME=Mountain Dew - The Stanley Brothers (Acapella)
+CHAPTER46NAME=Mountain Dew - In the Style of Grandpa Jones (Acapella)
 CHAPTER47=02:07:13.000
 CHAPTER47NAME=Bamboo - Peter, Paul and Mary (Acapella)
 CHAPTER48=02:08:12.000
@@ -1952,7 +1952,7 @@ CHAPTER00NAME=Opening
 CHAPTER01=00:01:15.000
 CHAPTER01NAME=Start
 CHAPTER02=00:03:47.000
-CHAPTER02NAME=01. Mountain Dew - The Stanley Brothers
+CHAPTER02NAME=01. Mountain Dew - In the Style of Grandpa Jones
 CHAPTER03=00:09:48.700
 CHAPTER03NAME=02. Never Gonna Give You Up - Rick Astley
 CHAPTER04=00:16:45.717
@@ -2413,7 +2413,7 @@ CHAPTER47NAME=43. My Immortal - Evanescence
 CHAPTER48=05:08:29.834
 CHAPTER48NAME=44. It's All Coming Back to Me Now - Celine Dion
 CHAPTER49=05:20:41.110
-CHAPTER49NAME=45. Mountain Dew - The Stanley Brothers
+CHAPTER49NAME=45. Mountain Dew - In the Style of Grandpa Jones
 CHAPTER50=05:25:50.010
 CHAPTER50NAME=46. The Only Exception - Paramore
 CHAPTER51=05:30:41.530
@@ -3081,7 +3081,7 @@ CHAPTER31NAME=25. Ocean Man - Ween
 CHAPTER32=02:06:57.000
 CHAPTER32NAME=26. Good Riddance - Green Day
 CHAPTER33=02:10:29.590
-CHAPTER33NAME=27. Mountain Dew - The Stanley Brothers
+CHAPTER33NAME=27. Mountain Dew - In the Style of Grandpa Jones
 CHAPTER34=02:14:53.000
 CHAPTER34NAME=28. Jolene - Dolly Parton
 CHAPTER35=02:18:30.000
@@ -3468,6 +3468,114 @@ CHAPTER16=01:19:52.614
 CHAPTER16NAME=13. Cliffs of Dover - Eric Johnson
 CHAPTER17=01:26:19.000
 CHAPTER17NAME=14. Paint It, Black - The Rolling Stones
+
+```
+***
+***
+######『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:03:00.000
+CHAPTER01NAME=Start
+CHAPTER02=00:09:39.469
+CHAPTER02NAME=01. Teenage Dirtbag - Wheatus
+CHAPTER03=00:15:48.000
+CHAPTER03NAME=02. Holding Out for a Hero - Jennifer Saunders (Shrek 2 ver)
+CHAPTER04=00:22:15.241
+CHAPTER04NAME=03. Omigod You Guys - Legally Blonde The Musical
+CHAPTER05=00:30:40.000
+CHAPTER05NAME=04. Hero - Enrique Iglesias
+CHAPTER06=00:35:31.000
+CHAPTER06NAME=05. Do You Know (The Ping Pong Song) - Enrique Iglesias
+CHAPTER07=00:41:18.000
+CHAPTER07NAME=06. Sparks Fly - Taylor Swift
+CHAPTER08=00:46:12.000
+CHAPTER08NAME=No Air - Jordin Sparks
+CHAPTER09=00:47:30.000
+CHAPTER09NAME=07. A Thousand Miles - Vanessa Carlton
+CHAPTER10=00:55:46.000
+CHAPTER10NAME=08. Goofy Goober Rock - SpongeBob SquarePants
+CHAPTER11=00:59:52.000
+CHAPTER11NAME=09. One Time - Justin Bieber
+CHAPTER12=01:07:25.000
+CHAPTER12NAME=Friday - Rebecca Black
+CHAPTER13=01:08:19.000
+CHAPTER13NAME=10. Cotton Eye Joe - Rednex
+CHAPTER14=01:11:53.000
+CHAPTER14NAME=11. Mountain Dew - In the Style of Grandpa Jones
+CHAPTER15=01:15:38.000
+CHAPTER15NAME=American Pie - Don McLean
+CHAPTER16=01:19:40.480
+CHAPTER16NAME=12. Threw It on the Ground - The Lonely Island
+CHAPTER17=01:22:50.000
+CHAPTER17NAME=13. I'm on a Boat - The Lonely Island & T-Pain
+CHAPTER18=01:26:06.000
+CHAPTER18NAME=Confessions, Pt. II - Usher
+CHAPTER19=01:28:02.000
+CHAPTER19NAME=14. It's My Life / Confessions Part II - Glee
+CHAPTER20=01:32:21.000
+CHAPTER20NAME=15. The Downfall of Us All - A Day To Remember
+CHAPTER21=01:36:19.000
+CHAPTER21NAME=16. Welcome to My Life - Simple Plan
+CHAPTER22=01:40:22.000
+CHAPTER22NAME=17. I'm Already There - Lonestar
+
+```
+***
+***
+######『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:02:52.033
+CHAPTER01NAME=Start
+CHAPTER02=00:13:07.033
+CHAPTER02NAME=01. The Twelve Days of Christmas
+CHAPTER03=00:19:28.000
+CHAPTER03NAME=02. Feliz Navidad - Jose Feliciano
+CHAPTER04=00:25:55.127
+CHAPTER04NAME=03. Jingle Bells
+CHAPTER05=00:29:59.679
+CHAPTER05NAME=04. Let It Snow! Let It Snow! Let It Snow!
+CHAPTER06=00:33:30.033
+CHAPTER06NAME=05. Rudolph the Red-Nosed Reindeer - Gene Autry
+CHAPTER07=00:39:24.558
+CHAPTER07NAME=06. Frosty the Snowman
+CHAPTER08=00:44:27.000
+CHAPTER08NAME=07. Up on the House Top
+CHAPTER09=00:47:46.033
+CHAPTER09NAME=The Lonely Goatherd - The Sound of Music
+CHAPTER10=00:49:20.000
+CHAPTER10NAME=08. My Favorite Things - The Sound of Music
+CHAPTER11=00:54:42.000
+CHAPTER11NAME=09. Drummer Boy - Justin Bieber & Busta Rhymes
+CHAPTER12=01:04:52.140
+CHAPTER12NAME=10. I Wish You a Merry Christmas
+CHAPTER13=01:07:18.000
+CHAPTER13NAME=11. Santa Claus Is Coming to Town - Frank Sinatra
+CHAPTER14=01:11:33.000
+CHAPTER14NAME=12. Santa Baby - Eartha Kitt
+CHAPTER15=01:16:00.000
+CHAPTER15NAME=13. Winter Wonderland - Bing Crosby
+CHAPTER16=01:19:37.033
+CHAPTER16NAME=14. Last Christmas - Taylor Swift
+CHAPTER17=01:24:03.033
+CHAPTER17NAME=15. All I Want For Christmas Is You - Mariah Carey
+CHAPTER18=01:30:08.033
+CHAPTER18NAME=16. You're A Mean One, Mr. Grinch
+CHAPTER19=01:33:49.033
+CHAPTER19NAME=Disturbia - Rihanna
+CHAPTER20=01:34:32.033
+CHAPTER20NAME=Padoru
+CHAPTER21=01:36:33.000
+CHAPTER21NAME=17. Grandma Got Run Over by a Reindeer - Elmo & Patsy
+CHAPTER22=01:41:06.033
+CHAPTER22NAME=18. Mistletoe - Justin Bieber
+CHAPTER23=01:45:11.824
+CHAPTER23NAME=19. Drummer Boy - Justin Bieber & Busta Rhymes
 
 ```
 ***

@@ -14,16 +14,14 @@
 	>==Audio== 
 
 	>==Chapters== 
-
-	> - **11/07 - Added**
-	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/irdxq/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)  
-	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/irdxq/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0) 
+	> - **12/25 - Added**
+	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/irdxq/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)  
+	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/irdxq/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c) 
 	
 	>==Karaoke Clips==
-
-	> - **11/07 - Added**
-	>- [#55. 『2023-10-29』 - 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO [kyf3Qhs8bfg]](https://rentry.org/5y2mt/#2023-10-29-unarchived-%E6%AD%8C%E6%9E%A0ooooooooooooooooo-kyf3qhs8bfg)
-	>- [#56. 『2023-11-07』 - 【UNARCHIVED 歌枠】GUITAR HERO III SONGS !! 🤘🏼🎸🔥 [C9irhxaA-V0]](https://rentry.org/5y2mt/#2023-11-07-unarchived-%E6%AD%8C%E6%9E%A0guitar-hero-iii-songs-c9irhxaa-v0)
+	> - **12/25 - Added**
+	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/5y2mt/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)
+	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/5y2mt/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c)
 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)

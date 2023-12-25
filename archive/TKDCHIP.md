@@ -697,7 +697,7 @@ Hezbollah Videos
 https://files.catbox.moe/6k4qe0.mp4  12/09/23
 files.catbox.moe/3vjhxt.mp4 New  12/16/23
 files.catbox.moe/acv20y.mp4 New  12/17/23
->Video | Scenes from the Islamic Resistance targeting the Avivim settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border, in support of our steadfast Palestinian people in the Gaza Strip and in support of their brave and honorable resistance, and in response to the repeated Zionist attacks on villages and civilian homes.
+Video | Scenes from the Islamic Resistance targeting the Avivim settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border, in support of our steadfast Palestinian people in the Gaza Strip and in support of their brave and honorable resistance, and in response to the repeated Zionist attacks on villages and civilian homes.
 https://files.catbox.moe/0d1v0v.MP4 New  12/24/23
 
 
@@ -730,7 +730,6 @@ Al-Quds Brigades - Jenin Battalion
 A scene of an enemy soldier being ambushed and wounded from a distance from zero in the axis of Harat al-Damj during the occupation forces’ storming of Jenin camp.
 https://files.catbox.moe/08g7ug.mp4  12/24/23
 Scenes of mortar fire by the Al-Quds Brigades, which smashed enemy vehicles and bulldozers on the eastern edge of the city of Rafah.
-https://nitter.net/ME_Observer_/status/1738910427466117217#m  12/24/23
 https://files.catbox.moe/3dwd50.mp4  12/24/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

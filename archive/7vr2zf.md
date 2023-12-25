@@ -224,7 +224,7 @@ Christopher restrained a smile. “Oh fuck who could it be? Bella?”
 
 “Faith.” Christopher answered with no humor left.
 
-Faith released his eyes and put her hands on his chin. She lifted his chin till the top of Christopher’s head met her stomach and his eyes met her own. She wore a bright orange toboggan which her was rolled up under. Her makeup was sparse today, just enough to highlight her eyes and her lips. She was smiling.
+Faith released his eyes and put her hands on his chin. She lifted his chin till the top of Christopher’s head met her stomach and his eyes met her own. She wore a bright orange toboggan. Her makeup was sparse today, just enough to highlight her eyes and her lips. She was smiling.
 
 “3 guesses? What am I going to do with you?” She teased.
 
