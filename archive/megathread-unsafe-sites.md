@@ -47,8 +47,8 @@
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 ------ | ------ | ------
-**AniMixPlay** | animixplay-city / animixplay-best / animixplay-fun / animixplay-solutions / animixplay-name / animixplay-tube / animixplay-watch / animixplay-movie  | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
-**Zoro** | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+**AniMixPlay** | Every single domain | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+**Zoro** | Every single domain | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;
 
@@ -72,7 +72,7 @@
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 ------ | ------ | ------
-**CoolROM** | coolrom-cc / coolrom-com-au / coolroms-games | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**CoolROM** | Every single domain | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;
 
@@ -111,6 +111,7 @@
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 ------ | ------ | ------
+**Soap2day** | Every single domain | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 **YTS** | yts-mx | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;

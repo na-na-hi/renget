@@ -110,6 +110,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [A New Life as an Umbreon](https://rentry.org/AdrianOrigin)
 	* [Adrian's New Team](https://rentry.org/TeamMoonshine)
 	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
+	* [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
 * Beast the Munchlax
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -546,6 +547,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 * [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
 * [For T'nite (ft. Gus)](https://rentry.org/OshawottForTnite)
+* [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

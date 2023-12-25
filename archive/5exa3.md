@@ -70,9 +70,9 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 
 ### Drag and drop starter workflows
 > ※ Will likely have to change the vae and lora
-Auto1111 | ComfyUI
+Auto1111 | ComfyUI&nbsp;&nbsp;
 :----: | :----:
-![](https://files.catbox.moe/tihaoh.png)   | ![](https://files.catbox.moe/mojsq3.png)
+ ![](https://files.catbox.moe/tihaoh.png) | ![](https://files.catbox.moe/mojsq3.png) 
 
 ### You don't want to use the method above?
 

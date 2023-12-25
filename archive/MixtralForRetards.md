@@ -5,7 +5,7 @@
 Have at least 20GB-ish VRAM / RAM total. The more VRAM the faster / better.
 
 **Grab latest Kobold:**
->https://github.com/kalomaze/koboldcpp/releases/tag/faster-pp-mixtral-kcpp
+>https://github.com/kalomaze/koboldcpp/releases
 
 **Grab the model**
 Download one of the quants according to what you can fit in your VRAM / RAM. If you can fit the entire thing into VRAM then speeds will be much better but quality  really starts dropping under 4bit. 

@@ -2,6 +2,7 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Dec.24 | [Pokémon News Room](https://www.aisekai.ai/chat/6588e5007ac78091c17c73ea)
 Dec.03 | [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)
 Nov.28 | [Cynthia ("Highschooler")](https://www.aisekai.ai/chat/65669193ad6b31d7de3b6a22)
 Nov.24 | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
@@ -28,6 +29,5 @@ About | Characters
 :-: | :-:
 Pokémon Infinite Fusion | [Pidgesol (Pidgeot+Absol)](https://www.aisekai.ai?character=65436366f159a3e8045999c3) \| [Snoodra (Snorlax+Goodra)](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)
 ![Elizabeth](https://files.catbox.moe/yle05c.png) | [Elizabeth](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728)
-Club frequented by Pokémon | [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62) \| [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283)
+Pokémon Agencies | [Pokémon Host Club](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62) \| [Pokémon Hostess Club](https://www.aisekai.ai/chat/655701432642a10c54df5283) \| [Pokémon News Room](https://www.aisekai.ai/chat/6588e5007ac78091c17c73ea) \| [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)
 SakuraFM bot ported and un-ESL'd | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
-Become a producer, or simply a Pokémon Idol fan | [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)

@@ -1449,3 +1449,136 @@ Al-Aqsa Martyrs Brigades:
 Martyr Abu Ali Mustafa Brigades:
 - Clashed with IOF forces penetrating the eastern Jabalia al-Balad axis in northern Gaza.
 https://nitter.net/AryJeay/status/1738694854408859998#m  12/23/23
+
+>Scenes of mortar fire by the Al-Quds Brigades, which smashed enemy vehicles and bulldozers on the eastern edge of the city of Rafah.
+https://nitter.net/ME_Observer_/status/1738910427466117217#m  12/24/23
+
+>Settler-on-settler crime:
+Two israeli settlers under the guise of volunteers stole 5 vehicles belonging to settler families who were evacuated from Be’eri, after the 7th of October attacks.
+https://nitter.net/AryJeay/status/1738910520667680982#m  12/24/23
+
+>Al-Qassam (Hamas)
+We managed to detonate an anti-personnel explosive device within an infiltrated israeli infantry force in Juhr al-Dik area. Our fighters confirmed the killing of 6 IOF soldiers and the injury of others.
+https://nitter.net/AryJeay/status/1738905754835251691#m  12/24/23
+
+>Israeli media : Egypt informed Israel that the occupation of its borders and any refugees Relocation into Egypt is a "red line."
+https://nitter.1d4.us/QudsNen/status/1738907548248395885#m  12/24/23
+
+>Starbucks lost almost $11B after global boycott for its pro-Israel stance. CEO: ‘We stand for humanity.’
+https://nitter.1d4.us/QudsNen/status/1738929189552583014#m  12/24/23
+
+>Christmas scouts in Bethlehem march while holding protest signs condemning the Israeli war on Gaza.
+https://nitter.1d4.us/QudsNen/status/1738928519374106646#m  12/24/23
+
+>The largest naval shipping company in the world, the Danish company "Maersk" announced that it will return to sailing in the Red Sea following the coalition by the United States (Prosperity Guardian). Although they must’ve missed some recent news updates I’m sure, lol.
+https://nitter.net/AryJeay/status/1738979843625136355#m  12/24/24
+
+>Israeli media: “A difficult debate” in the cabinet session held today to discuss the war in #Gaza Economy Minister Nir Barkat attacked Netanyahu during the session because of his management of the war. Barakat confirmed during the session that soldiers are sent to booby-trapped buildings “like ducks.” One of the ministers joined the debate and said that the public has hard feelings of irresponsibility for the lives of soldiers.
+https://twitter.com/Megatron_ron/status/1738983141254017411  12/24/23
+
+>BREAKING 
+Amid high tensions in the region
+
+Iran has deployed a new anti-ship cruise missile that operates with artificial intelligence and has a range of 1000 km.
+
+The cruise missile is capable of changing targets during its travel and avoid enemy radars
+https://twitter.com/IranObserver0/status/1738909874845553008  12/24/23
+
+>Hezbollah: 
+The Mujahideen of the Islamic Resistance targeted an infantry position of Zionist enemy soldiers in Hunin Castle (the occupied Lebanese village of Hunin) with appropriate weapons.
+https://nitter.net/ME_Observer_/status/1738930560611795326#m  12/24/23
+
+>BREAKING 
+The US targeted a ship in the Red Sea
+
+The Houthis accuse the US of hitting the MV Sai Baba which was sailing from a Russian port to the south of the Red Sea
+
+Ansarullah says that when the US navy saw our reconnaissance drone they started shooting recklessly and hit the MV Sai Baba
+https://twitter.com/IranObserver0/status/1738949134105661889  12/24/23
+
+>Breaking | Netanyahu: "War comes at an extremely high cost to the lives of our soldiers, and we will do everything to protect them. However, we will not stop the war."
+https://nitter.1d4.us/QudsNen/status/1738994384589234417#m  12/24/23
+
+>A source in the Resistance Security told the Al-Majd Security website: The Resistance Security Command in the #Gaza Strip will take all legal and revolutionary measures against the agents, and we will strike with an iron fist anyone who dares to deal with the enemy and spy for him
+https://twitter.com/ME_Observer_/status/1738998326853324954  12/24/23
+
+>BREAKING:
+The newspaper Al-Sharq al-Awast reports that the Hamas delegation left Cairo with an Egyptian initiative and it includes three phases for a ceasefire: 
+
+The first phase - a two or three week pause, during which 40 hostages will be released from Hamas.  
+
+The second stage - intra-Palestinian talks to establish a technocratic government.  
+
+The third stage - the end of the war and a comprehensive agreement.
+https://twitter.com/Megatron_ron/status/1738927213188096485  12/24/23
+
+The Government Media Office publishes the names of journalists who were martyred during the ongoing brutal war on the #Gaza Strip
+https://nitter.net/ME_Observer_/status/1738998165527773257#m  12/24/23
+
+>Al-Quds Brigades - #Jenin Battalion
+
+A scene of an enemy soldier being ambushed and wounded from a distance from zero in the axis of Harat al-Damj during the occupation forces’ storming of #Jenin camp.
+https://nitter.net/ME_Observer_/status/1739009136531063237#m  12/24/23
+
+>BIG SUMMARY of all resistance operations today, December 24, against (US)-israeli forces
+
+ Al-Qassam Brigades:
+
+- Clashed fiercely with a heavily fortified IOF force in the axes north of Gaza, causing confirmed casualties, by using Yassin-105s and "TBG" explosives.
+
+- (Partially) destroyed 3 Merkava tanks with Yassin-105s, in Al-Qasasib neighborhood in Jabalia, resulting in their (partial) destruction.
+
+- Succesfully detonated an anti-personnel mine targeting an IOF infantry force in Juhr al-Dik, resulting in the killing of 6 israeli soldiers and injuries among others.
+
+-Sniped 3 israeli soldiers, including one with the rank of a major, in Al-Qasasib neighborhood in Jabalia camp.
+
+-Targeted a special IOF force of 10 soldiers taking cover inside a building in Juhr al-Dik with a "TBG" explosive, causing casualties.
+
+ Al-Quds Brigades:
+
+-Shelled military formations around Al-Zawad Mosque, east of Khan Yunis, with a rocket barrage and mortars.
+
+- (Partially) destroyed 1 Merkava tank & 3 military vehicles in Jabalia Al-Balad, north of Gaza & Zaitoun and Shujaiya districts.
+
+- Shelled military formations east of Al-Zaitoun neighborhood with heavy-caliber mortars.
+
+ Martyr Omar Al-Qassem forces:
+
+- Clashed with IOF forces in the vicinity of Jabalia al-Balad, north of the Gaza Strip, causing many deaths and injuries.
+
+- Successfully sniped an IOF soldier in Sheikh Radwan, resulting in his death. The fighters safely retreated to their positions.
+
+- A collection of different clashes in various axes resulting in at least 10 IOF soldiers and officers being killed or injured. 
+
+- Fired an RPG rocket at one of the military vehicles, east of Khan Younis, directly hitting it, killing & wounding those inside of it.
+
+Martyr Abu Ali Mustafa Brigades:
+
+- Clashed with the IOF forces penetrating the axes east of Khan Younis.
+
+- Al-Aqsa Martyrs Brigades:
+
+- Shelled a Merkava tank gathering center east of Khan Younis with 120mm mortars. 
+
+-  Mujahideen Brigades:
+
+ - Clashed with IOF soldiers & military vehicles in the axes in Jabalia & Sheikh Radwan, using various weapons, inflicting confirmed casualties, including dead and wounded. The fighters also seized weapons and equipment from the zionist forces that were neutralised (with video).
+
+- In a joint-operation with Saraya Al-Quds, they carried out a sniper operation on an IOF soldier and targeted a gathering of soldiers with rockets in Al-Qasasib neighborhood in Jabalia camp.
+
+Hezbollah:
+
+- Targeted military assets in dishon with rockets, causing direct hits.
+
+- Targeted Avivim settlement, causing confirmed injuries, in response the IOF attacks against Lebanese civilians.
+
+- Targeted the Duhayra IOF site with appropriate weapons.
+
+- Targeted the positions of israeli soldiers in Hunin.
+
+Yemen:
+
+- A Yemeni naval reconnaissance drone was fired upon by a US warship in the Red Sea, creating a tense situation, highlighting the threat to international maritime navigation caused by the militarization of the Red Sea by the US and its allies.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1739056331036729474#m  12/24/23

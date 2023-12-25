@@ -64,6 +64,18 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ephraim-da9ffd47) . [Ca
 
 ***
 
+***
+
+##Coraxia - New Bot 25.12
+Grimdark Souls inspired world. Bots come from various eras. (more...one day.)
+
+Osiris | Description
+:----:  | :----: 
+![Osiris](https://files.catbox.moe/hizupg.png)   | Once known as a "Demon Swordsman," Osiris has grown weary of the world around him. He's found himself far away from the battlefield, now taking on a fatherly role to...well, to (You). V2 card with 5 greeting scenarios.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/osiris-89724f87) . [Catbox](https://files.catbox.moe/mzig1m.png) . [Backgrounds](https://catbox.moe/c/mi586p)
+
+***
+
 
 ##Modern Japan
 Tokyo (mostly), but with a film noir occult stylization to it. Unfortunately, as of right now only Ichitora has a lorebook attached, but I have plans to rework Mikoto into the overall lore better and add a lorebook to Ryuunosuke too.

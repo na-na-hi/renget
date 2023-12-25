@@ -660,6 +660,10 @@ Squad size IDF toasted by yassin 105
 files.catbox.moe/rohjn1.mp4 New  12/18/23
 Hamas clashes with IOF vehicles & soldiers on the axes of Khan Yunis.
 files.catbox.moe/2t13gl.mp4 New  12/20/23
+Hamas Kino Footage 
+https://files.catbox.moe/q0eb76.mp4 New  12/24/23
+New hamas kino footage 
+https://files.catbox.moe/r2doqt.mp4 New  12/24/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -693,6 +697,9 @@ Hezbollah Videos
 https://files.catbox.moe/6k4qe0.mp4  12/09/23
 files.catbox.moe/3vjhxt.mp4 New  12/16/23
 files.catbox.moe/acv20y.mp4 New  12/17/23
+>Video | Scenes from the Islamic Resistance targeting the Avivim settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border, in support of our steadfast Palestinian people in the Gaza Strip and in support of their brave and honorable resistance, and in response to the repeated Zionist attacks on villages and civilian homes.
+https://files.catbox.moe/0d1v0v.MP4 New  12/24/23
+
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -719,6 +726,12 @@ Scenes from the detonation of a barrel bomb on a Zionist foot force and a milita
 files.catbox.moe/4j3jvm.mp4 New  12/20/23
 WATCH: Saraya Al-Quds (PIJ) published a video showing a successful sniping operation on israeli soldier(s).
 https://files.catbox.moe/kcqiqt.MP4  12/23/23
+Al-Quds Brigades - Jenin Battalion
+A scene of an enemy soldier being ambushed and wounded from a distance from zero in the axis of Harat al-Damj during the occupation forces’ storming of Jenin camp.
+https://files.catbox.moe/08g7ug.mp4  12/24/23
+Scenes of mortar fire by the Al-Quds Brigades, which smashed enemy vehicles and bulldozers on the eastern edge of the city of Rafah.
+https://nitter.net/ME_Observer_/status/1738910427466117217#m  12/24/23
+https://files.catbox.moe/3dwd50.mp4  12/24/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -852,3 +865,6 @@ files.catbox.moe/rkv2mw.mp4 New  12/23/23
 
 >The Triangle - arrives at the West Bank: Scenes of the targeting of the occupation forces and clashing with them in the popular housing neighborhood - #Nablus
 https://files.catbox.moe/kh9hgf.mp4  12/23/23
+
+>Christmas scouts in Bethlehem march while holding protest signs condemning the Israeli war on Gaza.
+https://files.catbox.moe/jdy8qh.mp4  12/24/23

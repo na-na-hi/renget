@@ -221,10 +221,6 @@
 - Watch any movies or TV series you want, whenever you want, thanks to the power of the internet!
 - [URL Safety Results](https://www.urlvoid.com/scan/embed.smashystream.com/)
 
-### ▶️ [Soap2day](https://soap2day.rs/) / [2](https://soap2day.tf/)
-- Unrestricted access to a big movie and television series collection, with a user-friendly layout.
-- [URL Safety Results](https://www.urlvoid.com/scan/soap2day.rs/)
-
 ### ▶️ [Soaper](https://soaper.tv/)
 - You can view all videos for free, quickly, and awesomely without checking in or registering.
 - [URL Safety Results](https://www.urlvoid.com/scan/soapter.tv/)

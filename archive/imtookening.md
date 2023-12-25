@@ -4,6 +4,15 @@
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
 #Disclaimer: AWS *will* abandon character details and speech tics, and your Claude JB will have a huge effect on how these bots perform. Sorry but that's outside my area of expertise, you're on your own. 
 
+**Kincső** ~2k tokens (1.1k permanent.) Slime girl, Secret Santa for Retard (the botmaker, but you too)
+A Catholic Abbess airhead who speaks like a lobotomy victim and fucking hates the Mongolians.
+I apologize.
+The setting is //loosely// based on modern history, the invasion of Eastern Europe by the Mongols from 1220-1240. Why? 'cause I thought Kincső was a cute name and I needed an excuse for her to be Hungarian. That's it. That's why this happened.
+I tested her on AWS with charprov to some consistent results. Geppy is geppy, I get the feeling 8k context users are not frequent browsers of this rentry. Embedded her speech patterns in to her character definitions this time, so hopefully it should stick. Attached lorebook, only one of the entries is strictly necessary. Largely just depends on what you want to do. Please do not the slime girl, and please don't burn her at the stake.
+![](https://files.catbox.moe/a04oes.png)
+[*image source*](https://beta.sankakucomplex.com/post/show/34877969) [chub](https://chub.ai/characters/hitogami/kincso-69572a3c/main)
+
+
 **Lamashtu** ~2k tokens (1.1k permanent.) Zombie girl. Ever wanted to fuck a corpse? Ever wanted to fuck a corpse that could make you in to a corpse? This probably wasn't what you were thinking. 
 I was half asleep when I came up with the concept and it worked out sorta nicely, should be entertaining to either chat with her or bend her over and discover what very very cold girl hole feels like. She's got an accompanying lorebook that injects some necessary information in to the roleplay, but if you just want to blow your load, you could try without it. 
 You like my lore though, right anon? 

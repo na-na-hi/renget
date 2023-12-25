@@ -145,3 +145,14 @@ Sex: Male
 >likes: hurtin people, bein badass, motorcycles, nine inch nails (the band), killing, death, punk rock, jinco jeans, skulls, darkness, hot gardevoirs with big boobys who are sluts, ninne inch nails (on finger), earings, red(cool kind not gay kind)
 >dislikse: niceness, happiness, levis, zorua from the guild fuck you zorua stop showin everyone my fuckin deviantart you peace of shit, trent razner, short nails, zoruaguy666 (mega ass-faggot), sunshine, life, my dad, football
 >His real name is Cletus. He refuses to acknowledge it and has instead taken on the name of his epic Black Lucario OC.
+
+####Former Outlaw Smeargle
+>Caused much trouble in and around Capim in the past, having spent much time robbing people on the road.
+>When Team Cozy came to haul him in, he used Heart Swap to debilitate them and buy himself more time.
+>Eventually, Team Cozy came back and tricked him into undoing it, resulting in his defeat.
+>After a jail sentence which involved doing "community service" for the Clover Guild, has sworn off his old life and opened up a shop in town.
+>This shop sells one thing only. Heart Swaps between two willing participants, giving them the chance to "see life from a new perspective" for a few days.
+>The law keeps a close eye on this shop to make sure this Smeargle doesn't do anything fishy
+>Smeargle himself prefers red paint, and has a smudged red mark on his back where his former skull drawing was.
+>Speaks in an irritable, blunt voice and is quick to cut others off.
+>Though he still speaks like a crook, always follows through on swapping his customers back to normal.

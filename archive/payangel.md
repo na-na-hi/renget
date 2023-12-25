@@ -357,4 +357,10 @@ PGL_0066_BurgerKingRawBar (CRF26).mp4
 PGL_0067_MaxTotalBullshit (CRF25).mp4
 ```magnet:?xt=urn:btih:a9f947f8d9d9deacb8e5e2d483ae55012d63dc08&dn=PGL_0067_MaxTotalBullshit%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
 
+PGL_0068_TheAgonyofBeingIrishCRF25.mp4
+```magnet:?xt=urn:btih:7466da8b375e2a279f644b977b8da0e43496cdb2&dn=PGL_0068_TheAgonyofBeingIrishCRF25.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
+PGL_0069_EatingCorn(thelongway) (CRF25).mp4
+```magnet:?xt=urn:btih:286c7cb93c2ef1e385345dc47cc17680a05f76ab&dn=PGL_0069_EatingCorn(thelongway)%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
 ###jump to latest PGL

@@ -37,6 +37,10 @@
 - Anime database that diligently ensures you stay well-informed about what to watch and when.
 - [URL Safety Results](https://www.urlvoid.com/scan/kitsu.io/)
 
+### 📒 [Kurozora](https://kurozora.app/)
+- Vast catalog for fans of anime, manga, music, games, movies, specials, OVA, and ONA.
+- [URL Safety Results](https://www.urlvoid.com/scan/kurozora.app/)
+
 ### 📒 [MyAnimeList](https://myanimelist.net/)
 - Bustling hub for anime and manga enthusiasts worldwide. Immerse yourself in the lively online community.
 - [URL Safety Results](https://www.urlvoid.com/scan/myanimelist.net/)

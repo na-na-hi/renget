@@ -8,7 +8,7 @@
 Positive:
 ```
 [by x]
-human, not furry, female focus, straight-on, amazing background, topwear, bottomwear,
+human, not furry, [focus/portrait], straight-on, amazing background, topwear, bottomwear,
 (best quality, high quality:1.2)
 <lora:a5b> 
 <lora:LCM:stop=5>
