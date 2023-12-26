@@ -456,13 +456,13 @@ Shiny Box | It almost seems like it's glowing with energy. Contains items that w
 
 ## Basic Attack Items
 !!! warning These are items meant to replace the Basic Attack and function as a tool. Only one can be equipped at a time and occupy the Equipped Slot.
-	Energized Wand costs depend on the AP of the move inserted.
-	Channeling Wand costs 4AP to use.
+	Energized Staff costs depend on the AP of the move inserted.
+	Channeling Staff costs 4AP to use.
 Name | Description
 ------ | ------
-Energized Wand | A straight, Walnut wand with a notch for a gem at one end. It has a sensation of living fire. It contains 2 charges of an inserted move, recharges after battle. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it can fully utilize the TM move.
-Channeling Wand | A gnarly, Alder wand with a notch for a gem at one end. It pulsates wildly with power, drawing from the user. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it has half the TM's BP and provides no secondary effects.
-Enchanting Wand | A twisting, Aspen wand with a space for a stone at one end. It has a soft glow. Requires: **TM** + **Heart of the Star** to construct. *The TM can be freely swapped out once constructed.* Once built, it can deal no damage, but retains its Primary and Secondary Effects.
+Energized Staff | A straight, Walnut staff with a notch for a gem at one end. It has a sensation of living fire. It contains 2 charges of an inserted move, recharges after battle. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it can fully utilize the TM Move.
+Channeling Staff | A gnarly, Alder staff with a notch for a gem at one end. It pulsates wildly with power, drawing from the user. Requires: **TM** + **Appropriate Type-Gem** to construct. *All items are consumed.* Once built, it has half the TM's BP and provides no secondary effects.
+Enchanting Scepter | A twisting, Aspen scepter with a space for a stone at one end. It has a soft glow. Requires: **TM** + **Heart of the Star** to construct. *The TM can be freely swapped out once constructed.* Once built, it can deal no damage, but retains its Primary and Secondary Effects.
 Awakened Wand | A helical branch from the Tree of Life, carved with unique runes. Pure Smeargle paint is carefully held within the recesses of the wood. You can feel the sheer power coursing through the old bark. The printrune symbol of Mew is laid at the base, glittering a playful aura. *Once activated, it will be destroyed.*
 
 ## Technical Machines 
@@ -470,257 +470,293 @@ Awakened Wand | A helical branch from the Tree of Life, carved with unique runes
     They must be taken to a Recycling shop to be recharged with the original move.
 Name | Description | Default Price
 ------ | ------ | ------
-Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired.
-TM01 | Mega Punch
-TM02 | Razor Wind
-TM03 | Swords Dance
-TM04 | Whirlwind 	
-TM05 | Mega Kick 	
-TM06 | Toxic 	
-TM07 | Horn Drill 	
-TM08 | Body Slam 	
-TM09 | Take Down 	
-TM10 | Double-Edge 	
-TM11 | Bubble Beam 	
-TM12 | Water Gun 	
-TM13 | Ice Beam 	
-TM14 | Blizzard 	
-TM15 | Hyper Beam 	
-TM16 | Pay Day 	
-TM17 | Submission 	
-TM18 | Counter 	
-TM19 | Seismic Toss 	
-TM20 | Rage 	
-TM21 | Mega Drain 	
-TM22 | Solar Beam 	
-TM23 | Dragon Rage 	
-TM24 | Thunderbolt 	
-TM25 | Thunder 	
-TM26 | Earthquake 	
-TM27 | Fissure 	
-TM28 | Dig 	
-TM29 | Psychic 	
-TM30 | Teleport 	
-TM31 | Mimic 	
-TM32 | Double Team 	
-TM33 | Reflect 	
-TM34 | Bide
-TM35 | Flamethrower	
-TM36 | Metronome 	
-TM37 | Selfdestruct 	
-TM38 | Egg Bomb 	
-TM39 | Fire Blast 	
-TM40 | Swift 	
-TM41 | Skull Bash 	
-TM42 | Softboiled 	
-TM43 | Dream Eater 	
-TM44 | Sky Attack 	
-TM45 | Rest 	
-TM46 | Thunder Wave 	
-TM47 | Psywave 	
-TM48 | Explosion 	
-TM49 | Rock Slide 	
-TM50 | Tri Attack 	
-TM51 | Substitute 	
-TM52 | Dynamic Punch
-TM53 | Headbutt
-TM54 | Curse
-TM55 | Rollout
-TM56 | Roar
-TM57 | Toxic
-TM58 | Zap Cannon
-TM59 | Hydro Cannon
-TM60 | Rock Smash
-TM61 | Psych Up
-TM62 | Hidden Power
-TM63 | Sunny Day
-TM64 | Sweet Scent
-TM65 | Snore
-TM66 | Icy Wind
-TM67 | Protect
-TM68 | Rain Dance
-TM69 | Giga Drain
-TM70 | Endure
-TM71 | Frustration
-TM72 | Iron Tail
-TM73 | Dragon Breath
-TM74 | Return
-TM75 | Shadow Ball
-TM76 | Mud-Slap
-TM77 | Ice Punch
-TM78 | Thunder Punch
-TM79 | Fire Punch
-TM80 | Ice Fang
-TM81 | Fire Fang
-TM82 | Thunder Fang
-TM83 | Psychic Fangs
-TM84 | Swagger
-TM85 | Sleep Talk
-TM86 | Sludge Bomb
-TM87 | Sandstorm
-TM88 | Dream Eater
-TM89 | Detect
-TM90 | Thief
-TM91 | Steel Wing
-TM92 | Fury Cutter
-TM93 | Nightmare
-TM94 | Focus Punch
-TM95 | Dragon Claw
-TM96 | Water Pulse
-TM97 | Calm Mind
-TM98 | Roar
-TM99 | Toxic
-TM100 | Hail
-TM101 | Bulk Up
-TM102 | Bullet Seed
-TM103 | Taunt
-TM104 | Light Screen
-TM105 | Safeguard
-TM106 | Brick Break
-TM107 | Shock Wave
-TM108 | Rock Tomb
-TM109 | Aerial Ace
-TM110 | Torment
-TM111 | Facade
-TM112 | Secret Power
-TM113 | Attract
-TM114 | Skill Swap
-TM115 | Power Swap
-TM116 | Guard Swap
-TM117 | Speed Swap
-TM118 | Snatch
-TM119 | Overheat
-TM120 | Roost
-TM121 | Energy Ball
-TM122 | False Swipe
-TM123 | Brine
-TM124 | Fling
-TM125 | Charge Beam
-TM126 | Dragon Pulse
-TM127 | Drain Punch
-TM128 | Will-O-Wisp
-TM129 | Silver Wind
-TM130 | Embargo
-TM131 | Payback
-TM132 | Recycle
-TM133 | Giga Impact
-TM134 | Rock Polish
-TM135 | Flash
-TM136 | Stone Edge
-TM137 | Avalanche
-TM138 | Gyro Ball
-TM139 | Stealth Rock
-TM140 | Captivate
-TM141 | Dark Pulse
-TM142 | X-Scissor
-TM143 | Natural Gift
-TM144 | Poison Jab
-TM145 | Grass Knot
-TM146 | Pluck
-TM147 | U-Turn
-TM148 | Substitute
-TM149 | Flash Cannon
-TM150 | Trick Room
-TM151 | Sludge Wave
-TM152 | Hone Claws
-TM153 | Psyshock
-TM154 | Venoshock
-TM155 | Smack Down
-TM156 | Flame Charge
-TM157 | Low Sweep
-TM158 | Round
-TM159 | Echoed Voice
-TM160 | Ally Switch
-TM161 | Scald
-TM162 | Sky Drop
-TM163 | Incinerate
-TM164 | Quash
-TM165 | Acrobatics
-TM166 | Retaliate
-TM167 | Volt Switch
-TM168 | Struggle Bug
-TM169 | Bulldoze
-TM170 | Frost Breath
-TM171 | Dragon Tail
-TM172 | Work Up
-TM173 | Wild Charge
-TM174 | Snarl
-TM175 | Infestation
-TM176 | Power-Up Punch
-TM177 | Dazzling Gleam
-TM178 | Confide
-TM179 | Leech Life
-TM180 | Pin Missile
-TM181 | Magical Leaf
-TM182 | Solar Blade
-TM183 | Scary Face
-TM184 | Charm
-TM185 | Whirlpool
-TM186 | Beat Up
-TM187 | Helping Hand
-TM188 | Revenge
-TM189 | Weather Ball
-TM190 | Imprison
-TM191 | Fake Tears
-TM192 | Icicle Spear
-TM193 | Bounce
-TM194 | Mud Shot
-TM195 | Assurance
-TM196 | Psycho Cut
-TM197 | Hex
-TM198 | Electroweb
-TM199 | Electro Ball
-TM200 | Razor Shell
-TM201 | Tail Slap
-TM202 | Phantom Force
-TM203 | Draining Kiss
-TM204 | Grassy Terrain
-TM205 | Misty Terrain
-TM206 | Electric Terrain
-TM207 | Psychic Terrain
-TM208 | Mystical Fire
-TM209 | Eerie Impulse
-TM210 | Air Slash
-TM211 | Smart Strike
-TM212 | Brutal Swing
-TM213 | Stomping Tantrum
-TM214 | Breaking Swipe
-TM215 | Pounce
-TM216 | Air Cutter
-TM217 | Night Shade
-TM218 | Snowscape
-TM219 | Disarming Voice
-TM220 | Chilling Water
-TM221 | Poison Tail
-TM222 | Metal Claw
-TM223 | Zen Headbutt
-TM224 | Rock Blast
-TM225 | Body Press
-TM226 | Spikes
-TM227 | Toxic Spikes
-TM228 | Iron Head
-TM229 | Dragon Dance
-TM230 | Power Gem
-TM231 | Gunk Shot
-TM232 | Iron Defense
-TM233 | Drill Run
-TM234 | Liquidation
-TM235 | Aura Sphere
-TM236 | Heat Wave
-TM237 | Heavy Slam
-TM238 | Pollen Puff
-TM239 | Baton Pass
-TM240 | Reversal
-TM241 | Outrage
-TM242 | Blast Burn
-TM243 | Leaf Storm
-TM244 | Hurricane
-TM245 | Brave Bird
-TM246 | Close Combat
-TM247 | Cut
-TM248 | Fly
-TM249 | Surf
-TM250 | Dive
+Shattered TM | A broken TM that once contained the instructions to a move. Can be repaired. | -
+TM01 | Mega Punch | 1,250₽ 
+TM02 | Razor Wind | 1,000₽
+TM03 | Swords Dance | 2,500₽
+TM04 | Whirlwind | 1,750₽   
+TM05 | Mega Kick | 2,500₽   
+TM06 | Toxic | 3,250₽
+TM07 | Horn Drill | 3,750₽ 
+TM08 | Body Slam | 2,000₽   
+TM09 | Take Down | 1,750₽   
+TM10 | Double-Edge | 2,750₽ 
+TM11 | Bubble Beam | 2,000₽ 
+TM12 | Water Gun | 750₽ 
+TM13 | Ice Beam | 3,250₽    
+TM14 | Blizzard | 4,000₽    
+TM15 | Hyper Beam | 3,250₽
+TM16 | Pay Day | 300₽
+TM17 | Submission | 1,500₽  
+TM18 | Counter | 2,750₽
+TM19 | Seismic Toss | 500₽
+TM20 | Rage | 250₽  
+TM21 | Mega Drain | 750₽    
+TM22 | Solar Beam | 2,000₽  
+TM23 | Dragon Rage | 2,500₽
+TM24 | Thunderbolt | 3,000₽
+TM25 | Thunder | 2,750₽
+TM26 | Earthquake | 4,000₽
+TM27 | Fissure | 3,750₽
+TM28 | Dig | 2,750₽
+TM29 | Psychic | 3,500₽
+TM30 | Teleport | 4,000₽
+TM31 | Mimic | 750₽
+TM32 | Double Team | 2,000₽
+TM33 | Reflect | 3,000₽
+TM34 | Bide | 500₽    
+TM35 | Flamethrower | 3,750₽
+TM36 | Metronome | 1,000₽
+TM37 | Selfdestruct | 2,500₽
+TM38 | Egg Bomb | 2,000₽
+TM39 | Fire Blast | 3,500₽
+TM40 | Swift | 1, 000₽
+TM41 | Skull Bash | 1,250₽
+TM42 | Softboiled | 750₽
+TM43 | Sky Attack | 1,750₽  
+TM44 | Rest | 1,000₽
+TM45 | Thunder Wave | 3,250₽
+TM46 | Psywave | 1,000₽
+TM47 | Explosion | 4,000₽
+TM48 | Rock Slide | 4,000₽
+TM49 | Tri Attack | 2,500₽
+TM50 | Substitute | 1,000₽
+TM51 | Dynamic Punch | 2,500₽
+TM52 | Headbutt | 1,500₽
+TM53 | Curse | 750₽ 
+TM54 | Rollout | 2,000₽
+TM55 | Roar | 1,500₽
+TM56 | Sand Tomb | 750₽
+TM57 | Zap Cannon | 3,500₽
+TM58 | Hydro Cannon | 3,250₽
+TM59 | Rock Smash | 500₽ 
+TM60 | Psych Up | 1,250₽ 
+TM61 | Hidden Power | 1,000₽ 
+TM62 | Sunny Day | 1,500₽
+TM63 | Sweet Scent | 250₽ 
+TM64 | Snore | 250₽ 
+TM65 | Icy Wind | 3,500₽ 
+TM66 | Protect | 1,750₽
+TM67 | Rain Dance | 1,500₽
+TM68 | Giga Drain | 3,500₽ 
+TM69 | Endure | 500₽ 
+TM70 | Frustration | 1,000₽ 
+TM71 | Iron Tail | 2,750₽
+TM72 | Dragon Breath | 1,000₽ 
+TM73 | Return | 2,500₽ 
+TM74 | Shadow Ball | 3,250₽
+TM75 | Mud-Slap | 500₽
+TM76 | Ice Punch | 2,250₽
+TM77 | Thunder Punch | 2,250₽
+TM78 | Fire Punch | 2,250₽
+TM79 | Ice Fang | 1,500₽
+TM80 | Fire Fang | 1,500₽
+TM81 | Thunder Fang | 1,500₽
+TM82 | Psychic Fangs | 2,750₽
+TM83 | Swagger | 3,000₽
+TM84 | Sleep Talk | 500₽
+TM85 | Sludge Bomb | 3,000₽
+TM86 | Sandstorm | 1,500₽
+TM87 | Dream Eater | 750₽
+TM89 | Detect | 2,000₽
+TM90 | Thief | 1,500₽
+TM91 | Steel Wing | 1,250₽
+TM92 | Fury Cutter | 1,000₽
+TM93 | Nightmare | 1,000₽
+TM94 | Focus Punch | 2,250₽
+TM95 | Dragon Claw | 3,250₽
+TM96 | Water Pulse | 1,250₽
+TM97 | Calm Mind | 1,500₽ 
+TM98 | Haze | 4,000₽
+TM99 | Charge | 1,750₽
+TM100 | Hail | 1,500₽
+TM101 | Bulk Up | 1,500₽
+TM102 | Bullet Seed | 1,500₽
+TM103 | Taunt | 4,000₽
+TM104 | Light Screen | 3,000₽
+TM105 | Safeguard | 3,750
+TM106 | Brick Break | 1,500₽
+TM107 | Shock Wave | 1,250₽
+TM108 | Rock Tomb | 3,750₽
+TM109 | Aerial Ace | 1,000₽
+TM110 | Torment | 1,500₽
+TM111 | Facade | 2,250₽
+TM112 | Secret Power | 1,250₽
+TM113 | Attract | 1,000₽ 
+TM114 | Skill Swap | 1,750₽
+TM115 | Power Swap | 4,000₽
+TM116 | Guard Swap | 750₽
+TM117 | Speed Swap | 3,750₽
+TM118 | Snatch | 2,000₽
+TM119 | Overheat | 4,000₽ 
+TM120 | Roost | 750₽
+TM121 | Energy Ball | 3,250₽
+TM122 | False Swipe | 500₽
+TM123 | Brine | 1,250₽ 
+TM124 | Fling | 1,250₽ 
+TM125 | Charge Beam | 1,250₽
+TM126 | Dragon Pulse | 2,250₽
+TM127 | Drain Punch | 1,750₽
+TM128 | Will-O-Wisp | 3,000₽
+TM129 | Silver Wind | 2,000₽
+TM130 | Embargo | 1,500₽
+TM131 | Payback | 2,750₽
+TM132 | Recycle | 1,500₽
+TM133 | Giga Impact | 3,500₽
+TM134 | Rock Polish | 3,500₽
+TM135 | Flash | 1,500₽
+TM136 | Stone Edge | 3,250₽
+TM137 | Avalanche | 2,750₽
+TM138 | Gyro Ball | 1,750₽
+TM139 | Stealth Rock | 1,500₽
+TM140 | Captivate | 1,000₽
+TM141 | Dark Pulse | 2,500₽
+TM142 | X-Scissor | 1,750₽
+TM143 | Natural Gift | 1,750₽
+TM144 | Poison Jab | 2,000₽
+TM145 | Grass Knot | 2,000₽
+TM146 | Pluck | 1,500₽
+TM147 | U-Turn | 2,250₽
+TM148 | Flash Cannon | 2,250₽
+TM149 | Trick Room | 1,500₽
+TM150 | Sludge Wave | 4,000₽
+TM151 | Hone Claws | 2,000₽
+TM152 | Psyshock | 2,750₽
+TM153 | Venoshock | 2,000₽
+TM154 | Smack Down | 1,500₽
+TM155 | Flame Charge | 1,250₽
+TM156 | Low Sweep | 1,750₽
+TM156 | Round | 1,000₽
+TM157 | Echoed Voice | 1,750₽
+TM158 | Ally Switch | 1,250₽
+TM159 | Sky Drop | 1,500₽
+TM160 | Incinerate | 1,500₽
+TM161 | Quash | 2,000₽
+TM162 | Acrobatics | 3,500₽
+TM163 | Retaliate | 1,750₽
+TM164 | Volt Switch | 2,250₽
+TM165 | Struggle Bug | 2,000₽
+TM166 | Bulldoze | 1,750₽
+TM167 | Frost Breath | 2,750₽
+TM168 | Dragon Tail | 1,750₽
+TM169 | Work Up | 3,000₽
+TM170 | Wild Charge | 2,500₽
+TM171 | Snarl | 3,000₽
+TM172 | Infestation | 2,250₽
+TM173 | Power-Up Punch | 2,000₽
+TM174 | Dazzling Gleam | 3,000₽
+TM175 | Confide | 1,000₽
+TM176 | Leech Life | 1,750₽
+TM177 | Pin Missile | 1,000₽
+TM178 | Magical Leaf | 1,000₽
+TM179 | Solar Blade | 2,000₽ 
+TM180 | Scary Face | 500₽ 
+TM181 | Charm | 750₽ 
+TM182 | Whirlpool | 750₽ 
+TM183 | Beat Up | 2,250₽ 
+TM184 | Helping Hand | 1,500₽ 
+TM185 | Revenge | 1,500₽ 
+TM186 | Weather Ball | 1,750₽ 
+TM187 | Imprison | 250₽ 
+TM188 | Fake Tears | 2,000₽ 
+TM189 | Icicle Spear | 2,250₽ 
+TM190 | Bounce | 750₽ 
+TM191 | Mud Shot | 500₽ 
+TM192 | Assurance | 1,500₽ 
+TM193 | Psycho Cut | 2,750₽ 
+TM194 | Hex | 2,250₽ 
+TM195 | Electroweb | 3,500₽ 
+TM196 | Electro Ball | 500₽ 
+TM197 | Razor Shell | 2,500₽ 
+TM198 | Tail Slap | 2,500₽ 
+TM199 | Phantom Force | 3,000₽ 
+TM200 | Draining Kiss | 1,750₽ 
+TM201 | Grassy Terrain | 1500₽
+TM202 | Misty Terrain | 1500₽
+TM203 | Electric Terrain | 1500₽
+TM204 | Psychic Terrain | 1500₽
+TM205 | Mystical Fire | 3,000₽
+TM206 | Eerie Impulse | 1,500₽ 
+TM207 | Air Slash | 3,000₽ 
+TM208 | Smart Strike | 1,000₽
+TM209 | Brutal Swing | 2,000₽ 
+TM210 | Stomping Tantrum | 1,750₽
+TM211 | Breaking Swipe | 2,250₽ 
+TM212 | Pounce | 2,000₽
+TM213 | Air Cutter | 500₽
+TM214 | Night Shade | 250₽ 
+TM215 | Snowscape | 1,500₽
+TM216 | Disarming Voice | 1,000₽
+TM217 | Chilling Water | 1,500₽ 
+TM218 | Poison Tail | 1,000₽ 
+TM219 | Metal Claw | 1,250₽ 
+TM220 | Zen Headbutt | 2,750
+TM221 | Rock Blast | 2,250₽ 
+TM222 | Body Press | 2,750
+TM223 | Spikes | 1,500₽
+TM224 | Toxic Spikes | 1,500₽
+TM225 | Iron Head | 3,250₽ 
+TM226 | Dragon Dance | 1,250₽ 
+TM227 | Power Gem | 1,750₽
+TM228 | Gunk Shot | 3,500₽
+TM229 | Iron Defense | 1,500₽ 
+TM230 | Drill Run | 2,500₽
+TM231 | Liquidation | 3,000₽
+TM232 | Aura Sphere | 2,250₽
+TM233 | Heat Wave | 3,250₽
+TM234 | Heavy Slam | 2,250₽
+TM235 | Pollen Puff | 2,250₽
+TM236 | Baton Pass | 1,750₽
+TM237 | Reversal | 2,250₽
+TM238 | Outrage | 3,250₽
+TM239 | Blast Burn | 3,250₽
+TM240 | Leaf Storm | 3,750₽
+TM241 | Hurricane | 3,750₽
+TM242 | Brave Bird | 3,750₽
+TM243 | Close Combat | 3,750₽
+TM244 | Cut | 1,500₽
+TM245 | Fly | 1,500₽
+TM246 | Surf | 1,500₽
+TM247 | Dive | 1,500₽
+TM248 | Vacuum wave | 1,250₽ 
+TM249 | Burning Jealousy | 2,750₽
+TM250 | Flip Turn | 1,250₽
+TM251 | Dual Wingbeat | 3,250₽ 
+TM252 | Grassy Glide | 1,500₽ 
+TM253 | Lash Out | 3,250₽
+TM254 | Poltergeist | 3,500₽
+TM255 | Scale Shot | 2,000₽
+TM256 | Misty Explosion | 1,500₽
+TM257 | Scald | 4,000₽
+TM258 | Knock Off | 4,000₽
+TM259 | High Horsepower | 3,500₽
+TM260 | Pain Split | 1,250₽
+TM261 | Double Edge | 2,750₽
+TM262 | Endeavor | ????
+TM263 | Petal Blizzard | 2,250₽
+TM264 | Temper Flare | 1,750₽
+TM265 | Spite | 750₽
+TM266 | Gravity | 4,000₽ 
+TM267 | Bug Bite | 1000₽ 
+TM268 | Super Fang | 500₽
+TM269 | Lunge | 1,750₽ 
+TM270 | Heat Crash | 3,500₽
+TM271 | Uproar | 2,750₽
+TM272 | Muddy Water | 4,000₽ 
+TM273 | Supercell Slam | 3,000₽
+TM274 | Triple Axel | 3,250₽ 
+TM275 | Scorching Sands | 3,500₽
+TM276 | Coaching | 2,750₽
+TM277 | Feather Dance | 2,250₽  
+TM278 | Future Sight | 1,750₽
+TM279 | Skitter Smack | 750₽ 
+TM280 | Meteor Beam | 3,000₽
+TM281 | Metal Sound | 2,750₽ 
+TM282 | Hard Press | 3,500₽
+TM283 | Dragon Cheer | 1,750₽
+TM284 | Alluring Voice | 3,500₽
+TM285 | Psychic Noise | 3,250₽
+TM286 | Upper Hand | 1,750₽
 
 ***
 

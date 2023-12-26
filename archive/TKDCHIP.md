@@ -670,6 +670,8 @@ HOLY MOLY: Hamas published a new video showing the targeting of a special IOF fo
 https://files.catbox.moe/kkn3tj.mp4  12/25/23
 Scenes from the detonation of a minefield in a precise ambush of 4 enemy command jeeps in the Juhr al-Dik area in the central Gaza Strip, targeting the rescue forces that arrived at the scene to evacuate the dead.
 https://files.catbox.moe/slhjbf.mp4  12/25/23
+Hamas destroying tank with explosive and sniper targeting conscripts 
+https://files.catbox.moe/vyq8tt.mp4 New  12/25/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -879,3 +881,7 @@ https://files.catbox.moe/kh9hgf.mp4  12/23/23
 
 >Christmas scouts in Bethlehem march while holding protest signs condemning the Israeli war on Gaza.
 https://files.catbox.moe/jdy8qh.mp4  12/24/23
+
+>Merry Christmas  
+Female Israeli hostages played arm-wrestling with Hamas guard
+https://www.youtube.com/watch?v=ZIMfc1y59mM New 12/25/23

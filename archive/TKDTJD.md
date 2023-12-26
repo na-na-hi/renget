@@ -1077,6 +1077,9 @@ https://nitter.net/ME_Observer_/status/1737605222808121485#m  12/20/23
 >As American politicians dance to the drums of war against Gaza, MintPress News unveils the top recipients of Israel lobby money of all time.
 https://nitter.net/MintPressNews/status/1737564229098525129#m  12/20/23
 
+>Israel Attempt To Artificially Change The Narrative A lot of the "support" you see for Israel online is not organic. In this thread we'll go through how Israel attempt to artificially change the narrative regarding Palestine - Israel.
+https://nitter.net/CensoredMen/status/1737594301729693784#m  12/20/23
+
 >Malaysia just banned Israeli shipping giant ZIM from entering its ports. The decision follows a mass campaign to block a ZIM ship. Malaysia also banned any ship enroute to Israel from docking in its ports or any ships flying an Israeli flag
 https://nitter.net/broseph_stalin/status/1737369105865290129#m  12/20/23
 
@@ -1109,6 +1112,9 @@ https://nitter.1d4.us/QudsNen/status/1737866783585914966#m  12/21/23
 
 >Breaking | The Euro-Med Human Rights Monitor: "We have received reports that the Israeli army has stormed the Dahyan School in the Sheikh Radwan neighborhood in western Gaza, detaining and leading men. There are concerns about the Israeli army carrying out field executions around the Sheikh Radwan"
 https://nitter.1d4.us/QudsNen/status/1737868422388633954#m  12/21/23
+
+>The company that X uses to verify its user's ID is an Israeli company founded by members of Shin Bet's unit 8200!
+https://nitter.net/CensoredMen/status/1737637667028799713#m  12/21/23
 
 >Lebanon: The Islamic Resistance announces the targeting of the “Metulla” and “Ramot Naftali” settlements with missile weapons and damaged of a number of residential buildings there.
 https://nitter.net/ME_Observer_/status/1737877168158319011#m  12/21/23
@@ -1582,3 +1588,110 @@ Yemen:
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1739056331036729474#m  12/24/23
+
+>BDS urges friendly states to follow Malaysia in banning Israeli and Israel-bound ships
+https://nitter.1d4.us/QudsNen/status/1739180908316360724#m  12/25/23
+
+>The Israeli occupation continues its war on civilians especially children in the Gaza Strip as most of the casualties are among children.
+https://nitter.1d4.us/QudsNen/status/1739187058520772645#m  12/25/23
+
+>Israeli media: 230 American planes and 30 ships arrived in Israel carrying weapons and ammunition for the Israeli occupation forces since the beginning of the war on Gaza.
+https://nitter.1d4.us/QudsNen/status/1739189923335274917#m  12/25/23
+
+>The israeli army admits to the elimination of 2 officers:
+
+- Master Sergeant (res.) Nitai Meisels, 30, from the 14th armored brigade.
+
+-  Sergeant Rani Tamir, 20, from the 50th Brigade of the Nahal infantry brigade.
+https://nitter.net/AryJeay/status/1739165942347612201#m  12/25/23
+
+>Video by Hamas (Al-Qassam) showing launches of several rockets towards occupied territories
+https://nitter.net/AryJeay/status/1739229062097220076#m  12/25/23
+
+>Breaking | News coverage: Gaza Ministry of Health: Israeli forces has committed 25 massacres, resulting in the death of 250 Palestinians in the past 24 hours.
+https://nitter.1d4.us/QudsNen/status/1739286709559312472#m  12/25/23
+
+>HOLY MOLY: Hamas published a new video showing the targeting of a special IOF force consisting of 10 soldiers inside a building in Juhr al-Dik with an anti-fortified TBG explosive.
+https://nitter.net/AryJeay/status/1739282974145683556#m  12/25/23
+
+>Spokesman for the Ministry of Health in #Gaza, Ashraf Al-Qudra:
+
+- The occupation forces committed 25 massacres that claimed the lives of 250 martyrs during the past 24 hours.
+
+- 50,000 pregnant women are in shelter centers without water, food, or health care, and about 180 women give birth every day in unsafe and inhumane conditions.
+
+- 900,000 children in shelter centers suffer from the risk of dehydration, famine, digestive and respiratory diseases, skin diseases, and anemia.
+https://nitter.net/ME_Observer_/status/1739289078183461308#m  12/25/23
+
+>News coverage | The Israeli forces place threatening notices on the cars of residents in the village of Burqa, northwest of Nablus, during the raid on the village and the arrest of several residents who are now under investigation.
+"The fate awaiting you will be similar to Gaza"
+https://nitter.1d4.us/QudsNen/status/1739288083642700254#m  12/25/23
+
+>Syria: #Israeli bombing targeted the area in the vicinity of #Damascus on the road to Damascus Airport
+https://nitter.net/ME_Observer_/status/1739292543454413045#m  12/25/23
+
+>Fire broke out at the #Israeli site of Jal al-Alam after it was targeted by #Hezbollah
+https://nitter.net/ME_Observer_/status/1739300104819859746#m  12/25/23
+
+>Netanyahu: 
+
+- We are making every effort to recover the kidnapped people, and I spoke with Biden, Macron, and Sunak, but I will not reveal all the efforts made.
+
+- This unites us in a sacred mission, and I say again that we will continue to make every effort to bring them back to the homeland
+
+- We need time and we must continue until the end. We will spare no effort and will turn over every stone in order to return the kidnapped people.
+
+- I called on the Chinese and #Russian presidents to intervene in order to free the kidnapped persons detained in #Gaza
+
+- One thing we will not do is stop the war
+
+- We must not stop the war until we achieve a decisive victory
+
+- Israel did not succeed in releasing the kidnapped people in #Gaza without military pressure
+https://nitter.net/ME_Observer_/status/1739303077943869726#m  12/25/23
+
+>Iranian Tasnim Agency: Sayyed Reza Mousavi, a prominent military commander in the #Iranian Revolutionary Guard, was martyred in the #Israeli bombing of the Sayyida Zeinab area in #Damascus.
+https://nitter.net/ME_Observer_/status/1739304040930918652#m  12/25/23
+
+>Official statement by the IRGC's Public Relations Department:
+
+'In the name of God, the Exhalted.
+
+We bring to the awareness of the noble and heroic Iranian nation, that a few hours ago, in a criminal airstrike by the fake and child-killing Zionist regime on Damascus, Brigadier-General Sayyed Razi Mousavi, one of the IRGC's experienced military advisers, was martyred in Syria.
+
+He was one of the comrades of martyr general Hajj Qassem Soleimani, and was responsible for supporting the resistance front in Syria.
+
+Congratulations and condolances on the martyrdom of this heroic commander to his noble family and the commanders and fighters of the Islamic Resistance Front.
+
+ It is emphasized that the usurping and barbaric Zionist regime will pay for this crime.'
+https://nitter.net/ME_Observer_/status/1739321892555665467#m  12/25/23
+
+>A revolution that keeps on giving and growing.
+https://nitter.net/EyesOnSouth1/status/1739317619901993126#m  12/25/23
+
+>Israeli media: #Israeli officials: The army is preparing for an #Iranian response, including launching missiles
+https://nitter.net/ME_Observer_/status/1739330680213979347#m  12/25/23
+
+>Hamas published scenes of their mortar launches demolishing military concentrations in the areas of incursion in the Gaza Strip.
+https://nitter.net/AryJeay/status/1739342464853422429#m  12/25/23
+
+>Israeli media: Netanyahu confirmed during a Likud Party session that he is pushing for voluntary migration of Gaza residents to other countries.
+https://t.me/warmonitors/18838  12/25/23
+
+>Lebanese Hezbollah:
+Today, the Zionist enemy committed a new crime added to its record of crimes and attacks by assassinating Brigadier General Sayyed Radhi Mousavi. The martyr Sayyed Radhi al-Musawi is one of the best brothers who worked to support the Islamic resistance in #Lebanon for decades.
+https://nitter.net/ME_Observer_/status/1739370835746476444#m  12/25/23
+
+>Hamas and the allied Islamic Jihad have rejected an Egyptian proposal that they relinquish power in the Gaza Strip in return for a permanent ceasefire, two Egyptian security sources told Reuters on Monday.
+https://english.alarabiya.net/News/middle-east/2023/12/25/Hamas-Islamic-Jihad-reject-giving-up-power-in-return-for-permanent-ceasefire-Report    12/25/23
+
+>BREAKING 
+According to the Israeli media Yedioth Ahronoth, a massive power outage is being reported throughout Israel, Netanyahu and his cabinet have been sent to bunkers
+https://twitter.com/IranObserver0/status/1739393237985444285?  12/25/23
+
+>Power outages in several areas throughout Occupied Palestine: Including Ashkelon, Safed, Lower Galilee, etc. 
+Hinting at a possible cyberattack on israel’s electricity network.
+https://nitter.net/AryJeay/status/1739393208382058880#m  12/25/23
+
+>The Palestinian Resistance faction, Popular Front for the Liberation (PFLP) said that the assassination of the senior Iranian general in Syria’s Damascus will lead to an “escalation of attacks against the Zionist regime”.
+https://nitter.net/AryJeay/status/1739415729395343708#m  12/25/23

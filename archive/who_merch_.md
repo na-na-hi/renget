@@ -3,9 +3,7 @@
 	If you are in Japan these are good xeeter account/websites to track goods being sold physically:
 	https://twitter.com/hololive_goods 
 	https://merch-matome.com/
-
-**Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**
-https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
+	This page is primarily dedicated to merch you can buy/order online.
 
 **Hololive 5th Fes *Capture the Moment* 16-17th March 2024 (JST) Start 1830 **
 *Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0230 PST)*
@@ -13,6 +11,15 @@ https://hololivesuperexpo2024.hololivepro.com/tickets
 https://hololivesuperexpo2024.hololivepro.com/en/tickets
 (EN/Streaming+ has a 1150 Yen Gaijin tax attached. There is relatively little differences in live experience between SPWN and Streaming+.)
 
+###Limited merch
+**Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**
+https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
+
+**HoloEN 1st Concert Connect the World merch rerun **
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
+
+
+###Regular merch
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1
 https://www.omocat-shop.com/collections/omocat-x-holomeet
@@ -22,6 +29,7 @@ Some articles are already sold-out for certain sizes for the OMOCAT merch.
 https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 
 **4th Fes Blu ray**
+Information only. EC providers might not ship outside of Japan.
 https://bushiroad-music.com/musics/hoxb-10013
 
 **Hologra Amazon t-shirt**
@@ -41,20 +49,17 @@ https://shop.hololivepro.com/en/products/hololiveen_rerun2023
 **hololive Closet acrylic stand (Casual outfit)**
 https://shop.hololivepro.com/products/hololivecloset_nanashimumei_1
 
-**HoloEN 1st Concert Connect the World Blu-ray** (Order period ends 25th December 1800 JST)
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_bluray
-
-**HoloEN 1st Concert Connect the World merch rerun **
-https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
+**hololive Friends with U plushie**
+https://shop.hololivepro.com/en/products/hololivefriends_nanashimumei
 
 - - -
-##Games
+###Games
 **Groove Coaster**
 Main game: https://store-jp.nintendo.com/list/software/70010000019180.html
 DLC: https://store-jp.nintendo.com/list/software/70050000036260.html
 
 - - -
-##Sold out/ order period ended
+###Sold out/ order period ended
 **HoloEN Valentines Merch set**  (Order period ended 20th March 1800 JST, **Situation Voice still available for purchase**)
 https://shop.hololivepro.com/en/products/hololiveen_valentine2023
 
@@ -133,3 +138,6 @@ https://shop.hololivepro.com/en/products/hololivesummer2023_acrylicstand_ssp?var
 Acrylic Stands (Yukata) 
 https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 \* * *
+
+**HoloEN 1st Concert Connect the World Blu-ray** (Order period ends 25th December 1800 JST)
+https://shop.hololivepro.com/en/products/hololiveen_1stconcert_bluray

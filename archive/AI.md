@@ -1,1 +1,1 @@
--> ![](https://media1.tenor.com/m/1kKnstyZAUYAAAAC/ai-haibara-ai.gif) <-
+-> ![](https://cdn.discordapp.com/attachments/1136385247567675507/1189000728438652988/VideoCapture_20231223-220052.jpg?ex=659c9238&is=658a1d38&hm=f75aef05452e23adca089d13728698cc6dd155446e32cc32d04cb61be0b6ef5e&) <-

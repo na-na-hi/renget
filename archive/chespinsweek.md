@@ -636,6 +636,236 @@ At least, I hope...
 
 
 ####Day 4:
+I head for the mission boards, looking for a way to kill time when I spot a Torchic and Squirtle chattering over which assignment to take. Hey, that's the team that's supposed to be super accomplished, isn't it? I approach the two, greeting them. “Morning, what are you two up to?”
+
+The Squirtle happily greets me. “G'morning Chespin! Cooper and I were just about to head out on a little rescue.”
+
+“Someone's son went to a canyon to gather stones and hasn't come back,” the Torchic says matter-of-factly. “Seems like a routine rescue to me.”
+
+“How many of those have you guys gone on?”
+
+“Hundreds!” the Squirtle exclaims.
+
+“We've done our fair share of them, like Testa said. How about you?”
+
+Feeling pretty outclassed, I say, “Ahh... Ten? Twenty?”
+
+“Hey, you'll get there!” Testa picks her head up, seeming to get an idea. “Say, wanna come with us today? You can get a bit more experience in that way.”
+
+I nod. “I was about to ask about that, actually. Lead the way.”
+
+-----
+
+I follow alongside Team Buckler as the three of us leave Capim Town. Before we get into the dungeon, I've got to know something about this Squirtle. “You uh, don't have any attacks involving ice, do you Testa?”
+
+“You know it! Check it out!” Testa fires off an Ice Beam towards a nearby rock. I clench my fists, trying to keep myself calm. She notices this, and says “Something wrong?”
+
+“N-no, it's just um... Ice stuff still unnerves me.” Looking away, I say, “I used to react a lot worse to that sort of thing.”
+
+“Oh, I'm sorry! Did something happen?”
+
+“Well...” I take a deep breath. “My first mission involved Wooper and I getting attacked by a ton of icy enemies. Even though I tried to protect him, that stupid, rotten, filthy degenerate CHILLER Cryogonal knocked him out and I didn't know how to fight yet. It was a miracle I got out of that alive. You'd hate ice too if it happened to you.”
+
+Testa wears a look of concern on her face. “If you don't mind talking about it... What was it like for you?”
+
+“The guild didn't always have those nice cotton beds. I had to hunt down a rare treasure to secure the cotton to get those. A treasure protected by that FIEND. I found myself leaping in front of Wooper to protect him, but it hurt... a LOT. It was thanks to a bunch of Blast Seeds that I was able to melt that thing into nothingness.” Shaking my head, I say, “Just my luck they can just reform and cause trouble again.”
+
+“Cryogonal certainly tried to cause trouble for us! Luckily Cooper was able to slice them in half with a beam of fire and shatter that snowflake!”
+
+I let out a chuckle. “Let me tell you, when you guys told me about that fight, I knew I'd like you guys. Anyways uh... that first fight is why I don't deal with ice very well. It even made me distrust a couple guildmates for awhile. I can't help it, trauma like that doesn't go away very easily...”
+
+Cooper speaks up, saying, “I think I know how you feel. Ever since that incident with the townsfolk back home, I... don't really trust many others.”
+
+“Yeah, I can't blame you there. To think they'd be dumb enough to believe stupid rumor.” Now that the ice is broken, I ask the two “So, how do you like it at the guild?”
+
+Testa gladly responds, saying, “It's great! I'd always wondered what other humans were like ever since I met Cooper, and now I get to meet dozens of them!”
+
+“They're still a little strange,” Cooper says. “But I think I'm starting to grow used to them.”
+
+“I know they're a little... bizarre, but most of us are just humans stuck in a new world. We'd be weird to everybody no matter what we were like before all this. Besides, with guildmates like Wooper, I wouldn't wa-” I pause mid-sentence upon saying Wooper's name. “I wouldn't want to stay anywhere else...”
+
+Testa sounds concerned at my sudden mood shift. “You miss him, don't you?”
+
+I nod. “He's the other half of my team. I wasn't in this world five minutes before I found him.”
+
+“Sounds a lot like how I met Cooper. What's your friend like?”
+
+“You know those stories where a human comes to this world, teams up with a Pokemon, and together they save th-oh who am I kidding, you two LIVED that! The story about going to the sky to stop a meteor is Wooper's favorite story, you know.”
+
+“Yeah, we did do that!” Testa says proudly.
+
+“It wasn't that spectacular,” Cooper says. “Anybody could have done what we did.”
+
+I continue, saying, “Anyways, Wooper grew up being told those stories by his father, so he's obsessed with humans. He practically forced me to take him along with me... not that I was going to say no to him. Told me he trained his whole life to team up with a former human to be “just like one of the heroes from those stories.” Imagine his face when later that same day, we met a bunch of other former humans.”
+
+“He must have been so excited!” Testa exclaims.
+
+“Yeah, imagine his reaction when he found out what you two did. The second we got back to our room, he practically exploded with joy! He went on and on for at least an hour, talking about how he couldn't believe he really met the “heroes from those stories.”” An awful idea comes to mind, and I can't help but speak on it. “What if he tries to ditch our team and join yours? I'm probably not that special anymore...”
+
+Cooper shakes his head. “We're not that special to begin with, Chespin. Your friend doesn't sound like the sort to do something like that, either.” 
+
+“He can come with us on an adventure when he returns to the guild.” Testa pats me on the shoulder, saying “Both of you can tag along, I'm sure it'd be more fun that way!”
+
+I let out a small sigh. “Yeah, you're right. This is the same friend I've spent nearly every waking minute alongside since I first woke up here. He wouldn't dream of leaving our team!”
+
+“If what you say about him is true, he'd never turn his back on you!” Testa says, smiling. “Anyhow, it shouldn't be much longer until we're there.”
+
+-----
+
+After climbing over a small hill, our target comes into view. Looking down, we see a deep canyon stretching into the distance, a river running through the center of it. The further away it gets from us, the more the greenery thins out, the far end completely devoid of plant life. The sight of something so deep and vast begins to mess with my mind simply due to the sheer size of it.
+
+“This must be the Eroded Canyon,” Cooper says. “Watch your step, there's no telling how long you'd be tumbling for if you slipped.”
+
+“I'll be right behind you guys,” I say. “I want to see how the two of you are in battle.”
+
+Testa nods, saying, “Got it. With any luck, this mission'll be a breeze!”
+
+The three of us begin our long walk into the depths of the canyon. It isn't long before a group of three Geodude rise up from the ground as we pass by them, having disguised themselves as normal boulders. Before I can react, Testa punches one of them hard enough to shatter them into nothing but dust, followed by spitting out a blast of water to take care of one more. The final one makes a swing for Cooper, but Testa leaps in front of him, using herself as a shield. Not wanting to feel useless, I grab the final foe with my vines, tossing them into the nearby river.
+
+I'm struck by the way Testa protected Cooper. “Hey, that's something I do for Wooper!”
+
+Cooper looks off to the side. “The two of us cover each other's weaknesses. You're smart to do the same thing. Either way, the enemies here seem pretty weak, so we shouldn't have to worry much.”
+
+-----
+
+Deeper and deeper the canyon goes, the enemies becoming more and more frequent the deeper we travel. The next group of enemies we run across is a pack of Cacnea. This time, Cooper leaps around the arena, shooting Flamethrowers as he nimbly dodges the enemies shot seeds and needles. At one point, I spot him ducking under a stream of Bullet Seeds as he kicks his final assailant down. After the battle, he turns to the two of us, saying, “We should keep moving.”
+
+“How did you dodge everything so easily?” I say, surprised at how nimble he is.
+
+“Lots of training. Plus, their attacks had a lot of tells to them. That Cacnea always raised its arms before firing its attack.” Turning back towards the far end of the canyon, Cooper continues with, “Anyhow, we have someone to rescue. Keep an eye out, I get the feeling we'll be fighting someone awfully territorial near the end of this place.”
+
+“What gives you that idea?” I asked.
+
+“It's usually that way. Haven't a lot of your missions gone that way, Chespin?”
+
+“... Actually, yeah, now that you mention it. Well, as long as there ain't a chiller at the end of this place, it'll probably be okay.”
+
+Testa adjusts her bag, saying “That's the spirit, Chespin! Won't be long now.”
+
+-----
+
+We go down the canyon's twists and turns, eventually coming upon a steep drop off, the nearby river flowing into a waterfall. Carefully stepping towards the edge, I look down. It's hard to judge just how deep things are, so I decide to check with my vines. Laying on the ledge, I send a vine down as far as I can reach it. I extend it, feeling it stretch further... further... until I manage to touch it onto the ground! Standing back up, I say, “I can get you both down there when you're ready. Are you guys okay with my vines grabbing you?”
+
+“Not a problem!” Testa says confidently.
+
+“Umm, as long as it's quick,” Cooper mutters.
+
+Trying to reassure, I say, “Don't worry about it, I pick Wooper up with my vines all the time and I've never had a problem. Shout up to me when you think you're close enough.”
+
+Grabbing Testa in my vines, I slowly lower her into the drop off, not stopping until I hear her shout “That'll do it!” up to me. Retracting my vines, I turn my attention towards Cooper. As my vines approach him, I spot a hint of nervousness cross his face. 
+
+“I-I dunno about this, Chespin...” I can tell how uneasy Cooper is about this.
+
+“I do this for Wooper all the time, it'll be okay. Why, it was just a couple hours in this world that I was picking him up in my vines and aiming him at enemies! I've never lost my grip on him once.”
+
+“Yeah, but... We're pretty high up, and...”
+
+I speak in a softer voice, trying to calm his nerves. “Everything went fine when I lowered Testa down. Please, just trust me on this. Our client is counting on us to help them.”
+
+Cooper takes a deep breath, steeling his nerves. “Make it quick.”
+
+I gently lift him up, an unusual warmth filling my vines. Picking Cooper up feels more like picking up a mug of hot cocoa, and I find myself thinking about nice it'd be to have him around in a cold area. As I lower him down, I notice just how light he is, feeling nearly weightless in my grasp! On top of that, I feel him shudder a little, clearly afraid of the descent.
+
+Thankfully, everything goes off without a hitch. Upon hearing Cooper tell me he's low enough, I stand back up, looking around for something to wrap my vines around, finding... nothing. All plant life had ceased long ago, this section of the canyon being utterly barren. Looking down at the others, I shout, “Uh, I didn't think this through, I can't find any way to get myself down there!”
+
+Testa shouts up, saying, “When the two of us have to do this, I make a series of ice platforms!”
+
+Ice?! “U-Uhh... that doesn't sound safe! What if I slip?!”
+
+“I could make you an icy slide!”
+
+Taking a peek over the edge, it looks like a pretty far slide down. My mind turns to how fast I'd be going as I reach the bottom of an icy slide. “There's no telling where I'd be sent tumbling once that'd over!” Hoping for other options, I shout “I just need something to wrap my vines around!”
+
+“Oh, I got it!” A flash of blue accompanies Testa's words, causing me to let out a cry and back away as a blast of icy energy strikes the wall of the drop off. As I recompose myself and look back down, I spot an outcropping of ice right near the edge. It looks thick enough to grab onto, but that means... Oh, screw it.
+
+I grapple onto the ice, a chill shooting up my vines. Enduring the coldness, I steel my nerves and leap off the side! My vines hold steady, keeping me from plummeting to the bottom. Safe from falling, I lower myself deeper and deeper until I finally touch the bottom. Letting out a sigh of relief, I retract my vines, wrapping them around Cooper in an attempt to warm them back up.
+
+“Ch-Chespin, what are you doing?!” Cooper doesn't look happy with what I'm doing.
+
+Pulling away from him, I say, “I'm sorry, the ice is just too cold for me, I needed to warm up! I hope that didn't weird you out too much.” Looking back up to where we came from, I say, “This woulda been easier if one of us could fly.”
+
+“At least we're down here safe and sound, thanks Chespin!” Testa looks down the canyon. “Looks like  the end of the canyon is coming up.
+
+-----
+
+The nearby river flows into a nearby cave, twisting into the darkness and out of sight. Near the entrance, a cream-colored Meowth pokes its head around from a boulder. “A-are you here to rescue me?”
+
+“That's right!” Testa announces. “What're you doing out here anyways? Actually, how'd you get down that cliff in the first place?”
+
+“I was getting some precious rocks for my mom as a gift before someone grabbed me... He brought me down here as punishment for-”
+
+A rough-sounding voice calls from within the cave. “Stealing my property.”
+
+I gasp upon hearing the unknown voice. “Show yourself!”
+
+A tall, multi-limbed rocky monster walks into the light. It glares at me, its head shaped like a hand. “Unless the three of you want to end up in the ground, you had better leave.”
+
+“Not a chance,” Cooper states.
+
+Testa raises a fist in the air. “We're Team Buckler, the shield that saves those in need! And if we gotta fight you to do that, then you bet we're gonna do that!”
+
+“I knew you'd choose to fight.” The Barbaracle tosses up rocks in all four of his hands, tossing them directly at Testa! 
+
+She retreats into her shell, the rocks glancing right off. Testa blasts forth a jet of water, but the foe holds out his hands, withstanding the assault. “Cooper, you know what to do!”
+
+I watch as Cooper leaps around the area, trying to get behind the enemy, but the Barbaracle meets his advance by throwing another series of rocks at Cooper... and me! Testa turns her back towards the enemy, guarding me from the attack as I watch Cooper jump back! “It's like he has eyes in the back of his head.”
+
+Shooting my vines out, I wrap around our opponent, slingshotting myself into his face for a pointy Headbutt. He lets out a small grunt, the attack doing only a little to phase him. Before I can retreat, he grabs me in one of his hands! I curl up just in time to protect my chest and stomach as another hand slams into me, sending me tumbling across the ground. Dazed, I get back up, sore but still able to keep going. “Ugh... some punch he's got, watch out.”
+
+Cooper inhales for a Flamethrower, but has to dodge out of the way as another series of rocks gets thrown at him. “It's no good, I can't get a good shot in with all those rocks he's chucking.” Out of the corner of my eye, I spot five jets of water flying towards him! Instinctively, I shoot my vines out, reeling Cooper out of harm's way. He looks around nervously in my grasp, saying “Wh-what are you doing?!”
+
+“I do this for Wooper all the time, trust me! I'm going to move you around, and you just focus on shooting.” Cooper takes a deep breath, finally nodding in confirmation. Now that that's settled, I point him at Barbaracle, much like I would with Wooper. Testa guards me as I aim Cooper around, who finally manages to score a couple of hits! Singe marks cover the bad guy, but it doesn't look like he's anywhere near ready to go down! “Testa!” I shout, “Don't you have something in that bag that can make this easier?”
+
+“Right!” She digs a hand into her bag, pulling out a stick with two curly spots on the end of it. Waving it at the enemy, a beam of light shoots out of it, slamming right into the crook! The effects are instantaneous, causing all of his limbs to move around in a sloppy and confused manner. He tries to throw more rocks, but they simply plunk right into the nearby river.
+
+I pull Cooper up to my side, releasing him from my grasp. I raise my hands skyward and say, “Okay guys, get your attacks ready. We're gonna hit him with everything all at once!”
+
+Testa nods, readying herself for the assault. Cooper's beak begins to steam up more and more, the heat radiating from his body getting hotter and hotter. The ball of light energy grows in size as I take in more sunlight. I spot the Barbaracle shake his head, coming back to his senses. Testa takes notice, using herself as a shield as more rocks impact her shell. My light energy, now fully charged, threatens to overwhelm me. “Testa... get ready... NOW!”
+
+With a shout, I shoot forth a beam of energy. As if in sync, Cooper shoots a streak of fire, looking almost like a laser beam, and Testa blasts out a torrent of water! The attacks combine into one at their impact point, our foe's torso. He lets our a roar of pain as the combined assault proves too much for him, sending him flying backwards into the cave he came out of. The ground shakes slightly as I hear a dull THUD echo from within the cavern.
+
+I lower my arms, catching my breath. “Hah... been awhile since I've done that. Everybody okay?” Cooper nods, steam pouring out of his beak.
+
+“Pretty neat idea, Chespin! Looked pretty cool, too!” Testa walks over to where the Meowth was hiding, retrieving him. “You guys ready to get outta here?”
+
+“I'd say so.” Reaching into my bag, I pull out an orb, smashing it on the ground. Blue light surrounds all four of us, and it isn't long before we find ourselves warped out of the canyon.
+
+-----
+
+Back at the guild, a Persian places a bag of coins on the floor in front of us. “Thank you for rescuing my son, dearies.”
+
+“All in a day's work!” Testa says. As the Persian walks out of the guild with her son, Testa places a handful of coins in my hand. “Here you go, Chespin! Couldn't have done it without you.”
+
+I stuff the coins in my bag. “Thanks. Maybe someday we can do it again, but with Wooper coming along.” Turning to Cooper, I say, “Sorry about the vine thing, it's just that... Aiming Wooper is one of my main strategies, and you're uh... shaped a little like him. I hope I didn't weird you out too much.”
+
+Cooper looks off to the side. “At least it worked. Startling as it was, it's an alright bit of teamwork.” 
+
+“So, what're you guys gonna do with the money?”
+
+Testa pours the rest of the coins into her bag. “We're gonna stock up for the next mission! Can never be too prepared. How about you?”
+
+“The same thing I spend all my spare cash on. Something sweet, like one of those Gummi drinks. Speaking of which, I should have a specially ordered drink coming in the mail soon. Keep an eye out for a package addressed to me, alright?”
+
+“Got it!” With that, the two of them head into town, with me following behind as I make my way to the drink shop.
+
+-----
+
+With a fresh drink in hand, I head back to my room, the taste of cherries and limes swishing around in my mouth. I sit near the window, looking up at the stars as I sip on the sweet, fizzy soda. I think back to my day with Team Buckler. If I ever wanted to get more serious about doing missions, they'd definitely be good to learn more from. But honestly, I prefer taking it easier. It's only because of Wooper that we do most of our jobs in the first place. At least I can use the earnings to feel a bit cozier.
+
+Finishing my drink, I climb into bed, but my tail bumps into something! Throwing off the covers, I spot a bag inside my bed, with a letter on the outside of it. Holding it up to the moonlight, I begin to read it.
+
+
+`“I know you haven't been feeling that hot since Wooper's not around, so I made this. I hope it helps you get through the nights you've got left until he comes back. Stay strong, but more importantly, stay cozy!”`
+
+`-Team Cozy's #1 Fan, Toge`
+
+
+Huh, that's unexpected, but nice. I grab the bag, reaching in and pulling the gift out.
+
+![What in the...](https://files.catbox.moe/ijdi52.png)
+
+I gasp at the sight of the plush. He actually made this?! Setting the bag and letter on the table, I give the plush a small hug. The gills are painted-over sticks stuck into the sides of the head, but the rest of it is nice and soft. I climb into bed again, turning over as I hug it close. Even if it's not the real deal... having something to hug while going to sleep is oddly comforting.
+
 ####Day 5:
 ####Day 6:
 ####Day 7:

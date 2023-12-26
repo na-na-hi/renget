@@ -500,14 +500,18 @@ Go to https://justin163.com/planner/events
 Fill it in, it'll tell you what to do. 
 
 >Important stuff to know 
+**Always do story mission 1 first**, just in case there's a welfare unit. 
+
 The highest bonus will be saved, so if you 1\* a quest stage with the max bonus then 3\* it with a different team, you can sweep the stage and get the highest bonus. This also works vice versa (first 3\*, then 1\* with max bonus). 
 
 Example:
 Stage 1 drops 20x and 15y. 
 Team with 100% bonus for x clears stage 1 with 1\*
 Stage 1 now drops 40x and 15y (1\*)
-Team with 100% bonus for y clears stage 1 with 3\*
-Stage 1 now drops 40x and 30y (3\*)
+Team with 100% bonus for y clears stage 1 with 1\*
+Stage 1 now drops 40x and 30y (1\*)
+Team that's not dogshit clears stage 1 with 3\*
+Stage 1 now drops 40x and 30y (3\*) 
 
 You unlock the welfare/free unit by doing the story missions (the very 1st one). Do this before you farm the quest stages.
 

@@ -1,5 +1,5 @@
 #%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2/2.1 Presets
-##->%darkgreen%Updated%% - 24 Dec (Furbo)<-
+##->%darkgreen%Updated%% - 26 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
 	-> For now, this preset will be geared towards storyline with a hint of NSFW, as opposed to Coom (Incest, NTR, Voyeurism etc...). This will not be the preset to use if you're after a quick coom. However, if you like Saviorfagging, Adventure/Fantasy, Slowburns, Survival etc..., this will be better suited for you!<-
@@ -8,7 +8,9 @@
 
 	-> 21 Dec - **TenWishes** (Furbo). ~~I don't even know. Where am I?~~ Modified instructions to prevent {{char}} from assuming {{user}}'s actions/dialogues in order to progress the story-arc.<-
 
-	-> 24 Dec - **TenWishes** (Furbo). %red%127.0.0.1:8080%%. Replaced two words with two different words in the statbox. Improves dialogue and narration by 100% (Source: www.google.com)<- 
+	-> 24 Dec - **TenWishes** (Furbo). %red%127.0.0.1:8080%%. Replaced two words with two different words in the statbox. Improves dialogue and narration by 100% (Source: www.google.com) [Insert additional bloat instructions that MAY or MAY NOT affect the quality of response]<- 
+
+	-> 26 Dec - **TenWishes** (Furbo). ABCDEFGHIJKLMNOPQESTUVWXYZ. A rehaul is due that would warrant a name change, but for now it's just minor inclusions/edits.<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -20,17 +22,17 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/34ndnq.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/34ndnq.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/d1d4xi.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/d1d4xi.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-
 ->![Guide](https://files.catbox.moe/izgdto.png)<-
 ***
 #####->Hiding the codeblock<-
-->This will hide the codeblock in {{char}}'s responses, but will still be eating up tokens. This is purely if you find the codeblock distracting, and serves no other purpose besides reducing visual clutter. **THIS ONLY APPLIES FOR MY FURBO PRESET.**<-
+->This will remove the codeblock from the final response, saving tokens and potentially not poisoning future responses. **THIS ONLY APPLIES FOR MY FURBO PRESET.**<-
 Config | Code
 :----: | :----:
-![RegEx](https://files.catbox.moe/6aifym.png)   | /\```[\s\S]*?```/g
+![RegEx](https://files.catbox.moe/xv7f21.png)   | /\```[\s\S]*?```/g
 
 ***
 ###-> Misc JB for Furbo<-
