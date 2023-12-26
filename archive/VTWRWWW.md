@@ -66,12 +66,14 @@ https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vR5ZggiHWXX_WSqCC5bvPR2QeLFG
 Here will be everything submitted for the contest during the submission period.  Contest tags will be in **bold** in order to help find them, though sfw and nsfw will still be separate for ease of browsing.
 
 ####SFW Archive
---Coming Soon--
+[There Are Days That Last Forever.](https://docs.google.com/document/d/e/2PACX-1vR3Fx6WkSppDfdZWvlhPUWiAWMQVgVHqX-ZON4tPr0hBYRsHgWrZLtaT-fiXp-InXFUiRJpg4Hge4mG/pub)  Tokoyami Towa, **Fluff, Drama, SFW**
 
 ####NSFW Archive
-[A cozy evening in the foxhole.](https://rentry.org/w5esx2)  (Fubuki, **NSFW**, **Fluff**) **Untagged Under 5k** 
+[A cozy evening in the foxhole.](https://rentry.org/w5esx2)  (Fubuki, **NSFW, Fluff) Untagged Under 5k** 
 [Kiara Sits On Your Face](https://rentry.org/fze77) (Kiara, **NSFW**, facesitting, sweat, smell, femdom)
 [The Joy of Acceptance](https://rentry.org/3dusm) (Tokoyami Towa, Amane Kanata, netorare, threesome, **NSFW, under 5k**)
-[Shiori's Fucking Monologue](https://rentry.org/edsur)  **NSFW**, Shiori, Monologue, Comedy, **Under 5k**
-[Heaven, Hell and the USDA](https://rentry.org/sivtwn)  **NSFW**, Coco, Towa, Kanata, lesbian, bdsm, **under 5k**
-[Homely relief.](https://rentry.org/vshcu)   Ookami Mio, **NSFW**, fluff. **Untagged under 5k**
+[Shiori's Fucking Monologue](https://rentry.org/edsur)  **NSFW**, Shiori, Monologue, **Comedy, Under 5k**
+[Heaven, Hell and the USDA](https://rentry.org/HHatUSDA-1)  **NSFW**, Coco, Towa, Kanata, lesbian, bdsm, **under 5k**
+[Heaven, Hell and the USDA 2: Divine Intervention](https://rentry.org/HHatUSDA-2)  ^ **NSFW**, Coco, Towa, Kanata, heaven vs hell, domination, **under 5k**
+[Homely relief.](https://rentry.org/vshcu)   Ookami Mio, **NSFW, fluff. Untagged under 5k**
+[Stacy Pacification](https://rentry.org/5d6wh) **NSFW**, Suisei, Hoshikawa, Aqua, comedy, greentext, rivalry, seduction, **Under 5k**

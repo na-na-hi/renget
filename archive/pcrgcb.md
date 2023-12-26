@@ -232,15 +232,15 @@ Labyrista 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/y1utkwiu.png)
 
 
-[B5 Magic 42-44m - 0 manual](https://www.youtube.com/watch?v=qfaWpsntbJ4)
-![](https://pomf2.lain.la/f/8ctesop.png)
+[B5 Magic 47m - 0 manual](https://www.youtube.com/watch?v=YPhNMM5nf9c)
+![](https://pomf2.lain.la/f/vkh8vqw5.png)
 Tested with: 
-Christmas Peco 5★ Lv292 R31 FULL, EX 5/5/5
+Christmas Peco 3★ Lv292 R31 FULL, EX 5/5/5
 Christmas Akari 5★ Lv292 R31 FULL, EX 5/5/5
 Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
 Ceremonial Yuki 5★ Lv292 R31 FULL, EX 5/5/5
 Ceremonial Illya 5★ R31 Lv292 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/uq8epimd.png)
+![](https://pomf2.lain.la/f/p3im1k.png)
 
 ## Stage 4 manual
 ### Boss 1

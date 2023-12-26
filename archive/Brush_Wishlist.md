@@ -187,8 +187,7 @@
 ### Ko-fi
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
-**Dawner’s CSP Brush Pack Vol. 6**|[7c748f00bb](https://ko-fi.com/s/7c748f00bb)| $7 |![](https://i.postimg.cc/qqSXkTx3/a228ee78-9e7c-4cd5-87a5-2e202f72780b-cspvol6cover2.png)
-** **|[]()|  |![]()
+**Dawner’s CSP Brush Pack Vol. 5**|[e128d3e943](https://ko-fi.com/s/e128d3e943)| $7 |![](https://i.postimg.cc/CLNnH82Q/33f6adb7-d31c-4259-82c5-b37aa9e5dfa7-img-2950.png)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

@@ -2,13 +2,14 @@ first things first: https://www.4chan-x.net/
 If quick filter isn't on by default you need to go to settings>advanced then scroll to File Info Formatting and add %f to the text box, then just click the big x next to filenames when needed.
 In the main settings page check recursive hiding on to hide replies. uncheck show stubs and filtered backlinks to erase the shitposting from existence
 **ai filter**: add /1024x1024/ to the Image dimensions section of your filters.
-To filter the niggerspammer add the following to the general filter:
+To filter the niggerspammer add the following to the general filter (UPDATED):
 /kys nigger/i;boards:trash
 /shitskin/i;boards:trash
 /human shit/i;boards:trash
 /shut up nigger/i;boards:trash
 /tick tock nigger/i;boards:trash
-if you want add /nigger/i;boards:trash but that will overreach if you browse any thread other than /bara/.
+/nignig/i;boards:trash
+if you want add /nigger/i;boards:trash and /spic/i;boards:trash but that will overreach if you browse any thread other than /bara/.
 **Filename Filter (only put in filename filter):**
 /==/
 

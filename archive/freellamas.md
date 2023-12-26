@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit (Update your settings!)**
 **Hardware: RTX 3090**
 
-Server URL: ```https://log-custom-diving-onion.trycloudflare.com```
+Server URL: ```https://yield-though-research-permissions.trycloudflare.com``` (Might randomly die, oobaboohoo keeps crashing)
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
 **Story string (respect the spaces):**

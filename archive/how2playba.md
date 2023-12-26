@@ -421,7 +421,7 @@ Consider bringing Shizuko to 3\* when a Shirokuro raid is approaching.
 
 If you ever want to unlock any of the 3\*s available that's fine, theyre just very very niche. Don't expect them to be good. 
 
-In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT with pyros. This way you get to buy out the pvp drinks 4x
+In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT with pyros. This way you get to buy out the pvp drinks 4x (also known as pvp refreshing) 
 ![How to refresh the shop](https://i.imgur.com/T9Wf7p5.png)
 
 >Joint Firing Drill/Joint Exercise shop

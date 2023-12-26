@@ -672,6 +672,8 @@ Scenes from the detonation of a minefield in a precise ambush of 4 enemy command
 https://files.catbox.moe/slhjbf.mp4  12/25/23
 Hamas destroying tank with explosive and sniper targeting conscripts 
 https://files.catbox.moe/vyq8tt.mp4 New  12/25/23
+Hamas targeting army vehicles in the sheikh zayed aren in northern gaza strip with yassin 105s 
+https://files.catbox.moe/7i01b5.mp4 New  12/26/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -687,6 +689,8 @@ THE LONG AWAITED VIDEO IS HERE: Mujahideen Brigades published the video of their
 https://files.catbox.moe/q950zj.mp4  12/23/23
 Hamas published scenes of their mortar launches demolishing military concentrations in the areas of incursion in the Gaza Strip.
 https://files.catbox.moe/djnb9t.mp4  12/25/23
+Scenes from the operation of special forces luring a house in the city of Beit Hanoun, northern Gaza Strip, and destroying it with 3 personnel bombs, a shock device, and a strobe device, which led to the death of the entire force.
+https://files.catbox.moe/vh3pfz.mp4 New  12/26/23
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -885,3 +889,6 @@ https://files.catbox.moe/jdy8qh.mp4  12/24/23
 >Merry Christmas  
 Female Israeli hostages played arm-wrestling with Hamas guard
 https://www.youtube.com/watch?v=ZIMfc1y59mM New 12/25/23
+
+>Israeli Channel 12: Suspected assassination in Netanya, a man was killed in a car explosion, this is most likely an IRGC response to the assasination of the commander in damascus last night
+https://files.catbox.moe/tz1jsi.mp4 New  12/26/23

@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>RT wishes (You) a Merry Christmas
+https://files.catbox.moe/rhq7k8.mp4
+>Paladin meets Lancet
+https://files.catbox.moe/84xizx.MP4
 >Last gunfight near Marinka
 https://files.catbox.moe/50ysp7.mp4
 >Ukrainians to the Canary Islands
