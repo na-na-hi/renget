@@ -7,9 +7,8 @@ Release trailer: https://www.youtube.com/watch?v=qVw5M42LwZo
 \>News:
 Patch 5: https://baldursgate3.game/news/patch-5-now-live_99
 
-\>Wikis:
+\>Wiki:
 https://bg3.wiki/wiki/Main_Page
-https://baldursgate.fandom.com/wiki/Baldur's_Gate_Wiki
 
 \>Mods:
 https://www.nexusmods.com/baldursgate3/

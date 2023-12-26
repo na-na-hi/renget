@@ -81,5 +81,3 @@ I chose a dim size of 16 this time because it's sufficient for a single material
 breaking the LoRA. Although further fine-tuning of the settings is possible, I kept it at this level with some margin.
 
 With my RTX 3070, the training time is approximately 3 minutes, like a bowl of ramen. It can be even faster if you increase the batch size. There are surprisingly few articles that delve into fine-tuning these settings, or maybe they are not well understood.
-
-Please note that the translation provided above takes into account the intent of the original Japanese note while considering the natural feeling and cultural context in English.

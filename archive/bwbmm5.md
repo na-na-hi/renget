@@ -42,6 +42,7 @@
 /fing(|o)loid/i;boards:trash;op:no
 /(fur|esl|underage|adhg|pol|teenage|adolescent|favela|fag)(| )(\bape|chimp|kike)/i;boards:trash;op:no
 /zoomer piece of shit/i;boards:trash;op:no
+/1 in 6 gen z/i;boards:trash;op:no
 /(?=.*brain)(?=.*not)(?=.*fully (matured|developed))/ims;boards:trash;op:no
 /advertise(|s) this general/i;boards:trash;op:no
 /n(u|ew)(teen|zoom|child)/i;boards:trash;op:no

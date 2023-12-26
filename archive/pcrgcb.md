@@ -5,7 +5,7 @@
 ## General Resources for all Stages
 [gamewith](https://gamewith.jp/pricone-re/article/show/431266)
 [しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1gRC9DSIGWEo4evJT9_SKBvdXo83iRxkRot9zs2mCwvI/edit#gid=790984515)
-[chink sheet]() 
+chink sheet?
 
 
 ## Stage 1&2 90 seconds carryover
@@ -32,6 +32,8 @@ videos:
 ## Stage 4 semi auto
 videos:
 [Vash](https://youtu.be/DTxB0VVVnTM)
+[Reonmaru](https://www.youtube.com/watch?v=XUbw8uWZcrI)
+[Eruru](https://www.youtube.com/watch?v=lS6Td1ucTcY)
 
 ### Boss 1
 [B1 Physical 59-61m - 0 manual](https://www.youtube.com/watch?v=fDm3vi7ZN2c)
@@ -110,6 +112,28 @@ Festival Yuni 3★ R31 Lv292 FULL, EX 5/5/5
 
 
 ### Boss 3
+[B3 Physical 45-47m - 1 manual input](https://www.youtube.com/watch?v=yFqHA4HLR04)
+![](https://pomf2.lain.la/f/9zeyg2a3.png)
+Tested with: 
+Christina 6★ Lv292 R31 FULL, EX 5/5/5
+Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
+Halloween Miyako 5★ Lv292 R31 FULL, EX 5/5/5
+New Years Misato 5★ Lv292 R31 FULL, EX 5/5/5
+Shiori 6★ R31 Lv292 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/avzs6gdu.png)
+
+[B3 Magic 44m - 0 manual inputs](https://www.youtube.com/watch?v=zY4FY0-Tn8Q)
+![](https://pomf2.lain.la/f/1u4699rn.png)
+Tested with: 
+Noir Kuuka 5★ Lv292 R31 FULL, EX 5/5/5
+AnneGrea 5★ Lv292 R31 FULL, EX 5/5/5
+Lyrael 5★ Lv292 R31 FULL, EX 5/5/5
+Ameth 5★ Lv292 R31 FULL, EX 5/5/5
+Oedo Yuki 3★ R31 Lv292 FULL, EX 5/5/5 **Should be 5★ but I only have 3★**
+
+![](https://pomf2.lain.la/f/y3ik7pyk.png)
+
 [B3 Physical 43m - 0 manual](https://youtu.be/hSWHATLZMoU)
 ![](https://pomf2.lain.la/f/13qj2ftu.png)
 Tested with: 
@@ -130,17 +154,28 @@ Shiori 6★ Lv292 R31 FULL, EX 5/5/5
 Christmas Creditta 5★ R31 Lv292 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/5zgjjovn.png)
 
-[B3 Magic 43m - 2 manual inputs](https://www.youtube.com/watch?v=_ntDgYGUg6s)
-![](https://pomf2.lain.la/f/phxxwnnn.png)
+[B3 Magic 44m - 0 manual inputs](https://www.youtube.com/watch?v=UCSyq8TYFuk)
+![](https://pomf2.lain.la/f/9biu0qje.png)
 Tested with: 
 Ceremonial Illya 5★ Lv292 R31 FULL, EX 5/5/5
 Alchemist Karin 3★ Lv292 R31 FULL, EX 5/5/5
 Summer Ranpha 5★ Lv292 R31 FULL, EX 5/5/5
 Lyrael 5★ Lv292 R31 FULL, EX 5/5/5
 Princess Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
-![](https://pomf2.lain.la/f/73o2j3w.png)
+![](https://pomf2.lain.la/f/pokd069.png)
 
 ### Boss 4
+
+[B4 Magic 49-51m - 2 manual inputs](https://www.youtube.com/watch?v=0h9CMzyk0fQ)
+![](https://pomf2.lain.la/f/uyg1zdp3.png)
+Tested with: 
+Noir Kuuka 3★ Lv292 R31 FULL, EX 5/5/5
+Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv292 R31 FULL, EX 5/5/5
+Lyrael 5★ Lv292 R31 FULL, EX 5/5/5
+Princess Kyaru 5★ R31 Lv292 FULL, EX 5/5/5
+![](https://pomf2.lain.la/f/8t2ftkmx.png)
+
 [B4 Magic 47m - 0 manual](https://www.youtube.com/watch?v=ituyINLqjKQ)
 ![](https://pomf2.lain.la/f/ay54eg9i.png)
 Tested with: 

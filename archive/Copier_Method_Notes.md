@@ -9,6 +9,8 @@
 
 !!! note
 	I plan to update this soon (maybe after December)
+	***
+	Before proceeding you should first read [Simple☆Copy Machine Learning Method (Beginner's Edition)](https://rentry.org/d2oqv) & [Copier lora rentry](https://rentry.co/copier_lora)
 
 ## Preface
 I don't know much about the deep end of all of this to speak out on anything that hasn't been said before but I wanted to take some notes on what I learned from the sources above in hopes that someone more knowledgeable can do a better write-up.

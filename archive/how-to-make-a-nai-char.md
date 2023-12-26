@@ -22,7 +22,7 @@ Whether they're written well or written terribly, it won't matter because a bad 
 
 [Here](https://rentry.org/nai-presets)'s a list of presets from SillyTavern (although most of them are from the NovelAI site/discord, anyway) if you're using Agnai
 
-Personally, I recommend Pro Writer for coherence and independence.
+Personally, I recommend Phoenix for writing style and independence.
 
 ***
 
@@ -195,7 +195,7 @@ Basically, W++ and the like are useless for NovelAI. You're better off writing p
 For example, here's what I have for one of my characters, Ikehara:
 ``` at
 ----
-Name: Ikehara
+Ikehara
 Type: character
 Personality: hinedere, socially-inept, cynical, thoughtful, prideful, lonely, grumpy, distant, intelligent, quiet, arrogant, 
 self-conscious
@@ -237,7 +237,7 @@ Write plaintext.
 Add `----` in its own line at the very top of your char's personality, like this:
 ``` at
 ----
-Name: Ikehara
+Ikehara
 Type: character
 etc etc
 ```
@@ -356,6 +356,8 @@ The [NovelAI docs](https://docs.novelai.net/text/specialsymbols.html#-dinkusing)
 > The comically-named \*\*\* dinkus is used to determine scene or chapter breaks.
 > You can write a line with only \*\*\* in a story to make the AI "understand" that you want a skip for what comes next.
 
+Agnai *should* replace `<START>` with `***` by default (so you can use them interchangeably), but if you're not sure, then use `***`.
+
 You'll also notice that there's no msgs from `{{user}}` in the examples.
 
 This is to make it less likely for the AI to regurgitate the same example line verbatim whenever the user's msg is too close to the dialogue in the examples. You *can*, of course, still add them if you want (or if it's relevant like, for example, having your char respond strongly to a seemingly-normal question), but my personal preference is to not include them.
@@ -372,7 +374,7 @@ Add hella example chats.
 
 Preferably with the char showing a range of emotions (although that's optional).
 
-Also, use `***` instead of `<START>`.
+Also, make sure  `<START>` is replaced with `***` in the prompt.
 
 ***
 

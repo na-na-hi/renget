@@ -15,6 +15,8 @@ https://github.com/anapnoe/stable-diffusion-webui-ux
 https://github.com/vladmandic/automatic
 ###Other UI
 https://github.com/lllyasviel/Fooocus
+https://easydiffusion.github.io
+https://github.com/invoke-ai/InvokeAI
 ###AMD GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 https://github.com/lshqqytiger/stable-diffusion-webui-directml
@@ -54,7 +56,7 @@ https://www.kaggle.com/code/miolovers1/stable-diffusion-automatic1111
 https://www.kaggle.com/code/klaytrop/sdg4u
 ###Other Cloud Hosts
 https://www.runpod.io/gpu-instance/pricing
-https://cloud.vast.ai/create/
+https://cloud.vast.ai/create
 
 !!! info
 	---------------------------
@@ -95,10 +97,10 @@ https://stability.ai/blog/stable-diffusion-sdxl-1-announcement
 
 ###Front-ends with SDXL support
 https://github.com/comfyanonymous/ComfyUI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/vladmandic/automatic
 https://github.com/Stability-AI/StableSwarmUI
 https://github.com/invoke-ai/InvokeAI
-https://github.com/vladmandic/automatic
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ###Download SDXL v1.0
 https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
@@ -322,5 +324,5 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - December 18th - https://pastebin.com/qmAjLhFt
+Cut'n'paste for PWChefAnon and other thread bakers - December 26th - https://pastebin.com/ruq95LqH
 *(PWAnon, gratz on the new kitten! ≽^•⩊•^≼)*

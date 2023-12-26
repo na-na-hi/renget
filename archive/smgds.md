@@ -276,4 +276,7 @@ I initially am elated having defeated this leviathan but as I look around my emo
 
 The game black screens. Restarting my system I boot the game up, get back to the save select screen, pick my old save and see my 3ds crash again. Picking a new save leads to the same fate. Even when I redownload the game I can’t revisit the world.
 
-Though I can't go back I still wonder about that galaxy's fate[.](https://rentry.org/smgdscredits)
+Though I can't go back I still wonder about that galaxy's fate.
+
+
+**[CREDITS](https://rentry.org/smgdscredits)**

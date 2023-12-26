@@ -37,3 +37,5 @@
 
 !!!info booker
 	yeah, i do imagine booker would smell sweet, especially since a ribombee's diet is high in sugar
+
+[2023-12-26 Hug Questionnaire](https://rentry.org/hugquestions)

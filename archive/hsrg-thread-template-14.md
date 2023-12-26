@@ -6,13 +6,17 @@ Previous: >>
 
 \>1.6 Preview Page - https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
 
-\>Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms"
-https://www.youtube.com/watch?v=zLbGzCuxLy4
-https://www.youtube.com/watch?v=OZjpTFdJp0E
+\>Ruan Mei Trailer — "In All Does Life Flow" 
+https://www.youtube.com/watch?v=xrovyt1awpk
+https://www.youtube.com/watch?v=pLWr1I9D5lA
 
 \>Version 1.6 Trailer - "Crown of the Mundane and Divine"
 https://www.youtube.com/watch?v=Y02F-UtpiVw
 https://www.youtube.com/watch?v=EOn_MGgOWYs
+
+\>Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms"
+https://www.youtube.com/watch?v=zLbGzCuxLy4
+https://www.youtube.com/watch?v=OZjpTFdJp0E
 
 \>TGA Candidacy Video: A Story That Never Grows Dull 
 https://www.youtube.com/watch?v=zlOnfjtTBic

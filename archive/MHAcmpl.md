@@ -636,6 +636,7 @@ Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro,
 cringekino clickbait: https://desuarchive.org/tg/post/91169301/
 Young Impakt Art: https://desuarchive.org/tg/post/91192484/
 Team PRD Moodboard: https://desuarchive.org/tg/thread/91286519/#91288679
+A Quiet Christmas Night(Inigo, Maru(maru)): https://desuarchive.org/tg/thread/91323415/#91331650
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1008,6 +1009,7 @@ Language Barrier (Madoka, Nekiro): https://rentry.org/Language_Barrier
 Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people): https://rentry.org/oeyupk
 Kaylee in Wonderland, Part Two!: https://rentry.org/69nav
 Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
+A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut): https://rentry.org/hwiz8
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

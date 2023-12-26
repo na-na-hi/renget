@@ -5,15 +5,13 @@
 ## Notes to remember:
 * The General, Prompt, and Memory settings will always be the same. They will be stated in one section, and the actual preset subheadings will be focused on the Advanced settings tab.
 
-* Feel free to change the Genre, Style, Tags, whatever in the prompt template in order to better suit your preferences. Just don't mess with the macros (the stuff in the curly brackets like {{char}} ).
+* Feel free to change the Genre, Style, Tags, whatever in the prompt template in order to better suit your preferences. Just don't mess with the macros (the stuff in the curly brackets like `{{char}}`).
 
-* Max New Tokens are limited by NovelAI itself. This means you will never receive more than 150 tokens in one response from the AI, even if you set it higher in Agnai. You can, however, select the ‘continue’ or ‘respond again’ options while in the chat.
+* Max New Tokens are limited by NovelAI itself. This means you will never receive much more than 150 tokens in one response from the AI, even if you set it higher in Agnai. You can, however, select the ‘continue’ or ‘respond again’ options while in the chat.
 
 * Max Context Length will always be at 3000 tokens for Kayra. This is because on the lowest subscription tier, Kayra's memory is limited to 3000. On higher tiers, however, Kayra can remember much more, so if you pay for it, remember to adjust the Max Context Length to fit.
 
 * System prompts are just copy and pastes of my personal system prompt. Technically, NovelAI doesn’t actually need them because of how it works, but you can include it anyway if you want.
-
-* The ‘Top G’ sampler isn’t in Sillytavern, so it will always be disabled in the Advanced settings. Feel free to experiment with it, though.
 
 * Also, I'm slowly working through testing each preset on my own. If I have any words about them, I'll add them.
 
@@ -360,6 +358,44 @@ Top A (disabled)
 
 ***
 
+### Phoenix
+(made by cyb0001 on the NAI server)
+
+***
+
+Temperature: 1.26
+CFG Scale: 1 (disabled)
+Phrase Repetition Penalty: Off
+
+Top P: 1 (disabled)
+Top K: 61
+Top A: 0
+Microstat Tau: 0 (disabled)
+Microstat Learning Rate (ETA): 0 (disabled)
+Tail Free Sampling: 0.948
+Typical P: 0 (disabled)
+Repetition Penalty: 6
+Repetition Penalty Range: 3888
+Repetition Penalty Slope: 0.36
+Frequency Penalty: 0
+Presence Penalty: 0
+
+#### Sampler Order:
+Temperature
+Tail Free Sampling
+Top K
+Top P (disabled)
+Top A (disabled)
+Typical P (disabled)
+CFG Scale (disabled)
+Microstat Tau (disabled)
+
+#### Notes
+Best preset on the list.
+I don't know how, I don't know why, but the AI seems to understand the characters more with this preset??? My yandere character actually acts like a yandere and my tsundere is much more of a tsundere with this preset, and I have no idea how just changing presets can affect that. I can't deny the results though.
+
+***
+
 ### Pro Writer
 
 ***
@@ -394,7 +430,6 @@ CFG Scale (disabled)
 Top G (disabled)
 
 #### Notes
-This one's the best on the list, from what I've seen. Definitely earns the title of 'Pro Writer'.
 It's independent in its writing style, and usually very coherent. It loses a *bit* of that coherence if there's too many disconnected example chats (like in my chars, unfortunately 😭😭) but example chats get phased out as your chat history grows longer, anyway.
 
 ***
