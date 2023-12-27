@@ -27,17 +27,18 @@
 You can also take the image I have [below](https://rentry.org/5exa3/edit#drag-and-drop-starter-workflows) and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
 
 ##Oh, so you want anime?
-- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) and just add it the way you add LoRA
+- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a6.safetensors) and just add it the way you add LoRA
 - [Artist wildcards](https://files.catbox.moe/sizp9i.txt)
-- [HLL/e621 tags](https://files.catbox.moe/e6jc6i.csv)
+- [HLL/e621 tags](https://files.catbox.moe/oom7dz.csv)
 	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
 	- Settings > Tag Autocomplete > Extra filename
 ***
 Model | Artist Wildcards | Artist Examples | Tags | Changes
 ----: | :----: | :----: | :----: | :----
-[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [Examples](https://files.catbox.moe/vycv54.jpg), [Combos](https://catbox.moe/c/6etv3n#) | [e621 tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
-[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg), [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b) | [e621 tags](https://files.catbox.moe/e6jc6i.csv) | [More artists](https://files.catbox.moe/12el00.txt); slightly better color
+[a4](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a4.safetensors) | [Wildcards](https://pixeldrain.com/u/UPZvZtQV), [Uncounted](https://files.catbox.moe/f1ftg0.txt) | [Examples](https://files.catbox.moe/vycv54.jpg), [Combos](https://catbox.moe/c/6etv3n#) | [HLL CSV tags](https://pixeldrain.com/u/TyiryrZB) | Vtubers, artists, and anime, all on furry models
+[a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg), [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b) | [HLL CSV tags](https://files.catbox.moe/e6jc6i.csv) | [206 New artists](https://files.catbox.moe/12el00.txt); slightly better color
 [a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b), [~~WIP Rentry~~](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
+[a6](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a6.safetensors) | [Wildcards](https://files.catbox.moe/9pculu.txt), [Uncounted](https://files.catbox.moe/wmb59w.txt) | x | [HLL CSV tags](https://files.catbox.moe/oom7dz.csv) | [432 New artists](https://files.catbox.moe/50c5x4.txt)
 
 
 #### What settings?

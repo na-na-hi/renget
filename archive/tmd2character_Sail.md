@@ -8,7 +8,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 11 | **Experience to Next Level:** 110/15
-**Worn Item:** *N/A* | **Clothing:** *Star Piece Eyepatch*
+**Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 1,915₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
@@ -75,7 +75,7 @@ Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 3/9 | ▮▮▮�
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | 
+*Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. N/A | 
 2. Blast Seed | Explodes on contact for 10 true damage.

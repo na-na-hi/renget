@@ -1695,3 +1695,169 @@ https://nitter.net/AryJeay/status/1739393208382058880#m  12/25/23
 
 >The Palestinian Resistance faction, Popular Front for the Liberation (PFLP) said that the assassination of the senior Iranian general in Syria’s Damascus will lead to an “escalation of attacks against the Zionist regime”.
 https://nitter.net/AryJeay/status/1739415729395343708#m  12/25/23
+
+>Israeli Channel 12: Suspected assassination in Netanya, a man was killed in a car explosion, this is most likely an IRGC response to the assasination of the commander in damascus last night
+source: war monitor TG   12/26/23
+
+>Lebanon: The Islamic Resistance:
+Direct casualties were achieved in targeting a monitoring room near the “Shomera” barracks, killing and wounding its members.
+https://nitter.net/ME_Observer_/status/1739600742233616449#m  12/26/23
+
+>Al-Qassam:
+Our mujahideen detonated a booby-trapped tunnel against a Zionist force consisting of 8 soldiers east of the Bureij refugee camp in the central Gaza Strip, leaving them dead and wounded.
+https://nitter.net/IbnRiad/status/1739603088485294538#m  12/26/23
+
+>Al-Manar quoting israeli sources: A number of israeli soldiers were injured by a guided missile fired by Hezbollah towards Shomera.
+https://nitter.net/AryJeay/status/1739608639185268909#m  12/26/23
+
+>According to Cairo news agencies, explosions were heard in the sky of the Egyptian city Dahab after a drone was shot down
+https://nitter.net/AryJeay/status/1739607757882270183#m  12/26/23
+
+>Hamas Movement: 
+We offer our condolences to the Iranian Revolutionary Guards and affirm that the enemy’s crimes inside and outside Palestine will not succeed in breaking the will of our people and nation and putting down our continued resistance.
+https://nitter.net/ME_Observer_/status/1739617390541898030#m  12/26/23
+
+>Palestine says will never allow Netanyahu’s plans for voluntary transfer of Palestinians to go ahead
+https://nitter.1d4.us/QudsNen/status/1739562602542334118#m  12/26/23
+
+>BREAKING 
+Saudi Arabia rejects US request to join Operation Prosperity Guardian against Houthis
+
+Saudi officials told the New York Times that the kingdom prioritises internal security and economic progress over conducting naval operations, and seeks peace along its southern border after an exhausting eight-year conflict with the Ansarullah.
+https://nitter.net/IranObserver0/status/1739603212166922360  12/26/23
+
+>Media coverage | Chief of Staff of the Israeli Army: "We do not have magical solutions to eliminate Hamas."
+https://nitter.1d4.us/QudsNen/status/1739694951527543014#m  12/26/23
+
+>Islamic Resistance in Iraq:
+
+Attacked the US base in Al-Shaddadi in Syria with a missile salvo, hitting its targets directly.
+https://nitter.net/AryJeay/status/1739705176569618599#m  12/26/23
+
+>STATEMENT by the Yemeni Armed Forces’ spox Yahya Sarae:
+
+• We carried out a targeted operation against the commercial ship "MSC UNITED" using anti-ship missiles.
+
+The targeting of the ship came after its crew rejected, for the 3rd time, the naval forces' warnings and repeated warning flares.
+
+• The Yemeni Armed Forces also conducted a military operation with several UAVs on military targets in Um Al-Rashrash (Eilat) and other regions in occupied Palestine.
+
+The Yemeni Armed Forces affirm their continued support for the Palestinian people within their religious, ethical, and humanitarian duty.
+https://nitter.net/AryJeay/status/1739712928633196937#m  12/26/23
+
+>In Seoul, demonstrators marched from the Israeli Embassy to the U.S. Embassy, denouncing the U.S. support for the Israeli aggression on Gaza.
+https://nitter.1d4.us/QudsNen/status/1739735895220068689#m  12/26/23
+
+>Media coverage | Reservist brigadier general in the Israeli Army, Isaac Brik: "Do not believe the army and Israeli analysts. There is no solution to Hamas tunnels."
+https://nitter.1d4.us/QudsNen/status/1739700006074843367#m  12/26/23
+
+>The ninth operation since the morning , #Lebanon, Hezbollah:
+
+ We attacked, with a strike drone, a new command headquarters for the occupation in the vicinity of Kiryat Shmona, and we confirm that there have been confirmed casualties.
+https://nitter.net/ME_Observer_/status/1739660171045933216#m  12/26/23
+
+>The attacks by Hezbollah today on the border have been very intense and non-stop since this morning with many IOF casualties so far. 
+
+The assassination of the Iranian general in Syria yesterday is not irrelevant to the increase of attack intensity by Hezbollah today.
+https://nitter.net/AryJeay/status/1739629370283585902#m  12/26/23
+
+>WATCH: Hamas published a video showing scenes targeting of army vehicles penetrating the Sheikh Zayed area in the northern Gaza Strip with Al-Yassin 105s
+https://nitter.net/AryJeay/status/1739675562505851244#m  12/26/23
+
+>Media Coverage | Hamas senior representative Osama Hamdan told 'Al-Arabi': "The Israeli army has expanded the scope of its targets, yet today's reality underscores its inability to achieve any. The Israeli government is proposing de-escalation ideas to intermediaries that fall short of acknowledging the sacrifices of our Palestinian people. As of now, there is no mature initiative for a ceasefire, and the Israeli army is attempting to alter its tactics in an effort to initiate a retreat."
+https://nitter.1d4.us/QudsNen/status/1739679559526576588#m  12/26/23
+
+>Hezbollah published a 2nd video showing attacking a group of israeli soldiers inside Doviv on the Lebanese-Palestinian border. Those IOF soldiers found out.
+https://nitter.net/AryJeay/status/1739749805738602740#m  12/26/23
+
+>BREAKING| The Euro-Mediterranean Human Rights Monitor says Israeli strikes targeted a building housing its office in Gaza.
+https://nitter.1d4.us/QudsNen/status/1739741185629933618#m  12/26/23
+
+>BIG SUMMARY of all resistance operations today, December 26, against US-israeli forces
+
+Yemeni Armed Forces:
+
+- Targeted the commercial "MSC UNITED" ship with anti-ship ballistic missiles.
+
+- Targeted military assets in the Um Al-Rashrash area (Eilat) & other areas in Occupied Palestine, with several suicide drones.
+
+Al-Qassam Brigades:
+
+- (Partially) destroyed 3 Merkava tanks, 1 military D9-bulldozer & 1 APC in various battle zones in the Strip. 
+
+- Targeted a Zionist APC with soldiers on board, northeast of Al-Bureij camp, causing casualties. A military helicopter came to pickup for evacuation.
+
+- Detonated an explosive-laden booby-trapped tunnel upon the entry of a Zionist force consisting of 8 soldiers, east of Al-Bureij camp, resulting in casualties.
+
+Al-Quds Brigades:
+
+- In a joint-operation with Al-Qassam Brigades, they targeted 5 military vehicles with "Tandem" and Al-Yassin105s in the axes of Jabalia, in northern Gaza Strip.
+
+- In a joint-operation with Al-Qassam Brigades, they ambushed a Zionist force inside a building in Jabalia, in northern Gaza, with machine guns and TBG explosives, resulting in casualties.
+
+- (Partially) destroyed 2 military vehicles with RPGs in Sheikh Radwan neighborhood in Gaza City.
+
+- Shelled military concentrations with a barrage of mortars, in Juhr Al-Dik.
+
+- Shelled military concentrations in the Abasan area, east of Khan Yunis, with a barrage of 60mm caliber mortars.
+
+Martyr Abu Ali Mustafa Brigades:
+
+- Shelled IOF soldiers’ gatherings, east of Rafah, with heavy caliber mortars.
+
+Martyr Omar Al-Qassem forces:
+
+- In the last 24h, inflicted casualties to 12 IOF soldiers, leaving them either dead or wounded, in various combat zones (Jabalia, Khan Yunis & Juhr al-Dik)
+
+- Clashed with IOF forces in the center & northern part of Khan Younis, with R.B.G. shells, and causing injuries and deaths.
+
+- Shelled a gathering of advanced military vehicles, east of Bureij, “Abu Mtaybaq Gate,” with several heavy-caliber mortars.
+
+Al-Aqsa Martyrs Brigades:
+
+- (Partially) destroyed 5 military vehicles in various combat zones. 
+
+- Clashed with IOF forces in various axes using machine guns and RPGs.
+
+- Shelled military gatherings in the axis east of Khan Younis with heavy-caliber mortars.
+
+- Targeted a building housing IOF forces near Birket Sheikh Radwan, with anti-fortification rockets & RPGs, resulting in the death and injury of those inside the building.
+
+- Targeted a number of military vehicles north of Khan Younis with RPGs, directly hitting them, over the past two days.
+
+- Clashed with IOF forces on the axis in Jabalia camp, with heavy barrages of bullets and RPGs.
+
+Hezbollah:
+
+- Targeted the Zebdine IOF site with suitable weapons.
+
+- Targeted israeli soldiers near the Ramiyeh IOF site with suitable weapons, achieving direct hits.
+
+- Targeted the monitoring room near the Shomera barracks with suitable weapons, causing direct hits and casualties among its members.
+
+- Targeted israeli soldiers near the Doviv IOF site with suitable weapons, causing casualties (both dead & wounded).
+
+- Targeted israeli soldiers at the Al-Raheb IOF site with suitable weapons, inflicting deaths & injuries.
+
+- Targeted the 91st Brigade HQ in the Branit barracks with suitable weapons.
+
+- Targeted the Zebdine barracks with IRAM Burkan rockets.
+
+- Targeted the Al-Baghdadi IOF site with suitable weapons.
+
+- Attacked a newly established israeli HQ in the vicinity of Kiryat Shmona with a kamikaze drone, achieving confirmed hits.
+
+Islamic Resistance in Iraq:
+
+- Targeted the US base in the Syrian Shaddadi with a rocket barrage, hitting its targets directly. 
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1739768418746687824#m  12/26/23
+
+>US CENTCOM: Today, we shot down 12 drones, 3 anti-ship ballistic missiles and 2 cruise missiles in the south of the Red Sea that were fired by AnsarAllah Yemen  
+https://nitter.net/AryJeay/status/1739753946674000069#m  12/26/23
+
+>Lebanon: Al-Manar correspondent:
+
+An air strike carried out by enemy warplanes on a house in the city of Bint Jbeil
+https://nitter.net/ME_Observer_/status/1739765198024581207#m  12/26/23

@@ -111,13 +111,10 @@ The best place to find LoRAs is [Civitai.](https://civitai.com/models) Simply br
 There is a special variant of LoRAs called LyCORIS. I don't know what the difference is but they function just like LoRAs. If the LoRA you are installing happens to be a LyCORIS, they need to go in the sd/stable-diffusion-webui/models/LyCORIS folder instead.
 
 ##### Checkpoints/Model:
-This is your main model that you'll be generating on. The best model that I always use is Kotosmix. It's just been the miracle model that has always worked best for me. This LoRA should work with all other kinds of models, but Kotosmix has always given me the best results which is why I recommend you use it. Of course, it limits the artstyle you want to do and if you want to do a different kind of style you can always switch model and try. Artstyles can also be influenced by LoRAs on Kotosmix too. For a cartoony artstyle, Toonify is pretty good though more inconsistent with it's gas effects unfortunately. Sometimes you can get a pretty good result with it though. There's crap tons of other models on Civitai you can also check out and install if it interests you. I recommend only installing checkpoints that are the .safetensors format. The safetensors format was created because the original .ckpt file format is unsafe and can hide malware if a malicious actor wanted to do that.
+This is your main model that you'll be generating on. The best model that I always use is Kotosmix. It's just been the miracle model that has always worked best for me. This LoRA should work with all other kinds of models, but Kotosmix has always given me the best results which is why I recommend you use it. Of course, it limits the artstyle you want to do and if you want to do a different kind of style you can always switch model and try. Artstyles can also be influenced by LoRAs on Kotosmix too. For a cartoony artstyle, Cartunafied is the best model I've found thus far. I originally recommended Toonify, however that model is more inconsistent with it's gas effects. You can also use the Thicker Lines LoRA to force a cartoon artstyle on the model you are using. There's crap tons of other models on Civitai you can also check out and install if it interests you. I recommend only installing checkpoints that are the .safetensors format. The safetensors format was created because the original .ckpt file format is unsafe and can hide malware if a malicious actor wanted to do that.
 
 [Kotosmix](https://civitai.com/models/5245)
-[Toonify](https://civitai.com/models/36281)
-
-  __Update 10/12/2023:__ Another great way to do cartoon-style pics is to use the Thicker Lines LoRA. Since Kotosmix works very well, it's much better to keep Kotosmix as the checkpoint model and use LoRAs for the style instead. This LoRA will transform Kotosmix into cartoon-style art and it does the fart effect much better so I recommend it.
-
+[Cartunafied](https://civitai.com/models/54204)
 [Thicker Lines](https://civitai.com/models/140359/)
 
 #### Step 4: Prompting and Generating
@@ -126,7 +123,7 @@ This is your main model that you'll be generating on. The best model that I alwa
 Before you hit the generate button, we need to select all the appropriate settings to get the best quality images. The settings I use are below and I advise you to copy them.
 
 **Sampler:** DPM++ 3M SDE Karras (DPM++ 2M Karras also works well)
-**Hires Fix:** Enable Hires Fix. Set Upscaler to None. Hires steps to 0. Denoising Strength to 0.4. Upscale by 2 (It may take a while. Upscaling by 1.5 is faster but the image may be more prone to errors.)
+**Hires Fix:** Enable Hires Fix. Set Upscaler to either R-ESRGAN-4X+ or None (it depends on the model you are using). Hires steps to 0. Denoising Strength to 0.4. Upscale by 2 (It may take a while. Upscaling by 1.5 is faster but the image may be more prone to errors.)
 **Refiner:** Do not use.
 **Width and Height:** For square images do either 768x768 or 512x512 depending on the model you're using. For portrait images do 512x768 and for landscape images 768x512.
 **Batch Count and Batch Size:** Batch count is however many images you want to generate with that one prompt, it is rare that you'll get the perfect image first try so I always recommend generating multiple images. I always keep Batch Size to 1 because it always makes generation take longer if I increase it.

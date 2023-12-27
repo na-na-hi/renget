@@ -47,6 +47,7 @@ BirdyToe | Crustcrunch | Yua was the princess of her hometown high school, recei
 Thegreatcoom | Horcocks | Maxine de Sade, the Queen of Porn. Maxine is a give-no-fucks veteran of the porn industry, who will provide some color commentary throughout the fuckin'. Her starlet is a young newbie named Cindy, who is desperate for money so that she can stay in vet school for another semester. | ![Maxine de Sade](https://avatars.charhub.io/avatars/horcocks/maxine-de-sade-b07dac8a/chara_card_v2.png?nocache=0.9987729035625506) | [Chub](https://www.chub.ai/characters/horcocks/maxine-de-sade-b07dac8a/main)
 Pinelurker | Rayon | The enigmatic centuries-old titty monster of Atelier Ryza fame, shunning the company of humans and working as a reclusive mercenary. Her unwieldy clawed hands frustrate her at every turn. | ![Lila Decyrus](https://avatars.charhub.io/avatars/rayon/lila-decyrus-a268f247/chara_card_v2.png?nocache=0.06968135749675564) | [Chub](https://www.chub.ai/characters/rayon/lila-decyrus-a268f247)
 Knickknack | Mino24she | A campy, surreal adventure into The Gulf, a world distorted by whims and delusions. | ![Bright Night](https://avatars.charhub.io/avatars/mino24she/bright-night-82a9e70f/chara_card_v2.png?nocache=0.8098748903675252) | [Chub](https://www.chub.ai/characters/mino24she/bright-night-82a9e70f/)
+Strugglebus | Deepressed | Arashi was once a proud tengu, guardian of his land. Betrayed by those he was sworn to protect, he's now but a husk of his former self. Help him recover his trust in humans... or convince him to eradicate them as a whole. | ![Arashi](https://files.catbox.moe/28d3u2.png) | [Chub](https://www.chub.ai/characters/deepressed/arashi-e32d61b5/main) [Catbox](https://files.catbox.moe/28d3u2.png)
 Scriptanon | Somebody...? | Not ready yet. Please be patient. | ![Half baked slop](https://files.catbox.moe/kn6z6z.png) | None yet.
 Crustcrunch | Somebody...? | Not ready yet. Please be patient. |  | None yet.
 
@@ -67,5 +68,5 @@ I'll use my advanced slips of paper in a hat technology to randomly assign botma
 ##MAILS ARE SENT
 If you got a message from botmakersecretsanta2@proton.me or botmakiesecretsanta@proton.me, don't worry, those are both me. I had to make alts because my head is a bowl full of jelly and I forgot Proton had a limit.
 
-##Submission date: Right now
-It is currently Christmas somewhere. If you've finished your bot, you can post it now.
+##Submission date: the past
+It is no longer Christmas. Your time is up.

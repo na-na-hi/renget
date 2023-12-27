@@ -141,6 +141,19 @@ Yes. V2 was never leaked, but it is available via NAI. It was trained with the s
 #### Will NAI ever support custom LoRAs?
 Very unlikely. They have been advised by lawyers it is a legal risk.
 
+#### Why is this model so much better than current local models?
+Many reasons. One primary reason is NAI is a private company turning a profit, giving them more control over what they can choose to train on. NAI also conducts their own research efforts. Companies such as StabilityAI operate in the opposite way, where they mostly only provide compute power, are funded by other orgs (who would not appreciate if the model they are funding could generate porn), and rely on research from other parties (CompVis and RunwayML lead the original technical effort in allowing Stable Diffusion to come to fruition -- StabilityAI only provided compute).
+
+#### Will local models ever catch up?
+Not without a lot of $$$ and knowledgable researchers, willing and able to both train on unfiltered data, and release their work for free. Or for it to be leaked.
+
+#### Will there be a V4 / what improvements can be made?
+NAI is supposedly already working on this.
+
+One major improvement to be made is how images are captioned as part of training, which would also greatly affect how prompts are written. This has been proven by [Microsoft](https://cdn.openai.com/papers/dall-e-3.pdf), [Google](https://arxiv.org/pdf/2310.16656.pdf), and Facebook [(1)](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/), [(2)](https://github.com/facebookresearch/DCI). This is what makes models like Microsoft's DALL-E 3 incredibly powerful and follow prompts extremely well.
+
+NAI's code from the 2022 leak indicates images were simply captioned with a subset of tags from the corresponding image on Danbooru, shuffled in a random order. This is why prompting currently only consists of providing a list of tags, and why outputs generally feel very "stiff", or have trouble generalizing concepts or deassociating artist traits. The expectation is for this is be fixed with V4, which will require a relearning of how users should write prompts.
+
 #### Why did you write all this? For who?
 (UUUU)
 

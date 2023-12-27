@@ -674,6 +674,11 @@ Hamas destroying tank with explosive and sniper targeting conscripts
 https://files.catbox.moe/vyq8tt.mp4 New  12/25/23
 Hamas targeting army vehicles in the sheikh zayed aren in northern gaza strip with yassin 105s 
 https://files.catbox.moe/7i01b5.mp4 New  12/26/23
+The targeting of a special Zionist force that had barricaded itself in a house in the Al-Qasaib neighborhood in 
+the Jabalia camp
+files.catbox.moe/r8jmik.mp4 New  12/26/23
+Al Qassam is going crazy today and yesterday with footage jeep getting btfo by an IED
+files.catbox.moe/vsltgu.mp4 New  12/26/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -712,6 +717,10 @@ files.catbox.moe/3vjhxt.mp4 New  12/16/23
 files.catbox.moe/acv20y.mp4 New  12/17/23
 Video | Scenes from the Islamic Resistance targeting the Avivim settlement (the occupied Lebanese village of Salha) on the Lebanese-Palestinian border, in support of our steadfast Palestinian people in the Gaza Strip and in support of their brave and honorable resistance, and in response to the repeated Zionist attacks on villages and civilian homes.
 https://files.catbox.moe/0d1v0v.MP4 New  12/24/23
+Hezbollah published a video showing scenes of the targeting of a group of israelis in the Doviv area,
+achieving a direct hit causing for casualties. This was in response to the targeting of a civilian woman in 
+south Lebanon.
+https://files.catbox.moe/xnpu0s.mp4 New  12/26/23
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -723,6 +732,11 @@ Hezbollah publishes scenes of the targeting of the “Avivim” settlement (the 
 https://files.catbox.moe/ojrqgu.webm  12/21/23
 Hezbollah published a video showing scenes of the targeting of a group of israelis in the Doviv area, achieving a direct hit causing for casualties. This was in response to the targeting of a civilian woman in south Lebanon.
 https://files.catbox.moe/xnpu0s.mp4  12/22/23 
+Video | Scenes from the Islamic Resistance targeting the Avivim settlement 
+files.catbox.moe/0d1v0v.MP4 New  12/26/23
+Hezbollah published a 2nd video showing attacking a group of israeli soldiers inside Doviv on the 
+Lebanese-Palestinian border. Those IOF soldiers found out.
+files.catbox.moe/5cgnyf.mp4 New  12/26/23 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 

@@ -1,8 +1,8 @@
 #CptPants's Bots
--> Last updated: November 11 <-
-Bots by the fella who goes by CptPants. Currently lurking, with nothing to share.
+-> Last updated: December 26 <-
+Bots by the fella who goes by CptPants.
 
-I recommend always going for Chub links, they have the most updated version of each bot.
+Use Chub links, as they are always the most updated versions. Other links are kept so you know I was the uploader.
 The images on this Rentry are the cards themselves too, if you'd rather download them that way.
 
 *Assume all bots were made for NSFW unless they're tagged otherwise.*
@@ -23,6 +23,7 @@ Pic | Character | Source | Description | Link
 ![Corrupted Yrel](https://files.catbox.moe/k34u0q.png) | Corrupted Yrel | *World of Warcraft* | Yrel, corrupted into an insatiable Eredar futa. Inspired by [this CAI bot](https://beta.character.ai/chat?char=K9zE5vVHzgvJLuquJ7Pawq5AdOL-jLvCT-TbInDbn3g) by Wyrmer. | [Booru](https://booru.plus/+pygmalion1528) / [Chub](https://www.chub.ai/characters/cptpants/corrupted-yrel)
 ![Elven Forest Maker](https://files.catbox.moe/7z488g.png) | Elven Forest Maker | *Last Origin* | Elf bioroid who plants trees and smashes things with a giant robot arm. | [Chub](https://www.chub.ai/characters/cptpants/elven-forest-maker-05dc633d)
 ![Fenrir](https://files.catbox.moe/tm8cm8.png) | Fenrir | *Last Origin* | Cute wolfgirl bioroid who loves some meat. And some "meat" too, probably. *(Updated 15/09)* | [Booru](https://booru.plus/+pygmalion1994) (outdated!) / [Chub](https://www.chub.ai/characters/cptpants/Fenrir)
+![Gwynevere](https://files.catbox.moe/86ppm9.png) | Gwynevere | *Dark Souls* | Amazing Chest Ahead | [Chub](https://www.chub.ai/characters/cptpants/gwynevere-princess-of-sunlight-78ef45cc)
 ![Marina](https://files.catbox.moe/8k4cbf.png) | Marina Ida | *Splatoon* | The Octoling idol from Splatoon 2. Don't get cooked, stay off the hook! | [Booru](https://booru.plus/+pygmalion1318) / [Chub](https://www.chub.ai/characters/cptpants/Marina)
 ![The Master](https://files.catbox.moe/zeznxs.png) | The Master | *Fallout* | The big bad of *Fallout 1*. Chat with him about Super Mutants or nuclear wastelands or what have you. | [Character.ai](https://beta.character.ai/chat?char=R9RarToT8PLKrEJHquVkgo4O48lu-TgqeUV3iGYGTbo) (outdated!) / [Booru](https://booru.plus/+pygmalion1416) / [Chub](https://www.chub.ai/characters/cptpants/the-master)
 ![The Noise](https://files.catbox.moe/rsin9o.png) | The Noise | *Pizza Tower* | A character from the indie game *Pizza Tower*. It's like the Noid, but noisier. | [Character.ai](https://beta.character.ai/chat?char=8uRRHQX8YQbN3oojnbokcH9YftxA2Udx31nGj2ZshCQ) (outdated!) / [Booru](https://booru.plus/+pygmalion1421) / [Chub](https://www.chub.ai/characters/cptpants/the-noise)
