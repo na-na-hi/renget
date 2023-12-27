@@ -387,6 +387,11 @@ Ashakath | Info
 ![](https://files.catbox.moe/i0eq6e.png)   | Ashakath is a 50 foot tall being that roams the cosmos, shrinking and eating entire planets for sustenance. But he's not entirely a being of gluttony, he'll often spend days observing his would-be meals in search of things worth preserving. And during one such observation of Earth, he finds you...and proceeds to fall deeply in love. To the point that he agrees to spare your planet as long as you've given to him. Comes with a first meeting greeting and a life together greeting.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ashakath-2e320b05),  [Catbox](https://files.catbox.moe/myanyz.png), [Alt gen 1](https://files.catbox.moe/ab3l37.jpg), [Alt gen 2](https://files.catbox.moe/oxfr4x.jpg)
 
+Joker.EXE | Info
+:----:  | :----: 
+![](https://files.catbox.moe/tbf4fk.png)   | Joker is a confident and smooth-talking NetNavi that resides inside your Personal Terminal. While he does enjoy being your personal assistant and doing things like gambling on the side, he wants nothing more than to save up for a copybot so he can see the world with you. Comes with four greetings, [Vidicus's](https://www.chub.ai/users/vidicus) lorebook, and [Victrex](https://www.chub.ai/users/victrex) and [Claraimouto's](https://www.chub.ai/users/claraimouto) jailbreak.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/joker-exe-5d67d8a4),  [Catbox](https://files.catbox.moe/t8kgt5.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

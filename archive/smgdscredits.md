@@ -5,7 +5,7 @@
 **[Dumbie](https://dumbiedumbie.newgrounds.com/)** - Screenshot Artist
 **[Punch](https://ohhowboringofme56.newgrounds.com/)** - Writer, Narration, Photographer
 **[Mario2900](https://www.youtube.com/@Mario2900) / [Luigi3800](https://www.youtube.com/@Luigi2900)** - Narration, Video & Audio Editor, Caretaker of nn
-**[Anonymous](https://files.catbox.moe/furvwc.mp4)** - Co-director, UI Assistance, Imageboard and Main Menu screenshots
+**[rng660](https://rng660.newgrounds.com/)** - Co-director, UI Assistance, Imageboard and Main Menu screenshots
 **[Convoy](https://convoy1709.newgrounds.com/)** - Cover Art for ????龜?????
 ##Special Thanks
 **Anonymous**

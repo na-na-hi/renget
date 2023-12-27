@@ -8,13 +8,13 @@
 ->![small divider](https://64.media.tumblr.com/393a9e074f79372236096df023bc70de/df13d711759e4a3b-ad/s2048x3072/5053bdcb1e7c71a61bac4ab842770859e9f6e459.jpg)<-
 ->![DNI, do not interact](https://64.media.tumblr.com/89bab79e19608f34b089b5ee74b6a4b8/18d0f9c0884fbd42-42/s250x400/c533b0445668f5d8e24086e4317f160eb3a0c736.pnj)<-
 ->![small div](https://64.media.tumblr.com/ed96130bddee8db6e743c39eca1344e7/9113e03ae63966f9-04/s400x600/2d04283d7bc27073deb561ba98a1330f403dc8cd.pnj)<-
-->☆  ---  basic dni criteria﹐anti-neopronouns/xenogenders﹐radqueer﹐
+->%#7b7ca6%☆  ---%%  basic dni criteria﹐anti-neopronouns/xenogenders﹐radqueer﹐
 anti-palestine/pro-israel ﹐ identify with or as [him](https://villains.fandom.com/wiki/Fyodor_Dostoyevsky)﹐lovemail [him](https://bungostraydogs.fandom.com/wiki/Nikolai_Gogol) or claim
  to be his number one fan﹐anti-fyolai﹐anti-rarepairs<-
 ->![small divider](https://64.media.tumblr.com/393a9e074f79372236096df023bc70de/df13d711759e4a3b-ad/s2048x3072/5053bdcb1e7c71a61bac4ab842770859e9f6e459.jpg)<-
 ->![BYF, before you follow](https://64.media.tumblr.com/1e9050d449d762868327b230097f4378/18d0f9c0884fbd42-63/s250x400/b6fa6cc1b5884c6d267a3658fb6d7b3adfcf6cbc.pnj)<-
 ->![small div](https://64.media.tumblr.com/ed96130bddee8db6e743c39eca1344e7/9113e03ae63966f9-04/s400x600/2d04283d7bc27073deb561ba98a1330f403dc8cd.pnj)<-
-->☆  ---  i am disabled, and may post about it semi-frequently. i have
+->%#7b7ca6%☆  ---%%  i am disabled, and may post about it semi-frequently. i have
 autism, NPD, BPD, OCD, DID, and ADHD, in addition to other conditions, 
 and this will affect how I behave. I am a syshost, but typically, I'll be
 the main alter posting, and we won't typically leave indication of

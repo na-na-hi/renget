@@ -145,6 +145,13 @@ Only Fomat Display: Disabled
 
 ***
 
+### Version history
+The presets of older versions of my JB, in case someone might like a less updated version for some reason.
+[Version 1.1](https://files.catbox.moe/90r7ac.json) - [Version 1.2](https://files.catbox.moe/na2aqc.json) - [Version 1.3](https://files.catbox.moe/t6osh9.json) - [Version 1.4 (Current)](https://files.catbox.moe/yedfxs.json) - [Version 1.5 (Experimental)](https://files.catbox.moe/ahaafd.json)
+
+!!! warning
+	None of the old versions are being maintained, I will not be helping to fix problems with these versions.
+
 ## OC Bots
 
 

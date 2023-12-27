@@ -20,6 +20,7 @@
 ##MA Story:
 30 https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
 31 https://rentry.org/3k3z5   Day 1: Herbology (Includes: Elizabeth)
+32 https://rentry.org/ag2es Day 2: An Unexpected Visit
 ##Extra Stories
 1 https://rentry.org/bzfno   Extra: Amortentia 
 5 https://rentry.org/yyx5o   Extra: The Job (Boss Fight) (Includes: Alice, Penny, My)

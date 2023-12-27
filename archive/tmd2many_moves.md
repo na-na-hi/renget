@@ -763,7 +763,7 @@ Rest | - | 4 AP | - | Psychic | Status | The User is unable to act for 2 rounds.
 Rock Polish | - | 4 AP | - | Rock | Status | The next round, the User's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is increased by 2. 
 Role Play | - | 4 AP | - | Psychic | Status | The User's Ability is replaced with the Opponent's. 
 Roost | - | 4 AP | - | Flying | Status | For 1 round, the User loses Flying-Type. The User is healed for 4 HP.
-Rototiller | - | 4 AP | - | Ground | Status | All Grounded Grass-Type Pokemon have their Attack and Special Attack increased by 1.
+Rototiller | - | 4 AP | - | Ground | Status | All Grounded Grass-Type Pokémon have their Attack and Special Attack increased by 1.
 **Safeguard** | - | 4 AP | - | Normal | Status | For 1 round, all Opponents' Status Moves have their AP cost increased by 2.
 Sand Attack | - | 4 AP | ≥2 | Ground | Status | The Opponent's Accuracy is decreased by 1.
 Sandstorm | - | 4 AP | - | Rock | Status | The Weather is changed to [Sandstorm](https://rentry.co/tmd2many_rules#weather).
@@ -828,16 +828,16 @@ Toxic Spikes | - | 4 AP | - | Poison | Status | [Hazard](https://rentry.co/tmd2m
 Toxic Thread | - | 4 AP | ≥2 | Poison | Status | The Opponent is afflicted with *Poison*. The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1, even if the Opponent is immune. 
 Transform | - | 4 AP | - | Normal | Status | The User's species changes to one they've seen on the current or previous round.
 Trick | - | 4 AP | - | Psychic | Status | The User swaps Worn/Held Items with the Opponent.
-**Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Speed and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) Stat increases and decreases inverted.
+**Trick Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokémon have their Speed and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) Stat increases and decreases inverted.
 Trick-Or-Treat | - | 4 AP | ≥2 | Ghost | Status | The Opponent gains the Ghost-Type, even if they already have two Types. 
 Venom Drench | - | 4 AP | ≥2 | Poison | Status | The Opponent's Attack, Special Attack, and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are decreased by 1. The User may select additional Opponents to drench at the cost of 2 AP each. Fails if the Opponent is not afflicted with *Poison* or *Badly Poisoned*. 
-Water Sport | - | 4 AP | - | Water | Status | Until the User faints, all Pokemon in the battle have their Fire-Type damage decreased by 5, 
+Water Sport | - | 4 AP | - | Water | Status | Until the User faints, all Pokémon in the battle have their Fire-Type damage decreased by 5, 
 **Whirlwind** | - | 4 AP | - | Normal | Status | The User blows an Opponent away. 
 Wide Guard | - | 4 AP | - | Rock | Status | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
 Will-O-Wisp | - | 4 AP | ≥4 | Fire | Status | The Opponent is afflicted with *Burn*.
 **Wish** | - | 4 AP | - | Normal | Status | The User is afflicted with *Wishing*. 
 Withdraw | - | 4 AP | - | Water | Status | The User's Defense is increased by 1. 
-**Wonder Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokemon have their Defense and Special Defense Stats and Stat increases and decreases flipped.
+**Wonder Room** | - | 4 AP | - | Psychic | Status | Until the User faints, all Pokémon have their Defense and Special Defense Stats and Stat increases and decreases flipped.
 Work Up | - | 4 AP | - | Normal | Status | The User's Attack and Special Defense are increased by 1. 
 Worry Seed | - | 4 AP | ≥2 | Grass | Status | The Opponent's Ability is replaced with Insomnia.
 Yawn | - | 4 AP | - | Normal | Status | After 1 round, the Opponent is afflicted with *Sleep*.
@@ -977,7 +977,7 @@ Dreams & Psychic Terrain | Psychic | Psychic
 !!! info Here is a table for all of Recycle's outcomes, in and out of combat.
     Once you know which Item will be Recycled, use Ctrl + F in the [Items List](https://rentry.co/tmd2many_items#consumable) to see its effect.
 Utilizing the Move Recycle, Plain Seeds can be used to create a different Seed while not in combat. These outcomes are entirely random, selected based on the number rolled on a D20. 
-A Pokemon may only try this *once* per Plain Seed. Once they get something out of it, that's it, unless they get particularly lucky- or *un*lucky.
+A Pokémon may only try this *once* per Plain Seed. Once they get something out of it, that's it, unless they get particularly lucky- or *un*lucky.
 
 Roll 16-20 | Seed | Roll 11-15 | Seed | Roll 6-10 | Seed | Roll 1-5 | Seed
 -: | --- | -: | --- | -: | --- | -: | ---

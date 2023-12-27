@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 10 | **Experience to Next Level:** 65/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 670₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 770₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -75,8 +75,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Heals the user for 10HP.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. White Gummi | Gives +10 IQ points to Normal-Types. Gives +5 to other types. Tastes like sugar.
+2. Marbled Stone | Does 4 true damage to a target, is lobbed.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

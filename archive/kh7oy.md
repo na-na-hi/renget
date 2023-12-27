@@ -7,8 +7,6 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
-「!」 Super Mario RPG REMAKE has officially released!
-
 Future Release Dates:
 「!」 Mario vs. Donkey Kong REMAKE releases on February 16th, 2024
 「!」 Princess Peach: Showtime! releases on March 22, 2024

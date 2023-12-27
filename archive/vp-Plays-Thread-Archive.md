@@ -236,4 +236,10 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 ###->Post Tectonic Filler threads<-
 !!! info **Wagie got sent in a vacation, so while we wait for the Ashen Frost devs to fix their game, we play whatever**
 [**[1]** *Holy Sexo legendaries*](https://arch.b4k.co/vp/thread/55116276/)
-[**[2]**](https://arch.b4k.co/vp/thread/55126019/)
+[**[2]** *Cyrus faggotry*](https://arch.b4k.co/vp/thread/55126019/)
+
+###->Ashen Frost<-
+!!! info
+	**Status: In Progress**
+[**[1]** *Hard mode is pretty bullshit*](https://arch.b4k.co/vp/thread/55133275/)
+[**[2]**](https://arch.b4k.co/vp/thread/55135891/)

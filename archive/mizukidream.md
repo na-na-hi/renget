@@ -1,5 +1,5 @@
 ->![12](https://i.ibb.co/nB1YqWx/CABED913-A46-B-428-F-8187-17-FF5555-E1-D9.gif)⠀`you`⠀have⠀two⠀choices,⠀[yes]()⠀or....⠀[yes]()!⠀![12](https://i.ibb.co/nB1YqWx/CABED913-A46-B-428-F-8187-17-FF5555-E1-D9.gif)<-
-->![babe lets go swimming in the warm lake](link.png)<-
-->｡ᴖ ᴖ) ⠀`jia`⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/jvtJF2R/1-BEBB904-61-D0-4-F14-9185-3294-B93-DA29-B.gif) she **her**<-
+->![babe lets go swimming in the warm lake](https://imgur.com/ZrJAGDZ.png)<-
+->｡ᴖ ᴖ) ⠀`arella`⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/jvtJF2R/1-BEBB904-61-D0-4-F14-9185-3294-B93-DA29-B.gif) she **her**<-
 -> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/Ld8CnJm/93-DE65-F8-A557-4936-A2-D3-5-D1-FDBFC21-CD.gif) ﹒ ⠀[i](https://rentry.co/rainyreilai)⠀[ii]()⠀ ⊃  fem (`cis`)<-
 -> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/DKS7hg2/IMG-4242.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-

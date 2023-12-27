@@ -28,14 +28,14 @@ I try to write more serious/dramatic stories with a bit of comedy here and there
 
 
 ##A New Life as an Umbreon
-- https://rentry.org/AdrianOrigin
+- https://rentry.org/adrianorigin
 - **About**: The origin story for Adrian. Basically, he wakes up as an umbreon and does shitty rescue work for a few weeks before hearing of clover guild.
 - **Wordcount**: ~1,100 words
 - **Featured Characters**: Adrian, Lliam
 - Published on November 9th, 2023
 
 ##Adrian's New Team
-- https://rentry.org/TeamMoonshine
+- https://rentry.org/teammoonshine
 - **About**: Adrian is forced to form an Exploration Team with people he doesn't like, and they go on a mission together.
 - **Wordcount**: ~5,900 words
 - **Featured Characters**: Adrian, Bellossom, Cyndaquil (mentioned), Enny, Lliam (mentioned), Vileplume
@@ -47,3 +47,10 @@ I try to write more serious/dramatic stories with a bit of comedy here and there
 - **Wordcount**:  ~6,200 words
 - **Featured Characters**: Adrian, Bellossom, Cyndaquil, Enny, Gus (Cameo), Linoone (Cameo), Lliam (Mentioned), Phanpy (Cameo), Totodile (Cameo), Vileplume
 - Chapters were published separately on November 26th, 28th, and 29th, 2023
+
+##The Adrian and Enny Adventure
+- https://rentry.org/adrianennycave
+- **About**: While out on a job, Adrian and Enny get separated from the rest of their team and have to survive in a mystery dungeon on their own.
+- **Wordcount**: ~7,300
+- **Featured Characters**: Adrian, Bellossom, Enny, Vileplume
+- Chapters were published all on December 24th, 2023
