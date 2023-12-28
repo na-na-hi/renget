@@ -93,7 +93,7 @@ Cast ur spell, wizard.
 ### Method 2: Chef Boyardee *(Canny Spaghetti)* 
 
 Why its easy, just dump it out of the can and nuke for 90 seconds. Not as filling tho. This method is better for things like, burkas, sweaters, when the outline of their subject is lumpy fabric and you cant tell whats underneath but you'd really like some fleshy pixels there anyways. The idea is you wanna destroy that "edge" of the clothing and let the spahgetti act as a sort of border. 
-
+!!!info You can combine cannys using both methods for different parts of the image
 
 # [![Screenshot-2023-12-26-031238233c2599965dd95d.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-031238233c2599965dd95d.md.png)](https://jpg3.su/img/Y8gYuKu)
 !!!warning If you blur too high you'll reveal that line caused by the clothing and even if its very very very very faint controlnet will see it.
@@ -101,14 +101,31 @@ Go back to the "Mess with the high/low threshold to get clean outline" step and 
 
 # [![00008-ci-216549673f49689b7495cb7d6.md.png](https://simp6.jpg.church/images3/00008-ci-216549673f49689b7495cb7d6.md.png)](https://jpg3.su/img/Y8garMm)
 
-There's much more you can do to get better quality like playing with controlnet weight and ending step, slider loras, prompting, clip skip, brute force seeding, noise injection, initial noise multiplier, latent iterative upscaling, using a combination of "fill" and "original" inpainting, ipadapters, simply polishing it in photoshop, drawing your own canny lines in photoshop to place the boobs/nipples exactly where you want and so on. Learn how each tool works and when and where to use it. A photo real nude takes me about 20-30 min to get literally perfect. It'll only take you 90 seconds to do the first 80% of it like my examples. 
-
-!!!info Both methods can be mixed on different parts of the image as well. 
-
-
-
 # [![00007-ci-3592204213b27bf27a1f070dbf.md.png](https://simp6.jpg.church/images3/00007-ci-3592204213b27bf27a1f070dbf.md.png)](https://jpg3.su/img/Y8gagJe)
 You can also just not use a mask with the spaghetti and img2img that
+
+There's much more you can do to get better quality like 
+- wash the jpeg with [1x jaywreck3-lite](https://nmkd.de/?esrgan) to remove some artifacts before processing  
+- playing with various controlnet weight and ending step 
+	- canny controlnet weight will influence your skin colors leading too "tanlines" that arent from needing more latent mask blur
+	- however "tan lines" can be caused by cfg or anything in the cfg pipeline as well like sag, freeu, etc, Too high tends to make brighter skin, too low is when it starts turning grey and  washed out.
+- slider loras 
+- modifying lora block weights
+	- loras are bad but convenient, the more loras you add, no matter what they do, the worse your image will be. Modifying the block weights can fix it for your image.
+- prompting 
+	- keep it simple stupid, good prompting is about finding the 1 or 2 perfect word and adjusting its weight, not adding more words
+- clip skip 
+- brute force seed exploration
+- noise injection/ initial noise multiplier,
+- latent iterative upscaling 
+- using a combination of "fill" and "original" inpainting
+- ipadapters
+- simply polishing it in photoshop,
+- drawing your own canny lines in photoshop to place the boobs/nipples exactly where you want
+
+
+
+Learn how each tool works and when and where to use it. A photo real nude takes me about 20-30 min to get literally perfect or 1 minute for a lazy comfy workflow. It'll only take you a minute with auto1111 to do the first 80% of it like my examples. 
 
 Other uses than nudity:
 - Spread legs its easy to add a [dildo penetration](https://civitai.com/models/9651/hyper-penetration-stomach-bulge).

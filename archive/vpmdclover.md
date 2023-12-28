@@ -213,7 +213,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Oshawott's Adventures in Swimming](https://arch.b4k.co/vp/thread/53370806/#q53372699) **Non-Canon (Draft) Story**
 	* [A 'Mon, Gus](https://rentry.org/7ytz9)
     * [Anxiety (ft. Gus) [Temp title]](https://rentry.org/mgeaa) **In-Dev Early Draft Story**
-	* [For T'nite (ft. Gus)](https://rentry.org/OshawottForTnite)
+	* [For T'nite pt. 1 (ft. Gus)](https://rentry.org/OshawottForTnite)
 * Hans the Dragonair
 	* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 * Jimmy the Gimmighoul
@@ -310,6 +310,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Secret of Wither Woods (ft. Smith)](https://rentry.org/gfivr)
 	* [Descent (Part 1: Rumination) (ft. Smith)](https://rentry.org/gfm47)
 	* [Sidequest: Journey to the Luminous Spring! (ft. Smith)](https://rentry.org/22agi)
+	* [Sweet's Dreams: A Team Magic Story](https://rentry.org/krbcr)
 * Sterling the Clampearl
 	* [Sterling's Purpose ch. 1](https://rentry.org/4uw36)
 	* [Sterling's Purpose ch. 2](https://rentry.org/fau75)
@@ -546,8 +547,9 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Tails and Tales in His Shadow](https://rentry.org/uqfk8)
 * [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 * [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
-* [For T'nite (ft. Gus)](https://rentry.org/OshawottForTnite)
+* [For T'nite pt. 1 (ft. Gus)](https://rentry.org/OshawottForTnite)
 * [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
+* [Sweet's Dreams: A Team Magic Story](https://rentry.org/krbcr)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

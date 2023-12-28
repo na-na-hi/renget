@@ -679,6 +679,8 @@ the Jabalia camp
 files.catbox.moe/r8jmik.mp4 New  12/26/23
 Al Qassam is going crazy today and yesterday with footage jeep getting btfo by an IED
 files.catbox.moe/vsltgu.mp4 New  12/26/23
+Palestinian resistance targeting enemy soldiers and destroying its vehicles penetrating the Al-Shuja’iya neighborhood, east of Gaza City.
+https://files.catbox.moe/rhly6g.mp4  12/27/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -696,6 +698,9 @@ Hamas published scenes of their mortar launches demolishing military concentrati
 https://files.catbox.moe/djnb9t.mp4  12/25/23
 Scenes from the operation of special forces luring a house in the city of Beit Hanoun, northern Gaza Strip, and destroying it with 3 personnel bombs, a shock device, and a strobe device, which led to the death of the entire force.
 https://files.catbox.moe/vh3pfz.mp4 New  12/26/23
+Multiple tanks hit by AL-YASSIN tandem RPG rockets
+https://files.catbox.moe/4dlkqz.mp4  12/27/23
+
 
 >New Hamas rocket M90:
 https://files.catbox.moe/lqyukq.MOV  12/10/23
@@ -721,6 +726,8 @@ Hezbollah published a video showing scenes of the targeting of a group of israel
 achieving a direct hit causing for casualties. This was in response to the targeting of a civilian woman in 
 south Lebanon.
 https://files.catbox.moe/xnpu0s.mp4 New  12/26/23
+Hezbollah ATGM team eliminates 4 IDF soldiers on the border. Double tap tactic is used.
+https://files.catbox.moe/1ysi7k.mp4  12/27/23
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -763,6 +770,8 @@ New kino
 https://files.catbox.moe/4cymic.mp4  12/25/23
 Here is a bulldozer getting wrecked 
 https://files.catbox.moe/zv4f2f.mp4  12/25/23
+New al quds kino 
+ https://files.catbox.moe/rhly6g.mp4  12/27/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -912,3 +921,6 @@ https://files.catbox.moe/23s94b.mp4 New  12/27/23
 
 >Fighting can be heared in khan yunis rn
 files.catbox.moe/am1s68.mp4 New  12/27/23
+
+>Big boom in the west bank
+https://files.catbox.moe/o2quhe.mp4  12/27/23

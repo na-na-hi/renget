@@ -44,6 +44,8 @@ turboderp's work best by far."
 
 ---
 
+Mythomax has gone poof, so take a lookie at this first, I guess https://rentry.org/13b
+
 **For mythomax on agnai:**
 
 (Note that there's other free models, like Mistral 7b, but also note that both mythomax and mistral 7b have been succeeded by later versions that the agnai dev hasn't put up yet.  Mistral -> Mixtral and Mythomax -> Mythomax L2. I'd recommend asking the dev on [discord](https://discord.com/channels/1075959979942625291/1186355224424742963) or the [subreddit](https://www.reddit.com/r/AgnAIstic/comments/18kagir/mixtral/) if they would consider upgrading. AFAIK it shouldn't cost them anything to just switch to the better models, but I admittedly don't know too much about the back end of things)

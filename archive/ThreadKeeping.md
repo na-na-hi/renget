@@ -181,7 +181,14 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is charging up!
+New Builds
+>Class 1-C (Shiketsu)
+>Isabela Nakahata
+>>91351414
+>Lilinah ‘Riri’ Inoue
+>>91347120
+>Ysmir Dragonborn
+>>91349452
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -289,6 +296,16 @@ Page 3
 ***
 ```
 >Students (Cont.)
+
+>Class 1-C (Shiketsu)
+>Okimoto Chisaka
+>>91130422 
+>Isabela Nakahata
+>>91351414
+>Lilinah ‘Riri’ Inoue
+>>91347120
+>Ysmir Dragonborn
+>>91349452
 
 >Class 3-B (U.A.)
 >Animata

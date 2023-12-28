@@ -37,3 +37,5 @@ Leave it empty.
 >
 > Yeah, I agree with all these points. I wonder if it should be renamed. To something like "Immediate Direction"
 -> —Magenta.Darkstar ->
+
+[comment]: <> (SUPPORT-RENTRY-PATREON)

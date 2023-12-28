@@ -2,7 +2,7 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (12/27/23)
+!!! warning Quick Update (12/28/23)
 	**Updated info**
 
 !!! warning >For Loras that have been made and are in good working order
@@ -568,8 +568,8 @@ Misma Ryzing | - | - | -
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Nott (Nott_VT) | - | - | -
-Shuby (Shubyuwu) | - | - | -
+Nott (Nott_VT) | X | - | X
+Shuby (Shubyuwu) | X | - | X
 Kendo Murft (kendomurft) | - | - | -
 Peiko Uki (PeikoVT) | - | - | -
 Funaby (FunabyVT) | X | - | X

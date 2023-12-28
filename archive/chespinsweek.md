@@ -1047,8 +1047,15 @@ A line of Whimsicott march towards the horizon, large bags of cotton in tow. As 
 
 Mindy nods, a hint of sadness on her face. “I never really fit in there anyways. I think I'll be happier here.”
 
-I know she never felt like she belonged, but I didn't think a single day out on a mission would be enough to get her to quit! “Oh... Well, I'm sure you'd be welcomed back if you ever changed your mind.”
+I know she never felt like she belonged, but I didn't think a single day out on a mission would be enough to get her to quit! “Oh... Are you sure? Maybe you'll feel differently as you go on more missions and grow more confident?” 
 
+Mindy looks down at the ground. “I'd rather just go home, but... I don't know, the stories I hear about missions from everybody else scares me! I'm not cut out for that kind of life, and even if I was... the looks I get going into town really bother me.”
+
+“Maybe you just need a partner of your own? I know I wouldn't have been able to do half of what I've done if I never met... Wooper.” I let out a sad sigh, when's this week going to be over? “Someone that'll stick by you through everything and always support you... Surely you'd feel more comfortable with that?”
+
+Mindy kicks at the ground a little, fidgeting around. “Maybe one of these puffballs here will be like that for me? Either way, guild life is too hectic for me, sorry...”
+
+“Well, I'm sure you'd be welcomed back if you ever changed your mind.”
 Mindy nods towards the house she just left. “She said I could stay at her place. It looks like it's a better fit for me, so... Thanks for the help. Even if the guild didn't work out, I don't know what I'd have done if you didn't find me that day.”
 
 I put her old badge in my bag. “I get it. You think you'll be cozier here. The way I see it, we've got to choose coziness over anything else.” I give her hand a little shake, saying, “Take care, and good luck with the training.” With that business settled, I begin to make the walk back home.

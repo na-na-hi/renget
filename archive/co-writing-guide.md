@@ -87,3 +87,5 @@ Each preset has its own strategy; how much do you want to trust the model, or ho
 Other factors are: CFG 1.11+ (Produce unnatural prose, but god tier context recall), Repetition Penalty (Too high, and your performance is damaged. Too low, and you get repetition or require manual editing.)
 
 See default presets or get a custom preset from [/aids/ wiki](https://aids.miraheze.org/wiki/Presets) or [#content-sharing](https://discord.gg/novelai).
+
+[comment]: <> (SUPPORT-RENTRY-PATREON)

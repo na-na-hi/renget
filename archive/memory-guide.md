@@ -129,3 +129,5 @@ If you want high tension, you can use `suspense`, `thriller`; Or the unknown `my
 Even settings like `cyberpunk`, `modern`, `dystopian`, `sci-fi`, you can put them in genre to enforced your story tone, or set you in one.
 
 -> Credit: TravelingRobot, Alexei P, Basileus ->
+
+[comment]: <> (SUPPORT-RENTRY-PATREON)

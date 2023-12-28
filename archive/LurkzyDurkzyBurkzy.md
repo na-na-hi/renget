@@ -1,4 +1,4 @@
-#%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2/2.1 Presets
+#%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2 Presets
 ##->%darkgreen%Updated%% - 28 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
@@ -8,7 +8,7 @@
 
 	-> 26 Dec - **TenWishes** (Furbo). ABCDEFGHIJKLMNOPQESTUVWXYZ. A rehaul is due that would warrant a name change, but for now it's just minor inclusions/edits.<-
 
-	-> 28 Dec - **TenWishes** (Furbo). Literally 0 change, just changed the Temp and Top-P as it seems to handle a higher temperature just as well as a lower temp.<-
+	-> 28 Dec - **TenWishes** (Furbo). ~~Literally 0 change~~(I lied tee hee! An addition sub-section within the codeblock (Should direct AI into describing relevant aspects IN FULL rather than glossing over it), and minor additions to preferences, aimed at enhancing descriptions of {{char}} smuttily *when relevant*, and stopping Furbo from concluding the response with retrospectives, pontifications, overdramatizations), changed the Temp and Top-P as it seems to handle a higher temperature just as well as a lower temp.<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -17,10 +17,9 @@
 [TOC3]
 ***
 ####->Presets<-
-	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/oxbcjo.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/oxbcjo.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/y1px5l.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/y1px5l.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

@@ -207,3 +207,5 @@ Few more things:
 - `//i` is case insensitive. Removing `i` is fine if you only want the entry to be triggered on correct capitalization.
 
 -> Credit: Green, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
+
+[comment]: <> (SUPPORT-RENTRY-PATREON)
