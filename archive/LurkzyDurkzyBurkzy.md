@@ -17,9 +17,9 @@
 [TOC3]
 ***
 ####->Presets<-
-Claude | Furbo | Experimental (Furbo)
-:----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/y1px5l.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/y1px5l.zip)
+Claude | Furbo 
+:----: | :----: 
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/w463z2.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

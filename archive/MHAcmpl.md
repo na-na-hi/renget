@@ -80,7 +80,7 @@ Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
 Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90994440/
 Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
 Li Yinzhen "Jiangshi": https://desuarchive.org/tg/thread/90977623/#90978093
-Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/90977623/#90978639
+Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/91345785/#91353847
 Nekiro Nishi "Jupiter": https://rentry.org/i2nzb
 Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/post/90992508/
 Chiba Chiyo "Animata": https://desuarchive.org/tg/post/90990850/
@@ -91,6 +91,10 @@ Katsumi Hachizaki: https://rentry.org/HeartMHA
 >>Class 1-C
 Isabella Nesis: https://desuarchive.org/tg/post/91129775/
 Okimoto Chisaka: https://desuarchive.org/tg/post/91130422/
+Isabela Nakahata: https://desuarchive.org/tg/post/91351414/
+Lilinah ‘Riri’ Inoue: https://desuarchive.org/tg/post/91347120/
+Ysmir Dragonborn: https://desuarchive.org/tg/post/91349452/
+Daniel W. Rain: https://desuarchive.org/tg/post/91352447/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)

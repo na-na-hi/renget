@@ -7,7 +7,7 @@
 **Model: Mixtral-Instruct-3.75bit**
 **Hardware: RTX 3090**
 
-API URL: ```https://parking-coupled-regarded-pi.trycloudflare.com``` 
+API URL: ~~```https://parking-coupled-regarded-pi.trycloudflare.com``` ~~
 *(changed to TabbyAPI because ooba kept freezing, update your proxy config!)*
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-

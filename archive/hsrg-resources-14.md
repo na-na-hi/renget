@@ -8,7 +8,7 @@
 [Pastebin](https://pastebin.com/58y36fMk) | HSR beginner guide
 [Hoyolab Wiki](https://wiki.hoyolab.com/pc/hsr) | miHoYo Wiki
 [Hoyolab Map](https://act.hoyolab.com/sr/app/interactive-map/index.html) | miHoYo Interactive Map
-[Fandom Wiki](https://wiki.hoyolab.com/pc/hsr) | Fandom Wiki
+[Fandom Wiki](https://honkai-star-rail.fandom.com) | Fandom Wiki
 
 
 

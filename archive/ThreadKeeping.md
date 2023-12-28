@@ -189,6 +189,8 @@ New Builds
 >>91347120
 >Ysmir Dragonborn
 >>91349452
+>Daniel W. Rain
+>>91352447
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -306,6 +308,8 @@ Page 3
 >>91347120
 >Ysmir Dragonborn
 >>91349452
+>Daniel W. Rain
+>>91352447
 
 >Class 3-B (U.A.)
 >Animata
@@ -329,7 +333,7 @@ https://rentry.org/eesb8
 >Katsumi Hachizaki:
 https://rentry.org/HeartMHA
 >Cormelia Busujima
->>90978639
+>>91353847
 
 >PRO HEROES
 >U.A. Teachers:
