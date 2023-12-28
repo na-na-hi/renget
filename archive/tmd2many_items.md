@@ -1,4 +1,4 @@
-# TMD 2 v1.84 Item List
+# TMD 2 v2.00 Item List
 ->All items not already mentioned on this page do not exist, for the sake of expediency, as some items were modified/translated to work within the confines of the new system.<-
 ->![I'd carry the entire storage if it would let me.](https://cdn.imgchest.com/files/w7pjc633p7p.png)<-
 ->**[BACK TO RULESET](https://rentry.co/tmd2many_rules)**<-
@@ -762,6 +762,7 @@ TM286 | Upper Hand | 1,750₽
 
 **Changelog**
 
+- v.2.00: Added TM prices!! and also renamed the TM wands
 - v.1.84: Added TM for Flamethrower
 - v1.83: Added the IP stuff 
 - v1.82: Added unique held items

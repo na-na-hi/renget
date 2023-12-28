@@ -1,16 +1,14 @@
 #%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo and Claude 2/2.1 Presets
-##->%darkgreen%Updated%% - 26 Dec (Furbo)<-
+##->%darkgreen%Updated%% - 28 Dec (Furbo)<-
 ->**Logs genned using my presets are displayed [Here!](https://rentry.org/LURKzLogs)**<-
 !!! danger Purpose
 	-> For now, this preset will be geared towards storyline with a hint of NSFW, as opposed to Coom (Incest, NTR, Voyeurism etc...). This will not be the preset to use if you're after a quick coom. However, if you like Saviorfagging, Adventure/Fantasy, Slowburns, Survival etc..., this will be better suited for you!<-
 !!! note Updates 
-	-> 20 Dec - **LovellStreak** (Furbo). Reordered certain instructions in ==\==PREFERENCES\=\=== to give them higher weightage, and modified how AI should decide on Acts in the codeblock. Responses have been promising so far, and results, seen in [Logs](https://rentry.org/LURKzLogs), seem good! I've deleted my ==\==SEXO\=\=== prompt, as I felt it wasn't good enough and disoriented too much from the storyline. It may or may not be added back, based on whether I want my preset to focus more on storyline (Adventure/Fantasy) as opposed to just straight Coom/Sexual responses.<-
-
-	-> 21 Dec - **TenWishes** (Furbo). ~~I don't even know. Where am I?~~ Modified instructions to prevent {{char}} from assuming {{user}}'s actions/dialogues in order to progress the story-arc.<-
-
 	-> 24 Dec - **TenWishes** (Furbo). %red%127.0.0.1:8080%%. Replaced two words with two different words in the statbox. Improves dialogue and narration by 100% (Source: www.google.com) [Insert additional bloat instructions that MAY or MAY NOT affect the quality of response]<- 
 
 	-> 26 Dec - **TenWishes** (Furbo). ABCDEFGHIJKLMNOPQESTUVWXYZ. A rehaul is due that would warrant a name change, but for now it's just minor inclusions/edits.<-
+
+	-> 28 Dec - **TenWishes** (Furbo). Literally 0 change, just changed the Temp and Top-P as it seems to handle a higher temperature just as well as a lower temp.<-
 ***
 ->**Email**: trojanmystery@proton.me<-
 ->**Discord**: lurkzn<-
@@ -22,7 +20,7 @@
 	
 Claude | Furbo | Experimental (Furbo)
 :----: | :----: : | :----:
-[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/d1d4xi.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/d1d4xi.zip)
+[![Claude](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/pkhkel.zip)   | [![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/oxbcjo.zip) | [![Experimental](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/oxbcjo.zip)
 
 ***
 #####->Comprehensive guide on importing presets into ST<-

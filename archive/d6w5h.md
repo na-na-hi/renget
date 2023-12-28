@@ -7,7 +7,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 9 | **Experience to Next Level:** 5/90
+**Level:** 9 | **Experience to Next Level:** 30/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 496₽ | **Glorious Gold:** 0 Bars
 
@@ -82,15 +82,15 @@ Item Name | Description
 1. Oran Berry | Heals the User for 10HP.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
 3. Persim Berry | Cures Confusion.
-4. Empty | Vacant inventory slot.
+4. Acidic Seed | Causes Poison on consumption.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Empty | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Sky Gummi | Sky Gummi.
+2. Brown Gummi | Brown Gummi.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

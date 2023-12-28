@@ -64,7 +64,7 @@
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [QuIP#](https://github.com/Cornell-RelaxML/quip-sharp)|2/4bit weight quantization with improvements over the original QuIP method 
-[LoRAShear](https://github.com/microsoft/lorashear)|Structurally prune LLMs via dependency graphs
+[LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 |
 **Local LLM Research**|
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 

@@ -2,7 +2,7 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (12/11/23)
+!!! warning Quick Update (12/27/23)
 	**Updated info**
 
 !!! warning >For Loras that have been made and are in good working order
@@ -42,11 +42,11 @@ Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
 Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
-Saya Sairroxs | - | - | - | Teased, debut December 17th
-Runie Ruse | - | - | - | Teased, debut December 17th
-Hikanari Hina | - | - | - | Teased, debut December 17th
-Eimi Isami | - | - | - | Teased, debut December 17th
-Muu Muyu | - | - | - | Teased, debut December 17th
+Saya Sairroxs | - | - | - | -
+Runie Ruse | - | - | - | -
+Hikanari Hina | X | - | X | Too early bake according to anon, will test anyways
+Eimi Isami | - | - | - | -
+Muu Muyu | - | - | - | -
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -162,7 +162,7 @@ Nanimo Navi | - | - | -
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Yumeno Akari | X | - | X
-Yano Kuromu | - | - | - | poor ccc anon, you just made akari and then they announce a new one is joining..
+Yano Kuromu | X | - | X | 
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -282,6 +282,9 @@ Ceo Kazari | - | - | -
 Kasukano Utsuro | - | - | -
 Aogiri Eito | - | - | -
 Hiiragi Tsurugi | - | - | -
+Yagami Tsukumo | - | - | -
+Shirona Shizuku | - | - | -
+Asakura Shino | - | - | -
 
 ## ->Univirtual <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -568,6 +571,9 @@ Chuuba | Has Lora | Update Needed | Testing
 Nott (Nott_VT) | - | - | -
 Shuby (Shubyuwu) | - | - | -
 Kendo Murft (kendomurft) | - | - | -
+Peiko Uki (PeikoVT) | - | - | -
+Funaby (FunabyVT) | X | - | X
+Vanya Kuroko (vanyakuroko) | X | - | X
 
 ## -> Project: Memoire <-
 !!! info Available Loras without the need of updates and have been tested.

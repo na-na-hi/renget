@@ -365,7 +365,7 @@ https://arch.b4k.co/vp/thread/54096243/ 27 it's FINALLY over
 ##Wagiedos's Desolation Nuzlocke
 !!! note Status: Completed
     It's a nuzlocke of Desolation ran by the other main tripfag at the time, Wagiedos. This was actually completeable, surprisingly, even with RNG issues.
-    Run was done pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause was applied instead.
+    Run was done with pretty much just standard nuzlocke rules besides the 1 pokemon per area limit not applying due to a lack of encounter areas. Dupes clause was applied instead.
 
 https://arch.b4k.co/vp/thread/54113040/ 1 it's beginning
 https://arch.b4k.co/vp/thread/54115313/ 2 obligatory ghost area
@@ -388,7 +388,7 @@ https://arch.b4k.co/vp/thread/54262612/ 17 it's over
 ##Reborn Multi-LP
 !!! note Status: Completed
     It's a reborn LP, except we had like a shit ton of tripfags playing all at once with monotype/dualtype restrictions and fighting eachother after agreed upon points of progression. Or at least we used to have those fights, before we learnt the hard way that Reborn's online servers are fucking garbage.
-    Likely the only multi-LP that wasn't known for filler content or major incidents. Probably started the downfall of the general due to the obvious problems associated with multiple people tripfagging at once.
+    Pretty much the only multi-LP that wasn't known for filler content or major incidents. Probably started the downfall of the general due to the obvious problems associated with multiple people tripfagging at once.
 
 https://arch.b4k.co/vp/thread/54277492/ 1 reliable public transportation
 https://arch.b4k.co/vp/thread/54282361/ 2 100% reliable online play system
@@ -420,4 +420,5 @@ https://arch.b4k.co/vp/thread/54432176/ 27 can someone stab taka again
 https://arch.b4k.co/vp/thread/54441795/ 28 SOMEONE FINALLY COMPLETED THIS SHITTY GAME
 https://arch.b4k.co/vp/thread/54447344/ 29 it's finally over
 
-And then all hell broke loose. I think there's some kind of phobia for this but whatever it is, it clearly doesn't count as a phobia anymore because the problem described in the phobia was actually real and something to be justifiably worried about.
+And then all hell broke loose. I think there's some kind of phobia for what happened but whatever it is, it clearly doesn't count as a phobia anymore because the problem described in the phobia was actually real and something to be justifiably worried about.
+Hopefully those faggots enjoyed their coal.

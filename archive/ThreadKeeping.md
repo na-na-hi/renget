@@ -181,10 +181,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Language Barrier (Madoka, Nekiro):
-https://rentry.org/Language_Barrier
->Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
-https://rentry.org/oeyupk
+MHA is charging up!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -702,13 +699,18 @@ https://rentry.org/w8hvp
 https://rentry.org/Language_Barrier
 >Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
 https://rentry.org/oeyupk
+>Kaylee in Wonderland, Part Two!
+https://rentry.org/69nav
 ```
 ***
 Page 9
 ***
 ```
 Writefags (final)
-Soon
+>Merry Christmas! (Drone, Mirror Devil, Ryu-kishi)
+https://rentry.org/7vr2zf
+>A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
+https://rentry.org/hwiz8
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

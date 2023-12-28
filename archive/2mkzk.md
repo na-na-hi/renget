@@ -5,19 +5,19 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/12/21-23/12/24 (yy/mm/dd)
+##23/12/28-23/12/31 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
-**SAT: Naked X6 or Naked X3 rando or Z4 boost or at 3UTC (Telemelt)**
-**SUN: - at 19UTC* (Minecraft)** maybe some filler if someone is alive
+**SAT: Mega Man Y+1: Operation X.M.A.S. at 3UTC (Parsec)**
+**SUN: Golden SUN at 19UTC* (Telemelt)** possibly sabe NY hack too if it's out in time
 
 ##Cytubes
 
 **SAT: Megaman Fully Charged at 19UTC** 
-**SUN: Rockman: Hoshi ni Negai o at 19UTC**
+**SUN: - at 17UTC**
 
 >-
 nothing

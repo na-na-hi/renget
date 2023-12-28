@@ -1861,3 +1861,169 @@ https://nitter.net/AryJeay/status/1739753946674000069#m  12/26/23
 
 An air strike carried out by enemy warplanes on a house in the city of Bint Jbeil
 https://nitter.net/ME_Observer_/status/1739765198024581207#m  12/26/23
+
+>New pictures show the amount of destruction Israeli airstrikes caused in Beit Hanoun.
+https://nitter.1d4.us/QudsNen/status/1739964725432352800#m  12/27/23
+
+>Al-Qassam (Hamas)
+
+(Partially) destroyed 4 military D9-bulldozers & a Merkava tank north of Khan Yunis, south of the Gaza Strip.
+https://nitter.net/AryJeay/status/1739970767658549402#m  12/27/23
+
+>This is why you should NEVER trust a mainstream media, such as Al Jazeera, for distributing out-of-context translation attributed to the Iranian IRGC spokesman.
+
+He didn’t mean or say that Al-Aqsa Flood was in response to Martyr Soleimani’s assassination, listening to entire speech, you’d understand that he was referring that Iran’s contributions to Al-Aqsa Flood and possible assassinations & neutralising of key elements inside israel are also part of the grand revenge of Qassem Soleimani.
+
+Iran has always stated that the ultimate revenge of Qassem Soleimani is the exit of foreign troops from the region and the elimination of israel is part of that, and so assisting with the Palestinian resistance’s Al-Aqsa Flood is part of Iran’s revenge. He didn’t say Al-Aqsa Flood is a response to the assassination of General Qassem Soleimani.
+
+I agree, the wording was a little confusing and spokesperson delivered a poor job in expressing his intentions but the fact that this triggered a response from Hamas should tell you how strong PsyOps and mis/disinformation is.
+https://nitter.net/AryJeay/status/1739989026826809624#m  12/27/23
+
+>Hezbollah carried out 2 more attacks:
+
+Targeted a tent of an israeli special force, south of the Al-Dhahira site, with ATGMs, achieving direct hits, resulting in dead and wounded.
+
+Targeted Hadab Al-Bustan IOF site with appropriate weapons.
+https://nitter.net/AryJeay/status/1739968552038453495#m  12/27/23
+
+>The israeli army admits to the elimination of 3 officers from the Givati Brigade's Shaked Battalion, in the northern Gaza Strip yesterday:
+
+- Lt. Yaron Eliezer Chitiz, 23, a deputy company commander.
+
+- Staff Sgt. Itay Buton, 20.
+
+- Staff Sgt. Efraim Yachman, 21.
+https://nitter.net/AryJeay/status/1739887579225330062#m  12/27/23
+
+>For those who liked the picture, here's more "crying warriors"
+https://nitter.net/ME_Observer_/status/1739980957892153773#m  12/27/23
+
+>Al-Quds Brigades: 
+
+Our forces engaged in fierce clashes with a Zionist force consisting of 10 soldiers and a reconnaissance dog. We killed one and injured another, in the axis in Khan Yunis.
+https://nitter.net/AryJeay/status/1740005577428734047#m  12/27/23
+
+>Two waves heavy barrage of rockets towards Kiryat Shmona, with over 10 explosions heard during the first wave.
+https://nitter.net/AryJeay/status/1740018704379986200#m  12/27/23
+
+>BREAKING| German Hapag-Lloyd says it will not resume its use of the Suez Canal describing it as "too dangerous" and affirms that it would continue to reroute its ships via the Cape of Good Hope.
+https://nitter.1d4.us/QudsNen/status/1740020252229206401#m  12/27/23
+
+>Out of the 10+ rockets fired from Lebanon, only 1-3 were intercepted. There are several direct rocket hits in Kiryat Shmona.
+https://nitter.net/AryJeay/status/1740026718466015556#m  12/27/23
+
+>Al-Qassam (Hamas)
+
+Our fighters clashed, last night, with the IOF forces in the Sufa area, north of Gaza City, for 6-hours straight, using machine guns, Yassin 105s, anti-armor "Shoaz" explosive devices, and TBGs.
+
+Zionist helicopters intervened to rescue their forces.
+https://nitter.net/AryJeay/status/1740058135149297944#m  12/27/23
+
+>Gaza Attrition support fronts by the allies. Since this is a very long war, having support fronts will force Israel to shorten the length of the war.
+
+1 - Northern front, #Lebanon :
+Hezbollah is killing and wounding soldiers every day on the front. So far, there's an estimate of about 500+ dead/wounded .
+Hezbollah displaced 100,000 settlers from the north, an equivalent number of the displaced from the Gaza borders. This has huge economic and psychological costs. 
+
+2- #Yemen front : sanctions on Israeli ports, this is an economical attrition front, and it reduced the activity in Eilat port by over 80%. There's reports of food shortages in certain areas.
+
+3- #Iraq and #Syria fronts :
+Attacks on Israeli positions from Iraqi and Syrian territory and attacks on American military occupation bases.
+https://nitter.net/ME_Observer_/status/1740073518983729345#m  12/27/23
+
+>Media coverage: "Al Qassam Brigades published a happy birthday message captioned "years of neglect and suffering" to the detained Israeli soldier Oron Shaul, who completed 9 years in captivity. 
+
+Shaul was captured during the Israeli war on Gaza in 2014 and Israeli authorities rejected efforts to release him in a swap deal."
+https://nitter.1d4.us/QudsNen/status/1740108346080800806#m  12/27/23
+
+>Fun fact: The RPO-A Shmel Thermobaric weapon that was used by Al-Qassam was smuggled from Syria as the SAA are the only operators in the region.
+https://nitter.net/AryJeay/status/1740112831427797226#m  12/27/23
+
+>BIG SUMMARY of all resistance operations today, December 27, against US-israeli forces
+
+Al-Qassam Brigades:
+
+- Targeted a special Zionist force inside a building in Old Gaza Street, Jabalia, using RPO-A Shmel Thermobaric weapon (for the first time,) resulting in the killing and injury of all soldiers inside.
+
+- Clashed, last night, with IOF forces in the Sufa area, north of Gaza City, for 6-hours straight, using machine guns, Yassin 105s, anti-armor "Shoaz" explosive devices, and TBGs.
+
+- Targeted 2 IOF helicopters with a SAM-18 anti-aircraft missile, north of Gaza City.
+
+- (Partially) destroyed 4 Merkava tanks, 1 APC, 5 military D9-bulldozers & 7 military vehicles with dead soldiers, in various battle zones in the Strip.
+
+- Shelled military gatherings north of Khan Yunis, with heavy-caliber mortars.
+
+Al-Quds Brigades:
+
+- Shelled Nahal Oz with 107mm rockets & mortars.
+
+- Completely destroyed a Merkava tank with an explosive device, east of Bureij Camp, central Gaza.
+
+- Downed a Zionist "Sky Racing - no 52” drone, in the sky of Gaza City.
+
+- (Partially) destroyed 3 military vehicles with two RPGs and a Tandem rocket, in the Tuffah and Sheikh Radwan axes in Gaza City.
+
+- Clashed with a Zionist force consisting of 10 soldiers and a reconnaissance dog, killing one and injuring another, in the axis in Khan Yunis.
+
+Martyr Abu Ali Mustafa Brigades:
+
+- Targeted a Merkava tank with a RPG, in the Sheikh Radwan axis.
+
+- Clashed with IOF forces penetrating the eastern Bureij and Sheikh Radwan axes.
+
+Martyr Omar Al-Qassem forces:
+
+- Detonated a highly explosive device on an IOF military vehicle in Khan Younis, hitting it directly and causing deaths and injuries among the occupation soldiers.
+
+- Clashed with IOF forces penetrating the market area in Sheikh Radwan, resulting in casualties.
+
+- Clashed with IOF forces in Juhr Al-Dik, southeast of Gaza, resulting in deaths and injuries.
+
+Al-Aqsa Martyrs Brigades:
+
+- Sniped a zionist soldier, east of the city of Khan Younis.
+
+- (Partially) destroyed 4 military vehicles in the eastern areas of Khan Younis.
+
+- Clashed with IOF forces in the center of Khan Younis, with machine guns and RPGs.
+
+- Targeted a group of israeli soldiers with RPGs, in Khan Younis, causing deaths and injuries.
+
+Martyr Jihad Jibril Brigades:
+
+- Clashed with IOF forces in Khan Younis, southwest axis of Gaza City, and east of Al-Bureij.
+
+- Al-Asifah Forces (affiliated with PLO)
+
+- Shelled an IOF site in the Al-Zana area, east of Khan Younis, with a barrage of 60mm caliber mortars.
+
+Mujahideen Brigades:
+
+- Clashed with military vehicles & soldiers penetrating the axes of Gaza City with various weapons, in different waves of clashes.
+
+- Shelled the Al-Farahin IOF site, east of Khan Younis, with heavy mortars.
+
+Hezbollah:
+
+- Targeted a newly established IOF army HQ, near the naval base with suitable weapons.
+
+- Targeted special israeli forces, inside a tent, near Al-Duhayra, with ATGMs.
+
+- Targeted the Hadab Al-Bustan IOF site with suitable weapons.
+
+- Targeted Kherbet Ma'ar and its artillery positions, along with IOF forces around it, with Burkan IRAM rockets.
+
+- Launched a joint attack consisting of kamikaze drones, rockets, and artillery targeting IOF forces and their vehicles near Shebaa Farms.
+
+- Targeted Kiryat Shmona settlement with 30 Katyusha rockets, with only 3-4 interceptions and multiple direct hits.
+
+Islamic Resistance in Iraq:
+
+- Targeted the US base near Erbil Airport in northern Iraq with a suicide drone.
+
+- Targeted a technical espionage center affiliated with israel, northeast of Erbil, using suitable weapons.
+
+- Targeted a vital target south of the Eliad settlement (occupied Golan Heights), with appropriate weapons.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1740137455217525076#m  12/27/23

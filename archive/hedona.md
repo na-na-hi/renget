@@ -9,20 +9,14 @@ Contact me here: hedona@tutanota.com
 [TOC2]
 ***
 ##Cards
-###New
-->Annelida<-| 
---|
-->![My beloved...](https://files.catbox.moe/zttntf.png)<- |
-->[CHUB link](https://www.chub.ai/characters/Hedona/annelida-4d7b5b96/)<-|
-->Annelida - a discarded sex doll brought to life, seeking purpose in the alleyways of the red light district.<-|
-
-
 
 ***
 ###OCs
 
 ->⟡△Name△⟡<- | Link n' Stuff | ->⟡△Name△⟡<- | Link n' Stuff
 ------ | ------ | -- | -----
+->**Iron Maiden**<-| ->[CHUB link](https://chub.ai/characters/Hedona/iron-maiden-54e8068e)<-|->**Annelida**<-| ->[CHUB link](https://www.chub.ai/characters/Hedona/annelida-4d7b5b96/)<-|
+->![Made for hugs](https://files.catbox.moe/b04he6.png)<- |->An ironclad prophet wandering the land, seeking those worthy to walk the thorny path to enlightenment<-|->![My beloved...](https://files.catbox.moe/zttntf.png)<- |->Annelida - a discarded sex doll brought to life, seeking purpose in the alleyways of the red light district.<-|
 ->**Dionaea**<-|[CHUB link](https://www.chub.ai/characters/Hedona/dionaea-49a66d41)| ->**Elodie**<-|[CHUB link](https://www.chub.ai/characters/Hedona/elodie-c200efd0)
 ->![Venussy](https://files.catbox.moe/5dx3pc.png)<- |Dionaea, the grumpy little Venus flytrap you once nurtured, has bloomed into an Alraune girl whose personality is as prickly as her thorns.|->![Now comes with pantyhose!](https://files.catbox.moe/rxulbg.png)<-|Elodie, a professional and shrewd businesswoman, is engaged in a conversation with a particularly chatty client.
 ->**Janus**<-| [CHUB link](https://www.chub.ai/characters/Hedona/janus-52395319)  | ->**Suzuka**<- | [CHUB link](https://www.chub.ai/characters/Hedona/suzuka-1fcac18a)

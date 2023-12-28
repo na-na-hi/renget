@@ -1,4 +1,8 @@
 ▶NEW CLIPS
+>Footage of odessa AA trying to shoot down geranium
+https://files.catbox.moe/z4lrp8.mp4
+>Zaluzhny: military command did not request 500k mobiks
+https://files.catbox.moe/a6wh5q.mp4
 >RT wishes (You) a Merry Christmas
 https://files.catbox.moe/rhq7k8.mp4
 >Paladin meets Lancet

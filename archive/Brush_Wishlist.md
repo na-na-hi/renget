@@ -153,6 +153,7 @@
 **Dodge cross-hatching Dot **|[1839774](https://assets.clip-studio.com/en-us/detail?id=1839774)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/97/1839774/thumbnail)
 **Dodge cross-hatching Tiles **|[1838500](https://assets.clip-studio.com/en-us/detail?id=1838500)|100|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/00/85/1838500/thumbnail)
 **Dirty and Shadow lines! Building description Material Set (汚しや影線！建物描写素材セット)** | [1731713](https://assets.clip-studio.com/en-us/detail?id=1731713) | 280 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/17/1731713/thumbnail?1547225066)
+**One Button Shadowshadow on the border (One Button Shadowㆍ경계에 그림자)** | [2010752](https://assets.clip-studio.com/en-us/detail?id=2010752) | 500 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/07/2010752/thumbnail?1689025387)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

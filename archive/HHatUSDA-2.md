@@ -52,3 +52,5 @@ Kanata's divine tickle torture felt so much worse, in fact, that Towa escaped it
 Kanata, puzzled by the devil's reaction, removed her hand from Towa's left breast. Towa's elegant mediums were almost as fun to grope as Coco's massive milkers, and the begging just now had tickled Kanata's fancy. But the angel didn't have a hard time pushing her naughtier thoughts to the back of her head, given what had just happened. Why had her divine judgement worked like this on Towa? Had Coco been right - was this really a non-evil devil?
 
 The small angel touched Towa all over, somewhat succeeding in focusing on her sixth sense rather than what she saw and felt. But there was still little Evil to be found. Kanata stood up and took a step back, in the corridor and in her mind. Did this actually turn this bad situation into something...good? She had technically purged any Evil as she was required to, and having to study this unusual case was a perfect reason to keep an eye, and more, on Coco's newest catch. She couldn't exactly be friends with a devil, but she could certainly oversee and discipline one...
+
+==Next part: https://rentry.org/HHatUSDA-3==

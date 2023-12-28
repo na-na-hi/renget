@@ -138,7 +138,6 @@ Double-Edge | 10 BP | 8 AP | ≥2 | Normal | Physical | [Recoil](https://rentry.
 **Draco Meteor** | 6 BP | 8 AP | ≥3 | Dragon | Special | The User's Special Attack is decreased by 2. Room-Hitter.
 Dragon Ascent | 12 BP | 8 AP | ≥2 | Flying | Physical | The User's Defense and Special Defense are decreased by 2.
 Dragon Breath | 6 BP | 5 AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with *Paralysis*.
-Dragon Cheer | - | 4 AP | - | Dragon | Status | The User's Crit Ratio is increased by 1. The User may select 1 additional Ally to have their Crit Ratio increased by 1 at the cost of 2 AP. If the User is Dragon-Type, their own Crit Ratio is increased by 2.
 Dragon Claw | 8 BP | 6 AP | ≥2 | Dragon | Physical | No secondary effect.
 Dragon Darts | 5 BP | 7 AP | ≥2 | Dragon | Physical | Hits twice. Hits two Opponents if possible.
 **Dragon Energy** | 8 BP | 8 AP | ≥2 | Dragon | Special | The Move's damage is increased by 1 for every 10 HP the User has. 
@@ -640,6 +639,7 @@ Defense Curl | - | 4 AP | - | Normal | Status | The User's Defense is increased 
 Detect | - | 4 AP | - | Fighting | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Disable | - | 4 AP | - | Normal | Status | The Opponent is afflicted with [*Disabled*](https://rentry.org/tmd2many_rules#status-effects).
 Double Team | - | 4 AP | - | Normal | Status | The User's Evasion is increased by 1.
+Dragon Cheer | - | 4 AP | - | Dragon | Status | The User's Crit Ratio is increased by 1. The User may select 1 additional Ally to have their Crit Ratio increased by 1 at the cost of 2 AP. If the User is Dragon-Type, their own Crit Ratio is increased by 2.
 Dragon Dance | - | 4 AP | - | Dragon | Status | The User's Attack and [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) are increased by 1.
 Eerie Impulse | - | 4 AP | - | Electric | Status | The Opponent's Special Attack is decreased by 2.
 Electric Terrain | - | 4 AP | - | Electric | Status | The Terrain is changed to Electric Terrain.

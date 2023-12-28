@@ -4,10 +4,11 @@
 
 #### Currently serving:
 
-**Model: Mixtral-Instruct-3.75bit (Update your settings!)**
+**Model: Mixtral-Instruct-3.75bit**
 **Hardware: RTX 3090**
 
-Server URL: ```https://yield-though-research-permissions.trycloudflare.com``` (Might randomly die, oobaboohoo keeps crashing)
+API URL: ```https://parking-coupled-regarded-pi.trycloudflare.com``` 
+*(changed to TabbyAPI because ooba kept freezing, update your proxy config!)*
 ***
 -> *Mixtral is very sensitive to prompt format. Follow to the T or get suboptimal output!* <-
 **Story string (respect the spaces):**
@@ -19,7 +20,7 @@ Server URL: ```https://yield-though-research-permissions.trycloudflare.com``` (M
 {{/if}}{{#if scenario}}Scenario: {{scenario}}
 {{/if}}{{#if wiAfter}}{{wiAfter}}
 {{/if}}{{#if persona}}{{persona}}
-{{/if}}[/INST] 
+{{/if}} [/INST] 
 ```
 
 **Chat start:**
@@ -48,7 +49,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 **Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
 Output Sequence: " [/INST] "
-Last Output Sequence: " (please reply vividly in character, sensible length) [/INST] "
+Last Output Sequence: " (please reply vividly, in character, sensible length) [/INST] "
 Stop Sequence: "</s>"
 Separator: "</s>"
 
@@ -69,7 +70,7 @@ https://rentry.org/llm-settings
 #### How to use:
 
 ##### 1. Proxy menu:
- ![proxy-menu](https://files.catbox.moe/1x3pdz.png)
+ ![proxy-menu](https://files.catbox.moe/vgvcjv.png)
 
 ##### 2. Advanced menu:
  ![classic](https://files.catbox.moe/7mj83y.png)

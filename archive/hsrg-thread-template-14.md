@@ -32,8 +32,8 @@ https://www.youtube.com/watch?v=BFCBuPHcjaY
 \>Misha (4\* Ice Destruction) - https://www.hoyolab.com/article/23590332
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
-9TRB7C2LDQBP
-5S9BND25CRBK 
+NB9TKRMK5R23 (NEW)
+HSRGALAXY23
 STARRAILGIFT
 
 \>/hsrg/ Tools & Resources

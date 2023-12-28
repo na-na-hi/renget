@@ -29,8 +29,8 @@
 - - -
 ######
 
--> ![Kobbo Prompt. (struggling with GPT writing style)](https://files.catbox.moe/2im7ug.gif) <-
--> "When it's done" <-
+-> ![Kobbo Prompt. (Almost ready)](https://files.catbox.moe/2im7ug.gif) <-
+-> Closed BETA in progress<-
 
 ######
 - - -

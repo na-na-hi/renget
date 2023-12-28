@@ -7,16 +7,16 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 10 | **Experience to Next Level:** 75/100
-**Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1269₽ | **Glorious Gold:** 0 Bars
+**Level:** 11 | **Experience to Next Level:** 5/110
+**Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
+**Pokécoin:** 1369₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Rookie Rank<-
-->*145/400 points to Normal Rank*<-
+->*305/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -24,7 +24,7 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 9 (21HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
+Defense | 0 (+1) | Item bonus | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5AP
 

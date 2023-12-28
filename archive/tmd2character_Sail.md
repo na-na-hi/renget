@@ -7,9 +7,9 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 11 | **Experience to Next Level:** 110/15
+**Level:** 11 | **Experience to Next Level:** 110/45
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 1,915₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2,015₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -87,7 +87,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ  |  Description
+1. Pink Gummi  |  Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 2. Eᴍᴘᴛʏ  |  Description
 
 **RP/QUEST STORAGE (∞ slots)**

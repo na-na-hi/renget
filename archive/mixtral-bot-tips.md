@@ -2,6 +2,16 @@
 
 [TOC2]
 
+### Don't repeat yourself
+Mixtral picks up on repetitive writing very quickly, especially in character cards or bot dialogue. It's very hard to make it snap out, so make sure you write your cards well!
+
+!!! note Do
+    Use explicit names and varying sentence structures. Example:
+    {{char}} is a woman with an eye for gold. Despite her short stature, {{char}} ruthlessly hunts for more prey.
+!!! danger Don't
+    Do not write the same sentence structure over and over again. This will cause the bot to repeat itself and it'll never get out of it. Example:
+    {{char}} is a woman. She has an eye for gold. She has a short stature. She still hunts for more prey despite being short.
+
 ### Write explicitly
 Mixtral is really good at following instructions. Take advantage of this and be very explicit with what you want it to do.
 

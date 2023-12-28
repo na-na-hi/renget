@@ -867,5 +867,207 @@ Huh, that's unexpected, but nice. I grab the bag, reaching in and pulling the gi
 I gasp at the sight of the plush. He actually made this?! Setting the bag and letter on the table, I give the plush a small hug. The gills are painted-over sticks stuck into the sides of the head, but the rest of it is nice and soft. I climb into bed again, turning over as I hug it close. Even if it's not the real deal... having something to hug while going to sleep is oddly comforting.
 
 ####Day 5:
+I wake up the next morning, still hugging the plush tightly. It feels warm and cozy, and part of me wants to sleep in... but I need to get some sunlight, so I force myself out of bed, making sure to grab my bag first. As I walk into the main lobby, I hear a faint voice come from the direction of the storeroom. “Psst, Chespin, c-come in here.” Curious, I follow the voice.
+
+Inside the storeroom, Toge waits for me. Nervously fidgeting about, he says, “G-good morning, d-did you like the gift?”
+
+Feeling a bit embarrassed, I look to the side. “Ahh... yes. I just hope the others don't find out about it.”
+
+He lets out a sigh of relief, saying, “Oh, I'm so glad, b-but there's some b-bad news I have to tell you... th-that was the last of the cotton...”
+
+I let out a loud gasp. “WHAT? We ran OUT?! But I... I got so much of it that one day! Are you telling me nobody ever restocked?”
+
+“A-as far as I know, we only ever had the one sh-shipment.”
+
+I clench my fist, feeling mad, but most of all, feeling fired up. “I can't believe this, does NOBODY ELSE at this madhouse know that a cozy home is one of the most important things one can have in life?! Oh, they'll splurge on stupid scarves or booze or berries to carry their incompetent ASSES through missions, but oh nooo, getting more cotton is just BENEATH THEM apparently!”
+
+Toge chimes in with, “Yeah! What's wrong with everybody else? Team Cozy's the only team here that actually has their priorities straight! Not at all like those SLACKERS in Team Misfits, that fashion-obsessed Furret or our fruity-ass Guildmaster!”
+
+“I'm the ONLY ONE here who knows what REALLY matters! I've worked so hard, fought so many damned CHILLERS to get what we've got, and for none of the other guild members to take action to keep our cotton stocks is an INSULT! A spit in my FACE, even! At least YOU used the cotton for a NOBLE purpose, but the others simply SQUANDER my precious gift of coziness!”
+
+Toge pumps a fist in the air, shouting, “Exactly! Those PLEBIANS don't know who they're screwing with! If it wasn't for you, the guild would still be sleeping on thin piles of HAY and having NO GARDEN to relax in! What do the others have to show for their work, other than “Getting banned from the Blue Claw Inn yet AGAIN?! Degenerates, the lot of them!”
+
+I slam my fist on a nearby table. “I would rather take a dirt nap than even entertain the notion of a new guild member sleeping on HAY! Wooper or not, I GUARANTEE we will have a resupply of cotton TONIGHT! Make some room, Toge, because later on, there's going to be MOUNTAINS of my glorious cotton in here tonight.” Toge salutes me as I spin around, kicking the door open as I run out.
+
+As I rush out towards the exit of the guild, I spot Mindy slowly floating through the front door. I point at her, saying, “You! I've got a mission to do, and you are going to help me!”
+
+Mindy looks around frantically, and upon realizing that nobody else is around, says, “B-b-but I can't fight!”
+
+“You don't need to fight enemies, you need to fight discomfort alongside me!” Without another word, I grab her by the tail and rush out the door as she squirms and protests, shouting words I'm not even listening to as I run out of town and towards the land of cotton.
+
+Eventually, however, I have to slow down to catch my breath, giving Mindy a chance to wiggle free. She begins to shout at me, clearly angry at forcefully being dragged out of town. “What on EARTH is your problem?! Can't a single one of you nutjobs just act normal?”
+
+It only now occurs to me what I've just done. Feeling really guilty now, I say, “Uh, yeah, sorry about that... The guild is out of cotton, and I need help restocking.”
+
+“Well, what's that got to do with me?”
+
+“You can float, so you'll be able to help me haul the cotton back.”
+
+Mindy glares at me before saying, “I'm going back to my room.”
+
+As she turns around to float away, I yell, “No, wait, come back!” When she stops, I continue with, “... Look, I know you don't do missions and mostly keep to yourself, but I've got a sworn duty to make the guild as comfortable as possible. Cotton's one of the best ways to do that, and I won't be able to sleep at night knowing there could be a new member someday that would be forced to toss and turn on a thin pile of hay.”
+
+Mindy ponders for a moment before saying, “At least out here nobody is staring at me.”
+
+I let out a sigh of relief. “Phew, thank you! When we're done, I'll get you some kind of treat, alright?”
+
+We begin to make the trek towards the Whimsicott village. The silence soon grows to be too awkward. “So uh... how do you like it at the guild, Mindy?”
+
+“I wish I could go back home.” Her voice has a hint of sadness in it as she continues. “I never liked the spotlight, but it feels like all eyes are on me when I go into town.”
+
+“I was never one for that stuff either, always preferred blending in. I can only imagine how irritating it's gotta be for you.” Hoping to turn the topic to something happier, I say, “So, what're you good at doing?”
+
+Mindy lets out a sigh. “I can float, but that's about it. Took me ages to even manage that, was always so afraid I'd fall out of the air.”
+
+“Hey, freely floating everywhere is good! I'm sure if you train more, you'll be able to accomplish a lot.”
+
+“Yeah, so everybody keeps telling me.” Mindy shakes her head, continuing with, “This is the most I've spoken in a long time... I usually just hide away in my room. There's too many crazies at the guild!”
+
+“I know they're... eccentric, but they aren't a bad lot. Except Cyndaquil, that is.”
+
+“Seriously. Did you know he was hitting on me from Day 1?”
+
+I let out a laugh. “He does that with everybody, but sometimes he gets put in his place. Just the other day, he said the wrong thing to me and I threw him into a wall. Shame it doesn't happen to him more.”
+
+I hear a tiny chuckle from Mindy. “About time somebody fought back.” Mindy floats a bit higher, looking over the hill. “There's a village nearby, is that it?”
+
+“Yep, that oughta be it!” I pick up the pace, thoughts of getting my cotton stocks replenished filling my mind.
+
+As we enter the village, dozens upon dozens of Whimsicott can be seen everywhere we look. They work, chatter, hum, and wave at us as we make our way down the main road.
+
+“This seems like a nice place,” Mindy says. “Everybody seems pretty friendly here, and nobody's staring at me.”
+
+“Hopefully getting cotton is easier this time than the last.” I walk up to the biggest house, knocking on the door.
+
+The voice of what I can only describe as a complete and total airhead calls out from the other side. “Like, c'mon in!” Cringing a little at her voice, I open the door, telling Mindy to wait outside.
+
+Inside, mounds of cotton several times taller than me fill the corners of the room. The floor itself is coated in the stuff, and there are stacks of pillows and folded blankets adorning the tables and chairs within. Trying not to comment on how this village is holding out on everybody, I approach the head of the village. The Whimsicott looks at us, smiling. “Like, it's the Chespin from months ago!”
+
+I nod. “I need to obtain another shipment of cotton for the Clover Guild.”
+
+“Like, you know the deal by now, kid. Gotta see that cash first.”
+
+I reach into my bag, pulling out one of my spare Frisms. “These Frisms are extremely rare, special and-”
+
+The Whimsicott scoffs, cutting me off. “And they are so, like, totally last season. Those Frisms? Out of fashion.”
+
+I feel my heart sink. “But...” No, I'm not going to give up! “There's got to be something I can do for it. As the Chief of Coziness for the Clover Guild, I'm not going home unless it's with a whole lotta cotton!”
+
+“Like, you totally take your job seriously, don't you?” The Whimsicott thinks for a moment. “Hmm... There's this totally choice red ribbon I had once. Very fashionable, very in, very expensive. But it blew off my fluff and ended up somewhere in the Mellow Meadow to the west.”
+
+“And you want me to find it?” At least there's probably no chillers in a sunny meadow.
+
+“Like, if you get the ribbon, you get the cotton.”
+
+I raise a fist up, determined. “You guys better get that cotton all bagged up for me, because that ribbon is as good as found.”
+
+Exiting the house, I see Mindy looking at a nearby shop stall. She turns around upon hearing me shut the door. “So, where's the cotton?”
+
+I shake my head. “Little miss valley girl lost her ribbon in a nearby meadow. We gotta go out and find it.”
+
+Mindy lets out a small gasp. “B-but that means... what if we have to fight?”
+
+“We'll be okay, trust me. Fighting for the first time was... strange for me. I was running off of instinct more than anything. Maybe it'll happen for you?”
+
+Mindy grumbles a little. “Not exactly a reassuring thing to hear...”
+
+“Well, even if you can't fight, you can at least fly up to look out for the ribbon.” I point off towards the west. “Ready?”
+
+Mindy nods. “Keeping an eye out, I can do.” With that, the two of us head for the meadow.
+
+On the walk towards our destination, the irony of the situation strikes me. The first time I went cotton hunting, I was the inexperienced one but this time, I'm the one that's gotta do all the heavy lifting if a fight happens. Mindy claims to be useless in battle, but I thought the same thing about myself once. Could she really learn how to defend herself if we ran into trouble?
+
+Slow but sure, the meadow comes into view. Tall sunflowers, vibrant plant life, and greenery stretch out as far as the eye can see. Though the sights and smells of such a thing would normally make me grin in contentment, right now I'm just thinking about how this is standing between me and my treasure. “How're we supposed to find a ribbon in all of this?!” I complain.
+
+I hear Mindy grumble to herself again. “Let's just get this over with.”
+
+“Agreed. I'm getting that cotton, no matter what.” The two of us head on into the massive meadow.
+
+Walking through feels like walking through a massive corn maze in the old world. Everything is so much taller than me, and I can't make out where anything is or where we're going. Before long, I can't even tell which direction we've come from, all I see are sunflowers! Is this another one of those 'dungeons' that are supposed to be everywhere?
+
+“I'm starting to think this is a waste of effort,” Mindy says.
+
+“It's like trying to find a needle in a haystack, and I HATE hay! This would be so much easier if we could just cut down all of these flowe-wait a minute!” Getting an idea, I raise my hands up, focusing on taking in as much sunlight as I can. Once I'm charged up, I shoot a beam of light into the meadow, carving out a path as it rushes through the sunflowers! “There we go! Would've been nice if I thought that up earlier.”
+
+Mindy gasps at my display, shouting, “Y-you just shot a big laser! How'd you do that?!”
+
+“It's a long story, but I'm sure you could learn how to do things like that someday. You just have to train more.”
+
+“All of you guys learn this stuff so easily...”
+
+Trying to reassure, I say, “Cheer up, you gotta learn to walk before you can run. Or float, in your case.”
+
+“I gue-” Mindy is cut off by the sound of rustling within the flowers. “Wh-what was that?!”
+
+A high-pitched voice cries out in sadness. “M-my sunflowers!” Looking around for the source of the voice, I spot a shorter sunflower walking towards us, an angry look on its... face? “You... you MONSTERS!”
+
+I step in front of Mindy. “Get ready, it looks like a fight!”
+
+“A-a fight? But...what do I do, what do I do?!”
+
+Holding my arms in a defensive pose, I say, “Just... fight it, I don't know! Or at least hide behind me!”
+
+The Sunflora inhales, spitting out a speedy stream of seeds directly at me. I turn around, using my armored back to endure the attack, the shots registering as nothing more than a small tapping sensation. “Okay, at least they seem weak, Mindy.”
+
+Mindy cranes her head to look over me. “How's that not hurting y-OWWWWW!” Looking up, I see that our assailant had changed their aim, shooting Mindy right in the face! She curls up on the ground, clutching her face in pain. “That BITCH!” Floating up high, she shouts, “How about we see how you like it?!” She lets out a yell and dives towards the Sunflora, delivering a flying kick directly to their face! The impact of Mindy's attack takes me by surprise as our foe gets sent flying backwards, tumbling across the ground until they come to a rest in a heap of destroyed sunflowers.
+
+Mindy lands nearby, looking down at herself. “H-how did I do that?”
+
+“Your guess is as good as mine. I didn't know you had it in you! So... didn't that feel good?”
+
+I catch a faint hint of a smile on Mindy's face. “Hey... it kind of did!”
+
+“That's the spirit! But...” I turn my attention back to the Sunflora. “Wait a minute...” That Sunflora didn't get smashed into dust like other dungeonmons. They spoke, unlike normal dungeonmons. Are we... are we even in a dungeon? Did we just destroy someone's flowers and beat them up for being upset over it? I shake my head, trying to get those thoughts out of my head. I've got to focus on getting the cotton! “Mindy, can you float up and look around for the red ribbon?”
+
+Mindy nods, rising up above the flowers. Shielding her eyes from the sunlight, she looks around the area before flying off. Moments later, she returns, carrying a big red ribbon. “Found it, I think. It was caught in a nearby tree
+
+I grab the ribbon, stuffing it in my bag. “Phew, that's one less thing to worry about. Time to head back and collect my precious cotton!”
+
+The Whimsicott grabs the ribbon from my hands, a big smile on her face. “Like, this is so totally tubular! I thought I'd never see this again!”
+
+Relieved the mission was a success, I say, “Glad I could help, now about that cotton...”
+
+“Like, the other villagers are gonna help you bring it back to the guild. Y'know, looking at you now, I didn't realize the Clover Guild had such cuties working there! How about staying here for awhile instead?”
+
+I let out a loud cough, caught off-guard by her words. Is she hitting on me?! “Wh-what?! I can't do that, I've got work to do!”
+
+“Oh well, but like, feel free to stop around again!”
+
+Regaining my composure, I say, “Time to head home now. Coming, Mindy?”
+
+Mindy looks at me, something on her mind. “Umm, can you wait for me a little? I want to ask her a couple questions.” Agreeing, I step outside.
+
+A line of Whimsicott march towards the horizon, large bags of cotton in tow. As the breeze blows by, I'm reminded just how much quieter this village is than Capim. I hear muffled chatter from within the village head's house, and it isn't long before Mindy comes back out.
+
+“There you are, ready to go?” I ask.
+
+“Um...” Looking around nervously, Mindy fidgets about with her scarf. She takes her badge off, placing it in my hand. “I'm not going back.”
+
+“You're leaving the guild?!”
+
+Mindy nods, a hint of sadness on her face. “I never really fit in there anyways. I think I'll be happier here.”
+
+I know she never felt like she belonged, but I didn't think a single day out on a mission would be enough to get her to quit! “Oh... Well, I'm sure you'd be welcomed back if you ever changed your mind.”
+
+Mindy nods towards the house she just left. “She said I could stay at her place. It looks like it's a better fit for me, so... Thanks for the help. Even if the guild didn't work out, I don't know what I'd have done if you didn't find me that day.”
+
+I put her old badge in my bag. “I get it. You think you'll be cozier here. The way I see it, we've got to choose coziness over anything else.” I give her hand a little shake, saying, “Take care, and good luck with the training.” With that business settled, I begin to make the walk back home.
+
+Walking through the field, I'm struck by the utter silence accompanying me. I look back to start some sort of conversation, but... there's nobody. No Wooper, no other guild members... nothing. I begin to feel really uneasy at my isolation, and begin to pick up the pace. It isn't long before I'm running for Capim, in a hurry to get back before I'm caught out here alone by someone that might want to start something.
+
+Carried forward by my Mach Ribbon, I don't stop running until I get back to the guild. I run inside, rushing into the storeroom...and tripping on a massive pile of cotton bags. I gasp for breath, having just ran more than I've ever run in my life. I hear the soft flutter of wings approaching me from the doorway.
+
+“Th-there's so much c-cotton, y-you're going to make everybody so cozy!”
+
+“Hah... why... couldn't it have been that easy... the first time I got cotton...” I take a series of deep breaths, lying atop Mt. Cotton.
+
+“I'm so glad... b-but... wh-what happened to Mindy? I s-saw you rush out with her.”
+
+“She... quit the guild. Staying behind in that village...” I pull out her old badge, which Toge grabs.
+
+“O-oh... I ho-hope she'll be happy there. I-I better put this cotton away.”
+
+I feel my eyelids grow heavy. “Just let me... enjoy my... triumph...”
+
 ####Day 6:
 ####Day 7:

@@ -119,6 +119,7 @@
 10/2023|[Branch-Solve-Merge Improves Large Language Model Evaluation and Generation](https://arxiv.org/abs/2310.15123)
 10/2023|[Generative Pre-training for Speech with Flow Matching](https://arxiv.org/abs/2310.16338)
 11/2023|[Emu Edit: Precise Image Editing via Recognition and Generation Tasks](https://arxiv.org/abs/2311.10089)
+12/2023|[Audiobox: Unified Audio Generation with Natural Language Prompts](https://arxiv.org/abs/2312.15821)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -163,6 +164,7 @@
 10/2023|[FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313)
 11/2023|[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 12/2023|[ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
+12/2023|[The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -253,6 +255,7 @@
 12/2023|[MMM: Generative Masked Motion Model](https://arxiv.org/abs/2312.03596)
 12/2023|[4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647)
 12/2023|[LLM360: Towards Fully Transparent Open-Source LLMs](https://arxiv.org/abs/2312.06550)
+12/2023|[SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -477,6 +480,7 @@
 12/2023|[ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference](https://arxiv.org/abs/2312.11882)
 12/2023|[Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/abs/2312.12728)
 12/2023|[A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties](https://arxiv.org/abs/2312.13764)
+12/2023|[Algebraic Positional Encodings](https://arxiv.org/abs/2312.16045)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

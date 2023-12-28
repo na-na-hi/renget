@@ -27,11 +27,11 @@ Write {{char}}'s next reply in a fictional roleplay chat between {{char}} and {{
 
 {{#if personality}}{{char}}'s personality: {{personality}}{{/if}}
 
-{{#if scenario}}This scenario of the conversation: {{scenario}}{{/if}}
-
 {{#if mesExamples}}This is how {{char}} should talk: {{mesExamples}}{{/if}}
 
 Then the roleplay chat between {{char}} and {{user}} begins.
+
+{{#if scenario}}This scenario of the conversation: {{scenario}}{{/if}}
 ```
 
 ![st](https://feen.us/4ck88b.png)
@@ -46,12 +46,12 @@ Write {{char}}'s next reply in a fictional roleplay chat between {{#each bot}}{{
 
 {{char}}'s Persona: {{personality}}
 
-This scenario of the conversation: {{scenario}}
-
 {{#if example_dialogue}}This is how {{char}} should talk:
 {{example_dialogue}}{{/if}}
 
 Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{user}} begins.
+
+{{#if scenario}}This scenario of the conversation: {{scenario}}{{/if}}
 
 {{#each msg}}{{#if .isbot}}<|model|>{{/if}}{{#if .isuser}}<|user|>{{/if}}{{.name}}: {{.msg}}
 {{/each}}

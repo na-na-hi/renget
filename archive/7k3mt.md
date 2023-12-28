@@ -3,7 +3,7 @@
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [Link to the whole MEGA Folder](https://mega.nz/folder/RvkmWCyA#VA_EjRU-1Mb6g9zNXKR3sg)
 
-**==LAST UPDATED:==** 26/12/23 [>[CHANGELOG]<](https://rentry.co/uvkrso)
+**==LAST UPDATED:==** 27/12/23 [>[CHANGELOG]<](https://rentry.co/uvkrso)
 **==CURRENT BETA VERSION:== 2.0 v.0** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=20) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-2-0/?lang=EN)
 !!! note
     If you have any questions, suggestions to improve the rentry, or if you notice any errors or missing information, please send them to my [Retrospring](https://retrospring.net/@erikahhrna), and I'll try to answer as quickly as I can! 
@@ -13,16 +13,6 @@ Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [TOC2]
 
 ##Upcoming Characters
-
-###1.6
-
-Ruan Mei | Links
------- | ------
-![Ruan Mei](https://cdn.discordapp.com/attachments/1137374640239542294/1174073020457959545/1303.png?ex=656643b5&is=6553ceb5&hm=5b853b8513885eb13a9d6abef8692e9f0a20044e05b7e2b21d1f75bf77f8d5af&) ✦✦✦✦✦ - ![Ice](https://cdn.discordapp.com/attachments/1137374640239542294/1167146434764742656/IconAttributeIce.png?ex=654d10d2&is=653a9bd2&hm=c096a6c8761f09f975520266fa7ed705e7eddd820db9140a870fe25303e04744&) Ice - ![Harmony](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328677494956/shaman.png?ex=654e915c&is=653c1c5c&hm=32da174a881bdd037ee2804b4123cef7cb9b3a840ebfea9723def3243ba62bb9&) Harmony | [FOLDER](https://mega.nz/folder/Rq9DXbCJ#w2sR1jxduHNEyFptiON9Yg) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1303/ruan-mei?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1303)
-**Dr. Ratio** | **Links**
-![Dr. Ratio](https://cdn.discordapp.com/attachments/1137374640239542294/1174073020210483302/1305.png?ex=656643b5&is=6553ceb5&hm=020d4cd4eb26eea720ff6568b7d72553fce6cda1bc05eb597bb8cf111da3d1b9&) ✦✦✦✦✦ - ![Imaginary](https://cdn.discordapp.com/attachments/1137374640239542294/1167146435179991122/IconAttributeImaginary.png?ex=654d10d2&is=653a9bd2&hm=0365d09180746d5cad9706bb2ee517001cec16da3f9f11832aea97594ba6d33a&) Imaginary - ![Hunt](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328409067622/rogue.png?ex=654e915c&is=653c1c5c&hm=20b368975d23758a9de0345819fca3667a009d32107222b838564c4d112211ae&) Hunt  | [FOLDER](https://mega.nz/folder/dicSGCKD#h2vlvOtDEFQpU-11oFfcJA) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1305/dr-ratio?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1305)
-**Xueyi** | **Links**
-![Xueyi](https://cdn.discordapp.com/attachments/1137374640239542294/1174073019954643015/1214.png?ex=656643b5&is=6553ceb5&hm=e03ac9f08f3b4412087c53ff514954b490470756cd1a6c327d7c5810a726dcad&) ✦✦✦✦ - ![Quantum](https://cdn.discordapp.com/attachments/1137374640239542294/1167146435519713401/IconAttributeQuantum.png?ex=654d10d2&is=653a9bd2&hm=285b0e88165bb84e0d59e1e1734c3af4bc250d2d8e51eaff3d7f50c34bdbb162&) Quantum - ![Destruction](https://cdn.discordapp.com/attachments/1137374640239542294/1167559329554112612/warrior.png?ex=654e915c&is=653c1c5c&hm=a251716b4e8564e9a47ac08df32cb409c1fd17255e2c7c1fce7832d89bdcf6bb&) Destruction  | [FOLDER](https://mega.nz/folder/QqlQCL7C#pipdP8gyx1HqBUR2TRDf7w) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1214/xueyi?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1214)
 
 ###2.0
 

@@ -906,3 +906,9 @@ https://www.youtube.com/watch?v=ZIMfc1y59mM New 12/25/23
 
 >Israeli Channel 12: Suspected assassination in Netanya, a man was killed in a car explosion, this is most likely an IRGC response to the assasination of the commander in damascus last night
 https://files.catbox.moe/tz1jsi.mp4 New  12/26/23
+
+>Kikes fear the Katyusha rocket bombardment
+https://files.catbox.moe/23s94b.mp4 New  12/27/23
+
+>Fighting can be heared in khan yunis rn
+files.catbox.moe/am1s68.mp4 New  12/27/23

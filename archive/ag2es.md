@@ -18,7 +18,7 @@ Standing in a corner of the Club Room, Margaret stared ahead of her, acutely awa
 A student wearing a suit that made him look like a penguin stepped towards her, a red tube of chips in his hand.
 "*Welcome aboard! I need two co-captains, you want in?*" said the boy between bites.
 "*Sure.*" she said, inaudibly, with a nod; she couldn't bear the room's brouhaha anymore.
-"*Cheers. Name's Pringles.*" he held out a greasy hand.
+"*Cheers. My name is Pringles.*" he held out a greasy hand.
 "*Margaret. I have to go.*" she answered, ignoring the captain.
 Walking briskly through the Club Room she side-stepped, dodged and slithered her way out, avoid faces lighting up at her sight, faces staring at her, buzzing whispers whose intensity increased exponentially, making her head feel like it was about to burst.
 **SLAM**

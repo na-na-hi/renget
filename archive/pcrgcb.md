@@ -112,6 +112,28 @@ Festival Yuni 3★ R31 Lv292 FULL, EX 5/5/5
 
 
 ### Boss 3
+[B3 Magic 50-52m - 2 manual inputs](https://www.youtube.com/watch?v=5Lecr1AuFnM)
+![](https://pomf2.lain.la/f/mjr4tynl.png)
+Tested with: 
+Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Yuki 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Yui 3★ Lv292 R31 FULL, EX 5/5/5
+Vampy 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Illya 3★ R31 Lv292 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/gu9ctrx8.png)
+
+[B3 Magic 48-49m - 1 manual input](https://www.youtube.com/watch?v=xU_GH1e17A8)
+![](https://pomf2.lain.la/f/tucel8rd.png)
+Tested with: 
+Warlock Djeeta 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Yuki 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Yui 3★ Lv292 R31 FULL, EX 5/5/5
+Vampy 5★ Lv292 R31 FULL, EX 5/5/5
+Ceremonial Illya 3★ R31 Lv292 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/d0q7qngk.png)
+
 [B3 Physical 45-47m - 1 manual input](https://www.youtube.com/watch?v=yFqHA4HLR04)
 ![](https://pomf2.lain.la/f/9zeyg2a3.png)
 Tested with: 

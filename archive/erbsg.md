@@ -49,7 +49,6 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1567 Barbara Emotes, ~12/31)
 https://event.playeternalreturn.com/newcharacter/70th/Tsubame (Tsubame Event, ~1/3)
 https://playeternalreturn.com/posts/news/1634 (Drops, ~1/3)
 https://playeternalreturn.com/posts/news/1636 (Holiday, ~1/18)
