@@ -47,6 +47,17 @@ New Years Misato 5★ Lv292 R31 FULL, EX 5/5/5
 
 ![](https://pomf2.lain.la/f/unthqdnd.png)
 
+[B1 Magic 54m - 1 manual input](https://www.youtube.com/watch?v=X9iSG9vyYOU)
+![](https://pomf2.lain.la/f/u8o0bl.png)
+Tested with: 
+Angel Yori 3★ Lv292 R31 FULL, EX 5/5/5
+Neneka 5★ Lv292 R31 FULL, EX 5/5/5
+Summer Ranpha 3★ Lv292 R31 FULL, EX 5/5/5
+New Years Homare 5★ Lv292 R31 FULL, EX 5/5/5
+Ameth 5★ R31 Lv292 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/r466vzw.png)
+
 [B1 Physical 52-55m - 0 manual](https://www.youtube.com/watch?v=i7GbIZUYv5k)
 ![](https://pomf2.lain.la/f/zpmgdsl.png)
 Tested with: 
@@ -134,8 +145,8 @@ Ceremonial Illya 3★ R31 Lv292 FULL, EX 5/5/5
 
 ![](https://pomf2.lain.la/f/d0q7qngk.png)
 
-[B3 Physical 45-47m - 1 manual input](https://www.youtube.com/watch?v=yFqHA4HLR04)
-![](https://pomf2.lain.la/f/9zeyg2a3.png)
+[B3 Physical 47-48m - 1 manual input](https://www.youtube.com/watch?v=IgkkaZmqpaA)
+![](https://pomf2.lain.la/f/ftlc1g3l.png)
 Tested with: 
 Christina 6★ Lv292 R31 FULL, EX 5/5/5
 Labyrista 5★ Lv292 R31 FULL, EX 5/5/5
@@ -143,7 +154,7 @@ Halloween Miyako 5★ Lv292 R31 FULL, EX 5/5/5
 New Years Misato 5★ Lv292 R31 FULL, EX 5/5/5
 Shiori 6★ R31 Lv292 FULL, EX 5/5/5
 
-![](https://pomf2.lain.la/f/avzs6gdu.png)
+![](https://pomf2.lain.la/f/omzagjej.png)
 
 [B3 Magic 44m - 0 manual inputs](https://www.youtube.com/watch?v=zY4FY0-Tn8Q)
 ![](https://pomf2.lain.la/f/1u4699rn.png)

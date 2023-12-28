@@ -68,7 +68,6 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 	- Human, not furry, 5 fingers
 	- Anthro, furry, fluff, tuft, paws, slit pupils
 
-
 ### Drag and drop starter workflows
 > ※ Will likely have to change the vae and lora
 Auto1111 | ComfyUI&nbsp;&nbsp;
@@ -100,7 +99,6 @@ Example | &nbsp;
 ![](https://files.catbox.moe/9ex2b7.png?height=150&width=150) | ![](https://files.catbox.moe/8f0n2e.png)
 
 
-
 ## Optional and Additional
 
 ### Negative embeddings 
@@ -115,6 +113,11 @@ Embedding | Effect
 [dfc](https://civitai.com/models/187118?modelVersionId=210141) | dull, flat, color
 [ubbp](https://civitai.com/models/187118?modelVersionId=210123) | unbelievably bad body parts
 [updn](https://civitai.com/models/187118?modelVersionId=210143) | ultra-saturated, painting, drawing, 
+
+### Misc tip section
+
+- On Auto with lora block weights you can do something like %#389090%<lora:HLL:1:start=5>%% in order to get more EF composition 
+	- %#389090%<lora:LCM:1:stop=5>%% being put in the mix especially bakes in the EF and lets the rest of the steps work on the style
 
 ### Fixing washed out artists
 

@@ -29,7 +29,7 @@
 - - -
 ######
 
--> ![Kobbo Prompt. (Almost ready)](https://files.catbox.moe/2im7ug.gif) <-
+-> ![Kobbo Prompt. (Development paused until Jan 6)](https://files.catbox.moe/2im7ug.gif) <-
 -> Closed BETA in progress<-
 
 ######
