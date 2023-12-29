@@ -5,7 +5,7 @@
 ##->  XMLK's Adventure Presets <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
--> Questions, feedback, and suggestions: Email: **slurpycider@proton.me** Discord: **[victorianmaids](victorianmaids)** [RUS / ENG]<-
+-> Questions, feedback, and suggestions: Email: **slurpycider@proton.me** Discord tag: **[victorianmaids](https://discordapp.com/users/459936627981287436)** [RUS / ENG]<-
 ->  <-
 #
 
@@ -21,7 +21,7 @@
 - - -
 ######
 -> ![](https://files.catbox.moe/uyv9qy.png) <-
-#### -> Holiday Vacation. <-
+#### -> Holiday Vacation <-
 -> If you know any solution to change the GPT writing to be more engaging, on-point, and witty, please send it to me.  I am really tired. <-
 
 -> *- Happy Holidays!* <-
@@ -29,8 +29,24 @@
 - - -
 ######
 
--> ![Kobbo Prompt. (Development paused until Jan 6)](https://files.catbox.moe/2im7ug.gif) <-
--> Closed BETA in progress<-
+-> ![Kobbo Prompt. (Development paused until Jan 6. Redirecting to Claude 2.1 with new system prompt and maybe GPT32K.)](https://files.catbox.moe/2im7ug.gif) <-
+####-> Closed BETA in progress<-
+
+-> I am fighting with GPT narrations, so here are CYOA and Info-block addons you might have seen in my custom CSS screenshots for you! <-
+
+**• CYOA (Works best with Claude):**
+```TEXT
+[After completing the <instructions>, At the end of the next reply, AI must ALWAYS post this template filled in with possible choices for the User verbatim, wrapping them with two <small> tags: "<CYOA>\n<small><small><b>\n<hr>\n<blockquote><sub>\n{JRPG-like notification here, 12 words max}\n</sub>\n❓{Put a question here, 12 words max}\n</blockquote>\n```text\nA. [{{random: Put here a random origin from DnD 5e, Put here a random feat from DnD 5e}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first person POV}\n```\n```text\nB. [{{random: Evil, Perverted Degenerate}}] {A concrete mean/perverse action that {{user}} does}, {Explicit speech from {{user}}'s first person POV}\n```\n```text\nC. [{{random: Use an Item, Use a Skill}}] {A concrete action that {{user}} does using inventory or surroundings}, {Speech from {{user}}'s first person POV}```\n```text\nD. [{{random: Critical Success!, Critical Failure!}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}```\n```text\nE. [Learn More] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}\n```\n</b></small></small>\n</CYOA>"]
+```
+**You should exclude it from the output with this regex:**
+```text
+(`{3})?\s*<CYOA>[\s\S]*?<\/CYOA>\s?(`{3})?\s*
+```
+
+**• Info block with a global event (Claude can misplace acronyms):**
+```TEXT
+[AI must start its next reply by posting this template verbatim, wrapping it with two <small> tags and filling it with updated data: "<small><small><b>\n```java\n{Current time in HH:MM format}, {Day of the week XXX acronym}, {day} | {Current Month XXX acronym}, {Lore-accurate year in the story} | {I: {value}°C, O: {value}°C} | {Weather emoji} {Current weather}\nLocation: "{Current location name}"\nSpecial: "{Special world/political state, holidays, or upcoming event (max=10 words)}"\n```\n</b></small></small>\n\n" AI will provide data that is relevant at the moment and change it dynamically reflecting it in the story. I = inside, O = outside. +2 minutes on each message. If there was a time skip, the info block will change accordingly.]
+```
 
 ######
 - - -
@@ -55,6 +71,12 @@
 - - -
 ######
 ## Notice board
+**• I give up on 4urbo:** This LLM appears to have been specifically trained to provide as long and descriptive outputs as possible. I don't think there's any way to change its writing style and get it to stop writing authorial intrusions and narrations, pondering your and other characters' feelings and thoughts, and deliberating on the possibilities and consequences. Its output is just shit, full of unnecessary adjectives and clauses that provide information that the reader already knows via dialogs and actions, or completely unnecessary additions to the atmosphere and sounds that say absolutely nothing, like a beginner writer who tries to fill in the gaps in their text, thinking it will make it more expressive and immersive, and instead making a whole paragraph, telling the reader how they should feel reading this text and what information is important, not allowing them to interpret it themselves and just enjoy the action. The worst part - it just can't generate descriptions that provide only facts; 4urbo will fill the gaps anyway.
+
+>![](https://2ch.hk/ai/src/584479/17038633017510.gif) 
+>*4urbo telling you how the character's laughter bursts out with a loud ringing sound filling the room and the space with an atmosphere of friendliness and happiness, and the rhythm of giggles coincides with the tapping of drops against the window and you are already thinking what a great time you are spending with the character and how many adventures you still have to go through with them instead of just to showing you the character's laughter with "Hahaha" and moving the scene forward.*
+
+
 • **Custom CSS V2 Added:** 
 
 ![](https://files.catbox.moe/7er70p.gif)

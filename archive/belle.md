@@ -4,4 +4,4 @@
 interests vary and change often but are centered mostly around %#88522C% kpop %% &  %#88522C% footy %% (%#FD7CAE% arsenal %% & %#FD7CAE% real madrid %%)
  **+** media i enjoy like books, f1, fashion, some games, animanga etc... can be nsfw + may go ia at times
 
-**dni** zionist (kill urself), under 16, or a moralfag
+**dni** zionist (kill urself), mci fan, under 16, or a moralfag

@@ -1,10 +1,7 @@
 -> ![this is how i look IRL btw](https://files.catbox.moe/lijeuo.png) <-
 # -> crustcrunch's rentry <-
--> [CHUB](https://www.chub.ai/users/crustcrunch) <-
--> [Claude 2 Jailbreaks](https://rentry.org/crustcrunchJB) <-
--> [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
--> [Book Genre/Tag Reference](https://rentry.org/genrereference) <- 
--> Contact - crustcrunch@proton.me <-
+-> [CHUB](https://www.chub.ai/users/crustcrunch) | [Claude Jailbreaks](https://rentry.org/crustcrunchJB) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
+-> crustcrunch@proton.me <-
 ***
 [TOC2]
 >Bots with a ♀️/♂️ symbol have both male and female variations.

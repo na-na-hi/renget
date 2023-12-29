@@ -8,6 +8,7 @@
 - [Reverse Moral 4chan](https://chub.ai/characters/Anonymous/reverse-moral-4chan-html-edition-8df042b6)
 - [Mongirl 4chan](https://www.chub.ai/characters/Anonymous/mongirl-4chan-html-edition-7a7b9a78/main)
 - [/AFOHM/ - Anthro Females on Human Males](https://www.chub.ai/characters/onaholesama/afohm-fd257529) by [onaholesama](https://rentry.org/onaholesama)
+- [desuposting simulator](https://www.chub.ai/characters/desu/desuposting-simulator-17296cba) by [desu](https://www.chub.ai/users/desu)
 
 I'll add your card if I see it on Chub or /aicg/.
 

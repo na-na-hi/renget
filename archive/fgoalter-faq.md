@@ -45,10 +45,12 @@
 5. Reopen up the target instance, click the "ID: Tap here to display" at the bottom and it should show your FC if done correctly.
 
 > 3T Looping Teams for Future Lottos:
-- [Tunguska Sanctuary Beast IV Raid Cherishment node](https://arch.b4k.co/vg/search/text/Tunguska%20Sanctuary%20Beast%20IV%20Raid%20Cherishment%20node/)
-- [Christmas 7 90+](https://arch.b4k.co/vg/search/text/Christmas%207%2090%2B%20node/)
-- [Space Odysseus Teslafest](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%20/)
+- [Space Odysseus Teslafest 3rd Term 90+](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%203rd%20Term%20/)
 - [Faerie Knights Cup festival](https://arch.b4k.co/vg/search/text/Faerie%20Knights%20Cup%20festival/)
+- [Illyafest 2nd Term 90++ 6CE](https://arch.b4k.co/vg/search/text/Illyafest%202nd%20Term%2090%2B%2B%206CE%3A/)
+- [Illyafest 3rd Term 90++ 6CE](https://arch.b4k.co/vg/search/text/Illyafest%203rd%20Term%2090%2B%2B%206CE%3A/)
+- [GudaGuda 7 90++](https://arch.b4k.co/vg/search/text/GudaGuda%207%2090%2B%2B%20node/)
+- [Nemomas 90++](https://arch.b4k.co/vg/search/text/Nemomas%2090%2B%2B%3A/)
 
 ### Tools 
 > FGO Combat Sprites Viewer:

@@ -1,9 +1,7 @@
 -> ![I LOVE PURIN!!!!!](https://files.catbox.moe/xc6ctw.png) <-
 # -> crustcrunch's GPT Jailbreaks <-
--> [Main Rentry](https://rentry.co/crustcrunch) <-
--> [Claude 2 Jailbreaks](https://rentry.org/crustcrunchJB) <-
--> [Book Genre/Tag Reference](https://rentry.co/genrereference) <- 
--> Contact - crustcrunch@proton.me <-
+-> [CHUB](https://www.chub.ai/users/crustcrunch) | [Main Rentry](https://rentry.co/crustcrunch) | [Claude Jailbreaks](https://rentry.org/crustcrunchJB) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
+-> crustcrunch@proton.me <-
 ***
 **Table of Contents**
 [TOC2]
