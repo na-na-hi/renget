@@ -67,6 +67,8 @@ Here will be everything submitted for the contest during the submission period. 
 
 ####SFW Archive
 [There Are Days That Last Forever.](https://docs.google.com/document/d/e/2PACX-1vR3Fx6WkSppDfdZWvlhPUWiAWMQVgVHqX-ZON4tPr0hBYRsHgWrZLtaT-fiXp-InXFUiRJpg4Hge4mG/pub)  Tokoyami Towa, **Fluff, Drama, SFW**
+[Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) **SFW**, Amelia Watson, Takanashi Kiara, **Fluff**, Amelia Watson/(You)
+
 
 ####NSFW Archive
 [A cozy evening in the foxhole.](https://rentry.org/w5esx2)  (Fubuki, **NSFW, Fluff) Untagged Under 5k** 
@@ -75,5 +77,7 @@ Here will be everything submitted for the contest during the submission period. 
 [Shiori's Fucking Monologue](https://rentry.org/edsur)  **NSFW**, Shiori, Monologue, **Comedy, Under 5k**
 [Heaven, Hell and the USDA](https://rentry.org/HHatUSDA-1)  **NSFW**, Coco, Towa, Kanata, lesbian, bdsm, **under 5k**
 [Heaven, Hell and the USDA 2: Divine Intervention](https://rentry.org/HHatUSDA-2)  ^ **NSFW**, Coco, Towa, Kanata, heaven vs hell, domination, **under 5k**
+[Heaven, Hell and the USDA 3: Fall and Rise](https://rentry.org/HHatUSDA-3)  ^**NSFW**, Coco, Towa, Kanata, bdsm, titty drop, under 5k
 [Homely relief.](https://rentry.org/vshcu)   Ookami Mio, **NSFW, fluff. Untagged under 5k**
-[Stacy Pacification](https://rentry.org/5d6wh) **NSFW**, Suisei, Hoshikawa, Aqua, comedy, greentext, rivalry, seduction, **Under 5k**
+[Stacy Pacification](https://rentry.org/5d6wh) **NSFW**, Suisei, Hoshikawa, Aqua, **comedy**, greentext, rivalry, seduction, **Under 5k**
+[Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) **NSFW**, Botan, /ss/, Anal, Furry(?), Parody

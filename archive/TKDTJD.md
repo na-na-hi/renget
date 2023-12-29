@@ -2027,3 +2027,170 @@ Islamic Resistance in Iraq:
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1740137455217525076#m  12/27/23
+
+>Al-Qassam (Hamas) has since this morning, targeted:
+
+- 1 military D9-bulldozer
+- 7 military vehicles (+ 1 destroyed)
+- 2 Merkava tanks
+https://nitter.net/AryJeay/status/1740331201880379682#m  12/28/23
+
+>Euro-Med Monitor: Nearly 30,000 Palestinians killed in 82 days of Israeli genocide in Gaza
+https://nitter.1d4.us/QudsNen/status/1740257446226960627#m  12/28/23
+
+>Saraya Al-Quds (PIJ) published scenes sites & military concentrations getting shelled by rockets & mortars, east of Khan Yunis.
+https://nitter.net/AryJeay/status/1740321333928440105#m  12/28/23
+
+>Under the protection of the Israeli occupation police, settlers storm the Al-Aqsa Mosque. it should be mentioned that many Palestinians are prevented from reaching the mosque for prayer, while settlers who storm it are protected.
+https://nitter.1d4.us/QudsNen/status/1740301559496392791#m  12/28/23
+
+>UN report highlights worsening human rights crisis in West Bank, urges occupation to halt unlawful killings
+https://nitter.1d4.us/QudsNen/status/1740373299895398715#m  12/28/23
+
+>Spokesperson for the Ministry of Health in Gaza Ashraf al-Qudrah: "50,000 pregnant women are suffering from thirst, malnutrition, and lack of healthcare in displacement shelters."
+https://nitter.1d4.us/QudsNen/status/1740373224360497508#m  12/28/23
+
+>Iranian Foreign Minister:
+
+Hamas informed us that it has sufficient capabilities to continue the confrontation for several months
+https://nitter.net/ME_Observer_/status/1740366105804509692#m  12/28/23
+
+>Islamic Resistance in Iraq confirms:
+
+Attacking the US base in the Koniko field, deep in Syrian territory, with a missile barrage, hitting its targets directly.
+https://nitter.net/AryJeay/status/1740384541959725340#m  12/28/23
+
+>Spokesperson for Civil Defense in Gaza to Al Jazeera: "There must be support for Civil Defense in Gaza to fulfill our duty, but unfortunately, we have not received any tools until this moment."
+https://nitter.1d4.us/QudsNen/status/1740382991153598844#m  12/28/23
+
+>Media coverage | Israeli Broadcasting Corporation: The Forum of Directors of Psychiatric Hospitals calls on the Israeli state's comptroller to declare a state of emergency, noting an increase in the number of mental illnesses and suicides among Israelis settlers and soldiers.
+https://nitter.1d4.us/QudsNen/status/1740389906055409909#m  12/28/23
+
+>Gaza residents have spotted more US-made munitions used by Israeli forces in their neighborhoods.
+https://nitter.1d4.us/QudsNen/status/1740385465256042910#m  12/28/23
+
+>Michael Ben Ari, a former Knesset member, has articulated a highly racist perspective on the Gaza war, advocating that the best "Humanitarian Solution" is by ethnically cleansing Gaza of its Arabs. Stating that "As long as there still Arabs in Gaza, the state of Israel is threatened"
+https://nitter.1d4.us/QudsNen/status/1740410091059159544#m  12/28/23
+
+>The US Department of the Treasury: We imposed sanctions on an #Iranian network that finances Houthi attacks targeting international shipping
+https://nitter.net/ME_Observer_/status/1740400053188178091#m  12/28/23
+
+>“We are looking for babies but there is no babies left, I killed a girl that was 12, but we’re looking for babies”
+
+A circulating video shows an Israeli soldier bragging about killing Palestinian babies and children.
+https://nitter.net/QudsNen/status/1740229918896923052#m  12/28/23
+
+>Al-Qassam Brigades: 
+
+A Skylark-2 reconnaissance plane that was on an enemy intelligence mission was shot down north of the Tal al-Zaatar area in the northern #Gaza Strip.
+https://nitter.net/ME_Observer_/status/1740428742118289649#m  12/28/23
+
+
+>Speech HIGHLIGHTS by Hamas’ military wing Al-Qassam’s spox Abu Obeida:
+
+The Battle of the Al-Aqsa Flood has placed the Zionist entity on the path to demise.
+
+We have completely or partially destroyed 825 military vehicles since the beginning of the aggression on the Gaza Strip.
+
+After 83 days of the battle, the greatest military and jihad salute can only be deserved by our resilient people in Gaza.
+
+Our fighters carried out special operations to re-detonate unexploded israeli bombs & other ammunition.
+
+Our priority is to stop the aggression against our people (civilians), and no other priority precedes that.
+
+We targeted 3 enemy helicopters in the past 2 days.
+
+No exchange deals can be accepted before a complete cessation of aggression against our people (civilians).
+
+The world right now, is divided between the criminal oppressors and an incapable spectator.
+
+Our people will emerge from this aggression with their heads held high.
+https://nitter.net/AryJeay/status/1740436739351547967#m  12/28/23
+
+>Demonstrations are planned to persist throughout the night on New Year's Eve, with a focus on US embassies.
+https://nitter.1d4.us/QudsNen/status/1740442168651837489#m  12/28/23
+
+>Footage shows an IOF UH-60 Black Hawk helicopter deploying flares in northern Gaza during a medevac, and failing to continue its rescue operation after coming under fire by the resistance.
+https://nitter.net/AryJeay/status/1740450466624905352#m  12/28/23
+
+>Hezbollah published a video showing a compilation of several attacks against israeli occupation settlements on the border, such as Kiryat Shmona, in response to israeli attacks on Lebanese civilians.
+https://nitter.net/AryJeay/status/1740483274127081792#m  12/28/23
+
+>Sean Casey, Health Emergency Officer, describes the dire situation that hospitals are currently facing in Gaza.
+https://nitter.1d4.us/QudsNen/status/1740458683417428098#m  12/28/23
+
+>BIG SUMMARY of all resistance operations today, December 28, against US-israeli forces
+
+Al-Qassam Brigades:
+
+- (Partially) destroyed 8 military vehicles, 8 Merkava tanks & 1 military D9-bulldozer in various combat zones in the Strip. 
+
+- One of the Merkava tanks was hit with a Yassin-105, causing several explosions inside it, and Al-Qassam shelled the location with mortars, east of Al-Maghazi camp.
+
+- Shelled several military gatherings and vehicles in the Khan Yunis city area, south of the Gaza Strip, with mortars.
+
+- Successfully detonated an anti-personnel "Raadiya" explosive device against an infiltrating infantry force in the Khaza’a area, east of Khan Yunis, resulting in the death and injury of its members.
+
+- Shelled IOF forces in the Tall al-Rais area, with heavy-caliber mortars.
+
+- Completely destroyed a Zionist armored personnel carrier (APC) with a Yassin-105, east of Khan Yunis, south of the Gaza Strip.
+
+- Completely destroyed a Merkava tank with a Yassin-105, in Khan Yunis, south of the Gaza Strip, setting the tank ablaze (on fire).
+
+- Shot down a "Skylark-2" drone, carrying an intelligence mission, north of the Al-Zaitoun area, north of the Gaza Strip.
+
+ Al-Quds Brigades:
+
+- (Partially) destroyed 2 military vehicles in various combat zones in the Strip.
+
+- Shelled israeli soldiers & vehicles with a barrage of mortars, in the Talqadum axis, east of Al-Bureij camp.
+
+- Targeted a large gathering of israeli soldiers & an IOF command and control center in the Abu Uruban area, southeast of the Zaitoun neighborhood, with a concentrated rocket barrage.
+
+- Shelled military concentrations and vehicles at Hill 86 "Al-Kurd" in the axes north-northeast of Khan Yunis with a rocket barrage.
+
+Martyr Abu Ali Mustafa Brigades:
+
+- Targeted an IOF force inside a building, near "Street 5" in Khan Yunis, with RPGs, resulting in casualties.
+
+- Shelled a gathering of israeli soldiers, with mortars, north-northeast of Khan Yunis and the surroundings of Street 5.
+
+ Martyr Omar Al-Qassem forces:
+
+- Shelled a gathering of infiltrating military vehicles, east of Khan Younis, with heavy mortars.
+
+Al-Aqsa Martyrs Brigades:
+
+- Shelled IOF forces in the Khan Younis area with heavy-caliber mortars.
+
+- (Partially) destroyed 2 military vehicles with RPGs in the Al-Balad axis, in Khan Younis.
+
+- Clashed with IOF forces in the axes of east of Al-Tuffah, using machine guns & RPGs.
+
+Hezbollah:
+
+- Targeted a military site in the Shebaa Farms with appropriate weapons, causing direct injuries.
+
+- Targeted a group of israeli soldiers at the Honin barracks, with appropriate weapons.
+
+- Targeted the Ramim barracks with appropriate weapons, causing direct injuries.
+
+- Targeted artillery positions in the Ma'ar area with appropriate weapons, causing direct injuries.
+
+- Targeted a group of israeli soldiers in the vicinity of the Metat barracks with appropriate weapons, causing direct injuries.
+
+- Targeted an IOF military vehicle inside the Ramot Nafatali barracks with appropriate weapons, causing direct injuries.
+
+Islamic Resistance in Iraq:
+
+- Targeted the US base in the Koniko field in the Syrian depth with a rocket barrage, hitting its targets directly.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1740499237782081781#m  12/28/23
+
+>READ: The constant repeated Zionist aggression on Syria means that the drone attack by Iraqi Resistance was exactly on target.
+
+The drone attack by the Iraqi resistance yesterday, targeted the PIK Airfield, south of Eliad in the occupied Golan Heights. This airfield is utilized by the israeli "Elbit" military company to test its aircraft & drone systems.
+
+This attack must’ve been a painful one & sensitive for the israelis.
+https://nitter.net/AryJeay/status/1740505620900372682#m  12/28/23
