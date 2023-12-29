@@ -195,7 +195,9 @@ In addition to the ones provided by Dynamic Prompts, you can also find many othe
 https://rentry.org/NAIwildcards
 
 ## What is ControlNet?
-ControlNet has its own set of models that can be used to further influence the composition of an image based on images you feed to it. A good guide for this is https://rentry.org/IcyIbis-Quick-ControlNet-Guide, I mostly want to focus on the Tile model that can be used to improve SD Upscale results, as well as give links to pruned fp16 models that work for me while not taking up as much disk space.
+ControlNet has its own set of models that can be used to further influence the composition of an image based on images you feed to it.
+Good guides for this are https://rentry.org/IcyIbis-Quick-ControlNet-Guide and https://rentry.org/dummycontrolnet.
+I mostly want to focus on the Tile model that can be used to improve SD Upscale results, as well as give links to pruned fp16 models that work for me while not taking up as much disk space.
 ControlNet 1.1 pruned models: https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/tree/main
 These belong in stable-diffusion-webui\extensions\sd-webui-controlnet\models. Make sure to rename each .yaml file that comes with ControlNet so they are the same as the fp16 models (control_v11e_sd15_ip2p_fp16.safetensors belongs with control_v11e_sd15_ip2p_fp16.yaml, for example).
 

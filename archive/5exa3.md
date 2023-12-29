@@ -76,12 +76,16 @@ Auto1111 | ComfyUI&nbsp;&nbsp;
 
 ### You don't want to use the method above?
 
-**EPS version**
+**EPS versions**
 [**LS_Kerberos model**](https://huggingface.co/latent-space-dreams/LS_Kerberos/blob/main/LS_Kerberos.safetensors)
 >A mix of EasyFluff, HLL, and LS Vividus.
 - It's all baked in so you can skip the above steps
 - Has some issues with hands unless specified
 - A more standard 1.5 base resolution than EF has as vPRED
+
+[**Based68 model**](https://civitai.com/models/236447?modelVersionId=276610)
+> Read the civitai description for more info
+
 ***
 **Raw furry model wrangling**
 - Toggle refiner and set the checkpoint you want

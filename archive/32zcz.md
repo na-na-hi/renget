@@ -229,7 +229,7 @@ You lined your head with her entrance, Fubuki’s legs trembled at the feeling o
 
 “Wh-Why?”
 
-“I don’t… I heard aunt Hana saying something like that…”
+“I don’t… I heard aunt Ao saying something like that…”
 
 “You… want to stop?”
 

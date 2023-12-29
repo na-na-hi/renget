@@ -79,7 +79,8 @@ When Team Yin-Yang confronted Team Verdant, he fought Asana. The conflict shown 
 
 Cacturne didn't listen, and furthermore, he gave orders to Lombre not to shoot Sonora. He hesitantly complied, although he warned Makuhita and Asana that he wouldn't forget what they did – he stated he'd murder them both the next time they seen him, angered by what he saw as them psychologically manipulating someone that was so close to him, he saw them as a brother.
 
-In battle, Lombre is very dangerous if his opponents are unprepared. His aim with his Bubble Beams is top-notch, whether from a distance or up close. His Giga Drain roots can be used to keep opponents away from him, he can use Energy Ball on groups or stronger Pokemon, and his Ice Beam can shoot Flying-types right out of the sky. His Mach Ribbon and Swift Swim make him an extremely speedy opponent, and his ability to stay cool under pressure renders him dangerous no matter how badly hurt, angry, or demoralized he is.
+In battle, Lombre is very dangerous if his opponents are unprepared. His aim with his Bubble Beams is top-notch, whether from a distance or up close. His Giga Drain roots can be used to keep opponents away from him, he can use Energy Ball on groups or stronger Pokemon, and his Ice Beam can shoot Flying-types right out of the sky. His Mach Ribbon and Swift Swim make him an extremely speedy opponent, and his ability to stay cool
+ under pressure renders him dangerous no matter how badly hurt, angry, or demoralized he is.
 
 However, he has quite a few distinct weaknesses. He doesn't have Rain Dance, as its activation time is too slow for his tastes, so he has to rely on Rainy Orbs to utilize his Ability. They're in limited supply, and as Asana demonstrated in her second battle against him, he can be disarmed of them or have them destroyed. Utilizing both Swift Swim and his Mach Ribbon *does* speed him up to absurd levels, but this tires him out much faster than normally.
 
@@ -198,7 +199,8 @@ Rank: D
 Wanted For: Theft, Breaking and Entering, Assault
 Sex: Female
 Ability: Wind Power
-Location: Grass Continent
+Location:
+ Grass Continent
 Ampere is an easily excitable daredevil who joined Nickel's gang in order to go on high-stake robberies. She's rather fragile, but she can rain down electricity from the sky and can be rather creative when the mood strikes her.
 
 Shanks (Galar Slowbro):
@@ -224,7 +226,7 @@ Sex: Male
 Ability: Rock Head
 Location: Last seen in the Sand Continent
 Distinctive Features: Has darker skin and a skinnier build compared to other Marowak. He's also known for being able to control fire.
-Not much is known about this Pokemon, other than the fact that he works for a shadow criminal organization – even the name he gave Makuhita was nothing more than an alias. Due to his skill with his weapon and the properties of his signature move, Shadow Bone, he was able to dominate Makuhita until he first tapped into Aura Expression, breaking his bone in half and pressuring him badly enough to force him to retreat.
+Not much is known about this Pokemon, other than the fact that he works for a shadowy criminal organization – even the name he gave Makuhita was nothing more than an alias. Due to his skill with his weapon and the properties of his signature move, Shadow Bone, he was able to dominate Makuhita until he first tapped into Aura Expression, breaking his bone in half and pressuring him badly enough to force him to retreat.
 
 Purugly:
 Bounty: 1,000 Poke
@@ -253,7 +255,7 @@ Wanted For: Assault, Theft, Property Destruction
 Ability: Anger Point
 Distinctive Features: He has black fur, unlike most Tauros, and is also able to shoot flame from his horns.
 Location: Sand Continent
-This Pokemon got his moniker not only from his pyrokinetic abilities, but also from his extremely violent and aggressive temperment – he has been known to start fights over the slightest of issues. Makuhita and Asana tried pursuing him once, following him into what was formerly the Shah's lands. He was captured by Shamshir's men the day before Team Yin-Yang arrived and sent to the capital for judgement, although the political upheaval in the region has left his fate uncertain.
+This Pokemon got his moniker not only from his pyrokinetic abilities, but also from his extremely violent and aggressive temperment – he has been known to start fights over the slightest of issues. Makuhita and Asana tried pursuing him once, following him into what was formerly the Shah's lands. He was captured by Shamshir's men the day before Team Yin-Yang arrived and was sent to the capital for judgement, although the political upheaval in the region has left his fate uncertain.
 
 
 ~~Thievul the Shadow~~:
@@ -335,7 +337,7 @@ He's the leader of Team Masquerade, alongside their eyes and ears. He and his pa
 Empoleon:
 Sex: Male
 Ability: Torrent
-He's the muscle of Team Masquerade and was immensely prideful, bordering on slight arrogance. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
+He's the muscle of Team Masquerade and was immensely prideful, to the point of blinding him to the good traits in those "lesser" than him. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
 
 
 #####Team Stakeout:
@@ -446,7 +448,8 @@ Kimberton is one of many mining towns, and is the home of Bismuth, who's the loc
 A location near the center of the Thirsty Desert known for being even hotter than the rest of the region. It's basically Death Valley levels of hot. Team Verdant's base is located in a cavern in one of its walls, where they are protected from the heat.
 
 #####The South:
-The South is split into two sub-regions, the Southeast and the Southwest. The Southwest, unlike the rest of the Sand Continent, is rather frigid. Notable Mystery Dungeons include the Hall of Magic and Snowy Cave. The Southeast is primarily made up of deserts, mountains, and coastline, and is where Sahra Town is located.
+The South is split into two sub-regions, the Southeast and the Southwest. The Southwest, unlike the rest of the
+ Sand Continent, is rather frigid. Notable Mystery Dungeons include the Hall of Magic and Snowy Cave. The Southeast is primarily made up of deserts, mountains, and coastline, and is where Sahra Town is located.
 ######Krabby Cave:
 A small Mystery Dungeon to the south of Sahra Town. As the name implies, its entrance is in the shape of a Krabby. It's rather small, and mostly home to Water-types. Hitmontop used to use the bottom of this dungeon as a hideout.
 ######Snowdrift:

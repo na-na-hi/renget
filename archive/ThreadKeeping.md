@@ -181,16 +181,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Builds
->Class 1-C (Shiketsu)
->Isabela Nakahata
->>91351414
->Lilinah ‘Riri’ Inoue
->>91347120
->Ysmir Dragonborn
->>91349452
->Daniel W. Rain
->>91352447
+New Pro Hero:
+>Astra Smalls Aka Size King
+>>91360064
+
+New Writefags:
+>Dinner For Three (Capture Cloth, Bakeneneko)
+https://rentry.org/adknw
+>Brightly VS The Toy Army
+>>91361422
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -402,6 +401,8 @@ Page 4
 >>91016593
 >Yosuke Shirai HN The Lustrous Hero, Wavelength
 >>91032513
+>Astra Smalls Aka Size King
+>>91360064
 
 >SUPPORTERS:
 >Lady Astoria Belmont
@@ -732,6 +733,10 @@ Writefags (final)
 https://rentry.org/7vr2zf
 >A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
 https://rentry.org/hwiz8
+>Dinner For Three (Capture Cloth, Bakeneneko)
+https://rentry.org/adknw
+>Brightly VS The Toy Army
+>>91361422
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

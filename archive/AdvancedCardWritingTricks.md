@@ -289,6 +289,14 @@ You can embed videos in HTML. [**Mira**](https://www.chub.ai/characters/LobsterJ
 
 ───── ⋆⋅☆⋅⋆ ─────
 
+You can create website-like interfaces, like in [**The last /aicg/ thread**](https://chub.ai/characters/Anonymous/the-last-aicg-thread-html-edition-cb5609d0/main). See also [this prompt](https://desuarchive.org/g/thread/97790758/#97791632).
+
+[Here's a tutorial for making a 4chan simulator card.](https://rentry.org/MakingA4chanSimCard)
+
+![](https://files.catbox.moe/kzwpwr.jpg)
+
+───── ⋆⋅☆⋅⋆ ─────
+
 There’s lots of cool stuff you can do with inline styles. Go wild. Try `<marquee>`.
 
 ───── ⋆⋅☆⋅⋆ ─────

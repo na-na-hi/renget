@@ -242,4 +242,5 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 !!! info
 	**Status: In Progress**
 [**[1]** *Hard mode is pretty bullshit*](https://arch.b4k.co/vp/thread/55133275/)
-[**[2]**](https://arch.b4k.co/vp/thread/55135891/)
+[**[2]** *More Kaizoshit retardation*](https://arch.b4k.co/vp/thread/55135891/)
+[**[3]**](https://arch.b4k.co/vp/thread/55140963/)

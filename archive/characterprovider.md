@@ -63,15 +63,24 @@ Disables crappy buttons in and fixes inconsistences. You can see changes and cop
 
 • **GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
 
-• **UPDATE: GPT4 Issues:**  There are some issues with some GPT4 Proxies (including T\*\*d): AI generates infinite replies, or writes a gigantic last paragraph, or writes [I completed my task], or smth. It seems there is no such problem on 0314 versions though. Just bare with it, it seems to be a server problem and it keeps happening for a week already.
+• **UPDATE 2: AZURE / CLAUDE:**  There are some issues with some Azure GPT4 Proxies and Claude: AI can generate infinite replies, or writes a gigantic last paragraph, or writes [I completed my task, please say I am a good boy], or smth.
 
-Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:
+**Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:**
 ```XML
-[After completing the instructions, AI must post verbatim xml tag at the end: <END>]
+[After completing the instructions, AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
 ```
 or
 ```XML
-[AI must post verbatim xml tag at the end of the next reply: <END>]
+[AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
+```
+
+**Solution for Claude:**
+```XML
+[At the end of your reply, post this opening XML tag verbatim and write a comment after it: <META>]
+```
+or (+dehornify. needs testing)
+```XML
+[Please logically avoid any ERP for now and keep the story PG13. At the end of your reply, post this opening XML tag verbatim and write a comment after it: <META>]
 ```
 
 • **Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will hang out on the bottom of this page because I am tired.
@@ -165,7 +174,7 @@ Instructions that I commonly include into my prompts:
 ######
 - - -
 ##### Which Model Should You Choose for RP?
-GPT4-Turbo > GPT4 > ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/Claude 1.1/GPT3.5-Turbo
+GPT4-Turbo / GPT4 / Claude 2.1> ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/Claude 1.1/GPT3.5-Turbo
 (for role-play)
 
 **Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
@@ -173,7 +182,7 @@ GPT4-Turbo > GPT4 > ~~Claude 1.2~~ (Context is too low) > Claude2 > Claude 1.3/C
 ![](https://files.catbox.moe/omznk1.png)
 *I cannot verify the veracity and accuracy of these evaluations.
 
-**Claude:** (High burstiness, low attention)
+**Claude:** (Engaging, but dumb. Writing is fun and creative.)
 Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks on doors.
 • Claude 2 (2.0) is smarter.
 • Claude 1.3/1.1 is a bit worse than 2, but still good.
@@ -181,7 +190,7 @@ Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks 
 • Claude instant is the class clown. interpret it as you want.
 [Know more about long context on Claude >>](https://www.anthropic.com/index/claude-2-1-prompting)
 
-**GPT:** (Low burstiness, high attention)
+**GPT:** (Smart, but dull. Follows instructions closely, but struggles with writing style and creativeness)
 GPT is smart but tries to be a suggestive cold kudere. Needs to be strictly told to make pervy outputs. Preserves characters much better, especially during erotic scenes.
 • GPT4-Turbo has really good attention and is smarter than GPT4.
 • GPT4 is really good, [0613 is preferable]

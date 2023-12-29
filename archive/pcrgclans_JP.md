@@ -10,7 +10,7 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-つるぺったん (28/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 416 (AAA) |  A clan that tries a bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan). Matrix is not strictly required, but you won't be considered a full member until you join.
+つるぺったん (30/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 416 (AAA) |  A clan that tries a little bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan).
 Wide Hips (29/30)| Delicious child-bearing hips are what the world needs. | Casual | 765 (AA) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
 Ayumisters (28/30) | For homeless misters and armpit enthusiasts | Casual | 1006 (A) | -
 Looplets (27/30) | A lazy kot is a beautiful kot. | Casual | 2237 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.

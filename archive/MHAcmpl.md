@@ -145,6 +145,7 @@ Atsushi Yamamoto: https://desuarchive.org/tg/thread/90944069/#90954666
 Atsushi Nabiki/HN: Shelong: https://desuarchive.org/tg/post/91008430/
 Tosuke Jinai HN Compound: https://desuarchive.org/tg/post/91016593/
 Yosuke Shirai HN The Lustrous Hero, Wavelength: https://desuarchive.org/tg/post/91032513/
+Astra Smalls Aka Size King: https://desuarchive.org/tg/post/91360064/
 
 ### Villains
 >Night Parade
@@ -1014,6 +1015,8 @@ Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people): https://rentry.org/oe
 Kaylee in Wonderland, Part Two!: https://rentry.org/69nav
 Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
 A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut): https://rentry.org/hwiz8
+Dinner For Three (Capture Cloth, Bakeneneko): https://rentry.org/adknw
+Brightly VS The Toy Army: https://desuarchive.org/tg/post/91361422/
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
