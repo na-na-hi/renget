@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Ukrainian conscientious objector
+https://files.catbox.moe/f52yre.mp4
 >Footage of odessa AA trying to shoot down geranium
 https://files.catbox.moe/z4lrp8.mp4
 >Zaluzhny: military command did not request 500k mobiks

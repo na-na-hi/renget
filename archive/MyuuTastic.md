@@ -1,3 +1,6 @@
+#Ehe~
+![n](https://files.catbox.moe/roaagp.jpg)
+
 !!!note I'm ip blocked on 4chan, i think ip range or something something. I'm mostly active in discord (either scylla or ST server)... so if you don't like that, contact me through my burner if you have questions, if you wanna send death encouraging messages, or if you have problems or questions you want me to answer. myukuuuuu@proton.me 
 
 

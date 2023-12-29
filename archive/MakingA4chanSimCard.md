@@ -7,6 +7,7 @@
 - [The last /aicg/ thread](https://chub.ai/characters/Anonymous/the-last-aicg-thread-html-edition-cb5609d0)
 - [Reverse Moral 4chan](https://chub.ai/characters/Anonymous/reverse-moral-4chan-html-edition-8df042b6)
 - [Mongirl 4chan](https://www.chub.ai/characters/Anonymous/mongirl-4chan-html-edition-7a7b9a78/main)
+- [/AFOHM/ - Anthro Females on Human Males](https://www.chub.ai/characters/onaholesama/afohm-fd257529) by [onaholesama](https://rentry.org/onaholesama)
 
 I'll add your card if I see it on Chub or /aicg/.
 
@@ -18,7 +19,7 @@ Each response is composed of 4chan posts. You can enlarge images by clicking on 
 
 ## How to do it?
 
-I recommend downloading one of the existing sims that seems closest to what you want, going over the greeting, main defs, example dialog and jailbreak, and editing it to make it yours. You'll need to know a few things for that, which I'll cover in the "Essential knowledge" section. I'll cover more details in "Optional nitty-gritty" if you want to know everything about how this works.
+I recommend downloading one of the existing sims that seems closest to what you want, going over the greeting, main defs, example dialog and jailbreak, and editing it to make it yours. (When publishing, don't fork, just publish normally.) You'll need to know a few things for that, which I'll cover in the "Essential knowledge" section. I'll cover more details in "Optional nitty-gritty" if you want to know everything about how this works.
 
 In order to pick which card to start from, here's how the existing sims differ:
 

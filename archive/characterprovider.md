@@ -36,8 +36,8 @@
 - - -
 ####⠀-> Donations Keep Me Motivated <-
 
--> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png)<-
--> Number of Special Kobolds: **5** <-
+-> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png) ![re****se 12$](https://files.catbox.moe/typ8fj.png)<-
+-> Number of Special Kobolds: **6** <-
 -> *Art by me. "..." - in progress* <-
 
 -> Boosty: https://boosty.to/xmlk/donate <-
@@ -136,9 +136,7 @@ Special thanks to [XMLS](https://rentry.co/ExpXMLProompts).
 - - -
 ##### Will You Enjoy These Prompts?
 
-**Short answer:** If you like cringy and ecchi anime, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
-
-**Longer answer:** These prompts are good if you seek an immersive, interactive, and erotic role-play adventure with characters with great characterization and environments, including supporting characters. They are not suitable for those wanting only porn-like output that converts any character into a whore, political satire, serious Hearts of Iron/Warhammer adventures or extreme violence. Characters will stay true to their descriptions and may be more witty. Sex is still pretty good in these prompts. I strongly recommend that you read the FAQ section, especially if you are new around here. (Some prompts has more focus on sex.)
+If you like cringy and ecchi anime, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
 
 The responses with these prompts are not CAI-like; they are more like the interactive novel ones or movie script-like.
 

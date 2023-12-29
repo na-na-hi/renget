@@ -197,7 +197,6 @@ https://rentry.org/lora_train
 https://rentry.org/HDGLoRaIssues
 https://rentry.org/hdglorarepo
 https://rentry.org/LazyTrainingGuide
-https://gitgud.io/gayshit/makesomefuckingporn#lora-list
 https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb
 https://rentry.org/lora-training-science
@@ -205,7 +204,7 @@ https://rentry.org/lora-training-science
 https://comfyworkflows.com
 https://comfy.icu
 ###AI Porn Guide
-https://gitgud.io/gayshit/makesomefuckingporn
+https://web.archive.org/web/20230925170223/https://gitgud.io/gayshit/makesomefuckingporn
 ###Block Merging
 https://rentry.org/BlockMergeExplained
 ###Clip Fix
