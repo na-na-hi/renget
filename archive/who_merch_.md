@@ -52,6 +52,9 @@ https://shop.hololivepro.com/products/hololivecloset_nanashimumei_1
 **hololive Friends with U plushie**
 https://shop.hololivepro.com/en/products/hololivefriends_nanashimumei
 
+**holoearth emote keychain**
+https://shop.hololivepro.com/en/products/holoearth_randomacrylickeychain
+
 - - -
 ###Games
 **Groove Coaster**

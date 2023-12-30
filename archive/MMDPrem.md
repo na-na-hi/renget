@@ -53,6 +53,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
+[[Booth]](https://witchcraft130.booth.pm/items/5381802) : Vocaloid - Hatsune Miku
 [[Booth]](https://witchcraft130.booth.pm/items/5238626) : Vocaloid - Kagamine Rin
 [[Booth]](https://witchcraft130.booth.pm/items/5084228) : Touhou - Hakurei Reimu -Limited-
 [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01032944.html) [[Melonbooks]](https://www.melonbooks.co.jp/detail/detail.php?product_id=1859938) : Kantai Collection - Luigi Torelli (UIT-25 / I-504)
@@ -93,6 +94,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/25049012) [[Booth]](https://kuroyuzu.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/5838) [[Twitter]](https://twitter.com/k1468) [[Website]](http://black-yuzunyan.lolipop.jp/) <-
 
 **Updated**
+[[Booth]](https://kuroyuzu.booth.pm/items/5248746) [[Fantia]](https://fantia.jp/products/527894) : Original - Mitsuki Nozomi 1.05
 [[Booth]](https://kuroyuzu.booth.pm/items/4150536) [[Fantia]](https://fantia.jp/products/322724) : Original - Irivelda Belfond 1.05
 [[Booth]](https://kuroyuzu.booth.pm/items/3452658) [[Fantia]](https://fantia.jp/products/206245) : Original - Haruyoshi Ruriri 1.01
 ***
@@ -218,10 +220,11 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yokechi (よけち)** <-
 -> [[Booth]](https://yokechiya.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/372247) [[Twitter]](https://twitter.com/yokechi02) <-
 
+[[Booth]](https://yokechiya.booth.pm/items/5285628) : Azur Lane - Owari -Gal & Bunny-
 [[Booth]](https://yokechiya.booth.pm/items/1852110) : Original - Saraka
 ***
 -> **Zy0n7** <-
--> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
+-> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/?sort=newest) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
 
 [[Gumroad]](https://zy0n7.gumroad.com/l/oknjub) : Dragon Maid - Tohru (+VRC / Blend / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/gopor) : Pokemon - Meowscarada (+VRC / Blend / SFM)
@@ -244,15 +247,10 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 ####-> List of 3DCG Model Creators <-
 -> **408** <-
 -> [[Booth]](https://408-booth.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06329.html) [[Pixiv]](https://www.pixiv.net/en/users/3319045) [[Twitter]](https://twitter.com/Jo_SKYLY) <-
-
-[[Booth]](https://booth.pm/en/items/3205427) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ295368.html) : Royal Adventurer Academy Pack 07
-[[Booth]](https://booth.pm/en/items/2772535) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ318715.html) : Royal Adventurer Academy Pack 08
-[[Booth]](https://booth.pm/en/items/3205427) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ340165.html) : Royal Adventurer Academy Pack 09
-[[Booth]](https://booth.pm/en/items/3799667) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ386431.html) : Royal Adventurer Academy Pack 10
 ***
 ####-> List of Blender Model Creators <-
 -> **Yusuf Umar (ucupumar)** <-
--> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
+-> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/?sort=newest) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
 [[Gumroad]](https://ucup.gumroad.com/l/efnuf) : Blue Archive - Karin (T-Pose Blend File)
 [[Booth]](https://ucup.booth.pm/items/5058895) [[Gumroad]](https://ucup.gumroad.com/l/saxxoe) : Last Origin - Constantia S2

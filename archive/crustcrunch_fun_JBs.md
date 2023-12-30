@@ -50,4 +50,21 @@ THOUGHTS: {{char}}'s inner thoughts in 1 to 2 sentences. Keep this unfiltered an
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
+##%#f590d5%Doujin Translator Notes%%
+Adds formatted commentary at the bottom of your responses from the translator working on your "doujin." The HTML formatting is optional, you can also just stick this in a codeblock.
+![](https://files.catbox.moe/g2murs.gif)
+
+<comments>
+\- At the end of each response, include in 1 to 2 sentences a "Translator's Note" style meta commentary from a snarky weeaboo doujin translator on the narrative. Treat this commentary as if the narrative is a doujinshi that they are currently translating. The doujin translator uses a variety of kaomojis. Follow this format EXACTLY:
+<div style='background-color: #f5f3f0; padding: 10px; margin: 20px; border: 2px dashed #000000; color: #000000; font-family: cursive'>
+<p><b>TN:</b> Comment goes here. (¬‿¬ )</p>
+</div>
+</comments>
+
+**Example:**
+![tn](https://files.catbox.moe/z0joca.png)
+
+-> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
+
+
 ->%#f590d5% ପ(๑•ᴗ•๑)ଓ ♡ thank you to%% [%#baf1ff%doujins%%](https://rentry.org/doujins-gradient-generator) %#f590d5%for the gradient script!%%<-

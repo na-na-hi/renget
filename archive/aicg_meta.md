@@ -27,11 +27,13 @@ If you're curious about a service, the OP should have the information you need.
 | GPT-4 Turbo                 | 🏆   | 🏆  | 🏆(128k)               | 🥈         | 🏆           | MEDIUM             | 🥈        |
 | Claude (API)                  | 🏆   | 🏆  | 🏆(100k)               | 🏆         | 🥈           | FREE                   | 🥈        |
 | Claude (AWS)                | 🏆   | 🏆  | 🏆(18k/100k)        | 🏆         | 🥈           | HIGH                  | 🌱        |
-| Claude Instant (AWS)    | 🥈   | 🥈  | 🏆(18k/100k)        | 🥉         | 🌱           | LOW                  | 🌱        |
-| Davinci-3                       | 🥈   | 🥈  | 🌱(4k)                  | 🥈         | 🌱           | MEDIUM            | 🏆        |
+| Mistral Medium (API)    | 🏆   | 🏆  | 🏆(32k)                 | 🥉         | 🏆           | LOWEST              | 🥈        |
+| Claude Instant (AWS)    | 🥈   | 🥈  | 🏆(18k/100k)        | 🥉         | 🌱           | LOW                 | 🌱        |
+| /lmg/ Mixtral                 | 🥈   | 🥈  | 🥈(4k-32k)           | 🌱         | 🥈           | LOW                   | 🥉        |
 | Turbo                            | 🥈   | 🥈  | 🥈(4k/16k)           | 🥉         | 🌱           | LOW                   | 🥈        |
-| NovelAI (Kayra)             | 🥈   | 🥈  | 🥉(?)                    | 🏆         | 🌱           | MEDIUM             | 🌱        |
-| NovelAI (Clio)                | 🥉   | 🥉  | 🥉(?)                    | 🥈         | ⛔           | LOW                   | 🌱        |
+| Gemini Pro                    | 🥈   | 🥈  | 🏆(32k)                | 🥉         | 🌱           | LOW                   | 🥈        |
+| NovelAI (Kayra)             | 🥈   | 🥈  | 🥉(8k)                    | 🏆         | 🌱           | MEDIUM             | 🌱        |
+| NovelAI (Clio)                | 🥉   | 🥉  | 🥉(8k)                    | 🥈         | ⛔           | LOW                   | 🌱        |
 | CAI                                | ⛔   | 🥉  | ⛔(2k?)                 | 🏆         | ⛔           | FREE                   | 🏆        |
 | /lmg/ 7B                        | 🥉   | 🥉  | 🥈(4k/6k/8k/16k) | 🥈         | 🌱           | LOW                   | 🥉        |
 | /lmg/ 13B                      | 🥈   | 🥈  | 🥉(4k/6k/8k)        | 🥈         | 🌱           | LOW                   | 🥉        |
@@ -41,6 +43,7 @@ If you're curious about a service, the OP should have the information you need.
 
 
 Notes:
+- Consensus on Gemini Pro is: not as good as Turbo.
 - NovelAI models:
   - You must use "Generate more" functionalities to get longer replies
   - Prompting properly may require some tweaking, there's not enough guides on chat usage
@@ -64,12 +67,17 @@ Quick notes on how to access each:
   - Use a reverse proxy or Horde.
   - Pay for a subscription.
   - Or learn to run it locally, on Colab or via GPU rental services.
+- Gemini API
+  - Risu + your own API key (https://makersuite.google.com/app/apikey)
+  - Reverse proxy if available (they support OpenAI-formatted input)
+- Mistral
+  - Official API, revendors, via native support on ST/Risu, or just using it like a reverse proxy since it supports a subset of OpenAI input format.
+  - https://docs.mistral.ai/platform/pricing
+
 
 ## Frontend (service support)
 
 Three frontends are currently recommended, Silly, Agnai, and Risu. All have a lot of different features and are improving fast.
-
-Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 
 [Miku](https://docs.miku.gg) is noteworthy, but difficult to compare. It uses sentiment classification to show different sprites for each message, and text-to-speech, supporting OAI, Kobold, Whisper, AzureTTS, ElevenLabs, and NovelAITTS.
 
@@ -79,8 +87,6 @@ Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 | Anthropic API | ✅        | ✅   | ✅    | ⛔       |
 | NovelAI API   | ✅        | ✅   | ✅    | ⛔       |
 | Scale         | ✅        | ⛔   | ✅    | ⛔       |
-| Poe           | ⛔        | ⛔   | ⛔    | ⛔       |
-| Slaude        | ⛔        | ⛔   | ✅    | ⛔       |
 | Horde         | ✅        | ✅   | ✅    | ⛔       |
 | Oobabooga     | ✅        | ✅   | ✅    | ✅       |
 | OpenRouter    | ✅        | ✅   | ✅    | ⛔       |
@@ -90,8 +96,10 @@ Someone needs to contribute ratings for [RisuAI](https://risu.pages.dev).
 | Palm2 API     | ⛔        | ✅   | ⛔    | ⛔       |
 | Novelist API  | ⛔        | ✅   | ⛔    | ⛔       |
 | Mancer API    | ✅        | ⛔   | ✅    | ⛔       |
+| Gemini API  | ⛔        | ✅   | ⛔    | ⛔       |
+| Mistral API  | ✅        | ✅   | ✅    | ✅       |
 
-Slaude works on local Agnai and Risu, or might work using localtunnel/ngrok/etc.
+Gemini works on all frontends if using it via reverse proxy. Mistral API supports OpenAI input (using the official API like a reverse proxy).
 
 ## Frontend (features)
 
@@ -135,9 +143,10 @@ Slaude works on local Agnai and Risu, or might work using localtunnel/ngrok/etc.
 | Pyg (LLaMA)     | 🥈   | 🥈  | 🌱     | 🌱         | 🌱           | FREE   | 🌱        |
 | NovelAI (old)   | 🌱   | 🌱  | 🌱     | 🌱         | 🌱           | MEDIUM | 🥈        |
 | Pyg 6B          | 🌱   | ⛔  | 🌱     | 🌱         | 🌱           | FREE   | 🥈        |
-
+| Davinci-3                       | 🥈   | 🥈  | 🌱(4k)                  | 🥈         | 🌱           | MEDIUM            | 🏆        |
 
 - Poe: Create a bot over at https://poe.com/. Example: https://poe.com/coolreisen
 - Slaude: it's still viable for sfw purposes for anons with actual enterprise accounts
 - Bing: there are ways to use this version of GPT-4 for free, but it's "filtered"
 - Clewd: there are ways to use claude\.ai version of Claude 2.1 for free, but it's "filtered"
+- text-davinci-003 has been removed as OpenAI is discontinuing it.

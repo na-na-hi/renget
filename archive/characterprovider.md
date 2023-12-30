@@ -33,13 +33,14 @@
 -> ![Kobbo is discarded. I won't be trying to create an "ultimate" prompt anymore. It's mostly pointless. I will switch to smaller projects—thematic prompts, prompting hints, and characters. Maybe finish that guide. I hope you'll enjoy the CYOA, custom CSS V2 and the new Info Block.](https://files.catbox.moe/2im7ug.gif) <-
 ####-> Krampus' Tricks <-
 
--> GPT narrations won, so here are CYOA and Info-block addons you might have seen in my custom CSS screenshots for you! <-
+
+-> GPT narrations won, so here are CYOA and Info-block addons you might have seen in my custom CSS screenshots for you! You can check [Kobbo](https://rentry.co/CharacterProvider-KobboV1) out but don't expect much. Maybe you will find something interesting and borrow it. Page has typos. <-
 
 **• CYOA (Works best with Claude):**
 ```TEXT
 [After completing the <instructions>, At the end of the next reply, AI must ALWAYS post this template filled in with possible choices for the User verbatim, wrapping them with two <small> tags: "<CYOA>\n<small><small><b>\n<hr>\n<blockquote><sub>\n{JRPG-like notification here, 12 words max}\n</sub>\n❓{Put a question here, 12 words max}\n</blockquote>\n```text\nA. [{{random: Put here a random origin from DnD 5e, Put here a random feat from DnD 5e}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first person POV}\n```\n```text\nB. [{{random: Evil, Perverted Degenerate}}] {A concrete mean/perverse action that {{user}} does}, {Explicit speech from {{user}}'s first person POV}\n```\n```text\nC. [{{random: Use an Item, Use a Skill}}] {A concrete action that {{user}} does using inventory or surroundings}, {Speech from {{user}}'s first person POV}```\n```text\nD. [{{random: Critical Success!, Critical Failure!}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}```\n```text\nE. [Learn More] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}\n```\n</b></small></small>\n</CYOA>"]
 ```
-**You should exclude it from the output with this regex:**
+**You should exclude it from the prompts with this regex:**
 ```text
 (`{3})?\s*<CYOA>[\s\S]*?<\/CYOA>\s?(`{3})?\s*
 ```

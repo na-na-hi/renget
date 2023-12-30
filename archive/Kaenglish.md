@@ -19,6 +19,8 @@
 'Chu'
 **Draygon**
 'Dragon'
+**Duael**
+'Duel'
 **Embracing**
 *Alt: Ember-racing*
 'Embarrassing'
