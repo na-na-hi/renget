@@ -87,6 +87,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/8rs0vj.png) | ![](https://files.catbox.moe/ygkzkw.png) | ![](https://files.catbox.moe/69mcl2.png) | ![](https://files.catbox.moe/8aswct.png)
 
+``` html
+{artist:zankuro}, artist:shigatake, artist:gogalking, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/3p2leo.png) | ![](https://files.catbox.moe/tjitoz.png) | ![](https://files.catbox.moe/13vbg9.png) | ![](https://files.catbox.moe/j5yjtx.png)
+
 ***
 # Stylized anime stuff???
 ``` html

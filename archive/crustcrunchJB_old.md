@@ -1,5 +1,4 @@
--> ![I LOVE PURIN!!!!!](https://files.catbox.moe/6zungu.png) <-
-# -> crustcrunch's Old Claude Jailbreaks <-
+# -> Archive for crustcrunch's Old Claude Jailbreaks <-
 -> [CHUB](https://www.chub.ai/users/crustcrunch) | [Main Rentry](https://rentry.co/crustcrunch) | [Claude Jailbreaks](https://rentry.org/crustcrunchJB) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
 -> crustcrunch@proton.me <-
 ***

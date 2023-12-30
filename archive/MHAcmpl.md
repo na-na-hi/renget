@@ -71,6 +71,7 @@ Johanna Hilt HN "The Gauntlet Hero, Weiss Schwarz": https://archive.4plebs.org/t
 Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
 Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
 Norman Smith HN Whatabout: https://desuarchive.org/tg/post/91046080/
+Rumi Aratsuki HN Hysteria: https://desuarchive.org/tg/post/91363307/
 The Rest: https://rentry.org/vx255
 
 >>U-A, Class 3-B
@@ -231,6 +232,7 @@ Samurai Haideraru VN "Rape Dwarf": https://archive.4plebs.org/tg/post/88458638
 "Spider Man": https://archive.4plebs.org/tg/post/88462539
 Todoroki Enji HN "Endeavor": https://archive.4plebs.org/tg/post/88927174
 Sara Torezo HN "Starshooter": https://archive.4plebs.org/tg/post/89029548
+Kuji Futoi: https://desuarchive.org/tg/post/91363451/
 
 ***
 

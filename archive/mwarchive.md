@@ -41,12 +41,11 @@ Likewise, general non-ai meme reactions, duplicates and non related are removed,
 - NOTE: The original non-MWG Oct-Nov Archive has been rolled into the new Archive
 - October Archives
 - Part 1 - 2.5 GB - 13,100 images
-- 
+- https://pixeldrain.com/u/BHnWQ2wK
 - Part 2 - 3.3 GB - 15,400 images
-- 
+- https://pixeldrain.com/u/zGQ86QQw
 - November Archives
-- Part 1 - 
-- 
+- Part 1 - < cleaning up >
 - All non-MWG memes from December onward are rolled into the main Archive series
 
 - Additional Archives

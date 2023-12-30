@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 11 | **Experience to Next Level:** 0/110
+**Level:** 11 | **Experience to Next Level:** 10/110
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 1245₽ | **Glorious Gold:** 0 Bars
 
@@ -24,7 +24,7 @@ Pokémon's Ability | Description
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Rookie Rank<-
-->*305/400 points to Normal Rank*<-
+->*365/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -90,7 +90,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Empty | Empty inventory slot.
+1. Noxious Scarf | Badly Poisons the user.
 2. Empty | Empty inventory slot.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.

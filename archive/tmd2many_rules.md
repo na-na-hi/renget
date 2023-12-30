@@ -730,6 +730,7 @@ Sometimes, however, Consumable Items can act as an Equipped Item.
  - When a Consumable Item such as a Fire Gem is held in a Pokémon's hand as an Equipped Item, it will be used immediately when they use a Fire-Type Move. 
  - If the Consumable Item is instead a Pecha Berry, it will be eaten the moment the User is afflicted with *Poison.*
    - Consumable Items held in a Pokémon's hand are **unable to be manually-used,** and are solely and automatically activated upon their respective usage prompt, I.E. Move usage, Status Conditions, damage taken. 
+   - Berries which heal are used immediately upon reaching ⅓ HP.
 
 Only **one** Item can be held in one's hand, even if the Item can be grouped, like Berry Leaves.
 

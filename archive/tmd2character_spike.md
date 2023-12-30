@@ -7,16 +7,16 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 10 | **Experience to Next Level:** 65/100
+**Level:** 11 | **Experience to Next Level:** 15/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 770₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 670₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*165/400 points to Normal Rank*<-
+->*225/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -75,8 +75,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Marbled Stone | Does 4 true damage to a target, is lobbed.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Oran Berry | Heals the user for 10HP.
+2. Oran Berry | Heals the user for 10HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -85,8 +85,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like sugar.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
+2. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

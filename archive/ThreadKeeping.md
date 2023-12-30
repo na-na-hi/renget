@@ -77,13 +77,12 @@ Nemna-Sul
 >>91344909 
 Darth Bussy
 >>91348813 
->Grok Ko'Garr
+Grok Ko'Garr
 >>91370410
->Darth Smolg
+Darth Smolg
 >>91370938
->Syko
+Syko
 >>91373384
-
 
 >Indpendent
 Twen Ty
@@ -109,9 +108,9 @@ Page 3
 ***
 ```
 >Writefags
->IG-SX Saber Chart
+IG-SX Saber Chart
 https://rentry.org/abf4o
->Tremors in the Force
+Tremors in the Force
 https://rentry.org/akat8
 ```
 

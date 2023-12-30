@@ -1,3 +1,5 @@
+Add Niamh on Discord: littlest_hipster
+
 [Niamh's spotify playlist! Feel free to check it out!](https://open.spotify.com/playlist/423Ss6QFJAhnfFDWCc6P7A?si=617c9c3b161c41c4)
 
 
