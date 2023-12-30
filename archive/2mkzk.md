@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
-**SAT: Mega Man Y+1: Operation X.M.A.S. at 3UTC (Parsec)**
+**SAT: Mega Man Y+1: Operation X.M.A.S. and Mega Man Shattered Diamond Demo at 3UTC (Parsec)**
 **SUN: Minemelt at 19UTC* (Minecraft)** possibly sabe NY hack too if it's out in time
 
 ##Cytubes

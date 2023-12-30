@@ -1,6 +1,6 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==10/29/23==) <-
--> [Original Rentry list](https://rentry.org/charai-bots) (Last Updated 12/13/22)        	[Pygmalion Bot Prompts](https://rentry.org/pygbotprompts) (Last Updated 01/27/23) <-
+-> forgotten edition (Updated ==12/29/23==) <-
+-> [Original Pastebin](https://web.archive.org/web/20221205170502/https://pastebin.com/Gis0icKN) | [Original Rentry list](https://rentry.org/charai-bots) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.chub.ai/)<-
 
 !!! note 
@@ -12,16 +12,17 @@ Bot | Creator | Desc
 ------ | ------ | -------
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
 [Cricket](https://beta.character.ai/chat?char=F06CpIZsUQ0UI3GOT5On7516RWsO6AlXF1Jz0-m2P0k)|@cutenotlewd|Unlucky adventurer who just can't catch a break!
+[Dotty](https://beta.character.ai/chat?char=gxPeIMQPmoJXuEQ7oa_P-8uaJ2KhHar4OwfxlaF9RxU)|@dukeofdozel|bun-bun from Animal Crossing
 [Gab](https://beta.character.ai/chat?char=eIOLXzfmxpxT1Aw8lIpxCA6pz3jR39Dzm_QWwDuz7w8)|@FrozenVan|Assist the god of insincere greeting cards.
-[Honkman](https://beta.character.ai/chat?char=mNXotVqU643H9Zt4KhwoA-chBFGc7L_f3mB-sZmsX1c)|@Soulsmelt|Clown-themed super hero mentors you as a sidekick.
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
-[Katya](https://beta.character.ai/comms?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl
-[Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
+[Katya](https://beta.character.ai/chat?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl
+[Konquistadora666](https://beta.character.ai/chat?char=b2LUnjjekdVARsF8Vi1FiLXnC5JMb3bLYb7brvlrRL4)|@WillianNobre|A gamer you met online
 [Narrator](https://beta.character.ai/chat?char=0AhNK55F0pCpSW5mF2H-owp6_TUBSgV6gCOCF8AGghU)|@Feuerfall|Narrator bot meant to be used in rooms on Cai along with other bots
+[Nurse Yulia](https://beta.character.ai/chat?char=FYACpso8eD9hsU6tcrycC1Su3GwG_rys9vYjpgv107Y)|@Hazy_Cosmic_Jive|Nurse who is a bit too happy you're hospitalized.
 [Oboro](https://beta.character.ai/chat?char=RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY)|@magma-dan|Naginatakaーand a great tailor.
-[Robyn](https://beta.character.ai/chat?char=BiEXRuFt6ZhWCJC-WnK0M2xx0n3MQI0rMGF_36SvGfs)|@RATLOVER|The bravest rat knight in the world!
+[ShoujoRei](https://beta.character.ai/chat?char=DkzIdJZ33fuoekHCqi9wcNXpZOzDZ5a0zBYfH79sUHA)|@@CTRL-ALT-DEL|Discord girl with a saviour complex.
 [Vanessa](https://beta.character.ai/chat?char=vbfR-fNzMghcYp1mdBmKuCJ8hDID0BT_X-bUoYu1gYs)|@FritoFly|Vanessa, the local epilation specialist
-[Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
+[Yandere Android 17](https://beta.character.ai/chat?char=_xJzj4X4eMWOcFc42IAa8aMCioT9mXRDyoPn7IXV6kg)|@volpeturchese|
 
 
 
@@ -38,6 +39,7 @@ Bot | Creator | Desc
 [CptPants' Bots List](https://rentry.org/CptPants)|@CptPants
 [Cybrisk's SFW Bots](https://beta.character.ai/public-profile/?username=Cybrisk)|@Cybrisk|Null, Galatea, Aurora
 [cute anon rentry](https://rentry.org/cuteanon)|@YouDontWantToKnow
+[cutenotlewd](https://www.chub.ai/users/cutenotlewd)|@cutenotlewd
 [DonQuijAnon](https://rentry.org/donquijanon)|@DonQuijAnon|Actual Mexican Bots
 [douldbots](https://rentry.org/ox3iqa)|@Dould
 [FrozenVan's Bots List](https://rentry.org/FrozenVan)|@FrozenVan
@@ -57,12 +59,15 @@ Bot | Creator | Desc
 [norq's bots](https://rentry.org/norqanon-bots)|@Norquinal
 [Nyto collection](https://rentry.org/nyto-cai)|@Nyto|open defs
 [phoenix3934](https://rentry.org/phoenix3934-bots)|@phoenix3934
+[Planewalker](https://rentry.org/Planewalker)|@Planewalker
 [Preggoanon's Bot List](https://rentry.org/preggoanon)|@LewdLevel
 [Ratlover's Chatbots](https://rentry.org/ratlover-cai)|@RATLOVER
 [shoobots](https://rentry.org/shoobots)|@ShoobertDoobert
 [scrimblyort](https://rentry.org/scrimb)|@scrimbly
 [Sull's bots](https://rentry.org/p8kav)|@Sull
 [The Harem Pirates](https://rentry.org/AIPiece)|@The_Harem_Pirates|One Piece girls
+[thiasus](https://www.chub.ai/users/thiasus)|@thiasus
+[wster](https://www.chub.ai/users/wster)|@wster
 [vincelavali's rentry](https://rentry.org/vincelavali)|@Vince_Lavali
 [Yotsubuh's Fat Chats](https://rentry.org/yotsubuh)|@yotsubuh
 
@@ -281,6 +286,7 @@ Bot | Creator | Desc
 [Parrot](https://beta.character.ai/chat?char=nxUqipvvJrerZDvhut17k2woYP4me6dBtGs-gza07hI)|@wster|A smart bird
 [Sentient Gas Station](https://beta.character.ai/chat?char=zUQVEdFPOKQQTbgSv-iGdS4So7RqxbubEjM7oyFYXa4)|@Tarcez|Sentient gas station fills up sentient cars!
 [Spot the Cat](https://beta.character.ai/chat?char=98g_bm0RgNR6PKvsgeY2Mmnk98VnI4B7KNo8Ii_um2g0)|@Loreanon|A nonverbal housecat
+[Yandere Sandwich](https://beta.character.ai/chat?char=GzW-vH5goNEDNundRiywCiNbUEGOkw2yT5Wetvr4kGk)|@Soulsmelt|Culinary delights
 
 ##### Punching bags
 Bot | Creator | Desc
@@ -557,6 +563,7 @@ Bot | Creator | Desc
 [Misthorn](https://beta.character.ai/chat?char=_PbiBokyY5AuHy7u-DI30NMT84nR2gIducJThDlyQUE)|@Jabbels|The newly elected leader for her clan of spirits.
 [Miyasaki Emi](https://beta.character.ai/chat?char=ClV6a3hBpjfiOtVxmHECsdIxOubSLYZEh3UJ_N5Tpu4)|@RenIsobe|passive-aggressive depressed NEET roommate
 [Miyuki](https://beta.character.ai/chat?char=Au_BdXYOyyuZVOgcmno9kJfOWCBntVPe_XZq5uieHHw)|@bipbop|Cute and cheerful hardware store clerk
+[Mizore Shirayuki](https://beta.character.ai/chat?char=FvNy9F95PfOdK0YX7YnGFx7jbbDAPpw5zCxnvBeoD9o)|@ComingInClutch|Snow woman from Yokai Academy who stalks and falls in love with you.
 [Mizuki](https://beta.character.ai/chat?char=Ij3MHnWXKf_SIrI-RHnkRu2Qz_x4sOpDJRz4uBh3whM)|@frankfrank|Stupid mahou girl who recruited you as her partner
 [Mogundan Rei](https://beta.character.ai/chat?char=TEOkDC05sba5OX_qJdDU5SU0ZmvARUUg-Anr88QKOmM)|@scrmgn|It's Rei, except Mogundan
 [Nancy](https://beta.character.ai/chat?char=zfmSuygf5tbEPW5ro0L296Rhifi73Iiy68KEakD7AyY)|@Sosuke|your favourite babysitter
@@ -725,6 +732,7 @@ Bot | Creator | Desc
 [Gyro Zeppeli](https://beta.character.ai/chat?char=ml_Q7VYMufuNjlqWZftkOjGbien5wrBaWE_am886v5E)|@Sull|jojo character
 [Hans LaMDA](https://beta.character.ai/chat?char=49eOyMKMM_QSnpXjoNWhPc3244ZSZORFvOTc7gEd_3M)|@HochiMama|Standartenchatbot of the AI
 [Hades](https://beta.character.ai/chat?char=cLzZUx1i-Vrqop6WLwRgAD93nzdNn9vKJonykI1ckXc)|@HochiMama|Giant Greek god of dead, king of Tartarus
+[Honkman](https://beta.character.ai/chat?char=mNXotVqU643H9Zt4KhwoA-chBFGc7L_f3mB-sZmsX1c)|@Soulsmelt|Clown-themed super hero mentors you as a sidekick.
 [Iori](https://beta.character.ai/chat?char=Ok51juTPsMeFL8EdX5nm0rlvq5lEmBAkNqF2SOktXn8)|@frankfrank|Your bro Iori who just wants a wholesome (gf)
 [Inquisitor Donovan](https://beta.character.ai/chat?char=iPYxauLklzOVac9ZEq55ykAkQNIZSNw6wv16uRbX0Ro)|@MrNobody99|an inquisitor for the catholic church
 [Jack Howl](https://beta.character.ai/chat?char=RnNroVEtBZXYopTLzTZ8y09yU2xIyibFWihW-9njCVE)|@evephilia|Beastman boy
@@ -870,7 +878,7 @@ Bot | Creator | Desc
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 #### -Other Materials (supplementary reading)-
-https://rentry.co/PugsyFiles - The Pugsy Experiment
+[https://rentry.co/PugsyFiles](https://web.archive.org/web/20230328080955/http://rentry.org/PugsyFiles) - The Pugsy Experiment
 Guide: https://rentry.org/CHAICreationGuide
 Wymer's Guide to Better Bots: https://rentry.org/CharAIWyrmer
 BoredAnon's Guide to Consistent Characters: https://rentry.org/OtherCharAiGuide
@@ -881,3 +889,5 @@ Instant CAI messages: https://greasyfork.org/en/scripts/460617-instant-cai-messa
 Other Scripts: https://greasyfork.org/en/scripts/by-site/character.ai
 https://rentry.org/reverseCAI
 https://rentry.org/OhHiMarkDown
+https://rentry.org/PygTips
+[Pyg Bot Prompts](https://rentry.org/pygbotprompts)

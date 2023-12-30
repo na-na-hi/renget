@@ -683,6 +683,12 @@ Palestinian resistance targeting enemy soldiers and destroying its vehicles pene
 https://files.catbox.moe/rhly6g.mp4  12/27/23
 Hamas targeted tanks with yassion 105's 
 files.catbox.moe/a2lsur.mp4  12/27/23
+Al-Qassam (Hamas) published a video showing the recovery of a Zionist Skylark-2 drone
+https://files.catbox.moe/r8pf98.mp4 New  12/29
+Hamas Smokes more Idf tanks 
+https://files.catbox.moe/tddm07.mp4 New  12/29
+The Al-Qassam Brigades fired a missile salvo from northern Gaza towards our occupied territories
+https://files.catbox.moe/b6p6tu.mp4 New 12/29
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -791,6 +797,13 @@ https://files.catbox.moe/53z7b1.mp4 part 2   12/12/23
 >New Houthis Media Videos 
 Houthis spokesman saying they are not afraid al jazeera interview.
 files.catbox.moe/m1xspu.mp4 New  12/18/23
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+New Islamic Resistance Iraq
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attacked the “Kharab al-Jir” US base deep in Syria with a missile salvo
+https://files.catbox.moe/qm5w9n.mp4 New  12/29 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 News Clips and Videos 
@@ -943,3 +956,9 @@ https://files.catbox.moe/jqdibq.mp4  12/28/23
 
 >Us made munitions found in gaza neighborhoods 
 https://files.catbox.moe/4cn5jr.mp4  12/28/23
+
+>American economist Jeffrey Sachs: Discusses american involvement in the Israeli / Palestinian war
+https://files.catbox.moe/grrjo7.MP4 New  12/29/23
+
+>Weekly protests by Finnish activists in the capital, Helsinki, to encourage boycotting products of Israel in commercial complexes.
+https://files.catbox.moe/9ksewz.mp4 New  12/29/23

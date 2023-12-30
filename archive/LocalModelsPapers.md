@@ -120,6 +120,7 @@
 10/2023|[Generative Pre-training for Speech with Flow Matching](https://arxiv.org/abs/2310.16338)
 11/2023|[Emu Edit: Precise Image Editing via Recognition and Generation Tasks](https://arxiv.org/abs/2311.10089)
 12/2023|[Audiobox: Unified Audio Generation with Natural Language Prompts](https://arxiv.org/abs/2312.15821)
+12/2023|[Universal Pyramid Adversarial Training for Improved ViT Performance](https://arxiv.org/abs/2312.16339)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -481,6 +482,7 @@
 12/2023|[Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy](https://arxiv.org/abs/2312.12728)
 12/2023|[A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties](https://arxiv.org/abs/2312.13764)
 12/2023|[Algebraic Positional Encodings](https://arxiv.org/abs/2312.16045)
+12/2023|[Preference as Reward, Maximum Preference Optimization with Importance Sampling](https://arxiv.org/abs/2312.16430)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

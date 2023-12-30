@@ -112,6 +112,17 @@ https://rentry.org/lobstersgpt
 https://rentry.org/ClaudeWorldbooks
 [07 Sep 2023 No.95850671](https://desuarchive.org/g/thread/95849071/#95850671)
 *"Method for quickly creating world books via Claude\.ai or the API"*
+
+6. zero-setup Turbo-compatible VN
+https://rentry.org/tomoyocard
+[29 Nov 2023 No.97598390](https://desuarchive.org/g/thread/97590684/#97598390)
+*"Visual novel in a card."*
+
+7. 4chan sim (HTML Edition)
+https://rentry.org/MakingA4chanSimCard
+[28 Dec 2023 No.98137431](https://desuarchive.org/g/thread/98136612/#98137431)
+*"Make your own 4chan sim"*
+
 ***
 ***
 ***

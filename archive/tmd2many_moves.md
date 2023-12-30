@@ -308,7 +308,7 @@ Low Kick | - | 6 AP | ≥2 | Fighting | Physical | Uses the Opponent's HP Stat i
 Low Sweep | 6 BP | 6 AP | ≥2 | Fighting | Physical | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
 **Lumina Crash** | 8 BP | 6 AP | ≥2 | Psychic | Special | The Opponent's Special Defense is decreased by 1.
 Lunge | 8 BP | 6 AP | ≥2 | Bug | Physical | The Opponent's Attack is decreased by 1.
-Luster Purge | 7 BP | 6 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Defense is decreased by 1.
+Luster Purge | 10 BP | 8 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Defense is decreased by 1.
 Mach Punch | 4 BP | 5 (-1) AP | ≥2 | Fighting | Physical | Priority.
 Magical Leaf | 6 BP | 5 AP | - | Grass | Special | No secondary effect.
 Magical Torque | 10 BP | 8 AP | ≥2 | Fairy | Physical | 16-20; The Opponent is afflicted with *Confusion*.
@@ -330,7 +330,7 @@ Mighty Cleave | 10 BP | 7 AP | ≥2 | Rock | Physical | Ignores Protect Moves.
 Mind Blown | 15 BP | 8 AP | ≥2 | Fire | Special | The User loses ½ of their Max HP.
 Mirror Coat | - | 6 AP | ≥2 | Psychic | Special | The User deals the Opponent's Special damage increased by 10.
 Mirror Shot | 7 BP | 6 AP | ≥4 | Steel | Special | 14-20; The Opponent's Accuracy is decreased by 1.
-Mist Ball | 7 BP | 6 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Attack is decreased by 1.
+Mist Ball | 9 BP | 7 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Attack is decreased by 1.
 **Misty Explosion** | 10 BP | 8 AP | ≥8 | Fairy | Special | While in Misty Terrain, damage is increased by 5. Spread.
 Moonblast | 9 BP | 7 AP | ≥2 | Fairy | Special | 14-20; The Opponent's Special Attack is decreased by 1.
 Moongeist Beam | 10 BP | 8 AP | ≥2 | Ghost | Special | Ignores Abilities.

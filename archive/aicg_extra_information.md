@@ -99,8 +99,11 @@ https://nolialsea.github.io/Wpp/
 https://character-tools.srjuggernaut.dev/character-editor
 - new character editor; support of cards v2 spec (no details provided on the extent)
 
-https://www.notion.so/
+https://www.notion.so
 - markdown wiki website with great UX, great to organize project ideas, has live editing and section-commenting so can be used for collaboration
+
+https://excalidraw.com
+- open source virtual hand-drawn style whiteboard, helps organize little ideas in a different way, can be used for collaboration, similar to draw\.io
 
 https://pollinations.ai
 - allows to use links for prompting to integrate free imagegen into a bot

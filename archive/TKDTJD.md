@@ -2194,3 +2194,191 @@ The drone attack by the Iraqi resistance yesterday, targeted the PIK Airfield, s
 
 This attack must’ve been a painful one & sensitive for the israelis.
 https://nitter.net/AryJeay/status/1740505620900372682#m  12/28/23
+
+>UNRWA: #Israeli soldiers opened fire on an aid convoy as it was returning from the northern #Gaza Strip on a route designated by the army.
+https://nitter.net/ME_Observer_/status/1740622525816799405#m  12/29/23
+
+>Huge protests in the Yemeni capital in support of Gaza. The march is titled 'With You Until Victory, and Americans Will Not Stop Us.'
+https://nitter.1d4.us/QudsNen/status/1740729240096559462#m  12/29/23
+
+>Many drone alerts & rocket sirens in the north of Occupied Palestine, on the border with Lebanon in the past 15 minutes.
+https://nitter.net/AryJeay/status/1740718013824090161#m  12/29/23
+
+>News coverage | Clashes intensify with Israeli forces in the Safatawi area north of Gaza City amid heavy Israeli artillery shelling.
+https://nitter.1d4.us/QudsNen/status/1740732405747720221#m  12/29/23
+
+>Media Coverage | Many damaged and completely destroyed ambulances were observed north of Gaza after the withdrawal of Israeli forces.
+https://nitter.1d4.us/QudsNen/status/1740740135417950641#m  12/29/23
+
+>Media coverage: UNRWA: Earlier this morning, Israeli soldiers opened fire on a humanitarian aid convoy as it was returning from the northern Gaza Strip along a route designated by the Israeli military itself.
+https://nitter.1d4.us/QudsNen/status/1740743206797447175#m  12/29/23
+
+>Media coverage | Recent reports have uncovered that Britain covertly deployed an extra 500 soldiers to its military base in Cyprus since the onset of the Gaza war. This base serves as a supply point for Israel's weapons and military equipment, as well as the launching site for reconnaissance planes over the Gaza Strip. The acknowledgment of this deployment only came to light publicly after the investigation results were revealed.
+https://nitter.1d4.us/QudsNen/status/1740745285150691816#m  12/29/23
+
+>YEMEN - The revolution continues -  A major public march in Al-Sabeen Square in the capital, #Sanaa, under the slogan
+
+ “With you until victory, and the Americans will not stop us”
+https://nitter.net/ME_Observer_/status/1740748586693136614#m  12/29/23
+
+>Al-Qassam Brigades (Hamas)
+
+We clashed in the areas east Gaza City. We detonated an anti-personnel mine targeting an infantry force & targeted another force inside a building with a TBG, resulting in a significant number of deaths and injuries among them.
+https://nitter.net/AryJeay/status/1740752234949062967#m  12/29/23
+
+
+>Yemen: 
+
+We declare our effective and strong continuation of the mobilization, training, and rehabilitation of the Al-Aqsa Popular Brigades.
+https://nitter.net/ME_Observer_/status/1740750503519408574#m  12/29/23
+
+>A press statement issued by the government media office in #Gaza:
+
+The "Israeli" occupation army targeted and destroyed more than 200 archaeological and heritage sites out of 325 sites in the #Gaza Strip, including ancient mosques, churches, schools, museums, ancient archaeological houses and various heritage sites, in a failed attempt to obliterate the #Palestinian cultural and heritage presence and an attempt to obscure historical evidence and historical depth. #Palestinians in the #Gaza Strip.
+
+The most prominent sites destroyed by the occupation army: (The Byzantine Church of Jabalia, the Al-Omari Mosque in Jabalia, the Sheikh Shaaban Mosque, the Al-Dhafar Damri Mosque in Al-Shuja’iya, the Al-Khader Shrine in Deir Al-Balah, the Balakhiya Site “Anthedon Port” northwest of Old #Gaza City, and the Khalil Al-Rahman Mosque in The Abasan area in Khan Yunis (south of the #Gaza Strip), the center of ancient manuscripts and documents in #Gaza City, and other important archaeological and heritage sites. The occupation also targeted: (St. Porphyrius Church in the Zaytoun neighborhood in #Gaza City, the ancient Saqqa House in Al-Shuja’iyya, and Tel Al-Mintar in #Gaza City, Al-Sakan Hill in Al-Zahra, Hill 86 in Al-Qarara, and Al-Sayyid Hashem Mosque in #Gaza City).
+
+The heritage and archaeological sites that he destroyed, some of which date back to the Phoenician era, some of which date back to the Roman era, some of which date back to 800 BC, some of which date back to 1,400 years ago, and some of which date back to 400 years ago, are a clear indication of the entrenchment of the #Palestinian right. In the #Palestinian territories, the occupation is trying to change its features through bombing and direct targeting.
+
+The occupation’s targeting and destruction of heritage and archaeological sites in the #Gaza Strip is considered a clear international crime in accordance with international laws, especially international humanitarian law, the 1954 Hague Convention regarding the Protection of Cultural Property in the Event of Armed Conflict, and the Second Protocol to the Convention of 1999, which prohibits the deliberate targeting of cultural and religious sites in all circumstances. .
+
+We call on all international and international organizations related to the cultural and heritage dimension; To condemn this organized crime committed by the “Israeli” occupation army in the #Gaza Strip, and we call on them to intervene immediately and urgently in order to stop this crime and work to rehabilitate and restore these destroyed heritage and cultural sites.
+https://nitter.net/ME_Observer_/status/1740765379020956013#m
+
+>Al-Qassam (Hamas) published a video showing the recovery of a Zionist Skylark-2 drone that was seized during its intelligence mission, north of Tal al-Za’atar, in the northern Gaza Strip.
+https://nitter.net/AryJeay/status/1740768379861139889#m  12/29/23
+
+>Media coverage | Weekly protests by Finnish activists in the capital, Helsinki, to encourage boycotting products of Israel in commercial complexes.
+https://nitter.1d4.us/QudsNen/status/1740774754599211184#m  12/29/23
+
+>Breaking | Ministry of Health in Gaza: "187 Palestinians killed and 312 injured in the Gaza Strip over the past 24 hours"
+https://nitter.1d4.us/QudsNen/status/1740775472773173260#m  12/29/23
+
+>Islamic Resistance in Iraq:
+
+Attacked the “Kharab al-Jir” US base deep in Syria with a missile salvo, hitting its targets directly.
+https://nitter.net/AryJeay/status/1740783320760549476#m  12/29/23
+
+>WATCH: Hamas published a brand new video showing scenes of targeting IOF soldiers & targeting military vehicles penetrating into the Al-Tuffah and Al-Daraj neighborhoods in Gaza City.
+https://nitter.net/AryJeay/status/1740799583444410793#m  12/29/23
+
+>Military correspondent of Channel 14:
+
+The situation in the north is very bad, worse than what is being reported in the media, and some critical israeli positions are targeted, but reporting it is prohibited.
+
+(Image is illustrative)
+https://nitter.net/AryJeay/status/1740807162849628641#m  12/29/23
+
+>Israeli forces destroyed Qasr al-Basha, a historical palace situated in Gaza's Old City. The palace, which once housed a museum featuring artifacts from different eras, served as Gaza's seat of power during the Mamluk and Ottoman periods.
+https://nitter.1d4.us/QudsNen/status/1740814181480468583#m  12/29/23
+
+>Israeli forces destroyed Qasr al-Basha, a historical palace situated in Gaza's Old City. The palace, which once housed a museum featuring artifacts from different eras, served as Gaza's seat of power during the Mamluk and Ottoman periods.
+https://nitter.1d4.us/QudsNen/status/1740814181480468583#m  12/29/23
+
+>Lebanon: 
+
+Oh Zionist settlers...
+
+Your army bears responsibility for the destruction of your homes.
+
+Because it turned them into military sites, some of which are used to target our homes !
+https://nitter.net/ME_Observer_/status/1740805169666015672#m  12/29/23
+
+>Israel's minister of foreign affairs says South Africa's application to the International Court of Justice to bring Israel to justice over crimes committed in Gaza is a "blood libel" that has "no factual and judicial basis and is a despicable and cheap exploitation of the court".
+https://nitter.1d4.us/QudsNen/status/1740831130419384362#m  12/29/23
+
+>BREAKING| Senior Hamas member in Lebanon Osama Hamdan restates that there will be no prisoners exchange talks until Israel ceases its offensive on Gaza. 
+
+"Israel is trying to leak misinformation and fake news to ease domestic pressure", he added.
+https://nitter.1d4.us/QudsNen/status/1740841189878718501#m  12/29/23
+
+>BREAKING| Israel killed journalist Jaber Abu Hadrous along with members of his family in an airstrike on his house in Al Nuseirat refugee camp in central Gaza, bringing the death toll among Palestinian journalists to 105 in 84 days.
+https://nitter.1d4.us/QudsNen/status/1740858018152190200#m  12/29/23
+
+>BIG SUMMARY of all resistance operations today, December 29, against US-israeli forces
+
+Al-Qassam Brigades:
+
+- Detonated a minefield consisting of 4 "barrel" bombs & an anti-personnel "television" bomb targeting a Zionist infantry force & several military vehicles north of Al-Bureij camp, resulting in casualties.
+
+- (Partially) destroyed 2 Merkava tanks & 1 military D9-bulldozer in various battle zones.
+
+- Targeted a special Zionist force inside a building, north of Al-Bureij camp, with fortification-penetrating explosives, followed by engaging with them in close combat from point-blank range, resulting in casualties.
+
+- Shot down a Skylark-2 reconnaissance drone, while it was carrying an intelligence mission, in Beit Hanoun, north of Gaza (with video).
+
+- Shelled IOF vehicles & israeli soldiers, east of Khan Yunis, with mortars.
+
+- Detonated an anti-personnel explosive device targeting a Zionist infantry force & targeted another force inside a building with TBGs, causing a large number of casualties.
+
+Al-Quds Brigades:
+
+- Shelled military formations with a barrage of 60mm mortars, in the Abasan area, east of Khan Yunis.
+
+- Targeted a military vehicle with an RPG, in the axis northeast of Al-Bureij camp.
+
+Martyr Omar Al-Qassem forces:
+
+- Clashed with IOF forces, in the central axis of Khan Younis. They detonated an explosive device targeting military vehicles, causing dead & wounded.
+
+- Sniped a zionist soldier northeast of Bureij, confirming a direct hit, wounding the soldier.
+
+Al-Aqsa Martyrs Brigades:
+
+- Shelled military vehicles & IOF soldiers, east of Khan Younis, with heavy-caliber mortars.
+
+- Clashed with a zionist infantry force consisting of 8 soldiers with appropriate weapons, leaving them dead & wounded, in Khan Younis.
+
+- Clashed with IOF forces, in the axis north of Al-Bureij camp, with dense bullets & RPGs.
+
+- Martyr Jihad Jibril Brigades:
+
+- Shelled military gatherings penetrating east of Bureij with heavy-caliber mortars.
+
+Mujahideen Brigades:
+
+- Shelled military positions of zionist forces in the Al-Qarara area with medium-caliber mortars.
+
+Al-Nasser Salah al-Din Brigades:
+
+- Clashed with IOF soldiers in the north of Bureij camp, achieving direct casualties.
+
+Hezbollah:
+
+- Targeted the Hadb Yaroun military base, at various times with suitable weapons, causing direct damage.
+
+- Targeted a crane carrying military spying equipment & supplies in Doviv with suitable weapons, causing a direct hit.
+
+- Targeted the Al-Marj site with suitable weapons, achieving a direct hit.
+
+- Targeted IOF artillery positions in Kherbet Ma'ar with suitable weapons, achieving a direct hit.
+
+- Targeted israeli soldiers near the Zari'it barracks & the Birkat Risha site with suitable weapons.
+
+- Targeted the Ruwaysat Al-Qarn IOF site in the occupied Shebaa Farms with suitable weapons, causing direct injuries.
+
+Islamic Resistance in Iraq:
+
+- Targeted the "Kharab Al-Jeer" US base in Syrian territory with a missile barrage, hitting its targets.
+
+- Targeted the Shaddadi US base in Syria with a missile barrage, hitting its targets.
+
+- Targeted the Harir US base in Erbil, northern Iraq, with suicide drones.
+
+Syria:
+
+- Fired a salvo of rockets towards occupied Golan heights.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1740861245744464087#m  12/29/23
+
+>BREAKING| US airstrikes have targeted Al Bukamal city on the Iraqi-Syrian border.
+https://nitter.1d4.us/QudsNen/status/1740873504827035674#m  12/29/23
+
+>Channel 12 Hebrew correspondent - Golan:
+
+The state of fear is increasing among the population. The launching of missiles from #Syria is increasing day after day, and today many residents have gone to shelters after hearing sirens and the sounds of violent explosions.
+https://nitter.net/ME_Observer_/status/1740880621017166030#m  12/29/23
+
+>The moment a missile landed in occupied Majdal Shams, launched from #Syria... sirens sounded throughout the Golan.
+https://nitter.net/ME_Observer_/status/1740878852489105903#m  12/29/23

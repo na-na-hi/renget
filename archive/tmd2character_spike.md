@@ -75,8 +75,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. White Gummi | Gives +10 IQ points to Normal-Types. Gives +5 to other types. Tastes like sugar.
-2. Marbled Stone | Does 4 true damage to a target, is lobbed.
+1. Marbled Stone | Does 4 true damage to a target, is lobbed.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -85,7 +85,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like sugar.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

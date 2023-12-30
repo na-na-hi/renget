@@ -1,6 +1,6 @@
 -> ![I LOVE PURIN!!!!!](https://files.catbox.moe/6zungu.png) <-
 # -> crustcrunch's Claude Jailbreaks <-
--> [CHUB](https://www.chub.ai/users/crustcrunch) | [Main Rentry](https://rentry.co/crustcrunch) | [Old Claude Jailbreaks](https://rentry.co/crustcrunchJB_old) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
+-> [CHUB](https://www.chub.ai/users/crustcrunch) | [Main Rentry](https://rentry.co/crustcrunch) | [Old Claude Jailbreaks](https://rentry.co/crustcrunchJB_old) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) | [Fun Jailbreaks](https://rentry.co/crustcrunch_fun_JBs) <-
 -> crustcrunch@proton.me <-
 ***
 **Table of Contents**

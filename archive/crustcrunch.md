@@ -1,6 +1,6 @@
 -> ![this is how i look IRL btw](https://files.catbox.moe/lijeuo.png) <-
 # -> crustcrunch's rentry <-
--> [CHUB](https://www.chub.ai/users/crustcrunch) | [Claude Jailbreaks](https://rentry.org/crustcrunchJB) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) <-
+-> [CHUB](https://www.chub.ai/users/crustcrunch) | [Claude Jailbreaks](https://rentry.org/crustcrunchJB) | [GPT Jailbreaks](https://rentry.org/crustcrunchGPT) | [Fun Jailbreaks](https://rentry.co/crustcrunch_fun_JBs) <-
 -> crustcrunch@proton.me <-
 ***
 [TOC2]
@@ -8,7 +8,7 @@
 >Bots are listed newest to oldest.
 ***
 
-##Female Bots
+##Female Bots ![female](https://crustcrunch.neocities.org/female_gif.gif)
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
 ![Masae](https://files.catbox.moe/2gv9kv.png)   | **Masae** | (V2) 3 greetings. You are the tour guide to a 1000-year-old kitsune. Show her around Tokyo. She doesn't know what a phone is. | [chub](https://www.chub.ai/characters/crustcrunch/masae-a87306a0/main), [catbox](https://files.catbox.moe/2gv9kv.png)
@@ -33,7 +33,7 @@ Image | Name | Description | Links
 
 ***
 
-##Male Bots
+##Male Bots ![male](https://crustcrunch.neocities.org/male.gif)
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
 ![Julien](https://files.catbox.moe/gqpvdk.png)   | **Julien** | (V2) 4 greetings. A flowery, romantic big bro set in the French countryside. He loves his dear sibling, though he has a bit of a troubled history... AnyPOV. | [chub](https://www.chub.ai/characters/crustcrunch/julien-40290707), [catbox](https://files.catbox.moe/gqpvdk.png)
@@ -68,7 +68,7 @@ Image | Name | Description | Links
 
 ***
 
-##Misc. Bots
+##Misc. Bots ![misc](https://crustcrunch.neocities.org/star1.gif)
 Image | Name | Description | Links
 :----: | :----: | ------ | :----:
 ![ntr sim](https://files.catbox.moe/z27l2l.png)   | **Mia and Terrance** | My submission for gothic horror theme week. An annoying millennial couple buys a rotting old castle in the English countryside to renovate it into an Airbnb... You are the ghost that haunts it. | [chub](https://www.chub.ai/characters/crustcrunch/mia-and-terrance-c3caabdc/main), [catbox](https://files.catbox.moe/z27l2l.png)

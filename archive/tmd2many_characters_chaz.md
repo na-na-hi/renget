@@ -11,9 +11,9 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** ???
-**Level:** 10 | **Experience to Next Level:** 5/100
+**Level:** 10 | **Experience to Next Level:** 35/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 810₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 910₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -83,9 +83,9 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
-2. Oran Berry | Heals the user for 10HP.
+2. Marble Stone | Does 4 true damage to a target, is lobbed.
 3.  Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
-4.  Stick (x2)
+4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

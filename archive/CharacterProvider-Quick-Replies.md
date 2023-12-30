@@ -11,14 +11,14 @@ These prompts modify your messages with OOC requests. `Quick Replies` insert sel
 > **Comment:** Quick Replies with pre-made prompts is a great way to pace your story. You can stop and focus on a dialog with a certain character, or request a short visual/sensory information.
 
 ##### How do I use Quick Replies?
-Open the `Extentions` tab in SillyTavern's interface, click on the `Quick Reply` menu, and select `Enable Quick Replies`. Then type in a number of buttons and insert the promts you want. You can also download the presets below. These files include all actions with a special button to quickly switch between the 'Sexual' and 'Casual' presets.
+Open the `Extentions` tab in SillyTavern's interface, click on the `Quick Reply` menu, and select `Enable Quick Replies`. Then type in a number of buttons and insert the prompts you want. You can also download the presets below. These files include all actions with a special button to quickly switch between the 'Sexual' and 'Casual' presets.
 
 To send a message with the chosen prompt simply type in the message you want to send as usual but instead of pressing 'Send', click on the quick reply button that appeared above the text field. Your message can be empty. It's similar to DungeonAI.
 
 ####
 - - -
 ##### [⬇️ DOWNLOAD QR PRESETS V1.4](https://files.catbox.moe/9n12t6.zip)
-(These presets work best with `gpt-4-11-06-preview` and `gpt-4-32k-0314`)
+(These presets work best with `gpt-4-1106-preview` and `gpt-4-32k`)
 
 ##### Installation:
 Extract the files from the downloaded zip archive into `SillyTavern-staging\public\QuickReplies`
@@ -27,7 +27,7 @@ Extract the files from the downloaded zip archive into `SillyTavern-staging\publ
 Go to 'User Settings' -> 'Chat/Message Handling' and **turn off** 'Show <tags> in responses' to hide the injected prompts.
 
 ##### Note:
-If you don't want any "indication" for the sent prompt injections in your messages, delete the icon and text before the <request> in the custom message. I've added two linebreaks to separate your message from the "indicator". If you are using the presets, when trying to switch to a different set (e.g., 'Casual Actions'), make sure your message field is empty, or it will send the message you've typed instead of switching to a different preset.
+If you don't want any "indication" for the sent prompt injections in your messages, delete the icon and text before the <request> in the custom message. I've added two line breaks to separate your message from the "indicator". If you are using the presets, when trying to switch to a different set (e.g., 'Casual Actions'), make sure your message field is empty, or it will send the message you've typed instead of switching to a different preset.
 
 ####
 - - -

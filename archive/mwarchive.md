@@ -10,9 +10,9 @@ https://en.wikipedia.org/wiki/State-sponsored_Internet_propaganda
 Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matter my own personal preference.
 *( Links WILL go down, more are already prepared. Monitor /mwg/ threads for archive mentions. )*
 
-Removals : Images that depict child pornography, personally identifiable information or copyrighted material not permitted under fair use doctrine are removed. Image removal requests can be submitted in any /mwg/ thread, mention the word archive in your request.
+Removals : Images that depict child pornography, real photographs of death and gore, signed artworks, infographics, non-ai low effort memes, personally identifiable information or copyrighted material not permitted under fair use doctrine are removed. Image removal requests can be submitted in any /mwg/ thread, mention the word archive in your request.
 
-Infographics, movies, reactions, duplicates and non related are removed, pngs are converted to jpg.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived.moe.
+Likewise, general non-ai meme reactions, duplicates and non related are removed, pngs are converted to jpg.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived.moe.
 
 - September Archive - 250 MB - 1,500 images
 - https://pixeldrain.com/u/A6Kik3zt
@@ -38,8 +38,16 @@ Infographics, movies, reactions, duplicates and non related are removed, pngs ar
 - https://pixeldrain.com/u/8nzpjwVp
 
 - /POL/ memes from non-MWG threads
-- October to November - 1 GB - 5,200 images
-- https://pixeldrain.com/u/dbFX6hea
+- NOTE: The original non-MWG Oct-Nov Archive has been rolled into the new Archive
+- October Archives
+- Part 1 - 2.5 GB - 13,100 images
+- 
+- Part 2 - 3.3 GB - 15,400 images
+- 
+- November Archives
+- Part 1 - 
+- 
+- All non-MWG memes from December onward are rolled into the main Archive series
 
 - Additional Archives
 - /X/ meme images
@@ -72,6 +80,10 @@ The list shall change - removals as anons make memes, additions from suggestions
 
 ####*Current Thing* Ideas
 
+* T-Mobile implements wrongthink fines for their users who send SMS messages containing words they decide are bad
+* American states start legislative races to remove presidential candidates from their states voting sheets
+* The medical establishment is quietly removing hundreds of COVID-19 scientific papers circa 2020-2021 from the internet
+* Israeli occupiers raided money exchange companies in West Bank, arrested the owners and confiscated 2.8 million dollars
 * Three Chinese anti-piracy navy ships ignore non-Chinese cargo ships distress calls as they are raided by Yemeni pirates
 * European science journal publishes study showing patients with long covid have had their DNA genome altered
 * Journal 'Nature' study says it is dangerous to 'do your own research' and to trust mainstream media and not ask questions
