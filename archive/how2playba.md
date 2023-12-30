@@ -255,6 +255,9 @@ There is no benefit to manually doing them.
 >What equipments do I prioritise when I farm?
 T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest  
 
+>How many mission areas are there?
+23 in Global, 24 in JP.
+
 !!! info
 	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. Stuck on both = time to sweep.
 

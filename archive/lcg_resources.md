@@ -47,6 +47,7 @@
 * [Anon's RR2 150 Turn Guide](https://rentry.org/b29eu)
 * [Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 * [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
+* [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [A Better Tutorial for Limbus Company](https://www.youtube.com/watch?v=ujQgRJo9vHA)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
@@ -133,6 +134,7 @@
 * [KanKan MEGA](https://mega.nz/folder/wEoSCIzA#6pXWJNaGC8qQ5G3-58Qb3A)
 * [KanKan Google Drive](https://drive.google.com/drive/folders/1kLFKpJGdzFReoDtlc32e2E128Vh2x9Fo)
 * [Faust MEGA](https://mega.nz/folder/rVNQWTxA#qk7lzpTeWcTkUm4D2zFqcA)
+* [Don MEGA](https://mega.nz/folder/lq0X0CIK#ehZA8w-0Si06FdQqiR5Rvw)
 * [Ishmael MEGA](https://mega.nz/folder/M2pRlaSA#cqpVn59D7AWAQwZhWfVPNA)
 * [Hong Lu VA Twitch](https://www.twitch.tv/kim88toki)
 * [Heathcliff VA Twitch](https://www.twitch.tv/hshmike)
@@ -176,4 +178,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/15/23: Updated PMkots archive. ![헤](https://files.catbox.moe/207ryd.png)
 11/27/23: Moved MD2H link to outdated section.
 12/13/23: Added new damage calcuator link.
-12/26/23: Switched out recommended translations link and added Limbus slotmaker links merry Christmas faggot ![lol&](https://files.catbox.moe/7dmu76.png)
+12/26/23: Switched out recommended translations link and added Limbus slotmaker links merry Christmas faggot
+12/30/23: Added MD3 farming guide and Don MEGA link. Happy nu year. ![lol&](https://files.catbox.moe/7dmu76.png)

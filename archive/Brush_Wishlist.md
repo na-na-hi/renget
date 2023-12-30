@@ -156,6 +156,7 @@
 **One Button Shadowshadow on the border (One Button Shadowㆍ경계에 그림자)** | [2010752](https://assets.clip-studio.com/en-us/detail?id=2010752) | 500 | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/52/07/2010752/thumbnail?1689025387)
 **Women 3D Head **|[1965661](https://assets.clip-studio.com/en-us/detail?id=1965661)| 500 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/61/56/1965661/thumbnail?1673682612)
 **Boy and Girl 3D head ver. 2 **|[1959429](https://assets.clip-studio.com/en-us/detail?id=1959429)| 500 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/29/94/1959429/thumbnail?1673682771)
+**Marble Texture Material Set (マーブルテクスチャ素材セット)** | [1873427](https://assets.clip-studio.com/en-us/detail?id=1873427) | **==150 GOLD==** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1873427/thumbnail?1672532226)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

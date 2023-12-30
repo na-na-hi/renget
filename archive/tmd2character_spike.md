@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 20 points to spend.
+    You have 40 points to spend.
     4/10 +2 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -86,7 +86,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
-2. Pink Gummi | Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
+2. Eᴍᴘᴛʏ | Vacant storage slot.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

@@ -6,7 +6,7 @@
 
 -> ![rainbow](https://64.media.tumblr.com/940cfdbc655e8bf61cd46fcd81439e39/tumblr_inline_o9jf1jppjz1upt8h3_250.gifv) <-
 
-#####%#f590d5%**Table of Contents**%%
+#####%#f590d5%**📜Table of Contents📜**%%
 [%#baf1ff%~♡ About Me%%](https://rentry.co/crustcrunch#about-me)
 [%#baf1ff%~♡ Female Bots%%](https://rentry.co/crustcrunch#female-bots)
 [%#baf1ff%~♡ Male Bots%%](https://rentry.co/crustcrunch#male-bots)

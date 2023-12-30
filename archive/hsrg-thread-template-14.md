@@ -41,8 +41,5 @@ STARRAILGIFT
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14
 
-\>/hsrg/ Friend list
-https://pastebin.com/Q52YwBAt
-
 \>/hsrg/ Thread Template
 https://rentry.org/hsrg-thread-template-14

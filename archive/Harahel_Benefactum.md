@@ -170,7 +170,7 @@ Dozens of pumpkin seeds acquired from a pumpkin patch tainted by Onoskelis' lewd
 
 #### Base Appearance
 **Head**
-The Lamia's hair is a turquoise much the same as her scales, but houses numerous fine, spaghetti-like strands of scaled serpents, which erupt from her scalp, each with the very same pitch-black hue as the bands that gird her tail's length, and reaching down to just above her posterior. A gravity-defying cowlick often sways to the whims of its owner's emotions.
+The Lamia's hair is a turquoise much the same as her scales, but houses numerous fine, spaghetti-like strands of scaled serpents erupting from her scalp, each with the very same pitch-black hue as the bands that gird her tail's length, and reaching down to just above her posterior. A gravity-defying cowlick often sways to the whims of its owner's emotions.
 Two smooth, front-swept, ivory horns adorn the gorgon's head at an angle resembling a wreath crown. The pointed ends jut out a good three inches (7.62 cm) beyond her forehead and taper abruptly.
 Benefactum's girlish face is smooth to the touch, including the fine, teal flakes of scales beneath her eyes and those in greater frequency towards her ears.
 Her ears are finned, retractable, and of a darker tone of turqoise than the majority of her body, while being reminiscent of some mermaids in structure. They have a relatively high freedom of motion and tend to wiggle or even flap when the ohphidian's emotions get the better of her.

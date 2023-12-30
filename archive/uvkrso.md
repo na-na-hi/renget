@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+30/12/23   | Added new files to Misha, Sparkle, Black Swan Gameplay and Story + Voicelines folders. / Added new files to Robin, Gallagher, Jade, Jiaoqiu, Boothill Kit folders. / Added new character "Feixiao" in the Possibly Scrapped, Placeholder or Characters with no Info section.
 27/12/23   | Moved Ruan Mei, Dr. Ratio and Xueyi to "Released Characters" section.
 26/12/23   | (2.0) Added new files to Misha, Sparkle, Black Swan Animations folders. / Added new files to Robin, Sunday, Gallagher, Acheron, Firefly, Aventurine, Boothill, Black Swan Model folders and Robin, Acheron, Gallagher, Boothill, Aventurine Assets folders.
 25/12/23   | (2.0) Added new files to Misha, Sparkle, Black Swan Animations, Misc. and Model folders. / Added new files to Robin, Sunday, Sam, Gallagher, Acheron, Screwllum, Firefly, Aventurine Misc. folders and Robin, Sunday, Sam, Acheron, Gallagher, Boothill Model folders.
