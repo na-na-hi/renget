@@ -1,4 +1,4 @@
-#->LURKz's GPT and Claude Logs<-
+#%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s GPT and Claude Logs
 ->[Rentry with my Presets](https://rentry.org/LurkzyDurkzyBurkzy/)<-
 ***
 !!! note

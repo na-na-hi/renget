@@ -689,6 +689,8 @@ Hamas Smokes more Idf tanks
 https://files.catbox.moe/tddm07.mp4 New  12/29
 The Al-Qassam Brigades fired a missile salvo from northern Gaza towards our occupied territories
 https://files.catbox.moe/b6p6tu.mp4 New 12/29
+Hamas Freedom Fighters In Action  
+https://litter.catbox.moe/6zwmx9.mp4 New  12/30
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -785,6 +787,8 @@ Saraya Al-Quds (PIJ) published scenes sites & military concentrations getting sh
 https://files.catbox.moe/4ktbit.mp4  12/28/23
 Al - Quds shell military concentrations with rockets and mortars, east of khan yunis 
 https://files.catbox.moe/4ktbit.mp4  12/28/23
+Al-Quds Brigades shows, from the heart of the front lines where the IOF claims to have taken control in the northern Gaza Strip, the launching of rockets towards Askalan & the Gaza envelope settlements, and against military vehicles with mortars.
+https://files.catbox.moe/mpxbrm.mp4 New  12/30/23
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -962,3 +966,17 @@ https://files.catbox.moe/grrjo7.MP4 New  12/29/23
 
 >Weekly protests by Finnish activists in the capital, Helsinki, to encourage boycotting products of Israel in commercial complexes.
 https://files.catbox.moe/9ksewz.mp4 New  12/29/23
+
+>BREAKING: BILL PROPOSED BY NETANYAHU GOVERNMENT TO CRIMINALIZE CHRISTIANITY.  
+
+The Netanyahu government proposes a bill to criminalize Christianity and punish those who talk about Jesus Christ in Israel with imprisonment.
+
+Update- 
+
+After further investigation the story is from march 2023 but no light was shed on the story. 
+
+Rumors stating that this bill didn’t pass yet nothing confirmed.
+https://files.catbox.moe/37jz7w.mp4  12/30/23
+
+>Reports that they are besieging Thabet Thabet and Al Zakat hospitals in the city.
+https://files.catbox.moe/gar4nj.mp4  12/30/23

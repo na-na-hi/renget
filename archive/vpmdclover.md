@@ -51,7 +51,7 @@ Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmd
 Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
-Roomba(?) | M | Wimpod | N/A | Clover Guild Member | [???]
+??? | M | Wimpod | N/A | Clover Guild Member | [???]
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -287,8 +287,6 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) **Non-Canon Story**
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
-* Roomba the Wimpod
-    * [Scuttlin' Around Town (ft. Roomba)](https://rentry.org/roombaArrival)
 * Ross the Smeargle
 	* [Ross's Origin](https://rentry.org/qag5t)
 	* [Ross Goes Shopping pt. 1](https://rentry.org/ytxap)
@@ -341,6 +339,8 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * Tybo the Skitty
 	* [Tybo's Mt. Freeze Misadventure](https://rentry.org/3ex84z)
 	* [A Rather Uncomfortable Visit to the Wigglytuff Guild (ft. Tybo)](https://rentry.org/g6wb7)
+* Wimpod
+    * [Scuttlin' Around Town (ft. Wimpod)](https://rentry.org/roombaArrival)
 * Collab Writing
     * [The Three Strangers in: Sweets and Silk - Featuring Rasmus (ft. Kiyo, Rasmus)](https://rentry.org/kqkw98)
 * Non-Applicable
@@ -553,7 +553,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [For T'nite pt. 1 (ft. Gus)](https://rentry.org/OshawottForTnite)
 * [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
 * [Sweet's Dreams: A Team Magic Story](https://rentry.org/krbcr)
-* [Scuttlin' Around Town (ft. Roomba)](https://rentry.org/roombaArrival)
+* [Scuttlin' Around Town (ft. Wimpod)](https://rentry.org/roombaArrival)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

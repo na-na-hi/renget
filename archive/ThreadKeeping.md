@@ -50,7 +50,7 @@ Page 2
 Netra
 >>91367540
 Dhor Tallav
->>91292969 
+>>91381724
 Farem Jarrik
 >>91350879 
 Kēru Ya'moshi
@@ -65,6 +65,8 @@ Vaas Surgaav
 >>91321284 
 Sabrassk
 >>91360321
+Saewara Kol
+>>91378465
 
 >Sith
 Lord Devan Fernal
@@ -72,7 +74,7 @@ Lord Devan Fernal
 Ah'Navi
 >>91292627 
 Darth Skyr (Deceased)
->>91342201 
+>>91378361
 Nemna-Sul
 >>91344909 
 Darth Bussy
@@ -82,7 +84,11 @@ Grok Ko'Garr
 Darth Smolg
 >>91370938
 Syko
->>91373384
+>>91384038
+Darth Dahi
+>>91378353
+Darth Nexios
+>>91383376
 
 >Indpendent
 Twen Ty
@@ -90,7 +96,7 @@ Twen Ty
 Alexander 'Xander' Drax.
 >>91291721 
 Tha'aia'ike
->>91292186 
+>>91376584
 Jei Jenstro
 >>91305165 
 Orn Vizsla
@@ -112,6 +118,8 @@ IG-SX Saber Chart
 https://rentry.org/abf4o
 Tremors in the Force
 https://rentry.org/akat8
+Current Nemna-Sul Dossiers (Wip)
+https://rentry.org/4syqq
 ```
 
 #Fate/Arena
@@ -276,13 +284,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Senior Hero Student (Kyoto?):
->Rumi Aratsuki HN Hysteria
->>91363307
-
-New (Gag) Supporter:
->Kuji Futoi
->>91363451
+New Writefags:
+>MHA 1.9999: Prose Edition
+https://rentry.org/y9rfp
+>The Other Side - A (108 Gang, Cameo of Orochi)
+https://rentry.org/6uvv5
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/
@@ -833,6 +839,10 @@ https://rentry.org/hwiz8
 https://rentry.org/adknw
 >Brightly VS The Toy Army
 >>91361422
+>MHA 1.9999: Prose Edition
+https://rentry.org/y9rfp
+>The Other Side - A (108 Gang, Cameo of Orochi)
+https://rentry.org/6uvv5
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

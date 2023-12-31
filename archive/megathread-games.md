@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oINN2S.png) <-
+-> ![](https://a.imagem.app/oRKYOG.png) <-
 
 # 🎮 ➜ [Megathread](https://rentry.co/megathread) / **Games**
 

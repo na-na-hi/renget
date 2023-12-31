@@ -7,9 +7,9 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 10 | **Experience to Next Level:** 53/100
+**Level:** 10 | **Experience to Next Level:** 83/100
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 920₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 470₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -81,7 +81,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Dense Rocks x2 | Does 2 true damage to a target, is lobbed.
 2. Confuse Wand | Casts a spell to Confuse the target.
-3. Empty | A vacant inventory space
+3. Oran Berry | Heals the user for 10HP.
 4. Apple | Gives +2 to any outside-combat-action.
 
 **STORAGE (2 slots)**

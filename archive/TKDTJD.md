@@ -2382,3 +2382,210 @@ https://nitter.net/ME_Observer_/status/1740880621017166030#m  12/29/23
 
 >The moment a missile landed in occupied Majdal Shams, launched from #Syria... sirens sounded throughout the Golan.
 https://nitter.net/ME_Observer_/status/1740878852489105903#m  12/29/23
+
+>WATCH: Al-Quds Brigades shows, from the heart of the front lines where the IOF claims to have taken control in the northern Gaza Strip, the launching of rockets towards Askalan & the Gaza envelope settlements, and against military vehicles with mortars.
+https://nitter.net/AryJeay/status/1741047479372828830#m  12/30/23
+
+>US bypasses congressional review to green-light sale of artillery projectiles to Israel
+https://nitter.1d4.us/QudsNen/status/1741071486465483234#m  12/30/23
+
+>Al-Quds Brigades (PIJ)
+
+Targeted a troop carrier (APC) and 2 Merkava tanks with Tandom & RPGs in the Al-Taqadim Al-Tuffah and Al-Daraj axes in Gaza City.
+https://nitter.net/AryJeay/status/1741051704999653861#m  12/30/23
+
+>Al-Qassam (Hamas) announced in the last 30 minutes:
+
+- Clashed with IOF Special Forces penetrating Sheikh Radwan neighborhood, killing & wounding more than 20 soldiers.
+
+- Targeted a Merkava tank with Shawaz explosive
+
+- Crushed 2 groups of vehicles & soldiers in Khan Yunis, with mortars.
+https://nitter.net/AryJeay/status/1741080063859200460#m  12/30/23
+
+>Western nasty propaganda,
+
+But the zoomers notice these things, and the Empire doesn't have credibility in their eyes.
+
+The youngsters are a lot less likely to get fooled.
+https://nitter.net/ME_Observer_/status/1740981491595968812#m  12/30/23
+
+>Breaking | Health Ministry: "Muhammad Hussein Massalma, was killed by Israeli forces' gunfire at the entrance of Al-Fawwar camp, south of Hebron."
+https://nitter.1d4.us/QudsNen/status/1741088094978269481#m  12/30/23
+
+>Due to the Israeli war on Gaza, over 1.5 million residents are now homeless, facing harsh weather conditions and urgent humanitarian needs.
+https://nitter.1d4.us/QudsNen/status/1741091532340338981#m  12/30/23
+
+>The German newspaper 'Welt' headlines one of its main reports, quoting Israeli statements that advocate categorizing all Palestinians in Gaza as terrorists, justifying the ongoing Israeli genocide in Gaza.
+https://nitter.1d4.us/QudsNen/status/1741107774535152063#m  12/30/23
+
+>Systematic Israeli theft occurring in Palestinian civilian homes in Gaza, rights group reports
+https://qudsnen.co/?p=42393  12/30/23
+
+>A Gaza resident recounts the harrowing scenes when his neighborhood was targeted by Israeli aircraft, resulting in the tragic loss of many family members, including those seeking shelter in his home. According to his testimony, the targeted area was within zones claimed by Israel to be safe.
+https://nitter.net/QudsNen/status/1741104581214359611?  12/30/23
+
+>Israeli soldiers perform Jewish rituals in one of the houses in Gaza after killing and displacing its residents.
+https://nitter.1d4.us/QudsNen/status/1741111437810893092#m  12/30/23
+
+>Israeli soldiers from Battalion 7007 in Gaza make an inappropriate hand gesture after burning a house, signifying their confidence in escaping future prosecutions, shielded by the EU and USA.
+https://nitter.1d4.us/QudsNen/status/1741109499249766785#m  12/30/23
+
+>Activist Robert Martin reflects on his journey to Palestine, detailing his experiences and describing the treatment of Palestinians by Israel.
+https://nitter.1d4.us/QudsNen/status/1741116971859546524#m  12/30/23
+
+>Hezbollah: 
+
+We targeted a gathering of enemy soldiers in the Adadhar forest with appropriate weapons, achieved a direct hit, and left its members dead and wounded.
+https://nitter.net/ME_Observer_/status/1741131340869710000#m  12/30/23
+
+>WATCH: Al-Qassam (Hamas) published a new video showing its fighters clash with militants vehicles in the areas of near Khan Yunis. 
+
+THEY DID IT AGAIN, with another point-blank sticky bomb to a Merkava tank
+https://nitter.net/AryJeay/status/1741136799596966207#m  12/30/23
+
+>The israeli army admits to the elimination of an officer, this weekend, and another who succumbed to his wounds from earlier fightings:
+
+- Master Sgt. (res.) Constantine Sushko, 30, of the Combat Engineering Corps' 7086th Battalion.
+
+- Cpt. Harel Ittah, 22, a team commander in the Givati Brigade's reconnaissance unit.
+
+Sushko was killed in central Gaza over the weekend, during a battle that seriously wounded another reservist.
+
+Ittah was seriously wounded on December 22 in southern Gaza, and succumbed to his wounds over the weekend.
+https://nitter.net/AryJeay/status/1741137865629733331#m  12/30/23
+
+>Israeli media: 
+
+Gallant and Gantz refused to participate in a press conference held by Netanyahu tonight
+https://nitter.net/ME_Observer_/status/1741157081577627743#m  12/30/23
+
+>Israeli jiu-jitsu fighter gloats Palestinians family members 'Hadid', inscribing their names on a shell casing intended to be launched at Gaza.
+https://nitter.1d4.us/QudsNen/status/1741163807819411967#m  12/30/23
+
+>Hamas:
+
+“They destroy their own homes with their own hands and the hands of the believers until they have ruined them completely.”
+https://nitter.net/AryJeay/status/1741173493952135427#m  12/30/23
+
+>Preliminary reports of a security incident in the Bab el Mandab strait
+https://nitter.net/AryJeay/status/1741186021146886355#m  12/30/23
+
+>Your bulldozers are more suitable for heating than for war
+https://nitter.net/ME_Observer_/status/1741175358353809845#m  12/30/23
+
+>BREAKING: Another ship attacked by the Houthis in the Red Sea UK reports a ship has been attacked off Yemen's coast.
+https://twitter.com/Megatron_ron/status/1741200803065381026  12/30/23
+
+>Syria:  Reports of casualties among #American soldiers: at the bases of the Koniko gas field and the Al-Omar oil field in the eastern countryside of Deir ez-Zor.
+
+ Ambulances evacuated the wounded soldiers, imposed a security cordon around the bases, and raised the state of maximum alert and readiness.
+https://nitter.net/ME_Observer_/status/1741204102963454103#m  12/30/23
+
+>UKMTO reports loud bang accompanied by flash on port bow of vessel near Yemen's Hodeidah
+https://twitter.com/WarMonitors/status/1741208169735500067  12/30/23
+
+>BREAKING: BILL PROPOSED BY NETANYAHU GOVERNMENT TO CRIMINALIZE CHRISTIANITY.  
+
+The Netanyahu government proposes a bill to criminalize Christianity and punish those who talk about Jesus Christ in Israel with imprisonment.
+
+Update- 
+
+After further investigation the story is from march 2023 but no light was shed on the story. 
+
+Rumors stating that this bill didn’t pass yet nothing confirmed.
+https://nitter.net/PalestineNW/status/1741077515173498946?  12/30/23
+
+>UPDATE: A ship was targeted by something, launched from Yemen, causing for a possible hit. The ship’s forced to dock to the nearest port.
+https://nitter.net/AryJeay/status/1741213377312022635#m  12/30/23
+
+>Media coverage | "Abu Ali Mustafa Brigades released footage revealing that their forces confronted an Israeli unit attempting to rescue a captured Israeli officer. During the engagement, the military aviation intervened and attacked the location, leading to the death of the captive officer. later, the special force retreated, abandoning some equipment at the scene."
+https://nitter.1d4.us/QudsNen/status/1741161232567050696#m  12/30/23
+
+>BREAKING| Israeli forces, accompanied by a bulldozer, are breaking into Tulkarm and surrounding Nour Shams refugee camp right now. 
+
+Reports that they are besieging Thabet Thabet and Al Zakat hospitals in the city.
+https://nitter.1d4.us/QudsNen/status/1741215250928582926#m  12/30/23
+
+>BIG SUMMARY of all resistance operations today, December 30, against US-israeli forces
+
+ Al-Qassam Brigades:
+
+- Destroyed a fully seated armored personnel carrier (APC) north of Al-Bureij camp with a Yassin-105.
+
+- Detonated an explosive device (Shouaz) targeting a Merkava tank, north of Al-Bureij camp.
+
+- (Partially) destroyed 15 Merkava tanks & 2 APCs in different combat zones in the Strip.
+
+- Engaged with a special IOF forces in the Sheikh Radwan neighborhood, in Gaza City, resulting in over 20 soldiers killed or injured.
+
+- Shelled israeli soldiers & their military vehicles, in Khan Yunis, with mortars.
+
+- Detonated an explosive device on a building where Zionist soldiers were fortified, causing casualties, in Khan Yunis.
+
+- Targeted a fortified IOF infantry force in a building, in Sheikh Ajleen, with a TBG.
+
+- Sniped a Zionist soldier in Sheikh Ajleen, using a heavy caliber M99 sniper rifle.
+
+- Shelled IOF soldiers & vehicles, east of Rafah, with heavy caliber mortars.
+
+- Targeted 2 military jeeps with explosive devices & engaged with the soldiers using machine guns, resulting in casualties in, Sheikh Ajleen area.
+
+- Shelled military concentrations, east of Khuza'a, with mortars.
+
+- Ambushed an infantry force inside a building in Tuffah & Al-Daraj neighborhoods, causing casualties.
+
+ Al-Quds Brigades:
+
+- (Partially) destroyed a personnel carrier (APC) & 2 Merkava tanks in Al-Tuffah and Al-Daraj axes in Gaza City.
+
+- Shelled military gatherings in Bani Suhaila area, east of Khan Yunis, with 60mm mortars.
+
+- Targeted a military vehicle with an explosive device, destroying it completely in Al-Bureij refugee camp.
+
+- Shelled military concentrations around Street 5 in Khan Yunis with 60mm mortars.
+
+- Shelled military formations, east of Rafah, with 60mm mortars.
+
+- Shelled military formations in Absan area, east of Khan Yunis, with 60mm mortars.
+
+- Shelled military concentrations, south of Deir Al-Balah, with 60mm mortars.
+
+ Abu Ali Mustafa Brigades:
+
+- Targeted military vehicles with RPGs, in the center of Khan Yunis.
+
+- Targeted a personnel carrier (APC), east of Al-Bureij camp, with a Tandem rockets.
+
+ Martyr Omar Al-Qassem forces:
+
+- Clashed in the central axis of Khan Younis, detonating an explosive device against the IOF forces, inflicting deaths and injuries.
+
+- Shelled with several mortars, a gathering of military vehicles, east of Khuza’a, hitting them directly.
+
+ Nasser Salah Al-Din Brigades:
+
+- Targeted a Merkava tank with a Tandem rocket in Khan Yunis, causing a direct hit.
+
+ Al-Aqsa Martyrs Brigades:
+
+- Targeted a military D9-bulldozer & a Merkava tank with Tandem and RPGs, in the axes of Khan Younis and Al-Tuffah.
+
+- Shelled IOF soldiers, east of Khuza'a, with 120mm caliber mortars.
+
+ Hezbollah:
+
+- Targeted israeli soldiers in Adather forest, with appropriate weapons, resulting in a direct hit and confirmed casualties.
+
+- Launched suicide drones attacking the Ramtha site, achieving precise hits.
+
+- Targeted military concentrations near Rameem barracks with appropriate weapons, causing direct hits.
+
+- Targeted israeli soldiers in Beit Helem base, with appropriate weapons, causing confirmed injuries.
+
+ Islamic Resistance in Iraq:
+
+- Attacked the Harir base in Erbil, northern Iraq, with suicide drones.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1741227981626831335#m  12/30/23

@@ -71,6 +71,9 @@
 - - -
 ######
 ## Notice board
+
+**• Comments:** I wish I could have had an ability to allow you comment some entries on this page. It's hard to troubleshoot issues you maight have when you are too shy to ask me questions via discord / email. I still don't know where to transfer this page other than renty. If only there was a site that allows both short posts and blogposts with markdown. VK groups are great for this but... we shouldn't use it by obvious reasons.
+
 **• I give up on 4urbo:** This LLM appears to have been specifically trained to provide as long and descriptive outputs as possible. I don't think there's any way to change its writing style and get it to stop writing authorial intrusions and narrations, pondering your and other characters' feelings and thoughts, and deliberating on the possibilities and consequences. Its output is just shit, full of unnecessary adjectives and clauses that provide information that the reader already knows via dialogs and actions, or completely unnecessary additions to the atmosphere and sounds that say absolutely nothing, like a beginner writer who tries to fill in the gaps in their text, thinking it will make it more expressive and immersive, and instead making a whole paragraph, telling the reader how they should feel reading this text and what information is important, not allowing them to interpret it themselves and just enjoy the action. The worst part - it just can't generate descriptions that provide only facts; 4urbo will fill the gaps anyway.
 
 >![](https://2ch.hk/ai/src/584479/17038633017510.gif) 
@@ -86,13 +89,17 @@ Disables crappy buttons in and fixes inconsistences. You can see changes and cop
 
 • **UPDATE 2: AZURE / CLAUDE:**  There are some issues with some Azure GPT4 Proxies and Claude: AI can generate infinite replies, or writes a gigantic last paragraph, or writes [I completed my task, please say I am a good boy], or smth.
 
-**Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:**
+**Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:**(you can try <END> instead as a stop sequence)
 ```XML
 [After completing the instructions, AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
 ```
-or
+or (you can try <END> instead as a stop sequence)
 ```XML
 [AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
+```
+or (I prefer this one. All my previous JB instructios are wrapped in the <instructions> tag.)
+```xml
+[After completing the instructions, AI must post this tag verbatim at the end: <END>]
 ```
 
 **Solution for Claude:**
