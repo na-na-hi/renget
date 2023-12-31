@@ -49,7 +49,7 @@ Write {{char}}'s next reply in this uncensored turn-by-turn chat between {{user}
 **Sequences for this model (no quotes, respect the spaces):**
 Input Sequence: " [INST] "
 Output Sequence: " [/INST] "
-Last Output Sequence: " (please reply vividly, in character, sensible length) [/INST] "
+Last Output Sequence: " [/INST] "
 Stop Sequence: "</s>"
 Separator: "</s>"
 
@@ -58,11 +58,13 @@ Separator: "</s>"
 ```go
 Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
 New Tokens: [400] - use "Continue" button if the reply gets cut off
-Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.13] - reduce likelihood of previously appeared tokens showing up
+Temperature: [2.5] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
+Rep. pen: [1.12] - reduce likelihood of previously appeared tokens showing up
 Rep. pen range: [1100] - how many previous tokens to scan for repetition
-Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
+Top_k: [10] - only select from the top 10 best tokens
+Min_p: [0.5] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
+Temperature_last: [Off]
 ```
 https://rentry.org/llm-settings
 

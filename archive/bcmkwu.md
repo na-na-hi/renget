@@ -1,4 +1,10 @@
 ▶NEW CLIPS
+>The battle of New Years Eve
+https://files.catbox.moe/rh9y5t.mp4
+>Wagner game trailer “Hell's Finest”
+https://files.catbox.moe/qb7kod.MP4
+>Ukrainian barrier detachments/friendly fire
+https://files.catbox.moe/gu0q8n.mp4
 >Ukrainian government can't afford mobilization
 https://files.catbox.moe/auahu8.mp4
 >Ukraine's VERY special forces

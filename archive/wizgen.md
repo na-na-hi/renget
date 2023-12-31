@@ -4,6 +4,7 @@
 
 -> [![Lindemann was unable to sing "-to the bone." because of bad English](https://simp6.jpg.church/images3/Screenshot-2023-12-26-0348411ab621b6de5ac3e7.md.png)](https://www.youtube.com/watch?v=10JDA8SvwX8) <-
 ->mandatory wizard music<-
+[TOC]
 
 ## How I do the needful
 
@@ -52,17 +53,17 @@ Optionally:
 
 This is the "manual" method.
 
-# [![ci-_00003_db17d11c580f7881.md.png](https://simp6.jpg.church/images3/ci-_00003_db17d11c580f7881.md.png)](https://jpg3.su/img/Y8XPdni)
+-> [![ci-_00003_db17d11c580f7881.md.png](https://simp6.jpg.church/images3/ci-_00003_db17d11c580f7881.md.png)](https://jpg3.su/img/Y8XPdni) <-
 
 Here I've generated an extra deepfried ur mum in a bikini, we're talkin 14 cfg in this bitch. High cfg can cause the same deepfry problems mentioned with upscalers with inpainting and healing brush in photoshop.
 
-# [![Screenshot-2023-12-26-0201211146173f72b02a9f.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-0201211146173f72b02a9f.md.png)](https://jpg3.su/img/Y8XkdlW)
+-> [![Screenshot-2023-12-26-0201211146173f72b02a9f.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-0201211146173f72b02a9f.md.png)](https://jpg3.su/img/Y8XkdlW) <-
 
 Get that bitch in ur photo editor and mask off her shit , you can just be lmao messy with a brush tbh
 
 !!! info You usually don't worry about feathering or blurring, depending on the situation it'll often work with masks as binary and in my testing it tends to not matter, you will use blurring in the next method. Try doing a bitwise operation on a Gaussian blurred mask and receive tensor size mismatch errors. Not relying on blurred masks (I used to use this method too) will let you do more advanced stuff later. You can do it if it makes you feel better for simple stuff, I still do out of habit it feels wrong not too. 
 
-# [![image0ab0b4e9c51e381f.md.png](https://simp6.jpg.church/images3/image0ab0b4e9c51e381f.md.png)](https://jpg3.su/img/Y8XsTm7)
+-> [![image0ab0b4e9c51e381f.md.png](https://simp6.jpg.church/images3/image0ab0b4e9c51e381f.md.png)](https://jpg3.su/img/Y8XsTm7) <-
 
 1. Load your image into Inpaint Upload
 2. Detect Size
@@ -73,19 +74,19 @@ Get that bitch in ur photo editor and mask off her shit , you can just be lmao m
 6. Download the controlnet output in the top right and open in photoshop in the same project as your mask.
 
 Now you can either make a new layer and paint over the white lines with black and save.
-# [![Screenshot-2023-12-26-0228144adae98f3eca4296.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-0228144adae98f3eca4296.md.png)](https://jpg3.su/img/Y8Xp3Cy)
+-> [![Screenshot-2023-12-26-0228144adae98f3eca4296.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-0228144adae98f3eca4296.md.png)](https://jpg3.su/img/Y8Xp3Cy) <-
 
 Or you can just duplicate the mask layer and set its blend mode to subtract.
-# [![Screenshot-2023-12-26-025900983d704f09965981.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-025900983d704f09965981.md.png)](https://jpg3.su/img/Y8XoGdG)
+-> [![Screenshot-2023-12-26-025900983d704f09965981.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-025900983d704f09965981.md.png)](https://jpg3.su/img/Y8XoGdG) <-
 
 Now bring the edit into controlnet and **set Preproccesor to none**.
-# [![Screenshot-2023-12-26-0231155091d9b57e2e16f6.md.png](https://simp4.jpg.church/Screenshot-2023-12-26-0231155091d9b57e2e16f6.md.png)](https://jpg3.su/img/Y8XpCN5)
+-> [![Screenshot-2023-12-26-0231155091d9b57e2e16f6.md.png](https://simp4.jpg.church/Screenshot-2023-12-26-0231155091d9b57e2e16f6.md.png)](https://jpg3.su/img/Y8XpCN5) <-
 
 Type "nude woman" in your prompt. If you use any of that "high quality" "4k photo dslr" shit or negatives, especially the easy negative type loras you're a retarded fag that hasn't read the papers on how the text encoding works. 
 
 Cast ur spell, wizard. 
 
-# [![ci-_00003_726dd7b794d11c04.md.jpg](https://simp6.jpg.church/images3/ci-_00003_726dd7b794d11c04.md.jpg)](https://jpg3.su/img/Y8XDAbh)
+-> [![ci-_00003_726dd7b794d11c04.md.jpg](https://simp6.jpg.church/images3/ci-_00003_726dd7b794d11c04.md.jpg)](https://jpg3.su/img/Y8XDAbh) <-
 
 [Zlip zloop her clothes are ripped to shreds.](https://www.youtube.com/watch?v=15a_-ctI4io)
 
@@ -95,16 +96,19 @@ Cast ur spell, wizard.
 Why its easy, just dump it out of the can and nuke for 90 seconds. Not as filling tho. This method is better for things like, burkas, sweaters, when the outline of their subject is lumpy fabric and you cant tell whats underneath but you'd really like some fleshy pixels there anyways. The idea is you wanna destroy that "edge" of the clothing and let the spahgetti act as a sort of border. 
 !!!info You can combine cannys using both methods for different parts of the image
 
-# [![Screenshot-2023-12-26-031238233c2599965dd95d.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-031238233c2599965dd95d.md.png)](https://jpg3.su/img/Y8gYuKu)
+-> [![Screenshot-2023-12-26-031238233c2599965dd95d.md.png](https://simp6.jpg.church/images3/Screenshot-2023-12-26-031238233c2599965dd95d.md.png)](https://jpg3.su/img/Y8gYuKu) <-
 !!!warning If you blur too high you'll reveal that line caused by the clothing and even if its very very very very faint controlnet will see it.
 Go back to the "Mess with the high/low threshold to get clean outline" step and this time drop it pretty low, not all the way, until you get this mess and get it into photoshop, again subtract your mask from it or go crazy with the paintbrush, this time you can have a lil growth and Gaussian blur as a treat.
 
-# [![00008-ci-216549673f49689b7495cb7d6.md.png](https://simp6.jpg.church/images3/00008-ci-216549673f49689b7495cb7d6.md.png)](https://jpg3.su/img/Y8garMm)
+-> [![00008-ci-216549673f49689b7495cb7d6.md.png](https://simp6.jpg.church/images3/00008-ci-216549673f49689b7495cb7d6.md.png)](https://jpg3.su/img/Y8garMm) <-
 
-# [![00007-ci-3592204213b27bf27a1f070dbf.md.png](https://simp6.jpg.church/images3/00007-ci-3592204213b27bf27a1f070dbf.md.png)](https://jpg3.su/img/Y8gagJe)
+-> [![00007-ci-3592204213b27bf27a1f070dbf.md.png](https://simp6.jpg.church/images3/00007-ci-3592204213b27bf27a1f070dbf.md.png)](https://jpg3.su/img/Y8gagJe) <-
 You can also just not use a mask with the spaghetti and img2img that
 
+## Quality Control
+
 There's much more you can do to get better quality like 
+
 - wash the jpeg with [1x jaywreck3-lite](https://nmkd.de/?esrgan) to remove some artifacts before processing  
 - playing with various controlnet weight and ending step 
 	- canny controlnet weight will influence your skin colors leading too "tanlines" that arent from needing more latent mask blur
@@ -123,9 +127,16 @@ There's much more you can do to get better quality like
 - simply polishing it in photoshop,
 - drawing your own canny lines in photoshop to place the boobs/nipples exactly where you want
 
-
-
 Learn how each tool works and when and where to use it. A photo real nude takes me about 20-30 min to get literally perfect or 1 minute for a lazy comfy workflow. It'll only take you a minute with auto1111 to do the first 80% of it like my examples. 
+
+Lets talk about prompting too. First lets explain a little bit about how a section of the artificial neural net works. If you ask it for a cat, or a synonym for it as far as CLIP is concerned, it will use its "cat neurons" to generate the image. When you explore how these neurons are connected you realize that the parts of the face, tail, and other features will be spread out across neurons. But there's other "things" in these neurons that arent exactly cats. And in reality its much more abstract than that. So every time you use a token, you're activating neurons that do things you may not understand. 
+[KISS, Keep It Simple Stupid](https://en.wikipedia.org/wiki/KISS_principle). 
+
+Same for negatives. The only time you should grab a negative is if its actually drawing hair over your nipples and you can try to go say "hair" and it *might* help sometimes like SDXL doesnt even do negatives, and that's officially from the stability team who made this shit. All you're doing is blocking those neurons that your other neurons might need to generate something that looks real. Only grab a negative prompt if canny for some reason really cant help you. Like if you're having fingers grow long and "add on" to the hands even tho they masked but they're on top of clothes, just make sure canny can see the hands well.
+
+If you really wanna learn just how clever and smart stable diffusion really is go train textual inversions where you can train it on a single straight on headshot and if you prompt for a side view *it knows the correct head profile*. Like if you're in-painting, it knows this is a photo. If you turn your CFG down to ~1 it'll recognize "hey this is a blurry cellphone pic with artifacts lets add those in". Those of you prompting RAW, like, what the fuck kind of stupid are you RAW images look *terrible* they need to be color corrected jesus fucking christ on a stick. Or 4k, like, you think any of this shit was trained on 4k images??? Are you even inpainting a 4k image?!? Think about what you're putting in that text box. 99% of the shit you see people do is [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult_programming).
+
+
 
 Other uses than nudity:
 - Spread legs its easy to add a [dildo penetration](https://civitai.com/models/9651/hyper-penetration-stomach-bulge).
@@ -137,6 +148,6 @@ Other uses than nudity:
 
 If you're new to this and feeling creative with making nudes for anons, 90% of anons just want it to be as close to the original image as possible. 
 
-# [![CIws_26-053730fb8f4d0458d91a33.md.jpg](https://simp6.jpg.church/images3/CIws_26-053730fb8f4d0458d91a33.md.jpg)](https://jpg3.su/img/Y8gUGS6)
+-> [![CIws_26-053730fb8f4d0458d91a33.md.jpg](https://simp6.jpg.church/images3/CIws_26-053730fb8f4d0458d91a33.md.jpg)](https://jpg3.su/img/Y8gUGS6)
 
 ->**\[ci\]**<-

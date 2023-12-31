@@ -99,6 +99,9 @@ https://nolialsea.github.io/Wpp/
 https://character-tools.srjuggernaut.dev/character-editor
 - new character editor; support of cards v2 spec (no details provided on the extent)
 
+https://desune.moe/aichared
+- newest fork of Zoltan's character editor; support of cards v2 spec (limited alternative greetings support, no lorebook support, SillyTavern-focused)
+
 https://www.notion.so
 - markdown wiki website with great UX, great to organize project ideas, has live editing and section-commenting so can be used for collaboration
 

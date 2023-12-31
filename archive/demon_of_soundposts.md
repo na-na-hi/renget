@@ -1,0 +1,2226 @@
+# -> ![](https://files.catbox.moe/f9inkg.png) Demon of Soundposts ![](https://files.catbox.moe/f9inkg.png) <-
+
+!!! info
+    This page is hopelessly out of date at the moment (last entry is from September 2023, many streamable links are dead) due to the anon tending to the previous version of the page disappearing but it will be rejuvenated and hopefully kept up-to-date sometime early next year.
+
+[TOC2]
+## Sorted solo streams
+###【Unpacking】Moving into the hololive office 🎼
+> Baby Clothes
+files.catbox.moe/jyr7tz.mp3
+
+> Wouldn't that be fun?
+https://files.catbox.moe/1sh8o1.mp3
+
+>Pay Attention
+https://files.catbox.moe/jhxelj.opus
+
+> I can feel it in my bones
+https://files.catbox.moe/okgv48.mp3
+
+###【One Hand Clapping】Using my voice to play~ 🎼
+> You bitch
+https://files.catbox.moe/hlnnao.opus
+
+>PLAP PLAP PLAP
+https://files.catbox.moe/wxtwh6.aac
+
+###【Getting Over It】Really? You came to watch me suffer? 🎼
+> That wasn't very cash money of you
+https://files.catbox.moe/dm04uy.mp3
+
+>Don't kiss my ass too much
+https://files.catbox.moe/1e560e.mp3
+
+> Please I'm begging you. I'm doing my best.
+https://files.catbox.moe/ab58gf.mp3
+
+> Oh fuck yeah. Oh yeah.
+https://files.catbox.moe/yt2ov7.mp3
+
+###【hololive ERROR】Should I be scared of my Senpai? 🎼
+>I CAN SAVE HER
+https://files.catbox.moe/9f8h0q.mp3
+
+> Dorky Laugh
+https://files.catbox.moe/h4wsss.mp3
+
+> Forehead Smoochies
+https://files.catbox.moe/h6mcrg.mp3
+
+> Uno Momento
+https://files.catbox.moe/e5uiz0.mp3
+
+> Goodbye
+https://files.catbox.moe/kryrkr.mp3
+
+###【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼
+> Guitarissa
+https://files.catbox.moe/21rv7v.mp3
+
+###【SOS:AWL】A quiet life on the farm... (SPOILERS AHEAD) 🎼
+> Shiki Ichinose mogs all the Lovelive girls
+https://files.catbox.moe/qia70d.mp3
+https://streamable.com/s3ndu8
+
+> We're on some copium right now.
+https://files.catbox.moe/f9z2yc.mp3
+
+> Let's fucking go.
+https://files.catbox.moe/oh2mr1.mp3
+
+> I'm dumb. Oh my god, I'm stupid.
+https://files.catbox.moe/l1kj2h.mp3
+
+> We're going to milk Fauna.
+https://files.catbox.moe/iqo7p6.mp3
+
+> Nerissa picks Fuwawa
+https://streamable.com/cjjsjm
+
+###【RING FIT ADVENTURE】Let's get RIPPED Jailbirds! 🎼
+> Hard time
+https://files.catbox.moe/ygnnam.mp3
+
+> Ringfit1
+https://files.catbox.moe/9fg2v5.mp3
+https://streamable.com/q3cw9z
+
+> Ringfit2
+https://files.catbox.moe/xn0gps.mp3
+https://streamable.com/kd2dnw
+
+> Ringfit3
+https://files.catbox.moe/senu0w.mp3
+https://streamable.com/v4zovz
+
+> Otsukaresama moan
+https://files.catbox.moe/ji8aow.mp3
+https://streamable.com/dr6tjh
+
+> Like, Subscribe, Notification Bell
+https://files.catbox.moe/o4letp.mp3
+https://streamable.com/4ys04v
+
+> Take off your underwear
+https://files.catbox.moe/f4avy3.mp3
+https://streamable.com/e4qgd7
+
+> Do it for me.
+https://files.catbox.moe/q0w0xs.mp3
+https://streamable.com/9odt0z
+
+###【THE WITCH'S HOUSE MV】Yeah, going into a random house in the woods seems safe 🎼
+> We got a baby.
+https://files.catbox.moe/oveju8.mp3
+https://streamable.com/8ykcw7
+
+> I don't freaking know
+https://files.catbox.moe/fu1ce7.mp3
+https://streamable.com/qvbbfx
+
+> What the fuck man
+https://files.catbox.moe/a9jfy9.mp3
+https://streamable.com/e4nauy
+
+> Chased / Nerissa sounds
+https://files.catbox.moe/wlc69z.mp3
+https://streamable.com/sdjmij
+
+> F in the chat please
+https://files.catbox.moe/ovv2u5.mp3
+https://streamable.com/h5127i
+
+> He doesn't even know English. Isn't that fucking Funny?
+https://files.catbox.moe/25iyyt.mp3
+https://streamable.com/57gqx6
+
+> Boobfiend
+https://files.catbox.moe/wy65xx.mp3
+
+> Play with my hair
+https://files.catbox.moe/561ldr.mp3
+https://streamable.com/h73q6m
+
+> Thank you smooches
+https://files.catbox.moe/m15q01.mp3
+
+> Take off your bras, girls
+https://files.catbox.moe/yakwck.mp3
+https://streamable.com/iipeug
+
+> Rock Rock
+https://files.catbox.moe/vdxwkh.mp3
+
+> Biboo Impression
+https://files.catbox.moe/b2hdw5.mp3
+https://streamable.com/de8s6j
+
+> Shiori impression
+https://files.catbox.moe/7h9cip.mp3
+https://streamable.com/x3pow7
+
+> Kira Kira Koseki
+https://files.catbox.moe/jgbw28.mp3
+https://streamable.com/ssu137
+
+###【Terraria】I must dig. (Open VC and world) 🎼
+> Terraria BGM
+https://files.catbox.moe/35y01i.mp3
+
+> Biboo where are you? Please Queen.
+https://files.catbox.moe/l4l6pt.mp3
+https://streamable.com/4tc2zz
+
+> Skill Issue?!
+https://files.catbox.moe/tep4lw.mp3
+https://streamable.com/3n45mo
+
+> I'll kick your ass
+https://files.catbox.moe/zqwzzs.mp3
+https://streamable.com/tr7aqb
+
+> Cringemaster
+https://files.catbox.moe/2wz3k6.mp3
+https://streamable.com/yxtg4l
+
+> I'm doing my best, be nice to me
+https://files.catbox.moe/5s8ct0.mp3
+https://streamable.com/hyr7y2
+
+> You can go all the way to hell. Literally.
+http://files.catbox.moe/zmqoas.mp3
+https://streamable.com/sz19jt
+
+> Biboo: Ooh, bunny. 
+> Nerissa: You can kill it
+https://files.catbox.moe/5vdyi6.mp3
+https://streamable.com/7835p0
+
+> Biboo: Ow, it hurts! 
+> Nerissa: I'm coming slowly, but surely.
+https://files.catbox.moe/i8s19t.mp3
+https://streamable.com/wjc9l0
+
+> There's shame in liking MLP
+https://files.catbox.moe/sl6nvm.mp3
+https://streamable.com/zgg2gl
+
+> WTF was that?
+https://files.catbox.moe/1qu4vu.mp3
+https://streamable.com/d7oto1
+
+> Haha, Idiot
+https://files.catbox.moe/jh610p.mp3
+https://streamable.com/46api0
+
+> Yummy yummy in my tummy
+https://files.catbox.moe/8vllz0.mp3
+https://streamable.com/hiuoib
+
+> Nerissa moan 2
+https://streamable.com/8dhl3f
+
+> Nerissa moan 3
+https://streamable.com/q89zvq
+
+> I need you to get drained
+https://streamable.com/earve6
+
+> Yeah drain it out
+https://streamable.com/bs9g6y
+
+> Guh
+https://streamable.com/bb91xi
+
+> Thank you for coming to my Ted Talk
+https://streamable.com/n8bcvc
+
+> Ogey
+https://streamable.com/6aad7c
+
+###【HoloCure: Save the Fans!】Let's roll for the ID girls! 🎼
+> KonFauna
+https://files.catbox.moe/2adecb.mp3
+https://streamable.com/ql1kzj
+
+> Squeal
+https://files.catbox.moe/lsdtic.mp3
+https://streamable.com/xwyq33
+
+> But I don't want it.
+https://files.catbox.moe/tjy8xt.mp3
+https://streamable.com/4wdkv3
+
+> Seeing all the Jailbirds in the game. Seeing all of you. And Destroying you.
+https://files.catbox.moe/e7abog.mp3
+https://streamable.com/akrgfo
+
+> Please I'm weak, I'm just a squirrel. I'm begging you
+https://files.catbox.moe/kcc1d7.mp3
+https://streamable.com/aqt9kq
+
+> Seething
+https://files.catbox.moe/izd9hw.mp3
+https://streamable.com/h0tgv0
+
+> Seething 2
+https://files.catbox.moe/ha8j5k.mp3
+
+> How disappointing
+https://files.catbox.moe/mtjn8e.mp3
+https://streamable.com/ed4uvw
+
+> Unga bunga big number
+https://files.catbox.moe/4vzlah.mp3
+https://streamable.com/chadlr
+
+> You guys are funny
+https://files.catbox.moe/rfkj79.mp3
+https://streamable.com/vp5b0j
+
+> I've been such a good girl. I promise.
+https://files.catbox.moe/i4dp4k.mp3
+https://streamable.com/gqe6cm
+
+> Let's go, woooo!
+https://files.catbox.moe/n2yz7w.mp3
+https://streamable.com/cm014c
+
+> Please I'm begging you
+https://files.catbox.moe/mpuq09.mp3
+https://streamable.com/t91gx9
+
+> I enjoy the exploding nuts everywhere
+https://files.catbox.moe/llubc3.mp3
+https://streamable.com/psm41o
+
+> Nice, a nut explosion
+https://files.catbox.moe/nqj1zs.mp3
+https://streamable.com/32eink
+
+> Don't call my rod weak. I have a strong rod. ---Small and short? Don't call it that!
+https://files.catbox.moe/achmcx.mp3
+https://streamable.com/ecuutc
+
+> You will take what I give you, and you will like it
+https://files.catbox.moe/58g4s9.mp3
+https://streamable.com/qoj1kf
+
+> Jailbirds I need you to have lots of energy for me
+https://files.catbox.moe/xemeog.mp3
+https://streamable.com/bqj98q
+
+> I'm a loser.
+https://files.catbox.moe/l85ybd.mp3
+https://streamable.com/w8exxz
+
+> Long Laugh
+https://files.catbox.moe/ol0j97.mp3
+https://streamable.com/jzjard
+
+> Dinner a bath or me?
+https://files.catbox.moe/ajzw6s.mp3
+https://streamable.com/pmoah8
+
+> Hi Honey!
+https://files.catbox.moe/hlahza.mp3
+https://streamable.com/ola19d
+
+> Say you love me, not that you like me
+https://files.catbox.moe/mixoxo.mp3
+https://streamable.com/oudfus
+
+> DESU DESU
+https://files.catbox.moe/0pvh6n.mp3
+https://streamable.com/47j0fb
+
+> 日本語上手じゃない (nihongo jouzu janai)
+https://files.catbox.moe/04tqty.mp3
+https://streamable.com/basahq
+
+> Do it for me
+https://files.catbox.moe/q0w0xs.mp3
+
+> Fuwawa impression
+https://files.catbox.moe/2262gy.mp3
+https://streamable.com/eg8k4f
+
+> Mococo impression
+https://files.catbox.moe/ka37xi.mp3
+https://streamable.com/zwfrep
+
+> Squeeze right past ya there
+https://files.catbox.moe/1120sw.mp3
+https://streamable.com/jkpu6s
+
+> Oh sure you betcha you can
+https://files.catbox.moe/hxm7kv.mp3
+https://streamable.com/by5xxi
+
+> Oh yeah sure you betcha
+https://files.catbox.moe/h81tr9.mp3
+https://streamable.com/6msizb
+
+> Deez nuts
+https://files.catbox.moe/18zuoz.mp3
+https://streamable.com/t49mz7
+
+> The nuts went everywhere
+files.catbox.moe/mw3vw2.mp3
+https://streamable.com/81m9ws
+
+> A lot of nutting going on
+https://files.catbox.moe/w3kpmm.mp3
+https://streamable.com/qzitz5
+
+> I need you to comprehend that I made a joke. ---Sometimes I say stupid shit on purpose.
+https://files.catbox.moe/81d3r2.mp3
+https://streamable.com/6z62gw
+
+> Sometimes I say stupid shit on purpose
+https://files.catbox.moe/p430w4.mp3
+https://streamable.com/o3yt2s
+
+> Let me take you babygirl
+https://files.catbox.moe/ljyp9a.mp3
+https://streamable.com/qqt7z1
+
+> I need more demon magic. Too much of it is being delegated to holding my breasts up.
+https://files.catbox.moe/br6g6b.mp3
+
+###【HoloCure】Gotta roll for new outfits...! 🎼
+> My Phoenix wife, she is my woman. I love her.
+https://files.catbox.moe/sb6v49.mp3
+https://streamable.com/sn85kz
+
+> Oh yeah
+https://files.catbox.moe/wzmh2s.mp3
+https://streamable.com/xo2nrm
+
+> Yawn 1 - Not bored just sleepy
+https://files.catbox.moe/9d3why.mp3
+https://streamable.com/ls9q99
+
+> Yawn 2 
+https://files.catbox.moe/7gmvgo.mp3
+https://streamable.com/7ydzre
+
+> I am your sleepy Nerissa Ravencroft
+https://files.catbox.moe/1xz37c.mp3
+https://streamable.com/hj2cje
+
+> Keep upgrading my sausage
+https://files.catbox.moe/sdn0ub.mp3
+https://streamable.com/ydf2z4
+
+> I'm begging on my hands and knees. Forgive me.
+https://files.catbox.moe/3mchgb.mp3
+https://streamable.com/nlxzdz
+
+> Meat Spin
+https://files.catbox.moe/k3t4ml.mp3
+https://streamable.com/q1grvx
+
+> Hololive is winning
+https://files.catbox.moe/lmzn2p.mp3
+https://streamable.com/5jscpk
+
+> I love that in a woman
+https://files.catbox.moe/oowp9a.mp3
+https://streamable.com/cidqkv
+
+> You feel good about yourselves bullying me?
+https://files.catbox.moe/riniog.mp3
+https://streamable.com/shekqk
+
+> Don't be a tease
+https://files.catbox.moe/9cl81u.mp3
+https://streamable.com/smlixv
+
+> I'm clingy
+https://files.catbox.moe/woie1x.mp3
+https://streamable.com/7l4gb0
+
+> I'm going to be fucked, you guys. Royally.
+https://files.catbox.moe/plxsng.mp3
+https://streamable.com/rzo3fq
+
+> They just keep coming and coming. It's so hard at the end.
+https://files.catbox.moe/ttb53p.mp3
+https://streamable.com/lbkggt
+
+> Nerissa Crying
+https://files.catbox.moe/5wcar2.mp3
+https://streamable.com/eq93i0
+
+> Skill issue? You're a skill issue. 
+https://files.catbox.moe/jeq7rm.mp3
+https://streamable.com/cod3cv
+
+> Holocure BGM
+https://files.catbox.moe/bvb0ec.mp3
+https://streamable.com/mwlkwn
+
+> Sorry in Midwestern
+https://files.catbox.moe/t04okt.mp3
+https://streamable.com/wflh2i
+
+> Hold the phone
+https://files.catbox.moe/ztwnfd.mp3
+https://streamable.com/bnb9vi
+
+> Horny jail
+https://files.catbox.moe/rzzoxm.mp3
+https://streamable.com/hpmg5o
+
+> I shan't fuck it up again
+https://files.catbox.moe/2meifa.mp3
+https://streamable.com/imn8dd
+
+> I'm in so much pain
+https://files.catbox.moe/t7xr25.mp3
+https://streamable.com/8uuxyx
+
+> Hopefully I'm not getting one guy'd
+https://files.catbox.moe/oqkypr.mp3
+https://streamable.com/h8yn7u
+
+> Gotta drown all these cats
+https://files.catbox.moe/bim1u4.mp3
+https://streamable.com/hgvai6
+
+> Nerissa moan 5
+https://files.catbox.moe/6u0e92.mp3
+https://streamable.com/cgb5j8
+
+> Oh hell yeah 2
+https://files.catbox.moe/1pcrv7.mp3
+https://streamable.com/cgb5j8
+
+> You love me? Then I'm happy
+https://files.catbox.moe/ipn60p.mp3
+https://streamable.com/a5qeyo
+
+> Kiara called me wife
+https://files.catbox.moe/jkea9u.mp3
+https://streamable.com/hokhlm
+
+> Kiara is literally perfect
+https://files.catbox.moe/yyx3mu.mp3
+https://streamable.com/2xg070
+
+> Nice, I like that, that's amazing
+https://files.catbox.moe/vfc5ic.mp3
+https://streamable.com/kc61qe
+
+> Happy birthday lazy Asian boy
+https://files.catbox.moe/dd0850.mp3
+https://streamable.com/emec2e
+
+> Something hard and fat
+https://files.catbox.moe/ty9nhx.mp3
+https://streamable.com/nz8zur
+
+> You really don't have any thoughts in your head, huh?
+https://files.catbox.moe/1jtjw6.mp3
+https://streamable.com/hnkxws
+
+> Jailbirds want one thing and it's insane.
+https://files.catbox.moe/8bw8jk.mp3
+https://streamable.com/i3wvuu
+
+> She's onto us
+https://files.catbox.moe/t7a3gk.mp3
+https://streamable.com/juns32
+
+> Have a goodnight, Jailbirds
+https://files.catbox.moe/2gg7k8.mp3
+https://streamable.com/dqh3bn
+
+###【MAD FATHER】D... Daddy? 🎼
+> Oh my god, the OG
+https://files.catbox.moe/ncjxfk.mp3
+https://streamable.com/9z42ov
+
+> I'm right. You know I'm right. That's why you're angry.
+https://files.catbox.moe/bt2en9.mp3
+https://streamable.com/lwz7ro
+
+> I'm scared. Jailbirds protect me.
+https://files.catbox.moe/o8um6o.mp3
+https://streamable.com/kucxqz
+
+> My one weakness. Math.
+https://files.catbox.moe/whf4vi.mp3
+https://streamable.com/kq00fj
+
+> What am I doing with my life?
+https://files.catbox.moe/7jxhay.mp3
+https://streamable.com/8ijajj
+
+> My mom's so hot
+https://files.catbox.moe/edgdc6.mp3
+https://streamable.com/42fj02
+
+> Lost Woods BGM
+https://files.catbox.moe/j9furp.mp3
+https://streamable.com/2yng46
+
+> I'm literally a child
+https://files.catbox.moe/ymmnw2.mp3
+https://streamable.com/ho8s3u
+
+> Thank you
+https://files.catbox.moe/xqcmz8.mp3
+https://streamable.com/2gx8m4
+
+> I just got killed by rrats 
+https://files.catbox.moe/tg6w41.mp3
+https://streamable.com/nlq4fc
+
+> Leave me alone, silly rrats
+https://files.catbox.moe/c549gn.mp3
+https://streamable.com/m8a4ta
+
+> I need a baby
+https://files.catbox.moe/w4wcy5.mp3
+https://streamable.com/mjmkip
+
+> I need a baby, I need a man
+https://files.catbox.moe/1lmfe9.mp3
+https://streamable.com/nmi1su
+
+> I'm fucked, man
+https://files.catbox.moe/ihrgbq.mp3
+https://streamable.com/g3jmt9
+
+###【UNARCHIVED KARAOKE】Singing 2000's bops! 🎼
+> If you're going to cry about it, do it somewhere else
+https://files.catbox.moe/rd6gwt.mp3
+
+> Give it to me!
+https://files.catbox.moe/4zky39.mp3
+https://streamable.com/n1nqhb
+
+> Shake it for me! Give it to me!
+https://files.catbox.moe/clwq25.mp3
+https://streamable.com/zke6ow
+
+> Why don't you play the game?
+https://files.catbox.moe/ksuird.mp3
+https://streamable.com/b0xgy1
+
+### 【Only Up】First time, please be easy 🎼
+> Rolling
+https://files.catbox.moe/ulaqbp.mp3
+https://streamable.com/be3xxy
+
+> Oh yeah, I'm a god.
+https://files.catbox.moe/t8foec.mp3
+https://streamable.com/s2c4n2
+
+> Oh yeah, I'm amazing
+https://files.catbox.moe/asle29.mp3
+https://streamable.com/7ylde7
+
+> I want to talk to all the girls in Hololive
+https://files.catbox.moe/iig0jw.mp3
+https://streamable.com/5h27zz
+
+> I'm just a little guy
+https://files.catbox.moe/ar70g5.mp3
+https://streamable.com/o3lwnz
+
+> Parkour
+https://files.catbox.moe/et5vmr.mp3
+https://streamable.com/xmn1wq
+
+> Let's go Jailbirds
+https://files.catbox.moe/8i19xv.mp3
+https://streamable.com/qll5zy
+
+> Sneeze
+https://files.catbox.moe/04e5pk.mp3
+https://streamable.com/8843kq
+
+> You are a weak kid
+https://files.catbox.moe/c7t9gs.mp3
+https://streamable.com/wu4oac
+
+> Nerissa moan 6
+https://files.catbox.moe/o3e6he.mp3
+https://streamable.com/yxp4ew
+
+> Woo, I suck 
+https://files.catbox.moe/phim2x.mp3
+https://streamable.com/jkoc98
+
+> Oh my god, woooo. Oh yeah, we're gaming.
+https://files.catbox.moe/5oel7y.mp3
+https://streamable.com/jmsjhj
+
+> I will cancel you
+https://files.catbox.moe/7bf1i8.mp3
+https://streamable.com/ek35oa
+
+> Do a flip. Do a barrel roll.
+https://files.catbox.moe/bt5hgv.mp3
+https://streamable.com/9tol7q
+
+> Wife, where are you?
+https://files.catbox.moe/pasm1v.mp3
+https://streamable.com/louh8u
+
+> Lucky you...
+https://files.catbox.moe/poskbo.mp3
+https://streamable.com/jaot6q
+
+> Membership access to her insides
+https://files.catbox.moe/en1qyg.mp3
+https://streamable.com/jinzso
+
+> Vocal Exercise 1
+https://files.catbox.moe/fn320q.mp3
+https://streamable.com/apa5vr
+
+> Vocal Exercise 2
+https://files.catbox.moe/6f6pr0.mp3
+https://streamable.com/j88is1
+
+> Nerissa's Perfect Math Class
+https://files.catbox.moe/lwau40.mp3
+https://streamable.com/efhbcn
+
+> Stay with me (short song)
+https://files.catbox.moe/2mum1z.mp3
+
+> Long Laugh 2
+https://files.catbox.moe/oidl33.mp3
+https://streamable.com/d99tg7
+
+###【SOS:AWL】Let's charm these villagers~ (SPOILERS AHEAD) 🎼 
+> I'll show you where my mole is
+https://files.catbox.moe/f6f7v3.mp3
+https://streamable.com/vhadm8
+
+> Risu's Nonstop Nut November
+https://files.catbox.moe/qrzlub.mp3
+https://streamable.com/p6si6t
+
+> Let me milk ya
+https://files.catbox.moe/wy18q1.mp3
+https://streamable.com/qe9gn6
+
+> It is so thick and creamy and good
+https://files.catbox.moe/zumbzl.mp3
+https://streamable.com/lzm8dc
+
+> Rubbing the skin raw
+https://files.catbox.moe/zgzk7k.mp3
+https://streamable.com/qpd4gx
+
+> 草 wwww
+https://files.catbox.moe/6l6ayb.mp3
+https://streamable.com/levc9d
+
+> Happy Birthday Jailbird
+https://files.catbox.moe/9a83ym.mp3
+https://streamable.com/fsgixw
+
+> Come on Jailbirds don't be so naughty
+https://streamable.com/muxp54
+
+> I need to milk Fauna one more time before she gets angry at me
+https://files.catbox.moe/3d0m0u.mp3
+https://streamable.com/ka1moq
+
+> Nerissa Moan 7
+https://files.catbox.moe/dlg11m.mp3
+https://streamable.com/x2iope
+
+> Nerissa Moan 8
+https://files.catbox.moe/ikdfni.mp3
+https://streamable.com/l47djw
+
+> Why don't you just take me to bed with you?
+https://files.catbox.moe/m8zw3a.mp3
+https://streamable.com/a6bsle
+
+> I guess I took your first time, huh?
+https://files.catbox.moe/t645xc.mp3
+https://streamable.com/cyua29
+
+> Rock, fuck you. Get out of here.
+https://files.catbox.moe/x70bkc.mp3
+https://streamable.com/dns22g
+
+> I'm tired. What are you doing?
+https://files.catbox.moe/w0pole.mp3
+https://streamable.com/ll0ooy
+
+> We gotta go to bed! We gotta sleep!
+https://files.catbox.moe/zp8for.mp3
+https://streamable.com/t5dbh8
+
+> She hates me for no reason. Now, I must get my revenge!
+https://files.catbox.moe/9y9n73.mp3
+https://streamable.com/x4axl3
+
+> I would use the sexy no jutsu
+https://files.catbox.moe/rulnyz.mp3
+https://streamable.com/uasx13
+
+> Give me your milk
+https://files.catbox.moe/oszb09.mp3
+https://streamable.com/eq00uo
+
+> I'm not a dork. I'm normal.
+https://files.catbox.moe/3ld3lo.mp3
+https://streamable.com/n7fulv
+
+> Flat is justice. Medium is premium.
+https://files.catbox.moe/aojexz.mp3
+https://streamable.com/7875fs
+
+> We love titty monsters
+https://files.catbox.moe/7gslw4.mp3
+https://streamable.com/z9sanf
+
+> If it ain't raw, I don't want it.
+https://files.catbox.moe/6bx1zk.mp3
+https://streamable.com/0vfkca
+
+> Am I being particularly lewd? Is it something I said?
+https://files.catbox.moe/xtgf1v.mp3
+https://streamable.com/kefq4m
+
+> Come on Jailbirds, don't be so naughty
+https://files.catbox.moe/ij7im6.mp3
+https://streamable.com/muxp54
+
+> Jailbirds, do you want to get milked by me?
+https://files.catbox.moe/o8t3wj.mp3
+https://streamable.com/b0gn2m
+
+> Yeah. All the way!
+https://files.catbox.moe/63jln3.mp3
+https://streamable.com/b30ka5
+
+> Passionate Lover
+https://files.catbox.moe/g3az7i.mp3
+https://streamable.com/tntpel
+
+> Do you really want to come inside that bad, if so I guess I'll consider it
+https://files.catbox.moe/1gfk2a.mp3
+https://streamable.com/yjgvcx
+
+> Holy shit, she's based
+https://streamable.com/5cblii
+
+> That would be pretty hot. Could be really hot.
+https://streamable.com/vwzlrh
+
+> Yawn 3
+https://streamable.com/1oeoky
+
+> Is your sister single? You guys are going to have to put up with me. I'm your only option.
+https://streamable.com/5jrgff
+
+> You guys are the reason I can't sleep lately. I hope you're happy.
+https://streamable.com/nm81ol
+
+> Stop keeping me up all night, Jailbirds
+https://streamable.com/pv7mjg
+
+> Phrasing? What's wrong with my phrasing?
+https://streamable.com/cqqasi
+
+> Do you guys have a dirty mind?
+https://streamable.com/5m9790
+
+> American bros, let's go!
+https://streamable.com/wew7zp
+
+> Watamelon
+https://streamable.com/ortvoc
+
+> All boobs matter
+https://streamable.com/pvusye
+
+> All boobs are good boobs rant
+https://streamable.com/c5clpb
+
+###【Resident Evil Village】I have avoided all spoilers EXCEPT for the tall woman 🎼
+> Baby Fever
+https://files.catbox.moe/bjxxja.mp3
+https://streamable.com/kzsie5
+
+> Go ahead, it's all yours. Suck it up. Drink it.
+https://files.catbox.moe/xmh5b7.mp3
+https://streamable.com/4nssos
+
+> I'm fucked
+https://files.catbox.moe/9z56kf.mp3
+https://streamable.com/sssuvp
+
+> Ma'am, I hate to see you leave, but I love to watch you walk away
+https://files.catbox.moe/j9la2e.mp3
+https://streamable.com/eojhbx
+
+###【MAD FATHER】Let's finish it off~ 🎼
+> Kon Bijou. Kira Kira Koseki
+https://files.catbox.moe/uzxg0y.mp3
+https://streamable.com/0efno7
+
+> Kira Kira Ravencroft
+https://files.catbox.moe/9hes1d.mp3
+https://streamable.com/qsqon3
+
+> Justicar/Just a car
+https://files.catbox.moe/jx0uq5.mp3
+https://streamable.com/vqd1ul
+
+> Mel senpai, if you're ever a little thirsty, talk to me
+https://files.catbox.moe/7iq7rs.mp3
+https://streamable.com/y6rq6g
+
+> I'm begging you. I'm actually on my hands and knees.
+https://files.catbox.moe/z3o8ht.mp3
+https://streamable.com/647v7e
+
+###【THOSE GAMES】Testing my IQ with clickbait games! 🎼
+> That game
+https://files.catbox.moe/zgeojx.mp3
+https://streamable.com/5o758n
+
+> Cope and Seethe
+https://files.catbox.moe/u82x8b.mp3
+https://streamable.com/go06y7
+
+> It's so ravencrover
+https://files.catbox.moe/acx3dp.mp3
+https://streamable.com/z4usdp
+
+> I'm not that old, am I?
+https://files.catbox.moe/eabisc.mp3
+https://streamable.com/5cyvjd
+
+> I did not think. I had no thoughts in my head when I made that decision.
+https://files.catbox.moe/af0aqz.mp3
+https://streamable.com/nzconm
+
+> I fucking died
+https://files.catbox.moe/fjiilc.mp3
+https://streamable.com/qnnza8
+
+> Easy peasy lemon squeezy
+https://files.catbox.moe/x36wm1.mp3
+https://streamable.com/e0ttz7
+
+> I've got two women
+https://files.catbox.moe/vn4e6a.mp3
+https://streamable.com/r70msj
+
+> My brain is so big and so wrinkly
+https://files.catbox.moe/6c8qyw.mp3
+https://streamable.com/tx12x5
+
+> You ever just... you don't think
+https://files.catbox.moe/bkrygs.mp3
+https://streamable.com/uxud2v
+
+###【Terraria】Onto the next part of our adventure! (Open VC and world) 🎼
+> Trust me bro, source: trust me
+https://files.catbox.moe/w9xdnn.mp3
+https://streamable.com/3wo277
+
+> There they are, my nuts. I needed to find them.
+https://files.catbox.moe/zgefrt.mp3
+https://streamable.com/6w7vo8
+
+> Nice nuts? Thanks.
+https://files.catbox.moe/vjszbx.mp3
+https://streamable.com/uiz7rh
+
+> Don't act normal. Act Feral. I'm asking you. Overreact. Give me it.
+https://files.catbox.moe/rw66k3.mp3
+https://streamable.com/ceq96f
+
+> Say the weird stuff. I'm playing coy. Keep it up.
+https://files.catbox.moe/p2iez9.mp3
+https://streamable.com/ffj59l
+
+> Shiori Ravencroft
+https://files.catbox.moe/cifui6.mp3
+https://streamable.com/91cqo9
+
+###【MEMBERSHIP OPENING】I guess you can come in my house, Jailbird~🎼
+> What a good boy.
+https://files.catbox.moe/sbp07e.mp3
+https://streamable.com/oyq98l
+
+> Nerissa's assets
+https://files.catbox.moe/mybrah.mp3
+https://streamable.com/2tk9pp
+
+> Nerissa laughing at her own joke
+https://files.catbox.moe/knsvd5.mp3
+https://streamable.com/p2al1o
+
+> Hi Honey. Welcome home. Would you like dinner, a bath, or maybe me?
+https://files.catbox.moe/zwl3wl.mp3
+https://streamable.com/ug9ojk
+
+> You have picked the wrong romancing option.
+https://files.catbox.moe/laxzi4.mp3
+https://streamable.com/ib31gd
+
+> Nerissa did not approve.
+https://files.catbox.moe/qfvj47.mp3
+https://streamable.com/em11ql
+
+> I don't know what you want me to do.
+https://files.catbox.moe/i3qv0h.mp3
+https://streamable.com/xvrvmj
+
+> Keep on keepin' on
+https://files.catbox.moe/lib5bi.mp3
+https://streamable.com/0h6ymm
+
+> No parties. Can't invite Novelites, Pebbles, or Ruffians.
+https://files.catbox.moe/p6qcm3.mp3
+https://streamable.com/r0phnd
+
+> A little kiss just for you
+https://files.catbox.moe/dz4sez.mp3
+https://streamable.com/xdh6jq
+
+> Get away from me. Go back, go back elsewhere.
+https://files.catbox.moe/c4xggh.mp3
+https://streamable.com/llse0e
+
+> Go back, go back elsewhere.
+https://files.catbox.moe/pz7zqx.mp3
+https://streamable.com/tgyblt
+
+###【Papers, Please】If you want in, you gotta go through me first 🎼
+> Hiya Darlings (outtake 2)
+https://files.catbox.moe/vp6hpm.mp3
+https://streamable.com/k1t8k5
+
+> You're not from here. Get out.
+https://files.catbox.moe/i4b2pq.mp3
+https://streamable.com/9e8ujg
+
+> Unbelievable. Go to hell.
+https://files.catbox.moe/nixgye.mp3
+https://streamable.com/jopprs
+
+> Sounds like a (you) problem, man. 
+https://files.catbox.moe/xjqlat.mp3
+https://streamable.com/ncl91u
+
+> Sorry guys, my brain-
+https://files.catbox.moe/rrh098.mp3
+https://streamable.com/qc5ps4
+
+> The numbers, I don't know what they mean
+https://files.catbox.moe/ymcx6j.mp3
+https://streamable.com/4uot64
+
+> Papers Please
+https://files.catbox.moe/1gdev8.mp3
+https://streamable.com/g28d0c
+
+> Thank you, Number Bros.
+https://files.catbox.moe/9ex7ej.mp3
+https://streamable.com/ainufr
+
+> My son is dead? What do you mean?
+https://files.catbox.moe/wfhm5x.mp3
+https://streamable.com/8o34wb
+
+> I don't trust people from there
+https://files.catbox.moe/hjmjzx.mp3
+https://streamable.com/16h3fr
+
+> Guys, I got sent to fucking Jail. I just fucking lost.
+https://files.catbox.moe/ftl687.mp3
+https://streamable.com/ij763w
+
+> I'll find you. I know where you sleep, Jailbirds
+https://files.catbox.moe/4l9ia0.mp3
+https://streamable.com/x77ow8
+
+> After what happened, no one will ever marry me, so now you have to.
+https://files.catbox.moe/jcq2t4.mp3
+https://streamable.com/dvliwn
+
+> As long as you're locked in with me, isn't it worth it?
+https://files.catbox.moe/bvi1z9.mp3
+https://streamable.com/2lgycj
+
+> Jailbirds, you're doing a flip
+https://files.catbox.moe/cx3ilt.mp3
+https://streamable.com/cy0b8p
+
+> I accidentally PNG'd myself
+https://files.catbox.moe/9epyu2.mp3
+https://streamable.com/zd2lig
+
+> Bullshit
+https://files.catbox.moe/t58809.mp3
+https://streamable.com/ozc7v4
+
+> Gimme ya fingies
+https://files.catbox.moe/dm94ei.mp3
+https://streamable.com/hig02n
+
+> Omigawd, I'm stupid
+https://files.catbox.moe/chhpps.mp3
+https://streamable.com/hvhrlh
+
+> The numbers? I haven't looked at the numbers yet
+https://files.catbox.moe/614g0g.mp3
+https://streamable.com/zaqdi8
+
+> Papers Please BGM
+https://files.catbox.moe/rhoib5.mp3
+https://streamable.com/9fquvf
+
+###【Resident Evil Village】Woah. 🎼
+> Let me in, let me in
+https://files.catbox.moe/1vp4ev.mp3
+https://streamable.com/dj1222
+
+> That's not hot girl shit
+https://files.catbox.moe/888ujo.mp3
+https://streamable.com/3wzbmp
+
+> Is this a poor person?
+https://files.catbox.moe/t6474r.mp3
+https://streamable.com/8x0uf7
+
+> It's over. It is so over.
+https://files.catbox.moe/29kao4.mp3
+https://streamable.com/e405yb
+
+> It went in the wrong hole
+https://files.catbox.moe/oa62ap.mp3
+https://streamable.com/zy3j3g
+
+> I refuse to read. You cannot pay me to read.
+https://files.catbox.moe/t9c7gf.mp3
+https://streamable.com/6dosf9
+
+> *sobbing* I don't know where to go
+https://files.catbox.moe/i095sp.mp3
+https://streamable.com/oyuyfo
+
+> I'm about to get my ass beat
+https://files.catbox.moe/rm1cb1.mp3
+https://streamable.com/ke7x11
+
+> Mommy, I'm sorry. Mommy, sorry!
+https://files.catbox.moe/3rq4po.mp3
+https://streamable.com/3hptcw
+
+> Absolutely fucking not
+https://files.catbox.moe/5xaiu5.mp3
+https://streamable.com/bvp7e6
+
+> Don't look at me. Don't look in my direction. Don't perceive me. Don't pretend you see where I am.
+https://files.catbox.moe/8fr06w.mp3
+https://streamable.com/cdv81b
+
+###【SOS:AWL】Summer, the hottest month of the year (SPOILERS AHEAD) 🎼
+> Maybe, maybe, maybe
+https://files.catbox.moe/iexwvx.mp3
+https://streamable.com/rn98kj
+
+> We need to get married
+https://files.catbox.moe/n5fv7i.mp3
+https://streamable.com/nuq4d8
+
+> Not even 8 a.m. and I'm already engaged
+https://files.catbox.moe/qib8hh.mp3
+https://streamable.com/wo85b6
+
+> We're Moomin now
+https://files.catbox.moe/xpwr1c.mp3
+https://streamable.com/23sm2h
+
+> You're my type, silly!
+https://files.catbox.moe/06cq1s.mp3
+https://streamable.com/tu6p8e
+
+> Nooo, don't make fun of me! 
+https://files.catbox.moe/59lhl0.mp3
+https://streamable.com/61wmde
+
+> That's so chuuni
+https://files.catbox.moe/vttudv.mp3
+https://streamable.com/69tykb
+
+> Moon Prism Power, Make Up
+https://files.catbox.moe/yy512o.mp3
+https://streamable.com/2wr3gx
+
+> I'm already old enough as it is. I don't need to feel older than I already am.
+https://files.catbox.moe/lw5bn7.mp3
+https://streamable.com/flglw5
+
+> I don't wanna breed Fauna
+https://files.catbox.moe/lpt0cm.mp3
+https://streamable.com/opy46b
+
+> Braless? I'm braless.
+https://files.catbox.moe/vqwfwf.mp3
+https://streamable.com/3vynyj
+
+> I am simply not wearing anything. I like to feel the wind on my... you know...
+https://files.catbox.moe/ib6cuy.mp3
+https://streamable.com/212j37
+
+> frfr no cap
+https://files.catbox.moe/aa1kgq.mp3
+https://streamable.com/4tpl5l
+
+> Ok, I'll be your own personal little succubus then.
+https://files.catbox.moe/48wzpc.mp3
+https://streamable.com/34pzrg
+
+> We're going to get married and we're going to have a kid
+https://files.catbox.moe/rs9dt8.mp3
+https://streamable.com/dmdd3h
+
+###【Terraria】Going to hell frfr (Open VC and world) 🎼
+> Why don't you believe me? Trust me bro. 
+https://files.catbox.moe/iokxs9.mp3
+https://streamable.com/iyoxp1
+
+> I'm the light of your life. You little charmer.
+https://files.catbox.moe/h8c7y8.mp3
+https://streamable.com/143shx
+
+> We're just like FuwaMoco fr fr
+https://files.catbox.moe/nr0koq.mp3
+https://streamable.com/cx5crm
+
+> Nerissa: Please don't go through lava.
+> Shiori: Is it going through lava?
+> Nerissa: Yes.
+https://files.catbox.moe/acktj1.mp3
+https://streamable.com/5qmxea
+
+> Shiori, look my direction
+https://files.catbox.moe/3nqnvu.mp3
+https://streamable.com/ci3p70
+
+> Some people just don't understand what it's like to have an ass like mine
+https://files.catbox.moe/xvd3gw.mp3
+https://streamable.com/96m9id
+
+> Shiori: Is it cause of your big dumpy? 
+> Nerissa: Yeah, exactly. Because of my big ass.
+https://files.catbox.moe/pury3l.mp3
+https://streamable.com/gc0rvk
+
+> Thank you, Bestie - number five
+https://files.catbox.moe/d7yq6h.mp3
+https://streamable.com/76ohlj
+
+> Biboo, why would you hit me on the head like that?
+https://files.catbox.moe/xbvnsc.mp3
+https://streamable.com/max584
+
+> Shiori: Honey, I'm home. 
+> Nerissa: Welcome home, darling.
+https://files.catbox.moe/hqkdn0.mp3
+https://streamable.com/g9m43x
+
+> Shiori: Time to relive my trauma. 
+> Nerissa: Don't be traumatized.
+> Shiori: That's not how trauma works, Rissa.
+https://files.catbox.moe/g6sc8f.mp3
+https://streamable.com/e1mkwp
+
+> Shiori: Oh hey, you've got a chest here.
+https://files.catbox.moe/3ijc28.mp3
+https://streamable.com/uyhill
+
+> BEEP BEEP BEEP
+https://files.catbox.moe/ytt650.mp3
+https://streamable.com/2as57w
+
+> Aight, I'mma head out 
+https://files.catbox.moe/x7u6m4.mp3
+https://streamable.com/mr9a22
+
+> Shiori: I'm collecting you first. 
+> Nerissa: That was so smooth of you.
+https://files.catbox.moe/vvopfa.mp3
+https://streamable.com/8mwzox
+
+### 【Trombone Champ】Doot doot doot 🎼
+> Vocal Exercise 3
+https://files.catbox.moe/ih2c6o.mp3
+https://streamable.com/3vvtst
+
+> Oh my god, I'm amazing
+https://files.catbox.moe/w3f3b1.mp3
+https://streamable.com/w5khyz
+
+> It's kinda based
+https://files.catbox.moe/rwpvhb.mp3
+https://streamable.com/ikmra2
+
+> God, it's so long
+https://files.catbox.moe/rgb20r.mp3
+https://streamable.com/woioul
+
+> Baboons
+https://files.catbox.moe/cwozm2.mp3
+https://streamable.com/yuca7j
+
+> Wait for it. Anticipation is building up inside my skin.
+https://files.catbox.moe/hoxaf1.mp3
+https://streamable.com/x8cyzd
+
+> Nerissa kisses
+https://files.catbox.moe/yceu4t.mp3
+https://streamable.com/cupr9i
+
+> Star-Spangled Banner
+https://streamable.com/kdforb
+
+> America time, lets go!
+https://files.catbox.moe/0krk81.mp3
+https://streamable.com/mw5c49
+
+> Merry Christmas, everybody!
+https://files.catbox.moe/myplkk.mp3
+https://streamable.com/7i25xz
+
+> C'mon Jailbirds, faster faster. You're going too slow
+https://files.catbox.moe/v084ae.mp3
+https://streamable.com/hbrwnm
+
+> Harder, harder. You're not going hard enough. Faster 
+https://files.catbox.moe/39lstm.mp3
+https://streamable.com/iocfn1
+
+> But sometimes it's like I want to have something in my mouth.
+https://files.catbox.moe/4q6z3i.mp3
+https://streamable.com/cgwonh
+
+###【Resident Evil Village】Finishing off Castle Dimitrescu (... Maybe??) 🎼
+> I'm feeling so attacked now you guys.
+https://files.catbox.moe/nucl08.mp3
+https://streamable.com/pkaia8
+
+> I am very cute. I don't deserve this.
+https://files.catbox.moe/dx7ljs.mp3
+https://streamable.com/1s5cwg
+
+> Nerissa jumpscared
+https://files.catbox.moe/bg0hzr.mp3
+https://streamable.com/arsrsz
+
+> She was gonna fucking eat me, man.
+https://files.catbox.moe/pu23e4.mp3
+https://streamable.com/d2yyis
+
+> I'm sorry mommy!
+https://files.catbox.moe/63bsf9.mp3
+https://streamable.com/uwegkp
+
+> I don't know enough Japanese to know what she's talking about.
+https://files.catbox.moe/5w0p27.mp3
+https://streamable.com/qxzkmc
+
+> Look at that cake. She is caked up. Ma'am put that away. Geez, baby got back indeed. 
+https://files.catbox.moe/8n31ga.mp3
+https://streamable.com/h5zq31
+
+> She got me acting up
+https://files.catbox.moe/ljnuf9.mp3
+https://streamable.com/9gieqm
+
+> Is that a fucking computer?
+https://files.catbox.moe/swp7hv.mp3
+https://streamable.com/nbwzdn
+
+> Fuck Reading 3
+https://files.catbox.moe/yq8ota.mp3
+https://streamable.com/dif30l
+
+> Nerissa jumpscared 2
+https://files.catbox.moe/9sx85m.mp3
+https://streamable.com/3acwsy
+
+> Mindbreak me already 
+https://files.catbox.moe/jg2adm.mp3
+https://streamable.com/88mqcf
+
+## Collabs
+###### ->【Untitled Goose Game】Wreaking havok with @KosekiBijou 🗿 🎼 <-
+> Whisper
+https://files.catbox.moe/mm7i19.mp3
+
+> Good night, darling. Good night.
+https://files.catbox.moe/ih6itz.mp3
+
+> Ogey. Is that an accent thing? No, that's internet slang.
+https://files.catbox.moe/yj3kbu.opus
+
+###### ->【L4D2】First collab with my girlies! 🎼 <-
+> Boomer Hags
+https://files.catbox.moe/95eza9.mp3
+
+> Guys, we're fucking dead.
+https://files.catbox.moe/389rqx.mp3
+
+###### ->【PHASMO】Ghost Hunting with @ShioriNovella 🎼👁‍🗨 <-
+>Bully
+https://files.catbox.moe/48vt88.mp3
+
+> Hey, bitch. What's wrong with you?
+https://files.catbox.moe/t00wqj.mp3
+https://streamable.com/q6xi40
+
+> You have a problem. I'm going to report you.
+https://files.catbox.moe/hud8pw.mp3
+https://streamable.com/mtz6iw
+
+> Nerissa Ravencroft at your service.
+https://files.catbox.moe/q4lx24.mp3
+https://streamable.com/5wjiud
+
+> Uh, don't be weird.
+https://files.catbox.moe/e4grgy.mp3
+
+> Do it for the Vine.
+https://files.catbox.moe/1ll7ky.mp3
+https://streamable.com/vqjl6x
+
+###### ->【EDF5】Advent Saves the World! 🎼 <-
+> EDF! EDF! EDF!
+https://files.catbox.moe/l1q1qw.mp3
+https://streamable.com/ahieh3
+
+> I CAN SAVE HER2
+https://files.catbox.moe/dz387k.mp3
+
+> WAH
+https://files.catbox.moe/fkkrv3.mp3
+https://streamable.com/rejw35
+
+> I am cringe, but I am free!
+https://files.catbox.moe/ct22tb.mp3
+https://streamable.com/45xo16
+
+> Nerissa moan 1
+https://files.catbox.moe/li5qtz.mp3
+
+> Long and a little hard
+https://files.catbox.moe/46yp3p.mp3
+
+> Advent family missing Shiori
+https://streamable.com/n0urx7
+
+###### ->【ARE WE A MATCH?!】Compatibility test with Kiara-senpai...! 🎼🐔 <-
+> I'll stream it for you
+https://files.catbox.moe/3n5evs.mp3
+
+> You are making my life so much better
+https://files.catbox.moe/5k23b3.mp3
+
+> Kiara: Nerissa have you read the books? 
+> Nerissa: Heck no, I don't read.
+https://files.catbox.moe/qoa4ho.mp3
+
+> Nerissa: What do you think about Naruto? 
+> Kiara: I don't give a shit about Naruto. 
+> Nerissa: You just ruined my life.
+https://files.catbox.moe/j0ieum.mp3
+
+###### ->【PowerWash Sim】Starting a business with Bae-senpai 🎼 <-
+> Oui Oui PP
+https://files.catbox.moe/inanz1.mp3
+
+> Baesed
+https://files.catbox.moe/l0rmuo.mp3
+https://streamable.com/5lu3ix
+
+> Omelette du fromage
+https://files.catbox.moe/goabps.mp3
+https://streamable.com/5nrnig
+
+> I've got a thing for big swords
+https://files.catbox.moe/h1tvcy.mp3
+https://streamable.com/iwolb8
+
+> Oh fer cute
+https://files.catbox.moe/lx1fih.mp3
+https://streamable.com/r7isla
+
+> Oofta
+https://files.catbox.moe/cmv517.mp3
+https://streamable.com/f3n5yo
+
+> That's hot. I like that.
+https://files.catbox.moe/b2ki3f.mp3
+https://streamable.com/lumf3b
+
+> We do like swag in this household
+https://files.catbox.moe/440ase.mp3
+https://streamable.com/tdz79g
+
+> Pompous dickwad
+https://files.catbox.moe/xng9as.mp3
+https://streamable.com/6lrm0g
+
+> Huffing copium
+https://files.catbox.moe/7bbwyp.mp3
+https://streamable.com/nu8lu6
+
+> Oh ya think it's cute ya
+https://streamable.com/vlsujy
+
+> Winning
+https://files.catbox.moe/krxqe7.mp3
+
+> Nerissa moan 4
+https://files.catbox.moe/4y9l9p.mp3
+https://streamable.com/j8qu2e
+
+> Are you going to discriminate against big-sworded men like this?
+https://files.catbox.moe/k8y0kp.mp3
+https://streamable.com/fvjwwj
+
+###### ->【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch 🎼 <-
+> Rock Rock. Bau Bau. Bird Bird
+https://files.catbox.moe/cxasx1.mp3
+https://streamable.com/7dny72
+
+> Hiya Darlings (outtake)
+https://files.catbox.moe/ig7ekd.mp3
+https://streamable.com/qio2y9
+
+> I'm shit at Apex LET'S GO
+https://files.catbox.moe/i7wv7h.mp3
+https://streamable.com/9mxv6e
+
+> Nerissa's XXL Milkers (Moment)
+https://files.catbox.moe/lz03ui.mp3
+https://streamable.com/76bj53
+
+> Nerissa's XXL Milkers (Reading)
+https://files.catbox.moe/momxl2.mp3
+https://streamable.com/r1aoxh
+
+> Let's get in there and kick some ass, girls!
+https://files.catbox.moe/iqzs35.mp3
+https://streamable.com/54l8fu
+
+> Bird is the word
+https://files.catbox.moe/01k6eh.mp3
+https://streamable.com/j96rsg
+
+> Biboo Supremacy
+https://files.catbox.moe/1pa289.mp3
+https://streamable.com/fmnds5
+
+> Diamond Dogs (excluded)
+https://files.catbox.moe/sizgnj.mp3
+https://streamable.com/k7jch6
+
+> I'm a support (yawn)
+https://streamable.com/uk9o01
+
+> First rule of Fight Club
+https://files.catbox.moe/sizgnj.mp3
+https://streamable.com/dr78sn
+
+> When you're that nice, you get bitches
+https://files.catbox.moe/f1l6l6.mp3
+https://streamable.com/m0yuh1
+
+> Just like me fr fr
+https://files.catbox.moe/x2uf8u.mp3
+https://streamable.com/feu3f2
+
+> I'm correcting you right here right now
+https://files.catbox.moe/ayicht.mp3
+https://streamable.com/zhx9xk
+
+> Find us and kill us Adventrix
+https://files.catbox.moe/vbvbxh.mp3
+https://streamable.com/b4udch
+
+> Get outta here with that normie shit
+https://files.catbox.moe/z6m1hx.mp3
+https://streamable.com/w3dwwc
+
+> Don't quote the old magic at me
+https://files.catbox.moe/y5ntx6.mp3
+https://streamable.com/dt5s1r
+
+> Why don't we snuggle up under the blanket?
+https://files.catbox.moe/k8dq4t.mp3
+https://streamable.com/284it5
+
+> We can all go to sleep together. Sound good?
+https://files.catbox.moe/bqiegs.mp3
+https://streamable.com/r59mns
+
+> I wub you gu-- Have a good night.
+https://files.catbox.moe/pk6o8q.mp3
+https://streamable.com/mna1q1
+
+###### ->【BG3】Starting our Adventure...! 🎼 <-
+> I'm smarter than all of you
+https://files.catbox.moe/hvsgj0.mp3
+https://streamable.com/ug108f
+
+> Kiara: Mine
+> Nerissa: YES!
+https://files.catbox.moe/ru1hye.m4a
+https://streamable.com/u2crxj
+
+> Nerissa stealing their god
+https://files.catbox.moe/nxbu1t.ogg
+
+###### ->【Terraria】Digging with the Doggies @FUWAMOCOch (Open VC and world) 🎼 <-
+> Oh hi, Mark
+https://files.catbox.moe/l3w8kn.mp3
+https://streamable.com/s8h54t
+
+> Biboo, come to me!
+https://files.catbox.moe/ym8xyl.mp3
+https://streamable.com/81cxfm
+
+> Nice~
+https://files.catbox.moe/u68wly.mp3
+https://streamable.com/auipin
+
+> Welcome to the jungle, girls
+https://files.catbox.moe/bz90ku.mp3
+https://streamable.com/xxr2dt
+
+> Yes yes yes, oh hell yes
+https://files.catbox.moe/gz1bzz.mp3
+https://streamable.com/9roqxt
+
+> Bunny Killer
+https://files.catbox.moe/8fxjo6.mp3
+https://streamable.com/4f4pp4
+
+> I'm waiting for you, it's not going to be night forever
+https://files.catbox.moe/qzm5f0.mp3
+https://streamable.com/0rmcn6
+
+> I wub you, suki suki
+https://files.catbox.moe/rd678e.mp3
+https://streamable.com/4stmed
+
+> Don't talk to strangers
+https://files.catbox.moe/x7ar2a.mp3
+https://streamable.com/27rh68
+
+###### ->【PHASMO】Have no fear, Advent is here! ⚠️🎼 <-
+> You're using Celsius? Why?
+https://files.catbox.moe/854hoj.mp3
+https://streamable.com/gl1zsk
+
+> FuwaMoco are strong guard dogs
+https://files.catbox.moe/vl7ip4.mp3
+https://streamable.com/7f3pj5
+
+> Eyy, how's it going. Hey gamer
+https://files.catbox.moe/cij3ry.mp3
+https://streamable.com/t9s0id
+
+> Ey guvna, wut you doin?
+https://files.catbox.moe/y8q8aw.mp3
+https://streamable.com/06fsed
+
+###### ->【BG3】Helping save the grove!🎼 <-
+> I want him to beat my ass.
+https://files.catbox.moe/6cql73.mp3
+https://streamable.com/xcbj5o
+
+> Give me more! Come on! 
+https://files.catbox.moe/rpfkh9.mp3
+https://streamable.com/ecrrdo
+
+> You look tired. Should I take over?
+https://files.catbox.moe/ai2miw.mp3
+https://streamable.com/2e38lv
+
+> I can go do the BDSM
+https://files.catbox.moe/wcnub8.mp3
+https://streamable.com/h4wx00
+
+> Oh my god. Kiara, go away!
+https://files.catbox.moe/2qcxz8.mp3
+https://streamable.com/6qy1ac
+
+> What a bitch.
+https://files.catbox.moe/drk1tq.mp3
+https://streamable.com/053n3i
+
+> Good Morninnnnngg
+https://files.catbox.moe/7b6eh5.mp3
+https://streamable.com/mwpbu1
+
+> Cute laugh
+https://files.catbox.moe/wm4gw8.mp3
+https://streamable.com/sowk3h
+
+> Kani kani
+https://files.catbox.moe/kav74d.mp3
+https://streamable.com/xivj6l
+
+> Nerissa Kiara Shooting at the same time
+https://files.catbox.moe/d7wyon.mp3
+https://streamable.com/s7g8q1
+
+> Let's go kill everybody!
+https://files.catbox.moe/ygsfs4.mp3
+https://streamable.com/8gmmm0
+
+> No more reinforcements, pwease
+https://files.catbox.moe/b45ax2.mp3
+https://streamable.com/htuvug
+
+> HOW DO WE STEAL HER UNDERWEAR!?
+https://files.catbox.moe/j5gkv5.mp3
+https://streamable.com/z2fbdi
+
+> I want her underwear
+https://files.catbox.moe/pdsdep.mp3
+https://streamable.com/ush7sc
+
+> Why are we discussing underwear for 10 minutes. This is important Kiara. You don't understand!
+https://files.catbox.moe/030qqm.mp3
+https://streamable.com/e4beg3
+
+> Crying laugh
+https://files.catbox.moe/q8seyv.mp3
+https://streamable.com/qg5yai
+
+> Placenta Musk
+https://files.catbox.moe/l2iaxy.mp3
+https://streamable.com/0tuzyn
+
+> Boom baby
+https://files.catbox.moe/tuf8oc.mp3
+https://streamable.com/xsf874
+
+> I love mushrooms
+https://files.catbox.moe/hegwyt.mp3
+https://streamable.com/20bn29
+
+> I have standards
+https://files.catbox.moe/pdx319.mp3
+https://streamable.com/x90u3x
+
+> I feel like I'm getting NTR'd
+https://files.catbox.moe/98rwyl.mp3
+https://streamable.com/cbt2jm
+
+> Hag mission. We gotta find the hags, man.
+https://files.catbox.moe/mr5lbk.mp3
+https://streamable.com/13nrmz
+
+###### ->【Pico Park】Can we work together? 🎼 <-
+> Nerissa, let me get that hole. Yeah, get it.
+https://files.catbox.moe/e1vxk5.mp3
+https://streamable.com/3gkvx5
+
+> Someone save me from my endless suffering
+https://files.catbox.moe/ip3nph.mp3
+https://streamable.com/rhdcfg
+
+###### ->【WEDDING STREAM】 YOU ARE INVITED 【Hololive Indonesia 2nd Gen】 <-
+> Nerissa swallowing
+https://files.catbox.moe/aucwow.mp3
+https://streamable.com/vjtdhw
+
+> Your hair smells so good, what kind of shampoo do you use
+https://files.catbox.moe/8095h3.mp3
+https://streamable.com/a6su3w
+
+> Yeah? You like that? You want it harder?
+https://files.catbox.moe/wn8eig.mp3
+https://streamable.com/bji4s8
+
+> I'll do anything
+https://files.catbox.moe/714pva.mp3
+https://streamable.com/q8yfp2
+
+> Alright, bend over
+https://files.catbox.moe/2l8arm.mp3
+https://streamable.com/azzwfe 
+
+> As long as you take responsibility
+https://files.catbox.moe/1u3un5.mp3
+https://streamable.com/sce20q
+
+> I've got these two big pillows for you to lay on
+https://files.catbox.moe/hxlxt7.mp3
+https://streamable.com/ehvkmq
+
+> You're bullying me. But you like it, don't you?
+https://files.catbox.moe/ezvy5a.mp3
+https://streamable.com/yxna08
+
+> All of your waifus are belong to us
+https://files.catbox.moe/4n6rys.mp3
+https://streamable.com/pmhoy3
+
+> Can't you hit me harder or should I take over from here?
+https://files.catbox.moe/bvolk3.mp3
+https://streamable.com/41rg7d
+
+###### ->Entering the Hololive Minecraft server with Advent! 🎼 <-
+> Nerissa kills Mococo
+https://files.catbox.moe/291pzc.mp3
+https://streamable.com/bx0pgg
+
+> There are no cats and there is no Fuwawa. You need to wake up, Mococo. Please.
+https://files.catbox.moe/2wg5q3.mp3
+https://streamable.com/647ja2
+
+> Nerissa: My teeth are very straight, too.
+> Shiori: Unlike how you act.
+https://files.catbox.moe/iwvsk7.mp3
+https://streamable.com/qhxgu4
+
+###### -> Kiara-senpai showing me around the EN Minecraft server! 🎼 <-
+> Wúnderbar 
+https://files.catbox.moe/sgl161.mp3
+https://streamable.com/gj58c3
+
+> Kiana: Don't look at me so directly, I'm shy. 
+> Nerissa: It's time to throw off your shyness.
+https://files.catbox.moe/ztjy21.mp3
+https://streamable.com/mf4ru2
+
+> Kannagi OP Sync
+https://files.catbox.moe/120g6h.mp3
+https://streamable.com/xijmjl
+
+> It's so lame, I'm so lame
+https://files.catbox.moe/ivxzq6.mp3
+https://streamable.com/52hq4a
+
+> I'm roommates with my senpai!
+https://files.catbox.moe/jkhs4o.mp3
+https://streamable.com/5u90gu
+
+> Goldshire Roleplay
+https://files.catbox.moe/muk6u4.mp3
+https://streamable.com/korang
+
+> Number 1 Ame Gosling
+https://files.catbox.moe/5uw003.mp3
+https://streamable.com/vfwo8k
+
+> Kissing in Gura's House
+https://files.catbox.moe/g0kq9g.mp3
+https://streamable.com/2v8btl
+
+> Haachama-chama...
+https://files.catbox.moe/ye8aws.mp3
+https://streamable.com/i3dg4o
+
+> You are Illiterate.
+https://files.catbox.moe/6r8w3l.mp3
+https://streamable.com/bmzj6u
+
+> Kiara: You wouldn't want me to try eating you, right? 
+> Nerissa: I would let you if you asked.
+https://files.catbox.moe/99hfh2.mp3
+https://streamable.com/sbeb62
+
+> I'll be inside of your body, Kiwawa
+https://files.catbox.moe/vosvts.mp3
+https://streamable.com/9y5znv
+
+> Counting with musical notes
+https://files.catbox.moe/b6yaxy.mp3
+https://streamable.com/nn3m8j
+
+> Kiwawa, you've abandoned me
+https://files.catbox.moe/mtafuv.mp3
+https://streamable.com/tsxaz0
+
+> It's a special hole. You shouldn't be crying.
+https://files.catbox.moe/o8y2px.mp3
+https://streamable.com/p0q6ow
+
+> Liar, liar, pants on fire
+https://files.catbox.moe/5qwzyi.mp3
+https://streamable.com/bfltet
+
+> Saying "Nerissa Ravencroft" with a German inflection
+https://files.catbox.moe/2js9hl.mp3
+https://streamable.com/yqfxf2
+
+> Trying to caw like a bird
+https://files.catbox.moe/tupsns.mp3
+https://streamable.com/xrwh7l
+
+> You do need to be naked with me. You don't need to be nervous about it.
+https://files.catbox.moe/vji4vb.mp3
+https://streamable.com/d1y3z6
+
+> Do you want to deal with my mouth?
+https://files.catbox.moe/kxz2ke.mp3
+https://streamable.com/ash7yb
+
+> ice cream eating sounds
+https://files.catbox.moe/bymgm8.mp3
+https://streamable.com/oy0lzu
+
+> Kiara: Come down here at once. 
+> Nerissa: No. I'm a star, senpai.
+https://files.catbox.moe/loi6pb.mp3
+https://streamable.com/d5ri7l
+
+> I'm coming! I'm coming! I'm coming!
+https://files.catbox.moe/qysyoq.mp3
+https://streamable.com/yoh84c
+
+> Never look at an enderman's eyes.
+https://files.catbox.moe/y2esq7.mp3
+https://streamable.com/appsqz
+
+###### -> Entering the Hololive Minecraft server with Advent FOR REAL THIS TIME! 🎼 <-
+> Nerissa: Isn't the view beautiful?
+> Shiori: Not as beautiful as you
+https://files.catbox.moe/bi1xjz.mp3
+https://streamable.com/ci22zd
+
+> Nerissa Zenloss 
+https://files.catbox.moe/u9cavy.mp3
+https://streamable.com/ugbwy3
+
+> Well maybe you should have stayed with me, Mococo!
+https://files.catbox.moe/gtmlvt.mp3
+https://streamable.com/9tt17v
+
+> Give me my stuff, Mococo
+https://files.catbox.moe/rbp55d.mp3
+https://streamable.com/5efjo4
+
+> Ok cmon, gamers. Stop jaslighting people.
+https://files.catbox.moe/j15aws.mp3
+https://streamable.com/d2djup
+
+> It's cause I'm cute like that
+https://files.catbox.moe/zjak3x.mp3
+https://streamable.com/veceob
+
+> Hey hey, Mococo look. Hey hey.
+https://files.catbox.moe/u8s0tq.mp3
+https://streamable.com/oxlnvb
+
+> We ball.
+https://files.catbox.moe/tz2tkv.mp3
+https://streamable.com/yzxvgd
+
+> Act cool, guys. Hi, Kiara senpai.
+https://files.catbox.moe/kzhq6r.mp3
+https://streamable.com/d4sxmz
+
+> I'm too old for this.
+https://files.catbox.moe/gr0z50.mp3
+https://streamable.com/v7960h
+
+> I've killed and I'll do it again!
+https://files.catbox.moe/e5ag15.mp3
+https://streamable.com/ybzftf
+
+> We'll abandon the children
+https://files.catbox.moe/65rc5m.mp3
+https://streamable.com/8tz2mf
+
+###### -> 【Mario Kart 8】Driving leisurely with Advent~ 🎼 <-
+> I hate you! Oh my god wait, I still got first. (First MK Win)
+https://files.catbox.moe/ehsgb5.mp3
+https://streamable.com/nit1y2
+
+> Second MK win (Long laugh 3)
+https://files.catbox.moe/81sujt.mp3
+https://streamable.com/ortrzv
+
+> I suck, I suck. No, no, you don't suck. I suck
+https://files.catbox.moe/29iver.mp3
+https://streamable.com/iy58yy
+
+> Mococo: Yeah, get her! Why me? 
+> Nerissa: (Blue shell dodge)
+https://files.catbox.moe/09np1f.mp3
+https://streamable.com/tueq6x
+
+> Nerissa and Biboo's opera screams
+https://files.catbox.moe/8qm7o1.mp3
+https://streamable.com/clk0rj
+
+> Biboo why are you a god? What the f--
+https://files.catbox.moe/bwb7dx.mp3
+https://streamable.com/rtllit
+
+> So long...Bowser
+https://files.catbox.moe/y4hibq.mp3
+https://streamable.com/ve8ktu
+
+> Shiorin~
+https://files.catbox.moe/9xhlk2.mp3
+https://streamable.com/2hpmdg
+
+> Rissarin~
+https://files.catbox.moe/rejw5r.mp3
+https://streamable.com/wgda5m
+
+> Nonononono
+https://files.catbox.moe/dne93w.mp3
+https://streamable.com/ursy4x
+
+> High-pitched scream 
+https://files.catbox.moe/a47upo.mp3
+https://streamable.com/ysqyc8
+
+> Spread it around like butter and eat it 
+https://files.catbox.moe/ittvjt.mp3
+https://streamable.com/aplh87
+
+> I love Fuwawa 
+https://files.catbox.moe/9ksqv6.mp3
+https://streamable.com/96ycnu
+
+> Bye-ya darlings! (almost forgot)
+https://files.catbox.moe/1iyxun.mp3
+https://streamable.com/hivqr5
+
+###### -> 【BG3】Shall be begin Act 2? (kinda)🎼 <-
+> Bijou: You need it, you want it? 
+> Nerissa: I want it so bad.
+https://files.catbox.moe/3pig28.mp3
+https://streamable.com/srcm2j
+
+> Look at this guy balding
+https://files.catbox.moe/8kvlx8.mp3
+https://streamable.com/vzw61x
+
+> My burning angel
+https://files.catbox.moe/d85j8y.mp3
+https://streamable.com/5zxn72
+
+> I'm your girlfriend now
+https://files.catbox.moe/gpf7wl.mp3
+https://streamable.com/sbukxx
+
+> I don't think I can roll a 20...I rolled a 20.
+https://files.catbox.moe/utwnx0.mp3
+https://streamable.com/dqqt09
+
+> Kiara: Nerissa's hand is kinda close to my butt. 
+> Nerissa: Right where it should be.
+https://files.catbox.moe/44obhw.mp3
+https://streamable.com/jxp10d
+
+> I can't believe Calli is so horny. I didn't know this about her.
+https://files.catbox.moe/9cv1nf.mp3
+https://streamable.com/a3o3ya
+
+> Take pictures for me. SEND PICS
+https://files.catbox.moe/d25xxy.mp3
+https://streamable.com/zlrfb6
+
+> Calliope: What a silly little guy. 
+> Nerissa: He's such a silly little guy, indeed.
+https://files.catbox.moe/c2y5nt.mp3
+https://streamable.com/8mdmla
+
+> He's not cute, he's an ugly bastard.
+https://files.catbox.moe/9tngqb.mp3
+https://streamable.com/vf6e1d
+
+###### -> 【Gartic Phone】Making masterpieces with Advent~ 🎼 <-
+> I'm making masterpieces today. These could be hung up at the museum.
+https://files.catbox.moe/m9o03g.mp3
+https://streamable.com/ky7bqa
+
+> Oooooooooo
+https://files.catbox.moe/k2a74q.mp3
+https://streamable.com/1d22dy
+
+> Everyone loves women (the full ass guy rant)
+https://streamable.com/rdropp
+
+> I do got that ass.
+https://files.catbox.moe/o1tn9n.mp3
+https://streamable.com/jp9ddk
+
+> I just like ass, it's nice to see the curve. Y'know what I mean
+https://files.catbox.moe/qj9ha4.mp3
+https://streamable.com/farkcv
+
+> I've got the nicest ass. Then it's Anerissa, then it's Oneerissa
+https://files.catbox.moe/dz9h4f.mp3
+https://streamable.com/j5wl6k
+
+> My boing boing are honestly freaking huge. This is barely going to fit in your hands as is. 
+https://files.catbox.moe/x32ra3.mp3
+https://streamable.com/gzm553
+
+> Everybody loves women. Men love women. Women love women. That's just how it is.
+https://files.catbox.moe/vr9p04.mp3
+https://streamable.com/h29omq
+
+> Look at my hips. Look at how wide they are.
+https://files.catbox.moe/mnanfh.mp3
+https://streamable.com/967gai
+
+###### -> 【JEWELBIRD】I slept in the same bed as Bijou?! 🎼 <-
+> Kawaii kara, yurushite
+https://files.catbox.moe/a0pca0.mp3
+https://streamable.com/qbte8f
+
+> Finally some good fucking food
+https://files.catbox.moe/to3q9q.mp3
+https://streamable.com/zcbs5l
+
+> Kiara is like the senpai I've always admired, and now I'm like her pet.
+https://files.catbox.moe/vvxaf1.mp3
+https://streamable.com/o2l7n2
+
+> Do it for the Vine. (w/ Bijou)
+https://files.catbox.moe/yxv4h0.mp3
+https://streamable.com/t4s3x8
+
+> Hiya, can I get uhhh...
+https://files.catbox.moe/zlsqhw.mp3
+https://streamable.com/s1fx7k
+
+> You're going to fast! Slow down! Stop, stop, stop! (Full)
+https://files.catbox.moe/ssceh9.mp3
+https://streamable.com/nbq34m
+
+> You're going to fast! Slow down!
+https://files.catbox.moe/1tuvmh.mp3
+https://streamable.com/dvm8fe
+
+> Stop, stop, stop!
+https://files.catbox.moe/7doh3e.mp3
+https://streamable.com/xsy0pn
+
+## Unsorted + Miscellaneous + Edits
+> Nerissa getting plapped by me
+https://files.catbox.moe/ejto1o.mp3
+
+> Nyarissa
+https://files.catbox.moe/smi842.mp3
+
+> nerissex1
+https://files.catbox.moe/v7a8al.mp3
+
+> nerissex2
+https://files.catbox.moe/t3sylb.mp3
+
+> nerissex3
+https://files.catbox.moe/u0z37u.mp3
+
+> Nerissa sounds
+https://files.catbox.moe/wlc69z.mp3
+
+> It's nakey time
+https://files.catbox.moe/oa2he2.mp3
+
+> Jailbirds would you spit on me
+https://files.catbox.moe/v0hy5j.mp3
+
+> Um what the hell is this
+https://files.catbox.moe/vmag93.mp3
+
+> Kitty cat come here.mp3
+https://files.catbox.moe/z18hdc.mp3
+
+> boobs
+https://files.catbox.moe/rm6y7w.mp3
+
+> My big personality in your face
+https://files.catbox.moe/x355tq.mp3
+https://streamable.com/htron8
+
+> Booby fiend
+https://files.catbox.moe/6khvn6.mp3
+https://streamable.com/rqnsq4
+
+> Booba touching PSA
+https://files.catbox.moe/iexu61.mp3
+https://streamable.com/cl06m5
+
+> No pan and anti-bra
+https://files.catbox.moe/7lc4u5.mp3
+https://streamable.com/nquxn0
+
+> Ban Pantsu PSA
+https://files.catbox.moe/ks8jn6.mp3
+https://streamable.com/s7yra3
+
+> quaso
+https://files.catbox.moe/7o8riw.mp3
+https://streamable.com/jaft38
+
+> I would never go up to a woman and grope her
+https://files.catbox.moe/ugp7x9.mp3
+https://streamable.com/j7c747
+
+> If you find someone willing to let you touch their boobs
+https://files.catbox.moe/kqvumo.mp3
+https://streamable.com/zussz1
+
+> Are you gonna tell me you don't like the feeling of boobs in your hand
+https://files.catbox.moe/9bkh6u.mp3
+https://streamable.com/s7dqj4
+
+> I have some pretty big boobs too. They're fun to play with
+https://files.catbox.moe/3r6m74.mp3
+https://streamable.com/205yge
+
+> Open up Nerissa. Please give it to me.
+https://files.catbox.moe/e5hhej.mp3
+https://streamable.com/zu48me
+
+> With your lady lips, right?
+https://streamable.com/1ct6oq
+
+> With your lady lips, right? (Full)
+https://streamable.com/1oa6c8
+
+> It hurts so good
+https://files.catbox.moe/fmk6mz.opus
+https://streamable.com/65c94g
+
+> Sleeping, no clothes. No clothes. Never. They suffocate me
+https://files.catbox.moe/pqwu4a.opus
+https://streamable.com/l7d300
+
+> I'm actually going to take my clothes off
+https://files.catbox.moe/yo6bb3.opus
+https://streamable.com/dnan7z
+
+> Bijou: Hiya Darlings, this is your sparkling jewel of emotions, Koseki Bijou
+https://files.catbox.moe/gl1d04.mp3
+https://streamable.com/xggcd5
+
+> Bijou: Look at all these chickens
+https://files.catbox.moe/cxnw8e.mp3
+https://streamable.com/8gqb1p
