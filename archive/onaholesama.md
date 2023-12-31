@@ -17,7 +17,7 @@ hello i like anthros
 text sim cards
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![https://rentry.org/MakingA4chanSimCard](https://files.catbox.moe/56f49e.png) | /afohm/ | HTML simulator of Anthro Females On Human Males. 99% credit goes to the amazing Anon who selflessly made... well basically everything for this card. https://rentry.org/MakingA4chanSimCard | [CHUB link](https://www.chub.ai/characters/onaholesama/afohm-fd257529)
+![https://rentry.org/MakingA4chanSimCard](https://files.catbox.moe/6nfcjm.png) | /afohm/ **(updated)** | HTML simulator of Anthro Females On Human Males. 99% credit goes to the amazing Anon who selflessly made... well basically everything for this card. https://rentry.org/MakingA4chanSimCard | [CHUB link](https://www.chub.ai/characters/onaholesama/afohm-fd257529)
 ![ASS Claude](https://files.catbox.moe/uwfbpw.png) | Anthrostate Stream Simulator - Claude Version | you are a humie streamer on FURRED.TV- boy do those anthros LOVE you! | [CHUB link](https://www.chub.ai/characters/onaholesama/anthrostate-stream-simulator)
 ![ASS Gpt4](https://files.catbox.moe/u3mw38.png) | Anthrostate Stream Simulator - Gpt4 Version | you are a humie streamer on FURRED.TV- boy do those anthros LOVE you! | [CHUB link](https://www.chub.ai/characters/onaholesama/anthrostate-stream-simulator)
 

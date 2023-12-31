@@ -202,7 +202,7 @@ Flame Charge | 4 BP | 5 (-1) AP | ≥2 | Fire | Physical | Priority.
 Flame Wheel | 6 BP | 5 AP | ≥2 | Fire | Physical | 19-20; The Opponent is afflicted with *Burn*. Thaws User.
 Flamethrower | 9 BP | 7 AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Flare Blitz | 10 BP | 8 AP | ≥2 | Fire | Physical | 19-20; The Opponent is afflicted with *Burn*. Thaws User. [Recoil](https://rentry.co/tmd2many_rules#recoil-screens).
-Flash Cannon | 8 BP | 6 AP | ≥2 | Steel | Special | 18-20; The Opponent's Special Defense is decreased by 1.https://www.freeconvert.com/
+Flash Cannon | 8 BP | 6 AP | ≥2 | Steel | Special | 18-20; The Opponent's Special Defense is decreased by 1.
 Fleur Cannon | 10 BP | 8 AP | ≥3 | Fairy | Special | The User's Special Attack is decreased by 2.
 **Fling** | Ø BP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; [Damage varies](https://rentry.co/tmd2many_moves#fling-table). Effect varies.
 **Flip Turn** | 6 BP | 5 AP | ≥2 | Water | Physical | Ignores Battlefield Hazards. Effects of *Wrapped* and *Stuck* are removed.

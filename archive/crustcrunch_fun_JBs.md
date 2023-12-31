@@ -8,6 +8,13 @@
 
 ![arrow](https://64.media.tumblr.com/d8f3479cd531c54753be621c8df00e4c/tumblr_inline_mpedf95ujK1qz4rgp.gif) %#f590d5%**What is this?**%% A collection of prompts to slap onto the end of your jailbreak (or insert into a card) just for fun. GPT tends to be better at stat trackers but you can use these with any model.
 
+#####%#f590d5%**📜Table of Contents📜**%%
+[%#baf1ff%~♡ Affection Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#affection-stat-tracker)
+[%#baf1ff%~♡ LUST LEVEL Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#lust-level-stat-tracker)
+[%#baf1ff%~♡ Doujin Translator Notes%%](https://rentry.org/crustcrunch_fun_JBs#doujin-translator-notes)
+
+-> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
+
 ##%#f590d5%Affection Stat Tracker%%
 An edited version of the stat box from Simion Lincoln by astroturf. Something fun to add to RPs to "gameify" your romantic advances.
 ![](https://files.catbox.moe/g2murs.gif)
@@ -24,6 +31,8 @@ THOUGHTS: {{char}}'s Internal monologue. Keep this unfiltered and honest.
 
 **Example:**
 ![affection stats](https://files.catbox.moe/hobn4c.png)
+
+-> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
 ##%#f590d5%LUST LEVEL Stat Tracker%%
 ![arrow](https://64.media.tumblr.com/d8f3479cd531c54753be621c8df00e4c/tumblr_inline_mpedf95ujK1qz4rgp.gif) %#f590d5%**Note:**%% Since you're placing "LUST" into the AI's context, this tends to make the AI more horny than usual. Might mess with {{char}}'s personality.

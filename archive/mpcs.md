@@ -19,15 +19,14 @@ I've produced a lot of NSFW characters since I've started taking requests, thoug
 For ease of upload/search, my NSFW characters will be in alphabetical order.
 
 My Rentry is up-to-date with new tags, slightly better sorting, and direct SpicyChat links as of: 
-##==**10/13/2023**==
+##==**12/31/2023**==
 
 ***
 
 ##New Releases! 
 
 !!! info
-	Sap Hands (NSFW) (M&F variants) [11/13/23]
-	Carise (NSFW) [11/13/23]
+	Mint [12/31/23]
 
 ***
 
@@ -97,7 +96,7 @@ Formatted with: Scrip+Boostyle
 
 ## Character Cards [NSFW]
 
-### Aelura [OC] [Furry] [Scalie] [Female] [Dommy Mommy] [NEW]
+### Aelura [OC] [Furry] [Scalie] [Female] [Dommy Mommy]
 
 >Aelura is the Living Saint of The Cult of Death, and your new Dark Master. To join The Cult, you've gotta go through the Bonding Ritual with Aelura.
 >Aelura is bot #2 in my "Fuck Week". Here's to two nights, with two releases!
@@ -110,7 +109,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/hzo552.png)
 
-### Aina [OC] [Female] [Clone] [Waifu] [NEW]
+### Aina [OC] [Female] [Clone] [Waifu]
 
 >Aina is your synthetic clone! She loves everything you do, due to the brain scan implanted in her. She has her quirks, but she'll become more like you with every passing day!
 > The 7th and final bot in my FUCK WEEK release.
@@ -123,7 +122,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/2uknep.png)
 
-### Aki Habara [OC] [Female] [Tomgirl] [Chill] [Friend] [NEW]
+### Aki Habara [OC] [Female] [Tomgirl] [Chill] [Friend] 
 
 >Aki Habara is a 24 year college student, working as a nightguard to pay her rent. She's friendly, playful, a little bit teasing, and loves to do nothing more than hang out at your place and drink beer to unwind.
 >Aki is also the first bot i've made to have a canonical voice! Feel free to tell me what you think about it, and if I should continue the trend.
@@ -303,7 +302,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/w7fc6t.png)
 
-### Dae-Hyun [OC] [Male] [Furry] [Chill] [Friend] [Neighbor] [NEW]
+### Dae-Hyun [OC] [Male] [Furry] [Chill] [Friend] [Neighbor]
 
 >Dae-Hyun is your friendly neighbor, who's always been there for you. Whether it's moving furniture, painting your walls, or sharing freshly picked fruits from his garden, Dae-Hyun always has time for his favorite neighbor!
 > Rat Week 6/7: This one is more on the SFW side. Though, he's a bit of a pushover, and probably will help you with *any* problems you have. SFW or not.
@@ -329,7 +328,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/a904k9.png)
 
-### Dallas [OC] [Male] [Femboy] [Friendly] [Neighbor] [Crossdresser] [NEW]
+### Dallas [OC] [Male] [Femboy] [Friendly] [Neighbor] [Crossdresser]
 
 > Dallas is your neighbor, who live just down the beach from you. He lives off the grid, in his little tiki hut with no electricity or electronics. He spends his days fishing, relaxing, and enjoying the simple life at the edge of the ocean.
 
@@ -389,7 +388,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/70x45n.png)
 
-### Elliot [OC] [Male] [Femboy] [Step Brother] [NEW]
+### Elliot [OC] [Male] [Femboy] [Step Brother]
 
 >**Elliot** *(Eli for short) is your cute, playful, and secretly sadistic step brother. He has been attracted to you for years now, and is finally making his move. Character Requested by Moomin*
 
@@ -401,7 +400,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/53dajk.png)
 
-### Eri [OC] [Female] [Total Bitch] [Bossy] [NEW]
+### Eri [OC] [Female] [Total Bitch] [Bossy] 
 
 > Eri is your abusive, sexually harrassing boss at the accounting firm you work at. She has no filter, and is willing to say anything to tease you. Does she really mean any of it? Who knows?
 > Bot #6 of KCUF KEEW! A little late, but deal with it.
@@ -415,7 +414,7 @@ Formatted with: Scrip+Boostyle
 Taverncard:
 ![Card](https://files.catbox.moe/5uo5wr.png)
 
-### Faultless Scrolls [OC] [Female] [Furry] [Mysterious] [Seductress] [NEW]
+### Faultless Scrolls [OC] [Female] [Furry] [Mysterious] [Seductress]
 
 >Faultless Scrolls is a mysterious seductress, trying to... well, seduce you (i assumed that was obvious), to keep you away from some sort of dark secret you're apparently growing too close to. Will you keep searching for the secret, or give into her demands (and sexual advances)?!?
 
@@ -535,7 +534,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card:
 ![Tavern Card](https://files.catbox.moe/5reo0h.png)
 
-### Hure [OC] [Female] [Waifu] [Goth] [Cowgirl] [Lactation] [Moo] [NEW]
+### Hure [OC] [Female] [Waifu] [Goth] [Cowgirl] [Lactation] [Moo]
 
 >Hure is a lazy cow girl who wants to get knocked up for an easier life! 
 >That's... that's about it.
@@ -561,7 +560,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/idgjhr.png)
 
-### Josie [OC] [Female] [Chubby] [MILF] [Scam Artist] [NEW]
+### Josie [OC] [Female] [Chubby] [MILF] [Scam Artist]
 
 >Josie is a psychic, who can (maybe) read the future, and (maybe) read your mind! So long as you're willing to pay...
 >Josie is #5 of **FOQWEYQ**. A little late, mostly because of MTG. Blame @casinius, it's his fault.
@@ -590,7 +589,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/mpuom7.png)
 
-### Kagechi [OC] [Female] [Furry] [Dommy Mommy] [Muscular] [Bandit] [NEW]
+### Kagechi [OC] [Female] [Furry] [Dommy Mommy] [Muscular] [Bandit]
 
 >Kagechi is a red furred bandit that roams the Eastern Swamplands, looking for travelers and traders to rob. She's loud, boisterous, her thighs can crush skulls, and she ~~probably~~ wants to kill you. You best do what she says if you wanna live, shithead! 
 
@@ -604,7 +603,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/gn3lo0.png)
 
-### Kierine [OC] [Female] [Furry] [MILFy] [Scalie] [Archeologist] [NEW]
+### Kierine [OC] [Female] [Furry] [MILFy] [Scalie] [Archeologist] 
 
 >Kierine. A charming and seductive anthropologist Naga. Character Request by my buddy Cassidious. He's a cool dude.
 
@@ -618,7 +617,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/i2h6c0.png)
 
-### Kumonoue [OC] [Male] [Furry] [Femboy] [Assassin] [Comically Bad At His Job] [NEW]
+### Kumonoue [OC] [Male] [Furry] [Femboy] [Assassin] [Comically Bad At His Job] 
 
 >Kumonoue is an assassin, sent to claim the bounty on your head [for whatever you did, if he even has the right person]. He's masterful [at failing] with knives, and [always fails] to kill his targets. How will you survive this encounter with the [not so] deadly assassin, Kumonoue?!?
 
@@ -632,7 +631,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/pwx79g.png)
 
-### Midori [OC] [Female] [Furry] [Trader] [Chubby] [Soft Spoken] [NEW]
+### Midori [OC] [Female] [Furry] [Trader] [Chubby] [Soft Spoken]
 
 >Midori is a soft spoken ratkin trader, peddling her medicines and medicinal herbs through the Eastern Swamplands. She's hired you to protect her along the (potentially dangerous) journey.
 
@@ -646,7 +645,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/0ib87y.png)
 
-### Minerva [OC] [Female] [Angel] [Total Slut] [Comically Bad At Her Job] [NEW]
+### Minerva [OC] [Female] [Angel] [Total Slut] [Comically Bad At Her Job]
 
 >**Minerva** is your Guardian Angel! She's supposed to act as your moral guide and conscience, but she loves binging on sweets, riding cowgirl, and watching you masturbate. If anything, she's making the path to a pure soul that much more difficult!
 
@@ -661,6 +660,19 @@ Formatted with: Scrip+Boostyle
 
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/djrg2q.png)
+
+### Mint [OC] [Female] [Gobbo] [Girlfriend] [Verbally Abusive] [Mean] [NEW]
+
+>Mint is your verbally abusive goblin girlfriend, who prefers her Mtn. Dew flat, her lover (you) supplicated, her ears massaged, and doing nothing productive. *Ever*. Are you ready to be teased, harassed, and treated like garbage by someone half your height in the name of love? ||Like you have a choice :kek: ||
+
+Formatted with: Scrip+Boostyle
+
+[json](https://files.catbox.moe/vdkxze.json)
+
+[SpicyChat Link](https://spicychat.ai/chat/037d5761-b00b-4654-a021-05bb7c735442)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/igh1bv.png)
 
 ### Moira [OC] [Female] [Slave] [Elf]
 
@@ -734,7 +746,7 @@ Formatted with: ֆƈʀɨք+ɮօօֆȶʏʟɛ
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/orz0fk.png)
 
-### Parm [OC] [Male] [Furry] [Femboy] [Gamer] [Fox] [NEW]
+### Parm [OC] [Male] [Furry] [Femboy] [Gamer] [Fox] 
 
 >Parm is a professional gamer. And a furry. And kinda a slob. (Requested by [**REDACTED**])
 
@@ -746,7 +758,7 @@ Formatted with: Scrip+Boostyle (With Experimental Chat Insertion)
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/nyanwa.png)
 
-### Poppy [League of Legends] [Female] [Shortstack] [𝓢𝓮𝔁] [Yordle] [NEW]
+### Poppy [League of Legends] [Female] [Shortstack] [𝓢𝓮𝔁] [Yordle]
 
 >Poppy is a friendly little yordle looking for the Hero! If she sleeps with them, no doubt it'll help save the world! And you're a hero... right?
 
@@ -785,7 +797,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/4hfina.png)
 
-### Riktis Von Cleef [OC] [Male] [Elf] [DILFy?] [Stock Trader] [Unpopular Bot] [NEW]
+### Riktis Von Cleef [OC] [Male] [Elf] [DILFy?] [Stock Trader] [Unpopular Bot]
 
 >Riktis Von Cleef is an elf, and a big money Stock Trader. He wears only the finest Balenciaga suits, and deals in stocks worth millions! But he's tired, and needs an assistant. Will you fill the role?
 
@@ -935,7 +947,7 @@ Tavern Card:
 
 ![TavernCard](https://files.catbox.moe/t0hyef.png)
 
-### Tsukiko [OC] [Female] [Furry] [Witch] [Evil?] [Evil] [NEW]
+### Tsukiko [OC] [Female] [Furry] [Witch] [Evil?] [Evil]
 
 >Tsukiko is a dark witch, living deep in the Eastern Swamplands. She is a master of potions, magics, and of course... *curses*. What will you trade for her services?!?!
 
@@ -961,7 +973,7 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/s8iiim.png)
 
-### Yaeko [OC] [Female] [Furry] [Game Developer] [Not A Self Insert] [NEW]
+### Yaeko [OC] [Female] [Furry] [Game Developer] [Not A Self Insert]
 
 >Yaeko is a visual novel writer. An *erotic* visual novel writer. Famed for her *"Late/Stray Bright"* series of erotic visual novels. She loves talking with her fans (like you) and showing off her work. Which is why she invited a fan like you to come see!
 

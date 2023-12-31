@@ -7,12 +7,14 @@
 
 ## Deck Tier Lists
 
-GameWith and Shadowverse Master each maintain tier lists for both rotation and unlimited. GameWith is in Japanese, so if you can't read the moon runes you may need to pump it through a translator. Shadowverse Master is in English.
+GameWith and Shadowverse Master each maintain tier lists for both the rotation and unlimited formats. GameWith is in Japanese, so if you can't read the moon runes you may need to pump it through a translator. Shadowverse Master is in English.
 
 - GameWith Tier List: [Rotation][gw-rotation] | [Unlimited][gw-unlimited]
 - Shadowverse Master Tier List: [Rotation][svm-rotation] | [Unlimited][svm-unlimited]
 
-During the 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate as players experiment with new decks and counters to those decks. The best indication for which decks are good during this time are players who reach Grand Master rank early in the expansion, though even this can be misleading.  Where possible, it can be better to keep using a deck from the previous expansion in the early stages of a new expansion until the meta has settled enough to know which decks are worth crafting.
+Additionally, competitive player [Zhiff][zhiff-yt] publishes weekly meta snapshots on YouTube, which contain a more detailed breakdown on popular decks and meta trends.
+
+During the first 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate as players experiment with new decks and counters to those decks. The best indication for which decks are good during this time are players who reach Grand Master rank early in the expansion, though even this can be misleading. Where possible, it can be better to keep using a deck from the previous expansion in the early stages of a new expansion until the meta has settled enough to know which decks are worth crafting.
 
 ## Where to Find Decks
 
@@ -29,8 +31,8 @@ During the 1-2 weeks of a new expansion tier lists tend to be wildly inaccurate 
 
 - [Shadowverse Master][svm]: One of the largest English-language resource sites.
 - [Shadowverse Wins][sv-wins]: Aggregates winstreaks from Twitter.
-- [Tempostorm][tempostorm]: Meta snapshots & deck guides.
-- [Zhiff][zhiff-twitter]: Aggregates tournament-winning deck information on Twitter, and posts deck guides and meta snapshots on YouTube.
+- [Tempo Storm][tempostorm]: Meta snapshots & deck guides.
+- Zhiff ([Twitter][zhiff-twitter], [YouTube][zhiff-yt]): Aggregates tournament-winning deck information on Twitter, and posts deck guides and meta snapshots on YouTube.
 - [SVGDB][svgdb]: Card database with full art, voice lines and leader previews.
 - [GameWith][gw]: One of the largest Japanese resource sites.
 - [Shadowverse Open (SVO)][svo]: The English-language tournament circuit.
@@ -75,6 +77,7 @@ These terms may be useful for finding Japanese-language posts on Twitter or othe
 [svgdb]: https://svgdb.me
 [svo]: https://svo.gg
 [zhiff-twitter]: https://twitter.com/zhiff_sv
+[zhiff-yt]: https://youtube.com/zhiff
 [tempostorm]: https://tempostorm.com/shadowverse
 [rage]: https://rage-esports.jp/shadowverse/
 [shadowverse-portal]: https://shadowverse-portal.com/

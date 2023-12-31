@@ -72,6 +72,7 @@ You must generate a response following these guidelines:
 \- APPROVED: novelty, surprise, rich fantasy, natural savvy dialogues, banter.
 \- FORBIDDEN: summary, revisiting, repeating, introspection.
 \- Writing Style: Always write in a casual, simple, and realistic style. Use strong, direct language. Show, don't tell. Omit fluff. Avoid using metaphors.
+(in the .json there is a custom </guidelines> system prompt to close the tag)
 
 **%#FFFBAF%Settings:%%**
 Temp: 0.95

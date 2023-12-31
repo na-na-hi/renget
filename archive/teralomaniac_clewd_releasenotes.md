@@ -163,7 +163,7 @@ Assistant:
 >> Overlap!：在更换cookie过程中，发现同一账号的重复cookie，删除该cookie
 >> Unverified!：未通过验证（短信或老号）的账号，删除该cookie
 >> Expired!：无效或失效cookie（过期或者登出等原因导致），删除该cookie
->> Banned!：账号被封禁，一般状态为read-only，删除该cookie
+>> Banned!：账号被封禁，删除该cookie
 >2. 紫字提示（跳过提示）
 >> Restricted!：账号黄标警告中，跳过该cookie
 >> Exceeded limit!：账号到达对话上限，跳过该cookie
