@@ -111,9 +111,9 @@ Currently Training for Stat: Speed | **2** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: Wooden Stick x1* | Cubone, that's a stick.
-1. Broken TM (formerly TM12 Water Gun) | A TM previously containing instructions for the move Water Gun.
-2. Wooden Stick x1 | Does 3 true damage to a target, is thrown directly. Also a decent melee weapon..?
+*Equipped Item: None* | Empty
+1. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
+2. None | None
 3. None | None
 4. None | None
 

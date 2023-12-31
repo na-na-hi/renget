@@ -48,25 +48,13 @@ Thegreatcoom | Horcocks | Maxine de Sade, the Queen of Porn. Maxine is a give-no
 Pinelurker | Rayon | The enigmatic centuries-old titty monster of Atelier Ryza fame, shunning the company of humans and working as a reclusive mercenary. Her unwieldy clawed hands frustrate her at every turn. | ![Lila Decyrus](https://avatars.charhub.io/avatars/rayon/lila-decyrus-a268f247/chara_card_v2.png?nocache=0.06968135749675564) | [Chub](https://www.chub.ai/characters/rayon/lila-decyrus-a268f247)
 Knickknack | Mino24she | A campy, surreal adventure into The Gulf, a world distorted by whims and delusions. | ![Bright Night](https://avatars.charhub.io/avatars/mino24she/bright-night-82a9e70f/chara_card_v2.png?nocache=0.8098748903675252) | [Chub](https://www.chub.ai/characters/mino24she/bright-night-82a9e70f/)
 Strugglebus | Deepressed | Arashi was once a proud tengu, guardian of his land. Betrayed by those he was sworn to protect, he's now but a husk of his former self. Help him recover his trust in humans... or convince him to eradicate them as a whole. | ![Arashi](https://files.catbox.moe/28d3u2.png) | [Chub](https://www.chub.ai/characters/deepressed/arashi-e32d61b5/main) [Catbox](https://files.catbox.moe/28d3u2.png)
-Scriptanon | Somebody...? | Not ready yet. Please be patient. | ![Half baked slop](https://files.catbox.moe/kn6z6z.png) | None yet.
-Crustcrunch | Somebody...? | Not ready yet. Please be patient. |  | None yet.
+Crustcrunch | Pitanon | An unwilling servant. | ![Cane](https://files.catbox.moe/ec4e6w.png) | [Chub](https://chub.ai/characters/pitanon/cane-6a7e63be/main) [Catbox](https://files.catbox.moe/ec4e6w.png)
+Scriptanon | Somebody...? | A sexbot built from scrap. | ![QWERT-y](https://files.catbox.moe/94qb5g.png) | [Catbox](https://files.catbox.moe/94qb5g.png)
+Vidicus | Crustcrunch | Masae is a 1000-year-old kitsune who has never left her mountain home. You are her tour guide showing her around Tokyo for the first time. | ![Masae](https://avatars.charhub.io/avatars/crustcrunch/masae-a87306a0/chara_card_v2.png?nocache=0.8545078042287493) | [Chub](https://www.chub.ai/characters/crustcrunch/masae-a87306a0/main)
+Vidicus | Anon | A playful fox girl who has taken an interest in the lives of humans, she has summoned you into her world for a pampering/relaxation session. | ![https://www.chub.ai/characters/Anonymous/ina-24dd94a0](https://files.catbox.moe/qu8s9e.png) | [Chub]() [Catbox](https://files.catbox.moe/qu8s9e.png)
+Vidicus | Scriptanon | Tome-no-Kitsune is a 500-year-old chubby foxgirl who's been loving the reincarnations of some Inari shrine monk for her entire life. (You) are next. | ![Tome-no-Kitsune](https://avatars.charhub.io/avatars/scriptanon/tome-no-kitsune-e746bebc/chara_card_v2.png?nocache=0.5497269861912288) | [Chub](https://www.chub.ai/characters/scriptanon/tome-no-kitsune-e746bebc/main)
 
 
 ##How to enter
 
-Send an E-mail to botmakersecretsanta@proton.me with your name, chub and/or rentry, and an idea of the kind of bot you like and want to see.
-
-!!!note Example
-    I'm Anon.
-    https://www.chub.ai/users/insertchubhere
-    rentry.org/insertrentryhere
-    I like giantess, futa, and cock vore. My waifu is Sandy Cheeks.
-
-I'll use my advanced slips of paper in a hat technology to randomly assign botmakers to each other.
-
-##ENTRIES ARE CLOSED
-##MAILS ARE SENT
-If you got a message from botmakersecretsanta2@proton.me or botmakiesecretsanta@proton.me, don't worry, those are both me. I had to make alts because my head is a bowl full of jelly and I forgot Proton had a limit.
-
-##Submission date: the past
-It is no longer Christmas. Your time is up.
+Wait until next December.

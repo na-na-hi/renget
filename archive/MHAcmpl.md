@@ -1019,6 +1019,8 @@ Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
 A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut): https://rentry.org/hwiz8
 Dinner For Three (Capture Cloth, Bakeneneko): https://rentry.org/adknw
 Brightly VS The Toy Army: https://desuarchive.org/tg/post/91361422/
+MHA 1.9999: Prose Edition: https://rentry.org/y9rfp
+The Other Side - A (108 Gang, Cameo of Orochi): https://rentry.org/6uvv5
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

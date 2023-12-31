@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>Ukrainian government can't afford mobilization
+https://files.catbox.moe/auahu8.mp4
 >Ukraine's VERY special forces
 https://files.catbox.moe/4vr56q.mp4
 >Stryker Lancet strike

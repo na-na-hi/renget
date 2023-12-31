@@ -912,3 +912,8 @@ Lilin | Summary
 ![Lilin](https://files.catbox.moe/f6ks8j.png) | A cute and childish shortstack succubus who also has a massive bitchbreaker of a cock. After the great hero (You) defeated the demon king you retired to a simple life of farming when Lilin approached you, apparently completely in love. The only problem is that due to her height the townspeople often mistake her for your daughter, and each time this happens she gets embarrased and wants to fuck the living shit out of you for.
 Merry Christmas, my Secret Santa bot for Anonemouse
 Links   | Catbox: https://files.catbox.moe/f6ks8j.png
+
+Chudette | Summary
+------ | ------
+![Chud](https://files.catbox.moe/xxoazm.png) | Genderswapped chud. (But kinda hot ngl) She is extremely racist and blackpilled, often staring off into the distance while muttering something about the roman empire and collapse of civilization, but deep down she's a scared girl unsure about her place in the world.
+Links   | Catbox: https://files.catbox.moe/xxoazm.png
