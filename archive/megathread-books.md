@@ -77,6 +77,10 @@
 - Download Udemy's premium IT, marketing, and programming courses for free along with a torrenting option.
 - [URL Safety Results](https://www.urlvoid.com/scan/gigacourse.com/)
 
+### 🐐 [Liber3](https://liber3.eth.limo/)
+- Impressive collection, accompanied by a visually appealing user interface.
+- [URL Safety Results](https://www.urlvoid.com/scan/liber3.eth.limo/)
+
 ### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 - Books on engineering and natural science are being collected by the scientific community.
 - Here is a [fun version of the main Library Genesis](https://libgen.fun/) with an emphasis on comics and manga.

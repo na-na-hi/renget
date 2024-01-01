@@ -125,10 +125,6 @@
 - Updated often, with complete, unrestricted versions of just the best applications available.
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)
 
-### 🔗 [YasDL](https://www.yasdl.com/) • Persian UI
-- Nice catalogue of free applications, games, software for Android, animation, utilities, and much more.
-- [URL Safety Results](https://www.urlvoid.com/scan/yasdl.com/)
-
 &nbsp;
 
 ---

@@ -85,6 +85,10 @@
 - The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
 - [URL Safety Results](https://www.urlvoid.com/scan/123chill.site/)
 
+### 🐐 [Ask4Movie](https://ask4movie.li/)
+- Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
+- [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)
+
 ### ▶️ [BFlix](https://bflix.sx/)
 - Online movie streaming service and economical method to watch your favorite films and TV episodes.
 - [URL Safety Results](https://www.urlvoid.com/scan/bflix.sx/)
@@ -93,9 +97,17 @@
 - Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/bingewatch.to/)
 
+### 🐐 [Braflix](https://www.braflix.app/)
+- Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
+- [URL Safety Results](https://www.urlvoid.com/scan/braflix.app/)
+
 ### ▶️ [Cataz](https://cataz.to/)
 - One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/cataz.to)
+
+### 🐐 [Cinehub.wtf](https://cinehub.wtf/)
+-  Dive into a treasure trove of cinematic wonders, ranging from the latest releases to beloved classics.
+- [URL Safety Results](https://www.urlvoid.com/scan/cinehub.wtf)
 
 ### ▶️ [DopeBox](https://dopebox.to/)
 - Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages.
@@ -109,7 +121,7 @@
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
 - [URL Safety Results](https://www.urlvoid.com/scan/fmoviesz.to/)
 
-### ▶️ [FlixHQ](https://flixhq.click/)
+### 🐐 [FlixHQ](https://flixhq.click/)
 - Safest free movie site in 2023 to instantly view movies and television shows online.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixhq.click/)
 
@@ -121,7 +133,7 @@
 - Modern website for watching tens of thousands of HD movies and TV episodes, free of charge.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixwave.to)
 
-### 🐐 [FshareTV](https://fsharetv.co/)
+### ▶️ [FshareTV](https://fsharetv.co/)
 - Incredible platform offering a vast collection of movies and TV shows, and a delightful selection of animations.
 - [URL Safety Results](https://www.urlvoid.com/scan/fsharetv.co)
 
@@ -132,10 +144,6 @@
 ### ▶️ [GoMovies](https://gomovies.sx/)
 - Famous movie website that allows free users to view movies and TV series in HD quality with no advertisements.
 - [URL Safety Results](https://www.urlvoid.com/scan/gomovies.sx/)
-
-### ▶️ [HDToday](https://hdtoday.ru/)
-- There are hundreds of movies and tv shows accessible with multiple subtitles. All of them are available for free.
-- [URL Safety Results](https://www.urlvoid.com/scan/hdtoday.ru/)
 
 ### ▶️ [HiMovies](https://himovies.sx/)
 - Users may find a large range of new films and weseries on the website, most of them are in high definition quality.
@@ -173,10 +181,6 @@
 - The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web.
 - [URL Safety Results](https://www.urlvoid.com/scan/movie-web.app/)
 
-### ▶️ [MoviesToWatch](https://moviestowatch.cc/)
-- Ultimate location for your favorite movies and TV shows, with a cleverly crafted system.
-- [URL Safety Results](https://www.urlvoid.com/scan/moviestowatch.cc/)
-
 ### ▶️ [MovieUniverse](https://movieuniverse.se/)
 - Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)
@@ -201,7 +205,7 @@
 - With even more wonderful features, you can watch a big variety of full HD movies and TV shows online for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/putlocker.pe/)
 
-### 🐐 [RidoMovies](https://ridomovies.tv/)
+### ▶️ [RidoMovies](https://ridomovies.tv/)
 - Immerse yourself in a vast and diverse collection of full HD movies and TV shows, all available for free streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/ridomovies.tv/)
 
@@ -233,6 +237,10 @@
 - Among the top free sites for streaming movies in HD without registering or forking over anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/sudostream.com/)
 
+### 🐐 [The Movie Archive](https://themoviearchive.site/) / [2](https://tma.lol/)
+- Unlimited access to a vast library of films, allowing you to indulge in your favorite movies.
+- [URL Safety Results](https://www.urlvoid.com/scan/themoviearchive.site/)
+
 ### ▶️ [TheFlixer](https://theflixer.tv/)
 - With the power of the internet, it's time to watch whatever movies or TV shows you want, at anytime! So stop waiting, start streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/theflixer.tv/)
@@ -245,7 +253,7 @@
 - Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
 - [URL Safety Results](https://www.urlvoid.com/scan/uniquestream.net/)
 
-### 🐐 [UpMovies](https://upmovies.to/)
+### ▶️ [UpMovies](https://upmovies.to/)
 - Experience the joy of free HD streaming for lesser-known movies and TV shows online, without the hassle.
 - [URL Safety Results](https://www.urlvoid.com/scan/upmovies.to/)
 

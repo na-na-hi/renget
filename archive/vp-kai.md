@@ -3,13 +3,13 @@
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:
+Jan.01 | Pokémon Maid Service ([Aisekai](https://www.aisekai.ai/chat/65923abe5cc059f76a4b799e) • [Yodayo](https://yodayo.com/tavern/characters/a51ff354-a74c-4fba-9d22-db9ea9360dbe/))
 Dec.31| (Yodayo: [Dragonite](https://yodayo.com/tavern/characters/112a3e87-674c-4e91-a001-99588149f785/) \|
 Dec.29 | ⠀[Riolu (Sapphire)](https://yodayo.com/tavern/characters/fa2a967e-75c8-4fb2-acd4-c759c4fa7f3c/) \| [Sylveon (Aster)](https://yodayo.com/tavern/characters/1be266aa-4411-441b-865e-713f70ccc0fd/) \| [Pikachu Libre](https://yodayo.com/tavern/characters/16451a6a-25df-4910-bb03-ba06b5b54dbe/) \| [Iono (Schoolgirl)](https://yodayo.com/tavern/characters/72af73dc-aafb-4a04-804e-40c4c0e4f7f0/) \| [Iron Valiant](https://yodayo.com/tavern/characters/f9edafda-d2e4-4bfa-96d8-629fc48e232e/) & Ports)
 Dec.24 | [Pokémon News Room](https://www.aisekai.ai/chat/6588e5007ac78091c17c73ea)
 Dec.03 | [Pokémon Idol Manager](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)
 Nov.28 | [Cynthia ("Highschooler")](https://www.aisekai.ai/chat/65669193ad6b31d7de3b6a22)
 Nov.24 | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)
-Nov.21 | [Olivia](https://www.aisekai.ai/chat/655d9941e746f0bb9d18c66b)
 !!! note
 ***
 Generation | Characters
@@ -29,5 +29,5 @@ About | Characters
 :-: | :-:
 Pokémon Infinite Fusion | Pidgesol (Pidgeot+Absol) 【[Aisekai](https://www.aisekai.ai?character=65436366f159a3e8045999c3)】【[Yodayo](https://yodayo.com/tavern/characters/ac9b59e2-180f-4569-adfa-4735c59268a6/)】 \| Snoodra (Snorlax+Goodra) 【[Aisekai](https://www.aisekai.ai?character=65435dd1f2d5cb28bee62ad3)】【[Yodayo](https://yodayo.com/tavern/characters/e088dee4-2734-45e4-ae20-9b2ce70cfcdd/)】
 ![Elizabeth](https://files.catbox.moe/yle05c.png) | [Elizabeth](https://www.aisekai.ai/chat/6552d27bcb10bedf7f6c3728)
-Pokémon Agencies | Pokémon Host Club【[Aisekai](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)】【[Yodayo](https://yodayo.com/tavern/characters/c1a16a29-d50c-4bfb-9e62-64f80c731cf2/)】\| Pokémon Hostess Club【[Aisekai](https://www.aisekai.ai/chat/655701432642a10c54df5283)】【[Yodayo](https://yodayo.com/tavern/characters/2fdd3843-166c-46ee-bcc3-1d4f707cf723/)】\| Pokémon News Room【[Aisekai](https://www.aisekai.ai/chat/6588e5007ac78091c17c73ea)】【[Yodayo](https://yodayo.com/tavern/characters/7164f2af-7b43-430e-8728-02aafed05bad/)】\| Pokémon Idol Manager【[Aisekai](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)】【[Yodayo](https://yodayo.com/tavern/characters/4ddf60f5-91d9-4e0e-9b60-4cd688eb10fb/)】
+Pokémon Agencies | Pokémon Host Club【[Aisekai](https://www.aisekai.ai/chat/6554a4fe7856c379726aec62)】【[Yodayo](https://yodayo.com/tavern/characters/c1a16a29-d50c-4bfb-9e62-64f80c731cf2/)】\| Pokémon Hostess Club【[Aisekai](https://www.aisekai.ai/chat/655701432642a10c54df5283)】【[Yodayo](https://yodayo.com/tavern/characters/2fdd3843-166c-46ee-bcc3-1d4f707cf723/)】\| Pokémon News Room【[Aisekai](https://www.aisekai.ai/chat/6588e5007ac78091c17c73ea)】【[Yodayo](https://yodayo.com/tavern/characters/7164f2af-7b43-430e-8728-02aafed05bad/)】\| Pokémon Idol Manager【[Aisekai](https://www.aisekai.ai/chat/656c6d3448879c8d8b6826cd)】【[Yodayo](https://yodayo.com/tavern/characters/4ddf60f5-91d9-4e0e-9b60-4cd688eb10fb/)】\| Pokémon Maid Service【[Aisekai](https://www.aisekai.ai/chat/65923abe5cc059f76a4b799e)】【[Yodayo](https://yodayo.com/tavern/characters/a51ff354-a74c-4fba-9d22-db9ea9360dbe/)】
 SakuraFM bot ported and un-ESL'd | [Pokémon RPG (18+)](https://www.aisekai.ai/chat/65604bcdbf44899642a5ea7f)

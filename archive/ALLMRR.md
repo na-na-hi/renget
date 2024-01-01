@@ -17,7 +17,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
 	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
 	- 13B:
-	[PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- AliCat's current fav for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
+	[PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
 	[LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
 	[LLaMA2-13B-TiefighterLR](https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR) <- Another one of AliCat's favorites for Adventure models. Has a lot of Tiefighter's qualities, but has less "plot-armor" bias. Is also good at RP and chat, but has a different flavor to Tiefighter.
 	[WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
@@ -33,8 +33,11 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
 	[spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
 	- 20B:
-	[Rose-20B](https://huggingface.co/tavtav/Rose-20B) <- AliCat's current favorite for ERP and a great overall model. As a warning, it may turn SFW scenarios/situations into NSFW (which some people will find as a bonus).
+	[Rose-20B](https://huggingface.co/tavtav/Rose-20B) <- Amazing ERP and a great overall model. As a warning, it may turn SFW scenarios/situations into NSFW (which some people will find as a bonus).
 	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
+	- Mixtral 8x7b:
+	**[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- AliCat's current all time favorite model. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. This is currently my goto and the only model I really use at the moment.**
+	[Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices, if not the best choice for under 24GB VRAM. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship.
 	
 ***
 #Leaderboard

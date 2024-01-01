@@ -2,7 +2,9 @@
 ---
 ___
 ___
-#### *Last updated on:* 12/22/2023 (MM/DD/YYYY)
+#### *Last updated on:* 01/01/2024 (MM/DD/YYYY)
+
+- [Story] *[Ode to the Flame Emperor](https://pastebin.com/m5khsFDE)* was added
 
 - [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
 
@@ -372,9 +374,17 @@ A 100% totally innocent encounter with your Nargacuga buddy.
 
 ---
 
+#### *[Ode to the Flame Emperor [M Human x Teostra]](https://pastebin.com/m5khsFDE)*
+
+A researcher pays tribute to their lover and favorite monster.
+
+---
+
 #### *[Plush Purple Poison Pillows [M Human x F Great Wroggi]](https://rentry.org/4pcon)*
 
 Ever wonder what a Wroggi's poison-sac feels like?
+
+---
 
 #### *[Possibly the first Legiana lewd ever [M Human x F Anthro Legiana]](https://rentry.org/ghgmd)*
 

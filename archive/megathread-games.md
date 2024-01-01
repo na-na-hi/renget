@@ -179,10 +179,6 @@
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaoskrew.org/)
 
-### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
-- A torrent site that offers some of the newest games, however access to other Google Drive URLs requires joining their Discord group.
-- [URL Safety Results](https://www.urlvoid.com/scan/seven-gamers.com/)
-
 ### 🧲 [Torrent Games](https://torrent-games.net/) / [2](https://allgames.zone/) • Russian UI
 - Immerse yourself in our expansive torrent archive, where a world of exciting games awaits.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrent-games.net/)

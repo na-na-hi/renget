@@ -126,10 +126,6 @@
 - Invites are frequently given to users of this coveted private tracker site, offering torrents in all categories at unmatched speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentleech.org/)
 
-### 🧲 [Torrentz2](https://torrentz2.nz/)
-- Great search engine for the present day that indexes all different kinds of files from the web.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrentz2.nz/)
-
 ### 🧲 [SolidTorrents](https://solidtorrents.eu/)
 - DHT-based torrent search engine that strives to make discovering and downloading torrents simple for anybody.
 - [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.eu/)

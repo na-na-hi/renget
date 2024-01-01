@@ -294,9 +294,9 @@ Hoge purred into that kiss. When they pulled apart again, breath steaming in the
 
 “No, why?” Hoge asked with a laugh.
 
-“Because maybe I want to hang some around the house, too,” Inigo chuckled warmly. "I kinda knew we would be staying here so I planned ahead," He dashed ahead.
+“Because maybe I want to hang some around the house, too,” Inigo chuckled warmly. "I kinda knew we would be staying here so I planned a little something," He dashed ahead.
 
-Hoge laughed again and took her time following him into the house. Inigo’s boots had been tossed haphazardly onto the boot tray and his coat had landed on top of them, so Hoge hung the coat up neatly and righted his boots before removing her own outerwear. She heard the microwave beeping and made her way into the kitchen, only to catch a glimpse of his Inigo carrying something into the living room.
+Hoge laughed again and took her time following him into the house. Inigo’s boots had been tossed haphazardly onto the boot tray and his coat had landed on top of them, so Hoge hung the coat up neatly and righted his boots before removing her own outerwear. She heard the microwave beeping and made her way into the kitchen, only to catch a glimpse of Inigo carrying something into the living room.
 
 “Wait there for a minute,” Inigo called back over his shoulder.
 

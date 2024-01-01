@@ -2789,3 +2789,85 @@ https://nitter.1d4.us/QudsNen/status/1741561037332107629#m  12/31/23
 
 "The bombing of Tel Aviv in 2024 is just the beginning."
 https://nitter.net/AryJeay/status/1741587437636264142#m  12/31/23
+
+> BIG SUMMARY of all resistance operations today, December 31, against US-israeli forces
+
+ Yemeni Armed Forces:
+
+- Targeted the container ship "Maersk Hangzhou" heading to israeli ports, with anti-ship ballistic missiles.
+
+  Al-Qassam Brigades:
+
+- Shelled gatherings of IOF forces in Khan Yunis city, south of Gaza, with mortars.
+
+- In a joint-operation with the Mujahideen Brigades, they targeted an IOF Apache helicopter, south of the Zaitoun neighborhood,  with a SAM-7 anti-aircraft missile.
+
+- Targeted special Zionist forces, east of Tuffah neighborhood, with improvised explosive devices (IEDs) and engaged in clashes using machine guns.
+
+- Used "Sho'ath" explosives and Yassin-105s to target 5 military vehicles in the Zaitoun and Daraj areas.
+
+- Targeted a D9-bulldozer, north of Khan Yunis, south of Gaza.
+
+- Shelled military vehicles & soldiers north of Khan Yunis with mortars.
+
+- Downed a reconnaissance drone Skylark-2, while it was carrying an intelligence mission, in Beit Lahia, north of Gaza.
+
+ Al-Quds Brigades:
+
+- Shelled military concentrations with a barrage of mortars, in the Tal al-Hawa area, southwest of Gaza.
+
+- Detonated a booby-trapped opening of a tunnel upon the entry of IOF soldiers in the Shujaiya neighborhood, east of Gaza, resulting in at least 1 killed and 1 injured.
+
+- Succesfully sniped an IOF soldier in the Tuffah neighborhood in Gaza.
+
+- Shelled military concentrations & a command and control center, southeast of Al-Zaitoun neighborhood, with a rocket barrage & heavy mortars.
+
+ Nasser Salah al-Din Brigades:
+
+- Targeted a Zionist infantry force, east of the al-Bureij camp with 2 RPGs, causing direct injuries.
+
+ Martyr Omar Al-Qassem forces:
+
+- Detonated a highly explosive device against a zionist tank, north of Al-Katiba area in Khan Younis, confirming that it was a direct hit.
+
+- Shelled a gathering of IOF military vehicles on the 10th Street axis, south of the Gaza Governorate, and they were directly hit.
+
+ Al-Aqsa Martyrs Brigades:
+
+- Clashed with IOF forces, in the eastern axis of Al-Tuffah, with barrages of bullets and RPGs. 
+
+- Shelled military gatherings in the axis in Al-Tuffah neighborhood with heavy-caliber mortars.
+
+ Mujahideen Brigades:
+
+- Targeted an IOF military speedboat, in the sea, west of Gaza City, with a Sa’ir missile (with video).
+
+- Shelled military gatherings of soldiers and vehicles with mortars, northwest of Al-Shati’ area in Gaza City.
+
+- Shelled military gatherings of soldiers and vehicles with mortars and short-range rockets, southeast of Al-Zaytoun and southwest of Tal Al-Hawa in the areas.
+
+- Seized various types of weapons from IOF forces. 
+
+ Hezbollah:
+
+- Targeted the Hanita site with appropriate weapons, causing direct injuries.
+
+- Targeted the Al-Abbad site with appropriate weapons, achieving direct hits.
+
+- Targeted a gathering of IOF soldiers in the vicinity of the Hanita site with suitable weapons.
+
+Islamic Resistance in Iraq:
+
+- Attacked the Abu Hajar US airfield base near the town of Rmelan in Syria, using suicide drones.
+
+- Attacked the US base near Erbil airport, northern Iraq, with suicide drones.
+
+- Targeted a military target in the occupied Golan Heights with appropriate weapons.
+
+- Attacked a target in Umm al-Rashrash (Eilat) with appropriate weapons.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1741630851232796849#m  12/31/23
+
+>Iranian warships & US warships are practically toe-to-toe in the Red Sea right now.
+https://nitter.net/AryJeay/status/1741619179747148071#m  12/31/23

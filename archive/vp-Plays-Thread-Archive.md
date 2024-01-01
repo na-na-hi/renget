@@ -27,9 +27,9 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[13]** *Then proceeds to get filtered until an anon suggests the cheese strat*](https://arch.b4k.co/vp/thread/54026283/)
 [**[14]** *Erick's bullshit makes Wagie go do sidequests*](https://arch.b4k.co/vp/thread/54034165/)
 [**[15]** *Erick defeated, then the shitty gauntlet with shitty rewards*](https://arch.b4k.co/vp/thread/54040141/)
-[**[16]**](https://arch.b4k.co/vp/thread/54045319/)
-[**[17]**](https://arch.b4k.co/vp/thread/54049796/)
-[**[18]**](https://arch.b4k.co/vp/thread/54055015/)
+[**[16]** *Bewitched Woods is a fair and balanced field*](https://arch.b4k.co/vp/thread/54045319/)
+[**[17]** *Wagie and Aelita's astral projection beat the shit out of a ghost child*](https://arch.b4k.co/vp/thread/54049796/)
+[**[18]** *Time travel bullshit, surely this will end well, r-right?*](https://arch.b4k.co/vp/thread/54055015/)
 [**[19]**](https://arch.b4k.co/vp/thread/54059516/)
 [**[20]**](https://arch.b4k.co/vp/thread/54062801/)
 [**[21]**](https://arch.b4k.co/vp/thread/54067307/)
@@ -234,7 +234,7 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[5]** *Everyone finishes, except for Wagie. Thanks Musk*](https://arch.b4k.co/vp/thread/55100896/)
 
 ###->Post Tectonic Filler threads<-
-!!! info **Wagie got sent in a vacation, so while we wait for the Ashen Frost devs to fix their game, we play whatever**
+!!! info **Wagie got sent on a vacation, so while we wait for the Ashen Frost devs to fix their game, we play whatever**
 [**[1]** *Holy Sexo legendaries*](https://arch.b4k.co/vp/thread/55116276/)
 [**[2]** *Cyrus faggotry*](https://arch.b4k.co/vp/thread/55126019/)
 
@@ -243,4 +243,6 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 	**Status: In Progress**
 [**[1]** *Hard mode is pretty bullshit*](https://arch.b4k.co/vp/thread/55133275/)
 [**[2]** *More Kaizoshit retardation*](https://arch.b4k.co/vp/thread/55135891/)
-[**[3]**](https://arch.b4k.co/vp/thread/55140963/)
+[**[3]** *Lots of bugs, with a side of more Kaizofaggotry*](https://arch.b4k.co/vp/thread/55140963/)
+[**[4]** *noooooo not the heckin bidooferino!*](https://arch.b4k.co/vp/thread/55153351/)
+[**[5]**](https://arch.b4k.co/vp/thread/55160501/)
