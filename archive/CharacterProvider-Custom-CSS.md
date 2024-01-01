@@ -45,6 +45,8 @@ Chat Background: `1A1A1A`
 UI Background: `1A1A1A`
 UI Border: `2C2C2C`
 
+**Turn off the damn text shadows!**
+
 - - -
 
 ##### **Code V2**
@@ -61,6 +63,8 @@ Text Shadow: -
 Chat Background: `0E0E0E`
 UI Background: `0E0E0E`
 UI Border: `202020`
+
+**Turn off the damn text shadows!**
 
 - - -
 

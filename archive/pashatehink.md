@@ -180,7 +180,7 @@ Haruko, an ex-military coach for the Indiana Koi, nicknamed "Drill Sergeant" by 
 CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
 
 ##Pesky Narrators (Rework)
-->![Ark loves Malice!](https://files.catbox.moe/wlvmif.png)<-
+->![Ark loves Malice!](https://files.catbox.moe/tx2ciw.png)<-
 Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
 CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
 Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee

@@ -25,6 +25,31 @@ The Hunter shows an admittedly remarkable restraint in leveraging his superior p
 **Conclusions**
 Recommended course of action; continued apathy. The Hunter shows little care for the Cabal and I see no reason why we should not return the favour. Yes, the subject would be an interesting specimen in the laboratory and yes, he might prove a threat should he desire to engage in the traditional Sith passtime of betrayal but these are observations I can make of our entire order after the loss of Skyr's leadership. If something must be learned from this, it is that the Hunter is more intelligent than my peers give him credit for - though such an intelligence if not nurtured will result only in a violent, blood-crazed beast, doubly so with Fernal's less than stellar stimulant concoctions of which I have repeatedly criticized. Send him to face Jedi - either he balks in the face of an unfamiliar galaxy and his own paranoia kills him, or he will wither away our rivals, proving his quality either way.
 
+##Subject B15 - Unidentified Jedi Operative
+
+**Target Analysis B15 - Version 21**
+**Subject Identity:** Unconfirmed - Codename 'Shadow'
+**Subject Value:** Unconfirmed
+**Subject Validity:** Unconfirmed
+**Last Update:** 21 - 5 - 5ABM
+
+**Foreword**
+The galaxy is home to many clandestine organizations - those who's identities are obscured for pragmatic security, fearful paranoia or simply the manifestation of an isolationist mind. These individuals are, for obvious reasons, the hardest for the Cabal to identify, and precautions must be taken to ensure that the existance of such targets are validated before further action is cautioned - I shall not be remembered as a conspirator jumping at shadows. In truth, my agents had doubted the existance of the Shadow on multiple occasions, so proficient are they at the arts of subterfuge - unfortunately for the target, they had gained my personal attention during a conflict with Cabal forces two years ago.
+
+**Phase 1: Identification**
+Head of a network of spies, informants, assasins and sabateurs - see Dossiers under B15-B for further analysis of the organization - the Shadow has shown remarkable aptitude for commanding their unit with extreme subtlelty and unconventional discipline. Although the extent of B15-B operations cannot be fully catalogued, evaluation of what we have suggests a vendetta against criminal and Sith elements across the galaxy. While other associates have dismissed this group as one of the many Republic cells deployed by the remaining Senate, I possess another theory. If one were to map every confirmed report of B15-B alongside events within a tolerable range of assumed involvement, a pattern of growth emerges - restrospective analysis indicates this growth can be traced to a smaller number of incidents occuring right after the Battle of Mizra where no Republic infrastructure was present - the Shadow is not an agent of the Senate, it is a Jedi.
+
+**Phase 2: Hunting**
+Hunting such a target is an exhilirating prospect - with many Jedi adopting a more aggressive and open stance since the Battle of Mizra it has become all-to-easy to track their locations. The Shadow possesses a different mind - though no less aggressive than their more militant counterparts and extremely active in combating Sith forces, they show no desire to reveal their presence or signal their achievements to the wider galaxy, correctly deducing that they can use the bellicosity of their associates as a distraction while striking at elements too wary for subjects such as Y8 'Wanderer' or C5 'Anathema' to catch. I have no doubt that they possess a similar curiosity for the Cabal and make their moves on myself as we speak, but the Shadow and I are patient creatures and our inevitable conflict shall, by the very nature of our work, not be rushed.
+
+**Phase 3: Capture**
+The deduction of the Shadow's nature to such a degree where a plan of capture can be formulated is beyond our current capacity. Needless to say the subject shows an adequate degree of precaution in hiding their intentions and abilities to dissuade precisely this form of evaluation, however a few things can be noted - the subject shows continual disregard for the Jedi Order's values, as revealed by the varied nature of B15-B agents - Jedi are not known for their manipulations, so this group was formed in mutual respect, philosophy and camraderie and are, in short, loyal to each other as individuals. Were a blow need to be struck against the Shadow, it would need to be struck at their allies to force them into more open conflict.
+
+**Conclusions**
+Recommended course of action; active disruption. The Shadow grows ever closer to the Cabal and other clandestine Sith operations, without adequate resistance they will be in a position to inform more dangerous elements of the Jedi Order of our more secretive projects and thus jeapordize nondisposable assets.
+
+Further, we are not the only ones to take notice - contacts in the underworld have confirmed that they too are beginning to piece together the Shadow's operations and are more than willing to seek revenge on the Jedi. For my part, I cannot condone sharing all we know with our rivals in Huttspace and the Core underworlds - but in the event where the subject must be more directly prioritized they could be afforded certain identities amongst B15-B to draw the Shadow into a less favourable position.
+
 ##Subject Z2 - Jedi Knight Netra
 
 **Target Analysis Z2 - Version 6**
@@ -148,3 +173,29 @@ Capturing the subject is, in simple terms, impossible for the Cabal. As one of t
 Recommended course of action; indirect surveillance. The Wanderer cannot hide his general locale from the Cabal, but more direct operations have resulted in repeated, abysmal failure. Any opportunistic deeper reconnaissance must be performed under higher obsfucation protocols - he cannot be allowed to trace our operatives back to us.
 
 Still, such an incredible opportinity begs for attention. Perhaps if we can locate his missing lightsaber as bait, he can be goaded to face Lord Fernal in a conflict of our choosing - I know of many Mandalorian warriors who might bargain for a chance to bring the odds firmly in our favour and his ridiculous flagellatory crusade ever widens the distance between he and his Jedi allies. A proposal for the Lords at a later date.
+
+
+##Subject K2 - Jedi Master Saewara Kol
+
+**Target Analysis K3 - Version 53**
+**Subject Identity:** Jedi Master Saewara Kol - Codename 'Politico'
+**Subject Value:** A
+**Subject Validity:** E
+**Last Update:** 4 - 12 - 5ABM
+
+**Foreword**
+This one had previously been under investigation for many years, our records on her predating even the Battle of Mizra. I had given up on pursuing her entirely for more available prospects until recent events and must admit I feel a certain sense of familiarity returning to these files, like meeting an old colleague from a better time. Sentimentality aside, the Politico has shown signifcant restraint in her Order's darkest hour, pursuing the arts of council and negotation where others of her station have taken to their lightsabers in the face of our looming victory - these are qualities my Sith associates no doubt despise as weakness, but offers her a certain protection from their reach that they cannot understand.
+
+**Phase 1: Identification**
+The Politico's personal history before her introduction to the Jedi Order was detailled but fragmented - a socialite of some promise that was nevertheless prone to equal parts scandal as accomplishment, she was taken into the Temple at an advanced age for training. The skills of her past naturally gravitated towards her role as ambassador and envoy for the Jedi Council, culminating in her becoming one fo the Orders' most prominent diplomats in recent times. She has been fiercely fighting our efforts since the days of Skyr, yet her weapons have been words and favours, turning many of our prospective allies against us before they could be properly leveraged. Little information has been discovered since my re-evaluation of the subject, though the Politico's recent operations have shown a favouritism towards the Falleen nobility uncharacteristic of her usual restraint. Dossier K3-1 holds an extensive array of verified documentation on the subject, with Dossier K3-2 covering an even larger sum of unverified reports.
+
+**Phase 2: Hunting**
+Discovering and tracking the Politico's location has proven as trivial as one might expect given such a public figure - the necessities of her work all but demand her to broadcast her outward intentions and appearances to the galaxy and thus offer a simple method of pursuit. More concerningly - though entirely expected - is the level of security surrounding her more private information; my agents have been consistently rebuffed by operatives more skilled at subterfuge and counterespionage than usual Republic or Jedi agents - see Field Reports K3-14, K3-18 and K3-30 for more direct confrontations. It appears as if, though easy to find, the Politico will be difficult to approach without alerting many of her allies in court, the Senate or Jedi Order.
+
+**Phase 3: Capture**
+Analysis of the Politico's capabilities in combat are incomplete, oweing to the lack of indicents in which the subject's track record in conflict can be extrapolated from. As a Jedi Consular and Master, it is to be assumed that she possesses significant capabilities of Force-related awareness and the mental manipulation often employed by their diplomats - presumed deficiencies in lightsaber combat cannot be identified at this time and should not be acted upon. Given her position surrounded by Republic infrastructure and the foresight of her agents, it would require an extreme application of force, or otherwise the deployment of a highly elite group to have a chance at capturing her before she is extracted by any allies and as such remains beyond the reach of the Cabal.
+
+**Conclusions**
+Recommended course of action; passive surveillance. Though I have desired this subject for some time, the simplicity is that the Politico does not take any risks we can exploit and possesses the resources to become a greater threat to the Cabal if pressed. Attempted conflict is not only fraught with risk, but likely to be entirely without benefit at the current time.
+
+In years to come, when the the last of the Republic crumbles under Lord Fernal's forces and her allies at court turn to infighting, I might offer a hand of salvation - she is more than capable of decieving my associates of her apparent threatlessness and might make for a better ally, or conversationalist if nothing else, than another medical subject. Should she refuse, it is no great loss, her persuasive powers in the Force are a rarity in today's barbaric landscape and would certainly be of interest for experimentation.

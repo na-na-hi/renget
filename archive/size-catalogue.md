@@ -489,7 +489,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Madelyn's AquariYUM | NSFW, animal
  * What's Rayen looking for?
  * STARS | [Webtoons](https://www.webtoons.com/en/challenge/stars/list?title_no=743991)
- * The Giant of Greywater
+ * The Giant of Greywater | [Webtoons](https://www.webtoons.com/en/canvas/the-giant-of-greywater/list?title_no=822630)
  * Pixies and Potions
  * Strong Female Protagonist shrink dude
  * Pike's Reach | [tapas](https://tapas.io/series/pikesreach/info)

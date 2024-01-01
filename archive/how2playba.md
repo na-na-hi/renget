@@ -65,7 +65,7 @@ I'd advice you to do the same even if you don't reroll, just so you have somethi
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
 
-Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll.
+Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll. You can still get other 3\*s on the other 9 rolls before that.
 ![no, you can't get Ako on your 10th roll.](https://i.imgur.com/0nMJLHD.png)
 Rolling in 10s guarantees at least one 2\* student so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.

@@ -609,6 +609,25 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 ウイ(788)
 ```
 
+## 次元数(DimまたはRank)の比較
+キャラは64でいいなど言っているが、それ未満の値でどうなるか気になったので比較。
+個別に学習はさすがに面倒くさいのでresize_lora.pyでリサイズした。そのため、通常のLoRA学習では結果が変わる可能性があることに留意。
+
+再現度確認の参考に:[Danbooru検索「miyu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=miyu_%28blue_archive%29&z=5)
+![Image](https://files.catbox.moe/dn3937.webp)
+
+再現度確認の参考に:[Danbooru検索「miyu_\(swimsuit\)_\(blue_archive\)](https://danbooru.donmai.us/posts?tags=miyu_%28swimsuit%29_%28blue_archive%29+&z=5)
+![Image](https://files.catbox.moe/q7nhep.webp)
+
+再現度確認の参考に:[Danbooru検索「noa_(blue_archive)」](https://danbooru.donmai.us/posts?tags=noa_%28blue_archive%29&z=5)
+![Image](https://files.catbox.moe/v7cggv.webp)
+8以下で劣化？
+![Image](https://files.catbox.moe/4ybpnb.webp)
+マジか…
+
+かなり削っても再現度の低下が少ないようだ。キャラもnetwork_dimは16でいいかも？
+ちなみにdim16,IN04-07,OUT03-06のみでファイルサイズは11.9MiBになる。
+
 
 ***
 
@@ -617,7 +636,7 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 - 学習に使うウェイトはanimefull
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim64/Alpha8-16
+- 4000-6000steps,Dim64-16/Alphaはdimの4分の1
 - 畳み込み層はほぼ影響ないのでconv_dimとかの指定はいらない
 - OptimizerはDAdaptation系(LR=1)
 - IN04-07,OUT03-06だけでいい
@@ -627,7 +646,7 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 - 学習に使うウェイトはsd_xl_base_1.0
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim8/Alpha2
+- 4000-6000steps,Dim8/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
 - キャプションはそのままで、shuffle captionはオフ
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!
