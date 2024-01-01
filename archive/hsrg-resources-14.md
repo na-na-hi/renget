@@ -9,7 +9,7 @@
 [Hoyolab Wiki](https://wiki.hoyolab.com/pc/hsr) | miHoYo Wiki
 [Hoyolab Map](https://act.hoyolab.com/sr/app/interactive-map/index.html) | miHoYo Interactive Map
 [Fandom Wiki](https://honkai-star-rail.fandom.com) | Fandom Wiki
-[/hsrg/ Friendlist](https://docs.google.com/spreadsheets/d/1ZNW2zGVWO66phNXUYSN6l1YrLIJmu4HWjqeIkkY-OY4/htmlview) | /hsrg/ Friendlist
+[Google Docs](https://docs.google.com/spreadsheets/d/1ZNW2zGVWO66phNXUYSN6l1YrLIJmu4HWjqeIkkY-OY4/htmlview), [Pastebin](https://pastebin.com/Ew4sY9FJ) | /hsrg/ Friendlist
 [Hoyolabs](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311) | Daily Check-in
 
 

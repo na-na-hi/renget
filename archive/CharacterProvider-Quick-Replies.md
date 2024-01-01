@@ -1,6 +1,6 @@
 ![](https://files.catbox.moe/dlphjz.png)
 ## Quick replies
-*Current version: 1.4 | (19.11.2023)*
+*Current version: 2.0| (28.12.2023)*
 
 ==These prompts are experimental!==
 - - -
@@ -17,7 +17,7 @@ To send a message with the chosen prompt simply type in the message you want to 
 
 ####
 - - -
-##### [⬇️ DOWNLOAD QR PRESETS V1.4](https://files.catbox.moe/9n12t6.zip)
+##### [⬇️ DOWNLOAD QR PRESETS V2.0](https://files.catbox.moe/752pwo.zip)
 (These presets work best with `gpt-4-1106-preview` and `gpt-4-32k`)
 
 ##### Installation:
@@ -48,7 +48,7 @@ If you don't want any "indication" for the sent prompt injections in your messag
 *(Image: ⛶ Peek.)*
 ####
 - - -
-##### Custom Messages:
+##### Custom Messages (v1.4):
 
 **Settings:**
 `[x]` Enable Quick Replies *(Enables the extention)*

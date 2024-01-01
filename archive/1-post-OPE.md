@@ -14,10 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 ~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
 
 \>Streams
-Next stream (Welcoming 2024 with Nerissa, Sun 12/31 10PM CT)
+Upcoming streams
+Mon 01/01 8PM CT, own channel: New Year outfit reveal 
+Mon 01/01 9PM CT, FWMC channel: New Year outfits Advent collab
+Last stream (Welcoming 2024 with Nerissa)
 https://www.youtube.com/watch?v=GjMUUcBtw38
-Last stream (The Exit 8)
-https://www.youtube.com/watch?v=CmEXiXq76NQ
 Previous appearance (Kiara's channel: Advent Outfit Design collab with Kiara, Ina & Shiori)
 https://www.youtube.com/watch?v=nkXQd7R0B8w
 

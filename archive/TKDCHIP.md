@@ -691,6 +691,14 @@ The Al-Qassam Brigades fired a missile salvo from northern Gaza towards our occu
 https://files.catbox.moe/b6p6tu.mp4 New 12/29
 Hamas Freedom Fighters In Action  
 https://litter.catbox.moe/6zwmx9.mp4 New  12/30
+Hamas fighters fires yassin 105's on clueless Iof tanks 
+https://files.catbox.moe/cg2fpp.mp4 New 12/31
+Scenes of the Skylark-2 plane that was seized during an intelligence mission in the city of Beit Lahia
+https://files.catbox.moe/0ihoyf.mp4 New 12/31
+The Martyr Izz al-Din al-Qassam Brigades missile system
+https://files.catbox.moe/7ye95q.mp4 New  12/31
+HAPPY. NEW. YEAR.
+https://files.catbox.moe/j44ehs.mp4 New  12/31/23
 
 >New Hamas Media Videos 
 https://files.catbox.moe/d9g2u1.mp4 New  12/16/23
@@ -741,6 +749,8 @@ Hezbollah ATGM team eliminates 4 IDF soldiers on the border. Double tap tactic i
 https://files.catbox.moe/1ysi7k.mp4  12/27/23
 Hezbollah published a video showing a compilation of several attacks against israeli occupation settlements on the border, such as Kiryat Shmona, in response to israeli attacks on Lebanese civilians.
 https://files.catbox.moe/7v15js.mp4  12/28/23
+Hezbollah : Islamic resistance targets Israeli army in the occupied Lebanese Shebaa Farms with an assault drone.
+https://files.catbox.moe/0ngaj9.mp4 New  12/31
 
 >New Hezbollah Mashup Video 
 https://files.catbox.moe/orlocp.MOV  12/10/23
@@ -757,6 +767,8 @@ files.catbox.moe/0d1v0v.MP4 New  12/26/23
 Hezbollah published a 2nd video showing attacking a group of israeli soldiers inside Doviv on the 
 Lebanese-Palestinian border. Those IOF soldiers found out.
 files.catbox.moe/5cgnyf.mp4 New  12/26/23 
+Hezbollah's Elite 'Ridwan' Special Forces have released a new video
+https://files.catbox.moe/n71hnx.MP4 New  12/31
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -789,6 +801,10 @@ Al - Quds shell military concentrations with rockets and mortars, east of khan y
 https://files.catbox.moe/4ktbit.mp4  12/28/23
 Al-Quds Brigades shows, from the heart of the front lines where the IOF claims to have taken control in the northern Gaza Strip, the launching of rockets towards Askalan & the Gaza envelope settlements, and against military vehicles with mortars.
 https://files.catbox.moe/mpxbrm.mp4 New  12/30/23
+Al-Quds Brigades published a video showing scenes showing mortar launches crushing military vehicles of the Zionists.
+https://files.catbox.moe/h7ivzc.mp4 New 12/31
+The Mujahideen Brigades published a video showing their forces target a Zionist gunboat in the sea west of Gaza City with a Sa’ir missile.
+https://files.catbox.moe/ki0npt.mp4 New  12/31
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Houthis Videos 
@@ -808,6 +824,8 @@ New Islamic Resistance Iraq
 
 Attacked the “Kharab al-Jir” US base deep in Syria with a missile salvo
 https://files.catbox.moe/qm5w9n.mp4 New  12/29 
+Scenes from the Islamic Resistance in #Iraq launching a drone towards Erbil Airport in northern Iraq.
+https://files.catbox.moe/fuz1gc.mp4 New 12/31
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 News Clips and Videos 
@@ -980,3 +998,6 @@ https://files.catbox.moe/37jz7w.mp4  12/30/23
 
 >Reports that they are besieging Thabet Thabet and Al Zakat hospitals in the city.
 https://files.catbox.moe/gar4nj.mp4  12/30/23
+
+>Somebody made a cartoon called "Commander Kitty"
+https://files.catbox.moe/4t2mnj.mp4  12/30/23

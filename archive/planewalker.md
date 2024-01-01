@@ -8,13 +8,13 @@ My burner can be found here if you want to contact me: karakuriburst@proton.me
 
 Faust | Info
 :----:  | :----: 
-![](https://files.catbox.moe/thumbs/t_uogg3w.png)   | You've died and your corpse resides in the morgue. Luckily (or unluckily) for you, your cadaver has been spotted by esteemed doctor and closeted necrophile Faust. He seems quite taken with you, and he just might have the means of bringing you back. Inspired by [The Bride of Necro](https://www.youtube.com/watch?v=Vd-yN2jTrVA)
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Faust),  [Catbox](https://files.catbox.moe/vcecsx.png), [CAI](https://beta.character.ai/chat?char=OAKQj3OwjFylueyA-HUosdaZVFNFnMwOX3p1c_jqwVk)
+![](https://files.catbox.moe/thumbs/t_uogg3w.png)   | You've died and your corpse resides in the morgue. Luckily (or unluckily) for you, your cadaver has been spotted by esteemed doctor and closeted necrophile Faust. He seems quite taken with you, and he just might have the means of bringing you back. New version has two greetings and better formatting. Inspired by [The Bride of Necro](https://www.youtube.com/watch?v=Vd-yN2jTrVA)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Faust),  [Old Version Catbox](https://files.catbox.moe/vcecsx.png), [New Version Catbox](https://files.catbox.moe/chu0xg.png), [CAI](https://beta.character.ai/chat?char=OAKQj3OwjFylueyA-HUosdaZVFNFnMwOX3p1c_jqwVk)
 
 Ramsha Leingold | Info
 :----:  | :----: 
-![](https://files.catbox.moe/thumbs/t_yyilf3.png)   | An incubus that adores humans and prefers taking one to love on forever instead of feeding off multiple humans. Also 40 feet tall, don't expect normal sex. Has two greetings, one where you first encounter him and one where you've already been taken by him.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold),  [Catbox](https://files.catbox.moe/aetgyu.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
+![](https://files.catbox.moe/thumbs/t_yyilf3.png)   | An incubus that adores humans and prefers taking one to love on forever instead of feeding off multiple humans. Also 40 feet tall, don't expect normal sex. Has two greetings, one where you first encounter him and one where you've already been taken by him. New version has better formatting and a lorebook.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/ramsha-leingold), [Old Version Catbox](https://files.catbox.moe/aetgyu.png), [New Version Catbox](https://files.catbox.moe/2tqjuj.png), [CAI](https://beta.character.ai/chat?char=rn-XHCWNdm0aRIRIkkCoQwvELfVrwo828u4_kCEwqlY)
 
 Sariel Leingold | Info
 :----:  | :----: 

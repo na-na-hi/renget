@@ -67,6 +67,10 @@ Sabrassk
 >>91360321
 Saewara Kol
 >>91378465
+Kon Talkyl
+>>91389076
+Quo'in Iyad
+>>91392261
 
 >Sith
 Lord Devan Fernal

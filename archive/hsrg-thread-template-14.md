@@ -1,5 +1,6 @@
-->/hsrg/ - Honkai: Star Rail General->
-
+|->/hsrg/ - Honkai: Star Rail General->
+|
+***
 Previous: >>
 
 \>Download - https://hsr.hoyoverse.com/en-us/home
@@ -34,7 +35,7 @@ https://www.youtube.com/watch?v=BFCBuPHcjaY
 \>Web event: "Fables of the Stars" - https://act.hoyoverse.com/sr/event/e20231230card-d0a2c0/index.html
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
-NB9TKRMK5R23 (NEW)
+NB9TKRMK5R23
 HSRGALAXY23
 STARRAILGIFT
 

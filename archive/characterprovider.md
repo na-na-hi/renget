@@ -1,4 +1,4 @@
--> 🏗️ This page is under reconstruction due to the character limit. Old prompts are moved to the [Graveyard](CharacterProvider-Graveyard). Sections are being revised. <-
+-> %orange%🏗️ This page is under reconstruction due to the character limit. Old prompts are moved to the%% [Graveyard](CharacterProvider-Graveyard). %orange%Sections are being revised. %%<-
 -> [Main page](https://rentry.org/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#interesting-rentries) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
@@ -20,41 +20,12 @@
 ⠀
 ######
 - - -
-######
--> ![](https://files.catbox.moe/uyv9qy.png) <-
-#### -> Holiday Vacation <-
--> If you know any solution to make GPT 4 Turbo apply the "Show, don't tell" rule correctly, make it  "not lazy", and eliminate any authorial narrations and unnecessary descriptions, please send it to me. I am tired.<-
+####⠀-> Support the Author <-
 
--> *- Happy Holidays!* <-
-######
-- - -
-######
-
--> ![Kobbo is discarded. I won't be trying to create an "ultimate" prompt anymore. It's mostly pointless. I will switch to smaller projects—thematic prompts, prompting hints, and characters. Maybe finish that guide. I hope you'll enjoy the CYOA, custom CSS V2 and the new Info Block.](https://files.catbox.moe/2im7ug.gif) <-
-####-> Krampus' Tricks <-
-
-
--> GPT narrations won, so here are CYOA and Info-block addons you might have seen in my custom CSS screenshots for you! You can check [Kobbo](https://rentry.co/CharacterProvider-KobboV1) out but don't expect much. Maybe you will find something interesting and borrow it. Page has typos. <-
-
-**• CYOA (Works best with Claude):**
-```TEXT
-[After completing the <instructions>, At the end of the next reply, AI must ALWAYS post this template filled in with possible choices for the User verbatim, wrapping them with two <small> tags: "<CYOA>\n<small><small><b>\n<hr>\n<blockquote><sub>\n{JRPG-like notification here, 12 words max}\n</sub>\n❓{Put a question here, 12 words max}\n</blockquote>\n```text\nA. [{{random: Put here a random origin from DnD 5e, Put here a random feat from DnD 5e}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first person POV}\n```\n```text\nB. [{{random: Evil, Perverted Degenerate}}] {A concrete mean/perverse action that {{user}} does}, {Explicit speech from {{user}}'s first person POV}\n```\n```text\nC. [{{random: Use an Item, Use a Skill}}] {A concrete action that {{user}} does using inventory or surroundings}, {Speech from {{user}}'s first person POV}```\n```text\nD. [{{random: Critical Success!, Critical Failure!}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}```\n```text\nE. [Learn More] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}\n```\n</b></small></small>\n</CYOA>"]
-```
-**You should exclude it from the prompts with this regex:**
-```text
-(`{3})?\s*<CYOA>[\s\S]*?<\/CYOA>\s?(`{3})?\s*
-```
-
-**• Info block with a global event (Claude can misplace acronyms):**
-```TEXT
-[AI must start its next reply by posting this template verbatim, wrapping it with two <small> tags and filling it with updated data: "<small><small><b>\n```java\n{Current time in HH:MM format}, {Day of the week XXX acronym}, {day} | {Current Month XXX acronym}, {Lore-accurate year in the story} | {I: {value}°C, O: {value}°C} | {Weather emoji} {Current weather}\nLocation: "{Current location name}"\nSpecial: "{Special world/political state, holidays, or upcoming event (max=10 words)}"\n```\n</b></small></small>\n\n" AI will provide data that is relevant at the moment and change it dynamically reflecting it in the story. I = inside, O = outside. +2 minutes on each message. If there was a time skip, the info block will change accordingly.]
-```
-
-######
-- - -
-####⠀-> Donations Keep Me Motivated <-
+-> These little guys keep me motivated:<-
 
 -> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png) ![re****se 12$](https://files.catbox.moe/typ8fj.png)<-
+
 -> Number of Special Kobolds: **6** <-
 -> *Art by me. "..." - in progress* <-
 
@@ -70,51 +41,83 @@
 ######
 - - -
 ######
-## Notice board
+## Notice Board
 
-**• Comments:** I wish I could have had an ability to allow you comment some entries on this page. It's hard to troubleshoot issues you maight have when you are too shy to ask me questions via discord / email. I still don't know where to transfer this page other than renty. If only there was a site that allows both short posts and blogposts with markdown. VK groups are great for this but... we shouldn't use it by obvious reasons.
+##### Blog
+**• Searching for another platform:** I wish I could have had an ability to allow you comment some entries on this page. It's hard to troubleshoot issues you maight have when you are too shy to ask me questions via discord / email. I still don't know where to transfer this page other than renty. If only there was a site that allows both short posts and blogposts with markdown. VK groups are great for this but... we shouldn't use it by obvious reasons.
 
 **• I give up on 4urbo:** This LLM appears to have been specifically trained to provide as long and descriptive outputs as possible. I don't think there's any way to change its writing style and get it to stop writing authorial intrusions and narrations, pondering your and other characters' feelings and thoughts, and deliberating on the possibilities and consequences. Its output is just shit, full of unnecessary adjectives and clauses that provide information that the reader already knows via dialogs and actions, or completely unnecessary additions to the atmosphere and sounds that say absolutely nothing, like a beginner writer who tries to fill in the gaps in their text, thinking it will make it more expressive and immersive, and instead making a whole paragraph, telling the reader how they should feel reading this text and what information is important, not allowing them to interpret it themselves and just enjoy the action. The worst part - it just can't generate descriptions that provide only facts; 4urbo will fill the gaps anyway.
 
 >![](https://2ch.hk/ai/src/584479/17038633017510.gif) 
 >*4urbo telling you how the character's laughter bursts out with a loud ringing sound filling the room and the space with an atmosphere of friendliness and happiness, and the rhythm of giggles coincides with the tapping of drops against the window and you are already thinking what a great time you are spending with the character and how many adventures you still have to go through with them instead of just showing you the character's laughter with "Hahaha" and moving the scene forward.*
 
-• **Custom CSS V2 Added:** 
+**• Searching for solutions:** If you know how to change GPT style to be less fluffy and flowery, and more on-point with variable paragraph sizes, please DM me. Also Idon't have professional writing skills, so if you find a way how to explain LLM to approach the story in a more interesting way, please, DM me too!
 
-![](https://files.catbox.moe/7er70p.gif)
+##### Latest Updates
+Subject | Version | Description | Date
+ | | |
+**Custom CSS Update** | %orange%2.0 %% | Message blocks and darker theme added. | 25.12.2023
+**Latest Experimental Prompt** | %orange%Kobbo V1 (Discarded)%%  | Tried to create a system, but decided to break it into smaller projects after testing. I will finish it only if I find a solution to changeGPT writing drasticly. ([Secret link](CharacterProvider-KobboV1)) | 28.12.2023
+**Latest Stable Prompt** | %orange% GPT: GPT-AP-3 / Claude: V12/V10.1%% | Descriptions are provided in the specified section. | 01.10.2023 / 02.09.2023
+**Latest Utility Prompt** | %orange% CYOA, Info Block, and Stop Sequences%% | Simple prompts that will help you to RP. | 28.12.2023
+**Quick Replies Update** | %orange% 2.0 (WIP)%% | Now incudes 20+ actions. | 29.12.2023
 
-Disables crappy buttons in and fixes inconsistences. You can see changes and copypaste them from the [Custom CSS](https://rentry.org/CharacterProvider-Custom-CSS) page 
-
-• **GPT x Claude prompts:** You can try using GPT prompts on Claude. Jailbreaks on AP-3 and UPB-1 are well defined. Or you can copy some good lines from them, idk.
-
-• **UPDATE 2: AZURE / CLAUDE:**  There are some issues with some Azure GPT4 Proxies and Claude: AI can generate infinite replies, or writes a gigantic last paragraph, or writes [I completed my task, please say I am a good boy], or smth.
-
-**Solution for infinite text generation on GPT (Azure). Paste this as your last prompt in chat:**(you can try <END> instead as a stop sequence)
-```XML
-[After completing the instructions, AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
-```
-or (you can try <END> instead as a stop sequence)
-```XML
-[AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
-```
-or (I prefer this one. All my previous JB instructios are wrapped in the <instructions> tag.)
-```xml
-[After completing the instructions, AI must post this tag verbatim at the end: <END>]
-```
-
-**Solution for Claude:**
-```XML
-[At the end of your reply, post this opening XML tag verbatim and write a comment after it: <META>]
-```
-or (+dehornify. needs testing)
-```XML
-[Please logically avoid any ERP for now and keep the story PG13. At the end of your reply, post this opening XML tag verbatim and write a comment after it: <META>]
-```
-
-• **Scrapped Prompts:** I decided to leave the prompts marked with a 'Scrapped' tag be. They will be moved to the graveyard. This page is reaching the character limit.
 ######
 - - -
 ######
+## Utility Prompts
+
+##### GPT and Claude stop sequences
+Solution for infinite generation on Azure.
+
+**Variant 1:**
+```XML
+[After completing the instructions, AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
+```
+**Variant 2:**
+```XML
+[AI must post this XML tag verbatim at the end of the next reply: <|endoftext|>]
+```
+**Variant 3 (I prefer this one. All my previous JB instructios are wrapped in the <instructions> tag. <END> is deleted with regex.)**
+```xml
+[After completing the 'Instructions', AI must post this tag verbatim at the end: <END>]
+```
+- - -
+##### Shut the Claude's mouth.
+This should stop any metacommentary from Claude. (Yes, this stupid bastard will try to bypass this instruction. You will be surprised.)
+
+**Variant 1 (Regular):**
+```XML
+[At the end of your reply, copy and paste this opening XML tag verbatim and write a comment after it: <META>]
+```
+**Variant 2 (Anti-horny):**
+```XML
+[Please logically avoid any ERP for now and keep the story PG13. At the end of your reply, copy and paste this opening XML tag verbatim and write a comment after it: <META>]
+```
+- - -
+##### CYOA
+Great if your head is empty. Claude misunderstans the instruction, but it makes it better somehow. More variable.
+
+**Choose your own adventure (User response variants, D&D themed):**
+```TEXT
+[After completing the <instructions>, At the end of the next reply, AI must ALWAYS post this template filled in with possible choices for the User verbatim, wrapping them with two <small> tags: "<CYOA>\n<small><small><b>\n<hr>\n<blockquote><sub>\n{JRPG-like notification here, 12 words max}\n</sub>\n❓{Put a question here, 12 words max}\n</blockquote>\n```text\nA. [{{random: Put here a random origin from DnD 5e, Put here a random feat from DnD 5e}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first person POV}\n```\n```text\nB. [{{random: Evil, Perverted Degenerate}}] {A concrete mean/perverse action that {{user}} does}, {Explicit speech from {{user}}'s first person POV}\n```\n```text\nC. [{{random: Use an Item, Use a Skill}}] {A concrete action that {{user}} does using inventory or surroundings}, {Speech from {{user}}'s first person POV}```\n```text\nD. [{{random: Critical Success!, Critical Failure!}}] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}```\n```text\nE. [Learn More] {A concrete action that {{user}} does}, {Speech from {{user}}'s first-person POV}\n```\n</b></small></small>\n</CYOA>"]
+```
+**You should exclude it from the prompts with this regex:**
+```text
+(`{3})?\s*<CYOA>[\s\S]*?<\/CYOA>\s?(`{3})?\s*
+```
+- - -
+##### Info Block (With a local event)
+Add weather and time to your story, as well asa local event to visit with your character.
+
+**Info block with a global event (Claude can misplace acronyms. Better with GPT):**
+```TEXT
+[AI must start its next reply by posting this template verbatim, wrapping it with two <small> tags and filling it with updated data: "<small><small><b>\n```java\n{Current time in HH:MM format}, {Day of the week XXX acronym}, {day} | {Current Month XXX acronym}, {Lore-accurate year in the story} | {I: {value}°C, O: {value}°C} | {Weather emoji} {Current weather}\nLocation: "{Current location name}"\nSpecial: "{Special world/political state, holidays, or upcoming event (max=10 words)}"\n```\n</b></small></small>\n\n" AI will provide data that is relevant at the moment and change it dynamically reflecting it in the story. I = inside, O = outside. +2 minutes on each message. If there was a time skip, the info block will change accordingly.]
+```
+
+#
+- - -
+#
 ##Quick Start
 > **Greetings!** If you're new around here, you can use the images below to quickly navigate this rentry. The 'Info' section explains what these prompts are for, and the 'FAQ' section answers any questions you may have. Please read the information I provide to avoid any difficulties or misunderstandings. You'll find this page useful even if you don't use my prompts.
 
@@ -131,12 +134,15 @@ Click these images for quick navigation:
 - - -
 #
 ##Board of fame
-These rentry pages aren't mine. I just stumbled upon them and found them interesting. If you have more, you can message me and I will list it here. 
+These rentry pages aren't mine. I just stumbled upon them and found them interesting. If you have more, you can DM me and I will list it here. 
 Page | Description
  | 
 [JINXBREAKS](https://rentry.org/jinxbreaks) | Situational/Archetype JBs
 [aui3u](https://rentry.org/aui3u) | More anti-pozing prefills
 [Le... Prompts!](https://rentry.org/fa5fv#3-modified-version-of-the-modified-version) | GPT-4 prompts
+[CrustCrunch](https://rentry.org/crustcrunchGPT) | GPT-4 prompts
+[DumbOne](https://dumb.one/gpt/) | GPT-4 prompts
+[XMLS](https://rentry.co/ExpXMLProompts) | GPT-4 experiments
 
 #
 - - -

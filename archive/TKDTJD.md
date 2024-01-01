@@ -2589,3 +2589,203 @@ https://nitter.1d4.us/QudsNen/status/1741215250928582926#m  12/30/23
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1741227981626831335#m  12/30/23
+
+>Somebody made a cartoon called "Commander Kitty"
+https://nitter.net/CensoredMen/status/1741168972135821446?  12/30/31
+
+>For God’s sake, israeli airstrikes have destroyed 300,000 out of 439,000 homes in Gaza… That’s 70% of the homes destroyed by israel!! 
+
+Satellite imagery revealed that the 29,000 bombs dropped targeted not only residential areas but also Byzantine-era churches, hospitals,etc…
+https://nitter.net/AryJeay/status/1741416840629285313#m  12/31/23
+
+>BREAKING: CENTCOM says AnsarAllah speed boats attacked a ship and an US military helicopter in the Red Sea. 
+
+The American military helicopter sank 3 out of 4 Ansarallah speed boats. The 4th withdrew unharmed.
+https://nitter.net/AryJeay/status/1741412001035801010#m  12/31/23
+
+>Satellite imagery revealed that the 29,000 bombs dropped targeted not only residential areas but also Byzantine-era churches, hospitals,etc…
+https://nitter.net/AryJeay/status/1741416840629285313#m  12/31/23
+
+>A courageous Palestinian boy fearlessly expresses his defiance towards Israel, despite the sounds of bombardment. With unwavering faith in the resistance.
+https://nitter.1d4.us/QudsNen/status/1741382476847567253#m  12/31/23
+
+>Despite a severe shortage of medical supplies due to Israel's siege, Palestinian health workers in Gaza tirelessly uphold the health system. Their selflessness and dedication amid overwhelming challenges are truly inspiring.
+https://nitter.1d4.us/QudsNen/status/1741384517447799294#m  12/31/23
+
+>Islamic Resistance in Iraq confirms:
+
+Attacking the Abu Hajar US airfield base near the town of Rmelan in Syria, using suicide drones. This is the first time this base gets attacked since the war, if I’m not mistaken.
+https://nitter.net/AryJeay/status/1741422286173823288#m  12/31/23
+
+>IMPORTANT: Speech HIGHLIGHTS of Deputy Secretary General of Hezbollah, Sheikh Naim Qassem, discusses the transformative impact of the "Al-Aqsa Flood" on the region:
+
+Describes the current phase as witnessing destruction but anticipates a new post-war era with cultural & political revival.
+
+Foresees reshaping global convictions, and amplifying voices of justice.
+
+Expects support for the resistance to expand, envisioning a new generation emerging, stronger and more resilient.
+
+Believes that Al-Aqsa Flood has penetrated the minds and hearts of israelis, leading to psychological crises and uncertainties.
+
+States that there is no turning back, and the disappearance of the Israeli entity is anticipated, with time needed to see results.
+
+Addresses israel’s proposals for northern Palestine and southern Lebanon, asserting that israel cannot impose/force its choices, instead, it should respond and face the resilience of the resistance.
+
+Rejected the israeli project, preventing the achievement of israeli goals in Gaza, Lebanon, and the region.
+
+Declared that israel cannot return settlers to the north amid the ongoing battle, and victory is unattainable for israel in this war.
+
+Called for a halt to the war in Gaza for the war in Lebanon to cease, warning of a stronger response if Israel persists in bombing civilians.
+
+Emphasized Hezbollah's readiness for a bigger war and confrontation in the south, proportional to the requirements of the battle.
+
+Asserts that engaging in the battle is a duty to end IOF aggression & violations in Gaza, despite acknowledging significant sacrifices for a greater cause.
+
+Expresses the aim to dismantle a dangerous project against Palestine and the region through these efforts.
+https://nitter.net/AryJeay/status/1741429678718451998#m  12/31/23
+
+>Al-Qassam Brigades and Mujahideen Brigades target an #Israeli Apache helicopter south of the Zaytoun neighborhood in #Gaza City with a SAM 7 missile.
+https://nitter.net/ME_Observer_/status/1741435227510067315#m  12/31/23
+
+>The israeli army admits to the elimination of 2 officers in the Gaza Strip:
+
+- Sgt. Maj. (res.) Eliraz Gabai, 37, of the Yiftah Brigade's 7810th Battalion.
+
+- Sgt. First Class (res.) Liav Seada, 23, of the Combat Engineering Corps' 7107th Battalion.
+
+Gabai was killed yesterday in central Gaza, while Seada was killed today in the Strip's north.
+https://nitter.net/AryJeay/status/1741399399647826227#m  12/31/23
+
+>Israel’s military killed journalist Nermine Haboush, along with her baby and mother, in an attack on her home in Gaza City.
+
+This brings the number of journalists killed by Israel since October 7 to 106
+https://nitter.1d4.us/QudsNen/status/1741436187233882246#m  12/31/23
+
+>WATCH: Al-Qassam (Hamas) published a new video showing its fighters clash with military vehicles and soldiers in the Bureij camp, using Yassin-105s.
+https://nitter.net/AryJeay/status/1741453481628614722#m  12/31/23
+
+>This is insane! Look how close the Qassam warrior is to the vehicle with a clueless IOF soldier propped up on top of it... and then
+https://nitter.net/IbnRiad/status/1741454607438450700#m  12/31/23
+
+>According to the French news agency, it claims that 10 Yemeni forces were killed in the exchange of fire with the US army in the Red Sea, after targeting the Maersk container ship with 4 boats.
+
+Keep in mind, until Yemen officially confirms it, this all remains unconfirmed.
+https://nitter.net/AryJeay/status/1741464953461039300#m  12/31/23
+
+>Billboard truck driving around hospitals in Michigan, United States with the message: "Can't afford healthcare, sorry gotta give Israel billions to bomb children."
+https://nitter.1d4.us/QudsNen/status/1741462219437527473#m  12/31/23
+
+>French Deputy Thomas Portes: 'Officials in Israel are committing genocide in Gaza, and France must impose sanctions on them.'
+https://nitter.1d4.us/QudsNen/status/1741408422476591265#m  12/31/23
+
+>Demonstrators persist for the 12th consecutive week in Canada's capital, rejecting attempts to silence them. They demand a ceasefire in Gaza and justice for Palestine.
+https://nitter.1d4.us/QudsNen/status/1741460606367027203#m  12/31/23
+
+>An important statement by the Yemeni Armed Forces in the coming hours.
+https://nitter.net/AryJeay/status/1741472005021389104#m  12/31/23
+
+>Drone Attack #Lebanon, Hezbollah :  
+
+Scenes from the Islamic Resistance targeting the garrison of the Ramtha site of the #Israeli enemy army in the occupied Lebanese Shebaa Farms with an assault drone.
+https://nitter.net/ME_Observer_/status/1741479953567244677#m  12/31/23
+
+>Al-Quds Brigades (PIJ)
+
+Sniped a Zionist soldier in the Al-Tuffah neighborhood in Gaza City.
+https://nitter.net/AryJeay/status/1741481836977471771#m  12/31/23
+
+>Israeli Finance Minister Bezalel Smotrich, during an interview, advocates for the execution of plans to ethnically cleanse Palestinians from Gaza: "If we strategically execute our plans, there will be emigration, and we will reside in the Gaza Strip. We won't permit a scenario where 2 million people reside there. If there are 100-200 thousand Arabs in Gaza, the entire discourse about the aftermath will be altered. They wish to depart; they have been residing in the enclave for 75 years and are desperate."
+https://nitter.1d4.us/QudsNen/status/1741480070567301589#m  12/31/23
+
+>Scenes from the Islamic Resistance in #Iraq launching a drone towards the occupation base near Erbil Airport in northern Iraq.
+
+Dated: 12-31-2023
+https://nitter.net/ME_Observer_/status/1741484531868172537#m  12/31/23
+
+>Another attack occured north of the Bab El Mandab strait where Yemeni naval forces (3 boats) were engaged in combat with a ship & the US military. 
+
+(PS: This is not the same attack from this morning, it’s a new one.)
+https://nitter.net/AryJeay/status/1741490756471173123#m  12/31/23
+
+>UPDATE:
+
+The UKMTO updated on the attack that occurred this morning, north of the Bab El Mandab strait, where Yemeni naval forces (3 boats; not 4 as claimed by CENTCOM) were engaged in combat with a ship & a US military heli. 
+
+(EDIT: It’s not a new attack, just an update on this morning’s attack incident)
+https://nitter.net/AryJeay/status/1741492543387230283#m  12/31/23
+
+>Al-Qassam (Hamas)
+
+Downed, yet again, another Skylark-2 drone, while it was carrying an intelligence mission, in Beit Lahia in the northern Gaza Strip.
+https://nitter.net/AryJeay/status/1741495935346106536#m  12/31/23
+
+>STATEMENT by the Yemeni Armed Forces’ spox Yahya Sarae
+
+While carrying regular official duties to establish security, stability, protect maritime navigation, American forces attacked 3 Yemeni Navy boats, resulting in the martyrdom and loss of 10 personnel.
+
+The Yemeni Armed Forces mourns these martyrs, affirming that the US bears the consequences and repercussions of this crime.
+
+In another operation, the Yemeni Naval Forces successfully executed a military operation targeting the container ship "MAERSK Hangzhou," destined for israel, with anti-ship missiles.
+
+The targeting operation came after the ship's crew refused to respond to warning calls from the Yemeni Navy.
+https://nitter.net/AryJeay/status/1741501752338243732#m  12/31/23
+
+>Iran and the UK FMs had a phone call over regional developments including in the Red Sea. 
+
+Iranian FM said Iran will give a strong response to any “adventure and aggression” by israel.
+
+Alleged reports are also spreading that UK is planning to join the US & a EU country in an attack on targets in Yemen.
+https://nitter.net/AryJeay/status/1741504532348047460#m  12/31/23
+
+>Breaking | Israeli Army Radio announces the withdrawal of 5 combat brigades from Gaza, including reserve brigades 551, 14, and three training brigades.
+https://nitter.1d4.us/QudsNen/status/1741514726952100066#m  12/31/23
+
+>In the name of Allah, the Most Gracious, the Most Merciful.
+" So do not weaken and do not grieve, and you will be superior if you are [true] believers." (Quran 3:139)
+
+Greetings to the steadfast and patient masses of our people,
+You are the honor of the Islamic nation, showcasing to the world the true meaning of patience. Against the rock of your resilience, all conspiracies hatched against you shatter.
+
+May Allah have mercy on the martyrs of our people, and we pray for the swift recovery of our wounded enduring the hardships of the blockade, shortages, and the denial of medical treatment. May freedom come to our prisoners facing the mistreatment reflecting the moral bankruptcy of this rogue entity.
+
+To our brave fighters from all factions of the resistance,
+Your courage resonates with both foes and friends alike. Your bravery has shattered the false pride of the oppressive enemy, etching the historical significance of Palestine in the minds of the free world.
+
+Special commendation to the Mujahideen Brigades who, through special operations in various combat zones, seized diverse weapons from the Zionist enemy. Their achievements include obtaining a medium weapon of the MAG type and an M16 rifle from the enemy, along with ammunition boxes, LAW missiles, turning unexploded enemy shells into lethal improvised devices. May Allah bless these courageous efforts and crown their perseverance with manifest victory.
+
+Concerning our enemy's prisoners, we previously declared that the enemy targeted some of our captives. They show no regard for the lives or suffering of their own prisoners. The siege and starvation affecting our people extend to our captives, as their areas are bombarded. If the enemy desires the release of their prisoners, they must cease their aggression entirely and withdraw their forces from our beloved land.
+
+To the masses of our Islamic nation,
+In your name and in the name of our people, we salute all who supported and stood by us, particularly those in military positions. Special acknowledgments to the Islamic resistance in Lebanon, the Yemeni forces, Ansar Allah movement, and the Iraqi resistance factions.
+
+In conclusion, we mourn our martyrs, and we pray for the swift recovery of our wounded and the freedom of our captives. "And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might." (Quran 22:40)
+https://nitter.net/AryJeay/status/1741525573501915628#m  12/31/23
+
+>A war means that Americans are ready to make the West suffer economic crisis for the sake of the Chosenites that occupy #Palestine:
+
+ If Americans go to war with #Yemen, Europe will be cut off from the Red sea, forcing all shipments coming from Asia to go through South Africa, which will increase inflation and worsen the economic situation in Europe.
+
+If the whole point is to "secure" the Red Sea - a war will have the opposite outcome.
+https://nitter.net/ME_Observer_/status/1741520974187471356#m  12/31/23
+
+>Despite the shortage of ingredients and baking materials, fifteen-year-old Nour Al-Wahidi bakes and sells Cinnabons to support her family amid the challenging conditions in Gaza.
+https://nitter.1d4.us/QudsNen/status/1741520561438625888#m  12/31/23
+
+>I wish everyone a happy new year! 
+
+Next to happiness, I wish everyone a stressfree & healthy 2024 and may we see liberation in Palestine and everywhere else in the world, including Kashmir & Yemen’s full independene from the Saudi puppet. #HappyNewYear
+https://nitter.net/AryJeay/status/1741534461890527662#m  12/31/23
+
+>Al-Quds Brigades published a video showing scenes showing mortar launches crushing military vehicles of the Zionists.
+https://nitter.net/AryJeay/status/1741535573259509799#m  12/31/23
+
+>Roy Yafareh arrived on October 7 in the #Gaza Strip and impersonated a senior officer and claimed that he served in several units. During Netanyahu, Gallant, and Halevy’s visits to the forces in the #Gaza Strip, he took many pictures with them. He also entered #Gaza and wrote many graffiti on its walls. He also entered a #Hamas tunnel and published many articles. Videos on TikTok... Today an indictment was filed against him and it was found that he was a thief and stole weapons, ammunition, a drone and other equipment.
+https://nitter.net/ME_Observer_/status/1741544307914428643#m  12/31/23
+
+>BREAKING| ABC Network cited American officials as saying that the aircraft carrier Gerald Ford will leave the Middle East in the coming days.
+https://nitter.1d4.us/QudsNen/status/1741561037332107629#m  12/31/23
+
+>Yahya Sinwar’s newyear message:
+
+"The bombing of Tel Aviv in 2024 is just the beginning."
+https://nitter.net/AryJeay/status/1741587437636264142#m  12/31/23

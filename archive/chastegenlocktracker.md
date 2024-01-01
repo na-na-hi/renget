@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 26-Dec-2023)_
+_(Updated 31-Dec-2023)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -22,13 +22,16 @@ _(Updated 26-Dec-2023)_
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
-| usernyaame | https://chaster.app/sessions/Zlt0mY4evkEqaxtQ | === |
 | EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
-| LittleEngine | https://chaster.app/sessions/zFq8gxw8Alsjwqiq | === |
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
-| Serafel | https://chaster.app/sessions/1nthKquRguNWtXHB | === |
 | ARealGamerBoi | https://chaster.app/sessions/ACRZfa3Dx3DufrWt | Until they finish ALL their chores |
 | ChasteForever | https://chaster.app/sessions/4xOLGHrYRYKDBFMJ | === |
+| mosque | https://chaster.app/sessions/Upoerqh4q3ggFuRk | === |
+| Ericka | https://chaster.app/sessions/77IzcGHw8e0Zuoer | === |
+| 00dest | https://chaster.app/sessions/B9oFDARB4lhX8K72 | 01-Feb-2024 |
+| jhonnyexampole | https://chaster.app/sessions/uNamwemfJZdp8toi | === |
+| Chastgenbitch | https://chaster.app/sessions/kFVWZStaQEWRTI4M | === |
+| DegradeMe | https://chaster.app/sessions/hpUMfzRRfU8OABQK | 07-Jan-2024 |
 |  |  |  |
 |  |  |  |

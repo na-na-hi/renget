@@ -94,6 +94,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/3p2leo.png) | ![](https://files.catbox.moe/tjitoz.png) | ![](https://files.catbox.moe/13vbg9.png) | ![](https://files.catbox.moe/j5yjtx.png)
 
+``` html
+artist:brian froud, artist:demizu posuka, artist:shigatake, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/9mqale.png) | ![](https://files.catbox.moe/z6230e.png) | ![](https://files.catbox.moe/scgq8a.png) | ![](https://files.catbox.moe/hxj2qw.png)
+
 ***
 # Stylized anime stuff???
 ``` html
