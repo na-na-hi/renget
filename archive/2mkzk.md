@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##23/12/28-23/12/31 (yy/mm/dd)
+##24/01/04-24/01/07 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
-**SAT: Mega Man Y+1: Operation X.M.A.S. and Mega Man Shattered Diamond Demo at 3UTC (Parsec)**
-**SUN: Minemelt at 19UTC* (Minecraft)** possibly sabe NY hack too if it's out in time
+**SAT: Mega Man Shattered Diamond Demo at 3UTC (Parsec)**
+**SUN: Golden SUN: The Lost Age at 19UTC* (Telemelt)**
 
 ##Cytubes
 

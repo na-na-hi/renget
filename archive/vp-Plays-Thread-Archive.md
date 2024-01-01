@@ -12,8 +12,8 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 ###->Rejuvenation MM<-
 !!! note
 	**Status: Completed**
-[**[1]** *>Playing through a challenge mod of a game you've already played twice*](https://arch.b4k.co/vp/thread/53913991/)
-[**[2]** *>Continue to use most of image limit on story dialogue*](https://arch.b4k.co/vp/thread/53921488/)
+[**[1]** *%green%>Playing through a challenge mod of a game you've already played twice%%*](https://arch.b4k.co/vp/thread/53913991/)
+[**[2]** *%green%>Continue to use most of image limit on story dialogue%%*](https://arch.b4k.co/vp/thread/53921488/)
 [**[3]** *One of the very few times Musk quitting is reasonable desu*](https://arch.b4k.co/vp/thread/53929481/)
 [**[4]** *Wagie continues this shitshow*](https://arch.b4k.co/vp/thread/53939424/)
 [**[5]** *oh no...Melia is le dead...*](https://arch.b4k.co/vp/thread/53952218/)
@@ -30,15 +30,15 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[16]** *Bewitched Woods is a fair and balanced field*](https://arch.b4k.co/vp/thread/54045319/)
 [**[17]** *Wagie and Aelita's astral projection beat the shit out of a ghost child*](https://arch.b4k.co/vp/thread/54049796/)
 [**[18]** *Time travel bullshit, surely this will end well, r-right?*](https://arch.b4k.co/vp/thread/54055015/)
-[**[19]**](https://arch.b4k.co/vp/thread/54059516/)
-[**[20]**](https://arch.b4k.co/vp/thread/54062801/)
-[**[21]**](https://arch.b4k.co/vp/thread/54067307/)
-[**[22]**](https://arch.b4k.co/vp/thread/54072949/)
-[**[23]**](https://arch.b4k.co/vp/thread/54081237/)
-[**[24]**](https://arch.b4k.co/vp/thread/54083079/)
-[**[25]**](https://arch.b4k.co/vp/thread/54086575/)
-[**[26]**](https://arch.b4k.co/vp/thread/54092082/)
-[**[27]**](https://arch.b4k.co/vp/thread/54096243/)
+[**[19]** *Wagie gets beat up by another child, and more time travel bullshit*](https://arch.b4k.co/vp/thread/54059516/)
+[**[20]** *haha multiple mega time*](https://arch.b4k.co/vp/thread/54062801/)
+[**[21]** *Moto makes Dark Crystal Cave very balanced and fun, thank you Moto. Meanwhile, in White Man's game:*](https://arch.b4k.co/vp/thread/54067307/) *https://files.catbox.moe/149bvq.mp4*
+[**[22]** *Because the retarded robotmons definitely need Pulse3 and crests*](https://arch.b4k.co/vp/thread/54072949/)
+[**[23]** *Sidequest hell, after cheesing the retarded robotmons*](https://arch.b4k.co/vp/thread/54081237/)
+[**[24]** *I hate Glitch Field*](https://arch.b4k.co/vp/thread/54083079/)
+[**[25]** *Chapter 15 hell, Angie's frozen hell, just hell tbh*](https://arch.b4k.co/vp/thread/54086575/)
+[**[26]** *Time for the School of shit that really doesn't matter*](https://arch.b4k.co/vp/thread/54092082/)
+[**[27]** *It's finally over...*](https://arch.b4k.co/vp/thread/54096243/)
 
 ###->Wagie's Desolation Nuzlocke<-
 !!! note

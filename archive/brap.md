@@ -41,7 +41,7 @@ Something very important that you should note is regarding storage. While the ma
 
 I recommend installing the NovelAI model for the purpose of doing the Asuka test and checking your Stable Diffusion install is working properly as well as modifying your settings. All of this is detailed below in the Local Installation setup.
 
-![Someone commented on this image saying "She's got the Pharoah's Curse"](https://files.catbox.moe/ljzbjj.png)
+![She's a big butt blaster!"](https://files.catbox.moe/7b4rql.png)
 
 ## Local Installation:
 
@@ -76,7 +76,7 @@ These are the most important settings you should change before starting to gener
 
 Everything else can stay default I believe, I can't be bothered to check what the actual default settings are and they always change it every update anyways.
 
-![Dat Ass](https://files.catbox.moe/bf0t1g.png)
+![Love me some sexy redheads...](https://files.catbox.moe/b47jpg.png)
 
 ## Generation:
 
@@ -178,7 +178,7 @@ This is the same as img2img except you get to highlight a specific area and the 
 
 4. As of the current version, there are a few things the LoRA can't do. Firstly, it can't do Burping. Burping will probably come in Version 2 whenever I complete it. As mentioned in the 2nd tip, the LoRA currently struggles with facefarting. My LoRA also cannot do scat. Scat is against the TOS of CivitAI. There are ways of doing Scat, as I've seen many AI generated scat images on Pixiv that look pretty good. I'm not too interested in scat, so I am not sure how to do it optimally. Maybe in time, I'll figure it out. There are some things I personally decided to omit from this LoRA. Stuff like text and onomatopoeia can easily be edited in with your editing software of choice. Belly rumbling effects were also emitted and can be edited in. If I included these things, it would've harmed the LoRA overall anyways.
 
-![Gassy Patty](https://files.catbox.moe/x87g01.png)
+![Better that she doesn't flood the pool with her gas bubbles...](https://files.catbox.moe/s8wi5m.png)
 
 ## End of the Guide:
 Thank you for reading the guide, hopefully this better educates you on how I make the stuff I make. I'm sorry for the wall of text. My intent with this is very much that if you ever got stuck, you'd CTRL+F and find exactly what it is you're struggling with and find the solution. It's also necessary because I can't spend all my time helping people, so the guide is bloated (heh) with all the necessary information I can think of.

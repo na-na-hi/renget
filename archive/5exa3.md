@@ -39,6 +39,7 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 [a5a](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5a.safetensors) | [Wildcards](https://files.catbox.moe/sizp9i.txt), [Uncounted](https://files.catbox.moe/chr7z9.txt) | [Examples](https://files.catbox.moe/5umzad.jpg), [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b) | [HLL CSV tags](https://files.catbox.moe/e6jc6i.csv) | [206 New artists](https://files.catbox.moe/12el00.txt); slightly better color
 [a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b), [~~WIP Rentry~~](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
 [a6](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a6.safetensors) | [Wildcards](https://files.catbox.moe/9pculu.txt), [Uncounted](https://files.catbox.moe/wmb59w.txt) | x | [HLL CSV tags](https://files.catbox.moe/oom7dz.csv) | [432 New artists](https://files.catbox.moe/50c5x4.txt)
+[a7-test](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a7-test.safetensors) | - | - | ⬆️ | [2 tags, 26 artists](https://files.catbox.moe/lh2y9l.txt) "not all of them actually work"
 
 
 #### What settings?

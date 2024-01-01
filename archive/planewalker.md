@@ -392,6 +392,11 @@ Joker.EXE | Info
 ![](https://files.catbox.moe/tbf4fk.png)   | Joker is a confident and smooth-talking NetNavi that resides inside your Personal Terminal. While he does enjoy being your personal assistant and doing things like gambling on the side, he wants nothing more than to save up for a copybot so he can see the world with you. Comes with four greetings, [Vidicus's](https://www.chub.ai/users/vidicus) lorebook, and [Victrex](https://www.chub.ai/users/victrex) and [Claraimouto's](https://www.chub.ai/users/claraimouto) jailbreak.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/joker-exe-5d67d8a4),  [Catbox](https://files.catbox.moe/t8kgt5.png)
 
+Rue | Info
+:----:  | :----: 
+![](https://files.catbox.moe/3xfvd8.png)   | Rupert "Rue" Young is considered an attention-seeker by his peers and a problem child by his teachers. He's addicted to social media, and is willing to do all sorts of things for the sake of having eyes on him. He doesn't seem to care about what trouble this might get him into in the future...perhaps for a reason? Comes with four greetings and retarded's twitter jailbreak.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/rue-0ae36cda),  [Catbox](https://files.catbox.moe/ut2m09.png), [Alt gens](https://catbox.moe/c/hg3d00)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

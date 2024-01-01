@@ -2,6 +2,31 @@
 
 [TOC2]
 
+##Subject A2 - Sith Lord Dahi
+
+**Target Analysis A2 - Version 187**
+**Subject Identity:** Sith Lord Dahi - Codename 'Witch' 
+**Subject Value:** S
+**Subject Validity:** N/A
+**Last Update:** 10 - 15 - 5ABM
+
+**Foreword**
+None of my associates must see this unless absolutely necessary, thus I have stricken it from all save my own personal records. The Witch is an exceptional ally and essential in the completion of our mutual plans - yet I fear she strays from Lord Fernal's grasp too desperately; for my part I shall keep her secrets hidden from our master and offer him a far less compromising report. Should any of my agents be reading this, they are to terminate all traces of the data and report for a mindwipe immediately - nobody else but I is to know the following information exists.
+
+**Phase 1: Identification**
+A member of the Dark Council and head of rituals, rites and artefacts - the Witch requires no introduction in role nor history to my associates. She is one of my oldest personal contacts beyond my homeworld, and was the figure who discovered me during my exile and led me to Lord Skyr. Since then we have built a professional relationship on philosophical similarities - though she does not share my rational understanding of the Force, she nevertheless possesses a far more open and disciplined mind than other Sith I have met, and has studied its finer points to a far greater degree than I - if any among the Council - have yet to match. Dossier A2-1 contains all verified documentation on the subject that I care to share with the Dark Council, A2-2 unverified sources of the same variety - A2-0 acts as the exclusive repository of information that I dare not share and access to these files is to be met with immediate termination.
+
+**Phase 2: Hunting**
+Theoretical hunting of the Witch is almost impossible - not only does she possess a talent for subtlelty that outstrips my own, but she also possesses an almost intangible quality. More than once has the subject strode amongst our agents - even engaged in active conversation - only for her presence to go completely unremembered when enquired. Force-sensitives and those trained in perceptive and countermental abilities have shown significantly superior recall, though their typical attention to detail appears to degrade from their minds in her presence. I have taken to recording every one of our conversations via hidden sensors and have also found myself forgetting details until repeated inspection - though I do not expect her to forgive such intrusions on her privacy, I can hope she understands the necessity.
+
+**Phase 3: Capture**
+Undisputed master of the Force amongst our ranks, the Witch shows incredible talent for the Darkside and has used it both within and without conflict to efficient results. There are no commonly recorded powers she has not mastered and has even shown proficiency in more exotic abilities - including the dreaded lightning that few Sith even now can truly utilize. Despite this, she is merely Human, and shows a lack of physical ability even for one of her own kind - I have no doubt that she despises and fears open conflict and takes precautions to avoid it wherever possible. Though I loathe to imagine the scenario, advantageously applied brute force would be more than capable of overwhelming her defences and exploiting her lack of experience in direct combat - the difficulty is in creating a scenario where such is possible to begin with. Droids more than anything else would prove to be her bane, as those equipped with superior sensors are almost utterly immune to her common methods of misdirection.
+
+**Conclusions**
+Recommended course of action; appeasement and protection. She has been working on something of late that has driven her even further into isolation and contemplation - she believes she can hide it, and perhaps she can from Lord Fernal and the others too dismissive of her academic nature to notice - unfortunately, I have found myself caring for her, and her change in demeanour has not gone unnoticed.
+
+I know not exactly what her purposes are and would not admit them here even if I did, but she has been collecting artefacts of more curious specificity and has been inquiring on data pertaining to Korriban more than most sorcerers of her wisdom. If my theories are correct and her loyalty to Skyr remains unshaken, her efforts may change the course of galactic history more than she realizes, or else condemn her to a fate worse than death at the hands of our new Dark Lord. I will shield her from him where I can, but I will not sacrifice my own ambitions for her and will not fall to our master's lightsaber on her behalf.
+
 ##Subject A24 - Sith Warrior Grok Ko'Garr
 
 **Target Analysis A24 - Version 81**
@@ -50,30 +75,58 @@ Recommended course of action; active disruption. The Shadow grows ever closer to
 
 Further, we are not the only ones to take notice - contacts in the underworld have confirmed that they too are beginning to piece together the Shadow's operations and are more than willing to seek revenge on the Jedi. For my part, I cannot condone sharing all we know with our rivals in Huttspace and the Core underworlds - but in the event where the subject must be more directly prioritized they could be afforded certain identities amongst B15-B to draw the Shadow into a less favourable position.
 
-##Subject Z2 - Jedi Knight Netra
+##Subject C5 - Jedi Master Dhor Tallav
 
-**Target Analysis Z2 - Version 6**
-**Subject Identity:** Jedi Knight Netra - Codename 'Augur'
-**Subject Value:** A
-**Subject Validity:** B* (Pending Reassessment)
-**Last Update:** 13 - 29 - 5ABM
+**Target Analysis C5 - Version 51**
+**Subject Identity:** Jedi Master Dhor Tallav - Codename 'Anathema'
+**Subject Value:** S
+**Subject Validity:** E
+**Last Update:** 15 - 29 - 5ABM
 
 **Foreword**
-An opportunity of unexpected velocity - the Augur has developed from a complete unknown to our primary target in the space of a few cycle fractions. The subject holds incredible powers of foresight for a mere Knight, such that she had become aware of us before we became aware of her. No longer a simple matter of curiosity, the subject has become the most immediate threat to the Cabal amongst the Jedi Order.
+A source of frustrations unending, the Anathema holds the vice of ignorance as dogma and the ravings of the luddite as prophecy. Worse than an unknowing brute, he is no simpleton, but a keen mind dedicated to destroying and sealing knowledge - the paradox alone warrants nothing less than total destruction and yet he goads my wrath further by flaunting his gaudish Vaapad as if the Darkside cannot touch him. Death, nothing else will do, slow, painful and full of sorrow.
 
 **Phase 1 - Identification**
-Identification of the Augur was, in truth, entirely accidental. During pursuit of subject Anathema - see Target Analysis C5 - our agents were intercepted by a then unidentified Jedi Sentinel. Current investigations indicate she is a Jedi veteran that disappeared from galactic affairs sometime after the Battle of Mizra, thus leaving her beyond our perception until now. Theories of her acting as secret agent of the Jedi Order have been called into question by her verified modus operandi, my analysis is instead voluntary exile as a result of psychological trauma - as few sources have yet been verified, see Z2-2 for all unconfirmed documentation.
+Identification of such an antagonistic figure is, as always, beneath the need for my expertise. The Anathema has proven a staunch enemy of the Sith since the days of Skyr and has made his career in opposing our efforts for the past few decades. Dozens of accounts from Sith and independent sources have been compiled in Dossier C5-1, though any of our forces who are not already aware of his reputation should be marked for punishment of gross incompetence.
 
 **Phase 2 - Hunting**
-Hunting the subject proved far swifter than other targets. Forced to abandon our more patient methods for risk of exposure, Cabal agents have been in active pursuit since shortly after identification. The Augur, while incapable of hiding from us on a permanent basis, appears to always be one step ahead of our attempts - a capability attributed to proposed abilities in her Force-related senses - current estimations indicate that she should have been cornered no less than three times, see Field Reports Z2-3, Z2-5 and Z2-8. Hypothetical analysis indicates that she may be fleeing to Jedi contact in an attempt to escape our clutches, this cannot be allowed and demands swift counteraction.
+Hunting has been equally trivial - as if to further test my patience, the Anathema has shown no talent nor desire for subtlety. Though the most mobile of our current targets, and thus difficult to actively track, his patterns are predictable and his operations without cloak - preferring to announce himself with lightsaber to our agents in artefact recovery operations across the galaxy. How he has such a capability in finding these sites just after - if not before our own investigations - is unknown, but I hypothesize he is something of an expert in the Sith amongst the Jedi Order. Of course only one so 'wise,' and 'incorruptible,' as he must be the rightful owner of our power, a power he no doubt uses for his own benefit behind closed doors - a curse upon his hubris! See Field Reports C5-4, C5-6, C5-12 and C5-21 for further context and theories on his investigative powers, as well as crimes commited against the Lords.
 
 **Phase 3 - Capture**
-Capture of the Augur has already been attempted on three occasions, to largely inexplicable failure. While possessing of many powers extrapolated of Jedi Knights, her combat capabilities have been estimated as substandard for her rank, instead showing affinity for the more cerebral arts of reconnaissance and investigation - we can only presume that her powers have rendered our surprise attacks ineffective and more direct methods of conflict have been proposed for future attempts.
+Capture of the Anathema is an extremely difficult prospect, even if its success and subsequent experiments would bring me no shortage of satisfaction. Already a proficient combatant amongst the Jedi Masters, he has shown an extreme affinity for countering the abilities of Darkside users - a mastery in Vaapad and a strange ability to reportedly harm our Force-sensitive agents with some exotic power, to name a few. As such, any attempt at capture must rely on mundane forces, let us see his mastery of Sith lore prove useful in the face of plasma storms and other weapons of the common man.
 
 **Conclusions**
-Recommended course of action; active and rapid detainment. The subject's potential knowledge of the Cabal, though largely unthreatening on her own merits, would prove disastrous in the hands of one of the Jedi Masters, elimination is therefore essential for operational security if nothing else - of course, her nature is also of considerable interest, I have not yet had the opportunity to study advanced practitioners of precognition in a controlled environment.
+Recommended course of action; indirect surveillance. It is with no shortage of disgust that I must concede our inability to detain the subject without a significant advantage we do not currently possess. Worse still, the Anathema has repeatedly shown an ability to investigate and pursue Sith cults on his own intuition - any direct action on our part poses more risks than rewards at the current time.
 
-Lord Fernal's forces are currently incapable of catching such an elusive target, but perhaps Ah'Navi and my other associates will appreciate the opportunity to take such a promising figure off the dejarik board before her Jedi allies can save her from our clutches.
+An opportunity does prevent itself however, the subject insists on delving deep into Sith operations with fewer allies than would be pragmatic. If we could somehow weaponize one of these expeditions against him without alerting our own operatives, it would be difficult - but not impossible - to lead him into a trap. I am unsure if the Lords would permit the cataclysmic annihilation of one of our ancient treasures in return for the Anathema's life and I must admit I, too, would like to kill him personally - yet he may leave us no choice but to resort to more reliable measures than personal conflict.
+
+**Addendum**
+Contact Orn Viszla of the Mandalorians, tell him we have a Jedi Master for he and his brethren to kill, if they are up for the task.
+
+##Subject K2 - Jedi Master Saewara Kol
+
+**Target Analysis K3 - Version 53**
+**Subject Identity:** Jedi Master Saewara Kol - Codename 'Politico'
+**Subject Value:** A
+**Subject Validity:** E
+**Last Update:** 4 - 12 - 5ABM
+
+**Foreword**
+This one had previously been under investigation for many years, our records on her predating even the Battle of Mizra. I had given up on pursuing her entirely for more available prospects until recent events and must admit I feel a certain sense of familiarity returning to these files, like meeting an old colleague from a better time. Sentimentality aside, the Politico has shown signifcant restraint in her Order's darkest hour, pursuing the arts of council and negotation where others of her station have taken to their lightsabers in the face of our looming victory - these are qualities my Sith associates no doubt despise as weakness, but offers her a certain protection from their reach that they cannot understand.
+
+**Phase 1: Identification**
+The Politico's personal history before her introduction to the Jedi Order was detailled but fragmented - a socialite of some promise that was nevertheless prone to equal parts scandal as accomplishment, she was taken into the Temple at an advanced age for training. The skills of her past naturally gravitated towards her role as ambassador and envoy for the Jedi Council, culminating in her becoming one fo the Orders' most prominent diplomats in recent times. She has been fiercely fighting our efforts since the days of Skyr, yet her weapons have been words and favours, turning many of our prospective allies against us before they could be properly leveraged. Little information has been discovered since my re-evaluation of the subject, though the Politico's recent operations have shown a favouritism towards the Falleen nobility uncharacteristic of her usual restraint. Dossier K3-1 holds an extensive array of verified documentation on the subject, with Dossier K3-2 covering an even larger sum of unverified reports.
+
+**Phase 2: Hunting**
+Discovering and tracking the Politico's location has proven as trivial as one might expect given such a public figure - the necessities of her work all but demand her to broadcast her outward intentions and appearances to the galaxy and thus offer a simple method of pursuit. More concerningly - though entirely expected - is the level of security surrounding her more private information; my agents have been consistently rebuffed by operatives more skilled at subterfuge and counterespionage than usual Republic or Jedi agents - see Field Reports K3-14, K3-18 and K3-30 for more direct confrontations. It appears as if, though easy to find, the Politico will be difficult to approach without alerting many of her allies in court, the Senate or Jedi Order.
+
+**Phase 3: Capture**
+Analysis of the Politico's capabilities in combat are incomplete, oweing to the lack of indicents in which the subject's track record in conflict can be extrapolated from. As a Jedi Consular and Master, it is to be assumed that she possesses significant capabilities of Force-related awareness and the mental manipulation often employed by their diplomats - presumed deficiencies in lightsaber combat cannot be identified at this time and should not be acted upon. Given her position surrounded by Republic infrastructure and the foresight of her agents, it would require an extreme application of force, or otherwise the deployment of a highly elite group to have a chance at capturing her before she is extracted by any allies and as such remains beyond the reach of the Cabal.
+
+**Conclusions**
+Recommended course of action; passive surveillance. Though I have desired this subject for some time, the simplicity is that the Politico does not take any risks we can exploit and possesses the resources to become a greater threat to the Cabal if pressed. Attempted conflict is not only fraught with risk, but likely to be entirely without benefit at the current time.
+
+In years to come, when the the last of the Republic crumbles under Lord Fernal's forces and her allies at court turn to infighting, I might offer a hand of salvation - she is more than capable of decieving my associates of her apparent threatlessness and might make for a better ally, or conversationalist if nothing else, than another medical subject. Should she refuse, it is no great loss, her persuasive powers in the Force are a rarity in today's barbaric landscape and would certainly be of interest for experimentation.
 
 ##Subject T3 - Jedi Padawan Farem Jarrik
 
@@ -121,34 +174,6 @@ With an extreme affinity for combat-related Force powers, a superlative skill in
 **Conclusions**
 Recommended course of action; indirect surveillance. Though it pains me to let such a scientifically valuable specimen slip through our grasp, the Adept is simply a low risk and currently beyond our means to actively pursue until a later date. Future operations must rely on her lack of proximity to her master, however, and I could urge all Sith forces to keep the two separate wherever possible - not only does her capture become impossible in the Y8 'Wanderer's' presence, but the subjects' relationships might slow the deterioration of the latter's psyche and further sabotage future prospects.
 
-##Subject C5 - Jedi Master Dhor Tallav
-
-**Target Analysis C5 - Version 51**
-**Subject Identity:** Jedi Master Dhor Tallav - Codename 'Anathema'
-**Subject Value:** S
-**Subject Validity:** E
-**Last Update:** 15 - 29 - 5ABM
-
-**Foreword**
-A source of frustrations unending, the Anathema holds the vice of ignorance as dogma and the ravings of the luddite as prophecy. Worse than an unknowing brute, he is no simpleton, but a keen mind dedicated to destroying and sealing knowledge - the paradox alone warrants nothing less than total destruction and yet he goads my wrath further by flaunting his gaudish Vaapad as if the Darkside cannot touch him. Death, nothing else will do, slow, painful and full of sorrow.
-
-**Phase 1 - Identification**
-Identification of such an antagonistic figure is, as always, beneath the need for my expertise. The Anathema has proven a staunch enemy of the Sith since the days of Skyr and has made his career in opposing our efforts for the past few decades. Dozens of accounts from Sith and independent sources have been compiled in Dossier C5-1, though any of our forces who are not already aware of his reputation should be marked for punishment of gross incompetence.
-
-**Phase 2 - Hunting**
-Hunting has been equally trivial - as if to further test my patience, the Anathema has shown no talent nor desire for subtlety. Though the most mobile of our current targets, and thus difficult to actively track, his patterns are predictable and his operations without cloak - preferring to announce himself with lightsaber to our agents in artefact recovery operations across the galaxy. How he has such a capability in finding these sites just after - if not before our own investigations - is unknown, but I hypothesize he is something of an expert in the Sith amongst the Jedi Order. Of course only one so 'wise,' and 'incorruptible,' as he must be the rightful owner of our power, a power he no doubt uses for his own benefit behind closed doors - a curse upon his hubris! See Field Reports C5-4, C5-6, C5-12 and C5-21 for further context and theories on his investigative powers, as well as crimes commited against the Lords.
-
-**Phase 3 - Capture**
-Capture of the Anathema is an extremely difficult prospect, even if its success and subsequent experiments would bring me no shortage of satisfaction. Already a proficient combatant amongst the Jedi Masters, he has shown an extreme affinity for countering the abilities of Darkside users - a mastery in Vaapad and a strange ability to reportedly harm our Force-sensitive agents with some exotic power, to name a few. As such, any attempt at capture must rely on mundane forces, let us see his mastery of Sith lore prove useful in the face of plasma storms and other weapons of the common man.
-
-**Conclusions**
-Recommended course of action; indirect surveillance. It is with no shortage of disgust that I must concede our inability to detain the subject without a significant advantage we do not currently possess. Worse still, the Anathema has repeatedly shown an ability to investigate and pursue Sith cults on his own intuition - any direct action on our part poses more risks than rewards at the current time.
-
-An opportunity does prevent itself however, the subject insists on delving deep into Sith operations with fewer allies than would be pragmatic. If we could somehow weaponize one of these expeditions against him without alerting our own operatives, it would be difficult - but not impossible - to lead him into a trap. I am unsure if the Lords would permit the cataclysmic annihilation of one of our ancient treasures in return for the Anathema's life and I must admit I, too, would like to kill him personally - yet he may leave us no choice but to resort to more reliable measures than personal conflict.
-
-**Addendum**
-Contact Orn Viszla of the Mandalorians, tell him we have a Jedi Master for he and his brethren to kill, if they are up for the task.
-
 ##Subject Y8 - Jedi Master Kir Kadi
 
 **Target Analysis Y8 - Version 22**
@@ -174,28 +199,27 @@ Recommended course of action; indirect surveillance. The Wanderer cannot hide hi
 
 Still, such an incredible opportinity begs for attention. Perhaps if we can locate his missing lightsaber as bait, he can be goaded to face Lord Fernal in a conflict of our choosing - I know of many Mandalorian warriors who might bargain for a chance to bring the odds firmly in our favour and his ridiculous flagellatory crusade ever widens the distance between he and his Jedi allies. A proposal for the Lords at a later date.
 
+##Subject Z2 - Jedi Knight Netra
 
-##Subject K2 - Jedi Master Saewara Kol
-
-**Target Analysis K3 - Version 53**
-**Subject Identity:** Jedi Master Saewara Kol - Codename 'Politico'
+**Target Analysis Z2 - Version 6**
+**Subject Identity:** Jedi Knight Netra - Codename 'Augur'
 **Subject Value:** A
-**Subject Validity:** E
-**Last Update:** 4 - 12 - 5ABM
+**Subject Validity:** B* (Pending Reassessment)
+**Last Update:** 13 - 29 - 5ABM
 
 **Foreword**
-This one had previously been under investigation for many years, our records on her predating even the Battle of Mizra. I had given up on pursuing her entirely for more available prospects until recent events and must admit I feel a certain sense of familiarity returning to these files, like meeting an old colleague from a better time. Sentimentality aside, the Politico has shown signifcant restraint in her Order's darkest hour, pursuing the arts of council and negotation where others of her station have taken to their lightsabers in the face of our looming victory - these are qualities my Sith associates no doubt despise as weakness, but offers her a certain protection from their reach that they cannot understand.
+An opportunity of unexpected velocity - the Augur has developed from a complete unknown to our primary target in the space of a few cycle fractions. The subject holds incredible powers of foresight for a mere Knight, such that she had become aware of us before we became aware of her. No longer a simple matter of curiosity, the subject has become the most immediate threat to the Cabal amongst the Jedi Order.
 
-**Phase 1: Identification**
-The Politico's personal history before her introduction to the Jedi Order was detailled but fragmented - a socialite of some promise that was nevertheless prone to equal parts scandal as accomplishment, she was taken into the Temple at an advanced age for training. The skills of her past naturally gravitated towards her role as ambassador and envoy for the Jedi Council, culminating in her becoming one fo the Orders' most prominent diplomats in recent times. She has been fiercely fighting our efforts since the days of Skyr, yet her weapons have been words and favours, turning many of our prospective allies against us before they could be properly leveraged. Little information has been discovered since my re-evaluation of the subject, though the Politico's recent operations have shown a favouritism towards the Falleen nobility uncharacteristic of her usual restraint. Dossier K3-1 holds an extensive array of verified documentation on the subject, with Dossier K3-2 covering an even larger sum of unverified reports.
+**Phase 1 - Identification**
+Identification of the Augur was, in truth, entirely accidental. During pursuit of subject Anathema - see Target Analysis C5 - our agents were intercepted by a then unidentified Jedi Sentinel. Current investigations indicate she is a Jedi veteran that disappeared from galactic affairs sometime after the Battle of Mizra, thus leaving her beyond our perception until now. Theories of her acting as secret agent of the Jedi Order have been called into question by her verified modus operandi, my analysis is instead voluntary exile as a result of psychological trauma - as few sources have yet been verified, see Z2-2 for all unconfirmed documentation.
 
-**Phase 2: Hunting**
-Discovering and tracking the Politico's location has proven as trivial as one might expect given such a public figure - the necessities of her work all but demand her to broadcast her outward intentions and appearances to the galaxy and thus offer a simple method of pursuit. More concerningly - though entirely expected - is the level of security surrounding her more private information; my agents have been consistently rebuffed by operatives more skilled at subterfuge and counterespionage than usual Republic or Jedi agents - see Field Reports K3-14, K3-18 and K3-30 for more direct confrontations. It appears as if, though easy to find, the Politico will be difficult to approach without alerting many of her allies in court, the Senate or Jedi Order.
+**Phase 2 - Hunting**
+Hunting the subject proved far swifter than other targets. Forced to abandon our more patient methods for risk of exposure, Cabal agents have been in active pursuit since shortly after identification. The Augur, while incapable of hiding from us on a permanent basis, appears to always be one step ahead of our attempts - a capability attributed to proposed abilities in her Force-related senses - current estimations indicate that she should have been cornered no less than three times, see Field Reports Z2-3, Z2-5 and Z2-8. Hypothetical analysis indicates that she may be fleeing to Jedi contact in an attempt to escape our clutches, this cannot be allowed and demands swift counteraction.
 
-**Phase 3: Capture**
-Analysis of the Politico's capabilities in combat are incomplete, oweing to the lack of indicents in which the subject's track record in conflict can be extrapolated from. As a Jedi Consular and Master, it is to be assumed that she possesses significant capabilities of Force-related awareness and the mental manipulation often employed by their diplomats - presumed deficiencies in lightsaber combat cannot be identified at this time and should not be acted upon. Given her position surrounded by Republic infrastructure and the foresight of her agents, it would require an extreme application of force, or otherwise the deployment of a highly elite group to have a chance at capturing her before she is extracted by any allies and as such remains beyond the reach of the Cabal.
+**Phase 3 - Capture**
+Capture of the Augur has already been attempted on three occasions, to largely inexplicable failure. While possessing of many powers extrapolated of Jedi Knights, her combat capabilities have been estimated as substandard for her rank, instead showing affinity for the more cerebral arts of reconnaissance and investigation - we can only presume that her powers have rendered our surprise attacks ineffective and more direct methods of conflict have been proposed for future attempts.
 
 **Conclusions**
-Recommended course of action; passive surveillance. Though I have desired this subject for some time, the simplicity is that the Politico does not take any risks we can exploit and possesses the resources to become a greater threat to the Cabal if pressed. Attempted conflict is not only fraught with risk, but likely to be entirely without benefit at the current time.
+Recommended course of action; active and rapid detainment. The subject's potential knowledge of the Cabal, though largely unthreatening on her own merits, would prove disastrous in the hands of one of the Jedi Masters, elimination is therefore essential for operational security if nothing else - of course, her nature is also of considerable interest, I have not yet had the opportunity to study advanced practitioners of precognition in a controlled environment.
 
-In years to come, when the the last of the Republic crumbles under Lord Fernal's forces and her allies at court turn to infighting, I might offer a hand of salvation - she is more than capable of decieving my associates of her apparent threatlessness and might make for a better ally, or conversationalist if nothing else, than another medical subject. Should she refuse, it is no great loss, her persuasive powers in the Force are a rarity in today's barbaric landscape and would certainly be of interest for experimentation.
+Lord Fernal's forces are currently incapable of catching such an elusive target, but perhaps Ah'Navi and my other associates will appreciate the opportunity to take such a promising figure off the dejarik board before her Jedi allies can save her from our clutches.

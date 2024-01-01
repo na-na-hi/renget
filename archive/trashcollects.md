@@ -2684,6 +2684,9 @@ LORA itself: https://files.catbox.moe/a9xyq0.safetensors
 >Oh! And don’t forget to check the Lora’s metadata for training captions. There weren’t many, but there are a couple like “kangaroo” and “marsupial” that are worth pasting into the gen prompt.
 https://files.catbox.moe/h6m44t.safetensors
 
+# Wilykit (ThunderCats)
+Test Version: https://ufile.io/11flz4ox
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

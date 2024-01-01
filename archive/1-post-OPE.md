@@ -5,7 +5,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 210th time, what is Ope?!
+For the 211th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,9 +14,9 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 ~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
 
 \>Streams
-Upcoming streams
-Mon 01/01 8PM CT, own channel: New Year outfit reveal 
-Mon 01/01 9PM CT, FWMC channel: New Year outfits Advent collab
+Likely upcoming streams
+Tue 01/02 2:30PM CT, Koyori's channel: Koyori VS Advent collab
+Tue 01/02 8PM CT, own channel: Lethal Company Advent collab
 Last stream (Welcoming 2024 with Nerissa)
 https://www.youtube.com/watch?v=GjMUUcBtw38
 Previous appearance (Kiara's channel: Advent Outfit Design collab with Kiara, Ina & Shiori)

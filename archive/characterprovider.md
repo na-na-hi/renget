@@ -54,19 +54,24 @@ The worst part is that it can't generate descriptions that are only facts; 4urbo
 
 Either it's some dumbass manager decided that these answers are better because they are "fuller", or a scam so customers will pay for twice bigger respones than needed.
 
+We just need a sotytelling AI, not an assistant...
+
 Q1: Why not lower the word limit? The less it can write, the more direct it will become.
 A1: Claude in the same chat writes 170 words and moves the plot forward without embelishments. Let's say I pissed off Azula and about to get a punishment. On Claude, in 170 words, You will get a reaction from other guards, led to the training chambers, met Ty Lee doing gymnastycs, presented with her personality via a playful dialog between the two and set into a position for a training fight. On GPT you will get, in 170 words, a description of Azula's intimidating presence, the fact that her orders are supreme, description of her bobbing bun as she walks and echoing sounds of her boots in the corridor. The reply will end with you only walking up to a door and something like "Let the game begin!" and the door just... openning. GPT is fixated on details, not action.
+
+Q2: It misunderstands the 'Show, don't tell' rule. Try explaining it in another way. The Kobbo guidelines can be simplier too.
+A2: I will check this. Thanks for the help with the Guidelines.
 
 >![](https://2ch.hk/ai/src/584479/17038633017510.gif) 
 >*4urbo telling you how the character's laughter bursts out with a loud ringing sound, filling the room and space with an atmosphere of friendliness and happiness, and the rhythm of giggles coincides with the tapping of drops against the window, and you're already thinking what a great time you're having with the character and how many adventures you still have to go through with them instead of just showing you the character's laughter with "Hahaha" and moving the scene/plot forward.*
 
-**• Searching for solutions:** If you know how to change GPT style to be less fluffy and flowery, and more on-point with variable paragraph sizes, please DM me. Also Idon't have professional writing skills, so if you find a way how to explain LLM to approach the story in a more interesting way, please, DM me too!
+**• Searching for solutions:** If you know how to change GPT style to be less fluffy and flowery, and more on-point with variable paragraph sizes, please DM me. Also Idon't have professional writing skills, so if you find a way how to explain LLM to approach the story in a more interesting way, please, DM me too! I don't read 4chan or post anything there. If you have fixes and post them on your rentry, I will post your rentry here.
 
 ##### Latest Updates
 Subject | Version | Description | Date
  | | |
 **Custom CSS Update** | %orange%2.0 %% | Message blocks and darker theme added. | 25.12.2023
-**Latest Experimental Prompt** | %orange%Kobbo V1 (Discarded)%%  | Tried to create a system, but decided to break it into smaller projects after testing. I will finish it only if I find a solution to changeGPT writing drasticly. ([Secret link](CharacterProvider-KobboV1)) | 28.12.2023
+**Latest Experimental Prompt** | %orange%Kobbo V1 (Discarded)%%  | Tried to create a system, but decided to break it into smaller projects after testing. I will finish it only if I find a solution to changeGPT writing drasticly. ([Secret link](CharacterProvider-KobboV1) I do not recommend using it) | 28.12.2023
 **Latest Stable Prompt** | %orange% GPT: GPT-AP-3 / Claude: V12/V10.1%% | Descriptions are provided in the specified section. | 01.10.2023 / 02.09.2023
 **Latest Utility Prompt** | %orange% CYOA, Info Block, and Stop Sequences%% | Simple prompts that will help you to RP. | 28.12.2023
 **Quick Replies Update** | %orange% 2.0 (WIP)%% | Now incudes 20+ actions. | 29.12.2023
@@ -192,6 +197,7 @@ Page | Description
 [CrustCrunch](https://rentry.org/crustcrunchGPT) | GPT-4 prompts
 [DumbOne](https://dumb.one/gpt/) | GPT-4 prompts
 [XMLS](https://rentry.co/ExpXMLProompts) | GPT-4 experiments
+[AnonaugusProductions](https://rentry.org/anonaugusproductionsCustomJB) | GPT-4 Turbo prompts
 
 #
 - - -
@@ -476,9 +482,12 @@ Each time you press either a "Swipe" or "Regenerate", it just sends an identical
 I even asked the devs about it and they said - there is no difference at all.
 
 If all your swipes are the same - it's either your LLM settings (low temperature, low TopP/TopK) or it's the result of an "Example Chat" built in in your card.
-
+#####
 **Q21: "I've updated ST, and Claude sends an empty 'Human:' in the beginning (Can be seen in CMD)."**
 A21: It's not a problem. Claude won't work without it because API needs the prompt (your whole conversation) to start with "\n\nHuman:" at the beginning. If you delete it from the ST code, you'll get an API error.
+#####
+**Q22: "Why Claude does return an empty message? Is it the filter!?"**
+A22: It's not a filter, Claude thinks that it already gave you an answer and finishes its response. Try shorter prefill that leaves Claude no chance then to continue. Try adding a hanging space at the end and deleting any [parenthesis] from the prefill. 
 
 !!! danger
 	**PERSONA DESCRIPTION VANISHED AFTER UPDATING TO ST 10+ VERSION?**
