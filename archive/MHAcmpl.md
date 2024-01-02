@@ -701,6 +701,7 @@ Aspara: https://archive.4plebs.org/tg/post/89401642
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
 Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
+Sandatsu Art: https://desuarchive.org/tg/post/91405875/
 ***
 
 ## WRITEFAGS

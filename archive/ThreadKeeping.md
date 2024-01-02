@@ -66,11 +66,15 @@ Vaas Surgaav
 Sabrassk
 >>91360321
 Saewara Kol
->>91378465
+>>91398869
 Kon Talkyl
 >>91389076
 Quo'in Iyad
 >>91392261
+Gobar Ceel
+>>91395558
+Siemis Varr
+>>91397435
 
 >Sith
 Lord Devan Fernal
@@ -111,6 +115,8 @@ Jahoonda the Hutt
 >>91360451
 Larbo Grudd
 >>91360428
+Cree'v'aak
+>>91399465
 ```
 
 ***
@@ -288,11 +294,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefags:
->MHA 1.9999: Prose Edition
-https://rentry.org/y9rfp
->The Other Side - A (108 Gang, Cameo of Orochi)
-https://rentry.org/6uvv5
+Sandatsu Art:
+>>91405875
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 archive.4plebs.org/tg/thread/90806343/

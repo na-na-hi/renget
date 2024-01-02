@@ -2687,6 +2687,9 @@ https://files.catbox.moe/h6m44t.safetensors
 # Wilykit (ThunderCats)
 Test Version: https://ufile.io/11flz4ox
 
+# Wolf O'Donnell (Star Fox)
+Test Version: https://ufile.io/r31vms2f
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

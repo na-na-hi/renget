@@ -323,5 +323,4 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - December 27th - https://pastebin.com/jbaFRu2P
-*(PWAnon, gratz on the new kitten! ≽^•⩊•^≼)*
+Cut'n'paste for PWChefAnon and other thread bakers - January 2nd - https://pastebin.com/jkC0Z8FX

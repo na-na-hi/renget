@@ -41,22 +41,27 @@ During the first 1-2 weeks of a new expansion tier lists tend to be wildly inacc
 
 ## Useful Search Terms
 
-These terms may be useful for finding Japanese-language posts on Twitter or other resources. Note that in Japanese, the classes have fairly generic names (e.g. Runecraft is simply called "witch") so you'll probably also find many unrelated posts when simply searching for class names.
+These terms may be useful for finding Japanese-language posts on Twitter or other resources. Note that in Japanese, the classes have fairly generic names (e.g. Runecraft is simply called "witch") so you'll probably also find many unrelated posts when simply searching for class names. Terms in parentheses are abbreviations which are generally more common on Twitter.
 
-- シャドウバース / シャドバ - Shadowverse
-- ローテーション / ローテ - Rotation
-- アンリミテッド / アンリミ - Unlimited
-- ロイヤル - Swordcraft (Royal)
-- ネクロマンサー / ネクロ - Shadowcraft (Necromancer)
-- エルフ - Forestcraft (Elf)
-- ネメシス - Portalcraft (Nemesis)
-- ドラゴン - Dragoncraft (Dragon)
-- ウィッチ - Runecraft (Witch)
-- ビショップ - Havencraft (Bishop)
-- ヴァンパイア / ヴァンプ - Bloodcraft (Vampire)
-- 連勝 - Win streak
-- グランドマスター / グラマス - Grand Master / GM
-- デッキ - Deck
+| Term | Meaning |
+| - | - |
+| シャドウバース （シャドバ）|  Shadowverse |
+| ローテーション （ローテ）| Rotation |
+|アンリミテッド （アンリミ）|  Unlimited |
+| マイローテーション （マイローテ）| Custom Rotation |
+| クロスオーバー | Cross Craft |
+| ロイヤル | Swordcraft (Royal) |
+| ネクロマンサー （ネクロ） | Shadowcraft (Necromancer) |
+| エルフ | Forestcraft (Elf) |
+| ネメシス  | Portalcraft (Nemesis) |
+| ドラゴン | Dragoncraft (Dragon) |
+| ウィッチ | Runecraft (Witch) |
+| ビショップ | Havencraft (Bishop) |
+| ヴァンパイア （ヴァンプ）|  Bloodcraft (Vampire) |
+| 連勝 | Win streak |
+| グランドマスター（グラマス）| Grand Master / GM |
+| デッキ |  Deck |
+
 
 ## FAQs
 

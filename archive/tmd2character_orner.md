@@ -46,7 +46,7 @@ Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 2 points to spend.
+    You have 14 IQ points to spend.
     6/10 IP | ▮▮▮▮▮▮▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -74,7 +74,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
 *Equipped Item: Pecha Berry | Heals Poison status.
-1. Shadow Gummi | Ghost Types like these.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -83,7 +83,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Dragon Gem | Powers up Dragon Type moves, once.
-2. Used TM81
+2. Used TM81 | It no longer teaches the move Fire Fang.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description
