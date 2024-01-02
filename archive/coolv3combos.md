@@ -1,8 +1,9 @@
 # Some Cool Artist Combos for NAI Diffusion Anime v3
--> All of these are done with artists added directly at the beginning of the prompt. I try to find interesting mixes that have a consistency.
+All of these are done with artists added directly at the beginning of the prompt. I try to find interesting mixes that have a consistency.
 I tend to stick to default %grey%Prompt Guidance (5)%% and %grey%Euler%% with no %grey%SMEA%%, so your results may vary depending on what you're used to using.
-I also tend to stick to a modified light UC: %grey%lowres, jpeg artifacts, bad quality, worst quality, watermark, blurry, very displeasing%%
-Repeat artist names are usually ones I think work well as mixers; try them with your own favorite styles!<-
+I also do not use the quality tags button; I do *sometimes* add %grey%, best quality, amazing quality%% to the end of the prompt though, depending on style or subject.
+I also also tend to stick to a modified light UC: %grey%lowres, jpeg artifacts, bad quality, worst quality, watermark, blurry, very displeasing%%
+Repeat artist names are usually ones I think work well as mixers; try them with your own favorite styles!
 ###### -> You can copy the artist's names to clipboard by hovering over the line and clicking the tiny button on the far right! <-
 ***
 
@@ -137,3 +138,10 @@ artist:hungry clicker, artist:bluethebone, artist:goto-p,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/dhprhi.png) | ![](https://files.catbox.moe/iq9vxv.png) | ![](https://files.catbox.moe/365ngn.png) | ![](https://files.catbox.moe/1lyuh5.png)
+
+``` html
+artist:gomennasai, artist:hero neisan, artist:stanley lau, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/kpc9pk.png) | ![](https://files.catbox.moe/aeozcx.png) | ![](https://files.catbox.moe/96sy14.png) | ![](https://files.catbox.moe/t2gqs2.png)

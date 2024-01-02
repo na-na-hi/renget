@@ -2,6 +2,17 @@
 
 [TOC2]
 
+## FAQs
+
+>{feature} isn't working!
+Put the statement early in the prompt, put it in scare quotes, find redundant ways to state it throughout the prompt. If necessary you may have to change the style/artist to one with more precedent for the feature.
+
+>It only does portraits, not full body!
+Describe the footwear in detail, describe the floor/ground around them, describe their surroundings in a way that forces it to zoom out, describe actions, like walking, that want to show the legs/feet. In general prioritize the surroundings primarily and the subject secondarily.
+
+>{artist} isn't working!
+In general, artists have to have a certain high volume on the internet to affect the robot. There also seems to be a bias against living artists, probably to avoid lawsuits. Start with the simplest prompt possible to make sure you're not contradicting the artist's style with other prompts. Please point out artists that work well so they can be added to the artists section.
+
 ## Fantasy Styles
 >1980s high fantasy gouache painting by brothers Hildebrandt
 >1970s fantasy art, oil painting

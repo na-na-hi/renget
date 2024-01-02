@@ -959,3 +959,492 @@
 >he needed to set you down though
 >"no funny business."
 >you tried bolting the second he set you down and he grabbed your collar
+
+>the CIA couldn't torture you for that information 
+>you knew, just knew, that Roxanne would use the knowledge 
+>you'd be handing him the gun that would be pointed at your head
+>so no, you weren't explaining sex to him
+>true to his word he attempted to hang you up in the tree with the utmost care
+>but that threat was empty when he realized it wouldn't work
+>so he resorted to a plan B which amounted to rubbing you in the bristles of the tree while demanding the answer
+>he was like a really ineffective Batman
+>”come on,” he whined
+>it was funny to see this side of Roxanne with the cool front he usually put up
+>you tried not laughing, not knowing if that would hurt or improve your odds here
+>but the urge to laugh at him frantically just trying to figure out how two guys fuck while you're lodged in a Christmas tree was too much
+>he heard you laughing and immediately you realized that was a mistake 
+>he brought you down and glared
+>”so the tree didn't work, huh.”
+>of course having you French a plastic pine tree didn't work
+>Roxanne was stumped, but too stubborn and frustrated to show it
+>he didn't want to actually rough you up
+>and you knew it
+>then a toothy grin flashed on his face
+>that was not a smile to be trusted
+>he gently set your boots on the ground
+>you had no idea what he was cooking up but it was wicked
+>maybe if you explained to him about naughty and nice
+>it was the season
+>he wasn't letting go though
+>in fact he was pushing you backwards towards the floor
+>”so, I was thinking…”
+>that pearly white grin flashed bigger
+>”I've been holding you in the opposite direction.”
+>you tried squirming as he placed you gently upon the carpet of the Santa display
+>he moved to plant a foot on your chest and you felt like a bug right now
+>at least he wouldn't hurt you 
+>he'd resort to playground bullying techniques but actually harming you was out of the question
+>he was far, far too gentle for that
+>trying to get a hand hold on the floor while his foot pinned you was difficult 
+>his interrogation techniques weren't going to work
+>he narrowed his eyes and stared into yours
+>then pointed a finger down at you as he stood above you
+>”I swear if I have to sit on you I'll do it”
+>he didn't press his foot down, satisfied he'd won
+>you hated to admit defeat but he was going to be stubborn
+>you asked him if he'd keep this secret
+>he pouted, hands on his hips
+>this could get you fired
+>did he want you to get fired?
+>he softened up at that
+>that was his weakness
+>you didn't press on it too much but times were dire
+>if things escalated you'd never be able to come to the mall again
+>when you pointed that out he quit his bullying
+>why did he even want to know?
+>he released his foot
+>”is it so bad I like you?”
+>well he couldn't have made it more obvious
+>you knew he liked you 
+>but you hoped maybe he'd grow out of it
+>that didn't seem like the case
+>he let off your chest and picked you up by the collar
+>he allowed you space
+>he seriously liked you?
+>”duh”
+>he put you in a headlock and rustled your hair
+>”of course I like you dummy”
+>he quickly released you
+>”so how do we do it?”
+>there was no getting out of this
+>he'd keep pestering and in an endless cycle if you kept blowing it off
+>so fine
+>you gestured him to lean in
+>why you felt the need to whisper it you didn't know
+>perhaps the whole thing felt taboo enough to warrant it
+>he thankfully complied with no argument
+>you gave him all the information and he listened intently, his ear occasionally flicking as you talked
+>he'd nod and once in a while gasp
+>it wasn't a long explanation 
+>it didn't really need to be
+>you expected him to immediately try for it
+>instead he wrapped an arm over your shoulder
+>”now why did you think I'd tell everyone about that?”
+>he kept super close to your face
+>you were just worried about your job
+>”you really think I'm giving up the chance to do a couple of those things in a bathroom stall by talking?”
+>he poked up chest with one claw
+>”no no, you just found yourself a new job. my roadie”
+>he swept his hand through the air
+>you didn't know if he legit got the terms confused or he was just screwing with you
+>both were possible
+>he really wouldn't spill the beans on this?
+>”of course”
+>he patted your chest
+>”I told you you weren't replaceable, didn't I?”
+>he released you and the peck he gave your head was shockingly tender
+>again, you really were the only one who got to see this side to Roxanne
+>he never even made himself this vulnerable around his kid audience
+>just to you
+>why you?
+>you had to ask that
+>why was he like this with you?
+>”you're my favorite.”
+>favorite?
+>he realized something then stepped back to wiggle out of the dress
+>you protested and he told you to calm down
+>”I'm not going to jump you…yet”
+>the dress was discarded onto the stage and he stretched 
+>arching his back, arms above his head
+>a dramatic full body stretch that caught your eye until you realized he had been watching
+>his eyes glancing towards you while you thought he was facing away from you
+>that was testing the waters 
+>”hah caught you”
+>his smile returned
+>maybe this wouldn't be so bad
+>you allowed yourself to relax
+>perhaps
+>this job wasn't too bad
+>that night ended up being uneventful 
+>Roxy was as good as his word and didn't push
+>he was already practically glued to your hip 
+>it was just like normal
+>just with that weight hanging on your shoulders now
+>he kissed you 
+>you liked it
+>explained how to do more
+>you'd handed him the noose to hang yourself with
+>but he didn't seem to want to weaponize it
+>you hadn't had an active love life
+>maybe he thought you two were an item now
+>maybe you were
+>you didn't know
+>but at least he wouldn't brag
+>this might be an issue later 
+>but maybe you should embrace it a little
+>not like you were getting much action 
+>you still didn't get what he saw in you but oh well
+>best to roll with it 
+>maybe it really was a bonus
+>Christmas came and went and he was friendly as could be in private 
+>true to his word he maintained a level of professionalism during work hours though
+>off hours he had begun just outright treating you like a plush teddy bear
+>you started to see him as more attractive the more friendly he'd become
+>perhaps it was some strange form of Stockholm syndrome 
+>maybe you were becoming prison gay for a robot
+>he wasn't attempting at seduction
+>you'd just find yourself lingering on his hips occasionally
+>he did start looking a bit more womanly in your eyes
+>you didn't consider yourself into guys
+>but did Roxanne count?
+>him kissing you was a turn on 
+>you were dealing with feelings and you had no idea how to approach this
+>you dwelled on it
+>your life was the job 
+>but maybe you could have both
+>Roxanne was pleasant to be around
+>so maybe it wasn't so bad
+>one night you decided to try it
+>it couldn't hurt could it?
+>maybe 
+>well you decided to push your luck a little 
+>everyone had cleared out as usual and it was just you two 
+>the usual resting time you decided to push a little
+>you pat your leg for him to lay on you for a change
+>he wagged his tail but tried hard to play it cool
+>that night he rested in your lap and you allowed yourself to relax
+>amazingly, you didn't lose your job
+>you probably shouldn't encourage him
+>but you were starting to enjoy the idea
+>sure it wasn't conventional 
+>but he was pleasant enough company and it made work easier
+>you just ended up doing all your regular shift stuff
+>just with a different level of intimacy between you and Roxanne 
+>you already had considered him more than just a stage robot
+>you still were confused at the infatuation but in a way you sort of got it
+>you were a link to the outside world and you were friendly with him off hours
+>maybe he was prison gay for you
+>the surprising thing was he didn't push more for sex
+>he was content with hugs and the occasional kiss
+>you'd worried you'd created a future sex crazed monster yet he was just happy for intimacy 
+>falling asleep on top of you became a new variant on your night shifts
+>multiple times you were just pulled into a bear hug and learned to sleep like that
+>no one suspected anything 
+>and you were relieved by that
+>Roxanne understood the risk of getting caught and contented himself with snuggling up to you while everyone was gone
+>work settled into a nice monotony again, just with a bonus
+>you were definitely finding him more attractive now
+>he knew it
+>but it was harder not to notice now
+>he really was girly
+>despite the height he just had a sort of softness 
+>you would occasionally wonder just what those hidden part could do
+>would you be the one to push things into sex?
+>a thought had come to you 
+>maybe he was wanting you to make the first move
+>it was true he was more passive than a giant robot normally would 
+>he was peculiar 
+>you hoped he was a sub
+>otherwise your pelvis was as risk
+>he seemed like it
+>hard to tell with no sexual contact
+>but the bossy thing usually melted away the second he got affection
+>he just started wagging his tail the second you stopped playing hard to get
+>that trended towards him being submissive
+>you didn't know how a lot of this worked
+>you'd dated girls before so this was out of your wheelhouse
+>and those usually went bad
+>maybe there was a reason for that
+>but you wouldn't let that happen here
+>it was hard to describe how you felt with him but you didn't want to hurt him
+>you didn't know if you could break his heart but you didn't want to find out if it was possible
+>your talk a while back gave you an idea
+>you didn't dare buy one from the mall
+>thank God the internet allows you to buy things privately
+>you waited for the night shift and you'd specifically brought a lunch box today
+>you'd bought a fleshlight 
+>he looked at it strangely
+>when you took him to the bathroom, then he put things together
+>tonight you'd indulge a little a see where things went
+>he let you take the lead and you kissed him
+>you felt his arms wrap around your shoulders as you pressed him to the tile wall
+>his snout made things harder
+>but you both didn't care 
+>clumsy tongues 
+>it was official 
+>after enough time from that Christmas kiss
+>you actually could say you liked this
+>the blood rushing to your crotch said you did and you couldn't argue with it now
+>you broke the kiss to breath and leaned into Roxy
+>”I was wondering what took you so long.”
+>he rested his head on yours then ventured his arms down to your waist and pulled you close
+>mentally, Roxanne was happy as could be
+>finally he'd gotten you to reciprocate 
+>he was relieved 
+>”so what's your little surprise for?”
+>when you started explaining, Roxanne was fighting the urge to show he was more excited 
+>in his mind he was happy
+>finally
+>it was hard not to push but he wanted you to make the first move
+>partially due to inexperience but also the fact that he wanted you to want it
+>it was a relief to him that you actually did like him
+>he'd been secretly hoping for more
+>the cuddling was nice
+>scratch that, it was amazing
+>but Roxanne couldn't help but be curious about what else couples did
+>he still shocked himself thinking about that
+>you two were a couple now
+>all he'd known was this little mall and you were the first person that didn't just treat him like furniture 
+>the kids appreciated Roxanne
+>maybe
+>hard to tell with some of them
+>but you'd been different 
+>special
+>his tail wagged between his legs as his imagination filled in the blanks
+>this was that sex stuff
+>he'd no doubt be your favorite after the sex stuff
+>you had struggled to think of a good first step after kissing 
+>with a girl it would be second base right?
+>he did have a chest under the shell
+>no idea why a stage robot had nipples 
+>but you didn't think all this was 1:1 with a girl
+>you didn't want to overwhelm him with anal sex right away
+>plus you were sort of worried about jamming your dick in there without knowing what it could do
+>you'd seen enough internet 
+>for now you wanted to do something that would confirm both of you want this
+>you kissed Roxy's throat as you undid his frame
+>you'd learned about all the latches ages ago
+>it was like undoing a girl's bra by now
+>his chest plate placed on the bathroom sink, you worked on undoing his pelvic plates
+>they latched together from both sides
+>Roxanne was a little embarrassed, yet he couldn't place why
+>but it was with you
+>that meant it was good
+>a turgid cock popped free when you undid the latches
+>you'd never seen it erect before
+>had you done that?
+>you looked down at it
+>a fat knot at the base throbbed
+>his “skin” was a soft mystery material and blue in color
+>it complimented the purples and greys across the wolf
+>ending in a tapered tip, it had to be eight inches
+>relative to his height that was sort of average you guessed
+>what the hell was Fazbear building?
+>above your head Roxanne had different thoughts
+>”he's looking at it! why is he looking at it? is it small? was it too big? does he like smaller?”
+>his mind was racing and he caught himself in the sink mirror
+>he looked over the sight of you two hugging like this and his arms clenched around you tighter
+>he had stage fright
+>you were oblivious to Roxanne’s newfound panic
+>he hugged you tighter but otherwise he hadn't said much more
+>Roxanne was spiraling into a dozen little insecurities 
+>he knew this sex stuff was important and he liked you looking at him
+>but he also felt nervous for some reason
+>out of courtesy you started undoing your belt and your pants and that brought Roxy back to reality
+>he wanted to see
+>he was nervous as could be but curiosity overpowered any inferiority complex
+>your erection smacked against his and his cock twitched in response 
+>so good news
+>that mistletoe kiss wasn't a fluke
+>your dick did respond to Roxy
+>and clearly his responded to you
+>Roxanne’s anxiety started to go away when you went back to kissing his throat 
+>you wondered how much he could actually feel
+>maybe it was just the action that pleased him and not the sensation 
+>Roxanne was giddy again
+>you liked him
+>he saw it with your dick
+>you liked HIM
+>he resisted the urge to pick you up and squeeze you into a hug
+>he was happy 
+>his eyes went back to the mirror and he eyed you up and down while you entertained yourself with the nape of his neck
+>this was actually happening
+>he felt amazing now
+>so this was that sex stuff
+>the cool air of the bathroom over his exposed parts mixed with the heat of your body
+>he felt like somewhere deep in him this was it
+>whatever amounted to instincts in his mind egged him on
+>he loved this
+>love you
+>you wanted to sex him
+>the idea still floored him a little
+>he didn't think he'd get this far
+>hell, months ago he didn't know this far existed 
+>he hadn't thought of his manhood for most of his existence and now you were softly rubbing on it with your own
+>Roxanne couldn't stop his tail from wagging if he wanted to 
+>Roxanne still had doubts 
+>but was eager to let you take the lead
+>he had performance anxiety but he thought maybe the easiest way to deal with it was submit 
+>you seemed to know what you were doing and he'd just found out what his own dick was for
+>he stroked his clawed fingers along the small of your back while your own hands braced over his shell
+>you didn't figure he had sensors along the hard parts of his body but his swollen dick told you some sort of sensors were in there
+>Fazbear should have included a manual with their shipments
+>that company did seem to just wing it 
+>at least now you were getting more hands on experience 
+>Roxanne felt like he was burning up
+>this was amazing 
+>he whined when feeling your cock rub against his
+>he had no idea why he was leaking from it
+>occasionally he'd be aware of other sensations 
+>the protrusions on his chest stiffened
+>the slightest brush against them felt like a shock through his body
+>and what you described as an ass
+>well, it twitched
+>he didn't know why it did that but it would
+>his body was excited for the first time and he had the barest grasp of why but he loved it
+>you made him excited
+>he was still worried about pleasing you but he was enjoying the sensory overload too much 
+>he hoped you were enjoying him as much as he was enjoying you
+>Roxanne had almost forgotten the surprise you had gotten
+>you hadn't though
+>you blindly grabbed for the toy and lube off the sink
+>it was behind you and you didn't feel like breaking contact with the wolf
+>you stopped thinking of Roxanne as a robot despite all the soft noises he was making and how peculiar he felt
+>it was just Roxy to you now
+>he was a guy like you
+>and as it turned out you were into him
+>maybe he was the singular focus of your sexuality 
+>you couldn't even say you liked guys all that much
+>but Roxanne seemed to be the exception
+>maybe you were a weirdo
+>but you knew you liked this and that kiss and affection wasn't just a fluke
+>when you stopped to coat the toy and yourselves Roxanne perked up
+>of course he'd have no idea about this but you'd seen videos
+>it was worth a shot, though Roxanne was pretty big for this
+>you'd anticipated it a little with how tall he was but it wasn't like you could just ask him his cock size
+>thank God he didn't seem the topping type
+>you leaned back from the embrace enough for him to see 
+>his half lidded eyes watched with an intense curiosity 
+>he knew about this faintly from your description but not what it actually was
+>the sex thing of course
+>with his tapered tip it was easier to slide the toy onto him first
+>he shivered at the cool touch but relaxed against you
+>once it had slid on enough you moved to line up with the other end of the fleshlight
+>this was about the best way to figure out if you two were committed to this 
+>both cocks would squeeze together in the clear plastic toy, thank God
+>you reached toy and fondled his nuts, making him gasp
+>they felt like yours in your palm
+>it would be time to figure out if they worked like yours too
+>Roxanne’s whole world was shaken
+>the sex thing
+>it was amazing
+>you were sexing him and he liked it and it looked like you liked it too
+>you'd pushed forward and the toy bottomed out on his knot and your base
+>it was tight as could be and the compression against your dicks made certain every little move could be felt
+>Roxanne could feel your pulse right now
+>you'd started kissing his neck again, with the intention of French kisses as you went back up to his snout 
+>within the tight confines of the sex toy, your dicks pressed and rubbed together
+>you could say for certain you were into Roxanne
+>as strange as it all was he was attractive enough to get a reaction out of your body
+>you felt him buck against you and you grabbed hold of his waist
+>the mixture of plastics, fur and soft synthetic materials really did make Roxy a miracle of engineering 
+>the hydraulics in him clenched and released
+>you felt his body readily react to yours as any human would
+>it was just different enough
+>he accepted your kisses and became greedy 
+>his hands clasped tightly to your shirt and he would not let go
+>he'd been more than happy to admit to himself he wanted you before
+>that want was a need now
+>he was past a innocent crush
+>now even your taste was his favorite 
+>he thrust into the toy with you
+>growled and whimpered against your kisses as you both bred the poor clear plastic tube for all it was worth
+>your thrusts were clumsy while his were keeping a rhythm 
+>you didn't notice it at first but he was probably doing it without thinking
+>he ended up lowering his hands to around your hips and you both ended up fucking into each other
+>this really was something only two guys could do
+>proof to you that this was something you actually wanted
+>you broke the kiss to watch him and he took note of it
+>he enjoyed your eyes on him
+>the only audience he really wanted
+>the frotting turned into a competition, using each other as part of the act
+>he was stronger than you and probably could have won but he didn't force you 
+>instead the shoving match between your manhoods was pretty even 
+>his silver hair was a mess, sweat formed on your forehead
+>you grit your teeth, his hands gripped your hips tightly
+>the two of you kept pounding into the hole and getting lost in it
+>he broke the pace once when he realized you still had your shirt on
+>he stopped and immediately fixed that 
+>the hands ran up your sides, hooked the shirt and yanked it over your head
+>”next time,” he huffed out, “wear that cute little shirt with my face on it.”
+>Roxanne grinned as he leaned into you
+>the wolf felt accomplished 
+>this was everything he wanted 
+>he was beyond satisfied 
+>he actually allowed himself to bask in the moment
+>he flashed his teeth and enjoyed the feeling of thrusting against you
+>this was sex
+>it was amazing
+>he'd have to find out more about this dating stuff
+>the cuddles were appreciated 
+>this was another step entirely 
+>you both moved without a shred of self control now
+>the poor toy wouldn't take a pounding this hard
+>between the both of you it was already stretched thin
+>you'd probably have to buy a better one down the road
+>you wanted a down the road now
+>you felt your climax rising up
+>your voice was ragged when you announced it 
+>his hands gripped your hips tightly and he nipped at your shoulder before he growled
+>”come on, give it to me.”
+>both of you smashed into the fleshlight, frantically trying to nut
+>you were first but he followed within seconds cum flooded the toy
+>wet and warm liquid filled the fleshlight and started leaking out
+>Roxanne pulled you up in the air as his back arched
+>you were along with the ride until his first climax hit him like a truck
+>you didn't bother asking yourself why he could cum
+>he just could
+>he wasn't just a robot
+>Roxy was special and you'd stop questioning it
+>he finally set you down and you slumped against him 
+>Roxanne moved the hair out of from in front his face and softly laughed
+>you relaxed and let him hold you up, trusting him
+>”you were amazing.”
+>he complimented you as he ran his hand over your back
+>Roxanne seemed to have all sorts of praises for you
+>all you had to say in reply was he was the best and he swooned
+>you sighed as you relaxed
+>your legs would have given out if not for the grip you
+>he was steadfast
+>not passive 
+>but you couldn't push him if you wanted 
+>he'd hold you up easily 
+>so this was a boyfriend
+>well 
+>you could do this
+>it was better than a girlfriend 
+>the strangeness was gone
+>Roxanne was Roxanne
+>the mental obstacles had vanished in the sticky haze of post coitus bliss
+>eventually you both ended up sliding out of the toy as your dicks softened 
+>the toy nearly fell onto the bathroom tile but you caught it
+>goddamn
+>something about being covered in each other's cum made all your worries a thing of the past
+>how could you not enjoy this?
+>it was right
+>you had fun
+>Roxanne was a sweetheart to you
+>work wasn't exactly giving you a bonus anyways
+>so why not seek out something good from it?
+>you both broke the embrace
+>this was official
+>you two were official
+>you had learned plenty about yourself tonight
+>your mind was completely at ease
+>Roxanne was content
+>for now
+>he'd tasted bliss and he bet he could have more
+>for now he was happy you were an item now
+>you washed the toy in the sink and then got dressed
+>after you then helped latch his shell into place
+>you still had work to do tonight

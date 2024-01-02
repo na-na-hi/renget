@@ -2,7 +2,7 @@
 **XXX** Edition
 
 Launch trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
-Release trailer: https://www.youtube.com/watch?v=qVw5M42LwZo
+Release teaser: https://www.youtube.com/watch?v=qVw5M42LwZo
 
 \>News:
 Patch 5: https://baldursgate3.game/news/patch-5-now-live_99

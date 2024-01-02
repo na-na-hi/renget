@@ -6,7 +6,7 @@
 
 
 ##### Currently Tracked locks
-_(Updated 31-Dec-2023)_
+_(Updated 01-Jan-2024)_
 
 !!! note
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -14,13 +14,10 @@ _(Updated 31-Dec-2023)_
 
 | User | URL | Expiration |
 | -- | -- | -- |
-| Delv | https://chaster.app/sessions/jbr5qxN1YHkkWDmn | 01-Jan-2024 |
 | cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  === |
-| kingtigerwanghu | https://chaster.app/sessions/vF9dsUdVLpGv3m3p | 01-Jan-2024 |
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
 | Spaday | https://chaster.app/sessions/VVFRwZ5OrbL6cFk9 | === |
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
-| nyannyannyaa | https://chaster.app/sessions/MsvEDPZXCKB4H9wZ | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
 | EmeraldWave | https://chaster.app/sessions/8aC98eZeWKZ3HFI0 | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
@@ -33,5 +30,7 @@ _(Updated 31-Dec-2023)_
 | jhonnyexampole | https://chaster.app/sessions/uNamwemfJZdp8toi | === |
 | Chastgenbitch | https://chaster.app/sessions/kFVWZStaQEWRTI4M | === |
 | DegradeMe | https://chaster.app/sessions/hpUMfzRRfU8OABQK | 07-Jan-2024 |
+| anon_rex | https://chaster.app/sessions/E1HFZs1zkArcrdh0 | === |
+| smoll_lilly | https://chaster.app/sessions/prDrroyAh4E4n5Ky | === |
 |  |  |  |
 |  |  |  |

@@ -189,7 +189,7 @@ For Prose, just use: `----`
 Keys that begin with and end with `/` are considered Regex, you can perform complex condition search with it, rather than simple matching word; Regex itself is a bit headache to explain — But you don't need to understand a thing, rarely anyone understand it (I do tho), just copy strings below and change it to your keyword.
 
 - *Goal:* **Exact matching**
-    - *Answer: (s) -* `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
+    - *Answer: * `/\bKey(s)?\b/i` - only allow ==key== and ==keys==
     - *Variant: Case sensitive -* `/\bRock\b/`
 - *Goal:* **Avoid being in full name**
 	- *Answer:* `/\bKey(?! (maker|shop))\b/si` - activate on ==key== but not ~~==key maker==~~ or ~~==key shop==~~
@@ -206,6 +206,6 @@ Few more things:
    But, `/\bjoe\b/` will only be triggered on ==joe==.
 - `//i` is case insensitive. Removing `i` is fine if you only want the entry to be triggered on correct capitalization.
 
--> Credit: Green, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
+-> Credit: SGreen, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
 
 [comment]: <> (SUPPORT-RENTRY-PATREON)

@@ -416,7 +416,7 @@ https://twitter.com/hzomlot/status/1713165378648420652
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-NEW
+NEW As Of Decemember 2023
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >Latest News Of Israeli / Palestinian War 12/23
@@ -2741,7 +2741,7 @@ https://nitter.net/AryJeay/status/1741504532348047460#m  12/31/23
 https://nitter.1d4.us/QudsNen/status/1741514726952100066#m  12/31/23
 
 >In the name of Allah, the Most Gracious, the Most Merciful.
-" So do not weaken and do not grieve, and you will be superior if you are [true] believers." (Quran 3:139)
+" So do not weaken and do not grieve, and you will be superior if you are true believers." (Quran 3:139)
 
 Greetings to the steadfast and patient masses of our people,
 You are the honor of the Islamic nation, showcasing to the world the true meaning of patience. Against the rock of your resilience, all conspiracies hatched against you shatter.
@@ -2871,3 +2871,247 @@ https://nitter.net/AryJeay/status/1741630851232796849#m  12/31/23
 
 >Iranian warships & US warships are practically toe-to-toe in the Red Sea right now.
 https://nitter.net/AryJeay/status/1741619179747148071#m  12/31/23
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NEW 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>Latest News Of Israeli / Palestinian War 12/24
+🇮🇶 Islamic Resistance in Iraq announces:
+
+Attacking the Al-Shaddadi US base in Syria, using suicide drones.
+https://nitter.net/AryJeay/status/1741800129403707531#m  1/1/24
+
+Al-Quds Brigades: 
+
+>We bombed a gathering of Zionist soldiers and vehicles with Badr-1 IRAM rockets, in the Al-Taqaddum area, east of Al-Bureij Camp.
+https://nitter.net/AryJeay/status/1741788949922668729#m  1/1/24
+
+>Hundreds of Pro-Palestine demonstrators disrupt Beirut's New Year's Eve event, calling for an immediate ceasefire and the end of Israeli occupation.
+https://nitter.1d4.us/QudsNen/status/1741798063792951326#m  1/1/24
+
+>⚡️Start your 2024 off with some HILARIOUS data:
+
+The israeli army updates on its friendly fire casualties: Out of the 170 IOF killed in the Gaza Strip during the ground offensive, 29 were killed by friendly fire.
+
+2-6 soldiers get killed/week due to friendly fire or accidents.
+https://nitter.net/AryJeay/status/1741708755417346212#m  1/1/24
+
+>Breaking || 83 settlers stormed the blessed Al-Aqsa Mosque courtyards, this morning.
+https://nitter.1d4.us/QudsNen/status/1741777892328001786#m  1/1/24
+
+>Haaretz: 
+
+Dozens of israeli psychiatrists have left for Britain, escaping the increasing workload amid rising cases of psychological issues among IOF soldiers returning from the Gaza Strip.
+https://nitter.net/AryJeay/status/1741814050659406272#m  1/1/24
+
+>Al-Qassam Brigades (Hamas)
+
+Succesfully detonated the entrance of a booby-trapped tunnel, targeting a group of IOF soldiers, east of the Tuffah neighborhood in Gaza City, causing casualties among them, including dead and injuries.  
+https://nitter.net/AryJeay/status/1741821681788666179#m  1/1/24
+
+>MUST WATCH: Saraya Al-Quds Brigades (PIJ) published a video showing scenes from the specific operation that targeted IOF command & control sites, set up in the Al-Zaytoun axis.
+
+One of Al-Quds’ spectacular videos.
+https://nitter.net/AryJeay/status/1741832316513599749#m  1/1/24
+
+>Al-Qassam (Hamas)
+
+Sniped a Zionist soldier, east of the Bureij refugee camp in the central Gaza Strip, and confirmed his death.
+https://nitter.net/AryJeay/status/1741825380896395614#m  1/1/24
+
+>Breaking | Al-Sadaka Cancer Hospital spokesperson in Gaza: "10,000 cancer patients are now completely without medication after the hospital went out of service."
+https://nitter.1d4.us/QudsNen/status/1741818418838261977#m  1/1/24
+
+>Al-Qassam Brigades (Hamas) 
+
+Detonated a pre-rigged building, housing a number of IOF soldiers, with explosive devices. 
+
+This resulted in casualties, including dead & wounded, in the Qarara area, north of Khan Yunis.
+https://nitter.net/AryJeay/status/1741838995363967396#m  1/1/24
+
+>Al-Qassam Brigades seized a quadcopter drone, while it was carrying an intelligence mission, in Beit Hanoun in the northern Gaza Strip.
+https://nitter.net/AryJeay/status/1741841504354566453#m  1/1/24
+
+>Media coverage | UNRWA: "Israeli forces with tanks invaded Bureij First Preparatory School after partially destroying it. They expelled thousands of displaced taking refugee in the school and seven of our employees. The remaining were forced to undress, stay in their underwear, and move to an open area with their hands raised. Women and children were instructed to stand in the middle of the schoolyard. Twenty-seven displaced individuals and three UNRWA employees are still being held."
+https://nitter.1d4.us/QudsNen/status/1741841616283816191#m  1/1/24
+
+>Reuters, about the Governor of the Central Bank of #Israel: 
+
+- Not taking action now to reduce expenditures, eliminate ministries, and increase revenues will cost the economy a lot in the future
+
+- The costs of the war are expected to exceed $58 billion
+https://nitter.net/ME_Observer_/status/1741845556920553480#m  1/1/24
+
+>In Beershava, 11 israeli soldiers/officers who were wounded in the battles inside Gaza, are seen being transferred to Soroka hospital after an army helicopter dropped them off.
+https://nitter.net/AryJeay/status/1741846468531528129#m  1/1/24
+
+>'MarineTraffic' Playback Tool indicates an increase in container ships changing course from the Red Sea following the closure by Yemeni Houthi forces, attributed to an Israeli blockade and the war on Gaza.
+https://nitter.1d4.us/QudsNen/status/1741847087979864461#m  1/1/24
+
+>The Yemenis have warmly welcomed Iran’s IRIS Alborz warship to the Bab el Mandab strait in the Red Sea.
+https://nitter.net/AryJeay/status/1741858851467526292#m  1/1/24
+
+>Media coverage | Israeli media: 42 victims of the Nova festival have filed a lawsuit against the Israeli army, police, and Shin Bet, alleging a failure to protect them on the 7th of October.
+https://nitter.1d4.us/QudsNen/status/1741854431874834482#m  1/1/24
+
+>🇾🇪🇺🇸🚨‼️ BREAKING: Houthis announce “unprecedented war” with the US and publish map with US bases in the Middle East.
+“There will be an unprecedented war with the Zionist-American enemy from today on. American bases and interests will be at the mercy of our Yemeni armed forces.”
+https://twitter.com/MyLordBebo/status/1741770247550480414  1/1/24
+
+there are hordes of paid Israeli trolls whose sole job is to use the Community Notes feature to censor posts critical of their precious genocidal regime and its propaganda. Even if the note doesn't get accepted, its addition can be seen and makes the post "suspicious"
+https://nitter.net/zei_squirrel/status/1741849106337726664#m  1/1/24
+
+>MUST WATCH: Al-Qassam (Hamas) published a new video showing its forces clash with IOF soldiers & crush militants vehicles, in the Al-Tuffah and Al-Daraj neighborhoods in Gaza City.
+
+>Truly amazing scenes 🔻
+https://nitter.net/AryJeay/status/1741869647555686897#m  1/1/24
+
+>Israel's Supreme Court annuls controversial judicial reforms that triggered nationwide protests last year against Prime Minister Netanyahu's government
+https://archive.is/Bp9Ih  1/1/24
+
+>Israeli media:
+The army is concerned with moving to the next stage, which is based on withdrawing its forces from inside the #Gaza Strip
+https://nitter.net/ME_Observer_/status/1741887441693270092#m  1/1/24
+
+>Israeli Public Radio:
+A settler accidentally opened fire on a bus in the Elad settlement, wounding three settlers inside.
+https://nitter.net/ME_Observer_/status/1741887502561026082#m  1/1/24
+
+  >| 🇮🇷 IRIB military correspondent:
+In the coming days, Iran’s IRIN 95th Naval Fleet will also be deployed to the Red Sea & the Bab-el-Mandeb Strait. 
+A clear message by Tehran to prevent any insecurity for its shipping lines and the region.
+(Via @Younes_Shadloo)
+https://nitter.net/AryJeay/status/1741914390952071233#m  1/1/24
+
+>⚡️AnsarAllah leader, AbdulMalek al-Houthi:
+“If the Americans decide to escalate further, entangle himself more, or commit folly by targeting our country or waging war against it, we will not stand idly by.”
+https://nitter.net/AryJeay/status/1741917374687670442#m  1/1/24
+
+Yesterday, israeli media circulated news of Yemenis attacking a US warship, which later got denied. Today, israeli media, again, talked about an attack in the Red Sea [which got denied again].
+
+This is an attempt to sow frustration in anticipation of a Yemeni response.
+
+Events in the Red Sea will not stay hidden, and the US or the UK will announce it as well, as usual. 
+
+Who said Sanaa's goal is to target a warship? Why couldn't it be something else, like the presence of Americans inside Yemen? Let the facts speak for themselves.
+
+Everyone should await for official announcements.
+
+https://nitter.net/AryJeay/status/1741922063722398102#m  1/1/24
+
+>⚡️Al Jazeera: Yemeni sources confirm that there were no direct clashes between the Houthis and American forces after the incident.
+https://twitter.com/WarMonitors/status/1741923637706346670  1/1/24
+
+>⚡️Al-Qassam Brigades’ Spox Abu Obeida report:
+During the past 4 days:
+
+🔻Al-Qassam destroyed 71 military vehicles entirely or partially. 
+
+🔻Confirmed the killing of 16 IOF soldiers and the injury of dozens with varying degrees.
+
+🔻Carried out 42 military missions resulting in casualties among enemy forces. These missions targeted invading Zionist forces with shells, anti-fortification explosives, and point-blank range engagements.
+
+🔻Targeted their rescue teams, detonated 2 booby-trapped buildings & 2 tunnels, as well as a minefield affecting military vehicles & soldiers.
+
+🔻Carried out 2 sniper operations.
+
+🔻1 helicopter was targeted.
+
+🔻2 reconnaissance drones were brought down, and another drone (quadcopter) was seized. 
+
+🔻Struck command centers, field leadership rooms, and military gatherings with short-range rockets and mortar shells in all combat zones in Gaza. 
+
+🔻Showered Tel Aviv with a barrage of M90 rockets.
+https://nitter.net/AryJeay/status/1741893034319503578#m  1/1/24
+
+>Yesterday, israeli media circulated news of Yemenis attacking a US warship, which later got denied. Today, israeli media, again, talked about an attack in the Red Sea [which got denied again].
+This is an attempt to sow frustration in anticipation of a Yemeni response.
+
+Events in the Red Sea will not stay hidden, and the US or the UK will announce it as well, as usual. 
+
+Who said Sanaa's goal is to target a warship? Why couldn't it be something else, like the presence of Americans inside Yemen? Let the facts speak for themselves.
+
+Everyone should await for official announcements.
+https://nitter.net/AryJeay/status/1741922063722398102#m  1/1/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 1 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Seized a Zionist quadcopter drone, during its intelligence mission, in Beit Hanoun, north of Gaza.
+
+🔻Set up a well-planned ambush for a special Zionist force in one of the buildings facing military vehicles in the Bureij camp; upon their entry, they ambushed them with gunfire & anti-fortification shells, causing casualties, while safely withdrawing to their bases.
+
+🔻Detonated a minefield targeting a special Zionist force after entering the "Khalil" military site, east of the Tuffah neighborhood in Gaza, resulting in the confirmed killing of 15 soldiers.
+
+🔻(Partially) destroyed 2 Merkava tanks & 5 military vehicles in various combat zones in the Strip. 
+
+🔻Detonated a booby-trapped tunnel entrance, upon the entry of IOF soldiers, east of the Tuffah neighborhood in Gaza, causing casualties.
+
+🔻Detonated a booby-trapped tunnel, upon the entry of a Zionist infantry patrol unit, in the Qarara area north of Khan Yunis, causing casualties.
+
+🔻Detonated a booby-trapped building where IOF soldiers took shelter, causing casualties in the Qarara area north of Khan Yunis.
+
+🔻Targeted a military vehicle gathering, east of the Tuffah neighborhood, with Tandem rockets & anti-personnel explosives, resulting in casualties.
+
+🔻Sniped an israeli soldier, east of the Bureij camp in central Gaza, confirmed dead by Qassam.
+
+🔻Targeted 3 IOF soldiers with explosives, causing casualties in the Qarara area north of Khan Yunis.
+
+🔻Targeted IOF forces, east of the Tuffah neighborhood, with rocket barrages.
+
+🔻Targeted a special Zionist force inside a building in the Tuffah neighborhood, with an anti-fortification TBG, and causing casualties between dead & injured.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Bombed a gathering of Zionist soldiers and vehicles with Badr-1 IRAM rockets in the area east of the Bureij camp.
+
+🔻(Partially) destroyed 1 APC, 2 military vehicles, 1 Merkava tank & 2 military D9-bulldozers in various combat zones in the Strip. 
+
+— 🇵🇸 Nasser Salah al-Din Brigades:
+
+🔻Shelled a gathering of Zionist soldiers and vehicles in Khan Yunis with heavy caliber mortars.
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Targeted an IOF Apache helicopter with a SAM-7 anti-aircraft missile, east of Gaza, causing a direct hit.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled military vehicles & crushed israeli soldiers with mortars, southeast of Al-Zaytoun.
+
+🔻Shelled military vehicles & crushed IOF soldiers with mortars, southwest of Tel Al-Hawa.
+
+🔻Shelled the gathering of Zionist soldiers & military vehicles, east of Khan Yunis in the vicinity of the Khuza'a entrance, with medium-caliber mortars.
+
+🔻Targeted an israeli helicopter with a SAM-7 anti-aircraft missile, in Al-Shujaiya area, directly hitting it.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Shelled military gatherings in the southern Gaza axis with 120mm mortars.
+
+🔻Shelled militants gatherings in the eastern Khan Younis axis with a number of 120mm mortars.
+
+🔻Shelled military gatherings in the eastern Al-Bureij city axis, with a number of 120mm mortars.
+
+🔻Clashed with IOF forces, east of Khan Younis, with heavy barrages of bullets & RPGs.
+
+🔻Shelled military gatherings, east of Khan Younis, with a number of 120mm mortars
+
+🔻Shelled a military gathering of soldiers in Khan Younis with a barrage of heavy-caliber mortars.
+
+— 🇵🇸 Martyr Omar Al-Qassem forces:
+
+🔻Clashed with IOF forces, in the central Khan Younis axis. Succeeded in launching a RPG at one of the IOF vehicles, hitting it and causing deaths and injuries.
+
+🔻Destroyed (partially) 2 Merkava tanks and inflicted deaths and injuries among its soldiers & officers on the battlefronts.
+
+🔻Sniped a zionist soldier in the vicinity of Sheikh Radwan, confirming that he was directly wounded.
+https://nitter.net/AryJeay/status/1741940105579819041#m  1/1/24
+
+>Auschwitz Memorial says its account on X lost 7,000 followers in December. 
+This comes following a statement it made at the end of November supporting Israel's genocide against the Palestinian people in Gaza under the pretext of self-defense.
+https://nitter.1d4.us/QudsNen/status/1741955506942447880#m  1/1/24
+
+>BREAKING| Israeli warplanes bombarded the vicinity of Maroun El Ras village in southern Lebanon.
+https://nitter.1d4.us/QudsNen/status/1741957090933960846#m  1/1/24

@@ -2,9 +2,12 @@
 
 ***
 ->![imsotired](https://files.catbox.moe/fzzxpp.png)<-
+
 ->Hello, everyone. I'm **muricanpie**. Formerly *muricanpie#7937*. Now just **muricanpie**. This is my Rentry (not yours).<-
 
-->I like to make bots, generate AI art, and write things I'll never release. Shortstacks/Goblins are **awesome**. Femboys are *pretty cool*. I'm kind of a boomer. I run my own discord where I host my bots (and their alternate art), occasionally take requests, do bot pre-releases, share AI art, and chat. It's pretty chill. Come check us out if you want. [You can find it here.](https://discord.gg/Qhz7qxN3u4) And all of my bots can be chat with for free on [Spicychat, found here](https://spicychat.ai/creator/muricanpie)<-
+->I like to write things I'll never release, play games, make bots, and generate AI art. I'm kind of a boomer.<-
+->I'm the creator of the (semi)infamous Cara Heart, and the Ez Bot Creator. All of my bots (made in the same format as the Ez Bot Creator) can be chat with for free on [Spicychat, found here](https://spicychat.ai/creator/muricanpie), or found below in the form of TavernCards and .Json files.<-
+->I run my own discord where I host my bots (and their alternate art), occasionally take requests, do bot pre-releases, share AI art, and chat. It's pretty chill. [Come check us out if you want.](https://discord.gg/Qhz7qxN3u4)<-
 
 [TOC2]
 
