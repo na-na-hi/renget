@@ -268,7 +268,7 @@ For a 3* you need 120 shards to unlock the student. A hard node drops on average
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/X4xxPN6.png)
+![hard nodes to farm](https://i.imgur.com/zP1uCQN.png)
 If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 

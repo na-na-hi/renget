@@ -38,16 +38,16 @@ Likewise, general non-ai meme reactions, infographics, duplicates and non relate
 - https://pixeldrain.com/u/8nzpjwVp
 
 - /POL/ memes from non-MWG threads
-- NOTE: The original non-MWG Oct-Nov Archive has been rolled into the new Archive
 - October Archives
 - Part 1 - 2.5 GB - 13,100 images
 - https://pixeldrain.com/u/BHnWQ2wK
 - Part 2 - 3.3 GB - 15,400 images
 - https://pixeldrain.com/u/zGQ86QQw
 - November Archives
+- NOTE: The original non-MWG Oct-Nov Archive containing 5,000-odd images has been incorporated into this.
 - Part 1 - 3.1 GB - 15,100 images
 - https://pixeldrain.com/u/YSU45tp7
-- All non-MWG memes from December onward are rolled into the main Archive series
+- All non-MWG memes from December onward are incorporated with the main Archive series.
 
 - Additional Archives
 - /X/ meme images

@@ -1,2 +1,5 @@
-i love juliet starlingggg
-https://rentry.org/jellyfishfield
+-> ![.](https://enchantments.carrd.co/assets/images/gallery08/d30af578.gif?v=43e17b0c) <-
+-> ![.](https://media.discordapp.net/attachments/1096639589852123136/1191826185022341190/IMG_0411.webp?ex=65a6d9a1&is=659464a1&hm=7d604d3805a96412630560847756daf287391cdbebe0aaf396248024531667c5&) <-
+-> enny ![.](https://enchantments.carrd.co/assets/images/gallery16/76ec3234.gif?v=43e17b0c) ryan — she/him <-
+-> ![.](https://enchantments.carrd.co/assets/images/gallery07/e1fb9f25.jpg?v=43e17b0c) ![.](https://enchantments.carrd.co/assets/images/gallery07/a4f87da2.jpg?v=43e17b0c) bisexual girlboything <-
+-> i am juliet starling u arent desu <-

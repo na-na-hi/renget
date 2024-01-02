@@ -552,3 +552,255 @@ What a journey we've gone through. Much like Dante, you have followed this guide
 Huh, what is that mountain over there?
 
 Up next, Part ?: Purgatorio.
+
+# Part 8: Purgatorio
+
+Today marks the end of our journey. Here are all 7 teams:
+
+![pic](https://preview.redd.it/2kfsl3lfnr9c1.png?width=1000&format=png&auto=webp&s=c3ea1d575d852759365995ec8df7794ef90c9400)
+
+\*C*hanges from the previous parts: I've swapped the Rodions of the Bleed and Burn teams, and slotted in the Xmas event EGOs.*
+
+By now, it should become apparent that this guide's aim lies beyond simply presenting 7 status teams. I wanted to plant a seed (of light, if you will) in this community, illuminating a road of self learning. Through the 7 parts, I hope to have slowly grown the reader's mindsets, and eagerness to think deeply about the systems of this game, with which we engage and experience.
+
+Across those 7 parts, we've not only made each status viable. We've looked at unconventional tools that go beyond prescribed archetypes. We've dissected strengths and weaknesses of strategies, and found solutions for them. We've examined the surrounding context that frame a team's effectiveness. We've seen how to chain effects and synergies, creating powerful results. And we've looked at how sometimes, there's diminishing returns to being too singleminded in how we build.
+
+To break from the chains of others, to cross those rigid borders that line the outskirts of our preconceptions; I quote from a recent chapter:
+
+>"Out of fear, humans drew borders even to the Outskirts that lie beyond the City limits. Beyond it are stars that lie beyond the edge of understanding, beyond even the concept of fear itself."
+
+We've come far, but we can go further.
+
+Our teams so far have mostly been optimized for MD3N speed, and also for minimal mental effort. They're what one might call "stable" strategies: they're designed to always work.
+
+But there's more going on in these teams than their primary strategies make apparent (that I've omitted from explicitly mentioning). Teams that need incidental healing have passive healers. Teams heavily using EGOs have constant SP recovery. Most relevant damage passives are active one way or another. Sin resource ratios are optimized. There are bespoke tactics for specific bosses trivializing them, etc. These are the nuances of these teams that overall contribute to making them "stable".
+
+But what if we destabilized it. A little chaos for a lot more fun - let's transform our teams.
+
+**Transformational Teams**
+
+In another strategy-focused game (MtG), one interesting tactic is called the "transformational sideboard". It allows someone mid-game to, by just swapping a few game pieces, play a completely different strategy more suited to the challenges they face. Most of our proposed teams can do that as well, though some better than others of course. e.g. I've had great success suddenly pivoting my charge team into a rupture team mid-run, or my bleed team into poise.
+
+Much of this can be credited to the efficacy (and ubiquity) of bleed and poise; being such strong splash-able strategies. I've lost count of how many times I've seen Wound Clerid in my first shop and go, "alright, we're also a bleed team now". This is further compounded by the elephant in the room since the start of these guides: *the fusion EGO gifts*. Bleed and Poise's are so overwhelmingly strong that there are times when it's optimal to switch entirely to a bleed strategy, simply because you see the two component parts in the shop.
+
+So let us trek back up this mountain before us, and explore some of the other interesting ways our teams can play (and the ways we can adapt our game plans as the situation presents itself).
+
+**Part 8.7: Zap Dos (Electric Bugaloo)**
+
+Pivoting units (Rupture):
+
+* Faust > Outis
+* Ishmael > Gregor (optional)
+
+Starting off with one of the least recommended (but viable) pivots, our charge team can moonlight as a rupture team. Many of the charge units are also slash units, which triggers Talisman Bundle. Barbed Snare also works really nicely here, because we have a much easier time activating lust Abs Res.
+
+We're still mostly in the realm of "extra damage" rupture for this team, but during bosses, we can actually maintain stacks well with Gregor's AEDD. The stacking is slower than the true rupture team of course, but with maxed Talisman Bundle + gloom skills/EGOs to keep the count up, we do get to high stacks very quickly. For this team however, Thunderbranch isn't as great, so you can skip it.
+
+The true reason to dabble in rupture for this team is Fluorescent Lamp. With Talisman Bundle as the primary way to fulfill it's conditions (sadly Barbed Snare applies *after* Lamp's check), this thing pumps out so much Damage Ups that one S3s can half the boss HP sometimes.
+
+Rupture Fusion EGO gift: Enrapturing Trance (Standard-duty Battery + Talisman Bundle):
+
+>Candidates for 5-member condition: Outis, Gregor, Hong Lu, Heath, Don.  
+>  
+>Overall this gift is pretty good on this team. Our IDs have a lot of multi-coin moves, so upgrading the Bundle's rupture application from per-skill to per-hit leads to a lot of potency application.  
+>  
+>This translates to lots of extra damage, but don't count on it exclusively to maintain your stack.
+
+**Part 8.6: Critical Injury**
+
+Pivoting units (Bleed):
+
+* Sinclair > Meursault
+* Ishmael > Hong Lu (a certain future unit might make this swap no longer necessary)
+
+This one is a no-brainer. The team is already simultaneously a bleed strategy to begin with. I don't think there's much need to elaborate on this switch-up too thoroughly, but I'll say that you should experience both Bleed and Poise fusion EGO gifts active on the same team at least once in your Limbus life.
+
+This team is currently short a member to do that dual-fusion setup specifically, but speculatively, there's a spot reserved for a certain captain we're likely to be getting. Otherwise, if you want to aim for that on this team with currently available IDs, simply swap around Cinq Sinclair with BL Sinclair from the bleed team - but for runs where you don't get both fuse gifts, that's slower than our current setup.
+
+Most bleed stacking gifts should already be part of your buy list, even before any strategic switch-up, but as usual: special mention to Wound Clerid++.
+
+Poise Fusion EGO gift: Lucky Pouch (Ornamental Horseshoe + Four-Leaf Clover):
+
+>Candidates for 5-member condition: Default lineup.  
+>  
+>Makes your S3s ridicuous. Get it if you can.
+
+Bleed Fusion EGO gift: Bloody Mist (Smoke and Wires + Rusted Muzzle):
+
+>Candidates for 5-member condition: Gregor, Yi Sang, Rodion, Meursault, Hong Lu.  
+>  
+>Get it if you see it. Most of the time you'll want to pick up one half of it regardless, then at any point you see the other half, you can immediately swap to the bleed strategy.
+
+If you already have the poise fusion EGO gift when you find the second half of the bleed's, I'd favor running the poise gift for this set of IDs (i.e. you can buy the blood gift's component, but just don't fuse it later). But of course, again, in the near future we can probably run both effortlessly.
+
+**Part 8.5: Sunk Cost**
+
+Pivoting units (Solo):
+
+* All? > Heathcliff / Rodion / Meursault
+
+I'll be blunt: this team's pivoting isn't for run speed or power. There's no fusion pieces we can stumble onto with this team that makes us consider switching for a faster/stronger game plan. If anything, we're only switching things up for personal enjoyment or fun, because what we do have in this team are some of the funniest solo/self-powerful units in the game.
+
+This team's alternative strategies are either:
+
+1. Sloth EGO spam: Spice Sang is the most damaging AoE spammer in the game, and our team tends to generates more sloth resource than we know what to do with. Boost it even more with Ebony Stem (Outis), Pursuance (Rodion), or with itself: Sunshower T1 > corroded Sunshower T2. And if you've been getting the bleed Plushie EGO gift as per recommended, Ebony Stem into Sunshower is devastating.
+2. Sunshower Heath: A lot's been written about this ID. I won't cover how to play him here - there are good resources out there for that. Soloing with him is fun, but not necessarily strong.
+3. Dieci Rodion: This one should be self evident. Notoriously good solo unit, with great damage and is practically unkillable after the first two rounds.
+4. N Sault: Even more unkillable than Rodion, but less damaging. With multiple skill slots he can become completely immune to regular damage (10 protection).
+
+Naturally, none of these are optimal for speed farming (they're slower than our main sinking strategy), but sometimes switching things up helps keeps things fresh.
+
+Sinking Fusion EGO gift: Black Sheet Music (Midwinter Nightmare + Headless Portrait):
+
+>Candidates for 5-member condition: Default lineup.  
+>  
+>Powerful gift, makes sinking maintenance automatic. Get it whenever possible.  
+>  
+>Sunshower Heath is very good fielded if we find it, because he has so many coins.
+
+**Part 8.4: Core Rupt**
+
+This team also does not have a "hard" pivot, but that's because this team is already so powerful.
+
+We do, however, have a higher shot of benefiting from some of the charge EGO gifts. This is because we want to get some charge gen gifts for our rupture count appliers (Yi Sang/Gregor) to begin with. Thus, we're more primed to pick up Wrist Guards (and even CV; both those IDs have gloom skills).
+
+We also have the option to switch Talisman Sinclair in, if you want a change of pace.
+
+Rupture Fusion EGO gift: Enrapturing Trance (Standard-duty Battery + Talisman Bundle):
+
+>Candidates for 5-member condition: Default lineup.  
+>  
+>As mentioned in Part 4, this team doesn't want this gift if we already have Bundle maxed.  
+>  
+>But in future, with new rupture IDs (that inflict overflowing rupture count), it'll likely shine.
+
+**Part 8.3: Resonance Cascade**
+
+Much like the sinking team, we have a sub-strategy of Yi Sang's Sunshower spam here too.
+
+The tremor team is strong T1 vs blunt weak nodes. But if they resist blunt, Yi Sang's AoE T1 puts them within staggering range for your other units. You can equip 4th Match Flame too if you want to diversify your AoE damage types, but the Sunshower idea works well even on pierce neutral nodes.
+
+Tremor Fusion EGO gift: Coupled Oscillation (Nixie Divergence + Bell of Truth):
+
+>Candidates for 5-member condition: Default lineup.  
+>  
+>A fully enhanced Bell is generally preferred over the fusion gift, as you get double the fragile application. But with our team, it really doesn't matter, since we're built to tremor burst regularly to begin with. So beyond turn 1, the target is likely stuck with high fragile permanently. The stagger when 3x bursts bonus is nice, but not really necessary with this team.  
+>  
+>Overall it's somewhat just a sidegrade, so anything goes. Get it if you enjoy it.
+
+**Part 8.2: Bleeding Edge**
+
+Pivoting units (Bleed):
+
+* Faust > Ryoshu
+* Ishmael > Sinclair (optional)
+
+Pivoting units (Poise):
+
+* Meursault > Sinclair
+* Hong Lu > Yi Sang
+* Ishmael > Rodion / Outis
+
+The default lineup has a poise sub-theme going on. This is on top of the previously explained B.O., bleed and envy Res elements to the team. A few IDs here can gain poise themselves, as well as B.O. applying poise count to allies. So, picking up a Pendant (or Nebulizer of course), adds a lot of mileage to these incidental gains. Generally, we'll pick up any poise gift if its suitable (most are).
+
+What's interesting about this team is that, despite being the base "bleed strategy", it wants to swap an ID out if we find the bleed fusion EGO gift. We're only at 4 bleed IDs in the default configuration (from testing, I've confirmed that Meursault counts as one), so if we find the gift, we switch Faust > Ryoshu to get our 5th bleed ID. The bonus from activating that EGO gift is so immense, you could even find it justifiable to swap Ishmael > Sinclair for a 6th member, but only his S3 benefits from it.
+
+Likewise, if we find the poise fuse gift, we'll want to get to 5 poise units to activate it: Sinclair and Yi Sang in; Meursault and Hong Lu out. Then we'll still need 1 more to replace Ishmael: Outis or Rodion takes this slot depending on how stacked on poise gifts you are at that point. Outis if all you've got is the fused gift, Rodion if you're very poise heavy.
+
+Bleed Fusion EGO gift: Bloody Mist (Smoke and Wires + Rusted Muzzle):
+
+>Candidates for 5-member condition: Don, Hong Lu, Heathcliff, Meursault, Ryoshu.
+
+Poise Fusion EGO gift: Lucky Pouch (Ornamental Horseshoe + Four-Leaf Clover):
+
+>Candidates for 5-member condition: Heathcliff, Faust, Sinclair, Yi Sang, Rodion/Outis.
+
+If you have to choose between the fusion gift setups for this team in a run, pick the bleed one. The poise IDs in this 12-sinner team aren't as first-rate as the bleed IDs.
+
+**Part 8.1: Burning Heart**
+
+Pivoting units (Burn):
+
+* Yi Sang > Hong Lu
+
+Pivoting units (Bleed):
+
+* Yi Sang > Rodion
+* Meursault > Ryoshu
+* Gregor > Heathcliff
+
+And finally, back at the top, our burn team is capable of pivoting into bleed as well, but it's probably the most suspect of these listed strategic pivots.
+
+We only have some small, incidental bleed application in our default configuration (with Faust and Sinclair). But because we favor using wrath skills (generating resource for 4MF), Wound Clerid++ once again shines here, making all those skills apply bleed too. Furthermore, as with most strategies that wants to start with an AoE opener, we want to pick up Grimy Iron Stake.
+
+Bleed is the perfect complementary strategy to burn: easily stacked and strong on bosses. Ultimately, as far as investments into bleed EGO gifts for this team, I'd recommend keeping it to a minimum, taking only those that are applicable to non-bleed-applying skills (e.g. Muzzle yes, Cutting Knife no).
+
+Oh, and of course, if we find the Burn fusion EGO gift, we'll swap Yi Sang out for Hong Lu, as we'll need all 5 burn IDs to meet it's condition. Liu gang hits really hard if you can find it.
+
+Burn Fusion EGO gift: Soothe the Dead (Ashes to Ashes + Dust to Dust):
+
+>Candidates for 5-member condition: Ishmael, Sinclair, Gregor, Meursault, Hong Lu.  
+>  
+>Levels up the coins of our Liu units pretty nicely. Does what 4MF was doing: mass burn count T1.  
+>  
+>Aim for this if possible.
+
+Bleed Fusion EGO gift: Bloody Mist (Smoke and Wires + Rusted Muzzle):
+
+>Candidates for 5-member condition: Sinclair, Faust, Rodion, Ryoshu, Heathcliff.  
+>  
+>Overall I would recommend against actually pursuing this fusion EGO gift on this team. Just stick to a few basic bleed EGO gifts (e.g. Clerid++) with the incidental bleed stacking of Faust + Sinclair.  
+>  
+>But the option to go all in is there if you want to have fun with it. To that end, a fun fact: base Don at UT4 counts as a bleed unit for this EGO gift's condition as well.
+
+And of course, goes without saying, the burn fusion gift is preferred over the bleed one for this lineup.
+
+**The Summit**
+
+And there we have it, we've reached the top. You've conquered Mount Purgatory.
+
+I'm not sure if I'll add anything more to these guides beyond this post - or if I should add run-footage to these guides (I don't know if anyone would be interested to see that). I do have some cleanup to do; some of the older images are a little messy/low res, and there have been the swap-around of the Rodions, but overall we've reached the end of what I wish to convey.
+
+Perhaps the only other thing I'll add is that there was a reply professing slow/difficult regular fights for rupture/sinking teams. I took some time to think about why that may be (whilst scrubbing through some recordings), as I've never had any issue across my (50+) runs with those strategies. Fights typically stay under 2 minutes, even on harder nodes when just winrate-ing.
+
+Ultimately, I think I've figured out the likely reason: I never thought it'd ever be the case, but perhaps some players undervalue damage ups. Damage ups have a compounding effect typically: it's why Heathcliff's QS do so much damage, the fragile + the stagger from the earlier hits have a multiplicative effect leading to those last few coins hitting so hard. Same goes here.
+
+All those Sticky Mucks or Grey Coats that's being passed up might've been the key to make your runs go fast. In fact, in my runs, I even always aim to get off-status boost effects (Pipe + Nebulizer, Plushie + Stake, Lightning Rod + Wrist Guards, etc.), and Blood, Sweat and Tears is practically an instant pickup every time. Hopefully this helps players who may still be struggling with that. (*Or perhaps, they just have the usual stack of PMoon Player Perusal Passive, thinking this guide's for MD3H*.)
+
+That being said, I suppose there's one final thing: even though these guides started with showing how to build the statuses more effectively, the mindset of "statuses" itself is in actuality, a distraction. The better perspective to have is that "everything is interlocking systems". i.e. If it works, it works.
+
+In any case, let's fly our wings.
+
+Dear manager,
+
+>you've seen the temporary fire and the eternal fire;  
+>  
+>you have reached the place past which my powers cannot see.  
+>  
+>I've brought you here through intellect and art;  
+>  
+>from now on, let your pleasure be your guide;
+
+# Part 9: Paradiso
+
+So where do we go from here? Limbus Company is a game with immense potential in it's systems (it's incredible in it's narrative as well of course, but that's outside the scope of this writeup).
+
+Though seemingly simple right now, the pieces that are already in place have lots of room to grow, affording many interesting angles of exploration that open up novel, emergent gameplay patterns; the design space is wide open. We're also already seeing some ramping up of sophistication recently. Who knows what shakeups we'll see in the future.
+
+Maybe we'll see an ID with \[*Next turn: Temporarily sets SP to -45 and enter corrosion*\] for its S3, or a mixed positive/negative coin IDs that uses Res passives to control their rolls. Or maybe we'll have an EGO with \[*For 2 highest SP allies: that ally loses 40 SP, then reuse this coin*\]. These sorts of funky designs that play with the borders of what we've already seen, will likely eventually become commonplace in Limbus, as we're still pretty much only barely past the beginning stages for the game.
+
+I hope that when those times come, we'll be able to enjoy thoroughly the many intricacies of engaging with these new systems, as well as all the avenues of creative expression that it brings, together.
+
+Thank you for taking the time to follow this guide, I am aware I do get ramble-y at times. And despite all of my pretentions and aesthetic self-amusement writing the guide in this convoluted way: I am honored to have been your attendant throughout this journey.
+
+I wish you well, Manager.
+
+>Await no further word or sign from me:  
+>  
+>your will is free, erect, and whole-- to act  
+>  
+>against that will would be to err: therefore  
+>  
+>I crown and miter you over yourself
+
+Thank You.

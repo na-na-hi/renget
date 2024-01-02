@@ -7,7 +7,7 @@
 ## Limited availability
 ##### Physical goods
 !!! info
-    None at the monent.
+    None at the moment.
 &nbsp;
 ***
 

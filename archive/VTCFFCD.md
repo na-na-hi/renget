@@ -1,21 +1,32 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/h7lymb.png)<-
+->![Funny](https://files.catbox.moe/jjv7te.png)<-
 
-## ->❄️[Recently added to the archive: 12/18/2023](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 01/02/2024](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
-->(***Series entry!***) [Blackbean Chapter 2](https://docs.google.com/document/d/e/2PACX-1vTrgdRLbfE4K-KNO4AJ-0ULyjMF3Vl0jmdWfpqIXs_6489IviIvwp2M1J1AHRcB8WeG_CUoPZVkJau_/pub) (Towa, Botan, Watame, Mio, Fubuki, Fantasy)
-(***Series entry!***) [Blackbean Chapter 3](https://docs.google.com/document/d/e/2PACX-1vR3hp5NUBmlnqe49pHnfHg0Uvpn2v1yRq-xZpGQdsp38xOiFMTLes2FbAlPsXObjbZOyrMMX7_nBzCI/pub) (Botan, Fubuki, Towa, Shiori, Fantasy)
-(***Series entry!***) [Blackbean Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSmIDLIncIDZn8Cp8bObaT9KHSljsQzxrLRbx3nHazaip5EigKCtt4fhZdLccmI7tmf6PqKVX9WS0yJ/pub) (Towa, Botan, Watame, Shiori, Mio, Fubuki, Fantasy)
-(***Series entry!***) [Blackbean Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQ-ZnsyLs-jm-5qWWeOKxOYXprky0o2VewzwPxc397ROw3u3eqJAAryzaze_zGdiqW1jKccyF7WsgpF/pub) (Towa, Botan, Mio, Fubuki, Fantasy)
-[Shiori's fucking monologue](https://rentry.co/agkab) (Shiori, NSFW, Monologue, Comedy)
-[Holomoms](https://docs.google.com/document/d/e/2PACX-1vRwbjPSqY3I64grZl_y3_V_KnNoinOqObqUZs8Yf4kODT_paFY98wCZOZFlIuQgNLphHgi9I7vOF5o4/pub) (Luna, Subaru, Bijou, Choco, Mio, Kaela, SFW, Fluff, Greentext)
-[Sanding your deck with Subaru/Showering with Subaru](https://rentry.org/62x6xg) (Subaru, SFW/NSFW)
-[Heaven, Hell and the USDA](https://rentry.org/sivtwn) (Coco, Towa, Kanata, NSFW, Yuri, BDSM)
-[Kissing the Homies Goodnight](https://archiveofourown.org/works/48582526/chapters/122545975) (Park Dona, NSFW, Drunk Sex, Femdom, Paizuri)
-[Holoturismo Ch.3 - Starting Line](https://docs.google.com/document/d/e/2PACX-1vTPFkL2PWyNtQAvMqpCdsyKYnc8iBcNwtIH_mPO1zGA3600EU2DDAQ4Imdn228VEv_I3tJhHpJ9cmnL/pub) (Kiryu Coco, SFW, Action, Drama, Car autismo)
-[Holoslavia: Operation Nimrod Landing Page](https://rentry.org/Holoslavia) (Landing Page)<-
+->(***Series entry!***) [Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
+(***Series entry!***) [First Train and Kafka Stop Twenty Five: The Mousetrap Part One](https://docs.google.com/document/d/e/2PACX-1vQ2MpXHXtN1v94ahNqZJvA0RP0hZ7N4GvyC2dgnSi2pu9pLDiMINsN0LLFylHCC4QSaOyKkqIhTW6dC/pub) (Marine, NSFW, Grooming, Masturbation)
+[Auntie's Little Secret: Redux](https://rentry.org/ALS18) (Fubuki, NSFW, Fluff, Grooming, Dark)
+[Homely Relief](https://rentry.org/vshcu) (Ookami Mio, NSFW, Fluff)
+[Mioracle Worker](https://docs.google.com/document/d/e/2PACX-1vRrJSM5Yo8KwWl4vsQYxTGwcc_NijJwGZc2FIXz3fdmfshTABZqO4q3Dd4344Y826H1LGFLIUGUpze9/pub) (Ookami Mio, Fluff, Hurt/Comfort)
+[A Miotastic Comfort](https://docs.google.com/document/d/e/2PACX-1vQXRwNlNkGUxGaML3eFG9K8mcBK5EeD8jnRWnbfQC7bj__3C_AVhx-GMNWykNUS_xmWXZlIpPJlUogP/pub) (Mio, NSFW, Fluff)
+[In which Korone beats her girlfriend's ass like a set of bongo drums](https://rentry.org/6x9haz) (Okayu, Korone, NSFW, Spanking)
+[Stacy Pacification](https://rentry.co/4qxy4d) (Suisei, Hoshikawa, Aqua, NSFW, Comedy, Greentext, Rivalry, Seduction, Under 5k)
+[Heaven, Hell and the USDA 1: Bottom on Bottom](https://rentry.org/HHatUSDA-1) (Towa, Kanata, Coco, NSFW)
+[Heaven, Hell and the USDA 2: Divine Intervention](https://rentry.org/HHatUSDA-2) (Towa, Kanata, Coco, NSFW)
+[Heaven, Hell, and the USDA 3: Fall and Rise](https://rentry.org/HHatUSDA-3) (Coco, Towa, Kanata, NSFW, BDSM)
+[Call of the Depths](https://docs.google.com/document/d/e/2PACX-1vStnbUPr7IbqS9a7mnLZkQcVDq4msxfnu9C3fIPMc-Ap2OO9GXzzXBjcdqzqi-VIOGJbSAWu7S4sqf_/pub) (Ame, Gura, Dark)
+[Bloody Knuckles](https://docs.google.com/document/d/e/2PACX-1vRpl_-xzzzd_zKhKHuin1W7yohNSlU5agrvXLvIeClxC94nMtQRUowg8tccojF5Su-t5hApy9QNftqX/pub) (Gura, SFW, Oneshot, Mental Illness, Self Destruction)
+[There Are Days That Last Forever](https://docs.google.com/document/d/e/2PACX-1vR3Fx6WkSppDfdZWvlhPUWiAWMQVgVHqX-ZON4tPr0hBYRsHgWrZLtaT-fiXp-InXFUiRJpg4Hge4mG/pub) (Towa, SFW, Fluff, Drama)
+[Fractured Night, Salvaged Night](https://docs.google.com/document/d/e/2PACX-1vSj6yWU8VmUutSSLm15OFv49EnABbYDkis8vYWkH5uEOpiPRBJCnZx_x0Txky2Z6DnN-soxnVpsaLlR/pub) (Iroha, SFW, Fluff, Christmas)
+[Kuro Christmas](https://docs.google.com/document/d/e/2PACX-1vTLL9O0hV2JGos0JZQqdKYrG3x8xPLTgWivGqKp_ufCQo1u_vkJK4GiCiTcCz5UgBrvX_sJO991Rqyg/pub) (Kurokami, SFW, Fluff)
+[Wait Till Midnight With Me](https://docs.google.com/document/d/e/2PACX-1vSRNFg7ZuBf6MgipmbkfE2fWYGQ6ahobXeXC8iahB--Z5gLvFyE9VrG1scNvh0l9TWQtxykbhQsi40k/pub) (Ina, SFW, Fluff)
+[Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) (Amelia, Kiara, SFW, Fluff)
+[Cooking and a Comet Epilogue - Azkui Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life)
+[The Laws](https://docs.google.com/document/d/e/2PACX-1vS-yyxYyGhktO6xKvDHe0_gGJQ-DW1WLsIhBZfthdopUfcJ3UVeol8V3GeTKrCSdX4rs_Omyi-epKB3/pub) (Myth, Amelia, SFW, Sci-Fi, Character Death)
+[The Right One](https://docs.google.com/document/d/e/2PACX-1vTY3ue84TxXIQo34Vl75bF2w7gk7OMMpUeQBvBowOZEm-Mrlv8qvWhOXWPytkKgeYS_s6GP-YCPohRx/pub) (Mori, SFW, Fluff, Romance)
+[Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) (Botan, NSFW, /ss/, Anal, Furry(?), Parody)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -679,6 +690,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Cooking for a Comet](https://docs.google.com/document/d/e/2PACX-1vRghRyG_2o_erBfWuUQofrwSH2OK6c2IbC3WboLoQ28rNphZNy0lPYdTzvRLWwIj98rrF_YHeD0BjaK/pub) (Suisei, SFW, Fluff)
 [Cooking With A Comet](https://docs.google.com/document/d/e/2PACX-1vQ2rupWDw01NHLwytEMCJn7pHIae1BhG8igWE8PcR-rK51xJGZwGMDPnpf7XJ9ej2S1WPjPAuifkwAQ/pub) (Suisei, SFW, Fluff) ^
 [Cooking and a Comet](https://docs.google.com/document/d/e/2PACX-1vRqqPcrZEfhcCe_T4AklinX34XOvut8XxtQhSUJ4I6Uc8ijq0rJ8KJvnlsdpnaZERnQCMlkvTENzi6w/pub) (Suisei, SFW, Fluff, Drama) ^
+[Cooking and a Comet Epilogue - Azkui Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life) ^
 [A Boatload Of Happiness](https://docs.google.com/document/d/e/2PACX-1vT2PITSonUfJzVVeH9Ca3aI33HbH3SX8chOAovxX578rIvk6MEdoMU0MldwZfpXe5DfchnPgINWcaTS/pub) (Ayame, SFW, Fluff)
 [Laplus and Lui Short](https://rentry.co/mzeoz) (Laplus, Lui, SFW, Fluff, Short)
 [Tickle Torture](https://rentry.co/mv6hh) (Iroha, Laplus, Lui, SFW?, short)

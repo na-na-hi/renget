@@ -1,6 +1,9 @@
 # Anime on Furry Models
 -> **Or: How I learned to stop worrying and take the knot** <-
 
+!!! info
+	a7-test Lyco is out but it is not recommended over a6
+
 [TOC2]
 
 *** 

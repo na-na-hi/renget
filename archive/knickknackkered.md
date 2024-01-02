@@ -1,5 +1,7 @@
 # KnickKnack's knick knacks
-Here to fuck around and make bots. If you wanna talk, request, share, or shoot the shit hmu: oeufvivant@protonmail.com
+Here to fuck around and make bots. [Sometimes I make logs too.](https://knickknack.neocities.org/logs)
+
+If you wanna talk, request, share, or shoot the shit hmu: oeufvivant@protonmail.com
 
 ***
 **Table of Contents**

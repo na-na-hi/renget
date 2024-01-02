@@ -12,7 +12,7 @@ Download
 https://archive.is/FqpTS
 The console editions (Switch, PSN, XBL, PC Gamepass) have some exclusive content.
 
-\>Character Birthdays | Hero - January 1
+\>Character Birthdays | Basil - February 18
 https://pbs.twimg.com/media/EujUrE5UUAUyxku.jpg:orig
 
 \>Fangames, Projects, and Etc

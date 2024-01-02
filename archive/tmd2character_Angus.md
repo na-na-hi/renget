@@ -30,7 +30,7 @@ Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Wing Attack | 6 BP | 4 AP | ≥2 | Flying | Physical | No secondary effect.
+Wing Attack | 6BP | 4 AP | ≥2 | Flying | Physical | No secondary effect.
 Leer | - | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Rock Tomb | 6BP | 6AP | ≥3 | Rock | Physical | The Opponent is Trapped.
 Hone Claws | - | 4 AP | ≥2 | Dark | Status | The User's Attack and Accuracy are increased by 1.

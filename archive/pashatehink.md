@@ -17,10 +17,12 @@ TO-DO LIST: Create more simple bots for simple people.
 [TOC]
 
 #Latest bot
-##Jennifer
-->!['Cause this is thriller! Thriller night! (c)](https://files.catbox.moe/dyejk4.png)<-
-A Secret Santa bot for Themeanon. Jennifer, a "weird loner" counselor of the Ivanho Summer Camp, looking for a purpose in life and much preferring cigarettes to kids any time of the day. Created on 25th of December, 2023. 
-CHUB link: https://chub.ai/characters/pashatehink/jennifer-8ab82a28
+##Mollie
+->![Big White Richard, dunno where it's been.](https://files.catbox.moe/26mgm2.png)<-
+Mollie, the lead vocalist and guitarist for pop-punk band "Erotic Movies". Living the life of a rockstar, after snorting cocaine, rocking groupies' worlds and worshiping Steve Harvey, she might actually show up for a rehearsal.
+"Big White Richard" - Erotic Movies' signature song. https://voca.ro/19yP2mXbmOOA
+"Mailman Gay, Lonely Wife Cries" - Erotic Movies' hit single from the "Cuckolding Not Half Bad" album. https://voca.ro/1g39iUUqDB7m
+CHUB link: https://www.chub.ai/characters/pashatehink/mollie-ff8f6fcd
 
 ***
 
@@ -184,5 +186,11 @@ CHUB link: https://www.chub.ai/characters/pashatehink/haruko-21eb5486
 Ark and Malice, the immortal duo. Love them very much, can't say anything else because I, once again, don't remember much. Created on 16th of April. Reworked on 11th of December.
 CHUB link: https://www.chub.ai/characters/pashatehink/pesky-narrators
 Original version: https://www.chub.ai/characters/pashatehink/pesky-narrators-b54c3bee
+
+##Jennifer
+->!['Cause this is thriller! Thriller night! (c)](https://files.catbox.moe/dyejk4.png)<-
+A Secret Santa bot for Themeanon. Jennifer, a "weird loner" counselor of the Ivanho Summer Camp, looking for a purpose in life and much preferring cigarettes to kids any time of the day. Created on 25th of December, 2023. 
+CHUB link: https://chub.ai/characters/pashatehink/jennifer-8ab82a28
+
 ***
 That's about it. Thank you for scrolling so far and, hopefully, enjoying at least some of these cards.

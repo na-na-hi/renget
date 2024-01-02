@@ -86,7 +86,7 @@ Tarot cards
 >Overhead Shot
 >Aerial Shot
 
-## Eastern Retro Artists (70s - 90s)
+## Eastern Retro Artists (70s - 90s) (with thanks to /a/non)
 If you use any of these artist prompts, please provide feedback on how strongly the AI recognizes and recreates their style. Mileage will vary. 
 
 70s-80s
@@ -113,3 +113,77 @@ If you use any of these artist prompts, please provide feedback on how strongly 
 >vampire hunder d: bloodlist
 >escaflowne motion picture / a girl in gaia
 >jin roh the wolf brigade (modern near future scifi)
+
+## Guns, Guns, Guns (with thanks to /k/anon)
+What gun prompts yield in Bing. As usual, mileage may vary with style.
+
+>the actual gun or close enough, enough of the time
+Holding a m1911
+holding a Glock 17
+Holding a glock18
+holding a ak47
+holding a AR15
+Holding a M16
+Holding a M4A1
+
+>Random long gun:
+holding a vintorez
+holding a barret rifle
+holding a Soviet Sniper Rifle
+holding a SPAS12
+
+>Holding a random Rifle:
+holding a Steyr AUG
+holding a M249 LMG
+holding a galil
+holding a f2000
+holding a mosin nagant rifle
+
+>holding a random shotgun (not sawed off)
+holding a sawnoff shotgun
+
+>holding a scifi long gun
+holding a aLIENS Pulse Rifle
+M41A Pulse Rifle
+holding a german machinegun
+
+>Holding an AK
+holding a mosin nagant
+holding a Soviet Rifle
+
+>holding a random assault rifle
+holding a M60
+holding a M249 LMG
+holding a M249 Machinegun
+holding a M2 Browning
+holding a MG42
+holding a bullpup rifle (does not give you a bullpup gun)
+holding a IMI UZI
+holding a FAMAS
+holding a MP5 (sometimes an smg)
+holding a M1 Garand
+
+>Holding a random pistol:
+holding a DEAGLE
+holding a Taurus Judge
+holding a Thompson
+Holding random gun
+holding a FN SCAR
+holding a IWI Tavor
+holding a minigun
+holding a gatling gun
+holding a G36
+holding a thompson smg
+holding a MP40
+holding a cz75
+holding a FN FAL
+holding a MAC10
+holding a LUGER
+holding a PDW
+holding a PD@
+
+>Weird Results:
+holding a desert eagle
+holding a barret
+holding a german submachinegun
+holding a M249 SAW,

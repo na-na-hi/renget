@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-01==
+# /aicg/ chronicles, up to ==2024-01-02==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -899,6 +899,11 @@ When | Where | What
 When | Where | What
 -|-|-
 2024-01-01|[98192836](https://desuarchive.org/g/thread/98191454#98192836)| anon probes about a utilities server for embedding into chats
+2023-01-01|[98199283](https://desuarchive.org/g/thread/98196714#98199283)| NYT vs OAI proceedings highlight some specifics of OAI's dataset
+2023-01-02|[98208280](https://desuarchive.org/g/thread/98207766#98208280)| anon continues to claim to be working on a new frontend out of dislike of Silly
+2023-01-02|[98208346](https://desuarchive.org/g/thread/98207766#98208346)| somebody is making a Silly extension that combines Summary + Smart Context + Objectives
+2023-01-02|[98209588](https://desuarchive.org/g/thread/98207766#98209588)| songs generating app with free trial app\.suno\.ai is brought to attention, enjoyed by all
+2023-01-02|[98212873](https://desuarchive.org/g/thread/98210963#98212873)| anon estimates "over half a million in GPT4 usage by a single proxy  over a month or two", asks not to quote him on this
 -|-|-
 
 [](you have found my secret stash of nothing!)

@@ -13,31 +13,39 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 !!! warning The ranking is being updated slowly because we noticed a flaw with our methodology. Our scoring system did allow us to discern good models, from decent models, from bad models. However, with better models coming out one after the other, we've noticed that it doesn't allow us to discern very good models from amazing models. With the release of LLaMA-2 and its finetunes, we've decided that we needed to change the way we score models because these are so good that we wouldn't be able to score them fairly using our current scoring system. So while our methodology is being reworked, our current 7B, 13B model, and LoRA recommendations are:
 
 	- 7B:
-	[airoboros-mistral2.2-7b](https://huggingface.co/teknium/airoboros-mistral2.2-7b) <- AliCat's new favorite 7B model, good all-rounder. Since it's a mistral model, it also feels refreshing.
-	[airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
-	[airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
+		- [airoboros-mistral2.2-7b](https://huggingface.co/teknium/airoboros-mistral2.2-7b) <- AliCat's and Trappu's new favorite 7B model, good all-rounder. Since it's a mistral model, it also feels refreshing.
+		- [airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
+		- [airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
+		- [Mistral-7B-claude-chat](https://huggingface.co/Norquinal/Mistral-7B-claude-chat) <- Mistral generally outperforms LLaMA-2-7B
+	
+	- 10.7B:
+		- **[SOLAR-10.7B-Instruct-v1.0-uncensored](https://huggingface.co/w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored) <-Trappu's favorite non-Mixtral model. Suffers slightly from censorship.**
+	
 	- 13B:
-	[PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
-	[LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
-	[LLaMA2-13B-TiefighterLR](https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR) <- Another one of AliCat's favorites for Adventure models. Has a lot of Tiefighter's qualities, but has less "plot-armor" bias. Is also good at RP and chat, but has a different flavor to Tiefighter.
-	[WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
-	[airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
-	[airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.
-	[Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
-	[MythoMax-L2-13B-GPTQ](https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ) <- AMAZING SFW but struggles with NSFW, goes great with the Kimiko lora.
-	[Spring-Dragon-GPTQ](https://huggingface.co/TheBloke/Spring-Dragon-GPTQ) <- Special model, made for adventure style roleplay (AI Dungeon).
-	[LlongOrca-13B-16K-GPTQ](https://huggingface.co/TheBloke/LlongOrca-13B-16K-GPTQ) <- Not as good as the other models on this list, but the best Llong model I (Trappu) have been able to try, not bad even at max context size.
+		- [PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
+		- [LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
+		- [LLaMA2-13B-TiefighterLR](https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR) <- Another one of AliCat's favorites for Adventure models. Has a lot of Tiefighter's qualities, but has less "plot-armor" bias. Is also good at RP and chat, but has a different flavor to Tiefighter.
+		- [WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)
+		- [airoboros-l2-13b-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-2.0-GPTQ) <- for chatting.
+		- [airoboros-l2-13b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-13b-gpt4-m2.0-GPTQ) <- for RP.
+		- [Nous-Hermes-Llama2-GPTQ](https://huggingface.co/TheBloke/Nous-Hermes-Llama2-GPTQ)
+		- [MythoMax-L2-13B-GPTQ](https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ) <- AMAZING SFW but struggles with NSFW, goes great with the Kimiko lora.
+		- [Spring-Dragon-GPTQ](https://huggingface.co/TheBloke/Spring-Dragon-GPTQ) <- Special model, made for adventure style roleplay (AI Dungeon).
+		- [LlongOrca-13B-16K-GPTQ](https://huggingface.co/TheBloke/LlongOrca-13B-16K-GPTQ) <- Not as good as the other models on this list, but the best Llong model I (Trappu) have been able to try, not bad even at max context size.
+	
 	- LoRAs:
-	[Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B) <- More verbose, easier to do NSFW.
-	[limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2) <- More verbose, easier to do NSFW.
-	[Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
-	[spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
+		- [Kimiko 7B](https://huggingface.co/nRuaif/Kimiko_7B) - [Kimiko 13B](https://huggingface.co/nRuaif/Kimiko_13B) <- More verbose, easier to do NSFW.
+		- [limarp-llama2 for 7B and 13B](https://huggingface.co/lemonilia/limarp-llama2) <- More verbose, easier to do NSFW.
+		- [Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA) <- The name is self-explanatory.
+		- [spring-dragon-qlora](https://huggingface.co/Henk717/spring-dragon-qlora) <- Makes your model more verbose and descriptive, allows it to do adventure style roleplay better.
+	
 	- 20B:
-	[Rose-20B](https://huggingface.co/tavtav/Rose-20B) <- Amazing ERP and a great overall model. As a warning, it may turn SFW scenarios/situations into NSFW (which some people will find as a bonus).
-	[Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
+		- [Rose-20B](https://huggingface.co/tavtav/Rose-20B) <- Amazing ERP and a great overall model. As a warning, it may turn SFW scenarios/situations into NSFW (which some people will find as a bonus).
+		- [Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
+	
 	- Mixtral 8x7b:
-	**[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- AliCat's current all time favorite model. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. This is currently my goto and the only model I really use at the moment.**
-	[Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices, if not the best choice for under 24GB VRAM. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship.
+		- **[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- AliCat's current all time favorite model. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. This is currently my goto and the only model I really use at the moment.**
+		- [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices, if not the best choice for under 24GB VRAM. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship.
 	
 ***
 #Leaderboard

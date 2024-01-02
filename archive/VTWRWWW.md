@@ -67,7 +67,7 @@ Here will be everything submitted for the contest during the submission period. 
 
 ####SFW Archive
 [There Are Days That Last Forever.](https://docs.google.com/document/d/e/2PACX-1vR3Fx6WkSppDfdZWvlhPUWiAWMQVgVHqX-ZON4tPr0hBYRsHgWrZLtaT-fiXp-InXFUiRJpg4Hge4mG/pub)  Tokoyami Towa, **Fluff, Drama, SFW**
-[Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) **SFW**, Amelia Watson, Takanashi Kiara, **Fluff**, Amelia Watson/(You)
+[Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) **SFW**, Amelia Watson, Takanashi Kiara, **Fluff**, Amelia Watson/(You) **Untagged under 5k**
 [The right one](https://docs.google.com/document/d/e/2PACX-1vTY3ue84TxXIQo34Vl75bF2w7gk7OMMpUeQBvBowOZEm-Mrlv8qvWhOXWPytkKgeYS_s6GP-YCPohRx/pub) Calliope Mori, **SFW, Fluff,** Romance
 
 ####NSFW Archive

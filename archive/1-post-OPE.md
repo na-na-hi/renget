@@ -9,18 +9,18 @@ For the 211th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
+\>Streams
+Next stream (Lethal Company Advent collab, Tue 01/02 8PM CT)
+https://www.youtube.com/watch?v=eG9tE3v7lfA
+Recent appearances
+Koyori's channel: Koyori VS Advent collab: https://www.youtube.com/watch?v=imAoF0-T9W8&t=3280s
+Cameo at the end of her Christmas karaoke rebroadcast: https://streamable.com/mpv502
+Previous stream (Welcoming 2024 with Nerissa)
+https://www.youtube.com/watch?v=GjMUUcBtw38
+
 \>Nerissa's hololive New Year's Holiday Date Voice Packs
 ~Closing Off 2023~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492
 ~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
-
-\>Streams
-Likely upcoming streams
-Tue 01/02 2:30PM CT, Koyori's channel: Koyori VS Advent collab
-Tue 01/02 8PM CT, own channel: Lethal Company Advent collab
-Last stream (Welcoming 2024 with Nerissa)
-https://www.youtube.com/watch?v=GjMUUcBtw38
-Previous appearance (Kiara's channel: Advent Outfit Design collab with Kiara, Ina & Shiori)
-https://www.youtube.com/watch?v=nkXQd7R0B8w
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
@@ -61,7 +61,7 @@ Previous thread: >>65752856
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule: TBD
+!!!warning Second OP Post - Tag schedule: TBA, ETA 01/21
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -88,3 +88,5 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
+Remember to vote on December's top streams if you haven't already.
+https://forms.gle/NmsWo9bDFenobabi8

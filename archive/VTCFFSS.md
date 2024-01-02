@@ -412,6 +412,7 @@
 [First Train and Kafka: Stop 20](https://docs.google.com/document/d/e/2PACX-1vQZl6I-lkXLD9Wv8qnd7q-wquTwhxTcSz7RlBuBuj3sXcWBy8pe7tmRKxycrkrObo5y1FrWLF5x9UTZ/pub) (anthology series, (you), Suisei, underage sex)
 [First Train and Kafka Stop Twenty Seven: Doll of Building Blocks](https://docs.google.com/document/d/e/2PACX-1vQf7GEqqCB8ufcXRU72Utag8HMZ5o57_aoQn3vti5vfIXX21uI6dwqOy0de4ci57pQWdyzosmHio0rb/pub) (Civia, incest, MDLB, light omorashi, breastfeeding, underage)
 [First Train and Kafka Stop Twenty Four: P.E.T.](https://docs.google.com/document/d/e/2PACX-1vSW_Gukrt6pzriGUWgcmEsKfL1Tep7CfhnKBQpMRff1MBd7mwAoHLN7zNLec5dN8VcQMFp_oMLIPSKh/pub) (Iofi, NSFW, Molestation)
+[First Train and Kafka Stop Twenty Five: The Mousetrap Part One](https://docs.google.com/document/d/e/2PACX-1vQ2MpXHXtN1v94ahNqZJvA0RP0hZ7N4GvyC2dgnSi2pu9pLDiMINsN0LLFylHCC4QSaOyKkqIhTW6dC/pub) (Marine, NSFW, Grooming, Masturbation)
 
 #####->*Your Time Is Gonna "Come"*<-
 >Kronii has always been wiping the floor with you anytime she catches you doing your time-travelling shenanigans, but after getting a random helping hand, you're thinking you can do something about her smug attitude and her alarmingly juicy tittes and booty.
@@ -588,6 +589,7 @@
 [Blackbean Chapter 3](https://docs.google.com/document/d/e/2PACX-1vR3hp5NUBmlnqe49pHnfHg0Uvpn2v1yRq-xZpGQdsp38xOiFMTLes2FbAlPsXObjbZOyrMMX7_nBzCI/pub) (Botan, Fubuki, Towa, Shiori, Fantasy)
 [Blackbean Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSmIDLIncIDZn8Cp8bObaT9KHSljsQzxrLRbx3nHazaip5EigKCtt4fhZdLccmI7tmf6PqKVX9WS0yJ/pub) (Towa, Botan, Watame, Shiori, Mio, Fubuki, Fantasy)
 [Blackbean Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQ-ZnsyLs-jm-5qWWeOKxOYXprky0o2VewzwPxc397ROw3u3eqJAAryzaze_zGdiqW1jKccyF7WsgpF/pub) (Towa, Botan, Mio, Fubuki, Fantasy)
+[Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
 
 ##### -> Apple of Her Eye <-
 >Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.

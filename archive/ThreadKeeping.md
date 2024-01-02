@@ -45,7 +45,6 @@ Further Explanation: >>91282906
 Page 2
 ***
 ```
->>91362517
 >Jedi
 Netra
 >>91367540
@@ -298,7 +297,7 @@ Sandatsu Art:
 >>91405875
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
-archive.4plebs.org/tg/thread/90806343/
+https://archive.4plebs.org/tg/thread/91394871/
 
 >CHARACTER PROMPTS (feel free to answer these whenever)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp

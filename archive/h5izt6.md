@@ -1318,20 +1318,20 @@ A faint voice suddenly echoed in their minds.
 
 Dozens of voices flooded their thoughts at once.
 
-Buruburu: **<Keep fighting, Shit-ketsu! We're with you!>**
-Kinji: **<You made us a promise. We'll get through this together.>**
-Bubblegum: **<You fought for us, so we're fighting for you!>**
+Buruburu: **<"Keep fighting, Shit-ketsu! We're with you!">**
+Kinji: **<"You made us a promise. We'll get through this together.">**
+Bubblegum: **<"You fought for us, so we're fighting for you!">**
 
 Inigo and Christopher slowly struggled to their feet. Their friends were with them, even from afar, they were still fighting.
 
-Raijin: **<We all believe in you. Don't give up!>**
-Kaylee: **<I won my fight, so you better win yours!>**
+Raijin: **<"We all believe in you. Don't give up!">**
+Kaylee: **<"I won my fight, so you better win yours!">**
 
 They could hear cheers from Tsuga's quirk. Dozens of voices ringing out at once.
 
-Chihiro: **<Have courage.>**
-Random Student 5: **<You can do it!>**
-Fight Man: **<GANBATTE!!!!>**
+Chihiro: **<"Have courage.">**
+Random Student 5: **<"You can do it!">**
+Fight Man: **<"GANBATTE!!!!">**
 
 ![Double Dragon](https://i.imgur.com/0Kmp9so.png)
 
@@ -1344,8 +1344,8 @@ They exchanged a determined look. Inigo and Christopher shrugged.
 "I know, right?" Inigo grinned. "Guess we have no choice."
 
 **<Everyone->**
-**"WE WON'T GIVE UP!"**
-**"WE'LL GO DOWN FIGHTING!"**
+**<"WE WON'T GIVE UP!">**
+**<"WE'LL GO DOWN FIGHTING!">**
 
  Inigo and Christopher charged forward, emerald and ebony wings bursting from their backs.
 
