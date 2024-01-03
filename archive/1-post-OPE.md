@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: TBA, likely on Kiara's channel
+Next appearance: TBA, likely on Kiara's channel
+Next stream: TBA, likely the New Year Outfit reveal
 Previous stream (Lethal Company Advent collab)
 https://www.youtube.com/watch?v=eG9tE3v7lfA
 Recent appearances

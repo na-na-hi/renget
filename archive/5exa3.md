@@ -1,8 +1,9 @@
 # Anime on Furry Models
 -> **Or: How I learned to stop worrying and take the knot** <-
 
-!!! info
+!!! info  NEWS:
 	- a7-test Lyco is out but it is not recommended over a6
+		- test 2 is in the huggingface page but there is no notes on it
 	- ZSNR noise scheduler added to dev branch but it has issues with karras and working under 30 steps
 
 [TOC2]

@@ -28,7 +28,7 @@ You probably should be using [Mod Organizer 2](https://github.com/ModOrganizer2/
 [VR Weapon Overhaul](https://www.nexusmods.com/fallout4/mods/64610) - Fixes for See Through Scopes on a lot of mods
 [Kabuto VR](https://www.nexusmods.com/fallout4/mods/35909) - Adds immersive power helmets
 [Binaural 3D Surround Sound](https://www.nexusmods.com/fallout4/mods/39692/) - Decent spatial audio
-[VR Perfkit](https://github.com/fholger/vrperfkit), [Reshade](https://www.nexusmods.com/skyrimspecialedition/mods/46999), or [Fallout 4 Upscaler VR](https://www.nexusmods.com/fallout4/mods/73715) - Individually or in some combination, for sharpening and upscaling, and better anti aliasing if you need. The game is pretty blurry by default.
+[VR Perfkit](https://github.com/fholger/vrperfkit), [Reshade](https://www.nexusmods.com/skyrimspecialedition/mods/46999), or [Fallout 4 Upscaler VR](https://www.nexusmods.com/fallout4/mods/73715) - Individually or in some combination, for sharpening, upscaling, and better anti aliasing if you need. The game is pretty blurry by default so at least sharpening is nice.
 
 ##Also Consider:
 [Fallout 4 VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961) - Adjusts settings based on your framerate. Can help in areas like Corvega or downtown Boston.
@@ -36,21 +36,23 @@ You probably should be using [Mod Organizer 2](https://github.com/ModOrganizer2/
 [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) - All in one lighting and weather improvements without killing compatibility or performance. Darker interiors make the above mod matter more.
 [Generating LODs](https://www.nexusmods.com/fallout4/articles/4162) - Being able to see in the distance well really helps with immersion
 [Bullet Time VR](https://www.nexusmods.com/fallout4/mods/72502) - If you really don't like VATS. Allows (most) VATS perks to still work.
+[Optimized Vanilla Textures](https://www.nexusmods.com/fallout4/mods/1204) or [Low-End Textures](https://www.nexusmods.com/fallout4/mods/68112/) - If you are hurting for VRAM.
 
 ##ini Tweaks:
 In Documents\My Games\Fallout4VR consider editing Fallout4Custom.ini
+Tweak these numbers to your liking to have decent recoil and give yourself a reason to two hand weapons with FRIK.
 >\[VR\]
 >fRecoilMaxHorizDeg=3
 >fRecoilMaxVertDeg=100
 >fRecoilVertMultiplier=2.00
-Tweak the numbers to your liking to have decent recoil and give yourself a reason to two hand weapons with FRIK.
+To move in the direction your head is facing
 >\[VRInput\]
 >bUseWandDirectionalMovement=0
-To move in the direction your head is facing
+To make your HUD not blurry on high res headsets
 >\[VRUI\]
 >iVRUIRenderTargetHeight=4096
 >iVRUIRenderTargetWidth=4096
-To make your HUD not blurry on high res headsets
+To make hair not glow
 >\[HairLighting\]
 >fHairPrimSpecPow=2.0
 >fHairPrimSpecScale=0.01
@@ -58,16 +60,19 @@ To make your HUD not blurry on high res headsets
 >fHairSecSpecScale=0.01
 >fHairSecSpecPow=2.0
 >fHairSecSpecShift=0.26
-To make hair not glow
+To make TAA less blurry
 >\[Display\]
 >fTAAPostOverlay=0.675
 >fTAAPostSharpen=0.675
 >fTAASharpen=1.0000
 >fTAAHighFreq=0.8000
 >fTAALowFreq=0.5000
-To make TAA less blurry
 
-##FormID issue for mods released after November 2019: 
-https://www.reddit.com/r/fo4vr/comments/14d6nbb/psa_be_careful_downloading_mods_updatedreleased/
+##Compatibility:
+Unlike Skyrim VR, Fallout 4 VR doesn't have ENB. There is no support for .esl files either. Any .esl plugins need to be renamed to .esp if you want to load them.
+ 
+Mods made after the November 2019 update might have issues with overwriting base game records. If you are installing newer .esp mods I would recommend running [xEdit 4.0.4](https://github.com/TES5Edit/TES5Edit/releases/tag/xedit-4.0.4) with the -IgnoreESL flag. After everything loads, look for the error "is being overridden by record". If you find plugins that report the error, run [xEdit 4.0.3](https://github.com/TES5Edit/TES5Edit/releases/tag/xedit-4.0.3). Then right click the offending plugins, click "Renumber formIDs from", and type in "800". After that save your changes. Mods that rely on the edited plugins won't work anymore. None of the mods in this guide have this issue.
+
+F4SE plugins need to be either be NG plugins (ie Buffout NG) or specifically compiled for VR. This means that XDI and mods that require it (Fallout London ;_;) won't work in VR. 
 
 Ask questions in /vrg/

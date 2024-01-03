@@ -21,9 +21,9 @@ Both front-ends are good in their respective ways, this guide favors SillyTavern
 
 Instructions (Download SillyTavern) |  ‎ 
 - | :-: 
-Chose which SillyTavern variant you want from either branch - [Main](https://github.com/Cohee1207/SillyTavern) or [Development](https://github.com/Cohee1207/SillyTavern/tree/dev). |  |
+Chose which SillyTavern variant you want from either branch - [Release](https://github.com/SillyTavern/SillyTavern) or [Staging](https://github.com/SillyTavern/SillyTavern/tree/staging). |  |
 Click on the large green button **Code** > **Download Zip**.  | 
-Open and extract the downloaded file into a desired location on your computer. (*SillyTavern-main.zip* **or** *SillyTavern-dev.zip*) - You'll now have either **SillyTavern-Main** or **SillyTavern-Dev** folder on your computer. You can rename this folder to whatever you want. Now all you need to make it run, is it's prerequisite, Node.js. 
+Open and extract the downloaded file into a desired location on your computer. (*SillyTavern-release.zip* **or** *SillyTavern-staging.zip*) - You'll now have either **SillyTavern-release** or **SillyTavern-staging** folder on your computer. You can rename this folder to whatever you want. Now all you need to make it run, is it's prerequisite, Node.js. 
 
 ***
 -> *Visual Aid* - *"Download"*<- | ->*Visual Aid* - *"Extract"*<- 
@@ -47,7 +47,7 @@ To start SillyTavern, simply run **Start.bat** in SillyTavern folder. This opens
 #### Quick Install - SillyTavern
 Step # | Quick Install - Manual
 :-: | -
-1 | Download SillyTavern [Main](https://github.com/Cohee1207/SillyTavern/tree/main) or [Dev](https://github.com/Cohee1207/SillyTavern/tree/dev) branch
+1 | Download SillyTavern [release](https://github.com/SillyTavern/SillyTavern/tree/release) or [staging](https://github.com/SillyTavern/SillyTavern/tree/staging) branch
 2 | Install [Node.js](https://nodejs.org/en), LTS or Current. Remember to tick Chocolatey during installation.
 3 | Run SillyTavern w/ **Start.bat**.
 
@@ -55,8 +55,8 @@ Step # | Quick Install - Git
 :-: | -
 1 | Install [Node.js](https://nodejs.org/en), LTS or Current. Remember to tick Chocolatey during installation.
 2 | Run Command Prompt, Navigate to folder you want SillyTavern in eg. `cd c:\user\CunnyChamp\`.
-3 | Git command for Main branch: `git clone https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
-3.5 | Git command for Dev branch: `git clone -b dev https://github.com/Cohee1207/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
+3 | Git command for release branch: `git clone https://github.com/SillyTavern/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
+3.5 | Git command for staging branch: `git clone -b staging https://github.com/SillyTavern/SillyTavern.git SillyTavern && cd SillyTavern && ci Install` 
 4 | Start SillyTavern w/ **Start.bat**, located in SillyTavern Directory.
 
 ***
@@ -70,8 +70,8 @@ Instructions | Images
 Download and install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/). | [Look for **Download APK**.](https://i.imgur.com/YSlaerm.png)
 `pkg up -y` enter y whenever prompted | [Console image](https://i.imgur.com/g8VwOo5.jpg) 
 `pkg install openssl nodejs git -y` | [Console image](https://i.imgur.com/4g7WACL.jpg)
-`git clone https://github.com/Cohee1207/SillyTavern.git silly` - for Main branch | [Console image](https://i.imgur.com/FQNgIwU.jpg)
-`git clone -b dev https://github.com/Cohee1207/SillyTavern.git silly` - for Dev branch |  [Console Image](https://i.imgur.com/uMnImZk.png)
+`git clone https://github.com/SillyTavern/SillyTavern.git silly` - for release branch | [Console image](https://i.imgur.com/FQNgIwU.jpg)
+`git clone -b staging https://github.com/SillyTavern/SillyTavern.git silly` - for staging branch |  [Console Image](https://i.imgur.com/uMnImZk.png)
 `cd silly && npm install` | [Console image](https://i.imgur.com/P74WTea.jpg)
 Run with: `node server.js` | [Console image](https://i.imgur.com/mBCrTH9.jpg)
 To stop Tavern, press ctrl+c in termux. You can exit termux from the persistent notification or with ctrl+d. 
@@ -89,8 +89,8 @@ Updating Silly | ‎
 - | :-
 You can update silly (*branch doesn't matter*) by running the following commands: | 
 `cd silly && git stash && git pull`  | Selects "silly" folder, save local changes, updates.
-You switch to dev build w/ following commands | 
-`git checkout dev && git pull` You can switch back to main w/ `git checkout main`
+You switch to staging build w/ following commands | 
+`git checkout staging && git pull` You can switch back to release w/ `git checkout release`
 Sometimes Tavern might need to re-install dependencies when updated, if so run:   `npm install` in silly directory. | 
 !!! note
     ->The **&&** symbol is a command separator that allows you to run commands on either side. If you prefer to execute commands one at a time, you can run each command between **&&** as a standalone command.<-
@@ -303,6 +303,8 @@ Temperature | Frequency Penalty  | Presence Penalty
 
 ***
 Updates:
+01/03/24: Quickly changed the main/dev mentions/link to use release/staging. Find and Replace. Hopefully nothing got fucked.
+16/12: No update, just restored a backup as "[Aicg4Retards](Rentry.org/aicg4retards)" have been deleted(?)
 06/24: Rewrote some 'incorrect' parts. Replaced AI with LLM, which is a more accurate term.
 05/10: Massive overhaul, Agnai Guide, Cunny Appreciation and Lots of Rewrites.
 05/02: Typos, rewrote some things, streaming + Proxy updates and rewrite and Contact information.

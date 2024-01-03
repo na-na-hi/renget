@@ -222,7 +222,7 @@ Inigo scowled and scooted a few seats down, rubbing his sore arm. Rebecca resume
 
 Inigo and Christopher exchanged looks and kept eating quietly.
 
-After polishing off his ramen, Toru let out a satisfied belch and slapped some bills onto the counter. "Thanks again for the help earlier. You're good kids, you better not let me catch you starting trouble," he said gruffly, giving Inigo and Christopher each a fist bump. "Study hard so you don't end up in a dead-end job like me, you hear? And find a nice gym, and learn martial arts or something."
+After polishing off his ramen, Toru let out a satisfied belch and slapped some bills onto the counter. "Thanks again for the help earlier. You're good kids, you better not let me catch you starting trouble," he said gruffly, giving Inigo and Christopher each a fist bump. "Find something to be passionate about so you don't end up in a dead-end job like me, you hear? Find a nice gym, and learn martial arts or something."
 
 Inigo and Christopher nodded with mouths of full ramen noodles. 
 

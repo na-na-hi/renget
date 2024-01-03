@@ -3,8 +3,8 @@
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [Link to the whole MEGA Folder](https://mega.nz/folder/RvkmWCyA#VA_EjRU-1Mb6g9zNXKR3sg)
 
-**==LAST UPDATED:==** 30/12/23 [>[CHANGELOG]<](https://rentry.co/uvkrso)
-**==CURRENT BETA VERSION:== 2.0 v.0** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=20) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-2-0/?lang=EN)
+**==LAST UPDATED:==** 03/01/24 [>[CHANGELOG]<](https://rentry.co/uvkrso)
+**==CURRENT BETA VERSION:== 2.0 v.1** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=20) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-2-0/?lang=EN)
 !!! note
     If you have any questions, suggestions to improve the rentry, or if you notice any errors or missing information, please send them to my [Retrospring](https://retrospring.net/@erikahhrna), and I'll try to answer as quickly as I can! 
     

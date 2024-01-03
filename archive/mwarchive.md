@@ -12,7 +12,7 @@ Archived /mwg/ meme images from threads.  Every /mwg/ meme is included, no matte
 
 Removals : Images that depict child pornography, real photographs of death and gore, signed artworks, personally identifiable information or copyrighted material not permitted under fair use doctrine are removed. Image removal requests can be submitted in any /mwg/ thread, mention the word archive in your request.
 
-Likewise, general non-ai meme reactions, infographics, duplicates and non related are removed, pngs are converted to jpg.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived.moe.
+Likewise, generic low-effort or non-ai memes and reactions, infographics, duplicates and non related are removed, pngs are converted to jpg.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived.moe.
 
 - September Archive - 250 MB - 1,500 images
 - https://pixeldrain.com/u/A6Kik3zt

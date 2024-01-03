@@ -158,3 +158,10 @@ artist:gomennasai, artist:hero neisan, artist:stanley lau,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/kpc9pk.png) | ![](https://files.catbox.moe/aeozcx.png) | ![](https://files.catbox.moe/96sy14.png) | ![](https://files.catbox.moe/t2gqs2.png)
+
+``` html
+artist:atte nanakusa, artist:goto-p, artist:kedama milk, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/e9znhb.png) | ![](https://files.catbox.moe/x54gge.png) | ![](https://files.catbox.moe/9vhoti.png) | ![](https://files.catbox.moe/sok9qw.png)

@@ -190,6 +190,7 @@
 
 *Honorable Mentions*
 • Juzear Limpid - $25
+• Faaeal
 • ivipQ
 • Kinera
 • OpenHeart

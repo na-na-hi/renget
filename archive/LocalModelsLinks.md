@@ -15,7 +15,7 @@
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
 | 
 [Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[Ayumi ERP Benchmark](http://ayumi.m8geil.de/index.html)|Ranks models by how well they adhere to character cards, as well as lewd word variety/amount
+[Wolfram LLM Comparisons](https://old.reddit.com/user/WolframRavenwolf/submitted/?sort=new)|Tests translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|

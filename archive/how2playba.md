@@ -698,13 +698,13 @@ No.
 
 >When is a good time to start? 
 The best time to start was yesterday, the second best time to start is right now. This holds true for any bonsai game. 
-If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later.
+If you're playing the game for a specific girl, I'd still suggest playing now even if she's limited. Better to find out if you like the game now than wait and be disappointed later. You also get more time to farm a spark. 
 
 >How grindy is BA? 
 It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just do your dailies and log off. Dailies can take 5-10 minutes. 
 From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. The sweep mechanic helps a lot in this regard.
 
-You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping out on. 
+You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping it. 
 
 >How do you choose your student wife
 You don't choose her. She chooses you. 

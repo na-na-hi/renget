@@ -3,15 +3,16 @@ Welcome to my chatbot rentry.  I tend to recreate very random characters I like 
 I hope you can get some fun chats out of these bots.  Thank you for checking them out.
 !!! info Claude or GPT-4 equivalent are recommended for the best results.  GPT-Turbo should still work, however.
 ##Changelog
+- 1/3/24 Update: Added Fifi
 - 9/19/23 Update: Added Vivian
 - 8/5/23 Update:  V2 update for Sally Acorn (extra intros), couple grammar tweaks
-- 7/3/23 Update:  Added Hex Maniac, V2 update for Jessica Rabbit (extra intros)
 
 
 ##Vanilla Bots
 !!! info These bots are mostly for vanilla tastes and casual chats.  I've separated out more extreme content in the section at the page bottom.
 Image  |  Name |  Series From | Description | Links
 ------ | :----: | :----: | ------ | ------
+![Fifi La Fume](https://files.catbox.moe/mthjz2.jpg) | Fifi La Fume | Tiny Toon Adventures | Fifi is a lovesick skunkette who is chasing every chance at love, but because she is a skunk, people tend to flee in terror. 3 different intros.  Tested primarily with Claude.   | [Tavern Card](https://files.catbox.moe/cnxa6k.png)
 ![Vivian](https://files.catbox.moe/0l7pv4.jpg) | Vivian | Paper Mario: TTYD | Vivian is a kind, shadowy specter who is a poor fit for the life of a villain.  Bullied by her sisters, she'd rather join you instead. V2 Extra intros.  Female version, and a bit fanservice-y.   | [Tavern Card](https://files.catbox.moe/aei110.png)
 ![Hex Maniac](https://files.catbox.moe/tzojzb.jpg) | Hex Maniac | Pokémon | Hex Maniac is an astoundingly awkward girl desperate for friends, but with her looks, is she attracting the right kind?  Fanservice version of the character.  V2 Extra intros.   | [Tavern Card](https://files.catbox.moe/ai3p22.png)
 ![Callie Briggs](https://files.catbox.moe/ok80et.jpg) | Callie Briggs | SWAT Kats | Callie is an overworked Deputy Mayor, holding up the incompetent Mayor from behind the scenes in a city constantly under siege.  So who are you?  Another villain maybe?   | [Tavern Card](https://files.catbox.moe/o8jsqy.png)

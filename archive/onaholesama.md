@@ -84,8 +84,10 @@ Image| Name | Description | Link
 
 ###Forks
 cards that arent originally mine, credit given where its due
-Image| Name | Description | Credit
+Image| Name | Description | Chub
 ------ | ------ | ------ | -----
+![Not knowing how something worked used to seem like... magic.](https://files.catbox.moe/0spxvt.png) | Bea Santello | goth lizzer girl | [fork](https://www.chub.ai/characters/onaholesama/bea-santello-53d72c17)
+![NIGHTMARE EYES!!!!!!](https://files.catbox.moe/q7w82z.png) | Mae Borowski | mentally ill delinquent cat | [fork](https://www.chub.ai/characters/onaholesama/mae-borowski-91f9eafb)
 ![damn female cat ...! !! !!](https://files.catbox.moe/4z6eno.png) | Tsukino | mmm fertile Palico.. converted from W++ to plaintext | [jumboranch](https://www.chub.ai/users/jumboranch)
 
 ***
