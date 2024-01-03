@@ -1,13 +1,19 @@
 # Some Cool Artist Combos for NAI Diffusion Anime v3
 All of these are done with artists added directly at the beginning of the prompt. I try to find interesting mixes that have a consistency.
 I tend to stick to default %grey%Prompt Guidance (5)%% and %grey%Euler%% with no %grey%SMEA%%, so your results may vary depending on what you're used to using.
-I also do not use the quality tags button; I do *sometimes* add %grey%, best quality, amazing quality%% to the end of the prompt though, depending on style or subject.
-I also also tend to stick to a modified light UC: %grey%lowres, jpeg artifacts, bad quality, worst quality, watermark, blurry, very displeasing%%
+I also do not use the quality tags button; I do *sometimes* add these tags to the end of the prompt though — depending on style or subject.
+``` html
+, best quality, amazing quality
+```
+I also also tend to stick to a modified light UC:
+``` html
+lowres, jpeg artifacts, bad quality, worst quality, watermark, blurry, very displeasing
+```
 Repeat artist names are usually ones I think work well as mixers; try them with your own favorite styles!
 ###### -> You can copy the artist's names to clipboard by hovering over the line and clicking the tiny button on the far right! <-
 ***
 
-# Western-ish content
+# Western-ish/Realism content
 ``` html
 artist:bernie wrightson, artist:michael whelan, artist:shimhaq, 
 ```
@@ -28,6 +34,13 @@ artist:guweiz, artist:alkemanubis, artist:po-ju,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/huvmn6.png) | ![](https://files.catbox.moe/bwdek9.png) | ![](https://files.catbox.moe/s245kh.png) | ![](https://files.catbox.moe/bi044f.png)
+
+``` html
+artist:sciamano240, artist:rei (sanbonzakura), artist:shimhaq, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/qpo27d.png) | ![](https://files.catbox.moe/3jv70k.png) | ![](https://files.catbox.moe/i997bn.png) | ![](https://files.catbox.moe/rlk5b7.png)
 
 ***
 # Cartoony content

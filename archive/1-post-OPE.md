@@ -3,20 +3,22 @@
 !!!info Always announce when you're making the next thread so we're avoiding doubles. Announce it in the middle of page 10.
 !!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
 
+!!!danger Upcoming break announcement
+    /ope/ will temporarily merge with /wawa/ in the near future for the duration of Nerissa's and Kiara's joint Maldives trip. The likely merge point is sometime during the weekend of Jan 6-7, when Nerissa's and Kiara's first collab is expected.
+
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 211th time, what is Ope?!
+For the 212th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Lethal Company Advent collab, Tue 01/02 8PM CT)
+Next stream: TBA, likely on Kiara's channel
+Previous stream (Lethal Company Advent collab)
 https://www.youtube.com/watch?v=eG9tE3v7lfA
 Recent appearances
-Koyori's channel: Koyori VS Advent collab: https://www.youtube.com/watch?v=imAoF0-T9W8&t=3280s
-Cameo at the end of her Christmas karaoke rebroadcast: https://streamable.com/mpv502
-Previous stream (Welcoming 2024 with Nerissa)
-https://www.youtube.com/watch?v=GjMUUcBtw38
+Koyori's channel, Koyori VS Advent collab — https://www.youtube.com/watch?v=imAoF0-T9W8&t=3280s
+Cameo at the end of her Christmas karaoke rebroadcast — https://streamable.com/mpv502
 
 \>Nerissa's hololive New Year's Holiday Date Voice Packs
 ~Closing Off 2023~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492
@@ -34,30 +36,12 @@ https://rentry.org/karaokes_songs_v01
 Cover playlist
 https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM
 
-\>Hololive EN Advent Calendar 2023 appearances
-Day 25 (voice, puppeteered by Kiara)
-https://www.youtube.com/watch?v=wF70_ixRdXE
-Day 18 (alongside all of Advent)
-https://www.youtube.com/watch?v=-oljrVtO5dw
-Day 17 (mention, present for Nerissa from Bijou)
-https://www.youtube.com/watch?v=G8_oZEKsEOw&t=211s
-Day 14 (solo, The Nutcracker recap)
-https://www.youtube.com/watch?v=OSOrvjrz8vc
-Day 12 (mention, judged by FMWC)
-https://youtu.be/Wph3rcHY9X8?t=202
-Day 10 (improv with Kiara and Mumei)
-https://www.youtube.com/watch?v=QP2afDw25QE
-Day 3 (solo, singing Silent Night acapella)
-https://www.youtube.com/watch?v=1aR2YuHzeTA
-Day 1 (alongside Kiara, FWMC and Calliope)
-https://www.youtube.com/watch?v=ABYmGd76tj8
-
 \>Useful Links
 YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>65752856
+Previous thread: >>65842238
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -88,5 +72,3 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to vote on December's top streams if you haven't already.
-https://forms.gle/NmsWo9bDFenobabi8

@@ -81,10 +81,6 @@
 - Versatile magnet search engine for rapid downloads in diverse media genres.
 - [URL Safety Results](https://www.urlvoid.com/scan/ext.to/)
 
-### 🧲 [FileListing](https://filelisting.com/)
-- Powerful search engine with bots that constantly scan, index, and categorise all types of files from the whole web.
-- [URL Safety Results](https://www.urlvoid.com/scan/filelisting.com/)
-
 ### 🧲 [iDope](https://idope.se/)
 - Search anonymously through this large collection. Users aren't tracked and their IP addresses are removed.
 - [URL Safety Results](https://www.urlvoid.com/scan/idope.se/)

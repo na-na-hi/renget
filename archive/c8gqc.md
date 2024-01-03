@@ -1,6 +1,5 @@
 #/iemg/ - In-Ear Monitor General
 ***
-This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket IEM accessories such as cables and ear tips. 
 !!! note Keep in mind
 	Everything in this hobby is subjective. Take impressions and reviews with a grain of salt. 
 
@@ -10,9 +9,7 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 ##Starter IEMs ($20)
 ***
 *Hall of Fame*
-• 7Hz Salnotes Zero (bright neutral) - $20
 • Tangzu Wan'er S.G (mild V) - $20
-• Truthear Hola (bassy neutral) - $20
 
 *Honorable Mentions*
 • KBEAR Rosefinch (very bassy) - $20
@@ -20,11 +17,12 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • QKZ x HBB (bassy) - $20
 • Simgot EW100P (bright neutral) - $20
 
-##Budget IEMs ($30 - $100)
+##Budget IEMs ($25 - $100)
 ***
 *Hall of Fame*
+• 7Hz x Crinacle Zero: 2 (bassy neutral) - $25
 • EPZ G10 (Harman) - $35
-• TKZK Ouranos (mild V) - $55
+• TRN Conch (bright V) - $35
 • Simgot EA500 (bright neutral) - $80
 • Truthear Hexa (neutral) - $80
 
@@ -36,29 +34,37 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • Moondrop Lan (neutral) - $40
 • Simgot EW200 (Harman) - $40
 • EPZ Q5 (bright V) - $50
+• Juzear Clear (bassy V) - $50
+• TKZK Ouranos (mild V) - $55
 • Truthear x Crinacle Zero: Red (Harman) - $55
-• CVJ Mei (W-shape) - $60
 • TRN ST5 (W-shape) - $60
 • Artti T10 (mild V) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
+• Artti R1 (warm V) - $80
+• Kiwi Ears Melody (warm V) - $90
+• Moondrop Aria 2 (bassy neutral) - $90
+• Tangzu Fudu Verse 1 (bassy W) - $90
 • EPZ K5 (bright neutral) - $100
+• NiceHCK F1 Pro (W-shape) - $100
 • Tripowin x HBB Olina SE (bright neutral) - $100
 
-##MidFi IEMs ($110 - $210)
+##Mid-Fi IEMs ($110 - $210)
 ***
 *Hall of Fame*
 • Simgot EM6L (V-shape) - $110
 • Juzear 41T / Flame (neutral) - $165
 • Letshuoer S12 Pro (V-shape) - $170
-• SeeAudio Yume II (Harman) - $200
+• Tanchjim Kara (bassy neutral) - $180
 
 *Honorable Mentions*
+• 7Hz Legato (bassy) - $110
 • Dunu Kima (neutral) - $110
+• Kefine Klanar (W-shape) - $120
 • Letshuoer D13 (W-shape) - $120
 • Tinhifi T4 Plus (bright V) - $120
 • Kinera Celest Phoenixcall (V-shape) - $130
 • Truthear Nova (Harman) - $150
-• Tanchjim Kara (bassy neutral) - $180
+• Hidizs MP145 (bassy neutral) - $160
 • Tanchjim New Hana 2021 (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
 • Tinhifi P1 Max (warm neutral) - $190
@@ -67,7 +73,7 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • iKKO OH10S (V-shape) - $200
 • Thieaudio Elixir (bassy neutral) - $210
 
-##HiFi IEMs ($220 - $380)
+##Hi-Fi IEMs ($220 - $380)
 ***
 *Hall of Fame*
 • Aful Performer5 (bassy neutral) - $220
@@ -76,17 +82,22 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • Yanyin Canon II (V-shape) - $380
 
 *Honorable Mentions*
+• Simgot EA1000 (bright neutral) - $220
+• BQEYZ Wind (bright W) - $240
+• Dunu Falcon Ultra (warm neutral) - $240
 • Hisenior Mega5P Ultra (bassy neutral) - $240
 • JQ 4U Pro (bassy neutral) - $240
 • Kiwi Ears Orchestra Lite (neutral) - $250
+• Penon Fan 2 (warm dark) - $280
 • Tanchjim Oxygen (mild V) - $280
 • ISN Neo5 (bassy neutral) - $290
+• Hisenior Okavango (warm W) - $300
 • Thieaudio Hype 2 (bassy neutral) - $300
 • Moondrop Blessing3 (bright neutral) - $320
 • SeeAudio Bravery RB (mild V) - $320
 • Aful Performer8 (neutral) - $370
 
-##Audiofool IEMs ($450 - $1500)
+##Audiophile IEMs ($450 - $1000)
 ***
 *Hall of Fame*
 • Moondrop Variations (Harman) - $520
@@ -96,6 +107,7 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • Thieaudio Monarch MKIII (Harman) - $1000
 
 *Honorable Mentions*
+• EPZ 530 (warm V) - $450
 • Softears Studio4 (neutral) - $450
 • Sound Rhyme DTE500 (bassy neutral) - $460
 • Dunu EST 112 (mild W) - $490
@@ -108,13 +120,29 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • Kinera Imperial Urd (bassy neutral) - $650
 • Moondrop S8 (Harman) - $700
 • Letshuoer EJ07 (neutral) - $750
+• Sound Rhyme DTE900 (bright V) - $750
 • 7th Acoustics Supernova (neutral) - $800
+• Softears Twilight (warm neutral) - $930
+
+##Luxury IEMs ($1100 - $4500)
+***
 • 64 Audio U4s (W-shape) - $1100
 • Nightjar Singularity (bassy) - $1300
 • Thieaudio Prestige LTD (Harman) - $1300
 • Symphonium Crimson (bassy neutral) - $1500
 • Thieaudio V16 Divinity (Harman) - $1500
 • Unique Melody MEST MKII (bassy neutral) - $1500
+• 64 Audio U12T (W-shape) - $2000
+• FATfreq Maestro SE (bassy V) - $2000
+• Empire Ears Legend X (very bassy) - $2300
+• 64 Audio Volür (bassy W) - $2500
+• Softears Turii Ti (warm neutral) - $2500
+• FATfreq Grand Maestro (bassy V) - $3000
+• Kinera Imperial Loki (bassy neutral) - $3000
+• Empire Ears Odin (bright neutral) - $3400
+• Canpur CP622B (neutral) - $3500
+• Empire Ears Raven (bassy W) - $3600
+• Unique Melody Multiverse Mentor (warm neutral) - $4500
 
 ##Bullet IEMs ($15 - $100)
 ***
@@ -127,6 +155,7 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 
 *Honorable Mentions*
 • Moondrop Quarks (neutral) - $15
+• Tangzu Princess Chang Le (mild V) - $15
 • Tanchjim One (V-shape) - $25
 • Tanchjim Tanya (warm V) - $25 
 • Final E2000 (warm bassy) - $45
@@ -164,7 +193,6 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • ivipQ
 • Kinera
 • OpenHeart
-• TRI
 • Yinyoo
 • Yongse
 
@@ -183,7 +211,6 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • TRI Clarion
 
 *Honorable Mentions*
-• Anjirui Spirals
 • Audiosense S400
 • Azla SednaEarFit Light
 • Azla SednaEarFit MAX
@@ -194,10 +221,9 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • JVC EP-FX10 Spiral Dot ++
 • Spinfit CP100+
 • Spinfit CP145
+• Spinfit Omni
 • Tanchjim T-APB
-• Tennmak Turbo Whirlwind
 • TRN T-Ear
-• Whizzer Easytips SS20
 
 *Foam*
 • Comply T-500
@@ -208,13 +234,38 @@ This guide lists recommended in-ear monitors, flathead earbuds, and aftermarket 
 • Whizzer MM100
 • Zeos Render Hybrid
 
+##USB-C DACs
+***
+*Hall of Fame*
+• Non-EU Apple dongle - $10
+• Tanchjim Space - $90
+• Tempotec Sonata BHD Pro - $90
+• Qudelix 5K - $110
+
+*Honorable Mentions*
+• Moondrop Dawn Pro - $50
+• Akliam PD4 Plus - $60
+• EPZ TP20 - $60
+• Colorfly CDA-M1P - $80
+• FiiO KA13 - $80
+
+##DAPs / PMPs
+***
+• Surfans F20 (Rockbox) - $120
+• Shanling M0 Pro - $130
+• HiBy R3 II (Gen 2) - $180
+• HiBy M300 - $200
+• Hidizs AP80 Pro-X - $200
+• Tempotec V3 - $200
+• Shanling M1s - $230
+
 ##Helpful External Links
 ***
-*Graphs 101*
-headphonesty.com/how-to-measure-headphones-and-iems/
-crinacle.com/2020/04/08/graphs-101-how-to-read-headphone-measurements/
+*Frequency Response Graphs 101*
+headphonesty.com/how-to-measure-headphones-and-iems
+crinacle.com/2020/04/08/graphs-101-how-to-read-headphone-measurements
 
-*Graph Tools*
+*Frequency Response Graph Tools*
 squig.link
 crinacle.com/graphs/iems/graphtool
 banbeu.com/graph/tool
@@ -229,18 +280,27 @@ headphonesty.com
 headphones.com
 soundguys.com
 l7audiolab.com
-woodenears.com/
+woodenears.com
 0db.co.kr
 
+*How to Listen Software - Learn to Identify Attributes You Hear*
+harmanhowtolisten.blogspot.com
+
+*Optimizing Audio on Windows OS*
+audiosciencereview.com/forum/index.php?threads/ending-the-windows-audio-quality-debate.19438
+
+*Unsure What Type of IEM and Cable Connection You Have?*
+head-fi.org/threads/the-different-types-of-iem-connectors.938264
+
 *Ear Tip Guides*
-headphonesty.com/2018/04/ultimate-guide-selecting-perfect-iem-ear-buds-tips/
-audioreviews.org/guide-to-iem-silicone-eartips/
+headphonesty.com/2018/04/ultimate-guide-selecting-perfect-iem-ear-buds-tips
+audioreviews.org/guide-to-iem-silicone-eartips
 
 *Digital Audio Player (DAP) / Portable Media Player (PMP) Guide*
 twitter.com/align_centre/status/1677649129353404416
 
 *Reading on Various Audio Topics*
-diyaudioheaven.wordpress.com/tutorials/
+diyaudioheaven.wordpress.com/tutorials
 
 *Previous Guide with Additional Information*
 hackmd.io/@AyPeeEye/S1sNUVosu

@@ -229,10 +229,6 @@
 - You can view all videos for free, quickly, and awesomely without checking in or registering.
 - [URL Safety Results](https://www.urlvoid.com/scan/soapter.tv/)
 
-### ▶️ [Streameast](https://www.streameast.watch/)
-- An ad-free movie streaming service. With over 10000 movies and TV-Series, you may watch all content without having to register.
-- [URL Safety Results](https://www.urlvoid.com/scan/streameast.watch/)
-
 ### ▶️ [Sudostream](https://sudostream.com/)
 - Among the top free sites for streaming movies in HD without registering or forking over anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/sudostream.com/)

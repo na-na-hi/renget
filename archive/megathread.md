@@ -77,7 +77,7 @@
 
 &nbsp;
 
--> ![](https://a.imagem.app/oIWkN2.png) <-
+-> ![](https://a.imagem.app/oZHomE.png) <-
 
 # 🪙 ➜ Other Treasures
 

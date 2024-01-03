@@ -65,3 +65,6 @@ https://gofile.io/d/Zjt8Te
 
 
 https://multitwitch.tv/essie_ch/eira_ch/chikafujilisa/autumnfuchsia/aztraliss/belphie_vt/BaalVtuber/beeweecrover/ceresphim/cinnaminnies/cozy_shokora/dolliehitsujida/faunrii/ghostimu/kuromiyalucien/kyubalt/itsmoisi/myshleep/naive_alie/okaree/rumskii_ch/shepiu/sheepisan/shuuuumi/sunset_radiance/waffobaffo/yupina_ch/noenayumeshiro/ohitsu_zi/youho0411/wafwaffle_/hennie2001/kotomisnacks/friedanox/Shichide////////////////NEED///TO///ADD///FRIENDS
+
+https://static-cdn.jtvnw.net/ttv-static/404_preview-1242x699.jpg
+https://static-cdn.jtvnw.net/previews-ttv/live_user_ninoegyn-1242x699.jpg

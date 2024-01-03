@@ -1,5 +1,5 @@
 # onaholesama's furshit
-->![you like foxgirls, don'tchya, Anon?](https://files.catbox.moe/rb7sma.png)<-
+->![you like foxgirls, don'tchya, Anon?](https://files.catbox.moe/3gslvv.gif)<-
 ***
 hello i like anthros 
 ***
