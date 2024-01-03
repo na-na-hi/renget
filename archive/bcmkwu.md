@@ -1,5 +1,22 @@
 ▶NEW CLIPS
+>CV90 hit by drone
+https://files.catbox.moe/km4gpl.mp4
+>BOBRS BEAVER SANTA DRONE STRIKES
+https://files.catbox.moe/utqofd.mp4
+>BOBRS MIGHTY BEAVERS
+https://files.catbox.moe/u09mm9.mp4
+>Russia is dead but doesn't know it
+https://files.catbox.moe/h3ulqu.mp4
+>Ukrainian conscientious objector 2.0
+https://files.catbox.moe/wku4vl.mp4
+>More Leopards getting rekt.
+https://files.catbox.moe/6ag6ar.mp4
 >Successful missile interceptions
+https://files.catbox.moe/9lkfvw.mp4
+https://files.catbox.moe/7v4mj9.mp4
+https://files.catbox.moe/vfxfch.mp4
+https://files.catbox.moe/semsem.mp4
+https://files.catbox.moe/c1wjqu.mp4
 https://files.catbox.moe/v6nrli.mp4
 https://files.catbox.moe/zaqv8y.mp4
 https://files.catbox.moe/4h9lsn.mp4

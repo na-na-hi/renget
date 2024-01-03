@@ -1,26 +1,73 @@
-Recommended Essential Mods for Fallout 4 VR:
-Fallout 4 Version Check Patcher
-FallUI + VR Patch
-DLCVR
-Automatron VR Rebuild
-VR Address Library
-Fallout Priority
-Fallout 4 VR Tools
-Buffout 4 VR
-MCM VR
-Insignificant Object Remover
-Disk Cache Enabler VR
-FRIK
-Virtual Holsters
-VIrtual Chems
-See Through Scopes
-Better Scopes VR
-VR Weapon Overhaul
-Kabuto VR
-SKK Fast Start (Standard start breaks)
-Baka Scrapheap
-VR Perfkit, Reshade, or Fallout 4 Upscaler VR for sharpening
+## Modding Basics For Fallout 4 VR
+*Updated January 2024*
 
-The DLC is not included with Fallout 4 VR. Copy over all files starting with DLC from the flat version's steamapps\common\Fallout 4\Data folder to your steamapps\common\Fallout 4 VR\Data folder to get the DLC in VR.
+This guide is focused on what I'd consider essential mods, and some recommended lightweight mods for Fallout 4 VR. There are also some general notes on compatibility and modding. Fallout 4 VR is a separate game from standard Fallout 4. CD keys can be had for cheap from deals.gg and the like, and the game can be pirated as long as the exe isn't changed by the crack. 
+It's recommended to copy over the DLC from a regular copy of Fallout 4. In your Fallout 4/Data directory, copy every file beginning with DLC to your Fallout 4 VR/Data directory. 
 
-FormID issue for mods released after November 2019: https://www.reddit.com/r/fo4vr/comments/14d6nbb/psa_be_careful_downloading_mods_updatedreleased/
+You probably should be using [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases) to manage your mods. Use Steam community bindings, especially with anything but Oculus controllers or Vive wands. [This](https://www.nexusmods.com/fallout4/mods/41931) may be needed if you use a non Index headset with Index controllers. Modpacks for this game are pretty bad right now, even by modpack standards.
+
+##Recommended Essential Mods for Fallout 4 VR:
+[Fallout 4 VR Script Extender](https://www.nexusmods.com/fallout4/mods/42159), [VR Address Library](https://www.nexusmods.com/fallout4/mods/64879), and [VR Tools](https://www.nexusmods.com/fallout4/mods/45167) - are dependencies for many mods
+[Fallout 4 Version Check Patcher](https://www.nexusmods.com/fallout4/mods/42497) - Allows mods made after the November 2019 patch to be loaded, but with some caveats (See below)
+[DLCVR](https://www.nexusmods.com/fallout4/mods/28842) - Fixes bugs that the DLC may have in VR
+[Automatron Rebuild](https://www.nexusmods.com/fallout4/mods/34741) - To build robots and do the Automatron quests in VR
+[Fallout Priority](https://www.nexusmods.com/fallout4/mods/52515) - Helps performance by keeping the CPU priority high
+[Buffout NG](https://www.nexusmods.com/fallout4/mods/64880) - Fixes crashes and enables achievements
+[MCM VR](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip) - Allows you to configure mods
+[Insignificant Object Remover](https://www.nexusmods.com/fallout4/mods/9835) - Removes twigs that keep your drawcalls high
+[Disk Cache Enabler VR](https://www.nexusmods.com/fallout4/mods/75037) - Enables disk cache, less stutter
+[Baka Scrapheap](https://www.nexusmods.com/fallout4/mods/46340) - Allows scripts to use more memory. Mandatory for heavier mods like Sim Settlements 2.
+[High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798) - Scroll down in the downloads page to grab the VR version. Look at the .ini. Improves loading times.
+[FallUI](https://www.nexusmods.com/fallout4/mods/48758) and the [VR Patch](https://www.nexusmods.com/fallout4/mods/51556) - For a decent UI with item sorting
+[Complex Item Sorter](https://www.nexusmods.com/fallout4/mods/48826) - To tag items for FallUI's sorting
+[FRIK](https://www.nexusmods.com/fallout4/mods/53464) - Adds a full first person body in VR. Allows you to reposition weapons and smooths out movement. Don't save in power armor.
+[FRIK New Game Crash Fixes](https://www.nexusmods.com/fallout4/mods/71840) and/or [SKK Fast Start](https://www.nexusmods.com/fallout4/mods/29227) - FRIK will crash when starting a new game. Ideally only enable FRIK after you leave the vault. 
+[Virtual Holsters](https://www.nexusmods.com/fallout4/mods/51224/) and [Virtual Chems](https://www.nexusmods.com/fallout4/mods/53625) - To use chems and equip weapons via holsters attached to your body. Pair with the wrist based pip boy in game settings so you never use menus in combat.
+[See Through Scopes](https://www.nexusmods.com/fallout4/mods/9476) - Better than the vanilla black scopes
+[Better Scopes VR](https://www.nexusmods.com/fallout4/mods/61214) - Uses above to let you zoom in and have collimated sights
+[VR Weapon Overhaul](https://www.nexusmods.com/fallout4/mods/64610) - Fixes for See Through Scopes on a lot of mods
+[Kabuto VR](https://www.nexusmods.com/fallout4/mods/35909) - Adds immersive power helmets
+[Binaural 3D Surround Sound](https://www.nexusmods.com/fallout4/mods/39692/) - Decent spatial audio
+[VR Perfkit](https://github.com/fholger/vrperfkit), [Reshade](https://www.nexusmods.com/skyrimspecialedition/mods/46999), or [Fallout 4 Upscaler VR](https://www.nexusmods.com/fallout4/mods/73715) - Individually or in some combination, for sharpening and upscaling, and better anti aliasing if you need. The game is pretty blurry by default.
+
+##Also Consider:
+[Fallout 4 VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961) - Adjusts settings based on your framerate. Can help in areas like Corvega or downtown Boston.
+[PipBoy Light VR](https://www.nexusmods.com/fallout4/mods/29245) - Makes your PipBoy Light a handy flashlight
+[Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) - All in one lighting and weather improvements without killing compatibility or performance. Darker interiors make the above mod matter more.
+[Generating LODs](https://www.nexusmods.com/fallout4/articles/4162) - Being able to see in the distance well really helps with immersion
+[Bullet Time VR](https://www.nexusmods.com/fallout4/mods/72502) - If you really don't like VATS. Allows (most) VATS perks to still work.
+
+##ini Tweaks:
+In Documents\My Games\Fallout4VR consider editing Fallout4Custom.ini
+>\[VR\]
+>fRecoilMaxHorizDeg=3
+>fRecoilMaxVertDeg=100
+>fRecoilVertMultiplier=2.00
+Tweak the numbers to your liking to have decent recoil and give yourself a reason to two hand weapons with FRIK.
+>\[VRInput\]
+>bUseWandDirectionalMovement=0
+To move in the direction your head is facing
+>\[VRUI\]
+>iVRUIRenderTargetHeight=4096
+>iVRUIRenderTargetWidth=4096
+To make your HUD not blurry on high res headsets
+>\[HairLighting\]
+>fHairPrimSpecPow=2.0
+>fHairPrimSpecScale=0.01
+>fHairPrimSpecShift=0.26
+>fHairSecSpecScale=0.01
+>fHairSecSpecPow=2.0
+>fHairSecSpecShift=0.26
+To make hair not glow
+>\[Display\]
+>fTAAPostOverlay=0.675
+>fTAAPostSharpen=0.675
+>fTAASharpen=1.0000
+>fTAAHighFreq=0.8000
+>fTAALowFreq=0.5000
+To make TAA less blurry
+
+##FormID issue for mods released after November 2019: 
+https://www.reddit.com/r/fo4vr/comments/14d6nbb/psa_be_careful_downloading_mods_updatedreleased/
+
+Ask questions in /vrg/

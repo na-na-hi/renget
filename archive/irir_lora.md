@@ -611,8 +611,10 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 
 ## 次元数(DimまたはRank)の比較
 キャラは64でいいなど言っているが、それ未満の値でどうなるか気になったので比較。
-個別に学習はさすがに面倒くさいのでresize_lora.pyでリサイズした。そのため、通常のLoRA学習では結果が変わる可能性があることに留意。
+個別に学習はさすがに面倒くさいのでresize_lora.pyでリサイズした。通常のLoRA学習でも結果は同様。
+SDのバージョンは1.5。
 
+- キャラ
 再現度確認の参考に:[Danbooru検索「miyu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=miyu_%28blue_archive%29&z=5)
 ![Image](https://files.catbox.moe/dn3937.webp)
 
@@ -625,9 +627,13 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 ![Image](https://files.catbox.moe/4ybpnb.webp)
 マジか…
 
-かなり削っても再現度の低下が少ないようだ。キャラもnetwork_dimは16でいいかも？
-ちなみにdim16,IN04-07,OUT03-06のみでファイルサイズは11.9MiBになる。
+- 画風
+![Image](https://files.catbox.moe/g7aq0y.webp)
 
+かなり削っても再現度の低下が少ないようだ。キャラも画風もnetwork_dimは16でいいかな
+ファイルサイズはdim16,IN04-07,OUT03-06のみで11.9MiBになる。
+
+SDXLは高性能なため16以下で良い。
 
 ***
 
@@ -636,7 +642,7 @@ LoRA無しで多くのブルアカキャラを出せるようになったが品�
 - 学習に使うウェイトはanimefull
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim64-16/Alphaはdimの4分の1
+- 4000-6000steps,Dim16/Alphaはdimの4分の1
 - 畳み込み層はほぼ影響ないのでconv_dimとかの指定はいらない
 - OptimizerはDAdaptation系(LR=1)
 - IN04-07,OUT03-06だけでいい

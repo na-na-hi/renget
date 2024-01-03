@@ -1,1 +1,1 @@
-im literally nick nelson hello!
+![!](https://media.discordapp.net/attachments/1089617212677030019/1192150396358103222/IMG_1417.jpg?ex=65a80793&is=65959293&hm=9dbed9788f9d4d72c53098938690905978e9e389ae4fef19d38826f738e9a9ae&)->WIP! Hello Chat<-

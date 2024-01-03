@@ -40,6 +40,14 @@ Alpa	|	twitch.tv/alpachomps	|	x.com/AlpaChomp
 	- an actual description
 	- bday, debut date
 
+!!! warning
+	OMG THE THREAD IS GONE WHAT DO I DO
+	Bake a new thread, it's not that hard:
+		- Copy the OP 
+		- Edit the previous thread
+		- Don't forget the subject
+		- Add a pic of your osheep
+		- fill captcha and post
 
 ------
 #This is just some testing BS just ignore it

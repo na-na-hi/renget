@@ -19,6 +19,65 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
+#Chinese Warlord (Arena)
+***
+Page 1
+***
+```
+> The Date? June 1st 1919, diverging from our timeline due to an outbreak of violence in the May Fourth Incident that backfired on the Japanese and Chinese Beijing Government. While Shandong is Occupied by joint Japanese and British forces, Manchuria has collapsed. North of the border, anarchy reigns as the allied coalition barely holds onto Vladivostok, and the Blagovechensk Bolshevik Militia feuds with the Czech-Slovak Legion. In the lands of the Rising Sun an insurrection in the Army and a Governmental Tribunal Backed by the Navy cripples the Japanese Command. It is likely that the troubles for the Chinese Government will only grow worse, but for now the Manchurian Thunderdome beckons...
+
+Rules & Guidelines for Participants Here
+>>91362721
+>>91362726
+>>91362738
+
+>>>>> Current Warlords in the THUNDERDOME!
+‘Colonel’ Montigue >>91389427
+Duong Baozhai >>91364573
+Emperor Xianlong/ Count Fujiwara >>91364615
+Cheng-Cheng >>91364629
+Professor Hu >>91369312
+Illia Varvakis >>91367826
+Admiral Youxi Han >>91368526
+Lord Flashheart >>91368574
+Imam Mǎ Jūn 阿訇 马钧 >>91369712
+Khagan Manlaibaatar Ogeiz-Borjigin >>91369213
+Captain Silver >>91369298
+Gang Zang >>91369478
+'Zhenge He Reborn' >>91369578
+Mikhail Medvedev >>91371926
+Herr Moritz Armbruster >>91377096
+Montague Williams >>91378718
+The 'Bohan' >>91388674 
+Zhou Baihu >>91395984
+Tangahuly Serder Berdimuhamedow >>91415473
+
+>>> Old Warlords
+>NORTH
+"Julian Abruzzio" >>91156219
+Wu Qiangwei >>91156932
+THE SKY KINGS >>91183952
+
+>SOUTH
+Lord Harrison's Vassal >>91155523
+Lord William Wood >>91162559
+Lady Yan >>91163792
+Ling Zhen >>91187490
+Archduke Maximilian Eugen >>91225491
+
+>CENTRE
+The Only Daughter >>91155487
+Dr. Fu Manchu >>91279062
+Zhang Gongming >>91156853
+Job'ah >>91183717
+
+>EXTERIOR
+Tangahuly Serder Berdimuhamedow >>91155796
+Long Bei >>91374458
+Cao Baos >>91224097
+Ima Gun Dye >>91225406
+```
+
 #Star Wars (Reboot)
 ***
 Page 1
@@ -73,7 +132,11 @@ Quo'in Iyad
 Gobar Ceel
 >>91395558
 Siemis Varr
->>91397435
+>>91421566
+>Alma Eohl
+>>91411032
+>Chad
+>>91422409
 
 >Sith
 Lord Devan Fernal
@@ -293,8 +356,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Sandatsu Art:
->>91405875
+>A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
+https://rentry.org/iyfm2
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -849,6 +912,8 @@ https://rentry.org/adknw
 https://rentry.org/y9rfp
 >The Other Side - A (108 Gang, Cameo of Orochi)
 https://rentry.org/6uvv5
+>A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
+https://rentry.org/iyfm2
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
