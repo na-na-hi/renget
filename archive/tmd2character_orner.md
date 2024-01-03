@@ -7,16 +7,16 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 10 | **Experience to Next Level:** 70/100
+**Level:** 10 | **Experience to Next Level:** 75/100
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 345₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 255₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Rookie Rank<-
-->*265/400 points to Normal Rank*<-
+->*305/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -74,8 +74,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
 *Equipped Item: Pecha Berry | Heals Poison status.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Pecha Berry | Heals Poison status.
+2. Power Seed | Increases Attack and Special Attack by 2 stages.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

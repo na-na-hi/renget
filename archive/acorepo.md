@@ -43,6 +43,8 @@ https://drive.google.com/file/d/1T4HpMyJlGGHQPnkKAu1q1lQfef0PV9dn/view?usp=share
 https://files.catbox.moe/5inpwl.safetensors
 - Frankie Foster
 https://files.catbox.moe/ekwjfi.safetensors
+- Ponpu style
+https://filebin.net/n8k2h03ose08kqxn/PS.7z
 
 ---
 
@@ -56,7 +58,8 @@ https://pixeldrain.com/u/nAtx6UnU
 - Jab
 https://mega.nz/folder/PZZVRKTA#wbq2OawRj1tv75T_5yiYWw
 - Shadman
-https://mega.nz/file/RUYmyAqD#WJLGdbueNNi8sN7HWbURUz3_EGVrQ_mjSx33NbEPvRY
+https://mega.nz/folder/TZElCCIL#OEutCsJPD0G5lXPXLGgfcQ/folder/eBlWUAqK
+~~https://mega.nz/file/RUYmyAqD#WJLGdbueNNi8sN7HWbURUz3_EGVrQ_mjSx33NbEPvRY~~
 - BimboPhi
 https://mega.nz/folder/HMxUXa7L#HYLnZG1sstruiETZ2MVaMA
 
@@ -371,10 +374,10 @@ https://civitai.com/models/64691/rocket-young-justice-lora
 https://civitai.com/models/54580/wondergirl-young-justice-lora
 	- Zatanna
 https://civitai.com/models/62247/zatanna-young-justice-lora
-DC Animated Universe
-- Batgirl
+- DC Animated Universe
+	+ Batgirl
 https://civitai.com/models/129659/batgirl-barbara-gordon-dcau-style-lycoris
-- Supergirl/Galatea 
+	+ Supergirl/Galatea 
 https://civitai.com/models/80177/supergirlgalatea-dc-animated-universe-lora
 - DC Comics
 	+ Huntress
@@ -393,6 +396,8 @@ https://civitai.com/models/131232/volcana-dc-comics
 https://civitai.com/models/130689/phantom-girltinya-wazzo-from-legion-of-super-heroes-2006
 	- Miss Martian
 https://civitai.com/models/129194/miss-martian-white-martian-form-young-justice-dc-comics
+	- Supergirl
+https://civitai.com/models/145238/supergirl-dc-legion-of-super-heroes
 - Marvel Comics
 	+ Star/Ripley Ryan
 https://civitai.com/models/14831/star-ryan-ripley
@@ -425,6 +430,9 @@ https://civitai.com/models/17328/gwen-stacy-sidecut-spiderverse-hairstyle
 https://civitai.com/models/93223/gwen-stacy-the-spectacular-spider-man
 	- (Across the Spider-Verse)
 https://civitai.com/models/125722/gwen-stacy-spider-man-across-the-spider-verse
+https://civitai.com/models/143929/gwen-stacy-spider-man-across-the-spider-verse
+- Rio Morales (Across the Spider-Verse)
+https://civitai.com/models/144464/rio-morales-spider-man-across-the-spider-verse
 - Mary Jane (The Spectacular Spider-Man)
 https://civitai.com/models/93227/mary-jane-the-spectacular-spider-man
 	- (Spider-Man: TAS)
@@ -545,6 +553,8 @@ https://civitai.com/models/48542?modelVersionId=53138
 - Gravity Falls
 	+ Wendy Corduroy
 https://civitai.com/models/126310/wendy-corduroy-gravity-falls
+	- Mabel Pines
+https://civitai.com/models/142451/mabel-pines-v02
 - The Owl House
 	- Amity Blight
 https://civitai.com/models/97921/amity-blight-the-owl-house-season-1-redux
@@ -1036,9 +1046,11 @@ https://civitai.com/models/73484/athena-borderlands-character-lora
 https://civitai.com/models/73480/angel-borderlands-2-character-lora
 	+ Queen Tyreen
 https://civitai.com/models/85621/queen-tyreen-borderlands
-- Visas Marr (Star Wars: Knights of the Old Republic)
+- Star Wars
+	- Visas Marr
 https://civitai.com/models/102000/visas-marr-kotor-2-lora
-- Star Wars: The Old Republic
+	- Trilla
+https://civitai.com/models/113220/trilla-star-wars-fallen-order
 	- Satele
 https://civitai.com/models/121218/satele-shan-star-wars-the-old-republic-lora
 	- Lana
@@ -1109,7 +1121,7 @@ https://civitai.com/models/102219/thrud-god-of-war-ragnarok
 https://rentry.org/acorepo2#fortnite
 - Apex Legends
 	- Loba
-https://civitai.com/models/20376/sxz-loba-apex-legends
+https://civitai.com/models/142191/loba-apex-legends
 https://civitai.com/models/21017/loba-apex-legends-lora
 	+ Mad Maggie
 https://civitai.com/models/83113/mad-maggie-apex-legends
@@ -1124,6 +1136,8 @@ https://civitai.com/models/38148/wattson-apex-legends
 https://civitai.com/models/14314/wattson-apex-legends-lora
 	- Rampart
 https://civitai.com/models/91695/rampart-apex-legends
+	- Echo
+https://civitai.com/models/147666/overwatch-echo
 - Lara Croft (Tomb Raider modern)
 https://civitai.com/models/108369/lara-croft-tomb-raider-series-multiple-versions
 https://civitai.com/models/82710/lara-croft
@@ -1131,7 +1145,7 @@ https://civitai.com/models/4852/was-new-lara-croft-rottr-sottr (TI)
 https://civitai.com/models/23286/lara-croft-shadow-of-the-tomb-raider (TI)
 - The Last of Us
 	+ Ellie 
-https://civitai.com/models/84764/ellie-tlou-part-1-clean-lora
+https://civitai.com/models/131493/ellie-tlou
 https://civitai.com/models/52671/ellie-tlo2
 https://civitai.com/models/111825/ellie-the-last-of-us-part-ii
 	+ Sarah
@@ -1184,6 +1198,8 @@ https://civitai.com/models/83569/jenny-human-form-bloody-roar
 https://civitai.com/models/125343/elizabeth-bioshock-game-character
 - Sally Boyle (We Happy Few)
 https://civitai.com/models/84912/sally-boyle-we-happy-few
+- Faye (Binary Domain)
+https://civitai.com/models/144536/faye-binary-domain
 - Morgan Yu (Prey)
 https://civitai.com/models/97573/morgan-yu-f-prey-game
 - Guardian's of the Galaxy
@@ -1259,8 +1275,6 @@ https://civitai.com/models/78038/clay-mann-artstyle-loha
 https://civitai.com/models/91742/kilian-eng-lora-style
 - Eva Widermann (Warcraft)
 https://civitai.com/models/4996/warcraft-the-lora
-- Dave Cheung
-https://civitai.com/models/47276/style-tehdave
 - Alessandro Barbucci
 https://civitai.com/models/85716/denbarbucciartstyle (TI)
 - SleepyGimp
@@ -1297,6 +1311,8 @@ https://civitai.com/models/49968/invincible-style-lora
 https://civitai.com/models/86453/south-park-style-lora
 - Beavis and Butt-Head
 https://civitai.com/models/103326/beavis-and-butthead
+- Star Wars Galaxy of Adventures
+https://civitai.com/models/142454/star-wars-galaxy-of-adventures-style
 ***
 - JabComix
 https://civitai.com/models/18828/jabcomix
@@ -1433,7 +1449,8 @@ https://files.catbox.moe/bmipuq.safetensors
 - Rogue (X-Men)
 https://files.catbox.moe/sdc4pb.safetensors
 ~~https://civitai.com/models/76108/rogue-x-men-lora~~
-
+- Dave Cheung
+~~https://civitai.com/models/47276/style-tehdave~~
 
 # TI embeddings
 

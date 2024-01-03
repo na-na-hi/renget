@@ -1,4 +1,4 @@
--> ![.](https://www.simpleimageresizer.com/_uploads/photos/3cb382b0/IMG_0388_50.jpeg) <-
+-> ![.](https://media.discordapp.net/attachments/1096639589852123136/1191950571582795906/IMG_0431.webp?ex=65a74d79&is=6594d879&hm=a504b379dd3cc39621c19f15fe8cb398ea6576c6409f2a3d278e476f9843ed31&) <-
 -> enny or ryan — [he/she](https://en.pronouns.page/@ennymarch4) <-
 -> [my bsf](https://rentry.co/edwardnashton) ,, #edwardjuliet <-
--> give me /homelander <-
+-> das [hoard](https://rentry.org/jellyfishfield) <-

@@ -2873,9 +2873,9 @@ https://nitter.net/AryJeay/status/1741630851232796849#m  12/31/23
 https://nitter.net/AryJeay/status/1741619179747148071#m  12/31/23
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-NEW 
+NEW As Of January 2014
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
->Latest News Of Israeli / Palestinian War 12/24
+>Latest News Of Israeli / Palestinian War 1/24
 🇮🇶 Islamic Resistance in Iraq announces:
 
 Attacking the Al-Shaddadi US base in Syria, using suicide drones.
@@ -3112,6 +3112,3 @@ https://nitter.net/AryJeay/status/1741940105579819041#m  1/1/24
 >Auschwitz Memorial says its account on X lost 7,000 followers in December. 
 This comes following a statement it made at the end of November supporting Israel's genocide against the Palestinian people in Gaza under the pretext of self-defense.
 https://nitter.1d4.us/QudsNen/status/1741955506942447880#m  1/1/24
-
->BREAKING| Israeli warplanes bombarded the vicinity of Maroun El Ras village in southern Lebanon.
-https://nitter.1d4.us/QudsNen/status/1741957090933960846#m  1/1/24

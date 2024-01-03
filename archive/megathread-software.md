@@ -41,6 +41,10 @@
 - Focuses on free, indie, portable programmes, and is dedicated to constantly providing users with helpful software.
 - [URL Safety Results](https://www.urlvoid.com/scan/appnee.com/)
 
+### 🔗 [Appstorrent](https://appstorrent.ru/) • MacOS • Russian UI
+- Countless apps, games, and plugins available for download. Releases come from various sources.
+- [URL Safety Results](https://www.urlvoid.com/scan/appstorrent.ru/)
+
 ### 🔗 [AudioZ](https://audioz.download/)
 - Hyper focused on music producing software such DAWs, updates of sample libraries, VST plugins, multitracks, and much more.
 - [URL Safety Results](https://www.urlvoid.com/scan/audioz.download/)

@@ -2,7 +2,8 @@
 -> **Or: How I learned to stop worrying and take the knot** <-
 
 !!! info
-	a7-test Lyco is out but it is not recommended over a6
+	- a7-test Lyco is out but it is not recommended over a6
+	- ZSNR noise scheduler added to dev branch but it has issues with karras and working under 30 steps
 
 [TOC2]
 

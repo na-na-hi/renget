@@ -6,7 +6,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** ???
 **Species:** Rufflet | **Affiliation:** N/A
-**Level:** 10 | **Experience to Next Level:** 25/100
+**Level:** 10 | **Experience to Next Level:** 30/100
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
 **Pokécoin:** 150₽ [753₽ in Bank] | **Glorious Gold:** 0 Bars
 
@@ -15,12 +15,12 @@ Pokémon's Ability | Description
  Sheer Force | The User's Moves with secondary effects have their damage increased by 3. Secondary effects are removed.
 
 ->Rookie Rank<-
-->*205/400 points to Normal Rank*<-
+->*245/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 0 | Level 10 (21HP) | 21HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 1 | Attribute Stat *Tier ɪ* | +1 Special Damage
 Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation
@@ -61,7 +61,7 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute Move: Rock Tomb | *Tier ɪ* | 6 AP move turn to No Penalty Accuracy
 Attribute Stat: Defense | *Tier ɪ* | +1 Physical Mitigation
-Currently Training for Stat: Special Attack **ɪ** | +1 Special Damage
+Attribute Stat: Special Attack | *Tier ɪ* | +1 Special Damage
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
@@ -75,7 +75,7 @@ Item Name | Description
 Equipped Item: Stun Seed | Causes *Petrified* on consumption.
 1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

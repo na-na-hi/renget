@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #46 (Wednesday, 27 December 2023, 09:45 UTC)<-
+->Last updated on thread #47 (Tuesday, 02 January 2024, 23:00 UTC)<-
 ->MERRY CHRISTMAS AND HAPPY NEW YEAR!<-
 
 == **LINKS**
@@ -74,6 +74,43 @@ https://archiveofourown.org/works/31977724
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
 ---
+###62189671 Anonymous
+>be me
+>wake up at three in the am
+>get out of bed
+>open fridge
+>it's all foxes
+>cook breakfast
+>also made of foxes
+>put on ripstop everything, hard knuckle gloves, riot helmet with face shield
+>look like I'm about to enter a war zone
+>myassisheavy.wav
+>i exit the airlock attached to my shitty trailer
+>surrounding the trailer is hesco, electrified barbed wire fences, wire on the ground
+>no time to explain, incoming geckering
+>foxes start creeping from the edges of the cage to the center with a taste for blood
+>they start leaping at my ass and I start dodging those fuckers like neo dodging the bullets from like the matrix or some shit idk
+>neostoppingbulletsaswellbutitsmeholdingupariotshieldandfoxessmackingintotheglass.jpg
+>start grabbing foxes out of fox parts bin
+>fur already removed obviously
+>foxes eat that shit, start grabbing the fatasses
+>"you stupid fucking gluttonous jew dogs, get the fuck into the gas chamber"
+>drop them into a shower room with wooden doors, turn on the water
+>fur clogs the drains
+>room floods
+>they drown
+>skin them and put them up to dry
+>make pillows and blankets out of the fur that's already dry
+>give them to fox as gift
+>sell fox fur online
+>use fox meat for myself and to feed industrial garloid and shrimp farm
+>after long day tell foxs goodnight
+>take shower for five hours to remove fox stench
+>lay in bed
+>loud screaming and gekkering and footsteps and snarls from outside lullaby me to sleep as the foxes attempt to break into my trailer
+>the inside is just like the outside because it's carpeted in foxes, by the way
+>including the bathroom, fuck you.
+
 ###61780341 Anonymous
 >"So, Mr Davis, where are we going exactly?"
 >"Nowhere in particular, just seeing where the night takes us."
@@ -314,6 +351,10 @@ https://e-hentai.org/g/992891/b1bd9973b5/
 !!! info
     ##Selected /HMoFA/ Games
 ---
+#####Hop Fire
+`Hop Fire`
+https://tetchyy.itch.io/hop-fire
+
 #####Morgan's Skate Club
 `Morgan's Skate Club`
 https://spacedimsum.itch.io/morgansskateclub

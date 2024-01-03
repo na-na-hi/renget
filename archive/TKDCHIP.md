@@ -1039,7 +1039,8 @@ Al-Quds Brigades Videos
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Al-Quds Brigades (PIJ) targeted IOF command & control sites, set up in the Al-Zaytoun axis.
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
-
+>Al-Quds Brigades firing an Rpg at Iof tank
+https://files.catbox.moe/l08dt4.mp4 New 1/2/24
 
 
 
@@ -1073,3 +1074,5 @@ https://files.catbox.moe/lx60sk.mp4 New  1/1/24
 https://files.catbox.moe/q0s36i.mp4 New 1/1/24
 >Idf diaper conscripts being carried out on litters 
 https://files.catbox.moe/we9ffn.mp4 New  1/1/24
+>Footage of the Israeli drone attack, which targeted Hamas' office in Beirut
+https://files.catbox.moe/or1am2.mp4 New 1/2/24
