@@ -245,4 +245,7 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[2]** *More Kaizoshit retardation*](https://arch.b4k.co/vp/thread/55135891/)
 [**[3]** *Lots of bugs, with a side of more Kaizofaggotry*](https://arch.b4k.co/vp/thread/55140963/)
 [**[4]** *noooooo not the heckin bidooferino!*](https://arch.b4k.co/vp/thread/55153351/)
-[**[5]**](https://arch.b4k.co/vp/thread/55160501/)
+[**[5]** *You WILL love the dykeshit.*](https://arch.b4k.co/vp/thread/55160501/)
+[**[6]** *The Cuck escapes Rejuvenation and hides out in Reborn's shitcord exposing himself as a pedo*](https://arch.b4k.co/vp/thread/55170525/)
+[**[7]** *The Kaizoshit's still here, don't worry*](https://arch.b4k.co/vp/thread/55175288/)
+[**[8]**](https://arch.b4k.co/vp/thread/55180438/)

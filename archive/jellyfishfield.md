@@ -7,7 +7,7 @@
 ---
 
 -> GAMES <-
--> *[sackboy](https://rentry.org/sackboy)* *[starling](https://rentry.org/starling)* *[plinius](https://rentry.co/plinius)* [skelehorse](https://rentry.org/skelehorse) [carlcupcake](https://rentry.org/carlcupcake) [timmynook](https://rentry.org/timmynook) [kirbygame](https://rentry.org/kirbygame) [dancedancerev](https://rentry.org/dancedancerev) [yamero-chan](https://rentry.org/yamero-chan) [slimecube](https://rentry.org/slimecube) [snowgo`I`em](https://rentry.org/snowgoIem) <-
+-> [johnmactavish](https://rentry.org/johnmactavish) [soapmactavish](https://rentry.org/soapmactavish) [ghostsoap](https://rentry.org/ghostsoap) *[sackboy](https://rentry.org/sackboy)* *[starling](https://rentry.org/starling)* *[plinius](https://rentry.co/plinius)* [skelehorse](https://rentry.org/skelehorse) [carlcupcake](https://rentry.org/carlcupcake) [timmynook](https://rentry.org/timmynook) [kirbygame](https://rentry.org/kirbygame) [dancedancerev](https://rentry.org/dancedancerev) [yamero-chan](https://rentry.org/yamero-chan) [slimecube](https://rentry.org/slimecube) [snowgo`I`em](https://rentry.org/snowgoIem) <-
 
 -> TV SHOWS <-
 -> *[soldierboy](https://rentry.org/soldierboy)* [queenmaeve](https://rentry.org/queenmaeve) [femlander](https://rentry.org/femlander) [homelandermilk](https://rentry.org/homelandermilk) [transhomelander](https://rentry.org/transhomelander) [gayhomelander](https://rentry.org/gayhomelander) [tmaschomelander](https://rentry.org/tmaschomelander) [blueybingo](https://rentry.org/blueybingo) <-

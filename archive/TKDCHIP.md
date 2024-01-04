@@ -664,6 +664,8 @@ Hamas Kino Footage
 https://files.catbox.moe/q0eb76.mp4 New  12/24/23
 New hamas kino footage 
 https://files.catbox.moe/r2doqt.mp4 New  12/24/23
+Hamas single sniper video 
+https://files.catbox.moe/08g7ug.mp4  12/24/23
 Video by Hamas (Al-Qassam) showing launches of several rockets towards occupied territories
 files.catbox.moe/nugmsq.mp4 New  12/25/23
 HOLY MOLY: Hamas published a new video showing the targeting of a special IOF force consisting of 10 soldiers inside a building in Juhr al-Dik with an anti-fortified TBG explosive.
@@ -1041,6 +1043,8 @@ Al-Quds Brigades Videos
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
 >Al-Quds Brigades firing an Rpg at Iof tank
 https://files.catbox.moe/l08dt4.mp4 New 1/2/24
+Al-Qassam Brigades (Hamas) and the Al-Quds Brigades (PIJ) showing scenes of mortar launches against a gathering of IOF vehicles & soldiers in the city of Khan Yunis.
+https://files.catbox.moe/pfq19q.mp4 New 1/3/24
 
 
 
@@ -1076,3 +1080,5 @@ https://files.catbox.moe/q0s36i.mp4 New 1/1/24
 https://files.catbox.moe/we9ffn.mp4 New  1/1/24
 >Footage of the Israeli drone attack, which targeted Hamas' office in Beirut
 https://files.catbox.moe/or1am2.mp4 New 1/2/24
+>Hebrew sources report Hezb-Allah strikes on Shlomi
+https://files.catbox.moe/s9cq2p.mp4  1/3/24

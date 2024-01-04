@@ -45,7 +45,7 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@GrimmiVault)| Grimmis official vod channel, has several missing vods
- Grimmi Vod Spreadsheet| [Link](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit?pli=1#gid=571963298)| Spreadsheet of all Grimmi vods (No Vod links)
+
 
 ---
 

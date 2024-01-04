@@ -6,20 +6,10 @@
 *Table of Contents*
 [TOC2]
 
-##Starter IEMs ($20)
+##Budget IEMs ($20 - $100)
 ***
 *Hall of Fame*
 • Tangzu Wan'er S.G (mild V) - $20
-
-*Honorable Mentions*
-• KBEAR Rosefinch (very bassy) - $20
-• Moondrop Chu II (V-shape) - $20
-• QKZ x HBB (bassy) - $20
-• Simgot EW100P (bright neutral) - $20
-
-##Budget IEMs ($25 - $100)
-***
-*Hall of Fame*
 • 7Hz x Crinacle Zero: 2 (bassy neutral) - $25
 • EPZ G10 (Harman) - $35
 • TRN Conch (bright V) - $35
@@ -27,6 +17,9 @@
 • Truthear Hexa (neutral) - $80
 
 *Honorable Mentions*
+• KBEAR Rosefinch (very bassy) - $20
+• Moondrop Chu II (V-shape) - $20
+• QKZ x HBB (bassy) - $20
 • Kinera Celest Wyvern Pro (Harman) - $30
 • Tinhifi C2 (bright V) - $30
 • BLON x HBB Z300 (bassy) - $35
@@ -66,8 +59,8 @@
 • Truthear Nova (Harman) - $150
 • Hidizs MP145 (bassy neutral) - $160
 • Tanchjim New Hana 2021 (mild V) - $180
+• Tinhifi P1 Max (warm neutral) - $180
 • Moondrop Kato (warm neutral) - $190
-• Tinhifi P1 Max (warm neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
 • Hisenior T4 (neutral) - $200
 • iKKO OH10S (V-shape) - $200
@@ -82,14 +75,14 @@
 • Yanyin Canon II (V-shape) - $380
 
 *Honorable Mentions*
-• Simgot EA1000 (bright neutral) - $220
+• Simgot EA1000 Fermat (bright neutral) - $220
+• Tanchjim Oxygen (mild V) - $230
 • BQEYZ Wind (bright W) - $240
 • Dunu Falcon Ultra (warm neutral) - $240
 • Hisenior Mega5P Ultra (bassy neutral) - $240
 • JQ 4U Pro (bassy neutral) - $240
 • Kiwi Ears Orchestra Lite (neutral) - $250
 • Penon Fan 2 (warm dark) - $280
-• Tanchjim Oxygen (mild V) - $280
 • ISN Neo5 (bassy neutral) - $290
 • Hisenior Okavango (warm W) - $300
 • Thieaudio Hype 2 (bassy neutral) - $300
@@ -116,7 +109,7 @@
 • Penon Turbo (bassy V) - $550
 • Dunu SA6 MKII (bassy neutral) - $580
 • Symphonium Meteor (bassy neutral) - $600
-• FATfreq Scarlet Mini (very bassy) - $630
+• FATfreq Scarlet Mini (very bassy) - $650
 • Kinera Imperial Urd (bassy neutral) - $650
 • Moondrop S8 (Harman) - $700
 • Letshuoer EJ07 (neutral) - $750
@@ -138,7 +131,7 @@
 • 64 Audio Volür (bassy W) - $2500
 • Softears Turii Ti (warm neutral) - $2500
 • FATfreq Grand Maestro (bassy V) - $3000
-• Kinera Imperial Loki (bassy neutral) - $3000
+• Kinera Imperial Loki (bassy neutral) - $3100
 • Empire Ears Odin (bright neutral) - $3400
 • Canpur CP622B (neutral) - $3500
 • Empire Ears Raven (bassy W) - $3600
@@ -208,7 +201,7 @@
 • Moondrop Spring Tips
 • Softears Ultra Clear
 • Spinfit W1
-• Tangzu Tang Sancai
+• Tangzu Tang Sancai Balanced
 • TRI Clarion
 
 *Honorable Mentions*
@@ -242,13 +235,17 @@
 • Tanchjim Space - $90
 • Tempotec Sonata BHD Pro - $90
 • Qudelix 5K - $110
+• iBasso DC04 Pro - $120
 
 *Honorable Mentions*
+• EPZ TP20 - $50
 • Moondrop Dawn Pro - $50
 • Akliam PD4 Plus - $60
-• EPZ TP20 - $60
 • Colorfly CDA-M1P - $80
+• EPZ TP30 - $80
 • FiiO KA13 - $80
+• Shanling UA4 - $100
+• FiiO KA5 - $130
 
 ##DAPs / PMPs
 ***

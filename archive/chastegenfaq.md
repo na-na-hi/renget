@@ -90,7 +90,7 @@ The general process is as follows:
 1. Pull your member through, get it positioned and centered, then again rest and wait for you to calm down again.
 1. Finally put the cage itself on, lock it, and you're good to go!
 
-!!! danger
+!!! danger 
 	If it does not fit comfortably do not force it!
 
 The above process is just the base recommend. You may find other ways that work better for you (I personally am small and squishy enough that I do cock\-\>scrotum\-\>balls), just find what works to get you in a cage. I cannot stress enough how much some form of lubrication, either moisturizer or a lube itself, can make the process, especially if you have chafing issues with the cage, or if you are using a closed-tube design. It will also help with chafing and pulling issue when you have the cage on itself. Shaving down there can also help to remove bulk and causes of pulling and friction.
@@ -102,7 +102,7 @@ Finally, for lining things up in an open-style cage, you can take a q-tip or use
 ***
 ###### How do I determine if a cage is a good fit once I have it?
 Once you found a cage you like and ordered it, you want to test for any pinches, aches, pains, or bluing of the balls.
-!!! danger
+!!! danger 
 	If something doesn't look or feel right, just remove the cage, and try again later, don't try to force it.
 
 Note that some (especially cheaper cages) may have rough weld-marks, or seams from molding that need to be rasped or sanded down before comfortable wear. If it feels fine at first, try wearing it for at most a few hours on your first attempt just to make sure. You want to make sure it feels good flaccid, but also try to force an erection to check for any pulling of skin, pulling of the cage away from the body, and to generally make sure it does not feel painful to get erect. **It should be uncomfortable, but not painful**. Make sure as well that you are not "pooling" out between the bars too much. This usually happens with cheaper cages with smaller bars, but this can trap fluids and cause painful edemas. 
@@ -235,7 +235,7 @@ Finally, for cages, there are purpose-built cages with PA locks already integrat
 
 ***
 ###### Can/will my dick shrink in chastity?
-!!! Danger
+!!! danger 
 	**Apply the following at your own risk. Most of it is still considered highly anecdotal and/or "Broscience"**
 There is mixed literature on if you can permanently shrink your dick or not, but at the layman's level, the phrase "use it or lose it" summarizes most of the expert and anecdotal testimony. 
 
@@ -263,7 +263,7 @@ It's a simple cycle that slowly causes the tissues to atrophy as they can no lon
 Additional help towards this process of reducing erection strength can come from adding straps to your cage or wearing tighter clothes. Straps can help keep the cage against your body, leading to more strain and less room for erectile tissue to grow into. Similarly, tighter clothing (especially in the underwear department) can decrease the ability for your member to get erect. Additionally, as it is separate from the cage itself, tight underwear is great for helping to maintain tissue atrophy and decrease erectile strength and frequency even when you have your cage off. 
 
 **Stopping Spontaneous Erections**
-!!! danger
+!!! danger 
 	Please note that this is all research that I have done in the area, so that you don't have to. I in no way condone you doing any of what is listed here, as you can permanently fuck yourself up. You are basically inviting some form of permanent sexual dysfunction, so just watch out.
 
 After taking steps towards making the erections you do have less powerful and therefore contributing to some level of tissue atrophy, the next step would be to try to get rid of spontaneous erections as much as possible. This includes your nighttime erections, morning wood, random daytime chodes, whatever. The basic methods to do this is through inducing Hypogonadism (reduction/cessation of sexual hormone production) or through some form of intentional Erectile Dysfunction.

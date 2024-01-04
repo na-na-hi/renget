@@ -221,3 +221,153 @@ https://nitter.net/ME_Observer_/status/1742306673165787169#m  1/2/24
 🔻Attacked the Malikiyah US base, northeast of Al-Hasakah in Syria using suicide drones.
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1742325201231020437#m  1/2/24
+
+>Breaking || 4 Palestinians were killed after a house was bombed near the UNRWA schools in Al-Maghazi camp.
+https://nitter.1d4.us/QudsNen/status/1742453164316487736#m  1/3/24
+
+>Senator Sanders urges Congress to halt $10.1 million military aid to Israel amid genocide in Gaza
+https://nitter.1d4.us/QudsNen/status/1742457745578615109#m  1/3/24
+
+>Palestine’s top diplomat to UK warns against Britain’s complicity in Israeli ethnic cleansing
+https://nitter.1d4.us/QudsNen/status/1742448552641519909#m  1/3/24
+
+>🛑 | 🇾🇪 Statement by the Yemeni Armed Forces’ spox Yahya Sarae:
+The naval forces of the Armed Forces of Yemen, carried out an operation against the ship "CMA CGM TAGE" destined for israeli parts.
+
+This targeting operation comes after the ship's crew refused to respond to the calls of the Yemeni naval forces, including warning messages.
+
+Furthermore, the Yemeni Armed Forces emphasize that any American aggression will not pass without a response or punishment.
+
+We, the Yemeni Armed Forces, offer congratulations and condolences to the jihadist brothers in the Islamic Resistance Movement, Hamas, on the martyrdom of the jihadist leader Saleh Al-Arouri and his martyred companions.
+https://nitter.net/AryJeay/status/1742517805969203495#m  1/3/24
+
+>🚨 HOLY SH*T: In a joint operation, between Al-Qassam Brigades & the Mujahideen Brigades:
+They successfully shot down an israeli Hermes-900 drone with an anti-aircraft missile, east of the city of Gaza.
+https://nitter.net/AryJeay/status/1742515337453621612#m  1/3/24
+
+>🚨 | 🇮🇷 The head of the Kerman Emergency Medical Center:
+We have at least 20 deaths due to 2 explosions in Kerman.
+https://nitter.net/AryJeay/status/1742523371814785479#m  1/3/24
+
+>🚨 According to local sources on the ground, the 2 explosions in Kerman occurred due to 2 suicide-bombers, at 2 seperate locations.
+https://nitter.net/AryJeay/status/1742524650905542974#m  1/3/24
+
+>🌹 Death toll update:
+53 martyrs & 71 injured in the terrorist attack in Kerman, according to the public relations of the emergency organisations.
+https://nitter.net/AryJeay/status/1742530122458993116#m  1/3/24
+
+>1/ There are conflicting reports about the number of fellow Iranians who lost their lives in two blasts that happened inside the Kerman cemetery, as people were commemorating the 4th anniversary of Qassem Soleimani’s assassination.
+https://nitter.net/fresh_sadegh/status/1742531091032834368#m  1/3/24
+
+>When it comes to terrorist attacks in Iran, MOSSAD or the US hire filthy American proxies such as MEK-terrorist agents to carry out their dirty work.
+https://nitter.net/AryJeay/status/1742542502047981583#m  1/3/24
+
+>🌹Death toll update #3
+Approximately 103 martyrs & 141 injured, some of them are in serious condition.
+The injured have been transferred to Prophet Azam, Bahonar, Shafa and Afzalipur hospitals.
+https://nitter.net/AryJeay/status/1742548617972371788#m  1/3/24
+
+>PIJ: We strongly condemn the treacherous attack in Kerman against citizens at the shrine of martyr Commander Hajj Qassem Soleimani.  
+The sinful aggression will increase the cohesion of the peoples of our nation around resistance, of which martyr Soleimani will remain a symbol.
+https://nitter.net/IbnRiad/status/1742549466047979629#m  1/3/24
+
+>🛑 Iranian Minister of Interior:
+• “This terrorist act will be met with a strong and decisive response from the security and military apparatus in the shortest possible time”
+
+• “The first explosion occurred at 3PM, and when people rushed to come & help the wounded, a second explosion occurred at 3:20PM; most of the martyrs & injured are affected by the second explosion.”
+
+• “The situation in Kerman is normal now, and everything is under the control of the security and law enforcement forces.”
+
+• “The enemy tried to carry out explosions in various ceremonies, which was thwarted by our intelligence forces.”
+https://nitter.net/AryJeay/status/1742555041351757867#m  1/3/24
+
+>Al Jazeera cites Al Qassam senior source as saying that Israel's military in Al Bureij refugee camp in central Gaza uses robots emitting sounds of tanks and gunshots to lure fighters of the resistance movement.
+https://nitter.1d4.us/QudsNen/status/1742557910465405143#m  1/3/24
+
+>The spokesperson for South Africa's Department of International Relations and Cooperation (DIRCO), Clayson Monyela, says the ICJ has scheduled a hearing of the case that South Africa has triggered against Israel. 
+the hearing is set for 11-12 January 2024 at the Hague, he said, adding that "our lawyers are currently preparing for this."
+https://nitter.1d4.us/QudsNen/status/1742567217097589111#m  1/3/24
+
+>Iranian minister of the Interior:
+“We have information, but we will inform people as soon as it is confirmed. People should not pay attention to rumours. I ask everyone to pay attention to the PsyOps by the enemy and not to become a victim of it.”
+https://nitter.net/AryJeay/status/1742553495306109342#m  1/3/24
+
+>Um Fathi Shaban died today of wounds she sustained during the Israeli raid into Kamal Idwan Hospital in Gaza two weeks ago. 
+Israeli soldiers had beaten her leaving her with severe wounds. They also killed her two sons.
+https://nitter.1d4.us/QudsNen/status/1742591986345922915#m  1/3/24
+
+>BREAKING| An Imam has been shot and critically wounded outside a mosque in Newark, New Jersey. The Newark Department of Public Safety said the incident remains under investigation.
+
+>Sayyed Nasrallah: Israel's deterrence capability has "collapsed" after aqsa flood operation and opening of new fronts, including in lebanon — Reuters
+
+>Sayyed Hassan Nasrallah:
+About the blessings of the Al-Aqsa Flood:
+
+The support for the Resistance is at an all-time high, not only in Palestine and Gaza, but across the world, especially for Hamas. This support is unprecedented.
+
+The false image that portrayed "israel" as a "peaceful nation" has fallen; "israel" is now seen as a child murderer, terrorists...this is thanks to social media platforms that spread this truth to the world.
+
+The false claim of "israel's" deterrence of its enemies is destroyed; israel's power lies in deterring its enemies. However, when Hamas carried out Al-Aqsa Flood, Hamas was not deterred. 
+
+A false claim of "israeli" intelligence superiority; there is a common misconception that "israel" knows everything. That is not true.
+https://nitter.net/AryJeay/status/1742599301740597652#m  1/3/24
+
+>In short, Hezbollah stated that it will retaliate on the assassination of Al Arouri, and at the same time reminded the Israeli that if he thinks of waging are or retaliating in a big manner after the retaliation, he must know that Hezbollah is ready for the full scale war.
+https://nitter.net/ME_Observer_/status/1742604626744984057#m  1/3/24
+
+>⚡️Sayyed Nasrallah: If israel wages war on Lebanon, there will be no ceilings, no rules to our fighting
+https://twitter.com/WarMonitors/status/1742603996345315431  1/3/24
+
+>🚨 BREAKING: Iran's Interior Minister: 
+Upon the Ayatollah Khamenei’s order, we have called on all intelligence and military units to prepare themselves for a response to the terrorist attack in Kerman.
+https://nitter.net/AryJeay/status/1742610173477199972#m  1/3/24
+
+>BREAKING| The International Court of Justice announces that it will hold public hearings on the request for the indication of provisional measures submitted by South Africa in the case against Israel on Thursday 11 and Friday 12 January 2024.
+https://nitter.1d4.us/QudsNen/status/1742614350169268286#m  1/3/24
+
+>(This news seems to be denied; was initially shared by an Iranian journalist)
+🚨Iran's Interior Minister: 
+Upon the Ayatollah Khamenei’s order, we have called on all intelligence and military units to prepare themselves for a response to the terrorist attack in Kerman.
+https://nitter.net/AryJeay/status/1742618420846158174#m  1/3/24
+
+>BREAKING| Germany calls on its citizens to leave Lebanon immediately.
+https://nitter.1d4.us/QudsNen/status/1742616101249315191#m  1/3/24
+
+>Germany and #Canada call on their citizens to leave #Lebanon immediately.
+https://nitter.net/ME_Observer_/status/1742621480452563335#m  1/3/24
+
+>⚡️ Video published by Al-Qassam Brigades (Hamas) and the Al-Quds Brigades (PIJ) showing scenes of mortar launches against a gathering of IOF vehicles & soldiers in the city of Khan Yunis.
+https://nitter.net/AryJeay/status/1742629924077265383#m  1/3/24
+
+>🛑 | 🇮🇶 Islamic Resistance in Iraq announces:
+Attacking the US Al-Tanf base in Syria, with suicide drones.
+https://nitter.net/AryJeay/status/1742629009190490624#m  1/3/24
+
+>The Government Media Office: Israel dropped 65,000 tons of explosives on Gaza in 88 days.
+https://nitter.1d4.us/QudsNen/status/1742636629745926482#m  1/3/24
+
+>⚡️Cuba: The Cuban President: 
+We condemn in the strongest terms the terrorist attack during the ceremony commemorating the fourth anniversary of the assassination of General Qasem Soleimani.
+
+ We declare our solidarity with the #Iranian government and people and our heartfelt condolences to the families of the victims
+https://nitter.net/ME_Observer_/status/1742642100993138883#m  1/3/24
+
+>🇮🇷 Deputy Chief of Staff for Political Affairs:
+
+“Washington says the US & “Israel” had no role in the terrorist attack in Kerman. Really? A fox smells its own lair first.  Make no mistake. The responsibility for this crime lies with the US and Zionist regimes and terrorism is just a tool.”
+https://nitter.net/AryJeay/status/1742649736966889489#m  1/3/24
+
+>BREAKING| White House National Security Council spokesman John Kirby: Hamas cannot be defeated... We do not believe that the military attack will eliminate Hamas' ideology, and we accept the idea that Hamas will continue to exist.
+https://nitter.1d4.us/QudsNen/status/1742653779881927091#m  1/3/24
+
+>White House National Security Council spokesman John Kirby describes South Africa’s 84-page suit against Israel's genocide in Palestine as “meritless, counterproductive, and completely without any basis in fact whatsoever.”
+https://nitter.1d4.us/QudsNen/status/1742670197943878001#m  1/3/24
+
+>BREAKING| The Red Crescent: Israeli forces are blocking an ambulance from reaching a patient in Nour Shams refugee camp in Tulkarm even after we have coordinated its movement with the Red Cross.
+https://nitter.1d4.us/QudsNen/status/1742671010175021510#m  1/3/24
+
+>White House National Security Council spokesman John Kirby snaps on Al Jazeera reporter when she asks about the American intervention in the Red Sea, which has been seen as a provocation to escalate the situation in the Middle East.
+https://nitter.1d4.us/QudsNen/status/1742680149785530415#m  1/3/24
+
+>UPDATE| Imam Hassan Sharif succumbed to his injuries after being shot outside Masjid-Muhammad-Newark on Wednesday morning in Newark.
+https://nitter.1d4.us/QudsNen/status/1742684327773696369#m  1/3/24

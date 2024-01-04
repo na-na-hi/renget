@@ -125,9 +125,9 @@
 - Safest free movie site in 2023 to instantly view movies and television shows online.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixhq.click/)
 
-### ▶️ [Flixtor](https://flixtor.id/)
+### ▶️ [Flixtor](https://flixtorz.to/)
 - Best place for movie enthusiasts to watch streaming movies with our regularly updated database.
-- [URL Safety Results](https://www.urlvoid.com/scan/flixtor.id)
+- [URL Safety Results](https://www.urlvoid.com/scan/flixtorz.to)
 
 ### ▶️ [FlixWave](https://flixwave.to/)
 - Modern website for watching tens of thousands of HD movies and TV episodes, free of charge.

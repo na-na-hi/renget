@@ -8,13 +8,15 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 212th time, what is Ope?!
+For the 213th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
 Next appearance: TBA, likely on Kiara's channel
 Next stream: TBA, likely the New Year Outfit reveal
+Last broadcast (November karaoke rebroadcast)
+https://www.youtube.com/watch?v=o3taKS5jLFY
 Previous stream (Lethal Company Advent collab)
 https://www.youtube.com/watch?v=eG9tE3v7lfA
 Recent appearances
@@ -42,7 +44,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>65842238
+Previous thread: >>65920438
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

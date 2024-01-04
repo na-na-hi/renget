@@ -36,6 +36,8 @@ Likewise, generic low-effort or non-ai memes and reactions, infographics, duplic
 - December Archives
 - Part 1 - 2.1 GB - 9,100 images
 - https://pixeldrain.com/u/8nzpjwVp
+- Part 2 - 1.5 GB - 6,200 images
+- https://pixeldrain.com/u/Cqgfskcs
 
 - /POL/ memes from non-MWG threads
 - October Archives

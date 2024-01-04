@@ -41,17 +41,9 @@
 - Focuses on free, indie, portable programmes, and is dedicated to constantly providing users with helpful software.
 - [URL Safety Results](https://www.urlvoid.com/scan/appnee.com/)
 
-### 🔗 [Appstorrent](https://appstorrent.ru/) • MacOS • Russian UI
-- Countless apps, games, and plugins available for download. Releases come from various sources.
-- [URL Safety Results](https://www.urlvoid.com/scan/appstorrent.ru/)
-
 ### 🔗 [AudioZ](https://audioz.download/)
 - Hyper focused on music producing software such DAWs, updates of sample libraries, VST plugins, multitracks, and much more.
 - [URL Safety Results](https://www.urlvoid.com/scan/audioz.download/)
-
-### 🔗 [Cmacked](https://cmacked.com/) • MacOS
-- Greatest and most popular MacOS apps, including games, are obtainable, plus it's updated daily.
-- [URL Safety Results](https://www.urlvoid.com/scan/cmacked.com/)
 
 ### 🔗 [DIAKOV](https://diakov.net/) • Russian UI
 - Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
@@ -81,14 +73,6 @@
 - Numerous portable applications and utilities that are well-liked by users for more than ten years.
 - [URL Safety Results](https://www.urlvoid.com/scan/lrepacks.net/)
 
-### 🔗 [M S J](https://www.macserialjunkie.com/forum/) • Sign Up • MacOS
-- Good discussion board where members of the community discusses everything MacOS and exchange cracked software and games.
-- [URL Safety Results](https://www.urlvoid.com/scan/macserialjunkie.com/)
-
-### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
-- Several MacOS apps available covering a wide variety. However, the site uses premium file hosts, which is not friendly for free users.
-- [URL Safety Results](https://www.urlvoid.com/scan/macappdownload.com/)
-
 ### 🔗 [MaGeSY](https://www.magesy.blog/)
 - DAWs, sample libraries, VST plugins, multitracks, and other music production software are all heavily emphasized.
 - [URL Safety Results](https://www.urlvoid.com/scan/magesy.blog/)
@@ -109,10 +93,6 @@
 - Provides software downloads for Windows, Mac, and Android devices and does not require registration.
 - [URL Safety Results](https://www.urlvoid.com/scan/mutaz.pro/)
 
-### 🔗 [NMac](https://nmac.to/hub/) • MacOS
-- Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get your download started, very easy.
-- [URL Safety Results](https://www.urlvoid.com/scan/nmac.to/)
-
 ### 🔗 [PeskTop](https://pesktop.com/) • Arabic UI
 - Resource for Windows, Android, and Mac OS, providing direct access to heaps of cracked content.
 - [URL Safety Results](https://www.urlvoid.com/scan/pesktop.com/)
@@ -128,6 +108,10 @@
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI
 - Updated often, with complete, unrestricted versions of just the best applications available.
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)
+
+### 🔗 [soft98](https://soft98.ir/) • Persian UI
+- Sstreamlining file accessibility for the latest iterations, all while consistently enhancing and keeping up with technological advancements.
+- [URL Safety Results](https://www.urlvoid.com/scan/soft98.ir/)
 
 &nbsp;
 
@@ -216,6 +200,54 @@
 ### 🔗 [TypeRip](https://badnoise.net/TypeRip/)
 - A web utility that takes a URL from an Adobe Font library and pulls the font from the database.
 - [URL Safety Results](https://www.urlvoid.com/scan/badnoise.net/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 ➜ macOS
+
+### 🔗 [AllMacWorlds](https://allmacworlds.com/)
+- Each piece of software is tested to ensure its functionality, and only the fully operational versions.
+- [URL Safety Results](https://www.urlvoid.com/scan/allmacworlds.com/)
+
+### 🔗 [AppKed](https://www.macbed.com/)
+- It offers the freedom to download any desired application without any charges involved.
+- [URL Safety Results](https://www.urlvoid.com/scan/macbed.com/)
+
+### 🔗 [Appstorrent](https://appstorrent.ru/)
+- Countless apps, games, and plugins available for download. Releases come from various sources.
+- [URL Safety Results](https://www.urlvoid.com/scan/appstorrent.ru/)
+
+### 🔗 [Cmacked](https://cmacked.com/)
+- Greatest and most popular MacOS apps, including games, are obtainable, plus it's updated daily.
+- [URL Safety Results](https://www.urlvoid.com/scan/cmacked.com/)
+
+### 🔗 [InsMac](https://insmac.org/)
+- Array of free software programs and games specifically tailored for users on a Mac.
+- [URL Safety Results](https://www.urlvoid.com/scan/insmac.org/)
+
+### 🔗 [M S J](https://www.macserialjunkie.com/forum/) • Sign Up
+- Good discussion board where members of the community exchanges cracked software and games.
+- [URL Safety Results](https://www.urlvoid.com/scan/macserialjunkie.com/)
+
+### 🔗 [Macintosh Garden](https://macintoshgarden.org/)
+- Awe-inspiring abandonware archive that houses a treasure trove of software and games.
+- [URL Safety Results](https://www.urlvoid.com/scan/macintoshgarden.org/)
+
+### 🔗 [Macx](https://macx.ws/) • Russian UI
+- Assortment of thoroughly crafted software. Elevate your Mac experience with these offerings.
+- [URL Safety Results](https://www.urlvoid.com/scan/macx.ws/)
+
+### 🔗 [MAD](https://www.macappdownload.com/)
+- Several MacOS apps available covering a wide variety. However, the site uses premium file hosts.
+- [URL Safety Results](https://www.urlvoid.com/scan/macappdownload.com/)
+
+### 🔗 [NMac](https://nmac.to/hub/)
+- Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get started.
+- [URL Safety Results](https://www.urlvoid.com/scan/nmac.to/)
 
 &nbsp;
 

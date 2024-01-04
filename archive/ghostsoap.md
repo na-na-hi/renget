@@ -1,0 +1,2 @@
+->Hello Chat... wip...<-
+![!](https://media.discordapp.net/attachments/1089617212677030019/1192289323127681095/IMG_1422.jpg?ex=65a888f6&is=659613f6&hm=2f9a32081adcedf29ba98c4759c2d60bb093edf63f45024d615c660b55ecee60&)
