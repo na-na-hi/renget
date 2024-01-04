@@ -620,6 +620,8 @@ Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) 
 [Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) 
 [(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
+[Misaki Nako 1st PB (torrent)](https://nyaa.si/view/1762141)
+[Chiemi Tanaka 1st PB (w/ exclusive DVD) (torrent)](https://nyaa.si/view/1762140)
 
  
 **Videos/Clips/Namas**
@@ -642,8 +644,10 @@ Liella engsubs 3 - https://www.youtube.com/channel/UCjjLcEp-TiPQEXOhCTxEV6w/
 Assorted fansubs - https://youtube.com/c/yuriodesu
 Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
 (Mainly) Liella engsubs - https://youtube.com/@skyschannelentranslator8875
+Liella engsubs - https://youtube.com/@nagioshi
 https://youtube.com/@smithsubs876
 https://youtube.com/@bbadsubs
+
  
 **Magazines & Blog Translations**
 Aikyan - http://aikyan.dyreatic.moe/archive

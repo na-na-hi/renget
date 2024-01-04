@@ -57,13 +57,13 @@ Separator: "</s>"
 ***
 **Recommended parameters for this model:**
 ```go
-Context: [10k] - if ST does not allow exactly 10k, adjust for less not more
+Context: [10k]
 New Tokens: [400] - use "Continue" button if the reply gets cut off
-Temperature: [2] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.1] - reduce likelihood of previously appeared tokens showing up
+Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
+Rep. pen: [1.08 - 1.12] - reduce likelihood of previously appeared tokens showing up
 Rep. pen range: [1000] - how many previous tokens to scan for repetition
-Top_k: [12] - only select from the top 12 best tokens
-Min_p: [0.5] - minimum chance for a token to be selected compared to the best token
+Top_k: [30] - only select from the top 12 best tokens
+Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
 ```
 https://rentry.org/llm-settings

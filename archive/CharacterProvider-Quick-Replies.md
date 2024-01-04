@@ -15,6 +15,9 @@ Open the `Extentions` tab in SillyTavern's interface, click on the `Quick Reply`
 
 To send a message with the chosen prompt simply type in the message you want to send as usual but instead of pressing 'Send', click on the quick reply button that appeared above the text field. Your message can be empty. It's similar to DungeonAI.
 
+![](https://i.imgur.com/aOLflc5.gif)
+*(Image: Quick Replies V2 visualisation)*
+
 ####
 - - -
 ##### [⬇️ DOWNLOAD QR PRESETS V2.0](https://files.catbox.moe/752pwo.zip)

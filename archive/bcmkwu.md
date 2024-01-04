@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>BOBR - Battle Beavers
+https://files.catbox.moe/5nv3cv.mp4
 >CV90 hit by drone
 https://files.catbox.moe/km4gpl.mp4
 >BOBRS BEAVER SANTA DRONE STRIKES
