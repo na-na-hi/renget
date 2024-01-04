@@ -63,7 +63,7 @@ Fumino Tamaki - https://streamable.com/s8irb3
 Nekomata Mel - https://streamable.com/kmoh6n, https://streamable.com/r33mj0
 
 **Burps** (burps are some of the most common /ringo/ content, so I'll mainly stick to holo/niji clips, but I'll add anything anyone wants added)
-Kiryu Coco - https://streamable.com/lin1y2
+Kiryu Coco - https://streamable.com/lin1y2, https://youtu.be/Aep-csNYfNc?si=1-IlHJzOX7fv1Rv0&t=36
 Akai Haato -https://files.catbox.moe/2vmfaj.mp4, https://youtu.be/l1T_rBw3few?t=2722
 Gawr Gura - https://youtu.be/24i-r4DTweo
 Hoshinova Moona - https://youtu.be/UqQGBz9idUY?t=7864
@@ -80,6 +80,7 @@ Nyanners - https://youtu.be/GC4idq6vJyY
 Takanashi Kiara - https://streamable.com/qr7wwc
 Selen Tatsuki - https://www.youtube.com/live/33PPNW-6fm0?si=VnwLD4vKzIEHheLR&t=3723
 Yuzuki Choco - https://files.catbox.moe/uvrubt.webm
+Hakos Baelz - https://youtu.be/C1hfiLvH9SQ?si=MLgKg_4tkuqcaxuE
 
 **Vomit**
 Akai Haato - https://youtu.be/UDNpNdcruVM
@@ -91,9 +92,10 @@ Enno Yami - https://www.youtube.com/watch?v=aog9xt21mSg; https://www.youtube.com
 Shirogane Noel - https://www.youtube.com/watch?v=UzgkXcWYyT8, https://www.youtube.com/watch?v=k0_yWY9DRDU
 Kiryu Coco - https://www.youtube.com/watch?v=XzD-Ms5ukLE&t=3420s
 Amelia Watson - https://www.youtube.com/watch?v=5OgO3PDI3ko&t=2065s
-Himemori Luna - https://youtu.be/U79xsNy8WMo
+Himemori Luna - https://youtu.be/U79xsNy8WMo, https://www.youtube.com/watch?v=kXRxkZslFVM
 Yukihana Lamy - https://www.youtube.com/watch?v=Z1X_jj9fpMo
 Ceres Fauna - https://youtu.be/QDKW1OzsxJc; https://www.youtube.com/watch?v=WFgAwc5w-kY
 Ouro Kronii - https://www.youtube.com/watch?v=uY_SqechQJI
 Tsunomaki Watame - https://twitter.com/tsunomakiwatame/status/1653477860987011072?s=46&t=OQ2gmYdSJ-ypvoiIS-yS9g
 Shiori Novella - https://www.youtube.com/watch?v=S9mHmGz5s9U
+Mori Calliope - https://youtu.be/qbtp_APIplM?si=lq90fYLZPGNigjfb

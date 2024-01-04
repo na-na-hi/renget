@@ -1022,6 +1022,7 @@ Dinner For Three (Capture Cloth, Bakeneneko): https://rentry.org/adknw
 Brightly VS The Toy Army: https://desuarchive.org/tg/post/91361422/
 MHA 1.9999: Prose Edition: https://rentry.org/y9rfp
 The Other Side - A (108 Gang, Cameo of Orochi): https://rentry.org/6uvv5
+A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C): https://rentry.org/iyfm2
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

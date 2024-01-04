@@ -1,12 +1,11 @@
-##Temporarily out of town until further notice; will check in soon!
-https://imgur.com/a/XLyHOh3
+####Guess who's back after 3 months?
 
 #/aids/ — AI Dynamic Storytelling General
 
 ![suggested OP image]()
  Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>456062493
+Last thread: >>460466609
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,14 +35,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Write prompts for next week's theme, Giant Robots and Mechas Friday! >>456190168
+Write prompts about this week's theme, Genies and Wishes Friday! Results: >>459665007
  
 ▶News
-(11/17-22) SAM ALTMAN FIRED, HIRED, THEN REHIRED: https://archive.is/Zb6zB / https://archive.is/2lmPO / https://archive.is/HZIcW
-(11/15) Anlatan releases NAI Diffusion V3: https://blog.novelai.net/introducing-novelai-diffusion-anime-v3-6d00d1c118c3
-(11/09) Saga updates with GPT-4-Turbo (and GPT-3.5-Turbo-1106)
-(11/06) OAI unveils GPT-4-Turbo, GPTs https://openai.com/blog/new-models-and-developer-products-announced-at-devday
-(11/01) NAI needs more novelshills: https://anlatan.ai/jobs
+\>(01/01) Happy New Year! NAI tosses apoloanals: https://i.imgur.com/CxmoFHD.png ; ledditors pull a Holo: https://write34.com
+(12/28) Saga will end free daily credits come 2024! https://i.imgur.com/zIgcUp1.png
+(12/24) NAI Diffusion V3 token bug fixed, Human Focus UC preset added; NAI add new limited-time Christmas text module and "Christmas Spirit" image-gen toggle.
+(12/20) Latitude hosts Mixtral and Mythomax! https://latitude.io/blog/the-ai-renaissance-begins-introducing-mixtral-and-mythomax
+(12/15) Mistral releases Mixtral—Saga hosts! https://i.imgur.com/cMHgjof.png
 
 
 #Perma-Template

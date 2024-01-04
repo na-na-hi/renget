@@ -434,7 +434,7 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 ***
 
 ## SDXL
-学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。TEが二つあるせいでTE込みの学習が激ムズらしい。
+学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。~~TEが二つあるせいでTE込みの学習が激ムズらしい。~~ 実際はそうでもない
 現状マルゼン式(タグの集約)は良くない感じ。タグは消さずに残すべし。
 
 ### 学習に使うウェイト
@@ -655,5 +655,5 @@ SDXLは高性能なため16以下で良い。
 - 4000-6000steps,Dim8/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
 - キャプションはそのままで、shuffle captionはオフ
-- full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!
+- full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!(--mixed_precisionではない)
 - gradient_checkpointingオンでもVRAMあふれる状況ならオフにしたほうが速い

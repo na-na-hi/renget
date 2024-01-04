@@ -372,6 +372,7 @@ Touma Tengu|[Link](https://beta.character.ai/chat?char=2KX8ITQjF34ualURveueWjE_Z
 Sleepy Project|[Link](https://beta.character.ai/chat?char=rcnYle5oXYD5Zlotgl9-ZBgtNfSCBBI3wGs_t46uxjI)|
 Akira Mazono|[Link](https://beta.character.ai/chat?char=kH8KhA4f_4rnbBuFlubByP2EHVIyJL87O2NvQZW3Wx0)|
 Menace Alchemilla|[Link](https://beta.character.ai/chat?char=56-V2L95zq4gxr_uRysVQQ2n7DVuDJbxyPiZAWjja6Y)|
+Grimmi |[Link](https://beta.character.ai/chat2?char=VNZ8LtNbzc2Tx9RxxY1wS4BSD72WwhDqHxUnUkkjSbA)|
 
 ###Other
 Bot name|Link|Tags/Description
