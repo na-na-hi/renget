@@ -294,7 +294,7 @@ head-fi.org/threads/the-different-types-of-iem-connectors.938264
 headphonesty.com/2018/04/ultimate-guide-selecting-perfect-iem-ear-buds-tips
 audioreviews.org/guide-to-iem-silicone-eartips
 
-*Digital Audio Player (DAP) / Portable Media Player (PMP) Guide*
+*Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
 twitter.com/align_centre/status/1677649129353404416
 
 *Reading on Various Audio Topics*

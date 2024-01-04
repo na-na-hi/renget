@@ -44,8 +44,8 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 		- [Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
 	
 	- Mixtral 8x7b:
-		- **[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- AliCat's current all time favorite model. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. This is currently my goto and the only model I really use at the moment.**
-		- [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices, if not the best choice for under 24GB VRAM. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship.
+		- **[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- One of AliCat's favorite models. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. Another issue to look out for is leaking (length = x), so is another tricky aspect to get around. If you're having issues with the model, then I'd recommend Mixtral Instruct instead. This is my current goto model!**
+		- [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices overall. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship. CFG and light jailbreaks can get around the censorship.
 	
 ***
 #Leaderboard

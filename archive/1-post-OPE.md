@@ -13,19 +13,16 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next appearance: TBA, likely on Kiara's channel
-Next stream: TBA, likely the New Year Outfit reveal
-Last broadcast (November karaoke rebroadcast)
-https://www.youtube.com/watch?v=o3taKS5jLFY
-Previous stream (Lethal Company Advent collab)
-https://www.youtube.com/watch?v=eG9tE3v7lfA
-Recent appearances
+▼ Upcoming streams
+Mon 01/05 8PM CT, own channel: New Year outfit reveal — https://www.youtube.com/watch?v=vyvA71ABpRo
+Mon 01/05 9PM CT, FWMC channel: New Year outfits Advent collab — https://www.youtube.com/watch?v=1qdzoTjz_JE
+▼ Recent appearances
 Koyori's channel, Koyori VS Advent collab — https://www.youtube.com/watch?v=imAoF0-T9W8&t=3280s
 Cameo at the end of her Christmas karaoke rebroadcast — https://streamable.com/mpv502
+Cameo at the end of her November karaoke rebroadcast — https://streamable.com/6z192m
+▼ Previous stream (Lethal Company Advent collab)
+https://www.youtube.com/watch?v=eG9tE3v7lfA
 
-\>Nerissa's hololive New Year's Holiday Date Voice Packs
-~Closing Off 2023~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492
-~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
@@ -38,6 +35,10 @@ Songs & Karaokes rentry
 https://rentry.org/karaokes_songs_v01
 Cover playlist
 https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM
+
+\>Nerissa's hololive New Year's Holiday Date Voice Packs
+~Closing Off 2023~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492
+~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
 
 \>Useful Links
 YouTube: https://www.youtube.com/@NerissaRavencroft

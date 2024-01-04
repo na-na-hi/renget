@@ -1,4 +1,4 @@
--> Last update: 2023-12-09 ->
+-> Last update: 2024-01-04 ->
 
 # /horg/ - Horror Games General 
 
@@ -265,6 +265,7 @@ Aka, the Frictional formula, popularized with Penumbra and Amnesia, recycled by 
 [Lost in Vivo](https://store.steampowered.com/app/963710/Lost_in_Vivo/) [▶️](https://www.youtube.com/results?search_query=Lost in Vivo+gameplay) `FPS, SH-inspired`
 [Mad Father (Remake)](https://store.steampowered.com/app/483980/Mad_Father/) & [Original](https://vgperson.com/games/madfather.htm) [▶️](https://www.youtube.com/results?search_query=Mad Father+gameplay)
 [MEMENTO](https://store.steampowered.com/app/437030/MEMENTO/) [▶️](https://www.youtube.com/results?search_query=MEMENTO+gameplay)
+[Mirror Layers](https://store.steampowered.com/app/1490980/Mirror_Layers/) [▶️](https://www.youtube.com/results?search_query=mirror+layers+gameplay)
 [Misao (Remake)](https://store.steampowered.com/app/691450/Misao_Definitive_Edition/) & [Original](https://vgperson.com/games/misao.htm) [▶️](https://www.youtube.com/results?search_query=Misao+gameplay)
 [Monstrum](https://store.steampowered.com/app/296710/Monstrum/) [▶️](https://www.youtube.com/results?search_query=Monstrum+gameplay)
 [Mundaun](https://store.steampowered.com/app/720350/Mundaun/) [▶️](https://www.youtube.com/results?search_query=Mundaun+gameplay) `first person`

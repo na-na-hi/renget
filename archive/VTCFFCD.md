@@ -23,7 +23,7 @@
 [Kuro Christmas](https://docs.google.com/document/d/e/2PACX-1vTLL9O0hV2JGos0JZQqdKYrG3x8xPLTgWivGqKp_ufCQo1u_vkJK4GiCiTcCz5UgBrvX_sJO991Rqyg/pub) (Kurokami, SFW, Fluff)
 [Wait Till Midnight With Me](https://docs.google.com/document/d/e/2PACX-1vSRNFg7ZuBf6MgipmbkfE2fWYGQ6ahobXeXC8iahB--Z5gLvFyE9VrG1scNvh0l9TWQtxykbhQsi40k/pub) (Ina, SFW, Fluff)
 [Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) (Amelia, Kiara, SFW, Fluff)
-[Cooking and a Comet Epilogue - Azkui Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life)
+[Cooking and a Comet Epilogue - Azuki Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life)
 [The Laws](https://docs.google.com/document/d/e/2PACX-1vS-yyxYyGhktO6xKvDHe0_gGJQ-DW1WLsIhBZfthdopUfcJ3UVeol8V3GeTKrCSdX4rs_Omyi-epKB3/pub) (Myth, Amelia, SFW, Sci-Fi, Character Death)
 [The Right One](https://docs.google.com/document/d/e/2PACX-1vTY3ue84TxXIQo34Vl75bF2w7gk7OMMpUeQBvBowOZEm-Mrlv8qvWhOXWPytkKgeYS_s6GP-YCPohRx/pub) (Mori, SFW, Fluff, Romance)
 [Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) (Botan, NSFW, /ss/, Anal, Furry(?), Parody)<-
@@ -690,7 +690,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [Cooking for a Comet](https://docs.google.com/document/d/e/2PACX-1vRghRyG_2o_erBfWuUQofrwSH2OK6c2IbC3WboLoQ28rNphZNy0lPYdTzvRLWwIj98rrF_YHeD0BjaK/pub) (Suisei, SFW, Fluff)
 [Cooking With A Comet](https://docs.google.com/document/d/e/2PACX-1vQ2rupWDw01NHLwytEMCJn7pHIae1BhG8igWE8PcR-rK51xJGZwGMDPnpf7XJ9ej2S1WPjPAuifkwAQ/pub) (Suisei, SFW, Fluff) ^
 [Cooking and a Comet](https://docs.google.com/document/d/e/2PACX-1vRqqPcrZEfhcCe_T4AklinX34XOvut8XxtQhSUJ4I6Uc8ijq0rJ8KJvnlsdpnaZERnQCMlkvTENzi6w/pub) (Suisei, SFW, Fluff, Drama) ^
-[Cooking and a Comet Epilogue - Azkui Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life) ^
+[Cooking and a Comet Epilogue - Azuki Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life) ^
 [A Boatload Of Happiness](https://docs.google.com/document/d/e/2PACX-1vT2PITSonUfJzVVeH9Ca3aI33HbH3SX8chOAovxX578rIvk6MEdoMU0MldwZfpXe5DfchnPgINWcaTS/pub) (Ayame, SFW, Fluff)
 [Laplus and Lui Short](https://rentry.co/mzeoz) (Laplus, Lui, SFW, Fluff, Short)
 [Tickle Torture](https://rentry.co/mv6hh) (Iroha, Laplus, Lui, SFW?, short)

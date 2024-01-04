@@ -29,13 +29,6 @@ boy portrait | warrior woman | jungle statue | random fun
 ![](https://files.catbox.moe/9zv255.png) | ![](https://files.catbox.moe/1k8hw4.png) | ![](https://files.catbox.moe/0ag19u.png) | ![](https://files.catbox.moe/ixkc85.png)
 
 ``` html
-artist:guweiz, artist:alkemanubis, artist:po-ju, 
-```
-boy portrait | warrior woman | jungle statue | random fun
------- | ------ | ------ | ------
-![](https://files.catbox.moe/huvmn6.png) | ![](https://files.catbox.moe/bwdek9.png) | ![](https://files.catbox.moe/s245kh.png) | ![](https://files.catbox.moe/bi044f.png)
-
-``` html
 artist:sciamano240, artist:rei (sanbonzakura), artist:shimhaq, 
 ```
 boy portrait | warrior woman | jungle statue | random fun
@@ -114,6 +107,20 @@ artist:brian froud, artist:demizu posuka, artist:shigatake,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/9mqale.png) | ![](https://files.catbox.moe/z6230e.png) | ![](https://files.catbox.moe/scgq8a.png) | ![](https://files.catbox.moe/hxj2qw.png)
+
+``` html
+artist:guweiz, artist:alkemanubis, artist:po-ju, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/huvmn6.png) | ![](https://files.catbox.moe/bwdek9.png) | ![](https://files.catbox.moe/s245kh.png) | ![](https://files.catbox.moe/bi044f.png)
+
+``` html
+artist:cyancapsule, artist:paloma piquet, {{artist:peter mohrbacher}}, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/98ccal.png) | ![](https://files.catbox.moe/y80yla.png) | ![](https://files.catbox.moe/cozh8l.png) | ![](https://files.catbox.moe/xf0oz4.png)
 
 ***
 # Stylized anime stuff???

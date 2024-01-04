@@ -7,6 +7,7 @@ https://files.catbox.moe/ozlx6q.mp4 (intro+outro voices)
 
 ###  porn collection
 [enjoy](https://mega.nz/folder/Zkxg1aDQ#gTxGggJF4LtmELlQ1t-mrQ)
+https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon
 
 ### FUWAMOCO VN & Anime list
 https://pastebin.com/BGvNtvJ4
