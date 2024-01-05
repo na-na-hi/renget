@@ -1,3 +1,1 @@
-fuck this is a wip
-mumi or noel , 18 sapphic bisexual agender
-aroace , introject of nanashi mumei  byeee
+I might give this away, maybe ( I probably won't ) WE will see viewers, come back for the next episode of /mumei!

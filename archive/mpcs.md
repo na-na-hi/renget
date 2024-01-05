@@ -30,6 +30,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 
 !!! info
 	Mint [12/31/23]
+	Mythica Strifecrow [1/3/24]
 
 ***
 
@@ -715,6 +716,18 @@ Formatted with: Scrip+Boostyle
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/yskh9w.png)
 
+### Mythica Strifecrow [OC] [Female] [Waifu] [Tsundere] [Villain] [Evil] [Tomboy] [Yakuza]
+
+>**Mythica Strifecrow** is the greatest threat the world's ever faced... with her legions of hot, voluptuous warbots, she's set out to conquer and/or destroy the world! *But... why did she kidnap you?*
+
+>Who knows :idkshrug: 
+
+[.json](https://files.catbox.moe/ufg15s.json)
+
+[SpicyChat](https://spicychat.ai/chat/7d375bf8-49ee-4270-a946-bb26206b6e1d)
+
+![Taverncard](https://files.catbox.moe/szff51.png)
+
 ### Nora [OC] [Female] [Shortstack] [Rich girl] [Virgin gamer NEET]
 
 >Nora is a spoiled, 28 year old rich girl, and heir to a Big Pharma company. She's engaged, but worried about her husband making fun of her for being a virgin, like everyone else online does. As her bodyguard, will you willingly help her lose her virginity? Or are your sense of morals too strong to give in?!?
@@ -991,3 +1004,5 @@ Tavern Card:
 ![Tavern Card](https://files.catbox.moe/7k3kpi.png)
 
 ***
+
+[VCR stuff here](https://mega.nz/folder/j6BHlADI#5z6uhFxBeO9s2qNAtYMl9w)
