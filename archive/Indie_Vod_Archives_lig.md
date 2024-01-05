@@ -188,6 +188,13 @@ Content|Link|Description
 (Unofficial) rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|Newer than the above, has not been updated in a while
 (Unofficial) rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|Newest channel, currently active but does not have old vods
 
+##[Onigiri](https://www.twitch.tv/onigiri)
+Content|Link|Description 
+-------|-------|------- 
+(Unofficial) Onigiri Vods on archive.org (1): | [Link](https://archive.org/search?query=creator%3A%22OniGiriEN%22&sort=-date)|
+(Unofficial) Onigiri Vods on archive.org (2): | [Link](https://archive.org/search?query=creator%3A%22OniGiri%22)|
+
+
 ---
 #Other Sources for Vods (Hololive vods etc):
 Content|Link|Description 

@@ -8,12 +8,6 @@ The main reason i made this guide was to help people out that wanted to archive 
 Content|Link|Description 
 -------|-------|------- 
 Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8FmpUIVGPvDRzBd3y5HnalrF1wmiS9fO99N4) | Main link to my Vod Archival Guide
--
-PDF Mirror | [Mega](https://mega.nz/file/KT5lnTJD#-q7i65HBFbBLmPRpy1XxU_qtxNYXarOBLzRW9JqK_Uk) | Mega Mirror
-PDF Mirror | [Google Drive](https://mega.nz/file/KT5lnTJD#-q7i65HBFbBLmPRpy1XxU_qtxNYXarOBLzRW9JqK_Uk) | Google Drive Mirror
--
-HTML/Website Document | [Mega](https://mega.nz/file/7XgSkJiJ#i5j_ypa0D4XZTFAvqp6BnpGie4Lo3qADiblK9bmM9Ww) | Mega Mirror
-HTML/Website Document | [Google Drive](https://drive.google.com/file/d/1YlEaZgZjPJJikPrb87UBfGyTrZRspk6G/view) | Google Drive Mirror
 
 ---
 #Ways to contact me if needed

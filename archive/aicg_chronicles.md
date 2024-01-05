@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-02==
+# /aicg/ chronicles, up to ==2024-01-05==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -452,7 +452,7 @@ When | Where | What
 2023-08-24|[95581084](https://desuarchive.org/g/thread/95578945#95581084)| anon provides finetuned Turbo to compare
 2023-08-24|[95577548](https://desuarchive.org/g/thread/95575946/#95577548)| anon posts a cool video about AI Lara Croft
 2023-08-24|[95583336](https://desuarchive.org/g/thread/95581865#95583336)| CharacterHub introduces $5 subscription and announces some kind of business offering
-2023-08-25|[95586205](https://desuarchive.org/g/thread/95584264#95586205)| chub-archive anon proposes own version of the Horde
+2023-08-25|[95586205](https://desuarchive.org/g/thread/95584264#95586205)| chub-archive anon proposes own version of Horde
 2023-08-25|[95586926](https://desuarchive.org/g/thread/95584264#95586926)| venuschat\.ai launched (actual date 2023-08-22), bots reported stolen  and reuploaded from original VenusAI
 2023-08-25|[95591673](https://desuarchive.org/g/thread/95590544#95591673)| Openrouter filters OAI models
 2023-08-25|[95593354](https://desuarchive.org/g/thread/95592831#95593354)| anon reports c\.ai unlocking character editing
@@ -899,11 +899,24 @@ When | Where | What
 When | Where | What
 -|-|-
 2024-01-01|[98192836](https://desuarchive.org/g/thread/98191454#98192836)| anon probes about a utilities server for embedding into chats
-2023-01-01|[98199283](https://desuarchive.org/g/thread/98196714#98199283)| NYT vs OAI proceedings highlight some specifics of OAI's dataset
-2023-01-02|[98208280](https://desuarchive.org/g/thread/98207766#98208280)| anon continues to claim to be working on a new frontend out of dislike of Silly
-2023-01-02|[98208346](https://desuarchive.org/g/thread/98207766#98208346)| somebody is making a Silly extension that combines Summary + Smart Context + Objectives
-2023-01-02|[98209588](https://desuarchive.org/g/thread/98207766#98209588)| songs generating app with free trial app\.suno\.ai is brought to attention, enjoyed by all
-2023-01-02|[98212873](https://desuarchive.org/g/thread/98210963#98212873)| anon estimates "over half a million in GPT4 usage by a single proxy  over a month or two", asks not to quote him on this
+2024-01-01|[98199283](https://desuarchive.org/g/thread/98196714#98199283)| NYT vs OAI proceedings highlight some specifics of OAI's dataset
+2024-01-02|[98208280](https://desuarchive.org/g/thread/98207766#98208280)| anon continues to claim to be working on a new frontend out of dislike of Silly
+2024-01-02|[98208346](https://desuarchive.org/g/thread/98207766#98208346)| somebody is making a Silly extension that combines Summary + Smart Context + Objectives
+2024-01-02|[98209588](https://desuarchive.org/g/thread/98207766#98209588)| songs generating app with free trial app\.suno\.ai is brought to attention, enjoyed by all
+2024-01-02|[98212873](https://desuarchive.org/g/thread/98210963#98212873)| anon estimates "over half a million in GPT4 usage by a single proxy  over a month or two", asks not to quote him on this
+2024-01-02|[98219089](https://desuarchive.org/g/thread/98216565#98219089)| more email spam reported, this time from flowgpt\.com
+2024-01-02|[98219919](https://desuarchive.org/g/thread/98216565#98219919)| anon probes about a paid phone frontend app
+2024-01-03|[98230735](https://desuarchive.org/g/thread/98229241#98230735)| anon explores GPT4V's safety prompt
+2024-01-03|[98231993](https://desuarchive.org/g/thread/98231814#98231993)| anon provides kudos earning calculations for Horde
+2024-01-03|[98247066](https://desuarchive.org/g/thread/98245282#98247066)| for coding tasks begging, scaring or bribing GPT4 Turbo is ineffective
+2024-01-04|[98248861](https://desuarchive.org/g/thread/98247977#98248861)| text-davinci-003 is no more
+2024-01-04|[98250679](https://desuarchive.org/g/thread/98250082#98250679)| GPT4's moderation explored in context of Protected Material text being considered harmful
+2024-01-04|[98255921](https://desuarchive.org/g/thread/98255802#98255921)| some of the largest llms quizzed and arranged on the Political Compass
+2024-01-05|[98260723](https://desuarchive.org/g/thread/98258991#98260723)| 5 months old publication about a vulnerability in OAI's API keys generation discovered
+2024-01-05|[98265649](https://desuarchive.org/g/thread/98264460#98265649)| news article about boyfriend\.myanima\.ai shared, both laughed at
+2024-01-05|[98267419](https://desuarchive.org/g/thread/98266974#98267419)| anon provides an example of the clever use of Claude for language learning
+2024-01-05|[98267211](https://desuarchive.org/g/thread/98266974/#98267211)| heavy /aicg/ spam wave purged
+2024-01-05|[98269517](https://boards.4chan.org/g/thread/98266974#98269517)| paid haven-chat\.com shilled by the dev, justifiably ignored
 -|-|-
 
 [](you have found my secret stash of nothing!)

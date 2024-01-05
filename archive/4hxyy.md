@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 338 - Demon-Toro Edition: https://desuarchive.org/trash/thread/62352703/
 Thread 337 - Foxy Lady Edition: https://desuarchive.org/trash/thread/62023250/
 Thread 336 - Motherly Father Edition: https://desuarchive.org/trash/thread/61855462/
 Thread 335 - Gerudo Gal Edition: https://desuarchive.org/trash/thread/61518647/
