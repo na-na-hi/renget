@@ -1023,7 +1023,10 @@ Hamas Video's
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Al-Qassam (Hamas) Rpg more Kike Tanks 
 https://files.catbox.moe/td4v66.mp4 New  1/1/24
-
+>Hamas double tap Israeli tank
+https://files.catbox.moe/bwmlik.mp4 New  1/4/24
+>Mujahideen Brigades targeting a house with #Israeli special force inside with a missle
+https://files.catbox.moe/kuqwq1.mp4 New  1/4/24
 
 
 
@@ -1032,7 +1035,8 @@ Hezbollah Video's
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Al-Quds Brigades (PIJ) targeted IOF command & control sites, set up in the Al-Zaytoun axis.
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
-
+>Hezbollah toast's Idf conscripts with atgm missile 
+https://files.catbox.moe/tbhwi0.mp4  1/4/24
 
 
 
@@ -1043,8 +1047,12 @@ Al-Quds Brigades Videos
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
 >Al-Quds Brigades firing an Rpg at Iof tank
 https://files.catbox.moe/l08dt4.mp4 New 1/2/24
-Al-Qassam Brigades (Hamas) and the Al-Quds Brigades (PIJ) showing scenes of mortar launches against a gathering of IOF vehicles & soldiers in the city of Khan Yunis.
+>Al-Qassam Brigades (Hamas) and the Al-Quds Brigades (PIJ) showing scenes of mortar launches against a gathering of IOF vehicles & soldiers in the city of Khan Yunis.
 https://files.catbox.moe/pfq19q.mp4 New 1/3/24
+>Al-Quds Brigades (PIJ) published a video showing their rocket barrages toward the occupied cities, settlements, and Zionist military sites.
+https://files.catbox.moe/he2qsv.mp4 New  1/4/24
+>Al-Quds Brigades - Tulkarm Battalion A scene of an enemy soldier falling into a precise ambush from zero distance.
+https://files.catbox.moe/jjqqwx.mp4 New  1/4/24
 
 
 
@@ -1082,3 +1090,12 @@ https://files.catbox.moe/we9ffn.mp4 New  1/1/24
 https://files.catbox.moe/or1am2.mp4 New 1/2/24
 >Hebrew sources report Hezb-Allah strikes on Shlomi
 https://files.catbox.moe/s9cq2p.mp4  1/3/24
+>Hezbollah leader Hassan Nasrallah delivers speech
+https://youtu.be/ZFFS0DhYMnM New  1/4/24
+>Kike Bitch Mia Schem's full interview
+https://youtu.be/Ed6bJGZrWM4 New 1/4/24
+>Tally Gotliv, a Knesset member, condemns the entry of humanitarian aid and food to Gaza, suggesting that Gazans should be "thirsted and starved".
+https://files.catbox.moe/oadwfj.mp4 New  1/4/24
+>Kikes crying like little bitches in combat Part Two 
+https://files.catbox.moe/1sxpyw.mp4 New  1/4/24
+https://files.catbox.moe/d8tjr1.mp4 New  1/4/24

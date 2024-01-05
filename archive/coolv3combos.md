@@ -122,6 +122,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/98ccal.png) | ![](https://files.catbox.moe/y80yla.png) | ![](https://files.catbox.moe/cozh8l.png) | ![](https://files.catbox.moe/xf0oz4.png)
 
+``` html
+artist:phantom ix row, artist:logan cure, {{{artist:yoon cook}}}, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/hq43c3.png) | ![](https://files.catbox.moe/dncmd6.png) | ![](https://files.catbox.moe/4tlqu1.png) | ![](https://files.catbox.moe/t5fezq.png)
+
 ***
 # Stylized anime stuff???
 ``` html

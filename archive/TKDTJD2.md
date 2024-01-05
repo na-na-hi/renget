@@ -371,3 +371,186 @@ https://nitter.1d4.us/QudsNen/status/1742680149785530415#m  1/3/24
 
 >UPDATE| Imam Hassan Sharif succumbed to his injuries after being shot outside Masjid-Muhammad-Newark on Wednesday morning in Newark.
 https://nitter.1d4.us/QudsNen/status/1742684327773696369#m  1/3/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 3 (2024), against US-israeli forces
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the “CMA CGM TAGE” ship that was heading to israeli ports (weapon not specified, CENTCOM claims ASBM).
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻In a join-operation with Mujahideen Brigades, they targeted an israeli HERMES-900 drone, east of Gaza City.
+
+🔻(Partially) destroyed 6 Merkava tanks & 2 military D9-bulldozers in various combat zones in the Strip.
+
+🔻Targeted a helicopter with a surface-to-air missile (SAM), east of Khan Yunis.
+
+🔻Seized a Zionist drone during a mission south of Zaitoun neighborhood in Gaza City.
+
+🔻Targeted military vehicles east of Tuffah neighborhood with mortars.
+
+🔻Shelled a military gathering & military vehicles in Khan Yunis with heavy-caliber mortars.
+
+🔻Targeted israeli forces' headquarters and gatherings east of Jabal al-Rais with mortars.
+
+🔻Detonated 2 anti-personnel mines targeting a Zionist infantry force, causing casualties, east of Khazaa, southern Gaza Strip.
+
+🔻Detonated an anti-personnel mine targeting a group of Zionist soldiers in Khan Yunis, southern Gaza Strip.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Sniped 2 Zionist soldiers in the northern axis of Al-Bureij camp, confirming the killing of one and injuring the other.
+
+🔻Shelled military formations around Imam Ali Mosque in Maan, east of Khan Yunis, with 60mm caliber mortars.
+
+🔻Destroyed a Merkava tank with a high-explosive (Thaqeb) device, in the northeastern axis of Khan Yunis.
+
+🔻Targeted a Merkava tank in the northeastern axis of Khan Yunis.
+
+🔻In a joint-operation with Al-Qassam Brigades, shelled a Zionist convoy with 60mm caliber regular mortars, in the northern axis of Khan Yunis.
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Targeted a gathering of IOF soldiers holed up in a building, behind Barqouq Castle, in central Khan Yunis with a RPG.
+
+— 🇵🇸 Martyr Omar Al-Qassem forces:
+
+🔻Clashed with IOF forces, east of the al-Bureij camp, and inflicted deaths and injuries.
+
+🔻Sniped a zionist soldier in the vicinity of the Sheikh Radwan market in Gaza City and confirm a direct hit.
+
+🔻Launched a RPG at one of the military vehicles penetrating east of Al-Maghazi camp, hitting it directly.
+
+🔻Downes an IOF reconnaissance drone belonging to the special force, on the northern outskirts of the Al-Shati' camp.
+
+🔻Lured a zionist infantry force into a well-prepared ambush, on the outskirts of the Al-Shati' camp, where a land mine was detonated, followed by close-range engagement with the remaining members of this unit using appropriate weapons, with confirmed deaths & injuries.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Shelled IOF soldiers in Khan Younis city with a barrage of mortars.
+
+🔻Targeted a military D9-bulldozer in the axis of Khan Younis, with a RPG, confirming the killing of its crew.
+https://nitter.net/AryJeay/status/1742704020068729251#m  1/3/24
+
+>Reminder: ISIS & other terrorist groups (such as the Free Syrian Army “FSA”) are Washington’s mercenaries.
+“We paid the salaries of every single terrorist in Syria, we gave them their weapons and trucks,”
+📣 Former State Senator of Virginia, Richard Black (in 2021)
+https://nitter.net/AryJeay/status/1742894056051458503#m  1/4/24
+
+>US education official resigns over Biden’s policy on Palestine
+https://nitter.1d4.us/QudsNen/status/1742861196183646629#m  1/4/24
+
+>Statement by the Islamic Resistance Movement Hamas :
+We condemn today's treacherous attack on one of the security headquarters in the Iraqi capital, Baghdad, which led to the martyrdom of the Deputy Commander of Baghdad Belt Operations, Abu Taqwa Al-Saidi, and another security element, and the injury of six other elements, and we consider it a violation and assault on Iraq's sovereignty and security, in service of the Zionist agenda aimed at destabilizing the region. .
+
+We extend our deepest condolences to brotherly Iraq, and we ask God Almighty to grant the wounded a speedy recovery, and to preserve Iraq’s security and stability.
+https://nitter.net/ME_Observer_/status/1742901587389923352#m  1/4/24
+
+>🟡 Hezbollah has already carried out 4 operations since this morning!
+🔻Targeted israeli soldiers in Shtula
+🔻Targeted the Al-Jardah point with appropriate weapons.
+🔻Targeted israeli soldiers near Al-Manara site.
+🔻Targeted israeli soldiers in Metulla
+https://nitter.net/AryJeay/status/1742846788552307088#m  1/4/24
+
+>Breaking | The spokesperson for the Ministry of Health in Gaza reported that, in the past 24 hours, Israeli  forces committed 13 massacres, resulting in killing 125 and 318 injuries
+https://nitter.1d4.us/QudsNen/status/1742901674794946874#m  1/4/24
+
+>⚡️Iraq: The “Rights” bloc in the Iraqi Parliament: 
+We demand the expulsion of the American ambassador and a statement of the measures against the American forces that violate Iraqi sovereignty
+https://nitter.net/ME_Observer_/status/1742902108465013210#m  1/4/24
+
+>🚨 BREAKING: In an emergency meeting, Iran's Supreme National Security Council approved guidelines for pursuing and punishing the perpetrators of the terrorist attack in Kerman, and notified all the intelligence and security agencies of this matter.
+https://nitter.net/AryJeay/status/1742903484142248214#m  1/4/24
+
+>🛑 Al-Qassam Brigades has since this morning:
+🔻Destroyed 3 Merkava tanks
+🔻Partially destroyed 2 Merkava tanks
+🔻Crushed several infantry forces with explosives and mortars
+https://nitter.net/AryJeay/status/1742914294113788017#m  1/4/24
+
+>Breaking | The spokesperson for the Ministry of Health in Gaza: "The death toll from the Israeli aggression has now risen to 22,438 martyrs and 57,614 injuries."
+https://nitter.1d4.us/QudsNen/status/1742901671569584247#m  1/4/24
+
+>Tally Gotliv, a Knesset member, condemns the entry of humanitarian aid and food to Gaza, suggesting that Gazans should be "thirsted and starved".
+https://nitter.1d4.us/QudsNen/status/1742907745274409385#m  1/4/24
+
+>The occupation army transports one of its injured soldiers via helicopter as a result of a clash with a #Palestinian resistance fighter in Sir, near #Jenin.
+https://nitter.net/ME_Observer_/status/1742907784834764955#m  1/4/24
+
+>⚡️Al-Quds Brigades (PIJ) published a video showing their rocket barrages toward the occupied cities, settlements, and Zionist military sites.
+https://nitter.net/AryJeay/status/1742919903773139129#m  1/4/24
+
+>JewBelong, a U.S. non-profit organization, utilizes a social media strategy to advocate for Israel, primarily targeting Generation Z. Their approach involves sharing provocative posts that appear to justify actions, including massacres, against Palestinian civilians.
+https://nitter.1d4.us/QudsNen/status/1742934735750672874#m  1/4/24
+
+>Netanyahu during his meeting with US Senator Lindsey Graham:
+We will complete all the goals of the war and return our citizens to live safely in the north and south
+We will work to ensure that there is no new threat from #Gaza
+https://nitter.net/ME_Observer_/status/1742953218768765056#m  1/4/24
+
+>⚡️ "ISIS" claims responsibility for the terrorist arrack on Kerman, #Iran, that killed 84 civilians at the funeral of Qassem Soleimani.
+Of course, it's totally not the USA/Israel.
+https://nitter.net/ME_Observer_/status/1742956355164520944#m  1/4/24
+
+>🛑 Israeli army spokesperson:
+• 3 terrorists in the 94th Battalion & Nahal Brigade were seriously injured in the Gaza Strip.
+• Two reservists were also seriously injured yesterday, in the south of the Gaza Strip.
+https://nitter.net/AryJeay/status/1742963787387343002#m  1/4/24
+
+>⚡️🇵🇸🇪🇬 The Egyptian Red Crescent Camp in Khan Younis is now complete and fully operational.
+It has the space to accommodate over 6,000 Palestinians, it is the largest camp installed in Gaza by any nation so far in this conflict.
+Footage by Mohammed Fayq (Journalist)
+The Camp is full with complete and adequate healthcare, with meals guaranteed.
+https://t.me/TheMediterraneanMan/4352  1/4/24
+
+>⚡️WATCH: Al-Qassam Brigades (Hamas) published a video showing scenes of their forces clashing with militants vehicles & soldiers on the Gaza City axes.
+https://nitter.net/AryJeay/status/1742974215119139241#m  1/4/24
+
+>🛑 IOF spokesman: 3 settlers who were considered missing, have been declared imprisoned by the resistance in Gaza, total number of israelis in the hands of the resistance right now rose to 136.
+https://nitter.net/AryJeay/status/1742978131361947854#m  1/4/24
+
+>"The battle in Gaza is a war over the Temple Mount" written by Israeli soldiers on the roof of a Palestinian house in Gaza.
+https://nitter.1d4.us/QudsNen/status/1742977283953156470#m  1/4/24
+
+>⚡️Iraq: Al-Mayadeen correspondent in Baghdad: A drone bombardment targeted American forces at the Al-Omar field base inside #Syria.
+https://nitter.net/ME_Observer_/status/1742997427966165078#m  1/4/24
+
+>⚡️British Maritime Trade Operations Authority:
+5 or 6 gunmen seize a commercial ship off the coast of Somalia
+https://nitter.net/ME_Observer_/status/1742999876512698388#m 1/4/24
+
+>HealthCare Workers Watch releases a list of 374 healthcare personnel killed by Israeli forces since October 7th.
+https://nitter.1d4.us/QudsNen/status/1742999086830104669#m  1/4/24
+
+>⚡️N12 News Hebrew :
+The maps are already ready: at the conference to be held on Sunday, a call will be presented for the establishment of settlement nuclei in the Gaza Strip after the war.  The conference, organized by the "Nachla" movement together with other organizations, will be held at the nation's buildings in the US, a day before Blinken's arrival for another visit to Israel
+https://nitter.net/ME_Observer_/status/1743002614751527310#m  1/4/24
+
+>⚡️The Mujahideen Brigades publishes scenes of the targeting of an #Israeli special force holed up inside a house with an anti-personnel missile in the Al-Shati axis, west of #Gaza City.
+https://nitter.net/ME_Observer_/status/1743007535680938027#m  1/4/24
+
+>⚡️Al-Quds Brigades - Tulkarm Battalion A scene of an enemy soldier falling into a precise ambush from zero distance. We confirm that the force was killed and wounded on the main road during the occupation’s storming of Nour Shams camp.
+https://nitter.net/ME_Observer_/status/1743012366982201783#m  1/4/24
+
+>⚡️Chairman of the Emergency Committee in Rafah:
+We urgently need 50,000 tents to shelter our people displaced to Rafah.
+https://nitter.net/ME_Observer_/status/1743024849847554501#m  1/4/24
+
+>⚡️Hezbollah got listed as a terrorist group by the Gulf Countries for its position on #Yemen and support for Ansarallah.
+Today, the whole world applauds Ansarallah and #Yemen while the GCC countries are shamed and exposed as frauds by the Islamic and Arab world.
+https://nitter.net/ME_Observer_/status/1743027173848387801#m  1/4/24
+
+>🛑 | 🇮🇶 BREAKING: Local sources claim American casualties after the Iraqi resistance attacked US troops in the Omar oil field base in Deir ez Zour, Syria, with suicide drones, earlier today.
+https://nitter.net/AryJeay/status/1743037239406284813#m  1/4/24
+
+>Alan Dershowitz, who is reportedly going to represent Israel at the International Court of Justice in the genocide case presented by South Africa, was mentioned in Epstein's client list of children rapists. 
+When asked about that he responds by demanding feminists to condemn Hamas.
+https://nitter.1d4.us/QudsNen/status/1743040121446756736#m  1/4/24
+
+>⚡️Hezbollah published a video showing scenes from the operation, on January 2nd, that targeted a group of israeli soldiers in the vicinity of the Al-Marj IOF site.
+https://nitter.net/AryJeay/status/1743046377205010630#m  1/4/24
+
+>🚨 Local sources report explosions on the Iraqi-Syrian border due to US forces shooting down a number of Iraqi drones on the Syrian border. There are heavy helicopter flights at the border currently.
+https://nitter.net/AryJeay/status/1743052789855481876#m  1/4/24

@@ -76,6 +76,10 @@ Tangahuly Serder Berdimuhamedow >>91155796
 Long Bei >>91374458
 Cao Baos >>91224097
 Ima Gun Dye >>91225406
+
+Turn 0: >>91418090
+Turn 1: >>91430801
+
 ```
 
 #Star Wars (Reboot)
@@ -130,7 +134,7 @@ Kon Talkyl
 Quo'in Iyad
 >>91392261
 Gobar Ceel
->>91395558
+>>91431244
 Siemis Varr
 >>91421566
 >Alma Eohl
@@ -148,7 +152,7 @@ Darth Skyr (Deceased)
 Nemna-Sul
 >>91344909 
 Darth Bussy
->>91348813 
+>>91430963
 Grok Ko'Garr
 >>91370410
 Darth Smolg
@@ -192,6 +196,9 @@ Tremors in the Force
 https://rentry.org/akat8
 Current Nemna-Sul Dossiers (Wip)
 https://rentry.org/4syqq
+Legacies (Saewara Kol)
+https://rentry.org/qgkm4 
+
 ```
 
 #Fate/Arena
@@ -356,8 +363,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
-https://rentry.org/iyfm2
+>Brightly Time Travel Prompt Adventure
+>>91441288
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -914,6 +921,8 @@ https://rentry.org/y9rfp
 https://rentry.org/6uvv5
 >A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
 https://rentry.org/iyfm2
+>Brightly Time Travel Prompt Adventure
+>>91441288
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

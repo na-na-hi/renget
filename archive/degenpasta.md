@@ -40,7 +40,6 @@ Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 >>>/e/sdg 
 >>>/d/nai 
 >>>/g/sdg 
->>>/x/succgen 
 >>>/aco/sdg 
 >>>/trash/sdg
 ```

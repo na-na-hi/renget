@@ -3,14 +3,12 @@
 !!! danger WARNING: Tavern Cards/JSONs are a straight port from its CAI base, so you'll probably want to play around with the defs.
 	See more about my intents and stances at the bottom in the Commentary section.
 !!! warning MESSAGE OF THE DAY
-    Last Update: September 5th | Current Status: Slowly grinding out Batch 4.
-	The bad news is the progress has been slower than preferred and, unfortunately, it will be getting even slower soon as classes are now getting into the full swing of things (and I'm taking on much more than the usual minimum for a normal student this semester). The good news is that the halfway point for the batch's progress is about to be reached, or is already there.
-	Check the new info box directly below this for the full elaboration on the latest progress update.
-	Any newer requests directed towards me will be considered for a later batch. See more in the Character Requests section below.
+    Last Update: January 4th 2024 | Current Status: Hiatus.
+	Infrequently working on new characters. Will continue working towards their completion and release at my leisure. Possibly the last batch. No more updates until next batch releases. 
 !!! info Batch 4 Progress
+	[All info is outdated. Will correct at a later date. All 20 characters will be released together.]
 	The defs for 12 out of 20 of the characters in the next batch are anywhere between 50% completed and 90% completed. The other 8 have either have not been touched yet or have a negligible amount of progress on them, which is because this latter 8 requires dedicated research time that I'm already putting into the former 12.
-	With that being case, there is a chance that I may change up to about half of the no-progress bots later depending on whether I start completing many of the research-required characters first or the no-research-required characters first. In other words, if all I have left to do are research-required characters, then I will replace some with no-research-required characters instead if it will get Batch 4 out sooner. With that said, we'll just say the current character roster is between 80% and 100% accurate. This now includes previously confirmed characters. No characters will be trashed; This would only be a shift in prioritization.
-	One thing I have not had any time to do yet (if necessary to create better bots) is catch up on the recent metas, and I probably won't bother to do so until Batch 4 is near completion since I have no idea just how much I've missed. All I know is that V2 character cards are now a thing, and I'll at least look into that to see if it'd be worthwhile to account for that. I'll eventually be checking around the OPs for information, but if you feel inclined to offer any immediate advice, it will be appreciated.
+	One thing I have not had any time to do yet (if necessary to create better bots) is catch up on the recent metas, and I probably won't bother to do so until Batch 4 is near completion since I have no idea just how much I've missed. All I know is that V2 character cards are now a thing, and I'll at least look into that to see if it'd be worthwhile to account for that. I'll eventually be checking around the OPs for information.
 !!! note I'm open to criticisms and suggestions regarding both my bots and this rentry, so don't be afraid to speak up about something. I take all feedback seriously.
 	If you're trying to get my attention, just drop one of my handles in the threads. I'll see it in the archives. Otherwise, check the bottom of this page.
 [TOC]
@@ -317,7 +315,15 @@ As thanks for all the support up to this point, I'm providing a list of hints fo
 >1x Male movie character (New series)
 
 
-### Day 1:
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -329,7 +335,15 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
-### Day 2:
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -341,7 +355,15 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
-### Day 3:
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -353,7 +375,15 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
-### Day 4:
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
+
+![]()
+CAI | Tavern (Booru) | Tavern (Catbox) | JSON
+:----: | :----: | :----: | :----:
+ |  |  | 
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
@@ -365,8 +395,6 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
 
-### Day 5:
-
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
@@ -376,56 +404,6 @@ CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON
 :----: | :----: | :----: | :----:
  |  |  | 
-
-### Day 6:
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-### Day 7:
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-### Day 8:
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-### Day 9:
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-![]()
-CAI | Tavern (Booru) | Tavern (Catbox) | JSON
-:----: | :----: | :----: | :----:
- |  |  | 
-
-### Day 10:
 
 ![]()
 CAI | Tavern (Booru) | Tavern (Catbox) | JSON

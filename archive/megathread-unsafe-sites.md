@@ -33,6 +33,7 @@
 ------ | ------ | ------
 💩 **1377x** | 1377x-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 **KickassTorrents** | kickasstorrents-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+💩 **RARGB** | rargb-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 **The Pirate Bay** | thepiratebay-org | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **TheRarBg** | therarbg-com / therarbg-to | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 **TorrentLite** | torrentlite-org | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).

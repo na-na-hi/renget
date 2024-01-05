@@ -7,7 +7,7 @@
 
 ->(***Series entry!***) [Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
 (***Series entry!***) [First Train and Kafka Stop Twenty Five: The Mousetrap Part One](https://docs.google.com/document/d/e/2PACX-1vQ2MpXHXtN1v94ahNqZJvA0RP0hZ7N4GvyC2dgnSi2pu9pLDiMINsN0LLFylHCC4QSaOyKkqIhTW6dC/pub) (Marine, NSFW, Grooming, Masturbation)
-[Auntie's Little Secret: Redux](https://rentry.org/ALS18) (Fubuki, NSFW, Fluff, Grooming, Dark)
+(***Series entry!***) [Auntie's Little Secret: Redux](https://rentry.co/VTCFFSS#aunties-little-secret) (Fubuki, NSFW, Fluff, Grooming, Dark)
 [Homely Relief](https://rentry.org/vshcu) (Ookami Mio, NSFW, Fluff)
 [Mioracle Worker](https://docs.google.com/document/d/e/2PACX-1vRrJSM5Yo8KwWl4vsQYxTGwcc_NijJwGZc2FIXz3fdmfshTABZqO4q3Dd4344Y826H1LGFLIUGUpze9/pub) (Ookami Mio, Fluff, Hurt/Comfort)
 [A Miotastic Comfort](https://docs.google.com/document/d/e/2PACX-1vQXRwNlNkGUxGaML3eFG9K8mcBK5EeD8jnRWnbfQC7bj__3C_AVhx-GMNWykNUS_xmWXZlIpPJlUogP/pub) (Mio, NSFW, Fluff)

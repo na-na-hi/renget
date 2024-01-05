@@ -61,5 +61,5 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [The Laws](https://docs.google.com/document/d/e/2PACX-1vS-yyxYyGhktO6xKvDHe0_gGJQ-DW1WLsIhBZfthdopUfcJ3UVeol8V3GeTKrCSdX4rs_Omyi-epKB3/pub) (Myth, Amelia, SFW, Sci-Fi, Character Death)
 [The Right One](https://docs.google.com/document/d/e/2PACX-1vTY3ue84TxXIQo34Vl75bF2w7gk7OMMpUeQBvBowOZEm-Mrlv8qvWhOXWPytkKgeYS_s6GP-YCPohRx/pub) (Mori, SFW, Fluff, Romance)
 [Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) (Botan, NSFW, /ss/, Anal, Furry(?), Parody)
-[Auntie's Little Secret: Redux](https://rentry.org/ALS18) (Fubuki, NSFW, Fluff, Grooming, Dark)
+(***Series!***) [Auntie's Little Secret: Redux](https://rentry.co/VTCFFSS#aunties-little-secret) (Fubuki, NSFW, Fluff, Grooming, Dark)
 [Homely Relief](https://rentry.org/vshcu) (Ookami Mio, NSFW, Fluff)
