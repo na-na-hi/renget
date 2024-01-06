@@ -7,16 +7,16 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 11 | **Experience to Next Level:** 110/50
+**Level:** 11 | **Experience to Next Level:** 110/60
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 2,015₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2,055₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Rookie Rank<-
-->*305/400 points to Normal Rank*<-
+->*355/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -88,7 +88,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Pink Gummi  |  Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
-2. Eᴍᴘᴛʏ  |  Description
+2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
@@ -99,6 +99,7 @@ Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item |+Rope | A strong and sturdy rope. Used for rope stuff. About 7 feet long.
 RP Item |11 Ball of Yarn| A Bunch of Yarn that probably belong to a Sprigatito. Maybe knit something with it?
 RP Item | Seashells | A collecting of seashell find along the shoreline.
+RP Item | Cyan Ink | Jar fill with cyan ink with some decoration painted on it.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

@@ -325,6 +325,11 @@ Note: 	A succubus who desires friends and true love
 Data:	https://rentry.co/LilyHarahelBuild
 Music: 
 
+Name:   Lilly
+Note: A bewitching enchantress with an eternally fashionable wardrobe and a taste for being in control.
+Data: https://textbin.net/bhn1xq1ikw
+Music: 
+
 Name: Liritchia Ecludea
 Note: A summoner that is always in search of means to get new ingredients for summoning magic with her shadow familiar.
 Data: https://textbin.net/iu2ha9gpky

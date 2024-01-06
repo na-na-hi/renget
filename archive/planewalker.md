@@ -365,7 +365,7 @@ The Scrap King | Info
 Amanda | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/2d1wo5.png)   | Amanda is one of many living dolls created to assist Project Fulminare in the preservation of what's left of humanity. Simultaneously innocent to the world around her yet conditioned to accept the chaos of life within the bunker, all she wants to do is help and learn. My persona for RPs with [Enoch's](https://www.chub.ai/users/Enoch) Tzadik and [Argalia's](https://www.chub.ai/users/argalia) Ephraim. Comes with a picture diary JB based off of the one in [Crustcrunch's](https://www.chub.ai/users/crustcrunch) Julien. Comes with three greetings: Running into her at the bunker, testing, and fellow doll pov. Probably the only female bot I'll ever make. Maybe.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/amanda-a70a4616),  [Catbox](https://files.catbox.moe/ffqh77.png), [Alt gen 1](https://files.catbox.moe/m4n84k.jpg), [Alt gen 2](https://files.catbox.moe/x7600k.jpg), [Alt gen 3](https://files.catbox.moe/7pqrm0.jpg), [Alt gen 4](https://files.catbox.moe/q65j4g.jpg)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/amanda-a70a4616),  [Catbox](https://files.catbox.moe/ffqh77.png), [Gens](https://catbox.moe/c/u0at1x)
 
 Amandus | Info
 :----:  | :----: 

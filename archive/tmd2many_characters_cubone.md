@@ -25,9 +25,9 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 8 | **Experience to Next Level:** 45/80 | **Alignment:** Lawful Good
+**Level:** 8 | **Experience to Next Level:** 55/80 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
-**Pokécoin:** 850₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
+**Pokécoin:** 890₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
 ***
 
@@ -38,7 +38,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 ***
 
 ->Rookie Rank<-
-->*125/400 points to Normal Rank*<-
+->*175/400 points to Normal Rank*<-
 ->![Some manner of merit badge..?](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -113,7 +113,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | Empty
 1. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
-2. None | None
+2. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
 3. None | None
 4. None | None
 

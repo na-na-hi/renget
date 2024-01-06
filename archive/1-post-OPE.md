@@ -13,15 +13,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Upcoming streams
-Mon 01/05 8PM CT, own channel: New Year outfit reveal — https://www.youtube.com/watch?v=vyvA71ABpRo
-Mon 01/05 9PM CT, FWMC channel: New Year outfits Advent collab — https://www.youtube.com/watch?v=1qdzoTjz_JE
-▼ Recent appearances
-Koyori's channel, Koyori VS Advent collab — https://www.youtube.com/watch?v=imAoF0-T9W8&t=3280s
-Cameo at the end of her Christmas karaoke rebroadcast — https://streamable.com/mpv502
-Cameo at the end of her November karaoke rebroadcast — https://streamable.com/6z192m
-▼ Previous stream (Lethal Company Advent collab)
-https://www.youtube.com/watch?v=eG9tE3v7lfA
+Next appearance: TBA, likely on Kiara's channel
+Last appearance (New Year outfits Advent collab on FWMC channel)
+https://www.youtube.com/watch?v=1qdzoTjz_JE
+Previous stream (New Year outfit reveal)
+https://www.youtube.com/watch?v=vyvA71ABpRo
 
 
 \>Songs

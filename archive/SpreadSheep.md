@@ -45,7 +45,21 @@ Alpa	|![](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1b63bed41706401fa85
 
 
 # currently live
-checking|for|streams
+L| i |V|E|?
+:------:|:------:|:------:|:------:|:------:
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_essie_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_eira_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_chikafujilisa-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_dolliehitsujida-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kotomisnacks-1242x699.jpg)
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wwparasi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninoegyn-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sleepy_project-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mintmai-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_krumroll-1242x699.jpg)
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_itsmoisi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_beeweecrover-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kyubalt-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sheepisan-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_shuuuumi -1242x699.jpg)
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_noenayumeshiro-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohitsu_zi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_youho0411-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hoshimiyameeple-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wafwaffle_-1242x699.jpg)|
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kuromiyalucien-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_autumnfuchsia-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ceresphim-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cinnaminnies-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cozy_shokora-1242x699.jpg)
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_aztraliss-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_friedanox-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_faunrii-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_myshleep-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_naive_alie-1242x699.jpg)|
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_rumskii_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hennie2001-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_Shichide-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yupina_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_waffobaffo-1242x699.jpg)
+![](https://static-cdn.jtvnw.net/previews-ttv/live_user_okaree-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_belphie_vt-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_BaalVtuber-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sunset_radiance-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ghostimu-1242x699.jpg)
+
+
+
+
+checking|f   o   r|streams
 :------:|:------:|:------:
 ![Eira](https://static-cdn.jtvnw.net/previews-ttv/live_user_Eira_ch-1242x699.jpg)|![Essie](https://static-cdn.jtvnw.net/previews-ttv/live_user_Essie_ch-1242x699.jpg)|![Lisa](https://static-cdn.jtvnw.net/previews-ttv/live_user_chikafujilisa-1242x699.jpg)
 ![Dollie](https://static-cdn.jtvnw.net/previews-ttv/live_user_dolliehitsujida-1242x699.jpg)|![Lulu](https://static-cdn.jtvnw.net/previews-ttv/live_user_kuromiyalucien-1242x699.jpg)|![Beewee](https://static-cdn.jtvnw.net/previews-ttv/live_user_beeweecrover-1242x699.jpg)
@@ -54,6 +68,7 @@ checking|for|streams
 
 
 !!! danger why the fuck is the middle column narrower
+	> because col witdh is tied to header letter count
 
 ------
 ![]()|![]()|![]()

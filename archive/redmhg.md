@@ -2,16 +2,15 @@
 ---
 ___
 ___
-#### *Last updated on:* 01/01/2024 (MM/DD/YYYY)
+#### *Last updated on:* 01/05/2024 (MM/DD/YYYY)
+
+- [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was updated
 
 - [Story] *[Ode to the Flame Emperor](https://pastebin.com/m5khsFDE)* was added
 
 - [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
 
 #### *Previously:*
-
-
-- [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was added
 
 - [Doujin] *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM)* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0)* were added
 

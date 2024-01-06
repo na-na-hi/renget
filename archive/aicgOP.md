@@ -10,7 +10,7 @@
 	**
 	My mail -> PeterGabriel@cock.li
 
-	Remember to be calm and reasonable
+	Remember to be calm and reasonable.
 [TOC]
 
 ##Trimmed OPs

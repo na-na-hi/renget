@@ -22,7 +22,7 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 		- **[SOLAR-10.7B-Instruct-v1.0-uncensored](https://huggingface.co/w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored) <-Trappu's favorite non-Mixtral model. Suffers slightly from censorship.**
 	
 	- 13B:
-		- [PsyFighter-13B](https://huggingface.co/jebcarter/Psyfighter-13B) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
+		- [LLaMA2-13B-Psyfighter2](https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
 		- [LLaMA2-13B-Tiefighter](https://huggingface.co/KoboldAI/LLaMA2-13B-Tiefighter) <- An amazing all-around model. One of the current best models out there.
 		- [LLaMA2-13B-TiefighterLR](https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR) <- Another one of AliCat's favorites for Adventure models. Has a lot of Tiefighter's qualities, but has less "plot-armor" bias. Is also good at RP and chat, but has a different flavor to Tiefighter.
 		- [WizardLM-1.0-Uncensored-Llama2-13B-GPTQ](https://huggingface.co/TheBloke/WizardLM-1.0-Uncensored-Llama2-13B-GPTQ)

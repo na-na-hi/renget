@@ -151,9 +151,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 ===================================
 
->[In response to an [image of a palico in Fatalis gear](https://s1.desu-usergeneratedcontent.xyz/trash/image/1602/10/1602106661105.png)]
-
-\>pic
+[\>pic](https://s1.desu-usergeneratedcontent.xyz/trash/image/1602/10/1602106661105.png)
 \>you're meeting with the hunter leadership about the threat of Fatalis
 \>unknown to them, you're desperately trying to think of a way to get what is actually your secret Fatalis mate out of harm's way without her getting killed
 \>that's when your Fatalis kid wanders into the middle of them all curiously, likely having followed your scent
@@ -1870,6 +1868,8 @@ and what looks to be Velks attempt at making champagne into your drinking glass
 
 ---
 ###*Zinogre*
+
+===================================
 
 >\>ywn hold zinogre's paws in your hands and watch him struggle emotionally because he has feelings for you but is too afraid to share them
 

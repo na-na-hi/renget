@@ -173,3 +173,4 @@ It's worth just shoving your existing LoRA into EasyFluff and seeing what works.
 
 ### Training on furry models
 [mega with guide and model](https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/HwgngBxI)
+[Annotated powershell script](https://files.catbox.moe/aubvgn.ps1) from the furry diffusion discord

@@ -3,7 +3,8 @@
 
 This is a list of new locations created for the Clover Guild project, including short blurbs explaining them and links to the stories where they originated. This is a living document, and will be expanded over time.
 
-![Map](https://i.4cdn.org/vp/1702352501369290.png)
+![Map](https://files.catbox.moe/2zu9ru.png)
+-> *Updated 1-5-24* <-
 
 [TOC2]
 
@@ -78,6 +79,11 @@ First appeared in "Sidequest: Journey to the Luminous Spring!" by Skorupi-anon: 
 A section of Apple Woods spawned after the forest fire incident caused by Team Misfits. For some reason, it is perpetually ablaze, even though the rest of the forest has recovered from the fire.
 Has not yet appeared in any stories.
 
+###Eroded Canyon
+TBA
+First appeared in "Chespin's Week: Day 4" by Chespin-anon: https://rentry.org/chespinsweek#day-4
+**Not currently on map**
+
 
 ---
 
@@ -90,3 +96,7 @@ First appeared in "The Great Bulk, Interlude 3: Ecoterrorism for Dummies" by Mak
 
 ###Mama Lax Inn
 TBA
+
+###Mellow Meadow
+A field full of tall sunflowers, vibrant plant life, and ample greenery. Difficult to navigate due to all the large plants. Home to a Sunflora who deeply cares about the flowers.
+First appeared in "Chespin's Week: Day 5" by Chespin-anon: https://rentry.org/chespinsweek#day-5

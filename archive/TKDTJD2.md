@@ -808,3 +808,72 @@ https://nitter.1d4.us/QudsNen/status/1743409573526995175#m  1/5/24
 
 >Rwanda and the Republic of Chad deny reports published by Israeli media concerning talks with Israel to facilitate the forced displacement of Palestinians from Gaza.
 https://nitter.1d4.us/QudsNen/status/1743411896101773723#m  1/5/24
+
+>⚡️A statement issued by the Islamic Resistance in #Iraq:
+The Mujahideen of the Islamic Resistance in Iraq attacked, with drones, two American occupation bases, namely Al-Tanf Base and Al-Shaddadi Base, deep in #Syria. The Islamic Resistance confirms its continued destruction of strongholds. the enemy .
+https://nitter.net/ME_Observer_/status/1743423970802548756#m  1/5/24
+
+>⚡️⭕️ #Lebanon, Hezbollah, summary of military operations on Friday 1/5/2024, according to the following:
+- Western sector:
+
+1- At 15:45, the Birkat Risha site was targeted by artillery shells and was directly hit.
+2- At 16:15, a position of #Israeli enemy soldiers in the vicinity of the Al-Dhahira site was targeted with Burkan missiles, and it was directly hit.
+3- At 19:40, the Barkat Risha site was targeted with Burkan missiles and was directly hit.
+https://nitter.net/ME_Observer_/status/1743424790365368436#m  1/5/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 5 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Shelled an israeli military gathering, west of Al-Maghazi camp, in the center of Gaza with heavy-caliber mortars.
+
+🔻(Partially) destroyed a “Namer” APC & 1 military D9-bulldozer in various battle zones in the Strip.
+
+🔻Detonated a landmine field consisting of 3 anti-personnel mines targeting an IOF infantry force, causing casualties in Khazaa area.
+
+🔻Detonated an anti-personnel mine targeting a special Zionist force advancing towards Ein Nafa tunnel in the Zana area east of Khan Yunis, resulting in casualties.
+
+🔻Targeted a special Zionist force inside a building with 3 "Raadiyah" anti-personnel explosives, in the Zana area, causing casualties.
+
+🔻Shelled a gathering of military vehicles & soldiers in Khan Yunis city with heavy-caliber mortars.
+
+🔻Targeted 9 military vehicles, clashed with its infantry forces, and targeted them with sniper rifles & anti-personnel explosives, also engaged with a number of soldiers in the east of Tuffah neighborhood in Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻In a joint-operation with Al-Qassam Brigades, they destroyed 3 military vehicles using "Tandem" & Yassin 105s, in the Ma’an axis, south-east of Khan Yunis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted a Zionist armored personnel carrier (APC) with an anti-tank rocket, in the Sheikh Ridwan axis in Gaza City, resulting in the destruction and killing and injuring of its crew.
+
+— 🇵🇸 Aqsa Martyrs Brigades:
+
+🔻Clashed with IOF forces on the axis of Al-Maghazi camp with machine guns and RPGs.
+
+🔻Targeted a troop carrier (APC) with RPGs, in the eastern area of Khan Younis.
+
+🔻Shelled a gathering of israeli soldiers & their mobilizations, in the Al-Mahatta area of Khan Younis, with heavy-caliber mortars.
+
+— 🇵🇸 Martyr Omar Al-Qassem Forces:
+
+🔻Clashed with IOF forces in the central Khan Younis axis.
+
+🔻Detonated an explosive device targeting a military vehicle, causing dead and wounded to its crew.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Birkat Risha IOF site with artillery & Burkan IRAM rockets, causing direct hits (and massive damage).
+
+🔻Targeted a position of israeli soldiers around the Al-Dahirah site with Burkan IRAM rockets, causing a direct hit (while Sayyed was giving his speech)
+
+🔻Targeted the Birkat Risha for the second time with Burkan IRAM rockets, causing direct hits.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the Al-Harir US base in Erbil, northern Iraq, with suicide drones.
+
+🔻(more attacks but they will be listed for tomorrow’s list as they fell after midnight)
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1743429562547999102#m  1/5/24
