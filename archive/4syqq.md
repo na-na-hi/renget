@@ -2,7 +2,7 @@
 
 [TOC2]
 
-##Subject A2 - Sith Lord Dahi
+##Subject A2 'Witch' - Sith Lord Dahi
 
 **Target Analysis A2 - Version 187**
 **Subject Identity:** Sith Lord Dahi - Codename 'Witch' 
@@ -27,7 +27,7 @@ Recommended course of action; appeasement and protection. She has been working o
 
 I know not exactly what her purposes are and would not admit them here even if I did, but she has been collecting artefacts of more curious specificity and has been inquiring on data pertaining to Korriban more than most sorcerers of her wisdom. If my theories are correct and her loyalty to Skyr remains unshaken, her efforts may change the course of galactic history more than she realizes, or else condemn her to a fate worse than death at the hands of our new Dark Lord. I will shield her from him where I can, but I will not sacrifice my own ambitions for her and will not fall to our master's lightsaber on her behalf.
 
-##Subject A24 - Sith Warrior Grok Ko'Garr
+##Subject A24 'Hunter' - Sith Warrior Grok Ko'Garr
 
 **Target Analysis A24 - Version 81**
 **Subject Identity:** Sith Warrior Grok Ko'Garr - Codename 'Hunter'
@@ -50,7 +50,7 @@ The Hunter shows an admittedly remarkable restraint in leveraging his superior p
 **Conclusions**
 Recommended course of action; continued apathy. The Hunter shows little care for the Cabal and I see no reason why we should not return the favour. Yes, the subject would be an interesting specimen in the laboratory and yes, he might prove a threat should he desire to engage in the traditional Sith passtime of betrayal but these are observations I can make of our entire order after the loss of Skyr's leadership. If something must be learned from this, it is that the Hunter is more intelligent than my peers give him credit for - though such an intelligence if not nurtured will result only in a violent, blood-crazed beast, doubly so with Fernal's less than stellar stimulant concoctions of which I have repeatedly criticized. Send him to face Jedi - either he balks in the face of an unfamiliar galaxy and his own paranoia kills him, or he will wither away our rivals, proving his quality either way.
 
-##Subject B15 - Unidentified Jedi Operative
+##Subject B15 'Shadow' - Unidentified Jedi Operative
 
 **Target Analysis B15 - Version 21**
 **Subject Identity:** Unconfirmed - Codename 'Shadow'
@@ -75,7 +75,7 @@ Recommended course of action; active disruption. The Shadow grows ever closer to
 
 Further, we are not the only ones to take notice - contacts in the underworld have confirmed that they too are beginning to piece together the Shadow's operations and are more than willing to seek revenge on the Jedi. For my part, I cannot condone sharing all we know with our rivals in Huttspace and the Core underworlds - but in the event where the subject must be more directly prioritized they could be afforded certain identities amongst B15-B to draw the Shadow into a less favourable position.
 
-##Subject C5 - Jedi Master Dhor Tallav
+##Subject C5 'Anathema' - Jedi Master Dhor Tallav
 
 **Target Analysis C5 - Version 51**
 **Subject Identity:** Jedi Master Dhor Tallav - Codename 'Anathema'
@@ -103,7 +103,7 @@ An opportunity does prevent itself however, the subject insists on delving deep 
 **Addendum**
 Contact Orn Viszla of the Mandalorians, tell him we have a Jedi Master for he and his brethren to kill, if they are up for the task.
 
-##Subject K2 - Jedi Master Saewara Kol
+##Subject K2 'Politico' - Jedi Master Saewara Kol
 
 **Target Analysis K3 - Version 53**
 **Subject Identity:** Jedi Master Saewara Kol - Codename 'Politico'
@@ -128,7 +128,7 @@ Recommended course of action; passive surveillance. Though I have desired this s
 
 In years to come, when the the last of the Republic crumbles under Lord Fernal's forces and her allies at court turn to infighting, I might offer a hand of salvation - she is more than capable of decieving my associates of her apparent threatlessness and might make for a better ally, or conversationalist if nothing else, than another medical subject. Should she refuse, it is no great loss, her persuasive powers in the Force are a rarity in today's barbaric landscape and would certainly be of interest for experimentation.
 
-##Subject T3 - Jedi Padawan Farem Jarrik
+##Subject T3 'Savant' - Jedi Padawan Farem Jarrik
 
 **Target Analysis T3 - Version 4**
 **Subject Identity:** Jedi Padawan Feram Jarrik - Codename 'Savant'
@@ -151,7 +151,7 @@ As shown in the single, if ill-conceived attempt at capture, the Savant has matc
 **Conclusions**
 Recommended course of action; direct surveillance. The Savant's above-average value for experiments and newfound, if only cursory understanding of the Cabal leaves them both a priority specimen and a heightened risk to our operations - however, the subject shows a rash habit of stepping beyond the safety net of their abilities and I have no doubt that, given the right information, his many enemies in the underworld can be persuaded do draw him into a trap that someone of his inexperience cannot account for. If all else fails, he is the perfect target to test the capabilities of A24 'Hunter' in the field against Jedi without too significant a risk.
 
-##Subject T5 - Jedi Padawan Kēru Ya'moshi
+##Subject T5 'Adept' - Jedi Padawan Kēru Ya'moshi
 
 **Target Analysis T5 - Version 3**
 **Subject Identity:** Jedi Padawan Kēru Ya'moshi - Codename 'Adept'
@@ -174,7 +174,7 @@ With an extreme affinity for combat-related Force powers, a superlative skill in
 **Conclusions**
 Recommended course of action; indirect surveillance. Though it pains me to let such a scientifically valuable specimen slip through our grasp, the Adept is simply a low risk and currently beyond our means to actively pursue until a later date. Future operations must rely on her lack of proximity to her master, however, and I could urge all Sith forces to keep the two separate wherever possible - not only does her capture become impossible in the Y8 'Wanderer's' presence, but the subjects' relationships might slow the deterioration of the latter's psyche and further sabotage future prospects.
 
-##Subject Y8 - Jedi Master Kir Kadi
+##Subject Y8 'Wanderer' - Jedi Master Kir Kadi
 
 **Target Analysis Y8 - Version 22**
 **Subject Identity:** Jedi Master Kir Kadi - Codename 'Wanderer'
@@ -199,7 +199,7 @@ Recommended course of action; indirect surveillance. The Wanderer cannot hide hi
 
 Still, such an incredible opportinity begs for attention. Perhaps if we can locate his missing lightsaber as bait, he can be goaded to face Lord Fernal in a conflict of our choosing - I know of many Mandalorian warriors who might bargain for a chance to bring the odds firmly in our favour and his ridiculous flagellatory crusade ever widens the distance between he and his Jedi allies. A proposal for the Lords at a later date.
 
-##Subject Z2 - Jedi Knight Netra
+##Subject Z2 'Augur' - Jedi Knight Netra
 
 **Target Analysis Z2 - Version 6**
 **Subject Identity:** Jedi Knight Netra - Codename 'Augur'

@@ -96,6 +96,11 @@ Solution for infinite generation on Azure.
 ```xml
 [After completing the 'Instructions', AI must post this tag verbatim at the end: <END>]
 ```
+**Leave only these options on in regex editor:**
+```markdown
+[X] AI output
+[X] Run on edit
+```
 ##### 
 - - -
 ##### Shut the Claude's mouth.
@@ -124,6 +129,12 @@ Great if your head is empty. Claude misunderstands the instruction, but it makes
 **You should exclude it from the prompts with this regex:**
 ```text
 (`{3})?\s*<CYOA>[\s\S]*?<\/CYOA>\s?(`{3})?\s*
+```
+**Leave only these options on in regex editor:**
+```markdown
+[X] AI output
+[X] Format prompt only
+[X] Run on edit
 ```
 ##### 
 - - -

@@ -22,6 +22,7 @@ Morenatsu | Tora's route coming soon | gay, bara, twink, romance, human MC | [Or
 Morenatsu – Unofficial Torahiko Route | Finished | gay, bara, romance, human MC | [Reddit page](https://www.reddit.com/r/MorenatsuGame/comments/111v3uo/announcement_morenatsu_torahikos_route/), [English download](https://drive.google.com/drive/folders/1IDphCj24FrIUwmYKL3dJrPzxoqQJ7jG6)
 Snoot Game | Finished | straight, romance, human MC, scalie | [Official website](https://snootgame.xyz)
 The Smoke Room | WIP | gay, bara, furry MC, psychological horror | [itch.io](https://echoproject.itch.io/the-smoke-room), [Twitter](https://twitter.com/EchoTheVN)
+Burrows | WIP | gay, furry MC, psychological horror | [itch.io](https://nikkonator5000.itch.io/burrows), [Twitter](https://twitter.com/Burrows_VN)
 
 ***
 
@@ -31,6 +32,7 @@ Title | Status | Tags | Link(s)
 :----: | :-----: | :----: | :------: 
 Coda | Demo | mostly straight, human MC, romance | [itch.io](https://codanon.itch.io/coda-demo), [Twitter](https://twitter.com/CodaVn)
 Kobold Festival | WIP | gay, straight, furry MC, romance, RPG, lane-based card battles |[itch.io](https://mousecat.itch.io/kobold-festival)
+Dawntide | WIP | gay, furry MC, romance, drama | [itch.io](https://dawntidedev.itch.io/dawntide), [Twitter](https://twitter.com/DawntideVN)
 
 ***
 
@@ -45,6 +47,9 @@ Kobold Festival | WIP | gay, straight, furry MC, romance, RPG, lane-based card b
 ***
 
 ###Changelog
+>January 5, 2024
+>- Added Burrows and Dawntide
+
 >December 29, 2023
 >- Added Lyre
 

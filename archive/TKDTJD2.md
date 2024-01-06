@@ -554,3 +554,257 @@ https://nitter.net/AryJeay/status/1743046377205010630#m  1/4/24
 
 >🚨 Local sources report explosions on the Iraqi-Syrian border due to US forces shooting down a number of Iraqi drones on the Syrian border. There are heavy helicopter flights at the border currently.
 https://nitter.net/AryJeay/status/1743052789855481876#m  1/4/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 4 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Destroyed 3 Merkava tanks, west of Al-Maghazi in central Gaza & the other in north of Khan Yunis.
+
+🔻Shelled IOF forces & vehicles in Khan Yunis with mortars.
+
+🔻Detonated a powerful explosive device among an IOF infantry force inside a building, causing casualties, north of Al-Nuseirat camp in central Gaza.
+
+🔻Detonated an anti-personnel explosive device within a fortified Zionist force in Al-Maghraqa area in central Gaza.
+
+🔻Targeted an IOF military gathering in Bureij camp with heavy-caliber mortars.
+
+🔻(Partially) destroyed 2 Merkava tanks with Yassin-105s, in Al-Mahatta and Al-Katiba areas in Khan Yunis.
+
+🔻Shelled IOF forces in Al-Maghraqa north of Al-Nuseirat camp with mortars.
+
+🔻Shelled an IOF military gathering in Khan Yunis with mortars.
+
+🔻Targeted an IOF military gathering around an infiltrated military vehicle in Tuffah neighborhood in Gaza City with a RPG, causing casualties.
+
+🔻Successfully targeted an IOF force in Tuffah neighborhood in Gaza City with mortars.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻(Partially) destroyed 2 military vehicles with RPGs, east of Al-Bureij camp, in central Gaza.
+
+🔻In a joint-operation with Al-Qassam Brigades, they targeted a gathering of IOF forces in the Al-Tuffah neighborhood in Gaza City with mortars.
+
+🔻Clashed with IOF forces in the central Khan Yunis axis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted a fortified IOF force in Al-Shati area, west of Gaza City, with an anti-personnel high explosive (with video).
+
+🔻Shelled IOF soldiers & military vehicles with short-range rocket barrages in the, axes of Gaza City.
+
+— 🇵🇸 Martyr Omar Al-Qassem forces:
+
+🔻Clashed with IOF forces, east of Al-Bureij and Al-Maghazi camps, and an explosive device was detonated southeast of Al-Bureij camp against the military vehicles in the area, causing deaths and injuries 
+
+🔻Targeted military vehicles, in the Mahata axis in central Khan Younis, with RPGs, and confirm a direct hit on one of the vehicles, causing deaths and injuries.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Targeted a military vehicle with an RPG, at the axis east of Al-Bureij.
+
+🔻Clashed with IOF forces in the axes in the center of Khan Younis city, using machine guns and RPGs.
+
+— 🇵🇸 Al-Nasser Salah Al-Din Brigades: 
+
+🔻Shelled a gathering of IOF soldiers and vehicles in Khan Younis city with 4 heavy-caliber mortars.
+
+🟡 Hezbollah:
+
+🔻Targeted israeli soldiers in Shtula with appropriate weapons.
+
+🔻Targeted Al-Jardah point with  appropriate weapons.
+
+🔻Targeted an israeli military gathering around Al-Manara site with appropriate weapons.
+
+🔻Targeted israeli soldiers in the vicinity of Al-Matar site with appropriate weapons.
+
+🔻”Sniper unit” targeted the espionage equipment in the Misgav Am area, precisely hitting and destroying it.
+
+🔻Targeted a newly established position of israeli soldiers in the vicinity of Al-Marj site with rockets.
+
+🔻Targeted an IOF gathering in the vicinity of Shomera Barracks with rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the US base at Al-Rukban camp in Syria using suicide drones.
+
+🔻Attacked the US base at Al-Omar oil field in Syria using suicide drones (reports abour US casualties)
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1743075200336368076#m  1/4/24
+
+>🛑 In a joint-operation, between al-Qassam Brigades & the Al-Quds Brigades, they targeted 3 Merkava tanks with Al-Yassin 105s and “Tandum” rockets, in the city of Khan Yunis, south of the Gaza Strip.
+https://nitter.net/AryJeay/status/1743228528370602217#m  1/5/24
+
+>🛑Yedioth Ahronoth:
+The 12,500 soldiers that will be recognized as disabled, is a very conservative and cautious estimate. The scope of the requests is expected to stand on 20,000 disabled IOF soldier.
+https://nitter.net/AryJeay/status/1743158351477846397#m  1/5/24
+
+>🛑Israeli Yedioth Ahronoth:
+The official IOF soldiers casualty figure is 2,300; but according to people working in the field, the picture is more much darker than this [meaning the casualties are way higher].
+
+12,500 soldiers will be recognized as disabled due to the war.
+https://nitter.net/AryJeay/status/1743156304871383304#m  1/5/24
+
+>🚩The red flag of revenge for the martyrs of Kerman has been raised on the dome of Jamkaran Mosque in Iran.
+Last time the red flag of revenge was hoisted, was in 2020 after Qassem Soleimani was martyred.
+https://nitter.net/AryJeay/status/1743224051219231123#m  1/5/24
+
+>🛑 Al-Qassam Brigades (Hamas)
+We successfully detonated a minefield of 3 anti-personnel explosives targeting an israeli infantry force of 7 soldiers, causing deaths & injuries among them, in the Khaza'a area, east of Khan Yunis, in the southern Gaza Strip.
+https://nitter.net/AryJeay/status/1743238240377721289#m  1/5/24
+
+>⚡️WATCH: Al-Quds Brigades (PIJ) published a video showing scenes of their forces targeting a number of military vehicles, in the Al-Tuffah and Al-Daraj axis, east of Gaza City.
+https://nitter.net/AryJeay/status/1743249171165938076#m  1/5/24
+
+>Turkish authorities have detained 33 individuals suspected of espionage on behalf of Israel's intelligence agency, Mossad, Anadolu Agency has reported.
+https://nitter.1d4.us/QudsNen/status/1743252556917137557#m  1/5/24
+
+>🟡 Al-Mayadeen: 
+2 ships were attacked last night in the Indian Ocean. No party has taken responsibility for this and the identity of the ships has not yet been revealed. 
+
+As you may recall, a few weeks ago a drone attacked a ship in the Indian Ocean with ties to an Israeli businessman, israel had accused Iran for the attack.
+https://nitter.net/AryJeay/status/1743244142073770215#m  1/5/24
+
+>⚡️Al-Mayadeen correspondent in Baghdad: A strike targeted American forces at the Harir base in Erbil in the Kurdistan region.
+https://twitter.com/WarMonitors/status/1743262158685696076  1/5/24
+
+>⚡️#BREAKING Sayyed Nasrallah: Hezbollah conducted around 670 military operations on Lebanses Palestinian order since oct. 8
+https://twitter.com/WarMonitors/status/1743265938734981362  1/5/24
+
+>McDonald's CEO Chris Kempczinski, stated that several markets in the Middle East, as well as some outside the region, are experiencing "tangible impacts on business" due to Israel's war on the Gaza.
+https://nitter.1d4.us/QudsNen/status/1743278877370146928#m  1/5/24
+
+>YT video marked as 'unlisted' but attached to the jew propaganda article 
+https://archive.is/20240104183836/https://www.haaretz.com/israel-news/2023-12-29/ty-article-magazine/.highlight/a-surprise-attack-on-idf-troops-a-bloody-battle-and-a-heroic-rescue-in-beit-hanoun/0000018c-b6b8-d014-a3cd-bebedbdf0000
+
+>⚡️Al Qassam releases a message :
+إلى عائلات الجنود الأسرى احذروا! 
+למשפחות האסירים תזהרו! 
+Warning! to the families of IDF hostages
+https://nitter.net/ME_Observer_/status/1743302828339126429#m  1/5/24
+
+>Gaza Government Media Office: 107 journalists have been killed by the Israeli war on Gaza since October 7th.
+https://nitter.1d4.us/QudsNen/status/1743307343624896642#m  1/5/24
+
+>⚡️It's Hezbollah's precision guided missiles arsenal that allows it to open an attrition front on Israel without causing the destruction of Beirut. 
+In the past, it took 0.1% of what Hezbollah did the past 3 months for Israel to start bombing Beirut.
+
+Today, over 230,000 settlers got displaced, over 2000 Israeli soldiers are in the hospitals, and Israel cannot launch any air campaigns on Beirut. 
+
+120,000 Israeli soldiers are deployed on the front with Lebanon and cannot join their struggling comrades in #Gaza .
+
+Without those missiles, Beirut would already be leveled like #Gaza - Hezbollah wouldn't be able to open the front without mass sacrifices without those missiles.
+https://nitter.net/ME_Observer_/status/1743311779399082345#m  1/5/24
+
+>🇮🇷NEW INFO REVEALED:
+The Ministry of Intelligence of Iran published new details about the terrorist attack in Kerman:
+
+• One of the 2 suicide bombers, had the Tajik nationality. The identity of the second terrorist has not yet been identified.
+
+• After examination of the factors involved in bringing the terrorists into Iran, the first special operation to arrest the collaborators was carried out on the evening on the day of the attack.
+
+• In the morning of the next day of the attack, the residence that was used by the 2 dead terrorists was identified in the outskirts of Kerman city. Two elements supporting and supplying said residence were identified & arrested.
+
+• In the continuation of the operation, 9 people from the support network of the terrorist network and its associates were identified & arrested in 6 provinces throughout the country. 
+
+• At the terrorist hideouts, explosives were found, incl: 2 explosive vests, 2 remote control devices, 2 explosive detonators, several thousand bullets & shrapnel pieces used in explosive vests, wiring prepared for the vests and quantities of raw explosive materials.
+
+• This operation will continue until the arrest of the last person who was involved in supporting the criminals in any way and to any extent.
+https://nitter.net/AryJeay/status/1743320737799143562#m  1/5/24
+
+>Political analyst Marwan Bishara explains the extreme Israeli plans to ethnically cleanse Gaza.
+https://nitter.1d4.us/QudsNen/status/1743314671740842017#m  1/5/24
+
+>The occupation bombed areas on the outskirts of more than 6 towns in southern #Lebanon this evening
+https://nitter.net/ME_Observer_/status/1743325323842777221#m  1/5/24
+
+>🛑 15 IOF soldiers were injured, 3 of them were seriously injured, during the last 24 hours.
+https://nitter.net/AryJeay/status/1743332149569470871#m  1/5/24
+
+>⚡️
+◀️On the left : 
+Precision strike assassination.
+
+▶️On the right : genocide and terrorism.
+
+More info on the left picture :
+A picture of the roof of the building that “Israel” targeted to assassinate the leader of the Hamas movement, Saleh Al-Arouri, in the southern suburb of Beirut.  The six holes made by the missiles are clearly visible.
+
+ This picture confirms that the missiles penetrate fortifications, as they were able to penetrate two reinforced concrete roofs, causing four of them to explode in the targeted office.
+https://nitter.net/ME_Observer_/status/1743124388520558967#m  1/5/24
+
+>⚡️Hebrew Channel 13: 
+The estimate in the "Israeli" army is that #Hezbollah will respond to the assassination of Al-Arouri with an operation that crosses the current battle lines.
+https://nitter.net/ME_Observer_/status/1743337124324393400#m  1/5/24
+
+Norwegian Foreign Minister, Espen Barth Eide: "There is no humanitarian crisis worse than the one in Gaza, and there is no place on Earth worse than it."
+https://nitter.1d4.us/QudsNen/status/1743325810163875857#m  1/5/24
+
+>⚡️ #Yemen - the popular revolution for the support of #Palestine and steadfastness in the face of the powers of arrogance - The Great Satan [US govt] and its acolytes -
+https://nitter.net/ME_Observer_/status/1743340872773554524#m  1/5/24
+
+>⚡️Can channel:
+"Israel" offers Chad and Rwanda a financial reward for every #Gazan transferred to them, in addition to an aid package, some of which is military
+https://nitter.net/ME_Observer_/status/1743346327101088004#m  1/5/24
+
+During the visit of israel’s war minister, Gallant, to the HQs of the Northern Front Command, he confirmed plans to confront Hezbollah’s retaliation to Arouri’s assassination.
+
+Arya: If they do respond to Hezbollah’s retaliation, we may very well witness a new stage of the war, and it won’t look pretty (for israel).
+https://nitter.net/AryJeay/status/1743351594010243498#m  1/5/24
+
+>🚨 BREAKING: Preliminary reports of drone attacks against 2 israeli-linked oil tankers in the Maldives.
+Initial reports indicate significant damage to both oil tankers due to explosions, according to Tasnim News Agency.
+https://nitter.net/AryJeay/status/1743354371876798813#m  1/5/24
+
+>⚡️Yemen: Al-Bukhaiti to Al-Mayadeen: 
+The United States’ continuation of the option of confrontation will cost it morally and militarily and will lead to the end of its hegemony in the region.
+https://nitter.net/ME_Observer_/status/1743357021628326077#m  1/5/24
+
+>🛑 UPDATE: 
+According to Maldivian media reports, 2 israeli-affiliated oil tankers were targeted by unknown drones in the west and northwest of Maldives in the past few days.
+
+Initial reports indicate that both tankers were seriously damaged by explosions. The oil tankers were supposed to pass through the Strait of Bab al-Mandab.
+
+The oil tankers were targeted by drones at a distance of 2,000 kilometers, reportedly from thr Bab al-Mandab area.
+(Image is illustrative)
+https://nitter.net/AryJeay/status/1743366550172643662#m  1/5/24
+
+>Recently released court documents strengthen suspicions of influential individuals, including politicians, having connections to convicted sex offender Jeffrey Epstein. The documents also suggest potential links to Israeli Mossad.
+https://nitter.1d4.us/QudsNen/status/1743366682435863027#m  1/5/24
+
+>🛑 IRNA news agency:
+The Iraqi resistance attacked 4 US bases after the assassination of one of its commanders during a US airstrike in Baghdad.
+
+Reuters, Sputnik & Al-Arabiya have reported the deaths and injuries of a number of American soldiers in these attacks.
+https://nitter.net/AryJeay/status/1743377709797920840#m  1/5/24
+
+>And the boycotting campaign continues to be a thorn to the pro-Zionist businesses.
+https://nitter.net/AryJeay/status/1743388409299673311#m  1/5/24
+
+>BREAKING:
+⚡ 🇺🇸 Major attacks on US in Syria and Iraq 
+
+A major explosion near the Iraqi Green Zone where the U.S Embassy is located.
+
+Heavy explosions also rocked the U.S. base in Al-Khadra village, Deir Ezzor, Syria.
+https://twitter.com/Megatron_ron/status/1743378427908849838  1/5/24
+
+>⚡️The #Israeli Broadcasting Corporation, according to #Israeli officials:
+We are about to exhaust attempts to reach an agreement on the border with #Lebanon
+https://nitter.net/ME_Observer_/status/1743395810438513035#m  1/5/24
+
+>The Rwandan Foreign Ministry denies what was reported by #Israeli media regarding talks with “Israel” to transfer the residents of #Gaza to its territory.
+https://nitter.net/ME_Observer_/status/1743403096963776838#m  1/5/24
+
+>“AmErIcaN lEd-cOaLiTiOn” lol bye.
+https://nitter.net/AryJeay/status/1743407315502461059#m  1/5/24
+
+>Families of Israeli settlers killed inside one of the houses in Be'eri settlement on Oct 7 demand an investigation into whether Israeli army tank shelling killed them.
+
+Israeli Colonel Golani Vach had previously confirmed that Israeli tanks did attack houses filled with Israeli settlers inside on 7th October. Several testimonies confirmed the claim as well.
+https://nitter.1d4.us/QudsNen/status/1743409573526995175#m  1/5/24
+
+>Rwanda and the Republic of Chad deny reports published by Israeli media concerning talks with Israel to facilitate the forced displacement of Palestinians from Gaza.
+https://nitter.1d4.us/QudsNen/status/1743411896101773723#m  1/5/24

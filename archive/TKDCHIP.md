@@ -1027,8 +1027,8 @@ https://files.catbox.moe/td4v66.mp4 New  1/1/24
 https://files.catbox.moe/bwmlik.mp4 New  1/4/24
 >Mujahideen Brigades targeting a house with #Israeli special force inside with a missle
 https://files.catbox.moe/kuqwq1.mp4 New  1/4/24
-
-
+>Al Qassam releases a message : Warning! to the families of IDF hostages
+https://files.catbox.moe/0cu3vy.mp4 New  1/5/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1053,8 +1053,8 @@ https://files.catbox.moe/pfq19q.mp4 New 1/3/24
 https://files.catbox.moe/he2qsv.mp4 New  1/4/24
 >Al-Quds Brigades - Tulkarm Battalion A scene of an enemy soldier falling into a precise ambush from zero distance.
 https://files.catbox.moe/jjqqwx.mp4 New  1/4/24
-
-
+>Al-Quds Brigades (PIJ) published a video showing scenes of their forces targeting a number of military vehicles
+https://files.catbox.moe/y3r1nk.mp4 New  1/5/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1099,3 +1099,11 @@ https://files.catbox.moe/oadwfj.mp4 New  1/4/24
 >Kikes crying like little bitches in combat Part Two 
 https://files.catbox.moe/1sxpyw.mp4 New  1/4/24
 https://files.catbox.moe/d8tjr1.mp4 New  1/4/24
+>Hezbollah leader, Hassan Nasrallah, delivers speech 2 
+https://youtu.be/XKKEZ7wqXFI New  1/5/24
+>Turkish authorities have detained 33 individuals suspected of espionage on behalf of Israel's intelligence agency, Mossad
+https://files.catbox.moe/pbpsxa.mp4 New  1/5/24
+>Yemen - the popular revolution for the support of #Palestine and steadfastness in the face of the powers of arrogance - The Great Satan [US govt] and its acolytes -
+https://files.catbox.moe/sepqje.mp4 New  1/5/24
+>Israeli forces fill water springs and agricultural lands in Hebron with concrete
+https://youtu.be/QZkSRlIs9o0 New  1/5/24

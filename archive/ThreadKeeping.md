@@ -130,7 +130,7 @@ Sabrassk
 Saewara Kol
 >>91398869
 Kon Talkyl
->>91389076
+>>91449191
 Quo'in Iyad
 >>91392261
 Gobar Ceel
@@ -150,7 +150,7 @@ Ah'Navi
 Darth Skyr (Deceased)
 >>91378361
 Nemna-Sul
->>91344909 
+>>91448893
 Darth Bussy
 >>91430963
 Grok Ko'Garr
@@ -183,6 +183,14 @@ Larbo Grudd
 >>91360428
 Cree'v'aak
 >>91399465
+Yegan Venn
+>>91443813
+Tyr "Wildcat" Flame
+>>91443874
+UrrGrum
+>>91445098
+L'zov
+>>91445344
 ```
 
 ***
@@ -198,6 +206,8 @@ Current Nemna-Sul Dossiers (Wip)
 https://rentry.org/4syqq
 Legacies (Saewara Kol)
 https://rentry.org/qgkm4 
+Skyr Missions:
+>>91451399
 
 ```
 

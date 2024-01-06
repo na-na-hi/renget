@@ -18,7 +18,7 @@ There are two methods when it comes to updating your CFW:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/latest)
 * [fusee](https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin)
 	* Only download this if you are using `fusee.bin`.
-* [Sigpatches](https://sigmapatches.coomer.party/sigpatches.zip)
+* [Sigpatches](https://sigmapatches.su/sigpatches.zip)
 	* Only download this if you are updating your **firmware**.
 
 

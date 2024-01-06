@@ -485,6 +485,7 @@
 12/2023|[Preference as Reward, Maximum Preference Optimization with Importance Sampling](https://arxiv.org/abs/2312.16430)
 01/2024|[LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)
 01/2024|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+01/2024|[LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/abs/2401.02415)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

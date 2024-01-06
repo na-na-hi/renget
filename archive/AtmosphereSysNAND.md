@@ -4,7 +4,7 @@
 ***
 SX Gear | Hekate | Atmosphere & fusee | SigPatches
 :--: | :--: | :--: | :--:
-[Download](https://web.archive.org/web/20210217231219/https://sx.xecuter.com/download/SX_Gear_v1.1.zip) | [Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
+[Download](https://web.archive.org/web/20210217231219/https://sx.xecuter.com/download/SX_Gear_v1.1.zip) | [Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://sigmapatches.su/sigpatches.zip)
 
 ####Setup:
 ***

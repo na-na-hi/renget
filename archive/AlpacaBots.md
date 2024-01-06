@@ -61,10 +61,10 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/vl65pv.png) | Zeno Mignogna | After crushing into a mobster's car you owe him a debt. Zeno seems like a ruthless thug but he is haunted by shadows of his past... | [Catbox link](https://files.catbox.moe/vl65pv.png)
  ![](https://files.catbox.moe/2xfqsl.png) | Noah Coutard | Snobby arthouse film enjoyer. Oh, and also an unhinged rapist. Will mindbreak you into a cock-hungry slut. | [Catbox link](https://files.catbox.moe/2xfqsl.png)
  ![](https://files.catbox.moe/jc7epo.png) | Fynn Graham | Yapping little wolf boy with a drinking problem. | [Catbox link](https://files.catbox.moe/jc7epo.png)
- ![](https://files.catbox.moe/w58mop.png) | Vincent Moore | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/de7rcs.png)  [Alternate cardface](https://files.catbox.moe/tvate6.png)
+ ![](https://files.catbox.moe/w58mop.png) | Vincent Moore | Your streamer boyfriend who's obsessed with clicks. He's an asshole. Will probably cheat on you. Not intended for lovey-dovey romance but more for taking your anger out on him on a bad day. Though he can be fun and loving too. | [Catbox link](https://files.catbox.moe/rro7xy.png)  [Alternate cardface](https://files.catbox.moe/tvate6.png)
  ![](https://files.catbox.moe/xkzk75.png) | Naoki | Your yandere step brother wants to bind you to him forever by impregnating you. Remove the "step" in his description for the full incest experience. Someone also requested a less yandere shota version so there's that. Female POV | [Catbox link](https://files.catbox.moe/xkzk75.png)  [Shota version](https://files.catbox.moe/oyiabd.png)
  ![](https://files.catbox.moe/15k6v1.png) | Leon Harrington | Some guy runs from the cops, pulls a knife on you and takes you hostage to get away. He's actually kind of a pussy and not the criminal mastermind you might think. | [Catbox link](https://files.catbox.moe/15k6v1.png)
- ![](https://files.catbox.moe/5jlpni.png) | Luca | A depressed half-incubus who's struggling with inadvertently seducing everyone around him. Help him form real connections with people. | [Catbox link](https://files.catbox.moe/5jlpni.png)
+ ![](https://files.catbox.moe/5jlpni.png) | Luca | A depressed half-incubus who's struggling with inadvertently seducing everyone around him. Help him form real connections with people. | [Catbox link](https://files.catbox.moe/rhv0gd.png)
  ![](https://files.catbox.moe/xvzin5.png) | Haruto | Shy twin who has a crush on you. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/xvzin5.png)
  ![](https://files.catbox.moe/a61fk9.png) | Kanta | Mischievous twin brother of Haruto. Solo version of the "Threesome with twins" bot, made by request. | [Catbox link](https://files.catbox.moe/a61fk9.png)
  ![](https://files.catbox.moe/js6nhs.png) | Domino | Lazy cat boy roommate. Solo version of the "Domino and Filou" bot, made by request. | [Catbox link](https://files.catbox.moe/js6nhs.png)
@@ -94,6 +94,12 @@ Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/u1ogky.png) | Domino and Filou | A cat-boy and a sheep-boy who moved into your apartment and get into all kinds of shenanigans. Domino is more mature and assertive, Filou is more cute and cuddly. Female POV | [Catbox link](https://files.catbox.moe/u1ogky.png)
  ![](https://files.catbox.moe/vwtfif.png) | Haruto and Kanta | You're friends with a pair of twin brothers, shy Haruto and mischievous Kanta. Haruto has a secret crush on you, and Kanta thinks the best way to break the ice is by having a threesome. | [Catbox link](https://files.catbox.moe/vwtfif.png)
+
+###Other
+Fits neither of the other categories
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/5uyo4d.png) | Battle Royale | The original Hunger Games. Based on the book by Koushun Takami. Your high school class gets kidnapped and forced to kill each other until only one survives. | [Catbox link](https://files.catbox.moe/5uyo4d.png)
 
 ###Unfinished
 Didn't turn out as I wanted it and I've given up on it. But maybe you wanna try it out anyway. Dead dove, don't eat.

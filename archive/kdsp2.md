@@ -166,9 +166,6 @@ https://archiveofourown.org/works/15745254/chapters/36612702/
 The Bimbo Pirates (One Piece) by snakebit1995
 https://archiveofourown.org/works/16286330/chapters/38088284/
 
-Bimbo Isekai (Original Work) by snakebit1995
-https://archiveofourown.org/works/30189720/chapters/74385648/
-
 P5B (Persona 5) by Anonymous
 https://archiveofourown.org/works/36541261/
 
@@ -183,9 +180,6 @@ https://archiveofourown.org/works/40239663/chapters/100788894/
 
 Bimbo RWBY (RWBY) by snakebit1995
 https://archiveofourown.org/works/14601942/chapters/33748335/
-
-Total Bimbo Island (Total Drama) by snakebit1995
-https://archiveofourown.org/works/41165871/chapters/103195359/
 
 World of Bimbocraft (World Of Warcraft) by snakebit1995
 https://archiveofourown.org/works/43377024/
@@ -209,17 +203,20 @@ https://archiveofourown.org/works/20699402/chapters/49168553/
 Bimbo Effect 2 (Mass Effect 2) by annonfan224
 https://archiveofourown.org/works/28214403/chapters/69137547/
 
+Bimbo Isekai (Original Work) by snakebit1995
+https://archiveofourown.org/works/30189720/chapters/74385648/
+
 Pink Pen (Please Don't Bully Me Nagatoro) by decideusernamelater
 https://archiveofourown.org/works/42325617/chapters/106283883/
 
 Bimbo Connect! Re:Dive (Princess Connect! Re:Dive) by GachaAnon
 https://archiveofourown.org/works/31691696/chapters/78434510/
 
-SM (Sailor Moon) by Anonymous
-https://mega.nz/file/xN9X3axZ#oHjvqFoNG-EmJnNPE9JVNTsGJzeBezBn9zNz5GGLSoI/ or https://rentry.org/kepqu/
-
 Legend of Zelda: Bimbofication (The Legend of Zelda) by snakebit1995
 https://archiveofourown.org/works/21768364/chapters/51937903/
+
+Total Bimbo Island (Total Drama) by snakebit1995
+https://archiveofourown.org/works/41165871/chapters/103195359/
 
 =====================================================================
  Abandoned Stories (No updates for 2 or more years or author has stated that they are not continuing it.)
@@ -264,6 +261,9 @@ https://archiveofourown.org/works/29236368/
 
 Bimbo Persona Story (Persona 5) by R-scorpio
 https://pastebin.com/zMGjpnQF
+
+SM (Sailor Moon) by Anonymous
+https://mega.nz/file/xN9X3axZ#oHjvqFoNG-EmJnNPE9JVNTsGJzeBezBn9zNz5GGLSoI/ or https://rentry.org/kepqu/
 
 Super Smash Bimbos (Super Smash Brothers) by annonfan224
 https://archiveofourown.org/works/28554135/chapters/69974181/

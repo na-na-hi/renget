@@ -6,7 +6,7 @@
 ***
 Hekate | Atmosphere | Fusee | SigPatches
 :--: | :--: | :--: | :--:
-[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://sigmapatches.coomer.party/sigpatches.zip)
+[Download](https://github.com/CTCaer/hekate/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://github.com/Atmosphere-NX/Atmosphere/releases/latest) | [Download](https://sigmapatches.su/sigpatches.zip)
 
 ####Steps:
 ***
