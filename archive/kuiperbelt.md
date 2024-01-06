@@ -1,5 +1,5 @@
-->![12](https://i.ibb.co/nB1YqWx/CABED913-A46-B-428-F-8187-17-FF5555-E1-D9.gif)⠀`you`⠀have⠀two⠀choices,⠀[yes]()⠀or....⠀[yes]()!⠀![12](https://i.ibb.co/nB1YqWx/CABED913-A46-B-428-F-8187-17-FF5555-E1-D9.gif)<-
-->![babe lets go swimming in the warm lake](link.png)<-
-->｡ᴖ ᴖ) ⠀`jia`⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/jvtJF2R/1-BEBB904-61-D0-4-F14-9185-3294-B93-DA29-B.gif) she **her**<-
--> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/Ld8CnJm/93-DE65-F8-A557-4936-A2-D3-5-D1-FDBFC21-CD.gif) ﹒ ⠀[i](https://rentry.co/rainyreilai)⠀[ii]()⠀ ⊃  fem (`cis`)<-
--> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/DKS7hg2/IMG-4242.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-
+->![12](https://i.ibb.co/NWs8Kzs/124642-CE-8661-489-A-83-BF-7-E87-FEA4-ECFF.gif)⠀%#C70039% you⠀have⠀two⠀choices, %%⠀[yes]()⠀or....⠀[yes]()!⠀![12](https://i.ibb.co/NWs8Kzs/124642-CE-8661-489-A-83-BF-7-E87-FEA4-ECFF.gif)<-
+->![sparkle](https://media.discordapp.net/attachments/1084308198577668107/1193120579830689842/Untitled20_20240106041458.png?ex=65ab8f21&is=65991a21&hm=ffff972241e530de2eaaf94bbcdf085960a804e2c84a0fa1b8c1b28b34a475af&)<-
+->｡ᴖ ᴖ) ⠀%#C70039% arella %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/1XVWYR2/31-A39068-29-BC-43-AE-BC4-B-35-DB61-D887-C5.gif) she **her**<-
+-> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/LJZSy8D/6-A14-F9-C8-1865-4833-BDB3-B02-D5-AE0-B441.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#C70039% cis %%)<-
+-> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/qYNPdrP/IMG-3816.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-

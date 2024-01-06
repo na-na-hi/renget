@@ -20,7 +20,8 @@ James Page: https://rentry.org/Jameswritingstuff
 Niamh Campbell: https://rentry.org/wef3k
 Penthesilia Parley: https://rentry.org/ogqwg
 Euphemia https://rentry.org/uq9auo
-My Appletrundle https://rentry.org/MyAppletrundle
+My Appletrundle (HL) https://rentry.org/MyAppletrundle
+My Appletrundle (MA) https://rentry.org/MyAppletrundleMAwriting
 Evalyn "Eva" Halliwell: https://rentry.org/EvalynHalliwell
 Heather Mason: https://rentry.org/t9dat
 Madison Rout: https://rentry.org/SoggyTroutwrite

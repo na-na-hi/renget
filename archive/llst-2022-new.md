@@ -135,7 +135,7 @@ Previous: >>694201488 (# of previous thread)
 ***
 ##Seiyuu Information, Links & SNS
 !!! warning Warning
-	- i have no plans to include supporting seiyuu or the School Idol Musical actresses in the list.
+	- i have no plans to include supporting seiyuu (save for plot relevant, insert subunits) or the School Idol Musical actresses in the list.
 !!! note Note:
 	- All seiyuu are sorted by the "official order" with their CV (character voice) / the roles they're portraying in the franchise.
 	- LineBLOG has been retired since 2023 so only archive links are up for posterity.

@@ -166,3 +166,5 @@ Title|Link
 Unnamed Mario Party DS pasta|[(link)](https://rentry.org/5hs3en)
 *street fighter: champion of fighters*|[(link)](https://docs.google.com/document/d/117mDKk0rdETONdVOxxoDmDejhPmvLZND5GZc_NRYoeI/edit)
 *Spoiled.dll*|[(edited)](https://rentry.org/spoileddllrewriterewrite), [(original)](https://rentry.org/spoileddllrewrite)
+*Adventures of Sonic The Hedgehog: U Rappin' Cool*|[(link)](https://rentry.org/dreadfulbeat)
+*Chainlocked*|[(link)](https://rentry.org/chainlocked)

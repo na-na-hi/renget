@@ -248,4 +248,6 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[5]** *You WILL love the dykeshit.*](https://arch.b4k.co/vp/thread/55160501/)
 [**[6]** *The Cuck escapes Rejuvenation and hides out in Reborn's shitcord exposing himself as a pedo*](https://arch.b4k.co/vp/thread/55170525/)
 [**[7]** *The Kaizoshit's still here, don't worry*](https://arch.b4k.co/vp/thread/55175288/)
-[**[8]**](https://arch.b4k.co/vp/thread/55180438/)
+[**[8]** *Bonding time with the Zapdos*](https://arch.b4k.co/vp/thread/55180438/)
+[**[9]** *Kidnapped by edgy Giratinafags*](https://arch.b4k.co/vp/thread/55185628/)
+[**[10]**](https://arch.b4k.co/vp/thread/55194744/)
