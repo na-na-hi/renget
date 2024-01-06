@@ -1,6 +1,20 @@
 ###Wooly vtubers & friends, a spreadsheet
 not quite the definitive version
-send feedback and suggestions to >>>/wool/
+send feedback and suggestions to >>>/vt/wool/
+
+L| i |V|E|?
+:------:|:------:|:------:|:------:|:------:
+[essie_ch](https://twitch.tv/essie_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_essie_ch-1242x699.jpg)|[eira_ch](https://twitch.tv/eira_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_eira_ch-1242x699.jpg)|[chikafujilisa](https://twitch.tv/chikafujilisa)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_chikafujilisa-1242x699.jpg)|[dolliehitsujida](https://twitch.tv/dolliehitsujida)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_dolliehitsujida-1242x699.jpg)|[kotomisnacks](https://twitch.tv/kotomisnacks)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kotomisnacks-1242x699.jpg)
+[wwparasi](https://twitch.tv/wwparasi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wwparasi-1242x699.jpg)|[ninoegyn](https://twitch.tv/ninoegyn)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninoegyn-1242x699.jpg)|[sleepy_project](https://twitch.tv/sleepy_project)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sleepy_project-1242x699.jpg)|[mintmai](https://twitch.tv/mintmai)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mintmai-1242x699.jpg)|[krumroll](https://twitch.tv/krumroll)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_krumroll-1242x699.jpg)|
+[itsmoisi](https://twitch.tv/itsmoisi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_itsmoisi-1242x699.jpg)|[beeweecrover](https://twitch.tv/beeweecrover)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_beeweecrover-1242x699.jpg)|[kyubalt](https://twitch.tv/kyubalt)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kyubalt-1242x699.jpg)|[sheepisan](https://twitch.tv/sheepisan)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sheepisan-1242x699.jpg)|[shuuuumi](https://twitch.tv/shuuuumi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_shuuuumi-1242x699.jpg)
+[noenayumeshiro](https://twitch.tv/noenayumeshiro)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_noenayumeshiro-1242x699.jpg)|[ohitsu_zi](https://twitch.tv/ohitsu_zi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohitsu_zi-1242x699.jpg)|[youho0411](https://twitch.tv/youho0411)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_youho0411-1242x699.jpg)|[hoshimiyameeple](https://twitch.tv/hoshimiyameeple)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hoshimiyameeple-1242x699.jpg)|[wafwaffle_](https://twitch.tv/wafwaffle_)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wafwaffle_-1242x699.jpg)
+[kuromiyalucien](https://twitch.tv/kuromiyalucien)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kuromiyalucien-1242x699.jpg)|[autumnfuchsia](https://twitch.tv/autumnfuchsia)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_autumnfuchsia-1242x699.jpg)|[ceresphim](https://twitch.tv/ceresphim)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ceresphim-1242x699.jpg)|[cinnaminnies](https://twitch.tv/cinnaminnies)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cinnaminnies-1242x699.jpg)|[cozy_shokora](https://twitch.tv/cozy_shokora)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cozy_shokora-1242x699.jpg)
+[aztraliss](https://twitch.tv/aztraliss)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_aztraliss-1242x699.jpg)|[friedanox](https://twitch.tv/friedanox)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_friedanox-1242x699.jpg)|[faunrii](https://twitch.tv/faunrii)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_faunrii-1242x699.jpg)|[myshleep](https://twitch.tv/myshleep)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_myshleep-1242x699.jpg)|[naive_alie](https://twitch.tv/naive_alie)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_naive_alie-1242x699.jpg)
+[rumskii_ch](https://twitch.tv/rumskii_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_rumskii_ch-1242x699.jpg)|[hennie2001](https://twitch.tv/hennie2001)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hennie2001-1242x699.jpg)|[Shichide](https://twitch.tv/Shichide)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_Shichide-1242x699.jpg)|[yupina_ch](https://twitch.tv/yupina_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yupina_ch-1242x699.jpg)|[waffobaffo](https://twitch.tv/waffobaffo)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_waffobaffo-1242x699.jpg)
+[okaree](https://twitch.tv/okaree)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_okaree-1242x699.jpg)|[belphie_vt](https://twitch.tv/belphie_vt)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_belphie_vt-1242x699.jpg)|[BaalVtuber](https://twitch.tv/BaalVtuber)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_BaalVtuber-1242x699.jpg)|[sunset_radiance](https://twitch.tv/sunset_radiance)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sunset_radiance-1242x699.jpg)|[ghostimu](https://twitch.tv/ghostimu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ghostimu-1242x699.jpg)
+
+
+
 ------
  Streamer	|	言語	|	Main	|	Alt		|		Twitter
 ------:|:------:|:------|------|------
@@ -43,33 +57,15 @@ Alpa	|![](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1b63bed41706401fa85
 		- fill captcha and post
 
 
-
-# currently live
-L| i |V|E|?
-:------:|:------:|:------:|:------:|:------:
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_essie_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_eira_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_chikafujilisa-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_dolliehitsujida-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kotomisnacks-1242x699.jpg)
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wwparasi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninoegyn-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sleepy_project-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mintmai-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_krumroll-1242x699.jpg)
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_itsmoisi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_beeweecrover-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kyubalt-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sheepisan-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_shuuuumi -1242x699.jpg)
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_noenayumeshiro-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohitsu_zi-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_youho0411-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hoshimiyameeple-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_wafwaffle_-1242x699.jpg)|
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kuromiyalucien-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_autumnfuchsia-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ceresphim-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cinnaminnies-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cozy_shokora-1242x699.jpg)
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_aztraliss-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_friedanox-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_faunrii-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_myshleep-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_naive_alie-1242x699.jpg)|
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_rumskii_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hennie2001-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_Shichide-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yupina_ch-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_waffobaffo-1242x699.jpg)
-![](https://static-cdn.jtvnw.net/previews-ttv/live_user_okaree-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_belphie_vt-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_BaalVtuber-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sunset_radiance-1242x699.jpg)|![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ghostimu-1242x699.jpg)
-
-
-
-
-checking|f   o   r|streams
-:------:|:------:|:------:
-![Eira](https://static-cdn.jtvnw.net/previews-ttv/live_user_Eira_ch-1242x699.jpg)|![Essie](https://static-cdn.jtvnw.net/previews-ttv/live_user_Essie_ch-1242x699.jpg)|![Lisa](https://static-cdn.jtvnw.net/previews-ttv/live_user_chikafujilisa-1242x699.jpg)
-![Dollie](https://static-cdn.jtvnw.net/previews-ttv/live_user_dolliehitsujida-1242x699.jpg)|![Lulu](https://static-cdn.jtvnw.net/previews-ttv/live_user_kuromiyalucien-1242x699.jpg)|![Beewee](https://static-cdn.jtvnw.net/previews-ttv/live_user_beeweecrover-1242x699.jpg)
-![Ohituji](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohitsu_zi-1242x699.jpg)|![Noena](https://static-cdn.jtvnw.net/previews-ttv/live_user_NoenaYumeshiro-1242x699.jpg)|![Meeple](https://static-cdn.jtvnw.net/previews-ttv/live_user_HoshimiyaMeeple-1242x699.jpg)
-![Sleepy](https://static-cdn.jtvnw.net/previews-ttv/live_user_Sleepy_Project-1242x699.jpg)|![Para](https://static-cdn.jtvnw.net/previews-ttv/live_user_wwParasi-1242x699.jpg)|![Nino](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninoegyn-1242x699.jpg)
-
-
-!!! danger why the fuck is the middle column narrower
+!!! danger why the fuck is that column wider?!
 	> because col witdh is tied to header letter count
+	>> maybe use a 4x grid with nicknames?
 
 ------
 ![]()|![]()|![]()
 https://static-cdn.jtvnw.net/previews-ttv/live_user_-1242x699.jpg
+
+[birb app](https://x.com)
+[](https://twitch.tv/)
+[](https://twitch.tv/)
+[](https://twitch.tv/)

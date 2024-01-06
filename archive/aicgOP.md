@@ -1,75 +1,72 @@
-#/aicg/ OP templates
-->Check out the old OPs for some memories https://rentry.org/oldOPS <-
+# aicg OP template
 
-!!!note IMPORTANT INFO
-	I'm a fucking moron and wrote my mail wrong it's not petergabriel@cock.li it's PeterGabriel@cock.li
-    **
-	OPs status
-	OP | Status
-	OP1 (trimmed)    | Updated
-	**
-	My mail -> PeterGabriel@cock.li
-
-	Remember to be calm and reasonable.
-[TOC]
-
-##Trimmed OPs
-
-######OP0
+Subject:
 ```
---Edition here--
+ /aicg/ - AI Chatbot General
+``` 
 
-A general dedicated to discussion & development of AI Chatbots
+Comment:
+ ```
 
->New
---News here--
+/aicg/ - A general dedicated to the discussion and development of AI chatbots
+
+The Edition
+
+>News
+Mistral released Mistral 8x7b, a Mixture of Experts model that outperforms Turbo despite being much smaller and more efficient
+https://mistral.ai/news/mixtral-of-experts/
+Google released Google Gemini Pro - Out on Bard now / Gemini Ultra to release in January 2024
+https://blog.google/technology/ai/google-gemini-ai
+
+additional info: https://rentry.org/aicg_extra_information
 
 >Bots
 https://chub.ai
+https://chub-archive.evulid.cc
 https://booru.plus/+pygmalion
-https://chub-archive.evulid.cc/#/
-https://chatbots.neocities.org/
-https://rentry.org/cai-list [CAI]
-https://rentry.org/meta_bot_list - https://rentry.org/charcardrentrylist [Meta]
+https://rentry.org/meta_bot_list
+https://rentry.org/charcardrentrylist
 
 >Guides
-https://rentry.org/Aicg4Retards - https://rentry.org/agnai_guides - https://rentry.org/sillytermux - https://rentry.org/Various-NAI-Guides
+https://rentry.org/tavern4retards - https://rentry.org/agnai_guides
 
->JBs
+>Jailbreaks
 https://rentry.org/Jail-Breaks-for-Different-Models
 
->Fronts
-https://github.com/SillyLossy/TavernAI [SillyTavern]
-https://agnai.chat/ [Agnai]
-https://docs.miku.gg/ - https://rentry.org/mikugg [Miku]
-http://risu.pages.dev/ [Risu]
+>Frontends
+https://sillytavern.app [SillyTavern]
+https://agnai.chat [Agnai]
+https://risuai.xyz [RisuAI]
+https://docs.miku.gg [Miku]
+https://character.ai [Cai]
 
->Slaude
+>Models
+gpt: https://platform.openai.com/docs
+claude: https://docs.anthropic.com
+local: >>>/g/lmg
+https://rentry.org/meta_golocal_list
+
+>Claude/Slaude
 https://rentry.org/meta_claude_list
-https://rentry.org/slaudehope
 
 >Botmaking
 https://rentry.org/meta_botmaking_list
-https://avakson.github.io/character-editor/
-https://agnai.chat/editor [Agnai CardV2 Editor]
-
->Local models (Pygmalion, LLaMa)
->>>/g/lmg/
-https://rentry.org/meta_golocal_list
+https://desune.moe/aichared
+https://agnai.chat/editor
 
 >Meta
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
-key verifiers: https://github.com/Buhankoanon/OAI_API_Checker - https://github.com/Definetelynotbranon/Anthropic_API_Checker - https://github.com/CncAnon1/kkc
-extra topics: https://rentry.org/aicg_extra_information 
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
-aicg themed weeks -> https://rentry.org/aicgthemedweeks
+logs: https://chatlogs.neocities.org
+aicg themed botmaking events: https://rentry.org/aicgthemedweeks
 
-Previous: --Last thread here--
-```
+Previous: >>
 
-## Extra
-```
-proxy checker -> https://chub-archive.evulid.cc/proxies
-```
-Some extra things you might want to add
+ ```
+
+Email for feedback and suggestions:
+- aicgOP@proton.me
+
+Old OPs by raelbaker for the memories:
+- https://rentry.org/oldOP-s

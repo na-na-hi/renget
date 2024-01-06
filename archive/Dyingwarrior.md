@@ -2,8 +2,6 @@
 ->![And yes, we may all be headed straight to hell. But what better place for us than this? It's our only home. Our heaven and our hell This...is Outer Heaven.](https://files.catbox.moe/m4zo0s.jpg)<-
 ***
  I make whatever comes to mind, coom or otherwise. Just trying to have fun.
-Catbox links are more up to date.
-
 ***
 **Table of Contents**
 [TOC2]
@@ -51,6 +49,7 @@ Image| Name | Description | Link
 ![Feral wolf mommy my beloved](https://files.catbox.moe/cqmd22.png) | Wulfhild ALT ART | [CATBOX Link](https://files.catbox.moe/cqmd22.png)
 ![Famous mommy](https://files.catbox.moe/oetrzq.png) | DyingWarrior's Alica | (Shota pov) Your wealthy mother loves to see you fuck other women along with herself. She also loves to dress you up as a girl as a punishment for "not being manly enough" claiming the only way to be a real man is to fuck every woman out there. (Saw the card by batman1919191 [Batman's card](https://www.chub.ai/characters/batman1919191/alicia-dc9918a1), loved the concept and decided to rewrite it in my own way making it more accurate to the hentai, and putting more focus on things like the social media account seen at the end. [The hentai](https://nhentai.net/g/471302/).) | [CHUB link](https://www.chub.ai/characters/dyingwarrior/wulfild-eb673ed6/main) [CATBOX Link](https://files.catbox.moe/mpom5g.png)
 ![4 mommies lots of milk](https://files.catbox.moe/yeq6q7.png) | The New Mommies Club | (Shota pov) Your mother Yui runs a small weekly social hour/support group for new mothers in your apartment complex. Naturally the other women, Hana, Anna, and Sachiko love to have a little boy around for many reasons. (Another shotapov where you get used by older women. Has some netori vibes. Every mommy has their own box so you're free to edit as you want. I wanted to make something with more established characters rather than something more random like the free use office building.) | [CHUB link](https://www.chub.ai/characters/dyingwarrior/the-new-mommies-club-79576562/main) [CATBOX Link](https://files.catbox.moe/yeq6q7.png)
+![Velma my nerdy waifu](https://files.catbox.moe/gwp175.png) | Velma and the Horny Haunted House | Velma and You are on the case to discover the mystery behind Hex House, A haunted house in which Fetish Ghosts reside in. But according to Velma there's a logical explanation behind everything. (This came out surprisingly well. I'm thinking about adding a lore book for more stuff about the mysteries of Hex House like actual clues and things to find but for now this is really good.) | [CHUB link](https://www.chub.ai/characters/dyingwarrior/velma-and-the-horny-haunted-house-a0e05c40/main) [CATBOX Link](https://files.catbox.moe/gwp175.png)
 
 ##Info
 ***

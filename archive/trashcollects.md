@@ -3054,3 +3054,21 @@ Using ControlNet to work from sketches:
 >Good call, that's exactly what I did with part 3 of the mouse series. Mouse part is mine, the rest is preprocessor.
 
 ![Adding sketches to preprocessir](https://files.catbox.moe/pbcd6r.png)
+
+### CDTuner ComfyUI Custom Nodes
+A kind anon wrote custom nodes for ComfyUI to achieve similar results as https://github.com/hako-mikan/sd-webui-cd-tuner.
+https://rentry.org/r9isz
+Copy the script into a text file, rename it to cdtuner.py, and put it into your custom_nodes folder inside your ComfyUI install.
+
+Do not make the same mistake I did: only save the contents of the script, if you use Export > Raw, make sure to remove the everything before the first import and after the last }.
+
+>The nodes are now called:
+>SaturationTuner
+>ColorTuner
+>LatentColorTuner
+>I made some slight changes because the original CDTuner implementation is a bit weird.
+>LatentColorTuner will allow you to edit latent colors with similar sliders to CDTuner but you don't need to re-generate images all the time.
+>The actual ColorTuner which is implemented almost the same as CDTuner is a bit of hack job because you can't really get the step count back out of a sampler. So rather than editing just the cond/uncond pair in the last step it edits them at all steps. I think this leads to the changes being a bit better integrated into the images, but it's different from A1111 CDTuner.
+
+>Input and output are the same type so you just plop it as a middle man before the node you want it to apply to
+>Gives different effects depending on where you place it

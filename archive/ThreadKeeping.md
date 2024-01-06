@@ -79,6 +79,7 @@ Ima Gun Dye >>91225406
 
 Turn 0: >>91418090
 Turn 1: >>91430801
+Turn 2: >>91454499
 
 ```
 
@@ -116,7 +117,7 @@ Dhor Tallav
 Farem Jarrik
 >>91350879 
 Kēru Ya'moshi
->>91294035 
+>>91456423
 Kir Kadi
 >>91371849
 Kaillos
@@ -137,9 +138,9 @@ Gobar Ceel
 >>91431244
 Siemis Varr
 >>91421566
->Alma Eohl
+Alma Eohl
 >>91411032
->Chad
+Chad
 >>91422409
 
 >Sith
@@ -158,7 +159,7 @@ Grok Ko'Garr
 Darth Smolg
 >>91370938
 Syko
->>91384038
+>>91460784
 Darth Dahi
 >>91378353
 Darth Nexios
@@ -191,6 +192,10 @@ UrrGrum
 >>91445098
 L'zov
 >>91445344
+Kincaid
+>>91459957
+Calligos Vanlar
+>>91463251
 ```
 
 ***
@@ -375,6 +380,8 @@ https://rentry.org/MHACards
 >New Stuff:
 >Brightly Time Travel Prompt Adventure
 >>91441288
+>Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
+https://rentry.org/nsno4
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -933,6 +940,8 @@ https://rentry.org/6uvv5
 https://rentry.org/iyfm2
 >Brightly Time Travel Prompt Adventure
 >>91441288
+>Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
+https://rentry.org/nsno4
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

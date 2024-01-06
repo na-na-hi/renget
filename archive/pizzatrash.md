@@ -1,7 +1,7 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/61906110
-Latest Aggie: https://aggie.io/t6ew_gw23_
+Latest thread: https://boards.4chan.org/trash/thread/62336162
+Latest Aggie: https://aggie.io/zf3fsw6z75
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -79,6 +79,8 @@ https://desuarchive.org/trash/thread/61293962 /pizzatrash/ 63
 https://desuarchive.org/trash/thread/61498002 /pizzatrash/ 64
 https://desuarchive.org/trash/thread/61716367 /pizzatrash/ 65
 https://desuarchive.org/trash/thread/61906110 /pizzatrash/ 66
+https://desuarchive.org/trash/thread/62112266 /pizzatrash/ 67
+https://desuarchive.org/trash/thread/62336162 /pizzatrash/ 68
 
 
 #####Aggie
@@ -139,3 +141,5 @@ https://aggie.io/tekc1jfjdo /pizzatrash/ Aggie #42: Panettone Edition
 https://aggie.io/hfax8wimwn /pizzatrash/ Aggie #43: Hanukkah Edition
 https://aggie.io/s6gl3v2fzb /pizzatrash/ Aggie #44: Vin Santo Edition
 https://aggie.io/t6ew_gw23_ /pizzatrash/ Aggie #45: Bocconotto Edition
+https://aggie.io/ikhrs3z7j1 /pizzatrash/ Aggie #46: New Year's Edition
+https://aggie.io/zf3fsw6z75 /pizzatrash/ Aggie #47: Trapanese Edition
