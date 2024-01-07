@@ -19,6 +19,37 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
+#Demon Eyes (3rd Run)
+***
+Page 1
+***
+```
+>Wrath
+Mari Aozaki
+>>91469537
+>Gluttony
+Akari Ichioka
+>>91457359
+>Lust
+Hinako Shimeki
+>>91458663
+Yoru Heinard
+>>91471625
+>Sloth
+Amaryllis
+>>91473931
+>Pride
+Yoji Ryoshi
+>>91458024
+Kuro Mithran
+>>91469897
+
+
+>Writefags
+Chance Encounter (Yoji Ryoshi, Akari Ichioka)
+https://rentry.org/5uap6
+```
+
 #Chinese Warlord (Arena)
 ***
 Page 1
@@ -159,17 +190,17 @@ Grok Ko'Garr
 Darth Smolg
 >>91370938
 Syko
->>91460784
+>>91464890
 Darth Dahi
 >>91378353
 Darth Nexios
->>91383376
+>>91472662
 
 >Indpendent
 Twen Ty
 >>91283025 
 Alexander 'Xander' Drax.
->>91291721 
+>>91470350
 Tha'aia'ike
 >>91376584
 Jei Jenstro
@@ -189,13 +220,15 @@ Yegan Venn
 Tyr "Wildcat" Flame
 >>91443874
 UrrGrum
->>91445098
+>>91467150
 L'zov
 >>91445344
 Kincaid
 >>91459957
 Calligos Vanlar
 >>91463251
+Cyrene
+>>91465865
 ```
 
 ***
@@ -213,7 +246,10 @@ Legacies (Saewara Kol)
 https://rentry.org/qgkm4 
 Skyr Missions:
 >>91451399
-
+Keru's Relationship Chart:
+>>91456444
+Oggdo Bogdo Bash (Kon, Smolg)
+>https://rentry.org/OggdoCHADdo
 ```
 
 #Fate/Arena
@@ -378,10 +414,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Brightly Time Travel Prompt Adventure
->>91441288
->Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
-https://rentry.org/nsno4
+>Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
+https://rentry.org/acnw3
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -942,6 +976,8 @@ https://rentry.org/iyfm2
 >>91441288
 >Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
 https://rentry.org/nsno4
+>Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
+https://rentry.org/acnw3
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

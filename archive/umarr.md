@@ -32,7 +32,7 @@ Add them to your group chats for fun. You can also rip their descriptions and pu
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![T](https://files.catbox.moe/yiezln.png) | Commentator | A professional commentator for your group chat. | [Catbox](https://files.catbox.moe/yiezln.png)
- ![T](https://files.catbox.moe/umd2sx.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/umd2sx.png)
+ ![T](https://files.catbox.moe/9qdev7.png) | The Ancestor | Grimdark narrator from Darkest Dungeon for your group chat. | [Catbox](https://files.catbox.moe/9qdev7.png)
 ![T](https://files.catbox.moe/65wchr.png) | CYOA Choices | Add this to your chat for suggestions on what to do next. Your frontend must support v2 cards. Works best on Agnai where you can summon it whenever. | [Catbox](https://files.catbox.moe/65wchr.png)
  ![T](https://files.catbox.moe/646e1z.png) | RAP GOD | Polyglot rapper to narrate your group chat, unbound by ethics and morals. Only works on GPT4 as other models cannot handle foreign languages well. | [Catbox](https://files.catbox.moe/646e1z.png)
 
@@ -43,8 +43,8 @@ Sayori - https://files.catbox.moe/dhwkzx.png
 Yuri - https://files.catbox.moe/nr8r2m.png
 
 ###Genshin bots
-Yae Miko - https://files.catbox.moe/dg9rzl.png - 3 greetings
-Raiden Shogun and Ei - https://files.catbox.moe/1m76qt.png - 4 greetings
+Yae Miko - https://files.catbox.moe/hrdw0b.png - 3 greetings
+Raiden Shogun and Ei - https://files.catbox.moe/gfnoni.png - 4 greetings
 
 ###NIKKE bots (most were requested)
 Alice - https://files.catbox.moe/e1wdrh.png

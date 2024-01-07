@@ -12,3 +12,7 @@ https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, c
 ### FUWAMOCO VN & Anime list
 https://pastebin.com/BGvNtvJ4
 if you know of a vn or anime they've watched, mentioned they're interested in, or whatever and its not in the list, post about it in the thread and i'll update the list.
+
+### /baubau/ thread watcher 
+https://ruffians425015.github.io/threadwatcher/
+allows you to sync vods with a thread, emulating the "you were there live" experience

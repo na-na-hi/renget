@@ -10,10 +10,11 @@ I also also tend to stick to a modified light UC:
 lowres, jpeg artifacts, bad quality, worst quality, watermark, blurry, very displeasing
 ```
 Repeat artist names are usually ones I think work well as mixers; try them with your own favorite styles!
-###### -> You can copy the artist's names to clipboard by hovering over the line and clicking the tiny button on the far right! <-
+-> **You can copy the artist's names to clipboard by hovering over the line and clicking the tiny button on the far right!** <-
 ***
+[TOC2]
 
-# Western-ish/Realism content
+## Western-ish/Realism Content
 ``` html
 artist:bernie wrightson, artist:michael whelan, artist:shimhaq, 
 ```
@@ -36,7 +37,7 @@ boy portrait | warrior woman | jungle statue | random fun
 ![](https://files.catbox.moe/qpo27d.png) | ![](https://files.catbox.moe/3jv70k.png) | ![](https://files.catbox.moe/i997bn.png) | ![](https://files.catbox.moe/rlk5b7.png)
 
 ***
-# Cartoony content
+## Cartoony Content
 ``` html
 artist:kelvin hiu, artist:xaxaxa, artist:kedama milk, 
 ```
@@ -136,8 +137,22 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/ylmzzg.png) | ![](https://files.catbox.moe/pwjkdq.png) | ![](https://files.catbox.moe/mowb2g.png) | ![](https://files.catbox.moe/vbu6ko.png)
 
+``` html
+artist:paloma piquet, artist:tsukushi akihito, artist:alex ahad, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/xja0xb.png) | ![](https://files.catbox.moe/a858zw.png) | ![](https://files.catbox.moe/rxzd06.png) | ![](https://files.catbox.moe/u9xpmg.png)
+
+``` html
+artist:yoon cook, artist:zankuro, artist:kedama milk, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/skwqsj.png) | ![](https://files.catbox.moe/i590bl.png) | ![](https://files.catbox.moe/h3vs6u.png) | ![](https://files.catbox.moe/pl8oh3.png)
+
 ***
-# Stylized anime stuff???
+## Stylized Anime Content???
 ``` html
 artist:ina (gokihoihoi), artist:rei (sanbonzakura), artist:makimura shunsuke, 
 ```
