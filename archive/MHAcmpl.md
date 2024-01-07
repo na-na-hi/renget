@@ -1024,6 +1024,8 @@ MHA 1.9999: Prose Edition: https://rentry.org/y9rfp
 The Other Side - A (108 Gang, Cameo of Orochi): https://rentry.org/6uvv5
 A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C): https://rentry.org/iyfm2
 Brightly Time Travel Prompt Adventure: https://desuarchive.org/tg/post/91441288/
+Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/nsno4
+Tooth And Claw(Saurus): https://rentry.org/qsrvx8
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

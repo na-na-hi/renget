@@ -16,9 +16,9 @@ Pokémon's Ability | Description
 ---- | ----
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
-->Rookie Rank<-
-->*305/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*15/1200 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -80,7 +80,7 @@ Item Name | Description
 1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
 2. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
 3. Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

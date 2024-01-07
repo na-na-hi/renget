@@ -80,7 +80,7 @@ A section of Apple Woods spawned after the forest fire incident caused by Team M
 Has not yet appeared in any stories.
 
 ###Eroded Canyon
-TBA
+A large and deep canyon with a river at the bottom. It is mostly devoid of plant life, and one end of it is completely barren.
 First appeared in "Chespin's Week: Day 4" by Chespin-anon: https://rentry.org/chespinsweek#day-4
 **Not currently on map**
 

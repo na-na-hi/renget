@@ -34,7 +34,7 @@ Everett | Info
 Elatha | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/5m5cez.png)   | You come across a castle that's rumored to contain strange and fantastical things within, said to be abandoned long ago. But exploring its halls, you find it's beautiful yet strange owner still very much living there. And he probably isn't pleased to see you. Inspired by [The Beast](https://www.youtube.com/watch?v=0gOwngIFNxM)
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Elatha),  [Catbox](https://files.catbox.moe/0dbh8n.png)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Elatha),  [Catbox](https://files.catbox.moe/rwz22e.png)
 
 Octavio | Info
 :----:  | :----: 

@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 01/01/24: Happy New Year Edition**
+**Last updated: 06/01/24: Scarlet (forma de negro) Edition**
 
 ***
 
@@ -10,7 +10,7 @@
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
 | NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
-| MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
+| MESUGAK1 | ==**4414**==  | 6     | 31/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | PERMISSION       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 32/32   | POLUS    | PERMISSION |                                 |
@@ -23,7 +23,7 @@
 | NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 5     | 32/32   | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ  | ==**20186**== | 3     | 25/32   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ  | ==**20186**== | 4    | 31/32   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -32,7 +32,7 @@
 
 | Name     | ID            | Level | Members | Leader  | Join       | Reqs/Notes                 |
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
-| NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |                            |
+| NIKKUNNY | ==**13395**== | 6     | 31/32   | YOON    | PERMISSION |                            |
 | NIKG     | ==**4893**==  | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |                            |
 | PANTSUUU | ==**21859**== | 6     | 32/32   | ORLEEN  | PERMISSION |                            |
@@ -40,7 +40,7 @@
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
 | KUNNYHUB  | ==**29940**== | 5     | 32/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
-| WANGERS  | ==**33386**== | 3     | 13/32   | SID | PERMISSION | Casual/newcuties welcome   |
+| WANGERS  | ==**33386**== | 3     | 15/32   | SID | PERMISSION | Casual/newcuties welcome   |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

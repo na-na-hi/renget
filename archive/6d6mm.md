@@ -1,7 +1,7 @@
 #### Biboo Merch Directory
 *Links for voice packs and other merch*
 
-Last updated: 2024-01-05
+Last updated: 2024-01-06
 
 ##### Voice packs
 - [hololive English -Advent- New Year's Voice Drama 2024 "A Very Fugitive New Year"](https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024) 
@@ -11,7 +11,7 @@ Last updated: 2024-01-05
 - [hololive New Year's Holiday Date Voice Pack ~Closing Off 2023~ (JP)](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679892188) *Order Period : 2023/12/26 18:30 ~ 2024/03/25 18:00 (JST)*
 - [hololive Christmas Voice Pack 2023 ~Present For YOU~ (EN)](https://shop.hololivepro.com/en/products/hololive_christmasvoice2023?variant=44256038715612) *Order Period : 2023/12/04 19:30 ~ 2024/03/04 18:00 (JST)*
 - [hololive Christmas Voice Pack 2023 ~Present For YOU~ (JP)](https://shop.hololivepro.com/en/products/hololive_christmasvoice2023?variant=44256038682844) *Order Period : 2023/12/04 19:30 ~ 2024/03/04 18:00 (JST)*
-- [hololive Sports Festival Voice Pack](https://shop.hololivepro.com/en/products/hololive_sportsfestival_voicepack?variant=44163472883932) *Order Period : 2023/11/02 18:30 ~ 2024/01/15 18:00 (JST)*
+- ~~[hololive Sports Festival Voice Pack](https://shop.hololivepro.com/en/products/hololive_sportsfestival_voicepack?variant=44163472883932) *Order Period : 2023/11/02 18:30 ~ 2024/01/15 18:00 (JST)*~~
 - [hololive English -Advent- Horror Voice Drama "The Manor"](https://shop.hololivepro.com/en/products/hololiveen_advent_horrorvoicedrama)
 - [hololive English -Advent- Debut Celebration Pre-Escape Voice](https://shop.hololivepro.com/en/products/hololiveen_advent_debut)
 - ~~[Starting Voice](https://shop.hololivepro.com/en/products/starting-voice-koseki-bijou)~~ 
