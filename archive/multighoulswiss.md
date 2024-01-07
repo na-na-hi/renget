@@ -8,7 +8,7 @@
 -> + <-
 -> ***Ghost B.C Introj[ect](https://thebandghost.fandom.com/wiki/Nameless_Ghoul_(Swiss)) ,*** *DIAGNOSED DISSOCIATIVE IDENTITY DISORDER* ***SYSHOST*** <-
 -> 42Y.O, *Bodily 17* — He / him + Bisexual greyroman[tic](https://en.pronouns.page/@MULTIGHOULSWISS) <-
--> [OTHER HOST'S RENTRY](https://rentry.co/GRIFTZONE) & [MY LOVE!!!](https://en.pronouns.page/@nocturnalme) <-
+-> [OTHER HOST'S RENTRY](https://rentry.co/GRIFTZONE) & [MY LOVE!!!](https://rentry.co/mountainghoul) <-
 -> ![!](https://file.garden/ZTPKSmyz9k4k9wFy/resources/dividers/ezgif-4-8f1233d9e1.png)<-
 ->***DNI : %yellow% Endogenic "systems" / supporters,  if you unreasonably hate on other's identities, anti-recovery irls, & basic dni%%***<-
 -> Otherwise, if i don't like you, ill block you <-

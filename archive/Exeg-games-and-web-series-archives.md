@@ -66,7 +66,7 @@ Sonic.exe (MY5TCrimson) | [PRESS START](https://gamejolt.com/games/sonic-exe-the
 Sunky.MPEG | [PRESS START](https://gamejolt.com/games/sunky-mpeg/78243) 
 Sally.exe (MY5TCrimson) | [PRESS START](https://gamejolt.com/games/sally-exe-the-game/20920)
 Silly.TIFF | [PRESS START](https://gamejolt.com/games/silly-tiff/78244)
-An Ordinary Sonic Fangame (Ordinary sonic romhack remake) | [PRESS START](https://www.mediafire.com/file/rn2pmcyjl5tph99/ordinary.7z/file)
+An Ordinary Sonic Fangame (Ordinary sonic romhack remake) | [demo 1](https://www.mediafire.com/file/rn2pmcyjl5tph99/ordinary.7z/file), [demo 2](https://files.catbox.moe/hgh3ec.zip)
 Rouge.exe | [PRESS START](https://gamejolt.com/games/rouge-exe/164505)
 DigDug.exe | [PRESS START](https://gamejolt.com/games/DigDugexe/712475)
 Sonic.exe: Nightmare Series | [NB,](https://gamejolt.com/games/sonic-exe-nightmare-beginning/229832) [EOT,](https://gamejolt.com/games/SallyTitle_QuickLS_/258884) [FN,](https://gamejolt.com/games/UIM_JKP_3_O/562651) [NB-Remake](https://gamejolt.com/games/NBR_UIM/516580)

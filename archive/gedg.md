@@ -22,7 +22,7 @@ New thread template
 
 >/gedg/ Wiki: https://wiki.installgentoo.com/wiki/Gedg
 >IRC: irc.rizon.net #/g/gedg
->Previous Progress Day: https://rentry.org/gedg-jams
+>Progress Day: https://rentry.org/gedg-jams
 >/gedg/ Compendium: https://rentry.org/gedg
 >/agdg/: >>>/vg/agdg
 >previous:  previous thread here
@@ -44,7 +44,7 @@ A lot of the links use rentry.org, if .org is down try .co instead.
 
 ## Resources and Links
 
-In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. You can also check out the [horsefucker paste](https://ponepaste.org/2348).
+In addition to all the resources listed, you might want to check out the [/agdg/ resource page](https://hackmd.io/dLaaFCjDSveKVeEzqomBJw). Just be warned, anyone can edit that file and the anons of /agdg/ are not afraid of removing links, especially if they think it will be funny. You can also check out the [horsefucker paste](https://ponepaste.org/9401).
 
 ### Engines and Libraries
 
@@ -92,7 +92,7 @@ Yes.
 > Can I use ai?
 Do what you want, make the games how you want.
 
-For Progress Day you post your work monthly. Unlike game jams you can work on something old. You can submit a game, engine, tool, etc.
+For Progress Day you post your work ~~monthly~~. Unlike traditional game jams you can work on something old. You can submit a game, engine, tool, etc.
 
  Submit to itch.io for Progress Day like we do with game jams. The difference is you work on your stuff before the jam officially starts, then submission is open for a couple of days. 
 

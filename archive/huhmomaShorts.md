@@ -736,3 +736,49 @@ Had a semi-internet related greentext I wrote for /awoo/ that might fit better h
 >if your roommate insists on reading one more lurid fanfic esque comment about you and him to your face you're gonna start having to pay him back for it somehow
 
 ---
+Bat Sommelier by anonymous
+
+>Occupation: Human blood (And cum) sommelier
+
+>Human blood (And cum) sommelier
+as long as he doesn't try to get both at once (by biting my cock while I'm cumming), I'd gladly let him have a taste of mine 
+
+>The two of you met when you were at a fancy restaurant
+>You were just there to burn the giftcard for the place that you got as your new year's office white elephant gift, he was there to do "blood snob" reviewing things as part of his job
+>He was seated a few tables behind you when you accidentally cut yourself on a steak knife
+>Milliseconds later he somehow picked up the scent of fresh human blood wafting through the restaurant
+>He immediately got up so fast that he knocked over his chair, and began intensely sniffling around the room looking for the scent's source with his cute little bat nose
+>(All the while completely ignoring the bewildered restaurateur following him around asking him "sir please, what is the matter?!" and "please sit down sir, you're scaring the other guests...!")
+>Until he finally half crashed into your table, his wiggling bat nose coming within an inch of your bleeding thumb, and he came to his senses enough to sheepishly look up and make eye contact you
+>Nowadays whenever he has hoity-toity bat friends over he likes to show you off, not only as his boyfriend but also as his "rarest, most delectable, finest quality bloodsuckle", too
+>You've had to break apart a few bats fights, wings and angry squeaks flying, because he absolutely refuses to share you
+
+>You will never hear an anthro bat beg you for a syringe of blood because "the plasma in your blood is better than sex"
+>You will never watch his eyes go wide when you prick your arm and watch him scramble to find something to collect it in
+>You will never jokingly put a hand behind his head and watch him lose any restraint he had
+>From just one sip, he can tell how much sleep you've had, what you've eaten over the past 3 days, and if you're aroused
+>He also claimed to be able to divine a rough phylogenetic tree, including that you're a carrier for a few heritable genetic conditions, just from a few grams of your hemoglobin
+>At first you thought he was just exaggerating for comedic effect but he somewhat angrily INSISTED he was telling the truth, though you refused to believe him
+>In the end he ended up taking some of your blood, sending it to a genetic testing service (tearfully, because he wanted to drink it so badly) and showed you the results JUST to prove it to you
+>Yfw he was fucking right
+>From just one sip, he can tell how much sleep you've had
+>Realizes how high your blood pressure is and starts forcing you to exercise and eat better
+
+>Sign up as a new patient for a human clinic, the only clinic in town with a doctor boarded in human primary medicine
+>Go there for your first visit, the doctor's some kind of fox, blah blah nice to meet you Anon, blah blah blood pressure a little high blah blah get these labs and see me in a few months
+>After refusing a prostate exam (he was oddly pushy about it???), go to get your labs drawn at the outpatient phlebotomy center
+>All of the staff are... bats...?
+>The guy who draws them keeps saying weird things about you "having great veins" and he literally licks his lips at one point
+>Leave slightly creeped out, except you forgot your jacket so you have to turn back
+>Except nobody's there when you come back in...?
+>You poke your head into the room marked "specimen processing and interpretation" to try to find somebody to help, only to be met with a bat greedily slurping down the vial of your blood and then putting your total LDL and triglycerides down in pen on your chart
+>...
+
+>bat bf
+>insist you fuck him and cum in him before he drinks from you, since the blood loss usually makes staying erect impossible
+>he tastes and swallows your cum like fine wine 
+>makes sure to utterly drain your balls and satisfy you completely before going for your throat vampire style 
+>cradles you like a baby as he sinks his teeth into you
+>cuddles you after to keep you warm when you feel cold from blood loss
+the perfect bf
+---

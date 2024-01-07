@@ -124,7 +124,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 =============================================
 
-**`{Death}`**
+**%red%{Death}%%**
 
 Brachy love hunter friend
 Brachy play with hunter friend forever
@@ -523,7 +523,8 @@ it later took you and a squad of palico over the course of several months to cle
 
 =============================================
 
-`{Transformation}`
+**%red%{Transformation}%%**
+
 \>be a hunter
 \>took on the toughest challenge of all and defeated fatalis, protecting everyone from devastation once again
 \>get crowned a hero for it
@@ -864,7 +865,7 @@ Realizing you're already way past first base and quickly heading straight for th
 
 =============================================
 
-**`{Vore}`**
+**%red%{Vore}%%**
 
 \>(You), new hunter in Moga, accept the quest to deliver some Monster Guts to the village.
 \>"Guts: It's What's for Dinner", ha, funny name.
@@ -973,7 +974,7 @@ Realizing you're already way past first base and quickly heading straight for th
 
 =============================================
 
-**`{Unbirth}`**
+**%red%{Unbirth}%%**
 
 \>Climbing inside legi marks the first time you've been able to pleasure her without the need for earplugs
 \>the screaming still vibrates through her insides, becoming a useful indicator of where to rub for the best reaction
@@ -1974,7 +1975,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 ####*Alatreon/Fatalis*
 
-**`{Transformation}`**
+**%red%{Transformation}%%**
 
 >\>the [Fatalis] eye was actually lovingly hand crafted out of sweet jello
 >\>but it also contains materials that are not fit for human consumption
@@ -2097,7 +2098,7 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 
 \##################################################
 
-**`{Vore}`**
+**%red%{Vore}%%**
 
 >My ideal monster is a cute, tender, caring lover who is also fully capable and willing to go out and hunt for food with her jaws and claws.
 
@@ -2186,7 +2187,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 
 \##################################################
 
-**`{Transformation}`**
+**%red%{Transformation}%%**
 
 >need a monster hunter game with a story about some evil force that wants to turn everybody into monsters 
 
@@ -2232,7 +2233,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 
 \##################################################
 
-**`{Transformation}`**
+**%red%{Transformation}%%**
 
 >"Guys? I got grab-attacked by a Malzeno the other day during a hunt and it's starting to itch really bad. Those stories about him actually being a vampire and all aren't real...right?"
 
@@ -2395,7 +2396,8 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 
 \##################################################
 
-`{Transformation}`
+**%red%{Transformation}%%
+
 \>be a very unfortunate hunter who gets hurt way too much when fighting monsters but always manages to complete each hunt
 \>due to these constant injures, every time you finish healing there's something different about you
 \>yellow scales on your chest from the tigrex who headbutted you, a legiana eye under the scar on your face from one close talon swipe, red muscular thighs from an odogaron swipe, and now a currently growing rathalos tail out from your rear end, just to name a few

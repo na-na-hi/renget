@@ -267,6 +267,8 @@ Lorebook entries:
 
 Note: JavaScript is filtered out. 
 
+Please note there are some restrictions to using <style> tags cross-frontend. The style tag should be all on one line, and there must be some regular markdown text preceding it (which is allowed to be invisible markdown text).
+
 Here’s a non-exhaustive list of cool things you can do with HTML. Read the hyperlinked characters’ defs to see how the effects are accomplished.
 
 ───── ⋆⋅☆⋅⋆ ─────

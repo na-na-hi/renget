@@ -25,7 +25,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 ===================================
 
-**`{Transformation}`**
+**%red%{Transformation}%%**
 
 \>hunters everywhere slaying Alatreon and gleefully carving it's body up to make weapons and armor
 \>dowhatyouwilli'vealreadywon.jpg
@@ -122,7 +122,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 ===================================
 
-**`{Vore}`**
+**%red%{Vore}%%**
 
 \>The ashes of Castle Schrade swirl around you, the fires long cooled as the Fatalis' serpentile tongue, long and slender and as thick as your waist, coils around your midsection, drawing you gently close to the monster’s parted jaws.
 \>Muggy wetness dampens your clothes where the great tongue applies a gentle pressure around your body, wrapping you gently in a warm, wet bear hug that is intimately tight but just loose enough that you can breathe easily.
@@ -134,7 +134,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 ===================================
 
-**`{Unbirth}`**
+**%red%{Unbirth}%%**
 >No one would ever know you were there. She could keep you inside herself for days if she wished and no one would ever find you. And even if they did, there's no way they're taking you from her.
 
 \>strip naked and stash all of your gear somewhere safe, minus a waterproof pack full of the essentials you'll need for your "expedition"
@@ -309,7 +309,7 @@ Imagine if your palico started teaching you rudimentary Monster to fill the idle
 
 ===================================
 
-**`{Male Impregnation}`**
+**%red%{Male Impregnation}%%**
 
 \>Be huntress(male)
 \>The other hunters make fun of you because you're small and the jerk smithy refuses to make you any male armor
@@ -2022,7 +2022,7 @@ and what looks to be Velks attempt at making champagne into your drinking glass
 
 ####*Miscellaneous*
 
-**`{Impregnation}`**
+**%red%{Impregnation}%%**
 
 \>Be female hunter
 \>An all-female village has put out a request for an equally female hunter to solve their elder dragon related troubles, and you happen to fit the bill
@@ -2043,7 +2043,7 @@ and what looks to be Velks attempt at making champagne into your drinking glass
 
 \########################################
 
-**`{Transformation}`**
+**%red%{Transformation}%%**
 >Why not just climb inside [the monster] to get your egg as fresh as possible?
 
 \>Be Hunter

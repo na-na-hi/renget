@@ -1,4 +1,5 @@
 # ***Monster Hunter Doujin/Smut Index of Monster Pornography***
+
 ---
 ___
 ___
@@ -53,7 +54,7 @@ Some (but not all) of the doujins on MEGA [can be found in this folder](https://
 A good chunk of the doujins are in dire need of translation, even for blurbs. Typesetting can always be done by others.
 
 ---
-#### *M Zinogre x F Mizutsune `[Untranslated]`*
+#### *M Zinogre x F Mizutsune %red%[Untranslated]%%*
 **Author - [よーな](https://www.pixiv.net/member.php?id=26533)**
 
 The first are some raw scans uploaded by somebody at /scaly/ and shared around since. Not yet translated. The second is only a contrast edit, but it's perfect for reaction images.
@@ -75,7 +76,7 @@ A story about a cuntboy Mizutsune who pays other monsters for protection with hi
 
 ---
 
-#### *INCERTri (Rathalos x M Lagiacrus) `[Untranslated]`*
+#### *INCERTri (Rathalos x M Lagiacrus) %red%[Untranslated]%%*
 **Author - [hPa](https://www.pixiv.net/member.php?id=86603)**
 
 The doujin that made the Lagi/Los couple cool. Not translated, but there's very little dialogue anyway.
@@ -95,7 +96,7 @@ Fully translated. The source of this comes from a much larger generic kemono dou
  
  ---
 
-#### *M Human x M Barioth `[Untranslated]`*
+#### *M Human x M Barioth %red%[Untranslated]%%*
 
 Two stories about a guy and a Barioth that has a human dick for some reason. Fairly moonrune heavy.
 
@@ -105,7 +106,7 @@ Two stories about a guy and a Barioth that has a human dick for some reason. Fai
 
 ---
 
-#### *M Chameleos, M Gypceros `[Untranslated]`*
+#### *M Chameleos, M Gypceros %red%[Untranslated]%%*
 **Author: [イグアナ](https://www.pixiv.net/member.php?id=158219)**
 
 This doujin has a bunch of short stories following a Chameleos and a Gypceros (but not at the same time) getting dickings from other monsters. Currently, only scans of the second doujin are available.
@@ -114,7 +115,7 @@ This doujin has a bunch of short stories following a Chameleos and a Gypceros (b
 
 ---
 
-#### *M Zinogre `[Untranslated]`*
+#### *M Zinogre %red%[Untranslated]%%*
 **Author: [イグアナ](https://www.pixiv.net/member.php?id=158219)**
 
 Same author as above, with the chibi art style and also pretty compact.
@@ -123,7 +124,7 @@ Same author as above, with the chibi art style and also pretty compact.
 
 ---
 
-#### *Gun Modoki `[Untranslated]`*
+#### *Gun Modoki %red%[Untranslated]%%*
 **Author - Various (?)**
 
 Tons of male-only chibi monsters and censor bars. The one on e621 got deleted. Password is 'nori', this was archived by someone else.
@@ -140,7 +141,7 @@ Hunters and monsters falling in love with one another.
 
 ---
 
-#### *M Human x Rathian `[Untranslated]`*
+#### *M Human x Rathian %red%[Untranslated]%%*
 
 A very short doujin with some oviposition.
 
@@ -159,7 +160,7 @@ Bara monsters engaging in (non)consensual intercourse with a Zinogre. Light on p
 
 ---
 
-#### *Beautiful You (M Almudron x M Mizutsune) `[Untranslated]`*
+#### *Beautiful You (M Almudron x M Mizutsune) %red%[Untranslated]%%*
 **Author - [Dragonlove](https://www.pixiv.net/en/users/2562274)**
 
 They say opposites attract.
@@ -169,7 +170,7 @@ Hint: Password is a T9 version of 'rage'.
 
 ---
 
-#### *Guided by the Blue Stars and the Wind (M Zinogre x F Nargacuga) `[Untranslated]`*
+#### *Guided by the Blue Stars and the Wind (M Zinogre x F Nargacuga) %red%[Untranslated]%%*
 **Author - [Dragonlove](https://www.pixiv.net/en/users/2562274)**
 
 *https://mega.nz/folder/n5YhHY6Q#E-aApInKNwQBCPZEavGBvw*
@@ -187,41 +188,41 @@ A lonely Rathalos gets more than he bargained for. When it comes to Rathian, con
 
 ---
 
-#### *Gemini (M Valstrax x M Crimson Glow Valstrax) `[Untranslated]`*
+#### *Gemini (M Valstrax x M Crimson Glow Valstrax) %red%[Untranslated]%%*
 **Author - [Mul_kkoi](https://www.pixiv.net/en/users/324597)**
 
 *https://mega.nz/folder/z04SQLDC#EBq9GYvsHqQbxWcyJs6iaA*
 
 ---
 
-#### *Innocent Bride (M Kushala Daora x M Velkhana) `[Untranslated]`*
+#### *Innocent Bride (M Kushala Daora x M Velkhana) %red%[Untranslated]%%*
 **Author - [Mul_kkoi](https://www.pixiv.net/en/users/324597)**
 
 *https://mega.nz/folder/D0QQjITA#Ff0aDe7nzBpHLh5QWzzIgA*
 
 ---
 
-#### *Charred Than Raw (M Safi'Jiiva x M Fatalis) `[Untranslated]`*
+#### *Charred Than Raw (M Safi'Jiiva x M Fatalis) %red%[Untranslated]%%*
 **Author - Ibuki Shione**
 
 *https://mega.nz/file/v9YmWZ4I#KJaxteUHp6fGZypBeUz-u5ygrP_tZBRDQPGxJUxaVRU*
 
 ---
 
-#### *The Time When the Wings of Rebellion Cross (M Seregios x F Astalos/M Astalos x M Seregios/Mizutsune/Espinas) `[Untranslated]`*
+#### *The Time When the Wings of Rebellion Cross (M Seregios x F Astalos/M Astalos x M Seregios/Mizutsune/Espinas) %red%[Untranslated]%%*
 **Author - [Dragonlove](https://www.pixiv.net/en/users/2562274)**
 
 The main attraction is Male/Female, but it also features several Male/Male guest contributions from Shi-sorotu, Maru, Hamuko, Shiroko and Yukatamizu.
 
 *https://mega.nz/file/HoIBRCLZ#wU1PElaQVviTm9lsTuP8bscXMbwgSbYsYqs3mUi1P3A*
 
-#### *Foam (M Mizutsune x M Almudron/M Lagiacrus) `[Untranslated]`*
+#### *Foam (M Mizutsune x M Almudron/M Lagiacrus) %red%[Untranslated]%%*
 **Author - Ibuki Shione**
 
 *https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM*
 
 ---
-####***`Maya's works`***
+####***%fuchsia%Maya's works%%***
  
 Most of these except the first are paid doujins that were scanned by someone else. [You can find the artist's website here.](https://de-cube.jimdofree.com)
 
@@ -235,7 +236,7 @@ The pages are left alone, but this one has translation notes you can mouse over 
 
 ---
 
-#### *The Inverted Shabon Harem `[Untranslated]`*
+#### *The Inverted Shabon Harem %red%[Untranslated]%%*
 
 A female (female) Mizutsune has some lewd encounters with Duramboros, Zinogre, and Lagiacrus. All those monsters are found in the Misty Peaks, it's like pottery. This doujin is in full color.
 
@@ -243,7 +244,7 @@ A female (female) Mizutsune has some lewd encounters with Duramboros, Zinogre, a
 
 ---
 
-#### *F Amatsu x M Zinogre `[Untranslated]`*
+#### *F Amatsu x M Zinogre %red%[Untranslated]%%*
 
 More story-driven than the last doujin, and in black and white.
 
@@ -251,7 +252,7 @@ More story-driven than the last doujin, and in black and white.
 
 ---
 
-#### *Lawless `[Untranslated]`*
+#### *Lawless %red%[Untranslated]%%*
 
 Another story-heavier doujin involving Teostra, Nergigante, and Lunastra.
 
@@ -259,7 +260,7 @@ Another story-heavier doujin involving Teostra, Nergigante, and Lunastra.
 
 ---
 
-#### *Valse `[Untranslated]`*
+#### *Valse %red%[Untranslated]%%*
 
 Sequel to Lawless.
 
@@ -279,7 +280,7 @@ Alphabetically ordered, **not worksafe**, and all are considered feral unless st
 **[A MEGA backup of most stories can be found here](https://mega.nz/folder/oaxQxRaA#de9D5UdkoBt8U2tui5CXsA)**
 
 ---
->### ***Anonymous Works***
+###*** %green%Anonymous Works%%***
 
 ---
 
@@ -307,7 +308,7 @@ Sometimes you just can't let nature take its course.
 
 ---
 
-#### *[To Attain Nirvana [M Human x F Shara Ishvalda]](https://pastebin.com/TrqSEmHG)* `Fatal Unbirth`
+#### *[To Attain Nirvana [M Human x F Shara Ishvalda]](https://pastebin.com/TrqSEmHG)* %red%{Fatal Unbirth}%%
 
 Spiritual enlightenment comes at a grave cost.
 
@@ -409,19 +410,19 @@ Breeding season is truly underway in the new world. From the 22nd numbered Monst
  
 ---
 
-#### *[The tale of the Hungry Bagel and the Unlucky Hunter [M Human x Herm Anthro Bazelgeuse]](https://pastebin.com/RX6CnL8e)* `Futa`
+#### *[The tale of the Hungry Bagel and the Unlucky Hunter [M Human x Herm Anthro Bazelgeuse]](https://pastebin.com/RX6CnL8e)* %red%{Futa}%%
 
 Futa Anthro Bazelguese. Hey, don't knock it till you try it.
 
 ---
 
-#### *[Tama Time [Human x M Mizutsune x M Zinogre]](https://rentry.org/Tama_Time)* `Unbirth`
+#### *[Tama Time [Human x M Mizutsune x M Zinogre]](https://rentry.org/Tama_Time)* %red%{Unbirth}%%
 
 Unbirth and mawplay for the unwilling. An unofficial sequel to the greentext directly below.
 
 ---
 
-#### *[Tama Unbirth [M Mizutsune]](http://pastebin.com/hePmhRnA)* `Unbirth`
+#### *[Tama Unbirth [M Mizutsune]](http://pastebin.com/hePmhRnA)* %red%{Unbirth}%%
 
 What it says on the tin but with the added fun of prehensile hemipenises. From an offshoot /trash/ MH thread.
 
@@ -458,15 +459,15 @@ The announcement of the next installment in the series, Wilds, brings forth a ne
 
 ---
 
-#### ***/Advanced: Monster Hunter!/'s Short Greentexts***
+#### ***%maroon%/Advanced: Monster Hunter!/'s Short Greentexts%%***
 ##### ***Thread [1-150](https://rentry.org/iftod) | [151 - 259](https://rentry.org/sfbf5/) |  [260 - current](https://rentry.org/2f8so)***
 
 An ongoing collection of various shorts posted throughout the general's history.
 
 ---
-### ***`Namefag Works`***
+### ***%green%Namefag Works%%***
 
-##### **Clawdragons**
+##### **%fuchsia%Clawdragons%%**
  
 #### *[Lessons for Hunters [M Human x F Lagiacrus]](http://www.furaffinity.net/view/14960647/)*
 
@@ -490,7 +491,7 @@ One huntress and her Barroth pet have to deal with distractions.
 
 ---
 
-##### **Diethyl**
+##### **%fuchsia%Diethyl%%**
 
 #### *[Monster [M Barioth TF]](http://pastebin.com/a4uSPDgy)*
 
@@ -510,7 +511,7 @@ Don't step into random shedding either (unless you're freezing to death).
  
 ---
 
-##### **skiesofsilver**
+##### **%fuchsia%skiesofsilver%%**
  
 #### *[Mismasked [F Anthro Ivory Lagiacrus TFTG]](https://www.furaffinity.net/view/15575209/)*
  
@@ -518,7 +519,7 @@ Just when a recent purchase effectively paid for itself, something else happens.
 
 ---
 
-##### **Rarden**
+##### **%fuchsia%Rarden%%**
  
 #### *[Lagiacrus Post-TF [M Lagiacrus]](http://pastebin.com/cTRQNEWZ)*
 
@@ -526,7 +527,7 @@ A former hunter adjusts to the life of a Lagiacrus. Worksafe.
 
 ---
 
-##### **Drag3ndz**
+##### **%fuchsia%Drag3ndz%%**
  
 #### *[Narga TF [F Nargacuga TF]](http://pastebin.com/8ft19X3i)*
  
@@ -540,7 +541,7 @@ Yep. Cheesy and worksafe.
 
 ---
 
-##### **Ether_ether**
+##### **%fuchsia%Ether_ether%%**
 
 #### *[The Crimson Lord [Malzeno TF]](https://www.furaffinity.net/view/46365035/)*
 
@@ -566,7 +567,7 @@ Liquid bioenergy does strange things to people. Short and worksafe.
 
 ---
 
-##### **SunnyBird**
+##### **%fuchsia%SunnyBird%%**
 
 #### *[Welcome To The Jungle [Pukei-Pukei FTM TF]](https://www.furaffinity.net/view/49258700/)*
 
@@ -574,7 +575,7 @@ Poison can influence the body in mysterious ways.
 
 ---
 
-##### **Mahlzeit**
+##### **%fuchsia%Mahlzeit%%**
 
 #### *[The Maleficent Malzeno [M Malzeno x M Human]](https://www.sofurry.com/view/1879358)*
 
@@ -582,7 +583,7 @@ An overconfident hunter meets his match against the terrifying Silver Duke--Malz
 
 ---
 
-#### *[A Mizutsune Problem [M Mizutsune x M Human]](https://www.sofurry.com/view/1958908/)* `Mawplay`
+#### *[A Mizutsune Problem [M Mizutsune x M Human]](https://www.sofurry.com/view/1958908/)* %red%{Mawplay}%%
 
 A very angry Mizutsune gives a very dirty hunter the most intense bath of his life.
 
@@ -627,7 +628,7 @@ A researcher stumbles upon the Queen of El Dorado.
 
 ---
 
-#### *Mizutsune & Lagiacrus `[Untranslated]`*
+#### *Mizutsune & Lagiacrus %red%[Untranslated]%%*
 **Author - [ぱりぽい](http://www.pixiv.net/member.php?id=3364797)**
 
 *(Part 1) - https://mega.nz/#!7xcATI6J!yCEyRM1JlNfcuBrabx44g0VlT0Gh0qjg5JSub30rHGA*
@@ -640,7 +641,7 @@ HINT: Both doujins have an identical password; a T9 version of 'rage'.
 
 ---
 
-#### *Legiana & Odogaron `[Untranslated]`*
+#### *Legiana & Odogaron %red%[Untranslated]%%*
 **Author - [ぱりぽい](http://www.pixiv.net/member.php?id=3364797)**
 
 Photographed copies of [ぱりぽい's](http://www.pixiv.net/member.php?id=3364797) other MH doujin. Still better than nothing.
