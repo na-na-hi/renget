@@ -129,6 +129,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/hq43c3.png) | ![](https://files.catbox.moe/dncmd6.png) | ![](https://files.catbox.moe/4tlqu1.png) | ![](https://files.catbox.moe/t5fezq.png)
 
+``` html
+artist:porforever, artist:kuroboshi kouhaku, artist:zippo (3756c), 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/ylmzzg.png) | ![](https://files.catbox.moe/pwjkdq.png) | ![](https://files.catbox.moe/mowb2g.png) | ![](https://files.catbox.moe/vbu6ko.png)
+
 ***
 # Stylized anime stuff???
 ``` html

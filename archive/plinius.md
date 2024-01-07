@@ -1,5 +1,10 @@
 -> ![.](https://media.tenor.com/p6PYFjy3cxoAAAAM/melly-plinius-identity-v.gif) <-
--> ENNY ![.](https://watermelon.crd.co/assets/images/gallery10/a0b84eb0.gif?v=2a41aca3) RYAN — she/his <-
--> ![.](https://watermelon.crd.co/assets/images/gallery21/9ac21438.jpg?v=2a41aca3) <-
--> GiRLTHiNG BiSEXUAL ![.](https://watermelon.crd.co/assets/images/gallery25/bc2025e2.png?v=2a41aca3) <-
--> das [hoard](https://rentry.org/jellyfishfield) <-
+
+-> NO DNi idgaf <-
+
+->BYF <- i type very badly!!!!!! i type quickly so it can be unreadable sorry in advacnce Lol.... i love emojis and hse those to express feeiling 
+
+-> these characters are me idgaf im not a fictive or introject or irl theyre literally just me <- 
+[j](https://lollipopchainsaw.fandom.com/wiki/Juliet_Starling)uliet starling , [c](https://bandori.fandom.com/wiki/Tamade_Chiyu)hu2 , [a](https://id5.fandom.com/wiki/Alice_DeRoss)lice deross
+
+[back](https://rentry.org/clairo)

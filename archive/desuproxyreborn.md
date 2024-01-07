@@ -13,17 +13,13 @@ Click 4chan X Settings:
 /j[^\w\s]*e[^\w\s]*s[^\w\s]*t[^\w\s]*e[^\w\s]*r/i;stub:no;op:no;boards:g
 /w[^\w\s]*o[^\w\s]*m[^\w\s]*v[^\w\s]*a[^\w\s]*t/i;stub:no;op:no;boards:g
 /g[^\w\s]*[0oо*)(-][^\w\s]*j[^\w\s]*[0oо*)(-]/i;stub:no;op:no;boards:g
-/[0o][o0h]*(.{0,15})mad/i;stub:no;op:no;boards:g
 /[꒰\(][^\w]{3,12}[꒱\)]/i;stub:no;op:no;boards:g
 /[0o][o0h]*(.{0,15})mad/i;stub:no;op:no;boards:g
 />(.*)[a-z0-9]{2}\-A([CGH]+[KH]|[A-Z0-9\b]{10,}$)/;stub:no;op:no;boards:g
 /^[A-Z ]+W[0O]N/i;stub:no;op:no;boards:g
-/fiz|antig|gooner|mystery|todd|turdy|petr|drago|cylla|pikap|pikag|locust|makie|zigger|burger|puncher|rizzl|distinct typing style|such a shit general|negative ambiance/i;stub:no;op:no;boards:g
-# Attempts at filtering ASCII spam:
-/^[d8b ]{20,}/i;stub:no;op:no;boards:g
-/^[^a-zA-Z]{40,}/;stub:no;op:no;boards:g
+/fiz|antig|gooner|todd|turdy|petr|drago|cylla|pikap|pikag|locust|makie|zigger|burger|puncher|rizzl|distinct typing style|such a shit general|negative ambiance/i;stub:no;op:no;boards:g
 # No mass replies:
-/^(?![\s\S]*\bnews\b)(?:(?:>>\d(?:(?!>>\d)[\s\S])*){20})/i;stub:no;op:no;boards:g
+/^(?![\s\S]*\bnews\b)(?:(?:>>\d(?:(?!>>\d)[\s\S])*){10,})/i;stub:no;op:no;boards:g
 
 # /insert_thing_you_don't_wanna_see/i;stub:no;op:no;boards:g
 

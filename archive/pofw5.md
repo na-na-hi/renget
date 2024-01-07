@@ -34,10 +34,10 @@ You probably should be using [Mod Organizer 2](https://github.com/ModOrganizer2/
 [Fallout 4 VR FPS Stabilizer](https://www.nexusmods.com/fallout4/mods/65961) - Adjusts settings on the fly based on your framerate. Can help in areas like Corvega or downtown Boston.
 [PipBoy Light VR](https://www.nexusmods.com/fallout4/mods/29245) - Makes your PipBoy Light a handy flashlight
 [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680) - All in one lighting and weather improvements without killing compatibility or performance. Darker interiors make the above mod matter more.
-[Generating LODs](https://www.nexusmods.com/fallout4/articles/4162) - Being able to see in the distance well really helps with immersion
 [Bullet Time VR](https://www.nexusmods.com/fallout4/mods/72502) - If you really don't like VATS. Allows (most) VATS perks to still work.
 [Optimized Vanilla Textures](https://www.nexusmods.com/fallout4/mods/1204) or [Low-End Textures](https://www.nexusmods.com/fallout4/mods/68112/) - If you are hurting for VRAM.
 [F4 Enhanced Color Correction](https://www.nexusmods.com/fallout4/mods/5060) - Adjusts LUTs to improved contrast. Everyone can enjoy better colors with no performance hit.
+[Generating LODs](https://www.nexusmods.com/fallout4/articles/4162) - Being able to see in the distance well really helps with immersion. Make sure to use the [VR LOD fix](https://www.nexusmods.com/fallout4/mods/42870) and don't generate LODs for Diamond City or Goodneighbor.
 
 ##ini Tweaks:
 In Documents\My Games\Fallout4VR consider editing Fallout4Custom.ini

@@ -877,3 +877,192 @@ https://nitter.net/ME_Observer_/status/1743424790365368436#m  1/5/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1743429562547999102#m  1/5/24
+
+>Pro-Palestinian protesters douse US Secretary of State Antony Blinken's convoy with red paint as he departs his home in Virginia. Amidst chants of “shame on you, war criminal.”
+https://nitter.1d4.us/QudsNen/status/1743534403802804571#m  1/6/24
+
+>🟡 Hezbollah’s first operation for the retaliation of Al-Arouri:
+Targeted the Meron Air Surveillance Base with 62 rockets of various types, inflicting direct and confirmed hits.
+
+The Meron Air Surveillance Base is situated atop Mount Jarmaq in northern occupied Palestine, representing the highest peak in the occupied territories. Meron is a crucial center for administration, monitoring, and air control in the northern part of the usurping entity, serving as an irreplaceable hub. It stands as one of the two primary bases within the entire occupying entity, the other being "Mitzpeh Ramon" in the south.
+https://nitter.net/AryJeay/status/1743533729362883004#m  1/6/24
+
+>⚡️Al-Qassam Brigades :
+We killed 8 soldiers from Point Blank in the middle of the Bani Suhaila area
+https://nitter.net/ME_Observer_/status/1743580405406564716#m  1/6/24
+
+>🪜🔥Hezbollah’s attack on Meron intelligence surveillance Air base is a very significant attack, & it’s only the first of more attacks to come.
+
+Meron has been targeted because it served as an important air control center for the IOF army drones, and the assassination of Arouri.
+https://nitter.net/AryJeay/status/1743538178605121604#m  1/6/24
+
+In solidarity with Gaza, activists and organizations are calling for a large demonstration in Washington, D.C. on January 13th.
+https://nitter.1d4.us/QudsNen/status/1743623018637672502#m  1/6/24
+
+>Fake news by Reuters.
+The suspension of Iran's oil sales to China is not true. The head of the Joint Chamber of Commerce of Iran & China denied the claim & told IRNA: "Our country's oil exports are now at their maximum."
+https://nitter.net/AryJeay/status/1743632938636361820#m  1/6/24
+
+>⚡️Saraya Al-Quds (PIJ) published a video showing scenes from their mortar launches crushing military concentrations on the front lines east of Khan Yunis.
+https://nitter.net/AryJeay/status/1743634557805482032#m  1/6/24
+
+>⚡️Hezbollah published an infographic showing IOF losses due to Hezbollah attacks.
+Some notable figures:
+🔻In total 670 military assets were targeted, incl 20 Merkava tanks, 20APCs, etc.
+🔻18 command centers were destroyed
+🔻1 Iron dome platform destroyed
+🔻2000 IOF casualties
+🔻230,000 displaced settlers
+🔻4 destroyed IOF drones
+🔻1 military factory destroyed
+🔻181 military tech equipment destroyed
+https://nitter.net/AryJeay/status/1743640913514000649#m  1/6/24
+https://files.catbox.moe/rj1ion.jpg  1/6/24 English
+https://files.catbox.moe/kymqk9.jpg  1/6/24 Arabic 
+
+>🛑🇾🇪 Six Yemeni naval speedboats approached & warned a ship, probably intended for israeli docks, in the Bab El-Mandab strait. 
+The ship most likely adhered to the warnings as no weapons were used.
+https://nitter.net/AryJeay/status/1743642801726750862#m  1/6/24
+
+>⚡️Google translated version of the infographic:
+https://nitter.net/AryJeay/status/1743641850655723847#m  1/6/24
+
+>Media coverage | Gaza Government Media Office: Israeli occupation soldiers stole money, gold, and jewelry from the Gaza Strip valued at 90 million shekels.
+https://nitter.1d4.us/QudsNen/status/1743627887687700953#m  1/6/24
+
+>🚀 Additional footage of the israeli Meron intelligence base after it was targeted with 62 rockets by Hezbollah.
+Damage looks pretty severe.
+https://nitter.net/AryJeay/status/1743637147641356787#m  1/6/24
+
+>Media coverage | 100 Chilean lawyers file a complaint to the International Criminal Court regarding the crimes of the Israeli army in Gaza.
+https://nitter.1d4.us/QudsNen/status/1743655607347847671#m  1/6/24
+
+>Irish institutions and activists are calling for the expulsion of the Israeli ambassador in Ireland due to Israeli war crimes in Gaza.
+https://nitter.1d4.us/QudsNen/status/1743653417178865782#m  1/6/24
+
+>Israeli warplanes use of white phosphorus and on residential areas in Al-Khayaam village, Lebanon.
+https://nitter.1d4.us/QudsNen/status/1743639870159958375#m  1/6/24
+
+>Residents filming the white phosphorus fired at their neighborhood.
+https://nitter.1d4.us/QudsNen/status/1743652317197373924#m  1/6/24
+
+>⚡️📹 #Lebanon :
+Bomb drops near citizens after they gather in the area where another bomb had just dropped
+https://nitter.net/ME_Observer_/status/1743657856891519147#m  1/6/24
+
+>🛑 Government media in Gaza: 
+The occupation stole money & gold from the Gaza Strip worth 90 million shekels ($24.500.000).
+https://nitter.net/AryJeay/status/1743672921569058868#m  1/6/24
+
+>⚡️🟡 Hezbollah published a video showing their attack that targeted the Meron Air Surveillance base of the israeli army, in northern occupied Palestine. 
+The video shows several successful rocket hits that damaged the base, which angered the israelis a lot today.
+https://nitter.net/AryJeay/status/1743690232527011996#m  1/6/24
+
+>Anti-Netanyahu protests in Tel Aviv, demanding his resignation and to hold new elections.
+https://nitter.net/AryJeay/status/1743712829536981085#m  1/6/24
+
+>Breaking | Al Jazeera: 'Hezbollah' informed the European Union's foreign policy chief that discussing the Lebanese file and developments in the South is not possible until Israel ceases its war on Gaza.
+https://nitter.1d4.us/QudsNen/status/1743691533604245539#m  1/6/24
+
+>⚡️🇮🇶 WATCH: Islamic Resistance in Iraq published a video showing their drone attack from yesterday, that targeted the Al-Harir US base, in Erbil, northern Iraq. 
+Video also shows the direct impact, causing for fire inside the base.
+https://nitter.net/AryJeay/status/1743692938205388879#m  1/6/24
+
+>⚡️MUST WATCH: Al-Qassam (Hamas) published a new video showing scenes of their forces clashing with military vehicles & IOF soldiers, east of the Al-Tuffah & Al-Daraj neighborhoods. 
+These scenes show some amazing hits 🔻
+https://nitter.net/AryJeay/status/1743697119825822056#m  1/6/24
+
+>☠️ JUST IN: The israeli army admits one of its senior commanders was killed in the Gaza Strip. 
+🔻Lieutenant colonel Roee Yohay Yosef Mordechay, 31, senior commander at the Nahal Brigade.
+https://nitter.net/AryJeay/status/1743693628201947191#m  1/6/24
+
+>January 13 is scheduled to witness widespread marches for Gaza in Washington DC.
+https://nitter.1d4.us/QudsNen/status/1743722255912218927#m  1/6/24
+
+>⚡️[To be confirmed] 
+News of the assassination of Jewish journalist Jerry Yorkam, who wrote a report explaining the number of Jews killed in the war on Gaza after 83 days of war.. 
+Number of vehicles 825 
+Number of Zionists killed 8435 Number of French deaths 902 Number of Americans killed 1385 Number of British dead 79 
+Number of Italians killed 48 Number of dead  Mercenaries 62
+
+ All these statistics were prepared by journalist Jerry Burkham, and these numbers correspond to the number of refrigerated containers on board the ship MGZ, anchored some distance from the port of Haifa and guarded by the American Navy. It was noted that a large number of small boats were sent to and from it, which prompted this journalist to access this information that shook the street.  The enemy, which led to his assassination at the hands of the Mossad in the city of Acre for publishing this information, and the ship disappeared from sight and was later seen in the ports of Cyprus.
+https://nitter.net/ME_Observer_/status/1743716396171735511#m  1/6/24
+
+>⚡️Iran: Major General Qaani’s message to Haniyeh: 
+The world will witness how the brothers of the martyr Al-Arouri will turn into a nightmare for this child-killing entity
+https://nitter.net/ME_Observer_/status/1743731517854020039#m  1/6/24
+
+>🛑 UPDATE:
+New details regarding the terrorist attack in Kerman:
+
+• 32 individuals have been arrested and are currently undergoing interrogation.
+
+• 16 bombs were discovered in Kerman province, each with a higher explosive power than those used by suicide attackers. However, thanks to the efforts of the special intelligence forces, these bombs were detected.
+
+• 23 terrorist members had prepared for more suicide operations in Kerman province, they were all apprehended in recent months.
+
+• In the shortest possible time, the location where the suicide vests were manufactured on the outskirts of Kerman city, was discovered. They intended to use these vests in the morning funeral ceremony for the martyrs as well, but this second terrorist operation was thwarted.
+
+• Regarding the Peugeot-405 with a lead-colored plate stationed at the scene of the terrorist incident, it should be mentioned that this Peugeot was inspected, and it was discovered that it had a authorised-traffic card. Authorized vehicles with traffic cards could enter the area, and there was no problem with this vehicle bringing equipment. It was a divine blessing that this Peugeot was there because suicide belts have numerous buckles, and if this vehicle had not been there, we would have had more martyrs.
+https://nitter.net/AryJeay/status/1743757756232864189#m  1/6/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 6 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted an israeli infantry force of 8 soldiers, after ambushing them in a well-prepared trap, in the middle of the Bani Suhaila area, east of Khan Yunis.
+
+🔻Killed an israeli soldier by placing the rifle head, directly on his back, as he entered a house to inspect it, followed by engaging in combat with the rest of the force using weapons and hand grenades.
+
+🔻Successfully surrounded & engaged a Zionist infantry force of 9 soldiers in one of the roads in the Bani Suhaila area, east of Khan Yunis.
+
+🔻Detonated an anti-personnel mine targeting an Israeli force inside a building, in the Khazaa area, east of Khan Yunis.
+
+🔻Shelled military concentrations, northwest of Al-Maghazi camp, with heavy-caliber mortars.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Engaged in fierce clashes with Zionist soldiers, using machine guns and RPGs in the axis of the Maan area, east of Khan Yunis.
+
+🔻Engaged in intense clashes with israeli soldiers in the axes of Khan Yunis.
+
+🔻Shelled military concentrations in the station area in the center of Khan Yunis with heavy-caliber mortars.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled IOF soldiers' gatherings and military vehicles with short-range rockets, in the axes of Gaza City.
+
+🔻Targeted an entrenched Zionist force in a building, in Tel Al-Hawa, with an anti-personnel OG-7V grenade, causing casualties among the force.
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+
+🔻Shelled military gatherings & soldiers, near Al-Mahatta area in central Khan Younis, with heavy-caliber mortars.
+
+🔻Clashed with IOF soldiers in the areas center & east of Khan Younis, with machine guns and RPGs.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Clashed with IOF forces, west of Jabalia, inflicting deaths and injuries. 
+
+— 🟡 Hezbollah:
+
+🔻As an initial response to the assassination of Al-Arouri and his martyr comrades, Hezbollah targeted the Meron Air   Surveillance Control Center, with 62 various rockets & ATGMs, causing direct and confirmed hits.
+
+🔻Targeted the Metulla site with appropriate weapons, causing a direct hit.
+
+🔻Targeted an assembly of israeli soldiers near Hunin barracks with appropriate weapons, causing a direct hit.
+
+🔻Targeted the Bayad Blida site with rockets, causing a direct hit.
+
+🔻Targeted an assembly of israeli soldiers in Avivim with appropriate weapons, causing direct hits.
+
+🔻Targeted an assembly of israeli soldiers near Jal Al-Alam site with appropriate weapons, inflicting casualties.
+
+🔻Targeted an assembly of israeli soldiers near Al-Manara site, with appropriate weapons, causing direct hits.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked 2 US bases, namely the Al-Tanf base & the Al-Shaddadi base, deep in Syrian territory, with drones.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1743750331387760963#m  1/6/24

@@ -114,7 +114,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
-2. Shattered TM107 Shock Wave | A TM which contained the Move Shock Wave. A long, jagged line goes down the middle, like a lightning bolt.
+2. Sourdough | +4HP for the duration of the battle.
 3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
@@ -125,7 +125,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Colbur Berry | None
-2. Sourdough | +4HP for the duration of the battle.
+2. Shattered TM107 Shock Wave | A TM which contained the Move Shock Wave. A long, jagged line goes down the middle, like a lightning bolt.
 
 
 ***

@@ -71,3 +71,6 @@ It's good enough for Subaru too, if the sounds she's making are any indication. 
 "Me too. But one at a time this time, alright? You can go first, I'll go grab the actual soap."
 "Thanks. Love you, Anon."
 "Love you too, Subaru."
+
+***
+[part 3 here](https://rentry.org/8dsae)

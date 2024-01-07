@@ -1,5 +1,4 @@
-.org/clairo
--> ![](https://media.discordapp.net/attachments/1096639589852123136/1192335250697756732/IMG_0487.jpg?ex=65a8b3bc&is=65963ebc&hm=288fb4911142054f9e4c50a06382a96a1a52ba959f7ba104ceb9f705df0a2eb0&) <-
--> enny / ryan — ==he==[she](https://en.pronouns.page/@ennymarch4)  ˖˙‹𝟯  <-
+-> ![](https://media.discordapp.net/attachments/1096639589852123136/1193304684232986704/IMG_0587.jpg?ex=65ac3a97&is=6599c597&hm=6a72a41241416fdc59cac8d3d9942c9397c926690faf7c7b0dbf2e23d3edc3a5&) <-
+-> enny ノ ryan — ==he==[him](https://en.pronouns.page/@ennymarch4)  ˖˙‹𝟯  <-
 -> [my bsf](https://rentry.co/edwardnashton) ,, #edwardjuliet <-
--> das [hoard](https://rentry.org/jellyfishfield) 01 . 02 . 03  <-
+-> [hoard](https://rentry.org/jellyfishfield) [01](https://rentry.co/plinius) . 02 . 03  <-

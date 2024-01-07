@@ -1029,6 +1029,8 @@ https://files.catbox.moe/bwmlik.mp4 New  1/4/24
 https://files.catbox.moe/kuqwq1.mp4 New  1/4/24
 >Al Qassam releases a message : Warning! to the families of IDF hostages
 https://files.catbox.moe/0cu3vy.mp4 New  1/5/24
+>Hamas destroying Iof tanks 
+https://files.catbox.moe/dh1fuv.mp4 New  1/6/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1037,7 +1039,8 @@ Hezbollah Video's
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
 >Hezbollah toast's Idf conscripts with atgm missile 
 https://files.catbox.moe/tbhwi0.mp4  1/4/24
-
+Hezbollah published a video showing their attack that targeted the Meron Air Surveillance base of the israeli army
+>https://files.catbox.moe/qeni61.mp4 New  1/6/24
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1055,6 +1058,8 @@ https://files.catbox.moe/he2qsv.mp4 New  1/4/24
 https://files.catbox.moe/jjqqwx.mp4 New  1/4/24
 >Al-Quds Brigades (PIJ) published a video showing scenes of their forces targeting a number of military vehicles
 https://files.catbox.moe/y3r1nk.mp4 New  1/5/24
+>Saraya Al-Quds (PIJ) published a video showing scenes from their mortar launches crushing military concentrations
+https://files.catbox.moe/45wkff.mp4 New  1/6/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1067,7 +1072,8 @@ AnsarAllah Videos
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 New Islamic Resistance Iraq
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+> WATCH: Islamic Resistance in Iraq published a video showing their drone attack from yesterday, that targeted the Al-Harir US base, in Erbil, northern Iraq.
+https://files.catbox.moe/zcsm6a.mp4  1/6/24
 
 
 
@@ -1107,3 +1113,15 @@ https://files.catbox.moe/pbpsxa.mp4 New  1/5/24
 https://files.catbox.moe/sepqje.mp4 New  1/5/24
 >Israeli forces fill water springs and agricultural lands in Hebron with concrete
 https://youtu.be/QZkSRlIs9o0 New  1/5/24
+>Hezbollah published infographics showing IOF losses due to Hezbollah attacks.
+https://files.catbox.moe/rj1ion.jpg  1/6/24 English
+https://files.catbox.moe/kymqk9.jpg  1/6/24 Arabic 
+>Israeli warplanes use of white phosphorus and on residential areas in Al-Khayaam village, Lebanon.
+https://files.catbox.moe/osaes5.mp4  1/6/24
+>Residents filming the white phosphorus fired at their neighborhood.
+https://files.catbox.moe/34uftx.mp4  1/6/24
+>Lebanon : Bomb drops near citizens after they gather in the area where another bomb had just dropped
+https://files.catbox.moe/4gclj7.mp4  1/6/24
+>Additional footage of the israeli Meron intelligence base after it was targeted with 62 rockets by Hezbollah, 
+Damage looks pretty severe.
+https://files.catbox.moe/zmlv6a.mp4  1/6/24

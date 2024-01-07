@@ -3,6 +3,7 @@
 
 !!! info  NEWS:
 	- a7 is out now 
+	- LS_Kerberos 1.1 is out
 	- ZSNR noise scheduler added to dev branch but it has issues with karras and working under 30 steps
 
 [TOC2]
@@ -82,7 +83,7 @@ Auto1111 | ComfyUI&nbsp;&nbsp;
 ### You don't want to use the method above?
 
 **EPS versions**
-[**LS_Kerberos model**](https://huggingface.co/latent-space-dreams/LS_Kerberos/blob/main/LS_Kerberos.safetensors)
+[**LS_Kerberos model**](https://huggingface.co/latent-space-dreams/LS_Kerberos/blob/main/LS_Kerberos_v1_1.safetensors)
 >A mix of EasyFluff, HLL, and LS Vividus.
 - It's all baked in so you can skip the above steps
 - Has some issues with hands unless specified

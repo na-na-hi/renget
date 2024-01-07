@@ -4,19 +4,24 @@
 !!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
 
 !!!danger Upcoming break announcement
-    /ope/ will temporarily merge with /wawa/ in the near future for the duration of Nerissa's and Kiara's joint Maldives trip. The likely merge point is sometime during the weekend of Jan 6-7, when Nerissa's and Kiara's first collab is expected.
+    /ope/ will temporarily merge with /wawa/ in the near future for the duration of Nerissa's and Kiara's joint Maldives trip. The likely merge point is sometime during the weekend of Jan 6-7, when Nerissa's and Kiara's first collab is expected. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 214th time, what is Ope?!
+For the 215th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
+\>New merch
+Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
+hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
+
 \>Streams
-Next appearance: TBA, likely on Kiara's channel
-Last appearance (New Year outfits Advent collab on FWMC channel)
-https://www.youtube.com/watch?v=1qdzoTjz_JE
-Previous stream (New Year outfit reveal)
+Next appearance: TBA, presumably on Kiara's channel
+▼ Previous appearances
+Go Vacation! offcollab with Kiara, on Kiara's channel: https://www.youtube.com/watch?v=dxGzb807obQ
+New Year outfits Advent collab on FWMC channel: https://www.youtube.com/watch?v=1qdzoTjz_JE
+▼ Previous stream (New Year outfit reveal)
 https://www.youtube.com/watch?v=vyvA71ABpRo
 
 
@@ -32,16 +37,12 @@ https://rentry.org/karaokes_songs_v01
 Cover playlist
 https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM
 
-\>Nerissa's hololive New Year's Holiday Date Voice Packs
-~Closing Off 2023~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492
-~Welcoming 2024~ https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228
-
 \>Useful Links
 YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>65988422
+Previous thread: >>66097712
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

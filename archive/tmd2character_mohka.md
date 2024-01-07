@@ -80,7 +80,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Big Apple | Gives +4 to any outside-combat-action.
-2. Refined Pearl (x3) | Three refined, misshapen pearls. They may be worth something. (15,14,20)
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
