@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-05==
+# /aicg/ chronicles, up to ==2024-01-07==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -24,7 +24,9 @@ When | Where | What
 ###### October 2022
 When | Where | What
 -|-|-
+2022-10-07|[614349140](https://arch.b4k.co/v/thread/614349140/#614349140)| first (?) proto-/aicg/ thread
 2022-10-07|TBD| c\.ai gets filtered under the guise of maintenance
+2022-10-09|[51502816](https://desuarchive.org/trash/thread/51499714/#51502816)| c\.ai devs confirm that NSFW is not allowed
 
 ***
 ###### November 2022
@@ -276,7 +278,7 @@ When | Where | What
 2023-07-02|[#116](https://github.com/agnaistic/agnai/pull/116)| Agnai gets Events & Scenario system
 2023-07-02|[94403754](https://desuarchive.org/g/thread/94403205#94403754)| CharacterHub gets review reporting feature
 2023-07-02|[94423149](https://desuarchive.org/g/thread/94421251#94423149)| sagarpg\.io updated
-2023-07-05|[94482754](https://desuarchive.org/g/thread/94481049#94482754)| CharacterHub leaks some data (the post is not the actual Lore anon *!N7JZ5twwOs* but a falseflag)
+2023-07-05|[94482754](https://desuarchive.org/g/thread/94481049#94482754)| CharacterHub leaks some data (*!N7JZ5twwOs*)
 2023-07-05|[94483847](https://desuarchive.org/g/thread/94483264#94483847)| OAI announces the future llm sanitizing pipeline
 2023-07-05|[94484429](https://desuarchive.org/g/thread/94483264#94484429)| janitorai\.com announces the dates of own llm launch
 2023-07-06|[94492602](https://desuarchive.org/g/thread/94492378#94492602)| and yet another - the state of /aicg/
@@ -314,7 +316,7 @@ When | Where | What
 2023-07-16|[94728408](https://desuarchive.org/g/thread/94727319#94728408)| anon shows his Silly extension for CYOA
 2023-07-16|[94730121](https://desuarchive.org/g/thread/94729778#94730121)| CharacterHub carpet blocking users due to assumed DDOS
 2023-07-16|[94730860](https://desuarchive.org/g/thread/94729778#94730860)| anon teases his own custom frontend with special prompting
-2023-07-16|[94732973](https://desuarchive.org/g/thread/94729778#94732973)| anon reports about his CharacterHub mirror\archive; later his scraping is possibly prevented
+2023-07-16|[94732973](https://desuarchive.org/g/thread/94729778#94732973)| anon reports about his CharacterHub mirror/archive; later his scraping is possibly prevented
 2023-07-16|[1689532522388](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$BYP4a7rZIef0k_HdThcFOhTJf2nPHZ0sSEn1wuCgOOc?via=halogen.city&via=matrix.org&via=midov.pl)| 500+ t/s with 7B on a single 3090 reported by pygdevs thanks to their own backend "Aphrodite-engine"
 2023-07-17|[94744759](https://desuarchive.org/g/thread/94743831#94744759)| anon with a phone Mikugg alternative reappears, reports progress as MikuForbinDev *!!6YR+2lc/VX6*
 2023-07-17|[94745071](https://desuarchive.org/g/thread/94743831#94745071)| archived character cards from CharacterHub are taken down by mega\.nz
@@ -380,7 +382,7 @@ When | Where | What
 2023-08-01|[95084216](https://desuarchive.org/g/thread/95082441#95084216)| chat\.nbox\.ai noticed as a source of free GPT4
 2023-08-02|[95105867](https://desuarchive.org/g/thread/95105099#95105867)| Openrouter confirms that Anthropic threatens to revoke access to Claude unless moderation is applied
 2023-08-02|[95108099](https://desuarchive.org/g/thread/95105099#95108099)| anon figures out a way to learn what email owns an OAI key
-2023-08-02|[95107845](https://desuarchive.org/g/thread/95107848#95107845)| back to "the filter is loose" era thanks to Openrouter\Anthropic (?)
+2023-08-02|[95107845](https://desuarchive.org/g/thread/95107848#95107845)| back to "the filter is loose" era thanks to Openrouter/Anthropic (?)
 2023-08-02|[95118030](https://desuarchive.org/g/thread/95117716#95118030)| chat\.nbox\.ai to Tavern adapter
 2023-08-02|[95117587](https://desuarchive.org/g/thread/95113124#95117587)| /lmg/ celebrates opensourcing of AudioCraft, the generative AI for audio by Meta
 2023-08-02|[95120025](https://desuarchive.org/g/thread/95113124#95120025)| MikuForbinDev announces beta test, invites anons; talks about open source but puts it off
@@ -916,7 +918,12 @@ When | Where | What
 2024-01-05|[98265649](https://desuarchive.org/g/thread/98264460#98265649)| news article about boyfriend\.myanima\.ai shared, both laughed at
 2024-01-05|[98267419](https://desuarchive.org/g/thread/98266974#98267419)| anon provides an example of the clever use of Claude for language learning
 2024-01-05|[98267211](https://desuarchive.org/g/thread/98266974/#98267211)| heavy /aicg/ spam wave purged
-2024-01-05|[98269517](https://boards.4chan.org/g/thread/98266974#98269517)| paid haven-chat\.com shilled by the dev, justifiably ignored
+2024-01-05|[98269517](https://desuarchive.org/g/thread/98266974#98269517)| paid haven-chat\.com shilled by the dev, justifiably ignored
+2024-01-06|[98277103](https://desuarchive.org/g/thread/98274848#98277103)| OAI GPT Store launching next week
+2024-01-06|[98277246](https://desuarchive.org/g/thread/98274848#98277246)| suspicious DALL-E 3 online UI shared, considered IP logger and keylogger
+2024-01-06|[98285801](https://desuarchive.org/g/thread/98283543#98285801)| "alt frontend developing" anon considers multi-user chat interesting, but excessive
+2024-01-06|[98288233](https://desuarchive.org/g/thread/98286012/#98288233)| CharacterHub resets bio in user profiles
+2024-01-07|[98296681](https://desuarchive.org/g/thread/98295018#98296681)| anon from the future brings up chat-instruct finetunes
 -|-|-
 
 [](you have found my secret stash of nothing!)

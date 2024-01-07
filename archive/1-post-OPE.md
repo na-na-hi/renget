@@ -3,12 +3,12 @@
 !!!info Always announce when you're making the next thread so we're avoiding doubles. Announce it in the middle of page 10.
 !!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
 
-!!!danger Upcoming break announcement
-    /ope/ will temporarily merge with /wawa/ in the near future for the duration of Nerissa's and Kiara's joint Maldives trip. The likely merge point is sometime during the weekend of Jan 6-7, when Nerissa's and Kiara's first collab is expected. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
+!!!danger Temporary merge announcement
+    If a dedicated /ope/ thread isn't up consider using the merge thread that is being produced for the duration of Nerissa's and Kiara's joint Maldives trip. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 215th time, what is Ope?!
+For the 216th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -42,7 +42,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>66097712
+Previous thread: >>66157181
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

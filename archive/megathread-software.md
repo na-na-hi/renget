@@ -33,6 +33,10 @@
 - Hundreds of brand-new, After Effects and Premiere Pro templates, including sound effects are available.
 - [URL Safety Results](https://www.urlvoid.com/scan/aedownload.com/)
 
+### 🔗 [AERIVER](https://aeriver.com/)
+- Freely download an array of creative materials for all your video motion graphics needs.
+- [URL Safety Results](https://www.urlvoid.com/scan/aeriver.com/)
+
 ### 🔗 [ALLPCWorld](https://allpcworld.com/)
 - Download the newest software with only one click and quick installation.
 - [URL Safety Results](https://www.urlvoid.com/scan/allpcworld.com/)
@@ -49,7 +53,7 @@
 - Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/diakov.net/)
 
-### 🔗 [Download Pirate](https://www.downloadpirate.com/)
+### 🐐 [Download Pirate](https://www.downloadpirate.com/)
 - Tonne of goods including LUTS, textures, sound effects, video editing + plugins, motion graphics, and even more.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadpirate.com/)
 
@@ -69,6 +73,14 @@
 - Focusing on resources from a variety of programs for 3D modeling, animation, motion graphics, video editing, and texturing.
 - [URL Safety Results](https://www.urlvoid.com/scan/gfxdomain.co/)
 
+### 🔗 [HunterAE](https://hunterae.com/)
+- Download various resources, including After Effects, Premiere Pro and Apple Motion, at an incredible speed.
+- [URL Safety Results](https://www.urlvoid.com/scan/hunterae.com/)
+
+### 🔗 [INTRO HD](https://intro-hd.net/)
+- Big collection of free After Effects, Premiere Pro templates, and many more creative resources.
+- [URL Safety Results](https://www.urlvoid.com/scan/intro-hd.net/)
+
 ### 🐐 [LRepacks](https://lrepacks.net/) • Russian UI
 - Numerous portable applications and utilities that are well-liked by users for more than ten years.
 - [URL Safety Results](https://www.urlvoid.com/scan/lrepacks.net/)
@@ -76,6 +88,10 @@
 ### 🔗 [MaGeSY](https://www.magesy.blog/)
 - DAWs, sample libraries, VST plugins, multitracks, and other music production software are all heavily emphasized.
 - [URL Safety Results](https://www.urlvoid.com/scan/magesy.blog/)
+
+### 🔗 [MATESFX](https://freevideoeffect.com/)
+- Empowering video editors with premium resources for Adobe Premiere Pro, After Effects, Final Cut Pro, and more.
+- [URL Safety Results](https://www.urlvoid.com/scan/freevideoeffect.com/)
 
 ### 🔗 [MicroTech](https://programs.themicrotech.net/)
 - Aims to simplify access to the files for the most recent versions while continuously improving and staying current with technology.
@@ -110,8 +126,12 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)
 
 ### 🔗 [soft98](https://soft98.ir/) • Persian UI
-- Sstreamlining file accessibility for the latest iterations, all while consistently enhancing and keeping up with technological advancements.
+- Sstreamlining file accessibility for the latest iterations, all while consistently keeping up with technological advancements.
 - [URL Safety Results](https://www.urlvoid.com/scan/soft98.ir/)
+
+### 🔗 [Vfxmed](https://www.vfxmed.com/)
+- Find everything you need for your VFX ventures. From Photoshop to After Effects, 3Ds Max to FumeFX, and beyond!
+- [URL Safety Results](https://www.urlvoid.com/scan/vfxmed.com/)
 
 &nbsp;
 
