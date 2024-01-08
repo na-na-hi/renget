@@ -339,9 +339,9 @@ The first thing you want to do is join a club. The second thing is borrowing the
 Read up on what the boss does and how to tackle it with [the raid guide.](https://docs.google.com/document/u/0/d/1bvYGwIh-9o-2JQ4Q2MQXtsL0peiCPrRuw0l3HQmTrZ0)
 Alternatively look up some clears or guides on YouTube. E.g. "Blue Archive Binah Guide". The [/bag/ banner guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) also has a "cope" section for some raids. 
 
-Up to HC you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
-Don't try EX without a mock battle if ur below the recommended level.
-You can do EX at level 70, INS at level 80, and Torment after 2 years of playing. 
+Up to Hardcore you can borrow someone's hypercarry who can beat the raid by herself, just build a decent supporting team around her.
+Don't try Extreme without a mock battle if ur below the recommended level.
+You can do Extreme at level 70, Insane at level 80, and Torment after 2 years of playing. This holds generally true for most raids. 
 
 If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over. My advice is 15-20 minutes before the ticket ends .
 

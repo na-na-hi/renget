@@ -460,7 +460,7 @@ The announcement of the next installment in the series, Wilds, brings forth a ne
 ---
 
 #### ***%maroon%/Advanced: Monster Hunter!/'s Short Greentexts%%***
-##### ***Thread [1-150](https://rentry.org/iftod) | [151 - 259](https://rentry.org/sfbf5/) |  [260 - current](https://rentry.org/2f8so)***
+##### ***Thread [1-151](https://rentry.org/iftod) | [151 - 258](https://rentry.org/sfbf5/) |  [258 - current](https://rentry.org/2f8so)***
 
 An ongoing collection of various shorts posted throughout the general's history.
 

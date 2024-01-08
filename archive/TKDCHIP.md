@@ -1031,6 +1031,8 @@ https://files.catbox.moe/kuqwq1.mp4 New  1/4/24
 https://files.catbox.moe/0cu3vy.mp4 New  1/5/24
 >Hamas destroying Iof tanks 
 https://files.catbox.moe/dh1fuv.mp4 New  1/6/24
+>Al-Qassam (Hamas) published scenes showing the destruction of a troop carrier APC
+the central Gaza Strip.https://files.catbox.moe/tgy1c2.mp4 New  1/7/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1125,3 +1127,11 @@ https://files.catbox.moe/4gclj7.mp4  1/6/24
 >Additional footage of the israeli Meron intelligence base after it was targeted with 62 rockets by Hezbollah, 
 Damage looks pretty severe.
 https://files.catbox.moe/zmlv6a.mp4  1/6/24
+>The video of the ambush conducted in Jenin by Saraya Al-Quds - Jenin Batallion was posted with the following statement:
+https://files.catbox.moe/q3re7s.mp4 New  1/7/24
+>Scenes published by the Islamic Resistance in Iraq of the long-range cruise missile "Upgraded Khorramshahr" towards occupied Haifa.
+https://files.catbox.moe/k1sjaa.mp4 New  1/7/24
+The Mujahideen Brigades publishes: Scenes from the process of monitoring an #Israeli force holed up inside a house 
+https://files.catbox.moe/801u0a.mp4 New   1/7/24
+The IRGC naval base is located between the towns of Shib Derazto, to the south-west, and Messen, to the north-east.
+https://files.catbox.moe/zr3nda.mp4 New  1/7/24

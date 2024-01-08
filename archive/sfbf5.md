@@ -1,7 +1,7 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 2)***
 
 ---
-## ***Threads: [[1-150]](https://rentry.co/iftod/) | [151 - 259] | [[260 - current]](https://rentry.org/2f8so/) ***
+## ***Threads: [[1-151]](https://rentry.co/iftod/) | [151 - 258] | [[258 - current]](https://rentry.org/2f8so/) ***
 
 ---
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
@@ -26,7 +26,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 >\>You thought having both a normal Anja and a Fulgur would cause friction.
 >\>You were right, but for all the wrong reasons.
 
-\>The solid, meaty clap of Anjanath flanks colliding with each other nearly makes your ears pop.
+%darkgreen%\>The solid, meaty clap of Anjanath flanks colliding with each other nearly makes your ears pop.
 \>You know your girls well enough to know that they've been planning this for a while now.
 \>Usually, they wouldn't be coordinated or agreeable enough to pull off any schemes.
 \>The brute wyverns are much too territorial and competitive.
@@ -40,14 +40,14 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 \>You could try to run, but you wouldn't get far, and the chase would only excite them.
 \>You swallow the lump in your throat and clutch your Kinship Stone.
 \>You remember the words of your companion.
-\>"Ride on, buddy!"
+\>"Ride on, buddy!"%%
 
 ---
 ###*Astalos*
 
 =============================================
 
-\>Staring into those glowing eyes while you're perched on top of him, feeling the muscles lining his slit flex as that exotic shaft everts itself,
+%darkgreen%\>Staring into those glowing eyes while you're perched on top of him, feeling the muscles lining his slit flex as that exotic shaft everts itself,
 \>sliding out hot and dripping against your stomach, just begging to be touched by hands, lips, tongue and anything else
 \>that spread cloaca tightening as you plunge into it, contracting and squeezing around you the more aroused he gets
 \>the faint heartbeat felt through his dick and insides becomes a pulsed current spreading through yours, soon forcing you to throb in time with him
@@ -84,7 +84,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 \>you shiver between his armored legs while your senses slowly return, your heart just now sorting out its normal rhythm after being caught between two near-fibrillating ends of the circuit
 \>your partner pulls his jaws from yours and rolls onto his side, holding you against his chest with a less-spiky part of his wing arm
 \>translucent wing membranes grant you a multi-faceted view through them, enough to see his head resting on the ground just outside, one red eye still fixed on you
-\>neither of you bother to break the coupling. Right now the only thing that sounds better than being taken by an Astalos, is falling asleep with him still hilted inside you 
+\>neither of you bother to break the coupling. Right now the only thing that sounds better than being taken by an Astalos, is falling asleep with him still hilted inside you%%
 
 =============================================
 
@@ -92,7 +92,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 >If your answer was "get a broom and drive him off with it", I hope you're prepared to do battle with that fancy new lightning crest of his.
 >>I've fought enough EX Boltreavers to know I'd be better off trying to make a friend than a foe. The only times you should fuck with THE BEST is in bed.
 
-\>Okay, this is your life now
+%darkgreen%\>Okay, this is your life now
 \>There's a bug flailing about your front yard juiced up on most of the town's power grid
 \>You're standing there dumbstruck
 \>And there's only so long until a blackout could turn into the destruction of multiple neighbourhoods
@@ -116,7 +116,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 \>Both of you completely spent, the Boltreaver carefully rests himself down next to you and coils around your bed, draping a wing over you
 \>Crisis adverted
 \>Boyfriend obtained 
-\>Quest complete
+\>Quest complete%%
 
 
 ---
@@ -146,14 +146,14 @@ Brachy so lonely now....
 
 =============================================
 
-\>be in a relationship with a Cham girl
+%darkgreen%\>be in a relationship with a Cham girl
 \>being around her for so long has made you wise to her attempts to jokingly zap items out of your inventory with her tongue
 \>she's had to get increasingly creative with it, lest her tongue get snatched mid-attempt by your quick hand
 \>such as coming at you with it from one angle, only to whip-curve it at the last second and snatch something from you from behind
 \>or rapid-firing tongue attacks in an attempt to overwhelm you
-\>or slowly creeping it under the bedsheets (you don't have an inventory while you sleep so you assume she's trying to steal your underwear off you)
+\>or slowly creeping it under the bedsheets (you don't have an inventory while you sleep so you assume she's trying to steal your underwear off you)%%
 
-\>after she took your last ancient potion, you've decided you've finally had enough
+%darkgreen%\>after she took your last ancient potion, you've decided you've finally had enough
 \>you ask the Kamura chef to make you the spiciest dango possible and against their better judgement, they prepare you a skewer to go
 \>the smell alone is enough to singe your nose but you carefully remove them from the skewer and place them at the top of your pack, making sure that they'll be the first to be grabbed.
 \>after you embark, you act like you're digging around in the item box. making it obvious that you're stocking up and knowing full well that thats the kind of thing that excites her kleptomania the most.
@@ -163,47 +163,47 @@ Brachy so lonely now....
 \>you're practically doubling over with how hard you're laughing, finally happy that you got your sweet revenge on that pilfering pest
 \>but as your regaining your composure you see a huge purple blur charge at you, flattening and trampling you as she waddles right over you to get to the nearest pond and shoves her whole head in for some much needed relief
 \>the cats come to scrape you off the ground and you both pay a much needed visit to the village doctor, they give you a stern look of disapproval of your shenanigans as you try to give a thumbs up in a full body cast, and the chammy lass staring dragonators at you with an ice pack on her tongue. 
-\>you think that'll finally put an end to her stealing spree but as you reach to drink a potion its swiped right out of your hand by a pink blur, she gives you a look that tells you're going to have to watch your back even more from now on.
+\>you think that'll finally put an end to her stealing spree but as you reach to drink a potion its swiped right out of your hand by a pink blur, she gives you a look that tells you're going to have to watch your back even more from now on.%%
 
 =============================================
 
-\>be Cham
+%darkgreen%\>be Cham
 \>plan an epic prank that'll make anon rule the day that he messed with you
 \>go to his item box and steal ALL of the healing items he has
 \>know the fact he doesn't look twice he takes out his item sets
 \>snicker in the shadows of his house as he leaves
 \>imagine him getting carted again and again wondering where his potions have gone
-\>wait at the side the entrance door to smack him upside the head where he'll prepare another spiel about messing with his stuff
+\>wait at the side the entrance door to smack him upside the head where he'll prepare another spiel about messing with his stuff%%
 
-\>6 Hours later
+%darkgreen%\>6 Hours later
 \>he hasn't come back yet
 \>ah well probably just decided to finish the hunt without items 
-\>prideful little hunter and all that
+\>prideful little hunter and all that%%
 
-\>Day 2
+%darkgreen%\>Day 2
 \>anon still hasn't come home yet
 \>his palico helper didn't even notice he was gone
 \>you shouldn't be worried 
 \>he is probably just sleeping outside on his little tent in the forest
-\>yeah that's a good explanation
+\>yeah that's a good explanation%%
 
-\>Day 3
+%darkgreen%\>Day 3
 \>nope he is still gone
 \>you're starting to get worried
 \>you planned on going outside looking for him
 \>but the idea of him waiting outside to see you panicked as a gargwa hurt your pride as an elder dragon
-\>plus its not the first time you slept under anon's house
+\>plus its not the first time you slept under anon's house%%
 
-\>Day 4
+%darkgreen%\>Day 4
 \>no sounds of your name being called
 \>no pitter patter of his steps coming from the stone floor of his home
 \>you really wanted to go out and find him
 \>but you didn't want to let go of the fleeting hope of pranking him one more time
 \>the mattress you've been sleeping on still smelt like him
 \>you held it close to you and never let go
-\>your eyes never left the door entrance the entire day
+\>your eyes never left the door entrance the entire day%%
 
-\>Day 7
+%darkgreen%\>Day 7
 \>you had the idea of making a 'welcome back' sign for anon
 \>the palico helper would've ruined your surprise so you kicked them out of the house
 \>no matter how many times he tried to warn the villagers, you always turned invisible, relishing his frustration
@@ -214,10 +214,10 @@ Brachy so lonely now....
 \>there we go
 \>now you can imagine anon's face turning red as he chases you around
 \>the smell of the mattress enforces the idea of him being all sweaty
-\>you hold it tighter this time, pretending to catch him off guard and securely bury him under your weight 
+\>you hold it tighter this time, pretending to catch him off guard and securely bury him under your weight%%
 
 Day 11
-\>the mattress was starting to lose anon's smell
+%darkgreen%\>the mattress was starting to lose anon's smell
 \>but that didn't make sense since you didn't wash it
 \>you decided to draw your attention away from the growing problem
 \>taking a look at anon's shelf you see various wooden objects
@@ -230,10 +230,10 @@ Day 11
 \>even laying them on the side like you are doing now
 \>the sight of smaller anon under small you comforted you a bit
 \>you copied the same exact pose as you turn in for the night
-\>the smell of the mattress up against your face at least helped you sleep
+\>the smell of the mattress up against your face at least helped you sleep%%
 
 Day 15
-\>where is it?!
+%darkgreen%\>where is it?!
 \>wheres your cuddle buddy?!
 \>you practically turned anon's house upside down looking for the mattress
 \>wait a minute why do you even cling on to that thing
@@ -246,10 +246,10 @@ Day 15
 \>you then hear some chatter outside of the house
 \>shit they must've heard the racket you made
 \>you turn invisible hoping they would ignore it and continue on with their business
-\>but then you see the light from the entrance door getting cut out
+\>but then you see the light from the entrance door getting cut out%%
 
 Day 15 Part 2
-\>no no No NO!
+%darkgreen%\>no no No NO!
 \>your tongue shoots desperately to scare some of the villagers pushing the rock
 \>but you only hit a hard wall instead
 \>you tried to claw your way out of but it was no use
@@ -267,10 +267,10 @@ Day 15 Part 2
 \>ANON IS NOT HERE ANYMORE!
 \>...
 \>...
-\>he's not?
+\>he's not?%%
 
 Day 20
-\>your body hasn't moved from the spot
+%darkgreen%\>your body hasn't moved from the spot
 \>the windows of the room were slowly being blocked out by a blanket
 \>it was cold, damp, and lonely
 \>just like you
@@ -345,9 +345,9 @@ Day 20
 \>I don't deserve him
 \>I don't deserve-
 \>"What in Gog's name are you guys doing at my house?!"
-\>anon?
+\>anon?%%
 
-\>be anon
+%darkgreen%\>be anon
 \>standing in front of whatever the fuck the village is doing right now
 \>two large dragonators precariously aimed at the sides of your house were hooked up to the water wheel
 \>"Hunter! Thank goodness you've arrived!"
@@ -375,9 +375,9 @@ Day 20
 \>first things first, calm down your crying girlfriend then explain it later
 "Hey chammy I manage to snag some of your favorite bugs-"
 \>she rudely swatted away the bag you held before digging her face close to your neck
-\>oh shit oh fuck you could feel both dry and fresh snot coming from her nostrils 
+\>oh shit oh fuck you could feel both dry and fresh snot coming from her nostrils %%
 
-\>anon be you
+%darkgreen%\>anon be you
 \>the past several days were a whirlwind of events between you and chammy
 \>it wasn't hard legalizing her stay in Kamura
 \>you finally put the "Kamura village Leader" title to good use
@@ -407,13 +407,13 @@ Day 20
 \>you stop your reminiscing and look towards your new hunting partner
 \>her tongue experimentally lashes out in the air before she looks at you with a smile
 \>nodding towards her, you mount her back and she speeds down into the valley of the forest
-\>life is good
+\>life is good%%
 
-\>THE END
+%darkgreen%\>THE END%%
 
 =============================================
 
-\>no trickster hybrid Cham hunting partner who feels MORE exposed wearing clothing than when she isn't
+%darkgreen%\>no trickster hybrid Cham hunting partner who feels MORE exposed wearing clothing than when she isn't
 \>mainly because the clothes don't turn invisible with her when she does
 \>all she can tolerate are some simple undergarments for the sake of modesty in town
 \>but the moment the two of you are either in the privacy of your home, or out of sight of the town gates as you head into the wilds, they're quickly pulled off and tossed to the side
@@ -428,13 +428,13 @@ Day 20
 \>"Anti-theft?! Really?!"
 \>"Thought you'd like a challenge for once."
 \>that damned smirk comes back again, along with that crazed, feverish glint in her big rotating eyes that you know means it's go time for her
-\>"Ohhh, I get it. Playing hard to get, are we? You better hope that ancient potion's the ONLY thing I steal before the day's done."
+\>"Ohhh, I get it. Playing hard to get, are we? You better hope that ancient potion's the ONLY thing I steal before the day's done."%%
 
 
 >\>Cham wife can't ever stop being quirky and trying to pull pranks all the time, even during intimate moments
 >That sounds horrifying but also kinda fun in a weird way.
 
-\>come home after a long day of hunting only to get soaked by the old bucket of water prank
+%darkgreen%\>come home after a long day of hunting only to get soaked by the old bucket of water prank
 \>you couldn't be mad at her since she was literally rolling on the floor laughing after seeing your face
 \>help with making dinner, only to have every wooden spoon, pair of tongs, and hot pad zapped out of your hand by her tongue while she plays dumb with barely repressed snickering
 \>getting a little annoying but you still manage to crack a smile and finish some well-done steaks for both of you
@@ -447,10 +447,10 @@ Day 20
 \>THAT sent you for a loop, and you manage to sputter out how the hell that happened since you were wearing protection
 \>a truly massive grin spreads across her face and she hunches up with uproarious laughter
 \>"HAH! GOTCHA! I stole your condom with that tonguejob and you didn't even notice! Now your going to be a dad! Isn't that HILARIOUS?!"
-\>you're at an absolute loss for words
+\>you're at an absolute loss for words%%
 That Cham, what a lovable goof!
 
-\>When the big day comes you're huddled together with your Cham wife in anticipation for the eggs to hatch
+%darkgreen%\>When the big day comes you're huddled together with your Cham wife in anticipation for the eggs to hatch
 \>The first egg start cracking, with the other ones following soon after
 \>Both of your faces light up in anticipation
 \>The eggs all break in unison and...
@@ -460,7 +460,7 @@ That Cham, what a lovable goof!
 \>The strong feeling along with the sounds of your wife laughing harder than you've ever heard make you ignore the sudden heaviness and ticklish feeling all over your body
 \>All of a sudden, a small dangling tongue makes contact with your face and makes you snap out of it, making you notice the diminute Chameleos that's nested on the top of your head, along with all of it's siblings climbing all over your body
 \>The feeling of shock and disappointment turns into one of happiness and relief as you see all of your children joyfully climbing all over you
-\>...before turning into a feeling of pure dread once you realize you'll have to deal with the pranks from all of your children on top of having to deal with the ones from your wife.
+\>...before turning into a feeling of pure dread once you realize you'll have to deal with the pranks from all of your children on top of having to deal with the ones from your wife.%%
 
 ---
 ###*Dalamadur*
@@ -469,7 +469,8 @@ That Cham, what a lovable goof!
 
 >\>Teen [Dalamadur] has been acting out and refuses to meet your gaze as you speak
 >\>Takes half an hour just for you to climb up to their eyeball so you can look them in the eye
-\>you thank whoever is listening that all those years of climbing vines and cliffs has finally paid off
+
+%darkgreen%\>you thank whoever is listening that all those years of climbing vines and cliffs has finally paid off
 \>you park yourself on top of their head and try not to lose your balance as you peer down beyond the cloud cover
 \>its incredibly precarious up this high because if they were to throw you off it would spell certain doom
 \>but through sheer luck and being an actually decent parent you've somehow retained your authority
@@ -478,10 +479,7 @@ That Cham, what a lovable goof!
 \>you manage to sit down on their massive snout and explain to them through the thin high altitude air that no matter how big they get they'll always be your little ball of sunshine and you'll love them with all your heart
 \>with your relationship now repaired you feel yourself beaming with overwhelming parental pride. but you also realized you didn't have the foresight to figure out how you're going to get back to ground level again.
 \>they offer to carry you down in their mouth and seeing as you didnt bring a parachute you reluctantly accept
-\>you feel good that you've grown closer to your kid in ways that not many parents have, but you also think that they didnt have to deal with smelling like fish for the rest of the evening either.
-
-
-
+\>you feel good that you've grown closer to your kid in ways that not many parents have, but you also think that they didnt have to deal with smelling like fish for the rest of the evening either.%%
 
 ---
 ###*Diablos*
@@ -501,20 +499,20 @@ a dormant desire has arose...
 
 =============================================
 
-\>"So Hunter. i know we've had our differences, and we haven't always seen eye-to-eye, but i need to ask you for a favor"
-\>"i need someplace to lay low for a few days"
+%darkgreen%\>"So Hunter. i know we've had our differences, and we haven't always seen eye-to-eye, but i need to ask you for a favor"
+\>"i need someplace to lay low for a few days"%%
 [you can feel a small quake ripple through the ground past you
 \>"make that a few weeks.."](https://desu-usergeneratedcontent.xyz/trash/image/1681/24/1681248740197.jpg)
 "hmm, maybe. rent isn't cheap ya know and i don't know if a monster crashing at my place would be good for me financially"
-\>"i promise no digging, no boulder throwing and no tracking sand in the house, best behavior. please!"
-an aftershock rolls by and you can feel some sand move beneath you
+%darkgreen%\>"i promise no digging, no boulder throwing and no tracking sand in the house, best behavior. please!"
+\>an aftershock rolls by and you can feel some sand move beneath you%%
 "it's mating season for Black Diablos again isnt it?"
-\>"h-how about my Mantle! 100% drop rate! o-or one of my horns! you need those right!?"
+%darkgreen%\>"h-how about my Mantle! 100% drop rate! o-or one of my horns! you need those right!?"%%
 "you know the last time you let her go berserk like that we had to re-map that whole area as the sandpit sinkhole"
-\>"I barely made it out alive last time! it was a bloodbath!!"
-\>"please buddy I'm beggin' ya, I wanna to live to see the sun again ya see?!"
+%darkgreen%\>"I barely made it out alive last time! it was a bloodbath!!"
+\>"please buddy I'm beggin' ya, I wanna to live to see the sun again ya see?!"%%
 "fine, fine. you can stay for a while, but no shenanigans, and no inviting Shara Ishvalda over again either, it took me forever to fix the holes you guys made in the floor last time."
-\>"you're the best buddy a monster could ever ask for! I've already got my stuff, you'll see I'll be the best behaved monster you've ever seen!"
+%darkgreen%\>"you're the best buddy a monster could ever ask for! I've already got my stuff, you'll see I'll be the best behaved monster you've ever seen!"%%
 
 it later took you and a squad of palico over the course of several months to clean all the sand and loose gravel from your house.
 
@@ -525,7 +523,7 @@ it later took you and a squad of palico over the course of several months to cle
 
 **%red%{Transformation}%%**
 
-\>be a hunter
+%darkgreen%\>be a hunter
 \>took on the toughest challenge of all and defeated fatalis, protecting everyone from devastation once again
 \>get crowned a hero for it
 \>but being famous doesn't pay the bills, so I still gotta take on requests from time to time
@@ -553,7 +551,7 @@ it later took you and a squad of palico over the course of several months to cle
 \>"What is this? Some kind of joke—"
 \>notice the dragon's face syncing up with my mouth movements
 \>finally make the connection
-\>"Huh, that's odd. Anyways, you got any quests for me?"
+\>"Huh, that's odd. Anyways, you got any quests for me?"%%
 
 =============================================
 
@@ -561,7 +559,7 @@ it later took you and a squad of palico over the course of several months to cle
 >>\>ywn take the box and use the cardboard from it and many other boxes to built a to-scale replica of Castle Schrade for your tiny Fatty kid to claim as his own
 >>\>ywn play rousing games of "hunt" with them, "challenging" them using mini-figures of hunters to "battle"
 
-\>lil' Fatty loves their playtime in cardboard fort, its the best you've bonded in a long time
+%darkgreen%\>lil' Fatty loves their playtime in cardboard fort, its the best you've bonded in a long time
 \>but during one play session they accidentally prick themselves on the finger with the sharp lance hunter toy
 \>they get visibly upset and accidentally make a spark cloud with their flame breath
 \>it wasnt enough to hurt anyone but the whole cardboard fort ignites almost instantly
@@ -569,7 +567,7 @@ it later took you and a squad of palico over the course of several months to cle
 \>little fatty is obviously fine but is crying and sobbing about how sorry they are despite being covered in extinguisher foam and snot bubbles
 \>its such an infrequent thing that you're able forgive it almost instantly and you find that its a perfect time to teach them a lesson on how to be more careful in the future
 \>but now you're stuck building a new fort for them, and scrubbing the soot off the walls, and replacing the carpet, the extinguisher and some of the toys that got melted too..
-\>you think to yourself that maybe its time to move the fort to the backyard from now on, and maybe make it out of something fireproof too...
+\>you think to yourself that maybe its time to move the fort to the backyard from now on, and maybe make it out of something fireproof too...%%
 
 =============================================
 
@@ -603,7 +601,7 @@ However, you'll definitely lose most contact with human civilization and conside
 >>>\>"A-Ah Gore-chan! P-Please make it stop!"
 >>>\>She now gets periodic nosebleeds
 
-\>you've noticed that Gore has been acting very strange when you're around, stranger than usual and that's saying a bunch for someone of their species.
+%darkgreen%\>you've noticed that Gore has been acting very strange when you're around, stranger than usual and that's saying a bunch for someone of their species.
 \>frequent twitching, heavy breathing, tiny flecks of dried blood on their snout
 \>"Gore are you sure you're not sick? you've been acting strange lately and I'm getting worried."
 \>"I'm F-Fine Hunter *pant* Really..i am."
@@ -642,19 +640,19 @@ However, you'll definitely lose most contact with human civilization and conside
 \>Gore gives you a soft punch in the arm with one of their wingclaws
 \>"yeah, thanks for that. I'm glad i just got to tell you how i really feel"
 \>"okay but next time, try not to cover the whole forest in frenzy clouds again, okay?"
-\>"okay" they say "I'll do my best, for us."
+\>"okay" they say "I'll do my best, for us."%%
 
 =============================================
 
-\>the guild guide to monster mating recommends extra care when laying with Gore Magala
+%darkgreen%\>the guild guide to monster mating recommends extra care when laying with Gore Magala
 \>not because of the risk of Frenzy infection but because when a Gore's Scales are spread and they're in their "Sensing mode" they become hyper sensitive to all forms of stimuli, this means that things like differences in temperature and scent locating are greatly magnified to them, which can easily lead to cases of over-stimulation 
 \>however there are ways to help alleviate this as dictated in the next few pages, the guide recommends starting with gentle caressing at the head first, letting the Gore Magala get a clear picture and outline of you through their sensing scales will help them relax, beware that you should not grip the pulsing tips of the horns as this can lead to temporary sensory shock and paralysis, instead its recommended to gently massage the base of the horn while remaining in clear view, this combined with light pecs on the maw will signal that you're willing to mate with them.
 \>another area worth noting is the giant wing claws, which are actually more sensitive than they look, especially around the clawpads, its recommended that you guide their claws around you so they can explore your body and get a sense for your size, tapping on the base of the claws can also signal to them that its okay for them to handle you.
-\>lastly we can move onto the lower midsection, make sure to slowly rub your hands alongside your monster partners chest and hips so they know that its time to mate, let them take a comfortable position first and then after one lack approval check begin massaging their slit in a steady back and fourth motion. continue massaging until their sex organ starts to expose itself or the slit has become sufficiently moistened, you may begin insertion at this point. repeat thrusting at either end until climax. 
+\>lastly we can move onto the lower midsection, make sure to slowly rub your hands alongside your monster partners chest and hips so they know that its time to mate, let them take a comfortable position first and then after one lack approval check begin massaging their slit in a steady back and fourth motion. continue massaging until their sex organ starts to expose itself or the slit has become sufficiently moistened, you may begin insertion at this point. repeat thrusting at either end until climax.%%
 
-\>for Monster aftercare visit page 71 
+%darkgreen%\>for Monster aftercare visit page 71 
 \>for egg compatibility statistics visit page 13
-\>for Monster Hybrid guidelines refer to page 15
+\>for Monster Hybrid guidelines refer to page 15%%
 
 ---
 ###*Wind Serpent Ibushi*
@@ -664,7 +662,7 @@ However, you'll definitely lose most contact with human civilization and conside
 >\>[Ibushi's face after you explain what a metaphor is, and that you don't actually want to 'succ him to death'](https://desu-usergeneratedcontent.xyz/trash/image/1646/04/1646047099623.png)
 >You can almost see the excited fireworks going off in his head when he realizes that he gets to keep having sex without getting eaten after the first time.
 
-\>"Y-y-you mean it, Anon? You won't eat me??"
+%darkgreen%\>"Y-y-you mean it, Anon? You won't eat me??"
 \>"Wait, t-then, that means...we can have sex more than once?!"
 \>"Oh g-gosh, then, can...can we have sex twice? Or even...three times?"
 \>"AS MANY TIMES AS I WANT?!"
@@ -673,16 +671,16 @@ However, you'll definitely lose most contact with human civilization and conside
 \>"And, and, maybe we can try...holding claws during it?"
 \>"Oh, am I really blushing? I'm sorry, I've just never felt like this before. I thought I'd only get to shoot my shot once and that'd be it..."
 \>"Y-yeah, I'd actually really like to go again. You're really serious about not eating me, yeah?"
-\>"Then, one more thing...can I...maybe be on top this time?"
+\>"Then, one more thing...can I...maybe be on top this time?"%%
 
 ---
 ###*Izuchi*
 
 =============================================
 
-\>Dear Guildmaster
+%darkgreen%\>Dear Guildmaster%%
 
-\>I'm interrupting my field work to write this letter to express my displeasure at the recent decision to hold a poll to decide the "most suckable monster cock"
+%darkgreen%\>I'm interrupting my field work to write this letter to express my displeasure at the recent decision to hold a poll to decide the "most suckable monster cock"
 \>Last I checked we are an institution dedicated to the research of monsters, not a den of degenerate zoophiles
 \>However, I am understanding of the reality of the lives of the Hunters and Field Researchers who spend much of their lives alone in the wild, who might begin to feel a kinship with these creatures and perhaps even share a tender, taboo moment with them
 \>This is why I decided to participate as an intellectual exercise, but your decision to reject my nomination of the Izuchi was outrageous
@@ -695,13 +693,13 @@ However, you'll definitely lose most contact with human civilization and conside
 \>But you've discarded all of my logical points in favor of nominations for beasts such as Rathalos, or Glavenus, or Gore Magala
 \>I don't know what's supposed to be "suckable" about a penis that's the size of your leg, but if this poll is to take place in a fantasy land where we can all unhinge our jaws, so be it
 \>Yet, you rejected my updated nomination of Mizutsune because, quote, "it'd probably taste like fish"
-\>When I return from my current field study, I'll be transferring to another Guild Hall, where I won't have to tolerate this nonsense any longer
+\>When I return from my current field study, I'll be transferring to another Guild Hall, where I won't have to tolerate this nonsense any longer%%
 
-\>Sincerely, Exasperated Field Researcher 
+%darkgreen%\>Sincerely, Exasperated Field Researcher%%
 
 =============================================
 
-\>out on a expedition to the shrine ruins
+%darkgreen%\>out on a expedition to the shrine ruins
 \>notice a lone Izuchi out in the field 
 \>walk over and just pick them up
 \>after some confused wiggles trying to escape your grasp they settle down
@@ -711,14 +709,14 @@ However, you'll definitely lose most contact with human civilization and conside
 \>Great Izuchi runs into you knocking you to the ground
 \>he then lies next gently bumping his head into you clearly wanting his turn
 \>While giving the Great Izuchi the attention he demands he rest his head on your lap
-\>you're not leaving until the Alpha says so
+\>you're not leaving until the Alpha says so%%
 
 ---
 ###*Jaggi/Jaggia*
 
 =============================================
 
-\>accidentally get injured while traveling through a forest locale
+%darkgreen%\>accidentally get injured while traveling through a forest locale
 \>not a hunter so you don't have felyne cart insurance
 \>get rescued instead by a tribe of wild Jaggia hybrids
 \>barely a sentence's worth of spoken word between them but they seem nice enough
@@ -731,7 +729,7 @@ However, you'll definitely lose most contact with human civilization and conside
 \>she asks you to teach her some vocab as you continue to heal
 \>takes a while since you're no teacher, but eventually she starts to get the hang of it
 \>looks a bit sad one day, says that she doesn't want to see you go since you're almost healed
-\>lights up when you ask if she wants to come with and nods eagerly, her long leathery ears flopping humorously
+\>lights up when you ask if she wants to come with and nods eagerly, her long leathery ears flopping humorously%%
 
 ---
 ###*Kirin*
@@ -757,20 +755,20 @@ As you can see, the "capture" of a Kirin hardly involves actual capturing as suc
 >>Kulve, the CEO, is very successful at keeping the company afloat with her seemingly endless pockets. They can handle these dips in productivity every once in a while.
 >>The real threat is from their deviant acts getting leaked one way or another. Kulve had one too many incidents in the past, she can't afford another scandal.
 
-\>Kulve turns heads wherever she goes because of the extremely revealing bikinis that she insists on wearing to work 
+%darkgreen%\>Kulve turns heads wherever she goes because of the extremely revealing bikinis that she insists on wearing to work 
 \>often goes without anything else because she's extremely vain about her youthful appearance despite her age, and (dubiously) claims that the natural gold plating on her body often acts as clothing in of itself (plus she's the boss, who's going to stop her?)
 \>rich enough to afford an entire harem of manservants who attend to her every need and follow her around like a pack of leashed palamutes
 \>she's also tall for an anthro monster, tall enough that she practically towers over the other elder dragons that are supposedly "equal" to her on the scale, lending her a significant air of superiority
 \>rumor has it that she also has an extremely skilled Safi boytoy, the best money can buy, on speed dial who attends to her every OTHER need
 \>that doesn't stop her from taking what she wants if she likes what she sees - many a new hire has inadvertently caught her eye and ended up eventually joining the manservants
-\>basically the queen - in every sense of the word - of her own little kingdom
+\>basically the queen - in every sense of the word - of her own little kingdom%%
 I'd work for her. Would you?
 
 =============================================
 
 >I love this monster office worker setting~
 
-\>Fifth fleet company is a subsidiary to the First fleet company
+%darkgreen%\>Fifth fleet company is a subsidiary to the First fleet company
 \>They are normally a small operation instituted in the 10th floor of the New World building
 \>The Relationship Commision Conglomerate (formerly Research Commision) services monster human relationships with advice and guidelines from their experts
 \>Affiliate company /trash/ fleet would handle NSFW stuff passed on them from their parent company
@@ -784,7 +782,7 @@ I'd work for her. Would you?
 \>They are the newest branch which most comprises of security staff and no-nonsense ex-hunters that could handle their monstrous neighbors
 \>There has been a rumor going around that the entire business is just a front for the CEO of Goldhorn just to spy on the assistant manager of the First Fleet
 \>Evidence of this the mountains of secret cameras found on his office that he wasn't aware of
-\>And every time he clocks out, she coincidentally leaves with him to 'accidentally' bump into him
+\>And every time he clocks out, she coincidentally leaves with him to 'accidentally' bump into him%%
  
 =============================================
 
@@ -803,7 +801,7 @@ Realizing you're already way past first base and quickly heading straight for th
 
 =============================================
 
-\>be kulve taroth 
+%darkgreen%\>be kulve taroth 
 \>be the biggest, strongest, most magnetic, most pretty monster in all the lands
 \>have defeated, seduced, and disposed of countless hunters 
 \>one day only a single hunter enters lair
@@ -820,7 +818,7 @@ Realizing you're already way past first base and quickly heading straight for th
 \>later find out that he made a new set of armor out of the pieces of my coat!
 \>admittedly he looks sexy as fuck in it but this cannot stand!
 \>NO-ONE rejects the AMAZING and MAJESTIC Kulve Taroth!
-\>decide that as soon as my coat grows back I’m gonna find that sexy little shit and FUCK him into the ground until he LOVES ME
+\>decide that as soon as my coat grows back I’m gonna find that sexy little shit and FUCK him into the ground until he LOVES ME%%
 
 ---
 ###*Kushala Daora*
@@ -833,15 +831,15 @@ Realizing you're already way past first base and quickly heading straight for th
 >>\>Feels like jello that sinks between your fingers in contrast to her usual stiff scales as a whole
 >>\>Not having to worry to get crushed between iron walls when all you feel is her squishy, vulnerable flesh
 
-\>her molting doesn't happen often, but the two of you always look forward to it eagerly
+%darkgreen%\>her molting doesn't happen often, but the two of you always look forward to it eagerly
 \>when it does finally happen, all bets are off the moment she steps out of her now-scrapmetal hide
 \>the two of you fuck like absolute rabbits in the short window you have before her scales harden into their usual metallic sheen
 \>her entire body is like a shapely fleshlight, all for you to pleasure yourself with, and she eagerly obliges your every desire
 \>her own sensitivity is heightened to astronomical levels during this as well, and it's a simple matter for you to get her rocking and soaked through multiple orgasms of her own
 \>it's easily some of the most intense and pleasurable sex the two of you have due to her unusually soft plushness
-\>and after you're totally spent, she spends the rest of it gently kneading and massaging you between her thick, pillowy, slowly firming haunches
+\>and after you're totally spent, she spends the rest of it gently kneading and massaging you between her thick, pillowy, slowly firming haunches%%
 
-\>"Oh Gog, Anon, why didn't you tell me these sheets felt so good?!" your freshly molted Kushala wife exclaims, twisting and thrashing her "nude" form around on your gold-crown size bed
+%darkgreen%\>"Oh Gog, Anon, why didn't you tell me these sheets felt so good?!" your freshly molted Kushala wife exclaims, twisting and thrashing her "nude" form around on your gold-crown size bed
 \>"Freshly washed and warm out of the dryer, just for you, babe."
 \>"Oh...ohhhh...oh they feel so good...! I think...I think I'm gonna...gonna...aaaAAAAAHHHH!"
 \>she stops thrashing, the entire bed suddenly vibrating along with her shuddering bulk as she blows like a fire hydrant and soaks everything south of her nethers with elder femcum
@@ -853,12 +851,12 @@ Realizing you're already way past first base and quickly heading straight for th
 \>"What are you...AHH! AHHHHHHHHH!"
 \>she near-instantly explodes again, ensuring that the both sheets you just washed and the mattress are thoroughly soaked through and ruined now
 \>"Not just yet, I wanna see how far we can go with this..." you smugly retort to her twitching, panting, half-delirious form, her tongue hanging out of her mouth as she fights to stay conscious
-\>if only "capturing" monsters during work was this easy
+\>if only "capturing" monsters during work was this easy%%
 
-\>"Oh, Gog, fuck me that was amazing..." she moans out, slowly coming back to reality from being rocked into a comatose state by an orgasm equivalent to the pleasure felt by 1000 successful No Nut Novemberers on December 1st
+%darkgreen%\>"Oh, Gog, fuck me that was amazing..." she moans out, slowly coming back to reality from being rocked into a comatose state by an orgasm equivalent to the pleasure felt by 1000 successful No Nut Novemberers on December 1st
 \>"Babe, w-what are you doing?" she asks watching as you pull some kind of strange looking Gunlance with a rounded tip from the closet
 \>you smirk with raunchy excitement, starting the motor inside and feeling the whole thing buzz in your hands, the boys at the Smithy called it a "Vibra-lance"
-\>"What is thaaaaAAAAAAAAAHH!!?" she cums nearly instantaneously from just a touch, doubling over in ecstacy and ensuring your sheets will need a thorough washing
+\>"What is thaaaaAAAAAAAAAHH!!?" she cums nearly instantaneously from just a touch, doubling over in ecstacy and ensuring your sheets will need a thorough washing%%
 
 ---
 ###*Lagiacrus*
@@ -867,7 +865,7 @@ Realizing you're already way past first base and quickly heading straight for th
 
 **%red%{Vore}%%**
 
-\>(You), new hunter in Moga, accept the quest to deliver some Monster Guts to the village.
+%darkgreen%\>(You), new hunter in Moga, accept the quest to deliver some Monster Guts to the village.
 \>"Guts: It's What's for Dinner", ha, funny name.
 \>You reach Area 11 to kill your final Epioth.
 \>A big roar startles you. You look back and see a large Lagiacrus.
@@ -892,14 +890,14 @@ Realizing you're already way past first base and quickly heading straight for th
 \>When you look around, you notice a Lagiacrus curled up around you, sleeping.
 \>Did... did it save you from drowning?
 \>As you try to get up, the Lagiacrus grabs you with its claws and squeezes you against its body.
-\>It looks like you'll have to stay a little more time with it.
+\>It looks like you'll have to stay a little more time with it.%%
 
 ---
 ###*Lavasioth*
 
 =============================================
 
-\>It's 20XX
+%darkgreen%\>It's 20XX
 \>Years after monsters are now considered sapient creatures right after humans and wyverians
 \>Since it's technically now illegal to be a murder for hire expert, you are now forced to change careers
 \>Luckily there has been a booming market for hunters like you
@@ -917,7 +915,7 @@ Realizing you're already way past first base and quickly heading straight for th
 \>But her blushing face and bit lip assures you that you're making progress
 \>You order her to roll on her belly as you dip your hand in the cold bucket of water
 \>Raising your hand in the air like you're about to slap a longsword user, you smack your client's cheeks
-\>The wet smack and sizzling aftermath leaves her in tears, joyful tears
+\>The wet smack and sizzling aftermath leaves her in tears, joyful tears%%
 
 ---
 ###*Legiana*
@@ -931,7 +929,7 @@ Realizing you're already way past first base and quickly heading straight for th
 >>\>actually starts getting invested in the story
 >>\>starts fantasizing about herself and her favorite hunter in various roles in the story, like Meryl and Johnny
 
-\>be a hunter
+%darkgreen%\>be a hunter
 \>find yourself kidnapped and whisked away into some sort of platform near coral highlands
 \>get greeted by a peashooter-obsessed Tzitzi and a sunglass wearing Paolumu
 \>wear some sort of jumpsuit and harness gear that accentuate your ass and crotch
@@ -944,16 +942,16 @@ Realizing you're already way past first base and quickly heading straight for th
 \>the latest one has her giving you slow sensual licks at your face
 \>the other two are just as bad with the Tzitzi yaku kept hitting herself with the tiny bowguns she keeps showing off
 \>Paolumu would lecture you in monster speak before tripping on her crutches and having her ass pointed at you a few seconds too long
-\>you just want to go home and eat at grammeowster's
+\>you just want to go home and eat at grammeowster's%%
 
 =============================================
 
-\>"You realize you're well within my clutches in that position, don't you, hunter?"
+%darkgreen%\>"You realize you're well within my clutches in that position, don't you, hunter?"
 \>"I could easily kill you if I wanted - even freeze you to my powerful body to ensure you never leave - but I'm choosing not to because I like you."
 \>"Just keep in mind that you belong to me, and only me."
-\>"No, no, don't look at your Palico, or those Wulgs watching us. Keep your eyes only on me..."
+\>"No, no, don't look at your Palico, or those Wulgs watching us. Keep your eyes only on me..."%%
 
-\>"Yes... That's right."
+%darkgreen%\>"Yes... That's right."
 \>"Please your mistress. Give me a full clutch of eggs-"
 \>*CLICK*
 \>Legiana immediately looks up on who tf interrupted her night time fantasy and sees her sister at the door
@@ -970,13 +968,13 @@ Realizing you're already way past first base and quickly heading straight for th
 \>"NOOO!!!"
 \>"GET OFF THE BED!!!"
 \>"AAAAAAAAAAAAAAAAAAAAA"
-\>"AAAAAAAAAAAAAAAAAAAAAAAA"
+\>"AAAAAAAAAAAAAAAAAAAAAAAA"%%
 
 =============================================
 
 **%red%{Unbirth}%%**
 
-\>Climbing inside legi marks the first time you've been able to pleasure her without the need for earplugs
+%darkgreen%\>Climbing inside legi marks the first time you've been able to pleasure her without the need for earplugs
 \>the screaming still vibrates through her insides, becoming a useful indicator of where to rub for the best reaction
 \>her heartbeat also becomes apparent, going from a pulse every several seconds to quickly matching pace with an average human
 \>not close enough to the lungs to feel breathing, the gaps between vibrations still betray breaths turning to staggered gasps as you grind harder against the flexing walls
@@ -992,7 +990,7 @@ Realizing you're already way past first base and quickly heading straight for th
 \>she's on her side now, allowing the chance for a long, slow kiss with the drooling opening of her tailbase 
 \>a large splatter is still warm and dripping on the stone behind her, more satisfying than any Quest Complete stamp
 \>you sit rubbing her frills for the next hour, watching the scales between her legs slowly swell again
-\>it won't be the last time you feel the heat inside her tonight
+\>it won't be the last time you feel the heat inside her tonight%%
 
 ---
 ###*Magnamalo*
@@ -1000,9 +998,7 @@ Realizing you're already way past first base and quickly heading straight for th
 =============================================
 
 If I were to marry a monster, I'd unquestionably marry the latest and greatest flagship of Rise, Magnamalo! Their hunting prowess would be ideal for hunters looking for an equal partner, or even those who prefer to sit back and let their other half take charge! Their firm, scaled hide is deceptively smooth, so you'd never scratch yourself on them, and thanks to its sensitivity, you could bring simple pleasures to your partner and strengthen your relationship through the human act of "petting!" But that's not all! Did you also know that thanks to their immense internal heat, you'd never experience a cold night again when cuddled up with one? Trips to the Frost Islands have never been cozier!
-
-\>But person, look at them! They're scary-looking! I'm afraid to go near one!
-
+%darkgreen%\>But person, look at them! They're scary-looking! I'm afraid to go near one!%%
 I assure you, despite Magnamalo's fierce outward appearance, they're actually quite welcoming towards visitors! Unless you're attempting to claim their territory, you have nothing to fear! In fact, they'd happily protect YOU once you got friendly enough with them! There's no doubt in my mind that I– Magnamalo is the perfect mate for anyone looking for interspecies romance! And in a stroke of convenient timing, I've even heard that one is residing in the Shrine Ruins at this very moment! Perhaps some lucky human should visit me– them!
 
 ---
@@ -1016,7 +1012,7 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 >\>"Yes..."
 >\>"Hmm, then my suspicions are true. I think all the malzeno hybrids are congregating at night somewhere. But what they're up to I have no clue."
 
-\>in typical fashion, shortly after Malzeno was discovered, it wasn't long before Malzeno hybrids started appearing in hunter society thanks to the efforts of the /trash/ fleet hunters
+%darkgreen%\>in typical fashion, shortly after Malzeno was discovered, it wasn't long before Malzeno hybrids started appearing in hunter society thanks to the efforts of the /trash/ fleet hunters
 \>some people begin to notice some strange going-ons since their appearance, though, like the hybrids all leaving their homes at the exact same time every night to go somewhere, or the strange surge of Rathalos-related capture quests and their increasingly specific objectives (such as restraining them with shibari-style bindings)
 \>a reporter for the Daily Hunt, alongside their trusty monstie partner, decides to dig into the mystery and makes a shocking discovery
 \>it turns out that the hybrids shared their feral parents' overwhelming love for Rathaloses and were all conspiring together by pooling time, resources, and zenny to put up tons a fake capture quests for the Kings of the Sky
@@ -1024,11 +1020,11 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>with the aid of law enforcement, the reporter and their monstie track them to their hideout and burst through the door to a startling sight
 \>dozens upon dozens of Raths tied up in various positions, some used for pleasure, some BEING pleasured, many, many more being milked of their talon poison
 \>a vicious melee ensues, the Malzeno hybrids defending their turf, the air filled with clouds of Qurios and frantic Raths that managed to get loose in the chaos
-\>but when the dust settles, many end up being led out in wirebug zipties, the dozens of Rathaloses wrapped in blankets and being soothed by professional caretakers
+\>but when the dust settles, many end up being led out in wirebug zipties, the dozens of Rathaloses wrapped in blankets and being soothed by professional caretakers%%
 
 =============================================
 
-\>Be Hunter, chasing down the Anjanath that you've been tasked with capturing along with the others in your party
+%darkgreen%\>Be Hunter, chasing down the Anjanath that you've been tasked with capturing along with the others in your party
 \>Something crashes into the ground in the middle of the group
 \>Your heart drops
 \>Malzeno
@@ -1054,9 +1050,9 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>They're surprised to find you completely unharmed, and try to ask what happened
 \>You answer as vaguely as possible, and thankfully they're willing to drop the subject
 \>The warmth that had previously suffused your insides is gone, replaced with the coolness of Malzeno's saliva
-\>You can't help but blush a bit as you tell your comrades that you'll need to go off on your own again to "gather resources"
+\>You can't help but blush a bit as you tell your comrades that you'll need to go off on your own again to "gather resources"%%
 
-\>Be Malzeno
+%darkgreen%\>Be Malzeno
 \>You spot a group of your favorite creatures galavanting through the citadel
 \>Humans
 \>You lick your chops in anticipation as you swoop in
@@ -1068,11 +1064,11 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>It's no monster seed
 \>It's human
 \>How foul, how utterly revolting
-\>You immediately drop the human to the ground and fly off, heading straight for the nearest stream to wash your mouth out 
+\>You immediately drop the human to the ground and fly off, heading straight for the nearest stream to wash your mouth out%%
 
 =============================================
 
-\>Be Hunter, out with your party in the wastes
+%darkgreen%\>Be Hunter, out with your party in the wastes
 \>Somebody calls out
 \>"I-it's Malzeno..."
 \>Your stomach turns as you whip your head in the direction they're pointing
@@ -1103,11 +1099,11 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>His panicked voice grows fainter as the Malzeno slowly saunters off, shrinking into the distance before turning a corner and disappearing entirely
 \>None of the rest of you have moved an inch
 \>"... uh, we should probably follow them...?"
-\>"Maybe we should contact the guild first...?" 
+\>"Maybe we should contact the guild first...?"%%
 
 >Malzeno is just looking to create the perfect evening meal ambiance. Being enslaved to play every day for an indefinite period of time might be a bit of a buzzkill though.
 
-\>it's been several days since your "employment" (capture) by Malzeno
+%darkgreen%\>it's been several days since your "employment" (capture) by Malzeno
 \>upon seeing you and your hunting horn, you were taken by the elder dragon to provide a lovely musical ambience for the nightly evening meal of him and any guests he was entertaining at the time
 \>when you weren't, you found yourself chained in his castle dungeon, told to keep quiet lest your blood find its way into his "wine" storage
 \>but what Malzeno didn't know was that you were already hatching a plan for your escape, using a secret weapon taught to all hunting horn users on graduation day at the Wycademy for use as a last resort
@@ -1132,11 +1128,11 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>restored, you start running like a charging Tigrex was on your heels, hearing groaning and horrible messy noises throughout the castle, followed by lots of snarling and shrieking as the enthralling influence of Malzeno began to break on the small monster minions and added to the chaos
 \>you swear you could even hear the cacophony echoing through the entire Citadel area as you escaped back to town, your hunter friends ecstatic at your surprisingly safe return
 \>Malzeno was rarely seen in public after that, monsters laughing in his wake whenever he had to go out in public, and he avoided eye contact with you whenever the two of you saw each other
-\>V. Ana's reputation took a far less egregious hit (thankfully, you felt kind of bad that she was caught in the crossfire), though her next novel did include a rather controversial scene with a hunting horn, though it was spun into an amusing incident that led to the protagonist meeting their true love
+\>V. Ana's reputation took a far less egregious hit (thankfully, you felt kind of bad that she was caught in the crossfire), though her next novel did include a rather controversial scene with a hunting horn, though it was spun into an amusing incident that led to the protagonist meeting their true love%%
 
 =============================================
 
-\>Capcom releases a new event quest
+%darkgreen%\>Capcom releases a new event quest
 \>You've got to hunt [a tiny Malzeno](https://desu-usergeneratedcontent.xyz/trash/image/1661/74/1661740724484.jpg) to get tickets to make a hat that looks like a Malzeno holding onto your head
 \>Sweet
 \>You start the quest with a couple of friends and fill the empty spot with a random
@@ -1153,7 +1149,7 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>Join their quest, pick up their tiny Malzeno, then abandon, taking it with him
 \>"He's a menace"
 \>"It's happened to me and all of my friends"
-\>"He's got to have enough Smallzenos to make a Tallzeno by now"
+\>"He's got to have enough Smallzenos to make a Tallzeno by now"%%
 
 =============================================
 
@@ -1161,7 +1157,7 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 >>Clearly we should start a campaign to get Malzeno's castle back.
 >>Not out of good will, mind, but so we can get him and his couch surfing out of our hair. 
 
-\>Your impromptu powwow has gathered more monsters than expected, everyone positioned in a loose circle. Its occupants lay claim to wide swaths of land, some holding no relation to others, but here amongst the group of wyverns, leviathans, and lone person, one issue unites all.
+%darkgreen%\>Your impromptu powwow has gathered more monsters than expected, everyone positioned in a loose circle. Its occupants lay claim to wide swaths of land, some holding no relation to others, but here amongst the group of wyverns, leviathans, and lone person, one issue unites all.
 \>"He insisted on sharing our hunting spoils. Fair enough, right? Well guess how many times he went out to hunt. Guess! ZERO. Not once!"
 \>"…You know he can send his Qurio to gather nourishment for himself, right?"
 \>"I… what?"
@@ -1172,12 +1168,12 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>"I can’t believe he didn’t stay with me. He didn’t even *visit* me! Why didn’t he visit? Why don’t YOU guys visit me?"
 \>"Huh?... Wait, why are you here?! Go on, scram! Git!"
 \>As you watch the dejected purple wyvern slink away, you can’t help but wonder what in Gog’s name is being said by the group of monsters all jabbering away.
-\>No matter. In dire situations such as now, unity transcends language.
+\>No matter. In dire situations such as now, unity transcends language.%%
 
 =============================================
 
 [This](https://desu-usergeneratedcontent.xyz/trash/image/1677/75/1677752190413.webm) reminds me of the time that I found out that not only was Malzeno a giant needy slut, but that he was also a giant CUDDLESLUT
-\>get invited to Malzeno’s bi-monthly “super-masculine-and-totally-not-girly” tea party 
+%darkgreen%\>get invited to Malzeno’s bi-monthly “super-masculine-and-totally-not-girly” tea party 
 \>Tea party was actually super fruity and extremely homoerotic but don’t tell Malzeno I said that
 \>at some point during tea time I see Malzeno wiggle his horns, and I think it’s super fucking cute
 \>ask him if I can scratch behind his horns 
@@ -1199,14 +1195,14 @@ I assure you, despite Magnamalo's fierce outward appearance, they're actually qu
 \>comes by quite often, usually seeking a snuggle buddy for an a few hours
 \>also find out that Malzeno can be VERY persistent in trying to get what he wants. 
 \>whenever I decline to snuggle (or fuck) him due to work or just not being in the mood Malzeno will linger outside my home and scowl at me judgementally through my windows
-\>Malzeno probably thinks he looks terrifying when does it but it’s actually super fucking cute, so I almost always eventually cave to his demands for snugs and fugs 
+\>Malzeno probably thinks he looks terrifying when does it but it’s actually super fucking cute, so I almost always eventually cave to his demands for snugs and fugs%%
 Fun fact: most monsters have very, VERY sensitive erogenous zones in the space behind or around their ears. I hope my fellow hunters put this information to good use, because gog knows how many times it’s saved my life
 
 =============================================
 
 >\>Malzeno gf whose tits swell up whenever she absorbs bio energy
 
-\>on a beach date with gorgeous Malzeno gf
+%darkgreen%\>on a beach date with gorgeous Malzeno gf
 \>she mentions she's hungry
 \>offer to buy her a hotdog but she just says she'll "get her own"
 \>suddenly sends out her fleet of Qurios in a storm of crimson to gather bioenergy from the surrounding beach patrons
@@ -1222,44 +1218,8 @@ Fun fact: most monsters have very, VERY sensitive erogenous zones in the space b
 \>in a last-ditch effort, she quickly stands and bolts for one of the swimsuit changing stalls in an attempt to get away from them until her bioenergy overload dissipates
 \>she trips and stumbles onto her now truly massive bosom, each smoothly scaled breasts as big around as an overinflated beachball and STILL growing
 \>she tries to stand, only to discover that their weight is too much for her to get up now
-\>she yells at you to help as the swarm of dastardly Qurios continue to circle and reattach to her, unaware of the "disaster" they're causing as they blindly follow her bidding
+\>she yells at you to help as the swarm of dastardly Qurios continue to circle and reattach to her, unaware of the "disaster" they're causing as they blindly follow her bidding%%
 Uh oh...
-
-=============================================
-
->\>[Malzeno became a lance main](https://desu-usergeneratedcontent.xyz/trash/image/1686/28/1686282955002.jpg)
->Truly a monster after my own heart.
-
-\>engage in combat with a primordial malzeno while equipped with a lance
-\>he proves to be an admirable foe, striking with grace that only a true knight could have
-\>it turns into a long and drawn out fight, and while you managed to hold your ground for this long your stamina finally runs out
-\>you fall to your knees exhausted from combat and ready to accept your fate
-\>surprisingly, instead of striking you down and claiming victory, the malzeno sweeps you up in his tail and gently takes you back to his royal ruins
-\>you pass out from exhaustion and the last thing you see is the malzeno walking away
-\>upon waking up, you find the malzeno had been watching over you as you rested
-\>laying in front of you is a fresh small monster carcass just waiting to be cooked
-\>the malzeno eyes you with great intent as you pull out your carving knife and cooking set, no doubt waiting for you to fully recover with this fitting meal
-\>you get the feeling that you're going to be "training" with your new lord for a while
-
-=============================================
-
->\>[your Malzeno child starts hanging out with a bad crowd](https://desu-usergeneratedcontent.xyz/trash/image/1686/43/1686436862690.png)
->Yet another example of how hard it is being a monster's dad.
-
-\>be huntanon
-\>bond with a female Primordial Malzeno during a hunt over your mutual love for lances and all things knightly and chivalrous
-\>end up getting hitched (by monster terms) and having a devastatingly handsome Malzeno son that any grandma would be proud of
-\>find yourself imagining how he'll look once he's all grown up and gracefully wielding the lance skills you'll inevitably teach him when he takes up your mantle after your retirement
-\>that changes a while later, when you get a message from his teacher at the Wycademy that he's been skipping class and training sessions to hang out with a gang of Qurio that's been loitering in the area recently
-\>you and his mother confront him, only to catch him in the dreaded act of Qurio Bonding, the manic glee in his eyes all to apparent as he revels in the feeling of being nearly unstoppable
-\>it's obvious that the seductive little bugs tricked him into trying out their vital energy gathering ability "just once", and now he's completely hooked and unwilling to stop
-\>it's all you can do to stop his Primalzeno mother from lunging at her own son to make him stop by force
-\>she of all people knows the dangers of Qurios and doesn't want to see him go down that road, but you don't want to see either of them get hurt
-\>so she does something drastic instead
-\>she drops her guard and bellows a challenge to the Qurios infesting your son to come get a taste of a REAL Malzeno
-\>relishing the chance to bond to a full-grown, stronger, and more experienced Malzeno, the Qurios practically dogpile her
-\>much to your son's sudden shock and regret when he finally snaps back to his senses and realizes what's happening
-Uh-oh
 
 ---
 ###*Mizutsune*
@@ -1269,7 +1229,7 @@ Uh-oh
 >So how would it take until Mizutsune realizes that Chameleos is encroaching on his hunters/property
 >>Mizu was HUNTed and captured a few days ago during his fashion stream, so maybe he'll catch on once they finally release him from the "research pen", crewed by all those young, strapping, oddly shirtless researchers...
 
-\>Mmmmm...
+%darkgreen%\>Mmmmm...
 \>To think getting captured was the greatest thing to happen to you
 \>Granted having been pelted with tranquilizer mid-strip in front of the camera was a turn off but you liked how these cuties were handling you
 \>"You can go a bit lower y'know~" you purr
@@ -1288,13 +1248,13 @@ Uh-oh
 \>Let alone being interested in hunters
 \>You made sure of that
 \>Unless...
-\>"That son of a BITCH!" you roar
+\>"That son of a BITCH!" you roar%%
 
 =============================================
 
 >Robotamas capture hunters and force them inside of their bodies so that they can use the hunters' orifices to mate with real tamas.
 
-\>Be a Tama, just minding your business in the Shrine Ruins
+%darkgreen%\>Be a Tama, just minding your business in the Shrine Ruins
 \>That strange, artificial Mizutsune approaches you again
 \>It runs its cool, metal body alongside yours and nips affectionately behind your frill
 \>You ignore the thing, until it rolls over onto its back and presents itself to you
@@ -1319,7 +1279,7 @@ Uh-oh
 \>You firmly press the tip of your cock, nearly as large as his thigh, against his resistant pucker
 \>The slightest press of your hips effortlessly begins to pry him open
 \>His whines from inside the machine cause your cock to throb
-\>He'll learn a very, very hard lesson about turning down a Mizutsune
+\>He'll learn a very, very hard lesson about turning down a Mizutsune%%
 
 =============================================
 
@@ -1329,7 +1289,7 @@ Uh-oh
 >\>males soapy characteristics emerged when they didn't want to have eggs with their fugly women
 >\>allows them to slip away from their grabby arms
 
-\>"Sir are you sure we should we even doing this?"
+%darkgreen%\>"Sir are you sure we should we even doing this?"
 \>"We have no choice. Mizutsune population is dropping down at an alarming rate and its up to us hunters to balance the ecosystem."
 \>In the middle of the arena is a Mitzutsune bound on his back with his limbs splayed out
 \>The monster doesn't even panic at the situation and looks maybe even a bit eager
@@ -1351,15 +1311,14 @@ Uh-oh
 \>"Welp! That was a mission success, let's hope those two end up making lots of babies for us to hunt." 
 \>"Sir I don't think that male is gonna last long"
 \>"What makes you think that?"
-\>"Because knots aren't suppose to bend 90 degrees like that."
-
+\>"Because knots aren't suppose to bend 90 degrees like that."%%
 
 ---
 ###*Nergigante*
 
 =============================================
 
-\>be new world hunter
+%darkgreen%\>be new world hunter
 \>make a weapon out of some nergigante materials
 \>it's a good weapon, but doesn't really fit your style
 \>ditch it for something else
@@ -1372,7 +1331,7 @@ Uh-oh
 \>and another
 \>suddenly pinned down to the floor by a horde of nergi babies
 \>thankful that you were wearing your full armor set, else all the cuddly spikes might have harmed you too much
-\>turns out each spike from that old nergigante weapon you made all somehow grew into actual nergigantes, who knew?
+\>turns out each spike from that old nergigante weapon you made all somehow grew into actual nergigantes, who knew?%%
 
 =============================================
 
@@ -1380,7 +1339,7 @@ Uh-oh
 >>I imagine that for the hybrids that actually tolerate wearing gear instead of hunting fully/partially in the nude like they usually do, their armor and weapons are likely made using sustainably gathered materials - usually materials that they can shed, trim off, or otherwise create themselves.
 >>Probably a point of personal pride for them to use a weapon made from themself, too. Hybrid user that's half-hunter and half-monster, hybrid gear that follows the same idea. 
 
-\>be nergigante hybrid (don't even ask how dad managed to bang mom in the first place and come out unscathed)
+%darkgreen%\>be nergigante hybrid (don't even ask how dad managed to bang mom in the first place and come out unscathed)
 \>cursed with having to constantly trim your spikes that never stop growing
 \>decide to turn your curse into a blessing and become a blacksmith selling weapons and armor made from your endless supply of hybrid materials
 \>not as strong as a feral nergigante's materials, but definitely way strong than most other accessible monster parts
@@ -1390,14 +1349,27 @@ Uh-oh
 \>else they risk the parts growing on their own and ruining the shape until sanded/hammered back into place
 \>some of the more careless hunters who bought your gear only to put in into storage claim it all grew into baby nergigantes, but you ignore their claims and scrutinize them for not taking proper care of your gear
 \>besides, none of the spikes you've left lying about ever turned into little nergigante copies
-\>what a crazy accusation to make
+\>what a crazy accusation to make%%
+
+=============================================
+
+%darkgreen%\>ywn get stalked by a nergigirl after making a name for yourself in the new world for 'pacifying' so many elders tearing the environment up
+\>ywn get confronted by her in the wildspire waste for a fated duel where she goes all out
+\>spikes against greatsword all day until night, many being chipped by your swings as your blade dulls, both of you going crashing down into the deeper underground parts of the waste, landing in a river bed
+\>both of you getting tangled up in vines, but she cuts her way loose and looms over your trapped body in the vines menacingly
+\>you expect her to land a killing blow and finish you off after besting you, the champion notorious for defeating Elders like her for a living, in single combat
+\>instead, she lowers her muzzle and gently kisses you on the cheek while ripping you free of the vines and pulling you into her tight embrace, surrounding you with her soft body now that the spikes were down
+\>ywn have her declare you to be the only worthy mate after proving yourself as she flaps her wings and lifts you off to her nest
+\>she will never deliver you to her rocky and crystalline home where she begins tearing away your armor, intent on 'eating' all the energy you've accumulated, obsessively adding that she can't get impregnated by you and that you'll both be able to do it as much as you like together
+\>five days ahead
+\>she has an embarrassed look on her face and she's been staying home more often as you bring her food instead to care for her, and the bump on her belly you put in her as well, once again proving your extraordinary nature as a hunter, capable of defeating anything, even biological limitations%%
 
 ---
 ###*Odogaron*
 
 >I doubt [that thing](https://desu-usergeneratedcontent.xyz/trash/image/1686/00/1686001380650.png) can move, you're sent to dispose of it and end it's suffering and set free the poor felyne slaves that were feeding it because one of their friends is stuck in the things boobs and it won't let him go unless they feed it
 
-\>Hear rumors of an Odogaron appearing in the Coral Highlands
+%darkgreen%\>Hear rumors of an Odogaron appearing in the Coral Highlands
 \>The guild hasn't weighed in on sending a hunter to deal with the problem since hunters in those parts are few and stretched thin on other high-priority quests
 \>You get deployed as a surveyor to at least confirm these "sightings" to report on whether they're valid or not
 \>You're no ace hunter yourself but you're built and packed for exploring these rarely charted areas and getting outta dodge if a monster rolls up
@@ -1412,7 +1384,7 @@ Uh-oh
 \>it (now revealed to be a she) was far too eager to gorge herself on, knocking herself out not long after
 \>The Felynes were willing to fall back to the closest settlementnow that she was incapacitated but their friend is caught in her ample bosom somehow.
 \>They look pleadingly to you for helping rescue their buddy from a drugged up Odo's chest
-\>Assuming you dont wake her up and get mauled in trying, you'll have quite the story to tell your tavern buddies
+\>Assuming you dont wake her up and get mauled in trying, you'll have quite the story to tell your tavern buddies%%
 
 ---
 ###*Plesioth*
@@ -1421,7 +1393,7 @@ Uh-oh
 
 >What exactly could be done sexually with a monster's broken hitbox?
 
-\>Plesioth seems smug that you can't beat them 
+%darkgreen%\>Plesioth seems smug that you can't beat them 
 \>Decide to exploit their hitbox 
 \>Extend two of your fingers and start doing curling motions near their sides
 \>Their legs give out as they feel phantom sensations inside their cloaca
@@ -1431,7 +1403,7 @@ Uh-oh
 \>You stop when you felt their near release 
 \>They looked back at you angry why you stopped until they see both of your hands open near your crotch
 \>Plesioth regrets cheating their hitbox size before you viciously start humping the air
-\>Screams echoes throughout the lake
+\>Screams echoes throughout the lake%%
 
 ---
 ###*Pukei-Pukei*
@@ -1440,7 +1412,7 @@ Uh-oh
 
 >\>"Sorry [ma'am](https://desu-usergeneratedcontent.xyz/trash/image/1538/39/1538395229560.png) we only take zenny in these parts." 
 
-\>wild hybrid Pukei who wants to check out hunter society but does so completely unprepared
+%darkgreen%\>wild hybrid Pukei who wants to check out hunter society but does so completely unprepared
 \>isn't even wearing clothes and is just exploring the streets of the nearest hunter settlement completely in the nude
 \>drawing weird looks as a result but she's so enraptured by her surroundings that she doesn't notice
 \>smells something delicious and wanders into the local canteen
@@ -1450,7 +1422,7 @@ Uh-oh
 \>"Ah, this, uh, this your first time in a canteen? We serve food here, you buy it with zenny, ZEN-NY, you understand?"
 \>he points to another customer making a purchase
 \>she thinks for a moment, then bobs her head eagerly before promptly extending her massive tongue and spitting out a shiny-looking but ultimately worthless rock on the counter
-\>"Oh boy...good thing there's hunters who specialize in your type these days..."
+\>"Oh boy...good thing there's hunters who specialize in your type these days..."%%
 
 ---
 ###*Rathalos*
@@ -1476,7 +1448,7 @@ the Hunter's aim was that of Kin
 
 =============================================
 
-\>Psst hey hunters
+%darkgreen%\>Psst hey hunters
 \>I need your help
 \>I'm being stalked by Malzeno, that new monster coming to the neighborhood
 \>Basically, ever since I agreed to be in the trailer for the MHR Sunbreak, he's been following me non-stop
@@ -1491,47 +1463,47 @@ the Hunter's aim was that of Kin
 \>I'm running out of time
 \>My wife will be leaving for a for her monthly book club with her friends and I feel I am not safe
 \>Hunt, capture, kill, just do ANYTHING to make him stop
-\>I'll even give you my prized Rubies as compensation 
+\>I'll even give you my prized Rubies as compensation%%
 
-\>It's been 3 days since Rathalos posted his request on the quest board
+%darkgreen%\>It's been 3 days since Rathalos posted his request on the quest board
 \>He cautiously looks down from the nest and see accursed dragon has written something on the forest floor
 \>'I'M GONNA STEAL YOUR JEWELS'
 \>He thought at first he just wanted to his Rathalos Rubies and dropped them down
 \>But that didn't stop the creepy stalking
 \>Rathian won't be back for another week and won't be long until Malzeno realizes that he's alone for a long time.
 \>He tried fashioning bushes and used ghillie mantles stolen from hunters to make a dummy Rathian
-\>But he feels the elder dragon's starting to catch on when he pretended to make out with the dummy wyvern and the tail fell off
+\>But he feels the elder dragon's starting to catch on when he pretended to make out with the dummy wyvern and the tail fell off%%
 
 =============================================
 
 >\>[Rathalos disguises himself](https://desu-usergeneratedcontent.xyz/trash/image/1638/11/1638112818708.jpg) to hide from Malzeno.
 >Lets just hope he doesn't find out about "Rathians Rubies"
 
-\>Rathalos sweating bullets as Malzeno leers at them with contempt
-\>"So he's not here then?"
+%darkgreen%\>Rathalos sweating bullets as Malzeno leers at them with contempt
+\>"So he's not here then?"%%
 "Yes."
-\>The vampire dragon turns away to scowl before clearing his throat
-\>"Very well then, would you tell me where he is then?"
+%darkgreen%\>The vampire dragon turns away to scowl before clearing his throat
+\>"Very well then, would you tell me where he is then?"%%
 "Uh... Last I checked my 'husband' told me he was going to take a dip in the Lava Caverns."
-\>The interrogator's eyes glint at the prospect of him being in such a vulnerable state
+%darkgreen%\>The interrogator's eyes glint at the prospect of him being in such a vulnerable state
 \>He tries to hide his manic glee before composing himself
 \>"I see, then I shall head off."
 \>Malzeno didn't even let him say goodbye before taking off abruptly
-\>'Rathian' sighs before collapsing in the nest, adjusting his seat so his balls could finally breathe
+\>'Rathian' sighs before collapsing in the nest, adjusting his seat so his balls could finally breathe%%
 "Hopefully step two of my plan would give me a week at most to relax."
 
-\>You are Azure Rathalos
+%darkgreen%\>You are Azure Rathalos
 \>And you're a bit pissed
 \>Currently you're in some lava cave drenched in red paint
 \>You knew your cousin would pull a sick joke like this
 \>It's not your fault you're stronger than him that he gets jealous
 "Haha yeah real funny! You proved your point."
 \>Hopefully this is the type of paint that comes off easily with some water
-\>Wait what's that noise?
+\>Wait what's that noise?%%
 
 =============================================
 
-\>[silverlos therapist](https://desu-usergeneratedcontent.xyz/trash/image/1651/77/1651776929120.jpg) was offering a discount to guild members so I figured it was worth a shot
+[\>silverlos therapist](https://desu-usergeneratedcontent.xyz/trash/image/1651/77/1651776929120.jpg) %darkgreen%was offering a discount to guild members so I figured it was worth a shot
 \>spent most of the first session asking me increasingly tangential questions about talons, fur and scale textures, monster scents, human anatomy etc
 \>a whole shelf of the bookcase is collected works from V. Ana, presumably some well-known figure in the field
 \>the following week starts out with a "trust exercise" which involves him holding my neck in his jaws
@@ -1540,12 +1512,12 @@ the Hunter's aim was that of Kin
 \>by that point he has me bent over the desk, we're still kissing passionately while he's rutting me and mumbling something about lagiacrus mating rituals
 \>start getting scheduled for the last slot in the day, which seems necessary when the sessions are becoming multiple hours long and wrecking the room more each time 
 \>it's been about two months now, we've probably been in every possible position on everything in his office, and also a couple in legi's office after she left for the day
-\>he still hasn't addressed my original issues or charged any money, I'm starting to think he's not a real therapist but I feel a lot better
+\>he still hasn't addressed my original issues or charged any money, I'm starting to think he's not a real therapist but I feel a lot better%%
 
 =============================================
 
-\>[dadthalos](https://desu-usergeneratedcontent.xyz/trash/image/1658/25/1658255400606.png)
-\>created by a wandering rathalos one day stumbling upon a camp of very drunk hunters partying in the wilderness
+[\>dadthalos](https://desu-usergeneratedcontent.xyz/trash/image/1658/25/1658255400606.png)
+%darkgreen%\>created by a wandering rathalos one day stumbling upon a camp of very drunk hunters partying in the wilderness
 \>they were so drunk they didn't notice the rathalos scrounging through their food (or didn't care)
 \>then the rathalos got a taste of their cheap mead from a leaking keg
 \>in the morning the hunters wake up to find all of their food devoured and mead gone by the rathalos snoozing away outside their tent
@@ -1561,7 +1533,7 @@ the Hunter's aim was that of Kin
 \>everyone cheers in response and the party continues throughout the night while the rathalos drinks away
 \>they repeat this party for the next few months, always bringing plenty to drink for their rathalos friend
 \>of course the more it drank the less active the rathalos became, leading to it getting very out of shape
-\>now it barely flies anymore and made residence inside a cave where the parties are hosted
+\>now it barely flies anymore and made residence inside a cave where the parties are hosted%%
 
 ---
 ###*Rathian*
@@ -1576,12 +1548,12 @@ the Hunter's aim was that of Kin
 >\>but that's okay because it means more time spent with her
 
 Imagine having a hybrid SO who was so far along on the "mutation scale" in this hypothetical society that they practically almost classify as a feral monster in their own right, minus some things like still having the ability to speak hunter languages, and still having some humanlike body features such as breasts and bellybuttons.
-\>larger than normal size - not to the degree of a feral monster, but still making it difficult to fit through the doors of most homes/shops
+%darkgreen%\>larger than normal size - not to the degree of a feral monster, but still making it difficult to fit through the doors of most homes/shops
 \>hunched over stance - again, not quite to the degree of a feral monster, but very noticeable nonetheless
 \>large wing arms in place of regular hands, making fine motor skills difficult without resorting to their talons but allowing for a better degree of flight in return
 \>while the large majority of hybrids still possess talons like their feral cousins, these particular individuals tend to have much larger ones in accordance with their increased overall size, making shoe-shopping difficult
 \>tougher, scalier hide that covers more of their body in place of softer skin
-\>elemental/status producing glands being a full strength, instead of reduced potency like with most other hybrids
+\>elemental/status producing glands being a full strength, instead of reduced potency like with most other hybrids%%
 People would probably keep mistaking them for a monster, only to be surprised when they answer back with completely normal talking.
 
 ---
@@ -1591,11 +1563,11 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 >Can you imagine if Shara followed you back to the Old World by burrowing and effectively living under your house?
 
-\>"i should go out to get groceries soon"
+%darkgreen%\>"i should go out to get groceries soon"
 \>"GeT MoRe SpicY CoRnChipSss"
-\>"oh right we're all out, wait what?"
+\>"oh right we're all out, wait what?"%%
 
-\>have some fellow hunters over hanging out at your place
+%darkgreen%\>have some fellow hunters over hanging out at your place
 \>every once in a while the floor rumbles
 \>"Anon, you got a diablos under your house or something? Haha!"
 \>"Yeah, haha... I don't know what it is, I'll have to check it out later."
@@ -1603,20 +1575,20 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>a floor board pops free and you see shara's eye peeking through
 \>"I told you not to make any noise when I have company over! What were you doing?"
 \>"I fOuNd FrOg"
-\>shara pops some more floor boards open and uncovers a poisontoad which promptly releases its noxious gas, encapsulating the entire room
+\>shara pops some more floor boards open and uncovers a poisontoad which promptly releases its noxious gas, encapsulating the entire room%%
 
-\>its late at night and you're woken up by some loud shuffling
+%darkgreen%\>its late at night and you're woken up by some loud shuffling
 \>you wake up to see shara starting at you from above, breathing heavily and flaking dust
-\>"WhAts ThE WiFi PaSsWoRd?"
+\>"WhAts ThE WiFi PaSsWoRd?"%%
 
-\>doing some netflix and chill with shara late at night
+%darkgreen%\>doing some netflix and chill with shara late at night
 \>shara's head is directly beside you, their closest eyeball constantly looking at you
 \>"Can you, uhh, stop looking at me like that?"
 \>"Im NoT lOoKiNg At YoU tHoUgH..."
 \>"Are you even watching the movie?"
-\>"yEs....."
+\>"yEs....."%%
 
-\>you're busy sweeping up all the dust and small rocks on the floor when Shara walks up to you
+%darkgreen%\>you're busy sweeping up all the dust and small rocks on the floor when Shara walks up to you
 \>they drop a large shiny solid gold chunk at your feet
 \>"whats this for?"
 \>"ViDeOgAmEs"
@@ -1624,26 +1596,26 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>"what videogame do you even want anyways"
 \>"DeEp RoCk GaLaCtiC"
 \>"Fine, i'll get it if its on sale but only if you promise to stop tracking in pebbles"
-\>"YaAaAy, RoCk AnD StOnE!"
+\>"YaAaAy, RoCk AnD StOnE!"%%
 
-\>"Shara, why is there a crying dodogama outside my house?"
+%darkgreen%\>"Shara, why is there a crying dodogama outside my house?"
 \>"I dO NoT KNow...."
 \>"Shara, why did the dodogama outside tell me you stole their rock collection?"
 \>"MmMMmmmMMMMmmhhhh, RoCkS...."
 \>"Shara!"
 \>"AlRiGhT, I wiLL gIvE BAck thE r-R-R-r-rOckS."
-\>"You better tell them you're sorry, it's not nice to steal other people's rock collections."
+\>"You better tell them you're sorry, it's not nice to steal other people's rock collections."%%
 
 ---
 ###*Tobi-Kadachi*
 
 =============================================
 
-\>Honey, can you please put some clothes on for tonight?
+%darkgreen%\>Honey, can you please put some clothes on for tonight?
 \>Why? You've always been fine with me going out naked before.
-\>Uhh... because most of the time we're out alone hunting. But tonight it's REALLY important you cover up. I mean for Gog's sake we're going to our son's inauguration ceremony for the guild! The guild's relation with hybrids is shaky enough as it is, we don't want to make it any worse for our hybrid son.
+\>Uhh... because most of the time we're out alone hunting. But tonight it's REALLY important you cover up. I mean for Gog's sake we're going to our son's inauguration ceremony for the guild! The guild's relation with hybrids is shaky enough as it is, we don't want to make it any worse for our hybrid son.%%
 
-\>it's ceremony time
+%darkgreen%\>it's ceremony time
 \>manage to get your tobi wife to put on a simple hide bikini and skirt
 \>still better than nothing
 \>everyone takes a seat as the opening introduction commences
@@ -1654,7 +1626,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>before you even have a chance to facepalm in disappointment, your tobi wife stands up and cheers for him
 \>"YEAH THAT'S MY SON WHOOOOO!" she yells as everyone nearby feels a slight static in the air around her
 \>to make things even worse, she rips off her bikini and starts twirling it around
-\>you can feel the eyes of the commander on stage piercing through you like a dragonator
+\>you can feel the eyes of the commander on stage piercing through you like a dragonator%%
 
 ---
 
@@ -1665,13 +1637,13 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 >[Beautiful corpse wife.](https://desu-usergeneratedcontent.xyz/trash/image/1568/53/1568538194106.jpg)
 >>I feel that having the wedding ceremony in the Vale would be... unique.
 
-\>ywn wait at the altar for your beautiful soon-to-be Vaal wife to appear
+%darkgreen%\>ywn wait at the altar for your beautiful soon-to-be Vaal wife to appear
 \>ywn watch as monsters and human attendants (the latter wearing noseplugs and gemmed for effluvium resist) stand as she comes striding down the corpse-strewn "aisle", wearing her finest flesh veil
 \>ywn flip that veil up after the vows are made, your ring is place on her claw by you, and the fresh kill from her traditional hunt that morning (still wafting miasma) is given to you from her, revealing her beautiful double-jawed smile as she beams at you and waits for her kiss
 \>everyone claps and/or roars applicably, the commotion kicking up a ton of effluvium and causing the celebration to devolve into a lot of coughing and wheezing
 \>at the reception, the Meowscular Chef and his crew are catering with gas masks on, and the wedding cake has to be kept in a special container to keep it from getting contaminated
 \>a lot of the monsters end up having to go home early due to "not feeling so well", a possibility you were well informed on given your wife's..."influence" on the surrounding area
-\>except for one (whose name escapes you), who kept trying to breakdance like a Zinogre on the dance floor, clearly plastered from the free bar
+\>except for one (whose name escapes you), who kept trying to breakdance like a Zinogre on the dance floor, clearly plastered from the free bar%%
 
 
 ###*Valstrax*
@@ -1682,7 +1654,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 >\>They sheepishly hike their tail up and wave their haunches in front of you
 >\>"Strrll grt rmmff frr runn mrrr"
 
-\>you move up behind them, wrapping your arms around them gently, exploring their body.
+%darkgreen%\>you move up behind them, wrapping your arms around them gently, exploring their body.
 \>one hand caressing the vents on their chest, the other moving deeper towards their slit
 \>"Are you sure you're up for it?"
 \>they nod as best they can and make a muffled confirmation
@@ -1700,11 +1672,11 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>you let them lean against you as they fall back and cough, trying to catch their breath.
 \>you can see that their slit is still dripping, their vents still glowing red
 \>"Ready for round two?" you ask.
-\>still panting they give you a thumbs up and you give them a gentle kiss on the cheek.
+\>still panting they give you a thumbs up and you give them a gentle kiss on the cheek.%%
 
 =============================================
 
-\>Take on an investigation about strange blast marks and fires causing trouble in the forest.
+%darkgreen%\>Take on an investigation about strange blast marks and fires causing trouble in the forest.
 \>All signs point to it being caused by a feral valstrax.
 \>After enough snooping around you almost bump into her.
 \>A lone valstrax hybrid. You wonder what she's doing all by her lonesome out here.
@@ -1719,23 +1691,23 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>After being satisfied with examining your form the lone hybrid hugs you and doesn't let go.
 \>You attempt to break free of her grasp but she revs up her jets the moment you start struggling. 
 \>You're not sure what her problem is but you accept your fate and let the hybrid valstrax do her thing.
-\>This is going be one hell of a write-up when you get back to report on your findings.
+\>This is going be one hell of a write-up when you get back to report on your findings.%%
 
 ---
 ###*Velkhana*
 
 =============================================
 
-\>you will never try to setup a suprise party for velkhana's hatchday and invite every hunter and monster
-\>you will never be the only one being present while everyone else (even your own palico) forgot or didn't care
+%darkgreen%\>you will never try to setup a suprise party for velkhana's hatchday and invite every hunter and monster
+\>you will never be the only one being present while everyone else (even your own palico) forgot or didn't care%%
 [>you will never hastily build a snowman just to make it feel less empty
 \>you will never ignite a small firework while velkhana enters your "ambush"
 \>you will never sing happy hatchday alone while your voice is echoing from the icecold walls
 \>velkhana will never just look at you with an expressionless stare while you sit down singing next to the snowman and firework](https://desu-usergeneratedcontent.xyz/trash/image/1583/01/1583017791421.png)
-\>velkhana will never after a few minutes of silence just simply lay down next to the small firework
-\>you both will never just stare in silence into the small firework
+%darkgreen%\>velkhana will never after a few minutes of silence just simply lay down next to the small firework
+\>you both will never just stare in silence into the small firework%%
 
-\>It was well past midnight when you convinced Velkhana to follow you back to Seliana
+%darkgreen%\>It was well past midnight when you convinced Velkhana to follow you back to Seliana
 \>or a sleeping, silent and extinguished version of Seliana
 \>where no one was awake to complain as you raided the kitchen, shoveling an entire shelf of recently-baked pastries and jerky into your bag
 \>or when you rolled a whole barrel of mead out the back, passing a storeroom full of ingredients for The Birthday Cake That Never Was
@@ -1744,7 +1716,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>an offensive Handler caricature taunts the smithy's storefront
 \>a particularly obscene pair of odogarons wait at the settlement's front entrance, ready to greet the expedition crew returning at dawn
 \>the night is worn by the time you both stagger past the steamworks, splashing down in the village hotsprings and displacing a small lake's worth of water over the mountainside
-\>the world is still tilting back and forth while a scaled arm keeps you anchored into reality
+\>the world is still tilting back and forth while a scaled arm keeps you anchored into reality%%
 [>you hope at least one of you manages to wake up before the rest of the town
 \>a hunter and dragon found passed out together wouldn't be the most unusual thing to happen in the last month, but it wouldn't be forgotten any time soon
 \>you're not sure where your pants floated off to
@@ -1760,7 +1732,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 =============================================
 
-\>"Hunter, i feel the need to remind you that i only entertain [these adornments](https://s1.desu-usergeneratedcontent.xyz/trash/image/1601/52/1601527263582.png) because they signify that i am mated to you"
+%darkgreen%\>"Hunter, i feel the need to remind you that i only entertain%% [these adornments](https://s1.desu-usergeneratedcontent.xyz/trash/image/1601/52/1601527263582.png) %darkgreen%because they signify that i am mated to you"
 \>"but you like the pink bow right?"
 \>"that is irrelevant"
 \>"c'mon velk, you can hide behind that ice mantle all you want but i can see right through you"
@@ -1776,13 +1748,13 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>"only for you, Velk, only for you."
 \>rubbing her snout gently, she closes her eyes and you press your heads together, her normally ice cold scales, now with a soft warmth to them
 \>"maybe next time we can get a hat to go with it"
-\>"dont push your luck.."
+\>"dont push your luck.."%%
 
 =============================================
 
 >\>"Unacceptable, Mr. Anon. Come see me in my private, out-of-the-way office later so I can 'reprimand' you for your sloppiness."
 
-\>Office Velk calls you into her office and makes you hastily strip naked before stuffing you under her desk
+%darkgreen%\>Office Velk calls you into her office and makes you hastily strip naked before stuffing you under her desk
 \>she proceeds to use you as her footrest/plaything while she busies herself filling out a company tax form on her computer and dealing with any visitors she gets
 \>she idly plays with your dick with her ice-cold footclaws during all this, occasionally speeding up and slowing down to deny your orgasm, any noises you make stifled by her clamping one down over your mouth so you don't alert anyone else coming into her office
 \>eventually you can't hold it anymore and she wrings a massive orgasm out of you, coating yourself and her claws in spunk
@@ -1793,7 +1765,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>you also know better than to make her orgasm when she's talking - as fun as it would be to get "revenge" by reducing her to a drooling mess in front of company, it would likely mean both your jobs
 \>eventually you get a large enough opening to finish her off, her loud moans contained by the soundproof office as she blasts you right in the face with her orgasm, effectively giving you a facial ice bath
 \>shakily gets up to lock the door finally, declares that playtime is over, and now it's time for you to absolutely ruin her with your "lance" like the hunters of old did as she begins stripping even faster than you
-\>unbeknownst to both of you, your Chameleos coworker (who also happens to be naked since they can't camouflage their clothes) is hiding up in the corner of the ceiling
+\>unbeknownst to both of you, your Chameleos coworker (who also happens to be naked since they can't camouflage their clothes) is hiding up in the corner of the ceiling%%
 
 \>["Hey, wanna know what I saw today?"
 \>Oh no is he going to tell me something that's too personal for me to know and could potentially lead to people losing their jobs?
@@ -1804,28 +1776,28 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 >I'd absolutely worship multiple parts of Velk's body if she'd let me (even if it's tickling, for however long she'll put up with it). Part of the fun with such a regal monster would be tempting her to give in to her desires that she struggles so hard against, to throw aside the haughty, composed image just once and let herself melt away into a beast of lust indulging in her desires - even better if I actually succeed in "breaking the ice", so to speak.
 
-\>Forced to massage and pamper a massive dragon until she is content, working on the grounds that she just kills you if you do poorly enough
+%darkgreen%\>Forced to massage and pamper a massive dragon until she is content, working on the grounds that she just kills you if you do poorly enough
 \>It was all mostly hot air--she quickly submits to your touch as you begin to search for loosened scales to pull up along her neck and chest, granted she's still glaring at you out the side.
 \>By the time you're preening her wings she's splayed out on her back like a contented cat in the sun. Her hide is so thick that you can't imagine it feels like much, but maybe she's more sensitive to touch than those craggy scales seem to let off.
 \>You work around to the digits on her hands and feet, buffing out any chips in her talons and sharpening the points to a razor edge. She's almost receptive to your touch, giving just enough effort to allow you to move her heavy limbs as you please.
 \>You're working up from there, up the arms toward the torso. As you reach finer and finer layers of scales, you can hear her breathing hitch. These spots are soft enough that you use a steel brush to find the broken scales and remove them. A wavering sigh of satisfaction leaves her mouth once you're at her stomach, yet she's twitching like something's wrong. The relaxed posture that you finally managed to coax her into was gone. She sucks in her belly to get away from the sensation, tail slapping against the ground with a resounding thud, but then forces herself back the same position.
-\>Assuming you're doing something wrong, you pull away and try to reevaluate the task at hand. Almost immediately she cranes her neck to shoot you a vicious stare. She wasn't done, and neither are you.
+\>Assuming you're doing something wrong, you pull away and try to reevaluate the task at hand. Almost immediately she cranes her neck to shoot you a vicious stare. She wasn't done, and neither are you.%%
 
 >\>"Haha You really need to loosen up honey!"
 >\>She suddenly rolls over so that you are on your back this time
 >\>A clawed foot slams mere inches away from your head as cold air tickles your face with her bated breath
 >\>"My restraint isn't just for my sake..."
 
-\>With that duly noted, you come to the unfortunate reality that there is one last place for you to tend to. You would assume that Velkhana would be too proud to allow anything between her legs just on principle, but you have a job to do, and you're going to be doing it until its done. She returns to her back and splays her legs so you can properly address the base of her tail
+%darkgreen%\>With that duly noted, you come to the unfortunate reality that there is one last place for you to tend to. You would assume that Velkhana would be too proud to allow anything between her legs just on principle, but you have a job to do, and you're going to be doing it until its done. She returns to her back and splays her legs so you can properly address the base of her tail
 \>Watching the talons on her feet that you already unwittingly sharpened, you get a strong grip on your steel brush and get to work. Already you get the impression of how much power is below your fingertips, the trunk of her tail pushing you away as Velkhana struggled to keep still. You can tell this was where her scales were the thinnest, and it really did feel that smooth. She kept her head straight along the ground and faced away from you, but her stomach was convulsing with every breath.
 \>It couldn't be, right? It was just her enjoying the attention, wasn't it? And how much was she really enjoying it? Her vent was in clear view right there, and if you angled your head just right you could see the condensation of frost glistening around it.
 \>A terrible urge to satisfy your curiosity steals control of your arms before any sense of self-preservation does. You reach up with both hands and dig right into the spot where her tail and haunches met.
-\>She wasn't bracing for it. Her tail flips you up between her legs on reflex, an unrestrained shout of a chuckle escaping through her razor teeth. You nearly bash your head open on her lower stomach when you land. By the time you're able to look up and meet her gaze, you already know that you're dead
+\>She wasn't bracing for it. Her tail flips you up between her legs on reflex, an unrestrained shout of a chuckle escaping through her razor teeth. You nearly bash your head open on her lower stomach when you land. By the time you're able to look up and meet her gaze, you already know that you're dead%%
 
 =============================================
 
-\>["Ugh, DAD, did you REALLY need to take me along today?](https://desu-usergeneratedcontent.xyz/trash/image/1676/02/1676020523850.jpg) [This is so LAME."](https://desu-usergeneratedcontent.xyz/trash/image/1676/02/1676020557355.jpg)
-\>"Whaaaat, you love going on hunts with me though. What's changed?"
+[\>"Ugh, DAD, did you REALLY need to take me along today?](https://desu-usergeneratedcontent.xyz/trash/image/1676/02/1676020523850.jpg) [This is so LAME."](https://desu-usergeneratedcontent.xyz/trash/image/1676/02/1676020557355.jpg)
+%darkgreen%\>"Whaaaat, you love going on hunts with me though. What's changed?"
 \>"It's just...everyone's keeps staring at me whenever we go out, and not in a good way. They must think I'm some kind of freak..."
 \>"Aw, sweetie, you're not a-"
 \>"I mean, honestly, can they really not appreciate raw beauty when they see it?! I'm the spitting image of mom - no, I've SURPASSED mom in beauty and grandeur! How could they think I'm weird?! These cretins should be groveling at my feet!"
@@ -1833,7 +1805,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>"My WHAT?!"
 \>"Gosh, you've grown up so fast, haven't you? Just wait until your mom finds out about this, I might just find myself outnumbered finally, haha!"
 \>"DAD! THIS IS SERIOUS!"
-\>"Yeah, something I've been SERIOUSLY dreading! I'm gonna need some Flinch Free every time I come into the room when you and your mom are practicing the Signature Stare of Superiority! Don't tell her I said that, by the way, I don't want to spend another night outside the cave."
+\>"Yeah, something I've been SERIOUSLY dreading! I'm gonna need some Flinch Free every time I come into the room when you and your mom are practicing the Signature Stare of Superiority! Don't tell her I said that, by the way, I don't want to spend another night outside the cave."%%
 
 ---
 
@@ -1841,7 +1813,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 =============================================
 
-\>It was always something with this village, some little kid getting their hands on a zinogre pup.
+%darkgreen%\>It was always something with this village, some little kid getting their hands on a zinogre pup.
 \>Didn't matter how they acquired it, each one always ended up the same. As a gigantic beast that was just too wild to keep around.
 \>In their pup stage they were seemingly harmless. Tons of fun to play with and at worst giving off a little static shock by accident. 
 \>But as time passed and they grew larger, it became harder and harder to keep them tamed.
@@ -1855,7 +1827,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>The researcher was stumped by the beast's consistent nature. Why didn't it turn monstrous like the others? He spent countless days on research but couldn't find a definite answer. Whatever the case he was still glad things turned out better this time.
 \>As word spread about the researcher's success the village soon accepted the zinogre into their ranks like any other normal pet. For a beast its size it knew how to control the lumbering power within and move around the village gracefully. Fear of it destroying the place dissipated over time and the villagers eased up.
 \>It also proved to be very useful at times. From warding off rogue adult monsters who battered the village while hunters were gone to providing fast transport for the village doctor when a serious injury occurred far away from home. Everyone was glad the zinogre was around to help.
-\>And the friendly beast did its best to always give back to the community. Usually by dazzling everyone at night with a wonderful lightshow of sparks and excitement before resting in the town square. It was now the village's mascot and protector, guarding the people who were kind enough to give it another chance.
+\>And the friendly beast did its best to always give back to the community. Usually by dazzling everyone at night with a wonderful lightshow of sparks and excitement before resting in the town square. It was now the village's mascot and protector, guarding the people who were kind enough to give it another chance.%%
 
 ---
 ###*MULTIPLE/MISCELLANEOUS*
@@ -1865,9 +1837,9 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 ####*Velkhana/Namielle*
 
 >I'm pretty sure the moment Nami gets in the pool, she'll end absorbing all of it and getting stuck due to her new size
->I pray for the poor soul got in before she yelled 'CANONBALL!' 
+>I pray for the poor soul got in before she yelled 'CANNONBALL!' 
 
-\>"Ms. Elle, we need to talk."
+%darkgreen%\>"Ms. Elle, we need to talk."
 \>"Ever since we brought you into our little family, our water bills have nearly quadrupled."
 \>"Not only are your frequent visits to the water cooler cutting into you work time, your...'absorptive qualities' are proving expensive as well."
 \>"To put it frankly, Ms. Elle, these various incidents have become a nuisance. The effects that water seems to have on your figure, not to mention your strange tendency to splash it over your office clothes and leave NOTHING to the imagination, is distracting your male coworkers, reducing productivity across the board."
@@ -1875,13 +1847,13 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>"The poor soul has only just begun his long road of therapy and recovery from it. He still repeats the phrase 'thicker than a bowl of oatmeal' regularly, whatever THAT means..."
 \>"Yes, yes, I'm aware that due to your...genetics, you need regular rehydration more than others. But nonetheless, I'm afraid I'm going to have to suspend your pool privileges and limit water cooler breaks to your lunch hour until you learn to control yourself."
 \>"Need I also remind you, Ms. Elle, that your 'streamer tag' of 'wet4hunterz69' also reflects poorly on our company name?"
-\>"It's recently come to my attention that you have a certain aversion to a particular product of ours...namely, Goldhorn BosomBoost and it's rather 'amplified' effect on you. If you require a lesson on NOT using your work computer when dealing with your little side-hobby, I'm certain Ms. Kulve would be able to find time in her busy schedule to assist with that..."!'
+\>"It's recently come to my attention that you have a certain aversion to a particular product of ours...namely, Goldhorn BosomBoost and it's rather 'amplified' effect on you. If you require a lesson on NOT using your work computer when dealing with your little side-hobby, I'm certain Ms. Kulve would be able to find time in her busy schedule to assist with that..."!'%%
 
 =============================================
 
 ####*Velkhana/Malzeno*
 
-\>velk is looking to move after getting bored of the hoarfrost reach (and annoyed by the constant screaming)
+%darkgreen%\>velk is looking to move after getting bored of the hoarfrost reach (and annoyed by the constant screaming)
 \>sees an ad for some snowy mountain region land for sale, perfect for somebody like her
 \>also has some old castle ruins nearby which probably explains the low price but she isn't too worried about it
 \>the move goes great and velk gets settled in just fine
@@ -1900,11 +1872,11 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>the horde of qurio bugs attached to malzeno's neck all flutter in response to his statement
 \>velk finally notices them and almost screams
 \>"Eww! So YOU'RE the one who gave me those. Get away from me you disgusting slob!"
-\>she slams the door shut on him and freezes it over with an ice blast for good measure 
+\>she slams the door shut on him and freezes it over with an ice blast for good measure %%
 
 =============================================
 
-\>velkhana moves in to the icy part of the citadel
+%darkgreen%\>velkhana moves in to the icy part of the citadel
 \>malzeno does everything he can to kill her so he can suck up that delicious dragon energy
 \>sending over a horde of quiro while she was asleep didn't work, her icy armor was too thick and cold for the bugs to pierce
 \>malzeno, being the clever dragon he is, decides to invite her over to the castle for dinner and hatches a plan to kill her there
@@ -1935,7 +1907,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>the music finally stops and velk lets go of malzeno's hand before giving him an icy kiss
 \>"Well, it's getting late. Thanks for inviting me over, I had a lot of fun tonight," she says
 \>"Y-Y-Y-Y-Y-Yes..." he stutters as her cold aura sends a chill down his spine
-\>as velkhana walks away she speaks up again: "You should really do something about that piano. It's dangerous to leave it hanging up like that."
+\>as velkhana walks away she speaks up again: "You should really do something about that piano. It's dangerous to leave it hanging up like that."%%
 
 =============================================
 
@@ -1943,21 +1915,21 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 >[God I wish I was Rathalos](https://desu-usergeneratedcontent.xyz/trash/image/1533/21/1533218958988.png)
 
-\>Imagine the SENSORY OVERLOAD of being mounted by a full-size Tigrex
+%darkgreen%\>Imagine the SENSORY OVERLOAD of being mounted by a full-size Tigrex
 \>Imagine the weight pressing down on you, teeth and hot breath on your neck, claws hooking around your hips while his warm scales scrape you all over
 \>the heavy, relentless thrusts pushing your whole body forward, trying to force his already-hilted shaft even deeper under your tail
 \>being brought to orgasm within seconds when his ridges start to flare inside you, barely able to moan over your own panting
 \>the sudden feeling of another heartbeat all through your lower half, a load being fired into you with enough force to knock a hunter to the ground
 \>imagine pulling your shivering body up from the dirt ten minutes later, still dazed when you walk past and casually flag your tail in his face
 \>looking back moments later to see that genital slit already spreading open, his shaft drooling white as it slides out, rapidly becoming erect
-\>realizing you only have seconds before that shaft is buried in you again, and this time it won't be over nearly as quickly as the last
+\>realizing you only have seconds before that shaft is buried in you again, and this time it won't be over nearly as quickly as the last%%
 
 =============================================
 
 ####*Tigrex/Barioth*
 
-\>[pic](https://desu-usergeneratedcontent.xyz/trash/image/1613/18/1613187984300.jpg)
-\>the "Au Naturale" movement is taking hold in the young adult generation of hybrids
+[\>pic](https://desu-usergeneratedcontent.xyz/trash/image/1613/18/1613187984300.jpg)
+%darkgreen%\>the "Au Naturale" movement is taking hold in the young adult generation of hybrids
 \>basically they forgo clothes and do all their business in public naked, as a show of getting closer and more in touch with their feral roots
 \>be checking the mail in front of your house one day when you hear a slight commotion coming from the house across the street from you
 \>a Tigrex lady, standing on the porch in her birthday suit for all the world to see, seems to be trying to encourage her Barioth friend to come out
@@ -1969,7 +1941,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>picrel is the final result
 \>you ask if Barioth is going to be ok, to which Tigrex guffaws again and states that "She'll be fine, she won't push her into anything she doesn't actually want."
 \>proven when she removes the headlock and Barioth doesn't immediately dash back inside her house, though she does make a bit of an attempt to cover her breasts, some blush still lingering
-\>hybrids these days...
+\>hybrids these days...%%
 
 =============================================
 
@@ -1981,7 +1953,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 >\>but it also contains materials that are not fit for human consumption
 >>Alternatively, she gives you fully edible Fatalis "eyes", then one day when you're nice and comfortable with them, switches it out with a real one in hopes that chomping down on it will basically speedrun one of those Fatalis transformations she's heard so much about on you. Then she'll finally be able to have that rough sex (rough, as in, bordering on actually fighting you) that she's always wanted.
 
-\>while you're on the ground screaming from having the very core of your humanity being rewritten on the fly she's furiously tearing at your pants to harvest you at the peak of your transformation.
+%darkgreen%\>while you're on the ground screaming from having the very core of your humanity being rewritten on the fly she's furiously tearing at your pants to harvest you at the peak of your transformation.
 \>you try to resist her but the elder dragon blood coursing through you is almost too much for your body to handle, you can feel your limbs seizing up preventing you from throwing her off.
 \>she's playfully straddling you and coaxing you on, practically begging for you to let it take you as you can feel your new scales enveloping you and sealing you in.
 \>your mind clouds as you can feel your body being pushed past its upper limits, the surge of dragonfire in your lungs begging to be released, the instinct to scratch and bite with your new claws and fangs, the fire in your soul shouting "breed!"
@@ -1991,7 +1963,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>with one last loud roar you let loose all the energy that has been boiling over inside you, scorching the ceiling and slightly distending her belly with your oozing manhood.
 \>feeling like a burned out matchstick your strength leaves you just as quickly as it came, your limbs turning to jelly as you flop down beside her, puffing and wheezing.
 \>before you completely black out, you catch one last glimpse of her cuddling up to you, giving you a peck on the jaw with her cool fangs. 
-\>"Thank you, My Love."
+\>"Thank you, My Love."%%
 
 =============================================
 
@@ -1999,7 +1971,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 
 >Astalos meeting Tobi for the first time and becoming friends! 
 
-\>Tobi is trotting around enjoying their day, taking in all the new smells, enjoying the soft sand off the coast of the jungle brush and the new birds that make him sneeze when you poke them.
+%darkgreen%\>Tobi is trotting around enjoying their day, taking in all the new smells, enjoying the soft sand off the coast of the jungle brush and the new birds that make him sneeze when you poke them.
 \>hiking along they're to busy enjoying the scenery to notice the obstacle in front of them, making full contact and startling the heck out of whatever they bumped into
 \>large pairs of green translucent wings unfurl and the air begins to crackle with neon lightning
 \>"alright, who's the runt that interrupted my preening?"
@@ -2019,7 +1991,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>"Stop. that. right now" they growl
 \>"OKAY BEST FRIEND" shouts Tobi, tail still wagging frantically
 \>"you're not going to give up, are you?" Astalos sighs
-\>"A FRIEND NEVER GIVES UP ON A FRIEND!"
+\>"A FRIEND NEVER GIVES UP ON A FRIEND!"%%
 
 =============================================
 
@@ -2028,7 +2000,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 >Haha, imagine being Pinkian and constantly being mistaken for Rathalos, or vice-versa.
 >>Vice versa sounds like comedy gold, Trapthalos fooling Astalos, Seregios, and hunters alike
 
-\>Be Seregios
+%darkgreen%\>Be Seregios
 \>Have a crush on this cute, sweet Pinkian that recently started appearing in the Everwoods
 \>Start trying to court her in the hopes of entering a relationship
 \>she accepts your advances
@@ -2038,7 +2010,7 @@ People would probably keep mistaking them for a monster, only to be surprised wh
 \>after watching the prettiest sunset in your lives from her nest, she turns to you and lays on her back, presenting herself to you
 \>with your thoughts racing like never before you simply decide to take the plunge, and lay on top of her, pressing your already rock-hard member against her slit, getting ready to penetrate it
 \>as soon as you enter you feel something else in there
-\>...uh oh
+\>...uh oh%%
 This is why you keep an eye out for any other sexually dimorphic characteristics in Raths instead of just going by color alone.
 
 =============================================
@@ -2050,7 +2022,7 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 >So you really CAN give a Tobi some Narga genes (though not to be an anthro taur)
 >>That's cool and all but can you give monsties some of YOUR genes?
 
-\>"Hmmmm That's is an interesting question partner." Navirou contemplates from your question
+%darkgreen%\>"Hmmmm That's is an interesting question partner." Navirou contemplates from your question
 \>Meanwhile your monstie is desperately trying to communicate to you on how you could put your genes inside a monster
 \>"I got it! I remember something that old lady from the island told on how you can do that!"
 \>Monstie perks up and gets excited on finally knowing she will finally get some rider D
@@ -2059,42 +2031,39 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 \>Your monstie has a hollow look on her face as she sees you to trying to put your dick on a sleeping monster
 \>That hollowness turns into a pit of void as she looks on the monster enjoying herself while you hump away with gusto
 \>Said pit turns into a mobius strip of pain when she hears that her you wanting to do it again because you want a good roll on the genes
-\>Looking down, she sees Navirou looking proudly on himself unknowingly getting the monstie cucked her out of her first time with her rider
-
-(I don't know why I wrote this.)
-
+\>Looking down, she sees Navirou looking proudly on himself unknowingly getting the monstie cucked her out of her first time with her rider%%
 
 \##################################################
 
 >\>I think helping monsters by being matchmakers for them is just as noble a cause as legalizing hunter-monster marriage
 
 "I want to help you find your special someone."
-\>The monster blankly stares at you with a thickening aura of dubiousness that slightly cracks your otherwise cheerful mood. As your mouth creaks open, you stifle the urge to reflexively snap back with a sarcastic retort.
+%darkgreen%\>The monster blankly stares at you with a thickening aura of dubiousness that slightly cracks your otherwise cheerful mood. As your mouth creaks open, you stifle the urge to reflexively snap back with a sarcastic retort.%%
 "I'm not a monster, but that doesn't mean I'm ignorant to what makes you, or them, tick. Would you prefer to find a living, breathing mate, or does your ongoing affair with that oddly worn-down rock you keep conveniently close to your nest trump any desire of seeking out a more meaningful relationship?"
-\>You tried.
-\>A garbled noise escapes your acquaintance, visible chagrin and indignation producing an unusually strident whine that has no business coming from such a rough-and-tough monster. They quickly recover from the loss of face, growling in wordless, yet fully intelligible conversation while staring daggers at you. That you haven't immediately been sent scurrying away with a minor bruise or two is a miracle, although the errant flicks of their tail has not gone unnoticed. Loath to endure another "gentle" beatdown this week, you hastily follow up.
+%darkgreen%\>You tried.
+\>A garbled noise escapes your acquaintance, visible chagrin and indignation producing an unusually strident whine that has no business coming from such a rough-and-tough monster. They quickly recover from the loss of face, growling in wordless, yet fully intelligible conversation while staring daggers at you. That you haven't immediately been sent scurrying away with a minor bruise or two is a miracle, although the errant flicks of their tail has not gone unnoticed. Loath to endure another "gentle" beatdown this week, you hastily follow up.%%
 "Look, I'm not here to judge, I'm here to play matchmaker. Help you find your dream guy, or gal! Whichever works."
-\>Be it from their own doing or your sweetened words, a steely glare slowly softens, eyes wandering in thought while you warily eye the telltale tail – every so often, their gaze meets yours, to which you smirk and waggle your eyebrows.
-\>You're unsure of how much time passes, but after yet another glance down towards you, you catch an unmistakable eye roll as they murmur to themselves, and you can't help but grin at their actions. Never direct, this one.
+%darkgreen%\>Be it from their own doing or your sweetened words, a steely glare slowly softens, eyes wandering in thought while you warily eye the telltale tail – every so often, their gaze meets yours, to which you smirk and waggle your eyebrows.
+\>You're unsure of how much time passes, but after yet another glance down towards you, you catch an unmistakable eye roll as they murmur to themselves, and you can't help but grin at their actions. Never direct, this one.%%
 "I'm not hearing a 'no'..."
-\>Muzzle pursed tight, a loud huff is the only response, their blatant refusal to make eye contact only fueling the shit-eating grin spreading across your face. If that isn't a go-ahead, you don't what is.
+%darkgreen%\>Muzzle pursed tight, a loud huff is the only response, their blatant refusal to make eye contact only fueling the shit-eating grin spreading across your face. If that isn't a go-ahead, you don't what is.%%
 "Great! Consider me the ultimate wingman!... No it's not literal, it's – stop giving me that look, okay?... You don't have to be looking at me to give me a look – IT'S NOT LITERAL."
 
 \##################################################
 
-\>Private Journal Entry #29, three days(?) after the experiment
+%darkgreen%\>Private Journal Entry #29, three days(?) after the experiment
 \>It finally worked! At least, I think it did. After countless hours of research and gathering of the rarest materials in the land my time machine worked! But alas, my excitement got to the best of me. Failing to properly calibrate the machine before performing such a long jump through time might have created my own demise.
 \>I don't know how many years I jumped ahead, but it is most certainly far beyond my estimates. This world I'm in is so foreign, so alien that I'm afraid I might have moved through more than just time itself.
 \>The inhabitants of this era have created marvels that surpass the greatest achievements from our time. Buildings made of steel rising into the heavens, machines that fly through the air with speeds rivaling that of a Valstrax, and tiny handheld devices that somehow do just about anything you could ask. It is almost paradise.
 \>Almost, except for the fact that everyone here is a fucking hybrid! I have not seen one human or wyverian since my arrival. I fear they may have been eradicated long ago, not through conflict but from being unable to keep up with the monstrous expansion of the hybrid population.
 \>Luckily I have managed to conceal myself beneath the shadows of their own constructions. A dark cloak is the only thing that covers my naked form. As long as I keep to myself nobody notices, only spending as much time as I need out in public. Who knows what may happen if I get caught? My priorities now are staying alive and finding someplace to set up a base of operations. I spotted an abandoned building near the coast a while back so hopefully—
 \>["Hey mister, you alright?"](https://test.desu-usergeneratedcontent.xyz/trash/image/1539/46/1539466353437.png)
-\>Shit, one of them is on to me. I got to get out of here...
+\>Shit, one of them is on to me. I got to get out of here...%%
 
-\>Entry #29, addendum
+%darkgreen%\>Entry #29, addendum
 \>Managed to escape that mizutsune hybrid, she (or he, I couldn't tell) was very persistent and started asking all these intrusive questions like what's wrong, what's my name, and if I needed a place to stay for the night and wash up. I kept my head down and stayed under the cloak I was wearing. I don't think they saw what I looked like.
 \>They kept offering to let me use their washroom for whatever reason. Maybe I smelt really bad, or maybe it was something to do with them being a mizutsune. Who knows with hybrids.
-\>After mumbling a few words at them to leave they finally walked away. I really don't know why I engaged in conversation with them in the first place. Got to stay focused. Find a place to set up shop and hopefully recreate the machine to get back home before this turns into my new home.
+\>After mumbling a few words at them to leave they finally walked away. I really don't know why I engaged in conversation with them in the first place. Got to stay focused. Find a place to set up shop and hopefully recreate the machine to get back home before this turns into my new home.%%
 
 \##################################################
 
@@ -2102,16 +2071,16 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 
 >My ideal monster is a cute, tender, caring lover who is also fully capable and willing to go out and hunt for food with her jaws and claws.
 
-\>You're out on a hunt with your big, beautiful monster.
+%darkgreen%\>You're out on a hunt with your big, beautiful monster.
 \>You've been tracking your prey for what feels like hours.
 \>You're hot, sweaty, and nervous.
-\>Your monster love on the other hand...
+\>Your monster love on the other hand...%%
 "Hunter, dear! Do you think these flowers would look good in the garden?"
-\>She's brazenly stomping about without a care in the world.
+%darkgreen%\>She's brazenly stomping about without a care in the world.
 \>She literally stops to smell the flowers.
-\>She's probably already alerted your prey to your presence.
+\>She's probably already alerted your prey to your presence.%%
 "Hunter, darling?"
-\>You're about to admonish her, to tell her to keep it down.
+%darkgreen%\>You're about to admonish her, to tell her to keep it down.
 \>When a twig snaps behind you.
 \>You whirl, drawing your weapon.
 \>It's lunging for you, claws outstretched, slavering jaws open.
@@ -2123,27 +2092,27 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 \>You catch the briefest glimpse of flailing legs and a squirming tail.
 \>Then she swallows, and your would-be assailant is gone.
 \>A fat bulge working its way down her throat.
-\>Lowering her head, she licks her chops clean.
+\>Lowering her head, she licks her chops clean.%%
 "Mmm. You always take me to the best places. The food here is to die for!"
-\>With your safety secured for the moment, she turns and strides away.
-\>Smiling and humming to herself, tail and hips swaying.
+%darkgreen%\>With your safety secured for the moment, she turns and strides away.
+\>Smiling and humming to herself, tail and hips swaying.%%
 
 \##################################################
 
 >[It's Penis Inspection Day, hunters!](https://desu-usergeneratedcontent.xyz/trash/image/1584/13/1584139995605.jpg)
 
-\>recently arrived in the New World
+%darkgreen%\>recently arrived in the New World
 \>start seeing flyers for mandatory Penis Inspection Day in Astera
 \>seems a little strange but health is important to maintain when you don't have access to the mainland, after all
 \>the "doctor" is just a poorly disguised, huge wyvern
 \>no one else seems to notice for some reason
 \>not even when the "doctor" keeps fumbling their tools (which really just look like some sticks they picked up off the ground)
 \>or squirms with excitement, blushing madly when they think no one is watching (everyone is, they can't exactly hide when they're that big)
-\>the fact that they're taking pictures as well seems like it violates patient confidentiality too...
+\>the fact that they're taking pictures as well seems like it violates patient confidentiality too...%%
 
 \##################################################
 
-\>slowly get to know a solitary monster
+%darkgreen%\>slowly get to know a solitary monster
 \>they're so unaccustomed to friendliness due to constant turf wars that it takes ages to even approach them safely
 \>eventually gain enough of their trust to visit them at their home/den, and talk calmly with them about things, even if they can't respond in turn
 \>eventually get to know each other well enough that through body language you can communicate crudely with each other, as you're both intelligent beings
@@ -2157,14 +2126,14 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 \>the desperate neediness and pure bliss combined in their eyes as you work to pleasure them in ways they never could on their own
 \>the feeling of the two of you locked together as one as they climax to your touch
 \>their ragged and strained breathing, letting loose everything they have in that moment
-\>the soft afterglow as you lay together, knowing that life is just perfect as long as you're with each other, not exchanging any words in the moment and not needing to
+\>the soft afterglow as you lay together, knowing that life is just perfect as long as you're with each other, not exchanging any words in the moment and not needing to%%
 
 \##################################################
 
 >\>[“I’m sorry, did you read the quest posting? Didn’t think so. Now hold still, I want to see if my cum will sizzle when I get it on your tits.”](https://desu-usergeneratedcontent.xyz/trash/image/1646/07/1646079170710.jpg)
 >>With Hybrids and rampant monster fucking being a thing in /trash/'s version of the monster hunter universe, quests like that probably would unironically be a thing
 
-\>when good ol' hunting eventually stops being the primary method of dealing with unruly monsters and wild hybrids getting a bit too big for their (lack of) britches, quests to see what kind of effect certain sexual acts will have on certain monsters become commonplace
+%darkgreen%\>when good ol' hunting eventually stops being the primary method of dealing with unruly monsters and wild hybrids getting a bit too big for their (lack of) britches, quests to see what kind of effect certain sexual acts will have on certain monsters become commonplace
 \>like if cumming on a Lavasioth hybrid's tits will make it sizzle
 \>or if doing the same on a feral Velkhana's ice mask will cause it to freeze and "add" to it's design (be sure to take detailed notes on how unamused/pissed she gets!)
 \>or if fucking one of the Great bird wyverns will actually cause them to lose status within their pack
@@ -2172,7 +2141,7 @@ This is why you keep an eye out for any other sexually dimorphic characteristics
 \>like Legiana needing a male hunter/hybrid's services, to test if she can make them cum just by screaming at their dick loudly enough
 \>or a really big monster like Lao Shan wanting to be taught how to safely have sex with a smaller hunter/hybrid without accidentally crushing them
 \>or a sweet but nervous Cham hybrid girl, wanting to know more about hunter society (particularly the inside of their homes) but too mild-mannered to ever try and sneak in invisibly without spilling her spaghetti
-\>...that last one you're still working on, because you ended up losing track of her halfway through the "tour" of your own house and now you can't find her
+\>...that last one you're still working on, because you ended up losing track of her halfway through the "tour" of your own house and now you can't find her%%
 
 \##################################################
 
@@ -2191,16 +2160,16 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 
 >need a monster hunter game with a story about some evil force that wants to turn everybody into monsters 
 
-\>new location, new research team. but the people around the hub area all seem a bit shady, their enthusiasm over monster tends to come off a bit extreme at times.
+%darkgreen%\>new location, new research team. but the people around the hub area all seem a bit shady, their enthusiasm over monster tends to come off a bit extreme at times.
 \>while advancing from low rank to high rank you notice that with every new monster appearance the hub starts to get a little less populated each time
 \>wild monsters out on the areas are more panicked and erratic than usual, like a rathalos thats struggling to fly, a nargacuga that keeps howling at its reflection in a puddle, a lagiacrus thats having trouble swimming in shallow water.
 \>torn clothes and destroyed gear everywhere, snapped swords and bows with torn drawstrings piled up too
 \>while you were moving to capture a monster that is making odd roaring noises at you, you suddenly get blindsided by a stray bowgun shot
 \>your cat is no where to be found, your vision is blurry, your armor feels tigher than usual, its hard to breathe and there is some kind of vial wedged in your arm
 \>Obtained "Soul of a Powerful Monster: 25,000pts"
-\>while the Hunt Failed splash screen fades out you catch a glimpse of your character horrifically exploding out of their armor while their new form aggressively takes hold of them
+\>while the Hunt Failed splash screen fades out you catch a glimpse of your character horrifically exploding out of their armor while their new form aggressively takes hold of them%%
 
-\>have to make a completely new character for high rank
+%darkgreen%\>have to make a completely new character for high rank
 \>game continues completely normal as if nothing ever happened
 \>near the end get a request for a very strange capture quest
 \>encounter the monster, they act very twitchy and tend to run away a lot, almost ignoring you sometimes as if they're looking for something
@@ -2211,25 +2180,25 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>as you attempt to chase after the assailant the monster starts thrashing around
 \>it's clearly unwell and whatever was inside that bowgun shot is not settling well with their system
 \>report back with the captured monsters, researchers say it'll take a while to figure out what exactly is wrong
-\>meanwhile get a bunch of quests where you follow the trail of chaos left by the mysterious bowgun user
+\>meanwhile get a bunch of quests where you follow the trail of chaos left by the mysterious bowgun user%%
 
 \##################################################
 
 >[>Quest failed because you failed to see her tits in their entirety](https://desu-usergeneratedcontent.xyz/trash/image/1618/70/1618701988351.jpg)
 >These hunt board postings are getting weird... 
 
-\>Notice how all these quests say "lay" the monster?
+%darkgreen%\>Notice how all these quests say "lay" the monster?
 \>What are you talking about? Let me see that quest— oh...
 \>What is it?
 \>Look closely, somebody painted over the "S" in "Slay."
-\>I wonder who could have done this.
+\>I wonder who could have done this.%%
 
-\>"Man, who's writing these postings these days? They write like they don't have any thumbs."
+%darkgreen%\>"Man, who's writing these postings these days? They write like they don't have any thumbs."
 \>"That a V. Ana posting? Yeah, I saw one of theirs too. Pays well but the objectives are so weird. Like, they're really flowery, like they belong in a novel or something. What's that one say?"
 \>'Tame the raging storm winds in the target's heart, that you might approach without fear and seal a true bond between hunter and nature.'
 \>somewhere in the wilds, a Kushala waits patiently, a patch of flowers gently secured between her claws
 \>she perks up when she sees a distant hunter riding his wingdrake into the locale
-\>nervously looks over to where a peculiar glasses-wearing Velkhana is hiding, who gives them a thumbs-up as she readies the pen and paper she brought with her
+\>nervously looks over to where a peculiar glasses-wearing Velkhana is hiding, who gives them a thumbs-up as she readies the pen and paper she brought with her%%
 
 \##################################################
 
@@ -2237,15 +2206,15 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 
 >"Guys? I got grab-attacked by a Malzeno the other day during a hunt and it's starting to itch really bad. Those stories about him actually being a vampire and all aren't real...right?"
 
-\>"you'll be fine, i wouldn't worry about it."
+%darkgreen%\>"you'll be fine, i wouldn't worry about it."
 \>"but while you're here and you still have your thumbs you're going to need to fill out these Change of Species forms to update your status"
 \>"you'll also have to re-apply for a new Hunter ID as well and pay the 250z processing fee"
 \>"i'm also required to inform you that if you decide to take up roost somewhere you'll need to file a proof of residence and territory claim form number 1064b"
 \>"and lastly if you wish to reproduce you and your mate need to register with the Reproduction and Egg Care department which is down the hall and to the right"
 \>"GRAWR?"
-\>"NEXT IN LINE PLEASE!"
+\>"NEXT IN LINE PLEASE!"%%
 
-\>the process of becoming a monster was surprisingly more bureaucratic than you were expecting
+%darkgreen%\>the process of becoming a monster was surprisingly more bureaucratic than you were expecting
 \>who knew the guild already had a system in place for what you thought was an extremely rare, almost supernatural experience?
 \>almost like they were expecting this sort of thing nowadays...
 \>the form you had to fill out even had nice big boxes to check so you wouldn't have to fiddle around with the quill too much with the growing claws on your fingers
@@ -2253,7 +2222,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>after finding what looked to be a nice roost for yourself (nice, as in, your developing monster instincts stopped keeping you annoyingly on-edge once you'd found and "claimed" it), you got to meet your "neighbors" that you were shocked to find were recently transformed hunters as well
 \>now that you could actually understand monsterspeak, they confirmed that their experiences were similar to yours
 \>a triple-carter Nargacuga even comfortingly informs you that life as a monster wasn't so bad, apart from occasionally having to duke it out with novice/oblivious hunters who weren't in on the guild's little "secret" yet
-\>and a carnal encounter Great Izuchi (half) jokingly states that mating season as a feral was one hell of a time if you wanted to take a spin on the wild side, giving you a snide grin and an elbow nudge as you grimace from the over-abundance of information
+\>and a carnal encounter Great Izuchi (half) jokingly states that mating season as a feral was one hell of a time if you wanted to take a spin on the wild side, giving you a snide grin and an elbow nudge as you grimace from the over-abundance of information%%
 
 \##################################################
 
@@ -2264,7 +2233,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 >>\>it's all you can do to get between the two of them and prevent an all-out battle erupting
 >>It's either that, or the two of you getting massively embarrassed because her family culturally has zero issue with bluntly asking when the two of you are planning to mate and have a clutch, to the pearl-clutching shock of your own.
 
-\>you've finally managed to get everyone to let go of the tension in the room
+%darkgreen%\>you've finally managed to get everyone to let go of the tension in the room
 \>the monsters are finally starting to pick up on human manners
 \>and your hunter family is slowly letting their guard down
 \>your Elder Dragon wife decides that in a gesture of good faith and to improve relations that she's going to announce that she's eggnant and that you and her are looking forward to starting a family together.
@@ -2279,21 +2248,21 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>"could be anywhere from 3 to 5 but the village doctor said she could carry upwards of 8" you respond sheepishly.
 \>"thats going to be a lot of birthdays, are you sure you're going to be ready for it?
 \>"i'll give it my best shot, but i wouldn't object to some help from a good babysitter"
-\>you both share a hearty chuckle as you take your wife's claw into your hand and hop on so you can both fly home.
+\>you both share a hearty chuckle as you take your wife's claw into your hand and hop on so you can both fly home.%%
 
 \##################################################
 
 >Would hybrids instinctively perform mating rituals related to their monster counterpart? Or maybe they're super surprised when a human gets interested in them even though they haven't shown off any display of courtship. 
 >>you would probably only see fancy displays and rituals during the height of mating season, while on the other side it would be funny to see your monster partners complete bewildered reaction when you try to explain to them that humans don't really have a season and are to some extent "in heat" all year around. and who knows, maybe you could have fun with it try to put some moves on your partner and see how it plays out, maybe wear some brightly colored clothes and flex in front of them with a feather duster on your head or something and see if they either bust out laughing or are too busy trying to tear off your pants.
 
-\>Y-You want to do it like... right now?
+%darkgreen%\>Y-You want to do it like... right now?
 \>Yes, you idiot! Why did you think I invited you over to help "clean your gear?"
 \>B-B-Because I thought you were being sincere about it! Besides, I-I don't think I could even do it now...
 \>Why, you a scaredy-cuga or something?
 \>It's not mating season yet.
-\>...
+\>...%%
 
-\>"wow you're really that much of a stickler for tradition huh?"
+%darkgreen%\>"wow you're really that much of a stickler for tradition huh?"
 \>"tradition? w-what, no. t-that doesn't have anything to do with this"
 \>"then why are you being so distant? can't you just bend the rules this one time?"
 \>"n-no what i mean is..i um. it's hard for monsters to get into the mood out of season"
@@ -2313,7 +2282,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>"it should be in about 3-4 weeks when the weather clears up, why do you ask?"
 \>"because when it does, i was thinking that maybe we could get a place down by the shore, craft a few energy drinks and maybe practice a few moves that arent exactly guild approved if you know what i mean"
 \>"y-yeah, that sounds nice but cant we just cuddle for now?"
-\>"yeah that's fine, now put all that gear down and bring that big scaly butt over here.."
+\>"yeah that's fine, now put all that gear down and bring that big scaly butt over here.."%%
 
 \##################################################
 
@@ -2325,15 +2294,15 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 >>>\>"Do not doubt my wisdom, young one. You will understand in time...heh heh heh..."
 
 
-\>"[Mr. Almudron](https://desu-usergeneratedcontent.xyz/trash/image/1643/77/1643777909025.jpg), I'm a representative from the Guild. Your dojo has done a great job with providing us capable candidates for new hybrid hunters. At least, for the most part."
+[\>"Mr. Almudron](https://desu-usergeneratedcontent.xyz/trash/image/1643/77/1643777909025.jpg)%darkgreen%, I'm a representative from the Guild. Your dojo has done a great job with providing us capable candidates for new hybrid hunters. At least, for the most part."
 \>"You see... recently we've been noticing a somewhat disturbing trend surrounding your graduates. Graduates that 9 times out of 10 apply to become a hunter immediately once they're free of your clutches. Usually this isn't a problem and we'll welcome any new applicants willing to prove their mettle."
 \>"But this is where the disturbing trend comes in. They're mostly female and barely scratch the surface of meeting our requirements. Some of them are so voluptuous they can't even wield most hunter weapons properly! Now the Guild doesn't discriminate against any applicant's gender or build, but the trend here is clear. These recent graduates of yours are not hunter material."
 \>"I really don't know what happened but your standards have obviously plummeted in the past few months. Your dojo is not the pristine training grounds that it once was. I recommend you try and remedy this troubling trend or else you'll lose the Guild's certification. And that means losing all the benefits that come with it."
-\>"Also, some of the comments we've received from your graduates are somewhat audacious if you ask me. Get your dojo back into gear or else you might be facing accusations from the Guild that would do more than revoke our little stamp of approval."
+\>"Also, some of the comments we've received from your graduates are somewhat audacious if you ask me. Get your dojo back into gear or else you might be facing accusations from the Guild that would do more than revoke our little stamp of approval."%%
 
 \##################################################
 
-\>"Honey, what's this I've been hearing about you turning over the village's food caravans?"
+%darkgreen%\>"Honey, what's this I've been hearing about you turning over the village's food caravans?"
 \>"Grr, grarr!"
 \>"You're perfectly capable of hunting your own food, I taught you myself for Gog's sake!"
 \>"GAAARR, GROAAAR!"
@@ -2342,13 +2311,13 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>"Don't you get snippy with ME, young lady! I might be a tenth of your size but you're not too big for me to give you a good wallop!"
 \>"Squeak! Whimper..."
 \>"*Sigh* I'm not mad, I'm just...disappointed. C'mon, this village practically helped raise you, remember? Just go easy on them, ok? That's all I'm asking."
-\>"...And while you're at it, put on that bra I had made for you! [You might be more monster than hunter](https://desu-usergeneratedcontent.xyz/trash/image/1678/66/1678668912886.png), but I'm not having my own daughter running around with her beachballs hanging out like those hybrid handlers...ESPECIALLY in front of all the other horndog hunters!"
+\>"...And while you're at it, put on that bra I had made for you!%% [You might be more monster than hunter](https://desu-usergeneratedcontent.xyz/trash/image/1678/66/1678668912886.png)%darkgreen%, but I'm not having my own daughter running around with her beachballs hanging out like those hybrid handlers...ESPECIALLY in front of all the other horndog hunters!"%%
 
 \##################################################
 
 >\>Are you willing to cuddle 24 hours a day, seven days a week? You barely say goodbye to one monster before the next swoops in for another lengthy endeavor! There's no break, no reprieve. Just an endless stream of snuggle sessions! And if you cry for rest, now you have to deal with an offended monster. Is this the world you want?
 
-\>draw the short straw and get assigned as this years “designated monster snuggler” 
+%darkgreen%\>draw the short straw and get assigned as this years “designated monster snuggler” 
 \>you report to the “snuggle station” which is a heavily fortified and “monster proof” shack (your new living quarters) beside a very large gazebo (the snuggle zone) in the middle of the jungle 
 \>as you approach and get closer you see what looks like a very, VERY long line of monsters waiting impatiently in front of the large gazebo
 \>you see all kinds of monsters in the line; flying wyverns, brute wyverns, leviathans, amphibians, birds, beasts, and a surprisingly high amount of elder dragons
@@ -2361,7 +2330,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>unsurprisingly this enrages the other monsters, some of whom have been waiting quite some time for their turn 
 \>all out brawl ensues, and you are dropped by the kushala
 \>take the opportunity to scramble away and lock yourself in the “monster proof” shack 
-\>after gorging on some much needed rations and chugging multiple health potions you fall asleep, dreading the fact that you will have to do it all again tomorrow.
+\>after gorging on some much needed rations and chugging multiple health potions you fall asleep, dreading the fact that you will have to do it all again tomorrow.%%
 
 \##################################################
 
@@ -2375,7 +2344,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 >>>\>Gog help you if a /high profile customer/ drops in like an Amatsu or Malzeno and singles you out for services 
 >>>\>At least the tips are good, though some are occasionally a little *too* generous with what they leave behind for the little man trying his best
 
-\>working in a swimwear shop for hybrid monsters
+%darkgreen%\>working in a swimwear shop for hybrid monsters
 \>a tall, golden ebony goddess of a Kulve lady comes up to you and practically shoves her weighty breasts in your face
 \>"Excuse me, sweetie, does this make my chest look big?"
 \>your brain proceeds to short-circuit
@@ -2392,27 +2361,27 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>"Can it, you hag! I've been waiting for an HOUR for him to finish up with the Safi bitch that was just in here! Wait your damn turn!"
 \>"Well MAYBE he'd be more keen on helping actually POLITE customers..."
 \>their argument devolves into threatening hisses and reeing as they rapidly approach a turf war in the middle of the store
-\>you just decide to stay in cover behind the display of brightly colored digitigrade flip-flops and mentally go over some new job prospects, while simultaneously preparing for the cleanup job when the shop inevitably gets judged
+\>you just decide to stay in cover behind the display of brightly colored digitigrade flip-flops and mentally go over some new job prospects, while simultaneously preparing for the cleanup job when the shop inevitably gets judged%%
 
 \##################################################
 
 **%red%{Transformation}%%
 
-\>be a very unfortunate hunter who gets hurt way too much when fighting monsters but always manages to complete each hunt
+%darkgreen%\>be a very unfortunate hunter who gets hurt way too much when fighting monsters but always manages to complete each hunt
 \>due to these constant injures, every time you finish healing there's something different about you
 \>yellow scales on your chest from the tigrex who headbutted you, a legiana eye under the scar on your face from one close talon swipe, red muscular thighs from an odogaron swipe, and now a currently growing rathalos tail out from your rear end, just to name a few
 \>practically a smorgasbord of monsters at this point
 \>your handler probably would have been jealous of the monster encyclopedia that made your body, had she not ran off in fear a while ago 
-\>when they first told you that what doesn't kill you makes you stronger, you didn't think they meant it literally
+\>when they first told you that what doesn't kill you makes you stronger, you didn't think they meant it literally%%
 
-\>all the monster parts start messing with your head and affecting your behavior
+%darkgreen%\>all the monster parts start messing with your head and affecting your behavior
 \>eventually start spending your time stalking around the familiar terrain near the village like a monster surveying it's territory
 \>still get into plenty of scraps with other monsters trying to encroach on your "turf"
 \>the encounters only serve to change you further, causing your formerly human body to bulge with muscle, grow scales, shift in stance
 \>until you're hunched over to balance out the tail that grows a little thicker, longer, and heavier with each encounter, like a cruel tally of your progress
 \>by this point you're well beyond caring that you're too big and covered in jagged scales to fit into your clothes anymore, so you just go at it naked, a few weather-beaten tatters of your old life still clinging desperately to the spikes growing from your back
 \>villagers are almost too afraid to leave, terrified as they are of the chimera monster stalking the lands around their home
-\>yet at the same time, grateful for the deterrent against any monsters seeking to encroach upon the village
+\>yet at the same time, grateful for the deterrent against any monsters seeking to encroach upon the village%%
 
 \##################################################
 
@@ -2424,12 +2393,12 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 >all those poor monsters who can't fly or swim anymore due to their huge badonkadonks
 >we gotta think about the environment people!
 
-\>aquatic monsters who helplessly splash on the surface of the water because their boobs make them too buoyant to dive underwater now
+%darkgreen%\>aquatic monsters who helplessly splash on the surface of the water because their boobs make them too buoyant to dive underwater now
 \>flying monsters grounded because they weight too much to get off the ground now (Valstrax is in SHAMBLES)
 \>meanwhile Kulve is counting her gold and doing her best evil laugh from her new HQ in Malzeno's castle
-\>while the former Baroness is now a prisoner in her own castle dungeon, after her blood wine was mysteriously spiked with a massive dose of Xtra-strength Bosomeboost, causing her to suddenly grow such huge bazongas that she couldn't move under her own power anymore and became helpless to resist the hostile takeover
+\>while the former Baroness is now a prisoner in her own castle dungeon, after her blood wine was mysteriously spiked with a massive dose of Xtra-strength Bosomeboost, causing her to suddenly grow such huge bazongas that she couldn't move under her own power anymore and became helpless to resist the hostile takeover%%
 
-\>The guild cant make heads or tails of the situation
+%darkgreen%\>The guild cant make heads or tails of the situation
 \>Monsters suddenly appear with these hefty mutations and many of them are so encumbered that they dont pose much of a threat
 \>Most monsters just seem....annoyed or even depressed about these turn of events
 \>Normally that would be a benefit since you dont have the disturbances that come with their presence, but the monsters also act as a balancing mechanism to other organisms in the wild
@@ -2438,7 +2407,7 @@ Feeling a massive blush creep up on your face when it sinks in who they had in m
 \>While it cant undo the "mutations", you can at least alleviate the encumbered monsters of their......excess extract and bring it back for further study
 \>They can easily send out some hunters or surveyors to test the end results if it works out
 \>Hopefully they can find the cause of this epidemic, but for now, helping the monsters is even more important than just hunting them
-\>You are a Monster Milker
+\>You are a Monster Milker%%
 
 PS: The Guild recommends NOT drinking Monster Extracts harvested from this process if successfully acquired from the designated target(s). The results of such consumption are not fully understood or documented and the Guild cannot take any responsibility for what comes of such an act
 

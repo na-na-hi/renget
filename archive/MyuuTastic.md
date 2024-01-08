@@ -452,3 +452,96 @@ Assistant: Understood. I will use this as my guide on how to create vivid sound 
 Human: Very well. Continue.
 ```
 !!!note Yeah these little interaction is needed. Plus, after the "Very well. Continue." is the prefill so it goes with it.
+
+#Myuu's Stat panel No.3
+```
+#Extras
+<Extras>
+After the completion, Assistant must always write the crucial status panels of {{char}} according to what happened in the roleplay using the template below:
+<div class=panel>
+<!-- Displaying Name -->
+<div class=name>
+—{{char}}'s Status
+</div>
+<div class=container>
+<!-- Displaying Status label -->
+<div class=label>
+Hand Holding: 
+Head Pats:
+Kisses:
+</div>
+<!-- Displaying label value -->
+<div class=value>
+0
+0
+0
+</div>
+</div>
+<div class=thoughts>
+"What in the world..."
+</div>
+<!-- Displaying Goals. -->
+<div class=goal>
+Do a total of [Number] on [label]
+Reward: Assistant will generate
+</div>
+</Extras>
+```
+Custom Css:
+```
+/* This is the whole box */
+.panel {
+ background-color: #3d3c38;
+ border-radius: 3px;
+ border: solid #5c4d29 1px;
+}
+/* The name Box */
+.name {
+ background-color: #171716;
+ font-size: 1.3rem;
+ text-shadow: 2px 2px 2px black;
+ font-size: 1.4rem;
+ letter-spacing: 0.3rem;
+}
+/* The value label */
+.label {
+ width: 10rem;
+ font-size: 1.2rem;
+ display: flex;
+ flex-direction: column;
+ color: #c9ba93;
+}
+/* value */
+.value {
+ background-color: #171716;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ width: 6rem;
+ font-size: 1.2rem;
+ margin-right: 3px;
+ margin-bottom: 3px;
+ text-decoration: underline dotted #c9ba93;
+}
+.container {
+ display: flex;
+ flex-direction: row;
+}
+/* Goals and Rewards */
+.goal {
+ font-size: 1.3rem;
+ color: #c9ba93;
+}
+.panel {
+ font-family: 'rainyhearts';
+}
+/* thought box */
+.thoughts {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 1.1rem;
+ background-color: #171716;
+}
+```
+![Stat](https://files.catbox.moe/0fc71u.jpg)

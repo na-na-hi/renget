@@ -24,30 +24,58 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 Page 1
 ***
 ```
+>What is this?
+Demon Eyes is a modern setting where the make-believe delusions of kids and young adults alike manifest into actual demon hunting powers. How it works is that a demon living inside you can give you powers at the cost of impacting your normal life with sin.
+>Rules?
+You can pick other builds as companions rather than choosing from the pre-made list.
+
 >Wrath
 Mari Aozaki
 >>91469537
+Eiyu Isamu
+>>91483132
+
+>Greed
+Naoki Arai
+>>91483248
+
 >Gluttony
 Akari Ichioka
 >>91457359
+Lem
+>>91483342
+
 >Lust
 Hinako Shimeki
 >>91458663
 Yoru Heinard
 >>91471625
+Sezāru Ishiku
+>>91482768
+
 >Sloth
-Amaryllis
+Amane Shiozaki
 >>91473931
+
 >Pride
 Yoji Ryoshi
 >>91458024
-Kuro Mithran
+Mithran Kuro
 >>91469897
+Haruhi Oohara
+>>91482203
 
+>Envy
+Aki Hitoyoshi
+>>91481964
+Jace Abraxon
+>>91483191
 
 >Writefags
 Chance Encounter (Yoji Ryoshi, Akari Ichioka)
 https://rentry.org/5uap6
+He Was Never Booksmart (Aki Hitoyoshi, Amane Shiozaki)
+https://rentry.org/t38ri
 ```
 
 #Chinese Warlord (Arena)
@@ -414,8 +442,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
-https://rentry.org/acnw3
+>1-D Character Summary
+https://rentry.org/9bf3g
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -431,6 +459,8 @@ https://pastebin.com/Qr3TtGa6
 https://archive.4plebs.org/tg/thread/88693730/#88693888
 >Class 1-D Timeline (Edit code: MHATL)
 https://rentry.org/okym8
+>Class 1-D Character Summary
+https://rentry.org/9bf3g
 ```
 ***
 Page 2

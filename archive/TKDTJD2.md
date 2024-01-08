@@ -1066,3 +1066,220 @@ https://nitter.net/AryJeay/status/1743757756232864189#m  1/6/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1743750331387760963#m  1/6/24
+
+>🚨 N14 correspondent: Several launches toward the [occupied] Golan Heights area.
+https://nitter.net/AryJeay/status/1743982088557056198#m  1/7/24
+
+>The video of the ambush conducted in Jenin by Saraya Al-Quds - Jenin Batallion was posted with the following statement:
+https://nitter.net/IbnRiad/status/1743943735895863307#m  1/7/24
+
+>The aftermath of the targeted military vehicle in Jenin. The explosive device wounding 4 israeli security forces, 2 of whom are in serious condition.
+https://nitter.net/AryJeay/status/1743875794525470808#m  1/7/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published scenes showing the destruction of a troop carrier (APC), a short while ago, in the Maghazi camp in the central Gaza Strip.
+https://nitter.net/AryJeay/status/1743929216016482722#m  1/7/24
+
+>Chinese shipping company Cosco stops deliveries to the israeli occupation over Red Sea situation
+Cosco launched last year new shipping route to Eilat, to bring Chinese vehicles to “israel,” which was previously dominated by ZIM
+
+Chinese EVs have 70% of israeli market share
+https://nitter.net/EyesOnSouth1/status/1743954096485281899#m  1/7/24
+
+>Political analyst Marwan Bishara comments on the targeting of journalists in Gaza by Israeli forces.
+https://nitter.1d4.us/QudsNen/status/1743988886571729223#m  1/7/24
+
+>reaking | The spokesperson for the Ministry of Health in Gaza reported that, in the past 24 hours, Israeli  forces committed 12 massacres, resulting in killing 113 and 250 injuries.
+https://nitter.1d4.us/QudsNen/status/1743960673564987815#m  1/7/24
+
+>In each country, there's a local story of why you should support Israel. These stories are agreed upon on the governmental level with Israel, then shared in media and social influencers.
+
+In Greece, Israel is your friend because it will help you fight Turkey
+
+In Nigeria, Israel is your friend because it fights Muslims 
+
+In India, Israel is your friend because it fights Muslims
+
+In Europe, Israel is your friend because it fights Muslims 
+
+In the Arab world, Israel is your friend because it fights Iran 
+
+And so on...
+https://nitter.net/ME_Observer_/status/1743979684008730668#m  1/7/24
+
+>Misbar just finished investigating this story. 
+
+It's not real. 
+
+Post will be deleted.
+https://nitter.net/ME_Observer_/status/1743970848984154371#m  1/7/24
+
+>Protest in the Danish capital, Copenhagen, expressing solidarity with Palestine.
+https://nitter.1d4.us/QudsNen/status/1744002803884753334#m  1/7/24
+
+>Scenes from the location where an Israeli airstrike killed 2 journalists including Hamza Dahdouh.
+Israel had killed the mother and siblings of journalist Hamza, who works for Al Jazeera.
+
+https://nitter.1d4.us/QudsNen/status/1743936956688392474#m  1/7/24
+
+>⚡️ Visegrad, a Zionist that talks on behalf of Europeans and creates narratives to manipulate them, calls black people in Europe "migrant invaders cultural enrichers," 
+
+>But in Palestine, where there's actual foreign multinational migrant settlers that occupy natives and massacre them, he considers them natives of the land.
+https://nitter.net/ME_Observer_/status/1743951223181447385#m  1/7/24
+
+>BREAKING Hezb-Allah: “We targeted a zionist tank at the Ruwaisat Al-Asi site with Kornet missiles. It was hit directly leading to it being burned and destroyed, and its crew was killed and wounded”
+https://t.me/warmonitors/19428  1/7/24
+
+>🟡 Hezbollah has been POUNDING israeli bases today, with already 9 announced operations.
+The latest one being firing Burkan IRAM rockets toward Zaarit barracks.
+https://nitter.net/AryJeay/status/1744012210664268015#m  1/7/24
+
+>Breaking | Gaza Ministry of Health: Israeli drones opened fire towards the administration building of Al-Aqsa Martyrs Hospital and its premises.
+https://nitter.1d4.us/QudsNen/status/1744011890622177685#m  1/7/24
+
+>🛑 | 🇮🇶 Islamic Resistance in Iraq announces:
+Attacking the US Qasrak base in the countryside of Hasakah, in Syria, using drones.
+https://nitter.net/AryJeay/status/1744020433945453005#m  1/7/24
+
+>⚡️US State Department: 
+Blinken is in #Qatar to continue efforts based on the strong relationship between Washington and Doha
+https://nitter.net/ME_Observer_/status/1744014533553709275#m  1/7/24
+
+>⚡️#Lebanon: So far today, the Islamic Resistance carried out 9 operations targeting sites and gatherings of the #Israeli occupation forces
+https://nitter.net/ME_Observer_/status/1744014710586957874#m  1/7/24
+
+>In Sydney today, a bomb was placed on the vehicle of a pro-Palestinian activist for displaying a Palestinian flag, accompanied by a message stating, "Enough, take down the flag, one chance."
+https://nitter.1d4.us/QudsNen/status/1744024606237716733#m  1/7/24
+
+>🛑 Al-Qassam (Hamas)
+Our fighters confirmed inflicting deaths and injuries, by targeting 2 Merkava tanks & a military D9-bulldozer with Yassin-105s. 
+
+Qassam also detonated 2 booby-trapped tunnels targeting soldiers & a minefield targeting 7 soldiers.
+https://nitter.net/AryJeay/status/1744033239856005360#m  1/7/24
+
+>🚀 A direct rocket hit to a house in one of the settlements in the Negev. Rockets were fired from Beit Hanoun (north of Gaza) where the IOF claims to have taken control of.
+
+Material damage as well as at least one settler who’s injured.
+https://nitter.net/AryJeay/status/1744036751083962728#m  1/7/24
+
+>🛑🇮🇶 An important statement will be issued by the Islamic Resistance in Iraq shortly.
+https://nitter.net/AryJeay/status/1744037670324445232#m  1/7/24
+
+>⚡️ Enemy media: Hizbullah hit the Meron base with long-range anti-tank missiles, which [the Zionist entity] does not have a system to intercept.
+https://nitter.net/IbnRiad/status/1744028495758422345#m  1/7/24
+
+>Despite the cold and rain, activists in New York have taken to the streets, chanting for Palestine.
+https://nitter.1d4.us/QudsNen/status/1744027636404236732#m  1/7/24
+
+>🛑 | 🇮🇶 Islamic Resistance in Iraq announces 3rd operation:
+Attacking the Ain al-Asad US base in western Iraq with suicide drones.
+https://nitter.net/AryJeay/status/1744029931737174126#m  1/7/24
+
+>🚨🚨🚨BREAKING: Islamic Resistance in Iraq announces:
+Attacked a vital target in the occupied Haifa using a long-range cruise missile (upgraded Iranian Khorramshahr missile) in the past days.
+https://twitter.com/AryJeay/status/1744049735252533600  1/7/24
+
+>⚡️🇮🇶 Scenes published by the Islamic Resistance in Iraq of the long-range cruise missile "Upgraded Khorramshahr" towards occupied Haifa.
+https://nitter.net/AryJeay/status/1744050569117901033#m  1/7/24
+
+>Few points:
+
+• They originally called the missile the long-range Al-Arqab (advanced cruise) missile. But my translation gave something else so I might have (wrongly) translated it into upgraded “khorramshahr”. 
+
+• The footage was captured during night, and the announcement said in the past days, so I’m not really sure if it has any correlation with today’s explosion at Haifa.
+https://nitter.net/AryJeay/status/1744053885730234853#m  1/7/24
+
+>Media Coverage | Israeli media reports that the mental health of nearly half of Israelis has deteriorated during the war, accompanied by a sharp increase in the consumption of antidepressant medications.
+https://nitter.1d4.us/QudsNen/status/1744049445161885777#m  1/7/24
+
+Amid the war and blockade by Israel, cancer patients in Gaza confront imminent death due to a shortage of medications and inadequate care.
+https://nitter.1d4.us/QudsNen/status/1744051472910750142#m  1/7/24
+
+>🚨BREAKING: Islamic Resistance in Iraq announced:
+Targeting a military asset in the occupied Golan Heights, with appropriate weapons.
+https://nitter.net/AryJeay/status/1744025132538925494#m  1/7/24
+
+>🛑 Al-Jazeera citing israeli sources: Hezbollah's precision missiles caused significant damage to the air control base in Meron.
+https://nitter.net/AryJeay/status/1744059432781115783#m  1/7/24
+
+>Breaking | Gaza Government Media Office: "We call on our brothers in Egypt to open the Rafah Crossing and urgently approve the transfer of 6000 wounded individuals for immediate medical treatment abroad"
+https://nitter.1d4.us/QudsNen/status/1744061443475980619#m  1/7/24
+
+>⚡️Chief of Staff of the #Israeli Army:
+We are paying a heavy price to #Hezbollah, and if war breaks out, we will fight fiercely
+
+We will create a new reality in the north and restore security to the population, even if it requires opening an additional front
+https://nitter.net/ME_Observer_/status/1744062442164965516#m  1/7/24
+
+>⚡️Speech HIGHLIGHTS of the Mujahideen Brigades spox ‘Abu Bilal’
+
+• We bid farewell to a group of heroic martyrs, including leaders, and fighters.
+
+• On the 7th of October, we, along with our brothers in other resistance factions, captured many Zionists.
+
+• Since the start, we targeted 27 military vehicles with anti-armor rockets and explosive devices, which led to their complete or partial destruction and the killing and wounding of those inside them.
+
+• We bombed the Zionist settlements surrounding Gaza with approximately 69 rocket salvos.
+
+• We destroyed military gatherings and concentrations of vehicles and soldiers 49 times.
+
+• We targeted 6 military helicopters, which led to them being directly hit.
+
+• We shot down 3 reconnaissance drones, including the Hermes-900, in a joint operation with the Qassam Brigades.
+
+• We targeted a naval boat off the shores of the Gaza Strip with a Sa'ir missile.
+
+• We targeted entrenched Zionist forces with anti-fortification & anti-personnel shells 9 times, killing and wounding their soldiers.
+
+• We carried out 6 sniping operations against Zionist soldiers.
+
+• We seized many weapons and military equipment.
+
+• We thwarted 2 naval landing operations by Zionist forces on the shores of the Gaza Strip and forced them to retreat, carrying deaths and injuries.
+
+• Together with the Al-Qassam Brigades, we targeted 3 Zionist drones, and we also participated with the Al-Quds Brigades in bombing with rocket bursts and sniping a soldier.
+
+• As for our valiant shores, we carried out many shelling operations against military vehicles, engaged in many clashes with enemy forces, and confronted their repeated incursions.
+
+• We tell the enemy that the alleged claim of your defeated army to control the northern Gaza Strip is nothing but an illusion that you are trying to market. Our victorious forces have carried out a series of air, land and sea defense operations. We have presented evidence that proves the truth of our statement. 
+
+We have shown scenes of part of our operations, and we will show other scenes successively, God willing.
+
+• Let the enemy know that his crimes will only make us more steadfast and adhere to our path until the occupation is wiped out from all of our land.
+https://nitter.net/AryJeay/status/1744062407603880111#m  1/7/24
+
+>Breaking | Heavy Israeli bombardment on Khan Yunis, Gaza.
+https://nitter.1d4.us/QudsNen/status/1744080629413581271#m  1/7/24
+
+Protest in front of Zara clothing store in the Dutch city of Groningen, denouncing its support for the Israeli occupying army and expressing solidarity with Gaza.
+https://nitter.1d4.us/QudsNen/status/1744078746565357886#m  1/7/24
+
+>⚡️The Mujahideen Brigades publishes: Scenes from the process of monitoring an #Israeli force holed up inside a house in the Tal al-Hawa neighborhood, where we targeted it with an OG-7V shell, and other scenes of the equipment that our fighters seized, showing traces of soldiers’ blood on them.
+https://nitter.net/ME_Observer_/status/1744076455921742248#m  1/7/24
+
+>The head of the General Staff of the Yemeni Armed Forces demanded that the United States extradite the Americans who killed the 10th Yemeni sailors.
+The military leader warns that if the US does not hand over these Americans for trial, the consequences for America will be unprecedented.
+https://twitter.com/Sprinter99800/status/1743764345744392652  1/7/24
+
+>The bureau chief of Al Jazeera in Gaza City, Wael Dahdouh, returns to cover the ongoing Israeli genocide in Gaza only a few hours after Israel killed his son Hamza.
+https://nitter.1d4.us/QudsNen/status/1744094702498975838#m  1/7/24
+
+>⚡️#YEMEN - Part of the popular revolution against #Israel and the global powers of arrogance  
+- A revolutionary song calling for the boycott of Israeli goods - 
+
+"Who does not boycott is a partner of the enemy in the bloodshed and supports the infidels"
+
+"So beware, do you accept to be a bullet in the chest of Gaza or be an enabler ? "
+https://nitter.net/ME_Observer_/status/1744094866135507087#m  1/7/24
+
+>⚡️ Zionist migrant soldiers flee in the middle of an interview in #Gaza
+https://nitter.net/ME_Observer_/status/1744112184408363017#m  1/7/24
+
+>⚡️BREAKING 
+Fake News
+
+"Explosion on the island of Qeshm, 16 IRGC warships caught fire and the IRGC naval base exploded."
+
+In reality, nine barges caught fire yesterday in the village of Salkh, on the island of Qeshm.
+
+The IRGC naval base is located between the towns of Shib Derazto, to the south-west, and Messen, to the north-east.
+https://nitter.net/IranObserver0/status/1744105828737507340#m  1/7/24

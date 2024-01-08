@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7738890/](https://boards.4chan.org/h/thread/7738890/)**&nbsp;&nbsp;&nbsp;&nbsp;(03.01.2024 07:36)&nbsp;#&nbsp;Fuck You, It's January! (2024) Edition
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7745870/](https://boards.4chan.org/h/thread/7745870/)**&nbsp;&nbsp;&nbsp;&nbsp;(08.01.2024 01:37)&nbsp;#&nbsp;Rise of a new day Edition
 
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,6 +9,7 @@
 ---
 
 ##&nbsp;->2024<-
+- 668&nbsp;&nbsp;[archiveofsins.com/h/thread/7745870/](https://archiveofsins.com/h/thread/7745870/)&nbsp;&nbsp;&nbsp;&nbsp;(08.01.2024 01:37)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Rise of a new day Edition
 - 667&nbsp;&nbsp;[archiveofsins.com/h/thread/7738890/](https://archiveofsins.com/h/thread/7738890/)&nbsp;&nbsp;&nbsp;&nbsp;(03.01.2024 07:36)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Fuck You, It's January! (2024) Edition
 
 ##&nbsp;->2023<-

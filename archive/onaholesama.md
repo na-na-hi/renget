@@ -1,7 +1,7 @@
 # onaholesama's furshit
-->![you like foxgirls, don'tchya, Anon?](https://files.catbox.moe/3gslvv.gif)<-
+->![https://files.catbox.moe/9lwgse.mp3](https://files.catbox.moe/18qa4c.png)<-
 ***
-hello i like anthros 
+hey, i like anthros. you'll only find anthro/furry stuff here.
 ***
 [TOC2]
 

@@ -833,3 +833,16 @@ Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority:  High
 New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
+
+## -> Kaya <- (JP Release Date: Year 7, January)
+TBD
+- UB+: 
+- CB: 
+- Arena: 
+- PvE: 
+- 
+
+Bond story priority: Luxury (Relevant units: None)
+Max level Unit priority:  TBD
+New player Unit priority: TBD
+[Return to Top](https://rentry.org/Six_Star)

@@ -1,7 +1,7 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)***
 
 ---
-## ***Threads: [[1-150]](https://rentry.co/iftod/) | [[151 - 259]](https://rentry.org/sfbf5/) | [260 - current] ***
+## ***Threads: [[1-151]](https://rentry.co/iftod/) | [[151 - 258]](https://rentry.org/sfbf5/) | [258 - current] ***
 
 ---
 ##***Most recent thread scraped: #267***
@@ -20,16 +20,16 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 ---
 
-###*Black Diablos*
+###*Diablos*
 
 =============================================
 
->\>Oh don't mind my new color, hunter. It just means I've gone into heat.
+>\>Oh don't mind [my new color](https://desu-usergeneratedcontent.xyz/trash/image/1580/06/1580066409413.jpg), hunter. It just means I've gone into heat.
 >\>Of course I haven't become some violent sex-crazed beast, silly! Itches can be ignored with enough practice!
 >\>We can still hang out, right? 
 >>[\>what she means by "hang out"](https://desu-usergeneratedcontent.xyz/trash/image/1681/83/1681834703893.png)
 
-\>But it's not enough.
+%darkgreen%\>But it's not enough.
 \>You're not a Diablos so you can't truly quell her heat.
 \>A momentary flood of endorphins that bring relief and a few hours of peace before her body revolts and demands impregnation. That's all she gets.
 \>The next time you return, she grabs you and takes you back to your lair.
@@ -42,7 +42,7 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 \>Doesn't stop her inching closer and closer to you until she's finished eating and moaning your name into your mouth as you toss the bone aside.
 \>She apologises over and over for tricking you before the apologies fade away to be replaced by her faltering voice admitting you were the first person she thought of to help her.
 \>The night comes with her holding you tight and asking you not to go.
-\>She needs you.
+\>She needs you.%%
 
 ---
 ###*Gore Magala*
@@ -51,16 +51,16 @@ An ongoing collection of the multitude of bite-sized shorts that creative anons 
 
 -Gore Magala has entered the Forest locale-
 -Affinity: 50%-
-\>thanks for coming to hang out with me today Anon, i know lugging around all that protective gear is rough.
+%darkgreen%\>thanks for coming to hang out with me today Anon, i know lugging around all that protective gear is rough.
 \>i've been practicing keeping my frenzy as low as possible, i dont mind walking around more blind than usual.
 \>its just nice to just have someone to take in some fresh air with, the village herbalist says its good therapy for me.
 \>and if i can keep this pace, the Head Researcher might let me hang out in the village again!
-\>O-oh! i'm so sorry! i've been rambling! here, let me carry some of that gear for you! 
+\>O-oh! i'm so sorry! i've been rambling! here, let me carry some of that gear for you!%%
 [Item Pack Removed] [Camp Supplies Removed]
-\>wow, this stuff weighs a ton! even for me! how do you hunters manage to carry all this stuff all day?
+%darkgreen%\>wow, this stuff weighs a ton! even for me! how do you hunters manage to carry all this stuff all day?
 \>anyway, would you like to hang out or set up camp for the day?
 \>if you want, I have some cool spots i could show you down by the river, i'm sure i can get there without hitting too many trees again
-\>or we could just take a break for the day, you're probably worn out traveling this far.
+\>or we could just take a break for the day, you're probably worn out traveling this far.%%
 
 OPTIONS
 [A] Set up camp in the clearing right outside the forest [Supplies -1]
@@ -74,20 +74,20 @@ Follow the River path deeper into the jungle [Advances Time]
 -[You take the camping supplies into a flat clearing and quickly set up the large tent and a box for storage]
 -[Gore tried to help but their big wing-claws are not dexterous enough to handle tiny human tools]
 -[you realized this when you asked them to hammer a stake in the ground for you and they slammed it down so hard it made a small crater..]
-\>"a..aha..sorry, monsters don't really use tools.."
+%darkgreen%\>"a..aha..sorry, monsters don't really use tools.."%%
 [you notice Gore is panting slightly, the humidity must be hard on them for someone covered in jet black scales]
 [you mention that you'd like to cool off by the lake now]
-\>"oh man that sounds great, its a scorcher out there today"
-\>"i can smell the water from here! follow me!"
+%darkgreen%\>"oh man that sounds great, its a scorcher out there today"
+\>"i can smell the water from here! follow me!"%%
 [they rush off, tearing through lose trees and brush like it was sticks and pebbles]
 [must be easy to forget that they're a juggernaut covered in scales harder than stone]
 [following the trail of destruction you arrive at the lake bed, its shimmering clear waters are most inviting]
 [you cup your hands and take a sip from the crisp clear waters]
 [while Gore opens their mouth wide and shoves their head deep below the waters surface, drinking deep, when they surface you notice that they have a shard of seaweed stuck to their head]
-\>"PUUAAHH, i needed that! nothing tastes better than fresh water"
+%darkgreen%\>"PUUAAHH, i needed that! nothing tastes better than fresh water"
 \>"well, maybe not just fresh water, i could really go for some meat too, its almost time for the lunch hunt."
 \>"what about you? what do hunters eat?"
-\>"i've heard hunters can eat almost anything, like Deviljho but without all the angry."
+\>"i've heard hunters can eat almost anything, like Deviljho but without all the angry."%%
 [you feel like you could go for a bite yourself]
 
 OPTIONS
@@ -100,7 +100,7 @@ Tease Gore about the seaweed stuck to their head [Friendship Skill get]
 >Can Gore see underwater? Maybe they've never tried fresh fish before. Let's do [A] and break out the Grill!
 
 ["you can go on ahead Gore, i'm going to catch us some fish"]
-\>"Okay!, i'll find a big juicy one for both of us!"
+%darkgreen%\>"Okay!, i'll find a big juicy one for both of us!"%%
 [they lower their body to the ground and sneak off into the forest so fast that you can only catch a glimpse of their shadowy miasma trail as they disappear]
 [you turn your attention to the lakes edge, the still waters lull you into a trance, years of living on the coast has trained your body's muscle memory to superhuman levels]
 [you cast away your underarmor, boots and pants, letting the soft winds of nature kiss your toned form as you dive headfirst into the lake.]
@@ -108,18 +108,18 @@ Tease Gore about the seaweed stuck to their head [Friendship Skill get]
 [as you drag your bounty to shore, the hair on the back of your neck picks up birds scattering and a great disturbance deeper into the forest]
 ["Looks like Gore found their meal.."]
 [you tie your shorts back on and begin dressing the fish, the blade of your billhook knife glides like your cutting through air as you strip and season the carcass over a fiery grill, toasting it until it peak crispyness]
-\>"i'm baaaack" Gore cheers. "i found a big one that actually put up a fight this time!"
+%darkgreen%\>"i'm baaaack" Gore cheers. "i found a big one that actually put up a fight this time!"%%
 [they emerge from the brush, a large dead Aptinoth clutched tightly in their bloody wing-claws]
 [they stop suddenly, furiously sniffing the air]
-\>"wha-*sniff* what is that?! what smells so good?!"
-\>"it smells like..like fish, but way better!"
+%darkgreen%\>"wha-*sniff* what is that?! what smells so good?!"
+\>"it smells like..like fish, but way better!"%%
 [they drop the aptinoth with a thud and rush over to your fish, you put your hands firmly on their snout, barely able to hold back the drooling beast]
 ["its just a fish i grilled, they smell and taste better this way"]
-\>"does it work with meat?! please tell me it works with meat! i want tasty meat!" they squeal with excitement
+%darkgreen%\>"does it work with meat?! please tell me it works with meat! i want tasty meat!" they squeal with excitement%%
 ["okay, okay calm down, i'll grill yours up too" you chuckle]
 [after offering a small apology to the herbivore you work your magic again, cutting and placing the large slabs of beef over a tiny grill]
 [You can tell Gore is getting impatient as their drooling intensifies, their foreclaws tapping on the ground, tail furiously wagging]
-\>"is it done yet, is it done yet?!" they sputter
+%darkgreen%\>"is it done yet, is it done yet?!" they sputter%%
 ["just about, here i'll throw some fish on there for you too if you behave"]
 [you set down a big plate of food in front of them and you feel like you almost would have lost a finger with how quickly they dig into the pile]
 ["must've worked up an appetite doing all that hunting"]
@@ -127,17 +127,17 @@ Tease Gore about the seaweed stuck to their head [Friendship Skill get]
 ["I'll take that as a yes"]
 [as you both finish your meals, you decide its time to lie back and relax as the sun starts to set]
 [Gore lays down and stretches, licking their claws and chops]
-\>"oh man that was good! thanks for hanging out with me again by the way, it means a lot"
+%darkgreen%\>"oh man that was good! thanks for hanging out with me again by the way, it means a lot"%%
 ["yeah same, too bad we made camp so far away though"]
-\>"nah, its okay, here, let me pay you back."
+%darkgreen%\>"nah, its okay, here, let me pay you back."%%
 [they unfurl one of their massive wings, inviting you to some shelter. its remarkable that normally something that would be covered in dark frenzy dust now displays a bunch of shiny, clean looking iridescent scales]
-\>"i managed to take down that aptinoth earlier without relying on my frenzy at all ya know, i want to prove to everyone that i can survive outside the Frenzy's influence."
+%darkgreen%\>"i managed to take down that aptinoth earlier without relying on my frenzy at all ya know, i want to prove to everyone that i can survive outside the Frenzy's influence."
 \>"i remember the chief wyverian warning me long ago that the Frenzy is like a wildfire that follows me, that its an absolute barrier that harms both friend and foe, and giving into the frenzy is to embody suffering itself"
-\>"I've thought about it a lot and how with friends like you that stay by me, if i can master it then i wont have to be alone.
+\>"I've thought about it a lot and how with friends like you that stay by me, if i can master it then i wont have to be alone.%%
 [they lay the side of their head against your chest, the sharp spikes poke you a little]
-\>"besides, the Khezu life isn't so bad, I'm super used to it already."
+%darkgreen%\>"besides, the Khezu life isn't so bad, I'm super used to it already."%%
 [you both let out a chuckle and you run your hand upon their forehead scales]
-\>"Goodnight, good hunter"
+%darkgreen%\>"Goodnight, good hunter"%%
 ["Goodnight"]
 
 END PART 1
@@ -149,7 +149,7 @@ END PART 1
 
 [>I want to pay the troll toll to get into that Izuchi's hole...](https://desu-usergeneratedcontent.xyz/trash/image/1662/86/1662868285333.jpg)
 
-\>Where is he?
+%darkgreen%\>Where is he?
 \>The wheels of your cart trundle and squeak as you pull it along over the uneven ground.
 \>It still seemed a poor enough idea for this whole affair, honestly.
 \>But Magistrate Tama was insistent that your quarry would be here and would be ready to strike a helpless merchant travelling the quiet old road through the Shrine Ruins.
@@ -182,15 +182,15 @@ END PART 1
 \>"Weak human! Weak human! Fneheheh!
 \>"Zenny! Give us your zenny!"
 \>The smaller Izuchi have their own black bandanas and are keen to back up their superior. Such is the way with them, you know.
-\>Right now, however, you have to slump back against your cart and look like you're about ready to piss yourself.
+\>Right now, however, you have to slump back against your cart and look like you're about ready to piss yourself.%%
 "Please!" you cry out, lifting a hand pathetically. "D-Don't hurt me!"
-\>The Great Izuchi trails his tail along the ground, letting the sharp, scaly end of it rasp noisily against the stone and dirt.
+%darkgreen%\>The Great Izuchi trails his tail along the ground, letting the sharp, scaly end of it rasp noisily against the stone and dirt.
 \>"You pay toll like good little human, we won't hurt you."
 \>He lets out a hiss and throws an arm forward before cocking a wicked claw at you.
 \>And you fumble about in your robes, doing your best to look at him without looking like you're looking at him.
-\>He's coloured the large tufts over his eyes black to match the scales just below them but aside from that and his jewellery and voice, he seems like just another Great Izuchi.
+\>He's coloured the large tufts over his eyes black to match the scales just below them but aside from that and his jewellery and voice, he seems like just another Great Izuchi.%%
 "H-Here..."
-\>You haltingly pull out a string of zenny and toss it over at the bandit.
+%darkgreen%\>You haltingly pull out a string of zenny and toss it over at the bandit.
 \>He catches the loop with a claw and brings it up to his head, tapping at the coins with another claw to count them.
 \>The two smaller Izuchi sneer at you and one approaches your cart.
 \>"Maybe we take more!"
@@ -223,17 +223,17 @@ END PART 1
 \>With a growl, the Great Izuchi gives her underling a swipe of his claw.
 \>"Not to make us sick! This is poor trader with little zenny. Cannot afford better food, yes?"
 \>That last is addressed to you.
-\>What's worse is the sickly grin she says it with. Bandits did have a habit of being petty, right?
+\>What's worse is the sickly grin she says it with. Bandits did have a habit of being petty, right?%%
 "Y-Yes! But the people of Kamura pay well for it!"
-\>The bandit cocks her head to one side suddenly.
+%darkgreen%\>The bandit cocks her head to one side suddenly.
 \>"Ka-mu-ra..." She enunciates the name before scowling deeply. "Town of hunters and dogs and cats."
 \>Those yellow eyes come to rest on you, piercing through you.
 \>It's been a long time since you've been a novice hunter but being at even a bird wyvern's mercy like this is unsettling.
 \>"But they buy-" She sniffs at the air and grimaces. "Poor food? You are good trader." She brings her bladed tail around and pokes it towards the string of zenny still sitting on your stomach. "Why so poor?"
 \>Because Tama didn't want to spare even more zenny for this operation and warned you against using your own, in case a big payout would just embolden the bandits before he could send his marshals after them.
-\>Your tongue flicks out over your lips and it's not entirely for show.
+\>Your tongue flicks out over your lips and it's not entirely for show.%%
 "I, uh," you mutter, your mind running through excuses, "was... robbed. Other bandits. Near Yukumo."
-\>It's a shit excuse but maybe it'll work?
+%darkgreen%\>It's a shit excuse but maybe it'll work?
 \>The Great Izuchi regards you with an appraising eye, however, and her tail sits pointed at you.
 \>"Fneheheh! Human poor /and/ stupid? Maybe we eat him instead!"
 \>Whoosh-thunk!
@@ -255,9 +255,9 @@ END PART 1
 \>"Cut cloth for human's eyes and hands. Can't show him the way to hideout."
 \>Double shit.
 \>If you do need to make a run for it, you may have no idea of how to get back to Kamura.
-\>Maybe you can play a bit more into the frightened merchant bit to get out of this.
+\>Maybe you can play a bit more into the frightened merchant bit to get out of this.%%
 "P-Please, I don't have anything else! And they're expecting-"
-\>With a sharp whoosh, Kanna brings her tailblade back before you.
+%darkgreen%\>With a sharp whoosh, Kanna brings her tailblade back before you.
 \>"Quiet! You are first human in a while on this road. I will not go back to hideout without zenny or something of worth."
 \>You hear fabric being torn as well as hissing laughter before a large strip of cloth comes over your eyes and obscures your vision.
 \>It's followed shortly by the skin of your arms being pricked by claws as they're roughly drawn together and your hands are bound at the wrists.
@@ -326,16 +326,16 @@ END PART 1
 \>The black crests over her eyes rise and a worrying smile tugs her lips back.
 \>"You not need simple clothes. Take them off."
 \>Your muscles tense up again; is she going to exact her payment in blood?
-\>You've no idea where you are or how large this camp is, how many other Izuchi are in it. Would bolting even do any good?
+\>You've no idea where you are or how large this camp is, how many other Izuchi are in it. Would bolting even do any good?%%
 "Why, uh, why do I need to?"
-\>Stall. However and for how long you can.
+%darkgreen%\>Stall. However and for how long you can.
 \>Kanna tilts her tailblade from side to side.
 \>"No zenny, no food, no goods. All you have is you."
 \>She jabs her tailblade at you again.
 \>"All humans must pay toll. Some way."
-\>Satori laughed at eating you.
+\>Satori laughed at eating you.%%
 "Humans taste bad."
-\>"Keeeekekekeke! Never tasted! Maybe I want to."
+%darkgreen%\>"Keeeekekekeke! Never tasted! Maybe I want to."
 \>Her tailblade snakes forward and nicks at the cinched belt around your waist neatly before following up by slicing through the bindings on your wrists. It's starting to unnerve you how deftly Kanna commands that part of her anatomy.
 \>In fact, you're so stunned by just how quick and precise her movements are that you don't move yourself out of the way before she's done.
 \>The belt is what's been holding your pants up and your jacket closed and now that it's suddenly been cut, your jacket opens and your pants feel decidedly looser than you'd like.
@@ -346,9 +346,9 @@ END PART 1
 \>You take full stock of just how Kanna lies upon the cushions. She's turned to one side, stretched out, with one of the long claws on her forelimbs neatly curled under her chin, propping it up.
 \>As she eyes you with a grin, the claws on her toes slowly curl and uncurl; they go together with the look in her eyes all too well.
 \>Her chest rises and falls languidly, just as relaxed as the rest of her body is, and she looks almost like a queen seated upon her throne looking down at some supplicant before her. Or a bandit queen, maybe, with fresh meat having being brought into her court for her to do with as she pleases.
-\>"Silly human..." Kanna mutters, using her tailblade to gently push your jacket over your shoulders.
+\>"Silly human..." Kanna mutters, using her tailblade to gently push your jacket over your shoulders.%%
 "W-Wait!"
-\>With a sickening slowness, Kanna brings her tailblade up along your chest to your neck but keeps the blunted rear of it against your skin as she brings it up so high that it almost touches your chin.
+%darkgreen%\>With a sickening slowness, Kanna brings her tailblade up along your chest to your neck but keeps the blunted rear of it against your skin as she brings it up so high that it almost touches your chin.
 \>"No wait. Izen will come and will want to know if payment is good."
 \>With your jacket pushed off from your shoulders enough, Kanna only has to give it a little push more with her tail before it falls behind you. The sound of ripping fabric fills the tend as she turns the sharp side of her tailblade on your shirt and you can't help but wince at how you almost-but-not-quite feel the cool, scaly tip against the skin of your chest.
 \>"Hrrrr... Better trader than others."
@@ -380,24 +380,24 @@ END PART 1
 \>"But remember..."
 \>Coolness slides down your back but more than that, you feel something far too sharp grazing against your skin. It makes you shiver and your stomach roil.
 \>"I feel teeth? You feel tail."
-\>You swallow thickly.
+\>You swallow thickly.%%
 "I-I understand."
-\>"Hrrr. Good."
+%darkgreen%\>"Hrrr. Good."
 \>The claws below her abdomen twitch and then gently spread, revealing delicate pink skin within the slit she pulls at, as well as a distinct scent that almost smells familiar but is just off enough that you have to assume it's either unique to Kanna or Great Izuchis.
 \>"I need... large payment, human."
 \>Yes, you were absolutely right about your suspicions of where this was headed.
 \>But it could've been worse, couldn't it? Could've wound up as a meal or worse.
 \>If a little... performance is what gets you out of this alive and back to Tama to see justice done to these bandits, wouldn't it still be a bargain?
 \>"Well?" Kanna pats your back with the blunted edge of her tailblade. "Do you... kekeke, do you not know what to do with females, human?"
-\>It should sting your pride but mostly you're just eager to show her that no, she doesn't need to risk losing her patience.
+\>It should sting your pride but mostly you're just eager to show her that no, she doesn't need to risk losing her patience.%%
 "Fine."
-\>Without really thinking about it, your hands come up to Kanna's thighs. It's just what you're used to, getting some support from your lover as well as providing a little closeness of your own.
+%darkgreen%\>Without really thinking about it, your hands come up to Kanna's thighs. It's just what you're used to, getting some support from your lover as well as providing a little closeness of your own.
 \>Her scales are cool, though not quite so much as those on her tailblade. More pleasant is the fur just a little further up on her thigh, velvety soft and almost warm under your touch.
 \>Kanna's muscles tense at you touching her but it doesn't last. After all, she does have her tailblade in just the right position to do terrible things to you should you try anything, and she knows it.
 \>Your hands slide over the scales and fur until they pass over her forelimbs. The scales there are harder, like those on her tail, and just as cool.
-\>"What are you..."
+\>"What are you..."%%
 "Here, let me..."
-\>Under other circumstances, you might try to hold them but this almost feels like trying to exert what little control over the scenario you can. You take over from Kanna in gently holding the edges of her slit apart and she quickly catches on, lifting her forelimbs to rest them against her thighs.
+%darkgreen%\>Under other circumstances, you might try to hold them but this almost feels like trying to exert what little control over the scenario you can. You take over from Kanna in gently holding the edges of her slit apart and she quickly catches on, lifting her forelimbs to rest them against her thighs.
 \>And through it all, you can just about see how her eyes carefully watch you. Still that edge to these proceedings, even if it's clear from the glistening moisture between your hands that she does want this.
 \>Maybe it's just business for her, the chance to feel something softer and more flexible than some claws in such a sensitive place. After all, it’s not like you were thrilled at her poking about between your legs.
 \>That might be the best thing to start off with, if only to get a sense of what might feel good for her. You trace a finger along the edge of her slit, each time moving a little closer to that pink flesh.
@@ -411,9 +411,9 @@ END PART 1
 \>”Gentle, human!”
 \>Sensitive, then. You’ll need to work up to that.
 \>Lifting your finger away, you place it further down, enough that Kanna merely hums approvingly at the touch though she still watches you.
-\>It’s kind of unnerving, actually. Never expected your first time with a monster to be under such circumstances.
+\>It’s kind of unnerving, actually. Never expected your first time with a monster to be under such circumstances.%%
 “Just relax,” you mutter, bringing your lips over to her thigh.
-\>Don’t need her getting any ideas before you can plant a kiss there
+%darkgreen%\>Don’t need her getting any ideas before you can plant a kiss there
 \>The fur on the upper half of her inner thigh tickles your nose but Kanna smirks and you can feel her thigh twitch.
 \>”Yesss,” she hisses, “submit, human.”
 \>Bad enough having to play the coward earlier, now you have to suffer this indignity?
@@ -488,9 +488,9 @@ END PART 1
 \>There’s a thump when you do so and the sudden lack of a cool set of scales on your back tells you that she’s let her tailblade fall.
 \>It’s about the best moment you have to make a break for it, actually, even if it would mean running through the camp of bandit Izuchi with your cock bobbing about between your legs and an aroused and frustrated Kanna chasing after you.
 \>But that’s not why you set the idea aside.
-\>It’s because of how she places her forelimbs on your own hips, careful not to let the sharp claws touch your skin.
+\>It’s because of how she places her forelimbs on your own hips, careful not to let the sharp claws touch your skin.%%
 “Easy,” you murmur.
-\>”Not human,” comes your quiet reply. “Not soft.”
+%darkgreen%\>”Not human,” comes your quiet reply. “Not soft.”
 \>But Kanna still goes slightly limp as you grind harder against her, just her hips rolling forward to try and bring her closer to you.
 \>”No tease…”
 \>No teasing.
@@ -500,9 +500,9 @@ END PART 1
 \>Kanna had felt warm against your lips and tongue but that was just the outside, the precipice.
 \>As you feel yourself entering the Great Izuchi, as her body grips you, the warmth intensifies quite suddenly and both of you are left more than a little surprised.
 \>That idle thought from earlier was a little prescient, it seems, since she brings both her legs around your waist. The fur feels… soft. Much softer now that you’re much closer to her.
-\>”Goooood…” Kanna breathes the word.
+\>”Goooood…” Kanna breathes the word.%%
 “Yes…”
-\>”Different.”
+%darkgreen%\>”Different.”
 \>Her breath hitches and her mouth falls open, exposing her fangs and forked tongue. Her whole body feels like it’s clamping down around you.
 \>”G-Good different!”
 \>The more you enter her, the more firmly you rub close to that sensitive little spot. Kanna pulls harder on your hips but there isn’t much strength to it and in spite of her earlier pleading for you not to tease her, you’re going to take this slow.
@@ -511,9 +511,9 @@ END PART 1
 \>At once impossibly slick yet tight, warm but with the coolness of her scales on your skin.
 \>You look up and Kanna’s eyes are turned upon your face, so intently you’d baulk if this were any other circumstance.
 \>Without really thinking about it, the hand on her hip moves up along her body. Over her flank, her shoulder with the ruff that extends around her neck and then up along her neck.
-\>It’s as muscular under your touch as you expected but your partner doesn’t try to pull away from you. Her yellow eyes continue to meet yours and her hot breath washes over your face.
+\>It’s as muscular under your touch as you expected but your partner doesn’t try to pull away from you. Her yellow eyes continue to meet yours and her hot breath washes over your face.%%
 “Just a little more,” you whisper, letting your hand come up under her chin and onto her lower jaw, “taste.”
-\>You can see she’s about to ask but doesn’t get the chance before you kiss her lower lip.
+%darkgreen%\>You can see she’s about to ask but doesn’t get the chance before you kiss her lower lip.
 \>Kanna lets out a small, strangled noise but doesn’t pull back. Actually, she rolls her hips against yours and winds up taking you the rest of the way.
 \>Her cool scales slide up against you and one of her forelimbs suddenly goes to your shoulder, gripping so tight you can feel the sting of the claws sinking into you even through the thrill of pleasure from Kanna returning your kiss.
 \>It’s weird. And awkward. Great Izuchi lips weren’t made for kissing, at least not with humans, and you struggle to force down a chuckle at seeing her try to keep the rear of her mouth closed while opening the front.
@@ -524,18 +524,18 @@ END PART 1
 \>You get your revenge by stroking your thumb a little closer to her sensitive spot just as you start to pull back out of her.
 \>She tries to ‘eeee’ but with her mouth partly open and tongue busy, it comes out more like ‘eurgh’, like a grunt. Makes sense, at least feeling the way she suddenly clamps down on you again.
 \>And it makes sense that she’s the one breaking the kiss, although both of you are panting.
-\>”Don’t!” The forelimb she still has on your hip desperately pulls at it with what strength isn’t being directed between her thighs. “M-More!”
+\>”Don’t!” The forelimb she still has on your hip desperately pulls at it with what strength isn’t being directed between her thighs. “M-More!”%%
 “More.”
-\>You nod but continue to slowly pull out of her and the big, bad bandit whimpers and draws her legs tighter around you.
+%darkgreen%\>You nod but continue to slowly pull out of her and the big, bad bandit whimpers and draws her legs tighter around you.
 \>But there’s too many parts of her all trying to do their own thing - her tail scraping and stroking against the ground, one of her forelimbs still shaking slightly as it holds your shoulder, another at your hip, her legs, her lips that she nuzzles against your cheek…
 \>Kanna can’t stop you from pulling out until you’re almost all the way out of her and she’s bucking her hips weakly and futilely.
 \>”Moooore!”
 \>Your whole head vibrates as she growls out the word right into your ear.
 \>But she isn’t the one in control right now, is she? This is like being out in the field with your wirebug, lashing a Great Izuchi and mounting them.
 \>More, she wants.
-\>Your hand’s still on her jaw and you tenderly draw her head back so you can say something to her.
+\>Your hand’s still on her jaw and you tenderly draw her head back so you can say something to her.%%
 “Here’s your payment.”
-\>And you thrust, firm and smooth.
+%darkgreen%\>And you thrust, firm and smooth.
 \>There isn’t enough time for Kanna to react or brace herself and her large body shakes as you meet hers. Another choked sound comes from her as you bottom out inside her but her claws at your shoulder scratch downward as she attempts to hold onto you.
 \>Your body is tight against hers, against those smooth, cool scales. Your chest pressed to Kanna’s, you swear you can feel her heart thundering inside it. She’s breathing heavily, or at least she’s trying to, and gasping so hard that her forelimbs shake with the effort.
 \>But you? You start to pull back, faster than before, not giving her a chance to make any objections before you’re almost all the way out again and then deliver another thrust.
@@ -548,12 +548,12 @@ END PART 1
 \>You’re slowly building up a rhythm, taking less time between thrusting into her and beginning to pull back out and you’re stroking your thumb faster as you do so.
 \>”N-Not let… you-EEEE!”
 \>You press down on your thumb on that spot and Kanna’s voice rises even over the lurid sounds of your bodies meeting with every thrust.
-\>Something is building inside her, that was quickly bubbling up to the surface before Satori barged in and is now helped along with that earlier work.
+\>Something is building inside her, that was quickly bubbling up to the surface before Satori barged in and is now helped along with that earlier work.%%
 ”Not let… what? Huh?”
-\>This is almost as much of a workout as an actual quest! You’re normally not talking to a monster right as you’re in the middle of… well, running about.
-\>Though perhaps you’ll have to start taking a different sort of quest with those intelligent monsters.
+%darkgreen%\>This is almost as much of a workout as an actual quest! You’re normally not talking to a monster right as you’re in the middle of… well, running about.
+\>Though perhaps you’ll have to start taking a different sort of quest with those intelligent monsters.%%
 “Me… best… you?”
-\>Kanna’s not holding onto your hip any longer. Her forelimb is around your side, just trying to pull you in as close to her as she can.
+%darkgreen%\>Kanna’s not holding onto your hip any longer. Her forelimb is around your side, just trying to pull you in as close to her as she can.
 \>”N-N-EEEE-NOT l-let…” she pants and moans as she speaks, stroking the furred part of her tail against your left leg. “You… sssstop!”
 \>Her hips thrust and buck almost wildly but with her legs wrapped around you, she has to try and awkwardly find purchase.
 \>”Human! Ah!”
@@ -590,7 +590,7 @@ END PART 1
 \>It’s strange - Kanna grips you just a little tighter.
 \>”The human has paid, Izen. Paid well.”
 \>The Great Izuchi, Izen, looks you over like a butcher looking over a prime piece of Aptonoth meat.
-\>”So I see.” He takes a step forward. “Paid you, Kanna. But you wouldn’t deny your dear, beloved brother his fair share, now would you?”
+\>”So I see.” He takes a step forward. “Paid you, Kanna. But you wouldn’t deny your dear, beloved brother his fair share, now would you?”%%
 
 ---
 ###*Jagras*
@@ -600,7 +600,7 @@ END PART 1
 >\>still using tailriders
 >>I will NOT bend to the fotm and will only devote my time, appreciation, and penis to those who have supported us for generations!
 
-\>It all started out so innocently.
+%darkgreen%\>It all started out so innocently.
 \>Once the grimalkynes showed you and your palico the secret to getting help from small monsters, you were elated to try it.
 \>Suddenly, the wulgs of the Hoarfrost Reach weren't an annoyance who'd plague you at every snowy step.
 \>You'd find yourself back at the camp, sitting around the fire with a small pack of them as you shared out strips from a cooking haunch of meat.
@@ -804,8 +804,7 @@ END PART 1
 \>His eyes are on yours through it all and there's a raw and primal hunger shining in them.
 \>One that doesn't diminish when he retracts his tongue only to give it a last swirl against your lips.
 \>One that's spoken of in the hot hardness that begins to press against your thigh.
-\>Matched by your own against his scales.
-
+\>Matched by your own against his scales.%%
 
 ---
 ###*Kulve Taroth*
@@ -838,7 +837,7 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 >If monsters had dating profiles, what would they look like?
 
 "Now, let's see..."
-\>Click. Click. Clack. Click.
+%darkgreen%\>Click. Click. Clack. Click.
 \>*DRRRRRRRRR*
 \>*DRRRRRRRRR*
 \>"Hi and thank you for calling Southern Singles Hotline! Your one-stop-shop to meet hot singles and connect, from Loc Lac to Val Habar!"
@@ -846,163 +845,199 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 \>*BEEEP*
 \>"Okay! Now let's find out what kind of hot monster you are: press 1 if you are a small monster, press 2 if you are a flying wyvern, press 3 if you are a leviathan, press 4 if you are an elder dragon, press-"
 \>*BEEP*
-\>"Thank you for your patience, esteemed elder-"
+\>"Thank you for your patience, esteemed elder-"%%
 "Grrr!"
-\>"we just have one more question about you. Please select your gender from the following options: press 1 if you are fema-"
+%darkgreen%\>"we just have one more question about you. Please select your gender from the following options: press 1 if you are fema-"
 \>*BEEP!*
 \>"And now for the last question before we can match you with a single in your area looking to chat. Please press 1 if you wish to be connected to a huma-"
 \>*BEEP*
 \>"... Okay! In just a moment you will be connected to a real single looking to talk to YOU! Please remember to be polite; calls are not monitored but improper use of this service may be reported and-"
 \>*BEEP*
 \>"-Guild will be dis-"
-\>*BEEEEP*
+\>*BEEEEP*%%
 "Mrrrowl..."
-\>"-penalties including shock-"
+%darkgreen%\>"-penalties including shock-"%%
 "Insipid machine!"
-\>"But so long as you remember to stay polite and have fun, we're sure you'll find our service is number one! ... Please hold while we connect you!"
-\>*https://www.youtube.com/watch?v=AklRebZxD6g*
+%darkgreen%\>"But so long as you remember to stay polite and have fun, we're sure you'll find our service is number one! ... Please hold while we connect you!"
+\>*https://www.youtube.com/watch?v=AklRebZxD6g*%%
 "Ugh, this was a mistake. I should never have listened to Velk-"
-\>"Hello?"
+%darkgreen%\>"Hello?"%%
 "AH! *Ahem* Yes, hello, are you... a human?"
-\>There's a brief pause on the other end followed by chuckling.
-\>"Last I checked, yeah!"
+%darkgreen%\>There's a brief pause on the other end followed by chuckling.
+\>"Last I checked, yeah!"%%
 "Hmph! Impertinence of that sort is unbecoming."
-\>"Impertinence?"
+%darkgreen%\>"Impertinence?"%%
 "Yes! Impertinence! To speak to one such as I with such a tone of disregard and extemporaneity."
-\>"Huh? Oh... Oh! You're an elder dragon, right-"
+%darkgreen%\>"Huh? Oh... Oh! You're an elder dragon, right-"%%
 "OLDER dragon! I am not some wizened Lao to be spoken to as if she is half-deaf and unable to follow direction!"
-\>"Okay! Okay! Sorry..."
+%darkgreen%\>"Okay! Okay! Sorry..."%%
 "You do not sound as if you are."
-\>"Sorry. Really. I was a little caught off-guard, this is my first time talking to an el-... older dragon."
+%darkgreen%\>"Sorry. Really. I was a little caught off-guard, this is my first time talking to an el-... older dragon."%%
 "Yes, that much is readily apparent."
-\>"Listen, if you'd like I can just hang up and you can try again and get someone new."
+%darkgreen%\>"Listen, if you'd like I can just hang up and you can try again and get someone new."%%
 "No... Better a young gentleman without preconceptions that I might mould properly."
-\>"Uh..."
+%darkgreen%\>"Uh..."%%
 "Although we'll have to work on that 'gentleman' part."
-\>"Wow. This isn't what I was expecting."
+%darkgreen%\>"Wow. This isn't what I was expecting."%%
 "And what were you expecting, hm? A Kushala Daora, ready to throw herself to the ground before the first man that looks at her? Or a Kirin so eager to have her mane brushed that she would suffer some young fool putting his hands wherever he pleased?"
-\>"... I just meant I thought I'd be talking to someone that, y'know, wants to talk."
+%darkgreen%\>"... I just meant I thought I'd be talking to someone that, y'know, wants to talk."%%
 "In that case, forgive me if my standards are a little higher than the capability of speech."
-\>There's another little bout of chuckling on the other end of the line.
-\>"Okay, I misjudged you! You've got a great sense of humour!"
+%darkgreen%\>There's another little bout of chuckling on the other end of the line.
+\>"Okay, I misjudged you! You've got a great sense of humour!"%%
 "I was not being jovial in saying that."
-\>"Alright, alright. Look, why don't we exchange names so we can start getting to know each other? I'm Anonymous, or just Anon, if you'd like."
+%darkgreen%\>"Alright, alright. Look, why don't we exchange names so we can start getting to know each other? I'm Anonymous, or just Anon, if you'd like."%%
 "Yes, a diminutive form is more becoming. As for myself? You may address me as 'Your Highness', Anon."
-\>"That kinda lady, huh? Alright, I gotcha. So why are you calling a singles' line, Your Highness?"
+%darkgreen%\>"That kinda lady, huh? Alright, I gotcha. So why are you calling a singles' line, Your Highness?"%%
 "I am calling because my oaf of a former mate thought to show his craven heart by lusting after some young and slippery thing that... ugh... 'gives him a good pounding'."
-\>"Ah shit, your old man left you? That's rough. He must be a real piece of shit to say that kinda thing right to you."
+%darkgreen%\>"Ah shit, your old man left you? That's rough. He must be a real piece of shit to say that kinda thing right to you."%%
 "Yes, well, I would not wish to use such crude language myself but perhaps where he is concerned, an analogy towards excrement is in order. Thank you, Anon."
-\>"Hey, you sound like a real swell lady, Your Highness. Who knows? Maybe I'll run into him on a quest sometime and I can give him a piece of my mind for you, huh?"
+%darkgreen%\>"Hey, you sound like a real swell lady, Your Highness. Who knows? Maybe I'll run into him on a quest sometime and I can give him a piece of my mind for you, huh?"%%
 "A quest?"
-\>"Yeah, I'm a monster hunter!"
+%darkgreen%\>"Yeah, I'm a monster hunter!"%%
 "I... see."
-\>"Nah, don't worry, the Guild doesn't go after intelligent monsters like you. We work with a lot of them and take contracts from others, actually."
+%darkgreen%\>"Nah, don't worry, the Guild doesn't go after intelligent monsters like you. We work with a lot of them and take contracts from others, actually."%%
 "Ah, so you have experience with monsters?"
-\>"Yeah, you could say that."
+%darkgreen%\>"Yeah, you could say that."%%
 "Your words sound as if they lack conviction, Anon."
-\>More chuckling but it sounds a little brittle, perhaps.
-\>"I guess. I mean I have experience hunting monsters and I've got to know one or two intelligent ones but aside from that, I haven't really had the chance."
+%darkgreen%\>More chuckling but it sounds a little brittle, perhaps.
+\>"I guess. I mean I have experience hunting monsters and I've got to know one or two intelligent ones but aside from that, I haven't really had the chance."%%
 "I see. Is that why you are availing of this service?"
-\>"Yeah? The monsters I've talked to all seem really nice so I thought hey, may as well try and meet one but I guess I wasn't really sure how to go about that."
+%darkgreen%\>"Yeah? The monsters I've talked to all seem really nice so I thought hey, may as well try and meet one but I guess I wasn't really sure how to go about that."
 \>There's a little pause.
-\>"And you? You, uh, picked to talk to a human, right?"
+\>"And you? You, uh, picked to talk to a human, right?"%%
 "That is correct."
-\>"Any... particular reason why instead of another e-older dragon, Your Highness?"
+%darkgreen%\>"Any... particular reason why instead of another e-older dragon, Your Highness?"%%
 "In truth, a friend spoke of this service and how she met a fine, younger gentleman through it. A hunter, as it happens. She said that many of you develop a respect for monsters that one may find lacking in their own kind."
-\>"I suppose that's one way of putting it. When you see a monster fight and how they move, the grace and power all together like that, it can be... attractive."
+%darkgreen%\>"I suppose that's one way of putting it. When you see a monster fight and how they move, the grace and power all together like that, it can be... attractive."%%
 "Attractive?"
-\>"Yeah. You ever seen a Mizutsune dancing about on their bubblefoam?"
+%darkgreen%\>"Yeah. You ever seen a Mizutsune dancing about on their bubblefoam?"%%
 "My past duties left little time for such frivolities."
-\>"Past duties, huh?"
+%darkgreen%\>"Past duties, huh?"%%
 "The administration of a kingdom tends to occupy oneself."
-\>"Oh! So, uh, the 'Your Highness' bit wasn't..."
+%darkgreen%\>"Oh! So, uh, the 'Your Highness' bit wasn't..."%%
 "No."
-\>"... Okay. *Ahem* Sorry for my behaviour earlier, Your Highness."
+%darkgreen%\>"... Okay. *Ahem* Sorry for my behaviour earlier, Your Highness."%%
 "Please be calm, Anon, I do not wish you to bow and scrape over this telephone to me. Simply treat me with due respect and we may converse amicably."
-\>"Yeah but like, you're a... Princess? Queen?"
+%darkgreen%\>"Yeah but like, you're a... Princess? Queen?"%%
 "Was."
-\>"Huh?"
+%darkgreen%\>"Huh?"%%
 "I was a Queen. Of a place to the east of the Great Desert. Before that... lecherous, contemptible oath-breaker of a Teostra decided that his vows meant less than spilling his seed in some trumped-up..."
-\>The line becomes increasingly distorted, as over a few minutes, growling complaints mix with the sound of flames licking at the phone's receiver.
+%darkgreen%\>The line becomes increasingly distorted, as over a few minutes, growling complaints mix with the sound of flames licking at the phone's receiver.
 \>Lunastra takes a moment before she calms down and remembers she hasn't got one of those fire-proof phones yet.
-\>"... you okay? Hey! Your Highness? Did something happen?"
+\>"... you okay? Hey! Your Highness? Did something happen?"%%
 "No... No, I... I am alright, Anon."
-\>"What happened?"
+%darkgreen%\>"What happened?"%%
 "It is of little concern, just a minor issue."
-\>"It didn't sound like something I shouldn't be concerned about! Talk to me, Your Highness."
+%darkgreen%\>"It didn't sound like something I shouldn't be concerned about! Talk to me, Your Highness."%%
 "You should not call me that."
-\>"Why not? I mean you're a Queen, right?"
+%darkgreen%\>"Why not? I mean you're a Queen, right?"%%
 "I said I was, not that I am. Now, I am simply 'Luna' and my only palace is a modest homestead north of Loc Lac. I command no armies and hold no servants in my household. All because of that..."
-\>"Okay, okay, we don't have to talk about him, alright? Let's just talk about you. You know I'm a hunter but what do you do? Now, I mean."
+%darkgreen%\>"Okay, okay, we don't have to talk about him, alright? Let's just talk about you. You know I'm a hunter but what do you do? Now, I mean."%%
 "I... It is not important."
-\>"C'mon, Your Highness-"
+%darkgreen%\>"C'mon, Your Highness-"%%
 "Luna."
-\>"Luna. I want to get to know you and that means I want to know how you make your living. C'mon, it's not like my job is that glamorous!"
+%darkgreen%\>"Luna. I want to get to know you and that means I want to know how you make your living. C'mon, it's not like my job is that glamorous!"%%
 "No? A monster hunter as the kind romanticised by human and monster alike, a valiant defender of cities, towns, and villages, and a stalwart steward of the natural balance of the world? The very pinnacle of human strength and fitness and you do not think much of it?"
-\>There's open laughter on the other end of the line, warm and rich.
-\>"Gog, you make me sound way more than I am! I'm not sure super hunter or anything like that, I'm still taking low rank quests!"
+%darkgreen%\>There's open laughter on the other end of the line, warm and rich.
+\>"Gog, you make me sound way more than I am! I'm not sure super hunter or anything like that, I'm still taking low rank quests!"%%
 "Low rank? Excuse me, are you of a lower order than other hunters?"
-\>"Nah, no, it's not like that, it's... okay, how much do you know about the Guild?"
+%darkgreen%\>"Nah, no, it's not like that, it's... okay, how much do you know about the Guild?"%%
 "A little. I know you take quests to deal with monsters or other matters."
-\>"Right, you probably don't know of how they're structured internally."
+%darkgreen%\>"Right, you probably don't know of how they're structured internally."%%
 "No, I have little knowledge of the internal proceedings."
-\>"Well, quests are divided into low, high, and G ranks. Uh, that's 'Gilded, by the way, for hunters that've demonstrated they're the best of the best, who can take on the toughest quests the Guild has. Stuff like elder dragons and other-"
+%darkgreen%\>"Well, quests are divided into low, high, and G ranks. Uh, that's 'Gilded, by the way, for hunters that've demonstrated they're the best of the best, who can take on the toughest quests the Guild has. Stuff like elder dragons and other-"%%
 "Ahem!"
-\>"R-Right, sorry, older dragons. Point is, you have to work your way up. You have to prove yourself. And I..."
+%darkgreen%\>"R-Right, sorry, older dragons. Point is, you have to work your way up. You have to prove yourself. And I..."%%
 "You are still a relative novice, yes?"
-\>"Yeah, that's one way of putting it..."
+%darkgreen%\>"Yeah, that's one way of putting it..."%%
 "Hmm. So, bearing that in mind, if an older dragoness were to tell you that she... works in Loc Lac for the smithies, providing proper temperature-controlled flames for them to work with? You would be... ?"
-\>"Wow. Huh, I mean, that's pretty neat!"
+%darkgreen%\>"Wow. Huh, I mean, that's pretty neat!"%%
 "Truly?"
-\>"Yeah! I spend a lot of time in the smithies both in the Guild grounds and in Loc Lac for other things and I know how hard it is for them to get fuel to get just the right heat. Wow, if you're working in Loc Lac then you're helping like half the southern lands..."
+%darkgreen%\>"Yeah! I spend a lot of time in the smithies both in the Guild grounds and in Loc Lac for other things and I know how hard it is for them to get fuel to get just the right heat. Wow, if you're working in Loc Lac then you're helping like half the southern lands..."%%
 "... You sound impressed, Anon."
-\>"I am, Luna! From what I've heard, getting just the right temperature is really hard and really important."
+%darkgreen%\>"I am, Luna! From what I've heard, getting just the right temperature is really hard and really important."%%
 "Hmph. You are quite kind to say so."
-\>"Just the truth."
+%darkgreen%\>"Just the truth."%%
 "Then, speaking truthfully, have you enjoyed our discussion so far?"
-\>"Truthfully? Yeah. Been a while since I've had as enjoyable a talk as this. Not exactly the easiest to meet anyone in the Guild."
+%darkgreen%\>"Truthfully? Yeah. Been a while since I've had as enjoyable a talk as this. Not exactly the easiest to meet anyone in the Guild."
 \>"No? None of the monsters that come to you for help have wished to enjoy your company? Or perhaps offered... services?"
 \>More laughter.
-\>"No! No, that Guild wouldn't accept that kinda thing at all!"
+\>"No! No, that Guild wouldn't accept that kinda thing at all!"%%
 "You didn't answer my first question, Anon."
-\>The laughter dies down.
-\>"I didn't, did I?"
+%darkgreen%\>The laughter dies down.
+\>"I didn't, did I?"%%
 "Am I prying into a terribly personal matter?"
-\>"More personal than you telling me about your piece of... uh, excrement ex?"
-\>For the first time, Luna chuckles. It's like a mix of a growl and flames licking at a chimney.
+%darkgreen%\>"More personal than you telling me about your piece of... uh, excrement ex?"
+\>For the first time, Luna chuckles. It's like a mix of a growl and flames licking at a chimney.%%
 "He truly is an execrable beast! Unable to rein in his own desires!"
-\>"Didn't even realise what a great lady he had!"
+%darkgreen%\>"Didn't even realise what a great lady he had!"%%
 "Truly! You know, Anon, he was nothing but a simpering pussycat before I met him."
-\>"Oh yeah? Shaped him into something decent?"
+%darkgreen%\>"Oh yeah? Shaped him into something decent?"%%
 "Not decent enough it would seem, although there are limits even to the powers I may command. I cannot instil loyalty and honour where there is none at all."
-\>"Still can't believe what he said to you."
+%darkgreen%\>"Still can't believe what he said to you."%%
 "He has said far worse. That is why I no longer have a queendom to command."
-\>"Huh?"
+%darkgreen%\>"Huh?"%%
 "He convinced the noble council that I was unfit to continue rulership, that only a male could provide the strength and stability necessary and that the land's flourishing under my rule was merely a happy coincidence. One brought about by the astute counsel of the nobles."
-\>"Wow... That is low..."
+%darkgreen%\>"Wow... That is low..."%%
 "Truly. Though I do take some measure of comfort in the thought that he will soon be floundering as he realises it is he who needs to counsel the nobles and he lacks the acumen to properly administer his kingdom."
-\>"Without his beautiful, intelligent, witty wife to help guide him?"
+%darkgreen%\>"Without his beautiful, intelligent, witty wife to help guide him?"%%
 "Flatterer!"
-\>"Truth speaker!"
+%darkgreen%\>"Truth speaker!"
 \>She laughs again and she feels warmer than she has on any day spent in the forges and steamworks.
-\>"Y'know, I never asked - what do you look like, Luna?"
+\>"Y'know, I never asked - what do you look like, Luna?"%%
 "My appearance? Do not say you are so shallow, Anon."
-\>The laughter she hears now makes her smile.
-\>"I just want to get a mental image of who I'm talking to."
+%darkgreen%\>The laughter she hears now makes her smile.
+\>"I just want to get a mental image of who I'm talking to."%%
 "And would you not wish to talk to me yet more? Perhaps even as we share a fine meal and drinks, so I may see the man who speaks so humbly of himself and so flattering of I?"
-\>There's a pause and then some slightly nervous chuckling.
-\>"We're both here to meet someone, eh?"
+%darkgreen%\>There's a pause and then some slightly nervous chuckling.
+\>"We're both here to meet someone, eh?"%%
 "And it would seem that I have had good fortune this evening."
-\>"Not half as much as me, Luna."
+%darkgreen%\>"Not half as much as me, Luna."
 \>The two spent hours through the rest of the evening talking over everything - Luna's time ruling over her land near the Great Desert, more about her ex, her work, even a little about what she's looking for in a partner.
-\>But it was dinner that weekend, after the two called each other more times, that changed everything. When she invited Anon to her home and in her bedroom, the two ignited a fire between them that none of those even in Harth could match.
+\>But it was dinner that weekend, after the two called each other more times, that changed everything. When she invited Anon to her home and in her bedroom, the two ignited a fire between them that none of those even in Harth could match.%%
 
 ---
 ###*Malzeno*
 
 =============================================
 
-\>a group of new lance recruits are being trained by a veteran knight for a guild regiment one day
+>\>[Malzeno became a lance main](https://desu-usergeneratedcontent.xyz/trash/image/1686/28/1686282955002.jpg)
+>Truly a monster after my own heart.
+
+%darkgreen%\>engage in combat with a primordial malzeno while equipped with a lance
+\>he proves to be an admirable foe, striking with grace that only a true knight could have
+\>it turns into a long and drawn out fight, and while you managed to hold your ground for this long your stamina finally runs out
+\>you fall to your knees exhausted from combat and ready to accept your fate
+\>surprisingly, instead of striking you down and claiming victory, the malzeno sweeps you up in his tail and gently takes you back to his royal ruins
+\>you pass out from exhaustion and the last thing you see is the malzeno walking away
+\>upon waking up, you find the malzeno had been watching over you as you rested
+\>laying in front of you is a fresh small monster carcass just waiting to be cooked
+\>the malzeno eyes you with great intent as you pull out your carving knife and cooking set, no doubt waiting for you to fully recover with this fitting meal
+\>you get the feeling that you're going to be "training" with your new lord for a while%%
+
+=============================================
+
+>\>[your Malzeno child starts hanging out with a bad crowd](https://desu-usergeneratedcontent.xyz/trash/image/1686/43/1686436862690.png)
+>Yet another example of how hard it is being a monster's dad.
+
+%darkgreen%\>be huntanon
+\>bond with a female Primordial Malzeno during a hunt over your mutual love for lances and all things knightly and chivalrous
+\>end up getting hitched (by monster terms) and having a devastatingly handsome Malzeno son that any grandma would be proud of
+\>find yourself imagining how he'll look once he's all grown up and gracefully wielding the lance skills you'll inevitably teach him when he takes up your mantle after your retirement
+\>that changes a while later, when you get a message from his teacher at the Wycademy that he's been skipping class and training sessions to hang out with a gang of Qurio that's been loitering in the area recently
+\>you and his mother confront him, only to catch him in the dreaded act of Qurio Bonding, the manic glee in his eyes all to apparent as he revels in the feeling of being nearly unstoppable
+\>it's obvious that the seductive little bugs tricked him into trying out their vital energy gathering ability "just once", and now he's completely hooked and unwilling to stop
+\>it's all you can do to stop his Primalzeno mother from lunging at her own son to make him stop by force
+\>she of all people knows the dangers of Qurios and doesn't want to see him go down that road, but you don't want to see either of them get hurt
+\>so she does something drastic instead
+\>she drops her guard and bellows a challenge to the Qurios infesting your son to come get a taste of a REAL Malzeno
+\>relishing the chance to bond to a full-grown, stronger, and more experienced Malzeno, the Qurios practically dogpile her
+\>much to your son's sudden shock and regret when he finally snaps back to his senses and realizes what's happening%%
+Uh-oh
+
+=============================================
+
+%darkgreen%\>a group of new lance recruits are being trained by a veteran knight for a guild regiment one day
 \>suddenly, there's a sharp change in the air followed by people screaming outside of the training grounds
 \>the group gets word of an unspecified elder dragon approaching from the skies
 \>despite being new recruits, they're all ready to put their lives on the line to protect the rest of the town because that's what lance users do
@@ -1019,7 +1054,7 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 \>gears start grinding in the teacher's mind, and after seeing the malzeno badly copy a few more of his moves everything begins to make sense somewhat
 \>fast forward a couple of days
 \>the malzeno has been making great strides in his lance maneuvers alongside his hunter pupils under the teachings of the veteran knight, even becoming a sort of mascot for the group
-\>the teacher however keeps wondering what the malzeno will do once it "graduates" and training is complete...
+\>the teacher however keeps wondering what the malzeno will do once it "graduates" and training is complete...%%
 
 ---
 ###*Mizutsune*
@@ -1031,7 +1066,7 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 >\>"Doubtful. Look at him, he looks like he hasn't even gotten a kiss from a monster..."
 >\>"I'll give you a kiss, hunter... on your cock."
 
-\>The two tama brothers pin you down and work on your cock like professionals
+%darkgreen%\>The two tama brothers pin you down and work on your cock like professionals
 \>The bubbly one slithered his tongue around your balls and giving them a good squeeze
 \>His soapy saliva kept your purse shiny and sensitive
 \>His more fiery brother worked on your tip, planting searing kisses on it
@@ -1046,7 +1081,7 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 \>The two smirked and expertly grabbed their own cocks and sandwiched them tight around yours
 \>Words of encouragement were muffled as you pretended you were breeding some monster fuckhole
 \>You passed out somewhere at around your fourth orgasm
-\>Wake to find yourself squeaky clean but covered in singed kiss marks around your body except your crotch
+\>Wake to find yourself squeaky clean but covered in singed kiss marks around your body except your crotch%%
 
 =============================================
 
@@ -1057,14 +1092,14 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 
 >[Mizustune is] Severely underrated by all the hypermasculine hunters who tally their monster pussy bodycounts with marks on their weapons/tattoos. I want them to release their bottled up emotions into his fresh-scented purplefur while they're held in a caring manner. 
 
-\>"Hello, hunter."
+%darkgreen%\>"Hello, hunter."
 \>You hadn't expected anyone to be around here and least of all the owner of the voice of Yukumo's resident friendly Mizutsune, Sion.
 \>There was this particular little stump outside the village, not too far from one of the stone markers and lantern posts on the way towards it but still far enough off that you believed you shouldn't be bothered.
 \>Especially by the nosy bath cattendant who delighted in luring people in with promises of relaxation and peace only to pump them for information.
 \>"May I ask why you're looking like that?"
-\>Frowning, you turn about to be met with the smiling face of Sion who's surprisingly close. He's getting quiet on his claws.
+\>Frowning, you turn about to be met with the smiling face of Sion who's surprisingly close. He's getting quiet on his claws.%%
 "I was just getting a little peace and quiet." With a humph, you turn back around to gaze out at the edge of the forest, muttering, "and how could you know how I looked? I wasn't even facing you."
-\>A deep, rumbling sound came from the Mizutsune indicating he was chuckling.
+%darkgreen%\>A deep, rumbling sound came from the Mizutsune indicating he was chuckling.
 \>"I didn't but then you turned about to face me and I saw you."
 \>Gog damnit, so the bath cattendant was just plying you because he knows you're an easy mark!
 \>Autumn leaves crunch to one side and slightly beside you; Sion must want you to know he's approaching now.
@@ -1085,9 +1120,9 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 \>Funny, since when was the horizon white and purple?
 \>And- Oh. No, the blue sun didn't blink, it was Sion's eye.
 \>You were so lost in thought that you never even noticed him bringing his head around you to get your attention.
-\>Now all you can do is give your hand a dismissive wave.
+\>Now all you can do is give your hand a dismissive wave.%%
 "I have some dried stuff but I didn't feel like having any earlier."
-\>Another rumbling noise rose in Sion's chest but this time it wasn't the rich and bubbly series of almost-growls that were a wyvern's laughter but a smooth and contemplative hum.
+%darkgreen%\>Another rumbling noise rose in Sion's chest but this time it wasn't the rich and bubbly series of almost-growls that were a wyvern's laughter but a smooth and contemplative hum.
 \>He keeps his eye on you for a moment longer and that red slit at its centre contrasts so greatly with the surrounding blue sclera that you can't quite look away from it.
 \>"Would you care to join me for some, then?" His tone is even and level, neither insistent nor imploring. "It's alright if you don't but I happen to know this quiet little spot by the river in the Misty Peaks that's quite agreeable for... peaceful contemplation."
 \>It would've been easy to sulk about that little nod towards how easily he's seen through you.
@@ -1111,9 +1146,9 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 \>You decide to take a chance and glance back to him but the edge of Sion's lip is just curled back in a smile.
 \>"I've missed our little chats in the bathhouse."
 \>It was about the only time you didn't have the cattendant bothering you and most other monsters weren't able to fit into it, what with work to design some elegant accommodation still being done.
-\>Sion was just able to squeeze in the already large entry designed more to impress.
+\>Sion was just able to squeeze in the already large entry designed more to impress.%%
 "Yeah..."
-\>He was about the only monster, too, that you didn't feel like you had to strip down with. Which meant that getting undressed for the bathhouse felt like any other time you went to relax.
+%darkgreen%\>He was about the only monster, too, that you didn't feel like you had to strip down with. Which meant that getting undressed for the bathhouse felt like any other time you went to relax.
 \>The rock underfoot shift from its mostly dry counterpart further up the valley with the occasional patch of moss, to requiring you to carefully navigate.
 \>The boots have good grip but the last thing you want is to put a foot wrong and give Sion another reason to have a chuckle.
 \>There's something else, here, however. When you're done in this part of the valley, it's invariably because of a quest and even on the occasions where they're languid you still treat them with the same professionalism.
@@ -1141,9 +1176,9 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 \>Except, when you go to remove those, Sion very pointedly clears his throat.
 \>Those blue eyes gaze back at you from the blue water of the river.
 \>"There is no need, dear hunter."
-\>And for the first time that day, you smile.
+\>And for the first time that day, you smile.%%
 "It's okay."
-\>'With you.'
+%darkgreen%\>'With you.'
 \>Sion tilts his head to one side but is careful to watch you all the same.
 \>You always wore some covering in the bathhouse and so this will be the first time that he sees you entirely naked.
 \>You don't feel like concealing anything from him, however. Not right now.
@@ -1179,11 +1214,11 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 \>"Hunter."
 \>You've never heard a wyvern whisper before. It's like the wind stirring a bed of reeds. Like the cool air of the mountain ruffling the leaves of the trees. All you can do is struggle to match its timbre in acknowledgement.
 \>"This is what you wish for."
-\>His head must be close to yours for him to be doing this. The thought makes you shift ever so slightly but Sion's claws on your back hold you fast, as if he's just as unwilling for you to move away from him.
+\>His head must be close to yours for him to be doing this. The thought makes you shift ever so slightly but Sion's claws on your back hold you fast, as if he's just as unwilling for you to move away from him.%%
 "Yes..."
-\>Your voice sounds beyond muffled as it's caught and held by Sion's purplefur, unwilling to share your secrets.
+%darkgreen%\>Your voice sounds beyond muffled as it's caught and held by Sion's purplefur, unwilling to share your secrets.%%
 "But they-"
-\>Intrude upon this peace and tranquillity.
+%darkgreen%\>Intrude upon this peace and tranquillity.
 \>This close to Sion, the rumbling hum that he produces vibrates through your whole body. It's like the most exciting and relaxing massage you've ever experienced.
 \>"They are not here, hunter."
 \>The claws on your back, Sion still being careful to keep the sharp ends away from your body, give the lightest squeeze.
@@ -1197,7 +1232,7 @@ Later in the day, a passing fleet member remarked that I "smell like a Tama sing
 \>As it should be.
 \>And is, as your breathing slows and deepens and your dear friend holds you close, letting... everything run free of you.
 \>And this one, precious, perfect moment stretches out before you.
-\>Both of you.
+\>Both of you.%%
 
 =============================================
 
@@ -1329,49 +1364,49 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 
 >When the hunter won’t hold your claw
 
-\>"It's because you're afraid, isn't it?"
+%darkgreen%\>"It's because you're afraid, isn't it?"%%
 "What?"
-\>"You're afraid of other monsters and people seeing us together!"
+%darkgreen%\>"You're afraid of other monsters and people seeing us together!"%%
 "I don't-"
-\>"I'm a queen, you know! The Queen of the Hoarfrost Reach!"
+%darkgreen%\>"I'm a queen, you know! The Queen of the Hoarfrost Reach!"%%
 "Yeah, I kn-"
-\>"If anything I should be the one who doesn't want others to see me courting a mere peasant!"
+%darkgreen%\>"If anything I should be the one who doesn't want others to see me courting a mere peasant!"%%
 "Hey, that's not-"
-\>"Yet here I am, unworthy of one measly little claw hold..."
+%darkgreen%\>"Yet here I am, unworthy of one measly little claw hold..."%%
 "It's not-"
-\>"Maybe I want people to know I have someone in my life, did you think of that?"
+%darkgreen%\>"Maybe I want people to know I have someone in my life, did you think of that?"%%
 "I'm always-"
-\>"And maybe I'd like how it'd feel to have my boyfriend holding my claw as we walk through the forest!"
+%darkgreen%\>"And maybe I'd like how it'd feel to have my boyfriend holding my claw as we walk through the forest!"%%
 "But-"
-\>"But oh no, not the Ice Queen! She doesn't even have feelings!"
+%darkgreen%\>"But oh no, not the Ice Queen! She doesn't even have feelings!"%%
 "No, that-"
-\>"Well I have some news for you, hunter: I do! And right now those feelings are hurt!"
+%darkgreen%\>"Well I have some news for you, hunter: I do! And right now those feelings are hurt!"%%
 "I'm sor-"
-\>"I moved all the way here to be with you! I had to appoint that idiot, Banbaro, vicereine to oversee the Reach while I spend all my time with a boyfriend who... who can't even touch my poor, lonesome little claw..."
+%darkgreen%\>"I moved all the way here to be with you! I had to appoint that idiot, Banbaro, vicereine to oversee the Reach while I spend all my time with a boyfriend who... who can't even touch my poor, lonesome little claw..."%%
 "That's not fai-"
-\>"Well I'm not sure I care to be with you right now! If... I-If this is how you're going to treat me, then-"
+%darkgreen%\>"Well I'm not sure I care to be with you right now! If... I-If this is how you're going to treat me, then-"
 \>*smooch*
-\>"... You kissed me!"
+\>"... You kissed me!"%%
 "Yeah?"
-\>"You... W-What was that for?"
+%darkgreen%\>"You... W-What was that for?"%%
 "Sweetheart, I don't hold your claw because it's freezing. I never said anything because I know you're self-conscious about that sort of thing, okay?"
-\>"... What?"
+%darkgreen%\>"... What?"%%
 "Yeah. I wanted to get your claws fitted for gloves or something so I could hold them."
-\>"Oh..."
+%darkgreen%\>"Oh..."%%
 "But if it's upsetting you this much then I guess we can try to work something out."
-\>"Well I... I-I can just raise the temperature in my claw..."
+%darkgreen%\>"Well I... I-I can just raise the temperature in my claw..."%%
 "... You can do that?"
-\>"Yes? I don't have to freeze it."
+%darkgreen%\>"Yes? I don't have to freeze it."%%
 "And you wouldn't mind?"
-\>"No! Not for you! I love you!"
+%darkgreen%\>"No! Not for you! I love you!"%%
 "And you never... forget it."
-\>"D-Does that mean you'll hold my claw?"
+%darkgreen%\>"D-Does that mean you'll hold my claw?"%%
 "Yes, my queen... I'll hold your claw."
-\>"Eee-he-he! Goodie!"
+%darkgreen%\>"Eee-he-he! Goodie!"%%
 "By the way, can you heat up other parts of your body without harm?"
-\>"Of course! Why?"
+%darkgreen%\>"Of course! Why?"%%
 "I'll let you know tonight."
-\>"What-... O-Oh my...~"
+%darkgreen%\>"What-... O-Oh my...~"%%
 
 ---
 ###*MULTIPLE/MISCELLANEOUS*
@@ -1380,18 +1415,18 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 
 ####*Kushala/Velkhana*
 
->[[Context]](https://desu-usergeneratedcontent.xyz/trash/image/1661/32/1661327595033.webm)
+>[[A video of Kushala and Velkhana sitting side by side]](https://desu-usergeneratedcontent.xyz/trash/image/1661/32/1661327595033.webm)
 
-\>One of the great joys of what the humans called the Elder's Recess was how the wind would clasp the crystals, at this high point, in its icy claws and play them like an instrument.
+%darkgreen%\>One of the great joys of what the humans called the Elder's Recess was how the wind would clasp the crystals, at this high point, in its icy claws and play them like an instrument.
 \>Sometimes he came here just to shut his eyes and listen to the sound. More often, these days, he brought the hunter to experience it. To sit by his side. To listen.
-\>But those steps that advanced upon him from near the edge of the wide, flat area he alighted upon were not a human's
+\>But those steps that advanced upon him from near the edge of the wide, flat area he alighted upon were not a human's.%%
 "Velkhana."
-\>His head languidly turned to one side and took in the sight of her caught in the briefest moment of surprise.
+%darkgreen%\>His head languidly turned to one side and took in the sight of her caught in the briefest moment of surprise.
 \>She paused and gave him a crooked little smile.
 \>"Still unwilling to use my name?"
-\>An icy breath shot from Kentu's nostrils as he turned aside from her.
+\>An icy breath shot from Kentu's nostrils as he turned aside from her.%%
 "The last time I used it, you said you never wished to see me again... Hela."
-\>More steps accompanied by the almost-hum of the wind upon icy-blue scales.
+%darkgreen%\>More steps accompanied by the almost-hum of the wind upon icy-blue scales.
 \>Even through his own scales he felt how the air cooled about him and he didn't need to turn to see Hela lowering her body by his side.
 \>The whole world was her demesne.
 \>"Yes. Well."
@@ -1401,9 +1436,9 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>But when he turned to meet them, he found they weren't the steaming, churning magma of the caverns but the crackling fire that his hunter would sit by and brew their tea over.
 \>"Isn't it?"
 \>He still wanted to say something, some rejoinder of the type they used to trade after they spent an afternoon coupling.
-\>She was right, however, it was a different time that now slept in the past.
+\>She was right, however, it was a different time that now slept in the past.%%
 "Why are you here, Hela?"
-\>Was it the question itself that caught her off guard or the quiet tone he voiced it with?
+%darkgreen%\>Was it the question itself that caught her off guard or the quiet tone he voiced it with?
 \>Whatever the case, it was she, surprisingly, who turned away from him and gazed out over the smouldering horizon fed by the boiling caverns below.
 \>Her mouth open and shut a couple of times and her wings shuffled against her back.
 \>It made Kentu's metallic scales whine along his tail as they vibrated with curiosity.
@@ -1415,11 +1450,11 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>Luckily, his own hunter pursued an elder dragon whose command of the wind ensured only they heard their own noises.
 \>"You are!"
 \>Lost in remembrance of yesterday's hunt, he hadn't even noticed when Hela's snout came close enough to his that they almost touched.
-\>It brought certain memories to the surface and Kentu found his long neck winding back from hers.
+\>It brought certain memories to the surface and Kentu found his long neck winding back from hers.%%
 "Yes."
-\>He said.
+%darkgreen%\>He said.%%
 "Well..."
-\>Other memories supplanted the poorer ones. Memories of yesterday and their parting, and of how his hunter would be away for some time on Guild-related business but would return.
+%darkgreen%\>Other memories supplanted the poorer ones. Memories of yesterday and their parting, and of how his hunter would be away for some time on Guild-related business but would return.
 \>Kentu's heart had felt familiar icy tendrils snake their way around it but for a different reason. Would his hunter find another monster? Perhaps an impressive Alatreon who commanded all the elements? They mostly made their home where his hunter was headed, after all.
 \>But with just a touch of a warm hand to his cool metal scales, all of that just... melted away.
 \>If his hunter had stayed by his side this long, what were the chances he would leave now? No, he would return and they would dance through the air together when he did so.
@@ -1427,19 +1462,19 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>"You look happy."
 \>Hela's snout was still in the same spot it had been and her eyes watched his closely.
 \>"When you gaze out towards the horizon like that, you look so happy. Not like…" A gentle, cool breath wafted over his own snout before Hela turned away from him. "You're thinking about your hunter, yes?"
-\>It wasn't a question that needed him to answer but he did so all the same.
+\>It wasn't a question that needed him to answer but he did so all the same.%%
 "I often find myself doing so."
-\>In another wyvern, her sigh might've sounded gruff and hoarse but everything Hela did, Kentu thought, was calculated to be as elegant and refined as possible.
+%darkgreen%\>In another wyvern, her sigh might've sounded gruff and hoarse but everything Hela did, Kentu thought, was calculated to be as elegant and refined as possible.
 \>"Still... it wasn't all bad, was it?" She turned back to him, a strange look in her eyes. "Us?"
 \>The time she made a snowball with her tail and hurled it at him, cackling uproariously as he stared back at her, flatly.
-\>Pinning her against the wall of the glacier only for her to smirk and remark upon how unfitting for a royal it was.
+\>Pinning her against the wall of the glacier only for her to smirk and remark upon how unfitting for a royal it was.%%
 "There was good in it. In us."
-\>But his mind still turned the feeling of a warm body against his own over and over and over.
+%darkgreen%\>But his mind still turned the feeling of a warm body against his own over and over and over.
 \>A warm body and an impossibly massive blanket it had lugged all the way out to this rocky place for the two of them to enrobe themselves in.
 \>A claw touched his and somehow it didn't feel quite so cold against his own.
 \>"Tell me about the good in you."
 \>Yes.
-\>What was between them, now slept contentedly in the past.
+\>What was between them, now slept contentedly in the past.%%
 “His name is Anonymous and we met…”
 
 ===================================
@@ -1447,14 +1482,14 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 ####*Lagiacrus/Mizutsune*
 
 [\>Lagi recoiled in disgust from the hunter's touch, struggling to break free of the silkbindings that clung to her body.](https://desu-usergeneratedcontent.xyz/trash/image/1684/69/1684694101901.jpg)
-\>Water still rippled from her after her breaching the surface but the very last thing she'd expected was a smack from a human followed quickly by those treacherous bugs holding her in place.
+%darkgreen%\>Water still rippled from her after her breaching the surface but the very last thing she'd expected was a smack from a human followed quickly by those treacherous bugs holding her in place.%%
 "Gah! D-Don't you dare, filthy human!"
-\>Her tail lashed against the ground and kicked up muddy water. She caught Mizu recoiling beside her, the edges of his lips curling down as he struggled against his own bindings not to be touched by the filthy liquid.
+%darkgreen%\>Her tail lashed against the ground and kicked up muddy water. She caught Mizu recoiling beside her, the edges of his lips curling down as he struggled against his own bindings not to be touched by the filthy liquid.
 \>"Keep it up and I'll put down a shock trap."
 \>Such insolence!
-\>She let out a gurgling growl and made to snap at the hand that was inching ever closer to her snout only to clamp down on thin air and be left with laughter filling her with shame and anger.
+\>She let out a gurgling growl and made to snap at the hand that was inching ever closer to her snout only to clamp down on thin air and be left with laughter filling her with shame and anger.%%
 "That's all you have, tricks and traps! Dishonourable human!"
-\>"All's fair in love and war."
+%darkgreen%\>"All's fair in love and war."
 \>Oh, that sing-song voice made the shell shockers on her back spark! Doubly so when she caught the human beginning to walk to one side.
 \>She could practically feel his hand against her scales already, warm bare skin trailing against her cool, wet body and it... it...
 \>Her tail started to reflexively lift before she slammed it back down and a howl of outrage came from her side.
@@ -1465,24 +1500,24 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>And that queen was sure to raise her head and glare down at the diminutive hunter that came back up to her front.
 \>Every little movement of her legs was met with resistance from the silkbinding and it made her heart race; at the mercy of this small and frail creature. Shameful!
 \>"You're a fine specimen."
-\>In spite of herself, Lagi drew her head up to its full height and looked down imperiously at the human. Her right foreleg twitched and the silkbinding pulled it neatly back.
+\>In spite of herself, Lagi drew her head up to its full height and looked down imperiously at the human. Her right foreleg twitched and the silkbinding pulled it neatly back.%%
 "What are you going to do to us, hunter?"
-\>She spat the words down at him, knowing full well the fate that awaited her. But she wanted to hear it from him. She wanted him to dirty himself by admitting those filthy words.
+%darkgreen%\>She spat the words down at him, knowing full well the fate that awaited her. But she wanted to hear it from him. She wanted him to dirty himself by admitting those filthy words.%%
 "Hm? A pair of monsters at your mercy, oh yes, I've heard the things you do."
-\>Mizu whined beside her but she didn't so much as glance at him, her mind was too full of thoughts that tumbled down onto her tongue and out from there.
+%darkgreen%\>Mizu whined beside her but she didn't so much as glance at him, her mind was too full of thoughts that tumbled down onto her tongue and out from there.%%
 "I know all about your 'shock traps' and how you find ways to use them against monsters like me!"
-\>A shudder ran down through her tail to the tip that shivered in the air.
+%darkgreen%\>A shudder ran down through her tail to the tip that shivered in the air.%%
 "Say it! Admit to your deviancy!"
-\>The hunter... the hunter had the utter gall to smirk!
+%darkgreen%\>The hunter... the hunter had the utter gall to smirk!
 \>At her!
 \>"All in good time, my dear."
 \>As if he were a felyne, the hunter stalked over to Mizu and the white wyvern looked like he was struggling to both pull away and bring his head closer to the muck-covered hunter. Sloshing about in the muddy swampwater had covered most of his body.
 \>"Now that I have you both where I want you, I think it might be time to get a little 'down and dirty'-"
 \>"Ah! Bomberry! B-BOMBERRY!"
 \>Mizu started squirming about, whining and whimpering against his bindings.
-\>It left Lagi to huff loudly and turn her head to him once more.
+\>It left Lagi to huff loudly and turn her head to him once more.%%
 "Really? After just that? Hadn't we gone over this?"
-\>At least he had the good sense to lower his head in shame, she thought to herself.
+%darkgreen%\>At least he had the good sense to lower his head in shame, she thought to herself.
 \>And the hunter just put his arms around Mizu's snout! Whose side was he on anyway?
 \>"The hunter just polished my scales this morning!" he squeaked out and Lagi fought hard to stop a growling laugh bubbling up in her.
 \>It was almost worth missing out on this fun to see her friend make such noises.
@@ -1490,7 +1525,7 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>To her side, Mizu nodded his head repeatedly.
 \>"Y-Yes, please! I'd much rather we did this back at the Guildhall, anyway..."
 \>Lagi sighed heavily.
-\>This was going to be a long hunt...
+\>This was going to be a long hunt...%%
 
 =============================================
 
@@ -1500,7 +1535,8 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 
 >\>Guild PSAs on the dangers of monster courting
 >Do they have a D.A.R.E. equivalent on why monsterfucking's "not cool for school"?
-\>be hunter
+
+%darkgreen%\>be hunter
 \>forced to attend a stupid mandatory M.A.R.E. (monster abuse resistance education) meeting
 \>everyone already knows monsterfucking has risks and these cringy-ass presentations aren't going to convince anyone to change their mind
 \>once everyone's seated some dumb "how do you do fellow hunters"-level hiphop music starts blasting from a cheap-sounding hunting horn
@@ -1513,7 +1549,7 @@ Oh and make sure it has a clasp on the chin; Vaals have trouble fixing it so you
 \>"So all you cool felynes goin' out there, huntin' monsters, keepin' us all safe, that's pretty COOL, amiright? But tell me, any of you guys ever run into a monster that made you go 'OH NO'?!"
 \>only a quiet cough in response
 \>"Well me and my pack here, we think that kind of stuff is NO GOOD. If a monster comes onto you in a way that makes you go OH NO, you tell the Guild, and you farcaster the heck out of there!"
-\>holy shit where's a hunting knife you'll end it right here and now you swear
+\>holy shit where's a hunting knife you'll end it right here and now you swear%%
 
 \##################################################
 
