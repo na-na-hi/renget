@@ -26,6 +26,7 @@ New thread template
 >/gedg/ Compendium: https://rentry.org/gedg
 >/agdg/: >>>/vg/agdg
 >previous:  previous thread here
+>
 >Requesting Help
 >-Problem Description: Clearly explain the issue you're facing, providing context and relevant background information.
 >-Relevant Code or Content: If applicable, include relevant code, configuration, or content related to your question. Use code tags.

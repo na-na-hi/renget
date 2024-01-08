@@ -7,7 +7,7 @@
 
 This Archive starts from Nyanners Vtuber Debut (2020-07-17) until the current date, it also includes 90% of Vods of Collabs on other Channels from 2020-07-17 until 2022-12-31 as i started to only archive main channel vods from that date forward. I will always make sure my Vods are safe to share as i started this Archive purely for Archival purposes. You can find a Spreadsheet with the runtime and contents of each Vod in the link below which is useful if you are looking for a specific Vod, for the whole Archive check the Microsoft Onedrive Links below it. You can also find a Fanart/reaction pic archive and an Archive of MP3 and MP4 Karaoke Clips of Nyanners in this rentry.
 
-#-  [Nyanners Vod Archive Spreadsheet (Use this to easily find specific vods)](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446)
+#-  [Nyanners Vod Archive Spreadsheet (Use this to easily find specific vods)](https://1drv.ms/x/s!AhS3PgDnjlw8kVcupEyIBMbcTgfH?e=OzGAGA)
  
  
 ---
@@ -28,12 +28,8 @@ Account 6 of 6  | [MS Onedrive](https://1drv.ms/u/s!Apl303uskFgzaP-ZVOYHvfgbKes?
 ##Microsoft OneDrive Links (2) - (Covering Vods starting from 2023-03-13 until current date):
 Content|Link|Description 
 -------|-------|------- 
-Account 1 of 6 | [MS Onedrive](https://1drv.ms/f/s!AiI5vvAVB2EMbdAngsImhBemxWc?e=M8hcJ6) | Nyanners Main channel Vods (No Vods yet)+ Alt Vods (Vods from 2023-04-01 to ????-??-??)+ Nyanners Fan Art Archive/Reaction Pics
-Account 2 of 6 | [MS Onedrive](https://1drv.ms/f/s!AoegX-R_xwt0bRV6rLw8ESNcr1g?e=gjoXx6) | Nyanners Main channel Vods (No Vods yet)
-Account 3 of 6 | [MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5bf-GrgSB-ha9G2E?e=FERkOU)| Nyanners Main channel Vods (No Vods yet)
-Account 4 of 6 | [MS Onedrive](https://1drv.ms/f/s!Aqj2p3oNQtqyaqVVnI0vVA5UXQs?e=GJgdAU) |Nyanners Main channel Vods (No Vods yet)
-Account 5 of 6 | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8an5sBk3VhUQW9qc?e=cXS3pT)| Nyanners Main channel Vods (Vods from 2023-08-30 to ????-??-??)
-Account 6 of 6 | [MS Onedrive](https://1drv.ms/f/s!ApIKD371i231anF6NNOJ_QBzrYs?e=0S9FcQ) | Nyanners Main channel Vods (Vods from 2023-03-13 to 2023-08-26)
+Account 2 of 2 | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8an5sBk3VhUQW9qc?e=cXS3pT)| Nyanners Main channel Vods (Vods from 2023-08-30 to ????-??-??) + Alt Vods (Vods from 2023-04-01 to ????-??-??)+ Nyanners Fan Art Archive/Reaction Pics
+Account 1 of 2 | [MS Onedrive](https://1drv.ms/f/s!ApIKD371i231anF6NNOJ_QBzrYs?e=0S9FcQ) | Nyanners Main channel Vods (Vods from 2023-03-13 to 2023-08-26)
 
 ## Youtube Links to unlisted Vods on my unmonetized Youtube Channel that i use for Archival purposes
 Content|Link|Description 
@@ -52,7 +48,7 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
 ---
 
 #Nyanners Fanart and reaction pic/gif Archive:  
-##->[Mega](https://mega.nz/folder/WW5SxSxK#RO0I0umTCNFDFN07ndw3pg) - [Ms OneDrive](https://1drv.ms/f/s!AiI5vvAVB2EMcLQjQWGhCvTbDyg?e=JnCS8a)<-
+##->[Mega](https://mega.nz/folder/WW5SxSxK#RO0I0umTCNFDFN07ndw3pg) - [Ms OneDrive](https://1drv.ms/f/s!AhS3PgDnjlw8iWt5d8XGtJM4zzOy?e=29DVbV)<-
 
 ---
 

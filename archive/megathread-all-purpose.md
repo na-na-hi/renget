@@ -110,10 +110,6 @@
 - Sizable torrent database with an extensive catalog featuring a diverse range of media and well-seeded.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentdownloads.pro/)
 
-### 🧲 [TorrentFunk](https://www.torrentfunk.com/)
-- Quick search engine with the most up-to-date TV series, movies, games, software, and anime torrents.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrentfunk.com/)
-
 ### 🐐 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
 - The emerging star of the p2p world, with a youthful, fresh, and open community where you can discover almost anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentgalaxy.to/)

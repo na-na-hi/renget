@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-07==
+# /aicg/ chronicles, up to ==2024-01-08==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -914,7 +914,7 @@ When | Where | What
 2024-01-04|[98248861](https://desuarchive.org/g/thread/98247977#98248861)| text-davinci-003 is no more
 2024-01-04|[98250679](https://desuarchive.org/g/thread/98250082#98250679)| GPT4's moderation explored in context of Protected Material text being considered harmful
 2024-01-04|[98255921](https://desuarchive.org/g/thread/98255802#98255921)| some of the largest llms quizzed and arranged on the Political Compass
-2024-01-05|[98260723](https://desuarchive.org/g/thread/98258991#98260723)| 5 months old publication about a vulnerability in OAI's API keys generation discovered
+2024-01-05|[98260723](https://desuarchive.org/g/thread/98258991#98260723)| 5 months old publication about a vulnerability in OAI API keys generation discovered
 2024-01-05|[98265649](https://desuarchive.org/g/thread/98264460#98265649)| news article about boyfriend\.myanima\.ai shared, both laughed at
 2024-01-05|[98267419](https://desuarchive.org/g/thread/98266974#98267419)| anon provides an example of the clever use of Claude for language learning
 2024-01-05|[98267211](https://desuarchive.org/g/thread/98266974/#98267211)| heavy /aicg/ spam wave purged
@@ -924,6 +924,15 @@ When | Where | What
 2024-01-06|[98285801](https://desuarchive.org/g/thread/98283543#98285801)| "alt frontend developing" anon considers multi-user chat interesting, but excessive
 2024-01-06|[98288233](https://desuarchive.org/g/thread/98286012/#98288233)| CharacterHub resets bio in user profiles
 2024-01-07|[98296681](https://desuarchive.org/g/thread/98295018#98296681)| anon from the future brings up chat-instruct finetunes
+2024-01-07|[98301671](https://desuarchive.org/g/thread/98301125#98301671)| anon claims OAI API keys generation vulnerability is still viable
+2024-01-07|[98306071](https://desuarchive.org/g/thread/98304715#98306071)| OAI presents itself as caring only about the safety
+2024-01-07|[98307300](https://desuarchive.org/g/thread/98307167#98307300)| Gemini Ultra rumored to become available via subscription based Bard Advanced
+2024-01-07|[98308189](https://desuarchive.org/g/thread/98307167#98308189)| current TTS solutions shared
+2024-01-08|[98313874](https://desuarchive.org/g/thread/98313275#98313874)| anon presents his unbloated 250 sloc frontend, promises to share soon
+2024-01-08|[98319011](https://desuarchive.org/g/thread/98317745#98319011)| moemate\.io could be abusable
+2024-01-08|[98319896](https://desuarchive.org/g/thread/98317745#98319896)| an email from HF threatens to bring down a proxy due to guidelines violations
+2024-01-08|[98323441](https://desuarchive.org/g/thread/98323109#98323441)| news article with Lore anon's interview shared, CharacterHub has generated more than $1 million in annualized revenue
+2024-01-08|[98323641](https://desuarchive.org/g/thread/98323109#98323641)| anon claims CharacterHub's gross revenue is much lower, Lore anon's comments were misrepresented
 -|-|-
 
 [](you have found my secret stash of nothing!)

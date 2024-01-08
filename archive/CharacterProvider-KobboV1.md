@@ -1,4 +1,4 @@
-#This projectis is discarded.#
+#This project is unfinished and discarded.
 -> The guidelines work, but the GPT writing style is still the same. And I haven't found any solution for it yet. I think it's impossible to make GPT write less fluffy and flowery texts... **For now.** <-
 
 ![](https://i.imgur.com/IH2jLxV.gif)

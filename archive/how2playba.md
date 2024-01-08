@@ -202,7 +202,7 @@ The 'best' units are the ones with a high score, but be aware that BA is a game 
 (for the 2nd guide/raid tierlist) 
 Make sure to read the extra notes on the right as well. 
 
-You level up ur EX and regular skills based on raids and (to a lesser degree) PvP. You can get by with only levels and equipment in PvE stuff.
+**You level up ur EX and regular skills based on raids and** (to a lesser degree) **PvP.** You can get by with only levels and equipment in PvE stuff.
 You get the biggest impact investing into your DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills.
 
 Early on you prioritise: Levels > Gear > Skills
@@ -218,7 +218,11 @@ Taken from https://bluearchive.fandom.com/wiki/Divine_Fragment
 From 3* to UE50 it costs 2400 elephs.
 
 >Can I brick myself leveling up a student (e.g. Priconne)?
-No. At most you brick yourself by levelling the worse characters.
+No. At most you brick yourself by levelling the worse characters. 
+
+>Okay, now actually tell me who I should max out 
+UE40 the anniversary units, Ako, and Himari.
+Happy? 
 
 ## Normal and Hard missions
 Puzzle gaming. Look at youtube videos (e.g. "Blue Archive Mission 3-5") or [use the wiki](https://bluearchive.wiki/wiki/Missions) if you don't know how to solve a puzzle (lol).
