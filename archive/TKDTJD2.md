@@ -1283,3 +1283,176 @@ In reality, nine barges caught fire yesterday in the village of Salkh, on the is
 
 The IRGC naval base is located between the towns of Shib Derazto, to the south-west, and Messen, to the north-east.
 https://nitter.net/IranObserver0/status/1744105828737507340#m  1/7/24
+
+>BREAKING| Residents in Khan Yunis, Gaza urge the Red Cross to evacuate several dead, injured, and displaced citizens trapped in Muhammad Al Dorrah school in the city.
+https://nitter.1d4.us/QudsNen/status/1744321266612420963#m  1/8/24
+
+>The Ministry of Health says Shuhada' Al Aqsa Hospital received 73 victims and 99 wounded during the last 24 hours.
+https://nitter.1d4.us/QudsNen/status/1744245353606492381#m  1/8/24
+
+>Bolivia announces support for South Africa's genocide case against Israel to become the first Latin American country to endorse the case.
+https://nitter.1d4.us/QudsNen/status/1744249560891822264#m  1/8/24
+
+>Hundreds of Bosnians march in Sarajevo against Israel’s genocidal war on Gaza
+https://nitter.1d4.us/QudsNen/status/1744303072833081807#m  1/8/24
+
+>⚡️Hezbollah publishes pictures of the martyr, Commander Wissam Hassan Tawil, “Hajj Jawad”
+https://nitter.net/ME_Observer_/status/1744346481308356903#m  1/8/24
+
+>⚡️Benjamin Netanyahu:
+“We will do our best to restore security in the north, and send the message that it is impossible to mess with us.”
+https://nitter.net/ME_Observer_/status/1744336646915395599#m  1/8/24
+
+>Breaking | Gaza Health Ministry Office: "The Israeli aggression has committed 17 massacres against families in Gaza, resulting in 249 casualties and 510 injuries in the past 24 hours."
+https://nitter.1d4.us/QudsNen/status/1744354498657542479#m  1/8/24
+
+>Breaking | Gaza Health Ministry Office: "The toll of the Israeli aggression on Gaza has risen to 23,084 casualties and 58,926 injuries."
+https://nitter.1d4.us/QudsNen/status/1744355095746154578#m  1/8/24
+
+>Gaza’s Government Media Office demands urgent opening of Rafah border crossing
+https://nitter.1d4.us/QudsNen/status/1744355143523418283#m  1/8/24
+
+>Media coverage | The Daily Mail newspaper posted pictures of Israeli soldiers captured from Nahal Oz military base and falsely claimed they are "girls" kidnapped in Gaza.
+https://nitter.1d4.us/QudsNen/status/1744371126740963599#m  1/8/24
+
+>Calls for protests on January 20th in Spanish cities in support of Palestine and demanding the cessation of arm deals with Israel.
+https://nitter.1d4.us/QudsNen/status/1744388217288151398#m  1/8/24
+
+>Huge numbers marching in support of Palestine in Oslo, Norway.
+https://nitter.1d4.us/QudsNen/status/1744385381515104286#m  1/8/24
+
+>Protesters are gathered outside the New York Stock Exchange building in support of Palestine and calling for a ceasefire.
+https://nitter.1d4.us/QudsNen/status/1744387427593003320#m  1/8/24
+
+>⚡️📢: An American military official told Al-Mayadeen: 
+American and coalition forces were subjected to at least 120 attacks in #Syria and Iraq from October 17 until yesterday, Sunday.
+https://nitter.net/ME_Observer_/status/1744396331936776259#m  1/8/24
+
+>⚡️Israeli media: 
+After the army reduced its forces and talk of destroying 6 #Hamas brigades, Al-Qassam regains its ability to fire rockets towards Tel Aviv.
+https://nitter.net/ME_Observer_/status/1744391517467226285#m  1/8/24
+
+>⚡️Magen David Adom:
+We received reports of missiles falling in Tel Aviv.
+https://nitter.net/ME_Observer_/status/1744391634404376717#m  1/8/24
+
+>⚡️Occupied Palestine: Government Information Office: The number of journalist martyrs has risen to 112 journalists since the start of the genocidal war on #Gaza.
+https://nitter.net/ME_Observer_/status/1744392136135524594#m  1/8/24
+
+>⚡️An indication that Al-Qassam controls the north and south of the #Gaza Strip. Rockets were launched from the north on the 94th day of the war. The Zionist occupation did not achieve 1% of its goals. Its goal was to liberate the hostages by military force, and it was only able to use the negotiation table and the exchange of prisoners. It was its goal and still is, and it was not able to assassinate leaders. Israel aimed to destroy the tunnels, but it did not destroy them and was unable to reach them.
+https://nitter.net/ME_Observer_/status/1744398690825929011#m  1/8/24
+
+>⚡️Scenes from the Islamic Resistance in #Iraq launching a drone towards the American occupation base “Rmelan” in #Syria.
+https://nitter.net/ME_Observer_/status/1744391487456936376#m  1/8/24
+
+>⚡️📹Al Quds bridages releases :
+A message from the Zionist prisoner, Elad Katzir, who is being held by the Al-Quds Brigades. They left us alone.
+
+[Translations are done by AI, they are not 100% accurate but you will get the idea]
+https://nitter.net/ME_Observer_/status/1744399395519332670#m  1/8/24
+
+>⚡️The Mujahideen Brigades publishes:
+ Scenes of our Mujahideen bombing Sderot with missiles
+https://nitter.net/ME_Observer_/status/1744400329628582337#m  1/8/24
+
+>⚡️Netanyahu and Gallant in the Likud bloc meeting: The war is not close to its end in #Gaza and the northern border and will continue for many months
+https://nitter.net/ME_Observer_/status/1744401954107720149#m  1/8/24
+
+>Happy commandos who returned from Gaza, but 👩‍🦽
+https://twitter.com/Sprinter99800/status/1744351236554445058  1/8/24
+https://files.catbox.moe/dtu4j5.mp4  1/8/24
+
+>⚡️British Defense Minister:
+🔹We urge the Houthis to stop their attacks in the Red Sea and they will bear responsibility if they ignore our warnings
+
+🔹The United Kingdom will not tolerate the Houthis closing international sea lanes
+https://nitter.net/ME_Observer_/status/1744407549061771467#m  1/8/24
+
+>⚡️Allowed to publish... Hebrew media:
+An #Israeli migrant soldier died of a heart attack. He was Sergeant Stav Pasha, who worked in the 12th Golani Battalion. He was returned from service in #Gaza, where he lost many soldier friends. He died last week due to a heart attack.
+
+>“There are soldiers who die in battle, and there are those whose hearts are silenced by grief, and in both cases they die
+https://nitter.net/ME_Observer_/status/1744422550443057373#m  1/8/24
+
+>Breaking | Al Jazeera: Protesters interrupt U.S. President Biden during a speech, chanting to demand an end to the war on Gaza.
+https://nitter.1d4.us/QudsNen/status/1744422178903261426#m  1/8/24
+
+>Jeremy Corbyn's statement in the British Parliament addressed the Israeli crimes in Gaza and emphasized the harsh realities of the dire situation faced by displaced Palestinians.
+https://nitter.1d4.us/QudsNen/status/1744423911691850045#m  1/8/24
+
+>⚡️Message from Al Bukhaiti to the people of America :
+https://nitter.net/ME_Observer_/status/1744428069249565089#m  1/8/24
+
+>Breaking | Israeli forces raided Tulkarm in the West Bank, with reports indicating that three Palestinians have been killed.
+https://nitter.1d4.us/QudsNen/status/1744436592750547355#m  1/8/24
+
+>⚡️West Bank youth: The Rapid Response Groups in general and the Tulkarm Battalion in particular:
+"We announce the start of an expanded operation for all our brigades and groups from now until further notice"
+
+The martyrs of Tulkarm Governorate who joined the constellation of martyrs following a cowardly assassination carried out by the Zionist enemy in the Aktaba Al-Samoud area.
+(Martyrs of the Battle of Al-Aqsa Flood)
+The heroic martyr, one of the rapid response fighters, Youssef Al-Kholy
+The heroic martyr Ahed Rajab
+The heroic martyr Tariq Shaheen
+
+We pray to God to accept them as martyrs and friends
+
+An eye for an eye, a tooth for a tooth, blood for blood, and wounds are retribution
+
+We also mourn the martyr of the resistance in #Lebanon, the heroic martyr Jawad Al-Tawil
+
+We announce the start of an expanded operation for all our brigades and groups from now until further notice
+
+Your brothers and soldiers
+Al-Aqsa Martyrs Brigades
+Rapid response groups (central command)
+https://nitter.net/ME_Observer_/status/1744445803408527749#m  1/8/24
+
+>Media coverage | Israeli singer Idan Amedi, known for his role in the Netflix show "Fauda," is reportedly seriously injured while serving as a reservist in the Israeli army in Gaza. Amedi allegedly shared a video on his social media account participating in the bombing of a building in Gaza as an act of revenge.
+https://nitter.1d4.us/QudsNen/status/1744448582822838587#m  1/8/24
+
+>⚡️ Al-Aqsa Martyrs Brigades: 
+We mourn the martyr of the resistance in #Lebanon, the heroic martyr Jawad Al-Tawil
+https://nitter.net/ME_Observer_/status/1744453051123994983#m  1/8/24
+
+>⚡️ More about the #Iraqi missile strike using a new advanced missile type - "Aqrab" that hit a target in the Haifa Bay 
+This operation is being completely ignored by Israeli media
+https://nitter.net/ME_Observer_/status/1744454522880077884#m  1/8/24
+
+>⚡️Al-Mayadeen sources: 
+Two ships were targeted on the fourth of this month, 4 days ago,  the first in the Indian Ocean, northwest of the Maldives.
+ The second ship was targeted in the Indian Ocean near the port of Kochi Hind
+
+ The first ship was an #Israeli ship called (CHEM CILICON) belonging to the ACE company and was flying the Liberian flag.
+
+The second ship has  #Israeli ownership, and its name is (PACIFIC GOLD) belonging to the “Eastern” company.
+
+The two targeted ships were carrying huge quantities of oil
+https://nitter.net/ME_Observer_/status/1744459374188200026#m  1/8/24
+
+>⚡️ I think #Iran hit these two ships
+https://nitter.net/ME_Observer_/status/1744462750833582286#m  1/8/24
+
+BREAKING| Hundreds of citizens take to the streets of Tulkarm in the West Bank after Israeli forces executed three young men and assaulted their dead bodies.
+https://nitter.1d4.us/QudsNen/status/1744467668168573431#m  1/8/24
+
+>⚡️Watch Avichai Adraee, head of the IDF Arab media propaganda division , running Takfiri propaganda to create a rift between resistance factions and the Islamic world.
+
+This is why Zionists are called thieves of religion. Israel made many cheikhs work on division with the help of their partners in the region (both shiites(like yasser habib the Cheikh of the Queen in the UK) and sunnis)
+https://nitter.net/ME_Observer_/status/1744466266310455652#m  1/8/24
+
+A terrifying scene of an Israeli Jeep running over a young man after shooting him along with two other young men in Tulkarm in the West Bank. 
+
+Israeli soldiers prevented paramedics from reaching the young men leaving them to bleed until they died.
+https://nitter.1d4.us/QudsNen/status/1744466142918238591#m  1/8/24
+
+Israeli forces opened fire at three young men in the West Bank city of Tulkarm and prevented paramedics from reaching them for two hours until they died.
+
+This footage shows Israeli soldiers savagely assaulting the young men after shooting at them.
+https://nitter.1d4.us/QudsNen/status/1744460972570374595#m  1/8/24
+
+>⚡ Hezbollah released footage of their attack on a Merkava tank yesterday near Al-Asi base.
+https://nitter.net/WarWatchs/status/1744474024917303360#m  1/8/24
+
+>"Hezbollah" published footage showing the targeting of Zionist positions and equipment in "Metula".
+https://nitter.net/Observe/status/1744474405860786439#m  1/8/24

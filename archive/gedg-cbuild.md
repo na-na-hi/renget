@@ -664,7 +664,7 @@ target_link_libraries(app raylib)
 
 Copy over the build script that we've been using this whole tutorial. Now run the build script and then run the binary to see your very own raylib window!
  
-Note: Be careful, in this case the sub-directory and library have the same name. This often occurs with libraries if you don't alter the directory name after cloning. Please don't mix up these two CMake commands!
+Note: Be careful, in this case the sub-directory and library have the same name. This often occurs with libraries if you don't alter the directory name after cloning. Please don't mix up these two CMake commands! One thing you can do to avoid confusion is git clone or git submodule into a subdirectory like 'external' or 'vendor'.
 
 ## Afterward
 

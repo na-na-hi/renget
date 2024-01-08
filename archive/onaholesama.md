@@ -1,7 +1,7 @@
 # onaholesama's furshit
-->![https://files.catbox.moe/9lwgse.mp3](https://files.catbox.moe/18qa4c.png)<-
+->![https://files.catbox.moe/9lwgse.mp3](https://files.catbox.moe/2ss88p.jpg)<-
 ***
-hey, i like anthros. you'll only find anthro/furry stuff here.
+HAHAHAHAHHAHA ITS SO OVER. DEVHATE FOREVER. 
 ***
 [TOC2]
 

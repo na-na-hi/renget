@@ -14,6 +14,8 @@
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 ⠀
+
+-> ![](https://files.catbox.moe/kt8kxp.png) <-
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀

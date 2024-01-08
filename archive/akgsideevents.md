@@ -9,20 +9,22 @@ I've also noted the amount of OP awarded by fully clearing them using the number
 Grani and the Knights's Treasure (Grani) 15OP
 Heart of Surging Flame (Ceylon) 28OP
 >easy tier
-Under Tides 28OP
+Under Tides (**Gladiia**) 28OP
 Darknights's Memoir (Sideroca) 22OP
 Mansfield Break (Robin) 27OP
 Code of Brawl (Bison) 29OP
 Gavial the Great Chief Returns (Tomimi) 28OP
 >medium tier
+Guide Ahead 27OP
 Break the Ice 30OP
 Twilight of Wolumonde (Folinic) 32OP
 Who is Real (Lava The Purgatory) 30OP
 Dossoles Holiday* 40OP 
 >hard tier
 Maria Nearl (Whislash) 28DP
-A Walk in the Dust 27OP
+A Walk in the Dust (Heavyrain) 27OP
 Near Light 41 OP
+Lone Trail 40OP
 Stultifera Navis 36OP
 
 Some recommendations:
@@ -36,7 +38,7 @@ Some recommendations:
 - Several operators with modules have the specific mission for a map inside one of these events. If you're new, by the time you'll be caring about modules you should have most if not all side stories open. However, it doesn't hurt to plan ahead if you're rushing your'e waifu as one of your first E2s and she happens to have modules. Even then, it's a better idea to build a full roster first.
 - Grani and the Knight's Treasure can be stomped easily including any year2+ operator, and is a breeze even with launch E1 operators for the peak arkboomer experience, but you don't get that much OP out of it. Grani is workable with vanguard and dodge memes though.
 - Heart of Surging Flame is infamous for its 0-sanity cost story stages, which can be used to fulfill dailies/weeklies/module missions with autos so it's a recommended unlock.
-- Under Tides was released before wandering medics existed and it was already easy then. If you bring one such as the free Honeyberry it's a complete joke. Several high impact operator modules have missions in here, and Gladiia is an absolute monster for a welfare unit which will become available as a record restore in the future, so it's highly recommended. 
+- Under Tides was released before wandering medics existed and it was already easy then. If you bring one such as the free Honeyberry it's a complete joke. Several high impact operator modules have missions in here, and Gladiia is an absolute monster for a welfare unit which can be unlocked here, so it's highly recommended. 
 - Stultilfera Navis may have a lot of OP, but they notably overhauled the UI to hide the fact none of the story nodes actually award any. You're going to have to fight for every single one, and if you ask around you'll find it's a helluva fight. I recommend Wolumonde first if you really need primes.
 - Dossoles Holiday introduced stickers, which are buffs for your party and which counter some event specific mechanics (corrosion damage, high tide, etc). Because the EX and S stages are balanced around them, the difficulty is heavily backloaded and you might only be able to deal with the story stages at first, which is why I marked it. It also has a 0-sanity cost pseudo annihilatio which you might want to exploit for dailies/weeklies but good luck autoing that one (many oldstinkies still couldnt and settled for the bugged 400 clear). 
 
@@ -53,12 +55,12 @@ At face value, the unlimited Fragment shop in such events *looks* less efficient
 
 Ordered from most to least useful. Your mileage will vary, and I do not care.
 
-- Gladiia, from Under Tides (not restorable yet), is the best welfare unit. Great CC, damage against light units, regen, can be put on high tiles, has the most broken module in the game, enables AH comp. Build her when UT becomes restorable, you won't regret it. 
-- Tequila, from Dossoles Holiday (not restorable yet), has long been sent permanently to the bench ever since Młynar's debut, but he's still worth E2 purely because of his base skill - one of the extremely few base skills that will pay themselves back within a reasonable timeframe, specially as the lynchpin of Shamare comp. He's also fun to actually use: has good damage, survivability, is cheap to deploy, and having manual S2 deactivation available makes uptime management a breeze.
+- Gladiia, from Under Tides is the best welfare unit, widely considered one of the best welfares released in any mobage period. Great CC, damage against light units, regen, can be put on high tiles, has the most broken module in the game, enables AH comp. Unlock her, E2, M6+, max nyodule, you won't regret it. 
+- Tequila, from Dossoles Holiday (not restorable yet), has long been sent permanently to the bench ever since Młynar's debut, but he's still worth E2 purely because of his base skill - one of the extremely few base skills that will pay themselves back within a reasonable timeframe, as the lynchpin of Shamare comp. He's also fun to actually use: has good damage, survivability, is cheap to deploy, and having manual S2 deactivation available makes uptime management a breeze.
 - Bena, from Preluding Lights is a most interesting option for a new player because of her niche. Her talent allows her doll form to resist a lot of phys/arts damage, on top of her block lowering to 0 as per her subclass, making her very difficult to completely kill. Because of this, she makes excellent renewable bait and a crash course on the aggro system. She also does decent damage in a pinch, just keep in mind her skills are built to get herself killed and activate her branch's trait. She will require medic babysitting if used as a laneholder.
 - Sideroca, from Darknights Memoir, is a surprisingly workable arts guard with superb survivability thanks to her high HP pool, innate RES and regeneration skills. For a welfare, she has few flaws, namely relying on being fed kills for her ASPD talent, an inexplicable range reduction on S2, and not being Surtr.
 - Lava The Purgatory, from Who Is Real, is a fine choice if you feel like you want a stronger Gitano and do not have Mostima or Dusk. Just keep in mind that Splash Casters aren't in a very good spot overall. As a fun aside, Lavalt with module and S1 has the honor of being one of the very few non-Blast casters with range 5, and the only Splash Caster with that capability.
-- Robin, from Mansfield Break, revolves around binding and pushing back enemies with her traps. Unfortunately, modern map design practices have rendered her already mediocre CC potential moot thanks to heavy proliferation of undeployable tiles. Levitate can alleviate this allowing a short window to place mines under a floating enemy, but it's generally considered too much work for minimal gain. However, she found a new niche in her capability to abuse event mechanics that rely on deploying melee ops on specific tiles, since her traps usually count for that purpose while not counting against the deployment limit. Notable examples include Twilight of Wolumonde's gramophone charge tiles and What The Firelight Casts's burning reeds. For that purpose, she will work just fine at E0 if she's kept away from danger. She's not worth raising if you have Dorothy unless you really, REALLY like traps.
+- Robin, from Mansfield Break, revolves around binding and pushing back enemies with her traps. Unfortunately, modern map design practices have rendered her already mediocre CC potential moot thanks to heavy proliferation of undeployable tiles. Levitate can alleviate this allowing a short window to place mines under a floating enemy, but it's generally considered too much work for minimal gain. However, she found a new niche in her capability to abuse event mechanics that rely on deploying melee ops on specific tiles, since her traps usually count for that purpose while not counting against the deployment limit. Notable examples include Twilight of Wolumonde's gramophone charge tiles, What The Firelight Casts's burning reeds, and Hortus de Escapismo's wooden planks. For that purpose, she will work just fine at E0 if she's kept away from danger. She's not worth raising if you have Dorothy unless you really, REALLY like traps.
 - Absinthe, from Children of Ursus, has an interesting targetting priority with S1, going for the target with the lowest HP%. Coupled with her talent, she's pretty good at lowering enemy counts on your chokepoint and preventing leaks. On boss fights, she will usually wind up targeting the boss over intact mooks walking in range, which is usually what you want to happen. S2 is powerful but too much of a hassle. Unfortunately, she competes with a LOT of 5-star casters and in particular with Amiya, who has True damage and will need to be raised to fully clear CH8 ~~unless you're a heartless SMACKer~~ 
 
 The other restorable ops I haven't mentioned aren't any good and are only worth prioritizing for waifu reasons. You can perfectly use 4-stars or even 3-stars for the job while you wait to pull something better.

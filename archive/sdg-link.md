@@ -230,6 +230,9 @@ https://rentry.org/informal-training-guide
 https://rentry.org/hypernetwork4dumdums
 ###Safetensors
 https://rentry.org/safetensorsguide
+###AFM
+Anime on Furry Models
+https://rentry.org/5exa3
 !!! info
 	---------------------------
 ##Tools & Resources
@@ -323,4 +326,4 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - January 2nd - https://pastebin.com/jkC0Z8FX
+Cut'n'paste for PWChefAnon and other thread bakers - January 8th - https://pastebin.com/vB82DT9N
