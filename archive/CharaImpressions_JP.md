@@ -1208,3 +1208,98 @@ Cons:
 - Does not contribute much damage
 - No taunt 
 - No barriers
+
+### ->Christmas Creditta<-
+**A physical buffer/debuffer that lowers P.Atk, with some very specific TP restoration conditions and a counter that increases potency for debuffs/. Single target, but seems okay.**
+With plenty of reasons to want to reduce P.Atk on certain bosses, X.Creditta could see usage. Her UB and S1 have additional branches that inflict additional smaller - **but permanent** - debuffs to enemies and buffs to friendlies, on first usage only. However, her buffs have quite the limited range of 150 from her position. This means she's reaching all backline units, but not much else. As Shiori has proven to be a force in physical teams, this could open her up in a spot where you need to buffs for your own P.def & P.Atk from the same unit. Her TP on S2 is a bit odd, dishing out restoration of 10 TP/s over 12.5s to units within 150 range, but instantly restoring 100 from the furthest unit away from her. It's possible this was meant to make it not so bad to have her ran with a 1st position that she can't reach with her other buffs,, but that's honestly just 120 TP missing in most scenarios. Could be good in teams where you don't need to run barriers and can survive with defensive buffs and reducing P.Atk of boss. A UE next year might make her more versatile, as her S1 has a lot of good going for it. But the archer meta will be imperative to her success, as she loses out on a lot of utility if units aren't close enough to her to buff. 
+Maybe could be used in Arena, but seems unlikely.
+-> ![X.Creditta](https://redive.estertion.win/card/full/128031.webp) <-
+
+Pros:
+- UB provides additional permanent P.Def shred on first usage
+- S1 provides good utility 
+	P.Atk & P.Def Debuff to enemy, Raises P.Atk & P.Def for party within 150 range of X.Creditta with additiona potency for friendly buffs on first usage
+- S2 has TP restoration for all units within 150 range of her (Reaches up to Riri, all backline units)
+	Additional 100 TP for furthest unit from X.Creditta
+- Tankier than the average archer (Roughly 3K+ HP more than Shiori, R.Shiori, Arisa, TS.Suzuna
+
+Cons:
+- No barriers
+- No heals
+- Specific to Physical damage mitigation only
+- Buffs are very short range, does not reach most common frontliners for physical teams
+- Damage isn't impressive 
+- Will need to rely on archers continuing to be meta
+- Skill loop is a bit long has has double AA near the end
+
+
+### ->Rino & Shizuru<-
+**Mid-line tank that seems to be designed to help out archers. Has a ton of utility in buffs and and impressive damage from themselves with crits and the field off UB and S1, for a tank.**
+An impressive unit that will soak up good amounts of damage with barriers and natural tanky stats. They provide a good slew of physical damage buffs to a lot of physical units, though some of the very front line girls may miss out depending on who the field gets directed towards. However, running them in a mostly frontline comp doesn't make the most sense when they're designed to soak up damage with barriers and heals to themselves. With a conditional TP restoration as well, Rino & Shizuru have a good reason to be ran with Laby + Archer comps, unless we start seeing more stuff like Wyvern Rider target the furthest away units, requiring this duo to provide a nice, tanky Pos 4/5 option to go alongside Ames or Laby. Being reliant on crit is always a coinflip, as the level of bosses could continue to raise as player levels catch up - Thus reducing crit chance in relation to the current rates. If backline physical comps continue to exist, they will most likely excel. 
+Arena need not apply, unless you're going for some cheesy stall tactics where they can get shielded, heal themselves and never die. But then again, they have no CC or means to buff defenses to keep surviving.
+-> ![Rino/Shiori Duo](https://redive.estertion.win/card/full/181131.webp) <-
+
+Pros:
+- UB creates field around nearest enemy, reaching units with 300 range (probably will be Laby/P.Kokkoro/S.Kokkoro) on UB, lasting 18s
+- UB buffs are P.Atk (~8500)& P.Crit Chance (150) for all units within field
+- UB does good damage with crits (x3.5 increase) for tank with two damage calcs and a heal to self
+- S1 has two damage calcs against cap, 75 TP restoration to all targets if field is active
+- S2 provides barrier (field increases potency), conditional p.def debuff, raises P.Crit/P.Atk/P.Crit Dmg of self
+- Provides backline comps with tankier Pos 1 tank unit with high survivability
+- Good skill loop, providing good cancel opportunities with UB if needed
+
+Cons:
+- Massive loss if skills pop without field active (No TP from S1, 2/3 potency loss on shields)
+- Reilant on crit from S1 and UB to deal good damage
+- Most utility buffs are only to self (Healing, barrier, P.Atk & P.Crit damage buffs from S2)
+- Creating field at Laby/P.Kokkoro won't reach most frontline units (does reach up to S.Shinobu, which includes Christina)
+
+### ->New Year's Inori<-
+**Arena anti-stun meta unit that looks to try and immnue through 1st action stuns and not much else. But that in itself is rather massive.**
+If your Arena comp was getting blocked by fast stuns, look no futher than a unit that is designed purely to counter that pesky 1st position stun by granting herself immunity to CC and stunning the 1st position enemy in return. However, this does not work as a counter to MS.Kasumi/Kasumi snares, so keep those in mind. You'll need to run the proper counters like a faster stun and Rima/NY.Muimi, respectively. New Year's Inori is all about making S.Misogi's stun or Tsumugi's kidnap made irrelevant by her. Outside of her anti-meta S2, she's a squishy unit that offers nothing. This means you'd better be making her S2 count, or you're wasting a team slot. But as said above, this particular role is huge in times when it's needed, as she's like Noir Shizuru but conceptually functional on the 1st action, as opposed to working outside of it. Read below for more testing results from interactions. 
+Be advised, her role is NOT to have the fastest stun. It is to absorb the fastest stuns, then counter with her slower stun.
+
+-> ![NY.Inori](https://redive.estertion.win/card/full/128331.webp) <-
+
+Pros:
+- S2 applies a taunt, immunity to CC to self, knocks back and stuns 1st unit
+- S2 application is faster than any Pos 1 stun in the game currently (S.Misogi Pos 1 def with Rima/NY.Muimi lead, Mifuyu, Inori, etc...)
+- S2 catches and dodges Tsumugi 1st action
+- Excellent positioning for her role of using immunity to dodge CC
+- Can dodge multiple CCs during taunt (Ex. Dodges both enemy S.Misogi & Inori stuns)
+
+Cons:
+- UB & S1 are just damage with small buffs to self
+- Squishy, will most likely die after her role is performed
+- Little utility after S2 ends
+- S2 only occurs once every 5 actions
+- Does not provide immunity for other units (If anyone else is in range by an AOE CC, they will still get hit, like a Kasumi snare or enemy Inori 1st action)
+- Enemy Inori + Rima will still your units within 300 range of NY.Inori 
+- Enemy Inori + Rima won't stun your S.Misogi if you run your own Rima, but that's already 3 team slots dedicated to mitigating a stun - Thus rendering NY.Inori irrelevant
+- Taunt and stun do not catch MS.Kasumi snare in time (still need to use Rima/NY.Muimi to protect from that) 
+- Should NOT be used as a primary stunner (Does not stun Yukari in time to cancel moonlight)
+- Does not dodge damage, just the CC
+
+### ->New Year's Hatsune<-
+**Mage that debuffs enemy physical units and buffs M.Atk of teammates through various means. Potency is increased only against Physical enemies**
+Just like her original/6* version, New Year's Hatsune is designed to smack physical enemies specifically. However, this time she's moreso about debuffing the P.Atk of enemies while buffing her teammates and doing damage. A rather straightforward unit in the sense that she buffs teammates, deals damage and lowers the P.Atk of the enemy she damages. She also has a barrier that applies only when the nearest enemy is a physical one. So unless we're getting some sort of weird split type bosses with multi-target, this means you'll only ever be using her against physical bosses in CB. Her skills are also quite nice, potentially allowing for comps where you may want a bit less survivability from the likes of Ames' barriers/damage cut/healing, but desire more damage output alongside a smaller barrier. She certainly won't replace Ames, but every team slot is precious and other units providing a mix of damage and survivability eventually adds up to being able to run squishier comps without exploding. 
+
+
+-> ![NY.Hatsune](https://redive.estertion.win/card/full/128431.webp)<-
+
+Pros:
+- UB provides good damage, strong M.Atk buff to all friendly targets and reduces enemy P.Atk (18s)
+- S1 deals damage, reduces enemy M.Def & P.Atk, and increase Crit Dmg received by damaged targets (12s)
+- S2 deals damage, increases party M.Atk and applies a P.dmg barrier to all targets (12s)
+- Buffs do not require a range consideration, apply to all
+- Consistent damage dealer (UB, S1 & S2 all deal damage)
+- Great skill loop (S1 > S2 > AA > S1 > S2)
+- P.Atk reduction allows for squishier comps to be ran
+- Will excel in cases where bosses have mechanics that are based on their own P.Atk value 
+
+Cons:
+- Does not perform at peak efficiency when fighting magic enemies
+- Positioned extremely far back, may not catch buffs from mid line mages that have range checks ()
+- No healing
+- No TP Restoration/Regeneration
+- No damage reduction

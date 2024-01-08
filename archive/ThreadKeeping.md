@@ -28,47 +28,55 @@ Page 1
 Demon Eyes is a modern setting where the make-believe delusions of kids and young adults alike manifest into actual demon hunting powers. How it works is that a demon living inside you can give you powers at the cost of impacting your normal life with sin.
 >Rules?
 You can pick other builds as companions rather than choosing from the pre-made list.
+Ignore uniforms being gender locked.
+You can use custom hunter's uniform to either ignore aura requirements, or reduce the cost by -2 for a single eye type that's not wrath or lust (i.e. -2 cost to greed, gluttony, sloth, pride, or envy eyes)
 
 >Wrath
-Mari Aozaki
+Mari Aozaki, Legion
 >>91469537
 Eiyu Isamu
 >>91483132
+Emilia Shadowsong, Battousai
+>>91485490
 
 >Greed
-Naoki Arai
+Naoki Arai, Impossibility Tinker
 >>91483248
 
 >Gluttony
-Akari Ichioka
+Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
-Lem
+Lem Amano, Amano Lemon
 >>91483342
 
 >Lust
-Hinako Shimeki
+Hinako Shimeki, The Dollmaker
 >>91458663
-Yoru Heinard
+Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
 
 >Sloth
-Amane Shiozaki
+Amane Shiozaki; Amaryllis, The Grand Librarian
 >>91473931
+Makoto Nagai, The Place-Holder
+>>91483765
+Komaru Nishitani, Buddhirupa
+>>91483956
 
 >Pride
 Yoji Ryoshi
 >>91458024
-Mithran Kuro
->>91469897
-Haruhi Oohara
+Mithran Kuro, Undefeated Knight
+>>91485106
+Haruhi Oohara; Rasalhague
 >>91482203
 
 >Envy
 Aki Hitoyoshi
 >>91481964
-Jace Abraxon
+Jace Abraxon, King of Cards
 >>91483191
 
 >Writefags
@@ -257,6 +265,8 @@ Calligos Vanlar
 >>91463251
 Cyrene
 >>91465865
+Shotta Bait
+>>91478374
 ```
 
 ***

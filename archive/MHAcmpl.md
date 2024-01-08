@@ -1026,6 +1026,8 @@ A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, 
 Brightly Time Travel Prompt Adventure: https://desuarchive.org/tg/post/91441288/
 Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/nsno4
 Tooth And Claw(Saurus): https://rentry.org/qsrvx8
+Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy): https://rentry.org/acnw3
+1-D Character Summary: https://rentry.org/9bf3g
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

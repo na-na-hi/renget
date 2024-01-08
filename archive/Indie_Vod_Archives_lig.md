@@ -41,36 +41,11 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 
 ---
 
-##[Grimmi](https://www.twitch.tv/grimmivt)
-Content|Link|Description 
--------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@GrimmiVault)| Grimmis official vod channel, has several missing vods
-
-
----
-
-##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
-Content|Link|Description 
--------|-------|------- 
-Unofficial Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv9yN5UHg5CTt66iTUoXPemV) | Unlisted Youtube Playlist with her Vods. Im still working on this so it will stay up to date.
-Elden Ring |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-lGBAURWGtPYkupLAkuENh)| Elden Ring Playlist (Completed)
-Final Fantasy VI |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_dyWpZlpEP-83mIGo6DjRO)| Final Fantasy VI Playlist (Completed)
-Deadly Premonition |[Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv90IC_eHkAxMRACFe_DDviV)| Deadly Premonition Playlist (Completed)
-
----
-
 ##[Hime Hajime](https://www.twitch.tv/hajime)
 Content|Link|Description 
 -------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| Himes official vod channel, has several missing vods
-Playlist with a mix of Official and Unofficial vods  | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
-
----
-
-## [Collection of random vods that people shared in /lig/](https://boards.4channel.org/vt/)
-Content|Link|Description 
--------|-------|------- 
-Unofficial Archive of random /lig/ger vods| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8OUeSxyior37q7O4Lhujs9) | if you want anything added on there feel free to send me vod links to my archive related email account (psobb1302@gmail.com) and i can add them.
+Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| (discontinued)
+| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
 
 ---
  
@@ -85,7 +60,7 @@ Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.c
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@SarueiArchive)|
-Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv91Khi4ukebSwy_TA8N7ti3)| Unlisted Youtube playlist with Saruei Vods people wanted to have Archived
+Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv91Khi4ukebSwy_TA8N7ti3)| 
 
 ---
 
@@ -132,19 +107,7 @@ Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atb
 
 ---
 
-##[Fillian Alt Channel Vods](https://www.twitch.tv/filianislost/)
-Content|Link|Description 
--------|-------|------- 
-Filian Alt Channel Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_SVQRtJpbCUpoEdw4G5xi9) | Incomplete archive, these are vods another anon posted on mega i just reuploaded these for archivals sake.
-
----
-
 #Other Vtuber Vod Archives that are not maintained by me
-
-##Random assortment of indie Vod archives
-Content|Link|Description 
--------|-------|------- 
-Random assortment of /lig/ger vods on archive.org: | [Link](https://archive.org/details/@fellowpettanenjoyer?)| Another anon posted that link in /lig/ so i thought i might as well add this account here.
 
 ##[Lord Aethelstan](https://www.twitch.tv/lordaethelstan)
 Content|Link|Description 
@@ -214,5 +177,4 @@ If you have questions or something, check below for ways to contact me if needed
 Content|Link|Description 
 -------|-------|------- 
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
-/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
-Email|[Link]()| Psobb1302@gmail.com
+/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net

@@ -60,15 +60,10 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
 ##->[Mega - (.mp3)](https://mega.nz/folder/CCxyTJyJ#AL1eBZK8PhxukRYQRSbI2g) - [Ms OneDrive - (.mp3 + .mp4)](https://1drv.ms/f/s!Ali7SWBfsKO6ix53k-h2_6kBRWBK?e=4Kc1PL)<-
 
 ---
-#Spreadsheet Mirror on Pastebin:  
-##->[Pastebin](https://pastebin.com/Eg1Yy3TZ)<-
-
----
 #Ways to contact me if needed
 If you have questions or something, check below for ways to contact me if needed
 
 Content|Link|Description 
 -------|-------|------- 
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
-/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net 
-Email|[Link]()| Psobb1302@gmail.com
+/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net

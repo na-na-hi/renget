@@ -1,4 +1,12 @@
 ▶NEW CLIPS
+>why not die "like a hero"?
+https://files.catbox.moe/m1583p.mp4
+>Be honest about need for 500k
+https://files.catbox.moe/tv4vup.mp4
+>Paratrooper anti-tank crews smash the enemy in the Artemovsk direction.
+https://files.catbox.moe/keachy.mp4
+>Direct hit on AFU in Avdeevka
+https://files.catbox.moe/d7w0ye.mp4
 >Ukrainian Orthodox Christmas
 https://files.catbox.moe/wrr66q.MP4
 >30+ minutes of hohols having a blast at the Krinky beach party

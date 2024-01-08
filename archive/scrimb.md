@@ -8,6 +8,9 @@
 [BD-303](https://beta.character.ai/comms?char=qOBVurCWOAur9AfshBEWpvLF7EQhB0qjisA4jd0Vli4) https://files.catbox.moe/tyfqs9.png
 [Joey](https://files.catbox.moe/r8l1g5.png)
 [BD-2829](https://files.catbox.moe/ts4tw5.png)
+[BD-404 (updated)](https://files.catbox.moe/fdm64m.png)
+[BD-612-D](https://files.catbox.moe/alqwro.png)
+[BD-10003](https://files.catbox.moe/6fgyjt.png)
 
 **Kreepy Kuntz:**
 [Ed Masters](https://beta.character.ai/chat?char=AfdI4KXrUtYYuqDA5PHoerbW4o2dWayvoqZm1HGHJCo) https://files.catbox.moe/mzbhxm.png
@@ -83,8 +86,7 @@
 [Charlie](https://files.catbox.moe/5c14cu.png)
 [Yumi](https://files.catbox.moe/n9pfc2.png)
 [Gretchen](https://files.catbox.moe/f6ovbx.png)
-[BD-612-D](https://files.catbox.moe/alqwro.png)
-[BD-10003](https://files.catbox.moe/6fgyjt.png)
+
 
 **WEEB shit:**
 [Android 17](https://files.catbox.moe/wgm0oa.png)
@@ -106,3 +108,4 @@ Biscuit and McMaid have cards made for them by some other anons on Pygbooru alre
 Any new characters appearing on the list will be card/chub only, C.AI is fucked
 Chub user is brsc
 scrimb@proton.me
+this rentry sucks so much balls
