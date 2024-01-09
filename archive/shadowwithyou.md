@@ -14,7 +14,7 @@
 
 ->  <-
 
--> ~~*Sylvian if you see this I want to throw you against the floor like a ball*~~ <-
+-> ~~*Tale if you see this I want to throw you against the floor like a ball*~~ <-
 
 -> *[Y](https://rentry.co/shadowwithyou)ou are the energy, I am the shadow with [you.](https://rentry.co/shadowwithyou)*  ――`☽`->
 

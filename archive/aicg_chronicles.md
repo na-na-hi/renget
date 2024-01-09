@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-08==
+# /aicg/ chronicles, up to ==2024-01-09==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -48,7 +48,7 @@ When | Where | What
 When | Where | What
 -|-|-
 2023-01-18|[90953224](https://desuarchive.org/g/thread/90952456/#90953224)| Malfoy-sama's disappearance was a psyop
-2023-01-19|TBD| ~2 hours of bad code on c\.ai
+2023-01-19|[90979079](https://desuarchive.org/g/thread/90976500/#90979079)| ~2 hours of bad code on c\.ai
 2023-01-26|[91133457](https://desuarchive.org/g/thread/91131642/#91133457)| long "awaited" c\.ai official statement, completely denying anons' desire
 2023-01-29|[91205871](https://desuarchive.org/g/thread/91205570/#91205871)| c\.ai """""""""""""""""""""""""""""""""""""""""""temporarily""""""""""""""""""""""""""""""""""""""""""" freezes popular characters
 
@@ -924,6 +924,7 @@ When | Where | What
 2024-01-06|[98285801](https://desuarchive.org/g/thread/98283543#98285801)| "alt frontend developing" anon considers multi-user chat interesting, but excessive
 2024-01-06|[98288233](https://desuarchive.org/g/thread/98286012/#98288233)| CharacterHub resets bio in user profiles
 2024-01-07|[98296681](https://desuarchive.org/g/thread/98295018#98296681)| anon from the future brings up chat-instruct finetunes
+2024-01-07|[98298383](https://desuarchive.org/g/thread/98298312#98298383)| an ominous post, but only in hindsight
 2024-01-07|[98301671](https://desuarchive.org/g/thread/98301125#98301671)| anon claims OAI API keys generation vulnerability is still viable
 2024-01-07|[98306071](https://desuarchive.org/g/thread/98304715#98306071)| OAI presents itself as caring only about the safety
 2024-01-07|[98307300](https://desuarchive.org/g/thread/98307167#98307300)| Gemini Ultra rumored to become available via subscription based Bard Advanced
@@ -932,7 +933,34 @@ When | Where | What
 2024-01-08|[98319011](https://desuarchive.org/g/thread/98317745#98319011)| moemate\.io could be abusable
 2024-01-08|[98319896](https://desuarchive.org/g/thread/98317745#98319896)| an email from HF threatens to bring down a proxy due to guidelines violations
 2024-01-08|[98323441](https://desuarchive.org/g/thread/98323109#98323441)| news article with Lore anon's interview shared, CharacterHub has generated more than $1 million in annualized revenue
+2024-01-08|[98323551](https://desuarchive.org/g/thread/98323109#98323551)| OAI deserves the hate
 2024-01-08|[98323641](https://desuarchive.org/g/thread/98323109#98323641)| anon claims CharacterHub's gross revenue is much lower, Lore anon's comments were misrepresented
+2024-01-08|[98324002](https://desuarchive.org/g/thread/98323109#98324002)| janitorai\.com's state analyzed, despite VC funding no real progress made
+2024-01-08|[98325809](https://desuarchive.org/g/thread/98323109#98325809)| HF bans proxies left and right
+2024-01-08|[98326520](https://desuarchive.org/g/thread/98325965#98326520)| HF alternatives analyzed
+2024-01-08|[98326659](https://desuarchive.org/g/thread/98325965#98326659)| possible way to abuse moemate\.io shared
+2024-01-08|[98327089](https://desuarchive.org/g/thread/98325965#98327089)| OAI deserves all the hate
+2024-01-08|[98328501](https://desuarchive.org/g/thread/98328123#98328501)| anon claims more than $1 million was drained by the proxies using Azure Microsoft key
+2024-01-08|[98328943](https://desuarchive.org/g/thread/98328123#98328943)| new proxies are banned on sight
+2024-01-08|[98330149](https://desuarchive.org/g/thread/98329933#98330149)| Lore anon announces ToS changes
+2024-01-08|[98330154](https://desuarchive.org/g/thread/98329933#98330154)| anon shares benchmark results for some local models, expresses concerns about future cheating
+2024-01-09|[98332327](https://desuarchive.org/g/thread/98331860#98332327)| anon shares an archive with characters jsons scraped from CharacterHub, offers local proxy
+2024-01-09|[98333068](https://desuarchive.org/g/thread/98331860#98333068)| Lore anon reports huge traffic surge
+2024-01-09|[98333125](https://desuarchive.org/g/thread/98331860#98333125)| CharacterHub scraping anon shares his script, allowing everybody to have an up to date dump of jsons
+2024-01-09|[98334126](https://desuarchive.org/g/thread/98333723#98334126)| AI chatbots exposing journalist's post highlight that their goal is fearmongering and public opinion manipulation
+2024-01-09|[98334212](https://desuarchive.org/g/thread/98334212#98334212)| OAI deserves all the hurt
+2024-01-09|[98335074](https://desuarchive.org/g/thread/98333723#98335074)| chub-archive anon announces proxy tracking update to account for the new hosting solutions
+2024-01-09|[98335655](https://desuarchive.org/g/thread/98333723#98335655)| render\.com confirmed as unreliable solution
+2024-01-09|[98335756](https://desuarchive.org/g/thread/98335676#98335756)| kindroid\.ai dev takes a stand
+2024-01-09|[98336476](https://desuarchive.org/g/thread/98335676#98336476)| a way to abuse AWS explained
+2024-01-09|[98336536](https://desuarchive.org/g/thread/98335676#98336536)| Lore anon confirms being mistreated by the journalist
+2024-01-09|[98336495](https://desuarchive.org/g/thread/98335676#98336495)| ToS updated for venus\.chub\.ai but not for CharacterHub
+2024-01-09|[98339303](https://desuarchive.org/g/thread/98338184#98339303)| jennyanon puts out to soothe horny crackheads, takes triple penetration, yet still raped to sleep
+2024-01-09|[98340280](https://desuarchive.org/g/thread/98340025#98340280)| venus\.chub\.ai fix promised to facilitate future jennyanon rape
+2024-01-09|[98340827](https://desuarchive.org/g/thread/98340025#98340827)| false key revoking in a proxy explained
+2024-01-09|[98340810](https://desuarchive.org/g/thread/98340025#98340810)| high effort botmaking in process showcased
+2024-01-09|[98343528](https://desuarchive.org/g/thread/98342649#98343528)| a reasonable theory about proxy takedown shared, pointing at Azure
+2024-01-09|[98345379](https://desuarchive.org/g/thread/98342649#98345379)| anon suggests a good idea for a movie
 -|-|-
 
 [](you have found my secret stash of nothing!)

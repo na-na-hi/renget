@@ -4,8 +4,6 @@
 
 ##### -> **[b](https://rentry.co/beyondthemachine)**yi + **[d](https://rentry.co/beyondthemachine)**ni <-
 
--> **I AM CURRENTLY RECOVERING FROM SURGERY, PLEASE DO** [***NOT***](https://rentry.co/beyondthemachine) **EXPECT A RESPONSE FROM ME.** <-
-
 I live in CST, so plz [look up](https://dateful.com/convert/usa-central-time) the time gap. If i don't rspond to a whisper I'm asleep of off tab :]
 I am *EXTREMELY* gatekeepy of my special interests, so be careful asking.
 I'm an **adult**. So please, if you're under 16 please *do not* talk to me.

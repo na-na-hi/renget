@@ -28,10 +28,14 @@ Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)
 Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
 Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
 Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
-Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch.tv/grimmivt
 
 ---
 #Unofficial Vod Archives 
+
+##Miscellaneous Indie Vods
+Content|Link|Description 
+-------|-------|------- 
+Collection of various Indie Vods on Ms onedrive | [Link](https://1drv.ms/f/s!Avazw3c5DIg5bf-GrgSB-ha9G2E?e=EuCKf9)|
 
 ##[Nyanners](https://www.twitch.tv/Nyanners)
 Content|Link|Description 
@@ -43,9 +47,10 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 
 ##[Hime Hajime](https://www.twitch.tv/hajime)
 Content|Link|Description 
--------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| 
-Unofficial Vod Archive| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | [Discontinued]
+-------|-------|-------
+Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)| 
+Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|
+Ms onedrive mirror |[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gW-8xj3u1nLv8wTp?e=NctCjU)|
 
 ---
  
@@ -53,14 +58,6 @@ Unofficial Vod Archive| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atb
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
-
----
-
-##[Saruei](https://www.twitch.tv/vei)
-Content|Link|Description 
--------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@SarueiArchive)|
-Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv91Khi4ukebSwy_TA8N7ti3)| 
 
 ---
 
@@ -76,14 +73,17 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
-Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Unlisted Youtube playlist with Girl Dm Karaoke Vods people wanted to have Archived
+Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| 
+Girl DM Karaoke Vod Archive| [Link](https://1drv.ms/f/s!Avazw3c5DIg5gXJZtLB3rdhFEvM6?e=9JR6bc)| 
 
 ---
 
 ##[Bubi](https://www.twitch.tv/bubivt)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Bubivt Vod "Archive" | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Both Bubi VT vods
+Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Youtube Playlist
+Bubi VT Vod "Archive"|[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gXAJbNIQumPS8gmh?e=7bPgP8)| MS Onedrive Link
+ 
 
 ---
 

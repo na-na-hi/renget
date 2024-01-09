@@ -20,9 +20,9 @@ Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.holo
 hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
 
 \>Streams
-Next appearance (Beach zatsudan collab with Kiara on Kiara's channel, Tue 01/09 11AM CT | 18PM CET)
+Next appearance (Beach zatsudan offcollab with Kiara on Kiara's channel, Tue 01/09 11AM CT | 18PM CET)
 https://www.youtube.com/watch?v=xgawWfP-s6o
-Next stream: Super Smash Bros collab with Kiara, Tue 01/10 11AM CT | 18PM CET
+Next stream: Super Smash Bros offcollab with Kiara (Tue 01/10 11AM CT | 18PM CET)
 Previous appearance (Go Vacation! offcollab with Kiara, on Kiara's channel)
 https://www.youtube.com/watch?v=dxGzb807obQ
 Previous stream (New Year outfit reveal)

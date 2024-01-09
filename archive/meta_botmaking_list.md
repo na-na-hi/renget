@@ -1,5 +1,5 @@
 # The meta list of various bot making guides
-->==(Updated 2023-12-07)==<-
+->==(Updated 2024-12-07)==<-
 ***
 [TOC2]
 ***
@@ -123,6 +123,10 @@ https://rentry.org/MakingA4chanSimCard
 [28 Dec 2023 No.98137431](https://desuarchive.org/g/thread/98136612/#98137431)
 *"Make your own 4chan sim"*
 
+8. CoT (Chain-of-Thought)
+https://rentry.org/vcewo
+[08 Jan 2024 No.98319263](https://desuarchive.org/g/thread/98317745/#98319263)
+*apparently stolen from /chag/*
 ***
 ***
 ***

@@ -38,5 +38,10 @@ https://rentry.org/slaudehope
 https://rentry.org/teralomaniac_clewd
 - forked from h-a-s-k/clewd
 ***
+##### Random stuff
+https://rentry.org/6b4sw
+https://rentry.org/znxuz
+old guides from /chag/
+***
 ***
 ***

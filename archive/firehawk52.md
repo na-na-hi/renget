@@ -8,20 +8,6 @@
 
 ->:heart: **Support the project** :heart:<-
 
-Support me and maybe earn a lot of money yourself. ❄️ https://ice.io/@firehawk52 ❄️. After you sign up, you can invite your friends and mine together with them. The more people in your team that mines, the money Ice you earn. In November 2024 Ice goes public and have a value in the blockchain. You just restart the mining process every 12-24 hours and that's it.
-
-Introducing Ice, a revolutionary digital currency that you can mine on your mobile device without consuming resources or battery life. Join the Ice network and take control of your financial freedom while being part of a decentralized platform. Here's what makes Ice stand out:
-
-- Mine Ice on your phone completely for free
-- 100% Open Source
-- No resources or battery consumption
-- Decentralized network
-- Available on both Android and iOS
-- Invite friends to create your micro-community and earn a 25% bonus on the base mining rate
-- Decisions made by the Decentralized Autonomous Organization (DAO)
-
-To start mining Ice, all you need is to sign up on this link: ❄️ https://ice.io/@firehawk52 ❄️. After that you download the mobile app and begin earning Ice today. Experience the power of the Ice network and build your micro-community for higher earnings. Join the decentralized future and claim your financial freedom with Ice.
-
 !!! warning
 
 	->[![Support me on ko-fi.com](https://files.catbox.moe/td3cv1.png)](https://ko-fi.com/firehawk52)<-

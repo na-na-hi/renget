@@ -2,7 +2,7 @@
 
 ->back to the comfy times when we had pyg in our OP<-
 
-->==(Updated 2023-12-19)==<-
+->==(Updated 2024-01-08)==<-
 ***
 [TOC2]
 ***
@@ -73,6 +73,9 @@ https://snombler.neocities.org/logs
 
 https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - stolen from /lmg/, looks like a foundation models ranking
+
+https://rentry.org/thecelltest
+- a small test of multiple models, checks understanding of a specific scenario
 
 
 ***
