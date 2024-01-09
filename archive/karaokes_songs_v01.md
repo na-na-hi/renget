@@ -7,7 +7,7 @@
 [Go back to the Main Page](https://rentry.org/joint_operation_center)
 
 !!! note  [TOC2]
-#### ![Image description](https://files.catbox.moe/f9inkg.png) Songs section
+#### ![](https://files.catbox.moe/f9inkg.png) Songs
 
 ##### Original Songs
 The first original song is currently in the making, see [trailer](https://www.youtube.com/watch?v=5_DxAGKPFUA&t=7207s). The language is English, and the genre is pop.
@@ -28,18 +28,23 @@ The first original song is currently in the making, see [trailer](https://www.yo
 | 8th cover (mentioned, in progress) | TBA | TBD |
 | 9th cover (mentioned, in progress) | TBA | TBD |
 
-#####Collab Songs
+&nbsp;
+***
+&nbsp;
+
+#### ![](https://files.catbox.moe/f9inkg.png) Collab Songs
 | Song | Link | Duration |
 |------|-----|-----|
 | Rebellion (1st Advent group orisong) | -> [![](https://files.catbox.moe/xutpuv.jpg)](https://www.youtube.com/watch?v=pYNYhSsR8EE) <- |3m48|
 | Halloween Night, Tonight! (English ver., 1st Advent group cover) | -> [![](https://files.catbox.moe/2t3pop.jpg)](https://www.youtube.com/watch?v=FqXrBy_FIU0) <- |3m45|
+| BABYMETAL - MEGITSUNE (2nd Advent group cover) | -> [![](https://files.catbox.moe/wuq1h8.webp)](https://www.youtube.com/watch?v=OffTXFgbn7A) <- |4m05|
 
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
 
 ---
 
-#### ![Image description](https://files.catbox.moe/f9inkg.png) Karaoke section
+#### ![Image description](https://files.catbox.moe/f9inkg.png) Karaoke
 ##### ![Image description](https://files.catbox.moe/f9inkg.png) General Karaoke
 | Date / Type | Information & Links/Magnets | Setlist / TImestamps / Clips |
 |------|-----|-----|

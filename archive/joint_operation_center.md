@@ -2,6 +2,9 @@
 
 !!! info This is the library of /ope/, the Nerissa Ravencroft General. In here, the users of the general or any other people will find any useful information about things related to The Demon of Sound and Lover of Idols. Be it her musical productions or informations about her streams (general ones and mengens alike) at the current state. Will expend eventually according to the needs of the general.
 
+!!!danger Temporary merge announcement
+    If a dedicated /ope/ thread isn't up consider using the merge thread that is being produced for the duration of Nerissa's and Kiara's joint Maldives trip. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
+
 
 
 ->![](https://files.catbox.moe/vvosuf.jpg) <-

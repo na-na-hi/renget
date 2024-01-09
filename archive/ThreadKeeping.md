@@ -38,11 +38,11 @@ Eiyu Isamu
 >>91483132
 Emilia Shadowsong, Battousai
 >>91485490
->Ikari Michita
+Ikari Michita, The Mad Screamer
 >>91493870
 
 >Greed
-Naoki Arai, Impossibility Tinker
+Naoki Arai / Yuki Kazama, Impossibility Tinker
 >>91483248
 
 >Gluttony
@@ -50,7 +50,7 @@ Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
 Lem Amano, Amano Lemon
 >>91483342
->Hifumi Ishiku
+>Hifumi Ishiku, @H1FVM1
 >>91485868
 
 >Lust
@@ -60,7 +60,7 @@ Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
->Kazuki Asahara
+>Kazuki Asahara, The Messiah
 >>91494741
 
 >Sloth
@@ -76,10 +76,12 @@ Yoji Ryoshi
 >>91458024
 Mithran Kuro, Undefeated Knight
 >>91485106
-Haruhi Oohara; Rasalhague
+Haruhi Oohara, Rasalhague
 >>91482203
->Yuki Tanaka
+Yuki Tanaka, Abyssal Sovereign
 >>91486160
+Ashton Ramsey
+>>91495567
 
 >Envy
 Aki Hitoyoshi
@@ -92,13 +94,12 @@ Chance Encounter (Yoji Ryoshi, Akari Ichioka)
 https://rentry.org/5uap6
 He Was Never Booksmart (Aki Hitoyoshi, Amane Shiozaki)
 https://rentry.org/t38ri
-Emilia Shadowsong Relationship Chart:
-https://rentry.org/itwvp
-Hifumi Opener:
+Hifumi Opener (Hifumi Ishiku, Sezāru Ishiku)
 https://rentry.org/32bs7
->DE is now a hit VN/RPG series
->>91488685
 
+>Relationship Charts
+Emilia Shadowsong
+https://rentry.org/itwvp
 ```
 
 #Chinese Warlord (Arena)

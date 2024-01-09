@@ -1,4 +1,4 @@
-##-> Some Unofficial Indie Vod Archives and links to Official Vod Channels<-
+##-> Here are some Unofficial Indie VoD Archives and links to Official Vod Channels:<-
 
 # Table of Content
 [TOC]
@@ -36,23 +36,23 @@ Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch
 ##[Nyanners](https://www.twitch.tv/Nyanners)
 Content|Link|Description 
 -------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@NyannersVODs)| Nyanners official vod channel, has several missing vods
-Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | 100% Complete Nyanners Vod Archive starting from her vtuber debut (2022-07-17). Im still working on this so it will stay up to date.
+Official vod channel| [Link](https://www.youtube.com/@NyannersVODs)|
+Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | [Discontinued]
 
 ---
 
 ##[Hime Hajime](https://www.twitch.tv/hajime)
 Content|Link|Description 
 -------|-------|------- 
-Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| (discontinued)
-| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | Im still working on this archive just like my nyanners vod Archive
+Official vod channel| [Link](https://www.youtube.com/@himehajimestwitchvods2706/videos)| 
+Unofficial Vod Archive| [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3) | [Discontinued]
 
 ---
  
 ##[Anny](https://www.twitch.tv/anny)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| Unlisted Youtube playlist with mostly Anny VR Chat Vods people wanted to have Archived and some other vods
+Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
 
 ---
 
@@ -68,7 +68,7 @@ Unofficial Saruei Vod Archives | [Link](https://www.youtube.com/playlist?list=PL
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@veibaevods)|
-Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| Unlisted Youtube playlist with Vei Vods people wanted to have Archived
+Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| 
 
 ---
 
@@ -91,7 +91,7 @@ Unofficial Bubivt Vod "Archive" | [Link](https://www.youtube.com/playlist?list=P
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
-Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| Morikos First Karaoke vod people wanted to have archived
+Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
 
 ---
 
@@ -147,9 +147,9 @@ Content|Link|Description
 ##[Rainhoe](https://www.twitch.tv/rainhoe)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial) rainhoe Vod Archive (1): | [Link](https://www.youtube.com/@rainhoevods5864)|The oldest channel, has some old stuff but has not been updated for a year
-(Unofficial) rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|Newer than the above, has not been updated in a while
-(Unofficial) rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|Newest channel, currently active but does not have old vods
+(Unofficial) rainhoe Vod Archive (1): | [Link](https://www.youtube.com/@rainhoevods5864)|
+(Unofficial) rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|
+(Unofficial) rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|
 
 ##[Onigiri](https://www.twitch.tv/onigiri)
 Content|Link|Description 
@@ -162,19 +162,19 @@ Content|Link|Description
 #Other Sources for Vods (Hololive vods etc):
 Content|Link|Description 
 -------|-------|------- 
-Nyaa| [Link](https://nyaa.si/) | This website has several Hololive and others Vods
-Holopirates| [Link](https://mogu.holopirates.moe/)| Hololive Vods
-Vod Archival Thread in /t/| [Link](https://boards.4chan.org/t/thread/687343/welcome-to-torrents)| You can request Archives for vods here from several people. The threads usually named "Hololive and other Vtuber archives:"
-Ragtag Archive| [Link](https://archive.ragtag.moe/)| This website has several Youtube Vod channels content archived
+Nyaa| [Link](https://nyaa.si/) | 
+Holopirates| [Link](https://mogu.holopirates.moe/)| 
+Vod Archival Thread in /t/| [Link](https://boards.4chan.org/t/thread/687343/welcome-to-torrents)| 
+Ragtag Archive| [Link](https://archive.ragtag.moe/)| 
 Archive Org| [Link](https://archive.org)| Other people use this website to archive random Vtuber vods sometimes, so if youre looking for specific vods this might be of use
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
 
 ---
-#Ways to contact me if needed
-If you have questions or something, check below for ways to contact me if needed
-
+#Some ways to contact me, if needed:
+If you have any questions or things to ask, or need to contact me for whatever reason, check the Contact information section below:
 Content|Link|Description 
 -------|-------|------- 
+General Information about IRC |[Link](https://rentry.org/IRC_Stuff)| 
 Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net

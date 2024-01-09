@@ -1,12 +1,12 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #47 (Tuesday, 02 January 2024, 23:00 UTC)<-
-->MERRY CHRISTMAS AND HAPPY NEW YEAR!<-
+->Last updated on thread #49 (Tuesday, 09 January 2024, 08:30 UTC)<-
+->She's cute.<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
 - [/Chic-Fil-A/ Aggie part tri Valhalla edition](https://aggie.io/cfatw279pr) (Collaborative drawing canvas.)
-- [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
+- [/HMoFA/ Story Archive](https://mega.nz/folder/4MQBTIxK#0532eR3U81Svc9l6kYWJrg) (Archive of /hmofa/ stories in the form of downloadable files.)
 - [/HMoFA/ Masterbin](https://rentry.org/hmofa) (For fox women stories before 9 February 2023.)
 - [/HMoFA/ Tag Catalog](https://hmofa.neocities.org/) (Ctrl + F "fox", "vixen", "kitsune".)
 
@@ -19,6 +19,7 @@
 - [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
+- [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
 
 == **TABLE OF CONTENTS**

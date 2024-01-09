@@ -239,8 +239,8 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[2]** *Cyrus faggotry*](https://arch.b4k.co/vp/thread/55126019/)
 
 ###->Ashen Frost<-
-!!! info
-	**Status: In Progress**
+!!! note
+	**Status: Completed**
 [**[1]** *Hard mode is pretty bullshit*](https://arch.b4k.co/vp/thread/55133275/)
 [**[2]** *More Kaizoshit retardation*](https://arch.b4k.co/vp/thread/55135891/)
 [**[3]** *Lots of bugs, with a side of more Kaizofaggotry*](https://arch.b4k.co/vp/thread/55140963/)
@@ -250,4 +250,18 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[7]** *The Kaizoshit's still here, don't worry*](https://arch.b4k.co/vp/thread/55175288/)
 [**[8]** *Bonding time with the Zapdos*](https://arch.b4k.co/vp/thread/55180438/)
 [**[9]** *Kidnapped by edgy Giratinafags*](https://arch.b4k.co/vp/thread/55185628/)
-[**[10]**](https://arch.b4k.co/vp/thread/55194744/)
+[**[10]** *It's over. Urmumium suffering continues, however*](https://arch.b4k.co/vp/thread/55194744/)
+
+###->Post Ashen Frost Threads<-
+!!! info **Wagie, White Man and I started playing through Urmumium in the last couple of threads, so a thread was made to finish that before we move on to Reminiscencia**
+####Urmumium
+!!! note
+	**Staus: Completed**
+	As far as you can get, anyway
+[**[1]** *Fuck Demice*](https://arch.b4k.co/vp/thread/55205455/)
+
+####Reminiscencia
+!!! info
+	**Status: In Progress**
+[**[1]** *Sexo, as expected from the Realidea devs*](https://arch.b4k.co/vp/thread/55208741/)
+[**[2]**](https://arch.b4k.co/vp/thread/55211277/)

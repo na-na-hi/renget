@@ -19,9 +19,9 @@
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
-[Local Models Papers](https://rentry.org/localmodelspapers)|Other /lmg/ resource I keep up-to-date with new papers and articles
+[Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search every abstract
 [Arxiv Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of ML/AI papers 
-[PapersWithCode](https://paperswithcode.com)|Paper indexer that allows sorting by github stars
+[PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
 |
 **News**|
 [AI Explained](https://piped.us.projectsegfau.lt/@aiexplained-official)|General AI news with well sourced links (Youtube) 
@@ -56,7 +56,7 @@
 [TabbyAPI](https://github.com/theroyallab/tabbyAPI)|FASTAPI application for exllama2 backend for use with SillyTavern 
 |
 [SillyTavern](https://github.com/SillyTavern/SillyTavern)|Frontend that is a heavily modified TavernAI fork 
-[vllm](https://github.com/vllm-project/vllm)|Inference library with fast inferencing and PagedAttention for kv management
+[vllm](https://github.com/vllm-project/vllm)|Inference library with fast inferencing and PagedAttention for KV management
 |
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning tool for various architectures with integrated support for flash attention and rope scaling 
@@ -122,7 +122,7 @@
 |
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
-[Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of wikipedia
+[Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of Wikipedia
 [ERP Forum Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
 [VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
 [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents

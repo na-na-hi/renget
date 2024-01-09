@@ -1,5 +1,5 @@
 #Local Models Related Papers
-/lmg/ | ->Accelerate<-
+/lmg/ | ->[Abstracts Search](https://files.catbox.moe/mt1b7p.txt)<-
 ------ | ------
 |**Google** ->[Papers](https://research.google/pubs/?area=machine-intelligence) [Blog](https://ai.googleblog.com)<-
 12/2017|[Attention Is All You Need (Transformers)](https://arxiv.org/abs/1706.03762)
@@ -301,11 +301,10 @@
 01/2023|[Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
 02/2023|[Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models](https://arxiv.org/abs/2302.02599)
 02/2023|[The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)
-02/2023|[End-to-End Deep Learning Framework for Real-Time Inertial Attitude Estimation using 6DoF IMU](https://arxiv.org/abs/2302.06037)
 02/2023|[The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation](https://arxiv.org/abs/2302.06784)
 03/2023|[COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/abs/2303.09752)
 03/2023|[High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865)
-03/2023|[Meet in the Middle: A New Pre-training Paradigm](https://arxiv.org/abs/2303.0729)
+03/2023|[Meet in the Middle: A New Pre-training Paradigm](https://arxiv.org/abs/2303.07295)
 03/2023|[Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
 03/2023|[Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647)
 03/2023|[FP8 versus INT8 for efficient deep learning inference](https://arxiv.org/abs/2303.17951)

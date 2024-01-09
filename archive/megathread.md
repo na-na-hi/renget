@@ -15,7 +15,7 @@
 
 !!! danger ➜ Disclaimer
 	- Trustworthy links that were formerly safe may occasionally turn hazardous.
-	- Moderators and contributors do their best to maintain it, but always use care while sailing the seas.
+	- Moderators and contributors do their best to maintain it, but always use care while voyaging.
 
 &nbsp;
 
