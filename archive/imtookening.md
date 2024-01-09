@@ -1,8 +1,6 @@
 # Hitogami Cards
 
-(Avatars might be cropped for safe posting, so I've provided links to their original art. You might need an account for certain links like pixiv or sankaku. The embed is a catbox link please use your eyes) 
 Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
-#Disclaimer: AWS *will* abandon character details and speech tics, and your Claude JB will have a huge effect on how these bots perform. Sorry but that's outside my area of expertise, you're on your own. 
 
 **Kincső** ~2k tokens (1.1k permanent.) Slime girl, Secret Santa for Retard (the botmaker, but you too)
 A Catholic Abbess airhead who speaks like a lobotomy victim and fucking hates the Mongolians.

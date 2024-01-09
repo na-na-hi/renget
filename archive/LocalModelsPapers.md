@@ -257,6 +257,9 @@
 12/2023|[4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647)
 12/2023|[LLM360: Towards Fully Transparent Open-Source LLMs](https://arxiv.org/abs/2312.06550)
 12/2023|[SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166)
+01/2024|[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+01/2024|[Mixtral of Experts](https://arxiv.org/abs/2401.04088)
+01/2024|[EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -486,6 +489,9 @@
 01/2024|[LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)
 01/2024|[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 01/2024|[LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/abs/2401.02415)
+01/2024|[Fast and Optimal Weight Update for Pruned Large Language Models](https://arxiv.org/abs/2401.02938)
+01/2024|[Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://arxiv.org/abs/2401.03462)
+01/2024|[MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

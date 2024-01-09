@@ -21,7 +21,6 @@ Niamh Campbell: https://rentry.org/wef3k
 Penthesilia Parley: https://rentry.org/ogqwg
 Euphemia https://rentry.org/uq9auo
 My Appletrundle (HL) https://rentry.org/MyAppletrundle
-My Appletrundle (MA) https://rentry.org/MyAppletrundleMAwriting
 Evalyn "Eva" Halliwell: https://rentry.org/EvalynHalliwell
 Heather Mason: https://rentry.org/t9dat
 Madison Rout: https://rentry.org/SoggyTroutwrite
@@ -38,6 +37,7 @@ Zalia Freeman: https://rentry.org/ZailaFreeman
 -
 Magic Awakened Students:
 Eoin O'Dwyer: https://rentry.org/EoinOdwyer
+My Appletrundle (MA) https://rentry.org/MyAppletrundleMAwriting
 ->• ───────────────── •<-
 
 Name: Your characters name here so we know who this is about.

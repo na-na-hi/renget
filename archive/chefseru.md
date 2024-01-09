@@ -8,6 +8,9 @@
 WOMVAT LOVE
 chefseru@proton.me for all your logs, manifestos, and cat porn
 
+not me but thanks? also hi I'm not dead
+![who is this](https://files.catbox.moe/qs7jre.PNG)
+
 ***
 # MENU
 [TOC2]
@@ -85,8 +88,7 @@ Email me if you're interested. Don't expect anything better than what you see he
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-sweaty tanned tomboy abs
-fat breedable femboy ass
+...
 
 ***
 ## DESSERT (SFW/NSFW)

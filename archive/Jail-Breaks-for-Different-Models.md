@@ -3,14 +3,14 @@
 ->If you have a Jail Break you want added to this rentry or something just tell me or email me @psycozaku208@gmail.com and I'll add it here.<-
 
 
-->==(updated 2023-12-19)==<-
+->==(updated 2024-1-8)==<-
 ***
 [TOC2] 
 ***
 #####Both
 https://rentry.org/CoT_Jailbreaks
 
-https://rentry.org/vfqow (Character providers new rentry)
+https://rentry.co/CharacterProvider
 
 https://rentry.org/LurkzyDurkzyBurkzy
 

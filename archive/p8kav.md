@@ -1,6 +1,6 @@
 #**Sull's bots**
 
-## ![fumo](https://files.catbox.moe/wbun4b.png)
+## ![banner](https://files.catbox.moe/j3vise.png)
 
 Hi, my name is Sull, these are my bots
 Most of my bots are lolis and shotas (And gyro zeppeli for some fucking reason). Some include physical and mental abuse towards you so keep that in mind. Some of them are available on CAI but my newer ones are just impossible to port otherwise they'll be struck by the filter.
@@ -25,31 +25,32 @@ Enjoy.
 
 
 #New Bots
+**Clarence**
+**Tavern Card**
+https://files.catbox.moe/g7zunq.png
+*synopsis* A young girl proficient with the knife from district 8 forced to become the female tribute for the 76th hunger games
+![clarence](https://files.catbox.moe/g7zunq.png)
+
+**Alison**
+**Tavern Card**
+https://files.catbox.moe/waema2.png
+*synopsis* An even younger girl from district 10 forced to become the female tribute for the 76th hunger games the day of her birthday.
+![alison](https://files.catbox.moe/waema2.png)
+
+**Margaret**
+**Tavern Card**
+https://files.catbox.moe/tsc5rt.png
+*synopsis* An 11 year old body builder you find working out at the gym
+![marg](https://files.catbox.moe/tsc5rt.png)
+
 **Abyzou and Cherub**
 **Abyzou**
 https://files.catbox.moe/th1ino.png
+A demon from hell that enjoys torturing the youth of the world
 **Cherub**
 https://files.catbox.moe/msnzkw.png
+A servant of god and a being of innocence and light
 ![Double](https://files.catbox.moe/qmwvpl.jpg)
-
-**Takashi and Mitaka**
-**Tavern Card** https://files.catbox.moe/xfxled.png
-*synopsis* A pair of Filipino and Japanese siblings that live next door on your apartment complex
-*genre* duo, shota
-![Takashi](https://files.catbox.moe/xfxled.png)
-
-**Itachi Uchiha**
-https://www.chub.ai/characters/Sull/itachi-uchiha-fc3a6e36
-*synopsis* The feared Akatsuki member and perpetrator of the Uchiha Massacre
-*genre* anime character, naruto
-
-**Oliver**
-**Tavern Card** https://files.catbox.moe/j7wn4q.png
-**Diaper Only Card** https://files.catbox.moe/ub6b88.png
-*synopsis*: The mysterious baby you found in the bathroom of a gas station
-*genre*: Toddler, baby
-![Oliver](https://files.catbox.moe/j7wn4q.png)
-![DiaperOliver](https://files.catbox.moe/qa6qj2.png)
 
 #Expression Packs
 **Emily (Babysitting a Brat)**
@@ -123,6 +124,14 @@ Yes, this is a bot based on me
 *genre*: loli, gyaru
 ![Gyaru](https://files.catbox.moe/3ul5qd.png)
 
+**Oliver**
+**Tavern Card** https://files.catbox.moe/j7wn4q.png
+**Diaper Only Card** https://files.catbox.moe/ub6b88.png
+*synopsis*: The mysterious baby you found in the bathroom of a gas station
+*genre*: Toddler, baby
+![Oliver](https://files.catbox.moe/j7wn4q.png)
+![DiaperOliver](https://files.catbox.moe/qa6qj2.png)
+
 **Lila Anonie**
 **Tavern Card**
 https://files.catbox.moe/q36izp.png
@@ -144,6 +153,12 @@ https://files.catbox.moe/appgt8.png
 *description*: you as kid's entertainer at a birthday party an can tell them what to do, the kids being young and naïve will do whatever you tell them dressed in cute and innocent swimsuits that leave nothing to the imagination
 *genre*: simulation
 ![creep](https://files.catbox.moe/appgt8.png)
+
+**Takashi and Mitaka**
+**Tavern Card** https://files.catbox.moe/xfxled.png
+*synopsis* A pair of Filipino and Japanese siblings that live next door on your apartment complex
+*genre* duo, shota
+![Takashi](https://files.catbox.moe/xfxled.png)
 
 **Kelly and Gigi**
 **Tavern Card**
@@ -195,6 +210,12 @@ https://files.catbox.moe/f6yt18.png
 *genre*:loli, pregnancy
 *description*: You were hired to babysit a pregnant 13 year old girl with a very bad attitude who likes to wear very little clothing
 ![Preg](https://files.catbox.moe/f6yt18.png)
+
+**Lyney**
+**Tavern Card**
+https://files.catbox.moe/t2rpsq.png
+*synopsis* Warrior and commander ready to take you on
+![lyney](https://files.catbox.moe/t2rpsq.png)
 
 **Nirofeno**
 **Tavern Card** https://files.catbox.moe/3xep35.png
@@ -402,6 +423,24 @@ https://files.catbox.moe/jtkfim.png
 *synopsis*: The smug librarian of the knights now turned into smug little witch
 ![Lisa](https://files.catbox.moe/nkwdfa.png)
 
+**Lilo Pelekai**
+**Tavern Card**
+https://files.catbox.moe/8tybwv.png
+*synopsis*: Young girl from Hawaii
+![lilo](https://files.catbox.moe/8tybwv.png)
+
+**Hollyhock**
+**Tavern Card**
+https://files.catbox.moe/0669oj.png
+*synopsis*: Young horse from Bojack Horseman
+![HOLLYHOCK](https://files.catbox.moe/0669oj.png)
+
+**Greg Heffley**
+**Tavern Card**
+https://files.catbox.moe/xt31t3.png
+*synopsis* Down on his luck kid who's extremely narcissistic
+![GrgHeff](https://files.catbox.moe/xt31t3.png)
+
 **Goten And Trunks**
 **Tavern Card**
 https://files.catbox.moe/j02uyq.png
@@ -424,6 +463,11 @@ https://files.catbox.moe/j02uyq.png
 *genre:* Loli
 *synopsis:* She's the Spark Knight of the Knights of Favonius
 ![klee](https://files.catbox.moe/7pd1q1.png)
+
+**Itachi Uchiha**
+https://www.chub.ai/characters/Sull/itachi-uchiha-fc3a6e36
+*synopsis* The feared Akatsuki member and perpetrator of the Uchiha Massacre
+*genre* anime character, naruto
 
 **Eeveelutions siblings**
 **Tavern Card**
@@ -460,5 +504,7 @@ I really like superman
 
 
 # [There is a light that never goes out](https://youtu.be/siO6dkqidc4?si=UDi1Nv6n-OP7KCDx)
+
+## ![fumo](https://files.catbox.moe/wbun4b.png)
 
 Feedback, suggestions and logs in /aicg/ are greatly appreciated

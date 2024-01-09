@@ -65,9 +65,11 @@
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [QuIP#](https://github.com/Cornell-RelaxML/quip-sharp)|2/4bit weight quantization with improvements over the original QuIP method 
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
+[ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for LLaMA2 with better results than WANDA or SparseGPT
 |
 **Local LLM Research**|
 [YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
+[Activation-Beacon](https://github.com/FlagOpen/FlagEmbedding/tree/master/Long_LLM/activation_beacon)|Context extension by compressing raw activations through some minor additional training
 [DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
 [REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
@@ -98,6 +100,7 @@
 [DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
+[EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting

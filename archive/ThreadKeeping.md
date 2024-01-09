@@ -38,6 +38,8 @@ Eiyu Isamu
 >>91483132
 Emilia Shadowsong, Battousai
 >>91485490
+>Ikari Michita
+>>91493870
 
 >Greed
 Naoki Arai, Impossibility Tinker
@@ -48,6 +50,8 @@ Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
 Lem Amano, Amano Lemon
 >>91483342
+>Hifumi Ishiku
+>>91485868
 
 >Lust
 Hinako Shimeki, The Dollmaker
@@ -56,6 +60,8 @@ Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
+>Kazuki Asahara
+>>91494741
 
 >Sloth
 Amane Shiozaki; Amaryllis, The Grand Librarian
@@ -72,6 +78,8 @@ Mithran Kuro, Undefeated Knight
 >>91485106
 Haruhi Oohara; Rasalhague
 >>91482203
+>Yuki Tanaka
+>>91486160
 
 >Envy
 Aki Hitoyoshi
@@ -84,6 +92,13 @@ Chance Encounter (Yoji Ryoshi, Akari Ichioka)
 https://rentry.org/5uap6
 He Was Never Booksmart (Aki Hitoyoshi, Amane Shiozaki)
 https://rentry.org/t38ri
+Emilia Shadowsong Relationship Chart:
+https://rentry.org/itwvp
+Hifumi Opener:
+https://rentry.org/32bs7
+>DE is now a hit VN/RPG series
+>>91488685
+
 ```
 
 #Chinese Warlord (Arena)
@@ -290,6 +305,8 @@ Keru's Relationship Chart:
 >>91456444
 Oggdo Bogdo Bash (Kon, Smolg)
 >https://rentry.org/OggdoCHADdo
+>Kon VS Nexios+Syko matchup analysis
+https://rentry.org/mezmz
 ```
 
 #Fate/Arena
@@ -454,8 +471,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->1-D Character Summary
-https://rentry.org/9bf3g
+New Art:
+>jugorush2
+>>91491455
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/

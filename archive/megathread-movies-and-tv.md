@@ -229,6 +229,10 @@
 - You can view all videos for free, quickly, and awesomely without checking in or registering.
 - [URL Safety Results](https://www.urlvoid.com/scan/soapter.tv/)
 
+### ▶️ [Streamflix](https://www.streamflix.one/) / [2](https://watch.streamflix.one/)
+- Experience with the finest curated selection of movies that will you entertained for hours.
+- [URL Safety Results](https://www.urlvoid.com/scan/streamflix.one/)
+
 ### ▶️ [Sudostream](https://sudostream.com/)
 - Among the top free sites for streaming movies in HD without registering or forking over anything.
 - [URL Safety Results](https://www.urlvoid.com/scan/sudostream.com/)

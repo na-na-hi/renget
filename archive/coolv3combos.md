@@ -201,3 +201,13 @@ artist:atte nanakusa, artist:goto-p, artist:kedama milk,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/e9znhb.png) | ![](https://files.catbox.moe/x54gge.png) | ![](https://files.catbox.moe/9vhoti.png) | ![](https://files.catbox.moe/sok9qw.png)
+
+``` html
+artist:branch (blackrabbits), artist:cyancapsule, artist:osakana (denpa yun'yun), 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/43uhuj.png) | ![](https://files.catbox.moe/hw116z.png) | ![](https://files.catbox.moe/m2n5a4.png) | ![](https://files.catbox.moe/p2pmfb.png)
+
+***
+[TOC2]

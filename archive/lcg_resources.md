@@ -48,6 +48,7 @@
 * [Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 * [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 * [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
+* [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [A Better Tutorial for Limbus Company](https://www.youtube.com/watch?v=ujQgRJo9vHA)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
@@ -179,4 +180,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 11/27/23: Moved MD2H link to outdated section.
 12/13/23: Added new damage calcuator link.
 12/26/23: Switched out recommended translations link and added Limbus slotmaker links merry Christmas faggot
-12/30/23: Added MD3 farming guide and Don MEGA link. Happy nu year. ![lol&](https://files.catbox.moe/7dmu76.png)
+12/30/23: Added MD3 farming guide and Don MEGA link. Happy nu year.
+1/8/24: Added MD3 E.G.O gift fusion guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

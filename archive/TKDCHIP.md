@@ -1041,9 +1041,13 @@ Hezbollah Video's
 https://files.catbox.moe/a0b70s.mp4 New  1/1/24
 >Hezbollah toast's Idf conscripts with atgm missile 
 https://files.catbox.moe/tbhwi0.mp4  1/4/24
-Hezbollah published a video showing their attack that targeted the Meron Air Surveillance base of the israeli army
->https://files.catbox.moe/qeni61.mp4 New  1/6/24
-
+>Hezbollah published a video showing their attack that targeted the Meron Air Surveillance base of the israeli army
+https://files.catbox.moe/qeni61.mp4 New  1/6/24
+>Hezbollah released footage of their attack on a Merkava tank yesterday near Al-Asi base.
+https://files.catbox.moe/4uiw7d.mp4 New  1/8/24
+>"Hezbollah" published footage showing the targeting of Zionist positions and equipment in "Metula". 
+-"حزب الله" ينشر مشاهد استهداف مواقع ومعدات صهيونية في الـ"مطلّة".
+https://files.catbox.moe/d5p19l.mp4 New  1/8/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1135,3 +1139,13 @@ The Mujahideen Brigades publishes: Scenes from the process of monitoring an #Isr
 https://files.catbox.moe/801u0a.mp4 New   1/7/24
 The IRGC naval base is located between the towns of Shib Derazto, to the south-west, and Messen, to the north-east.
 https://files.catbox.moe/zr3nda.mp4 New  1/7/24
+>Scenes from the Islamic Resistance in #Iraq launching a drone towards the American occupation base “Rmelan” in #Syria.
+https://files.catbox.moe/m2ms50.mp4 New  1/8/24
+>The Mujahideen Brigades publishes: Scenes of our Mujahideen bombing Sderot with missiles
+https://files.catbox.moe/024rqb.mp4 New  1/8/24
+>Al Quds bridages releases : A message from the Zionist prisoner, Elad Katzir, who is being held by the Al-Quds Brigades. They left us alone.
+https://files.catbox.moe/zkfm4r.mp4 New  1/8/24
+>Was it worth it
+https://files.catbox.moe/dtu4j5.mp4 New  1/8/24
+>Jeremy Corbyn's statement in the British Parliament addressed the Israeli crimes in Gaza and emphasized the harsh realities of the dire situation faced by displaced Palestinians.
+https://files.catbox.moe/hackft.mp4 New  1/8/24

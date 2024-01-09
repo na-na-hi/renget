@@ -348,7 +348,9 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Limbus Company Update Countdown](https://lcbcountdown.carrd.co/)
 [Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
+[MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
+[MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 [Anon's RR2 150 Turn Guide](https://rentry.org/b29eu)
 [Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
@@ -387,4 +389,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 12/8/23: Fixed and updated some minor things.
 12/15/23: Updated to reflect the new Mirror Dungeon.
 12/21/23: Updated for hard mode also the FAQ was ordered wrong all this fucking time.
-12/24/23: Updated Limbus book Rentry link merry Christmas faggot ![lol&](https://files.catbox.moe/7dmu76.png)
+12/24/23: Updated Limbus book Rentry link merry Christmas faggot
+1/8/24: Added MD3 E.G.O gift fusion and farming guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

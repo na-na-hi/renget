@@ -644,6 +644,7 @@ cringekino clickbait: https://desuarchive.org/tg/post/91169301/
 Young Impakt Art: https://desuarchive.org/tg/post/91192484/
 Team PRD Moodboard: https://desuarchive.org/tg/thread/91286519/#91288679
 A Quiet Christmas Night(Inigo, Maru(maru)): https://desuarchive.org/tg/thread/91323415/#91331650
+jugorush2: https://desuarchive.org/tg/post/91491455/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
