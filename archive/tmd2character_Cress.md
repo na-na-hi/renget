@@ -7,16 +7,16 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 0/80
+**Level:** 8 | **Experience to Next Level:** 50/80
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 525₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 425₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Libero | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 2.
 
 ->Rookie Rank<-
-->*125/400 points to Normal Rank*<-
+->*195/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -77,8 +77,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Silver Gummi
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
+2. Red Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

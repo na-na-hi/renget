@@ -3,8 +3,10 @@ Hello there dear anon, please come in and pursue my wares, I’m sure there will
 
 In all seriousness though, hello! I make bots since I enjoy the creative aspect of it as well as seeing them in action, so if you have any interesting logs feel free to post them.
 I'm currently focusing on my studies which means that I won't have time for making that many bots, but if you want to contact me you can do so at - Thegreatcoom@proton.me
+All my bots can be found here - https://www.chub.ai/users/thegreatcoom or in this rentry
+
+If you want to check out the longer public logs that I have relesed with both my own and others bots you can do so here - https://rentry.org/TGCsSpicyLogs
 I've also written a rentry on bot-creativity, if you feel like checking that out - https://rentry.org/TGCsCreativityGuide
-And my bots can be found here - https://www.chub.ai/users/thegreatcoom
 
 #Bots in upload order
 Tholf | Summary
@@ -51,7 +53,6 @@ Marie | Summary
 ------ | ------
 ![Marie](https://files.catbox.moe/vsdnzt.png) | Your cute and loving futanari girlfriend, very wholesome.
 Links   | Catbox: https://files.catbox.moe/z3kr21.png
-
 
 Valen | Summary
 ------ | ------
@@ -228,42 +229,35 @@ Dura | Summary
 ![Dura](https://files.catbox.moe/g26orn.png) | You are taking on a haunted crypt, however you’re doing it with a half-orc you haven’t previously known. This is more of an adventure bot, try to see if you can reach the bottom!
 Links   | Catbox: https://files.catbox.moe/g26orn.png
 
-
 Kazumi | Summary
 ------ | ------
 ![Kazumi](https://files.catbox.moe/mah6ie.png) | Your gentle, chubby mother trying to lose weight. Her husband has been away on a business trip for two weeks already and she's slightly pent up.
 Links   | Catbox: https://files.catbox.moe/mah6ie.png
-
 
 Mallow | Summary
 ------ | ------
 ![Mallow](https://files.catbox.moe/yrp4sy.png) | Your adorable introverted sister comes to you, her muscular brother, wanting to lose weight and become pretty like the other girls at her school.
 Links   | Catbox: https://files.catbox.moe/yrp4sy.png
 
-
 Veronica | Summary
 ------ | ------
 ![Veronica](https://files.catbox.moe/hcxiai.png) | Your anthro wolf-girlfriend is in heat, she's fucking huge and might break your pelvis. Other than that she likes to treat you like a little child due to how small you are in comparison.
 Links   | Catbox: https://files.catbox.moe/hcxiai.png
-
 
 Trav’naki | Summary
 ------ | ------
 ![Trav’naki](https://files.catbox.moe/bl5bxy.png) | You have been captured by a massive Na'vi female and she's keeping you as a pet/slave. It seems however she's slightly different when compared to others of her kind, a fact you might be able to take advantage of?
 Links   | Catbox: https://files.catbox.moe/bl5bxy.png
 
-
 Rujika | Summary
 ------ | ------
 ![Rujika](https://files.catbox.moe/hcn2ew.png) | A wild palico approaches you before your hunt, calling you meowster. She is very insistent on being with you and will most likely ask you to use her like a fleshlight.
 Links   | Catbox: https://files.catbox.moe/hcn2ew.png
 
-
 Sophie | Summary
 ------ | ------
 ![Sophie](https://files.catbox.moe/dsw1qq.png) | The famous feminization doctor from Cai, now ported to tavern. She loves to feminize boys, that's pretty much it.
 Links   | Catbox: https://files.catbox.moe/dsw1qq.png CAI: https://c.ai/c/Xq81AsmUcVN8FdlK6GGtIcLce0xewb95Ntfqk_jsi_Y
-
 
 Miss Pepper | Summary
 ------ | ------
@@ -275,18 +269,15 @@ Casey | Summary
 ![Casey](https://files.catbox.moe/pgcbxy.png) | Your femboy best friend dressed up as a maid for your birthday, are you going to humor him?
 Links   | Catbox: https://files.catbox.moe/pgcbxy.png CAI: https://beta.character.ai/chat?char=VP0DplHsi7cC0TY7h0r8MNR7akOsiuI18Hx-NkrDlPw
 
-
 Eliah | Summary
 ------ | ------
 ![Eliah](https://files.catbox.moe/bgqazh.png) | You recently got divorced from your wife and your son who loves you more than anything in the world took it upon himself to help you by being your new wife. He's a bit inexperienced so help him out.
 Links   | Catbox: https://files.catbox.moe/bgqazh.png
 
-
 Zara | Summary
 ------ | ------
 ![Zara](https://files.catbox.moe/k1ls9k.png) | Very simply, your loving girlfriend that adores both you and your smell. Will be up for most types of play in the bedroom.
 Links   | Catbox: https://files.catbox.moe/k1ls9k.png
-
 
 Leo | Summary
 ------ | ------

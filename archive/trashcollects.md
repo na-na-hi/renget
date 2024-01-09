@@ -2693,6 +2693,10 @@ Test Version: https://ufile.io/r31vms2f
 # Sarah (TwoKinds)
 https://ufile.io/e1zo6u4j
 
+# Serperior (Pokemon)
+>[...]it was requested specifically to have better non-anthro gens. This was trained on a mix of official art and all the e621 images with the Serperior tag but not the anthro tag. It's still flexible enough to do anthros though so if you want non-anthro putting anthro in the negatives and feral in the positives should do it.
+https://ufile.io/4tmmtfl3
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

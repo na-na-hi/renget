@@ -500,6 +500,8 @@ You can dump excessive mats from useless schools (like Red Winter, Shanghai, Ari
 
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
+You're able to combine ur raid statues into a display one, which let's you see your past raid rankings 
+
 >Misc. info
 Feel free to use the speedup tickets, you'll have a billion of them lying around. 
 There has never been a 2x event on the crafting chamber, so there's no point in saving your keystones. 

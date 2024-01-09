@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The Clover Force
 **Level:** 11 | **Experience to Next Level:** 15/110
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 1409₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 559₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -19,7 +19,7 @@ Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increase
 ->*415/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 9 (21HP) | 20HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 6 points to spend.
+    You have 17 points to spend.
     4/12 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -78,7 +78,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
 

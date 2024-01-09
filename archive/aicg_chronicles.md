@@ -33,7 +33,7 @@ When | Where | What
 When | Where | What
 -|-|-
 2022-11-18|[37332351](https://warosu.org/vt/thread/37331587#p37332351)| Pyg starts here
-2022-11-27|[89991053](https://desuarchive.org/g/thread/89989802/#89991053)| anon speculates about the reasons for c\.ai degradation because of the filter
+2022-11-27|[89991053](https://desuarchive.org/g/thread/89989802/#89991053)| anon speculates about the reasons for c\.ai degradation due to the filter
 
 ***
 ###### December 2022
@@ -362,6 +362,7 @@ When | Where | What
 2023-07-28|[95008122](https://desuarchive.org/g/thread/95004965#95008122)| NAI 13B release
 2023-07-29|[95016467](https://desuarchive.org/g/thread/95014056#95016467)| chub-archive anon reports fixes, improvements and scraping progress
 2023-07-29|[95019209](https://desuarchive.org/g/thread/95017420#95019209)| new ban wave of Claude keys by Anthropic, emails widespread
+2023-07-29|[95020270](https://desuarchive.org/g/thread/95017420/#95020270)| chatGPTBox browser extension recommended
 2023-07-29|[95029301](https://desuarchive.org/g/thread/95028162#95029301)| Openrouter forces moderation
 2023-07-29|[95029390](https://desuarchive.org/g/thread/95028162#95029390)| telegai\.com is stealing cards from CharacterHub
 2023-07-30|[95042388](https://desuarchive.org/g/thread/95042312#95042388)| frontend for Discord shilled
@@ -929,7 +930,7 @@ When | Where | What
 2024-01-07|[98306071](https://desuarchive.org/g/thread/98304715#98306071)| OAI presents itself as caring only about the safety
 2024-01-07|[98307300](https://desuarchive.org/g/thread/98307167#98307300)| Gemini Ultra rumored to become available via subscription based Bard Advanced
 2024-01-07|[98308189](https://desuarchive.org/g/thread/98307167#98308189)| current TTS solutions shared
-2024-01-08|[98313874](https://desuarchive.org/g/thread/98313275#98313874)| anon presents his unbloated 250 sloc frontend, promises to share soon
+2024-01-08|[98313874](https://desuarchive.org/g/thread/98313275#98313874)| anon presents his unbloated 250 sloc frontend looking like mikupad, promises to share soon
 2024-01-08|[98319011](https://desuarchive.org/g/thread/98317745#98319011)| moemate\.io could be abusable
 2024-01-08|[98319896](https://desuarchive.org/g/thread/98317745#98319896)| an email from HF threatens to bring down a proxy due to guidelines violations
 2024-01-08|[98323441](https://desuarchive.org/g/thread/98323109#98323441)| news article with Lore anon's interview shared, CharacterHub has generated more than $1 million in annualized revenue
@@ -940,6 +941,8 @@ When | Where | What
 2024-01-08|[98326520](https://desuarchive.org/g/thread/98325965#98326520)| HF alternatives analyzed
 2024-01-08|[98326659](https://desuarchive.org/g/thread/98325965#98326659)| possible way to abuse moemate\.io shared
 2024-01-08|[98327089](https://desuarchive.org/g/thread/98325965#98327089)| OAI deserves all the hate
+2024-01-08|[98327429](https://desuarchive.org/g/thread/98325965#98327429)| the most (you)ed bait in /aicg/ history (?) to date (121), immediately followed by (74) and (103)
+2024-01-08|[98328205](https://desuarchive.org/g/thread/98328123#98328205)| figure\.ai's robot learns to make coffee "by watching humans for 10 hours"
 2024-01-08|[98328501](https://desuarchive.org/g/thread/98328123#98328501)| anon claims more than $1 million was drained by the proxies using Azure Microsoft key
 2024-01-08|[98328943](https://desuarchive.org/g/thread/98328123#98328943)| new proxies are banned on sight
 2024-01-08|[98330149](https://desuarchive.org/g/thread/98329933#98330149)| Lore anon announces ToS changes

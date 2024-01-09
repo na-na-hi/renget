@@ -1,3 +1,4 @@
--> [![an old computer showing various blue screens](https://media.discordapp.net/attachments/1007182318496133151/1033090888542453820/IMG_4269.gif)](https://rentry.co/sillyboard) <-
-
--> click here <-
+->![](https://cdn.discordapp.com/attachments/771002542595113000/1194357590965092432/renee_wrapped.png?ex=65b00f2f&is=659d9a2f&hm=7bad672dc63e233048963ecb06105a8ab177d9e0c5b4bfba4a4a289db8474625&)<-
+->![](https://watermelon.crd.co/assets/images/gallery01/b84ea468.gif?v=90e42ef7)% ﹒﹒or ***%#2C6C83% ajax %%*** *?!* ﹒h͟e** %#2C6C83% they %%**<-
+->![](https://cdn.discordapp.com/emojis/1113882855832027237.webp?size=40&quality=lossless)![](https://cdn.discordapp.com/emojis/1113882589384683620.webp?size=40&quality=lossless)⠀[*in*fp](https://www.16personalities.com/infp-personality)﹒& ***french*** ( ⋌ )<-
+->╰╮ ʿ ![]( https://pixelbank.neocities.org/decome/consoles/22f96f82.gif)﹒ [***dni***](wrappedone) & [***xtra***](wrappedtwo) ﹥︿ ![](https://xyz.crd.co/assets/images/gallery18/e7815016.gif?v=364e4a1e)<-

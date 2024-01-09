@@ -50,7 +50,7 @@ Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
 Lem Amano, Amano Lemon
 >>91483342
->Hifumi Ishiku, @H1FVM1
+Hifumi Ishiku, @H1FVM1
 >>91485868
 
 >Lust
@@ -60,7 +60,7 @@ Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
->Kazuki Asahara, The Messiah
+Kazuki Asahara, The Messiah
 >>91494741
 
 >Sloth
@@ -100,6 +100,8 @@ https://rentry.org/32bs7
 >Relationship Charts
 Emilia Shadowsong
 https://rentry.org/itwvp
+Yoji's relationship chart / Writefag Hybrid
+https://rentry.org/DEyojichart
 ```
 
 #Chinese Warlord (Arena)
@@ -473,8 +475,11 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->jugorush2
->>91491455
+>swordbro
+>>91495404
+New Writefag
+>Brightly Interview:
+>>91503507
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1039,6 +1044,8 @@ https://rentry.org/iyfm2
 https://rentry.org/nsno4
 >Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
 https://rentry.org/acnw3
+>Brightly Interview:
+>>91503507
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

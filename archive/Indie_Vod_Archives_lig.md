@@ -37,15 +37,15 @@ Content|Link|Description
 -------|-------|------- 
 Collection of various Indie Vods on Ms onedrive | [Link](https://1drv.ms/f/s!Avazw3c5DIg5bf-GrgSB-ha9G2E?e=EuCKf9)|
 
-##[Nyanners](https://www.twitch.tv/Nyanners)
+##[Nyanners](https://www.twitch.tv/Nyanners) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@NyannersVODs)|
-Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | [Discontinued]
+Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | 
 
 ---
 
-##[Hime Hajime](https://www.twitch.tv/hajime)
+##[Hime Hajime](https://www.twitch.tv/hajime) - [Discontinued]
 Content|Link|Description 
 -------|-------|-------
 Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)| 
@@ -54,14 +54,14 @@ Ms onedrive mirror |[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gW-8xj3u1nLv8w
 
 ---
  
-##[Anny](https://www.twitch.tv/anny)
+##[Anny](https://www.twitch.tv/anny) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
 
 ---
 
-##[Vei](https://www.twitch.tv/vei)
+##[Vei](https://www.twitch.tv/vei) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@veibaevods)|
@@ -69,16 +69,16 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 
 ---
 
-##[Girl DM](https://www.twitch.tv/girl_dm_)
+##[Girl DM](https://www.twitch.tv/girl_dm_) 
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
-Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| 
+Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Feel free to contact me per mail in advance at psobb1302 (at) gmail.com when she does karaoke if you want me to add possible karaoke vods to it.
 Girl DM Karaoke Vod Archive| [Link](https://1drv.ms/f/s!Avazw3c5DIg5gXJZtLB3rdhFEvM6?e=9JR6bc)| 
 
 ---
 
-##[Bubi](https://www.twitch.tv/bubivt)
+##[Bubi](https://www.twitch.tv/bubivt) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Youtube Playlist
@@ -87,11 +87,11 @@ Bubi VT Vod "Archive"|[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gXAJbNIQumPS
 
 ---
 
-##[Moriko Kyoho](https://www.twitch.tv/batatvideogames)
+##[Moriko Kyoho](https://www.twitch.tv/batatvideogames) 
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
-Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
+Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| [MS onedrive](https://1drv.ms/v/s!Avazw3c5DIg5gXNoklF5IKqQGQJS?e=l3AixI) 
 
 ---
 
@@ -100,7 +100,7 @@ Content|Link|Description
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
 Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)
-Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)
+Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)| [MS onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gX3UFLmhILe5pU0h?e=NHTKeC)
 Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)

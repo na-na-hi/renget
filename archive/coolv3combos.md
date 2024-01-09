@@ -62,7 +62,7 @@ boy portrait | warrior woman | jungle statue | random fun
 ``` html
 artist:garouma, artist:bellhenge, artist:pikaole, 
 ```
-!!! warning will sometimes generate pikachu in the image; consider putting "pikachu" in the Undesired Content.
+!!! warning Will sometimes generate pikachu in the image; consider putting "pikachu" in the Undesired Content. Frequent obnoxious watermarks.
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/xlm350.png) | ![](https://files.catbox.moe/x6of8s.png) | ![](https://files.catbox.moe/eyyz2u.png) | ![](https://files.catbox.moe/po7oh3.png)
@@ -150,6 +150,14 @@ artist:yoon cook, artist:zankuro, artist:kedama milk,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/skwqsj.png) | ![](https://files.catbox.moe/i590bl.png) | ![](https://files.catbox.moe/h3vs6u.png) | ![](https://files.catbox.moe/pl8oh3.png)
+
+``` html
+{artist:zankuro}, artist:cutesexyrobutts, artist:crumbles, 
+```
+!!! warning Frequent obnoxious watermarks.
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/rdxjfz.png) | ![](https://files.catbox.moe/e8b5oo.png) | ![](https://files.catbox.moe/rycbd9.png) | ![](https://files.catbox.moe/ktoy1g.png)
 
 ***
 ## Stylized Anime Content???

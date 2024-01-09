@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 1st January. All dates dd/mm.
+!!! Note Last updated: 9th January. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -81,7 +81,7 @@ Example Submission:
 	- yes, it's worth joining a club at any level, even if only for the 10 AP per day.
 	- majority of clubs are accepting of low level (or any level) players.
 	- for clubs that are full or close to full, the rule of thumb is if you're active you won't be removed.
-	- if you apply to a club, it's good practice to put "bag" in your profile greeting or identify your student profile avatar in the thread - this helps club leaders ensure they accept the right person. It's optional and not required.
+	- if you apply to a club, it's good practice to put "bag" in your profile greeting, identify your student profile avatar in the thread or confirm you're from bag once accepted - this helps club leaders ensure they accept people from /bag/.
 
 ***
 
@@ -108,6 +108,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Open as of 18/12
 6488 | Kanimochi | Open as of 15/12
+6665 | F2Poor | Open as of 04/01
 10625 | Vrillionaires | Open as of 06/10
 11830 | TummyArchive | Open as of 29/11
 
@@ -126,7 +127,6 @@ Club ID | Club Name | Club Status
 3640 | DFC | Full as of 10/11
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
-6665 | F2Poor | Full as of 10/11
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 01/12
 8785 | Frogs | Full as of 21/11
@@ -161,7 +161,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 05/12
+694 | ArisSoft | Open as of 04/01
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 
