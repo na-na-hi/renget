@@ -1033,6 +1033,8 @@ https://files.catbox.moe/0cu3vy.mp4 New  1/5/24
 https://files.catbox.moe/dh1fuv.mp4 New  1/6/24
 >Al-Qassam (Hamas) published scenes showing the destruction of a troop carrier APC
 the central Gaza Strip.https://files.catbox.moe/tgy1c2.mp4 New  1/7/24
+>Al-Qassam battles in the Zaytoun neighborhood
+https://files.catbox.moe/mm1wuu.mp4 New  1/9/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1066,6 +1068,8 @@ https://files.catbox.moe/jjqqwx.mp4 New  1/4/24
 https://files.catbox.moe/y3r1nk.mp4 New  1/5/24
 >Saraya Al-Quds (PIJ) published a video showing scenes from their mortar launches crushing military concentrations
 https://files.catbox.moe/45wkff.mp4 New  1/6/24
+>Al-Quds Brigades targeting a Zionist force in Khan Yunis
+https://files.catbox.moe/a34cag.mp4 New  1/9/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1149,3 +1153,13 @@ https://files.catbox.moe/zkfm4r.mp4 New  1/8/24
 https://files.catbox.moe/dtu4j5.mp4 New  1/8/24
 >Jeremy Corbyn's statement in the British Parliament addressed the Israeli crimes in Gaza and emphasized the harsh realities of the dire situation faced by displaced Palestinians.
 https://files.catbox.moe/hackft.mp4 New  1/8/24
+>Hebrew media published recordings that they said were of missiles launched from #Lebanon hitting the #Israeli Northern Command base
+https://files.catbox.moe/wwg10o.mp4 New  1/9/24
+>Gemma Connell from UNOCHA warns that the closure of Al-Aqsa hospital, central of Gaza Strip, means that lives are at stake
+https://files.catbox.moe/zvsc4r.mp4 New  1/9/24
+>NEW: A hidden tunnel system has been uncovered underneath a New York synagogue and Chabad headquarters, several hasidic Jews have been arrested Part 1
+https://files.catbox.moe/y8jg0i.mp4 New  1/9/24
+>Jew hidden tunnel system Part 2
+https://files.catbox.moe/ouhtss.mp4 New  1/9/24
+>UK Foreign Secretary David Cameron has been urged to comment on the extreme remarks made by the Israeli ambassador for Britain
+https://files.catbox.moe/d2cpnb.mp4 New  1/9/24

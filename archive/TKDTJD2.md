@@ -1456,3 +1456,152 @@ https://nitter.net/WarWatchs/status/1744474024917303360#m  1/8/24
 
 >"Hezbollah" published footage showing the targeting of Zionist positions and equipment in "Metula".
 https://nitter.net/Observe/status/1744474405860786439#m  1/8/24
+
+>⚡️Lebanese #Hezbollah:
+As part of the response to the assassination of the martyr Al-Arouri and his brothers in the southern suburb, and the martyr Wissam Al-Taweel, we targeted the northern region command headquarters of the enemy “army” in the occupied city of Safed (Dado base) with a number of attack drones.
+https://nitter.net/ME_Observer_/status/1744681328862237047#m  1/9/24
+
+>⚡️Hebrew media published recordings that they said were of missiles launched from #Lebanon hitting the #Israeli Northern Command base
+https://nitter.net/ME_Observer_/status/1744677158839001580#m  1/9/24
+
+>Breaking | Ministry of Health:  Ameed Ibrahim Sameeh Jeyousi, 31 , was shot and killed by Israeli forces' near village of Um Safa, northwest of Ramallah.
+https://nitter.1d4.us/QudsNen/status/1744715145065222189#m  1/9/24
+
+>Growing anti-U.S. sentiment in Arab world linked to U.S. support for Israel, leaders warn Blinken
+https://nitter.1d4.us/QudsNen/status/1744685509127868455#m  1/9/24
+
+>Gemma Connell from UNOCHA warns that the closure of Al-Aqsa hospital, central of Gaza Strip, means that lives are at stake, as Israel's systematic dismantling of the health system leaves injured Palestinians without life-saving medical care.
+https://nitter.1d4.us/QudsNen/status/1744684178086494354#m  1/9/24
+
+>Four IOF fighters eliminated in fierce battles with resistance in Gaza
+https://nitter.1d4.us/QudsNen/status/1744679273816862749#m  1/9/24
+
+>⚡️ Today's eighth operation... #Hezbollah: We targeted the newly developed spy equipment at the #Israeli "Byad Blida" site, and achieved a direct hit.
+https://nitter.net/ME_Observer_/status/1744727265500684517#m  1/9/24
+
+>Breaking | Al Jazeera correspondent: Israeli drones fire towards schools hosting displaced people in Khan Yunis, south of Gaza.
+https://nitter.1d4.us/QudsNen/status/1744737113650950261#m  1/9/24
+
+>⚡️Yesterday, a long-range precision missile strike launched from #IRAQ evaded the Patriot, David's sling, the Iron dome, and  hit its target in Haifa Bay. 
+Completely ignored by media.
+Israel hides when it gets hit hard.
+https://nitter.net/ME_Observer_/status/1744742488114626942#m  1/9/24
+
+> Loads of trash in the Jewish tunnels, including baby seats and strollers.
+https://t.me/Middle_East_Spectator/4583  1/9/24
+
+>NEW: A hidden tunnel system has been uncovered underneath a New York synagogue and Chabad headquarters, several hasidic Jews have been arrested
+https://t.me/s/Middle_East_Spectator  1/9/24
+
+JUST IN: Chaos breaks out in New York City after underground tunnels were discovered under the Chabad Lubavitch World Headquarters in Brooklyn.
+
+The incident below reportedly took place to prevent a cement truck from filling the tunnels.
+
+According to the Crown Heights Info, the tunnels were made in the past 6 months in an effort to expand 770.
+
+>⚡️BREAKING 
+Houthis warn of strikes on the UAE if they hire mercenaries to attack non-Israeli ships
+
+Abdulsalam Jahaf, a member of Ansarullah's defence committee, said the UAE is hiring mercenaries to attack non-Israeli ships and put the blame on us.
+
+If the UAE does so, they will not survive our strikes.
+https://nitter.net/IranObserver0/status/1744773508226285851#m  1/9/24
+
+>⚡️BREAKING 
+Iran detains a UAE tanker carrying suspicious material to Israel 
+
+The Shafaq news agency reported that the tanker was seized in Iranian territorial waters on its way to an Iraqi port
+https://nitter.net/IranObserver0/status/1744800212248310223#m  1/9/24
+
+>⚡️ #Yemeni military source: 
+Ansar Allah forces targeted a ship in the Red Sea
+https://nitter.net/ME_Observer_/status/1744861127740133454#m  1/9/24
+
+>Other reports suggest the tunnels were dug by Yeshiva men during COV*D after they were locked out of 770.
+
+The tunnel reportedly stretched from the Mikvah building to the women's portion of 770.
+
+The tunnel was discovered after someone started hearing people "in" his home.
+
+About ten arrests were made after some refused to leave the tunnels according to @FrumTikTok.
+https://twitter.com/CollinRugg/status/1744532117298786482?  1/9/24
+
+>REVEALED: Secret Tunnel Under Brooklyn Orthodox Jewish Center Sparks Brawl With NYPD After Workers Arrive to Fill It In
+https://themessenger.com/news/secret-tunnel-brooklyn-synagogue-arrests-chabad-lubavitch-headquarters  1/9/24
+
+>⚡️Watch the Qassam battles in the Zaytoun neighborhood shown by Al Jazeera
+https://nitter.net/ME_Observer_/status/1744775503758635446#m  1/9/24
+
+>⚡️Scenes from the Mujahideen of the Al-Quds Brigades targeting a Zionist force holed up in a house in the Al-Taqaddim axis in Khan Yunis.
+Al-Aqsa Flood
+Low quality
+https://nitter.net/ME_Observer_/status/1744777135531716957#m  1/9/24
+
+>The report warns that nearly the entire population of Gaza is in desperate need of food assistance.
+https://nitter.1d4.us/QudsNen/status/1744775259817939108#m  1/9/24
+
+>⚡️Haaretz newspaper: 
+As a result of #Hezbollah anti-armor missiles on the southern Lebanese border since October 8...
+
+- 120 buildings in the “Metula” settlement were damaged.
+
+- 80 out of 155 buildings inside the “Al-Manara” settlement were damaged.
+https://nitter.net/ME_Observer_/status/1744777519205695898#m  1/9/24
+
+>⚡️Israeli media: 
+The #Israeli “army” completed the withdrawal of thousands of its forces from #Gaza as part of a large withdrawal from the northern #Gaza Strip by order of the political and emergency level.
+https://nitter.net/ME_Observer_/status/1744777327672799620#m  1/9/24
+
+>Media analysis reveals that the coverage of the Gaza war in The New York Times and other major newspapers was significantly biased in favor of Israel.
+https://nitter.1d4.us/QudsNen/status/1744783008056422693#m  1/9/24
+
+>UK Foreign Secretary Boris Johnson is 'worried' that Israel has 'taken action in breach of international law' and has been urged to comment on the extreme remarks made by the Israeli ambassador for Britain justifying the bombing of every school and mosque in Gaza.
+https://nitter.1d4.us/QudsNen/status/1744786370759905496#m  1/9/24
+
+>Breaking | U.S. Secretary of State Antony Blinken: "Over the past 90 days, we witnessed a high humanitarian cost, which is what led us to stand alongside Israel."
+https://nitter.1d4.us/QudsNen/status/1744793950936866895#m  1/9/24
+
+>Justifying Israel's killing of 23,253 Palestinians 10,000 of whom are children and 7,000 women, U.S. Secretary of State Antony Blinken, during a press conference in occupied Jerusalem, stated: "We know that the enemy who hides and fires from schools and hospitals bases is an incredible challenge."
+https://nitter.1d4.us/QudsNen/status/1744801549296017721#m  1/9/24
+
+>Media coverage: "Hezbollah denies Israeli claims that the IOF assassinated the group's air unit commander."
+https://nitter.1d4.us/QudsNen/status/1744816475058131200#m  1/9/24
+
+>Breaking | U.S. Secretary of State Antony Blinken: "We know that the enemy who hides and fires from schools and hospitals bases an incredible challenge."
+https://nitter.1d4.us/QudsNen/status/1744796357217366196#m  1/9/24
+
+>During his press conference at the US embassy in occupied Jerusalem, Secretary of State Antony Blinken vowed to always stand alongside Israel.
+https://nitter.1d4.us/QudsNen/status/1744806428529828031#m  1/9/24
+
+>⚡️Lebanon: Lebanese army :
+A joint army and UNIFIL patrol in the outskirts of the town of Labouneh - south found 3 hoses used to pump incendiary materials that were extended by the #Israeli enemy, from within the occupied #Palestinian territories to the Lebanese territories. A specialized army unit worked to dismantle it in the presence of UNIFIL members, and during that time, the army and UNIFIL members were exposed to hostile fire, without causing any casualties.
+Another joint patrol in the outskirts of the town of Aita al-Shaab - south - found two similar hoses that were extended from the center of Tal Al-Raheb, which belongs to the #Israeli enemy, and a specialized army unit also worked to dismantle them.
+The army continues to take the necessary measures to monitor the situation at the southern border in coordination with UNIFIL.
+https://nitter.net/ME_Observer_/status/1744829209971662941#m  1/9/24
+
+>⚡️One of the benefits of the Al Aqsa flood is cleaning the region, it's sweeping the Zionists that are embedded within the communities of this region and exposing and isolating them.
+If you want to explore the world of Lebanese and Arab zionists, 
+
+Read the comments and quote tweets of this post.
+
+It's a portal to the hell that Zionists implanted in the Arab and Islamic world with their decades of propaganda through regional partners.
+https://nitter.net/ME_Observer_/status/1744832480715149419#m  1/9/24
+
+>⚡️A message from the fighters of the Islamic Resistance to the Secretary-General of Hezbollah, His Eminence Sayyed Hassan Nasrallah
+https://nitter.net/ME_Observer_/status/1744844719736123675#m  1/9/24
+
+>One citizen has been killed and others wounded in an Israeli strike on western Rafah, Gaza in the Israeli-alleged safe area.
+https://nitter.1d4.us/QudsNen/status/1744832658666856837#m  1/9/24
+
+>⚡️Lebanon: 
+Soon a message from the Mujahideen of the Islamic Resistance to the Secretary-General of #Hezbollah, Sayyed Hassan Nasrallah
+https://nitter.net/ME_Observer_/status/1744811578443137451#m  1/9/24
+
+>⚡️ Al-Qassam Brigades: 
+We praise the pivotal role of the Hezbollah martyr Al-Tawil in supporting the #Palestinian people through his leadership of many qualitative operations on the borders
+https://nitter.net/ME_Observer_/status/1744811867401249028#m  1/9/24
+
+>BREAKING| Deputy Prime Minister of Belgium, Petra De Sutter, says she will propose a request within the government demanding Belgium to take action at the ICJ, following the lead of South Africa.
+
+"Belgium cannot stand by and watch the immense human suffering in Gaza. We must act against the threat of genocide", she stated.
+https://nitter.1d4.us/QudsNen/status/1744822786164465968#m  1/9/24

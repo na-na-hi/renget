@@ -8,15 +8,9 @@
 &nbsp;
 
 
-
-
-
 # MOBILE
 
 &nbsp;
-
-
-
 
 
 

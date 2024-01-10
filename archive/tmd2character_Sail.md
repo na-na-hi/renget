@@ -76,7 +76,7 @@ Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 3/9 | ▮▮▮�
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
-*Equipped Item: Oran Berry* | Heals the user for 10HP.
+*Equipped Item: N/A* | N/A
 1. N/A | 
 2. Blast Seed | Explodes on contact for 10 true damage.
 3. Heal Seed | 	Cures all status conditions.

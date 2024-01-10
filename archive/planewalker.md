@@ -1,4 +1,4 @@
--> ![](https://files.catbox.moe/6g4q4k.png) <-
+-> ![](https://files.catbox.moe/wxsvyd.png) <-
 
 # -> Welcome to the library! <-
 

@@ -18,6 +18,8 @@ https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
 **HoloEN 1st Concert Connect the World merch rerun **
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
 
+**Cozy Winter merch set 2024 Limited pre-order period (Ends 13th Feb 1800 JST; Ships mid-June to mid-July)**
+https://shop.hololivepro.com/en/products/nanashimumei_cozywinter2024
 
 ###Regular merch
 **OMOCAT CouncilRys apparel** 

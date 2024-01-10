@@ -14,7 +14,6 @@
 * Cached links are available to allow you to view the page without needing to sign in.
 * Many of these tools will trigger your browser, Windows Defender, and personal antivirus. These are false positives.
 
-
 Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|Description
 --|--|--|--|--|--|--|--|--
 MAS|1.7|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) (If you have to ask for the zip password... Try more observation)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| 

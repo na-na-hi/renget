@@ -9,8 +9,8 @@
     - [x] Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
     - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
-!!! note ➜ Bookmark this URL
-	- ✅ This **Megathread is often updated**, and subject to rigorous [quality control](https://rentry.co/megathread-quality-control) checks.
+!!! note ➜ Quality over quantity
+	- The Megathread is to subject to rigorous 👁️‍🗨️ [**Quality Control**](https://rentry.co/megathread-quality-control) checks, and often updated.
     - Visit our [r/Piracy](https://www.reddit.com/r/Piracy/), [r/Torrents](https://www.reddit.com/r/torrents/), or [Lemmy](https://lemmy.dbzer0.com/c/piracy) communities for all the sailing discussions.
 
 !!! danger ➜ Disclaimer

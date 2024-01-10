@@ -15,7 +15,7 @@
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
 | 
 [Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[WolframRW LLM Comparisons](https://teddit.zaggy.nl/u/WolframRavenwolf/submitted?sort=new&)|Tests translation capabilities, cross-language understanding, and instruction following/understanding
+[WolframRW LLM Comparisons](https://teddit.projectsegfau.lt/u/WolframRavenwolf/submitted?sort=new&)|Tests translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
@@ -24,13 +24,13 @@
 [PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
 |
 **News**|
-[AI Explained](https://piped.us.projectsegfau.lt/@aiexplained-official)|General AI news with well sourced links (Youtube) 
+[AI Explained](https://piped.kavin.rocks/@aiexplained-official)|General AI news with well sourced links (Youtube) 
 [AI News Blog](https://thezvi.wordpress.com)|Lesswrong cultist so "AI Bad" takes but does a good weekly AI news roundup (Blog)
 [ML Resources](https://github.com/underlines/awesome-ml)|Broader sporadically updated list (not fully local)
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 |
 **Learn**|
-[Andre Karpathy YT](https://piped.us.projectsegfau.lt/@AndrejKarpathy)|In-depth videos of LLM construction from one of OpenAI's founding members
+[Andre Karpathy YT](https://piped.kavin.rocks/@AndrejKarpathy)|In-depth videos of LLM construction from one of OpenAI's founding members
 [Transformers From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html)|Blogpost with Juypter notebook that goes step by step for coding and training a small GPT
 [LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats

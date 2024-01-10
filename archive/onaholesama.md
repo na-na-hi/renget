@@ -1,7 +1,7 @@
 # onaholesama's furshit
-->![https://files.catbox.moe/9lwgse.mp3](https://files.catbox.moe/2ss88p.jpg)<-
+->![https://files.catbox.moe/9lwgse.mp3](https://files.catbox.moe/vl6au0.png)<-
 ***
-HAHAHAHAHHAHA ITS SO OVER. DEVHATE FOREVER. 
+ok we're back. go no further if thou shalt not appreciate furry anthro women.
 ***
 [TOC2]
 
