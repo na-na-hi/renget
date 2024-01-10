@@ -1,1 +1,1 @@
-Happy New Year!
+Grim.

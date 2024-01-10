@@ -12,19 +12,19 @@ For the 216th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Advent group cover of BABYMETAL - MEGITSUNE
-https://www.youtube.com/watch?v=OffTXFgbn7A
+\>New covers
+Premiere of Yuki no Hana - Nakashima Mika (Thu  01/11 7PM CT | 2AM CET): https://www.youtube.com/watch?v=SPWsptIhKkM
+Advent group cover of BABYMETAL - MEGITSUNE: https://www.youtube.com/watch?v=OffTXFgbn7A
 
 \>New merch
 Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
 hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
 
 \>Streams
-Next appearance (Beach zatsudan offcollab with Kiara on Kiara's channel, Tue 01/09 11AM CT | 18PM CET)
-https://www.youtube.com/watch?v=xgawWfP-s6o
 Next stream: Super Smash Bros offcollab with Kiara (Tue 01/10 11AM CT | 18PM CET)
-Previous appearance (Go Vacation! offcollab with Kiara, on Kiara's channel)
-https://www.youtube.com/watch?v=dxGzb807obQ
+https://www.youtube.com/watch?v=RlUkgIPH6Ok
+Last appearance (Beach zatsudan offcollab with Kiara on Kiara's channel)
+https://www.youtube.com/watch?v=xgawWfP-s6o
 Previous stream (New Year outfit reveal)
 https://www.youtube.com/watch?v=vyvA71ABpRo
 

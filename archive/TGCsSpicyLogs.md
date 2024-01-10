@@ -1,7 +1,8 @@
 # Thegreatcoom's spicy logs
 I don't have any issue sharing my logs with the world so I might as well compile all of the longer ones here for your viewing pleasure. Do note that i'm not uploading these in chronological order for when the log was made, quality may vary slightly between them due to different models and such being used. I generally try to remove (OOC) commands once I've finished with a story, but I might miss a few, sorry about that in advance.
 For all characters that aren't my own I will provide links if I have them, all other character can be found here - https://www.chub.ai/users/thegreatcoom
-If you have any logs of my characters that you'd like to show up here you can send them to Thegreatcoom@proton.me and I will upload them here.
+
+If you have any logs of my characters that you'd like to show up here OR you're a botmaker that wants to send me a bot to make a log of you can send them to Thegreatcoom@proton.me and I will upload them here.
 
 I hope you enjoy reading.
 #Female logs
