@@ -24,7 +24,7 @@ To leave her to the night.
 
 I beckoned for her to come into my arms,
 
-And she beckoned for me to never let her go.
+And she beckoned for me never to let her go.
 
 "Actually, maybe not never,"
 

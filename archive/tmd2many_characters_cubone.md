@@ -114,8 +114,8 @@ Item Name | Description
 *Equipped Item: None* | Empty
 1. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
 2. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
-3. None | None
-4. None | None
+3. Heal Seed | Cures all status conditions.
+4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 
 ***
 

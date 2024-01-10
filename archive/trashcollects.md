@@ -2697,6 +2697,10 @@ https://ufile.io/e1zo6u4j
 >[...]it was requested specifically to have better non-anthro gens. This was trained on a mix of official art and all the e621 images with the Serperior tag but not the anthro tag. It's still flexible enough to do anthros though so if you want non-anthro putting anthro in the negatives and feral in the positives should do it.
 https://ufile.io/4tmmtfl3
 
+# Greninja (Pokemon)
+>It was trained based on the top 1000 most favorited Greninja images on e621. The requester specifically mentioned it was hard to generate the tongue scarf and the feet, hence the foot fetish row in the test grid to check that. For the tongue scarf, unfortunately there's no e621 tag for it and it's inconsistently included so that hurts the generation. A way to improve it would be to make up a tag for it and include that tag in all the input images that have it and exclude it from the ones that don't and then the AI should learn that concept. If people want that I can do it, what would be a good tag for Greninja's tongue scarf? Just "tongue scarf" ? 
+https://ufile.io/n3pjw7pf
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -2909,6 +2913,15 @@ Big artist comparison
 
 EasyFluff Comparisons
 https://rentry.org/easyfluffcomparison/
+
+Easyfluff V10 Prerelease
+>There are artist comparisons and they are all nice and stuff but I was curious how scalies would turn out.
+>Here are some of a dragoness, if anyone cares.
+>I went with detailed scales and background.
+>Unfortunately, I had FreeU turned on, so it's not going to be perfect for all of you.
+>They are broken up at a more or less random spot to keep them from getting insanely huge.
+>I haven't examined them all yet. Just thought I'd share.
+https://mega.nz/folder/tHMTkDxZ#ga3iHKb_7AHpgzSH2YDGfg
 
 EasyFluff V11.2 Comparison
 

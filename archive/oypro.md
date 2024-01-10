@@ -79,10 +79,10 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Dense Rocks x2 | Does 2 true damage to a target, is lobbed.
+1. Candied Cakes | Boosts Evasion by 2 levels
 2. Confuse Wand | Casts a spell to Confuse the target.
-3. Oran Berry | Heals the user for 10HP.
-4. Apple | Gives +2 to any outside-combat-action.
+3. Empty | A vacant inventory slot
+4. Empty | A vacant inventory slot
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

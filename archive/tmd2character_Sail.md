@@ -78,7 +78,7 @@ Item Name | Description
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 *Equipped Item: N/A* | N/A
 1. N/A | 
-2. Blast Seed | Explodes on contact for 10 true damage.
+2. N/A | 
 3. Heal Seed | 	Cures all status conditions.
 4. N/A | 
 

@@ -73,10 +73,10 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 Equipped Item: Stun Seed | Causes *Petrified* on consumption.
-1. 2 Oran Leaves | Heals the user for 3HP. Can stack to 3.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-3. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
+3. Heal Seed | Cures all status conditions
+4. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -81,7 +81,7 @@ Some people are confused about what it does, or have a completely wrong idea—B
 > `I don't` *`remember`* ` _?_ (much, the, how, ...)`—repeat.
 
 You can stick to the top tokens for the-best-performance-from-the-model, or  you can also *doubt* the model and pick the unexpected.  
-Each preset has its own strategy; how much do you want to trust the model, or how much unconventional you want you output to be.  
+Each preset has its own strategy; how much do you want to trust the model, or how much unconventional you want your output to be.  
 (You can, of course, switch between them. Stick to performance presets, then switch to variety presets if AI struggle. Or use interesting preset, and switch to consistence presets if AI won't stick to context.)
 
 Other factors are: CFG 1.11+ (Produce unnatural prose, but god tier context recall), Repetition Penalty (Too high, and your performance is damaged. Too low, and you get repetition or require manual editing.)

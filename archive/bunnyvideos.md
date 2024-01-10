@@ -19,6 +19,9 @@
 [ENG] BoBo, Ellie: https://www.youtube.com/@BoboEllieBuns
 - two Holland Lops, some videos have Chinese subtitles, but the channel is entirely in English, 100K+
 
+[ENG] Emily: https://www.youtube.com/@EmilyTheRabbit
+- 5K+
+
 [ENG] Hopper: https://youtube.com/@hopperthrabbit2021
 - Mini Lop, < 1K
 

@@ -490,13 +490,13 @@ Reward: Assistant will generate
 Custom Css:
 ```
 /* This is the whole box */
-.panel {
+.custom-panel {
  background-color: #3d3c38;
  border-radius: 3px;
  border: solid #5c4d29 1px;
 }
 /* The name Box */
-.name {
+.custom-name {
  background-color: #171716;
  font-size: 1.3rem;
  text-shadow: 2px 2px 2px black;
@@ -504,7 +504,7 @@ Custom Css:
  letter-spacing: 0.3rem;
 }
 /* The value label */
-.label {
+.custom-label {
  width: 10rem;
  font-size: 1.2rem;
  display: flex;
@@ -512,7 +512,7 @@ Custom Css:
  color: #c9ba93;
 }
 /* value */
-.value {
+.custom-value {
  background-color: #171716;
  display: flex;
  flex-direction: column;
@@ -523,20 +523,20 @@ Custom Css:
  margin-bottom: 3px;
  text-decoration: underline dotted #c9ba93;
 }
-.container {
+.custom-container {
  display: flex;
  flex-direction: row;
 }
 /* Goals and Rewards */
-.goal {
+.custom-goal {
  font-size: 1.3rem;
  color: #c9ba93;
 }
-.panel {
+.custom-panel {
  font-family: 'rainyhearts';
 }
 /* thought box */
-.thoughts {
+.custom-thoughts {
  display: flex;
  align-items: center;
  justify-content: center;

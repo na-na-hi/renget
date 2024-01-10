@@ -256,6 +256,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Great Bulk ch. 7.5 (ft. Makky)](https://rentry.org/GreatBulk7-5)
 	* [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
 	* [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
+	* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -554,6 +555,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
 * [Sweet's Dreams: A Team Magic Story](https://rentry.org/krbcr)
 * [Scuttlin' Around Town (ft. Wimpod)](https://rentry.org/roombaArrival)
+* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

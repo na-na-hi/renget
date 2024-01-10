@@ -1,4 +1,4 @@
-# Watch Japanese television in mpv or vlc
+# Watch Japanese television in [mpv](https://mpv.io) or [vlc](https://www.videolan.org/vlc/)
 >TV Asahi
 https://mov3.co/tvasahi/
 >TV Tokyo
@@ -16,17 +16,21 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 >TBS
 https://tbs3.mov3.co/hls/tbs.m3u8
 https://tbs4.mov3.co/hls/tbs.m3u8
+>TBS's The Time and ラヴィット！ live on JST weekday mornings, usually on one of these channels, mostly -03 and -04
+https://www.twitch.tv/akb48_taiwan_clubs
+https://www.twitch.tv/akb48_taiwan_clubs03
+https://www.twitch.tv/akb48_taiwan_clubs04
+https://www.twitch.tv/akb48_taiwan_clubs05
 >Tokyo MX
 https://mov3.co/tokyomx/
 >unlisted WNI stream running nonstop for the last 3 years
 https://youtu.be/zAdWzjab1B8
->TBS's The Time and ラヴィット！
-https://www.twitch.tv/popout/akb48_taiwan_clubs04
-https://www.twitch.tv/popout/akb48_taiwan_clubs05
 >live AU Pay Market stream
 https://live.check.tv/live1/index.m3u8
+>browse AU Pay stream thumbnails
+https://jsfiddle.net/ykh46jz5/
 >anon's site of links to WNI and AU Pay Market stream VODs, sortable by date or caster
-https://weathernews.duckdns.org/ or https://wn.ydns.eu/
+https://gg.vern.cc/wn/
 http://sennajlwmhtxixl2qgwlvuaongxly6flffuz4roemsabjshlnnxdbbid.onion/
 >FujiTV vods
 https://fod.fujitv.co.jp/title/g9nu/g9nu110001/ -- 女子バレー
@@ -34,8 +38,7 @@ https://fod.fujitv.co.jp/genre/variety/H00047 --  アナウンサー
 >Tver
 https://tver.jp/
 Run mpv on any /episodes/ url like this https://tver.jp/episodes/epz5ohem6r
-Episodes are available temporarily. If you find one you want to keep, download it with yt-dlp
-
+Episodes are available for just a few days. If you find one you want to keep, download it with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 !!! info
     Use mpv's `--no-initial-audio-sync` option if you get an error about incorrect timestamps while opening a mov3 stream.
 !!! info

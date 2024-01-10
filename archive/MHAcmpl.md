@@ -645,6 +645,7 @@ Young Impakt Art: https://desuarchive.org/tg/post/91192484/
 Team PRD Moodboard: https://desuarchive.org/tg/thread/91286519/#91288679
 A Quiet Christmas Night(Inigo, Maru(maru)): https://desuarchive.org/tg/thread/91323415/#91331650
 jugorush2: https://desuarchive.org/tg/post/91491455/
+Swordrush(Hifumi): https://desuarchive.org/tg/post/91495404/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1029,6 +1030,7 @@ Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/nsno4
 Tooth And Claw(Saurus): https://rentry.org/qsrvx8
 Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy): https://rentry.org/acnw3
 1-D Character Summary: https://rentry.org/9bf3g
+Brightly Interview: https://desuarchive.org/tg/post/91503507/
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD
