@@ -429,13 +429,14 @@ v50:
 
 For added realism, try using Furtastic's negative embeddings (found [here](https://rentry.org/trashcollects#furtastic-v20)).
 
-### Queasyfluff V2 (EF-10prerelease based)
+### Queasyfluff V2
 >Copy/rename any existing yaml file (like the one above for Queasy V1)
 What's different about this version?
 >Fixed colors and CFG rescale issue
 >Follows directions a bit better
 >That's about it. Just does 3d and realism better than base easyfluff but still does great drawing style too
-https://pixeldrain.com/u/sfB3fC58
+EF10-prerelease based: https://pixeldrain.com/u/sfB3fC58
+EF11.2 based: https://pixeldrain.com/u/HLALVhng
 
 ### 0.7(Bacchusv31)+0.3(5050(BB95v11+Furtastic2))-pruned.safetensors
 

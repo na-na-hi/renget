@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-09==
+# /aicg/ chronicles, up to ==2024-01-11==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -914,7 +914,7 @@ When | Where | What
 2024-01-03|[98247066](https://desuarchive.org/g/thread/98245282#98247066)| for coding tasks begging, scaring or bribing GPT4 Turbo is ineffective
 2024-01-04|[98248861](https://desuarchive.org/g/thread/98247977#98248861)| text-davinci-003 is no more
 2024-01-04|[98250679](https://desuarchive.org/g/thread/98250082#98250679)| GPT4's moderation explored in context of Protected Material text being considered harmful
-2024-01-04|[98255921](https://desuarchive.org/g/thread/98255802#98255921)| some of the largest llms quizzed and arranged on the Political Compass
+2024-01-04|[98255921](https://desuarchive.org/g/thread/98255802#98255921)| some of the largest llms quizzed and arranged on the Political Compass by trackingai\.org
 2024-01-05|[98260723](https://desuarchive.org/g/thread/98258991#98260723)| 5 months old publication about a vulnerability in OAI API keys generation discovered
 2024-01-05|[98265649](https://desuarchive.org/g/thread/98264460#98265649)| news article about boyfriend\.myanima\.ai shared, both laughed at
 2024-01-05|[98267419](https://desuarchive.org/g/thread/98266974#98267419)| anon provides an example of the clever use of Claude for language learning
@@ -930,6 +930,7 @@ When | Where | What
 2024-01-07|[98306071](https://desuarchive.org/g/thread/98304715#98306071)| OAI presents itself as caring only about the safety
 2024-01-07|[98307300](https://desuarchive.org/g/thread/98307167#98307300)| Gemini Ultra rumored to become available via subscription based Bard Advanced
 2024-01-07|[98308189](https://desuarchive.org/g/thread/98307167#98308189)| current TTS solutions shared
+2024-01-07|[not migu](https://discord.com/channels/1079567503900033154/1079567503900033157/1193638199306768454)| Mikugg update, new features, future plans
 2024-01-08|[98313874](https://desuarchive.org/g/thread/98313275#98313874)| anon presents his unbloated 250 sloc frontend looking like mikupad, promises to share soon
 2024-01-08|[98319011](https://desuarchive.org/g/thread/98317745#98319011)| moemate\.io could be abusable
 2024-01-08|[98319896](https://desuarchive.org/g/thread/98317745#98319896)| an email from HF threatens to bring down a proxy due to guidelines violations
@@ -964,6 +965,14 @@ When | Where | What
 2024-01-09|[98340810](https://desuarchive.org/g/thread/98340025#98340810)| high effort botmaking in process showcased
 2024-01-09|[98343528](https://desuarchive.org/g/thread/98342649#98343528)| a reasonable theory about proxy takedown shared, pointing at Azure
 2024-01-09|[98345379](https://desuarchive.org/g/thread/98342649#98345379)| anon suggests a good idea for a movie
+2024-01-09|[98356178](https://desuarchive.org/g/thread/98356112#98356178)| local models can be used to control sex toys via the Buttplug Library
+2024-01-10|[98356184](https://desuarchive.org/g/thread/98356112#98356184)| render\.com now requires credit card verification
+2024-01-10|[98365391](https://desuarchive.org/g/thread/98364818#98365391)| cute but pointless Rabbit R1  is brought to attention
+2024-01-10|[98367678](https://desuarchive.org/g/thread/98366675/#98367678)| a way to selfhost moemate\.io proxy shared
+2024-01-10|[98370401](https://desuarchive.org/g/thread/98368645#98370401)| moemate\.io's Claude endpoint errors reported
+2024-01-10|[98372472](https://desuarchive.org/g/thread/98370908#98372472)| moemate\.io's GPT4 Turbo reported to be GPT3.5 Turbo with 4k context
+2024-01-10|[98373007](https://desuarchive.org/g/thread/98372763#98373007)| OAI's GPT Store is live, Sam Altman makes a lame joke, shilling a bot
+2024-01-11|[98375515](https://desuarchive.org/g/thread/98375233#98375515)| nameless Python + PyQT5 based frontend teased again, release "tomorrow maybe"
 -|-|-
 
 [](you have found my secret stash of nothing!)
