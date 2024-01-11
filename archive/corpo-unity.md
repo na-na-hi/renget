@@ -10,17 +10,12 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 
 ### List of Small Corpos
 
-- AkioAIR
-	- [Twitter](https://twitter.com/Akio_AIR)
-	- [Website](https://akioair.com/)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Akio_AIR)
-
 - AmberGlow
 	- [Twitter](https://twitter.com/AmbrGlw)
 	- [Website](https://amberglow.live/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Amber_Glow)
 
-- Animal Lounge EN
+- Animal Lounge KR
 	- [Twitter](https://twitter.com/Animal_Lounge)
 
 - Astraline
@@ -40,13 +35,6 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/bondliver_en)
 	- [Website](https://bond-live.com/en/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Bond_EN)
-
-- Cyberlive/Aetheria (Defunct)
-	- [Cyberlive Twitter](https://twitter.com/cyberlivecorp)
-	- [Aetheria Twitter](https://twitter.com/aetheriapro)
-	- [Cyberlive Website](https://www.cyberlivecorp.com/) (Defunct)
-	- [Aetheria Website](https://www.aetheriaproject.com) (Defunct)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Aetheria)
 
 - EIEN Project
 	- [Twitter](https://twitter.com/EIENproj)
@@ -95,6 +83,11 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Website](https://www.myholotv.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/MyHolo_TV)
 
+- Mythos
+	- [Twitter](https://twitter.com/Mythios_Live)
+	- [Website](https://mythosvt.wixsite.com/mythios)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/MythosHQ)
+
 - NextStage Project
 	- [Twitter](https://twitter.com/NexStageProject)
 	- [Website](https://www.nexstageproject.com/)
@@ -136,11 +129,6 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/proj_orbit)
 	- [YouTube](https://www.youtube.com/@proj_orbit)
 
-- PROJECT・F
-	- [Twitter](https://twitter.com/vprojectf)
-	- [Website](https://vproject-f.com/)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Project_F)
-
 - Projek Hikayat
 	- [Twitter](https://twitter.com/projekhikayat)
 	- [Facebook](https://www.facebook.com/people/Projek-Hikayat/100065035449385)
@@ -149,32 +137,9 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 - Re:HOPE
 	- [Twitter](https://twitter.com/ReHOPE_Corp)
 
-- Realcorp
-	- [Twitter](https://twitter.com/RealCorpTV)
-	- [Website](https://www.realcorp.tv/)
-
-- Shirayuri Productions (Defunct)
-	- [Twitter](https://twitter.com/ShirayuriPro)
-	- [Website](https://www.shirayuripro.com/) (Defunct)
-
 - Specialite
 	- [Twitter](https://twitter.com/Specialite_EN)
 	- [Website](https://reality-studios.inc/en/)
-
-- Star☆Ring (Defunct)
-	- [Twitter](https://twitter.com/StarRing_Vpro)
-	- [Website](https://www.starring.co.jp/) (Defunct)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Star%E2%98%86Ring)
-
-- Tomopulse (Defunct)
-	- [Twitter](https://twitter.com/TomoPulse)
-	- [Website](https://tomopulse.com/) (Defunct)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/TomoPulse)
-
-- Tsunderia (Defunct)
-	- [Twitter](https://twitter.com/tsunderia_us)
-	- [Website](http://tsunderia.com/) (Defunct)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Tsunderia)
 
 - V-Dere
 	- [Twitter](https://twitter.com/VirtualDere)
@@ -241,9 +206,52 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/hightidesha)
 	- [Website](https://www.tetrapodsha.com/hightidesha)
 
+### List of Defunct Corpos
+
+- AkioAIR
+	- [Twitter](https://twitter.com/Akio_AIR)
+	- [Website](https://akioair.com/)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Akio_AIR)
+
+- Cyberlive/Aetheria
+	- [Cyberlive Twitter](https://twitter.com/cyberlivecorp)
+	- [Aetheria Twitter](https://twitter.com/aetheriapro)
+	- [Cyberlive Website](https://www.cyberlivecorp.com/) (Defunct)
+	- [Aetheria Website](https://www.aetheriaproject.com) (Defunct)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Aetheria)
+
+- PROJECT・F
+	- [Twitter](https://twitter.com/vprojectf)
+	- [Website](https://vproject-f.com/)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Project_F)
+
+- Realcorp
+	- [Twitter](https://twitter.com/RealCorpTV)
+	- [Website](https://www.realcorp.tv/)
+
+- Star☆Ring
+	- [Twitter](https://twitter.com/StarRing_Vpro)
+	- [Website](https://www.starring.co.jp/) (Defunct)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Star%E2%98%86Ring)
+
+- Tomopulse
+	- [Twitter](https://twitter.com/TomoPulse)
+	- [Website](https://tomopulse.com/) (Defunct)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/TomoPulse)
+
+- Tsunderia
+	- [Twitter](https://twitter.com/tsunderia_us)
+	- [Website](http://tsunderia.com/) (Defunct)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Tsunderia)
+
+- Shirayuri Productions
+	- [Twitter](https://twitter.com/ShirayuriPro)
+	- [Website](https://www.shirayuripro.com/) (Defunct)
+
 ## Common Definitions
 
 **Corpo** - Shorthand for a corporation, company, or talent agency.
+**Defunct** - When a corpo goes out of business, loses every talent, or is no longer operational for any reason, they are considered defunct.
 **Indie Group** - Groups of indies that form into a single loose entity, sometimes indistinguishable from small corpos and sometimes completely independent of one another.
 **Mascot** - A vtuber who represents a brand. They are usually given a model specifically for that role.
 **Microcorpo** - A corpo that is very small in size, due to a limited audience and or a small amount of funding. An easy way to tell if a corpo is a microcorpo is if they do not have an official website or any listed staff.

@@ -48,6 +48,7 @@
 11/2023|[Automatic Engineering of Long Prompts](https://arxiv.org/abs/2311.10117)
 12/2023|[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses](https://arxiv.org/abs/2312.00763)
 12/2023|[Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)
+01/2024|[A Minimaximalist Approach to Reinforcement Learning from Human Feedback (SPO)](https://arxiv.org/abs/2401.04056)
 |
 |**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -491,6 +492,9 @@
 01/2024|[Fast and Optimal Weight Update for Pruned Large Language Models](https://arxiv.org/abs/2401.02938)
 01/2024|[Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://arxiv.org/abs/2401.03462)
 01/2024|[MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
+01/2024|[Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning](https://arxiv.org/abs/2401.04151)
+01/2024|[RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation](https://arxiv.org/abs/2401.04679)
+01/2024|[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/abs//2401.04658)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

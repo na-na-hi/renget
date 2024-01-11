@@ -207,3 +207,12 @@ I leave it up to you to decide if the style fits well in NAI, also a little diff
 ### [fkey](https://danbooru.donmai.us/posts?tags=fkey)
 Small breast artist, LETSFUCKINGGOOO
 ![fkey](https://files.catbox.moe/749yga.png)
+
+
+### [colo_(nagrolaz)](https://danbooru.donmai.us/posts?tags=colo_%28nagrolaz%29)
+The style is not as smooth as the artist's original, but the results are still good
+![colo_(nagrolaz)](https://files.catbox.moe/u1dojh.png)
+
+### [mitsukazu_(nijigen_complex)](https://danbooru.donmai.us/posts?tags=mitsukazu_(nijigen_complex))
+He likes to make small bodies show the bones... weird
+![mitsukazu_(nijigen_complex)](https://files.catbox.moe/vyigyh.png)

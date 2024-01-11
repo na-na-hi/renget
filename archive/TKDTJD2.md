@@ -1605,3 +1605,236 @@ https://nitter.net/ME_Observer_/status/1744811867401249028#m  1/9/24
 
 "Belgium cannot stand by and watch the immense human suffering in Gaza. We must act against the threat of genocide", she stated.
 https://nitter.1d4.us/QudsNen/status/1744822786164465968#m  1/9/24
+
+>⚡️Al-Mayadeen correspondent in #Iraq:
+A missile bombardment targets American forces in the Koniko field in #Syria
+https://nitter.net/ME_Observer_/status/1745067682314043501#m  1/10/24
+
+>⚡️Yedioth Ahronoth Hebrew newspaper: 
+Another security failure. An #Israeli impersonated an officer and, after October 7, joined the activities of the #Israeli army. He pretended to be a captain and obtained secret information, which he shared with a number of civilians and soldiers.
+https://nitter.net/ME_Observer_/status/1745067601133289725#m  1/10/24
+
+>⚡️🔻🔥 Al-Qassam Brigades publishes:
+Scenes of Al-Qassam Mujahideen clashing with enemy soldiers and vehicles on the #Gaza City frontiers
+https://nitter.net/ME_Observer_/status/1745058729706316226#m  1/10/24
+
+>Palestinian protesters peacefully demonstrate in Ramallah against US Secretary of State Antony Blinken's visit to the city and his meeting with PA leader Mahmoud Abbas.
+https://nitter.1d4.us/QudsNen/status/1745038988191158516#m  1/10/24
+
+>San Francisco voted yesterday 8-3 in support of a ceasefire resolution, becoming the largest city in the US to call for an immediate ceasefire in the Gaza Strip.
+https://nitter.1d4.us/QudsNen/status/1745073714549387565#m  1/10/24
+
+>⚡️Israeli media: Senior army officials tell Netanyahu: 
+The West Bank is on the verge of explosion and we may reach an intifada.
+https://nitter.net/ME_Observer_/status/1745072259377607157#m  1/10/24
+
+>BREAKING| The Government Media Office: In an attempt to mislead public opinion, Israel's military has bombarded an inhabited building adjacent to Shuhada Al Aqsa Hospital in the so-called safe area in Deir Al Balah, killing and wounding 40 civilians.
+https://nitter.1d4.us/QudsNen/status/1745076541573235035#m  1/10/24
+
+>⚡️Israeli media:
+37 #Israeli soldiers were injured during the past 24 hours, including 11 soldiers in the #Gaza Strip.
+https://nitter.net/ME_Observer_/status/1745056064884658601#m  1/10/24
+
+>⚡️⭕️ Yesterday, #Lebanon, Hezbollah, summary of military operations on Tuesday, January 9, 2024, 
+
+- Eastern Sector:
+
+1. At 9:35 am, Al-Baghdadi site was targeted with missile weapons and was directly hit.
+
+2. At 9:40 am, Yiftah Barracks were targeted with missile weapons and were directly hit.
+
+3. At 3:00 pm, Ruwaisat Al-Qarn site was targeted with missile weapons and was directly hit.
+
+4. At 3:40 pm, the newly established espionage equipment at Bayad Blida site was targeted with appropriate weapons and was directly hit.
+
+- Western Sector:
+
+1. At 9:30 am, Al-Malkiya site was targeted with appropriate weapons and was directly hit.
+
+2. In the morning of Tuesday, Islamic Resistance fighters targeted the headquarters of the Northern Region Command belonging to the "Israeli" enemy army in the occupied city of Safed (Dado Base) with a number of assault drones as a response to the assassination of the great martyr leader Sheikh Saleh Al-Arouri and his martyr brothers, and the assassination of the martyr Leader Fighter Wissam Tawil (Hajj Jawad).
+
+3. At 1:00 pm, Hanita site was targeted with appropriate weapons and was directly hit.
+
+4. At 2:20 pm, a gathering of "Israeli" enemy soldiers in the vicinity of Admeet Barracks was targeted with missile weapons and was directly hit.
+https://nitter.net/ME_Observer_/status/1745075655060918671#m  1/10/24
+
+>⚡️ Previous scenes of Al-Qassam Mujahideen clashing with enemy vehicles and forces penetrating northwest of the #Gaza Strip
+Al-Aqsa Flood
+https://nitter.net/ME_Observer_/status/1745081790522392917#m  1/10/24
+
+>"We should encourage voluntary migration and we should compel them until they say they want it."
+Israel's Communication Minister Shlomo Karhi says Israel should continue to pressure indigenous Palestinians through war and starvation until they are forcefully displaced. 
+
+The statement, showing genocidal intent, comes only one day before the hearings of South Africa's genocide case against Israel in the Hague.
+https://nitter.1d4.us/QudsNen/status/1745080129137557886#m  1/10/24
+
+>⚡️BREAKING 
+Houthis overwhelmed US air defences in the Red Sea 
+The British ship HMS Diamond had to intervene to deal with the Houthis' barrage of missiles and drones.
+
+It seems that the American warships SAMs (surface-to-air missiles) are depleted
+https://nitter.net/IranObserver0/status/1745085248000422039#m  1/10/24
+
+>Yes, they launched 20 missiles and drones, which got shot down by the American WARPLANES  and a British Navy ship. They're using the warplanes and the UK to defend their ships.
+
+This is not sustainable, and the American coalition can not do anything to prevent Yemen from controlling the passage of ships heading to Israel. 
+
+This is what those missiles do.
+https://nitter.net/ME_Observer_/status/1745095714282066407#m  1/10/24
+
+>⚡️ALL media  and people [who watch low IQ media] from Egypt, KSA, and UAE mock the Yemenis and say that closing the Eilat port is a theatric.
+Another breed says it's a theatric because Yemenis are Zaidi Shias and not sunnis, and if you're not sunni, it means that the closure of Eilat port is not important.
+https://nitter.net/ME_Observer_/status/1745097045960978522#m  1/10/24
+
+>Zionist logic : 
+Zaidis reducing the activity of Eilat port by 80% = "doing nothing haha theatric">>
+
+Sunni reducing the activity of Eilat port by 80% = Heroes of the ummah they are applying pressure on Israel and imposing a cost for their genocide on Gaza !
+https://nitter.net/ME_Observer_/status/1745098994110374183#m  1/10/24
+
+>⚡️Lebanon: Al-Mayadeen correspondent from southern #Lebanon: 
+Direct fire from #Lebanon targeted the #Israeli site of Al-Jardah
+https://nitter.net/ME_Observer_/status/1745103405276704818#m  1/10/24
+
+>⚡️BREAKING 
+The Houthis targeted American ship in the Red Sea 
+
+Ansarullah fired dozens of drones and missiles at an American ship in response to the killing of several Yemeni fighters.
+https://nitter.net/IranObserver0/status/1745055739092062521#m  1/10/24
+
+>BREAKING| Israeli strikes target a PRCS ambulance in Salahiddin Street in Deir Al Balah, Gaza killing 6 of the crew.
+https://nitter.1d4.us/QudsNen/status/1745105394085609710#m  1/10/24
+
+>The WHO says almost 90% of the population of Gaza (1.9 million people) have been displaced by Israel's offensive, and many have been forced to move multiple times.
+https://nitter.1d4.us/QudsNen/status/1745105883367915940#m  1/10/24
+
+>For those who can't watch this video , I ran this video in my translator, and this version works.
+https://nitter.net/ME_Observer_/status/1745108985076736055#m  1/10/24
+
+>The Government Media Office says the death toll of journalists killed by Israel in Gaza since October 7 rose to 115. 
+The announcement came shortly before the murder of journalist Fuad Abu Khammash, who was accompanying a PRCS ambulance, which brings the journalists' death toll to 116.
+https://nitter.1d4.us/QudsNen/status/1745112462146277768#m  1/10/24
+
+>⚡️Migrant entity :
+The Ministry of Health has begun locating and recruiting medical teams in Israel in preparation for a 'northern scenario'
+https://nitter.net/ME_Observer_/status/1745115922598174964#m  1/10/24
+
+>BREAKING
+>(((TANKERS))) INTERCEPT RPG WITH TALMUD
+>BREAKING  1/10/24
+
+>Biden getting roasted 😂
+https://nitter.net/ME_Observer_/status/1745128214949728673#m  1/10/24
+
+>new Kino
+Hamas ambush a group of kikes inside a tunnel
+
+>Israel’s Supreme Court rejects an appeal by international media organizations to allow independent access for journalists to the genocide-stricken Gaza Strip.
+https://nitter.1d4.us/QudsNen/status/1745138177017294867#m  1/10/24
+
+>The WHO says it had to cancel 6 planned missions to northern Gaza since the 26th of December, the latest was today, because Israel rejected to provide assurances of safe passage.
+https://nitter.1d4.us/QudsNen/status/1745131576248156232#m  1/10/24
+
+>⚡️BREAKING 
+Iran has designed a new kamikaze drone for Russia.
+
+According to Sky News, the new Shahed-107 drone can carry out reconnaissance and targeting missions. Its range is estimated at 1,500 km.
+https://nitter.net/IranObserver0/status/1745147059211063693#m  1/10/24
+
+The International Court of Justice is holding hearings on Thursday to consider a case brought by South Africa, accusing Israel of committing genocide in the war on Gaza. South Africa demands an urgent halt to Israel’s military campaign in the region.
+https://nitter.1d4.us/QudsNen/status/1745150726211318193#m  1/10/24
+
+>quds news network 
+https://nitter.1d4.us/QudsNen/status/1745150849209270548#m  1/10/24
+
+>quds news network 
+https://nitter.1d4.us/QudsNen/status/1745150962681962522#m  1/10/24
+
+>https://pastebin.com/A4Mr5vAB info graphics 1/10/24
+
+>⚡️Israeli media: Haaretz newspaper report: 
+The method of using current anti-tank missiles by #Hezbollah is unprecedented in the world and there is no defense against it.
+
+>Hezbollah uses anti-tank missiles as a sniper weapon
+https://nitter.net/ME_Observer_/status/1745158503860236294#m  1/10/24
+
+>⚡️Channel 13 Hebrew:
+US Secretary of State Anthony Blinken during his meeting with war cabinet officials:
+
+It is impossible to eliminate #Hamas in its current form
+https://nitter.net/ME_Observer_/status/1745158313329774968#m  1/10/24
+
+>⚡️ Islamic Resistance in Iraq:
+We targeted with a drone a US forces base near Erbil airport.
+https://nitter.net/ME_Observer_/status/1745155121888035316#m  1/10/24
+
+>Osama Hamdan, senior Hamas official, says Israel failed to reach any of its goals in Gaza, and reiterates that Israeli detainees "will not be released unless Israel complies with the resistance's conditions, particularly ending the offensive on Gaza."
+https://nitter.1d4.us/QudsNen/status/1745156140638384315#m  1/10/24
+
+>Euro-Med Human Rights Monitor says it submitted to South Africa's legal team and the OHCHR a memorandum of information documenting the most prominent mass graves established in the Gaza Strip amidst the ongoing genocide committed by Israel since October 7th.
+https://nitter.1d4.us/QudsNen/status/1745158765513515223#m  1/10/24
+
+>⚡️Iraq: A source in the Islamic Resistance to Al-Mayadeen: “Hemo” is a vital base for the American army and is a Zionist-American intelligence center that includes American elements
+https://nitter.net/ME_Observer_/status/1745161915356102983#m  1/10/24
+
+>UN Live Schedule
+https://webtv.un.org/en/schedule  1/10/24
+
+>BREAKING| The Arab League announces support for South Africa's genocide case against Israel in the ICJ.
+https://nitter.1d4.us/QudsNen/status/1745170252864876794#m  1/10/24
+
+>⚡️Al Quds brigades releases :
+Save them before it's too late
+Time is almost running out...
+
+Until when ? 
+https://nitter.net/ME_Observer_/status/1745181104078827933#m  1/10/24
+
+>Iran is currently holding its biggest military exercise of the year
+The Great Prophet 18
+
+All branches of Iran's armed forces are taking part, including the IRGC, and dozens of ballistic missiles will be fired
+https://nitter.net/IranObserver0/status/1745175361824895485#m  1/10/24
+
+>BREAKING| Less than 24 hours before the ICJ hearings and for the first time, Israel's Netanyahu speaks in English claiming that he doesn't seek to expel Palestinians from Gaza.
+
+"Israel has no intention of permanently occupying Gaza or displacing its civilian population. Israel is fighting Hamas terrorists, not the Palestinian population, and we are doing so in full compliance with international law", he claimed.
+https://nitter.1d4.us/QudsNen/status/1745197600582639676#m  1/10/24
+
+>A new analysis by the Intercept reveals that the NY Times, Washington Post, and Los Angeles Times’s coverage of Israel’s offensive on Gaza showed a consistent bias against Palestinians:
+
+🔴 For every 2 Palestinian deaths, Palestinians are mentioned once. For every Israeli death, Israelis are mentioned 8 times. 
+
+🔴 The term “slaughter” was used to describe the killing of Israelis versus Palestinians 60 to 1, and “massacre” was used to describe the killing of Israelis versus Palestinians 125 to 2. “Horrific” was used to describe the killing of Israelis versus Palestinians 36 to 4.
+
+🔴 The Palestinian dead have simply been “killed” or “died”, often in the passive voice.
+
+🔴 Only 2 headlines out of over 1,100 news articles in the study mention the word “children” related to Gazan children.
+
+🔴 The word “journalists” and its iterations only appear in nine headlines out of over 1,100. 
+
+🔴 87 percent of mentions of discrimination were about antisemitism, versus 13 percent mentions about Islamophobia.
+https://nitter.1d4.us/QudsNen/status/1745191030092157355#m  1/10/24
+
+>Any condemnation or resolution issued by the Security Council against Yemen because it is struggling to stop the crimes of genocide to please its perpetrators, in addition to its previous failure to issue a resolution obligating Israel to stop its crimes, will lead to the waste of what remains of its legitimacy as an organization supporting global security and peace, and will confirm the validity of our view of the necessity  reforming the international system to take into account the needs of the oppressed.
+
+ >We affirm once again that our military operations against Israel will not stop unless it stops the crimes of genocide in Gaza and allows food and medicine to enter its residents, regardless of any resolution or statement issued by the Security Council today.
+https://nitter.net/M_N_Albukhaiti/status/1745203235961327856#m  1/10/24
+
+>BREAKING| Brazil announces support for South Africa's genocide case against Israel in the ICJ.
+https://nitter.1d4.us/QudsNen/status/1745206410193908171#m  1/10/24
+
+>⚡️#Russia's representative to the Security Council:
+The draft resolution submitted by the United States regarding the Red Sea is not to secure navigation, but rather to militarize the region
+
+⚡️The United States representative to the Security Council: We opposed the #Russian amendments that linked the events in #Yemen to the conflict in #Gaza
+https://nitter.net/ME_Observer_/status/1745210715856662608#m  1/10/24
+
+>The same zionist trash back then worshipping moloch are the same zionist trash now running your government 
+    1/10/24
+
+>INSIDE OF JEW TANK GETTING BLASTED BY RPG
+    1/10/24
+
+>⚡️ #Iraq's PM calls for a 'quick and orderly exit of the international coalition forces from our lands'
+https://nitter.net/ME_Observer_/status/1745231420677570768#m  1/10/24

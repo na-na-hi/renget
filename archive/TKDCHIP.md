@@ -1035,6 +1035,13 @@ https://files.catbox.moe/dh1fuv.mp4 New  1/6/24
 the central Gaza Strip.https://files.catbox.moe/tgy1c2.mp4 New  1/7/24
 >Al-Qassam battles in the Zaytoun neighborhood
 https://files.catbox.moe/mm1wuu.mp4 New  1/9/24
+>Al-Qassam Mujahideen clashing with enemy soldiers and vehicles on the #Gaza City frontiers
+https://files.catbox.moe/pjhrl0.mp4 New  1/10/24
+>Al-Qassam Mujahideen clashing with enemy vehicles and forces penetrating northwest of the #Gaza Strip #Al-Aqsa Flood
+https://files.catbox.moe/2wb3k3.mp4 New  1/10/24
+https://files.catbox.moe/2vj1u9.mp4 New  1/10/24 Translated Version
+>Hamas amush kikes inside a tunnel 
+https://files.catbox.moe/n5gb3g.mp4 New  1/10/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1163,3 +1170,16 @@ https://files.catbox.moe/y8jg0i.mp4 New  1/9/24
 https://files.catbox.moe/ouhtss.mp4 New  1/9/24
 >UK Foreign Secretary David Cameron has been urged to comment on the extreme remarks made by the Israeli ambassador for Britain
 https://files.catbox.moe/d2cpnb.mp4 New  1/9/24
+>Biden getting roasted
+https://files.catbox.moe/jzsjn4.mp4 New  1/10/24
+>Funny fren posted video 
+(((TANKERS))) INTERCEPT RPG WITH TALMUD
+https://files.catbox.moe/bajqzt.mp4 New  1/10/24
+>Al Quds brigades releases : Save them before it's too late, Time is almost running out...
+https://files.catbox.moe/i0kbp6.mp4 New  1/10/24
+>Iran is currently holding its biggest military exercise of the year
+https://files.catbox.moe/oawh34.mp4 New  1/10/24
+>The same zionist trash back then worshiping moloch are the same zionist trash now running your government 
+https://files.catbox.moe/9pmzf8.mp4 New  1/10/24
+>INSIDE OF JEW TANK GETTING BLASTED BY RPG
+https://files.catbox.moe/aaz0ez.mp4  1/10/24

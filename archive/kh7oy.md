@@ -12,6 +12,8 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Mario vs. Donkey Kong - Pieces of the Puzzle - 2nd Trailer (over 130 levels, new worlds, casual mode)
+https://www.youtube.com/watch?v=xyIOYFvsdZo
 「!」Super Mario Bros. Wonder wins "Best Family Game" at The Game Awards 2023
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
 https://www.youtube.com/watch?v=OY_v1w9ALC8
@@ -27,8 +29,6 @@ https://www.youtube.com/watch?v=8Ume5pSIcKE
 https://www.youtube.com/watch?v=KIP2_LJdi0I
 「!」Princess Peach: Showtime! 2nd Trailer
 https://www.youtube.com/watch?v=qfj6ZEpf78g
-「!」Mario vs. Donkey Kong Remake Revealed
-https://www.youtube.com/watch?v=5sPwqplxHXc
 
 ----
 

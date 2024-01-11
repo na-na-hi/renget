@@ -415,7 +415,7 @@ v50:
 
 	https://pixeldrain.com/u/9UA8KMfF
 
-### QuEasyFluff
+### Queasyfluff
 >I'd recommend setting CFG rescale down to around 15-35 and maybe prompt high contrast or vibrant colors.
 >Higher CFG rescale tends to bleach colors.
 >People keep asking what's in the mix so:
@@ -428,6 +428,14 @@ v50:
 	Yaml: https://pixeldrain.com/u/aoxveaCu
 
 For added realism, try using Furtastic's negative embeddings (found [here](https://rentry.org/trashcollects#furtastic-v20)).
+
+### Queasyfluff V2 (EF-10prerelease based)
+>Copy/rename any existing yaml file (like the one above for Queasy V1)
+What's different about this version?
+>Fixed colors and CFG rescale issue
+>Follows directions a bit better
+>That's about it. Just does 3d and realism better than base easyfluff but still does great drawing style too
+https://pixeldrain.com/u/sfB3fC58
 
 ### 0.7(Bacchusv31)+0.3(5050(BB95v11+Furtastic2))-pruned.safetensors
 

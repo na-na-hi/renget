@@ -783,6 +783,9 @@ You can calculate how long it takes [here](https://futottakakka.github.io/bluear
 ![XP requirements](https://i.imgur.com/AVCuFgu.png)
 At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess it to be anywhere between 7-9 months.
 
+>How do I get a coloured name in my ID? I see accounts that have this. 
+It got patched out. You used to be able to add a hexcode in ur name for it, but the method got patched. The colour stayed. 
+
 # Resources 
 In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/bagguides)
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 

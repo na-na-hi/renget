@@ -11,7 +11,7 @@
 [BD-404 (updated)](https://files.catbox.moe/fdm64m.png)
 [BD-612-D](https://files.catbox.moe/alqwro.png)
 [BD-10003](https://files.catbox.moe/6fgyjt.png)
-
+[BD-808](https://files.catbox.moe/15jhq5.png)
 **Kreepy Kuntz:**
 [Ed Masters](https://beta.character.ai/chat?char=AfdI4KXrUtYYuqDA5PHoerbW4o2dWayvoqZm1HGHJCo) https://files.catbox.moe/mzbhxm.png
 [Remy Villenux](https://beta.character.ai/chat?char=gLoPckutl1rci-iW-kvLvNUJqwum0m4sEfIGOSbd0Vc) https://files.catbox.moe/nbg4xb.png

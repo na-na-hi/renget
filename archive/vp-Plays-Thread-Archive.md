@@ -264,4 +264,5 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 !!! info
 	**Status: In Progress**
 [**[1]** *Sexo, as expected from the Realidea devs*](https://arch.b4k.co/vp/thread/55208741/)
-[**[2]**](https://arch.b4k.co/vp/thread/55211277/)
+[**[2]** *Sex with the Busty Bird*](https://arch.b4k.co/vp/thread/55211277/)
+[**[3]**](https://arch.b4k.co/vp/thread/55217655/)
