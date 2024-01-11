@@ -10,7 +10,8 @@ https://rentry.org/pashatehink
 https://pashatehink.neocities.org (website with deep lore about my OCs)
 Discord: none
 Email: gasvas27@gmail.com
-Waifu: А-545
+Waifu: А-545 (both a rifle and a T-Doll)
+КАЛфа: не состою и не собираюсь
 
 TO-DO LIST: Create more simple bots for simple people.
 

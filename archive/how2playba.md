@@ -115,13 +115,15 @@ You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https:
 
 >What should I do after my initial rolls? Do I roll without a spark?
 You want to save up for a spark before rolling. **Do not roll without a spark**, because you can get fucked really hard.
+After that do whatever. You can follow [a banner guide](https://rentry.org/how2playba#banner-guide) or roll for who you like. 
+Make sure to always have 1 spark ready for the anniversary banner.
 
 >I have X amount of rolls into the banner, but I already rolled the banner unit. Should I keep going?
 Play it by ear. It's always nice to save some extra rolls for the future, but as a rule of thumb I'd say above 150 rolls you just keep going.
 It depends on whether you like or want the other girl too (if applicable). 
 
 >I just got a ten roll ticket! Do they expire?
-The only things that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries and the 10 roll ticket you get from the Grand Raid.
+The only tickets that expire are the 3* guarantee ticket you can buy (with real money) during anniversaries and the 10 roll ticket you get from the Grand Raid.
 You get a notification if something in your inventory expires soon, and you can see when they expire in your inventory and in the gacha menu.
 
 >I have a 10 roll ticket from the Grand raid and a regular ticket, which one is used first? 
@@ -135,8 +137,8 @@ Sparking a dupe (copy of already owned unit) is the equivalent of 550 eligma, so
 https://docs.google.com/spreadsheets/d/1_Zjt_OM9XXidY3uYYDK92W9GrR3DN5cQsZ0IJsoEbjY/edit#gid=1082031226
 Read the top right on the first sheet for instruction.
 
->I want both banner units, what should I do? 
-If you're planning on both units in a double banner, *don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
+>I want both banner units. Any tips? 
+*Don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
 
 ## Banner Guide
 Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. 

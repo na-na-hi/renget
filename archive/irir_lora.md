@@ -438,7 +438,7 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 現状マルゼン式(タグの集約)は良くない感じ。タグは消さずに残すべし。
 
 ### 学習に使うウェイト
-SDXL base推奨。ほかの物だと汚くなる。
+~~SDXL base推奨。ほかの物だと汚くなる。~~ 一部のウェイトは汚くなる。Animagine-XL-3.0は問題なし。
 Dim16/Alpha4,OpimizerはDAdaptLion,stepsは大体4000-5000。
 
 SDXL Checkpoint | Image | Description
@@ -451,22 +451,21 @@ kohakuXL_beta7Pro | ![Image](https://files.catbox.moe/v00k4d.jpg) | 色がおか
 SD Version | Image | Description
  ------ | ------ | ------
 1.5 | ![Image](https://files.catbox.moe/2chn95.jpg) | 絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
-XL | ![Image](https://files.catbox.moe/360sev.jpg) | ヘイローがかなり良くなった。大体安定してる。さすがパラメータ数3倍の数の暴力は強い
+XL | ![Image](https://files.catbox.moe/tyq8pf.jpg) | ヘイローが全然崩れない。さすがパラメータ数3倍の数の暴力は強い
 1.5 | ![Image](https://files.catbox.moe/m1rpco.jpg) | いつも通り破綻だらけ
 XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5より良い。素晴らしい。　　　　　　　　　　　　　　　　　　　　　　　　　-
-Animagine-XL-2.0 | ![Image](https://files.catbox.moe/5bb5z9.jpg) | 💯💮
+Animagine-XL-2.0 | ![Image](https://files.catbox.moe/5bb5z9.jpg) | LoRA込み。チェリーピックしてこれなのでLoRAの限界だろう。
+Animagine-XL-3.0 | ![Image](https://files.catbox.moe/h67jnl.jpg) | 💯💮👏※LoRA未使用。チェリーピックしてない。
 
 
 ### 画風
 ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。OptimizerはAdamW8bit、Dim8Alpha4。
 SDXL Checkpoint | Image | Description
  ------ | ------ | ------
-kohakuXL | ![Image](https://files.catbox.moe/aq490s.jpg) | 
-KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/1qrb6c.jpg) | 画風は近いけど品質が・・・
-KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/jp5b77.jpg) | 品質低下を抑えつつある程度変わった
-kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
-KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | ゴミ。SD1.5のほうが圧倒的にマシ。
-KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | やっぱり学習モデルはSDXL Baseじゃないとダメやね
+kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | キャラLoRA使用。checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
+KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | キャラLoRA使用。ゴミ。SD1.5のほうが圧倒的にマシ。
+KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | キャラLoRA使用。やっぱり学習モデルはSDXL Baseじゃないとダメやね。
+AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。　※キャラLoRA未使用
 
 余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟？
 ただしHassakuXLはTEをガッツリ弄ってるらしく、実際にKohakuXLで一切反応しないキャラ名にも多少反応する。
@@ -475,9 +474,7 @@ KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://fi
 SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
 Resolution | Image | Description
  ------ | ------ | ------
-1024 | ![Image](https://files.catbox.moe/a27k6m.jpg) | -　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
-512 | ![Image](https://files.catbox.moe/091iq8.jpg) | ほとんど変わらない。微妙に品質下がった？
-1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 
+1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 髪の描き方が変化した
 
 上記のサンプルでは良いが実際のところ以下のように破綻しやすくなるので低解像度の学習は非推奨。
@@ -501,10 +498,7 @@ unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow e
 両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood | ![image](https://files.catbox.moe/t2ohm9.webp) | 正しい形状の銃を正しく持てるXLは素晴らしい。
 unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood| ![image](https://files.catbox.moe/718okk.webp) | hair bunの位置が逆。手がおかしい。銃の部品らしきものが頭に生えた。銃の色がおかしい。
 
-ヘイローの精度があまり高くないのはLoRAの限界かも。LoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。
- Image | Description
- ------ | ------
- ![Image](https://files.catbox.moe/w1fi3a.jpg) | あのAI殺しのミカのヘイローをこんなにきれいに出せるとは…そして検証で作ったキャラLoRAは全部いらない子になった　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+ヘイローの精度があまり高くないのはLoRAの限界かも。1.5とXLの比較の画像を見ればわかるけどLoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。　　　　　　　　　　　　　　　　　　　　　　　　　
 
 TE込みは難しいらしいが実際はそうでもなかった。
 Unet onlyはプロンプトの応答性と品質がやや低下するように感じる。

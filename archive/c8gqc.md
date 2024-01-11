@@ -59,7 +59,7 @@
 • Kinera Celest Phoenixcall (V-shape) - $130
 • Truthear Nova (Harman) - $150
 • Hidizs MP145 (bassy neutral) - $160
-• Tanchjim New Hana 2021 (mild V) - $180
+• Tanchjim Hana (mild V) - $180
 • Tinhifi P1 Max (warm neutral) - $180
 • Moondrop Kato (warm neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
@@ -303,6 +303,15 @@ head-fi.org/threads/the-different-types-of-iem-connectors.938264
 *Ear Tip Guides*
 headphonesty.com/2018/04/ultimate-guide-selecting-perfect-iem-ear-buds-tips
 audioreviews.org/guide-to-iem-silicone-eartips
+
+*IEM Cleaning, Maintenance, and Storage*
+playbutton.co/how-to-clean-an-iem-nozzle-complete-guide
+headphonemax.com/iems/clean
+
+*Earwax Removal and Cleaning Your Ears*
+health.clevelandclinic.org/ear-wax-removal-101-the-best-and-safest-ways-to-clear-clogged-ears
+healthline.com/health/how-to-clean-your-ears
+aarp.org/health/conditions-treatments/info-2020/safe-earwax-removal
 
 *Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
 twitter.com/align_centre/status/1677649129353404416

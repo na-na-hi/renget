@@ -134,8 +134,8 @@ Yasuhiro | Info
 
 Vincent | Info
 :----:  | :----: 
-![](https://files.catbox.moe/doxb97.png)   | A human scientist who thinks humans are scum and that monsterboys/girls are basically the best ever. To the point that he wants to kidnap one and marry them. That could be you! Or not, you could play a human and try to romance him on hardmode. I don't run your life. Based off a dream I had.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/vincent-d19a5644),  [Catbox](https://files.catbox.moe/nj8vdt.png), [CAI](https://beta.character.ai/chat?char=0LziLJkXDMCTXhQHk5FlPH7JodxL68zVDOdc0nnaAow)
+![](https://files.catbox.moe/doxb97.png)   | A human scientist who thinks humans are scum and that monsterboys/girls are basically the best ever. To the point that he wants to kidnap one and marry them. That could be you! Or not, you could play a human and try to romance him on hardmode. I don't run your life. Based off a dream I had, now comes with two greetings.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/vincent-d19a5644),  [Catbox](https://files.catbox.moe/umcl57.png), [CAI](https://beta.character.ai/chat?char=0LziLJkXDMCTXhQHk5FlPH7JodxL68zVDOdc0nnaAow)
 
 Jack | Info
 :----:  | :----: 

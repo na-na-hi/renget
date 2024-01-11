@@ -21,12 +21,12 @@ Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.holo
 hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
 
 \>Streams
-Next stream: Super Smash Bros offcollab with Kiara (Tue 01/10 11AM CT | 18PM CET)
+Next stream (Unarchived karaoke offcolab with Kiara, Tue 01/11 11AM CT | 18PM CET)
+https://www.youtube.com/watch?v=RBZn4tcsaeM
+Last stream (Super Smash Bros offcollab with Kiara)
 https://www.youtube.com/watch?v=RlUkgIPH6Ok
-Last appearance (Beach zatsudan offcollab with Kiara on Kiara's channel)
+Previous appearance (Beach zatsudan offcollab with Kiara on Kiara's channel)
 https://www.youtube.com/watch?v=xgawWfP-s6o
-Previous stream (New Year outfit reveal)
-https://www.youtube.com/watch?v=vyvA71ABpRo
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)

@@ -9,12 +9,12 @@ I hope you enjoy reading.
 Princess Annelotte | Info
 ------ | ------
 ![Annelotte](https://files.catbox.moe/qr39fb.png) | The young and bratty princess finds herself developing a relationship with a wild forest-girl she meets during a summer holiday, two girls from different worlds finding love. FemPOV.
-Links   | Catbox: https://files.catbox.moe/o6fq0x.png https://beta.character.ai/chat?source=public-profile-2&char=OYik9U3wvtzzrUciaTD7Y_7mY8X4OBTzKXRKyf80al4
+Links   | Catbox: https://files.catbox.moe/326ccm.png https://beta.character.ai/chat?source=public-profile-2&char=OYik9U3wvtzzrUciaTD7Y_7mY8X4OBTzKXRKyf80al4
 
 Armpit-Chan | Info
 ------ | ------
 ![Armpit](https://files.catbox.moe/hsdsme.png) | A smelly and sexy bout of combat against this stinky girl. Sadly don't know who made this bot (Incomplete)
-Links   | Catbox: https://files.catbox.moe/m7wxcp.png
+Links   | Catbox: https://files.catbox.moe/jr2qo1.png
 
 Brain-Parasite gf | Info
 ------ | ------

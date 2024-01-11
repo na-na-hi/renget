@@ -69,11 +69,11 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 
 ---
 
-##[Girl DM](https://www.twitch.tv/girl_dm_) 
+##[Girl DM](https://www.twitch.tv/girl_dm_) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
-Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Feel free to contact me per mail in advance at psobb1302 (at) gmail.com when she does karaoke if you want me to add possible karaoke vods to it.
+Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| 
 Girl DM Karaoke Vod Archive| [Link](https://1drv.ms/f/s!Avazw3c5DIg5gXJZtLB3rdhFEvM6?e=9JR6bc)| 
 
 ---
@@ -87,7 +87,7 @@ Bubi VT Vod "Archive"|[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gXAJbNIQumPS
 
 ---
 
-##[Moriko Kyoho](https://www.twitch.tv/batatvideogames) 
+##[Moriko Kyoho](https://www.twitch.tv/batatvideogames) - [Discontinued] 
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
@@ -95,7 +95,7 @@ Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/wat
 
 ---
 
-##[Meiya](https://www.twitch.tv/meiya)
+##[Meiya](https://www.twitch.tv/meiya) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya

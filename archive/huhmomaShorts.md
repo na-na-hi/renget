@@ -781,4 +781,95 @@ as long as he doesn't try to get both at once (by biting my cock while I'm cummi
 >cradles you like a baby as he sinks his teeth into you
 >cuddles you after to keep you warm when you feel cold from blood loss
 the perfect bf
+
+---
+Hypehumie by anonymous
+
+>Ywn get approached by some shady looking feline to go "make some easy money"
+>You assume this is some kind of human trafficking thing so you immediately back away and start dialing the police until he assures you in a bit of panic that it's nothing of the sort
+>No, instead he just wants you to come with him to some kind of fight club to be a part of the crowd
+>"A handsome face" to act as a 'hype human', so to speak
+>Still seems kind of... uh... ill-advised...
+>... but I mean, all you have to do is stand there and act excited...
+>... and he's putting up some SERIOUS cash for this...
+>So, against your better judgment, you agree
+>You follow the cat's directions to a dive bar in a shady part of town, and then knock in a specific pattern on a door in the corner
+>Sunglasses wearing anthro thugs answer, and usher you into an large, hot and humid lair with few lights and a high ceiling
+>Some kind of converted warehouse from back before manufacturing crumpled in the anthro district, you figure?
+>In the middle, a large hexagonal fighting ring surrounded by chains
+>And inside of it, two enormous anthros fighting
+>A wolf and a tiger, you've stepped in right in the middle of things
+>And holy SHIT you can see why this is so underground
+>This isn't some gentlemanly fisticuffs session, this is a raw, bestial struggle between two forces of nature
+>There's clumps of fur, blood and spit flying as the two beasts collide, both using their maws, jaws and claws to do the talking
+>After playing keep away for a while, the wolf is finally caught by the tiger, and is overwhelmed in a contest of strength, the tiger biting down hard on the wolf's hackles, his pained and panicked howling almost drowned out by the din of the crowd
+>Finally a referee steps in before things go too far, raising the triumphant tiger's bloodied paw up in the air, the himself beast letting out a feral victory roar
+>You're seriously worried if the wolf is going to die with how much blood there is, as two anthros wearing uniforms with a red cross on it quietly rush onto the stage and carry the canine out amidst the din
+>But your thoughts quickly return to the ring as you feel someone elbow you
+>You hear a familiar voice whisper to you "Eyes on the prize, human! Time to earn your pay!", but looking around the feline is nowhere to be seen
+>Actually, the entire crowd has thinned around you, leaving you conspicuously out in the open
+>And looking back at the stage, the tiger of the hour is staring right at you
+>You gulp and almost lose your nerve at the intensity of his staring, his shoulders still heaving and his predatory eyes still constricted from adrenaline
+>But you manage to collect yourself and put on the best smile you can given what you just witnessed, waving fenetically while cheering and even wolf whistling (maybe that wasn't a good idea given his opponent, but whatever...?)
+>The tiger seems pleased by your tribute to his supreme victory, despite the din of the crowd rising from your antics you can make out a deep, chuffing laugh from the apex predator
+>And as if in reply to your display of admiration, the tiger lowers his paw, bares his claws and scrapes them across his pecs all while he shoving his chest out, raising his head and letting out one more animalistic roar of victory, just for you
+>Part of your brain is telling you that maybe you shouldn't be here, reinforcing this kind of clearly illegal and dangerous behavior, but it's lost out to the part telling you that hnnnnnnnNNNNNNGGGGGHHH FUCK he's hot
+>The tiger dissapears off the stage into the bowels of the building, and you leave with the crowd as the few lights start to go out
+>Only for a familiar, much smaller feline to slink beside you and whisper: "Great work out there, human! I have an offer for you, if you're interested. Would you consider turning your guest appearance here into a more... regular one?"
+>"Don't worry, you'll get paid just the same as this time. And I have it on good word that a lot of fighters are dying to meet you after seeing you here. Including... well, actually, *ESPECIALLY* our champion today..."
+>"Nothing more motivating for a fighter than something, or *someone* to fight for, eh? So, what do you say?"
+
+---
+Spess Anthros by anonymous
+
+>Deep space exploration missions have incredibly tight selection criteria
+>Every crew member down to the last needs to be highly skilled, one of the best, in their given profession. There are no backups or second opinions out there, if you mess up it's the end for not just yourself but everybody else
+>And further, every crew member has to extensively vetted for compatibility with each other
+>There's no worse omen for a deep space expedition than a crew that can't get along with each other, stuck in a cramped space with no way out for literal decades
+>These astronauts are the elite of the elite, and when you decided to submit your application to the latest 10-person expedition into the Crab Nebula, you weren't seriously expecting to get past even the screening the phase
+>So imagine your shock when this morning, you awoke to a sealed first class letter from the International Spacefaring Agency, and instead of giving you the usual "We're very sorry, but we've selected other candidates for this position blah blah thank you anyway blah blah go fuck yourself"...
+>... it opened with "Congratulations, Mr. Anon! We have reviewed your application and are excited to inform you that you would be an ideal candidate for this expedition! Included in this letter are details regarding your assignment, expectations, and your fellow crew members! We sincerely hope you consider taking this position, and helping civilization continue its steady march throughout the stars!"
+>H-holy shit, really?!
+>... no seriously, is this for real? As elated as you are that you somehow qualified, the fact of the matter is that you're not really that professionally distinguished. Your marks in all areas at the Astronautical Academy were... adequate and just that
+>And that's when you reach the profiles of all of the accepted candidates. You're down at the bottom
+>Anonymous: Human, male
+>Planet of origin: Earth, Milky Way Galaxy
+>Role: Stress relief
+>...
+>STRESS RELIEF?!
+
+>tfw all other candidates are anthros
+>studies have shown that the mere presence of a human acts like a catalyst to calming down aggressive anthro behaviour
+>you're just there to hand out praise, tummy runs, ear scratches and pettings to all the various anthros on board
+
+>Current team composition determined using theorem that all male, homosexual/bisexual crew is most stable for extreme multi-species long term isolation based on study HM0M4.374
+>Of remaining candidates, multithread simulations and meta-analysis demonstrates prime candidate is "Anonymous"
+>Positive factors: Human species meaning positive historical relations with all other crew members, anticipate strongly positive press coverage in Earthsphere
+>Passing acumen in most required skills. Additionally with high neuroplasticity score, anticipate ability to adapt and be taught remaining necessary skills by other crew members based on simulations
+>Retrieval and analysis of candidate's personal data reveals homosexual and strongly xenophilic tendencies, including attraction to all species present on proposed crew
+>All other crew members with highest possible attraction scores to human species, anticipate excellent compatibility, 99.97%
+>Subject enjoys "giving the good head pats"
+>Negative factors: None identified
+>Conclusion: Subject "Anonymous" is the ideal final candidate based on current team composition
+>Recommend immediate offer of position with high compensation
+>If candidate refuses, consider use of force
+>This mission cannot be allowed to fail
+>Analysis concluded
+
+>Canines are still a little sore over Laika, the first astrodog, and her death in 1957
+>But on the bright side, they're second only to humans in the number of active duty spacefarers in no small part due to her legacy
+
+>canines are "man's best fuckbuddy" to the point that they immediately joined man in space
+I love all of the implications of this.
+
+>Canines were fastracked for clearance for spacetravel because if they weren't, it would have triggered separation anxiety on a global scale so severe that it would have had a nonzero chance of ending civilization
+
+I want to see video recordings of the arguments from canine scientists in the early days of the space program, because they probably have them sweating profusely while shaking a bit as they detail how vital "psychological reinforcement via collaboration" is.
+
+>After being extricated from the re-entry pod after his succesful solo low earth orbit flight, the canine cosmonaut proceeded to hug and cling to his human mission control director
+>For a full week
+>While crying and not speaking the entire time
+>Any attempt to separate him from his human was met with blood curdling howling and growling, prompting the human in question to reassure everybody it was fine and that "I guess he just really missed all of us up there?"
+>No canine is to be sent to space without a human companion now
+
 ---
