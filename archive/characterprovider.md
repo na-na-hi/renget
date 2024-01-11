@@ -15,7 +15,6 @@
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 ⠀
 
--> ![](https://files.catbox.moe/kt8kxp.png) <-
 ⠀
 -> ~*I appreciate your support and will try incorporating your suggestions and findings into my prompts. If you can't view the images - the Catbox is down!*~ <-
 ⠀
@@ -26,9 +25,9 @@
 
 -> These little guys keep me motivated:<-
 
--> ![hm****e 14$](https://files.catbox.moe/gfn76x.png) ![fa****rn 12$](https://files.catbox.moe/qg3hgt.png) ![bo****ge 12$](https://files.catbox.moe/2ue7oh.png) ![su****le 30$](https://files.catbox.moe/5qytix.png) ![ka****ki 10$](https://files.catbox.moe/aw9kfp.png) ![re****se 12$](https://files.catbox.moe/typ8fj.png)<-
+-> ![hm****e $14](https://files.catbox.moe/gfn76x.png) ![fa****rn $12](https://files.catbox.moe/qg3hgt.png) ![bo****ge $12](https://files.catbox.moe/2ue7oh.png) ![su****le $30](https://files.catbox.moe/5qytix.png) ![ka****ki $10](https://files.catbox.moe/aw9kfp.png) ![re****se $12](https://files.catbox.moe/typ8fj.png) ![mr****se $20](https://files.catbox.moe/ituk90.png)<-
 
--> Number of Special Kobolds: **6** <-
+-> Number of Special Kobolds: **7** <-
 -> *Art by me. "..." - in progress* <-
 
 -> Boosty: https://boosty.to/xmlk/donate <-

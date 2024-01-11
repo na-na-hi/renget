@@ -501,7 +501,10 @@ unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow e
 両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood | ![image](https://files.catbox.moe/t2ohm9.webp) | 正しい形状の銃を正しく持てるXLは素晴らしい。
 unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood| ![image](https://files.catbox.moe/718okk.webp) | hair bunの位置が逆。手がおかしい。銃の部品らしきものが頭に生えた。銃の色がおかしい。
 
-ヘイローの精度があまり高くないのはLoRAの限界かも。LoRA無しのhassakuXLSfwNsfwBeta_betaV01のほうが崩れにくい印象。
+ヘイローの精度があまり高くないのはLoRAの限界かも。LoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。
+ Image | Description
+ ------ | ------
+ ![Image](https://files.catbox.moe/w1fi3a.jpg) | あのAI殺しのミカのヘイローをこんなにきれいに出せるとは…そして検証で作ったキャラLoRAは全部いらない子になった　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 TE込みは難しいらしいが実際はそうでもなかった。
 Unet onlyはプロンプトの応答性と品質がやや低下するように感じる。

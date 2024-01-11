@@ -42,7 +42,7 @@ Ikari Michita, The Mad Screamer
 >>91493870
 
 >Greed
-Naoki Arai / Yuki Kazama, Impossibility Tinker
+Naoki Arai, Impossibility Tinker
 >>91483248
 
 >Gluttony
@@ -50,7 +50,7 @@ Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
 Lem Amano, Amano Lemon
 >>91483342
-Hifumi Ishiku, @H1FVM1
+>Hifumi Ishiku, @H1FVM1
 >>91485868
 
 >Lust
@@ -60,13 +60,13 @@ Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
-Kazuki Asahara, The Messiah
+>Kazuki Asahara, The Messiah
 >>91494741
 
 >Sloth
 Amane Shiozaki; Amaryllis, The Grand Librarian
 >>91473931
-Makoto Nagai, The Place-Holder
+Makoto Nagai / Yuki Kazama, The Place-Holder
 >>91483765
 Komaru Nishitani, Buddhirupa
 >>91483956
@@ -96,12 +96,28 @@ He Was Never Booksmart (Aki Hitoyoshi, Amane Shiozaki)
 https://rentry.org/t38ri
 Hifumi Opener (Hifumi Ishiku, Sezāru Ishiku)
 https://rentry.org/32bs7
+A Whore in Church (Yoji Ryoshi, Yoru Heinard)
+https://rentry.org/iusr8
+Dollmaker's Paradise (Hinako Shimeki)
+rentry.org/8y8ra
+The Girl Inside My Head (Makoto Nagai, Yuki Kazama)
+https://rentry.org/ervx3
 
 >Relationship Charts
+Makoto's Super Special Sugar Selection
+https://rentry.org/t7quhk
 Emilia Shadowsong
 https://rentry.org/itwvp
-Yoji's relationship chart / Writefag Hybrid
+Yoji Ryoshi
 https://rentry.org/DEyojichart
+
+>Artfags
+Sloth and Gluttony Meetup
+>>91495387
+Makoto and Kazama Selfie
+>>91507831
+Makoto and Yoru
+>>91510355
 ```
 
 #Chinese Warlord (Arena)
@@ -475,11 +491,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->swordbro
->>91495404
-New Writefag
->Brightly Interview:
->>91503507
+>Hoge's First Sleepover
+>>91511133
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1044,7 +1057,7 @@ https://rentry.org/iyfm2
 https://rentry.org/nsno4
 >Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
 https://rentry.org/acnw3
->Brightly Interview:
+>Brightly Interview (Brightly)
 >>91503507
 
 >RELATIONSHIP CHARTS IN HERE

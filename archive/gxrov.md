@@ -36,6 +36,9 @@ https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
  
 **Steam VR Wheel**: An emulated steering wheel using SteamVR controllers for people without an actual one
 https://github.com/mdovgialo/steam-vr-wheel
+
+**Universal Unreal Engine VR Mod**: A universal injector for adding VR support to Unreal Engine 4.8 - 5.3 games. Results vary depending on the game, but it works pretty well in some cases, and the Flat2VR discord has some premade configs. Supposedly some utilities are in the works to make the process of finding compatible games and using premade configs easier, but there's still nothing ready yet.
+https://uevr.io/
  
  
  

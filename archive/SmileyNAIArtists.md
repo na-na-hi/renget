@@ -10,7 +10,12 @@
 ## Uh?
 Rentry to list authors that perform decently in the latest NAI image generation model.
 Images sponsored by Tatsumaki and Fubuki.
-**25 steps - 5 guidance - DDIM**
+
+**Settings for #1 to #38**
+`25 steps - 5 guidance - DDIM`
+
+**Settings for #39 to -**
+`25 steps - 5 guidance - Euler Ancestral`
 
 Most of the artists were tested with different prompts to find an optimal result.
 
@@ -19,9 +24,11 @@ Most of the artists were tested with different prompts to find an optimal result
 	All generations were generated with a x2 strength {{TAG}}. (I don't know if it is exactly x2, but I can't think of a better way to explain it now).
 
 ## How to use
-The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== or =={{%ARTIST% (style)}}== or =={{Artist: %ARTIST%}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
+The simplest and most recommended way to use this kind of styles is to literally put =={{%ARTIST%}}== or =={{Artist: %ARTIST%}}== as a tag inside the prompt, depending on the artist and the prompt used it can look more or less marked.
 
 It is also possible to "combine" styles between two or three artists, I leave this to your experimentation as it would be impossible to test and organize each one individually.
+
+I recommend using this page to do your generations... believe me, it helps to know what works and what doesn't https://raideninfinity.pythonanywhere.com/naidv3_tag_search
 
 ## Glossary
 Easy way to go from one point in the list to another.
@@ -184,7 +191,19 @@ If you like thick bodies and milfs, this is probably your style, also holy fuck 
 [NSFW Generations](https://files.catbox.moe/ay2deg.png)
 ![moisture_(chichi)](https://files.catbox.moe/qrs85h.png)
 
-### [kame (kamepan44231)](https://danbooru.donmai.us/posts?tags=kame_(kamepan44231))
+### [kame_(kamepan44231)](https://danbooru.donmai.us/posts?tags=kame_(kamepan44231))
 You can generate fumos, you don't need more.
 Prompt for the fumos: =={{{kame (kamepan44231), no humans, chibi, jitome, fumo (doll)}}}, portrait==. I recommend the use of ==1girl, solo== for better results.
 ![kame (kamepan44231)](https://files.catbox.moe/cwzebo.png)
+
+### [bob_(bobtheneet)](https://danbooru.donmai.us/posts?tags=bob_(bobtheneet))
+Milf artist, horny with fubuki, if you want to generate milfs, here it is, if not, it is also a good option ¯\\_(ツ)_/¯
+![bob_(bobtheneet)](https://files.catbox.moe/24k033.png)
+
+### [nia_(nia4294)](https://danbooru.donmai.us/posts?tags=nia_(nia4294))
+I leave it up to you to decide if the style fits well in NAI, also a little difficult to generate coherent hands sometimes but... skill issue ngl
+![nia_(nia4294)](https://files.catbox.moe/gow0dq.png)
+
+### [fkey](https://danbooru.donmai.us/posts?tags=fkey)
+Small breast artist, LETSFUCKINGGOOO
+![fkey](https://files.catbox.moe/749yga.png)

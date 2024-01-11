@@ -12,7 +12,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce at 3UTC (Parsec)** 
 **SAT: Mega Man X8 Demake Demo at 3UTC (Parsec)**
-**SUN: Minemelt at 19UTC* (Minecraft)**
+**SUN: Golden SUN: The Lost Age at 19UTC* (Telemelt)**
 
 ##Cytubes
 

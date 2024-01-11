@@ -14,7 +14,7 @@ NovelAI: https://rentry.org/hdg-nai-v3
 >RESOURCES
 WebUI Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 
-Models/LoRAs: https://civitai.com/ | https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) | https://rentry.org/5exa3
+Models/LoRAs: https://civitai.com/ | https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) | https://rentry.org/5exa3 | https://civitai.com/models/257749
 Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https://rentry.org/59xed3
 
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups

@@ -30,6 +30,7 @@
 • Juzear Clear (bassy V) - $50
 • TKZK Ouranos (mild V) - $55
 • Truthear x Crinacle Zero: Red (Harman) - $55
+• EPZ x Tipsy Star & One (Harman) - $60
 • TRN ST5 (W-shape) - $60
 • Artti T10 (mild V) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
@@ -268,6 +269,7 @@ squig.link
 crinacle.com/graphs/iems/graphtool
 banbeu.com/graph/tool
 iems.audiodiscourse.com
+graphtool.harutohiroki.com
 hypethesonics.com/iemdbc
 rtings.com/headphones/graph
 
@@ -287,6 +289,14 @@ harmanhowtolisten.blogspot.com
 *Optimizing Audio on Windows OS*
 audiosciencereview.com/forum/index.php?threads/ending-the-windows-audio-quality-debate.19438
 
+*Equalizer APO and Peace UI - EQ Software for Windows OS*
+sourceforge.net/projects/equalizerapo
+sourceforge.net/projects/peace-equalizer-apo-extension
+
+*EQ Guides*
+headphonesty.com/2021/07/best-equalizer-settings
+head-fi.org/threads/the-most-reliable-easiest-way-to-eq-headphones-properly-to-achieve-the-most-ideal-sound-for-non-professionals.796791
+
 *Unsure What Type of IEM and Cable Connection You Have?*
 head-fi.org/threads/the-different-types-of-iem-connectors.938264
 
@@ -296,6 +306,9 @@ audioreviews.org/guide-to-iem-silicone-eartips
 
 *Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
 twitter.com/align_centre/status/1677649129353404416
+
+*Rockbox DAP / PMP Firmware*
+rockbox.org
 
 *Reading on Various Audio Topics*
 diyaudioheaven.wordpress.com/tutorials
