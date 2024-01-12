@@ -2,8 +2,7 @@
 -> **Or: How I learned to stop worrying and take the knot** <-
 
 !!! info  NEWS:
-	- a7 is out now 
-	- LS_Kerberos 1.1 is out
+	- `a8 is out now`
 	- ZSNR noise scheduler added to dev branch but it has issues with karras and working under 30 steps
 
 [TOC2]
@@ -32,10 +31,10 @@
 You can also take the image I have [below](https://rentry.org/5exa3/#drag-and-drop-starter-workflows) and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
 
 ##Oh, so you want anime?
-- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a7.safetensors) and just add it the way you add LoRA
-- [Artist wildcards](https://files.catbox.moe/cmg3nw.txt)
-- [HLL CSV tags](https://files.catbox.moe/58105m.csv)
-	- stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 
+- Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a8.safetensors) and just add it the way you add LoRA
+- Check below for artists wildcards and .csv files in the grid below
+- CSVs on Auto can be installed as such...
+	- place csv in  `stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags` 
 	- Settings > Tag Autocomplete > Extra filename
 ***
 Model | Artist Wildcards | Artist Examples | Tags | Changes
@@ -45,6 +44,7 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 [a5b](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a5b.safetensors) | ⬆️ | [LCM Grid](https://rentry.org/HLL_LCM#a5aa5b), [~~WIP Rentry~~](https://rentry.org/yxwiu) | ⬆️ | Better look even without tagging artist
 [a6](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a6.safetensors) | [Wildcards](https://files.catbox.moe/9pculu.txt), [Uncounted](https://files.catbox.moe/wmb59w.txt) | x | [HLL CSV tags](https://files.catbox.moe/oom7dz.csv) | [432 New artists](https://files.catbox.moe/50c5x4.txt)
 [a7](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a7.safetensors) | [Wildcards](https://files.catbox.moe/cmg3nw.txt), [Uncounted](https://files.catbox.moe/h3b3k2.txt) | - | [HLL CSV tags](https://files.catbox.moe/58105m.csv) | [129 Artists](https://files.catbox.moe/svjek9.txt), AI-generated tags
+[a8](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a8.safetensors) | [Wildcards](https://files.catbox.moe/wwbeoc.txt), [Uncounted](https://files.catbox.moe/xecm6x.txt) | - | [HLL CSV tags](https://files.catbox.moe/b3fv9v.csv) | [109 new artists](https://files.catbox.moe/ipv717.txt)
 
 
 #### What settings?

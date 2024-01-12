@@ -1183,3 +1183,14 @@ https://files.catbox.moe/oawh34.mp4 New  1/10/24
 https://files.catbox.moe/9pmzf8.mp4 New  1/10/24
 >INSIDE OF JEW TANK GETTING BLASTED BY RPG
 https://files.catbox.moe/aaz0ez.mp4  1/10/24
+>Aftermath of Israeli strikes on residential buildings in Khayyam village, Lebanon.
+https://files.catbox.moe/vg9h0e.mp4 New  1/11/24
+>Television host Julia Hartley-Brewer suggests the expulsion of Palestinians from Gaza as the appropriate response 
+to end the Israeli war.
+https://files.catbox.moe/fngacg.mp4 New  1/11/24
+>In solidarity with Gaza and Palestine, activists surround with their boats a shipping vessel owned by an Israeli corporation in Australia.
+https://files.catbox.moe/epxsk3.mp4 New  1/11/24
+>Al-Quds Brigades published a video showing the retrieval of the “Skylark” drone that was downed in the northern Gaza Strip today.
+https://files.catbox.moe/92b4h6.mp4 New  1/11/24
+>Al Quds brigades releases : Please don't forget... A sea of ​​tears
+https://files.catbox.moe/noih2i.mp4 New  1/11/24

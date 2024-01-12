@@ -4,6 +4,8 @@
 
 ## Models
 
+!!! info This list of models has been added to over the course of more than a year now. Therefore, most models at the top of this list are *old*. Start at the bottom of the "Models" section, or better yet, check out the current list of recommended models over in /trash/sdg/, then check back and look them up via CTRL+F.
+
 ### Easter e17
 	.ckpt: https://mega.nz/file/Bi5TnJjT#Iex8PkoZVdBd3x58J52ewYLjo-jn9xusnKAhyuNtU-0
 	.safetensors: https://pixeldrain.com/u/PJUjEzAB
@@ -1217,7 +1219,7 @@ https://files.catbox.moe/88ov7p.safetensors
 # Brandy Harrington, Rebecca Cunningham, Slappy Squirrel, Miranda (Wakfu), Xerneas, Berri (Conker's BFD), Lammy and Rammy and many others
 Nnnnnope. Going to copy it straight from the 'bin. https://pastebin.com/U7pGcJZ1
 
-Cartoon and Comics
+	Cartoon and Comics
 ----------------------------------------------------------------------------------------------------------------
 1.) brandy and mr. whiskers (Brandy Harrington) Lora: https://anonfiles.com/dbR5Y0q9z3/Brandy_Harrington_rar or https://shorturl.at/dQTU6
     Keywords list: https://files.catbox.moe/v1fpez.txt
@@ -1648,7 +1650,7 @@ https://anonfiles.com/i9I7bfx3z7/Pearl_Pureheart_txt
 140.) Fritz the Cat (Winston) Lora: https://bit.ly/46tuOQ1
     Keywords list: https://anonfiles.com/l553tez2z0/Winston_the_fox_txt
 
-Television and Film
+	Television and Film
 ----------------------------------------------------------------------------------------------------------------
  
 1.) McDonald's (Birdie the Early Bird) Lora: https://bit.ly/3XaQPPn
@@ -1663,14 +1665,14 @@ Television and Film
 4.) Meet the feebles (heidi) Lora: https://bit.ly/3NyEe5p
    Keywords list: https://anonfiles.com/S5Mccexdzb/heidi_txt
  
-Traditional Games
+	Traditional Games
 ----------------------------------------------------------------------------------------------------------------
  
 1.) Magic: The Gathering card (Ink-Eyes) Lora: https://shorturl.at/tFOP5
     Keywords list: https://anonfiles.com/22N9cex6zc/Ink_eyes_txt
  
  
-Anime and Manga
+	Anime and Manga
 ----------------------------------------------------------------------------------------------------------------
 1.) bagi_the_monster_of_mighty_nature (bagi) Lora: https://pixeldrain.com/u/hLv1nmdg or https://shorturl.at/qsIQZ
     Keywords list: https://files.catbox.moe/4cz6i9.txt
@@ -1696,7 +1698,7 @@ Anime and Manga
 8.) tenchi muyo (elma) Lora: https://bit.ly/3XaTZTf
 Keywords list:  https://anonfiles.com/YfHfbdxdze/elma_tenchi_muyo_txt
  
-Video Game
+	Video Game
 ----------------------------------------------------------------------------------------------------------------
  
 1.) Pokemon (xerneas) Lora: https://pixeldrain.com/u/xLrHmh3C or https://shorturl.at/ejGU5
@@ -1825,7 +1827,7 @@ Video Game
 43.)  the man from the window (mama rabbit) Lora: https://bit.ly/434cPNk
     Keywords list: https://anonfiles.com/T06cu3z4zb/Mama_rabbit_txt
   
-Internet OCS and Webcomics
+	Internet OCS and Webcomics
 ----------------------------------------------------------------------------------------------------------------
 1.) james_m_hardiman (onyx) Lora: https://pixeldrain.com/u/2N2gHVpc or https://shorturl.at/iFKVX
     Keywords list: https://files.catbox.moe/z67urg.txt
@@ -2709,6 +2711,14 @@ https://ufile.io/4tmmtfl3
 # Greninja (Pokemon)
 >It was trained based on the top 1000 most favorited Greninja images on e621. The requester specifically mentioned it was hard to generate the tongue scarf and the feet, hence the foot fetish row in the test grid to check that. For the tongue scarf, unfortunately there's no e621 tag for it and it's inconsistently included so that hurts the generation. A way to improve it would be to make up a tag for it and include that tag in all the input images that have it and exclude it from the ones that don't and then the AI should learn that concept. If people want that I can do it, what would be a good tag for Greninja's tongue scarf? Just "tongue scarf" ? 
 https://ufile.io/n3pjw7pf
+
+# Rottytops (Shantae)
+"rottytops" is activation token
+https://ufile.io/xqsl9ny8
+
+# ZP92 (Artist)
+>Must include "by zp92" in prompt, inpainting recommended.
+https://pixeldrain.com/u/f5UpTHTw
 
 ## LORAs from the Discord
 

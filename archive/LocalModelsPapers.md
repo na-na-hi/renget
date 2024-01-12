@@ -495,6 +495,7 @@
 01/2024|[Chain of LoRA: Efficient Fine-tuning of Language Models via Residual Learning](https://arxiv.org/abs/2401.04151)
 01/2024|[RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation](https://arxiv.org/abs/2401.04679)
 01/2024|[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/abs//2401.04658)
+01/2024|[AUTOACT: Automatic Agent Learning from Scratch via Self-Planning](https://arxiv.org/abs/2401.05268)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

@@ -8,21 +8,22 @@ AMD: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Ru
 Cloud: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services
 Optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
 
+>LOCAL MODELS
+https://civitai.com/models/257749/horse-and-anime-diffusion-v6-xl
+https://rentry.org/5exa3
+https://huggingface.co/cagliostrolab/animagine-xl-3.0
+https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine)
+
 >PAID
 NovelAI: https://rentry.org/hdg-nai-v3
 
 >RESOURCES
-WebUI Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
-
-Models/LoRAs: https://civitai.com/ | https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) | https://rentry.org/5exa3 | https://civitai.com/models/257749
-Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts | https://rentry.org/59xed3
-
+Training: https://rentry.org/59xed3 | https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups
 ControlNet: https://rentry.org/dummycontrolnet
 LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://lama-cleaner-docs.vercel.app/install/pip
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
-
 Booru: https://aibooru.online
 4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
 

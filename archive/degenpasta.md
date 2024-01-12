@@ -7,9 +7,9 @@ Automatic1111: https://github.com/automatic1111/stable-diffusion-webui
 ComfyUI (Node-based): https://rentry.org/comfyui
 SD.Next (Automatic1111 fork): https://github.com/vladmandic/automatic
 Easy Diffusion (Installer): https://easydiffusion.github.io
-Mac: http://drawthings.ai (settings: all compute units, enable metal flash)
+Mac: https://drawthings.ai (settings: all compute units, enable metal flash)
 AMD GPU: https://rentry.org/sdg-link#amd-gpu
-CPU: http://rentry.org/cputard
+CPU: https://rentry.org/cputard
 
 >>>Guides<<<
 New User Guide: https://rentry.org/voldy
@@ -27,7 +27,7 @@ https://rentry.org/hdglorarepo
 https://rentry.org/trashcollects
 
 >>>Other links<<<
-Wiki: github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
+Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 Link Hub: https://rentry.org/sdg-link
 LoRa Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 Tags for prompting: https://danbooru.donmai.us/wiki_pages/tag_groups
@@ -42,4 +42,6 @@ Archive: https://thebarchive.com/b/search/subject/DEGENerated/
 >>>/g/sdg 
 >>>/aco/sdg 
 >>>/trash/sdg
+>>>/vt/vtai
+>>>/soc/ai+nude
 ```

@@ -107,6 +107,7 @@ Regular|Special|Reg range|Spec range
 - [1.0 text comparisons](https://docs.google.com/spreadsheets/d/1xOzCKtzvVz-Ex8WXeqjq7B3LmRDPKP6D3gd_hE6RG-U/edit)
 
 ##Patch notes & News
+[App Ver. 1.10.1 Regulation Ver. 1.10](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-1101)
 [DLC possibly coming out in February 2024](https://www.reddit.com/r/GamingLeaksAndRumours/comments/18ivr60/a_page_for_elden_ring_x_thrustmaster_collab)
 [App Ver. 1.10 Regulation Ver. 1.10](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-110)
 [Infographics part 2](https://www.bandainamcoent.com/news/elden-ring-battle-scars-infographic-2) - [Alt](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-stats-continue-reveal-the-games-most-killed-enemies-number-of-battles)

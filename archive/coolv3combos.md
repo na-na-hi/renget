@@ -217,5 +217,12 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/43uhuj.png) | ![](https://files.catbox.moe/hw116z.png) | ![](https://files.catbox.moe/m2n5a4.png) | ![](https://files.catbox.moe/p2pmfb.png)
 
+``` html
+artist:yoon cook, artist:aaaa (quad-a), artist:goto-p, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/68qkye.png) | ![](https://files.catbox.moe/9fw1yg.png) | ![](https://files.catbox.moe/ezmwgv.png) | ![](https://files.catbox.moe/ahxlk7.png)
+
 ***
 [TOC2]

@@ -209,4 +209,3 @@ Few more things:
 -> Credit: SGreen, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
 
 [comment]: <> (SUPPORT-RENTRY-PATREON)
-#No need to be grumpy anon..
