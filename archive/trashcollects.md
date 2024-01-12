@@ -2717,7 +2717,7 @@ https://ufile.io/n3pjw7pf
 https://ufile.io/xqsl9ny8
 
 # ZP92 (Artist)
->Must include "by zp92" in prompt, inpainting recommended.
+>Must include "by zp92" in prompt, inpainting recommended. Trained on Pony Diffusion V6 SDXL
 https://pixeldrain.com/u/f5UpTHTw
 
 ## LORAs from the Discord

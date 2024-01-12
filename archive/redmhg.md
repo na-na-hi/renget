@@ -1,4 +1,4 @@
-# %red%***Monster Hunter Doujin/Smut Index of Monster Pornography***%%
+# %crimson%***Monster Hunter Doujin/Smut Index of Monster Pornography***%%
 
 ---
 ___

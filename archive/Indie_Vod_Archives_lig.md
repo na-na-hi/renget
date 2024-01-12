@@ -32,11 +32,6 @@ Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.tw
 ---
 #Unofficial Vod Archives 
 
-##Miscellaneous Indie Vods
-Content|Link|Description 
--------|-------|------- 
-Collection of various Indie Vods on Ms onedrive | [Link](https://1drv.ms/f/s!Avazw3c5DIg5bf-GrgSB-ha9G2E?e=EuCKf9)|
-
 ##[Nyanners](https://www.twitch.tv/Nyanners) - [Discontinued]
 Content|Link|Description 
 -------|-------|------- 
@@ -50,7 +45,6 @@ Content|Link|Description
 -------|-------|-------
 Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)| 
 Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|
-Ms onedrive mirror |[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gW-8xj3u1nLv8wTp?e=NctCjU)|
 
 ---
  
@@ -74,7 +68,6 @@ Content|Link|Description
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
 Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| 
-Girl DM Karaoke Vod Archive| [Link](https://1drv.ms/f/s!Avazw3c5DIg5gXJZtLB3rdhFEvM6?e=9JR6bc)| 
 
 ---
 
@@ -82,7 +75,6 @@ Girl DM Karaoke Vod Archive| [Link](https://1drv.ms/f/s!Avazw3c5DIg5gXJZtLB3rdhF
 Content|Link|Description 
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Youtube Playlist
-Bubi VT Vod "Archive"|[MS Onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gXAJbNIQumPS8gmh?e=7bPgP8)| MS Onedrive Link
  
 
 ---

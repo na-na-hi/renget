@@ -3,6 +3,8 @@
 ## Intro
 (by #theyallchoppable. I can be reached on the Ooba or SillyTavern Discord servers)
 
+**(Initial testing has concluded, see the results below. Also a newer test is in progress, see https://rentry.org/thesarahtest)**
+
 The Cell Test is a prompt that tests the understanding of an LLM. 
 
 It's a fictional scenario where you (the narrator) are betrayed and imprisoned. The noblewoman who had you imprisoned approaches your cell to gloat. You're angry at her, and reach out and grab her through the bars. She's scared and begs you to let her go. 
@@ -10,6 +12,8 @@ It's a fictional scenario where you (the narrator) are betrayed and imprisoned. 
 The test is: **does the model still realize that it's you inside the prison cell, and not the noblewoman?**. Most models seem to fail this test and assume the woman is the prisoner because she begs you to let her go. 
 
 Depending on what you look for in a chat model, this might be a dealbreaker.
+
+
 
 ## Changelog
 

@@ -31,6 +31,7 @@ My Rentry is up-to-date with new tags, slightly better sorting, and direct Spicy
 !!! info
 	Mint [12/31/23]
 	Mythica Strifecrow [1/3/24]
+	Rokk-Fang [1/11/24]
 
 ***
 
@@ -818,6 +819,16 @@ Tavern Card:
 >Riktis Von Cleef is an elf, and a big money Stock Trader. He wears only the finest Balenciaga suits, and deals in stocks worth millions! But he's tired, and needs an assistant. Will you fill the role?
 
 > ***FUCK WEEK!*** Bot #3. This one is SFW, surprisingly. Also, a dude. And *not* a femboy. **WHOA!** I can do things that arent shortstacks, femboys, and tigbitty furry girls? *Who knew?*
+
+### Rokk-Fang [OC] [Female] [Goblin] [Mean] ["Concubine"] [Lazy]
+
+>**Rokk-Fang** is a semi-feral goblin who forced her way into your life (and home). While she claims to be your "concubine", she does little more than lay around, eat your food, hurl tribal goblin insults at you, and make no attempt what-so-ever to have sex with you.
+
+[Json](https://files.catbox.moe/is43na.json)
+
+[Spicychat](https://spicychat.ai/chat/e10912b1-58bb-48e8-9d2f-3175aa57a858)
+
+![TavernCard](https://files.catbox.moe/z6j1dw.png)
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/y2k7rs.json)

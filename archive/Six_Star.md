@@ -835,14 +835,14 @@ New player Unit priority: Med
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> Kaya <- (JP Release Date: Year 7, January)
-TBD
-- UB+: 
-- CB: 
-- Arena: 
-- PvE: 
-- 
+After 3 years, Kaya's cleanup service is back. She will most likely make 1:30 T3 comps a breeze and provide unmatched 0:21 OF/CO damage numbers. 
+- UB+: Slight UB damage increase. Now hits the 1st and 2nd position units, 1st UB ignores 5% of P.Def of units being damaged. UB+ also gives self large P.Atk buff on every UB.
+- CB: If you're unfamiliar with Kaya, her role has always been about squeezing out as much damage as possible in a small amount of time. With her S1+ P.Def shred and new P.Atk buff to self on UB+, Kaya's subsequent UB+s will still sting for an okay chunk. She'll work her way back to bringing us inflated OF comps as she did in the past, but with a lot more bite. With two damage calculations and ignoring 5% of the target's p.def, she becomes that extra bit more self-sufficient to run with other OF staples. If you've got 21s of OF/CO, Kaya's your girl, so long as she can survive to get off her 1st UB. Might even see the return of Makoto/Kaya combo.
+- Arena: When you need a tank buster and there's no Pos 1 snare/stun, Kaya will be your girl. She now has a decent amount of stats to actually live to UB at least once, which can fry anything that isn't a tank. Look out for her in P.Arena to pair up with Inori to torch defenses that aren't prepared. That being said, Pos 1 stuns are fairly common and may stop her from performing her role. But if she doesn't die and gets her S1+ off as a 2nd action, the opponent will most likely be saying goodbye to anything that isn't Miyako, provided you give her the correct team support, units like Yuni, X.Chika, S.Saren, L.Nozomi, etc...
+- PvE: Maybe if you need a massive amount of damage done quickly, then you'd use her. But the PvE content like Dimensional Luna Tower usually has insanely high defenses and more than one target, so she might have a niche. She'll pop anything related to events, probably up to 
+- Once used to break through tank comps and deal a high amount of OF/CO damage, Kaya's return seems positive. Her very far forward positioning may require other units like O.Peco, Makoto 6 star or Ruka to tank up hits if she cannot, but is very well worth the effort to make work in short/med length battles. She'll most likely have an Arena niche for blasting any unprepared teams. This is also BEFORE the changes to the damage cap, so look forward to that making her even stronger.
 
 Bond story priority: Luxury (Relevant units: None)
-Max level Unit priority:  TBD
-New player Unit priority: TBD
+Max level Unit priority:  Top
+New player Unit priority: High
 [Return to Top](https://rentry.org/Six_Star)

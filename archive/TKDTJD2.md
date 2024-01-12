@@ -1838,3 +1838,312 @@ https://nitter.net/ME_Observer_/status/1745210715856662608#m  1/10/24
 
 >⚡️ #Iraq's PM calls for a 'quick and orderly exit of the international coalition forces from our lands'
 https://nitter.net/ME_Observer_/status/1745231420677570768#m  1/10/24
+
+>🚨🇮🇷 Preliminary reports of the Iranian Navy forces taking control of an American cargo ship, off the port of Fujairah in the Gulf of Oman, after a year when the US stole it, its Iranian oil, and changed its name.
+https://nitter.net/AryJeay/status/1745388130536980701#m  1/11/24
+
+>🚨🇮🇷CONFIRMED: Iran’s Navy confirmed the seizure of the American oil tanker, in the Sea of Oman, this morning. This tanker was stolen about a year ago, and Iran retook it.
+
+>Iranian Navy's Public Relations announced that the seizure was made based on a court order.
+https://nitter.net/AryJeay/status/1745430334609502573#m  1/11/24
+
+>BREAKING| The Civil Defense says that Israel's military directly targeted its members while they were evacuating casualties in western Khan Yunis, wounding one of its members.
+https://nitter.1d4.us/QudsNen/status/1745426988616065481#m  1/11/24
+
+>Hundreds of protesters continue to flock to the ICJ building in the Hague to support South Africa's genocide case against Israel.
+https://nitter.1d4.us/QudsNen/status/1745425007499473321#m  1/11/24
+
+>The provisional measures include suspending Israel's military operation in Gaza and taking measures to prevent Israel from committing genocide. 
+They also include taking measures to prevent Israel from expelling Palestinians and depriving them of food, water and humanitarian aid, and to prevent it from destroying evidence.
+https://nitter.1d4.us/QudsNen/status/1745420502338801843#m  1/11/24
+
+>BREAKING| South Africa demands International Court of Justice impose provisional measures on Israel to halt its assault on Gaza
+Delegation underscores mass killing of Palestinians in Gaza formed 'calculated pattern of conduct by Israel indicating a genocidal intent'
+https://nitter.1d4.us/QudsNen/status/1745418565249806546#m  1/11/24
+
+>After South Africa's legal team presented a robust case with ample evidence against Israel for committing genocide in Gaza at the International Court of Justice, the Israeli Minister of Foreign Affairs accused the team of being "affiliated with Hamas".
+https://nitter.1d4.us/QudsNen/status/1745436992358301789#m  1/11/24
+
+>⚡️Lebanon: Islamic Resistance: The operation in the vicinity of “Al-Tahat” hill and “Jabal Nadhar” caused confirmed casualties among enemy soldiers, including one dead and one wounded.
+https://nitter.net/ME_Observer_/status/1745437596178682179#m  1/11/24
+
+>⚡️#Iran: Public Relations of the Army Navy: 
+The naval forces detained an American oil tanker by decision of the judicial authorities within the waters of the Gulf of Oman.
+https://nitter.net/ME_Observer_/status/1745440962120126689#m  1//11/24
+
+>⚡️#Iran: Public Relations of the Army Navy: 
+The naval forces detained an American oil tanker by decision of the judicial authorities within the waters of the Gulf of Oman.
+
+○ About last year, the United States Department of Justice  ordered the seizure and unloading of one million barrels of Iranian crude oil contained in this ship, and this cargo was transferred to another oil tanker off the coast of Texas located in the Gulf of Mexico.
+https://nitter.net/ME_Observer_/status/1745441974109253742#m  1/11/24
+
+>⚡️Lebanon: Islamic Resistance: Targeting the Ramta site in the occupied Lebanese Shebaa Farms with missile weapons, achieving a direct hit.
+https://nitter.net/ME_Observer_/status/1745445036962246674#m  1/11/24
+
+>Ship hijacked off Oman appears to change course toward Iran waters
+https://archive.is/G73Gp  1/11/24
+
+>A number of IOF soldiers were transferred by helicopters, after being injured during the battles in the Gaza Strip, to hospitals inside the occupied territories.
+https://nitter.net/AryJeay/status/1745449935510655028#m  1/11/24
+
+>🚨🇮🇷CONFIRMED: Iran’s Navy confirmed the seizure of the American oil tanker, in the Sea of Oman, this morning. This tanker was stolen about a year ago, and Iran retook it.
+
+>Iranian Navy's Public Relations announced that the seizure was made based on a court order.
+https://nitter.net/AryJeay/status/1745430334609502573#m  1/11/24
+
+>Breaking | Gaza Ministry of Health: "We have documented 10 massacres by the occupation against families in the Gaza Strip, resulting in 112 casualties and 194 injuries. These figures only account for those who have reached hospitals in the past 24 hours."
+https://nitter.1d4.us/QudsNen/status/1745450440500904163#m  1/11/24
+
+>For those who haven't watched the opening case by South Africa against the State of Israel: piped.video/live/4f_yoal4gx8…
+https://piped.video/live/4f_yoal4gx8?  1/11/24
+https://nitter.net/talhagin/status/1745444372156674250#m  1/11/24
+
+>Due to a lack of fuel resulting from the Israeli siege on Gaza, residents use carts to collect the deceased from continuous Israeli bombardment.
+https://nitter.1d4.us/QudsNen/status/1745464715852267666#m  1/11/24
+
+>⚡️“Kiryat Shmona” settlement municipality:
+7 missiles fell on the settlement after sirens sounded twice.
+https://nitter.net/ME_Observer_/status/1745465757704622205#m  1/11/24
+
+>Aftermath of Israeli strikes on residential buildings in Khayyam village, Lebanon.
+https://nitter.1d4.us/QudsNen/status/1745467184111919483#m  1/11/24
+
+>🛑 | 🇮🇶 Islamic Resistance in Iraq confirms:
+Attacking the Al-Shaddadi US base in Syria, with a missile salvo.
+https://nitter.net/AryJeay/status/1745473044154368221#m  1/11/24
+
+>Media coverage | "You're going to Greece, you're going to Turkey..." Television host Julia Hartley-Brewer suggests the expulsion of Palestinians from Gaza as the appropriate response to end the Israeli war.
+https://nitter.1d4.us/QudsNen/status/1745481941753733334#m  1/11/24
+
+>In solidarity with Gaza and Palestine, activists surround with their boats a shipping vessel owned by an Israeli corporation in Australia.
+https://nitter.1d4.us/QudsNen/status/1745496674011591059#m  1/11/24
+
+>The Israeli Minister of Finance Bezalel Smotrich: "The court in The Hague, like many other international courts, is infused with antisemitism."
+https://nitter.1d4.us/QudsNen/status/1745500388516630568#m  1/11/24
+
+>⚡️Ansarallah leader renews the call for the people of #Yemen to do another multi million man march in the squares of all cities tomorrow
+Again, tomorrow, the people of #Yemen will continue the mobilization and popular revolution for the support of #Gaza and the steadfastness against the global powers of arrogance.
+
+Stay tuned for pictures and videos tomorrow
+https://nitter.net/ME_Observer_/status/1745497588273390075#m  1/11/24
+
+>⚡️Al-Quds Brigades published a video showing the retrieval of the “Skylark” drone that was downed in the northern Gaza Strip today.
+https://nitter.net/AryJeay/status/1745507538081022344#m  1/11/24
+
+⚡️BREAKING 
+Israeli involved in Kerman terrorist attack 
+
+Iran's Intelligence Ministry says that one of the suicide bombers in the terrorist attack in Kerman was an Israeli of Tajik origin.
+
+He entered Iran illegally through the southern borders
+https://twitter.com/IranObserver0/status/1745510292870574376  1/11/24
+
+>🛑BREAKING: Al-Mayadeen reveals that a HQ belonging to military intelligence ‘Unit 8200’ of the israeli regime in Erbil (Iraq) was targeted on New Year's Eve by a suicide drone.
+
+The drone strike targeted 7 Zionist members of Intelligence Unit 8200 & resulted in the killing of 3 Israeli military intelligence officers active in Iraqi Kurdistan.
+https://nitter.net/AryJeay/status/1745502878599385473#m  1/11/24
+
+>⚡️ Al Quds brigades releases :
+Please don't forget...
+
+A sea of ​​tears
+https://nitter.net/ME_Observer_/status/1745518974912037047#m  1/11/24
+
+>Media coverage | A recent Israeli media investigation has uncovered new commands given to the Israeli army on the 7th of October, instructing "All combat units at all costs" to use the 'Hannibal procedure,' allowing them to eliminate targets, including those with Israeli captives. The command led to the targeting of more than 70 vehicles by combat helicopters, tank shells, and airstrikes.
+https://nitter.1d4.us/QudsNen/status/1745514458145772014#m  1/11/24
+
+>⚡️[Stone Age] The Hebrew newspaper "Yedioth Ahronoth": 
+
+The head of the Moshav Committee said, " Margaliot: “We have returned to the Stone Age, and Gallant promised us that we would return #Lebanon to the Stone Age, but in the end we are the ones left without electricity.
+
+A barrage of missiles fell today on Kiryat Shmona, one missile after another, which led to damage to the electrical infrastructure and a power outage in the city and its surroundings. Local emergency forces also dealt with a gas leak as a result of the missile strikes.
+https://nitter.net/ME_Observer_/status/1745523303970669054#m  1/11/24
+
+>⚡️Members of the local council in Kiryat Shmona in a letter to the council president: Kiryat Shmona is experiencing a serious crisis, perhaps the worst crisis in its history, a crisis that cuts off all aspects of life, including security, education, prosperity, infrastructure, and so on.
+https://nitter.net/ME_Observer_/status/1745527424488546807#m  1/11/24
+
+>Initial footage depicting the targeting of a Red Cross ambulance on Salah-al-Din street in Gaza, resulting in the killing of four crew members from the Palestinian Red Cross due to a deliberate Israeli strike.
+https://nitter.1d4.us/QudsNen/status/1745503706806657222#m  1/11/24
+
+>Tzvika Mor, the father of a captive soldier in Gaza, preaches to Israeli children, encouraging them to wipe out Palestinian villages, saying, "Don't worry, it will happen. Thanks to all of you."
+https://nitter.1d4.us/QudsNen/status/1745511931585122483#m  1/11/24
+
+
+>The United States demands the release of the seized ship
+In response to Iran's seizure of an American ship in the Sea of ​​Oman, the US State Department said that Washington demands that Tehran immediately release the tanker
+https://twitter.com/Sprinter99800/status/1745522029686571088  1/11/24
+
+>Britain and US 'to carry out airstrikes against Iran-backed Houthi rebels in Yemen TONIGHT': Emergency meeting is called for UK ministers to sign off response after ships targeted in Red Sea
+https://archive.is/DqOJ2  1/11/24
+
+>🛑According to CENTCOM, they claim AnsarAllah Yemen fired another anti-ship ballistic missile(s) towards a ship today, probably headed towards israeli ports. 
+
+The missile(s) impacted close to the ship without being intercepted, as per Centcom’s claims.
+https://nitter.net/AryJeay/status/1745543816428306869#m  1/11/24
+
+>And the trend continues…
+
+This is an israeli model & influencer who has about one million followers, who got interviewed on israeli Channel 14. You’d think she’s just an average, normal model right? Look at the next tweet.
+https://nitter.net/AryJeay/status/1745541014431908351#m  1/11/24
+
+>This is how she was sitting during the interview.
+https://nitter.net/AryJeay/status/1745541111332872677#m  1/11/24
+
+>⚡️#Yemen - Anis Mansour:
+The attack on #Yemen means targeting oil and gas tankers heading to the United States and #Europe.  
+
+> ⚡️ Sana'a :
+What foolishness is America committing in #Yemen?
+It will cost her a lot.  
+
+>⚡️ Amit Siegel:
+America and Britain will attack the Houthis tonight.. 
+
+Missiles launched from #Yemen towards Bab al-Mandab  
+
+⚡️Hebrew sources talk about raising the alert system of the #Israeli air defenses in its various formations to maximum levels..  
+
+ ⚡️The Wall Street Journal, according to a US defense official:
+
+Houthi forces transferred some weapons and fortified others in anticipation of a strike from the United States and its allies  
+
+⚡️Financial Times, according to US officials:
+
+The Pentagon has developed options for directing specific strikes against the Houthis, including weapons depots and missile launch sites
+https://nitter.net/ME_Observer_/status/1745563143781208196#m  1/11/24
+
+>⚡️Israeli media :
+An American intelligence aircraft left the air base in Qatar towards #Yemen.  
+
+I hope that this is not really happening. 
+
+It will cause a split in the Arab world because alot of people love Qatar because of Al Jazeera channel.
+
+But this has always been the reality. It's an American military base.
+https://nitter.net/ME_Observer_/status/1745561899205374087#m  1/11/24
+
+>⚡️ Hezbollah released a video of compilation of news of Lebanese civilians murdered by #Israel and the retaliation against #Israeli settlements and settlers.
+
+The video is titled “We will never accept attacks on civilians.”
+https://nitter.net/ME_Observer_/status/1745565317227577688#m  1/11/24
+
+>“By God, even if we turn into scattered particles in the air, we will not abandon Gaza. We will continue to target Zionist ships. We will confront America, kneel it, burn its warships, and all its bases and those who collaborate with it. No matter the cost, we will not leave Gaza, and let the great war ignite, for we are its people and its men.
+
+And to the world, prepare to hear America's defeat. I say it proudly; we will trample on America with our feet. Those who don't know us will recognize our strength and determination on the battlefield.”
+https://nitter.net/AryJeay/status/1745571677579227547#m  1/11/24
+
+>🇾🇪⚡🇺🇸 The Iraqi Resistance states: If an attack is carried out on Yemen, we will strike the American military bases with full force.
+https://t.me/ResistanceTrench/23107  1/11/24
+
+>⚡️The Pentagon holds urgent security consultations regarding the possibility of the conflict in the Middle East expanding into a comprehensive conflict..
+https://nitter.net/ME_Observer_/status/1745572211157864684#m  1/11/24
+
+>🇺🇸🇬🇧🇾🇪"International Coalition" aircraft belonging to the United States and UK are airborne and circling Yemen at this time.
+https://nitter.cz/Megatron_ron/status/1745578756842926300?  1/11/24
+
+>⚡ 🇾🇪🇸🇦🇶🇦 Saudi Arabia, Qatar and UAE are officially in war with Yemen according to the Houthis
+
+The Houthis warn Saudi Arabia, Qatar and the UAE: 
+
+"if you open your airspace to the US and UK then you are officially at war with us"
+
+They already did it.
+https://nitter.net/Megatron_ron/status/1745580648016781670#m  1/11/24
+
+>⚡️ Yemeni military source:
+We reassure the #Yemeni people that the armed forces have prepared and will strike with an iron hand against any aggression against #Yemen
+
+>⚡️ Yemeni military source:
+Declaring a state of alert throughout the country
+
+⚡️The UAE and Saudi Arabia put their air defense systems on high alert
+
+⚡️ The Sultanate of Oman closes its airspace to any military aircraft heading to #Yemen.
+https://nitter.net/ME_Observer_/status/1745582915012989292#m  1/11/24
+
+⚡️First pictures of the strikes on #Yemen
+https://nitter.net/ME_Observer_/status/1745592870520627273#m  1/11/24
+
+⚡️#Yemeni air defenses launch heavily towards enemy aircraft
+
+⚡️An aerial bombardment targets #Sanaa Airport in #Yemen
+
+⚡️ A large number of surface-to-air anti-aircraft missiles were launched in the skies of #Yemen
+https://nitter.net/ME_Observer_/status/1745591284679557350#m  1/11/24
+
+>⚡️ The beginning of the American-British aggression against #Yemen
+⚡️Yemen: Sources for Al-Mayadeen: Violent explosions in the coastal city of Hodeidah on the Red Sea, west of #Yemen, resulting from aggressive bombing.
+
+>⚡️Explosions in several #Yemeni cities, including Saada, the capital, #Sanaa, and the city of Al-Hadidiya
+https://nitter.net/ME_Observer_/status/1745590530585530502#m  1/11/24
+
+>⚡️ Videos from #Yemen
+I can't verify if new or old.
+
+If anyone recognizes them from before, please comment
+https://nitter.net/ME_Observer_/status/1745594026064023781#m  1/11/24
+
+
+>⚡️Urgent || Yemeni forces respond and bombard American battleships in the Red Sea with ballistic missiles
+⚡️United States of America: The Pentagon: We attacked about 10 targets in #Yemen
+https://nitter.net/ME_Observer_/status/1745594193710318074#m  1/11/24
+
+>⚡️Urgent| Yemeni sources: In conjunction with an American-British aggression, a series of ballistic missiles were launched from #Yemen towards targets in the Red Sea.
+
+>⚡️Reports that the resistance in #Iraq  begins attacking American bases
+https://nitter.net/ME_Observer_/status/1745594808570122638#m  1/11/24
+
+
+>Scenes from the American-British-Zionist aggression against Yemen  1/11/24
+
+>Reported by Yemenis that the target is burning.
+https://nitter.net/cirnosad/status/1745597734470791415#m  1/11/24
+
+>⚡️Yemen: Ali Al-Qahum: A raging war in the Red Sea and targeting of American and British military sites and bases, and what is coming is greater
+⚡️Urgent || American forces in the Middle East head to shelters and protected places
+
+⚡️United States of America: Politico, an official in the US Department of Defense: Washington and London, with the support of Australia, the Netherlands, Bahrain and Canada, carried out strikes against targets in #Yemen.
+https://nitter.net/ME_Observer_/status/1745598837085921417#m  1/11/24
+
+>⚡️Now the bombing on Saada...
+https://nitter.net/ME_Observer_/status/1745595797889241463#m  1/11/24
+
+>⚡️Americans just dropped this same bomb on Hodeida
+https://nitter.net/ME_Observer_/status/1745595612060336373#m  1/11/24
+
+>⚡️Occupied Palestine: Islamic Jihad Movement:
+We salute the honorable and courageous #Yemeni position, condemn all Arab positions of disappointment, and call on the people of the Arab and Islamic nation to take action.
+https://nitter.net/ME_Observer_/status/1745599964279984151#m  1/11/24
+
+>⚡️Democratic Member of the US House of Representatives Valerie Hoyle :
+These air strikes on #Yemen were not authorized by Congress
+
+The Constitution is clear that Congress is the only authority that allows military intervention in foreign conflicts
+
+Every president must first come to Congress and request military authorization, regardless of which party he belongs to.
+https://nitter.net/ME_Observer_/status/1745608056975634626#m  1/11/24
+
+>⚡️Urgent || Joe Biden:
+Houthi attacks in the Red Sea have put Americans, civilian sailors, and our partners at risk
+
+- More than 50 countries were affected in 27 Houthi attacks on international commercial shipping, and crews from more than 20 countries were threatened or taken hostage.
+
+- More than 2,000 ships were forced to divert thousands of miles to avoid crossing the Red Sea due to Houthi attacks
+
+I will not hesitate to direct further action to protect our people and the free flow of international trade
+https://nitter.net/ME_Observer_/status/1745607108542796158#m  1/11/24
+
+>🛑 Deputy Foreign Minister in the Sanaa government, Hussein Al-Ezzi: 
+
+“Our country was subjected to a massive aggressive attack by American & British ships, submarines, and warplanes, and without a doubt, London and Washington will have to prepare to pay a heavy price.”
+https://nitter.net/AryJeay/status/1745603143717540334#m  1/11/24
+
+>🚨🇮🇶 BREAKING: Iraqi resistance launched an aerial attack (drone or missile) targeting an israeli asset in the occupied territory near the Jordan River Park (west of occupied Golan Heights)
+https://nitter.net/AryJeay/status/1745613660016230783#m  1/11/24
+
+>🚨🇾🇪 Renewed bombing of Saada governorate (Yemen) by US/UK forces
+https://nitter.net/AryJeay/status/1745614136753410506#m  1/11/24
+
+>Military & political affairs expert, Brigadier General Abdul Ghani Al-Zubaidi
+Since they launched this attack on us, they can consider Bab Al-Mandeb closed. Rest assured, Yemen is prepared for this…you launched this attack and you think we won’t respond? No we will retaliate.
+https://nitter.net/revolutionaryem/status/1745604163893952614#m  1/11/24
