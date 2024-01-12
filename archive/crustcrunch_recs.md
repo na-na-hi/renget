@@ -81,7 +81,7 @@ To make it extra gamey, try adding a [visual novel choice jailbreak](https://fil
 ![arrow](https://64.media.tumblr.com/d8f3479cd531c54753be621c8df00e4c/tumblr_inline_mpedf95ujK1qz4rgp.gif) %#f590d5%**Notes:**%% One of the most impressive bots I've ever played. Not only is Tomoyo a charming character, but the inclusion of sprites, backgrounds, and music tracks makes her extremely fun to play over and over again. Tomoyo is grounded in a realistic setting, modern day Japan. No magic or fantastic quests here, but I find this premise very cozy. Build up a sweet slowburn romance with her, take her out on dates, maybe even ask her out...? ♡
 I had so much fun with Tomoyo that I made %#f590d5%[a rentry](https://rentry.org/tomoyo_x_kyosuke)%% to share my logs with her~!
 
-[![CHUB](https://files.catbox.moe/609ez2.png)](https://chub.ai/characters/tomoyo/tomoyo-zero-setup-turbo-compatible-vn-0dca4eb1) [![CATBOX](https://files.catbox.moe/ctfp3u.png)](https://files.catbox.moe/894mi2.png) [[TOMOYO RENTRY]](https://rentry.org/tomoyocard)
+[![CHUB](https://files.catbox.moe/609ez2.png)](https://chub.ai/characters/tomoyo/tomoyo-zero-setup-turbo-compatible-vn-0dca4eb1) [![CATBOX](https://files.catbox.moe/ctfp3u.png)](https://files.catbox.moe/894mi2.png) [[TOMOYO'S RENTRY]](https://rentry.org/tomoyocard)
 
 -> %#f590d5% ~♡~ %%<-
 

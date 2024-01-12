@@ -11,6 +11,10 @@ Previous: >>
 https://www.youtube.com/watch?v=Y02F-UtpiVw
 https://www.youtube.com/watch?v=EOn_MGgOWYs
 
+\>Dr. Ratio Trailer — "Supreme Idiocy"
+https://www.youtube.com/watch?v=-UZ0n2Tqiyw
+https://www.youtube.com/watch?v=Ms5u_lXJIAA
+
 \>Ruan Mei Trailer — "In All Does Life Flow" 
 https://www.youtube.com/watch?v=xrovyt1awpk
 https://www.youtube.com/watch?v=pLWr1I9D5lA
@@ -18,10 +22,6 @@ https://www.youtube.com/watch?v=pLWr1I9D5lA
 \>Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms"
 https://www.youtube.com/watch?v=zLbGzCuxLy4
 https://www.youtube.com/watch?v=OZjpTFdJp0E
-
-\>TGA Candidacy Video: A Story That Never Grows Dull 
-https://www.youtube.com/watch?v=zlOnfjtTBic
-https://www.youtube.com/watch?v=BFCBuPHcjaY
 
 \>Current Character Banners: (Ruan Mei, Blade + Xueyi, March 7th, Tingyun) - https://www.hoyolab.com/article/23851896
 
