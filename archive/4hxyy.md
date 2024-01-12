@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 339 - Weather Queen Edition: https://desuarchive.org/trash/thread/62523348/
 Thread 338 - Demon-Toro Edition: https://desuarchive.org/trash/thread/62352703/
 Thread 337 - Foxy Lady Edition: https://desuarchive.org/trash/thread/62023250/
 Thread 336 - Motherly Father Edition: https://desuarchive.org/trash/thread/61855462/

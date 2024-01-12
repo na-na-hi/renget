@@ -325,8 +325,11 @@ Keru's Relationship Chart:
 >>91456444
 Oggdo Bogdo Bash (Kon, Smolg)
 >https://rentry.org/OggdoCHADdo
->Kon VS Nexios+Syko matchup analysis
+Kon VS Nexios+Syko matchup analysis
 https://rentry.org/mezmz
+The Battle of Mizra (Darth Skyr)
+https://rentry.org/ivrznu
+
 ```
 
 #Fate/Arena

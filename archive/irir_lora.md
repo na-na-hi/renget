@@ -466,6 +466,8 @@ kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | キャラLoRA使用�
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | キャラLoRA使用。ゴミ。SD1.5のほうが圧倒的にマシ。
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | キャラLoRA使用。やっぱり学習モデルはSDXL Baseじゃないとダメやね。
 AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。　※キャラLoRA未使用
+↑でマージしたウェイトで学習して強度0.85でさらにマージ | ![Image](https://files.catbox.moe/m8bowp.jpg) | SD1.5と違って悪影響が見られない。
+
 
 余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟？
 ただしHassakuXLはTEをガッツリ弄ってるらしく、実際にKohakuXLで一切反応しないキャラ名にも多少反応する。

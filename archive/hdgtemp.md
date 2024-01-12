@@ -9,7 +9,7 @@ Cloud: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Servi
 Optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimizations
 
 >LOCAL MODELS
-https://civitai.com/models/257749/horse-and-anime-diffusion-v6-xl
+https://civitai.com/models/257749/horsefucker-diffusion-v6-xl
 https://rentry.org/5exa3
 https://huggingface.co/cagliostrolab/animagine-xl-3.0
 https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine)
