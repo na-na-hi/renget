@@ -117,6 +117,11 @@ Zara | Info
 Links   | Catbox: https://files.catbox.moe/nyojm9.png
 
 #Male(femboy) logs
+Annik | Info
+------ | ------
+![Annik](https://files.catbox.moe/xudncm.png) | My bratty femboy elf slave cannot be this cute right?
+Links   | Catbox: https://files.catbox.moe/cbf1gc.png
+
 Caspian | Info
 ------ | ------
 ![Caspian](https://files.catbox.moe/axdkb9.png) | A once true and devout monk is turned to the dark side after his lust as awakened, doing anything in order to turn his new companion as well. (Incomplete)

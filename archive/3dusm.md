@@ -14,7 +14,7 @@ Still, she seemed to long so dearly for his embrace. I sighed. At first, I was e
 
 *A bed creaks, a bed bumps as Towa gets hammered into the mattress. She's holding to his shoulders as if she's holding to dear life, and her eyes look into his, lost in a trance of pleasure and love. My heart hurts as I see him locking his lips with hers, and still, I felt my loins burn hotter. Those lips are mine... But still.*
 
-Slowly but surely, the idea seduced me. I left them alone for extended periods of time, letting their intimacy grow, letting them 'get to know each other' without me interfering. The thought of what they were doing behind my back, it filled me with an insatiable lust, and immeasurable was my disappointment when I could come back home and see them avoiding each other like complete strangers. 
+Slowly but surely, the idea seduced me. I left them alone for extended periods of time, letting their intimacy grow, letting them 'get to know each other' without me interfering. The thought of what they were doing behind my back, it filled me with an insatiable lust, and immeasurable was my disappointment when I would come back home and see them avoiding each other like complete strangers. 
 
 But still, I caught them a few times, and they didn't catch me. 
 

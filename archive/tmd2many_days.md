@@ -16,6 +16,7 @@ Thread Number | Short Description
 /qst/ Thread #0: [No Stranger to Disaster](https://suptg.thisisnotatrueending.com/qstarchive/2023/5743269/) | Buffer thread created to help with rolling and general character creation acclimatization before the start of the actual adventure.
 /qst/ Thread #1: [Abrupt Awakenings](https://suptg.thisisnotatrueending.com/qstarchive/2023/5755695/) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
 /qst/ Thread #2: [Watcher's Reverie](https://suptg.thisisnotatrueending.com/qstarchive/2023/5790853/) | In the ashes of burnt forests, deep in dreams, and in the wake of grand theft piracy, the ex-humans try to acclimatize in the chaos.
+/qst/ Thread #3: [Midday Dusk](https://suptg.thisisnotatrueending.com/qstarchive/2024/5855707/) | The discomfort of the dreamscape haunts the minds of the humans, troubled further by a restless disease they know nothing of.
 
 ## Timeline
 Date of Event | Time Elapsed | Quest or Event | Short Description

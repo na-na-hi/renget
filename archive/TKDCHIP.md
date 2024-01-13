@@ -1077,6 +1077,8 @@ https://files.catbox.moe/y3r1nk.mp4 New  1/5/24
 https://files.catbox.moe/45wkff.mp4 New  1/6/24
 >Al-Quds Brigades targeting a Zionist force in Khan Yunis
 https://files.catbox.moe/a34cag.mp4 New  1/9/24
+>Al-Quds Brigades (PIJ) published a video showing scenes of the operation that blew up a minefield with a supply line for the Zionists. 
+https://files.catbox.moe/pyg13d.mp4 New  1/12/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1194,3 +1196,23 @@ https://files.catbox.moe/epxsk3.mp4 New  1/11/24
 https://files.catbox.moe/92b4h6.mp4 New  1/11/24
 >Al Quds brigades releases : Please don't forget... A sea of ​​tears
 https://files.catbox.moe/noih2i.mp4 New  1/11/24
+>Israeli legal team claims that the Israeli army hasn't bombed any hospitals in Gaza.
+https://files.catbox.moe/hbzu56.mp4 New  1/12/24
+>Statement by the Yemeni Armed Forces’ spox Yahya Sarae: The American-British enemy, in support of the ongoing Israeli atrocities in Gaza
+https://files.catbox.moe/qzyrof.mp4 New  1/12/24
+>A Yemeni citizen said: I swear to God oh America and Israel, we will eat you like hell. He then proceeded to eat glowing sticks.
+https://files.catbox.moe/rm04i8.mp4 New  1/12/24
+>Exclusive footage to Mehr News shows the moment the American tanker was seized by the Iranian Army Navy (Artesh)
+https://files.catbox.moe/jaytb7.mp4 New  1/12/24
+>The losses of the Zionist army in the Gaza Strip continue despite the severe censorship.
+https://files.catbox.moe/faqd8i.mp4  1/12/24
+>Al-Qassam (Hamas) published a video showing rocket launches from the northern Gaza Strip towards occupied territories.
+https://files.catbox.moe/0etdp8.mp4 New  1/13/24  
+>While Al-Jazeera is getting a lot of attention, it’s important to not neglect their disgraceful consistencies towards the resistance:
+https://files.catbox.moe/dyvo38.mp4 New  1/13/24 Arabic version
+>Painful scenes from northern Gaza, which has been subjected to starvation for nearly 100 days as Israel continues to block food and water from entry.
+https://files.catbox.moe/s2xegx.mp4 New  1/13/24
+>The Yemeni Armed Forces organised the “Battle of the Promised Conquest and Holy Jihad” wargame.
+https://files.catbox.moe/bh31dr.mp4 New  1/13/24
+>Hamas (Al-Qassam) published a video: “Time is running out…”
+https://files.catbox.moe/rdbrcz.mp4 New  1/13/24

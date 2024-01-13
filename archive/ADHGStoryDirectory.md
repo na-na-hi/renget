@@ -363,6 +363,20 @@ https://archiveofourown.org/works/40824579
 https://www.sofurry.com/view/1839617
 https://www.sofurry.com/view/1841675
 
+###Jaycee777
+
+>Backstage Pass
+
+https://archiveofourown.org/works/48682714
+
+>In Her Image
+
+https://archiveofourown.org/works/48002944
+
+>Close Encounters of the Furred Kind
+
+https://archiveofourown.org/works/48072268
+
 ###KrautDyke
 
 >Fleabag and FANG
@@ -846,6 +860,10 @@ Anthro tiger human male on female anthro Smut bimbo atompunk Aphrodisiacs Blowjo
 https://archiveofourown.org/works/39986202
 
 ###Spaceface404
+
+>Under the Mistletoe
+
+https://archiveofourown.org/works/52930813
 
 >The Fluffiest Ferret
 

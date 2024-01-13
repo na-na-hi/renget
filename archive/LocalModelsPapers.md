@@ -512,6 +512,7 @@
 06/2023|[bloc97 - NTK-Aware Scaled RoPE](https://archive.is/Rsoai)
 07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://archive.is/HgzRV)
 07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.is/hfbHH)
+08/2023|[Charles Goddard - On Frankenllama](https://archive.is/GYoVX)
 09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.is/keLl0)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)

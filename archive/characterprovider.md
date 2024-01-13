@@ -25,12 +25,13 @@
 
 -> These little guys keep me motivated:<-
 
--> ![hm****e $14](https://files.catbox.moe/gfn76x.png) ![fa****rn $12](https://files.catbox.moe/qg3hgt.png) ![bo****ge $12](https://files.catbox.moe/2ue7oh.png) ![su****le $30](https://files.catbox.moe/5qytix.png) ![ka****ki $10](https://files.catbox.moe/aw9kfp.png) ![re****se $12](https://files.catbox.moe/typ8fj.png) ![mr****se $20](https://files.catbox.moe/ituk90.png)<-
+-> ![hm****ge $14](https://files.catbox.moe/9enmo0.png) ![fa****rn $12](https://files.catbox.moe/7xw1ou.png) ![bo****ge $12](https://files.catbox.moe/vqvtex.png) ![su****le $30](https://files.catbox.moe/u1ja9o.png) ![ka****ki $10](https://files.catbox.moe/tjinu2.png) ![re****se $12](https://files.catbox.moe/a4qpq7.png) ![mr****se $20](https://files.catbox.moe/zly7ak.png)<-
+
 
 -> Number of Special Kobolds: **7** <-
 -> *Art by me. "..." - in progress* <-
 
--> Boosty: https://boosty.to/xmlk/donate <-
+-> Boosty: **https://boosty.to/xmlk/donate** <-
 -> USDT: TVSzA5aFUmgaoa81aFzQooxKcmyYhDu1rs <-
 -> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
 -> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-

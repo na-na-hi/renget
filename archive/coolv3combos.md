@@ -37,6 +37,9 @@ boy portrait | warrior woman | jungle statue | random fun
 ![](https://files.catbox.moe/qpo27d.png) | ![](https://files.catbox.moe/3jv70k.png) | ![](https://files.catbox.moe/i997bn.png) | ![](https://files.catbox.moe/rlk5b7.png)
 
 ***
+***
+***
+***
 ## Cartoony Content
 ``` html
 artist:kelvin hiu, artist:xaxaxa, artist:kedama milk, 
@@ -160,6 +163,9 @@ boy portrait | warrior woman | jungle statue | random fun
 ![](https://files.catbox.moe/rdxjfz.png) | ![](https://files.catbox.moe/e8b5oo.png) | ![](https://files.catbox.moe/rycbd9.png) | ![](https://files.catbox.moe/ktoy1g.png)
 
 ***
+***
+***
+***
 ## Stylized Anime Content???
 ``` html
 artist:ina (gokihoihoi), artist:rei (sanbonzakura), artist:makimura shunsuke, 
@@ -224,5 +230,22 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/68qkye.png) | ![](https://files.catbox.moe/9fw1yg.png) | ![](https://files.catbox.moe/ezmwgv.png) | ![](https://files.catbox.moe/ahxlk7.png)
 
+``` html
+artist:rei (sanbonzakura), artist:stanley lau, artist:noeyebrow (mauve), 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/940nou.png) | ![](https://files.catbox.moe/z3xoce.png) | ![](https://files.catbox.moe/sunnj7.png) | ![](https://files.catbox.moe/zqh457.png)
+
+``` html
+artist:kelvin hiu, artist:sakurabe notos, artist:stanley lau, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/92xu28.png) | ![](https://files.catbox.moe/ay5431.png) | ![](https://files.catbox.moe/499sha.png) | ![](https://files.catbox.moe/rl6h9s.png)
+
+***
+***
+***
 ***
 [TOC2]

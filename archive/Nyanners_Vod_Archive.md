@@ -1,4 +1,4 @@
-#Unofficial 100% Complete [Nyanners](https://www.twitch.tv/nyanners) Post Vtuber Debut Archive:
+#Unofficial 100% Complete [Nyanners](https://www.twitch.tv/nyanners) Post Vtuber Debut Archive [Discontinued]:
 
 # Table of Content 
 [TOC]

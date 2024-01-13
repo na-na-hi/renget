@@ -1033,6 +1033,8 @@ Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Ri
 1-D Character Summary: https://rentry.org/9bf3g
 Brightly Interview: https://desuarchive.org/tg/post/91503507/
 Cyber Bulling a Pro Hero (Rosethorn, Viperous Vexer): https://desuarchive.org/tg/post/91506924/
+The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang): https://rentry.org/pe93w
+The Other Side - C Part 2 (Arena, Orbit, Yamata): https://rentry.org/5oanb
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

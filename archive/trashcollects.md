@@ -504,6 +504,7 @@ https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
 
 # Pokemon, Kikurage, Sindoll, Tsampikos and Hizake among many others (Professor Harkness)
 ~~https://mega.nz/folder/zr4AgC4Y##jIa0G6J5xDdRi2lZ2YNJ5w~~ DEAD
+https://mega.nz/folder/fqBVkLrJ#02LvXtIgtly_P8TGjyfDZQ
 - Characters:
 	- Zeraora
 	- Zoroark
@@ -535,6 +536,7 @@ https://mega.nz/folder/tIBTiagQ##XxFsnp0ZsgN7yG0Jp0GnLw
 	- Kikurage (Inukoro)
 	- Sindoll
 	- Tsampikos
+	- ffjifjci
 
 Reupload: https://pixeldrain.com/l/HY8deXMB
 I scraped together all the LoRAs I think are from him. If I missed any, or there are some missing, post in the thread so I can add them here - if not the LoRAs themselves, then as a list of which ones are still missing. Maybe some anons, or the Prof himself, are willing to share the missing ones.
@@ -2720,6 +2722,16 @@ https://ufile.io/xqsl9ny8
 >Must include "by zp92" in prompt, inpainting recommended. Trained on Pony Diffusion V6 SDXL
 https://pixeldrain.com/u/f5UpTHTw
 
+# kerneldecoy (Artist)
+> Trained on Pony Diffusion V6, activation is "by kerneldecoy", inpainting recommended. 
+https://pixeldrain.com/u/Xonijzww
+
+# Delta Vee (OC by ShinodaGE)
+https://files.catbox.moe/fn162v.safetensors
+
+# Velvet (Them's Fightin' Herds)
+https://mega.nz/file/RpsF1aAI#athwt7Y-i_8GZGJCL-9fJP61WX4odUIFoSOY1Q_4kBY
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -3111,3 +3123,6 @@ Do not make the same mistake I did: only save the contents of the script, if you
 
 >Input and output are the same type so you just plop it as a middle man before the node you want it to apply to
 >Gives different effects depending on where you place it
+
+### ComfyUI Buffer Nodes
+https://rentry.org/dgbfb

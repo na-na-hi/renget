@@ -15,7 +15,7 @@
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
 | 
 [Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[WolframRW LLM Comparisons](https://teddit.projectsegfau.lt/u/WolframRavenwolf/submitted?sort=new&)|Tests translation capabilities, cross-language understanding, and instruction following/understanding
+[WolframRW LLM Tests](https://teddit.projectsegfau.lt/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
@@ -118,6 +118,7 @@
 |
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
+[M2-BERT](https://github.com/HazyResearch/m2)|Embedding retrieval models with up to 32k context length based on monarch mixer 
 [ESPN](https://github.com/susavlsh10/ESPN-v1/)|GPUDirect Storage implementation for multi-vector embedding retrieval and bindings
 [PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM) 
 |

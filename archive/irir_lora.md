@@ -465,7 +465,7 @@ SDXL Checkpoint | Image | Description
 kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | キャラLoRA使用。checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | キャラLoRA使用。ゴミ。SD1.5のほうが圧倒的にマシ。
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | キャラLoRA使用。やっぱり学習モデルはSDXL Baseじゃないとダメやね。
-AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。　※キャラLoRA未使用
+AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。ただ白背景が灰色になる。　※キャラLoRA未使用
 ↑でマージしたウェイトで学習して強度0.85でさらにマージ | ![Image](https://files.catbox.moe/m8bowp.jpg) | SD1.5と違って悪影響が見られない。
 
 

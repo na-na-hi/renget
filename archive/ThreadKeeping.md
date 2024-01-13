@@ -40,6 +40,8 @@ Emilia Shadowsong, Battousai
 >>91485490
 Ikari Michita, The Mad Screamer
 >>91493870
+Aino Sasaki, Project Invidia
+>>91542925
 
 >Greed
 Naoki Arai, Impossibility Tinker
@@ -50,7 +52,7 @@ Akari Ichioka, Crimson Vermilion of the Night
 >>91457359
 Lem Amano, Amano Lemon
 >>91483342
->Hifumi Ishiku, @H1FVM1
+Hifumi Ishiku, @H1FVM1
 >>91485868
 
 >Lust
@@ -60,7 +62,7 @@ Yoru Heinard, She Who Thirsts
 >>91471625
 Sezāru Ishiku
 >>91482768
->Kazuki Asahara, The Messiah
+Kazuki Asahara, The Messiah
 >>91494741
 
 >Sloth
@@ -88,7 +90,11 @@ Aki Hitoyoshi
 >>91481964
 Jace Abraxon, King of Cards
 >>91483191
-
+```
+***
+Page 2
+***
+```
 >Writefags
 Chance Encounter (Yoji Ryoshi, Akari Ichioka)
 https://rentry.org/5uap6
@@ -110,6 +116,8 @@ Emilia Shadowsong
 https://rentry.org/itwvp
 Yoji Ryoshi
 https://rentry.org/DEyojichart
+Ikari's
+https://rentry.org/VeryAngryMan
 
 >Artfags
 Sloth and Gluttony Meetup
@@ -118,6 +126,9 @@ Makoto and Kazama Selfie
 >>91507831
 Makoto and Yoru
 >>91510355
+
+>Tiermaker
+https://tiermaker.com/create/demon-eyes-2-16639737
 ```
 
 #Chinese Warlord (Arena)
@@ -494,9 +505,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art:
->Hoge's First Sleepover
->>91511133
+>The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang)
+https://rentry.org/pe93w
+>The Other Side - C Part 2 (Arena, Orbit, Yamata)
+https://rentry.org/5oanb
+
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1063,6 +1076,10 @@ https://rentry.org/nsno4
 https://rentry.org/acnw3
 >Brightly Interview (Brightly)
 >>91503507
+>The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang)
+https://rentry.org/pe93w
+>The Other Side - C Part 2 (Arena, Orbit, Yamata)
+https://rentry.org/5oanb
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

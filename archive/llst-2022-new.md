@@ -1,5 +1,7 @@
-#[/llst/ - Love Live Seiyuu Thread](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread)
--> ![](https://files.catbox.moe/ir6f7x.jpg)  <-
+-> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
+
+
+-> ![](https://files.catbox.moe/r7fzip.jpg)<-
 
 ##Changelog:
 ==2024.01.03==
@@ -19,39 +21,7 @@
 ==2023.8.1==
 - Added nijitabi Osaka Leg link
 ***
-##Table of Contents
-[TOC]
 
-*** 
-##Ideal Links
-**Events tracker:**
-[Ramen Events tracker](https://ramen.events/)
-↳ [LL Events Index](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHeBJDlTfg5HbIoIef9OYwJdN_BLdmLJWzJ9D2BOwUfAdPrKc6ICfobUylCosSVd27Nu9PeCoqUbSW/pubhtml)
-[LLFans calendar (JP)](https://ll-fans.jp/articles/calendar)
-
-**Official Sites:**
-[µ's](https://www.lovelive-anime.jp/otonokizaka/worldwide/)
-[Aqours](https://www.lovelive-anime.jp/uranohoshi/worldwide)
-[Nijigasaki](https://www.lovelive-anime.jp/nijigasaki/worldwide/)
-[Liella](https://www.lovelive-anime.jp/yuigaoka/worldwide/)
-[Hasunosora](https://www-lovelive--anime-jp.translate.goog/hasunosora/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
-
-**Love Live Fansites:**
-[LLFans (JP)](https://ll-fans.jp/)
-[r/LoveLive](https://www.reddit.com/r/LoveLive/) (⚠**Warning: cancer**)
-[LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
-[Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
-[idol.st](https://idol.st/) (⚠**Warning: cancer**)
-↳ [idol.st seiyuu list](https://idol.st/voiceactresses/) (⚠**Warning: includes supporting seiyuu**) 
-
-**Ideal Websites**
-[Picuki | Insta Viewer](https://picuki.com)
-[Urlebird | TikTok Viewer](https://urlebird.com/)
-[Nitter.net | X/Twitter Viewer ](https://nitter.net)
-
-##Previous versions:
-https://rentry.org/llst-2021-02-bkup
-***
 ##Thread Template
 !!! note When making a new thread:
 	- dont be an idiot 
@@ -73,8 +43,42 @@ https://rentry.org/llst-2022-new
 
 https://discord.gg/TZwԁqbStej
 
-Previous: >>694201488 (# of previous thread)
+Previous: *>>694201488 (# of previous thread)*
 
+***
+
+##Table of Contents
+[TOC]
+
+*** 
+##Ideal Links
+**Events tracker:**
+[Ramen Events tracker](https://ramen.events/)
+↳ [LL Events Index](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHeBJDlTfg5HbIoIef9OYwJdN_BLdmLJWzJ9D2BOwUfAdPrKc6ICfobUylCosSVd27Nu9PeCoqUbSW/pubhtml)
+[LLFans calendar (JP)](https://ll-fans.jp/articles/calendar)
+
+**Official Sites:**
+[µ's](https://www.lovelive-anime.jp/otonokizaka/worldwide/)
+[Aqours](https://www.lovelive-anime.jp/uranohoshi/worldwide)
+[Nijigasaki](https://www.lovelive-anime.jp/nijigasaki/worldwide/)
+[Liella](https://www.lovelive-anime.jp/yuigaoka/worldwide/)
+[Hasunosora](https://www-lovelive--anime-jp.translate.goog/hasunosora/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+**Love Live! Fansites and Communities**
+[LLFans (JP)](https://ll-fans.jp/)
+[r/LoveLive](https://www.reddit.com/r/LoveLive/?f=flair_name%3A%22Seiyuu%22) (⚠**Warning: cancer**)
+[LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
+[Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
+[idol.st](https://idol.st/) (⚠**Warning: cancer**)
+↳ [idol.st seiyuu list](https://idol.st/voiceactresses/) (⚠**Warning: includes supporting seiyuu**) 
+
+**Ideal Websites**
+[Picuki | Insta Viewer](https://picuki.com)
+[Urlebird | TikTok Viewer](https://urlebird.com/)
+[Nitter.net | X/Twitter Viewer ](https://nitter.net)
+
+##Previous versions:
+https://rentry.org/llst-2021-02-bkup
 ***
 ##QoL regex filters
 **Improved** non-intrusive filter for 4chanx that massively improves thread readability. ==Last updated: 04/27/2023==
@@ -804,5 +808,5 @@ December 26 - Sora Tokui
 
 ***
 -> **Disclaimer: all content here are hosted offsite, publicly available official information and media that qualifies under the area of fair use and does not in any way violate local or Japanese copyright laws.**<- 
-->**免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。さらに、このページでは、著作権のルールに違反することがないことを保証しています。**<-
+->**免責事項：ここに掲載されているすべてのコンテンツは、オフサイトでホストされており、公的に入手可能な公式情報およびメディアであり、公正使用の領域で適格なものであり、地域や日本の著作権法に違反するものではありません。**<-
 -> Currently maintained by: ==**cocosginormousmilkers** !!mNcwlMFpnaU==<-

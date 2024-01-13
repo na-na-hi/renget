@@ -2147,3 +2147,184 @@ https://nitter.net/AryJeay/status/1745614136753410506#m  1/11/24
 >Military & political affairs expert, Brigadier General Abdul Ghani Al-Zubaidi
 Since they launched this attack on us, they can consider Bab Al-Mandeb closed. Rest assured, Yemen is prepared for this…you launched this attack and you think we won’t respond? No we will retaliate.
 https://nitter.net/revolutionaryem/status/1745604163893952614#m  1/11/24
+
+>The Italian government had rejected the request of the US & the UK to participate in the military aggression against Yemen last night.
+https://nitter.net/AryJeay/status/1745777137741639777#m  1/12/24
+
+>⚡️WATCH: Al-Quds Brigades (PIJ) published a video showing scenes of the operation that blew up a minefield with a supply line for the Zionists. 
+
+It also shows the monitoring of a Zionist infantry force followed by shelling them with mortars, in south & east of Gaza.
+https://nitter.net/AryJeay/status/1745771385060766096#m  1/12/24
+
+>🛑🇾🇪 Tasnim News Agency:
+
+The Yemeni army fired back missiles at US & UK aggressor’s ships in the Red Sea during the air attacks of the US & UK on Yemen, last night.
+
+The American and British air attack on Yemen led to a 2.5% increase in the global oil price.
+https://nitter.net/AryJeay/status/1745770063838289978#m  1/12/24
+
+>⚡️Statement by the Yemeni Armed Forces’ spox Yahya Sarae:
+
+The American-British enemy, in support of the ongoing Israeli atrocities in Gaza, has launched a heinous aggression against Yemen with 73 airstrikes targeting the capital Sana'a and the provinces of Hodeidah, Taiz, Hajjah, and Saada. These airstrikes have resulted in the martyrdom of 5 and the injury of 6 from our armed forces.
+
+The American and British aggressors bear full responsibility for their criminal aggression against our Yemeni people and it will not pass without a response and punishment.
+
+The Yemeni Armed Forces will not hesitate to target sources of threat and all hostile targets on land and sea to defend Yemen, its sovereignty, and independence.
+
+This brutal aggression will not sway Yemen from its supportive stance for the plight of the Palestinian people. The Yemeni Armed Forces affirm their commitment to preventing Israeli ships from navigating in the Arabian and Red Seas towards the occupied ports of Palestine.
+https://nitter.net/AryJeay/status/1745757906731979078#m  1/12/24
+
+>US-UK aircraft, US warships & a US Navy submarine together fired more than 100 guided bombs & missiles at 16 locations across Yemen.
+
+According to an US military expert, the US/UK signalled the attack to avoid Iranian/Hezbollah casualties in order to prevent escalation from them.
+https://nitter.net/AryJeay/status/1745702838552940561#m 1/12/24
+
+>BREAKING| Israel's legal team says "it is absurd" to suggest that the only way to stop the genocide in Gaza is to halt the military operation as a whole.
+https://nitter.1d4.us/QudsNen/status/1745771590086721728#m  1/12/24
+
+>BREAKING| Al Houthis' Supreme Political Council: All American and British interests have become legitimate targets for the Yemeni armed forces in response to their direct and declared aggression against the Yemeni Republic.
+https://nitter.1d4.us/QudsNen/status/1745778604913430877#m  1/12/24
+
+>BREAKING| South Africa's Minister of Justice, Ronald Lamola, says Israel failed to respond to the genocide case and it seems unable to condemn the practices of its soldiers.
+https://nitter.1d4.us/QudsNen/status/1745790678875988270#m  1/12/24
+
+>BREAKING| South Africa's legal team: If Israel was right, it would have allowed international investigation teams to enter Gaza.
+https://nitter.1d4.us/QudsNen/status/1745793089501851719#m  1/12/24
+
+>⚡️Israeli media: 
+
+42 #Israeli soldiers were injured during the past 24 hours, including 14 soldiers in the #Gaza Strip.
+https://nitter.net/ME_Observer_/status/1745792854088200208#m  1/12/24
+
+During the hearing today at the ICJ court, the Israeli legal team claims that the Israeli army hasn't bombed any hospitals in Gaza.
+https://nitter.1d4.us/QudsNen/status/1745802190084612330#m  1/12/24
+
+>⚡️#Iraq: Al-Mayadeen sources: 
+
+The Islamic Resistance in Iraq bombed a target in “Eilat” in the occupied #Palestinian territories today at dawn.
+https://nitter.net/ME_Observer_/status/1745806020482359749#m  1/12/24
+
+>Media coverage | After loosening restrictions on gun licensing by far-right ministers, mass arming in Israel has resulted in many Israelis openly carrying weapons everywhere, including in universities.
+https://nitter.1d4.us/QudsNen/status/1745810886533533769#m  1/12/24
+
+Reports of complete internet and communication outage in Gaza. Jawwal, Palestinian Telecommunication Company: "We regret to announce a complete disruption of all services (mobile, landline, internet) in the Gaza Strip due to the ongoing Israeli aggression."
+https://nitter.1d4.us/QudsNen/status/1745817844997124156#m  1/12/24
+
+>New Yorkers protest against US and UK strikes on Yemen.
+https://nitter.1d4.us/QudsNen/status/1745827645302935985#m  1/12/24
+
+>⚡️#Yemen
+
+Head of the Supreme Political Council, Major General Mahdi Al-Mashat:
+
+- Yemeni blood is precious, and our revenge will not sleep.
+
+- The criminal American, Zionist, and British aggression will not deter Yemen from its supportive stance for Palestine.
+
+- We continue to prevent "Israeli" ships or those heading to occupied Palestine, regardless of the American, Zionist, and British aggression against the Yemeni people.
+
+- We say to our brothers in Palestine and our people in Gaza that our blood is no more precious than yours, and we are genuinely participating with you.
+
+- The unjustified American, Zionist, and British aggression on Yemen is a violation of all laws, and they will pay a hefty price.
+https://nitter.net/ME_Observer_/status/1745823422498713648#m  1/12/24
+
+>🚨🇾🇪 Security incident regarding a ship southeast of Aden (Yemen).
+https://nitter.net/AryJeay/status/1745830528987672926#m  1/12/24
+
+Germany rejects South Africa's allegation against Israel and to speak for Israel at the ICJ. Germany's spokesperson, Steffen Hebestreit, states: "We firmly reject the accusation of genocide made against Israel. It has no basis whatsoever. We will, therefore, speak as a third party in the main hearing before the International Court of Justice."
+https://nitter.1d4.us/QudsNen/status/1745842689889694109#m  1/12/24
+
+>The Yemeni Minister of Defense in Sanaa
+
+We say to those in our seas, islands, and all of the Yemeni geography, that the era of foreign mandates, hegemony and subordination has been buried and gone forever.
+https://nitter.net/EyesOnSouth1/status/1745841279542399347#m  1/12/24
+
+>🇩🇪 The German government rejected the accusations of genocide against israel before the International Court of Justice (ICJ), and called it “baseless accusations”.
+https://nitter.net/AryJeay/status/1745847764146122836#m  1/12/24
+
+>Breaking | Director of Al-Aqsa Martyrs Hospital in Gaza: "We warn of the halt of health and medical services at Al-Aqsa Martyrs Hospital due to the depletion of fuel."
+https://nitter.1d4.us/QudsNen/status/1745846970315403617#m  1/12/24
+
+>⚡️Report of a missile being fired towards a vessel approximately 90NM South East of Aden, Yemen. The Master reported a missile landing in the water 400 – 500 metres away and being followed by 3 small craft. The Master reported that no injuries or damage have been sustained and is proceeding to the next port of call. Further investigation ongoing. Vessels are advised to transit with caution
+https://nitter.net/ME_Observer_/status/1745847042453189077#m  1/12/24
+
+>🇾🇪 Al-Bukhaiti to Al-Mayadeen: 
+
+Our military operations in the Israeli depths and the Red Sea caused great losses to both the American and Israeli sides. We will avenge what America and Britain did.
+
+We had previously only targeted maritime navigation linked to the Zionist entity. Today, American and British ships no longer dare to cross the Red Sea.
+
+We have a target bank related to the American escalation and the positions of countries, and there will be painful responses.
+https://nitter.net/AryJeay/status/1745859524953620680#m  1/12/24
+
+>🚨🇾🇪 BREAKING: New air raids by the American-British warplanes on Hodeidah (Yemen). 
+
+EDIT: Yemen’s Saba agency deleted the post saying there was an aggression.
+https://nitter.net/AryJeay/status/1745862519145541655#m  1/12/24
+
+>⚡️ New raids by the American-British aggression on #Yemen in these moments
+https://nitter.net/ME_Observer_/status/1745856386473267613#m  1/12/24
+
+>⚡️The tripartite aggression of America, Britain, and Israel is now launching violent raids on the coastal city of Hodeidah
+https://nitter.net/ME_Observer_/status/1745859020739448956#m  1/12/24
+
+>The ship was heading to Israel. Instead, it docked in the nearest port.
+
+Yemenis aren't killing anyone in the blockade. They're preventing the support to the israeli genocide.
+https://nitter.net/ME_Observer_/status/1745859828713419039#m  1/12/24
+
+>⚡️#Yemen: Al-Bukhaiti to Al-Mayadeen: 
+
+Our battle is not with the American or British people, but rather with the ruling Zionist gang in Washington and London.
+https://nitter.net/ME_Observer_/status/1745861214263980234#m  1/12/24
+
+>⚡️| 🇮🇷 Exclusive footage to Mehr News shows the moment the American tanker was seized by the Iranian Army Navy (Artesh)
+https://nitter.net/AryJeay/status/1745867013459763223#m  1/12/24
+
+>A Yemeni citizen said: I swear to God oh America and Israel, we will eat you like hell.
+He then proceeded to eat glowing sticks.
+How are these niggers so based?
+
+>BREAKING | Complete power outage at Al-Aqsa Martyrs Hospital in Deir al-Balah, central Gaza, due to fuel depletion. The hospital has many patients in the ICU who are in grave need of electricity, putting their lives at risk.
+https://nitter.1d4.us/QudsNen/status/1745870784252248112#m  1/12/24
+
+>🚨⚡ Enemy media reports a group of resistance fighters infiltrated the "Adora" settlement west of Al-Khalil (Hebron) and clashes are taking place at the location.
+https://nitter.net/IbnRiad/status/1745873632931262738#m  1/12/24
+
+>Footage from inside the ICU and newborn incubators sections following a power outage at Al-Aqsa Martyrs Hospital due to fuel depletion.
+https://nitter.1d4.us/QudsNen/status/1745875110521651307#m  1/12/24
+
+>Journalists organize a protest in solidarity with Palestinian journalists amid the violations by the Israeli forces against them in Ankara, Turkey.
+https://nitter.1d4.us/QudsNen/status/1745876602594980258#m  1/12/24
+
+>⚡️Al-Quds Brigades: Ninth of  Al-Baha is present... We bombed the occupied city of Ashdod and the settlements surrounding the #Gaza Strip with intense missile barrages.
+https://nitter.net/ME_Observer_/status/1745884696968348047#m  1/12/24
+
+>🛑🇮🇶 Islamic Resistance in Iraq announces:
+
+Attacking the US base in the Conoco field deep in Syria with a missile salvo.
+https://nitter.net/AryJeay/status/1745893963049906243#m  1/12/24
+
+>⚡️An American military official told Al-Mayadeen: American and coalition forces have been subjected to at least 130 attacks in #Syria and Iraq since last October 17.
+https://nitter.net/ME_Observer_/status/1745902069783937098#m  1/12/24
+
+>BREAKING| Israel's military bombs a gathering of displaced citizens in Rafah near the Rafah border crossing, killing and wounding dozens of civilians, who were displaced from other areas across the besieged enclave.
+https://nitter.1d4.us/QudsNen/status/1745905559671386159#m  1/12/24
+
+>BREAKING| Canada's Prime Minister Justin Trudeau denies that Israel has been committing genocide against the Palestinian people in Gaza saying that his country rejects the premise of South Africa's case at the ICJ, which was described as fact-based and compelling.
+https://nitter.1d4.us/QudsNen/status/1745907336806281637#m  1/12/24
+
+>Footage shows an IOF helicopter transporting wounded Zionist soldiers from the Gaza Strip.
+
+The losses of the Zionist army in the Gaza Strip continue despite the severe censorship.
+https://nitter.net/AryJeay/status/1745915330604437767#m  1/12/24
+
+>⚡️Ships crossing the Red Sea raise the slogan “We Do not cooperate with #Israel”
+To avoid being targeted.
+https://nitter.net/ME_Observer_/status/1745905918384935056#m  1/12/24
+
+>⚡️The moment the resistance fighters stormed the "Adora" settlement near Hebron, before carrying out the shooting operation.
+https://nitter.net/ME_Observer_/status/1745927090975674743#m  1/12/24
+
+>🛑 According to israeli media, Eilat is on high readiness & preparedness for possible counterattacks by Yemen.
+https://nitter.net/AryJeay/status/1745941886315954262#m  1/12/24

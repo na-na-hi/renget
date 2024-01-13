@@ -3,6 +3,7 @@
 
 !!! info  NEWS:
 	- `a8 is out now`
+	- [Furception vae](https://huggingface.co/RedRocket/furception_vae/blob/main/furception_vae_1-0.safetensors) released
 	- ZSNR noise scheduler added to dev branch but it has issues with karras and working under 30 steps
 
 [TOC2]
@@ -58,6 +59,9 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 	- My drag and drops have about as high as I have tested without issue
 - Tagging system:
 	- HLL lets you use `Danbooru/e621`
+- VAE
+	- You can use whatever vae you already prefer
+	- [Furception vae](https://huggingface.co/RedRocket/furception_vae/blob/main/furception_vae_1-0.safetensors) is an e621 finetune you can try
 
 **Prompting:**
 - Prompting artists is generally essential 

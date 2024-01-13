@@ -81,3 +81,20 @@ Here will be everything submitted for the contest during the submission period. 
 [Homely relief.](https://rentry.org/vshcu)   Ookami Mio, **NSFW, fluff. Untagged under 5k**
 [Stacy Pacification](https://rentry.org/5d6wh) **NSFW**, Suisei, Hoshikawa, Aqua, **comedy**, greentext, rivalry, seduction, **Under 5k**
 [Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) **NSFW**, Botan, /ss/, Anal, Furry(?), Parody
+
+###Results!
+The writing contest has concluded, here are the results:
+Due to the limited entries, SFW and FLUFF was judged by single vote first past the post
+#####SFW Category winner
+**There Are Days That Last Forever.**
+#####FLUFF Category winner
+**The right one**
+
+#####NSFW Category winners
+1st place - **Little Red Riding Nene: Chapter 1**
+2nd place ??? - THREE WAY TIE -  A cozy evening in the foxhole., Kiara Sits On Your Face, and The Joy of Acceptance
+
+#####UNDER 5k Category winners
+1st place - **Shiori's Fucking Monologue**
+2nd place - A cozy evening in the foxhole.
+3rd place - The Joy of Acceptance

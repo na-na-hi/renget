@@ -2,7 +2,7 @@
 https://www.4chan-x.net/
 Or the actively maintained fork: https://github.com/TuxedoTako/4chan-xt
 Click 4chan X Settings:
-[Main](desshyou) | [**Filter**](desshyou) | [Sauce](desshyou) | [Advanced](desshyou) | [Keybinds](desshyou)
+[Main](https://rentry.org/desshyou) | [**Filter**](https://rentry.org/desshyou) | [Sauce](https://rentry.org/desshyou) | [Advanced](https://rentry.org/desshyou) | [Keybinds](https://rentry.org/desshyou)
 ==General==
 ***
 ```
@@ -16,7 +16,7 @@ Click 4chan X Settings:
 /[0oо][оo0h]*(.{0,15})mad/i;stub:no;op:no;boards:g
 />(.*)[a-z0-9]{2}\-A([CGH]+[KH]|[A-Z0-9\b]{10,}$)/;stub:no;op:no;boards:g
 /^[A-Z ]+W[0O]N/i;stub:no;op:no;boards:g
-/fiz|antig|goon|todd|turdy|petr|drago|cylla|pikap|pikag|locust|makie|zigger|burger|puncher|rizzl|distinct typing style|such a shit general|negative ambiance/i;stub:no;op:no;boards:g
+/fiz|antig|goon|moxx|todd|branon|brann|turdy|roko|petr|drago|cylla|pikap|pikag|locust|makie|zigger|burger|puncher|rizzl|contributor|distinct typing style|such a shit general|negative ambiance|obliterated a general I cherished/i;stub:no;op:no;boards:g
 # No mass replies:
 /^(?![\s\S]*\bnews\b)(?:(?:>>\d(?:(?!>>\d)[\s\S])*){10,})/i;stub:no;op:no;boards:g
 
@@ -26,7 +26,11 @@ Click 4chan X Settings:
 
 ```
 ***
-[**Main**](desshyou) | [Filter](desshyou) | [Sauce](desshyou) | [Advanced](desshyou) | [Keybinds](desshyou)
+[**Main**](https://rentry.org/desshyou) | [Filter](https://rentry.org/desshyou) | [Sauce](https://rentry.org/desshyou) | [Advanced](https://rentry.org/desshyou) | [Keybinds](https://rentry.org/desshyou)
 **Filtering**
 - [x] Filter: Self-moderation placebo.
 - [x] Recursive Hiding: Hide replies of hidden posts, recursively.
+
+![](desu)
+
+ [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desdesdesuu)

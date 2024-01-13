@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-11==
+# /aicg/ chronicles, up to ==2024-01-12==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -641,6 +641,7 @@ When | Where | What
 2023-10-19|[96780077](https://desuarchive.org/g/thread/96778369#96780077)| various money milking AI chat platforms are laughed at
 2023-10-19|[96786815](https://desuarchive.org/g/thread/96786555#96786815)| waifuism future through the eyes of AR users
 2023-10-21|[96812877](https://desuarchive.org/g/thread/96811299#96812877)| anon bakes
+2023-10-21|[96814421](https://desuarchive.org/g/thread/96814121/#96814421)| HF OAI key scraping script shared
 2023-10-21|[96831401](https://desuarchive.org/g/thread/96831401#96831401)| /aitg/ AI Tools General is born and dies
 2023-10-21|[96819280](https://desuarchive.org/g/thread/96819156/#96819280)| CharacterHub reviews botting continues
 2023-10-21|[96822891](https://desuarchive.org/g/thread/96822332/#96822891)| CharacterHub email check oversight exposed
@@ -973,6 +974,11 @@ When | Where | What
 2024-01-10|[98372472](https://desuarchive.org/g/thread/98370908#98372472)| moemate\.io's GPT4 Turbo reported to be GPT3.5 Turbo with 4k context
 2024-01-10|[98373007](https://desuarchive.org/g/thread/98372763#98373007)| OAI's GPT Store is live, Sam Altman makes a lame joke, shilling a bot
 2024-01-11|[98375515](https://desuarchive.org/g/thread/98375233#98375515)| nameless Python + PyQT5 based frontend teased again, release "tomorrow maybe"
+2024-01-11|[98390243](https://desuarchive.org/g/thread/98390195#98390243)| anon releases the new frontend named 4rp */fourp/*
+2024-01-12|[98400329](https://desuarchive.org/g/thread/98399727#98400329)| after multiple attempts moemate\.io devs patch the exploit
+2024-01-12|[98403206](https://desuarchive.org/g/thread/98401781#98403206)| a dev shills tryspellbound\.com switching between Claude and "another model", defends it
+2024-01-12|[98405220](https://desuarchive.org/g/thread/98404376#98405220)| Maid app update, remote APIs and other stuff added, looks great
+2024-01-12|[98411683](https://desuarchive.org/g/thread/98410939#98411683)| chub-archive proxy tracking is now byou
 -|-|-
 
 [](you have found my secret stash of nothing!)

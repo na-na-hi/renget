@@ -253,16 +253,20 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[10]** *It's over. Urmumium suffering continues, however*](https://arch.b4k.co/vp/thread/55194744/)
 
 ###->Post Ashen Frost Threads<-
-!!! info **Wagie, White Man and I started playing through Urmumium in the last couple of threads, so a thread was made to finish that before we move on to Reminiscencia**
+
 ####Urmumium
-!!! note
-	**Staus: Completed**
-	As far as you can get, anyway
+!!! info 
+	**Wagie, White Man and I started playing through Urmumium in the last couple of threads, so a thread was made to finish that before we move on to Reminiscencia**
 [**[1]** *Fuck Demice*](https://arch.b4k.co/vp/thread/55205455/)
 
 ####Reminiscencia
-!!! info
-	**Status: In Progress**
+!!! note
+	**Status: Complete**
 [**[1]** *Sexo, as expected from the Realidea devs*](https://arch.b4k.co/vp/thread/55208741/)
 [**[2]** *Sex with the Busty Bird*](https://arch.b4k.co/vp/thread/55211277/)
-[**[3]**](https://arch.b4k.co/vp/thread/55217655/)
+[**[3]** *"""Bad""" ending is the Based ending*](https://arch.b4k.co/vp/thread/55217655/)
+
+###->Soulstones<-
+!!! info
+	**Status: In Progress**
+[**[1]** *Being an amnesiac time janny is certainly something*](https://arch.b4k.co/vp/thread/55231975/)

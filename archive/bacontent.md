@@ -3,7 +3,7 @@
 Link | &nbsp;
 -----|-----
 [Official 4koma, Manga, Artbooks, Drama CD, Interviews, Side Content, etc](https://drive.google.com/drive/folders/1XNdrtS3qk2ChKiF32omwCdeZUzbG1Yn5) 
-[/bag/ Aggies](https://cubari.moe/read/imgur/TT4Vq70/1/1/)
+[/bag/ Aggies](https://cubari.moe/read/imgchest/bp45x6bdq75/1/1/)
 &nbsp;
 [Official Promotional Video](https://www.youtube.com/watch?v=YHy8JmWX3kw) 
 [1st PV (Animated)](https://www.youtube.com/watch?v=-xHqglB973c)

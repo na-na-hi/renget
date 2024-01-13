@@ -63,11 +63,6 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/JoshikoPro)
 	- [Website](https://joshiko.pro/)
 
-- Kawa Entertainment
-	- [Twitter](https://twitter.com/kawa_entertain)
-	- [Website](https://kawaentertainment.com/)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Kawa_Entertainment)
-
 - KoMETA
 	- [Twitter](https://twitter.com/KometaLive)
 	- [Website](https://www.kometa.ph/)
@@ -224,6 +219,11 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/vprojectf)
 	- [Website](https://vproject-f.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Project_F)
+
+- Kawa Entertainment
+	- [Twitter](https://twitter.com/kawa_entertain)
+	- [Website](https://kawaentertainment.com/)
+	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Kawa_Entertainment)
 
 - Realcorp
 	- [Twitter](https://twitter.com/RealCorpTV)
