@@ -1196,6 +1196,8 @@ https://files.catbox.moe/epxsk3.mp4 New  1/11/24
 https://files.catbox.moe/92b4h6.mp4 New  1/11/24
 >Al Quds brigades releases : Please don't forget... A sea of ​​tears
 https://files.catbox.moe/noih2i.mp4 New  1/11/24
+>This brutal aggression will not sway Yemen from its supportive stance for the plight of the Palestinian people.
+https://files.catbox.moe/qzyrof.mp4  1/12/24
 >Israeli legal team claims that the Israeli army hasn't bombed any hospitals in Gaza.
 https://files.catbox.moe/hbzu56.mp4 New  1/12/24
 >Statement by the Yemeni Armed Forces’ spox Yahya Sarae: The American-British enemy, in support of the ongoing Israeli atrocities in Gaza
@@ -1210,9 +1212,15 @@ https://files.catbox.moe/faqd8i.mp4  1/12/24
 https://files.catbox.moe/0etdp8.mp4 New  1/13/24  
 >While Al-Jazeera is getting a lot of attention, it’s important to not neglect their disgraceful consistencies towards the resistance:
 https://files.catbox.moe/dyvo38.mp4 New  1/13/24 Arabic version
+>Yemen's "we do not care" chant from yesterday's demonstration for Palestine
+https://files.catbox.moe/rs2014.mp4 New  1/13/24
 >Painful scenes from northern Gaza, which has been subjected to starvation for nearly 100 days as Israel continues to block food and water from entry.
 https://files.catbox.moe/s2xegx.mp4 New  1/13/24
 >The Yemeni Armed Forces organised the “Battle of the Promised Conquest and Holy Jihad” wargame.
 https://files.catbox.moe/bh31dr.mp4 New  1/13/24
 >Hamas (Al-Qassam) published a video: “Time is running out…”
 https://files.catbox.moe/rdbrcz.mp4 New  1/13/24
+>With subtitles:
+https://files.catbox.moe/1hu6n0.mp4 New  1/13/24
+>Shooting Stars (Yassin-105s)
+https://files.catbox.moe/ea7uim.mp4 New  1/13/24

@@ -65,6 +65,10 @@ https://www.reddit.com/r/HFY/comments/88ija5/seed_melonians_iii/
 https://www.reddit.com/r/HFY/comments/wqqeb5/skyward_melonians_iv/
 The Princess and the Human
 https://teddit.pussthecat.org/r/HFY/comments/rmacpo/the_princess_and_the_human_ch_1/
+###Videos
+Humans-B-Gone
+https://humansbgone.com/
+https://www.youtube.com/@HumansBGone
 ###Games
 Bug Fables
 https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/

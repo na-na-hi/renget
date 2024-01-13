@@ -1,8 +1,19 @@
 ▶NEW CLIPS
+>Drone operator being very happy about a TOS-1 salvo hitting the intended target
+https://files.catbox.moe/h5hzzs.mp4
+>"At least we're not Russian"
+https://files.catbox.moe/i2slpt.mp4
+>Pirates of the Ukraine
+https://files.catbox.moe/2ix8ic.mp4
+>Putin election ad: "Odessa is a Russian city"
+https://files.catbox.moe/tkdh9p.mp4
 >Kharkov Park Hotel kalibration
-https://files.catbox.moe/63uwcf.mp4
-https://files.catbox.moe/63uwcf.mp4
-https://files.catbox.moe/63uwcf.mp4
+https://files.catbox.moe/2szk1b.MP4 (aftermath)
+https://files.catbox.moe/20f93i.mp4
+https://files.catbox.moe/z1j016.mp4
+https://files.catbox.moe/61ik96.mp4
+https://files.catbox.moe/bad12x.mp4
+https://files.catbox.moe/rv6tmj.mp4
 >Total Hohol Draft: Poland Edition
 https://files.catbox.moe/jeknkp.mp4
 >Ukrainian humor

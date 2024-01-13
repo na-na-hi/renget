@@ -653,7 +653,7 @@ Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
 Liella engsubs - https://youtube.com/@nagioshi
 https://youtube.com/@smithsubs876
 https://youtube.com/@bbadsubs
-https://youtube.com/@Bookends-uw9db
+Nama Subs - https://youtube.com/@Bookends-uw9db
 
  
 **Magazines & Blog Translations**

@@ -222,6 +222,19 @@ From 3* to UE50 it costs 2400 elephs.
 >Can I brick myself leveling up a student (e.g. Priconne)?
 No. At most you brick yourself by levelling the worse characters. 
 
+>Can I unequip my items after putting it on someone?
+No.
+
+>Should I upgrade the equipments on my specials?
+Generally you prioritise strikers, but it depends.
+For the DPS (e.g. Hibiki, Iroha) upgrading the first item and watch is good.
+For healers you only need to upgrade the amulet.
+For buffers you can keep everything at tier 1.
+For CC you also only need to upgrade the amulet, but only if there's a Wakamo hovercraft raid or if you want to do Insane Hod
+It's a pain to farm hairpins so don't give these to specials outside of Ako and Himari.
+
+Specials grant 10% HP and ATK + 5% DEF and Healing to strikers [(source)](https://docs.google.com/document/d/1Ui0FRgG8h8RB1-cA639F3ETDrVM7q9FKftg4vBKBAAQ/edit#heading=h.njzox0bipewo). So while it's somewhat useful to max out a special's gear at some point, prioritise the students that are on the field. Unless if it's an exception like Iroha, who can solo carry a mission.
+
 >Okay, now actually tell me who I should max out 
 UE40 the anniversary units, Ako, and Himari.
 Happy? 

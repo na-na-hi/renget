@@ -1,6 +1,7 @@
 Blammer
-Main account
+Main accounts
 https://www.hentai-foundry.com/user/Blammer/profile
+https://archiveofourown.org/users/Blammer4
 /hmoba/
 Hyena Boy Adventures (finished)
 https://rentry.org/s3m34
@@ -48,5 +49,7 @@ https://rentry.org/wu74z
 https://rentry.org/vcedxy
 Waldgattin (finished)
 https://rentry.org/uyypyz
+Sister?
+https://rentry.org/w754h
 One shots
 https://rentry.org/kwmnz

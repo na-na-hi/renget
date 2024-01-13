@@ -63,3 +63,6 @@ https://rentry.org/avkuo
 
 >Macro Cheetah story (CW: Feral)
 https://rentry.org/nw366
+
+>Gigantic GF (Macro, Straight)
+https://pastebin.com/y8Q3p4DP
