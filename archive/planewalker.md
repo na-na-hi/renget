@@ -397,6 +397,11 @@ Rue | Info
 ![](https://files.catbox.moe/3xfvd8.png)   | Rupert "Rue" Young is considered an attention-seeker by his peers and a problem child by his teachers. He's addicted to social media, and is willing to do all sorts of things for the sake of having eyes on him. He doesn't seem to care about what trouble this might get him into in the future...perhaps for a reason? Comes with four greetings and retarded's twitter jailbreak.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/rue-0ae36cda),  [Catbox](https://files.catbox.moe/ut2m09.png), [Alt gens](https://catbox.moe/c/hg3d00)
 
+Finn | Info
+:----:  | :----: 
+![](https://files.catbox.moe/5hsk9o.png)   | Strange creatures have been prowling the streets lately, attacking anyone who comes across them. Things look grim, but a boy has been sending out radio and TV signals saying that he's turned the old broadcasting station on the edge of town into a safehaven. But he seems to be capable of more than he lets on. Comes with three greetings, inspired by [Colorbars](https://www.youtube.com/watch?v=hVPff92tkBE)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/finn-bd59a704),  [Catbox](https://files.catbox.moe/2wbh05.png), [Alt gens](https://catbox.moe/c/txrjpv)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

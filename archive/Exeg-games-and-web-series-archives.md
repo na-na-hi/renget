@@ -58,6 +58,7 @@ Voices of the void | [PRESS START](https://mrdrnose.itch.io/votv)
 Eversion | [PRESS START](https://store.steampowered.com/app/33680/eversion/)
 Patchwork Chimera Demo | [PRESS START](https://mega.nz/file/FeNGAJjL#tu9BCMYG0t2SbNbjaHJmPj_AGc-rOpMs8TeeiIESIDY)
 Newgrounds Creepypasta Collab 2023 | [PRESS START](https://www.newgrounds.com/portal/view/project/5154522)
+Shipwrecked 64 | [PRESS START](https://store.steampowered.com/app/2160220/Shipwrecked_64/)
 
 ##.exe Games
 Games List | Links
@@ -67,6 +68,7 @@ Sunky.MPEG | [PRESS START](https://gamejolt.com/games/sunky-mpeg/78243)
 Sally.exe (MY5TCrimson) | [PRESS START](https://gamejolt.com/games/sally-exe-the-game/20920)
 Silly.TIFF | [PRESS START](https://gamejolt.com/games/silly-tiff/78244)
 An Ordinary Sonic Fangame (Ordinary sonic romhack remake) | [demo 1](https://www.mediafire.com/file/rn2pmcyjl5tph99/ordinary.7z/file), [demo 2](https://files.catbox.moe/hgh3ec.zip)
+Green_Mountain | [CLIMB](https://sonicfangameshq.com/forums/threads/sonic-fangame.1045/#post-7264) [THE MOUNTAIN](https://files.catbox.moe/btyrnk.zip)
 Rouge.exe | [PRESS START](https://gamejolt.com/games/rouge-exe/164505)
 DigDug.exe | [PRESS START](https://gamejolt.com/games/DigDugexe/712475)
 Sonic.exe: Nightmare Series | [NB,](https://gamejolt.com/games/sonic-exe-nightmare-beginning/229832) [EOT,](https://gamejolt.com/games/SallyTitle_QuickLS_/258884) [FN,](https://gamejolt.com/games/UIM_JKP_3_O/562651) [NB-Remake](https://gamejolt.com/games/NBR_UIM/516580)

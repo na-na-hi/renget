@@ -1,4 +1,39 @@
 ▶NEW CLIPS
+>T-90M ambushed by 2 Bradleys & suicide drone (crew survives, tank disabled)
+https://files.catbox.moe/2aoz38.mp4
+>AFU squad takes break in safe location
+https://files.catbox.moe/yzret5.mp4
+>BMD & airborne strike team capture outpost (Zaporozhye)
+https://files.catbox.moe/edotb6.mp4
+>Brutal night strikes (Pervomaisky)
+https://files.catbox.moe/3hzdwf.mp4
+https://files.catbox.moe/kp39ba.mp4
+>TOS-1 support (Novomikhailovka)
+https://files.catbox.moe/7clte4.mp4
+>More very excited drone operators
+https://files.catbox.moe/mv1noe.mp4
+>UH OH STINKY (shit pipes burst in Kiev)
+https://files.catbox.moe/mhiue8.MP4
+https://files.catbox.moe/y7fk26.mp4
+>BMD-4 haults AFU advance (Rabotino)
+https://files.catbox.moe/66htk7.mp4
+>Unreleased footage of Soledar capture [NOT COMFY]
+https://files.catbox.moe/xs08ky.mp4
+>AFU drone shot out of sky with AK
+https://files.catbox.moe/utluzu.mp4
+>RU drone provides overwatch for t-72 under snow
+https://files.catbox.moe/849550.mp4
+>Humvee Snipe (DPR)
+https://files.catbox.moe/zw52jv.MP4
+>AKHMAT & Prizak battalions destroy enemy flanking positions (Artyomovsk)
+https://files.catbox.moe/ucjkso.mp4
+>burn em out (Artyomovsk) [NOT COMFY]
+https://files.catbox.moe/pe9vh5.mp4
+https://files.catbox.moe/02j799.mp4
+>Failed AFU Dnieper crossing [NOT COMFY]
+https://files.catbox.moe/zd5vhh.mp4
+>RU Sniper at work (Kupyansky)
+https://files.catbox.moe/adxeqp.mp4
 >Drone operator being very happy about a TOS-1 salvo hitting the intended target
 https://files.catbox.moe/h5hzzs.mp4
 >"At least we're not Russian"

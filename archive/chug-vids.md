@@ -1,7 +1,7 @@
 **>NEW CLIPS Archive**
-https://rentry.org/bcmkwu (part 3)
-https://rentry.org/bipcg (part 2)
-https://rentry.org/7rspn (part 1)
+https://rentry.org/bcmkwu - part 3 (latest)
+https://rentry.org/bipcg - part 2
+https://rentry.org/7rspn - part 1
 
 **>/chug/'s MUST-WATCH videos**
 https://rentry.org/tquop

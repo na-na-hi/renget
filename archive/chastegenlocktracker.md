@@ -32,4 +32,7 @@ _(Updated 13-Jan-2024)_
 | Volup | https://chaster.app/sessions/PI4fmOdVt4Pkmatg | === |
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
+| Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
+| Joyous | https://chaster.app/sessions/sQouXTXDBdZKDQxG | === |
+|  |  |  |
 |  |  |  |

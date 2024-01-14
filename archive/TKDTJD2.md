@@ -2328,3 +2328,152 @@ https://nitter.net/ME_Observer_/status/1745927090975674743#m  1/12/24
 
 >🛑 According to israeli media, Eilat is on high readiness & preparedness for possible counterattacks by Yemen.
 https://nitter.net/AryJeay/status/1745941886315954262#m  1/12/24
+
+>⚡️Al-Qassam (Hamas) published a video showing rocket launches from the northern Gaza Strip towards occupied territories.
+
+This is living proof that israel’s claim of controlling the northern Gaza Strip is pure lies.
+https://nitter.net/AryJeay/status/1746141989572141346#m  1/13/24
+
+>🛑 Al-Qassam (Hamas) has since this morning targeted:
+
+🔻1 IOF Helicopter
+🔻6 Merkava tanks
+🔻1 APC
+🔻1 Military D9-bulldozer
+🔻3 Infantry force
+🔻Eliminate 2 IOF soldiers
+https://nitter.net/AryJeay/status/1746135560882688423#m  1/13/24
+
+>The PLO's National Bureau for Defending Land: After being increasingly armed by the Israeli government, Israeli settlers in the West Bank became more dangerous. 
+
+They have turned into organized militias working together with official forces and many of them joined legitimate Israeli bodies.
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1746148704631816346#m  1/13/24
+
+>⚡️ #Israeli Kan channel:
+
+- Tel Aviv, Washington, Cairo, and other parties are studying the possibility of establishing an underground obstacle on the Philadelphia axis adjacent to the #Gaza Strip-Egypt border, similar to the obstacle established on the #Gaza Strip’s border with #Israel, in an effort to thwart the digging of tunnels that reach #Israeli territory. Hayat that the goal of the obstacle is to prevent Digging smuggling tunnels.
+
+Washington and Middle Eastern countries are expected to participate in financing this project. Because of the high costs.
+
+Cairo realizes that it must cooperate on this issue, as it asked #Israel to take decisions regarding the post-war phase in #Gaza.
+
+Egypt rejected #Israel's proposal for the latter to supervise the buffer zone on the border between #Egypt and the #Gaza Strip, as Cairo wants to see a ceasefire before arrangements for the day after the war.
+https://nitter.net/ME_Observer_/status/1746143081534005636#m  1/13/24
+
+>⚡️Kan Hebrew channel:
+
+The new danger is that the armed factions present in the West Bank will continue to be armed. We notice a development in their capabilities in recent months.
+https://nitter.net/ME_Observer_/status/1746145121224015984#m  1/13/24
+
+>🛑Tasnim News quoting Yemeni sources: 
+
+The base in Sana’a, targeted by the US last night, was already out of operation.
+
+A response to recent attacks on Sana'a is imminent.
+https://nitter.net/AryJeay/status/1746155387525447825#m  1/13/24
+
+>Painful scenes from northern Gaza, which has been subjected to starvation for nearly 100 days as Israel continues to block food and water from entry. 
+
+Israel also has been targeting police, volunteers, and any entity trying to organize the distribution of aid.
+https://nitter.1d4.us/QudsNen/status/1746158198069821934#m  1/13/24
+
+>While Al-Jazeera is getting a lot of attention, it’s important to not neglect their disgraceful consistencies towards the resistance:
+
+AJ anchor Ghada mocked al-Bukhaiti, saying they can’t liberate Jerusalem because they can't feed their own children.
+
+Al-Bukhaiti responded: "If you're content with someone humiliating your dignity in exchange for survival, that's your business. As for us, we won't accept. Are you asking us to choose between dying of hunger or compromising our dignity?”
+
+And the Al-Jazeera channel cut him off mid-speech! 
+(Archived video provided by @Leyla_journal)
+https://nitter.net/AryJeay/status/1746163864582971643#m  1/13/24
+
+>🇾🇪 The Yemeni Armed Forces organised the “Battle of the Promised Conquest and Holy Jihad” wargame.
+https://nitter.net/AryJeay/status/1746181783459164459#m  1/13/24
+
+>Breaking | Government Media Office in Gaza: "Gaza and the North require 1,300 food trucks daily to alleviate hunger, while the Israeli occupation accelerates a real famine, resulting in the death of 14 people seeking food."
+https://nitter.1d4.us/QudsNen/status/1746169315869471150#m  1/13/24
+
+>Government Media Office in Gaza: The current policy of starvation and thirst endangers nearly 800,000 citizens in Gaza and the North, violating international law and humanitarian principles. The international community, including the United States and Israel, is held fully responsible for the catastrophic consequences of famine and death, and an immediate halt to this brutal war is demanded.
+https://nitter.1d4.us/QudsNen/status/1746169318457360870#m  1/13/24
+
+>According to journalists sources, the Red Cross collaborated with a team from the Palestinian Telecommunications Company to repair and restore communication hubs in Khan Younis. The team, after being initially detained by Israeli occupation forces, was later released to continue their work. Upon completion and return, they were subjected to Israeli tank shelling. Tragically, two employees were instantly killed, while a third miraculously survived to recount the harrowing events.
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1746188571587801413#m  1/13/24
+
+>⚡️#Yemen: Al-Mayadeen correspondent in #Sanaa:
+
+ Explosions were heard in the southern side of Hodeidah
+https://nitter.net/ME_Observer_/status/1746190928270766317#m  1/13/24
+
+>⚡️Israeli media: Anti-tank missiles were fired at "Shtola" and "Shomra" on the northern border
+https://nitter.net/ME_Observer_/status/1746191271964590400#m  1/13/24
+
+>🚀 Damage caused due to Hezbollah rockets in Shtula
+https://nitter.net/AryJeay/status/1746191551938621633#m  1/13/24
+
+>🚨🇾🇪 BREAKING: Al-Mayadeen correspondent in Sanaa reported hearing explosions in the southern side of Hodeidah (Yemen).
+https://nitter.net/AryJeay/status/1746194003379290273#m  1/13/24
+
+>Breaking | According to a Wall Street Journal report: "Israel has informed Egypt of its intention to initiate an operation to seize the Philadelphia Corridor." The operation is expected to include the deployment of Israeli forces in areas adjacent to the borders with Israel and Egypt. This information was reported by US media, citing Israeli and Egyptian officials.
+https://nitter.1d4.us/QudsNen/status/1746192201564967151#m  1/13/24
+
+>⚡️Hamas (Al-Qassam) published a video:
+
+“Time is running out…”
+https://nitter.net/AryJeay/status/1746198897033105795#m  1/13/24
+
+>🟡 Hezbollah just announced its 8th operation today:
+
+The targeting of a Merkava tank in Metulla, while it was shelling Lebanese villages. The attack resulted in the destruction of the tank and casualties among its crew, with at least 1 killed and 1 injured.
+https://nitter.net/AryJeay/status/1746201191636201490#m  1/13/24
+
+>☠️ The israeli army admits to the death of an officer yesterday in central Gaza:
+
+🔻Master Sgt. (res.) Dan Wajdenbaum, 24, of the Yiftah Brigade's 5037th Battalion.
+https://nitter.net/AryJeay/status/1746203084257185900#m  1/13/24
+
+>With subtitles:
+https://nitter.net/AryJeay/status/1746204796552466449#m  1/13/24
+
+>Media coverage | "Al-Qassam Brigades releases a video revealing that they lost communication with a group responsible for guarding four Israeli soldiers, who were captured during an Israeli war on the Strip 10 years ago.  The footage adds that Netanyahu's government has neglected the soldiers and has not taken effective measures to secure their release."
+https://nitter.1d4.us/QudsNen/status/1746207355593703765#m  1/13/24
+
+>Yemen's "we do not care" chant from yesterday's demonstration for Palestine
+
+>Al-Qassam Brigades publishes new scenes from its battles with the occupation in Khan Yunis.
+epic new kino
+
+>⚡️INSANE FOOTAGE: Hamas (Al-Qassam) published a new video showing the targeting of military vehicles & tanks from POINT-BLANK range (several times) during the Khan Yunis battles in the south of the Gaza Strip.
+
+>The courage to blow up tanks so close is UNBELIEVABLE 🔥
+https://nitter.net/AryJeay/status/1746220315208806456#m  1/13/24
+
+>Lawmakers in Congress have shown greater sympathy towards Israeli civilian victims than Palestinian ones, with party affiliation, rather than financial contributions, being the key factor predicting lawmakers' statements on civilian casualties.
+https://nitter.1d4.us/QudsNen/status/1746230164214751459#m  1/13/24
+
+>The Guardian analysis indicates that approximately 82% of Congress members were more inclined towards supporting Israel, with only 9% leaning towards supporting Palestine during this period. The rest had "mixed" views. Legislators categorized as favoring Israel received an average of about $125,000 during their last election, whereas those supporting Palestine received an average of around $18,000.
+https://nitter.1d4.us/QudsNen/status/1746230161891049981#m  1/13/24
+
+>Shooting Stars (Yassin-105s) 🎶🎶
+https://nitter.net/AryJeay/status/1746243299801715153#m  1/13/24
+
+>⚡️Watch: Scenes from the joint operation carried out by fighters of the Al-Aqsa Brigades and the Al-Quds Brigades with 60-caliber regular mortar shells on the command and control position of the Zionist enemy, surrounding the Halima Mosque in the middle of the Khan Yunis sector.
+
+>Within the “Battle of the Al-Aqsa Flood”
+
+Al-Aqsa Brigades - Military Media
+https://nitter.net/ME_Observer_/status/1746246601616593123#m  1/13/24
+
+>"For Allah's sake, Egypt, come on!" Children in Gaza shout at the Egyptian soldiers near the borders, urging them to take action against the ongoing blockade and aggression by the Israeli occupation in the Gaza.
+https://nitter.1d4.us/QudsNen/status/1746244036392878416#m  1/13/24
+
+>Breaking | Israeli forces conduct a major raid on the city of Jenin in the West Bank, leading to ongoing clashes in the area.
+https://nitter.1d4.us/QudsNen/status/1746261844992410043#m  1/13/24
+
+>⚡️The Islamic Resistance in Iraq: We bombed the “Kharab al-Jir” base, which houses American forces in #Syria, with a missile strike.
+https://nitter.net/ME_Observer_/status/1746258381046698489#m  1/13/24
+
+>Oman Declares No-Fly Zone, Refuses Airspace for US Entry in Yemen Proxy War
+https://archive.is/JEWvu  1/13/24

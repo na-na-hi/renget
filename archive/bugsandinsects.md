@@ -42,7 +42,7 @@ https://drive.google.com/file/d/14ru8ZPoJgiS8QkY-2cy9o1w3F99bX9aK/view
 https://archiveofourown.org/works/45181576
 Bug in the Stars
 https://archiveofourown.org/works/36819391
-Frayed Ends [WIP]
+Frayed Ends 
 https://archiveofourown.org/works/47005849/chapters/118417234
 Shroomers
 https://archiveofourown.org/works/47292694

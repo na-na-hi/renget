@@ -1042,6 +1042,9 @@ https://files.catbox.moe/2wb3k3.mp4 New  1/10/24
 https://files.catbox.moe/2vj1u9.mp4 New  1/10/24 Translated Version
 >Hamas amush kikes inside a tunnel 
 https://files.catbox.moe/n5gb3g.mp4 New  1/10/24
+>Al-Qassam Brigades publishes new scenes from its battles with the occupation in Khan Yunis.
+https://files.catbox.moe/nhxjx2.mp4 New  1/13/24
+https://files.catbox.moe/aa2vxu.mp4 New  1/13/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1079,6 +1082,8 @@ https://files.catbox.moe/45wkff.mp4 New  1/6/24
 https://files.catbox.moe/a34cag.mp4 New  1/9/24
 >Al-Quds Brigades (PIJ) published a video showing scenes of the operation that blew up a minefield with a supply line for the Zionists. 
 https://files.catbox.moe/pyg13d.mp4 New  1/12/24
+>Scenes from the joint operation carried out by fighters of the Al-Aqsa Brigades and the Al-Quds Brigades
+https://files.catbox.moe/9w28wq.mp4 New  1/13/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 

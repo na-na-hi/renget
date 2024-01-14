@@ -93,7 +93,7 @@ Assistant:
 		>
 		> 任意位置使用`<|Merge Assistant Disable|>`可单独使assistant role不参与合并，此时允许存在连续Assistant:出现
     - **自由深度插入**
-		- 格式`/<@(\d+)>.*?</@\1>`，例如`<@1>Hello world</@1>`意味着将Hello world插入深度1（最后的Assistant之下），如果`@2`就是插入深度2（倒数第二个Human之下），依次类推。注意这里的深度与酒馆的深度不同，是经过role合并后的深度
+		- 格式`<@(\d+)>.*?</@\1>`，例如`<@1>Hello world</@1>`意味着将Hello world插入深度1（最后的Assistant之下），如果`@2`就是插入深度2（倒数第二个Human之下），依次类推。注意这里的深度与酒馆的深度不同，是经过role合并后的深度
         ==注意== *由于PrevAssistant与PrevHuman的逻辑较为混乱，现在这两种tags将被转换为`<@1>`和`<@2>`使用*
     - **二次正则替换（默认）**
 		- 格式`<regex>"正则表达式" : "替换内容"<\/regex>`或者`<regex order=2>"正则表达式" : "替换内容"<\/regex>`，除顺序外与一次无异

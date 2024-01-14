@@ -2736,6 +2736,10 @@ https://mega.nz/file/RpsF1aAI#athwt7Y-i_8GZGJCL-9fJP61WX4odUIFoSOY1Q_4kBY
 > Trimmed the low quality and meme stuff from e621 but trained on all e621 tags so "fang /(gvh/)" is the prompt for the LORA
 https://easyupload.io/wlr3ed
 
+# Drockdraw (Artist)
+> Trigger with drockdraw
+https://files.catbox.moe/tlnpgu.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

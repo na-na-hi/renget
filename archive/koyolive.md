@@ -41,6 +41,7 @@
 ## Important Content
 
 [3D Live🎤✨](https://www.youtube.com/playlist?list=PLCxKJRIVDrYHZJ1Lx9mk96sMt1V3Pf-jJ)
+[Nma~ Clicker](https://sites.google.com/view/koyonma/nma) Get your Koyo Kisses here, Joshu-kun!
 
 -> ![](https://raw.githubusercontent.com/om3tcw/r/emotes/emotes/koyocoom.gif) <-
 

@@ -71,13 +71,6 @@ boy portrait | warrior woman | jungle statue | random fun
 ![](https://files.catbox.moe/xlm350.png) | ![](https://files.catbox.moe/x6of8s.png) | ![](https://files.catbox.moe/eyyz2u.png) | ![](https://files.catbox.moe/po7oh3.png)
 
 ``` html
-artist:free style (yohan1754), artist:alkemanubis, artist:stanley lau, 
-```
-boy portrait | warrior woman | jungle statue | random fun
------- | ------ | ------ | ------
-![](https://files.catbox.moe/w9eirb.png) | ![](https://files.catbox.moe/8e9wak.png) | ![](https://files.catbox.moe/awgpcy.png) | ![](https://files.catbox.moe/lu1iro.png)
-
-``` html
 artist:koto inari, artist:gashi-gashi, artist:bartolomeobari, 
 ```
 boy portrait | warrior woman | jungle statue | random fun
@@ -111,13 +104,6 @@ artist:brian froud, artist:demizu posuka, artist:shigatake,
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/9mqale.png) | ![](https://files.catbox.moe/z6230e.png) | ![](https://files.catbox.moe/scgq8a.png) | ![](https://files.catbox.moe/hxj2qw.png)
-
-``` html
-artist:guweiz, artist:alkemanubis, artist:po-ju, 
-```
-boy portrait | warrior woman | jungle statue | random fun
------- | ------ | ------ | ------
-![](https://files.catbox.moe/huvmn6.png) | ![](https://files.catbox.moe/bwdek9.png) | ![](https://files.catbox.moe/s245kh.png) | ![](https://files.catbox.moe/bi044f.png)
 
 ``` html
 artist:cyancapsule, artist:paloma piquet, {{artist:peter mohrbacher}}, 
@@ -187,6 +173,20 @@ artist:goto-p, artist:akadako, artist:mashuu (neko no oyashiro),
 boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/fb746f.png) | ![](https://files.catbox.moe/s73us4.png) | ![](https://files.catbox.moe/34482a.png) | ![](https://files.catbox.moe/jthzg6.png)
+
+``` html
+artist:free style (yohan1754), artist:alkemanubis, artist:stanley lau, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/w9eirb.png) | ![](https://files.catbox.moe/8e9wak.png) | ![](https://files.catbox.moe/awgpcy.png) | ![](https://files.catbox.moe/lu1iro.png)
+
+``` html
+artist:guweiz, artist:alkemanubis, artist:po-ju, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/huvmn6.png) | ![](https://files.catbox.moe/bwdek9.png) | ![](https://files.catbox.moe/s245kh.png) | ![](https://files.catbox.moe/bi044f.png)
 
 ``` html
 artist:cyancapsule, artist:goto-p, artist:onono imoko, 
