@@ -438,25 +438,17 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 現状マルゼン式(タグの集約)は良くない感じ。タグは消さずに残すべし。
 
 ### 学習に使うウェイト
-~~SDXL base推奨。ほかの物だと汚くなる。~~ 一部のウェイトは汚くなる。Animagine-XL-3.0は問題なし。
-Dim16/Alpha4,OpimizerはDAdaptLion,stepsは大体4000-5000。
+四つのcheckpointで比較する。
+Dim8/Alpha2,OpimizerはDAdaptLion,stepsは4800。
+学習に使ったcheckpointはv3がanimaigine-xl-3.0,anibaseがanimagine-xl-3.0-base,xlbaseがsd_xl_base_1.0,kohakuxlがKohakuXLBeta7。出力はいずれもAnimagine-XL-3.0を使用。
+Image | Image
+ ------ | ------
+![Image](https://files.catbox.moe/sqf6vl.webp) | ![Image](https://files.catbox.moe/4aj4n7.webp)
+![Image](https://files.catbox.moe/u3yobq.webp) | N/A
 
-SDXL Checkpoint | Image | Description
- ------ | ------ | ------
-sd_xl_base_1.0 | ![Image](https://files.catbox.moe/esqq7w.jpg) | rentry君画像サイズ調整できないので適当な文章で調整。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-
-kohakuXL_beta7Pro | ![Image](https://files.catbox.moe/v00k4d.jpg) | 色がおかしい。
-
-### SD1.5との比較
-
-SD Version | Image | Description
- ------ | ------ | ------
-1.5 | ![Image](https://files.catbox.moe/2chn95.jpg) | 絵はキレイだけど破綻が多い。ヘイローは見れたもんじゃない。
-XL | ![Image](https://files.catbox.moe/tyq8pf.jpg) | ヘイローが全然崩れない。さすがパラメータ数3倍の数の暴力は強い
-1.5 | ![Image](https://files.catbox.moe/m1rpco.jpg) | いつも通り破綻だらけ
-XL | ![Image](https://files.catbox.moe/oqol6r.jpg)| 腕章の文字が崩れにくいし、相変わらず間違えるけど文字入れの反応も良い。ヘイローも安定。目もadetailer、hires.fixありの1.5より良い。素晴らしい。　　　　　　　　　　　　　　　　　　　　　　　　　-
-Animagine-XL-2.0 | ![Image](https://files.catbox.moe/5bb5z9.jpg) | LoRA込み。チェリーピックしてこれなのでLoRAの限界だろう。
-Animagine-XL-3.0 | ![Image](https://files.catbox.moe/h67jnl.jpg) | 💯💮👏※LoRA未使用。チェリーピックしてない。
-
+SDXL Baseは少し暗いし画風が若干変化して吹き出しを学習したっぽい。
+KohakuXLは汚くなったし余計な物も学習したっぽい。danbooru語の応答性も悪い。もしかして「150万枚の画像で学習しました！」と書いといてunetだけってオチ？
+AnimagineXL3が最も良い。AnimagineXL3baseは画風が変化した。
 
 ### 画風
 ここの検証でよく出てくるキャラのゲームの画風を学習させてみる。OptimizerはAdamW8bit、Dim8Alpha4。
@@ -465,19 +457,28 @@ SDXL Checkpoint | Image | Description
 kohakuXL | ![Image](https://files.catbox.moe/w5b6gv.jpg) | キャラLoRA使用。checkpointによってヘイローの精度が変化する模様。Animagine-XL-2.0は打率が高い。　　　　　　　　　　　　　　　-
 KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.catbox.moe/nfhrta.jpg) | キャラLoRA使用。ゴミ。SD1.5のほうが圧倒的にマシ。
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | キャラLoRA使用。やっぱり学習モデルはSDXL Baseじゃないとダメやね。
-AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。ただ白背景が灰色になる。　※キャラLoRA未使用
-↑でマージしたウェイトで学習して強度0.85でさらにマージ | ![Image](https://files.catbox.moe/m8bowp.jpg) | SD1.5と違って悪影響が見られない。
+AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。※キャラLoRA未使用
 
 
-余談だが、素の状態だと版権やキャラ名にほとんど反応しない。TextEncoderの学習がまだまだ未熟？
-ただしHassakuXLはTEをガッツリ弄ってるらしく、実際にKohakuXLで一切反応しないキャラ名にも多少反応する。
+#### 学習とマージを繰り返して画風変更
+なんちゃってReLoRAでAnimagineXL3の画風を変えてみる。
+共通のパラメータ:Dim8/Alpha3,AdamW8bit,Warmup steps:250,cosine_with_restarts,lr_scheduler_cycle:2,train_network_unet_only
+5回繰り返した。一回目はLR0.0001,6Epochs(2784steps),強度0.7でマージ、二回目はLR5E-05,以降4Epochs(1856steps),以降強度0.9でマージ、三回目はLR2.5E-05、四回目はLR1.25E-05、五回目はLR6E-06。
+
+Image | Image
+ ------ | ------
+![Image](https://files.catbox.moe/fyflnz.webp) | ![Image](https://files.catbox.moe/6zrs2b.webp)
+
+
+SD1.5と違って再現度高いのに崩壊しないのはええね
 
 ### SDXL 1024 vs 512
 SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
-Resolution | Image | Description
+ 1024 | 512 | 画像サイズ調整用
  ------ | ------ | ------
-1024 | ![Image](https://files.catbox.moe/aoraao.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-512 | ![Image](https://files.catbox.moe/ukhkck.jpg) | 髪の描き方が変化した
+ ![Image](https://files.catbox.moe/aoraao.jpg) | ![Image](https://files.catbox.moe/ukhkck.jpg) | 　　　　　　　　　　　　　　　　　　　
+
+髪の描き方が変化した
 
 上記のサンプルでは良いが実際のところ以下のように破綻しやすくなるので低解像度の学習は非推奨。
 Resolution | Image | Description
@@ -491,23 +492,24 @@ Text Encoderの有無でどう変化するか比較。
 生成に使用したcheckpointはanimegine-xl-2.0に画風LoRAをマージしたもの。
 TE/Unet | Promt | Image | description
  ------ | ------ | ------ | ------
-両方学習 | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, white capelet, wrist scrunchie, outdoors, day, city, smile, looking at viewer | ![image](https://files.catbox.moe/1inhff.webp) | N/A
-unet only | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, white capelet, wrist scrunchie, outdoors, day, city, smile, looking at viewer | ![image](https://files.catbox.moe/6i45eh.webp) | ヘイローの品質下がった？
 両方学習 | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, coat, outdoors, day, autumn leaves, smile, day| ![image](https://files.catbox.moe/y2mq8x.webp) | N/A
 unet only | 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, coat, outdoors, day, autumn leaves, smile, day | ![image](https://files.catbox.moe/dlix6h.webp) | ヘイローがSD1.5みたいにあらぬ場所に出現。それでも1.5よりマシだが。元の衣装の影響を受けてる？
-両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, bikini, beach, night, starry sky, full body, summer | ![image](https://files.catbox.moe/dttvnk.webp) | ディテールが良い？
-unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, bikini, beach, night, starry sky, full body, summer | ![image](https://files.catbox.moe/dju3zk.webp) | 髪の団子がsingleを無視してdoubleになっている。
 両方学習 | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood | ![image](https://files.catbox.moe/t2ohm9.webp) | 正しい形状の銃を正しく持てるXLは素晴らしい。
 unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow eyes, halo, single hair bun, tactical clothes, bulletproof vest, blurry background, outdoors, aiming at viewer, grin, firing, glock 17, blood| ![image](https://files.catbox.moe/718okk.webp) | hair bunの位置が逆。手がおかしい。銃の部品らしきものが頭に生えた。銃の色がおかしい。
-
-ヘイローの精度があまり高くないのはLoRAの限界かも。1.5とXLの比較の画像を見ればわかるけどLoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。　　　　　　　　　　　　　　　　　　　　　　　　　
 
 TE込みは難しいらしいが実際はそうでもなかった。
 Unet onlyはプロンプトの応答性と品質がやや低下するように感じる。
 VRAM12GB以上のGPUがあるならTE込みで回したほうがよさそう。
 
+ちなみに、ヘイローの精度が高くないのはLoRAの限界かも。下の画像を見ればわかるけどLoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。
+ Image  | Dummy
+ ------ | ------
+![Image](https://files.catbox.moe/tyq8pf.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
+
 ### SDXLのPCスペック
-余裕はないが推論・学習(unet_only有効)ともにVRAM8GBでできる。TE込みのSDXL LoRA回すなら最低でも3060(12GB)、できれば4060Ti(16GB)、4070(Ti)、4090、4070 Ti SUPER(VRAM16GBで2024年発売予定？)がよさそう。
+余裕はないが推論・学習(unet_only有効)ともにVRAM8GBでできる。TE込みのSDXL LoRA回すなら最低でも3060(12GB)、できれば4060Ti(16GB)、4070 Ti SUPER、4090がよさそう。
 TE込みだとVRAM8GBでは絶対にあふれて1step44秒、5000stepsで二日半かかる。待てないことはないけど・・・まあ厳しいっすねw
 メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
 生成はComfyUIかFooocusがAUTOMATIC1111より省メモリで良い。Fooocusは最低4GBのVARMと8GBのRAMでできるらしい。
@@ -524,7 +526,7 @@ ReLoRAとは、LoRAを利用してウェイトをファインチューンや事�
 つまり、一般向けのグラボで二次絵SDXLとかNSFW特化モデルが作れる。
 
 
-手順は以下の通り[（ソース）](https://dskjal.com/deeplearning/lora.html)
+手順は以下の通り
 1.LoRAで学習する
 2.できたLoRAを元のモデルにマージ
 3.マージしたモデルでLRを下げてLoRAで学習
@@ -565,48 +567,11 @@ TurquoiseMix_v0.9が学習元、Turquoise_finalが最終epochでTurqoiseが仕�
 枚数の多いキャラは名前だけで出る。
 シャープネスが向上してフィルムグレインが発生するようになった。
 
-#### Checkpointのマージでブレの抑制
-品質のブレが激しいため、MBWを用いて別の秘伝のタレを混ぜた。[レシピ](https://files.catbox.moe/whypra.webp)
-TurquoiseMix_v1.2がマージ元、Turquoise_finalが最終epochで、Turqoiseが仕上げ後、Turquoise_aがマージ後。
-`Prompt: "1girl, masterpiece, absurdres, hoshino \(blue archive\), smile, outdoors, day, halo, heterochromia, looking at viewer" Negative prompt: "worst quality, lowres"`
-![Image](https://files.catbox.moe/czk63j.webp)
-
-`Prompt: "1girl, masterpiece, absurdres, karin \(blue archive\), dark-skinned female, yellow eyes, halo, kimono, new year, blurry background, outdoors, looking at viewer" Negative prompt: "worst quality, lowres"`
-![Image](https://files.catbox.moe/9yconu.webp)
-
-`Prompt: "1girl, masterpiece, absurdres, asuna \(blue archive\), shirt, summer, blue sky, popsicle, holding, smile, outdoors, cloud" Negative prompt: "worst quality, lowres, nude, sex"`
-![Image](https://files.catbox.moe/w27tm5.webp)
-
-キャラの再現度を落とさずに品質が改善した。
-
 ### まとめ
-LoRA無しで多くのブルアカキャラを出せるようになったが品質が安定せずなんとも言えない微妙な結果になった。NSFWに至ってはグレースケール化連発か破綻で使い物にならない。指も改善した気がする程度。
+品質が安定せずなんとも言えない微妙な結果になった。NSFWに至ってはグレースケール化連発か破綻で使い物にならない。指も改善した気がする程度。
 学習元を変えるかハイパーパラメータを調整するべきかな。
 
 ~~学習元がきれい(小並感)~~
-おまけ: データセット内で登場頻度の高いキャラTOP20
-``` text
-ユウカ(2364)
-アスナ(2301)
-シロコ(1722)
-トキ(1637)
-コハル(1597)
-リオ(1455)
-ハナコ(1387)
-ホシノ(1258)
-ヒナ(1240)
-キサキ(1235)
-カリン(1162)
-イチカ(1135)
-ミカ(1129)
-アロナ(1122)
-アリス(1096)
-ミユ(1094)
-ハスミ(1059)
-プラナ(969)
-マリー(937)
-ウイ(788)
-```
 
 ## 次元数(DimまたはRank)の比較
 キャラは64でいいなど言っているが、それ未満の値でどうなるか気になったので比較。
@@ -648,7 +613,7 @@ SDXLは高性能なため16以下で良い。
 - キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい
 
 ### キャラLoRAの最適解(SDXL)
-- 学習に使うウェイトはsd_xl_base_1.0
+- 学習に使うウェイトはanimagine-xl-3.0
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
 - 4000-6000steps,Dim8/Alphaはdimの4分の1

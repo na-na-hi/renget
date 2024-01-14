@@ -1,4 +1,5 @@
 -> **FROZENVAN's BOT LIST** <-
+This rentry will not be updated, because I'm lazy.
 
 **Table of Contents**
 [TOC]

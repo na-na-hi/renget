@@ -109,7 +109,7 @@ Links   | Catbox: https://files.catbox.moe/qlbrld.png https://www.chub.ai/charac
 Umeko | Info
 ------ | ------
 ![Umeko](https://files.catbox.moe/faz18v.png) | My useless mom is finally useful for something! (As as masochistic cocksleeve that is!)
-Links   | Catbox: https://files.catbox.moe/ps4umw.png . https://files.catbox.moe/1xpxkj.png
+Links   | Catbox: https://files.catbox.moe/ps4umw.png . https://files.catbox.moe/1xpxkj.png (4turbo) vs https://files.catbox.moe/9vr1hj.png (Claude)
 
 Zara | Info
 ------ | ------

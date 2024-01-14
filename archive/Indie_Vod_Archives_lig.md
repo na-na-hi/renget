@@ -86,7 +86,7 @@ Content|Link|Description
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
 Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
-Unofficial Archive of the first Karaoke vod | [MS Onedrive](INSERT LINK HERE)
+Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!AhS3PgDnjlw8kXLEH7VrIBTWgjcw?e=zBvwm3)
 
 ---
 
@@ -95,7 +95,7 @@ Content|Link|Description
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
 Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)
-Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)| [MS onedrive](https://1drv.ms/f/s!Avazw3c5DIg5gX3UFLmhILe5pU0h?e=NHTKeC)
+Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)|
 Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)
 Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)
 Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)
