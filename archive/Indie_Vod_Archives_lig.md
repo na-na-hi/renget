@@ -67,7 +67,8 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
-Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| 
+Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| Youtube Playlist
+Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXHuBG_SqMfslUhd?e=5d7nFW)|MS Onedrive Mirror 
 
 ---
 
@@ -75,7 +76,8 @@ Unofficial Girl DM Vod Archives | [Link](https://www.youtube.com/playlist?list=P
 Content|Link|Description 
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| Youtube Playlist
- 
+Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| Ms Onedrive Mirror
+
 
 ---
 
@@ -83,7 +85,8 @@ Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4At
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
-Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| [MS onedrive](https://1drv.ms/v/s!Avazw3c5DIg5gXNoklF5IKqQGQJS?e=l3AixI) 
+Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
+Unofficial Archive of the first Karaoke vod | [MS Onedrive](INSERT LINK HERE)
 
 ---
 

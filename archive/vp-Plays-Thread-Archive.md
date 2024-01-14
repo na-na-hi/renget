@@ -270,3 +270,5 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 !!! info
 	**Status: In Progress**
 [**[1]** *Being an amnesiac time janny is certainly something*](https://arch.b4k.co/vp/thread/55231975/)
+[**[2]** *nooooo you can't kill the bad guys! that's le bad!*](https://arch.b4k.co/vp/thread/55236135/)
+[**[3]**](https://arch.b4k.co/vp/thread/55239569/)

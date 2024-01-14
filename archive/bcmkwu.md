@@ -1,4 +1,6 @@
 ▶NEW CLIPS
+>The /chug/ Anniversary Video
+https://files.catbox.moe/9eesjj.mp4
 >T-90M ambushed by 2 Bradleys & suicide drone (crew survives, tank disabled)
 https://files.catbox.moe/2aoz38.mp4
 >AFU squad takes break in safe location

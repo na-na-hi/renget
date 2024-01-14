@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 9th January. All dates dd/mm.
+!!! Note Last updated: 14th January. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -106,7 +106,7 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Open as of 18/12
+6 | Arona#1 | Open as of 14/01
 6488 | Kanimochi | Open as of 15/12
 6665 | F2Poor | Open as of 04/01
 10625 | Vrillionaires | Open as of 06/10
