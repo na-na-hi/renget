@@ -2,7 +2,7 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 6
->Influence: 1216/3200
+>Influence: 942/3200
 >Divinity: 275/275
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
@@ -19,7 +19,7 @@ All of your authorities are more effective against individuals who either like y
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (14/15):
+##Authorities (13/15):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
@@ -45,14 +45,6 @@ You may target one individual by making physical contact with them, causing them
 
 It is possible to make considerable alterations to the target's sense of reality. For example, as long as the approximate size, rigidity, and shape of an object is maintained, the affected individual could perceive the object as anything. The target's brain will automatically fill in the information to meet the <Concept> the user choses when the illusions are cast. However, the more outlandish or complex the concept, the more likely the target is to realize they are in an illusion. Once the target realizes that they are under the effects of an illusion, the effects of the authority will immediately end.
 
->Cursed Gold (1):
-You may place a hex on any piece of currency (10 divinity per use). If a person willingly accepts that currency with the intention to keep it, they will be affected by the hex. The available hexes are:
-	-Sniveling Gratitude: The individual will be more susceptible to your orders
-	-Bottomless Greed: The individual is consumed by greed, neglecting all other motives in service of it.
-
->Life Insurance (2):
-You may sacrifice money, of any widely accepted currency, to halt the aging process. The rate is 20,000 USD for a number of years equal to your skill level. Additionally, it is possible to make yourself younger, at a rate of 40,000 USD per year
-
 >Regeneration (4):
 You may expend divinity to recover from any injury or from supernatural physical conditions such as <Rot> or <Petrification>. The amount of divinity necessary to heal an injury depends on its nature and severity. It is possible for this skill to recover injuries to the brain, such as a concussion, automatically, but it is possible to die from other causes while this process occurs.
 
@@ -76,6 +68,9 @@ You will automatically dodge out of the way of attacks directed at you, even if 
 
 >Supernatural Speed (3):
 You can infuse divinity into your body, causing you to move faster. This does not slow down your perception of time, but does heighten your reflexes and instincts. Using the skill for prolonged periods of high capacity can lead to muscle soreness. Max Usage: 10 divinity per minute. It is possible to activate this skill on reflex.
+
+>Guerilla Tactics (1):
+Hides the presence of yourself and designated allies. Consumes influence proportional to the number of targets. Can fail against higher level authorities. Does not negate the effects of items.
 
 ##Titles:
 

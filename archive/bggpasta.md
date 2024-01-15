@@ -1,14 +1,14 @@
 **Subject (do not include in the OP): /bgg/ - Baldur's Gate General**
 **XXX** Edition
 
-Launch trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
-Release teaser: https://www.youtube.com/watch?v=qVw5M42LwZo
+PC trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
+PS5 trailer: https://www.youtube.com/watch?v=_wW4Fdh6zFM
 
 \>News:
 Patch 5: https://baldursgate3.game/news/patch-5-now-live_99
 
 \>Wiki:
-https://bg3.wiki/wiki/Main_Page
+https://bg3.wiki
 
 \>Mods:
 https://www.nexusmods.com/baldursgate3/

@@ -1,4 +1,18 @@
 ▶NEW CLIPS
+>Icy krinky assault gone wrong
+https://files.catbox.moe/m508j1.mp4
+>Interior of Russian positions
+https://files.catbox.moe/tx83wz.mp4
+>Attack Heli's South Donetsk
+https://files.catbox.moe/girjvk.mp4
+>Gostomel Airport throwback video
+https://files.catbox.moe/3vkpy8.mp4
+>Smoke break
+https://files.catbox.moe/70iq9k.mp4
+>Kremennaya forest POWs
+https://files.catbox.moe/29ziv2.webm
+>Russian sniper no-scopes AFU soldier
+https://files.catbox.moe/2gijc5.mp4
 >The /chug/ Anniversary Video
 https://files.catbox.moe/9eesjj.mp4
 >T-90M ambushed by 2 Bradleys & suicide drone (crew survives, tank disabled)

@@ -31,3 +31,14 @@ Marks all mortals who hear it as <Victims> for 24 hours. Whenever an incarnation
 ##Weapons
 
 n/a
+
+##Authority Crystals
+
+
+>Cursed Gold (1):
+You may place a hex on any piece of currency (10 divinity per use). If a person willingly accepts that currency with the intention to keep it, they will be affected by the hex. The available hexes are:
+	-Sniveling Gratitude: The individual will be more susceptible to your orders
+	-Bottomless Greed: The individual is consumed by greed, neglecting all other motives in service of it.
+
+>Life Insurance (2):
+You may sacrifice money, of any widely accepted currency, to halt the aging process. The rate is 20,000 USD for a number of years equal to your skill level. Additionally, it is possible to make yourself younger, at a rate of 40,000 USD per year

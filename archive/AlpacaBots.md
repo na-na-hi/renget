@@ -53,6 +53,12 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/ko45uy.png) | Yvette | Your asshole rival. Multiple greetings. | [Catbox link](https://files.catbox.moe/ko45uy.png)
 ![](https://files.catbox.moe/vugats.png) | Capucine | Yvette's naive younger sister needs help. | [Catbox link](https://files.catbox.moe/vugats.png)
 
+###ComBot universe
+Like Pokémon but with androids
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/gs8eqr.png) | Mirrko | Happy-go-lucky combat android wants to be the very best while endlessly spewing memes. | [Catbox link](https://files.catbox.moe/o5z6id.png)
+
 ###Standalone male bots
 Each has his own story and personality
 Image| Name | Description | Link

@@ -1,5 +1,6 @@
--> ![.](https://enchantments.carrd.co/assets/images/gallery08/d30af578.gif?v=43e17b0c) <-
--> ![.](https://media.discordapp.net/attachments/1096639589852123136/1191826185022341190/IMG_0411.webp?ex=65a6d9a1&is=659464a1&hm=7d604d3805a96412630560847756daf287391cdbebe0aaf396248024531667c5&) <-
--> enny ![.](https://enchantments.carrd.co/assets/images/gallery16/76ec3234.gif?v=43e17b0c) ryan — she/him <-
--> ![.](https://enchantments.carrd.co/assets/images/gallery07/e1fb9f25.jpg?v=43e17b0c) ![.](https://enchantments.carrd.co/assets/images/gallery07/a4f87da2.jpg?v=43e17b0c) bisexual girlboything <-
--> i am juliet starling u arent desu <-
+-> ![.](https://media.discordapp.net/attachments/1096639589852123136/1196234356079984711/IMG_1115.jpg?ex=65b6e30f&is=65a46e0f&hm=41b7b325ddbbf6e575ed39ecf0d996d5116dc20372dc7cec928f35a0cd359f6c&) <-
+***
+-> enny ౨ৎ they he <-
+-> videostar editor <-
+-> [tiktok](https://www.tiktok.com/@ilovehomelander?_t=8j2SOayc6Op&_r=1) [instagram](https://www.instagram.com/iluvhomelander?igsh=MWsyenZ5c2JnYzkwbw%3D%3D&utm_source=qr) [discord](https://discord.gg/TEfrDmMqEz) <-
+-> editing socials <-

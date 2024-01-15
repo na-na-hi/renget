@@ -244,6 +244,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/92xu28.png) | ![](https://files.catbox.moe/ay5431.png) | ![](https://files.catbox.moe/499sha.png) | ![](https://files.catbox.moe/rl6h9s.png)
 
+``` html
+artist:shirow masamune, artist:hxxg, artist:kase daiki, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/hza5qg.png) | ![](https://files.catbox.moe/1lz2k6.png) | ![](https://files.catbox.moe/tcbxx4.png) | ![](https://files.catbox.moe/ujzd4l.png)
+
 ***
 ***
 ***
