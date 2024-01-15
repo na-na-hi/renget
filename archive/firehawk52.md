@@ -282,7 +282,7 @@ https://t.me/GlomaticoAppleMusicBot (thanks to Glomatico)
 #### Beatport
 https://t.me/beatport_downloader_bot (thanks to Filosk)
 #### Deezer
-https://t.me/deezload2bot - ==ARLs== see [see above](#deezer-arls)
+https://t.me/deezload2bot - ==ARLs== [see above](#deezer-arls)
 #### Tidal
 https://t.me/flacboxbot (thanks to @udreamtoosmall)
 ***

@@ -1242,3 +1242,13 @@ https://files.catbox.moe/ziar0a.mp4 New  1/14/24
 https://files.catbox.moe/vdpoum.mp4 New  1/14/24
 >Al-Qassam Brigades’s Spox Abu Obeida speech, with english subtitles. Courtesy of RNN for providing the subs.
 https://files.catbox.moe/7xi8zn.mp4 New  1/14/24
+>The Mujahideen Brigades published a video yesterday, showing them targeting a Hermes-900 drone with a surface-to-air missile (SAM) in the airspace of Gaza City.
+https://files.catbox.moe/8orqo5.mp4 New  1/15/24
+>Footage shows Israeli occupation forces using a civilian as a human shield in clashes today in Hebron, West Bank.
+https://files.catbox.moe/b8n2bd.mp4 New  1/15/24
+>Hezb-Allah has published a video titled: “One hundred days... and between us and you there will be days after that”
+https://files.catbox.moe/dxyu3c.mp4 New  1/15/24
+>In response to the Israeli military's threats of war on #Lebanon, Hezbollah publishes : Hello, greetings and welcome !
+https://files.catbox.moe/is7y96.mp4  1/15/24
+>Hamas (Al-Qassam) published a video showing the prisoners .... “While we are still alive, bring us home.”
+https://files.catbox.moe/8qqw5u.mp4 New  1/15/24

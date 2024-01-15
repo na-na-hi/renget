@@ -1,8 +1,8 @@
 #Inventory
 
 ##Items
->Diviner: 30
-Consumable. Shatters and notifies the user when an unknown incarnation appears within a one mile radius. Provides their name and level
+>Purified Drop of Chaos: 300 (x3):
+Consumable. Has the same effect as a standard Drop of Chaos, but the deleterious effects are replaced with mostly useless ones
 
 >Lizard's Tail: 100
 Consumable. Teleports the user to a place they consider safe and heals all of their physical injuries. Activates automatically when the user is near death
@@ -23,6 +23,9 @@ Divine relic. Can be infused with divinity to achieve certain effects.
 
 >Euterpe's Harp (copy):
 Can take the form of any instrument. Gives the owner proficiency with that instrument proportional to that of their highest musical talent, and enhances the effects of any sound based authorities when delivered in the form of music while this artifact is in use. Has secondary effects for the incarnation of <Euterpe>
+
+>Dysnomia’s Crown (0/1,000)
+Allows you to spend the 1,000 divinity stored in the relic to make a target within eyesight forget that something is illegal. May be resisted by an incarnation of a higher level.
 
 >Death Whistle
 

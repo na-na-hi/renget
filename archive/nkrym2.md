@@ -1,5 +1,5 @@
-!!! info Want to know more? 
-    *This story works on its own, but if you want to know what you did with Ayame beforehand you can find out at https://rentry.org/nkrym*
+!!! info This is a sequel to A Hedonist's Reckoning!
+    *This story works on its own, but if you want to read about your spanking of Ayame before dinner check out https://rentry.org/nkrym*
 
 
 #The Oni's Rebellion

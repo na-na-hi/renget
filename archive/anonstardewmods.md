@@ -1,11 +1,6 @@
 240115
 Hello friends. I've been forced to do some early spring cleaning. More info to come.
 
-#**You will never be a woman**
--> also <-
-# ![Image description](https://files.catbox.moe/c5vwr0.gif) **NIGGER** ![Image description](https://files.catbox.moe/c5vwr0.gif)
-
-
 
 
 Last added mod/update 231222

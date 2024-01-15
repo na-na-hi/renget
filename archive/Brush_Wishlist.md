@@ -106,6 +106,7 @@
 **Dirty Piece Wire Set (汚しカケ線セット)** | [1731899](https://assets.clip-studio.com/en-us/detail?id=1731899) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
 **Smoke Flow Set (煙流れセット)** | [1718809](https://assets.clip-studio.com/en-us/detail?id=1718809) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/88/1718809/thumbnail?1562117923)
 **Sea Brush Set (海ブラシセット)** | [1717978](https://assets.clip-studio.com/en-us/detail?id=1717978) | **2,500 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/78/79/1717978/thumbnail?1531902708)
+**Void Pack** | [1967510](https://assets.clip-studio.com/en-us/detail?id=1967510) | **5,000 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/10/75/1967510/thumbnail?1670224320)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
