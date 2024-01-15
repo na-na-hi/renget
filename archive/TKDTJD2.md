@@ -2477,3 +2477,268 @@ https://nitter.net/ME_Observer_/status/1746258381046698489#m  1/13/24
 
 >Oman Declares No-Fly Zone, Refuses Airspace for US Entry in Yemen Proxy War
 https://archive.is/JEWvu  1/13/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 13 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻(Partially) destroyed 7 Merkava tanks, 1 APC & 2 military D9-bulldozer in various combat zones in the Strip.
+
+🔻Targeted an infantry force with TBG shells, east of Khan Yunis.
+
+🔻Eliminated 2 Zionist soldiers from point-blank range, east of Khan Yunis.
+
+🔻Detonated an anti-personnel explosive device, targeting a special Zionist infantry force of 4 soldiers advancing towards Ain Nafa tunnel east of Khan Yunis.
+
+🔻Shelled a gathering of military vehicles & soldiers, east of Khan Yunis with heavy-caliber mortars.
+
+🔻Targeted an IOF helicopter, east of Khan Yunis, with a surface-to-air missile (SAM).
+
+🔻Targeted an infantry force with a 'Ra'diya' anti-personnel explosive, east of Khan Yunis.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Clashed with IOF forces, using machine guns & anti-tank shells in the axes east of Bureij & Mughazi camps in central Gaza.
+
+🔻Shelled Zionist soldiers' gathering points in the axes north and east of Bureij camp in central Gaza with a barrage of mortars.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Shelled military vehicles, southeast of Al-Zaytoun neighborhood with a number of mortars.
+
+🔻Clashed with IOF forces in Al-Mahatta axis, east of Khan Younis, hitting them directly and causing deaths and injuries.
+
+🔻Clashed with IOF forces, in the Mukhabarat area north of Gaza City, followed by detonating an explosive in one of the military vehicles, hitting it directly, causing deaths and injuries.
+
+🟡 Hezbollah:
+
+🔻Targeted the Al-Aasi site with appropriate weapons, causing a direct hit.
+
+🔻Targeted the Birkat Risha site with appropriate weapons, causing a direct hit.
+
+🔻Targeted the Branit base and its surroundings with rockets, causing a direct hit.
+
+🔻Targeted IOF soldier near in Hunin with appropriate weapons, causing a direct hit.
+
+🔻Targeted IOF soldier in Tayhat Hills with rockets, causing a direct hit.
+
+🔻Targeted the Shtula settlement with appropriate weapons, leading to the damage of one of the buildings.
+
+🔻Targeted the Ruwaysat Al-Alam (Mount Dov) site in the occupied Shebaa farms with rockets.
+
+🔻Targeted a Merkava tank during its shelling of Lebanese villages.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked Kharab al-Jir US base in Syrian depth with a missile barrage.
+
+🔻Attacked 2 US bases in Syria’s Green Village & Al-Omar field with suicide drones. 
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1746350375471399363#m  1/13/24
+
+>🚨 Tasnim News Agency:
+
+Terrible explosion occurred in Bazan’s refinery in Haifa Bay. Some Zionist analysts claim that a cyber attack on the infrastructure of this refinery is more likely the reason.
+https://nitter.net/AryJeay/status/1746508581313147198#m  1/14/24
+
+>🛑 BREAKING: 
+
+Iran's infiltration of the Deputy Intelligence commander of the Israeli Army.
+
+According to Tasnim, commander Shakhar Yousefzadeh of the israeli intelligence agency ‘Aman’ was killed during a staged accident inside an Aman base, 3 years ago, after leaking vital information about military & security locations and israeli commanders to Iranian intelligence sources.
+
+Shahar Yousefzadeh, Iranian by origin, in occupied Palestine, was reportedly in charge of the deputy command of a unit within the Israeli Military Intelligence (AMAN) at the time of his death.
+
+He reportedly had extensive connections with high-ranking israeli military officers and was responsible for the vehicle unit in Galilot and Sannirim, 2 major AMAN bases.
+https://nitter.net/AryJeay/status/1746517397823992123#m  1/14/24
+
+>BREAKING| According to the Government Media Office, Israel committed over 2000 massacres across the Gaza Strip in 100 days, killing over 23,000 innocent civilians.
+https://nitter.cz/QudsNen/status/1746502648709124292#m  1/14/24
+
+>BREAKING| The Government Media office: Israel committed 11 massacres in the last 24 hours, killing 125 civilians. 
+
+(Illustrative photo)
+https://nitter.cz/QudsNen/status/1746501199791079786#m  1/14/24
+
+>⚡️Mujahideen Brigades:
+
+ Once again, we targeted the #Israeli Hermes 900 drone with a surface-to-air missile in the airspace of #Gaza City, and the targeting process was documented.
+https://nitter.net/ME_Observer_/status/1746449475109855528#m  1/14/24
+
+As the US continues to fully support Israel, the latter continues to slaughter Palestinians in Gaza. 
+
+Entire neighborhoods have been wiped out along with their inhabitants and Civil Defense teams stress that they cannot reach thousands of victims under the rubble and in the streets.
+https://nitter.cz/QudsNen/status/1746518381086335088#m  1/14/24
+
+🚨🚨
+
+>"Maariv": A strong explosion was heard in Haifa Bay near the refineries
+https://nitter.net/Lebnews2004/status/1746431054649450843#m  1/14/24
+
+>Media coverage | Despite criticism for his stance on the Israeli war on Gaza, Keir Starmer, the leader of the Labor Party, remains steadfast in his position and refuses to call for an unconditional immediate ceasefire in Gaza.
+https://nitter.cz/QudsNen/status/1746528484170612950#m  1/14/24
+
+>Namibia strongly condemns Germany’s defense of Israel at ICJ amidst ongoing genocide in Gaza
+https://nitter.cz/QudsNen/status/1746532035252863171#m  1/14/24
+
+>Media coverage | During presidential candidates debates, Florida Governor Ron DeSantis expressed support for ethnically cleansing Palestinians in Gaza, stating that Israel "needs to do that to avert a second Holocaust."
+https://nitter.cz/QudsNen/status/1746532535633322404#m  1/14/24
+
+>🚨 Two Yemeni naval speed boats approached a ship in the Red Sea to warn it. 
+
+Interestingly, this time it is more further away of the Yemeni coast compared to past events.
+https://nitter.net/AryJeay/status/1746537980586565875#m  1/14/24
+
+>In the devastating 100-day period of the continuous Israeli genocide in Gaza, 337 paramedics lost their lives, 99 were unjustly detained, and the assault targeted 30 hospitals and 121 ambulances. This relentless brutality paints a grim picture of an unyielding Israeli assault on those dedicated to saving lives.
+https://nitter.cz/QudsNen/status/1746541818961952801#m  1/14/24
+
+>Media coverage | According to reports from Israeli media: Close associates of the U.S. president believe that Netanyahu is prolonging the duration of the war for political and personal reasons."
+https://nitter.cz/QudsNen/status/1746539024993382470#m  1/14/24
+
+>In the devastating 100-day period of the continuous Israeli genocide in Gaza, 337 paramedics lost their lives, 99 were unjustly detained, and the assault targeted 30 hospitals and 121 ambulances. This relentless brutality paints a grim picture of an unyielding Israeli assault on those dedicated to saving lives.
+https://nitter.cz/QudsNen/status/1746541818961952801#m  1/14/24
+
+>🚨 Rocket attack from Gaza by the Al-Qassam Brigades (Hamas) towards Isdud
+https://nitter.net/AryJeay/status/1746546391239782785#m  1/14/24
+
+>Children in Gaza endure agonizing hours waiting for food as a result of the crippling Israeli blockade.
+https://nitter.cz/QudsNen/status/1746555113303347341#m  1/14/24
+
+>⚡️Lebanon: Al-Mayadeen correspondent in southern #Lebanon: 8 military operations targeted sites and gatherings of occupation soldiers today on the border with Palestine.
+https://nitter.net/ME_Observer_/status/1746557064304906339#m  1/14/24
+
+>Video of Israeli strikes using white phosphorus and incendiary munitions, targeting the towns of Kafr Kila, Al-Adisa, and Rab Thilaine in southern Lebanon.
+https://nitter.cz/QudsNen/status/1746563673269633215#m  1/14/24
+
+>⚡️If Americans are adamant on escalation against Yemen, the Mediterranean will become the next theatre 
+
+This is a long war, and escalation is gradual because neither side wants an all-out mass destruction war, but at the same time, neither side wants to back down. So, each side escalates over time to strengthen their positions,  and these escalations lead to new fronts and new theaters.
+https://nitter.net/ME_Observer_/status/1746561341639237966#m  1/14/24
+
+>☠️ The israeli army admits the killing of 2 israelis as a result of Hezbollah’s ATGM attack on Kfar Yuval:
+
+🔻Barak Ayalon, an israeli soldier of the Kfar Yuval's security unit. His mother Mira was also killed. This is in response to the death of Lebanese civilians.
+https://nitter.net/AryJeay/status/1746567665919922505#m  1/14/24
+
+>🚨🇾🇪Yemeni Saba Agency: 
+
+American-British aggression targets Jabal Jad’a in Al-Lahiya District in the coastal province of Al-Hudaidah, west of Yemen. 
+
+There are also intense flights of spy planes in the area.
+https://nitter.net/AryJeay/status/1746569216562545141#m  1/14/24
+
+>Israeli air strikes pretty deep in southern Lebanon, in the Jebel Safi area.
+https://nitter.net/AryJeay/status/1746577278413271401#m  1/14/24
+
+>The enemy conducted 6 air raids in Iqleem Al-Tuffah & Mt. Raihan:
+-2 airstrikes with heavy missiles on Aaqmata & Tanas
+-4 drone attacks on the hilltops between Mt. Safi & Mleekh
+
+>The attacks hit open areas; no casualties or damage.
+
+Note that these areas are far from the border.
+https://nitter.net/political_aya__/status/1746584863098953886#m  1/14/24
+
+>⚡️Video by Al-Qassam Brigades (Hamas) showing their rocket launches targeting Isdud, earlier today. 
+
+The sticker on the launcher says: 
+
+“Al-Aqtufan
+100 days of the battle, steadfast under fire, and we have more”
+https://nitter.net/AryJeay/status/1746588033904714208#m  1/14/24
+
+>Protesters and runners in Houston are demonstrating at the Chevron Houston Marathon, urging the Houston Marathon Committee to terminate its sponsorship deal with Chevron. Chevron's lucrative extraction operations contribute substantial funds to Israel's government.
+https://nitter.cz/QudsNen/status/1746584671402569887#m  1/14/24
+
+>Children in Gaza are gathering leaves to burn as their only source of heat, expressing frustration and irony by mockingly referring to Egypt as the "mother of the world." This situation highlights the challenges faced by the people of Gaza, aggravated by the closure of borders by both Egypt and Israel, limiting the entry of essential goods and worsening their living conditions.
+https://nitter.cz/QudsNen/status/1746591779418194117#m  1/14/24
+
+>⚡️Iraqi sources: Initial reports of a bombing targeting the American occupation base in the “Conico” gas field in Deir ez-Zor.
+https://nitter.net/ME_Observer_/status/1746589910801203655#m  1/14/24
+
+>⚡️Syria: Al-Mayadeen correspondent: A missile attack targeted American forces at the Kharab al-Jir base in #Syria
+https://nitter.net/ME_Observer_/status/1746591559401754963#m  1/14/24
+
+>WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF soldiers & their vehicles, in the Bureij camp in the central Gaza Strip.
+https://nitter.net/AryJeay/status/1746598054633881873#m  1/14/24
+
+>⚡️Speech HIGHLIGHTS of Al-Qassam spox, Abu Ubaida:
+
+• We targeted and disabled 1000 Israeli military vehicles in Gaza over 100 days.
+
+• The Battle of Al-Aqsa Storm was an important battle in the history of the nation and ummah and a cry that was raised for the freedom of all nations.
+
+• The information we receive from various fronts in the resistance nexus indicates that they will expand their strikes in the coming days if the aggression on Gaza continues.
+
+• We have no option but to use all our power to respond to the enemy's killings and crimes against our nation.
+
+• We inflicted severe blows on the enemy and we continue to inflict more severe blows on it than the blow on the 7th of October.
+
+• Most of the ammunition and weapons we used were from domestically produced by the Qassam Brigades. These industries wouldn't have been effective against the dirty American arsenal if it weren't for the more significant industry—the Palestinian mujahid fighter whose will and determination, no force on earth, can withstand.
+
+• What will technology and deadly weapons do against the power of faith in a mujahid who spends two months or more in his defensive position, awaiting victory over his enemy, counting it all for Allah, believing in his cause? The testimonies of our heroic mujahideen returning from the front lines confirm their faith and greatness.
+
+• Our fighters return with shocking testimonies about the lack of faith among IOF soldiers and how they flee despite carrying weapons and equipment.
+
+• The illusion of heroism displayed by the occupation army is a subject of mockery even for the youngest Palestinian child.
+
+• The enemy’s announcements of imaginary achievements regarding rockets and tunnels are a subject of ridicule for us, and the day will come when we prove their falsehood.
+
+• Any talk other than stopping the aggression against our people has no value
+
+• Neither displacement nor indiscriminate destruction achieved anything for them but shame, and they haven’t recovered any prisoners, just as the mask has fallen from this aggressive terrorist entity.
+
+• The fate of many prisoners has become unknown during the past weeks.
+
+• Most likely many prisoners were killed and the enemy bears responsibility for their fate.
+
+ • We believe that it is our jihad duty to inform 2 billion Muslims that within 100 days the enemy has desecrated dozens of mosques in Gaza and stopped the call to prayer and its performance in a clear religious war.
+https://nitter.net/AryJeay/status/1746600452840423719#m  1/14/24
+
+>⚡️More
+Ships crossing the Red Sea raise the slogan “Do not cooperate with #Israel” to prevent them from being targeted..
+https://nitter.net/ME_Observer_/status/1746615970246905951#m  1/14/24
+
+>🛑 | 🇮🇶 BREAKING: Islamic Resistance in Iraq announces 3 major attacks:
+
+They attacked, using missiles and drones:
+
+🔻US Kharab al-Jir base
+🔻US base in Erbil Airport
+🔻US base in Conoco
+https://nitter.net/AryJeay/status/1746629613130854425#m  1/14/24
+
+>⚡️Al-Qassam (Hamas) published a video of prisoners inside Gaza captioned with:
+
+“Tomorrow we will inform you of their Fate. Your government is lying”
+https://nitter.net/AryJeay/status/1746632272256630982#m  1/14/24
+
+>⚡️Hezbollah published a new video showing several operations that targeted both military bases & colonies on the border with Lebanon.
+https://nitter.net/AryJeay/status/1746656089704198261#m  1/14/24
+
+>The Red Cross has issued a statement marking 100 days of Israel's genocide in Gaza, extending sympathy to Israeli detainees without any mention of over 23,000 victims and over 60,000 injuries of Israel's carnage, or to over 11,000 Palestinian hostages in Israeli jails.
+https://nitter.cz/QudsNen/status/1746655260414783652#m  1/14/24
+
+>⚡️Al-Qassam Brigades’s Spox Abu Obeida speech, with english subtitles. 
+
+Courtesy of RNN for providing the subs.
+https://nitter.net/AryJeay/status/1746688248548655276#m  1/14/24
+
+>Israeli forces demolished the house of the former detainee Saleh Abu Saleh in Qalqilya under the pretext that it was built without a permit. 
+
+Israeli soldiers prevented the family of Abu Saleh from saving anything of the contents of the house.
+https://nitter.cz/QudsNen/status/1746685128728879610#m  1/14/24
+
+>BREAKING| US Secretary of State, Antony Blinken, has published a post marking 100 days of Israel's war on Gaza, expressing sympathy with Israeli detainees only. 
+
+He added that the US "will not rest" until all Israeli detainees are united with their families. 
+
+During the 100 days of genocide, Israel killed over 23,000 Palestinians, half of whom are children, wounded over 60,000, and kidnapped over 5000.
+https://nitter.cz/QudsNen/status/1746698164390740200#m  1/14/24
+
+>BREAKING| Israeli forces force the family of another released detainee in Qalqilya in the West Bank to evacuate their house in preparation for its demolition.
+https://nitter.cz/QudsNen/status/1746689610070036788#m  1/14/24
+
+>BREAKING| An Israeli bulldozer is demolishing right now the house of the released detainee Bassam Yasin in Qalqilia in the West Bank.
+https://nitter.cz/QudsNen/status/1746694387977933287#m  1/14/24

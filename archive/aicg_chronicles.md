@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-12==
+# /aicg/ chronicles, up to ==2024-01-14==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -979,6 +979,18 @@ When | Where | What
 2024-01-12|[98403206](https://desuarchive.org/g/thread/98401781#98403206)| a dev shills tryspellbound\.com switching between Claude and "another model", defends it
 2024-01-12|[98405220](https://desuarchive.org/g/thread/98404376#98405220)| Maid app update, remote APIs and other stuff added, looks great
 2024-01-12|[98411683](https://desuarchive.org/g/thread/98410939#98411683)| chub-archive proxy tracking is now byou
+2024-01-13|[98418475](https://desuarchive.org/g/thread/98417729#98418475)| moemate\.io introduces modules
+2024-01-13|[98420672](https://desuarchive.org/g/thread/98419843#98420672)| OAI quietly allows to use its technology for military purposes
+2024-01-13|[98421630](https://desuarchive.org/g/thread/98419843#98421630)| jennyanon conjures a black kitten at his front-fucking door, not a robot therefore safe
+2024-01-13|[98423377](https://desuarchive.org/g/thread/98422075#98423377)| changes in GPT4's web browsing explained, assumed cost-cutting, quality drop expected
+2024-01-13|[98423584](https://desuarchive.org/g/thread/98422075#98423584)| bored anon sends password reset emails to CharacterHub users
+2024-01-13|[98424509](https://desuarchive.org/g/thread/98422075#98424509)| more fearmongering from Anthropic, what if llms become deceptive
+2024-01-13|[98426530](https://desuarchive.org/g/thread/98426312#98426530)| over 50 million characters on c\.ai
+2024-01-14|[98436988](https://desuarchive.org/g/thread/98435927#98436988)| anon wonders why not waste time read lot word despite few word do trick
+2024-01-14|[98440233](https://desuarchive.org/g/thread/98438277#98440233)| sakura\.fm is brought up, insane prices laughed at
+2024-01-14|[98445596](https://desuarchive.org/g/thread/98443248#98445596)| ohmygpt\.com is brought up as a potential paid source, looks suspicious
+2024-01-14|[98446458](https://desuarchive.org/g/thread/98446117#98446458)| anon shares the finished network diagram of CharacterHub followers, visualizing relationships between botmakers
+2024-01-14|[98447903](https://desuarchive.org/g/thread/98446117#98447903)| first (?) OAI """GPT""" bot shilled
 -|-|-
 
 [](you have found my secret stash of nothing!)

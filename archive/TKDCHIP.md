@@ -1045,6 +1045,8 @@ https://files.catbox.moe/n5gb3g.mp4 New  1/10/24
 >Al-Qassam Brigades publishes new scenes from its battles with the occupation in Khan Yunis.
 https://files.catbox.moe/nhxjx2.mp4 New  1/13/24
 https://files.catbox.moe/aa2vxu.mp4 New  1/13/24
+>Al-Qassam (Hamas) published a video showing its forces clash with IOF soldiers & their vehicles, in the Bureij camp in the central Gaza Strip.
+https://files.catbox.moe/7lm2sd.mp4 New  1/14/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1060,6 +1062,8 @@ https://files.catbox.moe/4uiw7d.mp4 New  1/8/24
 >"Hezbollah" published footage showing the targeting of Zionist positions and equipment in "Metula". 
 -"حزب الله" ينشر مشاهد استهداف مواقع ومعدات صهيونية في الـ"مطلّة".
 https://files.catbox.moe/d5p19l.mp4 New  1/8/24
+>Hezbollah operations that targeted both military bases & colonies on the border with Lebanon.
+https://files.catbox.moe/wxuq9q.mp4 New  1/14/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1229,3 +1233,12 @@ https://files.catbox.moe/rdbrcz.mp4 New  1/13/24
 https://files.catbox.moe/1hu6n0.mp4 New  1/13/24
 >Shooting Stars (Yassin-105s)
 https://files.catbox.moe/ea7uim.mp4 New  1/13/24
+>Video by Al-Qassam Brigades (Hamas) showing their rocket launches targeting Isdud, earlier today. The sticker on the launcher says: “Al-Aqtufan 
+100 days of the battle, steadfast under fire, and we have more”
+https://files.catbox.moe/7wgtks.mp4 New  1/14/24
+>Speech HIGHLIGHTS of Al-Qassam spox, Abu Ubaida:
+https://files.catbox.moe/ziar0a.mp4 New  1/14/24
+>Al-Qassam (Hamas) published a video of prisoners inside Gaza captioned with: “Tomorrow we will inform you of their Fate. Your government is lying”
+https://files.catbox.moe/vdpoum.mp4 New  1/14/24
+>Al-Qassam Brigades’s Spox Abu Obeida speech, with english subtitles. Courtesy of RNN for providing the subs.
+https://files.catbox.moe/7xi8zn.mp4 New  1/14/24

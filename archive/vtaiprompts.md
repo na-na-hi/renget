@@ -547,7 +547,7 @@ Negatives:
 	race bib, lanyard, sneakers, black sweater, purple sweatpants,
 
 #####Petra
-	petra gurin, nijisanji, blue eyes, brown hair, orange hair, multicolored hair, streaked hair, tied hair, short hair, fish hair ornament, mohawk,  
+	petra gurin, nijisanji, blue eyes, dark purple hair, orange hair, multicolored hair, streaked hair, tied hair, short hair, fish hair ornament, mohawk,  
 Negatives: twintails, two side up, braid, hat, beret, headwear, 
 !!! note Notes:
 	* Her hair ornament almost always looks stupid, feel free to just remove it.

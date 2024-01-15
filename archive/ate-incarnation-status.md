@@ -72,6 +72,9 @@ You can infuse divinity into your body, causing you to move faster. This does no
 >Guerilla Tactics (1):
 Hides the presence of yourself and designated allies. Consumes influence proportional to the number of targets. Can fail against higher level authorities. Does not negate the effects of items.
 
+>Scribe of Dysnomia (1):
+Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Consumes 1 divinity per second.
+
 ##Titles:
 
 ><First Blood>:
@@ -96,3 +99,9 @@ Synchronization Rate: 20%
 Synchronization Rate: 10%
 >Pride of Artemis, Ceryneian Hind:
 Synchronization rate: 1%
+>Dysnomia, Goddess of Lawlessness: 
+Synchronization rate: 79.83%
+>Philotes, Spirit of Friendship and Intercourse: 
+Synchronization Rate: 3.3%
+>Opaline Offering, Cretan Bull: 
+Synchronization Rate: 82.5%

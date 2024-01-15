@@ -41,13 +41,17 @@
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
 
-### 🔗 [Dhokla](https://dhokla.net/) / [2](https://vadapav.mov/)
+### 🔗 [Dhokla](https://dhokla.net/) / [2](https://na1.dhokla.net) / [3](https://nl1.dhokla.net) / [4](https://vadapav.mov)
 - No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/dhokla.net/)
 
 ### 🔗 [Dramaday](https://dramaday.me/)
 - Concentrate on downloading the newest Korean dramas as is original soundtracks.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
+
+### 🔗 [edytjedhgmdhm](https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
+- Seamless downloading experience with a range of Korean dramas, movies, and TV shows.
+- [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
 
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.

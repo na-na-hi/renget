@@ -42,6 +42,8 @@ Ikari Michita, The Mad Screamer
 >>91493870
 Aino Sasaki, Project Invidia
 >>91542925
+Kenji Yamada, Chuunimaxxer Supreme
+>>91560279
 
 >Greed
 Naoki Arai, Impossibility Tinker
@@ -84,6 +86,8 @@ Yuki Tanaka, Abyssal Sovereign
 >>91486160
 Ashton Ramsey
 >>91495567
+Yeshua, The Butterfly Man
+>>91556594
 
 >Envy
 Aki Hitoyoshi

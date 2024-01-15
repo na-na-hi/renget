@@ -267,8 +267,13 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[3]** *"""Bad""" ending is the Based ending*](https://arch.b4k.co/vp/thread/55217655/)
 
 ###->Soulstones<-
-!!! info
-	**Status: In Progress**
+!!! note
+	**Status: Complete**
 [**[1]** *Being an amnesiac time janny is certainly something*](https://arch.b4k.co/vp/thread/55231975/)
 [**[2]** *nooooo you can't kill the bad guys! that's le bad!*](https://arch.b4k.co/vp/thread/55236135/)
-[**[3]**](https://arch.b4k.co/vp/thread/55239569/)
+[**[3]** *It's finally fucking over, thank god*](https://arch.b4k.co/vp/thread/55239569/)
+[**[End]** *Postgame discussion/Break thread for Wagie and I*](https://arch.b4k.co/vp/thread/55244556/)
+
+###->Soulstones 2<-
+!!! warning
+	**Status: not started yet**
