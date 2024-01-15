@@ -300,6 +300,18 @@ https://archiveofourown.org/works/38199973
 
 https://archiveofourown.org/works/38750565
 
+###FacelessUser
+
+>The Shadow of Chernobyl
+
+https://archiveofourown.org/works/47304895/chapters/119196343
+
+###fakklan
+
+>Yeen Central
+
+https://archiveofourown.org/works/53003707/chapters/134090479#workskin
+
 ###Ghoti
 
 https://rentry.org/GhotiWriter

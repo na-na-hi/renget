@@ -252,6 +252,8 @@ More comfort = more AP/energy.
 Recommended levels are a meme for missions, ignore them. You can beat missions 10-20 levels underneath the recommended levels. 
 
 You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
+![CC in BA](https://i.imgur.com/dRYPRoE.png)
+
 If you have trouble with the boss you can charge ur EX bar to 10 the battle before.
 
 I'd recommendat using Tactical Supports. They can carry a lot of the missions by themselves. 
@@ -384,6 +386,9 @@ You don't lose your coins after a refresh.
 Yes. The ticket expires on the last day of the next month after the raid. So it has a limit of around 40 days. 
 Example: the ticket from the Grand Raid of February expires on the 31st of March. 
 
+>Can I see my past raid rankings?
+[Yes.](https://i.imgur.com/VmVNcj3.png).
+
 ## Joint Firing Drill/Joint Exercise 
 !!! Warning LOOK AT A YOUTUBE VIDEO
 It's commissions but with a unique gimmick. The gimmick changes every time, so no 2 drills are the same. 
@@ -483,8 +488,6 @@ You can't unlock/redeem limited students through this shop, so don't buy them if
 The gear blueprints are a godsend though. Everything about this shop is honestly. Thank you, John Nexon. 
 
 - Can I redeem limited units if I buy their elephs?
-
-
 READ NIGGA READ
 ![how2read (not to be confused with how to read)](https://i.imgur.com/LCmON51.png)
 
@@ -515,7 +518,7 @@ You can dump excessive mats from useless schools (like Red Winter, Shanghai, Ari
 
 You can also trade your useless furnitures away for a specific one you want, which is pretty neat. If it's worth the purple fusion stone is for you to decide. 
 
-You're able to combine ur raid statues into a display one, which let's you see your past raid rankings 
+You're able to combine ur raid statues into a display one, which let's you see your [past raid rankings](https://i.imgur.com/VmVNcj3.png)
 
 >Misc. info
 Feel free to use the speedup tickets, you'll have a billion of them lying around. 

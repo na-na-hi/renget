@@ -101,7 +101,10 @@ https://www.youtube.com/live/tR6yFoZ4NPE?si=LnF0vS-wficFua35&t=6476
 -> ![](https://implyingrigged.info/w/images/thumb/e/e0/Mayo-rooster.jpg/500px-Mayo-rooster.jpg) <-
 
 Go **YATTA~**!
-[Match Archive](https://implying.fun/vtl5/)
+[Match Archive: VT League 5](https://implying.fun/vtl5/)
+[Match Archive: VT League 6 Friendlies](https://implying.fun/vtl6f/)
+
+[VT League 6 Friendlies Intro](https://www.youtube.com/watch?v=SOd6GpYrEwg)
 
 https://files.catbox.moe/ghcmpp.mp3
 https://files.catbox.moe/6nxexh.mp3

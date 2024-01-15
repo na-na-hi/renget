@@ -164,12 +164,3 @@ Ragtag Archive| [Link](https://archive.ragtag.moe/)|
 Archive Org| [Link](https://archive.org)| Other people use this website to archive random Vtuber vods sometimes, so if youre looking for specific vods this might be of use
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
-
----
-#Some ways to contact me, if needed:
-If you have any questions or things to ask, or need to contact me for whatever reason, check the Contact information section below:
-Content|Link|Description 
--------|-------|------- 
-General Information about IRC |[Link](https://rentry.org/IRC_Stuff)| 
-Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
-/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net

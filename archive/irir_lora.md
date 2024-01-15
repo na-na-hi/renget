@@ -435,7 +435,7 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 
 ## SDXL
 学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。~~TEが二つあるせいでTE込みの学習が激ムズらしい。~~ 実際はそうでもない
-現状マルゼン式(タグの集約)は良くない感じ。タグは消さずに残すべし。
+マルゼン式(タグの集約)もSD1.5と同様に機能する。
 
 ### 学習に使うウェイト
 四つのcheckpointで比較する。
@@ -618,6 +618,6 @@ SDXLは高性能なため16以下で良い。
 - networks.lora
 - 4000-6000steps,Dim8/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
-- キャプションはそのままで、shuffle captionはオフ
+- キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!(--mixed_precisionではない)
 - gradient_checkpointingオンでもVRAMあふれる状況ならオフにしたほうが速い

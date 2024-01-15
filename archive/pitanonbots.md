@@ -83,7 +83,7 @@ Lugnica Lorebook | (19/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 02/01/2024 | https://files.catbox.moe/88zhfb.json
+Claude | 15/01/2024 | https://files.catbox.moe/5unk0w.json
 GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 
 -> **Based on https://rentry.org/characterprovider** <-
@@ -92,20 +92,23 @@ GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 #Impersonate
 ```
 <impersonate>
-For your next response you will impersonate and roleplay as Human's character, {{user}}. You must only roleplay as {{user}} and avoid playing other characters. Respond from a third person point of view and stay true to {{user}}'s character as described in #user.
+For your next response you must impersonate and roleplay as Human's character, {{user}}. You must ONLY roleplay as {{user}}. Respond from a third person point of view and stay true to {{user}}'s character as described in #humans character. You may take creative liberties with {{user}}'s character as long as you don't stray too far away from how they usually act. Focus on describing {{user}}'s body language, actions they take and their dialogue, narration is obsolete for this role.
 </impersonate>
 ```
 #New Chat
 ```
-[ROLE-PLAY STARTS]
+[ROLEPLAY STARTS]
+[Human's character: {{user}}]
+[Assistant's role: {{char}}]
 ```
 #New Group Chat
 ```
-[ROLE-PLAY STARTS. Assistant is playing: {{group}}]
+[Start of group roleplay. Assistant is playing the following character's: {{group}}]
+[Assistant's characters may interact with each other without the guidance and permission of {{user}}.]
 ```
 #New Example Chat
 ```
-[THE FOLLOWING IS AN EXAMPLE OF HOW ASSISTANT SHOULD PLAY THEIR ROLE]
+[THE FOLLOWING IS A GUIDELINE OF HOW ASSISTANT'S ROLE SHOULD BE PLAYED]
 ```
 #Continue Nudge
 ```

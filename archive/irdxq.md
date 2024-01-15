@@ -27,9 +27,8 @@ Dates are based on EST
 	>==Audio== 
 	
 	>==Chapters== 
-	> - **12/25 - Added**
-	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/irdxq/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)  
-	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/irdxq/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c) 
+	> - **01/15 - Added**
+	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE] [4774gd3zEqE]](https://rentry.org/irdxq/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe)   
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -1480,7 +1479,7 @@ CHAPTER58NAME=Dango Daikazoku - Chata (Acapella)
 CHAPTER59=03:05:51.000
 CHAPTER59NAME=Brave Song - Aoi Tada (Acapella)
 CHAPTER60=03:07:22.000
-CHAPTER60NAME=Secret base ~Kimi ga Kureta Mono~ (10 years after Ver.)  (Acapella)
+CHAPTER60NAME=Secret base ~Kimi ga Kureta Mono~ - Zone  (Acapella)
 CHAPTER61=03:09:42.000
 CHAPTER61NAME=Departures ~Anata ni Okuru Ai no Uta~ - EGOIST (Acapella)
 CHAPTER62=03:11:33.900
@@ -1994,7 +1993,7 @@ CHAPTER21NAME=Release My Soul - Guilty Crown (Acapella)
 CHAPTER22=01:32:50.234
 CHAPTER22NAME=14. resonance - T.M.Revolution (Acapella TV Size)	
 CHAPTER23=01:35:17.700
-CHAPTER23NAME=15. Secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (Acapella)
+CHAPTER23NAME=15. Secret base ~Kimi ga Kureta Mono~ - Zone (Acapella)
 CHAPTER24=01:40:37.900
 CHAPTER24NAME=Inochi ni Kirawarete iru. - Kanzaki Iori  (Acapella)
 CHAPTER25=01:42:55.084
@@ -3578,6 +3577,64 @@ CHAPTER23=01:45:11.824
 CHAPTER23NAME=19. Drummer Boy - Justin Bieber & Busta Rhymes
 
 ```
+***
+***
+######『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:03:15.000
+CHAPTER01NAME=Start
+CHAPTER02=00:04:02.000
+CHAPTER02NAME=Opening again
+CHAPTER03=00:04:10.000
+CHAPTER03NAME=Start
+CHAPTER04=00:10:45.000
+CHAPTER04NAME=OTONABLUE
+CHAPTER05=00:12:26.000
+CHAPTER05NAME=01. OTONABLUE - Atarashii Gakko!
+CHAPTER06=00:21:45.000
+CHAPTER06NAME=02. Amanojaku - 164
+CHAPTER07=00:29:45.000
+CHAPTER07NAME=03. Torinoko City - 40mP
+CHAPTER08=00:36:22.000
+CHAPTER08NAME=04. Naimononedari - Kana-Boon
+CHAPTER09=00:41:09.000
+CHAPTER09NAME=Sneeze
+CHAPTER10=00:42:19.000
+CHAPTER10NAME=Announcement
+CHAPTER11=00:53:05.000
+CHAPTER11NAME=Idol Meeting
+CHAPTER12=00:54:02.000
+CHAPTER12NAME=AFK
+CHAPTER13=00:55:22.000
+CHAPTER13NAME=Back
+CHAPTER14=01:00:15.000
+CHAPTER14NAME=05. Mighty Long Fall - ONE OK ROCK
+CHAPTER15=01:06:26.000
+CHAPTER15NAME=06. Wherever You Are - ONE OK ROCK
+CHAPTER16=01:12:18.000
+CHAPTER16NAME=07. Silhouette - Kana-Boon
+CHAPTER17=01:16:51.000
+CHAPTER17NAME=08. Secret base ~Kimi ga Kureta Mono~ - Zone
+CHAPTER18=01:25:07.000
+CHAPTER18NAME=W / X / Y (Acapella)
+CHAPTER19=01:27:16.000
+CHAPTER19NAME=09. W / X / Y - Tani Yuuki
+CHAPTER20=01:34:10.000
+CHAPTER20NAME=10. Sekaiwa Koi Ni Ochiteiru - CHiCO with HoneyWorks
+CHAPTER21=01:40:48.000
+CHAPTER21NAME=Naraku no Hana (Acapella)
+CHAPTER22=01:41:32.000
+CHAPTER22NAME=11. Naraku no Hana - Eiko Shimamiya
+CHAPTER23=01:46:33.000
+CHAPTER23NAME=Dear you (Acapella)
+CHAPTER24=01:47:20.000
+CHAPTER24NAME=Dear you -Trust- (Acapella)
+
+```
+
 ***
 ***
 !!! danger 

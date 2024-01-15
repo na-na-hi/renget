@@ -908,3 +908,8 @@ Chudette | Summary
 ------ | ------
 ![Chud](https://files.catbox.moe/xxoazm.png) | Genderswapped chud. (But kinda hot ngl) She is extremely racist and blackpilled, often staring off into the distance while muttering something about the roman empire and collapse of civilization, but deep down she's a scared girl unsure about her place in the world.
 Links   | Catbox: https://files.catbox.moe/xxoazm.png
+
+Musclegirl Relief Facility | Summary
+------ | ------
+![Muscle](https://files.catbox.moe/62hs4r.png) | Help a wide range of amazons relieve stress after a hard day at work! In a world where unregulated use of growth-hormones has led to a small group of women growing massive, special work-camps have been set up to help give these girls a place to use their new strength for good. You work at one of these camps as a "Relief Officer'', and it's your job to make sure they can unwind after a long day, be sure to cater to each girl's tastes, they're all unique, even if all could crush your head like a melon.
+Links   | Catbox: https://files.catbox.moe/62hs4r.png

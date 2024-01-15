@@ -215,13 +215,13 @@ Below are links to the Prototype r10 e7 model; you probably won't need it, but i
 
 ###Fluff_Proto Merges
 
-	0.7(revAnimated_v11) + 0.3(fluff_proto_r10_e7_640x): https://easyupload.io/0eqrwu
+0.7(revAnimated_v11) + 0.3(fluff_proto_r10_e7_640x): https://easyupload.io/0eqrwu
 
-	Revfluff : https://pixeldrain.com/u/KJ1TKS26
-	0.8 (fluff_proto_r10_e7_640x) + 0.2( revAnimated_v11)
+Revfluff : https://pixeldrain.com/u/KJ1TKS26
+0.8 (fluff_proto_r10_e7_640x) + 0.2( revAnimated_v11)
 
-	fluff-koto: https://pixeldrain.com/u/mMFsR6Ez
-	0.75 (fluff_proto_r10_e7_640x) + 0.25( kotosmix_v10)
+fluff-koto: ~~https://pixeldrain.com/u/mMFsR6Ez~~ DEAD
+0.75 (fluff_proto_r10_e7_640x) + 0.25( kotosmix_v10)
 
 ### Tism Prism (Sonic characters)
 https://archive.org/details/tism-prism-AI

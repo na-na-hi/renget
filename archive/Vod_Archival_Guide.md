@@ -7,13 +7,4 @@ The goal of this guide was to help people who wanted to archive VoDs but didn't 
 ##Vod Archival Guide Links
 Content|Link|Description 
 -------|-------|------- 
-Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8FmpUIVGPvDRzBd3y5HnalrF1wmiS9fO99N4) | 
-
----
-#Some ways to contact me, if needed:
-If you have any questions or things to ask, or need to contact me for whatever reason, check the Contact information section below:
-Content|Link|Description 
--------|-------|------- 
-General Information about IRC |[Link](https://rentry.org/IRC_Stuff)| 
-Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
-/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
+Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8FmpUIVGPvDRzBd3y5HnalrF1wmiS9fO99N4) |

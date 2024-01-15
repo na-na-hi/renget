@@ -10,9 +10,7 @@ This Archive starts in Nyanners' Vtuber Debut on 2020-07-17 and covers up to the
 #-  Nyanners Vod Archive Spreadsheet:
 Content|Link|Description 
 -------|-------|------- 
-Spreadsheet mirror on Google Docs| [Google Docs](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446) | 
-Spreadsheet mirror on MS onedrive| [MS Onedrive](https://1drv.ms/x/s!AhS3PgDnjlw8kWW4XkbLOYEOuTyo?e=Fn7k8P) | 
- 
+Spreadsheet mirror on Google Docs| [Google Docs](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1544856446) |  
  
 ---
 #Nyanners Vod Archive - MS One Drive Links:
@@ -51,19 +49,5 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
  
 ---
 
-#Nyanners Fanart and reaction pic/gif Archive:  
-##->[Mega](https://mega.nz/folder/WW5SxSxK#RO0I0umTCNFDFN07ndw3pg) - [Ms OneDrive](https://1drv.ms/f/s!AhS3PgDnjlw8iWt5d8XGtJM4zzOy?e=29DVbV)<-
-
----
-
 #Nyanners Karaoke Clip Archive: 
 ##->[Mega - (.mp3)](https://mega.nz/folder/CCxyTJyJ#AL1eBZK8PhxukRYQRSbI2g) - [Ms OneDrive - (.mp3 + .mp4)](https://1drv.ms/f/s!Ali7SWBfsKO6ix53k-h2_6kBRWBK?e=4Kc1PL)<-
-
----
-#Some ways to contact me, if needed:
-If you have any questions or things to ask, or need to contact me for whatever reason, check the Contact information section below:
-Content|Link|Description 
--------|-------|------- 
-General Information about IRC |[Link](https://rentry.org/IRC_Stuff)| 
-Recanon IRC (Archival Channel) |[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
-/vt/ IRC (General Discussion Channel)|[Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net

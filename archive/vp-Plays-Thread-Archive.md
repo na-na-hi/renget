@@ -2,12 +2,137 @@
 ***
 After Musk went scorched earth and wiped his Rentry in the Rejuv Multi LP, I ended up making a pastebin for the threads, but only for the Multi LP.
 This is so that we don't have to deal with Musk's Rentry being wiped again.
-At the moment, not all of the LPs are here, but I'll add more as time goes on.
-[Until then, here's a link to a mirror of Musk's Rentry for the older shit](https://rentry.org/sk6dvr)
-
+!~Any threads not here probably means they're in the other rentry,~! [Here's a link to said rentry.](https://rentry.org/vp-Plays-Graveyard)
 ***
 
 [TOC3]
+
+###->Rejuvenation V13<-
+!!! note
+	**Status: Complete**
+[**[1]**](https://arch.b4k.co/vp/thread/50331344/)
+[**[2]**](https://arch.b4k.co/vp/thread/50342282/)
+[**[3]**](https://arch.b4k.co/vp/thread/50354496/)
+[**[4]**](https://arch.b4k.co/vp/thread/50364170/)
+[**[5]**](https://arch.b4k.co/vp/thread/50383404/)
+[**[6]**](https://arch.b4k.co/vp/thread/50401026/)
+[**[7]**](https://arch.b4k.co/vp/thread/50411275/)
+[**[8]**](https://arch.b4k.co/vp/thread/50418067/)
+[**[9]**](https://arch.b4k.co/vp/thread/50428400/)
+[**[10]**](https://arch.b4k.co/vp/thread/50434058/)
+[**[11]**](https://arch.b4k.co/vp/thread/50451254/)
+[**[12]**](https://arch.b4k.co/vp/thread/50474615/)
+[**[13]**](https://arch.b4k.co/vp/thread/50477086/)
+[**[14]**](https://arch.b4k.co/vp/thread/50511233/)
+[**[15]**](https://arch.b4k.co/vp/thread/50517353/)
+[**[16]**](https://arch.b4k.co/vp/thread/50520084/)
+[**[17]**](https://arch.b4k.co/vp/thread/50525356/)
+[**[18]**](https://arch.b4k.co/vp/thread/50541792/)
+[**[19]**](https://arch.b4k.co/vp/thread/50544169/)
+[**[20]**](https://arch.b4k.co/vp/thread/50551458/)
+[**[21]**](https://arch.b4k.co/vp/thread/50571070/)
+[**[22]**](https://arch.b4k.co/vp/thread/50646772/)
+[**[23]**](https://arch.b4k.co/vp/thread/50649836/)
+[**[24]**](https://arch.b4k.co/vp/thread/50674750/)
+[**[25]**](https://arch.b4k.co/vp/thread/50695330/)
+[**[26]**](https://arch.b4k.co/vp/thread/50710503/)
+[**[27]**](https://arch.b4k.co/vp/thread/50712240/)
+[**[28]**](https://arch.b4k.co/vp/thread/50719124/)
+[**[29]**](https://arch.b4k.co/vp/thread/50721712/)
+[**[30]**](https://arch.b4k.co/vp/thread/50727212/)
+[**[31]**](https://arch.b4k.co/vp/thread/50729307/)
+[**[32]**](https://arch.b4k.co/vp/thread/50733864/)
+[**[33]**](https://arch.b4k.co/vp/thread/50735356/)
+[**[34]**](https://arch.b4k.co/vp/thread/50737212/)
+[**[35]**](https://arch.b4k.co/vp/thread/50771919/)
+[**[36]**](https://arch.b4k.co/vp/thread/50776384/)
+[**[37]**](https://arch.b4k.co/vp/thread/50778989/)
+[**[38]**](https://arch.b4k.co/vp/thread/50786797/)
+[**[39]**](https://arch.b4k.co/vp/thread/50792934/)
+[**[40]**](https://arch.b4k.co/vp/thread/50798090/)
+[**[41]**](https://arch.b4k.co/vp/thread/50799279/)
+[**[42]**](https://arch.b4k.co/vp/thread/50803208/)
+[**[43]**](https://arch.b4k.co/vp/thread/50804446/)
+[**[44]**](https://arch.b4k.co/vp/thread/50806917/)
+[**[45]**](https://arch.b4k.co/vp/thread/50810911/)
+[**[46]**](https://arch.b4k.co/vp/thread/50813043/)
+[**[47]**](https://arch.b4k.co/vp/thread/50814288/)
+[**[48]**](https://arch.b4k.co/vp/thread/50819687/)
+[**[49]**](https://arch.b4k.co/vp/thread/50837188/)
+[**[50]**](https://arch.b4k.co/vp/thread/50839703/)
+[**[51]**](https://arch.b4k.co/vp/thread/50842685/)
+[**[52]**](https://arch.b4k.co/vp/thread/50844170/)
+[**[53]**](https://arch.b4k.co/vp/thread/50846003/)
+[**[54]**](https://arch.b4k.co/vp/thread/50867100/)
+[**[55]**](https://arch.b4k.co/vp/thread/50873465/)
+[**[56]**](https://arch.b4k.co/vp/thread/50886220/)
+[**[57]**](https://arch.b4k.co/vp/thread/50887833/)
+[**[58]**](https://arch.b4k.co/vp/thread/50889860/)
+[**[59]**](https://arch.b4k.co/vp/thread/50896180/)
+[**[60]**](https://arch.b4k.co/vp/thread/50901062/)
+[**[61]**](https://arch.b4k.co/vp/thread/50903171/)
+[**[62]**](https://arch.b4k.co/vp/thread/50915516/)
+[**[63]**](https://arch.b4k.co/vp/thread/50924938/)
+[**[64]**](https://arch.b4k.co/vp/thread/50926501/)
+[**[65]**](https://arch.b4k.co/vp/thread/50933615/)
+[**[66]**](https://arch.b4k.co/vp/thread/50942285/)
+[**[67]**](https://arch.b4k.co/vp/thread/51054128/)
+[**[68]**](https://arch.b4k.co/vp/thread/51056753/)
+[**[69]**](https://arch.b4k.co/vp/thread/51133440/)
+
+###->Empire V8<-
+!!! note
+	**Status: Completed**
+[**[1]**](https://arch.b4k.co/vp/thread/51366462/)
+[**[2]**](https://arch.b4k.co/vp/thread/51368760/)
+[**[3]**](https://arch.b4k.co/vp/thread/51375385/)
+[**[4]**](https://arch.b4k.co/vp/thread/51381408/)
+[**[5]**](https://arch.b4k.co/vp/thread/51387895/)
+[**[6]**](https://arch.b4k.co/vp/thread/51389528/)
+[**[7]**](https://arch.b4k.co/vp/thread/51409430/)
+[**[8]**](https://arch.b4k.co/vp/thread/51434427/)
+[**[9]**](https://arch.b4k.co/vp/thread/51443507/)
+[**[10]**](https://arch.b4k.co/vp/thread/51453058/)
+[**[11]**](https://arch.b4k.co/vp/thread/51471484/)
+[**[12]**](https://arch.b4k.co/vp/thread/51489300/)
+[**[13]**](https://arch.b4k.co/vp/thread/51868978/)
+[**[14]**](https://arch.b4k.co/vp/thread/51871975/)
+
+###->Xenoverse<-
+!!! danger
+	**Status: ded**
+[**[1]**](https://arch.b4k.co/vp/thread/51626929/)
+[**[2]**](https://arch.b4k.co/vp/thread/51635973/)
+[**[3]**](https://arch.b4k.co/vp/thread/51655877/)
+[**[4]**](https://arch.b4k.co/vp/thread/51683923/)
+[**[5]**](https://arch.b4k.co/vp/thread/51686415/)
+[**[6]**](https://arch.b4k.co/vp/thread/51718512/)
+[**[7]**](https://arch.b4k.co/vp/thread/51721194/)
+[**[8]**](https://arch.b4k.co/vp/thread/51725311/)
+[**[9]**](https://arch.b4k.co/vp/thread/51730733/)
+[**[10]**](https://arch.b4k.co/vp/thread/51750632/)
+[**[11]**](https://arch.b4k.co/vp/thread/51760079/)
+[**[12]**](https://arch.b4k.co/vp/thread/51810074/)
+
+###->Opal<-
+!!! note
+	**Status: Completed**
+[**[1]**](https://arch.b4k.co/vp/thread/51868978/)
+[**[2]**](https://arch.b4k.co/vp/thread/51871975/)
+[**[3]**](https://arch.b4k.co/vp/thread/51882385/)
+[**[4]**](https://arch.b4k.co/vp/thread/51905683/)
+[**[5]**](https://arch.b4k.co/vp/thread/51961356/)
+[**[6]**](https://arch.b4k.co/vp/thread/52102017/)
+[**[7]**](https://arch.b4k.co/vp/thread/52123785/)
+[**[8]**](https://arch.b4k.co/vp/thread/52153246/)
+[**[9]**](https://arch.b4k.co/vp/thread/52232415/)
+[**[10]**](https://arch.b4k.co/vp/thread/52254402/)
+[**[11]**](https://arch.b4k.co/vp/thread/52297850/)
+[**[12]**](https://arch.b4k.co/vp/thread/52321282/)
+[**[13]**](https://arch.b4k.co/vp/thread/52393565/)
+[**[14]**](https://arch.b4k.co/vp/thread/52429062/)
+[**[15]**](https://arch.b4k.co/vp/thread/52482468/)
+[**[End]**](https://arch.b4k.co/vp/thread/52514761/)
 
 ###->Rejuvenation MM<-
 !!! note
@@ -95,7 +220,7 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[28]** *Vitus finishes the game, the other tripfags are almost there...*](https://arch.b4k.co/vp/thread/54441795/)
 [**[29]** *It ends. Tripfags make the mistake of agreeing to play Empire*](https://arch.b4k.co/vp/thread/54447344/)
 
-###->Empire Multi LP<-
+###->Empire V10 Multi LP<-
 !!! danger
 	**Status: It's over**
 [**[1]** *Alanah impregnated*](https://arch.b4k.co/vp/thread/54459801/)
@@ -114,19 +239,6 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 
 ###->Post Empire/Pre V13.5 Filler LPs<-
 !!! info Games that were played in between the big projects, and didn't last long
-
-####Eternal Order
-!!! danger 
-	**Status: >1 thread**
-[**[1]** *Musk gets filtered, not unusual*](https://arch.b4k.co/vp/thread/54597569/)
-
-####Uranium
-!!! danger 
-	**Status: At least it lasted more than one thread?**
-	Eternal Order kept crashing for Orevald, so he plays Uranium instead
-[**[1]** *Lots of shit designs*](https://arch.b4k.co/vp/thread/54604396/)
-[**[2]** *Aren't nuclear meltdowns fun? Thread dies*](https://arch.b4k.co/vp/thread/54623584/)
-[**[3]** *The radiation poisoning finally catches up to Orevald*](https://arch.b4k.co/vp/thread/54636740/)
 
 ####Detergant
 !!! note 
@@ -193,15 +305,9 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[31]** *It's over...*](https://arch.b4k.co/vp/thread/54914729/)
 
 ###->Post V13.5 Filler Threads<-
-####Whatever
 !!! info **I loaded up Empire during the last Rejuv bread, ignoring everyone's warnings, White Man joined in on my suffering, and another anon was playing Deso, so these threads were made so we could finish and decide what to play next**
 [**[1]** *White Man and I continue to play Empire, Wagie plays through Perish Song, and another anon plays through Desolation*](https://arch.b4k.co/vp/thread/54922633/)
 [**[2]** *Empire crashes, so we look into another game, and decide Myth looks pretty good*](https://arch.b4k.co/vp/thread/54927970/)
-
-####Myth
-!!! danger 
-	**Looks can be deceiving, holy shit**
-[**[1]** E-Speed Rufflet at lv.15 should tell you all you need to know about this shit. Normal mode isn't much better, either. On to Empyrean](https://arch.b4k.co/vp/thread/54934705/)
 
 ###->Empyrean<-
 !!! note 
@@ -251,15 +357,9 @@ At the moment, not all of the LPs are here, but I'll add more as time goes on.
 [**[8]** *Bonding time with the Zapdos*](https://arch.b4k.co/vp/thread/55180438/)
 [**[9]** *Kidnapped by edgy Giratinafags*](https://arch.b4k.co/vp/thread/55185628/)
 [**[10]** *It's over. Urmumium suffering continues, however*](https://arch.b4k.co/vp/thread/55194744/)
+[**[Epilogue]** *Fuck Demice*](https://arch.b4k.co/vp/thread/55205455/)
 
-###->Post Ashen Frost Threads<-
-
-####Urmumium
-!!! info 
-	**Wagie, White Man and I started playing through Urmumium in the last couple of threads, so a thread was made to finish that before we move on to Reminiscencia**
-[**[1]** *Fuck Demice*](https://arch.b4k.co/vp/thread/55205455/)
-
-####Reminiscencia
+###->Reminiscencia<-
 !!! note
 	**Status: Complete**
 [**[1]** *Sexo, as expected from the Realidea devs*](https://arch.b4k.co/vp/thread/55208741/)

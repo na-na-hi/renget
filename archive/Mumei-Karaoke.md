@@ -14,14 +14,12 @@
 	>==Audio== 
 
 	>==Chapters== 
-	> - **12/25 - Added**
-	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/irdxq/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)  
-	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/irdxq/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c) 
+	> - **01/15 - Added**
+	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]](https://rentry.org/irdxq/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe) 
 	
 	>==Karaoke Clips==
-	> - **12/25 - Added**
-	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/5y2mt/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)
-	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/5y2mt/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c)
+	> - **01/15 - Added**
+	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]](https://rentry.org/5y2mt/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe)
 
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)

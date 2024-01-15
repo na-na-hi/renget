@@ -16,9 +16,8 @@
 	>==Audio== 
 	
 	>==Karaoke Clips==
-	> - **12/25 - Added**
-	>- [#57. 『2023-11-24』 - 【UNARCHIVED 歌枠】Turkey Day Karaoke !! [DcPgHGpOQ5g]](https://rentry.org/5y2mt/#2023-11-24-unarchived-%E6%AD%8C%E6%9E%A0turkey-day-karaoke-dcpghgpoq5g)
-	>- [#58. 『2023-12-24』 - 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !! [196LbN_Td2c]](https://rentry.org/5y2mt/#2023-12-24-unarchived-karaoke-%E6%AD%8C%E6%9E%A0merry-christmas-hoomans-196lbn_td2c)
+	> - **01/15 - Added**
+	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE] [4774gd3zEqE]](https://rentry.org/5y2mt/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -799,7 +798,7 @@ Demons - Imagine Dragons   |  https://files.catbox.moe/kyg1fw.mp4    |   https:/
 At the Beginning - Anastasia w/ Bae   |  https://files.catbox.moe/hyjtfd.mp4    |   https://cldup.com/hrZ33tNCzX.mp4
 You - Higurashi (Acapella)   |  https://files.catbox.moe/afwf1g.mp4    |   https://cldup.com/vwDZGNjgpH.mp4
 resonance - T.M.Revolution (Acapella TV Size)  |  https://files.catbox.moe/2qqvg9.mp4    |   https://cldup.com/DsgXvjkE32.mp4
-Secret base ~Kimi ga Kureta Mono~ (10 years after Ver.) (Acapella)   |  https://files.catbox.moe/qvf57h.mp4    |   https://cldup.com/QUR_WWDcxs.mp4
+Secret base ~Kimi ga Kureta Mono~ - Zone (Acapella)   |  https://files.catbox.moe/qvf57h.mp4    |   https://cldup.com/QUR_WWDcxs.mp4
 Ichiban no Takaramono (Yui final ver.) - LiSA (Acapella)   |  https://files.catbox.moe/7srwcf.mp4    |   https://cldup.com/_RNVcy1kPU.mp4
 Chiisana Tenohira - Clannad After Story (Acapella)   |   https://files.catbox.moe/letfss.mp4   |   https://cldup.com/Y7OkMoBQ1A.mp4
 Dango Daikazoku - Chata (Acapella)   |  https://files.catbox.moe/n8j51g.mp4    |   https://cldup.com/AZZWrR-4gg.mp4
@@ -1458,6 +1457,24 @@ Padoru | https://files.catbox.moe/lldqti.mp4  |  https://cldup.com/JU5q6_JhYR.mp
 Grandma Got Run Over by a Reindeer - Elmo & Patsy |  https://files.catbox.moe/o6r5xd.mp4 |  https://cldup.com/cC1uTA7nnU.mp4
 Mistletoe - Justin Bieber | https://files.catbox.moe/170cxo.mp4  |  https://cldup.com/UyIS_HoAMx.mp4
 Drummer Boy - Justin Bieber & Busta Rhymes | https://files.catbox.moe/wfuf79.mp4  |  https://cldup.com/h4P6U_x0hk.mp4
+
+***
+######『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]
+[Go back to the top](https://rentry.org/5y2mt)
+>Timestamps
+01. [OTONABLUE - Atarashii Gakko!](https://youtu.be/4774gd3zEqE?t=746)
+02. [Amanojaku - 164](https://youtu.be/4774gd3zEqE?t=1305)
+03. [Torinoko City - 40mP](https://youtu.be/4774gd3zEqE?t=1785)
+04. [Naimononedari - Kana-Boon](https://youtu.be/4774gd3zEqE?t=2182)
+05. [Mighty Long Fall - ONE OK ROCK](https://youtu.be/4774gd3zEqE?t=3615)
+06. [Wherever You Are - ONE OK ROCK](https://youtu.be/4774gd3zEqE?t=3986)
+07. [Silhouette - Kana-Boon](https://youtu.be/4774gd3zEqE?t=4338)
+08. [Secret base ~Kimi ga Kureta Mono~ - Zone](https://youtu.be/4774gd3zEqE?t=4611)
+09. [W / X / Y - Tani Yuuki](https://youtu.be/4774gd3zEqE?t=5236)
+10. [Sekaiwa Koi Ni Ochiteiru - CHiCO with HoneyWorks](https://youtu.be/4774gd3zEqE?t=5650)
+11. [Naraku no Hana - Eiko Shimamiya](https://youtu.be/4774gd3zEqE?t=6092)
+[Dear you (Acapella)](https://youtu.be/4774gd3zEqE?t=6393)
+[Dear you -Trust- (Acapella)](https://youtu.be/4774gd3zEqE?t=6440)
 
 ***
 ***
