@@ -1,9 +1,6 @@
-# JP character impressions
+# JP character impressions (Defunct since Shizurunotes died, as of Jan 14th, 2024.)
 
 Just some thoughts on newly released units since P.Inori (all thoughts were written either right after their 1st CB or on release.)
-More units can be added as requested in the thread or clan chat, old or new.
-
-No skill images will be provided.
 [TOC2]
 
 ### ->Phantom Thief Inori ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
@@ -1301,16 +1298,3 @@ Cons:
 - No healing
 - No TP Restoration/Regeneration
 - No damage reduction
-
-### ->New Year's Kasumi ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-
-****
-
-
-
--> ![NY.Kasumi]()<-
-
-Pros:
-- 
-
-Cons:
--

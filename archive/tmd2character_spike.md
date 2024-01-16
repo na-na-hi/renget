@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 11 | **Experience to Next Level:** 15/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 670₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 40 points to spend.
+    You have 58 points to spend.
     4/10 +2 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

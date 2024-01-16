@@ -5,7 +5,7 @@ prefer gelbooru (NAI) tags as the main ones were mapped when training on sankaku
 add `letterbox` in the negative prompt, all letterbox'd images were tagged in training so this helps a bit.
 danbooru tags are a subset of gelboorus, for example danbooru only has `gaping`, where as gelbooru has `gaping`, `gaping pussy` and `gaping anus`
 
-[SD Exchange discord](https://discord.gg/trXFqstuzm)
+[SD Exchange discord](https://discord.gg/V6yrp3vedd)
 
 [HOW TO USE](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 

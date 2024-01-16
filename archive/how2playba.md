@@ -289,7 +289,7 @@ For a 3* you need 120 shards to unlock the student. A hard node drops on average
 As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/zP1uCQN.png)
+![hard nodes to farm](https://i.imgur.com/55LLbPe.png)
 If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 
@@ -382,9 +382,17 @@ In battle, at the top left of your screen it shows if it's a mock battle. If the
 No. There's a limit on every item you can buy, and the shop refreshes before a new raid. Don't be a retard. 
 You don't lose your coins after a refresh. 
 
->in Grand Raids/Elimination Raids I saw that there's a 10 roll ticket, does it expire? 
+>In Grand Assault/Elimination Raid I saw that there's a 10 roll ticket, does it expire? 
 Yes. The ticket expires on the last day of the next month after the raid. So it has a limit of around 40 days. 
 Example: the ticket from the Grand Raid of February expires on the 31st of March. 
+
+>If there's a Grand Raid happening, can I borrow more than 1 student?
+You get 1 borrow per ticket. This means that if you use another ticket by doing a different 2nd raid you get another borrow.
+You can't reuse the same borrowed student on the same day.
+
+>I'm lazy, do I lose my ticket if I log miss the first day of Grand Raids?
+No, the tickets stack.
+You can save ur tickets until the last day and sweep the raid. You still need to clear it at least once, so don't be lazy.
 
 >Can I see my past raid rankings?
 [Yes.](https://i.imgur.com/VmVNcj3.png).
@@ -433,7 +441,7 @@ Don't use ur elephs for [farmable characters](https://rentry.co/how2playba#farma
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/wBDFItJ.png)
+![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/uRlXlyz.png)
 
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
@@ -480,7 +488,7 @@ They're okay. If you need them they're handy. I always buy them, but I'm 2 years
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert)
-![expert permit priority](https://i.imgur.com/gZ2b8lv.png) 
+![expert permit priority](https://i.imgur.com/LEvZnzl.png) 
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
 Credits > Limited Elephs (that you need) > Pins (if you need) > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.

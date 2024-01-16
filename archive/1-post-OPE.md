@@ -23,7 +23,7 @@ Next stream: Advent karaoke relay (Fri 01/19 9:30 PM CT)
 Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
 https://www.youtube.com/watch?v=RhAMbkt35ps
 Last stream: Unarchived offcolab karaoke with Kiara
-https://mega.nz/file/k85DWY6Y#Wxvy5BCfM9ZHGHz2hAUFunTR4C1j_F__fLbfHozNqPY
+https://mega.nz/folder/nG4iHSID#TaecwQ8wQc-u7hQANIXTpg
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
