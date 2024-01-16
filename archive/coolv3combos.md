@@ -251,6 +251,13 @@ boy portrait | warrior woman | jungle statue | random fun
 ------ | ------ | ------ | ------
 ![](https://files.catbox.moe/hza5qg.png) | ![](https://files.catbox.moe/1lz2k6.png) | ![](https://files.catbox.moe/tcbxx4.png) | ![](https://files.catbox.moe/ujzd4l.png)
 
+``` html
+artist:redjuice, artist:noeyebrow (mauve), artist:xaxaxa, 
+```
+boy portrait | warrior woman | jungle statue | random fun
+------ | ------ | ------ | ------
+![](https://files.catbox.moe/gfe0gz.png) | ![](https://files.catbox.moe/1rldhl.png) | ![](https://files.catbox.moe/zuoqck.png) | ![](https://files.catbox.moe/ixntjb.png)
+
 ***
 ***
 ***

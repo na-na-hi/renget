@@ -1,9 +1,9 @@
 #Atë: Goddess of Fall and Ruin
 >God Rank: C
 >Synchronization Rate: 100%
->Level: 7
->Influence: 5943/6400
->Divinity: 300/300
+>Level: 8
+>Influence: 1247/12800
+>Divinity: 325/325
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
 
@@ -19,7 +19,7 @@ All of your authorities are more effective against individuals who either like y
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (15/15):
+##Authorities (14/15):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
@@ -31,7 +31,7 @@ It is possible to add non-human features to your disguises so long as they don't
 
 When imitating a specific person, their mannerisms, accent, habits, and language of origin become natural to you.
 
->Whisper of Temptation (6):
+>Whisper of Temptation (7):
 While in effect, individuals sustain permanent losses to their capacity for delayed gratification and impulse control, becoming more severe the longer they hear your voice. Recordings are sufficient for this effect. It is possible to lower the inhibitions of specific impulses. However, the more specific your restrictions, the longer it takes for your authority to take hold, and the more likely it is for your <Whispers> to not have any effect at all. (25 divinity/level per hour). It is also possible to use this authority with nonverbal sounds, such as breaths, footsteps, or clapping.
 
 It is possible to implant not only specific desires, but specific directives through your voice. However, as before, the more specific the command and the less in line with the desires of the target, the more exposure is necessary to bring about the desired effect
@@ -40,10 +40,12 @@ You are capable of using your <Whisper of Temptation> to illicit not only desire
 
 It is also possible to produce a much more immediate effect with this authority by having the intended outcome align with the words you say. 
 
->Touch of Madness (5):
+Individuals who succumb to this authority will feel a sense of reverence for you if they are aware of your existence.
+
+>Touch of Madness (6):
 You may target one individual by making physical contact with them, causing them to temporarily lose all restraint, engaging in indiscriminate violence, extreme indulgence in sex, food, or substances, or even suicide. You may choose what vice they succumb to provided that those impulses existed in at least some capacity within the target. However, these impulses can be resisted with enough willpower, depending on the authority's level. It is possible to project the effects outward beyond your hand, expending one additional point to increase the radius by a number of inches equivalent to the skill's level. You may expend as many points per usage as you would like, however, only one desire can be stoked per target. (5 divinity per use)
 
-It is possible to make considerable alterations to the target's sense of reality. For example, as long as the approximate size, rigidity, and shape of an object is maintained, the affected individual could perceive the object as anything. The target's brain will automatically fill in the information to meet the <Concept> the user choses when the illusions are cast. However, the more outlandish or complex the concept, the more likely the target is to realize they are in an illusion. Once the target realizes that they are under the effects of an illusion, the effects of the authority will immediately end.
+It is possible to make considerable alterations to the target's sense of reality. For example, as long as the approximate size, rigidity, and shape of an object is maintained, the affected individual could perceive the object as anything. The target's brain will automatically fill in the information to meet the <Concept> the user choses when the illusions are cast. However, the more outlandish or complex the concept, the more likely the target is to realize they are in an illusion. Once the target realizes that they are under the effects of an illusion, the effects of the authority will immediately end. It is possible to temporarily paralyze a target who is seeing illusions, allowing them to freely move within it while remaining static in the real world. This does not affect involuntary bodily functions.
 
 >Regeneration (4):
 You may expend divinity to recover from any injury or from supernatural physical conditions such as <Rot> or <Petrification>. The amount of divinity necessary to heal an injury depends on its nature and severity. It is possible for this skill to recover injuries to the brain, such as a concussion, automatically, but it is possible to die from other causes while this process occurs.
@@ -74,9 +76,6 @@ Hides the presence of yourself and designated allies. Consumes influence proport
 
 >Scribe of Dysnomia (1):
 Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Consumes 1 divinity per second.
-
->Berserk (1):
-Increases all of your physical attributes, including durability, proportional to your rage. Additionally, deepens your anger when in use. Consumes divinity proportional to the strength of the authority’s manifestation
 
 ##Titles:
 

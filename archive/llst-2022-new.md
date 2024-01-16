@@ -1,28 +1,16 @@
--> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
+->**Love Live! Seiyuu Thread**<-
 
+-> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
 -> ![](https://files.catbox.moe/r7fzip.jpg)<-
 
-##Changelog:
-==2024.01.03==
-- changed some seiyuu information
-
-==2023.12.14==
-- Ijigen Fes links added
-
-==2023.10.31-30==
-- added 2022 Liella MTV Unplugged bluray rip
-- added Liyuu PB link
-
-==2023.10.14==
-- overhauled seiyuu list to the new format
-- added BluRay links for the 2nd Liella concert
-
-==2023.8.1==
-- Added nijitabi Osaka Leg link
 ***
+**Table of Contents**
+[TOC]
 
-##Thread Template
+*** 
+
+##Thread / OP Template 
 !!! note When making a new thread:
 	- dont be an idiot 
     - follow the template below
@@ -45,12 +33,6 @@ https://discord.gg/TZwԁqbStej
 
 Previous: *>>694201488 (# of previous thread)*
 
-***
-
-##Table of Contents
-[TOC]
-
-*** 
 ##Ideal Links
 **Events tracker:**
 [Ramen Events tracker](https://ramen.events/)
@@ -136,6 +118,25 @@ https://rentry.org/llst-2021-02-bkup
 /t3MkLhzMY4koAktRTTpDKw==/;boards:jp
 /+4cFRiOWmfAgR3Y+pq/20A==/;boards:jp
 ```
+
+##Changelog:
+==2024.01.03==
+- changed some seiyuu information
+
+==2023.12.14==
+- Ijigen Fes links added
+
+==2023.10.31-30==
+- added 2022 Liella MTV Unplugged bluray rip
+- added Liyuu PB link
+
+==2023.10.14==
+- overhauled seiyuu list to the new format
+- added BluRay links for the 2nd Liella concert
+
+==2023.8.1==
+- Added nijitabi Osaka Leg link
+
 ***
 ##Seiyuu Information, Links & SNS
 !!! warning Warning

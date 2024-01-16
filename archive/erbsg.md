@@ -7,23 +7,23 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1633 (1.11 Patch Notes)
+https://playeternalreturn.com/posts/news/1654 (1.12 Patch Notes)
 https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=KqDLrvrl_p0
 
-\>[New Character] Tsubame
-https://www.youtube.com/watch?v=LaTdRGL7NEk
+\>[New Character] Kenneth
+https://www.youtube.com/watch?v=DW56fqBQbeA
 
 \>Lumiapedia - Tsubame
 https://www.youtube.com/watch?v=MGkKkqv0B30
 
-\>Pixel Art Tia
-https://www.youtube.com/watch?v=mH0xyiS5Ous
+\>Tropical Getaway Celine
+https://www.youtube.com/watch?v=ki87rZ7P-gE
 
-\>Candy Cane Hyejin & Ludolph
-https://www.youtube.com/watch?v=R-WSAqnygVE
+\>Wild West Isaac
+https://www.youtube.com/watch?v=raIVuuIukKU
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4
@@ -49,8 +49,6 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://event.playeternalreturn.com/newcharacter/70th/Tsubame (Tsubame Event, ~1/3)
-https://playeternalreturn.com/posts/news/1634 (Drops, ~1/3)
 https://playeternalreturn.com/posts/news/1636 (Holiday, ~1/18)
 
 \>Codes
@@ -63,4 +61,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>459621357
+\>\>460447231

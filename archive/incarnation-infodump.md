@@ -7,6 +7,9 @@ Level up requirements (for skills and levels)
 3 to 4: 400
 4 to 5: 800
 5 to 6: 1600
+6 to 7: 3200
+7 to 8: 6400
+8 to 9: 12800
 
 ##General Information:
 

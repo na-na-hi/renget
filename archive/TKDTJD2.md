@@ -2742,3 +2742,352 @@ https://nitter.cz/QudsNen/status/1746689610070036788#m  1/14/24
 
 >BREAKING| An Israeli bulldozer is demolishing right now the house of the released detainee Bassam Yasin in Qalqilia in the West Bank.
 https://nitter.cz/QudsNen/status/1746694387977933287#m  1/14/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations yesterday, January 14 (2024), against US-israeli forces
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank in Khan Yunis with a Yassin 105, in southern Gaza.
+
+🔻Clashed with a Zionist force, using machine guns in Khan Yunis.
+
+🔻Shelled IOF forces entrenched in the Bureij camp in central Gaza with mortars.
+
+🔻Targeted military vehicles & IOF soldiers in Khan Yunis with mortars.
+
+🔻Targeted a Zionist infantry force with an anti-personnel explosive, causing casualties south of Khan Yunis.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻In a joint-operation with Qassam Brigades, they shelled military positions around the College of Science & Technology in Khan Yunis with a barrage of heavy-caliber mortars.
+
+🔻Shelled a military gathering in central Gaza with regular mortars.
+
+🔻Bombed military positions with Badr-1 IRAM rockets.
+
+🔻Shelled the surroundings of the College of Science and Technology in Khan Yunis with regular 60mm mortars.
+
+🔻Sniper operation targeting a Zionist soldier in the advancing fronts of Khan Yunis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted an israeli Hermes-900 drone with a surface-to-air missile (SAM) in the skies of Gaza.
+
+🔻Shelled IOF command centers in various places inside Gaza and northern areas with short-range rockets and mortars.
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+
+🔻Shelled a gathering of military vehicles and soldiers with a barrage of 120mm mortar, targeting the command and control site in the vicinity of Street 5 in the center of Khan Younis.
+
+🔻 In a joint operation with Saraya Al-Quds, they shelled military vehicles and gatherings in the center of the Khan Younis, surrounding Al-Shuhada Mosque, with a barrage of 120mm mortars.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Clashed with IOF forces in the Jorat Al-Loot and Batn Al-Samin areas in Khan Younis. They succeeded in detonating a guided explosive device at one of the military vehicles, hitting it directly.
+
+🟡 Hezbollah:
+
+🔻 Targeted artillery positions in Khirbet Maar with rockets.
+
+🔻Targeted IOF soldiers' gathering near the Al-Marj site with rockets.
+
+🔻Targeted newly established espionage equipment near Metulla site.
+
+🔻Targeted an israeli military force in the Kfar Yuval settlement with appropriate weapons.
+
+🔻Targeted the Birkat Risha military site with appropriate weapons.
+
+🔻Targeted IOF soldiers' gathering around the Hadb Yaroun military site with rockets.
+
+🔻Intercepted an IOF reconnaissance drone over 2 helicopters with appropriate weapons, leading to its downing.
+
+🔻Targeted the Al-Aasi site with appropriate weapons, achieving a direct hit.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked 3 US bases in Iraq & Syria with missiles and drones: Kharab Al-Jir base, Erbil Airport base, and Conoco base.
+
+This list did not include rockets fired from Gaza towards settlement.
+https://nitter.net/AryJeay/status/1746850193297797477#m  1/14/24
+
+>⚡️The Mujahideen Brigades published a video yesterday, showing them targeting a Hermes-900 drone with a surface-to-air missile (SAM) in the airspace of Gaza City.
+https://nitter.net/AryJeay/status/1746851523873665479#m  1/15/24
+
+>According to the World Food Programme, 9 out of every 10 Palestinians in northern Gaza have less than one meal a day as Israel continues to starve hundreds of thousands of Palestinians there.
+https://nitter.1d4.us/QudsNen/status/1746852954248814894#m  1/15/24
+
+>US is defending its borders by sending 1,500 soldiers 11,000km away from its border 👍🏼
+https://nitter.net/AryJeay/status/1746859070911365552#m  1/15/24
+
+>Breaking| Al Qassam Brigades says it will announce the fate of three detained Israeli soldiers, including Noa Argamani, tonight.
+https://nitter.1d4.us/QudsNen/status/1746860141645832215#m  1/15/24
+
+>🚨 A car-ramming in Ra'anana wounded at least 11 israelis. 
+
+Israeli police are investigating the incident.
+https://nitter.net/AryJeay/status/1746866692842488180#m  1/15/24
+
+>This is a serious attack. 
+
+The casualties reached 17 israelis wounded in the car-ramming in Ra'anana, including 3 in serious condition, 9 in moderate condition.
+https://nitter.net/AryJeay/status/1746870737846124938#m  1/15/24
+
+>‘We have to stop lying to ourselves,’ Eisenkot tells war cabinet
+
+More: qudsnen.co/?p=42918
+https://nitter.1d4.us/QudsNen/status/1746844721308217586#m  1/15/24
+
+>BREAKING| UK Secretary of State for Defence, Grant Shapps, says his country will send 20,000 of British forces to reinforce NATO troops in various regions around the world.
+https://nitter.1d4.us/QudsNen/status/1746837067827396714#m  1/15/24
+
+>BREAKING| Israeli Haaretz reports that Israel's military killed an Israeli soldier, who was fighting in Gaza, while he was approaching the separation fence between Gaza and the occupied land because they thought that he was Palestinian.
+https://nitter.1d4.us/QudsNen/status/1746830645983072400#m  1/15/24
+
+>BREAKING| Following reports that Turkish police arrested an Israeli football player over inciting hatred, Israel's minister of defense says "Turkey works as an executive arm of Hamas."
+https://nitter.1d4.us/QudsNen/status/1746829763673534492#m  1/15/24
+
+>🚨UPDATE:
+
+One of the israelis succumbed to his wounds and died in the Ra’anana car-ramming attack. Another 4 are seriously injured and more than a dozen others wounded.
+https://nitter.net/AryJeay/status/1746872555451932991#m  1/15/24
+
+>Israeli troops demolish two homes in Qalqilia
+https://nitter.1d4.us/QudsNen/status/1746831497623957993#m  1/15/24
+
+>BREAKING| Israeli media report that the player has been released and he will leave the country.
+https://nitter.1d4.us/QudsNen/status/1746825555234672805#m  1/15/24
+
+>BREAKING| The Government Media Office: Israel committed 12 massacres in the last 24 hours in Gaza, killing 132 civilians and wounding 252 others.
+https://nitter.1d4.us/QudsNen/status/1746816677914808801#m  1/15/24
+
+>Footage shows Israeli occupation forces using a civilian as a human shield in clashes today in Hebron, West Bank.
+https://nitter.1d4.us/QudsNen/status/1746887322681893070#m  1/15/24
+
+>🚨🇾🇪 An attack by Yemen targeting a ship southeast of Aden
+https://nitter.net/AryJeay/status/1746888869419639278#m  1/15/24
+
+>⚡️Hezb-Allah has published a video titled:
+
+“One hundred days... and between us and you there will be days after that”
+https://nitter.1d4.us/WarMonitors/status/1746882677829972223#m  1/15/24
+
+>A Palestinian was shot by Israeli forces during the raid on the city of Dura, Hebron. Medical teams and residents were unable to reach him due to Israeli soldiers targeting anyone who tried to approach him.
+https://nitter.1d4.us/QudsNen/status/1746892938632654878#m  1/15/24
+
+>Ra'anana: At least 13 injured in terror attack near Tel Aviv
+https://archive.is/BEiIl  1/15/24
+
+>Breaking | Three Palestinians were injured by Israeli forces gunfire near Tulkarm, two at the 'Anab' checkpoint to the east, and another at the 'Jbara' checkpoint to the south.
+https://nitter.1d4.us/QudsNen/status/1746902318014943580#m  1/15/24
+
+>⚡️The Islamic Resistance in #Iraq:
+
+Continuing our approach to resisting the occupation and supporting our people in #Gaza, we attacked, using appropriate weapons, at dawn today, Friday, a Zionist military target in our occupied territories near the Jordan River Park.
+https://nitter.net/ME_Observer_/status/1746886007457546472#m  1/15/24
+
+>⚡️Lebanon: Islamic Resistance: We targeted a gathering of #Israeli enemy soldiers in the Ramim barracks with missile weapons and achieved direct hits.
+
+⚡️Lebanon: Al-Mayadeen correspondent in the south: Direct fire from #Lebanon was launched towards a military site in the occupied Shebaa Farms
+https://nitter.net/ME_Observer_/status/1746886139670061278#m  1/15/24
+
+>According to reports, the ship that was struck by a missile near Aden, is a US-owned, Marshall Islands-flagged bulk carrier, according to intelligence firm Ambrey, Sky News.
+
+The missile impacted the ship, causing for a fire.
+https://nitter.net/AryJeay/status/1746909016830222641#m  1/15/24
+
+>According to a Yemeni military official on Al Jazeera, AnsarAllah Yemen attacked a ship in the Red Sea that was on its way to israel.
+https://nitter.net/AryJeay/status/1746910834536718604#m  1/15/24
+
+>Breaking | The Israeli military announces the withdrawal of Unit 36 from Gaza, with only Units 99, 162, and 98 remaining in Gaza.
+https://nitter.1d4.us/QudsNen/status/1746908211075051944#m  1/15/24
+
+>🚨🇾🇪 BREAKING: CENTCOM admits:
+
+AnsarAllah Yemen fired an anti-ship ballistic missile (ASBM) and struck the M/V Gibraltar Eagle, a Marshall Islands-flagged, US-owned and operated container ship.
+https://nitter.net/AryJeay/status/1746919877535785199#m  1/15/24
+
+>Israel's continuous land grab in the West Bank: Israeli police, accompanied by a bulldozer, vandalize plastic houses belonging to Palestinian farmers near Jalama village in Jenin.
+https://nitter.1d4.us/QudsNen/status/1746922736675369388#m  1/15/24
+
+>⚡️Enemy media:
+
+ Scenes showing the withdrawal of part of the Zionist army tanks from the #Gaza Strip.
+https://nitter.net/ME_Observer_/status/1746935268777541838#m  1/15/24
+
+>⚡️Hebrew media expressing dissatisfaction after 100 days of war and an admission that its goals had not been achieved.
+https://nitter.net/ME_Observer_/status/1746938079548424334#m  1/15/24
+
+>⚡️Hamas (Al-Qassam) published a video showing the prisoners it promised it would make aware of their state, captioned with:
+
+“While we are still alive, bring us home.”
+https://nitter.net/AryJeay/status/1746941115909956047#m  1/15/24
+
+>Breaking: Al-Qassam Brigades release a video confirming that captive Israeli soldier Noa Argaman is alive, and Al-Qassam soldiers saved her life along with two other Israeli soldier captives after Israeli forces targeted them twice in airstrikes. The contentious Israeli strikes resulted in the killing of two captive Israeli soldiers, and she was the only one who remained alive.
+https://nitter.1d4.us/QudsNen/status/1746944158781046886#m  1/15/24
+
+>Footage shows Israeli tanks withdrawing from Gaza as the Israeli army announces the withdrawal unit 36.
+https://nitter.1d4.us/QudsNen/status/1746938127199969684#m  1/15/24
+
+?⚡️In response to the Israeli military's threats of war on #Lebanon,
+
+Hezbollah publishes :
+
+Hello, greetings and welcome !
+https://nitter.net/ME_Observer_/status/1746932990196715853#m  1/15/24
+
+>⚡️⭕️ #Lebanon, Hezbollah:
+
+Scenes from the operation of the Islamic Resistance targeting a force belonging to the #Israeli enemy army in the settlement of Kafr Yuval (occupied Ibl-Qamh) on the Lebanese-Palestinian border.
+
+The defense secretary contends that the actions of the Houthis in the Red Sea should be viewed independently from the Israel/Gaza situation, citing the considerable distance of 2,600km between the two regions. 
+
+Applying the same logic, one could argue that the Red Sea, which is 4,000km away from the UK, should be considered unrelated to the UK.
+https://nitter.1d4.us/QudsNen/status/1746951518606045407#m  1/15/24
+https://files.catbox.moe/ui6va2.mp4  1/15/24
+
+>⚡️The #Yemeni government affiliated with Saudi Arabia and the #Emirates:
+
+The Houthis are seeking to drag the country into an arena of confrontation for misleading propaganda purposes that have nothing to do with supporting Palestine
+
+We call for policies to manage the crisis associated with the #Houthi_group’s threats to maritime security
+
+We call on the international community to support the #Yemeni government to extend its control over the entire territory of #Yemen
+https://nitter.net/ME_Observer_/status/1746960656060780975#m  1/15/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces spox Yahya sarae:
+
+The Yemeni Armed Forces carried out a military operation targeting an American ship south of Aden, using anti-ship missiles. The strike was precise and direct.
+
+The Yemeni Armed Forces consider all American and British warships participating in the aggression against Yemen as hostile targets within the scope of our forces' objectives.
+
+The Yemeni Armed Forces affirm that retaliation against American and British attacks is inevitable, and any new aggression will not go without a response and punishment.
+
+The Yemeni Armed Forces continue to enforce the decision to block Israeli navigation in the Arabian and Red Seas until the cessation of aggression and the lifting of the siege on the Palestinian people in the Gaza Strip.
+
+The Yemeni Armed Forces confirm the continuation of maritime trade in the Arabian and Red Seas to all destinations, except for the ports of occupied Palestine. They also continue to take all defensive and offensive measures within the right of defense and confrontation against the American-British aggression.
+https://nitter.net/AryJeay/status/1746964081574084992#m  1/15/24
+
+>Israeli soldiers spray-painted genocidal messages inside one of Gaza's houses: "Humanitarian aid = burial coffins."
+https://nitter.1d4.us/QudsNen/status/1746967136252174814#m  1/15/24
+
+>MP Jeremy Corbyn criticizes the British government's attacks on Yemen and its stance on the Israeli war in Gaza.
+https://nitter.1d4.us/QudsNen/status/1746968721241862253#m  1/15/24
+https://files.catbox.moe/d3vvr5.mp4  1/15/24
+
+>🛑 Soroka Hospital in the Negev: 
+
+We received 15 israeli soldiers during the day as a result of the battles in Gaza.
+https://nitter.net/AryJeay/status/1746990464559976915#m  1/15/24
+
+>🛑 | 🇾🇪 AnsarAllah Political Bureau member Muhammad Al-Bukhaiti: 
+
+“The Yemeni Armed Forces are developing [upgrading] their missile capabilities and there will be surprises soon.”
+
+(Via Al-Mayadeen)
+https://nitter.net/AryJeay/status/1746991660511150326#m  1/15/24
+
+>Protesters expressing support for Palestine and Gaza gather in Union Square, Manhattan.
+https://nitter.1d4.us/QudsNen/status/1746987114435121286#m  1/15/24
+
+>⚡️📖 The #Yemen-i military capabilities, the American strikes, and why the USA can't solve the "Yemeni problem" militarily  :
+
+The current military capabilities of #Yemen are new and got built during the 9 year war on Yemen, at the same time as American intelligence was directing the American warplanes that have a Saudi flag painted them. 
+
+Yemen's strike capabilities got built under the fire of around 30,000 airstrikes directed by American intelligence. Everything is designed to stay functional under fire. A bit like the Hamas tunnels.
+
+What will an additional 100 or 200 or even 10,000 airstrikes do on top of the other 30,000 ?
+
+The American strikes on Yemen are not based on a strategic view or goal that can be achieved, they are "disciplinary" strikes of anger that won't change anything in the Yemeni position. 
+
+An expression of frustration without any strategy.
+https://nitter.net/ME_Observer_/status/1746982135112544452#m  1/15/24
+
+>🚨Non-stop sirens louding in the US consultate in Erbil, Iraq. There were reportedly 4 big explosions.
+https://nitter.net/AryJeay/status/1746998858150777028#m  1/15/24
+
+>🚨UNCONFIRMED:
+
+So far, the attack hints at an operation with ballistic missiles and suicide drones that were launched from the west of Iran that targeted israeli and American sites in northern Iraq (Erbil).
+https://nitter.net/AryJeay/status/1747000241742614623#m  1/15/24
+
+Video shows moment of a missile impact in northern Iraq
+https://nitter.net/AryJeay/status/1747002316090220984#m  1/15/24
+
+>🚨| 🇮🇷 CONFIRMED: IRAN attacked israeli/American sites:
+
+The IRGC announced in a statement that it targeted and destroyed spy centers and gatherings of anti-Iranian terrorist groups in the northern-Iraqi region with ballistic missiles.
+
+This attack is likely in response to the Kerman terrorist attack!
+https://nitter.net/AryJeay/status/1747003904645091439#m  1/15/24
+
+The IRGC confirms that the spy sites are destroyed & it will reveal more details later.
+https://nitter.net/AryJeay/status/1747004983768125711#m  1/15/24
+
+>🚨| 🇮🇷 BREAKING: Iran announced #2 operation!!
+
+Report No. 2 issued by the IRGC — In response to the terrorist attacks that targeted Iranian citizens in Kerman, leadership sites and gatherings of terrorist organizations in Syria were targeted with a number of Iranian ballistic missiles, and details will be announced later.
+https://nitter.net/AryJeay/status/1747009581060948091#m  1/15/24
+
+>🛑 | 🇮🇷 A security source: 
+
+The results of the investigation into the Kerman terrorist attack proved that the planners of the attack were planned inside Zionist centers in northern Iraq.
+https://nitter.net/AryJeay/status/1747011124438974649#m  1/15/24
+
+>🚨🚨 UNCONFIRMED: According to sources, the IRGC attack resulted in the death of Peshraw Majid Agha, the Chairman of Empire World and Falcon Group and "Safin Dizaei", who are close associates of Masoud Barzani, and have close relations with the Israeli regime.
+https://nitter.net/AryJeay/status/1747022572640673853#m  1/15/24
+
+Alleged video shows the first moments of discovering Peshraw Dizayee’s body. 
+
+He found out.
+https://nitter.net/AryJeay/status/1747025703571255539#m  1/15/24
+
+>BREAKING| Iran's Revolutionary Guard says it carried out Ballistic missile attacks on "espionage headquarters and anti-Iranian terrorist groups in parts of the region in response to recent terrorist crimes."
+
+The footage is of the moment when an American military site in Erbil was targeted.
+https://nitter.1d4.us/QudsNen/status/1747025959335727433#m  1/15/24
+
+>BREAKING| Nearly 50 South African lawyers are preparing a separate lawsuit against the US and UK governments on the grounds that they are complicit in Israeli forces' war crimes in Palestine.
+https://nitter.1d4.us/QudsNen/status/1747027385050886467#  1/15/24
+
+>The aftermath of Peshraw Dizayee’s house, the most famous businessman of Erbil has been destroyed up to a radius of several hundred meters, which killed him along with 4 others.
+
+Peshraw was an israeli-linked businessman who sold Iraqi resources to israel.
+https://nitter.net/AryJeay/status/1747031427961467101#m  1/15/24
+
+>Incoming reports indicate that a large number of rescue, fire and ambulance vehicles are present at the Mossad headquarters in Erbil, Iraq, and other places that were attacked by IRGC missiles, indicating a significant number of casualties and damage caused.
+https://nitter.net/Sprinter99800/status/1747030694239375810#m  1/15/24
+
+>🇮🇷 Tonight marks Iran's longest range missile operation, targeting terrorist centers from a distance of more than 1,230km.
+
+Analysts have considered this action as a clear message from Iran to the Zionist regime. (Via IRNA)
+https://nitter.net/AryJeay/status/1747034489421738278#m  1/15/24
+
+>⚡️ Gadi Eisenkot - Minister in the War Council:
+
+We have to stop lying and make a deal that will return the kidnapped people
+https://nitter.net/ME_Observer_/status/1747035714758307999#m  1/15/24
+
+>🔻🔻🔻Day 100:
+—Large IOF withdrawal from Gaza
+—Resistance op in "Tel Aviv"
+—Yemeni missile hits US ship in Red Sea
+—IRGC attack Mossad HQ in Erbil
+—IRGC attack US elements in Erbil
+—IRGC attack US-led terrorists in Syria
+—Suspected infiltration from Egypt, gunfire clash with IOF
+https://nitter.net/IbnRiad/status/1747035319445147966#m  1/15/24
+
+>Additional pictures of the aftermath of Peshraw’s residence. The entire place got crushed into dust… damn
+https://nitter.net/AryJeay/status/1747049685469041100#m  1/15/24
+
+>🛑 | 🇮🇷 Khaybar Shekan’s first real military use:
+
+According to IRNA military correspondent @mohshaltouki Iran most likely used the advanced Khaybar Shekan ballistic missile, in its most longest range operation, that hit terrorist sites inside Syria.
+
+It has a range of 1450km.
+https://nitter.net/AryJeay/status/1747045626414571737#m  1/15/24
+
+>🚨🇾🇪 Security incident regarding a ship, north of Bab El Mandab strait.  
+
+Likely another Yemen attack.
+https://nitter.net/AryJeay/status/1747047397564334582#m  1/15/24

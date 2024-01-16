@@ -1064,6 +1064,9 @@ https://files.catbox.moe/4uiw7d.mp4 New  1/8/24
 https://files.catbox.moe/d5p19l.mp4 New  1/8/24
 >Hezbollah operations that targeted both military bases & colonies on the border with Lebanon.
 https://files.catbox.moe/wxuq9q.mp4 New  1/14/24
+>Lebanon, Hezbollah: Scenes from the operation of the Islamic Resistance targeting a force belonging to the #Israeli enemy army in the settlement of Kafr Yuval 
+https://files.catbox.moe/4itwei.mp4 New  1/15/24
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1252,3 +1255,7 @@ https://files.catbox.moe/dxyu3c.mp4 New  1/15/24
 https://files.catbox.moe/is7y96.mp4  1/15/24
 >Hamas (Al-Qassam) published a video showing the prisoners .... “While we are still alive, bring us home.”
 https://files.catbox.moe/8qqw5u.mp4 New  1/15/24
+>Video shows moment of a missile impact in northern Iraq
+https://files.catbox.moe/4hoid0.mp4 New  1/15/24
+>The footage is of the moment when an American military site in Erbil was targeted.
+https://files.catbox.moe/sqn385.mp4 New  1/15/24

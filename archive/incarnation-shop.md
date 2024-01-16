@@ -47,6 +47,12 @@ Consumable. Has the same effect as a standard Drop of Chaos, but the deleterious
 >Authority Crystal (Low Grade): 300
 Can store an authority from level 1-3. Any incarnation, not just the original owner, can subsume that Authority by touching the crystal for 1 hour. Can be used as an ingredient for divine artifacts
 
+>Trapper: 500
+Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
+
+>Hydra’s Head: 500
+As <Lizard’s Tail>, but cannot be canceled out by use of a <Trapper>.
+
 >Pantheon Compass: 300
 Points towards the nearest member of your pantheon who also possesses a Pantheon Compass
 
@@ -62,6 +68,8 @@ Points to another incarnation, provided you know both their divine and pre-deifi
 >Assassin Ticket 700: 
 Allows you to see incarnations with <Hunt Tickets> without them being able to see you
 
+>Epithet Holder: 2,000
+Holds up to one of the <Myths> stored as an epithet. Can be sold for both the price of the holder and an amount of influence proportional to the god rank of the epithet. Epithets at a synchronization rate of 100% cannot be placed in an epithet holder. Alternatively, can be used to transfer the epithet to another incarnation or <Deify> a willing mortal. Mortals deified in this way will not grant any influence or authorities upon being eliminated.
 
 ##Authorities:
 
@@ -95,11 +103,17 @@ Allows you to fly freely through the air at a speed of 20mph multiplied by the s
 >Divine Body (1): 500
 Expends divinity to temporarily increase the strength, endurance, and speed of an incarnation, proportional to the divinity expended (from 1 to 60 divinity an hour. Higher usages may be harmful to the body).
 
+>Enchant Item (1): 500
+Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
+
 >Divine Construct (1): 600
 Allows you to create objects out of divinity. The amount depends on the size and complexity of the object. The object will be visible to mortals and look as if made of a glowing, translucent material that matches the color of your divinity. Consumes divinity to maintain.
 
 >Miracle of Healing (1) 800:
 Allows you to expend divinity to heal wounds, both of yourself and others
+
+>Induct (EX): 1,000
+Allows you to grant an authority to a mortal, either directly or via an authority crystal. The target will gain the Pseudo-Myth: <Cultist of <Your Incarnation Name>>. They share your directives, and any influence, authorities, epithets, or titles garnered by the target are granted to you instead. It is possible for an <Inductee> to betray their god, at which point they will lose their power and pseudo-myth. Authority vanishes upon a single use.
 
 >Immortality (EX): 1,000,000
 You cannot be killed. You lose this skill if you are unable to move for 10 years
