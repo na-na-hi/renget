@@ -1,9 +1,9 @@
 #Atë: Goddess of Fall and Ruin
 >God Rank: C
 >Synchronization Rate: 100%
->Level: 6
->Influence: 942/3200
->Divinity: 275/275
+>Level: 7
+>Influence: 5943/6400
+>Divinity: 300/300
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
 
@@ -19,7 +19,7 @@ All of your authorities are more effective against individuals who either like y
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (13/15):
+##Authorities (15/15):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
@@ -31,8 +31,8 @@ It is possible to add non-human features to your disguises so long as they don't
 
 When imitating a specific person, their mannerisms, accent, habits, and language of origin become natural to you.
 
->Whisper of Temptation (5):
-While in effect, individuals sustain permanent losses to their capacity for delayed gratification and impulse control, becoming more severe the longer they hear your voice. Recordings are sufficient for this effect. It is possible to lower the inhibitions of specific impulses. However, the more specific your restrictions, the longer it takes for your authority to take hold, and the more likely it is for your <Whispers> to not have any effect at all. (25 divinity/level per hour).
+>Whisper of Temptation (6):
+While in effect, individuals sustain permanent losses to their capacity for delayed gratification and impulse control, becoming more severe the longer they hear your voice. Recordings are sufficient for this effect. It is possible to lower the inhibitions of specific impulses. However, the more specific your restrictions, the longer it takes for your authority to take hold, and the more likely it is for your <Whispers> to not have any effect at all. (25 divinity/level per hour). It is also possible to use this authority with nonverbal sounds, such as breaths, footsteps, or clapping.
 
 It is possible to implant not only specific desires, but specific directives through your voice. However, as before, the more specific the command and the less in line with the desires of the target, the more exposure is necessary to bring about the desired effect
 
@@ -75,11 +75,19 @@ Hides the presence of yourself and designated allies. Consumes influence proport
 >Scribe of Dysnomia (1):
 Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Consumes 1 divinity per second.
 
+>Berserk (1):
+Increases all of your physical attributes, including durability, proportional to your rage. Additionally, deepens your anger when in use. Consumes divinity proportional to the strength of the authority’s manifestation
+
 ##Titles:
 
 ><First Blood>:
 You may plunder (EX) rated authorities, but in a degraded state
 However, other incarnations will be able to identify you as the holder of this title.
+
+><Seventh Labor of Heracles>:
+Whenever you use a <Beast Tracker> you may overcome masking or stealth authorities used by your target that are lower in level than your Incarnation Level.
+
+All <Labor of Heracles> titles may be freely exchanged between incarnations, unlike other titles. A special reward is granted to any incarnation that collects every <Labor of Heracles> title. Only one incarnation can hold any given <Labor> title at a time. Even if another incarnation meets the requirements, they cannot gain the same <Labor> title as another living incarnation.
 
 ##Epithets:
 
@@ -105,3 +113,5 @@ Synchronization rate: 79.83%
 Synchronization Rate: 3.3%
 >Opaline Offering, Cretan Bull: 
 Synchronization Rate: 82.5%
+>Tisiphone, Avenger of Murder: 
+Synchronization Rate: 12.3%

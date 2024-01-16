@@ -5,7 +5,7 @@
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 ##### Currently Tracked locks
-_(Updated 13-Jan-2024)_
+_(Updated 15-Jan-2024)_
 
 !!! note 
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -13,14 +13,12 @@ _(Updated 13-Jan-2024)_
 
 | User | URL | Expiration |
 | -- | -- | -- |
-| cagedsub__ | https://chaster.app/sessions/lOV5tTsyx0R7i7uk |  0 Thread(s) |
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
 | Spaday | https://chaster.app/sessions/VVFRwZ5OrbL6cFk9 | === |
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
-| mosque | https://chaster.app/sessions/Upoerqh4q3ggFuRk | 0 Thread(s) |
 | 00dest | https://chaster.app/sessions/B9oFDARB4lhX8K72 | 01-Feb-2024 |
 | Chastgenbitch | https://chaster.app/sessions/kFVWZStaQEWRTI4M | === |
 | DegradeMe | https://chaster.app/sessions/hpUMfzRRfU8OABQK | === |
@@ -35,6 +33,7 @@ _(Updated 13-Jan-2024)_
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
 | Joyous | https://chaster.app/sessions/sQouXTXDBdZKDQxG | === |
 | Sissydenied | https://chaster.app/sessions/Cn7scvYnAQtI6hp5 | === |
-| umbaqaduyevua | https://chaster.app/sessions/TqcAcgiuZL927FOe | === |
+| sbjo | https://chaster.app/sessions/0paNFuoA4oivvg7u | === |
+| umbaqaduyevua | https://chaster.app/sessions/yF2393kuv7xoTVz2 | === |
 |  |  |  |
 |  |  |  |

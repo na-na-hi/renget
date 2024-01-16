@@ -511,11 +511,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang)
-https://rentry.org/pe93w
->The Other Side - C Part 2 (Arena, Orbit, Yamata)
-https://rentry.org/5oanb
-
+MHA is sharpening its pointy stick and waiting to ambush its next victim...!
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/

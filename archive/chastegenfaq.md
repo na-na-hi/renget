@@ -18,6 +18,9 @@ https://rentry.org/chastegenfaq
 \>Lock Tracker & Guide
 https://rentry.org/chastegenlocktracker
 
+\>Discord
+gg/BUKKVzaXYf
+
 \>Guide to Nipple Orgasms
 (PDF) https://files.catbox.moe/fa55vs.pdf
 (Audio) https://files.catbox.moe/uheaeu.zip

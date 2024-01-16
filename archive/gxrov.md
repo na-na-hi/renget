@@ -36,9 +36,6 @@ https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
  
 **Steam VR Wheel**: An emulated steering wheel using SteamVR controllers for people without an actual one
 https://github.com/mdovgialo/steam-vr-wheel
-
-**Universal Unreal Engine VR Mod**: A universal injector for adding VR support to Unreal Engine 4.8 - 5.3 games. Results vary depending on the game, but it works pretty well in some cases, and the Flat2VR discord has some premade configs. Supposedly some utilities are in the works to make the process of finding compatible games and using premade configs easier, but there's still nothing ready yet.
-https://uevr.io/
  
  
  
@@ -220,6 +217,9 @@ https://github.com/KozGit/DOOM-3-BFG-VR/releases
  
 **Alien: Isolation**: Supports VR through the MotherVR mod. No tracked hands or roomscale, but it works fine otherwise, and the atmosphere is great in VR.
 https://github.com/Nibre/MotherVR/releases
+
+**Universal Unreal Engine VR Mod**: A universal injector for adding VR support to Unreal Engine 4.8 - 5.3 games. Results vary depending on the game, but it works pretty well in some cases, and the Flat2VR discord has some premade configs. Supposedly some utilities are in the works to make the process of finding compatible games and using premade configs easier, but there's still nothing ready yet.
+https://uevr.io/
  
 **Dolphin VR**: Experience your favorite Gamecube, Wii and Virtual Console games in a whole new way in Virtual Reality. The VR port is incredibly outdated, but it's still possible to get it working on modern headsets. Be warned, many games require tinkering in order to work properly in VR, as certain HUD elements must be culled out so you can see. Once you get things working, however, Dolphin VR can deliver some unforgettable experiences as you look at your childhood favorites in a whole new way.
 https://dolphinvr.wordpress.com/downloads/

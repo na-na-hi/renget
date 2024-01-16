@@ -3,17 +3,15 @@
 !!!info Always announce when you're making the next thread so we're avoiding doubles. Announce it in the middle of page 10.
 !!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
 
-!!!danger Temporary merge announcement
-    If a dedicated /ope/ thread isn't up consider using the merge thread that is being produced for the duration of Nerissa's and Kiara's joint Maldives trip. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 216th time, what is Ope?!
+For the 217th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>New covers
-Premiere of Yuki no Hana - Nakashima Mika (Thu  01/11 7PM CT | 2AM CET): https://www.youtube.com/watch?v=SPWsptIhKkM
+Cover of Yuki no Hana - Nakashima Mika: https://www.youtube.com/watch?v=SPWsptIhKkM
 Advent group cover of BABYMETAL - MEGITSUNE: https://www.youtube.com/watch?v=OffTXFgbn7A
 
 \>New merch
@@ -21,11 +19,11 @@ Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.holo
 hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
 
 \>Streams
-Next stream: Unspecified offcollab with Kiara on Kiara's channel, Sun 01/14
+Next stream: Advent karaoke relay (Fri 01/19 9:30 PM CT)
+Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
+https://www.youtube.com/watch?v=RhAMbkt35ps
 Last stream: Unarchived offcolab karaoke with Kiara
 https://mega.nz/file/k85DWY6Y#Wxvy5BCfM9ZHGHz2hAUFunTR4C1j_F__fLbfHozNqPY
-Previous appearance (Beach zatsudan offcollab with Kiara on Kiara's channel)
-https://www.youtube.com/watch?v=xgawWfP-s6o
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
@@ -44,7 +42,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>66157181
+Previous thread: >>66793793
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

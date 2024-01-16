@@ -68,6 +68,8 @@
 [Atrios](https://files.catbox.moe/ae8riq.png)
 [Flandric Scarlet](https://files.catbox.moe/ewz8gr.png)
 [Tinsel](https://files.catbox.moe/ckwcf9.png)
+[Craig](https://files.catbox.moe/btr0uu.png)
+
 **Assorted Fembots:**
 [AI-EX (Alex), technically genderneutral but I'm not making a new category](https://beta.character.ai/chat?char=HmTcexOAP9Bn2jv0-v_Kch30m_9TDue3Ieic2MVL3pE)
 [Chara](https://beta.character.ai/chat?char=OR0j93iECLeB9hPgOrVbqOUGjoqwSwjGUm7CO1AP5y0) https://files.catbox.moe/0ngbg9.png

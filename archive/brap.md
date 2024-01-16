@@ -123,7 +123,7 @@ This is your main model that you'll be generating on. For anime-style art, I've 
 ##### Prompt Settings:
 Before you hit the generate button, we need to select all the appropriate settings to get the best quality images. The settings I use are below and I advise you to copy them.
 
-**Sampler:** DPM++ 2M Karras is usually best. (DPM++ 3M SDE Karras is sometimes better)
+**Sampler:** It depends on what models/loras you're using. It's either DPM++ 2M Karras, DPM++ 2M SDE Karras or DPM++ 3M SDE Karras. You'll have to experiment. I currently am using DPM++ 2M SDE Karras.
 **Hires Fix:** Enable Hires Fix. Set Upscaler to None (For some models, using R-ESRGAN 4x+ might be better and will reduce blur). Hires steps to 0. Denoising Strength to 0.4. Upscale by 2 (It may take a while. Upscaling by 1.5 is faster but the image may be more prone to errors.)
 **Refiner:** Do not use.
 **Width and Height:** For square images do either 768x768 or 512x512 depending on the model you're using. For portrait images do 512x768 and for landscape images 768x512.

@@ -950,3 +950,41 @@ I hope there's a day in the near future where she gets over her fear of Natto an
 i want to suck a wet bubbly fart directly out of Gura's asshole. You know the kind, feels wet and hot, stains the panties a bit, bubbles up from the asshole and through the pussy lips, and smells like sulfuric vegetable garbage. I want to suck one of those out of her butthole, then push my tongue into her colon and search for more. I'd love to get her to push like she's trying to do a shit while my tongue is buried in her tight little bum. I i push it in far enough perhaps even the tip of my tongue might touch something solid. Striking literal gold. Delicious shark nuggets. You might think that's gross, but this is the cutest girl that has EVER existed, and if you wouldn't show your love by accepting her most precious private gifts, you are a homosexual.
 
 -> * * * <-
+
+## >>65105836
+Imagine the pungent rissa braps squelching their way free from those fat asscheeks, shaking the mounds of flesh and blowing flecks of sweat at your face as the decadent shitstink makes her fat butt groan and wobble, a rippling wet gurgle that blasts your face with her erotic warm gas.
+Pungence fills your sinuses as you huff greedily, staining your airways with her fetid stink. Everyone can smell the rissa stench on your breath for weeks.
+
+-> * * * <-
+
+## >>65242858
+One gasmask.
+Two pipes protruding from the intakes on the front, one attached to the butthole of Fuwawa, the other to Mococo's.
+Their tummies are groaning - fuwawa fed Mococo an extra extra extra large portion of natto earlier and then ate as much herself.
+They both grin and giggle at you before counting down in sync and squeezing hard, squealing a "Merry Christmas!!"
+Noisy braps erupt and splutter from their doggy butts and the piping shudders as your mask visor steams up immediately.
+Your sinuses, throat and mouth are immediately fumigated by the fetid natto brap stench. The pungent erotic fumes in such high concentration are too much, the stink invading your lungs and the taste of their reeking natto foulness all over your tongue.
+With just a few huffs you're already shooting semen over the floor and lurching over in ecstacy.
+But that was just the beginning, the treatment continues for hours. You're going to absolutely stink for at least a month..
+
+-> * * * <-
+
+## >>65282501
+Have you ever met a Vshojo in irl life? I saw Haruka at a Tim Horton's in Ontario once. I asked her "Are you Haruka?" and she got really embarrassed. Then I noticed an awful smell. I laughed and asked her "Did you fart?" She turned even redder and yelled back "No! I didn't do anything!" At this point, everyone in the aisle was starting to recoil from the stench, and I noticed Haruka trying to subtly fan her bottom with her hand. She saw me catch her and got even more embarrassed. "What?" she said. "I didn't toot! You probably did it!" She grabbed a portable methane detector from the shelf. "If you're SO sure I tooted, test my butt! You won't find anything!" She turned around and lifted her dress, exposing her maple leaf panties. I just told her it's fine to be gassy and hugged her. Merry Christmas.
+
+-> * * * <-
+
+## >>65722470
+imagine Gura, crouched over you on the balls of her feet, her slim slender lithe well defined back facing you, her asscrack spread, her little donut puckering, gaping as she does a shit on your chest. She looks back at you, blushing, embarassed, but also proud of what she has done. That little stinky brat. She grunts with effort to get the last bit out then pisses on your dick before sliding it inside herself for you to finish, the rank odor of the little stinky shark's gift sharp on your nostrils. Your brain will now associate this smell with coming. She's grooming you, training you to cum to her shit. She knows exactly what she is doing. (last scat post for the year. happy new year faggots)
+
+-> * * * <-
+
+## >>65651651
+Imagine you and fauna have a nice bean cassarole for dinner. You make love, then sleep. In the morning fauna goes to make coffee. The caffeine works it's magic and suddenly the brown dogs are barking at the back door to be let out. She rushes to the crapper to relieve herself. Afterwards you are roused by an intense smell of Fauna's great earthen afterbirth wafting upon the air, mixed in with lavender scented candles. Oh the humanity.
+
+-> * * * <-
+
+## >>66702878
+How does Haruka sleep with those antlers? Sleeping on your back every night seems uncomfortable. Imagine Haruka peacefully sleeping on her side, when suddenly you hear a noise like a tiny tuba and a foul smell hits your nose. Haruka stirs awake with a sleepy smile, then recoils after taking a whiff. "Oh no, did I toot?" she says. She tries to fan her butt with the covers, but it only spreads the stench more. She turns a bit red and tries to smile again, clearly embarrassed. "Sorey. That smells awful." She slides out of bed, wearing your Ironmouse t-shirt and picking a wedgie from her maple leaf undies as she disappears into the hallway. Once she thinks she's out of earshot, you hear another fart burst from her butt. Can you imagine?
+
+-> * * * <-

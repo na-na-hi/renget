@@ -275,6 +275,12 @@
 | [>>64550099](https://rentry.org/ringotext2#64550099) | Fuwawa, Mococo | brap, choco |
 | [>>64656903](https://rentry.org/ringotext2#64656903) | Mococo | brap |
 | [>>64900339](https://rentry.org/ringotext2#64900339) | Gura | brap, choco |
+| [>>65105836](https://rentry.org/ringotext2#65105836) | Nerissa | brap, sweat |
+| [>>65242858](https://rentry.org/ringotext2#65242858) | Fuwawa, Mococo | brap |
+| [>>65282501](https://rentry.org/ringotext2#65282501) | Haruka | brap |
+| [>>65722470](https://rentry.org/ringotext2#65722470) | Gura | choco, ringo |
+| [>>65651651](https://rentry.org/ringotext2#65651651) | Fauna | choco |
+| [>>66702878](https://rentry.org/ringotext2#66702878) | Haruka | brap |
 
 
 ## >>249165

@@ -1,4 +1,4 @@
-# vDriver v0.2
+# vDriver v0.2.1
 
 Apologies in advance for the rough/barebones nature of this document. If you're more used to deep, lore-focused tabletop RPG documents, this isn't what you're shopping for. There is lore, but it is largely undefined and what is defined is in service of the game's function.
 
@@ -86,7 +86,7 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 	* **Lv 2** - ***Rejuvenation*** - Passive - *No Cost* - At the start of your turn, if your Willpower is less than maximum, gain 1d12 Drive.
 	* **Lv 3** - ***Reactive Recovery*** - Passive - *No Cost* - When you lose Drive due to a Condition or due to taking damage, gain 1d6 Drive.
 	* **Lv 4** - ***Toughness*** - Passive - *No Cost* - When you would take 100 or more damage from another unit's ability, reduce the damage over 100 by 25%.
-	* **Lv 5** - ***Undefeatable*** - Active - *250 Drive* - Restore 1 Willpower.Lv 1
+	* **Lv 5** - ***Undefeatable*** - Active - *250 Drive* - Restore 1 Willpower.
 
 ##### Mori Calliope
 * **Nature** - Reaper; Undead
@@ -99,7 +99,7 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 	* **Lv 5** - ***Soul Transfer*** - Active - *35 Drive* - Drain 44% of a unit's current Drive and transfer it to an ally.
 
 ##### Ninomae Ina'nis
-* **Nature** - Horror; Artist
+* **Nature** - Horror; Illustrator
 * **Origin** - HoloMyth; UmiSea
 * *Abilities:*
 	* **Lv 1** - ***Summon (Takodachi)*** - Active - *4 Drive* - Summon a Takodachi. Takodachi will deal 1d4 damage each to a unit in a space adjacent to you at the end of each of your turns, cannot be targeted, will always move to match your position, and do not take their own turn. When you are Broken, half of your currently-summoned Takodachi are instantly dismissed (minimum 1). When you would spend Drive to use an Active ability, you can instead dismiss a number of Takodachi to cover the cost (# dismissed depends on cost of ability).
@@ -107,6 +107,16 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 	* **Lv 3** - ***Craft Soda*** - Active - *15 Drive* - Create a bottle of Dr. Oopsie as an Item. You can give this bottle to a unit or to yourself to gain 20 Drive instantly.
 	* **Lv 4** - ***Copycatalyst*** - Weapon - *5 Drive* - This ability's effect becomes the same effect as a "Catalyst" Install ability in the current encounter (your choice, if multiple).
 	* **Lv 5** - ***Inspire the Deep*** - Passive - *No Cost* - At the start of your turn, if your Drive is less than your Base Drive, +2 Action Slots for that turn.
+
+##### Pomu Rainpuff
+* **Nature** - Fairy
+* **Origin** - Lazulight, PomuTori
+* *Abilities:*
+	* **Lv 1** - ***Idolism*** - Passive - *No Cost* - At the start of an encounter, you can declare a Nature. Installs in all units (including you) gain +1 Bonus Level, treated as a Sync Bonus. However, your Installs with that Nature cannot provide a Sync Bonus.
+	* **Lv 2** - ***Proliferation*** - Active - *10 Drive* - Target any unit. Randomly choose an Install of that Target that has a non-Fairy Nature. That Install's Nature(s) become "Fairy" until the end of the encounter.
+	* **Lv 3** - ***High Energy*** - Active - *4 Drive* - Increase all allies' Drive by 2d4. If they have the Regen condition, it immediately activates.
+	* **Lv 4** - ***Hype Up*** - Active - *40 Drive* - [FN] Remove a Condition from the Target and increase their Drive by 4d6+PRE. If they have no Conditions after this, Apply [Regen] (2t) to that unit.
+	* **Lv 5** - ***Ritualism*** - Passive - *No Cost* - Once per turn, during your turn, you can use an Active ability for only half of its Drive cost, but if you do, it does not take effect until the end of your next turn.
 
 ##### Selen Tatsuki
 * **Nature** - Dragon
@@ -122,9 +132,10 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 ## Conditions
 * ***Bleed*** - When the unit uses an Active ability (Move doesn't count), they lose 1d4 Drive.
 * ***Darkburn*** - At the start of the unit's turn, their Base Drive is decreased by 1d10. If their current Drive is greater than or equal to their Base Drive, they also lose Drive equal to that same amount.
+* ***Regen*** - At the start of the unit's turn, their Drive is increased by 1d12. If their current Drive is greater than or equal to their Base Drive, this is reduced to 1d6.
 
 ## Patch Notes
-* Added Hoshimachi Suisei as an Install
-* Added Hoshimachi Suisei's Warrior Maid ReInstall
-* Corrected a number of references to "melee range" that were intended to mean "can target adjacent units"
-* Corrected an instance of a reference to "ranged weapon".
+* Fixed a typo in Matara Kan's Lv 5.
+* Added Pomu Rainpuff as an Install
+* Added Regen as a Condition.
+* Changed one of Ninomae Ina'nis' Natures from "Artist" to "Illustrator".
