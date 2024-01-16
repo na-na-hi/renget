@@ -16,7 +16,7 @@ Waifu: А-545 (both a rifle and a T-Doll)
 Current bans:
 Reddit: This account has been suspended .
 4chan: Off-topic; all images and discussion should pertain to technology and related topics.
-2ch: Ошибка! Код 0, Постинг запрещён. Бан: 2525225. Причина: Общее 4 - Шитпостинг (Качество контента) //!ai. Втр Янв 16 00:00:00 2024
+2ch: —
 TO-DO LIST: Create more simple bots for simple people.
 
 [TOC]

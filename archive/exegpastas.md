@@ -29,6 +29,7 @@ Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*,
 *New Record*|*Mario Kart 64*|[(link)](https://rentry.org/qg9ky)
 *Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)
 *Ananke* (WIP)|Original|[(original)](https://rentry.org/yqwwz), [(edited)](https://rentry.org/3x9akw)
+*My Looming Threat*|N/A|[(link)](https://rentry.org/knfdx)
 
 ##.exe pastas
 Title|Link
@@ -145,6 +146,10 @@ Title|Link
 Sonic.exe /v/ewrite (Xenophanes)|[(link)](https://rentry.org/x38xq)
 *Sonic Pizza*|[(link)](https://rentry.org/kvcoe)
 *El Pendrive Azul (The Blue Flash Drive)*|[(link)](https://rentry.org/elpendriveazul)
+*The Mario Helpline*|[(link)](https://rentry.org/edmihp)
+/v/ writes a Mario creepypasta|[(link)](https://rentry.org/p94mn)
+*Kirby 64 Nuke Theory*|[(link)](https://files.catbox.moe/tv4jbx.jpg)
+*Alph is Hiroshima Theory*|[(link)](https://files.catbox.moe/6gpkxp.jpg)
 
 ##Shitpastas
 Title|Link

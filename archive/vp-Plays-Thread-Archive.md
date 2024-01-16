@@ -2,7 +2,7 @@
 ***
 After Musk went scorched earth and wiped his Rentry in the Rejuv Multi LP, I ended up making a pastebin for the threads, but only for the Multi LP.
 This is so that we don't have to deal with Musk's Rentry being wiped again.
-!~Any threads not here probably means they're in the other rentry,~! [Here's a link to said rentry.](https://rentry.org/vp-Plays-Graveyard)
+!~Any threads not here likely means they're in the other rentry,~! [Here's a link to said rentry.](https://rentry.org/vp-Plays-Graveyard)
 ***
 
 [TOC3]
@@ -117,22 +117,24 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 ###->Opal<-
 !!! note
 	**Status: Completed**
-[**[1]**](https://arch.b4k.co/vp/thread/51868978/)
-[**[2]**](https://arch.b4k.co/vp/thread/51871975/)
-[**[3]**](https://arch.b4k.co/vp/thread/51882385/)
-[**[4]**](https://arch.b4k.co/vp/thread/51905683/)
-[**[5]**](https://arch.b4k.co/vp/thread/51961356/)
-[**[6]**](https://arch.b4k.co/vp/thread/52102017/)
-[**[7]**](https://arch.b4k.co/vp/thread/52123785/)
-[**[8]**](https://arch.b4k.co/vp/thread/52153246/)
-[**[9]**](https://arch.b4k.co/vp/thread/52232415/)
-[**[10]**](https://arch.b4k.co/vp/thread/52254402/)
-[**[11]**](https://arch.b4k.co/vp/thread/52297850/)
-[**[12]**](https://arch.b4k.co/vp/thread/52321282/)
-[**[13]**](https://arch.b4k.co/vp/thread/52393565/)
-[**[14]**](https://arch.b4k.co/vp/thread/52429062/)
-[**[15]**](https://arch.b4k.co/vp/thread/52482468/)
-[**[End]**](https://arch.b4k.co/vp/thread/52514761/)
+[**[1]** *Nice crash*](https://arch.b4k.co/vp/thread/51868978/)
+[**[2]** *Evil team grunt bullied by birds*](https://arch.b4k.co/vp/thread/51871975/)
+[**[3]** *Cute girl spotted, Musk dies of boredom and Wagie takes over*](https://arch.b4k.co/vp/thread/51882385/)
+[**[4]** *CHARIZARD from KANTOOOOOOOOOOOOO is le dead...*](https://arch.b4k.co/vp/thread/51905683/)
+[**[5]** *Gala Sexo*](https://arch.b4k.co/vp/thread/51961356/)
+[**[6]** *SEXOOOOOO*](https://arch.b4k.co/vp/thread/52102017/)
+[**[7]** *Anons don't bump thread (again)*](https://arch.b4k.co/vp/thread/52123785/)
+[**[8]** *Wagie dies, so Musk plays something*](https://arch.b4k.co/vp/thread/52153246/)
+[**[9]** *Punished Apolo*](https://arch.b4k.co/vp/thread/52232415/)
+[**[10]** *Even as a kid, Apolo is a faggot, Jesus Christ*](https://arch.b4k.co/vp/thread/52254402/)
+[**[10.01]** *Don't even bother desu*](https://arch.b4k.co/vp/thread/52259244/)
+[**[11]** *Sex with Gala*](https://arch.b4k.co/vp/thread/52297850/)
+[**[12]** *Apolo really is a gigafaggot*](https://arch.b4k.co/vp/thread/52321282/)
+[**[13]** *A couple of Writefag posts while Wagie is in wagie hell*](https://arch.b4k.co/vp/thread/52393565/)
+[**[14]** *Wow, this Adian guy is on the road to stop being a faggot*](https://arch.b4k.co/vp/thread/52429062/)
+[**[15]** *kek nevermind*](https://arch.b4k.co/vp/thread/52464823/)
+[**[16]** *MC goes Super Saiyan and solos 10 E4 level robots*](https://arch.b4k.co/vp/thread/52482468/)
+[**[End]** *It's over*](https://arch.b4k.co/vp/thread/52514761/)
 
 ###->Rejuvenation MM<-
 !!! note

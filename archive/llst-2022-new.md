@@ -2,7 +2,7 @@
 
 -> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
--> ![](https://files.catbox.moe/r7fzip.jpg)<-
+-> ![](https://files.catbox.moe/vkrgpy.jpg)<-
 
 ***
 **Table of Contents**
@@ -192,9 +192,9 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Akari Kito 鬼頭明里**|Akarin|Oct. 16, 1994|[Official WEB](https://kitoakari.com/) / [Agency Web](https://www.raccoon-dog.co.jp/talent/r09-kitou.html) / [TW](https://twitter.com/kitoakari_1016) / [IG](https://www.instagram.com/akarikito1016/)|[📷](https://kitoakari.com/wp/wp-content/uploads/2022/07/KITO2nd_0709-0773re2_WEB.jpg)
 **Coco Hayashi 林鼓子**==[3]==|Koko-chan,Hayamaru|May 15, 2002|[Official WEB](https://hayashicoco.com/) [Agency WEB](https://mittma.com/profile/coco_hayashi/) / [IG](https://www.instagram.com/coco_hayashi.official/ ) / [TW](https://mobile.twitter.com/cocohayashi515)|[📷](https://mittma.com/wp-content/uploads/2023/06/c11a35e8c6892a2216373fb73a6cd438-scaled-e1685691414125-540x720.jpg)
 **Maria Sashide 指出毬亜**|Chunrun,Chun|Sept. 20, 1998|[Agency WEB](https://withline.jp/talent/maria_sashide) / [TW](https://twitter.com/sashide_m) / [IG](http://instagram.com/mariasashide_)|[📷](https://withline.jp/wp-content/uploads/2017/04/SashideMaria_01.jpg)
-**Chiemi Tanaka 田中ちえ美**|Chi~emi,Tanaka~a|October 6, 1994 ==[1]==|[Official WEB](https://nacherry.jp/) / [Agency WEB](https://stay-luck.com/talent/tanaka-chiemi/) / [TW](https://twitter.com/t_chiemi1006) / [Ameblo](https://ameblo.jp/tanaka-chiemi06/)|[📷]()
-**Moeka Koizumi 小泉萌香**|Moepii,Pippi|Feb. 27, 1996|[Agency WEB](https://www.amuse.co.jp/artist/A8700/) / [TW](https://twitter.com/k_moeka_) / [IG](https://www.instagram.com/moeka_koizumi_/)|[📷](https://www.amuse.co.jp/artist/04b9bcdf43075a9d644a5e14d956a5b6412a8dfd.jpg)
-**Shu Uchida 内田秀**|Shuushuu|May 24, 1996|[Agency WEB](https://www.just-pro.jp/talent/voice-actor/uchida_shu/) / [TW](https://twitter.com/uchida_shu0524) / [IG](https://www.instagram.com/shushu.524/) / [YT](https://www.youtube.com/channel/@ShuUchidaShuTube)|[📷](https://pbs.twimg.com/profile_images/1601952923311013888/YEsOIsGq_400x400.jpg)
+**Chiemi Tanaka 田中ちえ美**|Chi~emi,Tanaka~a|October 6, 1994 ==[1]==|[Official WEB](https://nacherry.jp/) / [Agency WEB](https://stay-luck.com/talent/tanaka-chiemi/) / [TW](https://twitter.com/t_chiemi1006) / [Ameblo](https://ameblo.jp/tanaka-chiemi06/)|[📷](https://files.catbox.moe/xmp1ds.jpg)
+**Moeka Koizumi 小泉萌香**|Moepii,Pippi|Feb. 27, 1996|[Agency WEB](https://www.amuse.co.jp/artist/A8700/) / [TW](https://twitter.com/k_moeka_) / [IG](https://www.instagram.com/moeka_koizumi_/)|[📷](https://files.catbox.moe/5aldhd.jpg)
+**Shu Uchida 内田秀**|Shuushuu|May 24, 1996|[Agency WEB](https://www.just-pro.jp/talent/voice-actor/uchida_shu/) / [TW](https://twitter.com/uchida_shu0524) / [IG](https://www.instagram.com/shushu.524/) / [YT](https://www.youtube.com/channel/@ShuUchidaShuTube)|[📷](https://files.catbox.moe/xnodbm.jpg)
 **Akina Homoto 法元明菜**|Homin,Minmin|Aug. 5, 1996|[Official WEB](https://homoto-akina.com/) / [Agency WEB](https://www.just-pro.jp/talent/voice-actor/homoto_akina/) / [TW](https://twitter.com/homoto_akina) / [YT](https://www.youtube.com/channel/@akinasanchi) / [Weibo](https://weibo.com/u/6892466160)|[📷](https://www.just-pro.jp/wp-content/uploads/2020/07/%E6%B3%95%E5%85%83%E6%98%8E%E8%8F%9C_BU%E3%80%90HP%E7%94%A8%E3%80%91.jpg)
 **Hinaki Yano 矢野妃菜喜**|Hinaki,Hina|March 5, 1997|[Agency WEB](https://www.sma.co.jp/s/sma/artist/454?ima=0000) / [Fan WEB](https://smavoice.jp/s/sma03/artist/85?ima=4658) / [TW](https://twitter.com/yano_hinaki35) / [IG](https://www.instagram.com/yano_hinaki35/) / [YT](https://www.youtube.com/@yano_hinaki)|[📷](https://www.sma.co.jp/images/15/896/059c671cb9915507ded7e0f16781b.jpg)
  
@@ -222,7 +222,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Suzuhara Nozomi 鈴原希実**|Nonchan|Nov. 01, 2002|[Agency WEB](https://apollobay.jp/talent/鈴原希実/) / [TW](https://twitter.com/nozomisuzuhara) | [📷](https://apollobay.jp/wp-content/uploads/13c7fc40e60dca3a5497cd311641bd7e-scaled.jpeg)
 **Wakana Ookuma 大熊和奏**|Kumachan|Apr. 11, 2001 ==[2]==|[Agency WEB](https://kenproduction.co.jp/talent/235) ==[4]==|[📷](https://kenproduction.co.jp/img/talent/247/1.jpg)
 **Sakakura Sakura 坂倉花**| Sakuchan |Apr. 3, 2004|[Agency WEB](https://management-artist.jp/sakakura_sakura.html) / [TW](https://twitter.com/Sakakura_Sakura) | [📷](https://management-artist.jp/images/pic05-l.jpg) 
-**Yuina 結那**|Yupii|Sept. 27, 2001|[Agency WEB](https://www.houeishinsha.co.jp/h_detail_sptalent.cgi?OFFICE=T&KIND=1&ID=624673fc_1856/) / [IG](https://instagram.com/yuina_927) / [TW](https://twitter.com/0927_yuina) / [TK](https://www.tiktok.com/@yuina_0927) | [📷](https://files.catbox.moe/9ndkig.jpg) 
+**Yuina 結那**|Yupii|Sept. 27, 2001|[Agency WEB](https://www.houeishinsha.co.jp/h_detail_sptalent.cgi?OFFICE=T&KIND=5&ID=6567f4d1_6b779) / [IG](https://instagram.com/yuina_927) / [TW](https://twitter.com/0927_yuina) / [TK](https://www.tiktok.com/@yuina_0927) | [📷](https://files.catbox.moe/gh8rat.jpg) 
 
 **Notes:**
 - ==[1]==Source from radio interview with Nagi, and chinese zodiacs: [src1](https://watashi--update-jp.translate.goog/4686.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) [src2](https://yuki--trend--lab-com.translate.goog/misakinako-age/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#rtoc-2)[src3](https://febri.jp/topics/llss_1/2/) [src3](https://mzh.moegirl.org.cn/%E5%B2%AC%E5%A5%88%E5%AD%90)

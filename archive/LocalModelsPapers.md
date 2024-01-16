@@ -498,6 +498,7 @@
 01/2024|[AUTOACT: Automatic Agent Learning from Scratch via Self-Planning](https://arxiv.org/abs/2401.05268)
 01/2024|[Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118)
 01/2024|[Knowledge Translation: A New Pathway for Model Compression](https://arxiv.org/abs/2401.05772)
+01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

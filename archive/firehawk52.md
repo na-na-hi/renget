@@ -25,25 +25,22 @@ Ethereum: `0x2e03212e147287aa2a67c7cfd5286f24779f0b42`
 
 !!! info
 
-==**2023-12-11, 18:37 UTC**==
+==**2024-01-16, 10:00 UTC**==
 
-- Checked all Qobuz tokens
-- Updated dates for a bunch of auto-renewals (including yearly)
-- Replaced expired Spain Qobuz token with new
-- Replaced expired UK Qobuz token with new
-- 3 new Qobuz token countries: Chile, Colombia, and Mexico
-- 17 new Qobuz tokens: Argentina, Austria, Australia, Brazil, Canada, Denmark, Finland, France, Germany, Ireland, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Sweden, and Switzerland
+- Checked all Qobuz tokens (Looking for Belgium, Chile, Colombia, and Italy)
+- Added 2 new Qobuz tokens: Brazil
+- Replaced 13 expired Qobuz tokens with new
 
-- Checked all Deezer ARLs
-- Looking for ARLs: Austria, and Mexico + more
+- Checked all Deezer ARLs (Looking for Brazil, Canada, Croatia, and Paraguay + more)
+- Added 11 new Deezer ARLs (New country: Brazil, Ecuador, Ivory Coast, Singapore, South Africa, and Zimbabwe)
 
-- Milestones since last full update on the 20th November 2023:
+- Added Napster-downloader to list of Telegram bots. Thanks to TheKVT
 
-**410,000 (+35,000 visits)** visits to the site
-**1,175 (+150 members)** members in chat
-**1,250 (+130 subscribers)** subscribers in update channel
+- Milestones since last full update on the 11th December 2023:
 
-Thank you so much for all your support. If you want to send me a christmas present, you can do it **[here](https://ko-fi.com/firehawk52)**. Thank you so much :heart:
+**473,000 (+63,000 visits)** visits to the site
+**1,277 (+100 members)** members in chat
+**1,466 (+215 subscribers)** subscribers in update channel
 
 ***
 
@@ -129,58 +126,52 @@ Thank you so much for all your support. If you want to send me a christmas prese
 
 #### Tokens
 !!! info
-    Use these credentials with the above programs to login to Qobuz. ✅ **checked on 2023-12-27**
+    Use these credentials with the above programs to login to Qobuz. ✅ **checked on 2024-01-16**
 :repeat: is **auto-renewal** accounts
 
 *Mouse-over country flags to see country name in English and local language*
 *Mouse-over :thumbsup: to see contributor name*
 
-Current countries missing: Belgium, Italy. Contact us [here](https://t.me/firehawk52_chat) if you have accounts from any of these countries
+Current countries missing: Belgium, Chile, Colombia, and Italy. Contact us [here](https://t.me/firehawk52_chat) if you have accounts from any of these countries
 
 ⠀| Expiry | ID | Token | Thanks to
 ||||
-->![Argentina](https://files.catbox.moe/sc17sx.png)<- | 2024-01-15 | `2804108` | `WbREqh3U9ol-vYcsWIUJBsBwF59RLH69wvRTk8lQD73Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Australia](https://files.catbox.moe/7t6g1q.png)<- | 2024-01-15 | `2803823` | `aluHwZIeeICx9EGG0axTyUkuu-W1ImteLcC83fPe5yXJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Austria/Österreich](https://files.catbox.moe/qpecz0.png)<- | 2024-01-15 | `2803814` | `2nGNLOqhoY6bGTVoJlqvw77oIQ7ZuT2L1CpgXiCGSgzJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-02-25 | `2831083` | `SiJX6lnU7MYJ01EnO2D70bv2QvjIWrgG9juTMVz7LU1J7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
+->![Argentina](https://files.catbox.moe/sc17sx.png)<- | 2024-02-16 | `2863573` | `dvHFgPAdZQEKbJ9HyGxqOmKQ_dzZxV0_L-dUUWJq7sjJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Australia](https://files.catbox.moe/7t6g1q.png)<- | 2024-02-16 | `2863595` | `Jad0eJXrowMvJi-bNj0oivqe47JSdF80u7bxQx0qTd3Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Austria/Österreich](https://files.catbox.moe/qpecz0.png)<- | 2024-02-16 | `2863588` | `J3hDaCsTLH1nAKG6PelhS4NRM0Uu5CvNbJvOa95StbbJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-02-16 | `2863605` | `IMcRHdMFhgBLwn_v8HxzrsNxt_D7yAyJlw6h1MMjCO3Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-03-01 | `2831083` | `SiJX6lnU7MYJ01EnO2D70bv2QvjIWrgG9juTMVz7LU1J7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
 ->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-12-15 | `2804123` | `raanLIEb83npnXpCuhAcABkRZnQ7MQeH4ytJ_EPeV-vJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-12-13 | `2759740` | `nIZdVRJBsPsaKMPCl1Mmy_X-A6fE82BHBJRw2omHJjjD8MvVjdotB3uPBxfHn6J9yXY6pjb9s5yNUEe-0h92ww`|
-->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-01-15 | `2803861` | `Zs8ZcwKtLLY5J-n8JTPZE20p-u6FGwHqACA-IMbAkCHJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-12-18 | `2759740` | `nIZdVRJBsPsaKMPCl1Mmy_X-A6fE82BHBJRw2omHJjjD8MvVjdotB3uPBxfHn6J9yXY6pjb9s5yNUEe-0h92ww`|
 ->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-12-04 :repeat: | `2738067` | `LnW5pfpKbK5DwHwDXRUav36sd2warFexZ4BcIttG7H_QTiNmAUwglbyKm9irZv579OsTJV056bOXsu9dlfSvvA`| ->![DjDoubleD](https://files.catbox.moe/oxlb1w.png)<-
-->![Chile](https://files.catbox.moe/b5eqkx.png)<- | 2024-01-15 | `2831100` | `gnpp3c9iMRCLiSS4k_cwsDd0NYJt_E0-1B4QJljwT7fJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Chile](https://files.catbox.moe/b5eqkx.png)<- | 2024-01-15 | `2804166` | `gnpp3c9iMRCLiSS4k_cwsDd0NYJt_E0-1B4QJljwT7fJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Colombia](https://files.catbox.moe/c19o37.png)<- | 2024-01-15 | `2804192` | `8mffdULb27cscNKpg3paIhSMYqWdx5eSlOeOwyhdYzHJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Denmark/Danmark](https://files.catbox.moe/79yf4w.png)<- | 2024-01-15 | `2803921` | `o2HrUKGX3iopPx-mDgFO1qgX551_I0IzGXOvw0l0DdPJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Finland/Suomi](https://files.catbox.moe/6qnyql.png)<- | 2024-01-15 | `2803945` | `W5r--1N2J9w1Dc-RncJZ6Gx9Qqm8vTdyvhWVEZ7whyzJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | 2024-01-15 | `2803908` | `WeVFcsBAxnbt8ELiGgmxym1vWWHRjYloDwvTFKYQPznJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | 2024-08-18 | `2639486` | `Z3mIyUZqvjl2nAn9r_58XaVnALi3yatMc9-bjmY0aiDoVVpUxAo62Mu9ZZMp7iDrkPv31wzp2SkM7IqQ9sOvAA`|
-->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-01-15 | `2803958` | `MK7AtDDoRivRKXsgLcmQ4mYZkhWKxRG6dQ2Ahpiua17Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Denmark/Danmark](https://files.catbox.moe/79yf4w.png)<- | 2024-02-16 | `2863659` | `aYYgDHt6nhmcPN8_lDtOSbOef9E_oWhmqfbnXkGHiijJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Finland/Suomi](https://files.catbox.moe/6qnyql.png)<- | 2024-02-16 | `2863677` | `MpYqxTnDJbn8AKxOezJg963W_DPIzw8FloNf40SmEQzJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-02-16 | `2863685` | `DAA_vauscaW8FwGB_VwBNTdlHUThQYzvbTmeogAP-vbJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-02-09 :repeat: | `526411` | `Bh45Zy7E3idvMTX8z6lV2cGuPJRMuTKPjwBS18PM4xmX4lEoc8JdYQvd2pvuOnTFBI_SnuPQbD0EAs8VQDOeeQ`|
-->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-01-13 :repeat: | `468453` | `R82rnhhJwXeOFppAv7RLexSSTxPxwRBNRz_T6tQi9kv9Ax3FRsF1l2jD8cKimzDVvZPvWsGiUPLgRvSiEq7Hiw`|
-->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-01-14 :repeat: | `366550` | `ZVREAlRBWBZR35TvTP9v3Nhsb_H6Vj07H7L3lEGb71VFTEqOdC_GRYJTUT9TFxnDwyjmu2hISb-P89F5_ximTw`|
+->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-02-13 :repeat: | `468453` | `R82rnhhJwXeOFppAv7RLexSSTxPxwRBNRz_T6tQi9kv9Ax3FRsF1l2jD8cKimzDVvZPvWsGiUPLgRvSiEq7Hiw`|
+->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-02-14 :repeat: | `366550` | `ZVREAlRBWBZR35TvTP9v3Nhsb_H6Vj07H7L3lEGb71VFTEqOdC_GRYJTUT9TFxnDwyjmu2hISb-P89F5_ximTw`|
 ->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-01-19 :repeat: | `94850` | `d20g1LuZ9ptpS2V68rZwe3QUmZ2Gxw70Kmu2ZnqvaripXk8LpMNmrMZ4OTIanGUeq90iJVRItbrTnQyfkMOb1A`| ->![Gostrdr1337](https://files.catbox.moe/oxlb1w.png)<-
 ->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-12-06 :repeat: | `21989` | `YaWErgINlHiKxCcu0qDtohp4uAZZNbKofGPPJIiPSt3ivlMWU2bMNu8CKhK1mZdffFIh1BPfwzhk1Rikb6aibQ`|
 ->![France](https://files.catbox.moe/rg4cq3.png)<- | 2024-12-16 :repeat: | `992824` | `u6lHtzb1Vv_TbNYYL_PrIzVZfkMpxUJ4Y4AkpdrfFRaj5o1sbLP7ENCKVD-wQEmkMbQIN-G6vcgzPvwaZdEvPA`| ->![Gostrdr1337](https://files.catbox.moe/oxlb1w.png)<-
-->![Ireland](https://files.catbox.moe/yreh7j.png)<- | 2024-01-15 | `2803984`  | `lFsrYeGUAZU2fTRm0RFHN0dzAb6qabl7--QtQMR5SDrJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Luxembourg/Lëtzebuerg/Luxemburg](https://files.catbox.moe/g4bgjw.png)<- | 2024-01-15 | `2804005` | `XLTTPbF9r4ZvS-D4EdSMFTddgjUbafLmLDgeapk7spvJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Mexico/México](https://files.catbox.moe/8k53i4.png)<- | 2024-02-25 | `2831091` | `xjR9u5grnPDQHfwr8PyhoPYOM59Ov_czsqY1HpUr4dRJ7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
-->![Mexico/México](https://files.catbox.moe/8k53i4.png)<- | 2024-01-15 | `2804152` | `vik-E4wLx8vRxTCi_0lpcePHsFknJv6_GHzxLgmDRALJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Netherlands/Nederland](https://files.catbox.moe/g87362.png)<- | 2024-01-15 | `2804018` | `YQLvWB2UxOyoTIs4PgtEnRa2CbdcmWUEjOZI9IMmDdzJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | 2024-01-15 | `2804058` | `PfXRPHelUF6mMm2wZXcWNwG0kf3LFt53-Xdq-EEB_ijJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | 2024-08-18 | `2639486` | `Z3mIyUZqvjl2nAn9r_58XaVnALi3yatMc9-bjmY0aiDoVVpUxAo62Mu9ZZMp7iDrkPv31wzp2SkM7IqQ9sOvAA`|
+->![Ireland](https://files.catbox.moe/yreh7j.png)<- | 2024-02-16 | `2863691`  | `k3qpHQFaWxSdMvON1da_UHcOr5kwoEag3Uwy_IzAiBrJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Luxembourg/Lëtzebuerg/Luxemburg](https://files.catbox.moe/g4bgjw.png)<- | 2024-02-16 | `2863710` | `kfD-9pxhY4mJbC2W-rzrElOAKdObCOo7KT4UJDeqVmjJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Mexico/México](https://files.catbox.moe/8k53i4.png)<- | 2024-03-01 | `2831091` | `xjR9u5grnPDQHfwr8PyhoPYOM59Ov_czsqY1HpUr4dRJ7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
+->![Netherlands/Nederland](https://files.catbox.moe/g87362.png)<- | 2024-02-16 | `2863724` | `UEdy0JGhTpslcZlt6GfIDmpDFSOfYdchNnwgGzVNWX3Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | 2024-02-16 | `2863739` | `nO1rEH3UYwkvG9624JWiejL-lse0E_5g2uIKy61CDLXJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | 2024-06-27 :repeat: | `2567820` | `LKBKRDw8A6nziEMuWgZ76-1KEA8vWVdLuY1epOqwJD1xe5J-Z7r5bDtwgPkd4e-ZcIZWguImk7fq6sUsGcMasg`|
-->![Norway/Norge](https://files.catbox.moe/fqqzdt.png)<- | 2024-01-15 | `2804028` | `Qw_0kxr3QzMBKu1smhdMdgNUMOS7Z7eMxcNNItJSOafJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Portugal](https://files.catbox.moe/4lpb4t.png)<- | 2024-01-15 | `2804083` | `cAFvdvTlKktEqBCr0MljRrdHNSefGw99K8xM-67n5LDJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | 2024-01-15 | `2803936` | `JMBDKPmMvPeX12ZDeqqKx1K4euzMPNFyjOVz73AoFnDJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Sweden/Sverige](https://files.catbox.moe/u7pf3y.png)<- | 2024-01-15 | `2804089` | `lC1ynOdhCFB-9U8zu5OYNlYAZOX_H0z1s4SHKU15OMzJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![Switzerland/Schweiz/Suisse/Svizzera/Svizra](https://files.catbox.moe/4se453.png)<- | 2024-01-15 | `2803897` | `PWe_0dn1UXM3CQ-uelzU1SUBd0Fe54buLmaFDxWTDRfJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
-->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-01-15 | `2803969` | `1QBmqF21JRIPYKQezsa28kHSoSwhp4n5Hmmo0TdWpT_Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Norway/Norge](https://files.catbox.moe/fqqzdt.png)<- | 2024-02-16 | `2863735` | `CMxGkakBQkOlfq-RaxbahEx4EymTo8pJ_aiNPnIdP57Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Portugal](https://files.catbox.moe/4lpb4t.png)<- | 2024-02-16 | `2863754` | `nvvGpTwyLp8u7T0WZa-TFk95MbTw78dlhnul3mtKkPXJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | 2024-02-16 | `2863671` | `Lk9qQOvnSkFG_O0K8YAQZpL5OeBFhP3VfbtawYfBfDfJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Sweden/Sverige](https://files.catbox.moe/u7pf3y.png)<- | 2024-02-16 | `2863767` | `nNQTdBdV9jerWTMp9p4jgwVkbj2JAh_caHdAscZ_jIXJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
+->![Switzerland/Schweiz/Suisse/Svizzera/Svizra](https://files.catbox.moe/4se453.png)<- | 2024-02-16 | `2863631` | `L9V88jCWYe1UPqvRKXxn7QSPU_CRkTTuO-TJFqPZdQbJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-07-24 | `2602012` | `LFvxYzPwvq1svg8Ue07iXGK5XTeHvXccbY-RL6GpPUvf6ZtPfH1YnKgsAHDQrBy95c122DUH2JsdXP2idsRy7A`|
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Unknown | `2635874` | `S3RT4gfZdNKD7tUk9t8tazANQxDZy6wD70EKW0smholQH8dku7OQeluMOiDiE_38zhZFxhOj1HMD0fxYQ993iw`|
 
 ### Deezer
 
 #### Deezer ARLs
-!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **checked on 2023-12-27**
+!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **checked on 2024-01-16**
 
 !!! info Check Deezer ARLs with this script
     [Download here](https://rentry.co/stracc). Thanks to FrankYaLatr.
@@ -193,27 +184,34 @@ Current countries missing: Belgium, Italy. Contact us [here](https://t.me/fireha
 ||||
 ->![Austria/Österreich](https://files.catbox.moe/qpecz0.png)<- | Deezer Premium | 2099-12-31 | `354d8172ee449927de992e3c905e2598378f8a05c00e6b052e26b98fcab61326e8861137e221303286f9293df1d5be1dbc335619d8e9b9878c715923f4539fc35b18eb2070ae6502415dee70bcfc4d8f91c1686477a290a49366ef311a39d927` | ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Bolivia](https://files.catbox.moe/j0hhzk.png)<- | Deezer Premium | 2099-12-31 | `d901f5774257144057c76210c83517dee7fd72c824cb9c0cc2ecd6300b47c186873ef45a88b13616bd68075afc7f88875d58cb4f2e86d66221e01f6350a820ef6b77aa562f352d4667accdca380c8acc454a0f7644bcc548ba05e3e0ca281031`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
-->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | Deezer Family | 2024-01-15 | `f2e04afa5abf0fed995ac13cfdd37094915cf8c9be7bba85cd208f1c11585f0325b2a12ae8de49678535dd50ee43cba3db5ca3d20495bb034eb427f72ec8827140a698126c6ebbce19bad7220ae4538eb347eb243df4d3d1e3c8c52fa001a9f6`| ->![TheKVT](https://files.catbox.moe/oxlb1w.png)<-
+->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | Deezer Premium | 2099-12-31 | `fecc5b66fb1deaf925d3937dda737a790f6395acf60452d0883bdab47ec9599436a559f866ff6b34caa5fef5ebb76f708bde6b4da9a056860547fdd1f9447b382dff083486cbb7d93b68ff0b1f4a6cba78fa553dd568796a861488f3915d2782`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
+->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | Deezer Premium | 2099-12-31 | `aceaf00f1beb470b77df53ca589dba83f168bc795b7d4cac4a035c05204a88154165f1bed0d8c11f54902d8bc1e1f721da172a47c680aee5aaaffb04a3876f6096a6fb6dec6cdc607a2d3cd830b79e700d0f98451a6f866066867598d7726c73`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
 ->![Bulgaria/България](https://files.catbox.moe/4jq6mw.png)<- | Deezer Premium | 2099-12-31 | `fe4e56a7f660bc41bfd1be1d6f4d35a408fd9a64494b0dc05e272ab3cb4189715dd8ae6989c698aba1f758484202895b835f65dc805472d0a1bfa5f80a813f16c0c0200027d24ee58a770486fe0b6ce73dbb99cd338adf45f02bdfda8f40a3d1`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
-->![Canada](https://files.catbox.moe/1u7jjt.png)<- | Deezer Family | 2024-01-14 | `2ed5e980f0f474cb83e8f208a7a0c39b646b519c3c0bd3e7560ca593443d616e1e3e5bee2862f8a0f2a6055edd7b278a70c8cb5c190cb883d30d24aa39ad5a2c7cad64cad58804f62d2bc39d7d36676b0e21fb9f802014677bb28b7223345ec6`| ->![TheKVT](https://files.catbox.moe/oxlb1w.png)<-
 ->![Colombia](https://files.catbox.moe/c19o37.png)<- | Deezer Premium | 2099-12-31 | `fbc388612c76c4abc61e5e2cfb5922a2fc679a1374992dd652f453f18fa6ea069caf9807ba7368105986356749eeffabe419bac8a82fe8591d86084203c4ed0fb929bee616de47829d73d2a517ce9cd9af52a6645dec6097cf88df678a78dcc1`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
-->![Croatia/Hrvatska](https://files.catbox.moe/qtn4lz.png)<- | Deezer Premium | 2024-02-02 | `f01ca1599e4b7b4df61c7e57907ec59f680f68ae17c24703ec50a4072a61434f68d459e1f1c0816f181b87ccd60843f960260a02cf35c8693fd437f5b9aa77d53915a8e23cf455d648e2ccd35ec5039e928eedcdee6844d30bacfdb37cfba569`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Denmark/Danmark](https://files.catbox.moe/79yf4w.png)<- | Deezer Premium | 2099-12-31 | `87d7d3964e84ef53663fb028bf0625719d815a909a42c50eafb21a27c905e4cf13869f1cc26b03b5e9eeaae03967d2c7063fb04ca7dc38e16a2f8b05b05316469ae8895cde77aba70eea0b0e12b8adb3bf1b92e6d77cad214ce2194ae35a457f`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![Ecuador](https://files.catbox.moe/3ne5ul.png)<- | Deezer Family | 2024-02-13 | `d7a91d215029d3f8af73f0eeb652aa4bb90acedacc218fff5da3c90aec1bc741729aefb8214e0136dfa96a4287a9f849c304ba41697d9fd2394528280c965d43c72b97f7f32cfda9a405785fc971bbf57c6e4e6e26385ec4d191a41796cef609`|
+->![France](https://files.catbox.moe/rg4cq3.png)<- | Deezer Premium | 2024-01-27 | `4dbfe7093efec7eb6839149e6361e2337bea4a9abcf10aea77c53bb13b5cd04e896089274f180dba3489d1b8b4b2a78f6d748f3060871f3daa0f1a0f1ea99d63ca7b91a89e7b3d59b29cf6ad693435ae0b46d8f203f33881be917a710acd1a7a`| ->![ptnapivoski](https://files.catbox.moe/oxlb1w.png)<-
+->![France](https://files.catbox.moe/rg4cq3.png)<- | Deezer Premium | 2099-12-31 | `e664ec8cefb9bba0c969cdb437a6cca7b4a474ac6fdcb6c22b89f7134556282420583075a3b94b4360f414cb7b7f5c4f3a44ba14a7bbff48705269ea678f7f68c8abd64195ab8b513ac89e17602e9ccb099b5f170499d6441ce69b8ad2de5151`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
+->![France](https://files.catbox.moe/rg4cq3.png)<- | Deezer Premium | 2024-02-09 | `20463368f5e6c0d46156fa1ceeae6a8f2c11139dfdaf72dcfdd640215f51a2528ebe4bef184b6dd9f453a84a2eaa71fc402a3095c55af546be9b1a458055490adb0de3a0541a518ff66a25293a516ba15ed66a6366e2f2666b17c2bdedced341`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
 ->![France](https://files.catbox.moe/rg4cq3.png)<- | Deezer Premium | 2099-12-31 | `e17dedb431a175afd4e2cf2923202042512636ea904adb9c7aa1e00e1d1fc5ff56fc130dc17c8e6cecef3881a629156c3d0886277ee044e76a19f1dc730b1a5fc0646911893a0359c920647588d3b3df08d1aa3afa58ba6bb54788d78e252610`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | Deezer Premium | 2099-12-31 | `bf3f815fc76fc458f85ad4b21e8e9ea88b2b3878c4a5ad96ef89c5aefde703905611e738a882ba3d1fd540989eef39cc14b2b301210610eb13bd418e422fcc3b09dc556721b144e033ce424e2b2ccca08964301d8ef567e232a75093372ad642`| ->![ptnapivoski](https://files.catbox.moe/oxlb1w.png)<-
+->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | Deezer Premium | 2099-12-31 | `2e3dad07adce76b3b20278e5e65e359550560e31b3736fd3795cf401c12cd93c143bc9d98f4bfb1e57c2598c4bedbadbaa1eab0fd43c05a76094861ad3fa4cff903d367941d2840ae59de7583d11b4e2a3c0dc716d1232f7d591191958a5f21f`| ->![ptnapivoski](https://files.catbox.moe/oxlb1w.png)<-
 ->![Germany/Deutschland](https://files.catbox.moe/hziz6u.png)<- | Deezer Premium | 2099-12-31 | `6f0f7a1bba7297069c7b638500d8a2706117f55b7eaa770a218233694b9d94e9278b02f089ba7edcce41ff0236d0270223e66f1c919726d1ed96cdec882b47c1681d4463cb1fe06f8e3181ee1dc821f123177b11a43e7fe37a972e5fc76fb0aa`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Honduras](https://files.catbox.moe/699yyk.png)<- | Deezer Premium | 2099-12-31 | `bcaf94b5ff12a351a5ef314e7ea26f6857394ec522220fffd5c8614ed835d1e6eb5c2318b57cb081bfba00658796f38b179b52532e78bfbf379a042564df5be735a4f463302e4c451b6be6ba9b0d2b7755413694de1c87de894aa6a407cf95ad`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![Ivory Coast/Republic of Côte d'Ivoire/République de Côte d'Ivoire](https://files.catbox.moe/v3ee1u.png)<- | Deezer Family | 2024-02-10 | `cb35fb3b9ebe00c4bd3a17cdcb02827b7954b2e696230c786139cd921c3755f11ff8959fa3a7cfe14a020d4a5819652180d8b1b59c36a2c2b33f556730cc1fb684d26ce13262d0ff5a8a5e373fe1c27ee0120f07e5b1c3bb85081989bb8639ed`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
 ->![Japan/にっぽん](https://files.catbox.moe/lhrhjg.png)<- | Deezer Family | 2024-02-11 | `59818b6d364e396f2fa91cfd97d378887813385ebd1d543c2c112710125e95e3dee044ef6dff80f8aced6011254cde2d3d28eb3e5e8780364df7e9eddbfc19fab9c258a27f369a0a8c92e23dae2fa129152dfe83e0f792bf63e555612049d244`| ->![TheKVT](https://files.catbox.moe/oxlb1w.png)<-
 ->![Japan/にっぽん](https://files.catbox.moe/lhrhjg.png)<- | Deezer Family | 2024-02-11 | `02f74f743dac0f77fddba324df663795ee9e2a6f2dcdf112d102d055616e4c3273b514a53e492a250003ae50f12ba1b4389b33a1816d6f1fab3d96530a69064a26d35fe390f3aeeb55f53bf97e419b6d1008c4b088d3b6fa32297af338ab3273`|
 ->![Mexico/México](https://files.catbox.moe/8k53i4.png)<-  | Deezer Premium | 2099-12-31 | `204d08c1482f7035be9a5f781caac78a48611474da6072f0f98a55cb9ae60617b276a7f4e938a7801992dbe994ea1cb56030a3f9747d6a3835f98c37f00c8a005bd3072910577a02da1de93c1be70d8efcf27bc4dcd130c9bd0be576912d539b` | ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Netherlands/Nederland](https://files.catbox.moe/g87362.png)<- | Deezer Premium | 2099-12-31 | `758971bcfc3c9db9dd4f2e3ae085d133c8b7f0ed7e59a7f9fbe6c342e9f2d4d9371f178523316b07b93f5d63f13d194b163f5084983d8f6320caa1c7b6c6fe4100d64b0847c73ba4d085ab472147abe88192a02e572daa105e402af9ebf78570`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
-->![Paraguay](https://files.catbox.moe/c7zcu6.png)<- | Deezer Premium | 2029-07-21 | `baa47e1c4fba0ba470a98c03b05bd1192da7db2add6bd83a735653b5094f50deb98193f5a5da6da4e48db82160aa610f4d0131f5fd8688a554b0cd77931c7e89800f49616e85491ad4ed0ab9ef86bfbbae56d4c8cf2d5547bcc906f8963c8334`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Serbia/Србија](https://files.catbox.moe/y196n5.png)<- | Deezer Premium | 2025-07-30 | `934436986242b301f2e4e289769d375a88d0873336c3061b96c1099da758e75aa0b2b9d9d21f809b65405e0adfb5792437f6b6f7bf746a3d3d52d799dc9a4f917c9bfa877a4f08f44dfe81d204f0df7a764d79e1766269cd3b461b23ed5a88f9`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![Singapore/Singapura](https://files.catbox.moe/ifkq4k.png)<- | Deezer Family | 2024-02-10 | `16d93e8d6e0e16d3da7775bae98955bc173d3df51622f428ebf5ea4939784c413a6af711bbed5e586370dde727e587807de02d2a6962b88fbcbaf530fb66359d69b63267e2ca610e775c7c80bc8fd79373806be5b9e776eb09cb58e6a1af1b72`|
+->![South Africa/Suid-Afrika](https://files.catbox.moe/fjjgb5.png)<- | Deezer Family | 2024-02-10 | `20db1fa077fccfb724cbc286cc97725b96a7a3e48714b636d45a4aeba34a7755cee6def458f6779e4c4a0a9a8f699eea571412ed067e9a4ff5c9126af9bc26d92553b8ea2290ca66133b19fd90917472dafccdad7341f27a6a1469e676bf02b0`|
 ->![Slovenia/Slovenija](https://files.catbox.moe/mojh8h.png)<- | Deezer Premium | 2099-12-31 | `1182cbe8b33cafba0bf5e99d49749f1e8ab1d314c363283331e8c421cc13bb098ebd93cfaa8b41c3bdac13866e6ae0b89f34640d8aeb4c2760709f94d9dfc522f5ee51a922cee738477d11124d65c7b3c0b45d179f0362b443827cc6e7e60dee`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Turkey/Türkiye](https://files.catbox.moe/41y0gg.png)<- | Deezer Premium | 2024-02-07 | `c4fdd299552ef309bc7f3a47c0e73ffe9c8352a26dd0ac2f2d9b844487eef8b18e93a8ac771d5d88e2e35512846f30f86231c47291e6803c1020b22cd70486d539c0b1fbc4e03227e51e2449ea07a9c2e415457f82f2738587a54255ecf137d6`| ->![@Gigamusic2](https://files.catbox.moe/oxlb1w.png)<-
 ->![Turkey/Türkiye](https://files.catbox.moe/41y0gg.png)<- | Deezer Premium | 2024-02-07 | `4bdad888e5fe4f36f137b68430e6661fb4eba1a18f31d8e27e6db637bb92eb004da7bbf792ac5bff0735b65de326335b9c3860f6b8a8b5e704d59d7f195b7beddde7da8e26efba587627b9a90b3eee873ca13decbff4bc0393a6e1aa082f8888`| ->![@Gigamusic2](https://files.catbox.moe/oxlb1w.png)<-
-->![Turkey/Türkiye](https://files.catbox.moe/41y0gg.png)<- | Deezer Premium | 2024-01-12 | `8d41ab19c20199c19c0a77aa265c6ed0f6c13fb16ce58edc610ad55544a2ff93b83e547a08074dee72b7cb5c4cd08035a24eb8992d9568f4a49e69113d94060e5cbdb213d90a7ce9f176c17cfe45cc4fe5f2bc04dc6e48d11783181cd32ba4eb`| ->![@Gigamusic2](https://files.catbox.moe/oxlb1w.png)<-
-->![Turkey/Türkiye](https://files.catbox.moe/41y0gg.png)<- | Deezer Premium | 2024-01-12 | `a112f79eba135ba6f03287033cc7b4300174920a037ea2de63bf4e16d27306b511a2d81e348beeed19ce7db5e8445a86f6ad8c7d6d61328360f6fbd0ae600e5c6cf3cc195a5e029a64874ada46350c9c1f24a25a248f03eb9773866a8143e3d9`| ->![@Gigamusic2](https://files.catbox.moe/oxlb1w.png)<-
+->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | Deezer Premium | 2024-01-25 | `979ea9ae3564976670ee4b1c57772723ee440845254ea821ec4199b4ec6285918af8a12182797e3f7be95113144a5659615d8f41cecc17d7ef83671fd9163e435e94ef5546a797f78dd4f3419b8a888c7501a64199a5f892b15571d4c556808e`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Family | 2024-01-24 | `a36c64a6f9d84165fa2317afd544d02968065c5d1366db20427a03859ce38082fc690973c2f4837172f3d6f0de05186d0d6d59baca70aaadaeea588ae2f82ecb3a8f760cea6726fd89b8dce469ebc3b89f5f8b288a4980cbf3277c3dfa2be7ee`|
+->![Zimbabwe](https://files.catbox.moe/mqtlaz.png)<- | Deezer Family | 2024-02-09 | `f706e6088d4e78fb4cc1c640935782f8fd8425c98857ee9c0470ce71c2b599b5de4bb653c5ab00fb256a1de63e5cd450bbdbd060a5ae8304f8cb933f80e3a816035ee67c97622ac6b7c45cab35ae0f50096de81f597397ed29b573ea0fbaffdb`|
 
 #### Deemix
 
@@ -283,8 +281,10 @@ https://t.me/GlomaticoAppleMusicBot (thanks to Glomatico)
 https://t.me/beatport_downloader_bot (thanks to Filosk)
 #### Deezer
 https://t.me/deezload2bot - ==ARLs== [see above](#deezer-arls)
+#### Napster
+_Temporary being fixed_ (thanks to TheKVT)
 #### Tidal
-https://t.me/flacboxbot (thanks to @udreamtoosmall)
+https://t.me/flacboxbot (thanks to udreamtoosmall)
 ***
 > ## Websites
 
@@ -382,6 +382,23 @@ Remember to set your preferred Samplerate and other settings under Settings - To
 > ## Changelog
 _Please note: Only the last 5 changelogs are shown_ 
 
+==**2024-01-16, 10:00 UTC**==
+
+- Checked all Qobuz tokens (Looking for Belgium, Chile, Colombia, and Italy)
+- Added 2 new Qobuz tokens: Brazil
+- Replaced 13 expired Qobuz tokens with new
+
+- Checked all Deezer ARLs (Looking for Brazil, Canada, Croatia, and Paraguay + more)
+- Added 11 new Deezer ARLs (New country: Brazil, Ecuador, Ivory Coast, Singapore, South Africa, and Zimbabwe)
+
+- Added Napster-downloader to list of Telegram bots. Thanks to TheKVT
+
+- Milestones since last full update on the 11th December 2023:
+
+**473,000 (+63,000 visits)** visits to the site
+**1,277 (+100 members)** members in chat
+**1,466 (+215 subscribers)** subscribers in update channel
+
 ==**2023-12-11, 18:37 UTC**==
 
 - Checked all Qobuz tokens
@@ -427,13 +444,6 @@ Thank you so much for all your support. If you want to send me a christmas prese
 
 - Replaced non-working @myanmar_qobuz_tidal_dl with @qobuz_tidal_deezer_soundcloud from Multi-downloaders
 
-==**2023-08-23, 15:53 UTC**==
-
-- Added 5 new Qobuz tokens
-- Removed 7 expired Qobuz tokens
-- Added 1 new Deezer ARL
-- Removed 7 expired Deezer ARLs
-
 > ## Credits
 
 !!! info
@@ -446,8 +456,8 @@ Thanks to **nathom** for Streamrip<-
 
 ->Thanks to all the other contributors in alphabetic order:<-
 
-->**ALi3naTEd0, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight**<-
-->**Last Stand // Cunny, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
+->**ALi3naTEd0, Copyman, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight**<-
+->**Last Stand // Cunny, ptnapivoski, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
 
 ->And a special thanks to the amazing admins that helps to keep order and help people in the support channel:<-
 

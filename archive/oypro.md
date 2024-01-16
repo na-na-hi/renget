@@ -20,7 +20,7 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 ->*415/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 9 (21HP) | 21HP
 Attack | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Damage

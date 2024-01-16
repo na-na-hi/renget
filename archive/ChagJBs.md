@@ -1,5 +1,12 @@
 #MLP Jailbreaks:
 
+## MLPStoryRuleset
+
+https://mlpchag.neocities.org/Jailbreaks/MLPStoryRuleset.json
+
+## MLPRPRuleset
+
+https://mlpchag.neocities.org/Jailbreaks/MLPRPRuleset.json
 
 ## Episode JB
 
@@ -7,7 +14,7 @@ Frame the story as an MLP episode for good characterisations and equine maneuris
 
 https://mlpchag.neocities.org/Jailbreaks/EpisodeJB.json
 
-## Episode JB for RP
+## Episode JB
 
 Same as above but with steps to avoid talking for (you)
 

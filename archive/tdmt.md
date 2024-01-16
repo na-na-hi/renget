@@ -47,7 +47,7 @@ OneDrive (FLAC): https://doujinstyle.com/?p=tlmc
 ### Touhou Doujin Music Distribution (Spotify, Apple Music,...)
 !!!info  acts as the publisher for Touhou Project doujin music circles on digital streaming platforms.
 Touhou circles on Spotify https://thspotify.moe
-New releases will be announced [here](https://mayoiga-shironeko.hatenablog.com/) - latest: [2023.10.21](https://mayoiga-shironeko.hatenablog.com/entry/2023/10/22/124433)
+New releases will be announced [here](https://mayoiga-shironeko.hatenablog.com/) - latest: [2024.01.16](https://mayoiga-shironeko.hatenablog.com/entry/2024/01/16/193212)
 Spotify playlists for every Touhou theme https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit
 
 ### Gensokyo Radio 

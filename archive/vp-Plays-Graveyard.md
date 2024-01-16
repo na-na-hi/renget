@@ -55,6 +55,14 @@ https://arch.b4k.co/vp/thread/52133754/ 1 who needs tripcodes or pokemon with mo
 https://arch.b4k.co/vp/thread/52154492/ 2 jan's curse
 https://arch.b4k.co/vp/thread/52392835/ 3 and there goes the namefag
 
+###->Musk's Detergant ""Playthrough""<-
+!!! danger
+	Musk started this up at the end of the Opal thread
+	**Cause of Death: idk I'll actually look later, I assume he got filtered**
+[**[1]**](https://arch.b4k.co/vp/thread/52490431/)
+[**[2]**](https://arch.b4k.co/vp/thread/52526280/)
+[**[3]**](https://arch.b4k.co/vp/thread/52542252/)
+
 ###->Rejuvenation Ground Mono<-
 !!! danger
 	Musk wanted to do a ground mono, for some reason...?
