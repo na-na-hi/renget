@@ -1448,3 +1448,592 @@
 >you washed the toy in the sink and then got dressed
 >after you then helped latch his shell into place
 >you still had work to do tonight
+
+>after the fun time with Roxy you discovered a lot about yourself
+>you liked all of that
+>liked Roxanne in particular 
+>certainly made work more relaxed
+>he was good company before you both could just go jerk off together 
+>you'd noticed he started being a little more concerned with how he looked around you
+>he wasn't vain
+>but didn't hesitate to make it obvious he fluffed his hair more than usual 
+>you caught him watching the hair and nail salon in the mall a little more
+>possibly taking notes
+>you didn't really think much of that applied to him
+>but who were you to stop him
+>it thankfully didn't interfere with work
+>you felt ridiculous worrying
+>behind locked doors he was a sweetheart 
+>but out in the open he was all business
+>you'd never dated someone this professional
+>it was shocking
+>to think you were dating
+>Roxanne did his job and you did yours
+>only at night would he be… quirky
+>Roxanne was fun as a lover
+>he was eager
+>easy to please
+>curious
+>and passionate 
+>it became a nightly ritual to burn off steam in the bathroom before you guard shift
+>he'd cuddle you close
+>sometimes you'd use the toy, sometimes your hands
+>it was good bonding
+>he construction was still a mystery 
+>you wanted to know more
+>but you didn't know about how to investigate 
+>not like you could just ask Fazbear corporate 
+>”hey guys, why does your merchandise actually ejaculate when he moans my name?”
+>there had to be a covert way to check
+>Roxanne didn't know much more than you did
+>but he was just as interested in finding out more
+>you decided maybe the internet would be a decent resource
+>maybe
+>one night you browsed your phone, head in Roxanne’s lap
+>he played with your hair
+>it had never occurred to you to just look up Roxanne Wolf on the internet
+>you wanted to make your searches vague
+>if you started with “Roxanne Wolf anus” you couldn't exactly play it off as just curiosity if you got caught
+>you saw the usual claptrap about Fazbear industries
+>they put a good face out there
+>but you wouldn't gleam much more from the corporate site
+>you looked through social media
+>a bunch of influencers
+>hubbub about the mall facilities
+>they'd really grown since the first facility 
+>despite all the shady activity you'd heard through the grapevine
+>your Roxanne definitely looked different than the ones you'd see 
+>they really didn't do anything for you
+>only this one did anything for you
+>that thought made you smile
+>something that he caught
+>”what's that smile for?”
+>he looked down, curiosity playing in his eyes
+>the hand stroking through your hair continued 
+>you mulled over showing him
+>you'd never really brought up the idea
+>how would you take the idea you were mass produced
+>for all he knew the merchandise in the novelty store was based off him
+>maybe someone had mentioned it in passing
+>well, despite the fears you decided to show him
+>he glanced at the screen
+>you'd picked a picture of Roxanne at some sort of go kart track
+>the robot looked pleased with herself
+>he tried tapping the screen but his clawed fingers were not the best for touch screens
+>he looked at it curiously
+>”well…”
+>you wondered what he thought
+>”it's nice I have copycats”
+>thats…
+>well ok
+>you wouldn't argue
+>he was unique anyways
+>the go kart Roxy didn't even have hips or anything
+>you took the phone back and kept looking
+>you found Roxanne erotica in due time
+>it was the internet after all
+>that wasn't much of a help 
+>plus it was all girl Roxanne
+>that wasn't much use
+>you tried to find out through another venue
+>maybe Fazbear got their robots from someone
+>you looked into that
+>just how did they have someone this sophisticated 
+>your curiosity was getting the best of you
+>so you decided to try not dancing around the subject
+>you just searched up “Fazbear sex robots”
+>it was a lot of elaborate fan art like what the last search turned up
+>Roxanne as a girl felt wrong to you now
+>he was a he
+>it just felt natural
+>you hadn't had much interaction with any Fazbear attractions anyways
+>there were a few articles going over an acquisition 
+>the company had done well keeping out of the limelight
+>all things considered with other issues they'd had
+>but they'd been on a little buying spree with their profits 
+>and they hadn't exactly been losing that much money
+>especially with loaning out technology like this
+>curiously, they seemed to have bought up a company with a strange name for something in tech
+>Bad Wyvern?
+>you looked them up and only then did you feel crimson rush across your face 
+>Roxy caught that reaction too
+>you hid your phone in your pocket this time
+>this time you weren't explaining this one
+>you'd have to look into this later without a certain someone over your shoulder
+>the rest of the shift he was asking what you saw
+>”oh come on,” he'd insist in a pleading tone
+>it was actually sort of cute
+>he was like a giant puppy dog
+>you had no intention to tell him without reading more
+>after a few hours of pleading while you worked you finally came up with a distraction
+>you pulled him into a hallway and started kissing his chest plate
+>he was surprised but not disappointed 
+>that was enough to distract him
+>you had more time to kill so why not tease him a little?
+>you didn't feel like making a mess so you planned to blue ball him a little
+>the intent was to distract
+>you undid the chest plate and exposed his nipples
+>”you love my tits that much?”
+>he stroked your hair as you pondered where he heard that term
+>he grasped your hair and put you face to face with the right nipple
+>”suck,” he growled
+>his voice was low, sultry
+>needy
+>Roxanne knew you were hiding something you'd found on your phone
+>he knew this was a simple distraction to get him to stop asking questions
+>he still wanted your mouth on his nipple
+>he could feel your hot breath
+>he could get the answer out of your later
+>right now he was feeling all tingly and this was the priority 
+>when you kissed it he pushed your head hard into his chest
+>”there, there.”
+>he groaned and his hand snatched your hand and placed it over his other nipple 
+>”better not ignore the other one, rockstar.”
+>he softly laughed at that last remark
+>if he couldn't get an answer he might as well put your mouth to good use
+>an idea struck Roxanne
+>when you moved to get a more comfortable position you were spun around and pressed against the wall
+>if he couldn't convince you he'd smother you with his chest until you talked
+>he just had to persevere and keep the pressure on you
+>you didn't know why he was so forward but you rolled with it
+>you did start this encounter by kissing his chest
+>so maybe you were to blame a little
+>he embraced you tightly and shivered occasionally 
+>he definitely liked this attention if the low groan were any indication 
+>so you kept it up
+>Roxanne really felt like pouncing you right now
+>he kept his composure 
+>tried to 
+>but riding you until his legs gave out sounded really nice right about now
+>but he didn't want to just take you
+>he wanted you to take him
+>it was getting harder to think straight though
+>you weren't trying to tease him but at least he stopped asking about the phone thing
+>you didn't feel like explaining he might be a sex toy
+>that's the only explanation for why Fazbear owned a company specializing in that sort of thing
+>was Roxanne a “special” kind of entertainment?
+>it certainly added up
+>you wondered if telling Roxanne he was built to take dick was a good idea
+>there wasn't much you could do smothered against fur, metal and whatever his delicate parts were made of
+>his skin reacted like yours at least
+>eventually, you needed to rest your jaw and lips
+>you'd lost track of the time 
+>you wanted a break from his chest as nice as it was
+>this idea sort of backfired
+>you'd encouraged him and he wasn't shy tonight
+>reminded you of how ravenous he was with that kiss around Christmas 
+>it was strange to you you drove someone this wild
+>you'd tapped his shoulder to try and get his attention 
+>”nuh uh,” he remarked 
+>his clawed hand clamped over the one on his chest
+>”you're either going to start what you finish…”
+>you looked up to see the smirk play across his face
+>one eyebrow slightly raised as he eyed you buried in his chest
+>”or you tell me what got you all excited earlier.”
+>dammit
+>Roxy would never hurt you
+>but he could detain you
+>his other hand reached around and lifted you up by your ass
+>”cute butt by the way”
+>Roxanne knew enough about sex to figure you were the “top”
+>but he wasn't above using his strength and make you think your ass was in danger
+>he would never actually dream of doing that to you, especially by force
+>but what if he played the big bad wolf up a little?
+>made you sweat a little
+>he gave your ass a squeeze
+>”teasing me all the time,” he remarked in a low hungry tone
+>the urge to ride you was there
+>but he wanted that information 
+>sex later
+>he'd seen how shocked you were and you'd even tried to seduce him like this
+>so now it was Roxanne’s turn to tease
+>he ground his hips against yours
+>”your choice rockstar~”
+>you could feel his body shudder as he squished your back to the wall
+>fine
+>fine
+>you'd relinquish the information
+>you tapped him and he finally freed you and you were going to be smelling Roxanne for a while
+>he relaxed and set you down
+>oh thank God
+>Roxanne was probably like a moment away from licking his muzzle 
+>you knew how a porkchop felt now
+>”oh relax,” he replied after lightly patting your ass
+>he still loomed over you, putting his hands against the wall on either side of you 
+>you wondered where he picked up the flirting
+>him pulling out the dom thing threw you off
+>when you got to the point and explained the sex toy thing he was a little taken aback 
+>”so I'm like that tube we use?”
+>well he wasn't just some object, he had feelings
+>”so that means you can use me like that tube right?”
+>of course that's where his mind went to immediately 
+>well at least he wasn't a wreck pondering his place in the universe 
+>so he wasn't upset?
+>it felt unwise to bring it up but you wanted his opinion
+>”why would I be?”
+>his clawed fingers tilted your chin up to force eye contact
+>”I'm an entertainer, aren't I? you're not telling me anything I don't already know.”
+>he smiled and pecked you on the cheek
+>he pulled back and gave you breathing room
+>his hand still held your chin in place
+>”I'm your favorite right?”
+>well you had no idea what he meant by that but sure
+>sure
+>he was your favorite 
+>his smile was beaming
+>you knew you'd probably bitten off more than you could chew
+>Roxanne had made it up in his mind
+>if he was a “sex toy”, he'd be your sex toy
+>it only made sense
+>you'd even said he was your favorite 
+>he let you put his chest plate back on 
+>as heated as Roxy was, he wasn't going to interfere with your work that badly
+>he needed you to stay 
+>of you got fired and they tried to bring in some other guy he'd never forgive himself
+>he did give you one more excited hug before giving you space again
+>the urge to run off with you slung over his shoulder was strong
+>but Roxy understood there was a proper time and place
+>he didn't like it
+>but he understood
+>he really wanted to give you some private entertainment 
+>just what he'd do he didn't know the specifics of
+>a lot of this he had to pick up second hand
+>some of this was based off some sort of instinct he couldn't place
+>you nearly spit out a soda when Roxanne point blank asked when you were going to use his back hole
+>you'd been working on another theater sign and were taking a break for a second
+>you did really open up pandora's box here
+>you told him the time had to be… special
+>best excuse you could think of
+>it wasn't that you didn't want to
+>that contact earlier left you excited and it was hard not thinking about going all the way
+>especially with that revelation that he was completely functional there
+>there would be no other reason to give him an asshole otherwise
+>but you didn't want to rush things
+>”so what makes it special?”
+>”is now special?”
+>you felt like a buzzkill with how eager he looked to you
+>you did like him
+>and did sound fun
+>the way he wagged his tail and looked to you was making you feel just a little guilty
+>while you didn't feel tonight was the best time you decided to compromise a little
+>you brought up that you should at least, like court him a little more
+>it hit you that you really hadn't gone over dates with him
+>you'd skipped right to frotting
+>maybe it was because you already spent most of your time with him
+>could you take him on dates?
+>he was sort of confined to the mall and frankly, so were you
+>frotting was one thing but going all the way felt like it needed a better prelude
+>you'd grown to really appreciate his company
+>but a boyfriend might be different
+>maybe?
+>you just didn't want to screw this up
+>you'd taken risks at work with this and you were happy you did
+>but you felt Roxy deserved more than just being used
+>you told him how you felt like maybe an actual date would be a way to make it special
+>he was curious 
+>that was good
+>you'd just have to do a date here
+>at night you could practically own the place so you could have a nice dinner
+>seeing a movie probably wouldn't be that easy
+>you didn't know how to operate the projectors
+>however the DVD store did have tvs
+>so co opt that in the name of security 
+>just romance a little 
+>you hoped he'd like romance 
+>before this you'd just treated the mall as a job
+>Roxy was the one exception
+>why not have both of you enjoy the place a little?
+>he didn't initially buy into it despite the curiosity 
+>it was true you were sort of stalling and he'd known you to dodge these things before
+>you could have dropped your pants and fucked then and there
+>but he was special and you didn't want to just take advantage of it
+>you wanted him to have a first time he'd actually remember and not have it blend into just debauched sex
+>sex would be fun
+>true
+>but you didn't want that to be his world
+>you were his window to a world outside this mall and he deserved better
+>you'd be better
+>you finally convinced him when you pulled him over to a photo booth
+>both of you sat down, the booth seat creaking slightly at heavy wolf ass
+>you took photos that started awkward at first 
+>then you felt the urge to kiss him
+>you slipped some more quarters in as the kiss turned heavy
+>the photos kept coming as the kissing kept going
+>the second to last photo had you falling out of the booth because someone got a little eager and pushed you through a curtain 
+>the last photo being a panicked Roxanne trying to catch you
+>but there it was 
+>you two, all affectionate
+>on camera
+>after laughing off the fall you set a time
+>you'd do an official date
+>”then we have sex?”
+>to the point
+>you'd do whatever he wanted
+>he hugged you tightly
+>”you won't regret this”
+>you had to admit, part of you was stalling
+>but you felt sentimental too
+>Roxanne deserved better
+>you did mean that
+>it would have been easy just to fuck then and there but you wanted you both to have more of a connection 
+>you wanted to do this right
+>after that date you'd probably break your pelvis at some point
+>you wanted to give him a positive first impression for his first time
+>maybe it was idealism 
+>it just felt like it would be better
+>you weren't intending to run from Roxanne
+>this was just the final step
+>the milestone 
+>so you wanted to make it count for something
+>it was a bit silly having it at the same mall you two worked at
+>but it wasn't like you could just up and steal Roxanne
+>someone may notice
+>after the shift you had privacy to look into things
+>and it didn't seem like a lot publicly came of Fazbear's acquisition 
+>you had a theory 
+>Roxanne here might be a new model
+>Fazbear might have repurposed some parts but a lot of his body just didn't match the Roxys you'd seen online
+>he was unique 
+>none of the others seemed as sleek
+>though they did sort of have personalities judging by videos 
+>I wasn't just something preprogrammed 
+>they'd learn
+>Fazbear's was somehow working with robotics and computers so far above anything you'd seen before
+>how your mall ended up with him you didn't know
+>maybe mistakes were made on the shipment
+>you weren't about to correct anyone
+>as for the male thing
+>you just accepted that was something that made him more unique 
+>you had a boyfriend
+>and you really wanted to do right by him
+>this was a simple gesture but you hoped he liked it
+>you didn't know if it was possible to break his heart and you never wanted to have him discover that
+>you also sort of wanted to psych yourself up
+>he wasn't intimidating
+>at least not to you
+>but you had stage fright
+>he'd probably love whatever you did no matter what but you weren't going to screw this up
+>nope
+>so the day of your date came
+>you'd stashed flowers and couple other surprises in your van
+>you figured that would be a good ice breaker
+>you had a feeling Roxanne wouldn't initially grasp the gesture but you wanted to get him a gift
+>hard to think of what gift to get him as it was
+>but flowers were sort of an easy idea
+>you ended up picking up a few bouquets and mixing and matching
+>you wanted to get a bouquet that matched his colors a little
+>a gesture you hoped he appreciated 
+>you wanted to knock this out of the park in some way
+>you went through your shift then nightfall and an empty mall
+>he was curious when you headed out to your vehicle
+>you came back with the flowers behind your back
+>he watched you curiously through the glass door the whole return 
+>you had been careful not to park in an area with cameras
+>thankfully no one had broken into your piece of shit van
+>you'd planned this out best you could
+>maybe a bit of it was selfish
+>you didn't want this to just be just sex
+>you could have just gone home and jerked off if it was about busting a nut
+>you ambushed him with the flowers at the door and he didn't initially get it until you explained about the colors
+>then he was fascinated with the purple and blues
+>you even added a little yellow from your apartment's yard for his eyes
+>it was perhaps a little too sappy but you wanted to do this legitimately 
+>you told him to shut down and recharge while you worked on dinner
+>something nice you could share time with him at a table over
+>as opposed to some of the slop from this mall or a TV dinner
+>heating up precooked Italian in a microwave wasn't taking him out to somewhere fancy
+>but it was a step above
+>fettuccine alfredo and garlic bread was simple but fancy enough 
+>what you hadn't told him was dinner was only part of the surprise 
+>he seemed to like when you wore that shirt with Roxanne on it
+>the time you'd given for this date had given you time to prepare matching shirts with one of one of those pictures of you two together 
+>you'd done it by yourself to cover your tracks
+>was it tacky? possibly 
+>was it risky? definitely 
+>was it worth it for the look of shock on his face when he came to after you tossed his into his lap? yes
+>he was initially confused about the flowers but this he seized upon immediately 
+>that was “us”
+>on a t shirt
+>you'd have thought you'd handed him a wedding ring
+>picking a size for him was difficult
+>XL was sort of tight on him
+>but it worked
+>he could always shed the chest plate and it would probably work better
+>you'd set out your dinner at a tiny table
+>Roxanne sometimes fumbled with chairs due to his size but you wanted to try sitting him in one of the steel mall chairs nonetheless 
+>he was confused when you pulled a chair out for him but took it anyways
+>you were trying to be polite and pretty much pulled every cheesy cliche from the book
+>they wouldn't be cliche to Roxy
+>over dinner you relaxed and talked
+>you couldn't exactly regale each other with work stories because well… you were usually within earshot of each other
+>Roxanne took this time to surprise you
+>”so what do you want to do in the future?”
+>he rested his elbows on the table and his chin in his hands as he leaned in
+>you honestly hadn't thought much of that
+>you'd been pretty much living paycheck to paycheck
+>”just wondering. a guy like you, the sky is probably the limit”
+>that was sort of endearing to hear from someone
+>”I mean, I get you all to myself. that's great.”
+>he grinned
+>”I started giving a little thought to what this all means. I still don't get a lot of it.”
+>he reached a hand over and placed it over yours
+>probably picked up the significance from couples in the mall
+>”no matter what you do you're my favorite.”
+>you remembered him actually getting angry and asserting that you weren't replaceable 
+>maybe you weren't
+>not to work no
+>the mall would chew you up and spit you out if it could
+>but Roxanne in a sort of social vacuum had picked up the concept of love in his own way
+>maybe you'd start thinking more about your future from now on
+>it sort of helped to have someone spur you on sometimes
+>you two talked a little more
+>Roxanne prodded you a little more about the outside and you decided why not be an open book 
+>it had gotten you good things with Roxanne before
+>maybe it could help him
+>you figured why not
+>he might want to go out but that was a risk you'd have to take
+>after all, you wanted him to trust you
+>and you trusted him
+>this whole thing would crumble if it was built on suspicion 
+>so you decided to clear up some stuff for him
+>it sort of helped you didn't really have much going on in life besides waging
+>so you'd go back to your little apartment and rest
+>he was curious 
+>”apartments?”
+>you rented a roof over your head
+>”why not live here?”
+>you had to explain ownership 
+>your bosses wouldn't appreciate squatting
+>while you practically lived here there were also somethings home had
+>”like?”
+>how best to put this?
+>an actual bed is appreciated 
+>hot showers 
+>a meal 
+>simple comforts yet it was hard to describe to him
+>out there could be a lot of excitement but you sought refuge in your home
+>this mall was as much excitement as you cared for
+>”what if I came home with you?”
+>you nearly choked on your pasta
+>the bosses would kill you 
+>you couldn't 
+>they'd instantly know it was the one guy watching the doors
+>besides you'd just started a date
+>taking him home would be several steps ahead
+>what shocked you was him changing the subject
+>normally he'd be stubborn and push
+>instead he asked more questions
+>asked about your van
+>how driving worked
+>if you liked it
+>it was mundane stuff you took for granted
+>and you answered honestly
+>you were an open book 
+>he hung on your every word
+>eventually you wrapped up dinner
+>you'd clean up later
+>now was movie time
+>breaking into a store again seemed unwise so you settled for your laptop 
+>you wanted to make it special but also didn't want to piss off another shop owner
+>so this was the compromise 
+>you had an external HD with a bunch of movies from… places
+>he wasn't a romance movie kind of guy
+>at least you guessed
+>so you picked something at random
+>Predator
+>he seemed intrigued by the idea
+>if movie theater dates were any indication, you wouldn't be watching for long anyways
+>but best case scenario he liked it and you had fun
+>you set it up on a table near the stage 
+>that could thankfully support Roxy easily 
+>he waited for you to sit down then set his head in your lap
+>it was going to be harder to focus on Arnold Schwarzenegger fighting an alien
+>it wasn't too far into the movie
+>right around the part where Jessie Ventura bites it
+>Roxy clearly had intentions other than the movie
+>his clawed hand squeezed your thigh through your jeans
+>the movie was forgotten
+>"you said I could do anything, right?"
+>you regretted that choice of words but yes, you did
+>he asked to have you undress him
+>yeah the movie was an afterthought
+>he sat up and slid the shirt up
+>you helped him get the chest and pelvic plates off
+>his hard cock flopped out
+>so what did he want?
+>"lay down"
+>ok?
+>you remember vividly hearing some shootout from your laptop speakers before your face was smothered by robot wolf ass
+>so the date was going well
+>Roxanne weighed a considerable amount
+>at least 300 lbs
+>however, you weren't worried
+>he wouldn't hurt you
+>you were sure of it
+>you were so close you could hear the hydraulics in his legs
+>he groaned at feeling your breath on his skin
+>with his unique composition, his ass was about the cleanest thing in the mall
+>the smell was the same vinyl of his chest and dick you were familiar with
+>you clasped your hands on his cheeks and he practically bucked at the touch
+>a clawed hand grasped behind him to grab your hair
+>he rolled his hips against your face
+>the little hisses of pistons blended with the low groan building in him
+>his tail swished back and forth lazily 
+>your eyes were occupied 
+>curiosity got the better of you and you started kissing
+>if he was making noise before, he was practically singing now
+>your lips on his opening had him arching his back
+>your tongue had him reaching for his cock and stroking himself 
+>this was new territory for both of you
+>working him into a frenzy allowed you make a new discovery 
+>Roxanne had his own lube
+>and it tasted like… 
+>raspberries?
+>that's the only explanation 
+>they made a self lubricating sex toy
+>probably only responded to touch so neither of you would have known before this
+>you ate his ass and he didn't even have words
+>any doubt of what kind of model Roxanne was was gone
+>Fazbear would have to pry the wolf out of your cold dead hands
+>when you stuck your tongue in him, he shouted your name and squished his ass down on your face
+>you didn't want to die here so you'd be careful pushing the envelope 
+>you had a very vulnerable skull and vertebrae you needed intact
+>all you could smell and taste was his skin and fruit 
+>you'd never do this with a human
+>it seemed gross
+>here, it was harmless
+>no risk
+>and he loved it
+>he was stroking himself, tongue hanging out of his mouth
+>his claws lightly raked through your hair as he whined 
+>your hands gripped into his ass tighter, partially for how good it felt to the touch
+>partially in case you needed to bench 300 pounds of ass off your face
+>you could hear the little motions of his hips as he rolled them
+>what a wonder of engineering 
+>eventually his hand left your head and you noticed him undoing your pants
+>Roxanne wanted to at least see your cock
+>he wanted to know he was your favorite 
+>kissing his ass was one thing
+>he needed to see your cock twitching and throbbing 
+>he had trouble doing it with one hand so he had to stop jerking off
+>he valued seeing your cock over pleasuring his own right now
+>he was content once he'd free you from your pants
+>you were hard and he was satisfied 
+>you'd be tasting raspberries for a while
+>Roxy's heavy balls rested on your throat, you could feel them while he pleased himself again
+>your tongue lapped at him mercilessly 
+>while you were cautious about him going overboard and hurting you, you were also enjoying yourself 
+>Roxanne watched your cock as he enjoyed himself
+>he did this to you
+>he made you feel good
+>he turned you on
+>he was amazed
+>and he craved more 
+>Roxy didn't know he could feel this good
+>his whole body was on fire
+>even jerking off didn't feel this good
+>he was in heaven with every little lick and prod
+>he might just keep you in the mall whether you wanted your apartment or not
+>the glistening precum coming out of your cock caught his attention
+>he needed to ride it
+>it was like he was built for this

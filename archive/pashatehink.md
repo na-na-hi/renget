@@ -1,5 +1,5 @@
 #Паша Техинк
-->![Rentry? In 2023?](https://files.catbox.moe/4zxsfh.gif)<-
+->![Draven's wife is very cute!](https://files.catbox.moe/r919mw.jpg)<-
 !!! note haha numbers go up
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry.
@@ -15,7 +15,7 @@ Waifu: А-545 (both a rifle and a T-Doll)
 
 Current bans:
 Reddit: This account has been suspended .
-4chan: Off-topic; all images and discussion should pertain to technology and related topics.
+4chan: —
 2ch: —
 TO-DO LIST: Create more simple bots for simple people.
 

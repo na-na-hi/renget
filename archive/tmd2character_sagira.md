@@ -13,7 +13,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 11 | **Experience to Next Level:** 30/110
+**Level:** 12 | **Experience to Next Level:** 65/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 1,292₽ | **Glorious Gold:** 0 Bars
 
@@ -25,11 +25,11 @@ Magician | When using Attacking Moves, the User steals an Item from their Oppone
 ->*260/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
-Special Attack | 3 | Species Bonus | +3 Special Damage
+Special Attack | 4 | Species Bonus | +4 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP

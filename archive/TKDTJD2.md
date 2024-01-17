@@ -3091,3 +3091,101 @@ https://nitter.net/AryJeay/status/1747045626414571737#m  1/15/24
 
 Likely another Yemen attack.
 https://nitter.net/AryJeay/status/1747047397564334582#m  1/15/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations yesterday, January 15 (2024), against US-israeli forces (all resistance members attacked yesterday)
+
+— 🇮🇷 Islamic Repuclic of Iran (IRGC)
+
+🔻Demolished an important & main MOSSAD headquarter in the Iraqi Kurdistan region, completely destroying it with ballistic missiles, as well as neutralising leaders & key elements that were involved in terrorist attacks on Iran.
+
+🔻Targeted the areas controlled by the terrorist Hayat Tahrir al-Sham in Idlib province, using for the first time the Kheybar Shekan ballistic missile, marking Iran’s longest range missile attack ever (1350km)
+
+🔻Destroyed the HQ, training camps, logistics support headquarters and a medical point of the terrorist group Turkistan “Islamic” Party in Jabal al-Samaq region and in the vicinity of Harem settlement with ballistic missiles. (These areas are where the militants of ISIS-K receive training & are transported by the US to Afghanistan and the border of Iran to to carry out terrorist attacks inside Iran. 
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻 Targeted an American ship in near Aden with a number of anti-ship missiles, achieving precise and direct hits.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Zionist bulldozer with "Al-Yasin 105" shell in Khan Yunis city, south of Gaza.
+
+🔻Carried out a raid operation from one of the Qassam tunnels on a Zionist foot force with machine guns from point-blank range, resulting in casualties among 5 soldiers east of Khan Yunis, south of Gaza.
+
+🔻Shelled military vehicles & soldiers in Khan Yunis, with heavy caliber mortars.
+
+🔻Shelled military concentrations, east of Al-Bureij camp in the central Gaza Strip, with heavy caliber mortars.
+
+🔻Detonated an anti-personnel "Ra'diya" explosive on a Zionist infantry force advancing towards an area near Ain Nafa tunnel east of Khan Yunis, south of Gaza.
+
+🔻Targeted a Zionist infantry force with an anti-personnel explosive, causing one killed and one injured east of Khan Yunis, south of Gaza.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled military concentrations around Abu Maarouf area in the center of Khan Yunis with a barrage of 60mm regular mortars.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Clashed with military vehicles and soldiers in the north of Gaza city.
+
+🔻Shelled the field command headquarters of IOF forces in the north of Gaza with mortars.
+
+🔻Targeted a fortified position of a Zionist force and snipers in Khan Yunis Al-Balad area east of Al-Kutayba Mosque with an anti-personnel explosives.
+
+— 🇵🇸 Martyr Omar Al-Qassem forces:
+
+🔻Targeted a drone, destroyed 5 military vehicles, and killed and wounded more than 15 IOF soldiers/officers (in the past 48h).
+
+🔻Shelled military vehicles south of Al-Zaytoun neighborhood with a number of heavy-caliber mortars.
+
+🔻Targeted an israeli military ship with a guided missile, west of Gaza City, in response to the bombing of citizens' homes in the Tal Al-Hawa area.
+
+— 🟡 Hezbollah:
+
+🔻Targeted Israeli soldiers around Mitat barracks with rockets.
+
+🔻Targeted Birkat Risha site with suitable weapons.
+
+🔻Targeted IOF spy equipment in the vicinity of Metulla site with suitable weapons.
+
+🔻Targeted Birkat Risha site with Burkan IRAM rockets.
+
+🔻Targeted Israeli soldiers in Ramim barracks with rockets.
+
+🔻Targeted Al-Malikia site with suitable weapons.
+
+🔻Targeted Al-Samaqa site in the occupied Shebaa Farms with suitable weapons.
+
+🔻Targeted deployment of Israeli soldiers around Hanita site with rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the US Conoco base in Syrian depth with a missile barrage.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1747271755964858585#m  1/16/24
+
+🚨🇾🇪 Preliminary reports of an attack against a ship, northwest of Saleef (Yemen) by Yemeni Armed forces.
+https://nitter.net/AryJeay/status/1747225935667990840#m  1/16/24
+
+Aerial picture of the MOSSAD compound that was destroyed last night by the IRGC
+https://nitter.net/AryJeay/status/1747216852361621563#m  1/16/24
+
+🛑 IRGC Commander Hajizadeh published statistics on last night’s attack:
+
+• Launch of 4 Khaybar Shekan missiles from southern Khuzestan.
+• 4 launches from Kermanshah to Erbil
+• 7 launches from East Azerbaijan to Erbil
+• 9 launches additional launches towards Takfiris & ISIS in Syria
+
+- Note: With the launch of 24 missiles, last night's operation by the IRGC marked Iran's largest missile operation to date.
+https://nitter.net/AryJeay/status/1747198916758532188#m  1/16/24
+
+>🛑 | 🇮🇷 IMPORTANT Security source: 
+
+The Zionist operation targeting the Iranian MoD headquarters in Isfahan on January 28, 2023, was planned in the home of "Peshraw Dizayee," along with several other attacks in which he was a key partner in supporting, planning, facilitating, and monitoring their execution.
+
+It is worth mentioning that the Zionist operation in Isfahan was carried out by attacking the Ministry of Defense headquarters with a number of suicide drones. The attack was thwarted by the air defense systems, and it was planned to cause a major explosion in Isfahan by targeting the large ammunition depot at the intended site.
+
+Peshraw Dizayee was killed last night in an accurate Iranian ballistic missile attack, along with a number of Zionists whom the enemy refrains from announcing.
+https://nitter.net/AryJeay/status/1747223176793186456#m  1/16/24

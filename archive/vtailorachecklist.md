@@ -2,8 +2,10 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (12/29/23)
-	**Updated info**
+!!! warning Quick Update (01/17/24)
+	**Updated info, Kawa Entertainment added to defunct list**
+	**Moved defunct agencies into their own section**
+	**Added new upcoming members**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -46,7 +48,12 @@ Saya Sairroxs | - | - | - | -
 Runie Ruse | - | - | - | -
 Hikanari Hina | X | - | X | Too early bake according to anon, will test anyways
 Eimi Isami | - | - | - | -
-Muu Muyu | - | - | - | -
+Muu Muyu | X | - | X | -
+Kannagi Loki | - | - | - | Debut January 27th
+Kokoromo Memory | - | - | - | Debut January 27th
+Gram Pico | - | - | - | Debut January 27th
+Ayase Yuu | - | - | - | Debut January 27th
+Kaminari Clara | - | - | - | Debut January 27th
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -59,24 +66,6 @@ Hime Hajime | - | - | -
 GeegaVS | X | X | - | Her VShojo outfit LoRA is a little scuffed, will need to be updated later.
 Kuro Kurenai  | - | - | -
 Matara Kan  | X | X | - | Early bakes weren't perfect (ex. Her antennae turn into wings), so once theres much more art and content, a V2 would be nice.
-
-## -> Tsunderia (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana, Matsuro Meru, 
-
-Chuuba | Has Lora | Update Needed | Testing | Comment
------- | ------ | ------ | ------ | ------
-Inukai Purin | - | - | - | YOU CANT TAUNT ME WITH A PURIN LORA AND NOT GIVE IT TO ME SIR, DONT THINK I DIDNT SEE IT.
-Hoshino Charlotte | - | - | -
-Umiushi Urara | - | - | -
-Yazaki Kallin | - | - | -
-Kirihime Ria | - | - | -
-Nini Yuuna | - | - | -
-Amemachi Hanabi | - | - | -
-Orla Gan Ceann | - | - | -
-Tsurugi Nen | - | - | -
-Uzuki Tomoya | - | - | -
-Tetsuya Kazune | - | - | -
 
 ## -> Prism Project <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -130,7 +119,7 @@ Hashiba Natsumi | - | - | -
 Shiromiya Mimi | - | - | -
 Shimamura Charlotte | - | - | -
 Sekishiro Mico | - | - | -
-And Uge | X | X | -
+And Uge | X | X | X
 Kanade Kanon | - | - | -
 Kisaki Anko | - | - | -
 Camomi Camomi | - | - | -
@@ -151,7 +140,7 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Zumi Dokumi | - | - | -
 Mirri Saffire | - | - | -
-Blaise Shinryu | - | - | -
+Blaise Shinryu | X | - | X
 Amora Lumina | - | - | -
 Nanimo Navi | - | - | -
 
@@ -228,7 +217,7 @@ Nagase Yuka | - | - | -
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Sakuragi Miria | - | - | -
-Yumesaki Kaede | - | - | -
+Yumesaki Kaede | X | - | X
 Domyoji Haruto | - | - | -
 Kazami Ryo | - | - | -
 Hiragi Ayaka | - | - | -
@@ -436,20 +425,6 @@ Sumi | - | - | -
 Minami Nonno | - | - | -
 Akuma Yuu | - | - | -
 Natsu Tsurugi | - | - | -
-
-## -> Cyberlive / Aetheria (Defunct) <-
-!!! note They are technically all indie, but for the lora checklist, I shall mark them as their original agency.
-	Previous members that moved to other agencies will be listed underneath their new ones, not this one.
-!!! info Available Loras without the need of updates and have been tested.
-	Alchemilla Menace, Inami Yoki
-
-Chuuba | Has Lora | Update Needed | Testing | Comment
------- | ------ | ------ | ------ | ------
-Ayame Hylo | - | - | - | Agency version preferably but anything goes.
-Kurohana Inori | - | - | -
-Iekushi Chapipi | - | - | -
-Utano Pandora | - | - | -
-Momozora Seina | - | - | -
 
 ## -> Varium <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -694,22 +669,6 @@ Susam | - | - | -
 Noi | - | - | -
 Nox | - | - | -
 
-## -> Kawa Entertainment <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Hunikin | - | - | -
-Piapi UFO | - | - | -
-Senniursa | - | - | -
-Koziichu | - | - | -
-PastaroniRavioli | - | - | -
-Mino Mieko | - | - | -
-Xion De Noir | - | - | -
-Kota Kotonya | - | - | -
-Kuromiya Lucien | - | - | -
-
 ## -> MyHolo TV <-
 !!! info Available Loras without the need of updates and have been tested.
 	Woozie Wannai, Marica Bellerose
@@ -724,28 +683,6 @@ Manaka Umio | - | - | -
 Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -
 HORI 07 | - | - | -
-
-## -> KoMETA (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Elaine | - | - | -
-Miria | - | - | -
-Virgil | - | - | -
-
-## -> Shirayuri Production (Defunct)<-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Nyaru Chu | X | X | -
-Tatsurii | - | - | -
-Yoro Yoyo | - | - | -
-Kohana Amano | - | - | -
-Lavi F. Arseille | - | - | -
 
 ## -> Amber Glow <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -815,26 +752,6 @@ Utakata Memory | - | - | -
 Nekonogi Bell | - | - | -
 Chrono Lock | - | - | -
 
-## -> Upd8 (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	Oda Nobuhime
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Yuen Aya | - | - | -
-Yuen Mina | - | - | -
-Cafeno Zombi-ko | - | - | -
-Lanna/Otonashi Rhythm | - | - | -
-YuNi | - | - | -
-Osanai Mei | - | - | -
-Rio Omega | - | - | -
-Ray Omega | - | - | -
-Tsunohane Akagi | - | - | -
-Nijikawa Laki | - | - | -
-Hibiki Ao | - | - | -
-Kasukabe Tsukushi | - | - | -
-Kimino Miya | - | - | -
-
 ## -> FlaVR <-
 !!! info Available Loras without the need of updates and have been tested.
 	Nyana Sextyn9, Sawa Grape, Sena Bonbon, Marie Mehlo
@@ -863,16 +780,6 @@ Temp-Tempai | - | - | -
 Pua Himawari | - | - | -
 Milliardo Beercraft | - | - | -
 Sorin Sorrel | - | - | -
-
-## -> PITAPAT (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Karen von Nachtigall | - | - | -
-Meena Caleano | - | - | -
-Taya Rex | X | - | X
 
 ## -> PixelLink (X) <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1073,13 +980,6 @@ Igni Redmond | - | - | -
 Kara | - | - | -
 Nantako Naru | - | - | -
 
-## -> Sedai One (Defunct) (X) <-
-!!! info Available Loras without the need of updates and have been tested.
-	Aimi Hada, Anastasia White, Aono Nemo, Lily Endou
-!!! note 100%! PERFECT(v)
-	(v) Gen 2 not exactly done, but they barely even got to do anything so its probably not possible to do them.
-
-
 ## -> VOICE-ORE <-
 !!! info Available Loras without the need of updates and have been tested.
 	Mikeneko (v1+v3), Amatsuka Uto,
@@ -1231,30 +1131,6 @@ Kurotsuki Saaya | - | - | -
 Izanami Mikoto | - | - | -
 Tsukiyo Miho | - | - | -
 Arane Hannya | - | - | -
-
-## -> MeltyPlus (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Kamashiro Natsume | - | - | -
-Hanamori Healthy | - | - | -
-Hourei Tenten | - | - | -
-
-## -> Project F (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Aozora Furia | - | - | -
-Solus Ataraxia | - | - | -
-Kawakami Kuwa | - | - | -
-Xin Asura | - | - | -
-Miya Mareena | - | - | -
-Aishii Ai | - | - | -
-Lorelai Loch | - | - | -
 
 ## -> Project:LIVIUM <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1415,14 +1291,6 @@ Asagumo Yuma | - | - | -
 Mitsumata Rube | - | - | -
 Luca Polka | - | - | -
 
-## -> The Moon Studio (Defunct) <-
-!!! info Available Loras without the need of updates and have been tested.
-	N/A
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Pinky Pop Hepburn | - | - | -
-
 ## -> X enc'ount <-
 !!! info Available Loras without the need of updates and have been tested.
 	N/A
@@ -1484,3 +1352,145 @@ Fairy Ichika | X | - | X | -
 Filian | X | - | X | Testing new lora
 Bazeelle | X | - | X | -
 Camila | X | - | X | -
+
+# -> DEFUNCT CORNER <-
+***
+
+## -> Tsunderia (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	Miori Celesta, Chikafuji Lisa, Amiya Aranha, Kamiko Kana, Matsuro Meru, 
+
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Inukai Purin | - | - | - | YOU CANT TAUNT ME WITH A PURIN LORA AND NOT GIVE IT TO ME SIR, DONT THINK I DIDNT SEE IT.
+Hoshino Charlotte | - | - | -
+Umiushi Urara | - | - | -
+Yazaki Kallin | - | - | -
+Kirihime Ria | - | - | -
+Nini Yuuna | - | - | -
+Amemachi Hanabi | - | - | -
+Orla Gan Ceann | - | - | -
+Tsurugi Nen | - | - | -
+Uzuki Tomoya | - | - | -
+Tetsuya Kazune | - | - | -
+
+
+## -> Cyberlive / Aetheria (Defunct) <-
+!!! note They are technically all indie, but for the lora checklist, I shall mark them as their original agency.
+	Previous members that moved to other agencies will be listed underneath their new ones, not this one.
+!!! info Available Loras without the need of updates and have been tested.
+	Alchemilla Menace, Inami Yoki
+
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Ayame Hylo | - | - | - | Agency version preferably but anything goes.
+Kurohana Inori | - | - | -
+Iekushi Chapipi | - | - | -
+Utano Pandora | - | - | -
+Momozora Seina | - | - | -
+
+## -> Kawa Entertainment (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Hunikin | - | - | -
+Piapi UFO | - | - | -
+Senniursa | - | - | -
+Koziichu | - | - | -
+PastaroniRavioli | - | - | -
+Mino Mieko | - | - | -
+Xion De Noir | - | - | -
+Kota Kotonya | - | - | -
+Kuromiya Lucien | - | - | -
+
+## -> KoMETA (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Elaine | - | - | -
+Miria | - | - | -
+Virgil | - | - | -
+
+## -> Shirayuri Production (Defunct)<-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Nyaru Chu | X | X | -
+Tatsurii | - | - | -
+Yoro Yoyo | - | - | -
+Kohana Amano | - | - | -
+Lavi F. Arseille | - | - | -
+
+## -> Upd8 (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	Oda Nobuhime
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Yuen Aya | - | - | -
+Yuen Mina | - | - | -
+Cafeno Zombi-ko | - | - | -
+Lanna/Otonashi Rhythm | - | - | -
+YuNi | - | - | -
+Osanai Mei | - | - | -
+Rio Omega | - | - | -
+Ray Omega | - | - | -
+Tsunohane Akagi | - | - | -
+Nijikawa Laki | - | - | -
+Hibiki Ao | - | - | -
+Kasukabe Tsukushi | - | - | -
+Kimino Miya | - | - | -
+
+## -> PITAPAT (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Karen von Nachtigall | - | - | -
+Meena Caleano | - | - | -
+Taya Rex | X | - | X
+
+## -> Sedai One (Defunct) (X) <-
+!!! info Available Loras without the need of updates and have been tested.
+	Aimi Hada, Anastasia White, Aono Nemo, Lily Endou
+!!! note 100%! PERFECT(v)
+	(v) Gen 2 not exactly done, but they barely even got to do anything so its probably not possible to do them.
+
+## -> The Moon Studio (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Pinky Pop Hepburn | - | - | -
+
+## -> MeltyPlus (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Kamashiro Natsume | - | - | -
+Hanamori Healthy | - | - | -
+Hourei Tenten | - | - | -
+
+## -> Project F (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Aozora Furia | - | - | -
+Solus Ataraxia | - | - | -
+Kawakami Kuwa | - | - | -
+Xin Asura | - | - | -
+Miya Mareena | - | - | -
+Aishii Ai | - | - | -
+Lorelai Loch | - | - | -

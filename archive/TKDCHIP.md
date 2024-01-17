@@ -1259,3 +1259,11 @@ https://files.catbox.moe/8qqw5u.mp4 New  1/15/24
 https://files.catbox.moe/4hoid0.mp4 New  1/15/24
 >The footage is of the moment when an American military site in Erbil was targeted.
 https://files.catbox.moe/sqn385.mp4 New  1/15/24
+>Al-Qassam (Hamas) published a video showing its joint-operation with the Al-Quds Brigades crushing occupation infantry forces with mortars, in the northern Gaza Strip.
+https://files.catbox.moe/q2dirc.mp4 New  1/16/24
+>Islamic Resistance in Iraq published a video showing the launch of the Arqab missile towards the center of israel, hitting a vital target.
+https://files.catbox.moe/gw5kce.mp4 New  1/16/24
+>Commander Hajizadeh: The attack on the terrorists was a response to the terrorist attack in Kerman and the martyrdom of IRGC guards in Syria More details in the video about the Mossad base disguised as a villa :
+https://files.catbox.moe/z95w13.mp4 New  1/16/24
+>"So, take notes butcher Biden. The ancestors of the Ireland that you claim to be from disown you. Keep our country out of your mouth." A strong speech by MEP Clare Daly.
+https://files.catbox.moe/lk23k2.mp4 New  1/16/24

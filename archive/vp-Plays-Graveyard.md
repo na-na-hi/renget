@@ -55,6 +55,13 @@ https://arch.b4k.co/vp/thread/52133754/ 1 who needs tripcodes or pokemon with mo
 https://arch.b4k.co/vp/thread/52154492/ 2 jan's curse
 https://arch.b4k.co/vp/thread/52392835/ 3 and there goes the namefag
 
+###->Fused Dimensions<-
+!!! danger
+	After Xenoverse, before Opal
+	**Cause of death: Musk getting filtered by emulator controls**
+[**[1]**](https://arch.b4k.co/vp/thread/51813969/)
+[**[2]**](https://arch.b4k.co/vp/thread/51844354/)
+
 ###->Musk's Detergant ""Playthrough""<-
 !!! danger
 	Musk started this up at the end of the Opal thread

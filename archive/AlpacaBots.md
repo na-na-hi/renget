@@ -57,7 +57,7 @@ Image| Name | Description | Link
 Like Pokémon but with androids
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
- ![](https://files.catbox.moe/gs8eqr.png) | Mirrko | Happy-go-lucky combat android wants to be the very best while endlessly spewing memes. | [Catbox link](https://files.catbox.moe/o5z6id.png)
+ ![](https://files.catbox.moe/gs8eqr.png) | Mirrko | Happy-go-lucky combat android wants to be the very best while endlessly spewing memes. | [Catbox link](https://files.catbox.moe/3ta89z.png)
 
 ###Standalone male bots
 Each has his own story and personality

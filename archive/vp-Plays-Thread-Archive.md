@@ -101,18 +101,18 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 ###->Xenoverse<-
 !!! danger
 	**Status: ded**
-[**[1]**](https://arch.b4k.co/vp/thread/51626929/)
-[**[2]**](https://arch.b4k.co/vp/thread/51635973/)
-[**[3]**](https://arch.b4k.co/vp/thread/51655877/)
-[**[4]**](https://arch.b4k.co/vp/thread/51683923/)
-[**[5]**](https://arch.b4k.co/vp/thread/51686415/)
-[**[6]**](https://arch.b4k.co/vp/thread/51718512/)
-[**[7]**](https://arch.b4k.co/vp/thread/51721194/)
-[**[8]**](https://arch.b4k.co/vp/thread/51725311/)
-[**[9]**](https://arch.b4k.co/vp/thread/51730733/)
-[**[10]**](https://arch.b4k.co/vp/thread/51750632/)
-[**[11]**](https://arch.b4k.co/vp/thread/51760079/)
-[**[12]**](https://arch.b4k.co/vp/thread/51810074/)
+[**[1]** *It's beginning*](https://arch.b4k.co/vp/thread/51626929/)
+[**[2]** *Cool Buggeru, and shit level curve*](https://arch.b4k.co/vp/thread/51635973/)
+[**[3]** *Chadgron obtained*](https://arch.b4k.co/vp/thread/51655877/)
+[**[4]** *Roll Credits*](https://arch.b4k.co/vp/thread/51683923/)
+[**[5]** *I think Shulong is based but holy fuck the 3rd form is ugly*](https://arch.b4k.co/vp/thread/51686415/)
+[**[6]** /mlp/ abuse, based](https://arch.b4k.co/vp/thread/51718512/)
+[**[7]** *Because a ghostbuster segment was very necessary*](https://arch.b4k.co/vp/thread/51721194/)
+[**[8]** *MC forgets to take his schizo meds*](https://arch.b4k.co/vp/thread/51725311/)
+[**[9]** *%green%>Instagram ""influencer""%%*](https://arch.b4k.co/vp/thread/51730733/)
+[**[10]** *Trey intentionally doesn't take his schizo meds*](https://arch.b4k.co/vp/thread/51750632/)
+[**[11]** *oooo le spaceship*](https://arch.b4k.co/vp/thread/51760079/)
+[**[12]** *Filtered by walls of text*](https://arch.b4k.co/vp/thread/51810074/)
 
 ###->Opal<-
 !!! note

@@ -395,7 +395,7 @@ No, the tickets stack.
 You can save ur tickets until the last day and sweep the raid. You still need to clear it at least once, so don't be lazy.
 
 >Can I see my past raid rankings?
-[Yes.](https://i.imgur.com/VmVNcj3.png).
+[Yes](https://i.imgur.com/VmVNcj3.png).
 
 ## Joint Firing Drill/Joint Exercise 
 !!! Warning LOOK AT A YOUTUBE VIDEO

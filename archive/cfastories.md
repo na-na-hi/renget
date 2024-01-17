@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #49 (Tuesday, 09 January 2024, 08:30 UTC)<-
+->Last updated on thread #49 (Tuesday, 16 January 2024, 20:00 UTC)<-
 ->She's cute.<-
 
 == **LINKS**
@@ -17,6 +17,7 @@
 
 - [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
 - [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
+- [OBS Studio](https://obsproject.com/download) (Free screen recording software.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
@@ -616,6 +617,12 @@ It wasn't horrible, and the red beans and rice I ordered on the side was pretty 
 [![Popeyes's Spicy chicken sandwich: 1689985342650.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1689/98/1689985342650.jpg)
 
 ###Publix
+####62486436 Anonymous: Chicken Sub
+`Chicken Sub`
+Okay finally went to Publix and got that Chimken Sub.
+It was dry because it was sitting in the sunlamp for so long. No amount of mustard of melted cheese and onions would take away the dryness.
+9/11 - It's okay.
+
 ####61590196 Anonymous: Publix's Turkey Dinner
 `>PUBLIX TURKEY DINNER REVIEW`:
 If you're from the american south, particularly florida, you probably know Publix sells a good turkey dinner with all the fixes at a decent price. It's no $5 Costco rotisserie, but retailers price gouge this shit during Thanksgiving, so you'll take what you can get.

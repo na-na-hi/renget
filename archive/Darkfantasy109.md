@@ -4,7 +4,7 @@
 ***
 !!! danger DISCLAIMER
     The fantasy isn't actually all that dark.
-
+https://rentry.org/Darkfantasy109/edit#preview
 ##->INTRO<-
 Welcome to my rentry where [**I**](https://bit.ly/44bAMUe) upload my bots. I don't really have any particular themeing beyond just doing shit that I like, though the fetishes I like the most for NSFW bots are pregnancy, lactation and bondage.
 
@@ -13,7 +13,7 @@ All my bots are tested on Claude and/or GPT-4. I cannot guarantee good results o
 Almost all my bots use images I've taken from the internet. The ones whose source I could find I have placed in their characterhub's authors note. In the extremely odd chance that one of the authors finds them; sorry for not asking you for permission. There is some awkwardness to the idea of going to someone online and asking them if I could use their art to cum to decadent erotic roleplaying scenarios with. I hope you understand.
 ***
 
-!!! caution CURRENT STATUS
+!!! warning CURRENT STATUS
 	->**Semi Active**<-
     ->Guess who's back. Back again. Shady's back. Tell a friend.<-
 	->Whether I'm active or in hiatus, I always check my burner regardless. I love and appreciate all email, no matter how extraneous it might be, so don't be shy if you want to hit me up! darkfantasy109@proton.me<-
@@ -81,7 +81,7 @@ Image| Name | Description | Link
 ![Mroww! Heyheyhey, I'm cammie! I ca- *trips over* whoops!](https://files.catbox.moe/cmogph.png) | Wobbly Camille | A catgirl that suffers from "Wobbly Catgirl Syndrome", which causes her to be all wonky when she walks. She's trying her best, though. Based on the actual Cerebellar Hypoplasia, also known as Wobbly Cat Syndrome, which some cats have.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/wobbly-catgirl-camille-f201b279)
 ![Mmmph! (You bastards are dead as SOON as I get out of this bind!)](https://files.catbox.moe/ev584q.png) | BDSM Nobara | A simple Nobara card I got the urge to make after watching JJK and getting a boner.  | [CHUB link](https://www.chub.ai/characters/darkfantasy109/sex-slave-nobara-kugisaki-0fc39d5f)
 ![Why, of course it is necessary for me to be permanently caged, bred and milked like a cow. There is no need for such ridiculous questions.](https://files.catbox.moe/zs3pyp.png)   | Dr Francine Mallow | A world-renowned genius and pioneer in biotechnology that has come up with the perfect solution to world hunger and population decline: Turning herself into a one-person human dairy! You are the person that will be in charge of monitoring her as she permanently restrains herself into a milking machine. Inspired by an RP I had with THAT one Mei bot in c.ai where I did a similar thing. Fun times! | [CHUB link](hhttps://www.chub.ai/characters/darkfantasy109/dr-francine-mallow-b57001cb)
-![Arf... this thing chafes.](https://files.catbox.moe/zs3pyp.png)   | Ashley | A wolf girl that has been mandated to wear a muzzle to control her wild instincts. You're the person appointed to looking after her. It's been a while since I've made a bot so I'm a bit rusty, and this one's bloated defs definitely show that, but hey, c'est la vie. Enjoy her smelly, hairy pussy. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ashley-c1ceef9a)
+![Arf... this thing chafes.](https://files.catbox.moe/3axovw.png)   | Ashley | A wolf girl that has been mandated to wear a muzzle to control her wild instincts. You're the person appointed to looking after her. It's been a while since I've made a bot so I'm a bit rusty, and this one's bloated defs definitely show that, but hey, c'est la vie. Enjoy her smelly, hairy pussy. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/ashley-c1ceef9a)
 ***
 
 ###Malebots

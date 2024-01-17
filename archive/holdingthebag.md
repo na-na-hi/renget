@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 14th January. All dates dd/mm.
+!!! Note Last updated: 16th January. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -107,10 +107,6 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Open as of 14/01
-6488 | Kanimochi | Open as of 15/12
-6665 | F2Poor | Open as of 04/01
-10625 | Vrillionaires | Open as of 06/10
-11830 | TummyArchive | Open as of 29/11
 
 ##### Full
 Club ID | Club Name | Club Status
@@ -127,11 +123,16 @@ Club ID | Club Name | Club Status
 3640 | DFC | Full as of 10/11
 4342 | CuteNFunny | Full as of 03/04
 6294 | Lucklets | Full as of 12/04
+6488 | Kanimochi | Full as of 15/01
+6665 | F2Poor | Full as of 15/01
 6786 | Enuji | Full as of 30/09
 8192 | Mesugaki | Full as of 01/12
 8785 | Frogs | Full as of 21/11
 9425 | Squishables | Full as of 03/04
+10625 | Vrillionaires | Full as of 15/01
 11162 | VaniVitamins | Full as of 28/11
+10625 | Vrillionaires | Full as of 15/01
+11830 | TummyArchive | Full as of 15/01
 12395 | 中出しの幸せ (cumshot happiness) | Full as of 10/11
 
 ***
@@ -140,20 +141,20 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-477 | BunnyChasers | Open as of 08/12
-623 | Mesugaki | Open as of 28/10
 2115 | FunnyDorks | Open as of 08/12
 6098 | Comfy | Open as of 16/09
-6289 | FlatIsJustice | Open as of 05/12
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
 9 | Citrus | Full as of 29/11
+477 | BunnyChasers | Full as of 14/01
+623 | Mesugaki | Full as of 14/01
 1631 | CHADS | Full as of 04/09
 2267 | SpinHinaSpin | Full as of 31/07
 2496 | AbydosCycling | Full as of 15/12
 4722 | JointRaid | Full as of 03/02
+6289 | FlatIsJustice | Full as of 15/01
 
 ***
 

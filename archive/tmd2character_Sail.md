@@ -7,7 +7,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 11 | **Experience to Next Level:** 110/60
+**Level:** 13 | **Experience to Next Level:** 130/0
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 2,055₽ | **Glorious Gold:** 0 Bars
 
@@ -19,11 +19,11 @@ Hydration | The User is cured of Status Conditions each turn while in Rain.
 ->*355/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 0 | Level 9 (22HP) | 22HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
-Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
+Special Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 1 | Species Bonus; Special Defense **ɪ** | +3 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP

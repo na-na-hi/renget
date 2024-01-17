@@ -1,11 +1,11 @@
 ### -> /chastegen/ Lock Tracker <-
 
 ##### Some Suggestions when making a lock
-1. Keep the vote times reasonable to how long you want to be locked up. __When the thread is busy you can expect 5-10 votes per day if you share the lock in chastegen__.
+1. Keep the vote times reasonable to how long you want to be locked up. __When the thread is busy you can expect upwards of 10-15+ votes per day if you share the lock in chastegen__.
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 ##### Currently Tracked locks
-_(Updated 15-Jan-2024)_
+_(Updated 16-Jan-2024)_
 
 !!! note 
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -31,9 +31,11 @@ _(Updated 15-Jan-2024)_
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
-| Joyous | https://chaster.app/sessions/sQouXTXDBdZKDQxG | === |
 | Sissydenied | https://chaster.app/sessions/Cn7scvYnAQtI6hp5 | === |
 | sbjo | https://chaster.app/sessions/0paNFuoA4oivvg7u | === |
 | umbaqaduyevua | https://chaster.app/sessions/yF2393kuv7xoTVz2 | === |
+| jdumb | https://chaster.app/sessions/Spu3w3tOaP2dGkVa | === |
+| bovinelovely | https://chaster.app/sessions/14kCSs5ki68l5dbr | === |
+| jhonnyexampole | https://chaster.app/sessions/OOyto7RQkiMZC3Pl | === |
 |  |  |  |
 |  |  |  |

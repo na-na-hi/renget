@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 8 | **Experience to Next Level:** 55/80 | **Alignment:** Lawful Good
+**Level:** 10 | **Experience to Next Level:** 6/100 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 890₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -131,8 +131,8 @@ Item Name | Description
 ###### RP/Quest Storage (∞ slots)
 Type | Item Name | Description
 ------ | ------ | :----: 
-RP Item | Kick-Me Sign | A slip of paper with a Hitmonlee rune, indicating the reader should kick at its' location, given to Cubone by Mohka. Cubone seems to think it's a heartfelt gift.
-None  | None | None
+None | None | None
+None | None | None
 
 ***
 

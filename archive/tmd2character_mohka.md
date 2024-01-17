@@ -9,7 +9,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 9 | **Experience to Next Level:** 40/90
+**Level:** 11 | **Experience to Next Level:** 0/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 2220₽ | **Glorious Gold:** 0 Bars
 

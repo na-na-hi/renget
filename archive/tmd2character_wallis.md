@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 11 | **Experience to Next Level:** 10/110
+**Level:** 12 | **Experience to Next Level:** 55/120
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 1245₽ | **Glorious Gold:** 0 Bars
 
@@ -29,7 +29,7 @@ Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is incre
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Level 9 (21HP) | 23HP
+Health Points | 2 | Level 12 (22HP) | 26HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation

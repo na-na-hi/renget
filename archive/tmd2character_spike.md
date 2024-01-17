@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 11 | **Experience to Next Level:** 15/110
+**Level:** 12 | **Experience to Next Level:** 25/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
 
@@ -21,8 +21,8 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 10 (21HP) | 21HP
-Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
+Health Points | 0 | Level 12 (22HP) | 22HP
+Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -31,7 +31,7 @@ Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5 AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Leer | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Shadow Sneak | 4 BP | 5 (-1) AP | ≥2 | Ghost | Physical | Priority.
 Torment | - | 4 AP | ≥2 | Dark | Status | The Opponent is unable to use the same move in several times in succession.
 Scratch | 4 BP | 4 AP | ≥2 | Normal | Physical | No secondary effect.
 Hone Claws | - | 4 AP | - | Dark | Status | The User's Attack and Accuracy are increased by 1.
