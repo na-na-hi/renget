@@ -201,6 +201,7 @@
 10/2023|[AgentTuning: Enabling Generalized Agent Abilities for LLMs (AgentLM)](https://arxiv.org/abs/2310.12823)
 11/2023|[CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079)
 12/2023|[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
+01/2024|[APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding](https://arxiv.org/abs/2401.06761)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)
@@ -208,6 +209,7 @@
 03/2022|[CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
 04/2022|[GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745)
 11/2022|[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
+12/2022|[DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders](https://arxiv.org/abs/2212.11613)
 04/2023|[Visual Instruction Tuning (LLaVA)](https://arxiv.org/abs/2304.08485)
 05/2023|[StarCoder: May the source be with you!](https://arxiv.org/abs/2305.06161)
 05/2023|[CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309)
@@ -261,6 +263,7 @@
 01/2024|[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
 01/2024|[Mixtral of Experts](https://arxiv.org/abs/2401.04088)
 01/2024|[EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497)
+01/2024|[Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications](https://arxiv.org/abs/2401.06197)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -499,6 +502,7 @@
 01/2024|[Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118)
 01/2024|[Knowledge Translation: A New Pathway for Model Compression](https://arxiv.org/abs/2401.05772)
 01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
+01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

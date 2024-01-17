@@ -2,7 +2,7 @@
 ->![Draven's wife is very cute!](https://files.catbox.moe/r919mw.jpg)<-
 !!! note haha numbers go up
 ***
-Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry.
+Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink

@@ -15,17 +15,9 @@ https://www.youtube.com/watch?v=EOn_MGgOWYs
 https://www.youtube.com/watch?v=-UZ0n2Tqiyw
 https://www.youtube.com/watch?v=Ms5u_lXJIAA
 
-\>Ruan Mei Trailer — "In All Does Life Flow" 
-https://www.youtube.com/watch?v=xrovyt1awpk
-https://www.youtube.com/watch?v=pLWr1I9D5lA
+\>Current Character Banners: (Dr. Ratio, Kafka + Sushang, Natasha, Hook) - https://www.hoyolab.com/article/24375691
 
-\>Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms"
-https://www.youtube.com/watch?v=zLbGzCuxLy4
-https://www.youtube.com/watch?v=OZjpTFdJp0E
-
-\>Current Character Banners: (Ruan Mei, Blade + Xueyi, March 7th, Tingyun) - https://www.hoyolab.com/article/23851896
-
-\>Current Light Cone Banners: Past Self in Mirror (Harmony), The Unreachable Side (Destruction) - https://www.hoyolab.com/article/23851972
+\>Current Light Cone Banners: Baptism of Pure Thought (The Hunt), Patience Is All You Need (Nihility) - https://www.hoyolab.com/article/24375760
 
 \>New Drip Marketing:
 \>Black Swan (5\* Wind Nihility) - https://www.hoyolab.com/article/23554661

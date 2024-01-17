@@ -377,5 +377,6 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[End]** *Postgame discussion/Break thread for Wagie and I*](https://arch.b4k.co/vp/thread/55244556/)
 
 ###->Soulstones 2<-
-!!! warning
-	**Status: not started yet**
+!!! info
+	**Status: In Progress**
+[**[1]**](https://arch.b4k.co/vp/thread/55257552/)

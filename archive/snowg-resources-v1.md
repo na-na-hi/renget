@@ -18,7 +18,7 @@ Links | Description
 [Fandom Wiki](https://snowbreak.fandom.com/wiki/Reroll_Guide) | Reroll Guide
 [Snowbreak Containment Zone FAQ](https://docs.google.com/spreadsheets/d/1GZd1apK2h-3CfJBI1BbGGxr1y9pBmFN2NI-fDvjrbUk/htmlview) | FAQ & Glossary
 [Snowbreak Tier List](https://docs.google.com/document/d/144VwcpoCb_RDHgRbBkBaxMcReX7JDd7-RVXxevPUxec/edit) | Character Tier List 
-
+[Rentry](https://rentry.org/SnowbreakModdingTutorial) | Modding Guide
 
 ##Theorycrafting
 Links | Description

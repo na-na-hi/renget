@@ -130,7 +130,7 @@ SUGAR RATING: C. "Those card packs are kinda expensive, but I just can't shake t
 
 *"It's called a THEME, lazyboy. Something you're too hopeless to stick to - even your Demon Eyes are completely incoherent together!"*
 
-"Says the one making 'em even more inconsistent... Anyways, I guess Harupyon's on the lonely side. Maybe I'll ask her to go to a space museum sometime. Easy to see the only child syndrome in her eyes whenever she's being ignored... If I haaaaad to guess, she's probably in need of a reality check. You could drown her in friends and it wouldn't change anything about her core..."
+*Bleh.* Childishly, his tongue is stuck out at Yuki. "Says the one making 'em even more inconsistent... Anyways, I guess Harupyon's on the lonely side. Maybe I'll ask her to go to a space museum sometime. Easy to see the only child syndrome in her eyes whenever she's being ignored... If I haaaaad to guess, she's probably in need of a reality check. You could drown her in friends and it wouldn't change anything about her core..."
 
 *"That's rich coming from you, Mr. Rotten-Hearted."*
 
@@ -156,7 +156,13 @@ SUGAR RATING: D. "Kinda girl-crazy... I dunno how long I could keep up the femin
 
 >Hifumi Ishiku
 
-"Great chest. I used to use her streams to lull me to sleep all the time, but they've been less comfy lately... The vibe's all off. I get the feeling most of her viewers aren't tuning in just for the calming atmosphere... 
+"Great chest. I used to use her streams to lull me to sleep all the time, but they've been less comfy lately... The vibe's all off. I get the feeling most of her viewers aren't tuning in just for the calming atmosphere... Shame. I mean, I followed in the first place cuz of the cleavage too, but that's not why I *stayed*... Guess the public can be cruel like that."
+
+*"How come YOU'RE not streaming? It's basically free money."*
+
+He rubs at an eye.
+
+"... don't wanna go buy yoga pants, mostly. Hope she gets outta this slump, it'd suuuuck if I had to go find some ASMR streamer to get my cozy bedtime content routine back up to snuff... Can't tell if it's the audience drama or something in her real life that's spoiling stuff. I usually don't pry into personal details like that, I'm suuuuper considerate you know... She should probably be getting advice from me, now that I think about it... Even if I'm super jelly about the NEET stuff she has going on. Quid-pro-quo, maybe..."
 
 SUGAR RATING: C- "I bet she could probably squeeze me somewhere into her NEET budget with some penny pinching... Wouldn't mind if she squeezed me against her too."
 
@@ -165,6 +171,12 @@ SUGAR RATING: C- "I bet she could probably squeeze me somewhere into her NEET bu
 >Eiyu Isamu
 
 "*Hot guy detected! Always go muscular, ALWAYS! Hot over cute aaaaany day of the week, cute boys will ruin your* ***life!***"
+
+"Really...? I'll note that down... So normie guys are your type. For me, I dunno if I could ever be in a serious relationship with someone who doesn't know about all of this stuff, it just sounds like courting doom... Ah, but exploiting someone for their cash under the pretense of a relationship is totally fine, actually. Even better, since most cursed ones are poor as balls - like Mr. Normie here..."
+
+*"Hey, he's solidly middle class! It's YOUR standards for wealth that are all out of whack!"*
+
+Makoto rolls his eyes. "Be that as it may... Yu-chan might be normal, b, he myut he's not clueless. Any Hunter with two eyes could look at 'em and see that he's got a demon of his own clawing at his soul, though whether he's noticed is another kettle of sulfur entirely. Hope he wises up before anyone gets hurt, but maybe he's happier in the dark... Sometimes he drops by the club, he might be friends with one of the Hunters I think...? Hard to gauge, this one... I don't wanna risk getting shoved into a locker for asking for cash..."
 
 SUGAR RATING: C-. "Normie...? I don't wanna do sports. Nghghh..." 
 ***
@@ -206,12 +218,16 @@ SUGAR RATING: B-.
 SUGAR RATING: C.
 ***
 >Ikari Michita
+"... Loud..."
+
+A full minute passes in agonizing silence. 
+
 
 SUGAR RATING: F-
 ***
 >Aino Sasaki
 "... who?"
-SUGAR RATING: Secret SSR++ tier. What's she gonna do if Makoto takes her wallet, cry loudly? Get real.
+SUGAR RATING: Secret SSS++ tier. What's she gonna do if Makoto takes her wallet, cry loudly? Get real.
 ***
 >LUCIFER VLADIMIR TEPES DEATHUS DRAKUL DARKNESS
 "... who?"
@@ -220,3 +236,4 @@ SUGAR RATING: ???
 ***
 
 "Mmh... All this thinking's made me tired, maybe I'll just go take a nap instead..."
+*"Wait, so this whole thing was pointless?!"*

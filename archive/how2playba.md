@@ -285,11 +285,8 @@ T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest
 ##Farmable units 
 For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
 
-[Currently available units that you can farm](https://arch-img.b4k.co/vg/1679180130356.png) 
-As of 19/03/23 (DD/MM/YY) ((the way it was meant to be formatted)) 
-
 >What hard nodes should I farm?
-![hard nodes to farm](https://i.imgur.com/55LLbPe.png)
+![hard nodes to farm](https://files.catbox.moe/xaahdt.png)
 If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 
