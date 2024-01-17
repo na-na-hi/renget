@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*310/400 points to Normal Rank*<-
+->*365/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

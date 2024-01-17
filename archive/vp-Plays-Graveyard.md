@@ -55,6 +55,13 @@ https://arch.b4k.co/vp/thread/52133754/ 1 who needs tripcodes or pokemon with mo
 https://arch.b4k.co/vp/thread/52154492/ 2 jan's curse
 https://arch.b4k.co/vp/thread/52392835/ 3 and there goes the namefag
 
+###->More Musk one thread wonders<-
+!!! danger
+	During the Empire V8 threads
+[**[Soulstones]**](https://arch.b4k.co/vp/thread/51512140/)
+[**[Infinity]**](https://arch.b4k.co/vp/thread/51525904/)
+
+
 ###->Fused Dimensions<-
 !!! danger
 	After Xenoverse, before Opal

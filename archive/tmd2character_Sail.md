@@ -15,9 +15,9 @@ Pokémon's Ability | Description
 ---- | ----
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
-->Rookie Rank<-
-->*355/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*1200/10 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -31,10 +31,10 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Absorb | 2BP | 5AP | ≥2 | Grass | Special | Draining. Recoil damage is calculated for HP healed.
+Protect | 0BP | 4AP | - | Normal | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Dragon Breath | 6BP | 5AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with Paralysis.
 Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
-Acid Armor | 0BP | 4AP | -	 | 	Poison | Status | The User's Defense is increased by 2.
+Acid Armor | 0BP | 4AP | - | 	Poison | Status | The User's Defense is increased by 2.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -105,5 +105,5 @@ RP Item | Cyan Ink | Jar fill with cyan ink with some decoration painted on it.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Tackle | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect.
-Eᴍᴘᴛʏ | Description
+Tackle | No secondary effect.
+Absorb | Draining. Recoil damage is calculated for HP healed.

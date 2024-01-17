@@ -7,7 +7,7 @@
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Professional Distraction/Aspiring Tank?
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
 **Level:** 11 | **Experience to Next Level:** 0/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*

@@ -26,11 +26,11 @@
 	
 	>==+Mumei== - 
 	
-	>==『Mumei + Mumei』== - 09/03 - Added some videos at the bottom - [Here](https://rentry.org/5y2mt/#bottom-of-the-page)
+	>==『Mumei + Mumei』== - 01/16 - Added one video at the bottom - [Here](https://rentry.org/5y2mt/#bottom-of-the-page)
 	
-	>==MV==  - 09/03 - Added some videos at the bottom - [Here](https://rentry.org/daq7s/#bottom-of-the-page)
+	>==MV==  - 01/16 - Added one video at the bottom - [Here](https://rentry.org/daq7s/#bottom-of-the-page)
 	
-	>==Random== - 09/03 - Added some videos - [Here](https://rentry.org/66rsod)
+	>==Random== - 01/16 - Added some videos - [Here](https://rentry.org/66rsod)
 
 ***
 >>**Mega link to the vods for unarchived members karaoke**

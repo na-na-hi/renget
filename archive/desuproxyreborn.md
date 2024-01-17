@@ -36,4 +36,4 @@ Click 4chan X Settings:
 
 ![](desu)
 
-(no desu for you)
+[![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desdesdesuu)

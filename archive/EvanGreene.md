@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Contrary | The User's Stat increases and Stat decreases are swapped.
 
 ->Normal Rank<-
-->*15/1200 points to Bronze Rank*<-
+->*70/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+2) | Modifiers | Combat Effect

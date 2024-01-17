@@ -1047,6 +1047,8 @@ https://files.catbox.moe/nhxjx2.mp4 New  1/13/24
 https://files.catbox.moe/aa2vxu.mp4 New  1/13/24
 >Al-Qassam (Hamas) published a video showing its forces clash with IOF soldiers & their vehicles, in the Bureij camp in the central Gaza Strip.
 https://files.catbox.moe/7lm2sd.mp4 New  1/14/24
+>Al-Qassam (Hamas) double taps apc with a “Shawaz” explosive device AND an Al-Yassin 105 rocket
+https://files.catbox.moe/r79zrp.mp4 New  1/16/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1267,3 +1269,5 @@ https://files.catbox.moe/gw5kce.mp4 New  1/16/24
 https://files.catbox.moe/z95w13.mp4 New  1/16/24
 >"So, take notes butcher Biden. The ancestors of the Ireland that you claim to be from disown you. Keep our country out of your mouth." A strong speech by MEP Clare Daly.
 https://files.catbox.moe/lk23k2.mp4 New  1/16/24
+>Jaish al-Adl group positions in Pakistan  after being crushed by IRGC’s missiles and drones.
+https://files.catbox.moe/nisj64.mp4 New  1/16/24

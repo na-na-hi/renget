@@ -9,7 +9,7 @@ Name | Url
 ------ | ------
 notepad | https://files.catbox.moe/eqbly5.mp4
 ed | https://files.catbox.moe/87dd2l.mp4
-last stream | https://files.catbox.moe/b8gafo.mp4 / v2 - https://files.catbox.moe/pgqvf6.mp4
+last stream |  v1 - https://files.catbox.moe/b8gafo.mp4 / v2 - https://files.catbox.moe/pgqvf6.mp4
 A Cruel Angel's Thesis  |  https://files.catbox.moe/q2s2xz.mp4 / https://files.catbox.moe/ms3qil.mp4 /  https://files.catbox.moe/e5hhgt.mp4
 【HoloCouncil】 Hikaru Nara / 光るなら COVER | https://files.catbox.moe/lxubs7.mp4
 1985 - Bowling for Soup 『amv』| https://files.catbox.moe/pd6s7g.mp4
@@ -30,12 +30,15 @@ In The End - Linkin Park 『amv』| https://files.catbox.moe/c0jvpi.mp4
 My Immortal - Evanescence 『amv』| https://files.catbox.moe/uqdmz0.mp4
 How to Save a Life - The Fray 『amv』| https://files.catbox.moe/ivztw7.mp4
 The Middle - Jimmy Eat World 『amv』| https://files.catbox.moe/jj9lh4.mp4
-Can't move it move it anymore | https://files.catbox.moe/oif9i2.mp4 / v2 - https://files.catbox.moe/jlhwy6.mp4
+Can't move it move it anymore |  v1 - https://files.catbox.moe/oif9i2.mp4 / v2 - https://files.catbox.moe/jlhwy6.mp4
 Stacy's Mom - Fountains of Wayne 『amv』| https://files.catbox.moe/xgew7b.mp4
 Fuck You - CeeLo Green	『amv』| https://files.catbox.moe/000ww0.mp4
-watermelon | https://files.catbox.moe/hjts9j.mp4 / v2 - https://files.catbox.moe/yjximq.mp4
+watermelon |  v1 - https://files.catbox.moe/hjts9j.mp4 / v2 - https://files.catbox.moe/yjximq.mp4
 Always - Blink-182	『amv』| https://files.catbox.moe/z859jh.mp4
-==Added the videos below this== |
 Complicated - Avril Lavigne	『amv』| https://files.catbox.moe/afgh9f.mp4
-Mountain Dew - The Stanley Brothers 『Gochuumon』 | https://files.catbox.moe/aw5edc.mp4
-Angel - Sarah McLachlan | V1 - https://files.catbox.moe/jfq4ry.mp4 / V2 - https://files.catbox.moe/i2vffi.mp4
+Mountain Dew 『Gochuumon』 | https://files.catbox.moe/aw5edc.mp4
+Angel - Sarah McLachlan | v1 - https://files.catbox.moe/jfq4ry.mp4 / v2 - https://files.catbox.moe/i2vffi.mp4
+==Added the videos below this== |
+squidward on a chair | https://files.catbox.moe/u4gmjx.mp4
+Paint It, Black | https://files.catbox.moe/oonj2o.mp4
+Naraku no Hana - Eiko Shimamiya 『Higurashi S2 OP』| https://files.catbox.moe/m2vpdy.mp4 / Alt. https://files.catbox.moe/wzzfbd.mp4

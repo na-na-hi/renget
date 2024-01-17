@@ -37,5 +37,7 @@ _(Updated 16-Jan-2024)_
 | jdumb | https://chaster.app/sessions/Spu3w3tOaP2dGkVa | === |
 | bovinelovely | https://chaster.app/sessions/14kCSs5ki68l5dbr | === |
 | jhonnyexampole | https://chaster.app/sessions/OOyto7RQkiMZC3Pl | === |
+| programmingsocklover | https://chaster.app/sessions/B9wBKYqZ0UJmOARo | === |
+| bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
 |  |  |  |
 |  |  |  |

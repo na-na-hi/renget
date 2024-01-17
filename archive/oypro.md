@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 10 | **Experience to Next Level:** 83/100
+**Level:** 11 | **Experience to Next Level:** 83/110
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 470₽ | **Glorious Gold:** 0 Bars
 
@@ -16,9 +16,9 @@ Pokémon's Ability | 	Description
 ---- | ----
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
-->Rookie Rank<-
-->*415/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*70/1200 points to Normal Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -79,9 +79,9 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Candied Cakes | Boosts Evasion by 2 levels
+1. Oran Berry | Heals 10 HP
 2. Confuse Wand | Casts a spell to Confuse the target.
-3. Empty | A vacant inventory slot
+3. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 4. Empty | A vacant inventory slot
 
 **STORAGE (2 slots)**
@@ -90,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Empty | A vacant storage slot
+2. Blast Seed | Explodes on contact for 10 true damage.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.

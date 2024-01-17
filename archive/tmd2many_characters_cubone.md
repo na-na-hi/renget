@@ -38,7 +38,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 ***
 
 ->Rookie Rank<-
-->*175/400 points to Normal Rank*<-
+->*230/400 points to Normal Rank*<-
 ->![Some manner of merit badge..?](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***

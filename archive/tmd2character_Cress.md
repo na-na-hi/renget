@@ -7,7 +7,7 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 8 | **Experience to Next Level:** 50/80
+**Level:** 9 | **Experience to Next Level:** 76/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 425₽ | **Glorious Gold:** 0 Bars
 
@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Libero | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 2.
 
 ->Rookie Rank<-
-->*195/400 points to Normal Rank*<-
+->*250/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

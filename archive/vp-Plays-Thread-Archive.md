@@ -10,17 +10,17 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 ###->Rejuvenation V13<-
 !!! note
 	**Status: Complete**
-[**[1]**](https://arch.b4k.co/vp/thread/50331344/)
-[**[2]**](https://arch.b4k.co/vp/thread/50342282/)
-[**[3]**](https://arch.b4k.co/vp/thread/50354496/)
-[**[4]**](https://arch.b4k.co/vp/thread/50364170/)
-[**[5]**](https://arch.b4k.co/vp/thread/50383404/)
-[**[6]**](https://arch.b4k.co/vp/thread/50401026/)
-[**[7]**](https://arch.b4k.co/vp/thread/50411275/)
-[**[8]**](https://arch.b4k.co/vp/thread/50418067/)
-[**[9]**](https://arch.b4k.co/vp/thread/50428400/)
-[**[10]**](https://arch.b4k.co/vp/thread/50434058/)
-[**[11]**](https://arch.b4k.co/vp/thread/50451254/)
+[**[1]** *It's really beginning*](https://arch.b4k.co/vp/thread/50331344/)
+[**[2]** *%green%>Actually losing to Normal mode Keta1 with Fug and Swoobat on the team%%*](https://arch.b4k.co/vp/thread/50342282/)
+[**[3]** *Trip leaked*](https://arch.b4k.co/vp/thread/50354496/)
+[**[4]** *%green%>Filtered by Marianette's "puzzles"%%*](https://arch.b4k.co/vp/thread/50364170/)
+[**[5]** *Nothing happens*](https://arch.b4k.co/vp/thread/50383404/)
+[**[6]** *Aelita screentime*](https://arch.b4k.co/vp/thread/50401026/)
+[**[7]** *The Cuck seethes, nothing unusual*](https://arch.b4k.co/vp/thread/50411275/)
+[**[8]** *Why did we have to fight the Gyarados again?*](https://arch.b4k.co/vp/thread/50418067/)
+[**[9]** *Shitty prison chapter*](https://arch.b4k.co/vp/thread/50428400/)
+[**[10]** *bV1 shows just how much worse it was...*](https://arch.b4k.co/vp/thread/50434058/)
+[**[11]** *MILF*](https://arch.b4k.co/vp/thread/50451254/)
 [**[12]**](https://arch.b4k.co/vp/thread/50474615/)
 [**[13]**](https://arch.b4k.co/vp/thread/50477086/)
 [**[14]**](https://arch.b4k.co/vp/thread/50511233/)
@@ -80,23 +80,23 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[68]**](https://arch.b4k.co/vp/thread/51056753/)
 [**[69]**](https://arch.b4k.co/vp/thread/51133440/)
 
-###->Empire V8<-
+###->Empire V7<-
 !!! note
 	**Status: Completed**
-[**[1]**](https://arch.b4k.co/vp/thread/51366462/)
-[**[2]**](https://arch.b4k.co/vp/thread/51368760/)
-[**[3]**](https://arch.b4k.co/vp/thread/51375385/)
-[**[4]**](https://arch.b4k.co/vp/thread/51381408/)
-[**[5]**](https://arch.b4k.co/vp/thread/51387895/)
-[**[6]**](https://arch.b4k.co/vp/thread/51389528/)
-[**[7]**](https://arch.b4k.co/vp/thread/51409430/)
-[**[8]**](https://arch.b4k.co/vp/thread/51434427/)
-[**[9]**](https://arch.b4k.co/vp/thread/51443507/)
-[**[10]**](https://arch.b4k.co/vp/thread/51453058/)
-[**[11]**](https://arch.b4k.co/vp/thread/51471484/)
-[**[12]**](https://arch.b4k.co/vp/thread/51489300/)
-[**[13]**](https://arch.b4k.co/vp/thread/51868978/)
-[**[14]**](https://arch.b4k.co/vp/thread/51871975/)
+[**[1]** *Walls of text and Pokemon center fees, great start*](https://arch.b4k.co/vp/thread/51366462/)
+[**[2]** *Confirmed Sexo*](https://arch.b4k.co/vp/thread/51368760/)
+[**[3]** *Let the shit bosses begin*](https://arch.b4k.co/vp/thread/51375385/)
+[**[4]** *No, you can't hang out with Alanah, you have to do fetch quests*](https://arch.b4k.co/vp/thread/51381408/)
+[**[5]** *In fact, time to ship her away*](https://arch.b4k.co/vp/thread/51387895/)
+[**[6]** *Farm hell begins...*](https://arch.b4k.co/vp/thread/51389528/)
+[**[7]** *You WILL do all the shitty farm sidequests.*](https://arch.b4k.co/vp/thread/51409430/)
+[**[8]** *THE MAD BULL APPROACHES*](https://arch.b4k.co/vp/thread/51434427/)
+[**[9]** *Octavius' death fetish*](https://arch.b4k.co/vp/thread/51443507/)
+[**[10]** *MC's schizophrenia gets a lot worse*](https://arch.b4k.co/vp/thread/51453058/)
+[**[11]** *North's trial that end's in him getting curbstomped by the champion*](https://arch.b4k.co/vp/thread/51471484/)
+[**[12]** *Soren couldn't resist his desire to be the center of attention, gets stabbed*](https://arch.b4k.co/vp/thread/51489300/)
+[**[13]** *E8 released. Played during the early Opal threads*](https://arch.b4k.co/vp/thread/51868978/)
+[**[14]** *It's over (until the Multi LP)*](https://arch.b4k.co/vp/thread/51871975/)
 
 ###->Xenoverse<-
 !!! danger

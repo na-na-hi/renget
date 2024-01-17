@@ -156,7 +156,7 @@ One major improvement to be made is how images are captioned as part of training
 
 NAI's code from the 2022 leak indicates images were simply captioned with a subset of tags from the corresponding image on Danbooru, shuffled in a random order. This is why prompting currently only consists of providing a list of tags, and why outputs generally feel very "stiff" or sterile, or have trouble generalizing concepts or deassociating artist traits.
 
-Another major improvement would be sourcing images from websites beyond Danbooru (currently NAI's only source due to it's wealth of tagged data).
+Another major improvement would be sourcing images from websites beyond Danbooru (currently NAI's only source due to it's wealth of tagged data). No, not Gelbooru/Sankaku/another booru, but more general sources such as social media platforms or images ripped directly from media (anime/movies/game artwork/etc). Doing this at such a large scale of course relies on an incredibly knowledgable captioning tool to exist.
 
 The expectation is for at least one of these improvements to be implemented in V4, which will require a relearning of how users should write prompts.
 

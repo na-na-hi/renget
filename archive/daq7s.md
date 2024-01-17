@@ -11,7 +11,7 @@
 
 !!! info 
 	####->**Updates**<-
-	>09/03 - [Added some videos](https://rentry.org/daq7s#bottom-of-the-page)
+	>01/16 - [Added one video](https://rentry.org/daq7s#bottom-of-the-page)
 
 ***
 Name | Url | Alt Versions
@@ -118,7 +118,6 @@ I'm Your Treasure Box - Houshou Marine | https://files.catbox.moe/pr80iz.mp4 | D
 The Middle - Jimmy Eat World | https://files.catbox.moe/jlr47t.mp4
 Feel Good Inc - Gorillaz | https://files.catbox.moe/sbb1di.mp4
 Always - Blink-182	| https://files.catbox.moe/byjey2.mp4
-==Added the videos below this== |
 Stellar Stellar - Suisei | https://files.catbox.moe/fpkiwa.mp4
 Yeah! - Usher | https://files.catbox.moe/30j6nx.mp4
 Sweet Victory - Spongebob Squarepants | https://files.catbox.moe/wnfbcr.mp4
@@ -135,10 +134,10 @@ Eye of the Tiger - Survivor | https://files.catbox.moe/72apxw.mp4
 Airplanes - B.o.B | https://files.catbox.moe/0q1j4g.mp4
 Stay - The Kid Laro & Justin Bieber | https://files.catbox.moe/3gi6aj.mp4
 U Got It Bad - Usher | https://files.catbox.moe/hc78l5.mp4
+==Added the videos below this== |
+OTONABLUE - comparison | https://files.catbox.moe/6rp3o1.mp4
 
 ***
-
-
 
 ###->Bottom of the page<-
 ***

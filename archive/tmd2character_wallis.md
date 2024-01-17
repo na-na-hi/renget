@@ -17,17 +17,17 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 12 | **Experience to Next Level:** 55/120
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 1245₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 645₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
-->Rookie Rank<-
-->*365/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*70/1200 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 2 | Level 12 (22HP) | 26HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
@@ -54,7 +54,7 @@ Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatt
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 116 points to spend.
+    You have 136 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -118,3 +118,4 @@ Name of Move | Description
 Tackle | No secondary effect.
 Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
 Water Gun | No secondary effect.
+Protect | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.

@@ -16,7 +16,7 @@ Pokémon's Ability | Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*225/400 points to Normal Rank*<-
+->*280/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -75,8 +75,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Heals the user for 10HP.
-2. Oran Berry | Heals the user for 10HP.
+1. Eᴍᴘᴛʏ | Vacant inventory slot
+2. Eᴍᴘᴛʏ | Vacant inventory slot
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

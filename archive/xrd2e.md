@@ -1,6 +1,6 @@
 minecraft.vrg.party
 http://file.vrg.party/w/vrgcraft_1-20-1.zip - instance for importing into your launcher
-**link updated on 11/4**
+**link updated on 1/16/24**
 
 **How to install**
 	-Download the instance from the above link

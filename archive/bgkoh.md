@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 11 | **Experience to Next Level:** 15/110
+**Level:** 12 | **Experience to Next Level:** 15/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 559₽ | **Glorious Gold:** 0 Bars
 
@@ -21,18 +21,18 @@ Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increase
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 20HP
+Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 (+1) | Item bonus | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5AP
+Speed | 3 |  ɴᴏ ʙᴏɴᴜs | 6AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Fire Fang | 6 BP | 5 AP | ≥2 | Fire | Physical | 16-18; The Opponent is afflicted with Burn. 19-20; The Opponent Flinches.
-Growl | - | 4 AP | ≥2 | Normal | Status | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each. 
+Double Kick | 3 BP | 7 AP | ≥2 | Fighting | Physical | Hits twice.
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -80,7 +80,7 @@ Item Name | Description
 1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Bulwark Seed | Increases Defense and Special Defense by 2 stages.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
