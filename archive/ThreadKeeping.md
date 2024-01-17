@@ -112,6 +112,8 @@ Dollmaker's Paradise (Hinako Shimeki)
 rentry.org/8y8ra
 The Girl Inside My Head (Makoto Nagai, Yuki Kazama)
 https://rentry.org/ervx3
+>The Newest Library Patron (Amaryllis, Joji, Akari, and minor appearances of Aki, Komaru, and Yoru).
+https://rentry.org/DENewestPatron
 
 >Relationship Charts
 Makoto's Super Special Sugar Selection
@@ -511,7 +513,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-MHA is sharpening its pointy stick and waiting to ambush its next victim...!
+>Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel)
+https://rentry.org/qgzqgfy8
+>Brightly is Maidnapped
+>>91588066
+>Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
+https://rentry.org/PopsyB
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1082,6 +1089,12 @@ https://rentry.org/acnw3
 https://rentry.org/pe93w
 >The Other Side - C Part 2 (Arena, Orbit, Yamata)
 https://rentry.org/5oanb
+>Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel)
+https://rentry.org/qgzqgfy8
+>Brightly is Maidnapped
+>>91588066
+>Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
+https://rentry.org/PopsyB
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -59,4 +59,7 @@ You may sacrifice money, of any widely accepted currency, to halt the aging proc
 Allows you to summon saltwater from the sea, at a rate of 1 divinity per pound. This water is infused with your divinity, and can be manipulated freely by you.
 
 >Berserk (1):
-Increases all of your physical attributes, including durability, proportional to your rage. Additionally, deepens your anger when in use. Consumes divinity proportional to the strength of the authority’s manifestation
+Increases all of your physical attributes, including durability, proportional to your rage. Additionally, deepens your anger when in use. Consumes divinity proportional to the strength of the authority’s manifestation.
+
+>Specter's Wail (1):
+Releases an ear splitting scream. Causes inner ear damage at close ranges and inspires despair at long ones.

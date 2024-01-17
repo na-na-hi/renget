@@ -29,7 +29,7 @@ The Quest 2 is currently the cheapest new headset being sold, and can still be a
 Pico 4 can also be good budget option if it's easily available in your country. Loses out to the Quest 3 and Quest Pro, but it beats out the Quest 2 in specs, so if the price is low enough, it's a good alternative to that. Like a Quest, it can be used as a standalone headset or connected to a PC either wired and wireless through [Streaming Assistant](https://www.picoxr.com/global/software/pico-link) or [Virtual Desktop](https://www.vrdesktop.net/) to play PCVR games. Has pancake lenses like the Quest 3 and Pro, which are an improvement over what's available in the Quest 2, but has a significantly worse game selection if you're using it as a standalone headset. Built-in audio is disappointing, so you'll probably want to rig up some kind of external audio setup, which is slightly more difficult than a Quest since there's no 3.5mm audio jack.
 
 Pico 4 Pro adds face and eye tracking to the regular Pico 4, but is otherwise basically the same headset. Face and eye tracking also require you to use the Chinese firmware instead of global, which means you're stuck with Pico's official [Streaming Assistant](https://www.picoxr.com/global/software/pico-link) instead of Virtual Desktop. Notable mostly for being the cheapest way to get face and eye tracking if it's available in your country, but hard to recommend for most people.
-Review from an anon here: https://rentry.org/yw5mm
+Review from an anon here: https://rentry.org/tsewbomu
 
 PSVR 2, while better than the original, still has a fairly limited selection even compared to a standalone Quest and is pretty hard to recommend.
 

@@ -1,5 +1,35 @@
 ▶NEW CLIPS
+>Hohol hid in the pit of a toilet from mobilization
+https://files.catbox.moe/s4omnw.mp4
+>EVAC drone 'Brother'
+https://files.catbox.moe/b2mjfj.mp4
+>Zelensky at WEF: Western money and weapons are not enough
+https://files.catbox.moe/9crmwa.mp4
+>MRAP vanishing
+https://files.catbox.moe/g61fq4.mp4
+>Ukrainian FM: 'We will fight with shovels'
+https://files.catbox.moe/jwbz6t.MP4
+>HIMARS Struck (16 Dec. 2023)
+https://files.catbox.moe/c77p8a.mp4
+>Kremensk forest: AFU action camera
+https://files.catbox.moe/4dukrm.mp4
+>Stoltenberg, the chief Redditor: we shouldn't underestimate Russia
+https://files.catbox.moe/lnw25k.mp4
+>Ukrainian conscientious objector 3
+https://files.catbox.moe/wn2486.mp4
+>Estonian EU MP:"send Ukrainian men back to Ukraine"
+https://files.catbox.moe/urr5l0.mp4
+>Brutal Sparta drone footage [NOT COMFY]
+https://files.catbox.moe/7w1cuu.mp4
+>Russians clearing dugouts
+https://files.catbox.moe/ah2fns.mp4
+>Su-25 meets FPV drone
+https://files.catbox.moe/me8du5.MP4
+>Ukie women prepare for combat roles
+https://files.catbox.moe/7jly8k.mp4
 >Icy krinky assault gone wrong
+https://files.catbox.moe/k6frmk.mp4
+https://files.catbox.moe/4dmz0x.mp4
 https://files.catbox.moe/m508j1.mp4
 >Interior of Russian positions
 https://files.catbox.moe/tx83wz.mp4

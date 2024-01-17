@@ -1,5 +1,6 @@
 #/CGL/ Dutch thread
 !!! info Changelog
+    2024/01/17 - Expanded TBA/Missing list
 	2023/11/28 - Added long overdue information about comic cons and volunteering at conventions, listed organisers in calendar, removed 2023 calendar, updated the localisation files.
 	2023/11/27 - Added 2024 con list, added segment about for and non-profit conventions.
     2023/05/12 - Updated con list.
@@ -38,7 +39,6 @@ This convention calendar primarily focuses on Dutch and foreign events popular w
 #####Q3: July - September
 | **Date** | **Convention** | **Organiser** | **Info** |
 |---|---|---|---|
-| ??? July | [🇧🇪 Atsusacon](https://www.atsusacon.be) | Ganbaro VZW | Belgium’s second largest anime convention, taking place in Gent. |
 | ??? July | [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/) | Twilight Fantasy Productions | Fantasy event in Mondo Verde, Landgraaf |
 | 11-14 July | [🇫🇷 Japan Expo](https://www.japan-expo-paris.com/en/) | SEFA EVENT SASU | One of the largest anime conventions in Europe, hosted in Paris. Has gotten more popular with Dutch audiences. Understanding some French is highly recommended if you wish to attend. |
 | 1-4 August | [🇳🇱 Castlefest](https://castlefest.nl/nl) | Vana-events |  A(nother) large popular outdoor fantasy event in Haarzuilens with tons of great food. |
@@ -55,9 +55,12 @@ This convention calendar primarily focuses on Dutch and foreign events popular w
 | 2-3 November | [🇧🇪 FACTS](https://facts.be) | Heroes | A popular commercial geek convention in Ghent. |
 | 23-24 November | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/) | Heroes | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
 
-#####TBA
+#####TBA/Missing
 - [🇳🇱 Animecon Classic](https://animecon.nl/classic/nl/): Seems to have been axed, but no official statement has been made.
+- [🇧🇪 Atsusacon](https://www.atsusacon.be): Announced they will skip 2024 due to a lack of staff members and aim to return in 2025.
+- [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/): Haven't announced a date yet.
 - [🇳🇱 Imaginarium Festival](https://www.imaginarium-festival.nl/): A fantasy event that's currently undergoing a takeover to restructure themselves into a (non-profit) foundation with the goal to expand. Have stated they will return in 2024. [(source)](https://www.imaginarium-festival.nl/nieuws/52).
+- [🇳🇱 NishiCon](https://nishicon.nl): Are aiming for April 2024 after postponing their 2023 edition. No further details are available.
 - [🇳🇱 OpaTullyCon](https://www.youtube.com/watch?v=yqhKGBWvyqM): Exclusive convention for boomers.
 
 ####Other Convention stuff

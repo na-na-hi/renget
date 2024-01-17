@@ -15,9 +15,9 @@ Pokémon's Ability | Description
 ---- | ----
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
-->Rookie Rank<-
-->*415/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*70/1200 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -77,17 +77,16 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
-
+1. Blast Seed | Explodes on contact for 10 true damage.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+3. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

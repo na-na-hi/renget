@@ -10,20 +10,19 @@ For the 218th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>New covers
-Cover of Yuki no Hana - Nakashima Mika: https://www.youtube.com/watch?v=SPWsptIhKkM
-Advent group cover of BABYMETAL - MEGITSUNE: https://www.youtube.com/watch?v=OffTXFgbn7A
-
-\>New merch
-Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
-hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
+\>Cover of Nakashima Mika - Yuki no Hana
+https://www.youtube.com/watch?v=SPWsptIhKkM
 
 \>Streams
-Next stream: Advent karaoke relay (Fri 01/19 9:30 PM CT)
+Next stream: Thu 01/18
 Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
 https://www.youtube.com/watch?v=RhAMbkt35ps
 Last stream: Unarchived offcolab karaoke with Kiara
 https://mega.nz/folder/nG4iHSID#TaecwQ8wQc-u7hQANIXTpg
+
+\>New merch
+Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
+hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
 
 \>Songs
 Cover of SOS (Fuyuko Mayuzumi's Image Song)

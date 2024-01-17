@@ -65,10 +65,10 @@
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [AQLM](https://github.com/vahe1994/AQLM)|2/3/4bit weight additive quantization with lower perplexity compared to QuIP#/GPTQ/SpQR
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
-[ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for LLaMA2 with better results than WANDA or SparseGPT
+[ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
 |
 **Local LLM Research**|
-[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for LLaMa2 
+[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for llama2 
 [Activation-Beacon](https://github.com/FlagOpen/FlagEmbedding/tree/master/Long_LLM/activation_beacon)|Context extension by compressing raw activations through some minor additional training
 [DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
@@ -78,8 +78,8 @@
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
-[LLaMa Index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
-[LLaMa Hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
+[llama_index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
+[llama-hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
 [LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
 [Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
 [DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax

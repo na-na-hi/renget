@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-14==
+# /aicg/ chronicles, up to ==2024-01-17==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -986,11 +986,30 @@ When | Where | What
 2024-01-13|[98423584](https://desuarchive.org/g/thread/98422075#98423584)| bored anon sends password reset emails to CharacterHub users
 2024-01-13|[98424509](https://desuarchive.org/g/thread/98422075#98424509)| more fearmongering from Anthropic, what if llms become deceptive
 2024-01-13|[98426530](https://desuarchive.org/g/thread/98426312#98426530)| over 50 million characters on c\.ai
+2024-01-13|[1:48 AM](https://twitter.com/Schindler___/status/1745986132737769573)| autonomous AI for conversations demoed
 2024-01-14|[98436988](https://desuarchive.org/g/thread/98435927#98436988)| anon wonders why not waste time read lot word despite few word do trick
 2024-01-14|[98440233](https://desuarchive.org/g/thread/98438277#98440233)| sakura\.fm is brought up, insane prices laughed at
 2024-01-14|[98445596](https://desuarchive.org/g/thread/98443248#98445596)| ohmygpt\.com is brought up as a potential paid source, looks suspicious
 2024-01-14|[98446458](https://desuarchive.org/g/thread/98446117#98446458)| anon shares the finished network diagram of CharacterHub followers, visualizing relationships between botmakers
 2024-01-14|[98447903](https://desuarchive.org/g/thread/98446117#98447903)| first (?) OAI """GPT""" bot shilled
+2024-01-15|[98461632](https://desuarchive.org/g/thread/98460141#98461632)| hustler sells 100 messages GPT4 discord roleplay package
+2024-01-15|[98466300](https://desuarchive.org/g/thread/98465352#98466300)| anon showcases <ruby> elements use for furigana
+2024-01-15|[98467859](https://desuarchive.org/g/thread/98467731#98467859)| HF removes the way to learn space owner's email, HF insider's bait about higher ups noticing was truthy
+2024-01-15|[98468222](https://desuarchive.org/g/thread/98467731#98468222)| Njalla might be unreliable for proxies as well
+2024-01-15|[98470337](https://desuarchive.org/g/thread/98470286#98470337)| OAI adds new safety features in fear for the elections integrity
+2024-01-16|[98473175](https://desuarchive.org/g/thread/98470286#98473175)| a series of Q2 quants optimizations for llama.cpp allows to use a 70B model with 24GB VRAM and relative coherency
+2024-01-16|[98482495](https://desuarchive.org/g/thread/98478894#98482495)| anon isn't going to share his DALL-E 3 frontend...
+2024-01-16|[98482600](https://desuarchive.org/g/thread/98478894#98482600)| ... and shows how he rapes the API using it
+2024-01-16|[98489887](https://desuarchive.org/g/thread/98489211#98489887)| yet another VenusAI clone noticed
+2024-01-16|[98490059](https://desuarchive.org/g/thread/98489211#98490059)| AI models and hosting providers ranking shilled
+2024-01-17|[98495075](https://desuarchive.org/g/thread/98492152#98495075)| a list of free to use AI APIs and sites shared stealthily
+2024-01-17|[98496916](https://desuarchive.org/g/thread/98496082#98496916)| OAI allows to view per key usage metrics in the dashboard two weeks prior to the post
+2024-01-17|[98498811](https://desuarchive.org/g/thread/98496082#98498811)| venus\.chub\.ai offers Mixtral finetune to subscribers
+2024-01-17|[98499659](https://desuarchive.org/g/thread/98498884#98499659)| llm sampling explained yet again
+2024-01-17|[98505098](https://desuarchive.org/g/thread/98504011#98505098)| yodayo\.com doesn't cry about becoming filtered, anon speculates janitorai\.com will soon follow
+2024-01-17|[98506817](https://desuarchive.org/g/thread/98506522#98506817)| OAI is working with the Pentagon explaining recent military applications ban lift
+2024-01-17|[$JHf3OD](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$JHf3ODd27CxBwfC-uwq-NBxpGNUDJ0Wf9mzZPK34fmc?via=matrix.org&via=midov.pl&via=cutefunny.art)| Pyg subreddit drama resolved, originally fanmade becomes official, originally official hidden
+2024-01-17|[98507259](https://desuarchive.org/g/thread/98506522#98507259)| the page with DALL-E 3 images pulled from proxies is overhauled
 -|-|-
 
 [](you have found my secret stash of nothing!)
