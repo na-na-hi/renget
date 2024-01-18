@@ -508,6 +508,7 @@
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 38: A Symphony of Gunpowder, Pomu, and Resonance](https://docs.google.com/document/d/e/2PACX-1vRUMtceK0-jborPd5Xi6LpiMhOdpI2U8SOMJPjEMsiSipytmsOc9I98kMj_4317vb5qmUEkC5mxJj-s/pub) (Pomu, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 39: A Proper Instruction in Pirate Etiquette)](https://docs.google.com/document/d/e/2PACX-1vTrxHysV5he1PSD0btlZ3vCcWuPEDfP_Ql7eFhqRGlxMkn40J1bEgAyZqexGk3TiiqR84dS5hoowrX3/pub)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 40: A Costal Skirmish, the Campaign to Free Shallah Begins](https://docs.google.com/document/d/e/2PACX-1vS9gNMbW9EoGVCRZlcwynPY8KQtVZSbVkPsg2umRAkNQQJd7kOG4wzBXAsWBL3VChQ1ZCLVllXNY28j/pub) (Watame, Flare, Polka, Nene, Botan, SFW, Action/Adventure, Fantasy, Fluff)
+[HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 41: A Conflict In Full Swing, Keep Marching Onward](https://docs.google.com/document/d/e/2PACX-1vRoGHhe1GhgiMGuNt6mEoxPT1EZYEXVMKWlozJVs4JjsWEDMacqHFzd8TJnuR7qStIoHAQzcS63QNva/pub) (Watame, Flare, Polka, Nene, Botan, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys Bard Tales After Midnight: Pond-side With the Champion of Ursol](https://docs.google.com/document/d/e/2PACX-1vRkUA-F5n9N54gzm2-gukQFpkOenzcJ7tKagkPwk99dd1SPeXSu5WgZNyo4cL7hbkT6fyLPBYEx9cAH/pub) (Nene, NSFW)
 [HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
 
@@ -590,6 +591,8 @@
 [Blackbean Chapter 4](https://docs.google.com/document/d/e/2PACX-1vSmIDLIncIDZn8Cp8bObaT9KHSljsQzxrLRbx3nHazaip5EigKCtt4fhZdLccmI7tmf6PqKVX9WS0yJ/pub) (Towa, Botan, Watame, Shiori, Mio, Fubuki, Fantasy)
 [Blackbean Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQ-ZnsyLs-jm-5qWWeOKxOYXprky0o2VewzwPxc397ROw3u3eqJAAryzaze_zGdiqW1jKccyF7WsgpF/pub) (Towa, Botan, Mio, Fubuki, Fantasy)
 [Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
+[Blackbean Chapter 7](https://docs.google.com/document/d/e/2PACX-1vTGNmmtiZM4WGwTK6UE6zPpwOwl8_yAzYJNZdIPzhH1va0CeBJ_j13k9bnvmcxk-V6TKSZQcoOd_g9Z/pub) (Botan, Towa, Other Chuubas)
+[Blackbean Chapter 8](https://docs.google.com/document/d/e/2PACX-1vTFUT3b68Q2_BIyZJbIqO818tjJixf2kzSvDxOaFIl8em4DXieeMpJBhFJMlXfe70t7nzeoWWnjBDT2/pub)(Mio, Watame, Reine, Fumino Tamaki, FWMC, Lui, Ayame, fantasy, adventure)
 
 ##### -> Apple of Her Eye <-
 >Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.

@@ -265,6 +265,8 @@
 01/2024|[Mixtral of Experts](https://arxiv.org/abs/2401.04088)
 01/2024|[EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497)
 01/2024|[Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications](https://arxiv.org/abs/2401.06197)
+01/2024|[Scalable Pre-training of Large Autoregressive Image Models](https://arxiv.org/abs/2401.08541)
+01/2024|[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -504,6 +506,7 @@
 01/2024|[Knowledge Translation: A New Pathway for Model Compression](https://arxiv.org/abs/2401.05772)
 01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
 01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
+01/2024|[Extending LLMs' Context Window with 100 Samples](https://arxiv.org/abs/2401.07004)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

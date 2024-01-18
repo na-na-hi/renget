@@ -2,31 +2,16 @@
 
 ->![Funny](https://files.catbox.moe/jjv7te.png)<-
 
-## ->❄️[Recently added to the archive: 01/02/2024](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 01/18/2024](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
-->(***Series entry!***) [Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
-(***Series entry!***) [First Train and Kafka Stop Twenty Five: The Mousetrap Part One](https://docs.google.com/document/d/e/2PACX-1vQ2MpXHXtN1v94ahNqZJvA0RP0hZ7N4GvyC2dgnSi2pu9pLDiMINsN0LLFylHCC4QSaOyKkqIhTW6dC/pub) (Marine, NSFW, Grooming, Masturbation)
-(***Series entry!***) [Auntie's Little Secret: Redux](https://rentry.co/VTCFFSS#aunties-little-secret) (Fubuki, NSFW, Fluff, Grooming, Dark)
-[Homely Relief](https://rentry.org/vshcu) (Ookami Mio, NSFW, Fluff)
-[Mioracle Worker](https://docs.google.com/document/d/e/2PACX-1vRrJSM5Yo8KwWl4vsQYxTGwcc_NijJwGZc2FIXz3fdmfshTABZqO4q3Dd4344Y826H1LGFLIUGUpze9/pub) (Ookami Mio, Fluff, Hurt/Comfort)
-[A Miotastic Comfort](https://docs.google.com/document/d/e/2PACX-1vQXRwNlNkGUxGaML3eFG9K8mcBK5EeD8jnRWnbfQC7bj__3C_AVhx-GMNWykNUS_xmWXZlIpPJlUogP/pub) (Mio, NSFW, Fluff)
-[In which Korone beats her girlfriend's ass like a set of bongo drums](https://rentry.org/6x9haz) (Okayu, Korone, NSFW, Spanking)
-[Stacy Pacification](https://rentry.co/4qxy4d) (Suisei, Hoshikawa, Aqua, NSFW, Comedy, Greentext, Rivalry, Seduction, Under 5k)
-[Heaven, Hell and the USDA 1: Bottom on Bottom](https://rentry.org/HHatUSDA-1) (Towa, Kanata, Coco, NSFW)
-[Heaven, Hell and the USDA 2: Divine Intervention](https://rentry.org/HHatUSDA-2) (Towa, Kanata, Coco, NSFW)
-[Heaven, Hell, and the USDA 3: Fall and Rise](https://rentry.org/HHatUSDA-3) (Coco, Towa, Kanata, NSFW, BDSM)
-[Call of the Depths](https://docs.google.com/document/d/e/2PACX-1vStnbUPr7IbqS9a7mnLZkQcVDq4msxfnu9C3fIPMc-Ap2OO9GXzzXBjcdqzqi-VIOGJbSAWu7S4sqf_/pub) (Ame, Gura, Dark)
-[Bloody Knuckles](https://docs.google.com/document/d/e/2PACX-1vRpl_-xzzzd_zKhKHuin1W7yohNSlU5agrvXLvIeClxC94nMtQRUowg8tccojF5Su-t5hApy9QNftqX/pub) (Gura, SFW, Oneshot, Mental Illness, Self Destruction)
-[There Are Days That Last Forever](https://docs.google.com/document/d/e/2PACX-1vR3Fx6WkSppDfdZWvlhPUWiAWMQVgVHqX-ZON4tPr0hBYRsHgWrZLtaT-fiXp-InXFUiRJpg4Hge4mG/pub) (Towa, SFW, Fluff, Drama)
-[Fractured Night, Salvaged Night](https://docs.google.com/document/d/e/2PACX-1vSj6yWU8VmUutSSLm15OFv49EnABbYDkis8vYWkH5uEOpiPRBJCnZx_x0Txky2Z6DnN-soxnVpsaLlR/pub) (Iroha, SFW, Fluff, Christmas)
-[Kuro Christmas](https://docs.google.com/document/d/e/2PACX-1vTLL9O0hV2JGos0JZQqdKYrG3x8xPLTgWivGqKp_ufCQo1u_vkJK4GiCiTcCz5UgBrvX_sJO991Rqyg/pub) (Kurokami, SFW, Fluff)
-[Wait Till Midnight With Me](https://docs.google.com/document/d/e/2PACX-1vSRNFg7ZuBf6MgipmbkfE2fWYGQ6ahobXeXC8iahB--Z5gLvFyE9VrG1scNvh0l9TWQtxykbhQsi40k/pub) (Ina, SFW, Fluff)
-[Drunk On Christmas Spirit And Love](https://docs.google.com/document/d/e/2PACX-1vR5UXwe_pt_35avmbP3KouQ6skOyS3DfApLsVEUrAjZbIdkkRHVvOhYfG83oBOW09hpqeu5D0Dqru1l/pub) (Amelia, Kiara, SFW, Fluff)
-[Cooking and a Comet Epilogue - Azuki Beans in Rice](https://docs.google.com/document/d/e/2PACX-1vTw4KRgvKPhG2Q8MQlOiGYwBoxGTXU5KpePGwwkYw9r5vos0CpMc4JeU8AAMC5NvZXmkl5WGNmaZF2G/pub) (Suisei, SFW, Fluff, Married Life)
-[The Laws](https://docs.google.com/document/d/e/2PACX-1vS-yyxYyGhktO6xKvDHe0_gGJQ-DW1WLsIhBZfthdopUfcJ3UVeol8V3GeTKrCSdX4rs_Omyi-epKB3/pub) (Myth, Amelia, SFW, Sci-Fi, Character Death)
-[The Right One](https://docs.google.com/document/d/e/2PACX-1vTY3ue84TxXIQo34Vl75bF2w7gk7OMMpUeQBvBowOZEm-Mrlv8qvWhOXWPytkKgeYS_s6GP-YCPohRx/pub) (Mori, SFW, Fluff, Romance)
-[Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) (Botan, NSFW, /ss/, Anal, Furry(?), Parody)<-
+-> (***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 41: A Conflict In Full Swing, Keep Marching Onward](https://docs.google.com/document/d/e/2PACX-1vRoGHhe1GhgiMGuNt6mEoxPT1EZYEXVMKWlozJVs4JjsWEDMacqHFzd8TJnuR7qStIoHAQzcS63QNva/pub) (Watame, Flare, Polka, Nene, Botan, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+(***Series entry!***) [Blackbean Chapter 7](https://docs.google.com/document/d/e/2PACX-1vTGNmmtiZM4WGwTK6UE6zPpwOwl8_yAzYJNZdIPzhH1va0CeBJ_j13k9bnvmcxk-V6TKSZQcoOd_g9Z/pub) (Botan, Towa, Other Chuubas)
+(***Series entry!***) [Blackbean Chapter 8](https://docs.google.com/document/d/e/2PACX-1vTFUT3b68Q2_BIyZJbIqO818tjJixf2kzSvDxOaFIl8em4DXieeMpJBhFJMlXfe70t7nzeoWWnjBDT2/pub)(Mio, Watame, Reine, Fumino Tamaki, FWMC, Lui, Ayame, fantasy, adventure)
+[/wg/ Winter Writing War Collective](https://rentry.org/VTWRWWW) (Numerous Stories within, NSFW/SFW)
+[Shopping With Subaru](https://rentry.org/8dsae) (Subaru, SFW)
+[Karoake with IRys and Kronii](https://rentry.co/toriqndw) (IRyS, Kronii, NSFW)
+<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-

@@ -114,16 +114,20 @@ The Girl Inside My Head (Makoto Nagai, Yuki Kazama)
 https://rentry.org/ervx3
 >The Newest Library Patron (Amaryllis, Joji, Akari, and minor appearances of Aki, Komaru, and Yoru).
 https://rentry.org/DENewestPatron
+These High Times Are Killing Him (Aki Hitoyoshi, Amaryllis, Akari Ichioka, Lemon Amano, Makoto Nagai, Komaru Nishitani, Mithran Kuro, Mari Aozaki)
+https://rentry.org/snxixus7
 
 >Relationship Charts
-Makoto's Super Special Sugar Selection
-https://rentry.org/t7quhk
 Emilia Shadowsong
 https://rentry.org/itwvp
 Yoji Ryoshi
 https://rentry.org/DEyojichart
 Ikari's
 https://rentry.org/VeryAngryMan
+Haruhi's
+https://rentry.org/HaruhiChart
+Makoto's Super Special Sugar Selection (Updated!)
+https://rentry.org/t7quhk
 
 >Artfags
 Sloth and Gluttony Meetup
@@ -513,12 +517,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel)
-https://rentry.org/qgzqgfy8
->Brightly is Maidnapped
->>91588066
->Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
-https://rentry.org/PopsyB
+New Art:
+>Dance Team
+>>91600316
+>date
+>>91603225
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/

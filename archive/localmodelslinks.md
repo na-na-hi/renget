@@ -68,7 +68,7 @@
 [ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
 |
 **Local LLM Research**|
-[YaRN](https://github.com/jquesnelle/yarn)|Further improved compute efficient scaled RoPe method for llama2 
+[Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
 [Activation-Beacon](https://github.com/FlagOpen/FlagEmbedding/tree/master/Long_LLM/activation_beacon)|Context extension by compressing raw activations through some minor additional training
 [DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
@@ -92,6 +92,7 @@
 |
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
 [OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning with tone color and voice style manipulation
+[WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
@@ -104,6 +105,7 @@
 [EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
+[Vision Mamba](https://github.com/hustvl/Vim)|SSM architecture to enable efficient memory usage for high resolution vision tasks
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [CogVLM/Agent](https://github.com/THUDM/CogVLM)|Visual language model with GUI understanding for agent capabilities

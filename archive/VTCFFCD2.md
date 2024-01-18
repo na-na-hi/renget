@@ -63,3 +63,6 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [Little Red Riding Nene: Chapter 1](https://docs.google.com/document/d/e/2PACX-1vTpb3gFhcu-9_A2ECkzlOpWow2ntrgqCF5BQ_feDfaA6yG2_HCbIKjXt3x2RjxOh-If3PYXI68A6mJn/pub) (Botan, NSFW, /ss/, Anal, Furry(?), Parody)
 (***Series!***) [Auntie's Little Secret: Redux](https://rentry.co/VTCFFSS#aunties-little-secret) (Fubuki, NSFW, Fluff, Grooming, Dark)
 [Homely Relief](https://rentry.org/vshcu) (Ookami Mio, NSFW, Fluff)
+[/wg/ Winter Writing War Collective](https://rentry.org/VTWRWWW) (Numerous Stories within, NSFW/SFW)
+[Shopping With Subaru](https://rentry.org/8dsae) (Subaru, SFW)
+[Karoake with IRys and Kronii](https://rentry.co/toriqndw) (IRyS, Kronii, NSFW)

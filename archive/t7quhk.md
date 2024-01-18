@@ -38,7 +38,7 @@ Makoto rolls his eyes. "Be that as it may... Yu-chan might be normal, but he's h
 
 *"Go on. I'm sure this'll be riveting."*
 
-He grins, a little sheepishly. "Well, I get the feeling Emi-chan isn't the biggest member of the Makoto fanclub. Her loss... Or, uhm, gain...? Eh. I guess that name of hers is a little exotic, especially the surname, but maybe she's a hafu and foreign people are just called people like that... Don't wanna get called culturally insensitive, I'm on thin enough ice at school as-is... Maybe I'll just avoid her for a while, let her feelings towards me cool off a li'l..."
+He grins, a little sheepishly. "Well, I get the feeling Emi-chan isn't the biggest member of the Makoto fanclub. Her loss... Or, uhm, gain...? Eh. I guess that name of hers is a little exotic, especially the surname, but maybe she's a hafu and foreign people are just called like that... Don't wanna get called culturally insensitive, I'm on thin enough ice at school as-is... Maybe I'll just avoid her for a while, let her feelings towards me cool off a li'l..."
  
 *"Don't... Don't make me think about a whole fanclub for you. Nasty... Tch, now you've even got ME talking like you!"*
 
@@ -123,7 +123,7 @@ He rubs at an eye.
 ***
 >Yoru Heinard
 
-"I usually prefer cute to sexy, but somehow, we ended up as friends...? Or, uhm, it more feels like *I* ended up as *her* friend, instead of any other arrangement... Ru-chan's pushy like that. Plus, from how she keeps talking, she wants me to push me to do even more stuff, haaaaagh... I don't wanna go *that* far, don't try and make me into something scandalous, please... I've still got my pride as a man at the end of the day..."
+"I usually prefer cute to sexy, but somehow, we ended up as friends...? Or, uhm, it more feels like *I* ended up as *her* friend, instead of any other arrangement... Ru-chan's pushy like that. Plus, from how she keeps talking, she wants to push me to do even more stuff, haaaaagh... I don't wanna go *that* far, don't try and make me into something scandalous, please... I've still got my pride as a man at the end of the day..."
 
 *"Seriously?"*
 

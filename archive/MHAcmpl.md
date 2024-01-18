@@ -687,7 +687,7 @@ I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
 MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
 Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
-Sandatsu & Mio couple: https://desuarchive.org/tg/thread/91595699/#91603225
+Sandatsu & Mio Date: https://desuarchive.org/tg/thread/91595699/#91603225
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804

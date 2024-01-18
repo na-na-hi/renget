@@ -117,9 +117,9 @@
 - Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages.
 - [URL Safety Results](https://www.urlvoid.com/scan/dopebox.to/)
 
-### ▶️ [Dramacool](https://dramacool.cy/)
+### ▶️ [Dramacool](https://dramacool.com.pa/)
 - Online streaming of Asian dramas with English subtitles is available for free from China, Korea, Hong Kong, Taiwan, and Thailand.
-- [URL Safety Results](https://www.urlvoid.com/scan/dramacool.cy/)
+- [URL Safety Results](https://www.urlvoid.com/scan/dramacool.com.pa/)
 
 ### 🐐 [FMovies](https://fmoviesz.to/)
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.

@@ -3135,3 +3135,18 @@ Do not make the same mistake I did: only save the contents of the script, if you
 
 ### ComfyUI Buffer Nodes
 https://rentry.org/dgbfb
+
+### Sillytavern Character Sprites
+Piko
+https://files.catbox.moe/wqmnxv.rar
+
+Tomoko Kuroki
+https://files.catbox.moe/iyorf6.rar
+
+fay_spaniel
+https://files.catbox.moe/7jj4mz.rar
+
+Elora
+https://files.catbox.moe/kalun9.rar
+
+>Character sprites were made using Easyfluff v10 with character lora while using Control Net ((Reference only)) and changing the expressions for each sprites.

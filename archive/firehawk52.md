@@ -286,7 +286,7 @@ https://t.me/beatport_downloader_bot (thanks to Filosk)
 #### Deezer
 https://t.me/deezload2bot - ==ARLs== [see above](#deezer-arls)
 #### Napster
-_Temporary being fixed_ (thanks to TheKVT)
+https://t.me/napsterdl_bot (thanks to TheKVT)
 #### Tidal
 https://t.me/flacboxbot (thanks to udreamtoosmall)
 ***
