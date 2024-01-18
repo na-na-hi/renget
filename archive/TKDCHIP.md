@@ -1049,6 +1049,10 @@ https://files.catbox.moe/aa2vxu.mp4 New  1/13/24
 https://files.catbox.moe/7lm2sd.mp4 New  1/14/24
 >Al-Qassam (Hamas) double taps apc with a “Shawaz” explosive device AND an Al-Yassin 105 rocket
 https://files.catbox.moe/r79zrp.mp4 New  1/16/24
+>Al-Qassam (Hamas) published scenes showing mortar launches demolish the Zionist mobilizations in the areas of incursion into the Gaza Strip.
+https://files.catbox.moe/42mcr4.mp4 New  1/17/24
+>Al-Qassam targeting of a Merkava tank, east of the Bureij camp, with an Al-Yassin 105.
+https://files.catbox.moe/73666j.mp4 New  1/17/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1093,6 +1097,8 @@ https://files.catbox.moe/a34cag.mp4 New  1/9/24
 https://files.catbox.moe/pyg13d.mp4 New  1/12/24
 >Scenes from the joint operation carried out by fighters of the Al-Aqsa Brigades and the Al-Quds Brigades
 https://files.catbox.moe/9w28wq.mp4 New  1/13/24
+>Al-Quds Brigades (PIJ) published a new video showing its forces target military vehicles on the front lines in the northern Gaza Strip.
+https://files.catbox.moe/d4o0mp.mp4 New  1/17/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1271,3 +1277,15 @@ https://files.catbox.moe/z95w13.mp4 New  1/16/24
 https://files.catbox.moe/lk23k2.mp4 New  1/16/24
 >Jaish al-Adl group positions in Pakistan  after being crushed by IRGC’s missiles and drones.
 https://files.catbox.moe/nisj64.mp4 New  1/16/24
+>Iran’s FM Amir Abdollahian in the Davos Summit: We don’t tolerate terrorist presence in Pakistan & zionist presence in Erbil. We consider the security of Iraq and Pakistan as part of Iran's security.
+https://files.catbox.moe/ijvgjn.mp4 New  1/17/24
+>This is the state of mind when you kill too many children, What the hell did the psychological pressure do to ‘em
+https://files.catbox.moe/q5sahe.mp4 New  1/17/24
+>LEAKED FOOTAGE uploaded by a source close to Iranian & Iraqi resistance who’s exposing Zionist ties inside Iraq’s Kurdistan.
+https://files.catbox.moe/os9728.mp4 New  1/17/24
+>Al-Qassam (Hamas) published a video showing the recovery of the 2 seized Skylark drones, from Gaza City.
+https://files.catbox.moe/72365y.mp4 New  1/17/24
+>Tal Al Hawa used to be one of Gaza's most beautiful neighborhoods, where there were dozens of prestigious residential buildings.
+https://files.catbox.moe/c634hu.mp4 New  1/17/24
+>Heavy U.S. - U.K. airstrikes in Yemen taking place tonight, after the Houthis hit a US commercial ship a few hours ago.
+https://files.catbox.moe/uza8tn.mp4 New  1/17/24

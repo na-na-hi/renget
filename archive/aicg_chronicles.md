@@ -1010,6 +1010,7 @@ When | Where | What
 2024-01-17|[98506817](https://desuarchive.org/g/thread/98506522#98506817)| OAI is working with the Pentagon explaining recent military applications ban lift
 2024-01-17|[$JHf3OD](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$JHf3ODd27CxBwfC-uwq-NBxpGNUDJ0Wf9mzZPK34fmc?via=matrix.org&via=midov.pl&via=cutefunny.art)| Pyg subreddit drama resolved, originally fanmade becomes official, originally official hidden
 2024-01-17|[98507259](https://desuarchive.org/g/thread/98506522#98507259)| the page with DALL-E 3 images pulled from proxies is overhauled
+2024-01-17|[98509840](https://desuarchive.org/g/thread/98509623#98509840)| OAI boasts about GPT5 capabilities, and as long as it won't help kill gays, other cultures can customize it
 -|-|-
 
 [](you have found my secret stash of nothing!)

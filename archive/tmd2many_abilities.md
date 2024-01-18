@@ -143,7 +143,7 @@ Iron Fist | The User's Punching Moves have their damage increased by 3.
 Justified | When the User is hit by a Dark-Type Move, their Attack is increased by 1.
 Keen Eye | The User's Accuracy cannot be decreased. The Opponent's Evasion is ignored.
 Klutz | The User's Worn Item has no effect.
-Leaf Guard | While in Harsh Sunlight, the User is immune to Status Conditions.
+**Leaf Guard** | While in Harsh Sunlight, the User is immune to all Status Conditions.
 Levitate | The User is Raised.
 **Libero** | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 3. 
 Light Metal | The User is half as heavy as they normally would be. They also enjoy alternative rock.

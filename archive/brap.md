@@ -120,6 +120,10 @@ This is your main model that you'll be generating on. For anime-style art, I've 
 [Kotosmix](https://civitai.com/models/5245)
 [Thicker Lines](https://civitai.com/models/140359/)
 
+##### Extensions/Plugins
+
+There aren't any specifically necessary plugins required but some may help you in your generations. One that I definitely recommend installing however is [ADetailer.](https://github.com/Bing-su/adetailer.git) It's good for fixing certain details on your characters, especially the faces and the eyes in particular. Since I like to leave things automatically generating while I do other things with my time, I can also recommend installing the [Queue](https://github.com/Kryptortio/SDAtom-WebUi-client-queue-ext) extension so you can queue everything you plan to generate and just let it run in the background. Both of these extensions can be easily installed by copy pasting the links provided in the install instructions on their respective github pages into the "Install from URL" tab on the "Extensions" main tab. Extensions will usually require a restart in order to work.
+
 #### Step 4: Prompting and Generating
 
 ##### Prompt Settings:

@@ -2,14 +2,14 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 14/01/24: Union Raid Again? Edition**
+**Last updated: 17/01/24: Union Raid Again? Edition**
 
 ***
 
 ##Server: NA
 | Name     | ID            | Level | Members | Leader   | Join       | Reqs/Notes                      |
 | -------- | ------------- | ----- | ------- | -------- | ---------- | ------------------------------- |
-| NIKG     | ==**6459**==  | 6     | 32/32   | HELIOS   | PERMISSION |                                 |
+| NIKG     | ==**6459**==  | 6     | 32/32   | TAU   | PERMISSION |                                 |
 | MESUGAK1 | ==**4414**==  | 6     | 32/32   | CAEL     | PERMISSION |                                 |
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | PERMISSION       |                                 |
@@ -23,7 +23,7 @@
 | NIKKEKU  | ==**334**==   | 6     | 31/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 5     | 32/32   | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
-| ROBUTTZ  | ==**20186**== | 4    | 32/32   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
+| ROBUTTZ  | ==**20186**== | 4    | 28/32   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
 | UOH      | ==**1435**==  | -     | -       | -        | -          | Here lies cunny, grown too soon |
 
 ***
@@ -39,7 +39,7 @@
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB  | ==**29940**== | 5     | 32/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
+| KUNNYHUB  | ==**29940**== | 5     | 31/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
 | WANGERS  | ==**33386**== | 3     | 22/32   | SID | PERMISSION | Casual/newcuties welcome   |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 

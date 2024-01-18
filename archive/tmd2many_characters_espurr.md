@@ -76,7 +76,7 @@ None | N/A
 ***
 
 #### ->Special Bonuses<-
-!!! note 40 IQ points to spend.
+!!! note 59 IQ points to spend.
 	0/10 | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

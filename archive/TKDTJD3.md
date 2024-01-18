@@ -204,3 +204,268 @@ https://nitter.net/QudsNen/status/1747403926154969135#m  1/16/24
 >🏴‍☠Jaish al-Adl group positions in Pakistan  after being crushed by IRGC’s missiles and drones.
 https://twitter.com/Sprinter99800/status/1747382173542371615  1/16/24
 https://files.catbox.moe/nisj64.mp4  1/16/24
+
+>| Pakistan expels the Iranian Ambassador, who is currently in Tehran and recalled its ambassador in Iran until further notice.
+
+The Ministry of Foreign Affairs of Pakistan also insisted on its right to respond & they cancelled all high-level talks and bilateral trips planned between the two countries.
+https://t.me/FotrosResistance/4426  1/17/24
+
+ >The israeli army admits to the elimination of 2 officers yesterday in northern Gaza:
+
+🔻Master Sgt. (res.) Zechariah Pesach Haber, 32, of the 14th Armored Brigade's 87th Battalion.
+
+🔻Sgt. Maj. (res.) Yair Katz, 34, of the 14th Armored Brigade's 87th Battalion.
+https://t.me/FotrosResistance/4416  1/17/24
+
+ >Al-Qassam (Hamas)
+
+Targeted a Merkava tank & a D9-military bulldozer with Al-Yassin 105s, in the Al-Samin area, south of the city of Khan Yunis.
+https://t.me/FotrosResistance/4419  1/17/24
+
+>For the seventh consecutive day, all landline and mobile telecommunications remain cut off across the Gaza Strip as a result of the destruction of telecom lines by Israeli airstrikes and failure of the occupying forces to allow technical teams to conduct the necessary repairs.
+https://nitter.1d4.us/QudsNen/status/1747530523105190226#m  1/17/24
+
+>⚡️US Secretary of State Anthony Blinken : 
+
+There are Arab and Islamic countries that express their willingness to normalize relations with #Israel for the first time and recognize it
+
+Iran and its agents will find themselves isolated
+
+ We are not ready to make a decision on behalf of the #Palestinians and #Israelis
+
+ Any #Palestinian authority that does not find support from #Israel will not be able to provide what is required for the partnership between the two parties.
+https://nitter.net/ME_Observer_/status/1747559855458525649#m  1/17/24
+
+>| The israeli army announced the injury of 35 IOF soldiers in the last 24h. 17 of them were injured in the Gaza Strip.
+https://t.me/FotrosResistance/4429  1/17/24
+
+>⚡️Palestinian Ministry of Health: 
+
+The Zionist enemy committed 16 massacres in the #Gaza Strip, claiming 163 martyrs and 350 injuries during the past 24 hours
+https://nitter.net/ME_Observer_/status/1747558945525235987#m  1/17/24
+
+>⚡️⭕️ #Lebanon, Hezbollah, summary of military operations on Tuesday 1/16/2024, according to the following:
+
+- Eastern sector:
+
+1- At 14:00, the Al-Sammaqa site in the occupied Lebanese Shebaa Farms was targeted with missile weapons and was directly hit.
+2- At 15:30, targeting the perimeter of the settlements in the occupied area of ​​Nabi Yusha with appropriate missile launches as a response to the enemy’s attacks on the vicinity of the southern villages.
+3- At 16:20, the Bayad Blida site was targeted with appropriate weapons and was directly hit.
+
+- Western sector:
+
+1- At 10:45, a gathering of #Israeli enemy soldiers east of the Efen Menachem settlement was targeted with missile weapons.
+2- At 16:20, a gathering of #Israeli enemy soldiers in the vicinity of the Ramia site was targeted with appropriate weapons, and it was directly hit.
+3- At 18:20, the Hadab Al-Bustan site was targeted with Burkan missiles and was directly hit.
+https://nitter.net/ME_Observer_/status/1747474276872016263#m  1/17/24
+
+>| 🇮🇷 Iran’s FM Amir Abdollahian in the Davos Summit:
+
+We respect the sovereignty and territorial integrity of Pakistan & Iraq, but we won't allow Iran's security to be jeopardized. We don’t play when it comes to our national security.
+
+We don’t tolerate terrorist presence in Pakistan & zionist presence in Erbil. We consider the security of Iraq and Pakistan as part of Iran's security.
+https://t.me/FotrosResistance/4430  1/17/24
+https://files.catbox.moe/ijvgjn.mp4  1/17/24
+
+>BREAKING:
+
+🇮🇷⚡️🇵🇰 Iran FM speaking at the World Economic Forum annual meeting:
+
+"Our drones never targeted any place in the friendly, brother and neighboring country of Pakistan. Our target was the Jaish-al-Adl terrorist group, which resides in Iran-Pakistan's borders."
+https://t.me/megatron_ron/1172  1/17/24
+
+>Al-Qassam (Hamas) published scenes showing mortar launches demolish the Zionist mobilizations in the areas of incursion into the Gaza Strip.
+https://t.me/FotrosResistance/4433  1/17/24
+
+>⚡️Al-Qassam (Hamas) published scenes showing mortar launches demolish the Zionist mobilizations in the areas of incursion into the Gaza Strip.
+https://nitter.net/AryJeay/status/1747612140075102485#m  1/17/24
+https://files.catbox.moe/42mcr4.mp4  1/17/24
+
+>🛑 Al-Qassam (Hamas) announced in the last 15 minutes:
+
+🔻Completely destroying a Zionist engineering troop carrier.
+
+🔻Ambushing a special Zionist force inside a house northwest of Gaza City, followed by detonating an anti-personnel explosive device.
+https://nitter.net/AryJeay/status/1747616892708159678#m  1/17/24
+
+>This is the state of mind when you kill too many children
+https://nitter.net/AryJeay/status/1747571245355303307#m  1/17/24
+
+>What the hell did the psychological pressure do to ‘em
+https://nitter.net/AryJeay/status/1747569904633434623#m  1/17/24
+https://files.catbox.moe/q5sahe.mp4  1/17/24
+
+>⚡️Rabbi Yehuda Glick celebrates his grandson's birthday in the courtyards of Al-Aqsa, in light of the siege imposed by the occupation forces on the mosque, preventing thousands of #Palestinians from reaching it.
+https://nitter.net/ME_Observer_/status/1747588082415620316#m  1/17/24
+
+>Here’s another leaked photo of the commander of the MOSSAD Special Unit in the Kurdistan Region of Iraq carrying the Israeli TAR-21 multi-use weapon.
+https://nitter.net/AryJeay/status/1747633549203607700#m  1/17/24
+
+>The person left, sitting next to the MOSSAD commander, is the leader of the Kurdistan Freedom Party (PAK), Hossein Yazdan, who officially declares hostility to Iran and collaborates with Mossad to achieve the separation of Iranian Kurds from Iran with Israeli support through terrorist operations inside Iran, and he uses the Kurdistan Region of Iraq as his base and support.
+
+— It is worth mentioning that the Islamic Republic of Iran has openly and clearly warned the Iraqi authorities about the presence of these Israeli-supported terrorist organizations. The Iraqi authorities pledged to address the issue, and when they failed to fulfill their promises, the armed military bases affiliated with Yazdan were subjected to bombing and destruction in the Koya district, Altun Kubri district, and the village of Sarkiwizla in the Sulaymaniyah Governorate, northern Iraq. 
+
+The source stated that this is just a drop in the sea of terrorism harbored by the Kurdistan Region.
+https://nitter.net/AryJeay/status/1747637462246031511#m  1/17/24
+
+>During its ongoing raid into Tulkarm, Israeli forces destroyed roads and burnt pictures of victims and properties.
+https://nitter.1d4.us/QudsNen/status/1747633536339702237#m  1/17/24
+
+>BREAKING| Dozens of victims and injuries in Israeli strikes on houses at Al Nafaq Street in Gaza right now.
+https://nitter.1d4.us/QudsNen/status/1747634508759761363#m  1/17/24
+
+>BREAKING:
+
+🇮🇷 ⚡ 🇵🇰 Iran and Pakistan are burying the hatchet
+
+Iran's foreign minister had a telephone conversation with Pakistan's foreign minister
+
+Iran's foreign minister said that we respect Pakistan's sovereignty. Jaish ul Adl has used Pakistani territory several times to attack Iran
+
+The Pakistani foreign minister has urged Iran to provide intelligence. If any terrorists plan to attack Iran, and let the Pakistani army will deal with them.
+https://t.me/megatron_ron/1175  1/17/24
+
+>🛑| Al-Qassam Brigades (Hamas)
+
+Bombed the “Liman” military barracks in the Western Galilee in northern occupied Palestine with a volley of 20 rockets launched from southern Lebanon.
+https://nitter.net/AryJeay/status/1747645445524836780#m  1/17/24
+
+> 🇮🇱 Netanyahu threatens again with the fighter jets that massacred over 12,000 children
+
+Netanyahu at the air force base in Nabatim:
+
+"The war will continue until we complete all our goals."
+https://t.me/megatron_ron/1176  1/17/24
+
+>BREAKING| US State Dept. is announcing the designation of Ansarallah, commonly referred to as the Houthis, as a Specially Designated Global  Terrorist group, effective 30 days from today.
+https://nitter.1d4.us/QudsNen/status/1747648189262369151#m  1/17/24
+
+>🛑 LEAKED FOOTAGE uploaded by a source close to Iranian & Iraqi resistance who’s exposing Zionist ties inside Iraq’s Kurdistan.
+
+Video shows the commander of the Special Tasks Unit in the Israeli Mossad in the Kurdistan region, recruiting a citizen from northern Iraq. 
+
+This is part of their ongoing recruitment activities in the region, exploiting individuals for terrorist acts against central and southern Iraq and to target Iran.
+https://nitter.net/AryJeay/status/1747628022360944909#m  1/17/24
+https://files.catbox.moe/os9728.mp4  1/17/24
+
+>The Colombian president, in an interview with Al Jazeera, expressed his willingness to continue the legal steps taken by South Africa.
+https://nitter.1d4.us/QudsNen/status/1747651093356539983#m  1/17/24
+
+>⚡️Al-Qassam (Hamas) published a video showing the recovery of the 2 seized Skylark drones, from Gaza City.
+https://nitter.net/AryJeay/status/1747652398959476745#m  1/17/24
+https://files.catbox.moe/72365y.mp4  1/17/24
+
+>⚡️WATCH: Al-Quds Brigades (PIJ) published a new video showing its forces target military vehicles on the front lines in the northern Gaza Strip.
+https://nitter.net/AryJeay/status/1747655590573211745#m  1/17/24
+https://files.catbox.moe/d4o0mp.mp4  1/17/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published yet another video showing the targeting of a Merkava tank, east of the Bureij camp, with an Al-Yassin 105.
+https://nitter.net/AryJeay/status/1747658108795580612#m  1/17/24
+https://files.catbox.moe/73666j.mp4  1/17/24
+
+>🛑 Another LEAKED photo: The 10th chief of MOSSAD, Meir Dagan, and the head of the Kurdistan Democratic Party, Massoud Barzani, in a private meeting in Iraqi Kurdistan.
+https://nitter.net/AryJeay/status/1747667082932576311#m  1/17/24
+
+>🛑| 🇮🇷🇵🇰 The Pakistani army will begin a new military security campaign to enhance border security with the Islamic Republic of Iran.
+https://nitter.net/AryJeay/status/1747682572983808443#m  1/17/24
+
+>⚡️#Hamas :
+
+We condemn in the strongest terms Washington’s reclassification of Ansar Allah in #Yemen as a global terrorist movement
+
+- The American designation is a politicized decision, a blatant bias towards the occupation, and a clear attempt to give it cover to continue its aggression
+https://nitter.net/ME_Observer_/status/1747683150933749776#m  1/17/24
+
+>BREAKING| The Washington Post cites a senior US official, speaking on the condition of anonymity, as saying that “The Israeli government has not brought to the attention of the US government … any specific evidence of Hamas theft or diversion of assistance provided via the UN and its agencies. Full stop.”
+https://nitter.1d4.us/QudsNen/status/1747692987415503228#m  1/17/24
+
+>Israel's Netanyahu: To make clear so that no one will be mistaken, We will continue to fight on land, at sea, and in the air, until complete victory.
+https://nitter.1d4.us/QudsNen/status/1747681970425827504#m  1/17/24
+
+>Fares Souaid, a prominent Lebanese politician renowned for his massive intellect and strategic analysis, is saying that the only way to liberate Lebanese lands and regain full sovereignty is to disarm the resistance, this way, Israel will leave the occupied lands and if it dares to violate Lebanon, then Lebanon can go to the United Nations and say :
+
+"We are a victim and Israel attacked us" , and  will be protected by the UN .
+https://nitter.net/ME_Observer_/status/1747692055969644969#m  1/17/24
+
+>🚨🇾🇪 Preliminary reports of an attack against a ship south of Aden causing for the outbreak of a fire on the port side of the ship
+https://nitter.net/AryJeay/status/1747697898249207914#m  1/17/24
+
+>⚡️The judicial advisor to the occupation government decides to accept the proposal of the prosecution in #Jerusalem to charge the former Mufti of #Jerusalem, Ikrima Sabri, with “incitement and glorification of terrorists.” The final decision will be issued in the coming days.
+https://nitter.net/ME_Observer_/status/1747705100175384656#m  1/17/24
+
+ >🚨Preliminary reports of an explosion on the Iranian-Pakistani border
+
+The event is being verified.
+https://nitter.net/AryJeay/status/1747712899613680056#m  1/17/24
+
+>⚡️Al-Quds Brigades:
+ We targeted with a guided missile a gathering of enemy vehicles and soldiers in Jabal al-Rayyis, east of Jabalia.
+https://nitter.net/ME_Observer_/status/1747714449870311652#m  1/17/24
+
+>⚡️American official:
+
+A commercial ship owned by an American company was attacked from Houthi-controlled areas in #Yemen
+
+The attack hit the ship, and we cannot disclose the weapon used and any possible damage
+https://nitter.net/ME_Observer_/status/1747719099491512824#m  1/17/24
+
+>⚡️| 🇾🇪Statement issued by the Yemeni Armed Forces’ Spox Yahya Sarae:
+
+In response to the US-British aggression on our country, the Yemeni Naval Forces carried out an operation against the American ship "Jenko Picardi" in the Gulf of Aden with appropriate anti-ship missiles, resulting in accurate and direct hits.
+https://nitter.net/AryJeay/status/1747721605378097283#m  1/17/24
+
+>⚡️IOF Chief of Staff telling his soldiers in the North to prepare for war with #Lebanon, and that forces that retreated from #Gaza will help them
+
+The goal is to return the 230,000 settlers that fled from Hezbollah's strikes
+https://nitter.net/ME_Observer_/status/1747721288460689866#m  1/17/24
+
+>The designation of the Yemeni people as terrorists is being mocked by Yemenis on twitter
+https://nitter.net/ME_Observer_/status/1747730085585596653#m  1/17/24
+
+>🚨| BREAKING: An IOF vessel capsized in the middle of the sea - at least 7 soldiers were injured by swallowing fuel mixed with water.
+https://nitter.net/AryJeay/status/1747734438589370580#m  1/17/24
+
+>Tal Al Hawa used to be one of Gaza's most beautiful neighborhoods, where there were dozens of prestigious residential buildings. 
+
+Israel destroyed the neighborhood without any reason depriving hundreds of families from their homes.
+https://nitter.net/QudsNen/status/1747739061001822688#m  1/17/24
+https://files.catbox.moe/c634hu.mp4  1/17/24
+
+>🛑| 🇬🇧 The British government announced the killing of a British national during the Iranian missile bombing of MOSSAD assets in northern Iraq. 
+
+The Brit in question is “Karam Mikhael”
+https://nitter.net/AryJeay/status/1747747301156626547#m  1/17/24
+
+>⚡️Lebanese Foreign Minister Abdullah Bou Habib: 
+
+In the event of a war on Lebanon, missiles will fall everywhere in “Israel” and the war will turn into a regional one.
+https://nitter.net/ME_Observer_/status/1747737837410083058#m  1/17/24
+
+>🛑| 🇬🇧 According to a source, the British man, Karam Mikhael, was killed while he was at the MOSSAD building owned by Peshraw Dizayee, who worked in the israeli intelligence service under the cover of Al-Rayyan Company, which imports electrical appliances.
+https://nitter.net/AryJeay/status/1747750192193908784#m  1/17/24
+
+>🛑| NBC network, citing US officials:
+
+“Netanyahu will not be there forever.”
+
+The Biden administration is trying to prepare a new regime, with other Israeli leaders, after Netanyahu. 
+
+Blinken informed him that there is no military solution regarding Hamas, and israel must acknowledge that.
+https://nitter.net/AryJeay/status/1747761780028219804#m  1/17/24
+
+ >🇺🇸🇾🇪 Heavy U.S. - U.K. airstrikes in Yemen taking place tonight, after the Houthis hit a US commercial ship a few hours ago.
+https://t.me/megatron_ron/1186  1/17/24
+https://files.catbox.moe/uza8tn.mp4  1/17/24
+
+>🚨| 🇾🇪 Approximately half an hour ago heavy US-UK airstrikes in Yemen’s Hudaydah, Saada, and Dhamar took place. 
+
+According to a Yemeni military source, the US-UK aggression against Yemen aims to break the israeli naval blockade. However, Yemen will continue to target ships heading to isaeli ports no matter what.
+https://nitter.net/AryJeay/status/1747781529172934904#m  1/17/24
+https://files.catbox.moe/dh59hv.mp4  1/17/24
+
+>BREAKING| Scenes of the recent American-British strikes on several cities across Yemen.
+https://nitter.net/QudsNen/status/1747771667537871173#m  1/17/24
+https://files.catbox.moe/vy0w07.mp4  1/17/24
+
+>⚡️#Yemen: An official source to Al-Mayadeen: There is nothing new in the bombing of the American-British aggression tonight in terms of targets that were previously bombed.
+https://nitter.net/ME_Observer_/status/1747786203028505082#m  1/17/24

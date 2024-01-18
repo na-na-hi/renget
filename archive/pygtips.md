@@ -1,4 +1,5 @@
 #Pygmalion Tips
+#I apologize for what I have wrought upon this world. Please forgive me. W++ is no longer good or needed. Do not use it.
 #####->Written and Maintained by YuriFag<-
 ->This rentry will focus on tips and information for getting better responses and personalities out of your characters.<-
 [TOC]

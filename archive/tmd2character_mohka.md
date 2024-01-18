@@ -18,7 +18,7 @@ Pokémon's Ability | Description
 Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Rookie Rank<-
-->*305/400 points to Normal Rank*<-
+->*360/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
