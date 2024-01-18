@@ -7,16 +7,16 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 9 | **Experience to Next Level:** 30/90
+**Level:** 10 | **Experience to Next Level:** 60/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 496₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1346₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least ≥11 against the user.
 
 ->Rookie Rank<-
-->*40/400 points to Normal Rank*<-
+->*???/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -90,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Sky Gummi | Sky Gummi.
-2. Brown Gummi | Brown Gummi.
+2. Empty | Empty.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

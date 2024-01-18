@@ -118,6 +118,16 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 	* **Lv 4** - ***Hype Up*** - Active - *40 Drive* - [FN] Remove a Condition from the Target and increase their Drive by 4d6+PRE. If they have no Conditions after this, Apply [Regen] (2t) to that unit.
 	* **Lv 5** - ***Ritualism*** - Passive - *No Cost* - Once per turn, during your turn, you can use an Active ability for only half of its Drive cost, but if you do, it does not take effect until the end of your next turn.
 
+##### Roca Rourin
+* **Nature** - Devil; Dutch
+* **Origin** - Endless
+* *Abilities:*
+	* **Lv 1** - ***Catalyst (Song)*** - Weapon - *No Cost* - Creates a weapon that deals FOR Sound damage to all foes.
+	* **Lv 2** - ***Devil's Dance*** - Active - *40 Drive* - Apply [Evasion] (2t) to yourself. If this Evasion successfully activates, +1 AS on your next turn (you can only get +1 AS this way per round).
+	* **Lv 3** - ***Echoing Thunder*** - Passive - *No Cost* - When one or more units take Sound damage from an ability you use, deal 1d4 Lightning damage to those unit(s).
+	* **Lv 4** - ***Backbeat*** - Passive - *No Cost* - When one or more units take Sound damage from an ability you use, all allies in the same zone as you gain 3 Drive for each unit that took Sound damage.
+	* **Lv 5** - ***Rhythm Casting*** - Passive - *No Cost* - When you use an Active ability, reduce that ability's Drive cost by 2 for each unit that has taken Sound damage from you since the end of your last turn.
+
 ##### Selen Tatsuki
 * **Nature** - Dragon
 * **Origin** - Obsydia; NijiCancelled
@@ -132,6 +142,7 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 ## Conditions
 * ***Bleed*** - When the unit uses an Active ability (Move doesn't count), they lose 1d4 Drive.
 * ***Darkburn*** - At the start of the unit's turn, their Base Drive is decreased by 1d10. If their current Drive is greater than or equal to their Base Drive, they also lose Drive equal to that same amount.
+* ***Evasion*** - When you would take damage from another unit's Active ability, there is a 20% chance you take 0 damage instead. For each additional instance of this condition you have, increase the % chance by another 20%, instead of rolling the chance multiple times.
 * ***Regen*** - At the start of the unit's turn, their Drive is increased by 1d12. If their current Drive is greater than or equal to their Base Drive, this is reduced to 1d6.
 
 ## Patch Notes
@@ -139,3 +150,5 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 * Added Pomu Rainpuff as an Install
 * Added Regen as a Condition.
 * Changed one of Ninomae Ina'nis' Natures from "Artist" to "Illustrator".
+* Added Roca Rourin as an Install
+* Added Evasion as a Condition.

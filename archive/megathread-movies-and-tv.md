@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oRoxgN.png) <-
+-> ![](https://a.imagem.app/oMU2yy.png) <-
 
 # 🎦 ➜ [Megathread](https://rentry.co/megathread) / **Movies & TV**
  
@@ -41,10 +41,6 @@
 - A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
 - [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
 
-### 🔗 [Dhokla](https://dhokla.net/) / [2](https://na1.dhokla.net) / [3](https://nl1.dhokla.net) / [4](https://vadapav.mov)
-- No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
-- [URL Safety Results](https://www.urlvoid.com/scan/dhokla.net/)
-
 ### 🔗 [Dramaday](https://dramaday.me/)
 - Concentrate on downloading the newest Korean dramas as is original soundtracks.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
@@ -72,6 +68,10 @@
 ### 🔗 [UHDMovies](https://uhdmovies.vip/)
 - Using some of the greatest file servers, you can download a tonne of excellent movies and TV series at dizzying speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/uhdmovies.vip/)
+
+### 🔗 [Vadapav](https://vadapav.mov)
+- No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
+- [URL Safety Results](https://www.urlvoid.com/scan/vadapav.mov/)
 
 ### 🔗 [YourSerie](https://www.yourserie.com/)
 - Excellent resource in an effort to give movies and TV shows, particularly in regions where access to streaming services do not exist.

@@ -99,7 +99,7 @@ Item Name | Description
 Type | Item Name | Description
 	------ | ------ | :----:
 	Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-	RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+	Scroll | Dark Type Chart | A chart made by Ishmael to help with understanding Dark type advantages and weaknesses
 	
 **OLD MOVES (∞ slots)**
 	These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

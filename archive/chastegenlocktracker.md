@@ -41,5 +41,6 @@ _(Updated 17-Jan-2024)_
 | bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
 | Joyous | https://chaster.app/sessions/xOU5DeyOMrELdfO4 | === |
+| l0ss | https://chaster.app/sessions/d4Ne5tboYqlru3Js | === |
 |  |  |  |
 |  |  |  |

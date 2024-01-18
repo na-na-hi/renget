@@ -49,14 +49,14 @@ Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%
 
 ---
  
-##[Anny](https://www.twitch.tv/anny) - [Discontinued]
+##[Anny](https://www.twitch.tv/anny) 
 Content|Link|Description 
 -------|-------|------- 
 Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
 
 ---
 
-##[Vei](https://www.twitch.tv/vei) - [Discontinued]
+##[Vei](https://www.twitch.tv/vei)
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@veibaevods)|
@@ -64,7 +64,7 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 
 ---
 
-##[Girl DM](https://www.twitch.tv/girl_dm_) - [Discontinued]
+##[Girl DM](https://www.twitch.tv/girl_dm_) 
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
@@ -82,7 +82,7 @@ Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEw
 
 ---
 
-##[Moriko Kyoho](https://www.twitch.tv/batatvideogames) - [Discontinued] 
+##[Moriko Kyoho](https://www.twitch.tv/batatvideogames) 
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
@@ -91,7 +91,7 @@ Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!
 
 ---
 
-##[Meiya](https://www.twitch.tv/meiya) - [Discontinued]
+##[Meiya](https://www.twitch.tv/meiya) 
 Content|Link|Description 
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya

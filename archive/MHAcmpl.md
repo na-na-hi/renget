@@ -647,6 +647,8 @@ A Quiet Christmas Night(Inigo, Maru(maru)): https://desuarchive.org/tg/thread/91
 jugorush2: https://desuarchive.org/tg/post/91491455/
 Swordrush(Hifumi): https://desuarchive.org/tg/post/91495404/
 Hoge's First Sleepover: https://desuarchive.org/tg/post/91511133/
+Class1D-005: https://desuarchive.org/tg/thread/91586719/#91591198
+1D Dance Team (Colorized): https://desuarchive.org/tg/thread/91595699/#91600316
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -685,6 +687,7 @@ I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
 MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
 Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
+Sandatsu & Mio couple: https://desuarchive.org/tg/thread/91595699/#91603225
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -1035,6 +1038,10 @@ Brightly Interview: https://desuarchive.org/tg/post/91503507/
 Cyber Bulling a Pro Hero (Rosethorn, Viperous Vexer): https://desuarchive.org/tg/post/91506924/
 The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang): https://rentry.org/pe93w
 The Other Side - C Part 2 (Arena, Orbit, Yamata): https://rentry.org/5oanb
+Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel): https://rentry.org/qgzqgfy8
+Brightly is Maidnapped: https://desuarchive.org/tg/post/91588066/
+Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko): https://rentry.org/PopsyB
+
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

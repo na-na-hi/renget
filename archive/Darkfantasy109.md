@@ -4,7 +4,7 @@
 ***
 !!! danger DISCLAIMER
     The fantasy isn't actually all that dark.
-https://rentry.org/Darkfantasy109/edit#preview
+
 ##->INTRO<-
 Welcome to my rentry where [**I**](https://bit.ly/44bAMUe) upload my bots. I don't really have any particular themeing beyond just doing shit that I like, though the fetishes I like the most for NSFW bots are pregnancy, lactation and bondage.
 
